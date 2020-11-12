@@ -1,0 +1,14 @@
+kwMainErr
+bodyErr1
+kwReturnsErr
+bodyErr2
+colonErr4
+stmtsErr1
+EqErr1
+parRErr1
+stmtsErr3
+stmtsErr4
+stmtsErr5
+kwOtherwiseErr
+stmtsErr6
+parRErr2

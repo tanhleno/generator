@@ -5,7 +5,7 @@ local recovery = require 'pegparser.recovery'
 local ast = require'pegparser.ast'
 local util = require 'pegparser.util'
 
-local s = [[
+s = [[
     prog     <- 'program' ID ':' fdef* 'main' ':' body
     fdef     <- ID ':' 'takes' vdecl (';' vdecl)* 'returns' (type / 'nothing') body
     vdecl    <- ID (',' ID)* ':' type
@@ -15,25 +15,26 @@ local s = [[
     stmts    <- 'chillax' / stmt (';' stmt)*
     stmt     <- assign / call / return / input / output / case / loop
     assign   <- 'let' ID ('[' simple ']')? '=' (expr / 'array' simple)
-    call     <- 'do' ID (expr (',' expr)*)
+    call     <- 'do' ID '(' expr (',' expr)* ')'
     return   <- 'pop' expr?
     input    <- 'input' ID ('[' simple ']')?
     output   <- 'output' (STRING / expr) ('.' (STRING / expr))*
-    case     <- 'when' ('case' expr ':' stmts 'end')+ ('otherwise' ':' stmts 'end')?
+    case     <- 'when' 'case' expr ':' stmts 'end' ('case' expr ':' stmts 'end')*
+                ('otherwise' ':' stmts 'end')?
     loop     <- 'while' expr ':' stmts 'end'
-    expr     <- simple (relop simple)?
-    relop    <- '=' / '>=' / '>' / '<=' / '<' / '/='
-    simple   <- '-'? term (addop term)*
-    addop    <- '-' / 'or' / '+'
-    term     <- factor (mulop factor)*
-    mulop    <- 'and' / '/' / '*' / 'rem'
+    expr     <- simple (RELOP simple)?
+    simple   <- '-'? term (ADDOP term)*
+    term     <- factor (MULOP factor)*
     factor   <- ID ('[' simple ']' / '(' expr (',' expr)* ')')? / 
                 NUM / '(' expr ')' / 'not' factor / 'true' / 'false'
 
+    RELOP    <- '=' / '>=' / '>' / '<=' / '<' / '/='
+    ADDOP    <- '-' / 'or' / '+'
+    MULOP    <- 'and' / '/' / '*' / 'rem'
     RESERVED <- ('program' / 'main' / 'takes' / 'returns' / 'nothing' / 'boolean' /
                  'integer' / 'array' / 'end' / 'chillax' / 'let' / 'do' / 'pop' /
                  'input' / 'output' / 'when' / 'case' / 'while' / 'or' / 'and' /
-                 'rem' / 'not' / 'true' / 'false') ![a-zA-Z_]
+                 'rem' / 'not' / 'true' / 'false') ![a-zA-Z_0-9]
     ID       <- !RESERVED [a-zA-Z_] [a-zA-Z_0-9]*
     NUM      <- [0-9]+
     STRING   <- '"' ([a-zA-Z_0-9 !#-/:-?] / '\' [nt"\])* '"'

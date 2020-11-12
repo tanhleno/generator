@@ -1,0 +1,9 @@
+program void:
+
+null: takes n: boolean; m: boolean
+    chillax
+end
+
+main:
+    chillax
+end

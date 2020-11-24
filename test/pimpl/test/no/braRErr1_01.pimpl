@@ -1,5 +1,0 @@
-program void:
-
-main:
-    let vector 0] = 1
-end

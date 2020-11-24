@@ -1,9 +1,0 @@
-program void:
-
-null: takes n: boolean returns
-    chillax
-end
-
-main:
-    chillax
-end

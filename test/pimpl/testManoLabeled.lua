@@ -7,4 +7,4 @@ if arg[1] then
 end
 
 util.testYes(dir .. '/yes/', 'pimpl', pimplmano)
-util.testNo(dir .. '/no/', 'pimpl', pimplmano)
+util.testNo(dir .. '/no/', 'pimpl', pimplmano, true)

@@ -5,7 +5,7 @@ local recovery = require 'pegparser.recovery'
 local ast = require'pegparser.ast'
 local util = require 'pegparser.util'
 
--- (fdef / !'main' %{fdefErr})* 'main'^kwMainErr is a loop?
+
 local s = [[
     prog     <- 'program'^kwProgramErr ID^idProgErr ':'^colonErr1 
                 (fdef / !'main' %{fdefErr})* 'main'^kwMainErr ':'^colonErr2 body^bodyErr1
@@ -33,7 +33,7 @@ local s = [[
     input    <- 'input' ID^idInputErr ('[' simple^simpleErr3 ']'^braRErr2 /
                 !(';' / 'end' / !.) %{braLErr2})?
     output   <- 'output' (STRING / expr)^valueErr2 ('.' (STRING / expr)^valueErr3 /
-                !(';' / 'end' / !.) %{dotErr1})*
+                !(';' / 'end' / !.) %{dotErr})*
     case     <- 'when' 'case'^kwCaseErr1 expr^exprErr4 ':'^colonErr5 stmts^stmtsErr3 'end'^endErr2
                 ('case' expr^exprErr5 ':'^colonErr6 stmts^stmtsErr4 'end'^endErr3 /
                 !(';' / 'end' / 'otherwise' / !.) %{kwCaseErr2})*
@@ -54,7 +54,7 @@ local s = [[
     RESERVED <- ('program' / 'main' / 'takes' / 'returns' / 'nothing' / 'boolean' /
                  'integer' / 'array' / 'end' / 'chillax' / 'let' / 'do' / 'pop' /
                  'input' / 'output' / 'when' / 'case' / 'while' / 'or' / 'and' /
-                 'rem' / 'not' / 'true' / 'false') ![a-zA-Z_]
+                 'rem' / 'not' / 'true' / 'false' / 'otherwise') ![a-zA-Z_]
     ID       <- !RESERVED [a-zA-Z_] [a-zA-Z_0-9]*
     NUM      <- [0-9]+
     STRING   <- '"' ([a-zA-Z_0-9 !#-/:-?] / '\' [nt"\])* '"'

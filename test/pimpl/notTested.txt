@@ -12,3 +12,4 @@ stmtsErr5
 kwOtherwiseErr
 stmtsErr6
 parRErr2
+braRErr1

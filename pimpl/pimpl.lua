@@ -12,7 +12,7 @@ s = [[
     vdecl    <- ID (',' ID)* ':' type
     type     <- (BOOLEAN / INTEGER) ARRAY?
     body     <- decls? stmts END
-    decls    <- vdecl (';' vdecl)*
+    decls    <- vdecl ';' (vdecl ';')*
     stmts    <- CHILLAX / stmt (';' stmt)*
     stmt     <- assign / call / return / input / output / case / loop
     assign   <- LET ID ('[' simple ']')? '=' (expr / ARRAY simple)
@@ -65,7 +65,7 @@ s = [[
 
     ID       <- !Keywords [a-zA-Z_] [a-zA-Z_0-9]*
     NUM      <- [0-9]+
-    STRING   <- '"' ([a-zA-Z_0-9 !#-/:-?] / '\' [nt"\])* '"'
+    STRING   <- '"' ('\\' / '\"' / !'"' .)* '"'
 ]]
 
 

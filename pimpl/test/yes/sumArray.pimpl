@@ -1,7 +1,7 @@
 program sumArray:
 
 sumAll: takes arr, size: integer array returns integer
-    total, i: integer
+    total, i: integer;
 
     let sum = 0;
     let i = 0;
@@ -12,7 +12,7 @@ sumAll: takes arr, size: integer array returns integer
 end
 
 main:
-    arr: integer array
+    arr: integer array;
 
     let arr = array 5;
     let arr[0] = 10;

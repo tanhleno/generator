@@ -17,7 +17,7 @@ div: takes a, b: integer returns integer
 end
 
 main:
-    x, y, result, option: integer
+    x, y, result, option: integer;
     output "Inform two integer:";
     input x;
     input y;

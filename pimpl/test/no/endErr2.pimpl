@@ -1,7 +1,7 @@
 program void:
 
 main:
-    n: boolean
+    n: boolean;
     input n;
     when case n = true: chillax
     output n

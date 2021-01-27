@@ -1,11 +1,9 @@
 local m = require "pegparser.parser"
-local pretty = require 'pegparser.pretty'
 local coder = require 'pegparser.coder'
 local recovery = require 'pegparser.recovery'
-local ast = require'pegparser.ast'
-local util = require 'pegparser.util'
 
-require "pimpl"
+local ampl = require 'notLabeled'
+
 
 --[[
     prog    <-  PROGRAM^Err_001 ID^Err_002 ':'^Err_003 (fdef  /  !(MAIN  /  !.) %{Err_004} .)*
@@ -46,8 +44,11 @@ require "pimpl"
                 '(' expr^Err_080 ')'^Err_081  /  NOT factor^Err_082  /  TRUE  /  FALSE
 --]]
 
-local g = m.match(s)
+local g = m.match(ampl.s)
 local graph = recovery.putlabels(g, 'upath', false)
-print(pretty.printg(graph, true, nil, "notLex"), '\n')
+local grammar = coder.makeg(graph)
 
-pimplauto = coder.makeg(graph)
+return {
+    graph = graph,
+    grammar = grammar
+}

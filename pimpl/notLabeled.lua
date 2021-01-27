@@ -1,12 +1,8 @@
 local m = require "pegparser.parser"
-local pretty = require 'pegparser.pretty'
 local coder = require 'pegparser.coder'
-local recovery = require 'pegparser.recovery'
-local ast = require'pegparser.ast'
-local util = require 'pegparser.util'
 
 
-s = [[
+local s = [[
     prog     <- PROGRAM ID ':' fdef* MAIN ':' body
     fdef     <- ID ':' TAKES vdecl (';' vdecl)* RETURNS (type / NOTHING) body
     vdecl    <- ID (',' ID)* ':' type
@@ -31,7 +27,7 @@ s = [[
 
     RELOP    <- '=' / '>=' / '>' / '<=' / '<' / '/='
     ADDOP    <- '-' / OR / '+'
-    MULOP    <- AND / '/' / '*' / REM
+    MULOP    <- AND / '/' !'=' / '*' / REM
 
     Keywords <- PROGRAM / MAIN / TAKES / RETURNS / NOTHING / BOOLEAN / INTEGER / ARRAY /
                 END / CHILLAX / LET / DO / POP / INPUT / OUTPUT / WHEN / CASE / WHILE /
@@ -70,6 +66,10 @@ s = [[
 
 
 local graph = m.match(s)
---print(pretty.printg(graph), '\n')
+local grammar = coder.makeg(graph)
 
-pimpl = coder.makeg(graph)
+return {
+    s = s,
+    graph = graph,
+    grammar = grammar
+}

@@ -1,9 +1,5 @@
 local m = require "pegparser.parser"
-local pretty = require 'pegparser.pretty'
 local coder = require 'pegparser.coder'
-local recovery = require 'pegparser.recovery'
-local ast = require'pegparser.ast'
-local util = require 'pegparser.util'
 
 
 local s = [[
@@ -88,6 +84,10 @@ local s = [[
 ]]
 
 local graph = m.match(s)
---print(pretty.printg(graph), '\n')
+local grammar = coder.makeg(graph)
 
-pimplmano = coder.makeg(graph)
+return {
+    s = s,
+    graph = graph,
+    grammar = grammar
+}

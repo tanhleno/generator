@@ -1,0 +1,1 @@
+program a : OMW : takes e : boolean array; z : boolean array; W7, w61 : boolean returns integer output "e?aa" end main : V, f, l, wr, h, o710a, a : integer; U : integer; Nh, S : boolean array; a, A3, F : boolean; _250a, a : boolean; UA80 : boolean; chillax end

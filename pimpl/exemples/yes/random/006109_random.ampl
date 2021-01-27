@@ -1,0 +1,1 @@
+program q : u : takes PA, g, Du, fk : boolean returns nothing chillax end main : e, o73a : boolean; s02 : integer; E, lDDa, f2, W, lU : integer array; input B; do xq7a((8) / not 8110 + Cl + 613 > - false) end

@@ -1,0 +1,1 @@
+program VIsaa : z : takes ba, l0, C55 : integer array returns nothing input O end v : takes sv5aa, z6 : integer; T : boolean; N9j, l : integer array returns integer when case 71 - 2 < 7 : do f280a(76); when case 2 : chillax end end case 79 : chillax end end main : d : boolean; chillax end

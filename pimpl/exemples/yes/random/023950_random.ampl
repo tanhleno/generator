@@ -1,0 +1,1 @@
+program u : Xjm : takes s, p : boolean returns nothing chillax end ac : takes E : boolean array returns boolean input H6[- 2] end u : takes C, r : boolean; d : integer returns boolean input bF end main : F : boolean array; let k5 = true / (08) - (1) and 0 /= - true and 71 end

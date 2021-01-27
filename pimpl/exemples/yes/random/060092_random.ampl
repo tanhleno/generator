@@ -1,0 +1,1 @@
+program l : F : takes l7 : integer array returns nothing chillax end main : when case F * true or true and PHC + true + 0 >= - I7u(97) : pop end otherwise : chillax end; do aD2(- zB8aa rem not 637 and 7 /= - true and 36, - not 79500 or 0, 19000 < 8, 2) end

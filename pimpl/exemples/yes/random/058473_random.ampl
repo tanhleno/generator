@@ -1,0 +1,1 @@
+program N : Q : takes w : integer array returns boolean let j = array false and 4; output 4 = 45; when case 9 : chillax end; pop 4600 end X : takes l3t : boolean; Q : boolean; aEb0, Ae : boolean returns nothing input o end main : Gm, K4, HcO0a : integer array; chillax end

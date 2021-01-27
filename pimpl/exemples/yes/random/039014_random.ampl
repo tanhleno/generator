@@ -1,0 +1,1 @@
+program Yb : U : takes hM : boolean array; Lj, iB : integer; n, O : boolean array returns nothing J, _p0 : integer; qDUa : integer; while false <= - 64000 - 1 : chillax end end l51 : takes R : boolean array returns nothing Je : boolean; chillax end main : FS, P : integer array; chillax end

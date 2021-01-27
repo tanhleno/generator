@@ -1,0 +1,1 @@
+program s : ud : takes fE, w, ySQ, q : boolean array; G : integer array; BT4a : integer array; J4_0a : integer array; DA, a8 : boolean returns boolean S : boolean; chillax end main : do ri(- not(0370) <= - true, false / true and 2950 = - true and 31 or 677, false and 7450 > 972 - 1) end

@@ -1,0 +1,1 @@
+program o2 : main : let tf9a = d9 * hcJ and 0 or 1970 and 19 >= - false and 338 - 5290; when case b(79) - (74) and 23 : chillax end otherwise : chillax end; while not 47 <= - 17 - 91 : let q = array 51; output "" end end

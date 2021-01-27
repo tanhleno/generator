@@ -1,0 +1,1 @@
+program UcR : J : takes gn, q, H, Ax : integer array; s0, x : integer returns integer chillax end N : takes s3Y0a, S0a, Z, hC3 : boolean returns nothing VS20, QO, w37a : integer array; pop 83 = 9; input _[1]; output 17 . "36" end main : chillax end

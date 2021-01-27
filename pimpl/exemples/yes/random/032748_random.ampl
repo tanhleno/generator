@@ -1,0 +1,1 @@
+program q9 : p : takes aJ, N1c : integer returns nothing ZG : boolean; _t : boolean; while true and 8 - 0 : input cX end; input h end main : f, Li, m4, P, u : integer array; Vc, g0H0, u7, l, U, d : integer; E : integer array; T7, F3 : integer; I, W, E : integer; pop end

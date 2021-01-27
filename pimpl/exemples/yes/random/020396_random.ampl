@@ -1,0 +1,1 @@
+program Y : _8 : takes k, j : boolean array; X2 : integer array; D6Ra, IG, kYB : boolean returns nothing pop; let mD = array 86800 end ah4 : takes c520 : integer array returns nothing fs : integer array; when case 1 >= 59700 : input Q end otherwise : chillax end; output "\t\"aa"; when case 877 : pop end otherwise : chillax end; input ww end main : I : integer; chillax end

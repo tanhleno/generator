@@ -1,0 +1,1 @@
+program th : main : j : boolean array; fVc0 : boolean array; bO6 : integer array; when case - not true / (2) >= false - 7 : when case 04 : let S = 5; do Z32(688); pop end otherwise : when case 8470 : chillax end end; when case 55700 = 05 : chillax end otherwise : chillax end; when case 2 : pop end case 4 : chillax end; input m end end

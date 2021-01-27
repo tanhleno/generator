@@ -1,0 +1,1 @@
+program f71 : main : do bu(- not false rem S or 54 / true and 92 + l98a - 58 - 10600); when case - not not 8 * (34) : output "j2a" end case - not 0 + 07 - 2200 > - 1 - 9 : do TF(65); while 4 : chillax end; input N end; when case not 53 and 6 + 546 : input q end case 9 = 89 : let D7xa = 60 end end

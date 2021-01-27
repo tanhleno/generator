@@ -1,0 +1,1 @@
+program B : main : qqr, M2, W : boolean; do Fh7(not false and 4 rem false and 66 > (37)); when case - 1 * (1110) or true and 5 + 88 : chillax end case 61 = - 3500 : chillax end case - 45900 : chillax end otherwise : chillax end; output "" end

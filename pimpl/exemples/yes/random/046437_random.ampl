@@ -1,0 +1,1 @@
+program I : EH : takes V : boolean returns integer array chillax end sHz : takes JH : boolean array returns boolean array T : integer array; kk, n, AA : integer array; chillax end main : v1w : integer array; g, O, t : boolean array; input Sq[(74) rem true * 60 and 17 or false rem not 3 and 8610] end

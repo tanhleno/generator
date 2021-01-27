@@ -1,0 +1,1 @@
+program TZ : I : takes r9, B : integer returns integer array tM0aa, n, v : integer; n, j, N : integer; chillax end main : Y1, wh : integer array; aWDaa : boolean; Bj, P, E, B5 : integer; V : boolean; Q, _Ioaa, g : integer; do b(- true + true or 3 or 8); output "" . "\"" end

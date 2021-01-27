@@ -1,0 +1,1 @@
+program g530a : p : takes np50a, rR30a : boolean; x8 : integer array; c : integer array; y14, k, c : integer returns boolean m9 : boolean; while K < - 3 - 94 : do G7(0, 26); pop; while 0 : chillax end; pop end; when case 40 - 4 : chillax end otherwise : while 8 : chillax end end; let f[1] = 92 end main : chillax end

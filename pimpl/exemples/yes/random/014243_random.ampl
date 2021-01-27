@@ -1,0 +1,1 @@
+program XkTa : ne : takes Q, t6, W : integer array; j : boolean array; OhP : boolean array; r, Fl : boolean returns boolean input o41; let M6[- 9] = array 6350; when case 3690 = 65 : output "\t" end end K : takes Wq : boolean returns integer array chillax end main : I2z0, D0, j, q270, i : boolean; chillax end

@@ -1,0 +1,1 @@
+program P : W : takes M6, X46 : integer array; cl4aa : boolean array; O, Sa, oo, Gh : boolean array; m, s2 : boolean array; U : boolean returns nothing X : boolean array; T2, M : integer; do M8s0a(- sY and 1 or 5 - 7, 0 - 27 <= 4, 81, 4870, 4) end t6 : takes b580, f : boolean returns integer pop end main : chillax end

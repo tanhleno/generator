@@ -1,0 +1,1 @@
+program YY : k : takes D74, V5, X, U8Y, ZE : integer returns nothing when case false and 0 - 9 - 0 < 944 : chillax end case 5 : chillax end case 8 = 07 : when case 1 : chillax end end; when case - 1 : input Qe end end main : x : boolean array; N2, n7 : integer array; JtL, I : boolean; m : integer; let o3U0a[- (61)] = array not true or 4 rem(9); while false > (0) : chillax end end

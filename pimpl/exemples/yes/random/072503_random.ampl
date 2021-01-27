@@ -1,0 +1,1 @@
+program N19a : main : W9, c, A : integer; pop 91 * true - 232 and 0 >= 4 and 0 + 69; when case 371 and true and 50 or j0F - 7 >= - Fhm and 51 : let e = array 3; do W1(86300); let j_ = 54 end otherwise : chillax end end

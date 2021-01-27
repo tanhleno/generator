@@ -1,0 +1,1 @@
+program V : main : F : boolean; M : integer array; when case - false : chillax end case - (58) or l : chillax end case not 45000 and 29 : output 3 . "b9" end case - 295 : chillax end case 9 = 55 : input pN end case 702 : pop end otherwise : chillax end; when case - j or true : chillax end otherwise : output "" . "" end end

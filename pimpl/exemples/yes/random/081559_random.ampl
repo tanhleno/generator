@@ -1,0 +1,1 @@
+program v : main : x1 : boolean array; o : boolean; ife0a, FN : boolean array; e6Qa, p : integer array; nJ, m : boolean array; when case - false - a7m : input PDi; let b5[5] = 848 end case false * (58) and 5810 + not 5 and 5 > 4 and 5 or 70 - 203 : input q end end

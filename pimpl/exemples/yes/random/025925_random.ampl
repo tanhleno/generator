@@ -1,0 +1,1 @@
+program e7 : sa : takes f, d : integer; x, Z : integer returns boolean g, qzJ0, J4, ZQ : boolean; while(22600) and 4 or 20 - 5 : input r; input L8; let s = 9200; pop end end QF : takes p5, lB3 : integer returns boolean array while - 3 - 7 <= 1 : input v; pop end end main : chillax end

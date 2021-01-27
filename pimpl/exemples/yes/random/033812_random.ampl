@@ -1,0 +1,1 @@
+program A : kBnaa : takes X9 : boolean; Tu, Zm2, YZ : boolean array; pp, S : boolean array returns integer input Z; input y[99 - 73] end main : while - QQ(49) : let N2[1580] = 7 = 08700; let xSd[7] = 2; while 90 : chillax end; pop; input V end end

@@ -1,0 +1,1 @@
+program a74 : Y9 : takes h : integer array; fG : integer array; X, G : integer array; U, Eq : boolean returns boolean GP : integer; while iZGa or 2 - 7 : chillax end; let GV = array - 3430 - 48; do Lm(03 = 0); pop; pop; output ""; pop end main : chillax end

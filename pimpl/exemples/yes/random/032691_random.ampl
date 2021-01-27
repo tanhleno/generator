@@ -1,0 +1,1 @@
+program LM6aa : y : takes C0, q : integer returns nothing s3ra, rL : integer array; w0 : boolean; chillax end wj : takes V, h, Q : boolean; sH : integer array returns boolean array input X3[- 7 - 9490]; input P[54] end o : takes j, z, F : boolean array returns integer array while 46100 = 1 : chillax end; while 0 : chillax end end main : output "}" . (1) - 014 - 1950 end

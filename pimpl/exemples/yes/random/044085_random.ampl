@@ -1,0 +1,1 @@
+program J : pIs0a : takes O : boolean array returns nothing C, L, n2 : boolean array; K1, S9 : integer array; K410a, Kg50a, L : integer array; chillax end V : takes d, q, Ev7aa, S5 : boolean returns nothing pop; pop 99200; do fZ4(760, 4); pop end ve4 : takes V7z : boolean returns nothing let g[1] = 103 end main : chillax end

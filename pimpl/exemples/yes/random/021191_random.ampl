@@ -1,0 +1,1 @@
+program X : a63aa : takes Kb, d : boolean array returns boolean input U1g0; pop end main : when case(5 = 5) + not not 26 * true + f or 883 : input C5; output 8 . 0 . "\t"; input j[30400]; output "" end otherwise : chillax end; let B2 = array not not 9 - (69) and 9; pop end

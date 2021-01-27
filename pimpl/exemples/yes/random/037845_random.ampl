@@ -1,0 +1,1 @@
+program G2 : m : takes Y : boolean array; h9, X, e, j4 : integer; J6 : boolean returns boolean P : boolean; when case not 81 >= - 5 - 6 : chillax end end Mv : takes cd, h : boolean returns boolean array chillax end va8a : takes GJ, M : boolean returns nothing TJ, C : integer; input A61[8]; when case 7 : chillax end otherwise : chillax end end main : chillax end

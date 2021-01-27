@@ -1,0 +1,1 @@
+program P : H : takes D8g0a : integer; P : integer; ph : boolean; B : integer array returns boolean Do, E850, W : boolean array; D51 : integer array; pop 1930 = 29 end main : C : boolean array; pop - not 85 end

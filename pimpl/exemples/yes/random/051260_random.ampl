@@ -1,0 +1,1 @@
+program J : s : takes F : integer; N, e : integer returns nothing u, Pg1, s : integer array; x270a, Q8C0a, K : boolean array; kw, K1yaa, q : boolean array; chillax end main : while r1[1] or b - (7) and 2840 <= - false : input ks end; pop; pop end

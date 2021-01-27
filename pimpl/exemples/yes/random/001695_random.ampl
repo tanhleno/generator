@@ -1,0 +1,1 @@
+program M22 : T4C : takes Tw4aa, y, U2Jaa, f, J, r4 : integer; oHL : integer array; YC7, W : boolean; p, D : boolean array; G, q, C : integer; R, a : boolean array returns nothing _ : boolean; h : boolean array; H : boolean; Ev : boolean; while - true and 80 + 7 - 04 : do VY5(1, 2); let S = 2100; output "" end end main : X0Ua : integer; chillax end

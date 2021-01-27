@@ -1,0 +1,1 @@
+program d : main : S : boolean array; n2z0, f4 : boolean; wA : boolean array; o960, kv : integer array; input TE1a[false rem UTvaa[6]]; when case 9 + true + 7 - 85800 : chillax end case true and 1 : do tB(5); while 6 : chillax end end case 5720 - 29 : when case 7 : chillax end end otherwise : chillax end end

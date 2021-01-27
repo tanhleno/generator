@@ -1,0 +1,1 @@
+program e4 : p : takes TJb, b71 : boolean array; z : boolean array; qL2 : integer array returns nothing let o[- true and 5430 + 46 - 5] = 2; pop end qF : takes IC : boolean returns nothing m, g, x, ao40 : boolean array; chillax end main : J400, i39 : boolean array; b : integer; chillax end

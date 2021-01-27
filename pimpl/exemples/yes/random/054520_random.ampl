@@ -1,0 +1,1 @@
+program E : xH3 : takes r : integer array; c, k2 : boolean array; d, r, j : boolean array; S : integer array; s, n, VD5 : boolean; vq : integer returns nothing chillax end f : takes h, weX : integer returns nothing output 7900; pop end main : Y, Lj, V : integer; output(80) + (4) >= - 9 or 5 - 36 . ""; input L[false] end

@@ -1,0 +1,1 @@
+program Fb : _ : takes L : integer array returns integer chillax end kA : takes b : boolean array returns nothing chillax end main : output - Z2x[0] > Dj + 1 - 328 . (9) and 8 + 62; when case - true * (05) and 02 = - (176) and 9 : chillax end otherwise : do X(6830); input s; do l(1); pop end; input i end

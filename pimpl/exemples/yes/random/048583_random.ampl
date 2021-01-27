@@ -1,0 +1,1 @@
+program g4 : gg7 : takes H9a : boolean returns nothing b : integer; chillax end main : g, A, I, gHaa : boolean; A, N8 : integer array; c : boolean array; do gK(- h, - M(9) rem true); while 6 /= - 989 and 28900 : chillax end end

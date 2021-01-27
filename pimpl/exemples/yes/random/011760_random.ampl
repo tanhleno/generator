@@ -1,0 +1,1 @@
+program Z_v0 : W : takes W, N6k, Hm20a : boolean returns boolean while - false <= - 4 : chillax end end g0 : takes r : boolean returns nothing zx, b, m : boolean array; let j = array 73 end TM : takes Z, T1 : integer array returns integer F59a : integer array; do R(1 = 4160); do P(0) end main : PVGaa : boolean array; k : boolean array; chillax end

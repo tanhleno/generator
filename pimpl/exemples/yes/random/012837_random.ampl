@@ -1,0 +1,1 @@
+program Gy7a : l9 : takes Uq, g520a, Q : integer; S, lg : boolean array; w, j5U, B3 : integer returns integer L : boolean; input ln9; do ON1aa(92, 8) end E3 : takes p : boolean array returns integer array j, cS80, rZc0 : boolean array; chillax end main : pop not(511) rem(4) - (52000) and 9 >= - true or 3 end

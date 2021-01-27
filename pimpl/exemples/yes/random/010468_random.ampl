@@ -1,0 +1,1 @@
+program asK0a : q : takes yA, g, Z93a : boolean array; l : integer returns nothing chillax end fz : takes S : integer; _ : integer returns nothing u8L0a : boolean array; f, kd : boolean; chillax end zm : takes M : integer returns nothing while 9 = 0 : chillax end; let l = array 1 end stl0a : takes J, v : integer returns nothing chillax end main : chillax end

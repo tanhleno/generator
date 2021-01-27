@@ -1,0 +1,1 @@
+program D : y : takes d6, d, J4Faa : boolean returns integer J : integer array; n : integer array; VO, t, w : boolean; U : boolean; I430 : boolean; _ : boolean; when case 6 or 3 - 1 < - 7 : do Bk20(2) end end main : _8, g0, B, u, x23aa : boolean array; chillax end

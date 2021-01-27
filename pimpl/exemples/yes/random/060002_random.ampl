@@ -1,0 +1,1 @@
+program w04 : U960a : takes qe90 : integer array returns nothing chillax end main : L : boolean array; N6n, O, zk, m3 : boolean; QL : integer array; while(4) / (3) or 31 : do u9h(- 8 - 0 /= 6) end; while 1 / q and 0 + not 68 and 0110 : when case 3 = 8 : pop end case 0 : pop end otherwise : pop end end end

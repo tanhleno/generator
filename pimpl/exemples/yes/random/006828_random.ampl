@@ -1,0 +1,1 @@
+program w : O3 : takes q5, x, Vr, c44 : integer array; O99, n, O18, HN6a, X, SN : integer array returns boolean G530a, X680 : boolean; chillax end main : input Z1Z[- 5 and false / not 3 + not M320a] end

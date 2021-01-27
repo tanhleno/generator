@@ -1,0 +1,1 @@
+program m : A : takes z : boolean array; O04aa, m, G, m8 : integer array returns boolean M : boolean; m, i3gaa : boolean; while W and 75 - 52 < - 1 - 80 : when case 0 : chillax end end end main : chillax end

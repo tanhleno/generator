@@ -1,0 +1,1 @@
+program VU : Bk : takes I7 : boolean returns nothing mC1, um70 : integer; do e(- not 76 and 9 + 7 - 27, - 34, 8 = 301, 3) end main : Ct3 : integer array; let jI[- true and 994 or U(1) + false and 2] = array - true * false / 2 and 7 + true * 3 or a and 80 or 0 - 4 end

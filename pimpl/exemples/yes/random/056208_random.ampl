@@ -1,0 +1,1 @@
+program N41a : A : takes l : integer array; N4 : boolean array returns nothing output - 6 - 0 end a : takes D, BrV : boolean returns integer pop 906 = 2; while 86 = 9 : chillax end end main : p53a, G, yu, U, X : boolean; T48 : integer; chillax end

@@ -1,0 +1,1 @@
+program Rv : main : F, K : boolean array; when case - false >= (3) + true and 28 : let N3[2 - 6] = 23; output "@"; output "IE"; output "1" end otherwise : chillax end; while Ds[4] >= (1) : chillax end; do E6p(not 35 and 8 + 1, 9 < 3) end

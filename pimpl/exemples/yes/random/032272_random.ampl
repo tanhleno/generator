@@ -1,0 +1,1 @@
+program LT : uy : takes k2, g : integer returns nothing chillax end r : takes T : boolean array; s : integer array returns boolean array AaW, T3, H4, kJ : integer; hVTa, S : boolean; e, E : boolean; e : boolean; pop end main : output "0\\aa" . "N" . 4 < 7 end

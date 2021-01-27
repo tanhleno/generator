@@ -1,0 +1,1 @@
+program Au : b9sa : takes J : boolean array; Uw1 : integer; GR, s3 : boolean array; _ : boolean array returns nothing Jh5 : integer; x8Pa, k : boolean; chillax end main : Gi, op8 : integer; V, _, lj9a, hW, ovBaa, nE3a : boolean array; input u; pop - 87800 = - 0; when case - 2 and 7 + 0590 - 6 = - 1 - 0 : chillax end end

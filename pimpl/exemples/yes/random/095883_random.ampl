@@ -1,0 +1,1 @@
+program E : main : when case - false and not not 6 - (9) + not 475 and 1 + 5 - 0 : output 8 . 94 . "" . "" end case not false : pop end otherwise : chillax end; when case - e4 : chillax end; do Qw2(- true and 459 - 251 - 2 = - 0); input eHX; input x end

@@ -1,0 +1,1 @@
+program T7K0a : main : x27 : boolean array; when case V(5) - (45) + E and 0 + 8090 : chillax end; when case - ae(105) + 4 : chillax end case false - 8 - 1 : while 203 : chillax end; do Z(197) end otherwise : chillax end; input g8h[false and 46 + 8] end

@@ -1,0 +1,1 @@
+program u : x9caa : takes c1 : integer returns nothing bK : boolean; chillax end main : let z91[- false * not j] = array - false + true / not 39 and 22 + AZi or 3; input m42[- true rem 7 and 3 or(074) and 4] end

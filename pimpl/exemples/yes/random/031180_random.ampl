@@ -1,0 +1,1 @@
+program a : Uxb : takes vUP0a, P : integer returns boolean array chillax end Y : takes X5Va : boolean returns boolean when case 5 < 6400 : chillax end case 4 = 581 : do J(6900) end; pop 786 end main : ogN, d : boolean; chillax end

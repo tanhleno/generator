@@ -1,0 +1,1 @@
+program h9L : O1 : takes z, E6 : boolean array; Ej, B, U, O, T : boolean; PG : integer returns integer array Z : boolean array; chillax end main : hTq : boolean; u : boolean; input C[g or 7]; input II4; when case 81 and 90 : chillax end case 6 - 1030 /= 5770 : input vp1a; let v = 8 end; output 027 . "" . ""; input k; output "" end

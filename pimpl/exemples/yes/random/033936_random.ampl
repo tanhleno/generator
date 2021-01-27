@@ -1,0 +1,1 @@
+program E : b : takes Y : boolean; D3u, dH, k : boolean returns nothing chillax end u8 : takes W : boolean returns nothing I26aa, Ga4aa : boolean; S9ta, UJE, d3qa : integer array; d : boolean; KH : boolean; U : boolean; chillax end main : icj, j, Xz : boolean array; let w = array - true / (2); when case(1) or not 0 >= - 91 + 9 : chillax end; let Z1A = - 71 - 0 end

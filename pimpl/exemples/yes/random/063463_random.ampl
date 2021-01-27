@@ -1,0 +1,1 @@
+program P2 : kd : takes ij50a : integer returns integer AT : boolean array; let N_9 = array - 1 and 57000 + 8; when case 226 - 65800 : do U430a(93) end case 56 : do mq(0); pop end case 9 : chillax end end main : output "" end

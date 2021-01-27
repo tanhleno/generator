@@ -1,0 +1,1 @@
+program VdR0 : m6 : takes d, i, Z : boolean returns nothing chillax end main : B : integer array; x18 : boolean array; j : integer array; I, x : boolean; while - false rem not true and El and 37200 + not UsQ0a / not 84 = - (807) : chillax end; input Xs[- true and T37] end

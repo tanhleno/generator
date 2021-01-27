@@ -1,0 +1,1 @@
+program l31 : d : takes h, hR, EZBaa, bX0aa : integer array returns nothing chillax end main : output ""; let N[- D[8] - (47) and 58] = array true or Len or 6; input M[- false or 316 - 8]; do zR0a(99 /= 4150); while 8 : chillax end end

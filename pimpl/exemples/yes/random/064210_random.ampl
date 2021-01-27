@@ -1,0 +1,1 @@
+program t : yb40a : takes N : integer returns nothing l, Q, j, C0, W : integer array; when case j21 /= - 4 - 78 : let Q = 769; output ":{a" end case 9 - 2 : chillax end; when case 03700 : chillax end; let B[4] = array 5210; pop 8; while 9 : chillax end; input L; pop end main : tGHa, mB, G1h0 : integer array; pop; let By8 = - 0 and 21000 > 7 - 510 end

@@ -1,0 +1,1 @@
+program u : main : let v[- false + true] = - not true >= - 365 + 60100; do H5(not 9 / true and 9 <= (11) and 642, true or 3 > 504 - 65, - 2 /= 4); when case - false - 40400 : chillax end case 8 - 6 < 20700 : do fcq(940); let D7y = 855; pop end case 6 = 55 : chillax end case 7 : pop end case 065 : chillax end end

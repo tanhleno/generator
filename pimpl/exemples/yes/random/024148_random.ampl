@@ -1,0 +1,1 @@
+program T : TI : takes J9, a68 : boolean returns nothing x1, v, O, w, z : boolean array; B : integer; Z : boolean; do F(false + 6, 8 - 792 < 16700) end n : takes T, T : boolean; c4 : boolean array returns nothing output "<\\"; do UJS(8870 = 0, 6) end main : while 0 or V(7) rem true and 9 - 2 + 384 < true / true - Q and 04400 + 7 - 11 : chillax end end

@@ -1,0 +1,1 @@
+program w3Y : AFraa : takes h06a, _, g07, RK : boolean array; E, S9K0a : integer returns nothing chillax end _9 : takes r : boolean; l27 : boolean returns nothing chillax end main : g, bQz : boolean; when case - Z / R1A0a[29] and not 1 - 4 and not 72 or not 0930 and 9 : while - 41 > 668 : while 25 : chillax end end end otherwise : chillax end end

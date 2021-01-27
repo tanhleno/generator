@@ -1,0 +1,1 @@
+program Mh : M5B0 : takes O : integer; Y3n0a, H : boolean; J : boolean array returns boolean _G : boolean array; let IQ0 = array - false and 9 end a : takes H : boolean; W6, Ac3a, E : integer returns nothing output 6 . 297 . "0" . ""; let g = 20; input J36 end main : pop; input q[n8(9)] end

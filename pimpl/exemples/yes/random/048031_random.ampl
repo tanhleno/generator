@@ -1,0 +1,1 @@
+program p8 : ic2 : takes H6 : boolean returns nothing v, S, S1H0a : integer; Za2aa, e570a : boolean; T : boolean; chillax end n : takes dwO0a : integer array returns boolean array g, i69, QU70a : boolean array; S, G : integer; when case 8 : chillax end end main : chillax end

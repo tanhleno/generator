@@ -1,0 +1,1 @@
+program O : D : takes Y, r : boolean array; ijhaa : integer returns boolean array R : boolean; TJ, s6Ya, S4, g8p : boolean array; h, H2n : boolean; do V6(189) end main : t1k, A350a, _78aa : boolean array; output "" . "" end

@@ -1,0 +1,1 @@
+program b500a : z : takes e : integer; g94a, j, rc : boolean array returns nothing qV20a, o7 : integer; Ip, T, v, EaRaa : integer array; l : boolean array; k9, u : boolean; chillax end main : h, S4 : integer; chillax end

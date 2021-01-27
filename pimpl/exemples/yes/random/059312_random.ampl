@@ -1,0 +1,1 @@
+program ia : hbMaa : takes Jb : integer array returns integer f, TC : boolean array; U, u : integer; chillax end f8 : takes D4 : boolean array returns integer chillax end main : CZk, b : boolean array; I : integer array; let m = d[5] + not 6 or 520 end

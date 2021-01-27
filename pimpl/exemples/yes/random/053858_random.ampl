@@ -1,0 +1,1 @@
+program x : vys0 : takes CQ : integer array; w, v, Zk70a, lmZ : integer returns nothing g, PC4 : integer; d : boolean array; f : integer; M : boolean; input B150[Mr - 2]; let x = 5 end u : takes J1 : boolean; pp : boolean array returns integer array chillax end main : chillax end

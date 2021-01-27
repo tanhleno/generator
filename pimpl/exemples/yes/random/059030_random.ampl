@@ -1,0 +1,1 @@
+program H : G0baa : takes l : integer array returns integer array pop 1 end main : while - true / false or not q8 or true : while 5 : chillax end; let la2 = 7 end; do q9(not not 9); while - (29) or 342 : input KE[6220]; pop; output "\t" end end

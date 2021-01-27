@@ -1,0 +1,1 @@
+program u : main : _630 : integer array; q2, V : integer array; output - true and false and 115 - (546); while false and false + 691 and 0 - 33 - 1620 > not 80 : chillax end; while(37900) >= 3 : do X(9810); output "jPaa" end end

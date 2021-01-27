@@ -1,0 +1,1 @@
+program L : f : takes rVq0, Plfaa : integer array; x150, u1 : integer; b, u3 : boolean returns integer b, V, B : integer; S, F14 : integer; when case FFq0 : chillax end otherwise : input r2; pop; pop end; input I4p[- 95]; do x30(4080 = 64300) end main : T : integer; chillax end

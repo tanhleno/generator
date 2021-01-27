@@ -1,0 +1,1 @@
+program _ : main : n2Ka, lF4aa : integer array; Ac, S : boolean array; r, N3j, w1B, WQ0aa, w : integer; v, O, Uvu : boolean array; M29, cF : integer array; c : boolean; LL6 : boolean; let Z3Z = array true rem(6) * U and 2 - g5(4); output - true end

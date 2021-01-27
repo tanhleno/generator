@@ -1,0 +1,1 @@
+program p0 : DD : takes Hcm : integer; f39 : integer array returns nothing pop; let ha[- 852] = 9; pop 83; do C(33400, 6) end t : takes Q90, Raha, bbGa, E, m, e, Z9D0 : boolean returns nothing eTH : boolean array; hL3 : integer; output 9 = 3 end main : c6w : integer; pop i[7] / not 6 and 284 = (41) - 75 - 14; while K[572] + not 84 and 1 + 2 - 0 : input P[86000] end end

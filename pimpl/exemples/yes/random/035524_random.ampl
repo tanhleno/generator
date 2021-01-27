@@ -1,0 +1,1 @@
+program I : B : takes W : boolean; B : boolean; e : integer; y3 : integer returns integer array y2c : integer; M, Lu0aa : integer; let Y4[- false] = 0770 > 8 end main : output "&"; output(7) and 3 . "@9a" . "4W" end

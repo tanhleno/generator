@@ -1,0 +1,1 @@
+program hk : main : c, y : integer; T5, t, G4 : integer; F, K : boolean array; when case - not not S /= true / true and 4 or true - 0890 : chillax end case - ao_(53000) and 0 and 5 /= - (4) and 28 + 0 - 3 : output "~" . "_" . "Q"; do Qm7(0) end otherwise : output 3 end; let xg = array - (65600) * (742); output "V" . 1 = 7 end

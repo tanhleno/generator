@@ -1,0 +1,1 @@
+program P4 : I : takes n, Q, sy10a, Z : integer array; Hq, q, Sr0, x : boolean; M, I0, I6, j0, C, e8 : boolean array; z : boolean array; z7 : integer array returns nothing chillax end main : v, A, h : boolean array; let H6X0[- 970 and true - BML[6] - V5 - 8 - 22] = array not 4 - (90) and true and 93; pop - 636 - 94 - 3 end

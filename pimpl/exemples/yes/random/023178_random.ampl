@@ -1,0 +1,1 @@
+program J : Sq : takes i, W : boolean returns boolean x, y, V, H, x : integer; F49 : boolean array; do B8(- false and 1 + 88 - 456); while - 1 : chillax end; output "" end main : M : boolean array; O, A69 : integer; chillax end

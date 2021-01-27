@@ -1,0 +1,1 @@
+program R : OS : takes K5 : integer array returns nothing when case - true < - 3 : input m2A end case - 6 - 0 : chillax end case 9 : chillax end otherwise : pop; input k0 end end main : UH4 : boolean; chillax end

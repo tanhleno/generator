@@ -1,0 +1,1 @@
+program rb : main : while false < - C7(3) * not 07 and 1 : when case 01 > 1 : chillax end otherwise : do O1(813); pop end; when case 060 = 4 : chillax end case 9750 : chillax end otherwise : pop end end end

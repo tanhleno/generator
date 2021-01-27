@@ -1,0 +1,1 @@
+program f56 : O : takes S2 : boolean array returns integer chillax end main : Y, n8 : boolean array; X : integer array; while true > - l(1) rem not 914 and 25 + 61900 : chillax end; pop(54) and 6 >= 1; let Z = - 0 end

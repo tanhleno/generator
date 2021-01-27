@@ -1,0 +1,1 @@
+program GKj : ZO : takes m7k, K9 : integer array; h : integer; Z6u : boolean array returns nothing pop; when case 3 - 962 = 3 : let QeC = 7790 end case 24 : chillax end case 9 : chillax end; output ""; pop; do k(02); do w(11) end main : V, Oqr0a : boolean array; chillax end

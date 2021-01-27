@@ -1,0 +1,1 @@
+program OP50a : W : takes _H, i05 : integer returns nothing B, ZV, IB, DKT, Pwy : integer; k6M : integer array; D4c0, P : boolean array; let Z[not 11 and 911 or 1] = array 8 and 0 end d9e : takes PF1aa : integer; I, t, g, u, W4, h5u : integer returns nothing chillax end H58a : takes Fx, p : integer returns nothing YU, R : integer; Tc : boolean; chillax end main : chillax end

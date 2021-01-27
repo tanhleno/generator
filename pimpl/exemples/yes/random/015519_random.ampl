@@ -1,0 +1,1 @@
+program bV6 : O2 : takes Ij60, i, Ju0 : integer array returns nothing Ey : integer array; H, e0Za : integer; do N(not 89 - 9 <= 9380, - 3 - 9); do f9(5 - 934 < 5, 639) end main : K, B : boolean array; i2W, S : boolean; _ : integer array; pop; do F(- not false / (8) and 2770 > - (1) or 383) end

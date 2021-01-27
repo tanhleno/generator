@@ -1,0 +1,1 @@
+program aL : main : Ui3 : integer array; f52a : boolean array; do R(5 * (698), - false + false - 1, true + 321 - 2 = - 72900 - 67); input w; output - 238 - 71 <= 58 . 3740 = 8 . 4; pop 04 = 0; output "" . "9" . "\"8!"; output 795 end

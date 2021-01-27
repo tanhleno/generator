@@ -1,0 +1,1 @@
+program y9raa : I : takes hf, s, M : integer array; J : boolean array returns nothing K : integer; r7taa : integer array; D : integer; G8Pa : boolean; s : boolean; let t = array - true - 6 - 0 end K : takes c4, n7M, g8 : boolean; W : integer returns integer chillax end main : b : integer array; input E7 end

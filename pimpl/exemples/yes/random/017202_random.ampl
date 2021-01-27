@@ -1,0 +1,1 @@
+program K : J560 : takes ay, B13aa : boolean; nI4, C4 : boolean array; F8, PjL0a : integer array; Q, C, a9v0a : boolean array; o5U, bG : integer; Q, x0, z9 : integer returns nothing let J = - 1; input Pte[- 2] end R : takes OL7, p, p : integer; H, L, N : boolean array returns nothing Uc, lE : integer array; chillax end main : chillax end

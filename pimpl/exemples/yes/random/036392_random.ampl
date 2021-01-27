@@ -1,0 +1,1 @@
+program u1 : A : takes y3 : boolean; y4o : integer; f, d, R, hO : boolean array; B3, s, y8L0a : boolean returns boolean pop; while - 4 : chillax end; let a6[137] = array 045 end main : J9ea, Ac1, I, R, J, V, E : integer array; S, op9 : boolean; chillax end

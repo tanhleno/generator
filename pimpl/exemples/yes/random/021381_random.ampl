@@ -1,0 +1,1 @@
+program R7 : p3 : takes V, d : boolean array returns integer array x, t : integer array; chillax end Ht : takes R4, KBs0 : boolean array; A : boolean array; iU2a : boolean array returns integer TY, W, e : integer; d, e : integer; x, h770a : boolean; output 6 = 83 end y : takes D : boolean returns nothing SXHa : boolean; let h = 0; pop end main : let Y = t[7] end

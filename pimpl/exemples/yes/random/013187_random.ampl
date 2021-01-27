@@ -1,0 +1,1 @@
+program l : x : takes D, M, go : integer; l0 : boolean array; h : integer; U69aa, YI, jj : boolean array; R : integer; SC, K : boolean array returns nothing chillax end main : let L[- not(0) + 86 / not 394 + not 0 and 1 - 8] = - false / false and 56 <= false and 8; input Q[(3)] end

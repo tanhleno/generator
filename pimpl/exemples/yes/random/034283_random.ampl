@@ -1,0 +1,1 @@
+program dx2 : g : takes f : boolean; E, E : boolean; w650a : boolean; yx, U0 : integer; H1 : boolean; Dj, H : integer returns integer array F : boolean array; chillax end main : let R[- false and true rem false] = array true - 9 and 98; let B = array - false and false or true end

@@ -1,0 +1,1 @@
+program Vc : main : do Y(- false * true rem false or not Cn > 05 * true or true); input ei[- 8]; let A8m = array true and 76; while 4 - 502 >= 0250 : pop; input h end; when case 6 = 4 : chillax end case 3 : pop end case 9 : chillax end end

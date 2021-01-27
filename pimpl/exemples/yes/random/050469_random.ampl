@@ -1,0 +1,1 @@
+program b7 : F : takes E : integer; n, D : boolean array; q, B : boolean array returns boolean chillax end N : takes L : boolean; wpR : boolean returns nothing pop 521; let gj[9] = array 21; do V6Gaa(6) end main : chillax end

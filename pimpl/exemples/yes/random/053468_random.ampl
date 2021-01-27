@@ -1,0 +1,1 @@
+program g : f : takes w : integer array; g, K380a, S4, kj00, f, x510a : integer; X2, KZ, U6 : boolean array returns boolean array jf : integer; fB, B4 : boolean; do R(- 5 and 343 - 4 - 5690 < - 55 - 7, 005 - 03) end main : s : boolean array; chillax end

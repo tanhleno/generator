@@ -1,0 +1,1 @@
+program p3 : Y : takes RHm0a : boolean array returns integer chillax end main : A : integer array; EC : boolean array; when case(7) + c[27] and false : output 3 = 02 end; input Gt; do WTia(not 000 and 3 = - 388) end

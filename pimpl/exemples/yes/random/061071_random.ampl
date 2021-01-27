@@ -1,0 +1,1 @@
+program B : d : takes z : integer array returns nothing l : integer; while - true and 23 /= 0 - 9 : chillax end; output 55 . "S"; let A4[67] = array 21 end u84a : takes X, D, H, n6Jaa : boolean; R, h46, O : boolean; Z15 : integer; bkV0 : integer returns nothing k19 : boolean; Z, o2 : integer array; T, uD : boolean; chillax end main : Kq : integer array; chillax end

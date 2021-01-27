@@ -1,0 +1,1 @@
+program Ooo : v : takes a670, h5e, c : integer; OW2a : boolean array; D9h, C0jaa : integer; C0f0a : boolean array; mXP, iY : boolean array; PG, aa, k7 : integer array; S6, pM : boolean returns boolean array SN, k, cfs0a : integer array; chillax end main : pop; output X16 < - 071; input S0; do B0(- 07 - 723, 509, 6, 7) end

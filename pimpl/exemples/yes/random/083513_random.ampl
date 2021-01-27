@@ -1,0 +1,1 @@
+program _ : main : K : integer; x7t, W0 : boolean; h7, t2, z_8 : integer array; M : boolean array; Z, A4, rw : boolean; O : boolean; kp1aa : boolean; Th2 : boolean; input G1; output s > 018; do F(- true and 51 - 44); output "9"; let m0w[272] = array 3; do zgR0(749); when case 37 : chillax end; input q; pop end

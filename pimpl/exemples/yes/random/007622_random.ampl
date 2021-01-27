@@ -1,0 +1,1 @@
+program U : d87a : takes guF, m, t, Ku : integer array returns integer p0 : boolean array; chillax end main : uz, I : boolean array; T8W0, Ep, s : integer; pop - 2 <= (08) and 25 + 3; pop - 9 and 1 = - 976 end

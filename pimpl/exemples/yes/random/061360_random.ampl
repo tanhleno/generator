@@ -1,0 +1,1 @@
+program XP90a : uo7 : takes H : integer array returns nothing output - 1 - 510; do z(0 - 91 = 48, 41 = 110, 060, 984) end main : u17aa, d30 : integer; Z : boolean; do U540a(true + true rem(1) and 309 <= false and g + 5 + 2 - 2120, - true rem 26 - 1 and 4 = (19) and 5, (7) and 2 <= - 21, - 2830) end

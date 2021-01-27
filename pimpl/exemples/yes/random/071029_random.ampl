@@ -1,0 +1,1 @@
+program o26 : main : m, z, K4s0 : boolean; H6 : boolean array; x : integer array; eA, h, j, MD : integer array; xt : boolean array; while false : chillax end; pop - (9040) > 5 - 461; output "7<" . 61 . "\n"; input MkU0; while 109 = 2920 : chillax end; output 9 . "X" end

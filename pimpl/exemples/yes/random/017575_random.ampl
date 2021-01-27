@@ -1,0 +1,1 @@
+program bxWa : t : takes gu, E : boolean; u, w : integer returns integer pop - 68; when case 4 - 41 < 82 : chillax end end np : takes D : boolean; k : integer returns nothing l6, x8b0, q6, z : integer; E0t, s : integer array; chillax end x : takes O8q, r : boolean returns nothing chillax end main : b : boolean array; H7G0a : boolean; chillax end

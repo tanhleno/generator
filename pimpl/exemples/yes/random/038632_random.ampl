@@ -1,0 +1,1 @@
+program Ndz : vU5 : takes Z : boolean array; h9, v : boolean array; m8, d : boolean returns nothing c, I, a5 : boolean array; C, b, g, Wx : boolean; do iuQ(- false and 07 > 6 - 040); while 2 - 7 : chillax end end main : r : boolean array; while - NDv + not true and(85) : chillax end end

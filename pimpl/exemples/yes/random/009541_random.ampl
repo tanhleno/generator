@@ -1,0 +1,1 @@
+program b5 : e1Haa : takes t, z, Y : boolean array; d, Yf, s, H0, M9H : integer; I : boolean returns integer array do a(not 6810 and 90 <= 1730 - 013, 8370, 1, 05300, 84500) end main : _ : integer array; chillax end

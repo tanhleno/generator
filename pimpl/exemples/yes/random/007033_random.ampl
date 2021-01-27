@@ -1,0 +1,1 @@
+program b : U : takes G3, H0baa, Lk, N : integer array; co, x : integer; WE4, HG30a : boolean array returns boolean pop end ys : takes gt, EJ : integer array; k, d : boolean; AJ, J, ic8 : boolean returns nothing L5 : boolean; Kupaa : boolean; when case 0 < 0 : chillax end; while 5 = 1630 : chillax end; let Gt[7] = array 25; while 796 : chillax end; pop; pop end main : chillax end

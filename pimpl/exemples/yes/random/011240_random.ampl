@@ -1,0 +1,1 @@
+program E : h : takes Wt9, X, T8 : boolean array returns nothing pMJa, h : boolean array; Wz : integer array; x7, S4, H4 : integer array; a : boolean; chillax end main : when case - not true and 95 < false rem not 1 : pop 88 = 9 end otherwise : chillax end end

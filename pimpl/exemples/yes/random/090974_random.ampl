@@ -1,0 +1,1 @@
+program p3 : main : let q[- not false and true rem h - ot[6] and(2) and 9390] = array not KP + X2Q[427] or false; let q[- false / yV and 0140 - TRzaa or 69] = array - 9 * false and 0 + c and 73 + 4 - 69000; do W(- true, - 28 - 3 = 74100); pop 39 end

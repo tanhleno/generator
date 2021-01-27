@@ -1,0 +1,1 @@
+program _ : z : takes l3ka, F1 : integer array returns integer C4, I : boolean array; pop 012 end T : takes K : integer array returns boolean array while - 83 - 63 > 6 : output "["; output ""; pop end end main : gI8a : integer; pop; while true rem 94 - true - 058 - 3530 /= foQ : chillax end end

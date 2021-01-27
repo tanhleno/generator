@@ -1,0 +1,1 @@
+program W : Va : takes V, T, Z0, B8Baa : integer; D7 : boolean; E : boolean returns integer array T, o, l : integer array; chillax end main : pop - (40) + (34400) <= - not 4 and 46 or 3 - 30; pop - gjM0; pop end

@@ -1,0 +1,1 @@
+program VoZ : main : tJ : integer; F, _8p0a, T : integer array; o8V : integer array; k, y2, P : boolean array; L, F, Tb : boolean array; x64aa : boolean; pop - u(692) /= (8350); while - 5 - (3) and 59 > - 784 and 3 or 617 : chillax end end

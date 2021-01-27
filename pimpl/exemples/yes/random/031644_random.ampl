@@ -1,0 +1,1 @@
+program Y : a : takes f19a, ua50a : integer returns boolean let Y[(807)] = - 12500 - 9 /= 1 end v : takes aD, Lo, e9, C8r, DE7aa : boolean; Z1Sa, F, i, l, _, xv : boolean array returns nothing Ay : boolean array; chillax end main : while X[20] - false : while 208 : pop; when case 6 : chillax end; pop end; do x(9 = 7, 1, 16); when case 8 : chillax end end; input Zu end

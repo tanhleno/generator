@@ -1,0 +1,1 @@
+program w : L : takes n, Y, C : boolean; H8, IDS0 : boolean array; Ihg0a : integer array returns nothing A : boolean array; J1 : integer; while - true and 2 - 4 - 3 : chillax end end main : pop b[7] - P - 12 - 3; pop not 9 or 63 >= 3 - 0 end

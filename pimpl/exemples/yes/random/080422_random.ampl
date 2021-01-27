@@ -1,0 +1,1 @@
+program N : main : T1 : boolean; when case B(2, 4) : when case - 3 - 3 >= 3600 : chillax end case 28 = 3 : pop end; input c6t[6980]; input ML[57700] end otherwise : do A730a(9 = 8); do KK0(38, 8530) end; when case not false or false and 6 : do O(304, 435, 55); output ""; while 6 : chillax end end otherwise : do m(99300, 0) end end

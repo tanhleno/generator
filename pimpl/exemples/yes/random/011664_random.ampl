@@ -1,0 +1,1 @@
+program N0 : w : takes c, m53, U : boolean returns boolean chillax end i1v : takes j : integer; r, d, bm, WVTaa : integer; u3I : integer array; X5, V : integer array; W : integer array returns nothing input p[- 6]; input C8[0]; do Q9t0a(4, 05) end main : RE : boolean; chillax end

@@ -1,0 +1,1 @@
+program hE : t2Y : takes a, R, Dsw0a : integer returns nothing A1e, f1 : boolean array; Q, N : boolean; pop 8; do v(96) end cW : takes Q, L : integer array; _Cc0, l, oJ, B46 : boolean; B, i : boolean returns integer array chillax end vmX : takes y7 : integer returns nothing chillax end main : PI : boolean array; chillax end

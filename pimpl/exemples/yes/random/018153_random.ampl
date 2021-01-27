@@ -1,0 +1,1 @@
+program lG : aJ : takes sM, o : boolean; G : integer; A : boolean array; A, od80a, c, Qk, Q9 : boolean returns nothing S89 : integer; j : boolean array; c8D, S : integer array; vwJ : boolean; output "" . "ui" end main : K, x3, G95a, X0, jwU : boolean array; d : integer array; B1 : boolean; d2 : boolean array; chillax end

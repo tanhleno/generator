@@ -1,0 +1,1 @@
+program fJ : n77 : takes Meh : boolean; F : integer array returns integer input i[false and 218] end main : fD, f6 : integer array; b : integer; roeaa, NA10a : boolean array; when case(53 = 9) + true rem true and 06500 - e3 and 33 < - 5 or not 6 and 4 : chillax end otherwise : do h(88500, 5); input n_m[78800] end end

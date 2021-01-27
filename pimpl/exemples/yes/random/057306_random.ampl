@@ -1,0 +1,1 @@
+program Z6 : Jg : takes D : integer array; zMf : integer array returns nothing output "4" . "y{" end Bq0aa : takes y : boolean array returns boolean chillax end n : takes C, f, d, r5saa : boolean array returns boolean i, t, L : integer array; output 6380 . 424 . "\ti" end main : while - iJ[8] rem false or(4) and(05) and 10 : chillax end; pop L and 51 - 990; pop 3 - 697 < 7990 end

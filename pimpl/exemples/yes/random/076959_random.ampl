@@ -1,0 +1,1 @@
+program YF : main : JS, Db80a : integer; while - not z8[193] * 162 : output 6 = 92; while 3760 = 46 : chillax end; while 3 : pop end end; when case not _ rem false and 7 - false + 1240 : output "" . 431 . "\t,!" end end

@@ -1,0 +1,1 @@
+program adU : _K : takes P : boolean returns nothing g17a : integer array; input R0; do siRaa(338 = 2, 82 = 01400, 52) end main : while false or true - not 9 or 9 : when case - 2 : pop end otherwise : chillax end end end

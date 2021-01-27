@@ -1,0 +1,1 @@
+program d : b : takes HwU : integer array returns nothing d, r : boolean; t : integer; L : integer array; pop 392 - 213; output "" end main : when case - (77) and false : output 49 = 12; input gw[9] end otherwise : chillax end end

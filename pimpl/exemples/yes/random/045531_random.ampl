@@ -1,0 +1,1 @@
+program Z : Q : takes g : boolean returns boolean array Z5, e, E, V, U92 : integer; let oo6 = array - true and 16 or 9370 - 43; let zA[- 6 - 19] = 2 end main : NWX0, n4 : integer array; pop true / I2 < not 05 and 93 - 010 end

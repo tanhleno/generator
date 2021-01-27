@@ -1,0 +1,1 @@
+program h0 : Z : takes l6, po, Y0, n, u85, S : integer array returns nothing q : boolean array; input d35aa end k : takes U, a7 : integer returns integer array chillax end main : I, A9, Yk, L740 : boolean; when case true / B480[9] rem m and 111 > - 72 rem 49500 and 415 : chillax end; output "" . - 2500 - 39 end

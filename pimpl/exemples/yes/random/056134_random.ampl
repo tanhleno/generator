@@ -1,0 +1,1 @@
+program z : p10 : takes ow : integer array; B : boolean array returns nothing l, q1, h : boolean; do h(false /= - 51 - 36000, 4, 289); let o = 55900 = 03; let E[1] = array 5 end main : Ws : boolean array; f6, s, Q : boolean; chillax end

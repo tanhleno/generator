@@ -1,0 +1,1 @@
+program w : c : takes t12aa, O, M7 : boolean returns boolean array h : boolean array; chillax end V : takes i : boolean; H1F, r1 : integer array returns nothing chillax end main : g9 : integer; VS, j, hB : integer array; _, h : boolean; C : integer array; X6 : boolean; M2o : boolean; output(4) / K and 59 + 37500 and 3 > S + 30 - 9 end

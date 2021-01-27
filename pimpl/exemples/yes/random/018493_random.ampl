@@ -1,0 +1,1 @@
+program zesaa : PP : takes VH8, E720 : boolean; Pds : integer returns boolean chillax end OT : takes Q : boolean array; K9k : boolean array; k5D, Y : boolean array returns nothing let g = array 7 - 333; input Z[4] end main : chillax end

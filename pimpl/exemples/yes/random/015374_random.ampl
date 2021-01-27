@@ -1,0 +1,1 @@
+program LX : X8 : takes bEO, Vcl0, u6 : integer array returns nothing MZH0a, q7O : integer; F : integer; chillax end JW : takes cg, w, o, k0, tDOa : boolean array; c : boolean; ZO, u4, h3k, S, X : integer array; Ex, pn90 : boolean array; j, m3, ee : integer; N : boolean; D8 : boolean returns integer chillax end main : zY3, n, p : integer array; kn : integer array; chillax end

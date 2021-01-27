@@ -1,0 +1,1 @@
+program k3 : iW : takes dye : boolean array; W : integer returns boolean t2 : boolean array; tr : integer array; chillax end s4f : takes K : integer array returns nothing o : integer; do w(5 <= 26) end main : while false / (66) / Re and 6 or not false / true : chillax end end

@@ -1,0 +1,1 @@
+program gk : TTD : takes Q, c : integer array; KU50 : boolean; D : boolean array; lR : boolean; J : boolean; u, X07 : integer array returns boolean X : integer array; chillax end main : let nL[(87) * true - not 6 * not 30 and 672] = array 6 / 2 end

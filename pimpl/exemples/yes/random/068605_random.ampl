@@ -1,0 +1,1 @@
+program O : main : n5a, w15aa, H, v, U, T6 : integer array; s : integer; output(07) <= (359) and 0 . "C"; let ajjaa[true or m] = array true rem Q73 + true + 97; do Y(- 6 and 4); do Q(42 - 9 <= 5, 93 = 77, 78500); let g[6] = array 1; when case 4 : chillax end case 52 : chillax end otherwise : chillax end; input Q; do t8P0a(3) end

@@ -1,0 +1,1 @@
+program Ra : gJ : takes s : boolean array returns nothing when case not 2580 and 96 : chillax end otherwise : do W(6120); when case 263 : chillax end; pop end; input c[- 0410 - 6] end U0 : takes Uv8a : integer; lHHaa : integer; t : boolean returns nothing N, M86a, St6, w4Qaa : boolean array; chillax end main : chillax end

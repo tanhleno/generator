@@ -1,0 +1,1 @@
+program Y : b560a : takes L, HN4 : boolean array returns boolean while(7) + 15 - 51 = - 2 - 3 : pop; do v5(12400) end; when case 17300 - 72 > 0 : chillax end case 57 = 256 : input n1 end end main : g, f, B4 : boolean array; chillax end

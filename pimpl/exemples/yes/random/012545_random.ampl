@@ -1,0 +1,1 @@
+program c : cR2 : takes k0, w9Z, w020 : integer; U, M, y, g, T, c, M : integer returns integer let V = - 0 - 30 <= 403; when case - 1 - 47 : while 76 : chillax end; output ""; pop end otherwise : pop end end main : chillax end

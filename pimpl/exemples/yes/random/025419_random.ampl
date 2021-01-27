@@ -1,0 +1,1 @@
+program d : V : takes D, D : integer; q, O2 : boolean; uHYaa, dC, U, m4, s2o0a : integer returns nothing ca, l9 : integer; i : boolean; HR8, fX2 : boolean array; v, r : boolean; do d(- not 5, 3 - 4 <= 9, 1 = 8, 7, 0); do eZ1(7110 - 3, 5370, 55400) end main : while - Z(1, 10300) or(3) * 4 /= true / (8) and 6 : chillax end end

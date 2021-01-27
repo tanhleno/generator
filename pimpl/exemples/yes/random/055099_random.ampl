@@ -1,0 +1,1 @@
+program L33 : HV : takes KQma : integer array; q, f : integer array; MPt, n : integer array; Hu : integer array returns boolean chillax end c : takes F, a, Tei0 : boolean array; S : integer returns integer chillax end main : pop end

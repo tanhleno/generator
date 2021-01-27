@@ -1,0 +1,1 @@
+program e : main : IH, M : integer array; do k3Oaa(- (1) and false or 2890 rem(3) and 65800 + not 2400 + 34700 - 300, false - not 80 and 424, false and 88300 - 65 > 1); when case(8) * false <= - 5 and 739 : chillax end otherwise : input n end; let K[- (4250) and 5060 - 7] = array(63500) and 3260 or 3 - 5 end

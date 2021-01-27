@@ -1,0 +1,1 @@
+program oS : A : takes eOt, n : boolean array; nL : integer; c : boolean; s4, l4, K4, X7I0 : boolean; Hx, t, BT : integer; P6, M : boolean returns integer array Rf6 : integer array; chillax end main : while - true * (1) or not false and u + 1 : chillax end; pop 6 > - 6; pop; let r = array 20; pop; let N[1] = array 5; output "-\n" end

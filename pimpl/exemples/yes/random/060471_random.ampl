@@ -1,0 +1,1 @@
+program PdQ : Q : takes o : integer array returns nothing KL, g : boolean; IT, OgS0, H9 : integer; s : boolean; g : boolean; chillax end s : takes eD7 : integer array; y, u, H, h : boolean array returns boolean array do N(9) end V : takes vi : integer returns integer chillax end main : chillax end

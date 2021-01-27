@@ -1,0 +1,1 @@
+program C : k67 : takes xA, J79a, E84, aL8 : boolean array returns boolean array let T = array true; input f; let s[2] = 91600 end R : takes G6 : boolean array returns nothing chillax end main : output "" end

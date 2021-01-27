@@ -1,0 +1,1 @@
+program N7N0 : B : takes m : boolean returns nothing when case - false + 0 : when case 52200 : pop end end case - 1 : chillax end case 3 : let Z = 4 end case 8900 : chillax end case 47 : chillax end otherwise : chillax end end J : takes m : boolean array returns boolean array q : integer; pop 94 end main : J6 : integer; chillax end

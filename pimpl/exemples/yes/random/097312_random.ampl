@@ -1,0 +1,1 @@
+program Gib0 : main : when case 618 * F4Eaa : when case 0 = 2 : chillax end otherwise : chillax end; input m; do j(2, 17) end otherwise : input dj end; while - o[765] / false and 25900 - not 40 and 07 or 82 - 479 : while 4 : pop end end; output "" end

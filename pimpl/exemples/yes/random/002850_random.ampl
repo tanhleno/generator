@@ -1,0 +1,1 @@
+program S : xW5 : takes U, M1l, f, ivSaa, U : boolean array returns nothing w : integer array; pop end t : takes s, M : integer returns integer when case 9 : while 555 : chillax end; when case 60 : chillax end end; input D end main : let a[false rem false] = - false > - (02) and 6; while - 9 * not 8 + (160) and 121 or 73700 - 0 : chillax end end

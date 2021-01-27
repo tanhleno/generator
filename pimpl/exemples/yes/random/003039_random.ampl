@@ -1,0 +1,1 @@
+program JXG0a : XJ9 : takes M9, B, Y2taa, W, mG : boolean returns nothing T, b8 : integer array; P : boolean; g : integer; input h89; do e3g0a(6 - 7 <= 91, 989 = 4) end main : when case - true * false : output 7 . "" . 1270 . ""; do p6(26, 6, 1) end; let p = array B; let c = 401 - 33; do M530(28, 20); while 97900 = 3680 : let Q = 05 end end

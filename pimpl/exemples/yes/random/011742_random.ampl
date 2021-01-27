@@ -1,0 +1,1 @@
+program h : T63 : takes C, V25, x5 : boolean returns boolean input N[U4 and 47600]; input B[76 - 1] end main : V : integer; M, _, d : boolean array; pop - 549 rem(705) and 31 < (45) + 7; do lO30(not true); while 759 and 5 + 8290 : chillax end; when case - 81000 - 072 < 43 : chillax end otherwise : do a_7(63500); pop end end

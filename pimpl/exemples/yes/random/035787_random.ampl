@@ -1,0 +1,1 @@
+program S : o : takes i : boolean; A9 : boolean array; j : integer array; E : boolean; FU : integer array; V : boolean returns nothing j8w, uk : boolean array; e : integer array; x : boolean; M : boolean; chillax end main : w3, b, H, b, z : integer; output - not true /= true end

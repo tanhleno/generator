@@ -1,0 +1,1 @@
+program T : u : takes T : integer array returns integer m, G, oB, GD, D : integer array; x : boolean; O4M, Q : integer array; H940, hC : boolean; mW : boolean; F : boolean; while - false : input aDM end; let Z[- 4 - 6] = 6270 end main : chillax end

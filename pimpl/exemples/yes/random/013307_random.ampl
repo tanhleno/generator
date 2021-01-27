@@ -1,0 +1,1 @@
+program _x : Z : takes DY10a, l, C8 : integer; o8 : boolean returns nothing chillax end a : takes j, d : integer returns integer array D23, t, _, Q4daa : boolean; chillax end main : G : integer; lP10a : boolean; OB : integer array; Rb : boolean array; do al(true > 51100 and not 26200 or i630a + 6 - 8); when case not K / true or true : chillax end end

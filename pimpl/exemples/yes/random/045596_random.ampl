@@ -1,0 +1,1 @@
+program h5 : x : takes WW : boolean returns boolean array v, Uj9aa : boolean; I, H : boolean; V, _, _4w0a : integer; when case - false and 0 > - 34200 - 03 : chillax end case - 54 - 30300 : chillax end otherwise : chillax end end xI : takes p, e6 : integer returns boolean G : integer; pT : boolean; chillax end main : chillax end

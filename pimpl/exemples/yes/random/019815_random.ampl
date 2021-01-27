@@ -1,0 +1,1 @@
+program RPD0a : gu2 : takes g8V0a, V7 : boolean array; m3 : boolean array; U, Z, w, H42 : boolean returns nothing K3 : boolean array; chillax end o : takes u : boolean; FQ : integer array returns nothing _5, h9, f790a, H350 : integer; j : integer; chillax end main : bN : integer array; let Ul[(1)] = - false <= not 8 - 405; input _[true rem I5M + (956) and 46] end

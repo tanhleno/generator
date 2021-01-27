@@ -1,0 +1,1 @@
+program QPE : T8e : takes I : integer returns nothing f870, B : integer; mr : boolean array; k07, o, Z : boolean array; chillax end pvL0a : takes r : boolean array returns nothing chillax end M : takes tvk, _47aa, S, PX : integer array returns nothing chillax end main : WZ, Z7, q : boolean array; b : boolean; input i; do j68aa(0 - E and 58 = - 1 and 99 + 5 - 125) end

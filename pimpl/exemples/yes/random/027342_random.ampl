@@ -1,0 +1,1 @@
+program E : K : takes bXw, Hd : integer array; At0, c, s43 : boolean array; D, v : boolean returns nothing chillax end main : Y22 : integer; e : boolean array; K : integer; t, S, s90aa, D : integer; x6J, F : boolean; while 297 : output 52300 . 394; let B740[7] = array 74400; input S end; input Vy[- U[6] - 2 and 1 + 8 - 573] end

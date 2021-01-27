@@ -1,0 +1,1 @@
+program g : t1d : takes I, s1, q, LQh0a : boolean array; C, Uv2 : boolean array; Q : boolean; m290 : integer; z, M, b : integer returns integer array chillax end ZP : takes D, F7 : integer returns nothing o6, i, _ : boolean; j : boolean array; S, U : boolean; DG : boolean; do Uxu0a(088) end main : B66 : integer; H : integer; chillax end

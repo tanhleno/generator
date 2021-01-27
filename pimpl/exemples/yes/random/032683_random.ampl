@@ -1,0 +1,1 @@
+program jT : F : takes XV6aa, hmMaa : integer returns nothing Zp, l2 : integer array; z, T, zJ : boolean; input em[- true]; do _(41 > 67); while 814 = 0 : chillax end; let m[66800] = 72; pop end main : chillax end

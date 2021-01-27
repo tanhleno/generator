@@ -1,0 +1,1 @@
+program uy : main : do G630((6 = 9) * 7 /= not true * not 300 and 8490); while 35 * false and 2 - true and 70 >= - false and 2 - 9 : input I86aa; output "<" end; when case - not 53600 and 96 - 0 - 0 : chillax end otherwise : chillax end; when case - 5460 - 6 <= 6 : output "+"; pop; pop end otherwise : output "" end end

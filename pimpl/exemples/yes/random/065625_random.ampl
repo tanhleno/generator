@@ -1,0 +1,1 @@
+program V7Waa : main : do d((87) + 1220 / not 31300 - not 3, - i * 1 and 3, (2) and 1 < 010 - 96400, 2 - 9 < 8); when case - true - not 1 or 0 < true and 84 : chillax end case true : chillax end case - 58 - 4 = 634 : chillax end end

@@ -1,0 +1,1 @@
+program qF10 : bW4 : takes vD, z : boolean array returns nothing chillax end D : takes K, IGX0a : boolean array returns integer when case - 5 - 5380 < 26 : chillax end end main : w : boolean; chillax end

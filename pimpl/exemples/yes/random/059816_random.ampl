@@ -1,0 +1,1 @@
+program y : N3V0 : takes a4 : integer array returns nothing chillax end qj : takes cY : boolean array returns nothing let Z7S[- 48 - 3] = 0 = 0; output 2; while 7 : chillax end end main : do V9Q(true * Xt50a(4) * 868 and 286 - not false - not 0 and 831 - 3 - 04 = 59300 or h) end

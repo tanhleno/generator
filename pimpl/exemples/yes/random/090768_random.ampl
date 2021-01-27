@@ -1,0 +1,1 @@
+program Lq2a : main : let S[- false - not 5 - true and 41 + 7 - 3030] = array F1(7); input NtU; when case - true + 1 < 4 : input xp end case 571 : input j; input c; pop end case 26900 : chillax end; pop 04; output 488 . "8"; pop end

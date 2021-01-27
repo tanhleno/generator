@@ -1,0 +1,1 @@
+program yT : main : t07, Yau0 : boolean array; while S rem(5) or 807 and true and 02 + G and 1 - 7 - 1900 : do r(3 - 95, 685 = 74); pop; when case 3 : chillax end case 2 : chillax end otherwise : chillax end end end

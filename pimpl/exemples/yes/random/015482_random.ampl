@@ -1,0 +1,1 @@
+program p : f4 : takes gk, x91, q : integer array returns nothing Tn1 : integer; do H(not 21 < - 57 - 64200) end Bh : takes k, jB3 : boolean array; J4 : integer returns boolean chillax end PP2 : takes g, v : boolean array returns nothing cr1aa, F : boolean; u : boolean; chillax end main : chillax end

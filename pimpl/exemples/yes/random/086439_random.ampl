@@ -1,0 +1,1 @@
+program L : main : A : integer array; S : boolean; when case qWt(44400) / true / 2 and 65 : chillax end case - j(3) : let F = array 97; do J(60, 3) end case - (01) /= - 52 : output "" end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program F : main : x, T9 : integer array; G : boolean; output true or true + 52 . not 3 and 1 or 52300 - 78 > 2 - 51; let B[not yg + not 27 + 93 - 6] = array not Q1 + true + 02 - 6; do e6ya(- (541) < 4 - 9, - 8); pop end

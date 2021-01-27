@@ -1,0 +1,1 @@
+program D0 : f : takes er, N460a : boolean array returns boolean array when case true < 4 - 73 : chillax end case - 8 - 18600 <= 0 : let R = 47; do j(4); pop end case 244 : chillax end otherwise : output "`-" end; input ga[- 26 - 00] end Ff : takes U, R, i6 : integer array returns nothing T2 : integer array; output 4540 = 4 end main : A1, e6s0, cnk, n : boolean array; chillax end

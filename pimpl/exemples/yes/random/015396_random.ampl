@@ -1,0 +1,1 @@
+program QaO0 : f : takes K2, o3, n3 : integer array returns nothing A, phZ : integer array; u5Ja : integer; GG7a : integer array; while not 8 + 7 > 7 : chillax end; input Or0 end main : q8, v, k, A0 : boolean; i : boolean array; chillax end

@@ -1,0 +1,1 @@
+program hD50a : main : F6x0 : boolean array; g : integer array; E, f, d, y : integer array; when case false / 1 : while - 901 : chillax end end case false * false and 6460 + 01900 and 3 : chillax end; input z[- not 56000 and cB20 + 8 and 2]; let f2[5 or 82] = array - 1 and 7 end

@@ -1,0 +1,1 @@
+program N : v : takes sV : integer array; r0 : boolean returns integer Z : integer array; chillax end c : takes h, o, Xl8, h : integer array; UN : boolean returns nothing U : boolean array; a, b620a : integer; MSIa, V : boolean; l : boolean; U06aa : boolean; input v2w[1500]; when case 41 = 1960 : chillax end otherwise : pop end end main : chillax end

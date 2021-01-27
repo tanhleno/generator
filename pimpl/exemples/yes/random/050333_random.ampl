@@ -1,0 +1,1 @@
+program q420 : qEE : takes S7 : integer; v4X0a, c : boolean; T, DWj : boolean array returns nothing output - 3 end main : nB : boolean; Z : integer array; F : boolean array; Z : integer array; do g(false / false * 3, true rem false and 03 /= 33 and 2310 + 716, - (8) < - 6090) end

@@ -1,0 +1,1 @@
+program f1q : vx0 : takes _ : boolean; G_Ua : integer; g : integer returns nothing let zef0[true and 69] = array - df10a end main : when case - false and false * Z7c0a and 4760 /= - not true rem I and 11 or 414 + 9 - 36 : do y(76 > 2340, 4 = 2); input S[4]; output "V" . ""; while 1 : chillax end end end

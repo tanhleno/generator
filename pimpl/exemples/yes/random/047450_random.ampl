@@ -1,0 +1,1 @@
+program XI : J350 : takes W : boolean returns nothing chillax end Y : takes Oc, o : boolean returns nothing Z, F, T6, R4l : boolean; Wh0a, H, p : boolean; chillax end main : input x[b[9] - false rem(987)] end

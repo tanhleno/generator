@@ -1,0 +1,1 @@
+program t64 : F : takes n, w26 : integer returns boolean I : integer; chillax end i : takes c06, q, qL : integer array returns boolean array dK : integer array; m5K : boolean; let nN = 3 = 7 end main : chillax end

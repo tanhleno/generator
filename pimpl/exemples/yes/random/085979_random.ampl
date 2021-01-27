@@ -1,0 +1,1 @@
+program f : main : v4 : integer array; F, n3 : boolean; VRq : boolean; r0, w41 : boolean array; when case - not A_[216] and 8 * true and 34 <= - (9) / (5) : chillax end otherwise : let A3P0 = array 3; let G[5] = array 7 end; while true - (50) = - false or 2 : chillax end end

@@ -1,0 +1,1 @@
+program TF : K82 : takes Ox, i : boolean returns nothing A : boolean array; Q, k, S, C : integer; A : boolean; chillax end main : when case - false : do Z(- 5 - 5 >= 9); let H[7] = 3 end; pop 2 = - 7 end

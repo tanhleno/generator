@@ -1,0 +1,1 @@
+program XN : main : when case - (0 = 0080) /= false - zZl : chillax end; when case true + (2) and 637 - 026 : while 738 = 1 : pop end end case false and 6 - 3 - 94 < - 81 - 5 : output 52 . "" end case 80 - 086 : chillax end case 1 = 6 : when case 3 : chillax end; pop end otherwise : chillax end end

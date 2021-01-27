@@ -1,0 +1,1 @@
+program N2 : main : when case(85 = 4) > UHMaa + true and 1 or 10 : output "\t7" . 8690 . "H" . "" end case true and not 3 or(67) and 2 - 9 >= - 89 : chillax end case - true - 52 - 71 = - 4670 : while 17 : pop end; let np2 = 0310 end otherwise : while 2 = 3620 : chillax end end end

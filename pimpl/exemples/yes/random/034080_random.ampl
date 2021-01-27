@@ -1,0 +1,1 @@
+program Z1 : y4uaa : takes F6 : boolean; r, R2, E5 : integer array; R : boolean array returns nothing output "" . 9 = 08 . 437 . "2" . "" end main : N9, DXK0, CX : integer; O8za : integer array; Kw : integer array; e, L : boolean; chillax end

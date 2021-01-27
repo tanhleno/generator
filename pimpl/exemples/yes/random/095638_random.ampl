@@ -1,0 +1,1 @@
+program m : main : when case - (83) rem true / 2 > - P : input Y630a[- 9 - 4]; input D; when case 9 : pop end case 9 : chillax end otherwise : chillax end; pop; do lO(50400) end otherwise : output ">2" . "" . "\tI" end end

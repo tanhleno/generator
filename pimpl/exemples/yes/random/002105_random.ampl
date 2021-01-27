@@ -1,0 +1,1 @@
+program xO : m8 : takes vU3a, X3, u, X, e : boolean; xi, V, f, tn, O, p : boolean array; v8Y0, K250, C : boolean array; D8 : integer array; M65aa, y : integer returns nothing do f7(- F9 and 73 + 896 - 63 > - 4 - 1, - 0) end main : d, s9, u9 : integer; v2, t : boolean; let P6naa[- false] = array tW[8]; do s4o(- false = b240 and 5, - (79) and 24, - 0 < 7, 66 = 760, 53) end

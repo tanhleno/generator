@@ -1,0 +1,1 @@
+program E : q7 : takes j4, B3q0, v2 : integer array; Y : boolean; c : boolean returns nothing h, T : integer array; let E5[true - 0] = array(9980) and 9 + 0 end main : bA, N0M, c6 : boolean array; OfL0, d0, p, YM7, m0d, n : boolean array; while - (81400) - true <= not true * 8 or 4 : chillax end; output "" end

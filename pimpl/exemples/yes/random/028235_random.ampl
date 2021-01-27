@@ -1,0 +1,1 @@
+program T16 : e : takes m, UHE : integer array; w : boolean array; B7, du6, m7, k67 : boolean; nbI : boolean returns nothing while(10) and 1030 - 3 : chillax end; output 95 = 1; let sUb = array 4 end X8 : takes Ai : integer; s6 : integer; _C10, oo9 : integer; V : boolean array returns nothing chillax end main : f : boolean array; PPZaa : boolean array; output "" . "a%0" . "" end

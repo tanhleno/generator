@@ -1,0 +1,1 @@
+program R81 : i9Xa : takes p, IB, K : boolean; D : integer returns boolean array when case false and 9 or 98 - 6 > - 6 : do X640(9710); while 9 : chillax end; do u(56) end case - 09 : chillax end case 4 : chillax end otherwise : let _q3 = 2; pop end end main : PD2, W, mh, g3, FD2 : boolean array; chillax end

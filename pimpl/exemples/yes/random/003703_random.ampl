@@ -1,0 +1,1 @@
+program m : EBeaa : takes j9k, c1, P5F0, f, o : integer array returns boolean m5D : boolean array; let Ck = - 2 - 450 > 1; output "5i!"; output "" end S9 : takes p : integer returns integer chillax end main : iJ, B2, OSBaa, H : boolean; chillax end

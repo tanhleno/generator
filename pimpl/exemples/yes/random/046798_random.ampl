@@ -1,0 +1,1 @@
+program Z : fe : takes e : boolean returns integer array let pr = 7780; do s(- 1); let y4[631] = array 252 end main : output - n8v[87] rem false and 167; let k[true or _9M] = true and 3 - 535 - 6 = - 76 - 4; pop end

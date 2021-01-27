@@ -1,0 +1,1 @@
+program j : main : while - 2 / not V : while 06 - 5 <= 3 : chillax end; pop 1 end; input Y[true]; when case - (4) and 16 + 79400 : do N1(4); do E(1) end case - 6 - 2740 : chillax end; let i = array 0 end

@@ -1,0 +1,1 @@
+program RY : D : takes k : integer array; n81a : boolean returns boolean array Uc : integer array; chillax end main : do L(- P(085) <= A(33800) * not 79 and 53 or 8, (904) / x830a and 74 > MZ3aa - 312) end

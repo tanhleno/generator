@@ -1,0 +1,1 @@
+program R : nns : takes Kg, Q, f : integer; O : integer returns nothing chillax end L : takes I3, c1 : boolean; W02, sk8a, _jzaa, vv : integer returns integer array chillax end I : takes _ : boolean returns nothing g : integer array; Y, f : boolean; hjc0 : boolean; input I[083]; let l[3] = 1; let Ik = 442; output ""; pop end main : chillax end

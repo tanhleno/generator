@@ -1,0 +1,1 @@
+program s : rU : takes f, E : integer; W7, e56 : boolean array returns boolean chillax end E : takes H530, F, F5ra, d, Q0 : boolean; U : boolean returns integer chillax end main : EG : integer; chillax end

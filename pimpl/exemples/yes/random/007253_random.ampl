@@ -1,0 +1,1 @@
+program W : KSN : takes C88, k63, Y, c : integer array; g : integer; w : boolean array returns integer R : integer; V : integer; P, M, z49a : boolean array; Pe : boolean; chillax end main : h, x : integer; output ""; when case - (9) : output "#" end end

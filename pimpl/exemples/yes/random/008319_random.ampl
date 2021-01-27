@@ -1,0 +1,1 @@
+program X : B : takes Q, f, FV, V6 : integer returns nothing i2 : boolean array; let holaa = 8 > 874 end main : H, V11a, QXNa : integer array; ka6a, o : boolean; S, IJ0 : integer; l3v, a4, vb, h : boolean; a : integer array; Wq, Z : boolean; output ""; do F(- true = 6) end

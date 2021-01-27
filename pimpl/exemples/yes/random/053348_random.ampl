@@ -1,0 +1,1 @@
+program U : _ : takes Q : integer; ow30 : integer returns nothing input sA; while 0 /= 5 : pop end; input i3; input jO5a[3350]; while 6 : chillax end end a : takes zO, S : integer array returns nothing let i6 = array - 32 end main : chillax end

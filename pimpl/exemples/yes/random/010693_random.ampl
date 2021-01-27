@@ -1,0 +1,1 @@
+program P3 : L : takes R7, Y, i : boolean array returns boolean I1Ra, I : boolean array; output 96 - 16 end n : takes r, v : boolean array; P6X : integer array; T1, KQo0a, K, j, d : integer array; f : integer array; g7 : boolean; W : boolean returns integer array output "\\3"; do gqG(26) end main : pop - not P * 8 and 95 <= - not 5 end

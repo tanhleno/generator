@@ -1,0 +1,1 @@
+program IC : s : takes D, k, o : integer array; b, iw3, B, I, xw8, il : boolean returns nothing a : boolean; input z end V8 : takes T : boolean array; _0, _7r : boolean array returns nothing Z3E : boolean; chillax end main : output - not false . "6)a" . "T30a"; input r[true / true or(53) and 2] end

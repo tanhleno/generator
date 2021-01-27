@@ -1,0 +1,1 @@
+program k : D : takes l1H0a : boolean; o : boolean returns boolean chillax end X : takes o49aa, s : boolean array returns nothing yx : boolean array; L, R, y : integer; pop 8200 = 4880 end main : when case true * true > true - false and 9 : chillax end end

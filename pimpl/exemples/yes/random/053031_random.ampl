@@ -1,0 +1,1 @@
+program N27a : J : takes Q170 : integer; k : integer array returns nothing RN2 : boolean; chillax end F4 : takes Su : boolean returns nothing chillax end main : let Yxo = array - 1 * y8(6) rem false end

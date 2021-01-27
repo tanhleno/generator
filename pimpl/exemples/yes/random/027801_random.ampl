@@ -1,0 +1,1 @@
+program k31 : H : takes _, X : integer array; B, C0U : boolean returns nothing chillax end I5 : takes F9v : boolean returns nothing E1 : integer; p, O7 : integer; Q : boolean; t5 : boolean; H6 : boolean; input S3[- 4 - 24400] end main : input cw8 end

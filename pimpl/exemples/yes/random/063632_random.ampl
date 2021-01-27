@@ -1,0 +1,1 @@
+program z : hS : takes VW : integer returns nothing chillax end bh : takes czE0, W, k2N0a, B, Z1, D : boolean array returns integer do VUI0(9 - 451 <= 5, 6, 4) end main : Z30, z : boolean; do f(false / 9 and not 8) end

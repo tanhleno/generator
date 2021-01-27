@@ -1,0 +1,1 @@
+program L : b : takes X6, Fy, z : integer; f8, h : integer returns boolean T : integer; chillax end main : h : boolean array; do j(not not false * true and false = l * (56400) and 0, - not 81 * 8 and 554) end

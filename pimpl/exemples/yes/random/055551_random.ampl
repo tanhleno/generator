@@ -1,0 +1,1 @@
+program h : Nt : takes M2 : integer array; C4 : boolean; z6L0a, G5 : boolean returns nothing do w(- 2 and 9); input B[4 - 71100] end main : M2 : integer array; fF : boolean; let oj = true + false and 59; while - vY(5) / (2860) >= 2 and 1 : while 1 : let ss90 = 8310; pop end end end

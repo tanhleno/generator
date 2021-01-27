@@ -1,0 +1,1 @@
+program qN10a : E : takes k, Jw : integer; q6 : boolean array returns nothing output - 6 - 5880; output 53 = 7; let F4[89] = array 8 end main : do o(8 + l1); while(8) : input nAE; pop; output ""; when case 4340 : chillax end; pop end end

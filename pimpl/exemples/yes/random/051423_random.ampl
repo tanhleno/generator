@@ -1,0 +1,1 @@
+program d : KFda : takes ct0a : integer; M : boolean; Xy0, n80aa : integer array returns boolean chillax end NC : takes n, s, KQ, W10, W : boolean array; _ : boolean array; L : boolean array returns nothing v, HV : boolean array; chillax end main : E, i, PA, gZ : boolean; input q end

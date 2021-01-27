@@ -1,0 +1,1 @@
+program XD : n5l : takes d, r7S : integer returns nothing v : boolean; J : boolean array; JGs, T3, Sn : boolean; r1, L_ : boolean; VS : boolean; chillax end main : w, MV4aa : boolean array; output "" end

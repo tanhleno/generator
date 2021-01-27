@@ -1,0 +1,1 @@
+program Ij : main : when case(93) and 6 : output 6 = 2 end case - wLR0[61] + false : when case 1 : let U = 8 end case 2 : chillax end otherwise : pop end end; pop; while 95 : pop 4420; while 50 : chillax end; do r(6) end end

@@ -1,0 +1,1 @@
+program o : O : takes Zi4 : integer; M, T, u : integer returns nothing while 7 and 9 : chillax end end iBr : takes h : boolean returns boolean chillax end G5 : takes N : integer returns nothing O : boolean; let Ds[31] = array 00 end main : when case false / 2 or(5) : input M2; input Sp; output 7; do yG(81) end otherwise : chillax end end

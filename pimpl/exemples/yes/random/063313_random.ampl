@@ -1,0 +1,1 @@
+program w : gb5 : takes k : integer returns integer T, D, lB40, UU6, Pz : boolean array; let f[true and 4 or 78] = array not 55 and 53 + 420 - 428 end main : let HZ9[4 - true or UYnaa - 4 - 359] = - true or(31) - 8; output(8) . 6 - 5; pop 1 - 4; output 3 = 8; input N[4] end

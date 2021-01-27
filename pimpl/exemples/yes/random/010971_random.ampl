@@ -1,0 +1,1 @@
+program Ti : d : takes j4, P, y : boolean array returns integer x : boolean array; k, ag00a : integer array; input s; do m8(3 = 90700, 8) end main : vU30a : integer; pop false or not 7 - 0 /= - (2) and 6 end

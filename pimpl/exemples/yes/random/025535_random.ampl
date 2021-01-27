@@ -1,0 +1,1 @@
+program e : e06 : takes N37aa, RG : integer; t, O : boolean array; Y7 : integer array returns nothing when case false < 10 - 460 : chillax end; do P4(92600 - 6 /= 6); let r = 960 end main : output ""; pop; do N(xX and 17900 >= - 0); pop 6 = 6 end

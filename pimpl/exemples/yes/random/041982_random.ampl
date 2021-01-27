@@ -1,0 +1,1 @@
+program y : _gK : takes c : boolean array returns boolean chillax end main : do gy(- 1 and false * 07 and 9 + 05 or(1210) or 7 - 5, (5) and not 9 and 475 + true and 96, false and 99 or 9 - 7 = 49 - 8); while - lB6[70000] * true /= Y4o0a + 1 - 60 : do jJ(40) end end

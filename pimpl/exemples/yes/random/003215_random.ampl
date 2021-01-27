@@ -1,0 +1,1 @@
+program j47 : T : takes uc5, l98, h7xa, Q, _H7aa : integer; P2, O2 : integer; x : integer array; OJ, J6, K : integer; k : integer; Bz, K, u : boolean array returns nothing chillax end main : fn30, NF80 : integer; chillax end

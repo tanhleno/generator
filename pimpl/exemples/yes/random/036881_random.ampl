@@ -1,0 +1,1 @@
+program E : h : takes rTg : boolean; l9 : integer array; v : integer array returns nothing when case - true : when case 36 : pop end otherwise : chillax end end end main : m : integer; Nm : integer array; when case - b(6, 57) : let W = 16 end case v5R(20) and true < - false : chillax end; input Er4 end

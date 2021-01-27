@@ -1,0 +1,1 @@
+program Q : a : takes l_ : integer array returns nothing when case - false and 7 /= 81 : chillax end case 2 - 87 > 3 : chillax end; let h5f0 = 96; input a750a end main : Z, miJaa, M99aa, r290, Sr : boolean; L : integer; r, cY, a, Ga, h83a : boolean array; l, V, x2 : integer array; do _(XU(37, 4) rem W9 rem(10200) and 548 = - not 2 rem true and 07 or(51600) - 36400, - true) end

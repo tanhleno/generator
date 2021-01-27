@@ -1,0 +1,1 @@
+program wBTa : main : x, o_ : boolean array; when case - not 5 * (96) and P or false / not 28 = k and true and 28700 : chillax end case(049) rem true and 9 <= - false - 60 - 66 : input V end case - false : let H[1] = 4 end otherwise : chillax end; pop(3) + 5 end

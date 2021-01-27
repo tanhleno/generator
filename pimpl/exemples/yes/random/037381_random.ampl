@@ -1,0 +1,1 @@
+program G4 : k08 : takes Cz5aa : boolean; P : integer returns nothing m : boolean; chillax end O : takes i, iR : integer array; Fk : integer; Q10, v2 : boolean; H : boolean returns integer S : integer; M : boolean; e : boolean; input Y0[3]; let O = 999; input y6[9]; when case 1 : chillax end; input k2f end main : chillax end

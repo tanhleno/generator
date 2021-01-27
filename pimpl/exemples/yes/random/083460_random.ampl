@@ -1,0 +1,1 @@
+program b : main : Gq : integer; t82aa, g4Y0, c : integer array; z66, rC : integer array; z, R, Gf50, H : boolean array; M : integer array; while true * (4) or true rem not 54500 and 100 >= - 7 : chillax end end

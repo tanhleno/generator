@@ -1,0 +1,1 @@
+program i : main : c, q : boolean; do HQIa(- false or false rem 60 and 8 - of or 3 - 5 >= E(2) rem P4 and 1880 or not 7270 and 9690 + 2, - true >= b7B and 99 or 95, (8) and 5); output "m'" . "'\\" . 1 end

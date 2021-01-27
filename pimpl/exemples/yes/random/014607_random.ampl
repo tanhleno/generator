@@ -1,0 +1,1 @@
+program r : q5 : takes R, Z, M0b : integer array; _ : integer returns nothing f, on2aa, A, kW : boolean array; do k(- B and 68 or 230 - 1530 >= - 2 - 1) end main : Y, g : boolean array; let oY5 = array - not not not 39 end

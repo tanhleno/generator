@@ -1,0 +1,1 @@
+program b : main : when case - false * not(9) and(1) and 1 + not false + 780 - 5 - 3 >= - (8) / rb3a + not 500 : chillax end otherwise : while 555 : chillax end end; output "\t7a"; output 3910 < 8 end

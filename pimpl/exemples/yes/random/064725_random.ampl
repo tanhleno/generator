@@ -1,0 +1,1 @@
+program l : N1 : takes Q : integer returns nothing wp6 : boolean; v1 : integer array; o430a : integer; when case 38 and 6 : chillax end; when case - 8 - 77 /= 10100 : chillax end otherwise : let T = 49; pop end end k : takes Ek : boolean array returns boolean b : boolean array; chillax end main : b1s : integer; input wJ end

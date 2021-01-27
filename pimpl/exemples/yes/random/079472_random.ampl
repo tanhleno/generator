@@ -1,0 +1,1 @@
+program b : main : EF1 : boolean; kP : boolean array; when case(969) : output 5 . 81; output "\"\n" end; while false / false and 7 + true and 39 - 360 - 50 : let i420[7] = 4; while 3 : chillax end; do s7(17) end; input vab[false and 91] end

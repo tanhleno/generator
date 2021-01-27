@@ -1,0 +1,1 @@
+program U : p64a : takes t, I : boolean returns nothing Js, i, U, fB3 : boolean array; w : integer array; sqUaa : integer; while n = 856 - 517 : chillax end; when case 3 < 3 : chillax end case 1 = 90 : when case 13 : chillax end end case 7 : chillax end case 9 : chillax end end main : chillax end

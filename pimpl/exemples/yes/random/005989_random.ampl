@@ -1,0 +1,1 @@
+program p6 : w : takes K, W, n4Haa, K : boolean returns integer array while - not 4 and 360 : when case 8 : chillax end case 8890 : chillax end end; input x0X; let U4o0 = array 1700; while 52 : pop end; pop end main : chillax end

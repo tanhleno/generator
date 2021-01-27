@@ -1,0 +1,1 @@
+program P : main : when case false < - not not 0 : chillax end case I0[311] and false and 95200 : do n3Fa(248 = 0, 1700, 75) end otherwise : input D[4] end; do H(not false > - (2), not 08 = 7 - 668, - 44) end

@@ -1,0 +1,1 @@
+program i : wDkaa : takes iBE, Gv, g : boolean array; f, F : boolean array returns boolean while - xl0a or 156 - 57 > 74 - 6 : chillax end; let Z3[1 - 5] = 3 end VF4a : takes V, Y : boolean returns integer array input J end main : chillax end

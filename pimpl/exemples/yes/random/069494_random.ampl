@@ -1,0 +1,1 @@
+program Y : main : B5Ya, O99aa, g, eC2 : boolean; z : boolean; output ""; let D2 = - not 8450 - 9; while not 0 = - 982 : output "\\"; input JR; pop; pop end; input h[4]; output "[0\"" . 4; when case 907 : pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program X : aD : takes c, y, x, Fk : integer array; IuC, vq : boolean returns nothing bZ, i1, yT : boolean; T4 : integer array; EHN, L0, A : integer array; output 3 < 32; do L(49 >= 10); while 64 = 20 : while 6210 : chillax end; pop end; while 52 : pop end end main : let T0[not E4k[437]] = 8 * Y and 1 - not 6 and 99 - 418 /= false - 12 end

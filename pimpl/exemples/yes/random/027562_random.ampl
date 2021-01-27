@@ -1,0 +1,1 @@
+program rN : c : takes t, peW0 : integer array; B, IRpaa, f : integer returns nothing input H end main : when case not ls2a[83500] * false /= not false + r - 524 - 63 : let D[87 - 679] = 16 end case - a[9] * y1U and 136 : chillax end case - (77) and 9 : chillax end otherwise : chillax end; pop end

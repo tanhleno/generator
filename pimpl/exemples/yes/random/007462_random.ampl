@@ -1,0 +1,1 @@
+program W : H0da : takes p, G, UO, D7 : integer array returns boolean F, U7 : integer; G, u, R, S0_0a : integer; while - false : when case 6 : chillax end case 7 : chillax end otherwise : chillax end end end main : gW, r : integer; when case true or e8i0[09] - 5 : chillax end case - true - false and 14 + 1 - 42600 /= - (6) and 737 : chillax end end

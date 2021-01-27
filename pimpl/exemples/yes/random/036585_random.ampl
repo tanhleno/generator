@@ -1,0 +1,1 @@
+program r : H : takes YxI : boolean; C : integer; a : integer array; U2ka, p6 : boolean; A : integer array; g0 : integer array returns boolean array A, ZP3, CI, a, u : integer; let _ = - 8 - 95; output "" . 32 . 995; while 2 = 62700 : chillax end end PY0 : takes M9, mCsa : integer array returns nothing z, wpb, T, EP : integer; q290 : boolean; chillax end main : chillax end

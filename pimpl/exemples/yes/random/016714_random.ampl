@@ -1,0 +1,1 @@
+program eN : m : takes M, j : boolean; T07, Js, X, s, z0 : boolean array returns integer v : integer array; g, S : integer; d, w : integer; chillax end E : takes _, z : integer array; p, HC, _, I, m, D : integer returns integer array pop end main : chillax end

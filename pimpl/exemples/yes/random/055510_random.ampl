@@ -1,0 +1,1 @@
+program P : O : takes No : integer array; m : boolean; pGZ, V, p : integer returns boolean array d, r : integer; d3C, f9 : boolean; Hi3, ra8, Hq : integer; R, H : boolean; d : boolean; _ : boolean; while true + 3 <= 9 : chillax end; let h[41] = 52; pop; let r8 = 8; input E; do P(8) end main : let A = - false - (1) >= true or 8 end

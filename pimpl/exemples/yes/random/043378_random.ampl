@@ -1,0 +1,1 @@
+program p : Bq : takes m : boolean array returns integer when case not 7 or 3570 - 42300 < 43 - 85 : chillax end; let be[05300] = array 8; input W[3820]; when case 56 : chillax end case 22 : chillax end otherwise : chillax end; do FI(4); when case 7 : chillax end; pop end main : input z; output "" end

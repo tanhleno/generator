@@ -1,0 +1,1 @@
+program G090 : _ : takes G22aa : boolean array returns nothing u : integer array; chillax end _M : takes w : integer; Ek2 : integer array returns integer pop end main : k : integer; h, O5I, u : boolean array; chillax end

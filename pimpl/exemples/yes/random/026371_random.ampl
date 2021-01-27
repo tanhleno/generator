@@ -1,0 +1,1 @@
+program Q : t : takes Nfo0a, e : integer; m8 : boolean returns boolean do c8(GbM - 2, - 41600) end Dl : takes IH, M : integer array returns nothing let G[3 - 054] = array 13300 - 6; pop end main : chillax end

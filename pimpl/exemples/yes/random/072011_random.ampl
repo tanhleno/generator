@@ -1,0 +1,1 @@
+program p : main : G, SkTaa, e2 : integer; B, g0, L, m : boolean; when case - 9 * false + true rem(85) and 3110 - 8 : chillax end otherwise : chillax end; while true and D + true and 6 : chillax end; input s[- not 3 and 9520 - 16 - 7]; while 4 /= 4 : input Q end; do D(39) end

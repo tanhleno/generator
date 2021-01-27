@@ -1,0 +1,1 @@
+program luW : y : takes tp10a, M : boolean returns integer array when case d66 and 783 : chillax end otherwise : while 0 : chillax end; pop; pop end; do ec3(- 312 - 03); pop; do J8D(04) end main : fwl, P : integer; g : integer; chillax end

@@ -1,0 +1,1 @@
+program TVq : main : epm, sI1, tK : integer array; when case - false > not true : when case 8 = 55 : chillax end; when case 5 : chillax end case 54 : chillax end case 30900 : chillax end otherwise : chillax end; pop end otherwise : chillax end; output "@4" end

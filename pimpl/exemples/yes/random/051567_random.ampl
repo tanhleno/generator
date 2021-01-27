@@ -1,0 +1,1 @@
+program e : U4 : takes z3T : integer; G13 : boolean; _ : integer returns nothing output ""; output 958; while 2 : input B2; pop end end main : to : boolean array; do U(- true and true / false and 725, 83600 rem false and 9 > - not 5920 and 75) end

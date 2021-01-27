@@ -1,0 +1,1 @@
+program o0 : H : takes B, r0S0a, P2 : integer array; n6, W, Q, Y, d, jb, ghfa : boolean; x : integer array; Ql, H : integer; s : boolean array returns nothing d : boolean; chillax end z4M : takes tTWaa, m, C2, U, B, C : integer array; vl, h8 : boolean; q, Y : integer array returns integer do l(- 0 = 8) end main : chillax end

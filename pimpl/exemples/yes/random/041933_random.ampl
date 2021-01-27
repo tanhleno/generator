@@ -1,0 +1,1 @@
+program x : M : takes w88 : boolean array returns boolean chillax end D4k0 : takes q, V : boolean array; tR : boolean array; JW, fc : integer array; K, C53 : integer; BQ3 : integer array; EJm : boolean returns nothing H, j : boolean array; input O77a; let iy[3] = 129 end n : takes L, ET, nXQ : boolean returns integer array chillax end main : g, nGTaa : integer array; chillax end

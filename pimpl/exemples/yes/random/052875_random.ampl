@@ -1,0 +1,1 @@
+program h : T : takes _3 : integer; m : integer array returns boolean chillax end tf : takes K66, Z, xU, s, z : boolean returns nothing B1Q0, h, F : boolean array; do Q(- 8 - 0450, 98400 = 560); do c3(0 = 01); do E(72) end main : BE : integer array; T, X : integer array; chillax end

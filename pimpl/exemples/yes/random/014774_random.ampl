@@ -1,0 +1,1 @@
+program G : ux : takes es5, g, Z : integer array returns boolean chillax end nCm : takes h4J0a, M : boolean; L, P, U, Ji, j7 : integer; Q, Q, B : integer array; D6 : boolean; DyV, r : boolean; u, sL9 : boolean returns integer array B4, c, q3 : integer array; chillax end main : M : integer; chillax end

@@ -1,0 +1,1 @@
+program s4O : T : takes pH1 : boolean returns integer Co, V950 : boolean; hV : boolean array; O : boolean; let p34 = array true - 2 - 91; while - 148 >= 84 : chillax end; do zOn(753, 384); input vjz[82] end main : chillax end

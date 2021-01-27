@@ -1,0 +1,1 @@
+program Q9 : main : while not P1n - not g9 - false >= - false * false and 84 or true or 13200 - 3 : chillax end; while(9550) and(93) and 061 + 6 and 77 : pop; let e[9] = 9; while 7 : chillax end; while 5 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program yC : o : takes i, G, E7, Z3, w, R : boolean; I640 : boolean array returns nothing chillax end main : B, y6 : integer; input GJ_0[- N rem(05) rem(05600) - 35700 / not 0 or true and 99 - 4520 - 1] end

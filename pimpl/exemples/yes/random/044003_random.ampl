@@ -1,0 +1,1 @@
+program IDo : C : takes f1 : boolean array returns nothing J, J, Di, Pl : boolean array; input QI[z9 and 7 + 7 - 7]; do G(- 69 - 43 > 55, 70); let v3k[8] = array 6; input YWfa; pop; pop; pop end main : b8K, bb, WyH : integer array; chillax end

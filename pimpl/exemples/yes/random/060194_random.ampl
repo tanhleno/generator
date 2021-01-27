@@ -1,0 +1,1 @@
+program I : _K1 : takes w : integer array returns nothing dW, D, EW, J, Z : boolean; while 4030 + 53 - 7 : while 3 : chillax end end; pop end r : takes q340, k7 : integer; D0 : boolean array returns boolean array U3 : integer; o3 : boolean; aE, E : boolean; chillax end main : A2, K, UF2aa : integer array; let N[(3730 = 5)] = (760) * (1840) + 4 or 54 end

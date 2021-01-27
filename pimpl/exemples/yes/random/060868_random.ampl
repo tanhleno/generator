@@ -1,0 +1,1 @@
+program A : c : takes si6 : integer array returns nothing T1 : boolean array; b, k6, mrv, Y3 : boolean array; when case false and 7 < 2 - 16 : chillax end otherwise : chillax end end main : a9 : integer array; u, AB, ng4a, i : integer array; i3 : integer; B, E : integer; let h = array - J[50] * 53; let QgI = array - 8 and not 152 or false end

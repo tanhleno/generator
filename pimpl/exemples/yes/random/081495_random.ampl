@@ -1,0 +1,1 @@
+program is2 : main : w : boolean array; t82, V : integer array; output "\n" . - false + 4 - 45; let eW[- true and not 1 or(5) and 6940] = array true or true; when case - w or 6 - 9 : input v end otherwise : chillax end end

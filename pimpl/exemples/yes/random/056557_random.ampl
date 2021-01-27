@@ -1,0 +1,1 @@
+program n : j : takes P : integer array; c22 : integer; v38, K, G : integer array returns nothing x : integer; T, Z, _ : integer; bg : integer array; input O end LR : takes g : integer; n, N4, T, K : integer; j52, u, n, qR : integer returns nothing chillax end main : n : integer; chillax end

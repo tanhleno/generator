@@ -1,0 +1,1 @@
+program s : p : takes sgRaa : integer; b0, b : integer; o5, Q : integer returns integer V : boolean; do L(- _ and 1) end main : x, h : boolean; s, B : integer array; let A[u4[81] - (77300)] = - 5350 or not 2 and 4 - 0570 end

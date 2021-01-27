@@ -1,0 +1,1 @@
+program J : main : i, I, i : boolean array; while - not n[836] and q[4810] : output "\t"; when case 915 = 0 : output "iV"; pop end case 786 : pop end case 1 : chillax end otherwise : pop end; input f[1] end end

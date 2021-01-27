@@ -1,0 +1,1 @@
+program d : n : takes c0, Lj : integer; T, o5 : boolean returns integer array y1, o_S : integer; X, T22, Tm : integer array; K : boolean array; w8, CKPa : boolean; chillax end main : let Rn = - true / (68) > true and 0 + 506 end

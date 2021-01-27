@@ -1,0 +1,1 @@
+program F : y : takes P6, t, qE, o : boolean returns nothing input x end main : X : boolean array; I7x, p83 : integer; R, x33 : boolean array; when case true : chillax end case - not true - true and 0680 or 5 - 664 <= N + 1 - 899 : let qQ[6] = array 9; when case 0 : pop end case 7 : chillax end; when case 7 : chillax end end otherwise : while 88 = 5 : input KSO0 end end end

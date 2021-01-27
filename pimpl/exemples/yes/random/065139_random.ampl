@@ -1,0 +1,1 @@
+program a : ok : takes g : integer returns nothing vD7aa : integer array; when case s and 6 or 8 - 8 /= 9 : chillax end otherwise : do y(4); while 045 : chillax end end end main : M : boolean array; chillax end

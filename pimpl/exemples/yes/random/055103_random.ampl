@@ -1,0 +1,1 @@
+program G : M1 : takes I3kaa : integer array; VN, j : integer array; AQ6, o9D : integer array returns boolean chillax end main : Sl : boolean; while - 4 and 819 /= not false rem false : chillax end end

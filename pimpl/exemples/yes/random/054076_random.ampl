@@ -1,0 +1,1 @@
+program H : R : takes o : integer array; x3, sq, NdNa : boolean returns boolean output 6 - 1780 > 9 . 725 = 8; when case 056 - 5 : input j4 end; when case 6 = 9 : do q(1); pop end otherwise : pop end; pop 92; let r2d0 = 4 end main : q, w, B2 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program T : X : takes d4Yaa, Tb, nxt0 : integer array returns nothing T430, R, Y : boolean array; y, l, M, G : boolean array; t : boolean array; F : boolean; input nm[- true]; pop 68 = 07 end main : chillax end

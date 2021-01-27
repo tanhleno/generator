@@ -1,0 +1,1 @@
+program vp1 : F : takes h22a : integer; u : integer; ps8 : boolean array; cO, D, E7, Yj6a, M : integer array; O, j, g : integer returns nothing g2, Zy3aa : integer; TN8 : integer; when case 0 and 67 or 8 : pop; let K = 1; output "\t\taa" end case - 16 - 78 : chillax end end main : K : integer; r3l, N : boolean array; My6, O, q, N, eU : boolean array; Yc70a : integer; chillax end

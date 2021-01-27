@@ -1,0 +1,1 @@
+program J35 : main : J : integer array; D5, wa60a, n, l, GR : boolean; pop - 8 * T_aaa and 2; when case 300 * g - false and 18 <= true or 4 : chillax end otherwise : pop end; let A[- false and 571] = - 3800 - 054; let I[- 87000 - 5] = 94 = 119; let yy1 = array 07 end

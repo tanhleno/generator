@@ -1,0 +1,1 @@
+program uR : rle : takes K400 : integer; n, b1 : boolean array returns boolean w, G : boolean array; when case true + 02 - 398 : do Y(64); while 97 : chillax end end case - 6 - 0 >= 47 : when case 678 : chillax end end case 45 : chillax end end main : pop; output "" end

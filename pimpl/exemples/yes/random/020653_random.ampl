@@ -1,0 +1,1 @@
+program o980 : D2 : takes p090, A : boolean array; B2q : integer returns boolean array output - 32 - 883 = 63600 . "0" end main : Y3, f, XHb, K, h, z04, E5N : integer array; _16a : boolean array; W : boolean array; while 04 rem 6 or 0 rem true - false + 8 - 9 : chillax end end

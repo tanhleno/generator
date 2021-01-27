@@ -1,0 +1,1 @@
+program Q : o : takes W570, Wo : integer; A, h, c, t7e : boolean; v : boolean; x8, W, m : boolean; q, O, e090a, D : integer; Ua : integer; iT, b : boolean; n : boolean returns nothing Z, i : integer; chillax end main : chillax end

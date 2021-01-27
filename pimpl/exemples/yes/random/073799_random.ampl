@@ -1,0 +1,1 @@
+program q5 : main : bIh, W : boolean; H5G0a : boolean; when case 1 * true * not 2 or(8) : chillax end case - false rem false : chillax end case - D and 3 < - 62 - 7 : let k3 = 16 end otherwise : chillax end; let K9w[- f[50] or true and 81 + 00 - 7] = - (6600) and 63 or 7 - 33; input A6; input B; output "Z90" . 4; while 0 : pop end end

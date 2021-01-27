@@ -1,0 +1,1 @@
+program l : C : takes h, a2A, NBU0a, x59 : boolean array; J : integer array returns nothing s : boolean array; let o[- not 35] = 6 /= 9 end main : zeUaa, qo, C3, n, f7k : integer array; input o[false * false / Q] end

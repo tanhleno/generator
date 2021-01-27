@@ -1,0 +1,1 @@
+program s7 : U7Y : takes P, y, PT9 : integer returns nothing s, a, u1Qaa : boolean array; oQ1aa : boolean array; i9 : boolean array; chillax end main : Q28a, U7, T : integer array; let zL = array - 2 end

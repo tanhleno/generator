@@ -1,0 +1,1 @@
+program H : i : takes t8 : integer array returns nothing while - not 40 - 01 /= - 82 : chillax end; input g; output ""; let lH50 = 4; while 6 : chillax end end Z7R0a : takes uLJ, GU0a : boolean array; YAr, k, Q : boolean; d : boolean; p : integer array returns nothing chillax end main : y7, srya : integer; chillax end

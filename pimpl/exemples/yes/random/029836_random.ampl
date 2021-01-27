@@ -1,0 +1,1 @@
+program Q9 : yysaa : takes w, U : integer array returns integer array q : integer; T21 : boolean array; output "66aa" . 16 . 2 . ""; when case 2 - 67 /= 2 : chillax end end main : pop - false - 9 = - true and 38 - 440 end

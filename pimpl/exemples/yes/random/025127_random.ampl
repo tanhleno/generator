@@ -1,0 +1,1 @@
+program H : K1 : takes I, QJp0 : integer; x, p, U, o : integer array returns nothing chillax end main : Ec, D : integer; Q, _ : boolean array; pop false rem true and 87 or not 8 and 2 + 8 - 5 /= (90) end

@@ -1,0 +1,1 @@
+program R : Z5o : takes J : integer returns nothing let w0[- Y9] = array - true and 1 end main : G, X, kr, Y : integer array; D, c : boolean; let d9 = array false; pop - (2) + 4500 - 90; do iW(N > 41); let Ba3[- 9] = array 434; while 5 = 940 : chillax end; let fx[1410] = array 30; while 3 : chillax end end

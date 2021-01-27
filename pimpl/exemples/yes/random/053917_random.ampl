@@ -1,0 +1,1 @@
+program k : A : takes Q55aa : integer array; R, xR, XPv0a : boolean; p : boolean returns nothing hIL0a : boolean; cS : boolean; m, w7u, D3taa : integer; R3 : boolean; rW : boolean; D0 : boolean; pop end main : chillax end

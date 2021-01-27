@@ -1,0 +1,1 @@
+program Rl2 : K1eaa : takes O : integer; t : boolean returns nothing E9 : integer; do o6((4) and 3, - 915 /= 573, 2, 3, 8); output "" end F5 : takes l, wSyaa : integer array returns boolean array U : boolean; output "1" . 1 . 0 end main : E : integer; let S[67 or true or false and 20 + 2] = - C rem(96) and 39 or h2 and 2 + 14 - 330 = gn end

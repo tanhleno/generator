@@ -1,0 +1,1 @@
+program U : main : do JU(- 783 - i6(35000) and not 7 and 4 + not 955 - 8 = - Fh rem false and 8 or 51 and 57 or 09, - not not 1 / 9 and 9 - not 201 and 69 or 31 - 6, true - 9 - 2); when case - (9) and v and 9 - PQS and 57 : chillax end; let o0[- A or 8 - 754] = - 91; input b[- 06 - 40]; pop 2 end

@@ -1,0 +1,1 @@
+program r : O : takes h : boolean; g5p0 : integer returns boolean MN : integer; G, c : boolean; aWd0 : integer; q, Gx : boolean; a : boolean; A : boolean; chillax end K : takes C : boolean; g : integer array; d4, H, i2O : boolean; pb, L, y : boolean array returns nothing input U5v; let I1Q0 = array 17500 end main : t, u2, R : integer; chillax end

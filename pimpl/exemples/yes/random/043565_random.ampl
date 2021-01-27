@@ -1,0 +1,1 @@
+program fE0 : OUF0 : takes C440a : boolean array returns nothing chillax end d : takes o : boolean array; oQqa, M : boolean returns boolean array r7p, p0f0, B9m0a, i0 : integer; chillax end H0 : takes Mvj : integer; U : boolean returns nothing let q6M = 7 end main : output 9 * not 24 and 8 or true or 4 - 3; output true + 865 - 1 = - 3 - 84 . "" end

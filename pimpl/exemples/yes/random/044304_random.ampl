@@ -1,0 +1,1 @@
+program o : i0 : takes q : boolean array returns nothing eMK, utz : integer; T, e1ta, A0, V : integer; dlk0 : integer array; let H5 = array - k - 03 - 0; output 5 = 84500 end main : a, z : integer array; o6Kaa, F, M1, M2, t0I0a : integer array; K : boolean array; o : integer; chillax end

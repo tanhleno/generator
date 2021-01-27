@@ -1,0 +1,1 @@
+program U2S : s3 : takes Q : boolean returns integer let L = array(193) and 051; do l(- 83); input U[4] end X9 : takes Qn7a, Y0 : integer array returns boolean array chillax end main : while - k40a(3, 7) * not not 83400 /= - false / false and 0 or not 1 and 3 : chillax end; when case(3) or F and 3 <= R or 9060 : chillax end end

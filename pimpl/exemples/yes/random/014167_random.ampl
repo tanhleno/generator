@@ -1,0 +1,1 @@
+program X : u : takes s78, d8, r : integer array; f : boolean; BD3, tb7 : boolean returns boolean chillax end V280a : takes R, H42, a7 : boolean array; ib, C : integer array; W3 : integer array returns boolean array F, E, P : boolean array; chillax end main : S : integer; do qn(- false > - true + A0p0 and 092, - not not 6); let aR = - true end

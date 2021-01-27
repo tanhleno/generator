@@ -1,0 +1,1 @@
+program C : a : takes iA : boolean; I, mZ, j0y : boolean array; N, Hu, tk : integer returns boolean r : integer array; z73a, F3f : boolean array; chillax end main : output - false - 934 and 8 + 10 - 9 . "\\[" end

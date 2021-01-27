@@ -1,0 +1,1 @@
+program c : l : takes C8p, xv, Re_0, I9sa, h4p, I, j, Qo : integer; Z, F : integer array returns nothing D : integer; chillax end main : b0Z, rC6, j9Laa, l : boolean array; x : boolean array; EI30a : boolean array; do i((6 = 7) * false rem false and 7000); while - j(94) : pop end end

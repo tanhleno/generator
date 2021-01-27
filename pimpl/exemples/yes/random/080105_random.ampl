@@ -1,0 +1,1 @@
+program v : main : eOO : boolean; output - q7 / 9 and 0 + true and 73 = - true; when case - (6) / not 4 - g >= false : input t; output 74 end case - (3) - 51 > - 3 : pop; while 196 : chillax end; when case 6 : chillax end; pop end case 36 - 614 /= 5 : when case 2 : chillax end end otherwise : output 7 end end

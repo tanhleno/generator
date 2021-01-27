@@ -1,0 +1,1 @@
+program y : mu : takes R3e, z : integer; v : boolean array returns nothing o, Zt, e, z, c : boolean; M7, c3Uaa, B2, Z9q : boolean; input U[p - 3470]; while 42 : chillax end end main : AW, bu, H5, p3 : integer array; chillax end

@@ -1,0 +1,1 @@
+program jKU : v6 : takes mvO0 : boolean array; D : integer array; u, wg10 : boolean returns integer array chillax end main : d, X : integer array; when case - not true / F(897) : chillax end case false rem 9 : let X[138] = 70 end end

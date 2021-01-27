@@ -1,0 +1,1 @@
+program k8 : s1 : takes l, u7G : integer array; v8c : boolean returns nothing chillax end main : do j(- true / 5 and D7K and 3 - 8 * not 4, - true + 7600 and 3 <= - false, - SFN or 0 - 7 = 638 - 0, 5 - 0); pop rE; output 6 . "}c" . "7"; let _82a = 7 = 4; let w4h[892] = 79 end

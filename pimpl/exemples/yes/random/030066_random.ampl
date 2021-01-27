@@ -1,0 +1,1 @@
+program z6 : n : takes a, a : integer array returns integer Q : boolean array; n0B : integer array; L : boolean array; N, D : boolean; C3p : boolean; output "" . 3 = 1320; when case 54 > 880 : chillax end; when case 4 : pop; pop end end main : let EGpa = - 5 and not 62300 and 53600; input Ay end

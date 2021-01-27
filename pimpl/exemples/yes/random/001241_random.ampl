@@ -1,0 +1,1 @@
+program z : k3 : takes v, l, e, d, c, N : boolean array; J48, R3, e : integer array; CAo : boolean returns boolean array chillax end main : output - true / not 2 and 6; let X[false] = false and 53 + 7; do s(not 8 <= - 6) end

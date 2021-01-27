@@ -1,0 +1,1 @@
+program B : E : takes _6n, O : integer array returns boolean output - 8 - 50 = 380 . "[" . ""; do t(625 - 5, 7, 1, 46) end St5 : takes cA9, H, H : integer array; g, X, H, u : integer returns integer array let OE = 3 = 4; do O(574 = 05, 96) end main : input g; let B = 05 = 6 end

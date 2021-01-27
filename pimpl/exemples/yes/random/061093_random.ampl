@@ -1,0 +1,1 @@
+program v : i6 : takes c : integer array returns nothing gB : integer array; chillax end main : r, c1 : boolean; S : integer; while ba(2) + true rem false and 9 + true and 495 : chillax end; output "" end

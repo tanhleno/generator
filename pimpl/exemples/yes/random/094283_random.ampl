@@ -1,0 +1,1 @@
+program C1 : main : pop - true; when case not(08300) * (0) >= 490 and 1 or 033 : while 57 = 53 : chillax end; pop end case 5 - 1 - 0980 : when case 25400 : chillax end; input n; let Z59aa = 7400; pop end otherwise : while 886 : pop end end; input V end

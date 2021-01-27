@@ -1,0 +1,1 @@
+program y0Z : main : lTp, p, D : integer array; o, Oj, hF : boolean array; q4 : integer; when case 0 + 0 or 8 + 4 - 2 : input L[3 - 5] end; while true / 09 + not 91 and 229 < - sR and 3 : chillax end; pop - 7 - 1890 end

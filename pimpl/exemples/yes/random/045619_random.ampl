@@ -1,0 +1,1 @@
+program OvD0a : N01 : takes x : boolean returns boolean array l, C : integer; u : boolean array; chillax end main : when case _[1] / 5 and true and 79700 : chillax end case - s2t(41) rem 6 > true and 5 : chillax end otherwise : while 5 = 3 : chillax end; do G(13, 262); pop end end

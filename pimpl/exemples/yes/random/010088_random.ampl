@@ -1,0 +1,1 @@
+program J5 : pH : takes b9y, h, f : boolean array; R : boolean array; hp : integer; T, eO, O2, IB : integer; FV : integer; F, s, b8e : integer; v, VA8 : boolean; SR : boolean returns nothing d : integer array; while - true : chillax end; output 9 . 3 end main : chillax end

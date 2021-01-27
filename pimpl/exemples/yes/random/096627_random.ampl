@@ -1,0 +1,1 @@
+program S : main : when case - true : pop end; let e[- I[55] - not 8 and 71] = array(2); input m9[U and 0040 + 6 - 2]; do x(364 - 787 /= 18, 7); when case 01 = 86 : let Ys = 8 end case 71 : chillax end otherwise : pop end; while 9 : chillax end; pop end

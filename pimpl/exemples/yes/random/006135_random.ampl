@@ -1,0 +1,1 @@
+program a : K : takes Ju, G, x, Q : boolean returns nothing do M(false and 41 + 15 < - 59 - 295) end main : q5 : integer array; _ : boolean; U1, V : boolean; JG : boolean; R, u, a : boolean; output "~" . "\nk\"a" end

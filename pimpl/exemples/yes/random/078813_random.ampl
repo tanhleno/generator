@@ -1,0 +1,1 @@
+program u9 : main : V : boolean; N, B : boolean; f3 : integer array; SJ, f, w9 : boolean array; VL, p, E5raa : boolean; I : boolean; while - 5 rem 3 / (2910) and 4 + not d < true + false or 3 - 4 : chillax end end

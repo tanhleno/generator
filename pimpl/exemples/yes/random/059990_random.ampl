@@ -1,0 +1,1 @@
+program b06 : nW : takes a3 : integer array returns nothing chillax end main : C : boolean; y46 : boolean array; J510 : boolean; output ""; do g(false - true and 5 - 13 - 0, not 6 + 989 - 77 /= 1 - 52); let Y = - 32 - 4 < 5; pop end

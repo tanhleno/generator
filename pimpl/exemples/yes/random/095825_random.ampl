@@ -1,0 +1,1 @@
+program P37aa : main : when case - false /= - false or R0K and 2 : when case - 879 : chillax end case 6 = 1 : chillax end otherwise : pop end end case 6 = - false and 58 : chillax end otherwise : chillax end; pop - false <= 0; do lm10(- 399 < - 6 - 1, 10, 98 = 2, 51, 1) end

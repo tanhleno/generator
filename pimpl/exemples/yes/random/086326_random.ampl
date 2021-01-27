@@ -1,0 +1,1 @@
+program z : main : M : integer array; eq : boolean; vB, O, S8 : integer array; T : boolean array; m, b : integer; do d(7 and true and(9) and 0 + true rem not 2 and 9 > 0); let S[false or(9) and 328] = array - true - (7) end

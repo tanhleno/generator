@@ -1,0 +1,1 @@
+program U : A : takes Jp9, J0c0a : boolean array returns integer while - not 49 : chillax end; do ls40a(8 - 6, 9, 26); input K; do x(73); while 53 : chillax end; output "\\z" end main : nA, a, uK : integer array; BW, DIo : boolean; let F[true or(3) + (8)] = (6) or true /= - (0) and 1 or 5970 end

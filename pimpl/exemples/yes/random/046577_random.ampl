@@ -1,0 +1,1 @@
+program K : L : takes czh : boolean returns integer array U7s, W090a : boolean; K, w9, wl, AZ : boolean array; MIp, r, x : integer; W : boolean; input R9J end main : input q; output true and 713 + 1 - 28 > 171 . "7" . 3; when case - true and 6 + 2 : input D end end

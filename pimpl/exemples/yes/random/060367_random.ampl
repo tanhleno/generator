@@ -1,0 +1,1 @@
+program EX : x : takes v3 : integer array returns nothing a, o8, T : boolean array; K : integer array; input Y1[(3950) and 3]; output 2 = 91; when case 1 = 96 : when case 36 : chillax end; pop end case 2 : pop end case 7 : chillax end; do O(3); input O4 end R : takes d : integer array returns nothing output "C]0a" . 4 . "" . "63" end main : poH0 : integer; chillax end

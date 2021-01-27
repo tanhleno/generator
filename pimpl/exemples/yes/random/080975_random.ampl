@@ -1,0 +1,1 @@
+program I4N0 : main : t : boolean array; dR, n4g, OD : boolean; J, Q : boolean; _ : integer; L, VO, M : boolean; when case - not M(9) - d(3) / false and 94 = true and true and 5 : input G[- 2]; pop 44000 end case 25 + L and 2 : chillax end; do R(false / not 108 and 333 or false > w and 03); do P(- (141) and 5) end

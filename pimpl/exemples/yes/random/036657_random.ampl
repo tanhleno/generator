@@ -1,0 +1,1 @@
+program q : hIu : takes ezv : boolean; U : integer array; i, y, c, B5 : boolean array returns nothing Y2, u, U8, g : integer; n2, Xt : boolean array; _, Y28, m : boolean; V, efT : boolean; while not 5 and 50 = - 0 - 322 : output 8; when case 36 : chillax end end end main : chillax end

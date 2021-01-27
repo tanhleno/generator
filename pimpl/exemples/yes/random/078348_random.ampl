@@ -1,0 +1,1 @@
+program DZ : main : ZBL : boolean; do o_(39 / true * A, - not 07 and true and 31 - false, not 3280 and 18 > - 8 - 39500, 610); input e[- (9) / (4) and 4 - false - 56 - 9]; let Oi[- x] = array true and 8 - 7 - 79; pop end

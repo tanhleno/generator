@@ -1,0 +1,1 @@
+program R : s : takes L, my, vl : boolean array; U83aa : integer array; VU, r : integer array returns integer array output 44 - 47; while - 776 - 5790 : chillax end; while 6 : pop; pop end end main : chillax end

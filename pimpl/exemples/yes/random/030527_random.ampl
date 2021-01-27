@@ -1,0 +1,1 @@
+program O : Sr : takes f, J : integer array returns nothing z, u, j : boolean; when case not 19100 and 5 > 355 - 49 : pop 20; output "6" end case 9 /= 2 : output "~}0"; input Z; pop end; while 6860 - 0350 < 4 : when case 3 : chillax end end end main : chillax end

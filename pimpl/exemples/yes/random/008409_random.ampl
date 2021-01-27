@@ -1,0 +1,1 @@
+program U8 : F : takes o, Q7q, IJ60, V : integer returns nothing while - 5 and 567 <= 232 - 98 : while 42600 : chillax end; when case 51 : chillax end; while 8 : chillax end; pop end; input H3I0; do hgYaa(2, 2, 90) end W : takes v52 : boolean array returns nothing chillax end main : h : boolean; chillax end

@@ -1,0 +1,1 @@
+program su : q : takes j, R, p : integer array; gx : integer returns integer array C0za : integer; chillax end main : j06, D : boolean; when case 0 * not false rem d8 - _r_0a[52] and false = false - false and 0 : chillax end end

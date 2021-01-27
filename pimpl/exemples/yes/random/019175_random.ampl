@@ -1,0 +1,1 @@
+program n5C : u2K0a : takes X, Zg : boolean array; Hcd, H : boolean; b : integer returns integer array chillax end j : takes V : boolean; qs3 : boolean array returns nothing RH : integer; chillax end main : j5 : boolean; U : integer; do l(- false /= true * 756, false rem not 790 or false - 8 - 107 >= false and 6550) end

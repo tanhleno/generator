@@ -1,0 +1,1 @@
+program P : main : y1 : integer array; s : integer; ocf : integer array; n6 : integer; Jc, tO : integer array; while - true and 0 - false : while - 25 - 06 : chillax end; let U55[2] = array 83 end end

@@ -1,0 +1,1 @@
+program T : V : takes O, f1 : boolean returns boolean when case n and 1 + 924 - 0 = - 457 : do f(97, 1); while 9 : chillax end end; pop 782 end main : pop 9 and false and 66 + not 495 and 29 or 69 - 95900 > true; pop - (6) and 5 - 9 <= - 7 - 1; do Z4(false - 98900, 8 - 39000) end

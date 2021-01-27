@@ -1,0 +1,1 @@
+program o : K : takes a, B, Y6 : boolean array returns integer array bZ, s8 : integer array; i590a : boolean; _tX0a : integer; while - C and 5 + 48 - 5 < 61 : chillax end; output "" end ta : takes U0C0 : integer returns nothing when case - 94 : chillax end case 8 = 8570 : output "S" end case 62400 : pop end end main : chillax end

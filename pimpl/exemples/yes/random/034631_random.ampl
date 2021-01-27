@@ -1,0 +1,1 @@
+program MF : R1 : takes s6 : boolean; B, y : boolean returns boolean C, L, Sv6a : boolean array; I : integer; s, s7 : integer; N, t : boolean; chillax end ps0 : takes b4j : boolean returns integer Pe70, sGqa, y2daa : integer; chillax end main : h : boolean; g, K : integer array; input jc[- z02aa(7, 995) rem(898) / true] end

@@ -1,0 +1,1 @@
+program _ : d : takes T1, O0 : boolean array returns nothing Dd2, MB, nv20a : integer array; C, sp : integer array; j950a, u4q, L36 : integer array; lSp0 : boolean; L : boolean; chillax end main : w, e, F9 : integer; chillax end

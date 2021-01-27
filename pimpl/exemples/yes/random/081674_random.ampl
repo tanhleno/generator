@@ -1,0 +1,1 @@
+program X : main : ndm : boolean array; i : boolean; while - false rem not false - false - false and 5 or 45 - 1 : output 102; output "" . "3"; let A7[2] = array 6; while 1 : chillax end end; while k[4] / false : chillax end; pop - 9 - 7 end

@@ -1,0 +1,1 @@
+program V : J72 : takes GdH0a : integer; D7, pOX : boolean array returns nothing L : boolean array; chillax end p : takes F6q, j : boolean returns boolean array q_M, j, c1E, Lu : boolean array; let F[- 3] = array - 26000 - 4; input d[0] end main : CVG, QU8a, R0 : integer array; chillax end

@@ -1,0 +1,1 @@
+program W : Vot0a : takes c, Z, qY : integer; H : integer returns boolean array d, S7, D, e : boolean array; chillax end f95 : takes i4 : boolean; Z950a, vy : boolean array; M : integer array returns boolean S2, N, NB70 : boolean array; T : integer; E2 : boolean; do m(- 327 - 49 /= 662) end main : do T6M0(false rem 58 - al7[3] * false and 56 <= - 42) end

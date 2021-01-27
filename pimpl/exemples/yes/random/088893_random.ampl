@@ -1,0 +1,1 @@
+program C4 : main : input T2[- true or not C_ / not 62 and 3 + 938 - 149 - 875]; let P[not true / 2 - 5] = array dz10a(87) + N and 3; do i0(true and 504 or 9 <= 1620 - 5, 89 - 9, 72, 0970, 5070); while - 41 >= 553 : do L(01); pop; pop end end

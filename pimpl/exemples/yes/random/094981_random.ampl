@@ -1,0 +1,1 @@
+program z0 : main : pop y(7) - 34 and 76; when case(48) : chillax end case w + 6 <= 9 - 59 : do h(48, 089); pop end case - 2 : chillax end case 8160 = 0 : chillax end; let U3la[6] = array(0) and 8 - 23 end

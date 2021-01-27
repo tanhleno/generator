@@ -1,0 +1,1 @@
+program d : VD : takes v, L : boolean array; C9 : boolean array returns integer array V25 : integer; chillax end main : n, h : integer array; G7 : integer; U : integer array; DU, g3 : boolean; p, x : integer; Z4, Z : boolean; do Z(W[5] * (6) = - false / false and 32000, - 7 / 77, false - 36 < 30 - 77); let h[false] = array - 1 * true end

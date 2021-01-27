@@ -1,0 +1,1 @@
+program pq : o : takes xE : boolean returns integer T : boolean; chillax end l : takes AO, k, v : integer returns boolean array q8, LQ90a : boolean; chillax end main : input h[- true rem(4) * e + c rem J8 - 50000 and 88 - 3 - 5] end

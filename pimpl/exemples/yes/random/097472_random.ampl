@@ -1,0 +1,1 @@
+program gUE0a : main : when case 5000 and 4 and false and 04300 or false and false and 70 : pop 9 = 15000; do g(0110 = 17, 1); input X[6]; when case 3 : chillax end end case(0) : input k[3] end; while - false and false /= (4) and 37 or 4 : chillax end end

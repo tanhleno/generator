@@ -1,0 +1,1 @@
+program d : MB : takes j : boolean; Q4 : boolean; a2_0a : integer returns boolean E, Ds : integer; q : boolean; chillax end gkq : takes O, M46 : boolean; g : integer array returns nothing AW : integer; KB : integer; chillax end O : takes ik, a, W94aa, n : integer returns boolean array let M = 54; while 035 : pop end; while 3 : chillax end end main : Cg, dC : boolean; chillax end

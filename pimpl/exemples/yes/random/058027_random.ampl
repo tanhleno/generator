@@ -1,0 +1,1 @@
+program U : kVX0 : takes TF : integer array returns boolean chillax end yP : takes W5, b4, E0Yaa, G, X89aa, v5K : integer returns nothing chillax end W : takes k, p : boolean returns integer k : integer; f9da : boolean; chillax end main : let Ga9aa = array - true end

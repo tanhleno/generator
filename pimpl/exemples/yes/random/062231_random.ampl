@@ -1,0 +1,1 @@
+program Ml : k : takes qEE : integer returns boolean chillax end f42a : takes w : boolean returns nothing do f0aaa(1 - 28); let ZuG = 9 end R : takes c : boolean returns boolean yP40a, s : integer array; when case 26 : pop; pop end case 36 : chillax end case 52 : chillax end otherwise : chillax end; pop; let m = 9 end main : F5Y0 : boolean; chillax end

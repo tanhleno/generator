@@ -1,0 +1,1 @@
+program v : x : takes MK, dp3, m, p, k, R : integer array returns nothing e : boolean array; K : integer; when case not 85 and 6 : chillax end end Z : takes x : boolean returns nothing chillax end main : T : boolean array; output e74[3] * not 4 - qH and 11 /= 0 and 602 or 1 . - 83 and 68 or 1 > 05 . - 6 - 1 >= 1440; input p; input J[- not 8 + 304] end

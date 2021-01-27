@@ -1,0 +1,1 @@
+program V : g : takes K, H9 : boolean array; sQ1, h1C0 : integer; b : boolean array; v71a : integer array; V : boolean returns integer chillax end main : output "\n"; while - true / true and 8 + false : chillax end end

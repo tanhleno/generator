@@ -1,0 +1,1 @@
+program u : T2Y0a : takes SXp : integer array returns nothing W, WN, Z : integer; r : integer array; chillax end _ : takes k, o : boolean returns nothing OM, H, qM, g470a : boolean; do p5(70 - 3 <= 013, 293); while 21 = 4 : chillax end; input _4[9] end main : chillax end

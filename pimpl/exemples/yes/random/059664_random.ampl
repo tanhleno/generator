@@ -1,0 +1,1 @@
+program qu : g17 : takes _ : integer array returns nothing chillax end kQ : takes e, y870a, O : boolean array; s, M, wK8a, Gk5, y2, KZ : integer array returns boolean array chillax end dLk : takes p : boolean array; _, f, G, V6j : boolean array; YE50a, i, n, Q : boolean; A3, ca, Avq : integer returns nothing output 4 . "F9" end main : chillax end

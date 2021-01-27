@@ -1,0 +1,1 @@
+program pI_ : J : takes N, C : integer returns integer array Q, d0, hG : integer; h, a, Xlg0a : boolean array; while not 27 and 1 = - 57 : pop end end main : while - true and not A rem not 905 and 51 >= 80 : chillax end end

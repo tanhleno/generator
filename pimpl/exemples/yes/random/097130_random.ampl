@@ -1,0 +1,1 @@
+program B : main : when case not(0) rem i(45000) and true and 4 + false * not 67200 and 1480 : output "" . "" . 77 . "]"; do J(3) end; when case - false = - R8 and 29300 + 9 : output 8; when case 1 : chillax end end case - wf5 and 94600 - 7 - 8 >= 3 : let P8 = array 57; let f = 39700; do w(0); pop end case - 79 - 1440 : while 2 : chillax end end end

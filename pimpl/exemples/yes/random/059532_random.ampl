@@ -1,0 +1,1 @@
+program k : O : takes e : integer array returns integer let c = 05 - 4 /= 81; input cb[- 5] end main : do j(- (1 = 082) and(9) rem true and 1 < - (1) * y, - (19) rem c and 86, - true and 079); input D; while - not 16 and 20 + 9 : chillax end end

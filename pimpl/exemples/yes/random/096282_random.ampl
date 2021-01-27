@@ -1,0 +1,1 @@
+program J : main : when case - not 7 : when case - 864 : let W7 = 1 end; let hZ[4] = 9; while 8 : pop end end case - true rem 4420 and 682 >= - not 29 or 314 - 3790 : chillax end case true and 98 - 2 : chillax end case 29000 : chillax end end

@@ -1,0 +1,1 @@
+program t0p0a : main : t, a8ua, b, u, O79 : integer; U6, n, g53a : integer array; b8 : boolean; W : boolean; yv1a, m : integer array; input e3Aa[- 323 * false]; while not not 1870 : chillax end; while - false and 5 : chillax end; while 12 - 5 <= 0 : chillax end end

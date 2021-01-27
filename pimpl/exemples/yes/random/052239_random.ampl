@@ -1,0 +1,1 @@
+program R : s : takes S : integer; qI : boolean returns integer output 0 - 6 > 129 . 4 = 65 end main : input mp1[false / true and not 8 and 21 or 8 and false]; while not not 5 / (79) and 87 : input fa[326] end; input O[77] end

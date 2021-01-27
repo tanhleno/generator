@@ -1,0 +1,1 @@
+program d8l : g : takes m18 : boolean; L91aa : integer array returns nothing o, ug5 : integer array; chillax end IQq : takes l2ha : boolean array; E, u2, c : integer; Q : integer; MsN : boolean array returns integer array z, j : boolean; chillax end main : j : integer; aln : integer array; do d(- false, not not 07 <= - true and 06, (9)); let Z2V0a = array false end

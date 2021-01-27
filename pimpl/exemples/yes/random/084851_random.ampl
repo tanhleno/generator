@@ -1,0 +1,1 @@
+program s : main : S97a : integer; let Z59aa[true or false / 8 and 5 or false and 0 - 5] = array - not not true rem(41) * true; output true and 83 - 406 - 27 /= - 6 - 66; when case - not 9 and 2590 : chillax end; when case 26 - 976 : chillax end case 8 = 8 : do YT10a(725) end case 41 : pop end case 6 : chillax end; input t13; do i(51); output "}"; do Iq(5) end

@@ -1,0 +1,1 @@
+program P0 : W : takes txw : integer array; h, zl, V, s, T, a3, B6 : boolean array; Y : integer array returns nothing t2, K : integer; when case(0210) and 4 - 9 - 9 : pop end case - 6 : chillax end case 5 = 7 : when case 8 : chillax end; pop end case 9 : chillax end otherwise : chillax end end main : Q1, G640a, q : integer array; u, Ka, v, X : boolean array; chillax end

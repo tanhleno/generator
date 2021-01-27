@@ -1,0 +1,1 @@
+program A : L : takes cR, O : boolean array; O : integer returns nothing x : integer; do i9(- false and 01, - 01200 - 611 /= 811, 213) end P1 : takes i : integer returns boolean array input EFT end main : chillax end

@@ -1,0 +1,1 @@
+program C2 : f : takes I : boolean; a, N : integer returns boolean array Aw, SMua, j : integer; k, B6, D3 : boolean; J, SEG, Y : integer; C, L : boolean; S74 : boolean; output 0380 > 5 . ""; let b[1 - 5] = 05 end main : Md, l90 : boolean; output ",." end

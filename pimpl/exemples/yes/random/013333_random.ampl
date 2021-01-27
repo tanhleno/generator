@@ -1,0 +1,1 @@
+program IEW0 : lXH : takes t, N, pv : integer; B : boolean returns nothing y20a : integer; n : integer array; let AK[- not 533 and 4] = - 8 - 7; do b(- 447); output 26; input r; pop; output "5" end hIF : takes pX2a : integer; X : boolean; U, a, BF, m, hO : boolean array returns integer m, P : boolean array; do gBS(- 160, 25) end main : chillax end

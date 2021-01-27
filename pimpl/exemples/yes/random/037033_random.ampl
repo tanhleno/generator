@@ -1,0 +1,1 @@
+program tA0 : z : takes V : boolean; E3 : integer array returns nothing chillax end P : takes _, B, M : boolean array returns nothing T, q, Y, yX5a : integer; i, h, X : integer; F : boolean; output 1; do z(7 = 19, 54); pop 7 end main : e8 : integer; _qj : boolean array; chillax end

@@ -1,0 +1,1 @@
+program o50a : g3W : takes kL : boolean; e, D, hx, Rb : boolean returns nothing let Z = 6 - 2570 > 7880 end J : takes R, eE : integer; A, z : integer returns boolean array let K6ma = array 7 - 0; when case 9 : chillax end otherwise : chillax end; input N[364]; when case 5440 : chillax end; output "" end main : D2 : boolean; chillax end

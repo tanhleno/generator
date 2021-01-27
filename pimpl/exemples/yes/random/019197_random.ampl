@@ -1,0 +1,1 @@
+program wb : e : takes e9, S : boolean array; X, x : boolean array; S45a, H : boolean returns nothing while not 733 >= 3 - 30 : while 8 : chillax end; while 0 : chillax end; while 66 : chillax end end; when case - 11400 : pop end otherwise : while 9 : chillax end; pop end; while 2 : chillax end; output 4 . "\"\""; while 3 : chillax end; do t29(775) end main : chillax end

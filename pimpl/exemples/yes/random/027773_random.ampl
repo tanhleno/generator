@@ -1,0 +1,1 @@
+program uf : p : takes FC, e : integer array; f16, X : boolean returns boolean array chillax end main : n : integer array; B6, K : integer; do k(true rem not M6w + true and false - not 42 + 9 - 73, - 5 - false - 0) end

@@ -1,0 +1,1 @@
+program q : main : t8g : boolean array; I : integer array; let I = - (0) * 5; when case - (4) : when case 7 = 0690 : chillax end case 12 : pop end case 8 : chillax end otherwise : pop end; input H; when case 0 : chillax end end case d0 and 1 <= - 4 - 85 : when case 204 : pop end; input y; pop end case 10 : chillax end case 93 : chillax end; do uVi0(- (985)) end

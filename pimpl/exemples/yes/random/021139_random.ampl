@@ -1,0 +1,1 @@
+program S : o : takes B9, q : boolean array returns boolean z : boolean; X6L : integer; y : boolean; chillax end main : p : boolean array; output "j" . - not 5; do W8(486 or not 8 and 2 - 8 - 9780) end

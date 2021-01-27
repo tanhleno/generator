@@ -1,0 +1,1 @@
+program uQ3 : p : takes jj : integer; C34, E05a : integer array; f : boolean; CR0, v, S1o0 : boolean; l : boolean array; V : boolean returns nothing while false and 75 + 3 - 253 : chillax end end main : input X; output - false and 44 - 06 - 1 . - 1 - 6 . "" . 6130 . 61 end

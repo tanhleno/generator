@@ -1,0 +1,1 @@
+program L3 : c : takes S : boolean; L : boolean array; _2 : integer array; C : integer returns nothing i6 : integer; while - (9) or 0 < 87000 - 3 : chillax end end np : takes I : boolean array returns nothing pop; do D(5); pop end I : takes n3 : boolean array returns nothing U : integer; when case 4 = 5 : chillax end; while 6500 : pop end end main : h : integer; chillax end

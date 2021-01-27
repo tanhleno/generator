@@ -1,0 +1,1 @@
+program omI0a : s : takes q, U37 : integer array returns boolean array let jl = array - 1 - 68 - 1; do MH(- 4 - 01, 9 = 4, 1, 3860) end k5Qaa : takes vNoaa, e, I, g, _c3 : integer; h4 : integer array; K, _T9 : integer; e2 : boolean; WM : integer returns nothing chillax end j : takes yIDa, M340 : integer returns nothing chillax end main : V9 : integer array; chillax end

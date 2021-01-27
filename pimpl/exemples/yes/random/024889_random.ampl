@@ -1,0 +1,1 @@
+program l5v : E : takes t74a, aCC : boolean returns nothing while true and 2360 /= - 6800 - 75300 : chillax end end main : k : integer; I, Vr : integer; pop not true rem not 0 - GC1 = - 48 and 9; when case true * not 836 + (8) : chillax end end

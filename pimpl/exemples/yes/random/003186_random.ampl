@@ -1,0 +1,1 @@
+program V : C1 : takes cg, Z, c, bVOa, y6k : integer; M, O : boolean array; V1m : integer; Q : integer array returns nothing output "MSaa" . 46000 . 6 end main : I3, GhT, k : integer; f, Z, r6 : boolean array; c, U : boolean; chillax end

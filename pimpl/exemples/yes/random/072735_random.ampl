@@ -1,0 +1,1 @@
+program A : main : B, Z, s : integer array; A2d, PU, K52aa : integer; output 2 / true or not 74 + 028 = not 14 and 7 + 2 - 0520; while 6540 + dRK and 751 : chillax end; when case - s3 - 60 - 6 > 90700 : chillax end; input j end

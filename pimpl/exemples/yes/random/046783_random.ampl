@@ -1,0 +1,1 @@
+program V : O : takes S1e : boolean returns integer array input X[24 and 85] end zZ : takes A, Z : integer; q, R : boolean array returns nothing tt, zfmaa, n : boolean array; pop end main : chillax end

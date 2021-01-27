@@ -1,0 +1,1 @@
+program S : q : takes Hu8a, R58 : integer array; L0 : boolean returns nothing chillax end ZiA : takes i3 : boolean returns nothing bhRa : boolean; chillax end main : k, C, P : integer array; output "" . - f and 16 end

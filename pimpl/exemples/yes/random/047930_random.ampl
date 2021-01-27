@@ -1,0 +1,1 @@
+program q : s : takes t : boolean returns nothing m4, u, J47, B : boolean array; o2 : boolean array; chillax end main : nth, LU, n, R, dV8 : boolean array; while false / false and not 5 : while - 008 - 4560 : output ""; when case 9 : chillax end; pop end; when case 66 : input Q85a end case 33 : pop end case 0 : chillax end otherwise : chillax end end; output "" end

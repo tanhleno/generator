@@ -1,0 +1,1 @@
+program I : main : when case - V[1] / w9[8] / false and 7 or n280a / K9 and 7 > true + not 7 : output 17 . 963 . 8 . ""; while 556 = 70 : input U; pop end end case H5 * 3 : let Kbw0[0] = 6 end otherwise : chillax end end

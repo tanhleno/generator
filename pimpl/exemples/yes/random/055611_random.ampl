@@ -1,0 +1,1 @@
+program U1E0a : e : takes T : integer array; s : boolean; Wb : boolean; K0 : integer; F, zu, K : boolean returns boolean array y : boolean array; B3, P : integer; do x12(not 859 and 6 /= 4260, - 3 - 8 >= 63) end main : T, k, BC6, Y : boolean array; chillax end

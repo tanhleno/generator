@@ -1,0 +1,1 @@
+program M8Taa : J : takes Pj8, u, I, Z2l0a : integer array returns nothing _ : integer; chillax end Y6 : takes UW9 : boolean; a : boolean array returns boolean array while 7 - 08 < 13 : pop; output "Q6" end end main : chillax end

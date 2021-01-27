@@ -1,0 +1,1 @@
+program D : main : while KyL0[2] and 1850 - 919 * not 8 and 39000 = 464 : do oE(- 78 >= 9); do Z(21600 = 2); let j = array 7 end; output ","; do C(false and 14500 - 38 - 6, - 3 - 4 >= 45, 021 = 2000, 8420); output 87100 . "" . "1" . "" end

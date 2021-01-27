@@ -1,0 +1,1 @@
+program Gl70a : K : takes r : boolean returns nothing d, H2V : boolean array; F : boolean array; Z0 : boolean; h, bK7 : boolean; nA : boolean; output 4010 - 8 = 53700 . 647 end l : takes l2 : integer; DL, m : integer array; Y, E6, w, il, P : boolean returns boolean array y : integer; chillax end main : V, kq : integer array; chillax end

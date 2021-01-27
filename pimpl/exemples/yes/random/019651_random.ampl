@@ -1,0 +1,1 @@
+program F : J : takes Ks0aa, P : boolean array; L5, r : integer returns nothing while - 4 = - 8 - 59 : output "\"" . "" end end I : takes _ : integer array returns nothing bKb : integer; r : boolean; Oj : boolean; chillax end main : chillax end

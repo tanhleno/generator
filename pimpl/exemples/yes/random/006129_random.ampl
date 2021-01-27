@@ -1,0 +1,1 @@
+program p : S6Ca : takes Hp_aa, V, MI, e : boolean returns nothing do Z(- AU50, 4 - 06100 >= 51700) end z : takes b : integer array returns nothing input r1 end w : takes u : boolean array returns nothing Hz : boolean; chillax end main : chillax end

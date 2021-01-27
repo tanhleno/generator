@@ -1,0 +1,1 @@
+program w0 : U : takes U : integer; Y : boolean array; A1 : integer returns boolean pop 7 - 5 /= 2 end J6 : takes u, U, U : boolean array; L, C : boolean array returns boolean o, wc : integer array; L, I : boolean array; chillax end main : j : boolean array; chillax end

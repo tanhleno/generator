@@ -1,0 +1,1 @@
+program p82 : S : takes o : boolean array; s : boolean array returns integer do pUp0a(- K /= - 72, - 236, 194 = 54) end a : takes N, I : boolean; o : integer array; D, xENaa : integer array; B, K : boolean; c : boolean array returns nothing M, c5K : integer; chillax end main : h3, SR : boolean array; C, P : integer; chillax end

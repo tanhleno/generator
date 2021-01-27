@@ -1,0 +1,1 @@
+program s : Kc2 : takes j, sY7, w230, SX : boolean array; E : boolean returns nothing chillax end e : takes xs, x0, jA5, qT : boolean array; F : integer returns boolean array chillax end main : while not true and false : output 4960 end; while true or(5) + 2 < 6 - 69 - 0 : do _(81500, 46, 27) end end

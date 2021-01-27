@@ -1,0 +1,1 @@
+program I : p : takes tK : boolean array returns nothing chillax end T8 : takes f : boolean array; B4 : integer array; Cgc0 : boolean; T6, C6, tNO : boolean array returns nothing chillax end main : K : integer array; input Gm7[true or false * not 3 + false and 8]; while - R or true and 50 - 9 - 73 : chillax end end

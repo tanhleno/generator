@@ -1,0 +1,1 @@
+program M : main : do bnP(- EKU - not 64 / 0 and 3 or not 6 and 2 /= true * (18) + true and 3, - not true, - false < 523); when case - E82aa(8) * 1 : chillax end case not 9 : when case 0080 : pop end case 5 : chillax end otherwise : chillax end; input t6; pop end; output 2600 > 9 . "" . "#Q!a" . "\t" . "" end

@@ -1,0 +1,1 @@
+program F : W_ : takes WN, I11 : integer array; r1, o2 : integer; ho : integer; Jg : integer; f : boolean array; I0, cn : boolean array; l, o600a : boolean returns boolean let i[- true] = 6 end y : takes O, V0 : integer array returns boolean chillax end main : n : integer array; pop end

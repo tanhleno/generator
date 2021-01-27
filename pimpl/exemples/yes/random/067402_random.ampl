@@ -1,0 +1,1 @@
+program It : main : do p98(not n(2) and not not 56200 rem false - (13) + true and 5 + 5 - 97 < false * not 797 and 42000, false - true and 8 or 86 <= - (887) and 91); let SZ = array - (9) / 606 and 4620; while - (1) and 994 - 8 - 774 : chillax end; when case - 32 : chillax end otherwise : chillax end end

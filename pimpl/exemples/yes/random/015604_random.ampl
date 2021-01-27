@@ -1,0 +1,1 @@
+program h2ia : Lf : takes m2, iU7aa, n : integer array returns nothing when case(9) and 18200 <= - 6 - 4 : pop 7; output "g#" end; output 72 = 8 end main : pop - not 0 or(6) and 728 + 1 >= b; while - (3) / 8 and 3 <= - not 523 : when case 98 = 8 : while 7 : chillax end; pop end case 0400 : pop end end; pop; output 67 = 81; input u[8740] end

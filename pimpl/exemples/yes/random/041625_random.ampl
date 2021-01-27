@@ -1,0 +1,1 @@
+program kaaa : A : takes vV : boolean array returns boolean array V0K, w4ta : boolean; G, T, p, RD : integer; Gn : integer; chillax end i96a : takes C : integer array returns nothing e6, o : boolean; Zd, y, m : integer; output "3Uaa" end main : chillax end

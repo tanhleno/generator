@@ -1,0 +1,1 @@
+program B : E : takes r : integer array returns boolean array input d end main : g : integer; input s[false rem 8 rem not 995 and 98200 or true rem false or true and 4 + 5]; do f((9) or(85) >= - (1)) end

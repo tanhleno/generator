@@ -1,0 +1,1 @@
+program P : v : takes T, D : boolean array; WS3a, j, g : integer array returns integer array chillax end yg : takes Vj, j : integer array; e : integer array returns nothing chillax end main : q9, _ : boolean array; chillax end

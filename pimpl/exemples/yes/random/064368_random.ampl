@@ -1,0 +1,1 @@
+program p0 : l5 : takes X860a : integer returns nothing i, VB, fn : integer array; do r6b0(- 4 + 45 - 925) end main : KI9 : integer array; i : boolean; do p3b(- true or 1 * P and 4 < - 6 or true, R3m[305] - 7 > - true and 7000); do W(false <= not 8 and 5) end

@@ -1,0 +1,1 @@
+program Yt60a : i3 : takes m1i0, a32aa, h, l : integer returns nothing j, F : boolean array; when case - false - 4 - 5 : do h(1) end otherwise : output "" end; output 46 = 8 . 71 . 8; input A end main : EH : integer; chillax end

@@ -1,0 +1,1 @@
+program b : X8 : takes Y4G, qW, r, pz, Z, K060 : integer returns nothing Kn20, n, y : boolean array; E8 : integer; let JW6a = - 63 - 3 /= 4; output "\t"; pop 7 end main : qh_0, wC : integer; let Y = array 0; while - (4) or(5) and 8 : pop 1 end end

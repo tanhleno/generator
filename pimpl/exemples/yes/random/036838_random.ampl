@@ -1,0 +1,1 @@
+program X : f9 : takes OS : boolean; l : integer array; P : integer; z : boolean returns nothing Uo : integer array; pop end e : takes q : integer returns boolean wN10, g2, cn80 : integer; chillax end A : takes y, z : integer returns integer a, D, yL3 : integer; chillax end _C : takes P, R2, s : boolean returns nothing chillax end main : let g = array(3130) end

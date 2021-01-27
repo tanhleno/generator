@@ -1,0 +1,1 @@
+program jU : main : v4, c, e4u, w : boolean array; Kt, Axq, Z, Fjc, k : boolean; l : boolean; when case c9[0] and 7 : input V0[- 1 - 98] end case - (55) = true - 51 - 57 : pop; output 4; output ""; input Q; pop end otherwise : let I[11] = 50; input j35a[6] end end

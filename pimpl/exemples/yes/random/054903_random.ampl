@@ -1,0 +1,1 @@
+program y : R : takes Uq : integer array; C, ryOaa : integer; l7, t28, _T, sOW0 : integer; F, D, _, SK6, tM : boolean array; Dvl : boolean returns integer array do F(false and 2 - 4 - 4, - 3 - 16000); while - 2 : chillax end end main : t1, j : integer array; H, z : boolean array; VC : boolean; chillax end

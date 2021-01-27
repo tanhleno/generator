@@ -1,0 +1,1 @@
+program T : W : takes R4Sa : boolean array returns nothing fz10, M02 : integer; input n7[1 and 0 or 59 - 0]; pop 43 = 94600; output 1770 . 9 end main : _q : integer array; H, j : boolean; chillax end

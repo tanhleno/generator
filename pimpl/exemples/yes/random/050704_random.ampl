@@ -1,0 +1,1 @@
+program eeX : oN8 : takes H : integer; M, p2 : boolean returns integer array O, U, V, s : boolean array; let O = 4; input svy[- 9]; while 1930 : while 1 : chillax end; pop end; pop end main : xrQ, F9 : integer array; chillax end

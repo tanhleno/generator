@@ -1,0 +1,1 @@
+program R4S0a : S : takes J : boolean; pCf, y9, Q : boolean returns nothing v : integer; C : integer; R, F, o : boolean; G, S6 : boolean; I : boolean; chillax end Y9 : takes N : integer array; U : boolean array returns integer L0 : boolean; E, p, G : integer array; T, d2F0a : boolean; pop 8; let e7 = 70; do T(57300, 994); while 633 : chillax end end main : chillax end

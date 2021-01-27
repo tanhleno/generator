@@ -1,0 +1,1 @@
+program K8 : RW20a : takes b680a, N : boolean array; G6, C, vW, H : boolean returns nothing chillax end g56 : takes Y, U9 : boolean array; Q, e, W8 : integer array; Uraaa, WQ : boolean array returns nothing chillax end main : u5 : boolean; let q = - L(6) and not 9790 and 9 or false and 718 - 1 /= - true; input gA_ end

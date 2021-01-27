@@ -1,0 +1,1 @@
+program o4R : H : takes N, T51 : integer returns nothing _, D, H : boolean; P : boolean array; W69, gu : integer array; Ur7, A : boolean; k : boolean; Dr : boolean; when case - false and 482 >= - 198 : pop 19; when case 35200 : chillax end; pop end end main : m : boolean; chillax end

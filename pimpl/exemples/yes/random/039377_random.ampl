@@ -1,0 +1,1 @@
+program X : ks : takes oM : boolean array; P, A : integer returns boolean u : integer; chillax end G : takes oI : integer array returns integer chillax end Q3 : takes t : boolean array returns nothing w, Z3 : integer array; a, k : boolean; r : boolean; q : boolean; do c(5 = 9180, 7, 16) end main : l, EO, G33, w, aQ : integer array; F35, R4, f : integer array; chillax end

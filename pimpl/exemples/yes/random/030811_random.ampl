@@ -1,0 +1,1 @@
+program q7yaa : j : takes c5, jtJ0a : integer array returns nothing a : boolean array; Y : integer array; E7, u, Nh : integer; when case - s >= - 8 : do B(1, 6020) end; output "" end main : while false + 466 * T : chillax end end

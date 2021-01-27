@@ -1,0 +1,1 @@
+program m : R : takes a : integer; h, di1, G5p0a : integer returns boolean array chillax end iLg : takes p, u0i0 : boolean array; c : boolean returns nothing input E[010]; pop 1 end main : do N(not true rem k48(3240) + false < - true, Q(4), V9yaa and 0 + 36 - 91) end

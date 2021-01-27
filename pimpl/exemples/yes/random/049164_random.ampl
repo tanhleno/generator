@@ -1,0 +1,1 @@
+program f0 : c : takes s : boolean returns nothing while - (3) and 2 : when case 16 : chillax end case 45 : chillax end otherwise : chillax end; output ""; do ZE4(5) end end main : l5W0 : boolean array; c, m : integer array; P : boolean; chillax end

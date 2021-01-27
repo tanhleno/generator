@@ -1,0 +1,1 @@
+program Y : main : ww, H : integer; output - false; while 5 * not 4190 and 12000 + (0) /= - false and 2 - 6 : input Ry[31] end; when case - true : chillax end otherwise : output ""; output "\t" end end

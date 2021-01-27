@@ -1,0 +1,1 @@
+program Gw : main : u2, T, L : integer array; t : boolean array; R : boolean array; when case - true or 3 / false and 7 + (9610) > RP4(98300) or not 5 - 3 - 3 : when case 2 - 1880 : input O4; while 3 : chillax end; pop end otherwise : chillax end end otherwise : chillax end end

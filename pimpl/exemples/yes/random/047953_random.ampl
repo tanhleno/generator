@@ -1,0 +1,1 @@
+program e : yh : takes o : boolean returns nothing Mk0, Y, q, c : integer array; N : integer; chillax end main : Ml : boolean array; l3, J : boolean; s : boolean; XJ, f : boolean array; when case - true * not false = not not 2 - true + 4 : chillax end end

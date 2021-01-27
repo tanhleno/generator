@@ -1,0 +1,1 @@
+program d9G : main : when case - P(3) / M7(84) / g and 5 : while 7 < 8 : chillax end; while 17400 : chillax end; do C(501) end case not false rem gJb0 and 9 /= false and 1 or 1 - 82 : do B(52, 43200, 9); do y(644) end case true and 748 : chillax end end

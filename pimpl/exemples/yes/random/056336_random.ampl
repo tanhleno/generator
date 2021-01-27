@@ -1,0 +1,1 @@
+program S : ze : takes e : integer array; I : boolean returns integer array let G = 19 - 28 end main : BO, C, UJd, rk20a : boolean; r8 : boolean array; pop; let r = (9) <= - 89 - 935; output - 53600 - 1 > 6 . 35 = 24 . "2)"; when case - 65 - 98 <= 7 : chillax end otherwise : chillax end; pop 59 end

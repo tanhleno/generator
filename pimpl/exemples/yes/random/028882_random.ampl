@@ -1,0 +1,1 @@
+program l : DRr0 : takes g290a, p : integer array; Gyw : integer array; G8 : boolean array returns nothing wx : boolean array; chillax end main : while - 0 or false : chillax end; let o7 = array k; when case false and 61600 + 95 - 1 > - 39 - 3 : while 57 : chillax end end; pop end

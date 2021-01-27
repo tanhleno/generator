@@ -1,0 +1,1 @@
+program Z : main : B, O, d7 : integer; X, p : boolean array; VJ, _, F : integer; L, LAsaa, u : integer; when case not true + true + Pf6 and 7590 /= 9 and(16) - F and 1 or 929 : pop end case fA(2) and false + true > false and 5 - 6 : chillax end case - not 8 - 5 - 803 : chillax end; while - 10 : chillax end end

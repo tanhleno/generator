@@ -1,0 +1,1 @@
+program lI : xaY0 : takes lI, xE, GEY, J : integer returns integer array O : integer; chillax end YW : takes D : boolean array; GS, MD80 : boolean array returns nothing chillax end main : p0 : boolean array; Fw60 : boolean array; t3 : integer; chillax end

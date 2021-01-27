@@ -1,0 +1,1 @@
+program qp4aa : qPt0a : takes l23 : boolean returns nothing chillax end d : takes h : integer; N : boolean; p : integer; W : boolean; Q : integer array; W1 : boolean; I3 : boolean returns integer array EY : integer array; chillax end G6 : takes s, O45, BT : boolean array returns nothing gU8, T, J14 : boolean array; f6H : boolean; chillax end main : K43, m : integer; chillax end

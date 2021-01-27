@@ -1,0 +1,1 @@
+program gN : b34 : takes W : integer; r0 : boolean array; Ny, fr, cH, F, d, K : boolean; O : integer array returns boolean pop; let L[1 - 0100] = array - 03; pop 80 end main : H, J, BK, H : integer array; a : boolean array; P, Etc0a, u6 : boolean array; o, _ : integer array; A, m : integer; chillax end

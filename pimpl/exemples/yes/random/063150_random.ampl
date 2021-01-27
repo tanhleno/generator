@@ -1,0 +1,1 @@
+program j : pl : takes co1 : integer returns integer array when case - (48) : chillax end case 866 /= 4 : when case 7 : chillax end; pop; pop end otherwise : chillax end end main : S6M : integer array; chillax end

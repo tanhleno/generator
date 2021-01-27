@@ -1,0 +1,1 @@
+program d : ae6 : takes RMR : integer returns integer array output "1" end Q16a : takes F : boolean; E6, M, Y, l : integer returns nothing I : integer; k, dE, j8 : integer array; when case 5 /= 065 : let cZ = 7 end case 8 = 445 : chillax end case 2 : pop end case 75 : chillax end; input J[9] end main : g, e : boolean array; chillax end

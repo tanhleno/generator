@@ -1,0 +1,1 @@
+program Kl : I1 : takes F9 : integer array; _0Y, I0e : boolean array returns nothing zd80 : integer; chillax end main : sK, r180a, s51aa, n : integer; when case false + I1[283] rem(1) and 523 /= true : chillax end end

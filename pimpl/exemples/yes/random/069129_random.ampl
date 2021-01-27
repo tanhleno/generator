@@ -1,0 +1,1 @@
+program a : main : xa, V, gZx0, s, R3 : integer; input kU9aa[true + true * not 4 or(8) + 570 - 09300]; when case - true = false and 6 - 77100 : chillax end case 5 and 74 /= - 24900 - 7 : pop 3; pop end case 2 - 5160 : chillax end; pop 4 - 57; let LAaaa = 5 = 0; input I end

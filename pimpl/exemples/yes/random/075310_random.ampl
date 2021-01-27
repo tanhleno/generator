@@ -1,0 +1,1 @@
+program A : main : X, Xcb : boolean array; UE : integer array; n : boolean; when case true < - true and true or Pm1 and 4 - 267 - 7810 : output "zR\"a" . "\n" end case _ rem(4) >= - true : chillax end end

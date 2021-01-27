@@ -1,0 +1,1 @@
+program AW90a : n : takes M, o : boolean; B42 : integer array; q : boolean returns nothing chillax end main : m69a : boolean; a, P7 : boolean; g : boolean array; let JV[- not true / (2) or(9560)] = array false and true * (853) end

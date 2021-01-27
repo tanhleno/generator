@@ -1,0 +1,1 @@
+program C : main : P1j : integer array; when case - false or r05(7) /= 020 : let e51aa = array - 906 end case true - true and 1 : let E[6] = 7 end case - false + 26 /= - 1 : let dM[1] = array 88; do l(73); input V; pop end case - 19 < 555 : chillax end; do r(- 4 >= false or 8) end

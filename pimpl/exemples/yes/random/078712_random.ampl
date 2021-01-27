@@ -1,0 +1,1 @@
+program c6 : main : M : boolean; L, j, d18 : integer array; C, b, N : boolean; while - false : do J_5(- 7 < 7) end; do p((7) * not 39 - true and 7 + 95, 3 and 32, 50, 9 = 5); output "2>!" . 75 . 26700 . 2 . ""; input SSLaa[- 396]; while 6 = 427 : while 24 : chillax end end; output "a" . "U:\"" end

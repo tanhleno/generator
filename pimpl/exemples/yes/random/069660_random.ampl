@@ -1,0 +1,1 @@
+program s3 : main : G5, n, S, i : boolean; when case - u rem(2) - (1) - Oy and 8 + 7 - 1510 : chillax end case - 83 > - UrKa and 94 or 4 - 8 : while 589 : chillax end; pop; output ""; pop end case not 6 and 05 + 14 - 3 < 10 : do z(5) end case 0 - 8 < 45800 : let dvh0a = 9; input d; pop end; input j end

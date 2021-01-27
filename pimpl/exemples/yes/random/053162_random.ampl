@@ -1,0 +1,1 @@
+program Yt : z : takes Q : integer; r : integer returns boolean W2W0a : integer array; do t8(- not 03600 - 38 - 4 /= 16800) end X : takes w, q4G : boolean array returns nothing O1 : integer; KAU : boolean array; chillax end Ci1 : takes b : boolean returns nothing z : boolean; when case 3 = 69 : input C2 end case 2 : chillax end case 64 : chillax end end main : chillax end

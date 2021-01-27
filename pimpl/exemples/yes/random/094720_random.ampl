@@ -1,0 +1,1 @@
+program k80aa : main : pop; when case - not true : output "" end case - not 871 and 1 <= - 3 - 4320 : do M(7) end otherwise : pop end; while - (8) - 0070 - 63 >= 7 - 1 : do O(2, 19) end; do K(- 3690 < 89, 65 = 44); when case 94 : chillax end otherwise : chillax end end

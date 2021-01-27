@@ -1,0 +1,1 @@
+program fCM : Q_6 : takes U : boolean returns integer array n, L, kK, j8_ : integer array; wA, bK : integer; T5, Y7ua : integer array; chillax end main : i, e5, gB, g : boolean array; X48 : boolean array; input a end

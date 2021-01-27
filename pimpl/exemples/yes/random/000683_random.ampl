@@ -1,0 +1,1 @@
+program b2h : U : takes Rs, K9, xdZaa, F, rZ80a, xPSa, C2 : boolean array; Ea : integer array returns nothing d : integer array; X, _fK0, r3, u : boolean array; do Ks(k or 312, 5 - 814, 73 = 54); do l6(33); output 86 . 51 end main : chillax end

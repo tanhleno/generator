@@ -1,0 +1,1 @@
+program B4z0a : D : takes H : integer; qOX, I, F : boolean array; b, E, l, z : boolean array returns nothing let G3 = array - not 0; input I[- 9 - 935] end main : TU, Vf6a, Dula : integer array; ux : integer array; O : boolean; ZB9aa : boolean array; Q : boolean array; let d92a = not true end

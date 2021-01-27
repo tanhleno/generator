@@ -1,0 +1,1 @@
+program Oy70 : L : takes AQ6 : integer array returns nothing w : boolean array; do W(not 8 and 1); output 5 = 9630; while 30 = 4 : chillax end; when case 2 : pop end case 2 : chillax end; while 41 : chillax end end bH : takes Qv, G, Fmta : boolean; k : boolean array returns nothing chillax end main : do nG(- 1 < (1450) rem not 73 and 9) end

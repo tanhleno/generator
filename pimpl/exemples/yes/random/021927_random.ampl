@@ -1,0 +1,1 @@
+program U : d3 : takes z, SJ : boolean array returns nothing chillax end enx : takes F : boolean returns integer let A960[- 88 - 05] = 944 = 4440; when case 24 : chillax end case 9 : pop end case 8 : chillax end; input by; let hC = 16 end main : when case not true : chillax end case - false rem(3) : chillax end end

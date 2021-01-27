@@ -1,0 +1,1 @@
+program K8v0a : H : takes K, m_, S2O, T : integer returns nothing pop - 2 - 4 /= 3 end l : takes B5 : integer array; v : integer returns nothing pop; output "" . 4 . "" end main : T, ZR8, f3s : boolean array; g, o820a : integer array; F, K : boolean array; while(3) or true and(1) - j and 84 - 7 : chillax end; let r3 = - true - 3 /= - 20 end

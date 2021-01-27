@@ -1,0 +1,1 @@
+program te : t6z : takes y, B : boolean returns boolean chillax end f : takes K : integer; JH4 : boolean; M : integer returns boolean A : integer; chillax end Q : takes B16 : integer; u6Maa, V0 : boolean returns nothing Nw7 : boolean; Gd60, _3 : boolean; do R5Z(6 = 6, 7) end main : output - not true * false or true . - not 36 and 0 . "" . "0" . "#jaa" end

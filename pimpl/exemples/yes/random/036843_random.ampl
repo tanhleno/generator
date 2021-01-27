@@ -1,0 +1,1 @@
+program A : S0 : takes A : boolean; s1o : integer array; fUn : integer array; Ix9, x, L, xq : integer; YT90 : integer returns integer chillax end main : while false : when case - 2 - 37 : output "s\t!"; let RGT = 364; pop end case 890 : chillax end case 015 : chillax end case 5 : chillax end otherwise : input k3; pop end end; let sXU = array - 374 + 981 end

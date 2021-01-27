@@ -1,0 +1,1 @@
+program S : E : takes f8 : integer returns integer array C2n, HtAaa : integer array; d5 : boolean array; e, Yt : integer array; chillax end main : _ : integer; xs2a, v, tH, w83aa, U060a : boolean; output "~8aa" . "LE" . ""; pop end

@@ -1,0 +1,1 @@
+program Kq : _ : takes K : integer; l : integer; Zz : boolean array returns nothing chillax end main : po : boolean; _cJ : integer; when case false * false rem 40 : let X = array 5 - 1; input CV60a; input hr5; input MWF0a; input p; pop end case false rem 2 and 30 or true and 4 + 9030 - 8 > - (9) and 4130 or 98 - 61 : chillax end case(2) and 7310 <= 8 - 18 : chillax end end

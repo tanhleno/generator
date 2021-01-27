@@ -1,0 +1,1 @@
+program C7 : main : q : boolean; c9da, L : boolean array; when case false <= - 19300 rem not 9 - (400) and 1 or 548 : pop 759 end otherwise : chillax end; while 08 * false and 1 + false and 89 + 5 : while 907 = 1 : do z(3) end; do W(98, 2); when case 89 : chillax end end end

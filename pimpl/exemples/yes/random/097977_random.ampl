@@ -1,0 +1,1 @@
+program P030a : main : while - (9) <= false - (19) and 898 : when case - 13 : do n(4); input IA; pop end otherwise : while 4 : chillax end end end; when case y[6] rem true or false or 6 : chillax end end

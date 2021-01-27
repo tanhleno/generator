@@ -1,0 +1,1 @@
+program M : k0 : takes v, CQ, i7H, m, m8D : integer returns nothing ZC, m : boolean array; output "" . "" . 4110; when case - 7 = 24 : input Z; when case 9510 : chillax end; pop end otherwise : when case 1 : chillax end; pop end; do jTB(4) end main : ndv0a : integer; chillax end

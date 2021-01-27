@@ -1,0 +1,1 @@
+program fKe : z : takes t7 : integer returns boolean r, e5yaa, g8G, JN6a, E : integer; Z, Q5 : boolean; chillax end F2 : takes E : boolean array returns nothing w18 : boolean array; D580, B : integer array; zf : boolean; chillax end main : Fg7, c8, dVRa : boolean; M : integer; chillax end

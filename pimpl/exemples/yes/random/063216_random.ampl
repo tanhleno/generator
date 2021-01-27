@@ -1,0 +1,1 @@
+program yN : k : takes H : integer returns integer chillax end A : takes H : boolean array returns integer array chillax end main : when case(970) : output 6 = 9 . "V"; do R3(83600 = 18, 1); let U7[91] = array 2 end otherwise : pop end end

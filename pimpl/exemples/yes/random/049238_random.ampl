@@ -1,0 +1,1 @@
+program Jl : M : takes e0w : integer; g, r, MLQ, R, Yf, A, X00 : boolean; R : boolean array returns nothing do h(true) end h64a : takes AK9a : integer returns nothing Z430a, PE : boolean; do h(- 5) end main : v : boolean array; w, q : integer; chillax end

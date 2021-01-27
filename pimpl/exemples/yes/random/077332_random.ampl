@@ -1,0 +1,1 @@
+program Y : main : k, U4m : integer array; P, bU : boolean array; t, c, Dc0 : boolean; Hp : integer; sz9aa : integer; tk : boolean; dKma : boolean; o87 : boolean; output - not true + true or 6 - 52200 > true or 9; let G330a[qO5aa[867] or true or 3] = - (85800) and 4 - 942 end

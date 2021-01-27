@@ -1,0 +1,1 @@
+program z : main : when case true / not true rem(50) and 77 - false and r + L4k0a - 1 > - e080a[4] / false and 23200 - 5 - 7 - 0 : chillax end; output false < - 2 - 6 . 78 = 8 . 50 = 1 . 719; do u(- 6 - 7 - 5) end

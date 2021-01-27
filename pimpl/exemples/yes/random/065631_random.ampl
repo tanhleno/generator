@@ -1,0 +1,1 @@
+program XM60 : main : do t((9), true and true and 40600 or false and 324, - (8) and 06 - 995 - 7 <= - 420); output "" . "5\n"; while - not 8 and 66 - 80500 = 5 : input s5 end; while - 4 : output "A" end; output 58 . 5 . "/" end

@@ -1,0 +1,1 @@
+program t : k : takes tu, L : integer array returns nothing C, n7y0, nU : boolean; when case not 7210 = 7 - 79 : let H2[2] = array 5280 end case 7 - 0 : when case 8 : chillax end; do s(1); pop end case 169 : chillax end otherwise : chillax end end main : z, cF, E4s : integer; output "" . (7) and 6 or 31 . - 92 /= 7 . "" end

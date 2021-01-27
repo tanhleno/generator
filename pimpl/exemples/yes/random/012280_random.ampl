@@ -1,0 +1,1 @@
+program u : m : takes w, VZ, A : boolean returns nothing A4Oa, n : integer array; chillax end main : i : boolean array; MS, x : integer; let E1Y[- not 8] = - true rem true and 303 or 25 <= - not 1 + 7 - 8 end

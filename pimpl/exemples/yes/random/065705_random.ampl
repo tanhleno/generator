@@ -1,0 +1,1 @@
+program qek : main : do JvU((022 = 5)); when case X[90] or not 294 and 8 or 688 - 31 = E080 - 7 - 5290 : do a(725, 744) end case - 4 /= - 13 : output 2 . "_" end otherwise : input m[26] end; input t; let L = 22 = 6; when case 1 : input Q7 end case 82 : pop end case 16 : chillax end; pop 5; do x(54) end

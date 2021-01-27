@@ -1,0 +1,1 @@
+program _7Q : H000 : takes Y40aa : boolean returns integer chillax end R0_0a : takes Fz00 : integer array returns boolean array wH : integer; do k(4 - 50 /= 10) end a : takes P : integer array; z, mE, W1o0 : boolean returns boolean s : integer; do Y(89, 08) end main : chillax end

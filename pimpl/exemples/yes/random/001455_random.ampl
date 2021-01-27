@@ -1,0 +1,1 @@
+program S8 : J960 : takes Q, IB, L1, SF, S410, cyx : boolean array returns nothing J : integer; I13, Q : integer; chillax end main : b, I960 : boolean; i55 : boolean array; j3, Bc, z55a : integer array; D : boolean; let p = not true <= (9) and 4 end

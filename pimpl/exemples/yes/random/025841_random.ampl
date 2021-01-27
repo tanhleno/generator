@@ -1,0 +1,1 @@
+program cJ : n7 : takes r, q : integer; A, j : integer array returns boolean chillax end w : takes i7, tx, U : boolean; Yu, o : integer; D8 : integer returns boolean R27 : integer array; S7, al8, r86 : boolean array; o, W9 : boolean; yh9 : boolean; aL : boolean; chillax end main : output ""; while 7 rem(9) and 0 : chillax end end

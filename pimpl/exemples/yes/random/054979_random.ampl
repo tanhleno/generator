@@ -1,0 +1,1 @@
+program q5 : F71aa : takes T72a : integer array; I85, Z : integer; I9 : boolean array; U, DV, o : boolean array returns nothing pop; when case - 96 >= 335 : output "&l" end case 08700 : pop; pop end otherwise : chillax end end main : C : boolean array; do E4(- true + 8 rem false >= - 2 + not 61 or 8 - 3) end

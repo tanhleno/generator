@@ -1,0 +1,1 @@
+program Vi : K : takes _5 : boolean returns nothing input Sk; let w[- 2] = 7 end E : takes R : boolean returns integer array output 232 . 6530 . 37; output "" . 95 end main : kc : boolean; d8 : integer; when case - 49 rem(3) <= - (6) and false or not 3 and 2 : chillax end end

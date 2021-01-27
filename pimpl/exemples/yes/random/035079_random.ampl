@@ -1,0 +1,1 @@
+program X12a : Q : takes V : boolean; Rn0aa, a : integer array returns integer chillax end _ : takes A : boolean array; sY20a : integer array returns nothing h6Y0a, s_ : integer array; do eU4(- 5, 2, 177, 01) end w9 : takes tIz0a : integer array returns nothing input t end main : chillax end

@@ -1,0 +1,1 @@
+program q : cWi : takes q660 : integer; B, e, L, q : integer array; Tq7aa : integer returns boolean Er, F : boolean array; VyE : integer; bn : integer; chillax end I1 : takes F, c2, Y : boolean array returns integer array while - 5 - 46 : chillax end end main : do p(- false and true * false + J8Qa(0) + not 78 and 5 >= hl[6] or lk and 844) end

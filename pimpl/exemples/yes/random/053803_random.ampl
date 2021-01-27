@@ -1,0 +1,1 @@
+program kE0a : p : takes JP : integer array; p7, J, O, b : integer array; X : integer; f5, k7, tgC0 : boolean; cH, Y : integer; _ : boolean array returns nothing p0 : boolean; while 6 < 2 - 6 : chillax end; while 9 - 87500 >= 7470 : chillax end end main : input R[true rem(19) rem not 94 and 2] end

@@ -1,0 +1,1 @@
+program s : I : takes Z9 : boolean; v5Ga, x4 : integer array returns nothing chillax end main : f, A, Z : integer; input T[false - O6]; while true or false or 9 - 49 : do n(9480 = 71); when case 9 : pop end case 498 : chillax end end end

@@ -1,0 +1,1 @@
+program F : mB : takes Wmm0a : integer; X : boolean; o0 : boolean array; P, l : boolean array returns integer array chillax end main : r, t4, d : integer; do u6a(- 461 + not false * not 6 >= - _d60a, - 9 / true) end

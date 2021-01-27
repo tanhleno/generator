@@ -1,0 +1,1 @@
+program b : main : when case - (7) and 2 + true >= true or not 97 and 899 - 1 : input U[- 22 - 3] end case true rem 93 and 3 or false and 849 or 23400 : let dD3[03] = 76; output "" end case 1140 + 48 - 5 : chillax end case - 2 - 71 >= 2 : pop end case 34 = 8 : chillax end case 52 : chillax end case 1 : chillax end otherwise : chillax end end

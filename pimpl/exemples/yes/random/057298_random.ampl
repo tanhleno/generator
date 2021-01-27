@@ -1,0 +1,1 @@
+program l : k : takes v3 : integer array; Os0aa : integer array returns nothing input f[M and 4] end M : takes NbZaa, en, W5, s4 : integer; q : boolean array; w, HOcaa : integer array returns boolean array pop end main : m2j, Z : integer; LM0 : boolean; s6 : boolean; chillax end

@@ -1,0 +1,1 @@
+program C8b0 : m : takes b780 : boolean returns nothing aN, a33a, B, ViP, B : boolean; YWu, e, ry8aa, d : boolean; input G[- not 4 and 7 + 0 - 1] end y : takes f, g, fA6, E : boolean array returns integer chillax end b79a : takes HS2aa : integer array; B, TZW0 : integer returns boolean j : integer array; let Y[726] = array 49 end main : JO80a : boolean array; chillax end

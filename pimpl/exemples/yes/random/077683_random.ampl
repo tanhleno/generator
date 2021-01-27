@@ -1,0 +1,1 @@
+program ptH0 : main : q24, srC : integer array; M7 : integer; v40, LS4aa : integer array; I : boolean array; z : integer; when case - true < false / not 117 and 9 : when case - 02 : pop end case 9 = 45 : input x end end; output "R" . 1 - 2230 >= 26 . "" . "" end

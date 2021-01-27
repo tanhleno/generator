@@ -1,0 +1,1 @@
+program M : RRp : takes f6 : integer array; N, uJ : integer; Z6 : boolean returns boolean array O : boolean; e0, E, yibaa : boolean array; R : integer; while - (51700) : chillax end end main : S : boolean; VV, b : boolean array; input Q[- false * true / true and 1] end

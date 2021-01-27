@@ -1,0 +1,1 @@
+program l : jz6 : takes f16aa : boolean; B : integer array; S, z6, sk, JTP0a : boolean; r : boolean; KUO, i8, U, vu1 : integer array; uH7, X1, a : boolean returns nothing chillax end main : d : boolean array; while - not not false * 7 / true and 86 - (14500) : chillax end end

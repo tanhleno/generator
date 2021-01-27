@@ -1,0 +1,1 @@
+program K9 : J : takes J1Taa : integer array returns nothing let N[914 + 244 - 7] = array 1 and 3 or 18 end main : Do : boolean array; output - not not 40100 * not 33 > Re and 1 or 724; while(37) : let Q[3] = array 40; while 2 : pop end; do Qy(29) end end

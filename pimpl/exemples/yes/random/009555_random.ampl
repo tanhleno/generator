@@ -1,0 +1,1 @@
+program e89aa : d : takes Yh, Cro0a, L : boolean array; l, TR0a, X, N : boolean; s, I : boolean array returns boolean chillax end n : takes s1T : integer array; st9, QG, B0j : integer; _8, V02, E, i4, m : integer array; Jph, O, TX70, g : boolean returns integer chillax end main : u, Uy6a, D : integer array; input x end

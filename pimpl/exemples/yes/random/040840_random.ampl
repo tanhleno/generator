@@ -1,0 +1,1 @@
+program IBC : K : takes j : boolean array; l0 : integer array; q : boolean; Z, c, J98a, O, g7 : integer; N, QM, g, AM10 : boolean array; zn : integer array returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program y : q : takes j : integer array; L : integer returns nothing S2, p6 : boolean; R : integer; let X = array - not 3 and 6 end G : takes p, o, O : integer returns integer chillax end g : takes Abwaa : boolean; Q14 : boolean; EP20 : boolean array returns boolean array n95a, Qxz, K : boolean array; input e end main : chillax end

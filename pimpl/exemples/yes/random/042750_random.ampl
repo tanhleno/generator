@@ -1,0 +1,1 @@
+program i : vZ : takes y : boolean array returns integer array HE30 : integer; v : integer array; while - true + 66 - 837 = - 30 - 908 : do HY1a(08) end; input z5 end main : pop S270a[3] + I and 90 <= - (6) and 82 - 00 - 96200 end

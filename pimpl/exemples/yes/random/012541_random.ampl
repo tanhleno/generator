@@ -1,0 +1,1 @@
+program F9 : H9 : takes u7, Y, uk : integer; m2oa, T, L8, O, S, z26, w87 : integer array; r1, M5a, D4H : boolean; K : boolean; E, Q, C_Raa : boolean array returns boolean NA : boolean array; chillax end main : L29aa : boolean; jP : boolean; do sj(- 9); do X(- l32 / not 5 and 382, - true and 40 or 64 > - 5 - 12); input N; let V_2[9 - 4] = array 89 - 65; input d[20800] end

@@ -1,0 +1,1 @@
+program n : WD : takes P3oa : boolean; R25aa : boolean returns integer array let i = array - not 0; input G[608 - 0]; while 82 = 02 : while 82500 : chillax end end; output 48; when case 8 : chillax end; output "" end main : let F5p[- (277) rem m290] = array(3) and not true * true and 298 end

@@ -1,0 +1,1 @@
+program D6saa : M : takes q : integer returns nothing output "" . "" . 064; while - 9 - 91 > 12200 : while 83 : chillax end end; do o4f0(9 = 3, 6, 2); input E[7]; input G end Eh : takes U, wg : boolean array; mCQa, wm, w : boolean returns integer while - 33 - 1 : chillax end end main : chillax end

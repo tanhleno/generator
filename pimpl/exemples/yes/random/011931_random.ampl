@@ -1,0 +1,1 @@
+program q : G7 : takes Z2, Az_, o : boolean returns integer W, nRb, mr : boolean array; output - 2 - 94 > 10 end main : l, s66 : integer array; input A[- W(20) or o1I(3)]; input g2; when case - 6 or 18 - 9 : chillax end end

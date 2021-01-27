@@ -1,0 +1,1 @@
+program l6 : l : takes i14aa : boolean array returns nothing C : integer array; oa : boolean; H8 : boolean array; L49, QgUa : boolean; y950 : boolean; p : boolean; do m(- true and 7); do Vj(- 039 - 63, 85, 26) end main : when case - not(86) * not 3740 * y and 7 < (6) or true : chillax end otherwise : pop 3 end end

@@ -1,0 +1,1 @@
+program wh : V : takes wq8a : boolean array returns nothing chillax end main : J : boolean; while false * (647) + true rem 9 : when case 3 /= 45600 : pop end case 5 = 633 : chillax end case 74 : chillax end otherwise : chillax end; while 93 = 396 : chillax end; let Y[4] = array 5550 end end

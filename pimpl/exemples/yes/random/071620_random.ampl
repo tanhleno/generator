@@ -1,0 +1,1 @@
+program W9 : main : Fz, y, t : boolean array; F : boolean array; UhK : boolean array; i : integer array; p : integer array; QtOaa, c : boolean; I_c0a : boolean; pop; pop; when case - not 683 = - 69500 - 089 : chillax end otherwise : output ""; input r end; let qKqa[- 7 - 8] = array - 0; output 05 . "\\"; while 7 : chillax end end

@@ -1,0 +1,1 @@
+program PZ4 : e : takes g, Q, x9W0a : integer returns integer b1p0, s : boolean; chillax end hg6 : takes n, D : boolean array; u, S2 : boolean; _ : integer array returns nothing EX, B : boolean; pop; while 24400 : chillax end; output 51 . "" end main : pop V[598] / true + true + 821 - 74; output "\t~" . - 75 - 2390 . 85 . 44900 end

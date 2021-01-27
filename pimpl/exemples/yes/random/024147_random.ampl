@@ -1,0 +1,1 @@
+program uc8 : r : takes M, iHz : boolean returns nothing mE5, X, kS, w, zz : boolean array; t3, x : integer array; chillax end XOg : takes s, C : boolean; b2 : integer array returns nothing when case 2 /= 0 : chillax end case 7 : let c = 66 end end main : chillax end

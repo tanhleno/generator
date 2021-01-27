@@ -1,0 +1,1 @@
+program t : sq5 : takes H2_aa, cI : integer array returns nothing I : boolean; while - O and 66 - 39 - 5 : input Jq end; let E7 = 93900 = 0870; while 1 = 6 : chillax end; pop end main : k : boolean; kP, v : integer; chillax end

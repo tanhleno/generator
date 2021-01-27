@@ -1,0 +1,1 @@
+program t : main : l6raa : boolean; G, y, Z : integer; when case false - (33900) and true > 7 or(80400) : chillax end case - 57200 : when case 7 : chillax end otherwise : pop end end otherwise : chillax end end

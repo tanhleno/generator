@@ -1,0 +1,1 @@
+program z50 : Y : takes F : integer returns nothing r1, Mp : integer array; chillax end z : takes UTl0a, X4i : boolean; CG90, u : integer; w : integer; x, s, yQ : integer; x1s, G : boolean returns nothing input s[226 - 34] end main : let F1g0a[not 0 or(9) + (69) and 0 or 87] = array - 3; pop end

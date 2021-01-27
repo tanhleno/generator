@@ -1,0 +1,1 @@
+program H : l5 : takes H : boolean returns nothing chillax end main : u, Qs, C, f3_aa, jN6a : boolean array; do nYh(L(8, 63) + not 92 - false and 5, true = 0, cZ5 - 943 - 74, - 285 - 9 <= 1450, 52, 9, 00) end

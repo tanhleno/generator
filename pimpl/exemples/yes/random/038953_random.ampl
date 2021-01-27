@@ -1,0 +1,1 @@
+program t : e : takes Q1 : boolean array; L, p : boolean returns nothing kw : integer; let S4[- not 71 and 1 or 1 - 0] = array 2 + 2 - 9 end main : j : integer; MSb, r : integer array; q0i, p, Y6ca : integer; chillax end

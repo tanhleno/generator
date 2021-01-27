@@ -1,0 +1,1 @@
+program K : R1 : takes R : boolean array returns integer array chillax end z : takes i6w0, G : boolean; U : integer array; B, x150 : boolean; w : boolean; o9Vaa : integer array returns nothing when case 1 : chillax end; do b9I(78); input _[5]; do r(17); let u = 0 end main : AVZ : integer; chillax end

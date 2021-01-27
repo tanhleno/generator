@@ -1,0 +1,1 @@
+program Q : main : t, DT : boolean array; S : integer array; pop; when case 80900 * false <= - _ and 60 or 0 : do RO(7 = 9, 16, 2); input T[30] end case - LNxaa + 1 : when case 7 : pop end; when case 801 : chillax end end case 5 - 31 : chillax end case 3 = 1 : while 9 : chillax end; pop end end

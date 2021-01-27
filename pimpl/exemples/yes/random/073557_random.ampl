@@ -1,0 +1,1 @@
+program sLd : main : D, o : boolean; t9, W : boolean; when case u6n - Y8z0 - true and 4 or 0 - 12800 <= not false * (55) and 1 - x : input ZQ8[- 78]; pop 9; input sD; input F end case(10800) and true + true and 7 <= - true : chillax end case not 3 or 9 - 7 = 44 : let O[2] = array 8 end otherwise : pop 7; input Y0W[0]; let H = 858; when case 2 : chillax end; pop end end

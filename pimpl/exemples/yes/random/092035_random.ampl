@@ -1,0 +1,1 @@
+program W : main : output - false rem false and 20200 - DDRa . (9350) >= - 70 - 97800; when case H(0) / S4 < 245 : chillax end otherwise : chillax end; pop - 29 - 93 < 4; when case 3410 : input U; do T(09) end case 8 = 9 : when case 0 : chillax end end; do U(35 = 24) end

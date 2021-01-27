@@ -1,0 +1,1 @@
+program J0 : y : takes n, O : boolean array; o50, E : boolean array; z : integer array; T9D0, mCC0 : integer array; Q3W0a : integer returns integer array d6m, Y7 : integer; do C(- (130) - 9 - 8); pop 2800 end main : let rz = not(6) rem Y and 44 + not 54 and 54 > - true - 3 end

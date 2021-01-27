@@ -1,0 +1,1 @@
+program o : A : takes m1 : boolean returns boolean array chillax end l50 : takes E0F, U63a : integer returns boolean chillax end main : HO1 : boolean; when case - 62 / true + E0(54) = - 5 rem not 1 and 50 : chillax end; pop end

@@ -1,0 +1,1 @@
+program W5 : PQ : takes r09 : integer; YI, K : boolean; r06, T : boolean; A : integer; pP7 : integer; lU, y9n : integer returns integer chillax end Eh : takes zxiaa, M6, jQ5 : integer array returns nothing e, q : integer; m8 : integer array; chillax end main : output "" . - true and 8 end

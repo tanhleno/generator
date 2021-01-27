@@ -1,0 +1,1 @@
+program b0 : k : takes _ : boolean array returns boolean G, vw : boolean; z : boolean; when case false and 9 or 8 - 7 : do VRe(67600, 8) end case 3 : output "8"; output "" end case 87 : while 622 : chillax end; pop end case 66 : chillax end case 5 : chillax end; while - 4 = 7 : do xJ9(4590); pop; pop end end main : tas : integer array; input v[w]; pop 2 and 3 or 15 > - 390 end

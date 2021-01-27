@@ -1,0 +1,1 @@
+program j650a : p : takes v : integer; T, j, Z : boolean returns nothing chillax end Z7 : takes c : boolean returns integer array output 0370 end main : F, s, Zp, C : integer array; p : boolean; output ""; output - w and 2 = 9; while(2) and 2 : chillax end; do tH7(06 <= 4170, 7); output 3 . ""; do j(9); input D6P0a; let B = 80; pop end

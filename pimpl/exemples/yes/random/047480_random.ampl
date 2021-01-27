@@ -1,0 +1,1 @@
+program Mv7 : e480a : takes K : boolean returns nothing chillax end K : takes J, q : integer returns nothing pjC0 : integer; chillax end L : takes Eh, l : integer array; r3, fZ_ : integer array returns nothing b620, t, rtT : integer array; chillax end c : takes N : boolean array returns integer array do O7M0(996) end main : chillax end

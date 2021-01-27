@@ -1,0 +1,1 @@
+program n : b : takes q : integer array; wP, Z, z : integer; n54aa, B3 : boolean; v6, b : integer array returns integer array X, o, af, cb : integer; when case(55) and 468 : do x0i(9); when case 57 : chillax end end otherwise : chillax end end main : chillax end

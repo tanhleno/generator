@@ -1,0 +1,1 @@
+program T : f3 : takes S9S : boolean array; c, W, l : integer array; w9, h : integer returns nothing output ""; let I = 89 end main : V27 : boolean; Hd : boolean array; ok : integer array; chillax end

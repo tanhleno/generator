@@ -1,0 +1,1 @@
+program fHva : s8 : takes et : boolean array; m05, dc0aa : integer; C : integer array; x : integer array returns boolean chillax end OBG0a : takes dC : boolean returns nothing when case 32 - 2 >= 07 : chillax end case 3 = 6 : chillax end case 2 : pop end; let L = 7970; let e_[3] = 7 end main : pop end

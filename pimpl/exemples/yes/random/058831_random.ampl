@@ -1,0 +1,1 @@
+program y : j0V0 : takes q2 : integer array returns integer array q : boolean; chillax end r : takes nh, B09a, nytaa : boolean; YO : boolean returns boolean array chillax end O : takes FDca : integer returns integer t, B, p0y : integer; output ""; let S[7540] = 10800 end w : takes D : boolean array returns integer array a4 : boolean; output "6J\"" . "+" end main : chillax end

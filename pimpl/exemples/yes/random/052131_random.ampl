@@ -1,0 +1,1 @@
+program q1 : J : takes g : integer; ls : boolean returns boolean array h : integer array; chillax end main : Bf, cQ3 : boolean array; when case a rem not(50) + 8170 - false and 3 + 6 <= - not(4670) and false and 34 : output 3 = 15700 . "" end case - D4raa * Dv or not 94 and 4 < - not 0 : pop 87500 end otherwise : let h = array 9 end; input VX6[- true] end

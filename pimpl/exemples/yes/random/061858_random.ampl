@@ -1,0 +1,1 @@
+program O05 : L : takes At : integer returns boolean array T, le : boolean; y, z : boolean array; z : integer; output "" . 274 . 9 . 698; do v(6230 > 2, 7) end main : uQb0a, D, U, f : integer; K, f, G, z6S : boolean array; output - (8) + false . - 73400 and 2 end

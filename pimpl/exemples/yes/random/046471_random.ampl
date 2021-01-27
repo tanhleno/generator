@@ -1,0 +1,1 @@
+program q : a5 : takes Us : boolean returns integer array chillax end main : yL, iI : integer array; x : integer; x, Q, y : boolean array; c0, RC5, kfY0a : boolean array; O3, gJG, O0 : integer; output v and(51200) - 94 and 18100 end

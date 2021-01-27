@@ -1,0 +1,1 @@
+program h43a : v : takes uc : integer array returns nothing J3, N, f, b : integer array; e : integer array; chillax end N : takes TX, CJ : integer returns nothing while 56 < 5 : output ""; do ns(8); pop end; while 15 = 955 : chillax end; output "" . "\"@" end h : takes E, q, wu50, H, j : integer; h1, Ux, d0za : boolean returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program qa : main : o41a : boolean array; S, wT30, x, e8 : boolean array; nO, e, y, Gae0, C : integer; v : integer; jQ2aa, W, c : boolean array; do vv(- true / true, - p[41] * 4 and 85 + Y + 9, not 85 and 8 - 579, 6 - 4) end

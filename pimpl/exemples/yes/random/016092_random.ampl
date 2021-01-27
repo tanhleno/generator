@@ -1,0 +1,1 @@
+program qE : b : takes p6g0, VN1, i : integer returns integer S : integer; i0, W : boolean; let NX = 08200 - 547 end main : R : boolean array; m9G, Ve : boolean array; VV3 : integer; G : integer array; i, fp, n6 : integer array; chillax end

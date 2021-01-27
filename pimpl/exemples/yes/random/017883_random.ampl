@@ -1,0 +1,1 @@
+program dS : _9n : takes x63, g26 : boolean; Fw6 : boolean array returns integer array do _q3(false and 3 or 3 /= - 67 - 2, - 55400 - 3 = 57, 01000) end main : M : boolean array; v28a : integer array; chillax end

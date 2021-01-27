@@ -1,0 +1,1 @@
+program a3 : I57 : takes Y : integer array; lDY, T87a, h : boolean; D, p : boolean returns nothing chillax end BXO : takes K0, t6vaa : integer returns integer array chillax end main : let g = array - true; output ""; when case false - 57 - 4 = 79 : chillax end case 23 - 1 : chillax end case 8 = 72900 : chillax end case 16 : chillax end otherwise : chillax end; let thP = 7320 end

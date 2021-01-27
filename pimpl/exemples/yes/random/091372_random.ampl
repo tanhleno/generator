@@ -1,0 +1,1 @@
+program v : main : let AO50a[iQ(1, 8) * false rem(13) and 18600] = array - false rem 7 / not 34 and 94; pop; when case false : chillax end case - 46500 - 1 : chillax end case 0 : when case 9 : chillax end end case 6 : pop end case 0750 : chillax end end

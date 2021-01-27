@@ -1,0 +1,1 @@
+program r : b : takes p8 : integer array returns nothing while true and 5 or 1 - 7 >= - 662 : chillax end end qF : takes I : integer array returns nothing kC, t : integer array; y : integer; while 76800 >= 986 : chillax end; output 04 end b : takes C, E, da : integer; Om : boolean array; J7 : boolean array returns nothing Bq, eS60a : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program J : main : u29a, M, T5, r : boolean array; while(835) or(0) - 5 - 0 - 7 : chillax end; do M(nPG(8) + true - 0 - 87 /= true or 95, - t9V + 5, 4 - 072 <= 6, 6 = 3); while not 6540 - 06400 : chillax end; while - 42 /= 9950 : chillax end; do yb(4050) end

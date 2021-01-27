@@ -1,0 +1,1 @@
+program G : main : Y, C : boolean; pop; when case not true or n and 61 = 66 : when case 59 = 8350 : when case 9 : chillax end; pop end otherwise : chillax end; while 918 : chillax end; let NV6 = 5 end otherwise : output "p5!a"; output ""; let Nta = 983 end; output ""; let H[0] = array - 2 - 7 end

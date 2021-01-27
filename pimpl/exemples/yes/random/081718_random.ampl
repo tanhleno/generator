@@ -1,0 +1,1 @@
+program ZY80a : main : W : boolean array; A0 : boolean array; k, jB : boolean; ifoaa : boolean array; output - (4) / (00) and 29200 . "\t" . 623 - 6 = 1920 . ""; let GrC = not 6 or 8 - 201 <= 8; let p = - 9220 - 90 = 9 end

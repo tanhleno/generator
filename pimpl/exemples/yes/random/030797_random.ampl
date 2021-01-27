@@ -1,0 +1,1 @@
+program N : a : takes z, l9 : integer array returns nothing r : boolean array; cy, a : integer; do m(- true and 61 - 29 - 8 /= 1 - 0); do C(- 6 - 51600) end u : takes K : boolean array; j : boolean returns nothing y_6 : integer; y, a0w0a : boolean array; FZ : boolean; C : boolean; K : boolean; chillax end main : w, Zb4, N, T : boolean array; pop end

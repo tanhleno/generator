@@ -1,0 +1,1 @@
+program R6 : L : takes C : boolean array returns boolean input h9[rB]; when case 2 : chillax end case 54 = 466 : let in0a = 1; pop end case 05 : chillax end otherwise : chillax end; do X(95 = 3) end V : takes L6, cHn, Pb, j, l : boolean array returns boolean chillax end main : chillax end

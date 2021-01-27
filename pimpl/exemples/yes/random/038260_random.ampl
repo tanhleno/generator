@@ -1,0 +1,1 @@
+program pn : P : takes j : boolean array; QB, H, x : integer array; O89, _, v, B : boolean; OM, f8, m4r0a : boolean array; zU90 : integer returns integer input p[- 59 and 3 + 43 - 50] end main : chillax end

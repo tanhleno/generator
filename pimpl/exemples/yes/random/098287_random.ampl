@@ -1,0 +1,1 @@
+program b : main : while - false rem gC[3460] - 51 rem J0 : pop 35; when case 2 = 7 : let jr = 62 end case 8 : pop end end; while - 3 and(60) and 77 + true and 4930 or 2300 - 77 = (5) : chillax end; while not 7 and 563 + 30 - 0 = 17 : pop end end

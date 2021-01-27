@@ -1,0 +1,1 @@
+program U : main : Pkd0, X, T : boolean; YT : boolean; S : boolean array; let q = array 4 * false rem OIE; while - true * false >= not 5 and 14900 : chillax end; when case 64 >= - 2 : chillax end case 9 /= 2 : output "" end otherwise : chillax end; input s01[2 - 5] end

@@ -1,0 +1,1 @@
+program Qb : fT0aa : takes m4, CRF : boolean; s, kG9aa, O5 : boolean array; U : boolean array; b : boolean array; O7m : boolean; G, K : integer array; M, Z2zaa : boolean returns integer output 2 end main : m, u, E88, O, O8Q : integer array; while - false : chillax end; let G3 = - true + 89 end

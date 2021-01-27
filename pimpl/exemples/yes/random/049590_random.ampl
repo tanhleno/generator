@@ -1,0 +1,1 @@
+program D4 : DJ3aa : takes mY : integer; as, C, w2, Dg : boolean array returns nothing b : integer; apb, O : boolean; chillax end main : output "<"; output - (5) . "M"; input I[- n3 - 0 - 7]; output 89 end

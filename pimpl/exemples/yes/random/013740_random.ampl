@@ -1,0 +1,1 @@
+program N4a : A7 : takes Q, G9, tMV : integer array; cu, ykJaa, D, G3J : integer returns nothing pop - 6 - 49; output 84 . "~\"" end main : Vh : integer array; R6i0, C1 : boolean array; e : boolean; gaW0, f : integer; v3 : boolean array; G : boolean; TSZa : boolean; chillax end

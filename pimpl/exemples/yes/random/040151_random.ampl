@@ -1,0 +1,1 @@
+program _ : G5 : takes p : boolean array; V6 : boolean array returns nothing V21, z110a, v : boolean; when case true or 9 : chillax end otherwise : let W = 309; let c910a = 0; pop end; do b(0 - 9 /= 03, 9) end T : takes m0 : integer array returns nothing chillax end main : when case(2 = 2) : let sS = array - 0 end end

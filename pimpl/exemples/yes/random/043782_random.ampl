@@ -1,0 +1,1 @@
+program D : l : takes p73 : boolean array returns nothing chillax end main : Q : integer array; _ : integer; when case false + 803 >= - 1650 * 9690 or 7 and 5 or 34 : chillax end otherwise : do b(9 = 58); pop; when case 6 : chillax end; do u2m(07) end; while false and 608 : chillax end; do uZ8(not 53 and 2 or 7000 - 4, 8 - 5 < 5); input S1[1] end

@@ -1,0 +1,1 @@
+program L : _Wl0 : takes Q, i, L : integer array returns nothing chillax end L : takes H, P, GR4, c5, n, x6 : integer array returns nothing pop end main : F : integer; f, O52 : boolean; do Ne60(- false * true + (92) + not 2 and 7 > P(3)) end

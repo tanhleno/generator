@@ -1,0 +1,1 @@
+program jx7 : main : qW : integer array; O : integer; when case - true / true + 3 < - (31500) + false and 0 + 99 - 60 : chillax end case false / false : do f(5); do g(21, 3); pop; pop; pop end case(2500) and 42 + 0 : while 19 : pop end end case - 3 <= 58 : pop end; let Q[false] = array - false; pop 6 - 1160 < 20 end

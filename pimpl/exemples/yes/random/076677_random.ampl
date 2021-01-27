@@ -1,0 +1,1 @@
+program Dq : main : z, W : integer; let x98aa = array(83 = 1); when case - true / 6 and 0 <= - false : do s(10700 = 15) end case - true and 12 >= 00300 - 8 : input x1 end case - 57 = 0 : chillax end otherwise : chillax end; output - 60 <= 8540 end

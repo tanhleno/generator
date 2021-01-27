@@ -1,0 +1,1 @@
+program F : m : takes m, XZY, m, QdO0 : integer returns nothing chillax end main : pop; do a(7 > - not 0); when case - true - 0 : output "" . "" end case 3 > 3 : output "0" end case 4240 = 036 : chillax end case 3 : chillax end otherwise : chillax end end

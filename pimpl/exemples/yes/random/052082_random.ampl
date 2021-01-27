@@ -1,0 +1,1 @@
+program y8 : i : takes O : integer; q04 : boolean array returns nothing let H3 = - 28 - 34 < 0; pop; while 7 : when case 4 : chillax end; pop end end iT : takes c, V : integer returns integer a, c610 : integer; pop 0 end main : qCHa, F : boolean; chillax end

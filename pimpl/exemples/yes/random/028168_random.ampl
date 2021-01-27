@@ -1,0 +1,1 @@
+program e060a : f7 : takes j7, Y : integer array; Z : boolean; K_2a : boolean; nxOa : integer array; qX1 : integer array returns nothing when case - true : input Yl8a[6]; do j71aa(49); let p9 = 8; pop end; let _ = array - 853; pop end main : do e26a(- false <= not(8)) end

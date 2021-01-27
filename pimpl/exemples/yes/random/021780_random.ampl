@@ -1,0 +1,1 @@
+program d1P : dK3aa : takes b4, Kft : boolean array returns integer when case - 4 + 04400 : pop; do AA4(5) end; input J[- 602]; input v9[883]; do V(8, 33); when case 92 : chillax end; input b; pop end k27 : takes aC, Q : boolean array returns integer array do M8E(- 99 /= 3, 5 = 5); while 7 : when case 5 : chillax end; pop end end main : chillax end

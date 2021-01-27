@@ -1,0 +1,1 @@
+program f : g : takes L4E, V : boolean array; b0Iaa, a010, r, a, h9, k : integer array; e, x310 : boolean returns nothing chillax end main : U, mEra : integer array; EQ : boolean array; output false rem 96 - 23 + 37 = (50) + 81 - 4760 end

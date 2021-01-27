@@ -1,0 +1,1 @@
+program O : n6 : takes c, u : boolean; D, jM : integer; K75 : boolean array returns integer array do v(- true = 3); do c(1460 - 61 < 2); input Mw3[4]; while 1 : chillax end; do fO9(8); output "" end main : input YU5aa[- 3010 * false rem false + true / false or 0]; input Y0r[false and 2 + true]; let NC = - 46 - 5 end

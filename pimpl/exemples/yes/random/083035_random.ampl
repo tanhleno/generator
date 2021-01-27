@@ -1,0 +1,1 @@
+program GH : main : owO0 : integer; do v(false / true * 5 and 6 or(5) /= (33) rem not 0 and 90 - false and 8); when case - false rem false /= - false : chillax end otherwise : let x[48] = 7; when case 9 : chillax end; let aUW0a = 6690 end; while rAW - 4 - 3 >= 7510 : while 785 : pop end; output ""; do s(1) end end

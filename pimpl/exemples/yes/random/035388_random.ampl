@@ -1,0 +1,1 @@
+program i : l1 : takes k : boolean; D480a : boolean; r6, M, y : integer returns nothing c : boolean array; X : integer array; qU : integer; do H(true and 24500 - 0 - 29100 > 06000) end main : chillax end

@@ -1,0 +1,1 @@
+program A2 : U : takes K : boolean array; JJ, y0 : integer array; B3 : integer array; N2Y : integer array returns nothing fj60 : integer; chillax end main : s2J : integer array; do A(false / (4) and not 5320 - (9) or(9) - 37 - 15 = - not not 636) end

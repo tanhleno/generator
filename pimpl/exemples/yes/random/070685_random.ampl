@@ -1,0 +1,1 @@
+program l5 : main : I_u, WM, b, a : integer array; while - b[4870] * (70) + EE50[9] + not 449 and 8 - 4 < - false rem nH or(0) : chillax end; do yd(- y99aa[3]); while not 89 and 320 : when case 2 : chillax end end; output "" end

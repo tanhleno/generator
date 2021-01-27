@@ -1,0 +1,1 @@
+program y39 : PA : takes l0, u, Q, nsg : boolean array returns integer array chillax end X : takes c7p0 : boolean returns nothing LyP, ad, b8, O : boolean; do g8P(4 - 29, 2 = 3) end main : C : boolean; do kU(- not(1) or false + 9 and 82 + 37 - 68 < (7), H6P0a[100] rem true - true) end

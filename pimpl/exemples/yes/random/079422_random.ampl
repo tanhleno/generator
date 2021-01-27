@@ -1,0 +1,1 @@
+program cDLa : main : C : boolean; S : boolean array; u4 : integer array; x : boolean; YlG, g25, m07aa : integer; q3, S73 : boolean; ly : boolean; input uN[- vTs[2] + true]; pop - 542 and 86 or 685 - 9 <= 87000 - 9 end

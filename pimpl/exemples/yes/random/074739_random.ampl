@@ -1,0 +1,1 @@
+program L : main : x2, f3 : boolean array; k, D9, z2 : integer; output true rem false and 60 = - not 017 and 721 - 9; when case i[5] + zSU or 7 > - not 4 and 5 + 35 - 73 : chillax end case - false : do _Ba(10) end end

@@ -1,0 +1,1 @@
+program e : j : takes A3, CQ60a : boolean returns boolean array G, DHXa : integer; let fK2[true] = array - false and 79 + 1 - 436; do c(91 - 41 = 5, 636 = 989); output "\"?" . "M" . "$7"; when case 4 : pop end otherwise : chillax end; pop; output "" end main : k, O9, S, h : integer array; chillax end

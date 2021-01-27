@@ -1,0 +1,1 @@
+program hrd0 : main : u, G : integer; nv5, d0, k : integer; when case Gs(47, 7) rem 7 / 9 and 81 > - (132) rem VJ and 7 : let o8t0[- 2 - 7] = array - 7 - 01900 end otherwise : chillax end; let Y7 = array(96) * (9) and 4 or false and 67 end

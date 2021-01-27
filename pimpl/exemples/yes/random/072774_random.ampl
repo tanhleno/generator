@@ -1,0 +1,1 @@
+program DHqaa : main : U32, D, v : integer array; Me, s : boolean array; do L(52 rem false - false or R and 7 or 29400 <= - true); output - go and 6230 - 73 - 6 . - 6 = 3 . "" . 060; let s[true and 1] = 679; let w9 = array 3; pop 9; when case 94 : chillax end case 27 : chillax end; do J(9) end

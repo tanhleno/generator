@@ -1,0 +1,1 @@
+program y : L : takes N, m, Tq4 : boolean returns integer chillax end main : while - true rem O2 + false rem 2 and 81300 - not 1 + 0 <= - 3000 rem not 0 : let y = 266; let F = 3 end; do u(- not M * _ and 0 > - true) end

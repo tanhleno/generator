@@ -1,0 +1,1 @@
+program U : n : takes d : integer array returns boolean array sPIaa, Q, L8, F4 : boolean array; Iu, ww, cd, D : boolean array; chillax end X : takes D : boolean returns integer pop; output 6 . 5 . ""; pop 20 end main : y, T, w6aa, dHN : boolean array; chillax end

@@ -1,0 +1,1 @@
+program M : P : takes A, Zs : boolean array; H, I340, b, DS, m : boolean; pv4, r, u : integer; q, iNt : boolean; r, Y, P6naa : integer array returns integer chillax end G : takes F : boolean returns integer array chillax end main : do II(- false rem S4[75] / (5) and 01 + 49 - 9 and 75 - 2, - 33 rem not 03 or true and 57) end

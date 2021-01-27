@@ -1,0 +1,1 @@
+program M : _ : takes lD, c, e8, TlX0, W : integer array; w, f : integer returns nothing while - true - 0 >= 99 : do w6H0(8); when case 3 : chillax end end; output 5 = 6; when case 4 = 337 : pop; pop end case 4 : chillax end otherwise : pop end; when case 70 : chillax end otherwise : chillax end; output "H"; output ""; pop end main : chillax end

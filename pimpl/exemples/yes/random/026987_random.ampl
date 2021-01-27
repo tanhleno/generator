@@ -1,0 +1,1 @@
+program s : A : takes B8O, v : integer; mK2 : integer returns nothing e5n : boolean array; We : integer array; chillax end main : x, EhM : integer array; input sdj[1 and(9) / true]; output "c" . "8" end

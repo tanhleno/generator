@@ -1,0 +1,1 @@
+program W : z0S : takes C : boolean array; gVm : integer array returns boolean I : integer array; let W = 115; output "\\1" . "" end main : q, p : boolean array; when case(45 = 5) or(5) >= - false rem true and 501 - TU and 227 - 3 - 5 : chillax end case not true + false : do a(4, 4, 57) end case not 8 : chillax end end

@@ -1,0 +1,1 @@
+program M : D : takes I, j0 : integer; Bz : boolean returns boolean do G(- true + 4570) end m : takes TE : integer array returns nothing Z : integer; do m(- 8 - 3, 46) end main : w1 : integer; L, z, g : boolean array; chillax end

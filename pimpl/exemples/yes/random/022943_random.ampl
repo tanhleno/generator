@@ -1,0 +1,1 @@
+program k : wm30 : takes vk60a, L : boolean returns boolean array sw, C, UwIaa : integer; pop end main : pop - (263) * fTEa and 43 - true and 14 + 21900 - 5 < (36) and 987; do Rh(3); let H[false or 9] = array - ar and 3 + 4; let E[- 34] = 4 = 4 end

@@ -1,0 +1,1 @@
+program c : m : takes _ : boolean returns integer when case - false and 67100 <= - 2 - 0240 : chillax end otherwise : do e63(4) end end main : v : boolean; d6, G : boolean array; output "\t1\""; pop true and 77 or 912 >= 131 end

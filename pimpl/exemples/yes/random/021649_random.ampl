@@ -1,0 +1,1 @@
+program x : q1 : takes k8W0a, c7k : boolean array returns integer _, vf : boolean; S6 : integer; chillax end main : while 6 rem UFP > - 8 or not 975 and 0 - 20 - 3 : chillax end; let K = - 7; while MM and 8 : chillax end; while 78600 - 9 >= 268 : pop; when case 6 : chillax end; pop end end

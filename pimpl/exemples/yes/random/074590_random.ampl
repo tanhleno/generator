@@ -1,0 +1,1 @@
+program wE1 : main : K, rU : boolean array; l4, F, _cM, V, l9Laa : integer; while - true * true * true and 82600 - false + (10000) and 22 + 9 - 9570 /= - D * false : output "" . "" . "]" . "5\\\""; do H(22, 1, 71); pop 9; while 09 : chillax end end; while - not true /= - 7 and 9 : chillax end end

@@ -1,0 +1,1 @@
+program fb0aa : main : t : boolean array; O5, R : boolean array; N, S0, M, Q9, u : integer; j41a : integer; y410a : integer; GQ50, BE : boolean; output "\\\n0a" . false and 6 + 21 - 2 = 9 . "1\\"; input p[- b4[849] / 8] end

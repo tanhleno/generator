@@ -1,0 +1,1 @@
+program x : GQ : takes ve : integer array; J0, B, co : boolean array returns boolean chillax end P : takes ZBu0a, R : integer array; y : boolean array returns nothing D, L : boolean array; pop; output "" . 51 . "" end main : output "2A" end

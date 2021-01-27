@@ -1,0 +1,1 @@
+program Z : main : Z : integer; X : integer array; j, XF, Q, lQkaa, a : boolean array; let po[false / false rem yIeaa and 30 or a3H rem false and 7 - 4 + 4 - 7580] = array - not not false - 787 rem(33); while not false : chillax end end

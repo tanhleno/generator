@@ -1,0 +1,1 @@
+program E9 : Cm : takes e : boolean returns integer t94, g : integer array; V : integer; M9, M75a : boolean; output "J1\"" end main : when case true rem true : chillax end case - 20 /= - false : pop; pop; do n(29); do f(3); pop end otherwise : pop 4 end end

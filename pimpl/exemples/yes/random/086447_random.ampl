@@ -1,0 +1,1 @@
+program l : main : hT : integer array; uc : boolean; while - false / (09) or true : pop; do dO(02); input iL[79] end; when case true rem false and 9560 + false : output "" . 4; when case 8 : pop end case 17 : chillax end otherwise : chillax end; pop; do jM6(477); pop end end

@@ -1,0 +1,1 @@
+program t : H1 : takes V : integer array returns nothing chillax end m : takes geZ, F0Fa : integer; ks : integer returns integer array V1d0a, iOd, AS : boolean; let r[- 8] = 768 = 011; output "#" . 419 end main : chillax end

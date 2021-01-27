@@ -1,0 +1,1 @@
+program i : main : input n[4 rem(6) - false * E and 466 + a93a]; when case(1) = (3) : when case 472 : pop end case 41 : pop end case 839 : chillax end end case - true and 427 > - 8 - 5 : chillax end case 63 - 81 <= 36700 : chillax end case 8 : while 5 : chillax end end otherwise : let r = 7650 end; output - 33 < 13; output 2 = 5 . 184 . 16 end

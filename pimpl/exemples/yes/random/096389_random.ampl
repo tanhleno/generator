@@ -1,0 +1,1 @@
+program o35 : main : when case - 55200 + true or true or 1 - 541 : pop 97800 = 36 end case - 3 rem false and 92 - VWW or 9 > false : do i(03, 18, 165); when case 2 : chillax end case 5 : chillax end; do e(23) end otherwise : pop; output "\\" . "n" end end

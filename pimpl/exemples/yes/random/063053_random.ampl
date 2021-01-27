@@ -1,0 +1,1 @@
+program y1 : Tk : takes N : integer returns integer array CrE : integer array; y : boolean; chillax end GH0 : takes E04a : boolean returns integer let V = 502 = 9690 end L98 : takes J7, Ha : boolean returns nothing y : integer array; W : boolean; P : boolean; chillax end main : chillax end

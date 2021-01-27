@@ -1,0 +1,1 @@
+program Ej9a : main : H : integer; when case - true or 7 rem(6) and 1 : chillax end case(9) : chillax end otherwise : while 64000 = 9 : while 947 : chillax end; pop end; while 2 : chillax end end; when case - Y rem true and 1 : chillax end case true and 8 + 5 : chillax end otherwise : when case 91 : pop end end end

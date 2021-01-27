@@ -1,0 +1,1 @@
+program V : I : takes Hs6 : integer array; H : integer; C76, F, eU9, VFl, hI0 : integer array; Y8naa : integer array returns boolean array chillax end main : input Q830[- true rem true rem true and 4 + not true rem true and 54]; output(328) and 828 > 1 . 6 . "" end

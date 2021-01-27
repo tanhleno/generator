@@ -1,0 +1,1 @@
+program g : BX : takes vI40a : integer array; p : integer array; R, Yz : boolean array; D780a, m7, O : integer array; b : integer returns nothing Rkc0, V : integer array; k, no : boolean; xt : boolean; W, E0 : boolean; while - 0 - 9 <= 62 : chillax end end main : while - true > 2 : chillax end end

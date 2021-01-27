@@ -1,0 +1,1 @@
+program m : main : WV : integer array; W, k7E0 : boolean; when case - n(72000) and(0470) * (8) and 0 or false rem not 6 - not 0 + 904 - 29 >= (86) * P and 162 : when case - 300 : chillax end otherwise : when case 5 : chillax end end; let V98 = 981 end otherwise : chillax end end

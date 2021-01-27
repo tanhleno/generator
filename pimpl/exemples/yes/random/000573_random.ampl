@@ -1,0 +1,1 @@
+program s : e : takes wr, b, iA, HmG0a, ic, Y53a, D : boolean; y, L14 : boolean array returns integer input I; pop; let i7 = array 5 end main : input B; do k(not true, Sb4 and 19 or 2 - 0 < - 2); input K610a[- not 7 - 35]; pop end

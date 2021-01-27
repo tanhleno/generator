@@ -1,0 +1,1 @@
+program l : J14a : takes b : integer; kX3, J : boolean returns boolean array chillax end main : Z : integer array; E, C : integer array; C, h, l, kT, e : boolean array; BbZa, w700 : integer array; when case true and 01100 rem 7 and 69 or(34) rem false and 7 <= - not(6040) and 05 : let L = 4 = 6; input D end end

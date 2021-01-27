@@ -1,0 +1,1 @@
+program c : main : k, W, AP5 : integer; g30a : boolean; Z : integer; i : boolean array; xH : integer array; while 3530 : chillax end; do f(true and(51700) < - true and 98, - 66 and 6 or 0, - 6); pop - 6 - 60000 /= 03; do s68a(0 - 0 < 53) end

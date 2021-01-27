@@ -1,0 +1,1 @@
+program f8O : x70 : takes G, V : boolean returns integer array input l; input U3o0; while 2030 = 5 : pop; pop end end main : let Z = array _ rem true; while(70) * T and 291 : output 8 . ">\t!" . ""; input rn[00]; do e(87700) end end

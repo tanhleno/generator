@@ -1,0 +1,1 @@
+program r : n : takes Yu : boolean; R : boolean array; SU : integer array; ud, POx : boolean; k : boolean; z, K : boolean returns integer output - 4 - 4 end U2 : takes E, B, S : integer returns boolean b : boolean; chillax end m2 : takes o : integer returns nothing Y, t4c, b : integer array; pop 05 end main : chillax end

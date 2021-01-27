@@ -1,0 +1,1 @@
+program _3 : s : takes k00aa, p, z, O : integer returns integer chillax end Y : takes Z, t, Z, o8, gN : boolean array returns boolean oQ : boolean array; while - 08 - 7 /= 9 : chillax end; when case 38800 = 805 : chillax end case 9 : pop end case 32 : chillax end end main : hWO, t8 : boolean; chillax end

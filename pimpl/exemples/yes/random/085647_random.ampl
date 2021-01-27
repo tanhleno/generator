@@ -1,0 +1,1 @@
+program b96aa : main : e : integer array; g, Qx, h, n, l2I : integer array; pop; do z(- 5 * false < (49) and 2 or 94 - 4, false and 2 > 261 - 33, - 240, 4450, 7430); while - (77) and 0 : chillax end; input U[9] end

@@ -1,0 +1,1 @@
+program d_ : k5 : takes Gp1a : integer array returns nothing do r(- not 54 and 47 /= - 31 - 8, - 2, 3 = 148) end F : takes I : integer array returns boolean array input r; let qKKa = array 172 end u : takes a : integer returns nothing E : integer; v0laa, A : boolean; do v(5, 51, 3) end main : OcW0 : boolean; chillax end

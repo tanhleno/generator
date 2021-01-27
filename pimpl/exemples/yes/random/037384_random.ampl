@@ -1,0 +1,1 @@
+program u : X : takes HA : boolean; M : integer returns nothing u : boolean; e7_, i1 : boolean array; pop end Zc1 : takes MU : boolean array; r0f, q : boolean array returns integer array i : integer; let _[4 - 33] = array - 1880 end main : pop - (6) > (4) end

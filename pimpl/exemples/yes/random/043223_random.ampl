@@ -1,0 +1,1 @@
+program y : Jd : takes G : boolean array returns integer L : integer; t2, k78aa, N4Wa, h9 : integer array; fT, Za3a : boolean array; t : boolean; z : boolean; t : boolean; let HSQ = array - v end main : J7, u : boolean array; B2, c : boolean; chillax end

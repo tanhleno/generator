@@ -1,0 +1,1 @@
+program i7 : q : takes o : boolean array; Dr, w : integer returns nothing B : integer; let b7[- true and 481 - 2] = array - not 45 and 5 end main : r : boolean array; output ",2!a"; when case V2(3) and 7 - (4080) and 822 or 7 : chillax end case T <= 0 : chillax end case 7 : chillax end otherwise : input E end end

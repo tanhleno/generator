@@ -1,0 +1,1 @@
+program RR : Jg : takes t, z : boolean array; Z, F, g : boolean array; L2n : integer returns boolean array q, _, R : boolean; c8 : integer array; G : boolean; output "9q\""; output "" . 304 end main : when case - 70 : chillax end otherwise : pop 60; let d_50a = 1; do u(6); do Y(6) end end

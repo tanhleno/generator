@@ -1,0 +1,1 @@
+program nt : T8 : takes MZo0a : boolean returns nothing j, T9, M, J : integer; input D end main : sH90a : integer; while 55 and not C * U3 + I <= not not 6 rem false - false and 6 : chillax end; do T(- (9) - 72 and 1500 > - not 23); pop end

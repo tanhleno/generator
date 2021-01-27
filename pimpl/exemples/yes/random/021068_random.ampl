@@ -1,0 +1,1 @@
+program g : m9 : takes i, IG : boolean array returns boolean MG, N, Jd0a, Q, fce : boolean array; chillax end main : I : integer; R1, p, p : integer; while - h + (4) or X7ga and 5 : output "\t"; while 46 : input Xb; pop end end end

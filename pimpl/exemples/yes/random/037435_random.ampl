@@ -1,0 +1,1 @@
+program _ : h : takes J : boolean array; E85aa, y, K, S, _7Oa, p, e : boolean; EB, R98 : boolean array; R6, a98, G6 : integer array; J4, G : integer array; M : integer; k4T : boolean; S : boolean returns boolean m4 : boolean; chillax end main : chillax end

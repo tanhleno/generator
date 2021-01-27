@@ -1,0 +1,1 @@
+program o : a5 : takes i : boolean returns nothing Q93, k08, J98, Xo50, b : integer array; while not 5 >= 2 - 0 : chillax end end main : pop - false + jx10a - 04 - 6; do W(f(409) and j and 8 /= (7) - 70900 - 3) end

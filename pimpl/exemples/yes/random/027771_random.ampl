@@ -1,0 +1,1 @@
+program G : SJJaa : takes A, QB80a : integer array; w, k : boolean returns boolean array chillax end main : do L(- 5 rem(4) - (834) - not 1 + 60, not(1) rem 10 and 068, false and 9, - 0 - 5); pop - false and 9 or 0 - 63 end

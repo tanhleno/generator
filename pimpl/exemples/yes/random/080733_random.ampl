@@ -1,0 +1,1 @@
+program Ab : main : A : boolean array; do J7sa(not z or(50) and true - g2 and 7 - 45 - 5 = not U1 rem TP and 593, false or not 4 and 5); when case true and(09100) /= false - 2 - 0 : let KiU0[4] = array 41 end case - true and 62 > 24 : chillax end case 16700 - 2 <= 5 : chillax end; let i[- O - 1] = array - 51 and 3 - 5 end

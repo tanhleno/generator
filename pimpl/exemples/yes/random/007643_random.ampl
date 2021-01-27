@@ -1,0 +1,1 @@
+program p6m : p : takes rav, KG2, R, aV : integer array returns integer when case - (156) and 92 or 3 - 0300 /= 4 - 074 : when case 3 : pop end end; input zV; input F[8] end Wi : takes s : boolean; B9 : boolean; d : boolean array; If : integer array; U2 : integer array returns nothing pop 665; while 3 : while 4 : chillax end; pop end; pop 5 end main : chillax end

@@ -1,0 +1,1 @@
+program P3 : T : takes C, T : integer array; HI, F : boolean returns integer let y = array - (5) end J0 : takes t : boolean array; T, f : boolean returns nothing Gp80 : boolean array; input SG; pop; let e[8] = 94800; when case 17300 : chillax end; input N end main : chillax end

@@ -1,0 +1,1 @@
+program bHSaa : _ : takes d5r, g : boolean; y7s : boolean array returns boolean xC : integer array; do a(not 9 and 1); when case - 70 >= 6490 : pop end otherwise : when case 3 : chillax end end end main : while - Z > 84 : chillax end end

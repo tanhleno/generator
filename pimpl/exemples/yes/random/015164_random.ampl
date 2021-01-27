@@ -1,0 +1,1 @@
+program vP : t : takes Q8, p, t9 : integer array returns nothing chillax end N : takes AJU : boolean; y, Io : boolean returns nothing cWf, Ff0a : integer; chillax end H : takes eh : boolean array; x6U, Z, y, n, VWv : boolean returns boolean array chillax end main : sp : boolean array; input x6[- z / (25) and v4l0a and 4760 + true] end

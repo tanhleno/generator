@@ -1,0 +1,1 @@
+program n1 : N : takes K72, QZQaa : boolean returns nothing i, O2k0a, w, Sdsa, R : integer; output 04 - 1 <= 0 . "\t\n"; output "S1\"a" . 2 . "" . "" end main : z, Q, j1 : integer array; Dw10a : integer array; L : boolean array; output - not 4380 and(57800) and 8 < - 852 . false and 026; pop end

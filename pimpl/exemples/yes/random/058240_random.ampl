@@ -1,0 +1,1 @@
+program a : O : takes l : integer array returns boolean e, z : boolean; K, W : boolean array; when case - true and 2 or 4 : do qgj(1720, 02); input v end case 643 - 8 >= 745 : when case 61 : chillax end end case 4 = 208 : chillax end otherwise : let WMla = 6 end; pop; let W = array 84 end main : let E = array - b - not not 4 - (6) - 92400 - 475 end

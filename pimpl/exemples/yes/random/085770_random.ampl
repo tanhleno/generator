@@ -1,0 +1,1 @@
+program o17aa : main : p : integer array; X, CT, K : boolean; Rh0 : integer; L : boolean array; XZ50 : integer array; when case - 7 rem false * 83 and 85 - (8) : chillax end otherwise : chillax end; pop; output 8 - 01900 = 001 end

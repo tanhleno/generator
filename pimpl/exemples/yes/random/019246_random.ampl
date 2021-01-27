@@ -1,0 +1,1 @@
+program yh9aa : X : takes f, k : boolean array; _, kq : boolean array returns boolean array V : boolean array; chillax end t : takes M24, R, D : boolean array returns boolean array o87, H : integer; s : integer array; Lz90a, u : boolean; chillax end main : pop end

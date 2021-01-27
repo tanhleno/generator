@@ -1,0 +1,1 @@
+program M : f590a : takes b : boolean array returns integer e : boolean array; let A[- false and 9] = array - not 3 and 5 + 1 end M : takes X2 : boolean returns nothing Wb, rrJ, i, u6 : boolean array; chillax end main : E, K, sI, H73a, L, d4 : integer array; f, Dg : boolean array; chillax end

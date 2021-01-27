@@ -1,0 +1,1 @@
+program j : M : takes h, O, ai : integer returns integer chillax end main : b, dZ2aa : integer array; C, D : integer array; R, dk, Z, v : boolean array; do nw(not 7 and 4 / false and 0); when case(90) or 98 and 17900 or 30 - 339 /= (58300) : chillax end otherwise : input q4L0a end; pop - 1 - 56 > 536; let a0w[1] = 32 end

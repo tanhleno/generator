@@ -1,0 +1,1 @@
+program W : k : takes AG, BC : integer array; Rn : boolean array; ba2a, BThaa : integer; c : integer array; j, P : integer; uq6 : integer returns nothing w52aa : boolean array; pop end main : while - false : let C = 605; do fKu(9 = 79200) end end

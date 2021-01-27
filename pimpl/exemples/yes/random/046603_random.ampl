@@ -1,0 +1,1 @@
+program Z0 : X : takes vJFaa : boolean returns integer array HH, a88 : boolean array; A : boolean; pop - 72 = 6 end main : j : boolean array; K2l0, O : boolean array; output "" . true <= - 06; pop; pop end

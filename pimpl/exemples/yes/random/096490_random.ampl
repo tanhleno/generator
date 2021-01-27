@@ -1,0 +1,1 @@
+program j : main : when case - 56 and 0 rem not 55900 and 25 + 81 + true >= - not true * (5) + (946) : chillax end case false and(92000) or false and 8 + 9 /= 76200 or 98200 - 9 : chillax end case(1) /= - 3 : chillax end otherwise : pop; when case 59 : chillax end end; input W; output - 76; output "" . 2 . "" end

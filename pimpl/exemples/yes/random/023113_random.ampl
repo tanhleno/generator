@@ -1,0 +1,1 @@
+program Je10 : L : takes V, V8s : boolean returns boolean chillax end N : takes H, wf : integer array; y680, a, I, XA : integer array; j4n0a, V, uq : boolean array; u, Y0n : boolean; Za : boolean array; b : boolean returns nothing u : integer array; output "[30"; pop 7; input V[6] end main : chillax end

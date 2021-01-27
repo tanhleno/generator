@@ -1,0 +1,1 @@
+program F : sHsa : takes ZRs, d : integer returns boolean array q : boolean; chillax end Qs20a : takes X7, pJ : boolean array; P : integer returns integer array c : boolean array; S6 : integer; S, l4xa : boolean; w : boolean; Z : boolean; input U[- 1]; input hR[5]; output ""; when case 54 : chillax end end main : a, B : integer array; chillax end

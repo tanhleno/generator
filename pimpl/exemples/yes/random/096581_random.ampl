@@ -1,0 +1,1 @@
+program A : main : when case - true - true - not 2 : while 8 < 58900 : chillax end; input b; pop 62; do ce6aa(54); let Z430 = 2 end case true / false and 61 - 913 and 45 + 8 - 59300 /= - true + 7740 : chillax end end

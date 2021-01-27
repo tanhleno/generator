@@ -1,0 +1,1 @@
+program v9 : A : takes x, se : boolean; f7na : boolean array; l, T6daa : boolean; P2m : integer returns integer array output 2120; pop; while 7 = 6 : let J7 = 5; pop end; input TU6[123] end main : U : integer; chillax end

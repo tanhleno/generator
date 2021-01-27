@@ -1,0 +1,1 @@
+program _ : nY : takes q, X : integer returns nothing WIy : boolean array; chillax end p27 : takes E : boolean returns nothing input c[4 - 43]; output "!" . 651 . "\t"; while 7 : pop end end main : pB, z940, FLQ0, Z_, X : integer; O : boolean array; let Q[- false rem true * (0)] = array - false end

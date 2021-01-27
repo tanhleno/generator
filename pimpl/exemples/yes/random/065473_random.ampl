@@ -1,0 +1,1 @@
+program F : c : takes ZW0 : integer returns nothing when case - r and 32 = 65000 - 8580 : chillax end case 9 : while 36 : chillax end end case 9 : when case 449 : chillax end end case 4 : chillax end case 8 : chillax end; input J end L3 : takes n : integer; K, r : boolean array returns integer output "R6" . "" end main : chillax end

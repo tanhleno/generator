@@ -1,0 +1,1 @@
+program A : H : takes N, J, Tm, a : boolean array; I130 : boolean returns nothing R0paa, X10, D8 : integer; v1 : boolean array; let x[- false] = array - 1 or 3 - 6 end main : y, _ : boolean; input W end

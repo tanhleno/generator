@@ -1,0 +1,1 @@
+program _ : S43aa : takes wz : integer; D, eVx0a : integer returns nothing chillax end Id : takes p0 : integer returns integer array j5 : integer; pop 0730 = 11; output 3 . 5 . "6"; output "" end main : chillax end

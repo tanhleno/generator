@@ -1,0 +1,1 @@
+program q : l8 : takes l, W660a : integer array; XO9a : boolean array returns nothing chillax end g : takes P : boolean; R2, zO : integer; S : boolean; Iz : boolean array returns nothing SU : integer; MU, Em, X : integer array; pop end c : takes P, H : boolean array returns integer let Y2M = 5; do W(946, 13800); while 609 : chillax end end main : chillax end

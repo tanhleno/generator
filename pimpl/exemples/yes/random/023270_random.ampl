@@ -1,0 +1,1 @@
+program Nkc : Y2 : takes xyk0a, z : boolean returns boolean r91 : integer; chillax end k1 : takes E : boolean array returns boolean w, l41 : integer array; while 00 <= 506 : let J9 = 7 end; do W88(325, 4, 969) end main : while(97 = 237) and false : input l[- 8 - 3]; while 75 : pop end; output 9 . "\\y"; do R(15) end end

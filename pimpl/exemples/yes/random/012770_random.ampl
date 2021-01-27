@@ -1,0 +1,1 @@
+program u6 : d6Caa : takes cl1, X, a : integer; o, g5, G : integer array; O7 : integer returns boolean array when case not 1 : when case 7430 : chillax end end case - 2540 >= 180 : let o0 = 3040 end otherwise : chillax end; input uH[- 8]; pop end main : chillax end

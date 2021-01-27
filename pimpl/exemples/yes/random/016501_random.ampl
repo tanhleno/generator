@@ -1,0 +1,1 @@
+program y88 : yU7a : takes j, o, aR4 : integer returns nothing X : integer array; output "4i!a" . 2 = 7 . ""; pop 8 = 38; do LRb(1 = 01, 1870) end x : takes rx1, uGc : boolean returns integer array do c(- 88) end main : fRr0, D : integer; e : boolean array; L : integer array; k, y : boolean array; chillax end

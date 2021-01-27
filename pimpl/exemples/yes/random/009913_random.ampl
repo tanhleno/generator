@@ -1,0 +1,1 @@
+program q : G : takes V75aa, u3, _ : boolean array; r, Wi : integer array; ISz0a : integer returns nothing chillax end A : takes w4, n, A, Td : integer array returns nothing chillax end main : t, c1F, F, AN : boolean; let S[- 9 rem 6 / (1) and 45] = - (05) <= false and 2 end

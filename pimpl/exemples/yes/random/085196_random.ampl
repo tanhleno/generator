@@ -1,0 +1,1 @@
+program I : main : XS8 : integer; when case false rem R1(29) < false : chillax end otherwise : chillax end; let q[(62300) / (3) or y62] = array true or 2; output 41; let XVg = 1; when case 69 : pop; pop end case 17 : chillax end end

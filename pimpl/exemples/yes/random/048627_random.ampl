@@ -1,0 +1,1 @@
+program Ly1 : o03 : takes C4v : boolean returns nothing y : integer; Ty, o9 : integer array; D, t92, W : boolean array; chillax end main : while(2 = 6450) * not z rem false and 432 >= 05 * dp and 4 : when case 2 - 0 : input I; do KH(554); pop end case 4 = 3 : chillax end case 61 : chillax end otherwise : chillax end; when case 4900 = 949 : chillax end case 1 : chillax end end end

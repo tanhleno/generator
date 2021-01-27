@@ -1,0 +1,1 @@
+program l5 : y : takes ol80 : integer array returns boolean C : integer; s : integer; pop; when case 60 - 757 < 1 : when case 571 : chillax end; do Jk5(7) end case 23 = 7 : chillax end case 329 : pop end case 425 : chillax end end main : dt50a : boolean; chillax end

@@ -1,0 +1,1 @@
+program JN : main : when case not 25 * t(3) <= - true and true and 62 + not 67 and 07 - 7 - 6 : when case 2 > 98 : chillax end; input I[960]; output 29 . "4" end otherwise : while 4 : chillax end end end

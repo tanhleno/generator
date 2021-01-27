@@ -1,0 +1,1 @@
+program v : main : j : boolean; output "7" . false and 31 . - 0 - 315; output ""; while 8 and 637 or 208 - 20 : while 10 : pop end; input d; when case 449 : chillax end; pop end; output "\t" . 87 end

@@ -1,0 +1,1 @@
+program A : WZ : takes o260a, o : integer; u, p0, YJJ : boolean array; v : boolean array returns nothing chillax end main : when case 1 + (579) and true and 11 + not 1 and 439 : chillax end case - not true : while 47600 = 5 : chillax end; output ">t0" . "" end case - (02) and 13 : output 7 . "T\n!"; input kc3 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program F : m8 : takes o, kJ, dz : integer; q9, L, x74aa, sc7a : integer; bjQa, k, Ay, I, O8v : boolean array returns integer GHMaa, o : integer array; QNFaa : integer array; do bv(true >= - 487 - 2, 9 - 839 = 3, 356) end main : U59aa, x, g : integer array; v : boolean; pop; output "p9" . "2\t!" . 6 = 05300 end

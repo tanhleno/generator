@@ -1,0 +1,1 @@
+program u31 : ND : takes w99aa : boolean array returns nothing i : boolean array; q1x0a : integer array; let R1L = array - not 1 and 09 + 62 - 16 end g : takes b, VU8 : integer array returns nothing chillax end main : chillax end

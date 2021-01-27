@@ -1,0 +1,1 @@
+program Rk2a : main : do T(not 74 or Z(551) rem(3610) and 235 or true and 020 + 61 - 3, - true /= - not 75 - 8 - 7, - true or 5 < 1); when case - 916 - true : when case 212 = 31 : do a(4); pop end case 9 : chillax end; do G(80, 9) end otherwise : when case 54800 : chillax end otherwise : chillax end end; output - 9 - 97 = 21; let G = 2; let f6 = array 8 end

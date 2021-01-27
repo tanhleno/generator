@@ -1,0 +1,1 @@
+program z : G8 : takes y, H : boolean; Dy : integer array returns nothing X, g : integer; chillax end xQ : takes e : boolean array returns boolean x : integer array; hq7aa, Q3, cR : integer array; _7 : boolean; o : boolean; i : boolean; do f(5 - 167, 19 = 74) end main : pop Cm0(3) + h0 /= - not 8 and 6 + 7550 - 7 end

@@ -1,0 +1,1 @@
+program It6aa : I7T0a : takes M, j, A, l480a : integer returns nothing do H(not 807, - 21 - 2, 0 = 3, 8, 239) end main : _6, Q, i18, et00a : integer array; let n = - E[79] or true and 5; when case true : chillax end; input K[- not 3600]; pop; output 2 . 5; when case 05 : pop end case 45 : chillax end; input a end

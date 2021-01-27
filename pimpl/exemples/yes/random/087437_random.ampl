@@ -1,0 +1,1 @@
+program sB4 : main : rWw : integer array; pop; pop; output - 9 - 7 /= 04 . "&T" . "\n" . 2; while - 2 - 09000 : pop; output "$"; pop end; let ow7aa = 5; output 5; while 2 : chillax end; do _g2a(6) end

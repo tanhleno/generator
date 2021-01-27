@@ -1,0 +1,1 @@
+program H : R : takes tU, CC50a : integer array; S : boolean returns integer array ah80, qqo0a, r : boolean array; chillax end n : takes o, d, V : boolean; r : integer array returns nothing L9 : boolean array; chillax end main : C0, e : integer; X, h, S9, Xc : integer array; R0 : integer; N : integer array; chillax end

@@ -1,0 +1,1 @@
+program s : z09 : takes nP, si, g1Za : boolean array returns boolean array l, v1U, B19a, ab : boolean array; output 8130 - 6 /= 550 . 46 . "R;0a" . "" end k3 : takes o4, D, y : boolean returns nothing RnR0a : boolean array; let i74 = array - 96; output "" end main : M, c : integer; H05 : integer; chillax end

@@ -1,0 +1,1 @@
+program I : e9 : takes K, z7 : integer; D : boolean returns boolean array E5 : integer array; chillax end P : takes j, gh : boolean returns nothing t : integer array; when case 64600 - 8 : chillax end end main : pop true - (4) and 8; do YA(- 0 <= true + 41, 7, 7 - 02); let YMYaa = - 60 end

@@ -1,0 +1,1 @@
+program U : S : takes n, N, pc60 : integer; A : boolean array returns integer K4Ma, Np2 : integer; chillax end dj : takes Ws : boolean returns nothing when case - 07400 - 58000 : chillax end case 0 : let if = 6 end case 9 : chillax end case 2 : chillax end otherwise : chillax end end main : k, vdU, i_, Z : integer; chillax end

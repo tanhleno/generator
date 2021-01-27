@@ -1,0 +1,1 @@
+program h80 : g : takes u : integer array returns nothing KR, Sc : integer; L, mM_, n : integer; output 95 - 833 /= 9860 . "6" . "Y\""; output 4 . "3O!a" . "cN"; do v(68) end main : when case - 36 or not not 0 * true or not 7 and 8 + 6 - 99000 : chillax end case false : do i4(11, 55, 3) end end

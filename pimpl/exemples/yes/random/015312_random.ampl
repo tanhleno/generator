@@ -1,0 +1,1 @@
+program V : lsh : takes I, iL3, l : integer array returns nothing W6l0a, MZM0, Se : boolean array; Hw, b : integer; chillax end D : takes i : integer; F : boolean array returns integer while - 11 - 8 /= 6 : chillax end; do U(00 = 0, 7, 1) end main : l : integer array; while 36800 rem 7 * false or(0) * A22 - 2 and 392 or 34 - 1 : while - 42 - 76 : chillax end; let R = 86 end end

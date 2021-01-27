@@ -1,0 +1,1 @@
+program W : c : takes S1 : boolean; mZ, OO, v, q : integer; b3 : boolean array returns integer array RD : boolean array; H : integer; B6, d8 : integer; chillax end main : j, I, LS50, S, Z4pa, k, _0 : integer array; when case - true : output "\\"; let VE[2] = 5; output "p" end case - not true - 4 and 6 <= - 67 and 8 or 7940 : chillax end otherwise : output "?/"; input W[6] end end

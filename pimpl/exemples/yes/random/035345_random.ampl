@@ -1,0 +1,1 @@
+program y : w : takes Y : boolean; T : boolean; c9, E, U, x8 : integer array; c6i, H, ey, zD, h : integer array; c_k0 : integer array returns boolean array while - (62400) <= - 4 - 1 : let Of[57] = 7 end end main : input j[- not 2 and not true rem w]; output "" . "\\d" . 2 = 1 . 384 . 1; when case - true and 7 or 092 - 77 : chillax end end

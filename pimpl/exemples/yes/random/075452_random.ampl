@@ -1,0 +1,1 @@
+program Be : main : V9, V : boolean array; let B = array 97 rem false; when case(539) : chillax end; let b[3960 or 65900] = 49800 - 88100 < 1; when case 03 : chillax end; output "\\" . "" . "%~0a"; let o46a[71] = 17 end

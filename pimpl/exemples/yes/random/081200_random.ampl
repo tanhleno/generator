@@ -1,0 +1,1 @@
+program E38 : main : B9m0 : boolean array; Y, f : boolean; ZJ : boolean array; do KC(- 4250 - false * H27 and 208 < false * 19 and 0, - false * 8 and 49 > not 6); do _7(kTca(3) or not 11 and 5 >= - N); output "9z0a" end

@@ -1,0 +1,1 @@
+program MXp : X : takes T, Z0, Jd : boolean array returns integer chillax end a53 : takes i86, OR : integer array; t : boolean array returns boolean c : integer; while 82 : chillax end end v3 : takes r, npp0, b, K07aa, QP : integer returns nothing LT, g, f52 : boolean array; T, j : boolean; chillax end main : X : boolean; chillax end

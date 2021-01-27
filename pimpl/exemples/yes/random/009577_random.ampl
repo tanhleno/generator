@@ -1,0 +1,1 @@
+program r46 : F30 : takes re, h, uc : boolean array; l, uv, k, W : boolean returns nothing chillax end main : DxL0, M4M, j5, nf : integer; L, f : boolean; when case not false + 0 + i or 57 - 99 : pop 276; pop end; pop - true and 5 end

@@ -1,0 +1,1 @@
+program I : bb4 : takes u1maa : boolean array; Dd10, e : integer; W2B : boolean returns integer let p[- true or 9 - 8] = - 0 /= 612 end WR80 : takes K : boolean array returns nothing input J1[- 7]; when case 2 = 80 : chillax end; output "\t" . "" end main : a, i5c, s, Dy70a : integer array; chillax end

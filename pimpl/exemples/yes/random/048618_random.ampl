@@ -1,0 +1,1 @@
+program o : l : takes _9S : boolean returns nothing e5f0a : integer; k1, F : boolean; C, S : integer; do a(not 5 and 7) end U : takes t, H0p0 : boolean; l1, U160a, v, jRza, S : integer array; A1J0 : integer; G8P, D : boolean returns nothing output 2740 end main : Ep30, J : integer; let W = - D610a[2] * 44000 and 3; do X06(- false - 1 and 02000); pop end

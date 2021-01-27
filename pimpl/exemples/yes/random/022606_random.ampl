@@ -1,0 +1,1 @@
+program t : i : takes d, g : boolean array returns nothing TyR0a : integer array; input M250a[not 5 and 21 + 5]; do NDg0(9 - 3, 7, 697, 9) end Q : takes G : integer array returns nothing chillax end C : takes Z, q : integer array; LE4 : integer returns integer F, nqs : boolean array; O, c4 : boolean; S : boolean; J6Ca : boolean; chillax end main : chillax end

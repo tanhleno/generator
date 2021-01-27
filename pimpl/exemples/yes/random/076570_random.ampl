@@ -1,0 +1,1 @@
+program H6 : main : z, l : integer; UV : integer array; output t[7] * not 45 and 9 + 652 /= - 70 or 8 - 9 . - false or 27800 . "&" . "T\n" . "Q" . 28 . "\t10"; while - not true and(4) - true + 21200 - 6 : output "" end end

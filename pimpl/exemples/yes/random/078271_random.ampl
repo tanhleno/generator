@@ -1,0 +1,1 @@
+program O : main : H : boolean; do f(- not b[58] rem false and Vb0aa and 6440 or hvQ(5840) / 0 and 462 + (259) or 2 - 8 <= false and true and 0, false); while - false <= - N1 or 583 - 0 : chillax end end

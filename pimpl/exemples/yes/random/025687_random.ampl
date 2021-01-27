@@ -1,0 +1,1 @@
+program Q : w : takes vMt, U8 : integer; H9, a8 : boolean returns nothing while - false and 742 : chillax end; let f = array - 6 - 59800; let E = 8 end main : l : integer; A, f : integer array; w, r930a : boolean; F8, GP6 : integer; output - true >= (76) or 988 . - (94) and 0 <= - 98300 - 74 end

@@ -1,0 +1,1 @@
+program y5 : S : takes f, j, x1c : integer array; V : integer; O : boolean returns nothing bU3, y : boolean; G : boolean; W9, mK, J12aa : integer; chillax end main : i : boolean array; do L2((2 = 18) / not false); while - 989 < not 7 : chillax end end

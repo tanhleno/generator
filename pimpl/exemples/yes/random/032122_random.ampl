@@ -1,0 +1,1 @@
+program J10 : Aq : takes zc1a, mG : integer returns integer c8 : integer array; chillax end main : let OV3a[true or 323 and(63)] = array true + (42600) / 6340; output 09 and 8 + 3 . "1" . 1; while - cI6 > - 38 : chillax end; input Me end

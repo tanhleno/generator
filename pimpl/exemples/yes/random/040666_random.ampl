@@ -1,0 +1,1 @@
+program C : ZV : takes v_6a : boolean array; wPEa : integer; Xi : integer; z, q, X, W : boolean returns integer L, N : integer; P, Yb, j79 : boolean array; chillax end N : takes gU : integer array; kac0a, l : integer array returns integer v1, G : integer; Q : boolean array; u, L : boolean; pop 1 = 268 end main : op, mZ : boolean; chillax end

@@ -1,0 +1,1 @@
+program s : V : takes Tt30, H0, p : integer array; a : integer; vkS0a : boolean; j : boolean array returns nothing pm : integer; N : boolean; C3 : integer; MH6, T : boolean; chillax end g : takes X, r, ix : integer returns integer output 61 end main : chillax end

@@ -1,0 +1,1 @@
+program u : W : takes T, _3 : integer array returns boolean array W, V, x8, T : integer array; when case - false + 1610 - 6 : while 5 : chillax end end case 72 : pop end case 0 = 9 : chillax end case 0000 : pop end case 6 : chillax end end main : chillax end

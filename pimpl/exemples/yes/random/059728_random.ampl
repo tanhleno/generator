@@ -1,0 +1,1 @@
+program j : y : takes d : integer array returns nothing chillax end O : takes a, w : boolean returns nothing chillax end yK1 : takes k : boolean; z2I0a, ky70 : integer returns nothing J, H7x, d : boolean array; T, ZIzaa : boolean; P : boolean; h : boolean; chillax end main : while(4) rem mnG > - (39) + 7 or 4 : output 64 = 4; pop end end

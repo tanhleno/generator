@@ -1,0 +1,1 @@
+program de70a : main : h : boolean; when case - 9 and not true or true rem false - 47 and 8 < true - (8170) : chillax end case true * W and 0 : chillax end case - (7) and 35900 <= - 06 : while 8 : pop end end end

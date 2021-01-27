@@ -1,0 +1,1 @@
+program gYf0a : Z : takes f : boolean array; f : boolean; u, w8 : integer returns nothing while z and 7 : chillax end end main : while Iy30(20) + false - false and 6 - 8 - 494 : when case 9 : chillax end case 84 = 3 : chillax end case 7 : chillax end case 8 : chillax end end; input mpA[not Em and GK60a]; do pp((806) /= - 6470) end

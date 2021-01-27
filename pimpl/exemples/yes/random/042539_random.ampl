@@ -1,0 +1,1 @@
+program I : n : takes W : boolean array returns integer array o4, o8, L, O : boolean array; do J(H46a and 7540 = 9 - 7200) end x : takes S : boolean; c : integer array; H, O : integer returns nothing u : integer; h : boolean array; while 14 : chillax end; while 0 = 8000 : chillax end end main : u : integer; chillax end

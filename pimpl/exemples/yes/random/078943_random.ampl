@@ -1,0 +1,1 @@
+program _ : main : s3 : boolean; v, u : boolean array; pop H4c[3] rem false + false and 8 - 3 - 9 = h1; do u(- 21 rem true >= (0) and 71900); input bV[(8) + 8]; pop 9; while 5 = 4 : chillax end; input Dg[73]; input w; do w(96); pop end

@@ -1,0 +1,1 @@
+program iKq0a : J : takes B : integer returns integer array input wi end e : takes v : integer returns integer array pop 55 = 3; when case 9 : input Js end; while 7 : pop end; do d2(394); when case 49 : chillax end; pop end main : d, R6 : boolean; l, w, k, K, O : integer; while - not 9 rem not not 91 - g[7] * (7) /= - n[042] : chillax end end

@@ -1,0 +1,1 @@
+program O : vF : takes u1s0a, O : integer array returns nothing chillax end X : takes Q8n0a, c : integer returns integer array Z, t : boolean array; HRU : boolean array; chillax end main : g1 : boolean; chillax end

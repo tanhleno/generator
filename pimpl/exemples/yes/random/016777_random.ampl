@@ -1,0 +1,1 @@
+program z : o5 : takes SQfa, k2 : boolean; DR20, z, u75a, M : boolean; UWF0a : boolean array returns boolean array chillax end main : b19 : boolean; t : boolean array; Bd : boolean array; chillax end

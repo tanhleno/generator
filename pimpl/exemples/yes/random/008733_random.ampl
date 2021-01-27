@@ -1,0 +1,1 @@
+program m250a : tzna : takes H, K, A : boolean; w6D, G : boolean array; gQ : boolean; T4Ka : integer array returns integer chillax end main : p : boolean array; pop(1) <= - false + 374; let M09aa = array - E0Oa(73) rem k and 28 end

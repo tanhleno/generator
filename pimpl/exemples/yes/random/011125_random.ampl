@@ -1,0 +1,1 @@
+program K6 : J37a : takes z5, e, d : boolean array returns nothing do wB3(- (4), - 2 - 1, 6); pop 9 end L3 : takes VE : boolean returns integer Y8, u, zhm0, WC : boolean; do g8(- 3, 402, 63, 3) end main : f, M1 : integer; do o(- (16) + 494 rem(30) and 9 - 0 > true / D and 0, m(05) /= false or 1 - 850, true and 135 > - 92, 0 > 3, 4, 60800) end

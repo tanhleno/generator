@@ -1,0 +1,1 @@
+program F : e : takes ODDaa, _ : integer; k990a : boolean returns nothing b : integer array; input gR[true - 69 - 9]; when case - 9 - 42900 : chillax end case 327 : output "4" end otherwise : while 38 : chillax end end end C : takes f, h : integer array returns integer array chillax end main : chillax end

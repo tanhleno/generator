@@ -1,0 +1,1 @@
+program gz : Y23 : takes M5, r, w4 : integer array; Q, o000a : boolean array; m : integer array; Fs, K : integer returns boolean F, hQ2, c : integer; input K end main : output "" . - (87) <= - 31800; when case(3030) rem not 994 > - 68 : output "" end case true : chillax end; input SV end

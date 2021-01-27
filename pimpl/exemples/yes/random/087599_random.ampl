@@ -1,0 +1,1 @@
+program l0 : main : h : integer array; when case not true : do j(571 > 060); when case 756 : pop; pop end case 0560 : chillax end; let Y = 0; let l = 1 end; do li((07200) - 3 and 05 + 3 < 707 and 46, - not 8 and 7) end

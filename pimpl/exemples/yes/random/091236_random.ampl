@@ -1,0 +1,1 @@
+program s0 : main : let D07[- true and RB[98] / true and 2] = array - 447 / ra7a(3) - not(75); when case - 323 /= - not 71200 : do E760a(0 = 9); when case 19400 : chillax end end case - o64 : chillax end case - 35 <= 4 : chillax end end

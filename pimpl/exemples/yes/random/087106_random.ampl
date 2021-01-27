@@ -1,0 +1,1 @@
+program rnW : main : m9 : integer array; let U20 = array - false / true + true / t and 6 - e620a and 5 - 16600 - 7; let q[- not false] = array dV2a; while 94400 and 79500 = - 8 - 47 : pop; when case 6270 : chillax end end; while - 683 - 0 : input yBFaa; pop end end

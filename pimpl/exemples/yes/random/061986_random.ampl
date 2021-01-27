@@ -1,0 +1,1 @@
+program Y0 : z_ : takes WJ : integer returns boolean array j : integer; chillax end Z : takes p : integer; l440 : integer; I0x0 : boolean array; c : integer array; A7 : boolean; SI : boolean returns nothing g : boolean; enL0a : integer; U : boolean; T : boolean; Mo : boolean; chillax end main : output(28) end

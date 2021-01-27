@@ -1,0 +1,1 @@
+program J : o : takes j6 : integer array returns boolean output - 129 - 9; do Qe60a(- 4 - 7 <= 766); when case 5940 = 5400 : pop; pop end case 2 : pop end case 60 : chillax end otherwise : chillax end end main : YMC : integer; P : integer array; chillax end

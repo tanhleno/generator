@@ -1,0 +1,1 @@
+program ivZ0 : main : S : boolean array; do o8(true rem(5) rem not 2 and 7 + NP / (9) and 78 - false <= 5 + not 0 and 84800); do M(76 rem not 11 <= - true and 54, Y2h0 - 7 >= - 09 - 8090, - 64 - 75 = 340, 6, 2) end

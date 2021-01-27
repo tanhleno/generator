@@ -1,0 +1,1 @@
+program YA : V : takes C, p : boolean; T, M : boolean array; JhT : boolean; J : integer array; v, u : integer; TB : boolean array; YR : boolean returns boolean chillax end main : while - false * 68 rem 24 and 0 > - (4) : do i(1 - 42, 15 = 7540) end end

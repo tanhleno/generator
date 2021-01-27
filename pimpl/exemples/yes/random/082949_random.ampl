@@ -1,0 +1,1 @@
+program q2 : main : A : integer; do K5F((103), - 22 and 220 and 21); when case - (5) <= false or 8 - 297 : input i; output "" . "#"; while 35 : chillax end; let T6 = 7 end otherwise : pop; when case 1 : chillax end; when case 9 : chillax end end; do VKLaa(- true and 3 + 566); input B end

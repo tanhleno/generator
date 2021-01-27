@@ -1,0 +1,1 @@
+program pZT0 : R : takes B : boolean; uG9, O : boolean; Pbm : boolean array returns boolean Of2 : integer array; B, MY3a : integer array; chillax end o : takes N5 : integer; xZRa : integer returns integer n, M : boolean; chillax end main : do f(false / (41900) * jR9) end

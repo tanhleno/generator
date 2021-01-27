@@ -1,0 +1,1 @@
+program g : B : takes t : boolean array returns integer array Px, fA, HWr, a : boolean array; I : boolean array; J5, t : integer array; l5, nh : boolean; chillax end d : takes M2, K : boolean; u6N, CR7a : integer returns integer input f end main : while true * bR rem(3) or not false / false and 1120 or(987) and 8 : chillax end end

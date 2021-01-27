@@ -1,0 +1,1 @@
+program C : TZA : takes j : boolean array; J, E0v, e : integer array; W, g : boolean array returns integer y, X : integer; t : integer array; pop 011 end main : N : boolean; o4, S, f, R2U, o, q : boolean array; chillax end

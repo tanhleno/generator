@@ -1,0 +1,1 @@
+program t4Baa : Q : takes S3, II80a : boolean array; A : boolean array returns nothing E, G : integer; E2 : integer; X9x, B : integer array; do apK((455), - 37 - 419 <= 755, 1, 9); do q(- 623) end main : pop; while - not 8 rem 0 - lda + 2 - 9 /= 66 and 4670 - 0 - 842 : pop 4; pop end end

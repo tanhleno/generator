@@ -1,0 +1,1 @@
+program Z : R : takes s21 : boolean array returns nothing let P[- (31) - 0 - 1] = - 48; while - 81 - 99000 : chillax end; when case 76200 = 7 : let E = 704 end; input S[5]; input X end main : pop; let Z = array - (2) - true; let B7 = 74 - 6 > 5; pop 5 = 2 end

@@ -1,0 +1,1 @@
+program W : R : takes w7 : integer array; H, T : boolean; aE5 : boolean; Ue, X : boolean array returns integer R, W : boolean; chillax end main : w, r6ca, F17a, fS, G, S, g : boolean array; vl : boolean; pop; let w85aa[- not(8) rem w and 51 - false and 1] = array true + (0) and 3 + 9 end

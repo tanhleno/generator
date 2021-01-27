@@ -1,0 +1,1 @@
+program S : G : takes u : boolean array; Y0J : integer; j : boolean array returns boolean do x(false, 797); do Y(- 752 - 0 >= 96300) end p3P : takes K : boolean array returns boolean m04a : integer array; chillax end I8 : takes Z, YJ, S : integer; V3 : boolean returns boolean chillax end main : chillax end

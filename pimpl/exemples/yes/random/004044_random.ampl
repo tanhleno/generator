@@ -1,0 +1,1 @@
+program yi : R : takes pH, l, b9, SY, rMc0 : integer returns integer let l[- 436 and 2 + 98] = array not 4 and 8; while 148 /= 78000 : when case 321 : chillax end end end main : S : boolean; z, r2ta : boolean; when case(2) >= - true + true and 38 : let b6[- 711] = 7 = 2; when case 4 = 3 : chillax end case 75 : chillax end end otherwise : chillax end end

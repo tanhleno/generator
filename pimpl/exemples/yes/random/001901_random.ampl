@@ -1,0 +1,1 @@
+program M : q : takes fW8aa, l11, b, c, aR, F04 : integer array returns integer chillax end main : when case - false - 9 - 3 and 2 /= not true : chillax end case - false and(001) and 0 + 3 >= - (3) and 89 or 13 - 3 : output 3 . ""; let j7baa[0] = array 2 end case - 5 and 2 = - 8 : output 7 end otherwise : let Sb = 7 end end

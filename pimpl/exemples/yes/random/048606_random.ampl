@@ -1,0 +1,1 @@
+program j : SjO0a : takes F : boolean returns nothing M : integer; w1, x, w, p21aa : integer; chillax end l : takes B, t : integer; X, _ : boolean returns integer array s2r0a, P, T : boolean array; while - 997 - 4 : let Skca = 3530; pop end end main : H : boolean array; chillax end

@@ -1,0 +1,1 @@
+program b : J40 : takes E, jwz0, Z, lm : integer array returns boolean G, _ : integer array; GWd, TvWaa, iAs0a : boolean array; chillax end main : while - true / false / wE and 9 + 0 rem(394) : chillax end; input y[57 - not 2] end

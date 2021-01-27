@@ -1,0 +1,1 @@
+program QM : V : takes S : integer returns boolean chillax end U9xa : takes X : boolean returns nothing when case 9 - 6 <= 1 : let e19 = 8; input G end case 9 : output ""; pop end case 3210 : pop end case 77 : chillax end otherwise : output "\""; pop end end main : while 00 * (6) rem not 8 - false > - (87) : chillax end end

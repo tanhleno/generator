@@ -1,0 +1,1 @@
+program H37 : MF : takes S, f4c, a : boolean returns integer Q, lAY : boolean; YX, u, X : boolean array; I : integer; pop 9; when case 66800 - 0 : chillax end case 0070 : when case 1 : chillax end end otherwise : chillax end; input V03aa[0]; let N7c0a = 90 end main : c : integer; when case T / not false : pop 7; input E0[4] end end

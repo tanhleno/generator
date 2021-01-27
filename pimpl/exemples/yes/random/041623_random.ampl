@@ -1,0 +1,1 @@
+program gq : z : takes K8 : boolean array returns boolean array e4, sZ : boolean; do Yb(- false and 3 - 5 - 8) end main : M0 : boolean; c : boolean array; q2 : boolean; zuM : integer array; J, r : boolean array; chillax end

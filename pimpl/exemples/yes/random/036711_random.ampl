@@ -1,0 +1,1 @@
+program d : F : takes D : boolean; f : integer array; IO, vc : boolean array returns boolean array f, s62, G8, SfVaa : boolean array; chillax end IVua : takes C, P : integer array; s : integer array; x : integer array returns nothing chillax end main : a : boolean; when case true / not true rem v and 51 = not false / not 5 : chillax end end

@@ -1,0 +1,1 @@
+program n : o : takes J : boolean array; u, Yc, O5 : integer array; q, X5, W, v, zMx, z : boolean; v : boolean; Y5, O : integer array returns boolean array while(277) and 82600 + 1 /= - 0590 : chillax end end main : chillax end

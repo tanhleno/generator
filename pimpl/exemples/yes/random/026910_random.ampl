@@ -1,0 +1,1 @@
+program xc3a : lT : takes _, w : integer; ems0 : integer returns integer array chillax end main : p7, B : boolean; input EW[true * Y - (81)]; let N = array H[33]; output 635 - 9 > 90 . ""; while - 0380 < 6 : input Y; output "" end end

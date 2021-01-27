@@ -1,0 +1,1 @@
+program QQ : main : z4 : boolean array; DH, R : integer array; H7, Pl, ICsaa, L, I : integer array; while false + f[0280] + not 8 and 6 : chillax end; output not 52600 - 8870 <= - 4730 - 8 . ""; when case 32700 and 9 /= - 697 : chillax end; when case - 0 - 8 >= 70 : chillax end otherwise : chillax end end

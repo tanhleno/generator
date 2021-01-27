@@ -1,0 +1,1 @@
+program Tz7 : W2 : takes H6Laa : integer; pf, S : boolean array; f : boolean array returns nothing M, Ci2 : integer; chillax end c92 : takes n : integer array; C : boolean array returns nothing chillax end main : MJP, x9ka : integer; let R[false * 2 / (099) and 97] = array 1 and not 9 / not 50 and 77 end

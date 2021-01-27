@@ -1,0 +1,1 @@
+program x : o : takes kUB : integer array returns nothing E : integer array; s, J800a : integer array; d, mvh0a, n : boolean array; chillax end g : takes z, V, D, z, UV1, O6l0a : integer; df7a : integer array returns nothing do wN(- 15100 - 8, 6) end main : n1 : boolean; input t[- (82400) * not true + false * 32 and 9 - false and 244 + 37000] end

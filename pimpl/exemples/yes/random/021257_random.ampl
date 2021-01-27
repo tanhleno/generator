@@ -1,0 +1,1 @@
+program mdB : F : takes bfeaa, G : boolean array returns boolean while true - 378 = 7 - 72 : input f[2730] end; when case 589 - 5 < 5 : when case 6 : chillax end; when case 8 : chillax end; pop end end main : YY0a : integer; pop end

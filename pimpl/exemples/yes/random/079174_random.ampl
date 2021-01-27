@@ -1,0 +1,1 @@
+program D : main : X : boolean; R : boolean; r, Vq3a, n : boolean; l, _5w0a : boolean array; while - 68 >= - (19) or not 2 and 6 or 2 : input F; let w[391] = array 42 end; let t = array - true / f0 and 4 + true - 7 - 9 end

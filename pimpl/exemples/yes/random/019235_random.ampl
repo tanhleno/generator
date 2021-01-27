@@ -1,0 +1,1 @@
+program t : k : takes fnX, c3y : boolean array; z, r6O0a : boolean array; qC9 : integer returns boolean array x : boolean array; Gyp, C : boolean; E : integer array; chillax end main : while - (7) + r7(148) : chillax end end

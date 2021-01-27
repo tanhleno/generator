@@ -1,0 +1,1 @@
+program P2 : B : takes O, D : integer returns nothing chillax end main : z : integer; when case - not true * (9) <= (1) or false and 5 - 7 - 4 : chillax end case - false : chillax end otherwise : chillax end end

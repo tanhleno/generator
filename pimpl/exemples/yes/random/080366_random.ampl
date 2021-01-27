@@ -1,0 +1,1 @@
+program H : main : S01aa : boolean; when case - qG and(5) : chillax end case khT0a[1] * false : pop end case - (247) and 182 or 16 /= 33 - 5 : input ad[8910]; while 3 : chillax end end case - 0 - 6560 : chillax end case 4 : while 6 : chillax end end end

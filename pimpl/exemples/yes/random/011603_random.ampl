@@ -1,0 +1,1 @@
+program p : o3 : takes L, xT00a, n : boolean returns boolean array h : boolean; U : integer array; N, h : integer; while true and 73 : pop end; when case 4 < 4960 : chillax end case 63 = 697 : input O; pop end case 1 : chillax end case 2 : chillax end otherwise : chillax end; let Q1c0 = 3070 end main : input L8[true] end

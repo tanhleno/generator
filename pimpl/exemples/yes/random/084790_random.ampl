@@ -1,0 +1,1 @@
+program Jy1 : main : NJX : integer; let V[- false] = array efia(390, 7); when case - 4560 : chillax end case - true and 7 + 7 : pop end case - 485 - 18 : chillax end case 3 : input V; pop end; pop - 7500 - 2 <= 49; while - 0 : chillax end; when case 4 = 7180 : when case 458 : chillax end end case 0 : pop end; do C(8, 95) end

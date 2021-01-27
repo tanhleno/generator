@@ -1,0 +1,1 @@
+program l05 : f : takes t, w, e : boolean; kaa, l62, d : boolean array returns integer array y : integer; B7 : integer array; when case - V or 671 > 2 - 5 : chillax end case 9 <= 3 : output ""; pop end end main : ua10, V, fV2, S : boolean array; a5 : boolean; chillax end

@@ -1,0 +1,1 @@
+program U : H : takes c3, I3, O17 : integer returns nothing input W; pop 536 = 1480; do M(4 = 80); input Lxk[08800]; when case 763 : chillax end end main : mbb : integer array; Z08, Q, tW, W : boolean array; chillax end

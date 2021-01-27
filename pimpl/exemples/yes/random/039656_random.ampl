@@ -1,0 +1,1 @@
+program i : t : takes P : boolean array; v : boolean; u : boolean array returns nothing G9 : integer array; chillax end XsF0 : takes v3P, E5 : boolean array; h, X, yGMaa, Iiv0a : boolean; Qt : boolean; AW, l740a, z : integer; en4a, o2, p080a : integer; L4, so : boolean returns integer array do k(- 4 > 1); pop; while 29 : pop end end main : output - 7 + G . "" . "\t" . "w" end

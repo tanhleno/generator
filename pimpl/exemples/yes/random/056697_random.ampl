@@ -1,0 +1,1 @@
+program bxo : u6 : takes H5 : integer array; I : integer; Z : boolean array returns nothing W2i, i : integer; let M9[- G4t0 and 0] = array false and 72 - 11 - 4 end main : do W(- false or true and false and 7 + true and 86 - 5 < FI * false, - true / 80 - not 623 <= 3 or 86 - 546) end

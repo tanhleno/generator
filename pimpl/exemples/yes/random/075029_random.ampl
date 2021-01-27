@@ -1,0 +1,1 @@
+program XV : main : w6, A : boolean array; y : boolean; _z : integer; hs, z7ca : boolean array; G : boolean array; fx : boolean; while false : input n14; do O(1 = 3, 8370); output 3 end; do j(- true rem 2 and 46 - false and 6 or 4 /= not 54 and 1090) end

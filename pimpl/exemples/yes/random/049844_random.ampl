@@ -1,0 +1,1 @@
+program W : J : takes I1 : integer; u8, cjQa, J : boolean array; W, Ji : boolean returns nothing while - not 4 and 70 : when case 09000 : pop end otherwise : chillax end end end main : c, r : boolean array; chillax end

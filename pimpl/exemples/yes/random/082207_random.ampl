@@ -1,0 +1,1 @@
+program R : main : H : boolean array; input K5Daa; output ""; when case - not 160 and 909 - 93 : when case 376 : pop end case 4730 : chillax end; output "4"; while 5 : chillax end end otherwise : pop; output "\"" end; output 4 = 5 end

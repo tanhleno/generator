@@ -1,0 +1,1 @@
+program d : v : takes n, j : integer; j0, P8, L6 : boolean; y, b, A, x, l, F0 : integer; M, Q3 : integer array returns nothing a, k6 : boolean array; chillax end Tu : takes t, l, Jla0 : boolean returns boolean Z : integer; chillax end main : let S10a = - (214) end

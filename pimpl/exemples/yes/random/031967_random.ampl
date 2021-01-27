@@ -1,0 +1,1 @@
+program w : U : takes v, H7 : integer returns integer chillax end U : takes R : integer returns integer array qF : integer; output 36 = 612 . "" . ""; pop; output 6 . "I" end main : while V010[050] : output "-/\"" . 1; pop; while 64600 : pop end end; input P[PB2] end

@@ -1,0 +1,1 @@
+program pJ80a : main : b, ke60a : integer array; while 0 rem 965 / true and 33 : chillax end; when case t[8] / true /= not 7 : when case 2 : pop; pop end; output 2 end otherwise : when case 0140 : chillax end; do j99aa(8) end end

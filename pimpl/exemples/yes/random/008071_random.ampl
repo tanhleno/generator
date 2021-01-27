@@ -1,0 +1,1 @@
+program e9 : g : takes X, Zx, f, PD5 : integer returns integer array I4 : integer array; chillax end p7 : takes JJ, TK, L, q6 : boolean; L0 : boolean array returns boolean array G, quCaa, F2 : integer; let o[0 - 3] = 5; when case 3 : chillax end case 1360 : chillax end case 4 : chillax end; do D(8, 08000) end main : pop end

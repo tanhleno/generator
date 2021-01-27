@@ -1,0 +1,1 @@
+program dD4a : z88 : takes k3Kaa : integer returns nothing G550, s, _70, LI80a, K : boolean; M, n : integer array; chillax end M : takes s : boolean array returns nothing output ""; pop end main : q, ZoI : integer; FP3 : boolean array; chillax end

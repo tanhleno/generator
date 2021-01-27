@@ -1,0 +1,1 @@
+program M : main : d, NW : integer; while not 3670 / (4) : chillax end; when case r >= - Q0 and 65200 - 984 : output 4 . 94 end case U and 2070 or 4 - 5 : chillax end case - 980 < 4 : do j6z(1) end case 73 : output ""; pop end case 92 : pop end otherwise : chillax end; do AS(- not 4 and 236 + 7 >= 54500 - 917) end

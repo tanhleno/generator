@@ -1,0 +1,1 @@
+program w75 : ZX : takes wpv, Wl, p, s, t, n : integer; Aw : integer array; x : integer; C : boolean array returns integer array do r9Naa(515 and 9 or 0, - 0 /= 4); pop end s550 : takes i, M : boolean returns nothing input W; let O = array 532; do O(4) end main : chillax end

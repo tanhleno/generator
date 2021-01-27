@@ -1,0 +1,1 @@
+program j : main : p, W, WS, k, l : boolean; Q38, z : integer array; fCdaa, v : boolean array; i : boolean; do UAi(- (5) >= Ai(198) or true - 0 - 3); let X = array - true and(73) and 0; input c4x[- false and 97 - 03]; let xv70a = array 2 - 6; pop end

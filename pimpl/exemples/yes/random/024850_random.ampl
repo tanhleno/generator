@@ -1,0 +1,1 @@
+program J : z64 : takes E, L : boolean returns nothing when case true and 87500 or 3 - 1 : let t = 4 end otherwise : chillax end end e0 : takes Y22a : boolean returns integer array let u[59 - 30] = array 43300 end v : takes z : boolean; m, EL, Yt : integer returns nothing when case 5 = 40 : chillax end otherwise : pop end end main : F8 : boolean; chillax end

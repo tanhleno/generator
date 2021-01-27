@@ -1,0 +1,1 @@
+program s : rZ : takes u, v3K, M4, _3Fa, i, _4 : integer array returns integer input e310; do b87(- 3 - 4); pop 6; pop 7; output ""; input RJ30a end j : takes X : integer array returns nothing chillax end N : takes Fx5, F : integer array; L, i52 : boolean returns boolean chillax end main : input t end

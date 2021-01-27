@@ -1,0 +1,1 @@
+program z340 : zP20 : takes S3, f6 : integer array; h88, z : boolean array; CY, m, m4, W : boolean array returns integer while - R : output "1" . ""; let h = 6; pop end; while 9 - 9 : chillax end; let F[53700] = 06100 end main : qy, B330a : integer array; oJ00a, o7N, y, S4 : boolean; d9T : integer array; chillax end

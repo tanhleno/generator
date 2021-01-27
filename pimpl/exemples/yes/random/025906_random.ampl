@@ -1,0 +1,1 @@
+program o : m : takes H200a, Nt1 : integer; Q, eoW : integer array returns nothing while not 95 = 4 : chillax end end E9qaa : takes y1 : boolean array; B26 : boolean array returns nothing chillax end a : takes j92 : boolean array returns nothing SZ : integer; s : boolean; chillax end main : I1D0a : integer; chillax end

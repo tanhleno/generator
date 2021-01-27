@@ -1,0 +1,1 @@
+program Q27 : A : takes b : integer returns nothing input rR0aa[6 and 4 or 3] end I2eaa : takes r, E2, A, Z81, B16 : boolean array returns boolean vF, Wyf0 : boolean array; x9h, C, r : boolean array; gX, r : boolean; chillax end main : chillax end

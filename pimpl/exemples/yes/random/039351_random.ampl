@@ -1,0 +1,1 @@
+program H : T : takes t : boolean array; c, i : integer returns boolean array chillax end c : takes Q, U1 : boolean; l, r, T : integer array; I5 : integer returns nothing do t05(- 81) end L : takes hug0 : integer array returns boolean while 5 : chillax end; pop 35; pop; do Bq60a(8) end I : takes d : boolean array returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Je : main : while - 8 or true and not 486 and 73 >= - (1) - 81 and 6 - 2 - 711 : do Q(- 7700 - 17 /= 88); do G(81 = 15); when case 6 : chillax end; while 4 : chillax end; when case 48 : chillax end; pop end end

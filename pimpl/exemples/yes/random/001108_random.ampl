@@ -1,0 +1,1 @@
+program h0 : x3 : takes o, A, lT, t8h, k, S60 : boolean; O, U, w : integer returns integer array chillax end J : takes Z : integer array returns nothing do L(0 - 3, 8, 6, 4) end main : vjaaa, p, i, X : boolean; chillax end

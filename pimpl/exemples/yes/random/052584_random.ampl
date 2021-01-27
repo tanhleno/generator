@@ -1,0 +1,1 @@
+program o8 : ie : takes A1 : integer; FG : integer; r3O : integer array returns nothing s : boolean array; E, ax80a, S, I : integer; when case 5 and 9 + 1 : chillax end otherwise : chillax end end main : chillax end

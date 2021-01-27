@@ -1,0 +1,1 @@
+program B : b : takes O : boolean array; e : integer array returns nothing let Zn[- not 91 and 5 + 4 - 51000] = - 8 - 6 < 97; when case - 8 - 167 : chillax end otherwise : chillax end; let ql = array 189; while 2 : chillax end end main : L : boolean; L1, a : boolean; E, LVAaa : integer array; chillax end

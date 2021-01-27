@@ -1,0 +1,1 @@
+program gt7 : t : takes DM, xm, l5_aa : boolean returns integer array Tpka : integer array; let a99 = array - true; let Y = 720 = 4 end z : takes T6, oFQ : integer; Y1, Q : integer returns nothing output 691 = 1 end main : chillax end

@@ -1,0 +1,1 @@
+program X : main : do r(false - true or not 1 and 10 - 630 - 45 > - false rem false and 2); let P[4 / 3 and 9 - not 3 and 4 or 50] = - not 23 and 016 = 3; output - 81 > 7 . 4; while 76 : chillax end end

@@ -1,0 +1,1 @@
+program KU : tc : takes P700a, d07a, jD, T, d, M, Bvvaa, H82aa : boolean array returns integer chillax end main : pop - (8) or true + 5 - 53; when case - (45) + not 3 : chillax end case true or 52 - 766 : pop end case 9 - 954 /= 11 : output "" end case 2 : pop; pop end end

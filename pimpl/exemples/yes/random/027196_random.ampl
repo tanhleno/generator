@@ -1,0 +1,1 @@
+program D : b : takes usk0, Z1 : integer array; m3, E, t9u, Op : boolean array returns boolean array chillax end main : w, G : boolean; S2 : boolean array; let fG = array g650 or true + B and 33800 + 6 - 4; input I[not not 50800 or false - 6 - 3]; do rS(- (92) or 0 - 8, - 9 - 6 >= 5, 3 = 4); pop 72500 end

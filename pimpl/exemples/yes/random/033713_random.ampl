@@ -1,0 +1,1 @@
+program u16 : A : takes wb : boolean; e, q, k7, U : integer returns integer B : boolean; F, B, w75aa, b7 : boolean; do O((35) and 3 + 61 < 8) end F : takes C92 : boolean returns nothing X36, D, Q700, s7d : boolean; chillax end m85 : takes P : boolean returns integer array R2, i : boolean; input j; pop; pop; pop end main : JZ60, m7 : integer; chillax end

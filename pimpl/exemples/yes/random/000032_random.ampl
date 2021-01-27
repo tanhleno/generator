@@ -1,0 +1,1 @@
+program D : eQ : takes m, t850a, q, V7, K, P, Ky7aa, R0 : boolean; d, cU : integer returns nothing do f((3) - 7 - 4 > - 8) end main : let J = array(91 = 60) + RUSaa - y; do S(- true / L and 31 < - 567 - 2710, 18 and 03, 4 - 3 >= 4, 268 = 30, 5220) end

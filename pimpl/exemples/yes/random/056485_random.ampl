@@ -1,0 +1,1 @@
+program M : i3 : takes x : integer array; OsNaa : boolean returns nothing output ""; do P(- 4 - 535 <= 69) end q : takes P, T9Y, t : boolean array returns integer M89 : integer array; D, u, O : boolean; while 9 - 916 : chillax end; pop; when case 68 : pop end case 283 : chillax end otherwise : chillax end end main : v, r : boolean; z : boolean array; pop - 19 end

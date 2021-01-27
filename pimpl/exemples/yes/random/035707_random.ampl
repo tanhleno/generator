@@ -1,0 +1,1 @@
+program B4 : KO3 : takes Ie : boolean; I : boolean array; mW9 : boolean; y : boolean array; vWAaa, L2 : integer; Sp9aa, j : integer returns boolean K : boolean; chillax end v : takes DNE0 : boolean; j9, t6, G : integer array; PK4 : integer array returns boolean array C : boolean; jF3aa : boolean; chillax end main : while - (0 = 5) < true + 122 and 6 : chillax end end

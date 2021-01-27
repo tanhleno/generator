@@ -1,0 +1,1 @@
+program C : q : takes z00, xp : boolean; L : boolean array returns integer input T[- S and 803 + 8 - 1] end main : L3 : integer; d6Ca : integer; do Y_(- S(0), - (550) + (54300) and 0 < - (0) and 71 - 8 - 30, - true and 6100 /= - 2 - 55) end

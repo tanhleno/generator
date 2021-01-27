@@ -1,0 +1,1 @@
+program l : main : Zk, va30a : boolean; b19, v, pR5a : integer array; Q : boolean array; q, h, U, E : integer; input f900a[- xr7[3930] * true]; while - (0) - 17 + 0 /= - true - 6 - 6 : when case 2 : input k5 end case 22 : pop end otherwise : chillax end end; pop end

@@ -1,0 +1,1 @@
+program t3fa : main : do s((816) / (9) + false >= true and not 1, not(9830)); while not(8) - not 0 and 7 >= - false and 46 : while 3 = 7 : when case 87 : chillax end end; output 06; do x(9) end; input nL6a; let G[- 4] = array 179 end

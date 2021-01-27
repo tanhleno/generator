@@ -1,0 +1,1 @@
+program M : main : M7Y0, Y, N46a : boolean array; d4haa : integer; c : boolean array; XH, o8, P : boolean; o50a, f, NuN : integer array; T : boolean; while 19800 : chillax end; do Aer0a(- true /= - (1), not 584 - 18 - 2 > 9 - 1320, - 82 - 83 > 9, 5) end

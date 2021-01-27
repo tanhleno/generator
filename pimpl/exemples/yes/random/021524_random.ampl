@@ -1,0 +1,1 @@
+program hRr0 : a : takes A89a, I : boolean array returns integer array while - 52300 and 2 : chillax end end Q : takes C : integer returns integer array Cc8, WMZ0a, B : integer; chillax end F : takes K8na, E, Fp, r, ES, H : boolean; Q, aEZ0, D : boolean; SOP, x : boolean array returns integer X : boolean; x, D : boolean; chillax end main : chillax end

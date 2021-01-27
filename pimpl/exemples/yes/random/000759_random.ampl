@@ -1,0 +1,1 @@
+program u : K : takes x3, s5U, C, yG, _y6a, CO, v : boolean returns integer array chillax end main : u : boolean; p, e93aa : integer array; while - P28(1, 627) = - not false : output 96 . 801 . 9; do N(7 = 607) end end

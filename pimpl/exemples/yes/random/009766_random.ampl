@@ -1,0 +1,1 @@
+program co : w : takes oI50, g, X : boolean array; f03, H64 : boolean array; y98aa, X : integer array; W7, WG : boolean array returns boolean pop - 61 end main : H8 : integer; A2 : boolean; input Z; do PbX(- (2)); output 415 . 28 . "" end

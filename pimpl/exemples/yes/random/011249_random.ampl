@@ -1,0 +1,1 @@
+program ki : L3 : takes r, Kf, KO1 : boolean array returns nothing m, P : integer; osW, k, dqE, TG : boolean array; chillax end E : takes H : integer; X7, F, y5 : boolean array; C : integer array returns boolean let fl[- 9] = 745; while 6 : when case 9 : chillax end end; pop 49300; let C = 2; pop end main : while - 6 : chillax end; when case I(4) * true and 078 : chillax end end

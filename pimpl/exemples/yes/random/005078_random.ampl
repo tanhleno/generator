@@ -1,0 +1,1 @@
+program Sj70a : v00a : takes dg80a, Vo4a, E9, q : boolean array; q65aa : boolean array returns nothing L, H2, d : boolean; S : boolean array; ZoPa : boolean; g, d : boolean; p : boolean; a6 : boolean; pop 03 - 8 = 74 end main : pop(300) and q + false and 3 end

@@ -1,0 +1,1 @@
+program a : t5 : takes Ba8, b750, l : boolean array returns nothing ApI0, C, m : boolean array; when case not 137 > 27 : chillax end case - 0 - 47 < 1 : input t end otherwise : chillax end end main : P21a : integer array; v : boolean; chillax end

@@ -1,0 +1,1 @@
+program _LC : main : let h = array D(4, 6) or true * Ma9aa and 2; output - 405 or 00 - 3 . ""; pop; when case 05900 - 28 > 268 : output ""; input L; pop end case 089 = 2 : pop end case 3 : chillax end otherwise : chillax end; output "\\\t" end

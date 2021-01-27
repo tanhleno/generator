@@ -1,0 +1,1 @@
+program m1z : lZ : takes r : boolean array returns integer array s, E : integer array; c : integer; v, F, H : integer array; Jzw, s5 : boolean; V : boolean; y : boolean; input M[- false + 6 - 62]; when case - 48 - 5 : pop; while 8 : chillax end end otherwise : let l = 89 end end main : S, u5l : boolean; pop I[1] and false and 953 end

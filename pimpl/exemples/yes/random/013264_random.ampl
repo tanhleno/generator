@@ -1,0 +1,1 @@
+program TC : Kx : takes kb, B3, z : integer; _ : boolean array returns nothing U09 : boolean array; e15a, t, v, A : boolean array; U : boolean; chillax end main : l, Q, m : boolean array; XG6, _, a0, XSna : integer array; pop true rem(42) - IA /= r end

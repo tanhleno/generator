@@ -1,0 +1,1 @@
+program h : Zx : takes F, gM : integer; I : integer array; S : boolean; g, z, MF, Q, p : integer array returns nothing output - 01500 - 433 = 941 . 8 end x6 : takes X : integer array; o7, d, m0Saa, xT : boolean array returns nothing chillax end main : v : boolean; M63a, pCh, q : integer array; z, xHQaa : integer; chillax end

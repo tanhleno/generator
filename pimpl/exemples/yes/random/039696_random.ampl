@@ -1,0 +1,1 @@
+program jeU : Tx : takes a : boolean array; T4y0 : boolean; sb1 : integer array; o, W, og10a : integer; ZW : integer; U, Q : boolean returns boolean array chillax end main : x, aj : boolean; chillax end

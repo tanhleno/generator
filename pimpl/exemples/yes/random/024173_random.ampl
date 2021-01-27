@@ -1,0 +1,1 @@
+program Z : o : takes l, fF : boolean returns nothing q, t, V, L : boolean; chillax end main : L : integer; while false / 75 / not 432 and 1 - not 1 rem false and 275 /= - 1 + DC and 6 or 16 - 34 : when case - 3 = 945 : output ""; do R2(4) end end end

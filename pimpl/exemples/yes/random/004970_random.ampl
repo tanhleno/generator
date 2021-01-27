@@ -1,0 +1,1 @@
+program dE2aa : Zy : takes P, c, J, s : boolean array; QN, BK : integer array returns nothing S, J : boolean; R : boolean; u, K : integer; p2ga, de : boolean; chillax end main : do j(- not(6) rem true - y[0] rem n and 22 or false - 87); while false < (866) : input _JXaa[30900]; when case 8 : pop end end end

@@ -1,0 +1,1 @@
+program iF : d : takes y, k, neS0a, kI : integer returns nothing chillax end V : takes A, Tm : integer array; _Wka : boolean returns boolean array input f[- 69 - 20] end main : let B[true] = true and 10 and 09; when case(5) : chillax end case - (2) : output "" . "" end end

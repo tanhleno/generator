@@ -1,0 +1,1 @@
+program U : j : takes W : integer; f, h2 : boolean returns integer array chillax end f : takes A, x, p, y5 : boolean array returns boolean array while - 36 : chillax end; while 6 = 6 : pop end end main : chillax end

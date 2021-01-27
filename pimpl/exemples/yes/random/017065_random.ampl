@@ -1,0 +1,1 @@
+program I : R : takes a, rD : boolean; K, b, T3laa : integer array; j : boolean returns integer array R : integer; let V = - 511 - 320 = 8 end main : do wt(m(0, 75) / (58) and false + 5 rem true); let P8[- not 4 * false or false and 03500] = array - true rem false and 337 or not 11 and 6; pop end

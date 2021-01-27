@@ -1,0 +1,1 @@
+program D : p1 : takes T4, Ga : boolean array; i7, E9, M, J, W9Vaa, _ : boolean returns nothing T3, K : boolean; chillax end main : output true <= - true and 3 or 8 - 2 . - D; when case(0950) rem false or true + 53 - 87500 : while 8 : let L = 06900 end; while 35100 : chillax end; do O7a0a(6) end case - true : pop 69; let Q = 8 end end

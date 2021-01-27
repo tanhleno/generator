@@ -1,0 +1,1 @@
+program j0s : T : takes A5 : boolean array returns nothing S, m, P, Z : boolean array; _Y : integer array; input j[not 9] end t : takes h, g0B, F : boolean returns nothing chillax end main : chillax end

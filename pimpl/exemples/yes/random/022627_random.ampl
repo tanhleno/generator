@@ -1,0 +1,1 @@
+program T : V6 : takes gJR, OG : boolean array returns nothing input J; while - 42 : chillax end end w : takes B9x : boolean array returns boolean array do F(58 - 7 /= 5, 2) end J : takes p : boolean array returns nothing pop 6 end R : takes j_ : boolean; w, Tf : integer array returns boolean array DV8aa : boolean; chillax end main : I4, P : integer; chillax end

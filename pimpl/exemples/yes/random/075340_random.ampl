@@ -1,0 +1,1 @@
+program N : main : R8, x : boolean array; Gc : integer array; let e2[- rn7aa(0) rem x(161) / (93000) or 2] = array not not 2 or 272 rem true + e - 962 - 19; do y(- true + false and 54 or 3 = (00) and 8); input Q9[fhO - 7]; while 3 : output "" end; when case 126 : while 2 : chillax end end case 9 : chillax end otherwise : pop end end

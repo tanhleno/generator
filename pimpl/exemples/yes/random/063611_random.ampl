@@ -1,0 +1,1 @@
+program p1 : UL7 : takes Ft : integer returns integer while - (91) and 9 > 33 : output 88 . ""; do B(08); when case 4 : chillax end; pop end end main : l92, Y45aa : boolean array; let o[- b6[6] - not x + true and 0 - 6] = false / false and 86 <= - 9; input b end

@@ -1,0 +1,1 @@
+program M9t0a : tM2a : takes q9, o, IE, J : integer; Vn : integer; Yj, m : integer; K : integer array; am7, A2, Fr : integer array; q, z : boolean array returns integer array while J and 93 - 4 = - 3 : when case 3 : pop end; while 7 : chillax end; let c = 879; pop end end main : chillax end

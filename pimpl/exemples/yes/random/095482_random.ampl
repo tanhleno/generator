@@ -1,0 +1,1 @@
+program B6 : main : when case(2 = 5180) / true rem(9) - false - false + 1 - 4 = 565 : chillax end; while - not false and 76 and 6 >= - (0) and 4 : while 189 = 7 : input W end; when case 1 : chillax end case 3 : chillax end otherwise : chillax end; while 65 : chillax end end; pop 4 - 4 end

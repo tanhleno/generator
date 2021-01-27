@@ -1,0 +1,1 @@
+program B : main : Uny0 : boolean; e : integer array; while 8 * (71) rem 8 and 6 + not not 5270 / 8 and 5 > false or(29700) and 08300 : chillax end; when case not(1) rem(07) and 33 : input pO0[3600] end; while ciq /= 6 : chillax end end

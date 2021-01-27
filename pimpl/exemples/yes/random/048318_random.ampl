@@ -1,0 +1,1 @@
+program j : K : takes ZP : boolean returns nothing EG, T : integer array; when case(5) or 7 < 544 - 4 : let H[2] = 81 end otherwise : chillax end end o : takes qE : integer array returns boolean h, N63 : integer; do mF(- 5); do eD(00, 8, 502) end main : chillax end

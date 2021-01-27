@@ -1,0 +1,1 @@
+program l1 : f : takes W2c, I : boolean returns integer array D : boolean array; let H[- 2 and 51] = - 63; when case 1 - 5 < 675 : chillax end case 3 = 0 : let tL = 09; pop end otherwise : chillax end; pop 6 end _ : takes _ : integer returns nothing K, M5, F0, r : boolean array; chillax end main : while - (7 = 4) * true and(6) and 24 > - true : chillax end end

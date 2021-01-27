@@ -1,0 +1,1 @@
+program S : main : while(98) rem true / not 91 and 1 + true + B0 : do E(- 9 <= 72, 40200 = 0); let m = array 5; input r070a; let g = 6; when case 52 : chillax end; pop end; do a(- 1 rem u63 < not 1 and 6 or 99, - 1 and 32 + 576); when case false or 6 : chillax end end

@@ -1,0 +1,1 @@
+program Jf9 : k : takes J : integer returns nothing b : boolean; p : boolean; pop - 58 end R2 : takes q_, L : boolean array; L : integer returns integer array uoDaa : integer; DC60a, u4, H : boolean; let KYDaa = 5 end main : Q : boolean array; FT : integer array; chillax end

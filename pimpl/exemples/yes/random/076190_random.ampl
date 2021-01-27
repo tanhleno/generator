@@ -1,0 +1,1 @@
+program L : main : Jb, l : integer; W, u : integer array; PwL0a, RQ0, F, R, E : integer array; p, uv : boolean; do v3(- true and l + 1750 / false and 04 - (53) = 2 and not 980 and 94 + not 3 and 3) end

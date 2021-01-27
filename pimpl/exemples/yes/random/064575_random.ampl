@@ -1,0 +1,1 @@
+program v : q : takes K : integer returns nothing odWa, pcSa : integer array; chillax end yo : takes Tq_, B, RRr0a : integer returns nothing _ : integer array; chillax end B : takes ZJ, O2, T : boolean array returns nothing do t(62, 1, 6) end main : chillax end

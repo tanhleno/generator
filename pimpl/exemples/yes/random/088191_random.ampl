@@ -1,0 +1,1 @@
+program B : main : input l9e; when case not true and 547 and 8 + (7) and 8 or 743 > - (1) and 2 : chillax end case - (2) and 4 : input xE; let I9 = 6 end case - 6 /= 7 : chillax end case 21 : do d(6) end case 35 : chillax end case 517 : chillax end otherwise : pop; pop end end

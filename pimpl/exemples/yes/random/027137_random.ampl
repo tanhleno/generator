@@ -1,0 +1,1 @@
+program D : Z0Gaa : takes z, x : integer array; JY0, C, u, MBDa, R : integer array; y : integer; d : integer array; Hn : boolean; k85a, U : integer array; bs : boolean returns integer array I : integer array; output - 16 - 4 <= 4 end main : qq7 : integer array; chillax end

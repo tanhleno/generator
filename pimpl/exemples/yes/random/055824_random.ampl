@@ -1,0 +1,1 @@
+program t : u : takes u1 : integer array; B : boolean array; U, V : integer array; B : integer; M050, Eb : boolean; Z0b : boolean; PY, J8a : boolean returns boolean array chillax end main : let _60a[- not(6) * h50aa rem not 7 and 1] = not(3) / 327 and 4 >= - not 22500 end

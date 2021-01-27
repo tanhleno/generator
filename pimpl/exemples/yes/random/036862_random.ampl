@@ -1,0 +1,1 @@
+program B : k : takes R32a : boolean; H93aa : integer array; x3 : integer array; P : integer array returns integer array output "" end O1 : takes MQ5aa : integer returns nothing let qmm = array 29 end N : takes I, n, Qg, qz, c9, SP : boolean; h, y7Vaa, _H : integer returns integer chillax end main : chillax end

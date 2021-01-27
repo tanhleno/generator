@@ -1,0 +1,1 @@
+program q : h8H : takes C770a, j, E : boolean returns nothing C, cN, aSa0 : integer; when case(1) or 8040 - 5240 : do Q(818, 29300); input R; input B end case 329 - 6880 : chillax end case 76300 : chillax end case 3 : chillax end case 61 : chillax end; pop; do f(7); pop 2 end main : chillax end

@@ -1,0 +1,1 @@
+program P210a : n780a : takes Yp : integer returns nothing x7 : boolean; input t3Daa end K : takes m : integer array; F : boolean array; uZ : integer array returns boolean chillax end main : chillax end

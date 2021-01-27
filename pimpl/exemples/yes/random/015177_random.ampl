@@ -1,0 +1,1 @@
+program H : hTpa : takes o, x_10a, Y : integer array returns nothing chillax end N : takes SY : boolean array returns integer array input aWzaa[- 3]; while 36 : while 5 : chillax end; pop end end main : chillax end

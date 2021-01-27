@@ -1,0 +1,1 @@
+program J : d34aa : takes S, U : boolean; p : boolean returns integer input p end u : takes o : boolean array returns integer chillax end main : do h(- true < - true and false); when case not false / true or(6) and 83 > - 4 and 3 : let w0[6] = array 937 end case 46000 : input D[7]; when case 6 : chillax end end case 8 - 2 = 576 : chillax end case 83800 = 8 : chillax end end

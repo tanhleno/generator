@@ -1,0 +1,1 @@
+program g : d : takes eU : boolean returns boolean array chillax end r : takes hK10, zi : boolean array returns nothing J : boolean array; chillax end main : x, n, c : boolean array; do R0h(true and 94600 - false * true + L5Raa); while false <= i : chillax end; let J5 = 3 - 0 > 229 end

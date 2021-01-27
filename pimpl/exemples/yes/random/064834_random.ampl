@@ -1,0 +1,1 @@
+program D36aa : FO : takes i960a : integer returns nothing _Q : boolean array; j : boolean; l, rpp, mr3a : integer; input E end main : C8, deY, A : integer; when case - (190 = 299) and 45 / true < true * 0 and 533 : when case 77900 - 1 : chillax end end otherwise : chillax end end

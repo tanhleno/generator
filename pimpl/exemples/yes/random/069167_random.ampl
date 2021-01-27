@@ -1,0 +1,1 @@
+program C7 : main : V, d, U0J0a, dnN0, n7 : integer; when case 52 * 69 rem W /= not not 48 + JI and 934 or 6 : input W[4 - 6] end case 0 / true and 0 or not 8820 <= - true and 80 + 1 - 3 : chillax end end

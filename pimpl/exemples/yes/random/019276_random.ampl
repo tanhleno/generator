@@ -1,0 +1,1 @@
+program J : h : takes d, b : boolean array; sTEaa, O : boolean array returns nothing chillax end main : A, z2, S : boolean; do i5(false + (24) * zD and 4 >= - 9 + false and 05, true - false - 8920 - 6) end

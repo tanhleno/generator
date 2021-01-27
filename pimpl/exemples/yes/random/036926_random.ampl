@@ -1,0 +1,1 @@
+program g3 : R : takes iP00a : boolean; gmF0a : integer array returns boolean array _ : boolean; s3Z0a : integer array; chillax end q : takes p, zBra, U : boolean array returns boolean array Gs30 : boolean; chillax end main : chillax end

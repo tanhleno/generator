@@ -1,0 +1,1 @@
+program gb : main : JY2a, e, i, O : integer; when case - (2 = 2) rem 0 or true <= - not(93300) - not 2 : when case 5 : input ry9a; do CP(1) end otherwise : chillax end; output "0" end; input B5; pop; output "" . "" . "B" end

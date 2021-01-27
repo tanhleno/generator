@@ -1,0 +1,1 @@
+program N : t0 : takes t : boolean; U, H6, I2 : integer array returns nothing output "L" . "" . 7 end main : n32, S1C0, M, h, U, k4i0, c : boolean array; output ""; output - not 745 and 6 or 99 <= - 70; let M = 4 - 5 end

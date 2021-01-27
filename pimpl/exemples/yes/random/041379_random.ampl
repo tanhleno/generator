@@ -1,0 +1,1 @@
+program e : t : takes R6Caa : boolean array; jBbaa : integer returns nothing x : boolean; chillax end main : n : integer array; do H6(- O08[3] < - FQ2aa[74] - 6, - not AX5, - D - 8 > - 3, - 33700); input K[- false and(4)] end

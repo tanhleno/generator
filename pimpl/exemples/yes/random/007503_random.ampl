@@ -1,0 +1,1 @@
+program u : w : takes c, O, m49, a5 : integer array returns integer array chillax end K : takes Ur6, t6, F : integer; U : integer; Z, E : boolean array; rsN : integer array returns nothing do S53(83, 12) end main : d, h, u : boolean; input VY[true] end

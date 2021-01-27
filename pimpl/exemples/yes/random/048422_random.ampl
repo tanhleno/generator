@@ -1,0 +1,1 @@
+program Ui7 : Sn80a : takes Z : boolean returns nothing X4 : boolean; when case(98) and 0 : do l(108, 6); input g end end main : output "" . false and 12 <= - 320 . 333 . "</"; output "=\n"; do DYn(- 7 and 744, 0660 - 2600); output "" end

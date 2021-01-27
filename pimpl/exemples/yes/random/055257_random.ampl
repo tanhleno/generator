@@ -1,0 +1,1 @@
+program B : l : takes M : integer array; r7, uT4 : integer array returns nothing VcIa, U, C : boolean; chillax end main : output false <= - false; output - (0) . 108 . "" . "" . 66; while not 59 and 55500 + 3 < 0 : chillax end end

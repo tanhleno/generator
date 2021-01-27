@@ -1,0 +1,1 @@
+program hqB : v : takes iLN : boolean; F : boolean array returns nothing chillax end K : takes QLAaa, Q1r, d, M, Y, y : integer array returns nothing T, U, c : integer; q5, p_, Q5 : integer array; O : boolean; output "" end main : e73 : integer array; n : integer array; let Z = array qS * true + not true * true and 3 - 3 and 72 end

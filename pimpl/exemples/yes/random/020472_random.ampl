@@ -1,0 +1,1 @@
+program B : X290 : takes H, z : boolean array; z : integer array; tje : boolean returns boolean chillax end R : takes RS, sS, P8A0, D, BKh0 : integer returns nothing X, o99 : boolean array; output 6490 = 886 end main : while - u / j(51) : output ""; when case 8 : do k4(8470) end otherwise : chillax end; pop 4 end; while false or JD : chillax end end

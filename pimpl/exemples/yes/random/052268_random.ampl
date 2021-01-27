@@ -1,0 +1,1 @@
+program W : dX : takes o : integer; w : boolean returns nothing chillax end main : t : integer; pop - (8) - 856; let th_ = array - true / 0 and 5 - SA; let b9 = - 8 - 3 > 3; input B[- 444]; pop 3 end

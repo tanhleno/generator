@@ -1,0 +1,1 @@
+program v : isg : takes oxa : boolean array returns nothing chillax end F : takes gX40, y : integer returns nothing chillax end main : V, D5 : boolean; let M = - false or 7; when case - not not 8120 /= true and 1 : chillax end; while - 8 or 2 - 2 = 3 : chillax end; output 3 . 27500 . 684 end

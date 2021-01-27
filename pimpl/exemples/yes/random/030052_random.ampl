@@ -1,0 +1,1 @@
+program m : S21 : takes G, p7 : integer array returns integer V : boolean; do ue5(- 21 and 6 > - 6, 1 - 9 <= 298, 3, 85) end Z : takes Gn, h, q, v, G, _ : integer array returns nothing P : integer; t2 : integer array; lS80a : boolean; when case 0 - 1 /= 54 : chillax end case 5 : chillax end end main : chillax end

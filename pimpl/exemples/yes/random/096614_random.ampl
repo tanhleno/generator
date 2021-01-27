@@ -1,0 +1,1 @@
+program n : main : when case - true : chillax end case not not 6 : chillax end case true - 1 < 66 : output "1c!a" . "u"; do LK(68100); output "" end; output - (70) and 53 > - 13600; let o[- not 790 or 1 - 69200] = - 616; let f[63] = array 7 - 20 end

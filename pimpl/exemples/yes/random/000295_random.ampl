@@ -1,0 +1,1 @@
+program N : w : takes s56, Gxv, c, kS, HUi0a, Bl9, rs, r9 : integer; y, b, V150a, S5, MC, p : integer returns nothing S, x2u0 : boolean; dF4 : boolean array; chillax end c : takes C : boolean array returns nothing output 395 . 4 . "2"; while 4 = 3 : let R = 4860; pop end; let k = 7; output ""; when case 6 : chillax end; pop end main : chillax end

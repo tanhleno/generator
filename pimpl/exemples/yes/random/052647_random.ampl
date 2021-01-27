@@ -1,0 +1,1 @@
+program X : A : takes l : integer; N8p0a : integer array; Hf, o, nZ7 : boolean array returns boolean gx, q : integer array; chillax end main : output - not E4 /= - true or 25 - 88 . "" . 897 /= 279 . "" . "" . 1 end

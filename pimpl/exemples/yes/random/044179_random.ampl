@@ -1,0 +1,1 @@
+program Fb : k6 : takes B : boolean array returns nothing I7, _ : boolean; chillax end main : let G[not(7) * (7) or not 1 * true and 309 or M and 7] = - (7) rem(9) < - false; do Q3g0a(not not 446 * false and 3400 >= not 9 and 2) end

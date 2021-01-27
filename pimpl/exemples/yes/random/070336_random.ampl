@@ -1,0 +1,1 @@
+program yt : main : W, vHH, K, O : integer; when case - false * N(684) / false - true + false and 7560 + 52 > true : chillax end; let U[(2) / true and 1 or(54) and 75 + 8 - 98] = array - Y6[695] + 8 and 7 or 3 - 1; pop; input s[3] end

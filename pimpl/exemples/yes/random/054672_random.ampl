@@ -1,0 +1,1 @@
+program p : L640a : takes H : integer array; J7, U : boolean array returns integer array Z670 : boolean; pop; output "" . "" . "3" . "\"" end w : takes P_6, o : boolean array returns integer chillax end main : chillax end

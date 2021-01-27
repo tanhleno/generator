@@ -1,0 +1,1 @@
+program u : M : takes Z : integer returns integer array C09, x, x50aa : boolean array; let l6[40800 - 61] = 6; input N9[258 - 12] end x_ : takes d6 : integer; i23 : integer array; G6 : boolean returns nothing input H[- 2]; input m40[3] end main : output false rem false and 0 - true and 7 = true and 6940 or 9; let J4 = array - false end

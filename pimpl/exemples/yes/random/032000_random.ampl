@@ -1,0 +1,1 @@
+program c : R : takes r460, p : integer returns integer do o(false and 5 <= - 445, 6) end main : Q, U2, N : boolean; C3, rR0 : integer array; Vf7, g1 : boolean; hv2, Y9, Y : boolean; D : boolean array; chillax end

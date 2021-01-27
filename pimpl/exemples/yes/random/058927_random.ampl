@@ -1,0 +1,1 @@
+program iXQ : l9 : takes t : integer array returns integer array oD : integer; input c; when case - 617 = 3840 : when case 1 : chillax end; when case 17 : chillax end end otherwise : while 17 : chillax end end end main : wP : boolean array; w : boolean; L1p, H, Aiya : integer array; let D0[- (56) rem 7 / KC50] = array - (96 = 5) / not not 4 + Y and not 5 and 02 or 6 end

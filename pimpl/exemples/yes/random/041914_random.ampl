@@ -1,0 +1,1 @@
+program hx : Ghoa : takes e : boolean array returns boolean array while true or 1 : let Q[40] = array 3 end end main : t : integer; while - true * false : chillax end; when case not false / true > - X and 3 : chillax end case - R > 7100 : let h = array 5 end case 7 - 6 : chillax end case 937 = 9 : input Y9; pop end case 7100 : chillax end case 1500 : chillax end end

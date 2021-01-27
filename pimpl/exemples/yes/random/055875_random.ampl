@@ -1,0 +1,1 @@
+program a : Y : takes q : integer array; m : boolean array; n : boolean array returns boolean array _ZX0 : integer array; VX3 : boolean; s : integer; dt : boolean; pop end main : k : boolean; pop end

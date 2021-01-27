@@ -1,0 +1,1 @@
+program U : main : A, Q : integer array; r0z0 : boolean; zH : boolean; _2, t : boolean array; v : integer array; LH9aa : boolean; X2 : boolean; when case - not false rem false - true or v and 7 : chillax end case(3) and h and 609 + not 52 and 43000 - 5 - 7 = - false or 7 - 4 : pop end otherwise : chillax end; do Li(- 5 or true + 6 /= - false) end

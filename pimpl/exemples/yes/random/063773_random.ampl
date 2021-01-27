@@ -1,0 +1,1 @@
+program h12 : U : takes Kw0 : integer returns nothing chillax end y3n0 : takes j : boolean array returns integer w, q : integer; when case - 907 - 9780 /= 03 : chillax end case 5 = 9 : chillax end end main : while true < - true rem(7) and 2 : chillax end; let _Co[false / false] = k0 and 2; while - (3) : chillax end; input DL end

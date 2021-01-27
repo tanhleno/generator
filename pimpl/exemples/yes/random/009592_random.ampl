@@ -1,0 +1,1 @@
+program q : S : takes neV0a, _5X, vdUa : boolean array; o39aa, bE, v, Nq : integer array returns integer array when case 1 and 67 : while 3 : pop end end end main : V2u0a : boolean; while - true rem true : pop; input V[24000] end end

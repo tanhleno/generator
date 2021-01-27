@@ -1,0 +1,1 @@
+program v82 : C : takes TjAaa : integer; h6 : integer; un50 : boolean array returns nothing chillax end main : while false rem(7) / (2) - false * (3) + w and 427 - 03 /= - false / (2) : let v7n0 = 7 = 305; do k(6, 2, 6); output 6 end end

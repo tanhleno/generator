@@ -1,0 +1,1 @@
+program qR7 : p : takes C07, I : integer; j95, e : integer returns boolean chillax end v : takes P : boolean returns nothing Ul, n5, c, q : integer array; g400 : boolean array; let j3[- 6] = array - 4 - 2; while 19 : while 44 : chillax end; pop end; while 6 : pop end end main : O6 : boolean; chillax end

@@ -1,0 +1,1 @@
+program k : C : takes Y7, X, D10 : boolean returns integer O8g : integer array; output ""; when case - 56 - 0 >= 2 : pop; pop; pop end; pop 0 end u5 : takes l44aa, b, B, M9 : boolean; V : boolean; D2Laa : integer returns integer array input VI; output "" end main : let O[not b_[0] rem not false - not true * true and 81 or false and 7] = array - true end

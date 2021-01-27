@@ -1,0 +1,1 @@
+program U : c3 : takes _pu0, j, P : integer array; B : boolean array; Lj4, z : boolean returns boolean O3B0a : integer array; while R0 < 5970 - 337 : input K2; pop; when case 4 : chillax end end; let beg[6] = array - 44 end main : y : boolean array; chillax end

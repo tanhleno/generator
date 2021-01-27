@@ -1,0 +1,1 @@
+program Y : main : L50 : boolean array; D4, P, A, DN : integer array; do O(- m80(51200, 0730)); when case - false <= 40 - 766 : while 11 : while 28 : chillax end; pop end; output "[n"; pop end case not 4 - 011 /= - 5890 - 51 : let D3 = 38 end otherwise : when case 8320 : pop end otherwise : chillax end end; output ""; let QP[- 1 - 2] = 2 = 694; output "8!" . 5 . "" end

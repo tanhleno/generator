@@ -1,0 +1,1 @@
+program Y : Q1W : takes I : integer; r : boolean array; S9 : boolean array; h8 : integer; EGxaa, A, eJU : boolean; W1h, n : integer; u7O0 : boolean; hT : boolean; A : boolean returns boolean array E, g9, q : boolean; c : integer array; Y, yeh0a, T : boolean array; pop 9 - 27800 < 5 end main : while - true and(96) * true - false >= - A / (7100) : output 70500 = 8 end end

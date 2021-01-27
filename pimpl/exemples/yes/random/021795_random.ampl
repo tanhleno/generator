@@ -1,0 +1,1 @@
+program o : f9 : takes Q, j : boolean array returns integer while - false and 3 = - 6 : chillax end; when case - 1 - 9 : chillax end otherwise : chillax end end main : H8, Mt : boolean array; do e(B >= - x[1] / c or 71400 and 079); output - v and 04 - 8 - 5 = - 64 - 51 . - 4 - 2 end

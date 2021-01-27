@@ -1,0 +1,1 @@
+program q96 : AR1aa : takes oc, W : integer; bs : integer returns boolean array dW, ys : integer; a0, mO, uC5, t : integer; input C3[- 6 and 166]; while 8 : pop end; do x(19 = 0); when case 6 : pop end end XV : takes IR : boolean returns nothing chillax end main : while - 475 and false and true and 9 - false rem not 262 and 5 + not 78 - 65 - 84 = false : chillax end end

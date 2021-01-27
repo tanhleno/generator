@@ -1,0 +1,1 @@
+program ik7 : n : takes g5, rFPaa, x29aa : integer array; O : boolean array; Kp, VhN, C, sPd0a, fIw, e : integer array; f0u : boolean array returns boolean nwF0, D : integer array; m7Y : integer array; chillax end main : i4, u, E : integer; ot : integer; J : boolean array; output "" end

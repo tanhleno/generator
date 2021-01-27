@@ -1,0 +1,1 @@
+program ywA : rB8 : takes g, k33 : integer; L, f, K : integer array; D : boolean returns integer array b4, QZ : integer; y10, c, AF : integer; a, DI8, j : boolean; chillax end main : B70 : integer; l, S0, kY4aa, n : boolean array; _ : boolean; C : boolean array; i : boolean array; q : boolean; pop; pop end

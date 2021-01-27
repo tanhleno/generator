@@ -1,0 +1,1 @@
+program R : U9 : takes b, UDd : boolean returns integer chillax end a2_a : takes yY, F : boolean returns nothing do D1(- 26 < 1) end h : takes Pb5 : integer; TJ, ZM, L : boolean array; l, s : integer returns boolean array U9kaa : boolean; chillax end main : input s65; do m(- false - not 972 - 8 > true) end

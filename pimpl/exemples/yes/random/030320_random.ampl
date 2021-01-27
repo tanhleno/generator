@@ -1,0 +1,1 @@
+program r : nq : takes I, j3Maa : integer array returns nothing chillax end main : b, o, Z, G, JP : boolean array; r : integer array; when case not H6G[137] / (43) <= (5) - false - 5 : when case - 5 : chillax end otherwise : chillax end end otherwise : chillax end end

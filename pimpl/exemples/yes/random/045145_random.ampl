@@ -1,0 +1,1 @@
+program T9 : QQ80 : takes DD4 : boolean array returns nothing pop - 749 - 7820 = 9; let S4[- 9] = array 8 end V : takes qrHa, w, R_2aa : integer returns boolean array wk, n6 : integer array; let B400a = 2250 = 6; let t4u = array 220; pop; do T8(9); do _D(5) end t : takes z5, q : integer; gHT : boolean array returns nothing chillax end main : let uM[1 or s[12]] = array 6 end

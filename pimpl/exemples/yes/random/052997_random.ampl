@@ -1,0 +1,1 @@
+program p : M8 : takes v : integer; X : integer array returns nothing U, C, _L, H3, OT : boolean; UwT0a, j, a1 : integer array; chillax end main : i, WgO0a, A : integer; I : integer; let r = 2 or true > not 244 and 34; do hI60a(- M3 <= true and 53 + 98, false + 5000 > - 08800, 4 - 9 >= 54, 53 = 0, 07, 4) end

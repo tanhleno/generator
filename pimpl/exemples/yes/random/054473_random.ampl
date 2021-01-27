@@ -1,0 +1,1 @@
+program _2 : X : takes X : integer array; t, Mb : boolean; u : integer array; W : boolean array returns nothing eA, M9, u01 : integer; chillax end r4 : takes P1, l, x : boolean returns integer array while 8 - 616 : chillax end end B1 : takes P1V0a : boolean returns nothing O : integer array; N : boolean; chillax end main : do l3(- PId0a(94) rem(4) >= - 8590 and true) end

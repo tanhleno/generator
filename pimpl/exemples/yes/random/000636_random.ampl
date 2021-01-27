@@ -1,0 +1,1 @@
+program VB00 : v : takes l, ZXY0, b, n, Ubb0a, G, b : boolean array; E76, y : boolean; TyPaa : boolean array; n5 : boolean array; R : boolean array; N, h4, BFv : integer array returns integer array chillax end main : let kP4aa[- 2 or B(2)] = (539) * not 0 and 4 = 2; do V7(- true * Vj) end

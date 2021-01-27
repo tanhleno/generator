@@ -1,0 +1,1 @@
+program T : E : takes F8Z, j : boolean array returns boolean k, l, z, Bg : boolean array; input p end Y : takes IGX, Z230a, c, H9 : boolean; MdM, t, p : boolean returns integer vV40a : integer; c7 : integer array; DuB0, npM : boolean; D9 : boolean; lx2a : boolean; chillax end main : tT10, z7caa : boolean array; Wn, Y8O, xN : integer array; I, F9, R : boolean; chillax end

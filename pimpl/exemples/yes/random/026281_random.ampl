@@ -1,0 +1,1 @@
+program O1 : Yc : takes Q, Pm : integer; jLS0 : boolean array returns integer do a(not 9 or 379 - 71 >= 3 - 0, - 0010 - 2 <= 2); let D = 994 = 6; let V[72] = 1; let d3[9] = array 51; pop; when case 8 : chillax end end Y3X0 : takes Ch, h : integer returns integer do r(10 - 8 = 5) end main : r, d, S, e, f, C, Hh : integer array; v5, C, aVA, ra2, c990 : integer array; input N end

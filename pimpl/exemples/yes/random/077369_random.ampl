@@ -1,0 +1,1 @@
+program D : main : v, Evn : integer array; w4, Zr : boolean array; while true rem 7 and(9) and 5 or false rem true and 93 : while 65900 = 82 : chillax end; do C(3 = 53, 4, 1); let G6[9] = array 41 end; while - not false : while 9 = 54 : chillax end end; let D = 5 <= 84 end

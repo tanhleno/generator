@@ -1,0 +1,1 @@
+program Q : MR : takes gL, o48a, Nu3, Cy8 : integer array returns boolean array PDI, GL : integer; g : boolean array; i, z : boolean array; A, E7S0a : boolean; i5 : boolean; output 0 end q1 : takes vBY : integer array returns nothing input U; do k(7 = 6, 21, 103); do H(0430, 064); while 2740 : chillax end end main : chillax end

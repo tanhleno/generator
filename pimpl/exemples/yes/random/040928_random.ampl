@@ -1,0 +1,1 @@
+program Q5 : Y52 : takes Q : boolean array; V : integer array; A : integer array returns boolean array i : boolean; input nw5[- true and 82 or 90 - 13] end main : T : integer array; Q : integer array; pI5, U4, P : boolean array; u : integer; chillax end

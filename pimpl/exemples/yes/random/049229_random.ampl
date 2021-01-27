@@ -1,0 +1,1 @@
+program N : MW : takes n : boolean returns nothing while true or 9 - 344 <= 17 - 8 : do _33(6, 402) end; when case 3 : chillax end otherwise : while 26000 : chillax end; pop end end K100 : takes R20aa : boolean array returns nothing O : integer; s, x, TF70 : integer; p7, Fn9aa : boolean; y : boolean; f : boolean; chillax end main : chillax end

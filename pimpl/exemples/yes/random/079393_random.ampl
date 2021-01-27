@@ -1,0 +1,1 @@
+program P3 : main : p9 : boolean; G : boolean array; a : boolean; when case 93 and HF[76] and not 4 and 6 >= - q9(4) or 44 : chillax end case - z730a or true and 49 + 7 - 6 < not 0190 : chillax end case(89) - 882 < - 54 : let H76[918] = array 1; let t4 = 87000 end case - 897 >= 7 : chillax end case 08 : input qlsa; pop end case 39 : pop end end

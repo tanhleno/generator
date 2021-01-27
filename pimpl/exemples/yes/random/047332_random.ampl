@@ -1,0 +1,1 @@
+program n : bVU : takes j : boolean returns integer when case(8) and 9 - 0 = 9 - 72700 : chillax end case 657 = 99 : do Y(0) end end main : Ikx, jMbaa : integer array; while w4[13] and true - false rem false - not 7 and 1 or 239 - 40 > - false * not 62 - false and 65 : chillax end end

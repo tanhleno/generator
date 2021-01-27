@@ -1,0 +1,1 @@
+program U : PT : takes W : integer array returns nothing a : integer; while(12) - 9 - 679 : do J(1) end end m : takes R : integer; Ee, IA : boolean array returns nothing X6 : integer array; b : integer; chillax end main : G32, C, b : boolean array; W : integer array; pop - not A - false and 15 - 780 - 9 > 0390; pop - (8) or 3 = - 871 - 6 end

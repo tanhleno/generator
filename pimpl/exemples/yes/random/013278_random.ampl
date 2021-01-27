@@ -1,0 +1,1 @@
+program J7 : y : takes NtK, Y, W900a : integer; S : boolean returns boolean array when case false : pop; do t(4550) end case - 1 < 55 : output ""; input _lK end case 1790 = 5 : chillax end case 45 : chillax end case 6 : chillax end; do _7(- 5 < 8, 83 = 51) end main : eh00, L : boolean; chillax end

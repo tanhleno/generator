@@ -1,0 +1,1 @@
+program Sz : Bz : takes L : integer; Ptw, Dw, i37 : integer returns boolean output "1m" . "\n9!a" . 32000 . "[0" end main : g, mj, rw : boolean array; F, d2, N37 : integer; I, _, Ri : integer; chillax end

@@ -1,0 +1,1 @@
+program d : Pt : takes c0o0, C, X, cC9a : integer; gm6aa, L6_ : integer; GE : integer returns integer k, Zj, s, F : integer; input r1[- 727]; output 60000 = 6 end main : X : integer array; o : boolean; chillax end

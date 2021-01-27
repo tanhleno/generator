@@ -1,0 +1,1 @@
+program eZa : LG4 : takes f, tu : boolean array; GLl : integer array; tv8aa, c : boolean; mw, O5, L : integer returns nothing a81, u : boolean array; B1 : boolean; Z : integer; e_3a, R : boolean; input D[true]; do x17(- 6, 5 = 153) end main : J, O46 : integer array; i0, Hj, d : boolean; f1 : integer; c, M, p0Z0, KrP : boolean array; input _420a end

@@ -1,0 +1,1 @@
+program dI : _ : takes G78 : boolean; _ : boolean array; R : integer array returns nothing w : boolean; u : integer array; L, C : integer; e : boolean; chillax end main : a27aa, L3a : boolean; pop; do u(- true / 52 and 465 - Kv80a = arx and 83 + 9); input I end

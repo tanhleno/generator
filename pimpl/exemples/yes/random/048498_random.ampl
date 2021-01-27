@@ -1,0 +1,1 @@
+program u4g0a : H : takes F2c0a : boolean returns nothing z61 : boolean array; z, uG : boolean array; c1, z4 : boolean array; let E4[- v2p] = - 33 - 8 = 4 end wP : takes k, Mh, m : integer array; ml, f, w050a, Zz, d, H270a : integer returns integer array d3_0 : integer; V, c0iaa, k1d : boolean array; input S; pop 72; while 0 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program N : M : takes S, a : integer array returns boolean array input M[7 and 4 + 3] end Y : takes l, KT7, j9 : boolean returns integer array chillax end main : when case - not not bZ0 : chillax end case false - not 6 and 1 : output 7590; pop 39; input l end case - (695) - 952 - 3 : chillax end end

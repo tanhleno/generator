@@ -1,0 +1,1 @@
+program a8 : d : takes Nf : integer array; r3, U6n0a : boolean array; fh7 : integer returns integer input ahD; output ""; while 371 : output "V"; pop end end oC5 : takes V : integer returns integer chillax end main : q : boolean array; Q5, o : boolean; W : integer; chillax end

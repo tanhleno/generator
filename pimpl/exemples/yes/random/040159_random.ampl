@@ -1,0 +1,1 @@
+program ZA : aa4 : takes E : boolean array; Gl70 : boolean array returns nothing sn, XG, k200a : integer array; ZS, m0Faa, m0, p : boolean; t : boolean; v9haa, x : boolean; chillax end main : when case(7 = 56) : chillax end otherwise : chillax end end

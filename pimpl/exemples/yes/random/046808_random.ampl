@@ -1,0 +1,1 @@
+program usY0a : B4 : takes P : boolean returns integer array let Y[n and 2510 - 82700] = array - true end main : f7 : boolean array; H7Faa, _8, g8 : boolean; zo : boolean; _, W, O : boolean; input u end

@@ -1,0 +1,1 @@
+program eSK : h : takes _ : integer returns nothing G : boolean array; output 39 < 07700; output "" . "6" . 55 end od : takes Wj5 : boolean; C : boolean; o7, Z, sq : boolean; q, f : integer returns integer L, m : integer array; xO, PK : integer; zs40a, z : boolean; chillax end main : chillax end

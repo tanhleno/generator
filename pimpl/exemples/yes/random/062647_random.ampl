@@ -1,0 +1,1 @@
+program f : XjT : takes H : integer returns boolean pop end uN : takes g : boolean; e, N1A0a : integer returns boolean chillax end v1 : takes N : boolean array; l4 : boolean; f2 : integer array returns nothing N21, s, n : boolean; while 0 : do CG(13) end; let G = 98; while 67900 : chillax end end main : chillax end

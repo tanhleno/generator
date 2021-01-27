@@ -1,0 +1,1 @@
+program F : H5 : takes aR4 : boolean; d : boolean; l : boolean array; q : integer array returns nothing A : boolean; q, m : boolean; F, b7F0 : integer; chillax end main : input q[- not W[6] + not(451)]; output - not 80 and 4 or 04 - 7 end

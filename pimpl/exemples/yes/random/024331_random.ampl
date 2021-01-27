@@ -1,0 +1,1 @@
+program p8 : xdC0 : takes p, p4 : boolean returns nothing q, eF7aa : integer; B670, f4q, r6 : integer; n : boolean array; sj, sXK0 : boolean; E : boolean; when case - 9360 and 2 : chillax end case - 66 = 33 : while 0 : chillax end end otherwise : chillax end end main : pop end

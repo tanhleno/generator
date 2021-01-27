@@ -1,0 +1,1 @@
+program s : main : while j[8] * pX2 > - B5(0) - 2 and 3 : chillax end; while mIx[348] * 2080 and 544 /= - false and 8 or 05 - 76 : while 96200 = 3 : pop; pop end; when case 79 : chillax end otherwise : chillax end; pop end; pop - 5 end

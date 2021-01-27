@@ -1,0 +1,1 @@
+program Dt : E : takes wdf0a : boolean array returns integer array chillax end U : takes q : boolean; nwr, S89, YW : boolean; a3 : boolean returns boolean array output 626 end main : while - not not(202) = 2 - Q : pop 7 end end

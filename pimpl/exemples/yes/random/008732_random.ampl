@@ -1,0 +1,1 @@
+program e7t : vA : takes m22, GOFa, R1 : boolean; N, Y86 : boolean array; R : boolean; Wo8, A, W : integer; I, zxea : boolean array; t6 : integer; O, O2 : boolean; O : boolean returns integer do J(true and 803 = - 9); output "15"; output 49; let W9[06000] = 68 end main : S8M, p, c, A : boolean; chillax end

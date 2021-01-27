@@ -1,0 +1,1 @@
+program C : main : h, V7 : boolean array; O, r : integer; do El(- (8380) rem(86) <= - true / 5450 and 6); while - not false / true : chillax end; input J6; when case - 7 - 64 : when case 6 : chillax end; pop; pop end; while 9030 = 54 : chillax end; output "" end

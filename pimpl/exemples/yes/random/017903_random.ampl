@@ -1,0 +1,1 @@
+program X23 : _5Saa : takes A, _G : boolean; LL : boolean array returns integer tr, A : integer array; t7, s, r53, U : boolean; qm, Z, u : integer array; Qx : boolean; chillax end main : Aw : boolean array; let g7Aaa[- 93 - false - not 41000 and 6 + 07 - 3] = - _ and false + false or 0 - 44 end

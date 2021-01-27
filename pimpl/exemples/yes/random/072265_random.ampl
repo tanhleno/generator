@@ -1,0 +1,1 @@
+program K : main : N, n82aa, N : integer; p160a : boolean array; oP : integer array; I1I, l, e6, A : integer; uZ5 : integer; while(07) - false and true and 368 = - p and 9 : while 8 = 0 : chillax end end end

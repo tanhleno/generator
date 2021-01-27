@@ -1,0 +1,1 @@
+program q : kM70a : takes Wv, OQK : boolean returns nothing do k(9 + 5 - 901 = - 6) end hF : takes s : integer; I9qa, k : integer array; aD : boolean returns boolean E07a, X, HCraa : boolean array; let S5[- 4 - 71] = array 37000 end main : W : integer array; while - 0 : chillax end; output "" . "" end

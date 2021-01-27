@@ -1,0 +1,1 @@
+program y97 : yB3 : takes W54, cS : boolean array; RB : boolean; _O, F : integer returns nothing let j[(720) and 15 - 4980] = array - not 76 and 5 or 043; do b(- 4 = 531, 7 = 9); pop 1; pop end c : takes D87, A, v74 : integer array returns nothing chillax end main : Y, u : integer array; let Zk = array - true + BG50[98400] * not 630 and 64 or true end

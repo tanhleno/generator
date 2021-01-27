@@ -1,0 +1,1 @@
+program G : z : takes v : boolean array; B2e : boolean array returns nothing let iEWa = - 09000 > 86; do Wk(- 9, 3 = 4, 73, 8); when case 778 = 9 : chillax end otherwise : chillax end end main : output "&O" end

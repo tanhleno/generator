@@ -1,0 +1,1 @@
+program c : main : t3 : integer array; output(4) or(85) and 9 . "~" . "" . "\t" . 0; when case - true /= true and 71100 : chillax end case - true + 4 - 826 < - 724 - 75600 : while 5 : chillax end end end

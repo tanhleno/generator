@@ -1,0 +1,1 @@
+program X : main : let sJ[nl60a[3] and 4] = r42 * 089 and 04 = 1 and 4; when case 00 + h2 and 0 = - true + 7 : chillax end case - (3) + 4 - 46 : chillax end case - 1 < 78 : let S = 7; let m = 61; pop end case 2 = 94900 : output ""; pop end otherwise : do Z(9) end; do Y(- 1 and 6 or 71 >= - 8, 9, 057); pop; while 6 = 71 : chillax end; input K; output "("; input x25 end

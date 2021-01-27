@@ -1,0 +1,1 @@
+program Q4 : main : Y : integer; Il : integer array; when case false and false * 2 and 7 + 7 - false and 5 or 85 : output 28; pop end case false rem 1 > false and 1 - 74 : chillax end case 8 = 8470 : chillax end case 32 : chillax end case 7 = 68900 : output ""; pop end otherwise : chillax end; while - true rem false : chillax end; pop - 3 end

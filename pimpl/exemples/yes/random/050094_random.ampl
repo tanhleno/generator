@@ -1,0 +1,1 @@
+program TFI0a : W11 : takes _c : integer; Z6, qV50, L7 : integer array; u, y, tF : integer array returns integer array chillax end main : O : boolean array; output "\t" . "" . - 9 >= 5 . "\n\t!a" . 6; while not CR6 or false and 73400 < - true : pop 31; output 87900 . ""; pop end; do J0Taa(- Q - 854 - 4610, - 9 - 05); input W9D0 end

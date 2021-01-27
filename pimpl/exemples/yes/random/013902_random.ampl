@@ -1,0 +1,1 @@
+program U73 : _ : takes rG, SB, v5 : integer array; F, pG6 : boolean array; r, KV : boolean array; m4 : boolean array returns integer array t, e3 : integer array; chillax end Ka4 : takes NW : integer returns boolean let I[057] = array 608 - 903; while 9 : chillax end; pop 3; output "'" end main : output true; do MD(- true); output - 92 - 1; let c = 8 end

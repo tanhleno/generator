@@ -1,0 +1,1 @@
+program j : jX : takes Q560a, wkX0a : boolean; B6, v : boolean returns boolean array o : integer; PD, J, OP2 : integer array; chillax end L : takes OY7, o, E6x0a, RZ, o : boolean; e9Saa, T9 : integer array returns nothing while 8 - 14 : chillax end; input S7saa end main : while - 0 <= 1 : while 8 - 96 : chillax end end end

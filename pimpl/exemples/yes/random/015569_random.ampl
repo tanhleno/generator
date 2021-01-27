@@ -1,0 +1,1 @@
+program mv7aa : PY2aa : takes r, y, F : integer array returns nothing output - 91 - 1 end E2Ya : takes Ds6a, X3 : integer; JLI0 : boolean array returns nothing chillax end main : yD, thl : boolean array; WQ, E, eR : boolean array; do F(28 / kk[1820] or(5) >= (2) - true + 6) end

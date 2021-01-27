@@ -1,0 +1,1 @@
+program GJ7a : _cM0 : takes Mqc0 : boolean array; i, k1, Ap9, eGS : boolean array returns boolean K0p0a, xJ : integer array; pop 2 - 4 end Z : takes oIj0a : integer array; q : boolean array; o8va, hR : boolean array returns boolean chillax end main : input Ftw; input L[false]; do r2d(- 9) end

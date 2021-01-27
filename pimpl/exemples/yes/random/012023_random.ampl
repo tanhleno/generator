@@ -1,0 +1,1 @@
+program RD : L : takes H, q, vF20a : boolean returns integer while - (12) and 37 : chillax end end j4 : takes l, T : boolean; X0Uaa, J, A3 : boolean returns integer J4, w, A92 : boolean array; let Q = array 840 - 9; pop 9 end Z : takes H : boolean array returns integer input l; pop 1 end main : chillax end

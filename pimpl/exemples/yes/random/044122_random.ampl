@@ -1,0 +1,1 @@
+program h8 : U9 : takes ic9 : boolean array returns nothing o_, X, I : integer; F : boolean array; D : integer array; chillax end main : Mp2a : integer array; let w = (5) or R and 9 > true and 5 or 63; while false and not 514 and 40 >= - false - 4 : chillax end end

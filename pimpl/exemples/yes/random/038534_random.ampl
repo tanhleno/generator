@@ -1,0 +1,1 @@
+program hn : K : takes L : boolean array; cF6a, O09 : boolean; T : boolean array returns boolean chillax end main : while not 511 rem not false : while 8 >= 03 : output "" end; pop; do j(9450, 00); pop; output "2"; pop end; while - (369) - 92 and 90 = true and 17 : chillax end; when case - false and 6 or 2 : chillax end case - 7100 <= 4 : chillax end end

@@ -1,0 +1,1 @@
+program p6 : o5 : takes vl90a : boolean returns boolean array z, V : boolean array; chillax end main : K83, y5, _V, z8U : integer; while - (3 = 90) and(5) - r9F(0) > not not 88 and not 5 + not 00 and 59 - 96 - 5 : chillax end end

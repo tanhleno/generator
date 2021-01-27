@@ -1,0 +1,1 @@
+program t6 : k69 : takes q, F6, TK : boolean returns nothing TH : integer; r, i, m : boolean; chillax end main : output false and 54 and 1 - E and 9400; output "09" . "e"; pop 90 /= 1; while 327 - 95 : do N5k(35) end; when case 0 = 551 : do Q(51) end; while 09 : pop end end

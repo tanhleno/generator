@@ -1,0 +1,1 @@
+program Ff40a : ZTM0a : takes w, F, x, e6 : boolean returns nothing O : integer; PLt0, m, A7Z : integer; e0, hh : boolean; output 6 . 5 . ""; let p32[- 25] = 48 = 55; do d(403, 993, 6) end P : takes I, k : boolean array; m6, N0, S, Wa, W3, s : integer; w08, zGIaa, C, F, l_H : integer; i, X, Q1 : boolean returns integer m, f, XMva : boolean array; chillax end main : chillax end

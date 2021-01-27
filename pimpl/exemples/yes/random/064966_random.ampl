@@ -1,0 +1,1 @@
+program q35 : Ou50 : takes V : integer returns nothing z11 : integer; m, B : integer array; let SOA[- false and 05] = array false and 691 end v1 : takes egk, HO : boolean array returns boolean u : boolean; chillax end main : c, E6, Rz : integer; chillax end

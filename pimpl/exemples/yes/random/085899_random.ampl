@@ -1,0 +1,1 @@
+program _ : main : V : integer array; WVx, z8, Wh : integer array; sY30a, DyRaa, O : boolean array; when case - false : chillax end case(754) / 0910 + false + 8 >= 9 or 97 - 7450 : chillax end case z and 58 or 8 - 53700 : chillax end case 5 - 6 >= 9 : chillax end otherwise : let R[58600] = 0; do A(3, 447) end; while y660 : chillax end end

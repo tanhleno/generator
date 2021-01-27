@@ -1,0 +1,1 @@
+program X : RkN : takes q, s5 : boolean array; cP10, ff, J : boolean; m, o, a, n88, bZ7, Lv : boolean array; a7 : integer returns nothing V, O3, E, p : integer array; chillax end main : y : boolean; F : integer; v, g : integer; do F((3) < - true, A(31) rem 87 + not 50 and 2860 < 1 and 7, true and 835 - 0 > - 2 - 4, 5 - 32, 3, 0) end

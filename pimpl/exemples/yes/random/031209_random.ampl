@@ -1,0 +1,1 @@
+program Dp : gm2aa : takes d, c : integer returns boolean array chillax end main : E9, g1X, q : boolean; S : boolean; do d(- (2 = 6)); input N6[- f[1]]; output "6m\""; let Mk = array 2; pop 54; pop end

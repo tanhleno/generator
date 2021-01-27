@@ -1,0 +1,1 @@
+program U : j : takes mz : integer returns integer array m, g2q : boolean array; d9 : integer array; input M[96700 + 84 - 21] end D6 : takes w6 : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program tE0aa : N : takes fK : boolean array; D, g25aa : integer array; q : integer returns nothing eW : integer array; c : boolean array; pop - 8 - 546 = 65 end AI : takes C2, Ll, q : integer returns integer array BI, Mg : boolean array; k, _, m : boolean; do Dqj(8); do Kg7(838) end main : input wAPaa[E[7] + w]; pop - true = 9 end

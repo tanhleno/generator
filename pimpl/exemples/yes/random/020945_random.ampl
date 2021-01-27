@@ -1,0 +1,1 @@
+program m1y0a : D : takes f8I0, y4 : boolean array returns boolean array c : integer array; chillax end main : M, r : boolean; Y9O : boolean array; let z[6 * (7) * (77) or(1)] = array not true + 2 + (56) and 8 - 36 - 3530; output "n" end

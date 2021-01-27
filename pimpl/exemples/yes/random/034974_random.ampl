@@ -1,0 +1,1 @@
+program IM : M3 : takes c4 : boolean; p, f : integer array; Y4 : boolean returns integer array g, n, t : integer; chillax end N130a : takes OT, Y, i : integer array returns nothing B8 : integer; chillax end T : takes D3 : boolean returns nothing chillax end main : when case(1) and true and(4) and 272 : input R3 end otherwise : output ""; pop; pop; pop; pop end end

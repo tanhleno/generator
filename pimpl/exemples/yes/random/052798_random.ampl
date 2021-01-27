@@ -1,0 +1,1 @@
+program by : b : takes i : integer; zCA0 : integer array; k : integer; B7 : integer array returns integer chillax end r : takes c65 : integer array returns boolean array let E = 6 = 89; do s5(3 = 5, 9, 304); input d[37700]; do Ac8(54800) end ju2 : takes R2, G1, Xb8a : boolean; O1i : boolean returns nothing input p[4060] end main : chillax end

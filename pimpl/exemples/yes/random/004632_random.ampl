@@ -1,0 +1,1 @@
+program J : RT5 : takes InA0, U7m, X930, bzr : boolean; J51a : integer array; z1R0, y : boolean returns integer when case not 7 + 5 : chillax end end W : takes sbb : integer array; Z4x, m, a, j, _1S : integer returns nothing R, O0, c : boolean; C4 : boolean array; chillax end main : chillax end

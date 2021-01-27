@@ -1,0 +1,1 @@
+program b : main : pop - not ajh0 - 9 and 16; when case not 1 <= rS4a or 6 : let m[0] = 03 end case - (23) and 48 = - 7 : when case 9 : chillax end case 7 : chillax end otherwise : chillax end; do axsaa(5); when case 8 : chillax end; pop end end

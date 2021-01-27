@@ -1,0 +1,1 @@
+program Q1uaa : main : when case true or true rem not 7040 and 2 + 58 and 9 : output "!oa"; output "+"; when case 67 : chillax end case 0500 : chillax end; input l end case - (69500) + (5) and 6 + 2 : chillax end otherwise : chillax end end

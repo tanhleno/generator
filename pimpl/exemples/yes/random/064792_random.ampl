@@ -1,0 +1,1 @@
+program G : B : takes U1 : integer returns nothing mB70a : boolean array; chillax end main : when case not(8) or L[6] : while - 5 : output "o}" end end otherwise : chillax end; while V[300] : chillax end end

@@ -1,0 +1,1 @@
+program b : M1 : takes YW20a, p4, _ : integer array returns boolean array chillax end main : J : boolean array; while - not(14) and f3[6] / true and 68 > not true : input xP[- 98]; when case 91 = 1 : chillax end end end

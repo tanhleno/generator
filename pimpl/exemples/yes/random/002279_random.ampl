@@ -1,0 +1,1 @@
+program J8 : O6Oaa : takes ZO_0, i4z0a, g4, _, i : boolean; c1 : boolean array returns integer g, G : integer array; pop; input B; while 5 : while 77 : chillax end; pop end; output 03 . "i6\""; output "" end main : S : integer array; g1, N4 : integer array; g : integer array; chillax end

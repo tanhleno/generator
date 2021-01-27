@@ -1,0 +1,1 @@
+program C : zds0 : takes y5 : boolean array; T9k, O, m, Ep, Ih2aa, Q : boolean array returns integer q03 : integer; input J; when case 0 - 41400 : input Q; output ""; pop end case 1 : chillax end otherwise : input Y3 end end main : chillax end

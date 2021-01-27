@@ -1,0 +1,1 @@
+program a3 : D : takes xdf0, B14a : boolean array; z : integer; e : integer array returns nothing when case - 1 and 7 /= 75 - 04 : chillax end end main : pop - false + q4 < not 4 and 8290; do u(- false - 7 /= - true and 1) end

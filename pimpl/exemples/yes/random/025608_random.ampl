@@ -1,0 +1,1 @@
+program fB : G6 : takes L, V : integer; h80, g : boolean array returns nothing input G; do n1ba(78, 9); output ""; pop; let m = 0; let LH2 = 63 end main : kj, h, DZ : boolean; U, F, N : boolean array; chillax end

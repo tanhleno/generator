@@ -1,0 +1,1 @@
+program T : N0ra : takes U, HML : boolean array; K, WJ : integer array; R : boolean; C, bC : boolean; b, tOs, Eu6 : integer returns integer array chillax end W : takes W6q : boolean returns boolean array chillax end main : QE : boolean; F2v0 : boolean; input M8[- false rem 9] end

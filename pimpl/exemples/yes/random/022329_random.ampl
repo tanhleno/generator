@@ -1,0 +1,1 @@
+program S : bD : takes wTpa, V : boolean array returns nothing H7, x3 : integer; when case true + 0 - 09700 : chillax end case 13 - 5 = 5 : let lWJ = 2; when case 5 : chillax end; pop end case 6 = 151 : pop; pop end; input e54[- 5]; input SuBa[6510]; output 51 . "0+"; pop; output "" end main : chillax end

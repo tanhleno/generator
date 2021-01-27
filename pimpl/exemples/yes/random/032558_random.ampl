@@ -1,0 +1,1 @@
+program y9 : lqM0 : takes U4, H01 : integer returns nothing x, s, Y : integer; Ia9, K : integer array; while - false - 6 - 3 >= 0 - 2 : chillax end; let Cg = array - 8; while 103 : pop end; pop 39 end main : chillax end

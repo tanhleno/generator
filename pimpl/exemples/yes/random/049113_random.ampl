@@ -1,0 +1,1 @@
+program u : L : takes Q : boolean returns nothing when case - Fw8 and 209 : chillax end case 6 < 3 : chillax end case 8 : pop end case 28900 : chillax end; input U end WAD : takes E, w : integer returns integer array input W[- 755] end main : pop true and aOz0a < - (99) end

@@ -1,0 +1,1 @@
+program WLw : Ai : takes Q8, ZA : boolean array; P7 : integer array; F, F : integer returns nothing chillax end U : takes O, R : boolean returns boolean array chillax end main : PS1, s, tv, VG, B, _D : integer; j5S, Q : boolean array; V : integer; input Y[- false + Na / not 6790] end

@@ -1,0 +1,1 @@
+program q : NRK : takes S22 : boolean array; j_ : integer array; n : integer array returns nothing chillax end j8 : takes U : integer returns nothing r7_0, uFN : boolean array; chillax end main : let N[(9260 = 28) * not v] = array hX9 and not true; do B9(- not f0 / true and 77 /= - true, - 6 and 937 > 215 - 9) end

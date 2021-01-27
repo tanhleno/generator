@@ -1,0 +1,1 @@
+program g : I : takes ZB80a, U : boolean array returns integer DP2, M : integer; L, d : boolean; input q9[- true - 2]; input I[7] end XR5 : takes LI, pR20a : boolean array returns nothing k8, k : integer; pop end main : _J : integer array; o, Tc5, z060a : boolean; L_2a : integer; u : boolean; do daF0a(true or true + not 31 and 30 + 7840) end

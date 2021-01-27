@@ -1,0 +1,1 @@
+program Lc8 : main : T, f : integer; P42, H : integer array; v, D, kA : boolean array; let mNuaa[- 9 * (46) or false] = BN(1) >= - s or 47800 - 3; let M = - true + 8 - 72; do Ul(- not 3 and 9 - 13600, 67 - 4 > 64, 085) end

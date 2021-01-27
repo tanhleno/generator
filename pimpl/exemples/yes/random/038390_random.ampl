@@ -1,0 +1,1 @@
+program tOa : v0Z : takes vI : boolean array; h, P, o : integer returns boolean D8, rG, VK, a95, m : boolean array; y : integer; chillax end main : output "\t<" . - false . "" . "" . "g" . "" . "3"; input JFta[false] end

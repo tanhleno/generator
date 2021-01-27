@@ -1,0 +1,1 @@
+program Q : main : GP : boolean; when case not not r : chillax end case true / (7) and 1 - not 21000 or 20400 : output 2; do v(3, 1); output "" end case - not 5 and 888 : input k[78] end otherwise : input x end end

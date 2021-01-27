@@ -1,0 +1,1 @@
+program C : cs : takes Uek0a, O2 : boolean; rlT, pOmaa : boolean array returns boolean array while false : chillax end end main : w, ct0a, D, _, e, b : boolean; do r(true / not not 5, Q2 / _ >= - false and 5 + 845, - not 70700 and 09700, - 745 - 67 <= 0, 30 = 9); output "" . - 66 - 80 . 5 . "" end

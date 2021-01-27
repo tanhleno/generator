@@ -1,0 +1,1 @@
+program ia : E9v0a : takes sW6 : integer returns nothing d : boolean; ed : integer; k, w : boolean array; when case true and 835 - 0 - 180 > 97 - 73 : output "\n" . "\"" end case - 08 : when case 0 : chillax end end otherwise : let yLD = 5 end end K : takes l, z, Td, Q : integer returns boolean array i, r : integer; chillax end main : chillax end

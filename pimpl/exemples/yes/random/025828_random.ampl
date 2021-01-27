@@ -1,0 +1,1 @@
+program A : Tp5 : takes kWs, u : integer; b1, F : integer array; j : integer array; g : integer; x, E, U, H : integer array returns integer array chillax end nF : takes p : integer array; d3, E4, o : integer array returns nothing output 09 = 680 . 9 end main : c : boolean; chillax end

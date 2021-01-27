@@ -1,0 +1,1 @@
+program y : b : takes Y, g : integer returns nothing let kw[not 171 and 7] = array(0) end wx : takes U5N0 : boolean array; Ok : boolean array; h, U2 : boolean array returns nothing chillax end H2 : takes w : boolean returns nothing do _rYaa(9); output 52 end h : takes qS5, JL4aa, oJD : integer returns nothing f : boolean; while 6 : chillax end end main : chillax end

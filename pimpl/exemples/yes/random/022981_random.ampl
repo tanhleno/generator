@@ -1,0 +1,1 @@
+program yY : zR : takes L, i : boolean returns boolean array a5, q : integer array; let s0 = 6 - 83600; do y(48 - 9); input NJi[8]; when case 35 : chillax end otherwise : chillax end; while 77 : chillax end end main : a, Wa, j : boolean; while not(4) / 77 - false > not z rem 8 and 985 or true and 9 : let I7 = 00 end; do HA(A rem(218) <= (4) or 71 - 88); pop end

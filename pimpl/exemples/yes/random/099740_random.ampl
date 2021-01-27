@@ -1,0 +1,1 @@
+program U46a : main : while 101 >= - (18900) / false and 0 - not 201 - 3 - 7 : when case 8240 - 93 <= 73 : chillax end; do QB(6, 47, 5); output "\n" . "#" end; when case - false - 8 : chillax end otherwise : chillax end end

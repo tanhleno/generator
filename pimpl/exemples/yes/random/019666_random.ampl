@@ -1,0 +1,1 @@
+program mO : T : takes zg6aa, q1 : boolean array; eb : boolean; d, h5_, Gf0 : boolean array; I : boolean array; l, Z, cz : boolean array returns boolean array input bWE[- true and 84] end main : pop - (7) / not 52 end

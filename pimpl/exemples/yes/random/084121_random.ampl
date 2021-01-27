@@ -1,0 +1,1 @@
+program u : main : Q : integer; cn : boolean array; g : boolean; a0, C : integer; Rj, J, K36a : boolean; Q9, x : boolean; I7 : boolean; let s = - not q4 or true or 25 >= - ph3 - 423; output 647 and 914 . ""; when case _Q : while 1 : chillax end end otherwise : pop; output "?"; pop end end

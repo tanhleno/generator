@@ -1,0 +1,1 @@
+program l3u : Q : takes U, C, Z, a4Xa : boolean array; B : boolean array; z58, x : integer array; d85, d3 : boolean returns boolean array when case false and 991 + 2570 - 8 : chillax end case - 61 - 9 : while 06 : chillax end; let n9e0 = 8 end case 95 = 8 : pop; pop end case 28 : chillax end case 8 : chillax end otherwise : chillax end end main : pop end

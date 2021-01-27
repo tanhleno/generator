@@ -1,0 +1,1 @@
+program kx : Y : takes o, w : integer; n4 : boolean array; IDV, K8X : boolean; isI0 : integer returns boolean input Kk5 end main : while 5 rem J(3) * (60) and 6 or false / true : chillax end; while - p4[9] rem(4) + 4 and 0070 - 80 : chillax end; while not 79 and 44 : chillax end; output 87000 = 6 end

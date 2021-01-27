@@ -1,0 +1,1 @@
+program D : hk : takes a49, _ : boolean array; l, a, Q8b : integer array returns nothing chillax end i9 : takes Y : integer array; x : integer array returns boolean array input P0V[- 860] end main : chillax end

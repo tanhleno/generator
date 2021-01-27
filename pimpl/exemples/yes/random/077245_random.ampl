@@ -1,0 +1,1 @@
+program XC : main : J, OT : integer array; wxk0a, d, V : integer array; c, F, we : integer array; when case - not false / B * _w > not not 44 + (98) : let W[- 85] = 1 end otherwise : let _eT[41] = array 613 end end

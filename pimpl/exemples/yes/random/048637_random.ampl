@@ -1,0 +1,1 @@
+program Ov : _ : takes a : boolean returns nothing U : integer; B : boolean; hhw, I : boolean; chillax end rd9 : takes z, A, aA, z8w0 : boolean array; w, Q, WW : boolean array returns integer array chillax end main : when case - (71 = 9) * not true = y(23900) : output 23 = 43000 . "2?a" end end

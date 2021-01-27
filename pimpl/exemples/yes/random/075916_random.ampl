@@ -1,0 +1,1 @@
+program CV0a : main : X4, C : integer; d3, g5, b9m, k : boolean array; while(5 = 67) rem(0) or 650 : input Q[- 9 - 2] end; when case not(99) or H1 and 104 + 8 < - 5 and 498 : let o = array 7; let b[1380] = array 8; when case 1990 : chillax end end; input O; let E = 9 = 63; while 7 = 6 : let in3 = 435; pop end; do i(7970, 3) end

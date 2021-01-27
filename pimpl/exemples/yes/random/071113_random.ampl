@@ -1,0 +1,1 @@
+program u : main : u, T, A3t : boolean; W3G : integer array; t : boolean; t : integer array; do w(not false or 97 and true = false * true - Q5 and 49, 0 rem 8760 < - not 434 and 90, - not 43 and 6 - 96 - 26, - 2 <= 30) end

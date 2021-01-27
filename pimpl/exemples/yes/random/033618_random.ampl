@@ -1,0 +1,1 @@
+program wo8 : r13 : takes om8a : boolean; P3, n, g220, L : integer; C20 : boolean array returns nothing let Q[- false] = 0410 - 60; pop 78 = 5 end main : u : integer array; A : boolean; p, c : integer; do twm(false and true and false and 5 = true + false and 286, - (33) and(1) - (53) or 2900 - 43 < true - 0) end

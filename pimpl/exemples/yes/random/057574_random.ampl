@@ -1,0 +1,1 @@
+program N : n : takes x150a : integer array returns boolean array chillax end _c : takes et80a, guoa, B22 : boolean returns boolean array chillax end main : qo, x : integer; i, UV7 : boolean; output ""; pop - U; do tTL0a(not 8660); input fd end

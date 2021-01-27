@@ -1,0 +1,1 @@
+program H2m0a : g : takes Qe, FJZ : integer; D : boolean; UV, b : boolean array returns nothing chillax end Y : takes P04 : integer array returns integer array q74 : boolean array; MG : boolean; output "P" end main : w1 : integer; U : integer; hX : integer; C1 : boolean array; chillax end

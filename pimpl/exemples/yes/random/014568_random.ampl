@@ -1,0 +1,1 @@
+program q4l0a : Ybg0a : takes EF, e, S : integer array; J6_ : integer array returns nothing while - false + 6 - 2 : do t(8, 9); output "o"; do c4(74200) end end t : takes WS, y : boolean array; q66a, d : boolean returns integer array F : integer array; chillax end main : WM6, YB, U : boolean array; chillax end

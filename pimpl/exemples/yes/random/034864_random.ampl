@@ -1,0 +1,1 @@
+program A : O : takes J : boolean; N6, k13 : integer array; x8, N, UN5, Y, o0, Z : boolean; kY6 : integer returns boolean array chillax end main : while not not true - Y6[70000] >= 6300 : chillax end; while not not 037 or(19400) - 72 - 3 <= - false : pop end end

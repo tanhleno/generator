@@ -1,0 +1,1 @@
+program p : main : m3pa : integer; o, A1, s5, f : integer array; let o3ea = - 0 or hAGa /= - false and 89; output "d\""; while - (2) + 0 : chillax end; let ri = 67 = 518; when case 3 = 18 : chillax end case 72 : pop end case 0 : chillax end; while 105 : chillax end; pop end

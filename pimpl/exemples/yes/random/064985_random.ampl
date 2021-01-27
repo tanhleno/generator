@@ -1,0 +1,1 @@
+program I : m : takes a : integer returns nothing l : integer; M900 : integer; chillax end E : takes i, H : boolean array; A63 : integer array; S, q41, J : boolean; C2j0a, i3 : integer array; G0Y, H : boolean returns integer array W, E0s0a, E, qi : boolean array; chillax end main : It : integer array; let b[- not not true and 7720 / (6) or true / (2) or false + 8] = not w end

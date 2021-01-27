@@ -1,0 +1,1 @@
+program IY : a : takes N : integer; s7g : boolean array returns integer chillax end l : takes v, _, q, I65 : boolean returns nothing while - 6 : output "\t"; let u = 08; pop end end main : chillax end

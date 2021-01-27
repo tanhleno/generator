@@ -1,0 +1,1 @@
+program aP : F_haa : takes iI6 : boolean array; ZAM, IY : boolean array returns nothing chillax end E : takes l5, u : boolean array returns boolean array while 4 - 48 <= 47 : do z70(49700); pop; pop end end HH2 : takes R, Y, T : boolean array returns nothing K99 : integer array; input dFO0[2]; do p(4); do G(2) end main : d2, O_40, s : boolean; let e = - true - false and 5 end

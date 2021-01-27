@@ -1,0 +1,1 @@
+program x : gL60a : takes I : integer; qd, U8, Y, p, C : boolean; Q, WC6a : boolean; Do, h6 : integer array returns boolean chillax end main : N, A9S0 : boolean; DD8aa, H : integer array; GS, a, wCo : boolean; W, y, vot0a : boolean array; S9 : boolean array; output(1) = - 294 + 316 . not 3 and 9 - 84 end

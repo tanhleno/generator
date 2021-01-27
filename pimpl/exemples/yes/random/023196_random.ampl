@@ -1,0 +1,1 @@
+program YN10 : w02aa : takes a9Z0, t : boolean returns boolean J4, H, M : integer; GSK0, BC, o6F, s5Ma : boolean; a0, V36, uz : boolean array; J4, c2e : boolean; let l6[81 - 5 - 9] = - 4 - 1 = 2 end r5 : takes jP, K3m, T64 : boolean array returns nothing g2Vaa, uG, We : boolean; teK0, c : integer array; chillax end main : pop; output "\"" . "" end

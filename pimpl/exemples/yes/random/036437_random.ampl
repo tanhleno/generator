@@ -1,0 +1,1 @@
+program f15a : Y : takes U5K0a : boolean; G450a : integer; NN, g, M : integer returns boolean chillax end hQ : takes wu : integer array; g : integer array; nY2 : integer array; zu, B, V : integer array returns nothing c, G4 : integer; output "" end main : GG : integer array; chillax end

@@ -1,0 +1,1 @@
+program f8 : c : takes g3T : integer array; O, bw, Y, s : boolean array returns boolean G, pb, J5V0 : boolean array; jf, bw00, a820a, E : integer; E, pv, O : integer; input y end i : takes r, Tbf : integer returns nothing chillax end main : chillax end

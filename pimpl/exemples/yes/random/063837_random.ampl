@@ -1,0 +1,1 @@
+program cV : d : takes G : integer returns nothing chillax end Nc : takes n : integer array returns nothing chillax end yhS : takes j32 : boolean array returns nothing input K[6]; do q3(79, 1) end main : U1 : integer array; a8B, u, l, R, tL, C3 : integer array; chillax end

@@ -1,0 +1,1 @@
+program B4 : a : takes rh, F9 : boolean array; w7x, H, I : boolean returns nothing GJ : boolean array; a31 : boolean array; pop 7 = 4 end main : pop; let h[- 0 / false and 14 + true + 6] = - not 63 or 79 end

@@ -1,0 +1,1 @@
+program Mq : k : takes f, I, i : integer returns boolean array chillax end main : when case - true >= - true - not 259 : when case 6 : chillax end otherwise : chillax end end otherwise : chillax end; while true : chillax end; while - true and 94300 : chillax end; pop 93 = 95200; do e100a(21, 7); output 7 . ""; while 3 : chillax end end

@@ -1,0 +1,1 @@
+program X : os : takes ix40, g, nP4, h : boolean array; K9, cT50 : integer array; Z : integer; qr : boolean returns boolean array output "" end main : t : boolean; V, m960a, f, a, T6, Y : integer array; T120a : boolean; k, Gf : integer array; chillax end

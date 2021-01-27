@@ -1,0 +1,1 @@
+program ee8 : w : takes u2V, D290a : integer returns nothing JEb : integer array; chillax end main : SU9aa : boolean; C2I : boolean array; p6 : boolean; T7 : integer; do F(false - (8) / not 35300 and 80 < - (4), (380) and V + not 26 = - 17 and 9 - 655, true and 3); while true + true and 4 < - false : pop; while 7820 : chillax end end end

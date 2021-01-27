@@ -1,0 +1,1 @@
+program l : xr : takes d, i7, E : integer returns nothing pop - 17000 /= 96 end main : input V5[(9) + true rem true and 93 - l and 580 or 3]; when case - true rem true + false and 51 - 8 : chillax end otherwise : output "\n"; do U(4); pop end; input g_; pop; pop end

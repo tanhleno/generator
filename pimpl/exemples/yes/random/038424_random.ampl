@@ -1,0 +1,1 @@
+program Tnu : ttU : takes P : boolean array; bR, x, E : integer returns nothing rlK, D, Z : integer array; wX3 : boolean; w, F : integer; input _B[- s]; output "" . "" . 44600 . "" end main : N5, O, k : integer array; pop not e / 84 and 38 end

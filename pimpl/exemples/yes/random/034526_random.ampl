@@ -1,0 +1,1 @@
+program t4 : n : takes q29 : boolean; e, u690a : boolean array returns integer array input h; output 35 . "\\\n"; input V[32] end i : takes LK : boolean array; L86 : integer array returns integer chillax end main : xz0a, m : integer; L, l : integer array; input i[false + H83aa[06] - Q and 5 + 261 - 804] end

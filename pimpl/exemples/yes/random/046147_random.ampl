@@ -1,0 +1,1 @@
+program a7 : o5 : takes nZo0 : boolean returns boolean cr, rA : integer; r9U : boolean; fU : boolean; chillax end LMca : takes Pw, c : boolean returns boolean chillax end main : output CeB[54100] / true - not 5 - 3 >= - false and 33; input _ end

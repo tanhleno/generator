@@ -1,0 +1,1 @@
+program P : main : H, eLe, lc30, vl3aa, u : boolean array; K : integer array; while T(1, 26) and true and false >= not f rem false + not 26 or 061 - 6 : when case 0240 - 08 : let c = 7; while 9 : chillax end; pop end case 9 = 9 : chillax end; while 1 : chillax end; do U(06) end end

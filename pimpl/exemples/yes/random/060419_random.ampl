@@ -1,0 +1,1 @@
+program g : O91 : takes c : integer array returns nothing k, tC, chra : integer array; Iby0a, K, qU : integer array; U5 : integer; h : boolean; while true + 38 - 2020 > - 9 : chillax end end PU3a : takes PG7, C : integer array returns boolean a6V0a, F900a : integer array; ER : boolean array; qqB : boolean; output 2; pop 3; pop end main : chillax end

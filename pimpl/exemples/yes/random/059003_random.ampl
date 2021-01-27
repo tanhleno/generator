@@ -1,0 +1,1 @@
+program R : l7 : takes tVn0 : integer array returns integer array output "/" . 51 . 54 end j3 : takes ay_, X : boolean array; N0, q : boolean array returns nothing while - 34 < 728 : chillax end; output 7 . "4"; output 4 . "*X0" end K : takes l, _4 : boolean returns integer chillax end main : while not false and g * (599) and 4 : chillax end end

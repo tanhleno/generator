@@ -1,0 +1,1 @@
+program OEn : y30 : takes C9 : integer array returns nothing do c(not 9 and 3 >= 1 - 82) end main : when case - 4 : chillax end case a4(2) rem false + true or 0 - 9910 < 5 and 1 + 1 : output "" end case true and 6 or 9 >= 1100 : pop; output "" end otherwise : output "" . "" end; let e[- true * (8)] = array - i4r end

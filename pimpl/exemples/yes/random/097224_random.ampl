@@ -1,0 +1,1 @@
+program P54aa : main : when case not not true + false * true < - (7) rem true - 2 : while 2 < 8 : when case 91 : chillax end; when case 0 : chillax end end; let y9[727] = 0 end case - _4[80] : chillax end otherwise : pop 06 end end

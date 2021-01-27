@@ -1,0 +1,1 @@
+program X0x : Bmb0 : takes O, J : boolean returns nothing H, X, Vi9a : boolean array; k4 : boolean; L8 : boolean array; let e[true] = array - not 8380 + 09 end main : output "" . - (1) and 44 or 2820 - 9 >= 3 - 7 . "" end

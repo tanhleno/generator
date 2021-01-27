@@ -1,0 +1,1 @@
+program XB : nc : takes g, X94, r5 : integer; k4 : integer; Q, W470 : boolean array; j4, j : integer returns nothing input K42[- (0) and 3 or 10 - 9]; do N(- 369 - 2260); while 2 = 1 : chillax end; while 06 : chillax end; input r77aa end main : chillax end

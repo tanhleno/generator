@@ -1,0 +1,1 @@
+program U : Z6 : takes I, B15aa : integer; i : boolean array returns nothing eyw0 : integer; when case - false - 39 - 6 : chillax end otherwise : input s end; when case - 4 - 15 > 8 : while 19 : chillax end end end main : output "" . ""; input K[- false * G] end

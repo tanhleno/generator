@@ -1,0 +1,1 @@
+program h : t : takes f : boolean array returns integer array BKy, yHnaa, y : integer; chillax end main : P1X : integer; m41aa, p25 : boolean; z : boolean; D080a, Tio, x : boolean array; output - 23 < true and 0; let Q[not not 92] = i3 - 4 end

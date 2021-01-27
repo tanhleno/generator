@@ -1,0 +1,1 @@
+program e : p_ : takes J, D9, nn, D, z, I1y : boolean array returns nothing chillax end Iv : takes GJ, Rit, UU : boolean array; Fy, _i : boolean; A : boolean; P, qgC0, sZ : boolean array returns nothing p5B : integer array; j : boolean; chillax end main : when case - not Q700a >= not not 07 or not 513 : while - 0 <= 9 : chillax end end case - true and 8 : chillax end end

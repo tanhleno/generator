@@ -1,0 +1,1 @@
+program z6ra : w : takes L : boolean returns nothing i0, sU6a, bM7aa : integer array; do n(not 6 and 358 + 405, 243 > 0); do U(- 43 - 7210, 8 = 98, 1); pop end main : while not not(763) = - 302 * (21) : chillax end end

@@ -1,0 +1,1 @@
+program iq_ : J : takes GL10a, S500, g3, Ko, OC : integer returns nothing chillax end main : while 6300 + (6) / fn and 145 : chillax end; do O(not false / l <= - false); let a = array true - 85 - 9; pop end

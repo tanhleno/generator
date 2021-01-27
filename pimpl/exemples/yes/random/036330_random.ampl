@@ -1,0 +1,1 @@
+program Kb : A : takes S : boolean; L : boolean returns nothing P : boolean array; J : integer array; chillax end zNC : takes F : boolean returns nothing _3, KxL, C : integer array; input A; while 0 = 36 : chillax end end main : chillax end

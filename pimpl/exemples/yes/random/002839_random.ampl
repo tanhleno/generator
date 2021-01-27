@@ -1,0 +1,1 @@
+program G : m : takes Vi, I, i, nF, t2D : boolean array returns nothing N : integer; m : boolean array; chillax end iS3a : takes Z, M : integer returns nothing chillax end S4 : takes G : boolean returns nothing R, C6, K : integer; oz : boolean; while 5 : chillax end end main : chillax end

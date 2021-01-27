@@ -1,0 +1,1 @@
+program O : k : takes l8va : boolean returns boolean chillax end main : w, MP7 : integer; D : boolean array; output "" . - not 37 and 179 = 49; output "@4!a" . - 3 - 02000 /= 540; let F6X[false] = 1 - 3; pop end

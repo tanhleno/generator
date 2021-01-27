@@ -1,0 +1,1 @@
+program Vt : idF0 : takes Fq, tG1 : integer array; S : boolean; B : integer returns integer while not 0 : let E2n = array 96400 end end Wi : takes v_, Xi : integer array returns nothing o, L : boolean array; chillax end main : g8S, Gg, A, l69 : integer array; pop; when case - iL[735] and false : do L2(1) end; input i[- true and 3] end

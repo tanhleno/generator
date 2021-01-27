@@ -1,0 +1,1 @@
+program a : k700a : takes HF : integer array returns nothing A, D : integer array; chillax end S : takes hs, jz : integer array; tEP0, L, M : integer returns nothing a, d0, N : boolean array; chillax end L : takes YX : boolean array returns nothing pop 7; pop 8; while 788 : chillax end end main : wH, Q, f, x8c0, _8, u, hc : integer; VcJ : integer; chillax end

@@ -1,0 +1,1 @@
+program P : V : takes Gi6 : boolean array; S5i : integer array; C, c : integer array; y, JR, p : integer array returns integer array Y7, C, Q : integer; l, u, B : integer; chillax end main : iw : integer; P8, ny, p : integer; output "r" . "" end

@@ -1,0 +1,1 @@
+program t : R : takes S3_aa, Ugz, l : boolean array; g3, Z7, c : boolean array; F, T, V95, ZJY0a : integer; S : boolean array returns integer z, it4 : boolean; B7 : integer; TnY : integer array; chillax end main : chillax end

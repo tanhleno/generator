@@ -1,0 +1,1 @@
+program v : f : takes QS : integer returns nothing input n[28 and 58 or 78]; when case 1 >= 90 : chillax end case 87500 : do F(6); pop end otherwise : chillax end; while 6 : chillax end; when case 123 : pop end case 0 : chillax end; output "J" end main : p, D : integer array; pop; pop - false and 31 = - 9 end

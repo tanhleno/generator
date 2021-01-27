@@ -1,0 +1,1 @@
+program NOqa : rZ : takes Oj : boolean array returns nothing d900a : integer; B32, R : integer array; let NT = array - true and 0; while - 57800 - 3 : chillax end; output 7 . ""; while 7 : pop end end main : n1, o : integer; let e = false or not 2 and 9 end

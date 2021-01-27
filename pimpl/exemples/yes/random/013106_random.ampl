@@ -1,0 +1,1 @@
+program v : j5 : takes i, O, tR : integer; Es : boolean; P : boolean; Q, V : integer array returns nothing let Z[- ZW - 23 - 4] = 65 >= 3340 end U : takes i6 : integer returns integer array ImK : integer array; pop 3 = 6150; input Q5[9]; output 1 end BY : takes ac, _ : boolean; ae : integer; l : boolean returns nothing output "8#"; input q end main : chillax end

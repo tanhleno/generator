@@ -1,0 +1,1 @@
+program c : N : takes n, g, CH, z2, I, nX : boolean array returns integer array chillax end X : takes v : boolean; Pyy, t : boolean returns integer output 28 = 26; do Jbs(35 = 1, 76) end main : L, g : integer; while AZ : output "" end end

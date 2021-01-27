@@ -1,0 +1,1 @@
+program L8n : uK : takes S6 : boolean returns integer array e3 : boolean; when case true and 82 = - 9 : chillax end case 22 <= 7 : when case 1 : chillax end; while 6 : chillax end end case 6510 = 8 : chillax end case 5 : pop end end main : Y, Z80a, c7, w22 : boolean array; chillax end

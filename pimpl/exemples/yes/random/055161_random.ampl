@@ -1,0 +1,1 @@
+program T : T : takes i5 : integer array; r, o : integer array; r : integer returns boolean chillax end Q : takes dqq : boolean; w4, B : integer array; E, Y, j, p6t0a : boolean returns boolean chillax end main : input n; while - (09700) and u + true and 5 : chillax end end

@@ -1,0 +1,1 @@
+program bNz : main : when case - (39000) : when case - 399 - 7 : chillax end case 493 : while 3 : chillax end end otherwise : while 09 : chillax end end end case not true * o and 28900 + (45) and 89 + 14600 >= true and 2 : while 0410 : when case 57 : chillax end; pop end end case - true and 6 : when case 8 : pop end; pop; pop; pop end case - 1 <= 59 : chillax end end

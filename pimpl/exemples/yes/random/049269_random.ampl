@@ -1,0 +1,1 @@
+program O : s : takes F8 : integer; c, k2w, hm6, d6, Y400a, U, s8Taa : integer array; m, Vt, I : integer returns nothing while - true or 1 - 25 < 7 - 20 : chillax end; pop; do e01(14) end main : pop not _ * (7) /= - true; pop false > 4650 - 83900; let D[true and 79 or 2 - 523] = array - (4) and 5 end

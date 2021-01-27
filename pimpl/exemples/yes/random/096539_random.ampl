@@ -1,0 +1,1 @@
+program J0 : main : when case - true * (5) <= p(86) : chillax end; while - (28300) + not 3 and 97 or 89 - 50 : pop; input g; pop; do ve(37) end; while - false and 148 - 8 <= 705 : while 55 : pop end; when case 08 : chillax end; when case 5010 : chillax end end end

@@ -1,0 +1,1 @@
+program o : I : takes e4, K, Vo : boolean array returns boolean P, d, i, Q0, y : integer array; l, j, cAd : integer array; pop; while 9 - 91 : output ""; when case 50 : chillax end; pop end end XH : takes s650a : boolean; q : integer returns nothing while - 55 - 8 : do iY2(6); while 3 : chillax end; pop end end main : chillax end

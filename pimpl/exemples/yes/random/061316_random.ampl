@@ -1,0 +1,1 @@
+program TW40a : eW0aa : takes G9 : integer array returns nothing let Zn[- false - 46] = array - L end bZ6 : takes I58, J, t : integer array; A2t : integer returns nothing P9J, m, k530a, r : integer; Q : boolean array; Q, rz : boolean; c : boolean; do L(- 5360 - 3 > 0, 5, 520) end main : M : boolean array; yv : boolean; chillax end

@@ -1,0 +1,1 @@
+program g : F : takes g, Di0, Ne : boolean array returns nothing _ : boolean; let T = array - (9) end main : do UZ(- 4 * not not 8 rem not 62 and 079 or(307) and 89000 or p and 18700); pop not 6 and 24 - 70900 - 02400 = 89100; let XM = 5930 < 055 end

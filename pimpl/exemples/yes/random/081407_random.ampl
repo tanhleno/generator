@@ -1,0 +1,1 @@
+program b : main : C : boolean array; iu, h1U : integer; output - not(98400) rem not 84800 + false or 0 - 61 >= - true and 3 . - not 69300 + 1 - 56600 <= 18 - 84100; let Y36a[(1) / x] = - true and 9 or 41200 - 63 <= 09 - 6; input u end

@@ -1,0 +1,1 @@
+program ZG : pc8 : takes D35 : boolean; L : integer; R : boolean array returns nothing input O; let v = 44 end main : when case not n(5) * sI / z and 13 or C / c and 1 + true + 3 - 996 : chillax end; let y = 9 and 48 or 14 - 651 end

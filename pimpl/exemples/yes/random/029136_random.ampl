@@ -1,0 +1,1 @@
+program c7sa : JJ : takes e, p8Wa : integer array; d00aa : integer returns nothing chillax end h : takes J : boolean array returns nothing F : boolean array; B, W : integer; let I = 5; while 7 : chillax end; pop; input k; while 41 : chillax end; pop end main : w0H, WGE : integer; D4, d : integer; c, d : integer; do U(- not true or not not 31 rem 6 and 2 or true + 4) end

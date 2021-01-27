@@ -1,0 +1,1 @@
+program A2 : g : takes w3D : boolean array returns nothing while - true and 95 + 7 - 2 <= 5 : let _2[3] = array 1; input L end; pop end JB : takes Z, S19 : integer array returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program B3g : L : takes J8Oaa, R : boolean returns nothing input I0[(139)]; do H(- 33800 /= 0, 51 = 6, 7230) end main : when case - not true and false rem true and 25 - B or 3 and 8 or 0 : chillax end case true / true - not 7 and 4 - 20 - 559 <= - not 1280 and 57 - 2 : chillax end case - (6000) and 2 : pop; when case 02100 : chillax end end end

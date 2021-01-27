@@ -1,0 +1,1 @@
+program q0 : main : l : boolean array; JK2a, SX, c : boolean; hu : boolean; mb, rNI0a : integer; while - false / KD(1) rem false and 3 or(10) : do g(7); do T(18); do E(2, 3); pop; output "1\\!"; pop end; output - g or 7320 - 28; do h((1) < - 3 - 82) end

@@ -1,0 +1,1 @@
+program Q : O : takes b6raa : boolean; u890, sq : integer; bM : integer returns boolean Y : integer; when case false : do QK(6, 93) end otherwise : input H; input _ end; when case - 22 - 95 >= 82 : chillax end otherwise : do v(466) end; do q(3 = 2, 15); while 38200 : pop end; when case 9 : chillax end end main : chillax end

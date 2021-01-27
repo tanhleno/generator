@@ -1,0 +1,1 @@
+program yz1 : C3Va : takes O7 : boolean array; U : boolean returns nothing while false and 7 : when case 58 : pop end otherwise : chillax end end end main : Y, V0, m : integer array; T5 : boolean; Hkn, z, c2R0a, Wd, J : boolean array; fw : integer; o3, Zk : integer array; PFn0, NTOaa : boolean; output - (460) rem false = true; do n(p2(1) + true or 256 - 4) end

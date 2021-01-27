@@ -1,0 +1,1 @@
+program L3 : h : takes k, ch : boolean returns integer M : integer; ji1, r7, q5, N39a : boolean array; chillax end d : takes QSU0a : integer returns nothing let Y64[3 - 1830] = 3 end main : when case 0 >= - X[1260] / (72) and 12 : chillax end otherwise : do M(3); while 3 : chillax end; when case 57 : chillax end end end

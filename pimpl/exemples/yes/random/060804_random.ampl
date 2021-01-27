@@ -1,0 +1,1 @@
+program c300a : W : takes JQ : integer array returns nothing d : boolean; iHu0a : integer array; j7M, b6 : integer; p : boolean; v24aa : boolean; t8 : boolean; chillax end main : do mkb(- true - _(13) or(756)); when case - p < (01) + 359 : chillax end; do Y(false + 19 - 1 > 62 - 1, - 1 - 26500 <= 7, 6 = 02, 4); output "\\=" . 8 end

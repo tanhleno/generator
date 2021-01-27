@@ -1,0 +1,1 @@
+program p : W2 : takes c : integer array returns boolean lKn0a : integer; while true and 468 - 88 : pop end; let x = array - 83 end G : takes Q : integer returns nothing s, d1, ZR, bR : integer array; LD : boolean array; _, Z30a : boolean; eJ : boolean; chillax end h9r0a : takes R : integer array returns integer array chillax end main : chillax end

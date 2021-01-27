@@ -1,0 +1,1 @@
+program lP : main : v, Xajaa, Q, m, f, z : integer; pop; when case true - g7 : output 89 . 4 . "}"; when case 29 : pop end case 914 : chillax end end; output "" . 98 = 9 . "" . ""; let T = 52 = 487; do F(98700 = 51) end

@@ -1,0 +1,1 @@
+program k1 : L : takes J2, wG0aa : boolean array returns nothing while not 4 and 9 : chillax end; do PM(- 4 > 0, 6 = 4); while 64 = 2 : chillax end; when case 7 : chillax end case 7 : chillax end; input s5; let f = 45 end C : takes A : boolean returns integer let t[- 3 - 7] = array 9 - 2 end main : let y[- n5I0a] = array true or(15) - (3) or 12900 - 248 end

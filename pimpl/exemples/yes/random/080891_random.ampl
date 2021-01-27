@@ -1,0 +1,1 @@
+program o : main : A4Z : boolean array; Uz, Q, R, Y76aa : boolean; while y3[5] and true and true and 5 - false rem a9 and 26 + (3) and 2 + 00 : chillax end; do mz(3 / v and 628 > - false and 840 - 4 - 3) end

@@ -1,0 +1,1 @@
+program YKW : kL : takes m2 : integer; r, OM : boolean array returns boolean when case - false and 2 > - 83 - 9 : chillax end; let Q8[6 - 3] = 28; do z8I(48 = 1); let k0T0 = array 371; output "" end main : pop end

@@ -1,0 +1,1 @@
+program P1 : p : takes b, lK0, wi0 : boolean array returns integer array pop - 3 - 1; do D(6 - 0); let z[5] = 88 end main : pop; do o8(- (8) + G, - not 98 and 52, - 5 - 2); do v(5, - 95 - 59 > 5) end

@@ -1,0 +1,1 @@
+program L8 : e : takes L, KC : boolean array; A3, C : integer returns boolean H4, z : integer array; M, Z2A : boolean array; pop; output 3 = 9 . "" end main : AET : integer; when case - 8 - true + 7 and 199 + 2 : input Q[- 2]; input j[5]; input E83 end end

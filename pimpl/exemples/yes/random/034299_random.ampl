@@ -1,0 +1,1 @@
+program d45 : UI : takes t6 : boolean; YO70a, Qh : boolean; r60aa : boolean array returns boolean chillax end main : while - J(2) + false - 2 and 0 < not(7) : output 88 = 599; do bX(7); output "-" . "" end end

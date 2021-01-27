@@ -1,0 +1,1 @@
+program zE : HK : takes A, A2, o9 : integer returns nothing let hR_ = 70 - 6 < 2 end main : r, C, IId0a : integer; let b = - e - true >= 5 and 6; input E[true and 8]; when case - not 1 - 10 - 7 /= - 055 : let ha = 2 end case - 1 : let Fg = 1; when case 616 : chillax end; pop end case 2 : chillax end case 7 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program _P : t8 : takes Fy, Uq : integer; xCPa, I : integer returns integer array Sr60a, y02, d6 : boolean array; when case - not 92 - 44 - 70 /= - 7 - 7 : while 005 : pop end; pop end end main : J0, I, l5, f : boolean; k : integer; j8p0 : boolean array; chillax end

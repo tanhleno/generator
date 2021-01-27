@@ -1,0 +1,1 @@
+program F0Q : s : takes Q4, a45a, i : integer; E : integer array; w, d : integer array; E6, G18 : boolean array returns nothing cs, c5B : integer; pf : boolean array; G, N : integer array; output "9" . "" end main : chillax end

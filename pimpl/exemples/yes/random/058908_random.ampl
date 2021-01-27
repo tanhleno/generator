@@ -1,0 +1,1 @@
+program Y : E : takes F : integer array returns integer array _ : integer; M, K3, N, I : integer array; do K8Q(- not 5, - 169 - 65300 = 3) end main : output(23) + true and 49300 or 9 . "l\t!" . 45 - 375 < 26800; output "7" . - 0 end

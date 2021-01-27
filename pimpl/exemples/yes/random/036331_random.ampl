@@ -1,0 +1,1 @@
+program H1i : G : takes f : boolean; b3raa : boolean returns nothing v2S : boolean array; pop end main : X, M490, u, zNB, xq4aa : boolean; do b(- not 6 / false - false or 14 and 3060 + 7); while true /= (31) and 27 - 1 : when case 33200 : chillax end otherwise : pop end; pop 1; input t end; while 54 <= - 6120 : input C end end

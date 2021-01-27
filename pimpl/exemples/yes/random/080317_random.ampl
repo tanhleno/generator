@@ -1,0 +1,1 @@
+program M : main : F15a : boolean; when case(099) / not not 7 / (62) and 057 + false rem(4) and 496 > (2) - false and 54 or 9 - 225 : chillax end; input P71a; output - 4 - 9 . ")" . 9; while - 201 - 9 : chillax end end

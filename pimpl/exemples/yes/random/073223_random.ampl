@@ -1,0 +1,1 @@
+program phB : main : d, O1, as : integer array; while false and(66) rem true : let b = array 6 - 64 end; when case tfk and not 4 + false and 5 - 2 >= - false : while 8 = 71 : chillax end end case 02 and 0 - 58 >= - 6 : chillax end case 57500 > 4 : output "\"" end case 85 = 029 : pop; pop end case 246 : chillax end end

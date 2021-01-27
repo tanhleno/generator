@@ -1,0 +1,1 @@
+program R0 : F : takes d780 : boolean array returns nothing output 1 > 1 end BA : takes r : integer array returns nothing input o[2]; input F[9]; do O(93900) end main : q : integer; do d(13 rem true); do q(- 0, - not 013 and 9 >= - 9 - 0, - 86 - 2 > 972, 0) end

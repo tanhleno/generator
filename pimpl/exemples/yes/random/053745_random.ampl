@@ -1,0 +1,1 @@
+program _ : x98 : takes c3 : integer array; w, u, E, w : boolean returns nothing jx3 : integer; K, Uc, TZ2, G : boolean; e8, Gu, L2p : boolean; chillax end main : let Q71aa = array(1 = 95) and r[46] * 37300 or(1) - not 7; output "\tr!a" . "\t\n\""; do skiaa(- false + 02600, - 0 - 74200, 6040 = 9, 1); input f3 end

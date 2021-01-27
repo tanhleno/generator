@@ -1,0 +1,1 @@
+program p : q5 : takes K3, b8Ra, o8, t65 : boolean returns boolean chillax end Io : takes Ok8 : integer; x, V, T, d7 : integer array; u3Y0a : integer returns boolean c07a : boolean; input tFraa end main : chillax end

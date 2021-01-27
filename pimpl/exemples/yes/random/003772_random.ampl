@@ -1,0 +1,1 @@
+program gW : oMu : takes O, Py, U, n2w, x : integer array returns integer i, qO : boolean array; Fd, G2L0, G92aa : boolean array; F1 : boolean; chillax end s : takes i : boolean array; s : boolean returns integer _ : integer; chillax end L8 : takes u : integer array returns nothing chillax end main : output "" end

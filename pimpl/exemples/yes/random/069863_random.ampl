@@ -1,0 +1,1 @@
+program g5 : main : Y, VkZ0, C0, q210 : boolean array; Cj8 : boolean array; R, G, z, H3 : boolean; W2, Q, KY : boolean; y4vaa : integer array; lr : boolean; k : boolean; when case - not not(96800) >= - (6) or false + 0 : pop 4 = 7 end case - 29 : do L(27300, 11) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program s : G : takes OJ8, R : boolean array returns integer do m40a((83), - 35 - 1 = 98, 4) end c : takes F, n : integer array; X : integer returns integer array Oc, w, O, I : boolean array; output "2" end Xg : takes K6, j : boolean; tn : integer array returns nothing do T(6, 11); input d2[7] end main : H, G, R : integer; chillax end

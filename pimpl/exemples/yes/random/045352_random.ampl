@@ -1,0 +1,1 @@
+program Mx : op : takes _ : boolean array returns nothing while Ff and 26 - 4 : chillax end; while 5 > 8190 : let mBN = 93800 end; output "(\\aa" end main : N : boolean; Q : integer; F, n3, uu, L8, R2 : boolean array; P200, iSIa : integer; WCD0 : boolean array; PP : boolean; v : boolean; y : boolean; input p[- E(19, 30500) - not true and true - false and 19] end

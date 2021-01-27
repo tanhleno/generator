@@ -1,0 +1,1 @@
+program e7 : V : takes x : integer returns integer input q; pop 244 = 2 end Q : takes o, jQ, t6, mTt : integer array returns nothing R : boolean array; J7, td, Y0 : boolean array; chillax end jOA : takes z, f, K, R, XE : integer array returns integer array when case 21 = 5 : input V end; output 9 . "\t"; pop; when case 43 : chillax end end main : output - false and(0) end

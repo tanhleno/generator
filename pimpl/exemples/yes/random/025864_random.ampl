@@ -1,0 +1,1 @@
+program N : c6 : takes E, m : integer; b, y380a : integer array returns integer while - not 4 or 2 : when case 5 : pop end otherwise : chillax end; pop end; do UIw(52 - 462) end main : do e(- true * Bi = true) end

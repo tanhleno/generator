@@ -1,0 +1,1 @@
+program E47 : P : takes wv : boolean array returns integer array chillax end B : takes a, Y330a, qD, j9, c1U0a : integer array; H, L, q, f : integer; i87, E4 : integer returns boolean array Ka, wau : boolean; Q : boolean array; b_Gaa, q : boolean; vs : boolean; v9 : boolean; chillax end main : chillax end

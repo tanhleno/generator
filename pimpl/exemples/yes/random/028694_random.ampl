@@ -1,0 +1,1 @@
+program N : ws : takes O, V2 : integer array; K : integer; _43, B : integer; t : boolean returns nothing do rG(- false and 52 <= - 540) end f : takes cR5 : boolean; e72 : boolean returns nothing Am, U : integer; input A end main : chillax end

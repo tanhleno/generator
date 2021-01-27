@@ -1,0 +1,1 @@
+program O : S6e : takes gpo, k, Z : integer; rwp, V : integer; T48, I, XP : integer array; OgT : integer; C : boolean returns nothing t35, d, At2, _ : boolean; d : integer; I : integer; s, r : boolean; while - not 8 : pop; while 015 : chillax end; while 21700 : chillax end end end main : output "%Taa"; let Z[false] = array true end

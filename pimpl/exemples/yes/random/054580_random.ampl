@@ -1,0 +1,1 @@
+program j : w : takes t5 : integer array; H430a, y3S : boolean array; Y : boolean returns integer Wq, C26, g : boolean array; e5 : boolean; output 8 - 4 . 034 = 44; while - 9 : let i = 6; pop; pop end; output "" . "" end main : chillax end

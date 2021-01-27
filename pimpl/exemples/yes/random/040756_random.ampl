@@ -1,0 +1,1 @@
+program CO : J : takes B : boolean array; j7 : integer array; MaD, t, S : boolean; HCg, D, H7, t, L8 : integer array returns boolean array let pr = array - true and 4780 end main : XA6 : boolean array; chillax end

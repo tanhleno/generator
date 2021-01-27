@@ -1,0 +1,1 @@
+program r : r65 : takes z, BJ : integer array returns nothing Z4, k : integer array; chillax end main : while - not true < - true - (1) and 95 : chillax end; while 9 and(28) - not 9 and 966 : output "" . 3 . ""; let K[4] = 1; input n3; input aJ8a end; pop 1 /= 822; while - 2420 - 8 <= 65 : chillax end; output 63 . 967 . ""; pop end

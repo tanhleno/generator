@@ -1,0 +1,1 @@
+program Tmuaa : Y : takes s9 : integer array; AT, f, Q : boolean array; olT, C, I : boolean array; V : boolean; CF, nLR, r9, BH : integer; R2N0a, haS : boolean array; o9e, E9p0a : boolean; d : boolean returns boolean g : integer; chillax end main : pop end

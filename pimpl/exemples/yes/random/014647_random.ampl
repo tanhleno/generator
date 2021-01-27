@@ -1,0 +1,1 @@
+program D5 : V_z : takes MY0, _, CD : integer array returns boolean array chillax end pW6a : takes l : boolean returns integer array Fm : integer; s2, M, mk : boolean; u : boolean; do b5W(4 - 1, 3, 3630); while 64 : while 5 : chillax end end end main : input Ea9 end

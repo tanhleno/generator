@@ -1,0 +1,1 @@
+program Q : vO9 : takes SB6 : boolean returns boolean array hm, YM, e, r : integer; H, JC, FH : boolean array; xb8 : boolean array; output 80 /= 1 . "\t" end main : A : boolean; pop; do uRRaa(- F[61] - not 4 or 26900 - 7 <= 8 and 73) end

@@ -1,0 +1,1 @@
+program S : gX80a : takes X4, q690a : boolean array; G6 : integer returns nothing W : integer; FcP : integer array; r, g : integer array; K, oS : boolean; p : boolean; chillax end main : output "" . - 9 . 21 - 91 >= 64 . 9 = 757; pop end

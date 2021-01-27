@@ -1,0 +1,1 @@
+program u : main : BM, Yn, O : integer; wy0a, P3w, c, O, Q : integer; z, d8 : integer array; pop true / (3) and 95 - true and 0 - 76 /= - not 7800 - 27; input Z[- true - false - 75000]; input Z4[Zp] end

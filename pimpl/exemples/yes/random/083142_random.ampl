@@ -1,0 +1,1 @@
+program a : main : oE3 : integer; A, T, l, o, b : boolean; I, ql1, R, Z, q9z : integer; r, U : integer; Q : integer array; pZkaa : boolean; P : boolean; let c = k630a(53900) > - (9) or 828 - 30; let y = array a[0] end

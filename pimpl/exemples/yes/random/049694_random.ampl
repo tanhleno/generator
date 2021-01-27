@@ -1,0 +1,1 @@
+program IOUaa : K : takes f86aa : integer; E78aa, H, M, n6 : integer array returns boolean array chillax end m00 : takes Rg10a, b850, i6, u4Fa, iO : integer array; S3 : integer array; Dn3aa : integer returns nothing U, U, ElI, x : boolean; oe, a, d9Ta : integer array; W2M, k7 : boolean; let G76 = array 0 end main : I5, o : boolean; _ : boolean; chillax end

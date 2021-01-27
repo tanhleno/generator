@@ -1,0 +1,1 @@
+program NB : main : i24a : boolean; when case(044 = 35) rem true and false and 20 : chillax end case true + true + 3 - 7 : chillax end case - false and 18 = - 3 : pop end case - 01800 >= 0000 : chillax end case 6 : while 3 : chillax end; pop end otherwise : when case 7 : when case 4 : chillax end end case 56 : pop end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program N : main : u : integer; zC, Y : boolean array; when case - true = not false / 5 and 9 + not 80 : output "" . ";" . ""; do P(4) end otherwise : when case 2 = 9 : input FW; pop end case 8370 : chillax end case 50 : chillax end otherwise : pop end end end

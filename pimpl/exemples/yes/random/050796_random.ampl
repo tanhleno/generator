@@ -1,0 +1,1 @@
+program p : t : takes Ys50 : integer; f0, B : integer; f4Aa, Y08, w, y, k, E0 : boolean; m : integer array; c9C, m8, Mieaa, l : boolean array returns nothing W, WNHaa, O7j0a, h, Q : integer; let Q = array Ge and 8 - 46 - 87; pop 50500 = 8 end main : chillax end

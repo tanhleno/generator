@@ -1,0 +1,1 @@
+program Hi : main : IN, h4saa, Q, VN, e5 : boolean; when case - s / false = - not false / 8 and 097 : chillax end otherwise : chillax end; while true and 16 <= - not 1 or 3660 - 9 : while 872 = 3 : chillax end end; do Wm2a(false and 2 + 00 - 948); input S end

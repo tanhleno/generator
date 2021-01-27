@@ -1,0 +1,1 @@
+program B : G8V : takes N : integer; Y : boolean array returns boolean chillax end d : takes r45 : integer array; e, X : integer; oE : boolean; A : boolean; d, r5I : boolean; U00a : boolean returns nothing F, x27a : integer array; while - 38 - 18 >= 5 : chillax end; when case 21 : chillax end case 89 : chillax end otherwise : pop end end main : chillax end

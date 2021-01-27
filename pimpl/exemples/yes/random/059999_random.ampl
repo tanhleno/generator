@@ -1,0 +1,1 @@
+program JCka : w88 : takes sn4aa : integer array returns nothing chillax end main : q : boolean; while 415 * (766) + true and not 4 = 3 * true : chillax end; do k(- J16[60100] or 1 - 8 - 61800, N3 and 0, - 4 - 4550 > 22) end

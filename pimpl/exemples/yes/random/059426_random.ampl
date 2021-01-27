@@ -1,0 +1,1 @@
+program AY00 : Y : takes x : integer array returns integer Y : boolean array; while v1d + 07 - 1 > - 83 - 4 : when case 489 : pop end end; pop 53200; do K(16) end TNPa : takes ox90a, VG, Ha, xu, j : integer array returns nothing pop; input N56; input z end main : output 50700 / Y8 . true and 4 or 3 - 351 end

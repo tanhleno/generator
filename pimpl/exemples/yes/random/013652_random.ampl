@@ -1,0 +1,1 @@
+program r6 : l : takes Pg, Z, N : integer array; RI, T, ZK60, tV, u : boolean array; S : integer; Tb, K5, PTf, e : boolean array; V8M, y, R_8, eWzaa : boolean array; z : boolean array; c9U0a, t6 : boolean returns boolean n9 : boolean; pop - 7 < 74; input Q48[47] end main : l : boolean; X : integer array; chillax end

@@ -1,0 +1,1 @@
+program FJ6 : n : takes Z6_aa : integer; A : integer array returns boolean array do P5(not 7 and 9400 or 8 - 35600, - 2 = 199, 201, 2, 2); when case 37 >= 2 : chillax end case 560 : chillax end case 3 : chillax end case 72 : chillax end end U : takes hQ, L80, Cj6aa, M : integer returns nothing let V = 46; input q end main : chillax end

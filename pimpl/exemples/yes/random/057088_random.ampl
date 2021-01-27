@@ -1,0 +1,1 @@
+program P9 : T : takes N0 : integer array; H510a : integer array returns boolean array let Y_[- 690 or 3 - 81] = array 07 and 823 + 3; output "" end main : l, s : boolean array; H, W : integer; do w2(- UBj > - (085), - not 57 or pF and 8 + 81 - 7 = true) end

@@ -1,0 +1,1 @@
+program pAr : aLp : takes p85aa : boolean array returns boolean chillax end main : i2N : boolean array; qCi : integer; a : boolean array; R : integer array; while M2[1] rem(102) * not 9 and 620 or 8 : let tJ9 = 9; do VY0aa(2 = 2); when case 98 : pop end end end

@@ -1,0 +1,1 @@
+program s : main : G5, D : integer; e9 : boolean array; Yu : integer array; when case true or r[9] > - 6880 / not 3 : chillax end case - (03) : chillax end case - (2) and 3 + 439 = 2700 : pop; do V(27); output ""; pop end otherwise : while 2 : chillax end end end

@@ -1,0 +1,1 @@
+program i : nHda : takes O : boolean array; G : integer; Aa, A : boolean; K2 : integer array returns integer array D1 : integer; chillax end P : takes h, d, W2, oT : boolean array returns nothing Ru, c7 : integer; H : integer; output 99600 = 105 . "i" . 8 . "uN0a"; let Vs6[17] = 3 end main : chillax end

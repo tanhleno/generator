@@ -1,0 +1,1 @@
+program e : main : do nZx(- not(7), (1) * true); when case false and(6120) < - 11 + 397 - 8360 : chillax end otherwise : let nt8a = 26; pop; output "?20"; pop end; when case not 5 and 548 : while 0 : pop end; do Q(3); pop end case 8500 - 35900 : input U0 end; while - 0 - 25400 : chillax end end

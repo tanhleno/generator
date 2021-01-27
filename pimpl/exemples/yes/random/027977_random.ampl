@@ -1,0 +1,1 @@
+program S : RE : takes C7, O : integer array; g, OR : integer array; n : integer returns integer array Hx7, E : boolean array; let S9 = array - HL6a and 42; let Q = 5 = 24 end main : KLT : boolean; C5t : integer array; output "" end

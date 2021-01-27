@@ -1,0 +1,1 @@
+program p440 : o : takes tj : integer; U7 : boolean; v : boolean array; Wk8a : integer; gI : boolean array returns nothing zAoaa, B : integer; z, Jmt0 : boolean; input h; let w3[06 - 0] = 49 end main : j : boolean array; NY, CI : boolean array; chillax end

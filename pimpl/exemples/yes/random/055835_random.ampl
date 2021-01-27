@@ -1,0 +1,1 @@
+program U : P : takes N : integer array; zF50a : boolean array; y8, X : integer returns nothing chillax end G : takes G, X05, p, H : boolean returns boolean A5 : boolean; W560a : integer array; cB9, _5 : boolean; r : boolean; pop 7 = 0 end main : L, E8 : boolean; f_G : boolean; output "" . "\\!" . "" end

@@ -1,0 +1,1 @@
+program H : J : takes Y : boolean array returns nothing input H4 end main : vz, H, e, s : boolean array; p, Rv : boolean array; Z : integer; let w = - (52) + false and 9000 - 11 - 35 >= true; pop end

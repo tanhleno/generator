@@ -1,0 +1,1 @@
+program qh : CN2a : takes s : boolean array; l_2 : boolean array returns nothing S : integer; xo, Y : integer; J, m1T0 : boolean; w4 : boolean; chillax end LIO : takes M, o630a, J7_, S : integer returns nothing m2z, c : boolean; _ : integer array; F53a, FT : boolean; chillax end main : input v[false / (05) - h9(1) or true]; do lE(2 + c, - not 0); pop; pop; do KBQ(5, 77, 695) end

@@ -1,0 +1,1 @@
+program I : AE30a : takes XC0 : integer; f : boolean returns boolean c, Z : boolean array; Il, a : boolean array; b, IVo, W980a : boolean; while - Cg and 5 < 994 - 7 : output "':!a" . "c1" end; pop 243 = 90 end main : chillax end

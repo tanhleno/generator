@@ -1,0 +1,1 @@
+program G : y : takes r, r, Q, cRw0a, U0H0a, p, m, M8Z : boolean; oTw : integer array; Y, P : boolean array returns integer d5 : integer; M : boolean array; chillax end j : takes z : boolean array; t9, x5, RPO0a : integer returns integer array chillax end main : input h06[G]; do A(78200 - not 9 - 99 - 05 = - false and 341) end

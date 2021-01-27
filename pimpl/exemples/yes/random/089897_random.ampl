@@ -1,0 +1,1 @@
+program V : main : let f2X = array - S[3] * not true; while - SK80[78] / 6 and 6 : when case 68 : chillax end case 5 : pop end case 535 : chillax end; do Kh(9, 2) end; let kn = array false and 9 - 1680 - 3; let Jv6 = 6 end

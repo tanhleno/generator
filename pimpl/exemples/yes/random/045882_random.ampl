@@ -1,0 +1,1 @@
+program h : b : takes uOda : boolean returns boolean array while 06 and 59 : do i(6, 6); do u9(78); let XB = 5 end; when case 10 = 3 : do gc(63) end case 50 = 5 : when case 84 : chillax end; pop end end main : input Z250a; do c2U(true and 0 + M and 11 + 3) end

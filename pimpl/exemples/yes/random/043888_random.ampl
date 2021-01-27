@@ -1,0 +1,1 @@
+program V5F : qCtaa : takes Sb : boolean array returns nothing do l(not 367, 714 < 2, 081) end cX : takes Cw : boolean returns nothing chillax end hc9 : takes F : integer; k : integer array; q : boolean array returns integer array A, V : integer; Ji : boolean; pop 26300; pop; output ""; let R = 1 end a : takes Z : integer array returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program U6 : ut : takes h9, T, A3, L : boolean; b, Mv, A8R0a : boolean; P, t, u0 : boolean returns integer array B : integer array; J : integer array; NP8 : boolean; let W = array not 9 + 08 - 1 end main : y, g3 : integer; chillax end

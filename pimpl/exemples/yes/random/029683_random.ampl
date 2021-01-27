@@ -1,0 +1,1 @@
+program v : K700 : takes A4, cg3a : integer array returns integer array chillax end G5 : takes v, vEw0, e9 : boolean array; C : boolean returns boolean array U : boolean array; C : boolean; w52a : boolean; chillax end main : input H[(0) / not true * not 8 - false * true and 5 + true and 2 + 3 - 7]; output - false - 021 end

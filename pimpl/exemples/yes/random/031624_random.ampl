@@ -1,0 +1,1 @@
+program jXPaa : X : takes w9, L : integer returns boolean f : integer array; chillax end main : while(681 = 8) * 9 / C8Ua and 0 + (2) + false + 278 : output 17400 end; while(475) * false and 7 : input oqG0a[07] end; input f5[- not 9 and 1810] end

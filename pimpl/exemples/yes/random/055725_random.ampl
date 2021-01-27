@@ -1,0 +1,1 @@
+program V : h : takes f : integer array; v : boolean array; R29, S, F70, Z07, i : boolean; Mx6aa : boolean; W5waa : boolean array; p8, s : boolean; Re, f3Vaa : boolean returns nothing when case g : chillax end case - 1 - 8 > 8 : chillax end; input R[2]; let dw8a = 11 end main : xd : integer; dK2, Y : integer array; chillax end

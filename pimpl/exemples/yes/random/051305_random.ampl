@@ -1,0 +1,1 @@
+program A : KI : takes x4A : integer; b4X : boolean; w1oaa, O7, Q1, P, b0, hN : integer; O9 : integer; e3 : boolean; JyZ : integer array returns nothing chillax end O : takes c8, q0, U : boolean array; WI, I, RM : boolean array returns nothing ux : boolean; P, Q : integer; do U(24 - 74 > 5, 81 = 10) end main : pQ4aa : integer; G : boolean array; chillax end

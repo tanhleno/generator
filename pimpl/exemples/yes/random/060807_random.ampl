@@ -1,0 +1,1 @@
+program Qa : B : takes OBV : integer array returns nothing v : boolean; l : integer array; output - 79500 < 1 end main : input NI1[- not not true]; pop - not 86; let Z[- true and 71 + 9 - 823] = array E end

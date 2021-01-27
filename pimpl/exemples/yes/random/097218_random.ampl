@@ -1,0 +1,1 @@
+program gU : main : when case not not not 122 / 6 or(681) / Q3K - iOk0a and 47 > - not false : let f = array 4 - 7; pop 74; pop; let I = 99 end case false : chillax end otherwise : input NpF; let V2 = array 34500; when case 33 : chillax end; do pz00a(549) end end

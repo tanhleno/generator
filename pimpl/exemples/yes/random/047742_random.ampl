@@ -1,0 +1,1 @@
+program _6g0 : SM : takes _ : boolean returns nothing chillax end main : let d = array not not 1 or true; when case - 68 : do Q(46400 = 85, 0660); output 54 end case false and 3 or 39 - 50 /= 3 : chillax end case 53 - 6 : output "8(" end otherwise : chillax end end

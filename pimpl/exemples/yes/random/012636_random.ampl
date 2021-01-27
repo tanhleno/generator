@@ -1,0 +1,1 @@
+program c : Y : takes M64, f2, G37 : integer; nt, s2F0a, U4, kKD : boolean returns boolean input V end U : takes V, FR : boolean; _9O0a : integer; z : integer; go : integer array; a : boolean returns nothing _, Mm1, L, l : integer array; do n1(- 828 - 33 = 8, 1, 51); do Gv8(3 = 6000) end main : H, x8 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program j2a0 : o4 : takes M, J, d : integer array returns integer chillax end hO7 : takes m : boolean array returns integer array j, H, t780 : boolean; E9P0a, h : integer; output 4 = 4 . "" end main : rB : integer array; Gl, M : boolean array; SS, v8laa : integer array; chillax end

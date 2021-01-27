@@ -1,0 +1,1 @@
+program fo30a : o : takes v : boolean array returns integer when case c and 81500 /= - 866 - 8 : chillax end end t : takes t : boolean returns integer do V(- 35 - 519, 937 = 70, 0, 516) end S : takes V : boolean array returns nothing U9J0 : integer array; chillax end main : vh2aa, b, S, b, D94 : boolean; l, C : integer; P, m : boolean array; chillax end

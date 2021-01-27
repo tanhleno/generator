@@ -1,0 +1,1 @@
+program X : O_0 : takes Y9 : boolean; Q, g : boolean array; w : boolean returns nothing z570a, W : boolean; chillax end Xd_a : takes fk2, E120, E, b24 : integer; D50, fj6 : integer array returns nothing chillax end main : let k5F0a[(19) rem(2)] = - true rem true - 13 and 84 or 0 end

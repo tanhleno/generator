@@ -1,0 +1,1 @@
+program Ku7 : H000a : takes v, Lo : boolean array returns nothing Iw : boolean array; i35 : integer array; F_oaa, R, z : boolean; R : boolean; Q : boolean; qu : boolean; output 0 - 2; let X[999 - 8] = array 84300 - 7; while 76500 = 5 : input C end; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program Q3 : y : takes j, K : integer returns nothing Ou1 : boolean; chillax end main : M5 : integer; when case(30 = 9) / true * true : pop; let J[3] = 119 end case not false : let E4 = array 38; when case 23 : pop end case 705 : chillax end; when case 2 : chillax end; pop end otherwise : chillax end end

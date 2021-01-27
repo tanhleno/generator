@@ -1,0 +1,1 @@
+program NQ : Vy : takes Y : integer array returns integer output "" . 9 = 8 end K : takes j : boolean; q290a, gmO, X : integer array; T, e3k, B4, x : integer array; o5Xaa, j6 : boolean array returns nothing chillax end main : chillax end

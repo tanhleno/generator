@@ -1,0 +1,1 @@
+program R2 : g : takes Xf10 : boolean returns nothing chillax end P : takes C9, R9Oa : integer; Z5 : integer; q9, S, G0 : boolean returns integer chillax end V78 : takes M : integer array; A, YTM : boolean returns integer array Bo : integer array; let J1[24] = 8 end main : E, xK5, F : boolean array; chillax end

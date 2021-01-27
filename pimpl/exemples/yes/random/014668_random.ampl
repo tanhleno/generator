@@ -1,0 +1,1 @@
+program l : x : takes qd, S6q, s5oa : integer array returns boolean array do mG(false and 3 - 4, - 8 > 086, 4, 83, 4); pop; while 99 = 2 : input DZ end end main : L45 : boolean array; input e[not 65500 / not 27 * not 3 and 184] end

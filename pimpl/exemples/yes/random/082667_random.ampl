@@ -1,0 +1,1 @@
+program Z : main : Ch : boolean array; when case - false * 76 rem(5) : chillax end otherwise : chillax end; do em((26400) rem 7410 or 7 - 74 - 90800 /= (93) and 7410 or 84 - 39000); pop; output 268 = 96500 . "-\\" . "?3\"a" end

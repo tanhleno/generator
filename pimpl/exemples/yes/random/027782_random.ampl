@@ -1,0 +1,1 @@
+program F : oZ : takes r, u : integer array; jx, ool : boolean returns boolean do eD(c) end Y9 : takes a1, O : boolean array returns nothing pop 2 = 766; when case 9 = 411 : chillax end case 1 : chillax end; do q2(46, 17) end z : takes t7Q0, SP40 : integer returns nothing chillax end main : fTf, I, Z_70, e4 : integer; rzSaa, l, e, s : boolean; chillax end

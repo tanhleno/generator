@@ -1,0 +1,1 @@
+program D9 : main : M6 : integer; q : integer array; r94, L, Z : integer array; B00 : boolean array; GMia : boolean; ZqF0a : boolean; Q8 : boolean; B : boolean; let a = array - (54900) - (46900) + Q23 and 7710; let X = - true /= - 3260; pop - 8 < 6; let q_0 = 2 = 7; pop end

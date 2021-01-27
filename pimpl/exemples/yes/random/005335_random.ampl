@@ -1,0 +1,1 @@
+program L75a : riA : takes oje, b, V, T : boolean array returns boolean do f(O + 5 - 5 <= 4) end M3 : takes Q1da, Vz : integer array returns boolean array pop end main : do g(- (2 = 7) or not(5) - E63, - s(44) + false or 0 - 3 <= - not 4 and 8); pop(7160) and 6; do M((1210) + 3 /= 33700 - 53); do FYp0a(1 - 23500 >= 7, 27, 165, 692); when case 6 = 0780 : output ""; pop end end

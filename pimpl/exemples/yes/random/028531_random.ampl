@@ -1,0 +1,1 @@
+program V61 : P : takes R, z300a : integer array; Ot2 : boolean returns boolean while 5 >= 32 : chillax end end rG3aa : takes L3 : boolean returns nothing chillax end K : takes TF6, D, F4, q : integer array; l : integer array returns nothing chillax end main : N : integer array; R : integer array; eFpa : integer; dp : integer array; chillax end

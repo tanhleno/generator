@@ -1,0 +1,1 @@
+program u : u4 : takes v, ye2 : integer returns nothing chillax end L : takes Z8 : integer; k, fc6aa : integer returns nothing H : integer array; x6h, U : integer; Q, s : boolean; N : boolean; when case - 0 - 6 = 6 : chillax end otherwise : chillax end end main : chillax end

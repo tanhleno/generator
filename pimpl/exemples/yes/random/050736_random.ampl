@@ -1,0 +1,1 @@
+program U : d : takes w : integer; JQ7, D : boolean returns nothing chillax end QR : takes E : boolean array returns nothing chillax end h740a : takes OS, Y6 : integer returns integer chillax end main : chillax end

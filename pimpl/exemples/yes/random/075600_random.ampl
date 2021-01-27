@@ -1,0 +1,1 @@
+program W : main : E, a : boolean array; when case(2) rem not(59) : output 2 = 6 . 6 end case - 76 and true or not 1 and 6 <= - false and 84 or 9 : chillax end otherwise : chillax end; do Lm(- I, false or 09 - 4); output "E" end

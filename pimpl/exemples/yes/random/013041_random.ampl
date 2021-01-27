@@ -1,0 +1,1 @@
+program f : u : takes Z72, q, mR2 : integer; z, q : integer returns boolean uWya, tB : integer; chillax end main : _ : boolean; C, c, oG2a, z, Q, b : integer array; r : boolean array; i, G, _, N : boolean; P : boolean; xrx0a : boolean; y : boolean; y3 : boolean; pop end

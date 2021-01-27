@@ -1,0 +1,1 @@
+program F : Qh : takes U7_, XHta : boolean array returns boolean array K6, o2, s, j4P : integer; output "`" . 04 . ""; when case 01 <= 3 : input p end; pop; when case 5 : chillax end; pop end Ko : takes ya3a : boolean; a : integer returns nothing pAW : boolean; f : boolean; bqI0a, L : boolean; pop; output 1 . "" end main : chillax end

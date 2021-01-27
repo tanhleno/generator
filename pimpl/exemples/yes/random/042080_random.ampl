@@ -1,0 +1,1 @@
+program sA6aa : OZ : takes t : boolean array returns boolean R, _8, h : boolean; p : boolean array; let s = - 0 - 3; while 01 >= 07 : chillax end end main : Z5 : integer; input zN7a[- x(25) rem(44)]; input P; let cUJa[- false] = - 8480; output "" . "pr"; pop; when case 6540 : chillax end; when case 47 : chillax end end

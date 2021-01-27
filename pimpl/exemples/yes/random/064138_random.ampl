@@ -1,0 +1,1 @@
+program o : i06 : takes aD8a : integer returns nothing do S9(OY4 and 7840 - 3); do Qx(- 3 - 6 >= 1); while 14900 = 2 : chillax end end _ : takes dR, CJ20, r : boolean returns integer K9 : integer array; P, H, U : integer; e : boolean; D8 : boolean; chillax end main : chillax end

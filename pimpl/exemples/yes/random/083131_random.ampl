@@ -1,0 +1,1 @@
+program WH : main : l : integer; K, z1, W, Z, S, H : integer array; y660, YG : boolean array; P1, o : integer; when case - true rem 76 + not 3 rem not 1 and 7 : input s end; let RWPaa = array - false rem 5 + u5E - 3; when case - false - 43 = 3480 : chillax end; input Aiz; while 8 = 4 : do H(4); pop end end

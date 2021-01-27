@@ -1,0 +1,1 @@
+program Cv : v0 : takes UK, Evl, y2, J1n, Li, o8Ja : integer array; T : boolean returns nothing input DW2[- (77)]; while - 0 : output "7{aa" end end main : kf5 : integer; J900a : integer array; do T(false - M * not 29 + 2 and 09 - 95, - (70200) rem 10 and 933 + true and 30 >= - 850 and 9); output 37 . 3 . 7 = 41200 . ""; do s(- (7) and 5 - 71 - 600 /= - 8 - 6) end

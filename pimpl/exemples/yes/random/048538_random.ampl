@@ -1,0 +1,1 @@
+program R7 : sV : takes G8L : boolean returns nothing K : boolean array; uJN0 : integer array; GK, Z, v6 : integer array; do GKW(- false or 516 /= 1 - 1) end j74 : takes CY2 : integer returns nothing chillax end L : takes B2, E, YT, Gj, v : integer; ZX, l, i : boolean returns nothing chillax end main : a5 : boolean array; chillax end

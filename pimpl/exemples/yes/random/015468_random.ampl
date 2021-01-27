@@ -1,0 +1,1 @@
+program o : t : takes z, c, Hn : integer array returns nothing q : boolean array; input R9Ta[P2 and 9 + 6]; output "" . 863; while 43700 = 8 : chillax end end jQ5 : takes g70a, kn : boolean returns nothing chillax end main : o, n9U0 : boolean array; while false * not false /= G(8) : input J end end

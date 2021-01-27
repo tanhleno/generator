@@ -1,0 +1,1 @@
+program j5 : main : g, j6_, H0, o7g, R08, n : boolean array; f, W : integer; f, _ : integer; xv, q : integer; T, E, kv : integer array; TQw, w : boolean; let Y5 = - false / true and 846 + not 9 or 09600 - 7 end

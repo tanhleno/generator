@@ -1,0 +1,1 @@
+program PY : ft8 : takes f, V96 : boolean returns boolean array o52a, c : integer array; chillax end W : takes al8a : boolean returns boolean array chillax end o : takes x6, T7 : integer array returns nothing chillax end main : o : boolean array; op : boolean array; p : integer; chillax end

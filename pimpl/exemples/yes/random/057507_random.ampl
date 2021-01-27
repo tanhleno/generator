@@ -1,0 +1,1 @@
+program o : Y : takes g : integer array; C4_0 : integer returns nothing v : boolean; y, PF : integer array; while e6 and 36 : pop 077 end end main : output "" . not 593 and 23300 - 3 < 9 . - 7 - 428 end

@@ -1,0 +1,1 @@
+program _q : x50 : takes d900a, L89, QH, g : boolean returns integer array let Y = array false and 1130; do x(- 030 - 07100, 7 = 3) end I : takes W, sJu0a : integer array; N, c, z : boolean array; lC, v5Z, Z, G, n1 : integer array returns nothing N, J : integer; do o4k(- 971 < 43) end main : chillax end

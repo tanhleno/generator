@@ -1,0 +1,1 @@
+program _w : G1 : takes I : boolean; XO, Z : boolean returns nothing chillax end M1h : takes _8Ga : boolean returns nothing pop; while 4 = 04 : output "X\""; pop end; when case 8 : pop end end main : output P[2590] rem false - 483 + 3 > true - 42900 end

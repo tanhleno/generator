@@ -1,0 +1,1 @@
+program d : main : K : boolean; let H = array - H rem bI[93] / 6 and 62 or qe + 7 and 0 + 97; let z5[K[35] * true and 43 + daua] = array - false - true and 3; while - 7 <= - 28 - 6 : when case 2 : chillax end case 71 : chillax end; input T; pop end; output "" . 9; do M(382 = 7) end

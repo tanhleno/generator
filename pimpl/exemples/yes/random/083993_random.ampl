@@ -1,0 +1,1 @@
+program K7 : main : fn90 : integer; h6 : boolean; input P3b0[true or false or not 4 and 43 - 4 - 7]; pop; while - _ and 224 + 66 <= - 7 : chillax end; when case 6 >= 902 : let S9 = 96; input C end case 2 = 3 : do r8(6); pop end otherwise : while 0 : chillax end end end

@@ -1,0 +1,1 @@
+program k : main : do J(false /= - 28 or H + 7 - 30, true - true and 4, - (9820) + 5 <= 8); when case(48300) or false or 4 >= true and 4 : chillax end case - (6) - 51 : chillax end; input e0vaa; let Q6[- 4 - 3] = array 13 end

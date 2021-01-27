@@ -1,0 +1,1 @@
+program Wy : bm1 : takes M, NGEa : integer array returns nothing output "" end main : output "" . true; let L7ja[- 480] = - true and 6 + 4; do jA4a(true and 6680, 30 - 7); let E = array 761 - 0; output "" . "" . "6$aa"; do mb5(30, 1) end

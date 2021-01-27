@@ -1,0 +1,1 @@
+program Z99aa : u : takes G : boolean array; H, G7 : boolean array returns boolean input Rw5aa[true]; do p69(- 7 > 08) end an : takes c, ZW, di70 : integer returns integer while - 46 : do j6(8); let ycP0 = 7; pop end; pop 82 end main : u1, OYQa : integer; chillax end

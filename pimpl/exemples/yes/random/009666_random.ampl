@@ -1,0 +1,1 @@
+program CgC0a : h : takes a, nw, p : boolean array; J1, _, a : integer; hR0, i, r : boolean array returns nothing let _ = - 72 = 69 end main : when case - K89aa[9] / not U120 / false and 05 = nB : chillax end case - q5[55] >= - true and 8 : do Ev(68 = 3160) end case rU : chillax end end

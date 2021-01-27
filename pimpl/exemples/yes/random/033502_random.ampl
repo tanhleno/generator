@@ -1,0 +1,1 @@
+program F : v6 : takes x : boolean; D, w, NZoa, X : boolean array; yM, Vn : integer; ib6 : integer array; a : integer; w : boolean array returns nothing C : boolean array; input O40[- true - 1 - 45]; do n(- 5 - 0 >= 3, 3 = 7, 3, 29); let J[7] = array 6; input S end main : C7E0, h, ab : integer; chillax end

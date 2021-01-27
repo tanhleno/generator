@@ -1,0 +1,1 @@
+program l7 : main : L, u1, H, S9 : boolean array; when case true : chillax end case - (59) : while 2520 : chillax end; output 58200 . "~"; do N(0); do _(50); pop end case - B1 and 5 + 7 > - 1 : do i0(2, 4); do z7k0(8) end case - 9 - 9 < 209 : when case 50 : chillax end; output "4" end case 7 = 37 : input n end case 48 : pop end otherwise : do s(1 = 06, 6) end end

@@ -1,0 +1,1 @@
+program l : j7Xa : takes m1D : boolean returns nothing K1h : boolean; i, F3, M : boolean; T : integer array; zc : boolean; chillax end xK4 : takes f, e0, B2, N : boolean; l, s : boolean array returns boolean array pop 3; when case 336 : input _2a0 end otherwise : pop end; pop 21; input A42a; output "f2aa"; pop end main : chillax end

@@ -1,0 +1,1 @@
+program _T6 : W : takes J4 : integer returns nothing B98 : integer; when case - true and 3 : chillax end case 9 - 05 : while 08500 : chillax end end otherwise : do C(87); while 2 : chillax end; pop end; output "" . 77 end main : chillax end

@@ -1,0 +1,1 @@
+program g : main : do e(false and g(42) - xoF0 - true); output "" . - 60800 . "8`0"; while - not 0 or 06600 - 0 <= 3 : when case 7 : pop end case 51 : chillax end; pop; do Xbuaa(24); pop end; pop; while 33 : chillax end end

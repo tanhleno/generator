@@ -1,0 +1,1 @@
+program B : i93aa : takes I : integer array returns boolean pop; do T0(9 = 20); do F(51000 = 048, 65); when case 1 : chillax end case 7 : chillax end otherwise : chillax end end T : takes fV7, Uy5, cni, l6, k07, pr : integer array returns nothing YUm0, L : integer array; v0 : boolean; pop end main : chillax end

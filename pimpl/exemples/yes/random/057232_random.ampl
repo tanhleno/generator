@@ -1,0 +1,1 @@
+program Q : M : takes W : integer array; F : integer array returns nothing zUq, ehHaa, y, v14aa, EA9a : integer; chillax end q : takes P6 : integer returns integer Gt60a : integer array; do Sq(37 - 5 < 1); pop; input dy[47] end main : chillax end

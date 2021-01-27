@@ -1,0 +1,1 @@
+program H5 : v : takes G6 : boolean array returns integer chillax end a : takes X, T : integer returns integer Y6, F, U, f : integer; do I1s0a(- 58, 62 = 6) end main : pop; input k; do y(false < - 738) end

@@ -1,0 +1,1 @@
+program GO_ : hQ1 : takes h, c0G0, d5, N : boolean array returns boolean chillax end main : i6, T, b : integer array; te, U, w, T0 : integer; output true / not 9 and 1 or true and 66 /= - e and 1; while - not H - (36) and 2 + 5250 - 47400 > - 11800 and 8 : pop 4 end end

@@ -1,0 +1,1 @@
+program n900 : Bc : takes P910, _, La, KQ10 : integer array; Hi1a : integer array returns nothing Q, Pm, s, H, U0 : integer; chillax end FOR : takes wYp0a : boolean returns nothing chillax end main : do x5N0a((6 = 7) / (6) >= false * true and 0) end

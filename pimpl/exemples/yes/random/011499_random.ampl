@@ -1,0 +1,1 @@
+program X : a1 : takes G, Xp, N : boolean array returns nothing when case - false < - 681 : chillax end otherwise : output "" end end v : takes D490a : boolean array returns nothing chillax end y : takes D, S : integer array returns nothing chillax end main : vp, t_5, D : boolean; x : boolean array; chillax end

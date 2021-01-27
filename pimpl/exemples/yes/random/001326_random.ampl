@@ -1,0 +1,1 @@
+program O7aa : Z : takes A11a, Y26aa, eZ, r, t, nSkaa : boolean array; T : integer array; ZyX, T : boolean; Ppb : integer returns nothing chillax end B1 : takes u30, C, sh : integer array; o : boolean array returns nothing H : integer; q : boolean; P : boolean; chillax end main : chillax end

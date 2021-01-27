@@ -1,0 +1,1 @@
+program E : o : takes R : integer; At : boolean array; ma : integer returns nothing chillax end main : do n(43 + true - (23) <= - not 27 and true); while r(438) * not 1 or n and 9 <= - 67 and 68 or 6 - 7 : when case 0 = 452 : chillax end case 95 : chillax end; input f[9]; input H6 end end

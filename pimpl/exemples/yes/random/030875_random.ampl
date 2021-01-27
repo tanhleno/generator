@@ -1,0 +1,1 @@
+program Y : z7F : takes W, qo : integer array returns nothing aK : integer; yx : integer array; A7, rX6, l : boolean; nIB, L : boolean; nq : boolean; when case - 1 - 9 /= - 49 - 7 : do D(997, 55600) end end c98 : takes F, EJF : integer returns integer do _(95200, 1, 5380, 466) end k : takes N : integer array returns nothing pop end main : chillax end

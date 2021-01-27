@@ -1,0 +1,1 @@
+program n : v : takes i : boolean array; H : integer; wf : boolean array; zR, z : integer array returns nothing input i8W0 end E : takes vU, z : boolean; f : boolean returns boolean array while 7 < 6 : input k end; while 645 : while 23300 : chillax end; pop end; while 13 : chillax end end main : m, U, ue8a : integer; LTOaa, V3 : integer array; input z[- true]; input gIIaa end

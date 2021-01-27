@@ -1,0 +1,1 @@
+program h : vU : takes UH50a, g, C9, B : boolean array returns nothing snw : integer; chillax end m : takes o, B, m : boolean array; n : integer array returns integer output 4 = 956; output 43; while 86 : chillax end; input Fviaa; output "9Y\"a" end a : takes B : integer array returns boolean chillax end main : _ : boolean array; pop 27 < true end

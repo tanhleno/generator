@@ -1,0 +1,1 @@
+program C : OP : takes O15 : boolean returns integer array EF : integer array; G : integer array; kr6, X, nl : integer array; z : boolean; output "\\" end edR : takes d, h, L, U2 : integer returns boolean array c : integer; chillax end main : T5k, ah : boolean array; P, y : boolean; do U(- not F) end

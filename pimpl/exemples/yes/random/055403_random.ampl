@@ -1,0 +1,1 @@
+program A : M43 : takes _ : integer array; p, yA7 : integer returns nothing l4, Vc8, UQ1 : integer; pop; output "" . "\n7" . 4 . "7\t0a" end main : h, Jdu : boolean; p, G3x, i10aa, XY : boolean array; P, LMyaa : integer array; let Zq = false - 5 end

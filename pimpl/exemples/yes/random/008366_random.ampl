@@ -1,0 +1,1 @@
+program J : C7 : takes G, Q_, tqR0a, ZI : integer returns nothing input Z end e : takes A, H68, C : boolean array returns nothing v0Ia, ZR1 : integer; a20a : boolean; Y, TBu : boolean; O : boolean; when case 879 - 18400 > 5800 : output "J" end otherwise : while 21 : chillax end; pop end; input p end main : do h410a(false and r(5) = - 28 rem 9 and 36, F(78100) < not 0 and 4) end

@@ -1,0 +1,1 @@
+program d : I2 : takes E : boolean; R : boolean; t : boolean returns integer RKk, s09, E7, r : boolean array; j7L0 : integer array; pop; do F(- 279 < 754, 3 = 42); output 24200 end main : W : boolean array; chillax end

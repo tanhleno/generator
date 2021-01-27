@@ -1,0 +1,1 @@
+program q : CB80 : takes H : boolean array returns boolean H2C : integer array; yp60a : boolean array; m : boolean array; y, H : boolean; output ""; pop 36 end main : j930a, D, b : integer array; fo, x0 : boolean array; input L[823 + jj + (1) and 81 + 7] end

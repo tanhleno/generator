@@ -1,0 +1,1 @@
+program M : Y : takes U7, X7, b, yD, D, T : integer; P : boolean returns integer array chillax end nj : takes c : boolean returns nothing chillax end m : takes q, nh8, jf, K, z4, K7 : integer array returns integer h : integer array; output "" . 97200 . ""; input FE2; while 5 : chillax end; pop end main : qAu, Hb : integer array; do S((9) /= - (41800) rem true - EK80a and 986) end

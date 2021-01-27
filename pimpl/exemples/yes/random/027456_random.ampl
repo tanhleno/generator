@@ -1,0 +1,1 @@
+program L : l0 : takes q, E : integer array; W1, g, E : integer; BM3a, Hc : boolean array; I1J0a : boolean returns boolean array X, Qw : integer; pop 66 - 66 end v : takes C2 : boolean returns integer array t1 : boolean; J : integer array; chillax end main : ke : boolean; chillax end

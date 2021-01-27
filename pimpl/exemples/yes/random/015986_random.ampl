@@ -1,0 +1,1 @@
+program m7 : J : takes H, Nx, NmOaa : integer returns integer array pop 49 = 7 end y : takes q : boolean array; g, _ : integer returns integer k4L, H, a410, Yh : integer; chillax end K : takes AC6aa, l42a : integer array returns boolean w : boolean array; chillax end main : output "\n\\"; pop false or 11 = - 76 - 486; output "h"; while 813 - 876 >= 8 : chillax end end

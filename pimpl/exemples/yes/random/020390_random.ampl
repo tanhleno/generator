@@ -1,0 +1,1 @@
+program jV : b : takes _aR, e : boolean array; O : integer array; FC, Hg, S : boolean array; c6, R, kTP, QL, J8r0 : boolean returns boolean do O58(true /= 8880); when case 3 - 0 <= 4 : chillax end otherwise : chillax end end main : chillax end

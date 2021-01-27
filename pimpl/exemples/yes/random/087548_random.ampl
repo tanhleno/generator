@@ -1,0 +1,1 @@
+program K1 : main : ET4 : integer array; when case - true and 523 /= - 84100 and not 8 - (3) - 4 : let p = 73 end case - (12400) rem(5) = false and 04 : chillax end; input L; output 4 < 15; input g[2]; do WMe(88500 = 7); let x = array 51; input e end

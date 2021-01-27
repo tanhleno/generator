@@ -1,0 +1,1 @@
+program M67 : g : takes o09, O71a, II : boolean returns integer array chillax end main : t, p : boolean; s, Pv : boolean array; NA7 : boolean array; S : integer; when case h[95] - true : let c1Qa = 8; output "" . 65 . "R"; do zL0(68, 06); let J = 3 end; output "" . "" . "3\\\"a" . 8 . 3; let eWD[true - 55] = - 4 - 38300 > 0 end

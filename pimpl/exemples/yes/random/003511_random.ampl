@@ -1,0 +1,1 @@
+program k40 : h6 : takes H, TN, IN, qnl, I : integer array; gi, s57 : integer returns nothing output - 332 <= 097 . "" . "\\^"; while - 1 = 34200 : do e_40(43); while 5 : chillax end; pop end; while 3290 : chillax end end main : x1W : boolean array; output - 6 or false and 3 or 1 - 5 >= false; while 6 + 9 and 1170 < q + 5 : chillax end end

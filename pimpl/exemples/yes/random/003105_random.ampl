@@ -1,0 +1,1 @@
+program Sl : gR0 : takes b, D, G, xMV, od : boolean returns nothing while - not 1 and 1 + 1 - 4590 <= - 69100 - 1 : chillax end; when case 575 - 2 > 03900 : chillax end; input L; input D3[34]; let A0S = 971; while 1 : chillax end end On : takes K1 : integer array; r : boolean array returns boolean M, dR, y3, m8 : integer; J8, Uu, L : boolean array; chillax end main : chillax end

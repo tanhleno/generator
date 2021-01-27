@@ -1,0 +1,1 @@
+program l95 : E : takes M8 : boolean returns nothing pop 8; let z[0 - 1] = array 1 end srg : takes _a : integer array; K, r, iZ, r5c, N8, K : boolean array returns nothing output 471 = 93 . 0 . "68"; let J2[492] = 3540 end main : when case - true - true / true and 90 > false rem true and 5 + false or 8 : chillax end end

@@ -1,0 +1,1 @@
+program E : Zwg : takes g : integer; n1 : boolean array; B, BL, mC : integer array returns nothing Zg, bbH : boolean array; w1 : integer; chillax end X : takes f : integer array returns integer array chillax end main : wbTa, X, z : integer; chillax end

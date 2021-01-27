@@ -1,0 +1,1 @@
+program SN : Bd : takes C4M, l : boolean array returns nothing chillax end y8 : takes Rr : boolean; D8n, e, W, K, i, s : boolean array; D1, Zi, p, _230a : boolean returns nothing R3daa : integer array; P63, gG, NS : boolean; q, g4 : boolean; s : boolean; output 2 = 65 . "" . "" . "" end main : chillax end

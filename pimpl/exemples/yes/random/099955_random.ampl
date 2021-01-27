@@ -1,0 +1,1 @@
+program B : main : while true or(0) * (08) and 97 < not 4 : do k(1 <= 6, 63 = 2, 6); when case 080 = 2 : chillax end otherwise : chillax end; output ""; input c; when case 66 : chillax end; pop end; while - not false : chillax end; while - 54400 + 0 - 0 : chillax end end

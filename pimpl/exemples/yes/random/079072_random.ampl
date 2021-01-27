@@ -1,0 +1,1 @@
+program l : main : Yk : boolean; O, f : integer array; b, a, Y, k : boolean; cl, t : boolean; do H740a(true or false + true and 4 /= hR4(45) rem true + (55), - 437 and 898 and 6 <= false and 4 or 334, - true - 31 >= - 164); input h3[5870 + 09 and 79100 or 59]; input cOiaa end

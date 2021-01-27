@@ -1,0 +1,1 @@
+program TIXa : tk : takes p, C54a : boolean returns nothing input z end S : takes O : boolean returns boolean array do Y(4140 - 3); while 11 = 06600 : chillax end end main : L, Q : integer array; f, Mk, B, x : integer; chillax end

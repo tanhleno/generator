@@ -1,0 +1,1 @@
+program P : main : J, tGTaa : boolean array; u, J710 : integer; a, d6, b7, i8 : integer; when case false and B < 52 rem f + true or 71 - 0 : pop end case - (94) - zaI0 > - 69800 and 5 or 75 - 46 : chillax end case - (6) = - 19 - 66 : while 99 : pop end; output "$" end otherwise : chillax end end

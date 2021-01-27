@@ -1,0 +1,1 @@
+program O : z9 : takes N, e : integer array; P, X0, J : boolean; Z : boolean array returns nothing while - 1 and 7 - 418 < 224 : let hGsa[010] = 84; while 3 : chillax end; let Z = 89; pop end end main : k, R : integer; B8, e7 : boolean array; bV8, p, T : integer array; chillax end

@@ -1,0 +1,1 @@
+program N : j : takes s : integer; VWU : integer array returns nothing j : integer array; b : integer; Hn : boolean; output 17 - 9 = 4 . 2 . 6; when case 47600 : chillax end otherwise : chillax end end main : S, F93, bB9 : integer array; B : integer array; B : boolean array; do i7(- 6 * (603) or 95 / true and 1330 + false and 7980, - q[88] rem true <= E8 and 373) end

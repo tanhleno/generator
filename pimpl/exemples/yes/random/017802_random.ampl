@@ -1,0 +1,1 @@
+program QhQaa : N8p : takes P0, w7 : boolean; h : boolean array; d0Fa : boolean array returns nothing chillax end main : S, B7k0, P, d, zH, L, M : boolean array; U : integer array; A : boolean; P8 : boolean array; chillax end

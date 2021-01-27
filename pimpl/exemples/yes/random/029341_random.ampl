@@ -1,0 +1,1 @@
+program a : R25 : takes S, vt : integer array returns boolean array b : boolean; chillax end iE : takes xS : boolean array; J, y5n0 : integer returns nothing input Tf[- 7 - 42] end y6l : takes coh, ak, X : boolean returns boolean array output 54200 end main : chillax end

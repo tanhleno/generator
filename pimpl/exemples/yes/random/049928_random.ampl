@@ -1,0 +1,1 @@
+program b : X : takes _ : integer; w100a, n1n, qKM : boolean array returns nothing o, y : integer array; n7ga, V, g930, X : boolean array; yf2aa, J, s : integer; U2Na : boolean; M9 : boolean; x : boolean; chillax end main : k, L : boolean; O, g, f : boolean array; let Xu[- (04) * not(1)] = array(81); input x1 end

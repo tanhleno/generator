@@ -1,0 +1,1 @@
+program C : c : takes JDT0a, gz20a, H : integer array returns boolean chillax end main : Q9s0, p, L8Wa : integer array; k : integer array; p, kn : integer array; Z2l, w : boolean array; L, z, H : integer; pop; let P = - not 0 >= 7 end

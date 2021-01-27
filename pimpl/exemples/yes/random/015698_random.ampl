@@ -1,0 +1,1 @@
+program h2t : h : takes i, C3, chN : integer returns boolean array v, igH : integer; H, Z : integer; do y82(- false and 40500 or 5 > 5, - 590, 9 = 626); let E = array - 0 - 035 end main : r, L, q, J : integer; output "#," . - not 9 and 76300 . - 66 . 3 . 7050 . 12600 . "\\J\""; while - 08 or 8 - 54 - 7 : chillax end; pop 4 > 2; while 6 - 8 : chillax end end

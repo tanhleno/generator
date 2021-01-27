@@ -1,0 +1,1 @@
+program o : l : takes tR5aa : integer; M, L : integer returns nothing chillax end MF : takes J : boolean array; hth : integer; _4, e, q3n, D, dP : boolean returns nothing y : integer array; chillax end u4gaa : takes h, C, Q, X : boolean array returns boolean H : boolean; Q : boolean; chillax end main : pop 71600 or(0) <= true end

@@ -1,0 +1,1 @@
+program N : S : takes XBta, _, Y, su, g, A : integer returns nothing MA : integer; let n = array - O; output "\t" . "]1" end Z0 : takes B, l7 : boolean returns boolean array input d[- 5]; output 48; while 02 : pop end; when case 0 : chillax end end main : Wa1, zrkaa : integer; chillax end

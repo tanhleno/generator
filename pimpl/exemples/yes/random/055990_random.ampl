@@ -1,0 +1,1 @@
+program _ : A : takes m170a : integer array; v : boolean array returns boolean array X, EE : boolean array; Cy1, hF : integer array; Jw70, m : integer; o : boolean; ya : boolean; t : boolean; input g[- AA8 - 685]; pop; while 87 = 018 : input _ end; pop; while 8 : chillax end; output ""; pop end main : input fdW[- c(1, 804)] end

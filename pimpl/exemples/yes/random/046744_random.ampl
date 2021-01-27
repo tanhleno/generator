@@ -1,0 +1,1 @@
+program U56aa : h : takes L6K0a : boolean returns integer array V2 : integer array; chillax end kr : takes CpO : boolean array; xin : integer array returns boolean do o(974, 12); output "" . "\t" . "" end main : chillax end

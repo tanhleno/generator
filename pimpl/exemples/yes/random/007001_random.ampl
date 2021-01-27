@@ -1,0 +1,1 @@
+program rF : C : takes g5, Ob, k43, Ym50a : integer array; Q67, BE : boolean array returns boolean array S : integer; d : boolean array; G, x : integer array; E, z : boolean; PoW0 : boolean; I3 : boolean; chillax end A_ka : takes a, Y : integer returns boolean array chillax end main : chillax end

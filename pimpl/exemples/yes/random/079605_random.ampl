@@ -1,0 +1,1 @@
+program sZ : main : w : boolean; a44a : integer; L : integer array; y, K, t, m2e : integer; i, HUzaa, v : integer; L, X : boolean; input x090; when case 68400 rem I - x + 0 - 543 < true + 96 : do Fs(6 = 2); when case 7720 : chillax end case 7 : chillax end otherwise : chillax end; let N = 8; pop end case(2) and 040 : output ""; input N; pop end end

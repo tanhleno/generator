@@ -1,0 +1,1 @@
+program Cf : P : takes iX : boolean array returns integer array tV0 : boolean array; chillax end main : do r(not not true / false rem(2) >= false * not 0 and 4 + true and 242 + 3); pop; output - 472 end

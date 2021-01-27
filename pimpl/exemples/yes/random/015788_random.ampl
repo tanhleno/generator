@@ -1,0 +1,1 @@
+program Q : Q7 : takes W, f, U2 : integer returns boolean chillax end main : let U = 67 rem not 84500 and 7 + not 9150 and 5570 >= (53800) and 387; output(04) . 6 - 04 >= 5610; while not 620 or 2 - 9 = 10500 : while 15 : chillax end; pop; when case 9 : chillax end; pop end end

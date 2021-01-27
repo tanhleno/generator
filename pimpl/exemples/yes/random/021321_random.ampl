@@ -1,0 +1,1 @@
+program Q : m : takes T9, A : boolean array returns integer array do C500(false or 64800 - 6 >= - 25000 - 2, - 5 /= 4) end main : while - fa5aa / (554) or NJ and false >= not not 6 or not 86 + 89 : chillax end end

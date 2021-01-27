@@ -1,0 +1,1 @@
+program NI : main : H, J : boolean; let N = not QnE rem 08 and 90800 or(8) >= - 2 and 8; do R(F - not 466 and 4, - not 744); when case(1) or 5 <= - 9 - 3 : input E[7]; pop; when case 9 : chillax end; pop end case 138 - 5 <= 560 : chillax end case 17 : chillax end; while - 20 - 2 : output "42" end end

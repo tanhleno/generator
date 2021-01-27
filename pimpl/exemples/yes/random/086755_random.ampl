@@ -1,0 +1,1 @@
+program M7 : main : qVJ : integer array; _ : integer; pop; when case bE4 * true and 5 /= - (0) and 72 + 5 : when case 360 = 865 : when case 61 : chillax end; pop end end case false and 6 + 9 : chillax end otherwise : chillax end; output - 3 > 8; while 2430 - 92 : when case 14100 : chillax end end end

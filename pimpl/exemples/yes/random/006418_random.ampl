@@ -1,0 +1,1 @@
+program V8 : R : takes D, Rg2aa, Toh, J32a : integer; nxMa, P : boolean; V9B : integer; z6 : boolean; x : integer; sGl, j5, G7 : boolean returns boolean array g5, r : boolean array; input R1Haa end main : chillax end

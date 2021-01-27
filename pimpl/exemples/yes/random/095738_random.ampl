@@ -1,0 +1,1 @@
+program YbU : main : when case - (1 = 3) rem Y(4550) * (6) and 1 : chillax end case - k - true and 0100 or 38 - 5 /= - (6) and 3 : chillax end otherwise : when case 5 : let U9ga = 9 end otherwise : chillax end; while 69000 : pop end; pop end end

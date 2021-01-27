@@ -1,0 +1,1 @@
+program W : main : Q, v, OD : integer; when case false = - 2 / (2) : let n0c0a = array 90 end case not 672 * true and 142 - true /= - true or 36 - 6 : pop; while 91 : pop end end case - 2 and 23 : output 2 . "\t" end; output - x and 00 - 8 - 4 . "[o0"; pop end

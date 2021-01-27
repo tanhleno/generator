@@ -1,0 +1,1 @@
+program A9 : R : takes d, a : integer returns boolean array pop 9 - 06 <= 2 end A7 : takes o, H2, B : integer array returns integer array F700, x : integer; while 5 : chillax end; do l(9); do L(61); do aB(7); input O6D end yu_ : takes F97, Z8Z0 : boolean returns nothing while 69 = 2 : pop end; pop 308 end main : Z, A : integer; chillax end

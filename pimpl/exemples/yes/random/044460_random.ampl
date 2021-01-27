@@ -1,0 +1,1 @@
+program P : F9 : takes KH : boolean array returns nothing M : boolean; P, W : boolean array; M, Pr2, m : integer; Z : boolean; l : boolean; input B end j : takes u, u66, V, _3k : boolean array returns nothing chillax end main : U5 : boolean array; f6, V880, K2C : integer; D, nJ3aa, ox, iy, k : boolean; output "/\\" end

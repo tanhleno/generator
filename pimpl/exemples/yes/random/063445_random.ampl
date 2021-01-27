@@ -1,0 +1,1 @@
+program og : a3 : takes P4f : integer returns integer vk : boolean array; chillax end v26a : takes i : integer array; s, J6 : boolean returns integer do NG1(20 - 97, 60, 2); when case 1740 : input H; pop end case 08 : pop end case 06 : chillax end otherwise : pop end; input mP[7] end main : let cfq[false - true + R and 8] = - not(5) rem not 508 + 069 and 4 > false end

@@ -1,0 +1,1 @@
+program S : l : takes X5 : boolean returns boolean A : integer array; A : integer; chillax end N : takes EJ : integer; Dg0, Ey1, t, u6B, f9Ta, M : integer array returns boolean array y, U, Wi60a : boolean; input n[1120]; input Y0 end main : chillax end

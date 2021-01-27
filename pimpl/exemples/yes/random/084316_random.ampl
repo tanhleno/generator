@@ -1,0 +1,1 @@
+program W1j : main : zH : integer; _ : integer; I : integer; I7 : boolean; q : boolean array; let L7[false / 54 / true + (1) / not 9 and 3] = array - false * false and true and 6 or(7); while - true and true >= 2 and 37 : chillax end; output "" end

@@ -1,0 +1,1 @@
+program h : main : let a = - wr(96) * false and 0 or 6 and 18 /= - (09500) and 7 + 1410 - 3; when case(767) rem false + true and 5 or 5 = false or 4 - 372 : chillax end case - p and 5 + 09 - 0 : input z8; while 5 : chillax end; when case 67600 : chillax end end case - 97800 = 3 : do vTda(2); do G94a(8) end case 16 : pop; pop end case 54 : pop end case 9 : chillax end end

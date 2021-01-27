@@ -1,0 +1,1 @@
+program K : yi : takes vM, U, _ : integer array; w, U1, EF, h : integer array; ZA, C : integer; Q3, e, uO, P5, O : integer; sFaa : integer array returns boolean Ze : integer; H, q, v : integer; chillax end Y8 : takes g_ : integer array returns integer array A, u : integer; V : integer; chillax end main : s3g0a, B : integer; chillax end

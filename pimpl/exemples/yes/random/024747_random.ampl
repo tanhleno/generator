@@ -1,0 +1,1 @@
+program w4Taa : e : takes g, D : boolean returns nothing output 80500 . 6; let z[- 007] = 80 end main : O, pE, E : integer; input B0[- 96 * s[76] rem false and 4 or 3 and T - D1 and 2 - 7 - 1]; let H[- 26 and false and 01] = hE or 0 - 2950; pop; let D = array - 8660; output "" end

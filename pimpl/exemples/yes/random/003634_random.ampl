@@ -1,0 +1,1 @@
+program q : G : takes u, X, V1, o05aa, O : integer array; a : integer returns boolean b, a : boolean array; chillax end main : do BS4a(- true and vpW(106) / (463) and 6); pop - not 0 <= 9 - 0; while - 641 or 3 /= 1 - 77 : output 5 . ""; pop; pop; pop end; let V[03] = 3 end

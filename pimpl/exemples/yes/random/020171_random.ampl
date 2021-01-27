@@ -1,0 +1,1 @@
+program ZGq : yTqaa : takes Ge_, ha : boolean array; kv : boolean returns nothing chillax end Ke : takes yZ, F4, Q : boolean array returns nothing Xf20 : integer; chillax end hQ : takes j, tc30, Fv, m : integer returns nothing a : integer; chillax end main : chillax end

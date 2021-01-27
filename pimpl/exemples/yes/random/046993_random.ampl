@@ -1,0 +1,1 @@
+program K : N : takes G9 : boolean returns integer do a4Ga(- O4B0a and 7 = 6); pop; while 6720 : pop end; let yng0[520] = array 2 end _E : takes w2b : boolean array returns nothing chillax end main : chillax end

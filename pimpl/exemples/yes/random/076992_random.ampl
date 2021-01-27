@@ -1,0 +1,1 @@
+program m : main : c, c4 : integer; while 7 / false : let d[- 5 - 0] = array - 056; pop 8; let U = array 054; when case 66 : chillax end end; when case false - false and 9 : let z = 5 end case false and 867 >= - 43 - 1050 : chillax end otherwise : chillax end; do b(- true - 155, - 0); output "" . "3" end

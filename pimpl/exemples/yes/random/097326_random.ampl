@@ -1,0 +1,1 @@
+program XZM : main : when case 6 + (94) - false and 07 : chillax end; when case - true - A < - y960a and 68 : chillax end case - 95 and 8 or 114 /= 0 - 46 : chillax end otherwise : chillax end; do D5ca(not 66) end

@@ -1,0 +1,1 @@
+program v0b : T : takes u : integer array returns integer array GU, D : integer; chillax end ab4 : takes A3 : integer array; S04a : boolean returns integer P6, C, G, K : boolean array; let zS[37 - 1] = array - 5 - 3 end main : chillax end

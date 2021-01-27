@@ -1,0 +1,1 @@
+program ma : f7 : takes EG : boolean array returns nothing chillax end V : takes G490, wW9 : boolean; I : boolean returns boolean pRy : boolean array; do m(- 0 - 3) end P : takes C, S08aa : integer array; K, Hr : boolean returns nothing pop; while 63 : pop end end main : k2 : boolean; chillax end

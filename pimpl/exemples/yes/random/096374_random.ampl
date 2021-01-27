@@ -1,0 +1,1 @@
+program m_ : main : when case - 3 + (9) or not 75100 : chillax end; when case - o[254] and not 9 or 14 and 93700 or 2 - 00 /= - not 09 : chillax end case - mi : chillax end; when case not 46 and 37 - 1 >= 9 - 2640 : chillax end; while - 7 - 26 <= 04600 : chillax end; input DH; input X9 end

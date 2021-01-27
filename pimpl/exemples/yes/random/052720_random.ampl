@@ -1,0 +1,1 @@
+program v : xT : takes g : integer; ovH : integer array; aE4, NoH : integer array returns integer chillax end main : j, rx, oo8 : integer array; while(690) rem 2 + S[0] and 7 and 26 = not false : output "" . 7870 end end

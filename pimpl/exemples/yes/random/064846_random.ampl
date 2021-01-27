@@ -1,0 +1,1 @@
+program n : m : takes q : integer returns nothing Bi : boolean array; C : boolean array; pop; pop 8 = 64 end main : when case - not Zbz0a[7] + false : chillax end case 41 : chillax end case - 9 and 9 = 5 : chillax end; do q(false * (0) and 3 < (4) and 48) end

@@ -1,0 +1,1 @@
+program I2 : main : D, E : boolean; JnEaa, pl, UYV, W8m0, y : integer array; A7, F, PU10a, Lj9 : boolean array; s3T : boolean; wx2 : boolean; while T[4] * false or(934) or(68) and 7 or 044 : input lr[- 7]; pop 0 end end

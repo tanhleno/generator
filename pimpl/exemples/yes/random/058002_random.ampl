@@ -1,0 +1,1 @@
+program Q : e0 : takes m3e : integer array returns boolean array when case not 570 - 33 - 65 : do X(2); output "" end otherwise : output ""; pop; pop end end T : takes t1 : integer array returns nothing input M end main : input V; while - not not 5 / true or ox and 86900 > - not 194 and 0170 + 7 : chillax end end

@@ -1,0 +1,1 @@
+program G : N : takes xG, uAK0, i, Yn6, Y2, aPM : boolean array returns boolean W, O, F82, N : integer array; chillax end S : takes f6fa : boolean array returns nothing chillax end main : input h2[(8 = 41) * y[5] * a + wi(8) rem 89200 + (2) and 2] end

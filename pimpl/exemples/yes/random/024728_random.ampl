@@ -1,0 +1,1 @@
+program g : Q : takes FE0, CA7aa : boolean returns nothing let r[75] = array not 9 - 5 - 3 end main : C : integer; let n = array - true and(82800) - (7) / true and 45400; while(3) * (902) and 9 = - 3 and 9 : let S[27] = array 8; do X8(6); let T = 75; let t = 7230; pop end end

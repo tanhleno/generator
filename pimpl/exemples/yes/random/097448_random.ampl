@@ -1,0 +1,1 @@
+program W : main : when case 3 <= 0 rem true and 9 or b : chillax end case false / 9 - 3 and 5 - 7 = (9750) - 7 - 2 : output 6 . 8; output "4" . ""; let L = 81; while 2 : chillax end end case - not 15 /= - 5 : chillax end; do G(- false rem not 8 and 41 or 21 and 9, true and 333 >= 3, - 2); let u2a[- (48) and 9] = array - not 3 end

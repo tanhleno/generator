@@ -1,0 +1,1 @@
+program v : b : takes PMS : boolean returns integer BdD, x : boolean; p : integer array; n800a, _, c38 : boolean array; Fn3, S : boolean; N : boolean; f : boolean; when case - true - 3 - 80 > 1 : chillax end; do b(49400) end main : chillax end

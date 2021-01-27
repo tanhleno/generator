@@ -1,0 +1,1 @@
+program m910a : main : t : boolean array; C : integer array; O : boolean array; let I[- false - true * (5) + (52900) and 65 + 829 - 2] = array 298 rem p2(25); let z[false or not 6 and 949 + 5 - 183] = - true and 9 > - 5 end

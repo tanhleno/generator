@@ -1,0 +1,1 @@
+program wJY0a : x3y : takes Nttaa : boolean array returns nothing while not 4 and 61 : while 954 : chillax end end; when case - 3 : do v5(091) end case 63 : chillax end case 3 : chillax end end main : Y, g : integer array; chillax end

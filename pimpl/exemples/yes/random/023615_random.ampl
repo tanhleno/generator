@@ -1,0 +1,1 @@
+program c : qS : takes we, T4 : boolean returns integer chillax end t : takes P02, H7A, n, e, zo, m8 : boolean array; x9 : boolean array; M_B0 : integer returns nothing chillax end main : n : integer; D49 : boolean; chillax end

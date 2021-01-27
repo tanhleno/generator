@@ -1,0 +1,1 @@
+program e : main : let H[- true / not false / (431)] = - false; do T8(not false <= - not 96 - 48 - 7); while F19 < - 69900 - 3650 : when case 329 : pop end case 7 : chillax end; when case 44 : chillax end end end

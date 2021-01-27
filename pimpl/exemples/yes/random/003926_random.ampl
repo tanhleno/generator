@@ -1,0 +1,1 @@
+program n5 : MW : takes Bbma, CX, P8, e, r : integer returns boolean array chillax end main : j9, C : integer array; X, f, _, K, qo, b : boolean; input EQ8a[- 137 - not true rem 68 and 2 or not 66 and 33] end

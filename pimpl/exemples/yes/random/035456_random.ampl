@@ -1,0 +1,1 @@
+program l : B8Zaa : takes R : boolean; s : boolean; I2 : boolean; o2 : boolean array; L : boolean array; AA20 : integer; s : boolean; t : boolean; rz : boolean returns nothing chillax end Tdh : takes t, g : boolean array returns integer M, gB : integer; IQQ, X4 : boolean; z : boolean; chillax end main : output "1" . "" . - 9 end

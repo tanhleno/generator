@@ -1,0 +1,1 @@
+program Ws : E : takes A, a, Z, S5, Q580a, e6 : integer; PP10a : boolean; bT, I2, ZT1 : integer array; t9 : integer array returns integer array output "" end main : output "" . - not 87 and 3 - 505 - 8 /= 63 . ";" . 4 . 3; pop true and 08; do b(- true - 9, 410, 439) end

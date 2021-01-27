@@ -1,0 +1,1 @@
+program v : i : takes HL9, o : integer returns nothing do Q1(false > - 0); while 0 - 4 : chillax end end Em6 : takes f, O : boolean returns nothing output "5" . 97 end s : takes H : integer; K : integer; S : boolean array returns boolean array R8 : integer; chillax end main : chillax end

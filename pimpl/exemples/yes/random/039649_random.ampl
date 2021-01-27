@@ -1,0 +1,1 @@
+program s : V05aa : takes k : boolean array; Fs4 : boolean; q9 : boolean array returns boolean chillax end d5N0a : takes E790, RV, Rl, Y, I : integer; T : integer array returns integer array input x[- 1] end main : chillax end

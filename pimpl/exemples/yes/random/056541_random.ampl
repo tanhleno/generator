@@ -1,0 +1,1 @@
+program S : A4 : takes Z : integer array; n : integer; FK8a, G, _I3 : boolean returns nothing Ku7 : integer array; M8, N : integer; w, C, ev : boolean; e : boolean; c2G : boolean; S8u : boolean; chillax end main : let K = - true * (6300) or not 6190 and 8 = not 8 and 6; let oL2 = not 0 or 294 = - 0 end

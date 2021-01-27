@@ -1,0 +1,1 @@
+program H : N1C : takes iM5 : integer array; wO, b : integer returns nothing A : integer; F3 : integer; while true and 2 /= - 08 - 18 : chillax end; when case 03 - 52 < 08 : chillax end end main : l1 : boolean; pop - false rem true and 175 or(1) and 22100 or 119 - 132 /= - not 8750 - 2; let E1M = y and 42400 or 867 >= 55; let H[not 6 - 0 - 3520] = - 9 end

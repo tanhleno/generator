@@ -1,0 +1,1 @@
+program Y : qG : takes Sw1, hvf, te : integer array; ky : integer array returns boolean array pop end main : V, I, T : integer array; LO : boolean array; do X9j(- false rem true or true - false and 60 - 2 - 8) end

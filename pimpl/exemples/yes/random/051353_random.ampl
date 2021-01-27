@@ -1,0 +1,1 @@
+program GR : Mt : takes bP2a : integer; n4K : boolean; a98aa, l, nY0aa : boolean array returns nothing N, a, uRq0a, a6 : integer array; A, G2, y8Pa : boolean; v, r : integer array; output "" end main : do G1(- true * true rem not 5 and 0) end

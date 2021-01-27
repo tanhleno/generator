@@ -1,0 +1,1 @@
+program z : xI5 : takes v39aa, f : integer array; q, Y, UcO0a, Un : boolean array; jR, N, nq : integer returns nothing let yPZa = - 949 - 3 end main : e1V, j : integer array; while - false and not false * false < - false and(8) or(0) : chillax end; let P = array - QCea and(557) end

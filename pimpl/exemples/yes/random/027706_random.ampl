@@ -1,0 +1,1 @@
+program egV : h : takes yV5aa, Y : integer array; Lm30a, K : boolean array returns boolean array let G96aa[false] = array - 781; pop 3 = 9; input o7; let KM = array 9; do z(7) end main : YJ4aa, M, u680 : boolean array; k, i : integer; V : boolean array; input j end

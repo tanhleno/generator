@@ -1,0 +1,1 @@
+program X : _1L : takes _2 : integer array; ng : boolean; z1 : integer returns boolean array chillax end c6N0 : takes P9, _, i8aa, m44aa, j, A00a, L : boolean array returns integer array let CP = 8 end main : Ja2, d7 : boolean array; v4 : integer; r8Ba : integer array; P : boolean array; F2, J : boolean; chillax end

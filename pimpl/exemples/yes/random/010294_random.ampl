@@ -1,0 +1,1 @@
+program M : VV00a : takes D, m, x1z : boolean array; Aj2 : integer; kR : integer returns boolean array when case true and 9860 < 966 : chillax end end main : let N[- N] = - v * false and 240 > - Q end

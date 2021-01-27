@@ -1,0 +1,1 @@
+program OS : Y : takes e : integer array returns nothing MRCa : integer; when case 251 and 70 : pop 3570; input K; when case 1480 : chillax end end case 65 - 4340 : chillax end case 3 = 309 : pop; pop end otherwise : chillax end; while - 49 /= 9 : chillax end end main : chillax end

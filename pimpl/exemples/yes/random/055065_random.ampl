@@ -1,0 +1,1 @@
+program O : J4B : takes g7w : integer array; Ce80, uF : integer array; v6, u, Y : boolean returns nothing m3h, wg2a, x_3 : boolean; Y1z, u5 : boolean; while not 01600 + 9 - 14 >= - 1 : chillax end end j : takes e450 : integer returns nothing qIh : boolean; pop end main : m : integer array; chillax end

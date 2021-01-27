@@ -1,0 +1,1 @@
+program d : q7t : takes I0 : integer array returns nothing W1 : boolean array; P : boolean array; r, e46 : integer; H : boolean; F : boolean; output "|" . 18 = 3 . "" end V : takes H, hL : boolean; r, I3 : integer returns boolean array chillax end c : takes Q, X : integer array returns integer chillax end main : Y : integer; h : integer; pop false = U and 5 - 86 end

@@ -1,0 +1,1 @@
+program M : Odu : takes s, u, c, al : integer array returns nothing do F(false and 92, 39 <= 21, 3) end main : I4B, f : boolean; let k[- false or(13)] = array not not true and 429 and 1800; do h1(- ny(4) < (1)); while true and 739 + 53 - 390 > - 3 : do z(5); output "6:0"; input mB end; let T = 6; pop 4 end

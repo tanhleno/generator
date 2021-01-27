@@ -1,0 +1,1 @@
+program R4Va : main : n7U, Q : boolean array; when case 6 and HJ(19) - true and L5 and 15 = - not true : chillax end case zP / not 94 and 4 - not 9 and 19800 - 47 : chillax end; output "\"" . "4" . "" end

@@ -1,0 +1,1 @@
+program O3 : z6Q0 : takes cpz : boolean; cl : boolean returns integer K9_ : boolean array; j0 : boolean array; K, eV5, P : boolean; I3 : boolean; do g(T and 158, 05 - 54 /= 1) end P9 : takes G, bm : boolean array; E : integer array returns nothing pop end main : Q0c0 : integer; q, o, X4 : boolean array; K : boolean; m, K : integer; VLX : boolean; Jm : boolean; chillax end

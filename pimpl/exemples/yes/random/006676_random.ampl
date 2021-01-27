@@ -1,0 +1,1 @@
+program z : U1 : takes t, z9B, hM0, Pp3 : integer; h : integer; a4, i4Aa, f6 : integer array returns boolean array input i800[44 - 355 - 7]; do b(5 = 66) end X : takes A : boolean array; m : integer returns nothing chillax end main : chillax end

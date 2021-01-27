@@ -1,0 +1,1 @@
+program M3 : o : takes a : integer array; v, H, z, c, G4, ab, w77 : integer array returns boolean s : boolean; n : integer array; chillax end main : _ : integer array; output - true rem true and 0 /= 64100 . - false + 2 - 62 . "" . 0; while - true : chillax end end

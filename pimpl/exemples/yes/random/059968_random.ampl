@@ -1,0 +1,1 @@
+program y07 : lll : takes m5N : integer array returns nothing chillax end main : i, x : integer; R, Pkc, t90, P9 : boolean; C, g8laa : integer array; NJs : integer array; Go : boolean; bpU, p : boolean; vt2aa : boolean; O : boolean; pop end

@@ -1,0 +1,1 @@
+program M : aM : takes a : integer array returns boolean v95a : integer array; chillax end main : do NBJaa(3260 rem(23000) or false <= - (4) or true and 4, tn8[3] or not 0 + 0 > false, - 3 - 6 <= - 43); input V end

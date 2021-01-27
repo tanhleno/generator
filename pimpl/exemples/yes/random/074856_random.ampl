@@ -1,0 +1,1 @@
+program f6 : main : LB, Qsx : boolean array; C, V : boolean array; iuya : integer; w0, i, K2H : integer array; B7 : boolean; f, h : boolean; do sQ(- not true - true / true and 201); when case true < c and 88 + 54400 : chillax end otherwise : pop 4 end; do XZy((8) < - 88 - 2) end

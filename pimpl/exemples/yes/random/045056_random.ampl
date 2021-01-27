@@ -1,0 +1,1 @@
+program B3E : q6 : takes mK : boolean array returns nothing let e24[i] = array true; let n = array 1 - 080; input we1[81800] end main : P, l : integer array; p, K3, E0, V, Jr, fSs0a : boolean array; E, v : boolean array; Ac, K : integer; h2Xaa, GW : integer; K, Q : boolean; K : boolean; chillax end

@@ -1,0 +1,1 @@
+program O61aa : s7H0a : takes n, j, b6o, F : integer returns boolean chillax end B : takes F4, W9G0a : boolean returns boolean let B6[- 3 - 0] = array - 53500 end B5 : takes K8, l, u5Qa, _ : integer; Q, l, HhD : integer array returns boolean h, W7Ha, i34 : integer; S79aa, H2 : boolean; output "\\l" . 684 end main : F2, t : boolean; chillax end

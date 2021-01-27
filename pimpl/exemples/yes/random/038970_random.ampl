@@ -1,0 +1,1 @@
+program I61a : T : takes hPj : boolean array; D, v : boolean returns nothing while - x or 8 - 29 : while 0 : pop end end end main : o : integer; e2c0 : boolean array; d : integer array; pop; pop; output "E0a" . "\n" end

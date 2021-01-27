@@ -1,0 +1,1 @@
+program P : M : takes O, A : integer array; U : integer; Q, h76a : boolean returns nothing i5 : integer array; while - not 9 + 68 - 7 <= - 9 : chillax end; do R(91) end Kl : takes O : integer returns boolean array _ : integer array; output "~&0a" . 534 end main : sa : boolean array; y7ya : integer array; X5Wa, G : integer array; n, od, Zv : boolean; chillax end

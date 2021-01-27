@@ -1,0 +1,1 @@
+program c920 : X : takes aO, ZJ, q72a, q, u : boolean array; Mv, mkI, K, R : integer returns nothing chillax end main : f5, O : integer array; _, N : integer; YV5, ATq, WIB, O, Sn : boolean array; chillax end

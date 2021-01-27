@@ -1,0 +1,1 @@
+program f : Uo : takes M2 : integer returns nothing I0 : integer array; chillax end main : PD, R, q : integer array; e9Aaa : integer; m : integer; BO, e, b : boolean array; while - l(29) > - not 75300 rem false : let j9 = 745; output 5; output "30" . ""; do X(491) end end

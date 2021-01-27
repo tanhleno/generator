@@ -1,0 +1,1 @@
+program F : k : takes b : integer array; Az6 : boolean array returns nothing Kx, nSd : boolean array; W : integer; pop - 59 - 85 end xktaa : takes p : boolean array returns boolean chillax end main : u, m9v : boolean; chillax end

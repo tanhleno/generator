@@ -1,0 +1,1 @@
+program Bh : y9 : takes b, p : boolean array returns integer chillax end f0 : takes g, J1i, sqPa : boolean array returns nothing do u(- 26 - 5 > 83) end U : takes xW : boolean array; l, A : boolean array; w, O, z, Sk : boolean array returns nothing do F(6760 = 62); pop; do x(25); pop; pop end main : qQR0a, qN, p : integer; chillax end

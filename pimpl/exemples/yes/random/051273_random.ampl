@@ -1,0 +1,1 @@
+program Et7 : R : takes K : integer; d, d0 : integer returns nothing r6 : boolean array; do i(- NgA0a + 9 - 67) end t : takes I22, n : boolean; RA0 : boolean; l, F, S, I : integer; E : integer array returns nothing SBG, z64 : integer; input G end main : k, Q : boolean; r, v, p, m : integer; m : boolean array; chillax end

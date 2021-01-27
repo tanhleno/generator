@@ -1,0 +1,1 @@
+program Q : main : input m[- not true or 76 rem not 475 or 7 and 91 or 15]; when case not not 99 /= - false and 25400 + 4 - 5 : pop 90; while 3 : chillax end; input v; while 4 : chillax end; pop end otherwise : pop 390 end; output "6\""; do Wq5(5 - 005 /= 54, 5); while 9 = 56 : chillax end; pop end

@@ -1,0 +1,1 @@
+program KT : R : takes n : integer array; L1J0, U2f0, i : boolean; r, v350a : boolean; C : boolean array returns integer array while not 6 and 1 - 52 - 8350 : pop end end d : takes A : integer returns boolean array do o(84 < 03, 62900) end x : takes T4 : boolean returns nothing chillax end main : chillax end

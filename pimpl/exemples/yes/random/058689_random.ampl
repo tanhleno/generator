@@ -1,0 +1,1 @@
+program Z2 : q95 : takes PT5 : integer array returns integer array chillax end main : when case false : do x1(- 6 /= 00); do o05aa(7 = 33800, 7) end otherwise : while 7 = 53 : chillax end; pop end end

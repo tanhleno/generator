@@ -1,0 +1,1 @@
+program K : JF : takes NQ, V6, h8, JkT, g, A : integer; DQ, t : integer array; n9 : integer array; y, J, sj, J, p : boolean; S, gz, G, TJ4 : integer array returns boolean array h, l5 : integer array; GI : boolean array; M470a, Ni, l : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program od1 : main : R : boolean; GB, a29aa : boolean; when case true /= true and false and 9 or w88aa : while 5 /= 20000 : chillax end; pop 82 end otherwise : when case 1240 = 7 : input m1O; pop end; when case 3 : pop end; do N(9); pop; pop end; pop end

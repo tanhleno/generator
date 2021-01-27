@@ -1,0 +1,1 @@
+program iG : EG : takes F : boolean returns nothing while - not 53300 <= 7000 - 2 : chillax end; input A[5 - 716] end main : sz0aa : integer; _l : boolean; R0p : boolean; let QH[- not 6 and gM[97] and 1 or A(76) + not 99 and 5] = array 1 * 731 * dj or not 1; pop end

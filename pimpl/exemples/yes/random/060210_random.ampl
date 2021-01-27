@@ -1,0 +1,1 @@
+program el : u : takes W : integer array returns nothing Y, I, v, H5y, Z : boolean array; x, db70 : boolean; C8b : integer; let D = array - (21) and 73 + 518 end main : xd : boolean array; chillax end

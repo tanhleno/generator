@@ -1,0 +1,1 @@
+program P : main : S39a, G, r73aa : boolean; q : boolean array; while 19 <= X(61) : pop 740; output 8 . 4 . "\n" end; let l = 5 and 66 or 1 = 15; let v330a[- false and 3] = array true and 03; output 34 . "" end

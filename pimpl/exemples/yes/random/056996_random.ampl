@@ -1,0 +1,1 @@
+program y : _50 : takes U : integer array; t : integer array; hY : boolean returns nothing m : boolean array; chillax end p53 : takes hEX : integer; L : boolean array; VW0 : boolean array returns boolean array chillax end main : e : integer; D3G0a, tM, y, zg : boolean array; n130, p6 : boolean; H : integer; J : integer; h : boolean; pop; output "R" end

@@ -1,0 +1,1 @@
+program jC : A2 : takes s : boolean array; N : boolean array returns boolean array z, E4Faa, Q, qMC : integer; chillax end Tv : takes J, I : boolean returns boolean P9Ja : boolean; while 8 - 26 : chillax end; do R0(786 = 6) end jC4 : takes c, Wn2aa, k, km : integer; d, V, H : integer array returns nothing n6, B : integer; A : boolean; let J = 8 end main : chillax end

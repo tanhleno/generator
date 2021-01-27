@@ -1,0 +1,1 @@
+program tE : P : takes A, _C2, C, C560a : integer; U0, x6L0, e, H, eh0, mqq0 : integer array; Eu : boolean; f6, V3, o : boolean array returns integer array C, O0, O : boolean array; chillax end main : when case(49) /= true - not 67 or 2 - 08 : chillax end case true = not 0 + 00 - 500 : output 2 . "" end; let c[- r47(04600) and o and 2 - not 7 - 021] = array - true / not 67800 end

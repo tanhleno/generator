@@ -1,0 +1,1 @@
+program Hz : l1x0a : takes a : integer array; a88a, R, k5k, x6, I2G : integer array returns integer array W8, S, w9 : boolean array; T : integer; chillax end Gtpa : takes wC, qm, q : integer array returns boolean array pop 383 = 5 end main : input I end

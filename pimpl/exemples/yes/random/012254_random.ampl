@@ -1,0 +1,1 @@
+program R : fu : takes c, YoW0, d : boolean returns nothing R5l0, wA2 : boolean array; di20 : integer; b8 : integer; L510, A : boolean; output 6 - 59 /= 2; when case 0 = 854 : chillax end case 4 : pop end otherwise : let I = 05600 end; output ""; while 8 : chillax end end main : Hk0 : boolean; F : boolean array; chillax end

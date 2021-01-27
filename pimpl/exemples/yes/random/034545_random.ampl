@@ -1,0 +1,1 @@
+program p2q : e7ca : takes e : boolean; cs, yp : boolean array returns integer let i93 = - 861 - 30 end main : input oJ[- (4 = 8) / true * (04) and 12 - 1 and p]; pop - 0 and 355 or 64 < 5 - 3; while not 736 >= 5 - 4 : let i59[1650] = 118; while 798 : chillax end; input pP50 end; output 5 = 2 . "L#0a" . 5 end

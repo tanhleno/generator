@@ -1,0 +1,1 @@
+program w : _ : takes D : boolean returns nothing Y : boolean array; uWF, f050a, fI : boolean array; do i(- false - 22 - 62) end TX : takes o8 : boolean; M : boolean returns integer array chillax end BPZ0a : takes IMq : boolean array returns nothing chillax end main : let rd = 9 or false = - false and 23 or 1720 - 0 end

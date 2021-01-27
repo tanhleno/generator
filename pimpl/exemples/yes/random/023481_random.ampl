@@ -1,0 +1,1 @@
+program S : FX50a : takes fa, W : boolean returns integer array CC6, VWLa : boolean; when case A and 8 <= 9 : chillax end otherwise : chillax end end main : J8G0a : integer; output 00500 and false - true and 2860 or 179 - 8 end

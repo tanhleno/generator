@@ -1,0 +1,1 @@
+program XF : C1 : takes Fc, I4 : integer returns boolean LG, ue2 : boolean array; d : boolean array; P, G : integer array; chillax end l : takes n3 : boolean array returns boolean array chillax end main : chillax end

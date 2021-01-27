@@ -1,0 +1,1 @@
+program E : fT : takes Ft, T : integer array; b : boolean array; S : boolean array returns integer array when case false and 2 : chillax end case 87 : input M; when case 25 : chillax end end otherwise : input M end; input Ps60 end y : takes m9I : boolean returns nothing t, b, W0 : boolean array; chillax end main : chillax end

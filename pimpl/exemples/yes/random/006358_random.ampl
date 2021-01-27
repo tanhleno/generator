@@ -1,0 +1,1 @@
+program K5 : J5 : takes e9, I70, H1, Xh : integer; ZMm, B7, N : boolean; H : boolean returns nothing h, q07 : integer array; output "J" . 6 . 469 end main : C55 : integer; output "/" . - (534) and 0 /= 7 - 1 . 3 - 2 < 2 . 9 = 7 . "L"; when case true - (9) - 41000 - 59 : output 12 end end

@@ -1,0 +1,1 @@
+program Z : main : let L[U or(32) or not 8 and 0 + 13 - 63] = not true rem W and 2 /= (6) - 41 - 5; when case false + false and 2 : input d2[08]; output "r\n" . "" end otherwise : chillax end; let s[564 and 4] = array true; let z = 3; when case 58 : chillax end end

@@ -1,0 +1,1 @@
+program M : U : takes K0a : integer; S, L4, efP, g49, K : integer array; fH6, o : integer returns nothing do i(- 961 /= - 086 - 6); output ""; when case 11 = 801 : chillax end case 2 : chillax end case 5 : chillax end; let U8[6] = 9 end main : sl, z : integer array; nT : integer; output - true rem false . "Q" end

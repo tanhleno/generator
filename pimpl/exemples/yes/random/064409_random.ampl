@@ -1,0 +1,1 @@
+program F : TK5a : takes m33 : integer returns nothing e, pO80a : boolean; do H72aa(- false or 367) end main : I : boolean; output ":4a" . 09500; let p[(5)] = - false or 5; input kG1a; let G[1] = 96 = 0; when case 8 : chillax end otherwise : chillax end; when case 0 : chillax end case 9 : chillax end; output "" end

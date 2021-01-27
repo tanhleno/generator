@@ -1,0 +1,1 @@
+program N : main : when case - (8) rem not(18) rem true and 8260 - 7 rem true and 2 + gYG : while 2 /= 82 : do T2e(9); input Q46 end; pop 4 end case - r(164) * v1 - 99 and 17 : chillax end otherwise : chillax end end

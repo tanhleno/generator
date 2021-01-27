@@ -1,0 +1,1 @@
+program A : cc : takes l : boolean array; IW, O2 : boolean; T9 : boolean array; RIV : boolean returns nothing q0 : integer; n : boolean array; WE9aa, xN7, D : integer; output "" end r : takes fr : integer; n, v, o9, W : integer returns nothing chillax end main : t7 : boolean array; Le : boolean; l, o, l4x : integer; input P[- 33] end

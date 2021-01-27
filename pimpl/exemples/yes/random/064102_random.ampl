@@ -1,0 +1,1 @@
+program pI : z : takes Ey7a : integer returns nothing do z(- not 2 and 0, - 01400 - 7) end ns : takes c, Q, P : integer array returns boolean array output "" end x : takes RP : boolean; U : boolean array; r, v : integer returns nothing J : integer; chillax end main : k : integer array; output not rP + not 609 /= true and 86000 end

@@ -1,0 +1,1 @@
+program i1o : la : takes u2 : boolean array returns boolean array pop; output "" end main : yd, d, EJ3a, M5M0a, uX : boolean; v, j, H, Rm3, Y, k : boolean; s : integer; K22, OG : integer; chillax end

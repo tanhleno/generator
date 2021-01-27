@@ -1,0 +1,1 @@
+program y : b : takes I, Q, Of1aa, w4 : boolean returns integer chillax end fGr0a : takes T : integer returns nothing Gw7 : boolean; S : boolean array; m : boolean; do M5P(43 - 7 /= 043, 7 = 0, 946, 8); when case 334 = 46400 : when case 4660 : chillax end end case 18 : pop end case 68 : chillax end otherwise : chillax end; let _4 = array 5; pop end main : chillax end

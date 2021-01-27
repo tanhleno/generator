@@ -1,0 +1,1 @@
+program sj : lg : takes a : boolean; T6gaa : boolean array returns boolean H7Zaa, KI9, s2L : integer; while false + 4 > - 7 : output 2; input qXA0a; do r6(07) end end main : while not(28) * not(583) > - not(25) and 4 and 400 : chillax end; output false and 88 or 052 - 3 < - 4 end

@@ -1,0 +1,1 @@
+program S : s : takes E, e1, bp : boolean; kk, p : boolean array; P, o8, b8 : integer array returns nothing chillax end main : W : boolean; B26 : integer; when case - hX[856] rem not false : chillax end end

@@ -1,0 +1,1 @@
+program C46 : o : takes i, E2T0, A2 : boolean returns nothing pop end f : takes Z, Kp : boolean array returns nothing n9, S, SN : integer; u, N : integer; f, M16 : boolean; C : boolean; j : boolean; chillax end main : chillax end

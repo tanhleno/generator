@@ -1,0 +1,1 @@
+program q : b : takes b, n, A620, wh : integer returns nothing AK3aa : integer array; X : boolean; XU, I : integer array; chillax end main : pop; while 6 / D or 61 > 0 or 9 : output "\\" . ""; when case 1 : chillax end case 55500 : chillax end end; input Je; input vg end

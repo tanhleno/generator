@@ -1,0 +1,1 @@
+program vf40a : v : takes pnWaa, U : integer returns boolean T : boolean; do l(- 6) end main : R : integer array; jF : boolean array; when case not false and 3310 / (6) and 5 or(04) * 9 and 1 <= (3) : pop 6 = 188 end case - N(62) : chillax end; pop end

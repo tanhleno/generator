@@ -1,0 +1,1 @@
+program P0 : n1 : takes N : integer returns nothing output "$" . 7 . ""; when case - 669 - 804 : chillax end otherwise : chillax end; do q(319, 2) end main : when case(90100) * (58) : input hJta; pop end case 6 > true and 4 or 3 : chillax end case false and 9 : let S = 549; while 207 : chillax end end otherwise : chillax end; output "4" end

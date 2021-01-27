@@ -1,0 +1,1 @@
+program g : FQ : takes E, S2 : integer; Beua, W, T71, CZk : integer; S : integer returns integer pop; when case - 7 <= 9 : output "/" end case 082 : pop end case 1 : pop end otherwise : chillax end; output "\\" end main : chillax end

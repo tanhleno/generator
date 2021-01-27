@@ -1,0 +1,1 @@
+program u09a : Wv4 : takes U, Q, j, YM, p9, pe, J : boolean; n9, Y : integer; K : boolean returns integer array chillax end uJ : takes v0, J3, bA5a, h, T : boolean array returns boolean let T = 5 = 83 end main : D : boolean; B3t, k0za : boolean; pop; output "\n+0a" . "$" . "" . "" . 5; while - not 67 : chillax end; do EM(- 12 > 51, 4 = 2) end

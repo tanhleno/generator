@@ -1,0 +1,1 @@
+program D3 : _ : takes C12, of : boolean returns boolean array rO1aa : boolean; V : boolean array; pop 3 - 64 > 8; let i[03] = array - 0 end main : when case 5 * false and true and 4 : output "" . 7 . 1; while 3 = 17 : output "" end end case - true or not 21500 or 0 /= - true : pop; output 5; let X9_ = 4 end case 5 : do lg(9); let G = 99 end case 2 - 3 : chillax end end

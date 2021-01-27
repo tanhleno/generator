@@ -1,0 +1,1 @@
+program m6 : D2N : takes Z : boolean array; NH, rl, Zvn0a, Q42aa, vg6a : boolean array; s, DU, L, Z43 : boolean array returns nothing E3v, w : boolean array; J7, rKJ0 : integer array; let A8Aa = - 0 - 3 end Y : takes L4Ha : integer array returns boolean let _6[- 3110] = 1 = 0; input I5h0a[5]; input h2u[0] end main : let q6 = _(5) = true end

@@ -1,0 +1,1 @@
+program s : e64aa : takes J0, l : boolean array returns boolean eL : boolean; chillax end main : do C4(- (53 = 461) and not E > true, - not Y or s and 32, true, - 18 > 2); output "0_!a" . "\"" . "" . 2 . "\nJ0a" end

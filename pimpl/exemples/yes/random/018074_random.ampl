@@ -1,0 +1,1 @@
+program e43 : X : takes l, mvy0 : boolean; V1 : boolean returns nothing let s[- false] = 2 end main : t : integer array; n4, My9, w, H : boolean array; bY : boolean array; input B[false rem false * (6) and 2390] end

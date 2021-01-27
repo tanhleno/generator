@@ -1,0 +1,1 @@
+program c : main : when case - not(8) - true / true and 420 + not 60500 and 681 + 1 : input S[98 - 5] end case(5) * 44100 and 73 - false or 0 : chillax end case 3980 : pop end case - 959 <= 02 : chillax end case 2 = 7 : chillax end; when case - 42 / (46700) >= (54) : do P(725 = 46) end; do zi1(true and 3 = 8 - 88); pop 423 = 525; let hP = array 5; input i[658] end

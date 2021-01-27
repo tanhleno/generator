@@ -1,0 +1,1 @@
+program P : UpNaa : takes QE10, r, z, u, L, o : boolean; mQ, m : integer array; T, A, c : boolean; i9 : boolean; g, k, F50, J89a : integer; M8Y, cKqaa, wz : integer array; us : boolean; km6 : boolean returns nothing chillax end St : takes A5Eaa : integer returns boolean _ : integer array; input vF_a; do P6(3) end main : chillax end

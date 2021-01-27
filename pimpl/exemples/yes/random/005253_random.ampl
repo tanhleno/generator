@@ -1,0 +1,1 @@
+program C : r : takes K, m, c, WV8 : boolean array returns boolean array chillax end Q : takes v : boolean array; NtC, p, AF, o : boolean returns nothing pop end Yl7 : takes h1 : boolean returns nothing pop; let g = array 7 end main : chillax end

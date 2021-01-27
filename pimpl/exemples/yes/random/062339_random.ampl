@@ -1,0 +1,1 @@
+program x : IA : takes N : integer returns boolean T, ts, R : boolean; O14, Uk, mLNaa, JX2 : integer; let c = - 847; pop 9; let z[66900] = 8; when case 6 : pop end case 95 : chillax end otherwise : chillax end end main : z_60a : boolean; STG, ms7 : integer array; chillax end

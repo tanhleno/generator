@@ -1,0 +1,1 @@
+program o7 : V5aa : takes JU, F : integer; bxQ, j, U : integer array returns nothing b : integer array; K2, e, f : integer; Y6 : integer array; chillax end lHDaa : takes J : integer array; I : integer returns boolean chillax end Q : takes du, A : boolean array returns integer array output "<" end main : chillax end

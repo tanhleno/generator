@@ -1,0 +1,1 @@
+program E : k8Na : takes VH3 : integer array returns nothing chillax end L11 : takes s8 : integer; F2t : integer returns boolean array du : integer; chillax end D04 : takes G0 : integer returns integer array chillax end main : pop - jM(86) + m and 1 or 29; while true / 32000 or false > true and 4070 : input XYg; while 5 : pop end end; pop 1 end

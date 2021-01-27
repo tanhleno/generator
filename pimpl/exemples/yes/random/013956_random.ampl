@@ -1,0 +1,1 @@
+program Iws : t : takes S44, d7, i180 : integer array; t, i : boolean returns boolean array y, h, a, E4W, v : boolean; when case UjT or 7 - 4 : output "\"" end; pop; do J1(535 = 4, 8, 452) end main : E5, Oksaa, ibK : boolean; input po0[- not false]; output "+i\"a" . 1 . "" end

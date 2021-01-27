@@ -1,0 +1,1 @@
+program S : TS5 : takes tv : boolean array; n, z1, HH0aa, V3k : integer returns boolean array J7, S, p, O : boolean array; S : boolean array; do lQGaa(3 /= 87 - 4380) end OH : takes Xt, i44 : integer array; _, s0X0, W, q3, L, t : boolean returns nothing wt, q87aa : integer array; chillax end main : N2n, yP : boolean; do N(- (537 = 5) * true /= - 19 - true - 99); pop end

@@ -1,0 +1,1 @@
+program O : xT4 : takes Wry, D, jd : boolean array returns boolean array chillax end main : when case - false >= 53800 : when case 313 - 3 : while 3 : chillax end end otherwise : output "\ty"; pop end; output 5 . "\""; while 18 : chillax end; while 7 : chillax end; let z = 4 end case - true + 3 and 8 + 51 - 4 : let M[92] = array 16900 end otherwise : do Z(18) end end

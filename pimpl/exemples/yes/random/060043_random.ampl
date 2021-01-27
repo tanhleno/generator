@@ -1,0 +1,1 @@
+program W : P : takes xcM : integer array returns nothing chillax end main : J : integer array; uN : boolean; r, G550 : integer array; do p3(true); when case - not true rem true : while 77 = 907 : chillax end end case - true and 5 or 9 <= - 5520 - 3060 : output "" . "7"; output "d" end case 485 - 0 >= 2 : chillax end otherwise : chillax end end

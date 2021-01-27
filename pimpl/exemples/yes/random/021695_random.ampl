@@ -1,0 +1,1 @@
+program kDK : d : takes s, q : boolean array returns integer D : boolean array; x5 : integer; l, L : boolean; chillax end w : takes DI4a, c, S28, S : integer returns boolean te : boolean array; chillax end main : r : boolean; B, f : boolean; chillax end

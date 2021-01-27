@@ -1,0 +1,1 @@
+program D : l3 : takes j : integer; V29 : boolean array returns nothing T4ua, N : integer; chillax end main : r4, rP90a, k_8a, pzt : integer array; va, Rf : boolean array; B52, I8, x4, t, J : integer; pop j9b0[58] * false; let uE5[- B(06)] = - (6) /= - 4040; pop 9 < 3; pop 6 = 69; while 12 : chillax end; output "2d" . "8" end

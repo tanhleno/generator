@@ -1,0 +1,1 @@
+program k7 : K : takes y : boolean array; g, L, NS6 : boolean array returns nothing while N and 4 >= - 3 - 0 : when case 648 : chillax end end end main : let a8[true * 63 / true + (5) * not 95] = array - r[2]; while - 106 and 20 and 5 + not 4 : chillax end; pop end

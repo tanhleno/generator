@@ -1,0 +1,1 @@
+program U0 : u60 : takes S : integer returns nothing g, m : integer array; when case - (24500) and 6 <= 73500 - 0 : pop 70 end case - 25 <= 78 : chillax end otherwise : chillax end; pop end A : takes U, b : integer returns integer WC, uj9aa, H : integer array; chillax end main : input STV0[- G / 5650 and 5] end

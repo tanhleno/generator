@@ -1,0 +1,1 @@
+program CA_0 : L : takes YC8, aB6 : integer array returns boolean array let B[false] = - 8 - 4 end g8 : takes t8 : integer returns boolean array r : integer array; _S : boolean array; chillax end main : chillax end

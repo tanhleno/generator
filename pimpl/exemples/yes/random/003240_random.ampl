@@ -1,0 +1,1 @@
+program O : jC4a : takes o, t8, U6, P, f : integer; S, p : integer returns nothing P, vGM0, L : integer; eW60a, X5, m : boolean; let V[(4) or 1 - 87] = - 4 - 3; input rV end bh70 : takes O : boolean returns boolean h : integer array; w : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program W6 : main : output - (6) + false + 1 - 1270 > - 42 and 1 . - true < - 84 - 0 . 2 - 8 < 20; when case not false and 3 and 051 + N7 and 9 + 3 = true : chillax end case false : output "" . ""; pop; output "\t\\"; pop end; output - 32 - 37 . 954 = 05 . 7 . "PY\"a" . ""; do y02a(- 6450 /= 3); while 5 : when case 28 : chillax end; pop end; pop 82 end

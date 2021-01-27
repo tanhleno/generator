@@ -1,0 +1,1 @@
+program U1 : p : takes NEw : boolean; v0 : integer array; cc : integer; i : integer array returns nothing let a = array true or 91 - 2; when case - 8 : while 86 : chillax end end otherwise : chillax end; output 6 . 7 . ""; output 8 end main : chillax end

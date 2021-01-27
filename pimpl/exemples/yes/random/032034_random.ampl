@@ -1,0 +1,1 @@
+program L : N : takes ZV, F25 : integer returns integer cY4, w : boolean; chillax end q : takes Y, g2L : integer returns integer array output 6 end main : y : boolean array; input t[- iG[821] and(2) - 95 rem n330a and 7730]; while - d(6) * false and 59 + not 3 and 5 - 8 - 5 : chillax end end

@@ -1,0 +1,1 @@
+program t : M : takes d, F, L : boolean array; k2, Qh : integer array returns integer array while H5L0a > - 429 - 8250 : when case 3 : chillax end otherwise : chillax end; output "."; let i_Vaa = 89; pop end end a4 : takes X, I, dT : boolean array; G : boolean array returns integer C9, ls0a, biOaa : integer; pop 7 = 1 end main : input n end

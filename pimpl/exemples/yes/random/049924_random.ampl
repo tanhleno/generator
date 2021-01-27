@@ -1,0 +1,1 @@
+program n : vw : takes E : integer; Q2, B250, M : boolean array returns nothing YnA, GCH : boolean array; chillax end b : takes f : boolean returns nothing ML : integer; b, J8 : integer; chillax end main : do Z(9800 <= - true and(24) and 5 or true) end

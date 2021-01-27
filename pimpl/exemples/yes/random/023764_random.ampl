@@ -1,0 +1,1 @@
+program _3 : UrZaa : takes Gn, U : boolean returns integer o : boolean array; u, LHQ : boolean; I : boolean array; chillax end HcK : takes l, c : boolean; Ge : integer array returns boolean I8, K : integer; let X4[- 0] = array - 2 - 73 end Ri : takes j26aa : integer; df : boolean returns nothing t, BI3 : integer; chillax end main : chillax end

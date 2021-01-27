@@ -1,0 +1,1 @@
+program J : main : KGJa : integer array; i, y1P, SN : integer; i : boolean; pop; when case true / 4 or false or 10 - 07 > - _ and 3 : chillax end case false >= - 7 : do L(7680) end case - 08200 - 49 : input v; when case 6550 : chillax end end end

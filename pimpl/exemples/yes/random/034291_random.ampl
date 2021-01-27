@@ -1,0 +1,1 @@
+program X : Qa : takes b : boolean; m, o : boolean; z67 : boolean array; T, RIq : boolean; z, L : boolean array; Do : integer array; n, J : boolean; _ : boolean; u : boolean returns nothing let ov40 = array bc end main : S : boolean; X : integer array; chillax end

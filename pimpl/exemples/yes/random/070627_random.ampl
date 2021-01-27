@@ -1,0 +1,1 @@
+program X5 : main : j8, C4, Q, W : integer array; output - false * true - not 1500 or 1; when case(1) and(773) <= not 3 - 90 : when case 3 = 9 : do C(8520) end case 11 : pop end otherwise : pop end end end

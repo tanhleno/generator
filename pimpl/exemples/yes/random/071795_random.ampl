@@ -1,0 +1,1 @@
+program a : main : h7wa, H, S : boolean array; let c2Ba[(84 = 040) rem(1370)] = - F / B and 4; input _[true / 42600 or 1880 and 7 - 54]; when case - not 61 - 4 - 6 : chillax end case 9 : let Q = 32; output "7" end otherwise : output "\"" end; pop 15 = 5; input _; output ">\\a"; let uE3 = 476 end

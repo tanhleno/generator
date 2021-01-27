@@ -1,0 +1,1 @@
+program E2 : E3 : takes r : integer returns integer while - 18500 - 3750 - 9 : chillax end end main : z2, X, ji, J : integer array; E, znj, n, r0 : integer array; k, n1 : integer; let B81a = array(323 = 6) end

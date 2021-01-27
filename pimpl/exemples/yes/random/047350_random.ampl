@@ -1,0 +1,1 @@
+program w : i6 : takes A : boolean returns integer when case 085 and 5 - 558 - 4 : pop 4; pop; while 98500 : chillax end end; do X2Na(- 9 - 8) end main : Cj9a, h : integer; bIU0a : integer array; T : boolean array; input P end

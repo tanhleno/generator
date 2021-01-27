@@ -1,0 +1,1 @@
+program W : U : takes P : integer returns nothing input d[- false and 9120] end P : takes m, iAj : integer; _, E : integer returns boolean array chillax end main : g, N7p0a : integer array; A, ytI : boolean; when case 01 : chillax end case false : chillax end end

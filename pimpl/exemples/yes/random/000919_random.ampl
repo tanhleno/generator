@@ -1,0 +1,1 @@
+program o8 : fyO : takes L, N, s, o, C4, NrU, i1 : integer array; z : integer array returns boolean array E7, v5Pa : boolean array; s, pd : boolean array; D2, d, X_60a : integer array; pop; output "K\""; output 58600 end main : z : boolean array; chillax end

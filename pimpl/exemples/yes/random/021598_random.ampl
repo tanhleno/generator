@@ -1,0 +1,1 @@
+program m : MF : takes m, y : boolean array returns integer do w8(- true or 3, - 1, 2); pop 32600 end lg : takes I : boolean array; c5 : integer returns nothing J, Z : boolean; W3 : integer; i : boolean; chillax end main : J, EX8a : boolean; do Y(- true); do Z2Sa(false - SO0 and 1 + 58 - 0) end

@@ -1,0 +1,1 @@
+program p : tX : takes C : integer; yY90a : integer returns nothing chillax end F9W : takes l8R, xL, U : integer array returns nothing while 7 : let Q = 4 end; input l4c[618]; output 02 . ""; input O end main : B, r, afR, i8, I, U9, k3c : integer array; p, R : integer; D, cBt, Ao7, f640a : boolean array; no : integer; let s = array - J rem false and C - true end

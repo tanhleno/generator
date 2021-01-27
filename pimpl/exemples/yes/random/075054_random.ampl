@@ -1,0 +1,1 @@
+program d : main : v6, Bo : boolean array; zr : boolean; pop; when case not(65) + not 0 and 4 : input E9v[2]; output 8 . "" end otherwise : chillax end; when case PU and 2 /= 93 : while 9980 : pop end end; let jwxaa = 26; input k67 end

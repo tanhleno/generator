@@ -1,0 +1,1 @@
+program vU : U : takes NC4 : integer array returns boolean i6, E4, Z, LZ, H : integer array; chillax end _ : takes N2O, P, p : integer returns nothing do W(- 92); let P2e0 = 5 end main : P9 : boolean; output 0 - s . "4" end

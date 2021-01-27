@@ -1,0 +1,1 @@
+program CH : m : takes s, y530, muY : integer array returns nothing d : boolean array; oO70, e : integer array; chillax end g : takes F : integer array; Ob0 : integer returns nothing p, A, A, l : integer; t2u0, _cI : integer array; u : boolean; while - 7 = 6 : chillax end end main : do l3d0(4 and 2 = - false) end

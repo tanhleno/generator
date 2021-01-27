@@ -1,0 +1,1 @@
+program e4 : Ef5 : takes Zn : boolean array returns boolean array y, B : boolean array; do t70(2, 474 - 4) end UBh : takes ES00a, Z6, G, K26 : boolean array returns integer array chillax end main : chillax end

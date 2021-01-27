@@ -1,0 +1,1 @@
+program s : main : f : integer array; yY_ : integer; pop; when case I5 rem false or false and 90 + 49200 - 51 : input Rx2a[6]; do S0(2640, 3); pop; while 8060 : chillax end; pop end otherwise : output "" end end

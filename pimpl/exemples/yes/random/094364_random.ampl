@@ -1,0 +1,1 @@
+program M : main : pop; do UV7a(false * (2920) or(8) and 8 or 0, true and 93 + 0 - 951, 02 = 693); input BZ0; do Q8(- 61 - 0 < 68, 1 = 1); do V(4800); when case 8 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program l7 : kD : takes F6 : integer; l, BTC : integer array; j, j : integer array returns integer _, U, o, f : boolean; g44, i, b0, M35aa : boolean array; do j(Ln and 35, - 17 < 1) end v2W : takes DG : integer; U, _I3, z01 : integer; s, Y, n : boolean array returns boolean chillax end main : chillax end

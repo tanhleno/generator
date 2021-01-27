@@ -1,0 +1,1 @@
+program n : QvY0a : takes P0 : integer; y, j4, S2s : boolean array; BC : integer returns nothing n, aV, j : integer; do F(17, 46 - 572) end z7 : takes m, jt, n : integer array returns nothing let P = 61 end R : takes _ : integer returns boolean input c0[79] end main : g, TY, q : boolean array; Yx, w2 : boolean; chillax end

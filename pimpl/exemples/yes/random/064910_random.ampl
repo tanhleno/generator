@@ -1,0 +1,1 @@
+program u4 : D : takes k : integer returns nothing _7x : integer; chillax end main : aw2, iSNaa : integer array; dm, dJs, r, d1 : boolean; pop - not(5) / true and 01900 + C or 77 - 6680 >= - true and 56 or 10; let M[- true * 6430 - true and 74 or 4 - 45] = - true or 1860 >= - 62; let l0[- (1) and 018] = array - true - 0 - 30 end

@@ -1,0 +1,1 @@
+program t : d : takes c : integer array; Z : boolean returns boolean array EQs : integer; L, m : integer array; when case - (7) and 40 + 5 - 98 : chillax end; while 670 : input z7 end end main : chillax end

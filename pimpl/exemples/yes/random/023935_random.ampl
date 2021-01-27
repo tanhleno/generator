@@ -1,0 +1,1 @@
+program O : U9 : takes q37a, Gz1a : boolean returns nothing chillax end W : takes N : boolean; u56, oEt : boolean returns nothing DQ9a, p : boolean; c9, V3E : boolean array; DE : boolean; output 35 = 15 . "3" . 825 end main : pop - (1) - true - 5 - 8; when case - 45 /= (84) : while 7 : chillax end end end

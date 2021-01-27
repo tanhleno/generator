@@ -1,0 +1,1 @@
+program Kp : main : w8 : boolean array; S2 : boolean; s, k, U, h : integer array; ec : integer array; pop - false + O >= - J + 00400; input M[- false * false and 9]; input R; let n = array - 1870 - 5 end

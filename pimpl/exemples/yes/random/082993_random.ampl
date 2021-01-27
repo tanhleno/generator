@@ -1,0 +1,1 @@
+program U : main : Q : integer; do tQ(- not 264 or not true * 5 and 6); while - (4) or U and 01 + 13 - 8970 : output ""; while 4 : chillax end; when case 99 : chillax end; when case 1 : chillax end; pop end end

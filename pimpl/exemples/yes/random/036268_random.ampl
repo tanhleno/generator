@@ -1,0 +1,1 @@
+program SE5 : x17 : takes J : boolean; k3 : boolean returns nothing chillax end main : yeL0a, hF, F, n, a0B, d, m2 : boolean array; input y; when case 55 >= (65300) and 74 + 3 : chillax end otherwise : chillax end; output "" . "7" . "34!a" . "<" end

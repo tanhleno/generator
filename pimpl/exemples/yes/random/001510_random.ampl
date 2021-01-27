@@ -1,0 +1,1 @@
+program l : Cn : takes e0, X5, e3m, C, B, b : boolean returns integer array chillax end main : T5g0 : integer; when case - (619 = 67) * not(5) * not 5 and 0 : chillax end case - not false * false and 4 - not 8 : pop 55 end case Y and 6 : input L07 end case 55100 : chillax end case 52 : chillax end end

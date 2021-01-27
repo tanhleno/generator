@@ -1,0 +1,1 @@
+program p5 : hlf : takes r, w43, aD, O : integer array returns boolean array output "9N" . 287 = 3 . 8800; let d = array 8 - 0; input t; pop end main : U4q, dDe : integer; uo0, Xv : integer array; v7, H49aa, O1 : boolean; chillax end

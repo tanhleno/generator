@@ -1,0 +1,1 @@
+program JB : x : takes Em8a : integer returns nothing chillax end Uo : takes h : integer; yb : boolean; AxB0 : integer returns boolean array Z : integer array; _4, F290 : boolean; chillax end main : when case - L6 rem q74[78] /= - not true and true - false and 098 - 50 : chillax end end

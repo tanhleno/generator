@@ -1,0 +1,1 @@
+program H : s8 : takes i : boolean; m : boolean array returns nothing when case 92 and 9 - 94 - 55700 > - 407 : do P(7060, 43) end case - 06 : chillax end otherwise : chillax end end main : s, C : boolean array; MZ, oa, L, h6, aE : boolean array; chillax end

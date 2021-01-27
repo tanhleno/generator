@@ -1,0 +1,1 @@
+program RNt : main : when case - DT[2] / true = - 34 : chillax end case - lw and false and 8 - 1 : output 03 . 52 . "" end otherwise : chillax end; while - not 889 / true : output 307 end; while(6) and 9 <= - 9 : chillax end end

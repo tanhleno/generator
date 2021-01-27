@@ -1,0 +1,1 @@
+program _ : main : j : boolean; when case(12700 = 4) or(3) * not 33 - false > e[6] * (2) and 0 + 2 and 70 : when case 4 - 8 : chillax end otherwise : chillax end end case not(3) rem 9 or true and 73 : chillax end; while - C(8) : chillax end; output - 3 end

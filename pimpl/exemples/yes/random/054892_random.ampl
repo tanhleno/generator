@@ -1,0 +1,1 @@
+program Q : B : takes ou : integer array; U9I, Q : boolean returns nothing when case 9360 and 85 or 7 : chillax end; let h[0] = array - 9 end e69aa : takes fR3a, U12aa : boolean array returns integer array X : integer array; Kkd : boolean array; output 68 = 194 end main : r : boolean; chillax end

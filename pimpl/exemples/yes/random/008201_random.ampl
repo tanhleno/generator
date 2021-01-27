@@ -1,0 +1,1 @@
+program T : z : takes m, qpk, M9l, z : integer returns nothing chillax end main : when case - not true >= - not 3 * 2030 : while 9670 /= 76 : let L = 23 end end otherwise : while 40 : chillax end end end

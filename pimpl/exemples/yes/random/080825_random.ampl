@@ -1,0 +1,1 @@
+program m1 : main : n : boolean array; f, o9, E, _, z : boolean; k, K6p : integer array; GS, vB9, I3w : integer; Yu80, C35 : integer; output true; let OgSa[A33a(922) and false or(8)] = - a and 6 = 567 - 5 end

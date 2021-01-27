@@ -1,0 +1,1 @@
+program tE9aa : a : takes s : boolean returns nothing A, X : boolean; M8, B4 : boolean; chillax end main : when case - not 03700 and z4t or not not 7 /= not not 2 + not 3 + 1 : input s; output "\\Zaa" end; when case false and true - 493 and 58 + 4 : let A[9] = 18; when case 5150 : pop end case 944 : chillax end end otherwise : do zj(0) end; input a6; pop end

@@ -1,0 +1,1 @@
+program _ : B : takes Y, _9 : boolean array returns nothing Q6, bE : integer array; chillax end main : s : boolean array; do WB(- b rem not true / false - 3 > (3) and not 7, - not not 3 rem t or false and 06 + 8680 <= - false, (22) and 3) end

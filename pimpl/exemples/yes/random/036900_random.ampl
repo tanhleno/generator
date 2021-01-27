@@ -1,0 +1,1 @@
+program k : j : takes L : boolean; O : integer array; lHZ : integer returns nothing pop; when case 0 /= 22800 : do O8N0(7880) end otherwise : do k(1660); pop end; output "2\taa"; pop end main : chillax end

@@ -1,0 +1,1 @@
+program a100a : Y : takes F : boolean array; G9q : boolean array returns nothing pop; pop end main : h010 : integer array; do f(- true /= (3)); let P[77 - true] = - true and 85100; when case 76 and 0 + 8940 - 2800 /= - 5 - 66 : output 6 . "" end case - 9 - 2 >= 07700 : chillax end case 8 : when case 0 : chillax end end case 06800 : pop end end

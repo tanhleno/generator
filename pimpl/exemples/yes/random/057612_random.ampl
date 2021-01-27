@@ -1,0 +1,1 @@
+program H : z16a : takes K4 : integer array returns boolean array chillax end K : takes rbn : integer returns boolean array when case - 6 - 21 >= 2 : when case 51 : chillax end; when case 9 : chillax end; pop end otherwise : chillax end; while 24 = 2 : chillax end; output "$W"; input n; do G(76800) end main : hKTaa, x : integer array; chillax end

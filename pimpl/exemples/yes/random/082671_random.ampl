@@ -1,0 +1,1 @@
+program g : main : xD : boolean array; when case - false / 43 or 7 : do _110(653 - 51200, 5, 3) end case - 2 and 94 and 6 = false : chillax end case H - 7 - 4 : chillax end otherwise : while 5 = 7 : chillax end; output 049 . "&" end end

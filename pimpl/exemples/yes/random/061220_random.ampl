@@ -1,0 +1,1 @@
+program Dal : V : takes U4m : integer array returns nothing input d6; when case 8 - 151 : chillax end case 5 : while 6860 : chillax end end otherwise : pop; pop end; do n7(8 = 7, 61) end main : n : boolean array; m6 : integer; chillax end

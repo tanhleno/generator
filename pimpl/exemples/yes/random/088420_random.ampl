@@ -1,0 +1,1 @@
+program J9Q : main : input c[- (498 = 37) * not true]; when case - not false * (5) /= - true and 8 + 622 - 18900 : when case 6 : chillax end; pop 4 end otherwise : let K420a[7] = array 0 end; while - not 25 and 3 > 2 : pop 5100 end; let Y7k = 805 = 07 end

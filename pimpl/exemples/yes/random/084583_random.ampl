@@ -1,0 +1,1 @@
+program E : main : O : integer; input H00aa; do m(- true, - true and 47 or 8 /= 3, - 38800 = 00, 1710); input U[- pr5]; when case - 1 : let B = 3 end case 68 = 5 : chillax end case 61 : chillax end case 841 : chillax end end

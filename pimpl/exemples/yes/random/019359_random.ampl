@@ -1,0 +1,1 @@
+program W71 : EC0 : takes lZ, N : boolean array; j, Q : boolean returns nothing Z : boolean array; let _p0 = array 4; input B57; do O(3); pop; when case 61 : chillax end end u : takes r, K, T, _O, L7A0 : integer array; f, W, rDKaa, JR6aa : boolean; mn, sV : boolean; yb : boolean returns integer nz : boolean array; while - 231 - 9 <= 47 : chillax end end main : do U9(em8) end

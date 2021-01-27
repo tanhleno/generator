@@ -1,0 +1,1 @@
+program P : z : takes V, l : boolean returns boolean array let gL[(8) and 71 or 9270 - 97200] = - 7 end W : takes o : integer array; we9a : integer array returns boolean array n56a, Ti, j83 : boolean array; do nT(- 7 > 81) end main : Q1, a : integer; chillax end

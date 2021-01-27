@@ -1,0 +1,1 @@
+program l2Oa : u : takes R : boolean; I, h3 : boolean; w, S : integer returns nothing mt : boolean array; HwA : integer; chillax end c : takes h3, l8Wa, i : boolean; _x : boolean; gB, c : boolean array; u, TC : integer; l : integer array; j1 : boolean returns boolean array input C[- 08] end main : output not m and 14 - 6 - 14 - 7; while true rem not 788 and 5560 : chillax end end

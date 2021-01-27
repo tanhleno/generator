@@ -1,0 +1,1 @@
+program j : nn80 : takes v95aa, gie0 : boolean array returns integer Z : integer; chillax end main : y8 : boolean; do Z(not 5 / not z5E rem not 03 or false or 0 + 0 - 2 > Q rem true and 6 + 325 or 23 - 347); do Y8(- not t2s0 = 2 and 77 - 246, p + 2, - 07900 - 311, 6 = 334); do R(false and 9 or 4 - 01 /= 04); when case - 75 : do K(84); output "M" end otherwise : chillax end end

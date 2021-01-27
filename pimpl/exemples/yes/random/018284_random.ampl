@@ -1,0 +1,1 @@
+program h6c : V : takes cv, SU : boolean; I : integer array; pk, g : integer array; S : boolean array returns nothing while not 9 and 369 - 36 - 45 : chillax end end x : takes RX, O, Q2a, V0, p, O : boolean array returns boolean array output 57 = 2 end main : chillax end

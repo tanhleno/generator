@@ -1,0 +1,1 @@
+program g0 : aL30 : takes e0I : integer array; k9r0, L3, K : boolean array; K : integer; Iz, FG : boolean returns boolean chillax end main : do w9U(false - (39400) rem 20 and 98 - (0) or 9 /= - false and not 7, - (2) and not 7 and 82); pop end

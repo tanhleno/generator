@@ -1,0 +1,1 @@
+program z : tj : takes h, l : integer array; DT6, h9 : boolean returns nothing Y33, S, xJ : boolean; chillax end OS : takes u2j : boolean array returns boolean array let Ws[1 - 664] = array 9 - 8 end main : let g = Q[354] < (064) and 6 - 9 - 2; let B[not nAo0a * 7 and 6] = array 1 or not 4; input c; let W = 7 end

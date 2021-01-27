@@ -1,0 +1,1 @@
+program E : EN6 : takes b : boolean array returns integer array chillax end b1 : takes oN : integer array returns boolean chillax end n0 : takes Nd, QW10 : boolean returns nothing input k4; when case 7 : chillax end case 7 : chillax end end main : let O74[- lK60a rem false / H7 and 44 or true] = array - u[0] end

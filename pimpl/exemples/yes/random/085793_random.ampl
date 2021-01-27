@@ -1,0 +1,1 @@
+program S : main : T : integer array; O, P, wC : boolean array; do wW(- 232 * true - (88500) rem 99 or not 12 - 198 - 5900, - false + false and 9 <= not 5 - 54); when case s2 / kX or t2 : let D[8] = 5 end case(089) /= - 060 : chillax end case - 3 /= 8800 : input Z; do K(53); pop end case 0 : chillax end case 75 : pop end case 1 : chillax end otherwise : chillax end end

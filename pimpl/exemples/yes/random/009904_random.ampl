@@ -1,0 +1,1 @@
+program L : Vs : takes DU, b, wOg0a : boolean array; aY, l : integer array; V : boolean returns boolean N4, G, E7j, N7ja : integer; let U[true and 0 + 8] = array - 2 and 8 + 0 - 8 end main : F, Y : integer array; chillax end

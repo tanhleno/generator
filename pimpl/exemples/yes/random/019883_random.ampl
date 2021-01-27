@@ -1,0 +1,1 @@
+program vW2 : r39 : takes q, c : boolean array; p7 : boolean array; d5 : boolean array; o, pV, f, tSN, K6a : boolean array; h, A5s : boolean; O : integer returns integer uT : boolean; chillax end main : o : boolean; chillax end

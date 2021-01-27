@@ -1,0 +1,1 @@
+program p : LXB0 : takes RF, t9iaa : boolean array returns boolean array h, oX : boolean array; do JV((69) <= 46 - 96, 621 = 3) end main : pop; when case - false > (88) - 70 : chillax end otherwise : output 9 . "" end; let D = array 0 and 5; when case 3 : do sP(40300) end case 2 : chillax end otherwise : let n74a = 35; pop end; pop end

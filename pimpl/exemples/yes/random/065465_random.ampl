@@ -1,0 +1,1 @@
+program c : QSgaa : takes JtQ : integer returns nothing when case - false or 10 - 6 : chillax end otherwise : chillax end; when case - 35500 - 8 : chillax end case 8 : chillax end case 53 : chillax end case 89 : chillax end; pop 9; output "" . "" end main : pop; pop end

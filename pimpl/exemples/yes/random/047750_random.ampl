@@ -1,0 +1,1 @@
+program T : pbQ0 : takes Y : boolean returns nothing chillax end main : output - (9) or 9 and 6 . "\""; do G2(true and not 10000 and 8 or true and 20400 + 29 - 8); pop - 27; input I[- 5]; let eK[58300] = array 6; input m end

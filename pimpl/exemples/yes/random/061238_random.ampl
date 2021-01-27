@@ -1,0 +1,1 @@
+program gS : un : takes Xq4a : integer array returns nothing input l[- not 99 or 8] end h : takes j95 : boolean array; n, q, aL : integer array; N5, dGa : boolean array returns nothing a, wX : boolean; when case - 1 - 4 : input F_1; let O = 1; pop end otherwise : output ""; pop end; output 9 end main : T : integer array; chillax end

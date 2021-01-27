@@ -1,0 +1,1 @@
+program g : Uk0 : takes Y7 : boolean array returns integer j, U : boolean; B8 : integer; Ry, j, B4P : boolean; a1 : boolean; b : boolean; pop - 8; let AA[- 56] = array 9 - 68; pop 674 end main : chillax end

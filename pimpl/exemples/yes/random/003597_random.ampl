@@ -1,0 +1,1 @@
+program WJ : N : takes c3, bTU0, b3V, T, b : integer array; B : integer; _G : integer returns nothing e : integer; while o9 + 7600 <= 41 : chillax end end eFmaa : takes _25, wUH, s : boolean returns boolean T : integer; chillax end main : G : boolean array; U, I4, Z : boolean array; tAV, n : integer array; chillax end

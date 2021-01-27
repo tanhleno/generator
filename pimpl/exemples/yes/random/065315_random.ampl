@@ -1,0 +1,1 @@
+program i : g : takes I : integer returns nothing output 4 >= 3; do b(51); while 2 : when case 3620 : chillax end end end main : do x(- (5) rem false * false <= true rem 3 or not 086 and 044, - false / true or true > - false and 89 or 8970, - true + 1 - 7 <= - 2 - 3, - 51400 - 37, 0); output "" . "" . 568 = 6 . ""; input G; when case - 1 >= 53 : do B(5) end end

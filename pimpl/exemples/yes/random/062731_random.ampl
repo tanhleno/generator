@@ -1,0 +1,1 @@
+program V : b47 : takes st : integer returns integer array chillax end B : takes SX : boolean returns boolean F : boolean; when case 7 - 9 : while 3 : chillax end; input D end otherwise : while 8 : chillax end end; output "" . "N\n" . "5"; let b4o0a = array 7 end main : N26, O8 : boolean array; pop - 399 end

@@ -1,0 +1,1 @@
+program cE : main : while - (2) * true * 3120 and 2 > - not not 1 and true : do Ha(6 /= 80); when case 44 = 67 : pop end case 7 : chillax end case 434 : chillax end otherwise : pop end end; let Ds4[679 rem false] = - false - 46 >= 05; while - 10 and 14 + 8 - 32 >= - 0 : while 93 : chillax end; while 7 : chillax end; do x(78); pop end; output "0{" . 80 . 6; let T0 = 961 end

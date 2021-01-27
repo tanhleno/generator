@@ -1,0 +1,1 @@
+program E1 : Q1 : takes F, r : integer array; zdu : boolean returns nothing chillax end O3 : takes c15 : boolean; G0H : boolean returns boolean chillax end w : takes B : integer array; w : boolean array returns nothing chillax end z : takes lZ : boolean; Z : boolean; bF3 : boolean array returns integer array H : boolean; chillax end main : output - false and not 5 and 3 end

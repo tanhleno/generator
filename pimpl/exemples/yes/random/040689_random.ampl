@@ -1,0 +1,1 @@
+program Pb1 : i5C : takes F92 : boolean array; sU9a : integer; k3 : integer array; v6 : boolean returns boolean chillax end main : O8 : integer; output "-"; do T(false - L = true and 439 or 4 - 9, true and 425, - 183 <= 1) end

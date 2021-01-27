@@ -1,0 +1,1 @@
+program _ : M : takes W : boolean returns nothing Cvlaa : integer array; h_a : boolean array; chillax end main : pop; output(5) and 978 - 32900 - 5 /= 18 - 5 . 7300 . "\\L" . "7\n0" . 53200; let w = array - 3 and 44 + 0; let Q = array 2 - 8 end

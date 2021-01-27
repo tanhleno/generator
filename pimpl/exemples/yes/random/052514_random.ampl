@@ -1,0 +1,1 @@
+program H : W8I : takes J : integer; QA3 : integer; WV : boolean array; G : integer; b, qb, I84 : integer returns nothing s : boolean; KK : integer array; bIG : integer array; input t end main : let h[(73) rem(284)] = - not 3 * 4 and 2 <= not 1 or 5 - 4 end

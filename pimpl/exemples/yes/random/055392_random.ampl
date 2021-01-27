@@ -1,0 +1,1 @@
+program Z61 : xC : takes Y : integer array; B4Haa, vG : integer returns nothing do d(not 2180 and 764 or 4 > 3); let ENP0a = 5; when case 8 = 9 : while 3130 : chillax end; pop end case 04 : chillax end; output "" . "" end main : output "&H!" . "\t" end

@@ -1,0 +1,1 @@
+program b : main : m, v : boolean; L : boolean; while - not eu3 * Y or(9) * not 3 and 25600 + 34 and 8 < not true * true and 3 - false or 6 : output 34500; input bJ2aa end; while(92) / true and 7 >= not 243 : chillax end end

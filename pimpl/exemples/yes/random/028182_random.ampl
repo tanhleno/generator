@@ -1,0 +1,1 @@
+program f1e : AN : takes GB, r : integer array; o8W : boolean; J390 : boolean array returns nothing B : boolean array; chillax end main : Gh10, Q6 : boolean; t : integer; poX, qR : integer array; input a7 end

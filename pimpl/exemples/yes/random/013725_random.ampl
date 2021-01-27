@@ -1,0 +1,1 @@
+program S : J : takes DHG, yVp0a, _ : integer array; h, A7Qaa, r0, j : integer array returns integer input wT0a; input We end TZ : takes B, Y7p, _ : integer; Kbx, z, SL5a, L9N, au4, H : integer array returns nothing let mh4 = array - 9 end main : pop true + W3 or 98500; while W(959) and true and 3 > - (53) and 2 or 8 - 8 : output 4 . 42 end; pop - 40; input Q[39 - 45]; pop 4 end

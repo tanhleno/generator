@@ -1,0 +1,1 @@
+program V : m : takes eF : boolean returns integer array J : integer array; chillax end Kp : takes G0u0, S : integer array; J, VUa0a, O : boolean returns nothing chillax end main : Y : boolean; output - 37600 or 9 and 0 + 0 = - false and 1 - 1 . - true and 26000 < - 5 - 7 . 3 - 44 . 3070 = 9 . "MV" . 391 . ""; let P[- false * 422 or 120 and 34 - 1] = (47) /= 38 - 97 end

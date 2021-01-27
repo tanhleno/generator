@@ -1,0 +1,1 @@
+program St80a : o : takes H8, c : boolean array; EaS, z1, q : boolean array returns nothing chillax end c : takes p : boolean array; i : integer; O, x : boolean; Oh : integer returns boolean array let YV = 39 end main : chillax end

@@ -1,0 +1,1 @@
+program w2 : sC9 : takes T, N, Y7iaa, XQW0a, j : integer array; t : boolean returns nothing nz, z7H : boolean; n7, jW : integer; pop end main : P : integer; Ug : boolean array; uI0a : integer array; h : boolean; when case(9) >= - (7) : pop; when case 2 : when case 2 : chillax end; pop end end case - i * true or true or 39 < false - 3 - 541 : pop; pop 9600 end; pop end

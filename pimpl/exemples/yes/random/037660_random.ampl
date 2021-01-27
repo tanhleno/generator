@@ -1,0 +1,1 @@
+program j : l : takes B04 : boolean array; nY_0, S35, Ocp, A, E : integer; sA4 : boolean returns integer F : boolean; chillax end main : O, O : integer array; while - true = 69 - K + 78 : do Y6(7 - 46100 /= 3); input e9; pop 824; while 87 : chillax end end end

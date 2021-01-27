@@ -1,0 +1,1 @@
+program Go50 : O : takes W, P80aa : integer array; T : boolean array; D : boolean array returns integer k1z, ma : boolean array; z3, v, _ : integer array; chillax end main : pop; let Y[- not o or not 1 or 4590] = sV - 291; input u[n and 557 or 52] end

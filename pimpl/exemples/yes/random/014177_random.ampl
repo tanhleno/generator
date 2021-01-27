@@ -1,0 +1,1 @@
+program Ib : I : takes eO, V, J9J0a : integer array; L : boolean; l1 : boolean; L : integer; X62a : boolean array; ZX30a, w : integer array returns nothing v : boolean; do _d(true + 69 /= - 75 - 2, - 7 - 40 > 0, 580 = 249); pop 8; let _[5] = 752; let gb = array 386; output ">f"; pop end main : chillax end

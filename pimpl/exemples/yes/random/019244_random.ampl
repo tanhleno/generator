@@ -1,0 +1,1 @@
+program C : t : takes Q, V : boolean array; K, b35 : boolean array returns boolean array sB, GB7, S : boolean; while - false < - 65 : do q6(1, 3) end; let k5 = array - 3590 end v : takes Q : integer returns nothing F : integer; pop 6 end main : xs, m, L : integer; J, J1 : integer; e : boolean; let EK = - (2) / false and 1 <= - 159 and 4 end

@@ -1,0 +1,1 @@
+program wa : EL : takes _A, u, w : boolean array; EF, Y : integer; C63a, h : boolean returns nothing input F[- false]; let ej = array 1 - 1; pop 25; when case 30 : pop end case 4 : chillax end end k : takes J : integer array; E, e_9, R : boolean array returns integer array chillax end main : Is10 : integer array; i : integer array; E1x, B5 : integer; chillax end

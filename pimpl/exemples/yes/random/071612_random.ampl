@@ -1,0 +1,1 @@
+program qf0 : main : s, QKjaa, T : boolean array; W : boolean array; j, IK4a : boolean array; xg9a : boolean array; input b[not 916]; when case - (99) >= false and 0 or 1 - 02 : output "\t" . "" end end

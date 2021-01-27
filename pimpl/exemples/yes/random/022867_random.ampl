@@ -1,0 +1,1 @@
+program e : U : takes l, P : boolean returns boolean array chillax end e5 : takes K670a : integer; p, F6W0a : integer array; q, FD, J, L : integer array; D : integer returns nothing chillax end main : output - true * true and 3460; let U46 = - true = 05 - 8 end

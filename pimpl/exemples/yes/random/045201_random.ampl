@@ -1,0 +1,1 @@
+program z : Lh : takes H : boolean array returns nothing pop 26 - 5430; while 4 : input zi; pop end end K : takes L : boolean returns boolean array do k8(8 = 0, 6 = 7190) end bN : takes e, t : integer array; pJO : integer returns nothing V : integer; input Mi8 end main : t : integer; output "" . "" end

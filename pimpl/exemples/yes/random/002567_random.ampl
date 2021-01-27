@@ -1,0 +1,1 @@
+program UcG : h : takes A, r, RI6a, p, a44 : boolean array; l : boolean returns nothing chillax end ff9 : takes Df, eQ : integer array; M0 : integer array; aU, A : integer array; gw : boolean array; s : integer array returns nothing do ab7(- 9 >= 8700, 2); do c(6 = 3010, 9) end main : oooa : boolean array; pop end

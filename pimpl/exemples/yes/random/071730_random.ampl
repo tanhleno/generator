@@ -1,0 +1,1 @@
+program C : main : WE, R, gi3aa : boolean array; Ts : integer array; when case - not not not 127 /= (364) : chillax end otherwise : when case 2 = 79 : pop end case 8 : pop end case 1870 : chillax end end end

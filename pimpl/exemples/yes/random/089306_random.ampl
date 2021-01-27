@@ -1,0 +1,1 @@
+program U : main : input h[true / false + uj(0) - y and 1 - 2]; output true and 7 or 2 - 87000 /= 976 - 6; when case - not 7 <= - 3 : while 928 : chillax end end case - 68 - 33 < 79 : when case 15 : chillax end end case 777 : do R(5) end otherwise : when case 97 : chillax end end; input nN[01600] end

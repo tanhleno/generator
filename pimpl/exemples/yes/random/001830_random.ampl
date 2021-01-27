@@ -1,0 +1,1 @@
+program J0 : MQ : takes V09aa, en4aa, j, u, J, j : integer array; f : integer array; ul3 : boolean array returns boolean array chillax end A630a : takes w : boolean returns nothing W : integer; A, _ : integer; D : boolean; output "" . 1 end main : o, o3 : boolean array; U : integer; W : integer array; chillax end

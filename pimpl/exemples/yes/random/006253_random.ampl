@@ -1,0 +1,1 @@
+program G : S840a : takes S, n, J, Y : boolean returns nothing input b[true and 6 + 151]; output "}I" . 4 . 4; pop; do O61a(4, 16) end Zx : takes ef, d, t4W0 : boolean returns boolean array chillax end g : takes cJc0a : boolean returns nothing chillax end main : chillax end

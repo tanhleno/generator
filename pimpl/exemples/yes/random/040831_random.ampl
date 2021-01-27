@@ -1,0 +1,1 @@
+program X4 : XA : takes w : boolean array; Len0a : integer array; L, z : integer array returns boolean KMB : integer array; chillax end q_h : takes V : boolean array returns nothing chillax end Q71 : takes vj : integer returns integer array l5 : boolean array; r6 : boolean; let I = array 03 end main : do xq(- not false and 3460 or 889 / not 5160 and 9) end

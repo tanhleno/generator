@@ -1,0 +1,1 @@
+program Y7m0 : n : takes rL : integer returns integer array when case not 3 and 772 : chillax end end p : takes gM, Z : integer; D, W : boolean returns nothing while - 355 : do F(053) end; output 8; when case 49 : chillax end case 74 : chillax end end main : do L380(true * (6) * W1 - true < not C); do D(- true, - true >= 54 - 55, 3 > 6) end

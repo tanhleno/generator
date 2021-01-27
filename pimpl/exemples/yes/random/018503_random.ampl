@@ -1,0 +1,1 @@
+program KiF : B5o : takes l5, T62a : boolean; Q : integer returns boolean input M; input z; pop 53900; pop; output "#sa" end Vk2 : takes W92, t, e, Z : boolean array; l, lC, _, iV5 : integer; r, t, Dp : boolean array returns nothing input m5[- 122] end main : chillax end

@@ -1,0 +1,1 @@
+program Vy : bk40 : takes J, Oq, m, na, F : integer array returns boolean array Y : integer; u : boolean; chillax end k : takes d88aa : integer array returns nothing chillax end Y : takes h : integer returns boolean fXd0a, a, R : integer; cAH : boolean; Zv : boolean; _N : boolean; chillax end main : input RI[- true rem true * true and 87] end

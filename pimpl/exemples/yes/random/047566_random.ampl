@@ -1,0 +1,1 @@
+program J8 : Z910 : takes i : boolean returns nothing chillax end Ma9 : takes T : integer; l, AH : integer array returns nothing q96, f : integer; X, Tj, p2 : integer array; gbN : boolean; do mv(- 54); output "\\" end main : do MREa(53 - w(43) * 2 > true or(679) and 4 or 225 - 35) end

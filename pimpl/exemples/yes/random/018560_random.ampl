@@ -1,0 +1,1 @@
+program r49a : DH : takes h, q : boolean; y : integer returns nothing Z6m : boolean; o, B690 : boolean array; h : integer; A, C : boolean; V : boolean; V : boolean; chillax end main : while false * false : chillax end end

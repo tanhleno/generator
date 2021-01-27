@@ -1,0 +1,1 @@
+program Yvc : _9K : takes n0, fX8a, UO1 : boolean; PR6a : integer returns boolean array t, Pe : boolean; chillax end cY : takes Q : boolean returns integer chillax end X84 : takes z : integer returns boolean lV0 : boolean; F, s : boolean; chillax end main : input a8[- true or false / true and 00500 or 68 + 0 - 61] end

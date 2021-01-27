@@ -1,0 +1,1 @@
+program N : aWH : takes s, b : boolean returns nothing jH0 : integer array; chillax end y3 : takes L : integer array returns integer chillax end Q94aa : takes nO : integer returns nothing let RE = 242; input z end L7 : takes gAq : boolean array returns nothing chillax end main : output - 4 and not 651 and 5 + true and 2 . - Qy or 2 - 08 > 85 . "4" . "\tf" . "g4" . "" end

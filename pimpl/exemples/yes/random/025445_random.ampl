@@ -1,0 +1,1 @@
+program m : O99 : takes r, R : integer; D, L9ia : boolean; Y : boolean; r, j : integer array returns nothing chillax end main : when case - n rem 9 /= not(97) : chillax end case - true / true : while 576 = 4 : pop end; pop 45; pop; when case 7 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program l : f : takes I, u, T_ : integer array; k2D0a, U : integer returns nothing chillax end main : while false / Dh70[68] and false and 24 + C(9) / not 61800 and 613 - false /= not true : chillax end end

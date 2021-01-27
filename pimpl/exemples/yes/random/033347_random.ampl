@@ -1,0 +1,1 @@
+program Aw7 : r : takes p : boolean; WKY, a, o, q, f9 : boolean array; S3pa : integer array; e91, oF, c : boolean; W9z : integer returns integer n : integer; D, X, m4J0a : boolean array; chillax end main : y : boolean array; SCf : integer; chillax end

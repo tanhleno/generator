@@ -1,0 +1,1 @@
+program IO : _ : takes u : integer array; m, C5X : boolean array; t : boolean array returns integer array bf7, r : integer; when case - 45200 : chillax end case - 4320 : chillax end end hH : takes g : boolean returns integer _, FCg0, vN, v : integer; chillax end main : G2 : integer array; do f(- not 87800 - not 66 / 5 and 2 = - 2 or not 2 and 1 - 6890 - 96, - not false) end

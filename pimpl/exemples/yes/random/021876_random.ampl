@@ -1,0 +1,1 @@
+program Qe2 : u : takes B, O : boolean array returns nothing chillax end w : takes E2, R : integer array; X0t : boolean array; T : integer array; V, m : integer array returns nothing iY : boolean; while - 273 : pop end; do e2(2) end j : takes ZgL : integer; I4, FiG, Q : integer array returns nothing B8baa, XU : boolean array; h7 : boolean; chillax end main : chillax end

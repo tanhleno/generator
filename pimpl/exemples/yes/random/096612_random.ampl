@@ -1,0 +1,1 @@
+program I3 : main : when case - true : chillax end case - true or(3) : chillax end; when case false - false and 0 - 046 = - f + 5 : chillax end case false and 5 or 5 - 13 <= 36 - 02 : chillax end case - 61 - 93500 >= 518 : chillax end; do Y((13) < - 40300); while 6730 <= 56 : chillax end end

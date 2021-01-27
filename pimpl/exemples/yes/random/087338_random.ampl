@@ -1,0 +1,1 @@
+program k : main : ih70 : integer array; output "" . "H"; when case - not not 02 or V : chillax end case false and 7 <= 34 - 67 : chillax end case - 5 - 391 > 6 : pop end otherwise : output "" . "R;aa" end; do pB50(x + 1 - 5, 0, 8 = 65); let C = 1 end

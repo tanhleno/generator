@@ -1,0 +1,1 @@
+program u3 : main : do pn0(- true and not(5360)); when case - not 2 / not 70 and 1 + 0 and 7 + 39 <= E and 8 + 55 : chillax end case - false and 08 >= - 1 - 0 : chillax end; while no : output "\n4" end end

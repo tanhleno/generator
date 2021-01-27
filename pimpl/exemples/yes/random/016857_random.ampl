@@ -1,0 +1,1 @@
+program S69 : S : takes x, xi : boolean; fMq, sm, Ld, o : integer array returns boolean aG : integer array; B9 : boolean; _, O, q2 : integer; chillax end main : output "" . "\\2"; do z(- (39700), - false - 13900 = - 964, 862, 04); while(207) and 3 + 70 - 52 <= 1 : input c; output "" end; let tYv[4250] = 4 = 48; do A(287); when case 9 : pop end otherwise : chillax end end

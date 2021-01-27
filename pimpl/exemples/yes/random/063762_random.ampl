@@ -1,0 +1,1 @@
+program V : K : takes I : integer returns nothing chillax end f : takes W : boolean array returns boolean array chillax end main : QK7aa, I, YQa0a, q7, L : boolean; oz5a : integer array; B, a, O, o : integer; R : integer; output "" . "#6" . "!" . "" . 65 . 0 end

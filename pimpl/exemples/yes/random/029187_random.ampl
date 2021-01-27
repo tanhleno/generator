@@ -1,0 +1,1 @@
+program L6 : sF : takes Vu, T : integer array; w : integer returns nothing b : integer array; o : boolean array; Z : boolean; b : boolean; when case false and 2 - 87 - 13100 < 1 - 021 : input Y; let x = 8; when case 5390 : chillax end; pop end case 6 : chillax end otherwise : do h(7); pop end end main : output "^|!a" . "\n" end

@@ -1,0 +1,1 @@
+program po : J : takes m : boolean array; rp60, C12, _ : integer array; Z, v, b, i, _24, K13 : boolean array; xC, vF_ : integer; f : integer; F1 : boolean returns integer array chillax end main : while - false /= - 9 - false : pop; do g55(19 = 03, 9, 8); when case 0 : pop end; input bZ30a end end

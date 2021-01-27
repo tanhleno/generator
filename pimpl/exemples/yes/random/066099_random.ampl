@@ -1,0 +1,1 @@
+program Q : main : do W(- false /= - not true - 32 and 8, 04 / false and 77 + not 85 + 6, not 43 and 4320 or 6 >= 2 - 98, 7 = 7); do A(- not(4) - not 612 and 38 + 5 - 55, - 3680 and 822 or 63700, - 5 = 3050); output "5" . "" . 5 . "0"; while - 6 <= 6 : let n = 020; while 1 : chillax end end end

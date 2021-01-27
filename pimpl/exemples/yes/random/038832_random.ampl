@@ -1,0 +1,1 @@
+program O : I : takes L : boolean array; V, H : boolean array returns nothing output "" . 0 = 2; do c(- 3); pop; when case 9400 : chillax end case 62 : chillax end otherwise : chillax end end g6 : takes E2, ri : boolean array; x, G87aa, B : integer array returns integer array let E = array - 587 - 7; let w[994] = 542; when case 8 : chillax end; let Gi = 0 end main : chillax end

@@ -1,0 +1,1 @@
+program g9 : main : m, I : boolean; when case - C[3] rem true : chillax end case(6) and 78700 or(8) - 1 - 2870 : chillax end; when case true or not 3 : chillax end case 92 and 463 = 2 : let I5A0 = array 118; when case 8 : chillax end; let y = 6 end otherwise : chillax end; output "" end

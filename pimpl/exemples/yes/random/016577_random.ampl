@@ -1,0 +1,1 @@
+program z99 : n : takes p, q, o : integer returns nothing output "" end main : when case - false and(88) * 895 : output 6 = 4 . 3 . 73 . "4"; when case 25 : chillax end case 2 : chillax end otherwise : chillax end; do Tr7(3) end end

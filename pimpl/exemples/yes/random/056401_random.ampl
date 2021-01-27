@@ -1,0 +1,1 @@
+program B : T : takes m : integer array; y6Iaa : boolean returns nothing chillax end main : IxW, V42 : integer; yd, o, W, k83 : boolean; k27, hH, X8, Z : boolean array; A, E, M : boolean; do C(false - true = - (77) rem 8 and 4 or(6)) end

@@ -1,0 +1,1 @@
+program H : h7 : takes S, n, c : boolean returns nothing H9, gK, xGX, R : boolean array; chillax end SW5a : takes B : integer array returns boolean a : integer; m03 : boolean array; chillax end PKd : takes s5 : integer array returns integer let r[530] = 63200; input v[241] end main : chillax end

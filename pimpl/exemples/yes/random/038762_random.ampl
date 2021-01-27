@@ -1,0 +1,1 @@
+program W : a : takes A9 : boolean array; C, Kh20 : boolean array returns integer array input s[- true] end P : takes sK20a, R, N, T : integer; w, JsPaa, x, n, c6 : boolean returns boolean array lr, Q : boolean array; output "\n\n"; when case 12900 : pop end; while 46200 : chillax end end main : r3 : boolean; V, oT : integer array; chillax end

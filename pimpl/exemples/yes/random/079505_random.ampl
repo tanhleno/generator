@@ -1,0 +1,1 @@
+program I : main : oXO : boolean; B : integer; JRu, W0, W, F : boolean; _q5, Z5 : integer array; do caka(not D5 * (2) or false or L84 and 1 or 6100 - 00900 < not not 292 + false and 2 + 4 - 5, false + not 9 and 43800, not 3 and 85); let l = - e > 5; while true and 4500 or 08 = - 91 : do Us(66900) end end

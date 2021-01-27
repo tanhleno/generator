@@ -1,0 +1,1 @@
+program Cs10 : j41 : takes u2, GiW, t : integer array; Xs, H2 : integer array; z, J, XX, N, Q, w5 : integer; AY, z, a060a, B : integer array; JH, NT5aa : integer array; w, gAyaa : integer array; dcY : boolean returns integer X7 : integer; do W7ra(0 > 6, - 9, 19, 8, 08); output 380; let B = array 07; let c = 1 end main : Fp40, e, q : integer; pop true and not 1 and 1850 + 0 end

@@ -1,0 +1,1 @@
+program W : X7 : takes N, N : boolean; o8, gQ : integer; M : boolean returns integer chillax end Jf : takes f18, CoA : boolean array returns nothing chillax end main : while - (323 = 3740) - 1 rem false - false and 87 - 0 >= G : while - 99800 : input T; pop end; when case 34 : pop; pop end case 87 : chillax end; input p[35] end; output "" . - 9 . 0 = 9 end

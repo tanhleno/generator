@@ -1,0 +1,1 @@
+program y6 : i : takes Hv8 : integer array; e, J : integer; ax : integer returns boolean array let dk9 = 897; when case - 4 = 4 : while 750 : chillax end end case 769 = 54 : chillax end case 2 : pop end case 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program p1 : m0c0 : takes L, p : boolean array returns nothing output - 6 . 04400 = 495 . "" . 6 . ":#"; while 65000 - 20600 > 4 : chillax end end AT : takes v140 : integer; g, J : boolean array; y7E0 : integer; k : boolean; ze : integer array returns boolean V1naa, I, J, _ : integer; do Q(- 78100 - 50) end main : chillax end

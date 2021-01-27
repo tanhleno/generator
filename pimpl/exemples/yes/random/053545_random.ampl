@@ -1,0 +1,1 @@
+program T : w : takes c : integer array; WW, _7, O60aa, n4, h : boolean array returns nothing let BpLaa[(0) and 299 or 2 - 71000] = 14200; let _U2 = 63700 = 30 end main : Z, a, _ : integer; chillax end

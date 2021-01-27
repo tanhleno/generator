@@ -1,0 +1,1 @@
+program x : RxBaa : takes z : integer; _G, q8 : boolean returns boolean array te : boolean array; chillax end gRg0a : takes o5pa, M : boolean; w : boolean; Ec0, t : integer array returns boolean chillax end main : chillax end

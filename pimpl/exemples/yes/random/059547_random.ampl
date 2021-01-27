@@ -1,0 +1,1 @@
+program q : r : takes k39a : integer array returns integer output 9 end Q1ea : takes C, oT : boolean array returns nothing m, J, L3Eaa, c7 : boolean; W : integer; Q8, DB : boolean; R1 : boolean; chillax end C : takes A : integer returns nothing output "" . 1 . "@"; when case 9 : chillax end case 60 : chillax end; when case 5 : chillax end end main : chillax end

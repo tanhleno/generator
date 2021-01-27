@@ -1,0 +1,1 @@
+program r : main : V, x, Ba : boolean array; output "" . "c4" . - 9 - 0 . 6 . 1 . "/"; while false < - false : output "a6a"; let z[97] = array 6; when case 3 : chillax end; do T6(93); pop end; do d(- true and 08000 or 678 - 11900, - 1 <= 302, 3, 87, 5); while 0 - 5700 < 7 : chillax end; do E1(44 = 5, 8230, 3); do N(413); when case 60 : chillax end; do x(492) end

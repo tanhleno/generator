@@ -1,0 +1,1 @@
+program cDG : C2 : takes c : boolean returns integer array R : boolean array; output "" . "\th"; output "\t"; let Yd[11] = array 7; let r = array 0; output "" end main : let aQba[P2[9]] = array - j1[8] + (8) or(975) and 8 end

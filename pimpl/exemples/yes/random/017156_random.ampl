@@ -1,0 +1,1 @@
+program _ : u5 : takes C2, S : boolean; vZ, x : boolean; AB : boolean returns boolean array pop - 16 < 5 end e6 : takes E7waa : boolean returns boolean array MI, P, I0V0a : boolean array; when case 9 : pop end otherwise : chillax end end main : u_, g : integer; tCPaa : integer array; Z : boolean array; chillax end

@@ -1,0 +1,1 @@
+program i3n : Lq3 : takes Q, e6, n1, _ : integer returns boolean h04 : integer; T : integer array; h7, u9ca : boolean; C69aa : boolean; when case not 4 or 5 - 50 >= - 5 : output 4 . "29" end otherwise : do Zo(51); do o(2) end; while 182 - 1 > 81 : do X(9); do j(7) end end main : d : boolean; chillax end

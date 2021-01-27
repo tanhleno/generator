@@ -1,0 +1,1 @@
+program e04 : NI30 : takes z8 : integer; f, x5_0, a3, m, F, G7zaa : boolean returns integer array X, S9S, ux, y9 : integer; input L5 end main : d01 : boolean array; an, J, X, X : integer array; Qk, t, IO8aa, d : boolean; Y : boolean; S : integer array; d : boolean; k : boolean; when case false rem(01) rem false and 0 < - true * 5 : chillax end end

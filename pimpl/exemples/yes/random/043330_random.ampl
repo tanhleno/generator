@@ -1,0 +1,1 @@
+program K : Sl50 : takes O : boolean array returns integer output ""; output "8" . "" . 3; when case 9 = 15 : chillax end case 7 : chillax end case 94 : chillax end otherwise : chillax end end main : chillax end

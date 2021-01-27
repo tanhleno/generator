@@ -1,0 +1,1 @@
+program K : main : while - false - true rem Z - 9 and 05800 /= - false - false + 8 - 1 : let ce = array - 97600; output 280 . 45; let n[07] = 6; do Pw(28) end; do R(false / true and 051 - H and 6 - 2 - 04, - not 61 and 01100, - 5 - 3 = 8); output "@>\"" . "" . 5530; do u3(- 19 /= 10, 38 = 18, 65, 684); input rpd[081]; when case 32 : chillax end case 72 : chillax end end

@@ -1,0 +1,1 @@
+program _0 : VH : takes U, a, wk90a : integer; y, fH0, Yz, J9 : boolean array; sqK : integer array; H86 : boolean array; n, U : boolean; S : integer array; i650 : boolean returns boolean array output ""; while 2 - 54 : chillax end end yo : takes GL, ky : boolean returns boolean z2 : boolean array; chillax end main : o : boolean; J9 : boolean array; l0 : boolean; chillax end

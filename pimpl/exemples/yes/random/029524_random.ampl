@@ -1,0 +1,1 @@
+program V : Q : takes OH8, _ : integer array returns boolean v, u : boolean; GOz : boolean; chillax end Ol : takes d : boolean array returns boolean chillax end h1 : takes n0, N, x : integer returns integer output 8 end main : O, P, N8ka : integer; do A55(false * (3) rem(7) and 36 /= - false - 80, - false and(2) and 77); let dX2[- 7] = array true - 14 and 39 + 22 - 47200 end

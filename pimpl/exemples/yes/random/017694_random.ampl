@@ -1,0 +1,1 @@
+program Q : Vy0 : takes vFJ0a, _ : boolean; y : boolean; I3 : integer; y : boolean array returns nothing do z(Pu < - 0, - 9 - 088 /= 8, 602, 5, 3); while - 9 - 34 : let Ho1 = 41000 end; input b end W : takes mj, z, C, U5, d : boolean array; Pa_, t : integer array returns nothing chillax end main : chillax end

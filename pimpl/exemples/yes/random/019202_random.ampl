@@ -1,0 +1,1 @@
+program b : f : takes r6, O7 : boolean array; vmj0, P : boolean array; o, h : integer array returns nothing of60a : boolean array; let BQ[- not 33 and 7920] = array - r and 2; pop end main : when case 79 / true : chillax end case A0[965] - 9 and 7880 : chillax end otherwise : do d(3 = 4, 814, 88) end end

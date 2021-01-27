@@ -1,0 +1,1 @@
+program C : M7Z0 : takes a_ : boolean array; q, F0Kaa : integer returns boolean array x, H : integer array; g1 : boolean; do q(true or 201 < - 02 - 7, 5 >= 4) end r : takes a8, _E7 : boolean array returns nothing hy, KX, L, TV : boolean; X, oI : boolean; D3p : boolean; chillax end main : chillax end

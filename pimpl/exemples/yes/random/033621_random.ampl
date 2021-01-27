@@ -1,0 +1,1 @@
+program b : Q : takes V : boolean; Kz, H, m, hv : integer; k : integer array; nA_ : integer array; N0 : integer array returns integer chillax end main : when case true / false rem(61) >= true + 6 and 9 - 326 : chillax end case - Mh[69400] : chillax end otherwise : let F = 9; pop end end

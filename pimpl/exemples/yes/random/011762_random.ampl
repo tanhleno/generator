@@ -1,0 +1,1 @@
+program BI : J : takes d, n9, yL : boolean returns integer array chillax end I : takes R, V2F0a, D, y : boolean returns nothing eUuaa, G6 : boolean; M4, T : boolean array; while 14 - 64 : chillax end; when case 0 = 12 : do uh(83); pop end case 8 : pop end case 686 : chillax end otherwise : pop end end main : pop; do x(36 + (4) and 622) end

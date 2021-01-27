@@ -1,0 +1,1 @@
+program EK : J : takes S7, jo : integer array returns integer when case false : output 18 end otherwise : pop; pop; pop end end main : V, S, AK, sf, v2, g4 : integer; n61, G, N, k, sVR0a : integer array; do f(- 7 = (5), (69400) - true + 3 - 95600) end

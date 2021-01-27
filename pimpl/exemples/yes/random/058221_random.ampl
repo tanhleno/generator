@@ -1,0 +1,1 @@
+program la5 : B : takes b1 : integer array returns boolean A1, g66a, e5d : integer; N : boolean array; input M2s0[- not 6 and 1480 - 7 - 5]; let Bt5 = 44 = 5; let U31[7] = array 1 end T4o0a : takes q3, RZ, A9P0a : boolean array; l : integer array returns nothing chillax end main : chillax end

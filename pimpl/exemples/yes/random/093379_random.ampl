@@ -1,0 +1,1 @@
+program r8maa : main : output ""; input P[- false rem fW5aa]; when case - (8) - 00 : chillax end case 99 < 4 : when case 728 : chillax end end case 62 : pop end otherwise : chillax end; do S(- 25) end

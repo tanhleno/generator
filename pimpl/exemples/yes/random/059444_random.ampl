@@ -1,0 +1,1 @@
+program k : z : takes Ho : integer array returns integer X7 : integer; d4, E : integer array; do X(- 70 and 92 >= 246 - 738); while - 012 > 20 : chillax end end P : takes c97aa, W9 : boolean array returns integer w : integer; b, l : integer; let K[53800 - 78] = array 706 - 5; do a(67 = 3340) end main : h : boolean array; let f8 = - c9f; let X1 = array false end

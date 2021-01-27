@@ -1,0 +1,1 @@
+program q : Z : takes a, r6w, zO2 : integer array; T : boolean returns integer array let s[not 90 and 5] = 50 - 2 >= 5 end main : W, s7, V3 : integer array; pop - true - not 4 = not 329 and 09 - 6 - 6620 end

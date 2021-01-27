@@ -1,0 +1,1 @@
+program w1 : X : takes ro1 : integer array returns integer while(247) and 4 = - 16200 - 56 : chillax end; input R[60 - 896] end main : I : boolean array; p : integer array; b3, erN0 : boolean; when case true < true * L800 - false : pop 6 = 95; do p8O(77 = 28); let A4[5] = 9 end otherwise : chillax end; do w(- (7) * y and 29) end

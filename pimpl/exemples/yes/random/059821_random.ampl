@@ -1,0 +1,1 @@
+program j : g4T : takes d8 : integer array returns nothing chillax end MeBaa : takes a : boolean returns integer array MGN, q7 : integer; chillax end v : takes X : boolean; mJ : integer; V : integer array returns nothing chillax end l : takes a780a : integer; qnV, d, t, Ol : boolean returns nothing pop end main : do riqaa(F0[66] rem 86 * 1 and 3 - (0)) end

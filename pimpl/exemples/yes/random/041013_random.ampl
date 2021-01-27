@@ -1,0 +1,1 @@
+program _ : I : takes t7 : boolean array; c : integer array returns boolean let i[false and 16200] = array - not 41 and 93; output 0; while 645 = 093 : when case 6 : chillax end end; while 181 : chillax end end main : H8O0, E050a : boolean; r, j5, k610, Bu : integer; while false : chillax end end

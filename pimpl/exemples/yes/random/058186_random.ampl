@@ -1,0 +1,1 @@
+program t7 : n : takes gw : integer array returns boolean Z, h2, rn1, A9 : integer; pop - 80 - 8 > 17000 end main : jt : boolean array; output "\"" . M and 01 + 6 <= 6; let G[- 5 - PdJ - 6] = array k6(2) / g - (465) and 1 end

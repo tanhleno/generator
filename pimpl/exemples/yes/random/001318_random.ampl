@@ -1,0 +1,1 @@
+program GLZ0 : g : takes i, V4, J, R, K, A : boolean array; o45a : boolean returns nothing x48 : integer; Hz : boolean; while - true : pop 6240 end end j : takes CP, x, uid0 : boolean array returns nothing chillax end J5Xa : takes FIY : integer array returns integer array chillax end main : chillax end

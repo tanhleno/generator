@@ -1,0 +1,1 @@
+program z5 : P : takes b, I, C6 : boolean array; Stf : boolean; T, o6O0, o53, q : boolean returns integer do d(- true - 9 - 7, - 7 - 44, 547 = 3, 8, 162); input zVl[3] end main : h, Rzoa : integer; let U5Qaa[- c[8] rem(9) and false] = false end

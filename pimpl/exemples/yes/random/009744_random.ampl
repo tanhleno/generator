@@ -1,0 +1,1 @@
+program x510a : Ye : takes Kn, d, B7 : boolean array; UT, d : boolean; YK : boolean array; K0, B770a : integer; D : integer array; T : boolean returns nothing m : integer array; pop 6 end main : chillax end

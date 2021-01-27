@@ -1,0 +1,1 @@
+program v5 : main : Bz8 : integer; Kw, k, pu : integer; v, T6haa : integer array; Q, B : boolean; T5z : integer array; while - 2660 and D1(3) = - true / l1 and 3 : while 3 - 0 : chillax end; let pi1 = 3; when case 2 : pop end case 122 : chillax end; output "" end end

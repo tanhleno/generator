@@ -1,0 +1,1 @@
+program h95 : main : PH : integer array; I55a : boolean array; output "" . - 8090 + 85200 < - 67 - 92500; let r[- true / true - 4 - 5] = - (37) and 5; when case not 2 and 2 : chillax end case - 6 : let k = 09; output ""; pop end end

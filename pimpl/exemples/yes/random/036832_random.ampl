@@ -1,0 +1,1 @@
+program UB : d3 : takes M : boolean; e3xa : integer array; R : integer; V62, e : boolean returns nothing M : integer array; chillax end main : kw4 : integer; do Z(- false + G54a, - true / false + true and 1, 3 < - 2230 - 34, 5, 2, 20, 30); let dZ40 = array - Y * E7 + (2) and 2 end

@@ -1,0 +1,1 @@
+program Z : g4 : takes q, w : boolean returns nothing _v, I : integer array; while l78 and 07700 <= - 85 : chillax end end W : takes A, X, G, d : integer; Jd, iHb, R : integer array; c : boolean; b, A : integer array; D : boolean; VU : boolean; A_ : boolean; D9h : boolean returns boolean array q2, E : integer array; chillax end main : B8Va, hE, SZ90a : boolean array; chillax end

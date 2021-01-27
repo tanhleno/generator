@@ -1,0 +1,1 @@
+program R : D9 : takes t8 : integer array; Vb10a, l, g3_, F : boolean returns boolean array c : boolean array; when case true > - 48 - 9 : chillax end case - 8 - 8 : chillax end; when case 753 : do h(27) end case 30 = 04500 : while 16 : chillax end; pop end otherwise : let Km = 98; pop end; when case 64 : input U; pop end end main : TUT : integer array; chillax end

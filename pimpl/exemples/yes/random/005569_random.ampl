@@ -1,0 +1,1 @@
+program u : Zf_ : takes b6, UK, J9k, l : boolean array returns nothing chillax end main : GE : integer; kU40 : boolean array; vmD0a, d : boolean array; K, i920a, p98, HZCa : integer array; Tfc : integer array; a3d0a : boolean; chillax end

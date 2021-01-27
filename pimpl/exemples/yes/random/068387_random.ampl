@@ -1,0 +1,1 @@
+program A3u0a : main : l, o, B, T, q, nA3 : boolean array; fN7, d, Q, u, o : integer array; W : boolean; do jB(rj[14] * RPNaa + false / 04); output "1"; do Bs3(94 and 52 + 4 - 7 < 2 - 31, 9 < 7, 8, 71) end

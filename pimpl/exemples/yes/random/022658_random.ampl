@@ -1,0 +1,1 @@
+program NK80a : B4v0 : takes m, p : boolean array returns nothing let xWD = - 2 - 2; output 2 . ""; while 52 : chillax end; input L[2]; do AB(0) end main : B7, EC, L, y : boolean array; let w1[true rem false - (4) rem(3760) + false] = array - (7) / true end

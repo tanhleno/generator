@@ -1,0 +1,1 @@
+program t : _AZa : takes B3F, v : integer returns nothing chillax end EqBa : takes p2, L : integer; b : integer returns nothing when case - 7 /= 4840 : chillax end otherwise : chillax end; input gEr0a[6] end main : input e[- Z + (17) - true + 2] end

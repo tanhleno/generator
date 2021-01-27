@@ -1,0 +1,1 @@
+program l : t : takes A, D7q, B8, Co3a : boolean; N : boolean; orta, v : integer; fKX0a : integer array; Ms : boolean array; k, YY : boolean array returns boolean chillax end main : output "" . "q" . "\\Q" end

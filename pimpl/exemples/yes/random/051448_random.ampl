@@ -1,0 +1,1 @@
+program Z2P0a : OOLaa : takes YU : integer; L8m : boolean; Nt : boolean; q : boolean returns nothing when case - true and 1 + 97 - 4990 : while 9960 : pop end end case - 42 > 8 : pop; output ";" end case 2 = 1 : pop end case 07 : chillax end case 27000 : chillax end; output "@" . "\n8" . "," . "89" end main : chillax end

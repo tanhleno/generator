@@ -1,0 +1,1 @@
+program Vi : u4 : takes io : boolean returns nothing let L = 6 - 3 <= 0630; when case - 6 < 9 : chillax end case 3 : input d090; pop end case 1 : pop end case 8630 : chillax end otherwise : chillax end end main : chillax end

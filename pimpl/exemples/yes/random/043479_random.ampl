@@ -1,0 +1,1 @@
+program ew : t : takes b6 : boolean array returns nothing chillax end B : takes B23, wc1 : boolean array; e : boolean array returns boolean array AI : boolean; K : boolean; YU : boolean; pop 5 = 7 end main : chillax end

@@ -1,0 +1,1 @@
+program Q220a : j : takes F : boolean; s81aa, vM, fui0a, F : boolean returns nothing D : boolean; do z(- not 67 - 9030, 1580) end V : takes N06 : boolean array; h : integer; OO, bq : boolean array; a3 : boolean returns nothing F, w9ka : integer; Z, C3 : boolean array; chillax end main : do w73(2070 + true, - 7 * false and 96400 - 9 and 20 - 9 = - (96) and 7 + 10) end

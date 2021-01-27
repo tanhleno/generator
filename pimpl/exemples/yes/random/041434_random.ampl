@@ -1,0 +1,1 @@
+program L31 : CR : takes f : boolean array returns boolean array chillax end a : takes P, K, Q, R, w : integer array; tR40 : integer array returns integer array K : integer; chillax end Xq5aa : takes ul, nL : boolean array; s, N9F0a : boolean returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program QeKa : g : takes n48 : integer array; F, E, D9, g : boolean array returns nothing let r[not 25 + 42300 - 5] = 62 >= 0 end J7 : takes ZL0, b0X0a, j3u, E, I, M2, c : integer returns nothing E3 : integer array; f, d : integer array; chillax end main : chillax end

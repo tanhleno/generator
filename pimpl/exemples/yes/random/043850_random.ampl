@@ -1,0 +1,1 @@
+program l4vaa : c : takes N790 : boolean array returns nothing do X(- false < 3, - 4 - 946) end main : g3, t, Tb7, o : boolean; output "3"; output "" . "=2\"" . ""; input t[- not 2 and 5 + 3 - 5680]; output ""; while 487 = 37 : pop end; while 65 : pop end; output "\n" end

@@ -1,0 +1,1 @@
+program q : vQ1 : takes U63aa : boolean array returns boolean do U(- r8 and 8 or 2); pop; while 7 = 30100 : chillax end; when case 2 : chillax end case 8 : chillax end otherwise : chillax end end main : B, z, j5H : boolean array; P : integer array; j, z9, K, r, f : boolean array; Sz, _ : integer array; h, f3Wa : integer array; chillax end

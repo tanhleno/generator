@@ -1,0 +1,1 @@
+program J : L8 : takes x : integer; E, aICaa : integer array; p, v1, A, Uknaa, IX40, A16a : integer; v, Y : boolean array; F3g0, kl8 : boolean returns boolean chillax end main : w, E : integer; u, A0 : boolean; do b(not(269) * c(22)); when case - true / 0340 - (8) + 7 - 6 = not 60200 and 1 : while 74600 : let v960 = 3 end end; do y(- O and 9) end

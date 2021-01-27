@@ -1,0 +1,1 @@
+program pM : U2 : takes Tm8, W, rV6a, dD20a, K4, p : integer array; h : boolean array returns nothing chillax end main : pop; output - (8) and 5 . - 53200 - 9 >= 7 . 229; while true and 8 : chillax end end

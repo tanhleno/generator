@@ -1,0 +1,1 @@
+program X : ka : takes mN, Pa7, S : boolean array; T, eTm, P : integer array; n, I0f0a : integer returns nothing w, B : boolean array; pop 8 < 28600 end main : pop(0) + false and 4 + 6 - 03; input drJ[true] end

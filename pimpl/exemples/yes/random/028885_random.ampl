@@ -1,0 +1,1 @@
+program o : T : takes Yl0, m : integer array; p : integer array; H : boolean returns boolean chillax end u : takes Q, eM, Jj, wR, YG : integer returns boolean array kj, F, sd4aa : boolean array; I, Jz0, N : boolean array; Zox0 : boolean; q : boolean; do x(- 0, 83, 0) end main : pop; while - true / w67 : chillax end; while - Y and 7 /= - 36 : do o(81, 6); do Z8(58) end; pop end

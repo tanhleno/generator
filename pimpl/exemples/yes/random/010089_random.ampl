@@ -1,0 +1,1 @@
+program hZh : c : takes b, XZ, P72 : boolean array; v : boolean array; v : integer; p, Z0 : boolean; r : integer array returns integer input z8 end main : do R(- b * false * (2970) and 228 or true * not 716 or 3); pop - (9) and 9500 end

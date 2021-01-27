@@ -1,0 +1,1 @@
+program j5 : F : takes U : boolean array; sM : boolean returns nothing chillax end main : x7u, C : boolean array; sa, c : boolean; W, G, KL0, n : boolean array; do DB((2) and(8) or(09) / false and 8 - false and 191 or 88200 > - 4 or 4, - 9 * not 6 + A71 and 889 or 007, - false + 52 - 34 > - 4); do b(true * (27) - true and 2 + 13 - 232 > - (38) and 19) end

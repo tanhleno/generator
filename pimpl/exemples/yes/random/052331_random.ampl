@@ -1,0 +1,1 @@
+program Ak : H0I : takes Ra : integer; Dv : boolean returns nothing D : integer array; chillax end main : J9k, q : boolean array; output - not A8 rem not 7030 or 97 or 825 - 873 . ":B" . "~\n" . 4 = 32 . "" . "" . "" end

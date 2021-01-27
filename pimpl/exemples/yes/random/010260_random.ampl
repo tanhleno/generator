@@ -1,0 +1,1 @@
+program f9 : P : takes B2, m, C : boolean array; u : integer; IL, ihca : integer; N1, JV, B4, JBkaa : boolean; X6, Qw1 : integer; G : integer array; AV : boolean; YZ8a : boolean returns nothing O : boolean array; let gk[- false] = - 372 <= 10; pop; while 67 : input g end; pop 57 end main : C, i : boolean; J : integer; chillax end

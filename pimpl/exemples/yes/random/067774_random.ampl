@@ -1,0 +1,1 @@
+program t : main : do K(true + o59a / (5020) and 3, - false * rr and 84 - true and 00 > true and 479, - o and 81 + 08800 - 8 <= - 1 - 8640, - 5 - 08400 < 00, 62, 5); while 0 <= - not 5 and 6 : chillax end; pop; output 6 . "\n:" . 677 end

@@ -1,0 +1,1 @@
+program X3taa : WCN0 : takes zi9, iq, dB : integer; Y : boolean; Wh : integer array returns integer plk0, f080, _2, aO, R : boolean array; h : boolean; chillax end w : takes e, B5 : boolean; K : boolean array returns nothing ms4 : integer; s7, X : integer array; chillax end main : input r6[- t(9) or true or false and 1] end

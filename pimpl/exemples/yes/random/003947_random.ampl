@@ -1,0 +1,1 @@
+program g01aa : O84 : takes X63, W, f, f, q7 : integer returns boolean array I : integer array; let b[false] = 77 - 1 /= 57; when case - 104 >= 0 : chillax end case 9290 = 71700 : chillax end; pop end ql6 : takes SF, gR : integer array returns nothing suJa, Z, z : boolean; pQ, j, U : boolean; A : boolean; input M end main : chillax end

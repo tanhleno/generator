@@ -1,0 +1,1 @@
+program _ : main : gK, g_, h2, H : boolean array; R : integer; _J : integer; pop - false <= not 8 and 0; when case true : while 5 : output "" end; output "" . "\""; output ""; input ytUa end; let d9 = array true end

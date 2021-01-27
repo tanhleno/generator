@@ -1,0 +1,1 @@
+program Bi : i : takes V, a, JJ : integer; Mx : boolean array returns nothing input T7[- not 78 or 9 - 141]; when case - 45100 - 56 : when case 3 : chillax end end case 11 : while 3 : chillax end end case 2 : chillax end case 5 : chillax end; output "" end main : while true or 06100 <= Hz9(8) * false or i8w - 30 - 225 : chillax end; while not false : do D(7 = 01) end end

@@ -1,0 +1,1 @@
+program eM : xHu : takes mP, K, I, B : boolean array; bl50a : integer returns integer array chillax end main : while - 678 > - true rem x + not 3 and 58 : input Y[1 - 7]; let oP = array 86 end; let l[- false / not 6 + 4 and 9 - 59] = array(720) / t end

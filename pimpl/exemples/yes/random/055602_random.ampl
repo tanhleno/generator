@@ -1,0 +1,1 @@
+program xV : B : takes g : integer array; qpp : boolean; f : boolean; S1, k, b, T5, O : integer array returns nothing let vj = 10 - 6 < 5 end MlG : takes J9 : integer; T_ : boolean array returns integer array T53 : boolean; d : integer; e, G5 : boolean; pop end main : pop true end

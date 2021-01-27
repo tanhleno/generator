@@ -1,0 +1,1 @@
+program W25a : main : do uZ(true /= 3 * 0 + 431 and 6); when case - true and 76200 : chillax end case 2 and 951 or 4 - 92100 : chillax end case - 028 : chillax end case 3 : chillax end case 53 : chillax end end

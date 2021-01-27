@@ -1,0 +1,1 @@
+program A : main : while - 33 + false + false or 7 - 39900 : when case 871 - 9 < 91900 : chillax end case 32 : chillax end case 6 : chillax end case 092 : chillax end otherwise : when case 43 : chillax end; pop end end; pop; when case(8) or 9 : chillax end case - 38400 - 98 : chillax end case 8 : chillax end case 8 : pop end end

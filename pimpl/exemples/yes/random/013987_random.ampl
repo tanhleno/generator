@@ -1,0 +1,1 @@
+program u : Bq : takes D, d89, I : integer array; g, DF : boolean returns nothing X : boolean array; C07, H1 : boolean; k, X2m : boolean; F8 : boolean; while false and 6 > 0 - 8 : chillax end end u : takes p, k, F, _N : integer returns nothing I : boolean array; y : boolean; u : boolean; chillax end main : z : boolean array; chillax end

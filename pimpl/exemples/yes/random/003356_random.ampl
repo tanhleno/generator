@@ -1,0 +1,1 @@
+program qT : s0 : takes Hy10a, y, K0, O, z8v0 : integer; iW : integer array returns nothing pop - 9 - 6 <= 38; pop 9 = 07 end main : L5, X140a, N : integer array; when case(7 = 286) + true rem D or false or 1 : chillax end case - not true and true and 5760 or 7500 : let s = 2 end case - false and 7 : pop 24; when case 7 : chillax end; input n; pop end end

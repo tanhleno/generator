@@ -1,0 +1,1 @@
+program E9 : s : takes hN : boolean returns integer array chillax end main : D680 : boolean; z, tPF : integer; when case 2190 + (7) and not 4 - false /= - true : chillax end case - false + true and 3 > 2610 and 3 : chillax end case - ZEe and 902 : chillax end case 55000 : chillax end case 8 = 3 : input Rw end end

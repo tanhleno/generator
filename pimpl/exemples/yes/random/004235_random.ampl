@@ -1,0 +1,1 @@
+program yZ : gOT : takes mr, Z, V, L : boolean; oq8aa, _q3, m7, M : integer array returns boolean array F, S2 : boolean array; input f; when case - 7 > 1 : chillax end case 6 = 3 : chillax end otherwise : let j = 70; pop end end main : output ""; pop; while 93 = 2 : chillax end end

@@ -1,0 +1,1 @@
+program P : r : takes FE : integer array returns nothing do Y1((52) or 250 - 25 = - 998 - 7, - 9); input K; input R[0]; while 1 : chillax end end main : D, m : boolean; when case false : chillax end case(6650) / 05 and 1 - 3 or 52700 : let D[90] = 9 end end

@@ -1,0 +1,1 @@
+program u6 : Oq : takes b9 : integer returns nothing m : integer array; I87 : boolean array; x : integer array; S, r610 : boolean; l : boolean; pop; do Fr6(- 4 - 4) end main : let H = array - (8) and true - false rem(8) + (38) and 0; do I0(true <= 8 and 9) end

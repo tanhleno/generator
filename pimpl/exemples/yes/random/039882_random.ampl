@@ -1,0 +1,1 @@
+program FiP0 : q : takes BdAa : boolean array; vY0 : boolean array; G4 : boolean array; Ma : integer array; D : integer returns nothing B, VD : boolean array; Y1, e, m : integer array; let dfka = 774 end main : m : boolean array; H : boolean; chillax end

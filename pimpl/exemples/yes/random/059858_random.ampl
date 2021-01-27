@@ -1,0 +1,1 @@
+program FK : m : takes E : integer array returns nothing chillax end QY : takes I : integer array; k : boolean; Kh : integer returns boolean array chillax end main : output "" . "{\\" . "\\$" . "" . 13 end

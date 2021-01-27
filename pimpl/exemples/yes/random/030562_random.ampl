@@ -1,0 +1,1 @@
+program G1 : s00 : takes a, K : integer array returns nothing n6, I, K02 : integer; output "" . 2 = 1 end F46 : takes FaV, quf0, JM6, b : boolean array; un, v4u : boolean returns integer a : integer array; PJY, Q : boolean; while - 11600 < 0 : while 359 : chillax end; when case 2 : chillax end end end main : T : boolean; chillax end

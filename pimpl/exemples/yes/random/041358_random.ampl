@@ -1,0 +1,1 @@
+program r : yc : takes R : boolean array; h8 : integer returns nothing z2, c2d0, Q : boolean array; input j[4080 and 1 - 2 - 611]; while 14500 - 37 < 63200 : output "!" end; do L(9 = 3); output "\t"; input B end main : S_, c : boolean; chillax end

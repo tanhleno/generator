@@ -1,0 +1,1 @@
+program c : xYi : takes mS, lE1 : boolean; v, S, e : integer returns nothing b2R0, w, yp, v7g0, F : boolean; r, p8, J, J6k : boolean; l9 : integer; pn7, Y : boolean; chillax end main : pop; do Hb(- false and(89) or(7) and 0 < - not 01 + 592, not 72 < 65 - 1, - 3 - 34 > 44, 781); do c(not 4 and 0 or 94 - 625 >= - 702 - 19); while 1 - 8560 < 48 : chillax end end

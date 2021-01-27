@@ -1,0 +1,1 @@
+program h : M : takes R : boolean array; E : boolean array returns nothing chillax end U3a : takes J, e0 : boolean array; R7 : boolean array returns boolean U, i8, s, YZ00 : boolean; output ""; output 2 end main : chillax end

@@ -1,0 +1,1 @@
+program l : k : takes b, s, a : integer; Zog, tu8aa : integer array returns nothing Ey : boolean array; chillax end main : MY8a, m : boolean; let m[- true or false rem not 0360] = array not not(68) * false; let b[- false and true and 3] = array not(156) rem lH and 0 or(78) and 6 - 398; pop 76100 > 04100 end

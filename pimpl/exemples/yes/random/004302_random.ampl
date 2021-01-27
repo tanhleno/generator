@@ -1,0 +1,1 @@
+program bt : C : takes d2, r, O1, Y : boolean; X, CH, q10a : integer returns integer array S9, z : integer; V : integer; when case - not 3 and 7 - 6 - 11 = 4 - 8 : output "" . "" end; pop end main : C, h, q63aa : integer; Te, b : boolean array; b, T2 : integer array; dl : integer; input qwM0a; let Q[false rem(6740)] = array - (04100) rem not 50 end

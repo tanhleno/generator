@@ -1,0 +1,1 @@
+program sT_ : V02aa : takes JO : integer array; cW, vF : boolean returns boolean y, U, VQ10a, f, V : integer array; chillax end Lr : takes k : boolean returns boolean array when case 98 - 57 < 7 : chillax end otherwise : pop; pop end end main : when case not 6 >= (8) : chillax end case not 9 > - (95) or 3630 : pop 1 end; do M400(- false and T - 5 and 0 + 726 - 9) end

@@ -1,0 +1,1 @@
+program O : K : takes H, t, I : integer array; A : boolean array; Lh, xN10, w : boolean array returns integer array chillax end main : yxh : integer array; j40, l, K : boolean array; oO9, y : boolean; while - nN[3] <= - (9) rem true : chillax end; pop end

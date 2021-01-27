@@ -1,0 +1,1 @@
+program Awm0 : main : i : integer array; r6, h4, K, cP : boolean array; WW : integer array; when case tT[94] : chillax end case - not(67) / 3 and 3 : input Y; let H = array 044 end case - I or 7530 - 087 : chillax end end

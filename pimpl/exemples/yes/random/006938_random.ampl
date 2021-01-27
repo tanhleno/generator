@@ -1,0 +1,1 @@
+program K : T : takes d, A1, EZ, E6Caa : integer array; l, P6, s : integer array returns integer UD : integer; chillax end M : takes C, d, L, t2, d3 : integer array; Z : integer; TJ : integer returns nothing let d7h = 5 end main : input j end

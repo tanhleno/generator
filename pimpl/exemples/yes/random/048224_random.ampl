@@ -1,0 +1,1 @@
+program U : q4 : takes NA : boolean returns nothing S, w09aa : integer; m270a, s, jV, a : integer; while - false and 7 or 86 : do L3n0(9); do u(90); do P(00) end end main : eqx, f38 : boolean array; R : boolean array; chillax end

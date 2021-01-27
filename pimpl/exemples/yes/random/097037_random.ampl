@@ -1,0 +1,1 @@
+program k : main : when case E[5] : when case - 3 - 866 : chillax end case 4 : let o = 00300 end case 5200 : chillax end otherwise : chillax end; pop 549 end; while - 055 - gz and 6 or 91 : chillax end end

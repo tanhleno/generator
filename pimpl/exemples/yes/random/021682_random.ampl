@@ -1,0 +1,1 @@
+program Q070a : _ : takes HJ5, s : boolean array returns integer rT5aa : boolean; gI, Bv : integer array; H, E5, H : integer array; chillax end main : k : boolean; B2, Y, z : boolean array; chillax end

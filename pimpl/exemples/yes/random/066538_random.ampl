@@ -1,0 +1,1 @@
+program D : main : do a5G(- not 2 rem true + not true > not P * (350) and 1, 3080 + false); while - aH(7) and true and 1 >= - false and 27000 : while 4 : chillax end; do w(674, 18); while 29100 : chillax end; while 23 : chillax end; pop end; do L0(- (6) + 4 = 77, 1) end

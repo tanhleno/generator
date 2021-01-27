@@ -1,0 +1,1 @@
+program xe : w : takes No2a : integer array; B, r, j : boolean; O, y : integer array returns integer ZATa, QZ, q0 : boolean; sm, u, cn : boolean; d, qo : integer array; u, kK0 : boolean; f : boolean; output ""; do XR(59 <= 6); output "Y$"; pop; do D(7) end main : while - false : chillax end end

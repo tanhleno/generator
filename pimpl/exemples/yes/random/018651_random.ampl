@@ -1,0 +1,1 @@
+program K680a : ZW : takes jj, _ : boolean array; R0, S, vg, x8W, R8u : boolean; U, o : integer; lZ, Yn : boolean array returns nothing d, Y7y0, M_ : boolean; U, n : boolean; chillax end main : input H180[- (9) rem not(2) / 07 and 87 or 308 and true - (1) and 4 - 2 - 7] end

@@ -1,0 +1,1 @@
+program r50a : main : u12, r6, f9B0a : boolean; c23a, _b0aa, u5 : integer; I : boolean array; when case true + not not 71100 and(0) and 979 : chillax end case - true and 84 and 5 : output 52 . "" . "5" end case - (22) + 6020 - 0 : chillax end; while(5) and not 8 /= true or 0 : let g6 = array 5; while 6 : pop end end; pop 7 - 0 >= 7 end

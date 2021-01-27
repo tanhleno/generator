@@ -1,0 +1,1 @@
+program M : VbCa : takes Gsa : integer array; q1 : integer; y1, u : integer array; rr, C65a : integer; t, P : integer array returns nothing input S8[- false and 949 - 0 - 85]; let J710 = array 21; while 4 = 9 : when case 298 : chillax end end end main : P, DG60, o2j : boolean; while - false and 0 rem vZ3a and 28 : let P[- 3] = array 55200 - 49 end end

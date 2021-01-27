@@ -1,0 +1,1 @@
+program h : u : takes qZ, C, G, R : boolean array; P : boolean array; h, R : boolean returns boolean array input tx; do x7(9, 1 = 63, 138, 64000); do l(6, 4); pop end A : takes v0Kaa, U2x0a : integer array returns integer array let vR = 8 = 7; let x7e = 98 end main : chillax end

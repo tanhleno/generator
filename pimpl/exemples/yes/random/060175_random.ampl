@@ -1,0 +1,1 @@
+program GS8 : HW60 : takes H : integer array returns nothing X, Cg, Xz5a, H, ci : boolean; do m(- c and 12700, 2 - 3, 67700 = 622, 1) end o : takes cy, j, f, OJT : integer array; x, bV1a : boolean returns boolean array while - 3 - 631 /= 1 : chillax end end main : chillax end

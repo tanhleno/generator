@@ -1,0 +1,1 @@
+program H : main : _, S : boolean; when case - AdS(9, 6260) * (2) : chillax end case - false rem false /= - c and 22 + 4 - 1 : input c31aa[19] end otherwise : chillax end; when case - F and false >= true and 793 : output 4 end end

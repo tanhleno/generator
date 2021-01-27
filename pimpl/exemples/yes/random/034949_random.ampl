@@ -1,0 +1,1 @@
+program Q : p : takes g : boolean; A, c47 : integer array; h : boolean array; c : boolean; MU7a, O, Ej0aa : boolean array returns boolean T : boolean; t9 : integer array; N4, II5, P : boolean array; do E6(- 5 and 38 > - 3 - 75) end A : takes K65aa, nj : integer returns boolean chillax end main : let Nl70a[(6 = 8320)] = array - wQf(86) - (23) rem not 0 end

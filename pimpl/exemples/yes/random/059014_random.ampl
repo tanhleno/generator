@@ -1,0 +1,1 @@
+program V : e : takes fP : integer array returns integer array pop - 4; when case 4 - 8 : chillax end case 2 = 3 : output "" end case 0 : pop end case 74 : chillax end end main : when case false rem z * 70 or(834) * S and 8320 + not 2 /= - false * s8v : pop end end

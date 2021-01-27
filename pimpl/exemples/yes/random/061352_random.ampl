@@ -1,0 +1,1 @@
+program G46a : O64a : takes M : integer array returns nothing output - 3 /= 2 . 486 = 608; pop; output "A5aa" . "" . "5+aa" end WWO : takes u, d : integer array; DGl0 : integer array returns nothing j, i : boolean array; chillax end main : chillax end

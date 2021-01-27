@@ -1,0 +1,1 @@
+program l : x1K : takes O, L : boolean array; ko, nn, Zd70, v : integer array returns boolean array chillax end F : takes q, PP, p5, I, E4Faa, FAgaa, c7 : integer array returns integer array chillax end a : takes X, l, V9, Y : boolean returns nothing jg9a, Q : integer; let E[6] = array 35 end main : _A : boolean array; input U[- Bck]; let n5Aaa = array not false * true and 84 end

@@ -1,0 +1,1 @@
+program N : a : takes S1Y, R72, R3a0a : boolean returns nothing while G - 84 <= - 9 - 4 : chillax end; output "" end m : takes a, E0i0a, q, H : boolean; v : boolean array returns nothing W9, M : boolean; Bfg0a : boolean; input R end main : chillax end

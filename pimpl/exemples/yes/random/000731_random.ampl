@@ -1,0 +1,1 @@
+program Y : iO : takes g, j, XPea, XR, P, f, cCw : boolean array returns nothing R : boolean; y0Faa : integer; chillax end D : takes f : boolean array; JVqa, YxT0 : integer array; y : integer array; J99 : boolean; O : boolean returns nothing chillax end f : takes W : integer returns boolean array pop 6 end main : i6, c5 : boolean array; chillax end

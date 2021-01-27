@@ -1,0 +1,1 @@
+program I2 : main : do SGD0(u(81, 3) / not k); let K6 = array - not(1) / false and 7720; pop; when case 27 - 96 <= 3 : while 5 : chillax end end case 0 : chillax end case 05 : chillax end; input kF end

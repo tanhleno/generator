@@ -1,0 +1,1 @@
+program F1Uaa : main : r, Gg2 : boolean array; pop X[280] rem not 8410 and 786 - (0) and 82 - 4 - 9 >= - false; input N8da; do B(5 and 2 /= 4); while 21 : input Wj; output "2" end; do q(00 = 2, 0290, 5250); pop 1540 end

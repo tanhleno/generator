@@ -1,0 +1,1 @@
+program R : lK60a : takes t : integer array returns nothing while c <= 0 - 8 : chillax end end J : takes N : boolean; mJ : boolean returns integer input MW[- 15] end _ : takes D, ZJ, o7, SH, J : integer; G : boolean returns nothing chillax end main : chillax end

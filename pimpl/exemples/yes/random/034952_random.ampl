@@ -1,0 +1,1 @@
+program n3W : X : takes iY : boolean; d8, N2P0 : integer array; L : boolean array; U : boolean array returns integer array chillax end main : Z : boolean; when case - m /= - (7) : chillax end case false rem(6) + 9 = - true : chillax end otherwise : chillax end; while false < false : output 60 . ""; output 0 end end

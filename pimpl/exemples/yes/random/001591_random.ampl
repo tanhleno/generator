@@ -1,0 +1,1 @@
+program b : O : takes I, S2, O7, z, nG1aa, qVoa : boolean returns nothing while not 9 - 4 >= 2 - 509 : when case 4 : pop end end; when case 578 : chillax end; input f end R : takes AX : boolean; c67aa, S : boolean array; Q300, nJ7, j : integer array returns boolean array z : integer array; let fr[1] = 99300; let w4 = 04 end main : input tH[- true rem false and(65)] end

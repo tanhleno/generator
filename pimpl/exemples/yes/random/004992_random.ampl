@@ -1,0 +1,1 @@
+program d : W : takes e1, C, W, Iq2 : boolean array; T5 : boolean; mT8, Z, z2, u980a : boolean array returns integer do A76(not 7 and 2 < 732); when case 06 : chillax end; input c end main : output not not 430 or 47 - 895 end

@@ -1,0 +1,1 @@
+program F : main : y, k6 : boolean; b, Y : boolean array; while not(2) or 7 rem(4) - true or 2 - 08 > - false * true : chillax end; when case - false - (39) : chillax end case - H or 89 - 1 > 04 : when case 41 : pop end case 413 : chillax end end case 99 < 4 : let c = 07; pop end otherwise : do v1Z(6, 25) end; while(4) and 7 : chillax end end

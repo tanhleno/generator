@@ -1,0 +1,1 @@
+program P : Y1 : takes e2 : boolean; _T, _ : boolean array; D, ER10, a : boolean array returns nothing c : boolean; i : integer array; pop end main : b : integer array; T_ : boolean array; J, v, V, yO : boolean array; h2R : integer; m7T0, Z2S0a : boolean; d : boolean; R : boolean; a : boolean; output ""; do E4i(false) end

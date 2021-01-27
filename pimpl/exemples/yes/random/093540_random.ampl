@@ -1,0 +1,1 @@
+program e : main : output ""; when case true + 1 : chillax end case b_ja or 44 - 7 < 1 : let p[1] = 33 end case 02 /= 4 : chillax end case 7 = 74 : chillax end case 7 : pop end otherwise : chillax end; pop; let I[9] = array - 11 - 2 end

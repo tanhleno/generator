@@ -1,0 +1,1 @@
+program G : xyq : takes D, U, rX, Y8ea : boolean; X, t5 : boolean array returns nothing f4oaa : boolean array; d, U : integer array; A16, G : integer; input X[- not 073 and 7 + 3 - 12100]; let M2 = array - 0 - 5 end q6V : takes CA7 : boolean array; O4 : integer; d : integer returns nothing chillax end main : g : integer; JHG, L, J4, G, IQq0a : integer array; chillax end

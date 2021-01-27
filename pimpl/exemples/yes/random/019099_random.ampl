@@ -1,0 +1,1 @@
+program a : A : takes e680, S_7 : boolean array; b, Ox9a, q : integer returns boolean output "S\"a"; do Y(2, 57, 195, 1); while 4 : let z = 4; pop end; do o(2) end Eg : takes o : boolean array returns integer array J, Z : boolean array; S : integer array; output 66 . 3 end main : a, E : integer; w : integer array; e1 : integer; GW, J, g : boolean; vu : boolean array; chillax end

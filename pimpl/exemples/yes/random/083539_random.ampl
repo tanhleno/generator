@@ -1,0 +1,1 @@
+program JL : main : qWs : integer; q78, l : boolean; c : boolean array; oQ90a : boolean array; do M(3 - false * true - not 54 and 2, - 607 - (05) or 38100 <= (8570) and 91, - true and 35 or 59 = - 3); do f3U(e[2] - true and 6 = k and 3 or 080 - 4030, - (8) and 6 > 6 - 0, 001, 91) end

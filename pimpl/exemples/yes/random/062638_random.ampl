@@ -1,0 +1,1 @@
+program i : Qj : takes Pj8 : integer returns boolean pop - 119 = 77 end xLI0 : takes q1 : boolean array returns nothing r, c1, e3 : integer; chillax end sa20 : takes ZyI : boolean returns nothing let c[376] = 3; pop 5180 end main : w1j : boolean; input WS; output "+j"; let D[not 0 or 9190 - 7] = array - (7) end

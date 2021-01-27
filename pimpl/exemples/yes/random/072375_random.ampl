@@ -1,0 +1,1 @@
+program g : main : Z, n, FN : integer; r : integer array; when case false / false : when case 3 <= 9 : chillax end; when case 39 = 2 : chillax end case 51000 : chillax end case 571 : chillax end end otherwise : output ")\\aa" end; do Z(- true >= - true and 8) end

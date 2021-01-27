@@ -1,0 +1,1 @@
+program z : v : takes I0, c : boolean array; j, T : integer; z : boolean; N5, NV : integer; n : boolean returns integer array h590, U, d, E : boolean array; U, b8 : boolean array; pop - 1 - 71; while - 3 - 200 : output "]" end end main : cA7aa : boolean array; chillax end

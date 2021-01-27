@@ -1,0 +1,1 @@
+program h : M : takes AE : boolean array returns integer K : integer; H, oz3, o, t : integer array; chillax end z : takes Fm2 : integer array returns nothing do V(- 6); output "~}" end main : chillax end

@@ -1,0 +1,1 @@
+program jiO0a : ABCaa : takes l0, L65aa : integer array returns nothing chillax end R0 : takes je, A, K5, d : integer array returns integer x : boolean array; chillax end h : takes xF : boolean array; k : integer array returns integer array Q, Pd : boolean array; chillax end main : j, ZJ1, L8, E7U, C, V1ca, n : integer; output ""; input c5 end

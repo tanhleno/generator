@@ -1,0 +1,1 @@
+program Z68 : main : ZG, J4, P, y, g : boolean array; xj9, W : boolean array; when case 0 + not C7 rem not 10 = not ZQx : chillax end case(0) /= not 400 and 153 + 8 : while 68 : chillax end end otherwise : chillax end; do s(- not ju4a / (42) and 46 = - false + 5, oZy0a and 1 + 3 - 99600 /= - 1); when case - d4 >= - 264 - 46600 : chillax end; output 0 . 24000 end

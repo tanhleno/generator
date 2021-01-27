@@ -1,0 +1,1 @@
+program f : _ : takes XH5a : boolean array returns nothing chillax end main : NBZa : boolean array; qv : integer array; do yofaa(- 79, - not E5 + false + 41, false - 5 - 9, - 6 - 946 > 12300, 7470 = 1820) end

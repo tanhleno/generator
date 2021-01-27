@@ -1,0 +1,1 @@
+program i : NA : takes I : integer array returns boolean array v : boolean; q7 : boolean; chillax end main : h, b : boolean array; input q; when case(3) rem 88 and 11000 - true or 41 : chillax end end

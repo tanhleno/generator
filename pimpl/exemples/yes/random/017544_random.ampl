@@ -1,0 +1,1 @@
+program e : ij : takes Gr, Rl : boolean; Xep, J : integer array returns nothing when case I or 861 - 074 >= 42 : chillax end otherwise : pop end; do O(238 - 5); when case 69 : chillax end otherwise : chillax end; pop; while 2430 : chillax end end main : H : boolean array; chillax end

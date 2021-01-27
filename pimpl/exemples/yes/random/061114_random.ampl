@@ -1,0 +1,1 @@
+program Y : R : takes o : integer array returns nothing uzi : integer array; j, S9, I9j : boolean; input N[- XH]; while - 4 : chillax end end main : N : boolean array; output - false / false and 85 <= - b6 or 797 - 51 end

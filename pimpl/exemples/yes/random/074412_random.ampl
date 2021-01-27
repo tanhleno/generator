@@ -1,0 +1,1 @@
+program AP : main : P, y : boolean; when case true - 65 rem b and 066 + false < - not not 946 rem 32 : output "" . 7 end case - true * false and 1 + F and 6 > - not 5 - 84 - 742 : do l020a(0, 9, 5); when case 4 : pop end; output ""; input T4c0 end case - false = 96 - 45 : while 224 : chillax end end otherwise : chillax end; input T end

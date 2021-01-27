@@ -1,0 +1,1 @@
+program U : _3 : takes Jw : boolean array; P0, X3A0a, q, O : integer array returns integer do e(- (461) and 3 - 378 - 16 = 00, 4 - 20 >= 821) end main : when case not 3 * not false rem 8 + jF4[1] rem true + true - 8 - 4 : when case - 53 >= 99 : chillax end end otherwise : when case 67 : output "],aa" end otherwise : chillax end; while 7 : chillax end end end

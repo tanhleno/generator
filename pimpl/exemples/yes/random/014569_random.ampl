@@ -1,0 +1,1 @@
+program p : Q : takes Q, W9Z, q : integer array; ft : integer array returns nothing while - not 9 and 49 : chillax end; while 52 - 3750 : chillax end; pop 22; output "8o\"a"; when case 1790 : chillax end; pop; pop end main : chillax end

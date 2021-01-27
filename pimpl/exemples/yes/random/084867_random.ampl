@@ -1,0 +1,1 @@
+program k : main : O : integer; output - false + J and 050 . - false and 4380 /= 65200 - 6 . "\\9\"a" . 95 . 4930 . "" . ""; do Nb2(- 9 and 7, - x and 4); while false > - 56 : when case 1860 : pop end case 1 : chillax end otherwise : chillax end; output "0O0a" end end

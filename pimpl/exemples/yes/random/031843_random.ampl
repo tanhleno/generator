@@ -1,0 +1,1 @@
+program Rz : K5 : takes k, I : integer returns integer array mi : integer; chillax end XC : takes rye, S : boolean; k : integer; o : integer array; C, FsAa, Lh : integer array; l2 : boolean array returns nothing G : boolean array; do D(- 839 <= 052); let fN[2] = 83 end main : E43, X, N, t : boolean array; output 79 + 4 and 8 /= not 6 end

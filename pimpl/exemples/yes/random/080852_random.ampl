@@ -1,0 +1,1 @@
+program Wa : main : e : boolean array; U, _, c, G20a, A : integer array; s, a, n : boolean array; pop; input X69aa[A - 6 and 50 + 117]; while - F + 4 >= - 4 - 1 : input W[663]; pop end; input q[7 - 4080]; when case 2 = 5 : chillax end otherwise : chillax end; pop 53 end

@@ -1,0 +1,1 @@
+program p0r0a : qn : takes vSr, To4, EB, k, X : boolean; R, mjaaa : boolean returns integer array Zq, V : integer; T : boolean array; O : integer array; output 20200 - 3; when case - 4 < 1 : chillax end otherwise : when case 6 : chillax end end end X : takes u, Y : boolean returns boolean while - 0 - 2 >= 3 : when case 850 : chillax end end end main : chillax end

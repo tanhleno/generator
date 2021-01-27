@@ -1,0 +1,1 @@
+program X9y0a : mO : takes w, o : integer array; e6, ahy, z98, Ii : boolean returns boolean array n9 : integer array; when case dg9 : while 7 : pop end end otherwise : chillax end; while 440 - 95 > 8 : when case 1430 : chillax end; while 88 : chillax end; pop end; while 5070 : do e1b(429) end; do C8ja(26500); while 19 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program C : C : takes Pp, l : integer array; e : integer returns integer array chillax end b1 : takes Z5, tpL0a : boolean array; PD, Ur3a, I : boolean array; uiq : integer array returns nothing ts, M10aa, k, x : boolean array; while 93 - 330 <= 0830 : input dw end end C18 : takes p6, E7 : integer returns nothing b : integer; I, lo9 : boolean; pop 0; pop 4 end main : output "" end

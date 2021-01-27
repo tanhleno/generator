@@ -1,0 +1,1 @@
+program v : O : takes u300, C6 : integer array returns nothing while - t and 16 : let Y1y0a = array 2; output ""; output ";6aa" end end yHp : takes n95aa, l5w0a : integer returns nothing while - 6770 - 00 <= 63 : chillax end end main : chillax end

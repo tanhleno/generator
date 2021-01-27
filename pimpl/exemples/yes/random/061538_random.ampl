@@ -1,0 +1,1 @@
+program mw8a : d : takes kkRa : integer array returns nothing when case - not 5960 /= 4 : chillax end end X4 : takes S : boolean array; HYIaa : boolean returns nothing pop; let Q00 = array 4; while 4 : chillax end end s2 : takes XA3a, I : integer array; O4h, s250 : boolean array returns boolean array CTjaa : boolean; b : boolean; pop 6360; output 8 . "" end main : chillax end

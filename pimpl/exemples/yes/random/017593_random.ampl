@@ -1,0 +1,1 @@
+program fH5 : syA : takes gO50, DVga : boolean; W, M : integer returns nothing D87 : integer array; b, cFsaa : integer; R9 : integer array; T, VD1 : boolean; chillax end main : g, Z, Hm : integer array; input k[(09)] end

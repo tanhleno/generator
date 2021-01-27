@@ -1,0 +1,1 @@
+program RH9 : d6z : takes Q8, R, u : integer returns boolean array rp6 : integer array; E5, x4 : integer array; Y390, U5 : integer; x, q : boolean; let f = 0; output "" . "" end main : fy : boolean; C : boolean; while - true : do U(- 7 - 2870 /= 7, 1) end end

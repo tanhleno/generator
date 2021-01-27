@@ -1,0 +1,1 @@
+program PP70 : main : j, EY9a : integer array; O : boolean array; K3, A, FG : boolean array; wQ, i82a, vC, C4a : integer array; SvY0a, F : integer; A, W4b : boolean; while - false and(9) /= - (1) - not 6 and 1 or 093 : chillax end end

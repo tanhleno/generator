@@ -1,0 +1,1 @@
+program N : K8raa : takes D720 : boolean returns boolean array EQ : integer; O5q0 : integer array; pop end q45 : takes w : integer array returns nothing C5, p4, H84 : boolean; chillax end main : j6S : boolean; M4 : boolean; rL : integer; lD7 : boolean; chillax end

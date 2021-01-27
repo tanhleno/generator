@@ -1,0 +1,1 @@
+program x : main : G : boolean; r, Ct, Km, E, a, xj : integer array; q5, B8, A, Z6, s72 : integer array; o8 : integer array; bowa : boolean; while - Be < false : let z = array - 2 end; when case - (8) / G and 3 >= - false + 06 - 2 : chillax end otherwise : chillax end end

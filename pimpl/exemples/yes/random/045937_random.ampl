@@ -1,0 +1,1 @@
+program Q : w3k : takes Uvu : boolean returns boolean chillax end f : takes R6S : boolean array returns boolean array V, N5i, B, M : integer array; E : integer; output 6 = 1; output "" . "/"; pop 42; do k(946); pop; pop end main : s : integer; Q : boolean; when case - 91 / 067 and(8) and 7 : chillax end case - true >= - 7 or 0 - 7 : while 6 : chillax end end end

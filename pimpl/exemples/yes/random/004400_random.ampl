@@ -1,0 +1,1 @@
+program N : p : takes k, s, h, X : boolean; T, bQ : integer; M : boolean array; _, Q, wMRa, N1, P : integer returns nothing V, y : integer array; do l(66 and 2 + 07); input I[- 60300]; output 83; while 20 : chillax end; do H0(5); input A; pop end main : output "" . ""; output "" end

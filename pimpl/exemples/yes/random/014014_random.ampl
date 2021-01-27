@@ -1,0 +1,1 @@
+program f : nE1 : takes x, N0h, hHV0a : integer array; g5t, lm8 : integer; m : boolean array returns boolean array pop; when case 9 : pop; pop; pop end case 1 : chillax end; let kQ[9] = array 80 end main : while - false or not 1 rem 8 and 50 + (9) : chillax end; output true and 7 or 29300 - 0 . 6 > 4 . 5; pop 4080 - 13 > 26 end

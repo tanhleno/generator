@@ -1,0 +1,1 @@
+program Xf : I : takes F : integer array; D2 : integer returns boolean output "9" end q : takes O, C : integer returns nothing input e; when case 67 = 260 : output ""; pop end case 4 : pop end case 8 : chillax end otherwise : chillax end end Cx1 : takes E : integer returns nothing A, yl : boolean; chillax end main : chillax end

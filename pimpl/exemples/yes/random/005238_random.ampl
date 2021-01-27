@@ -1,0 +1,1 @@
+program D590a : d3uaa : takes v, m, j, STK : boolean array; YM : integer returns nothing Z : boolean; input f2; input B; do z(7); when case 56 : chillax end case 2 : chillax end otherwise : chillax end end main : D6Wa : boolean; i7, N : integer array; while(75700) * true + true and(5) + i1A0 : pop 8; pop end end

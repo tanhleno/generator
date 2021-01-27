@@ -1,0 +1,1 @@
+program r : jR : takes b : boolean returns integer chillax end P : takes BX, d5W0a : integer array; H, v, T4, E : integer; _, u4, T : integer array returns integer array VTr, UF : integer array; chillax end main : do P9(- not g(06) * L * true <= 7 / (2500) and 91) end

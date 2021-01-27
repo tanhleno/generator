@@ -1,0 +1,1 @@
+program ar7a : r : takes _ : boolean; f : boolean returns integer a : integer; z : integer; chillax end main : U : integer; l, a7 : integer; when case - 8770 - F / (046) : chillax end case - not true rem true or false : when case 75 : let t = 0 end; input hU8[2770] end case L1 and 7 > - 67 - 4 : while 7 : chillax end end otherwise : do d470(8, 0, 7); output "37" . "61!a" end end

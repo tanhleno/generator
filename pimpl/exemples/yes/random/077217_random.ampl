@@ -1,0 +1,1 @@
+program Vot : main : X6c, j : integer array; sK, fR5, R : integer; do b(- false / I[44] * false and 5 + e rem K2Haa and 21 - (8) and 03 + 9 <= - false * false - false and 49, true and true and 1 or 395 and 5 - 11 - 3) end

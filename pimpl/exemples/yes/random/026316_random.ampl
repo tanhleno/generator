@@ -1,0 +1,1 @@
+program q : E6Q0a : takes W, F4 : integer; g : boolean array returns nothing q4t0a, k2, iE : integer array; when case not 16 and 1 or 92 >= - 9160 : chillax end; when case 299 - 4 >= 792 : output "$"; output "T"; pop end case 41800 = 774 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Z : M : takes k, _9, A3, u_, s : integer returns nothing i, Y : boolean array; chillax end main : X : integer array; N6 : boolean array; when case - w - 2 - 9 - 36 - 7 : let zi4a[- 6 - 1] = array - 84000 - 0; let lG60 = array 88; pop 9 end otherwise : chillax end end

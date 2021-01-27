@@ -1,0 +1,1 @@
+program bF4 : main : do Yao0a(- MX00(877) * not true and true and 9 > true and not 2 and 0 or 8 and 59 - 3, - 1 rem not 76 and 6 + false or 6 - 6260 <= - 3130 and 0); do K(- 4 + 4 or 1 < - true + 64, - N and 7, 015 - 4) end

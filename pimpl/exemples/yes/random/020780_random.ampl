@@ -1,0 +1,1 @@
+program i : K : takes r, j : boolean array returns boolean array chillax end cU6 : takes T3, X : boolean array returns boolean array i : integer array; input R end M : takes V : boolean array; VH70, t : boolean returns integer chillax end main : let i[- T1g[1] rem(4)] = array not false - not not 9 + (05900) and 4 end

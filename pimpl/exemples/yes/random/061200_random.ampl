@@ -1,0 +1,1 @@
+program W : y2 : takes QQ : integer array returns nothing uN90 : integer array; while false and 16 - 3 - 1 : input Z; do hV(8); output "X\"a"; pop end end main : TYPaa : integer; d : integer array; i : boolean; chillax end

@@ -1,0 +1,1 @@
+program f7 : u : takes RYs : integer array; X, T, h5v0a, G2 : boolean array; pgc : integer array returns nothing D, R, g, s20aa, w : integer array; output "2" end main : while(3 = 25) or(25) or true and 7 or 990 - 4 : input j[44] end; do j(false or(6) or 877) end

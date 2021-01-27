@@ -1,0 +1,1 @@
+program s : main : j0G : boolean array; w16, s, M, p : boolean; Ewp0a, c, ub : boolean; input Sh6[true / true / true and 8 + Dk2(931)]; output "E(\"" . - 2 = 511 . "b3"; input Rh[not 45 and 0 - 0] end

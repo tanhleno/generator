@@ -1,0 +1,1 @@
+program Gw5aa : K : takes m : boolean returns nothing OA6a, pH : integer; P5, G49 : boolean; aL : boolean array; chillax end o : takes q : integer array; B : integer returns boolean C : boolean; output "^9"; pop end main : chillax end

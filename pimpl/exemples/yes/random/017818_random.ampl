@@ -1,0 +1,1 @@
+program _2 : n : takes YLX, y : boolean; j : boolean array; D10 : integer; R, V1 : integer returns nothing while false and 17 + 7 >= 9 - 02 : chillax end end L : takes Mmz, Kk, mOVaa, iy9a, g7Ha, A, H : boolean returns integer array chillax end main : chillax end

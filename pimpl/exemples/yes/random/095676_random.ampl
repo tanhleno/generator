@@ -1,0 +1,1 @@
+program LtW0 : main : when case - (92 = 3) / B0i0a(0) rem(73) and 3 or 45900 >= d(4) * (12) and 8 or 3 : let d380a = array - 368; while 8 = 3 : when case 025 : chillax end end end otherwise : chillax end end

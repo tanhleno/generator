@@ -1,0 +1,1 @@
+program X : main : J, qc1 : integer; F, o, Y : integer array; bh : integer array; LA, j : boolean array; cK, K : integer; while B(4) : chillax end; while(30) rem true + true and 3 or 1 - 2 : let d = 5; while 6 : pop end end; do eth(- (4) and 48, - 87000); pop; do g0(94) end

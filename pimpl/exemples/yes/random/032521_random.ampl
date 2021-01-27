@@ -1,0 +1,1 @@
+program W5 : K170 : takes A9, X : integer returns nothing e, T, _f, VN : integer array; _7 : integer; O : integer array; Jm3 : boolean; A8 : boolean; while 9 < - 4 - 4 : do ze(1510, 7) end end A : takes t : integer; t : integer returns boolean VH, s, w : integer; N_ : integer; u, h : boolean; chillax end main : output "" . - not 9; while false : chillax end end

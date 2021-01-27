@@ -1,0 +1,1 @@
+program o53aa : main : when case h[9] / t / sA + not false / true and 4 + l and 796 : chillax end case true * (1) : chillax end; let g = array WC(0120); pop 5370; do B(- 18 = 6, 6520, 58, 5); pop 1; output 8 end

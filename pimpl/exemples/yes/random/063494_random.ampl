@@ -1,0 +1,1 @@
+program G50a : k : takes R : integer returns integer W : integer array; chillax end Z8Ra : takes BM9 : integer returns nothing chillax end S : takes uN, P, E : integer array returns boolean let rk = 67 end main : yK, Z, C, L : integer; _2t, z : integer; chillax end

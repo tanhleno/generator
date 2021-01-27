@@ -1,0 +1,1 @@
+program T : k : takes F, bM : boolean; o12 : boolean array; f2, w, j, Q590 : integer returns integer array input E[Gc and 4]; let D = array - 07 - 0570; do J(6 = 2) end w : takes I : boolean array returns nothing bNAa : integer array; pop end main : n, HA, G9, x, V : integer; do q(- not false / not W / (1) and 978 = not true) end

@@ -1,0 +1,1 @@
+program IO8 : main : let E = true * false /= false and 263 or 8 - 1; output 05 - 53 - 77; let Ws[- false and 25 - 6] = 63 > 6; output "" . 0; while 0 : chillax end; when case 7 : chillax end case 3 : chillax end end

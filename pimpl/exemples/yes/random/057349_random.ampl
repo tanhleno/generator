@@ -1,0 +1,1 @@
+program N050 : w : takes M : integer array; p0 : integer returns boolean array pop - 312 - 23 /= 35; do h(- 67 - 50); when case 27200 : chillax end; output "\n}" . ""; do M(50300); output "~$"; pop end main : G5 : integer; input W2e end

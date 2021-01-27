@@ -1,0 +1,1 @@
+program l3R0a : f : takes R16, v : boolean array returns integer array pop end Kr : takes T8Eaa : integer; mfpa : integer array returns nothing _2F0a : integer array; G, a, Q : boolean array; K, sw1 : boolean; Bd : boolean; chillax end main : h : integer array; chillax end

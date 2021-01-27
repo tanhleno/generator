@@ -1,0 +1,1 @@
+program AE : N : takes j8 : integer array; O, Z, u, n2X, O_9aa : boolean array returns nothing output 0 - 8; when case - 6 > 9 : do l3(60) end otherwise : while 81 : chillax end end end tmL : takes T6, S9, L : boolean returns integer array let B8 = array 9 - 17 end j : takes qa, Qv2 : boolean array returns boolean array chillax end main : V7c, ej : integer array; input A9 end

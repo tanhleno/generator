@@ -1,0 +1,1 @@
+program E : L : takes B : integer array returns integer input heE[(5) and 30] end na : takes n, g, f85 : integer array; a, p, p7 : integer array; L : integer returns boolean do G(0 <= 12); pop 54 end main : input P; pop - false and 0 + 4; input d; input u[- 1]; while 5 = 8 : chillax end; pop 09 end

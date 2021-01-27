@@ -1,0 +1,1 @@
+program B : S : takes Y, w : integer returns integer array f : integer; r8, v : integer; chillax end main : while not(21300) rem not r / not 9 and 9 >= true - xB and 55200 or 1 : output "/\n!a" . "" . "" . "" end; output - false and 75 . "7" . "" . "\n`!a" end

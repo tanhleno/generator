@@ -1,0 +1,1 @@
+program VoW : F3V : takes Zl : boolean array; pW, E : integer array returns nothing Rzz : boolean array; z, u : boolean array; J700a : integer; V : boolean; chillax end main : do grU0(false - k8(836) or 7 - 409); do Ww(true, true >= 4); when case true - 5 = 8 - 47 : do mR20a(7, 54); output "u00a" end case - 3 - 40 = 8 : chillax end otherwise : pop; let tm = 05200 end end

@@ -1,0 +1,1 @@
+program Yhi0 : N1xaa : takes E1 : integer array; vC6 : boolean; ee, u, J : boolean array; k2daa, Fi, aX, p3, H : integer returns boolean pop - 0 - 05; while - 0 <= 57 : input S end end main : chillax end

@@ -1,0 +1,1 @@
+program N90 : TL : takes n : boolean array returns integer array output - 4 - 9 . "" . "" end h4G : takes X : integer returns nothing pop 7490 end main : k : integer array; u : integer; S17, U3, Y : integer array; chillax end

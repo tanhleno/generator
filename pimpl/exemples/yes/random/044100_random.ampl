@@ -1,0 +1,1 @@
+program H8 : C : takes a4 : boolean array returns nothing IH10, N, Y : integer; chillax end L : takes bP, E : boolean; KJ, _jd, eG, M, Z7 : integer array; hI : integer returns integer array gYY : boolean; HKsaa, _S4a : integer; input x[384 - 7] end main : Jb : boolean; A2, J7, b, l : boolean; chillax end

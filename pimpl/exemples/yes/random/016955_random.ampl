@@ -1,0 +1,1 @@
+program _ : r : takes _O, z : boolean; L, Rq, j82 : boolean array returns integer do mUQa(- V) end W : takes fI : boolean array; d, TD6 : integer array returns integer array do Q(8, 288 = 159, 6940, 4); let T = array 0370; do I8o(1, 4); while 9 : chillax end; pop end main : chillax end

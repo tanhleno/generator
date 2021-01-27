@@ -1,0 +1,1 @@
+program C0 : u : takes k5 : integer; cEx, H : integer array returns nothing z : integer array; chillax end main : when case - (07) * true / not 7 > - AM(33000) * 21900 or not 17 and 2 - 32 - 2 : while - 91 /= 2 : output "\"H" end end; output - wg8 . "" . "&[\"a" . 16 end

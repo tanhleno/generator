@@ -1,0 +1,1 @@
+program r : H : takes C : integer; BHoa : boolean; K98aa : integer array; m5z0a : integer array returns boolean s : boolean; chillax end main : pop; do T(not true rem false - true - 95, - e4 > - 30 - 1) end

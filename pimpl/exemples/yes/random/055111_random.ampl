@@ -1,0 +1,1 @@
+program O : oAo0 : takes I : integer array; E58, P : integer array; Kv2 : boolean; r3p, s : boolean returns integer J, phl, m6 : boolean; do ZFWaa(l <= 28 - 2); while 8 : chillax end; while 2 = 8700 : chillax end end main : chillax end

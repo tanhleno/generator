@@ -1,0 +1,1 @@
+program J : h : takes n : integer array returns nothing let kk[(0) - 7 - 03] = array - (7950) and 40; do c(374 = 7); input S; pop 04; while 1 : chillax end; pop; pop end main : QD, t5q : boolean array; pop true; let U = false and 75 or 2 - 3 /= - 5 end

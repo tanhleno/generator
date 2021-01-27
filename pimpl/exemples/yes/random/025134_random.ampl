@@ -1,0 +1,1 @@
+program Z : _ : takes YR, z : integer; q, Y4, y, E : integer returns boolean o7ea, u1W0, hW00a : integer; chillax end main : H : boolean array; do Cn(- true and not true / not 0390 < not false, true + true or 618 = not 725, true and 9 - 3 > - 224); pop 7 and 6 + 94 - 7 end

@@ -1,0 +1,1 @@
+program x : T : takes E_P, J : integer returns integer array pop end U : takes F, bI8 : boolean array returns nothing pop; do c(7 = 5, 21); output 0650 . "g"; when case 73 : chillax end; while 7 : chillax end end main : E_60a : boolean; d4, z8, X, j5Ga, O57a : boolean array; chillax end

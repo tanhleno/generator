@@ -1,0 +1,1 @@
+program h : Y : takes C, r, xl : boolean array returns integer array m : boolean array; hi60a : boolean array; chillax end jOc : takes B : boolean array returns nothing when case 0 <= 6 : input q5I end otherwise : chillax end; when case 4 = 26 : let r1D = 7 end case 05900 : pop end case 3 : chillax end otherwise : chillax end end main : chillax end

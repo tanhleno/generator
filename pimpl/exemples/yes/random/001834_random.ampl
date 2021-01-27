@@ -1,0 +1,1 @@
+program tnM0 : Z : takes wt1, eu4, k, NT, X4, d00 : integer array; S : integer array returns boolean array let L = array S4 and 54; let wR[- 11700] = array 3 - 4; output ")&0" end IH : takes B, Q, t, M, D, Z, T : integer returns integer tH0, d760 : integer array; chillax end main : chillax end

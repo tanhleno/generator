@@ -1,0 +1,1 @@
+program _ : main : let q2 = - false rem true and 26 - 15700 and 3850 + 3 - 763; output T; output 81 - 441; output 018 = 00 . 85 . "u"; output ""; let i4 = array 7; output "]"; while 617 : chillax end end

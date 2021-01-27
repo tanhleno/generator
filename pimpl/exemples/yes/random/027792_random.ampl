@@ -1,0 +1,1 @@
+program s : yHN0 : takes A, v : integer array; t, bl : boolean returns integer array j, I4, m780 : integer array; chillax end cO : takes m1, v : integer returns nothing a4y : boolean array; chillax end T : takes C : integer returns boolean array output "1"; let X2uaa[1] = array 7; do uF(8); output ""; pop end main : chillax end

@@ -1,0 +1,1 @@
+program v0 : n : takes Yuna, v : integer; cZ0a : integer returns nothing B : boolean array; when case - (02) + 53 - 2 : input I570a; pop end case - 7570 /= 4 : chillax end case 52 = 52 : let M = 96; pop end; let m[1] = array 0 end main : v4raa, wn : boolean array; chillax end

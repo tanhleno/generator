@@ -1,0 +1,1 @@
+program J05 : Kt : takes Pe : boolean; x, E5, u73, R7, g, rq, Z : integer; V, X : integer returns nothing B, k5 : integer; output "" end ju : takes pG, j, L8, P, QWJ : boolean array; k30, L13, x170a, aZ, _, o2m : integer returns boolean array chillax end main : chillax end

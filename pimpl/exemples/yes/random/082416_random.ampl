@@ -1,0 +1,1 @@
+program Y : main : V : boolean array; let G[not(08) and(37600) * not 0880 and 62 + false / (2) and 85] = array 5 * false * true and 399 or true rem P8r or false; let f = - false and 42 >= 1800 - 0; input K9[- j + 097 - 3]; input l; let E[90] = array 5300; pop end

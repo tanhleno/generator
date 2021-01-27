@@ -1,0 +1,1 @@
+program A : main : yij : boolean; _9, e, b, Wg : integer; uJ2a, A : boolean array; jjS, GD : boolean array; when case - Z3u : while 9 = 1 : chillax end end otherwise : chillax end; when case - (9) or false and 9 - 8 - 3 : while 5 = 4 : when case 4 : chillax end end end otherwise : chillax end end

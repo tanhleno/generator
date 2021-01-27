@@ -1,0 +1,1 @@
+program s : em5aa : takes I2, T, u5 : integer; F, y_, N, p, qv2 : integer; jG : integer returns boolean v, L, Qg, b, j : boolean array; A, E : integer array; chillax end main : B : boolean array; input u end

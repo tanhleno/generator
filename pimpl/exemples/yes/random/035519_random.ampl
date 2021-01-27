@@ -1,0 +1,1 @@
+program d4 : X : takes Q : boolean; m9 : boolean; q : integer; sA : boolean array; i3 : boolean returns nothing D64 : boolean; do s(- (3) or 3 > - 6 - 7); when case - 5 : chillax end case 6 : output "" end otherwise : when case 302 : chillax end; pop end; pop 253 end main : Ez6 : boolean array; r : integer; chillax end

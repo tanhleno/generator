@@ -1,0 +1,1 @@
+program w9 : t : takes hRB : integer returns nothing while - true and 81 or 91 - 7 : chillax end end W : takes D : integer returns integer array output 3 = 2; do om(17, 5) end l03 : takes joL0a : integer array returns integer array output 6; output 2410; output ""; pop; pop end main : output "\t@" . B; let K = - F8J0; do t(- true and 4); do W1laa(522) end

@@ -1,0 +1,1 @@
+program u : L6 : takes U, Xd : boolean returns integer chillax end kgXa : takes H : boolean; F, aD9, h, b : boolean array returns nothing chillax end q : takes ql, A38, r : integer array; e_, U : boolean returns nothing _, _m, B0 : boolean array; pop; input U8t[074]; do t(242) end main : chillax end

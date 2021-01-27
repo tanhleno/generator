@@ -1,0 +1,1 @@
+program Z : main : S : integer array; p4L, GWbaa, R : boolean array; nU, z, _, gH, V4 : integer; input CFv0a; when case n0 and not 905 and 64 : let o[6] = 5 end; do o(true and 3850 < - 279 - 08); output 3 = 0; when case 98 : chillax end otherwise : pop end end

@@ -1,0 +1,1 @@
+program M : P : takes o81aa, D9, n : integer; pID : boolean array returns nothing h, Uy20a : integer; X : integer array; g : boolean; while - not 2 and 60 >= 8 : pop; when case 8 : chillax end end; let H[1] = array - 5 - 57 end main : T : integer; Q, Up7 : boolean; chillax end

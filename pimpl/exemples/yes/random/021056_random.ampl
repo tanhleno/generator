@@ -1,0 +1,1 @@
+program C2 : M : takes O81a, Z32 : boolean array returns boolean chillax end main : J : integer array; JE9, G, u : integer array; E72aa : integer array; T : integer array; while - false rem not true / (49) or false / not 3 and 69 : while - 480 : chillax end end end

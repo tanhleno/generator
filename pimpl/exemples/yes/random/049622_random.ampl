@@ -1,0 +1,1 @@
+program Tn : b : takes q : integer; U, b, O4B, wp : boolean returns nothing fnb : boolean; f7, O5, r, jB : integer; chillax end main : pop; output 00 and 07; when case - Aa and 3 - 60 >= 2 : chillax end case - 0 : chillax end otherwise : chillax end; input a[7 - 8]; when case 95 = 1 : chillax end case 2 : pop end case 749 : chillax end end

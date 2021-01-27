@@ -1,0 +1,1 @@
+program B : ts5 : takes r5o, mE : boolean array; q6Na, K : boolean array returns nothing R2u : boolean array; Y, o5 : boolean; _, E : integer array; chillax end main : SE : boolean; IcG, q : boolean; chillax end

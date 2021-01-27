@@ -1,0 +1,1 @@
+program q9 : l6 : takes fB, l : integer; qjv, iq50a, D_, x77aa, I : boolean; v : integer returns nothing l4, ZxJa : boolean array; o, K : boolean array; TH : integer; i, C : boolean; output "a" end p : takes q : boolean array returns boolean array chillax end main : i : integer array; g : integer; c7d0a : boolean; pop; output ""; output "!q"; pop 0 = 0; while 27 : chillax end end

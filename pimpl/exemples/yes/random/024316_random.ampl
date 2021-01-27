@@ -1,0 +1,1 @@
+program SF00a : E : takes z900a, u : boolean returns nothing o, w : boolean array; while - true and 5 < 96 : pop 6; let R0q0 = 0; while 3 : chillax end; pop end end c : takes O : integer; F, d9 : boolean returns nothing do x4(9 - 02 <= 9, 490, 40, 0); while 150 : while 607 : chillax end; pop end; output 0 end main : chillax end

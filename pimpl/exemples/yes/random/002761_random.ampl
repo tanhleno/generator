@@ -1,0 +1,1 @@
+program g : Q : takes q4, M, N7, CEE, BM00 : boolean array returns nothing chillax end B : takes E8 : boolean returns boolean MM : integer; chillax end w4 : takes p9, F : integer array; mKa0 : boolean; Id4 : integer returns nothing let u = array 51 end jB : takes LB : integer; C : boolean array returns integer input N[0] end main : chillax end

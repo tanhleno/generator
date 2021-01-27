@@ -1,0 +1,1 @@
+program x : main : n : integer array; do c(true * false, - Y8[60] - 4 + 12 - 15500); pop; do yO80a(- 0660 and 2 + 80 - 6); do H(128 - 437 < 5); when case 02300 : pop end case 16200 : chillax end case 662 : chillax end otherwise : chillax end; while 7 : pop end end

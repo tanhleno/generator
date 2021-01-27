@@ -1,0 +1,1 @@
+program K : v : takes z0, Ej : boolean; G : integer; Y : integer array; BF : integer array returns integer array chillax end main : lm5 : integer; pop - 5770 * not 43000 and 04 + not 6800 and 10 - 0380; output false < 2; do ZaMa(- true and 18 + 87 - 6 = 1, - 79 /= 9); pop end

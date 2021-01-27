@@ -1,0 +1,1 @@
+program C9 : T : takes s : integer array returns boolean Wd : boolean array; chillax end s : takes L, C4 : boolean array returns boolean array Dy9, jf, _0, Q : integer array; chillax end main : output - false rem 66800 . - (505) + 955 . - 8 - 04 . 0 = 1 end

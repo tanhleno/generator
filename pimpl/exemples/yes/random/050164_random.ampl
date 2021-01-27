@@ -1,0 +1,1 @@
+program F11 : d : takes p2 : integer; AS8, Y, q8n0 : integer array returns integer array D : boolean; output ""; pop; when case 913 : chillax end case 96 : chillax end end i : takes u : boolean array; b : boolean; L : integer array returns nothing input v end main : let c = 7 + v end

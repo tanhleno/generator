@@ -1,0 +1,1 @@
+program oj5 : v : takes Ju20a, A : boolean returns integer let UK[6 and 6 - 54 - 75] = 55800 - 1 = 99; let E[- 24 - 74] = 1 = 033; let Ql[27] = array 1; let E = array 7; output "" end main : do w(1, m[840] * true and 481) end

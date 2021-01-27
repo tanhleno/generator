@@ -1,0 +1,1 @@
+program X : N : takes F, A, Y4da, se : integer; b, Bo, STV, Xl, V, R, w : boolean array; i, E : integer array; E47 : integer array returns nothing l1Va, F8z, dc9 : boolean; O2N : integer; i, Bl30, D : integer array; chillax end main : e, F : boolean; chillax end

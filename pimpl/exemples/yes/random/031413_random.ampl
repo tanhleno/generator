@@ -1,0 +1,1 @@
+program PwFa : VC0a : takes X61, m0 : integer returns boolean array when case - not 37 + 219 - 53 < 977 : chillax end otherwise : chillax end; pop 714 = 6; output 26 . "8d\"a"; while 134 : chillax end; let Fld = 0 end main : chillax end

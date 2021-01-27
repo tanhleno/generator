@@ -1,0 +1,1 @@
+program G : E : takes ym, w, L : integer returns boolean chillax end F : takes El, r4m : integer; aTJaa : boolean; V4 : integer array returns nothing Eg : integer array; chillax end main : Q, Z : boolean array; chillax end

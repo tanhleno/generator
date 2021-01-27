@@ -1,0 +1,1 @@
+program HL : o : takes w, Zw1, n, z, Efl0a : boolean array; nv, sG, u, F8 : boolean array returns integer array E, DI5 : integer; J : integer array; chillax end E : takes c, Z, T : integer; u2, Cj50 : integer array returns nothing chillax end main : while I[7] and V[114] + (2630) and not 0 : output "d" end end

@@ -1,0 +1,1 @@
+program KT2 : qR : takes S, bkS : integer returns nothing dfj : boolean; y : integer array; smLa, g2 : integer array; E, DjQ : boolean; chillax end G55a : takes r, j : boolean returns boolean array chillax end main : N5 : integer; n75a : integer array; F, N4, J : integer array; pop - (0); output - (7) and 9 <= - 98 - 43300; pop - 7 - 6 end

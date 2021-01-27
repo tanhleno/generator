@@ -1,0 +1,1 @@
+program p : uHgaa : takes M4, OeDaa, xPz : integer array returns integer array j30 : integer array; let HEMaa = array false and 6 + 61; output 1 end k3F : takes w0z : boolean array; P : integer array; i : integer array; N, M : integer array; K : integer returns boolean array chillax end main : chillax end

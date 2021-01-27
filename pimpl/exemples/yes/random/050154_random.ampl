@@ -1,0 +1,1 @@
+program i : Tl : takes Y : integer; M6, Ad, W : integer array returns boolean when case(8) >= - 6 - 8 : chillax end otherwise : while 33 : chillax end; let S6_0 = 83; pop end end s49 : takes a1, bW3 : boolean; i : boolean returns nothing chillax end main : output true * not 2 and 22 . - u6 and 834 . "" end

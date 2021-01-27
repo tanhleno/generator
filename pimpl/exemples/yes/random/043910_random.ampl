@@ -1,0 +1,1 @@
+program uw : me90a : takes r06 : boolean array returns nothing DFm, b, B9, b, YH : boolean; chillax end V : takes ph, b6 : boolean array; k, l, nk2, J : boolean array returns nothing pop 514 end mpd : takes H : integer; L : integer returns nothing let Y = array 0; input e[3]; when case 0 : chillax end; do z(4); pop end main : u : boolean; pop end

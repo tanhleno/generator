@@ -1,0 +1,1 @@
+program wi : main : a4x : boolean array; do KF40(8 > true + not 3 or 6); let i[false] = array true; while - true and 152 or 0 - 82 : when case 3 : pop end case 5 : chillax end; when case 7830 : chillax end; while 70 : chillax end end end

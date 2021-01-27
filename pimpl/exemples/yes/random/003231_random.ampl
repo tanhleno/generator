@@ -1,0 +1,1 @@
+program k150a : B : takes LXka, J, U, h, m1u0 : integer; E7, g : integer array returns integer m, p, R0 : boolean array; I3, Hqx, Z, w : boolean; let e[- true and 219 + 061 - 9] = array - 95000 and 773 or 369 end Q : takes e, F : integer array returns nothing R, r, c, d : integer; while 5 <= 04 : do X9Q(913) end; do t(5 = 7510); input f5[795] end main : chillax end

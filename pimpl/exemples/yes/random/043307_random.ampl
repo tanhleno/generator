@@ -1,0 +1,1 @@
+program a3 : Q : takes d1 : boolean array returns integer let e1_[- l + 9] = array - true and 9 or 2; while - 5 < 28 : do M(3); output "4ma"; pop end; pop 3 end G : takes h44aa, y48, t : boolean array returns nothing input GM; input x end main : output "<"; output true and 91 . "" end

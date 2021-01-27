@@ -1,0 +1,1 @@
+program c27aa : s : takes x320, g : boolean returns nothing U : boolean array; DJ6, o : boolean array; chillax end main : P : integer array; al, f6 : integer; let A2[- f[2] and 4 - 1 - true and 1] = true <= false end

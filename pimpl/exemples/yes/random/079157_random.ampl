@@ -1,0 +1,1 @@
+program C : main : D : boolean; A6 : boolean; S, a, C7, Nz, R : boolean; bi, XG80a : integer; k : boolean; a, mJ : boolean; while(9 = 82) + not not 072 - A3M0 > - false - 28300 - 4 - 14 : chillax end end

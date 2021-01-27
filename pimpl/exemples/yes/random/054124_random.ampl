@@ -1,0 +1,1 @@
+program n : t9 : takes m40 : integer array; A13a, z5i, Y : integer; OB3, skN, E : boolean array; d4, l, ti, WP, z : integer returns boolean chillax end main : rJV : boolean; I, I, c, z, x7 : integer; f, k : boolean; do a(not Md(5) - (1) / false and 3, - (0) > - _1G0) end

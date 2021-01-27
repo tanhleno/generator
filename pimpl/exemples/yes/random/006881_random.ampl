@@ -1,0 +1,1 @@
+program U : l : takes F, y, MU, _ : integer array; g, N, v : boolean; u, hY : boolean array returns boolean chillax end main : do v(true rem not Y > true + (9780) + 062, - false); do E710(- not true - true and 37, - M and 7); input M[- 3 and 0]; pop 0 end

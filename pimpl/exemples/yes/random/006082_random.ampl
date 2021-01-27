@@ -1,0 +1,1 @@
+program a : Gu8 : takes A7, d, J, Jf4 : boolean returns nothing chillax end qa : takes V, l : integer; N : integer array returns nothing l6G, r : boolean; G : boolean; V51, f : boolean; d : boolean; chillax end main : do F50(not 8 rem 6 - 7 < - H0(3) / false) end

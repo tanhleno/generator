@@ -1,0 +1,1 @@
+program Z : V : takes t : boolean returns nothing M, WF, KZ9aa, x4, P : boolean array; U8, I4 : integer array; when case - not 35300 - 89 < 0 - 0 : when case 262 : chillax end; do LPr(8220); do G5I(4); pop end case 7 > 2 : when case 85 : chillax end end; when case 57 - 81 : pop end otherwise : chillax end end main : F, A, f6M0, pS : integer array; chillax end

@@ -1,0 +1,1 @@
+program e : rf : takes w : integer array returns integer FN4 : integer array; B6e : boolean array; n, m, w3 : integer; input c; output 120; do w910(93300 = 8) end main : W : integer; S05 : boolean; Y : integer array; pop end

@@ -1,0 +1,1 @@
+program tT : N4Xa : takes n, W : integer array returns boolean array wR1, Q, h, K, m : integer array; ZFw, e : boolean array; E : boolean; when case not 32500 and 7 - 7 : chillax end case 1 - 9 /= 1 : chillax end end main : chillax end

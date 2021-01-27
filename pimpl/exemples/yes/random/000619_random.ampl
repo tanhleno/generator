@@ -1,0 +1,1 @@
+program F46 : BJ : takes D5faa, Cbpaa, G8D0, kP4, v9, Y3ia, O : boolean; O7 : integer returns nothing pop; while 70 - 183 < 5 : chillax end end j : takes j : boolean; J : integer array returns nothing p : integer array; Q, pqN0a, m : integer array; w : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program z : Mbma : takes T, P, Ya2a : integer returns integer array t, Z, t, t9 : boolean; chillax end main : tp : integer; v : integer array; AH7aa : boolean array; while true - vN20a[8] : output 5 = 27 . ""; while 97 : chillax end; while 8 : pop end; output "\t" end end

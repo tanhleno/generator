@@ -1,0 +1,1 @@
+program oV : main : let M[true or p21(6) and false and 3 or not 7780] = array 83 * false / N4V and 5 + f - false and 4 or 0; while - jj9(8740) * N57 and 90 + true - 2 - 3 : let RH0[15100] = array 4; let d6caa = 34 end; do H_(1 and 8 = 656 - 74); when case - 7 - 876 : let BV0aa = 04700 end otherwise : do G(8) end end

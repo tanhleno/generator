@@ -1,0 +1,1 @@
+program Opq : oQn : takes o870, gT, b, D, V : boolean array returns integer while 4 and 7 - 9290 >= - 7 - 1 : do L55(2, 3); let l34 = 7 end; when case 2 > 13600 : chillax end otherwise : chillax end end main : chillax end

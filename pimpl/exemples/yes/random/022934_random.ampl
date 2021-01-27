@@ -1,0 +1,1 @@
+program Sf : M01aa : takes t, CQX : boolean returns boolean array e, o59, Y3 : boolean array; chillax end main : do _(070 > (751), - (7) rem true and 566 or j9 and 93 - 8 - 24); do i(- false, - not 936 - 94 >= - 7 - 9); input r3[not 2]; pop end

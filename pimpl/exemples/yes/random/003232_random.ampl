@@ -1,0 +1,1 @@
+program D0 : l : takes vN90a, H, L, l, kw : integer; HW, NIE : integer array returns nothing chillax end xSF : takes Z : boolean array returns nothing while 2 : let Q2Faa = 636; while 6 : chillax end end; output "C" . 3; pop end t : takes L58a, Ii8, p : integer array returns integer array chillax end main : let T[- not 0 or(636)] = - true / 88 and 1 or not 6 - 1 - 6630 end

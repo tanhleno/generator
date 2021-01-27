@@ -1,0 +1,1 @@
+program NqRa : o : takes j2, d : boolean array; u430, e, xv : integer; UK10, J6, lj, _ : boolean array returns boolean array chillax end main : J, q6 : integer array; K, h3, P1V0 : integer; p, bY, P, gn, ZuJ0 : integer array; input R7 end

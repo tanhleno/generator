@@ -1,0 +1,1 @@
+program g : w : takes z, VU3 : boolean returns boolean array input Tv end N : takes z6, e : integer array; nVt, j : integer array; o0, JR, E5, V450 : integer; X : boolean; B26 : boolean; ztu0 : boolean returns boolean n : boolean; qK, y : boolean array; chillax end main : let pU = not false / true + not 14400 + 2 - 23 end

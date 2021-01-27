@@ -1,0 +1,1 @@
+program kQ5 : ta : takes t, a4 : integer array returns nothing e : boolean array; let F = - 41700 end T5 : takes x73, u, z : integer array; V : integer returns boolean array input Q1 end rG : takes J, Cf : integer array; V_g : boolean returns nothing j8F : boolean; chillax end main : chillax end

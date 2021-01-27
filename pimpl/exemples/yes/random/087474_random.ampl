@@ -1,0 +1,1 @@
+program n83 : main : A4 : integer array; when case(2) : chillax end case - not(3) rem false and 63 + false - 033 - 58 >= - J : chillax end case - not 9 : do qZS(834) end; do v(- y0(7) / false and 28 >= - b and 1); when case - (72) > 2 - 4 : chillax end case - 51900 - 73 < 0 : chillax end case 74 : let K = 3 end otherwise : let LL3 = 0; let c8 = 2; pop end end

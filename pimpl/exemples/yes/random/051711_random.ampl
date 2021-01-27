@@ -1,0 +1,1 @@
+program Q1 : G5Da : takes o : integer; u07 : boolean array; XA70a, uFU : integer returns boolean el, x, W : boolean; R0 : integer; do zI(- (5) - 963 < 7 - 27, 7 <= 1, 1, 249, 7) end main : when case false : chillax end otherwise : pop end; output "\\Y" . - 94 - 0 . 4 . 3; pop end

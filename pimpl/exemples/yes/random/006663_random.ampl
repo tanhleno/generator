@@ -1,0 +1,1 @@
+program AA : fnGaa : takes V, T, UG, k : integer; A4 : boolean returns nothing F, pa : boolean; chillax end fNc0 : takes Q8, N : boolean array returns boolean pop 4; output 4 . 75800; when case 8 : pop end; output "\t"; do HH20a(391) end main : X, yC3, vMW0a : boolean; h, Q, S, f, t, m : integer array; x : integer; chillax end

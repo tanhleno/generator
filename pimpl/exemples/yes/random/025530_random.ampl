@@ -1,0 +1,1 @@
+program q : K89 : takes v, wd : integer; rv, Z : boolean array; j : integer array returns integer array chillax end Q : takes k, Y, I, x12 : integer array returns boolean chillax end main : pop; input Th; do lb((155) or 4) end

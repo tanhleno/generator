@@ -1,0 +1,1 @@
+program H : A9 : takes D : boolean array returns integer array o4 : boolean; when case - true and 5 or 90400 : input dV[9]; let V = 5; let k = 5 end end main : DA : boolean array; output "#9" . "5" . 2740 - 4780 end

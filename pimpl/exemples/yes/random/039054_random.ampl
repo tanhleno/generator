@@ -1,0 +1,1 @@
+program Y69 : PHJ : takes e : boolean array; k, L1 : integer; Eg : boolean array returns nothing t : boolean; chillax end main : output - QO[2] * _ and 77 < 5 and 5220 . - T1 and 6 - 215 <= 6430 - 5 . ""; input M; pop end

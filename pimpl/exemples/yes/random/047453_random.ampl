@@ -1,0 +1,1 @@
+program Dg2 : P : takes d : boolean returns nothing chillax end pWJ0 : takes q3, B : boolean returns nothing a4c0 : integer array; D : integer array; xtl, N : boolean; Zi6 : boolean; h08 : boolean; output "3" . ""; input h[79]; output "v-" . ""; while 7 : chillax end end main : l9 : boolean; O5 : boolean array; pop; let xd6aa[- w[4740] - (4)] = array - true end

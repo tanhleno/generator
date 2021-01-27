@@ -1,0 +1,1 @@
+program k : Qv : takes YS : integer array; h, S, Q, yD5a : boolean array; q : integer array returns integer us, j, r, bI : integer; V6, Aj : integer array; p : boolean; chillax end main : Pszaa, P, TK, y, H : integer; input R2Yaa[(68 = 9)]; let M = array - (23) or 4 end

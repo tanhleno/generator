@@ -1,0 +1,1 @@
+program O33 : D : takes ek8a : boolean array returns integer chillax end main : K, gz, v0x, G, O, j3, r17 : boolean array; when case true > - not(5) or(10) or 28000 : chillax end case not false /= false and 7 + 6 - 849 : output "0" . "W" . "`N" end case - not 368 + 30 - 335 : input L[8860]; when case 333 : chillax end; while 308 : chillax end; pop end otherwise : chillax end end

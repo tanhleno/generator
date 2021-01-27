@@ -1,0 +1,1 @@
+program zi : WS : takes j6H : integer; r : boolean; K8j0 : integer returns nothing T, M : boolean array; Y7, P : boolean; L : boolean; do naKa(not 1 or 35, 0) end ugw0 : takes T : integer returns boolean n, g : integer; do h(2490 - 4) end main : s : boolean array; chillax end

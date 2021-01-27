@@ -1,0 +1,1 @@
+program l9 : Wj : takes A, g, H, Ih : boolean returns nothing D, B, y : boolean array; O, F : boolean array; Wk_a : integer array; W9L, J55 : boolean; while false and 6 or 2 <= - 5 : output 0 end; while 3 : chillax end; input p end main : jA1a, I, M : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Y : U : takes nUe0a, I, h1l : boolean array; F5 : integer array; x8 : boolean; c, N, V : boolean array returns boolean pop; when case - 39 /= 3 : chillax end case 1 = 4 : input Z4P; pop end otherwise : chillax end end main : chillax end

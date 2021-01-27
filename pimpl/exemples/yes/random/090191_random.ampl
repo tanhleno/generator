@@ -1,0 +1,1 @@
+program K7La : main : let K = array 83 * I(3) + not 9 * (382) and 29200; when case(55) < (9) and 809 + 4 : input t end case 2 : while 9 : chillax end end case - 1 - 963 > 4 : chillax end otherwise : chillax end end

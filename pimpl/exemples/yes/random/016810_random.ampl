@@ -1,0 +1,1 @@
+program ZQ : S9 : takes t, s : boolean; y, H, UV, k : boolean array returns nothing qPGaa : boolean; output 37 end main : do z(- (9) / not(15) / AV + (38) or(1) - 02 - 9, K2[0] >= false and 7950, - B and 48 + 1 - 479); do D(- (33)); when case(1) or 9 - 0 >= - 41 : while 4 : chillax end end end

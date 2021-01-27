@@ -1,0 +1,1 @@
+program Z : main : when case - r(5, 18) <= (83) and 57 and 2 or 37 and 2 + 9 - 5 : chillax end case - not true rem Y and 3 + (1) > - false or 6 - 24 : do C(0 = 54600); let q = 7010; do Z(3) end case false >= 08 : chillax end otherwise : output 6 end; while false and false + false or 6 = false - 7 - 6 : output ":" . 69 . "$"; pop end end

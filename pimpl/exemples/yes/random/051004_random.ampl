@@ -1,0 +1,1 @@
+program Dw : oU : takes N : integer; w, F : integer array; x, n : integer returns nothing chillax end main : input DZ[- 1]; when case - true and not 9 and 88 - 9 and 2 > - not 6200 and 26 or 8 - 1 : chillax end case true + 1 - 8 > - 4 : do Ru00(4) end end

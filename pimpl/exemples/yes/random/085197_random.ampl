@@ -1,0 +1,1 @@
+program I : main : Q : integer; when case false rem true * 76 and 1 : let fa[- 9] = array - 45 - 5; pop 7 end case L5[41] / 37 and 93100 : chillax end case a380a - 83 - 515 > - 53 - 08 : chillax end; do z4(true and not 6 or(91)); let e[- (8)] = array - M and 22; while - 788 /= 96400 : output ""; let v = 5; pop end; output 34 . 4 . "\"" end

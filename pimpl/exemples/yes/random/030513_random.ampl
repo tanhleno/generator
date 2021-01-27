@@ -1,0 +1,1 @@
+program vd : O78 : takes u42, V : integer array returns nothing Tc, d7, N : boolean; do h3(- pEk and 89 - 6 < - 7, - 2110 > 4, 9 = 3, 0, 0) end h : takes g37 : boolean array returns nothing let jrM = array - 64 - 7 end main : pop; output "" . - 9 - 093 . "|R"; do J(true, - 29400 - 4 <= 69); input v[- 68 - 85] end

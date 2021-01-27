@@ -1,0 +1,1 @@
+program P0R : _7R0a : takes Ki5 : integer returns nothing O2, J : integer; ean0, o10 : integer; K, Z, s : boolean; fZ, NH7 : boolean; b : boolean; J : boolean; chillax end OTN : takes J2 : integer returns integer array n7, kp30, ER80 : integer array; chillax end main : pop; while not false or(6) + 962 - 69 : pop 1; output 61 . "\\" end end

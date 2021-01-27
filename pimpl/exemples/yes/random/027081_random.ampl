@@ -1,0 +1,1 @@
+program Y : T : takes p64, Wk00 : integer array; MY, T06, i1l, x, a510 : boolean; o, V050 : boolean returns nothing chillax end fYu0 : takes l, _ : integer array returns nothing E7t0, e, N : integer; L : boolean array; D71a : boolean; z81 : boolean; do X(3 - 3); when case 6 : chillax end end main : h, d0 : integer array; b6 : integer array; chillax end

@@ -1,0 +1,1 @@
+program Y9 : Y6 : takes X, n2 : integer; X : boolean array; J3P0 : integer; cx, NB, v : integer array returns nothing T6 : integer; chillax end m6 : takes P, _gw0, A : boolean; I, Rl : boolean; B, z : integer; k9 : integer array returns nothing h : integer array; R : boolean; chillax end main : while L * (534) rem(1) : input f3[- 9 - 4560] end end

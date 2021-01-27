@@ -1,0 +1,1 @@
+program A : main : uN : integer array; let i = - r[1] - true and 5 + 3 - 31 /= Y8 and 3650; while K /= true - 90 - 0110 : let A = array 33; let l44aa[5] = 40 end; output 56 - 9; let P55a = 73; input s end

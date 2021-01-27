@@ -1,0 +1,1 @@
+program E : vT : takes x : boolean array returns boolean when case(4) - 2 : chillax end otherwise : do K(90); output ""; pop end; when case 9 - 0240 < 1 : chillax end case 481 : do G7(9); pop end; input aQ0a[8] end main : while(5) : chillax end; pop end

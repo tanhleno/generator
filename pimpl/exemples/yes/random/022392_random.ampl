@@ -1,0 +1,1 @@
+program s : Sy0 : takes ZSwa, S : boolean array returns nothing R : boolean; D, E7Za, QI, D : integer; pop; let B2[- 86] = array 629; let Z = 351 end main : W760a : boolean array; do X(146 - true / (0) and 6240); while(6) : chillax end end

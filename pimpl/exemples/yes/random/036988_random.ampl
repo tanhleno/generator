@@ -1,0 +1,1 @@
+program Yl : V : takes W : boolean; x : integer array returns integer array Q39a, nf : integer; xu : boolean; o, d : integer array; Z : boolean; do s3(- (71), 4050, 4 = 26); while - 9 - 9 : while 82 : chillax end end; let j1ja[0] = array 0 end F6 : takes r : boolean array returns nothing uo : boolean array; chillax end main : chillax end

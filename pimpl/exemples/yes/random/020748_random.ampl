@@ -1,0 +1,1 @@
+program D : B : takes z_6a, y : boolean array; A : integer returns nothing a7 : integer array; let wJ00a[not 25300 and 7 + 8550] = - 0 - 5 > 005; pop 22 = 3290; output "&"; input x end main : w32a : integer; chillax end

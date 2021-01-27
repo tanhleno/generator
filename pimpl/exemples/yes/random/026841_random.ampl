@@ -1,0 +1,1 @@
+program G : J : takes h, J : integer; P : integer array returns nothing xT : boolean array; A : integer array; pop - 8 - 5; pop 25500 = 03 end main : while(594 = 0380) + 94 + false and 2 : chillax end; while false and true = - not 533 + 8 - 30 : do I5(1 = 325, 4); while 14400 : pop end; do W(72); pop end end

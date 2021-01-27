@@ -1,0 +1,1 @@
+program p : main : d2, os, f, uM1, S6 : integer array; while(72100) : chillax end; when case true + (4) and 758 or 426 - 08 /= 9 + 91 : chillax end case false : while 409 : chillax end end case - 76 - 7 /= 7590 : do B(0) end otherwise : let L = 6 end end

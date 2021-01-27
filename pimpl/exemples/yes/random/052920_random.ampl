@@ -1,0 +1,1 @@
+program j : n : takes Akkaa : integer; m : integer array returns integer array A460 : boolean array; chillax end V : takes eh1, F, u, T7 : boolean array returns integer chillax end A : takes s : integer array returns boolean U : integer; input Y9; output 77 end main : chillax end

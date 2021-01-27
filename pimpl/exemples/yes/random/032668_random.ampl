@@ -1,0 +1,1 @@
+program q40a : J9caa : takes s3, y1 : integer returns nothing tL1, w : integer; pop; output 4750 = 529; pop; while 6 : chillax end; pop; while 5 : chillax end; pop end g96 : takes C2, Kz, b : integer array; s800a, WmF : integer; V1 : boolean returns boolean array zy : boolean array; x, uC, z : integer; chillax end main : u : integer; chillax end

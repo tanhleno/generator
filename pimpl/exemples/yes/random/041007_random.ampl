@@ -1,0 +1,1 @@
+program a : _ : takes H : boolean array; _ : integer array returns boolean Tmm : boolean array; while - not 2 + 8 - 5 = - 70 - 56 : pop 1; let R = 8; let u = 8 end end main : Rf : integer array; cP, c : boolean array; s, LGq0a, n : integer; while false >= - (3) / false : chillax end end

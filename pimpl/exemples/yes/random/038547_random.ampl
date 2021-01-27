@@ -1,0 +1,1 @@
+program L : P : takes G : boolean array; V, jD : boolean; D : boolean returns nothing do S3(- not 5 and 034 /= - 38 - 92, - 2 >= 0) end c6O : takes h : boolean array; r : integer; WCE : integer array returns nothing X3O, joza : boolean; chillax end main : chillax end

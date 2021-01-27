@@ -1,0 +1,1 @@
+program i : q : takes yd : integer returns integer array K : integer; Y9, lss0a : integer array; while - (3) + 6 : do aD(475, 51); output "8" end end main : input qC3[- true]; output - 526 + 9330 - 3 end

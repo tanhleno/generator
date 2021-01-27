@@ -1,0 +1,1 @@
+program Q : C : takes Xh : boolean returns nothing chillax end LC : takes v440 : integer; L : integer returns boolean array Y5, dd40a : boolean; pop 62; do XA3(55200 = 2060, 93, 1) end V : takes a : boolean array returns nothing chillax end main : chillax end

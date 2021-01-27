@@ -1,0 +1,1 @@
+program Qt : main : B70, M, KI : boolean array; when case - 87 rem 2 and false /= false : do A6(- 594 <= 94, 70000, 55); while 4 = 5 : chillax end; while 2 : chillax end; output ""; while 7 : chillax end; pop end case - (6) - true - 2 >= - not 47 + 4 : chillax end end

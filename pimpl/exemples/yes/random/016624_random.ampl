@@ -1,0 +1,1 @@
+program zGi : j : takes Pv30, Z, w : integer returns nothing while(5) and 64 + 2 : chillax end; input V end mY : takes j, X1, Ay, XL9 : boolean; EW2 : integer returns nothing let Gr[- 3 - 38] = array - 1 - 47 end main : chillax end

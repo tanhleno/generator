@@ -1,0 +1,1 @@
+program X : q1 : takes ws : integer; H : boolean; v, J7n0a, X : integer returns nothing u, HEva, zl1 : integer; chillax end main : while 7140 rem true and 4 or true and true and 1 + (810) and 685 >= (0) rem not 853 and 0 : chillax end; input _8n; when case 899 and 527 : pop 7 end case - 405 - 53 > 8510 : while 62 : chillax end end otherwise : chillax end end

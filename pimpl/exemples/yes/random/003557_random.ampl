@@ -1,0 +1,1 @@
+program pf : Z : takes o, X, p4, C, _Zm : integer array; u : boolean array returns nothing chillax end main : input Q[5 or false rem z and 9430 or 157]; while 6 or not 299 > - false : chillax end; output "\"*a" . 6240 = 19; output 9 = 87 . 8 . "" . ""; do c(8 = 3) end

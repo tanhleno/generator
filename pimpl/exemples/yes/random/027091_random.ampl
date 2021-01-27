@@ -1,0 +1,1 @@
+program p : s : takes M7, O : integer array; X5, d, li, _Xk, _B : boolean array; q3, H3, f480a : integer returns nothing input b5B0a[(84400) and 33 + 2] end main : v, w, R4_, Y, JOB : boolean; v : boolean array; W : integer; m, Cj7, j, C5 : boolean; chillax end

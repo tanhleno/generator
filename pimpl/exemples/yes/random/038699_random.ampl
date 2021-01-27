@@ -1,0 +1,1 @@
+program xs : W : takes AN50 : boolean array; S8, FI8aa : boolean array; I : integer array returns integer WeM0 : boolean array; BX0 : boolean array; n, N : boolean array; let TCu = array - true and 9 + 9390; output ""; output 83 . "" . "1i" end main : MX6 : integer; chillax end

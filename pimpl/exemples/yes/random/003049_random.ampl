@@ -1,0 +1,1 @@
+program c : u : takes ki, orG, F, v8, n : boolean returns nothing P : boolean array; o : boolean; V1 : boolean array; do B38a(- false - 1 < 4 - 64, 6 >= 204); input R; let V[95] = array 0; output "" end zb : takes n2 : integer; t, Z : integer array returns nothing ZRt : integer array; V24aa : boolean array; chillax end main : OT : boolean; pop end

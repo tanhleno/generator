@@ -1,0 +1,1 @@
+program n : v18 : takes w, N8, a : boolean array returns boolean M : boolean; while false and 13 /= - 6 - 37 : chillax end; pop 3; while 10000 : let g0j = 846; pop end end T3X : takes e, q, kuQ : boolean array returns nothing pop 9 end main : A03 : boolean; v : integer; input E; input xk7[false]; output "\\"; when case - 6020 - 1 : pop end otherwise : do o(2); pop end end

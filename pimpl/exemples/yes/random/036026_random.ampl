@@ -1,0 +1,1 @@
+program XD : X : takes N1A0a : boolean; Pki : boolean array returns nothing z4, H : integer array; chillax end E : takes N, V : boolean returns boolean chillax end main : Dj8, o : boolean; chillax end

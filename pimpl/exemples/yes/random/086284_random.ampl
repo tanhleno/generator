@@ -1,0 +1,1 @@
+program s1 : main : j6ha : integer array; vZ5, T : integer array; pop; when case false and not 64 and 1 + not 2 and 744 or 9 >= (96) : chillax end case true = 6 - 38 : let S1[7] = array 5; output "\n&"; when case 9 : chillax end end end

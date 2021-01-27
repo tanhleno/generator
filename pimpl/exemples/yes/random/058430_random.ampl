@@ -1,0 +1,1 @@
+program G : z0 : takes NK30a : integer array returns boolean k8 : integer array; do L(true and 6 or 86 - 7) end Z : takes c45aa, pnBaa, j7S : integer array returns boolean array pop 3540; while 3 = 9 : let j = 8300 end; output ">0"; let K = 6 end main : when case - U <= - false / false and 9 + not 9 or 5 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program Eq3aa : dm : takes b : boolean array returns nothing _ : boolean array; nv90, E9Taa, _p : integer; while - 0 and 8310 - 187 - 233 : chillax end; input uc4 end main : when case(422 = 0) /= - 8 - P and 56 : input G[- 2]; let P7 = array 3 end end

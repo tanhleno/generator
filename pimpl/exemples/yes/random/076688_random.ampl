@@ -1,0 +1,1 @@
+program N560a : main : cx4, S : integer; let I = array T - (8); when case - 4 and i and 76 >= - (89600) - 26 - 2 : let O = 8; when case 2 : chillax end case 99 : chillax end otherwise : chillax end end otherwise : chillax end end

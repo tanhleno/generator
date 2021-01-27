@@ -1,0 +1,1 @@
+program n : i5 : takes X, e1 : integer; tr5, Jccaa : boolean array returns integer output 80 = 051; input T24[- 9 - 234]; when case 8 = 2 : chillax end otherwise : chillax end end U1 : takes S3 : integer; A : integer array returns nothing while 81 - 304 = 05 : chillax end end main : pop(1) + false and 2 end

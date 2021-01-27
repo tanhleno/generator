@@ -1,0 +1,1 @@
+program v : main : do bK0aa((1 = 6) and(8) / true and 95400 or N < - not false / P15 and 13 + false); while false - u and 2 : input k1; let p = array 3; when case 6 : chillax end; when case 38 : chillax end; pop end end

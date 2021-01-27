@@ -1,0 +1,1 @@
+program I1 : c9 : takes Yq9aa : boolean returns nothing let E[h] = array 8 and 41; pop 1 = 15; do s1i(1, 417, 6) end main : g : boolean; p : boolean array; Q40aa, a : integer; z2, X080a, Y220 : boolean array; pop 84; when case(42) : chillax end otherwise : chillax end end

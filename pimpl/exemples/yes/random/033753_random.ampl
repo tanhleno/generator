@@ -1,0 +1,1 @@
+program o : t : takes i : boolean; Iy9a, L0, b : boolean; H71aa, w1 : boolean returns boolean DLu : boolean array; C, X : boolean array; pop; while 7 - 6 : input u end; pop end N : takes Qj8 : boolean returns boolean input JW90; when case 4 : pop; pop end case 3 : chillax end; do J(6, 2); do H(9) end main : M : boolean; chillax end

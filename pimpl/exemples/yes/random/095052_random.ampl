@@ -1,0 +1,1 @@
+program Y : main : pop z[6480]; while - J rem true - false and 9 - 8 < - not 3 or 07 : input U; input X end; when case cg80a /= - 59 - 1330 : while 4 : chillax end; input y2s end case 2670 >= 30 : chillax end otherwise : chillax end; pop 0 = 72; let Wt4aa = 2; when case 3 : pop end case 43500 : chillax end otherwise : chillax end; input lm8 end

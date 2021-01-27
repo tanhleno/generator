@@ -1,0 +1,1 @@
+program d : k : takes r : boolean returns integer array PdC : boolean array; M, A8P0a : boolean; Q5 : integer; EJ : boolean; chillax end main : x390 : integer array; while 33 and true - false * 6 and 6 + true = - true : chillax end; when case - true / h9 and 0 or false and 7 : chillax end case n1 < 2 - 6 : chillax end; while 4 - 69 - 670 : input d06aa end end

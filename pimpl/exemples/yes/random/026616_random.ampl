@@ -1,0 +1,1 @@
+program E5s : aR9 : takes A, S : integer; x : integer array; v, Eo, y, f : integer array; X : boolean array; BRX : integer array returns nothing when case 9 : chillax end case - 1 : chillax end case 9 = 86 : chillax end otherwise : when case 01 : chillax end; input q; pop end end main : chillax end

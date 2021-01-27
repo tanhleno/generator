@@ -1,0 +1,1 @@
+program C : main : n : boolean; x2d : boolean; when case not true rem true rem k and 4 : chillax end otherwise : while 7 = 61900 : pop; pop end; input X[0]; when case 710 : chillax end; do Q(7) end end

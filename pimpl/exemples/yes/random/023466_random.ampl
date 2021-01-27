@@ -1,0 +1,1 @@
+program o : b : takes w1, qoKa : boolean returns integer array O, AfIa, p : boolean array; g : integer array; let X5 = array - false and 23800 + 899 - 90 end main : O, JX : boolean; v : integer; mu : integer; QE : integer array; chillax end

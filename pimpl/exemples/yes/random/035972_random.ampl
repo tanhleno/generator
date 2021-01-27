@@ -1,0 +1,1 @@
+program f6 : Q : takes p : boolean; rb6 : boolean array returns nothing chillax end ZP : takes l, yZ, a : boolean returns boolean array P6, o87, p, Q : boolean array; output 13 = 70500 end Edy : takes G, b, ujxaa, bw, oe, b3na : integer returns nothing C7g : integer; chillax end main : output ""; input q; output 740 - 0 end

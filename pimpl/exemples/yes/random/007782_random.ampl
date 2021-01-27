@@ -1,0 +1,1 @@
+program A : MtU : takes x6W0a, o82aa, R, y : integer array returns nothing L92 : boolean array; chillax end main : m : boolean array; A3, L1 : integer; do V2o0(not not false - R2zaa[7] >= - jy rem not 0 and 219); let E = array - L[6]; output 8 - 6 . 8 . "" end

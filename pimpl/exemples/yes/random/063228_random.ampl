@@ -1,0 +1,1 @@
+program S : sm : takes AgR : integer returns integer chillax end t3k0 : takes s : integer array; KC, L, S, q7 : integer returns boolean array let Sj[- 467 - 983] = 8; do j(5); do v(05, 517) end H7 : takes F79a : integer array returns boolean array chillax end main : chillax end

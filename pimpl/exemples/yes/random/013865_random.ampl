@@ -1,0 +1,1 @@
+program T : H : takes ra5a, jQY0, k : integer array; L, s : boolean; r, E, xj : boolean returns boolean C : boolean array; when case - 96 or 6 = 2 - 6 : chillax end case - 1 - 19 : chillax end case 581 = 31 : let f5 = 09 end case 37 : pop end case 7 : chillax end; output 8 = 2 end main : n, z : integer; WX40a : integer array; chillax end

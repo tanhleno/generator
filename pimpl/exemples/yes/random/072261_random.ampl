@@ -1,0 +1,1 @@
+program VCd : main : W, Sw, j : integer; s5 : boolean array; Y : integer; q9e, x, vP7 : boolean array; W : boolean; let K8 = array - false; while(0) * (3) and 3 or true = - true + 11 : pop 31; when case 3 : chillax end otherwise : chillax end; let C = 6 end; while - false and 15 : output "/" end; while 8 >= 95 : chillax end; input o; let sV = 7; output "5" end

@@ -1,0 +1,1 @@
+program S : l : takes hw50 : boolean; t : boolean returns nothing P, o, f : boolean array; while - false and 6 > 7400 - 94 : chillax end end main : c : boolean array; output "\""; output "" . ""; do sP(- not 3500 >= - 4) end

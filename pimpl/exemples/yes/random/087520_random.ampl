@@ -1,0 +1,1 @@
+program g : main : Pt : integer array; when case - not false + false / (5) and 37 or false <= - (06) or true and 902 : while - 490 - 19 : chillax end; when case 6 : when case 135 : chillax end end case 662 : pop end end case true - true and 0 + 6290 : output "6" . 5 . "p" end otherwise : when case 4 = 5 : output "A7" end case 8 : pop end otherwise : pop end end end

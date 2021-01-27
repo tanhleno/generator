@@ -1,0 +1,1 @@
+program le : z : takes IGMa : boolean array returns boolean array chillax end main : input vVS[true / 49 and 0]; do R(8 * 3 or(6)); when case 23 : chillax end case - 7 - 6 <= 2 : chillax end case 255 : do qE(9) end; pop; do f(9 = 0); pop 132; do o(7); while 416 : chillax end end

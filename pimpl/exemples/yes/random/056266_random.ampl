@@ -1,0 +1,1 @@
+program yv : gT : takes A : integer array; Pm : boolean returns boolean chillax end Mst : takes YB, Y, z, P, u : boolean returns nothing input NP0[- 5 - 58900]; let N = array 4; let N8E = array 1; let wN40 = 43600; while 49 : chillax end; pop end main : a, q : boolean; m : boolean; chillax end

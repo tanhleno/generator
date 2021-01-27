@@ -1,0 +1,1 @@
+program e : L2 : takes D : integer array returns integer NW2aa, e4 : boolean array; A : boolean; udx0 : boolean array; G2q0a, bf8aa : boolean; L6 : boolean; let Gg = array - not 955 and 3; pop; input R[975] end main : pop not 7 = not 2; output "\\+" . - 6 - 99 /= 299; pop; output 4 = 4; do l(60); pop; let q = 0; output ""; pop end

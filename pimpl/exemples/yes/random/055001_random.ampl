@@ -1,0 +1,1 @@
+program Y : n7B : takes R : integer array; w, h9 : integer; I : boolean returns nothing while - 4 and 97 - 30900 : chillax end end U94 : takes HXv : integer array returns nothing pop 9060 end main : while J * 0960 rem(98) - true rem not 1 and 32 or(47) or 0 - 1 : chillax end; let k = array cqe or u end

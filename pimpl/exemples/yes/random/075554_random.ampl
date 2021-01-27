@@ -1,0 +1,1 @@
+program b : main : x, LX : boolean array; pop - false * not 5 and 0 + x; when case - 6 rem(4) >= - 63400 and 5 : chillax end case hL or 238 - 279 : chillax end case - 7 = 1 : chillax end otherwise : chillax end; when case 591 and 52 /= 35 : chillax end case - 08000 - 89 : output ":\\a" end case 9 = 57100 : when case 6 : chillax end end end

@@ -1,0 +1,1 @@
+program TZ40 : main : GJ7 : boolean array; while not E[9] - true / 7 - true = y3 - (0) + 1180 - 06 : chillax end; let e[- Z9(65) - 40300] = - 38; output 6790 > 1450; output "N<"; input Y[0370]; pop 6 end

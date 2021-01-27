@@ -1,0 +1,1 @@
+program K81 : I8 : takes i, X : boolean; b01a, Y : boolean array returns nothing chillax end _ : takes R, o, Hy, N, zg8 : boolean returns nothing input V; when case 4 : chillax end case 738 : chillax end otherwise : chillax end; do r(4, 98); while 23300 : chillax end; output "\t\n0"; pop end main : XhN0 : boolean; m, W : integer; chillax end

@@ -1,0 +1,1 @@
+program H : O : takes q : boolean array returns nothing k, m, z : integer; Cuo, U80 : boolean array; chillax end Z : takes C : boolean array returns nothing chillax end I4a0a : takes G1, V : integer array; X, J, w : boolean returns integer pop end main : output - false / false <= true + 64 - 58; pop - 8 and 8 end

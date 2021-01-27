@@ -1,0 +1,1 @@
+program ga : main : while - true and not false and true + true and false and 3 + true <= not true : chillax end; while - 62 and false <= false and 3 : input Z[5] end; while - mW or 2 >= - 7 - 6 : chillax end; pop; let wc7aa[80] = 623 end

@@ -1,0 +1,1 @@
+program G : q8 : takes TM : boolean; KO, i : integer returns boolean pop; input w end j1R : takes M3, j, O : boolean array returns integer array qz, r, mn, VV6 : integer; let X0k0[739] = 41 end main : input n200a; let o = (22) - 21 - 8; pop; let k[- 412] = array 2 - 5480; input j end

@@ -1,0 +1,1 @@
+program v : Rzo : takes R5 : integer array returns nothing input v4[- not 21 and 75000] end tn : takes gTR, O9 : boolean array; A : boolean array returns integer K11, A, V, ih : integer; pop 1; let j1 = 7 end U : takes v, v, fV : boolean array returns boolean output 784 end main : chillax end

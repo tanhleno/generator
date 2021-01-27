@@ -1,0 +1,1 @@
+program Q1O0 : Ui : takes v5N, t, K : integer returns nothing do V(- true and 419 or 90, 65 - 412, 1 = 3); when case - 2 /= 1 : let A3S = 4 end case 3 = 5 : chillax end otherwise : while 7790 : chillax end end; while 94500 = 10400 : let M = 6 end; do Cu(47); input R; output ""; pop end main : V, L, Q, Tli : boolean; chillax end

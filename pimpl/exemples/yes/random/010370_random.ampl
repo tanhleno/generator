@@ -1,0 +1,1 @@
+program cM8 : J : takes d, O, Y : boolean array; C4r0 : integer array returns boolean chillax end s2 : takes X81, T, r8, L : integer array returns nothing chillax end main : s, r : integer; chillax end

@@ -1,0 +1,1 @@
+program b : e : takes pa0 : integer; J : integer array returns nothing output - 27 - 0 < 276 . "" end l : takes v : integer array; v : boolean array returns boolean array chillax end main : L34aa : boolean array; i, X : boolean array; chillax end

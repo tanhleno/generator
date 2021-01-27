@@ -1,0 +1,1 @@
+program c : nn : takes x : boolean; b, p9, f : integer returns nothing let Ifq0a[- 285 and 26] = 92900 > 4 end OQ3 : takes FW, b : integer array; H : integer array returns integer array K : integer; do NO5a(92, 5, 92) end b : takes b3U : boolean array returns nothing _ : integer; K, U9 : boolean; chillax end main : output "\",\"a" . i or 9 - 58 = 41 - 49800 end

@@ -1,0 +1,1 @@
+program c9 : main : u810a, sa, T : boolean; vi70a : integer array; d, G7 : boolean; F : integer; VJ7, S, xp5 : integer array; xU : boolean; Q : boolean; do W((73 = 9480)); let D[(49) / false] = 3 and 55000; pop end

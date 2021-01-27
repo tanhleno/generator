@@ -1,0 +1,1 @@
+program bV : L7 : takes IN4, uI, R : integer; E, H : integer returns nothing let TV[- (7) and 5 or 5] = array - true; when case - 9480 : when case 31600 : chillax end; output "" end end vM : takes u, s : boolean returns nothing chillax end main : when case(95) and 122 and false and 56 - 86 + I18aa and 185 or 9 : chillax end end

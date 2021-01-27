@@ -1,0 +1,1 @@
+program s : Fd : takes cF3, J3Iaa, _4, v, v : boolean returns nothing pop - 9 - 570 > 5; pop; while 61600 : chillax end; while 65 : chillax end; when case 194 : chillax end end main : i0W : boolean; u, u, t : integer array; ke : integer; chillax end

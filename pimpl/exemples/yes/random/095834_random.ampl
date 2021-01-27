@@ -1,0 +1,1 @@
+program _00 : main : when case - false : chillax end case not(0740) rem false <= - (0) and 2 : chillax end case - not 6 and 540 or 451 - 6 = - 5 : chillax end otherwise : do b(9); when case 58 : chillax end case 665 : chillax end otherwise : chillax end; when case 24 : chillax end; output ""; pop end end

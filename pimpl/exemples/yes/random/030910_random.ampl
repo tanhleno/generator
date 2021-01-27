@@ -1,0 +1,1 @@
+program E : B : takes o, tTK0 : integer array returns nothing T : integer array; chillax end main : TL : integer; BgD : integer; I : integer array; H : integer; a : boolean; pop 02 and true and 9 - (52) - 41700 end

@@ -1,0 +1,1 @@
+program GVx : T : takes KFFaa : integer array; l, uG : boolean returns nothing do A(- not 22200 - 56 - 4 /= 40100 - 5); let H93 = array - 87; output 0 . 5230; while 2 : chillax end end X : takes pt : integer array returns boolean chillax end main : p4, Y : integer array; S : boolean; s1, w71a, D : boolean; chillax end

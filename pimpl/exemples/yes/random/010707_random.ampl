@@ -1,0 +1,1 @@
+program p75aa : u : takes B95aa, X5, dIqaa : boolean array returns boolean k : boolean; w : boolean; let J = array - 013; input l end main : wD : boolean array; output not(595) rem k and 446 + 8 or 8 - 80 . "" end

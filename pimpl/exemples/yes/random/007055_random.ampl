@@ -1,0 +1,1 @@
+program qy0 : qT6 : takes x6, XJ6, hY0, i : integer array; Gn, J : integer array; y9Z : boolean array returns boolean array do v3(false and 2 or 58 - 6, - 1 = 4, 3, 33); when case - 795 - 89 : chillax end case 5 = 8 : chillax end case 2 : chillax end end main : PMI : integer; chillax end

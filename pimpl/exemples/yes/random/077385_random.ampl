@@ -1,0 +1,1 @@
+program KZ : main : W4, j5D0a : integer array; M1H0, i : integer; B, km : integer; do _3(true / (1) rem false >= (52) and not 0 and 91 or not 30, - true * false and 0, - ev9 and 0); output "/1aa" . 74 - 9; do H((35)) end

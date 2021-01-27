@@ -1,0 +1,1 @@
+program rkka : d : takes E : boolean returns nothing do t0(- not 1 and 97 or 16 - 43800 = - 56 - 13300); when case - 3 - 63 : while 118 : chillax end; output ""; pop end otherwise : chillax end end u8 : takes l : integer; W0i : integer array returns nothing X88 : integer; do R(10) end main : output - W(19) /= - not 31700 . - true - 9 . "\\" . 4700 = 6 . "" . 51 end

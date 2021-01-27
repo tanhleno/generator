@@ -1,0 +1,1 @@
+program j : ver0 : takes Yq, TuP0, g : boolean; z : integer returns integer array chillax end main : A880 : boolean; while - 9 / not not 4 / not 40800 + not 38 / 6040 or not 3 < not(89) + false - 414 - 88 : input E[479 - 8] end; when case - (73900) / true and 1 /= - not 862 : pop; input p[7]; input B8 end otherwise : when case 9 : pop end end end

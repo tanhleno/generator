@@ -1,0 +1,1 @@
+program d0Y : DiT : takes Xv4 : integer returns nothing when case - (2) : chillax end otherwise : pop end; output "" . "" . "6" end main : fe, H440, S, C, r59, n, A : integer array; mL4 : boolean array; when case - false - true and false < - 5 : input C[13 - 319] end end

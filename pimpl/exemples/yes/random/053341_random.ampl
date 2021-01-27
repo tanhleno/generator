@@ -1,0 +1,1 @@
+program ySY : q : takes E7a : integer; RJ : integer returns nothing F : integer array; E, qR, N67 : integer; VN2 : integer array; chillax end main : Aa8aa : integer; L : integer; output - e[2] rem 2 - true - 7 - 0 > - not 49 or 22800 - 1 . "3.\"a" end

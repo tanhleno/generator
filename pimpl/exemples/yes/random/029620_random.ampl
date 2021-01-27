@@ -1,0 +1,1 @@
+program S81a : b : takes J, Z : integer array returns boolean let j9 = - 41 - 9 <= 87 end T : takes y2, w, k, _ : boolean returns nothing chillax end main : when case - 3 + not false rem(6) and 157 + 7 and 3 /= v[2] + false or 2 - 4 : chillax end case - 259 : input c; output "" . ""; pop end case(49200) and 38 : do kW(4) end case 3 : chillax end; pop end

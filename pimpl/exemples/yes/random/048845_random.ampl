@@ -1,0 +1,1 @@
+program p73 : D : takes t : boolean returns nothing input Z[- false]; input u[- 96 - 3] end main : D, QAvaa : boolean; when case - (1 = 03) rem t(07) + 7 rem not 2 : chillax end otherwise : pop; output 73; when case 771 : chillax end; let F6Ya = 940; pop end; let M = - a6 and 6 or 9520 - 7 = 1 - 1 end

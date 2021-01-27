@@ -1,0 +1,1 @@
+program Z : main : ido0 : boolean; let E[true and(20500) rem e - 6 rem false or true and 24] = array - false and not true * F and 76 or DZ[9] - (8) and 975; do g(- not not 36 < true + 6); when case not 60 + 33 - 3470 : pop end end

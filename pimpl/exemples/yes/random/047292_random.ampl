@@ -1,0 +1,1 @@
+program k : B : takes B : boolean returns integer output - 1 >= 1 . 0 = 58 end main : d3, f, b, c12, n4 : boolean; J2Qa : boolean; N, Q : integer array; G3, N, yH, c9v : boolean; F : integer; pop; do v((2) - not 107 and 0 + 1); while - false < - 6 - 0 : output ""; do b0(8); let vq = 0; pop end end

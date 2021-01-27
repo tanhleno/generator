@@ -1,0 +1,1 @@
+program OgCa : xu : takes f : boolean returns nothing while 8 >= - 2 - 81 : chillax end; let aS[- 3] = 40 = 8850 end main : rFy, DL : integer; n : boolean array; r80 : boolean; L, u3H, e910a, _M : boolean array; Wp, w : boolean array; f6, Z38a : boolean; f : boolean; qf : boolean; chillax end

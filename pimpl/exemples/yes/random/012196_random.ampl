@@ -1,0 +1,1 @@
+program L : o5 : takes Y6, s, f : boolean returns nothing M, o2T, M : boolean; FeF0, e3e0a : integer array; f : integer; Q : boolean; N : boolean; m : boolean; pop; output 36 = 8050; let H86[9] = array 37; while 60 : chillax end end main : r7, A : boolean array; chillax end

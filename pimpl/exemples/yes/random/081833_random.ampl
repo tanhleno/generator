@@ -1,0 +1,1 @@
+program x : main : f53 : boolean array; K : boolean array; when case - not true / false and 39 and 07 - true / Z and 4 or w <= - (1) * true or not 38 or 7 - 9390 : output 2; do n(5 = 95) end; pop(945) end

@@ -1,0 +1,1 @@
+program i : n00 : takes DEn, w, XX : boolean; e, y : boolean returns integer array do I(- 0); when case 3430 >= 330 : output "" end otherwise : let c = 46 end end main : J : integer array; input t[- 99500 * true - T59(1) / false and 2 - not 13100 and 2 - 9] end

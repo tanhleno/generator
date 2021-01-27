@@ -1,0 +1,1 @@
+program M : main : while - false * (212) * false > - (3) and(58) and 2 : chillax end; input X[true and 7 and 107 or(2) or 47 - 7]; pop 270 - 5 >= 4; output 076; when case 3 = 78 : pop end; output 5 end

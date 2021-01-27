@@ -1,0 +1,1 @@
+program g : main : when case - KE[1] > - Z[14] rem 09300 : chillax end case not Uj > - D : pop; do z(5, 1) end case - 0 + 23 - 1 : chillax end case 7 /= 6 : input M; output ""; pop end case 4 : chillax end case 9 : chillax end case 440 : chillax end end

@@ -1,0 +1,1 @@
+program G090a : D6V0 : takes lw, B : integer array; V : integer; dh : boolean array returns nothing chillax end D : takes d : integer returns nothing g3 : integer array; R, L, u7 : boolean; chillax end main : OH, b : integer; chillax end

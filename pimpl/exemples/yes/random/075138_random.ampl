@@ -1,0 +1,1 @@
+program Hs : main : U, k : boolean array; K : boolean array; let _0[- false rem false rem not 2] = - false + not 1 > l and 45 + 0; while - false rem not 62900 and 622 + 8 and 56 : chillax end; input j1x; do Z(- 35 <= 6, 5 = 9, 19, 31); input r[6]; pop 90300 end

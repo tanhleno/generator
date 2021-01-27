@@ -1,0 +1,1 @@
+program C0 : main : when case - 7 / 8 - true : while 0 - 731 >= 383 : when case 3 : chillax end; do u(38) end; input C; let B = array 1 end case(0) * not 97000 and 990 <= - MT90 and 2 : input p[3]; input c[6] end end

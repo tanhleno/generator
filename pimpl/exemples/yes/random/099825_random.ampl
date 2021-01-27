@@ -1,0 +1,1 @@
+program j : main : while true * true - z rem f > - 9 and 1 - not 39600 + 49100 - 613 : when case 840 - 65200 <= 8 : chillax end case 66 : let M = 83400 end otherwise : do b6y(46300) end end; input hCq; pop 0; do H(- 0) end

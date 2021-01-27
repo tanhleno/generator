@@ -1,0 +1,1 @@
+program tz8 : main : d7 : integer; p, qZ : boolean; pop; input A95; do zx(- not 551 + 2 > - 9 - 5, - 48 - 2 < 3, 32 = 4, 9, 2); when case - 2 <= 3 : chillax end case 7 : chillax end case 36 : pop end case 1 : chillax end; do iS30(57, 7); when case 5 : pop end case 87 : chillax end otherwise : chillax end; do n(28) end

@@ -1,0 +1,1 @@
+program Tz0aa : Z3 : takes U3 : integer; K6 : integer array; P : boolean array returns boolean array o02 : boolean; chillax end c : takes O35, n : boolean; m, Z84, aM, Y : boolean array; uiM0a : boolean array; z, MD : integer array; qg : boolean; D6V, n : boolean returns nothing k, G, h, e : integer array; chillax end main : pop; let W97 = array - true end

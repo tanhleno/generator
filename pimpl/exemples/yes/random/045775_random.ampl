@@ -1,0 +1,1 @@
+program r6 : w6T : takes Q : boolean returns boolean array input C9[true] end K2 : takes vK60a, x, gD : boolean returns nothing R : boolean; chillax end main : do c840a(- (3 = 3) and h2xaa[6] rem(4), g * _ and 9) end

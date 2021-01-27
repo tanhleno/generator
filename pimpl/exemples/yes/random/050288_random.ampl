@@ -1,0 +1,1 @@
+program U8 : P : takes m : integer; kq3, C5 : boolean; w260a, K19, P0, E, S, fT : integer array returns integer X, d, L : boolean; r4, x : integer; W, d9, d : integer array; chillax end Xm : takes m, W7 : boolean array; p41, S1 : integer array; _ : boolean returns boolean chillax end main : output - 8 * 6 and 3 end

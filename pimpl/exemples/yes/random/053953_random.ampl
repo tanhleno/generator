@@ -1,0 +1,1 @@
+program w : p : takes E : integer array; M, s, y : boolean array; M, O : boolean returns nothing pop 9 > 990; when case - 9 - 23 = 7 : chillax end case 17 : do c(4) end otherwise : pop; pop end; output "`" . "" . "]"; when case 2 : chillax end case 2 : chillax end otherwise : chillax end end main : sq, Cj, I880, L : integer; i, _IW0a : integer; C : integer; chillax end

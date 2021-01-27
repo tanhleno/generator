@@ -1,0 +1,1 @@
+program K200a : main : input p[- OOVaa(9) + (2)]; when case not false : chillax end case - not 3 or 6 /= - 67 : chillax end case - 00 - 0 : do J(730) end case 6 = 7 : chillax end case 303 : chillax end end

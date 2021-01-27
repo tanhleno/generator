@@ -1,0 +1,1 @@
+program bRX0a : main : U : boolean; when case - T(4, 26400) * (85) and not 43200 and 1 < - M5 rem n84a : while 850 - 9 <= 5 : input Hp end end case true and not 8 and 1 + 979 - 8 - 3 : chillax end end

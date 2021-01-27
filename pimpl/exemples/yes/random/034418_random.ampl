@@ -1,0 +1,1 @@
+program M : q : takes V : boolean; V, Q4 : boolean array; RRka, pM8aa : integer returns boolean array _u5a, Y : integer array; y : integer; chillax end main : q3 : boolean array; i : integer; do w1(- true / not 5 / (7) and 4 or true = 6 * 6 and 5 + false and 50300 - 02 - 4, - k(04) < - true); while - (4) : chillax end end

@@ -1,0 +1,1 @@
+program Rj5 : R : takes X8, L : integer array returns nothing E : integer; J69, RV : boolean array; pop - 6 - 7 end s : takes _ : boolean returns nothing L : integer array; input Hl; input F6[0]; pop; while 0010 : chillax end; when case 84 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program r : MTVa : takes y3, L : integer array returns nothing let G = - 4 - 5; while - 7 - 8 >= 2 : chillax end; let i_6[32100] = array 84; let M2[4] = 3; while 9 : chillax end end main : E : boolean; lo6aa : integer; Rr, O, HL : integer array; i, qFd0a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program tX00 : P : takes z, ep, OO : boolean array; el00a, H, z6, F : integer array returns integer bj1 : boolean; D28, Q780a, U : boolean; O : integer array; F52a : boolean; g9w : boolean; chillax end main : xp00 : integer; jd, e6 : integer array; vya, n, t, q : boolean; j, C : integer array; D41aa, l, X : boolean array; while - 778 * true * not 9 + (4) : chillax end end

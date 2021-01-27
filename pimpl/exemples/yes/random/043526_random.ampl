@@ -1,0 +1,1 @@
+program nA : Pc : takes nV1aa : boolean array returns nothing chillax end y : takes NEK, o : integer array; Ee20a : integer array returns integer Z : boolean; output 951 = 23200 end main : j, J, O, u : boolean; S : integer; X, U, l : integer; pop end

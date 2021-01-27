@@ -1,0 +1,1 @@
+program LGu : J : takes Z : boolean returns nothing when case - true and 50 /= - 23400 : when case 8 : chillax end case 4 : chillax end end case - 26 - 9 : chillax end; when case - 60 - 2730 >= 1 : do cH(91700) end case 8 = 08 : chillax end case 3 : chillax end otherwise : chillax end; let A5[5] = 287 end main : M, DF, e, i : integer; chillax end

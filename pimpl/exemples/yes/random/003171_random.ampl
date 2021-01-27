@@ -1,0 +1,1 @@
+program R69aa : Iz : takes P0U, o, g, _, E : integer; H, d : boolean; hA10a : boolean array; z63aa, K, yl9a : integer returns boolean array chillax end main : l : integer array; G : boolean; L5 : integer array; O1 : boolean array; do Q(- true - 566 and false and 1750 + 2 <= - (91) rem(18) or W and 83 + 69 - 3940, - true rem n and 08 or false and 2 or 55) end

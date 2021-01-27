@@ -1,0 +1,1 @@
+program E6 : U : takes l, X : integer; An : boolean array returns boolean chillax end main : JdG0, j : integer; Si : integer; Y : boolean; let v = - not not 6 * not 1 and 71 >= r and 4 + 0; pop; output 960 . 799; let J[93] = 3 = 81500 end

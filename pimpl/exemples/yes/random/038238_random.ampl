@@ -1,0 +1,1 @@
+program h : zx4 : takes je8 : boolean array; Bk8aa, A, v : integer; n : boolean returns integer array Qfl, q : integer; chillax end main : s, A, j, R1_, C : boolean array; qj0a, W, m, p0, J : boolean; y250a : boolean; pB : boolean; do O(not(81) - n - false and 3 + 6 /= - not(5), nQ and 2 and 21 + true < - O - 5630, true + 28600 - 91); output false and 52 - 92300 end

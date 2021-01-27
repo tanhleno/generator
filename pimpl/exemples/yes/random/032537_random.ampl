@@ -1,0 +1,1 @@
+program Gi7aa : f_ : takes qn1, d : integer returns nothing z, I_, Sq : boolean; let g = - 96; output "" . 24; when case 53 : do Lq(46) end; let I = array 900 end main : K : boolean; _, K, D1, d : integer; P7i, E3o : boolean array; chillax end

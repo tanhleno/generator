@@ -1,0 +1,1 @@
+program B : T : takes m170a : integer; DG, A8, MfX0 : boolean array returns nothing chillax end main : _E, Q, L, P, B : boolean; while - true and(21) / not 0 and 7 or false < - 0 : when case 92 - 0 : chillax end case 6 = 1 : when case 33 : chillax end end case 3 : chillax end otherwise : pop end end end

@@ -1,0 +1,1 @@
+program h08aa : main : e, d : integer; D5 : boolean array; E4 : boolean array; u, h, P, E : boolean; p : boolean; y : boolean; f330a : boolean; output true + X and 63 + 11300 - 4 . "" . "" . "1" . "{*a" . 1840 end

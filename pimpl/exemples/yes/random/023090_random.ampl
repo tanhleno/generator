@@ -1,0 +1,1 @@
+program M7 : L : takes T2, tUX : boolean returns boolean array while - o750 : pop 71; when case 5 : chillax end end end s : takes F2, X2, aS : boolean; X : boolean array returns integer array pop; pop 9 end main : NL : boolean; i7 : boolean array; n : boolean array; K : boolean; pop lP[0] rem 7 - 794 and 9520 < not 2 and 6 end

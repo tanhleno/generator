@@ -1,0 +1,1 @@
+program i : Q : takes I : integer; k44 : boolean; E50a, D : boolean array; M, G6r0a, L500a : integer; z, lS, T : integer returns integer when case true and 97 + 819 - 6 >= 312 - 4 : chillax end case - 8 - 4410 : chillax end otherwise : when case 09 : chillax end end end main : a, k00 : integer array; chillax end

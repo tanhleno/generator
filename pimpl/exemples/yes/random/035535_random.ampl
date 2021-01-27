@@ -1,0 +1,1 @@
+program hw7a : lT4a : takes R : boolean; PG7 : boolean; L26a : integer array; Z : integer array; L, JV, c : boolean returns nothing chillax end C : takes b9Sa, X2L0a : integer array returns boolean array A1g0 : integer array; M3, a : boolean array; output 1 = 95 end main : zia : integer array; chillax end

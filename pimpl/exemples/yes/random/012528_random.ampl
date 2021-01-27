@@ -1,0 +1,1 @@
+program G55 : z : takes c, H4, IS : integer; yKE, uO0, N, N, p25aa, p, R1xaa : boolean array returns boolean L, w, K8, Z8 : boolean array; output "" . "3" end main : U : integer array; when case - not(4) and 38 / true and 95 or true + false or 4 = - Gm2aa[1] + (89) and 96 + 23 - 3 : chillax end otherwise : output "" end end

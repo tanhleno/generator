@@ -1,0 +1,1 @@
+program j : D3 : takes H, g, ww9a : boolean array returns boolean ZP : boolean array; chillax end G : takes J : boolean array returns nothing MjC : boolean array; I : integer; ejda : boolean; input c end main : v14a : integer array; chillax end

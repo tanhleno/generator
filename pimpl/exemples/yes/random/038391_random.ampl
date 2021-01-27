@@ -1,0 +1,1 @@
+program G230a : k39 : takes V0 : boolean array; x, y6, u7y : integer returns boolean Y7H, v, Z : integer array; do o910(- true /= - 1 - 27700) end c : takes H9 : boolean array; M9, F7jaa : integer; T : boolean returns nothing pop 5 = 5690; output "9" . 91000 end main : W9, X : boolean; W : integer array; output "" . - false and 9 /= - 97700 - 0 end

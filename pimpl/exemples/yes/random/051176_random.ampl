@@ -1,0 +1,1 @@
+program Y : S2 : takes tV : integer; Lp, D0H : integer returns boolean array chillax end lv : takes Lm : boolean returns boolean array input O; pop 9; pop 6100 end main : Q0 : boolean array; let j = - (9) * W and 6 > - true and 38600; output "T$!" . "" . "_+" end

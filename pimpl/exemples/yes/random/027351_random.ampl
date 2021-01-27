@@ -1,0 +1,1 @@
+program R : P0 : takes hj6, r2 : integer array; t, B6, d : boolean array; r6 : boolean array returns integer chillax end M : takes h0 : boolean returns integer input s[8930]; when case 0 = 18 : chillax end case 8 : chillax end end main : while 7 * false : chillax end; let f2R = not 6190 or 16200; do e(- (8) + 64000 - 595 <= 8 - 3); let r[8] = 2; let G = 2 end

@@ -1,0 +1,1 @@
+program X : Io1a : takes s, k : integer; tX40a, q : integer array; S1d : boolean array; r, iA40, M, KO : boolean array; V : boolean returns boolean chillax end h6d : takes z7, z1 : boolean returns nothing while 733 - 52 >= 5 : chillax end end main : pop; while - Tyz[828] : do K7za(889 = 2); input i end end

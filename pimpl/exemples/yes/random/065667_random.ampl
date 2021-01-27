@@ -1,0 +1,1 @@
+program nLIa : main : do lKd((6) > false + not 456 - 8 - 57); when case y or(0) and 30200 + 468 /= (08) : chillax end case - 1 and 34100 = 55 - 7 : while 7 : chillax end end case 1 - 47000 : do D93(907); pop end case 3890 = 0 : output ""; pop end case 86 : chillax end case 4 : chillax end otherwise : chillax end end

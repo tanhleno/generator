@@ -1,0 +1,1 @@
+program e4C : uRB : takes d : integer array; d : boolean array returns nothing f : integer; jJ, h : integer; epf, _T : boolean; input i end rO6 : takes ql, B3Naa, b, J : integer array returns nothing chillax end d210 : takes a, m, d31a, q, P, E : boolean array returns boolean while 8 = 32 : chillax end end main : input h[Y6R0[5]] end

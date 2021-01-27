@@ -1,0 +1,1 @@
+program Q : a : takes q, Q4da, g7e0, M870, w, v : integer; F, Q : integer returns integer array do K(true) end main : pop - 9 rem 0 and 7140 + 9040 and 4 >= not 3 and 76700; output "" . 4 - 0 > 72 end

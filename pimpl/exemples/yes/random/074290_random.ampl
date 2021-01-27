@@ -1,0 +1,1 @@
+program fEF : main : al, G1 : boolean; pop(9) - 23 + 2 - 17 >= - (99) and 751 - 261 - 3; while - (0480) /= - 68 and 3 + 7 - 1 : do L(45); pop 50; do f(0) end; do x(a320a and 03 - 3 - 54 <= - 6 - 6, - 5); do FK(7) end

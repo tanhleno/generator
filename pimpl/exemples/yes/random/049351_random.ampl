@@ -1,0 +1,1 @@
+program ss : m : takes O : integer; V, d9, J, GU20, W, r : integer array returns nothing input hO2[- not 632 - 1 - 2] end P_ : takes L79a, Dz : boolean returns nothing d, G9sa, f1L0a : boolean array; output 7 = 553; output "\t" . "\\" . "\\" end main : pop; let g[- 7 or(406) or 45000] = array true; pop 3780 = 8; input h; let L = 59; let Pi20a = array 040 end

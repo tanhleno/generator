@@ -1,0 +1,1 @@
+program tG2 : ww8 : takes m : integer; r : integer; P, n3a0 : integer array; Y : boolean returns nothing pop - 50 - 4 end main : r94aa, z : boolean array; while - false = not h100a and zz : chillax end end

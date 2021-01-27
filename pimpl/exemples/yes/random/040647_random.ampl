@@ -1,0 +1,1 @@
+program bf : P : takes r9 : boolean array; M : integer; dn2 : boolean array returns nothing chillax end main : n, S, H94 : integer array; Bpha, X : boolean; t, G1y, i280 : boolean; Dx8aa, x : boolean; while true and 1 : output "'>"; output 9 . 7 . ""; do Wc(45600); do a(4); when case 9 : chillax end; pop end end

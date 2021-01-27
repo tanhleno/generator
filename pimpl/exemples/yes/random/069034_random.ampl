@@ -1,0 +1,1 @@
+program Ty : main : W, Se, w, LY_, W : integer; f3, w0o, x : integer; q : integer; let j[- false and C[4] / true and 9] = array - 344 - not 06800 + true and 5; input Xw[- not(84)]; when case - pd and 1 - 1 - 0 : chillax end case 7 - 37700 : do b4(1); when case 4 : chillax end; pop end otherwise : output "e" end end

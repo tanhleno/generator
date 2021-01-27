@@ -1,0 +1,1 @@
+program g : main : _ : boolean; let V180a[true * 6560 rem(6) + 2] = snnaa / iF - true and 42 >= - false; while - zE(4) : when case 2 = 48 : chillax end otherwise : pop end end; input y[- 224 and 087] end

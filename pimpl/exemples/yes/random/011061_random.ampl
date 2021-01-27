@@ -1,0 +1,1 @@
+program Z : L : takes qt30, T, U : boolean array returns nothing chillax end d : takes f : boolean; kk : boolean; z, _, u, Y3O0 : boolean; M4W, LQ : integer array; l, ud : integer returns nothing pop; output 63; let I9V0a[832] = array 2 end main : whja : integer array; chillax end

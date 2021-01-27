@@ -1,0 +1,1 @@
+program R3 : U : takes ey, I : boolean; QX8a : integer returns boolean array let T[- false and 0620] = array false and 4760; do k(8 - 2 > 9, 1) end xM : takes R9B, K : boolean array; M, L : boolean returns boolean chillax end B : takes N : integer array; b : boolean returns nothing R : integer; gc1 : boolean; R : boolean; do y(76 = 7) end main : chillax end

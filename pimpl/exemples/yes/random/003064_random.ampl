@@ -1,0 +1,1 @@
+program Ny : S5 : takes o, y13, m, eJW, N : boolean returns nothing Z : integer array; g : integer array; Q, Ly : integer array; chillax end main : c, g : integer array; pop; when case E(33) / Z58 + not 6 and 58 - 4 /= 084 : chillax end case not 8 + 9590 : while 96000 : chillax end end end

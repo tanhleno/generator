@@ -1,0 +1,1 @@
+program q : ah : takes M, R8i : boolean; X : integer; i, L : boolean array; qa : boolean returns nothing OZha : boolean; V, e : integer; when case not 2 and 4 >= 3 - 2 : chillax end case - 9 - 07 < 4 : chillax end otherwise : chillax end end main : chillax end

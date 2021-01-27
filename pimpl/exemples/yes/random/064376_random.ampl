@@ -1,0 +1,1 @@
+program HF : G : takes OG : integer returns nothing Cmw0a, K, S0Pa : integer array; s, k, n : integer; while - JGqa and 9 /= - 0 - 1 : chillax end; do A(- 70) end main : E : integer array; X4Q0, N, pnu, Y : integer; tf60a, A : integer array; input K990; pop end

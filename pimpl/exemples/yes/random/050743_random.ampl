@@ -1,0 +1,1 @@
+program NG : F08 : takes j : integer; t, h27 : boolean returns nothing do eH(- (64) and 9 + 4 < - 8620 - 1) end main : xQ, K : boolean; s1m0a, t : boolean array; when case false : output "" . "&\n!"; output ""; let M5M0a = 2; when case 9200 : chillax end; input v; pop end end

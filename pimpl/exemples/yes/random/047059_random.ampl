@@ -1,0 +1,1 @@
+program J : Qd : takes ou2 : boolean returns integer Md, l48aa, Pp : integer; b, I : integer array; chillax end e41a : takes A0, Nz0 : integer returns nothing RJ, y, YM2, O0 : boolean; d, S38, wX5 : integer; do c0(- 3) end main : chillax end

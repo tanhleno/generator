@@ -1,0 +1,1 @@
+program orTaa : F : takes Jo : boolean array; o, r : boolean returns boolean chillax end main : Y : integer array; input l; output - pju0a = 8 - 1 . "\\"; do J(- 53 and 8790 + 04); pop 41300; while 52 = 9 : do A(862); pop end; let r2[1] = array 1 end

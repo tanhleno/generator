@@ -1,0 +1,1 @@
+program Ec : A : takes F : boolean array returns integer n, w, O, s, tXq0 : integer; JW00, w92, Ko : integer; while true : pop; pop; output "f"; pop end end Z : takes HN90 : boolean array returns boolean chillax end main : Hf : integer array; chillax end

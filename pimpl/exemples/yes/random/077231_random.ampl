@@ -1,0 +1,1 @@
+program J8 : main : Ga, K : integer array; K, j52, HL2 : integer; a2 : integer array; when case - x / false rem 6 and 0 >= - 6 / 1 + l8 : chillax end case false / not 1 and 2 - 3 and 66 + 41 - 89 > not 8 and 51 : do T0(748, 8) end end

@@ -1,0 +1,1 @@
+program l : y8 : takes G, hjb0 : integer array returns integer pop - 9 <= 4; output "" end J : takes r : boolean; S, F74, g, P5 : boolean; I5, a, nd, O3 : integer returns nothing gS : boolean array; chillax end main : input Xa[(4) + false + false and 5]; output "\""; output - 39 /= 6 . 033 = 9; when case - 4 : pop end case 5 : when case 986 : chillax end end end

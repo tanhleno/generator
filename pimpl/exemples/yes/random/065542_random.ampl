@@ -1,0 +1,1 @@
+program x : M7Jaa : takes S : integer returns nothing while - uP6 and 3250 : do R9N(6, 8) end end f : takes l, z7o0a : boolean array returns nothing chillax end AI : takes e, G : boolean; zdK : integer returns nothing do l7(97); when case 01 : pop end case 4 : chillax end; do xo(51) end main : output "[" . - true and 17800 >= - 2 . "9" . 7 end

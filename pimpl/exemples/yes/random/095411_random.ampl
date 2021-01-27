@@ -1,0 +1,1 @@
+program x : main : when case(80) < - true : chillax end case - not f + 02 and 70 - 77900 - 3 >= WUd0a and 2 : while 2 : input Bl; pop end; do Ty(04); while 95200 : chillax end; when case 7 : chillax end; pop end case not 193 and 9 : while 23 : chillax end end; pop; do B0R0(- 6 - 3 - 38, - 68 - 1 > 76, 5 = 3990, 01, 8) end

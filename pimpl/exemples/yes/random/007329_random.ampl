@@ -1,0 +1,1 @@
+program r : v18a : takes CC5, k, q0, h : integer array; K : integer array returns nothing xRj : integer; chillax end main : l8 : boolean array; jw : integer array; w1 : boolean; C : integer array; do m9V0(21500 * not XC /= false - true); let x = array true * 0 end

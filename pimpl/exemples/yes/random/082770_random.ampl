@@ -1,0 +1,1 @@
+program k420 : main : zr : boolean array; when case 2 : output 9; pop; when case 1 : pop end; let sy = 42; pop end case - not false + true and 694 : chillax end otherwise : while 44 : when case 0 : chillax end end end end

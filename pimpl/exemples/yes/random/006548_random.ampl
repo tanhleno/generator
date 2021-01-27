@@ -1,0 +1,1 @@
+program P : QA : takes _95a, W, oqg, hk : integer; E8 : boolean; S0, c : integer; ARN0 : integer array returns integer output 2 . 0 . 92 end b : takes q4 : integer; JC : integer returns nothing Yx0a : boolean array; pop; while 46 : chillax end end main : chillax end

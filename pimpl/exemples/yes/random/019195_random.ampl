@@ -1,0 +1,1 @@
+program qt : y0 : takes Iuh0, x : boolean array; w6i0, y : boolean array; b, b : boolean array returns nothing Yd, o : integer array; chillax end Xx : takes S5C : integer array; py1 : integer returns nothing chillax end dt90 : takes S67aa : integer; m : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program t : j : takes t : boolean; k : integer array returns boolean Q : boolean; hY : boolean; y : integer; Q, cC : boolean; do F83(not 41 and 13700, - 2 <= 8, 48 = 6); let EX[1] = array 3 end main : Y : integer array; Qb9, D, u : boolean; F6, S : integer; DrL0 : integer; chillax end

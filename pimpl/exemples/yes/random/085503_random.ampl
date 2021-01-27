@@ -1,0 +1,1 @@
+program We10 : main : vap0 : integer array; do zL(R[429] rem true rem W730a or _[04] <= false / 93 and 24, true - false or 0 - 0); pop true and 0 + 5 > 7; when case - true > 02 - 3 : chillax end case - 0 : output ""; while 31 : chillax end end; when case - 6 /= 9 : input D end; let EQx[05] = 0; do x(6) end

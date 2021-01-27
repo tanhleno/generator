@@ -1,0 +1,1 @@
+program YD : A : takes W2h0, o : integer; l, Hpf0a, hqd0 : boolean array; P0 : boolean returns boolean array output ""; input s end R5a0 : takes b, f : boolean returns nothing chillax end main : qI : boolean array; X, w : boolean; G, B : boolean; input iXy[r - 6] end

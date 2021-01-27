@@ -1,0 +1,1 @@
+program h0 : n : takes SO, M3V : boolean; n, I85 : integer; a, Aouaa, a, v, v, hF : boolean array; h3, F3 : integer array; z, s : boolean array returns integer do R(567 or 6, - 788 - 3 > 0); while - 8 - 0 : chillax end; do I(3, 9) end main : chillax end

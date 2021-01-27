@@ -1,0 +1,1 @@
+program X : V6 : takes F, W300, O0oa, Z33, l : integer array returns nothing do S(- S - 88200 >= - 308 - 9) end main : do Y1(true and(4) and false and 90 - (2) / Tx and 2 or false and 8 + 76300 /= false rem(104), false / not 757 /= - not 98 and 1, U - 1660 = - 7, 3); let G75 = array - (0) * false - 159 and 9 + 117 - 9 end

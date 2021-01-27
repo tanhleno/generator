@@ -1,0 +1,1 @@
+program O : D4o : takes m : boolean array; H : integer array returns nothing chillax end g : takes y7a : boolean; uJha : integer returns nothing pQ : integer array; m1, jh, P4Q : integer; oF, mwS : boolean; output 3 = 307; when case 5 = 59700 : chillax end case 399 : chillax end; do s(58, 9) end main : chillax end

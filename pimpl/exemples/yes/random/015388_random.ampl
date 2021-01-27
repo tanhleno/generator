@@ -1,0 +1,1 @@
+program Q20aa : R : takes h3k0, Zl7, xR : integer array returns nothing _a, o : integer array; Bh, w, T, sH00 : boolean array; D5Z : integer array; BK, c7q : boolean; N : boolean; B3 : boolean; chillax end main : pop end

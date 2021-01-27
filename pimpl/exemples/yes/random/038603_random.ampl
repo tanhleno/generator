@@ -1,0 +1,1 @@
+program mGB : o : takes f7 : boolean array; p, s9 : boolean array; N, x5c, b : boolean array returns nothing k, B6H0a, N5 : integer; chillax end main : f : integer array; o, e, A : integer; PW, R38, T, e : integer array; pop - not H or true and 6 or 5 < true and 4 - 43 - 4 end

@@ -1,0 +1,1 @@
+program s : Yf : takes Q : integer array; c : boolean array returns boolean mvx0, n, E7 : boolean array; sf2a, m, bg : boolean array; FKIa : boolean array; let T89a[- not 1 and 3 or 03 - 9] = array - 465 and 6 or 66 end main : V, Yki : integer; g6 : boolean array; chillax end

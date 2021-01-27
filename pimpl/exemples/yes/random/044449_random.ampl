@@ -1,0 +1,1 @@
+program _ : kP80a : takes X : boolean array returns nothing f : boolean; b, D, S0F, m : boolean array; chillax end main : Jp4aa, q4Ka : boolean array; when case false and F(58) or true - 2710 + 3 - 51700 >= true : do pG(- 99600 - 66 <= 3) end otherwise : chillax end; while R2 : chillax end end

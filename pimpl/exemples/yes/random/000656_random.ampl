@@ -1,0 +1,1 @@
+program a7 : vnB : takes zWd, e, kr, c, I7, oe, w : boolean array; La, G7 : integer returns nothing let O720a[- a52aa] = - 33800 > 8; do Q(6 > 1, 7); while 031 = 9 : when case 2 : chillax end; pop end; let K = 12; input f0e; input Z7; pop end main : while(0) : chillax end end

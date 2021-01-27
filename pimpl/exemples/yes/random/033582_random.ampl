@@ -1,0 +1,1 @@
+program a760a : W850 : takes Ri : boolean; E63, X, S8, K910 : boolean returns nothing do w79(- false, - 0); when case - 9 - 52 >= 8 : chillax end; while 014 : pop end; output "T,0a" . ""; let L = 0; when case 2620 : chillax end end O : takes sNV0a, E : integer array returns nothing rwD0, E7 : integer array; chillax end main : chillax end

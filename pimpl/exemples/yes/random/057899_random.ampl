@@ -1,0 +1,1 @@
+program iZL : f : takes bg : integer array returns boolean array t : integer array; t : integer array; O : integer array; z, E : boolean; output "77" . 3 = 3 end main : a, H : boolean array; chillax end

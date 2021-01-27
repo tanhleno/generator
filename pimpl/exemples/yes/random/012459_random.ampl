@@ -1,0 +1,1 @@
+program A : G : takes g, w, E : boolean returns nothing output "$8"; output ""; output "B>a"; input c9z end O : takes w, A, Z9, g93 : boolean array; i, T : boolean; I, ef, otxa : boolean returns nothing yx, Y78, O : integer array; chillax end main : while true and 06 * 14900 and 1 < - (3) : chillax end; when case false : chillax end end

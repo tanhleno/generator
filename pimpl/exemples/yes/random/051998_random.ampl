@@ -1,0 +1,1 @@
+program A1z : x4 : takes aa : integer; M : boolean array returns nothing chillax end w : takes J, a, Lz : integer array; I, A : integer returns integer Z, T : integer array; o, Q460, z1 : boolean; while - 1420 - 5 : while 114 : chillax end end end main : O63aa : integer; chillax end

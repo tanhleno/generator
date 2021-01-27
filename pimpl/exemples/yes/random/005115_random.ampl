@@ -1,0 +1,1 @@
+program IMpaa : CQl0 : takes U6, n, y, T : boolean array; fPg0 : boolean returns nothing B, E : boolean array; m2 : integer; C : integer; output - 45 - 9 . 2110 = 23 . 26 end K : takes W, S5 : integer array returns boolean ZWe, NR, j2, p : integer array; p : boolean; chillax end main : chillax end

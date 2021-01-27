@@ -1,0 +1,1 @@
+program N : H5 : takes S : integer array; WkI0 : boolean returns nothing chillax end e : takes yB : integer; P : boolean returns nothing t, L240, sud : boolean; chillax end main : pop; input cNP[I and 5 and 0] end

@@ -1,0 +1,1 @@
+program k : K : takes O, r2 : boolean returns boolean when case - not 80400 or 7640 /= - 395 : chillax end otherwise : let g = 4; output "\n" end; input Mv[416] end main : output V or not 125 or 6 end

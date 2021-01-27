@@ -1,0 +1,1 @@
+program N : R : takes L : boolean returns integer array D, G : boolean; input w[074]; do Kx70a(- 5 - 88 >= 8, 6 = 1); while 9770 = 6590 : pop end; do P(0) end h6 : takes N1, C, n, s, C, r7 : boolean returns boolean array chillax end c28a : takes _61aa, s6H0 : boolean array; YL : integer array returns nothing while 84 = 9 : chillax end end main : chillax end

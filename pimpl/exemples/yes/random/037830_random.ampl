@@ -1,0 +1,1 @@
+program B : cX : takes zx3 : boolean array; m, l, H, FN : integer; h63, F, g, ab8aa : boolean array returns nothing output - 0000 . 409 . "V" . 26400 end main : I, a2g, U3, XYW0a : boolean; Qtc, z : boolean; VQ, g, cJ0aa : boolean array; IK8a, lC : boolean; wB90, q : integer array; qF, l : boolean; w : boolean; sXY : boolean; chillax end

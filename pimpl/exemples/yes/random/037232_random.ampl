@@ -1,0 +1,1 @@
+program F : W : takes Yq : boolean; s : integer returns boolean output - 6 - 932 > 6 . "8v!" . 9 . "\"" . ""; input s470a[- 0 - 17] end main : E7 : integer array; when case false / false / not 6 : chillax end case C3Waa(30) * X < - not 9 : chillax end end

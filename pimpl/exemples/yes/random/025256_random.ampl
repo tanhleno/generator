@@ -1,0 +1,1 @@
+program D1 : R2e : takes p, t : integer; gnHaa, q, mO6 : boolean array returns nothing pop; input K[- 6720 - 5]; while 031 : chillax end end Dd : takes z : integer array returns boolean array chillax end L : takes P9yaa : boolean array; j46 : integer array returns nothing output "\\6" end main : output - not(7) end

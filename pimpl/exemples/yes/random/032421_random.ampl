@@ -1,0 +1,1 @@
+program r5Ta : m : takes u, M : integer returns nothing do JV(- 077 >= - 68 - 6) end main : while - hI7(27500) * 8 rem 4 and 6 /= a : output 0 end; output true - 3210 - 47 . - 96 > 4 . "" . "" . 514; pop 2 >= 09; let A = array - 28 end

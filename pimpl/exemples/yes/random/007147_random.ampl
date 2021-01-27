@@ -1,0 +1,1 @@
+program kV : v_ : takes t, e, HV, KQS0 : integer array; o : boolean array; Y : integer array; y, z : integer array returns nothing chillax end S : takes c : integer array returns nothing output 3; output ""; do x7(4, 51) end Z4 : takes y, z34aa : integer returns nothing let xp = 91 end main : o, SlGaa : boolean; chillax end

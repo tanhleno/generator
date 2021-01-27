@@ -1,0 +1,1 @@
+program G : y2 : takes e : boolean; H2 : boolean returns integer array chillax end n7 : takes T : integer array returns nothing chillax end main : do Z(- 5 * O[78] rem false and 27 + (8) + 2 - 9 /= 56, - (8), - 5 and 66 > - 2, - 9020 - 099 >= 3, 22, 73700); do O2q(- false / not 414 and 2 < - 3, false and 9 or 742 - 37, 2 <= 9); input eGF[- false] end

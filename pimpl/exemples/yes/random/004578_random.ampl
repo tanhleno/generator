@@ -1,0 +1,1 @@
+program n : m : takes H, p, j6, keV : boolean; K : boolean returns nothing chillax end Cd30 : takes T, J : boolean array returns boolean array chillax end main : U : boolean array; output "" . "^&" . 1 - 2 >= 5 end

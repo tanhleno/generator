@@ -1,0 +1,1 @@
+program NI : Z : takes z190a, f9, g, X : boolean array; Q, Pf5, Cke, z : integer returns nothing g, V9_ : boolean array; chillax end d : takes vz4a, E6 : integer array returns integer Vk : boolean array; chillax end c : takes YR : integer array returns boolean array hrO0, dK0aa : integer array; Y, O : boolean; do K(1 = 6) end main : chillax end

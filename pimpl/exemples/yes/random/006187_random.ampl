@@ -1,0 +1,1 @@
+program _a : FW : takes Y, C, E, P : boolean returns nothing aF2a, IUI : integer; S, Q : integer; chillax end main : E4q : integer array; v31 : boolean array; U0D : boolean array; W : integer array; P, P : boolean array; chillax end

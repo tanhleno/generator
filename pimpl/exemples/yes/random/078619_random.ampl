@@ -1,0 +1,1 @@
+program jo : main : _ : boolean; C, H290, a : boolean; when case not MM rem true : output 6 = 8 . 21; while 55 = 0 : when case 011 : chillax end; pop end; let UU = 5; pop; output ""; pop end case 2 : pop 88000 end end

@@ -1,0 +1,1 @@
+program B2 : v : takes vO, rk : integer array returns integer array when case - false : chillax end case 0 - 4 : pop; let V = 1; pop end case 0940 : while 06500 : chillax end; pop end; do n4(- 4, 3, 3, 0) end main : b : boolean array; let Ew90[not 932 / true] = - q(3) / n or 1 or 217 < - not 95; output - not 7 and 1 - 35 end

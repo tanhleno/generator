@@ -1,0 +1,1 @@
+program u : vX5 : takes a, S : integer returns boolean array do TG(- true or 413 >= - 0 - 6); output 82 . 488 . ""; input Za0[5] end main : E, R : boolean; _v, M : integer array; let W6 = array - V rem not 18 and true end

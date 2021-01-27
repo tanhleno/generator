@@ -1,0 +1,1 @@
+program Ae0a : n : takes C : integer returns nothing chillax end main : s650a : boolean; when case - false * (7640) + not false and not 21600 and 9 <= 96 : chillax end otherwise : chillax end; while(827) / not 8830 and 6 : chillax end; input U7[- not 6 and 2] end

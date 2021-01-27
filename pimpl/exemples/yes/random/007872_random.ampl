@@ -1,0 +1,1 @@
+program G : j9 : takes T62, fO6aa, l7, IUC : integer array returns nothing pop 2 /= 0; input Eo7[- 3 - 823]; pop; input Z1[90] end KC3 : takes H, p4 : boolean array; Td : boolean array returns integer array output 4 = 1070; output "" . 166 . ""; pop; when case 3 : chillax end; when case 90 : chillax end end main : output - 39 * not 5 or(5) or 4430 end

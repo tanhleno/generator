@@ -1,0 +1,1 @@
+program d : n4k0 : takes x7 : integer array; X, b, Zxc0 : integer returns boolean pop 62 end main : let jO5[- 76 or 8 * false and 7 - (9) + 06 - 8] = not not 52 < - false and 4 - 6960; let i[aG[31] and C9_ and 7050 - (21) and 89500] = array - false * false + (1) and 7 end

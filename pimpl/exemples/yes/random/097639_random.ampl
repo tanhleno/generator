@@ -1,0 +1,1 @@
+program S1 : main : when case true <= W[6] : chillax end case(8) : chillax end otherwise : chillax end; pop - false - 39 - 1; pop 5 - 6 = 33; output "\\Ia"; when case 67 = 62 : while 1 : chillax end; pop end case 9 : chillax end case 6 : chillax end; let yIr[984] = array 7; while 85 : chillax end end

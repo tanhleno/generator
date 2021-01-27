@@ -1,0 +1,1 @@
+program x : F : takes Yhq, Cid : boolean array returns nothing g, Q3 : integer; chillax end main : n0V, n : integer; x : boolean; Jdh0a, _y : integer array; rVf : boolean array; pop - true + 935 and 6 or 7260 - 601 /= true and 503 - 12800 end

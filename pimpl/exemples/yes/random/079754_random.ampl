@@ -1,0 +1,1 @@
+program g9 : main : P91a : boolean; T : integer array; C : integer; when case not 8 / not not 9 + 61200 : chillax end otherwise : while 657 : chillax end; pop 8; pop; input U end; input Ykh; when case - (2) > 1 - 7 : pop end case - 938 - 36 : input B5I0a end case 9 : chillax end; while - 32900 - 8 /= 916 : input nUg end end

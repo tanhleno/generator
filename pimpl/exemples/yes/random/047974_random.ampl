@@ -1,0 +1,1 @@
+program g : dOP : takes m4e : boolean returns nothing V, cON, ktl0a : boolean; f : integer array; V2 : boolean array; do D3(- not 081 and 77 + 572 <= 5 - 82, 90 = 49200) end main : pop; pop; output - 0 . "" . 2230 . 87 end

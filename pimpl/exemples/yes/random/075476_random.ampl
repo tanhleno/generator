@@ -1,0 +1,1 @@
+program Fo : main : p, i3Ba : boolean array; let g[- true rem true - 04] = - not true = - J and 5 + 6; when case false : let w = array 9470 end case Pro : chillax end case - 34 <= 0 : chillax end otherwise : chillax end end

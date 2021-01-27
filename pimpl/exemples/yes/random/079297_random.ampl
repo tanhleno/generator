@@ -1,0 +1,1 @@
+program fQ : main : iE : boolean; T : boolean; when case - K1W[0] * true and 40 and 7 - true * (2) or 46 and 0280 or 543 = (1) + h and 27 + 6 : chillax end case - false and(7) : chillax end; let C5R0[- l(573)] = - (98) and 49500 end

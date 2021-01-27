@@ -1,0 +1,1 @@
+program p : T5Ia : takes y3 : integer; s, a : integer array; z, s, zwXaa, k : boolean; r4, G : boolean returns nothing chillax end GBq0 : takes G, m, d, E : integer array; x, Hcf : integer array returns boolean array chillax end main : chillax end

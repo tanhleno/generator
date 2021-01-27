@@ -1,0 +1,1 @@
+program D9 : main : kh : boolean array; v, KU, R5 : boolean array; T9, VL, kv7aa, VO, _ : integer array; p, T : integer; r, rmY, D1e : boolean array; kO, i : boolean; when case 2 / 476 : do D(- 7810 - 854) end; let Z = array - false - Vb4aa and 94 end

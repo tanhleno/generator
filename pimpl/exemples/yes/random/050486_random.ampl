@@ -1,0 +1,1 @@
+program Ov1aa : t : takes M_B0a : integer; c, E : boolean array; q, v : integer array; s6, dQ8, H, whtaa, y9 : integer returns nothing bE : integer; chillax end E : takes y, gw : integer array returns nothing chillax end Cn : takes P7Yaa : integer; w : boolean; et : integer returns nothing chillax end main : while yD[105] + not d and u : chillax end end

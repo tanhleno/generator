@@ -1,0 +1,1 @@
+program u2y0 : X1L : takes C7 : boolean array returns boolean array input RM; input D; pop 1; while 4 : pop end; while 3 : chillax end end x : takes v, V, g : boolean array; E4, V, _ : boolean array returns boolean array O, F, i, t3z0a : integer; chillax end main : chillax end

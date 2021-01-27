@@ -1,0 +1,1 @@
+program p560a : l : takes P : integer returns nothing chillax end main : let N = array(241); while S <= not 2 - 8 : while 11 : input v end end; let iB9a = 9 - 39 > 564; input L6q0; do P(1, 3450, 5890); input Q[5] end

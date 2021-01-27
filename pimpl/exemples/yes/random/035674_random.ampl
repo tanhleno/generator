@@ -1,0 +1,1 @@
+program M9R : j5 : takes jJT : boolean; U8vaa : boolean array; w, E : integer; V, z, J, G, d2 : integer; w36, X, M22 : integer returns boolean S0 : boolean; when case 4 : while 582 : pop end; pop; input t1vaa end case - 50 - 6 : while 31 : chillax end end; pop 10 end main : V4, h, Q : boolean; pop; do Ph1(- 2 <= - true, - false and 4 > - 832 - 00200) end

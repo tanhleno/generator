@@ -1,0 +1,1 @@
+program Z : main : m : integer array; when case(5 = 9200) / false < - (9) / 5 : chillax end case - not 2 : let _[8] = 43; when case 1 : chillax end case 662 : chillax end otherwise : chillax end; output "?" end; while - 4 + t25 and 9 : chillax end end

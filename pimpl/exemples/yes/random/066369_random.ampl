@@ -1,0 +1,1 @@
+program r5M : main : do PAs(- C and true rem false or false * not 0 and 6 + false or 09, Hr - H and 0 or 2 - 655, - not 8 and 7 <= 9 - 4); do h(75 - not 9950 and 0 >= true or 47, 2000 and 4 - 0 - 87 > 4, 252); while - 27300 >= - 0 : chillax end end

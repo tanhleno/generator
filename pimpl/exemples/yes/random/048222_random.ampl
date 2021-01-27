@@ -1,0 +1,1 @@
+program ma : j5 : takes bE5 : boolean returns nothing J3X, g1z : integer; D9, w9, w, x99aa : boolean; input Z; output 0 = 70400 . 33 end K6 : takes R : integer array returns boolean while 7600 - 993 : do l(75); do i4x(4) end; while 87 : output "7" end end main : C, C13, mKR : integer array; while false * (04) - (71) : chillax end end

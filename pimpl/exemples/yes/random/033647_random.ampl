@@ -1,0 +1,1 @@
+program H : y3Ua : takes z : boolean; P, j, XY90a, bv : integer array; D : integer; Q, Hw, P : integer returns integer hA, h3xaa : boolean array; d, O : integer array; chillax end hu : takes o35a : boolean returns integer pop; output 3 end x : takes KZ, w, on30a : integer array; r : boolean returns nothing X, X99a : integer; H55a : boolean; chillax end main : input W4; pop end

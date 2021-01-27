@@ -1,0 +1,1 @@
+program yx : u : takes oS : boolean returns integer chillax end z : takes u2, J, k7ia, ORe, r, x, t : integer array; b, Q : boolean array; H : boolean; r : integer; Z6 : boolean array; q, R2Ma : boolean; c : boolean returns boolean chillax end main : q, aLmaa : boolean array; n, v, evE, PY : boolean array; chillax end

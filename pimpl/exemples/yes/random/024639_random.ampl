@@ -1,0 +1,1 @@
+program F09 : k : takes tug0a, s : boolean returns nothing _r : integer array; EZBaa : boolean array; do jh8a(true or 2 - 0, - 0 - 299 >= 8, 3); output "" end main : when case true / 9 : chillax end end

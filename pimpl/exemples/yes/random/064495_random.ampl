@@ -1,0 +1,1 @@
+program G : Biy0a : takes fU : integer returns nothing r, l : boolean array; output "" . 3 = 71; input O5t[- 62] end vlSaa : takes q8, B, Wjp, x49 : boolean array returns integer chillax end main : pop true and(86) and 4 <= - 0; when case(4) > (3) and 7 or 7 : chillax end end

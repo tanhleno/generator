@@ -1,0 +1,1 @@
+program o : zrh0 : takes tLr0, av : boolean array; H7, J610a : boolean; ml20, U : integer returns boolean array OuMa : integer array; v : integer; G9D0 : integer array; when case - e and 8 - 4 - 92 < - 547 : chillax end case - 3 < 3 : pop end; let G = array - 1920; do ib(2) end main : pop - V / false and 06 or true = (76) and 8 end

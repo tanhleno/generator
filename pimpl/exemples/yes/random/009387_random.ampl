@@ -1,0 +1,1 @@
+program Q740a : R : takes P4X, R9, I : boolean; wh : integer array returns nothing e, X, X6caa, A : boolean array; while - not 0 + 4 : chillax end end main : do s(- not 8 >= - not(10)); let e2[s[93] / not 8] = not 0 end

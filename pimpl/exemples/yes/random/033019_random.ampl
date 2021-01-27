@@ -1,0 +1,1 @@
+program G : Q2 : takes o, g : integer returns nothing let RL = array ZR; let P4waa = array - 771 end main : input js[- not false rem false]; let Al[not not 647 / true and 623 - (0) and 189 + 2] = array(8) / (3) and 97 - 2260 and 7 end

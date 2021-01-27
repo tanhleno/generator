@@ -1,0 +1,1 @@
+program Qbr : main : when case - 04 + false and true and 635 - false and 9850 : chillax end case - 83800 and false and 4 /= true and 13 - 2 : when case 66 = 10 : chillax end case 48 : pop end; pop end; output(1) or 7 . "7"; while - a4 and 5 + 64 >= - 8 - 7320 : input X4[9] end; do r(1, 649); output ""; pop; do Ehm(15) end

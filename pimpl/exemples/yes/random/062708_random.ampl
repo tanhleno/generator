@@ -1,0 +1,1 @@
+program W : n : takes o : integer returns integer array chillax end k : takes K, Tx : integer array; xB, r, U, P, cO_, a : integer array; W : boolean array; n : boolean array; m : integer array returns nothing k, kk, w, Q0za : integer array; while - 3400 - 3 : do RVi(347); while 84 : chillax end; pop end; do h(78 = 8) end main : chillax end

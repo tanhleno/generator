@@ -1,0 +1,1 @@
+program C : qQL : takes k, O6 : integer array; WT4 : boolean array; d, h, _TQaa, ct : boolean array returns nothing D2daa : boolean; while D or 278 < 1 : chillax end end z : takes D, u : integer array returns nothing Si, W : integer array; c : boolean; chillax end main : yz : integer; T9 : integer array; chillax end

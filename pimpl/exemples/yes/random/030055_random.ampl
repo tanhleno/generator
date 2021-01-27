@@ -1,0 +1,1 @@
+program O : L : takes T, r : integer array returns integer I : boolean; oW, v7U0a : boolean; output "8" . 4; input Nmkaa[- 5] end p0 : takes Fh90, k7 : boolean; K5, a : integer returns boolean let Q = 0; pop 905 end XY5 : takes kh : integer array; g : integer array returns nothing V9, C, v : boolean; t, y3z0 : boolean; ux : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program S : Zry : takes C : integer array returns nothing A, w : boolean array; input ku7a end Ac : takes c : boolean returns boolean array P, p9 : boolean; chillax end main : WH8a : integer array; chillax end

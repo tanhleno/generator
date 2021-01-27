@@ -1,0 +1,1 @@
+program F : u : takes Bh30 : integer array returns integer chillax end main : XR : boolean; T2f, w7 : boolean array; while not false - true rem GQ and 5370 + false > true rem(140) : chillax end; pop end

@@ -1,0 +1,1 @@
+program p : main : x : boolean array; v, Qe7a : boolean; input F9[23 and not not 9 or(0)]; when case - false rem 1 and 6 < - (264) : chillax end otherwise : when case 1 : chillax end end; let g = - 6 = 741 end

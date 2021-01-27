@@ -1,0 +1,1 @@
+program dN : N870a : takes u, W : boolean returns boolean d : integer; y48aa : boolean; zCn, M, Y : boolean array; chillax end main : P9s, b : integer; while not(1) and false and 2 and 78200 - not 6 rem true and 388 = - e / true and 45800 : pop end; input C7 end

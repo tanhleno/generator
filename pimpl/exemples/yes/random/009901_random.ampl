@@ -1,0 +1,1 @@
+program Y : B : takes p, E, oN : boolean array; F, H9 : integer array; n : boolean array; D, I8, Cy3, X75aa : integer; Li : integer returns nothing A3x0, x : integer array; pop; output "\"" end main : q : boolean array; while 8 rem false - 3 : chillax end end

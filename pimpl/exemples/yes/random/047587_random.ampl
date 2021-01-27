@@ -1,0 +1,1 @@
+program Go4a : w : takes n : boolean returns nothing chillax end KX : takes B : integer array; j : boolean array returns boolean array do K58a(- 5 - 91) end main : pop; when case(07000) > P and 3 : input zS9a; when case 7 : pop end; do q(629) end case - (7) and 0 + 9 - 105 : chillax end otherwise : input v[0] end; let TS[- not 8] = array 640 end

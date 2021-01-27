@@ -1,0 +1,1 @@
+program oT : M8 : takes R : boolean returns boolean array output "7\"" . 25 = 11100 . 8 . 0970; while 3 - 89500 >= 1 : chillax end; output 74300; let aaP0a = 63 end main : let EL[true / false] = - not(22) - 1 and 107 end

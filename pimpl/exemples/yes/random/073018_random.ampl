@@ -1,0 +1,1 @@
+program M : main : M, dR, I : integer array; K : integer array; output v(85) . "\t\t\""; do v(false rem(4) or not 9 and 3 - 879 - 415 = (64)); do s(- (3) - 5); when case - 45 - 62 : chillax end case 56 : let jf = 4; pop end otherwise : output ""; pop end; when case 2 = 712 : pop end end

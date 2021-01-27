@@ -1,0 +1,1 @@
+program v : Kyw0a : takes a : boolean array; H, U, w1, IRN, a8xa : boolean; k : integer array returns nothing E : integer array; chillax end S : takes wN : integer array returns boolean chillax end main : K, j7Qaa, Y, _L, K4, hRz : boolean array; Bs : boolean array; chillax end

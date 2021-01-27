@@ -1,0 +1,1 @@
+program v3 : P : takes Y : integer array returns boolean G : integer array; pop 1 - 6 = 65300 end O0 : takes g4, y4, w7 : boolean returns nothing idf : boolean array; when case 6 - 374 : output ""; while 0 : chillax end; pop end case 8 : output "x8" end; do M(86900, 38) end main : chillax end

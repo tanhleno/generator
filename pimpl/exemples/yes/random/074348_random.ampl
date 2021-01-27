@@ -1,0 +1,1 @@
+program L22a : main : U5, qX : boolean; when case - (29 = 2) and not I2oa rem true : while 3 - 9 : chillax end end case not 46 - not 37 and 155 <= - 8 and 2 + 6 : pop end case - (4900) and 2420 + 6 < 0 : pop 6; input q; pop end end

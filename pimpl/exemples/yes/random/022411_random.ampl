@@ -1,0 +1,1 @@
+program L : z : takes fM, c1 : boolean array returns nothing b89 : boolean; m : integer; chillax end P7 : takes B, u : integer; t, u : integer; E : integer returns nothing d : boolean; O : integer; ad : boolean; let L3K = array 241 - 1; do OuI(4, 8) end main : W, P, x, Q : boolean; x8N0a, M : boolean; C, q9a0 : integer; chillax end

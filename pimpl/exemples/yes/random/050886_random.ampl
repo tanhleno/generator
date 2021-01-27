@@ -1,0 +1,1 @@
+program l : t : takes Nb0a : integer; l, _ : integer; f : boolean array returns integer array d2 : boolean; A5u, q5 : boolean array; XsB : integer array; R : boolean; R : boolean; P : boolean; chillax end main : KO4, C : integer array; let Y[- X(8) / false * (7)] = - false; while - not false / false and 562 or NW9 and 7 : when case 01 = 6070 : let PA = 48600; pop end end end

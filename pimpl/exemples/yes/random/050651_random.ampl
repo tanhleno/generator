@@ -1,0 +1,1 @@
+program s : z : takes D : integer; f, R : boolean array returns nothing input OL[- true and 935 - 2290]; do D(- 8, 5, 9990) end JR70a : takes KM : boolean; ij6, i : integer returns nothing W, S : integer array; chillax end main : chillax end

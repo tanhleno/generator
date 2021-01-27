@@ -1,0 +1,1 @@
+program K : L : takes T2, _5, dtj, C980a : boolean array; T : integer array returns nothing y : integer; when case - false or 76 = 5 - 4310 : chillax end case - 9 <= 952 : chillax end case 32 : chillax end case 11 : pop end otherwise : chillax end end main : chillax end

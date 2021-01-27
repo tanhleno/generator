@@ -1,0 +1,1 @@
+program s : e : takes C7 : boolean returns boolean array output "3\t!" . 397 = 9 end D : takes S7, Fx, N : boolean; fW : integer; g, A9 : boolean array returns boolean s, N5 : boolean array; Nib, Zp, R : integer; chillax end main : let w[- (646 = 266) + c[8] or(1) - 00] = false - not 8 and 1 end

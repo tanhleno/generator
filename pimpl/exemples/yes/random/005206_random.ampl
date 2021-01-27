@@ -1,0 +1,1 @@
+program z8 : sI : takes Sf, sG60, i, U8 : boolean array; R : integer array returns integer array gXra, Z : integer; M, ru : boolean array; when case B and 626 - 83 : while 62 : pop end; do V(9); do E(74); pop end; do TH(10 - 72 >= 1, 7 = 02700); input nY20 end main : chillax end

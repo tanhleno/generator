@@ -1,0 +1,1 @@
+program b : main : pop; output - false and 5660 + 5 - 98 . ""; when case - (17) and 9 >= 938 : chillax end case - 5 - 5 < 3 : while 931 : chillax end; when case 5 : chillax end end case 66 = 6 : chillax end case 1 : chillax end end

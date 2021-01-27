@@ -1,0 +1,1 @@
+program o : o : takes k8, z98 : integer; m40 : integer returns integer Vyb : integer array; let t8 = array not 66 and 8; when case - 9 - 23 : pop end case 67 : let yv = 4 end otherwise : chillax end end main : let G_10a = - false and not 31 or pp and 4 - 29 /= - u and 1 end

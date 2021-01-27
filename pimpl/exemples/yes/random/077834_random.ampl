@@ -1,0 +1,1 @@
+program NDha : main : pG20a, U : integer array; input B; output ""; when case not 28 : output 3; while 4 : chillax end end otherwise : when case 42 : chillax end; while 7770 : chillax end end; pop; pop 6 end

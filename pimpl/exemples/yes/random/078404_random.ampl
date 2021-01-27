@@ -1,0 +1,1 @@
+program S : main : G : boolean; E, DDu, J6p, ws, w, b : integer; WK : integer; LG, vR : integer array; f9s : boolean; P : boolean; q0 : boolean; b : boolean; output - true / 9 and 513 - true . - 43 and 3; while(59) + 66 > - b or 37 : chillax end end

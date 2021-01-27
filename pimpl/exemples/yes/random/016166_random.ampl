@@ -1,0 +1,1 @@
+program _ : xe : takes o3wa, q, W : integer returns nothing chillax end j : takes VB, Qx : integer returns boolean array do F(4 - 050 >= 3, 659, 54) end main : gdw0 : boolean array; f, TY, NL80 : integer array; b : integer; P4 : integer array; ezIa : integer array; chillax end

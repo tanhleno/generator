@@ -1,0 +1,1 @@
+program i : main : d330, ot, B : boolean; Rg, C : boolean; O : integer; i, R, Ul : boolean; GK : integer; let g = array - 80400 / true / not 0 and 8; when case - true * 31 and 2 > true and 915 + 75500 - 79 : chillax end otherwise : input g1i; let bq = 521; do x(6); pop end end

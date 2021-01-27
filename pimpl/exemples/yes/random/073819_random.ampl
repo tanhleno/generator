@@ -1,0 +1,1 @@
+program F : main : u, yX4 : boolean; M : boolean array; W, l59, E, _g : boolean array; while bz(8) * a[6] or not(72) / SzR0a - true or 7 - 3 : chillax end; do p_(- a8(17) / false); while P and 64 + 52 - 87 <= - 91 : while 6 : pop end end; input A6 end

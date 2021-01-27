@@ -1,0 +1,1 @@
+program f_8a : zuDa : takes U : boolean; a : boolean; Cv, D, I, y : boolean array; o, g19a, L : integer array; vk : integer returns nothing let H = - 1 > 45200; let w = array 6 - 375 end main : input x6; output - true or 3 end

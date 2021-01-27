@@ -1,0 +1,1 @@
+program Z : p : takes O : boolean; k : boolean; A, a : boolean returns nothing MV : boolean array; Qoh : boolean; pop; input z[- 8]; when case 79 = 45 : chillax end case 2 : pop end case 58200 : chillax end otherwise : pop end; do g6(1) end main : z : integer; z46, s6Laa : integer array; chillax end

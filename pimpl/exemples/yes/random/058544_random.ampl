@@ -1,0 +1,1 @@
+program O_x : P : takes N : integer array returns boolean when case not 89 and 34 : chillax end; input F end l : takes _f80 : integer array returns nothing chillax end main : j, a : integer array; chillax end

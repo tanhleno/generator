@@ -1,0 +1,1 @@
+program xe : R : takes k38aa : boolean array returns nothing B, m, n47a : integer array; yM : integer; while not 9 - 2 - 2 < 3 - 18 : chillax end end main : M, _Ws0 : boolean; Q, r, hJ, n54 : boolean; c, C5R : integer; let PxC[303 or true] = - true; while false - true >= not 4 : chillax end; let j[- G and 55] = 56 - 41600; let C = array - 1760 - 4; do Cu4(343) end

@@ -1,0 +1,1 @@
+program T8 : e : takes n, v : integer array; EM, G : integer; Us, hf50a, f, q : integer array; d5, v5, WpT, Nco, l : integer returns nothing jC : integer; when case - true + 1 >= 704 - 9 : input yn[44] end; pop; do aX1a(5 = 8) end main : _1 : integer array; M, m2, x, S : integer array; while - 329 > - G[4] / not 1 and 747 : while - 78 - 58 : chillax end end end

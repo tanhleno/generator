@@ -1,0 +1,1 @@
+program Y : main : D8 : boolean; t, e7m, KT, P : boolean; Y_, k3, P, d, F6 : integer array; while u or not(9) and false : when case - 7 - 072 : chillax end case 6230 : let pE8a = 6; pop end otherwise : let z = 8 end end end

@@ -1,0 +1,1 @@
+program e : vt : takes N : integer array returns nothing when case - vlw0a or 1640 < - 37 - 47 : chillax end end dm : takes D, kp5 : boolean array; NE, O, xe, Z, c : integer returns nothing t : integer; hO : integer; O : boolean; e : boolean; z0i0 : boolean; chillax end main : chillax end

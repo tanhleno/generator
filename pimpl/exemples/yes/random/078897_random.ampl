@@ -1,0 +1,1 @@
+program F9 : main : b : boolean; Wt2aa, Lp : boolean array; qJ, i : integer array; do g((0 = 99) * m + (209) rem false and 460 or false); when case true - true or 0 - 281 : input Wp[9] end otherwise : input d1; output "j" end; while - H - 44 - 924 : chillax end; input V27aa; output 17 . ""; let Ade = 39; do A_00a(96200) end

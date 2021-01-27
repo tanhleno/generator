@@ -1,0 +1,1 @@
+program l : h : takes DQ, D : boolean returns nothing chillax end main : when case true rem true : input I[1 - 232] end case - (17800) or false and 735 < true and 5 : chillax end otherwise : pop 592; when case 747 : pop end case 6940 : chillax end; let n3 = 6 end; let H = false; output "" . "5"; while 9 : pop; while 68 : chillax end end end

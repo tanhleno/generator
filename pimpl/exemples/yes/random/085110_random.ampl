@@ -1,0 +1,1 @@
+program d56aa : main : bOza : integer; when case(93 = 9460) - not(25) + eC3 and 343 - 5190 < true or not 08 and 864 - 267 - 3860 : chillax end otherwise : when case 7 = 1 : chillax end otherwise : chillax end; input n; input _mn; pop; pop end end

@@ -1,0 +1,1 @@
+program k : B : takes u : boolean array returns nothing chillax end main : U : boolean; G : integer; v : boolean; I7, _D : boolean array; let f = (921) + not 1 and 70 <= - (38) and 0; output - (4) and 895 = 4 end

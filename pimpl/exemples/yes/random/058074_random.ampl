@@ -1,0 +1,1 @@
+program Byb : X : takes u2 : integer array returns boolean chillax end a : takes w : integer array; s, qW, RoN : boolean array returns integer input y9; when case 9 = 39400 : chillax end otherwise : chillax end end main : pop; let V = array - true rem false + false - 4 end

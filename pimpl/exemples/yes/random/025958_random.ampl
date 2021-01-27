@@ -1,0 +1,1 @@
+program O : S2F : takes DPh, E9 : integer; y, G : integer returns nothing L7, z, D : boolean; D, K5s0a : boolean; output "5"; when case 6 : chillax end end main : do b(not h1[1] + true - true + 24 - 2, not false / not 6160 and 7 or false - 1 - 69 < - not 52400) end

@@ -1,0 +1,1 @@
+program j390a : ZwX0a : takes x, B : integer array returns nothing output - 3 - 3 < 9 . "\t" . 3 end x : takes MhVaa : boolean; f580 : boolean returns nothing let L = array 1; pop 12 end main : output "" . T and 8 . 706 - 5390; output ""; let h2P0a[false - 0] = 049 > 7; while - 7 = 27 : pop; input r end end

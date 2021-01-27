@@ -1,0 +1,1 @@
+program QG : _ : takes E, Nf : boolean returns integer output - 13700 - 8; do Lv(- 8); input u[4] end C2 : takes O1 : integer array; n870a, e1 : boolean array returns integer array chillax end z : takes C0, eeQ : boolean returns nothing chillax end main : bGF0a, N8F, _ : boolean array; D : boolean array; chillax end

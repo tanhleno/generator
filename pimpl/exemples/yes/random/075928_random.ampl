@@ -1,0 +1,1 @@
+program z0 : main : tz, u : integer; A7, D, Wm0, P : integer; while - 2 rem not not 8800 = true rem true and 04 or 9 : chillax end; input y[- ck[1] - W64 and 85]; while - false - 1 - 6 <= - 1 : chillax end end

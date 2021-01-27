@@ -1,0 +1,1 @@
+program fdCa : main : pb9aa, r, h : integer; S550 : boolean array; BJ : integer; A : integer; TG5, k28aa : boolean array; L4, M : boolean; when case false - Ay(5) + true : chillax end otherwise : input KL[02200]; input C end; while - not true rem(59) - 4 and 292 : pop; pop end; let NU7[true] = - 5 - 2 = 6 end

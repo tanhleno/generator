@@ -1,0 +1,1 @@
+program O : T : takes h, A5Ya : boolean returns nothing chillax end J : takes j : boolean; UEe, j : integer returns nothing let S = array 8; when case 9 = 4 : output "~{aa"; pop end; do IB4(2) end main : o : boolean array; W, u6fa, C5 : boolean array; tJ : boolean; p8, OIE, m : boolean; chillax end

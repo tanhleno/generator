@@ -1,0 +1,1 @@
+program X : D : takes h44 : boolean; _170 : integer; qo : integer returns boolean array pop - 28200 - 6 <= 80900; do wGS0(- 79000, 7, 6); input f8K[326]; when case 44 : pop end case 26 : chillax end otherwise : chillax end; do OG(07) end main : pop not false / F and 9 end

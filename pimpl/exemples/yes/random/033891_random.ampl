@@ -1,0 +1,1 @@
+program TW3a : W79 : takes F7 : boolean; v4w0, S, aFs : boolean array returns nothing g, a, q : boolean array; chillax end main : G6, F : integer array; GS, A : integer array; VQ60, z : integer array; o, y, J : integer; j : integer; E, M : boolean; _ : boolean; sZ6 : boolean; input g[- not false - 67]; let f = true + 43 end

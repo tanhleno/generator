@@ -1,0 +1,1 @@
+program o : q : takes e : integer returns nothing q, u7, I, L, F : integer array; i, cmF0a, OS : boolean; input l8G[(8) - 6 - 99]; let Y[250] = array 43 end main : x, A : integer array; input N[false rem(5)]; do V(- (1) * (5) and 49 + true /= - H and 6050); while - true and 1 < - 1 - 0940 : input Ul9; output "6"; input X end end

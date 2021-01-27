@@ -1,0 +1,1 @@
+program R : Z5 : takes e, E : boolean; a9 : boolean returns integer array R : integer; chillax end _ : takes i7, J : integer array returns boolean c3, W1P0, eQ, v6 : integer; chillax end main : h : integer; i : integer; while not(3) - not false * not 24 and 7 + true + 4 : chillax end; let V[- U(90)] = array - R6x0[5] end

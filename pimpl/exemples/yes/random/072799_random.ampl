@@ -1,0 +1,1 @@
+program x5 : main : di1, bl50, l : integer array; P8, u : integer; do Dz(hJKaa(9820, 72) > not 051 * true and 7); do n(92 rem not 13 + true and 7640 + 7 = - 0 or 36); output "4"; output 8; while 29 : chillax end end

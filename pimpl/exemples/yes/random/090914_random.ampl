@@ -1,0 +1,1 @@
+program wU : main : let dT4[- j[72]] = false or(77) and 77 <= - 0 or 49; when case(3) - true + 79 - 99 > true and 5960 + 0260 : chillax end case not 844 and 7 or 83 : while 4 : pop end end otherwise : let C6[4] = 0 end; while - 2 - 0 - 61 : when case 2 : chillax end end end

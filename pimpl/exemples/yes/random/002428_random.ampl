@@ -1,0 +1,1 @@
+program T : z : takes _3, o, S, TpT, Jpxa : boolean array; M1A0a, eA : boolean; w, t5, z, fp, w : boolean returns nothing v, qTa, I : boolean array; let mPg[true and 97 or 7530 - 3] = array - true and 06600 end main : chillax end

@@ -1,0 +1,1 @@
+program _D : w : takes u9o, Q, L : integer; OS3, rJ, _, A, d : integer returns boolean tn0 : integer; D : integer; do iO(- not 8) end main : do K((9 = 2) and 4640 rem E66 and 2 or true / not 1 - true and 7 = - _a[6]) end

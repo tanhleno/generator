@@ -1,0 +1,1 @@
+program L : J : takes PBo : boolean; e, Cz9 : integer array returns integer w, x, g : integer; e1 : boolean array; N0, SOS : integer array; pop; when case 97 - 4 > 95200 : let z2Kaa = 6; when case 1 : chillax end end case 539 = 66 : chillax end case 5 : pop end; let W = array 7; when case 6 : chillax end otherwise : chillax end end main : dU : integer; chillax end

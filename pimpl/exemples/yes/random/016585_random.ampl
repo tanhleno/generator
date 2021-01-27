@@ -1,0 +1,1 @@
+program v2 : _CO0a : takes C, ss, hL : integer returns nothing pop; output 45 = 43 end J : takes wj : boolean array; F : boolean returns integer __ : boolean array; Y, l8 : boolean; input cr; when case 6 : output "!7!a" end; let lX[50000] = array 91 end main : S : integer array; chillax end

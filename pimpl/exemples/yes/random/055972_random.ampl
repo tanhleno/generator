@@ -1,0 +1,1 @@
+program k62 : h : takes W6 : integer array; r88 : boolean array; ktpa : integer returns integer x9, A6D, A, x, E : integer array; chillax end main : Zi2, Y6 : integer array; do H4K0(true / false <= - x6R); while true and not 57 < false and 0470 + 1 - 64 : chillax end end

@@ -1,0 +1,1 @@
+program C : A1 : takes Q : boolean array; b2K : integer returns boolean chillax end X2 : takes p3, heq : boolean returns integer SH : boolean array; chillax end w : takes K27 : integer array returns integer array let Iw = 1; pop 65; when case 05 : chillax end end main : j4, c3R, V : integer array; chillax end

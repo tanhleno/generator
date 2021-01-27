@@ -1,0 +1,1 @@
+program x6 : main : when case(800 = 99500) * (6) / not 8 and 92 - (28) or z4 and 6 < not 1 / false and 3530 : when case - 9470 : chillax end; input n[0] end; output true - 97 >= - 62; while false and 8 /= - 35 : chillax end end

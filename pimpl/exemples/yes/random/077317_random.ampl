@@ -1,0 +1,1 @@
+program zQ : main : J, j : integer array; W, H : boolean; pop - s(1) * S or E <= - true and 23 + 0450 - 12; when case - false /= - false or 68 - 6 : chillax end; input v; when case 2 >= 5480 : chillax end otherwise : chillax end end

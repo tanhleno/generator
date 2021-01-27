@@ -1,0 +1,1 @@
+program t : O : takes O, B : integer array; Z6Ra, Q, N1 : integer; Ct : boolean returns nothing output "" end main : do F7(- not false - not false and false and 2 or 604 > - a63[26] / true and 4, Y(2) / true and 98, - 1920 and 035 + 2); output true - 5; input vO end

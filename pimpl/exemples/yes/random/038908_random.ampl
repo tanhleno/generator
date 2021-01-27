@@ -1,0 +1,1 @@
+program EH60a : S1j0a : takes J : boolean array; G, w : boolean returns nothing chillax end LpBaa : takes e : integer; YEr0a, at : boolean array returns integer array do e(- 194 > 84) end main : chillax end

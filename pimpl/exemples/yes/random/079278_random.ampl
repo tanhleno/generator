@@ -1,0 +1,1 @@
+program N4 : main : QT : boolean; _ : boolean; output false - not 69 and 57; while 2 + not 2 and 96 or 70 = - not 2250 and 878 : output 633 . "0'" . "%"; when case 393 : chillax end case 12 : chillax end; do X(979) end; while 2 <= 666 - 28 : chillax end; when case 0 - 3 : chillax end otherwise : output "4"; pop end end

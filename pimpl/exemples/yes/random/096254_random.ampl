@@ -1,0 +1,1 @@
+program ci : main : when case - not not 5 rem 53 / not 10200 and 3 : chillax end case - not s0 or s0 : chillax end; while nu4aa(2) : chillax end; while y2 and 1 - 0 : do RO3aa(4) end; input I; input cV end

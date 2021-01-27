@@ -1,0 +1,1 @@
+program c3O : z5 : takes VI : boolean array; x, T : integer returns nothing input q end main : do E(- false / 795 and not 15 and 4 - 71 <= true and false + not 63 - 25000 - 85, not x - (29), - false and 6 < 48 - 1); let v[false] = array false / p and 37 or not 9 and 7590 end

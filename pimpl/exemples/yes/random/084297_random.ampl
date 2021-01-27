@@ -1,0 +1,1 @@
+program w : main : Q71 : integer; W5 : integer; A7C : boolean; when case true * (7) / y4S = (2) * false and 6 : while 1 - 5 > 22 : pop end end case - 1 or false and 0 or 3 - 51 > - false and 2 : chillax end case 5970 or 5080 - 6 : chillax end case 2 - 4 < 38 : chillax end end

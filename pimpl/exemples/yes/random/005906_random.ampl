@@ -1,0 +1,1 @@
+program U : VLga : takes y, f, iTI0, S : boolean returns boolean L : boolean array; O4, B : boolean array; S : integer; N : boolean; J : boolean; pop 68 - 1 = 64; when case 56 < 14 : while 73200 : chillax end; let J100 = 9 end otherwise : chillax end; do z(5350) end main : do C((55) / d(7), - 80 * true and 8 = - (356) - 39 - 3) end

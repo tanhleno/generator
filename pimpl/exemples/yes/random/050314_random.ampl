@@ -1,0 +1,1 @@
+program a_ : T7 : takes t : integer; Zp, f : boolean; Q, p3, po : integer; kb : boolean array returns boolean array U : boolean array; j5, P7Sa, Y : boolean array; chillax end main : when case - not false - not false rem C > - W[0] * true : chillax end; input Up2[- not true + true and 90]; pop - 6 - 7 = 045 end

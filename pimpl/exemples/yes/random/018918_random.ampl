@@ -1,0 +1,1 @@
+program H7 : U : takes h290a, W : boolean array; ua0a, m40, Zr8a : boolean array; Aq2 : integer returns integer array while - D = 9 : when case 736 : chillax end case 2740 : chillax end; do A58a(5) end; when case 2 /= 5 : do f(482); when case 2 : chillax end end end main : let Z2raa = not not 185 < - true end

@@ -1,0 +1,1 @@
+program T : srraa : takes v, Z7 : integer array returns integer output - 205 - 9 > 268; let t = 426 = 79; when case 90000 : chillax end otherwise : chillax end end main : ov3, B3 : integer; let B2T0a = 87 <= - (48) and 5 or 7; output "" . - 2 - 2 . 2560 = 29; do I6((38) and 44 - 4 - 1) end

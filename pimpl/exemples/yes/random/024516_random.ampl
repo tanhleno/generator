@@ -1,0 +1,1 @@
+program K6Z : qD : takes M, v : boolean returns nothing b : boolean array; J : boolean array; input I[false + 2]; input q2 end D7Za : takes n0, x39a, G, xK, RN1 : boolean array; I : boolean array returns nothing h, p : integer array; z : boolean; E2 : boolean; while 4 : pop end end main : output - 0 or false and 67 + 15 - 2 end

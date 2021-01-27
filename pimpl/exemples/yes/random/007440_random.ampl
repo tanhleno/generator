@@ -1,0 +1,1 @@
+program m1 : qE : takes O, DZ, qa20, wS : integer array returns boolean chillax end j5 : takes P8, N : boolean array; e, m4 : boolean; E8Za : integer returns integer array pop 2; do b(2, 52, 8) end main : while V05 rem(2180) / not 931 and 60 or true : do P(98 - 3 = 697) end; input L9Ga[- false - true or 99 - 2]; do ZV(J and 3350 /= - 25) end

@@ -1,0 +1,1 @@
+program xn : main : x, z : boolean array; _M, U, b, Q8, L : integer array; a0naa, fI : boolean; pop; when case - A2[7] * (13300) and 0 - bN and 4 /= - false and 3 or 9 - 6 : pop 8830; while 62700 : pop end end case - (339) >= 19 : chillax end case - 0 <= 79 : chillax end end

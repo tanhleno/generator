@@ -1,0 +1,1 @@
+program S : i : takes s, CjPa, k, I : integer array; MD, d, I, D9Gaa : boolean array; x8, R820a, L5 : boolean array; U2b, _8 : boolean array returns nothing a, r6, rn7a : integer array; input j[Q]; pop; input zmZ[19] end main : D : boolean; s, U, a : boolean; XE5, l7j : integer array; chillax end

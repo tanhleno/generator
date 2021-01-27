@@ -1,0 +1,1 @@
+program y : main : do n(N * false rem(53) and 0 <= not false rem false and 7 or not 9 and 1 or 94 - 5); do aN(not j9r0a / a + l41aa and 8 + 4 - 8, - 0 and 86); let pk = 27 - 31100; when case - 8 - 087 /= 7 : pop end; when case 8 = 13 : chillax end; do j6(583) end

@@ -1,0 +1,1 @@
+program Y : w : takes y : integer array; LR, w : integer; S, Q7 : integer array returns integer M : integer array; chillax end main : do E(- (369 = 4) and 3 or T5[63] + 8 and 5000, 4 and false and 2 <= not 8 and 909) end

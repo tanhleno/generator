@@ -1,0 +1,1 @@
+program w1Ha : xo : takes n11a, q, Z94aa : integer returns boolean array when case true > - 7 : chillax end case 1 = 17 : chillax end case 7 = 9 : chillax end otherwise : chillax end end main : chillax end

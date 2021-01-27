@@ -1,0 +1,1 @@
+program dYS : main : W8w, k : boolean array; eg6 : boolean array; Ay : boolean array; do e(true rem true > - 4420 rem not 1 and 84700); output ""; input e5Z0; when case - 4 > 160 : chillax end case 2 = 7 : chillax end; do v(813 = 5, 996, 1); input qt[8]; when case 2 : chillax end; output ""; pop end

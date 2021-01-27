@@ -1,0 +1,1 @@
+program nPeaa : J : takes IFj, dD : boolean; j, OI : boolean array returns nothing eK : boolean; pop 67300 - 54 end Z : takes Xp, f : boolean array; e2Fa : integer array; C, k2, P0, F, o7 : integer array returns nothing let F2[8 - 6] = array - 0; pop; input xo6[8]; input qZ; when case 9 : chillax end; pop end main : U, K, Y_u, d, z, L : integer; chillax end

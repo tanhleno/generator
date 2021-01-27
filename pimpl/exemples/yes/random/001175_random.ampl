@@ -1,0 +1,1 @@
+program B : o : takes Q2G, O_, Ei, R, N, Z : boolean; C : boolean returns nothing input U5L0a; do C(12, 2 = 0000, 8670, 1); input t[67]; when case 487 : pop end end w : takes cu : boolean; X : boolean returns boolean array chillax end L : takes ba30a, n, U, k, pS5 : boolean returns nothing c : integer array; chillax end main : chillax end

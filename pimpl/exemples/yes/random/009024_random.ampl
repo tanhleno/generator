@@ -1,0 +1,1 @@
+program _ : o : takes m, h, vlN : boolean; V : boolean array; yC, dhG0, yb : boolean returns nothing output "\\r"; output 122; let C0Daa[0] = 773 end main : Y09, G : boolean array; output - 2 or true . "" . "``" . 3 = 1920 end

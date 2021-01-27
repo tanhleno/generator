@@ -1,0 +1,1 @@
+program F : R : takes _6 : boolean array; v28aa, L9 : integer array returns nothing t, a3K : integer; chillax end ow : takes E3, I2 : boolean array; B, l, HJ70a, o, l : integer array; p8 : integer; E7 : integer; k : integer returns nothing output 8 = 36 . 1 . "\n" end main : vp7, D, j2, j, CW : integer; chillax end

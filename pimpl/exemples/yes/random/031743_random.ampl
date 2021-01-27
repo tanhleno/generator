@@ -1,0 +1,1 @@
+program X1 : o : takes T0, X60 : integer returns integer array do I(- B and 45 + 8 < - 423) end main : when case false - true + (7) : chillax end; while - not false / true and 73 - not 8 > - false and 3 : while 2 : chillax end; input i[7] end; when case - Q and 2 : input U76[0] end; pop; do Ui_0(3) end

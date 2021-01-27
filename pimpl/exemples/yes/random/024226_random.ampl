@@ -1,0 +1,1 @@
+program F : M : takes Ep4aa, W : boolean returns nothing ntR, O, q : boolean array; chillax end lZq : takes p : boolean; _ : boolean array; r : integer array; W, JvOa, X1, Z7C0 : boolean returns nothing chillax end main : d1B : boolean; pop - true; while - not(8) < - not 2 : chillax end end

@@ -1,0 +1,1 @@
+program R : e : takes P0, c, x64 : integer; r2, a29 : boolean returns nothing when case not 8 and 4 < - 2 : do F(5, 0); when case 7590 : chillax end end case 13800 = 49 : while 688 : chillax end; while 7 : chillax end end; input hRO; do Z(442) end main : kH : integer array; chillax end

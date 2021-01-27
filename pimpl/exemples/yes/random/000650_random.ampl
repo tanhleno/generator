@@ -1,0 +1,1 @@
+program g : N : takes b0, O, V, St, G6, X, S : boolean array; x, n : integer array returns boolean input y1[false and 09] end main : output ",va"; input s[not(8)]; when case - true and 6 : when case 01 : pop end case 2 : chillax end otherwise : chillax end; when case 5 : chillax end; do m(2) end end

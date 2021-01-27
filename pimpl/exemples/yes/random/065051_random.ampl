@@ -1,0 +1,1 @@
+program k : JwD : takes B240 : integer returns nothing AwH0a : integer array; chillax end main : input b; do x2(false / true and 7 - (470) and 5 + 1620 >= 23 and 3 or 33, - (511) and 90 + 439 > - 4000 - 060, 59 - 8); when case - 55 and 4 + 1 - 79 < - 8 - 3 : output "\\@" end otherwise : chillax end end

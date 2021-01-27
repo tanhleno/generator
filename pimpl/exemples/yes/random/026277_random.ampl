@@ -1,0 +1,1 @@
+program kO50a : j : takes cA, nK : integer; y6P : boolean array returns integer array pop 2 - 3 = 70300; input b8; input k16 end m76 : takes d, n, aJ3a : integer array; og4 : boolean array; i01, H, YZ : integer returns nothing chillax end main : output(5) . - 0 and 88 > - 1; output - false; do G4(v79 and 1 >= - 72 - 2960, 6 - 247 /= 76); do GO(71 - 8, 0 = 35) end

@@ -1,0 +1,1 @@
+program Z : m : takes J820, P8, y6 : boolean array; W4 : boolean returns integer C : boolean array; pop; pop 14 = 7; while 1 : do s(3080); pop end; do Jel0a(2) end H : takes G : boolean; p : boolean array; P : integer array returns nothing W : integer; chillax end nz5 : takes w, o0, v, B27aa, q2 : boolean array returns nothing do o(0050, 46900) end main : chillax end

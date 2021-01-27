@@ -1,0 +1,1 @@
+program q3X : m42aa : takes a8 : boolean array returns nothing chillax end e : takes x : integer array returns integer array tC1a, T : integer array; chillax end main : kV0, n0, Y4, Y4S : integer array; when case - 6 / 4 / d < W9[313] : chillax end end

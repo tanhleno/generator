@@ -1,0 +1,1 @@
+program Pd0a : L : takes ui70, mb : integer array returns nothing t, X, A : boolean; t, a : boolean; gU, J : boolean; c5Z0, hp : boolean; output "" . "2\\\"a"; output "" . 4020; when case 297 : while 3 : chillax end end case 0820 : pop end case 78 : chillax end otherwise : chillax end; input AE[6] end main : K0U, o : boolean array; f40 : boolean; V, Z : integer array; chillax end

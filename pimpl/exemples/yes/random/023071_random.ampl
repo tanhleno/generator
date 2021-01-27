@@ -1,0 +1,1 @@
+program Q91 : n : takes Y0, W : boolean returns boolean array output "~V0a" . 4 = 950 end main : E : integer; y_ : integer; t, t21 : integer; while not true : output 09 . "9\n\"a" . 874 . "s" end end

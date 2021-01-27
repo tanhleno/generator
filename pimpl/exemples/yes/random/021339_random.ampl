@@ -1,0 +1,1 @@
+program m : Qa : takes K, a2D : boolean array returns integer array d, bU1, M, R : boolean array; while - 92800 and 5 = 932 : chillax end end D530 : takes l4 : integer array; HpQ : boolean; E : integer array returns nothing l : integer; while 0 <= 5 : chillax end; when case 60 : chillax end otherwise : pop end end main : let s = array false; input hWpa; pop end

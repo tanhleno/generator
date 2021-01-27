@@ -1,0 +1,1 @@
+program e4 : r : takes U, t : integer array; Dx, V : boolean array returns integer chillax end main : while 5 * not 3720 rem V : pop 0; let d2iaa = array 86 end; do i9(6, - not 7 and 85200 - 8, - 0 - 7, 66) end

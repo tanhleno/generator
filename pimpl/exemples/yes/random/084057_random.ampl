@@ -1,0 +1,1 @@
+program gW4 : main : lMb0a : integer; y : boolean array; do gxo0a(not not M, - (6670) and(61) and 307 < true and 023, 1 and 4 >= 1 - 7, - 4 - 30 < 0500); input m; pop; do m(- 6 - 5 > 11, 3 = 657); let t = array 55; input t[3] end

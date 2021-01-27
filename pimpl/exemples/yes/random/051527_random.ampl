@@ -1,0 +1,1 @@
+program IP6aa : S8 : takes ub4 : integer; k1m0 : boolean; L : integer array; Q : boolean returns nothing chillax end h : takes LL0 : integer returns nothing do P1(- 18 - 8) end main : let H = array - QM / true rem false and 88; when case - 62 + false and 37 /= (3090) and 8 : chillax end case false and 858 - 44 : chillax end otherwise : chillax end end

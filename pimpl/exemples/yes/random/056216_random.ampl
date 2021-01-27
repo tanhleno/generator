@@ -1,0 +1,1 @@
+program Z : k : takes RPua : integer array; HN9 : boolean array returns nothing when case - (34) and 2 - 6 - 52700 <= 34 : chillax end otherwise : output "\t" end end main : y, a9, QN10a, Zx, E, k : integer; tJ : boolean; let K = array(2); pop - B + 5; output - 92 /= 92 . ""; output "25!a" . "Y<" . "96" . "" end

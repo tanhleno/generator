@@ -1,0 +1,1 @@
+program qtx : H : takes H7faa, OS : boolean; z : integer returns nothing when case true : input p180[8] end case - 785 - 4 : output "" end case 1 : output "" end case 2 : chillax end case 9 : chillax end otherwise : pop end; output 90 end main : L : integer array; g, t99, Qr : boolean array; chillax end

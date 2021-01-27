@@ -1,0 +1,1 @@
+program P : main : G5 : integer; Dxf0 : boolean; pop; output true and 37 or 1 /= - 7 - 166 . 308 - 5; when case 6 : chillax end; when case 93 >= 921 : chillax end; let V8S[84] = 1; pop; input PUXaa end

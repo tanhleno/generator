@@ -1,0 +1,1 @@
+program W : r : takes e45, ec5aa, Xv6, j : boolean array; sD, G6c0 : boolean array returns nothing while true and 1 + 08 - 52 <= 3 - 5 : chillax end; output 0 = 923 . ""; let u95 = 502 end E : takes N : integer; U3, O : integer array returns nothing G52aa, K, Yd : boolean array; chillax end main : chillax end

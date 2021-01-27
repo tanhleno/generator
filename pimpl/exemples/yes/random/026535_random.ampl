@@ -1,0 +1,1 @@
+program z : i : takes T3, T9l : integer; D : integer; Zy : boolean; n4, v : boolean array; j, a : integer array returns boolean o, G3M, C, x : integer; chillax end main : Wk : boolean array; F, q2 : boolean array; input n; pop; do lE(- not 70 and 8 > - 23) end

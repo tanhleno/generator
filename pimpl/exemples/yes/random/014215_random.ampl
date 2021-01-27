@@ -1,0 +1,1 @@
+program R : K : takes d, D, xs : integer array; oIW : boolean array; gbt, J6, d, E : boolean array returns nothing w1U0a, W : boolean; HZF0, u2 : boolean; while I_8a and 3 <= 764 - 90 : chillax end; do b(61 - 3960 = 8630, 2) end main : pop 94 < - false and 0; output - n and 1 end

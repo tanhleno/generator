@@ -1,0 +1,1 @@
+program O : Q : takes V1 : integer returns nothing output "{/!" end z : takes _, Kj, s : boolean returns nothing p, D : integer; chillax end N : takes I8 : integer array returns boolean chillax end main : output - 9 + false and 83800 > - true . "8[a" end

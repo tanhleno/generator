@@ -1,0 +1,1 @@
+program u3 : bT : takes K7, _q, rF : integer; xn9aa : boolean; VB, E9 : boolean array returns nothing chillax end main : ef6a : integer array; do hH2(not false or false or M and 9, - B[7] rem(77700) and 89, - true >= - 9 - 1, - 0 - 2); when case p > not 22 and 31 : pop 297; do O(52); while 0 : chillax end; let v = 7 end otherwise : chillax end end

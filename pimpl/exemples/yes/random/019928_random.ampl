@@ -1,0 +1,1 @@
+program z_2 : x : takes cX, b : boolean array; Bx : boolean array; U : integer array returns integer array when case - v and 7 or 6 > - 1 : let I = array 7; pop end end k82 : takes S : integer; d : boolean array; T, h : integer returns nothing let O = array 3 - 2; while 82 = 1 : let l11 = 5 end end main : s : boolean array; chillax end

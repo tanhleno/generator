@@ -1,0 +1,1 @@
+program N : qrH : takes B : integer; k : boolean returns nothing chillax end I06 : takes G : boolean; N8, D : integer returns nothing while - 3 - 3 /= 1 : chillax end; output 5; do Q(136, 8) end main : h : boolean; u : boolean; pop end

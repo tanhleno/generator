@@ -1,0 +1,1 @@
+program Z6Ua : k : takes ge, Q, zVS0a, x3 : integer returns nothing _ : boolean; when case - l <= 10 : chillax end otherwise : do v(6980); when case 2 : chillax end; pop end end L : takes lfY : integer array returns nothing input k96 end main : v, b8 : integer; chillax end

@@ -1,0 +1,1 @@
+program Q : a79 : takes I59, gy : boolean array; X, K, o9 : boolean array; OYX0 : boolean returns boolean array input kC2[qb and 15]; pop 2; pop 5; do J(448, 68); input n; do I(05) end K5_ : takes rpn, VY : integer array returns integer C9e : integer; chillax end main : let b3 = - not not 5100 / (2) and 05 <= false and 972 or 6 end

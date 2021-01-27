@@ -1,0 +1,1 @@
+program T9 : i3Z : takes S : integer array; Pex : boolean returns boolean array Zg : boolean array; while - (7) - 6810 - 113 : chillax end end H1 : takes g : boolean array returns nothing input oD0[1 - 762] end main : A : integer; G : boolean array; input BYZ[- true and not 5200]; while - not not 6 and O and 40 - (1) or 038 - 2210 : chillax end end

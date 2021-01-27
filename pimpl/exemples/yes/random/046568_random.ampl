@@ -1,0 +1,1 @@
+program S1eaa : M : takes c : boolean returns integer array j, r, T : integer array; Q, G : boolean; g, R4, R : integer; N : boolean; chillax end main : n90 : integer; output 2 and(97) and 8 = - true or 9110 - 3690; input sP; input on end

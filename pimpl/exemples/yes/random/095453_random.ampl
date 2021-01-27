@@ -1,0 +1,1 @@
+program ao : main : when case(3 = 3) * not(46) or 065 : pop 1 end case(94) rem not 866 and 0 - not 121 and 5700 : let J[55] = 5 end otherwise : output "\n7\"a" . 50 . "2"; while 979 : chillax end; output "m8" end; pop - (8) < - 3; pop; input Ojt[33 - 9]; output "" end

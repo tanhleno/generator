@@ -1,0 +1,1 @@
+program Y3 : X4 : takes l : integer; Ax : integer; Mn, _2 : boolean; GU2a, g, l13a, G : boolean array returns boolean n5, zH2a : integer; u : boolean; input Y; pop; do H(5, 8, 347); when case 6 : pop end case 219 : chillax end end r6 : takes K57 : boolean returns nothing chillax end main : E : boolean array; Ll : boolean array; T, W0s0a : boolean; t : integer; chillax end

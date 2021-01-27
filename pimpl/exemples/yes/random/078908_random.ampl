@@ -1,0 +1,1 @@
+program c : main : wtV : boolean; c, ld4aa : boolean array; _ : boolean array; L, t, r : integer array; I, w3 : integer; when case - 968 / not not 1 : output "" . "" . "@\ta" end case(88900) - (9) and 2 + 1 : do _6(6, 13) end; do Y((30) / 8) end

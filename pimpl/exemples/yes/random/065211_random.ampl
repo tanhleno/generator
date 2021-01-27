@@ -1,0 +1,1 @@
+program s : TX8aa : takes i3 : integer returns nothing input p61 end K9s : takes L : integer; Ij, y97aa, c4, r : boolean returns boolean array XF, C : integer array; let t[- 6] = array 65; output "'0a" . "" . "x"; do _2(5, 7); when case 07 : chillax end end main : H2Maa, f : integer array; M, c : boolean array; m0c : boolean array; E, O : integer array; chillax end

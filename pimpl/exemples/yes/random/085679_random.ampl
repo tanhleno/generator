@@ -1,0 +1,1 @@
+program c : main : zz : integer array; bh, l8, Ym5aa, EY4 : boolean array; Xu, Y56aa, Y, O : integer; j, p, u : boolean array; A : integer array; MYj : boolean; K : boolean; while not 03 : chillax end end

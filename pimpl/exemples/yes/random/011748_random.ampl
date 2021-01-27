@@ -1,0 +1,1 @@
+program P : TP6 : takes T, g, vr00 : boolean returns boolean let T5P[false] = array(7) and 0 or 772 end g58 : takes z, d4 : boolean array; F, J49 : boolean array; Ac : integer returns nothing hE8aa : integer; pop 3 = 669 end main : T : integer; y36 : boolean array; B8 : boolean array; chillax end

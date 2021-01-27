@@ -1,0 +1,1 @@
+program m : a8 : takes b, R5L, M, Ss5 : boolean array returns nothing nQ : boolean; u : integer; d, l, v : boolean; hj : boolean; chillax end w : takes H, x6 : integer array returns nothing O : boolean array; input _S end hR7 : takes m, z, xQxa, e : boolean array; iw1aa : boolean array returns integer array let E = array 28 end main : d27a : boolean array; chillax end

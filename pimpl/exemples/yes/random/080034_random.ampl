@@ -1,0 +1,1 @@
+program e : main : a : boolean; let MP[- 85 - (796) or 16 and 7] = - cb(10400) - false or 302 > true - 3; pop; while - 39 and 7210 or 6 : do m(8) end; when case - 5 < 044 : let M = 7 end; do S(1, 5, 5) end

@@ -1,0 +1,1 @@
+program w : Ps : takes Q, d0V : boolean array; F, h8 : boolean returns boolean array when case false <= - 4 : input c[25]; output "C"; output ""; pop end end main : cJ50, cq : boolean array; chillax end

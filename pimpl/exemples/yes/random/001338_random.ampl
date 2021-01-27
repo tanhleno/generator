@@ -1,0 +1,1 @@
+program L : YU30a : takes r, h, g, wz6a, g, F8 : boolean array; l : integer array returns nothing a, s62, j, z, pvta : integer array; k, x, AP, O : integer; l : boolean; C : boolean; N : boolean; while(6) - 3 - 26 : when case 4 : chillax end; output "\\"; do V(7); pop end end main : chillax end

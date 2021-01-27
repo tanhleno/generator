@@ -1,0 +1,1 @@
+program p : main : when case - V8(46) : do L(03 - 361, 9); input W4[74]; pop 27; input m end otherwise : chillax end; while 48400 and(578) > (877) : chillax end; input G[- false and 0 + 1]; let T78[9 - 3] = array 6 - 01 end

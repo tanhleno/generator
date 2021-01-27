@@ -1,0 +1,1 @@
+program H : G : takes c0Paa, a, E, Y : boolean; IQ90a : boolean array returns nothing tY, wJj, C : boolean; chillax end n : takes q7 : boolean returns integer pop end main : SZ : boolean array; hM : boolean array; I : integer array; ij1a, h8p, F, F : boolean array; i3Q : integer array; output - K3 and G and 7800 <= false end

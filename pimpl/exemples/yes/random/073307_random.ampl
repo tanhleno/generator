@@ -1,0 +1,1 @@
+program J : main : D, w840a : boolean; do y2(true * m[867] or(37) - not 98 and 39 - 42 = (80) * true, - 90 * true + (00) and 1130 or 8 - 044 = ck4a and 7 - 5); let QB = - true and 2 /= 1040 - 4; input k[- false and 4] end

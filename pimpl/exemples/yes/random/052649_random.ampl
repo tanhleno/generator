@@ -1,0 +1,1 @@
+program h5na : BvT : takes v : integer; o0B : integer array; lw, S8, l : boolean array returns nothing S, SV7, c6G : boolean; chillax end kdj : takes D7, z13 : boolean array returns nothing R, C, V, Vz : integer array; Jp, N : integer; G : boolean; W : boolean; while 7330 : output ""; output "" end end A : takes WL : integer returns nothing chillax end main : chillax end

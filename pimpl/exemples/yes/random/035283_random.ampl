@@ -1,0 +1,1 @@
+program aL : s7 : takes WN : boolean; A, R65a : integer returns nothing J4 : boolean; G13aa, r, D : boolean array; b, l : integer array; do t(- false and 838 - 73 /= 81700, - 5, 49, 8, 5); pop; pop 3 end main : R : integer array; n, r : integer; c3kaa, e : integer array; j : boolean array; input w[- false and true]; do v(true); output ".f" . 3 = 3 . 96 end

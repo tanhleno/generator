@@ -1,0 +1,1 @@
+program he1a : B6 : takes J, i : boolean array returns boolean P, kK1 : integer; z : boolean; let yd[(5) + 893 - 097] = array 4 or 1 - 0620; input FZ0 end main : n2 : integer; a0, Y2, I, T650 : boolean array; Q7 : boolean; a2 : integer; pop - true * 578 and 6 < - not 8980 and 725 + 0160 end

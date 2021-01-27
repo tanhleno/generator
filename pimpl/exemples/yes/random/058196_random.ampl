@@ -1,0 +1,1 @@
+program iL : oo0 : takes u : integer array returns boolean OY, Z, oi : boolean; m, ZQ, UdC0 : integer; while - not 4 or 0540 - 94 <= 76 - 8 : output 3 . "`!0a"; input mil end; input J[4] end main : chillax end

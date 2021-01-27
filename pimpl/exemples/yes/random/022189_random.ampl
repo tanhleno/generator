@@ -1,0 +1,1 @@
+program R : Eu : takes LB0, j : boolean array returns nothing Tk8, ueMa, Z : boolean array; chillax end n : takes n : integer returns nothing input qa0[18 - 67] end z4 : takes x : integer array returns integer array n : integer array; pop; do Ga(32); pop; when case 52 : chillax end; pop end main : input H9K end

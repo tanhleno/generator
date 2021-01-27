@@ -1,0 +1,1 @@
+program Mt20a : gH0 : takes RL : integer; q, O : integer array returns nothing T, B : integer array; o : integer; cf10a : boolean; R3 : boolean; chillax end v : takes p : integer array; p : boolean returns nothing chillax end TEHaa : takes K, R, q : integer returns nothing xJ : integer; wW : boolean; pop end main : O9 : boolean array; p, P, B : boolean array; chillax end

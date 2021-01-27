@@ -1,0 +1,1 @@
+program VR3 : CAk : takes s5 : boolean array returns nothing r62 : boolean; H, m, p, y : boolean; s : boolean; L, X86 : boolean; output - 5 - 6 <= 3 . 5 = 90; do Q(- 3080 >= 328); do pH(80, 39); when case 64 : pop end otherwise : chillax end; when case 2 : chillax end end main : chillax end

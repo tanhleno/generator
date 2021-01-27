@@ -1,0 +1,1 @@
+program s : o8g : takes y, o : integer array; S4sa, Hy : boolean returns boolean chillax end jeN : takes H : integer array; Xz : integer array returns nothing Y : integer; c : integer; output "" end main : t7 : integer; U : boolean; chillax end

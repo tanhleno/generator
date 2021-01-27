@@ -1,0 +1,1 @@
+program _ZV : main : when case - not 57 + (9) - q and 63000 : do Z(7930, 9, 1) end case - 0 > - Z030a and 689 + 88400 : chillax end case - (9) and 1 or 74400 = 51 : when case 2 : pop end case 83 : chillax end otherwise : chillax end; output "4Y!"; when case 4 : chillax end end; input vP[(09900) - 06 and 0 + 8 - 07600] end

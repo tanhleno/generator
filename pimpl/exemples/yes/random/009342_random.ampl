@@ -1,0 +1,1 @@
+program X : G8 : takes t, V, r : boolean; F0 : integer array returns boolean array chillax end main : b : boolean array; when case - not(5) + 7 rem false < - true rem 0430 : chillax end otherwise : when case 8 : chillax end case 78 : pop end; while 67200 : chillax end end; let ZH[I[66] rem not 444 - false - 957] = array(7) end

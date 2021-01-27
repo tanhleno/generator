@@ -1,0 +1,1 @@
+program Ga : G : takes S, D : integer; mc, ud5 : integer returns boolean array when case - true /= - 4 : chillax end case - 1 /= 2 : chillax end otherwise : chillax end end main : pop(69) / not 1 and 75 end

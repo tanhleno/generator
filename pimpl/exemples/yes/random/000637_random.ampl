@@ -1,0 +1,1 @@
+program tA : o : takes Y71a, RV, g, L, x, e, g : boolean array; S2, PR : boolean array; w, i460a, na : boolean returns nothing U : boolean array; input d; pop; do uWra(4 = 58); when case 0 : chillax end case 5 : chillax end end main : d, lS7, y5 : boolean array; pop; let q = 1 - 147 > - 3960 - 5 end

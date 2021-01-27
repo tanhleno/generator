@@ -1,0 +1,1 @@
+program H8O0 : kB00 : takes ZS8 : boolean returns integer array do h(- true = - 5); output 9 . 30 end main : o, z, s7K, q590 : integer array; D : boolean; zW : integer array; Vz : boolean array; UBRaa : boolean array; chillax end

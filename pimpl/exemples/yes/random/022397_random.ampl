@@ -1,0 +1,1 @@
+program V0 : V : takes K3u, T : boolean array returns nothing Nk50a : boolean; X69, ti : boolean array; chillax end main : when case(88 = 120) < false + false : chillax end otherwise : input M[8]; while 50 : chillax end end end

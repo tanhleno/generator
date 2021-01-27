@@ -1,0 +1,1 @@
+program ob9a : H650 : takes t : integer array; W, k, D, V : boolean array; _qx : integer array returns nothing I : boolean array; chillax end main : while - true * V[2] rem R and 980 < - true / false and 4 or 0380 : chillax end; let B = array(7) rem(50) and 1 or 0 end

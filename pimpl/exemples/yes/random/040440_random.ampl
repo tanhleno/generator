@@ -1,0 +1,1 @@
+program Jf : u : takes Ab : boolean array; e : boolean returns nothing ts : integer; W, R5, V : boolean array; chillax end tH : takes yNC0a, v : integer returns nothing c1, QTh, B, FX : boolean array; q34aa, y77aa : boolean array; D1, r : boolean; T : boolean; I : boolean; do v(- 9 - 9 /= 91, 82600 = 21); pop; do k(9) end main : chillax end

@@ -1,0 +1,1 @@
+program Tgw0a : main : J8, x, ZCI, QS, Z : boolean array; U, x : boolean; input r; when case - G56aa[40] + 6480 or 45600 : chillax end case - not 618 : while 2 : pop end end case 70 : while 8 : chillax end; output "" end otherwise : let e3[1] = 7 end; when case - not 4 and 55 : pop end end

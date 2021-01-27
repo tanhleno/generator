@@ -1,0 +1,1 @@
+program wk00 : S2 : takes v, X : boolean array returns nothing YH : boolean array; cq, Q1 : boolean array; output "8"; let C[5 - 5] = 9 end R7e : takes Fh : boolean array returns nothing chillax end main : Q2Ya, O60aa : integer; I, b : integer array; P : boolean; chillax end

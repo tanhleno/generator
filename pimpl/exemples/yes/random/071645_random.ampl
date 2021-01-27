@@ -1,0 +1,1 @@
+program W : main : r, y46, c : boolean array; J : boolean array; while - (9990 = 8890) : do b0(- 34 = 7); when case 4 = 1 : output ""; pop end case 15 : pop end case 7070 : chillax end otherwise : pop end; let s[93] = array 9 end end

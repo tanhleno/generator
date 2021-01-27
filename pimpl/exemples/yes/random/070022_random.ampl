@@ -1,0 +1,1 @@
+program Z : main : aB, J8, F, x6 : boolean array; when case not rE5a[48] or(2) / not 791 - 881 and 3 = - 836 * 56 : input UKi0[8] end case - (4) - (232) and 242 : chillax end; do PhXa(not(7) rem R /= - jPu + 647 - 578, - hH and 6480 = 6) end

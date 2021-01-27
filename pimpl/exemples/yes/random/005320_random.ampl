@@ -1,0 +1,1 @@
+program J : u7Naa : takes A, h, b, _ : boolean array returns boolean chillax end o330a : takes F, k7N, w, q9c0a : integer array; HX : boolean array; ST : boolean array; f060a : integer array; E, t : integer array; V, tG : boolean returns nothing chillax end main : A : integer; output "8\"0a" . false and 7 = - 2 . - 9 . 7 = 0 . 519 end

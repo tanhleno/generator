@@ -1,0 +1,1 @@
+program W70 : fi5 : takes G : integer; OG2a, On : boolean array; zv, l : integer; C9C0 : integer array returns boolean chillax end main : while 24 / (2) + r0(08000) / 15 and 7500 or true - 688 = not(286) / not 419 and 1 - not 7280 and 64 : do w95a(- 6); pop end; do dR(8 - 5 <= - (93) - 445, not 6 and 9 - 16 - 5 > - 14200); input o00; while 80600 - 578 >= 43 : chillax end end

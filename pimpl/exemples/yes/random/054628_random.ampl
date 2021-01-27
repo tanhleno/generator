@@ -1,0 +1,1 @@
+program a : r2 : takes u : integer array; fX, V : boolean array returns boolean array V, b, H, x3, x : integer array; H, xGva : boolean array; input P[s and 0] end y0 : takes x3 : integer; f, h5, Zf, W : boolean; p180 : boolean array returns integer chillax end main : S, b, d : integer array; chillax end

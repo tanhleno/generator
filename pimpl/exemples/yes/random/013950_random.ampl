@@ -1,0 +1,1 @@
+program E9 : V : takes n, F, T3 : integer array; h, D : boolean array returns nothing L70a : boolean array; do W(- (83) and 71); while - 3 - 94 > 0 : chillax end end P7wa : takes y : boolean array; w : integer returns nothing do Y(- 1 - 86); input u end main : cX1, m6, gG4aa, W : boolean array; C : integer; S, HD, r, J8 : boolean array; pop XF(2) * false and 44 + 52 + 19 end

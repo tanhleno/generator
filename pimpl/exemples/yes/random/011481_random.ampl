@@ -1,0 +1,1 @@
+program U63aa : F : takes W, q750a, t2 : boolean array returns nothing pop; pop 647 end d : takes N, O5, p : boolean array returns integer chillax end E8F : takes Sr : boolean array; ne, U, Zy20a, n, l050 : boolean returns nothing N : integer; l, a5M : boolean; i : boolean; pop; when case 942 : pop end case 6 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program U7 : k : takes RR5, s, p8, k : boolean returns nothing g : boolean array; nU, y, p3C : boolean; chillax end main : Y62 : boolean; output ""; when case - 48 >= - H + 76200 : chillax end otherwise : chillax end; pop end

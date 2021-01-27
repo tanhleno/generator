@@ -1,0 +1,1 @@
+program _ : B98a : takes V2 : boolean array returns nothing let I[false and 692 or 2 - 0] = - 01 end W2 : takes O8, _03, v, V, q, i0, R : integer returns integer array f, _3 : integer; chillax end p : takes K : boolean array; i, K, Bg00a : integer array returns boolean chillax end main : while not true > - not true and 1 and 5 + 60 and 3 + 84600 - 5 : chillax end end

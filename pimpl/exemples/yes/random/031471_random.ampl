@@ -1,0 +1,1 @@
+program B : h : takes k, pS : integer returns boolean chillax end main : o, T3 : boolean array; when case true rem not true / true : output 7 . "5e!" . 8; when case 4 = 2 : while 3 : chillax end; pop end otherwise : chillax end end case E(79) / true and 948 + not 1610 and 98400 + 82 : chillax end otherwise : do n(91) end end

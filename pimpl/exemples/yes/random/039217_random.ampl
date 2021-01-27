@@ -1,0 +1,1 @@
+program Q : Q : takes Y9Taa : boolean array; C5, U38 : integer array returns boolean array chillax end tT : takes w : boolean array returns nothing chillax end main : output not false * (7) - (654) and 40 - 4 - 580 >= true . ""; output(671) and 7070 >= - 3; let P = array T and 51 - 0 end

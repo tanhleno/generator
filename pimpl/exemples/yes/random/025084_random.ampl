@@ -1,0 +1,1 @@
+program E : k3Qa : takes i, qV9 : integer; Lw6, r95, t, N33 : boolean returns nothing cvna : integer array; Eq, w79 : integer; chillax end A : takes q, a5j, S, r, r6Aaa, v8E0 : boolean array returns integer array o, c : boolean; do d(- 8 - 742) end main : chillax end

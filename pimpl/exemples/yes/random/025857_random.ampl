@@ -1,0 +1,1 @@
+program YQn : Ye8 : takes TY, p5 : integer; B59, p : integer array returns integer chillax end P : takes Z, v, D09aa, J, O : boolean array returns nothing yKB : integer; chillax end main : do wXI(- m + p7(2) - 4 and 5); pop; when case - 264 and 8130 or 278 >= 1 - 2 : do l690a(5) end; output 14100 = 96800; when case 9 = 479 : chillax end otherwise : chillax end end

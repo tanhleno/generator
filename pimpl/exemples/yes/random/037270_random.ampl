@@ -1,0 +1,1 @@
+program E : Dv5 : takes S : boolean; C : integer returns integer array output - 8 . "" . 9; while 033 <= 1 : input _1 end end O : takes B020 : integer returns integer i53 : integer array; k : integer array; chillax end F3Z0 : takes Qn : boolean array; Fs, ok : integer array; m, A, ej8, dx : integer array returns integer K : integer array; chillax end main : output "" end

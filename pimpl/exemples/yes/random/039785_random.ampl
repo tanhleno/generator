@@ -1,0 +1,1 @@
+program s88 : A6x : takes h9 : boolean array; z5 : boolean array; _, b, T3g : integer returns nothing chillax end main : k : integer; input U00[L0[34] - (4)]; when case - true - (24) and 7 : let x[6] = 4 end case true and 7 + 53 : do YU(0, 9) end case 70800 - 3200 : do UZ(83); input P5D end case 09 : while 3 : chillax end; pop end otherwise : do b(4); pop; output "" end end

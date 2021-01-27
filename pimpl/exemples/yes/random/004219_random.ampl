@@ -1,0 +1,1 @@
+program Y : f : takes b1d, J, A98, g6 : boolean; y, WT, E, W : boolean array returns integer array W0, z2 : integer; l680a, FP : boolean array; chillax end k : takes LA0a, E0 : boolean; U0I, _96 : integer; pc4, _Kt0 : boolean array returns boolean array chillax end main : while 92 and d(9) * (46) and 46 : let w[- 97] = 00; input BpL0; let H_t = 26 end end

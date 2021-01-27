@@ -1,0 +1,1 @@
+program G : main : R2 : boolean array; while - false < not false * (4) and 5 + zw1 + 280 - 5 : input ft0aa; output "\"" . "8" . "c"; let v = array 0 end; input f[- not E]; let gn[not 18 and 82 - 05 - 70] = array false end

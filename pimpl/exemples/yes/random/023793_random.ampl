@@ -1,0 +1,1 @@
+program i : t : takes I, g : boolean returns integer k : integer; C : integer array; do Q(- (7) <= 6 - 0170) end main : S6D0 : integer; while e7 : chillax end; while - not true / 1 and 893 + true : chillax end end

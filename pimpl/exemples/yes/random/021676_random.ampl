@@ -1,0 +1,1 @@
+program w : orQ : takes d, y : boolean array returns integer J, K : integer array; input Dk end main : when case - false * false or true rem(82) and 70500 + 46100 - 2 - 8 >= - (4) rem false and 8 or 774 and 0 : chillax end case U(3) and true : output "" . 23 end otherwise : do k38(03 = 6170) end end

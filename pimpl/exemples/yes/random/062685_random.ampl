@@ -1,0 +1,1 @@
+program y2 : o : takes z : integer returns integer array chillax end _ : takes A, u, gv, h, L8, P, z640a : integer returns nothing X : boolean array; M9 : boolean; output 0 . "_"; let f20 = array 22; do LwM(77) end main : while - (540 = 1) rem 5 + (50) - not 6 + 44 - 1 /= - false : chillax end end

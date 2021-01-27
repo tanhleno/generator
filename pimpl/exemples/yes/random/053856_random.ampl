@@ -1,0 +1,1 @@
+program Z77aa : m : takes r : integer array; p2, e, ew00, d : integer returns nothing G3, w : boolean array; i7, oFV : integer; while - false : pop 55 end end main : when case - false : chillax end otherwise : output 9 . 8 . "\t]!" end end

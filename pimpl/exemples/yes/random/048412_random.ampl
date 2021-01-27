@@ -1,0 +1,1 @@
+program p8 : R : takes fz : boolean returns nothing hS : boolean; output 46 <= 0 . ".v!a" . "" . "" . "" end O : takes s440 : integer returns nothing V : integer array; A : integer; chillax end main : R, fgh0a : boolean; dO : boolean array; o : boolean; QC, J : integer array; P : integer array; pop not(1) rem not 6 or true or 7 - 5; while - 4 * false : chillax end; pop end

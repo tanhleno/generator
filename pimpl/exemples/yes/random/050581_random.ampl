@@ -1,0 +1,1 @@
+program b : vx40a : takes Z600 : integer; Vl, t : boolean array returns integer array input k[- (85900)]; when case 0 - 16 < 1 : pop end case 97 = 6250 : chillax end end main : do B(- 4 * 42 + true, - false - false and 69000); when case - 93 or true and 80900 or 4120 : chillax end otherwise : chillax end end

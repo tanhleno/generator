@@ -1,0 +1,1 @@
+program m : main : B : boolean; aw, H : boolean; while 5 > - false : chillax end; when case false * (6) and 6 + not 3 - 3 - 22 : when case 9 = 5 : chillax end; while 13900 : chillax end; while 242 : chillax end end case false and 3 or 3 - 71 <= - 5 - 3 : chillax end otherwise : do F(34) end end

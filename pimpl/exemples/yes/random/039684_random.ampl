@@ -1,0 +1,1 @@
+program ye8 : J : takes IeL0 : boolean array; o : boolean; Y : integer; w, OL : integer; bm3 : integer returns integer array o42aa, q : integer array; while 5 and 09 < - 60300 - 31 : while 6 : pop end end end main : chillax end

@@ -1,0 +1,1 @@
+program a : s : takes u8r, K7, X1Qa : integer array; ec, tIk, xS5aa, Qr2, X, l4 : boolean; je3, dl, P, s, FP : integer; D, h : integer; j, m : integer; F : boolean array; _ : boolean returns integer output "R"; pop; when case 6 : pop end; pop 5; pop; input i end main : do dK6(false * true + true >= - b / false + not 16 and 37, - true); input n[- B40] end

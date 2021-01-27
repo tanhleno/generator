@@ -1,0 +1,1 @@
+program N : k : takes d8 : integer array returns nothing chillax end X350 : takes G, D, m5 : integer array returns nothing T : boolean array; L : integer array; d : boolean; l8t : boolean; chillax end main : chillax end

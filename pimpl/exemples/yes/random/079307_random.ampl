@@ -1,0 +1,1 @@
+program N : main : k : boolean; h : boolean; while - (3 = 7) >= - false : chillax end; while false and 9 and 11 + false and 5 >= - (6) or 1 : output 87 . "]" . "^~!a"; when case 08 : pop end; pop; pop; pop end end

@@ -1,0 +1,1 @@
+program I : Y6L : takes a3Ca, mF, a, KP, Fw, w, mflaa : integer; n, bI0, Vk, B : integer returns nothing pop; when case 95 >= 3 : output ""; do P67(6); pop end otherwise : chillax end end q : takes Oa, A : boolean array; A, lSM, J, n, d, I1 : integer array; m1m0, Q : boolean array returns boolean array chillax end main : l, X : integer; chillax end

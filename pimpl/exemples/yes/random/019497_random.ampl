@@ -1,0 +1,1 @@
+program KP7 : wa : takes E7, W : boolean array; x, D51a : integer array; Ki : integer array; Z, O3x : integer array returns nothing QM, zg, J5ha : boolean; when case - d and 8 : pop 36; when case 8 : chillax end; let Th = 6 end case 4 - 7 <= 0 : chillax end end main : chillax end

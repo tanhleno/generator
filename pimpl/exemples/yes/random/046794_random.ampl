@@ -1,0 +1,1 @@
+program e : f9v0a : takes ET : boolean returns integer array let r = array(1) and 804 end NNOa : takes i, R : integer; R49, k : boolean; M : boolean; JC : boolean returns nothing chillax end main : when case(715 = 939) * (9) >= x4(16) / (10100) : output "" . 4 end case false rem true and 1 : chillax end otherwise : chillax end end

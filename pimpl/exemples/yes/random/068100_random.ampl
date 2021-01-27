@@ -1,0 +1,1 @@
+program kh : main : cp, N, Q, D7, L6, a, u3 : integer; fx3, F6, r, V9, i7f, g1y0a : integer array; do Si(188, h[7] / not 56 and 82900 - true and 8, - (3670)); when case - false / (09) and 1 = - 1 - 5 : pop 4 end otherwise : do SoH(34) end; output "" end

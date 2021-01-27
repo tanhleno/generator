@@ -1,0 +1,1 @@
+program U : A : takes T : boolean array; T, M, q, j : integer array returns nothing i, v2N, U, R : integer; output ""; while 092 - 9 : chillax end end main : r : boolean; a : integer array; c3, ty : boolean array; o : boolean; m : boolean; h3, P0v0 : boolean; pop end

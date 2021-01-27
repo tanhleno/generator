@@ -1,0 +1,1 @@
+program KBH : l : takes i, i : boolean returns integer while 17 and 51 : while 3 : pop end; pop; let W = 9; pop end end main : when case not 6 + true rem 4 and 9 or 3 : chillax end case - not not 9 : let nSi[212] = 3 end case(790) and 8 + 19 - 462 <= - 58 : chillax end otherwise : do AY(19 = 8, 135) end; do A(8) end

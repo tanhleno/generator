@@ -1,0 +1,1 @@
+program s : s : takes eJ5, m, c, t1z : boolean returns integer j, me : integer; u : integer array; m2waa : integer; o : boolean; e : boolean; chillax end main : mx, U, r3u0a : integer array; pop - false - false and 919 <= - (1) and 8 or 3 - 3360; pop true end

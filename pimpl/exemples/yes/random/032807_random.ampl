@@ -1,0 +1,1 @@
+program YE : C9c0 : takes z92, I4 : integer returns nothing i : boolean array; m, T : integer; m4raa, M, jC : boolean array; chillax end N : takes C6 : boolean array returns nothing V, o : boolean; output 5 = 9 end main : Y, U, _dY, o, M, IB : integer array; let w[- false + true] = array - false rem true or iC6[5] or FC and 6 or 7 - 2910 end

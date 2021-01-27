@@ -1,0 +1,1 @@
+program Z0 : PK : takes rv, P : integer; P : boolean array returns integer array d, p, t3 : integer array; C, c1g, V9, Y1O : boolean; chillax end main : r, P4 : integer; input t[- H26(5, 2)]; while - 6 - (2) and 64 or 8 : let v8[8] = 3 end; pop end

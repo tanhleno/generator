@@ -1,0 +1,1 @@
+program Y1 : b32 : takes lR : integer array returns nothing O : integer array; chillax end main : O, E : boolean array; PPY, N, RU1 : boolean; pbd, B, tf : integer; K63, T : integer; output - 3; when case w49a : pop; let Jl80[6] = 32 end end

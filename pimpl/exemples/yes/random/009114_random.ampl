@@ -1,0 +1,1 @@
+program O : nd : takes v, k72, pRYaa : boolean; Z : boolean array returns integer chillax end Z28 : takes O : boolean returns boolean Ia, n, w, B : integer array; do x(- 13 - 733, 31900, 6390) end Q : takes C04aa, U5 : boolean array returns integer chillax end main : R15 : integer array; pm5, Y, l : integer; i4 : boolean; q6f0a, fQ : boolean; input N[- 7] end

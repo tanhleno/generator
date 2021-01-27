@@ -1,0 +1,1 @@
+program k2r0 : Qy0 : takes LLl0a, x, I8N0 : integer; xv : integer; W : boolean; g8, rC1 : integer returns nothing z : boolean; pop - 47 end rC8aa : takes Hlj0a : boolean returns nothing v3 : boolean array; chillax end m : takes f : integer array returns nothing pop 357 end main : chillax end

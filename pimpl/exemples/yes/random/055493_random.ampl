@@ -1,0 +1,1 @@
+program v : Y : takes b98a : integer array; b : boolean; Y770, F3, l : boolean array; U : integer array; Z, i, q : integer array returns nothing chillax end Ez : takes e, r, j2 : boolean returns nothing G4saa, U7 : boolean; let m[- 8 - 07] = array 6; output "p" end main : do i(- false - 528 rem(43300) <= - (4), (920) * false and 85, (9) and 4 >= - 09 - 02, - 1, 85900 = 78, 9) end

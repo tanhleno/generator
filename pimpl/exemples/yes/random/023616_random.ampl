@@ -1,0 +1,1 @@
+program N : Xe : takes K, u47 : boolean returns integer chillax end C4p0a : takes jX, h, C7s, qp : boolean returns nothing bS, l, U : boolean array; output "[" end main : let W6 = array(326) + KT * true and 54 - true and 211 end

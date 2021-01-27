@@ -1,0 +1,1 @@
+program V : hW5 : takes I25, p, q : boolean; J0, s1 : integer; L, bN, niU, HF_a : integer array returns nothing chillax end c : takes o18a, q0v, dF : boolean array returns integer array chillax end main : AfZ, d, W600a, F, J08, s : integer array; e : integer array; a, TZ0aa : integer array; while - false : chillax end end

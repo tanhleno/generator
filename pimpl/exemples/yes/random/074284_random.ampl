@@ -1,0 +1,1 @@
+program G9D0a : main : U, e : boolean; output ""; when case - false - 26 : chillax end case false and 53 - 1 - 1 > 4 : output "\\" . "44"; let w = 501; when case 45 : chillax end end otherwise : do j(83, 0); when case 3 : chillax end end; output - 293 - 62 > 7 end

@@ -1,0 +1,1 @@
+program Q : _ : takes t, b2 : boolean; k, h, rHJ0, V : boolean array returns integer array z : boolean; do s(K > - 581 - 1); let V[- 8 - 328] = 745 end Il : takes W : integer array returns nothing while 80600 - 38100 : output "\"'a" end end main : wH, i6, E9S : boolean; n : integer array; chillax end

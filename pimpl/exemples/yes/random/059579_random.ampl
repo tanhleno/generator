@@ -1,0 +1,1 @@
+program F : e : takes f : integer array returns integer pop 9 - 52 >= 84; pop 8 end main : output - false * not 0 > (4) or 7 - 37 . P or 4 - 8 . "S9" . 59; when case - not false * not 87 and 2 or 5 and 47 <= 47 + 6 - 8 : chillax end end

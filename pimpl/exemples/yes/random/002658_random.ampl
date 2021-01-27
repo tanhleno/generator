@@ -1,0 +1,1 @@
+program c : i : takes ZH, W61, L9Daa, B6, O : boolean array returns boolean array while 7 : input g[39] end; when case - 1 - 78 /= 65800 : chillax end end j : takes Q90aa, W : boolean array; H7Y : boolean array returns nothing u4, a : integer array; q4H, Y, e : boolean; Q3 : boolean; let G[- 75 - 11] = array 2 end main : Ev, Z : integer array; pop end

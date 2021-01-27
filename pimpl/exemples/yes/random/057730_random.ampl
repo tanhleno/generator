@@ -1,0 +1,1 @@
+program W : J : takes tN : integer array returns boolean array X, t : boolean; chillax end EW0 : takes O, R3 : boolean array returns nothing chillax end L : takes oG : integer returns nothing F : integer array; chillax end main : output(3); input n[- true rem(84) and 1]; let rVi = 84 - 649 = 0; input I[- 4]; while 3 = 6 : when case 6 : chillax end; pop end end

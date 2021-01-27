@@ -1,0 +1,1 @@
+program TJP : O : takes x6, O : boolean array; W : integer; a, T : integer returns nothing D : boolean array; chillax end p : takes M : integer returns boolean array while 9 <= 382 : chillax end; while 83 = 750 : chillax end; output 8 . "8" end main : output AyR * (4150) . "\t\n" end

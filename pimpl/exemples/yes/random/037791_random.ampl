@@ -1,0 +1,1 @@
+program k : Wg8 : takes b : boolean array; E, na00, k130a, t : boolean returns boolean array o7 : integer; r840a : integer; let Q[(3240) + 891 - 10] = - 438 end T330 : takes AL : boolean array; A : boolean array; z07 : integer returns nothing let p9 = 93 end main : chillax end

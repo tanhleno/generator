@@ -1,0 +1,1 @@
+program F : main : rEA : integer; do Q3(- not false rem 8050 or 8); when case false : chillax end case U or 4 : chillax end otherwise : while 5 : pop end end; input Jl[false and 16]; let R = array - 4 - 30200 end

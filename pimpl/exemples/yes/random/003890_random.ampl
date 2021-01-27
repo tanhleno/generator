@@ -1,0 +1,1 @@
+program r : O : takes V, x, qv, c13, H15 : integer array returns nothing QT2 : integer array; chillax end q : takes CeV : integer returns boolean array Z : integer; C : integer array; chillax end main : chillax end

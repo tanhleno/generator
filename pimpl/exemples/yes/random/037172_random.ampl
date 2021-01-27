@@ -1,0 +1,1 @@
+program n : Z1 : takes T_ : boolean; B : integer returns boolean array chillax end main : jB7aa, LJ80a : integer; when case false - true or true and 90 > v + true + 89700 : while 55 > 1 : chillax end end end

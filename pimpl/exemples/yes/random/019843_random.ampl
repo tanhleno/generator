@@ -1,0 +1,1 @@
+program fk : J : takes v, f : boolean array; Pe : boolean array; lk6a, q : boolean array; H : integer array returns nothing do T(false, 8 > 2, 62 = 18000, 7) end u7 : takes B510 : boolean returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program l55aa : main : C8e0, _ : boolean array; when case - f(13) / false rem 664 and 9 + (437) rem false > not false : when case - 6 : let u0 = 7 end case 4 : pop end; input TK; while 332 : pop end end case false and not 0 : chillax end otherwise : while 97 : when case 262 : chillax end end; pop end end

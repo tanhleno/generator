@@ -1,0 +1,1 @@
+program mD : GX_a : takes J, T6C : boolean array; Zd : integer; i : boolean array; Z : boolean returns nothing u, y : boolean; W69aa, Hc, r340, v5s : integer; E : integer; c, Kf : boolean; N : boolean; w90 : boolean; chillax end fy : takes Z : integer; Ufp : integer returns integer chillax end main : do fT70(false or H * true, - true, 7 or 4 - 8 > 82, - 36) end

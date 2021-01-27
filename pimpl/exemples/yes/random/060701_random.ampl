@@ -1,0 +1,1 @@
+program vm5 : I : takes F : integer array returns nothing d3 : boolean; chillax end ytKa : takes K : boolean; g, R49 : boolean returns boolean N, V9 : integer; chillax end main : V, E23, FF9, x7, W31 : integer; let A = array 70 rem p(4720) + true or(0) end

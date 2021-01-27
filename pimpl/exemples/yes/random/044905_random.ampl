@@ -1,0 +1,1 @@
+program zwc0a : p : takes H : boolean array returns nothing yf : integer array; output 6 . 172 = 2 . "" . "G" . ""; output "8"; let Z = array 940 end Q88 : takes q380a, xd70 : boolean array returns nothing X : boolean array; B, X090, F : boolean; O : boolean; chillax end main : output "" . "_{!" . 5; do e((880), 8 = 8570, 96 = 5, 35 = 5, 626, 863) end

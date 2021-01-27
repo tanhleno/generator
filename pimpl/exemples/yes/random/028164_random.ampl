@@ -1,0 +1,1 @@
+program E : Iv70 : takes e, Wh : integer array; Y0 : boolean; op4a : boolean; m, E, pA : integer; S, P : integer array; BQ : integer array returns nothing N, f4 : integer array; output 59 - 9 < 4220 end main : chillax end

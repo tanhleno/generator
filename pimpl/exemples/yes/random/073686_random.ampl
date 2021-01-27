@@ -1,0 +1,1 @@
+program q : main : Y, k : boolean; z37, d : integer array; gi : boolean; input h[false]; let P[- not true] = array true rem 5 and 9500; output - 1 - 33 . 77 = 2; pop; let u[9780] = array 8220; input Q; while 6 : chillax end end

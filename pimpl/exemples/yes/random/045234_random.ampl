@@ -1,0 +1,1 @@
+program N : R : takes FU : boolean array returns nothing when case - not 7 = 0 - 84 : while 500 : pop end end end main : b : integer array; F : integer array; while - 5 / false and(08) >= false + (6) and 74 + 21 - 28 : let P49 = array - 9 end; output 0960 . "" . ""; let k[false and 56 - 4] = - 02; do O28(- 6 - 051 = 59) end

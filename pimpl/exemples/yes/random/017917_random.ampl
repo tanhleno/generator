@@ -1,0 +1,1 @@
+program w : n : takes I, PT : boolean; i : boolean array returns nothing chillax end j : takes u0_0a : integer array; k330a : boolean returns boolean array let N0 = array 3; when case 35 : while 0 : chillax end end case 50 : chillax end otherwise : pop end end main : N, TJ, k : integer array; chillax end

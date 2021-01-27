@@ -1,0 +1,1 @@
+program R : l27a : takes Y : boolean returns boolean fl6 : integer; chillax end pl : takes EYl0a : boolean array returns nothing input r9; do O9(5, 9, 851); output "E" . ""; input t; let sHY = 85; pop end main : Z : integer array; k0E0a, b : integer; C, CRX : boolean array; q : boolean; input S8[3 and 2 rem(32) or 3]; do Pn80a(- not(63) + true + 83, - false and 115) end

@@ -1,0 +1,1 @@
+program U : h : takes h : boolean array; O0, G3c : boolean returns nothing let Z28a[- true] = array not 4 - 0 - 5310; when case - 3 - 651 : when case 51 : chillax end; input T0caa; pop end otherwise : output "0\\0" end end main : chillax end

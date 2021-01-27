@@ -1,0 +1,1 @@
+program Ea : main : pop; when case false or not 44900 and 95 <= false and 02 : chillax end case - not 4 + 21600 - 28800 : pop; output "\\"; while 67 : chillax end; pop end; when case - y and 641 + 4 : output 95; when case 266 : chillax end; while 3 : chillax end; pop end otherwise : when case 67 : chillax end; do ydZa(35) end end

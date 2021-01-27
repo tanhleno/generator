@@ -1,0 +1,1 @@
+program C6 : B2 : takes q7 : integer returns nothing when case(8) : output 88 end case 3 - 54 < 04900 : when case 5430 : chillax end end case 39500 : when case 96 : chillax end; pop end case 5 : chillax end end main : chillax end

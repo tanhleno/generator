@@ -1,0 +1,1 @@
+program MA : d74a : takes fl10, R, E, k2 : integer array; LIK, Xl4, h : integer array; u6u0 : boolean array; L3, K, ji : integer array returns nothing output "" end c : takes S0L, s76 : integer array; E : boolean array returns integer array L : integer; k, B, S1 : boolean; chillax end M : takes H9, i7B : boolean array returns nothing chillax end main : chillax end

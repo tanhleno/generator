@@ -1,0 +1,1 @@
+program SQ : main : um4a, oGt0a : boolean; w, D, g, R18a : integer array; when case - false - true - 6 > (81) rem true and 2 or not 32 or 7790 - 92 : when case - 890 - 1 < 841 : input K; output ""; pop end end otherwise : chillax end; when case - 09 : let F = 0 end otherwise : while 7 : pop end; let i = 45 end end

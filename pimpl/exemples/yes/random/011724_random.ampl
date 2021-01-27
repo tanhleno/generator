@@ -1,0 +1,1 @@
+program Z : P80 : takes Y, F, ep : boolean returns boolean c33 : boolean array; _9m : boolean array; oa : boolean; input a; output 1 = 22 . "" end main : Y, J, fJ8 : integer; i : boolean array; pop - lq and(0); while true / false - (1) and 5 + 2 - 9 = - true : chillax end end

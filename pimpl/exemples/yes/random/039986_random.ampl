@@ -1,0 +1,1 @@
+program v : E : takes P : boolean array; Ky20a : boolean array; K : integer returns integer chillax end K : takes fN : integer array; t5 : boolean; T : boolean; o500 : boolean; Y, qB1 : boolean returns integer array output ">"; pop 551 end Xvh : takes l : integer array returns integer array H7 : integer; chillax end main : chillax end

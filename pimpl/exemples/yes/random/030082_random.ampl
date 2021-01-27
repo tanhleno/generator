@@ -1,0 +1,1 @@
+program F : sJ7 : takes Zf, z : integer array returns integer Bp : integer; D : boolean array; n : boolean array; R5 : boolean; pop; output 3 = 4 . ""; input Fru[874]; output 37200; when case 819 : chillax end; pop end main : chillax end

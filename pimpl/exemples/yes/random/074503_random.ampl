@@ -1,0 +1,1 @@
+program Q3fa : main : dJ80, n4 : boolean array; do N(- not(2) + 53 / 7 and 01100 or not 3 /= (2050) + (8), - 68 and wD and 1 < false and 7); input ts; output - 1 - 3 >= 9 . "380"; when case - 24400 : chillax end case 1 = 7 : do gwW(9); pop end case 3 : pop end case 3 : chillax end otherwise : input El; pop end end

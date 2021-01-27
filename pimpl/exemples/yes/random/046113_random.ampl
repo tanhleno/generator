@@ -1,0 +1,1 @@
+program T9 : Y : takes y3 : boolean returns boolean h4, s9 : boolean; chillax end f : takes mJ : integer; gJ10 : integer array; wq, i, G0 : boolean array returns boolean array let W6q0a = array 80 - 574 end main : OP9 : boolean array; chillax end

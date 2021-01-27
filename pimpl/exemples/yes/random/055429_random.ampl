@@ -1,0 +1,1 @@
+program q80 : D : takes o : integer array; gTS, d : integer returns nothing s : integer array; L440, g, ql, i : integer array; when case - not 51 and 05 - 26 - 1 : chillax end case - 4 = 7680 : chillax end; pop 5 end main : chillax end

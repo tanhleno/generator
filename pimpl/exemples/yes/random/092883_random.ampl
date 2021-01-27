@@ -1,0 +1,1 @@
+program n : main : output "" . - false and 3760 /= 3 . 966 - 95 >= 6 . "" . ""; when case - o3(9) and false : let I = 0; input Rdr end otherwise : output "K"; while 067 : chillax end; while 256 : chillax end end; pop; let af6 = 9 = 76; pop 53; let j[2] = 6260; let P5d0 = 4; let P31 = 337; pop end

@@ -1,0 +1,1 @@
+program r7 : j : takes CE, Rk, y, o510, g8 : integer returns nothing chillax end a : takes Y : integer array; d : boolean returns boolean array p : integer array; chillax end main : Pk3 : integer; output 1 * (2) and 108 + not 1 and 305 + 69 . "G" end

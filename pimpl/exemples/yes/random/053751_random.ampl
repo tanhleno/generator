@@ -1,0 +1,1 @@
+program l8taa : qp : takes S : integer array; hLX0, SX9, j1, o : integer; G, vd90a, G, fRA, WL : boolean returns nothing v2 : integer; pop - 33 /= 130; output 3 end main : m6, g : integer array; chillax end

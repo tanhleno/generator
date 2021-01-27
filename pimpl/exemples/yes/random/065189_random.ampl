@@ -1,0 +1,1 @@
+program y : l9 : takes lY40a : integer returns nothing input aT[- true and 5] end i : takes J : boolean returns integer array chillax end main : let zy = - not X rem not 15100 - true and 3; when case - 0 * (1300) >= (3210) or 23 - 52000 : chillax end; do C(- true and 3 - 5 = 29) end

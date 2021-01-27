@@ -1,0 +1,1 @@
+program hY : JG8 : takes n, kD80, XA, m4, d, Ff3 : integer; f, RA4 : boolean returns boolean array chillax end JL : takes d5, s4 : integer array returns boolean array F, g, b : integer; input E0[7]; while 3 : chillax end; when case 4 : pop end; output "\nL"; output ""; pop end k : takes _ : boolean array returns nothing p : integer; chillax end main : chillax end

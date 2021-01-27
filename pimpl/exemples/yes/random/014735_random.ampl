@@ -1,0 +1,1 @@
+program O8 : Y9 : takes Z, hm, ev6 : integer array returns boolean array W : integer; while - 69 - 55 /= - 39 - 49 : do H1(571); while 0 : chillax end end end k : takes I : boolean returns nothing R270, sww0a : boolean array; u : integer; _1, rWu : boolean; chillax end main : Z, ou : boolean array; g : integer array; K : integer; do t6G((0 = 2) rem false / true and 27) end

@@ -1,0 +1,1 @@
+program Q : r8U : takes b4, U0, W, S : boolean returns nothing chillax end G97 : takes hh : boolean array; L, OI : integer returns boolean array while 15 - 5260 : when case 1 : chillax end end; while 403 : when case 4 : chillax end; pop end end main : fo : integer array; chillax end

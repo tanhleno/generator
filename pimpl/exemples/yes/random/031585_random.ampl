@@ -1,0 +1,1 @@
+program D6 : u340 : takes by, P2D : integer returns boolean a : boolean; while y - 889 - 2 : pop; input E end; while - 1 - 642 >= 6 : chillax end; pop end u : takes E, V : boolean returns integer v : integer; while 646 > 26400 : while 95100 : chillax end end end l0 : takes w : boolean array; c : boolean array returns boolean array chillax end main : chillax end

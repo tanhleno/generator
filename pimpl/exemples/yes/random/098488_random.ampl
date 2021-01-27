@@ -1,0 +1,1 @@
+program z : main : while - not(2) * false : let M[- 74] = 26600 = 01; input g[8] end; do X(not true / not 5 and 8 or 1 and 0 or 2 - 2800 /= true, - 2 or 0110, 4 - 4 <= 62); let uJg[- false or 4] = - 3 - 5 = 0 end

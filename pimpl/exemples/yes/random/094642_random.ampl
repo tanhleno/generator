@@ -1,0 +1,1 @@
+program D : main : pop; pop - not 5450 and 9 < 6 - 769; when case - 83 : chillax end case - 4 : chillax end case 3 = 3 : while 24 : chillax end; pop end; while 313 = 7830 : let J0 = 03700 end; let z = 2; input F84; let e = 5 end

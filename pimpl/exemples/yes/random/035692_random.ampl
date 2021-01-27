@@ -1,0 +1,1 @@
+program O : x : takes w : boolean; R : boolean array; QG2, QM7 : integer returns integer array input x6; pop; let H[305] = 3; output 842 end X : takes w, c : integer; V, D : integer array returns nothing y : integer array; V : boolean array; C4 : boolean; fw : boolean; pop 8 = 2 end main : g : boolean array; chillax end

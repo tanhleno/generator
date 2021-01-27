@@ -1,0 +1,1 @@
+program bs6 : X1 : takes aJ, qu, NLva, u3O0, e : integer; K, z, I : integer array returns boolean d : boolean; chillax end C2F0a : takes l, A8i : boolean returns nothing do y(- 8 - 7600, 51, 2, 375); input lJ[49]; let A7[3] = array 6 end main : chillax end

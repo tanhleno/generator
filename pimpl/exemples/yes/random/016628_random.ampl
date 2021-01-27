@@ -1,0 +1,1 @@
+program l : T560a : takes J, E, s : integer returns nothing while - true and 2 or 09 : do k(61600, 6) end end bXT : takes h : integer array returns boolean M7U0 : boolean array; Xfp : boolean; input d; pop end B : takes h : integer array returns boolean array chillax end main : b, L : integer; i : integer array; e, DM : integer array; g5, f : integer; chillax end

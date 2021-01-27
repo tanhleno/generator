@@ -1,0 +1,1 @@
+program ez : P : takes cYs0, N, m : boolean array returns nothing O5z0a : boolean; do a(- 1500 - 3 >= - 9 - 3, - 01) end z : takes X0 : integer array returns boolean array chillax end main : l : boolean array; let R89[- false + not not 11700 * not 9 and 7] = false and not 0 and 1 - k and 4 /= - 98 and 20 or 72 end

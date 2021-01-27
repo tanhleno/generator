@@ -1,0 +1,1 @@
+program J : B : takes jbH0 : boolean returns nothing chillax end main : y7 : boolean array; A : integer; Q : integer array; JC : integer; do x(- not 8 + false * 87 + not 2 and 26 + 8, - true + (549) and 92 >= (38) - 2, - true and 6 <= - 9, 60400); output(8) and 3300 or 3 - 34 end

@@ -1,0 +1,1 @@
+program O : y : takes o : boolean array; Q : boolean array; Z6n0a, wF30 : boolean array; C : integer array; _, ppK0 : integer; ed, s6, YW2 : boolean array; V3 : boolean; t : boolean; C0r : boolean returns nothing k : integer array; pop end main : e, w, FB0aa, r, a6R : integer; let E5[- (7)] = (6) or true < - false and 6 end

@@ -1,0 +1,1 @@
+program B2 : fM2aa : takes a : integer; q : integer array returns boolean when case - 7 + 30 - 1 : chillax end case - 405 >= 4 : while 24 : chillax end; when case 6170 : chillax end; pop end case 9 : when case 20 : chillax end; pop end end main : J : integer; input Uf end

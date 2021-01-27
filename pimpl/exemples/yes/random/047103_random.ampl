@@ -1,0 +1,1 @@
+program Js : c0 : takes J : boolean returns integer w, F : integer; K9, gfIa : boolean; chillax end main : while - true and false = - b1 / true : input N[5 - 82]; do w2C0a(6 = 70200, 82, 6); while 7 : chillax end end end

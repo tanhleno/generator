@@ -1,0 +1,1 @@
+program N980 : _g40 : takes H, k : integer array; pq : boolean array returns integer M6, mYGa, v : integer array; k, l7F : integer; M : boolean; r, F : boolean; chillax end Aj : takes y, Fs : boolean returns nothing input BA8[- 92]; do k3taa(57) end main : s : boolean array; let L[8] = array - 84 or U0 - not 5; do wBBa(- false / 51 and 883, - not 0470 - 6) end

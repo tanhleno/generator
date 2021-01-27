@@ -1,0 +1,1 @@
+program W : B : takes q, O : boolean array; hL7a, Pk3, t1, j, zJ : integer; b, gM2a : boolean array; Fz : integer array returns nothing pop; pop 6 = 1410; output "" end main : pop - 3890 / (9) >= true - 6 end

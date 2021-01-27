@@ -1,0 +1,1 @@
+program Z2X : Ec : takes i, l, T, Z81 : boolean; o23 : boolean returns nothing chillax end main : when case - r930a or A8n0a : output 4 . "g" . "" end case Ih = - kW + 0 - 9 : output "" . 12 . "j1"; pop 42; when case 2 : chillax end end case false : output "" . ">/"; when case 57 : chillax end end end

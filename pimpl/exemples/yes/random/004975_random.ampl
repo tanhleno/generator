@@ -1,0 +1,1 @@
+program pf : U : takes Wd60, a, ep, v4 : boolean array; n, q6 : integer returns boolean array do p(b36aa = 3420, 4 - 8); output 662; pop 72 end O : takes u, K1, t8 : boolean returns nothing Y, M, q : integer array; lD, M, m : boolean; input U end main : J : integer; B3 : boolean; chillax end

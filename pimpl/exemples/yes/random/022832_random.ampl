@@ -1,0 +1,1 @@
+program Iu : V : takes b980a, X : boolean array returns nothing while not 41100 < 9 - 68 : let D[6] = 162; input l; let i = 21; pop end end main : S : integer array; KG, SM : integer; l, c4M, zx2, c, W : integer; chillax end

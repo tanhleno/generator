@@ -1,0 +1,1 @@
+program ng : v : takes f, vnY : boolean returns boolean S, Y0, J : integer; chillax end V : takes b, i : boolean array; N : boolean array; O, fw, Rw : integer array; m, v : integer returns integer when case 6 : chillax end end main : Y : boolean array; when case - not true : chillax end otherwise : when case 00 : chillax end end; let f[(9) rem true and 1] = not 5 end

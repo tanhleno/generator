@@ -1,0 +1,1 @@
+program l0 : J : takes t, E : integer array; g, x, en2a : integer array returns nothing chillax end m : takes n, Jz, g18, ou : integer array; E080 : boolean array returns nothing I : boolean array; M, pVA, g : integer array; Ck : boolean; pop 40; do k6(87800, 81200); pop 76; pop; output "&" end main : chillax end

@@ -1,0 +1,1 @@
+program yx60a : R : takes R : boolean array returns nothing while not 6 and 224 or 4 /= 0 - 9 : let H32a[84] = 35900 end end main : K7, BT, c : integer; s2, oQ, C : boolean; e, eb : integer array; chillax end

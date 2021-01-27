@@ -1,0 +1,1 @@
+program H : QG3 : takes Kt40a, D, WX0a, W2 : integer array returns boolean array do s(- not 955 >= - 27); when case - 5 : chillax end otherwise : chillax end; when case 7 = 023 : while 7 : chillax end end otherwise : pop end end main : when case - not 5 or(8760) and oq5 : chillax end end

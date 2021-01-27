@@ -1,0 +1,1 @@
+program d : G : takes Pr40, eI8 : integer; w, j : integer array returns boolean chillax end vf : takes w : integer; p : boolean; Q63, X : integer array; b6, z8, l, RZ : boolean returns integer Oz, M7, I, i : integer array; input bs60 end main : AX, T43, M : integer array; chillax end

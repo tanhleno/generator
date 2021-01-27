@@ -1,0 +1,1 @@
+program J : Z : takes A, v, g, A86, O, wns, QTU : integer; M8 : integer; _72a : boolean array; l, W, Z69 : integer array; yroa, I, ejR0, q : integer; W : integer; WG, f6E : boolean returns nothing m3Daa : integer; chillax end main : G, EDK0a : integer array; D5 : integer; Z, Yxq0 : boolean; while 9 : do y(7, 0290 = 755) end; output "9"; do TQ(97) end

@@ -1,0 +1,1 @@
+program eX : main : GZp, P, M : integer; oV : integer array; let W3Baa = - false + 0 + 5 - 55200 <= 46; when case - true and(4) + false and 00200 = - (4) and 77 : do gw30a(4 = 2, 23500); input Bq2[3520] end otherwise : let PS[6] = array 472; when case 3 : chillax end end; pop; when case 4 : output "1q!a" end otherwise : chillax end end

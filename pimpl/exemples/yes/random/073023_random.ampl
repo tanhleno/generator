@@ -1,0 +1,1 @@
+program Y : main : UQ8, f4x, q : integer array; sTG : integer array; when case not true * (3) : do jr(048 - 19); while 0600 = 44 : chillax end; output 68 end; pop - true or 34 - 93200; output "~\"a" end

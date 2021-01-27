@@ -1,0 +1,1 @@
+program R5 : i : takes D : integer array returns nothing let D[true] = - 67 - 42 >= 17 end Hf : takes g9 : boolean; WHf, VF, K810a : integer array; L1_, y81, I2, g, q : boolean array; o, C : integer array; d, w : integer returns boolean array H, O : boolean array; chillax end main : f9 : boolean array; chillax end

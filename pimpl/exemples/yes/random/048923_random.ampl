@@ -1,0 +1,1 @@
+program R1f0 : I480a : takes g0 : boolean returns nothing let k = 0 - 24; pop end Y5 : takes Z, yR : integer array; L68a, c : boolean returns integer A, j7 : integer; chillax end A : takes i, L : boolean returns integer zfJ, m02 : integer array; z : boolean; P4 : boolean; M : boolean; chillax end main : Tb4 : integer array; k6, S : boolean array; Q3 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program G : w : takes y, y0, Yn, R, R9, S : integer array returns integer array PQ, w2 : integer array; X, hP : integer; while true - 24 : let j[2720] = array 35; input HQI0 end; when case - 16 - 65 : chillax end; input c[55]; output 4; output "q"; input rB; pop end main : I : integer; Y3 : boolean array; chillax end

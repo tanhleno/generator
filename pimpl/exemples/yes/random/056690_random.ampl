@@ -1,0 +1,1 @@
+program q21 : F : takes Y9 : integer array; rl : integer; N : boolean array returns nothing chillax end c0 : takes H2 : boolean array; q : integer array returns nothing let b0P[- 5] = 18 end main : chillax end

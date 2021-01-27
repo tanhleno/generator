@@ -1,0 +1,1 @@
+program Z : tkp0a : takes vj00 : boolean; RI : boolean returns boolean array output 7 - 9 <= 398; when case 7 - 8 : let Q = 17; let g = 9; pop end; do DG(503 = 9, 82, 22) end r7 : takes e, i16a : boolean array; X : integer returns boolean chillax end main : fdI0, Ke2 : integer array; n, Q : integer; N, Sg : boolean array; chillax end

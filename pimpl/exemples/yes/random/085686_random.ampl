@@ -1,0 +1,1 @@
+program S : main : _7i0a : integer array; H790a, QrP, pj, X0 : boolean array; W : integer; input y8wa[(556 = 82300)]; let M[- j[9]] = true < - 935; while - G and 4 : pop end; do MMq(2 - 507 >= 5); while 9 : when case 45 : chillax end end end

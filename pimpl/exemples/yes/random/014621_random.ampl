@@ -1,0 +1,1 @@
+program g : K9 : takes TVraa, O, q : integer array; m4 : integer returns nothing sS2 : boolean; Z : integer; chillax end W : takes L : boolean; j : boolean returns nothing chillax end main : AR : boolean array; RoB, g, g : boolean; when case true : chillax end case - true : input qP[7]; input _[6] end end

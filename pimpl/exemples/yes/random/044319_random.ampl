@@ -1,0 +1,1 @@
+program q : X : takes Z : boolean array returns nothing S_, y100 : integer; bs : boolean array; mO, g, ah : integer; input Q1 end main : do k(860 rem true + (04400) - false and 053 - 70 < - n61aa[72] rem lj or not 24 and 5 + 859, 67300 / not 2 - 80 + 03 - 8 <= false and 2 + 4) end

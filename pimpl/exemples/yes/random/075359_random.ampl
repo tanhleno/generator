@@ -1,0 +1,1 @@
+program Y : main : w4, Wh : boolean array; G8 : integer array; when case - I5(6, 6) = false + (9) and 133 + 8 - 2120 : when case 60800 - 5 : pop end end case - 32 /= _8Taa : output "" . 475 . ""; output 5 . ""; input zt; pop end end

@@ -1,0 +1,1 @@
+program GIm : I : takes W : boolean array returns integer array DD : boolean array; do q(- (4)); pop; output "}5\"" . "" . "" end main : when case not e[608] * 2 : chillax end case r6 / false /= - false - 76 - 820 : chillax end otherwise : pop 6170; output 8 . "85" end end

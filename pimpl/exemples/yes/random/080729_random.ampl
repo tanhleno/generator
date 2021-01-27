@@ -1,0 +1,1 @@
+program x4 : main : n : boolean array; do f(not false rem 01 * (8540) and 3 /= - true, - not true /= - (5) or 7); output(8) and 3150 > 0 - 4 . "s" . "" . 76 . "C" . ""; pop - 57 - 2 <= 3; when case 4 < 964 : when case 21 : chillax end end; output "" . "" . ""; input h8; let P6q = 9420 end

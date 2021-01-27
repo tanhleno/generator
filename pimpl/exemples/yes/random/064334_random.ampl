@@ -1,0 +1,1 @@
+program HVI : Soh0 : takes VH7 : integer returns nothing a, W, V : boolean array; let g = 6 - 00 <= 93 end mo90 : takes vEf0a : integer array; hQ50a, v, S0, i59 : boolean returns boolean QKW, X2 : boolean array; c8 : integer; m71 : boolean; ZTZaa : boolean; R : boolean; pop; when case 4 : chillax end case 4870 : pop end otherwise : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program s53aa : d : takes uT : integer array; UJ1aa, A : boolean array returns nothing U79a : boolean; G : boolean; when case - false : do n4Z(2, 7) end; input C4W[- 3 - 66]; pop 722 end a : takes u, s : integer array returns nothing output "6\t" end main : chillax end

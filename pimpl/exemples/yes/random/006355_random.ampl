@@ -1,0 +1,1 @@
+program k2 : t : takes U, q, b, u : integer; z, y, P8 : boolean; Q : boolean array; s : integer returns integer array chillax end j : takes Q, n : boolean array; g, w : integer array returns nothing _ : boolean; L040a, E6, I : integer array; when case 11 - 7 : pop end case 7 : let O = 2; pop end end main : Bv : boolean array; Y : integer array; output "7" . "6" . "6" end

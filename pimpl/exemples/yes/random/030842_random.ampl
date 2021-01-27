@@ -1,0 +1,1 @@
+program b9d0a : pTx0a : takes U, VQ : integer array returns nothing V : integer; do Vx(- 1 and 30 - 7, - 7 >= 81); pop 98 end G7 : takes j, W8, gu, v, ei, TdK : integer returns integer array F0 : integer; jg : integer array; a : boolean; chillax end main : xz : integer array; input x end

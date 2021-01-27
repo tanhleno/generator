@@ -1,0 +1,1 @@
+program l5 : gVw0a : takes e360, J : boolean; x8 : integer; u, s0 : boolean array returns nothing do nuI0((06) - 041) end Q : takes K, m : boolean array; r7, s6, B040a : boolean returns integer while 21 >= 1 : when case 3 : chillax end; do bSWaa(2) end end p4 : takes e56 : boolean; T : integer array returns nothing chillax end main : jQ, A, e, knB, w : boolean array; chillax end

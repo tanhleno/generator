@@ -1,0 +1,1 @@
+program h28 : x : takes S, d : integer returns integer chillax end wj : takes c880, I25, QLKa, B, h2, M, lv : integer returns nothing n02aa, x, Wp, KUV : boolean; do o(9 - 3, 2, 714, 22200); when case 5 = 4 : output ""; pop end otherwise : chillax end end main : chillax end

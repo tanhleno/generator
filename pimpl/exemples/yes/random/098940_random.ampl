@@ -1,0 +1,1 @@
+program pz : main : while - true / true or not not 7 : chillax end; when case B and true and 2 - true - 446 - 3820 : chillax end case true and 481 : pop 51 end case 90 - 7 : let n1 = 87; output "Y2!a" end; do l(- 0 and 2 - 7 - 8 <= 5, - 26 = 9) end

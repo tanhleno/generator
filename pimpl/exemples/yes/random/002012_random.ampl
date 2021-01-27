@@ -1,0 +1,1 @@
+program x : r : takes u, w, z, i, P, O : integer returns boolean when case - 32 - 03 <= 8 : chillax end; do y(3 - 03 < 3090); pop end A7 : takes Jk, c : integer returns nothing oz, d : integer; chillax end main : n : boolean; HE : integer array; pop - not not 8 + Jx60 + 9 - 6; while - 1 * 91 and 35 : chillax end end

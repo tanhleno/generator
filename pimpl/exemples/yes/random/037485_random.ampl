@@ -1,0 +1,1 @@
+program o64a : z : takes k5 : boolean array; F, N, P, c, o, Lu, qb6aa : integer array; S4Sa : integer; w : integer array; e58aa, E : boolean; Ni, lX6aa, y2L : boolean returns boolean array Y, _, k : integer; chillax end Ok7 : takes GX60 : integer array returns nothing ySR0a : integer; pop; input a[88] end main : input H end

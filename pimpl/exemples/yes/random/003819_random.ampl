@@ -1,0 +1,1 @@
+program pu : wu6 : takes g, gd, RZ, E, _Q : integer array returns nothing chillax end main : when case - 8 and true - E(0) or false and 305 + 76 /= c1[760] + S and 776 : chillax end otherwise : chillax end; pop - not 62 end

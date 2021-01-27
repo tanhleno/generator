@@ -1,0 +1,1 @@
+program L : O5 : takes K6 : integer returns nothing when case - not 8 > 1 : do _(78) end otherwise : chillax end end V : takes na, V : integer array returns integer H1, c : boolean array; chillax end main : chillax end

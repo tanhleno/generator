@@ -1,0 +1,1 @@
+program h : vU : takes X750a : boolean array returns integer Q840a, O : boolean; lz2 : integer; P, y : integer array; k : boolean; U5Iaa : boolean; chillax end main : W, _ : boolean array; do r(- not not(6) or o(07700) rem not 0) end

@@ -1,0 +1,1 @@
+program T1 : main : L : boolean; E3F : integer; mN00a : boolean; uj, T1 : integer array; u : boolean; Z, _ : boolean; pop; while - false * not 87 or(723) + 8 : chillax end; output ""; do V(4, 7860); while 3000 = 0 : do _(20) end end

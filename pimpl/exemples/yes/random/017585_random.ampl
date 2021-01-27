@@ -1,0 +1,1 @@
+program J : J4 : takes I, vu1a : boolean; N, XK : integer returns nothing y : boolean; when case - x and 4 /= 52800 : pop 668; do j(0) end otherwise : chillax end; when case 73 - 5 < 1 : chillax end end main : U, Ns70a : integer array; P : integer array; when case true <= - true : chillax end case - false / FC : chillax end end

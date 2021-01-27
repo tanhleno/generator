@@ -1,0 +1,1 @@
+program a : main : output not sbe / p and 201 > true and 09000 + 0 - 97; do p((10) and true and 03 > true and 4 + 3 - 2, (5) and 75900 /= - 07); input n[- H and 3250 - 41]; when case 1 : chillax end otherwise : output ""; pop end; when case 51100 : chillax end; let _q = array 65 end

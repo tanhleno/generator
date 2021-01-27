@@ -1,0 +1,1 @@
+program P : main : b3, A : boolean; do B3(26000); do g(- j(39) >= - true + 4); do bp10(true - 70 <= - 1940 - 66, - 1 = 48, 38); when case - 93 <= 5 : chillax end otherwise : output "}"; pop end; while 7 = 537 : chillax end; do L7Za(0) end

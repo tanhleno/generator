@@ -1,0 +1,1 @@
+program uP : z : takes z, R, R88 : boolean; P, fK, X49, X : boolean array; x : integer; k : integer returns nothing input z; output "" . 51; output "W" . 0; while 361 : chillax end; when case 56 : chillax end end P : takes R : boolean array; _8, C, Pr4a : integer returns nothing let bxN = 3 end main : X, X7T, j, DCR : integer; do R1(- true / 65 or 2550) end

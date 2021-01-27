@@ -1,0 +1,1 @@
+program E : a : takes w : integer; q0, C8, z, h : integer returns nothing do i(- not 3 - 4 - 3750 > - 6, 0 - 1, 6 = 24) end main : m, Nn1, b, Z : integer array; MC : integer array; J : integer; N_0 : integer array; chillax end

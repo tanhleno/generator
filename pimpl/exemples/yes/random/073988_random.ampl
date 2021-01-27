@@ -1,0 +1,1 @@
+program o9Oa : main : W7caa, k : boolean; Eu : integer; when case - true - F(9) * 783 and 2 + (5) - 8 : chillax end case - not wO9a * true : chillax end case 92 <= 9 - 6 : chillax end case - 2 - 66 : chillax end case 770 = 7 : chillax end case 3 : pop end case 3 : chillax end end

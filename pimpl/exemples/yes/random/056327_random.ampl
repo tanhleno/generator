@@ -1,0 +1,1 @@
+program r : n4 : takes B6l0 : integer array; K : boolean returns integer array w : boolean; input s1[08 and 72] end main : t : integer; output - (807) / (7) or not 33 or 50900 - 8 >= - z + 26 . ""; output "" . "" end

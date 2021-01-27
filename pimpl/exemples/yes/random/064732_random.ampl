@@ -1,0 +1,1 @@
+program td9 : F : takes P : integer returns nothing K_Sa : boolean; let _ = array - true or 80 end q : takes NZ0a, O1 : integer array returns integer array U : integer; Q, X2l : integer array; chillax end main : chillax end

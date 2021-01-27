@@ -1,0 +1,1 @@
+program H : B : takes kC9, xuV : integer array; u : boolean array; d : integer; R8Y : boolean array returns boolean chillax end main : W : boolean; let l[y(30, 8)] = 6470 > - 73 and 0460; let _[X(17) - false] = false and 30 - 743; while 549 = 97 - 44 : chillax end; input LF; when case 73 = 1 : chillax end otherwise : chillax end end

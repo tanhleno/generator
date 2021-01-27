@@ -1,0 +1,1 @@
+program i8 : k : takes K, O, i : boolean; Q4, mB, q, _O, XE, I : boolean returns integer array X, d, L, I, r86a : integer; R : integer; eM : integer array; chillax end a : takes Txp0, n : boolean array returns nothing let lF[52 - 2140] = array - 61; pop; input kE; output "" end main : Z6 : boolean array; chillax end

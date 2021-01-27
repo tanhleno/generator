@@ -1,0 +1,1 @@
+program v25 : p : takes a6, nKe : boolean returns integer u, V, w, R : integer; chillax end main : wGx0a, b, v0 : boolean; while - not(4) * false / k61 and 3 : while 002 : while 583 : chillax end; output "5"; pop end end; pop false; pop; while - 7 - 3 <= 7 : chillax end end

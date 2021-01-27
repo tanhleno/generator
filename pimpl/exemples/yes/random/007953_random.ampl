@@ -1,0 +1,1 @@
+program g25 : l200a : takes W7O0a, B, Aw, k : integer returns boolean array while true - 081 - 69 : when case 719 : chillax end end; let e[- 77] = array 0; output "" end main : pop - true or not 3 and 2 or 739 - 98 > n and 01 end

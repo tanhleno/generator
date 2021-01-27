@@ -1,0 +1,1 @@
+program c : H2 : takes JI : integer array; l0 : boolean array returns nothing Np10, a : boolean array; chillax end main : th30a : integer; S2 : boolean array; when case - not false or not 64 - N and 8 > - true / false and 67 : let i = array 08; output 2 . 0 . ""; input h end end

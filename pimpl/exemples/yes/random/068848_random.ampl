@@ -1,0 +1,1 @@
+program t : main : _, S, P6, i, N : boolean array; F, i, h, e : integer array; while - not(2) / true - false rem 62 + true and 0 = true - (4) : input M; let W[9] = 5; input TC6 end; while - false : chillax end; while - o20aa and 0 < - 92 : let J7[3] = 47; pop end end

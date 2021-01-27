@@ -1,0 +1,1 @@
+program ht9 : M6y : takes x : boolean; V, P, m_40a, b, R : integer array; ulva, z7 : boolean array; p, T, cJ00a, q5Haa, i : boolean; L, V2, U : integer array returns integer array chillax end main : M : integer; chillax end

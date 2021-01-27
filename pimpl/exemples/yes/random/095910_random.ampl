@@ -1,0 +1,1 @@
+program xv : main : when case - false or true or(87) < - false / 627 and 04300 : output 97 = 9680 . 46400 . ")"; when case 232 = 3 : while 93 : chillax end; pop end case 3 : pop end; output ""; output "" end otherwise : chillax end end

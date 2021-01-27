@@ -1,0 +1,1 @@
+program j : main : u, I : boolean; c1, D5, Z : integer; i2, u, L, Q : boolean; Z : boolean array; pop - 5 * false and 9090 - false >= (6) and 709 or 800 - 8; while 97 or false and 5 or 2 - 94 : chillax end; let pl5[- false and 046] = 5 - 0 end

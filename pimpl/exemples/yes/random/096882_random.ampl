@@ -1,0 +1,1 @@
+program k5 : main : when case false rem false > - (4760) and false + (2) + 641 - 3 : let P[81] = array - 9 - 5 end case - (683) * 27100 : chillax end case MF : output 5 . "" end case - 27 : output "2'" end otherwise : while 7440 : input q9 end; do yp(298, 0) end end

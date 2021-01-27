@@ -1,0 +1,1 @@
+program j3l0a : Z : takes M : boolean returns integer qjY : boolean; chillax end F6 : takes UKO, x : boolean; Qo2 : integer array; Q, EjR, o : boolean; I, f : boolean; D, TzL : integer array; WtU, u : boolean; S9taa : boolean returns boolean array chillax end main : while - (1420 = 4) and false and 4 or 23 : pop end end

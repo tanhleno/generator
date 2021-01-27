@@ -1,0 +1,1 @@
+program o5 : J : takes Ut6, TS : integer array; a, Wj1, fu : integer array; h0, z : boolean; j, F : integer returns nothing c, s, Q_Ma : integer array; gKZ0a : integer; f, wuAaa, sX : boolean array; Q14 : boolean; J : boolean; l : boolean; chillax end main : let SAN0[T8Z0a[8] * 95500 / false and 9 or false and true and 39 or zo0a and 0] = array true - false end

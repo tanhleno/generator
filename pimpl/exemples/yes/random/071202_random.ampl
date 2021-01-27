@@ -1,0 +1,1 @@
+program r : main : R, x, m : boolean; let T[8 / not 49 / true + (23) * not 6710] = 322 <= - true; do u(Y[961] rem not 0 and 4 - (0) and 51 or 6 /= - false or 66 - 86); when case - false and 1 : chillax end case - 2 - 03 = 9 : let z3 = 2 end case 4 = 0 : chillax end otherwise : chillax end end

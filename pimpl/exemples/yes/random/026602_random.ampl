@@ -1,0 +1,1 @@
+program S : JWR : takes S300, sN2a : integer; Omc : integer; Z : integer returns nothing b9 : integer; chillax end b : takes YMyaa : integer array returns integer I8H : integer; output 3380 . 0200 end main : chillax end

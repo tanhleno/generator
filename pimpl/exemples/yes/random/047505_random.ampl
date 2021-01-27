@@ -1,0 +1,1 @@
+program Z : V : takes lK1 : boolean returns nothing chillax end Y4 : takes P : boolean array; F7 : boolean; Q, A0 : integer; J, o : boolean array returns integer array input Te[- 29 - 160] end b : takes d03aa : boolean returns boolean chillax end main : output "" end

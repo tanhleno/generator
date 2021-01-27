@@ -1,0 +1,1 @@
+program TC5 : q : takes m : boolean returns integer array let j5[- MB80 and 35] = array - 7 and 5100 end main : mHA0a, nK3 : integer array; y, D0, L : integer; L5 : integer; q, I : boolean array; do dV(- not false / 4 / hv and 71 >= - not 2); while true > - false and 3 : do Y(2); input N11a end end

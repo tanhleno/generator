@@ -1,0 +1,1 @@
+program Zx : m3a0a : takes br, M : boolean array returns nothing y : integer array; L : integer; input G[- 7]; pop 698; let V = array 17; let k[0] = array 0; when case 8 : chillax end; while 5 : chillax end end E : takes w, a8 : boolean array returns boolean chillax end main : chillax end

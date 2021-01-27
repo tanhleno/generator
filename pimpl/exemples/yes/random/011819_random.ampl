@@ -1,0 +1,1 @@
+program mA : v : takes o910a, l04, S8K : boolean returns integer array M6 : boolean array; z2, d4Y, Y, d : boolean array; let L = - 009 - 37 <= 5 end z : takes u, A : boolean; _, _, Vj : integer array returns nothing let Z9[65 - 4] = 4; output 26 end main : F, Szx, t, vX, c : integer; chillax end

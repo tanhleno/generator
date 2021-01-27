@@ -1,0 +1,1 @@
+program ljJ : main : when case not true and not false or true * 4 and 14 or 96 and 1 < - (79) or false and 50 + 2 - 5440 : let s = array 38 end case - true - not 097 : do E(399) end; output not 2 and 1 - 686 end

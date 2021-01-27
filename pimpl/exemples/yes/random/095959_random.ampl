@@ -1,0 +1,1 @@
+program M : main : when case - K4q(425, 2) - not 596 /= false or not 48 : chillax end case q[011] >= - true and 3 : let V6e[8] = array 4; input XA[2]; input y9 end case 618 + 0870 = - 3 - 4 : chillax end otherwise : chillax end end

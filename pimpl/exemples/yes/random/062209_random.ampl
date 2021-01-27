@@ -1,0 +1,1 @@
+program w1 : V : takes Irv0a : integer returns boolean chillax end Y41 : takes _7, J : boolean returns nothing A5 : boolean; let A[3 - 73] = 9 end main : RD, v, C20, Q, P, b : integer array; chillax end

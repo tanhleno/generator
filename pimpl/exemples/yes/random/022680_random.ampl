@@ -1,0 +1,1 @@
+program Qj10 : F4M : takes k, A1 : boolean array returns nothing let b[- (23)] = array - false and 8 - 77 - 4 end X : takes k, V3 : integer; p9r0a : boolean array; r : integer returns boolean do J(978 - 6); input N end main : chillax end

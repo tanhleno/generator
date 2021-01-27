@@ -1,0 +1,1 @@
+program r3 : main : while(8 = 6410) / true / true > not true and 43200 or(4) : input Nh2; do Xd(17 = 48, 9, 667); pop end; when case true * 4 : let P[18200] = array 80; output 372 end; do T(- q - 7 - 8850 /= - 5, 789); input d end

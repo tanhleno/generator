@@ -1,0 +1,1 @@
+program i7 : S : takes i : integer array returns nothing eA : integer array; input oH6aa; while 10 - 8 : chillax end end Sw : takes R : integer array returns integer array k3 : boolean; chillax end main : g30a : boolean array; pop end

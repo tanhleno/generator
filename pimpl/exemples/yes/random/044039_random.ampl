@@ -1,0 +1,1 @@
+program h7 : bLi : takes r3 : boolean array returns nothing Q, D3, J, UH90a : integer array; output - 0 - 6 . 27 = 7 end e : takes s : integer returns nothing pop 95 = 2850 end main : while not false and(1) and false <= true + 480 and 67 + 51 - 8 : let Z = array 79 - 7 end; while - W[12] - true /= - true and 8 - 3 - 4 : chillax end end

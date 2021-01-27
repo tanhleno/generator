@@ -1,0 +1,1 @@
+program d6d0a : main : d, M8E : integer; when case - not(1) rem false - false / true and 3180 : chillax end case(4) or true : chillax end otherwise : chillax end; do J(true, - X44 and 07 - 625 - 839 < - 4 - 1220, - 61 - 02100); while 3 and 1 /= - 05200 - 3 : chillax end end

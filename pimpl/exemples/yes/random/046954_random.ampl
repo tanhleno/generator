@@ -1,0 +1,1 @@
+program t4Ea : s1D : takes G : boolean returns integer chillax end main : v, A, m : integer; C : integer; j25 : integer array; gI7 : integer array; f8Z : boolean array; D : boolean; W : boolean; chillax end

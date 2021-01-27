@@ -1,0 +1,1 @@
+program n770 : o1 : takes c8, g7J0, s, v : boolean; f : integer returns boolean array chillax end main : A43 : boolean array; vSh0 : boolean array; D : integer; while l[07] /= true / (56) and 7 : chillax end; input Pn00a[not 3 + 0]; let Vj6 = array - false + 2 - 3 end

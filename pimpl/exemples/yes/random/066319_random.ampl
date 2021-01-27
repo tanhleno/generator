@@ -1,0 +1,1 @@
+program qa3 : main : do feS0(- voK[39] + (777) and(7) and 8 or KZ0 or 8 - 06 <= - not not 84400 and a, H100a[491] - (7) and 98 or 5 >= - false or 510); output "" . - 425 - 231 = 703 . "\t7" . 7 . 9 . "C" end

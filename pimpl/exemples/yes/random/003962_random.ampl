@@ -1,0 +1,1 @@
+program Y : hJTaa : takes g, g, Q7, bI, K5 : integer returns boolean chillax end main : input ia; let T = array s; output 06 > 283 . "" . 65200; when case 586 = 5 : chillax end otherwise : chillax end end

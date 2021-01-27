@@ -1,0 +1,1 @@
+program Q : main : M400a, R, B : boolean; S2Jaa : integer array; output - true /= (346) + 72 - 545; while 2 <= - e83 and 8 or 74 : do py(6, 26); when case 3 : chillax end; output "\"" end; do M(true and 2 + 9 - 9 > - 9); input r; output 8 . "!" . "\n;" end

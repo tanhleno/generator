@@ -1,0 +1,1 @@
+program x : Nc : takes v : boolean returns nothing j : boolean array; ST : integer array; while - false and 70 or 1710 >= - 9680 - 269 : chillax end end main : f : integer array; I3, X7 : integer; xWr : integer; input B1 end

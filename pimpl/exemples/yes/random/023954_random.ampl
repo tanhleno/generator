@@ -1,0 +1,1 @@
+program MO : v : takes po, p : boolean returns nothing chillax end e : takes o : boolean array returns nothing Ai : integer array; D : integer array; input H; do Q24(0090, 6, 8) end main : k : integer; chillax end

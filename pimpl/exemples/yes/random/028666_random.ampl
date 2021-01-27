@@ -1,0 +1,1 @@
+program N : x0 : takes N, w91 : integer array; i : integer; T, K, O : integer array; Xyi, t79a : boolean; E8, k, ad, I : integer; j : integer; jR, U04 : boolean returns nothing s : integer; z, Q, W, Q : boolean; E, l : boolean; k9t : boolean; l : boolean; input vJ[not 0 and 9 - 8 - 68] end main : output "" end

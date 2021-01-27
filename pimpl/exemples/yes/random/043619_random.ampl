@@ -1,0 +1,1 @@
+program m : S0 : takes Q : boolean array returns nothing chillax end F : takes D : integer; A, R : integer array; u40 : boolean returns nothing TEGa, B : boolean; NmJ, L : boolean array; chillax end main : Y, e : integer; c : integer; output "\\3" . (9710); when case not true and(5) and 3 = - (1) and 10 : do F8(9); input o_0a; pop; let ac4a = 904 end otherwise : chillax end end

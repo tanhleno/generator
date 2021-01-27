@@ -1,0 +1,1 @@
+program m : VQfaa : takes g : boolean array returns nothing U : boolean array; LP0a, z : boolean array; pop; when case 3 - 1 > 1 : chillax end case 2 = 5790 : while 5 : chillax end; pop end; when case 2220 = 4 : let l = 3 end otherwise : chillax end; while 6 : chillax end; when case 739 : chillax end end main : r, w, F38, cH9, KWM, T : integer array; chillax end

@@ -1,0 +1,1 @@
+program Q : q : takes B : integer array; S67a : integer returns integer array do A(- 35500 and 09100, - 6 - 0); let aR = 3620 end main : g : integer array; _, e : boolean; P, E9m, T : boolean; chillax end

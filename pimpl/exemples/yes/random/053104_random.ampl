@@ -1,0 +1,1 @@
+program P : i0 : takes AB : integer; g : integer returns boolean array chillax end y : takes Nl1 : boolean returns nothing chillax end v : takes jB0, r, Aew0a, h : integer returns nothing yr7aa, b9, k2aaa : integer array; chillax end main : when case - 8 rem f[5] + (6) rem true and 8 <= - m1T[8] + false : chillax end end

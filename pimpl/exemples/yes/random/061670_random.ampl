@@ -1,0 +1,1 @@
+program x : r : takes S50a : integer array returns nothing while true : chillax end; pop 46; input f[7340]; while 615 : pop end; output "" end main : output "" . "\n\"0a"; let y = - h3 and 675 or 92 - 94900 = 2 end

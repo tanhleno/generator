@@ -1,0 +1,1 @@
+program d : G : takes X : boolean array returns integer L, eP, ZL, I : integer array; A, f, e, _ : boolean; e : boolean array; let w = array true and 1 or 77; pop end main : N7, t4 : boolean array; chillax end

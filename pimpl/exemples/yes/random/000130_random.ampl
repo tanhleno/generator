@@ -1,0 +1,1 @@
+program ZM : E : takes I, N1G0a, z90, f, nhb0a, t, z, B8 : boolean array; s71a : integer; i91, Y, O : boolean array returns nothing when case(5) and 9100 or 7 <= 6 - 91 : do E(4) end case - 6040 - 72 : input u end otherwise : chillax end end u : takes b, ETv, O5Wa, m, zs1 : boolean returns boolean n : integer; pop end main : G, F : boolean array; chillax end

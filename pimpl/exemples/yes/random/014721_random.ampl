@@ -1,0 +1,1 @@
+program Y : I : takes K, u07, w1l0a : integer array returns boolean array c : boolean array; input Wwv end main : y : integer array; Td0, f19aa, i : boolean array; h : boolean array; pop - 8 rem u = - true and 9790; input m; input tK; while - 9 >= 1 : input Y end; output 6520; pop 07 end

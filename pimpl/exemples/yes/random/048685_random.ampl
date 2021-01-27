@@ -1,0 +1,1 @@
+program z : sV : takes k54aa : boolean returns nothing O : integer; when case - 14 : input l5; let p9E0a = 8; do x56(8); pop end; output 7 . "D\n\"" . 1 . ""; pop end main : W, _9D, k : boolean array; chillax end

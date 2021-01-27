@@ -1,0 +1,1 @@
+program cdE0 : K : takes ER, J33, k7Ta, DU, U1 : boolean; H : boolean array returns boolean chillax end D3 : takes h, SP, Y : integer; z, vS : integer returns nothing Wp, G, k, lp60a : boolean array; n21aa : integer; j : boolean; output "+[a" . 0 . "" end main : chillax end

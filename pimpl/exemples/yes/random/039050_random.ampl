@@ -1,0 +1,1 @@
+program r : i : takes k1 : boolean array; F, t : integer; VX : boolean array returns boolean array l, a5, l16 : integer; chillax end AK : takes G1, cn, O, D : integer array; te, L : boolean array; E : boolean array; _l1aa : integer array; M, V3 : integer array returns nothing N : boolean array; chillax end main : let D2ia = 0 and(38900) and 6 = - false and 3 - 16500 - 1 end

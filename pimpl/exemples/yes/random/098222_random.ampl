@@ -1,0 +1,1 @@
+program j_ : main : while - false : while 9 > 932 : when case 4 : chillax end; output "."; pop end; input I[61]; output 074 end; when case(5) / M9 and 03 - true and 6 - 3 > - (616) and 82 + 9 : chillax end otherwise : output "" end; do w(- true + 0 - 9) end

@@ -1,0 +1,1 @@
+program k : w : takes U1_ : integer returns nothing do M((5) and 02) end B : takes y75a, xS : boolean; u6, C, Z : boolean; d2, H, v, A : boolean; W4, Y : boolean array returns boolean array pop 69 = 1; input f; while 6 : chillax end end main : chillax end

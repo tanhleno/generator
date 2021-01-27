@@ -1,0 +1,1 @@
+program W : m : takes G, P, Xj : integer returns boolean F : boolean; chillax end BB : takes M, R, B, lJ : integer array; KJ, M : integer returns boolean array do W(- 3 - 58); let J3[0] = array 6; output "" end main : t : boolean; while - true / (2) or(4) * 1 and 1 - not 7 and 7660 + 9 = not(1) : pop; input R5 end end

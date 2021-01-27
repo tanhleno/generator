@@ -1,0 +1,1 @@
+program MS2 : K24 : takes l : boolean array; y8p : integer array; jjAaa : boolean returns boolean Bl0 : boolean array; pop; let r = 959; pop; do T(6); when case 0 : chillax end end e : takes w, U, B : integer returns nothing D61aa : integer; m, J : boolean array; D : boolean; D : boolean; chillax end main : chillax end

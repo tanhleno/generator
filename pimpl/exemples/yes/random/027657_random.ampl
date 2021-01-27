@@ -1,0 +1,1 @@
+program BB : X : takes n8, Lc : integer array; O, r : boolean array; N, F3m : integer; e : boolean array returns nothing chillax end eL5 : takes c : integer array returns boolean array Y, z : integer array; f : integer array; let Z = array 97 - 6 end main : M2W, M0 : boolean; chillax end

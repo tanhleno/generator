@@ -1,0 +1,1 @@
+program K : x : takes V : integer array; I380 : integer array; i, P7, R : boolean array; H, W18 : boolean array returns boolean array q : integer array; W, PA3, C : integer; do i3(- (3) and 5 or 7 /= 43, - 1) end ie7 : takes n : boolean; r : boolean array; _n : boolean; J, Kx3a : boolean returns integer S, B, T, D : boolean; chillax end main : chillax end

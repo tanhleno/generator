@@ -1,0 +1,1 @@
+program zM : S28 : takes vxX0a, jOR, q, D, R2, u : boolean array; e : boolean; g : boolean array returns integer N0 : integer; F7 : integer; input h[- 9 or 970] end main : o : integer array; input mG0 end

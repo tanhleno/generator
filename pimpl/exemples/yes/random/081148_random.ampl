@@ -1,0 +1,1 @@
+program Pw : main : x : boolean array; w, O, u : integer array; when case not false and not 209 * true + 76 and 8 : chillax end case k(3) rem not 4 and 7 or true and 7 + 0 : output "\n|0a"; when case 06 : chillax end case 8 : chillax end otherwise : chillax end end otherwise : input k[22]; let h[4] = array 7; do Q(5) end end

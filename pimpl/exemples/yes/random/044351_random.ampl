@@ -1,0 +1,1 @@
+program c : t : takes N5x0a : boolean array returns nothing Q, N : integer array; chillax end F : takes v6 : integer array returns nothing J, k4, Z : integer array; chillax end main : pop 110; output 39 and 6 + 75 - 06500 . 18600 - 7 . 41 . 9 . 19; input P97; output "}="; do KL5(2); let p[48] = 22 end

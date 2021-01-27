@@ -1,0 +1,1 @@
+program q : h : takes N : boolean array returns integer D : boolean array; output "W#" . "" . 56 end P : takes q8 : integer array returns nothing chillax end main : do E(7 rem(91100) + true and 991 and 6350 <= 8, - not false + i, (3) <= - 7 - 7, 42 = 4); pop - not 5 and 45; while(3) and 9440 = 1 - 61 : chillax end end

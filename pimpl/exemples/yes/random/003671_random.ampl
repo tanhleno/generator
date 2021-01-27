@@ -1,0 +1,1 @@
+program c380 : b0 : takes gq, m, d7, h, E2I : integer array returns boolean array let s[- (1) and 3] = - 2930 < 6; output 301 . "29" . "1" end main : k0, M : integer array; LC, hYx0, a : boolean array; chillax end

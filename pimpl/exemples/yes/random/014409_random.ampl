@@ -1,0 +1,1 @@
+program LJ : UP : takes U, Fa, wxA : integer array; K1O : integer; U1O : boolean; h : integer array returns boolean tv0aa : integer; l8 : boolean array; while false and 7 <= 53000 : output 7 . ""; input zW; pop; pop end; let t = array 0 - 64300; pop; while 061 : chillax end; output ""; let r = 47 end main : chillax end

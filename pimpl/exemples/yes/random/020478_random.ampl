@@ -1,0 +1,1 @@
+program w8 : W : takes KV5aa, t7 : boolean array; C4 : integer array; vO : boolean returns integer S : integer; output "" . ""; output 6 = 03 . 4500 . 908 end x0 : takes C0T : integer array returns nothing input W end I : takes i, uo : integer; Pl, r : integer returns nothing chillax end main : s, r, K : boolean; Oiu, Kcia : boolean; chillax end

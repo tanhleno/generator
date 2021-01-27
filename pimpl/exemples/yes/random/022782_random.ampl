@@ -1,0 +1,1 @@
+program r45 : E : takes a, ilaaa : boolean array returns nothing when case - 59 = 89300 - 0180 : let D8[358] = array 6930 end; when case 4 - 00 : chillax end; output 58 end main : qfE, O4 : integer array; when case - L[5] or not true and not 31 or B or 3 - 33 : chillax end end

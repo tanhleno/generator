@@ -1,0 +1,1 @@
+program c : N : takes zz : integer returns boolean array K : integer; m, c, H, _6 : integer array; R : boolean; chillax end main : _gw : boolean array; k : boolean array; JO : integer; R6G, g : boolean; when case(0) - T[56] / 00 > true rem not 29500 : chillax end case - not false and true and 6450 : pop 7 end case true and 448 > - 72 : input AP end end

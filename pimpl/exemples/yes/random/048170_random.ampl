@@ -1,0 +1,1 @@
+program t : g6gaa : takes z : boolean returns nothing c4, lk : boolean array; P900 : boolean; when case 047 - 3340 : chillax end case - 0420 - 2 : chillax end end main : while - 8 - 1 rem 2 and 00 or false : output "\\&" end; while - 05 / true and 0 - (9) and 53 + 7 - 5 : output 825 . 0950 end; while - not 2740 and 2 = 380 : chillax end; input u[- 3320] end

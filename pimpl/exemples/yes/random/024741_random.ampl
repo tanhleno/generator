@@ -1,0 +1,1 @@
+program F : O : takes Q, zqe : boolean returns nothing output - 771 - 9 . 4 = 5 . 6 . "" . ""; when case 4 : while 17 : chillax end; output ""; pop end case 1360 = 54 : pop end case 1 : pop end case 0 : chillax end end main : v, BVP : integer array; q, U5, b : boolean; when case - 6540 rem true and 418 - false = - not not 2 * true and 57 : output "N"; output "\nB!a" end end

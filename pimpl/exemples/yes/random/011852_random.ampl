@@ -1,0 +1,1 @@
+program P4 : V : takes l, _s7aa, k32 : boolean returns integer array u5n0 : integer array; output 60 - 0 <= 6 end B : takes n : integer array; I, c : integer; h3 : boolean array returns nothing U7, b, JIAa, B4j : integer array; g, e : boolean; chillax end main : chillax end

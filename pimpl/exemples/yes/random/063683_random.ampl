@@ -1,0 +1,1 @@
+program W8 : xe : takes i : integer returns nothing chillax end v : takes a, Hv, b6 : integer array returns boolean array J : integer array; jYS, V, c : integer; while - 160 - 69 <= 4 : chillax end end D : takes Zo, IA5aa : boolean array; q4, T0 : boolean array returns nothing chillax end main : WP, r, H63a, Y, F6, Yq10a : integer; D : integer; chillax end

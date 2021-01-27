@@ -1,0 +1,1 @@
+program jf : Z : takes h : boolean; n : integer array; jx, R : boolean array returns nothing output "?" . "" . 9; while - 673 - 091 : chillax end end DA : takes r_60, l2e0a, V61a : integer; G, b : integer array returns nothing T8 : integer; when case - 9 <= 5 : chillax end otherwise : let S = 5; pop end; let vd90a = 8610 end main : q1 : integer array; chillax end

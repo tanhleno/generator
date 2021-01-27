@@ -1,0 +1,1 @@
+program t : ect : takes vA : boolean returns nothing while r - 3 >= - 5 : chillax end end r : takes O : boolean array; z : boolean; K, tAU, H : boolean; ot, d, a : integer; R : integer; X, S61a : boolean; SW40a : boolean returns nothing Dh4a, i6e0a, N3la : integer array; F6 : integer array; l7 : boolean; z : boolean; chillax end main : pop end

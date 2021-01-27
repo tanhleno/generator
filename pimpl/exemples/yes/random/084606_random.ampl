@@ -1,0 +1,1 @@
+program Zd : main : _ : integer; input c; when case - Z8[2070] - (98) and 17 + 32 - 866 /= (0) and 0 + 8 : while 10 : while 0 : chillax end; pop end end case g0 and 4420 or 33200 : while 8 : pop end end case - 54 : chillax end case 75 = 9 : let q = 01 end case 76 : pop end; do s4(- not 1 - 5); output 8 . "2"; input c[1] end

@@ -1,0 +1,1 @@
+program l31 : li : takes d0 : integer; S : integer array returns boolean chillax end CS : takes f610 : boolean array; Jg10 : boolean; u, B, jS : integer; hS8, OJT0, Hs2 : integer; b7, a : boolean array; _ : boolean returns nothing chillax end main : do A(false = - false, false * (68) and 3 - false and 277 >= (5930)) end

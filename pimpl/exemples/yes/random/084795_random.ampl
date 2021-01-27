@@ -1,0 +1,1 @@
+program uMWaa : main : k6 : integer; let J[- DzEa(74, 076) rem 79 rem not 4 + true rem true] = __(626) = - d8E and 81 + 8 - 3; output "8"; when case - true + 060 - 8 : pop end; when case 44 - 2 : chillax end case 2 = 55900 : chillax end case 103 : chillax end case 3 : chillax end end

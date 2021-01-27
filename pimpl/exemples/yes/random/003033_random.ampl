@@ -1,0 +1,1 @@
+program W : y : takes C, gY, m, u, a7 : boolean returns nothing Q, E : boolean array; LD, L0, S : boolean; h51aa, Z : boolean; when case 46 : pop 3 end case 63 - 604 < 085 : when case 7 : chillax end end case 1 : chillax end case 65300 : pop end end main : let B = array not(5) and(46) end

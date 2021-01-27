@@ -1,0 +1,1 @@
+program WSXaa : S : takes r65, D : boolean returns nothing iv : boolean; q, dMraa, P : boolean array; pop; let vI[- 4 - 18] = array - 567; pop; when case 32 : pop end otherwise : chillax end end R : takes I, n6 : integer array returns nothing c : boolean array; do o3j(8 - 6 = 2, 838); input jrw0[6] end main : chillax end

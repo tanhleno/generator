@@ -1,0 +1,1 @@
+program a : k0 : takes q, gl, Bk8a : boolean returns integer chillax end main : while(92) : when case - 2 - 652 : chillax end case 14 : pop; pop end case 74 : pop end otherwise : while 391 : chillax end; pop end end end

@@ -1,0 +1,1 @@
+program K : main : a6, N900 : integer; e : integer array; when case - true rem false and true or true : let y[- 9] = 0970 end case C640 / 4 and 8 - false and 780 + 4 - 60700 : chillax end otherwise : output 21 . "4a" . ")"; when case 0 : chillax end case 3 : chillax end otherwise : chillax end end; while false < f3D : chillax end end

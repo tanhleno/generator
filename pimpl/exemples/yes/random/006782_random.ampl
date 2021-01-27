@@ -1,0 +1,1 @@
+program y5 : a8daa : takes H010a, C, y, sf : integer; S : integer returns nothing chillax end ma4 : takes J, ip, K : boolean array returns integer array chillax end p4 : takes czYa : integer returns integer input Cy50 end main : pop D1l0 rem _ = - false or 37 - 2 end

@@ -1,0 +1,1 @@
+program T : A : takes A : integer array; vQ4aa, U : integer; oe5 : integer returns nothing pop - 10; when case 9 < 53 : chillax end; output 546 . 11900 . ""; output ""; output "9"; input O; pop end main : U, S : integer; J : boolean array; S, b, c00 : boolean; chillax end

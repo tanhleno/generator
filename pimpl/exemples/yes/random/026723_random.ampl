@@ -1,0 +1,1 @@
+program H : G5 : takes a, d : integer; C : integer array; n : integer array returns integer let B[Ec] = array false + 3 - 2860; do f(6); while 50 : chillax end end V : takes JZ, F2, G, D : boolean returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program D8 : main : C590a : boolean; V : boolean array; A : boolean array; let B[044 + not 1 and 6 and 4 - 8] = true * true /= - WTK0 and 182 + 57600; pop false and 56 or 104 - 11100 /= 70; let g[- (4) + 0] = - 6140 - 1 end

@@ -1,0 +1,1 @@
+program z : n6 : takes j, O, k, t : integer array returns boolean _ : boolean; R, a0Z0a : integer; chillax end H : takes v, R : integer array; Z, A : boolean returns nothing while - 2 >= 7 : chillax end end main : chillax end

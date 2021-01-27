@@ -1,0 +1,1 @@
+program m : main : M, x, l, Z : integer; j : integer; a : integer array; z0X : boolean array; while - not j : chillax end; when case - false rem 7 or false and 0 or 7 : chillax end; do O(- 8 and 991, - 8530 - 09700, 7, 81, 194); let j_0aa = 1 end

@@ -1,0 +1,1 @@
+program q : s : takes v5t, h, MCKaa, Q23, d0va : integer; P, d : boolean array; C2, JUN : boolean array; E, j7, Y, v5, xUM : integer; t05 : boolean; Q9, k : boolean returns integer u0C0a, ss6 : integer array; output - 8 - 18 <= 1 . "" . 355 . "u\"" . "" end main : chillax end

@@ -1,0 +1,1 @@
+program g : main : V4Zaa, j : integer; r, uI1 : boolean array; S : boolean array; M, nA, z : integer array; output V[1] or 9080 and 58 - 7 . "" . 4 - 3 >= 1 . 6 = 0; input O[- E5(3)]; pop; let B = array 4 end

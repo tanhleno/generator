@@ -1,0 +1,1 @@
+program A : pV : takes M8_, U66, PC : integer returns boolean array p, Rd, c, h_, Y5 : integer; chillax end j8 : takes s, na, V, Yc : boolean array returns nothing chillax end F : takes F, p : integer array; x, O : integer array; o : integer array returns nothing chillax end main : bZ60a, b : integer array; rZ : boolean; output false - 003 and 2 end

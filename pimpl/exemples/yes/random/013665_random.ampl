@@ -1,0 +1,1 @@
+program W4Aaa : Q2 : takes s7, IW, a620 : integer array; q, f1w, Z, L4ia, B45 : integer; v : integer array; v, H, X, Cx, GKD : boolean array returns integer chillax end main : output 5460 * true and 6 + true and 9280 - 5050 - 33 <= - true . - false - 24400 < 3 . - 789 >= 143; output L45 - 44 > 8980 - 22; output "\"!" . "?" end

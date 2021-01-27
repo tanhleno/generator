@@ -1,0 +1,1 @@
+program h2X0 : _M5 : takes Rhjaa, w : boolean array returns boolean array chillax end U4 : takes b : integer array; q7d : integer array returns integer array chillax end R : takes S, L1, R, S : integer array returns boolean array D : integer array; R5 : boolean; when case 370 : chillax end case 375 : chillax end otherwise : pop end; input D7m end main : chillax end

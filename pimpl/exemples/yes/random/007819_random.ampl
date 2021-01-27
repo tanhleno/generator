@@ -1,0 +1,1 @@
+program X : N : takes wi, UKQ, V, nt : integer array returns nothing Xm : integer; when case false - 3 - 36 >= - 8 : chillax end; output "H" . "R" . "_[" end I : takes I : boolean returns boolean array chillax end main : chillax end

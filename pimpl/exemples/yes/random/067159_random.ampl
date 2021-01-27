@@ -1,0 +1,1 @@
+program cLTa : main : do G(e(0, 83) / (1610) * 3, not not 108 / (54600) - c and 0 + 29 - 0, - (46) or 6 - 6 /= - 7280, - 6); let P[- X[40] / 7 or G and 3990] = array not 9; pop 549 - 2960 > 2; when case 427 : chillax end otherwise : do OB(368); pop end end

@@ -1,0 +1,1 @@
+program sb : main : when case false / m[07] /= H(12) / true : chillax end otherwise : pop 1; pop; let l = 47; do qr(0); pop end; when case 9 * 56 <= not 6 and 70 - 77 - 5 : when case 0 : chillax end case 15 : chillax end end otherwise : input nu[11100]; let p = 71; pop end end

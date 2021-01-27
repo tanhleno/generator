@@ -1,0 +1,1 @@
+program x6 : main : k, j, O7, F, R : boolean array; f : integer; Ut, f5, f, Z, O : boolean; z, p : integer array; while - g - Dc[51] : when case - 3 - 36 : chillax end otherwise : chillax end; when case 5 : chillax end case 05 : pop end otherwise : pop end end; let h[true * false] = array - true / x end

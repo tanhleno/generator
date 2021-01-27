@@ -1,0 +1,1 @@
+program Ny : main : input C; when case false rem en >= - (09) and 78 or 2300 - 58500 : let w4[77000] = 13; pop end case - P and 8 - 9 - 0 : when case 8 : pop end otherwise : chillax end; input f; do O420(12); pop end; do o(- not 48 and 10 + 8300 < - 2 - 287); output ""; while 47900 : do xj(0); pop end; output 7 . "3T"; pop; when case 065 : chillax end; pop end

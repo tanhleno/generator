@@ -1,0 +1,1 @@
+program D33aa : main : z8, Q : integer; when case(9 = 2) or 2 or not 381 /= 96 : do Q73(- 5); while 24000 = 7100 : pop; pop end; let P[650] = 310 end case true * not 8 = false and 6 + 61 : chillax end end

@@ -1,0 +1,1 @@
+program a51aa : C : takes fjH, N4G0a, Ml40a, ig, Le, c : integer array returns nothing chillax end main : N, S4s : integer array; oY, W : boolean array; let qo10[- not not false - DeR[68] / not 8] = array true + not true rem(5) and 629; let p = not 84 and 4 + 2 - 07 end

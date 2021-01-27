@@ -1,0 +1,1 @@
+program GZ : main : do V(Um /= (3) + 04, true rem(14) and 0 > NY - 8210 - 22, true and 67 + 408 - 0 = - 799); while CVc[578] / 8 and 5 + false or 69800 /= 0 and 2 + 16 - 7 : while 8 = 33 : output ":"; pop end end; output 2 < 407 end

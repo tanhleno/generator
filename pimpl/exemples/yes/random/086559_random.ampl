@@ -1,0 +1,1 @@
+program cI : main : RY : integer array; b490a : boolean array; I740a : integer array; do w(- false > G(2) * fX and 5, - 66); while true >= - not 7 : output 3; when case 7 : pop end otherwise : chillax end end; pop end

@@ -1,0 +1,1 @@
+program U : Pa : takes y : integer array returns nothing pop - 48900 - 7 >= 4 end v : takes Th : boolean array; M, U, D : boolean array; C11 : integer array returns boolean g : boolean; let sA[41] = 32; while 989 : chillax end; pop 0; output "A\t" end main : output - (152); let f[081 and false] = array(1) end

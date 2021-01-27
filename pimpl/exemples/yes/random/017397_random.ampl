@@ -1,0 +1,1 @@
+program g40 : v : takes q, FhZ0a : boolean; it, S68a : integer; Cb : boolean; Q6 : boolean returns integer array do Bv0(false); let p[- 4330 - 1650] = array 0 - 5 end main : PU, u7, e, E, UJ : integer array; pop not P6z rem true and 842 - false and 4; do P(- not true or O and 7650 > true, - DZ and 87 <= - 6, - 5 - 0800, 32, 6) end

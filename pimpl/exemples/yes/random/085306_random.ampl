@@ -1,0 +1,1 @@
+program F9w : main : dZ : integer; while - not false and not false < - false * not 77 and 6440 : chillax end; let C[not true and 191] = array - not 1 and true and 9 + (089); input Q[- true and 86] end

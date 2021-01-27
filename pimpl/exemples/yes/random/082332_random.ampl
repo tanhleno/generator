@@ -1,0 +1,1 @@
+program E : main : g : boolean array; let g2 = array - true; when case - r2[59] / 1 and 37 > - false : pop; pop 51; input t; while 47 : chillax end; pop end case - true : chillax end otherwise : chillax end end

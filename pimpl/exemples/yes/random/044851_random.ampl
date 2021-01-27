@@ -1,0 +1,1 @@
+program wF6 : y6q : takes QMq : boolean array returns nothing N : integer array; wV00a, D : boolean; Q5 : boolean; chillax end main : y, Q2 : integer array; h9 : integer; let qY = - not false / not 35; while false rem not 7 : do qk(2); while 87 : chillax end; pop; when case 92 : chillax end end; pop - 43 end

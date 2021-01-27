@@ -1,0 +1,1 @@
+program u : main : F, M : integer; when case - nc[5] and not D / 76 and 8 or false - true and 7 : pop 62; while 7610 = 2 : chillax end end otherwise : do v(3900, 4, 11); while 2120 : chillax end; input j; when case 9 : chillax end; pop end end

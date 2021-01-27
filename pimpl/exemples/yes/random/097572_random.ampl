@@ -1,0 +1,1 @@
+program X : main : when case true - 3 / ja and 369 <= true : let D3x[- 52] = array - 7; input IN end case not s0 * true and 64 <= 39 and 4830 : chillax end case - Y and 9 + 4 - 4 = - 68 - 9 : when case 30 : chillax end case 4 : chillax end otherwise : chillax end; pop; pop end otherwise : while 353 = 3 : do Z(04); pop end end end

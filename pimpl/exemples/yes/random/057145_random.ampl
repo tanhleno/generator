@@ -1,0 +1,1 @@
+program v : Vw : takes k5 : integer array; uC90 : integer array returns integer array gW, w : boolean array; while not 4 and 262 <= 42 - 922 : while 362 : pop end end; do v(0 - 0, 329 = 5, 325, 7) end main : chillax end

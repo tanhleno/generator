@@ -1,0 +1,1 @@
+program R : main : a, e : integer; i47a, s : integer array; cU7, J, mI : integer; k3o : integer array; R97, r, i : boolean array; do C0(false / not not 647 <= not not 54); while - not(15) - (629) and 7 : chillax end end

@@ -1,0 +1,1 @@
+program s : WtH0a : takes ks90a : integer array; l9t : integer array returns boolean chillax end main : when case - false / HiQaa / v320a - false or cG3 : chillax end case(51) - not 35 and 1 + 59 - 21 < - true and 9 : when case 28 = 5 : chillax end otherwise : chillax end; while 9 : pop end; input E34a; output "g" end end

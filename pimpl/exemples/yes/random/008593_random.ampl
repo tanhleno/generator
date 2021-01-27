@@ -1,0 +1,1 @@
+program t6naa : f : takes mc, Ji, c9 : boolean; Y, p, L : boolean array returns nothing chillax end L : takes j6 : integer; N : boolean; G : boolean; Z, Lz : integer array returns integer chillax end main : chillax end

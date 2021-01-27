@@ -1,0 +1,1 @@
+program R : U : takes e : integer array; b : integer array; a, _ : boolean returns nothing chillax end wh : takes Y3D0, Yf8 : boolean; IAY, O, Z3 : boolean; J : boolean; F29, u, i7M0, WP : integer array; i, YF8 : boolean returns boolean array i, GN, w, y : boolean; chillax end L : takes B, pD, o3, uU : boolean array returns integer array do z7(12, 3, 2) end main : chillax end

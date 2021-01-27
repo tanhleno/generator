@@ -1,0 +1,1 @@
+program M8 : _1 : takes K4G0a : boolean returns boolean R : integer array; y, Fe, LY, J : boolean array; S, A, QC9 : boolean array; do W(false); do X(1 - 57 >= 4, 054 = 2, 646); when case 6 = 3 : chillax end case 6 : pop end; pop; while 6 : chillax end; do z08aa(1) end main : Y, Z_b : boolean; Lu, pz : integer; y : integer; chillax end

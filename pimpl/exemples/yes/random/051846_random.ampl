@@ -1,0 +1,1 @@
+program ZK : y : takes lNl : integer; o : boolean array; ZJna : integer returns integer array r : boolean array; I : boolean; when case - false - 1 - 38 <= - 76 : let j[161] = array 21 end otherwise : input je end end main : chillax end

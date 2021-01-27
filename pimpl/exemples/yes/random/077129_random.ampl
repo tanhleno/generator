@@ -1,0 +1,1 @@
+program D : main : H, lL7 : integer array; XTB0, V, Cw, G : boolean; Zj, i360a : integer; H, lvkaa : integer array; s : integer; X, x : boolean; M : boolean; k : boolean; input xS; input Ya[5]; let f46[- true or 047 - 74] = - 5 /= 89; let P[- 7080 - 1] = 2 end

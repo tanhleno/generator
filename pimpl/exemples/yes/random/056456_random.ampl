@@ -1,0 +1,1 @@
+program n : i8M0a : takes Azm : integer array; T : boolean returns nothing Fab : boolean array; F : boolean; input Ts end t : takes c, A, MS, K4S, o25, qH : integer returns nothing Z, B0aa : boolean array; xn3aa : integer; P : boolean; chillax end main : chillax end

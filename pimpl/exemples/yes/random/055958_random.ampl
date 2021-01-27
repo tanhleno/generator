@@ -1,0 +1,1 @@
+program K : r2 : takes b : integer array; M3 : boolean array; bmJa : integer array returns nothing D : boolean; s, x : integer; ir80a : boolean array; pop end main : X : boolean array; output "\"" end

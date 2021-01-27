@@ -1,0 +1,1 @@
+program L : D : takes tR90a : boolean array returns boolean array M : integer array; v, af : boolean; B6, T2, cjI0a : boolean; V1M0, A8Caa : boolean; k : boolean; KGGa : boolean; chillax end main : s0 : integer array; chillax end

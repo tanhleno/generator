@@ -1,0 +1,1 @@
+program m : l8 : takes V : boolean array; m, Aq, g42, h670, n3Waa : boolean array returns boolean U34 : boolean array; chillax end O : takes og, lLG0a, O, o5 : boolean returns boolean while 310 : let W = 64; when case 61 : chillax end end end main : yaxa : integer array; pop; output - not 745 + 2 - 3; let z1S[- false + 8 - 74] = - 8 end

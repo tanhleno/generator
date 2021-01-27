@@ -1,0 +1,1 @@
+program SE : _ : takes o, tb3aa, a1, a : boolean returns nothing chillax end main : while - true or true * false - 7130 or 03 /= - 4 : chillax end; when case - (82900) rem not 50 + 95 : chillax end case true - 9 >= 44 - 2 : when case 31 : chillax end case 047 : chillax end otherwise : chillax end end case - 8 : chillax end end

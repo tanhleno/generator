@@ -1,0 +1,1 @@
+program Z : L : takes Ch, a9waa, b, aNe0a, x, t1A, D2 : integer returns nothing while - E and 31 : chillax end; let X_ = 108; when case 67 = 4530 : when case 5 : chillax end; pop end case 808 : chillax end case 0 : chillax end end K2 : takes C7 : boolean returns boolean array l850a : boolean array; chillax end main : chillax end

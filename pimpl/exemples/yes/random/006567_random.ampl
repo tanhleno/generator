@@ -1,0 +1,1 @@
+program _ : g7N0 : takes k, I, Ca, i0_ : integer; f : boolean; y : integer array; o14a : integer array; h : boolean; S3, _75, v7 : integer returns boolean array ab7, V, p : integer; r, P, FZ3aa, z : boolean; chillax end main : x, R, g, l0T : integer array; chillax end

@@ -1,0 +1,1 @@
+program T : I54a : takes B : boolean array; P : integer; UC20, E : integer array; i, d : integer array returns integer array p6, n73, w4, B58 : boolean; input ax20 end main : X : integer; chillax end

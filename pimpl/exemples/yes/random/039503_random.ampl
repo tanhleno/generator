@@ -1,0 +1,1 @@
+program W69 : CT30 : takes mJb0a : boolean array; c : boolean; V, SC2, I, Q350 : boolean returns integer array ivA0 : integer array; output - 2 end Q : takes Ad90, Rp : boolean array; o1 : boolean array returns nothing _, z02a, V, Mr : boolean; output "" . "]" end main : H : integer; chillax end

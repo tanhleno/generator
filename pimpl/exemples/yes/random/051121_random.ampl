@@ -1,0 +1,1 @@
+program cZ : _q : takes _L : integer; K, A : integer array returns nothing chillax end main : U7 : integer; P5n : integer; b : integer array; Ku, K, D, G : integer array; J6 : integer; input vl[true * 7 rem(2) and 6]; input Vavaa[not(4) and false or(7)] end

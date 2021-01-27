@@ -1,0 +1,1 @@
+program n : main : Kl9 : boolean; A37aa, u : boolean; let D6[- false] = - (9) + true or 974 - 5; when case N3 * 35 and 39000 <= d720a + 3 : pop end case not 71 or 8 >= 7 - 8 : chillax end case - 6 - 5550 : when case 901 : chillax end end; let WfAa[0 or 83] = - 870 - 78 >= 36500 end

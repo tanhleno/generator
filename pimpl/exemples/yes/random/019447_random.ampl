@@ -1,0 +1,1 @@
+program V : EA : takes _, X : boolean array; S, Y : integer array; p, V, w76 : boolean array; K31aa : boolean array returns boolean chillax end q5 : takes d8I0 : integer returns boolean C : integer array; E3, v : integer; C, Z : boolean; let H7 = array 8; when case 56 : chillax end otherwise : chillax end end main : chillax end

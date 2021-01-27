@@ -1,0 +1,1 @@
+program M : L : takes MM0aa : boolean array; M, hG, _, U61 : integer; gs, t3, S, x7, WA : boolean array returns boolean V : integer; lf, fV, y9, VEA : integer; V1, h8 : integer; E, m3 : boolean; chillax end _ : takes O : integer array; E : integer array; LoT : integer returns integer array pop end main : N, h : integer array; let AO[- (4) or 6 - (6) and 1] = array - not N end

@@ -1,0 +1,1 @@
+program e : jCQ : takes G7 : integer returns nothing chillax end s08a : takes DG, x2Paa, _, Z : integer returns boolean output 3300 = 58 end h20 : takes _ : boolean; x, I2 : boolean returns integer array u2D, dl, P : boolean; while 1 : output ""; pop end; output 2; when case 6800 : chillax end end main : chillax end

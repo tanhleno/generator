@@ -1,0 +1,1 @@
+program eU : f : takes BT, HH3aa : boolean array; c, _, E8 : integer; n5S0a, v9, F, ID2 : integer array; CI00 : integer returns integer array chillax end main : u, X57a, _450a : integer; while not j(8) + Sj(4) rem true and 3 >= - not 02 or 7920 and 9 + 3 : pop end; do m(92 rem true and 08); input h68a end

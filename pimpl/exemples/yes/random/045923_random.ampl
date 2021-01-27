@@ -1,0 +1,1 @@
+program osI0 : y1n : takes V : boolean returns boolean chillax end L : takes LGFaa, U : integer array returns nothing when case 7150 - 0 : chillax end case 7 : output "d" end case 5 : chillax end case 3 : chillax end end main : output "9W!a"; while K / (4) >= - false and 00500 : chillax end end

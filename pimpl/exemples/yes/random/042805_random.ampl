@@ -1,0 +1,1 @@
+program Kp : RLh : takes Fw4 : boolean array returns integer array let _l = array - false end p73 : takes Uw, d3a : boolean array returns nothing zq4 : integer; chillax end main : r : boolean; eK, R : boolean; chillax end

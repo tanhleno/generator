@@ -1,0 +1,1 @@
+program S : Ka : takes P : boolean array; p : integer array; heAaa : integer; r : boolean; oy : integer; S : integer; l8Q0, zq2aa : boolean returns integer array yk4a : integer; chillax end main : while I(31, 9) + false * not 05 and 470 or true >= - true : do w5(- 03 - 6 > 7, 7 = 4, 15) end end

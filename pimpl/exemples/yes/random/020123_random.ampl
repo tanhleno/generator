@@ -1,0 +1,1 @@
+program u : pQ : takes c9, h : boolean array; M030 : boolean returns boolean MB : boolean; r15, j : boolean array; output "" . "T"; pop 0 = 2; do oM7(3 = 9, 96, 4); pop; output ""; input Z17a end Fb20 : takes G66a : boolean array; t, I7, z : boolean array; v040 : boolean; E21 : boolean returns boolean chillax end main : chillax end

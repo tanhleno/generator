@@ -1,0 +1,1 @@
+program M4 : N5W0 : takes VY : integer; ea, b, S : boolean array; ac, y, s : integer; h9Ea, a : integer array; Y, K : integer array; P29a, U : boolean returns nothing do X(true and 0, - 1 - 3110) end main : a, QWu, u, l, z1Fa, s, D050 : integer; pN8 : integer; t, B : integer array; chillax end

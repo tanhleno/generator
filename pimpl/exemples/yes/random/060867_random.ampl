@@ -1,0 +1,1 @@
+program n : d : takes _N10a : integer array returns nothing HT : boolean array; A6Ha, t, KV, J3 : boolean array; dGI : boolean; do o5(- 1, - 722 - 47 = 4) end jZlaa : takes c0 : boolean array; y : integer array; M3 : integer array returns boolean array output 053 end main : output "?" end

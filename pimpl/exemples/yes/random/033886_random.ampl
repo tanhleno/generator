@@ -1,0 +1,1 @@
+program H : X5 : takes z : boolean; V, Y4, Q4 : boolean array returns nothing do Ff(- (927) and 242 - 6 > 642, 0 - 2, 23) end o690a : takes a : integer array; v540a : integer array; u, P46, X : boolean; dKi, f, P : integer array returns boolean array h : boolean; output 65 end main : let U79 = array - not(48) / k1z(2) - 097 * 86400 end

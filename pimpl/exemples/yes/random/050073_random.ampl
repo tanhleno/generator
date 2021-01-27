@@ -1,0 +1,1 @@
+program K95 : x2 : takes r4 : integer; L, RQw, i : integer; C : integer array returns integer array c, L1, ZFK, Q6l : integer array; LzH : integer array; R, o74 : boolean; e_, Q : boolean; y1 : boolean; chillax end da1 : takes y : boolean array returns nothing output 12400 . 599 end main : Gg00a, u01aa, i7 : boolean array; t : boolean array; chillax end

@@ -1,0 +1,1 @@
+program A : I : takes lQ10a : boolean array returns integer when case - (06) and 5 or 49700 - 216 : chillax end case 9 - 42300 /= 716 : chillax end otherwise : when case 96 : chillax end end; do zl(- 8); pop 67 end main : let b = array - 5440 * 1 or 4 and false and 0 end

@@ -1,0 +1,1 @@
+program l72 : n : takes vK, B : integer array returns integer M : integer array; let h[- (09)] = - 156 - 0 >= 2; output "" . "" . 06 . ""; pop 7; output 1 . "" end main : input B5; pop; do a18aa(- false or 6050 - 6 > - 47); let g[18 - 8030] = 54; input x end

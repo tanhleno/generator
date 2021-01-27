@@ -1,0 +1,1 @@
+program R : hP7 : takes O, k : integer array returns nothing T3 : boolean; when case 6 and 6 - 20 - 2600 : while 5710 : chillax end; pop; pop end otherwise : chillax end; while - 78 - 6 : chillax end end l18 : takes Z7X, Q, ds0, a : boolean returns boolean array output ":"; pop; pop end main : do f(- not false / 5 / not 6 or 7) end

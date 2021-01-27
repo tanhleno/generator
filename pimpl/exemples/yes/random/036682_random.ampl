@@ -1,0 +1,1 @@
+program i_f0a : s : takes P : boolean; L : integer array; g8, d2, bU : integer array; q, F8I0, D, TT : integer returns integer chillax end main : while mZ5aa - (095) : chillax end; do m4o0a(not not 63 >= 346 and 49, 5 - 4 - 54100 /= - 8 - 6, - 73600 < 60) end

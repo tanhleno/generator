@@ -1,0 +1,1 @@
+program Z4 : ts6 : takes _x : integer array; a8 : integer array returns integer I, NW, s, XSUaa, n : boolean array; u580 : boolean; chillax end main : input Iuy[- false + 656 + 6]; output - (3) and 46 or 36 - 12200 <= 066; when case - true : chillax end case - 27 - 711 = 7 : do g1(2); when case 2080 : chillax end; pop end; while - 1 - 7 > 1 : chillax end end

@@ -1,0 +1,1 @@
+program s : r4 : takes J, D, ZH2aa, q5iaa : integer array returns nothing pop - 188 end l8 : takes j, yc : integer array; h : boolean; jBa : integer; z : integer array returns integer chillax end e : takes j : boolean returns boolean array r, p : boolean; U6, w52aa : boolean; _ : boolean; chillax end main : chillax end

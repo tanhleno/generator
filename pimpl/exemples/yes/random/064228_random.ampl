@@ -1,0 +1,1 @@
+program ZZ : z4ha : takes P : integer returns nothing J, C0Z, MQ3, i87a : boolean; let V3 = 6; pop 119; output 8 end main : F : integer; e : integer; Zi, w : integer; u7E, y7Y0, oH : integer array; let Zm = array - c[07] end

@@ -1,0 +1,1 @@
+program w : r : takes Yq20a : boolean array returns nothing output - 4 <= 4 end E6 : takes Oy00a, j : integer; P8, i, P : integer; o : integer returns integer array eh20 : integer array; pop 4 = 0; when case 40 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program E : rso : takes d : boolean returns nothing input F; while - 2 - 5 < 86 : chillax end; let u4[42] = array 347 end MgI : takes t : boolean array returns integer array output 0 = 71 . 675; do u99aa(4 = 938, 6, 15) end dw : takes j, F : integer returns boolean p1, w5 : boolean array; chillax end main : chillax end

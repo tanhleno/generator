@@ -1,0 +1,1 @@
+program h : main : S, u, c : boolean; when case - 76 * w - y >= - (85) : pop 1 end case - R110a(88) or C and 6230 : pop end; input T; when case - false and 49 >= - 5 : input iA20; input C500 end otherwise : chillax end end

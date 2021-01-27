@@ -1,0 +1,1 @@
+program i : b : takes x : integer array returns boolean T, eu, X : boolean array; c, eq : integer; W70 : boolean; while false >= - 2 - 60 : when case 83000 : chillax end case 587 : chillax end otherwise : chillax end; do N(82); let i = 865; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program a : Xl : takes nq : integer returns nothing chillax end Oz : takes s9, z630 : boolean array returns nothing P, K : integer; while - 6 - 90 : do q(6); let U = 721; pop end end main : pT : integer; x : integer; k : boolean; e : integer array; chillax end

@@ -1,0 +1,1 @@
+program x : i : takes oI70 : integer; J, O2Taa, r : integer returns boolean V, w2 : integer array; pI : boolean; pop; let O = 8 = 9; while 8 = 7 : chillax end end main : qheaa : integer array; chillax end

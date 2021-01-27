@@ -1,0 +1,1 @@
+program K : main : z3 : boolean array; m950 : boolean; Q : boolean; when case - not 43 and 5 / not 37400 > - true or true and 07 : pop; output "x" . "'" . "4" end otherwise : while 2190 = 8 : chillax end; do l(4) end; do s1Gaa(Sh4[56000] > - (897) and 9 - 6 - 7) end

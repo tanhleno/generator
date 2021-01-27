@@ -1,0 +1,1 @@
+program q : n16 : takes P : boolean returns nothing W, d3i0 : integer array; chillax end main : pop; let n[- (0) + true + 06 - 2] = array - a[921] / a - 6 or 317; while - false and 8 + 2 - 3 <= 9 - 5 : chillax end end

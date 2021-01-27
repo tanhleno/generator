@@ -1,0 +1,1 @@
+program ts : DV : takes wc50, C : boolean returns nothing ezR0a, V : integer; Y, Pe7, OI : integer array; pop; while - 54600 - 9 : pop; do U(0820); pop end end a : takes Qe1, lt : integer array returns integer array input u[28]; while 62 : while 94 : chillax end; pop end; do pH7(26, 98); while 3 : chillax end end main : chillax end

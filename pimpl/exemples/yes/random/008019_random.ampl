@@ -1,0 +1,1 @@
+program ZKwaa : l : takes J, w, p2, a55 : integer returns boolean while true and 9 : chillax end; while 1 = 9 : while 5 : chillax end end end a7 : takes j : boolean returns integer array let t5[2] = array - 28; output 0 end main : fx, k98 : integer array; chillax end

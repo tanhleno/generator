@@ -1,0 +1,1 @@
+program x35 : CJda : takes h, kF1 : boolean returns nothing while - not 4 and 2 : let Sn2 = array 98800 end; do A(- 7510 = 997, 7) end h : takes EJ : boolean array returns integer array s : boolean; while 6 - 9 /= 818 : chillax end; input a; output "" end main : Z300a : boolean array; let RI = c or false or 0 - 481 end

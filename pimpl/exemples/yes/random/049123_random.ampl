@@ -1,0 +1,1 @@
+program c140 : q : takes X : boolean returns nothing when case - 3 and 1 /= 42 : chillax end; do U(01 - 7 >= 36, 0, 02); do P(0, 7); pop; input yN end n3 : takes i, C : boolean; d : boolean; gA, i : integer returns nothing while - 7 <= 7 : input a4 end; pop; output 9 end main : A0, L, O, e, h3 : integer array; zY : integer; tq : boolean array; chillax end

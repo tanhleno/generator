@@ -1,0 +1,1 @@
+program o : b8l0a : takes mz : boolean returns nothing while - true : do G(4) end end lO : takes IM : integer; T, X, z : integer returns nothing M30, V, X, d : boolean array; Bt : boolean; chillax end main : I8, N, y : boolean array; o : integer array; uZqaa : integer array; G : boolean array; X : boolean array; chillax end

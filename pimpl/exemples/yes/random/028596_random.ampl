@@ -1,0 +1,1 @@
+program IYB : u : takes H, a6I : integer array; IE40 : boolean returns nothing t52 : boolean; ol2, x5 : boolean array; N, d : boolean array; input a end main : D5, F, z : integer array; Uv6aa : integer; ho, uU0, N4, v : integer array; F : boolean array; chillax end

@@ -1,0 +1,1 @@
+program B : h : takes BZV0a, J : integer array; X, Bt : integer array; S57 : integer array returns boolean array do tH(V7 > - 333 - 53, 39 - 464) end tf : takes g : integer returns nothing W : integer array; chillax end ib8 : takes aA, dGs, w, Q : integer array returns integer Vl : boolean; b, J : boolean; GH9 : boolean; chillax end main : let wY40a = array n[8] * Q2K or(7) end

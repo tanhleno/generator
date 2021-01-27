@@ -1,0 +1,1 @@
+program R : main : hr : boolean array; X : integer; CR2 : boolean; m : boolean; G, y : boolean; S, jTJ0a : boolean; r : boolean; input _[- false * not true * s - true]; when case - not 568 rem true < true and 4 - 2 : chillax end case - true and 7 or 7 - 9 /= 8 - 7 : input U2[90900] end case 70 : pop; input B9 end otherwise : chillax end end

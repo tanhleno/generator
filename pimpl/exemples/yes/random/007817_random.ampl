@@ -1,0 +1,1 @@
+program p3 : k5 : takes Jx80a, u, R5, ss1aa : integer array returns nothing F : integer; let E[37200 - 95] = array - true and 8 or 09 - 332; output "\",\"" . ""; output ""; output 19 . "7|!a"; while 2650 : chillax end end main : U0 : integer; chillax end

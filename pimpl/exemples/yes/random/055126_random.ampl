@@ -1,0 +1,1 @@
+program EC30 : N : takes x : integer array; pz, M : integer array; p : boolean array returns integer chillax end m8Z : takes d6P0 : boolean array; C3 : integer; XW, Xn3, s3, rt4 : boolean returns integer let ns4aa = 8 = 7 end main : c : boolean array; A27, W, qK50a, d, X : boolean array; chillax end

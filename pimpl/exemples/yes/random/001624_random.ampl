@@ -1,0 +1,1 @@
+program Hg : w : takes C, KY, w, o11, Qo, k : integer; R90, f : boolean array; X, h, K, v : boolean returns nothing output "2\t" . 7 = 61; while - 7 - 4 : chillax end end main : wm : integer array; output true / false >= (95300) end

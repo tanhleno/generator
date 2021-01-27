@@ -1,0 +1,1 @@
+program A6 : AY80 : takes DTIa, m4 : integer; X37, K2N, Y : boolean array returns nothing F2 : integer array; input y61 end main : output "Gta"; pop not 5 and 81 /= 227 - 817; while - not 94 and 2 : chillax end; let K7[59] = array 25 - 47100; input D[73]; when case 46 : pop end end

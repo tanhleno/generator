@@ -1,0 +1,1 @@
+program O : main : q7, Wp, Y : boolean array; r, W8 : boolean array; when case - true * false / s and 2950 <= - (0) or not 93500 and 1 - 9 - 3 : chillax end case - S or 0 : let ME = array 897 end case - false = - 13500 : chillax end otherwise : chillax end end

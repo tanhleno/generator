@@ -1,0 +1,1 @@
+program z6Yaa : E0 : takes B_4aa, H1y, Qk, o : boolean array returns boolean r : boolean; c, saQaa, yj, P6Kaa : boolean; chillax end main : D : integer; F, E : integer array; while - O - t[6] : output "\"&" . 7 end end

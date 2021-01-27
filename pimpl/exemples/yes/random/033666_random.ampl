@@ -1,0 +1,1 @@
+program gl3 : y : takes R : boolean; od, k3, D, T : integer array returns boolean array I, I, h : boolean; chillax end main : let BOf0 = true / not 5; when case not(8) >= - true : chillax end case 14 and 36 < - 4 - 5 : pop 8; do S2Ua(62); when case 7 : chillax end; pop end; output - 33 > 8 . ""; pop 7 end

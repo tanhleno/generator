@@ -1,0 +1,1 @@
+program g3 : l7Uaa : takes g46aa, X : integer array; _, o : boolean array; P90, _Wwa : integer array returns nothing i_30, R : integer; let x[not 60600] = - 5 = 0; output 8 = 1 . 1220 end main : chillax end

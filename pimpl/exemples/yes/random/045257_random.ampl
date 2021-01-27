@@ -1,0 +1,1 @@
+program l1 : H5 : takes _gLaa : boolean array returns nothing when case ghOa and 5 - 2 - 3 : output "" . "B\\"; input B7 end case 91 = 715 : while 62 : chillax end end case 8 = 8 : chillax end; pop end V : takes Z : integer; i : integer array returns nothing let T[- 3 - 4] = 750 = 5 end main : nD, S : boolean; output - 720 and false + u and 7 <= (761) and 14900 - 85 end

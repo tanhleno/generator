@@ -1,0 +1,1 @@
+program S : U : takes c8, P, So, k, Y5, wgP, b0 : boolean; m : integer array; w5, r2, gK, Oxg, f, hPa : boolean array returns integer array chillax end A2 : takes dy, Kj : integer; vC : boolean returns boolean array LgM, Ed90 : boolean; z : boolean array; when case 7 - 6 = 9 : chillax end case 28 : chillax end case 5 : pop end case 15 : chillax end end main : chillax end

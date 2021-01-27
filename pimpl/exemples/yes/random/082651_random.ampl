@@ -1,0 +1,1 @@
+program z2 : main : B7 : boolean array; when case(08 = 0) or H[63] : chillax end case D[6] = - V - 30300 - 28 : when case 4 : when case 96 : chillax end end case 7650 : pop end case 83 : chillax end otherwise : chillax end; pop; when case 1 : chillax end; input VI; pop end otherwise : chillax end end

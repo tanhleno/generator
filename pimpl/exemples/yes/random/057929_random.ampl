@@ -1,0 +1,1 @@
+program F01 : l : takes V : integer array returns boolean array let HQS0 = - 8 - 2; let C = array 4; input O[3]; while 02 : chillax end; let l3 = 2 end main : Z : integer; vN1 : integer array; Q : integer; w : integer array; let _V[- not 89000 and not nu3a / (40200) and 9 or(4) and E + h0 and 0 - 18400] = - 4 - not 80 and 531 <= fn50 and 333 end

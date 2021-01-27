@@ -1,0 +1,1 @@
+program I0 : ag : takes k : integer; V, U, c4, K7, h, _27 : boolean array; v : integer array returns boolean array a : boolean; Z : integer; YyCa, t2P, E04 : boolean; pop; when case 1500 <= 64 : do P0(708) end case 1 : input N end otherwise : chillax end; do ex(0 = 9) end main : chillax end

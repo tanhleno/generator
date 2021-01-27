@@ -1,0 +1,1 @@
+program A : Cb20a : takes W, d : boolean array; V : integer; m8m0, N, ZQ : boolean; YK, gX, d, qtM0, SCq0a : boolean returns nothing m : boolean array; X : integer; w : integer; chillax end main : chillax end

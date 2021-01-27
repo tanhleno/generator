@@ -1,0 +1,1 @@
+program gk : main : S7, j, b1 : boolean array; kY, nc : boolean array; do d6(- (6) rem not 767 /= - true); when case d_7(6) + 9 : chillax end case true and 6 : chillax end otherwise : do PO(50) end; pop end

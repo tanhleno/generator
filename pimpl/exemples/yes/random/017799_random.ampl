@@ -1,0 +1,1 @@
+program Mx : xu : takes S, T : boolean; z9 : boolean array; Ueza : boolean array returns integer array chillax end cy : takes f7, J : integer array returns boolean Y3 : integer; p, zY4, xaw : integer array; w2l, sf : boolean; while 8 : chillax end; while 2 = 2 : output "" end; input i[8]; input s; while 6 : chillax end; pop end main : chillax end

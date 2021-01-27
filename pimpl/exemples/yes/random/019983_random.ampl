@@ -1,0 +1,1 @@
+program o : D34 : takes Pzwa, k : boolean array; dS8 : boolean array returns boolean while false >= - 26300 : chillax end; pop 7 = 8; output 95; while 00 : pop end end B : takes h : integer; p9, L6s, RtM, y, M, r : boolean returns integer array z4 : integer; T : integer; y, p5 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program y9 : main : F9p0 : integer array; when case not(37) >= - (9) or true and 3 : when case - 0 - 90600 > 16800 : chillax end otherwise : when case 54 : chillax end; pop end; when case 8 : chillax end otherwise : pop end end otherwise : chillax end; output "`" . - 64 <= 9 end

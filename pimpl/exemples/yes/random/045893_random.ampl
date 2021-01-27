@@ -1,0 +1,1 @@
+program _1 : vY : takes KKx0 : boolean returns boolean chillax end h : takes r, YF, N : boolean array; X9 : integer; Z : integer array; i, o, W, x : boolean array; Q, i6H0, v79a : boolean returns nothing F : boolean; h : boolean; x : boolean; chillax end main : lH : boolean; while true or false - 09 and 1 - 18 - 13300 /= - 1 * false : chillax end end

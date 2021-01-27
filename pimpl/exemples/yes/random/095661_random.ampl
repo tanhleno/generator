@@ -1,0 +1,1 @@
+program KW : main : when case - (2 = 4) + true * 8 = true : do H(- 60300 - 54500 = 2); do gl(64 = 677, 0) end case - true or 70 + 13 - 10000 <= - not 21600 and 95 + 509 - 07 : do T0(4 = 7) end otherwise : chillax end end

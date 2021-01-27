@@ -1,0 +1,1 @@
+program W : main : EK : boolean; f56, q, I : boolean; output ""; when case 94 or true and 80 /= false and 812 : input W290a[39900] end case 6 + 17 - 07 >= 9 : chillax end case - 0 - 71700 /= 70 : while 428 : chillax end; do DO(4); pop end end

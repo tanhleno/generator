@@ -1,0 +1,1 @@
+program r4 : hK : takes Z : boolean array returns boolean array k, T_, NK : boolean; tV : boolean array; input r7 end main : XW2 : integer array; Z, u9, J : boolean; oS0 : boolean; F8, EE : integer; chillax end

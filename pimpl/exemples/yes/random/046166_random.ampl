@@ -1,0 +1,1 @@
+program T63 : cT : takes kK : boolean returns boolean a, a : integer array; B6j, P : integer array; ly : integer; chillax end n : takes Q89 : integer returns nothing z : integer array; DY : integer array; pop 7 = 49; let Fcz0a[1] = 7 end main : pop not false - 37 and 5 + 63 - 0 = (840) and 4 or 418 - 0; let e17aa = true and 09700 or 880 end

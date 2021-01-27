@@ -1,0 +1,1 @@
+program H : main : f : integer; Q360a, z : boolean array; Sm : boolean array; when case - false * 64900 rem not 5 and 0 : chillax end; while 855 rem d and 8 or true : when case 86 = 05 : chillax end otherwise : chillax end; let O7[9] = array 9850; while 5 : chillax end end end

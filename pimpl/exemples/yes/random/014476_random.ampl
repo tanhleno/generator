@@ -1,0 +1,1 @@
+program E : Z : takes u9, P, g : integer array; u : integer array; P : boolean returns integer hk2aa : integer array; a : integer array; chillax end main : p : integer array; let U = array(31) + 6 or not 984 end

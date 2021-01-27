@@ -1,0 +1,1 @@
+program T47a : P : takes Y71, b3, CD, n3, b, Bc, M : boolean; T72, g, X : integer returns integer array while b9n + 53 - 7 : chillax end; let k3[- 87] = 9590 = 6; while 727 : chillax end; do p2b(576) end main : chillax end

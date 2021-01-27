@@ -1,0 +1,1 @@
+program yp : cG3 : takes W7 : integer returns boolean m : boolean; output 7 - 827 > 0 . "*" end V3 : takes U, p9 : integer array; S4f, U9 : integer array; W : integer; t8Y : integer; g5 : boolean array returns boolean k : integer; R3 : integer array; chillax end main : M, r, _, p67, X8yaa, g9, e : boolean; s45, bC5, Fy2 : boolean; chillax end

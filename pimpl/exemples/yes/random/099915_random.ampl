@@ -1,0 +1,1 @@
+program D : main : while true <= - 032 rem n and 4 - false and 2630 : when case - 75 - 809 : let y = 60 end case 6 = 11100 : chillax end case 8 : pop end otherwise : output ""; pop end; let XRV0a[8] = array 51; when case 06 : pop end otherwise : chillax end end end

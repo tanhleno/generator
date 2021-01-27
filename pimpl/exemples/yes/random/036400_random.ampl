@@ -1,0 +1,1 @@
+program jQ : T0 : takes v3 : boolean; X : integer; f3, jz3a, Ls, HNr : integer array; r : boolean array returns nothing b, H, s : integer; O55 : integer array; while - s + 830 - 505 : output "7+\""; input xD60a; while 316 : chillax end; pop end; do w(00 - 4 /= 68); output ""; input p6[94] end main : P, C : integer; P : integer; chillax end

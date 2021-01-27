@@ -1,0 +1,1 @@
+program b : Q9 : takes d : boolean array returns nothing uCG, V : integer; do10a : integer; x : integer; e, L : boolean; e8 : boolean; q2z : boolean; let iq[- true - 0] = array not 9 and 8 + 9 - 0; while 0 <= 3 : output ""; while 7 : chillax end end; pop 1; do iB(4) end U : takes K, T : integer array returns nothing V0, f : boolean array; output "" end main : chillax end

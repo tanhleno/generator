@@ -1,0 +1,1 @@
+program zg6 : f : takes U, EQz, E : boolean array returns boolean array when case - false and 1 - 282 - 56 : chillax end case 7 : chillax end case 85 = 79 : let XO = 2 end case 8 : chillax end otherwise : while 13 : chillax end end; when case - 63 : pop end otherwise : chillax end end main : chillax end

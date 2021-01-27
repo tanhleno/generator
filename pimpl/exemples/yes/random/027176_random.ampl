@@ -1,0 +1,1 @@
+program Y79 : BY : takes t, E : integer array; BJ, X1, m, wq : boolean; _96 : integer array; UWh : integer; w6 : integer returns boolean array V, D : integer array; when case - true and 0 + 62 - 3 : chillax end otherwise : chillax end end main : when case true /= false : chillax end; let D = - false and 5; output "\\"; pop 046 end

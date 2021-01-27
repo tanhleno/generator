@@ -1,0 +1,1 @@
+program a7o : a : takes u : boolean; pw60, iG, m, cNQ, S, b : integer returns nothing pop; when case 9 - 7 : output "\\40"; output "1" end otherwise : chillax end; input Tmg0 end main : input X0[- false + not false] end

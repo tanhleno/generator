@@ -1,0 +1,1 @@
+program u7 : L3E : takes R : boolean; Q, s, zV50a : boolean array; V, U, u, CD : boolean array returns boolean array chillax end W7 : takes Z7 : boolean array returns nothing E : boolean; let M4 = array 1 - 2; let D1[01] = 543 end main : while false + not 15 <= u7[98] * i38 and 0 - false or 7 - 3 : chillax end end

@@ -1,0 +1,1 @@
+program d : j40 : takes GC4aa, N6d, K : integer array; TA1, e : boolean returns nothing jhw, JF70a : boolean; E : integer array; chillax end main : P, EV : integer array; L : integer array; B : boolean array; do UR(- 8 and false / (0) + false / not 7 and 9 + y or 47); input Q5E0 end

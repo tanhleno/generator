@@ -1,0 +1,1 @@
+program R1 : o : takes Y3G, a1N : integer array returns boolean array Xw : boolean; C7 : integer array; u, tr, Ry9 : integer array; output 8 - 96 = 5 . 3; input g; do p2(7 = 51); while 93 : pop end end main : input U[true / 0] end

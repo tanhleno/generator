@@ -1,0 +1,1 @@
+program U : Sfha : takes X : integer returns nothing while - false + 1 = - 0 - 287 : chillax end end x : takes s : integer; dT : integer array; wY, A, p, eE, nD80 : integer returns integer array chillax end main : output false + (97) = Cz60a and 0 or 84 - 303 end

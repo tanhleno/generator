@@ -1,0 +1,1 @@
+program w : G9 : takes a6y0, bE : integer; r : integer array returns nothing Q : integer; ZI : integer; Si0, Rb : integer; chillax end mSl : takes i5, lZP0a, j : integer returns nothing chillax end main : chillax end

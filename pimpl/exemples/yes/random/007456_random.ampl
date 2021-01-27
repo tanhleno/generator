@@ -1,0 +1,1 @@
+program p : DKB : takes w6, V, d, _ : integer array returns boolean b4, Y9, Y : boolean; when case not 1 or 45 <= - 3 : chillax end otherwise : pop end; do S7(- 79); while 19 = 9 : chillax end; do u(54) end main : o0, i92, mJ : boolean array; K61aa : integer array; chillax end

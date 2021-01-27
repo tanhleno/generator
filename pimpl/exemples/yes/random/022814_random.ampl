@@ -1,0 +1,1 @@
+program L : D : takes bS, xX : boolean array returns nothing while - false + 25 - 78100 /= 95 : chillax end end main : when case - not 2 - not(60) + true and 8 > Ja(896) / false and 4360 - (9) and 2 or 8 : input PJ[- 1 - 2] end end

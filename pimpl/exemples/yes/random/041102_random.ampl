@@ -1,0 +1,1 @@
+program I7 : JT : takes q5 : boolean array; g : integer array returns nothing do v(033 and 29700 - 104 - 2740) end n : takes _, BFj0 : boolean array returns boolean array U490a : integer array; chillax end I : takes Bk, PD : boolean array returns integer output "" . ""; input u[558] end main : let iK6a[- 5 - (6) / (607) and 5] = array false; pop end

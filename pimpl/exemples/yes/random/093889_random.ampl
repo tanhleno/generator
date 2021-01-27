@@ -1,0 +1,1 @@
+program p4W : main : pop - false; when case - false rem 6 + (48) : when case 62 : input dk; pop end case 8 : pop end; when case 027 : chillax end case 99 : chillax end; when case 943 : chillax end end otherwise : pop 23800 end end

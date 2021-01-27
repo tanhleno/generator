@@ -1,0 +1,1 @@
+program I3a : main : W, f, V : integer; while 298 * true * true and 055 or 431 rem k68aa - 6210 : when case - 281 : do Z(17200) end otherwise : chillax end; let y = 5; pop end; let zO9a = array - 4030 * (0) + (428) and 2 end

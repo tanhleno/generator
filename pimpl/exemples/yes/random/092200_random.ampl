@@ -1,0 +1,1 @@
+program Ko : main : output - not not 84400 and(3130) . Er and 6 /= 15900; let p[- not true / o and 1 + true] = - (5) + 9 >= 64600; while - jQ < 827 : let c = array 565; let h960 = 4; when case 6 : chillax end; pop end end

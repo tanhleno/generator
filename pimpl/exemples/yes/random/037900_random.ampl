@@ -1,0 +1,1 @@
+program a : c : takes W : boolean array; k, U, E2, VC6 : integer array returns integer chillax end h2 : takes q20 : boolean array returns nothing do r5Z(- 1 - 7 <= 98, 8 = 6) end SX0 : takes S, lB5aa : integer returns boolean g : boolean; chillax end main : chillax end

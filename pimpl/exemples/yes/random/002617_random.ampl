@@ -1,0 +1,1 @@
+program D : W9 : takes x, E9Da, Su8aa, D57, F1 : boolean array; g : integer array returns nothing let g = - 403 - 44000 /= 1; while 6 - 4 /= 00 : chillax end; pop; when case 541 : pop end otherwise : chillax end; input eP end main : i18, gR7aa : integer array; MO : integer; f, j : boolean; M : boolean; e, G45, C3F : boolean; r7, u : boolean; chillax end

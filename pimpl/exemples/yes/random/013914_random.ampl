@@ -1,0 +1,1 @@
+program D30 : r74aa : takes s6, P, L140 : integer array; H, Og_ : boolean array; l : boolean array; X : boolean array; J : boolean array; K : boolean returns integer when case - I or 3880 : pop 5 end case - 526 < 5 : pop; pop; pop end; pop end main : bM70 : boolean; U : integer; Juea, JP : boolean array; W2aa : integer array; J : integer array; chillax end

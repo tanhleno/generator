@@ -1,0 +1,1 @@
+program F5 : D : takes Y : boolean returns nothing do m(- (39) + 9 <= 54200, 2690 > 1, 4, 9, 2) end yCu0a : takes vKs : boolean array returns integer array d, E5, C, R : integer array; do lT(9 - 2 < 5, 1 = 2, 4, 38800); while 7 : output "2" end end E : takes L : integer array returns nothing do Sc5(2, 83) end main : u, n : boolean; chillax end

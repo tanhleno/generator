@@ -1,0 +1,1 @@
+program R58a : main : do v31(d7 /= false * Y1x and 24 or(78) + 83 - 8); let H4[- (0) * not 149 and 4 - 30300 + 3] = - 4 and 38 < 652; input l; when case 8 - 0 < 680 : chillax end case 8 : chillax end otherwise : chillax end end

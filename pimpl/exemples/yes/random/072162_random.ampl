@@ -1,0 +1,1 @@
+program A : main : Kx60, Tn, u : integer; G, h : integer; let e[not true + (29500) - (07400) and 9] = array iX; when case - (237) / (5) < m + 40000 - 276 : chillax end; input rd; let k[- 0 - 4] = 4; do s(0 = 930) end

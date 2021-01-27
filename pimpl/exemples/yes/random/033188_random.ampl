@@ -1,0 +1,1 @@
+program T : P : takes eP, s1I : integer returns nothing while 18 and 56 or 0 - 8 : chillax end end k : takes E490, C, M : boolean array returns boolean t, m : integer; pop; let Xw[8380] = array 99; while 5 : pop end; output "9" end main : x, P6 : boolean; do G_(not 73 / true <= false, - not(79) - Q = - (4) and 65700 - 1); pop false and 5 >= - 48 end

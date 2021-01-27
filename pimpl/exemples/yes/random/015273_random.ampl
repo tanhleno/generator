@@ -1,0 +1,1 @@
+program U5 : so : takes L1Ma, a, n : integer array returns nothing f, t, O, o4, ciD : boolean; a : integer array; chillax end main : BG8a : boolean; M, G82a, Z360a, M2 : integer array; Vq, O7, N, M, Ly : boolean; a, s : boolean; pop true - (0090) and 19 < (80) end

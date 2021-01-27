@@ -1,0 +1,1 @@
+program z : i : takes n, k, WpD0 : integer array; M : integer array; Ur, k9, U4, l3q, d : integer array returns nothing c : integer array; do w(true and 5 > 4 - 2); pop 1; when case 34 : input c47aa; pop end otherwise : pop end end main : Y2, e, y : boolean; c, XE7 : boolean; chillax end

@@ -1,0 +1,1 @@
+program hti0 : main : DB, p : boolean; i, A, d, n, s, k : integer array; b : boolean array; while(5 = 1) > - 3 / false and 2 : let n[- 0] = array - 6; pop; input D end; input O; while(6220) or 39 - 96 <= 88 - 6 : chillax end end

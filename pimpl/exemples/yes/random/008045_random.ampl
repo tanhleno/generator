@@ -1,0 +1,1 @@
+program VK8 : P4 : takes g, t, n, cw : integer returns integer array a, wOU, X : integer; A : boolean array; pop 8 end main : B60 : integer; while 3 * false rem 5 <= - false : do c(9 - 9, 0 = 09) end; input S82 end

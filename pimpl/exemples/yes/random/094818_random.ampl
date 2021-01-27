@@ -1,0 +1,1 @@
+program L : main : pop; while - not true and true <= - 78200 or 2 : chillax end; input T; while 72200 - 89 = 84 : pop end; while 9 : do Zl8(9); pop end; input i; when case 26 : chillax end; when case 5 : chillax end; pop end

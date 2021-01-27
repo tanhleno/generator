@@ -1,0 +1,1 @@
+program D : Q_ : takes Q : integer; c, A4 : integer returns boolean array DL6, WNua : boolean array; U22, X, b : integer array; u : boolean array; opa : boolean; do T86(- false and 1); input Y end main : output ""; output - k1 - 80 - 7 <= 068 . - 68 = 2 . 717 . "" . 4 end

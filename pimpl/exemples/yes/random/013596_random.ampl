@@ -1,0 +1,1 @@
+program x7 : B6 : takes v0B0, N, k : integer; s : integer returns nothing E6 : boolean; f : integer; while o : pop; let eS = 7; output "f"; pop end end Z : takes I : boolean; e, n, g : integer returns integer array gR0 : boolean array; chillax end main : input b480 end

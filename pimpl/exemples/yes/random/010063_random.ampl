@@ -1,0 +1,1 @@
+program dmd0a : S : takes C, L12, x : boolean array; H : boolean array; e, e : integer; fk, c69, x5ra, V : boolean array returns integer chillax end y : takes o : integer; V : integer; XsH0 : boolean returns nothing E, D, H, w : boolean; D1Ta : integer; chillax end main : chillax end

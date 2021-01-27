@@ -1,0 +1,1 @@
+program M6 : C3 : takes u97, U, T : boolean; Eh00, Zd3 : boolean returns integer array z : boolean array; when case - false : when case 886 : chillax end case 96 : chillax end end otherwise : chillax end; output 82 = 61 . 494; do NY(1 = 1, 22) end s : takes _99 : integer array; t, R0, C, R : integer; Nz : boolean returns integer array chillax end main : chillax end

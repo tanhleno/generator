@@ -1,0 +1,1 @@
+program ZIwaa : Sx_ : takes Mt : integer array; l7Va, q : integer array; nx6 : integer returns nothing chillax end H : takes y, K0 : boolean array returns nothing when case 4 : let H = 60; do F62(8); pop end case 63 : input M end otherwise : while 22 : chillax end; pop end end bY : takes A : boolean returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program AYa : OSL : takes Q5l : integer array; N7 : integer; d, cG, M : integer array; K67 : integer array returns nothing W8D0a, z15, d, rc : boolean array; do Y(not 8 and 1 or 706 - 6 /= 04, - 740 = 74, 0 = 034, 736, 81) end m : takes f : boolean returns nothing fas0a : integer array; G : integer array; i7, _6 : boolean; chillax end main : pop; input E; input giB end

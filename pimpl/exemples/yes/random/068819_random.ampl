@@ -1,0 +1,1 @@
+program C : main : Nb7, G31aa, x5, h, cu : boolean array; do b(- j[51] and true - (49800) - false and 8 or 91100, false rem(4) - not 99 and 93 <= not 5 and 97 + 152, - true or 0 - 4410, 89200 < 8, 7 = 711); output "L" . "" . "" . "I{!" . "=" . "" end

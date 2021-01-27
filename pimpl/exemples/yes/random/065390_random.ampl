@@ -1,0 +1,1 @@
+program D41 : m5S : takes e : integer returns nothing pop; pop 6 end main : U : integer array; when case not not not 25 : chillax end case - not(97300) / false and 1 + (29) or 8530 = - p : when case 68 : chillax end otherwise : chillax end; do i(8); pop end end

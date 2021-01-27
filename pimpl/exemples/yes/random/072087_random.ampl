@@ -1,0 +1,1 @@
+program ifraa : main : L, g, m : integer; cOjaa, rtt : boolean; O, FJ30a, y, L790, H : boolean; while not(18) * true * false and 6 > - 8 or true and 969 : chillax end; let iz[- 26] = true <= 42300 end

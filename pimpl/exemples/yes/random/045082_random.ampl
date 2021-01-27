@@ -1,0 +1,1 @@
+program F : a : takes s : boolean array returns nothing output 3 . ""; output "\\" . 10 end main : g : integer array; xB : boolean; A45, S3j0a, i : boolean; while false >= - true + false and 238 or 9 : chillax end end

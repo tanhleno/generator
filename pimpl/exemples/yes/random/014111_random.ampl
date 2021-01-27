@@ -1,0 +1,1 @@
+program u : s2 : takes G, S, Z : integer array; q, I : integer returns integer array F, da, L920a, U53aa : boolean; z, w : boolean; when case - d and 6060 - 850 - 0 : chillax end; do t25(0 - 2, 95 = 9) end main : chillax end

@@ -1,0 +1,1 @@
+program hW0 : main : g : integer array; O02, L3, a : boolean; bq, zt1, D2 : integer array; m9 : integer; Xy, b : boolean; p : boolean; while not true + false * false + false or 5 /= (4) and not 1 and 6 - true - 5 : chillax end end

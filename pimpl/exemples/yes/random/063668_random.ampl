@@ -1,0 +1,1 @@
+program oqd : Nm : takes tgx0 : integer returns nothing chillax end Qzp : takes C, G64, o : boolean array returns nothing y : boolean array; y8 : integer; chillax end AzH : takes GAxa : integer array; c, kcW, S43, V : integer returns integer array pop 7; output 7 end QL : takes aG : boolean returns nothing chillax end main : vrz : integer array; pop end

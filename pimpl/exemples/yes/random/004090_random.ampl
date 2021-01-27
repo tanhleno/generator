@@ -1,0 +1,1 @@
+program z : Lp : takes U3v0a, V7B, Y34, z8Y0, s : integer returns nothing s, OC, n190a, e : integer array; while 9 + 9 <= - 009 - 7 : chillax end; let lZU0a[- 27] = 5730 end main : let S06aa[(9740) / (929) rem false] = - not H end

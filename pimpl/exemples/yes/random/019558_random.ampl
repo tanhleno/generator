@@ -1,0 +1,1 @@
+program hp : Fu : takes ay60, W : boolean array; WWQ, yxN : integer array returns nothing l, c, E9, f2, A_W0 : integer array; j, N : integer; R : boolean array; input Mxy; output 45 = 653; while 5 : chillax end; let u2 = array 8; let Qr = 1 end main : iZ30a : integer array; fOKa, u, B, S5, Cr30 : boolean array; input B0R0[- false - 15000] end

@@ -1,0 +1,1 @@
+program t39 : h : takes _ : integer returns nothing when case 5 - 6 - 71200 <= 39 - 06 : when case 23100 : pop end case 2 : chillax end; pop end case 13 - 3 < 0 : chillax end case 0 = 2 : do n(768) end case 0850 : pop end case 43 : chillax end; input m5Ya end Bp : takes s, c, k, z, p02, f2n0a : integer returns integer chillax end main : chillax end

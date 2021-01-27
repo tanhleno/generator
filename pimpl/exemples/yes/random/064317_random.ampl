@@ -1,0 +1,1 @@
+program Ld : t3S : takes M : integer returns nothing VW, HzFaa, J : boolean array; M, SC, o5 : boolean array; chillax end U : takes kh7a, w, C : integer array; B, S : boolean; Hf : boolean array returns integer array chillax end main : Q : boolean array; output "\"S0a" . ""; input n; output - 14 - 7 . 434 end

@@ -1,0 +1,1 @@
+program u : c : takes r, h, I : integer returns nothing I : integer array; chillax end main : while 3560 or(428) <= false * (8) and 2 : do Rh9(- 3); output ""; let LKV[883] = array 6 end; while - K350 - true > - false - 4 - 1 : output "\"\t!a" . 5840 end end

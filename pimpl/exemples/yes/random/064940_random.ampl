@@ -1,0 +1,1 @@
+program h : JG : takes d : integer returns nothing iT : integer; r27, Aa, x0 : boolean array; c : boolean array; chillax end L1 : takes X97 : boolean array returns nothing output "Z" . 2 . 29; let w = array 19900 end main : l : boolean; chillax end

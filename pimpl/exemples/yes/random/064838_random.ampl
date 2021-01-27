@@ -1,0 +1,1 @@
+program Li : EN2 : takes c : integer returns nothing Q : boolean array; _49 : boolean array; chillax end main : so, B, C : integer array; Wluaa, u3P : integer array; let m = - qZ(138) * Cb and 1 /= 3 and 882 + 49 end

@@ -1,0 +1,1 @@
+program K : main : V13 : integer array; Z : boolean; _, L : integer array; do PIK(- false > - not(2) or false - 8 - 4); do i(- false / true and 9 - false and 8 - 3 >= (6) and 2); input ec[- 7 and 127]; pop 0 = 87; while 0 : do P7(235) end; output 54500 . "" end

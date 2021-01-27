@@ -1,0 +1,1 @@
+program A : Ne : takes q, B : integer returns nothing pop end Fn : takes Xr : boolean returns integer when case - 8 >= 034 : chillax end case 7 : let v6 = 3; pop end case 12400 : chillax end end main : h7u0, G, h85, Do9aa : integer; qT : boolean; chillax end

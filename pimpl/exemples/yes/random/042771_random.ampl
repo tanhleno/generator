@@ -1,0 +1,1 @@
+program p1 : Kim : takes a : boolean array returns integer array zb : integer array; Xj30a : boolean; AfD0 : integer array; Ff8a, AnO : boolean; QA : boolean; let aJ = array - not 4 and 7 end l8 : takes g : boolean returns nothing do GA(8) end main : xnD0a : boolean; N : boolean array; chillax end

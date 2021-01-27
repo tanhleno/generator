@@ -1,0 +1,1 @@
+program xW : r57 : takes z : integer array; C, e, Q, c2Y, r, e : integer returns nothing j3, y : integer array; when case - not 12 and 361 : input Tq7aa[102] end otherwise : output "" end; while 5 - 148 : chillax end end main : e : integer array; l, p : boolean; do U(- 713 > - 27 - i or 8 - 0); while false and false + 1 and 877 /= false and 29 : chillax end; pop - 9 = 97 end

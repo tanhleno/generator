@@ -1,0 +1,1 @@
+program e8 : LB : takes H9 : boolean array returns nothing when case - 2 and 19 = 1 : output 9 . "68" end case - 828 : chillax end end main : I, u, qz : boolean; G : integer array; B, Ms, v, k, H7 : boolean; p, g : integer array; Zs, b : integer; pop - not false * P700 and 22 <= 0 and 90 end

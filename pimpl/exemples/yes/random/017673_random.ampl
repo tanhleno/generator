@@ -1,0 +1,1 @@
+program gZ : u : takes W9, I : boolean; o1 : boolean; h6 : boolean array returns integer while - 8 and 6 or 32 >= - 04 - 171 : chillax end end r1 : takes z1t0a : boolean returns nothing input o[- 6 - 3250] end main : t5 : integer; do y87aa(Yf >= - 6 / w, V(7) + 0 and 2 or 00300, - not 2960 and 09 > 1 - 39) end

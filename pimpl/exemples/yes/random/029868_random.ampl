@@ -1,0 +1,1 @@
+program y : YG : takes y2, C : integer array returns integer array input e7; let i42 = array - 6 - 446 end main : Q4, h : boolean; wG : integer; x, O : integer array; Z30 : boolean array; T, j : boolean array; V, kB : boolean; let W = false or 67 and 6 end

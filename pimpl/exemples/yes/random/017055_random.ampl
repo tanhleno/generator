@@ -1,0 +1,1 @@
+program I : R42aa : takes G3, g : boolean; r8p0, A, ZK : integer array; xf, I : boolean array returns integer array Sz80, l : boolean array; i : boolean; chillax end k8 : takes b : integer returns nothing pop 118 = 8; output "?\"" end main : i, V20 : integer; Z : integer array; O2i, S : boolean array; chillax end

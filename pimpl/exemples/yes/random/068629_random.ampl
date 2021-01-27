@@ -1,0 +1,1 @@
+program b : main : lF5, e, B, rY, e7, e : integer array; while - 75 : chillax end; input L; let g[- 6 and 1740 or 0 - 12] = array false; when case 5270 - 1620 > 6 : chillax end case 1 : while 0 : chillax end; pop end case 0 : chillax end case 61 : chillax end otherwise : chillax end end

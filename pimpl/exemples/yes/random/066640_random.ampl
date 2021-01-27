@@ -1,0 +1,1 @@
+program _ : main : do s(- 4 - not false - not 29); do W(- not not 9 + a and 437 - 88 - 2 > - true, - (1)); output "" . "3l"; while - 95 >= 87 : input CP7 end; when case 0 = 09 : input P end case 29000 : pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program pf20 : W : takes p12 : integer returns boolean array QY, z : boolean array; Y11aa : integer array; Q : integer; M, s : boolean; j5 : boolean; chillax end main : Ixi, WJ, K, dy, H, _ : boolean; S : boolean array; A : integer array; chillax end

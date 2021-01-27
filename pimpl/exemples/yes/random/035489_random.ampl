@@ -1,0 +1,1 @@
+program v : ir : takes Cb : boolean; Qi : boolean; C : boolean array returns integer pop end main : yX, j94aa : boolean; when case true rem true : pop; input U; do V0(1) end; pop true and 88 or 6 = 8 - 6230 end

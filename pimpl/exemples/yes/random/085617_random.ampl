@@ -1,0 +1,1 @@
+program i : main : _03a : integer array; m5, e, J, g, UgKa : boolean array; d4Ha : integer; input J7[- not(8) rem false]; output - Y and 7820 + 14500 - 40 > 329 . 8560 - 56 . 23 = 92 . 6; while - false - 530 - 22 > - 8 - 1 : while 2 : chillax end end; do D(- 4) end

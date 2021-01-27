@@ -1,0 +1,1 @@
+program p : E : takes xw, G71 : boolean array; L9E0a : integer returns boolean array chillax end l : takes U6 : boolean array; mnI : integer array; G : integer; Q, C : boolean array returns boolean o, y, sW, I : integer; chillax end g : takes x, o9, N, hk, B : integer array returns nothing while 159 : while 43300 : chillax end; pop end end main : dA : boolean; chillax end

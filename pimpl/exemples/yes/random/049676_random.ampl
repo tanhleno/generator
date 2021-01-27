@@ -1,0 +1,1 @@
+program Q : H : takes en : integer; sV20, skC, U, w : integer array; L15 : boolean; B9, H, P, olXaa, h : integer array returns nothing chillax end main : when case - (0130 = 7) : chillax end; output "\"\\"; do AY3aa(- kA and 772 + 87200 - 96 = - 42 - 45, - 1 - 0 = 27) end

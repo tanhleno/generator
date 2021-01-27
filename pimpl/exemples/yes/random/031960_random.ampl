@@ -1,0 +1,1 @@
+program z : Tof : takes K, H58a : integer returns integer chillax end O : takes e : boolean; q0, xxj : integer array returns integer array while - 838 >= 1190 : chillax end; when case 4 = 97200 : chillax end; do hR(973, 107); output ""; do x(3) end main : chillax end

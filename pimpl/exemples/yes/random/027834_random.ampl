@@ -1,0 +1,1 @@
+program Tz00a : XN : takes T, U1 : integer array; G, K : integer; fM, u, iH : boolean array returns boolean P : integer array; o19aa, K : integer array; chillax end f : takes v : boolean array; YO2, f, g, hQk, B, iE : boolean array; d, sK : integer array returns integer a4Aa : integer array; D : integer array; B, q : boolean; let K = array 0 end main : S1 : integer; chillax end

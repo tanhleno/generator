@@ -1,0 +1,1 @@
+program v6 : q : takes N : boolean array returns nothing E2, u8, fG, I : integer array; let o3 = - 6930; do I3(- 93 - 54 /= 78); input l end xj : takes L, lB, a, T : integer returns boolean array output 7 = 96; while 8 : chillax end; input j end main : chillax end

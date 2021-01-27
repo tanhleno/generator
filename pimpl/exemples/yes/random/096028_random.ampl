@@ -1,0 +1,1 @@
+program u : main : when case - vp60a < - true or not 9 : while 55 - 543 : chillax end; do h(88 = 0, 63000) end otherwise : while 5 = 7 : let fbqaa = 59 end; while 6540 : chillax end; input pb; let M = 0; pop end end

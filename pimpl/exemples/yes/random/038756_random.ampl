@@ -1,0 +1,1 @@
+program b02 : s : takes B4 : boolean array; Q, Zk : boolean array returns integer array Y9g : boolean; Ksiaa, E8, C, V2 : integer array; pop 1; input l; pop 8; let d[0] = array 1 end main : g : boolean; when case NhI0 : output "#" end otherwise : do l4(9 = 44) end end

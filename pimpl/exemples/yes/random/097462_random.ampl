@@ -1,0 +1,1 @@
+program Y : main : when case 1 and not(60600) and false and 7 - not true / false and 1 : chillax end case - t(9) and(12) and 46 /= true and 4 or 676 - 209 : do Z1H0a(4, 5); let wj7[9] = 1 end case true - 98300 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program z : main : while - (9 = 00) < not not 3 rem not 4 and 718 - (6) and 935 : chillax end; input T8[not(2) - (1) and 777]; do jOja(- 4 and 6 = - 25 - 44); let cy[403] = array - 2 - 75; pop; while 9060 : pop end; when case 6 : chillax end end

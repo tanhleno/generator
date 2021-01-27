@@ -1,0 +1,1 @@
+program V9 : Ne : takes Z : integer; c, Ra, Gq, c1, zJ9, WR, lT : boolean array returns nothing M8 : boolean; A, G : integer array; x, H3 : boolean array; let Wj[49600 - 65 - 5] = array - not 4 end F : takes U : boolean returns nothing chillax end main : do Zk(- eR(8, 9) <= - 7 rem false); input vH; input B11[false + 9 - 550]; pop; output ""; input NS2 end

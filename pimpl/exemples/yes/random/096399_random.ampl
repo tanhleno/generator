@@ -1,0 +1,1 @@
+program QV : main : when case - 5 - not kFw0 and true = - G rem(2) and 35 + (32) : chillax end case - (27) < UjT : chillax end case(0) < - 8 : chillax end case 22600 - 8 : while 7 : chillax end end end

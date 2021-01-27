@@ -1,0 +1,1 @@
+program q : C : takes A, Ql, g17, xc, u, F3, n : boolean returns nothing do m(- false and 48 + 84 - 4 >= - 41, 669 > 7100) end Wg : takes r : boolean returns integer array IO8a, a, b, O : integer array; tS0a, g : integer array; chillax end Md : takes sKe, x : integer returns integer array l : integer array; l, mh : boolean; chillax end main : chillax end

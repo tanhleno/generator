@@ -1,0 +1,1 @@
+program v : k : takes V, q, j : integer array; q, d, t2ba : boolean; Bg : integer array; Y460a, _8, S, d, Jp : integer; i, J1, Y : boolean array returns nothing m, r9, S, I270 : boolean array; p : integer array; S7ga : integer array; while false + 0 - 6690 < 91 : while 8 : chillax end; do r_E0(9); while 8 : chillax end; pop end end main : z1 : boolean; chillax end

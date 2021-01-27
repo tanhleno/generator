@@ -1,0 +1,1 @@
+program X : _pUa : takes w1, Gh, z, Q : boolean returns integer array while - true and 6 : chillax end end main : kZ1a : integer; do M(- false); when case - true + true and 0 >= (8) + 21 : output "u\\" . "7S" end; output - 5 end

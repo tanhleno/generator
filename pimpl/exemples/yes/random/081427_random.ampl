@@ -1,0 +1,1 @@
+program c : main : TM : boolean array; P, Yr : integer array; X, c, GO : boolean array; A, s, Ev1aa : integer; let r[true or false * not 92] = - r73(2760) + (8) < - false - 27 - 5; while - r / not 07 - false and 7 < - false : chillax end end

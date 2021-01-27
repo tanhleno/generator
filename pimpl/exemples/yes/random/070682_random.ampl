@@ -1,0 +1,1 @@
+program s : main : Rx1, X, p, q : integer array; while - (983 = 4) / false * not 21 and 7 >= not false : do c(- 3 < 6710, 80 = 624); let NW = 3; when case 96200 : chillax end case 95400 : chillax end otherwise : chillax end; when case 442 : chillax end end; input b end

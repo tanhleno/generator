@@ -1,0 +1,1 @@
+program co70 : _ : takes Z : integer array returns nothing ph, d : integer; SBY : boolean array; y, Bv : integer array; T, Q : boolean; pop; when case 001 > 6 : chillax end end main : gL, w94, o33 : boolean; input w end

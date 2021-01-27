@@ -1,0 +1,1 @@
+program K7 : I : takes I : integer; B : boolean array returns integer array Y, c81 : boolean; chillax end v9raa : takes x : integer array returns boolean T1 : boolean array; l : integer array; input MZ; when case 4 = 0 : chillax end case 5 : chillax end otherwise : chillax end; while 3 : chillax end end main : pg6 : boolean array; chillax end

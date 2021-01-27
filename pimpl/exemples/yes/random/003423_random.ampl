@@ -1,0 +1,1 @@
+program X29 : D : takes h, JXT, WXw, o, i : integer array; G7Ma, k4, d2_ : boolean array; T : boolean array returns integer when case - (892) and 9 or 7 - 35 <= - 31 - 0 : input A end case - 2 - 6 >= 35 : let bF0 = 89; do Ib9(12) end case 3 : chillax end otherwise : chillax end end main : do E((175 = 66) rem false or 34 and false and 63100) end

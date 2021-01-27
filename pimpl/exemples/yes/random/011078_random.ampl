@@ -1,0 +1,1 @@
+program y : e : takes PU, t26, I : boolean array returns nothing chillax end MYy : takes m : boolean returns nothing while 8 - 7 > 6 : when case 636 : chillax end end end main : pop 8 rem not 4 + (01) and 5 >= not 4 or 44 - 1 end

@@ -1,0 +1,1 @@
+program ZNv : u1M0a : takes w, O1, D1x : integer returns nothing c, b, e9, N, a5T0a : integer array; pop; output 7 = 99 end x1 : takes fTl0 : integer array; S, c38, p78 : boolean array returns boolean u, w1 : integer; do RQ4(8 > 335); do N(7 = 78, 9) end main : chillax end

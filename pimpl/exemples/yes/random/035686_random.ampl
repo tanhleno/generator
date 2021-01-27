@@ -1,0 +1,1 @@
+program zI1aa : D5paa : takes m : boolean; v : boolean array; yL3aa, L4A : integer array returns boolean q : boolean; chillax end main : DY : integer; F, o : integer; input l9Maa[(2)]; let e[- 49 * true and 075 or not 1 and 9 + 11] = - w or 28800 >= 22 - 7; while - true and 14 = - 68 - 972 : chillax end end

@@ -1,0 +1,1 @@
+program T : J4 : takes d, L2H : integer; F : integer; Cg, Di : integer returns nothing m3F, R7n, XI3 : integer array; YR : boolean; output 5; let b5[9 - 0] = 68700; do q(60) end gm : takes GX1 : integer array returns integer array when case - 9 - 97 : chillax end otherwise : chillax end end main : chillax end

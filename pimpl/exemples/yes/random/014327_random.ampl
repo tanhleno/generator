@@ -1,0 +1,1 @@
+program q : R1c : takes TSf, y, c : integer array; DLY0a : boolean returns boolean array L, x4, s : boolean; v, U5 : integer array; lJ : integer; when case - 2 or 5420 >= 37 - 1 : pop end end main : chillax end

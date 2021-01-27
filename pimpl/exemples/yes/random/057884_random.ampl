@@ -1,0 +1,1 @@
+program g : F : takes A : integer array returns boolean array V : integer array; chillax end main : T, S : integer array; D, K : boolean; when case - 9 * true * false and 2 or not Ily / (8) and 2 + true and 34 - 6 : input oF8[7]; while 9 = 6 : chillax end end otherwise : chillax end end

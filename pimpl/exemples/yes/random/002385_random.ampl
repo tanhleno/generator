@@ -1,0 +1,1 @@
+program j : t5ea : takes i03, UM, H25, a, Y : boolean array; J, M, b, X : boolean array returns nothing n9, n0 : boolean; y : boolean array; V, m : boolean; SFg : boolean; do vpS0a(- 5 - 7 - 81) end Hc : takes E : integer; F37aa : integer array returns boolean array K890, k, T39 : integer; s : boolean array; pop 2 end main : uw : boolean; chillax end

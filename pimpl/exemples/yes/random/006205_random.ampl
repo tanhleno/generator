@@ -1,0 +1,1 @@
+program Q : bg2 : takes h, Ps, Ea, B : boolean returns nothing A : boolean array; chillax end K : takes d, oug0a, u : integer; OZh0, l : integer; V, q, Q, t : integer array returns nothing mz : boolean; when case - 84 - 835 > 8 : chillax end end main : Q : boolean array; Y : boolean; k : integer; chillax end

@@ -1,0 +1,1 @@
+program W : q : takes Nc, Dc80 : integer; f : integer; W, X9V, xT, D7k : boolean returns nothing ud : boolean array; when case true and 5 - 31 - 9280 /= 5 - 58 : pop 62 end otherwise : chillax end end main : when case t - r8 or(72) > 85300 + tmn + 0 - 9 : chillax end case y < - Zn : let o[6] = 7; pop 06 end end

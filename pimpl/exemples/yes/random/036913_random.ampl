@@ -1,0 +1,1 @@
+program t : H0taa : takes h0j : boolean; Z : integer array returns boolean array S78, V, c68, u5, O : boolean; pop end main : _, l66, W5w, i : boolean; pop - not true and 1 and 7 /= - K and 3 or 67 end

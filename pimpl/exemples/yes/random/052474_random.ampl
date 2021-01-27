@@ -1,0 +1,1 @@
+program XX : Z : takes a : integer; U7D : integer; p, N2 : integer returns integer input n end C3 : takes z73a, Qgl0, oAuaa : integer returns boolean array Slwa : boolean array; m, C, F64aa : integer array; nS : boolean; chillax end main : Ql, f, Hb, P : integer; while true + false and not 2 and 00 >= - false : do R3(2390, 2 = 17300, 37, 78); do g(01800) end end

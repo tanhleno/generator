@@ -1,0 +1,1 @@
+program x : n : takes cK : boolean array; mK : boolean array; m : integer array returns nothing chillax end dY : takes Z9, R : boolean array returns nothing Y, Y : boolean; pop; when case 353 : chillax end end I5 : takes a : integer returns integer output 4 . "" end main : while(84 = 45) : output 9 = 47; output 2 . 88 end end

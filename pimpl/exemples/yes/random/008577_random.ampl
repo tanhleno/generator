@@ -1,0 +1,1 @@
+program N : Id : takes qW, D, c : boolean; j, e8b0a, M4 : boolean array; A, r : boolean array returns nothing input r8u0[(6) and 96] end main : D, g : integer; do vR(- C5(6) and false, - true / k6 and 39, - false and 9 - 524 - 3 = 9 - 2) end

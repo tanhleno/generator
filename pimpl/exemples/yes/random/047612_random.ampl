@@ -1,0 +1,1 @@
+program i84 : B : takes G : boolean returns nothing chillax end T : takes x_ : integer returns nothing v, W : integer; c, zt : integer; i : boolean; chillax end main : p : boolean; do J63(- 35 and not not 932 - du(66) * true and 55 + (4) or 604 /= V or not 78 + 41, - true) end

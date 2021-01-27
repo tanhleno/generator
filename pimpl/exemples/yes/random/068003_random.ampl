@@ -1,0 +1,1 @@
+program sA1a : main : Mj, B, L, o, z, Jr, fi : boolean; when case - not not false rem _(4) and false and 81 > 48 + W and 4 : do A(87 - 2 >= 1); while 56400 : chillax end end case ae(88) - 07600 and 21 or 3 - 9 = P and 6 : chillax end case true : pop end end

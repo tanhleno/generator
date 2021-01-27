@@ -1,0 +1,1 @@
+program q : ED : takes J : boolean; P : boolean array returns boolean B : integer array; chillax end j : takes n1Xaa, do1, V580a, k, L0w0a, ar, r : integer array returns nothing chillax end U : takes SXc, g, ulJ0, e, X, t6 : integer array returns integer K, gZ : boolean; i5S : boolean; y : boolean; JEH0 : boolean; pop 6; pop 6; output "'-"; do x(1); pop end main : chillax end

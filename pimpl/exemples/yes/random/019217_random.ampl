@@ -1,0 +1,1 @@
+program r : qv0 : takes R6, J7 : boolean array; UJ, C : boolean array; h : boolean returns boolean array let q0l0 = array true and 0 - 6 end D53 : takes K, z8 : integer returns nothing let Z = 6; while 577 : chillax end; pop; input Op end main : NV9, Y, v0, X : boolean array; output "" end

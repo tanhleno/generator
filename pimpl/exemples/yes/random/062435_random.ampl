@@ -1,0 +1,1 @@
+program wg0 : b : takes KA4aa : integer returns boolean v, U31 : integer array; J, G : integer; chillax end D : takes T, W5, p : integer array returns boolean chillax end main : let T89 = array - not(38500) * 576 end

@@ -1,0 +1,1 @@
+program Y : N740a : takes G, x, k, I : boolean array; B4ia : boolean; j, W7, G : boolean array; wo : boolean array returns nothing N, o9, l : boolean array; d, K, b : boolean; SD : boolean; CL : boolean; OU : boolean; chillax end main : while - (04) > - f(82) - 4 + 494 - 9 : when case - 362 - 4 /= 045 : chillax end case 95 : output "93!a"; pop end case 27 : chillax end end end

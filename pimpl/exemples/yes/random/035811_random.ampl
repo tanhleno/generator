@@ -1,0 +1,1 @@
+program Umt0a : Z : takes L : boolean; u : boolean array; o : integer array returns nothing let o = array true and 4 - 59; input x0[- 0 - 1] end main : P, L : integer; f, N : boolean array; chillax end

@@ -1,0 +1,1 @@
+program V : C : takes H7d, E : boolean array; o, X0, M, FGF, O : integer returns nothing pop 95700 /= 0040; output ""; when case 2 = 4 : chillax end end main : ha, p06, d, J, FS, HH7, e : integer; iN : integer; chillax end

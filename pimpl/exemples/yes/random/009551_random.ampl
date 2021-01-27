@@ -1,0 +1,1 @@
+program b : q : takes TGQa, V4, q65a : boolean array; NDM, f, fM9, e, L720a : integer returns boolean _1 : boolean array; pop 7 = 1 end main : EG : boolean array; while - not not J2 / not false : chillax end end

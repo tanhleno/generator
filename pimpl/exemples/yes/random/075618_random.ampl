@@ -1,0 +1,1 @@
+program Z76 : main : M, b : boolean array; when case - false > - 3 / true : while - 9 <= 61 : chillax end; input D; when case 67 : pop end otherwise : chillax end end; let W440[- 3] = - true or 85 end

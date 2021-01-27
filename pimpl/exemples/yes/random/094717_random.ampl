@@ -1,0 +1,1 @@
+program D : main : pop; when case - not not 0 > not 51 - 5 : do A(78, 7, 7); when case 4 : chillax end case 9 : chillax end otherwise : chillax end end case - false and 75 <= 6 : chillax end otherwise : chillax end end

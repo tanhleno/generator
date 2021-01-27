@@ -1,0 +1,1 @@
+program U : U : takes a : boolean array returns integer array let P7 = - 94 - 5 /= 1; while 5 < 766 : chillax end; input Y9[372]; pop 43 end main : d, E8, c5A : boolean; m : integer; K0, aZ8a : integer; zD : boolean array; i : integer; P, S2h : boolean; q : boolean; chillax end

@@ -1,0 +1,1 @@
+program x : g : takes J4d0a : boolean returns boolean f : boolean; V, Pbxaa, C4, I : integer array; d0, CGR : integer; vy, M : boolean; L : boolean; S68 : boolean; chillax end N : takes M, Rk : boolean returns integer array do U(2 - 1, 53, 59) end main : chillax end

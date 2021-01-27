@@ -1,0 +1,1 @@
+program CO : Q5w0a : takes UG, wu : boolean returns integer array output - 6 > 1870; when case 949 - 35 : chillax end case 1 : output "\\_\"" end; input D; while 7070 : chillax end end main : chillax end

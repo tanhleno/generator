@@ -1,0 +1,1 @@
+program GL : U5 : takes f, P75 : boolean array returns boolean r_3, d : integer array; IT4 : boolean; when case false - 38300 /= - 0130 - 0 : let C3[6] = 9; while 6 : chillax end; when case 8 : chillax end end otherwise : chillax end; while 2040 - 07 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program yl0 : M : takes n3 : boolean array returns nothing m2 : boolean; B1ma, E, X1 : integer array; j : boolean array; output - 0 - 40; when case 02 > 58 : output "{"; while 8 : chillax end; pop end case 6 = 2 : output "v\t\"a" end otherwise : chillax end; let vR7a = array 18 end main : v, r5 : boolean; F, P : integer; H, gZN, r, w, uE : boolean; chillax end

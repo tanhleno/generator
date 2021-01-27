@@ -1,0 +1,1 @@
+program x : p : takes lK, an0 : boolean returns nothing Yv0aa : boolean array; b : boolean; chillax end main : h, AW3, u0 : integer; gN6, e, K88a : integer array; pop; do b5(- true and 454 - not 7 and 5); pop 00200; pop 7 = 4150 end

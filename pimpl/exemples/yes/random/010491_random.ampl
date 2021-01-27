@@ -1,0 +1,1 @@
+program t6 : s : takes v, M, J7 : boolean array; M : integer returns nothing input Bx; let H = array - 6 - 3; do j(965, 9) end _2 : takes ADp, Eb, V8 : integer; h, t, E, O : boolean; h4 : boolean array; J : boolean array returns nothing w, a : integer; KK40a : integer; gk8a : boolean; iZ : boolean; chillax end main : do n(- true, - x[4] / 0 and 1 or not 3 + 1 - 94 = - (4)) end

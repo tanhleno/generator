@@ -1,0 +1,1 @@
+program m : g : takes C, Q5saa, n : integer returns integer let D[- n and 26] = array d and 353 or 6; input E5[- 3]; while 5530 = 71 : chillax end; while 867 : chillax end; pop end Mi4aa : takes VE : boolean array; ZB : boolean returns nothing chillax end main : pop end

@@ -1,0 +1,1 @@
+program T5r : main : U, X : boolean array; when case(60 = 72) rem true /= - (22400) : chillax end case M[3] - F and 2 + 906 > true and 19 - 4 : chillax end case(049) and 1720 : when case 9 : chillax end; pop; do SK(41); pop end end

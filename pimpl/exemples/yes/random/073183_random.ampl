@@ -1,0 +1,1 @@
+program BZ : main : v, bt, Mh : integer array; when case xe40[7] and true or o76[7] : let o = 4 = 18 end case eI : chillax end; output "s90" . 51 - 2 < 02600 . "7"; when case true or 4 - 29 : chillax end case - 9 - 4 : chillax end otherwise : chillax end; output 8 = 58; do vo(654 = 9); while 6 : chillax end end

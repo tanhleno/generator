@@ -1,0 +1,1 @@
+program eA4 : W : takes J9, j8 : integer; u : boolean array returns boolean chillax end Y : takes ieUa : integer array; z : integer array returns integer i : integer array; chillax end A : takes L : integer; w54aa : boolean array returns nothing chillax end main : chillax end

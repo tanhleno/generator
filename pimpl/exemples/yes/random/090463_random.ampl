@@ -1,0 +1,1 @@
+program q : main : let a = 4520 and rF70 and 87; let B[9 - true and 098 + 69] = array - 59 and not 6 or 2 - 6; do V2(- true and 34 > 7 - 20); let c2aaa[74 - 2010] = array - 80; let s = array 0; while 27 : pop end end

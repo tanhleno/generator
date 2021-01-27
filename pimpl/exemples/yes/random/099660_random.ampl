@@ -1,0 +1,1 @@
+program F : main : while 945 - M(0) / kH and 10 or 150 and 6 - 1 : chillax end; when case(5) / Lq > false or 7 : chillax end case w4N + 3170 - 15 : chillax end case 28 - 75 <= 07 : let v460a = 5 end end

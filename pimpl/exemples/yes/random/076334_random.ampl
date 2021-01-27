@@ -1,0 +1,1 @@
+program W : main : t, V : integer; N4Za : boolean array; e, Niz0 : boolean; L0 : integer array; when case - 93 * not not 8 - (8) >= (0) / (15) : while - 1500 - 2 : chillax end; pop 0 end case not not 2 and(4) : chillax end case - 1 and 84 : chillax end end

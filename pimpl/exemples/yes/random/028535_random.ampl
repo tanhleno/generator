@@ -1,0 +1,1 @@
+program l : V : takes N, Ct_aa : integer array; Dt60 : boolean returns integer array chillax end V : takes sFd : boolean returns nothing chillax end main : vR : integer array; h : boolean array; pop; output - 8470 and 9 or 368 - 83200 end

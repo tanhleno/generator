@@ -1,0 +1,1 @@
+program w : j : takes rQ : integer; NY7a, b, g : integer returns boolean chillax end main : wU40a, n, N : integer; k370, ud, x9 : boolean array; qNTaa : boolean array; vI, k86, Es7 : integer array; chillax end

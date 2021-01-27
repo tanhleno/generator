@@ -1,0 +1,1 @@
+program O : c34 : takes Q4Iaa : integer returns nothing k21, Lt, z, i, Jx80 : boolean; while 9660 and 752 or 94000 - 3 : chillax end end main : when case(0 = 9) /= - true - not 6 and 68 : input D end otherwise : do j(445 = 30, 834) end; pop; while 9 and 3 or 1 : pop; input JB; while 1 : chillax end end end

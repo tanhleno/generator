@@ -1,0 +1,1 @@
+program vrNa : l6 : takes b7Z, z, E : integer array; l3 : integer returns boolean array N600 : boolean array; pop - 9; when case 387 - 89 < 0 : chillax end case 2 = 922 : output "" end case 10 : chillax end case 3 : chillax end otherwise : do j0(36); pop end end K : takes BUf, U : boolean returns nothing l7 : integer array; while - 9 < 0 : chillax end end main : chillax end

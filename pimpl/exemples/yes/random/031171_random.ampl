@@ -1,0 +1,1 @@
+program n : E : takes c3, S1 : integer returns boolean array chillax end R68 : takes b1, o : integer array; sc : boolean returns nothing when case - 1 : when case 963 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program q : _33 : takes S3s, b : integer array returns integer X, A, a4c0 : boolean array; while - 55 + 0 - 8 > - 483 - 9 : output 0; do DaN0a(6) end; while 651 : when case 7 : chillax end end end main : C, d, t8Ra : integer; chillax end

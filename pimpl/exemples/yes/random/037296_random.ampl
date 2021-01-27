@@ -1,0 +1,1 @@
+program d6 : z : takes c6 : boolean; V : integer returns integer output - 17 < 9 . 3 . "\\9" . 7; when case 8 - 3 : chillax end otherwise : pop end; while 27100 : when case 504 : chillax end end; while 296 : chillax end end main : ps, q : boolean; chillax end

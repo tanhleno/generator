@@ -1,0 +1,1 @@
+program v6 : main : kI, k0, o, vw, YjN : boolean array; i05 : boolean; ve : integer array; while - true : chillax end; input s; when case A > - 14 : chillax end case - 20800 - 7630 : do x(1); when case 9 : chillax end; pop end otherwise : chillax end; while - 73 - 2 : input f end end

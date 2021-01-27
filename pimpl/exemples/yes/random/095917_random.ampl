@@ -1,0 +1,1 @@
+program wZ : main : when case - false rem false + 5530 rem not 32 and 0 >= 9 : chillax end case - (9) rem j or(44) < - true : pop end case - 9 : chillax end case 9 : while 8 : chillax end; do U(737); pop end case 03 : chillax end case 1 : chillax end; pop; let ps[- true and 1] = 2 - 3; pop 4 = 61; output 2 . 9 . "0\\"; pop; pop end

@@ -1,0 +1,1 @@
+program M : V : takes m, u6 : integer returns nothing chillax end main : Z : boolean; when case false and 91 * lN and 5 >= 83 rem(59600) and 50 - not 6 and 55 + 94 : chillax end otherwise : chillax end end

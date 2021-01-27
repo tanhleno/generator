@@ -1,0 +1,1 @@
+program G6G : E : takes KIn : boolean returns nothing h6 : integer array; while - not 3 : when case 38600 : pop end otherwise : chillax end; pop; pop end end k : takes FT, m, x7S, i3 : integer array; G, a : boolean array; Ym, sY : integer array; Pc, z9ya, r, q : boolean; l, dc, DvY0 : integer array; m : boolean returns nothing chillax end main : chillax end

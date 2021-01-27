@@ -1,0 +1,1 @@
+program w : lz : takes EMma, M, U : boolean returns boolean array a : integer; pop; do N(- 6 - 4) end NO : takes V, G : integer array; L, T3, l4, z, T140 : integer returns integer chillax end main : rchaa, U6M, _c : integer array; chillax end

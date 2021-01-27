@@ -1,0 +1,1 @@
+program M4 : main : L, Ey20a, N9m, q, _, d6Ha : boolean array; f : boolean; k, E : boolean; pop(9) * 511 and 357 >= - N and 6 or 3; when case true <= true and 6 : chillax end case - jzJ <= - 7 : input FP6[024]; output "" end; pop; when case - 368 : chillax end otherwise : chillax end; when case 6 : while 6 : chillax end; pop end otherwise : pop end; let F[138] = 0 end

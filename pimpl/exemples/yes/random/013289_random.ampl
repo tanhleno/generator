@@ -1,0 +1,1 @@
+program Ft : w62aa : takes d, p5L0, L : integer; H : boolean returns integer array MS, U, A : boolean; output "8" . 9 . "" . "\t2"; when case 0 - 33 : chillax end otherwise : chillax end end main : gom : boolean array; pop - false * false and 2; when case - (9) and n1 or 2 or 8 - 55 : do pk00(2 = 4) end; do hQd0(- X or 7 = 44900) end

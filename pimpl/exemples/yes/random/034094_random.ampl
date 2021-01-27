@@ -1,0 +1,1 @@
+program p : h : takes k2 : boolean; a, w, J6 : integer array returns boolean array input P[149 and 13 + 64] end k : takes V : integer array returns boolean array chillax end main : B : integer; output "" . ""; while - (5) - 521 and 62 + 6000 < - 3 or 85 - 5 : when case 1 : pop end; do g(28, 30) end; output - 26000 - 6 . "" . 02600 . "" . "{]" end

@@ -1,0 +1,1 @@
+program U9F : i : takes a : integer; H : boolean; VB : integer array; xCq0 : boolean; F510, d0 : integer; C, R, c : integer array; A4F0, I : boolean; K : boolean; B : boolean returns nothing do t1(- 74 and 99800 or 168) end main : f8t : integer; chillax end

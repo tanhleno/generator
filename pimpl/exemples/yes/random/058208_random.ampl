@@ -1,0 +1,1 @@
+program Y : C1e : takes U : integer array returns boolean uw, w, U : boolean array; Muw, B : integer; V7zaa : boolean; L : boolean; when case - (6) - 632 : chillax end; input KP60a[2]; output ""; let BXv = 9 end main : K3x : integer; i, C0Sa : boolean; j8S0a, Or8aa : integer array; chillax end

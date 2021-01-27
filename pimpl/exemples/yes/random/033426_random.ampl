@@ -1,0 +1,1 @@
+program w : k : takes A : boolean; rdY, f, d, C, X : integer array returns integer pop - 52000 - 0; let H = array 1; input y1; when case 62 : chillax end end Kc7 : takes F : boolean returns nothing chillax end main : output ""; output "" . "" . "" . "~F" . 9 end

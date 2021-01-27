@@ -1,0 +1,1 @@
+program wR : d61 : takes Z0 : integer array; T1, P31aa, Rw : integer returns nothing chillax end main : tI : integer; do k(- _M0[3] / false rem false or(519) + 79900 > (6) and(232) + (59600) - 183) end

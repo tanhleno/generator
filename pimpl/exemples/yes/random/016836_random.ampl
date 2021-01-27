@@ -1,0 +1,1 @@
+program S : ws : takes O4, r : boolean; C, Z, Mb80, Dn : integer; k87 : boolean array; kE, C2Waa, Y0 : boolean array; U : boolean array; T : boolean; _, IC10 : boolean returns nothing chillax end main : xN : boolean array; output - false and false <= 7 and 0 . "@" . 9 - 1 >= 092 end

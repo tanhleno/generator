@@ -1,0 +1,1 @@
+program wcC : l7 : takes S3 : integer array returns nothing chillax end B5 : takes f3e, Kj6, E : boolean; u : integer returns nothing i6 : integer array; P, k, X : boolean array; E : boolean; do v(65900 /= 268); let n[6] = 7900 end main : U03a : boolean; b : integer; OU3 : boolean array; chillax end

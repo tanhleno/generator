@@ -1,0 +1,1 @@
+program k7E : e : takes An8aa, c, o, A6, e, Og7a, c : boolean returns nothing t : integer; vY7aa : boolean; j : boolean; chillax end main : E1Za, j3, N : integer array; input R[- (6) and 105]; when case e(8) : input ssw end case - 70300 and 5 - 5890 : chillax end case 1 /= 3 : input eR end case 996 : chillax end otherwise : chillax end end

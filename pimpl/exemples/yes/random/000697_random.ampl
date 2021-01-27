@@ -1,0 +1,1 @@
+program d9 : R : takes z, v4k, ogj0a, M8, hp7, bs, tU : boolean array returns boolean f : integer; chillax end V : takes b34 : boolean array; k2E0a, Vr9, G8ia, JE, q, U : integer array returns boolean array output 3270; pop 8 end main : d1gaa : boolean; chillax end

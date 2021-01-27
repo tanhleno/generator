@@ -1,0 +1,1 @@
+program q22 : N0J : takes mR, bP : boolean array returns boolean array fOqa : integer array; j, X1 : boolean; output "9" end DS : takes _, v : integer array; i, CE : integer returns nothing au, a : boolean; let L[20 - 0] = 5 end u570 : takes D, M, J5B : boolean array returns nothing chillax end main : Pp, Y : boolean array; pop - false; pop end

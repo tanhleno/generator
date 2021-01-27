@@ -1,0 +1,1 @@
+program uf1 : mk : takes o710, P5f, m, c : boolean array; p7 : boolean returns boolean chillax end Q : takes Y : integer array returns nothing chillax end Zn : takes e : boolean returns nothing _, G, j : integer; Upu, x : boolean; S : boolean; r8 : boolean; when case 9 = 111 : pop; pop end otherwise : chillax end end main : chillax end

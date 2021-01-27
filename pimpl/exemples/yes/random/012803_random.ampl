@@ -1,0 +1,1 @@
+program P7 : P : takes r, Q4, B : integer; q_, H, p : integer returns nothing wHT, nw7a, O8, M, d : boolean; mm : integer; o4, K, s : boolean array; K : boolean; D6 : boolean; chillax end main : chillax end

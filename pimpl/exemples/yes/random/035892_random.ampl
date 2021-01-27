@@ -1,0 +1,1 @@
+program U : knSa : takes Y : boolean; B : boolean array returns boolean c : integer array; chillax end J : takes f : integer; A, Ez, UK00, m, P : boolean returns boolean l3xa : integer array; Xq40 : integer array; chillax end main : Uy2 : boolean array; x_7 : boolean array; chillax end

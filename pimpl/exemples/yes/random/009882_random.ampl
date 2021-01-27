@@ -1,0 +1,1 @@
+program Q : o04 : takes i2, vBX, MM : boolean array; Ih, G2 : integer; b : integer returns nothing j, R, O, WB : integer array; when case - v2 or 76 > - 59 : chillax end otherwise : input s end end main : E, CX, u : boolean; Nu, u : boolean; let V4 = array not hv(4) and(006); when case - 03 + H and 1 or 3 /= - (93200) : chillax end end

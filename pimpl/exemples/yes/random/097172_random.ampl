@@ -1,0 +1,1 @@
+program cq8 : main : when case not false rem 5 + true * (1) - false = not not 40600 / not 6 and 32000 or not 8 : output "" . 619 . "\"U" . "\n3" end otherwise : when case 0860 : do L420(4); pop end; when case 7580 : chillax end end end

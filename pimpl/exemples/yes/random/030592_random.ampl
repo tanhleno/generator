@@ -1,0 +1,1 @@
+program cf : Z9z : takes M, A : integer array returns nothing hP0, Eg20a : boolean; w : boolean array; chillax end main : k : boolean array; input W[- false rem(56)]; while - true - (1) : chillax end end

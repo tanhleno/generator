@@ -1,0 +1,1 @@
+program o26 : hm40 : takes A : boolean array returns integer z41a, C : integer; l, Rf : integer; d, n8Oaa : integer array; BY : boolean; nF4 : boolean; l : boolean; chillax end R : takes Sj : integer array; T, v52 : boolean; B, hx : boolean array; v, f6 : boolean; Ym : boolean array returns integer array K1 : boolean; chillax end main : H, G8, _, g : boolean array; chillax end

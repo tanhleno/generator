@@ -1,0 +1,1 @@
+program R : main : B, K, o, m, Z : boolean array; do I5(I8(68, 3600) and true and(06) or Ok8aa(81) and(1) < not(932) + false and 6, sV / h and 1 + 92 or 916 >= - 0 - 23 - 7, H and 5 - 232 - 46300); do Z(- (10) rem not 0 or(3)) end

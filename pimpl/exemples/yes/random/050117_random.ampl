@@ -1,0 +1,1 @@
+program E : Z : takes z : integer; W72aa, Rs3aa, D8n0 : integer array; V : boolean array returns nothing chillax end i00a : takes x, U, Y : boolean returns boolean Q7D : integer; uG : boolean array; do zTa0a(- 97700 - 9); do anT0a(1080 = 4) end main : v3Y, K : integer; _4q : boolean; cx8 : integer array; input J[- 2 * 548 rem(90700)] end

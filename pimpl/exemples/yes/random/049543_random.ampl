@@ -1,0 +1,1 @@
+program z900 : R : takes k : integer; R, S, S, FCJ : boolean array; h, L : integer array returns integer pop 4 - 87; while - 3 = 0 : chillax end; while 3 : let g = 1 end; while 0 : pop end end main : Nn3, T : boolean; while - not true : chillax end; do U160a(- true * not 17) end

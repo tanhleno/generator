@@ -1,0 +1,1 @@
+program h : I1 : takes b9 : integer; _ : boolean array returns nothing let d = array true and 05 - 8 - 47 end main : X, uK : boolean; input A[- AV60a and false / (8)]; when case - false : output "`6aa" . ""; let X2R0 = array 9 end; while - 50 and 3 - 8 < - 08800 : chillax end end

@@ -1,0 +1,1 @@
+program d : B7 : takes I, z, pS7a, E71aa, I, W : boolean array returns integer let T5P0a[false and 37] = array f and 71; when case - 369 : chillax end otherwise : input ko1; pop end end main : G5 : boolean; chillax end

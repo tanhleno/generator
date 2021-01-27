@@ -1,0 +1,1 @@
+program Bx3a : main : pop - H97(06) < - false and 879 - 8760; when case - (7) and(850) and 0 or p and 1 /= false and 6920 + 3 : while 100 : chillax end end otherwise : chillax end; while - P070 - 97900 < 5 - 79600 : chillax end end

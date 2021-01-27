@@ -1,0 +1,1 @@
+program Z7 : main : K : integer; J, I34 : boolean array; Q, k3Aaa, f7e : boolean; while true or not xB > true + false and 8 - 4 - 5 : pop; output 0 . 089; while 336 : chillax end; when case 4 : chillax end end; do _o(- true - true, gB /= - 4); let sWN[not 643 and 221] = array false end

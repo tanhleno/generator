@@ -1,0 +1,1 @@
+program R : Z : takes U : integer array returns nothing do s((2) + 46200 - 6, 42900 - 668 < 5); input ic7[2 - 5]; input Y end H : takes d : boolean; P6, R0 : boolean array returns nothing i : boolean; output 86 . 7 end Au : takes w, _ : integer returns integer array XcK : integer; is, B21aa : boolean; chillax end main : let g1 = - true and 91 and 7 = 3 and 08 - 1 - 5440 end

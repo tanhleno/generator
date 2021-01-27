@@ -1,0 +1,1 @@
+program j : main : when case 09 - true = - X + true and 5 : chillax end case - false and not 633 >= - not 06 : chillax end otherwise : pop 1; let IA60 = 4610 end; do C(- true < not 7820, (57200)); while t and 9 : output 83; output ""; when case 8 : chillax end; pop end end

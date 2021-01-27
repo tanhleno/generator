@@ -1,0 +1,1 @@
+program Wde : main : when case - not P(6) and(09) /= X * not 0 and 1 - 843 : let M = 15 = 58 end case - (5) /= - false : pop 2530; let W = 93 end case - false : do Q(10, 9); input M end case 7 - 8 : chillax end; when case true = (1) and 01 : input V end otherwise : output 887; when case 0 : chillax end; while 4 : chillax end end end

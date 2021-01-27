@@ -1,0 +1,1 @@
+program s : U : takes e6, X7 : integer returns nothing pop 69 < 0; let u[- 8] = 9 = 6; do tl(6); let xc[921] = 4 end main : M, T1W, d83a, vMpaa : boolean; output - false * true and 768 = - not 1 and 824 . ":"; when case - false / (77) /= - (0) and 9 + 3 - 64800 : chillax end case - 7 or 7 - 7 < - 7 : chillax end; when case 3 or 92600 - 6 <= 63600 : chillax end end

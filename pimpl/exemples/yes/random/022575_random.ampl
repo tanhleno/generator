@@ -1,0 +1,1 @@
+program L : DyU : takes Q, p8 : boolean array returns nothing u : integer array; T5, r, zXNa : boolean array; Q, KJ7aa, E : boolean; input G[- q10aa and 32]; while 7 < 0660 : chillax end; while 6 = 7 : chillax end; do m(167) end main : y, j : integer; B : boolean array; chillax end

@@ -1,0 +1,1 @@
+program N : A7 : takes K : boolean array returns nothing chillax end main : let P[not(6) rem not y6 or(2) + true and 276 + 604] = not(6) and 0010 or(45700); when case(0) rem true >= not 962 + 01 - 8 : chillax end case true + 81 - 3 > 9670 - 58500 : when case 9 : pop end otherwise : chillax end; while 2 : chillax end end; pop 654 - 6 end

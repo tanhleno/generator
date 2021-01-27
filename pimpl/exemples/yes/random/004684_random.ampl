@@ -1,0 +1,1 @@
+program I : Z : takes d, Q3o0a, Lw6aa, M : boolean; N : integer array returns nothing output 5 >= 1 end main : e, Y0 : integer; OmT, V9ra : integer; D1, f : boolean array; HE : boolean array; W, dR6, U : boolean; PR : boolean; chillax end

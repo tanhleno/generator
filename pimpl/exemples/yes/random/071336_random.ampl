@@ -1,0 +1,1 @@
+program Y : main : F890, s, w7 : boolean array; do i1(- 55 + true - false and 1 - 80 - 98 /= not not 4 / 9, - (9) rem w and 0 >= true and 8 + 6); do T95(not(0) / not 0 = false and 73 + 44800 - 4090); do L(- (1280) - 1) end

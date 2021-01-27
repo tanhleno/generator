@@ -1,0 +1,1 @@
+program yU : dp : takes Z : boolean array returns nothing G : integer array; when case - not 0 : output ""; when case 88 : chillax end end otherwise : chillax end; while 87 : let B = 5 end end KyI0a : takes kN, j0, T : integer returns integer x0Sa : integer; v9k, D, c : integer; chillax end main : chillax end

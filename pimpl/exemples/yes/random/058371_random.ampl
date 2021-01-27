@@ -1,0 +1,1 @@
+program Q : t : takes H6u : integer array returns boolean L : boolean array; P : integer array; xA, u, EX20a : boolean array; let c9r[- (831) and 0 - 42] = array - 6 and 1; input lg; output "3" . "\"#\"a" . "" end L : takes l, D : integer array returns boolean array S3 : boolean; chillax end main : b : boolean; input l2S end

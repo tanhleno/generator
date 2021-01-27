@@ -1,0 +1,1 @@
+program I : main : when case - (3 = 6) * hQ8[5] - not not 41000 / IOl or false + 4470 - 4 <= (1) or false - 93 : chillax end otherwise : chillax end; pop; when case true or 378 : when case 56 : chillax end otherwise : chillax end end case - 6130 : do m(7); while 56 : chillax end end; let f1[830 - 6] = 95100 end

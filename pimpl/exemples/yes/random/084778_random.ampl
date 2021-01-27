@@ -1,0 +1,1 @@
+program u : main : aT5 : integer; let L[(05) or true] = array f(94, 2) and true rem(990) and 2 or g + cGq0a and 6 + 77; pop - not 2 = 48 - 93; let y[wh and 49600] = - 22 < 55; let z5r0a[- 5] = array 86; pop 008 end

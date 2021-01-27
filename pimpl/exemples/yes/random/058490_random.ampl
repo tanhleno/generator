@@ -1,0 +1,1 @@
+program H : W : takes G450a : integer array returns boolean output - 68 end main : when case 04 / not true rem 71 > not(13) - 10 : while - 6510 >= 0 : pop; while 938 : chillax end end; do Q1Q(47 = 6, 28, 2) end end

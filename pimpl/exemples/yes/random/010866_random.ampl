@@ -1,0 +1,1 @@
+program T1S : S64 : takes d, p, y : boolean array returns integer array A29 : integer array; let ZG[- 4] = - 69 - 03 end main : do k7Z(true rem 2 > - not not 85 rem(18) and 5 + false, - 0 rem 4290 /= - false or 26 - 31, - I); let X = not 2 + 0; while - 9 or 0 - 0 : while 8 : chillax end; do lr50a(16); input C end end

@@ -1,0 +1,1 @@
+program nK : main : d : boolean; V6 : boolean array; y : integer array; scb : integer; output "1" . ""; while TU(433) / (3) : input oM[28]; let c = 966; when case 6080 : chillax end; when case 11300 : chillax end; pop end; do r((836) - 1 - 3); while - 4 - 327 : while 0 : chillax end end end

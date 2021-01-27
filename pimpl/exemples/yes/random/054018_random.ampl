@@ -1,0 +1,1 @@
+program E : SC4a : takes uo1 : integer array; K, E, f : boolean array returns integer array SK, r : boolean array; chillax end p : takes X, M1, o1, zM6 : boolean returns nothing U : boolean; NX : boolean; h, f3n : boolean; chillax end main : chillax end

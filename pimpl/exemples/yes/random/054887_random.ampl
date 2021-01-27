@@ -1,0 +1,1 @@
+program y : c : takes J : integer array; x, a8 : boolean returns nothing let s8[0 + 56 - 2] = - 5; do LW(- 60 - 350); when case 9 : chillax end case 93 : pop end case 34 : chillax end end L93aa : takes t : integer array; _ : integer array; e, v, Ioya, F : integer array returns boolean array p4 : integer array; chillax end main : chillax end

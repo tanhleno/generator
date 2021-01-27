@@ -1,0 +1,1 @@
+program o8C0a : M : takes G6 : integer returns nothing r, VBMaa, s, u8z : integer; H : integer array; chillax end p : takes R : integer array returns integer chillax end Y : takes b5e : boolean; Z : integer returns nothing chillax end main : vq : boolean; a : integer array; chillax end

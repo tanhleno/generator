@@ -1,0 +1,1 @@
+program u3n : O310 : takes R : boolean array returns nothing do Z28(not 1 /= 82) end MSH : takes W, W7 : boolean; z, g0 : boolean array returns nothing chillax end m2 : takes L, B8v : boolean array returns boolean array z95, wa, j1 : boolean array; L : boolean; do l(3, 2); input l[12] end main : Cg : integer array; let Sk8[(44) / p[1040]] = 873 - k or 92 - 5 /= (55) and 1 end

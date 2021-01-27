@@ -1,0 +1,1 @@
+program K : main : when case not true and not false - (9) * (82) or 5 < - 88 / 3 and 294 or(7) and 93 : chillax end case true : chillax end case U19 and 0 - 2 - 0 >= 255 : input x[95] end case 8 < 4 : do y(15); pop end otherwise : chillax end; input p9; input C7; let laY0[90900 - 1] = 2 = 83; do H(1 = 0, 91) end

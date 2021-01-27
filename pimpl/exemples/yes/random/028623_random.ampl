@@ -1,0 +1,1 @@
+program s9 : J8v : takes M8, h59 : integer array; q6 : boolean returns nothing pop 127; do b(9 - 34 /= 935, 54700, 98) end v : takes M, C, oTi, o9 : boolean array returns nothing chillax end main : J : boolean; pop true end

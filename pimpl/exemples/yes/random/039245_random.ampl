@@ -1,0 +1,1 @@
+program S : z8 : takes d : boolean array; T, s2 : integer array returns boolean u, gh : integer; input c end main : zA00a : integer array; r600, W0, z, Mc, O3, R : integer array; Z, S5, a : integer; x73, GRc : integer; pop - 7 or 89 and 338; do gI00(- (0) or true + 840 = false + 69, - not 79 and 808 - 9750) end

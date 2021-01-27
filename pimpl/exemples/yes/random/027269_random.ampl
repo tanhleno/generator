@@ -1,0 +1,1 @@
+program y : O1 : takes y, F : integer array; R, W, i, zi : integer array returns boolean array output 6 - 58 end main : B : boolean; do f(9 * (4) and 236 + not Aa and false > C rem true and 436 or true and 6770, - true and false >= - false or 5 - 5, (7) and 022 + 3 - 2); while(4) : chillax end end

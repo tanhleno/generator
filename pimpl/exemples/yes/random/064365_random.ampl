@@ -1,0 +1,1 @@
+program _ : C : takes N : integer returns nothing O, Q70, a : integer array; do Q02a(- (4) < - 68 - 2, - 1 - 2150 > 33200) end AA10a : takes S, L : boolean returns nothing output 0 end main : M650, I : integer array; pop(1) / true + false and 4 + 2 = false and 17 end

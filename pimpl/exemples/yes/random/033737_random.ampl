@@ -1,0 +1,1 @@
+program w8E0a : N : takes D_80 : boolean; _B1, OJ, _ : boolean; b, I4, x : boolean array; cM8, K, n1 : integer returns integer array output - 407 . "Vc!a" end main : vz, lJ : integer; j07 : boolean array; a5 : boolean array; do l2(- false - sf); input E[(957) and(35)] end

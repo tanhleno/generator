@@ -1,0 +1,1 @@
+program Y : UPEaa : takes r : boolean array returns boolean array z8z : integer; b8, A : integer; UX7 : integer; when case - true and 0680 : chillax end case 577 >= 93300 : chillax end case 49600 = 70000 : do s(1) end end main : Dye : boolean array; J, e2 : boolean array; u6v : integer array; chillax end

@@ -1,0 +1,1 @@
+program t : z : takes O8, S : boolean returns integer array output - 9 - 2 end K3 : takes f, c, L : integer array; j9 : boolean; j : boolean array returns nothing G, m, _, b : integer; chillax end main : S1 : boolean; Kt, y9, L : boolean array; k : boolean; chillax end

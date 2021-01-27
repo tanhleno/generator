@@ -1,0 +1,1 @@
+program w : Q1u : takes B, TRI : integer returns boolean array M, k, Ln, J1 : boolean array; T : integer; ZI : integer array; input a[not 4 and 2 or 70 - 8]; when case - 793 - 8 >= 0 : chillax end case 2 = 81 : let Z = 3; pop end case 6 : pop end case 5 : chillax end; input E[1] end main : pop - not not 7 < not 1 + 5 end

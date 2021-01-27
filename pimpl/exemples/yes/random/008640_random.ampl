@@ -1,0 +1,1 @@
+program ai3 : n : takes X65a, IS, f : boolean; DD, tHf0a, x1 : integer array; k13 : integer array; j7h : boolean; o : boolean; LJ : boolean returns nothing input W[- not 01100 and 09]; input A06; pop end i : takes k : integer array returns nothing pop 2 = 95 end main : chillax end

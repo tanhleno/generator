@@ -1,0 +1,1 @@
+program t6S : V : takes O, MSt, N : integer returns nothing chillax end Ow : takes O77, J, m : boolean returns integer chillax end H : takes TmP : boolean returns integer m : boolean; chillax end main : Rv : integer array; H5b, E8, W : boolean array; when case false rem 79 + false : pop; output "" end end

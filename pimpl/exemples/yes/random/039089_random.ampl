@@ -1,0 +1,1 @@
+program sH4 : a : takes sB00a : boolean array; g, OO80 : integer array; i, Vv, ES20a, e, l6, z2Ga : integer; H : boolean; B, c : integer; xm50a : boolean returns nothing chillax end main : pop; do r9Ca(false - not 573 and 3 /= - false - 35, true, - 3) end

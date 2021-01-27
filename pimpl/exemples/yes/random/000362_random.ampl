@@ -1,0 +1,1 @@
+program s : A : takes z, Vr5a, w, s, V, g, w4B, E2n : integer; F : integer array; Xg : integer array returns nothing input d[not 001] end main : while - 08 - false < - a8 / (4) and 0 - not 4 and 840 : chillax end end

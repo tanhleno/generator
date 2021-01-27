@@ -1,0 +1,1 @@
+program x : flm : takes aH : boolean returns nothing WAY : integer array; v : boolean; qa : integer array; F, q : boolean; q2 : boolean; let _ = 6 - 72900 > 78; do JU3(8 > 5, 0 = 9); input lY[59] end main : jN, m5 : boolean array; chillax end

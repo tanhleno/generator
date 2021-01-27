@@ -1,0 +1,1 @@
+program CO8 : main : K, z, Y240 : integer array; i3, f, mz : boolean array; pop; input Y[not not 6 and not 7 or Q + 9 - 5]; when case Sl - 16 < - 150 : chillax end case 3 - 9 = 8 : input w end otherwise : chillax end end

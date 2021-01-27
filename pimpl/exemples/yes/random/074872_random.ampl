@@ -1,0 +1,1 @@
+program b : main : Z5p, pJ : boolean array; E6Sa, M6 : boolean array; when case - false / (5) rem 1 : when case - 2 - 43000 : chillax end end otherwise : pop 5; while 122 : chillax end; do E(2); when case 948 : chillax end end; output "5J\""; while - true = - 6 - 55 : chillax end; output 4 = 8 end

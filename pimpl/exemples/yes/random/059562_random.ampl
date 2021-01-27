@@ -1,0 +1,1 @@
+program K : h87aa : takes U : integer array returns integer pop; let O0 = array - 2 end K : takes O, x9 : integer returns nothing p, Q8 : integer array; chillax end main : p89, f, vP, P4, q, C : integer; pop 3 * false and 0; let _O[7 rem(029) and 02 - false and 3230 + 4 - 856] = array - not(96) - true or 2 - 1; when case - not 90 >= 9 : chillax end; pop 1 = 8 end

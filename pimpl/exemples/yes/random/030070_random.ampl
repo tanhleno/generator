@@ -1,0 +1,1 @@
+program mg : GL : takes uH1aa, X : integer array returns integer R5 : boolean array; when case not 7 and 015 + 2 > - 6 : chillax end otherwise : chillax end end m : takes A : boolean array returns integer array m : integer; let N[2 - 0970] = array - 9 - 9 end main : chillax end

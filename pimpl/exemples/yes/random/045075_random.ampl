@@ -1,0 +1,1 @@
+program I1 : r : takes K : boolean array returns nothing output - 8720 - 99 /= 86 . "" . 2 end f : takes V, r, U8 : integer; d : boolean; T4 : boolean; p, k : integer array returns nothing chillax end main : let D140a[not V1] = false rem false - false or 1 end

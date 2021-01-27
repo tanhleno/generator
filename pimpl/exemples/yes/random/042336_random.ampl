@@ -1,0 +1,1 @@
+program X9X : l : takes lF2a : boolean array returns boolean output ""; while 7 - 87 < 04900 : pop; pop; pop end end d : takes M89aa : boolean returns nothing let N3C[591] = array 19; output "" . "\\" . "0:" end main : chillax end

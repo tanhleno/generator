@@ -1,0 +1,1 @@
+program RH : n : takes M2 : boolean array returns boolean array E9M : integer array; o, m, w1 : boolean array; V420a : boolean; chillax end main : aX : integer array; V0 : integer; B, Q8 : integer array; while YF(6, 4) / false and not 4 - false and(8) = - true rem true or not 7 or 67000 : input n2 end; while true / not 9 <= - false and 3 + 3 - 08200 : chillax end end

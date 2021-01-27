@@ -1,0 +1,1 @@
+program I7U : K : takes vlca : integer array returns nothing h8 : integer array; when case - false and 19 > - 7 : do O(8); do Zp(57300); do r(58); pop end otherwise : chillax end end v : takes K : integer; Q : boolean; G2 : boolean returns integer array b : integer; chillax end main : C, c, TJM : boolean; R21 : integer; e : boolean; chillax end

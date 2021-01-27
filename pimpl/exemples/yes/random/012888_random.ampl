@@ -1,0 +1,1 @@
+program L : mrk : takes yi6aa, E, y : integer; A9s, G5 : boolean array returns nothing T, m : integer array; l8, d, i, H : boolean; H, hp0aa : integer; x : boolean; F : boolean; let Y2[tjj] = - 08 - 70 end k5 : takes L, o, t10 : integer; N, f, F2 : integer returns integer pop 272 end main : do K(B1[4], 4 * false and 11 = not 5 and 1) end

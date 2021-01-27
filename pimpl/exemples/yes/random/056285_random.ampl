@@ -1,0 +1,1 @@
+program J590 : e : takes hMvaa : integer array; p8 : boolean returns boolean n1, K, m, lW : integer array; q : boolean; when case - (3) : chillax end case 823 /= 9 : let k = 92; do AvJ(9); pop end otherwise : chillax end; let C[0 - 5] = array 22 end main : pop - (34) and V > - not 4 and 1 or 8 end

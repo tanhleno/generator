@@ -1,0 +1,1 @@
+program T : AJKaa : takes t, I, Y7 : integer array; W : integer array returns boolean pop 861 - 7 end main : T, S, h5 : integer array; i9k : boolean array; output not(48) * 60 and 6 <= (995) and 130; pop; let Lj4[- false - 4] = - 0 - 253 >= 54200 end

@@ -1,0 +1,1 @@
+program KHNa : main : input Sk9[false / 5 or K5(6760) rem not 9]; while - not G6 /= - 684 and 2 : chillax end; when case not 90 >= - 35 : when case 12600 : pop end; output "5" end case - 792 - 22 = 1 : when case 4 : chillax end end case 04 = 9 : output "4" end otherwise : chillax end end

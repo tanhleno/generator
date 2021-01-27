@@ -1,0 +1,1 @@
+program vw : main : t : boolean; output "" . - false < - 58 . "\"" . "\\\t" . 0310; when case - 3 * false <= - true : while 4 : let M0 = 8; pop end end case - (46) and 794 >= 3 - 9 : chillax end otherwise : pop; input G end end

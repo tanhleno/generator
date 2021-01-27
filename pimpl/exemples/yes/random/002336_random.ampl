@@ -1,0 +1,1 @@
+program u : U : takes d, A, v, l, v : boolean; x : integer array returns boolean output ""; do EH7(5 - 12000) end T5x0 : takes C1R, WH : boolean returns nothing j99, C, P, E6 : integer array; when case 3 - 9 = 50 : input J end otherwise : pop; pop end; do x7Ma(62, 80) end main : let t[not(8)] = - true / V /= - true end

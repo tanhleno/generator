@@ -1,0 +1,1 @@
+program m : X : takes Y3, p8m : integer array; eX, jHX, P : integer array; z6Z0a, pN, D, m : boolean returns nothing i : boolean; chillax end main : h : integer array; let x2 = y(6) * false; do f(- (8) * false, - (4) and 80, 665 - 77, 98 = 24); while - 46500 : when case 18 : pop end; pop; output ""; pop end; while 19 : input U8i end; when case 4 = 936 : pop; pop end end

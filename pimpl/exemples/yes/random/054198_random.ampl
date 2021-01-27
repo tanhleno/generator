@@ -1,0 +1,1 @@
+program C_ : K : takes G : integer array; G, ut, Sw7aa : integer array; m, D : boolean array; Gv, Lq5 : integer array returns integer u90, w : integer array; U : boolean; let j36a = array - not 17400 or 70 - 4 end j : takes Y : boolean array returns nothing f, C : boolean; when case 7 > 250 : when case 5 : chillax end; input w6; pop end end main : chillax end

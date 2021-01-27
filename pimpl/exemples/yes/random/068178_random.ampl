@@ -1,0 +1,1 @@
+program WUV0a : main : j94, Y, d, b8, Lp, V53, v : integer; when case - not y01 rem 1 > - 9 - 95 and 9 : chillax end case 9 : pop 955; input z; pop; when case 23 : chillax end; pop end case - not 1 and 73400 : input i; do k(79); do z(44500); pop end; output iZ = - 0 end

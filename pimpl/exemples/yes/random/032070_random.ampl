@@ -1,0 +1,1 @@
+program J840 : i : takes r, p : integer returns integer g : boolean; t, L : integer array; pop 4 end main : r, by : integer array; while not(39) / false and not 6210 and 8 or true : output 2 = 9 . "" end; pop end

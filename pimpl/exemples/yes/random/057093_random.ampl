@@ -1,0 +1,1 @@
+program Utp : a : takes I74 : integer array; k : integer array returns boolean chillax end h0 : takes U : integer array returns nothing Y, k : boolean; Mz : integer; Dp, td : boolean; chillax end Hp : takes VVoaa, I7G : boolean; b : integer returns boolean array n, M, T1w : integer array; output "7" . 14 . "" end main : B : boolean; l : integer; pop end

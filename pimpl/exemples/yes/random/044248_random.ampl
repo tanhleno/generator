@@ -1,0 +1,1 @@
+program r : F : takes xc : boolean array returns nothing _Ara, yn1 : boolean array; V, u : boolean; R : integer array; Y : boolean; chillax end main : v, Q, s07 : boolean; Bi0 : boolean; when case - (45) / (1) or(9470) / not 6 + 9 or 2 : chillax end case 6 > false and 2660 : chillax end case(681) + 5 - 97 : chillax end end

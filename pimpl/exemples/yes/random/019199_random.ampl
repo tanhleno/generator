@@ -1,0 +1,1 @@
+program M0 : Z1 : takes K, m : boolean array; Z, O : boolean array; MF1a, Cc : integer; r : integer; _ : boolean; H, I, U70a : boolean array returns boolean array when case true > 93 : chillax end otherwise : pop; pop end; input o[- 07 - 62] end main : chillax end

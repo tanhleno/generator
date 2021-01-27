@@ -1,0 +1,1 @@
+program y : l : takes m2, T1 : boolean array returns nothing W110, B : integer array; chillax end Ff : takes e : boolean array returns integer array E39a : integer array; output 0 . ""; do s(16 = 5, 9, 2) end main : chillax end

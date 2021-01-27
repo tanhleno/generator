@@ -1,0 +1,1 @@
+program vs : eh_ : takes K, P : boolean array returns nothing do L5(- not 45600 and 977, - 3 >= 6, 49); while - 73 - 38 : pop; when case 241 : chillax end; pop end end main : aRk0, X, h, Qen0a : integer array; chillax end

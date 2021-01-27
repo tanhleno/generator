@@ -1,0 +1,1 @@
+program F : main : do Z((795) / false rem not 36 + false * not 1 <= - true * true and 1, not(2), not 5 and 6110 <= 054, 7 - 3 > 25100, 7); input X[(543) + (7)]; when case - (875) - 01 : pop end case 2 /= 9 : chillax end case 948 = 70 : let X = 4 end; do E(- 8 >= 8, 42300 = 94, 2, 8); pop 957; pop end

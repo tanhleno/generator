@@ -1,0 +1,1 @@
+program v4 : G : takes e : boolean; hq : integer returns integer when case - 33400 or 0 - 7 : chillax end case - 26 : chillax end otherwise : chillax end; pop end main : E, Ru : boolean array; chillax end

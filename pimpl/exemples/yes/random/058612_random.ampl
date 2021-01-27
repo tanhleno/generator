@@ -1,0 +1,1 @@
+program a : Z : takes Z : integer array returns integer array chillax end a8C0 : takes r : boolean array; q, J, B, rkE : integer; G3 : integer returns integer array EKp, l : boolean; a3, FK : integer array; Li, zt : boolean; chillax end main : let w[- true / not 3 rem(24)] = array - true and(5) rem false - not 4 or t5C end

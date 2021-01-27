@@ -1,0 +1,1 @@
+program o3S : vS1 : takes G : boolean returns nothing Ie6aa, b78 : boolean array; chillax end CA : takes P, d, _F, Rv : integer array; k9, Jc40 : boolean array returns nothing pop 2 = 08 end main : input c4Zaa; let n = - (12) or 81 /= - 7 - 8 end

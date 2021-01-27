@@ -1,0 +1,1 @@
+program N : main : when case not 144 + (5) * not 4 and 6 - false + 6 - 691 : output 8 = 04 . "," . 57700 . ""; while 12400 = 7 : chillax end; pop; while 1 : chillax end; pop end otherwise : output "" . "" . "" end; do yb(- not(28) * 16 /= - x and 2 or 636); output 9 - 8 /= 0; let x = 4; input Z end

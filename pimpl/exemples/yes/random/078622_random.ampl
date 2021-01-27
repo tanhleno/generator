@@ -1,0 +1,1 @@
+program j3 : main : Q : boolean; X, S_, b : boolean; while false / Q[3] or not 1 / true and 34 : while - 738 >= 6 : chillax end end; let WD[- OG or false and 0] = array - 1 + 5 + 356; do x(f68 and 6 or 7, 2 = 4, 3810); input E[- 05 - 51] end

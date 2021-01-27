@@ -1,0 +1,1 @@
+program NR : main : do E91aa(- false rem false and false or(01) + false or 83 - 7 < - true / 1 and 8); when case 1 / r = 43 and 08000 : chillax end case false and 6 - 0 : chillax end case - 64 : chillax end case 5 : chillax end end

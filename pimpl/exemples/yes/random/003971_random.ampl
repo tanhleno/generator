@@ -1,0 +1,1 @@
+program K : I : takes QP2, T030, H, Eh, U : integer returns boolean iq : boolean; chillax end zyX : takes g : integer array returns nothing output 30 . 32 . 5; while 45 = 7 : chillax end end main : EcG0a : boolean; F, n560 : integer array; input QF end

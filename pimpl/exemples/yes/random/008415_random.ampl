@@ -1,0 +1,1 @@
+program k : m8u : takes A, P5, I : boolean; f, k0, m, v, J1, L, I : boolean array; x : boolean returns nothing do y15(- true and 0 or 30 - 84, - 1 - 7); when case 9 : input W; let J = 695; pop end end main : do N1((6) * (6) rem false or 0 + not 42 - 3 - 56 <= 2, - QOs[8] + not 7750 and 81 + 243 - 3 > 353 and 4 + 6 - 1710, zZ_ - 40 - 274 > - 211); input w[- (09)]; input M end

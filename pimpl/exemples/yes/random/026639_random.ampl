@@ -1,0 +1,1 @@
+program j : A8 : takes v1, H : integer; cK : integer array; E, J, s : integer returns nothing m : boolean; M, N0, N1o, D : integer; while - 8 - 6 < 37 : chillax end end main : when case - false + (3) * X and 503 : chillax end otherwise : output "" . 8 . "2"; let n42 = 70; do P7(705) end; let p1 = S0I and 73; input b44; pop; let T = array 50 end

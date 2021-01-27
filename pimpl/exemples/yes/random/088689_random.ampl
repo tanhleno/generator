@@ -1,0 +1,1 @@
+program wT : main : input F[- not not 3 * not false / d7]; do f(L / (3110) and 0, - false and 1 or 1); do L0P(- not 82 and 82 or 7, - 6 - 09, 164 = 78); while 74700 - 459 <= 85 : do E5(20) end; output 4 . "" . "" end

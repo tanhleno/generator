@@ -1,0 +1,1 @@
+program j : e : takes _, C88 : boolean returns nothing T7, hwn0 : boolean; while - true - 8 : chillax end end main : O5 : boolean array; R, PR7 : integer array; Bu5, C50, b, a02 : integer; let M = - V(96) / 89 + not 6 + 83 end

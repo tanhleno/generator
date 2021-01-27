@@ -1,0 +1,1 @@
+program y6iaa : P : takes Zi : boolean array returns nothing t : integer; e5 : integer array; T7 : integer; when case - (2) and 44300 > - 3 - 68 : let Lk0[5] = 6; pop; do fPraa(3920) end case - 4 : while 99 : chillax end; input r end otherwise : output "" end end main : F620, oV : integer; chillax end

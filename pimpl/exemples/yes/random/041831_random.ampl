@@ -1,0 +1,1 @@
+program l3 : i : takes C : boolean array returns boolean array let i[- 9 and 37 + 8 - 774] = array true and 87 or 04 - 60 end w17 : takes U, _ : integer returns boolean array c : boolean; C3Q, G, J : boolean array; chillax end main : chillax end

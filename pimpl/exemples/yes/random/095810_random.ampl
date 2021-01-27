@@ -1,0 +1,1 @@
+program d4 : main : when case - false / p[507] = - false / 9 and 3 : when case - 3 - 8 = 4 : chillax end case 4 = 78 : input l49a; pop end; pop end case - not false and(1) and 88200 <= - (50600) : chillax end case Lu8 - 20 >= - 856 : when case 2 : chillax end otherwise : chillax end end; output - (1) and 8 + 0 > 4; let W[- true and 4] = 81 - 25 > 6280; pop 69600 end

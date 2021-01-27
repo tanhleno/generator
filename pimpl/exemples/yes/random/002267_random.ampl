@@ -1,0 +1,1 @@
+program Z340a : Y : takes W, P, X, NBhaa, q : boolean; L : boolean array; X : boolean; C, ei : integer; O, h, _58 : integer; U : boolean returns boolean P, mP0 : integer; do c850a(- not 70 and 83) end U : takes F1 : boolean array returns nothing output 3 = 9; input Y end main : chillax end

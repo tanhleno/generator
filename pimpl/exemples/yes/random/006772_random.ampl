@@ -1,0 +1,1 @@
+program G : f3 : takes _Z7, z, c, r : integer; q_P : integer returns integer array do XZj0(not 23 or 52 = 18, - 01 - 29, 54 = 848, 76) end main : do x2(- g4 and 8 and(98) + not(5) - 4 and 4 /= - false or false or 81900); do h(true, not 5 and 50 >= 7 - 9) end

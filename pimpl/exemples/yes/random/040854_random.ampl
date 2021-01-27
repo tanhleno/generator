@@ -1,0 +1,1 @@
+program Nv : Kesaa : takes s : boolean array; o : integer array; ti : boolean array; J2, lQk, i, pH, Z3D : integer; Id3 : integer array returns nothing bAy0a, B, i : boolean array; chillax end main : chillax end

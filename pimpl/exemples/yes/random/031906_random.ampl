@@ -1,0 +1,1 @@
+program Z : t : takes vG, y4Raa : integer returns integer array pop; when case 0 - 303 : while 72 : chillax end; do z(5); pop end case 869 : chillax end case 3860 : chillax end otherwise : chillax end end main : k : boolean array; do J((20) <= - Zf[4] or oF) end

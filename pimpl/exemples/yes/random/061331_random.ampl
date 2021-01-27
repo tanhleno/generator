@@ -1,0 +1,1 @@
+program V3 : H1 : takes hi8aa : integer array returns nothing let I1[false] = - 7 - 61 > 7 end m5V : takes c4, J, Y : boolean array returns boolean array let X[5 - 89200] = 26 end main : pop hy[2] / (3); input c44[not false * 3010 and 56 + not 2] end

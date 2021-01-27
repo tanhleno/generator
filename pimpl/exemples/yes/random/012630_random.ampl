@@ -1,0 +1,1 @@
+program NK : Q9 : takes c, R3, G : integer; C8, b, y59, V : boolean array returns integer chillax end w : takes g, fm2, l60 : integer array returns nothing when case - 4 - 5570 > 4 : chillax end otherwise : chillax end end main : z : boolean; a : integer array; chillax end

@@ -1,0 +1,1 @@
+program L : j7I : takes l : integer array; PH, Ou2, dA9 : boolean returns nothing while - 7 and 675 + 4 /= 9 : let D[1] = 14; pop; output "\\\n0" end end A2 : takes JkF : integer returns boolean G, s9 : integer; chillax end main : chillax end

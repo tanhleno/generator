@@ -1,0 +1,1 @@
+program G_80 : W : takes r06, s, z, u : boolean array returns nothing let K1[- not 1] = 6 - 100 end dn : takes Bc, F : integer array returns integer array chillax end main : g96a : integer array; pop; pop - false; input SAg0a[7780 and 0] end

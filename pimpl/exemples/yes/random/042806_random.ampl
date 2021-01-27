@@ -1,0 +1,1 @@
+program tw : v : takes q7_aa : boolean array returns integer array let S = array - not 649 - 6; output 82 . 04 end f : takes i : boolean; s : boolean array returns nothing m38 : integer; l1U, k58aa : integer; a, Y : boolean; W : boolean; N8 : boolean; pop 77 = 41 end main : chillax end

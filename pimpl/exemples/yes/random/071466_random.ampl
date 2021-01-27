@@ -1,0 +1,1 @@
+program fo : main : K2, W, Iu : boolean array; c5, F1 : boolean; Klbaa, w : integer array; while - (6120 = 9) - false : let W1R = 76 = 4; output 4; input A; let X = 9; pop end; let O[true] = array true + (9) and 7890 or 9 end

@@ -1,0 +1,1 @@
+program e : main : ml7, ws5 : integer array; qU8aa : boolean; I, X : integer; _, W, m2 : integer array; d : integer array; D45, D4 : boolean; Jxu : boolean; P3 : boolean; do c2(- 1050 rem not 1 * true > - not false and not 7 and 90 or false and 63 + 1); let M82[- (033)] = - 2 or 35 end

@@ -1,0 +1,1 @@
+program l2 : Mu : takes h10a : boolean; H, t, S, T98 : integer array; y, f, g : integer array returns boolean Mx, d1 : integer array; eE5, j2 : integer array; h, z5ka : integer array; i, O : boolean; chillax end main : chillax end

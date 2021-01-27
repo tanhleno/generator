@@ -1,0 +1,1 @@
+program c7h0a : n : takes Sq : integer returns nothing pop - 1 end rY : takes GV, kdt : integer; KaRaa, RQ : integer; aD7aa, L, W3 : integer array returns nothing input L[69 - 09] end I : takes F, z, R, u760a : boolean returns nothing hC : boolean array; chillax end h90a : takes l, l9, Kk : boolean returns nothing do a(3, 2) end main : chillax end

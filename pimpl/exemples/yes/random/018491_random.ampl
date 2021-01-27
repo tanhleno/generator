@@ -1,0 +1,1 @@
+program F : i1 : takes i7k, m7C0 : boolean; G40a : integer returns boolean array while - not 1 and 4 - 95600 < - 012 - 8 : chillax end end main : npw, g : integer array; do K(65 or not 93 / false and 520 + 4 - 59 - 88100); when case true rem iJ and 9 or true and 3 + 1950 < - A4 and 0720 : chillax end; output 93 = 6 . ""; let y17[5710 - 5] = 29 = 8; output 7 . "" . "" end

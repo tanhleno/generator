@@ -1,0 +1,1 @@
+program Q : l : takes Jw, Xhl : boolean array; a0, B, x : integer array returns nothing U, Ix : boolean; pop end main : do D(- false rem true * 77 or false / not 2 - m and 8 or 332, - not true or e or 93, c7 and 3 or 5 - 91) end

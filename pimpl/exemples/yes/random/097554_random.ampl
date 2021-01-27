@@ -1,0 +1,1 @@
+program zKg : main : when case true + 1 /= not CK rem 963 and 9 + 076 : chillax end case Y1[52] : pop 7850; when case 6 : pop end; do oIEaa(1) end; let z[not false] = array - yy(4) or(7) and 0; pop end

@@ -1,0 +1,1 @@
+program o : main : when case not true rem(2) and false /= not(1) - 397 : chillax end case - 2 > - false or 1 : when case 40 = 7 : chillax end case 1 : pop end case 4 : chillax end otherwise : pop end end case(589) and 9 or 50 : chillax end end

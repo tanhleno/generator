@@ -1,0 +1,1 @@
+program v : z9 : takes w : boolean array; G, F07 : boolean array; fd, i, OG, zPH : boolean returns integer array y : boolean array; v, F, u : boolean; z : boolean array; while - 19 and 4 or 07 - 0 = 9 : chillax end end main : chillax end

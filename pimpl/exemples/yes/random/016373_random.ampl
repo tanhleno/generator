@@ -1,0 +1,1 @@
+program S8 : m6t0 : takes l720, G, WX : integer returns nothing DU, n : integer; chillax end main : s, Qqy0a : boolean array; l, _, k : boolean; output false - (455) and 8 . not 7 and 3 + 511 . "" end

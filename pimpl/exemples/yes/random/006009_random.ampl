@@ -1,0 +1,1 @@
+program LV : W : takes s, qc9a, rV, POT : boolean returns integer r960a, C, dAc, I1, Y : boolean array; do n(- false >= - 7 - 5) end U160 : takes T : integer returns nothing u : integer; s, dA : integer array; N : boolean; chillax end main : Hh, X60, Cn : integer; chillax end

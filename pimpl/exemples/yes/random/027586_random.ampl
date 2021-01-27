@@ -1,0 +1,1 @@
+program M : Ng0a : takes J260, a0 : integer array; iz, D : boolean; hy, kP : integer array; sdZaa, T7Laa : integer; N6, y38, G5, q : integer array; X, g7m0, L : boolean; nH, rU : boolean; E5 : boolean returns nothing chillax end main : i : boolean array; Cq9, Jd : boolean; nZF0 : integer; PT7 : boolean array; s : integer array; z : boolean; L3 : boolean; chillax end

@@ -1,0 +1,1 @@
+program I58 : M : takes S, R32, OE, T : integer array; l : integer; mW : boolean array returns boolean array let AYka = array - 0 + 13 - 6 end main : let P[414 and 7] = array not 4; let HXB0 = array 1100 * not 30 end

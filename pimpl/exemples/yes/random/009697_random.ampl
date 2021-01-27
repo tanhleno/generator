@@ -1,0 +1,1 @@
+program B : u : takes R, t, o4h : boolean array; hM, S, gwe : integer array returns boolean V, S9H, o : boolean array; xK, t84aa, j, g : integer array; t9b, o : boolean array; pop 653 - 4; let G = 31 end main : Zb, R : integer array; while not 997 rem not not 5 rem not 11 - (08) : when case - 7 : chillax end case 7 : chillax end end; pop - true and 94 end

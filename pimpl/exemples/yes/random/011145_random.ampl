@@ -1,0 +1,1 @@
+program K : X : takes E, p, _Np : boolean array returns nothing Q, Q, A, Ls, O7T : boolean; while - not 5 - 6 : chillax end; do o(0920 - 01, 086, 2); input W[9] end main : y, Xs, _, i, W : boolean array; when case - true rem A rem l and 05 >= - (3) - (62) - 288 - 207 : chillax end end

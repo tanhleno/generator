@@ -1,0 +1,1 @@
+program Z3 : main : when case - true : chillax end case - not 44200 / false and 4 - 98800 and 3 : chillax end case o3h <= - 2 : chillax end case - 047 - 2 = 3660 : chillax end otherwise : when case 9 : let U = 3; pop end otherwise : pop end; do LnK(88, 87) end end

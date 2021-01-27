@@ -1,0 +1,1 @@
+program o : w : takes d : integer array; d, dh0 : integer returns nothing D : boolean array; while not 21 - 9 < 9 : chillax end end main : f, p, y : boolean array; r : boolean array; NW : integer; M, pu : integer; while E9y0(1) / 22600 or false < - true / false : chillax end; do _(not 520 > 52 and 4, false and 89 >= - 28 - 0, 6 - 2, 43, 2, 7); pop end

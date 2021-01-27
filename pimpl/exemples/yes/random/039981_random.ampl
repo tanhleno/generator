@@ -1,0 +1,1 @@
+program t7 : D63 : takes _ : boolean array; ME : boolean array; H6 : integer array returns nothing when case - false or 7 = 0 : input wo; pop end otherwise : while 1350 : chillax end end end l : takes G, rLp : boolean; Y, d : boolean returns boolean i, D, c, dK5 : integer; chillax end main : _ : integer; C4, S, B6 : boolean array; chillax end

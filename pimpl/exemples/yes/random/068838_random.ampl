@@ -1,0 +1,1 @@
+program P980a : main : O, P, Kld, X2r0, A : boolean array; x0, F, k4, F5laa, z : boolean array; _2 : integer array; L, b : integer array; while - not(94) or false / true <= - (06) * (4) - false : chillax end; input P; output "'" . "4[" end

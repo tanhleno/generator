@@ -1,0 +1,1 @@
+program c6 : biX : takes n : integer; T, X : integer array; Iol : boolean; x13, kZS0, L, M1 : boolean array returns nothing input o end u : takes b7 : integer returns integer array chillax end main : chillax end

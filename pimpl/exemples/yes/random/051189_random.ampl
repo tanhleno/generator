@@ -1,0 +1,1 @@
+program Q : b : takes A : integer; i, R : integer returns boolean do yE(- true or 92); input E; output 880 . "" . "C" end J66a : takes d, R : boolean array returns nothing V : boolean; g3ba : integer; a : boolean; chillax end main : M, w : integer array; chillax end

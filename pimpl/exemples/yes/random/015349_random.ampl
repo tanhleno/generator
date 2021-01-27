@@ -1,0 +1,1 @@
+program s3 : D3T0a : takes Hraaa, mK, Lw1 : integer array returns nothing u, FZt0a : boolean array; do Y0(3 and 1 + 67 >= 79) end m : takes L : boolean array; d, g, un : boolean array returns integer array _r : integer; pop 39 = 63 end V2 : takes t : integer returns integer pop; do z1j(4660, 6); input le end main : chillax end

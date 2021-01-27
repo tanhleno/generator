@@ -1,0 +1,1 @@
+program T2 : Doa0a : takes z : integer array returns nothing E, H, Q, I, r6 : integer; G : integer; while(0) and 408 or 5 - 6 > - 4 - 248 : chillax end; do iR9(- 3 - 45 > 2); do y(57, 7, 39800) end main : Xi, bPu : integer; chillax end

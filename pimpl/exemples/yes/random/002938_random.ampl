@@ -1,0 +1,1 @@
+program gM : kF : takes a, A, C, T3f, N : boolean returns integer array H9, xA7, np, m8T, R0Ba : boolean array; chillax end f : takes L110 : boolean returns boolean array F : boolean; C, P1 : integer array; _D : boolean; let M3[01 - 6] = 2 end main : chillax end

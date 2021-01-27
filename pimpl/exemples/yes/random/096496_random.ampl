@@ -1,0 +1,1 @@
+program B : main : when case - 1 and true rem false - L7d or Oa and 62600 /= - (6) - not 72 and 46 or 64 - 8 : chillax end case - true / 7 and 3 < - not 40 - 520 : when case 1 : chillax end case 1 : pop end otherwise : chillax end; when case 0460 : chillax end; output ""; pop; pop end end

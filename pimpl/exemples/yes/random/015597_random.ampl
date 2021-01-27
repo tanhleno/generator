@@ -1,0 +1,1 @@
+program RK0 : k : takes I, j, B_1 : integer array returns nothing pop 95100 - 18 <= 3; output "" . 8 . 26600 . "40" end I : takes D : integer array returns integer array Q, T : boolean array; i, _ : boolean; C, gEp : boolean; J : boolean; n : boolean; input D; input i[5] end X : takes Q01, m : boolean array returns nothing _c : boolean array; output 2 end main : chillax end

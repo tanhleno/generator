@@ -1,0 +1,1 @@
+program Z : L : takes QL, L30, J : integer array; f, Da : integer; p, y, Qt1, b4Yaa, MB : boolean array; W, sI, s, d2m, O92 : integer returns nothing C6Ia, C : boolean array; output 6 >= 9 end main : input o end

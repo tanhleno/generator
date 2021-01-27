@@ -1,0 +1,1 @@
+program kz : t : takes iebaa : integer array; k, V0, Xa : boolean; A6 : boolean returns nothing zw : integer; n, z : integer; chillax end main : M7, x9 : boolean; do lQTaa(true rem true / false, true and E and 6); when case(2) / 6 : chillax end otherwise : pop; while 2 : chillax end end; pop - 3 end

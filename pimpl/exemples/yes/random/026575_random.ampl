@@ -1,0 +1,1 @@
+program f : MD : takes nM4, e6H0 : integer; r0 : integer; ev30a : integer; n : boolean array; y, Z6 : integer array returns boolean array ULP0, K : boolean; pop 9 > 0 end main : v, t : integer; do s(not true, true / v3 - 3 and 1 - 6 - 1 >= (3)) end

@@ -1,0 +1,1 @@
+program rW : q : takes K : boolean; n : boolean array; b : boolean array returns nothing Q : integer array; chillax end main : do Z000(- not 2 * not false rem J and 39 or false and not 08 - not 9 >= true or true and 3, - false < false and 899) end

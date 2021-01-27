@@ -1,0 +1,1 @@
+program A9 : main : s, w, G0waa, k1 : integer array; O, h, n : integer array; F : boolean array; al, b : boolean; when case 775 : do gb(- 4 - 9); pop 6 end case - true and 17 + true and 2 or 00 : let F = array 3 end case - (919) and 85 : let M490a = 36900 end otherwise : chillax end end

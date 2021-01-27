@@ -1,0 +1,1 @@
+program Vb : t5 : takes w : integer; aG, o, V, n6 : integer array; g, L830a : boolean returns nothing chillax end A : takes j, w, b440a : boolean array returns integer array input F71aa[5 - 2] end main : chillax end

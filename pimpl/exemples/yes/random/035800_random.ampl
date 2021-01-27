@@ -1,0 +1,1 @@
+program dt10a : N : takes d : boolean; z : boolean array; en : integer array returns integer array d, O, q : boolean; chillax end kyQ : takes OH40a : integer returns nothing mo, Gr0 : integer array; chillax end main : Vb, G6 : boolean; y : boolean array; Ny : integer; qZE0a, w : integer; chillax end

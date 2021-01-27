@@ -1,0 +1,1 @@
+program L96 : T1 : takes p : integer; k04, q, h63, E : boolean; Lrf, O2, _, k, wG0, T : integer array returns integer chillax end main : output not(468) / 1 <= (9) and 10 or 83 - 13 . "8"; when case - true or not 5 and 4 or 9 - 05 : chillax end end

@@ -1,0 +1,1 @@
+program F : l : takes R : boolean; FF, j, EE : integer returns boolean array while - (3060) + 9 : chillax end end JO : takes m, V, q, Z9 : integer; BDIa : integer; B : boolean array; mY8 : boolean; KF, Zl9 : integer array; e : boolean; nAtaa : boolean; Z : boolean returns boolean output "2@0"; output "N\\" end main : chillax end

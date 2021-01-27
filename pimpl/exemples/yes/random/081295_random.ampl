@@ -1,0 +1,1 @@
+program v : main : _ : boolean array; Q, G8 : boolean array; W : boolean array; do Z(- false - true and 5, false * (1) + not 9 and 9 + 8 - 1 <= true + 94 - 9, Z and 39 + 995 = 1 - 8, 0580 - 2 = 9, 3 = 9) end

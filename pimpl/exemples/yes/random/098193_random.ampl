@@ -1,0 +1,1 @@
+program v : main : while - false / true * false and 73 : chillax end; output "7\\aa" . 1; output - 7 - 7760 . "" . 51 . "9" . "\"|"; pop; output 2 . "z" . ""; output 48 . "\nd!"; when case 94 : chillax end; output "60!a" end

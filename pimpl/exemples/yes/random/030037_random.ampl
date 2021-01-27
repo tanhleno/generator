@@ -1,0 +1,1 @@
+program k : b1 : takes A6, m : integer array returns integer Z, b : integer; X8 : boolean; chillax end main : output 2 /= - true or 536; pop; input b6[- z + 751]; input L; when case 0 = 1 : chillax end case 6 : pop end case 9 : chillax end otherwise : pop end end

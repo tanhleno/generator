@@ -1,0 +1,1 @@
+program l : main : k96 : boolean array; let O[false and true rem(2) + (8) / true or d - 6] = array - not(1470) rem 38000 or _Gs0(75) or 17 and 7; while - (1) + true and 2 /= - U and 23 : while 99 : when case 46 : chillax end end; output 503 end end

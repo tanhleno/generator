@@ -1,0 +1,1 @@
+program B : h_4 : takes I2, W, T, j, gp50a, Yu : boolean; Sy, n, oyc, m, SUj0a, A14, Z1 : boolean returns integer array P, O3, uvj : boolean array; do T(- not 7 and 7 or 2 - 55 <= - 6); pop; while 9 : do v80a(898) end end main : while true - 9 + 14 and 3 : chillax end end

@@ -1,0 +1,1 @@
+program y : U : takes c54aa : integer returns integer output "y" end XM6 : takes D6Ca, S70aa, e : boolean array; x : boolean array returns boolean chillax end main : do n8(- (82 = 13900) + (4) >= (4) - false and 7 + 06300) end

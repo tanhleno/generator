@@ -1,0 +1,1 @@
+program v4 : T : takes B, n : boolean returns boolean array let o9[false and 8 - 1] = 64; let d = array - 48 - 0; when case 334 : while 9 : chillax end; pop end otherwise : chillax end end m9 : takes x : integer array returns boolean array output "Yv0a" end main : Fz4 : integer; k : integer array; when case - not(5) = e5d(29) : chillax end; input P6 end

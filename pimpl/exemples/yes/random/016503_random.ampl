@@ -1,0 +1,1 @@
+program jM : s : takes N, pnH, b : integer returns nothing N4t : integer array; pop end I : takes U, GI : boolean array returns nothing when case 95 > 1340 : when case 16 : chillax end end case 532 : let t = 4010 end otherwise : while 2 : chillax end end end main : E, L : boolean; chillax end

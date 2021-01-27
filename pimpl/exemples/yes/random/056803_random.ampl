@@ -1,0 +1,1 @@
+program g : j8 : takes LT : integer array; Ql5 : integer array; _, i6, D, d, qN, NE : integer returns integer array A : integer; chillax end U : takes U, L9 : boolean array returns integer array output 8 = 8340 end main : dn, T, U : boolean array; when case 09200 / not not 777 : chillax end; input F[- not not 5 and z5h] end

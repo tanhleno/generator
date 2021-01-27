@@ -1,0 +1,1 @@
+program UN20a : main : Yy : integer array; n3, k, H : boolean array; when case - false /= not(82000) / 01 and 4 : let Nv8 = 7910; input BW7aa[346] end case - not not 4 * 7 and 2 >= - not 4 and 8 : chillax end case not 78500 and 9 + 33 - 5 = - 967 : let O4[04700] = 8160 end case 05300 /= 3 : chillax end; let b = - true - 14 - 73 > 70 end

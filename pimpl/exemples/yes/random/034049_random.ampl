@@ -1,0 +1,1 @@
+program x9 : u : takes B6 : boolean; c, mF, a : integer array; r, V, P, A : boolean; T, J0 : integer array returns integer uC8 : integer; I : integer; pop 8 <= 7; let C[6] = 70900 = 6 end M : takes hQ : boolean array returns boolean when case 57700 - 76 : input H9; output ""; pop end; when case 5 = 6 : when case 98 : chillax end end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program D : S : takes DT5 : integer array; s, q, I : integer array; cP : boolean; j3 : integer array; t : integer array; I7, y0 : integer array returns boolean array let j2 = - 042 >= 8; while 2 - 88200 : let _j = 48 end; output 62 . "" end main : H0 : integer; jXA, p : boolean; xBt, g : integer; chillax end

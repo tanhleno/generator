@@ -1,0 +1,1 @@
+program h3 : n : takes t, q, w : integer array returns nothing v, S : boolean; chillax end o : takes Q, QF, z : boolean array; Q : integer array; c9, N3 : boolean returns nothing C, _g : boolean; s : integer; let f5[4 - 69400] = array - 80 - 45 end r : takes H : integer array returns nothing let a = 8 end main : input g1[(2 = 0) + (9)] end

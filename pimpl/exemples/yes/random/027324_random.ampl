@@ -1,0 +1,1 @@
+program n : j : takes DU10a, B : integer array; x, O, m : boolean; N : integer; u75, p, K : integer array returns boolean array h : integer; T, R30, Y6 : integer array; I70aa, E4, x1 : integer array; Z, E : boolean; p : boolean; input Bj6; do Nc(- 9, 5) end main : let _D5 = false + not 026 >= (19) - 973 end

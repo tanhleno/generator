@@ -1,0 +1,1 @@
+program o : _v1 : takes U, k : integer returns nothing U, p15, F, VA2, K : boolean; pop 4 - 371 > 0; pop end jI : takes AD4, A2, yGW : integer; z5 : integer; DW : boolean returns boolean k, v : boolean array; chillax end main : Y : integer array; a, H : boolean; B8 : integer array; chillax end

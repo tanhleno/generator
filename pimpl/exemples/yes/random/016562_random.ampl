@@ -1,0 +1,1 @@
+program Y : L74 : takes s, s, B : integer returns nothing output - 2 - 4 < 5 end main : while - not false * t6(63) / not 66 and 821 - false - true and 9 : while - 2 = 6 : output ""; input bQ; pop end; when case 167 : chillax end otherwise : chillax end; do tP(9, 11); while 7 : chillax end; while 7 : chillax end; pop end; output "'7" end

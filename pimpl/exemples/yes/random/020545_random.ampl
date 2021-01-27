@@ -1,0 +1,1 @@
+program owHa : H9Daa : takes r3, d5 : boolean array; u7 : integer array returns boolean CE, x : integer; chillax end W : takes o, c3S : boolean; os4, V, QD8 : boolean array returns nothing chillax end main : Iw : integer; f8 : integer; while not CL(9) * not B / (553) and 091 + true - A : chillax end end

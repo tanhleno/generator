@@ -1,0 +1,1 @@
+program i3 : main : when case - not y < false * not 3010 : chillax end case - not G rem not 220 : output 30800 . ""; output 4 . "r"; do V(5) end case ck + 553 - 3 : output 6 . "\""; do q2(74); pop end case 2 - 84 < 83 : input B end case 0 : chillax end case 7 : pop end end

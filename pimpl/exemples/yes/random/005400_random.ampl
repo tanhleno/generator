@@ -1,0 +1,1 @@
+program IiE : uc : takes d, d, h6, L : boolean array returns integer array chillax end main : pc : integer array; f8, By : boolean array; D : boolean array; let n[false * wzna[7]] = array(8) rem(83400) + not 6 end

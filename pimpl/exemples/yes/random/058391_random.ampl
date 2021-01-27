@@ -1,0 +1,1 @@
+program z : G : takes yfXa : integer array returns boolean m : integer; bo, go, I, E : integer array; m3 : integer; chillax end main : d3, A : boolean array; o, Y, h240a : boolean array; j, u7e, J : integer; xm : boolean; WO : boolean; A0 : boolean; W : boolean; s : boolean; do l4F(- not false >= - not 9 + false - 90400, e[90] or(0) + 53 - 2 > true) end

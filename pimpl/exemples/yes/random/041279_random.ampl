@@ -1,0 +1,1 @@
+program L : Z : takes L : boolean array; qp : integer returns integer chillax end o : takes H7, L : boolean returns boolean array a : integer array; when case - 352 > 30 : chillax end case 4 : chillax end case 37100 : pop end otherwise : chillax end; while 67 : chillax end end main : T, M : boolean array; n, OB : integer array; O18, F : boolean; X7 : integer array; chillax end

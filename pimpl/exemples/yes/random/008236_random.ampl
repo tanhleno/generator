@@ -1,0 +1,1 @@
+program Rb : m : takes f, pC, q7, O : integer returns nothing Xi, K9, n : boolean; F, HH : integer array; c, a, Ak : boolean array; chillax end main : tL : boolean; F, M : integer; output - Q[4860] or 1310 or 1 - 85 . O - 3 - 82 end

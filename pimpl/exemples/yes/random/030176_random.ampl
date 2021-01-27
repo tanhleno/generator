@@ -1,0 +1,1 @@
+program k : L : takes J73aa, s : integer array returns nothing chillax end r : takes wr, z, e, l, Y, hS, ob : boolean array; H : integer array; k : boolean; _, B : integer; qu8 : integer; q, Qq20 : boolean; iz : boolean; L : boolean returns integer pop end main : _7M0, e : boolean; i : boolean; NPM, rW : boolean; j, rS, F, Sk : integer array; when case(600 = 9) : chillax end end

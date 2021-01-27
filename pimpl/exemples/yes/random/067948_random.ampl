@@ -1,0 +1,1 @@
+program A6 : main : C8, d, Q, W, A, a43aa, ge : boolean; rL, V, VA90 : boolean array; z07, yo9, O, p2n, e : boolean; uM1a, p : boolean array; y : integer; when case not 784 <= - false + (260) and 2 + 759 - 9 : chillax end case - not not 510 * true and 6 - not 79 - 0 = true and 6 : chillax end otherwise : chillax end end

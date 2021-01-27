@@ -1,0 +1,1 @@
+program pO : K : takes ZB30, Y : boolean returns nothing c, q : boolean array; y : integer; i0qa : boolean; gZ, t : boolean; y5 : boolean; m9 : boolean; chillax end fbaaa : takes s, v, Tvd : integer; aF, W, f, u : boolean returns nothing when case 69 : chillax end otherwise : output "" end; do n7(8 = 8, 8, 5); input no; input v9; input T_; pop end main : chillax end

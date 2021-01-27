@@ -1,0 +1,1 @@
+program g : lh6 : takes J, y4 : boolean array; C : integer array; F, s, L : integer returns boolean array OX, VV1a : integer; U5 : integer; Io, u, f : integer array; output - 07; output "" end main : chillax end

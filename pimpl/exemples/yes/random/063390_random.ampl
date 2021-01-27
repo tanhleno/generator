@@ -1,0 +1,1 @@
+program L5 : b : takes Y : integer returns integer Z, M : integer; chillax end E : takes k6Ma : boolean; s6, y : boolean returns nothing Ko, c, u0 : boolean array; pop 93 = 2040 end main : chillax end

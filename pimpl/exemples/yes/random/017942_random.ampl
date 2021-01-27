@@ -1,0 +1,1 @@
+program EYPaa : Bs : takes oz6, Y_ : boolean; Sre : boolean array returns nothing vNC : boolean array; d, e76 : boolean; d, l : boolean array; chillax end d : takes D, eSX0a, w, p : integer returns integer chillax end main : let f = mB / not 8 - false and 02 = - false and 05; when case 6 * e : chillax end; while - (6) and 8 + 4 - 7 : pop 3 end end

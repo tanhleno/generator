@@ -1,0 +1,1 @@
+program kj : Zx : takes x : boolean; k1 : integer returns nothing let Q[q and 0 - 5 - 0] = - 24 >= 476; while - 890 - 6 : chillax end; output ""; let I74 = array 360 end _U1a : takes N, n0 : integer array; f : boolean; Ei, S61 : integer; P, u, z, p : boolean array; q : integer returns boolean array xo : integer array; let p55 = 30; let gW[65] = 51 end main : chillax end

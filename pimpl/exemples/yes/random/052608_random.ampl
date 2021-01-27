@@ -1,0 +1,1 @@
+program W : I72a : takes KP : integer; Zn9a : integer array; jP, M, Y, a5, Gq5, f4m0a : boolean array; t, S : boolean; x, z, s, S200 : integer; Mq4, PKQ, N : boolean array; Kn : boolean; H37a : boolean returns integer while - 1 + 247 - 81 > 8 - 24200 : do Q9(77200); when case 0 : chillax end; do Q2(4) end end main : j : integer array; chillax end

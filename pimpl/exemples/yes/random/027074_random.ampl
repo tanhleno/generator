@@ -1,0 +1,1 @@
+program T : a : takes j, n5 : integer array; Y, F330a, QB, F3, G : boolean; P, Z, bQDaa, _4u : boolean array returns nothing p9, U : boolean array; e0H : integer; chillax end C : takes Y : boolean array; d7V0a, t, v : boolean array returns integer input h[2 - 4100]; input L22a end main : input V58a[- (9 = 3) * not 3200 * Q3 and 6]; output "4" . "}" . 0 = 05800 . 7 . "" end

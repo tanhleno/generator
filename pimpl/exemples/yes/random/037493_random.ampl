@@ -1,0 +1,1 @@
+program u : G8 : takes lQ10a : boolean array; T3, w, U, m, u9, dq, B9 : integer returns integer array Q, B : integer array; Z, F92aa, So : boolean; j0, w : boolean array; pop end main : do O460a(false and(54)); let zF[- (7)] = m and 8 > - 7 - 0; let gg60a = 19 > 8 end

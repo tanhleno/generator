@@ -1,0 +1,1 @@
+program W : main : sXl : integer; J : boolean; do l(- J rem(28100) rem fc = 75100 rem jp0, - (2)); when case - p7[4] rem true and 58 - true and 3 or 94800 - 5 > false : chillax end; do H(not 67 and 429) end

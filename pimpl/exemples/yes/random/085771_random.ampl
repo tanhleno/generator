@@ -1,0 +1,1 @@
+program i : main : t : integer array; mX30, I, k7 : boolean; gQ : integer; HI : integer array; output n(5) * 385 and 32 or(04300); when case true / false and 14 : do Q(2 = 7) end case true and 91 : do u31a(051, 1) end case 0 = 6 : when case 5380 : chillax end end; while not 426 or 4 - 2 : chillax end; let o[- 4640] = 32 = 7 end

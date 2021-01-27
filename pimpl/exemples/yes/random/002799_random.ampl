@@ -1,0 +1,1 @@
+program H : yd : takes rH5, F7, W, U, F : boolean array returns nothing h, O, A : integer; pop 17 - 4 > 12 end E : takes t5N, Gn : integer returns integer do u(- 273 - 5); input S[0]; output 578 . ""; output ""; pop; pop end main : i8 : boolean; do e28(- not true * (53) * 548 or not 8 + V3 and 3 - 69 - 55) end

@@ -1,0 +1,1 @@
+program V : R4 : takes eZ1, se, O6, GZza : boolean array; J, G9 : boolean array returns integer array pop; input Vy; output 416 . "" . ""; while 63600 : pop end; let jJQ = 7; output "92\""; pop end main : chillax end

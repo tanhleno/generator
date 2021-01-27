@@ -1,0 +1,1 @@
+program S9 : A5 : takes K_ : integer array; QAe0a, m : boolean; M9z, g6p : integer returns boolean array VZq : integer array; J2 : integer; T, Ww, E : integer; T, H : boolean; do A(- true and 7 /= 459, 12); do q79(- 973 - 3 < 2) end main : pop; output not 5 or 2 - 8 = - 0 - 9 . ""; output 3 - 424 < 91 end

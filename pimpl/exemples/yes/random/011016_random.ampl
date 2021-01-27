@@ -1,0 +1,1 @@
+program s9 : a4 : takes nj, h4, AqC0 : boolean array returns integer output "" end main : do R((98300 = 8020) >= 8 and 6 + MB1 and 56300, not true rem x and 83000 - true + 3 < true and 2, 30 or 4, - 1 = 50); do hS50a(2260 rem C + 6 and 19, true and 08 or 476 - 73, 3 - 0 = 4140); while - true - 5 - 26 >= - 1 : chillax end; do x(1 - 9320 >= 792, 9 = 435) end

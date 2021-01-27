@@ -1,0 +1,1 @@
+program U80 : v : takes T, Ry : boolean array returns integer array y3 : integer array; chillax end l : takes Nn, K : boolean array returns integer p3, ub, C, F : boolean array; n : boolean array; chillax end main : wl : integer array; a : boolean; N77 : integer; while 3 and PH(231) * (7) and 8 /= - H : output 0; while 0 = 0 : chillax end end end

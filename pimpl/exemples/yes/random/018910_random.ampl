@@ -1,0 +1,1 @@
+program I : L4V : takes J, r7 : boolean array; J86, c12a, b6V : boolean array; k : integer; v : boolean returns boolean array chillax end IM70a : takes i, fHA : boolean returns boolean array B : integer; output ""; when case 6 : chillax end otherwise : chillax end end main : q : integer; A : boolean; do CQS((9 = 09) or true - false and 250 + 66 > (98) + (7) and 0) end

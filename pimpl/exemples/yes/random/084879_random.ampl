@@ -1,0 +1,1 @@
+program S : main : p2_ : integer; output - not(0) rem LL2 and 24 = - true; when case - (3) rem true : let g00[1] = array 1 end otherwise : when case 5 : chillax end; when case 8 : chillax end end end

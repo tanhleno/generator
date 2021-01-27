@@ -1,0 +1,1 @@
+program z : t : takes kS7, H, gR70, Ud5a : integer array; l2 : boolean returns nothing d, Y5, Xs : boolean array; wb5a, VL0 : boolean; s : integer array; do j(true or 96 <= 565, 85 - 0 /= 603, 46700 = 7, 5) end main : chillax end

@@ -1,0 +1,1 @@
+program C : I31 : takes cC0 : integer array; g64, AA : boolean; O, T, xq_, iy60a, k5, r8 : integer array returns nothing chillax end W8F : takes gU, Z : boolean; u, i : boolean returns nothing do c(- 1) end main : M64 : integer; do I(- d / not not 035 and true and 11, - 8, - true + 99500 - 5, - 3 - 4, 8, 5) end

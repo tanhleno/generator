@@ -1,0 +1,1 @@
+program O : a : takes S, Z : boolean array; d : integer; P : boolean returns nothing Y : integer array; input G200a; input K end u : takes h : integer array returns integer chillax end main : c, V20a, twy, I5U0 : boolean array; input M[- false]; let C = - true or 7; when case - not 7 : do G7(32); when case 2 : chillax end end end

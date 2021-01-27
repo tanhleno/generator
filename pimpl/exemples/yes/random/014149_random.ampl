@@ -1,0 +1,1 @@
+program j2 : J : takes w, Y070a, G5u0 : integer array; J8Z : boolean; s, rnoa, u, _ : integer array returns nothing tFua, l : integer; input x9[- 7 and 1] end main : XB, K6y : boolean; q8 : boolean array; CH, G16aa, La, W99, c : integer; cu, Wepa, J : integer array; zw, z5, e3a : boolean; chillax end

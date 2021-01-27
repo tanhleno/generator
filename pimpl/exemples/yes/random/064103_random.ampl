@@ -1,0 +1,1 @@
+program A : J : takes X68 : integer returns nothing do N(- not 11 and 5 - 9, 0 - 1, 566, 2, 38) end MVE0 : takes W, Nxl0 : integer; j0 : boolean array returns nothing Js : integer; G, zz, YM : integer array; let Y = 5 end main : chillax end

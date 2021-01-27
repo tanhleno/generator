@@ -1,0 +1,1 @@
+program E : O : takes tb, Jueaa : integer array returns boolean array chillax end main : let n9 = array _420 / 5 and true and 8 - true * EpB and 5 + (807) or 96; do D(not not 65 / true and 6 + true and 1740 < - 5 or 92 - 77500, - (9) and 87 < - 97 - 2, - 0); let A[not 468 and 551] = array false - 364 end

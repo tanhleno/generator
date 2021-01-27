@@ -1,0 +1,1 @@
+program t : main : k, QJ5 : boolean; Q1H, P, Mo : boolean; C, P, I : integer array; Fc6 : integer; let q = - R(55700) + o and 9; output "" . - 0 - 81 /= 276; do p0(false or 8 - 607 >= 1 - 3160, - 0 > 8); do m(8 - 0 < 028, 9260 = 4) end

@@ -1,0 +1,1 @@
+program e : J : takes g, d4, O, E7 : boolean; D, i : boolean; q5, n : integer; i : integer returns integer do W(- true and 1 < 70); while 7 - 41300 /= 15 : chillax end; input pd; output 1290; do E(4); do hrR(52000); pop end main : Rk2a, i : boolean; input t5[false and false / (9) and 36100 + false * not 720 or not 0 and 0 - 42 - 4] end

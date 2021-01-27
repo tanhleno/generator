@@ -1,0 +1,1 @@
+program i : y : takes q, u, c, Or : integer returns integer array let ejeaa[- false] = array false or 145; when case - 9 : output "" end otherwise : chillax end; let C5n = array 3; let d7pa = array 94; input ZFe end main : chillax end

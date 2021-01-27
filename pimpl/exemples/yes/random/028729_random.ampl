@@ -1,0 +1,1 @@
+program N : dm : takes X, wt8aa : integer array; U : integer; ab : boolean array; r : integer returns boolean DT : boolean array; while - (87) and 6 <= - 83 : chillax end; input b0L0[11]; pop 72 end main : NI, S6, G : boolean array; z : integer array; chillax end

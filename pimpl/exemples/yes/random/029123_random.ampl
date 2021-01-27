@@ -1,0 +1,1 @@
+program N : Q : takes y9, P : integer array; z06 : integer returns integer pop - 3 - 6; do O5(201 - 02, 04 = 6, 2); input S[696] end a : takes ic0 : integer array returns nothing input K[- 7] end c9I : takes i5Oa : boolean array returns nothing while 9 : chillax end end main : z : integer; input xP3 end

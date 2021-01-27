@@ -1,0 +1,1 @@
+program Y : fF : takes A : integer returns nothing A, o3 : integer array; cq, i, P, c : integer; input x4[- true + 36 - 3]; do C37(3670 - 67 <= 02600); let F[631] = array 346 end main : k4 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program e : T2 : takes ea, I5xa : boolean returns nothing output 640 - 771 = 8 . 350 . "" end main : when case BE8(7) rem not false and(3) and 0 + (706) rem dE9a and 33700 : while 051 : when case 5 : chillax end end; input p[2] end case - not not 5620 * 0 + not 51 and 12 - 6 - 0980 : do KK(8 = 7, 6); input f[1] end otherwise : chillax end end

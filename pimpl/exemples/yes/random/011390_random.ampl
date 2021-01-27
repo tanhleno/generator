@@ -1,0 +1,1 @@
+program c : _ : takes C, oh2aa, Z : boolean array returns nothing v : integer; output "b" . "" end YU : takes OH70a, B, r : integer array returns integer array MCR : integer; chillax end main : h5, M, v : boolean array; chillax end

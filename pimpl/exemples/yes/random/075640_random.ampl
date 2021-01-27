@@ -1,0 +1,1 @@
+program v : main : hTIaa, _c : boolean array; when case - 0 or not Y42 / 1 and 2 + Y : chillax end case(78) rem false and 740 or f and 6 or 07 >= 9570 + 8 - 1 : chillax end case not 3 and 0 + 3 /= - 204 - 8 : chillax end otherwise : chillax end end

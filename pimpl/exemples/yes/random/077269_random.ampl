@@ -1,0 +1,1 @@
+program q : main : z, P : integer array; Wg, b, s : integer array; while(1 = 10) + 3880 * false <= - _1[4] and true : do D(- 2 - 81); input ZIea; output "1\\!" . ""; output ""; when case 18 : chillax end end end

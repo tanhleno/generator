@@ -1,0 +1,1 @@
+program y : B : takes MR1, t : boolean array returns boolean u, b : integer array; output - 61200 . "\\" . "" . "" end A : takes Pyha, J : integer; h : boolean; q : boolean; o : boolean array returns nothing chillax end tR : takes E : integer array; D2, fQG, ET : integer array returns nothing aH, D, Pt : boolean array; do I(52 = 1610); let G4s = 9 end main : chillax end

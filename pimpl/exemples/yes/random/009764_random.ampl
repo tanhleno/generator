@@ -1,0 +1,1 @@
+program x : E : takes Na, N6, q : boolean array; P, w4m : boolean array; H, X : integer; F, V, p23, kE1aa : integer; o : integer returns boolean let A31 = - 76 end main : eT8 : boolean; while true = - false rem not 4 + dA : input Ct[- 928]; let T[7] = 401; input WQ end; pop FKK0a and 191 or 84 <= - 3 - 1; pop - 58 - 8; while - 38 - 716 <= 171 : chillax end end

@@ -1,0 +1,1 @@
+program k : x98 : takes WDga : integer array returns boolean chillax end main : when case - (13) rem LJ(8) * 4 and 7400 : output 3 = 3 . "\n" . "\\\t" end case not not 04 rem true and 09 or 23 and 1 - 93 - 60 /= - false or 08 - 61 : chillax end case - 0 > 41 - 5 : output 3 end otherwise : chillax end end

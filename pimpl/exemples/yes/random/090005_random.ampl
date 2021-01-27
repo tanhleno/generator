@@ -1,0 +1,1 @@
+program X : main : let U = array - 2 or dq; do g6(false or not 6 and 5 - 9, - 28 + 64 - 1 > 54 - 68, 3 - 56, 82 = 15); let b[16200] = 03 = 95; when case - 5 - 97 : pop; while 0 : chillax end end otherwise : do t(92); pop end; do vRC(30, 4, 461) end

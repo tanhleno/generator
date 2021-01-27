@@ -1,0 +1,1 @@
+program I : G : takes l, P, v, s, L33, n340a, u, p : integer array; VB4 : integer; r : boolean; _ : integer; S : boolean array returns boolean array input nW2 end main : p6V, CJL0, q2a, dY1, p, t : boolean array; T : integer array; jX, I7 : integer; when case i or false >= - not 9 / not 4 and 5450 + 981 : chillax end end

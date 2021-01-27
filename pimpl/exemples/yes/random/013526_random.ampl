@@ -1,0 +1,1 @@
+program gQc : WC : takes q0, rFJaa, P7W : integer; F : integer array returns nothing zb5aa : boolean array; y8, N0, z : integer; chillax end m : takes t8M : integer array returns nothing C, c, k : integer; while 6 /= 3 : let o5 = 444; let o = 88; pop end end main : do T8j(yQ[2] or false or not 0, - (06)) end

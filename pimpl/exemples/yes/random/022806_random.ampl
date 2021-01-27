@@ -1,0 +1,1 @@
+program Z4 : Pa : takes bZ, x1g : boolean array returns nothing when case true and 1 >= 8 - 2 : chillax end case 1 - 98 : output "" end end main : let _8K[- false or 3 / true and 2980 + false] = not true rem true and 9440 <= - (7970) - 996 - 454 end

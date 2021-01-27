@@ -1,0 +1,1 @@
+program d : V9 : takes pdl0, a2, sm, Tx, e : integer returns nothing pop - 9 = 6; while - 103 = 6 : let m2 = 9; input p end end main : r6, M, Q, c, E8I, c : integer array; Q, _, D4, t4r : integer array; output - not true / true - false and 4490 /= - true . - not 9 and 7 end

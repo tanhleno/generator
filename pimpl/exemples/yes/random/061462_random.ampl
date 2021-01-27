@@ -1,0 +1,1 @@
+program _R8a : D3 : takes n : integer array returns nothing pop; when case - 0 - 9 > 954 : chillax end case 7 : chillax end case 9 : chillax end case 46 : chillax end end main : qy, c : boolean array; while e - true : input jX80a end; let n7[- false] = array - 2 end

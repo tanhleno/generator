@@ -1,0 +1,1 @@
+program E32 : jlq : takes mN50, t : integer array; h, HTu0a, o : boolean returns nothing let n = 91 - 719 end J4 : takes o : integer array returns boolean array let g = 46 = 7; when case 4 : chillax end otherwise : chillax end end main : chillax end

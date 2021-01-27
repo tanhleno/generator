@@ -1,0 +1,1 @@
+program c6 : lq : takes Od : boolean array returns boolean array chillax end main : WI : boolean array; F3 : boolean array; WXo : integer; while - false * (33100) / not 53800 and 76 : chillax end end

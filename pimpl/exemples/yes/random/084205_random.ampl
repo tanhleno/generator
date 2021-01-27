@@ -1,0 +1,1 @@
+program n : main : LV : integer; b0 : boolean array; when case - not not true * (247) * 1 + 23 + not 68 or 4 >= - false / true and 0080 + not 8 and 34 or 4 - 435 : chillax end case(6) rem C - not 4450 and 44 - 7370 - 292 = (9) + 378 : do Or(300) end otherwise : let j[84] = array 5730 end end

@@ -1,0 +1,1 @@
+program Rx : main : when case 65 and 9 + bv[1] + true and 1 or 46 <= - true - t : do M(- 1, 3 = 18, 6) end case false and true and 6 : chillax end case - (5) : chillax end otherwise : chillax end; when case - (747) : chillax end case - not 8 or 80 : chillax end; do q(false and 190 = - 344 - 43800, - 25500); let y3H0 = array - 9; output "F" . "" . "" end

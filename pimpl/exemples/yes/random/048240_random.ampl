@@ -1,0 +1,1 @@
+program LL8 : qO : takes b : boolean returns nothing P, w2 : integer; J7 : boolean array; while - not 05800 - 4 : chillax end; output 94 . "" . "6%"; while 18 = 7 : chillax end; when case 4 : chillax end case 0 : chillax end; do w1(52) end main : u7 : integer; when case - false / false * not 97 and 9 : chillax end otherwise : let qv = array 7; input A end end

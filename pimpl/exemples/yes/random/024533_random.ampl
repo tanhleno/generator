@@ -1,0 +1,1 @@
+program gFp : T240a : takes D6, _ : boolean returns nothing I5 : boolean array; let uxp0[(64) and 8350 or 4 - 070] = 9 >= 5020 end main : when case(883 = 97) + not(0) + (48000) and 9930 - 00 - 51600 <= false : chillax end case 22 / false and 9 or false and 227 - 75 - 2190 /= (853) and 2 - 943 : chillax end case - true and 716 : chillax end end

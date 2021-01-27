@@ -1,0 +1,1 @@
+program Zy : tEua : takes Bl4aa : boolean; v, j, W : boolean array; o, E : integer array returns boolean array pop; do i(- 3); output "G"; pop 8; output "Ta!"; while 67 : chillax end; pop end main : while 8 * NJz - not a / 52 + true and 3 - 0 - 937 : while 1 - 5 > 69 : input GF9aa end end; input tG; output "" . "\"" . "\t" end

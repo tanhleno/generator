@@ -1,0 +1,1 @@
+program v3 : S : takes K, z6 : integer array; b6 : boolean; l, a : boolean array returns nothing gt4 : integer; when case(499) or 8 - 35 : when case 7 : pop end otherwise : chillax end; let n950a = 78 end case - 86 : input Vm; pop end case 7 : let xM50a = 8; pop end case 4 : pop end end main : qPN, f, Y : integer array; w : boolean; chillax end

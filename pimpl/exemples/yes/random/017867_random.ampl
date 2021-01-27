@@ -1,0 +1,1 @@
+program Cej : SQ10 : takes L, u : boolean; FT : boolean array returns boolean d, n, V, a : boolean; let luU = array(4) + 3100 - 5 end A : takes Y : integer array; L490 : integer returns nothing chillax end main : Jq : boolean; pop I(6) or(45) or 9 <= - T - 6 - 729; pop - true < 12300 end

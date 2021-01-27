@@ -1,0 +1,1 @@
+program _Y50 : e : takes C : boolean array returns nothing do V3u0(not 77800 > 5 - 0080); output "5#" end main : do M(true / false * not 3 < - not FG5 and(0) - 63 or 9 - 342, - true + not 5 and 406, - not 552 > - 95); pop 11 and 207 - 0 - 9 end

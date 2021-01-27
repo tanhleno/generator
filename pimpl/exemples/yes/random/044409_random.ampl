@@ -1,0 +1,1 @@
+program Ok4 : i : takes Q : boolean array returns nothing m0y, h1 : integer array; when case - (6) < - 9 : while 1 : chillax end end end main : let wc = array - true; when case(27) : chillax end otherwise : when case 30 : chillax end case 5 : chillax end; when case 32 : chillax end end; do u(- H2 <= - 18 - 50, 4 - 6 > 400); let y[78] = 7 = 83800 end

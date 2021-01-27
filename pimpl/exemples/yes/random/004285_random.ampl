@@ -1,0 +1,1 @@
+program p_ : qDga : takes i, n, p, b : boolean; rk, CQ, C8 : integer array; D : integer array; N : boolean array returns nothing while - false and 6040 : chillax end; output 24 . "$\n0a" end main : X : integer; chillax end

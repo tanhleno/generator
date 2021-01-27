@@ -1,0 +1,1 @@
+program w : L92a : takes b : integer array returns boolean array chillax end j0H : takes lC : integer array returns nothing Hwraa : integer; ZZ : integer array; Q, M : boolean; t56 : boolean; ZZLaa : boolean; chillax end main : chillax end

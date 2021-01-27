@@ -1,0 +1,1 @@
+program iy : y : takes V : integer array; d : boolean array returns boolean array do nv(- P, - 65); do k_(0 - 045, 1520 = 2, 9); pop 20 end main : V : boolean array; output "\th" . "12\""; pop true and 405 >= 5 - 3 end

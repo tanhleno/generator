@@ -1,0 +1,1 @@
+program Y3v : J : takes _7n, q, Q, Xs60, B5, Q : boolean array; iO, H : integer; c, S : integer array returns nothing chillax end T : takes R, v1D : boolean array returns nothing while 7 > 0 : chillax end; pop 2; pop end main : Fs : integer; chillax end

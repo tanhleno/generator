@@ -1,0 +1,1 @@
+program BX4a : main : do Fz(true, (6) / true and 8 + 72 or 2, - Ocg and 8370 > - 94, - 86000 - 14); pop(84) and 5; let dZ = - 23; when case - 2 <= 1 : pop; while 6 : chillax end; pop end otherwise : input cL end; pop 5; let o7[649] = 7 end

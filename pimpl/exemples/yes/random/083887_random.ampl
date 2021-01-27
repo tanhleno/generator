@@ -1,0 +1,1 @@
+program PG9a : main : xY : integer; yX : boolean; K, kV, s9, Us : boolean array; output "\\"; output "*" . "\\#" . "\\\\0"; when case(28) and 6 or 5 - 83 : chillax end case - 24900 >= 65 : when case 2 : chillax end end; when case - 5 - 0 /= 3 : chillax end end

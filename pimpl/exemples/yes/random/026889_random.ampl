@@ -1,0 +1,1 @@
+program zWI0 : T : takes J, a6I : integer; P : integer returns boolean array let j = 9 - 1 end _ : takes gw, o : integer; WM3 : integer array returns boolean uY1aa, C5N0 : boolean array; chillax end C02a : takes O4 : integer; Y, dh : boolean array returns integer chillax end main : NGAa, d : integer array; t5 : boolean; pop true / false and 0 end

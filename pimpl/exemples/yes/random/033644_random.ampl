@@ -1,0 +1,1 @@
+program P04 : F23a : takes D99 : boolean; v29, f, LA, gUd : integer array; C : boolean array; S : boolean returns nothing chillax end i : takes h : integer array returns boolean chillax end j9 : takes A_T, h : integer returns boolean array UL40a : boolean array; input Y4; input E end main : pop - true; pop end

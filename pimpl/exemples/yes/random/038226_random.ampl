@@ -1,0 +1,1 @@
+program _ : Tq : takes cLXa : boolean array; wo, tv1, iRK : integer; UN9, Go : integer returns nothing while - 9 : let q = 34 end; when case - 4 : do U3T(463); do Wg(4); pop end otherwise : chillax end; while 4 : when case 7 : chillax end; pop end; when case 1120 : pop end end main : K0 : integer; l : integer; output "Sp!"; pop end

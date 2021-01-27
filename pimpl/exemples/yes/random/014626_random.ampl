@@ -1,0 +1,1 @@
+program B : y200 : takes G, gz10a, i : integer array; V : integer returns nothing w : integer array; K78 : integer array; Z : boolean array; chillax end main : h6V0a, zj : integer; input e; while - not(0) * (85) <= (938) : chillax end; input C0 end

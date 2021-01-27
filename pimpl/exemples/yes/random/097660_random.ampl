@@ -1,0 +1,1 @@
+program Xcma : main : when case true and(1) rem 4 : do WFfaa(9 - 0); pop 6; when case 1 : pop end otherwise : chillax end; do X7(7) end case - 9 * not 012 + (8) and 72 <= - true and 858 : chillax end; input T6 end

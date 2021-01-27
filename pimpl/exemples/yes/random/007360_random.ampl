@@ -1,0 +1,1 @@
+program Y : P41 : takes D9, w, z, R : integer array; X : integer returns nothing d44aa : boolean; A : boolean array; G : boolean; Q2, KFH : boolean; let i[- true and 11] = array not 0 and 4 end main : chillax end

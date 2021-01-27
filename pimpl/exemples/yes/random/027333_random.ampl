@@ -1,0 +1,1 @@
+program M7 : _ : takes u, g : integer array; cY40a, w200, X : boolean array; e, c750a, CB0, M570a : boolean array; wd8 : integer; V : boolean array returns nothing chillax end E51a : takes w, R : integer array returns nothing x : boolean; while 738 : pop end end main : chillax end

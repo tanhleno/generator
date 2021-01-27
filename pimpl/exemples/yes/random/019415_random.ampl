@@ -1,0 +1,1 @@
+program HK2 : wy60a : takes s, l : boolean array; n, u : integer; qc : boolean array; j : boolean array; Oh40 : boolean array; S : integer array returns nothing Y, H6, K : integer; chillax end main : chillax end

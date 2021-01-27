@@ -1,0 +1,1 @@
+program dFW0a : U : takes E : integer array returns integer M57a, o : integer array; j, Yg7a : integer array; pop - 3 - 29; when case 9 < 9 : do n(8) end case 2 : chillax end; pop 1; while 2 : chillax end end X : takes b, w, o : boolean array returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Z4 : Z : takes o : integer returns nothing input T; input Q7; pop; let C[60] = 4; while 9 : chillax end end u : takes dK60 : boolean array; q0 : boolean returns integer array B : integer array; chillax end main : B, O : integer; let J[- (402 = 48400)] = not not 21 / 1 = - true and 0 end

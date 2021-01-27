@@ -1,0 +1,1 @@
+program Kd2a : Op7aa : takes y : boolean array; L, aUUaa : boolean returns boolean au, K4, z, a, r : boolean array; E : integer array; let F = - 3 end umc0a : takes A, EKia : integer; J, O : integer array; q4, s : integer array returns nothing chillax end main : while - p and n5(6) - true < - false rem 3 or u7 + 921 : chillax end end

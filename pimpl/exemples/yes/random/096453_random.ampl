@@ -1,0 +1,1 @@
+program C : main : when case - 97 : when case 17 - 0 : when case 4 : chillax end end case 59 = 5 : chillax end case 700 : pop end otherwise : input y2; pop end end; do R(- true > false); when case true - 82 - 5 /= - 4 : chillax end otherwise : chillax end end

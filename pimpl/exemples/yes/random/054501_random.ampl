@@ -1,0 +1,1 @@
+program z1 : v : takes w : integer array; F2, J9I : boolean array; j, Y, sE1, k, z_ : integer array returns nothing E7, R8 : integer; chillax end C : takes g : boolean; YR, S4, m : integer; R2 : boolean array returns integer array let u[- 949 - 208] = array - 0 end main : B, Y, L, g, e9M : integer array; chillax end

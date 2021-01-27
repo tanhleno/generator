@@ -1,0 +1,1 @@
+program Gl : T : takes BA, v : boolean returns integer array p : boolean array; V82aa : boolean; chillax end O : takes EU, V7 : boolean array returns nothing pr, T : boolean; when case - 0 - 2 <= 6 : input w; let N = 3 end end main : input HrJ[D9R[4] - (6) / not 19500 and 6] end

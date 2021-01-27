@@ -1,0 +1,1 @@
+program P : CG70 : takes A, w : boolean array; ssHa : integer returns nothing _ : integer array; chillax end main : d8f0a, nV : boolean array; EDS0, P, zG00a : boolean; jS, M6, v : integer; J : integer; while - 94 and false * true and 89 - false > - not false / not 4 : chillax end; when case false rem V + not 1690 or 6 - 5 : input Y[92] end end

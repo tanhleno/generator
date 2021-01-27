@@ -1,0 +1,1 @@
+program u8 : k5 : takes M, DI9, qP, p, i, X : boolean array returns nothing Zb : integer; o0, a : integer; output ""; output "" end qj5 : takes I2 : boolean array; F, Y : integer; W4, s, M : boolean; W, f, w : integer; G, J : integer array; p : boolean returns nothing chillax end main : U : integer array; while false + (7) and true - 9070 and 4 + 7 : chillax end end

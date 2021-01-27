@@ -1,0 +1,1 @@
+program l3d0 : main : while - false * O - false rem(8) - (73) > - (0) * 0 - (6) and 10 : while 79 = 11 : pop; pop end; when case 31 = 7 : chillax end case 5 : pop end case 5 : chillax end otherwise : chillax end end; output "1"; let U[- zy] = 75 < 7 end

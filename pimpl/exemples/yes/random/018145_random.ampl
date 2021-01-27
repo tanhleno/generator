@@ -1,0 +1,1 @@
+program w4 : wN : takes W59, M : boolean; K : integer; b : boolean; U, G, PC : boolean array returns nothing t, y79 : boolean; N2, T : boolean array; chillax end main : l64 : integer array; chillax end

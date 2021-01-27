@@ -1,0 +1,1 @@
+program G0 : C4 : takes kD00a : integer returns boolean d : boolean; Z, H, P9a, zY : integer; chillax end main : when case false = - true * 68500 and 93 - false and 5 + 4 - 175 : chillax end otherwise : chillax end; pop - 86 and 0070 + 9 end

@@ -1,0 +1,1 @@
+program f0 : KAT0a : takes KqLaa : integer returns nothing let LZI[true and 5] = array - true; do b(- 81) end cmB : takes Dq1a : integer array returns boolean array y8, J : boolean array; F : integer; J1faa, e : boolean; let M[- 6] = array 6 - 8; pop 14; when case 6 : pop end case 2 : chillax end; input s0n; input A end main : E8, U, u6, R : integer array; chillax end

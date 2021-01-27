@@ -1,0 +1,1 @@
+program B0Oa : H : takes A, L2, y5, I_aa, V6r, X, k45 : boolean; T : boolean array returns integer K : integer array; when case(3) + 60 - 5 : chillax end case 69200 - 0 : chillax end; pop end main : output "" end

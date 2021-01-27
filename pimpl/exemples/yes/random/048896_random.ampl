@@ -1,0 +1,1 @@
+program YO9aa : L : takes X : boolean returns nothing let I = - 4060 <= 2; when case - 2 - 91 < 04 : chillax end case 4 : chillax end otherwise : chillax end; when case 4 = 8 : output "" end case 98 : pop end case 2 : chillax end; when case 1 : chillax end case 4 : chillax end; pop end main : s140, I, QxD0 : boolean array; chillax end

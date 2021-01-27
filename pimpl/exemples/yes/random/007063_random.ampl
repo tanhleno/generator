@@ -1,0 +1,1 @@
+program J : lc : takes f, t28, R, v : integer array; HN, K : integer array returns boolean array E : integer array; c, VJC : boolean array; output - 41500 <= 2 . 6 = 4 end main : do g(- true + NEj[4520] <= - 705) end

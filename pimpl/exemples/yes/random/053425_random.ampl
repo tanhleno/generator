@@ -1,0 +1,1 @@
+program I : Eq : takes L : integer array; f, j, n, J4, x, w5, p60 : integer array returns nothing R : integer; T : integer array; Rq4 : boolean array; k, ui : boolean; chillax end Q : takes t : integer; lQj, X, CM6a : integer returns nothing p : boolean array; let so[2] = 90 end main : u : boolean array; e8t : boolean array; output "w" . "\"\n" end

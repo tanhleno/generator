@@ -1,0 +1,1 @@
+program Q : G1 : takes A : integer array returns nothing pop end j : takes H8, z : boolean returns nothing wY, Y, f1y0a, k : integer array; O, X : boolean; when case 58 - 4 >= 0 : pop; when case 9 : chillax end; pop end case 2 : pop end case 07 : chillax end otherwise : chillax end; do O3(023) end main : chillax end

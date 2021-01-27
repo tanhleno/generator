@@ -1,0 +1,1 @@
+program z : _ : takes kz6 : integer array returns nothing chillax end GM : takes V : integer; j, R, U : boolean array returns nothing do J0(04000) end main : aB9a : boolean array; Kc : integer array; let x69 = array - true - l55[4] rem 1 and 1; input F[- 713 or D and 2]; when case A and 2 : chillax end; pop; when case 03 = 6 : chillax end case 3 : pop end end

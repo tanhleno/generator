@@ -1,0 +1,1 @@
+program s : P : takes G5A, A2 : integer array returns boolean t, n9 : boolean; B1 : integer array; Cs4 : integer; ee5 : boolean; E7 : boolean; chillax end i : takes F55 : boolean array returns nothing chillax end main : pop - I9(7) and false and 57200 + (4); input E1g0a[- true]; pop - 90 - 0000; output 16 = 117 . 1710; output "" . 9 . ""; pop 65 end

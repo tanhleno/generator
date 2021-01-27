@@ -1,0 +1,1 @@
+program M : m : takes R0 : boolean; t, d : boolean; H : integer array returns nothing do J2(20 + 64 - 1460 <= - 86 - 3, - 3 - 67 /= 7, 2, 7); do rG00a(18 < 1) end t6 : takes e8 : integer array returns nothing chillax end main : Qv : integer array; z09 : boolean array; chillax end

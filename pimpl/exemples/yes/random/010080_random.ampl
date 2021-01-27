@@ -1,0 +1,1 @@
+program WqE : H : takes ZX, xME, O : boolean array; G : boolean array; g : boolean array returns boolean array LC : integer; E, _ : integer; chillax end main : S : integer array; do EX(not true rem 758 < 609 / false, - true * y60 and 02 < 5) end

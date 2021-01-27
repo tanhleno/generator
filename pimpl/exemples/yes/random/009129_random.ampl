@@ -1,0 +1,1 @@
+program E : I : takes o, r, R91 : boolean; L : boolean array returns nothing Z, xt, Hr, k, q1 : integer array; T : boolean array; do v_z(not 051 and 55 + 7 - 99700 >= - 413); pop end main : chillax end

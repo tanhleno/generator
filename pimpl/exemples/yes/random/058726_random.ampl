@@ -1,0 +1,1 @@
+program Y2q0a : G : takes t : integer array returns integer array o, A, Y25, U6O : boolean; D, O7c, W68, u : integer; B, Y2, Ge70 : boolean array; j, u : boolean; Ni : boolean; output 2 < 51 . "7&"; let Y04 = 2 end main : Ahk : integer array; W : integer; input n; while false and not 59700 and 906 - 4 : chillax end end

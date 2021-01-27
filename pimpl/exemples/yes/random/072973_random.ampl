@@ -1,0 +1,1 @@
+program W050a : main : a, W, l : integer array; E_8 : integer; while(06) * false or(34) - 8 = - 02 + 47 : do J690a(- 40400 - 9, 14 = 0); input K; when case 4 : chillax end otherwise : chillax end end; pop; let k = 866 - 3 >= 2 end

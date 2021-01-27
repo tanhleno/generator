@@ -1,0 +1,1 @@
+program F : main : Z1 : boolean array; b, o5 : boolean array; E7 : integer; output(5) and(1) + not 4 or 96 . - (7) and 39 . "Kv!" . "MMa"; when case - false : chillax end case(56) or 33900 < 5 : chillax end otherwise : while 9 : chillax end end; while true > - 929 - 6 : when case 3 : chillax end end end

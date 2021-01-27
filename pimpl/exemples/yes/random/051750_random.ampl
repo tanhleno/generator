@@ -1,0 +1,1 @@
+program E : p : takes dlu0 : integer; N4 : boolean array; n : boolean array; x, Pj6 : integer array returns boolean v, T, n2 : integer array; pop; input g[- 6]; when case 8 = 414 : do E(281) end end main : chillax end

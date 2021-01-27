@@ -1,0 +1,1 @@
+program C : tg : takes j : integer array; e : boolean; wMR0a : integer; Zb : integer array; f : integer array; K95 : integer array; N, ESN0 : boolean returns nothing do v77(- 4 and 9870 = - 8, 1, 8 = 1, 216, 09) end main : X2 : integer; do K(false - true rem G and 0, - (577) and true and 335 or not 25 and 91 - 4 > false or 0 - 5) end

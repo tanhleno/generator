@@ -1,0 +1,1 @@
+program c : T0 : takes M : integer array; kPF0, _1, H, v : integer returns nothing chillax end main : G3H, O_ : boolean array; do y(- (8840) / V(1) * (6330) and 051 - not true / 137 and 51 or not 869 or 6 /= (3) and A5 or 677 and 48 - 17200, 83); do c1(- true and 2880 and 22 > - (1) + 51700) end

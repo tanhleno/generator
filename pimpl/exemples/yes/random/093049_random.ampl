@@ -1,0 +1,1 @@
+program S : main : output "" . c and 19 . - 8 >= 7 . "5" . "\t\\\"" . "\n"; output lP and 7 + 50 - 9400; let p = array not 26 or 7; do n73aa(3640 = 47); output "" . "x2"; input G; while 0 : chillax end end

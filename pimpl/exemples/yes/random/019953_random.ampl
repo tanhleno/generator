@@ -1,0 +1,1 @@
+program E : N05a : takes p, E : boolean array; L : boolean array returns boolean array a : boolean array; E, XT3 : integer; W6, p, Q : integer array; Q1 : boolean; U : boolean; chillax end main : when case P(6, 0) < - (572) : chillax end otherwise : while 1340 : chillax end; do SN70a(7); output "|_" end end

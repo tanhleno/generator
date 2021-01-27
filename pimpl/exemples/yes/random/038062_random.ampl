@@ -1,0 +1,1 @@
+program k9Ba : L5 : takes q2L : boolean array; sxe, tJ, r : boolean array; H : integer array; b : boolean array; l7 : boolean array; E1, t, g6k0 : integer array; h, s : boolean returns integer array D7 : integer array; let p = array - (7) end main : let U[false * 11] = array - false or false * tya0a and 61 or l end

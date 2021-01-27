@@ -1,0 +1,1 @@
+program j : z : takes V : boolean; wf6a : integer array; b8 : integer returns integer chillax end H6 : takes Y : integer returns nothing c, e770a, l7, P : boolean; gHz, x9h : integer; do b(0, 51 = 1) end main : pop; while(81) : do OMX(56, 2); do n(6450) end end

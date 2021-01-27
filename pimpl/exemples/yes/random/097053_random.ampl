@@ -1,0 +1,1 @@
+program qCy : main : when case c4[74] and p4(4) / false > - H(42) + K : do y(- 2 > 40100, 93900 = 25, 0, 2); when case 8 = 5 : chillax end case 3 : pop end case 0170 : chillax end end otherwise : chillax end end

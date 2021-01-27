@@ -1,0 +1,1 @@
+program p6 : b : takes c9 : boolean array; z4 : integer returns integer array chillax end b : takes Wg9aa : integer array; P : boolean; np : integer array returns boolean array let es = array - 2 end main : let l70aa = false /= - false and 67 end

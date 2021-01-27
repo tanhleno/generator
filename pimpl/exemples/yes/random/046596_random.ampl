@@ -1,0 +1,1 @@
+program zPW : bBn : takes m5t : boolean returns integer array a9ha, Ig7 : boolean array; chillax end main : when case true and true >= - true : chillax end; output not 54 and 0 + 517 . "|2a" . "\"gaa" . 70500; do J80a(false and 8 <= - 16300 - 5); pop 4 end

@@ -1,0 +1,1 @@
+program V0Y0a : N0 : takes _4, ZS40, Z3p0, f, Di, lI : boolean; Jn, h : boolean returns nothing d : integer; when case - not 6 : when case 99 : chillax end end case - 34 : chillax end; let v4 = array - 04 - 44 end main : xX : integer array; f, FA7 : integer array; chillax end

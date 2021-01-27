@@ -1,0 +1,1 @@
+program j5Haa : main : e, P, d, Z, _, Yr, P31 : boolean array; m, T : boolean array; O : integer; while - 7 : chillax end; pop; pop 23300 - 72 < 24; do q3a(- 9880 - 33 > 364, 609 = 0); when case 1 = 4 : when case 9 : chillax end; pop end end

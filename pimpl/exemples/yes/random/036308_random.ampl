@@ -1,0 +1,1 @@
+program t : ry : takes E : boolean; K : boolean returns nothing d2, mK6a : integer array; V, Qq : boolean array; O3V : boolean array; chillax end main : ZZq : boolean; F, fy : boolean; while - false rem not not 495 : chillax end end

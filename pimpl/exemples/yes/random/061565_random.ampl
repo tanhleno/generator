@@ -1,0 +1,1 @@
+program o56a : m : takes k : integer array returns nothing when case false + 835 - 0 < - 82 - 91 : chillax end; while - 4210 < 02 : input qW4; pop; pop end end main : R3, y0g0a : integer; H, c9Y0a, P, ps, U0, Auq : boolean array; tV7 : boolean; while - not W : when case - 77 - 42 <= 1 : chillax end; do l8(7 = 4) end; pop(3) + 9 - 7 <= 0 - 6 end

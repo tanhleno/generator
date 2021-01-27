@@ -1,0 +1,1 @@
+program E6 : main : while true / (7) and not 968 or true + (8) and 0 /= Q(2700) rem true + 3 - 708 : let l[2810] = array 62000 - 51 end; while - (0) and true and 53 - true and 363 < - not 046 and 8 : when case 93300 = 07 : chillax end otherwise : chillax end end end

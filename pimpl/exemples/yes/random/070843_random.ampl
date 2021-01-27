@@ -1,0 +1,1 @@
+program MAh : main : U, y, f : boolean; I, w : boolean; O, g, y : boolean; while - (1170 = 4870) / B[416] / i : do F(- 7, 97); do _f(3); output "" . "" end; input W9U; let MQ = array - (936) or 7 end

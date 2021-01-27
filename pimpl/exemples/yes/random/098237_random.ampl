@@ -1,0 +1,1 @@
+program M : main : while - false > - 93 + false or 1 - 6 : chillax end; while - (82) > - (72) + 8 : let f[08] = array 7; output 80 . "-"; when case 2 : chillax end end; when case - not 529 and 31 : when case 39 : pop end; output "%"; when case 462 : chillax end end end

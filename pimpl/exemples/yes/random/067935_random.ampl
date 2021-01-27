@@ -1,0 +1,1 @@
+program n : main : S8p, e_10a, K, a, L, v, S : boolean; do H6(- not false + not not 4 or false and 3600 > - (9920) - kX9, (2) and not 2 > false); when case(380) / 1 <= - (3010) and 92 - 4 - 61 : chillax end otherwise : chillax end end

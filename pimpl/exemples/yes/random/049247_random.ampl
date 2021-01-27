@@ -1,0 +1,1 @@
+program R : qy : takes K0 : integer; Y, O, v630, S, E, W, DX : boolean array returns boolean array input ZH; when case - 70 : output "." end case 6 : output "" end case 6500 : chillax end end l9t0 : takes Q : boolean array returns integer g, v6 : integer; chillax end main : chillax end

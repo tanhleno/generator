@@ -1,0 +1,1 @@
+program G : L : takes q0, a5, C : boolean; k410a, p36a, K, H : boolean; L4u : boolean returns nothing TR6 : boolean; chillax end I6u : takes x : boolean returns integer array chillax end m : takes p, G : integer returns integer chillax end main : while true rem true or not(0) * false : chillax end end

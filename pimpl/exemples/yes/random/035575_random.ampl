@@ -1,0 +1,1 @@
+program j : A : takes s : boolean; _ : boolean; X : integer returns nothing x45aa : boolean array; cB10a, X5B, A17 : boolean array; SW1, ek : integer array; output "" . 0 . 8 . 61 . "$\"\""; while - 8630 - 371 : chillax end end main : input Xef; let q[true] = false and 1 - 65 <= 0 - 4; do j(- (9) and 4, 1 - 8 <= 0) end

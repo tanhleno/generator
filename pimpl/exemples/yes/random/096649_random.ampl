@@ -1,0 +1,1 @@
+program bx : main : when case - true and(270) < (511) rem 9940 and 16 : do V7(721 >= 154, 52600 = 30, 8) end case - (78) / false : chillax end case(2) + 839 < 1 : chillax end case - 5 < 26 : chillax end end

@@ -1,0 +1,1 @@
+program c : e08aa : takes X, o, _ : integer returns integer array chillax end main : d4, u, r : integer; h : integer array; UXz0a, zC, t : boolean; S, C9J, y, y : boolean array; r, yVEa, gr : integer; while - true and(2) rem true and 1 or 96 and 7 + not 00 <= false or 92 - 00400 - 7 : while 0 - 5 : chillax end; pop; input y9 end; output "<" . "9" . "\n2" end

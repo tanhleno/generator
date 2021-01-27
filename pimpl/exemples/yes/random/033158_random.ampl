@@ -1,0 +1,1 @@
+program U0 : L89 : takes x, J : integer returns nothing while - false and 85 /= - 603 - 337 : let A1[47] = array 2520; pop end; output 1 . 61 . 9180; when case 6 = 0 : chillax end case 032 : chillax end otherwise : pop end; pop 0; pop; pop; pop end main : chillax end

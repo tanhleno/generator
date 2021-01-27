@@ -1,0 +1,1 @@
+program C5b : m8 : takes Y9, T1v, m, Obl, kX : integer; U, Q5V, f79a : boolean array; k : boolean array; x, seE0 : boolean; v3 : integer; DD : integer returns nothing chillax end M : takes T : integer; g, D7P : integer; SaI : boolean array returns integer input C8[9 - 013] end Kp : takes Q, p : integer returns integer array chillax end main : let U = array true and true / (9) end

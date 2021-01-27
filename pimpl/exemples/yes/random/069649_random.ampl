@@ -1,0 +1,1 @@
+program Qg30a : main : C, r, g4b, H : boolean; pop; output ""; let j8 = 55 - 1450 > 3; pop; do f(7 = 2, 26); when case 51 : chillax end case 34 : chillax end; when case 04 : chillax end; when case 72 : chillax end end

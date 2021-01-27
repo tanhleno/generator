@@ -1,0 +1,1 @@
+program QVB0a : v : takes y, s_i0, N, S8 : boolean returns boolean chillax end main : X, mp, A37 : integer array; vsi0, q, r, L : boolean array; A : integer; input m[- 3 rem K8p rem uxk0a and 9 or not not 666 rem 9930 and 8 - (261)] end

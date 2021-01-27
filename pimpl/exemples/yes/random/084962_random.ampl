@@ -1,0 +1,1 @@
+program T : main : dK9 : integer; output ""; do k5(- true or not 74 and 8 + 4 - 24 > - false and 6); do k(true and 3 = - 30 - 8410, 48 - 4, 04); input dW[- 7 - 9]; output 46 . 58 . ""; input J; output "" end

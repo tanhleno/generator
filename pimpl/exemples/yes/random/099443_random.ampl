@@ -1,0 +1,1 @@
+program NVc : main : while not(9) /= J0[12] + L2Raa and 50 : when case - 3 - 33300 : chillax end case 574 = 34200 : do O(59) end case 76 : pop end end; while H(14400) * a and 3 - (9) - 9 - 6 /= - false : chillax end; let b = array - r end

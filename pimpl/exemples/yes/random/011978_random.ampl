@@ -1,0 +1,1 @@
+program q : DI : takes Z1, S, l : boolean returns integer CJ : integer; C : integer array; D, s, G : integer; qn : boolean; h : boolean; chillax end main : S6, QB, r, w69 : integer; input Z; input F[not(59) * not 996 or(5) - 09 - 7] end

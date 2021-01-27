@@ -1,0 +1,1 @@
+program a : main : do LJw(- (7 = 8810) * false and not 12 + true < 3 * 13 and 7 or not 6); while - i4Z(059) or 7 + 48 - 231 /= R7Z + 03000 - 6 : chillax end; let g2o[- not 88600 and 837 - 0] = array - not 5 and 2 end

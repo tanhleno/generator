@@ -1,0 +1,1 @@
+program q55 : K : takes o7, y, r : integer array; R3Yaa, H : boolean returns integer array fP, Z : boolean array; let M = - 2 - 84 end I : takes F : integer returns nothing chillax end main : y5 : integer array; C5G0, Nh3 : boolean; chillax end

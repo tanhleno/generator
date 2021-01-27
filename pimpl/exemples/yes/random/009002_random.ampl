@@ -1,0 +1,1 @@
+program g : n2 : takes X9d0a, i, iW : boolean; L6 : boolean; k : integer; g, U, U : boolean returns integer t6, Xh, YY, z7 : boolean array; let c8 = array not 937; do U(85 > 8) end f : takes l, OY : boolean; G, G, g : integer array returns integer array do s(88 /= 9, 4, 450, 68) end main : chillax end

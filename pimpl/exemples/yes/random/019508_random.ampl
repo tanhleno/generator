@@ -1,0 +1,1 @@
+program PPk0a : T : takes zov, T : boolean array; e, T : integer array; ql : integer returns boolean do X(not 41 and 29); when case - 0 = 76 : when case 54 : chillax end end otherwise : let j = 8 end end main : while 988 : pop 763 = 0; do y(8 = 9) end; output "" . "" . 15400 = 5 end

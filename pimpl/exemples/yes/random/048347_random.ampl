@@ -1,0 +1,1 @@
+program Bn_0a : x : takes ng2 : boolean returns nothing x8 : boolean; do N(27 and 8 - 153 >= 7 - 001) end main : let K = - k8K * false and 7 + true >= - true and 5; while - (2) : do U(411); do T77(4); pop; pop end; pop end

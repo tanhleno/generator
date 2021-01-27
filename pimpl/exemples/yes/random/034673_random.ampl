@@ -1,0 +1,1 @@
+program Yyha : o : takes HaI0a : boolean; n, q : boolean returns nothing chillax end QT : takes rB, G, R, j0R, r, mO, p : boolean array returns nothing chillax end D : takes P2aaa, y : integer array; R : boolean; l, c, G, J900 : boolean returns nothing input a9r0; pop 2; pop end main : z, i50 : boolean array; output 95 = false - 3 - 81500; input y end

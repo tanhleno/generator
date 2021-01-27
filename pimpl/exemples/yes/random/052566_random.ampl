@@ -1,0 +1,1 @@
+program K5p : s6Eaa : takes M : integer; r : integer; r : integer array; j : boolean; e : boolean returns nothing s, f65a : integer; chillax end main : C, B : boolean; O, o26 : boolean; while true = (50) or not 4 and 46 - 5 - 5 : output 36 . "jh" . 49 end end

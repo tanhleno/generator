@@ -1,0 +1,1 @@
+program F : O : takes a900a : boolean array returns nothing D, l : integer; e7, By : integer; G : boolean array; chillax end g8 : takes cuW : integer; sc, u, Z9, K89, G : integer returns boolean X, t14 : integer; y900 : integer array; O : boolean; PrB : boolean; output "7>" end main : chillax end

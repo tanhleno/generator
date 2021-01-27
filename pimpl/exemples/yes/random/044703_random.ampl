@@ -1,0 +1,1 @@
+program n : c : takes C : boolean array returns nothing zr20a : integer; ef40, P, z, l : boolean; chillax end main : HRYa : integer; do g8Laa(- V9q(80300) and T, (5) - (7) >= 182 and 6); do f(false or not 16, not 3 - 52); while not 2 and 6 + 2 - 56 : chillax end; do R(62); when case 794 = 7 : when case 25 : chillax end end otherwise : chillax end end

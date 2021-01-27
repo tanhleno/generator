@@ -1,0 +1,1 @@
+program tHT : i : takes ZR2aa, ZY3, m, X : boolean returns boolean do q57aa(false and 0 = 0 - 17) end Mm : takes d, lfW : integer; p, a, b4o, WIn : boolean; z8 : boolean; SyD, e : integer array returns nothing chillax end main : LI, x : boolean array; do y93(- 0 /= (6) + x - 459, - (158) - 4900 and 418 + 5); input B end

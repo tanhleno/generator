@@ -1,0 +1,1 @@
+program k7N : main : m, A : boolean array; let d = array - (5 = 7); output false or 7560 - 2 . - 68 - 7 <= 3; let R[- (536) + 06 - 1180] = array - not 01 + 925; when case - 01 : while 4 : chillax end end case 9 = 59500 : output "" end case 0 : chillax end otherwise : input m end; when case 81400 : let r = 6210; pop end case 7 : pop end; pop 86 end

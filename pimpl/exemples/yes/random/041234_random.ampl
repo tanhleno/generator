@@ -1,0 +1,1 @@
+program m : Sh30 : takes O : boolean array; p6 : integer returns boolean r, w9b0a : boolean; VL2aa : integer; yq : boolean array; m75, ff7 : boolean; z9 : boolean; input q[04 + 77400 - 692] end main : chillax end

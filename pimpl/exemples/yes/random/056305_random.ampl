@@ -1,0 +1,1 @@
+program N2 : k : takes T : integer array; _ : boolean returns integer array chillax end jK70 : takes y52a, W : integer array; lw3 : integer; d1, n, T : boolean; y8, a, I0 : boolean returns integer array chillax end main : let i = array - false * (32) and(28) and 4; let pa[- not not 5 rem 6 - false] = array 33 end

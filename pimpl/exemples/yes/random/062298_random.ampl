@@ -1,0 +1,1 @@
+program b470 : tq : takes J9 : integer returns boolean do d_(- not 7 /= 7, 10) end main : when case - false + 799 /= - K3B or(28) : output "4" end otherwise : chillax end; when case - false <= - sA50 and 9 : pop end case - 88 and 0 + 0 : chillax end end

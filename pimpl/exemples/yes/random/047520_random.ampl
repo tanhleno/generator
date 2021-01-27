@@ -1,0 +1,1 @@
+program M : gG8a : takes M1 : boolean returns nothing chillax end CI : takes l : boolean array returns boolean array chillax end main : while(0 = 0550) + 24 + not 48 + 87 - 66 >= - false + not 3 and 7730 - 1 - 6 : chillax end; output "" . - 6 - 582 >= 4 . "O" . 9; do qv0a(- false or 9, - 8 - 0 <= 7); pop 32; while 048 = 30000 : chillax end; output "i" end

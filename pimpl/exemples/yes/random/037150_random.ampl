@@ -1,0 +1,1 @@
+program h : gUK : takes z : boolean; R : integer array returns nothing let e62 = array - 5 or 06 - 1 end ZEO : takes H90aa : integer; tS9, k : integer array returns integer input OW; input H[2]; input K end main : output "W8" . "n" . "" . 7 = 5 . 13 end

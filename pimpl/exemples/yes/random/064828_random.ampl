@@ -1,0 +1,1 @@
+program O9 : W : takes j : integer returns nothing _2 : boolean array; z, w6 : integer; output 230 >= 2 . 9 end U9faa : takes Js : integer array returns boolean array R : boolean; Z : integer; chillax end main : let U = array - (1 = 6) / _ or j(1290) or true and 06400 end

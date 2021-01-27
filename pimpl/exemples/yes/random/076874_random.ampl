@@ -1,0 +1,1 @@
+program PY : main : Z36a, u : integer; when case(40 = 61600) + Mj[5] rem not 765 /= 6340 * (80) - (3) - 7 : output "2" . "\n" . "\"" . "" end; output - 5 and 60 - 1 <= - 43 - 7 . ""; when case(0) : chillax end otherwise : when case 4 : chillax end end; let l = array 84 - 562 end

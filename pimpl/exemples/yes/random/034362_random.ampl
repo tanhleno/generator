@@ -1,0 +1,1 @@
+program S1V : Lu80 : takes g : boolean; m, v : boolean array; W, iC, m0, N1 : integer; s : boolean array returns nothing L, x, x7V, G : integer array; z : integer array; pc, B84a, y : integer; chillax end main : K, yG0, S, yj : integer; z, oa : boolean; chillax end

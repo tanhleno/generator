@@ -1,0 +1,1 @@
+program Z : E : takes K910a, L, X13, W, f : boolean array; Q : boolean array; R : integer array returns nothing while - (81100) : pop 4 end end main : q9 : boolean; Fu, tO20a, n0c0 : integer array; n7 : boolean array; p : boolean array; when case - true : chillax end otherwise : chillax end end

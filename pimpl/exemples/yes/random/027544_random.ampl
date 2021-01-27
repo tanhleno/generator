@@ -1,0 +1,1 @@
+program j : Z27 : takes dq, k5k : integer array; R, s, S : integer returns nothing chillax end main : G : integer array; v, E : boolean array; k, q, p : integer array; fV, Z5N0 : integer; J : integer array; pop(37) - true /= - 34; output "a"; do Z(- l and 31 or 6000 - 7 = - 9 - 291); input p[97]; do x(8, 814, 22); let A[732] = 18 end

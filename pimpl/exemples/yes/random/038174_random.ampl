@@ -1,0 +1,1 @@
+program F : Z : takes DF : boolean array; vTp, Nk0, l : boolean returns nothing o, Xa : integer; K, jp20, k9 : integer array; chillax end V : takes C9n, L, i7aa : boolean array; zKt0a, i : boolean returns nothing E, W : boolean; r : integer array; chillax end main : hC, Q : boolean; cq_ : boolean; output ""; let wB2[true] = array - (199) and false and 5 + (020) and 1 end

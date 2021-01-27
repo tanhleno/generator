@@ -1,0 +1,1 @@
+program d : V44aa : takes c54aa : boolean array returns nothing chillax end _E : takes P : boolean returns integer g, l : integer; M, K85, s : boolean; z, i : boolean; chillax end z : takes V : boolean returns integer array v : boolean; f9, L : boolean; chillax end main : wu8a, C : integer; PBTa : integer; chillax end

@@ -1,0 +1,1 @@
+program _ : main : do Q0(not(60) / true, - (15700) * (9170) and 1 = not 9 or 41, - (34) or 511); pop - 3 or 2 - 2; do O(- (3) > - 9 - 609); when case 60 - 5 : chillax end case 8 : chillax end case 1920 : pop end; let T = array 9 end

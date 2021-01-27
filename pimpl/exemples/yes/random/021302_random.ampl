@@ -1,0 +1,1 @@
+program sLi : Ms : takes z2ia, UCt : boolean array returns integer array chillax end main : v : integer; s0p, x, E, p, ery, j820 : boolean array; pop(2) rem true and 7 + (37); when case not A00 / S and 7 or N4 - 516 : chillax end; let N35 = - 956; do G(748 /= 0, 193); pop; let J[8] = 432 end

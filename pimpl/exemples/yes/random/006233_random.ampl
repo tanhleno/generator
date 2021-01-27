@@ -1,0 +1,1 @@
+program c5K : Cbt0a : takes _, w, q, Z3Da : boolean returns nothing I1 : integer; l4, SSSaa : integer array; chillax end x4 : takes Usz : boolean array; Urxa : boolean returns boolean when case 9 : input vf7a end case 88 : chillax end otherwise : chillax end end main : when case - false - 6 or H7 < false / false + (0470) and 1 + 1 - 06 : chillax end otherwise : chillax end end

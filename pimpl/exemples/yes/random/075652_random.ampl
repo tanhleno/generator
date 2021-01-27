@@ -1,0 +1,1 @@
+program u26 : main : g, J89 : boolean array; when case r(30) rem(2) - 9 rem not 6 and 6 or false and 9 /= - I[9440] : while 4 - 29 = 37 : while 2 : chillax end end; pop end otherwise : input D0[3]; do N(4, 4); let b = 116 end end

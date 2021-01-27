@@ -1,0 +1,1 @@
+program b : t : takes t : boolean array; Q640 : integer array returns integer array chillax end main : do t8(- (5150)); while - true or y1C0 < - C and 6 : when case 62 = 78 : when case 4 : chillax end end case 7 : pop end case 688 : chillax end otherwise : pop end end end

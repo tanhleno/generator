@@ -1,0 +1,1 @@
+program R9 : y3 : takes sfB : boolean; VoJ0a, iyz, P, K56, t : boolean array; H0da : boolean; OA3, E, r : boolean returns nothing pop 759 - 95700 end M : takes S : boolean returns nothing input R_[- 84 - 1]; input I end main : do M(- 21 < - 7 rem o - false, - false * 9 = - 02300 and 27, - not 9 and 6 or 909 - 8) end

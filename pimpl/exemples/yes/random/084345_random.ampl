@@ -1,0 +1,1 @@
+program W12 : main : k : integer; p : integer; input D[- false - y7[96] rem false]; pop; while 6 and 5080 + 6 - 687 : do F7(031); let NF = 88 end; when case 5 : do A(776); let C = 8; pop end case 025 = 7 : chillax end end

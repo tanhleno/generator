@@ -1,0 +1,1 @@
+program vB : EnUaa : takes N : boolean array returns integer chillax end s : takes k6 : integer array; P : integer array returns nothing while 0730 - 5 : chillax end; when case 6910 : chillax end end main : y, GE : boolean array; z1 : integer; q9, q : integer; do e(true and false and(30) and 8 or false rem not 048 + false and 771 - 992) end

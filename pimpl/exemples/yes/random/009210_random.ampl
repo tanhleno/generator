@@ -1,0 +1,1 @@
+program t : uwIa : takes bD, wK, sr : boolean; yD60 : boolean returns nothing L : boolean; YNza : integer; A, N, n : integer; q, e : boolean; pop end Foo0 : takes r : boolean returns integer while 2 : pop end end main : chillax end

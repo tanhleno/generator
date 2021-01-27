@@ -1,0 +1,1 @@
+program va : y : takes e : boolean array returns integer i8 : integer array; V, yC : boolean array; output "0;" end HT90a : takes IA80, j_ : integer array returns integer Q3 : boolean; Q, n : boolean; F : boolean; u : boolean; S5aaa : boolean; pop 57 = 6 end main : Q060a : integer; I : integer; jw, kE : boolean array; chillax end

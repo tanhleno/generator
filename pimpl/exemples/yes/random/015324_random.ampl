@@ -1,0 +1,1 @@
+program L : Z : takes k, T06a, Tlc : integer array returns nothing Z, j6, mD5aa : integer array; q1Xaa, G, I : boolean array; D : integer; chillax end A1 : takes h, Cc : boolean; k, r : boolean returns nothing l : boolean; input t end main : T, d : boolean array; chillax end

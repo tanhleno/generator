@@ -1,0 +1,1 @@
+program N : m30a : takes A : boolean array; h : integer array returns nothing when case - not 9140 and 5350 + 1 - 95 : output 1 . "2"; let o = 7 end; pop; pop; while 37 : chillax end end t : takes d : integer array returns boolean array let g[- 722 - 1] = array - 6690; while 1 = 9 : input d end end main : _go, O, qg : integer array; chillax end

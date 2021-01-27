@@ -1,0 +1,1 @@
+program b : _Cba : takes q00 : boolean; i : boolean array; Bgg, B, c : boolean returns nothing e : integer; t : integer; let Y = array(57) or 8 - 2; input Ue[- 8 - 9] end main : b : boolean array; j, w : integer array; bR, W : integer array; while - 86 : chillax end end

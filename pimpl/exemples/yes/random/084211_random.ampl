@@ -1,0 +1,1 @@
+program R : main : N : integer; a67 : boolean array; while KHTa * not true + 1 = - N[158] * (949) + (0) + 6 - 7 : do K(- 6 - 01 > 4) end; while - true and A + false + 55 >= - (1) + 0 - 50 : chillax end; do p(- not 38 >= - 8, - 4 - 2 /= 08400); do Q(- 497 - 59 <= 44) end

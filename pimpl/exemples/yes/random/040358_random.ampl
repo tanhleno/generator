@@ -1,0 +1,1 @@
+program IE9a : e : takes Ca : boolean array; L : boolean returns integer when case true and 6 <= 82 - 5370 : let n = 0; do lu(9); let l = 5; pop end otherwise : chillax end end main : output - true end

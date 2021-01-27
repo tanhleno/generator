@@ -1,0 +1,1 @@
+program Yc_ : a : takes w, I : integer; p, H3, fu4 : boolean returns nothing qc, V, e, h8 : integer; LW, ON, mR20, M2 : integer array; chillax end main : while - 9 * 07 and not 4 and 09800 : chillax end end

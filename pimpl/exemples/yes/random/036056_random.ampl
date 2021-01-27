@@ -1,0 +1,1 @@
+program R0U0 : F0 : takes P3 : boolean; RB4 : boolean array returns nothing G : integer; l : boolean; M55 : boolean array; output - 82 > 7 . "" . 043 . 21 end main : h : boolean array; z : boolean; do k(P(9, 9) and w2(692) rem(2150) - 3 - false and 88 - 0 - 17 <= not 2 * 4, 2 - 4 /= - D and 5 or 3, - 922 and 6420 or 7, - 71 = 2) end

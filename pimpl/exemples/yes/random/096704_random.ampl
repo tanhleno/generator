@@ -1,0 +1,1 @@
+program c0 : main : when case false * (39600) * 2 : chillax end case - not RK / not 802 and 08 + not 1 or 2 - 3 /= - H0ja - 8 - 3 : when case 90200 = 95 : chillax end otherwise : pop end end case cOW0a and 9 : chillax end case - 2 = 40 : output "\tQ"; output "" end end

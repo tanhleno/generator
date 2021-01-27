@@ -1,0 +1,1 @@
+program F : main : e8 : boolean array; J, W4, v, H, N0, My50a : boolean array; a3 : integer; when case not true - E[64] * YE and 5 : chillax end case not N : chillax end case - S and 5 : chillax end otherwise : do Z(62 = 15200) end end

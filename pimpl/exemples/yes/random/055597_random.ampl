@@ -1,0 +1,1 @@
+program sq : B5 : takes Q7k : integer array; x5 : boolean; W, M : integer returns nothing input g77[- rl3a and 6]; when case - 7060 < 5 : chillax end; input T end main : pop; do d3Y(aGmaa(433) or(280) or 02, true - 03000, 38200 - 8 > 63); while - D - 5 - 275 < 4 - 0 : while 58 : pop end; let v = 91; pop end; while - 2 : let X = 99; let D = 677 end end

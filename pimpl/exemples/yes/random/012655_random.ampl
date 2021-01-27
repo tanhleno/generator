@@ -1,0 +1,1 @@
+program P1 : o : takes Q, l, e : integer; v70, Y, E, I : integer; LbU0 : integer returns boolean u : boolean; chillax end main : let y2P = - Tt[14700] / 2740 > - (3100); let K = array - (6) rem 6; when case M8c and 370 : chillax end; while 7 - 3 : output ""; while 1 : chillax end; pop end end

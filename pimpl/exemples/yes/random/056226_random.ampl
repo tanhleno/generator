@@ -1,0 +1,1 @@
+program rh : KS4 : takes qLv : integer array; bXz0 : boolean array returns nothing while - z - 5 : while 7 : pop end end; while - 686 >= 2 : let DT3 = 59; do V9(17); pop end; let NF = array 6 end wn2 : takes J6, T2 : integer; K : integer returns nothing while - 0510 - 9 : output "7" end end main : bA : integer; lKq, f, t : boolean array; chillax end

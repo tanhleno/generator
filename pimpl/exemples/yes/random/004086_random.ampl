@@ -1,0 +1,1 @@
+program o : y : takes b, u5h, h22, D, M : integer returns nothing b90, T8p, G, D, K : integer; q, E2, k, R : boolean; A, hx, tC9aa : integer; chillax end main : v : boolean; x, c0, a, y02 : boolean; output 31300 / (1) + (86700) + 88 - 9 = - B and 4 . not 877 - 0 - 2410 <= - 1 end

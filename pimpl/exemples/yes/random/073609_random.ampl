@@ -1,0 +1,1 @@
+program u : main : zV3, X : boolean; Z, z : boolean array; while - true or y2 /= aW[88] and v : chillax end; while i / l4x0a and 7 or true : when case 6 : pop; pop end case 82 : pop end case 7 : chillax end otherwise : pop end; while 2 : chillax end; while 8 : chillax end; let B = 636; pop end end

@@ -1,0 +1,1 @@
+program tN : b : takes z : integer returns nothing zT : boolean array; chillax end main : s : boolean; let g = - (722) - true and 1 or 74 <= - false and 6 - 4 - 2520; let v4b = array true or(3) and 1; let O = array - true end

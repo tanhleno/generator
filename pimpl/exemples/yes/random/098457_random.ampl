@@ -1,0 +1,1 @@
+program Ui6 : main : while - y[8] and not b6 + (5) rem 5 and 66 + true + 81300 : input t[2 - 5] end; while - true * not 0 - not 953 and 2 + 24 - 4 : let W = array 544; let tL[5] = 28 end; do m(true or 1 - 3240); when case 03 <= 8 : chillax end; do w(6 = 27800) end

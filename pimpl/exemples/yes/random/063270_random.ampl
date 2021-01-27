@@ -1,0 +1,1 @@
+program V : k : takes N40 : integer returns integer chillax end main : T : integer array; while - 1370 : chillax end; output - not 57600 and 418 . 2 - 2 /= 83 . 0; do L3(- true and 43 + 8 - 7 = 28 - 3); do b(6 - 6); input b[433] end

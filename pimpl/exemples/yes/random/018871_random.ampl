@@ -1,0 +1,1 @@
+program IK : Ps : takes v, v : boolean array; v, J, MQ : boolean; TqC0 : boolean returns integer chillax end q540a : takes M, H : integer; cu : boolean array; z, dUj : integer array returns integer array G : integer; N, dA0aa : boolean array; chillax end main : let bkb[8 rem not true] = - true * false + G or 968 - 436 end

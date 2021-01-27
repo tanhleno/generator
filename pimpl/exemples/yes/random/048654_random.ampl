@@ -1,0 +1,1 @@
+program m : Lj : takes Z1 : boolean returns nothing h : integer; r : integer array; chillax end A3 : takes d_1, q19 : boolean array returns nothing when case 7 : output "\"s" end otherwise : chillax end; pop 66; let Hw = 6 end main : z030, m7 : integer array; output - 0 > - B66 and 029 - 7 - 598 . "" . - 1 - 7 >= 6 . "" . 3 . 4 . "" end

@@ -1,0 +1,1 @@
+program g7Ya : main : Dc, x, s7 : integer; n, U53aa : integer; f : integer array; r, Tn : boolean array; o9, Z : boolean; when case - 43 rem a(2) rem true + false * true and 37 : chillax end otherwise : chillax end end

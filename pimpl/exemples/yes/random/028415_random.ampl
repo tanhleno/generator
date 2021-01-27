@@ -1,0 +1,1 @@
+program k : N : takes oK7aa, UU : integer array; l : boolean array returns integer R, E : integer array; chillax end main : y : integer array; pop; let Le = array - not not 801 * not 26500 and 8 - false and 85; let o = - 51 > 075 end

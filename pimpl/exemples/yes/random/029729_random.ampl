@@ -1,0 +1,1 @@
+program vE : w : takes y, p : integer array returns integer array do L(- (03) - 74 - 309 <= - 15) end n : takes V : boolean; Z : integer array; E : integer array returns boolean FQ60a : integer array; Jy10a, Av : integer; Q_xa, d1 : boolean; while - 5 : chillax end end main : chillax end

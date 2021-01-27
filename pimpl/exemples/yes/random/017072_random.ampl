@@ -1,0 +1,1 @@
+program gP : U1 : takes H, pE6 : boolean; ZH, q8, tm : integer array; RR4 : integer array returns integer YM, aH : boolean array; chillax end main : Ko : integer; let mI4 = - false and not 681 - 7 and 5; while true : chillax end; output "\t" . "r" . 93 end

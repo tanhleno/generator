@@ -1,0 +1,1 @@
+program g0x : B4P : takes yFs0 : boolean returns integer chillax end main : when case - not true - (5) * tL and 11 or true <= - false - (178) and 46400 : while - 696 - 204 > 0 : chillax end end; let K[- 4 * true] = array H[67] * (7); input i[not 16]; let c = array 42; let u[87] = array 7; let x06aa[9] = array 0; while 5 : chillax end; while 5 : chillax end; pop end

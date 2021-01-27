@@ -1,0 +1,1 @@
+program m : main : do Y(- i[74] / not false / not 9 + I(2) /= true and(675) and 45 + false + 36); pop(17) <= 3 - 0330; when case 2 and 9 + 584 : chillax end case 90 - 83800 >= 2460 : chillax end case 50 : input H5O0; pop end case 6 : chillax end case 97700 : chillax end otherwise : chillax end end

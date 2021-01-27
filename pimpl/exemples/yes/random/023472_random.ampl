@@ -1,0 +1,1 @@
+program O010 : B : takes g, g : boolean returns integer array S0, b2h, OMT : integer array; D5S : boolean array; BkB0a : integer array; output 5 - 094; when case - 20 - 73000 >= 8 : chillax end case 4 : chillax end otherwise : while 0 : chillax end end; input pCH0 end main : cy, O98, M1, p0, f, l, N : boolean; chillax end

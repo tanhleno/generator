@@ -1,0 +1,1 @@
+program u4Ga : main : Z4, Bz4 : integer; do jyhaa(- not true / true or 6 or true and 85 + 52300 - 2); pop true; output - 5 . ""; input wXAa[- 885 - 507]; when case 931 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program J4Yaa : main : C, A930a : boolean; F, x : integer array; output "\\80"; let sd = array false rem true and 56; while not 38800 or 1 : do L3H(7, 259) end; when case - 696 - 1 > 8 : let yc1aa = 242; do c(01100) end otherwise : output ""; pop end end

@@ -1,0 +1,1 @@
+program v : FU5 : takes D6Y, vY, K : integer array; j : integer array; t, Ri : boolean array returns integer array t84 : integer array; let v1[true and 97 + 49 - 5] = array 8 + 8; do qi90(35500 - 949, 7) end main : let M4 = not true + false and 5 <= - (9) and 53100; output "@" end

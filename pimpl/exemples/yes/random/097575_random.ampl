@@ -1,0 +1,1 @@
+program U : main : when case true - true and(4) and 592 : pop; input S[2]; input a[503]; let K0 = 8 end case not not 954 * false and 7 > - true and 9 or 7 - 0920 : chillax end case not 3 > 234 - 2 : chillax end case - 04 : chillax end case 9 : chillax end case 379 : chillax end case 041 : chillax end end

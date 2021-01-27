@@ -1,0 +1,1 @@
+program y0f0a : FeEaa : takes n : integer; p, I : integer array returns nothing J : boolean; b : boolean; G : integer array; let Z[true - 32200 - 62] = array not 07 and 87 + 68700 - 86900 end main : chillax end

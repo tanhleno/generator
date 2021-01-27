@@ -1,0 +1,1 @@
+program s : Wp : takes j : boolean array; A6I, OIP0a : boolean; x, z, j, z, U1 : integer returns integer array Q, Y, h : boolean array; output ">" . 47 = 912 . "" . 6 . ""; while 1 - 5180 : chillax end; while 5 = 62 : input A; pop end end fSu0a : takes d1caa : boolean returns boolean array let D46[- 1] = array - 6 - 1; pop end main : o : boolean array; chillax end

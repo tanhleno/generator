@@ -1,0 +1,1 @@
+program an8aa : o : takes g : integer array returns nothing WD : integer; let zL[- (1) and 33700 + 496] = array not 2 and 9 + 87 - 2; pop; input L end main : _, h : integer array; N8 : integer; a, L8 : integer; y1Aa, R0k0a, g6V0a : integer array; z : integer; output true and true <= Dv; input W; pop 0 - 0; pop 5 = 3 end

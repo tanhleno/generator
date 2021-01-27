@@ -1,0 +1,1 @@
+program w : k : takes Q2h0a : boolean array returns integer array chillax end main : let k[- MIN[5] / y[936] / false + E23(0) and true + 007] = (59) rem false /= (507); output "\n" . ",'!" . 283 = 8 . 4 . 5 . ""; when case - nfo and 9 or 21 : input jc8[17500]; while 2 : chillax end; output "5"; pop end; do t(396 - 973 >= 6, 589); output "" end

@@ -1,0 +1,1 @@
+program l4 : hhX0a : takes X94, vCqaa, g05 : integer array returns nothing pop 66 - 49 < 788 end main : a : boolean array; X3 : integer array; b : boolean; output - b(00) and false and 93900 + 758 end

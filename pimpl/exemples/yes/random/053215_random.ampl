@@ -1,0 +1,1 @@
+program e : O : takes b86 : integer; D : integer returns integer aC, l : integer array; while 8 and 3 or 5 : chillax end; let J[- 605 - 892] = array 00200 - 678; output 05 end T : takes p, d : boolean; o, N9, T65, W : integer; jx0aa : integer returns integer array chillax end main : r : integer; chillax end

@@ -1,0 +1,1 @@
+program i8D : qN7 : takes i, k : integer array returns boolean array pop - 736 - 0 /= 38 end U : takes m3J, E : integer array returns boolean array do IqK(2 = 3) end dq1 : takes mYt0a, B : integer; s, I0, U : boolean array; p4s : integer returns nothing chillax end main : pop; let J[- 074] = - true <= 49 end

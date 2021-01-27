@@ -1,0 +1,1 @@
+program G : Ru10 : takes z : integer; fg : integer array; Y : boolean returns nothing O3, w, X4 : boolean; x19, j, o : boolean; let i98[- true and 724] = - 4 - 3 end main : pB0 : integer array; Y : boolean; t7Da : boolean array; D : integer array; Ro : boolean array; fx : boolean; bc : boolean; S0 : boolean; chillax end

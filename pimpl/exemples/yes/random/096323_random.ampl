@@ -1,0 +1,1 @@
+program p3vaa : main : when case - not true >= true and 45 : chillax end; do FS50a(C4 and 7 or 59 and 41700 = - W7K0 and 8 - 1, H or 7780, - 8450, 1 = 4600, 1, 1); when case(4) and 7 or 6 - 31 > 06 - 6 : chillax end otherwise : chillax end end

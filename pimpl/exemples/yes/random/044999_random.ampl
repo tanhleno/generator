@@ -1,0 +1,1 @@
+program w580a : kiQaa : takes j1 : boolean array returns nothing let h = - 92000 - 510 <= 5; when case - 6 - 5 /= 215 : input Q end otherwise : chillax end end e : takes Y, V : integer array; S2s, _, u : boolean returns integer e3 : boolean; chillax end main : chillax end

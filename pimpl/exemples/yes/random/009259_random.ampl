@@ -1,0 +1,1 @@
+program P370a : K0R : takes ht, U800, N : boolean; t96 : integer; _5 : boolean; ET : boolean; Hy : integer array returns nothing R : integer array; output "U|"; do S0A0a(4 - 01) end main : chillax end

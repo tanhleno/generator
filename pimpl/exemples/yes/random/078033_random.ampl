@@ -1,0 +1,1 @@
+program PT : main : o, F7 : integer array; pop; when case - U4[465] / true and 41700 + 80 and 2 <= (1) - 9 - 25 : pop; input s9; when case 12 : chillax end; let w3 = 2; pop end otherwise : input U5[4590] end; do x(- true and 9 or 36 - 6, 1 - 86500) end

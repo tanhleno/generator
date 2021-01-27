@@ -1,0 +1,1 @@
+program d04 : main : Miw, a8 : integer; BC : integer array; O : integer array; when case(55 = 13) / false and false and 75 + (1) = (0) and 6820 and 3 + true and 53 + 96 : chillax end otherwise : chillax end; output "" . ""; while - 5 >= 5 - 1 : chillax end end

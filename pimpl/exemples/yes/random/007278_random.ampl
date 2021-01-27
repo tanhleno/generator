@@ -1,0 +1,1 @@
+program M : m : takes HY00a, pc, eV, g2 : integer array; Gm5 : integer array; I : boolean; u, K : integer array returns integer input U end main : X : integer; d4, nt : boolean array; P9fa : integer array; chillax end

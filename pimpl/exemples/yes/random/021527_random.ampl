@@ -1,0 +1,1 @@
+program L : gHD : takes D, D : boolean array returns integer array while 4 - 62000 : chillax end end main : x, l : integer; De, yy, JU : integer; s : integer array; p : boolean array; Q, Ug, Q6q0a : integer; L, u : boolean; do H5(h[51400], p[743] + 37 and 1910 + 6 - 2 = 15400 and 64400 or 97 - 38, - (01) - 2, 8 > 29) end

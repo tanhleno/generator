@@ -1,0 +1,1 @@
+program kR : main : output - false <= - false + 56; when case - 900 / C3 = false or 89 : input W3 end otherwise : chillax end; when case - y or 9 - 4 >= 994 - 7 : chillax end; when case - 53 - 2 <= 374 : let zw = 9 end case 1 = 7 : chillax end case 99300 : chillax end case 0 : chillax end end

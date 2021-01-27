@@ -1,0 +1,1 @@
+program nWM0 : main : C, Q6, Q2, l, H, k : integer array; o : integer; jY70a : boolean; C, ssI0a : integer; X : boolean; output - false / true and 3; while - 312 < - false and 73 - 9 : chillax end end

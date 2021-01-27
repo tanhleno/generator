@@ -1,0 +1,1 @@
+program l : u : takes J, O : boolean array returns nothing chillax end main : pop - not false * false /= false; when case - true < em20a - 31 - 30 : let t8k = array 235 end otherwise : when case 5 : pop end case 3970 : chillax end end end

@@ -1,0 +1,1 @@
+program i : e : takes c3 : integer returns boolean array input ks40a[- false] end Vkk : takes R, OK : integer array; D63a, de : integer; Z : boolean array returns nothing f290, a2f, w43 : boolean array; J, X, _ : integer array; v, e : boolean; pop end main : while 83 or not J < - false + not 412 : chillax end end

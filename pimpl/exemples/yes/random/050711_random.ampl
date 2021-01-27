@@ -1,0 +1,1 @@
+program d00 : Q : takes o : integer; HFtaa, vy2 : boolean returns integer array pop - 5 - 542 end eN1 : takes o : boolean; D, kb6 : integer array returns boolean l, N, k0, X0Da : integer array; chillax end main : chillax end

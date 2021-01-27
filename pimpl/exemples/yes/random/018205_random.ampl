@@ -1,0 +1,1 @@
+program f3H0a : N : takes s5Oaa, a : boolean; asra : integer; a : integer array returns nothing ht, W3x, yA, B : boolean array; y, Hx : boolean; chillax end D : takes r : integer; q0 : integer array returns boolean array chillax end main : j, zix0 : boolean; xZe : boolean array; chillax end

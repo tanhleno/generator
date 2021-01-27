@@ -1,0 +1,1 @@
+program q : C0V : takes I6 : integer returns nothing J7 : boolean; bN : integer; output "\\[" end J : takes V, H99a : integer; uj7, co, JIf0a, aLp0, g, E : boolean array; d : boolean; u7 : boolean; J : boolean array; N : boolean returns nothing h, HI, v : boolean; Y, W7 : boolean array; y7, b2 : boolean; chillax end main : let v[not true rem not 8] = array - (3) and false end

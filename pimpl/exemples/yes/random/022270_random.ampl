@@ -1,0 +1,1 @@
+program Z : Pwvaa : takes E5, q : boolean array returns nothing C0, M : boolean array; do XM60a(- 4510 and 3, 00 - 59900 /= 5); let ZH7a = 4 end L : takes J : boolean returns boolean array while - 1 - 6 : let l = 4; input eE8 end; let V = array 8160 end main : N0 : boolean array; when case - true : input M8f; output "" . "$\\"; while 31 : pop end; do r(906) end end

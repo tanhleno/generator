@@ -1,0 +1,1 @@
+program tP : aP : takes C6 : boolean returns integer array chillax end Cb : takes c, h, U : integer returns boolean chillax end main : i, X : integer; input u[- (801) and(9)]; while false * false and 8 : do Vd40a(21); when case 44 : pop end end; output "6\"" end

@@ -1,0 +1,1 @@
+program CA : A8 : takes Xf, L040, Ig0, m2o0, W, H, l2 : integer array; k8 : boolean returns integer E4a0, rCr : boolean; N6, V, K : integer array; when case - 7 + 30 >= 71 : chillax end otherwise : pop end; let i[- 4920] = array 3 - 0 end D : takes I : integer returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program b7uaa : gl2 : takes n : boolean array returns nothing output ""; when case 8 >= 10 : when case 1 : chillax end; do ryA(4); pop end otherwise : chillax end; output 21 end main : d, V : integer array; Y : boolean; chillax end

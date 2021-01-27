@@ -1,0 +1,1 @@
+program VU : H : takes Z : integer array returns nothing F0, h : integer array; when case false <= 9 : while 414 : pop end; do S(5) end; do TDg(6, 4) end main : L, V99 : boolean; U : integer; H2_, K4t0 : integer; do r5t(- F[0] / true rem false + L[28] - (5)); when case - 8 - false and 0 : chillax end otherwise : output 2 . "4" end end

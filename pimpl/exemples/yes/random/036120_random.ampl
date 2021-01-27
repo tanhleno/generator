@@ -1,0 +1,1 @@
+program u : x : takes JZ : boolean; c : boolean returns boolean array dF, d, sS9, J : boolean; Z3, j, g8, I7b : boolean array; do JTK0a(not 48 and 86) end j6 : takes U, pY : boolean array returns nothing yh6 : boolean array; while 550 <= 2 : chillax end; when case 17 : chillax end case 2 : chillax end; pop 9760 end main : chillax end

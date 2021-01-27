@@ -1,0 +1,1 @@
+program O : Q : takes r1N, T : boolean returns nothing D, Sg0aa : integer array; chillax end _66 : takes M, Hd : integer array returns boolean while 0 : chillax end end main : pop; while - true / false or not 08 < (74) : chillax end; while not 28 + 352 /= - 4 - 8 : while 3280 : chillax end; output "" end end

@@ -1,0 +1,1 @@
+program d19a : rd6 : takes tq : integer returns integer g91 : boolean; d5D, o, i : integer array; let JV = - 8; output ""; while 6 : chillax end; pop; input f; input h8; pop end main : S : boolean; chillax end

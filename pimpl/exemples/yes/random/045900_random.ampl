@@ -1,0 +1,1 @@
+program _ : h : takes I : boolean returns boolean chillax end u : takes J2o, F, a29 : integer; gn : integer array returns nothing s390 : integer; W31a : integer; _, qJ : boolean; chillax end main : V, k380a, kfa0a, v7, b : integer; b : integer array; chillax end

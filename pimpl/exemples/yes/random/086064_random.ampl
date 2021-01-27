@@ -1,0 +1,1 @@
+program g : main : z53 : integer array; lU, M4 : boolean array; i : boolean array; V55aa, H, w, UA : integer array; while false and x[84] * Ds and 9 + false / not 13 - false and 938 + 0 < true rem not 18 and 7 : pop 228 = 88 end end

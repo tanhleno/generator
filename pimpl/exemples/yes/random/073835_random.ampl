@@ -1,0 +1,1 @@
+program oge : main : m, lQ : boolean; G : boolean array; zP, j : integer; gNw, L, D790a : integer; w, y, qx5 : boolean array; uH0a : boolean; F48 : boolean; p : boolean; while - not(8) - false - (4) : input a; while 06 : chillax end; when case 6 : chillax end case 84 : chillax end otherwise : chillax end; pop; let S = 4; pop end; do FH(- 5620, - true - 126 - 9, 5 <= 9, 7) end

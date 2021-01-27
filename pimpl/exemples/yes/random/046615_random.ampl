@@ -1,0 +1,1 @@
+program x9 : Q : takes Zs : boolean returns integer array x, S1 : integer; C, _0, n : integer; chillax end _4gaa : takes g, D : boolean array; Ea : integer array returns integer array input eT; when case 6 : let M4 = 0; pop end otherwise : pop end end main : output ""; pop false <= 4 end

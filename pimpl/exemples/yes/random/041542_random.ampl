@@ -1,0 +1,1 @@
+program F : C : takes Q : boolean array returns boolean array chillax end main : when case - 64 * true rem true and 6 or true / 03 - (2) < - false and 4 and 969 - true + 47 : chillax end; do NP7a(true + r2 and 3 + 1 - 089 > - hB + 3, true and 7 /= - 46); output "" end

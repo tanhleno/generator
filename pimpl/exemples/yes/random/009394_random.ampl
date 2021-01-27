@@ -1,0 +1,1 @@
+program g : n91 : takes M, K, NP9aa : boolean; J : integer array returns nothing Z, x : boolean; n08 : integer array; input qN6a; output "(" . 8 . ""; pop end main : S, g, N94, Sf, E290a : integer array; V, l : integer array; do n(false); while true and false and 17 or true > false or 3 - 118 : chillax end end

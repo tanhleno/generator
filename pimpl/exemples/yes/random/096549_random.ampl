@@ -1,0 +1,1 @@
+program eM : main : when case - true * not not 67500 /= true : chillax end case 7440 and f < K_1 and 1 : when case 5 : let RB6a = 42; pop end case 4 : chillax end case 0 : chillax end end case not 164 and 648 or 178 - 2 : chillax end case - 4 - 004 > 94 : input j end case 3 : while 41800 : chillax end end otherwise : input A end; output - C end

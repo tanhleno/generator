@@ -1,0 +1,1 @@
+program mtp : q97 : takes n, U2, x65aa, ji70a : integer array; Qjb, e, q, C : integer array; m920a : boolean returns integer pop; do H(12 - 9) end f : takes S : boolean array returns boolean array output 28 . 4; let b = array 5; pop end main : output not(10) rem not 9 and 95 >= - true and 14; let M2[- (0) and not 5 + false + 87 - 3] = false or 2 <= 7 end

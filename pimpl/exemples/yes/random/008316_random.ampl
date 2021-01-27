@@ -1,0 +1,1 @@
+program QD10 : ox : takes c, v78, L, sVQ0 : integer returns nothing G : boolean array; OO : boolean; i, f : integer; l, Q820 : boolean; j : boolean; pop end N : takes O : boolean returns boolean Ho : integer array; w45 : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program m : U5u0a : takes Zs4 : integer array; B : integer array returns integer array chillax end main : when case false rem 10 rem Q and 0630 + true : chillax end case I9[3] or 232 and 52700 : chillax end otherwise : chillax end; pop a6 and 687 + 296 /= 98 end

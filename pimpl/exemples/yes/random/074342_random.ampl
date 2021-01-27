@@ -1,0 +1,1 @@
+program yr : main : xc, g : boolean; when case(8) or 5 + false and 138 : output "8%\"" end case true /= - not 238 - 0 : when case 12700 = 7 : input c; pop end otherwise : chillax end end; while true and 6 or 64 : chillax end end

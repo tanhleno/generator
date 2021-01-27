@@ -1,0 +1,1 @@
+program U : main : k0 : boolean; when case - not not 47400 / true and not 24 - 7 and false or false = - (1) : chillax end; while - _ - not 9 and 20 : pop; when case 3 : chillax end case 975 : chillax end end end

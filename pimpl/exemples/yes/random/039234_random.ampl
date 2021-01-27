@@ -1,0 +1,1 @@
+program a : wX : takes Pt : boolean array; us, F : integer array returns boolean array while false <= - 57 : chillax end; do A(- 94) end main : C, _6, L : integer array; _Kaaa, PyCaa : boolean; chillax end

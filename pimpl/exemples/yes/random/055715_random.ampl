@@ -1,0 +1,1 @@
+program f9 : W8z : takes pr : integer array; G : boolean; Qj : integer returns nothing when case - 2 and 9 > 28 : do Z020(8) end; do W(4340 - 17 >= 3, 80 = 55, 973, 20) end main : let m2p = - 02 and true and 85 end

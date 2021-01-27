@@ -1,0 +1,1 @@
+program E : S : takes g, U, e, q : boolean array returns boolean q9 : integer; c, k : integer array; o, ZT2 : integer; J8M0, U : boolean; S : boolean; input W85; while - 50400 = 9 : chillax end; let Y = 6; let b[0] = 95; do Cb4(1570) end main : do ov(- p[6] - J8Maa(87) - s2, - not not 3 >= 22 and 4, true and 68); do k7(false = - true and 3 - 463) end

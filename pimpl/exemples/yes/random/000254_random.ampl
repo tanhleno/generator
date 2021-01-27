@@ -1,0 +1,1 @@
+program c : _ : takes Z, hLC0, k, l, Gt, C, q2, f : boolean returns integer pop - 32; output "1"; input Z1; when case 22 : pop end case 53 : chillax end; do H(67); output ""; pop end main : input c[- 76700]; pop; input ij70[4 or 9 - 7] end

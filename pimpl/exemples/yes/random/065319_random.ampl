@@ -1,0 +1,1 @@
+program MAm : k : takes f : integer returns nothing output 54 - 81; do pak0a(- 06) end A : takes aW, h, K : integer returns boolean array chillax end Vy : takes zM, X, Z89 : integer; U8, Q, j930a : integer; v, d, f : integer array; B1w : integer array; _2s, g : boolean returns nothing o, OS4, V : integer; do Cv(20 = 98, 7, 087) end main : let Uz[- false] = - (2) and not 1 > Y end

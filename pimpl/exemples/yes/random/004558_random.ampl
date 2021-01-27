@@ -1,0 +1,1 @@
+program qB1a : d4 : takes O, RV, y, g7 : boolean; l2 : boolean array returns nothing when case(4) or 52 : chillax end case - 114 : input Kr end; pop end main : qL, M, yd_aa, pCGa, Q : boolean; do X(- true + true, - 3 * false - false and 0 or 57 - 9, - false or 059) end

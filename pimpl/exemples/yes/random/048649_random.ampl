@@ -1,0 +1,1 @@
+program PP : m : takes b4s0 : boolean returns nothing DN1 : integer; Y : integer; chillax end main : let s[- 7000 * not true] = - not not 587 + 0 - 3 - 1; when case L[7] rem(3) : chillax end case - not 40200 <= 9 : chillax end otherwise : pop end; when case not 9 : chillax end end

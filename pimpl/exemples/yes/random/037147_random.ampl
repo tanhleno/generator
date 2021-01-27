@@ -1,0 +1,1 @@
+program w : D13 : takes LsC : boolean; J : integer array returns nothing input wc[(4) or 8 - 73300]; while - 5280 - 72 < 9 : let L = 8 end end main : m, zz, Q : integer; S2 : boolean array; p45 : integer array; B8j : integer; chillax end

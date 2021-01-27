@@ -1,0 +1,1 @@
+program C : main : I : integer array; r5 : integer; j : boolean array; do I(81 * (1) * (1) and 0 = - (9) + false and 296); let a = array true / (46) and 3 or not 6; input t[- true and 2]; let S2 = array 4; when case 5 = 3 : chillax end otherwise : chillax end; while 8 : chillax end end

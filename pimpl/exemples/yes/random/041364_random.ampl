@@ -1,0 +1,1 @@
+program lN00a : Ef10 : takes g8y : boolean array; rnyaa : integer returns nothing y75aa, Ua : boolean; v : boolean array; O0, T, N : boolean; P8B0 : boolean; chillax end main : If : boolean; FZ6 : integer array; m9ta : boolean; Y, i24 : boolean; chillax end

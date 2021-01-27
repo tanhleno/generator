@@ -1,0 +1,1 @@
+program b : N500 : takes h94, zw, x, i : boolean; W_, w5, G, M1d : boolean array returns boolean array a, i : boolean; s : boolean array; q5m, dO : integer array; let N5[- false + 457] = 4 end main : while true / true /= not true / (0) + false + 5 - 26 : do L(- 63 - 8); do W(24 = 4980, 76, 3) end end

@@ -1,0 +1,1 @@
+program b : H2 : takes hG7 : boolean array; RW8aa, Rk, N : boolean array returns nothing output - 5 <= 45000 . 9; while 7 - 8 /= 6 : chillax end; pop; output "" . ""; let O = 3 end main : chillax end

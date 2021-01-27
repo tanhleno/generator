@@ -1,0 +1,1 @@
+program W : r : takes xP : boolean returns nothing chillax end C8 : takes I : boolean array returns integer array vH30a : boolean; f : integer array; chillax end uBV : takes mw8a, n, l1, t : integer array; a490a, F : integer returns nothing chillax end main : input j3[- (3 = 5) / false]; pop end

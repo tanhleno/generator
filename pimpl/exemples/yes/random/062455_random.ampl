@@ -1,0 +1,1 @@
+program x89aa : X570a : takes Q : integer returns boolean u : boolean; do o5(- 12500 or 5 - 78); output "" . 83 . 43 . ""; output 5; pop; input x3 end t : takes E : boolean returns nothing chillax end main : pop end

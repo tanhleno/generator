@@ -1,0 +1,1 @@
+program n8 : a : takes ifOaa, B9s, A, s, px, v, V, jyBaa : boolean returns boolean chillax end o : takes S : integer array returns nothing l : integer array; chillax end m : takes Qb, b, X, Y, B, ee : boolean; js : integer array returns nothing U2Zaa : boolean array; output 0 . "\\B" end main : output "" . "\t" . 6 < 68 . 1 end

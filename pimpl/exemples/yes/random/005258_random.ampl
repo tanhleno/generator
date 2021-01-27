@@ -1,0 +1,1 @@
+program u : _YI : takes J, d8, o, f : boolean array returns boolean array chillax end main : Q1 : boolean; W8V : boolean; PA, dww, mn2, N_, d : integer array; while not(35800) and false rem true and 9 - false + false or 4 : let Z0v[7 - 8] = 3 = 13900; pop 51 end end

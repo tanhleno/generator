@@ -1,0 +1,1 @@
+program S3U : main : X : boolean; Y3r, k, y, M, HTm0 : integer; yx, I : boolean; Y, h : integer; QM50a, Y, RA : integer; F0, K : boolean; E : boolean; U : boolean; while - (982) : do en(- 9 - 26) end end

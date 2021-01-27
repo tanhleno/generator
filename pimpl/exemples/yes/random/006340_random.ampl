@@ -1,0 +1,1 @@
+program S : C : takes _o3, v0, l, G3 : integer; IU0, u, g, W210a : boolean array returns nothing l, K, f, EH, RXY : boolean array; let zq4[- t3] = - 17 - 93 <= 96; input t[- 6]; do H3q(6); let ZkW0[5] = 9; when case 1 : chillax end; pop end main : input v[- true * not false or(0)] end

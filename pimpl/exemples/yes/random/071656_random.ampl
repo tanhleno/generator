@@ -1,0 +1,1 @@
+program l : main : iJq0, m, s : boolean array; dPc : integer; Z, X22aa, A : boolean array; g22 : boolean; while - true + false : while - 2 - 34 : when case 37 : chillax end; while 418 : chillax end end; output 35; output 9; pop; let Ym3 = 9390; pop end; input N; do p0N(P - 17 < 00600 - 3, 3 /= 7, 8170, 7, 29); do q(- 5); do H(7); output "\"2aa" . "[" end

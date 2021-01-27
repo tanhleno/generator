@@ -1,0 +1,1 @@
+program k : Q : takes On5, X1, y : integer; U, LdO, s : boolean returns nothing while - not 71 and 9 or 68 /= 87400 - 43 : do t07(2, 87) end; when case - 6 - 47 : output "" end case 947 : do MwJ0(3) end otherwise : chillax end end main : let B = array 20 * 11 or true end

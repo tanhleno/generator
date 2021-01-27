@@ -1,0 +1,1 @@
+program B : j08 : takes O : integer array; t, OI, H5 : integer array; O6za, g, S : boolean array returns boolean pop - 6 - 8 >= 4 end main : do U(- (1 = 35) or false <= 9 and f1K); when case - true and 37400 : chillax end otherwise : chillax end end

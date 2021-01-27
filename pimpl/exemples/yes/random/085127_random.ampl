@@ -1,0 +1,1 @@
+program M : main : A0F : integer; when case - (4 = 7) > (6260) / l6h0 and 3 - not 7 : chillax end case false : do wUv0a(4); input h[7] end case 8 + 1 - 93800 : chillax end otherwise : pop; do _(9) end; when case - true and false and 9 : input c; let B[67] = array 72 end end

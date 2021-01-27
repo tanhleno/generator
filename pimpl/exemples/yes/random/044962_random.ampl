@@ -1,0 +1,1 @@
+program A85 : n : takes i6 : boolean array returns nothing input fa[not 64 - 5 - 10]; do n(- 48100 - 13); output "-G!a" end Q : takes vh, O46 : integer array; H, P : integer; z, X : boolean returns integer w : integer array; chillax end main : x7 : boolean array; do t(- not not In - (7) rem not 2 and 646 or true and 047) end

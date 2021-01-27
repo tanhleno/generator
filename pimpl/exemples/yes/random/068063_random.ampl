@@ -1,0 +1,1 @@
+program U4la : main : egq, Rrn, Nc, q, pN2a, kT, q : boolean array; E : integer array; while not T(8) or not(394) : chillax end; let s24a[- (839) / (46) + true - 847 - 4] = true - 47; when case not 625 and 14000 + 6 - 139 : while 44400 : chillax end; do m48(937) end case - 9620 >= 8 : chillax end case 0 = 61 : chillax end end

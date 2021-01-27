@@ -1,0 +1,1 @@
+program sP : b27 : takes pd1, L : boolean returns integer o : boolean; Y78a, _ : boolean array; XV6 : integer array; c : boolean; t : boolean; output ""; do s(- 2 = 9760, 85) end main : do U((3) rem m880a(27) < - true or true); output true and 4 - 4 - 712 end

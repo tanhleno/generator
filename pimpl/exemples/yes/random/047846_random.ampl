@@ -1,0 +1,1 @@
+program c4 : z : takes Z : boolean returns nothing do u(true - 1); while 4 - 4 >= 80 : chillax end end main : IJm : boolean; x : integer array; do T9(true - false rem Eh and 35200 >= - Opgaa[36600] or true + 12 - 0, - false > OK7, (1)) end

@@ -1,0 +1,1 @@
+program z970a : o : takes EA : boolean returns nothing chillax end main : h : boolean array; pop; let kA70[false] = array - false; while - true and 00 < - 3 - 43 : chillax end; pop; while 7 : chillax end; input g; pop end

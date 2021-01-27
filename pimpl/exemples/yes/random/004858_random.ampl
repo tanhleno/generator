@@ -1,0 +1,1 @@
+program u : Vg2 : takes C, ET, T, GDq : boolean array; e, B : boolean; o9a0 : boolean array returns integer array while - 88 or 1 - 380 /= - 71 : output 72 end end SCu0a : takes Ao, x : boolean returns nothing a, vG, K, k : boolean; input L[- 21] end main : c, i, F8, m : integer; chillax end

@@ -1,0 +1,1 @@
+program j : main : when case false or true / true or not 2 + 4 < - true - true + 8 - 003 : pop 78 = 67 end case - 04 = - false or 8880 : do j5o(1, 0, 76000) end otherwise : when case 2 = 37200 : do U(7) end end; input k; output 81 <= 48 end

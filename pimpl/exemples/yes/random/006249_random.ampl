@@ -1,0 +1,1 @@
+program D7 : U3 : takes O, n, h, ZLN : boolean returns nothing p : integer array; y : integer; h : integer; pop - 50; do IM0aa(3, 677); output "\n5" . 4 . "" end f : takes S : boolean returns nothing chillax end main : chillax end

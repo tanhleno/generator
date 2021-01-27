@@ -1,0 +1,1 @@
+program EL8a : Q3 : takes F5 : boolean array returns boolean array d, Q : integer; qT4, egF, R7, g : boolean array; M : integer array; input i[- (657) and 76] end main : S : boolean array; let pB[- x8(20, 14) rem false] = H82 or not 9 > true + 581 end

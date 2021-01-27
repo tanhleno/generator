@@ -1,0 +1,1 @@
+program W : c3F : takes w270a : integer; B : boolean array returns boolean pop; let Q[- 39] = array 52 - 46; when case 7020 = 3 : chillax end otherwise : chillax end end main : HSw0a, ij : integer array; chillax end

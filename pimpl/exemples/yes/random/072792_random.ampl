@@ -1,0 +1,1 @@
+program aC7 : main : h, A, V6 : integer array; z, c7Ja : boolean array; pop; do x(- (74) rem n, (473) - 8660 = - 8 - 5150); when case - _ + 2 - 33 : when case 73 : chillax end otherwise : chillax end end case - 82 <= 9 : do n4(95) end case 6 = 3810 : chillax end otherwise : chillax end end

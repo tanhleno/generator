@@ -1,0 +1,1 @@
+program E : C : takes _X : integer array; i_, TO, Q : boolean; a, Fe1aa, f : integer array returns integer k2o0 : integer; uD : integer array; k : boolean array; c : boolean; vR : boolean; rZc : boolean; let i = array - CA and 6 + 9710; pop 51 end main : P : integer array; g, R : boolean array; chillax end

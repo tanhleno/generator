@@ -1,0 +1,1 @@
+program g : Cz : takes P, n08 : boolean returns nothing g : boolean; output 651 /= 9 end P7P : takes p1u0a, ZW, H530a : integer array; T : integer; y22, J : integer returns integer chillax end main : chillax end

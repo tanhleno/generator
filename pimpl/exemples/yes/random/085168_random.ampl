@@ -1,0 +1,1 @@
+program q : main : El : integer; when case - 2 <= 2660 / z : input r2 end otherwise : chillax end; input E[(8) and false and 79 + true or 79]; do h(- (3) and 4 + 414 - 33 < - 97400); while - 293 - 7 > 2 : chillax end; pop end

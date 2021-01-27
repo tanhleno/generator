@@ -1,0 +1,1 @@
+program Mz : main : when case - true or 93600 / true and 42 - _qC and 6 : while 99 : let i = 60; when case 502 : chillax end; pop end; when case 7500 = 9830 : chillax end case 266 : chillax end otherwise : pop end; when case 43600 : chillax end; output "\"h" end case - L8(1) / 86 and 78 - true = not 1 - 8560 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program O03 : main : T3m, q8 : boolean array; _2, h62a : boolean array; _3 : integer; I, w : boolean array; q8, C, y0w : boolean array; T2, k4 : boolean; At : boolean; pop - M < B - 00 - 9; while 6 : while 91 : chillax end; let P[7] = array 6 end end

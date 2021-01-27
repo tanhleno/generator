@@ -1,0 +1,1 @@
+program ISZa : ne30a : takes BFya, T2a0, Mv20a : boolean; Q : integer returns nothing H : boolean; O5i : integer; chillax end f89aa : takes g, T, L0, M : boolean array; v1, S : integer array returns integer when case - 58 - 3 : while 7 : chillax end end end main : w, N : boolean array; O : integer; chillax end

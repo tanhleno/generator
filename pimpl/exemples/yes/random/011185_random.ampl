@@ -1,0 +1,1 @@
+program c : Z : takes P, _a, s : boolean array returns nothing n, kCw, y : boolean; L : integer array; output 058 end main : while not not 0 - (6) and false and 3 + (1) - 50 - 1 <= - 76 rem true : pop 39 end; let z9 = array not X end

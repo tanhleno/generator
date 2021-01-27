@@ -1,0 +1,1 @@
+program o : B : takes o, Q5 : integer returns boolean M, R_, y2 : integer; bHR0a : boolean array; O : integer; P : boolean; u9 : boolean; TH : boolean; chillax end main : K3 : integer; pop; while 3 rem 6 and 9 >= (37) - 2 - 4980 : pop 47; let F[1] = 64100; while 9 : chillax end; input Wf20a end end

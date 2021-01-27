@@ -1,0 +1,1 @@
+program QOr0a : _P : takes y : integer returns nothing chillax end s9 : takes NPk0a : boolean returns boolean chillax end main : do _760a((1) + false rem false < - J[52] + false, not not 11 and I and 9 - MF2 and 859 + 1, l91) end

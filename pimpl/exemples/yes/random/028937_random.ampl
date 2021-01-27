@@ -1,0 +1,1 @@
+program O5H0a : T : takes l, e : integer array; p : integer array returns boolean array input c1 end c0g0 : takes T23, zQ : integer array; i : boolean array returns boolean input y; pop end vW : takes GO : boolean array returns nothing chillax end main : chillax end

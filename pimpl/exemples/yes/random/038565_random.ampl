@@ -1,0 +1,1 @@
+program VV5 : f5 : takes ZT7 : boolean array; p, j : boolean; YC1aa : integer array returns nothing C, oE : integer; do Da2((6) + 1 <= 7, 81900 <= 7) end main : output "" . "'" . ""; output "1\\aa" . "" . 5 = 35000 . "1" end

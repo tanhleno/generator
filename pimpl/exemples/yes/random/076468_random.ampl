@@ -1,0 +1,1 @@
+program o3 : main : g, f94 : integer; zsi : integer; Q6p : integer array; E3 : boolean; when case - true + not false = 1 or not 0 + 504 : do p(- 4 - 8); while 7 = 2 : output "" end; let A[1] = array 94800; do R(4) end case true / false = (5) and 0 or 452 - 6610 : pop 56100; let D = 46 end case X and 59300 - 907 >= 698 : let NN[0] = 8 end; output not 17 and 26 . "" end

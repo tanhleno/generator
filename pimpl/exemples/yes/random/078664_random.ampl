@@ -1,0 +1,1 @@
+program S : main : V : boolean; b5J0a, Q, Ew : boolean array; when case(262) : while 7 /= 1 : while 47 : chillax end end end case 6 : when case 7 : chillax end otherwise : pop end end; output - (2) and 7 or 0 - 77 /= - 2 . "" . 5450 = 6 end

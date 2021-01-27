@@ -1,0 +1,1 @@
+program j : m0ea : takes h8 : integer returns boolean do w6W(- not 0890 + 2 > 5 - 4); pop 26 end main : x9, r0, Esp : integer; LK20 : integer array; K4 : boolean array; M : boolean array; s550a : boolean; output - not not 07 or false - 2 - 2 >= Iz and 7 + 279 end

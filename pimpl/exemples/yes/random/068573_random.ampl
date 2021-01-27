@@ -1,0 +1,1 @@
+program t : main : l, N5Qa, L, Q, q0S, X : integer array; qmMa, f, h : integer array; D, c, x : integer; let h = array 43700 or true * V and 2; do X8(not true and(24) and 270 > - S5 + 4, true or 48); output "" . 4; input C6 end

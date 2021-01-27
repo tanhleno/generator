@@ -1,0 +1,1 @@
+program Z : main : when case - true * false rem(2) : while 0 < 668 : while 9 : chillax end end end case - 9 - not 42 and 966 : pop 16 end case - VzL0 and 78 : chillax end case - 06 - 99500 = 2 : do N(8430); do q(346); pop end otherwise : when case 51 : while 00 : chillax end end otherwise : chillax end end end

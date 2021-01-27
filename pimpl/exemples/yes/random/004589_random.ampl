@@ -1,0 +1,1 @@
+program n : En50 : takes m, F, u, p : boolean; s : boolean returns nothing D : integer array; l, nRW0a, n : integer; chillax end H2 : takes R : integer; eK : boolean array; m : integer returns integer array chillax end main : h : boolean array; chillax end

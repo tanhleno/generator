@@ -1,0 +1,1 @@
+program f : n6Uaa : takes OQ : integer array returns boolean array when case not 036 and 78 + 569 - 9 : do Zh(84) end case 34600 < 3 : chillax end end JE : takes U, biD : boolean; o : integer array returns boolean array p : boolean array; V : boolean; chillax end main : while - not(6) and false : when case 494 - 1 : while 6 : chillax end end end; input a end

@@ -1,0 +1,1 @@
+program i : x540a : takes Y, R : boolean; g10, Q : integer array returns integer P7, m : integer; R6 : boolean; A : boolean; Be : boolean; output 4 . 6 = 55 . "b"; when case - 8380 : input SY; pop; pop end end N2r : takes fq5a : integer array returns nothing chillax end main : E : integer; chillax end

@@ -1,0 +1,1 @@
+program v1H0 : main : J, B6 : boolean; S, y, sM10, M6 : boolean array; Wh6aa, N, l61a : integer; gN10, Db50, MMv : integer array; y : integer; QB2a : boolean; let _[- not E(3) rem(97) rem(96100) and 94] = Lnh0[8] and not 2 and 130 or U <= - x6s0a + 9; let W6 = (2) + 62400 - 69 < 7150 - 65 end

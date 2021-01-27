@@ -1,0 +1,1 @@
+program X : g : takes R7, p : boolean; O0A : integer returns nothing h : boolean array; when case - (7) and 867 - 592 - 3 <= - 8 : output 1; do b(197); while 56 : chillax end end; pop; pop; do rq(84600); pop; pop end main : output "" . - 171 and 5 = 8 end

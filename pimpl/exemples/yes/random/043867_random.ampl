@@ -1,0 +1,1 @@
+program t : pn : takes _ : boolean array returns nothing do S(- 1, - 3, 21); do f9(- 58700 - 4720 >= 2, 342, 5) end LvEaa : takes f : integer; Q5 : boolean array; b : integer; J, n : integer array; Q, L4 : integer array returns nothing chillax end main : RKj0a, yU, R, P3aa, c, D5 : integer; pop true * true - not 0 and 3 = - true and 1 + 7 - 20 end

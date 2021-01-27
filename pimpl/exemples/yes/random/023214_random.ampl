@@ -1,0 +1,1 @@
+program BI00a : b : takes _, G0A : boolean returns boolean G, P58 : boolean array; S : boolean; h, m, j : integer; u : boolean; chillax end main : f, K94, p, H1 : boolean; e : integer; i, CA, HR90, Z : boolean; EM, _O : integer; V : integer array; i, d5 : boolean; while not true + (189) /= - (77) and false and 9 : chillax end end

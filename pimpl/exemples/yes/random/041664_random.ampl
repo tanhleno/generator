@@ -1,0 +1,1 @@
+program A : K71 : takes Ot : boolean array returns boolean array t9, H : integer; LQ8 : integer array; hy4, fd, k : boolean array; kl1 : boolean; chillax end K0 : takes IO20, m, VT : integer array returns boolean array K23a : boolean array; T : boolean array; CIra : boolean; let k73 = array 69 - 4; output 34 end main : output - false or 4 and 2230 end

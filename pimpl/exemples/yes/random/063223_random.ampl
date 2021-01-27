@@ -1,0 +1,1 @@
+program T : K7o : takes P9T : integer returns integer chillax end P2 : takes l : integer; rI, T, O : integer; J : boolean array returns nothing chillax end z : takes _, f : boolean array; V : integer array; Gb : integer; T : integer returns nothing N : integer; do y(4); output 2 end main : chillax end

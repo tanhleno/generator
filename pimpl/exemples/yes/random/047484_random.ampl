@@ -1,0 +1,1 @@
+program R : hL : takes n : boolean returns nothing chillax end oE : takes e : boolean; H, j, arua, k2, Es1, jq5 : integer array returns integer array T3T : boolean; when case - 8600 - 82 = 389 : do N93a(971) end otherwise : chillax end end main : do zZ70a(- (5 = 70900) rem V1 and false, - (2) and true) end

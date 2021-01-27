@@ -1,0 +1,1 @@
+program s : rSva : takes w : boolean array returns boolean chillax end w : takes s : integer returns boolean array GL8, n8 : boolean; let a[- 8 - 75300] = 06 = 3; output "\n" . 0; do l(68, 979); pop end main : pop - not(14) - (10) and 3 end

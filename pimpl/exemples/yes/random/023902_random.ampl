@@ -1,0 +1,1 @@
+program B : n : takes X30a, V03 : boolean returns nothing chillax end k5 : takes o, i73, I : integer; q4, sH5a, H, f : boolean array returns nothing l, T, b : boolean array; while - 3240 /= 86 : while 0 : chillax end end end main : input _ end

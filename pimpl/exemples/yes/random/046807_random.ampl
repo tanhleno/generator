@@ -1,0 +1,1 @@
+program z : K : takes J : boolean returns integer array let Q[false and 55100] = - 6410 - 8; while 8 - 4 = 4 : chillax end end AnW0a : takes _, B : integer; E, I : boolean array returns nothing q, l47a, w : boolean array; input B260[- 0] end main : PHdaa : boolean; pop; do ip9a(DO1[102] - true <= true, true or 14 - 444) end

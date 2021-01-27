@@ -1,0 +1,1 @@
+program i : T60 : takes D, h83a, H8, E4, N : boolean; l, y, H : integer array; E : integer returns nothing chillax end fe50a : takes a, t, Z, s, W, M : integer; Dx : boolean array; N7, Ab0 : boolean returns boolean array bI, o : boolean array; S : integer; K2 : boolean; do y(9070 <= 94); let C = array 464; input XY[5] end main : I81, Q57 : integer; chillax end

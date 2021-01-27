@@ -1,0 +1,1 @@
+program w3n : main : when case - true /= false : do Q(- 6 - 61); do n(8 = 96, 23) end case true * not 5 + I and 36500 or 8 - 9 : pop; while 12 : chillax end end otherwise : chillax end; output "" . "v"; while(6590) /= 5 : while 0 : pop end end; let R = array 5; when case 74 = 0 : while 1320 : chillax end end otherwise : chillax end end

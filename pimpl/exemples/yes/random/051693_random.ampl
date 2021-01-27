@@ -1,0 +1,1 @@
+program W : T9 : takes j : integer; za : boolean array; MlP0a, qu : integer array; V, p : integer array returns boolean O : boolean array; chillax end main : X : integer; when case - true and i and not 29 : chillax end case P0v0a(91) < 9270 : output "y\\\"a" . "\t6aa" end end

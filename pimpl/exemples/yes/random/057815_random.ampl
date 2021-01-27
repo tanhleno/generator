@@ -1,0 +1,1 @@
+program i : I6 : takes J4 : integer array returns boolean array D : boolean; f : boolean; CL, _ : boolean; Nu3 : boolean; chillax end main : input V[- w(6) * (8) * false and 010 or false rem S9]; let K8 = - 9 and 5; output - 1 - 82100; output 3990 = 70 . ""; when case 702 : chillax end case 6 : pop end case 9 : chillax end; while 80 : pop end; while 7 : chillax end; input H end

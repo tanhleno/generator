@@ -1,0 +1,1 @@
+program X : M : takes IO7 : integer array returns integer array t8S, V, lA, ek, V2p : boolean; l, e, Pu0 : boolean; pop; do Mr(- 9080 - 169 <= 5) end main : E, ndfaa : boolean array; w, XC, F450, _, I5 : boolean array; output - false . "-\"" . ";"; do l(- false or(5) and 8780 - 77 - 6 < 86800 and 3350, - h and 72400 = - 1) end

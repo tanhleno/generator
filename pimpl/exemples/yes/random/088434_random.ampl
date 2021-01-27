@@ -1,0 +1,1 @@
+program F : main : input Fd70[- (3 = 8)]; let YF_[false * false + not 9 and 75] = array - (1) rem not 01 and 8 - a or 7; while q and 6 - 5 - 50 /= - 356 - 0 : pop end; when case - 0 - 28 : chillax end case 50 : pop; pop end case 930 : chillax end case 2520 : chillax end end

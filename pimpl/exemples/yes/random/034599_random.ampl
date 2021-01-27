@@ -1,0 +1,1 @@
+program L : f : takes HC50a : boolean; Za00a, K : boolean array returns nothing wH : integer array; P6, W : integer; chillax end p : takes t6 : boolean array returns nothing p8f : integer; chillax end main : input X94aa end

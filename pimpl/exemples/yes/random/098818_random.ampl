@@ -1,0 +1,1 @@
+program W8 : main : while - 8 or false + 8 and 74 >= (25) : chillax end; when case - (1) * (54) and 45 or J and 4 > - 6 or 8 : let n = 82 end otherwise : when case 48200 : chillax end case 8520 : chillax end otherwise : chillax end end end

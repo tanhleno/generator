@@ -1,0 +1,1 @@
+program rtqa : main : when case - false * 9 : let B7[160 - 0] = array 568 - 17 end case 89 : while 7 = 3 : chillax end; pop end case 0 and 0 + 86 - 3470 : chillax end; while - Y[8] or X4r0a and 2 /= - (30) - 1 - 3 : chillax end; output "`" end

@@ -1,0 +1,1 @@
+program W : LB : takes A, TZ : boolean returns integer array chillax end main : lG2a, b : boolean array; B, Z, N42, KX : boolean array; J1, v, N, Ny, i49 : boolean; do f2(- false + 6 or 016 or 88900 - 348); let x5 = true and 4 - 668 - 9; while - (3) and 8 + 5 - 62 : pop 05 end; output 8 = 1 . ""; pop 822; when case 4 : chillax end case 9 : chillax end end

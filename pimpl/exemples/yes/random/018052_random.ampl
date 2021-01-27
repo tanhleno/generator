@@ -1,0 +1,1 @@
+program x : ou2 : takes b, D : boolean; d5 : boolean returns nothing U, n, Bm : boolean array; r, ZD : boolean array; I, f, I01a : integer array; y14, DN : boolean; c : boolean; while jPJ > 804 : chillax end end nR : takes S74, n8, A : boolean returns nothing output "z" . 9 . 1 end main : sg, gc90, P, f : boolean; chillax end

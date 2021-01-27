@@ -1,0 +1,1 @@
+program n1 : main : Q1 : integer; c7g : integer array; v, D6m : boolean; when case(9670) or(2) rem true : output "" . "" . 630 end case - 0 and u230a and 74 : chillax end case - not 9 or 4 - 6 = - 0 - 0 : do tn8(66, 4); do u1(094); do a(5) end otherwise : chillax end; pop - (88) and 9 end

@@ -1,0 +1,1 @@
+program KhIa : o6uaa : takes O4, f : integer returns boolean pi : boolean array; n7, dM5aa, Mf40a, K6w : boolean array; r8 : integer; let fj00a[- 0 + 950 - 767] = - 03 - 523 end W : takes R3 : integer; B0, ev0, J : boolean returns integer array chillax end main : D, A : boolean; IM, E, Yy3 : boolean; chillax end

@@ -1,0 +1,1 @@
+program J : JP : takes X, F9Wa : integer returns integer chillax end ox : takes t : integer array returns nothing input X[- 6 - 0]; output 3490 end m8 : takes G2 : boolean returns nothing chillax end main : when case - (5) rem not(0690) <= - (6060) and not 4 and 0 : chillax end otherwise : input V[34]; output "x" end end

@@ -1,0 +1,1 @@
+program G : f : takes f : boolean returns boolean V5d, z : integer array; let vC = 971; while - 6 - 6 : while 4870 : chillax end; do Y26(3); pop end; let C = 1590 end main : input rX90a; let BXxaa = array - H97(70) / false or false end

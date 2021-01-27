@@ -1,0 +1,1 @@
+program P4 : main : X : integer array; u, d19, n, d, b840, i : boolean array; V : boolean array; when case - p * aI[54] - true <= - not 80 * f8 and 2 - false and 895 or 3100 - 926 : chillax end case true and true : chillax end otherwise : chillax end end

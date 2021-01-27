@@ -1,0 +1,1 @@
+program kM5 : main : when case - not false - uv8aa : chillax end case - false = - not 7 and 833 : let H4 = array 3 end case true <= 5 : pop; let u = 639 end case - 8 : when case 6 : chillax end; do _N6(8400) end case 8 : pop end case 99 : pop end case 57 : chillax end otherwise : chillax end end

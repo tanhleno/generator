@@ -1,0 +1,1 @@
+program h : z04 : takes t, k, xI, G, Hwn, J, F : boolean returns boolean array let fb[(811) or 57 - 2] = - 43 >= 74 end A8R : takes j, E6M : integer array returns nothing chillax end main : S : boolean array; output ""; when case(428) / true and 3 : when case 775 = 6 : chillax end end otherwise : do FY(830, 1); let m9 = 1; pop end end

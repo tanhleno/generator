@@ -1,0 +1,1 @@
+program R5 : y : takes wX : integer returns integer output 2 - 2; let J = array - 52200 end cp : takes S8 : boolean returns integer array jU, Y9 : boolean; UR, a, Js5 : integer array; while - 92 <= 1 : do ZH5aa(8) end; let u[0] = 93; pop; do Jv50a(35); when case 3 : chillax end; pop end main : z7Faa, i6, v, I : integer array; chillax end

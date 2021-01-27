@@ -1,0 +1,1 @@
+program o9 : A : takes L51a, n, r : boolean array; N : boolean array returns integer SDE, PA : integer array; chillax end main : when case 1 + not true rem not 75000 and 12900 + uBXaa and 75 /= - (452) * n3 + (1) and 66500 - 7 : chillax end case true > false : chillax end; pop - q and 81000 end

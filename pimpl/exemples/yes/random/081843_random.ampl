@@ -1,0 +1,1 @@
+program Ko : main : l6 : boolean array; _ : boolean array; while 83300 - 7 * 5 or not 80 = _(54) * not 66 : chillax end; let Rq[- w[82] and true] = array(5); when case true or 8 <= - 99400 : input C[01]; do i7s(8340); let b = 1; pop end case 0 - 168 = 9 : pop end; input P[56500 - 9] end

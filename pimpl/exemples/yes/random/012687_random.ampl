@@ -1,0 +1,1 @@
+program F : x : takes d, w6Yaa, U : integer; xg, X2q0a, N : boolean array; V, Dbm, vc7aa : boolean array returns nothing Q, H, A : boolean array; output - 83 - 7 . 135; output 8 end main : chillax end

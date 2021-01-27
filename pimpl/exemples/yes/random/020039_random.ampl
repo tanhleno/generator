@@ -1,0 +1,1 @@
+program y : R : takes E, Vc9 : boolean array; S : boolean array returns nothing n, c, CP, l, V : boolean array; when case - EC <= 9 : chillax end otherwise : chillax end end main : let Y8[fwZaa(705) rem true] = array true / A(13) - 7; let k = array - not w and 0 and 7; do f1(- not 1 + 79900 - 1860 = - 2); while 16 - 3 <= 9 : pop; let c9K0a = 8; pop end end

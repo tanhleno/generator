@@ -1,0 +1,1 @@
+program o000a : SV : takes GT6 : boolean; k6 : boolean returns nothing Qq80, L3r0a, uL3aa, q7Paa : integer array; _86a : integer; output 9 = 77 . "l" . "" . "\"b!a" end main : qp30a, S : boolean array; chillax end

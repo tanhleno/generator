@@ -1,0 +1,1 @@
+program iH : main : w0, R : integer; while true rem not false rem 8440 or true or not 2 and 7 or 3 = - false : chillax end; input a[- J[70]]; let Av[not 56] = array - true + 26; while - 971 - 37 /= 05 : chillax end; pop 2420; while 52 : chillax end end

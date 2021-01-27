@@ -1,0 +1,1 @@
+program R1xa : _ : takes GA, tYS0a, D : boolean array; n_ : boolean returns nothing when case - true and 791 : do q(485); let b = 5390; output ""; pop end case 7 = 58800 : chillax end case 86 = 7 : chillax end end main : E5r, s2 : boolean array; Mg : integer array; H3S, u4, c : boolean; do IM2aa(- e * Q[36] and false + (4), - true /= - true and 72, - false /= - 692 - 9) end

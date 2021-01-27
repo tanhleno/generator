@@ -1,0 +1,1 @@
+program a0 : Y5 : takes O0b, p, E030a, M6, q4, O1 : boolean returns nothing E, b9, Fk : integer; R0Ha, k, z : boolean array; cRP0 : integer array; n5 : boolean; while - not 5 : let vV3aa = 25 end; do RX(0 - 190); output 9 . 1 end main : do o6(- (65 = 4) / not false - 421 rem true >= (438) rem true or i1) end

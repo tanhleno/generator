@@ -1,0 +1,1 @@
+program VEyaa : P : takes t : integer array returns integer chillax end qW : takes e700 : integer array returns nothing chillax end a : takes y, gF : boolean; d5, N, q : integer array; r750a, k, K : integer returns integer chillax end main : jC4aa, g : integer; Q : integer; I7, nM, q, z9, Rh : boolean; I, D7, r9, V : integer; chillax end

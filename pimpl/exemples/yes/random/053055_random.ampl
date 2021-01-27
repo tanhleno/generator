@@ -1,0 +1,1 @@
+program qg : nM : takes A : integer; b : integer array returns nothing daC : integer array; chillax end main : when case - false : input p end case - not(2) / true and 1 = 59800 and 9 + 92 : chillax end otherwise : input B[7]; when case 7 : chillax end case 5 : chillax end otherwise : chillax end; when case 56 : chillax end; input h end end

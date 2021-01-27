@@ -1,0 +1,1 @@
+program Nd : EZ : takes W7pa, R : integer returns integer array input Xz; pop; when case 38 : when case 9 : chillax end; pop end case 506 : chillax end case 62 : chillax end otherwise : pop end end tEA0a : takes A : boolean returns nothing UP : integer; hM5a : boolean array; chillax end main : m, hq : boolean array; dW2, v : integer; y, A, P9, T4, a3r : integer; chillax end

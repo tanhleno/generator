@@ -1,0 +1,1 @@
+program H1Sa : W : takes l : integer array returns nothing chillax end main : when case - e3[4] = false * 4 or U and 5 : while 89 - 616 : chillax end end case - (58900) * true and 2 or Z9 - 1 : input e[56500] end end

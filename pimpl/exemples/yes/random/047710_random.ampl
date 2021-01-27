@@ -1,0 +1,1 @@
+program p3Aa : _9 : takes FXk0 : boolean returns nothing chillax end main : S : integer; y, V : boolean array; q : boolean array; do z7(false /= e(853) * true and 473); input x; do r6(true and 1 or 3 >= - 76) end

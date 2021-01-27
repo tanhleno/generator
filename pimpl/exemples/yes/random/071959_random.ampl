@@ -1,0 +1,1 @@
+program p : main : v5C, X5H, R : integer; do dK(- true <= 2 + c or 67 - 6760, - W[68], true and 61 + 27400 - 7 /= - 1); do S(a(9) + false - 7, - not 4 and 3 >= 3); do Q(- w500a and 77900 - 3, 7 - 3); while - 86 = 97 : do B(69); when case 8 : chillax end end end

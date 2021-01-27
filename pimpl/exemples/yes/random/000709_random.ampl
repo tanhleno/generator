@@ -1,0 +1,1 @@
+program d : _ : takes E, b, j6Gaa, n, M, a, L : boolean array returns integer v, k8s0a, r : boolean; JGL : integer; chillax end main : t : integer array; when case - (4 = 42000) * true + 418 and not 8820 or Ap8 and 8 : input J[71 - 4] end otherwise : pop 8; while 29 : chillax end; pop end end

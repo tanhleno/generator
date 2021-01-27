@@ -1,0 +1,1 @@
+program B : main : HF : boolean; u10aa, r2 : integer; L, qm0a, d : boolean array; NGF, eYv, H89a : boolean array; while false / false * not 503 or false < - true rem not 6 and 54700 or not 62 : pop 15 = 40; input n8; let c = 24; do M(78); while 0 : chillax end end; input zu; output "6R\"a" . 2 end

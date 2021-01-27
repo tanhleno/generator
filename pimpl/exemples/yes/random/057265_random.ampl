@@ -1,0 +1,1 @@
+program A : a : takes E : integer array; U : integer array returns nothing X : boolean; let n = - 45 >= 59; when case - 2 : while 7 : chillax end; output "7"; pop end otherwise : let jNE = 5; pop end end main : chillax end

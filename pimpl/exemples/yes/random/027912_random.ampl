@@ -1,0 +1,1 @@
+program q8ma : m3N : takes Fdo, l : integer array; wC, t : integer array; AvZ, k, j, _ : integer; Sw : integer returns nothing when case not 3 < 75 : chillax end case 8650 >= 05 : when case 6 : chillax end end; output "" . "" end main : g2qaa : boolean array; chillax end

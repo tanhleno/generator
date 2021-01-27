@@ -1,0 +1,1 @@
+program YI : N : takes p : boolean array returns nothing input L1; pop 2 = 8; when case 28800 : let aq1 = 2 end case 2 : chillax end end main : output 722 /= - not 81 and 41; input EV4; while false and 587 : do L(201); do Cy(291); when case 3 : chillax end end end

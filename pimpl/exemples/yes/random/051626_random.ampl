@@ -1,0 +1,1 @@
+program O1 : fz20a : takes n : integer; K : boolean array; _Ouaa, _, dFO : integer array returns boolean P : boolean; output "3\n\"" end main : wy : integer array; q14, g, n21a, t, T, GI : boolean; let XHRaa = 4 end

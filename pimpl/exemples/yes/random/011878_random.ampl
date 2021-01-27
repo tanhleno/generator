@@ -1,0 +1,1 @@
+program oR : b : takes bP3, Rt, r : boolean returns integer array while not 4 and 9 or 5 - 983 < - 3 : chillax end; let t[9450] = 64; while 4 = 1 : pop; pop end; do q0(7, 6) end main : y, tO80 : boolean; s6J0, lS2 : integer array; e, H7F : integer array; chillax end

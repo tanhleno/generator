@@ -1,0 +1,1 @@
+program F : main : Uj0a, Nr, f : boolean; j9ra, X850, m9 : integer; when case true /= - 8 : chillax end otherwise : do ij(0 = 67) end; let H[true or x6haa and 2 + 2] = array - false * c2ua and 7 + (5) + 9; while(66) and 2 + 5 - 2 : chillax end; while - 9 - 70 : chillax end; do Y(6 = 1260, 762); input t[150]; pop; input N0; pop end

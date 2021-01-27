@@ -1,0 +1,1 @@
+program v8N : l : takes j : boolean array returns nothing Y, L5, wHs0a : integer array; chillax end main : O0n0, bK60 : boolean array; while(8) : input e end; input V2q; let IgG = - 945 <= 62; while - 80 - 7 : chillax end end

@@ -1,0 +1,1 @@
+program _T : W : takes K4, r, I : boolean; s, E : integer array returns nothing R, v, L : boolean; m4 : integer array; cQ7aa, M, jq : boolean; lJ, a : boolean; output ""; let o[06 - 9] = 7 = 00; output "\\"; do p(8); input u end main : Y_ : boolean array; fW, Lr : integer; chillax end

@@ -1,0 +1,1 @@
+program V3 : main : while(71600) < (2) : input W; while 3890 = 27200 : input J end; input dx[14] end; while - not(7) - true - 761 : do Q7o0a(9 = 6); output 089; output "" end; when case true : when case 19 : pop end otherwise : chillax end; when case 3 : chillax end end case - 05200 - 36 : while 306 : chillax end end otherwise : chillax end end

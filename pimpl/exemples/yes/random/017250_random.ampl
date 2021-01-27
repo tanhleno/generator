@@ -1,0 +1,1 @@
+program qA7 : Cr : takes X, qFe : boolean; s7K, rK : boolean array returns integer array chillax end S9 : takes c : boolean array returns integer array do LeD(55 - 124 > 5); do d(05 = 7) end main : D : integer array; b3ba, s : boolean array; input bd[- false - true + false and 1 or 77 - 4] end

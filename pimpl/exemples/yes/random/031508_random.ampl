@@ -1,0 +1,1 @@
+program IV : j : takes A, K : integer returns boolean IY, P7, s, v : boolean; do j(not 40 and 5, 2 - 94 < 5); input W01aa[- 4]; input UXL0[670]; do I(52700, 5); output "5"; output ""; pop end main : od7 : boolean array; chillax end

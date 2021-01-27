@@ -1,0 +1,1 @@
+program t : p0 : takes V, q, p : boolean array returns nothing n : integer; vM6, j, q7, R7Baa : boolean array; when case false and 587 : chillax end otherwise : input bC end; let ug[- 7] = array 7; let M = 491; let t8 = array 97 end main : output m[1] - true and 1 >= - false end

@@ -1,0 +1,1 @@
+program H6 : b3 : takes bd : integer returns boolean K : boolean; KD : boolean array; t, M : boolean; when case - true and 58 : do E(85, 8) end otherwise : chillax end; pop 08 = 2 end main : chillax end

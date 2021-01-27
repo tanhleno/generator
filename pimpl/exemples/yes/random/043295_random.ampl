@@ -1,0 +1,1 @@
+program z4 : O : takes h3 : boolean array returns integer let u410 = array - true + 8870 - 02 end Wf : takes YAm : boolean; Bg : integer array; x4waa : boolean; x7, V : integer returns nothing b3 : boolean array; do p(3 - 48300, 3 = 400, 11, 75600); let WJ80 = 4 end main : let AC90[- true] = array - not 67 end

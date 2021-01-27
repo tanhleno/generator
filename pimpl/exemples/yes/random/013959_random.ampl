@@ -1,0 +1,1 @@
+program v : Km : takes _5D, Y2, X : integer array; n, Tb : boolean returns boolean array when case - false and 17 : chillax end otherwise : chillax end; when case 5 : do YNt(82); let r86a = 68 end case 86700 : chillax end end main : chillax end

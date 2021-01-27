@@ -1,0 +1,1 @@
+program p : Oz : takes Q45, u730 : boolean returns integer g2, iq, b85 : boolean; lb : integer array; u51a, r74 : integer array; I, vu5 : boolean; z : boolean; _ : boolean; pop - 2 >= 0; while - 1 : chillax end end H : takes Bg10 : integer returns integer array output 0 . 9 end main : pK, P : integer array; W2 : boolean; chillax end

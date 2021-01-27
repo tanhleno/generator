@@ -1,0 +1,1 @@
+program K : jJs : takes Lm : boolean array; d6N0, Y1 : boolean returns boolean array H2jaa, s5 : boolean array; H, yv : integer; input K73 end _7 : takes Jx, U1C0 : boolean array; N, d9 : integer; J : boolean array returns nothing chillax end main : pop - false /= - not 21400 and 9; while(7) - 1 and 2 : chillax end end

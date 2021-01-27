@@ -1,0 +1,1 @@
+program V : main : yWm : integer; mc, a, y, Gu : integer array; V, x, v : boolean; A, iY6 : boolean; O, FAH : boolean; ID : boolean; G6 : boolean; t : boolean; let U = not true; while - true and T and 38600 >= (80800) : while 88 : chillax end; input Z[7] end; when case - C and 6 : chillax end; pop 6 = 6 end

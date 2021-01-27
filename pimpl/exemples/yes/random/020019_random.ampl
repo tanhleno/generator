@@ -1,0 +1,1 @@
+program Oe : L : takes M, Td : boolean array; s : boolean array returns nothing chillax end K7Maa : takes zw, d, gE, z : boolean array returns integer array let S3 = 00; output "" . 457 . "" end main : D330a : integer; chillax end

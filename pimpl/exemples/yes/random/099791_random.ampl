@@ -1,0 +1,1 @@
+program zW40a : main : while 97 rem t6 * r - (9) = - f1[57] and WB4 - (463) + 7 : chillax end; when case - 3 and 6 or(83) and 5 - 07800 = false and 5 - 4 : while 7 = 029 : chillax end end case - 25 > 4 - 8 : chillax end end

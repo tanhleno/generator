@@ -1,0 +1,1 @@
+program uw7 : j10 : takes Bq8 : integer returns nothing _ : integer; C, TYE0 : boolean array; YkR0, zC8, a : boolean; F, n : boolean; V : boolean; Se_a : boolean; chillax end main : pa : boolean; chillax end

@@ -1,0 +1,1 @@
+program Q : bEY : takes q : boolean; Z8 : boolean; j, j, FY : integer array; g02aa, X27 : integer array returns nothing chillax end t : takes j, k : integer returns boolean array chillax end main : l : integer; do lT(false rem false rem(6) /= 1 * r35, - false / (1) and 6 or true and 75700 or 4, - 260 and 20 < - 5 - 4, - 63 > 6, 42 = 2, 88) end

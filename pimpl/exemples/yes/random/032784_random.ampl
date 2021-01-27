@@ -1,0 +1,1 @@
+program TYp : C4T : takes _, vD : integer returns nothing z2 : boolean array; chillax end y : takes h : boolean array returns integer array R, DH80a : boolean array; input Hy; input hm; pop end F410 : takes S, g, c, F : boolean returns nothing chillax end r : takes is, u, j : boolean array returns nothing chillax end main : chillax end

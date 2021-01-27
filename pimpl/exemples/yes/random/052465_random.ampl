@@ -1,0 +1,1 @@
+program w : no0 : takes n : integer; x : integer; O16a, qc7 : integer array; Zw20 : integer returns nothing N850a, A : boolean; when case - true or 766 = 30 : chillax end case 7 - 4 /= 6480 : chillax end otherwise : output ""; input Cf end; output "" . 8 . 2; when case 88 = 5 : chillax end; do z5naa(589, 4) end main : output ""; output - true . "" end

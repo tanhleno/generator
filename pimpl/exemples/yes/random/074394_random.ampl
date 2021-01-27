@@ -1,0 +1,1 @@
+program i : main : J660, p79a : boolean; when case false or(6) / false and 8 : chillax end otherwise : let uq8[332] = array 46; output 00 . ""; do K(92200) end; let l17a[F(54) or not 9 and 4 + 2] = - not 8 end

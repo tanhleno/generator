@@ -1,0 +1,1 @@
+program C : e330a : takes Jp60a, Y, Nb : boolean returns nothing chillax end main : DW00 : integer; Q1Paa : integer; d : integer array; j4 : integer; S1, jQ10a, TrN : boolean array; B : boolean; KlM : boolean; chillax end

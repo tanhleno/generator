@@ -1,0 +1,1 @@
+program U : main : when case true and(839) : chillax end otherwise : do M1Wa(549 = 1); input pI[87] end; let e[(54)] = array - false + true and 0 - 28; when case - not 796 and 84 + 49 /= - 10 : chillax end case - 0 < 95 : chillax end end

@@ -1,0 +1,1 @@
+program o : main : Mad, y91 : boolean array; v0 : integer; when case - 685 = Q(7220) or 322 : do Dd80a(9 - 6 /= 4) end; output - W7e and 8 >= - 048 - 9; input Up[- not 6 and 22500]; when case 3 : chillax end otherwise : input fN9; pop end end

@@ -1,0 +1,1 @@
+program v : main : do V(false + (4) / J3, - false > true, - j < - 5, - 320 - 67, 7); while 000 rem false and 3 + z7 - 20 < true and 3 - 1 - 19 : chillax end; output 31 - 6 . 8 = 66 . "N0" . "8=\""; output "\tO" end

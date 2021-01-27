@@ -1,0 +1,1 @@
+program s : a6F : takes Y3, va : integer array; T : integer; j3, O, Oe, C, Bq, n : integer returns integer array chillax end W8 : takes c : integer array returns nothing chillax end main : S5I, a : integer array; r : boolean; K2t : integer array; while - not Y6 and false rem(736) and 120 <= - K(8) : chillax end end

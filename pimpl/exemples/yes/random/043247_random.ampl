@@ -1,0 +1,1 @@
+program c : tu2aa : takes u : boolean array returns integer QO : integer array; chillax end a : takes r, m : boolean returns boolean array _U, f6 : integer array; I : boolean array; m6 : boolean; do H(2 - 92) end main : chillax end

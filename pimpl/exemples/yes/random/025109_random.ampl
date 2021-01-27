@@ -1,0 +1,1 @@
+program KM : rh5a : takes mR4, f : integer; Zj70a, C, V46, r6 : integer array; f, D : integer array returns boolean let L4[true and 08] = - 1 - 287 end l87 : takes H, R3 : integer; v_Haa : integer; EX1 : boolean; HXI, L7ga, r : integer returns boolean chillax end main : output Cn * false = u61 and 6 + 3 - 9 . "" end

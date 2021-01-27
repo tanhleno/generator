@@ -1,0 +1,1 @@
+program j72 : e : takes Y1, B, Z7, Y : integer array; T, G, m, b, k100a, U : boolean returns nothing K : integer; let A6[false and 2] = 8 < 58200 end i3 : takes B8Ca, Q2 : integer returns nothing chillax end main : chillax end

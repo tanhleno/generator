@@ -1,0 +1,1 @@
+program D8 : C3 : takes r, lUl : boolean; M46 : boolean; BQ0, L, vBuaa, t4X, j, k : integer array returns nothing chillax end K : takes J : integer array returns boolean when case - 36700 - 1 > 17 : pop; let g = 33 end case 148 = 3 : output "" end end main : Gb, OM, w : integer; M, l : boolean array; I, R, N_ : boolean; J : boolean; AB : boolean; chillax end

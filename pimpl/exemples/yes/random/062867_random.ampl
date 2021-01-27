@@ -1,0 +1,1 @@
+program f00 : o : takes YO : integer returns integer array Q340, D10, E6o0a : integer; D040a : integer; U9, f3 : integer array; FuB : boolean; R9ea : boolean; pop 66; pop 54; input K1[2]; while 550 : chillax end; do s(32800) end main : z : integer array; M, J : integer array; chillax end

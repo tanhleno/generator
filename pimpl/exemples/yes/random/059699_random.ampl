@@ -1,0 +1,1 @@
+program TT5 : x480 : takes G : integer array returns nothing chillax end l : takes B, P : boolean; A, H : integer; b8, Is, x48, ke : boolean returns nothing pop 403 end main : w : integer array; let l7B0a = - 97 / false - x220 and 26 end

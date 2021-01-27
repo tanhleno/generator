@@ -1,0 +1,1 @@
+program emqaa : main : u2N0a, X, g : integer array; o4 : integer; pop - t and true - not 8 + 43 < - true and 69300; when case - not true - (9) : chillax end case not 3 and 3 or 6 - 2 : do C(8) end end

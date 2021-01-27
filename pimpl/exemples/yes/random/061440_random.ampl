@@ -1,0 +1,1 @@
+program rD : Ri60 : takes uh : integer array returns nothing pop - 6 - 81; pop end G : takes Oc : boolean; O, h : boolean returns nothing K, w5, u : integer array; mH0aa : boolean; Z, u : boolean; UV4a : boolean; let gO8[5] = 5 = 1; pop 49900; while 4 : pop end; output "52aa" end main : chillax end

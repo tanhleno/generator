@@ -1,0 +1,1 @@
+program R : S7 : takes A9, x, f7, v6taa, u : boolean array returns integer J47, h : boolean; t : integer; pop - 498 - 361; while 4 = 011 : while 5 : chillax end end; while 48 = 1 : chillax end; input RA end main : chillax end

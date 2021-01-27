@@ -1,0 +1,1 @@
+program C : hi : takes h, u, i8, Bb, F1 : boolean; i : integer; w, tv, r : boolean returns nothing chillax end main : when case false and true or(7) / not 3 and 36 - 63 + 76 - 6 = - f * not 431 and 10 : chillax end case not not 4 / false and 5 or o8b0a > - false and 8 + 1 : chillax end case(24) and 392 - 49 - 780 /= - 3 : chillax end end

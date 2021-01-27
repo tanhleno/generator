@@ -1,0 +1,1 @@
+program W : _ : takes ZS : integer; F, N4f, R : boolean array returns boolean chillax end E6 : takes yr : boolean array; _T, S : boolean array returns nothing yt : boolean; chillax end main : do l((5) and not S / (18300) >= - (027), - (8) + not 94 = (8)) end

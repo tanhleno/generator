@@ -1,0 +1,1 @@
+program J : main : B, x : boolean; when case - true + 7 / not 7 and 16 or true and 76 - 3 - 2 <= (324) * 00 and 391 - (86) + 4 : do z4(- 73) end case - false or not 57 and 0 : chillax end case true : chillax end case 9300 - 2 : pop end case 20 = 05800 : when case 7 : chillax end end otherwise : output 1 end; input D0g end

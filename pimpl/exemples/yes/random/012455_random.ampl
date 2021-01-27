@@ -1,0 +1,1 @@
+program a8 : Dc : takes j7j, s, h : boolean returns nothing output 8 < 3; while 79 < 0 : let b7 = 62400 end; do h(90); output "_" end main : yw8aa, h, h, ElT0a, HJ1 : integer array; Yb5aa : boolean; chillax end

@@ -1,0 +1,1 @@
+program s2ta : o : takes Z9 : boolean; Kc, HD : integer array; M : boolean array; x, Z3, Z : integer array returns nothing bnla, h, F, zPi0, N : boolean array; W6, US, q6, H7Da : boolean; chillax end main : let sH[- 77200 + true and true] = array(9) + true end

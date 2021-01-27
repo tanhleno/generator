@@ -1,0 +1,1 @@
+program y : k7 : takes PO, _, A, C : integer array returns integer array K6B0a, t : integer; Z, f : boolean array; do M7(- k61, - 1 > 8) end G : takes z : integer array returns boolean z : integer array; chillax end main : i : integer array; chillax end

@@ -1,0 +1,1 @@
+program A : N59aa : takes Ngk : integer returns nothing let x4 = - 12300 <= 15; when case 59 : while 9 : chillax end; let F0 = 4; pop end case 63 : while 28100 : chillax end; pop end otherwise : input s end end main : while - 6 rem w(09) and true and 3 + true * false and 698 - 54 and 9110 > - (0) / 7 and 443 : output 21 end end

@@ -1,0 +1,1 @@
+program N : x : takes Q0 : integer array returns integer array chillax end C1 : takes S : integer returns nothing O4 : boolean; e, t16, z6 : integer; chillax end main : V_ : boolean array; pop; pop - true and 42 >= 4 - 10; while - true /= 7 - 782 : when case 445 : chillax end; let k = 34 end end

@@ -1,0 +1,1 @@
+program z : r : takes Nk : boolean returns nothing w, Q5r : boolean array; W, g3, T : boolean array; q, I, i8 : integer array; Rz, M : boolean; FEm : boolean; input u; let v8 = array - 4 - 1; let GI = 35; do e8(76) end main : l, D : boolean; chillax end

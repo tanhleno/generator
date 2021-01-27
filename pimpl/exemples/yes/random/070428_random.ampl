@@ -1,0 +1,1 @@
+program lF : main : v, Zy, Hbba, uDo0 : integer array; Q, z, M : integer array; while - not not false and true * (1750) and 9550 - true or(1) + 8 - 1 : chillax end; do i27a(- (702) /= (87) and 81, - true /= - 0 - 86) end

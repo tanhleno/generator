@@ -1,0 +1,1 @@
+program KzB0 : s : takes tc : integer returns nothing tk4, Q, S6, H : boolean array; Ubu0 : integer array; chillax end YF9 : takes s23 : boolean array; Vh : integer array; B9, x3, z : integer returns nothing J : boolean array; chillax end main : while - (5) : chillax end end

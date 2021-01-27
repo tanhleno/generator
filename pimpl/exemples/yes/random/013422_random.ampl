@@ -1,0 +1,1 @@
+program D3 : x42aa : takes P390a, wk0aa, i210 : integer; R : integer; A : integer returns nothing chillax end dt : takes L, Z2 : integer array returns boolean chillax end Tj : takes Bh, pk : boolean returns integer array JA, i, R : integer array; CG5 : boolean; chillax end main : chillax end

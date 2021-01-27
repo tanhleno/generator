@@ -1,0 +1,1 @@
+program s : Rp : takes f : boolean array; Pp, Wv, g : integer returns integer when case true or 2 : chillax end; while - 4 - 94 < 5 : when case 8 : chillax end; input K3f; pop end end main : k, d2 : boolean; pop true and false and 5 - not 64100 and 28 - 4 - 99; do AYaaa(E - true); pop 76 end

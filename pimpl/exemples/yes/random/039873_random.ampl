@@ -1,0 +1,1 @@
+program s0 : fx : takes K : boolean array; V : boolean array; dl : boolean array; Ce, e36, Y : integer returns nothing h : boolean; when case false and 287 or 54 - 7 : chillax end; output "" . 79; while 05 : chillax end; when case 3 : pop end end main : t69a, v, P5taa : boolean array; chillax end

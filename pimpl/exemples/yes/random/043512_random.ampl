@@ -1,0 +1,1 @@
+program XP : W : takes bD2aa : boolean array returns nothing chillax end hiO : takes F, H : integer; e : integer array; _ : integer returns integer while - 0 /= 1 : while 06 : chillax end end end main : chillax end

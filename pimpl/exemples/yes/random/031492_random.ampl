@@ -1,0 +1,1 @@
+program m : ty : takes b, BI30a : integer returns boolean chillax end main : when case 59100 >= - false rem false and 2 : do N4(5 - 3, 4080 = 2); pop end case f[6] and(14) : chillax end otherwise : chillax end; when case true < (1) and 34 : chillax end otherwise : let n[45] = array 46000 end; output - 1 >= 92800 end

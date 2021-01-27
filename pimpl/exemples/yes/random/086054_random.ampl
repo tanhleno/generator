@@ -1,0 +1,1 @@
+program LaCaa : main : WxC : integer array; P, d : boolean array; P700a, T : integer; when case 3 >= u5 : chillax end case - false rem true + not 3 <= - true : while 5 = 4 : chillax end end; output "\n"; input k7e[true and 1 or 5] end

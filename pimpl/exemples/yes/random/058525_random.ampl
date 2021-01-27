@@ -1,0 +1,1 @@
+program E : q : takes I : integer array returns boolean when case - (170) = - 84 - 9 : pop; while 0 : chillax end end otherwise : chillax end; do tw3(- 32300); let sI = array 5 end main : chillax end

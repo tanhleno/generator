@@ -1,0 +1,1 @@
+program AWq : T95a : takes r0 : integer array; tC, FHq : integer returns nothing A1g, b : integer; KG, V, E7oaa : integer array; chillax end Y4 : takes d, P : integer; G, z1w : integer array returns nothing input Cf; when case 905 : chillax end case 5 : pop end otherwise : pop end end main : output "X'\"" . ""; output not 05 and 0 end

@@ -1,0 +1,1 @@
+program a : y : takes t : integer array returns nothing q : integer array; CY, A, e : integer array; input U5; pop end main : while true rem f6(56) * 8 + (1) and 0410 and 2120 /= (7) * 5 and 7 : pop end end

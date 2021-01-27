@@ -1,0 +1,1 @@
+program RQWa : z : takes g, v6 : integer array; P : boolean; k, c, wo, R : integer; R5 : integer returns boolean pGia : boolean array; chillax end zi : takes h26, k, T0 : integer array; vi, vX : integer returns boolean yF : boolean array; chillax end main : do DRy(ZxK[68400] > - 78 and 1 + 6 + 8 - 7, not(0) /= - S, - not 19900 and 9 /= 3) end

@@ -1,0 +1,1 @@
+program GD : DUD0 : takes C580a : integer; gZ, y : integer array; H : boolean array returns boolean L6, U54aa, l : boolean array; u, P, l, L : boolean; pop - 6 - 0 <= 4; input Q9[- 86]; pop end main : while 264 + true * not 2 - (9) and 95 : chillax end; pop; output - 52 - 5; output 47 = 1 end

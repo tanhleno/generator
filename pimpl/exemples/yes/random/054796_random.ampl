@@ -1,0 +1,1 @@
+program V340a : r52 : takes rsdaa : integer array; Y, b49 : boolean returns boolean vuV0a : integer array; Zum : boolean array; q : boolean array; chillax end I : takes f : boolean; I : boolean returns boolean chillax end main : MkW : boolean; while - 2 rem 353 and 5 and 430 : chillax end; while - false and false and 6330 : pop 7 end end

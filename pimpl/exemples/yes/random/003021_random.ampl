@@ -1,0 +1,1 @@
+program C : U : takes c, r, e, f, e : boolean returns nothing Mv4aa, f, vc : boolean; Y0, Q : boolean; gU : integer array; r4 : boolean; chillax end main : P, r : boolean; A4 : boolean array; x7o, XQC : integer array; I : integer; v, Xv, x : integer; d : boolean; do F(not 44700 + 1 rem(9) and 7) end

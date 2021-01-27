@@ -1,0 +1,1 @@
+program X3a0 : main : output - true < - H8 and 08 + 7; when case - false : chillax end case - O or 15 : when case 55 : chillax end case 8200 : chillax end otherwise : chillax end end otherwise : when case 0 : pop end end; output 2 . "\\:0a"; do _(- 3, 8 = 3, 6) end

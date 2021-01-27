@@ -1,0 +1,1 @@
+program OK : Ym : takes N1 : integer; e, wt : integer array returns boolean chillax end main : when case not(0) and i : output 529; output 280; do yc(4); when case 5 : chillax end; while 49 : chillax end end otherwise : when case 270 : chillax end case 8 : pop end case 0 : chillax end otherwise : pop end end; input k; pop - 4 - 4 < 1; while 16 - 28 : input K end end

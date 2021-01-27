@@ -1,0 +1,1 @@
+program N9t : p9 : takes bB8, v, _9, F800a : boolean; G, Ned0, r : integer array; L : integer array returns boolean array g8 : boolean; I7U0 : integer array; input l1e[not 8030 and 71]; pop 5 = 15; while 221 : chillax end end main : V4 : boolean; chillax end

@@ -1,0 +1,1 @@
+program P : O : takes Y : boolean array returns boolean do K(false and 48); pop 5 = 5; output 6 . 17500 end qm30a : takes fS60, QN1 : integer; OeL0a : boolean returns nothing pop end B : takes i, H0 : boolean array returns nothing chillax end main : d : boolean array; XrHaa, p3 : integer; E : boolean array; chillax end

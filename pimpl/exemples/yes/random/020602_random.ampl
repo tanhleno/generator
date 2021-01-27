@@ -1,0 +1,1 @@
+program H : N : takes tXl, l : boolean array; l : integer array returns nothing Qe20a, ti, Hb : integer array; A, t : boolean array; pop end main : do TJ(- not false and not 69 / true and 4 >= - A(02) or false or 9 - 497); let O[true] = array false or false and 758 + 4 - 6500 end

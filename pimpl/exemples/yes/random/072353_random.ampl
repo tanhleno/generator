@@ -1,0 +1,1 @@
+program F : main : t, x8O, K6F0 : integer; l : integer array; p : boolean; when case(53 = 22) > - 93 : chillax end case - 961 and not 3 /= true : chillax end otherwise : while 826 = 4 : input h5; pop end end; let D11[not true / Z4] = not 4250 end

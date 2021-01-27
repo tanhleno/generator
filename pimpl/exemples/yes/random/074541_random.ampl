@@ -1,0 +1,1 @@
+program v1 : main : A6l0a, X5 : boolean array; do K(16200 + 03 * true + false and 125 < Uk[2] / true + (2), - not false or false and 6 or 028, - true and 0 /= 3970 - 72); output - 88200 and 3 or 1 - 5 end

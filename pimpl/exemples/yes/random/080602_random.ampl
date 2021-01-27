@@ -1,0 +1,1 @@
+program E : main : D : boolean; while 1 rem s4 and 30 : input mh end; while 90 and 3 and 52600 < - y and 767 or 4340 : chillax end; output ""; let Ui80[7] = array - 665; when case 3 = 3 : chillax end otherwise : pop end; input C; do AU1(7); pop end

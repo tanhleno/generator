@@ -1,0 +1,1 @@
+program gNV : main : pop - 7 > 6 and 1; output 409 and 9 or 6950 - 4 /= 2 - 3 . - 52 - 61200; do m6((9680) + 7 < - 3740 - 0); when case 8 - 01 /= 073 : chillax end; input F; when case 3 : pop end; when case 4 : chillax end end

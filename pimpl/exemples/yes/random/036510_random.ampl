@@ -1,0 +1,1 @@
+program Pk : Q : takes n : boolean; ef2aa : integer; R8 : boolean; j : boolean array; _ : boolean array; e : integer; j7va, C5 : boolean returns nothing input B3L; do P(50 - 6) end main : do b(- not not false + false / (8)); when case not(8) * false - true : chillax end end

@@ -1,0 +1,1 @@
+program gm : w : takes pE4, p, E, N, r0, M : boolean returns boolean de, k8 : boolean array; chillax end main : xI, ZtPaa : integer; m34, F, D : boolean array; let XA8[u] = true rem not 23 - (864) and 18 + 028 - 24 end

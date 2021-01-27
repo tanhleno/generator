@@ -1,0 +1,1 @@
+program g : u : takes f2Z : boolean array returns boolean array when case - not 1 and 1 : input y[5]; input d; output "" end case - 93 - 1 < 573 : chillax end case 588 : chillax end; when case - 0 : chillax end case 7 : input RS end; while 577 : output "51\"a" end end main : do wl(- not false); output "A`"; pop 0 > 56 end

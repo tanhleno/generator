@@ -1,0 +1,1 @@
+program nWNaa : UH : takes CS : boolean; u, P, r : integer array returns nothing k, Q : integer; output - 38 < 1 end tl : takes I : boolean array returns nothing when case 6 - 58 > 749 : chillax end case 1980 = 789 : chillax end otherwise : chillax end end main : input o end

@@ -1,0 +1,1 @@
+program sf7 : main : when case false + true and false or false and 26 /= - false and u : chillax end case false * false or(818) : do e9(321 = 8, 60); pop 1 end case - true + 87 : chillax end otherwise : when case 615 = 53 : chillax end otherwise : chillax end; output 0 . "" end; let L[- (61)] = - x0M and 4720 /= - 7 - 0 end

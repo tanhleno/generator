@@ -1,0 +1,1 @@
+program Y8H : Eg : takes o, D, q, d8, iJC0 : boolean array returns integer G, YI2aa : integer; T28, Q, A0, c6 : boolean array; chillax end main : when case - not(93) rem U(9) /= 5 - not 3 : chillax end case false - false and 7 >= D and 8 + 0 : input q; do a(0, 37) end case true : input WD; when case 5 : chillax end; when case 7 : chillax end end case 422 - 8 : chillax end end

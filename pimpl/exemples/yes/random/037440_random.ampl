@@ -1,0 +1,1 @@
+program U3K : j : takes d99 : boolean array; Z6, dNha, A1l, Y, D, d, b : boolean array; ATC, Q, H1, l, y, w : boolean array; PK9 : boolean returns boolean pop end main : WTZaa : boolean array; k1Aaa : boolean; X, Q : integer; h, h, jAk : boolean array; k : integer; chillax end

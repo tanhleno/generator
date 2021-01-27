@@ -1,0 +1,1 @@
+program G : ls : takes G : boolean; uf7, cIkaa : integer array returns nothing v, w : boolean array; when case - (7) < 5 : chillax end otherwise : let s9aaa = 20 end end main : c : integer; chillax end

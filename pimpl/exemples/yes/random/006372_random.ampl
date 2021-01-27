@@ -1,0 +1,1 @@
+program P : nj : takes B, Mn, l, L : integer; j220, S, am30a : boolean array; R : integer returns nothing do R(- true and 09800 + 46800 < - 8 - 438); while - 96 : chillax end; input L2b0a end main : T : boolean; z4 : integer; chillax end

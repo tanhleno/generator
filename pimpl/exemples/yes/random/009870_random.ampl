@@ -1,0 +1,1 @@
+program T : O4x : takes J, D, pRM : boolean array; n, B : integer; wYT, L9B : integer returns boolean c : boolean array; chillax end d0B : takes B2 : integer array returns integer array _8U0a, l, N, Z : integer array; chillax end main : let d[(1 = 99) / true and w] = array 815 or(7) end

@@ -1,0 +1,1 @@
+program V : U : takes XA, w, po, P2 : integer array returns nothing chillax end b3N : takes ZZ : integer array returns nothing C, o3 : boolean array; G, lEA0a : integer; chillax end main : output - U[63800] / true . true <= - 589 . "" end

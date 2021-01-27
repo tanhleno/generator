@@ -1,0 +1,1 @@
+program m : R72 : takes f, y : boolean array returns integer T6Y0, I6K0a, m : integer; when case(2) or 8800 - 67 : output "-"; while 4 : chillax end; when case 38 : chillax end; pop end case 7 - 6 : chillax end case 5 : chillax end end A : takes n, a94aa, h, y : boolean array returns integer R : integer array; when case 53 : chillax end; pop 3 end main : chillax end

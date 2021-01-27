@@ -1,0 +1,1 @@
+program m : a : takes j, d, c : integer returns integer array while - true <= 3 - 2 : chillax end; when case - 41 : chillax end; do C(6); output 3490 end main : L : integer array; R2i0a : boolean array; J, qz : integer; pop - not not 476; input Y; do b(W5K) end

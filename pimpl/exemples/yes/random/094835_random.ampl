@@ -1,0 +1,1 @@
+program bpk : main : pop; while false - 5 + 36 < - rc9aa + 3 - 405 : pop; when case 1 : chillax end case 7790 : chillax end otherwise : chillax end end; output "-z!a" . 9000 = 173; do H(- 2080 - 8) end

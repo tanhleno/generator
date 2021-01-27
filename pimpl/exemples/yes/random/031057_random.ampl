@@ -1,0 +1,1 @@
+program P : a1 : takes Wq, o : integer array returns nothing output "_"; output 39 . 9 end main : m, p : integer array; c : integer; when case - not 61 and false * xf0 and 1 <= - false rem f7z : do r(- 7 <= 1, 4) end end

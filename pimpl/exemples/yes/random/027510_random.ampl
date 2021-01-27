@@ -1,0 +1,1 @@
+program m : H4 : takes x, U : integer array; b40, g38a, Cg50 : integer array returns integer when case not 926 and 7890 : pop; when case 9 : chillax end end case - 445 : chillax end otherwise : let m = 3; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program K700 : main : tu, u, Gr_0, r150a, Y : boolean array; Q, st : integer array; H, k8, u, fl, V : integer array; b : integer array; K8wa : integer; UJ : boolean; while 61 and U[5] : output "8"; pop 3; do v(0); let LUM = 7; let P = 377; pop end; let Nf = not 3 and 2 or 0 end

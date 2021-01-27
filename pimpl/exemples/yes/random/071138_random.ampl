@@ -1,0 +1,1 @@
+program q : main : oX, D, N2na : boolean; n : integer array; when case true and 1 + true and 14 and 94 - false and 5 or 70900 - 12 : when case - 3 <= 91 : let TF20a = 11; output ""; pop end case 5170 : chillax end; while 41 = 1 : chillax end end case - (1) + (32) and 6 + 2330 > not 41 - 1 - 68 : while 72 = 424 : let u = 0; pop end end case - Y and 7380 : chillax end end

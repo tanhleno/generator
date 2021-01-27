@@ -1,0 +1,1 @@
+program H : main : p : integer array; do G(- not(9) - x(7) / (51) and 6, 9 and true and 0 - false and 58 - 056 - 6200 <= - false and 3 + 4 - 8, 186 and 1 - 7 - 6 < - 5); let UO6aa[- gw(59)] = array 9 and r3w end

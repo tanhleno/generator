@@ -1,0 +1,1 @@
+program G : g4 : takes D : boolean array; o : integer array; LQ, W : boolean returns nothing when case - (2110) and 2 : chillax end; do K(027 - 0 > 663, 9) end main : J, Y2, _2S, y, Mo : integer array; P : integer; chillax end

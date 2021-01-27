@@ -1,0 +1,1 @@
+program c6h : GP : takes s4g0a, BY, b1 : boolean returns nothing while - not 37 : chillax end; output "" end T : takes Y9, L5, j : integer; g9J0a, e : integer array returns boolean array input h[- 7 - 923] end p : takes rv70a, u, J, V, QO8, q : integer array returns nothing G, A7 : integer array; S : boolean; chillax end main : P5, x, e : boolean; chillax end

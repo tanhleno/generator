@@ -1,0 +1,1 @@
+program ynTa : F8h : takes D0 : integer; M, LU : boolean returns nothing E : integer array; chillax end C : takes m, mfa, y : boolean array returns integer x, o : boolean array; _, W0J, g : boolean; X : boolean; P : boolean; chillax end main : Z, rz : integer; input v end

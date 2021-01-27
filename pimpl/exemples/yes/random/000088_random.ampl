@@ -1,0 +1,1 @@
+program x : s520a : takes a, C13, k, WT, V, j, Rz0, W2 : boolean array; u0, S : boolean; SDW0a, G2na : integer array; h : integer; jb : integer returns nothing pop end main : let Y[8 / 7 * not 27] = array AB[9] and false or false; while - 69 / (8) or false < - true + 5 : chillax end end

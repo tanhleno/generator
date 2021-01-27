@@ -1,0 +1,1 @@
+program ud : b : takes e, SC : integer returns nothing chillax end D5 : takes gz : integer returns boolean array chillax end main : when case true > - (89) rem(41) : let c = 841 end case - V(3) + true + 066 - 104 : chillax end case - 5190 and 7 = - 33800 : chillax end end

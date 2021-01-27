@@ -1,0 +1,1 @@
+program v2 : main : x34 : integer array; nD1aa : integer array; AI : integer; do C((1 = 1) >= 3 rem(108) + false and 00600, 6 and(4) + not 959 + 8 - 4770 <= - true + 8, - (90) and 77 + 931 - 4); while true - true : chillax end end

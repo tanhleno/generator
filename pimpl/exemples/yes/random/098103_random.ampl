@@ -1,0 +1,1 @@
+program f1 : main : while - (42 = 0) or E63aa[9220] * true + 322 - 5 - 2 : when case 33 : while 56500 : chillax end end case 33 = 61400 : chillax end end; do q(- true / false or true and 0 or 43, - not 6 - 0 - 897 = - 75, - 4 < 8, 8850 = 2350, 4) end

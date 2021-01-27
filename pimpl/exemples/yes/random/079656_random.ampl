@@ -1,0 +1,1 @@
+program hD : main : G7 : boolean; G1 : integer; while - OP50a(41, 4) : while - 58700 > 865 : do Y(1); while 392 : chillax end; pop end; let h95[906] = array 1010 end; when case(81500) < - true and 5 : chillax end case false or 1 = - 55 - 86 : let G = array 8 end otherwise : chillax end end

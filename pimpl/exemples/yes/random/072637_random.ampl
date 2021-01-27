@@ -1,0 +1,1 @@
+program g74 : main : m0J, z60aa, I : integer array; G16, zdo, R4E, x43aa, D, J : integer; d1q : boolean; input V[0 / true * false and 7760]; pop false or 2 - 49500; let w[- true or 5] = 7 - 7 >= 5 end

@@ -1,0 +1,1 @@
+program h : main : G7, Q4, i, Xki, DU : boolean array; pop; while not iR2 / false or false + 7 - 5 <= - (3) - 81 - 9 : chillax end; when case A2 and 5 + 2870 - 0 : chillax end case - 6 >= 62 : chillax end otherwise : chillax end end

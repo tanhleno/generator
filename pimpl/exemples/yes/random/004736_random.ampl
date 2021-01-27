@@ -1,0 +1,1 @@
+program r : T260a : takes JaN, f9, o900, j9 : boolean array; k66aa, r5, j, D, v : integer array; l, g : boolean returns nothing let p = array - not 1 or 4 - 0 end main : when case QTa[3] rem(0) rem(7) and 949 < - not(4) and(86) and 03 or not 0 and 3 : chillax end case - true and(44) and 79 : chillax end otherwise : let o = array 62; pop 1; do U3h(1) end end

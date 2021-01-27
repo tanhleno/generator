@@ -1,0 +1,1 @@
+program Z : ig : takes G, cu : boolean array returns nothing do mw(- true and 34 > 5, 1 /= 1, 6) end n1 : takes F, w6 : boolean array returns nothing when case - 7 <= 83 : chillax end case 7 : chillax end otherwise : while 8 : chillax end; pop end; while 9 = 86 : chillax end; input kb end main : p : boolean; f, Of, r350, aP : boolean; chillax end

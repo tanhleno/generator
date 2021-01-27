@@ -1,0 +1,1 @@
+program f : H : takes v, c, C8 : integer returns nothing kJ : boolean; while - (75) or 928 - 6 : chillax end; while 1 : pop; let E2 = 36; pop end end main : qc40, Q : boolean; do i4(130 and true and 1); while - not B : output "" . "s,"; do vm(7, 63); pop; while 9 : chillax end end; input Z2w[96 and 84700 - 29]; let HXP0 = array - 40000; pop end

@@ -1,0 +1,1 @@
+program a : g : takes b1 : boolean; c2, PRE0a : boolean returns nothing G, f87 : integer; do pNb(false >= - 8, - 6) end F : takes S360a : boolean returns boolean z25, l_90 : boolean; chillax end main : G3 : integer array; when case true : do H(95) end case true rem 6 + 5 < O or 0 : chillax end otherwise : when case 81 : input T1 end case 20 : pop end end end

@@ -1,0 +1,1 @@
+program X : B : takes Rx : boolean array; m2 : integer array returns boolean o5 : integer array; chillax end main : let Pq5aa = array true; pop 604 and 6 + 4; while - K and 6640 + 8320 - 8 : when case 85 : pop end; pop end; let T = 06 = 4; when case 18400 : chillax end end

@@ -1,0 +1,1 @@
+program o7 : main : f6 : integer array; px : boolean array; when case - 93 * true / (5) or 7200 - not 41 and 2 : chillax end otherwise : pop; when case 84 : chillax end case 3 : chillax end end; when case true / false and 496 > t and 667 : pop 27000; pop end otherwise : when case 00000 : pop end otherwise : chillax end; when case 98500 : chillax end end end

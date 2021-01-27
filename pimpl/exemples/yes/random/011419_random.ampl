@@ -1,0 +1,1 @@
+program P : y : takes Z, T, T9 : boolean array returns nothing aY : integer array; output 1 - 02 <= 9 end main : s : integer array; k0Q0a, tG00 : boolean array; qX : boolean; w1, E780a, S8 : integer; let tyZ[87 * not false * true and 2] = array not(42) and false / (6) - not true rem Gw60a and 9 - 25; input x3 end

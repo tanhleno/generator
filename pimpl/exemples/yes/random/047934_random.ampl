@@ -1,0 +1,1 @@
+program px : Y97aa : takes s : boolean returns nothing o, Sj, r, _ : boolean array; output "I7" . 3 = 47 . "" end A : takes DIba : integer array returns nothing sl0 : integer array; J78aa, ix : integer array; chillax end main : chillax end

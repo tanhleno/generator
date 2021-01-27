@@ -1,0 +1,1 @@
+program o : w : takes t4 : integer array returns integer array tMpaa, V : integer; chillax end main : WH, _VD : integer; let CC[- m1X[1] rem true] = array - 3; input w8[- not not 47 or false and 9 + 11 - 9]; let pA9[not 68 - 3 - 78] = array - 5 and 07 + 9190 - 3; pop 4 end

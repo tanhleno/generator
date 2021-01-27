@@ -1,0 +1,1 @@
+program m : main : D : integer; I : integer; WG, C, p67 : integer array; while - false / 898 rem 182 + LK + 9 + 361 > - false : do G_1a(234 = 2); let Mux[516] = array 2 end; pop; do a5B0(- not 8 < 3, 64, 6) end

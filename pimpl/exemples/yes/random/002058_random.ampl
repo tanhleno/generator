@@ -1,0 +1,1 @@
+program W : A : takes Ua, TFnaa, n, f, L, YO5 : integer returns nothing P, L, gB : boolean array; chillax end main : input e3; when case not(3) and 6 and 3 + false and 17 or 44 : pop end; let c340[618 and 257] = - 655 end

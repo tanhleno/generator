@@ -1,0 +1,1 @@
+program t0 : Y : takes Z8raa : boolean returns boolean array chillax end GjXa : takes ws50a, B, gJ, _a0aa : integer returns boolean te : integer; input a; output 2 end M7 : takes M : integer array; A, y, e, o : boolean array; z9 : boolean returns boolean array chillax end main : chillax end

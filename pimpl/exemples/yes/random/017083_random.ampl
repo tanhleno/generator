@@ -1,0 +1,1 @@
+program T : L : takes YX, V310a : boolean; B, f, U2x0 : integer array returns boolean a : integer array; output "" . ",.0" . "tD" end main : Yl : integer; let T2u0 = array - true rem true - f7e0a[87] and not 59 or(0); input d[not true] end

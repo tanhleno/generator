@@ -1,0 +1,1 @@
+program D : O : takes p : integer array; T0 : boolean returns boolean do v(- true <= - 836 - 3); do Ll(- 854 - 0, 3, 91); do i(32 = 1) end S : takes S : boolean returns nothing YDm, f7I : integer array; chillax end uZ : takes B : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program yo2 : Mf0 : takes U, qB, V : boolean returns nothing let X = - 8 end pl : takes w, b : integer array returns integer array U, GEu, F : integer array; E, aG3a, g6 : boolean array; chillax end main : chillax end

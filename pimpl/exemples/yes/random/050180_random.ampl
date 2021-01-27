@@ -1,0 +1,1 @@
+program cU4a : Z3 : takes O : integer; n, Z76aa, e : integer array returns nothing chillax end main : pop - (38) * not 38; do y7Q(not(65) rem(0) + 4720, false and 08 + 7 = - 8 - 5); do y2(true and 6 or 35 <= - 1120); when case 18 - 7 : chillax end otherwise : when case 46 : chillax end; pop end; do x(1 = 4) end

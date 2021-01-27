@@ -1,0 +1,1 @@
+program dy : f : takes X : integer returns nothing bNU0 : boolean array; chillax end JVj : takes M : integer array; g, q7o, qc : integer array returns nothing P4Qaa, e, B : boolean array; when case - 2 - 4 : pop end; output 0; do W(95, 3); when case 2 : chillax end end main : U : integer array; chillax end

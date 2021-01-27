@@ -1,0 +1,1 @@
+program vFI0a : R4 : takes Ht, b47 : boolean returns integer array w9z : integer array; Z : boolean; i, X : integer array; let q[not 92300 - 593] = array - not 4 or 5 - 8; pop; input iXH end j : takes W9 : integer array returns nothing pop 461; input w4; when case 4 : chillax end case 32 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program E : u : takes M, o8 : boolean; X8, b3 : integer; G : integer; Uy9 : boolean array; I3X : boolean returns boolean _ : integer; chillax end main : while true and(1) or true = not false : chillax end end

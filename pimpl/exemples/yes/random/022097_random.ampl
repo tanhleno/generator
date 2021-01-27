@@ -1,0 +1,1 @@
+program P6 : W : takes c30, C : boolean array returns nothing do B(true and 2 - 8 - 4, 7 - 8 /= 644); let u[- 808 - 570] = 707 end main : W3 : integer array; p, H, l0 : boolean; T, H, K, V, O : boolean; nC, jn6, y6O, i4 : integer array; Gl, s, PsS : boolean; chillax end

@@ -1,0 +1,1 @@
+program O : qj : takes f9U0, Rz : boolean returns integer array pop; while - 2400 - 6130 : chillax end; let yuq[5] = 8; output "\\L"; do Ha(950); output ""; pop end main : g : boolean; b, D30 : integer array; O2 : boolean; N : boolean array; input h41[false rem 62 and(5) + true / 52400 and 0190 - false or 7 - 3] end

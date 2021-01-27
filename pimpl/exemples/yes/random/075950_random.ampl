@@ -1,0 +1,1 @@
+program J_7aa : main : i, a : integer; p1, A, p : boolean; z : boolean; l, M : boolean; K6 : integer; while false * (029) : chillax end; pop not 2 and 64 /= 2 - 58; let Kdu0a = array - (750) and 5 end

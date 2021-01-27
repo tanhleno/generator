@@ -1,0 +1,1 @@
+program O : A2 : takes iiu, o2X : integer array; Ky : boolean; j : boolean array returns boolean chillax end main : H : integer array; pop; when case true / not 315 - (4) and 544 : chillax end case - xs7 or 6 : chillax end case 1 - 19500 < 243 : input aqC; while 9670 : chillax end end case 3 = 3 : chillax end case 0 : chillax end; do giV(- (4) and 35 + 51 - 026 < 9 - 87, - 9) end

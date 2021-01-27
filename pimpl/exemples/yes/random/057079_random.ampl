@@ -1,0 +1,1 @@
+program S : F9b : takes I : integer array; n7 : integer array returns boolean array a : boolean array; kV, Y, c, G : boolean array; M, MV : integer; S : boolean; R : boolean; when case(1) : do a(2); output ";(!a"; pop; pop end case - 0070 : when case 7 : chillax end end case 30 : chillax end otherwise : chillax end end main : e : boolean array; chillax end

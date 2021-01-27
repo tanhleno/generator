@@ -1,0 +1,1 @@
+program f1 : bKEaa : takes PT7 : integer; A9 : boolean; xv, U, l, z, x : integer array returns nothing chillax end T : takes m, W, N : integer array returns boolean chillax end sQ : takes A, J : boolean array; TFq0a, t4, m : integer; B : integer; b : integer array returns nothing chillax end main : chillax end

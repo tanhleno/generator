@@ -1,0 +1,1 @@
+program m0O : _ : takes y63, V, Z : integer; X : boolean array returns boolean array chillax end main : M, RB, x : boolean array; t : integer array; c : boolean; K4z, tF : boolean; pV : integer; input p0Ha[(46 = 4) + true * true and 310 - o65aa]; let P[true + 6 - 4] = array not not 1 / 4 and 4990 end

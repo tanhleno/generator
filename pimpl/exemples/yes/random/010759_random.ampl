@@ -1,0 +1,1 @@
+program E6 : nA : takes G, b, U : boolean array returns boolean when case - (02200) and 0 <= 1 : do R(9730, 64) end otherwise : let h1 = 1; input Z9wa end; while - 5 > 0 : chillax end end main : input t5qaa end

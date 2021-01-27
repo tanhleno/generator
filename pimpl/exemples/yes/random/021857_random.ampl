@@ -1,0 +1,1 @@
+program g1Xa : UY : takes O, y : boolean array returns nothing chillax end T : takes NSraa, O0O : boolean array returns boolean array c, QN, V, A : integer; b35aa : boolean array; Y2, O4 : boolean; when case - 89 /= 07 : while 18000 : chillax end end otherwise : chillax end end main : n : boolean array; chillax end

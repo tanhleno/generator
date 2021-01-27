@@ -1,0 +1,1 @@
+program a : o6p : takes sW, Z : boolean; UJ, _ : integer array returns boolean k : integer; pop - 7 - 7 /= 6300; while - 2 - 11 : chillax end; while 94 = 71 : chillax end; output 2 . "" end main : chillax end

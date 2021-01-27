@@ -1,0 +1,1 @@
+program k : V : takes o, P6n, e, b : boolean array; b : boolean; Y : boolean returns integer array let UL[s and 2 or 78] = - 45 - 4; while - 3 - 86600 > 3 : input i; pop; pop end end main : k : boolean; chillax end

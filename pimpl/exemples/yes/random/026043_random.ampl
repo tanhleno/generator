@@ -1,0 +1,1 @@
+program R2J : I9 : takes R, Th : integer; Dq70 : boolean; Y830, J : integer; V, j : integer array; X, a, d : boolean array; YC : boolean array returns boolean array chillax end S2 : takes H6 : boolean array returns integer array chillax end main : input FM end

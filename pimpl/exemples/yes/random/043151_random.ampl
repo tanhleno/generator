@@ -1,0 +1,1 @@
+program xAv0 : k : takes d : boolean array returns integer CW4, dR : integer; q, LfKa : integer array; Y2 : boolean array; p2, F6j : boolean; chillax end main : input Z4fa[- true * true or true / true + not 50 + 262]; pop end

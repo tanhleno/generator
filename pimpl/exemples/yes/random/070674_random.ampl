@@ -1,0 +1,1 @@
+program K87 : main : Yi8, Wc6, n9, zI60a : integer array; when case f04 : chillax end; when case t(62) * (677) : pop 89; when case 6 : chillax end otherwise : chillax end; while 0 : chillax end end case - true and 96700 : output 91 . "\n" end case - 09 /= 2 : input A02; output "" end case 57 = 7 : let e = 9; pop end end

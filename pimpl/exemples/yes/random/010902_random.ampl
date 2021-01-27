@@ -1,0 +1,1 @@
+program D0 : L : takes vt, F, o : boolean array returns integer chillax end n7Xa : takes Uv : integer array; l1 : boolean; q0A0, a : integer returns integer xt : boolean; C440a, dJ50, fYv : integer array; m : boolean; W500a : boolean; while - 5130 : when case 3 : chillax end; pop; pop end; when case 0 = 4 : chillax end; let z21 = array 86 end main : let B = array s(1) end

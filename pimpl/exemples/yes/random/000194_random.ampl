@@ -1,0 +1,1 @@
+program B4 : qyH : takes T, nS, y0, Wh2, q, q7Na, l8, CE : boolean array returns nothing do jv7(true and 199 = 3, 5 - 98800 > 435) end main : pop; do q3(- true rem not 1 + not 5 or 32 - 90 /= 7 or 81 - 2) end

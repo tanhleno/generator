@@ -1,0 +1,1 @@
+program f6 : t : takes B, k, e3 : integer array; o, f : integer array; bQ0aa : boolean array; G190 : boolean returns boolean input z4d[- true or 6] end aT : takes E : boolean array returns nothing chillax end b : takes Gm : integer array returns nothing chillax end main : while - 13 / Wc or false - d and 2 or 3 /= v[89200] : chillax end end

@@ -1,0 +1,1 @@
+program R : _4Q : takes Pc, Nj, M69 : boolean returns nothing pop; when case 4 : chillax end case 13 = 994 : do X(47); pop end end main : Ah, G5, n, Q : boolean array; I63aa : boolean array; chillax end

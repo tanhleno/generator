@@ -1,0 +1,1 @@
+program e : P : takes N590a, W : boolean; MA9a, G4 : boolean array returns integer j : integer; q, C, R : boolean array; chillax end KA9 : takes Fh20a : integer array returns integer chillax end main : chillax end

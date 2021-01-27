@@ -1,0 +1,1 @@
+program L9 : gDa0 : takes U, p : boolean array returns integer array N2Yaa, Fy_ : boolean array; chillax end jA : takes Qt, O : boolean array; w6U, K, y, ibz0, d, p : boolean array returns integer while - 4 : chillax end; pop end Y : takes S : integer returns nothing F : boolean; l99, i : boolean; chillax end main : chillax end

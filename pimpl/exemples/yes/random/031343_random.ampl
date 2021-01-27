@@ -1,0 +1,1 @@
+program y : J9d : takes hQw, UQ : integer returns boolean array q : integer; o, nO : boolean; e : boolean array; U : boolean; a97 : boolean; R : boolean; chillax end main : do HV(- 87 / 2 /= - true, - GA[010] / false and 70 /= - 9 or 2) end

@@ -1,0 +1,1 @@
+program b : B : takes J : boolean; u : boolean; k : integer returns integer array output - 75 - 9440 <= 8 . 6 = 2; when case - 6 < 4 : chillax end; pop 047; do G630(9); output "x"; when case 71 : chillax end end main : chillax end

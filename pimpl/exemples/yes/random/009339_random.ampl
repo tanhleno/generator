@@ -1,0 +1,1 @@
+program n : BI50 : takes M, R, h5v : boolean; R : integer array; L : integer returns integer R : boolean array; D : integer array; chillax end main : let en50[- false rem not pC8 rem false or Wp / false] = array - not V[56200] + 1; input o[- true - true]; let M[315 + 2] = 2100 - 026 /= 9; when case - 1 = 9 : chillax end otherwise : chillax end end

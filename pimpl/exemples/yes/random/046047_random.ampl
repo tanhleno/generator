@@ -1,0 +1,1 @@
+program f : e6 : takes R : boolean returns boolean m2g, YM5aa, P, QB, nP : integer; chillax end main : V4N, C, q2 : boolean; R, e, y : boolean; x : integer; TW, Qg70, l, p : integer; p, dUp, H : integer; chillax end

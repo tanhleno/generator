@@ -1,0 +1,1 @@
+program C : main : R53, mw : boolean array; v3 : boolean; when case - 5 * false /= - false / true and 26 - true : let e[- 0 - 2] = array - 2 - 2; let nx = 9; do h(3, 2) end case not Jq * not 211 and 2 - 6 and 4 < - not 45 + 12 : pop end; when case - false + false and 0 or 8 : chillax end; while 26200 and 5 - 1 <= - 7 : chillax end; input d8; do p(21500) end

@@ -1,0 +1,1 @@
+program z0 : C250 : takes J890 : boolean array; V55, f8t, t : boolean returns nothing pop end main : while true or 29 <= false / true : input w9; pop 53900; let T[752] = array 18400; let z84 = 0 end end

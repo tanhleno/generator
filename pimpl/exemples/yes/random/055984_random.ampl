@@ -1,0 +1,1 @@
+program R : h : takes VP7 : integer array; Jv6 : boolean array returns boolean array chillax end main : dy : integer; H, kT, BDK : boolean array; W : integer array; U4, U6, Hp : boolean; when case - (4) or m[6] : output 30 end end

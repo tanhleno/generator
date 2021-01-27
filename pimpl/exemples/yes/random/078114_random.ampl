@@ -1,0 +1,1 @@
+program Y : main : i, u : integer array; when case kT[60] and true / false = - not U and(54) : do S(- 1 - 93300 <= 2, 9); output ""; do v(3260, 334); output "2" end otherwise : do u9(695 = 43, 62800); while 36 : pop end; input a; while 72 : chillax end end; pop true and 6; pop end

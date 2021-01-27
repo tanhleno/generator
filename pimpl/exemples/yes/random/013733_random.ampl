@@ -1,0 +1,1 @@
+program fb : G : takes d30, g, Ex : integer array; dG, U, U, p : integer returns boolean array z20 : integer array; chillax end main : j, xqO : boolean array; z : integer array; output - not not 0980 + cj . "" . 4 - 234 . 60 end

@@ -1,0 +1,1 @@
+program eN : main : do V(- TCU[84] + a[9] >= - not true and 16 and 6 + (99600)); do ku(- T0H0a - true, - not 9 and 32, - 3 - 620); output 2 <= 6; let _g8[5 - 28200] = array - 090; do a9(6 = 51000, 103); pop end

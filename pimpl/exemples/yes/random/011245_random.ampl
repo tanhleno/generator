@@ -1,0 +1,1 @@
+program g : pdCaa : takes i, M, I : boolean array returns nothing Z, r : integer; chillax end g5 : takes F, HN, b : integer array returns boolean array chillax end c : takes bZ : boolean array returns integer l_, k, v81 : integer; H6G0, g : boolean; chillax end main : t, n, Y : integer array; _6 : integer array; t : integer array; P, B, T1 : boolean array; input Vx5[(6)] end

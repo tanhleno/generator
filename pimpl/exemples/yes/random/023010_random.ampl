@@ -1,0 +1,1 @@
+program Wg : M : takes e, Qa00a : boolean returns boolean array NU : boolean array; pop 827 - 0 end m2B0 : takes w, Y : boolean; tD : integer; f, iR8a : integer returns nothing chillax end main : output "" end

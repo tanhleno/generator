@@ -1,0 +1,1 @@
+program _84aa : Vi : takes S, RL : integer array; p : integer returns nothing chillax end main : pop - true / true and 1 + not 3 and 3 - 1 - 13900; when case(565) : chillax end; input VBi0[d and 1 + 8] end

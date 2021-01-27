@@ -1,0 +1,1 @@
+program R : main : while - (0) rem(4) and false : pop end; when case - not false and A and 3 or true and 6 : output ""; when case 12 : pop end case 685 : chillax end end case - not 0 and 4 - 4 - 4 >= - 845 : chillax end case 3 /= 3 : do R(31); output "" end case 32 = 5 : when case 0860 : chillax end end end

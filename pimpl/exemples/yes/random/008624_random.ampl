@@ -1,0 +1,1 @@
+program f11aa : u : takes z, Z, Vr : boolean; m8yaa, i, L : integer; q2Gaa : integer; A, Z : boolean array returns integer array r : boolean; output - 3 - 50 end main : x : integer array; chillax end

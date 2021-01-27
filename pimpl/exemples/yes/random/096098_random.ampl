@@ -1,0 +1,1 @@
+program b78 : main : when case - D0U[91] or true : chillax end case not false or not 3 + 20100 - 2 : do Odl(0 = 420, 7, 12); pop 8 end otherwise : let HOuaa = 8; while 55 : chillax end; when case 9 : chillax end end end

@@ -1,0 +1,1 @@
+program P : main : g2, x : boolean array; N7F : integer; aZr0, T, I95, w, F : integer; l12 : boolean; E, W3S0, z3G : boolean; while n6 - true or 9 and 40 : output 9 . ""; output "*" . "r" . "" end; input oX6aa; pop end

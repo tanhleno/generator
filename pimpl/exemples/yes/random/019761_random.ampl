@@ -1,0 +1,1 @@
+program k : m4 : takes z280a, TrZa : boolean array; l00 : boolean; X9K0 : integer; qVf, r2, G, Q, t : integer returns boolean array Ec9aa : boolean; input e7[- 14] end hT : takes h : boolean; k : boolean returns nothing qY2a, p : boolean array; let v93a[- 166] = array 72 - 524; do a(209) end main : chillax end

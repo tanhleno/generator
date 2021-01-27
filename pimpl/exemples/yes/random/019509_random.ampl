@@ -1,0 +1,1 @@
+program Y7 : ly4 : takes xM, b : boolean array; k06aa, A : integer array returns boolean array chillax end k : takes Gy : boolean array returns integer when case 92 - 7 : chillax end case 297 : chillax end case 1590 : pop end case 1 : chillax end otherwise : output "" end; while 297 = 4 : chillax end; do P(437, 26); let DDn0 = 3; let T = 65; pop end main : chillax end

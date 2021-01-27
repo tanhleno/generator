@@ -1,0 +1,1 @@
+program o : main : OQZ : boolean; X, kJ, s, A : boolean; when case - (09 = 9) rem false - (24) and true and 65 - not 29 - 4 - 5 = - 2470 / false : chillax end case not u / false < - not 8440 and 8 - 7 : output "I" . 0 . "<"; input M end otherwise : chillax end end

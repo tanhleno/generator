@@ -1,0 +1,1 @@
+program q : t : takes sD6 : boolean array; i7 : boolean returns nothing pop; pop end f3y0 : takes h, i5, M, jqVaa, v, dYP, B : integer array returns integer let N = 1; while 3 = 00 : when case 0 : chillax end end end main : n : boolean array; pop - true < - false; while not false < (3) - 54700 : output 47 end end

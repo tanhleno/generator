@@ -1,0 +1,1 @@
+program zN50a : F : takes v, N5F0 : integer returns integer array e, G : boolean; H : integer array; l, py : boolean array; chillax end main : i, L : boolean array; j : integer; xA, m, D, q : boolean array; F7 : integer; output - false rem H82 < - false or 48 . ""; pop true and 67 or 0960; output "" . 1 end

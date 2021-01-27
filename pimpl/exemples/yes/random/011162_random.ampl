@@ -1,0 +1,1 @@
+program f : b : takes B3, G, A7f : boolean array returns nothing F, M7h, D, E : boolean array; V0, xP, g : integer array; do v(not 43 - 06 < - 03); input o end Qb : takes S : integer array; Y4, ueu0, t6D : integer; S, J, G, t3 : boolean array returns integer uf9, kZ10a, y5 : integer array; input J[8] end main : chillax end

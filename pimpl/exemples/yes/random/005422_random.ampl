@@ -1,0 +1,1 @@
+program G : U : takes mDY0, m6G, G, Tdt : boolean array returns integer array zE1, MI2 : integer array; output "2" . ""; when case - 881 - 65 : while 1 : chillax end; do a(4) end; let S[3] = array 7 end X : takes V0, tWxaa : integer array returns integer when case 6 - 9 : when case 19 : chillax end end end main : pop; let H3 = array - false end

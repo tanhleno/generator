@@ -1,0 +1,1 @@
+program z : T3 : takes e9 : integer array returns nothing t150a : integer; G : boolean; tkqa, N3 : boolean; t : boolean; when case - not 78 : chillax end otherwise : input u; do v(37); pop end; output "" end main : input _s[false or n[31] - not 0 and 2] end

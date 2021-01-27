@@ -1,0 +1,1 @@
+program o : S3 : takes N : boolean array returns nothing pop - 78 - 4020 <= 9 end zt2 : takes u : boolean; F6 : integer returns boolean uy, Wsl0, f4r, X : boolean array; Vw, e5 : boolean; chillax end main : K, N : integer; input w[- p[067]] end

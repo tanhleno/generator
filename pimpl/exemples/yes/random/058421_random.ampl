@@ -1,0 +1,1 @@
+program g : S : takes P : integer array returns boolean p : integer array; chillax end r0 : takes T : boolean array returns integer q, o : integer; sK : boolean; output "o4aa"; let n = array 4 end main : chillax end

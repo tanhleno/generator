@@ -1,0 +1,1 @@
+program bk : hK : takes h, l : integer; Y : integer; f : integer array returns nothing while - false and 9 + 8520 <= - 5 : pop; input g end end main : do pmmaa(not _[17800] and true > 3 or false and 8 - 1 - 51, - false - (17) - 6 < (0) and 86) end

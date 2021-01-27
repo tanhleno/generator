@@ -1,0 +1,1 @@
+program w : Q : takes U, slU : integer; I, JHKa, _, e, e : boolean; N680, J, u : integer returns nothing R9l0, AD : boolean array; input E[- (016)] end main : k7 : integer; Y4 : boolean; when case - true = B[4020] * not 83 : pop end end

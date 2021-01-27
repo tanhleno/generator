@@ -1,0 +1,1 @@
+program b : e : takes P : integer; pE6aa : boolean; U : integer array; P : boolean; df8aa : integer array returns nothing pop - 7 < 8 end A2f0a : takes j8 : boolean array returns integer array pW1aa, DLO0a, r : boolean array; while 5 - 50 : chillax end end main : t9, D3, X_i0 : boolean; U6, d : boolean array; chillax end

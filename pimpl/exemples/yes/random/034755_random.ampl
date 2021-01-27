@@ -1,0 +1,1 @@
+program JD9 : S : takes yA60 : boolean; U, gS40 : integer; kPc, x, gU4aa, j070a, x9va : integer array; M : integer; D7, FKZ : integer returns nothing when case - not 0 : pop end otherwise : chillax end; when case - 72 - 2 : chillax end otherwise : chillax end end main : UV : boolean array; let M9 = - true end

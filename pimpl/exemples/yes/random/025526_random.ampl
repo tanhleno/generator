@@ -1,0 +1,1 @@
+program FW : nC2 : takes H, _ : integer; GT1, Z : boolean array; Z : integer array; K, d : integer array; l, e, i, r : integer array; u1 : boolean returns integer input m[- true or 5] end xJT : takes q, q, C, m83 : integer returns nothing w52a, xo, T : boolean array; d6M0 : integer; gAL0, d : boolean; output 7 = 1 end main : chillax end

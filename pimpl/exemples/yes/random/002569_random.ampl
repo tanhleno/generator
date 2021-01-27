@@ -1,0 +1,1 @@
+program JY2 : i : takes u2Ra, l3, u, T, DE : boolean array; E4 : boolean returns nothing i, s380, L, L : boolean array; output 2 end U : takes z : integer returns integer array chillax end l : takes ECzaa, aR : boolean returns nothing do b(2, 2, 7); output "" . "\t5" end main : g, J : integer; m, N97, W : boolean array; chillax end

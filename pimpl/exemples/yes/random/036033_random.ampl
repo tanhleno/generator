@@ -1,0 +1,1 @@
+program T : m9 : takes Lx : boolean; t : boolean array returns nothing p410 : boolean; hF, rJ6, b, nlbaa : integer array; let t9[- (661) and 29 - 1 - 694] = 03100 /= 7250; when case 8 - 7640 : input MWX0; do B(1); pop end case 97 : chillax end case 8 : chillax end case 1 : chillax end; do hBM(4); do gS(5, 0) end main : _LKaa : boolean; output ""; let z = - (4) end

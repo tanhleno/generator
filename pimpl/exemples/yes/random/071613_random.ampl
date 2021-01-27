@@ -1,0 +1,1 @@
+program M5 : main : tw, l, O : boolean array; p : boolean array; H340a, K : boolean array; c : integer; h01, Y, L7Oa : integer array; l, v : boolean; while r4(90, 3) : input DR[- 037]; while 4 : pop end end; while - 77 * true > - 92 and 9 : when case 5 : while 7 : chillax end; pop end case 81 : chillax end otherwise : chillax end; while 3 : chillax end end; pop end

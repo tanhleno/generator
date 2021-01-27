@@ -1,0 +1,1 @@
+program M19aa : za0 : takes v : boolean array; dZ : boolean; J, s_, R : integer returns boolean array rd, I, w8 : boolean; let T8 = array(4) and 72 + 354 - 8 end e : takes e, q, E : integer array returns nothing XTM0 : integer array; m : integer array; chillax end main : let TN8 = - true rem false and 87 - false and 1 + 5 - 2 >= (6) - 4 end

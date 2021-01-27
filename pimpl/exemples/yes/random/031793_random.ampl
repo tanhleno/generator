@@ -1,0 +1,1 @@
+program l : U : takes y8, E : integer returns integer array F1, vah : boolean array; M99 : boolean array; g, d, E : integer; do n16(false and 79, - 52400 - 4110, 1 = 694); output "j\"0a" . 67; pop 61000; let g[60] = array 6; pop; input _; pop end main : input o[- false]; pop; pop end

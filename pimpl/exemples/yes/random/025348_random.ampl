@@ -1,0 +1,1 @@
+program Rl : F : takes a, q : integer; H, O, dP2 : integer array; Lala, Z : integer returns boolean pop 8; when case - 86 >= 9 : do y7(682) end case 7 = 0030 : chillax end end s : takes h, e : boolean array; o2G : boolean; N, Q : boolean array returns nothing chillax end main : chillax end

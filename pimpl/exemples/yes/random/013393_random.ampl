@@ -1,0 +1,1 @@
+program R : nC7a : takes ab, dP, d4s : integer; Md : integer; cT : boolean array; L : integer array returns nothing output 86 - 6 . "\\" . 322 . "" . "Y"; when case 8 - 80 : let Fe = 44; pop end case 79 = 594 : input S; pop end otherwise : input Uc3 end end main : A, X, b5 : integer array; Q : boolean array; chillax end

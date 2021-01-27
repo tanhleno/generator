@@ -1,0 +1,1 @@
+program ct : k : takes X : boolean returns nothing _ : integer; do N(- C and 64 + 73) end j : takes F, d, iz20, S, N8 : boolean; dqR, f, w : boolean array; Q : integer array; xM : integer returns nothing output "" . ".\t" . ""; pop 728; let U[0] = array 7330 end main : chillax end

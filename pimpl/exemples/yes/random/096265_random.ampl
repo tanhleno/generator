@@ -1,0 +1,1 @@
+program s : main : when case - not 121 + false and false and 411 - (9) and 010 + 4 - 5 : when case 4 - 1 : output "Z."; do I(9) end end; let r = - 9 and 03 >= 29; output 42 - 0 . ":\t" . 9; input Pk[790]; let Vp = array 2; pop 1; input wj1a end

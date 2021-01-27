@@ -1,0 +1,1 @@
+program E : bwy0 : takes g7 : integer returns integer D, v, O7 : boolean array; do e9(true and 5 - 8410, - 5 - 62, 80 = 1240, 7) end G30aa : takes e43 : boolean returns nothing output "ip!" . 8; do NR(09400); pop 70200 end main : y, Gpmaa : boolean array; U : boolean; chillax end

@@ -1,0 +1,1 @@
+program xY0aa : U : takes Z : boolean returns nothing when case v and 3 or 6 <= - 53 : chillax end case 9 /= 0370 : chillax end case 4 : output "H7"; pop end; let y1 = array - 0460; input p; do aeP(49, 6) end main : K, hW, Z7 : boolean; when case true or 1 and true >= - false : chillax end case - zM / true and 18 = not 67 : chillax end otherwise : pop end end

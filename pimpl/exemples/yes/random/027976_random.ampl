@@ -1,0 +1,1 @@
+program C : t : takes I, B : integer array; x, l98 : integer array; u : integer returns boolean Cu : boolean; do Q(- true, 7 /= 05) end De9 : takes D, b : boolean returns integer chillax end main : chillax end

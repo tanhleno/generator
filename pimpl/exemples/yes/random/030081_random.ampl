@@ -1,0 +1,1 @@
+program l : bg5a : takes U, q_j : integer array returns integer r6 : integer; t : boolean; chillax end main : b, M26 : integer; pop - (876) and false < - true and 68 - 1720; let Y[false * 53 or false + 4] = array false or n and 5 or 7 - 9 end

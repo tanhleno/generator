@@ -1,0 +1,1 @@
+program lWW0a : O1 : takes _j_, I : boolean array; T690a : integer; Nwea : integer; B, L74, H, f7 : boolean; s : boolean; U6 : boolean array; C5 : boolean returns integer pop 5 - 97 < 8; pop 2 end main : chillax end

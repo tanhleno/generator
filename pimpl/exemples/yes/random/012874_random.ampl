@@ -1,0 +1,1 @@
+program W9 : B : takes Z2, k1, V : integer; M, _ : boolean array returns boolean c : boolean; J : boolean; Ju : boolean array; while 0050 : chillax end end q : takes E7ma : integer array returns boolean array n, p6k, f6, T1 : boolean array; S, A : integer; chillax end main : chillax end

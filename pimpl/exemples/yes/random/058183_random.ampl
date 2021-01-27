@@ -1,0 +1,1 @@
+program e : yd : takes BZF : integer array returns boolean _31, X6m, D, z : integer; u, Im, f47a : boolean array; k88 : integer; uN1 : boolean; Y : boolean; chillax end d : takes fa : boolean array; N : integer returns nothing do N(9930 - 967 /= 30, 718) end e : takes xz : boolean returns integer sWDaa : integer array; do B(207 = 66) end main : chillax end

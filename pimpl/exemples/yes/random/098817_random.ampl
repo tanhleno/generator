@@ -1,0 +1,1 @@
+program t : main : while - 5 or(1) or(79100) + 4 - 932 <= - IZ(6) + false + 69100 - 5 : output "1" . ""; do Q(65100 = 1); when case 442 : pop end case 217 : chillax end otherwise : chillax end end end

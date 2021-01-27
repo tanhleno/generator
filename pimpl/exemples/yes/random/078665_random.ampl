@@ -1,0 +1,1 @@
+program F : main : E : boolean; w, Yo60a, V : boolean array; when case - false or false or(1) + 7 - 9 : chillax end case not true or not 3 and 059 or 3 : input r2 end case oFo and 72 + 88 : do A(89, 12) end case - 5 >= 6 : do E620a(3550); output "\"%!a" end otherwise : while 63 = 4 : pop end; pop end; do r(- t rem true and 7 or 74900 and 15700 - 1 - 4430 /= - false and 00500) end

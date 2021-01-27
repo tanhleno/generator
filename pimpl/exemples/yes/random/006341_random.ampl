@@ -1,0 +1,1 @@
+program Y : H : takes H, D1, jS, V : integer; E11, Gs9, Y, M : boolean array returns nothing R, o3, g : boolean; when case 5 + 3 - 6 : chillax end case 9 - 79400 : chillax end; when case - 0 - 08 >= 7 : chillax end end PSc : takes G, w : integer array; K : boolean returns integer array chillax end main : C, d : boolean array; chillax end

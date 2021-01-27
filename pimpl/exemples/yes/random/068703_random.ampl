@@ -1,0 +1,1 @@
+program r : main : B, S, Zna, H, O2 : boolean; i86a : boolean; B : integer array; p : boolean array; Sg : boolean; v, W : boolean; let c7[- not(0140) / dBDaa(06) and 7 and 9 - false] = array - false + false; when case - (9) and true : chillax end; do L(true + 9 - 4 < 5) end

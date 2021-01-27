@@ -1,0 +1,1 @@
+program JP7a : Y : takes e : integer array; v, xA, T : integer array; s2, D2n, GV20 : boolean returns boolean array UZ, z38 : integer; E : integer array; T, DD5 : boolean; H6, m : boolean; output - 240 - 7 end main : pop(05200) * true and 6 + false and 37 - 84; input F0[- SVGa[76]] end

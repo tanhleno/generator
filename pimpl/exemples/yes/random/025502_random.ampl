@@ -1,0 +1,1 @@
+program KqL0a : o6 : takes _5, m2 : integer; jYq, n : boolean array; E, M : integer array; rJ6 : boolean returns nothing I : integer array; JsS : boolean array; ZF, G97 : integer array; q8 : boolean; Pu : boolean; chillax end main : VF0, z, p : boolean array; while 05 * not m_3 + true / (22) and 341 >= - true and true : chillax end end

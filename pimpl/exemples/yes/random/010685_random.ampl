@@ -1,0 +1,1 @@
+program e9 : kfO : takes b7, Zg, FNF : boolean array returns boolean X, W5, H : integer; O_5 : boolean; chillax end y : takes w0, E : integer array returns nothing D, S : integer; do g(- 80 >= 19, 1); input P end MA : takes n, o, F : integer returns nothing let B[8] = array 09 end main : n : boolean array; chillax end

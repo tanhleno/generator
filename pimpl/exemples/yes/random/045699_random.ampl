@@ -1,0 +1,1 @@
+program j : r : takes B710a : boolean returns boolean array m : boolean array; when case - lF8 and 7 or 6 > 593 - 6 : chillax end end main : s : boolean array; H51aa, Q, A : integer array; Hm, X : boolean array; chillax end

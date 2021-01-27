@@ -1,0 +1,1 @@
+program d : main : dI, l350a : boolean; N : integer array; Ro, p : integer array; E5 : integer array; while - 7 >= - (97) or 292 and 03 : chillax end; output - 8 + 557 - 91 < 3 - 0 . - 876 < 5140 . "" end

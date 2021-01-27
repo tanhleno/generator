@@ -1,0 +1,1 @@
+program M : foc : takes Ja, _8, O, B, s01 : boolean returns nothing do L8(- (030) and 54 - 3 - 61100, - 7) end f : takes I48 : boolean returns boolean array u, L2, la40a : integer array; chillax end main : chillax end

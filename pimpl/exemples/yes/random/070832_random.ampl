@@ -1,0 +1,1 @@
+program a1saa : main : B, b, L7 : boolean; A, R, i : integer array; tCg : integer array; G, YSmaa, Y9Sa : integer array; when case - not(48) and true + true or not 2 : chillax end otherwise : while 66 = 78 : let qh = 4; pop end end end

@@ -1,0 +1,1 @@
+program W : W7N : takes EPs0a, l : boolean array; L : integer returns nothing chillax end w : takes Y, Ro0 : integer; Y7, L1 : integer returns nothing Q9 : integer; do K(- 09 - 1) end g8sa : takes H : boolean; W : boolean array; Q : boolean returns integer Ge : integer array; chillax end main : input y[- 8]; input qFJ[N rem r and 16400 or(6) and 9]; pop end

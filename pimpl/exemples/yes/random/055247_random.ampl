@@ -1,0 +1,1 @@
+program MgS : O : takes Y : integer array; lj, g : integer array returns nothing chillax end main : jD : integer array; P, o, a, O2 : boolean array; input In2aa[- (106 = 7) + not(8) rem(4)]; while BS[31] : when case 502 : chillax end otherwise : pop end end; pop 59 /= 332; pop end

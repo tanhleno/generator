@@ -1,0 +1,1 @@
+program Cu : l5G0 : takes a, v, j2qa, b, c0, Q, O, G : integer array; G : boolean array returns integer array output "\">" . 5; pop end KN : takes Bq3a : integer; yQI0a : integer array returns integer input L[27] end main : P : boolean array; chillax end

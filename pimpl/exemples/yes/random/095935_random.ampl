@@ -1,0 +1,1 @@
+program bT1aa : main : when case - K(7) / false <= - false + 5 or 919 : chillax end otherwise : output 51 . 73; do Cvn(986, 68100) end; let a[- 34 / false and 81 - q] = - true and 841 or 29 - 3; when case - Y : chillax end case 47 /= 84 : chillax end case 20300 : when case 141 : chillax end end case 53800 : chillax end case 75 : chillax end end

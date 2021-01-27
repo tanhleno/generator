@@ -1,0 +1,1 @@
+program S : La : takes K : boolean array; Fd, B9 : boolean array returns integer chillax end main : g4 : integer array; H : integer array; input E[- (111 = 5) rem(749)]; when case false and(7) and 1 or false <= - 4360 and 5460 : chillax end end

@@ -1,0 +1,1 @@
+program F : U : takes q : integer; X, u : boolean; Z, M30, Pz : integer returns integer K : boolean; while _D and 67 >= 6 - 6 : chillax end end Hb0 : takes kcP0a, l : integer; T, S38, y : integer array returns nothing let ki = 9; do Jd30a(6, 7); pop 2 end main : input J6[v[6000] * (863)]; input y; pop end

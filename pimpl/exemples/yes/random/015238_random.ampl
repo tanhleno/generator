@@ -1,0 +1,1 @@
+program q : l : takes OS, B53, qz : integer array returns nothing chillax end main : Y41 : integer; o, n : boolean array; E : boolean; do z(false - 9 / S <= - (76)); do K(- not 02 > false and 0 - 5 - 8) end

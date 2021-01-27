@@ -1,0 +1,1 @@
+program B4 : kp70 : takes d, y5, O, Q : boolean returns nothing d8 : boolean array; u : boolean; F, JC, M4m : boolean array; C : boolean; J : boolean; do l6((55) and 2, - 9 - 1, 7) end main : Dc : integer array; chillax end

@@ -1,0 +1,1 @@
+program gI : x5B : takes z, Fz : integer; H : boolean returns nothing s, dE1, Cj, y1oaa, z : boolean; let iW[- 64000 or 2] = array - true end N : takes D, t, l, V0 : integer; b74aa : boolean array; QZVaa : integer array returns nothing m : boolean; e, lLkaa : boolean array; chillax end main : Q5, d16aa : integer; q, ZQ : integer array; L, x : integer; chillax end

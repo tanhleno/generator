@@ -1,0 +1,1 @@
+program d9 : r : takes F9, v, W6, T, M, F : integer array; it, b : boolean; FH, rm : boolean; J, LyOa, L, i : integer array returns integer array chillax end main : Fy3aa, c : integer; when case not x and false and not 90400 and 01 /= 99200 rem(0) : chillax end case - not b88 and jFz and 0 or not 9 and 0810 or 084 : let I6kaa = array 42 end end

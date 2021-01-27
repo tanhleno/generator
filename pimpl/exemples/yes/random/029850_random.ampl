@@ -1,0 +1,1 @@
+program W : P : takes ip, rY : integer array returns integer array iCt : integer array; chillax end main : while - not false or true rem false and 2 : let Q = array - 65 - 5; let ecl[22] = array 1; do c7i0(22700, 2) end end

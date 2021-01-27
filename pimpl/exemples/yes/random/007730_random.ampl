@@ -1,0 +1,1 @@
+program v : X : takes e, sao, k, v4 : integer array returns nothing _85, l, Aj : integer array; chillax end main : input zx[- 62 * true - (69700)]; output "" . - 1 - 738; do DGQaa(- Bu2aa or 5 - 96); while - 19500 - 05 : chillax end end

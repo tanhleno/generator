@@ -1,0 +1,1 @@
+program k : main : when case not false * not 5 / false and 5 + true : let M = array - 2910; pop 13500; when case 4720 : pop end case 50 : chillax end otherwise : chillax end; pop; pop; pop end otherwise : chillax end; pop end

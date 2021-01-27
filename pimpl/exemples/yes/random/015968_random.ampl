@@ -1,0 +1,1 @@
+program B0 : Y6 : takes Z, T67aa, B84a : integer returns integer array V : integer array; chillax end main : o : boolean; output ""; when case(2) or hN9 : input t[2]; input T; output "n6a"; when case 6 : chillax end end otherwise : chillax end; let W73[true] = array - true end

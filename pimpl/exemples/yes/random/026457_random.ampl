@@ -1,0 +1,1 @@
+program D0 : pH : takes L8, n : integer; s3 : boolean returns nothing output "" end P2c : takes V : integer; I, sX, W : integer array returns boolean q : integer array; while 53 - 6 >= 4 : chillax end end main : when case - 756 and(7) or true - 3 and 23 >= - not true or z + 851 - 64700 : chillax end case - not t and not 132 and 175 : chillax end end

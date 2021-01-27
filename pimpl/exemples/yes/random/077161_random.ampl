@@ -1,0 +1,1 @@
+program M1D0a : main : v660, n : integer array; b1, jG, N6, QS : integer array; while - false / not false rem true and 4 - true rem false and 86 - false and 7 - 44200 /= (64) rem D - true or 1940 : pop 73 = 8; pop 7; output ""; pop; when case 00 : chillax end end; while false or not 12000 and 5 >= false and 85 : chillax end end

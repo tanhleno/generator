@@ -1,0 +1,1 @@
+program I : main : output - 9 and 44800 and 2 or(60100) and 6 or 77 <= - l . - not 707 . ""; when case - (6) + (4380) > (879) and 23 : while 71 : chillax end; when case 4 : chillax end otherwise : chillax end; while 87 : chillax end end otherwise : pop 0 end end

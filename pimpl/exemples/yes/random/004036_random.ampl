@@ -1,0 +1,1 @@
+program djP : c2k0 : takes n, o, U8, T, d : integer returns integer N : boolean array; chillax end SJ8 : takes c : integer; uCp, L, b24, B : boolean array returns integer z : integer; K7Jaa : integer array; a4, i : boolean; chillax end main : input Ll end

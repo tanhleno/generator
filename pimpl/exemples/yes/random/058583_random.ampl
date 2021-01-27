@@ -1,0 +1,1 @@
+program z4 : tDs : takes W : integer array returns integer array chillax end L : takes aL, u5, Q : integer array; O39, i7 : boolean array returns nothing p, k9, Xn, rdw0 : integer; chillax end E2 : takes u : boolean array; m4, H7_0 : integer array returns nothing while 09000 = 18500 : chillax end; output "" end main : chillax end

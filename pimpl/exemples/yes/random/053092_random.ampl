@@ -1,0 +1,1 @@
+program w5k : S : takes Nq : integer; z : integer array returns nothing when case - D and 29 : chillax end case - 08 - 5 : chillax end; let nJ4[5 - 7] = 55800; let P = 97 end main : j : boolean array; chillax end

@@ -1,0 +1,1 @@
+program E : Z : takes p : integer array; k, J : boolean array returns nothing B25 : integer; chillax end main : k : boolean array; p, M, G8, D5 : integer array; T4, K, I6, V, JB : boolean array; C07 : integer array; while - 6090 - 3 or true /= 45 : chillax end; pop false and 2 + 29 - 07; while - D2n and 3600 : let DN = array 366; output "T" end end

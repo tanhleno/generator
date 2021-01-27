@@ -1,0 +1,1 @@
+program b : g : takes cq9aa : integer array returns nothing when case - 4 or 612 - 7 : do K(95, 1); when case 7810 : chillax end; do r(9); pop end otherwise : chillax end; output 6; while 6 : let j_ = 04500; pop end end main : chillax end

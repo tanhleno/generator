@@ -1,0 +1,1 @@
+program Xz : y : takes a82a, b : boolean; j970a : boolean array; Y580 : boolean array returns nothing chillax end P1 : takes x3 : integer array returns boolean array chillax end main : Rb : integer; chillax end

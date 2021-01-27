@@ -1,0 +1,1 @@
+program L : H : takes e : boolean array; B : boolean array; T1, L : integer array; T3A : boolean array; j : integer returns nothing dEl0 : boolean; chillax end main : when case aam(96, 4) : output 776 = 4 . 65 . 4; when case 8 : chillax end case 04300 : chillax end end; let hzi0 = - 5 and 730 or 6 end

@@ -1,0 +1,1 @@
+program QZ : pe : takes l, x4 : boolean; H, a : boolean array; M18, M5x0a, f4 : boolean returns nothing chillax end main : oWg : integer; f : boolean array; Xm : integer; let C[- true] = array - vo[8] and false and e31aa and 7 - (0) and not 8370 end

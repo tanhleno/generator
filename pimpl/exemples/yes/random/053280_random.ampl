@@ -1,0 +1,1 @@
+program i : Cs7a : takes Z2 : integer; Z : integer returns nothing JD, y, L0, k : boolean array; pop - 5 - 63; when case 31 <= 98 : chillax end end main : let R8Naa[(373) / false * not 8 and 82 - X18[6] - (45) and 2 + 46 - 05] = array 52 end

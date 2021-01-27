@@ -1,0 +1,1 @@
+program DB5a : r : takes w, r780 : boolean returns nothing K3L : integer array; q4, Ig6, W09, u5 : integer array; chillax end j20a : takes a : integer returns nothing t5, H : integer; sm : boolean array; P, syL : boolean; z : boolean; let m2[60 - 6] = 01 = 4 end main : Z3, Ah, G : boolean array; S : boolean array; pop - true rem(8) and 3 + 37 - 811; input a end

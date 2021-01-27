@@ -1,0 +1,1 @@
+program W49a : main : S86aa : boolean; Qib : boolean array; a, P : integer; ZX : integer; I : boolean; do x(- not false / not _Q, - true rem not 50100 and 5 - R + 9 > - (26800) or 61 - 5, false - 86300 - 242, - 43 < 6); output - true and 5 . "" . 531 end

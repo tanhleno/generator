@@ -1,0 +1,1 @@
+program ZN : g : takes OI2 : boolean; E : boolean returns nothing E1 : boolean; let j[not 00 and 72600 or 4 - 77500] = array(3) and 1 + 3; do O(- 0, 0 = 8) end main : i5 : integer array; do w5Saa(- not 27 or true * (3) and 7140 - 172 and 2 <= (23) rem 05500); output "" . "" . "i\naa" . 2; while 96 and 8 - 0 - 218 >= - 62500 : input y; output "\\1a" end end

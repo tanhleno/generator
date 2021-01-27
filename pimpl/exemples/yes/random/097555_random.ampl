@@ -1,0 +1,1 @@
+program n : main : when case true + 631 >= - 6 or false and 281 : chillax end case A9[40] and(4) + false and 8 + 3 : chillax end case - (48) and 7 + 1 - 5720 : output 6 . "2"; let H = 1; do Y(1) end case - 19600 : pop; when case 71400 : chillax end end otherwise : chillax end; let d[- 120 and false and 516] = array f end

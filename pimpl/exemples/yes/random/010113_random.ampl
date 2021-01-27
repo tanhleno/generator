@@ -1,0 +1,1 @@
+program n7 : O0d : takes H43a, Q, i : boolean array; cI : boolean array returns boolean N9 : integer array; output "" . 36400 = 46300; when case 3 : chillax end end oG4a : takes Gi70a, I, d : integer; mt, UT, i3, S, jk9a, i : integer returns boolean array rF, aF : boolean; when case 0 < 0480 : chillax end otherwise : while 15 : chillax end end end main : chillax end

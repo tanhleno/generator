@@ -1,0 +1,1 @@
+program V : main : input Y; when case - not true : let l[25] = array 5; do q520(98, 5); input X; while 1 : chillax end end case(8) or 410 : when case 92 : chillax end; when case 340 : chillax end end otherwise : when case 4 : chillax end; let a = 74; do s(0) end; pop; pop; let w = array 9; input Je; when case 3 : chillax end; input xg0 end

@@ -1,0 +1,1 @@
+program C : x76 : takes N, y, E6, G : boolean array returns nothing output "$"; while - 0 - 5 : output "9" end; do s25(51 = 7) end I6 : takes L : integer; s, h2 : boolean; R : integer array; e : integer; T4, ue : integer array returns integer array do h(4, 6 = 549); input D7[31] end A : takes CT : boolean returns nothing pop 9 end main : chillax end

@@ -1,0 +1,1 @@
+program F : n : takes b1 : boolean returns nothing input g; let r8 = 8 = 997 end main : Lg, i : integer array; B : boolean array; let x8[- (1 = 6) * (47) - not 94 rem false and 688 or true and 41300] = true > - true; input zu; let l = array Vaxa or 43000 - 8 end

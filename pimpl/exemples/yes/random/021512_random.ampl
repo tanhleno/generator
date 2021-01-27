@@ -1,0 +1,1 @@
+program q : a8 : takes a5D, _Z : boolean array returns integer array when case - false and 2 = - 9 - 24100 : when case 07 : pop end case 3860 : chillax end; input Qr; while 4 : chillax end end otherwise : chillax end end main : while - 135 rem(5) / 44 - 5 < - R870a + false : do E310(- 268, 3, 6, 0) end; pop - 76 and 8 + 0 - 1; when case - (0) : chillax end; pop end

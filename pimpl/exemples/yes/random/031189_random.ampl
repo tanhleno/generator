@@ -1,0 +1,1 @@
+program I65 : Q : takes qZ, S : integer returns boolean array chillax end FZ : takes iD0 : integer array; o : boolean returns integer array input S8K; do C(7, 55600) end OD2aa : takes MV8 : boolean; y98, D9, Ll90 : boolean; m5Paa : boolean returns nothing output "?"; pop 15; let ZO60a = 9; do O040(27) end main : _8, G : boolean array; input fT8 end

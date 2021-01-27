@@ -1,0 +1,1 @@
+program X7 : PVD0a : takes H7, XM, cpa, Q, hY, F2r, q9 : boolean array returns nothing chillax end U : takes Wd : boolean array; Q, N, X, O9D, M84, T : integer returns boolean array pop end z4f0 : takes dk : boolean; hn, b2K0a, w : integer array returns boolean array P50 : boolean array; chillax end main : chillax end

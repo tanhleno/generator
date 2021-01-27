@@ -1,0 +1,1 @@
+program K57a : s : takes U : integer array; q, Q : integer array; NG : integer array returns integer array X : integer; while - (47400) and 107 <= - 0 - 8550 : do Qt(54, 4) end; when case 56 : do L42(756) end case 7 : chillax end; pop 71; do qj(70000, 7); do U(88) end main : qR : integer; W : integer array; B6b0, g84a, l : integer array; chillax end

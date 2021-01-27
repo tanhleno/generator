@@ -1,0 +1,1 @@
+program BqO : T4p0a : takes SF4, i7 : integer; r, y, mH : boolean; XK, U, e, OQ, x, D : integer returns nothing c6m, P, YJr, c, E : integer; P : integer; input BB end D : takes l33aa : integer returns nothing N : integer; when case 3140 = 808 : input p end; pop 2; do w25(3, 9) end main : Q : boolean; chillax end

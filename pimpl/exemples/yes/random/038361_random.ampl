@@ -1,0 +1,1 @@
+program d9x : E : takes v : boolean array; U97, I7La, Q : integer array returns nothing I, D10 : integer; S : integer array; Q, D, S6 : integer; Q : boolean; q5p : boolean; W : boolean; chillax end V_ : takes u, Y : boolean; W000 : integer returns boolean I27, bKo0a : boolean; let ip = array - 7 - 5; input Z5 end main : chillax end

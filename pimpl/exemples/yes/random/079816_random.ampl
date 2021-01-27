@@ -1,0 +1,1 @@
+program Xx_ : main : i : boolean; CB : integer array; while 999 rem not kY - (646) - y + 9750 : pop 6 = 3; pop 84700 end; do p(true or not 3 and 62 > - 53 and 43500 - 09 - 4, - hl and 588 >= 15); do o(l and 0 - 1) end

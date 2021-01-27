@@ -1,0 +1,1 @@
+program P56 : a0 : takes D0, Om, F86, Z : integer array; tg, i060, _ : integer; z, b : integer array returns nothing J, D : integer array; chillax end main : t0, T, d0E : boolean array; A : integer; W, d, I : integer; do g(- (0 = 8) / (06) rem not 4 = true * (2) - c + 08 - 2) end

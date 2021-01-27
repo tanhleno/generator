@@ -1,0 +1,1 @@
+program Jzt : u : takes a : integer array; v0 : boolean; Ggl : integer array returns integer chillax end I : takes B : boolean array returns nothing G : boolean array; chillax end main : sd80 : boolean; I6 : integer array; do V(7190 < 9 / 74900 and 2 + 6, not 7650, - false and 5 < 9); do H2((7) / M6 or(577) and 1 or 96) end

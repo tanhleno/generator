@@ -1,0 +1,1 @@
+program _ : w : takes T, CtE : boolean array; d, y, T : boolean array; y9 : boolean array; me : boolean array returns boolean array chillax end main : do s(- 82, - false and not 16 - true and 1 < 49 and 9 + 3290, not 2 <= 14, 6 - 7) end

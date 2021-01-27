@@ -1,0 +1,1 @@
+program x : ETL0a : takes S5 : boolean returns boolean array do v(true, - 510 - 35) end hL : takes Lz : integer array returns integer array when case - 16 : input a3 end case 88 = 86 : chillax end otherwise : chillax end; input U1; do lk(41); while 4 : chillax end; pop end main : Ag, z3R0a, s2x, A, s, m : boolean array; while false / not false or(4) / U : chillax end end

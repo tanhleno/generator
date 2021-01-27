@@ -1,0 +1,1 @@
+program J16 : V : takes T, g, Ip3, _, bq0, J80 : integer array; zeAaa, U : integer array returns boolean array c0 : integer array; chillax end b8 : takes Q9S0a : boolean array returns boolean V, x010a : integer array; g7Ka, u, BZ2 : integer; when case - 73 - 507 : let J1 = 2; do Z(408); pop end otherwise : let zf = 0; pop end end main : chillax end

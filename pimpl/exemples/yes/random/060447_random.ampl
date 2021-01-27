@@ -1,0 +1,1 @@
+program kG7 : NY : takes ddY : integer array returns nothing z5, e : boolean; chillax end ic : takes d : boolean; K : integer array returns boolean array do E(- 69, 3150, 4710) end p6Baa : takes e1, pds : integer returns nothing v8K : boolean array; let s = 1 end x3la : takes jIm0 : integer array returns boolean array y : boolean; h5x : boolean; chillax end main : chillax end

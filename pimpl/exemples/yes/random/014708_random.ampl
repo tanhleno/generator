@@ -1,0 +1,1 @@
+program FN3 : q2 : takes T, x, C : integer array returns boolean array _ : boolean; chillax end main : MFia : integer; do FB7(- false - xN8a[28] - not 02 and 08 <= (304) and true); pop 461 and 64400 - 89300 - 1; do sg5(- false and 26 - 6 - 28 < 7); while 50 - 32 : chillax end; let g9n[17200] = 68 end

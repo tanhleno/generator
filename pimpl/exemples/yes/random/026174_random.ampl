@@ -1,0 +1,1 @@
+program v85aa : Zu0 : takes jl, O : integer; q : boolean array; ul8a : boolean; F, V : integer; G : integer array; M6 : integer array; P : boolean returns boolean array B : integer; U, g2 : boolean; _, K39 : integer; Q, s : boolean; F05a : boolean; chillax end main : pop; while - not true / 09900 and 5 : chillax end; pop - 2 end

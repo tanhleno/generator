@@ -1,0 +1,1 @@
+program U19 : _S0a : takes B : integer array; d, J65aa, w : integer array returns nothing let V7 = array false and 9 + 3470 - 13; when case - 7 - 0 >= 8 : while 86 : chillax end end case 2 = 63 : pop end case 8 : pop end end l7g : takes EGd, n : integer array; Z4 : boolean returns integer gkqaa : boolean; P5 : integer array; chillax end main : pop end

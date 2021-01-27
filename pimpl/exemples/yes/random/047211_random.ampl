@@ -1,0 +1,1 @@
+program Q5 : h3 : takes p : boolean returns integer S : integer; N960 : integer; input D[- (9)]; when case - 2 >= 986 : chillax end otherwise : chillax end; output 1 . 39 end main : p, Jm3aa, L, SpL0a, QZ, t : integer array; s, H9E : boolean; N : integer array; D, K, n53, R : integer; chillax end

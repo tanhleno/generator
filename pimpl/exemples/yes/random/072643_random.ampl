@@ -1,0 +1,1 @@
+program sj : main : Y, n0, EK9 : integer array; B9, Dx, w, L, U9maa : boolean; when case false and false rem 0 >= - false rem true : chillax end otherwise : chillax end; let f5[- false and(37) and 4 + not 857 and 4490] = 87 >= - 2 - 972; do M(not 2 and 5, - 0 - 5 >= 65000, 9 = 6, 9); output "\n8"; let Z6 = 5 end

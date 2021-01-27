@@ -1,0 +1,1 @@
+program O : w : takes b, S22aa, g3 : boolean array returns integer array do n12(- true and 59) end o : takes j : integer array returns nothing zYhaa, P7, KF60 : boolean; chillax end pj : takes R59, e : boolean returns nothing chillax end main : when case - false rem lOF(8) - 76 rem false and 25 : chillax end case Yp * 8 + i79 + 84 - 1 : chillax end end

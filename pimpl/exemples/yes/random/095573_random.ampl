@@ -1,0 +1,1 @@
+program n : main : when case - (4) / A48(581) + not(54) / 504 : when case - 7 : chillax end otherwise : input U63; pop end; pop; do l(4, 0590) end case - (7) rem false + (855) and 9 or 028 : input E[2690]; when case 1 : pop end case 3 : chillax end end end

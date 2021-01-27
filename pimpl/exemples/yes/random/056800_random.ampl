@@ -1,0 +1,1 @@
+program B730 : z : takes mn : integer array; e0h0a : integer array; p2, B630a, l, d, a, g : integer array; C : integer returns integer chillax end GV : takes ik : boolean array returns nothing when case - 5 : chillax end end main : chillax end

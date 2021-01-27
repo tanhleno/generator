@@ -1,0 +1,1 @@
+program AC : yYNa : takes _, v8, B : boolean array; u4, R9 : boolean; a, IO, B : boolean array; m460, CT : boolean; G3, C, j, A : integer array returns nothing b : boolean; chillax end main : chillax end

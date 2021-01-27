@@ -1,0 +1,1 @@
+program X9 : r0 : takes b : boolean array returns nothing cl80, Bz, N : boolean array; when case not 7 - 8 : chillax end; do A2(- 7 - 99 = 01); while 0 : output "" end end main : do P(47 * 26000 rem false and 95); do X6M(- (4) - (58), not 8 and 064 >= - 94, - 3, 2, 5); while true or 79 : chillax end; when case - 551 - 6 : chillax end; input K end

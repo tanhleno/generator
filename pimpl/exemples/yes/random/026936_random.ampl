@@ -1,0 +1,1 @@
+program Q : F : takes F, a24 : integer; D : integer returns integer t : integer; chillax end C : takes j, S : boolean; a43, k, Py5, U, S : boolean returns boolean chillax end v : takes a5 : boolean returns boolean array yy : integer array; g, dB0 : boolean; chillax end main : input p[o[6] rem IfZ] end

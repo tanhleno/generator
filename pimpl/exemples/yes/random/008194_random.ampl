@@ -1,0 +1,1 @@
+program C5V0a : p : takes Zm8, a46a, E, o2 : integer returns nothing chillax end main : w : boolean array; Ro3a : boolean; do Y(- cZ - true < - 3 - not 9 - 92500 - 0); output "\n]!a" . ""; when case - false : pop 0 end otherwise : when case 24 : chillax end; when case 31 : chillax end end end

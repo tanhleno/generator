@@ -1,0 +1,1 @@
+program I8 : nz0 : takes Y550, w23a, z : boolean; u2k : boolean array; j, Abka : boolean array returns nothing xyh, T0, z : boolean; chillax end main : while false or 0 and(7) and 7 or 55 + 869 - 1 : chillax end; when case w[29] >= z6 and 3 : chillax end end

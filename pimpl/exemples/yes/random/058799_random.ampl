@@ -1,0 +1,1 @@
+program M2zaa : L : takes T : integer array returns integer array V, Z : boolean array; pop 4 < 53 end bv : takes V : integer array returns integer array a, V : integer; let A = array 80 - 80 end main : g7, y, d : integer; Q : integer array; M0 : boolean; chillax end

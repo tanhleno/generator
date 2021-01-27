@@ -1,0 +1,1 @@
+program w : B8 : takes _X90a : integer returns nothing do O(true and 27 /= 2); when case 75 - 16 <= 989 : let cS = 74 end; do H2z(6, 6) end Q : takes r8, Vcy, hqL : boolean array; r, hI00a : boolean array returns nothing K : boolean array; J, S : integer; chillax end main : chillax end

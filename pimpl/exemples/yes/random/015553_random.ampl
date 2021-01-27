@@ -1,0 +1,1 @@
+program a5 : NF7 : takes w7, s, f : integer array returns nothing let b = array - 0 and 2 - 73 end main : do g(- u[06900] rem not false rem 94 and 69 + 0 rem 025 and 68 > not true / 9); while - true < not 41 and 69 : output "" end end

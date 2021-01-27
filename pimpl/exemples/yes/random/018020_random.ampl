@@ -1,0 +1,1 @@
+program t : c100 : takes w, wr6 : boolean; c : boolean returns integer let Z[not 2 and 2 + 390 - 6740] = array not 3130 and 591 or 23 - 38; do L93(14); output 7 . ""; output 8 end p : takes q23, f, ik : boolean array returns nothing U, S : integer; _34aa : boolean array; let c800 = 21 end main : output ">c!"; input d end

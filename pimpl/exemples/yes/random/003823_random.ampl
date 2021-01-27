@@ -1,0 +1,1 @@
+program y3 : t : takes g4q, s3, Y050a, Zz, Nv : integer array returns nothing do iCW0(- false - 295, - 7 - 9820 > 75, 4 = 7, 8); input W7; input Vv1a end x6 : takes S5Z : integer; N : boolean array returns integer array M : integer; output "mB" end Wx : takes a8, J, t, z, G, _620 : integer array returns integer array do m(3 = 89) end main : C : boolean array; pop end

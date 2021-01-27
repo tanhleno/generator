@@ -1,0 +1,1 @@
+program N : p : takes Y, m : integer returns nothing chillax end main : wO : integer array; ja, TBl : integer array; output ")\"\"a" . not 8 and 03 >= - 3 - 8600 . - 4 = 117 . 5 = 88 . 7; output ""; do d(- a880a and 5 >= - 7) end

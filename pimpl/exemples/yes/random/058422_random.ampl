@@ -1,0 +1,1 @@
+program XV : K430a : takes W : integer array returns boolean m : integer array; chillax end Y : takes _9 : integer array returns integer G, Qr50a : boolean; chillax end main : input W; let U = - a8 and 5 or 3 - 83 end

@@ -1,0 +1,1 @@
+program e60 : smE : takes O, e : integer; E : integer; b : boolean array; B2b, pz, u, Um60a : integer array; mt0, Sl70, x : integer array; C, R7, pJ : integer returns integer Bk4 : integer; chillax end main : chillax end

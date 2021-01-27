@@ -1,0 +1,1 @@
+program Y : j : takes uk, ti5, yF8, X2Maa, HU : boolean returns nothing chillax end main : cw5, I, i : integer array; A6L0, N5 : boolean; yo2 : integer array; while - false < 2670 / false : chillax end; while 34 rem not 5 and 0 : chillax end end

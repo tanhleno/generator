@@ -1,0 +1,1 @@
+program u : B : takes BIH0, A09, KJ9a, _, u020 : integer array; I, Zp, p : boolean returns boolean array chillax end main : M, Q, i, N : boolean; R, GV, x, R : boolean array; when case - A4p0(6) or(4) < - true and r and 35 or not 30 : chillax end otherwise : chillax end; output S <= - 5 end

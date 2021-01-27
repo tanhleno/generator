@@ -1,0 +1,1 @@
+program Z37 : main : when case false - C[4] + (1) and 5 <= 1 * true and 851 : when case - 315 <= 22 : chillax end case 53 = 03 : chillax end case 5 : pop end otherwise : output ""; pop end; when case 33900 : chillax end case 7 : pop end case 4 : chillax end otherwise : pop end end; let Y = array Y0(0) - (18) and 9; pop end

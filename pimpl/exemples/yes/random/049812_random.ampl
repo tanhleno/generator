@@ -1,0 +1,1 @@
+program N340a : mO00a : takes Q : integer; w2, v, x : boolean; S : integer array returns nothing N, U9k : integer array; n, G, l : boolean; p1 : integer array; chillax end main : r76a, Fbr, x, s2, L, ns1 : integer array; while - true / false * (563) and 6 : chillax end end

@@ -1,0 +1,1 @@
+program i : k : takes k, g4 : integer; a : boolean array returns boolean array output 3 - 5 . "5J" . 4 end main : V, H5 : integer array; when case - N(051) rem(4270) and 4 and 5 or(167) and not 83 and 2 : let U[- 773 - 599] = array - 2 - 52100; while 84700 : chillax end end end

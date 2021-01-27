@@ -1,0 +1,1 @@
+program z : g : takes x : boolean array; R9 : boolean array; e : boolean; C4, ZI30, V : integer array returns nothing input eAta end Hz : takes x, ZFN : integer array; P, VN1, r : boolean; j : integer returns nothing chillax end main : output "R5\""; while - _8 * not 2 : do S(6 = 5) end end

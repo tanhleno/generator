@@ -1,0 +1,1 @@
+program X1 : b : takes J, Z : boolean array returns nothing b, S : integer; pop end s9 : takes Xh2 : boolean; z99 : integer array returns nothing pop; output "4" . 6; while 5 : pop end; while 2 : chillax end; pop; pop end main : input j[y5haa - not false] end

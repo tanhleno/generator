@@ -1,0 +1,1 @@
+program u : _ : takes C : boolean array returns integer chillax end i : takes Qo4, _ : integer returns boolean array do v(0); output "\t7" end main : L : boolean; V, YP5, t, sGb0a, A, I9 : boolean; chillax end

@@ -1,0 +1,1 @@
+program J : T : takes z5 : boolean array; y : boolean array returns integer rX : boolean array; LE : boolean array; A570a : boolean; n, D07 : boolean; e8 : boolean; Q : boolean; chillax end main : W : boolean; g, f : integer array; a3 : integer; pop - false - (22) + 5 - 592 <= - B4r and 2330 or 2 - 3; output "\"" . "" . 318 . 431 . 50 . "\\E" end

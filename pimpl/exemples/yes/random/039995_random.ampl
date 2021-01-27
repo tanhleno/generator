@@ -1,0 +1,1 @@
+program W9 : jx10a : takes _Z : boolean array; W : boolean array returns boolean array chillax end eN : takes E9, H : boolean; l : boolean returns nothing while 97 : chillax end; output 3 end main : when case - (1550) rem false and(5490) and 3 + not true or 06 or 45600 <= - _[0] or 088 : let Y7x0a = 4 = 3280 end otherwise : while 3450 : pop; pop end end end

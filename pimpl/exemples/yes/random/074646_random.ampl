@@ -1,0 +1,1 @@
+program W4 : main : mP, f : boolean array; zk20, r, K1i0, Q : boolean array; output not H . - false and 8 + 5 /= 0 - 15500 . "50"; when case 5 rem not 1540 and 00 or not 00 and 50 + 9 > - true : input L1o end case(4960) and 39 > 1 : chillax end otherwise : chillax end end

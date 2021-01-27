@@ -1,0 +1,1 @@
+program r0 : main : j9 : boolean array; R, i39a : integer; S, aQ : boolean; Mz, m : boolean; let x = - es9[03] and o3 - s or 9; input jKd; when case - F9d0 and 27 - 25 >= - 5 - 83400 : chillax end otherwise : do J(2) end; pop end

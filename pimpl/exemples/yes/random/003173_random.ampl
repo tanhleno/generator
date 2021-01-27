@@ -1,0 +1,1 @@
+program QKA0a : t : takes W, J, o, j, TWo : integer; N, V : boolean; E0l0a : boolean returns boolean tX : boolean array; z : boolean array; h7, w, w3S : integer array; g : boolean; chillax end main : chillax end

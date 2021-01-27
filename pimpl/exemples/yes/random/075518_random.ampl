@@ -1,0 +1,1 @@
+program K65 : main : vf, p : boolean array; output K or 2 and 73 - 397 - 8 > not 4 - 20; pop; when case false : while 38800 : chillax end; while 7 : chillax end; pop end case - 4 /= 6 : do TJ(0610); output "}7"; pop end case 95 = 018 : chillax end; input h[09] end

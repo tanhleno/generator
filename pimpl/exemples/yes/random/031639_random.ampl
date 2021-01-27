@@ -1,0 +1,1 @@
+program A0I0 : Op : takes Z1, ph : integer returns boolean input O720a end tu20 : takes Y2b0a, H, L5p0, kLeaa : integer returns integer let V = 4 end Y : takes o0 : integer array returns nothing s : boolean; b, Y : boolean; UF : boolean; y650a : boolean; pop 490 end main : pop end

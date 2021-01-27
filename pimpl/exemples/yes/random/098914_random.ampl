@@ -1,0 +1,1 @@
+program C : main : while - true - 54 < not 3 * true : chillax end; do k(J330(5) /= - 82 and 1330 or 33 - 162); input v; when case - 885 >= 323 : when case 59 : chillax end; output "" end case 3 = 06 : output "" end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program f8 : x : takes t, FJJ : boolean; r50 : boolean array; m090 : boolean returns boolean array M : boolean; LG : integer array; C, b, O : boolean; chillax end m : takes P0I, i2o, SJ, G : integer array returns boolean chillax end yk : takes T, H : boolean; f, PWDa, U, yh : integer; b : boolean array returns nothing chillax end main : chillax end

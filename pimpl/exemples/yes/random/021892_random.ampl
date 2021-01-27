@@ -1,0 +1,1 @@
+program U : Y : takes Kr5, P45 : boolean array returns nothing chillax end n43 : takes c : boolean; x, E : boolean returns integer _ : integer; P : integer; Y21a : boolean; output 2 = 4 end main : chillax end

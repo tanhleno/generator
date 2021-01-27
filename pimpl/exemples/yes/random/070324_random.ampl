@@ -1,0 +1,1 @@
+program bc : main : p, _2, vo6, k56 : integer; pop; pop false and 961; when case true /= - 449 - 22 : chillax end case 6 : chillax end; when case - 636 - 46500 <= 7800 : chillax end case 601 : chillax end case 8 : pop end otherwise : chillax end; while 59 : chillax end end

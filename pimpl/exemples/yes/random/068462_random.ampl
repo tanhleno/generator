@@ -1,0 +1,1 @@
+program q4 : main : w, N0Sa, j, Q, N, fK : boolean array; pop - false + 4 and 1 - 3; when case - V2[3] rem true and 0 or lS4 and 1200 or 0 - 0 : pop 18; do L(5090, 8); when case 8 : chillax end; do s12(66) end otherwise : chillax end end

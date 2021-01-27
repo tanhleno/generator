@@ -1,0 +1,1 @@
+program O5M : p : takes L, Ly, u, Z78aa : integer returns nothing g2x, P, p1 : boolean array; when case(9350) or 4750 - 9 = 0 - 4 : when case 1 : pop end case 54 : chillax end end otherwise : chillax end; pop end c : takes Vw, M2, MoQ, I6, z : boolean returns nothing C, r8 : integer; chillax end main : i, eQ, O6, y24, KGV : integer; input _ end

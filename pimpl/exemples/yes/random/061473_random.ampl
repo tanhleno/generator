@@ -1,0 +1,1 @@
+program l : Y : takes P1 : integer array returns nothing pop end I8 : takes k3 : boolean returns integer cS60 : boolean; chillax end s : takes E5, g, E3, T70 : integer returns nothing w : boolean array; input P2[0] end main : C : boolean; p, c, E, J, D, M9T : boolean array; chillax end

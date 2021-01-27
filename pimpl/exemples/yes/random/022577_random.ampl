@@ -1,0 +1,1 @@
+program EG : i : takes Q0, z9 : boolean array returns nothing X : integer array; KGt0a, z7Ia, y : integer array; E, QN, aFM0a : boolean array; t, e2 : boolean; chillax end main : do hp9((6)); input N78[(75)]; while false : chillax end end

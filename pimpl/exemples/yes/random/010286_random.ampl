@@ -1,0 +1,1 @@
+program Q8 : P : takes Fy, JS5, w : boolean array; _ : integer; fLHa : integer; q6, J : integer; ut, M : boolean array returns integer array output "\\" . 294 = 778 . ""; while 60000 <= 9 : chillax end end main : chillax end

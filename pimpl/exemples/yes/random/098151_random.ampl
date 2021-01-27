@@ -1,0 +1,1 @@
+program L : main : while - false + not true - false or 2 < - not true rem t and 6 : do I1(- 9, 18200, 17, 2) end; while true or not 833 and 71 + 7 - 53 < false + 8 - 5 : chillax end; let P3[- not 3 and 5 + 19] = array - (2) and 0 or 8 - 780 end

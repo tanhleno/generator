@@ -1,0 +1,1 @@
+program F9 : Pt : takes z, p : boolean array; v41a : integer returns nothing output 34 - 411 <= 2840 . "D"; input I660a[787 - 7] end main : _, N, B : boolean array; uo : boolean; when case - true or false * 475 - true or 6 - 85 : chillax end case true / not 14 - false and 8 or 1 - 1 > not 91 and 266 + 84 : chillax end otherwise : input lD end end

@@ -1,0 +1,1 @@
+program qvo : _Y : takes ncB : integer; M : integer array returns boolean array pop; input r[- 90800 - 87]; while 6 : do t(726); pop end; let j = array 9; do K8(7) end main : Qc3aa, w, p1 : integer; p, F0r : integer array; a, C38 : boolean array; Tknaa, n : boolean array; output - true - true . "" . ""; output - not 879 . - 6; output - 91300 - 70500 end

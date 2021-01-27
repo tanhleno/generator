@@ -1,0 +1,1 @@
+program GeX : main : Sg, J, u8 : boolean array; input GHI[true rem not f / rM or(5) + e and 4]; do u3(- (0) and(11) and 1 - true or 1, not 42 or 12 - 88 >= 6 - 73, - 25 - 5 = 0, 91 = 6, 406, 1520) end

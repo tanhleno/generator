@@ -1,0 +1,1 @@
+program L : Dm50a : takes k1, e, Q, G : integer array; c0, W, y, c6, x, p2, K : integer array returns nothing pop 24 >= 09 end d : takes M : boolean; v, N, U : integer; t, I, G, rG, bR40a : integer; VRma : boolean returns nothing C, u1Ia : boolean; chillax end main : chillax end

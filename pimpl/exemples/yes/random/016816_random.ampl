@@ -1,0 +1,1 @@
+program _75a : n060 : takes p, C91a : boolean; d, lR0, r550, u : boolean returns integer array chillax end Y : takes t : integer returns boolean array output "\\" . 591 . 00 . "" end main : Zs, A, O : integer; chillax end

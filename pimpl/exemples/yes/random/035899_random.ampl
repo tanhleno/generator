@@ -1,0 +1,1 @@
+program R : G : takes Pb9 : boolean; S9 : boolean array returns boolean when case true + 35 - 32 = - 28 - 200 : chillax end; pop 367 = 719; let k[7] = 208 end M : takes t8n : integer array returns nothing Mf1a, K, A : boolean array; chillax end X : takes zJ : boolean array; kC, m7f0a : integer returns nothing x03aa, iW, I : boolean; chillax end main : chillax end

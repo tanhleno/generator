@@ -1,0 +1,1 @@
+program rU : main : while - false * (900) or not a : chillax end; let qQd = array aG40a; input G6[- 93600]; output 3; while 62 = 3 : output "" end; while 84 : chillax end; while 7 : chillax end; output ""; pop end

@@ -1,0 +1,1 @@
+program g78 : Av1 : takes h6H, Z6, NV : boolean array returns nothing UJs0 : boolean array; h8, u, H3, YU : boolean; t : integer; k, GO2 : boolean; while - not 937 and 97 - 32100 - 25000 >= 26 - 4 : chillax end; when case 1 - 9 >= 9 : chillax end end main : do lm1(not true * Ti[70] * true); while - 066 * false or d and 84 <= - (6970) : do Oo(0) end end

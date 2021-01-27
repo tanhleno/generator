@@ -1,0 +1,1 @@
+program l : o3_ : takes dR, gOv, q6, wB : integer returns integer S8 : boolean array; chillax end main : Lv : boolean array; do sa(88 or I0m0a[59900] * 948, not(0) - (7), - false + 7 - 03900 >= 48, 1 - 7, 8570 = 48); let L[j[97]] = array true - (79600) - 10 end

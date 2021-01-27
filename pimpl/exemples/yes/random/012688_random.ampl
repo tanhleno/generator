@@ -1,0 +1,1 @@
+program A : M : takes l, knM, waV : integer; oz, jL, O : boolean array; v, C, r7 : integer; K : integer array returns nothing input e71 end main : N : integer array; while - not V(8) / true : when case 922 /= 6 : chillax end case 7 : do J(6); pop end case 0 : pop end otherwise : while 38 : chillax end; pop end end end

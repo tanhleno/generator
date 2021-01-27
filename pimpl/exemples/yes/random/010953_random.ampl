@@ -1,0 +1,1 @@
+program KL5 : JPi : takes A, f, S : boolean array returns integer k6o, u3La : boolean array; when case false and 1 + 88500 - 2 > - 9 - 899 : chillax end; do J(- 4390); input ZARaa; let k = 442 end main : pop end

@@ -1,0 +1,1 @@
+program GL : main : u : boolean; m, C51aa : boolean; when case - true + not Y1K / false : chillax end case - 1 /= true or 5770 : output 1; when case 7 : pop end case 4 : chillax end otherwise : chillax end end end

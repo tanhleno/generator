@@ -1,0 +1,1 @@
+program Y : x28 : takes E : integer array returns boolean Dt : integer; Ir, K : boolean array; O : boolean; while - true or 8 - 34 < 98 : input g90[52]; do n(38) end; let X1m = array - 5 - 4 end main : Bi : boolean array; chillax end

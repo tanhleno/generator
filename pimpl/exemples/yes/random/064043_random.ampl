@@ -1,0 +1,1 @@
+program d2 : Q : takes pT5 : integer returns nothing chillax end main : pop - 5 / 4 /= (9) or 396; when case - e(8) and 117 or 5 - 14300 - 24 : chillax end; let h[6 and 1 + 009 - 6] = array - not 65 and 34 - 23; do A(14 = 8); pop; do X(3, 14) end

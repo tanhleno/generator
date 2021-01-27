@@ -1,0 +1,1 @@
+program w : main : let T59[- true] = (2); pop - f5 + 25 - 775 >= 932; when case true + 45 > - 575 - 2840 : chillax end case 5 : when case 8 : chillax end; while 8100 : chillax end; pop end case 1 = 76 : while 29 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program o : zLP : takes D0e : boolean returns boolean L : integer; p : integer; do Qg((1) + 6 < 3); when case 4840 : chillax end otherwise : chillax end; output "" . 8 . "{"; input u[9]; while 67800 : chillax end end main : input f0[- E10(4, 7) and f * CH and 4]; let z7 = - Tx9 <= 301 end

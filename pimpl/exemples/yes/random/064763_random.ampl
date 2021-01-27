@@ -1,0 +1,1 @@
+program F0R : h : takes w2r : integer returns nothing Y810 : boolean array; chillax end E : takes v, xnL : integer; F : integer; T : boolean array returns nothing A : boolean; input t5[30]; output "" . "" . "" end main : o : boolean; chillax end

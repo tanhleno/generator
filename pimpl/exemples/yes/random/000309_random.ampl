@@ -1,0 +1,1 @@
+program E : cs : takes F, j, S, O, b, aG, Z7, gS0a : integer; I, k, Tk30a : integer; A27a, T_Jaa : boolean array; W6, V, rP : boolean returns integer Qb50a : boolean; a, t2 : boolean array; pop end main : chillax end

@@ -1,0 +1,1 @@
+program H : main : n : boolean array; M : integer array; aHAa, b7, Y : boolean; eb : boolean; output - false - 59 = not 87 and 4 + 5 . - 1220 and 7 - 38 = - 8; output - true + 32 - 7720 . 37 - 227 end

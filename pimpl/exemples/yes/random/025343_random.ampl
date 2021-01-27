@@ -1,0 +1,1 @@
+program Z7 : V : takes Y, m : integer; x7R, z, e0 : integer array; Y, Km40 : boolean array returns nothing k : boolean array; input b0[true and 2610] end main : f : boolean array; while - (462 = 36) or F rem false and 2 or(2) : let o5[- 9 - 163] = 0; while 07 : output ".^" end end; output - (73) and 0 > - 5 - 40 . - 4 > 64 . 61 end

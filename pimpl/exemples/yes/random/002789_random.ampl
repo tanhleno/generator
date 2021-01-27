@@ -1,0 +1,1 @@
+program h5 : u4 : takes Mi0, p8, H, V7Xaa, lK : boolean array returns nothing L8, k, ORn, X, n0 : integer; ce, m : boolean; yN : boolean array; input nK; when case 5 - 38 : do p(5780) end case 5 : do Vn(1) end case 8940 : pop end case 910 : chillax end otherwise : chillax end; let J = 1 end main : while true or H5 + true : chillax end end

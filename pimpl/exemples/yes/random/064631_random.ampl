@@ -1,0 +1,1 @@
+program g : M : takes O6 : integer returns nothing dm : boolean; chillax end f : takes Z, m, O2Y : integer array returns nothing when case 20 /= 3 : chillax end case 18 = 5 : output ""; pop end otherwise : chillax end end main : chillax end

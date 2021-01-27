@@ -1,0 +1,1 @@
+program T : main : B750, Q2 : integer; while - true * j(3) rem false and 1 : chillax end; when case - true - (0) and 9 > - 7 - 3960 - 77 : chillax end; do m9(- 27 and 94 /= - 3 - 9260, - 2); input C48aa[- 58900] end

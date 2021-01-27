@@ -1,0 +1,1 @@
+program R6Q0 : m0 : takes RV : integer array; w65, ym40a, rKv0a, g33, X8 : integer returns boolean c : integer; while - 3360 + 3 /= 690 : output 5 . "" end end d6z0 : takes U14, j7xaa : integer; Gi4, Xa : integer array; x3, pP, F, J, o7 : integer returns nothing chillax end main : chillax end

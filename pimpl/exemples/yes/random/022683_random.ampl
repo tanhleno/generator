@@ -1,0 +1,1 @@
+program fX9 : s60 : takes q5c, P0 : boolean array returns nothing let I[- E and 123] = array 4 + 9; input hnh[4 - 04] end i45aa : takes M, I : boolean returns integer while 3 - 25300 >= 6 : chillax end; do K4(483 = 1) end main : e3K0a : boolean array; chillax end

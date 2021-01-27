@@ -1,0 +1,1 @@
+program D : main : e20, RQ, HgAaa : boolean; e : integer array; ab, hz, sP, d : integer; D2, W : integer; when case c(8) <= not false / false : chillax end; let JL0a[true] = - N180 or 05 >= 1; pop; output "?" . "" . 3 . "" end

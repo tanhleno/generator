@@ -1,0 +1,1 @@
+program S : Y7 : takes v44aa, x, J5N, i, fL60, r : integer; w, _hJ0a : boolean; K, k : boolean returns nothing chillax end Q : takes lk8 : integer array returns nothing chillax end main : output u and 81000 and 77 + 2 and 38 - 875 /= - not 7 . "K/0" . ""; input xu[not(5730) / (44) and 47] end

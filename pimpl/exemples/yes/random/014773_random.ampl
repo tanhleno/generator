@@ -1,0 +1,1 @@
+program pI : z0 : takes Psk0, okV, Dql0a : integer array returns boolean chillax end z4 : takes H1, Jr, r : integer returns nothing Lr0aa, e41 : boolean; b, K, dcraa : integer array; d_V0a : boolean; pop end main : V : boolean; TS : boolean array; R : boolean array; t4 : boolean; chillax end

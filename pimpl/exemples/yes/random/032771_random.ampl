@@ -1,0 +1,1 @@
+program h : O : takes EA9, q6 : integer returns nothing x : boolean; while false + 65 - 7 <= - 225 - 56800 : input Db7aa[2]; pop; output "4;" end end F : takes s9, Msq0 : integer array returns nothing chillax end main : chillax end

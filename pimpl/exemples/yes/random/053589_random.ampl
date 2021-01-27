@@ -1,0 +1,1 @@
+program ZZca : z1 : takes MBTa : integer array; t8a, L58aa, cl, S, S : integer array; b9, OK3 : boolean array; mc, t : integer returns integer X : boolean; chillax end main : N1va : integer array; while - true : let v[- 22 - 7] = 9; pop 6800; while 0390 : chillax end end; while not not 8 / not 40 and 9 : let R4 = array 01300 end end

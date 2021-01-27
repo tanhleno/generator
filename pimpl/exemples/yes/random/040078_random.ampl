@@ -1,0 +1,1 @@
+program sy : ZDTa : takes X : boolean array; E2U : boolean array returns integer chillax end u : takes yL4, o9t : boolean; y9, o1 : boolean; J, m : boolean array returns integer output 1 . "\"" . 042; output 1; do U(80, 24); pop end main : z : boolean array; chillax end

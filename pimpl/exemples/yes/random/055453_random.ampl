@@ -1,0 +1,1 @@
+program GRa0 : A : takes hv : integer array; F : boolean; o, H4, x0, c, j, K91aa : boolean array; dT : boolean array; pl, U8E0a, Fs, X : integer array returns integer array input r[2 - 6] end main : output not(69400) rem not 611 and 49400 - not 7 and 74 + 6140; let r9 = array(7); let f3[true] = 9 = 3; let i[- 69 - 9] = array 1 - 884 end

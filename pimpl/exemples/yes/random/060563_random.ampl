@@ -1,0 +1,1 @@
+program Q : p : takes C26 : integer array returns nothing L, I : boolean array; pop; pop 96; let IZ = array 0510; let B[8] = array 2 end o : takes i : boolean; E : boolean array returns boolean array e8Zaa : integer array; Zz, j4 : integer; o2, xS : boolean; c1 : boolean; V : boolean; output "" . "S30" . 3 end main : chillax end

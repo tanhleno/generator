@@ -1,0 +1,1 @@
+program n : q : takes n : integer; Y, Q, w3, G, Qm : boolean array returns nothing pop end in : takes V7, cUw, BY : boolean; K, X47aa, c9, Q, gz : integer returns nothing chillax end main : chillax end

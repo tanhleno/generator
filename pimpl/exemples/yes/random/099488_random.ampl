@@ -1,0 +1,1 @@
+program M1 : main : while not Cy(0) * false <= 99300 / (9) and 09 : while - 4 - 025 >= 1 : chillax end end; let w[- true] = array false; when case - not 6 and 405 + 9 - 8 >= 34 : while 835 : chillax end end otherwise : chillax end end

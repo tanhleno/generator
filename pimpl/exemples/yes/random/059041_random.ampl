@@ -1,0 +1,1 @@
+program H : Fu90 : takes S : integer array returns integer array when case - V and 7 or 3 - 6 : when case 60 : chillax end; pop; do U25(59); pop end otherwise : while 8 : chillax end end end main : output "" . "\n" . "9" . 290 end

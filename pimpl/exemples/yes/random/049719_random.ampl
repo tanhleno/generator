@@ -1,0 +1,1 @@
+program g : N : takes i : integer; K, F86, Z, f73 : integer array returns nothing B4 : integer; x : integer; chillax end nL : takes c : integer; F, j : integer returns nothing Qf8, gi : integer; while - 80800 - 1 < 7 : chillax end end main : Z1 : boolean; w, WO : integer array; r : integer; chillax end

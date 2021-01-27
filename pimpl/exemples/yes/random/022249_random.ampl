@@ -1,0 +1,1 @@
+program Scf : FJ : takes q, W : boolean array returns nothing N, cs : boolean; input Q; input O end R : takes g9 : boolean array; b : boolean array returns nothing R, P : boolean; chillax end F7 : takes W4, A7 : boolean; r, Y, U, x5 : boolean array; E : boolean returns boolean c, p : integer array; pop end main : Ck : boolean array; chillax end

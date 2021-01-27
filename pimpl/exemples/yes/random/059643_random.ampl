@@ -1,0 +1,1 @@
+program R : Q06 : takes I : integer array returns nothing chillax end Eh : takes v8, g, f, AnZ : boolean; jom, _, d5T : integer array; XB : boolean; d : boolean returns integer L9, CF2, B35 : boolean; k : boolean; chillax end main : let Q[- (6) / true] = array - false - (0) end

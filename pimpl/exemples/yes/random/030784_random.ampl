@@ -1,0 +1,1 @@
+program Lc2 : v4 : takes O6, l : integer array returns nothing S : boolean array; KO0aa, o, p, Y : integer array; pop end main : z : integer array; Z3u : boolean; when case(51400) and not true * false and 208 : input w6z[03200] end otherwise : chillax end; while - w rem false + (4) + 54 /= - true or 2 : let PZ60a[37] = array 10; while 3 : pop end end; output "" . 88 . 2 end

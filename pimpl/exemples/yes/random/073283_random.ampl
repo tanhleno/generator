@@ -1,0 +1,1 @@
+program pB : main : j, D : boolean; do T(false - 3 rem 260 > false or not 9 and 8, - true / not 11 + true and 0 + 29 = h67 and 29800 or 37 - 7); while false * (428) >= - true : let Z = array 04700 end; let x = array(55) + 8 - 722; while 3 : output "" end; output 32 . ""; do S8(4) end

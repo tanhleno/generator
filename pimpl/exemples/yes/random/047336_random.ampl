@@ -1,0 +1,1 @@
+program t : E : takes S9R : boolean returns integer when case - (8) - 55 - 3 : while 994 : pop end; pop end case - 44 - 754 /= 7 : do p0U(2); output "" end; input F6[8 - 160]; while 04 : chillax end end main : chillax end

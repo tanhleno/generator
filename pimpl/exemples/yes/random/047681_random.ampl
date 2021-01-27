@@ -1,0 +1,1 @@
+program f : E : takes _w : boolean returns nothing chillax end main : Y, y : integer array; when case - true <= - uv[8] and(52) : do x(70 - 5 = 0, 6, 49, 5); input N; pop; let MB = 9700; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program G : H1 : takes g, G : integer returns nothing e : integer; chillax end main : _, Xf1, K, ws8a : integer array; C, Cy20a : integer; let m = false; when case(71000) and a : when case 689 : when case 0 : chillax end; pop end case 2 : pop end case 9 : chillax end; pop 390; do N(9); do FS(11) end end

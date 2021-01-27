@@ -1,0 +1,1 @@
+program XM : S73aa : takes x : integer array; BQ, miRa : integer returns nothing Pa, k140a : integer; h, _, i7, j : integer array; J34a : boolean; let H1X[- false] = 10 end _ : takes M : boolean returns nothing s, e, n : integer; do c(- 07 - 645) end main : chillax end

@@ -1,0 +1,1 @@
+program E1 : Uk : takes V32, zA90a : integer; S4r, e, v, P1 : integer array returns nothing chillax end main : when case - not uq(9) or(90) and not 0 and 4 : while 3440 = 1 : chillax end; while 58 : chillax end end case - false : do LsM(471 = 7, 7, 223); output "" . ""; while 8 : chillax end; input VR5; pop end end

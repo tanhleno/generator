@@ -1,0 +1,1 @@
+program Xn20 : gv : takes wY, z35 : integer; V : boolean array returns nothing chillax end main : while bTx[3] + 9 * false and 2 + s = - (59) : chillax end; do lp5a(- CU rem X and 3160 or not 4 and 958 + 08 <= - true); pop - 0 - 95200 end

@@ -1,0 +1,1 @@
+program wj : A : takes m, d : boolean array; p0q : boolean array returns nothing while - false > - 544 : chillax end; pop end M34 : takes Q : boolean array; M : boolean; b : boolean array; ST : boolean array returns integer array chillax end main : pop; when case - (4) * false or 8 : chillax end; pop - 65 > 9; input A; input J; do V(9, 542) end

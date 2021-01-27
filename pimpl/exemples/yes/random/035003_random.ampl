@@ -1,0 +1,1 @@
+program g17aa : G : takes T : boolean; u, q : integer array; l1 : integer array returns integer array fBh, FV, x730 : boolean; let Wb2a[- (2) + 95400] = array - 55300 or 4 - 25 end main : t : boolean array; pop - false >= - rM and 71300 or 82 end

@@ -1,0 +1,1 @@
+program G : a : takes D58a, Ou, oA, z : boolean; Kq9 : boolean array; yP2 : integer array returns nothing n : integer array; while - (1) + 8 <= 7 : output "" . ""; while 35 : chillax end; output "2&aa" end; input _[- 5 - 1030] end main : while not 16 + not true : while 668 - 6 : chillax end end end

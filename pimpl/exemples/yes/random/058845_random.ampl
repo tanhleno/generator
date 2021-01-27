@@ -1,0 +1,1 @@
+program ke60a : Q7 : takes p : integer array returns integer array L : boolean; I, B3uaa, M : integer array; output "" . "\\"; let h3 = array - 8 - 7; do j2(19, 8920); input WB end main : KDia, w0 : integer; g9, D, L4h0a, E, _ : integer array; mm, v : boolean; U, F360 : boolean array; chillax end

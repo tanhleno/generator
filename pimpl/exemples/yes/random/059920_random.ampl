@@ -1,0 +1,1 @@
+program PR : Z : takes C : integer array returns nothing chillax end main : _, I, L, x : boolean; S : boolean array; Gyd0, Z, muR, Q, AW : integer; Sa, UCv0a, J, o : boolean; c, D, z6 : integer; input _4 end

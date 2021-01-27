@@ -1,0 +1,1 @@
+program xCx : x : takes X : integer array; fwS, q56aa, r, i : boolean array returns nothing b : boolean; let _[not 0 or 873 - 244] = array 71 and 99 - 29 - 8 end VcNaa : takes M : boolean returns nothing chillax end ek : takes FV, V, C7 : boolean array returns nothing m : boolean; t, I : boolean; chillax end main : chillax end

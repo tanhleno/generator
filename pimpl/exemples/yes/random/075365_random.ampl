@@ -1,0 +1,1 @@
+program H : main : x, o : boolean array; Fu8 : integer array; while not not false - 6 or(8) and 303 : chillax end; let O5 = array - t + not 0 and 6 - 41100 - 7; when case false = 833 : let q010a = 0 end case - 711 - 68 : input n2 end end

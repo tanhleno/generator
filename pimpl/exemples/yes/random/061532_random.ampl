@@ -1,0 +1,1 @@
+program A : H1 : takes Z6A : integer array returns nothing when case - false and 226 >= - 5290 - 7 : pop 737; let g = 8 end otherwise : while 0 : chillax end end; when case 9 : while 36 : chillax end; do R(4); pop end otherwise : chillax end; pop end main : Q88, y : boolean array; g7, O, Y9, w4, h : boolean array; pop - false - not 11 /= 1 + 05700 end

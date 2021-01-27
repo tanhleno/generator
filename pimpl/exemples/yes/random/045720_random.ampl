@@ -1,0 +1,1 @@
+program Cpl : z0U0a : takes ry0 : boolean returns boolean array zx : integer; O, p2 : integer; w, F8P, mT6a : integer; j : boolean; c : boolean; output - 3 - 2; while - 8 - 15 : output "\n(" end end B : takes X7 : integer; H, O, Ni1 : boolean array returns nothing do L(8 < 6) end main : chillax end

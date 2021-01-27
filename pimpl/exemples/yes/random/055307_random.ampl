@@ -1,0 +1,1 @@
+program O : iV : takes i : integer array; a, U220 : integer returns boolean array u : integer; chillax end D4 : takes r : boolean array; a0, Y : boolean returns integer output 10 = 628 . 35 end main : chillax end

@@ -1,0 +1,1 @@
+program D : j12 : takes I : boolean returns boolean array T, uC : integer array; n, eg7, E, V : boolean; chillax end A : takes G9Na, I, bW, WY : boolean; Z5, l : integer returns nothing output 4 = 1 . "\t7!a" . 8540; let U8oa = 6 end main : chillax end

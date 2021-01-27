@@ -1,0 +1,1 @@
+program nYq0a : e : takes m, w : integer array returns boolean LDx0a, P : boolean array; m, K730a : integer; i : boolean; while(0870) and 156 : chillax end end main : input n[not true - true rem W1Pa and 94] end

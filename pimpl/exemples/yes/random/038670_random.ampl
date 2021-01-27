@@ -1,0 +1,1 @@
+program H : xM : takes y : boolean array; I49, S6 : boolean array; I : boolean array returns nothing w : integer array; S : boolean array; NR9, PD6 : boolean array; chillax end eC : takes R3k, o, t8 : boolean; o : boolean; a9, o : boolean array; lywa : boolean; m : integer; R5 : boolean returns boolean array while 47 > 3 : chillax end end main : chillax end

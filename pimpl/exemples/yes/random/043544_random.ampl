@@ -1,0 +1,1 @@
+program X : P : takes X : boolean array returns nothing chillax end U9d : takes L : boolean; m, OF : boolean array returns nothing while - 29 : when case 7 : chillax end end end C : takes r, A5a, j : integer array returns nothing i6 : boolean; chillax end main : chillax end

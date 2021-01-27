@@ -1,0 +1,1 @@
+program Wm8 : GU : takes zMbaa, Sm8 : integer array returns nothing chillax end main : when case false + 8 * true or(4) : chillax end case - 294 and qr : pop; pop end case not 21700 and 42 : chillax end; let l[- pAX[241] / t] = P and 8 <= 49 - 744; do v(- false and 1) end

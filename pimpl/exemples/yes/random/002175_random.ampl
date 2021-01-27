@@ -1,0 +1,1 @@
+program k8 : Mqra : takes cV, k, a0U0, b, X : boolean; K, V : boolean array; tKr : boolean; x5, OC7, prDaa, c9 : boolean array returns nothing G, e : boolean; fJO, W3v, bIK, jX : integer; output "" . "" . "\\Ma"; do M(1) end main : V5 : boolean array; input J end

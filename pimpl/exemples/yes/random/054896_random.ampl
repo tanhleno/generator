@@ -1,0 +1,1 @@
+program D9I : L4P : takes A : integer array; G3, T : integer; U, z, b, XK4aa, R8 : integer array; T28, C4, u0 : boolean array returns nothing pop end main : let G[- true - false rem b and 176] = false < - qQ6aa end

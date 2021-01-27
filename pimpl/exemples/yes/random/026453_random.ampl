@@ -1,0 +1,1 @@
+program F : ix4 : takes mLMaa, K_q : integer; b4 : boolean returns nothing input ZNRaa; while 9 - 5 : chillax end end main : l : boolean; pop; output(6) and 9 or 5 - 9; when case - N or 7 - 8 /= - 658 : chillax end case 9 - 9 : chillax end end

@@ -1,0 +1,1 @@
+program L : V : takes l3, x : integer returns nothing Q8wa, n, V : boolean; when case(11) and 9 > - 0 - 8 : input H[1740]; let I = 80; let y = 5; pop end case - 1 - 8 = 9 : chillax end otherwise : chillax end; input s[- 4 - 87] end y98a : takes F, B : integer array returns nothing S4 : boolean array; chillax end main : v : boolean array; sU : integer; chillax end

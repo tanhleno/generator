@@ -1,0 +1,1 @@
+program q0 : F : takes Z13a : integer returns boolean array output "1" . 472 . "$#\"a" end main : let yB = array(68) rem o[8] or true or(48100) and 0830; let o = array - (803) and false and 779 + 5 and 9 end

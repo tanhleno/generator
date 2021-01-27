@@ -1,0 +1,1 @@
+program EZZ : L32aa : takes Ct : boolean array; G, g, f : integer returns integer HS : integer array; H, pk, G, m : integer array; pop end main : do f(false or 0 * true and 1 < false, - false and(50)) end

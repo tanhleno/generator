@@ -1,0 +1,1 @@
+program Z : ky : takes zF, _Q9 : integer; fR50, c : boolean array returns integer when case not 0 : chillax end; let n[29100 - 4] = array 71 end main : output Kupaa >= - true + 2; when case - false / (2) and 46400 - true and 563 : chillax end end

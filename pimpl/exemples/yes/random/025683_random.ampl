@@ -1,0 +1,1 @@
+program p : Ht : takes N1, H : integer; Lj, N6u : boolean returns nothing pop; pop 6 end main : k : integer array; when case false or true * (9) : chillax end case - 198 * At and 8 - 11000 : do gv0(6 = 60800, 0, 96) end; let g[false rem false or not 9] = 0 and 7; output 22 - 8 /= 91; input k5[- 4]; output 29 end

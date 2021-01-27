@@ -1,0 +1,1 @@
+program n : B : takes _8b : integer array; M : integer returns nothing chillax end main : when case - true * true + true / (2610) - true - 94 - 8 <= - 60 / 005 and 6 - 6 : pop; when case 9 = 14 : chillax end end case 7 - true > Im0 or 59 - 1 : chillax end end

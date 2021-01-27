@@ -1,0 +1,1 @@
+program Z : Dh5 : takes uu : boolean array; Ex70, d : boolean returns nothing while - 44 : let P[13] = array 13; output "\\1a"; let q = 07; pop end end u : takes c : boolean array; BR0, jI, w, C : boolean array returns nothing chillax end main : FiE0 : integer; chillax end

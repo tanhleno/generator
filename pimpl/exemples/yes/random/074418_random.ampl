@@ -1,0 +1,1 @@
+program k : main : Qc6, l : boolean; while - (56 = 9290) / s790a(0) and(330) : input B1; while 0 = 0 : chillax end end; output - (197) - 4 /= 5; do B7o((6) and 9950 or 0 = 61 - 5230); when case 549 - 2 < 0 : let V87 = 8; do _(1) end otherwise : chillax end end

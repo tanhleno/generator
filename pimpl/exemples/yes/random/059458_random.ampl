@@ -1,0 +1,1 @@
+program iegaa : z : takes ggL : integer array returns integer t : integer; output "\""; when case - 4 - 0 >= 2 : output "r00"; while 1 : chillax end end end main : Jp, _, l, h : boolean; z3z : integer; output true rem false and 57 + false and 5300 /= - 97 . 9490 or 4 >= - 69500 - 8 end

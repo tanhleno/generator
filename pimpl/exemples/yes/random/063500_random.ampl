@@ -1,0 +1,1 @@
+program c : w : takes v : integer returns integer T : integer array; v, s, z : integer; when case s : chillax end otherwise : let wE = 0; while 840 : chillax end end; output "" . 22; while 5 : chillax end; pop end main : chillax end

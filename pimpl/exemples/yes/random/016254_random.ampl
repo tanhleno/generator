@@ -1,0 +1,1 @@
+program a700a : nH : takes O, e, y : integer returns nothing do A((4) and 91 < 8 - 55); let y[- 0 - 2] = array - 5 end main : input a; pop; let lT30a[not 4 and 23100] = array - 657; output 01; do kJ(32800) end

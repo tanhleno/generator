@@ -1,0 +1,1 @@
+program Tl : main : output S(8) * not 6 or X and 3 + 26700 - 0 /= 7 - 5 . - not 26 or 6 - 5 . "-" . "\tY"; while not q4 rem true and 4 - 70 : chillax end; while - false : output ""; while 12 : chillax end end; when case - 3 >= 8250 : chillax end otherwise : chillax end; input _ end

@@ -1,0 +1,1 @@
+program L47 : main : q, X740a : boolean; P : integer array; Z, L, Usd, SM4a, az : boolean array; pop false < 63 and 0 or 4 - 668; output - not 96 and 36 /= - 51 - 1 . 550 /= 974; output "1"; pop 50800 = 7330; when case 8 = 4 : chillax end otherwise : pop end end

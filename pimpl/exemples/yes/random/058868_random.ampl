@@ -1,0 +1,1 @@
+program hGRaa : x : takes R6 : integer array returns integer array q : boolean array; chillax end main : F : boolean array; ho : boolean; Dh60a : integer array; d6, O, X, v : boolean array; I, U0L, q3 : integer; X7, M : boolean; W_ : boolean; input C5O end

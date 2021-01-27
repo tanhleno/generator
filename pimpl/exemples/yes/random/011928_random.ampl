@@ -1,0 +1,1 @@
+program jR : g : takes r, I, nxB0a : boolean returns integer c, Q3M0a, m : boolean; when case 8 >= 07 - 71 : chillax end case - 06 > 5090 : chillax end otherwise : do ii50(5); do X(41) end end main : chillax end

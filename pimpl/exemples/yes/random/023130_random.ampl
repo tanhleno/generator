@@ -1,0 +1,1 @@
+program K : f : takes K, h910 : boolean returns boolean chillax end A : takes F : integer; w : integer; V, N8j0a, D4, V : boolean; Tn, PP40 : boolean array returns nothing chillax end main : do Ud(not false / 8 > false) end

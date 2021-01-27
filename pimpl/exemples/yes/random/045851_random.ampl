@@ -1,0 +1,1 @@
+program x : d : takes m : boolean returns boolean array when case - X : chillax end case 3 - 61 : pop end case 1 = 2 : chillax end case 8 : chillax end otherwise : while 0 : chillax end; output "" end end main : when case true : chillax end end

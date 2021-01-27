@@ -1,0 +1,1 @@
+program l : main : sF9aa : boolean; input p; when case - false / u < - 0960 and 941 : chillax end case - (8080) > - 5 : chillax end case 8 = 2 : chillax end case 3 = 4 : chillax end case 0 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program z : gtFa : takes b : boolean returns nothing ZG, h : boolean array; when case - true : chillax end case 816 : do i3aa(4); output "" end otherwise : chillax end end P : takes z, j : boolean returns nothing F : boolean array; bz : boolean array; FGLa, E : boolean; chillax end main : chillax end

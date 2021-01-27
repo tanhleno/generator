@@ -1,0 +1,1 @@
+program K : N : takes z, R, I, J280 : boolean returns integer chillax end p : takes es, y, H : boolean returns nothing pop end main : do I(true rem J[6840] / EH and 26300 + (076) * (3) or not 8 and 3 - 4 - 38 /= 0); let B = array - j[40] / zG70; output 41 - 65 /= 3 . 750 end

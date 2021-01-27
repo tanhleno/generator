@@ -1,0 +1,1 @@
+program O : main : M : boolean array; C : boolean array; d : integer array; t, aNN0 : integer; i, K5 : boolean array; C53, jO : boolean; while false or 2 / true and 7 < - true : chillax end; output "!"; do W(false and 137 + 75, 8 >= 63) end

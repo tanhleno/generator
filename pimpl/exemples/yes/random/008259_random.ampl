@@ -1,0 +1,1 @@
+program g81 : ln40a : takes P, PO6, c, _R : integer returns nothing sH7a, q : boolean; j, TO, W9d : boolean; while false and 3 or 1 /= - 55 - 7 : output 19; do P81(5930); while 31 : chillax end end; do Gzd0a(- 813) end main : n : boolean; chillax end

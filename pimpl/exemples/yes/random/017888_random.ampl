@@ -1,0 +1,1 @@
+program d : a9 : takes A9, Q : boolean; L : boolean array returns integer array aH : integer array; chillax end main : output ""; when case - false rem 495 or 6 : chillax end case true - 169 /= 3 - 7 : let s[6090] = array 6310; input i43aa end case - 8 - 81600 > 2 : while 7 : chillax end end; output "" . 5250; input er0[22800 - 97] end

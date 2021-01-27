@@ -1,0 +1,1 @@
+program X : S02 : takes Z42a, I, K : boolean array returns boolean array n8 : integer; chillax end B02a : takes D : integer array returns integer do e(- 9 - 1); pop 9 end main : U, hi4a, z8, M, n : integer array; F : integer; D, y4, n : integer array; O : boolean; chillax end

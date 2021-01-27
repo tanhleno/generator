@@ -1,0 +1,1 @@
+program aEn : u : takes IG, JE9aa : integer returns integer array N, g, hR : boolean array; do aqW0a(- KPka, - 6 > 2); input A[7 - 82900]; output "" . 70 end LM : takes M1 : boolean array returns nothing while 15700 - 1 > 2 : chillax end end main : let Em[- (2 = 78)] = (7) = - false and 0; do V(- true * not 65 /= - not 8 and 1 or 4 - 5); output 6 - 70 > 7 . "3"; output 1 = 16 end

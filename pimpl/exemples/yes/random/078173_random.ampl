@@ -1,0 +1,1 @@
+program v3V : main : l, n5 : integer array; while - 5 rem not Y + 4 /= a(0) rem false and 0 : when case 9 - 75 = 192 : when case 2 : chillax end end end; input mw; input K96aa[- D7 or 0 - 64100]; do U(- 3 - 9) end

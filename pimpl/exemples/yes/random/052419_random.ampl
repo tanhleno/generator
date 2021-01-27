@@ -1,0 +1,1 @@
+program t6 : l4Q : takes O4 : integer; L : integer; f, M : boolean; Dn2, d8D : integer returns integer chillax end main : Q : boolean array; do o(w(5, 2) > - not false and not 4 and 2 + true or 3 - 8, E5[54]) end

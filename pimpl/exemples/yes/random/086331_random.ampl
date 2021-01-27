@@ -1,0 +1,1 @@
+program E : main : t : integer array; Q : boolean; yY1a, Q : boolean; J_ : integer; let B = array 5470; input K; while not 56 and 6140 = 5 : output 7970; input D end; while - 6820 <= 1 : chillax end; let B = 5; while 3 : pop end; output "`"; do g42(9650); pop end

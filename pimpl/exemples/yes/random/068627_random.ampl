@@ -1,0 +1,1 @@
+program X : main : Gxo, NWL, Nd, z1, lu4, ay30a : integer array; when case - 4 rem false and not 8 and 4 - 5 * (5) : while 822 - 1 : chillax end; do x310(931 = 91, 47, 327) end otherwise : chillax end end

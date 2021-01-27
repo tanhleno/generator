@@ -1,0 +1,1 @@
+program u : g6 : takes m5_ : integer array returns nothing when case - 6 + 3 - 10 : chillax end; pop; when case 68200 = 72400 : do z9H(5) end case 1 : chillax end case 9 : chillax end otherwise : pop end; input s8; do rF(07); output "" end main : e6 : integer array; v : integer array; T6 : boolean; S : boolean array; i, P, jD : boolean; chillax end

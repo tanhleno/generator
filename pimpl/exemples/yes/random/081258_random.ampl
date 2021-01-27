@@ -1,0 +1,1 @@
+program h57 : main : i3 : boolean array; p4, s : boolean array; P0, O, z, m3s, i2o0 : boolean; when case not not true * false = - 692 : chillax end case - (6) rem not 9 and 719 + true and 0 + 6 : pop 4 end end

@@ -1,0 +1,1 @@
+program hL_0 : main : input t33[- (9) / not(7) / false or 232 + 8 and 016]; when case false rem true + not 09 <= - M : do gbj(92 = 6, 3, 7); do R(0) end otherwise : let t[3] = 6; while 7 : chillax end end; output ")" . 888 = 1; output 514 . "A" end

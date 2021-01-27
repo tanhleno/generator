@@ -1,0 +1,1 @@
+program Sj80a : y3f : takes N, eAUa : integer array returns nothing chillax end main : do O(true and true and true + false - 38 and 08, - (4) and false or 9440 and 5 <= - false); when case false * true and 1 : chillax end end

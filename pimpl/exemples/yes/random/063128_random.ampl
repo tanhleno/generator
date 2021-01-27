@@ -1,0 +1,1 @@
+program W : k88aa : takes V62 : integer returns integer array pop - 29 - 37 = 3; pop 06200; input p[8]; do G(409, 6); while 2 : chillax end; let u = 23000 end main : let e[(4000 = 40500) * 09800 rem C_] = true or 75 and 388 end

@@ -1,0 +1,1 @@
+program R : F : takes Wk, rW, B1E, dSiaa, Ox : integer array; C, E, f, O4s, D6x, lS, P4 : integer array returns integer s2, v, iO : integer array; n5d : boolean; do Mo(false, 225, 9 = 26); output "6" . "" end qe : takes jN2a, m : boolean returns nothing chillax end main : chillax end

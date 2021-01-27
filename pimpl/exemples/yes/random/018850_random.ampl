@@ -1,0 +1,1 @@
+program q : R : takes o, z2p : boolean array; Bo, DX1, f8 : boolean; S, YS, K, iI : boolean array returns boolean AZ : integer array; pop - 21 - 9 >= 8 end yt : takes n : boolean; aX, x5t, v, H3, R, d : integer returns nothing chillax end main : while(1 = 8) /= v(5) - (97600) and 62 : output "3f" . 83 end; while not not 14 rem not 6 or VD and 5 : chillax end end

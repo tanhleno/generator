@@ -1,0 +1,1 @@
+program CDz0 : _m : takes P : boolean returns integer array do U2(- true or 2440, - 11, 3, 7, 0) end X : takes sA : integer returns boolean array let Y0[75 - 76] = 69 = 7 end main : o, C5 : boolean array; output "" . "" end

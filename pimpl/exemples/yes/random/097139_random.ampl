@@ -1,0 +1,1 @@
+program Q : main : when case not false * true - 83 and false or true or 7 : chillax end case Pa(26) and false and 5 >= - V : let yF[1] = array 15800; when case 87 : chillax end case 674 : chillax end otherwise : chillax end; while 3 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program f : Z : takes j, u6, Kb : boolean returns nothing let b5C0 = array true and 00 end Z6 : takes r, M, I89, s, aq : boolean; c, f, P, K : boolean returns nothing pop 803 = 1; input z end main : chillax end

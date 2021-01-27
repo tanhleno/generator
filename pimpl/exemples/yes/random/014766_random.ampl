@@ -1,0 +1,1 @@
+program j1 : p0 : takes R, d, v : integer array returns boolean array while - (2) and 2 - 811 - 69200 > 4 : let a[4660] = array 741; input fC end; input XMAa; when case 1 : chillax end; pop; output "ni0a" end main : chillax end

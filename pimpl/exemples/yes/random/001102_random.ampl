@@ -1,0 +1,1 @@
+program G : _7Zaa : takes gy, e, r9, T49, J, Kn : boolean; v, uM, o0ma : integer array; R, K, Q : integer array; p, p8, n4 : integer array; V : integer array; B : boolean; G7z : boolean returns integer array chillax end main : u, r24aa : integer array; pop - true rem 4 and 6 >= - not 6910 or 0 - 088; input JFn end

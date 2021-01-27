@@ -1,0 +1,1 @@
+program X : L : takes j, B8X, BL5 : integer array; C : integer returns boolean _uL, Y : boolean; chillax end W : takes x, f, z5t0 : integer array; rD : boolean returns nothing n7, wf : boolean; yL8aa, i23a : boolean array; let M[6] = 8 = 04; while 6 = 79 : do c(713); pop end; pop; input M9; when case 7730 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program HC0 : p64 : takes si1a : boolean array; X : integer; U : integer returns nothing t7, U38aa, p7q, s : boolean; q3 : integer; chillax end K : takes bO4, K, M : boolean; f, Wn3aa, Y : boolean array returns nothing chillax end main : let R[true rem not(12) rem 1430 and 254] = array - not(8) + e2(9) * Y - (723) and 3 end

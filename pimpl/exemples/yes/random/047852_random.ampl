@@ -1,0 +1,1 @@
+program K : jD : takes w : boolean returns nothing D, g8, AIMaa, J, xll : boolean; chillax end main : pop I[206] and false < - not 7 and 6; while - 150 and not 4 and 5 = - (0) and 8 : pop; pop 892 end; pop end

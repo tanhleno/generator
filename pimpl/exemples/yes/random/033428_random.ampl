@@ -1,0 +1,1 @@
+program f3 : yA6 : takes f : boolean; Va, K, y, q, LV : integer array returns nothing chillax end main : X, z : integer array; when case - true / (81) / true : chillax end case - x(832) + false and 3 - 14 /= (8) and 2 - 6 : input q[2] end case - T : do C(8, 2); let x = 56100; do C9(0); pop end case 28 - 76 : chillax end case 48 = 661 : chillax end case 3 : chillax end end

@@ -1,0 +1,1 @@
+program q : c : takes w8i, a, F : integer array; Jb, J0, vP : boolean array; y, pC90a, r : boolean array returns boolean output 398 - 3470 >= 0980 . "n"; pop end main : while - lpZ * false + (4) rem j and 6 + false + 264 : chillax end end

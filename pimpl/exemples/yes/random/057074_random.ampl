@@ -1,0 +1,1 @@
+program a8z0 : x11aa : takes y : integer array; p : integer array returns boolean array z, E : boolean; mF : boolean; ck : boolean array; a : boolean; G200 : boolean; l2L : boolean; pop - 3 - 3 > 1 end main : W, V : integer array; s59, z, e3M0a, q : boolean; chillax end

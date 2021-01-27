@@ -1,0 +1,1 @@
+program Fc : i : takes I : boolean returns nothing when case ym : while 2940 : pop end; while 13200 : chillax end; when case 7 : chillax end end case - 34 - 13 >= 71 : chillax end case 84 = 59 : do hY(12) end otherwise : do Vcc(67) end; while 774 - 91 : chillax end end main : K9, R, lJ, R1 : integer; chillax end

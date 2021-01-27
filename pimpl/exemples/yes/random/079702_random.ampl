@@ -1,0 +1,1 @@
+program xG : main : F : boolean; L4 : integer array; w24, fN90 : boolean array; iY8 : boolean; pop - false / (655) >= - false and 3 or 4 - 884; pop; let t = 78; do NnX(9, 57700 = 80500, 88, 9070); pop 2; output 8 . "" end

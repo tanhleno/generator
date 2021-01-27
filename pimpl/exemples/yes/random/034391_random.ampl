@@ -1,0 +1,1 @@
+program ht : TREaa : takes Ci8 : boolean; xq9, JMYaa : boolean array; c8y, x : boolean array; ke, U, V : boolean returns integer array AU, T : integer array; p : boolean array; let c[false and 8] = - 02 >= 2 end main : while 6 or not(05) or false or 2 - 45 : chillax end end

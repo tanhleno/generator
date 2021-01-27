@@ -1,0 +1,1 @@
+program v7 : F1 : takes N85 : integer array returns nothing K4B0a : boolean; i45, o : boolean; S, hrk, R37aa : integer array; v3 : boolean; chillax end main : pop - 2 - 41400 and 5 + 75 - 33 /= true; input G0[false or 14600 and 87 + 2]; pop - 4 - 3 = 7 end

@@ -1,0 +1,1 @@
+program L : O : takes yt, yT : integer returns boolean while true and 7 or 6 = 4 - 0 : when case 6 : chillax end; output "," end end main : l05a : boolean; V : boolean; while - false / G[6] : let a74 = 9 end; input _[(6) / not 4 - false - 8 - 6]; do LK7(not 2790 and 18 - 2 - 2210 > 9 - 9, 17 - 880) end

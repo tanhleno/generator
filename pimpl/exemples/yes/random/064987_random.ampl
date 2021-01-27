@@ -1,0 +1,1 @@
+program x8 : uL : takes h : integer returns nothing Z : integer; b : integer; JS3a, v : integer array; when case not 2 and 3 /= - 2 : pop end case - 9 : pop; output "" end case 11000 = 106 : when case 37 : chillax end end; let Z[- 57] = array - 5 - 5 end main : c3 : integer; chillax end

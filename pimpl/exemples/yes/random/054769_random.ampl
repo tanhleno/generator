@@ -1,0 +1,1 @@
+program p : j : takes G : integer array; n, d3 : boolean returns boolean array E, Z6 : boolean; aDI, L : integer; let M9 = 52400 /= 81 end F1 : takes wer0, J, N8w0a, w : boolean array returns nothing do d(3 - 5); when case 4 : chillax end otherwise : pop end end main : x6, sH : boolean array; z, r : integer array; pop end

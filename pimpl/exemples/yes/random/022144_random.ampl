@@ -1,0 +1,1 @@
+program J : l27 : takes O, Wypaa : boolean array returns nothing y, k25aa, Ho, M : boolean array; s6w, c, V : boolean array; chillax end F : takes nB : integer returns nothing P2K0 : integer; O : integer; I : boolean; X17 : boolean; chillax end main : let VK50a[- 96 + (5) * 203 and 7] = array - false - true end

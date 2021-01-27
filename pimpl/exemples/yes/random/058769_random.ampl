@@ -1,0 +1,1 @@
+program EC5 : yzM : takes hBza : integer array returns integer array FP, m, G : integer array; aL, _ : boolean array; g : integer; t : boolean; when case false and 7 or 929 - 4 : chillax end end main : o, q6, s08aa : boolean; p, o, y, yy6 : integer array; ETCaa, N : boolean; G9 : boolean array; chillax end

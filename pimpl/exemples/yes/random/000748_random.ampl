@@ -1,0 +1,1 @@
+program NP : fn : takes J, WWVa, x, xO, m, ju, eX : boolean returns boolean array Ny4a : boolean; L18aa, w : integer; when case - true and 1 = 4 : pop; pop end otherwise : chillax end; do a(- 2 - 2); while 9 = 57 : chillax end; let f = 97; do b(1); input s; pop end main : j25, RkV, e020 : boolean array; ez : integer; chillax end

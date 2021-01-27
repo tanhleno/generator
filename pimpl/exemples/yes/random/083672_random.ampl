@@ -1,0 +1,1 @@
+program m : main : c : integer; M, c : boolean array; output - U . - 80 and 8 + 182 - 62 . - 87 - 3 /= 9 . "g" . "_"; while - false /= not 2 and 4 + 3 : while 439 : chillax end; when case 11 : chillax end case 664 : chillax end otherwise : chillax end; let Z = 427 end end

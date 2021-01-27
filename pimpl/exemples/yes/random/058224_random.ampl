@@ -1,0 +1,1 @@
+program lv6 : G : takes S : integer array returns boolean Rb, XG, Or : integer array; d, h2, p : integer; chillax end main : C8Ua, k, V, X, Vkya : boolean array; PUc0a : boolean array; let p = array false - true end

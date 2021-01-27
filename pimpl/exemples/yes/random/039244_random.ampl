@@ -1,0 +1,1 @@
+program j : I : takes j8 : boolean array; MY, pb3 : integer array returns boolean kk, x060 : integer; Fw6a, jY, cq1 : integer; while PD + 9 - 461 : let y = array 6; input d end; do G70(8680 - 00800 > 2980) end main : ro5, u, V1 : boolean array; k17aa : boolean; chillax end

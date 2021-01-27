@@ -1,0 +1,1 @@
+program m : G : takes E : boolean array returns nothing I : integer array; J6 : boolean array; x, p, I : boolean; chillax end r0Xaa : takes i, X, T : boolean array; F, al, KJv : boolean; sGR : integer array; U, bX1 : boolean returns boolean array chillax end main : N : boolean array; while C[03] / T(0) : pop 6 end end

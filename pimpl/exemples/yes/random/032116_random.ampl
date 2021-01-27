@@ -1,0 +1,1 @@
+program u : h : takes S, F0 : integer returns integer Q4k : integer; input Pl[- (7) and 585 or 02 - 9]; input I[4]; let rXK0a = array 67 end main : cz, m : integer array; do f(- not(66800), 1 < - not 6 - 9 - 8, - true - 75900 > 3 - 2) end

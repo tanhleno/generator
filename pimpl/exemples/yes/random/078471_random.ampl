@@ -1,0 +1,1 @@
+program g : main : D : boolean; C, i, wp, M920, Bm : integer array; let p = array(68) rem(59) - y7(536); when case - G[79] + not 9 or 33 /= false and 5 + 5 - 1 : chillax end; output 99 - 7 <= 5 . 4230 . ""; pop end

@@ -1,0 +1,1 @@
+program U8 : b6 : takes aX : integer array returns integer H00, u, m41aa, O_4 : integer array; z54aa, U4, c : boolean; input b2 end main : d, Z : integer; VASa : boolean; LW9, o, B220, vsB, k : boolean; while not 5 * true + true /= false * true and 3 : chillax end; when case(45300) + 36200 and 09 <= z5 - 521 - 65700 : chillax end otherwise : chillax end end

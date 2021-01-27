@@ -1,0 +1,1 @@
+program l7 : p : takes g, x : boolean returns nothing l, F : boolean; while - W - 27 - 86 /= - 70 - 78 : chillax end; while 50 >= 69 : chillax end; when case 44200 : let DQ = 77500; pop end otherwise : chillax end end main : lZT : integer array; l, M, s5a : boolean; Z7V, A, G, T9 : integer array; xA : boolean; l : integer array; chillax end

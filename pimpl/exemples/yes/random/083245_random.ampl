@@ -1,0 +1,1 @@
+program nj8 : main : Cn : integer; v0, E, op, hfpa : integer; Dm, T, cg, Bbv, Ni9 : boolean array; o, x, E : boolean array; zU8, M, _DJ0 : boolean; Z2, C : boolean; let U = not 12 - not 219 >= - (0) or 3510 - 5 end

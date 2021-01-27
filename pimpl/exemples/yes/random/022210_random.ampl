@@ -1,0 +1,1 @@
+program T : n : takes jU, e : boolean array returns nothing P, KC, E35 : integer array; chillax end o : takes E : integer array; H, D28, jz5 : integer array; Lg, uJ : integer; v : integer array returns nothing input HCwaa[7] end main : when case - false rem 3 / 47 and 3 or(7) and(321) and 0 - not 65 : chillax end end

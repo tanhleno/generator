@@ -1,0 +1,1 @@
+program X45 : oMA0a : takes u7ia : integer array; Z : integer array returns nothing y07 : integer; chillax end PQ : takes Z, Z : integer array returns boolean array input L180a; input C[63] end main : J08aa, m71, hB2 : boolean array; let EZ00[- true * 2 rem false] = array - false + 16 rem O end

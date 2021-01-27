@@ -1,0 +1,1 @@
+program u4 : main : z, h1J : boolean; UI, A : boolean array; c, n_ : integer array; input U99a[false - aR70a[8]]; output "" . ""; pop 46900 < 6; while 8 - 4 >= 60 : chillax end; let Ly[39] = array 1; while 498 : pop end; let KYZ0 = 3; let T = 04; pop end

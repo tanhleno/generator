@@ -1,0 +1,1 @@
+program o4v : main : when case 30 / (5) and true and 9 + not not 7 /= - (7) rem qM and 6800 - not 5 : output "" end case(3) = - true and 0 - 306 : input V end otherwise : do _(1 = 05, 7); input B end; input f3G[82]; output ""; do i(203 - 8 >= 8, 06500 = 5) end

@@ -1,0 +1,1 @@
+program Hm : k : takes D, e : boolean array returns boolean chillax end e63 : takes LA, o, I : integer array returns boolean array when case 02 : while 90000 : chillax end; while 8 : chillax end; pop end case 44 = 5440 : chillax end; do shnaa(22 = 6, 5) end Ghc : takes p, qR2a, d : boolean array returns boolean chillax end main : g, J0 : boolean; chillax end

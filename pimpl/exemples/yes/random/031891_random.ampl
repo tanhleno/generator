@@ -1,0 +1,1 @@
+program q : V : takes o, s : integer returns integer array let _P = array N and 02 - 0; output ""; when case 8 = 5 : while 6 : chillax end end; input n2[5]; output "\t"; while 57 : chillax end end main : while 7 or 51 / true <= t5(53) and not 374 : chillax end; output false < - 4; while - true : chillax end; output 0690 = 16 end

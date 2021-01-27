@@ -1,0 +1,1 @@
+program I : f07a : takes V0, I0W0a, dM, b : integer array; No2 : integer returns boolean array o : integer; _, j9V0a, G : boolean array; z0f0, _E80a : integer array; D0H0, Gg : boolean; q61 : boolean; chillax end main : h, C : integer; NxC0a, x : integer; M4, w, q : boolean array; RKHa : boolean array; pop - false - true and 3680 or 7 - 0; do eV(true = - 8 and 831) end

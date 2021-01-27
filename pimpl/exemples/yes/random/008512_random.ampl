@@ -1,0 +1,1 @@
+program c : g : takes zn, K46a, ok8a : boolean; YJQ0, f, jb, kR : boolean array returns nothing chillax end main : R, R : integer array; wqMa : boolean; KXp, TR : boolean array; output "7+0a" . - false >= 76 . - 0 . ""; output 012 and 50; do ZZ50(- F, - 802); pop 1 = 5 end

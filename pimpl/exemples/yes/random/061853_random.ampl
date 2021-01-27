@@ -1,0 +1,1 @@
+program e1 : VEm : takes KRua : integer returns boolean array w5, i, b : integer array; o : boolean array; H : boolean array; chillax end main : let J = array - not false rem 6; let M[true - (83) and 9 + 827 - 5540] = array - false * 5; while true and 24 >= 03 : input fk[5] end end

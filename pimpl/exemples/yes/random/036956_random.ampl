@@ -1,0 +1,1 @@
+program A7 : U : takes k : boolean; QX : integer array returns boolean D : boolean; chillax end main : VS : boolean array; pop - 34 / true /= not 76 and 26400 + 3; when case - (2) and true and 47 : chillax end case true = 3 - 3 : output 58000 end case 3 - 9980 < 7 : let q = 0 end otherwise : chillax end; output 1 >= 6 . "" . 3 . "j" . "S3\"" end

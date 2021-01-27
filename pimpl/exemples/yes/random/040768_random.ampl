@@ -1,0 +1,1 @@
+program R : S : takes _ : boolean array; d8O0 : integer array; b, w21a, R : boolean array returns nothing chillax end p9t : takes D6, QW : integer returns boolean array chillax end main : input eyc0; output "" . - 7 - 2 /= 1 end

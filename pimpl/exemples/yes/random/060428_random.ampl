@@ -1,0 +1,1 @@
+program H : p2 : takes pUV0 : integer array returns nothing IW00, W03, V : integer array; kF30a : integer; chillax end main : M5 : integer array; output "\n" . 923 and 5 or 94 < 60600 . "74a" . 7 . 30 . "98!a" . ""; let a7c = array(57) rem not 4 and 422 or 3 end

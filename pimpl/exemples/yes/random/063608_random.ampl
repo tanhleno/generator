@@ -1,0 +1,1 @@
+program L : H : takes y7S0a : integer returns integer when case 0 >= 7 - 5 : do D7(456, 361); while 164 : chillax end end case - 8090 - 88 : chillax end end og5 : takes Z, ql, O : boolean; p, v, U, _47, j : boolean array returns integer chillax end main : b : integer; B, e, u, Pvka : boolean array; A8 : boolean; chillax end

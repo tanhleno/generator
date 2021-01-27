@@ -1,0 +1,1 @@
+program m : o5H : takes U_20a : boolean array returns nothing sig : integer array; z : integer; chillax end W510 : takes K, z0 : integer returns nothing Y : boolean; J1 : boolean array; chillax end main : when case u7Xa(03, 08) or 44 + (5) and 785 : chillax end end

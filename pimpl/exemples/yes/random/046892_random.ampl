@@ -1,0 +1,1 @@
+program s0 : R : takes Y : boolean returns integer chillax end R : takes o, Yf, u : boolean; C : boolean; Ak2aa : boolean array; Ld, Dbz0a : integer; LfAa, T : integer array; TT : boolean returns integer array chillax end main : output - 4 . - wBza and 548 + 1 < - 1 . - 12 . 40 = 167 . ":" end

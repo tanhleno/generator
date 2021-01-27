@@ -1,0 +1,1 @@
+program M : main : input z; let B = true and 34; when case false and 1 or 92200 - 5140 <= 0 : input hsg0a end case - 0 /= 505 : chillax end case 811 = 49500 : chillax end; when case 736 - 3 : pop; pop end otherwise : input T end; pop 9; pop 4 end

@@ -1,0 +1,1 @@
+program w : U : takes V18a : boolean array; wf30, F_ : integer array returns nothing PP2a : boolean array; pop - 99 /= 8; while - 20 - 9 /= 57 : let O = 8 end; output "3" . "5\"" . "D" end main : S, f4, iQ80a : integer array; p2Y : integer; XD3a, Q3v0a, m2, z700 : integer; o : integer array; chillax end

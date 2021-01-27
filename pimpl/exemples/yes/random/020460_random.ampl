@@ -1,0 +1,1 @@
+program T : T : takes V3, m : boolean array; w2 : integer array; H4kaa : boolean array; J : integer array returns nothing gO, l : boolean array; chillax end P2Daa : takes P4e, E, I0 : boolean array returns integer array Z, eY, Z : integer array; input g; do G(23 = 28, 94) end main : pop - S(1) - (2) end

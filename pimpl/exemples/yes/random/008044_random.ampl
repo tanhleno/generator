@@ -1,0 +1,1 @@
+program W0 : L9 : takes l1, f, l, V7k : integer returns integer array n, _9, EG, p : integer; when case - G8 and 362 <= 4 : when case 6 : pop end case 09 : chillax end otherwise : chillax end; when case 880 : chillax end end case - 4 > 69 : chillax end case 3 = 03 : input dZ; pop end case 5 : chillax end otherwise : chillax end; pop end main : input S[- false] end

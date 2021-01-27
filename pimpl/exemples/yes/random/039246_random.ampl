@@ -1,0 +1,1 @@
+program g : z : takes K9w0a : boolean array; B28, LJ2 : integer array returns boolean bE : boolean; while 242 and 6 : chillax end; output 3 = 2 . "" end N : takes G07aa, B, M, K, J : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program c6g0 : Pd3 : takes G6x : boolean returns nothing E, dL_0a : integer array; output 1 . "" . 7 end x : takes kH, c : boolean array returns integer array input M9[4] end main : M : integer; do A(true + 067, E - not 22 or 7 - 2, true or 5); pop D >= 10100 - 9; pop; output 3 end

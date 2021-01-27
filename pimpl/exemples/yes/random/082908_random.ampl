@@ -1,0 +1,1 @@
+program e5 : main : y : boolean array; while d[47] + H[802] rem(2) : pop 58 = 2810 end; while true : let i = 5 end; when case - f + 53 - 3 /= 722 - 7 : chillax end otherwise : do q(961); do p3(3) end end

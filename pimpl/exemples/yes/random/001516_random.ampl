@@ -1,0 +1,1 @@
+program KP60 : f : takes v, _X, S, Q2Taa, g, Z9R0 : boolean returns integer array let zy4 = array false and 92500; pop 641; when case 75 = 9 : pop end otherwise : chillax end end main : ux : boolean; W : integer array; while not(60) - d / not 52 : do k(- 853) end; pop end

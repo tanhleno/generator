@@ -1,0 +1,1 @@
+program X : O9Oa : takes N : boolean array returns nothing H1h, B : integer array; P, j9, eF, p : integer array; z9 : boolean array; when case - true and 64 > 6 : input gvmaa[8770]; output ""; input z; pop end end main : chillax end

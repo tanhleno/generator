@@ -1,0 +1,1 @@
+program U4m : main : i4 : boolean; x2, Ht5aa : boolean; while true or not 0 * 895 and 32 <= - true / true and 9650 - true or 5 - 10 : let A3[- 976] = 34; let z17[1] = array 88; when case 8 : chillax end; pop; input a; pop end end

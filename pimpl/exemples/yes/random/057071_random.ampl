@@ -1,0 +1,1 @@
+program H59aa : h050a : takes I : integer array; Bw : integer array returns boolean array chillax end main : Z1 : boolean array; pop; while false rem true and 168 - not 787 <= - false : do S(6040 = 46100); output 3 . "" end; pop end

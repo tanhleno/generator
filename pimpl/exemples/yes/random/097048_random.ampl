@@ -1,0 +1,1 @@
+program f : main : when case M59[838] and(37) : input i620a end case not false * z or(89) or 2 : input nJm; while 798 : chillax end end case - (7) and 9 = - 95 - 30 : let J4[2] = 3; pop end case - 3 - 4 : chillax end end

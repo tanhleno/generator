@@ -1,0 +1,1 @@
+program yo5a : G : takes o3 : integer array returns boolean p : boolean array; j : integer; e : integer array; O9f : boolean; a : boolean; Y : boolean; do c(- not 8 <= 24, 685, 6510 = 7370); let DFW = 56 = 41 end main : P, Ee, cb, M, I, O2, W : integer; q, yb90, ppv : integer; v : boolean; chillax end

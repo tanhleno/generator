@@ -1,0 +1,1 @@
+program sl : C : takes T3 : integer returns integer array output 7 - 2 > 6 . 24700 = 2 end w : takes Td : boolean array; P960a, r : boolean array; f_, cE6, z, CG4, b3u : integer array returns integer Ns : integer; K, e, P : integer; s, G8 : boolean; K : boolean; o : boolean; pop 4; pop 37 end main : K8, fe7, g0, ao, RI2, Q7 : integer; chillax end

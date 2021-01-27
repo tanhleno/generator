@@ -1,0 +1,1 @@
+program pF : main : Tg60, j, Y : boolean array; T : boolean; let H[false / true * true] = (32500) * 50 < false and 042 or 14 - 611; pop - d - 6 /= 6400; output - 7 - 5 < 10 . 7; let Cg9[- 6 - 3900] = array 60 end

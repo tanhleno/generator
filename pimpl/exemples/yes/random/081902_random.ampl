@@ -1,0 +1,1 @@
+program A : main : g : boolean array; g : integer; gn, OG : integer; while false / false / not 4 or I[8] < J : input H4; when case 453 = 947 : while 89 : chillax end; pop end otherwise : pop end end; output false or 5 - 2 . - 74 = 8 . 18 = 0 end

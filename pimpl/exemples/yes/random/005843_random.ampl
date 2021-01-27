@@ -1,0 +1,1 @@
+program d : m1o : takes cS, P, CI90a, s : boolean returns boolean array uK : integer array; chillax end main : V : integer; gm7, E, u : boolean array; when case true and false rem(037) and 70400 : pop; input vE end otherwise : chillax end; input l[- 2 / true and 1]; while - S : chillax end; do A(925) end

@@ -1,0 +1,1 @@
+program R : _1 : takes AJ20a, S : boolean; e : integer array; zC, d, K, Hyz : boolean returns nothing input a[R and 98 - 22] end main : MU : boolean; SL0 : integer; C, V9ra : boolean array; r2 : boolean; input S[- (96400 = 6) / true + 4 + false and 909 - 1] end

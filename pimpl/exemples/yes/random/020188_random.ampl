@@ -1,0 +1,1 @@
+program lu : b6 : takes D, p05 : boolean array; _2naa : boolean returns nothing fw, BB, U : integer; k, FDraa : integer array; e2 : boolean array; do _2w(- not 29, 41 - 72, 0190 = 11, 5, 4); when case 45 - 1 = 88 : chillax end otherwise : while 8200 : chillax end end end main : output "" . "\\" . 62 - 11 end

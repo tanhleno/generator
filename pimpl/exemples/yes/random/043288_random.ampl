@@ -1,0 +1,1 @@
+program D : Tk : takes B9 : boolean array returns integer input c end main : d, R7, G, L2Ha, z_2 : integer; QR5a : boolean; let l01[- L + false or not 3 and 1390] = array true + true; input _l[- uv(1)] end

@@ -1,0 +1,1 @@
+program G : B5Caa : takes W, E5qa, icA, q, v : integer returns nothing q, W, e, _50a, p5ba : boolean; b, r8_ : boolean array; p, r, JC0 : integer array; R : boolean; chillax end s : takes u, p, p : integer; G, H : boolean returns nothing chillax end main : l : boolean; R : boolean; chillax end

@@ -1,0 +1,1 @@
+program u9 : k5 : takes G7, F : integer array; j, Z : boolean array returns integer ZZ00a : boolean; while - false and 31000 + 6 - 7 >= 5 : chillax end; do z(83 < 92, 6, 6); pop end main : pop 83 = - false and 31 + 8 - 6 end

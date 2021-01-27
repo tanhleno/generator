@@ -1,0 +1,1 @@
+program oV : ue : takes h, y0X, m, n, T, sjT : integer returns integer array l, ID : boolean array; DyAaa, R : integer; pop; while 80 - 36 : chillax end end B : takes d : boolean returns integer chillax end main : chillax end

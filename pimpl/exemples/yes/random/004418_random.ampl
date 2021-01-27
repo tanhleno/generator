@@ -1,0 +1,1 @@
+program X : ch : takes Iy2a, mr, y, B : boolean; W, o : integer array; P : boolean array returns boolean a, Gc1aa : integer; I7, R460a : integer; FBz, hR, X8x : integer; when case - not 8 and 5 or 97 - 45 < 4400 : pop 7740 end otherwise : input p end end main : ZYIa, C, jtfaa, n9, l, J, p : boolean array; chillax end

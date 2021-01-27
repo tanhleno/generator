@@ -1,0 +1,1 @@
+program F : T : takes HvF : integer returns integer K, y : boolean; _, D : integer; dI1a : boolean array; chillax end main : while - false * not not 7760 - not true - true + 40 - 4 < h[7] : chillax end; do W(97600, - true) end

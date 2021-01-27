@@ -1,0 +1,1 @@
+program G5 : main : Re0 : integer array; i, ik : boolean; Th, R : boolean; do f3E(- true * r(910) /= - 19 - true and 0 - 05 - 7, V(1) - false and 83 + 2 - 46); input t[not 2 * (6) and 0]; when case DCUaa and 64 + 1 <= 2 - 2 : chillax end otherwise : chillax end; while - 868 - 1 /= 9 : chillax end end

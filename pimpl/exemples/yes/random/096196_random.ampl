@@ -1,0 +1,1 @@
+program w : main : when case - not false and r rem false or K[7] + L and 4 >= - not true and B and 17700 : pop end case 7 : chillax end otherwise : chillax end; let R = array 7 rem R and 6; while - 1 or 3 - 8 /= - 4 - 4 : chillax end end

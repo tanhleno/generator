@@ -1,0 +1,1 @@
+program r9 : k_1aa : takes Ig9 : boolean array; I0zaa, r : integer array returns nothing let O = array - (1) + 598 end LZ : takes J56, bw, S, X91 : integer array; g48a : boolean; bL6aa, I6F : integer array returns boolean array z400 : boolean; chillax end main : output D rem CbXaa and 2 < gE and 3 + 4 - 2; pop end

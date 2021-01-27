@@ -1,0 +1,1 @@
+program h9 : F : takes K, i, Rt, w4w, oJ : boolean; P : boolean array; AlB : integer array; d, v, s9, B82aa, E69 : boolean array returns boolean q, k : integer; bxI : boolean; M, YW1 : boolean array; pop end main : chillax end

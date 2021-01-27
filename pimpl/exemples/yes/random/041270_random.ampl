@@ -1,0 +1,1 @@
+program m : E6 : takes b : boolean array; Z2 : integer returns integer array v : integer; while - true - 5 : input q94; input P8w0; output "\n"; pop end; output "" . "_\n0" . "-" . "" end Ni1 : takes O : boolean returns integer p5J, MN, y, X : boolean; chillax end main : chillax end

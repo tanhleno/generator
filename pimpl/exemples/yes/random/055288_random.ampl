@@ -1,0 +1,1 @@
+program S99a : f5 : takes d0 : integer array; c, J : integer array returns nothing output "0" . "\"" . 0 . ""; let E = array 5230 end main : a : integer; output - t(8) rem not 9 . ")" . "$\t" . 3 = 83600; input p[not x]; when case 8 and 449 : chillax end end

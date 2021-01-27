@@ -1,0 +1,1 @@
+program U : Ul9 : takes Yc3 : integer returns nothing do z9(- 70 and 99); while - 2100 - 8 : do o(19); when case 0 : chillax end; pop end; output ""; do s(64); do N35(0); output ".saa" end main : input XRAa; pop 4 and 6 = - 33200; pop - 3 /= 34 end

@@ -1,0 +1,1 @@
+program y : d : takes m : integer array returns boolean array dZpa, N1, p4, Vh4, kE : boolean; J, y790a, g4, F7 : boolean; K : boolean array; S, d_ : boolean; _ : boolean; b : boolean; output - 9 . 5 . ""; output "9v"; output 0 end main : input a[- not(0) rem not TcQ rem(6450)]; while not false + not 1 - 505 - 5 > false - 3 : output "" . "N1" end end

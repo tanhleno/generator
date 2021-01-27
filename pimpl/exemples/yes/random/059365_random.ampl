@@ -1,0 +1,1 @@
+program T : tuba : takes fH : integer array returns integer r, _4 : integer array; pop 615 end Q : takes z2, w4 : integer array returns nothing when case - 3 > 29 : input O1n0a end case 2 = 63 : chillax end otherwise : pop; pop end; pop 25 end main : C, r : boolean array; kf : boolean; let c[3] = true rem true and 0 < - true - 4 - 81; pop(82) + 188 - 001 <= - 5 - 301 end

@@ -1,0 +1,1 @@
+program H : BP : takes H : integer; s71, L : boolean array returns nothing B29 : boolean; vV : integer; output 4 - 7 = 753 end main : f, d : integer; ru, LA : boolean; i : integer; Au : integer; input W[false - 92000 * (05) and 78000 - false - 60500]; do OA8(wi and not 46 and 83); output "\n" end

@@ -1,0 +1,1 @@
+program C : m : takes Hem, xi, A : boolean returns nothing when case - P and 1 or 3 - 58 : chillax end case 66100 < 6520 : input e; do j(46600); pop end case 4 : when case 51 : chillax end; pop end case 039 : chillax end case 4 : chillax end; let j[- 9 - 2180] = 16 end main : chillax end

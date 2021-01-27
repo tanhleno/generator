@@ -1,0 +1,1 @@
+program Y : e : takes z : integer array returns nothing tm : boolean; output "0\n0" . "\\\n!" end sB : takes N, Qh5, _ : boolean array; _ : boolean array; v190, MA : boolean; f : boolean returns nothing input g end main : chillax end

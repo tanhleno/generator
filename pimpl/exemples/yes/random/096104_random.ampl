@@ -1,0 +1,1 @@
+program P_ : main : when case - M[2] rem w1x[5] = false * true or false and 4 : chillax end case - false / false < z1l0 : chillax end; let T1 = - false = 68; input k[- (72100)]; output "v" . 7; pop end

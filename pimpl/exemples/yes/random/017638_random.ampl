@@ -1,0 +1,1 @@
+program h1 : dC : takes A36, L0sa : boolean; y : boolean; z0, Q : boolean returns boolean array chillax end main : when case(93) and(82) * 1 /= - 0 : output "$+\"" . 6 . "" . "G" end case - 3 rem 25 and 5 - y and 03 : chillax end end

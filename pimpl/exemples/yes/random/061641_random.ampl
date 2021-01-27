@@ -1,0 +1,1 @@
+program o : H : takes y : integer array returns nothing while - 493 and 732 : output "" . ""; let J5Ya = 7430; do O21(323) end end WY2 : takes b, z460, g6, a : integer returns nothing input w99[2 - 8150]; when case 11 = 519 : when case 86000 : chillax end; pop end otherwise : chillax end; do j64(98, 5) end main : chillax end

@@ -1,0 +1,1 @@
+program X : l : takes Pi : integer array; Xi, h : integer array returns boolean array do K00(- pp and 8580 + 9 <= 6, 2 > 523); do JhP0a(24 - 0); do k7(933 = 40000); let Y[7] = array 7; do h(1) end l0 : takes V6 : integer array; REBa : integer returns integer array g : integer; do jlm0(1 > 71000, 890, 98); input nU7a end main : chillax end

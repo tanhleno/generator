@@ -1,0 +1,1 @@
+program aY : i : takes c9 : integer array; DLj0, Hs, MQ4, m, V : boolean array; a, n : boolean returns boolean wc, W : boolean; output "" end Gd : takes E : boolean returns integer rR00a, eL : integer; K : boolean array; chillax end main : B : integer; N, i, iPqa, L8d : boolean array; chillax end

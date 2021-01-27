@@ -1,0 +1,1 @@
+program D : main : let L89 = array(04); when case true <= - not 3 and 3 + 567 : pop; output 060 . "b" end case(7300) : chillax end case - 1 - 555 <= 5 : let W = 1470; when case 73 : chillax end end case 94 = 93100 : chillax end case 06 : chillax end otherwise : do dN(0, 467) end end

@@ -1,0 +1,1 @@
+program Vn : E : takes Q : boolean array returns nothing T, V2 : boolean array; chillax end main : when case - not(57) and MV7 - 7 rem uPV0a and 0 or false : chillax end; while false and 007 and 6 : pop end; let e = array - true and 393; do AK(34500 <= 9, 5 = 96, 75, 74); output ">\t"; pop; output ""; do Yk8(53) end

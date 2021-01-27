@@ -1,0 +1,1 @@
+program H : main : K7R : boolean; U, SD1aa : integer array; kI : integer array; h9 : integer; pop - true = - false and 36 - 5 - 4; when case(79) or not 7 and 76 or 8 /= - (1) and 57 - 5 - 5 : input J4; do iJD(330) end otherwise : input H[4]; input Nk; do I(7); pop end; while not 16 + 63800 <= 82 : chillax end end

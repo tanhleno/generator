@@ -1,0 +1,1 @@
+program Fap : wTe : takes j : boolean returns boolean array Q5, AeFaa : boolean; P8, T5, x : integer array; _ : integer; let gV = 64 <= 8; input P; do Fg(4, 4) end main : n : boolean; input J[- (1)]; output "0>!a"; input U[- not 4 or 5] end

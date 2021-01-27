@@ -1,0 +1,1 @@
+program I : T4 : takes HW4aa, o3, GO3 : integer array returns integer array chillax end p1Ha : takes P3, Wr9, F : integer; kJO0a, hk, R, XW, Eu : integer; j : boolean array returns boolean array while 8 - 00 : chillax end end main : nM3, e, N, u : boolean; do m1G(584 / 3 rem false and 50) end

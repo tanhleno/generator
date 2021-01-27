@@ -1,0 +1,1 @@
+program p : U : takes i1Saa : integer; w7, b : integer array; a : boolean returns nothing R1T0, G, o, h3 : integer; F5, Nq : boolean; d : integer array; h7, X : boolean; I : boolean; _ : boolean; chillax end J : takes V, vA : integer array returns boolean array input xJ; do f(4780 = 3, 85) end main : chillax end

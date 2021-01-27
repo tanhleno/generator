@@ -1,0 +1,1 @@
+program S : W3 : takes w : boolean array; Z, TU, FQP : boolean array returns nothing S, Z, Z : boolean; Q6 : integer array; chillax end main : P : integer; tM : boolean; output X(800) - false and 842; output 095 and 180 or 878 end

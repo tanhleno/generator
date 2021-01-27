@@ -1,0 +1,1 @@
+program v : v : takes C, ro, cG, Ke : boolean returns boolean chillax end main : pop - X7[52200] - (5) and 54300; while not true or false and 6 <= - (7) : chillax end; do Cp5a(true and 8 > - 597, - 81 < 5, 3 = 3); input n end

@@ -1,0 +1,1 @@
+program x4h : M9 : takes R_, A : integer; Bo : boolean array returns nothing d : boolean array; Da : boolean array; pop end main : z, Z, Th, Z, jx, P, w : boolean array; T, jS60, n : boolean array; do asA(not O8V0a[8800] + 841 > true and true and 0 or 261 and 0 + 560 - 90); let u[- 5] = array false rem true and 45 end

@@ -1,0 +1,1 @@
+program UwE : tCh : takes T : integer array; fVM0a, A, E, L8c : boolean array returns boolean k, D : integer; V, LS, x, x4 : integer; NV : integer; chillax end main : d3J, tcsa, Xi : boolean array; z : boolean; do B(false / true and false and 1610, true, - l and 6); let W = array - false rem true and 1520 end

@@ -1,0 +1,1 @@
+program hX : E : takes X : integer array returns nothing g, X : boolean; jM, U, ua, Q7 : boolean array; let pK[- (87) and 7 - 6 - 1] = - 2 > 3; do N5(- 5 /= 7) end _ : takes sR, _2, x : integer; u9saa, V, d, O1, KoK0, u : integer returns nothing do s810(8 - 8 < 9, 79) end FA : takes g5 : integer; oW, d, ZMx0 : integer array returns nothing chillax end main : chillax end

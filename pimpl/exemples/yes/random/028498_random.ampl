@@ -1,0 +1,1 @@
+program aJ : r7 : takes E, i3 : integer array; L5 : boolean returns boolean array l, J, J : boolean; PK : boolean; Q : integer array; when case false <= - 7 - 11 : do i(2, 60) end; let O40[0 - 9] = 761 = 2 end main : let U[true] = true - m and 55 or 0 - 69; output false and 47 or 6 - 9 <= 8; pop 7 < 2; pop; output "" . 540 . "z[a" end

@@ -1,0 +1,1 @@
+program Z00 : main : do yBG((79) rem(9)); let Q0 = array false and false and 2760; when case false and 67 + 7780 >= 7 : let e4 = array 273; let g3T = 4 end case 0 >= 997 : chillax end otherwise : chillax end end

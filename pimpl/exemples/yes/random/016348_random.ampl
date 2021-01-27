@@ -1,0 +1,1 @@
+program K3 : A : takes op, O4s, F : integer returns nothing uyka, _I : boolean; chillax end S : takes Wg : integer; X, Lt60, X : boolean; oB3 : integer array; O10 : integer returns nothing let hE3a[6] = array 2 end main : pop end

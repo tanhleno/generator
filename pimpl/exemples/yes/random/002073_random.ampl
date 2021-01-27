@@ -1,0 +1,1 @@
+program F6 : I : takes U8, RT, bS, AUB, sK, a7 : integer returns nothing jL : boolean; input _1Raa[- (01) + 46]; when case - 7 - 02500 : input B0 end case 38 = 9 : chillax end end main : input xN0aa[false rem false * false or false * 45] end

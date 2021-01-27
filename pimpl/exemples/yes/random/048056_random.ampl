@@ -1,0 +1,1 @@
+program YrK : Z1 : takes t : boolean returns nothing f61a, wc, a : integer array; c6Wa, D, R2, F : boolean; chillax end main : W : boolean; do R(- E[3], - (8)); while hJg0a[4] >= true : do Q2(68); when case 9 : chillax end end; pop 6 - 6 /= 2 end

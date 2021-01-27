@@ -1,0 +1,1 @@
+program Q5 : _ : takes KZ, CE, v, _ : boolean returns nothing let S = array false end main : I : integer; HF, d, W : integer; T, u, ZLD : integer; when case true and O(2) / E8 and 00 - true : do T(6 - 70 >= 311); input g[11] end otherwise : chillax end end

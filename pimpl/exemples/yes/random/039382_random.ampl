@@ -1,0 +1,1 @@
+program cB : V : takes C5 : boolean array; _, Q0 : integer returns boolean when case - true and 70 - 99 >= - 2 - 2 : chillax end case - 2 > 729 : when case 087 : chillax end end case 0 = 8 : chillax end; pop 0600 = 4 end main : q1_, w89, Ls, o, V1 : boolean array; chillax end

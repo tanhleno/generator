@@ -1,0 +1,1 @@
+program U : main : EE : boolean; k, _z, q0, v : integer; when case - not 021 > - I1A0 * false - U96aa and 1 : chillax end case - zj(38) rem false < - not 633 and 8 : while 2 = 41 : chillax end; output "=\\" . "\\" end; pop k0 and 1 > 2; input D[x - 3110 - 95] end

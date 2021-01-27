@@ -1,0 +1,1 @@
+program f8z : H : takes oVN : integer array returns nothing X, z : integer; while 284 - 5 - 1 : input q; when case 4 : chillax end; let P = 5; pop end; input C3; output 4 . 50; while 0 : pop end; pop end main : k : integer array; _, m : integer array; chillax end

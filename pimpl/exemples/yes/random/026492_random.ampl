@@ -1,0 +1,1 @@
+program q : J4_ : takes wj, r3 : integer; J : integer; c7, K7, xJ0 : integer returns boolean array l, r03, w, G, fv80 : integer array; chillax end main : let V[46 / false * true and 58] = Z[3] and 90 and 6 > - (63) and 2; pop end

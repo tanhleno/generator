@@ -1,0 +1,1 @@
+program P97 : K8 : takes ph5aa : integer array returns nothing input F[c or 3 - 4]; pop 8 end main : let R[- 1 or not true * not 6 and 9] = X2 rem 47 and 9 - not 006 and 10 - 16800 - 9 > - false or 7 - 2; let u = - not 9 - 2190 - 0 = 9600 end

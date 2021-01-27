@@ -1,0 +1,1 @@
+program m : H : takes EAWaa : integer returns integer YV4, u, Z5, H : boolean array; chillax end yr : takes Td, f, KB : boolean array; Oc : boolean array returns integer array j, l, a : integer array; input y[- 3 - 27]; output ""; while 2 : pop end end main : z, hU4, g : integer array; op, K, a : integer; ij1, g : integer array; chillax end

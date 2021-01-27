@@ -1,0 +1,1 @@
+program YfJ0 : z5 : takes A : boolean returns boolean array chillax end Q : takes p4 : boolean array returns integer chillax end main : when case - false < - 785 + 789 : output 9 = 284; let jKu0a[6120] = array 8; let i4vaa = 681; pop; while 47 : chillax end end case - 871 : pop 0; input f[3] end end

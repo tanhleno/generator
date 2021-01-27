@@ -1,0 +1,1 @@
+program j : n4 : takes fo70a, h, n : boolean array returns integer P0K0a : integer; pS6 : boolean array; pop end n : takes n0e : boolean; wA4a : boolean array; G, V0d, uE : boolean array returns boolean array FdU, h, u : boolean; input n510; when case 0 = 55 : chillax end case 1 : chillax end end main : while true : input T5N end end

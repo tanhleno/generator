@@ -1,0 +1,1 @@
+program K : n : takes h1 : boolean returns integer array i, Y6 : boolean array; bj1, D38, Mzaaa, L : integer; when case - (80) = - 80 : input N; when case 5 : chillax end end otherwise : chillax end end main : x : integer array; chillax end

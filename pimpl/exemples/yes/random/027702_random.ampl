@@ -1,0 +1,1 @@
+program v : MR_0a : takes E, L : integer array; f3, f : boolean array returns boolean array g, H7 : boolean; chillax end F5 : takes Y7 : integer array returns integer while - 0 : pop; input RQ end end main : chillax end

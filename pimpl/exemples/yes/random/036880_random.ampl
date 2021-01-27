@@ -1,0 +1,1 @@
+program f : O310a : takes B1 : boolean; N : integer array; g8 : integer array returns nothing output "z\n\"" end zYJ : takes F, j0raa : boolean array returns boolean output 6 = 0760 . "4"; do k4i0(569); do e(1) end main : s : integer array; MN, p0 : boolean; e46aa : boolean array; let Q[45100] = array K(17, 25) * false end

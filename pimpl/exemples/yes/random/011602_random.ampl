@@ -1,0 +1,1 @@
+program I0h : pC : takes X, h, tf_aa : boolean returns boolean array tL20a : boolean; chillax end main : P, uj7aa : boolean array; when case not T or 46 - true and 8 or 3060 - 5 : chillax end otherwise : do f(1 = 6, 1, 9) end end

@@ -1,0 +1,1 @@
+program ym : t : takes C, D : boolean; FhTa, C, R : boolean array; VCr : integer returns integer do o(- true = 80300); input p[1]; let LO5[1] = 52600; pop 44600 end main : THo : boolean array; chillax end

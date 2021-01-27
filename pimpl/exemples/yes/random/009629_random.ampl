@@ -1,0 +1,1 @@
+program Del0 : fL : takes Uw, m2A, Q : boolean array; d2, N, Qv : boolean array; N, s4, Q6L : integer returns integer array h : boolean array; zm : integer; chillax end main : BYi, Kbra : integer; chillax end

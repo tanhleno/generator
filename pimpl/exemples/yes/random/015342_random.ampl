@@ -1,0 +1,1 @@
+program j : ig00a : takes J, L1, C3 : integer array returns nothing v3, l : boolean; when case(89400) >= - 32 - 85700 : chillax end case 8 - 13 : when case 7 : chillax end end case 3860 : input a1iaa end end main : l7, f, GZn, e17, X, F : integer array; input rh end

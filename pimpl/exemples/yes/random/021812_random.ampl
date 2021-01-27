@@ -1,0 +1,1 @@
+program G : L : takes fn, f : boolean array returns nothing chillax end N9 : takes a, OF, k, G6, Aq, R : integer array returns nothing pop; pop 09; do bC(1); when case 7 : chillax end; while 37 : chillax end end main : G, k74aa : integer; let Y = array - true * C(41) * false and 6 or not o + not 296 and 1 or 18 end

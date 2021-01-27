@@ -1,0 +1,1 @@
+program Egra : JZ10 : takes s, r, a : integer returns integer pop; pop 065 = 876; output 95; pop 74; let S = 700; input X end a : takes R6, FU1a : integer array returns nothing Fi, R62aa, gXz : integer array; I, iF : integer; hYC, l : boolean; chillax end main : chillax end

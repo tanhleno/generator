@@ -1,0 +1,1 @@
+program P : main : F, P, Y5, j230a, n, Y4z, Lrja : boolean; M, b, k66 : integer; Y, vqra : boolean; sWh, w : boolean; W7, d4laa : boolean; _ : boolean; j : boolean; k6X : boolean; when case(5 = 486) * 6 rem not 81 and 6 <= - R / 851 + 994 and 48300 : chillax end case - false / 3 + not 20 and 03 or 9060 - 665 : chillax end case - true /= - 7 - 96 : pop end end

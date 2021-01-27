@@ -1,0 +1,1 @@
+program b : main : while - 77 / true or not VFU / not 6300 or(5960) and 1 : chillax end; when case - (915) : chillax end case 3 + 2 < 5 - 9 : chillax end case - 93 > 618 : let L = 6670; output "" end end

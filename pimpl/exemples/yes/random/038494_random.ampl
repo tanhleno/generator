@@ -1,0 +1,1 @@
+program p : f : takes vj10a : boolean array; X5, GZ_ : boolean; WQt0, j : integer array; l, Q9, Pd : integer returns nothing chillax end main : let k4 = (92800) / (8) - (3) and 3; do N(- false and 17 and 7, 5) end

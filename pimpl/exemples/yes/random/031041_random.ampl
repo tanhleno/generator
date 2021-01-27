@@ -1,0 +1,1 @@
+program Ib : NL : takes R03, S8 : integer array returns nothing output 28 - 8 . 0 = 2930 . "" end main : B, Jl, j2 : boolean; pop - true or(96) and 2260 < true or 6; do uT(- false + true and 1 /= R4) end

@@ -1,0 +1,1 @@
+program N : d : takes l, aU, fu : boolean array returns nothing v, z, V : integer array; d7 : integer array; t, i, u : integer; Y0 : boolean; W : boolean; ed : boolean; let n63 = array - not 19 end Q : takes Ji, XL3, L : boolean returns nothing chillax end k : takes JA, o, u0, q : integer returns nothing chillax end main : chillax end

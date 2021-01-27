@@ -1,0 +1,1 @@
+program v8 : tsr : takes P : boolean returns integer chillax end pA9 : takes J10a, c0, v6S0a, m, Aw7, EyB : integer returns integer chillax end main : while - false or a[17] - not 21 : chillax end; do pW9(false * 7 + true and 28700 + 00600 - 5) end

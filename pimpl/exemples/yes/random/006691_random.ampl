@@ -1,0 +1,1 @@
+program h : C01a : takes w1, x, D, E : integer; h6 : integer; b, v : integer returns nothing T68, U, e, A8, C3 : boolean; a : boolean; let v[- (43200) and 9 - 2 - 151] = - 83 end main : A850, F : boolean; do o(true rem false and false and 5 /= - not false and false and 41 - false + 4 - 34700, 1 and false and 4 + not 44, not 611, - 813 - 141 < 9, 7090) end

@@ -1,0 +1,1 @@
+program wGA : y3 : takes m : integer; J3g, OL, F, E : boolean; R, u : integer; D52 : integer returns nothing when case - not 24 - 90 : output ")\\" . "" end otherwise : chillax end end tB4 : takes w : integer returns boolean T8, KD : boolean; q : integer; R : boolean; chillax end main : chillax end

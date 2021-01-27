@@ -1,0 +1,1 @@
+program N : main : Mk, i52, MXh0, FE, e, Q : boolean array; h4 : integer array; while - true = not bACaa : pop; output 52; do f(581, 69) end; when case - false : while 2 : chillax end; input A4F end otherwise : chillax end end

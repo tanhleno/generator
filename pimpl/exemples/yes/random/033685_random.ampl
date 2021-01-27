@@ -1,0 +1,1 @@
+program Yc : G : takes ZQ90 : boolean; k2da, Qm5, B, Tf : integer array returns nothing G, I8 : integer; e5, t, k2M : boolean; D32 : integer; while - V7Qa and 77 + 0 > 28 : input G; pop end end main : UH : boolean array; b : boolean array; c, w, MI : integer array; iT, UM0, d8 : boolean; D9y0, h, l : boolean; N, wt : boolean; chillax end

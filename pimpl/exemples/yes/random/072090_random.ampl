@@ -1,0 +1,1 @@
+program j : main : awV, s, R : integer; S, F480a : boolean; w, c7ca, X7 : boolean; let qCu[- (36) or false] = true rem false < M and 75; when case - not true = (26) and 38 - 12 - 9 : chillax end case - true and 6 : chillax end case 511 - 47 : input wl end; do e(- not 2, - 46 - 01 /= 5); let N = array - 6 end

@@ -1,0 +1,1 @@
+program Wz : n19 : takes X5, A : boolean array; S : integer array returns nothing chillax end R : takes R : integer array; V, WO : boolean returns boolean T, A67, H, CpU0 : boolean array; when case - 935 > 2 : while 4 : chillax end end otherwise : chillax end end p24aa : takes x : boolean; z, ve7a : integer returns boolean output "" end main : v, ZwT0 : integer; chillax end

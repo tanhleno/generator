@@ -1,0 +1,1 @@
+program H : s : takes j : integer array returns integer array V : boolean; chillax end v : takes fU1a : boolean array returns nothing chillax end main : pop - (2) + aD /= - (0) and 827 or 963 - 190; let cg[- (606) - false and 7 + 48 - 07100] = array U and false + 765 and 7 or 13 - 16 end

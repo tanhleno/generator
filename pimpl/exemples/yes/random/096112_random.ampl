@@ -1,0 +1,1 @@
+program V2 : main : when case - p and false or 1510 rem(7010) + true = - true + L : chillax end case - (428) * true and 228 = - yu - 4 : chillax end case 39 and 50 >= 89 : chillax end otherwise : chillax end; let f2[false or false] = array - 61400 end

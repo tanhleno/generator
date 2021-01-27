@@ -1,0 +1,1 @@
+program pM4 : N6 : takes k0, Dk : integer; W, N9, Q : boolean array returns nothing when case - true + 31 <= - 808 - 21 : pop 3 end otherwise : while 022 : chillax end end end main : x, f, e78 : boolean array; do R(- true rem(6) > false, - 1 / false and 7); input fa[not not 44]; when case I73 and 88600 = 4810 - 3 : output 343 . "" end otherwise : chillax end end

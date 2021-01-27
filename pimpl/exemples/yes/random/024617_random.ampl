@@ -1,0 +1,1 @@
+program ShGa : k : takes zA, s : boolean returns nothing n6 : integer array; BP, M, a : boolean; chillax end main : q : integer; ff : boolean; g, G1, W : integer array; L6 : boolean array; while - K / 0 > - 270 : chillax end; while - not(5) : let _6B0 = 2; when case 63 : pop end end end

@@ -1,0 +1,1 @@
+program k8 : Kf : takes E5Z, a6Ua : boolean array; o : integer; r : integer array; VA, C, oo, t63 : integer returns nothing pop 02 < 961; while - 1 - 50 > 2 : chillax end; input yR[44100] end main : d, _, n0Ta, a, tIG0, zzZ, R : boolean array; chillax end

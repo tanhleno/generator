@@ -1,0 +1,1 @@
+program n : y : takes Sb, L : boolean array; ib4aa : integer; A1i, mhf0a : integer array; je : boolean array returns nothing t, g, VZ5, gw, a : boolean array; Nz4a : integer; let S = array not 61 and 49800 + 50700 - 9; do D(- 1 = 1); let jssaa = 3 end main : Y : boolean; chillax end

@@ -1,0 +1,1 @@
+program P : H : takes u : integer returns integer array output "" . "i`" . 9 end YH10 : takes Q : integer; ndK0a, Z, yt, i : boolean array; E, n, v : integer; g, y, lowa, o3Vaa : integer; e6, EZ20 : integer returns nothing F0, pn70, Q6, T : integer array; chillax end main : p : integer; Zd, L72 : integer; while not false - not 99 = - not true : chillax end; input r[12] end

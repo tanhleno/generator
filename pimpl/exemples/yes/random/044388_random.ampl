@@ -1,0 +1,1 @@
+program d : u5 : takes sT0 : boolean array returns nothing b, u : integer array; r : integer; H79aa : boolean; chillax end main : fw, CZ4, If, e : boolean array; output "\\" . "\tbaa" . ""; when case false + 8 or 7 : chillax end case - not 3 and 59100 or 9 : chillax end otherwise : chillax end; let S4 = 0 - 07400; input E[- 0] end

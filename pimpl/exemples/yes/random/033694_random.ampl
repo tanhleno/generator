@@ -1,0 +1,1 @@
+program W : d2 : takes Ny : boolean; e, kC, d, q : integer returns boolean array f3, p : integer; X25, n : integer array; O : integer array; while(3) <= - 0 - 7 : chillax end; while 001 > 7 : chillax end end main : pop - not 7 * (1130) and 2 end

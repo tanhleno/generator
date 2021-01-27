@@ -1,0 +1,1 @@
+program C : aw5aa : takes U : boolean array returns integer array s, p, J, u : boolean array; lu : integer; input j11a; when case 0 : when case 3 : chillax end; let H = 0; pop end case 1 : chillax end otherwise : output ""; pop end end main : B1 : integer; output - y3t0a * not 3 + not 8 - 594 - 5790 . "M/aa" . - 09 end

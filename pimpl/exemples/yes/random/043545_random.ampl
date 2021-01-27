@@ -1,0 +1,1 @@
+program Bo : _ : takes C4 : boolean array returns nothing chillax end AGDaa : takes eQR0a : boolean; d730, p : boolean returns nothing A, H : boolean array; chillax end main : k7, o, L, R, L, V : boolean; K : boolean array; l : boolean; pop; when case l6(77000) : chillax end otherwise : chillax end; do a(- 0 and 5680 < - 130, - 59700 - 6 < 870) end

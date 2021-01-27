@@ -1,0 +1,1 @@
+program M : Zz0a : takes _, c, v570, e : integer array; D870 : boolean array returns integer when case - false and 5 - 1 - 69 /= 91 : while 1 : chillax end end otherwise : chillax end; let v = 7 end main : hhG0a, X24aa, ILVaa : integer; S, A21a, yp3a, l2n, W : integer; chillax end

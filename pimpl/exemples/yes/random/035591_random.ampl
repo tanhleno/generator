@@ -1,0 +1,1 @@
+program yw7 : y : takes IX2 : boolean; K91 : boolean array; K, oZ, jlh0, w : boolean array; tRva : integer array; p : boolean array; X : boolean returns nothing pop - 0; while - 5060 - 1 > 050 : chillax end; when case 317 = 52 : chillax end; input jX2a[31] end main : pop - true rem Ph; do P350a(not(57) rem Y + false + 34 - 8) end

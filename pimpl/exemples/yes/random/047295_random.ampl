@@ -1,0 +1,1 @@
+program k : K81 : takes h : boolean returns integer output 2 . ""; do x(8 - 4 = 4); pop end rJ : takes o3 : boolean; L : integer returns integer array chillax end m7 : takes r10 : integer; Q : integer returns nothing Sn, l, D2 : boolean; s, j : boolean; chillax end main : i, s6 : integer; Y75 : boolean array; chillax end

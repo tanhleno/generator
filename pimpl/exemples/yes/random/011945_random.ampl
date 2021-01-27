@@ -1,0 +1,1 @@
+program e : c : takes Z, D, lw : boolean returns integer x8e0a, w : integer; Nem : integer array; C1, D : boolean array; chillax end main : U : integer array; while false * not R8K0 rem false or false / false : output "" . "\\\t\"a" . 9; let h = array 24 end; input D6 end

@@ -1,0 +1,1 @@
+program A : WG : takes b9, O, o : integer; M09, eYnaa : integer returns integer pop end N : takes J, q, G, L : integer array returns nothing Y, b : integer array; let V1d0 = array 45 - 9 end main : V4, t : integer array; s28, h : integer array; c5 : boolean; chillax end

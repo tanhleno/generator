@@ -1,0 +1,1 @@
+program t : x : takes HS0 : integer; u, JYs, o_q, L9 : integer; R : integer array; KjE : boolean returns boolean u6W : integer array; chillax end S : takes m : integer array returns integer array chillax end main : do P8(- false * not(7) < true); output - not 26 /= - 2 - 21 . "R" . 69 = 1; while c : let v = 2 end; do b8(- 33 >= 5, 4, 7, 69); output 45 end

@@ -1,0 +1,1 @@
+program O : ye : takes M, I460a : integer array returns integer VbI, W62a, M, s5 : boolean array; chillax end main : output "" . "T"; while 6 * false and 6 or 02600 and 0 >= - _5 - 81 : pop; do Y1(82) end; output 0 - 22 >= 5 . "\n80" end

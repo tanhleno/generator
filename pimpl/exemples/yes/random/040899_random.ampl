@@ -1,0 +1,1 @@
+program e2 : K : takes U : boolean array; G42 : integer array; iE : boolean returns nothing l, n : boolean; s : boolean array; chillax end main : while 3 * 0 / false - (60) / not 0580 - A < - (403) : chillax end end

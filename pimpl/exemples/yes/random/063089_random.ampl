@@ -1,0 +1,1 @@
+program sPZ : WC3 : takes J : integer returns integer array input c5[V13] end D3S : takes P990a : boolean; Y, e, lHI : boolean array; Z : integer returns nothing when case 8 : chillax end otherwise : pop; pop end end main : chillax end

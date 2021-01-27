@@ -1,0 +1,1 @@
+program t : main : F, P : integer; let X[- C[8450] / 8620 - true / false and 0] = true or 890 /= not 7; while not(2) /= - true : when case 1 : chillax end; pop 1; input m end; let H = array - 601 end

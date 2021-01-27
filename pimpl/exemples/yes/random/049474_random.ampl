@@ -1,0 +1,1 @@
+program A : F45 : takes b7I : integer; vjo, J3u0a, Z, bk4, y66 : integer array returns integer J : boolean array; chillax end main : Ym : integer; r67 : integer; while not not F5Ga / 1 rem 97 and 176 > true - 86 : chillax end; output false + 2 end

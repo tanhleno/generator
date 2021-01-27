@@ -1,0 +1,1 @@
+program S1 : uJ1aa : takes w : integer; Q, h, zy20a : boolean; Y3, q : integer; Yp : integer returns nothing v7 : boolean; p, b1, u, K : integer array; Ru : integer; q, P9 : boolean; c : boolean; Ya : boolean; chillax end main : while(2) rem true : output "" end; do Uc(- 97700 or 5, (80) or 8 - 88 = - 49); let C[- false] = - 8 - 3 <= 4 end

@@ -1,0 +1,1 @@
+program t : v : takes z20a, SuV, C : integer array returns integer chillax end t : takes A : boolean array; D : integer; H : boolean returns boolean array bBFa, G : integer array; MV : boolean; G, y : boolean; chillax end n : takes d, T, v56, z : boolean; D : integer; y, p3, X : boolean returns nothing pop; do j(2, 2); while 6 : chillax end end main : chillax end

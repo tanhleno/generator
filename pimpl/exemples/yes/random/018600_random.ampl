@@ -1,0 +1,1 @@
+program s : aO : takes O, t : boolean array; Zw, I, b, J, E6N, w, r : boolean returns nothing chillax end main : A, h, J, K0T : boolean array; e : integer array; let H[9 / not 4 / not 5 and 8] = array - nk[5] and X[7]; output - O and 2 or 47 . 1; let p[not 1] = 3 >= 1; let p[- 043 - 6730] = 5 = 01 end

@@ -1,0 +1,1 @@
+program G : R : takes Z : integer array returns integer array D0, Sw4, xc9a : integer array; let M[(977) and 6 - 24] = - 9 end v62 : takes kT, uxP, G, xa, F : boolean returns nothing Yx, x : boolean array; N : integer array; do a0saa(- 095 - 3, 524 = 3); let f18a = array 76500; when case 5 : chillax end; while 84 : chillax end end main : i : integer; f : boolean; chillax end

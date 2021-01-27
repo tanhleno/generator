@@ -1,0 +1,1 @@
+program f9 : p29 : takes C5 : integer array; g6eaa : boolean array; B3, c3, i390, U6q, L, M : integer; A : boolean array returns nothing b, w4o : boolean; chillax end r : takes H : boolean array; qk : boolean array; _q : integer; F : integer; e9 : boolean; M : boolean returns nothing chillax end main : T : boolean; output false + not 9 - 4 end

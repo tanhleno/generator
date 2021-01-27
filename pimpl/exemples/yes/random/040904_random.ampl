@@ -1,0 +1,1 @@
+program p2 : P : takes M0 : boolean array; c : integer array; bct : integer; K, KU, N, b : boolean array returns boolean pop - 232 - 0 <= 5 end o7z0 : takes r, oqYa : integer array returns nothing Ub80, GA : integer; chillax end main : chillax end

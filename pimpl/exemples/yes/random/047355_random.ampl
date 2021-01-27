@@ -1,0 +1,1 @@
+program r2a0 : K : takes PT : boolean returns integer while - f and 1 or 7 : chillax end; while 1 >= 4 : chillax end; let Z8 = array 2380 end LZ : takes o, Ar1, _c7 : boolean returns boolean array i, yt, s, G : boolean; Y, fxa, v : integer array; do Yz(- 2 - 149) end main : Y : integer array; input Hd; input h[- not true or Q and 6]; output 08 - 758 < 2 end

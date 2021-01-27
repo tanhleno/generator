@@ -1,0 +1,1 @@
+program r : se : takes Y, J : integer; I : boolean returns nothing e0, H, d25 : boolean array; input YwJ[2 or 21 - 69]; when case 3 > 483 : chillax end end main : Y, t, w9 : boolean array; chillax end

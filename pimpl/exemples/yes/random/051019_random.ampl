@@ -1,0 +1,1 @@
+program j4 : Z : takes rO : integer; j0Ca, O5 : integer array; A : boolean array; cy : integer; sB, b : integer returns integer chillax end F : takes _, l7 : boolean array; S, U880, O, LT : integer array; u : integer array; t1, _ : integer; t : boolean array returns nothing chillax end main : JT10a : integer array; chillax end

@@ -1,0 +1,1 @@
+program qW10 : dyU0a : takes x1 : integer; V : integer returns integer chillax end x : takes YQ : boolean returns integer e, ztD0, k : boolean array; U : boolean; let H21aa[5] = array 3850 - 3; input O3 end main : output ""; while 3 rem false > (8) : let _ = array 98 end end

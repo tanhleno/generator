@@ -1,0 +1,1 @@
+program H : x : takes m87aa : boolean array returns nothing chillax end main : g, M, c, _ : integer array; pop; do Z20(f - false or 1, - 6 and 6 + 18200 - 015 <= 36400 - 89); do q(- true and 61 - 0 - 1, - 8 - 2); do K(7 - 8 /= 21, 4 = 151) end

@@ -1,0 +1,1 @@
+program S : x : takes g, ETb0a, MEw, v7B, B1, s9, e, e : integer; K440, r : boolean array returns boolean H : boolean; chillax end D : takes YEa, lq9 : integer returns nothing sTmaa, c : boolean array; e, q : integer; chillax end main : do A(83 or false - not 1 and 1 or 3, false <= - N7 and 7 + 72) end

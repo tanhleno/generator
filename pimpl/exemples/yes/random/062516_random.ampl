@@ -1,0 +1,1 @@
+program B07 : q0K : takes DY : integer returns boolean f : boolean array; y8raa : integer array; pop - 579 - 059 /= 78500 end g : takes X : integer array returns nothing pop end main : a : integer; chillax end

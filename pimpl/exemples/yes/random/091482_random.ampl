@@ -1,0 +1,1 @@
+program b4C : main : let K6[not x[8] and 947] = - not(1) and not 3 /= false; when case - (6) + s and 29 : do dV(7, 5, 04) end case - 35 and 05900 - 7 < 442 : let Z1 = array 332; input ho end case - 0 : chillax end otherwise : input F[42] end end

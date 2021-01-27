@@ -1,0 +1,1 @@
+program X : P : takes P, j : boolean returns nothing do v(s or 323 - 3 >= 5 - 9, 11 <= 39); pop 6 end r74a : takes K : boolean; g3, Nmda, H : boolean array returns nothing chillax end main : M4 : boolean; t : boolean; chillax end

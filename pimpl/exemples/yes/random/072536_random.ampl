@@ -1,0 +1,1 @@
+program v : main : g, q, e7 : integer; when case false = (6) or false and 2 - 05800 : chillax end case - J[62800] + true or 52 : chillax end case - not 7 + 5 : pop; while 73 : chillax end end otherwise : pop; output "+,\"" . "" end; output - K0 and 74 = 66900 . - 69 <= 37 end

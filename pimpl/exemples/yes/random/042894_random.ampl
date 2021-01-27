@@ -1,0 +1,1 @@
+program E : qk : takes p : boolean array returns integer array while not 24 and 8770 < - 91 - 2 : do x(4); while 05 : chillax end end end N : takes g9 : boolean; SQ, o : integer returns nothing H, ZF7 : integer; input l; pop; input r[641]; when case 5 : chillax end; output "Q0"; pop end main : let P = - true rem 6 <= - R; do y21(- zo and false and 3, true) end

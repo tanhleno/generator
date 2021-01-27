@@ -1,0 +1,1 @@
+program f : S0 : takes Rx : boolean array; L, d : boolean array; Y : boolean array returns nothing Et, aH90a, t : boolean array; input b3aaa[true and 45 - 278]; output 741 end main : yb, iV, W, d, V, b92a, Rn : integer array; chillax end

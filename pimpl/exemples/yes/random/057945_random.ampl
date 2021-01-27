@@ -1,0 +1,1 @@
+program H : Y : takes T : integer array returns boolean array output - 64 < 2; when case - 1 - 07 > 32 : do fz(949); do JwDaa(3); pop end case 69900 = 383 : when case 0 : chillax end end case 4 : chillax end end main : input W; let X = array true; while(681) and 82200 >= - 6 : chillax end; do J5(- 81800 <= 428) end

@@ -1,0 +1,1 @@
+program b : t : takes P : integer returns nothing P : integer array; chillax end main : when case - (8) - 2850 /= (5) : let w = 2 = 40 end case 97 and(7560) + l or 2 : chillax end case(584) and 8550 = - 44000 : chillax end case 22 < 3 : pop end case 5 = 9 : chillax end case 2 : chillax end case 57 : chillax end; do R(84 and(234) and 59800 + true, i or 56 - 8 < - 4) end

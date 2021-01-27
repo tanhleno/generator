@@ -1,0 +1,1 @@
+program T : main : l : integer; j, G, a, amI, F : integer array; pop true and true and 669 + not 4 and 0; let Xgc[(5) rem l and 37 - (527)] = array - v[90] + not 1 and 2 or 1; do pX(not 3170 and 3 = 9 - 21300, - 327 - 98); output "5" . 1 . "" end

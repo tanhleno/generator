@@ -1,0 +1,1 @@
+program L : e3 : takes k6, YC2, t, n9, q, u2 : integer array returns nothing chillax end I : takes v : integer; G : boolean array returns nothing n : boolean; B : integer array; chillax end main : pQ : boolean array; o4, YCa : boolean array; output - true * (4) and 0510 + true and 8 >= - false - 018 . - (3) - 9 - 0 end

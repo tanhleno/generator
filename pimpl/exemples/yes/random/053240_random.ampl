@@ -1,0 +1,1 @@
+program N : K : takes q2 : integer; k12 : integer returns nothing chillax end sFU0 : takes Tx, r : boolean array; L2Maa : integer array; v, p, C, o2u, d : integer returns boolean let A = 3 = 766; pop 05 end main : chillax end

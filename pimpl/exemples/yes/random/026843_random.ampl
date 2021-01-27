@@ -1,0 +1,1 @@
+program l : bQ9 : takes _, y : integer; b : integer array returns nothing mOO0 : boolean array; while - J2taa : while 26 : chillax end; pop end; let t[9110] = array 858 end main : z4 : boolean array; chillax end

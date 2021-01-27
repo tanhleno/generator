@@ -1,0 +1,1 @@
+program f5 : C : takes cU : boolean array; M29 : boolean; y, s1 : boolean array; Y : integer returns nothing chillax end main : G270, FZ, R4 : boolean array; while _ - 4300 / not 1480 : pop 61 = 7 end end

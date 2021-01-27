@@ -1,0 +1,1 @@
+program JmV : fYz : takes m, U, Mt, p : integer array returns nothing S1 : boolean; g : integer; chillax end W96 : takes _E : boolean returns nothing chillax end f4 : takes _, PA, a70 : boolean returns nothing hY9a : boolean; W : boolean; B6 : boolean; N2 : boolean; chillax end main : do l(false + (4) or S and 7 or 001 - 2500) end

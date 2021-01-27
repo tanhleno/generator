@@ -1,0 +1,1 @@
+program A : R : takes Vtja, T : boolean array; Ch4 : boolean returns boolean array y, _5, V, yTb, L : integer array; V : integer array; MqD, Zc9, r : boolean; NP, gL1 : boolean; U3 : boolean; q50 : boolean; when case false - 422 - 5 = - 8 : pop; when case 11600 : chillax end; pop end otherwise : chillax end end main : chillax end

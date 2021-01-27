@@ -1,0 +1,1 @@
+program q : main : o2 : boolean array; while - (59700) : input Gu3[023]; do a370a(68 = 8, 6, 432); do g64aa(5, 6); output ""; let _0 = 0; pop end; let xeeaa[(93) rem false and 85] = array B0q[44800] and not 2 and 91 + (36) and 55 end

@@ -1,0 +1,1 @@
+program z : ZS : takes L, G, J : integer array; a, UF : boolean array returns nothing chillax end K : takes bMd, lPj0a : integer array returns integer Fz6aa : integer array; g : boolean; N : boolean; Z : boolean; w4 : boolean; chillax end main : when case true : chillax end case(814) * T5 and 5 + 067 and 8 : chillax end otherwise : output 5 end; output "i" end

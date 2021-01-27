@@ -1,0 +1,1 @@
+program C4 : c : takes Q, U, K, X : integer returns nothing J : boolean array; chillax end R : takes z, a, l, j, Jo, u, B : boolean; e, g9, n, K : boolean array; F71, B : boolean returns nothing chillax end hL : takes mV, W8, M3, g20a, qS : integer returns nothing J, E : integer; output 7; do uY1aa(0, 19) end main : chillax end

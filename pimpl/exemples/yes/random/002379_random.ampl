@@ -1,0 +1,1 @@
+program YI5 : c2 : takes wN, g, W41aa, a0, qk0 : boolean array; Z, l, a9e, U8_a : boolean; Q, a : integer array; UAK : integer returns boolean array D2, w : integer; input l7[- not 1 and 6] end main : output true rem not 40 and 7 >= 3 - 103 . "\t" . "" . "" end

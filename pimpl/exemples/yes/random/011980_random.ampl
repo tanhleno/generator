@@ -1,0 +1,1 @@
+program Go : D : takes L1V0, T1H, A : boolean returns integer o : integer; output - 8 . 7 . ""; input Yv0a[30800]; when case 3 = 0 : do y5baa(97800); pop end; while 0 : chillax end end main : V : boolean array; input p2[5 or E[18] + 66 and 0 + 6] end

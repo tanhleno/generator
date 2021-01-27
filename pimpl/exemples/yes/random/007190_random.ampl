@@ -1,0 +1,1 @@
+program zKa : R_ : takes u, Y, W, Z : integer array; O : boolean returns boolean array E : integer; chillax end Q : takes HQ : integer; G : integer array returns nothing when case 5 >= 0 : chillax end case 97200 : chillax end otherwise : chillax end; while 41 : output "\""; pop end; let wm50a[5] = array 5 end main : _M : integer array; chillax end

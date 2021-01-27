@@ -1,0 +1,1 @@
+program u870 : Ya : takes S : boolean returns integer array j, o : boolean; c5, It, Q, VM3a : boolean array; b6, e : integer array; q : boolean; V : boolean; RB : boolean; input C; output 4680 . "?2\"a" end main : input G; while Q / true < - (854) and 149 - 83100 : output "6" . 3350 . ""; input C[164]; let e = 14 end end

@@ -1,0 +1,1 @@
+program m : W : takes j : boolean; c4, HB, h1 : integer array; h : boolean returns nothing while P9 and 9 - 667 /= - 29200 : pop end; while - 7 : let _0 = 54; let J79 = 47 end end main : qyKaa, w, Cy5, Gs, E9u : integer array; chillax end

@@ -1,0 +1,1 @@
+program t : s4k : takes i, O, U, B, Us : boolean array; syWa, I : boolean; i, J : integer; T : integer array; Jh, Tw3, Y, I : integer array; K : boolean array; q9, l : boolean; CRUaa : boolean; X : boolean returns nothing D4, J9 : boolean; output 6 - 188; output "" . ""; pop end main : o8, G, n : integer array; W4, _, t, evX : boolean array; chillax end

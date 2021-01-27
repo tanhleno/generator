@@ -1,0 +1,1 @@
+program o : main : do R(IH5(23, 7) / 93500, - oC3a[41600] and(43) and 19 > - P8 - 7, false); when case not(5) or 1 and 3 or 0 < not 1 : pop end case - 30 and 0 or 4 - 8 : while 3 : pop end; output "" end otherwise : while 79 : chillax end end; do I(a); input j[1] end

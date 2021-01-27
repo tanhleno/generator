@@ -1,0 +1,1 @@
+program k5 : u : takes _ : integer returns boolean array when case - (3) and 9 : pop; input m7 end end main : TD, u53, W4oaa, inQ, t, i2u : boolean array; input NW[- q8 and d(4) - (5)]; pop 18 + 80 - 700 end

@@ -1,0 +1,1 @@
+program E8 : t2 : takes l : boolean array; vI40a : boolean array returns integer array input c0; pop 8 = 3 end L : takes c : boolean; J : integer returns nothing ja, RP40a, u, DV : integer; input i end main : chillax end

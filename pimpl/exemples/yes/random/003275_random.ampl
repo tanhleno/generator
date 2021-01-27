@@ -1,0 +1,1 @@
+program SZD : t : takes H, B, D, Y1, V : integer; v : boolean array; z : integer; I : boolean array returns integer e, K41aa, YK : boolean array; H230a : integer array; c, t : integer; j6 : boolean; chillax end main : do x(303 + (7) and IB and 4 - true and 330 + 4 - 534); while - (60) and iu and 5 : chillax end; do s9(- true and 570 - 8 - 20) end

@@ -1,0 +1,1 @@
+program e : zo : takes E, cc2, o : boolean array; OD, Q04 : boolean returns nothing p : boolean array; chillax end I : takes J, LXq : boolean array; D, c, Q : boolean array returns nothing when case - 71000 /= 69 : do I(5) end case 3 : output "3"; pop end case 527 : chillax end case 66 : chillax end end main : output "8" end

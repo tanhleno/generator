@@ -1,0 +1,1 @@
+program gt : i6O0 : takes Y, VP : boolean array returns nothing pop - 598 - 60100; let zm[- 2 - 31] = array - 77 - 1 end T : takes j, P : boolean returns boolean Uue, b6F : boolean array; input c; do Fd(2 = 53) end c : takes I0, Qnha, N91a : boolean returns nothing chillax end main : r4m : boolean array; chillax end

@@ -1,0 +1,1 @@
+program V : C : takes rF : integer array returns boolean do w3(27500, - 1150 - 13200) end main : j, s02, H6, w90, M, aa, O : boolean; output - (1) * true and 6; let _9 = array - (4) rem not 78; do v((090) < - 58) end

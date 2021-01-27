@@ -1,0 +1,1 @@
+program s : U : takes vtH0, k1 : boolean array; Ejc0 : integer array returns integer array n, x, B : boolean array; oY, L0 : boolean; nQ0a : boolean; output - 539 <= 10800; while 47 - 1 = 5 : chillax end end Y0J : takes BR, Ig : integer; U5, uPC0a, A9, kr00a, pr30a : boolean array returns nothing D : boolean array; chillax end main : I, LQ70 : boolean; chillax end

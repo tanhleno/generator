@@ -1,0 +1,1 @@
+program Z : N : takes v_90, JY, s7, l, C : integer array; wt5a : integer array returns nothing P, s6, F, v : integer; chillax end main : l, G, f4 : integer array; Kba : integer array; while - not(4) : chillax end end

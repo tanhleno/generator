@@ -1,0 +1,1 @@
+program q : main : when case(4 = 44) / false * not 94 = - T86[5] : do zm(256 - 4); pop 3; do m6(56); when case 7380 : chillax end; do i3(90700); pop end; while 743 and l or z4B0 and 2030 : chillax end; input P[- not 51 and 2 + 53]; pop 1 end

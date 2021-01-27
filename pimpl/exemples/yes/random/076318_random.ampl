@@ -1,0 +1,1 @@
+program S : main : w, c4 : integer; yG0 : boolean array; yE0, l, _, nf, X : integer array; V, sK10 : boolean array; mvja, B, L5 : boolean; L4Raa, p : boolean; O : boolean; z : boolean; when case - 5060 rem not(6) : chillax end case - (7) * 44 and 6 + a - 1 - 55400 /= - false and 7 : chillax end end

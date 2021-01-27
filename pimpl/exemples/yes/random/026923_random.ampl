@@ -1,0 +1,1 @@
+program T6f : Tu : takes v0, s : integer; _l9aa : integer returns integer chillax end main : X : boolean array; hZY : integer; G : boolean; h9, D, eh, t : boolean; when case - not not not 2 : pop end otherwise : output "\"" end end

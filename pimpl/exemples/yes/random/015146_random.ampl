@@ -1,0 +1,1 @@
+program S99a : Uc : takes y, qQ, ZzAaa : integer array returns nothing chillax end y2 : takes d6A0a, Tu0, z : boolean array; I, W : boolean array returns boolean chillax end gj : takes v : integer; P, x, _Y2 : integer array; h71a, H : integer array; Wn : boolean returns integer T, LY : boolean array; chillax end main : pop - (5) * s + not 6 or 8 > - false and 33 or 3040 end

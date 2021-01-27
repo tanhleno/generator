@@ -1,0 +1,1 @@
+program g : main : do a(- (03800 = 3460) / not true rem not 1 < (89), not b38a rem false and 247, - D and 7 or 1420 < 41, - 01000 - 35); input W[- true and not 2 or(28)]; do S(- not 3, 81300, 55200 = 092, 3730) end

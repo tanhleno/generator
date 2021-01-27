@@ -1,0 +1,1 @@
+program l6 : q7s : takes H, Pl5, N : integer array; x, B03, R0, Yk : integer array; F, a, ty : boolean; F, V8 : boolean array; qV9 : integer; f92 : boolean returns nothing t : integer; A, F, m : boolean array; t : integer array; L : boolean; output "49"; let B5[8] = array 86 - 0; pop; pop end main : chillax end

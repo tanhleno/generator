@@ -1,0 +1,1 @@
+program S : Q : takes g, q : integer array returns nothing R : boolean; W7, G, ac, NtX0a : integer array; chillax end fy : takes w5 : integer; N, I, Q, K : integer returns nothing P3 : boolean; pop 8 = 2 end main : chillax end

@@ -1,0 +1,1 @@
+program VX : main : x, n : integer; when case true or(62) rem true and 6 - false and 3 or 9 >= 80 and not 86 or 490 - 63200 : chillax end case true / 388 - x3j and 8 or 24 - 818 = not 5 and 4 : chillax end; when case not(5) rem false /= false and 715 - 9 : chillax end end

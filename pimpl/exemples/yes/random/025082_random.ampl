@@ -1,0 +1,1 @@
+program D : I9Waa : takes x1v, d2 : integer; mV, M, k, hS10a : boolean returns nothing v620 : boolean array; chillax end y : takes N, Em : boolean array returns integer O, W2 : integer; input f7 end main : J5 : boolean array; output "" . "" . - 5 = 713 . "5" . "" . ""; input b[exA0a(1)] end

@@ -1,0 +1,1 @@
+program k : main : JR, j1 : integer; g0, c, C840a : boolean array; KMd0a, M, V : boolean; Fy, hH3aa : integer; Z, i, v74 : integer; j, S : boolean; v4E : boolean; while - false rem not(7) rem not 7 < - false / not 88 and 692 - false or 688 : do A(- 5 - 96 > 8) end; output - 088 end

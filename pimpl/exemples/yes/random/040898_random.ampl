@@ -1,0 +1,1 @@
+program yS9aa : T7O0 : takes GiV : boolean array; n : integer array; UL : boolean returns nothing YP5aa, mdz, rp1 : boolean array; chillax end main : fs4, z070 : integer array; when case - (1 = 64) rem false rem not 10 and 37 - (41800) and not 573 and 51 : input h[- 196] end otherwise : chillax end end

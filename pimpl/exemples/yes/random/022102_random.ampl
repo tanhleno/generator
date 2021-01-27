@@ -1,0 +1,1 @@
+program Gh8aa : O : takes t, f5 : boolean array returns nothing J, n, AU, Y, f : boolean; X5, GJ : integer array; ok, W : integer array; chillax end WQ7aa : takes t : boolean array; X300a, J, I : integer returns boolean array output "YU\"" end main : when case - (3 = 86) / not 3 * false < 41 : chillax end otherwise : when case 93 = 5 : pop end end end

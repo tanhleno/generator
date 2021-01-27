@@ -1,0 +1,1 @@
+program g : Rt : takes R : boolean array; s : integer; e, m : integer; Y : boolean; To, T, u9qa, G : integer array; g : boolean array; K2 : boolean returns nothing d : boolean array; chillax end main : gXr : integer array; a, i, c4 : integer array; pUK0, A, H970a, N : integer array; let Ya1[true and(7) + not true + (81200) and 0] = array true - (80) or not 47 and 20 + 5 end

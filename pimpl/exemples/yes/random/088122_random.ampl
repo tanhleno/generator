@@ -1,0 +1,1 @@
+program F : main : input T; when case(6) and false and 3 + 1 and 3 < - F : let p84aa[19200] = 4; input F; pop end case true + 210 - 133 : chillax end case - 64 - 9 >= 5 : chillax end case 15900 : chillax end case 2 : chillax end case 9 : chillax end otherwise : chillax end end

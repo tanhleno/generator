@@ -1,0 +1,1 @@
+program in10a : w : takes o9, G4 : boolean array; k1, O250a, P38aa, Z1, o9 : boolean returns boolean array chillax end main : q : integer; do Y(- false / YZ(7440) / (19) and 44, - I - 9 and 4 - 2 - 42 < - true) end

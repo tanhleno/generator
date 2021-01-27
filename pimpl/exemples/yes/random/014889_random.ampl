@@ -1,0 +1,1 @@
+program e4 : Fz : takes c, N, l : integer array returns integer array chillax end y : takes rT4, H : integer; B9 : boolean; U : boolean; mU6 : boolean; zw, z : boolean array returns boolean array V, _u : boolean; VX30a : integer array; R43, A06a : boolean; when case 11 /= 0 : pop end; pop 3; while 41 : pop end; output ""; input n86aa; pop end main : chillax end

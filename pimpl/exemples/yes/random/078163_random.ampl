@@ -1,0 +1,1 @@
+program F : main : A, X : integer array; while - not not true and(44200) and true = - true rem true and 96200 : do Y8(112 - 163, 1); while 6 : chillax end end; let eQw = array - false / (2) and 432 end

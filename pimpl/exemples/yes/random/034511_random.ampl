@@ -1,0 +1,1 @@
+program D6v : d : takes R : boolean; c, N : boolean array returns boolean L : boolean array; chillax end main : Z : boolean array; output - F3[720] * not 85 - 13 and 0 < not 2 and 8 . 4 - 7250 - 480 > - 9 - 04700 . - 2940 > 1 . 9 = 2; do dc(false / not 5 = - not 556, true and 3, - 656 - 5 >= 44, 708) end

@@ -1,0 +1,1 @@
+program N8 : g : takes Ty7, g : integer returns boolean Z, j2 : integer; YoSaa, Ow, P, g : integer array; chillax end b : takes t1n, SD60a, s, S130 : integer; lI, C4 : integer; h07aa, c7 : boolean returns boolean w, l, h : boolean; while 760 /= 8 : chillax end; do En(9); let Q2X0a[2] = array 9; input OS end main : input K; output o and 80 end

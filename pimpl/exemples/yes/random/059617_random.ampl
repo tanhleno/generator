@@ -1,0 +1,1 @@
+program g8 : h : takes b : integer array returns integer while not 68100 <= - 99 : pop; do t(7220); while 6 : chillax end; pop end end W : takes h, J : integer returns integer array let FY = array 383; when case 183 : let p = 2; pop end case 4 : chillax end end main : XC : boolean; i, M0, BFz0 : boolean; X, jS5aa : integer; chillax end

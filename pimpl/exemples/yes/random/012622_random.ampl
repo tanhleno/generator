@@ -1,0 +1,1 @@
+program Ki : V : takes ej2a, _, Wu : integer; I, J, vt, IW : boolean array; LS5 : boolean array returns integer array V, b : boolean array; h : boolean array; chillax end main : uF, e9, d6Y : integer; A6daa, f5, p, z, wu : boolean; oR, A, p5K : boolean array; cR, g, N : boolean array; ov, A21aa, Jk : integer array; O3, A : boolean; input T[not true * false or not not 7] end

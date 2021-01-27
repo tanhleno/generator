@@ -1,0 +1,1 @@
+program H : main : O : boolean; when case - (6) or r0[19] - (77) : input k820[69 - 91]; output 2 end case - true : chillax end case - not 36 and 5 : output "C" . ""; do C4(9); let I = 3 end case 6 - 433 : let s7 = 2 end otherwise : input t; input T[2]; do W92a(6) end end

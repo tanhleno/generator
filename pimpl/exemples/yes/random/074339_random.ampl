@@ -1,0 +1,1 @@
+program v : main : BNT, HMd : boolean; when case(9) - not false or(23) and 3 or 856 - 4 <= P(511) + 652 and 62 + 13 : chillax end case true rem false and 9 or M and 8 : when case 7 : chillax end case 1 : pop end otherwise : pop end; pop 118 end case not 4 and 211 - 3 - 2 : chillax end case 0 - 0 : chillax end case 7 = 69 : chillax end case 0 : pop end; input d end

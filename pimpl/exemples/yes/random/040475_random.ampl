@@ -1,0 +1,1 @@
+program uf : T8 : takes Z5o0a : boolean array; L3 : boolean returns nothing while 24 : chillax end end R0 : takes ev, Z, W690a : boolean; w : integer returns boolean C0na, sCk0, I, A : boolean array; j : boolean array; Ez : boolean; EFY : boolean; let O4[- 9 - 9] = 8 end main : chillax end

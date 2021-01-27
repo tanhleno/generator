@@ -1,0 +1,1 @@
+program m : X : takes R, N : integer returns nothing chillax end main : RAga, RJ, O : boolean array; when case - 7 and true - not(7) <= 9 and false : let _5J0 = array 8 - 3; let Um[6] = 0 end case not true + false and 9 >= - (30) and 0 - 7 : while 066 = 6 : chillax end; input h[0590]; pop end; when case - true / false : chillax end end

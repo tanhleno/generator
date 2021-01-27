@@ -1,0 +1,1 @@
+program K : main : o6, d, H2P0a : integer; when case - C(34) or not not 867 * not 02 and 160 : input cO; pop 0; while 77 : chillax end end case q <= not 53 : chillax end case - UgM and 20400 : input G; do l1(7); output "\n" end case - 1 - 3 > 99 : chillax end otherwise : chillax end end

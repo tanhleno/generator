@@ -1,0 +1,1 @@
+program H20 : Q : takes N : integer returns integer B, M : integer; Q, M, a, o4C : integer array; G_t0, v : integer array; Ry60 : boolean; P5i : boolean; input J[(535) and 6]; pop 1 = 2050 end main : output true . - 2 and 0 + 6 - 0 = - 73 - 89; while - not false - false and 4 or 37000 - 3920 : chillax end end

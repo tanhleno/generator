@@ -1,0 +1,1 @@
+program Lh00a : d : takes tR5aa : integer array returns nothing when case - 1 and 1 : let K[67] = array 211; output "t"; let KE = 0 end case - 7 - 1 <= 1 : chillax end case 4 : chillax end case 3 : pop end case 27 : chillax end; do o(- 2) end main : r, Tr, W47 : boolean; when case - not 7 * 747 * 0 and 9 : when case - 25800 : chillax end end otherwise : chillax end; pop false end

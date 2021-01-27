@@ -1,0 +1,1 @@
+program lY : Qy : takes w : integer; i6, A : integer returns nothing A, L1 : integer; output 6 end main : while - false and vYga(9) or 5 /= - 03 and(94) and 789 - true and 1 : chillax end; input pe[- false * (76) and 69] end

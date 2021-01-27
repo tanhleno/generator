@@ -1,0 +1,1 @@
+program of : n : takes r, l : integer returns integer r2 : integer array; input aI; when case 1 - 431 : chillax end; pop 953; when case 7 : pop end case 1 : chillax end end B3 : takes duy0a : integer array; B, F9, z, z2Pa : boolean array returns boolean chillax end main : A : integer array; chillax end

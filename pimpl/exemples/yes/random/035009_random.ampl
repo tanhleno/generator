@@ -1,0 +1,1 @@
+program J1 : R580 : takes y : boolean; t, W : integer array; M : integer array returns nothing V, nZ, VW, bQ : integer; bH, n : integer; v8 : boolean array; chillax end main : O, p : boolean; chillax end

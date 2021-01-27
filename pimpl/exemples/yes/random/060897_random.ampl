@@ -1,0 +1,1 @@
+program E : j6 : takes E8 : integer array returns nothing v : boolean array; l8B, p91 : integer; while - false and 55 : input X7 end; do g(2 - 4 <= 9, 195, 24) end cc00 : takes Q1, b, U : boolean array returns nothing chillax end main : jH : integer array; DVJa : boolean; u : integer array; Cm, k : boolean array; KM, U86, O : integer array; chillax end

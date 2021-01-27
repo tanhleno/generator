@@ -1,0 +1,1 @@
+program _ : main : B5, s : integer array; t, kl, o, YXH, d, HN_ : integer; wz50 : integer; E_ : integer; j : boolean array; t : boolean; output ")/0a"; let c[not true rem false] = array - Z or true; while - D28aa : while 2 : chillax end; do R(473); when case 0 : chillax end end end

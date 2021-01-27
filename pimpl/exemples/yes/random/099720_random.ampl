@@ -1,0 +1,1 @@
+program P : main : while 979 : input Zk8[04] end; when case(32) : when case 704 : let t8j = 78600; pop end case 57 : chillax end end otherwise : chillax end; let F[- false and 7 + 4 - 09] = - 4; do n(- 45); do S(56300, 3, 2) end

@@ -1,0 +1,1 @@
+program H6Raa : FR : takes c68, Rr : boolean returns integer pop; output "EX" . "1"; pop end l : takes c, P7 : boolean array returns boolean C, G : integer array; input D70 end main : j, o6U0, i8, qjnaa, Ux, Q, vU : integer; output - (51000) = - V - 5 end

@@ -1,0 +1,1 @@
+program wX : s : takes A1Zaa, fo50, Z : integer; X6 : integer; X, C : integer array; g : integer array; v2, _W, y : integer returns integer chillax end w : takes o, s0, d : integer returns nothing chillax end main : z, mqc0, Sp : integer; output - a6T0[55200] * true = 55 and 3 - 2; output "6" end

@@ -1,0 +1,1 @@
+program h : ed : takes f : boolean array returns integer array do u3Y(- not 864 and 5 < - 5 - 39400) end main : do M(true + true rem true and 56 - false < G(5) and true, true + 90 and 385 - 6 < - true - 51); while 5 rem 8 and 1 /= false : while 0 = 2 : output "1"; pop end; output "1" . "\t"; input f; output ""; pop end end

@@ -1,0 +1,1 @@
+program O60 : b : takes Z, t, d6 : boolean array returns nothing rc80a : boolean; Dn4, a, N : integer; V9, xbk, mx1aa : integer; q0 : boolean; Y : boolean; do E8(- not 8 + 63, - 7 >= 791, 44800 = 0) end main : nw4 : integer array; U, aB3 : boolean; pop(8) rem true and 206 = - false and 628 - 8 - 0 end

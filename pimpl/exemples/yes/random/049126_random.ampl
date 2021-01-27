@@ -1,0 +1,1 @@
+program x4l0 : r : takes xN : boolean returns nothing when case - 4 and 15 or 304 - 7 < 30600 : chillax end case - 541 : do h(8); output "" end case 0 : do _(0) end case 8 : pop end case 1 : chillax end end main : Jw80, x : boolean array; chillax end

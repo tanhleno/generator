@@ -1,0 +1,1 @@
+program t : main : Iz40a, K2 : boolean array; output - R3N0 rem Dn and 3 or 5 > not 638 and 27; let no = array - not not 1 rem false; input X[W - 0]; when case - 5 : chillax end case 9 : input j18; pop end case 3 : chillax end case 4 : chillax end end

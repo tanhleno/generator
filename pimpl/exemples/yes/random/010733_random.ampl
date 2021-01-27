@@ -1,0 +1,1 @@
+program t8m0a : V0X : takes N, aWsaa, R : boolean array returns boolean c : integer; pop; output 01 = 9 . "" . 0; input _3[13]; pop 35200; do RJ(4) end main : E, uUu, AJ, b92, L73, UX, p : integer; when case - true : chillax end end

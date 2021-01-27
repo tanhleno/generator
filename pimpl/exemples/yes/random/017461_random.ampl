@@ -1,0 +1,1 @@
+program dg2aa : Of : takes F, UI : boolean; T8y0a, S4m0 : integer array; kNr0 : boolean array; VH, F : boolean array returns nothing while 88800 < - 1 - 4 : chillax end end b : takes g3Pa, i4q : integer array returns nothing output 0 = 7 end main : while - true : chillax end end

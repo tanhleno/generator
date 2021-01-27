@@ -1,0 +1,1 @@
+program j : hi : takes n7, I, Q : integer; sv : boolean; P7, Y06 : boolean; wb : boolean array returns nothing pop - 180 > 36500; let h8c[- 41 - 7] = array 509 - 5; input F[1]; while 843 : chillax end end main : while true + not false / 079 > true * 1 : chillax end end

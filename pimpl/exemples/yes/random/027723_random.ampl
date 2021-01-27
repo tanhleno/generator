@@ -1,0 +1,1 @@
+program N : r : takes Y, gc1 : integer array; nz1, k : boolean array returns integer array Cq, pl : boolean; while QC9aa and 5 /= - 4 : chillax end end main : O5 : integer array; pp, O : boolean array; pop true or(33) and 4; do t17(false - false and 6 + 86 <= - (84) and 5) end

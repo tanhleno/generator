@@ -1,0 +1,1 @@
+program Z0 : T : takes oSoa : integer returns nothing k : boolean array; do c(- true and 5, - 3, 8 = 23, 8, 5); when case - 8 = 7 : let v = 37400; when case 8 : chillax end end case 7 : chillax end case 8 : pop end otherwise : chillax end end main : input w[- true * U(2) / not 21]; while D + (4) and 55 or 0 : chillax end; while(7) or 729 = - 5 : do s2(56, 06); do R(218) end end

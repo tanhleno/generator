@@ -1,0 +1,1 @@
+program W4 : Lkv : takes S, nx, iz, CG, k290 : integer array; znz : integer returns boolean array chillax end C9 : takes pb00a : integer array; G59, w, QC : integer; y2H : boolean array returns boolean A0, v : integer; chillax end main : output - not true . (038) and 4 . 1 < 8; when case - 1660 - not 6 > (47) : chillax end otherwise : chillax end end

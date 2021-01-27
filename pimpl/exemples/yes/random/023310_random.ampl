@@ -1,0 +1,1 @@
+program T : x : takes v, K : boolean returns boolean input W[not 097 and 994 + 91] end RF : takes x, V : boolean array returns nothing chillax end eO : takes S, v : integer array returns boolean array chillax end main : chillax end

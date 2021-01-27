@@ -1,0 +1,1 @@
+program kK : main : _, u2, k : boolean; x9 : integer array; t : boolean array; d : integer array; when case - true or not not 00900 * JI and 978 + not 1 and 39 : chillax end case c[73] or 15 : chillax end otherwise : chillax end end

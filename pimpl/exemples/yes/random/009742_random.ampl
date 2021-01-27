@@ -1,0 +1,1 @@
+program S : Y1 : takes a, W, V4 : boolean array; I2W, b9 : boolean; d : boolean array; Vjc, x6X, z, wV : integer; I, o, J, fV : boolean array; hT2aa : integer array; K, Ak5 : boolean returns nothing pop - 5940 end main : let o8[- (4680) / not true + not true - 16 and 1870 or 524 - 8] = 7 and true and 3 end

@@ -1,0 +1,1 @@
+program e0 : T9 : takes R, B : boolean array; f5maa : boolean array returns nothing do CLm0a(- not 8 and 5 - 0); output "" . 4 . ">" end g : takes _, x, n, T87, T600a : boolean returns integer h : boolean array; W, z, cp1 : boolean array; E : boolean; input P end main : O36a : boolean; chillax end

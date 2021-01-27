@@ -1,0 +1,1 @@
+program e : p430a : takes U890 : boolean array; H7g, y7, D8 : integer; q7 : integer array; t : integer array returns boolean array chillax end main : do L(- not 8 and not false rem 4 and 93 - A rem 6 > 3920 - true, false and true + f and 4 - 8); pop true and 46 + 1 - 7 /= - 539 - 8; output "" end

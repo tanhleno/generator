@@ -1,0 +1,1 @@
+program I : dT : takes A, _ : boolean returns integer array C, j : boolean array; output 67500 . "d\t!"; while - 2 > 5 : chillax end end main : o72, C, h_3, S : integer; d75, j57, p : boolean; input l27[not not false and(76)] end

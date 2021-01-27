@@ -1,0 +1,1 @@
+program L3M : H28 : takes Mh, L : boolean array returns integer do bq(- not 5 /= 3 - 9370, 4 - 8 > 3); let Q[- 025] = 2 = 8 end sxV0a : takes f27a : boolean returns nothing chillax end q34 : takes Fz : integer array; P, m : boolean array returns nothing j, A, n : integer; K : boolean; chillax end main : pop end

@@ -1,0 +1,1 @@
+program lJ : uf : takes k : boolean array returns nothing e, l, d4P, c : integer; M : integer; W : integer array; do rj((8) + 99) end main : while - 93300 and 07 and(18) and 2 + true or false or 7 - 3 : chillax end end

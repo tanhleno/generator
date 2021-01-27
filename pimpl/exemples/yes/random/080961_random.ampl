@@ -1,0 +1,1 @@
+program r : main : HN : boolean array; F67, dZ, t : boolean; u7v, q0j0a, k, VM, w : boolean; F : integer array; do X7((33) * 2 and(335) + 1 + true and 3 + 43 - 61); when case - C[2] > false : when case 48 : chillax end case 64700 : pop end case 86 : chillax end otherwise : pop end end otherwise : chillax end end

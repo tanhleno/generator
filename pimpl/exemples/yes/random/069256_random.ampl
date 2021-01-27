@@ -1,0 +1,1 @@
+program i : main : G, v, Vc40a, f, Enva : integer array; a : boolean array; bNJa : boolean; when case not true * oq * 12 and 5 /= - (6) or 9 and 1 : while - 6 > 77 : chillax end end case true - 04 > - x66aa and 84 : do t(96 = 1) end case - SO4 and 6 - 61 - 837 > 3 : while 5 : chillax end; do Z340a(29) end end

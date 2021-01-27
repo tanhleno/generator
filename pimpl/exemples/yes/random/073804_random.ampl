@@ -1,0 +1,1 @@
+program i : main : C, R : boolean; Fq : boolean; while 5 rem not(4) or true + (3) and 92900 >= - HWE[89] : when case - 040 - 45 : when case 82 : chillax end; when case 4 : chillax end end case 31 : chillax end otherwise : pop; pop end end end

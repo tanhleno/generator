@@ -1,0 +1,1 @@
+program By : z : takes cV, X, T : boolean array returns integer array let j[not 7230 and 1 + 801 - 67] = - 0 - 3 < 8460 end main : O2 : boolean array; I : boolean array; while - not false or false / hm and 7 - (8) /= - (5) / 1 and 73 : pop 5 = 6; while 31 : when case 99 : chillax end end; do fJ6aa(3); when case 880 : chillax end end end

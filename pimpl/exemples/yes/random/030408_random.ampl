@@ -1,0 +1,1 @@
+program W5Y : JJ : takes P, Y : integer array returns nothing do VM4(- (0) and 6 + 1) end A : takes I : integer; mG : boolean array returns nothing pop; let Q11a = 0 end main : V, W7, k, W, v6 : integer; chillax end

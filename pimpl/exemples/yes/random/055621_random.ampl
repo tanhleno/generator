@@ -1,0 +1,1 @@
+program d : NUg : takes v5b0a : integer array; pC9 : boolean; qZ : boolean array; K66 : boolean array returns nothing U : integer; chillax end main : when case false = - true / 9 and 4 : chillax end otherwise : chillax end; output "" . - 53100 . "3"; pop end

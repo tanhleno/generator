@@ -1,0 +1,1 @@
+program Wu : nk0 : takes Fs2, uMM0, G7, A : boolean array; z7, EV, R97 : boolean returns boolean R : boolean array; auM, h, t, i : integer array; E : integer array; chillax end c : takes o, h6d : boolean; j : boolean array returns nothing chillax end main : bk : integer array; ny : boolean array; chillax end

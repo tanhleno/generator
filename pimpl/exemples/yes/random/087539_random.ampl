@@ -1,0 +1,1 @@
+program g4M : main : VL : integer array; when case - true * 1 or(0) or false and 5 or 46 : chillax end otherwise : input D; while 2 : chillax end end; when case(5) + (6) : chillax end case false and 6 - 57 = 10 : chillax end case - 63 - 02 > 8 : when case 8020 : chillax end; while 2430 : chillax end end; let u = array true end

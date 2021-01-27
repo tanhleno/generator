@@ -1,0 +1,1 @@
+program _g : XJG : takes e : integer returns boolean d : integer array; Ze, R, V : boolean array; b6 : boolean array; chillax end main : D3, W51 : boolean; bk1, CK : integer array; P3F0a, n, I, RO : integer array; a : boolean; when case false and true <= not Jq00 * FF5aa and 7 : chillax end end

@@ -1,0 +1,1 @@
+program xt1 : qz : takes vBs0 : boolean array; k : integer array returns nothing i : boolean; Z : boolean; W9 : integer; chillax end main : K0, B, o, j15 : boolean array; when case 160 or n / not 54 : pop end otherwise : when case 20 = 48200 : chillax end case 6 : chillax end end end

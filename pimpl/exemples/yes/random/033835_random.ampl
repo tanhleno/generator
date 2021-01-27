@@ -1,0 +1,1 @@
+program A0N0 : AG2 : takes R : boolean; E, _, c : boolean array; q5 : boolean returns integer let K[- S and 9 - 4] = array - not 89 and 0 end H : takes sy : integer; r2, h5aa, A : boolean returns nothing pop 9 end main : input Qf end

@@ -1,0 +1,1 @@
+program C : l : takes X9W0 : integer returns nothing t, Ym : integer; let i = 5 - 7 /= 6; let S = array - 900; do M34a(5 = 19, 68, 303); output 3150 . "" end p3Paa : takes px, Y, s : integer array returns nothing output "1X" . "" . 4 end X : takes Le, u : boolean array returns boolean array i, z5, D19 : integer; chillax end main : chillax end

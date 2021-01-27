@@ -1,0 +1,1 @@
+program BYs0a : _1 : takes P : boolean array returns boolean d : integer array; while - c and 45 or 3 > 32 : output "" end; when case - 96 : chillax end end z : takes C : boolean array; W, TY8a : integer returns integer chillax end main : do uK(- fz2[52] - false + 76 and 5 - 7 - 6 > (696) * true and 129 or not 8 and 99) end

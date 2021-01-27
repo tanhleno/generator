@@ -1,0 +1,1 @@
+program G : D61aa : takes R, B5S, n48a : boolean array; h, n : boolean returns nothing input u2[(4) and 2] end main : do w8(- 7 > (5), p6L); do Z(not 0 and true and 7 - false and 7, 8 - 23100 > - 3) end

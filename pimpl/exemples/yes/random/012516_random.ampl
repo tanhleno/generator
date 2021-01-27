@@ -1,0 +1,1 @@
+program p6 : t : takes r, E, B : boolean returns nothing while false : let i[403] = 304; let s = 6 end end w : takes Lh : integer; F, v : boolean array returns boolean array pop; when case 2 = 37 : do q(3360); pop end otherwise : chillax end; input o end main : while true - true * (262) /= - not false * P : chillax end end

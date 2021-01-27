@@ -1,0 +1,1 @@
+program b : main : when case 2 or false + c and 3590 : let e8O0[- 28000] = 21 end case not 65 rem 4 and 62 or false and 69 - 7 - 1 > false or 9 : when case 972 = 62 : chillax end case 9 : pop end otherwise : chillax end end case true and 90 - 6 : output "]4"; do m7(0); when case 73900 : chillax end end end

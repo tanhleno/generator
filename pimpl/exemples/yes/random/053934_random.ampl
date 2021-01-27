@@ -1,0 +1,1 @@
+program T : CxK0 : takes tp : integer array; M6, k, iZBa : boolean array; QT, m03, H, p4S, p : integer array; j : integer array; C : boolean array; DU : integer returns boolean array chillax end main : chillax end

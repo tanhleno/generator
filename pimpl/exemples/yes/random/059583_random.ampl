@@ -1,0 +1,1 @@
+program V : I : takes _ : integer array returns integer when case - false and 3 : chillax end; when case 162 : input Pg; when case 5 : chillax end end otherwise : chillax end end F3 : takes x, jw, y3, h, c, S : integer array; P : boolean array returns nothing T, d2, a29a, iO2 : integer array; R5, V, n9 : boolean; chillax end main : chillax end

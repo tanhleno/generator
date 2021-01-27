@@ -1,0 +1,1 @@
+program Nh : fb : takes i : integer returns nothing o, u : boolean array; Q, x4, o5, J : integer array; kHH : integer; c : boolean; let S = array true and 81; while - 48 - 48 /= 0380 : chillax end; let C[5] = 66; pop end main : when case false : chillax end case not true * 282 or not 22500 and 4 : chillax end end

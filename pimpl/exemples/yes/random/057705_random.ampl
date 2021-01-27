@@ -1,0 +1,1 @@
+program I4 : x47aa : takes k4 : integer array returns boolean array X400a, L, q : boolean; us, K : integer array; chillax end main : let p3ea[- 2010 rem true / KH and 20 or true and 8] = array 4; when case - false rem(5) or not 290 <= false : chillax end; let t[- true and 3] = array - j and 6 - 4850 - 615 end

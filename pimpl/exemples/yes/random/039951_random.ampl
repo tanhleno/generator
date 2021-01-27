@@ -1,0 +1,1 @@
+program v : Q : takes v : boolean array; Gs : boolean array; S : integer array; M6 : integer array returns boolean p, n, S2 : boolean; do KK3(- 303 or 0 - 6 <= - 9 - 4, 2); input n; while 21 : when case 9 : chillax end end end main : J77aa : integer; Gz00a, l, W, c4 : boolean; chillax end

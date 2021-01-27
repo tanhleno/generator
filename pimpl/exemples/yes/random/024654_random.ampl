@@ -1,0 +1,1 @@
+program I93 : N : takes w0X0a, mj : boolean returns nothing GO1 : integer array; pop; do L690(- 134 >= 82, 1 = 60, 6, 0); do d(36, 72500); when case 563 : pop end otherwise : chillax end end main : w, e1 : integer; wUT, ec40, E2, to, p : integer; z : integer array; z : boolean; let f = array - (7 = 0) rem true rem(8) and 5660 end

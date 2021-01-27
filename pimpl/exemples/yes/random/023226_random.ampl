@@ -1,0 +1,1 @@
+program S : T : takes L, m2 : boolean returns boolean _, W : integer array; chillax end M : takes h : boolean; N : boolean returns boolean array Vk : boolean; o0 : integer array; X, E : boolean; chillax end main : d7k : boolean array; output "" . - 54 /= - 567 - 8 . "" end

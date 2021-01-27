@@ -1,0 +1,1 @@
+program Fx7 : cG : takes j : integer; p850 : integer array; A, rR, G : boolean array; y, Fi50a, mE, q, _ : integer array returns nothing n : integer; zk0a, J2, sY, B : integer; chillax end B : takes cG00, J08a, x : boolean; h : boolean array returns integer array chillax end main : chillax end

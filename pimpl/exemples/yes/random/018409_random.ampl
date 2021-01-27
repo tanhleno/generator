@@ -1,0 +1,1 @@
+program nY : ikc : takes C, Q1 : boolean; d : integer array returns integer g_ : integer array; output ""; input qMh; while 01 = 3 : while 22 : chillax end end; while 8 : chillax end; while 8 : chillax end; output "8" end v : takes d : boolean array returns integer array while 62 /= 3 : output "" end; pop 44000 end main : chillax end

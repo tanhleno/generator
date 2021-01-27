@@ -1,0 +1,1 @@
+program z : jq : takes N : boolean array returns nothing output - 5 - 42 . 6 = 1540 end E5 : takes F, Y42, r8 : integer array; V9, Jo : integer; L : boolean; w43 : integer; WN : boolean returns nothing qH, w, z13a : integer array; I : integer; I, N41 : boolean; do I(- 0) end main : chillax end

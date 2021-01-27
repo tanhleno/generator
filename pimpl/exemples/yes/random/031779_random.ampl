@@ -1,0 +1,1 @@
+program Nx : r : takes y96, ck60 : integer returns integer array S4D, o : boolean; chillax end p : takes z95aa, N, _, D, D4, X : integer array; n, I9, _ : boolean array returns integer array output "\nt0"; let R[30] = array 512 end main : chillax end

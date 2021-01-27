@@ -1,0 +1,1 @@
+program g4 : J : takes F, AT, g1 : boolean returns integer array g8z : integer array; output 1 - 527 . 3 = 46; when case 16100 - 3 >= 77 : chillax end case 2 : input B3ka end case 8070 : chillax end case 5 : chillax end; do UT3(27, 5, 229) end _ : takes Ti, u4r : boolean array returns nothing S7 : boolean; pop 0; while 9 : chillax end end main : chillax end

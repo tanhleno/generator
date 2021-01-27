@@ -1,0 +1,1 @@
+program yY : L : takes dAV0 : integer; ES : integer array returns nothing d2 : integer; L, IdE, MAc : integer array; z49, _, nQ : integer array; a, JB5a : boolean; m : boolean; es : boolean; while true and 6 : chillax end; let N[- 3740 - 53700] = 8; let l = 72 end main : chillax end

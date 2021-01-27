@@ -1,0 +1,1 @@
+program u8m : l : takes zIMaa : boolean returns boolean array do D1i0a(not 9 and 99100 - 71 >= 8970 - 07, 410 - 16 > 8, 3 = 0) end i : takes J : boolean; Q : integer array returns nothing chillax end main : _, Sg, MC2, n4, lj : boolean; _4, K, cK : boolean array; chillax end

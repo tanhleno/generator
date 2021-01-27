@@ -1,0 +1,1 @@
+program p : q8N0 : takes _7Vaa : boolean array; O, k, Xi20a, Sz1a, R, Jr : boolean array; J1, w, R6 : boolean array returns nothing chillax end hX0aa : takes _c0 : boolean array; q2 : integer array returns boolean F7w, d6 : boolean; chillax end main : chillax end

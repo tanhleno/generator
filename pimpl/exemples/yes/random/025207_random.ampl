@@ -1,0 +1,1 @@
+program f : Kr0a : takes p1Z, p : integer; zr0aa, V, w : boolean array; a : boolean; U : boolean returns boolean array output 10300 - 2 . "Y" . "" . ">" . "" end main : output - false or not 3 and 29 > - not 4 and 0 . "m'a"; pop; while false : do A2(0); do K6Na(01); while 1600 : chillax end end; pop end

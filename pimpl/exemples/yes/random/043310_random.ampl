@@ -1,0 +1,1 @@
+program u : a : takes Y : boolean array returns integer let p[- true and 0 + 38 - 20] = - 4 - 124 >= 45 end Oi5 : takes K4K, o, qv7, o : boolean array returns nothing output "" end main : output - true = not 3; when case - 1 and(21) and 2 : chillax end case v5 <= - 544 : chillax end; let x19 = 4 > 30900 end

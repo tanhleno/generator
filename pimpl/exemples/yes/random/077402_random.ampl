@@ -1,0 +1,1 @@
+program g : main : E, K : integer array; r4da, C2Q : integer; let A = array - XH(58, 696) or false * true; while true / true + R and 8 + 3 < q and 0 : chillax end; do t(true or 09); while - 5320 - 36600 : chillax end end

@@ -1,0 +1,1 @@
+program n : g : takes q8, r : boolean; q8yaa : integer array; p, j5, mN : integer; CY9 : boolean returns nothing chillax end oj2 : takes FF9 : boolean array; B, P, x : boolean array; t7, i, O : boolean array; Erp, G : integer array; o : boolean array; FNA, e : boolean returns boolean chillax end main : Mk : boolean; _F : integer array; chillax end

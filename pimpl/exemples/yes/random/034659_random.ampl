@@ -1,0 +1,1 @@
+program hP : B2xa : takes JL5 : boolean; Q, ua : boolean returns integer array while not 1850 and 5 or 6 : when case 2 : chillax end end end M : takes s, r : boolean returns boolean O : integer; wj, o, U5 : boolean array; chillax end main : output "9" end

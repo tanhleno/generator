@@ -1,0 +1,1 @@
+program n : main : g : integer; j550a, r : boolean; B_, h5 : integer; BUVa, k, L : integer array; B, P : integer array; output L9x0[89] . ""; let F3F0[239 * true] = array(23) * true and 09 or(5190) and 7; pop; do hiQ(- 7 > 9, 6 = 7, 85500); when case 97600 : chillax end end

@@ -1,0 +1,1 @@
+program W : q96 : takes N, w4, S, r, m6Raa, D : boolean returns nothing y : integer array; kv : integer array; chillax end main : x6M, s, vg, h2naa : integer array; while(5) rem true * not 5 and 722 + false and not 55 and 5 or true and 3 : input P4K end; output "7"; output "" . 07 = 832 end

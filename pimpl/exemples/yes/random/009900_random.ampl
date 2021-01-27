@@ -1,0 +1,1 @@
+program l : q3Z0 : takes c, I, UKi : boolean array; F6m0a, M2 : integer array; aEP0 : boolean; t : integer returns integer array F7, k, g, lx : integer; R5 : boolean; S5 : boolean; let Fi = 9 end main : A, k3d0a, Me : integer array; pop; do Nd2a(- not(6) >= 92 - 803, - true and 83 or 47200, - 68, 48) end

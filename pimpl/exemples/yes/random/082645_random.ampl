@@ -1,0 +1,1 @@
+program Y : main : z23a : boolean array; when case(8 = 29) / W49a[3] - (3) + 2 and 44 - 53 - 84 : while - 17 - 64 : while 3 : chillax end; do Z(6) end end otherwise : chillax end; input J[- not true] end

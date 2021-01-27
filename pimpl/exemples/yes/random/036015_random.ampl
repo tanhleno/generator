@@ -1,0 +1,1 @@
+program M : U : takes kx7 : boolean; Z : boolean array returns nothing o21, K : boolean; z8 : boolean; chillax end main : B : boolean; aB6 : boolean; output "8\t0"; while lm(43) * (0) : chillax end; pop end

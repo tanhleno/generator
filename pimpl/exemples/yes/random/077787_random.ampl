@@ -1,0 +1,1 @@
+program k : main : p, b : integer array; q : integer array; Z0 : boolean array; U390 : boolean array; D5r : boolean array; e : boolean; PHv : boolean; Z : boolean; input C1; while - (7) and true and 451 - not 1 and 069 or 0570 - 0 : output 09100 . "1F" end end

@@ -1,0 +1,1 @@
+program k : J : takes sn70a, N : boolean; d6 : boolean array returns boolean r : integer; O : boolean; k41aa, h, R : boolean array; when case - false and 91 : pop; let q = 84 end otherwise : do u(44) end; output "80aa" . "" end main : do Vv(- W <= true and iy and 07 + false) end

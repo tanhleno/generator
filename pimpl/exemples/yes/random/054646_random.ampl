@@ -1,0 +1,1 @@
+program N : G : takes B : integer array; p6, D : boolean array returns boolean array when case - (303) and 44200 - 6 - 10 = - 221 : output ""; let RJK = 64 end end main : xY8 : boolean array; do gQ4aa((3 = 960) + (714) rem ac, (8520) and(5)) end

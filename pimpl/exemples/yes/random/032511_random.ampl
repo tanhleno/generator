@@ -1,0 +1,1 @@
+program h85 : OE2 : takes v, x58a : integer returns nothing r, n, TK4, d_0 : integer; let nv = array(2) and 6 end Mde : takes j : integer array returns integer array output ""; while 46 : chillax end end main : chillax end

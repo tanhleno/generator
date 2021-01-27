@@ -1,0 +1,1 @@
+program u93aa : X1 : takes c, GA7, F : boolean; i10, LsAaa : integer returns nothing chillax end G3 : takes d : boolean array; S : integer array returns boolean N : boolean; a, r : integer array; let r3 = 88 end main : Lu : integer array; J : boolean; chillax end

@@ -1,0 +1,1 @@
+program p : D1 : takes E2y0a : boolean array; WE : boolean array returns nothing R9, S : integer; n840a : integer; Q : integer array; AZW0a : boolean; E85 : boolean; p98a : boolean; chillax end main : output false and true - 84 end

@@ -1,0 +1,1 @@
+program R : z1haa : takes YK : integer returns nothing QJ, c : boolean array; chillax end e : takes n : integer array; a4 : integer; N : integer; g1h : boolean array returns integer Z, C : integer array; r6Ha : integer array; do p8A(4 <= 87) end main : chillax end

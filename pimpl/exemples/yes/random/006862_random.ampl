@@ -1,0 +1,1 @@
+program x2I : _ : takes z, B, L, v3 : integer array; p, X31a, v, I : boolean returns nothing xt, PM : boolean array; q : integer array; let r9 = array - not 38 and 9; input D end wG0 : takes L, w5E : integer returns nothing while 6 : chillax end end main : D, y, Pd : boolean; K : boolean; D, H28, s : boolean; T, DQh, m, K2 : integer; pop - false / true and 2 end

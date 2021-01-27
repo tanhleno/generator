@@ -1,0 +1,1 @@
+program X82 : Q : takes mBC, wSFaa : boolean array; f, N8 : boolean returns nothing p, a, M8, f57, D98 : boolean; when case 6 : do wf(7) end case - 1 - 372 > 0 : let z = 4480 end otherwise : when case 3 : chillax end; while 0 : chillax end; pop end; while - 46 - 1 : input j end end main : output - (1020) * (084) + (2) and 6430 . true /= - 93 end

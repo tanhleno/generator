@@ -1,0 +1,1 @@
+program s : p : takes O, JyEaa, VQ : integer; G : boolean array returns integer while 6 + 1 : chillax end end OT : takes X : integer array returns boolean when case 59 - 830 : input m; while 43400 : chillax end end end main : px, uz, R9Q0a : integer array; pop; while(4) < 6 and 0 + 21 : chillax end; while(365) and 6 : let qb[4] = 09700; let X01a = 4; let Pf1 = 88 end end

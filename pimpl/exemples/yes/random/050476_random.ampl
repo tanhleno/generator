@@ -1,0 +1,1 @@
+program QFO : Y2 : takes tb80 : integer; J, cM : boolean array; e, Q : boolean returns integer let Xv[not 9] = 5 - 69 <= 96; while - 02 : pop; when case 1 : chillax end end end Ly : takes Y3 : integer; Rh9aa : boolean returns nothing h : integer array; chillax end y : takes CJ4a, w, I : integer returns integer pop 4 end main : while G : chillax end end

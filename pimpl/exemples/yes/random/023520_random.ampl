@@ -1,0 +1,1 @@
+program yjA : s15 : takes gyn, r : boolean returns integer array s4Saa : boolean; z : boolean array; o, x, DK : integer array; v : boolean; M : boolean; g4r : boolean; do G63aa(true <= - 6 - 3); let X[- 3 - 11] = array - 9 - 998; while 93 : let G = 0 end; input bj8[68] end main : i, l, m17 : boolean array; let s9 = - false and false and 50000 - Ol and 1 > - true + 4 - 23 end

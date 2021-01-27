@@ -1,0 +1,1 @@
+program C : d2Q0 : takes eM, v : boolean; Wro, Z, S, z3, o, Sugaa : integer returns nothing output "2" . 79 end K7Saa : takes y : integer array; Y5 : boolean array returns boolean output 9 end main : chillax end

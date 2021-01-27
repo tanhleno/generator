@@ -1,0 +1,1 @@
+program F : LZ : takes Xh, E : integer array; S : integer array; O, f1e : boolean; G : boolean array; J, u, R : boolean; R3, W9n0 : integer array returns nothing j : integer; h : integer array; when case - false and 1 + 76 - 69 > - 1 - 1 : output "" . "o;\"a"; pop end case - 9 - 767 : chillax end otherwise : chillax end end main : input k end

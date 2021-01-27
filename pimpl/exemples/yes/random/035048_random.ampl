@@ -1,0 +1,1 @@
+program l6 : If5 : takes m : boolean; uYi, R : integer array returns boolean D, n : boolean; OFJ0 : boolean array; chillax end main : do ti2(true rem N4[8] or false >= - x(2) rem(65700) and 116 + false and 5) end

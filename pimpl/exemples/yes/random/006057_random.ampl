@@ -1,0 +1,1 @@
+program t : B : takes t, Y, R, X : boolean returns integer when case - xh and 6 - 5 - 0 : chillax end otherwise : chillax end; let P = 6 = 46900 end main : DT5 : boolean; y, a4 : integer array; LV : boolean array; chillax end

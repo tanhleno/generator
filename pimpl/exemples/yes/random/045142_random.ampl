@@ -1,0 +1,1 @@
+program S : m : takes Q9La : boolean array returns nothing pop - 7 - 5 < 2 end f : takes bX, I : integer returns boolean array G_w : boolean; EJ : boolean array; input C[19] end main : while - (5 = 16) = - v2 / not 7 or H : input X[- 69700 - 5]; do E(0 = 7, 9380) end end

@@ -1,0 +1,1 @@
+program RH : d : takes X : boolean array returns nothing M81a, w, sRI, _, u8 : integer array; input o2; input H[- 53]; pop 704 end _7f0a : takes K : boolean array; _ : integer returns boolean array while - 3 - 8 : chillax end; when case 0 : chillax end case 58 : chillax end otherwise : chillax end end main : chillax end

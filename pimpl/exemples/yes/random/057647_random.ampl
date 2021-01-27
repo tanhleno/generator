@@ -1,0 +1,1 @@
+program R3 : s6 : takes F9 : integer array returns boolean array chillax end main : input v070[- (7) - false + true and 8 + 88]; while - (556) rem true and 849 /= - false + 9070 - 98500 : when case 82 = 6 : chillax end otherwise : pop end end end

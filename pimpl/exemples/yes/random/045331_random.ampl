@@ -1,0 +1,1 @@
+program u : o : takes X : boolean array returns nothing while - true + 3 : while 6 : chillax end end; while - 7 : input W end; when case 2 = 1 : chillax end case 429 : pop end case 9 : chillax end otherwise : chillax end end main : m, B : boolean array; zUfa : integer; VN, T : boolean array; chillax end

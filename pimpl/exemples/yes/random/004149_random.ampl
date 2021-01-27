@@ -1,0 +1,1 @@
+program k5 : o95 : takes c16aa, R, z8, Z, t : integer returns nothing let l3[- false and 00] = 213 > 8; pop; when case 64 : chillax end case 5360 : chillax end otherwise : chillax end end main : chillax end

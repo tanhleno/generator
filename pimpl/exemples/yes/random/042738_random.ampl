@@ -1,0 +1,1 @@
+program dv10 : W : takes o : boolean array returns integer array C : integer; B, k3, I, dA1 : boolean; z, t, D770a : boolean array; do u(- (7) /= 75, 43100 - 46); pop; output 4 end main : uaE : integer array; S, L0, W : integer array; chillax end

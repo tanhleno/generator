@@ -1,0 +1,1 @@
+program k : u : takes Gq : boolean returns nothing input hNl[016]; do lR2aa(9 - 7 = 6); while 68 : when case 14200 : chillax end end end n : takes P : integer returns integer Q4, Dp : integer; q : integer; chillax end main : l : boolean; do F7k0(- true / (1) and false); input h5; let r = 00 - 2390 /= 79 end

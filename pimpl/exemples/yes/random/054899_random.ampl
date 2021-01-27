@@ -1,0 +1,1 @@
+program D530a : U : takes VT : integer array; eI, np : integer; g, q, U1, V : boolean; Sv, F : integer array; hP : integer; AJ, Z, v : integer returns integer array chillax end main : s2, f8 : integer; Ly, z : boolean array; while gcd(64, 04) rem S(92600) or false / not 04 : chillax end; when case - Y[2] and Pk and 7 - R - 8 - 4 : chillax end otherwise : pop 4 end; input S end

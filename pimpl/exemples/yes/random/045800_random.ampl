@@ -1,0 +1,1 @@
+program LF8aa : b : takes U : boolean returns boolean array let U4[true and 176 - 514] = array(9); when case - 7 = 17800 : while 6 : chillax end; pop; pop end otherwise : chillax end end fW : takes Y : boolean; bc : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program C : iV : takes K07a, y570, m, M : integer returns boolean chillax end V : takes s93, M : integer array returns integer array chillax end main : G, V : integer; let o = array - 8 + false + false and 26 + 8 - 1; input J end

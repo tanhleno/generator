@@ -1,0 +1,1 @@
+program f : G : takes E, YE, X, N, xK, D0 : integer array; D3 : boolean; yR, q : integer array; dKq0a, G, E, I : boolean returns nothing I, s4 : integer; chillax end main : let F[(08200 = 40)] = array 2 - Y3(4) rem(61) - k2 and 7 end

@@ -1,0 +1,1 @@
+program W : m : takes o3 : boolean; Q0 : integer; G, M : integer array returns nothing pop end main : k : boolean array; do s((0 = 0580) + false and(05) and 951 <= not(4) or not 2 and 41); output - true - 47 - 54400; let c = - 70900 - 52 >= 32 end

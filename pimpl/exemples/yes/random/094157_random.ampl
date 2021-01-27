@@ -1,0 +1,1 @@
+program F : main : pop - 1 / true and 328 or false or 9550 - 6 >= v7; when case - Gpz[40] and 4 - Mfnaa and 34 : while 6750 = 8 : chillax end; output 4 . ""; output "Ai" end case true - 8 - 4 /= 259 - 94 : output ""; while 86 : chillax end end otherwise : output 0 end end

@@ -1,0 +1,1 @@
+program ty4 : G : takes iw, P, ym : integer array returns nothing output 50700 . "\\\"0a" end BS_aa : takes U : integer array returns integer array do c19aa(91200 - 3 /= 8, 23) end main : Yw : integer array; chillax end

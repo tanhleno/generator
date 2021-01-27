@@ -1,0 +1,1 @@
+program a : main : F_50 : boolean array; when case - lno0a / (732) - (0) and f5 and 47900 + T > not not 50100 * true or not 5 and 135 : while - 4 : let BHua = 4; input t; pop end end otherwise : chillax end; pop end

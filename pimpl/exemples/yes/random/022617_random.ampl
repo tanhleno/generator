@@ -1,0 +1,1 @@
+program I : AtT : takes t, kkE0 : boolean array returns nothing L : integer array; while - true or 60 - 8 : chillax end; pop 42 = 7; let Zkt[8020] = 32 end T3c0a : takes av0a, P3n, X1 : integer array returns nothing chillax end main : a, o, xB, s5E, I : boolean array; Z, O : boolean array; pop false rem(8) < - ws end

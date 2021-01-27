@@ -1,0 +1,1 @@
+program n5F0 : q8 : takes G, B2, m8pa, FdC, oj, IhD : integer returns nothing while true and 2 - 316 < - 22 - 5110 : do O(704); let J32aa = 0; output ""; pop end end main : K65 : integer array; w9K : boolean array; vr6aa, rU60 : integer; t : integer array; j_, R99, i : boolean array; q8 : boolean; i : boolean; chillax end

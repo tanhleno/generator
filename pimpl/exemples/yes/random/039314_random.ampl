@@ -1,0 +1,1 @@
+program J : y : takes oX : boolean array; g, o6 : integer array returns nothing Hy, JC00 : boolean array; s6, E : integer; _ : integer array; k, h : boolean; output - 3 >= 1; when case - 9 : chillax end otherwise : while 6 : chillax end end; pop end main : A6qa, V : integer; ew, Pf : integer; chillax end

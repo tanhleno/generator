@@ -1,0 +1,1 @@
+program hL90 : d : takes LEv0, diN, p93, D9 : boolean array returns integer pop 88 - 82500 = 28 end uD : takes tJ : boolean; d3, _ : integer array; Z9U : integer array; Myo0a, i : boolean array returns nothing H : integer; rm, t_ : boolean array; W, Vg : boolean; input H; output 22 end main : M : boolean; chillax end

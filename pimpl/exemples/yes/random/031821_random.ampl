@@ -1,0 +1,1 @@
+program w : D : takes Y, H1 : integer returns integer array v : boolean; input D end main : e, q1A, pB, M, JG : boolean; g, t6 : integer array; X2, R : boolean; when case true / j and(8) and 4950 - true = - false + (8380) and 6 : chillax end case - (88) rem not 208 - (3) and 2 : chillax end otherwise : chillax end end

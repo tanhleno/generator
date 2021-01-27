@@ -1,0 +1,1 @@
+program Ri : i73 : takes z, J : boolean array returns boolean array when case - false and 76 >= - 67 - 23000 : chillax end case - 9790 - 951 = 76500 : while 517 : chillax end; do m(938) end case 7 : do Nzj0a(0); pop end case 83300 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program y : N230a : takes mv, zLW, xEa, U : boolean; r, M : integer array; r, r1 : integer array; w9, a : boolean array returns nothing chillax end main : cg10a, Q7, r5oaa : integer array; w2 : boolean array; input Fn6 end

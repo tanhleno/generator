@@ -1,0 +1,1 @@
+program M : main : while - (89) and 75 > 2 and q3 - false and 699 - 48 : pop 5550 = 07; output 0 . "" . "4\""; let Q[7] = array 70; when case 48800 : chillax end; when case 1 : chillax end; pop end; output false and 815 - 5 - 9 <= 0 . "" . 0 = 65 end

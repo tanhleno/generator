@@ -1,0 +1,1 @@
+program A1 : wAq : takes J, f21, u : boolean; A : integer array; m : integer array; m : integer; n : integer; fT : integer returns boolean array chillax end Ji : takes n7 : integer returns nothing chillax end main : while - (2) and false or M(8) * gV and 28 + (4) or 3870 - 412 : do K(- 10 <= 1) end end

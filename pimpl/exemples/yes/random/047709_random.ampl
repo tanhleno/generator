@@ -1,0 +1,1 @@
+program jW : P : takes L : boolean returns nothing chillax end main : TU : integer; Qg, g88 : boolean array; do d7(false / (0) * 160 >= - false and cq2a and 6, - (2) > not 9 and 47 + 80 - 049); pop; input KY; while 17 = 83400 : chillax end; when case 07 = 530 : chillax end; pop end

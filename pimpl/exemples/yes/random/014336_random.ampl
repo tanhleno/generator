@@ -1,0 +1,1 @@
+program tj9 : Q270a : takes s, m6I, u : integer array; o9T0 : boolean returns integer array chillax end w : takes n : integer array; V : integer; J : integer returns boolean D4uaa, cit0 : integer array; R5 : boolean array; hnY0, X : boolean; XD : boolean; pop 599 = 5 end main : I5, e980, m : boolean array; while 8 : chillax end end

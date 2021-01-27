@@ -1,0 +1,1 @@
+program k7 : main : ZIGa, pr, ANQ : integer; do H(- not x and(26) * true and 46 or z[556] and 0 + false and 5 or 8 /= - false or true or 427 - 787); let CW7aa = array - not false * 69 and 9; while(50) and 8 : input y[33400] end end

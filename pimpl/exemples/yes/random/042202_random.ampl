@@ -1,0 +1,1 @@
+program ISj : X : takes g2 : boolean array returns boolean u : boolean array; chillax end B4 : takes B : integer array returns boolean i28, a, yh : integer; chillax end main : tu : integer; chillax end

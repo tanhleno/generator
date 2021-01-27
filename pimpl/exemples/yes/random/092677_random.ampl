@@ -1,0 +1,1 @@
+program e : main : output not V and false and 70 + (6) and 8; when case - not 937 * (16) and 6420 + false : chillax end case not 96 or 4650 : input q2U[51]; do w1(61500) end otherwise : chillax end end

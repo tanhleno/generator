@@ -1,0 +1,1 @@
+program O : r : takes c : boolean array; A, p : boolean array returns nothing W : boolean array; do U(- 50) end U : takes j, l75a : integer array returns nothing z : boolean array; chillax end E : takes y_G : integer returns nothing hAla : integer array; Ab1, o : boolean; U : boolean; Y : boolean; let nd7[6] = array 266 end main : l5, Q, q7 : boolean array; chillax end

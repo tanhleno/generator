@@ -1,0 +1,1 @@
+program s : ks1 : takes B, t, X : boolean array; H, t4 : integer returns boolean array UPQaa, Su, I5 : boolean array; i : boolean array; dt : integer array; when case - (3) + 0 - 4 : chillax end end main : chillax end

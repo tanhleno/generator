@@ -1,0 +1,1 @@
+program S : v : takes g : integer array; A7haa : boolean returns nothing chillax end l : takes P, jD, G : boolean returns integer d, Y2R : integer array; while 1 - 72 > 9 : chillax end; while 9 : chillax end; output 30500 . "@"; when case 2 : chillax end end main : input y end

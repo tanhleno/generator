@@ -1,0 +1,1 @@
+program U6 : main : while 1 / false or false * 50 + z and 201 - 62 - 62 >= - true or not 7640 and 5 : do X8(372); let B[3] = array 7; output "7\"!a" . "~"; do S(93) end; when case 615 rem q9 and 0 : chillax end otherwise : chillax end end

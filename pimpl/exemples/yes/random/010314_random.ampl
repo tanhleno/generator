@@ -1,0 +1,1 @@
+program R : GTza : takes q, C, P4 : boolean array; k : integer array; xD9, I8 : boolean array returns integer hR6, j : boolean array; l, L42 : integer; m3, qG3aa : boolean; let k_p = array not 133 and 0; while - 834 : output "" end; while 7 = 1 : let S = 3620; pop end end main : chillax end

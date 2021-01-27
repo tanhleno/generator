@@ -1,0 +1,1 @@
+program tc : F : takes dHY, Wa : boolean array; o : integer returns boolean kG10, Q : boolean; e, C, Ku, kt : boolean array; chillax end zk : takes X : boolean array returns boolean array chillax end main : while not(758) - P9(0) > - (48) : chillax end; pop not 19 and 57100 - 58700 - 1 > 769 - 8; let p73[- false and 7640 or 3 - 9] = 941 > 7 end

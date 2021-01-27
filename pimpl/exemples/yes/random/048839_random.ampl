@@ -1,0 +1,1 @@
+program wPNa : y3 : takes u : boolean returns nothing input k[(46)] end wgIa : takes F9A, a : integer array; e, Yd80a, P : integer array; Z, p : boolean array returns nothing pop 9 = 9; do qM(1, 1, 8); do U(4) end main : chillax end

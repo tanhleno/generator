@@ -1,0 +1,1 @@
+program A : main : Y : integer array; P : boolean; Z : integer; do G(- (859) rem X rem 4470 and 545 or true / (6), - false and false and 0); while pJ[64] and(965) and 6 or(8) and 6 or 42 > true and 48 : chillax end; output "Q\t" . "" . "BF"; input z[- 2]; while 2 = 1 : do Q(9); pop end; input O; when case 486 : chillax end end

@@ -1,0 +1,1 @@
+program T : J2 : takes i1Qa, x, PH20a, R4, _P : integer array; Rd, n2 : boolean array; X9 : integer returns nothing agV : boolean array; do b6(X1z >= 36); do Vn(- 2 < 21400, 99 = 8170, 9, 095); let U4[26] = 9 end main : s : boolean; chillax end

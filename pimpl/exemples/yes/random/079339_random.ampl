@@ -1,0 +1,1 @@
+program cyt : main : b0 : boolean; i : boolean array; G1taa, PABa, X : boolean; D0, g, DoL : boolean array; fT : integer; K8 : boolean; when case - 0750 * false and not 7 - false / (9) and 763 : when case 9 - 8550 /= 56 : input wa00 end case 6040 = 907 : chillax end case 81900 : pop end case 15 : chillax end end end

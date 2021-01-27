@@ -1,0 +1,1 @@
+program t : m : takes g : integer; VI : boolean array returns integer array pop 4 - 5 < 2 end main : D : boolean; k, S6 : integer array; S : integer; qV, j, C, a1 : integer array; x : integer; O, dj : boolean; chillax end

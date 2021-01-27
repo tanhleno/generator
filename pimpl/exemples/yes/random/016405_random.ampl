@@ -1,0 +1,1 @@
+program h6 : b : takes H1Z, BD, M2 : integer returns nothing Z : boolean; chillax end main : when case - true and not not 35 - not not 63 < (0) - 8 and 471 : chillax end case - false < - not 8 and 65 + 0 : chillax end end

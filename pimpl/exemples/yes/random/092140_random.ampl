@@ -1,0 +1,1 @@
+program k : main : output - not(5) . "B"; while _0M(0) rem not 97700 or false or 7 = not 64100 and 7 - 74 - 06 : while 1 = 9 : input u; pop end end; when case NW3a and 9 /= 7 - 2 : chillax end; input X4[- 51] end

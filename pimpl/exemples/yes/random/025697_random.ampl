@@ -1,0 +1,1 @@
+program L : uG1 : takes G, W : integer; Z6, h : integer; rqC, c, f, Z : boolean array; O, uk2aa : integer returns boolean vs5, e : boolean; J, b : boolean array; j0 : integer; output 7 > 7 . 33 = 1 . 390 . 1 . "6ka"; pop 0 end main : I5, y : boolean; cSL, d, C, x, sDU : boolean; Jny : integer; input hE4a; input XN end

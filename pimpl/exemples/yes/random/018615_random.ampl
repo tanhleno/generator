@@ -1,0 +1,1 @@
+program i : Ke : takes uxs0a, F : boolean array; v, G, Y, u6x, s, w, yvH0 : integer array returns integer array output "" . "\"f!" . 9 . ""; input lC; pop 301; when case 4 : pop end case 3 : chillax end end main : chillax end

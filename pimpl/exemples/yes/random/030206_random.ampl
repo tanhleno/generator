@@ -1,0 +1,1 @@
+program rF : U : takes QW4, T : integer array returns nothing chillax end r : takes r0I0a, C, R : boolean array returns nothing d5Va : integer; output 28 . 248 . 3; pop; do A(3620); while 3 : chillax end; input vld end main : when case D44 rem 4 / not 8 and 9 or not true - Q and 9 - 4 - 6 : chillax end case false and true : input i end otherwise : chillax end end

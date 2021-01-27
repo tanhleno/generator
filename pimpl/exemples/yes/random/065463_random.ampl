@@ -1,0 +1,1 @@
+program d5y0a : r : takes SzTaa : integer returns nothing when case - false and 63 or 64 : chillax end; output "" . "" . "g" end J : takes F8, Md4a, fM : integer array; F, TIL0 : boolean returns integer AVM : integer array; chillax end main : G : integer array; FAN0, n85aa, M : integer array; k, h, k81 : integer; J : integer array; y : boolean array; input z end

@@ -1,0 +1,1 @@
+program i : C : takes I33 : integer array; v3, _, i3, u, g : integer; y2, l, G1k, g : boolean; Mx : integer array; mv, b : integer array returns boolean C7, Fe : boolean array; chillax end main : Re, c5X0a : boolean; output ""; input Y35[- 53 / J and 69700] end

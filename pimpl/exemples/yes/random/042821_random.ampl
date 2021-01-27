@@ -1,0 +1,1 @@
+program U3_a : s : takes X : boolean array returns integer array let y[7 + 302] = array(2) or 3820 end z : takes _D0, K4, dj, H880a : boolean array; mvq0a, rQ : boolean array returns boolean array chillax end main : A : integer array; chillax end

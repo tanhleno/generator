@@ -1,0 +1,1 @@
+program J : H : takes oG8 : integer returns nothing qr1, o4 : boolean; H1 : integer array; I0Ta : boolean array; f0, B2 : boolean; D : boolean; do y_((9) or 89 - 3 < - 48) end main : EI : integer; J : boolean; aU, P, Jc40, B, W9 : integer array; chillax end

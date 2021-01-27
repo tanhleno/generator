@@ -1,0 +1,1 @@
+program j : _j : takes v : integer array returns nothing chillax end h8 : takes X6, ve0 : integer array returns boolean array kLQ : integer array; Y0, J, z : integer; G, k : boolean; chillax end main : when case - false : chillax end end

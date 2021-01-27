@@ -1,0 +1,1 @@
+program l3O : main : let u[7 / h[5] or not true rem 813 and 0] = array - false; while 5510 * n and 08200 - false and 2 - 6680 = false : input z[10] end; while false and 9 = - 2 : while 247 : chillax end; while 4 : chillax end end end

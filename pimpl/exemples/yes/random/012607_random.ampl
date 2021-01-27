@@ -1,0 +1,1 @@
+program n1e : a : takes Y, W, y : integer; xI, V, A, n4 : boolean; s, i, K50 : integer returns boolean array i, j : boolean array; chillax end main : while - not(1) rem 5 <= 6 / true and 52 : pop 2660 = 003 end end

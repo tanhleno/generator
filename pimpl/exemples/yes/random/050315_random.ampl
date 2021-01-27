@@ -1,0 +1,1 @@
+program q : U : takes ze : integer; o, a76 : boolean; _, XA, A : integer array returns nothing chillax end bz : takes Q : boolean returns boolean chillax end MS : takes T, EP, W, C6 : boolean; h : boolean array; v : integer returns integer array o, Yo, VR : integer array; let T3oaa = 9940 end main : wS : boolean; output "" . "" end

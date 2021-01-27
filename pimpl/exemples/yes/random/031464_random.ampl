@@ -1,0 +1,1 @@
+program o7S0a : K : takes u, w : integer returns boolean chillax end main : Y1, n, e1, e, p : boolean; output "6" . "r"; while false * (13) : when case 2 = 1 : chillax end otherwise : pop end end end

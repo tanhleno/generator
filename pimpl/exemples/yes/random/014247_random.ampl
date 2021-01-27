@@ -1,0 +1,1 @@
+program TVTaa : u : takes b, V, v510a : integer array; n : boolean array; W : boolean array returns nothing TW : boolean; h, x6 : integer array; chillax end V : takes w : boolean; U : boolean array; O5 : integer returns boolean array z : integer; g, j8, f : integer array; while 7 /= 24 : chillax end end main : C : integer array; chillax end

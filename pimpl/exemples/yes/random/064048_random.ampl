@@ -1,0 +1,1 @@
+program EJ : _ : takes VJ : integer returns nothing chillax end main : pop; when case not not 73 * 77 and 84 + true and 36 - 8 /= - not 9 and 0 : when case 163 = 58 : pop end; when case 98 : chillax end otherwise : chillax end end otherwise : chillax end end

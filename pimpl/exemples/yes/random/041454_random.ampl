@@ -1,0 +1,1 @@
+program uJC : KR4 : takes n6 : boolean array returns boolean array chillax end T9 : takes a7, b21a : boolean array returns boolean array let x[- 9] = 0; when case 7 : while 582 : chillax end end; output "1" . ""; do E26aa(7); when case 7 : chillax end end main : do H(- false + true or 8 and 78) end

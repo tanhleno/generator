@@ -1,0 +1,1 @@
+program U : x730a : takes z : integer array; v1, CR : boolean array returns nothing chillax end o : takes L : integer; s, y3, N, k, D9, J : boolean returns integer array SOe, J4raa : boolean; let s[42] = array - 70 - 3 end main : output ""; input S end

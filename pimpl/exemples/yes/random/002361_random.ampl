@@ -1,0 +1,1 @@
+program i11 : G : takes D, X, t, m, Ej : boolean; T : integer returns nothing chillax end N : takes a7, h4 : boolean; Z, j : boolean array; E, oT0 : boolean; U, Rf5, dU : integer; Gn, k : integer returns nothing L0N, N, M, H : boolean; when case - 854 < 59 : chillax end case 7 : let x = 8 end case 7 : chillax end case 9 : chillax end otherwise : pop end end main : pop end

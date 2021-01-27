@@ -1,0 +1,1 @@
+program A83 : C : takes Rv, QkY : integer array; n, L, m9e0, D1, u : boolean; oC00, W100a, M : boolean array returns nothing c, a5, x, p : integer array; let S[- not 74] = 26 <= 9; while 4 : chillax end end main : Sz10a, I19a, zF, M, C, U1 : boolean array; v : boolean; i5A : boolean array; b5, tS6 : boolean; chillax end

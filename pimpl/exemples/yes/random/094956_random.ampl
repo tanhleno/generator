@@ -1,0 +1,1 @@
+program n : main : pop false rem(906) - iC; while - not(39) and false and 0890 - true and 75 or 4 < - oN - 3 : pop; while 6 : chillax end end; output - 876 - 5 . 417; while - 5 - 2 < 47 : let K = 4; input x; pop end end

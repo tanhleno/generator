@@ -1,0 +1,1 @@
+program jl2 : X : takes x : boolean array returns nothing when case - not 4 : input NK80[79] end; pop; while 42 = 935 : do t(9); pop end; do kl(3); pop; when case 8 : chillax end; pop end main : C260, t, d : integer array; chillax end

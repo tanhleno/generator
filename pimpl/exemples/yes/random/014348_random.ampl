@@ -1,0 +1,1 @@
+program Rv8 : j2g : takes y080a, Z, A3 : integer array; _ : boolean returns integer g : integer; t, H38, k : boolean; while - true and 35100 /= 840 : chillax end; while - 649 = 3 : chillax end end l : takes n7W : integer returns nothing output "" . ""; when case 6 : chillax end case 8 : pop end end main : chillax end

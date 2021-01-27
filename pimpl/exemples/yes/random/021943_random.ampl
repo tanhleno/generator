@@ -1,0 +1,1 @@
+program e : A : takes rpb, QT : boolean array returns nothing chillax end IcWaa : takes tf : integer array; l, GA4, Y2 : boolean; h : boolean; g, i5, S, FF : boolean array returns nothing hUD0 : integer; W : integer; qCZ : boolean; MiS : boolean; chillax end main : a : boolean array; chillax end

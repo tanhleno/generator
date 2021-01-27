@@ -1,0 +1,1 @@
+program HN : l0C : takes K : boolean; o : boolean; B : boolean; RFR0 : integer array returns integer T4 : boolean array; sw9 : integer array; Oo50 : integer array; L41, L : boolean; chillax end main : k60aa, a, c7W, t, u : integer; while not(7) - (27) / not 92 and 24 : chillax end end

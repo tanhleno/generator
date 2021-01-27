@@ -1,0 +1,1 @@
+program QZ : main : when case not x(5970) - false : pop 026 = 4; while 25900 = 1210 : do g7x(391); pop end end otherwise : chillax end; let Y[P(19)] = not 1 and 95 + 329 = 279; while v and 84 < 8 - 33 : pop 6 end; do X(- 0 > 2, 6590); while 752 : chillax end; output 81 . "" end

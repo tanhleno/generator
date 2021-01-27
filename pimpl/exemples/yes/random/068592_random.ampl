@@ -1,0 +1,1 @@
+program sm1a : main : Gp, P, xX, Z5, kWCaa, V : integer array; z : boolean; do kC9((1) = false); when case not true rem 72 and 1 + true : chillax end case - not 4 = - 4 - 873 : chillax end; pop; pop 921 = 9 end

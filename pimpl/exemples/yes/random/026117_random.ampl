@@ -1,0 +1,1 @@
+program V9 : RvEa : takes Q, P57 : integer; E4 : boolean array; T, e, i, vkJa, q, FO10 : integer array; z, x : boolean returns boolean array U : boolean array; chillax end Zf00 : takes e, d : boolean; w16a, a0 : integer array returns nothing chillax end main : while not true and 62 and not 0 and 14 + true + 777 : pop end end

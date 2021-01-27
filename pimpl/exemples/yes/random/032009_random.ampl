@@ -1,0 +1,1 @@
+program H : IZr : takes w, J82a : integer returns integer m, E, j, rK, sxS0a : integer array; k8, i, _A, H5 : integer; l : integer array; chillax end main : L : boolean; when case(982 = 1) / 6 and 4 and 2 < true or true and 07700 - 1 : chillax end case(18200) : chillax end; while xaP0(140) + false and 636 /= true and 4 : chillax end end

@@ -1,0 +1,1 @@
+program l : A : takes YJ, bj, m7 : integer array; W56, d : boolean returns nothing n : integer; chillax end f : takes Ta, j, ee, H : integer; dPC : boolean returns nothing chillax end d : takes I, Pa : boolean array; VJ, p4S : integer array returns nothing i5z0a, bv2 : integer; U, R : boolean; _ : boolean; input y03a end main : do p(- (3) - t(4) <= - (3) rem 41 and 6) end

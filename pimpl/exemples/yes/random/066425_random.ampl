@@ -1,0 +1,1 @@
+program O45 : main : do l(- not(732) rem not 72200 or(0) * w - true and 646 + 3 - 916, - 49 = false and 2, h5 and 4 or 8610, 1 - 6 = 88, 137); when case not not 30 / false and 7 or(2) and 32 or 00 - 63 : input Y end otherwise : chillax end end

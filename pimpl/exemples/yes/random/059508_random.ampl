@@ -1,0 +1,1 @@
+program H : Jrq : takes j : integer array returns integer input r[- not 0 and 27900 - 483 - 2950]; output "9e0a" . ""; while 8 : pop end; pop end B : takes P50, R : integer array; T, _51 : integer returns boolean array w7 : boolean; chillax end main : x0, m, xu_aa : boolean array; w, YY80 : boolean; chillax end

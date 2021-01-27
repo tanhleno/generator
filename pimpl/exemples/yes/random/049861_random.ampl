@@ -1,0 +1,1 @@
+program A_10 : XM : takes n : integer; R, q, j1haa : boolean array; E : boolean; j : integer array returns nothing g2D, CRS0a, B1A, _G3a, V : integer array; h, xu, Qz30a : boolean; input Y5F end f : takes J, U0, H : boolean returns nothing chillax end main : I38aa, t35aa : boolean array; when case - false or false and(50) >= false and 58 and 023 : do o(- 4 - 110, 4, 7, 0) end end

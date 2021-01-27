@@ -1,0 +1,1 @@
+program rt : C : takes f68, i, ZHj, L : boolean array; I9e0a : boolean array returns boolean array wF2a, W, _ : integer array; Rx, CN : integer array; when case 59400 and 39600 : chillax end otherwise : chillax end; output "5B!a" end main : chillax end

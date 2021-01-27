@@ -1,0 +1,1 @@
+program e : main : when case(9 = 341) / true and T or false rem false = - 73 / true and 2 : do z(- 97 - 6 /= 9, 7); let d[3] = array 5; when case 0 : pop end case 4 : chillax end otherwise : chillax end end otherwise : chillax end; while 45 and true or true and 5 : do i4(5, 5400); output 108; output "V8\"a"; let q = 972 end end

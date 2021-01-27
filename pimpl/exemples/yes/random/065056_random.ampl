@@ -1,0 +1,1 @@
+program C : RrE : takes V : integer returns nothing _3 : integer array; chillax end main : when case - H[9190] and D(89) + 5 or not 11 and 6 : input w4[- 935] end case - 27 + true - 2 : chillax end end

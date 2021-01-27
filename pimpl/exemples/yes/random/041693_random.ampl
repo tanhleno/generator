@@ -1,0 +1,1 @@
+program cL : i : takes d7 : boolean array returns boolean array F : boolean; P, d6, F : boolean; chillax end YN : takes P : integer array returns integer output "r" end main : E2, q : boolean; chillax end

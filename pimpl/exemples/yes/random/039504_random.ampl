@@ -1,0 +1,1 @@
+program q5 : M : takes H : boolean array; nkR : boolean; D, B, o, I3 : boolean returns integer chillax end main : while - not 49 / (92) + not not 3 - true - 16 - 119 < 73 : chillax end; when case W3[8] : while 43 : while 470 : chillax end; pop end end otherwise : while 5570 : pop end end end

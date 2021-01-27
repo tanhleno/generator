@@ -1,0 +1,1 @@
+program KO : main : N : boolean; C5, s : boolean; do v480(true and 375, (2) >= y + 7 - 780, true and 0 or 4 < - 30, - 7 - 54500); pop; when case - Kw6 and 1 > - 52 : while 8 : pop end end case - 3 > 02 : do ap(4) end end

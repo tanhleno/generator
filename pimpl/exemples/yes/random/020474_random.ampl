@@ -1,0 +1,1 @@
+program tV : P : takes T, FU7aa : boolean array; a7 : integer array; i : boolean returns boolean input e; input Q[01] end main : l : integer array; F : boolean; x4taa, B, u, i : integer array; q : integer; chillax end

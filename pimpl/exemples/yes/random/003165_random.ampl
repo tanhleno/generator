@@ -1,0 +1,1 @@
+program U : Wsp0a : takes s, t, C, n, A : integer; p, Z8 : boolean; qB, k, W : boolean array returns integer array pop end main : b : integer array; when case(066 = 2) + not c <= - true / false or 68 and 6 - 4 : chillax end case false : chillax end case - (26300) : chillax end; input I6; when case - (5) or 7 : chillax end otherwise : do n05(13); output ""; pop end end

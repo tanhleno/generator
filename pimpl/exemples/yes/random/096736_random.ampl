@@ -1,0 +1,1 @@
+program WT : main : when case false + not false rem X1 and 3 > 0 : do B(9, 14200 = 944, 50, 3); let m[4] = 309; while 43 : chillax end end case O[2] / not 79 : chillax end; output - true + 0 - 53100 = 6 end

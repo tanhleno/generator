@@ -1,0 +1,1 @@
+program T : N2Y : takes z, m84a, c, j0 : boolean; l : boolean array; j, a1j, z1 : integer; c6 : integer; L : integer array; d1 : boolean; r, _73a : boolean returns nothing h : boolean array; pop 1 - 90 >= 0 end main : N : integer; pop - pjO0[24] end

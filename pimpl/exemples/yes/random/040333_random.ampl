@@ -1,0 +1,1 @@
+program n : n : takes z89 : boolean array; v5 : boolean returns integer chillax end W5N : takes J3m : integer array returns nothing Q, M3 : integer; y58 : integer; X : boolean; do u0(997, 55 = 0); while 07 : chillax end end main : u : integer array; Z : boolean; W, S, p : boolean array; chillax end

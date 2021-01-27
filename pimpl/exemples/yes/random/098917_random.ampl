@@ -1,0 +1,1 @@
+program D : main : while - true - true / true - m89 and 866 + 56700 > not true : while 803 : input G; while 7 : chillax end; pop end; when case 47 = 2 : chillax end case 3100 : pop end case 83 : chillax end otherwise : pop end end end

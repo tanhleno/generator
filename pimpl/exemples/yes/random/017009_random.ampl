@@ -1,0 +1,1 @@
+program zT : D : takes Z, e8 : boolean; f, y2, nB : boolean returns nothing e, lK, N8S, Y9 : integer array; _O, a, b, x : boolean; Rv, U, q : integer array; chillax end q0k0a : takes t, iR, e890a, F2Vaa, GT : integer returns nothing G : boolean array; chillax end main : i, VV : boolean; pop(0590) and not 7 and 3 - not 75 /= - h end

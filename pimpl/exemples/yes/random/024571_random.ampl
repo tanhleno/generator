@@ -1,0 +1,1 @@
+program EC : K46 : takes G, V1A : boolean returns nothing O : integer; nAga : boolean array; Z : integer; chillax end l : takes fM : integer array; M : boolean array returns boolean array chillax end main : chillax end

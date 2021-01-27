@@ -1,0 +1,1 @@
+program Z_D0a : main : cH, r : integer array; bu8 : boolean array; output ""; output ""; input X; do C(564 - 2, 701 = 49); when case 67 = 38 : chillax end; when case 2 : chillax end; output ""; while 8 : chillax end end

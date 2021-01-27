@@ -1,0 +1,1 @@
+program mP : L770a : takes c_50a, Q19a : integer returns nothing wu : boolean; let x = 4 = 0; do G(6, 27 = 71) end main : y540, f : boolean; W : boolean array; output - false * 6 . true and 4 >= 781 - 1 end

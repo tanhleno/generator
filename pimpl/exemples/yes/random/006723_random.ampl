@@ -1,0 +1,1 @@
+program w : A6 : takes z, B, M, m : integer; I6 : integer array; e5, Y5 : integer array returns boolean array e6 : boolean; cS : integer; chillax end main : g, b760, v77 : integer array; let D[41] = 55 and true end

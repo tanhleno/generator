@@ -1,0 +1,1 @@
+program A710a : l85a : takes Sf20 : integer array; Na : integer array; K0, q : boolean array returns nothing E : integer; input f end main : F, g : boolean; C : boolean array; kzDa, H, c : boolean array; m3 : boolean array; input r9[21 and(35) rem not 6] end

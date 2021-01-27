@@ -1,0 +1,1 @@
+program C : r53a : takes h, U, r, q : integer; Ma : boolean array; I : integer returns boolean l, a : integer; y : boolean; m, y75, m : boolean array; chillax end main : output "\n\"0a"; output "" . 7 - 2; input z[8 and 61 - 72 - 0] end

@@ -1,0 +1,1 @@
+program z : W : takes i : integer array returns boolean P, M090 : boolean; UO, r2D0, k : boolean array; chillax end n : takes h7 : boolean returns integer when case 0 - 2 > 0 : while 48 : chillax end; pop end otherwise : chillax end end main : a1L0 : boolean; O0, Ih : integer; output - z(07); let M = (1) >= 1 - 8; pop end

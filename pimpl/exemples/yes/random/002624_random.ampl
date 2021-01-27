@@ -1,0 +1,1 @@
+program y : s : takes o, B0v0, i2, j, Q0 : boolean array; h : integer returns integer array output - 2630 . 6 end p7 : takes N : integer array returns boolean Y, vHt0a, i2, U : boolean array; chillax end o3 : takes x : integer returns nothing pop 78; input s1v0a end main : chillax end

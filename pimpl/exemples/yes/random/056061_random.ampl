@@ -1,0 +1,1 @@
+program Q : R0 : takes o : integer array; r : boolean array returns integer array input m; when case 3 - 3580 : chillax end case 6 = 81 : chillax end case 6 : chillax end case 07 : chillax end otherwise : chillax end; output 1; input _9K0 end main : pop - not F end

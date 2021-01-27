@@ -1,0 +1,1 @@
+program a : i : takes i4V0, J : boolean array returns nothing B, tEp0a, _6A : boolean array; KK : integer; chillax end F : takes i2 : integer; C, u : boolean; d : integer returns integer output 5190 = 296 . 2 . "7\t!a" end main : h : boolean; output(5) . true and 452 or 7 - 0 end

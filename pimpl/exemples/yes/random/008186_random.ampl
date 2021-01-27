@@ -1,0 +1,1 @@
+program m : M : takes Xp, Z, C42, V : integer returns nothing chillax end main : t1, c : boolean array; _610 : integer array; c6 : integer; _63aa, T, L : integer array; n : integer array; j8, u4 : boolean; while - (3) or(1) + 04 = - false + not 53 and 81 : chillax end end

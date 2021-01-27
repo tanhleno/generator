@@ -1,0 +1,1 @@
+program HG5 : main : d, b, h : boolean array; P9T0a : integer; f, H, R, P, Rd : integer; let H = array(19200) and(57300) - rf2(897); when case - 3 or 2 or 72 /= true : chillax end otherwise : chillax end; do V(- false and 372); output 0 . 39; when case 48 = 38800 : chillax end otherwise : chillax end end

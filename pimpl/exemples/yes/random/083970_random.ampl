@@ -1,0 +1,1 @@
+program D : main : xi9aa : integer; T3 : boolean; _J7a : integer; when case(3970) + (4) = - (0) / true : let sW = 5 = 2 end case - not false or(7) <= 96 or 9 : while 1 = 72700 : chillax end end case - not 75 and 8 <= 264 : chillax end end

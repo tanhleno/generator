@@ -1,0 +1,1 @@
+program F : main : dn60a, n : integer array; input ouH0[40 or(0) + true and 60 or 9]; when case not(5) or 6 - 148 <= (7) : do Ou70a(3 = 4); input Y; pop; do t(5); pop end case(9) : input x end case 3 - 3 : output "7"; when case 54 : chillax end end case 4 = 0 : chillax end end

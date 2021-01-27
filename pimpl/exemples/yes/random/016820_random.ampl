@@ -1,0 +1,1 @@
+program C : NF4 : takes c6E0a, H0 : boolean; hJ, O, r5Raa, L : boolean returns nothing do a((251) + 2 - 128 = 82 - 8, - 729 /= 8, 85000 = 1); pop 0; input Z100; when case 2 : chillax end; output "d(0"; input Uk20 end main : xL2 : boolean; while i(2) rem 8 : while - 1 = 04 : do K1(19); output ";0" end end end

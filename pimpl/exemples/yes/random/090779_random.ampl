@@ -1,0 +1,1 @@
+program W : main : let Lq40a[- false / not 53] = array - (3) / (36900) rem not 12 and 7 or true and false or false and 5; when case not(0270) * UWSaa = - (71) : chillax end case QX or 9 - 4470 /= - 77900 : chillax end; let E = 2 - 1 >= 2 end

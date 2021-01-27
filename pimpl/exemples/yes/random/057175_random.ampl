@@ -1,0 +1,1 @@
+program A30 : R3 : takes s : integer array; b2 : integer array returns integer t5, mmb0a, JE : boolean array; W7Aa : boolean; chillax end main : u_9, I9 : integer; C, rp1 : integer array; do QlM(- false > not(2), true) end

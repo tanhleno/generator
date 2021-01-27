@@ -1,0 +1,1 @@
+program V7 : i : takes NC : integer; L : boolean; Dbe0a, c5, t, qS, o0W : integer array; g5l0a : integer array; Y : integer array; nH : integer returns boolean array chillax end main : pjP0a, W39 : integer; chillax end

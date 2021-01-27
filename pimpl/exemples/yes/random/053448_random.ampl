@@ -1,0 +1,1 @@
+program G : dg : takes I1 : integer array; hw, d0, v580a, t8, LCY0a, a780a : boolean array returns boolean chillax end main : u : integer array; U, x, M, t : integer array; X, f40, gf, I : integer array; when case - false / Ba / in <= false + not 8 : chillax end end

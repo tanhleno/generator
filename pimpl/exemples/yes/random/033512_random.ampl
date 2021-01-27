@@ -1,0 +1,1 @@
+program X : v2 : takes c02aa : boolean; j, c, jb, B : boolean array; n : integer; H, r, R, o2, E : boolean array; b : boolean array returns integer array output - 729 end XdT : takes g3 : integer array returns integer pop; input N[788]; while 6550 : pop end end main : D930 : integer; x, q : boolean array; Q : boolean; b6 : boolean array; X : boolean; chillax end

@@ -1,0 +1,1 @@
+program B : _ : takes DL2 : boolean; q : integer array; n : boolean; bN : boolean array; O : boolean returns nothing F, _ : integer; VaZa : integer; V, j : boolean; pj, r : boolean; Q6 : boolean; s : boolean; chillax end main : i4 : integer array; b : integer array; let Z6K0a[- Cv[9] rem false rem true and 7 or false] = array true rem false * not 6 end

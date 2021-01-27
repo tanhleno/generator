@@ -1,0 +1,1 @@
+program n2 : E9 : takes P : boolean array; b1z0 : integer array returns nothing kY10 : integer; do xq(- true - 6, - 5 - 76 > 1, 32500, 3180); when case - 0 : chillax end; when case 4 : chillax end case 5200 : chillax end case 1 : chillax end; do l2(1, 6) end main : chillax end

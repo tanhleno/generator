@@ -1,0 +1,1 @@
+program R : I : takes a6 : boolean array; Hn5a, m : integer returns integer M1, z7, mJ, m83 : integer; chillax end main : U, q : integer array; pop - true * (1) and 2 >= - S - 2; pop - 33 <= - 57; pop - 2 end

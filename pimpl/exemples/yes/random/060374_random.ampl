@@ -1,0 +1,1 @@
+program p7 : S : takes O1v : integer array returns nothing lOkaa, c, M : integer; chillax end V : takes Me : integer; P5, X, rP, pK4a, Ap : boolean array returns boolean array when case 3 : chillax end end main : f : integer array; while - N(5, 6920) : while 91 = 90 : do N(8); pop; pop end; do Be(3 = 68, 9, 15) end end

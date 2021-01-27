@@ -1,0 +1,1 @@
+program r : a : takes eCL0 : integer array returns boolean do L(r - 1 /= 12 - 7250, 37200, 7) end P : takes nK : boolean array returns boolean ar4, g : boolean array; chillax end main : Y1, p82a, _0 : integer; while - not true : chillax end; while - i(5200) - true and 5 + 7 - 27 : input i; do Z27(3430) end end

@@ -1,0 +1,1 @@
+program Sm : H3Jaa : takes o : boolean array; n : integer returns nothing X1 : integer; V : integer array; u, c6La, k : boolean; U1ja, X : boolean; pop end main : while not true rem true rem 1 and 8 : chillax end end

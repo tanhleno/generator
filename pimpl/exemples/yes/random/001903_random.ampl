@@ -1,0 +1,1 @@
+program e05 : X : takes t4, in, xCD, Qpta, s03a, D9E0 : integer array returns integer do hAU(not 8 and 6 /= - 3, - 569 >= 0, 432); when case 30200 < 85 : chillax end case 53 = 6 : output "S" end case 4 : pop end case 8 : chillax end; when case 820 : pop end case 0 : chillax end case 434 : chillax end otherwise : pop end; do B(8) end main : i : integer array; chillax end

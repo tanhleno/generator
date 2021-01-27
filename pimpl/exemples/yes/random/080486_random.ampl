@@ -1,0 +1,1 @@
+program Q : main : Dp : boolean; while - (330 = 44) + not not 41 : output 4 = 258 . ""; when case 6 : chillax end case 0 : chillax end case 8 : chillax end otherwise : chillax end; output "370a" end end

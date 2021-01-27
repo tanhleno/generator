@@ -1,0 +1,1 @@
+program o : v : takes H : boolean returns nothing QU, aL_0a, R : boolean array; chillax end w : takes k, a : boolean; yT : integer array returns nothing output "p1" end main : c : integer; chillax end

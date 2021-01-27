@@ -1,0 +1,1 @@
+program LLYa : main : do N(- not false * (25) / not 2 or not(285) or ckWa, - 1 / no and 01 < - (6) and 8770 or 953 - 6); while(27) / false and 3 : do Hou(3); when case 9 : pop end case 88 : chillax end otherwise : chillax end end end

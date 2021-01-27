@@ -1,0 +1,1 @@
+program O6 : Il8 : takes Z, Q : boolean array returns nothing T : integer; chillax end J : takes L8f0a : integer array; Z9, r : boolean array returns nothing a, z, V2, F : integer; input t[75] end main : let w = array - not true end

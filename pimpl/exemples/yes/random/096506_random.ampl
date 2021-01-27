@@ -1,0 +1,1 @@
+program hE6 : main : when case - 09 or Y * (2) - (81) - 2 = true rem false and 8 + (4) : chillax end otherwise : chillax end; output(071) and 2 >= 3230 . ""; do oD9(not 4 and 35900 = 78, 5 - 4 >= 38); input B end

@@ -1,0 +1,1 @@
+program Or3 : O : takes h02, l : boolean array returns boolean array output - 7 end N : takes L : boolean array; q : integer array; jj, r31 : integer array returns nothing when case - 304 > 2970 : chillax end end main : chillax end

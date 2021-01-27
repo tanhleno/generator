@@ -1,0 +1,1 @@
+program O : main : C : boolean array; U010a, P24a : boolean; when case - (911 = 41) / (78) - c(4) * (6) and 3 = - not true rem 2 : let a = 68; do Wa00a(3, 6, 180); let K = array 60 end; do fM2(true > - true + 42) end

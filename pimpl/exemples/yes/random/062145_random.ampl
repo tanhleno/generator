@@ -1,0 +1,1 @@
+program p : o : takes ps : integer returns boolean array when case - true >= 4 : when case 7 : chillax end case 068 : chillax end otherwise : chillax end; while 88 : chillax end; pop; pop end case 0 : let Sd20a = 4; pop; pop end case 81 = 84 : chillax end otherwise : chillax end; pop; pop 248 end main : let ZwT = array(973) * (3) and false or not(9) * not 906 and 156 end

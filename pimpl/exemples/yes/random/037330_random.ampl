@@ -1,0 +1,1 @@
+program iz : r : takes DQ3a : boolean; vm : integer returns nothing chillax end main : P2 : integer; while - (3 = 6) rem false / false and 0 + FeMa[15] rem true and 4 or 3 and 15 = (6290) : chillax end end

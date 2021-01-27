@@ -1,0 +1,1 @@
+program s : d : takes i : boolean; g : integer array returns boolean S0oa, j, c5, N : integer; U61, V : integer array; K1, TU : integer array; chillax end main : s, r : boolean array; while(5) * v9(6) * a and 4 /= cKC[94] - 34 and 5 + 40800 - 7 : pop; output 1440 end end

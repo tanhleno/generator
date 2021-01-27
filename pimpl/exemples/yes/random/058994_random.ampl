@@ -1,0 +1,1 @@
+program S : D : takes l : integer array returns integer array output 6 . 15600 = 09 . 19; pop end M80a : takes L0 : integer returns boolean o : integer; oe50a : integer array; chillax end main : while - true + (0) / th4 or false and 58 : chillax end end

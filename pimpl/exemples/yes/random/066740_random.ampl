@@ -1,0 +1,1 @@
+program w : main : do Wt(- 0 or 57100 - e >= n(7), W(34) - 7 <= true and 6); when case true * true and 5 or(8) and 4 or 70 < false - 9 : chillax end case 9 + 05300 - 43200 >= - 0 : when case 009 : chillax end case 416 : chillax end otherwise : chillax end; do t(0); when case 3 : chillax end; pop end otherwise : output "" . "M"; when case 4 : chillax end end end

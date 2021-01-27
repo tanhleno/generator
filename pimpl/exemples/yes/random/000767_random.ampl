@@ -1,0 +1,1 @@
+program b : z : takes jKFa, Ps, Vu40, Q, j, S, K : boolean returns integer array while false + 9 - 2650 <= 0 - 2 : let e26aa = 130; input A; pop; pop end; do dm(- 0); pop end main : let FiZaa = array S8; when case - I[03] rem 10 - not 8 - 54 - 06200 = false or 9 : chillax end otherwise : input GT; when case 5 : chillax end end end

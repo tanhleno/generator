@@ -1,0 +1,1 @@
+program U : MAxa : takes ho : boolean array; Z86, z, s : boolean array returns integer array chillax end GP5 : takes k1, z, m : boolean array returns boolean array Cef, x91aa : boolean array; b7 : integer; let aLq = array - 2590; while 48 = 9 : chillax end end main : chillax end

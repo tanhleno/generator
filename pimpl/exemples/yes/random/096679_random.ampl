@@ -1,0 +1,1 @@
+program x : main : when case - true or 09500 + (0) and 3 : chillax end case false and 9 : chillax end; when case - H(8) or true - 7 : chillax end; while false and 20 or 61 < - 6 - 6 : while 3 : pop end end; when case 7430 - 199 : chillax end case 4 = 1 : chillax end otherwise : chillax end end

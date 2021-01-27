@@ -1,0 +1,1 @@
+program I : g : takes b : boolean array returns integer when case - false and 4 + 61 /= 444 : when case 2 : chillax end end case 9 : input f end case 3 = 2 : do pQ(4) end case 3 : pop end; output 87400 end sP : takes ckt, i8, v5 : integer returns integer while - 7 - 8 : let C = 4; input J end end main : yk, G : integer; let _ = (651) end

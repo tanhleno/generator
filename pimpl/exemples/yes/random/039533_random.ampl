@@ -1,0 +1,1 @@
+program J : l7 : takes j : boolean array; _ : boolean; M63, R, T : boolean returns nothing V, s4 : integer; pf, Q : boolean; when case - 9150 and 09 : input F[7] end case 6 - 9 /= 781 : pop; when case 89 : chillax end end case 3 = 82 : chillax end case 13 : pop end otherwise : output "" end end main : n : boolean array; e : boolean array; chillax end

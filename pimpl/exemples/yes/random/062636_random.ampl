@@ -1,0 +1,1 @@
+program D6 : J : takes c3 : integer returns boolean output "" end a5V0 : takes g : integer array; P, lob : boolean array; z, _2, _5, Z, b : integer returns boolean array chillax end l : takes e670, B, ODc, l6, q, kOXa : integer array returns integer when case 6 : output "68" end case 945 : pop end; let T = array 216; input F; do Kr4a(5); pop end main : l6P0 : integer; chillax end

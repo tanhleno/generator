@@ -1,0 +1,1 @@
+program T : Q : takes P : integer array returns boolean do Wgs(- not 80 and 0 - 0 - 409 >= - 4) end main : Y, am3, C, o : integer array; g90aa : boolean; L, m : integer; h : boolean; MD, L : integer array; chillax end

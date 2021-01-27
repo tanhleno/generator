@@ -1,0 +1,1 @@
+program Q : q : takes y : integer array returns integer output - 2 - 8 . 1 = 07000 . 0 . "" . ";" end D : takes uG4, u, Ixs, p, p : boolean array returns nothing p3 : integer array; chillax end main : B, GVO0 : integer array; chillax end

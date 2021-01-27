@@ -1,0 +1,1 @@
+program n : main : y, yZ : boolean array; while(6 = 2) * 7 or(5) - (5) and 2 : while - 72600 : do N(4); pop end; input H6; pop 3; do X(9) end; while not not 4 * (3) and 6 + true and 73 : pop 0; output 890 . "" end end

@@ -1,0 +1,1 @@
+program n : R230a : takes V : boolean array returns nothing L, i6, D, Xl9 : integer array; do G(- true = - 82) end F7e : takes p, e1Waa : integer returns boolean N0E, Zd : boolean; u1 : boolean; let qh5a[13 - 3] = array - 74 - 7380 end FeQ : takes s : integer array; p82, S, i, a, lB : boolean; X : boolean array returns boolean chillax end main : chillax end

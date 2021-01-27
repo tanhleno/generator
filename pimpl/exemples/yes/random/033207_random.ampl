@@ -1,0 +1,1 @@
+program R : O : takes ox : boolean; X8U0a, Eo, X, D, X5, dP, l : boolean array; v5 : boolean returns nothing chillax end u : takes X, O47, a41 : boolean array; nN0a : boolean array returns integer array when case - 9 - 330 : chillax end end main : WH : integer array; chillax end

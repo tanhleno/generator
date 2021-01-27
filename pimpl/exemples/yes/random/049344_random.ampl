@@ -1,0 +1,1 @@
+program WSL : Ta : takes h : integer; q, C, Aq, F, Xv, m : integer array returns boolean array chillax end main : XvH, K6, Jg : integer array; ll : boolean array; p : boolean; DxV : boolean array; output ""; output "7" end

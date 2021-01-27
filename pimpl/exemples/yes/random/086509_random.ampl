@@ -1,0 +1,1 @@
+program Wu70 : main : S : integer array; m : boolean array; jo, V : integer; c, D : integer; uu, p3Haa, G : boolean array; JW : boolean; output - 7 or true or 3 . - (8) and 3 + 8 >= 892 - 8 . "i8"; let j61aa[true] = array 5 / false; output "" . "" end

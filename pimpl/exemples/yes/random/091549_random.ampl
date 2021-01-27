@@ -1,0 +1,1 @@
+program R : main : let A[4790 * false rem o and 9] = array 9; when case - false / b4 /= - 8 - 4 : input p6[6] end case - G and 0 + 1 - 46 : let u4 = 99; when case 3 : chillax end end; pop 4 < 7490; pop end

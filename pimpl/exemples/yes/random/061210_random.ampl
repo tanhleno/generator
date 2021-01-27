@@ -1,0 +1,1 @@
+program B : e : takes Z : integer array returns nothing input U; let Ox = array 033 - 77 end Ybia : takes E92 : boolean; Y, x2, l : boolean array; S : boolean array; x, V : integer; A : boolean array; Q9 : boolean returns integer input n; input nL[906] end main : g2 : boolean; l, S : integer array; while - 04 rem D / i and 2 : chillax end end

@@ -1,0 +1,1 @@
+program U6Q : S : takes m, A : integer array; x, C, D, E1waa : boolean array; N, qf30a : boolean array returns nothing H : boolean array; let y = 64 end K : takes v, v : boolean array; B : integer; qDXa, M51a, R : boolean array; Uf : boolean; iW70 : boolean returns boolean array chillax end main : chillax end

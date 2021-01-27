@@ -1,0 +1,1 @@
+program M : g : takes oM4a : integer returns nothing f9 : boolean array; B2 : boolean array; do So(true - 2 - 0 <= - 8); output ""; input t[0]; let y7 = 2 end main : z, x, P, w : boolean; chillax end

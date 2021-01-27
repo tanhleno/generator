@@ -1,0 +1,1 @@
+program n : K3R0 : takes af : integer; l, t : integer array returns nothing sk50 : boolean array; XPf, e, i77 : boolean array; chillax end m : takes S : integer returns integer array output 9 . "(" end main : chillax end

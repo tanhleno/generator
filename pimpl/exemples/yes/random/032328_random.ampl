@@ -1,0 +1,1 @@
+program d : G : takes qJ7aa, z290 : integer returns nothing chillax end main : aM, SZ, F1, CEyaa : boolean array; X : integer array; j, d5 : integer array; G : integer array; lT80a, O : integer; when case - (74) + pU60a[1] + 56 + 39 <= false * xa7 : chillax end case false * not 496 - true and 90100 < false and 69 + 0 - 89200 : input i02 end otherwise : input l2 end end

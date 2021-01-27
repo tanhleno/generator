@@ -1,0 +1,1 @@
+program SRTa : e72 : takes Ae : boolean array; ef : integer returns boolean chillax end main : do Q(- false and s / (70) and 14); while not Jt : chillax end; when case - 8 and 4 < - 80 - 2 : chillax end case - 5 > 0 : chillax end case 599 = 391 : do d(2); pop end; when case - 45 - 55 = 5 : chillax end case 0 = 86 : chillax end; do s(798 = 0); input I end

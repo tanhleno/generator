@@ -1,0 +1,1 @@
+program l : ek : takes L3h : integer; E9 : integer array; JW0aa, q : boolean array returns nothing output 4 - 4 < 60; pop 6 = 8; output 11 . 1 end M : takes AAg0 : integer; q2 : boolean array; M, u : integer; d9 : integer; sR, JcK : integer array; J08 : boolean returns integer chillax end main : b, nui : boolean; w : boolean array; chillax end

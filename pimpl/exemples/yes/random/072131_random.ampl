@@ -1,0 +1,1 @@
+program K : main : r, a, f : integer; c, a : boolean array; vJ : integer; while false or 182 / a /= false * (0) - F0 and 3 : pop end; while not true / not 77 and 62700 : output 63 . "" . "\n\n!a" end end

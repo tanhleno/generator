@@ -1,0 +1,1 @@
+program M : uHL : takes v2, qM, q, H5 : boolean; K, T, Q : integer array; D : integer; q, D, Z750a : integer array returns integer chillax end main : Q : boolean array; let W[- B6(4, 8) and true * (40) and 2] = array - 46400 and not true - 48 or true and 50500 end

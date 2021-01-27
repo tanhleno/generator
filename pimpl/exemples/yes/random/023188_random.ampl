@@ -1,0 +1,1 @@
+program Mb0 : Dt : takes k33, Z : boolean returns boolean q6P, rv8, y : boolean; u : integer array; chillax end OSC : takes F, x : boolean array; Tl20a : integer; x : boolean array returns integer array chillax end main : H, R0z0, U, ig : integer; chillax end

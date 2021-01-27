@@ -1,0 +1,1 @@
+program O : F : takes u : integer array returns boolean W, B, M76 : boolean; do P(- not 89); when case - 8 - 32 < 6 : chillax end; pop 7 end Ez60 : takes W4 : integer; DP : boolean array returns boolean P92a, A, T, GE0 : boolean; pop end main : while - not W2S / l3[60] * A - true : chillax end; pop(773) and 14 >= - 95 - 8 end

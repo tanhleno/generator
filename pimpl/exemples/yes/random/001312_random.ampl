@@ -1,0 +1,1 @@
+program _ : O : takes v, D, z880, Em4, UFw, l : boolean array; _820a : boolean returns boolean Z67aa : boolean array; e, V : integer array; y : boolean; do Y3(85700 and 6, - 714); while 5 : chillax end end main : let e0saa[false] = - (9) or true > - q and 19 end

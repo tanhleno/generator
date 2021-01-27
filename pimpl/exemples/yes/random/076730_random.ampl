@@ -1,0 +1,1 @@
+program zZ : main : W, r8 : integer; let H[false and false * true and 3 or false rem false and 1 + false - 8] = - 9 / not 1 and 5 or true - 3 > false and 40; input D3; do FE(- (88) and 2 + 5 <= - 0); input B41aa[249]; output 1; input i end

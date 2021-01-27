@@ -1,0 +1,1 @@
+program s : D : takes M9 : integer returns boolean yw, Bfk : boolean array; M, M2, m9, z64 : boolean array; chillax end main : W : integer; output - false / true and 54 + not 60 - 5 <= true + 6740 . - not 3 and 1170 - 3 end

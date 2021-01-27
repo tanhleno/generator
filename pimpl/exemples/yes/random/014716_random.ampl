@@ -1,0 +1,1 @@
+program gN7 : l : takes L, M0, h : integer array returns boolean array P : boolean array; chillax end o : takes o : boolean returns boolean array output "" end F : takes S, N : integer; O : integer array returns integer array chillax end main : chillax end

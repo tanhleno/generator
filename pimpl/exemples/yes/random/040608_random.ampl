@@ -1,0 +1,1 @@
+program A : L14 : takes gf3 : boolean array; y3 : integer; Oa : boolean; p0h0a, N62, _, DE, fDP : integer array returns nothing L430a, i50, oNb : integer; chillax end sw2 : takes V, SO9, N, q490a, K, g3, Mb : integer returns nothing K : boolean; yt1a, A100 : integer; lz, T : boolean; let q[- 1] = 6 = 76 end main : chillax end

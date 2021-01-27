@@ -1,0 +1,1 @@
+program R : main : while - (33300 = 8) and false and F > - true : while 26 - 052 : chillax end; when case 6040 : chillax end case 8 : chillax end case 46 : chillax end end; input T03[- (6)]; let Q[- false] = array - true and 80 end

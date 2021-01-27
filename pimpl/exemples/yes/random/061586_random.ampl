@@ -1,0 +1,1 @@
+program G3w : k : takes m : integer array returns nothing when case 9 /= - 0 - 73 : when case 35 : pop end case 11 : chillax end; input Y end; input d; input LQ end tdL0a : takes O : boolean returns integer O93, m, G : integer; f78a, j, L : integer array; T, F7 : boolean; chillax end main : NU : boolean; chillax end

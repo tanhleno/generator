@@ -1,0 +1,1 @@
+program NG : main : l30 : integer; O : integer; when case - 7 rem a rem 3 and 3 - not false /= not not 194 rem true + r + 15400 - 2 : while 3 /= 19 : chillax end; when case 0 : do F(81); pop end otherwise : chillax end end case - B6 or false and 6 : input H20 end; input mvw[- false / v] end

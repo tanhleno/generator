@@ -1,0 +1,1 @@
+program y : o : takes mQK, D, q, Q7, o17, x, f47aa, m : boolean returns nothing while - true : input SQ8 end; let cV10a[- 1] = 0 = 295; while 7 = 27 : chillax end end main : ei : integer array; W1D, P99, Z, wu50a, M7, N0 : boolean array; u : integer; chillax end

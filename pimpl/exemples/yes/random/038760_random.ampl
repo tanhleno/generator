@@ -1,0 +1,1 @@
+program h : O2 : takes c : boolean array; ol, ouv0a : boolean array returns integer array H12 : integer array; do x(- (01600), 1 - 3 <= 7, 36 = 8, 5, 4) end t5E : takes M : integer; Tb : integer; F : boolean array; v6, U, q8B0a, KKo0a : integer returns boolean chillax end main : chillax end

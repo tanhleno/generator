@@ -1,0 +1,1 @@
+program bl : _eD : takes te : boolean returns nothing let w = array true and 34 + 9 - 29; let e1[60800] = 40 = 79; do b(1, 2); when case 90 : chillax end otherwise : chillax end; output "(1"; while 96 : chillax end; pop end main : chillax end

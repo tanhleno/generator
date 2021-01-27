@@ -1,0 +1,1 @@
+program _ : L : takes n7d : boolean array; Hn4, n : integer array; FC2aa : integer array returns nothing Y, sV, L : integer; V, qs5a, uO6aa, e8 : integer; do Aw1a(true and 95 /= 29); input g; output "]" . "" . "" end main : chillax end

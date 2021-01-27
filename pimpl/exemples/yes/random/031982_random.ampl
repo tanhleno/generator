@@ -1,0 +1,1 @@
+program i : tG : takes q, K8xa : integer returns integer chillax end main : B1 : boolean array; C : boolean; A9b : boolean array; input W[- true / true - not true * not 3 - 0]; input q[- H[5] or(8) - 3 - 1960]; input YZ end

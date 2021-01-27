@@ -1,0 +1,1 @@
+program gF1 : j6 : takes cU : integer array; Gn : integer array returns nothing h : boolean array; AL : integer array; S0z0, o : integer; chillax end I : takes M, y, m0M, K : integer array; _20 : boolean returns nothing chillax end main : FU, f : integer array; chillax end

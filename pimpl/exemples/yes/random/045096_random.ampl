@@ -1,0 +1,1 @@
+program O : z : takes I : boolean array returns nothing output 689 - 04600 > 43 end csa : takes m, L600 : boolean returns nothing chillax end d : takes G, V3H : boolean array returns boolean b8 : boolean; I, O : boolean; o2 : boolean; do U09a(7680 = 27, 02200); let OQ[7] = 5; output "C\""; when case 26700 : chillax end end main : output "" . "" . "G"; pop - false - 97 - 16 end

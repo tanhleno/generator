@@ -1,0 +1,1 @@
+program u : a : takes Z, g, W49, L8 : integer array; h3x : integer array returns nothing zp : integer; a4 : boolean; do Q3(- (3630) or 0 - 1 = 82) end main : output not D6 * 1 or false and 756 . "" . "6" end

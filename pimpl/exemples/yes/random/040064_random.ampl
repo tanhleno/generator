@@ -1,0 +1,1 @@
+program V51aa : VV : takes G : boolean array; LE : boolean array returns integer array U : boolean; f : boolean; chillax end main : T8, B : boolean; o5, P, Q : boolean; k, S, R : boolean; c, t, _, wR5 : boolean array; output "]" . - (77) - 360 . "\t" . "?6!a" . "0"; do F73(75 - false and 487); let FVW0a[- not 6 and 131 + 9] = 1 < 40300; let n = 5 = 8 end

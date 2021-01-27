@@ -1,0 +1,1 @@
+program I7 : s0 : takes t3 : boolean array; B : integer array returns nothing R1, _, e, Tt9 : boolean array; chillax end u : takes M, j1 : integer array returns nothing E, v, UsF, f8y0a : boolean; do c2(- 3 - 45, 7 = 9); output "\t" . 9 end main : N : integer; f, Y : boolean array; gt2aa, w : integer; chillax end

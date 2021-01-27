@@ -1,0 +1,1 @@
+program K : j : takes p : integer array returns integer array output 886 - 3 . "W&" . 424 . 8 . ""; output "V" end main : do F(- true * false rem 3740 + not not 16 * false - 1 and 6880); input L; let t[not 0 and 2] = 6 - 4 end

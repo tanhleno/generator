@@ -1,0 +1,1 @@
+program t_ : xN70 : takes UMv0, ob, s, N, l3 : boolean; I : integer returns integer array when case - H0 : let Zdcaa[4] = array 3; while 9010 : chillax end; output "`\n\"a"; pop end case - 28 - 3940 : chillax end; output 1 = 42; do M(6140 = 25200, 55, 7) end main : chillax end

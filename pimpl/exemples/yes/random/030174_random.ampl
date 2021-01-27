@@ -1,0 +1,1 @@
+program T : DJ2 : takes m, KfY0 : integer array returns integer while true - 10500 - 31 > - 0980 : let b[53] = array 5310; when case 7 : chillax end; do N58aa(7) end end U : takes x : integer array returns boolean O8 : integer array; when case 38 - 5 : pop end end main : Fh : integer; c, x : integer; o, W : integer; chillax end

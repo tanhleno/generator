@@ -1,0 +1,1 @@
+program T8 : t : takes u : boolean; w2W0, c : integer array returns nothing e63, Z : boolean array; let l[- 63 and 7] = array - true and 8 or 15 - 718 end main : w7, M1B, e, lj10, S8k0, kY : boolean; pop not qU90a rem 98 and 4 /= - false; do f2J(- (849) * true or not 67); do Lw((8)) end

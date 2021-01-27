@@ -1,0 +1,1 @@
+program k3 : a : takes y7u : boolean array returns nothing pr, G, x : integer array; when case - E > 63 : chillax end case - 89 - 36600 : chillax end end yiW : takes X260a : boolean; B, j0 : boolean returns nothing when case - 0 - 275 : chillax end case 40 = 05600 : chillax end end main : input Fe end

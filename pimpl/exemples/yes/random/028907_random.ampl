@@ -1,0 +1,1 @@
+program p9 : TPs : takes T, xD4 : integer array; i : integer array; Y4 : integer array; I : integer returns nothing yw, q7, R2_, U, kp20 : integer; chillax end xcn0a : takes S4, J, b, s880 : boolean array returns integer array V8E : boolean array; W, Er : boolean; chillax end main : n : boolean; Cdq, I, P1X : boolean; v670, a : boolean array; chillax end

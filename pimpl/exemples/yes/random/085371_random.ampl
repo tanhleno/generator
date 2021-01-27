@@ -1,0 +1,1 @@
+program H : main : GR : integer; while fjoaa or b5[4] : chillax end; while - false and 147 or true - 2 - 6 : when case 67300 : chillax end case 3 : pop end otherwise : chillax end end; input e[- (51) and 14] end

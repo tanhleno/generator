@@ -1,0 +1,1 @@
+program L89 : G : takes P : boolean returns integer chillax end z : takes V8 : integer array; J : integer returns nothing M : boolean array; chillax end main : let uzT0a = array k(5) or(60) rem v and 4; input ZP; when case 94 and 58 or 46 : chillax end otherwise : chillax end end

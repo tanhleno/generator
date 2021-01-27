@@ -1,0 +1,1 @@
+program S : e : takes M0, o, t, pOn, X6, q : boolean array; hr : integer; T : boolean returns nothing while - not 3 and 4 + 8 < 06 - 4 : chillax end; input B25aa[8140] end main : while(3 = 5) - 60600 rem 8 and 08 - p and 386 + 49 - 36 < 5 * true and 9 : input nh end; while true : input qc1; pop 1; do a(9); input M0; pop end end

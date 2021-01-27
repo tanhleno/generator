@@ -1,0 +1,1 @@
+program K : e : takes Y82, oY, ed : integer array; _l1a : boolean array returns integer vA2, A : integer; let P[M0] = 30 - 2; output "\"9!a"; when case 26 = 6 : while 9 : chillax end end case 7 : pop end case 9 : chillax end end main : chillax end

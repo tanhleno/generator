@@ -1,0 +1,1 @@
+program Z36a : main : while - 679 and(217) and false and 64 + ez(0) * 656 and 9 - false : chillax end; do OG(false * K and 46 > - true and 6 + 84 - 2, - 1 and 5 + 41400 - 28 > 244); when case - not 6 and 93 : do vS(0); do dz00a(17400); when case 333 : chillax end; pop end case 3 : while 78 : chillax end end case 064 : pop end otherwise : chillax end end

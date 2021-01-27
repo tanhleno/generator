@@ -1,0 +1,1 @@
+program s : main : input k; output "" . 4 <= 3 . 53 = 1 . 0; when case - 05 = 1 - 93200 : when case 3 : pop end case 0 : chillax end end otherwise : chillax end; while - 3600 : let l2 = 3; while 9 : chillax end end; pop 4830 end

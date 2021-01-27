@@ -1,0 +1,1 @@
+program k : l : takes L : integer returns nothing Q : boolean array; chillax end main : ODq, A : boolean array; S, w, E3 : integer array; Z, c, Zw : boolean; while h * false and false and 61 : chillax end end

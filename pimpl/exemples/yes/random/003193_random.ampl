@@ -1,0 +1,1 @@
+program m7 : G : takes r_Y, o, puj0, e4, mA : integer; R7, O7l : boolean array returns nothing chillax end o : takes F, u0s0a : boolean returns nothing o : integer array; do q(6 - 157 /= 866, 4 = 776); while 1 : chillax end end IT : takes H, Pqm0a : integer array returns boolean l, x, V : integer array; z : boolean; uB8a : boolean; _ : boolean; chillax end main : input b end

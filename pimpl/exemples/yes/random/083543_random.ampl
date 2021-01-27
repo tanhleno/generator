@@ -1,0 +1,1 @@
+program NW1 : main : L : integer; z, Z : boolean; Y : integer; F, S30a, z : boolean; pop false * not 238 = - false - 6; when case O1p and 8960 and 718 > - not 85 and 1 : chillax end case mn > - 1290 - 99300 : input A9 end otherwise : input h5 end; let w[(28) and 801] = array - 2 end

@@ -1,0 +1,1 @@
+program P5a : main : k, G : boolean array; input aB; when case - (4) : input B end case - mEL0 and 6 > - 06 : chillax end case 6 - 660 : chillax end case 180 = 099 : output "?3\""; pop end case 60 : pop end otherwise : chillax end end

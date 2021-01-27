@@ -1,0 +1,1 @@
+program Z : main : when case true < (2) : pop end; let w[true + false and 47 + 9] = array(38) rem false; when case false and 23 or 5 - 4 = - 89500 - 8 : do K1(3, 04); do UA(5); input H; pop end otherwise : when case 91 : chillax end; do VB(2) end end

@@ -1,0 +1,1 @@
+program G : P9 : takes q : integer returns boolean chillax end main : let m[- (18 = 817) / not not 47600 rem 1 - not 313 rem(6) and 31 - not 0260] = array(3 = 8) rem false - not(67); let h = - true or 50 < - 6 end

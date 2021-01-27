@@ -1,0 +1,1 @@
+program FIs0a : Q5 : takes w : integer array; r, w, y9 : integer array returns integer array F3, n57 : boolean; output - 0 >= 9 end main : let nM40[not false + true] = (43) + true and 037 >= - f1d0 and 448 end

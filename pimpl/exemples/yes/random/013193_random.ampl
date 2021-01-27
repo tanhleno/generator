@@ -1,0 +1,1 @@
+program E57 : U : takes d, V, m : integer; Eu2a : boolean array; Y59 : integer array; R : integer array; n : boolean array returns nothing o : boolean; q9ka, Jl2, Q, V5n : integer array; q, C, a : boolean array; p8, G : boolean; chillax end main : Y, y9 : integer; while - false / not(5) <= not 30200 + WVJ0a and 7 + 1 - 7 : chillax end end

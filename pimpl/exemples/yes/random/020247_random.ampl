@@ -1,0 +1,1 @@
+program h : Lr1aa : takes X8, rv : boolean array; S : integer; D540, yD6a, S3 : integer; h, B : boolean array returns nothing chillax end Mh7 : takes d8k0, o : boolean array; V : boolean; Yb, _M60, O : boolean returns boolean chillax end main : while(5) - true / Q + not 55 : chillax end end

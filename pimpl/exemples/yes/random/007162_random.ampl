@@ -1,0 +1,1 @@
+program Ni1 : T : takes x, J6, j, CtAa : integer array; D : boolean array returns boolean U : boolean; input wy[Q]; do C0(758 < 712, 7); output "" . 6 end f : takes U, hx, o5 : integer array returns nothing chillax end main : I : boolean array; chillax end

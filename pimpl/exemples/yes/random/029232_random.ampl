@@ -1,0 +1,1 @@
+program Wb7 : u : takes aO, v8 : integer array returns boolean array chillax end G : takes G39 : integer array returns integer array chillax end G8 : takes x4M, sd : integer array; Q4 : integer returns nothing chillax end main : pop end

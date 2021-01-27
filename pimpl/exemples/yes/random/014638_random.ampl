@@ -1,0 +1,1 @@
+program zeW : u88 : takes x4G, Q, _4 : integer array returns boolean array chillax end f : takes T, F, hQ, k : boolean returns nothing when case 67 - 728 <= 408 : chillax end otherwise : chillax end; while 657 = 1 : chillax end; while 43 : chillax end end main : chillax end

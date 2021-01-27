@@ -1,0 +1,1 @@
+program a : D : takes s91 : integer array; o, l, y : boolean array returns boolean array chillax end main : when case - (2 = 9) : chillax end case(30) / (91) and 421 or true and 1 < - d : chillax end case - uY : chillax end case 7 >= 2 : output "s" end otherwise : chillax end; do lm(- (24)); let E[- true and 123] = 6 <= 574; do sb3a(- 3370 - 0, 43, 53, 7); input z[243] end

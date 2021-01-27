@@ -1,0 +1,1 @@
+program m : u7 : takes E, b, Rt0, X9, w, zh : integer returns nothing d : integer array; chillax end main : X03 : boolean array; when case 657 >= R_6(6) / 2 and 30 : chillax end otherwise : do f(8); output 5; output "<" end end

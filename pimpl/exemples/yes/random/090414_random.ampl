@@ -1,0 +1,1 @@
+program j : main : let S = not true and false; when case - true / false - l or 440 : pop; when case 4900 : chillax end case 62 : chillax end otherwise : chillax end end; output 941 >= 86 . 3 = 5450 end

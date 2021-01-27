@@ -1,0 +1,1 @@
+program M : cxfa : takes q, Sy6a : boolean array returns nothing do kLQ(- true) end main : p : integer array; while - false - true : let izG[836] = 6710 end; do _rX0(- true and R and 80 - (2) + 2 - 11 < - B and 317 + 07 - 9); let K[- 3 + 1] = 7 /= 7 end

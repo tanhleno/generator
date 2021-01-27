@@ -1,0 +1,1 @@
+program g : main : when case(85) : pop 305; when case 16300 : chillax end otherwise : chillax end; let ZV7[6] = array 0 end; when case false : do z(83, 8, 01) end case 0 and 10300 or 89 - 4 <= 8 : chillax end case - 8 - 9 = 3 : chillax end otherwise : do m(777, 4); output ""; input U; pop end; while(50) and 0 : pop 4 end; pop 0360 = 1 end

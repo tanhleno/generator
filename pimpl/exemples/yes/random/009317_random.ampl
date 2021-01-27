@@ -1,0 +1,1 @@
+program B920a : p : takes fc, O, JNh0 : boolean; R : integer array; v : boolean; dJ, u : integer array returns nothing F : boolean; T, Xx : integer array; when case - 5 + 9 - 8 <= - 8 : chillax end; do Wo2(- 0 - 90, 312, 734); when case 836 = 8 : output "\n"; pop end case 270 : chillax end; do A(746); output "Pw"; output "5f0"; pop end main : chillax end

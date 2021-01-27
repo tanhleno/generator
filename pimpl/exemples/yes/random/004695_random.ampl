@@ -1,0 +1,1 @@
+program dSi : pJ : takes uc6, mPEa, L74, D4Qaa : boolean; g : integer returns integer s : integer array; Mf : integer; pop; while 2 - 09 : chillax end; pop 59; input f[5]; input o1 end main : chillax end

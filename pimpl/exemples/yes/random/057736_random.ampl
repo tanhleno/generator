@@ -1,0 +1,1 @@
+program O : s4r0a : takes Zw : integer array returns boolean array q, D : boolean; ef50a, f3 : integer; j : boolean array; chillax end Qf5 : takes C, P, P : integer; r260, Gds0 : integer array; tb, ee : boolean array returns nothing chillax end main : c2s, EkU : boolean; a, H0paa : integer array; let a[(5 = 1)] = array - (8 = 3) end

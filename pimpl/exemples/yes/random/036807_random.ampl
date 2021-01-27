@@ -1,0 +1,1 @@
+program B7 : BH0 : takes U : boolean; l6_ : integer array; M : boolean returns boolean array chillax end main : E22, b, E : boolean array; o, Z03, D7na, Y4 : integer array; let n = - b0i[6]; while not true * true and 471 = 04 + 41 : chillax end end

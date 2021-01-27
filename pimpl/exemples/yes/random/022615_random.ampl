@@ -1,0 +1,1 @@
+program Q : o : takes v, Y7m0 : boolean array returns nothing M : integer array; while - (60) + 9 - 603 >= - 483 - 7 : while 7 : pop end end; input K[- 87]; while 06 = 0 : chillax end; while 85 : pop end; input g27a; when case 9360 : chillax end end main : chillax end

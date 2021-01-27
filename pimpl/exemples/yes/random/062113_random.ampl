@@ -1,0 +1,1 @@
+program Vbma : Ut8aa : takes s3Ta : integer returns boolean array pop - 152 - 6; do K0(5250 - 5560 = 4440); output 03; output 5 end main : do D(false and 575 rem false and 8 >= true - C0n0 or 81800, false / q or not 72 and 3 - 4); output ""; pop 9 < 733; pop end

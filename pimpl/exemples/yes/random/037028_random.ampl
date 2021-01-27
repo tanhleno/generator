@@ -1,0 +1,1 @@
+program Z : L6 : takes O_ : boolean; Q : integer array returns integer output 67600 - 1 <= 18 . 3940 = 4 end Y : takes C7 : integer array; t, N : integer array; w : boolean returns nothing chillax end main : do oG(false rem mQ[393], true / 26 and 0 - true >= false and 203 - 8 - 2) end

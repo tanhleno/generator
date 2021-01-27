@@ -1,0 +1,1 @@
+program x7 : main : when case true <= - i(6) * (8150) : while 44 >= 43700 : while 3 : chillax end end end case - false and(4) and 3580 : chillax end case - 092 and 91 = 6 : chillax end case - 4 - 0 = 946 : chillax end case 3 : chillax end case 828 : chillax end otherwise : chillax end; pop end

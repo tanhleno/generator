@@ -1,0 +1,1 @@
+program Q : main : output "" . not 649 and 6 = - 86 - 1; when case - (3) and true < - false or 374 : chillax end case not 4 and 3 - 7 - 369 > - 3 : let O[7] = array 7610; while 5 : chillax end end end

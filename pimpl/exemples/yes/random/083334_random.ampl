@@ -1,0 +1,1 @@
+program X : main : rn4 : integer; dO, JT, t9Jaa : boolean; when case - not Jl(730) / false - not true - Oa and 2 or 65 - 4 <= 0370 / (98) : output "^" . "4J!a" . 12 . "\t:"; while 0 : output "" end; do _970(9) end case(2) and not 7 - true - 182 /= - W8 and 5680 or 1 - 04 : let hL[2] = array 7 end end

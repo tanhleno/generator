@@ -1,0 +1,1 @@
+program r840 : main : Hf, j : boolean; when case - (7 = 75300) rem t > false / false and 1 + true and 5 or 1 - 800 : chillax end case true : chillax end otherwise : while 97 = 8850 : input q; pop end; when case 24 : chillax end case 14 : chillax end end end

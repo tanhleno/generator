@@ -1,0 +1,1 @@
+program w : DH : takes s : integer array returns boolean let b9A[not 786] = array - false and 2 + 7; do s(9); output "" . 3900; while 0 : pop end end main : while vy30a rem true and 48 > false rem true and 8 : output "" end end

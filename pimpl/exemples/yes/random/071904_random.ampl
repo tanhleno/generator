@@ -1,0 +1,1 @@
+program p : main : c, d, i : boolean array; when case 18700 <= - (503) - true : chillax end otherwise : while 5 = 403 : chillax end; when case 066 : chillax end case 0 : chillax end otherwise : chillax end end; output not 7 + 0 - 83; output 1 - 6 < 3690 . "" . "5" end

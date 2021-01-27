@@ -1,0 +1,1 @@
+program YE : J : takes s, Q5, Z_, W, _, k : boolean array returns boolean array eH, q, V, vH5 : boolean array; d : boolean; O82aa : integer array; while(128) or 80 : let Iw3 = array 554 end; while - 566 - 5 < 066 : chillax end end main : G : boolean array; eE5, X, E550, un9 : boolean array; chillax end

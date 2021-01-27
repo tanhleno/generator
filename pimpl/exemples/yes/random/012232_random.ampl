@@ -1,0 +1,1 @@
+program K0 : md9aa : takes yC, rIxaa, V : boolean returns nothing fw, Vh : boolean; chillax end main : do h(not false * not cC, - not true, not 51700 - 9 <= 33 - 96); do t(true + (9) < not 64 and 74900, (53) and 9 + 83 = 5) end

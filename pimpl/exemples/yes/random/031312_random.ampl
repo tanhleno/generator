@@ -1,0 +1,1 @@
+program s : s : takes Y, f : integer returns boolean array S : boolean; output "" end main : let vD0[not q(5) / true * not 8 and 3 - not 3940] = array true; do D(not true * true, - false and 8, 4690); pop end

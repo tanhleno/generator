@@ -1,0 +1,1 @@
+program r4U : R : takes o, a7 : integer array returns nothing Whf, u : integer array; h, L : boolean; chillax end QT40a : takes v, i, p1p0, Y : boolean array returns integer chillax end Mm : takes yX : integer array returns nothing chillax end main : U7, N : boolean array; uel, C, _ : integer array; while - k0 : output 0 . 51; pop 1; while 9 : chillax end end end

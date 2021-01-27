@@ -1,0 +1,1 @@
+program Cog0a : h7v0a : takes _xZ : integer returns nothing chillax end Ir : takes h, f8, K, P, sj, n : boolean; z, b0, f : integer; V : boolean returns boolean array ZJ, C, L, O : boolean array; S : integer array; Uh, o : boolean; m : boolean; chillax end main : pop end

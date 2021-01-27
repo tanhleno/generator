@@ -1,0 +1,1 @@
+program Li : b : takes y : integer; R : integer array; KMb, t11 : integer array returns boolean p : boolean; chillax end a7 : takes fN5 : integer returns nothing r3 : integer; while - 62300 - 3 /= 5 : chillax end end main : while Mk6(8) + not(56900) : pop end end

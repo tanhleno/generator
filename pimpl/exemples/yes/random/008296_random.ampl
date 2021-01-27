@@ -1,0 +1,1 @@
+program Es : x2I0a : takes F, t, UX60a, l6 : integer returns nothing uElaa : boolean; Z : boolean; chillax end S : takes u : boolean returns integer array chillax end main : input A; output - true; output 77 end

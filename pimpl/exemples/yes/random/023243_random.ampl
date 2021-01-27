@@ -1,0 +1,1 @@
+program Q : BC5 : takes YG, cNM : boolean returns boolean t : boolean; input y end U : takes w4t, B, p0Y : integer array returns nothing chillax end x : takes Z : boolean array returns boolean array i, i98, B : boolean; u, O : boolean; L : boolean; while 5 = 47 : input N; pop end end main : U, y, H : boolean array; i8D, w : boolean; w : integer array; input cH[false * 21] end

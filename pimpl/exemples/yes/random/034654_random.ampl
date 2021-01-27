@@ -1,0 +1,1 @@
+program dC : Q : takes xn : boolean; Hml, l : boolean returns integer array let u = array true; while 9570 - 2 /= 19 : pop; pop; pop end; let x32a[1] = 70 end main : c9 : integer; do Of(true rem false + not not 54300 rem Knl and 64 or not 6 and 1 or 98 = - false - false and 9 or 1 - 74300) end

@@ -1,0 +1,1 @@
+program knh : dYt0a : takes z080a, E4, f, Y, rq : integer returns nothing Y : boolean; when case - (1) + 1 - 52300 = - 70 - 0 : while 5 : pop end; while 1 : chillax end; input G; pop end otherwise : chillax end end A4 : takes bS6 : boolean array; Q : boolean array returns nothing chillax end main : chillax end

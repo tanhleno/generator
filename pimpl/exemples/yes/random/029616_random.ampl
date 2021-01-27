@@ -1,0 +1,1 @@
+program u8R : K84 : takes u55, Q : integer array returns boolean input L[- (7) or 19] end eu : takes y6, js : integer returns boolean let HS = 10 end main : l4, aw9a, er0 : boolean; while 916 / (7) * false and 70000 : do L(8 /= 82, 5); output 3; while 59 : pop end end end

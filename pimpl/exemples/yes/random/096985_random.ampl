@@ -1,0 +1,1 @@
+program i6 : main : when case L : while - 4 - 3 : chillax end; let nz = array 01 end case - (3) rem P /= not 29 - 17 - 05 : chillax end case - (598) and 32200 <= - 76 : input s[7380] end otherwise : input t[6] end end

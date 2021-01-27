@@ -1,0 +1,1 @@
+program A0 : d6 : takes K, z3 : boolean array; V9J : integer array returns integer while - (33700) and 6 - 0 : do w(00, 15600) end; let xr[- 1570 - 68] = 06 = 6; while 3 = 2 : chillax end end main : chillax end

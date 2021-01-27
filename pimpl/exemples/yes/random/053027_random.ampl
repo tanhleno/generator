@@ -1,0 +1,1 @@
+program h8_ : BDo0a : takes lel : integer; a : integer array returns nothing W, kq : integer array; H : boolean array; while E6K0a = - 5 : when case 7 : chillax end case 01 : chillax end; while 2 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program c77 : Lv9 : takes m : boolean array; l, I, B_5, Q3, p : integer; r21a, g : boolean; h, v : integer array; w0Saa, I2, v, Vx7aa : boolean returns nothing chillax end main : S : boolean array; let z8[41 * 6 and not 5] = array true; pop - not 9 - 31600 < 3 end

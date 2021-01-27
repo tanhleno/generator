@@ -1,0 +1,1 @@
+program YQ8 : L8 : takes RN, m, c2, h1 : boolean; k, j, oQ, t, WCaa, gp : boolean; P : boolean array; a, Z : integer array; M : integer array; u : integer array; Ym7, r1i : boolean; A : boolean; q3fa : boolean returns nothing m7, Uv6 : boolean array; Xa : boolean; output 7 = 4 . "\\" end main : chillax end

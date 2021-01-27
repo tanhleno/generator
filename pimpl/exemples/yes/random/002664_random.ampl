@@ -1,0 +1,1 @@
+program m6 : XK : takes u, SZKaa, Xr, f, m : boolean array returns boolean do O(- (9) + 9840 - 3, 3 /= 5) end H : takes hD, uv, jm, B : boolean array; Zqp0a, x, n6 : integer array returns nothing output ""; input i end _5 : takes t32a, M8, o : integer; K5 : integer returns integer xB6, WF : boolean array; chillax end main : chillax end

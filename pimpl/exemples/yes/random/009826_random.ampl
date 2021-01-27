@@ -1,0 +1,1 @@
+program H : o : takes i02, Y0G0, u : boolean array; T, Fp : boolean returns integer let b1[- 907 and 67] = array - 813 and 46 or 898; input V; let FF = 6110 end g47 : takes ts : boolean returns boolean array ve, Q, Z0, M : integer array; s, hT : boolean array; pop 0 = 14; pop; while 30 : chillax end end main : while lc10 > sG70a rem(6) : chillax end end

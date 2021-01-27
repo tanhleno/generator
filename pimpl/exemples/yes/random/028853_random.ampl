@@ -1,0 +1,1 @@
+program Z47 : F : takes K, q : integer array; e : integer array; n, A : integer returns nothing h6 : boolean array; do I6(4 and 6 - 8 >= 8); output "j" . 10; let s = 22 end main : r0, P2, G1 : boolean array; Cn4 : integer array; l, x, M, w : boolean array; output - 59 rem(07) or Q . "Y\\!a" . 4 > 0 end

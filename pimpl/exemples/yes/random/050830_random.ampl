@@ -1,0 +1,1 @@
+program l : uG1aa : takes EQ : integer; DJn, EM : integer; P1, N : boolean; VN5, e, Lo8 : integer returns integer chillax end main : when case true : chillax end case 3 > (99) or 2 - 63200 : output "g\"" end case - 628 and 1 or 0 - 2 >= - 272 : chillax end case 2 > 55 : chillax end end

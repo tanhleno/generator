@@ -1,0 +1,1 @@
+program zC1 : main : j : integer; o, m15, Itm0, M53aa : boolean; S : boolean; L, i, t6, g : integer array; b9, QH0 : integer array; s : boolean; GPm0a : boolean; C : boolean; let o = array not 40 / false rem not 9 and 5 + 3 rem not 25 and 8; do qI5(not g rem 375 and 0 <= - true and 0 + 24 - 0) end

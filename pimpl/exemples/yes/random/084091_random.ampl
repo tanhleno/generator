@@ -1,0 +1,1 @@
+program i : main : U : integer; r : boolean array; Q, J : boolean; X, R : integer array; output "R>"; do V63a(- false or not 84400 and 76 - 6490, - not 2840 and 4 + 4); output - 7 - 2 >= 8 . ""; when case 76 = 4 : chillax end otherwise : output "1"; pop end; do l(2 = 4); pop 08900; input f; output ""; pop end

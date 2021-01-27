@@ -1,0 +1,1 @@
+program JJ : A : takes q, E : boolean array; Ti, k, F, V4 : boolean returns nothing chillax end IYm : takes l, D : integer; _1, d, X : boolean; H3z0, W, o, i : integer; S : boolean array returns nothing chillax end main : O1, uy1a : integer; output "" . "6"; input Jc70a[6 / M or n and 1 - 3] end

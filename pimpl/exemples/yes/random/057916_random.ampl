@@ -1,0 +1,1 @@
+program h2 : x : takes Pcv0 : integer array returns boolean array input i[- e and 14900 - 157 - 5390]; do C(- 3 - 5, 91, 83500, 13); when case 1 = 6 : chillax end case 93 : chillax end otherwise : chillax end end main : chillax end

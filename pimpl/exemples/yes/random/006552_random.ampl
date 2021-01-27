@@ -1,0 +1,1 @@
+program s : D6 : takes F, Z34, w, i2 : integer; d4 : boolean; lC1 : boolean; n : boolean array returns nothing output "\"" . ""; pop end Z : takes I : integer array returns nothing chillax end main : chillax end

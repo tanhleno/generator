@@ -1,0 +1,1 @@
+program JFF0 : w : takes u, h4, Qsx : integer; o680 : boolean; dj, Gz : boolean array returns boolean do s95aa(not 0 or 6) end main : c1, y090a : integer; let c[not(1) and true or not not 5 rem not 6 and 124] = array - false / 1 - (0610) and(8) end

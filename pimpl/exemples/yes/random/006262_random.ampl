@@ -1,0 +1,1 @@
+program E : _ : takes B, Fq20, O, U : boolean returns nothing let xD = 25; while - 3 - 0 : input E1; let z = 0; pop end; output 2 . "" . "R" end main : IO20, RRZ : boolean; do V(- o9(77, 5) = - D(3) and(5200)); when case false = sa00 - 29 - 9 : chillax end end

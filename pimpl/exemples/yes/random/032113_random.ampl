@@ -1,0 +1,1 @@
+program F : Jr : takes oT4, F : integer returns integer b420a : integer; tH : integer array; chillax end u : takes q, k, l, A : integer array; Q, K, I : boolean; eNQ0 : boolean array returns nothing G, Yg0, W, R : integer; when case 09 - 617 <= 1 : while 84 : chillax end end case 5 = 5 : chillax end case 31 : chillax end case 3 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Hl : b : takes a : boolean array; k3K, q03 : integer array; w, h, e : integer array returns integer array D11a : boolean; while - true = - 668 : pop 8 end; pop 5 end main : while - (17 = 699) rem(27) < false or true : chillax end end

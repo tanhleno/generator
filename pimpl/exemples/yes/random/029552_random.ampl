@@ -1,0 +1,1 @@
+program ap : _P : takes K, y : integer array returns boolean uW, M7h0a : integer array; pop 730 >= 0 end x : takes dxhaa : boolean array returns integer array Y8 : boolean; pop end main : Q, i, p, y, c, F, S : integer array; p37aa : integer; r : integer array; chillax end

@@ -1,0 +1,1 @@
+program Pa : C : takes Byo0, XVj0a : boolean; P, z : boolean returns nothing ln0 : boolean; cdq : integer array; do cq(- 53 < - 4 - 0, - 1 - 9) end S75aa : takes x4M : boolean array; wZ, W2 : boolean returns boolean chillax end main : chillax end

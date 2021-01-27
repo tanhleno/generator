@@ -1,0 +1,1 @@
+program s : main : when case - (52 = 9) : chillax end case - false rem h <= - l5I0 + 4 - 7 : let gH1aa = array 68; let I[9] = array 636; do c8(8) end case - not 52 >= - 3 : pop end case 7 /= 822 : input b1oaa; output "7"; pop end case 54300 = 47 : while 44 : chillax end end otherwise : chillax end end

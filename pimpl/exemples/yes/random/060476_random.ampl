@@ -1,0 +1,1 @@
+program j8 : c6 : takes Y : integer array returns nothing P8, i : boolean; We, X : integer; n : boolean; do d(- (4) and 849); let h20[8] = array - 02; input F78; while 6 : chillax end; when case 50 : chillax end; let N = 9; pop end main : chillax end

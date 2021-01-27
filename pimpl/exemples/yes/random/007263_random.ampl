@@ -1,0 +1,1 @@
+program d : s : takes sV3, F, jF, Y85 : integer array; B : integer array; GW, T, H, yO3 : boolean array; Og : boolean; d, l : boolean; S0, w, Cg : boolean returns boolean l, pT, V : boolean; j : integer array; chillax end main : wy, s6 : integer array; q5 : integer array; P, bN : boolean array; K : integer array; i, bB9aa : boolean array; e : boolean; output "" . "ZZ" end

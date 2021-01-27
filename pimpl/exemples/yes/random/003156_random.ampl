@@ -1,0 +1,1 @@
+program D : K : takes P69, Z, W5c, LG9, B090a : integer; X76, V, j : integer array returns integer chillax end main : while - G2[0] and not false or false / _ - true /= - 28 / (2) : input T6[3 - 43]; do G8(19 = 7, 010, 777); while 75 : pop end; do p0A(9400) end; output(75) . 0 . 1 = 32700 . "\"" . "2" . "\n" end

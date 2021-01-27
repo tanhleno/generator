@@ -1,0 +1,1 @@
+program A : DcJ : takes i : integer returns boolean array D2 : integer array; _ : integer; Sh, sR : integer; chillax end main : output "a" . ""; do g(Y970[9], Mb and 506); while - not 17 and 371 or 9 : chillax end end

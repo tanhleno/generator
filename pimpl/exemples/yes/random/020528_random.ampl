@@ -1,0 +1,1 @@
+program I590a : gYG : takes BI, v : boolean array; qr5 : integer array returns boolean array output 08 - 10600 > 6 end a : takes Zp, _ : boolean array; F4 : boolean returns integer output "q8" end main : u : integer; input n9[- t[542] and 5 or 2]; pop end

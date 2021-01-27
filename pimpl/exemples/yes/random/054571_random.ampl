@@ -1,0 +1,1 @@
+program W : d : takes e : integer array; Z, E : boolean array; x : boolean array returns boolean pop; output "" . 2 . 292 . "{" end main : yo, zfl, G : integer array; while not H[7] : output 7 = 4210; pop 2; let YTgaa = array 372; pop; do TT6aa(6); pop end; when case - L(275) rem(67) and 0 - j0 and 54 : chillax end end

@@ -1,0 +1,1 @@
+program i : Zy : takes BP, _N00a : boolean; q, g4d0a, I, Qi : boolean returns nothing z : integer; chillax end main : t : boolean array; N, v, z, P : boolean; f2, Z6a : integer; h4 : boolean array; input y; when case - 7 * true or 7 or 7 <= - 6 and 9 or 044 - 5 : when case 2 = 61500 : chillax end end case - true - 3 < 2 - 8 : do c860a(3, 2080) end end

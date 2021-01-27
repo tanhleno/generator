@@ -1,0 +1,1 @@
+program J40 : NLN0a : takes o, _, b : integer array returns integer array L, z2 : integer array; c, sC6, B, G1ea : boolean; E, zO, W : boolean; QT7, B : boolean; chillax end main : while false / 4340 /= - 07 rem(1) - false and 577 - 287 : chillax end end

@@ -1,0 +1,1 @@
+program K : Ln : takes CG : boolean array returns nothing o, s : integer; let l[not 512 and 81] = - 47 - 88 end f20 : takes uu : boolean array returns integer array B : integer; v : integer; l, F59a : boolean; l : boolean; input m[- 64 - 08]; let n = array 4 end main : g2r : boolean array; v210 : integer; q : boolean; chillax end

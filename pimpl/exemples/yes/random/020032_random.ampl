@@ -1,0 +1,1 @@
+program HB : M : takes k, Jx6aa : boolean array; C : boolean array returns nothing chillax end main : eEi : integer array; Q, o : boolean array; do w7(- (07 = 52) / false * 512 and 2 - false + true >= - b[8], true + (84), j and 89) end

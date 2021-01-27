@@ -1,0 +1,1 @@
+program Z : main : t7T, Y : boolean array; fy : boolean; TpA, vGr : integer array; u4m, RaH0a : integer; input yC; while - 8 = - (6) : input qh end; when case not 2 and 76900 < - 48 - 27 : chillax end; while - 10 - 48400 = 7 : pop end end

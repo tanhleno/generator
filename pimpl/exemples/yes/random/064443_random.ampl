@@ -1,0 +1,1 @@
+program V : m : takes ms : integer returns nothing y, y : boolean; pop - 18 = 9 end main : Vm00a : boolean array; when case - (2) : chillax end case a[6] rem not 04300 /= G1h and 27 : let tJ60a = array 5 end case(693) : chillax end case 1 : chillax end otherwise : pop end; while - true <= - false and 2 : pop; let d[7] = array 751 end end

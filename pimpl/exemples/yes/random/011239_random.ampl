@@ -1,0 +1,1 @@
+program s0 : J : takes ns6, YeC, Vi : boolean array returns nothing fG3aa, r : boolean array; P_60a : boolean; pop; pop 2270 = 7180 end main : while true < (33) rem 7 and 3 + false : output ""; let x[405] = array 2; when case 060 : chillax end; pop end end

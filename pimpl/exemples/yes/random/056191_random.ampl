@@ -1,0 +1,1 @@
+program p : BRP : takes H : integer array; ld : boolean array returns nothing P : integer array; chillax end main : output - 50000 - not 95100 and 1; let H8[(6) rem true] = array - not not 64 rem 5 + true - 3910 - 2; pop - 87500 - 98; while - 888 : chillax end; do y1B0(1 = 15200, 5) end

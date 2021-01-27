@@ -1,0 +1,1 @@
+program K2 : M6J0a : takes M : integer array; v4w : integer; s : integer array returns nothing m : boolean array; _ : integer array; s7o0 : integer array; N : boolean; z7 : boolean; chillax end main : chillax end

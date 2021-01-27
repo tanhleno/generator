@@ -1,0 +1,1 @@
+program Dy : je2 : takes bq80, a, Q81, o, v5, Z2N0a : boolean array returns nothing chillax end S : takes sS7 : integer array returns nothing e0 : boolean; pA : integer; chillax end Jr : takes d : boolean; k5 : boolean array returns nothing when case 1 : pop end; while 0 : pop end end main : pop; do gw9(- not false rem(5360) and 9300 = - 8 and 7 or 3 - 27) end

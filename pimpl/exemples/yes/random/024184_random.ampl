@@ -1,0 +1,1 @@
+program o : H : takes G4faa, k : boolean returns nothing U, n, o, f : boolean array; do g(- true - 2 = 9 - 2, - 6, 2, 648, 79200); pop 8; while 160 : output "$\t"; pop end; let qv5aa[2] = 83; do G(7); pop end main : v : boolean; G1, x, z1B, e6, u1 : integer; chillax end

@@ -1,0 +1,1 @@
+program Upwa : main : Y470a : integer; C : integer; SG, W : integer; P : boolean array; output false and(0) + H + 8 . 15 and 59 > - 44900; input e; let tQ = array jT and 3 or 6810; do H7(6320 - 6 > 5) end

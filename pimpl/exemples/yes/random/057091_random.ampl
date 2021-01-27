@@ -1,0 +1,1 @@
+program q : l : takes Q : integer array; t : integer array returns boolean array while - r and 5 <= - 9 : pop end; when case - 8 <= 3 : chillax end; do r(6, 2); while 8 : chillax end; when case 2 : chillax end end B2 : takes E : boolean; b3, oFM : boolean returns boolean array po : integer array; do w(- 1530 - 7 >= 1) end main : Jg : integer; chillax end

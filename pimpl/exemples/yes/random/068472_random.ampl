@@ -1,0 +1,1 @@
+program w3 : main : O, by, A, F97, T, z : boolean array; while(4) rem(79) rem not 971 and 2 < true / not 1 and 84 + not 320 : while 11 : output "" end end; while 8580 < H - 21 - 22 : chillax end; pop 658; while - 08 > 6 : chillax end; output ""; let Q = array 96; do U(87); while 00 : chillax end end

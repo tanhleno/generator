@@ -1,0 +1,1 @@
+program l8 : z : takes v : boolean; B : integer; u5N : integer; S2Zaa, v : integer returns integer chillax end main : output R6 - 49 and 485 . "4w!" . 954 /= 52; do pq(true and not 80 and 9 > - 27 and 7920 - 41 - 2) end

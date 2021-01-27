@@ -1,0 +1,1 @@
+program s5 : U42aa : takes o1, kR3aa : integer; yijaa, Xa : integer array returns nothing chillax end q6u0 : takes mi5 : integer array; R, t, M26, f99 : integer array returns nothing do f(- 5 - 619, 9 = 53, 3670, 3) end XB : takes I : boolean array returns boolean chillax end main : Et10a, HO7a, A, UT : boolean; pop - (28) >= - false and 8 - 9 - 3 end

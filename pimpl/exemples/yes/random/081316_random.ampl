@@ -1,0 +1,1 @@
+program m9 : main : U : boolean array; P, a : boolean array; i : integer array; sM, NN6aa, qO : integer; h, f : boolean array; input Zd4a[- 7 or true and true and 1]; input b[aM70 - false]; pop; input Ko; do h(168, 3) end

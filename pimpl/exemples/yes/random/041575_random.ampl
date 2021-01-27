@@ -1,0 +1,1 @@
+program B5R0 : W : takes U6 : boolean array returns boolean array O, p3, rB, Aora : boolean; chillax end t8 : takes M7baa, e5 : integer returns boolean W : boolean; i, N440a, F : boolean array; let z = 2; do Iq(6); while 5 : chillax end end main : V9g0 : integer array; chillax end

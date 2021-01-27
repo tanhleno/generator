@@ -1,0 +1,1 @@
+program i : dc30a : takes z, F : integer returns nothing y, e06aa : boolean; output - 103 >= 4 end UW : takes r : integer array returns integer array Cw : integer; B : boolean; B : boolean; chillax end a9i : takes Kc : integer array returns nothing L, Z : integer array; chillax end main : O, QvS0 : boolean; chillax end

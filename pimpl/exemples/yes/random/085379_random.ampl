@@ -1,0 +1,1 @@
+program B690 : main : H06a : integer; while not true <= (8) * z and 8 : chillax end; pop - not 6400 /= - 982 - 7; input A6; while - 6690 - 77 > 55 : when case 94 : chillax end end; input Pg6a[32]; output "" . "5"; when case 5 : chillax end end

@@ -1,0 +1,1 @@
+program vM2 : DO : takes S, f : boolean array; u : integer array; K : integer array; A, X : integer array returns boolean array output ",\ta"; when case 16 - 72 : while 5 : chillax end; when case 28800 : chillax end end otherwise : output "A^0"; pop end end main : s, Vx : boolean; let nFu0[- 79 or Mt[82900]] = iA50a(620) + false and 60200 end

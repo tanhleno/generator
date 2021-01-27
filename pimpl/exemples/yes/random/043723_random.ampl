@@ -1,0 +1,1 @@
+program y : Q81aa : takes o_ : boolean array returns nothing chillax end main : g, s : integer; pop - 71 / Ar4 or false and 04 < 3; when case false rem true + g + 9 >= true : pop 0; pop; when case 12 : chillax end end otherwise : pop 13; pop end end

@@ -1,0 +1,1 @@
+program _yJ : d : takes KX, d : integer returns boolean array chillax end V7 : takes _ : boolean; M0, X, D, c, J7a0a, mL4 : integer returns boolean output ""; when case 02 : do c(1); pop end otherwise : chillax end end main : when case(94) and true + false /= - false / 9 + not 4 and 71 : when case 38 - 9 : do p(8); let e = 94; pop end case 99 = 968 : chillax end end end

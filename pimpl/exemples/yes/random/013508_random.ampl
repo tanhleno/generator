@@ -1,0 +1,1 @@
+program Ic : T1 : takes B, N2, M : integer; Nu : integer array returns integer do C9(- not 7 and 9370 = - 06); when case - 9 : while 8 : chillax end end case 419 = 38 : do A(6); pop end; do FG(1 = 0, 719); do oS9(636) end main : chillax end

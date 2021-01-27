@@ -1,0 +1,1 @@
+program N : fkX : takes g : integer array; g, nrL, i1 : integer array returns nothing i5, p, w, O, L02 : integer; chillax end C : takes s62 : integer returns nothing chillax end bM5aa : takes _, z4_ : integer returns integer let Gm6a[1] = 06; while 576 : pop end end main : d : boolean; s, k8, EI30a : integer array; output "" end

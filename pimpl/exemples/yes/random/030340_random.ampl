@@ -1,0 +1,1 @@
+program NX7 : g1 : takes D, phn : integer array returns nothing chillax end main : n, zv : boolean; while - true - _[16] - false - 7 - 2340 >= - true : output "" . 9 . "\\\t\"" end; while 066 / (3870) and 90 - true + 5 - 1 : do g1(396 = 5) end; while - j8 + 6 : let q5p[377] = 6; input o3; while 55 : chillax end; pop end; pop 3 = 17 end

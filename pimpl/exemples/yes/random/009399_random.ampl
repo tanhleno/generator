@@ -1,0 +1,1 @@
+program Gy : J : takes J, U7c0a, kb90 : boolean; D4 : integer array returns nothing i : boolean; chillax end P : takes h39 : integer array returns nothing input pHC0; while 48 : input S0 end; pop end f : takes W : boolean returns nothing B : integer array; input G[5]; input k end S : takes z9, W7k : integer returns integer E : boolean; Q : boolean; chillax end main : pop end

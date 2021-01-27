@@ -1,0 +1,1 @@
+program f : m : takes V09a, H6m, S5 : integer; I : boolean; T, O1 : integer array; D, b : boolean; g860a : integer returns nothing pop - 4 - 80 /= 1; input n[24] end H : takes D4 : integer; HD, d3D : boolean array; U36 : boolean array returns nothing B, d : boolean array; pop 1 end main : N, f : boolean array; chillax end

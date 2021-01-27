@@ -1,0 +1,1 @@
+program g : c : takes h, r, ta, Fp6aa : integer returns nothing Dy : integer; let j = 1 - 0 <= 51; pop 5; input JZ[3680] end main : do X11(false and true * true and 64400 - true or U440, - true * not 8) end

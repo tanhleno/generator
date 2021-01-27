@@ -1,0 +1,1 @@
+program a : D : takes oB4 : integer returns integer array chillax end w : takes G, IL, z6, Q, H_b : boolean array; x4, v5, _a0 : boolean array; N : integer array returns nothing chillax end r : takes d, mJ50a : integer array returns nothing O6 : integer array; chillax end main : while - (5) or G(56) >= a(2800) - (5440) : output "" end; output - false and 8 - 24 . - 59 end

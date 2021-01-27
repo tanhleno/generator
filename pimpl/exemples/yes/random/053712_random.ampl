@@ -1,0 +1,1 @@
+program b : v : takes v : integer array; fJ, L, q, kE8 : boolean array returns nothing S, r, w : boolean; i1, H, K, X : boolean; mm : integer array; C : boolean; input os[- true + 03 - 1]; let a[13] = 181 end main : ZVb0a, B20 : integer array; h, a, W : integer array; P, T4 : boolean array; x64 : integer; chillax end

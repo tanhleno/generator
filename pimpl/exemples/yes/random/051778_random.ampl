@@ -1,0 +1,1 @@
+program fa0aa : m : takes a71a : integer; ks : boolean array; Y : boolean returns boolean t9, A2C : boolean array; N730 : integer array; while - Hbl and 3 + 839 - 8 : let jo = array 1970; do C(98) end end main : output "Q" end

@@ -1,0 +1,1 @@
+program Q8 : sB : takes b, j, O8 : integer; uiM, Y, T, YhS, KK : integer array returns integer array input G[not 4730 and 99] end main : B0, j6, s : boolean; output - true or not 02500 and 756 + 3 - 178 end

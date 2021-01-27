@@ -1,0 +1,1 @@
+program fqya : HxJaa : takes E1ia : integer returns integer S : boolean array; smB : boolean array; input f end q : takes F, z, S : boolean array; D : boolean; m : boolean; O, k31, qzb0 : integer array returns boolean array h, Ja5, qu3, u : integer; z0 : boolean array; chillax end main : A5, C, H4, m54, V71 : integer array; chillax end

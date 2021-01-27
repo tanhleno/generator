@@ -1,0 +1,1 @@
+program m : Z25 : takes I, G, p : integer array; X, c : integer; E6N, V, Zv, b0 : boolean array; k, b, W, m : boolean array; Bk2 : boolean; r160 : integer array returns nothing pop; let cWG0[4] = 1 end main : input H8y end

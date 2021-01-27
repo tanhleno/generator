@@ -1,0 +1,1 @@
+program h1 : Z : takes K : boolean array; wd, og, xg, w, D8 : integer array; u : integer array returns integer Z4f, kOX0a, bY : integer array; chillax end main : output ">"; output false > 14 . ""; output 5 < 5 . "" end

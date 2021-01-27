@@ -1,0 +1,1 @@
+program c : u : takes z : boolean array returns nothing s : integer; let T = array - (74) and 7; when case - 76000 - 99 : chillax end case 3 = 097 : chillax end; let p[4] = array 9970 end rS : takes c : boolean; CR6 : boolean array returns nothing do m(7, 514 = 20) end main : let qSQ0a[(14 = 8) and true * not 765 and 4 - false + (7) and 9] = - 7 - (19900) > not 940 and 3 end

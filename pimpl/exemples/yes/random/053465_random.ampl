@@ -1,0 +1,1 @@
+program Pt00 : c : takes t : integer array; h2D, eo, yP, W4e0, R, D5n0a : boolean returns nothing when case not 880 /= 95900 - 0 : chillax end otherwise : input Q end; while - 7 - 5 = 576 : while 710 : chillax end; do qG2(75400); pop end; while 1 : while 95 : chillax end; pop end; output "" . ""; while 9000 : chillax end end main : chillax end

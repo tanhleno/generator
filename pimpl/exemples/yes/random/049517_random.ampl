@@ -1,0 +1,1 @@
+program f : v : takes r9 : integer; F4, a, lfM, T : boolean; b : boolean array; Lh, Q7z0 : integer; Lf3, e5 : boolean array returns nothing let O = 0 - 937 <= 554; while 27 - 6 >= 69 : input mH4 end end main : N : boolean; Vn0, u : integer array; Zi : boolean; chillax end

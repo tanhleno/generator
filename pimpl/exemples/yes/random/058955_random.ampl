@@ -1,0 +1,1 @@
+program X : y0 : takes oZ : integer array returns integer array r : integer array; i, lyt : boolean array; Q : boolean array; BA, I : boolean; nZ3 : boolean; A : boolean; do y(037 < - 9) end main : F : boolean array; z : boolean; r : boolean array; j230a : boolean array; chillax end

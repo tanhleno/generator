@@ -1,0 +1,1 @@
+program B : Zf5 : takes U, hL : integer array returns nothing when case LL0 and 4 = - 3 - 3 : chillax end case - 14 /= 3 : chillax end case 347 : input Sp end case 1 : pop end case 3 : chillax end end o : takes B : integer array returns nothing pop 17 = 1 end main : Do, T : boolean; chillax end

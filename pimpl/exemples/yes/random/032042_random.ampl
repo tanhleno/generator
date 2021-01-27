@@ -1,0 +1,1 @@
+program f : w : takes xT2, c5X : integer returns integer G, W : boolean array; chillax end main : YK10, P0Maa, L, o : integer array; Q, b1G0a : integer array; Y : boolean; s : integer; let de = array true + false / not 0; pop end

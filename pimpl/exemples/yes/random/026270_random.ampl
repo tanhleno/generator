@@ -1,0 +1,1 @@
+program M5U : k : takes O, Y2 : integer; G60 : boolean array returns integer array K6 : integer; I4G : integer; yX80a : boolean; Qk : boolean; lp_0 : boolean; while false - 14 <= 52 - 2 : chillax end end K6 : takes e2 : boolean; U5Na, Ywr, e0D, V, W : integer; i, r : boolean array returns boolean array v : boolean; _, N : integer; ND : boolean; chillax end main : chillax end

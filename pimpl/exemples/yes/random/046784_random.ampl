@@ -1,0 +1,1 @@
+program N55a : tP : takes G : boolean returns integer array input jB4[true + 9 - 9] end O5x : takes Y : boolean array; KG4, q : boolean array; mP3, J7, vLzaa, sv : boolean; l3 : integer returns nothing _, K1, Gx, q : boolean array; chillax end main : do m7(- false and 79 and true or not true, 3 rem z and 1 - 54 + 68 - 09800, v9 and 400, 9 <= 052, 0730, 1); pop not 7 and 11600 end

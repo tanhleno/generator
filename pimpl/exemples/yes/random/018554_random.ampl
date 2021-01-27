@@ -1,0 +1,1 @@
+program I6c0 : ta3a : takes a, A490a : boolean; k : integer returns nothing yn, P, v : integer array; let r5[- false and 15 - 106 - 181] = - 8460 <= 8 end main : QC : boolean array; F, M, z, O, uY : integer array; do v47(- true, - 9 * true and 4 + true and 1 - 3 - 4140 /= - P and 5, not 350 and 69800 - 527 = 3, - 0, 9) end

@@ -1,0 +1,1 @@
+program U5 : r : takes r7e : integer array returns nothing chillax end main : p9 : integer; N, U, O : integer; a7l0a, s : boolean array; u8 : integer; A, M, U : boolean; while - true + 9 < (34) * S and 4 - false + 1 - 9 : chillax end; let EB = - false and 0 - 3 = - 04; output - 7 > 2 end

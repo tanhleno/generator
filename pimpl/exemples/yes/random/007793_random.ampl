@@ -1,0 +1,1 @@
+program z : O : takes X11, u5, w, Z : integer array returns nothing p : boolean array; K4 : boolean array; Q : integer; M, Zb : boolean; when case 8 and 43900 <= - 6 - 2 : chillax end otherwise : chillax end end main : chillax end

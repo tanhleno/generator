@@ -1,0 +1,1 @@
+program f : D81 : takes l16, p0H0 : boolean array; Kf : integer; M : boolean returns integer tc, m : boolean; chillax end main : B, n, yn : boolean array; when case - true > - (48) : pop; let U = 3 end case - (3) - true and 8 + 1 : chillax end otherwise : pop 93; pop 3 end end

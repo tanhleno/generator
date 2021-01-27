@@ -1,0 +1,1 @@
+program q : Fc : takes v, hM : integer returns nothing do m((6000) and 1 /= 82 - 4570, 3660 >= 72) end main : p : boolean; while o9(13, 8) or not(750) * DU6 - (71800) and 8 > 0 and(5290) or true or 75 : when case 4 - 43 : chillax end otherwise : chillax end end end

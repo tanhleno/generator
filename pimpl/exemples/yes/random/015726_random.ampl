@@ -1,0 +1,1 @@
+program r8 : x2 : takes N, Z, cEGa : integer returns boolean array e16a : integer; laSa : integer array; tN6, J, C : integer; while - R and 1 or 6 - 271 : chillax end end EN : takes I, fL2a, v, X : boolean array; gf, pf70a, D, K : boolean; s6, WU, z : boolean; fh, Z : integer returns nothing chillax end main : n, C1, TY, I, p : integer array; chillax end

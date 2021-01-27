@@ -1,0 +1,1 @@
+program RR6 : main : n, H : integer; while 41 <= - false / false and 771 + false and 90 : pop 6; input U; let Y1 = 7; do oNRaa(99); while 1 : chillax end; pop end; let d390 = 2 and 0 + 63 - 719; pop; while - 924 - 2 /= 1 : chillax end; while 0 = 63 : pop end; let G = 4 end

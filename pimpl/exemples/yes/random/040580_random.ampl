@@ -1,0 +1,1 @@
+program B : Y : takes J : boolean array; a46 : integer; S, s : integer array; u, m : integer array; g, Z4O : boolean; TK, gb, T : boolean; B5oa, C : boolean returns integer array let z[- m and 8 - 4] = array g1N0 and 6; input RNs0[- 7 - 2] end main : chillax end

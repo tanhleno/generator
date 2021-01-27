@@ -1,0 +1,1 @@
+program j : main : ig3, Q2 : integer array; when case false * (3) rem false >= - 2 : chillax end case - not false + (5) and 7 /= - false + 1 - 41300 : pop 1; let b6[79] = array 1 end otherwise : let _5[303] = 16; do j(9); input Y; while 0 : chillax end; pop end end

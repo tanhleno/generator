@@ -1,0 +1,1 @@
+program x08a : q31 : takes x, g3r, M : boolean array; V11 : integer array; r8 : integer array returns integer array nK7 : integer; Nh0 : integer; let S[7 and 40 or 20200] = array H and 67400 - 3 end main : chillax end

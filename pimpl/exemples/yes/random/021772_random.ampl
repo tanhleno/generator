@@ -1,0 +1,1 @@
+program O : vl : takes v, t : boolean array returns integer pop end g : takes Y : integer; Pt : integer array returns integer array I, lU7, H : boolean array; f, G5 : integer array; chillax end main : while - not not not 5 : output "{2" . 0 end; let F[- (677) - 1940 and 9 + 42 - 5] = E and 75; input hn4[- 324 - 0 - 24] end

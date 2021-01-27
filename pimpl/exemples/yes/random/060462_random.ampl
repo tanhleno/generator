@@ -1,0 +1,1 @@
+program G : b : takes O : integer array returns nothing o, B : boolean; b, R, Gc3a, g : boolean array; h9 : integer; when case - (57) - 18 - 3 : chillax end otherwise : chillax end end main : K580a, y, G : integer; chillax end

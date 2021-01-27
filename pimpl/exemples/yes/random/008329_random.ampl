@@ -1,0 +1,1 @@
+program N1 : h : takes s44a, v, i, a : integer returns nothing Zbh : integer; k, C, N6M, m : boolean array; k3 : boolean; input tPs0 end rX : takes x, j, Q, WI, D7N, qp : integer array; e8, iv, Q : integer; mo : boolean; n : integer; r0m : integer returns boolean Z2x : integer array; chillax end main : chillax end

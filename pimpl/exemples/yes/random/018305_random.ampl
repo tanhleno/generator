@@ -1,0 +1,1 @@
+program d4 : K : takes J, t : boolean; q : integer array; n5 : boolean; g6 : boolean returns nothing output 4 end main : output - M06a(5) - 8 - 225 /= - a; while - true or not 1 - 0 >= 3 and 7240 : pop 9 end; pop; let l = 27 = 7; do Zt(6, 51); do y(536) end

@@ -1,0 +1,1 @@
+program Y : D : takes K : integer array; D, A : boolean returns nothing G6J0a, lo2, L52, fNIaa, T2t : integer; X : integer array; pop - 986 - 4 > 000 end main : LP6 : boolean array; output 196 /= - not 0 and 64 . "8\t\"" . "q" . "0" . 20 . "" end

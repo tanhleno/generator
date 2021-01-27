@@ -1,0 +1,1 @@
+program X : main : when case - true or 63 + not 4650 and 49700 or 32 - 94200 : chillax end case false or false : chillax end case - not 46 > - 1 - 4 : while 288 : pop end end case - 584 - 67 >= 27 : chillax end otherwise : pop 1; when case 4930 : pop end case 2 : chillax end end end

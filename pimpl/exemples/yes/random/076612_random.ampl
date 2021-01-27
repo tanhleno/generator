@@ -1,0 +1,1 @@
+program N : main : X, s98 : integer; input T[- (04)]; let i[- not TI1 rem tm60a or(2) or 5 - 17600] = true + 61; when case i /= - 7 - 0 : output 479 end case 572 - 013 < 0620 : when case 6 : chillax end end case 1 = 9 : when case 364 : chillax end; pop end otherwise : do _(58); input k2; pop end; input r[- 55]; pop 7; output "" end

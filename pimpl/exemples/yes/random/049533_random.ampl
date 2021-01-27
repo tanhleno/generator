@@ -1,0 +1,1 @@
+program B : UZ : takes g1na : integer; UJ, B, eJ7, g : boolean array; S, _, P : integer array; w : integer array returns boolean array chillax end Z : takes I2Ca, o3, G : integer array; D : integer array; p2 : integer; AB, y39a : boolean; T, AJ : integer; s2, Df3aa : boolean returns nothing A0 : integer; j, g : boolean; chillax end main : chillax end

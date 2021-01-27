@@ -1,0 +1,1 @@
+program ip : main : do v0d(- hj + not(33) and true, - no and(15) or(72), true - 5 - 39 >= - 0 - 41100, - 2); when case _(63500) and(426) + 21 and 01800 /= W : while 029 = 5 : chillax end end otherwise : input X; when case 0 : chillax end end; do T(- true - 6 - 204); let P[03 - 1] = 07; let V4 = 9 end

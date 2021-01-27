@@ -1,0 +1,1 @@
+program iM : E : takes R : boolean returns nothing T950a : boolean; u, a3 : boolean array; chillax end h : takes B, W : boolean array; r : boolean returns integer chillax end main : pop; do Bh1(- 84 + false + 90 - 22900 > - false and 8 + 81, - not 701 and 6 >= 4, - 4) end

@@ -1,0 +1,1 @@
+program s : rx : takes wQ : integer array returns boolean array H620a : integer array; output 2 - 6 . 143 . 62; do z2E(- 7 - 8, 5 = 88) end main : K, Jv, MQ, F, U600a : boolean array; v_, K, q : boolean; c : integer; chillax end

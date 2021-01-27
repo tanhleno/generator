@@ -1,0 +1,1 @@
+program Sr : O : takes gO, _5 : integer; Kb : boolean; y, Y3, I2Eaa : boolean array returns integer chillax end wZ3a : takes i5 : boolean array returns nothing M : boolean array; when case 0 - 788 : chillax end end main : while false and(3) + true * false <= - 94700 * 0 : chillax end; input G0V[c]; output - 4 = 9 end

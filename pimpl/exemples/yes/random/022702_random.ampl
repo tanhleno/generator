@@ -1,0 +1,1 @@
+program i : L5 : takes k9G, z : boolean array returns nothing output - 50 - 757 . 1 = 6 . "" . "0"; let j[- 1 - 2] = array - 68600 end l : takes Z, n1 : integer returns nothing b : integer array; chillax end main : fj : integer array; e, c, z5T, eZ : integer array; input R8[- not true]; input qM[T530(1) and H] end

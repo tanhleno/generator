@@ -1,0 +1,1 @@
+program m0 : m75aa : takes a, p7, q : boolean returns boolean R, Y2l, I : integer; h, mF, wr10, bf : boolean; B8 : boolean array; chillax end xI : takes a0u : boolean returns boolean _X, j9 : integer array; Ko : integer; while 0100 <= 90 : chillax end end main : let J = not 97 end

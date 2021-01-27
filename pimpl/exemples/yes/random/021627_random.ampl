@@ -1,0 +1,1 @@
+program H : lq : takes f, o : boolean array returns integer p070, b1M0, t : boolean; fd : integer; l, P1 : boolean; g : boolean; while false <= 551 : chillax end; input j29a; when case 8 = 3 : chillax end; when case 87 : chillax end otherwise : chillax end; do T(8); input I end main : pop end

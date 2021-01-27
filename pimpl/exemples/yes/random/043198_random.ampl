@@ -1,0 +1,1 @@
+program A4T : H1 : takes p : boolean array returns integer t : boolean array; y : boolean; chillax end e : takes Y310 : integer; F7 : boolean array returns integer array chillax end main : output 0 or false and 648 - 034 - 2 < - not 65100 and 6 or 29 . "" . "\"" . "n" . "" . "y)" . "" end

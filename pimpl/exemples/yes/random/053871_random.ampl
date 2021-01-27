@@ -1,0 +1,1 @@
+program S : Cq : takes HQ : integer array; D8, _, b5 : boolean; E5, m4P, y2, h : integer array returns boolean chillax end o : takes yH2, fRS : boolean array returns integer do A(975 - 68900 <= 7, 62 = 073); while 81300 = 3 : chillax end; do NIa(2); pop; input Z end main : F : integer array; nq, CS : integer; Lb70a, X : boolean; V, a : boolean; chillax end

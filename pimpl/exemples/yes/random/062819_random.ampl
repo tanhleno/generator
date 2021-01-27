@@ -1,0 +1,1 @@
+program w : UR : takes E : integer returns integer array do gZ(true); do k(0 = 2710) end main : do V(31 + false rem 92 <= - (7) - false or 09, false, - not 700 < 2 - 94, 0 /= 4860); output false and 3; pop 987; when case 53100 >= 773 : input fw end end

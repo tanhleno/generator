@@ -1,0 +1,1 @@
+program B3 : t : takes P9 : integer array returns integer array chillax end main : lJs : integer; while - (34100 = 7) and false or l - true /= m * (2) : chillax end; let pT = array true - not 0 and 3 - 1 - 88; when case not 14 : chillax end case 56 <= 5 : chillax end case 8 = 7 : chillax end case 90 : pop end end

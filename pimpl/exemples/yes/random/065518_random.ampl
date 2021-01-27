@@ -1,0 +1,1 @@
+program P8 : Y6E : takes J_ : integer returns nothing when case 6 or 39 - 0 : chillax end case - 8 : input m end; when case 31 < 170 : chillax end otherwise : chillax end; while 0 : when case 32600 : chillax end; pop end; pop; input f1; pop end main : let NR = - 75 / 7 end

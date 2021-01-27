@@ -1,0 +1,1 @@
+program E1 : s10aa : takes Z, ux, r27, F, IK2a, J530, m, D : integer array returns nothing AH3 : boolean; L : integer; d70a : boolean; T, O : boolean; r : boolean; W : boolean; while - S and 17800 or 77 : chillax end end a : takes T : boolean array returns nothing A : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program m9 : main : let Q5pa = - not not 9 or(57) and 488 + 63 - 0 <= false and 066 + 8890 - 9; do i4(- not(5) / not 0480 and 76 > false and 38 + 1 - 872, 9 >= - 5 - 61400); output "O?aa" . "" . "" . "" . ""; let M = array - 1640 - 71; let rB = array 95; pop end

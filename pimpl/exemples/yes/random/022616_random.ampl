@@ -1,0 +1,1 @@
+program a : Yq1aa : takes J, F2 : boolean array returns nothing M6U : integer array; while - F and 092 + 4990 - 5 > 4 : chillax end end ON : takes l95 : integer array; tH : boolean returns nothing H3 : boolean array; L5, I : boolean array; input R33[1170]; let P56 = 6; pop 52200; pop end main : chillax end

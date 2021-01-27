@@ -1,0 +1,1 @@
+program Xe : G7 : takes sxBaa, C : integer array; lP, X_, l9, J1 : boolean array returns integer array input O; while 40 = 96 : while 4 : chillax end; let ia = 81; pop end end main : let Tf[Q(0) / not 044 * not 5 and 162] = array not(774) / (7) / (910) and 5; output Y end

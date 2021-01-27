@@ -1,0 +1,1 @@
+program j2 : N : takes W4, i : integer array; C : integer; g : integer array; G8B0 : integer; Z, g29aa : integer; Pof0a : boolean returns boolean array let l[- Nk_a and 572] = - 42; do P(297 - 75 <= 873, 6, 3); pop 4 end main : M4 : integer; yB, S17, l, Z : boolean array; B, Uh : boolean; E : boolean array; h : boolean; r, Er : boolean; chillax end

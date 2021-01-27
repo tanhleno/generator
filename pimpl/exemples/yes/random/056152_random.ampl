@@ -1,0 +1,1 @@
+program x : n5t : takes Hm3 : integer array; G : boolean array returns nothing x, Wrh0 : integer array; g4, TR : integer array; output ""; do OLT(- 6 <= 4, 4, 3180, 930); input W end main : e5p, b7, C : integer; pop; input t8Faa end

@@ -1,0 +1,1 @@
+program d : I : takes u89aa : boolean array returns nothing output ""; let Y2M0a[70 - 5] = array 62200; input A end j : takes Qu6, S, a : integer; J5, z, nw, biF, Yx1a, E : integer; G : boolean array; iU, mm, W, m : integer array returns nothing yo : integer; T : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program N : A4 : takes r6, q, qR0a : integer returns nothing let c[(8) and 48] = array - p and 0 or 9 - 44 end w7 : takes N, Q, j : integer returns nothing chillax end main : P7, D6 : boolean; when case - not 667 * (19) = true / false and 8 : chillax end otherwise : chillax end; pop; input _8; let Q = 863 = 40100 end

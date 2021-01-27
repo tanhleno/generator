@@ -1,0 +1,1 @@
+program J1 : v : takes S : boolean array; g : integer returns nothing chillax end Tp5 : takes A, ON90, _6 : integer returns boolean chillax end R1 : takes l : integer array returns boolean array o33a, Z : boolean; Mq4a : boolean; chillax end main : let d = - b0 - not 0670 and 1; let sd[- (7)] = - 3 and 1630 or 1 < - 65 - 8290 end

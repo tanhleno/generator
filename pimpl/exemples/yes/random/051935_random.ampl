@@ -1,0 +1,1 @@
+program v : e : takes d : integer; Bv6 : boolean array returns integer array chillax end z : takes Gs : boolean array returns nothing output 2 . "/Faa" . 7 . ""; pop 0 end main : g08, Ka2a, FC60 : integer; qQ, q, N, S : integer array; R : boolean; Q4 : integer array; input S; output(6610) - 10 end

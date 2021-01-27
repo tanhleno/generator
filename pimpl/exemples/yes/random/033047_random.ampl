@@ -1,0 +1,1 @@
+program Z040a : D1Ta : takes u, kl : integer returns nothing let Wv[true and 8] = 3 - 0; while 7 : chillax end end A : takes rg10a, V2 : boolean array; d : boolean array returns integer T, h : integer array; W : boolean; MY : boolean; chillax end main : chillax end

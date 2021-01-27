@@ -1,0 +1,1 @@
+program S : Eb0 : takes X : integer; W, f, b : boolean array; RQ : integer returns nothing F, A24a : boolean array; pop 55 - 045; let ED[- 43200] = 1420; do O(62 = 3); output ""; while 92 : chillax end; input h; pop end main : chillax end

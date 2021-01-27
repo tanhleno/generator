@@ -1,0 +1,1 @@
+program M4L : e : takes G : integer returns nothing chillax end d : takes v : integer array; P56a, H, kqd, NC, BR : boolean array; A : integer returns boolean array do C(- 65 < 9); input H6; pop end main : E, b : integer array; chillax end

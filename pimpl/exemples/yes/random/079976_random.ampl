@@ -1,0 +1,1 @@
+program pG : main : M : boolean; let BU10 = array 7; when case 8190 and false + not 9 + 753 - 303 = not 7630 : input U[2] end case 1 and 4440 or 80 : chillax end; pop - 586; let H10[2 - 32200] = 953; let kD7a = 824 end

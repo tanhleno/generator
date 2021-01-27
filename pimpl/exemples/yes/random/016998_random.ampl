@@ -1,0 +1,1 @@
+program Q3 : v7 : takes yx0, K : boolean; iO, C, z : boolean returns integer pop end R : takes w : integer; f, N : boolean array returns boolean array let E = array - 93 - 549 end main : d : integer; while - FF[5] : chillax end; input _2[not true]; output 60 - 3 end

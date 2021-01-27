@@ -1,0 +1,1 @@
+program F1 : z_ : takes E : boolean returns boolean Dhka : integer array; output 6 - 41300 < 5 . "" . "" . 91 end E : takes Y66 : boolean array returns nothing CVO : boolean array; let gDSa[54] = 652 end main : M : boolean array; O, P, mL : boolean; pop; do z(- d(1)); pop; do F(- 6, 58 = 6260) end

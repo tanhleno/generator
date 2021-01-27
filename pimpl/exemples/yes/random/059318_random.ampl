@@ -1,0 +1,1 @@
+program E : yK : takes t7 : integer array returns integer Y_2aa, Z : boolean array; s : integer; gK, zWm0, M : integer array; p5 : boolean; h : boolean; chillax end main : F1 : boolean; B, P6 : boolean array; output ""; pop; input M; while 3 = 58 : while 694 : chillax end end; when case 5250 : output "" end end

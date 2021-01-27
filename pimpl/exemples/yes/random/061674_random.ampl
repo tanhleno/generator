@@ -1,0 +1,1 @@
+program B : W9 : takes V : integer array returns nothing while true and 58 + 1 : chillax end; pop 9 = 62900 end vZ : takes f, c, e : integer array returns nothing let N69 = array - 8 - 294; output "" . "6" . ""; pop end N : takes E6, Y, U5, QEnaa : boolean returns boolean O : boolean array; chillax end main : e680, F, vsL : integer; let u_9 = true > true end

@@ -1,0 +1,1 @@
+program A : main : Cn, E8, H : integer array; Kca0, y, Fq, B : integer array; x : integer; do b(E / true and not 8 and 62100 + false rem not 0 and 9 >= - false or(9) and 4 - 7); input v[- h(03) and false - 77300 and 94]; input D; let N = array 22; while 1 = 4 : output "3\\" end; while 0 : chillax end; output "" end

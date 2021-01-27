@@ -1,0 +1,1 @@
+program V : main : rWZ : integer; b : boolean array; Re, v : integer array; let F[- true and not false rem A980a - true * true] = array false + gK[0]; when case true rem p78 and 1 >= true and 0 + 86 - 5 : pop 28 end otherwise : chillax end end

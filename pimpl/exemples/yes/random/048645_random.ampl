@@ -1,0 +1,1 @@
+program a : _7 : takes E7 : boolean returns nothing M2 : integer; E7 : boolean array; while not 6 + 1 : pop 8190 end end main : do uB(false or true or not 422 and 9 < 1); do j(- false and not 5 and 190 - XnZ and 2); input uK2; let T[2] = 77 end

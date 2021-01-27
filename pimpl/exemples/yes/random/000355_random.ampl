@@ -1,0 +1,1 @@
+program S : M3u : takes G, j, v, B, Ld6a, dD6, Vc, wY : integer; _ : integer; ad_0a : integer array returns integer array j4U, A5c : boolean array; chillax end A3 : takes f : boolean returns boolean input y; while 92 : chillax end end main : chillax end

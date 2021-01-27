@@ -1,0 +1,1 @@
+program X5x0 : f : takes Wn : integer array returns boolean array pop - 8; when case 6 - 83 < 36 : input V670 end case 32 : chillax end case 85 : pop end case 5 : chillax end; output "" . ";8" . ""; output 8; let z = 24; when case 41 : chillax end; pop end main : chillax end

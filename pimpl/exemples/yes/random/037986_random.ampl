@@ -1,0 +1,1 @@
+program E : W17 : takes b : boolean array; Q0n0, hx, s : boolean; x3G : boolean returns integer chillax end K1 : takes V : integer array; k, yX00, m8 : integer; In : integer array; j : integer; K84 : boolean array; P, F : boolean returns boolean while 6 - 20 : do n9(7); output ""; pop end end main : do I(s(03) - true > (464) - not 9 and 58 + 5 - 2) end

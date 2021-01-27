@@ -1,0 +1,1 @@
+program r : E : takes u3 : integer array returns boolean array K, OI2aa : boolean; x8oa : integer array; let k[- false] = - 99 - 6; do B(5 - 8) end C : takes o, z6 : boolean returns nothing when case - 07 : chillax end case 2 = 7 : while 1 : chillax end; pop end end T : takes n36 : integer returns nothing chillax end main : let z = array false / not JEz0a * Z + not 9 - true end

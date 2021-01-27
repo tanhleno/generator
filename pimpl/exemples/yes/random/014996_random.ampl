@@ -1,0 +1,1 @@
+program VO : V : takes D, uZ, q : integer array returns integer array when case - false and 6970 or 1 - 92600 <= 9 : pop 9; do c9(7); do ZGO0(97) end case 8 - 4 /= 55 : chillax end case 3 : chillax end case 9490 : pop end case 7 : chillax end otherwise : let A = 2390 end end main : chillax end

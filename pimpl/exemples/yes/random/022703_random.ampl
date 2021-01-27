@@ -1,0 +1,1 @@
+program gJ : b : takes m, L6 : boolean array returns nothing output - 2 - 07; when case - 1 : do l(91); while 1 : chillax end end otherwise : do p(441) end end main : ba : boolean; input UM[- false rem T(8)]; pop; pop - 8 <= 6; do z(- 8 >= 7, 2030 = 67, 18, 0); pop; when case 7 : chillax end case 14 : chillax end otherwise : chillax end; while 946 : chillax end end

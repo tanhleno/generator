@@ -1,0 +1,1 @@
+program T1 : main : do Z0((75 = 9) and 08500 rem 1 <= - not true, not(77) - Cd1aa and 73, - not 2610 or 7 - 1, 70 - 7200 <= 25, 71 = 7, 07400); pop(7) and 12 - 0 - 92 >= 5; do xA0((152) and 7 or 8 - 2 >= - 3350 - 09600); output 3 . "" . "r" . "w\n!" end

@@ -1,0 +1,1 @@
+program xK : P4 : takes f : boolean array returns nothing r7, X : integer array; c9, e : integer; H : integer array; chillax end main : a : boolean; HA, M, v : integer array; when case false - 58 and false and 660 - false and 97 or 9 - 2 >= false - 3 : let x[- 6710 - 390] = 3 = 6 end end

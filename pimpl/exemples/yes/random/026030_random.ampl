@@ -1,0 +1,1 @@
+program Q : N : takes j, QM : integer; Sv80a : boolean; Al, e : boolean array returns nothing w, hv, h280, u630 : integer; chillax end main : R, v : integer array; A : boolean array; qL, X : boolean; SP : boolean array; when case false rem 20 and tc8 and 86 or _(7) rem 538 >= - (9) : while - 4 : chillax end end otherwise : output "?\t0a" . 80 . "1}aa" end end

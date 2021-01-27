@@ -1,0 +1,1 @@
+program E : D : takes q, c : boolean array; uC : integer array; E : boolean array; j : integer array returns nothing while - eM10 and 67 + 75 : chillax end end x : takes a2 : boolean array; Z, s, H350 : boolean returns boolean pop 9 = 6; when case 878 : chillax end end main : chillax end

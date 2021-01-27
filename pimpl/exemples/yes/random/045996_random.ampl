@@ -1,0 +1,1 @@
+program Pl4aa : d : takes v : boolean returns boolean chillax end main : U : integer; when case f[4] : chillax end case - P[7] - false : chillax end case - true or 6990 - 3 < 1 - 79 : let z5 = array 60 end otherwise : while 642 : while 9 : chillax end; pop end end end

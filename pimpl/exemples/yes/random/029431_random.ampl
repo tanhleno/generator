@@ -1,0 +1,1 @@
+program q : L21aa : takes A930, G : integer array returns boolean array while - not 4 > - 2 : chillax end end m1 : takes kt : integer returns nothing input I[6]; let N = array 2 end main : u, h : boolean array; chillax end

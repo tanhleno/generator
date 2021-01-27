@@ -1,0 +1,1 @@
+program m5 : m : takes Lg20a, NV : boolean array; k : integer array; M, f2, W7O0 : integer array returns nothing chillax end R : takes T : boolean array returns integer chillax end main : input Z; input X[false * otH0a - (43) and 4]; while true and 98 - 5 - 61 <= - 3 : while 9 : chillax end; when case 6 : chillax end end end

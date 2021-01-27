@@ -1,0 +1,1 @@
+program f8 : P : takes y : integer array returns boolean array W : boolean array; K63 : integer; F, W, q1 : boolean; P, pNQa : boolean; K : boolean; while not 9 and 0 or 7 <= 3 - 16500 : pop end; pop 39; pop end main : S : boolean array; WA9, bd, n3 : boolean array; Q4 : integer array; input O1 end

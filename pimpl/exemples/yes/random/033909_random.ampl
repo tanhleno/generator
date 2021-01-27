@@ -1,0 +1,1 @@
+program X64aa : J : takes _ : boolean; Q1, I4, qCF : boolean array returns nothing let Q6[false - 3 - 3] = array 2420 end i : takes N : boolean returns boolean chillax end main : D, x : integer; N, Fw, rj : integer array; let _H5[5 and(4) - not true and not 3 and 9390 + not 96 and 909 + 0] = (8) or not 399 and 4 - 8930 - 5 = y end

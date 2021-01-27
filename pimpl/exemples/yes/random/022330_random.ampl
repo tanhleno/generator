@@ -1,0 +1,1 @@
+program n : t : takes d3, y : boolean array returns nothing Qa, F7j : integer; while - true + 77000 - 391 : chillax end; while 405 : while 769 : chillax end end; do v2(03); let N[6] = array 8 end main : chillax end

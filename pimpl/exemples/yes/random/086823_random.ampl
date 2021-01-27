@@ -1,0 +1,1 @@
+program l7 : main : g0 : integer array; K : integer array; b2, B : boolean; HF, o, P6, CL : boolean; n, E2, r8 : boolean; when case - true >= D6(4) rem 7 or not 7 and 6 or 32 - 9 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program i : z : takes F7k0a : boolean returns nothing H1sa : integer array; B68, r : boolean; t1T : boolean array; chillax end H : takes Z, NVo : integer; eNu, k : boolean array; ct1 : integer array; JA30a : integer array returns boolean array o, q : integer; k8, f5Q0a : integer; chillax end main : J, k : boolean; output - not true and true or true < (09) . "" end

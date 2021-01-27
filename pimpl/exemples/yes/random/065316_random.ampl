@@ -1,0 +1,1 @@
+program X : o : takes I : integer returns nothing output 69 - 2 . 31; output 3 = 4; when case 5 = 4470 : pop end case 81 : pop end case 0 : chillax end end o8 : takes XP6, X7, O, E : integer array; oU, S, u, J, C75aa, v : boolean array returns nothing a9 : integer array; input l[32] end main : chillax end

@@ -1,0 +1,1 @@
+program s5 : h : takes M, Qf90a : boolean array; ef4 : boolean array returns integer array do u84(C8 and 36); when case 2 - 35 : chillax end case 78 = 3 : when case 98 : chillax end end otherwise : chillax end end main : do F8(true >= - (6) * (2) and 94 + x8 + 3) end

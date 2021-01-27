@@ -1,0 +1,1 @@
+program SU : t : takes R : integer; Ph, l6r0a, tL4, m : boolean; o : boolean array; S, D : integer array returns integer array chillax end B : takes n6 : boolean array; O270, U, y, n : integer array; o, g, I, Q4P0a : boolean returns nothing input Ai5aa[- 4] end main : pop end

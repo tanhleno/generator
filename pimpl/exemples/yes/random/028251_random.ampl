@@ -1,0 +1,1 @@
+program B : P : takes O, CH : integer array; B : boolean array; Tx8, o, gA8 : integer array returns integer array let c[- false] = array true end G050a : takes K5 : integer array returns integer TX : boolean; pop 6 = 252 end main : NN, v, K : integer array; input a end

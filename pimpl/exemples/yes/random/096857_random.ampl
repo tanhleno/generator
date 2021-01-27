@@ -1,0 +1,1 @@
+program oA : main : when case false and true / (842) - (9) rem false and 1 - not 1960 and 095 or 42 /= - s * not 87500 and 99 : do H6(- 9410 - 16 = 6, 7 = 5, 4, 191) end case - 3 * false and 9 >= G82aa or 940 - 8 : chillax end case - (2) and 6 : chillax end; output not 956 - 5 - 303 . 842; pop - 08 <= 9; pop 05600 = 3390; input f8 end

@@ -1,0 +1,1 @@
+program M : tj6a : takes w, e, A7, au : integer array returns boolean array chillax end main : output - (0) - false and 5 + 5540 - 7 . (191) and 212 + 32 - 4 = - 8 . "" . ""; output - eE and 1860 - 44 - 7 . - 2 end

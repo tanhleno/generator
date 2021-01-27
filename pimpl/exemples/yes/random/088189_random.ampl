@@ -1,0 +1,1 @@
+program Pah : main : input t; when case not not 382 + (7) >= not 7 and 9 or 75 - 6 : let f = array 9 end case - true or 503 - 7 <= - 066 : when case 8 : chillax end case 5 : chillax end end case 628 = 980 : while 5 : chillax end; pop end otherwise : when case 51 : pop end end end

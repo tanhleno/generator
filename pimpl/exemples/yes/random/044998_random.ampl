@@ -1,0 +1,1 @@
+program e65a : C : takes P : boolean array returns nothing let w44aa = - 3 - 6; pop 3; let F[09] = 3 end r : takes K : integer array; OQ : boolean returns integer chillax end main : x : integer; let M4 = array true - false end

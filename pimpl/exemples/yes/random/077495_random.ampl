@@ -1,0 +1,1 @@
+program C0G0a : main : g09, W : integer array; r : boolean; b, I0 : integer array; when case y[01] and false * false - 56 or true or 2 = - (02) : chillax end otherwise : chillax end; output "" . "#'" . "0" end

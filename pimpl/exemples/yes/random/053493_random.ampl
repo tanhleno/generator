@@ -1,0 +1,1 @@
+program J : C720a : takes G8 : integer array; x, D, b, s, Q, o : integer returns integer T9, K : boolean; LI : integer array; let G3 = - 9 - 6 end JO : takes T, AX : boolean returns nothing do y(74); pop 77 end main : b2 : boolean; p : boolean array; chillax end

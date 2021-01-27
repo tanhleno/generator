@@ -1,0 +1,1 @@
+program j : W : takes u, B, DK, v7, X : integer array; J : boolean returns boolean VG80, c, G : boolean array; mV : boolean; J3, a7, _ : integer array; chillax end main : output - not(8) + true; when case - 2 rem true or not 2 or 6 : while 4 : output "\t" end end case - true and 24 : let b = array 5 end otherwise : chillax end end

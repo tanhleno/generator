@@ -1,0 +1,1 @@
+program l9 : m : takes S, B : integer; M, q, j4, y : boolean; p : boolean array; Sp : integer; F : integer array returns boolean chillax end main : X : integer array; q7, I : integer array; while false rem not 581 >= (5) * true and 15 or r and 56 : chillax end end

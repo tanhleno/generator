@@ -1,0 +1,1 @@
+program P : G : takes Z : integer; JY : boolean array; I5 : integer array; Zh, z, e9x : integer array; G, d : boolean array returns nothing chillax end U4u : takes s : integer array returns nothing Y, ROfa : boolean; S, d : boolean array; o : boolean; chillax end main : output - not false * false or not 28 and 049 - 3 - 8 < not 3 . "" end

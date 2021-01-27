@@ -1,0 +1,1 @@
+program z6 : G : takes R, c : boolean array; r, r9d : integer; h84, Y, eM, u : integer array; h, H, Q3v : boolean returns integer array V : integer array; let c0 = array 7 and 4 end W48 : takes mSx0, qhi0a, S : boolean; B : boolean array; z : boolean returns boolean array Mf4, S, jPy, u : boolean; pop 17 end main : Tnm, o, Jr20, l, mN, ggv : integer array; chillax end

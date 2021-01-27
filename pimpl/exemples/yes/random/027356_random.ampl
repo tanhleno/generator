@@ -1,0 +1,1 @@
+program p : U : takes m, T : integer array; V, u3p, J3 : boolean array; N : integer; q, l1, z66 : integer array returns integer array output - 8 end C0G0a : takes V9, kC : boolean array; vp : integer; w : boolean returns integer do h(- 7 <= 456, 0 = 15500); output "P"; while 47 : chillax end; do gi(0) end main : chillax end

@@ -1,0 +1,1 @@
+program AR : Q0 : takes Y : integer; u, ji, s : integer returns nothing Fh1a, c7 : integer array; p, Sh : boolean array; let u[5 and 2] = - 6 - 5 = 6; while 6 : let r = 9; do jE(659); pop end; output "" end main : k530 : integer; input V23aa; input d; while - 11 and 46 : chillax end end

@@ -1,0 +1,1 @@
+program K : main : j : integer array; P, j050, vXb0a, B : integer; input hK90a; while - true / xv and 4 + 203 and 4 /= - not 339 and 9 : while 3 : chillax end; while 06 : chillax end; output "X\"" end; pop end

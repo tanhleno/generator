@@ -1,0 +1,1 @@
+program qe6 : d88a : takes z5 : boolean returns nothing C, V, K, R5ua : integer; w76 : integer array; Q0 : integer array; yXU : boolean; chillax end Pp1 : takes TEo, W, l : integer returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Li : m0 : takes a13 : boolean returns boolean l : integer array; hi, d, N1x, T : integer; K1S0, cBgaa, bUf : boolean array; X : boolean; fD : boolean; chillax end U : takes f : boolean returns integer array chillax end main : f : integer; chillax end

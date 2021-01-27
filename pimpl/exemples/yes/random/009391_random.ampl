@@ -1,0 +1,1 @@
+program B : p : takes S, D1, XH3 : boolean; U2i : integer array returns nothing r, U, h : integer array; chillax end main : q55, TTwaa, y : integer array; output "-2" . (42) or 0 - 3 < 70 . - 26 - 04 > 7590 . "" . "H\"0" . 85 end

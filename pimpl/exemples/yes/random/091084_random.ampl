@@ -1,0 +1,1 @@
+program T : main : let bT[- 19400 / (8) + false rem not 70100 and 0 or not 3] = array(3890 = 2); when case - true + not 47 - 8980 : chillax end case J and 4 + 98 >= - 3890 - 634 : chillax end case - 32 : let wx = 49; do F(673); pop end otherwise : while 5 : pop end; let F = 4; input K7; pop end end

@@ -1,0 +1,1 @@
+program Io : T : takes t, n2l0, rwf, A : boolean array returns nothing z : boolean array; C, JS : boolean; pop 59; input H end x : takes d : boolean array; DJx, r, v : integer array; E2, v2 : integer; ux, Erh0 : integer returns nothing tU : boolean; pop 8 end main : ji, r : integer array; E8, phX0, D : boolean array; chillax end

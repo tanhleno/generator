@@ -1,0 +1,1 @@
+program TGj : G : takes A, u : integer; X530 : boolean array returns nothing chillax end X1E : takes ET : integer returns integer DR, x5 : boolean; let q = 7 end j : takes o, H, d : integer array returns nothing r, U : integer array; EF, K3_0a : boolean; chillax end main : G : boolean; output(49) / K <= - true . (33) and 8 + 64300 <= 0 - 0 end

@@ -1,0 +1,1 @@
+program I37 : e : takes V, r5 : integer array returns boolean chillax end U02 : takes wkV : boolean returns integer SO, j : boolean; q : integer array; Ua, RiL : boolean; Ksraa : boolean; chillax end main : l, w : boolean; chillax end

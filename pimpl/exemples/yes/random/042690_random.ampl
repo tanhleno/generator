@@ -1,0 +1,1 @@
+program nr2aa : q : takes T : boolean array returns integer array X : boolean; while - (9) and 9 - 5 /= - 445 : chillax end; input f end main : pop - not false - not 59 and 4 - 1 - 8860 = false and 2 - 8 end

@@ -1,0 +1,1 @@
+program Do : n : takes vro, X : boolean returns boolean array chillax end main : let o5[- c(809)] = array - (9) rem not true + false + 6; output "\n&!"; while 01600 - 6 - 0 = 16 - 9880 : chillax end end

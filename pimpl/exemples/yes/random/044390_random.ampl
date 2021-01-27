@@ -1,0 +1,1 @@
+program J : T : takes p : boolean array returns nothing J, B : integer array; b2 : integer; xz10a : boolean array; b6E0, E : boolean; when case not 4360 and 08400 /= - 507 : pop 0 end otherwise : chillax end end h2 : takes f : boolean; e, z : boolean returns nothing chillax end main : while - true + true and(2) and 8 = false or K and 897 : chillax end end

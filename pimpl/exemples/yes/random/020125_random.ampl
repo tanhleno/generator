@@ -1,0 +1,1 @@
+program O : H260 : takes G4X, _7 : boolean array; h0 : boolean returns boolean J : boolean; V : boolean; chillax end main : S : boolean array; while false * not false - true rem 765 and 780 - not 6610 or 65 : chillax end end

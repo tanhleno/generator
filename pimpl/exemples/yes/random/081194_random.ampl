@@ -1,0 +1,1 @@
+program Y : main : H9 : boolean array; o6, W2 : boolean; O1m : boolean; G, A6X, X47a, ZT : integer array; when case - false = - true : chillax end case Yi + true - 0 : output 31100; let i[2] = 769 end; while - 4 : chillax end; do de(- not 1 and 0 - 5 - 1, 042 - 277 >= 1, 1 = 61, 67, 3) end

@@ -1,0 +1,1 @@
+program A : F : takes P02, t, z7Aaa, y78 : boolean returns integer array let H[- 37 and 1 - 00 - 5] = array - not 83 and 2 + 6; pop 0 = 3 end s0 : takes w, R, j6 : integer array returns nothing output "" . "" end main : do oL1(- (0), - (5)) end

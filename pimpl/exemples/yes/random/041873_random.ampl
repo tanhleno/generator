@@ -1,0 +1,1 @@
+program C : o85 : takes c : boolean array returns boolean array pop 8 - 35; when case - 2190 <= 932 : pop end otherwise : pop; pop end end main : do D8(- false /= - true - (3) and 44000, RAya or(7)); let I_[false] = array - (2) * false - 4; output - 23 - 65 >= 0 . "\n" . 49300 end

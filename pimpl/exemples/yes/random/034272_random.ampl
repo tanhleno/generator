@@ -1,0 +1,1 @@
+program _0Eaa : Kn : takes t1Zaa : boolean; yK, UJRa : boolean; A5, x6 : integer array returns boolean array chillax end main : D6x, UB6a : boolean; A, bp9 : boolean; Y5, O_, h : integer; i9, zg : integer; P, Jy, ts : boolean array; chillax end

@@ -1,0 +1,1 @@
+program H : x : takes m : integer; j, W : integer array returns integer D : boolean; when case true and 4030 : let Y[80] = 6 end otherwise : chillax end end Z7D : takes d, sQ : boolean array; e, Kt : boolean array; R, q : integer returns integer mi50a : integer array; chillax end main : chillax end

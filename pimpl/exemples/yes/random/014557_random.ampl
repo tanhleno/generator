@@ -1,0 +1,1 @@
+program D3 : q3 : takes Zd, Y, I : integer array; b6 : integer array returns nothing gm3 : boolean array; ZQ, xpH, i3, T4 : boolean; chillax end main : t9q, T30 : boolean array; x : integer; chillax end

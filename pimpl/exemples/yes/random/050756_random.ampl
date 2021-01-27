@@ -1,0 +1,1 @@
+program Vc : y : takes N0 : integer; Z, J4 : boolean returns nothing D9A0, U9, K : integer; output "O" . 9; when case - 7 >= 011 : let T = 465 end case 87 = 673 : chillax end case 15 : pop end otherwise : when case 287 : chillax end end; while 2 = 48 : do h(7) end; when case 4950 : chillax end otherwise : chillax end; pop end main : G4 : integer; chillax end

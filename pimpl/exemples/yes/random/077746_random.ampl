@@ -1,0 +1,1 @@
+program wq30 : main : uef0, e : integer array; E : integer array; rL, R7c, pm : integer; w, v : boolean; do h3n(- 6 + true / 3, - not true and not 4 or 85 and 156 + 578 - 14100 > wI + 5, - (8) or 53 - 96) end

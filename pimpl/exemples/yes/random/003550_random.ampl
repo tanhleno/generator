@@ -1,0 +1,1 @@
+program f360 : P : takes e, S, vb, If5a, g : integer array; O : boolean array returns boolean let T[6 and 4 or 64] = array k and 1 - 19 - 845; pop end main : q : boolean array; V : boolean; chillax end

@@ -1,0 +1,1 @@
+program oBj : main : R : boolean; kt30 : boolean; w : boolean array; when case - false rem 9 : chillax end otherwise : output "-T\"" end; pop; while false and 85 : while 676 : pop end; while 7 : chillax end; while 7 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program y12 : qL : takes g : boolean; MwI : integer array returns nothing input L; while 5 : let P6 = 752 end end main : J5 : integer array; output "\"\naa" . false and 408 . 2 - 7 > 1; input p9[- (2) rem not 2] end

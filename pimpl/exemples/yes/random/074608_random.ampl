@@ -1,0 +1,1 @@
+program U44 : main : I8, i83a : boolean array; o, O8, F, m7 : boolean; x, zY60a, f : integer; while - not false : output "{" . "j<\"" . 2 end; when case - (24) rem false and 8420 + true and 6 = - not 5 and 3 + 8 - 666 : do _y(2, 7) end otherwise : chillax end end

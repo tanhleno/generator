@@ -1,0 +1,1 @@
+program h8 : g : takes g, b, T : boolean array returns nothing lL : integer array; EN, e : boolean array; G, b0, Ty : integer array; while - not 66 and 43 - 1 - 5 : output "" . "B" end end main : do M(- 505 or false and 21 - true and 2 /= - true - (1) and 44) end

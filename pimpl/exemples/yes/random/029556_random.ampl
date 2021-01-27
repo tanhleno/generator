@@ -1,0 +1,1 @@
+program u : u4 : takes A1O, zEvaa : integer array returns boolean KvJ : boolean; jt8a : boolean; chillax end t9 : takes E : boolean returns boolean pop 60; input B; output 5; while 74 : chillax end; pop; pop end main : chillax end

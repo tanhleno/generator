@@ -1,0 +1,1 @@
+program gxd0 : T : takes d : integer; Vpraa, H, ZK : integer returns integer array zF, n : integer array; K9d, B21aa : boolean array; B : boolean; let EV = 2620 - 20 end main : K4, Cau0, c, Gp, LH6, h : integer; do X(- 0 / E0(28) / true and 7) end

@@ -1,0 +1,1 @@
+program NB0aa : main : when case - true rem false and 7 and 8 - false - true and 2 - 8500 = - true - (15) - 4 : let Rl = array - 82 - 1 end otherwise : chillax end; when case false - false - 1 = (5) : input J end case - not 3 + 2 - 5 : while 6 : pop end end otherwise : chillax end end

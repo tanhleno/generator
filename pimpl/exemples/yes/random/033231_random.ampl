@@ -1,0 +1,1 @@
+program j : Z : takes P8 : boolean; a, w, U, D6, h2Ha, U4, Y : boolean returns nothing i2, e : integer array; cp7 : integer; e, UY : integer; chillax end main : output - (0) + not 3 and 09 /= - 86; let t = array false and true and 8 end

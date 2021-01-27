@@ -1,0 +1,1 @@
+program _ : M : takes K65, NU : integer; _2, O : integer array returns integer array do V(- Ot or 4 - 6 >= 3 - 5190, - 7 - 9) end main : A : boolean; p, s5, P : integer array; X, _K5a : integer; pop; when case 6820 * (1) : output "" . 9 end; output "" end

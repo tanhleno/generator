@@ -1,0 +1,1 @@
+program D2i0a : U : takes H, C : boolean; K, x, N : boolean returns boolean array a, G : boolean array; chillax end main : V63, zx, l : integer; when case - (13) + true and false : do L6(96 > 5, 4760, 69, 75); do VYh(80, 9, 7) end end

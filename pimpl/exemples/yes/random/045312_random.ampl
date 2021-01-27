@@ -1,0 +1,1 @@
+program I : a : takes HA : boolean array returns nothing while - CL and 3 >= - 2 : output "" . ""; while 3510 : chillax end; output "01!" end; output 3 . "X" . 35; do pN00(4) end main : c5, L : boolean array; ap8a, jM, K9 : boolean array; do D070(- false and true rem e and 81800 > - true or not 44 or 8 - 782, false or j4_a + 36 - 5) end

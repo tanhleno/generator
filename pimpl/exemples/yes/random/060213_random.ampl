@@ -1,0 +1,1 @@
+program epc : m : takes F6 : integer array returns nothing ME, q, L070, S, R : boolean array; _520, z : integer array; h4 : boolean array; z : boolean; pop end V : takes s, b20 : integer array returns nothing input bZ70[62] end main : vZ : boolean array; do jno(7880 * p(0) = (76)); while - not(34) / false /= not 72 and 74 : chillax end end

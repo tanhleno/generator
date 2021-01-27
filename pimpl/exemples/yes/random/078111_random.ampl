@@ -1,0 +1,1 @@
+program P : main : bZ, RKh0 : integer array; when case OdW(4, 0) : when case - 8 < 3 : chillax end case 44100 : chillax end case 8 : chillax end case 4 : chillax end otherwise : chillax end end; output "" . "" end

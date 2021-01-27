@@ -1,0 +1,1 @@
+program A : w : takes n310a : boolean array returns nothing pR_0 : boolean array; let Q6 = array(4) + 84; when case - 34 - 997 : let f = 45800 end case 1 = 3 : chillax end case 9 : pop end case 6 : chillax end otherwise : do nRMaa(9); pop end end main : while - R5[6] + false * 42 and 7 : chillax end; pop - true >= - 6 end

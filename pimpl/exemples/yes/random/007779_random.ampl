@@ -1,0 +1,1 @@
+program WG3 : W : takes Rs, f5haa, K, Q : integer array returns nothing y1 : boolean; while(98800) or 6 - 665 /= 2 : when case 42 : chillax end case 1 : chillax end; do UY(64); let IM = 6; pop end end main : pop - (42) and w or false = - true end

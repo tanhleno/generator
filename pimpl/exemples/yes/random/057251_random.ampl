@@ -1,0 +1,1 @@
+program t : a : takes Sc : integer array; o : integer array returns nothing C_, zbraa : boolean; E : integer; while(78) and 436 + 8930 - 44 : chillax end end main : output false + not 8 and 58 + 2870 end

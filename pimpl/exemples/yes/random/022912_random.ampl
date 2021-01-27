@@ -1,0 +1,1 @@
+program j : J : takes uis0a, O : boolean returns boolean array do j680(false and 5, 527 - 4 = 662, 35 = 1); while - 65200 - 3 > 8 : output "\t"; pop; pop end end main : As4a : integer; c, q4 : integer; chillax end

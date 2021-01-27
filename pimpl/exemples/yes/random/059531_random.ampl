@@ -1,0 +1,1 @@
+program QNV : G : takes J5 : integer array returns integer let Z = array 5 or 46 - 93; while 3050 < 0 : chillax end end f4 : takes L, A, h : integer returns integer array chillax end main : let Gt = array false * C6A and not 9 and 7 end

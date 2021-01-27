@@ -1,0 +1,1 @@
+program A : bp : takes VP : boolean array; c, qBu : boolean returns nothing chillax end main : q : integer; let S = array not not(2); let E[1140 - not 0] = array - IQ[2] * true and 6 - true and 0530; input s; while 9 : chillax end end

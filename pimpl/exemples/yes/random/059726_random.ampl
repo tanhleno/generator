@@ -1,0 +1,1 @@
+program L : l : takes q : integer array returns nothing chillax end l : takes y, N78 : boolean returns integer do cA(- 78, 1 = 012, 7, 26) end main : Z890 : boolean; o : boolean; output true or not 11 end

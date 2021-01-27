@@ -1,0 +1,1 @@
+program VF : Z6 : takes G : integer returns boolean array IOD0 : integer; BN : boolean array; while - (3) + 68 >= - 09 : chillax end; output ""; output "\t" end main : let jO[- false or v(1) * false + (32) and 1] = 61 or not 73100 or 17 end

@@ -1,0 +1,1 @@
+program l : main : kM, _ : integer array; RY, z4 : boolean; FwM0a, Xq, v : boolean array; ax0, x, B : boolean array; v, rw, U6 : boolean; while - k - (4) / 3 and 0 : while 0 - 8 >= 137 : chillax end; do r96aa(6, 9) end end

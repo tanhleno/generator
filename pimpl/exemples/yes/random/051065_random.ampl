@@ -1,0 +1,1 @@
+program Q360a : l : takes L : integer; Nn, qo : integer array returns boolean array l, i : integer array; chillax end main : G : boolean; let u5[- (32) rem(9) - Z(1) rem not 3 and 4 + not 8 and 11 + 310 - 6] = - true rem gG7aa; input O4 end

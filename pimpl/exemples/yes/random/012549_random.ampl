@@ -1,0 +1,1 @@
+program a : Ct40 : takes r, V, h : integer; v, Gd, fV, W3, c9E0a, z : boolean array returns integer n : boolean; yY, dRg, Jr5 : integer array; Cbdaa : boolean; when case _6 and 68 : do WU(32, 42) end case - 0 - 6190 : do c(00); when case 34 : chillax end; pop end case 3 : input Do7aa; pop end end main : chillax end

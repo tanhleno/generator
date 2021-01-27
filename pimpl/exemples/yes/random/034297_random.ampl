@@ -1,0 +1,1 @@
+program p : s : takes m9 : boolean; J, g : boolean; BP : boolean array returns boolean array chillax end main : D, M, x, g, v, iSza : boolean; q2, W5, L8y0a : boolean; while - true >= - r(59) or t : while - 96100 > 6 : chillax end end; input i[912 - (2) and 17800] end

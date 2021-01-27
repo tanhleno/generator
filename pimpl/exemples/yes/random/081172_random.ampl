@@ -1,0 +1,1 @@
+program o : main : ej : boolean array; X0, q4 : boolean; z, f0O : boolean; P3, Lg : boolean; when case not true rem 594 and X : chillax end case true /= (412) and 50700 + 23 : while 75 = 18900 : input Sq end; while 6 : chillax end end case not 5 + 1 - 53 = 89 - 8 : chillax end case 8 - 763 /= 2 : chillax end end

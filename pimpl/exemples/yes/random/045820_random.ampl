@@ -1,0 +1,1 @@
+program m : Dc9aa : takes e : boolean returns boolean array output "(" . "4\\!" end main : c50, R, a : integer array; o : integer array; output "" . "x" . 622 - 6 . 3 = 1 . ":"; input o06a[false * f and 90 or(9) + 6 - 1610]; pop - 7 end

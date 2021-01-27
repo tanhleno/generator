@@ -1,0 +1,1 @@
+program s : t : takes H5V : boolean; h4S, M, J, H83 : integer array returns boolean array NKK0a, L, B : boolean; S3, A : boolean; when case - not 4 : chillax end; when case 35 : output ":"; when case 4 : chillax end end case 76 : output ""; pop end end main : chillax end

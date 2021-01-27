@@ -1,0 +1,1 @@
+program x62a : d : takes s5 : integer; B, t : integer; X68, J : boolean array returns nothing when case false and 5 : chillax end case 4 - 88 > 27 : chillax end case 1 : chillax end case 9 : chillax end end I : takes e3, w : integer returns nothing fv, eZ : integer; do x(- 13, 1 = 5, 72) end main : chillax end

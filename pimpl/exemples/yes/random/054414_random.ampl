@@ -1,0 +1,1 @@
+program E : K : takes F : integer array; V6laa, UKb0 : boolean; n, o : integer; eCf, x, u, y, Mt : boolean array; F3, Lv, P, U : integer returns boolean array chillax end C : takes N8 : boolean returns boolean array chillax end main : a : boolean array; t : boolean array; Q, Lk : boolean array; do v(kFd[45]); let g = not 5; output "" . 5 end

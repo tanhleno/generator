@@ -1,0 +1,1 @@
+program T7 : M : takes uV, a : integer; F, M6U0, d : integer; T, Y : boolean array returns nothing H : integer array; chillax end main : do Y3(true, not 6 * false and 2 or(4) and 467 + 8 < - not 091, K < 67200 - 688); when case - YM70[45] - not 744 and 7500 < - true and 1 - 4 : let v[59] = array 5 end end

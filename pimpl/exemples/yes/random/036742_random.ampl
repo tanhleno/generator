@@ -1,0 +1,1 @@
+program d : wn : takes T0 : boolean; j : integer array; imj, q : integer array returns boolean bA : integer array; let JOd = array - true and 6 or 03 - 51; pop; let Za = 7; do s5b(2890, 500) end main : xN, Z : integer array; chillax end

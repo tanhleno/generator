@@ -1,0 +1,1 @@
+program z8 : K370 : takes GrE : boolean array returns boolean let r4 = - 49 - 089; do A(18 /= 5) end t : takes G, I : boolean array returns nothing O : integer; F, g6, r : boolean; t9E0, S : boolean; d7 : boolean; chillax end C : takes RNc, U : integer array returns boolean array z : boolean; n, y2y : boolean; output "1" end main : chillax end

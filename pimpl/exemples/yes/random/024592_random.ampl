@@ -1,0 +1,1 @@
+program aV : _ : takes DUm, u : boolean returns nothing U : integer; while AA and 773 + 22 - 2 : pop end; input Ku end I : takes B, in : integer array returns integer array chillax end main : pop; output ">-0a" . - 437 . 3 = 7 . 8 . 3 end

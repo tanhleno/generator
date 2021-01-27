@@ -1,0 +1,1 @@
+program t : main : let m930a = false; when case - true = - 63 and 4 : chillax end case - 7 - 8 - 5 : when case 7 : pop end otherwise : chillax end; output "" end case - 93 = 6 : chillax end case 11 : chillax end case 5 : chillax end case 7 : chillax end otherwise : chillax end end

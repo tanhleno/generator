@@ -1,0 +1,1 @@
+program T : Q : takes j, u380 : boolean; IP2a, TT8a, f64a : boolean; W, C, B6, V1 : integer; P, V2N, w1, T, A : integer array; SQF : integer array returns nothing G4v0, L, WcS, C : boolean array; chillax end v33 : takes n : boolean returns integer dli0 : boolean array; y17, bOqa : integer array; U : boolean; W : boolean; output 15 . 93; let n05 = array 32 end main : chillax end

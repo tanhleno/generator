@@ -1,0 +1,1 @@
+program _ : main : v : integer; f, jd, OC8 : integer; At70a : integer; La, x : boolean array; S : integer; when case - 24 * not(4) < false - true and 4 : chillax end otherwise : do j(3, 23, 07300) end end

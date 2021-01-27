@@ -1,0 +1,1 @@
+program P : u : takes o : boolean; P65aa, K1 : boolean; a, C, I6w0, O2 : boolean array; x : boolean array returns integer array chillax end O : takes X, p : boolean; v, Tb2a, RQL, KWm : integer array returns boolean array chillax end main : E, M, K, WH : integer; J2 : boolean array; i : boolean array; chillax end

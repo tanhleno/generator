@@ -1,0 +1,1 @@
+program a : nD : takes o : integer; J5, m15aa, U, k, z0 : boolean array; FKt, q : boolean array; QP30a, w : integer array returns integer L, j, QsD : boolean array; a7, f, _C : boolean; do Oi8(n6 and 6 - 5170 < - 4) end main : Og70 : boolean; chillax end

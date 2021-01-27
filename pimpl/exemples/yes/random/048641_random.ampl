@@ -1,0 +1,1 @@
+program gg : c40aa : takes e07 : boolean returns nothing V38 : integer; m4u0 : boolean array; o, w8Y0a : integer; input w[- not 055 and 313]; let gQ = array 8 - 74; let l[5] = array 13; when case 0 : chillax end end main : N8K : boolean array; chillax end

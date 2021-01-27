@@ -1,0 +1,1 @@
+program L : X : takes YN : integer; N55, m6, E6, p1_a, Jg3a : integer array returns boolean array pj, e5 : integer array; X6fa : integer array; chillax end d : takes e, P : boolean array; k : boolean returns boolean Gl5 : integer; dQ, l, d2 : boolean array; y : boolean; let hn = array 2 - 39 end main : chillax end

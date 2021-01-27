@@ -1,0 +1,1 @@
+program El : Tb : takes D : boolean returns nothing F : integer; N3, Ls, _, O450 : integer; chillax end x : takes w_8, H9B0 : integer returns boolean rl, b : integer; chillax end main : pop(3) and(49) or 9; input r end

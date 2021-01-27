@@ -1,0 +1,1 @@
+program m : main : u : integer; p : boolean array; let Q85 = array - not false or(6) / false or(2) - 54 - 52; when case - X4Da(06) : chillax end case - false or 61400 - 937 <= 7 : let K7[4] = array 0 end case 818 <= 00 : chillax end case 8 : while 2000 : chillax end end end

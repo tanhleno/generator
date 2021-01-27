@@ -1,0 +1,1 @@
+program r : v : takes Z_, F, F7 : integer array returns nothing Wo : integer; chillax end dic : takes T4y0 : integer array returns integer array p : integer array; let J4 = 94; output "75aa"; while 637 : pop end end main : J : boolean array; v : boolean; O2 : boolean array; pop; when case true - not 1860 and 8 /= J3 and 31700 - 8 - 1 : chillax end end

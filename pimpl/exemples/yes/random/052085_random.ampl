@@ -1,0 +1,1 @@
+program k : D3p0 : takes KZ : integer; S99aa : boolean array returns nothing let m[not 73] = array X; pop 77; let hX6 = array 8440 end jc70a : takes v2 : boolean array; u, h : boolean returns nothing chillax end Ff : takes A0Ga, o : boolean; r, Dy : boolean returns boolean array chillax end main : S97 : boolean; l : boolean array; chillax end

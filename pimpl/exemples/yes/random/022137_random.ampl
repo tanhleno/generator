@@ -1,0 +1,1 @@
+program R7 : F1 : takes p34, J : boolean array returns nothing o, P, i, j : boolean; j8, C, H7, W : boolean array; Kkf : integer array; f : boolean; zvo : boolean; B1 : boolean; chillax end z01 : takes m45 : boolean array returns integer do cz(- 1 - 2 = 4) end main : do v(not false rem P(639) / not 3 + true and true and 724) end

@@ -1,0 +1,1 @@
+program s : x2Z : takes G : boolean array returns nothing input r04aa end main : z : boolean array; q, ib : integer; when case true or _4Ka[292] / not 1 - e8 and 14 or 056 - 41 = - 4 : chillax end; let _[(41) + not 36800] = array true rem true and 21 - M or 2 - 6 end

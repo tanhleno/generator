@@ -1,0 +1,1 @@
+program OH : dw : takes Gt, q7 : boolean array; N4, uZ : integer array; x, t : integer array; Z : integer array returns integer array s0, O, L, aY3 : boolean; fj, o : integer array; r, J9 : boolean; chillax end M3 : takes R : integer returns integer array o9 : boolean; when case - 2 /= 8 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program q170a : Dvw0 : takes z : boolean returns nothing A3, j : boolean; while 43 and 1 : while 52 : chillax end end end h9 : takes P7Faa : boolean returns nothing while 47100 <= 126 : chillax end; let g[7] = 2250 end main : j : integer array; chillax end

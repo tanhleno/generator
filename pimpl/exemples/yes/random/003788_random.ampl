@@ -1,0 +1,1 @@
+program n4 : G3 : takes m, G, I, u, qMk : integer array returns integer output "" . 4 = 783; while - 7 : chillax end; output 3 end main : do BR8(- r04(91) rem(41) * 7670 and 4 or false and true and 9 or true < not(3) / false and 2, - not(1420) > false); while s(7) / false - not 54 + 3 : when case 3 : chillax end end end

@@ -1,0 +1,1 @@
+program mY2a : e : takes OT : integer array; Nf, PJc, Rm0aa : integer array; li : integer array; O : integer array returns nothing chillax end t : takes s : boolean array returns nothing output 3 = 92; output "" end main : pop end

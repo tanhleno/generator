@@ -1,0 +1,1 @@
+program d : smb0 : takes v, k : boolean array returns nothing C, Y : integer; chillax end main : l, dHO : integer array; while - true and true - true - V and 08800 = not 2 + false or 0 : chillax end end

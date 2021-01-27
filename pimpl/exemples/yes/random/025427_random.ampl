@@ -1,0 +1,1 @@
+program aL80 : A : takes M, T3b0 : integer; SGd, K : boolean; Tx60, Irpa, gT : boolean; y7q : boolean array returns nothing pop 4 - 0 = 8 end main : let Z[- eu0[1] / true] = array 78 + 63600 and 923 + o and 4; pop; let o[F and 91100] = array C0 and 1; do n(5, 46 = 204) end

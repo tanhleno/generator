@@ -1,0 +1,1 @@
+program L0 : G : takes A : integer array; o, n, I7D0, C, F, L : boolean returns integer uwV0a : integer; do j(- 356 and 13) end main : pi, v : integer array; hT, _, q : integer array; LU, H : boolean array; h1, h_9 : boolean; C, S3 : boolean; A, F : boolean; chillax end

@@ -1,0 +1,1 @@
+program E : g6 : takes v, n, m, dH20a, w : integer array returns nothing CPf : integer array; chillax end f : takes T4 : boolean array; fRE, p, S, s, d, X : integer array returns boolean array chillax end main : chillax end

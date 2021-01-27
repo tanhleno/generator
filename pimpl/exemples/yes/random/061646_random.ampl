@@ -1,0 +1,1 @@
+program Z5 : Z : takes q180a : integer array returns nothing while - true and 01 - 2570 - 2 : do V(2, 7) end; while 59 : when case 2 : chillax end end end main : GE, OhK0 : integer array; A : boolean; chillax end

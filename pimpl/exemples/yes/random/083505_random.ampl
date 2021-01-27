@@ -1,0 +1,1 @@
+program V : main : eH : integer; DI, u : boolean; zlS0, c7Sa, qw9, B3k : boolean array; when case - K / not true - false + false /= - not(9) rem false + 71 and 9 : pop end case - not not 12500 and not 06 - b and 3 - 3920 - 8 > true - 8 - 9 : chillax end case i : input m end otherwise : chillax end end

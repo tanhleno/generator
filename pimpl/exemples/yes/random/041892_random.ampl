@@ -1,0 +1,1 @@
+program x4W : o : takes D : boolean array returns boolean array when case not 31 and 76 + 88 > - 1 : input f end case 0650 : chillax end end main : u, Q8, o, tt : boolean array; Ltpa : integer; I8 : integer array; H, U7, Q5, P3 : integer array; pop t rem 46 and 70 end

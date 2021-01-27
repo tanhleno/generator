@@ -1,0 +1,1 @@
+program I : main : u : integer array; L, j71 : integer; sD, G07, q8 : integer array; Xj, d : integer; I7, F2 : boolean array; lh2aa, h : boolean; O4 : boolean; M4 : boolean; let z4 = - false rem b - not 50 end

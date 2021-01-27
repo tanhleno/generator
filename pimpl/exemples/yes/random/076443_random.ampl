@@ -1,0 +1,1 @@
+program u : main : j, u : integer; I : integer; mm : boolean; Q, a7 : integer array; yI : integer; U, I9 : boolean; F1Ra : boolean; G : boolean; do T(- (107)); do x15(false or(79) and 20 - 85 - 9 /= - A, - true and 550 + 49800); input F8[71 and 0 or 7400 - 999] end

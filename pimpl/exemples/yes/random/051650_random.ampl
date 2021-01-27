@@ -1,0 +1,1 @@
+program t : EP : takes JPV0 : integer; S : boolean array; b, SY : boolean array; F, D : boolean array; V : integer; X, t, y : integer array returns nothing Xg : boolean; p, u : integer array; pop 0 - 09 /= 3; input HH4[- 198 - 70] end main : do h(z(7, 21) * 86300 * (8) < true, - not(2)); while - 92 and false /= - D and 76 : chillax end end

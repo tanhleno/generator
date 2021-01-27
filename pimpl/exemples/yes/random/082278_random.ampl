@@ -1,0 +1,1 @@
+program rO : main : NiC0a : boolean array; input DV[true + 50800 rem true and 059 - 146 and 9]; pop; when case - C6 and 98 or 3 : chillax end case - 15 : chillax end case 56 = 5 : chillax end case 2 : pop end case 75 : chillax end otherwise : input Ux end; pop 9 end

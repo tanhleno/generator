@@ -1,0 +1,1 @@
+program K : main : Q, qz, Jo0a, E : integer array; wHRa : integer; o2P0a, e : boolean array; I : integer array; q, tY : boolean array; R : boolean; let c[false] = - 0 / 5 <= - true; while true and i + true : input _[68] end end

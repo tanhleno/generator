@@ -1,0 +1,1 @@
+program V : main : t : integer array; m4 : integer; do L(- (7 = 3) + false / true <= (96), aL7(5) or not 75 and 1960, 7); pop - (48900) or 307 - 607 >= 08; output 48 = 905; let I = array 2 - 0; output "nD" . "" . ""; output 0610; let U9 = 3 end

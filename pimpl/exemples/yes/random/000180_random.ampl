@@ -1,0 +1,1 @@
+program i1_ : a : takes XH, F, x, G, L, q11a, L, A : boolean array returns integer array let Q = 56800 - 4 <= 6; input E end H4Kaa : takes g : boolean returns nothing mz, y : integer; input G3[8 - 1] end main : WyG, P, q : boolean array; g : integer; chillax end

@@ -1,0 +1,1 @@
+program q : N : takes bG2a : boolean returns boolean chillax end t : takes q, n, A : integer returns nothing input I[463 - 0]; do j(7 = 627, 3760, 79); let T = array 57 end Y7 : takes pO70 : integer; O, u : boolean; k, a : integer array returns nothing W20aa, YI, D : boolean; chillax end main : chillax end

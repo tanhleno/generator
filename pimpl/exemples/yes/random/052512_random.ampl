@@ -1,0 +1,1 @@
+program E : a : takes _O : integer; Z : integer; N : boolean array; BPSaa : boolean array returns nothing input m; input S[- 318 - 17]; while 4 = 5 : chillax end end main : when case - (4) * true or 8 * not 34 > - (0) and 3 and 4 : pop; let D[3470] = array 8 end otherwise : do T(05 = 59, 292); while 4 : pop end; input Lp6aa; when case 2 : chillax end end end

@@ -1,0 +1,1 @@
+program z79a : main : when case(0 = 2) / not(2) + Y + not 3 and 0 >= - false and e + 8 and 997 : chillax end case(26) >= (5) and 1 - 1220 - 335 : chillax end case not 8 and 0 + 59 - 822 = - 650 : chillax end end

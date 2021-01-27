@@ -1,0 +1,1 @@
+program V : Vt8a : takes A3 : integer array returns nothing chillax end N : takes sy, Cb, F010a : boolean array returns boolean array chillax end rr : takes R : boolean; F83a, l6G0a : integer array; i640 : integer array; AM : integer; B : boolean; r : boolean; aqNaa : boolean returns nothing chillax end main : output "^\"!a" . L and 9 - 70 end

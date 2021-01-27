@@ -1,0 +1,1 @@
+program L : Ny : takes P, SU, SE, L290a, z5 : integer returns nothing chillax end f : takes E : integer array returns boolean chillax end main : C, E8, ynSa : boolean array; dh2, KNe0 : boolean array; B5 : integer array; T7g0 : boolean; chillax end

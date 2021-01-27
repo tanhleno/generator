@@ -1,0 +1,1 @@
+program cu : E : takes S3 : boolean returns nothing pop 83600 - 047; input ojt0; while 3 : do r(5) end end main : input sc[(890) * 6600 and 30600 and 8 - not true]; input S; pop 3 - 90; when case 5 - 5 : chillax end otherwise : output "" end; let N = 8; when case 33500 : pop end otherwise : chillax end end

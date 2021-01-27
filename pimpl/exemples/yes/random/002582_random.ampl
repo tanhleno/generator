@@ -1,0 +1,1 @@
+program b1d : DH : takes H8, c, UAf, j7F0a, C : boolean array; vx : integer; c : boolean array; d0, m : integer array; D1 : integer array returns boolean L, GTw : integer array; input V; input K[- 4]; when case 6 = 858 : chillax end otherwise : chillax end end main : chillax end

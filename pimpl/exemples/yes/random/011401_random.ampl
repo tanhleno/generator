@@ -1,0 +1,1 @@
+program z : t : takes zm0, ok7, _ : boolean array returns nothing WT : integer array; a7, R5, X, tzia : boolean; chillax end k7 : takes QG6, J : boolean array; U, G2 : boolean returns integer chillax end main : pop; output "" . - 86 . 9400 end

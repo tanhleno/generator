@@ -1,0 +1,1 @@
+program P : Xm00a : takes g, _Y, lC30a : boolean; oc : boolean array returns nothing w1U, w, X4 : integer array; let K = array - false and 77000 end main : g, q : boolean array; PV, Y93, F, r : boolean array; Og, q, r, qF : boolean array; y, k, HBM : boolean; chillax end

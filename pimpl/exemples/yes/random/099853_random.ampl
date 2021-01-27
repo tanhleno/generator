@@ -1,0 +1,1 @@
+program xc : main : while true / (388) + (79) - (96) + 935 - 2 /= - (5) * 45 and 8 - false + 20 - 369 : do w(- 3); do d890(9 = 4, 2) end; while - 9 : chillax end; let _[(1) and 3 or 1 - 33] = - 2 - 223 >= 9 end

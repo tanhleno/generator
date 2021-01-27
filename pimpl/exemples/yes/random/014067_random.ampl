@@ -1,0 +1,1 @@
+program R7 : jt : takes o5, uN, W : integer array; wI, I : integer array returns boolean do T(false or 2 > 66200 - 6, 2970) end main : vWAa : boolean array; Y4Na, F5 : integer array; b1 : integer; b, z, z, N : integer array; chillax end

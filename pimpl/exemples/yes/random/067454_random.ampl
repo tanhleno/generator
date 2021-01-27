@@ -1,0 +1,1 @@
+program A : main : do N(not not not 123 * Z and not 7 /= - false / true and 6, - true or Az and 9 < - (8) and 58900); when case(2) <= - 21 or 1 - 52 : chillax end case - not 263 and 11000 : output "\n4\""; let yl = 5 end; while - 90 : pop 9; input K0O end end

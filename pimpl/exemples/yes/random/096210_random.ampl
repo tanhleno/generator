@@ -1,0 +1,1 @@
+program GW : main : when case - not rF(00) / R[21] and(791) and 9 + not F6 - (97400) + 5 >= - not false + true : chillax end otherwise : chillax end; input M[9520]; while - not 595 = 5 - 7 : chillax end; input m010a; pop; when case 2 : chillax end case 9 : chillax end otherwise : chillax end end

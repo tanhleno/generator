@@ -1,0 +1,1 @@
+program e : J : takes T, N : integer array returns nothing v7, y : integer; k : boolean array; when case 6790 and 8 : input m[0] end end main : v : integer; do c2(false rem C9 rem true - not dJ * false, false or 0 - 66) end

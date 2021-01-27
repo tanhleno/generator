@@ -1,0 +1,1 @@
+program m03 : c : takes zJM : boolean returns boolean chillax end J : takes scDaa, w, x : boolean array; hT0 : integer array; l : boolean returns nothing pop; while 8 = 2 : chillax end end main : chillax end

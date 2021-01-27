@@ -1,0 +1,1 @@
+program F : p : takes n : integer; cxua : integer; _, Wc : integer returns integer k : boolean array; t7 : boolean; u9 : integer; nk : boolean; chillax end main : UW2, KRM : boolean array; i : integer; chillax end

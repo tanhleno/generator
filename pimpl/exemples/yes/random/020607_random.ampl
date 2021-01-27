@@ -1,0 +1,1 @@
+program OLDaa : q : takes Q, Q : boolean array; Q91a : integer array returns nothing N, L : boolean array; t7P : integer; chillax end main : input LD4; output "" . "%\\" . 8; do x(- true and 56 + 9860 > 1 - 620, - 5, 4 = 0) end

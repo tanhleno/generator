@@ -1,0 +1,1 @@
+program i0 : Ka4a : takes l4, F : integer array; R : integer array returns nothing let A2X[sz7a] = array - (5) and 28; when case 2 - 8590 < 3610 : while 57 : chillax end; let WK = 476; pop end case 7 = 40 : pop end otherwise : chillax end end main : T : boolean; chillax end

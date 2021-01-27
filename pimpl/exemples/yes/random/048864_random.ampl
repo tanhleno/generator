@@ -1,0 +1,1 @@
+program I : V : takes Op : boolean returns nothing input p[false and 06] end Nnpa : takes t : integer returns nothing chillax end gG5 : takes i : integer; qp : integer returns nothing r0 : integer; input K[88] end main : i9Qaa : boolean array; c1r : boolean; chillax end

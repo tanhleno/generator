@@ -1,0 +1,1 @@
+program X67 : m : takes K890a, x, Pg9, B6, j : boolean returns nothing chillax end j : takes T0R, dk, C : boolean; dk, Jm : integer returns nothing s, U, jl : integer array; i1c : boolean; when case 49 - 54 > 0 : chillax end otherwise : chillax end; input dgk; while 1240 : chillax end end main : chillax end

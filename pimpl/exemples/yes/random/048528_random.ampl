@@ -1,0 +1,1 @@
+program _9D : k0i0a : takes hX : boolean returns nothing M : boolean array; O : integer; A9B : boolean; FO, m : boolean; L : boolean; chillax end t : takes NY80a, P : integer; JVQ0a : integer; U5 : integer array; Y : integer; A : integer; n, D : boolean returns boolean B : boolean; G8L, H, kK6 : boolean; do X(- 07 > 5, 5 = 98, 10); do J1Y(932 = 3) end main : chillax end

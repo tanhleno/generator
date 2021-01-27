@@ -1,0 +1,1 @@
+program z62 : E : takes G9, j : boolean; Cy00, K : boolean returns integer chillax end main : when case not false : input P[- 4] end otherwise : output "" end; input D[3 * true and 1 + C and 5 or 3] end

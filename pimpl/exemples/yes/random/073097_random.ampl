@@ -1,0 +1,1 @@
+program r : main : Q, TD40a, X : integer array; output - false - 6 > false and 56500 - 5; when case not false * true and 8 - not 1 or 7 < z : while 95 = 5 : pop end end case - 9 and 935 - 96 - 3 >= 3 - 7 : when case 6 : pop end; do m(89); output "\"" end case 7 - 12 : when case 82 : chillax end end case 2 = 5 : output "" end; pop - 79700 - 0 end

@@ -1,0 +1,1 @@
+program c : K : takes e2, s, B1 : integer; Z : boolean returns nothing chillax end g : takes Tag, fG, U2 : integer returns nothing when case 9 - 8 : chillax end case 9 = 8 : chillax end end main : r, b : boolean; dUa0a : boolean array; u56a, O, _, Y : boolean array; u : boolean array; chillax end

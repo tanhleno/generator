@@ -1,0 +1,1 @@
+program J6 : main : Ap00a, c, u, j, Dr : boolean; while false rem true * (0) and 62 : let Y = array - 29 - 9 end; do Wng0a(a9(353) rem 6550 and 6 - (4820) and 30 >= false and 117 + 6); do Jd(- I13) end

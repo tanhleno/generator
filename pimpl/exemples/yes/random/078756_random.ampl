@@ -1,0 +1,1 @@
+program p0 : main : gT : boolean; jk, b, k53 : integer array; while not Rms0a[4] / 708 rem(25) : input F; output "V"; do ZO(4, 4); do f(21) end; output "@\t"; output "%x"; while 8 - 72 >= 143 : chillax end; input m end

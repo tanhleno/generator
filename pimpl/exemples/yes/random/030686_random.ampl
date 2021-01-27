@@ -1,0 +1,1 @@
+program h : mNC : takes f, B : integer array returns nothing a, U : integer array; y, pM : boolean array; chillax end main : L : integer array; output "t" . ""; pop not 4 and 5 or 68800; when case false - 0 < 4 : output 2550 . ""; output "" end case - 944 - 66 /= 8 : chillax end otherwise : chillax end end

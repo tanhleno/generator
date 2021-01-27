@@ -1,0 +1,1 @@
+program X_6 : mj : takes g, e, s7 : integer; X790 : integer array; E, z : integer array returns integer pop - 5 - 5740 end r : takes p, l : boolean array; _CF, D5, Q7, QI : integer; w5, e : integer array returns integer do s38aa(3120, 5 = 69, 27, 7390); input iV1[05] end Nx8aa : takes d : boolean array returns nothing F : boolean; q, WV6 : boolean; chillax end main : chillax end

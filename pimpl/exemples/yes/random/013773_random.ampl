@@ -1,0 +1,1 @@
+program uU8 : M9 : takes D, m, H : integer array; V, Kn, w : boolean array; z : integer array; G : integer array returns boolean array chillax end o : takes C0T0, My60a : integer array; x5, i : integer array returns boolean chillax end W7Y0 : takes _X5, B, YM, n : integer returns nothing wy : boolean; chillax end main : chillax end

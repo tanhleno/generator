@@ -1,0 +1,1 @@
+program o6z : C1 : takes q, B6g0a : boolean; M, _, g9r : boolean returns integer array chillax end main : output - (14); pop not 9 < 6 - 398; do PJ(- 7 and 287 or 8 - 05600 = - 4 - 3); let CK1aa = array 6 end

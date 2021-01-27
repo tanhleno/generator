@@ -1,0 +1,1 @@
+program w : a : takes eL3, a8 : integer returns integer array do A(- false and 9 /= - 9, - 9 <= 861) end main : let I = array - false rem 74 rem(845) and 59 - Rx50a[8] + true and 0020 + 12 - 9; do Sg(- false rem 9280 and 7, - 16 < 9270) end

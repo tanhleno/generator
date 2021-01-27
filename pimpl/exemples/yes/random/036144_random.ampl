@@ -1,0 +1,1 @@
+program N9N : C : takes d93 : boolean; vu4a : boolean returns boolean array output ""; input x[- 8910 - 98]; while 8 : chillax end end G : takes pp : integer returns boolean chillax end ao : takes U, GM : boolean array returns nothing when case 27 = 77600 : chillax end end main : chillax end

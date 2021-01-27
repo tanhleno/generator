@@ -1,0 +1,1 @@
+program T : _ : takes B : integer returns integer array S : integer; m, f, SV : boolean array; d : integer array; g : boolean; y : boolean; pop - 1 - 2 > 3 end main : r : integer; cfFa : integer; f : integer; G : boolean array; chillax end

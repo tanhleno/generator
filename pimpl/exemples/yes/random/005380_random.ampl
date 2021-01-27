@@ -1,0 +1,1 @@
+program wJ5 : Jp : takes R, YM, I, ivIaa : boolean array returns boolean pop - 0 - 7 > 8; when case 10 - 082 < 47 : while 03 : chillax end; pop; pop end case 58 = 6540 : output "\tg"; pop end otherwise : chillax end end M : takes rD6 : boolean; z, R : integer array; e, Y, X1 : boolean array returns integer array chillax end main : chillax end

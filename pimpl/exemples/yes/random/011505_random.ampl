@@ -1,0 +1,1 @@
+program G0 : K : takes H94, Y, w : boolean array returns nothing when case - not 2 and 5 : do M(2, 67200); let nSc = 28 end; input r end main : while - F[6] rem(1) + not 09 / false and 8 : chillax end; do M(- true - 6 and 17, true, - 9 = 1, 4, 4) end

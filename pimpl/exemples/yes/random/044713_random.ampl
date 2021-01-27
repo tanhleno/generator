@@ -1,0 +1,1 @@
+program ZVU : B30 : takes D : boolean array returns nothing X : integer; v7, ppMa, lt : boolean array; I : boolean array; o1 : boolean; X3 : boolean; while 9 : chillax end; pop; when case 09 = 3170 : input z2 end case 48 : chillax end otherwise : pop end end main : chillax end

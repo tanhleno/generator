@@ -1,0 +1,1 @@
+program S : j : takes v96 : boolean returns integer h, uKC0, J0, Rx : boolean; when case true and 82 + 5 : do e73(91, 7) end; let i3 = array 30 end main : m, zI : integer array; LJ : integer array; M : boolean; pop - true + false < true and 7; input _S end

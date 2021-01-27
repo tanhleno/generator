@@ -1,0 +1,1 @@
+program QLI : n : takes Hc : boolean; nC5aa, R : integer; NkZ0a, H, A, g, w : integer array returns nothing do L(530 + 478 - 287, - 3, 3 = 50, 84) end i : takes R, W, T, OH, V : integer returns nothing R : integer; m, E7, Am : boolean array; BS, K : boolean; F : boolean; y : boolean; do u(6280); input T; do rK(5, 20) end main : chillax end

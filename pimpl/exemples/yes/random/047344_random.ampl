@@ -1,0 +1,1 @@
+program iu9 : T1 : takes A : boolean returns integer when case - true and 9 or 83 - 85 < - 20400 - 63 : do F(1) end case 70400 - 84 = 1 : do I(7) end case 8 = 0 : let E = 6; pop end otherwise : chillax end; while - 2 : output ""; let c = 1; pop end; do vNl(8 = 72200, 54) end main : do F(p[67], - not Qn4aa and(09) - 5170 and 9 > true and 7 + 73, - _9oa) end

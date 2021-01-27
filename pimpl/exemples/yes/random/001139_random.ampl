@@ -1,0 +1,1 @@
+program ob : LP : takes W, AK, vh9a, r61a, v, R : boolean; i : boolean; p, p : boolean array; u : boolean; d, M, i2, q : integer array returns nothing chillax end main : BfBa : boolean; V6 : boolean; chillax end

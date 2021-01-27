@@ -1,0 +1,1 @@
+program _ : main : t, mS, HL, lj : boolean array; u, T : boolean array; J8, v, p, Y : integer; E_, F : integer array; F, Y : boolean; output - not true * true and 5 - false or 367 - 7 <= - false or 46; while - not true > (64) and 5 - 9 : input R2Caa end end

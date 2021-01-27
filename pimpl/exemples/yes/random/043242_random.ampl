@@ -1,0 +1,1 @@
+program Z : r : takes dH : boolean array returns integer JT : integer; pop 8; do Al(9) end main : let w = - not b + false and 9 /= not 0810 or 5 - 2; output - 0 >= 04; while - true : do E(4); input V; do fd(3) end end

@@ -1,0 +1,1 @@
+program O : m2 : takes Ed : boolean returns nothing R : integer; p6J0a : boolean; Q : integer; output - 5 > 9060 . 7 . 0 end C : takes DG5 : integer returns integer array r, J, k0, L91a : integer; v : integer; while 40 : chillax end end main : i, g, _, Qx, ja : integer; e, fc70, K : integer; G : boolean; twZaa : boolean; chillax end

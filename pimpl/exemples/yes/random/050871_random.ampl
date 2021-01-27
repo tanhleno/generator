@@ -1,0 +1,1 @@
+program M : B : takes b91aa : integer; q, n : integer; V8 : boolean; T, N7, Q93aa, j3A, C : integer array returns nothing p, L54, W, I : boolean; d : boolean; input CE20[5 and 52]; do PIt(- 45 - 56 >= 488, 57, 524, 0); do q(1); let S8 = array 1 end main : chillax end

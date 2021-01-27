@@ -1,0 +1,1 @@
+program w91 : main : b, K : integer array; do I6O0(- true / 9 - 6 < - bU(6) rem(9) and 0, - not k40 rem false and 588); when case false - (73) and 4 /= - not 31 and 5 - 1110 : chillax end otherwise : chillax end; output - 3800 - 11 /= 78 . 89 = 9 . 45900 . 63 end

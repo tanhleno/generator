@@ -1,0 +1,1 @@
+program c3P : oY : takes m : integer returns nothing D : boolean; when case not 247 or 3 <= 3 - 6 : while 58100 : pop end end otherwise : chillax end; input wK[- 71] end main : l : integer; chillax end

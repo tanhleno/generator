@@ -1,0 +1,1 @@
+program Y : s3T0 : takes Aj : boolean returns boolean array output "U\"0a" . 4 = 6; input O[- 1]; do Vm(4 = 4, 0, 77); while 422 : pop end; while 78 : chillax end; output "\\"; pop end main : Vv50a : integer array; N : integer; chillax end

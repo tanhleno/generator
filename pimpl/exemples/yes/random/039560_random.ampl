@@ -1,0 +1,1 @@
+program fCW : CiLa : takes gYR : boolean array; t : boolean; i2, l89aa : boolean array; m5H, J, P, R9, O : boolean; r : boolean; m24, D : boolean array; I6, r : boolean returns nothing W, v, uE2, a, A : integer; input f; do e(3, 87 = 0, 1, 99) end F : takes Fh : integer array returns nothing chillax end main : o35aa : integer; output "7" . 14 and 28 + 6 . "1" . 3 = 6 end

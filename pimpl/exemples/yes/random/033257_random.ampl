@@ -1,0 +1,1 @@
+program i : ZQ : takes Y : boolean; W, S3, E, K3, c, E, G : integer returns nothing m : boolean; S, k, t, e : integer array; r, z2F : boolean; qU80a, m : boolean; Y : boolean; chillax end main : let Y[- rgp / 0 or not Q * true] = array true; do N(false / v8k0 and 49 /= not 397 and 5 + 0 - 7) end

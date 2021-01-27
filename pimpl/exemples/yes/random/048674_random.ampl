@@ -1,0 +1,1 @@
+program W1 : t : takes S : boolean returns nothing I9r : integer; let h[false] = array - I and 554 + 06600; output 30 = 89 end G : takes mq6 : integer array returns integer B5Ia : integer array; g9, p : boolean; while 9 > 96 : when case 8550 : chillax end; do B(72000); pop end end main : chillax end

@@ -1,0 +1,1 @@
+program k : u : takes _, V34, A7 : boolean array returns integer u, O : boolean; W, M95, H : integer; chillax end C1Q : takes oU, o9 : boolean returns nothing chillax end main : output "G\"\""; pop end

@@ -1,0 +1,1 @@
+program X : O : takes PE4a : boolean array; V1, duF : boolean array; S : boolean returns integer x, uX : boolean; P : integer array; X, bU : boolean array; chillax end main : W : boolean array; pop - true <= true end

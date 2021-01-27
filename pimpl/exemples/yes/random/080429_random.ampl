@@ -1,0 +1,1 @@
+program S : main : G : boolean; when case I[75] > k(447) : chillax end case true or not 0 = - false : chillax end case(5) = 504 - 917 : output 5; pop end case - 7 = 1790 : chillax end case 70 = 61 : pop end otherwise : while 64 = 95 : chillax end end end

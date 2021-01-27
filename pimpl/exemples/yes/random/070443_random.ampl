@@ -1,0 +1,1 @@
+program x : main : qw, I, F, P : integer array; w, lJ4a : boolean array; l3, N, z : boolean; M : integer array; u : boolean; when case not false rem true and X and 0 - not false * true and 97100 <= - true : chillax end otherwise : while 1 = 4 : do d8(5); pop end; let O[9] = 9; input dC; while 296 : chillax end end end

@@ -1,0 +1,1 @@
+program d1 : v : takes c, H50 : boolean array returns nothing do GU(- (6) and 8 or 04, - 0 - 4 > 932); input d2Z[6 - 30]; let _1Laa = array 02; when case 8 : pop end case 4 : chillax end otherwise : chillax end end main : output "" . "%Q!" end

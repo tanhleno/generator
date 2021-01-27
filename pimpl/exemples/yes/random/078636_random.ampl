@@ -1,0 +1,1 @@
+program m : main : Yf2aa : boolean; gog, w5i, D : boolean array; w78aa, Bw : boolean array; _980 : boolean; Ol, S27, zMN : integer; H, R : boolean; d : boolean; Z_ : boolean; let d = - false rem false and 1 + false and 22 or 02 - 338 = 9900 end

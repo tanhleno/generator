@@ -1,0 +1,1 @@
+program f : H : takes g5A, DhK : integer array returns integer array chillax end k40 : takes R1, R6h0 : boolean array; V : integer array returns integer array chillax end _7 : takes bF, M3 : integer array returns nothing W : integer; when case 0 = 764 : when case 8210 : chillax end; pop end end main : chillax end

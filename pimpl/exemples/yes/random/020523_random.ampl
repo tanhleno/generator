@@ -1,0 +1,1 @@
+program N6k : n : takes p280, n1M0a : boolean array; b : integer array returns boolean array K, u7D : boolean array; chillax end main : G, jX : integer; I9V0a : integer; _ : boolean; T22 : boolean; pop; output - 785 . "" . 35 = 793 end

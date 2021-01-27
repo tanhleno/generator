@@ -1,0 +1,1 @@
+program O : a : takes O2 : boolean array; r : integer returns nothing chillax end z : takes t : integer array returns nothing when case - 9 - 2 < 70 : input v; input q4o end; while 437 : chillax end; pop 5; input F; pop; pop end main : i, NNzaa : integer array; do b0(96 * true rem false and 12 = false) end

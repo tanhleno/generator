@@ -1,0 +1,1 @@
+program J8 : AZ5a : takes J, E, m, J0, Xi : boolean returns boolean v : integer; input e; input A end f : takes G, g49, M8 : boolean; e : integer; J04, _v70a, H, p9raa : integer; x : boolean returns nothing zf, Y, u, X3 : integer array; k, N7Q : boolean; chillax end main : na, POOaa, B : integer array; output "*" . - not 63 and 33 end

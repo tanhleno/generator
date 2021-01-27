@@ -1,0 +1,1 @@
+program QF70 : t9oaa : takes C96, R, l : integer array returns integer Hk9 : integer array; _R10 : boolean; d, t, B : boolean array; chillax end i : takes lv, uC, Dr : boolean array; C : boolean; k4o, W, f, Ua4aa, L : boolean array returns nothing a, A2 : integer; while 33500 - 9 : chillax end end main : output "K"; output not 5 and 5 - 56 > 3 - 48 end

@@ -1,0 +1,1 @@
+program np : z : takes w, rQd, G01a, G_ : integer array; tL, B, mF, E02aa : integer array; w : integer array; n : integer array; WLOa, dZ, g : integer; X : boolean returns integer when case - p and 0 : chillax end otherwise : output "x\n"; when case 2 : chillax end; pop end end main : pop - r(4) / not 4 + false /= I and 1 + 0 - 80 end

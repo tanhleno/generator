@@ -1,0 +1,1 @@
+program _8 : J : takes b5 : boolean array returns nothing chillax end main : f0, lS : integer array; E : boolean; yZ, G, y1, c : boolean array; L : boolean array; h, jW, Jb1 : integer array; while false < l9(5) rem 88 and 35 : pop end end

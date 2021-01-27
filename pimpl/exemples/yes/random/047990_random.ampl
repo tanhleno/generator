@@ -1,0 +1,1 @@
+program B96 : t63 : takes ks0 : boolean returns nothing f650, s2, Jr4 : boolean array; chillax end main : let v[true] = - true * not 06600 and 0 = 35; do E4(not not 057 + 0 or 3, not 2 + 95 - 020 >= - 18200 - 7030) end

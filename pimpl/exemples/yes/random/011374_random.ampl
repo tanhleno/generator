@@ -1,0 +1,1 @@
+program W : P : takes O4, Y, A : boolean array returns nothing zCk0a : integer; Vj40a, x : boolean array; chillax end main : when case not IR7 rem 1 >= b09(471) rem(906) and 9 : while - 9 = 4 : chillax end end otherwise : output 9; let Jrxa = 4; pop; do G(0) end; let C = array - 634 and false end

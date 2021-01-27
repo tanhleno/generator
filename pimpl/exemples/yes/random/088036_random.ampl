@@ -1,0 +1,1 @@
+program EB : main : input _; output true; do E(t and 81 + 7 - 42100 > 58); when case 8 > 0270 : pop; output "" end case 8 : chillax end case 722 : chillax end otherwise : when case 8 : chillax end; pop end end

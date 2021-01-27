@@ -1,0 +1,1 @@
+program o4q : R : takes m190a : integer array; Z : boolean; x38, s, N5h0, zQ90, KD : integer returns boolean a : boolean array; OD : boolean array; R2Da, u, SL : integer; chillax end main : S, U : integer array; chillax end

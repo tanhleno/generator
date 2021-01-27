@@ -1,0 +1,1 @@
+program j : U790a : takes o3, c, MQ, n : integer array returns boolean array when case - c and 6070 + 63800 - 32 : chillax end case - 5 : chillax end otherwise : output "" end; while - 2 - 7 : while 0 : chillax end end; input K2 end main : ut : integer; D, U : boolean array; let N[true] = - (42600) - 98 and 5 end

@@ -1,0 +1,1 @@
+program B : PZ4 : takes C, Q, G, _ : boolean array returns nothing N5 : integer; B2 : integer array; M, W77, X : boolean array; br3a, S : boolean; when case false = 8 - 2 : chillax end case - 3 - 3 : input I end end main : nn, H : integer array; B, tL9, G : integer array; chillax end

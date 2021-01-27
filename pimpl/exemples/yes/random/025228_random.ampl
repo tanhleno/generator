@@ -1,0 +1,1 @@
+program E8 : R5 : takes B, d : integer; C, l4F, r : boolean array returns integer array j6 : boolean array; z : boolean array; gWh, D, y1 : boolean; chillax end main : input D8[0310 / yC(1) - true] end

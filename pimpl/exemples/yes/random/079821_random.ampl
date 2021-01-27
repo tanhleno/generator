@@ -1,0 +1,1 @@
+program X03aa : main : U : boolean; input iM9aa; do w(- true rem(73) and 53400 - 5650 - 85 - 00800); do u(a4 <= - 76000, - 9 - 0 < 02, 397); do z(- 93 = 7, 4); input T; do Y(28800); output "0"; output "3" end

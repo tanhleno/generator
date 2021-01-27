@@ -1,0 +1,1 @@
+program Er6 : F : takes G, U : integer; U : integer; P6, a : integer; O : integer array returns boolean array L : boolean; c0 : integer array; chillax end main : when case(96 = 379) * (1) : chillax end case 3 rem(4) and 7970 : while 33 = 7930 : chillax end; pop 1 end; let e = not 89 and 2 + 2; output - 2 . 0580 . "" end

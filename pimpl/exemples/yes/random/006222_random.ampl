@@ -1,0 +1,1 @@
+program _ : WIH : takes Z, GX, Cn, T : boolean returns nothing o1 : boolean array; O : integer array; when case R : chillax end case 8020 < 65 : while 2 : chillax end; do b9(5); pop end case 686 = 9 : chillax end otherwise : chillax end; when case 1 : output "" end end main : chillax end

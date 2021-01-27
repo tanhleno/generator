@@ -1,0 +1,1 @@
+program S : X20 : takes F, A : integer; lVw : boolean; _ : boolean array; k9X0 : integer returns nothing q, N, Z, X1i0a, I60 : integer; chillax end main : Fmk0 : boolean array; m, C, S : integer array; x3 : integer array; M, x, O : boolean array; chillax end

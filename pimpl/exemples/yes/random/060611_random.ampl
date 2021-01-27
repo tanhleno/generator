@@ -1,0 +1,1 @@
+program p : p4 : takes H : integer array returns nothing t, re : integer; B : integer; G, Y : boolean; do ON3(- 5 and 59, - 96100 - 9); output 9 = 4320; while 2 = 6 : chillax end end main : chillax end

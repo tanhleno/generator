@@ -1,0 +1,1 @@
+program Y : Bv : takes n_7, J1i : integer array; Q2A0a, y, T : boolean returns boolean array v : integer array; chillax end r : takes z7n, G : integer returns nothing D : integer array; chillax end main : I5c : boolean array; WU30, P, L, v26, p96a : boolean array; input c[false]; do D8(- 68900) end

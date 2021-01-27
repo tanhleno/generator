@@ -1,0 +1,1 @@
+program ti : main : x, c0, O : boolean array; when case 47 and 0 / 0 or not(5520) > z8V[9] or 26 and 3 : chillax end case - 0 and 907 and 5 : chillax end case - true and 464 + 2 : chillax end case - 6 : chillax end case 89200 = 0 : chillax end otherwise : chillax end end

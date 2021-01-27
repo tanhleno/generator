@@ -1,0 +1,1 @@
+program P : main : Zu : integer array; when case - false / true or D88[74] rem(2) and 6 = not(4) : input B8W0 end case JG[8570] * false and 3 + true >= - (057) : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program h : d : takes BS3, l : boolean array returns integer array N, W2, A9waa, q, tc : boolean; z, I : boolean array; _ : boolean array; l8 : boolean; while - not 1 + 284 > - 488 : let qyea[0] = array 9; output "" end; pop 69 = 93900 end main : chillax end

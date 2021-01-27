@@ -1,0 +1,1 @@
+program T : main : h, Ux : integer array; when case - not not 6 rem D6 * (9) and 42 : let i[- 20 - 7] = array - 9 - 5 end case u[4] or not 28400 or 5 : chillax end case - (92) and 7 or 1 - 6 : chillax end case - 71300 - 2 : chillax end case 220 : chillax end case 47 : chillax end otherwise : input u8 end end

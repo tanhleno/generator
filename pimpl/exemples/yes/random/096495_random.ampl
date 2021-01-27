@@ -1,0 +1,1 @@
+program A0 : main : when case - 1 and true < not(5) * true and 5 + m : chillax end case - 5 and 7 and 06 <= not 84 and 0 : chillax end case g >= 36 : chillax end otherwise : output 05; output "n[" . ""; when case 1 : chillax end end end

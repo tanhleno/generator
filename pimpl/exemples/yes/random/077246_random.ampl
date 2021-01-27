@@ -1,0 +1,1 @@
+program vp : main : X, h : integer array; mZ, E, x : integer array; k1X, HV5 : boolean; Q, Gkk, j : integer array; pop 1 or 6 - 28 - 3; when case C(4) - D and 8910 or 9480 > A or 06 : chillax end case - Pr and 0 - 1890 - 6 < 9510 - 4 : do ur(71); pop end; output 8 end

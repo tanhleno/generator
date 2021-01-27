@@ -1,0 +1,1 @@
+program g2na : O : takes V : boolean array; N, hJ : boolean returns boolean array B, X : integer array; input k; output ".\taa" . 32 . "#7!a" end z : takes S6 : integer; u, K : integer returns nothing k : boolean array; O : boolean array; chillax end main : c65aa : boolean array; x41, V, wS, Z, Y : integer; a : boolean array; let Rl = - (8) * 3 end

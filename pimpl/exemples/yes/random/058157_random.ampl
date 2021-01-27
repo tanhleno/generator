@@ -1,0 +1,1 @@
+program S : d1 : takes q : integer array returns boolean cWF, o5, o, Y2, c : boolean array; pop - 4 - 22 end U5ja : takes E : boolean; H, s : integer returns nothing output 1 = 10; input iD[8] end main : while true / IpZ(30900) * KT90a < true : chillax end end

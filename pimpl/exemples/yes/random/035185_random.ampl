@@ -1,0 +1,1 @@
+program Bt : R : takes R9 : boolean; q, V68a : integer returns boolean b, E : boolean; fm : integer; E : integer; s : boolean; pop; let yW[19] = 7; input E5[66] end Cm1 : takes Tr70 : integer returns nothing w260a, eS, S, ab : integer array; v : integer; chillax end main : do X(7, - not not 7 rem(1) and 126 - true and 3 or 8 - 9 = (8)); input V[5 / (9) and 49] end

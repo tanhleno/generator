@@ -1,0 +1,1 @@
+program J : main : Ju6a, q : integer; l14aa, p53a, Gmx : boolean; H : boolean; input U5; when case(53) + not 1 and 2 /= false and 8 + 49 : chillax end; output "\\I0" . 888; when case - 5230 - 97 : chillax end case 7 : chillax end case 48 : chillax end case 2 : chillax end end

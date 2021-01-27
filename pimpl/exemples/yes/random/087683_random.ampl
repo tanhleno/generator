@@ -1,0 +1,1 @@
+program dd : main : YX8a : integer array; while - not 618 - uv00a(941) / false <= not false + not 44200 and 03 or 64 : pop 11800 = 3; do q(335 = 5); while 5 : chillax end; input fP9; while 2 : chillax end end; input X end

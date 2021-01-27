@@ -1,0 +1,1 @@
+program Mqn0a : main : do Z0(not true and not true or 4 and 18 or(70800) + 451 - 25 < - (85) rem 2 and 5 or false + 19, true * not 4 and 9 /= false - 0 - 38); when case true : output 79 end case e or 343 : chillax end case - 9 - 81 : pop; output "`i"; pop end case 03 = 67 : chillax end otherwise : chillax end; input Mi1a end

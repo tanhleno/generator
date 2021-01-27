@@ -1,0 +1,1 @@
+program g560 : v7 : takes V : integer array returns boolean chillax end main : when case - true = - not 1 or Vf and 21 : input pUs end; do Pneaa(- false - (020) and 14 - 66300, - y + 4 <= - 7, 2 - 17, 9820, 1, 383); input C[- (0) - 70800] end

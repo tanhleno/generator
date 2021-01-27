@@ -1,0 +1,1 @@
+program Dx7 : main : O, ZA, fBg0a : boolean array; b2W : integer array; I : boolean array; k, drha : boolean array; do H((0 = 62300) rem R2[6] and true); input f4[- 000 * false and 0 - Wb0 and 0 - 8 - 9]; input b[- (98) and 3 - 8]; input S5b0a[7 - 29200] end

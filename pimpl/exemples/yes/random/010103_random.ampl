@@ -1,0 +1,1 @@
+program j : c : takes Q6, C, bO : boolean array; j : boolean array returns boolean array chillax end t4ga : takes b55a : integer returns integer array a : integer; chillax end main : pop - 639 - true and 5 end

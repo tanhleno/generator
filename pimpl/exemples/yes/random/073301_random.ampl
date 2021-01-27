@@ -1,0 +1,1 @@
+program m : main : L, CU2 : boolean; do UV0(not 12 + not false and 38 and 20 + (75) and 1 - 43 /= - true or(93) and 81, - false * true <= - false, - g and 81, 13100 - 8, 1, 94, 4560); when case - 25 / (6) = - (41) - 283 : chillax end case - t3M0 and 018 - 98 : let o[1] = array 8; let KH5a = 1; pop end case - 77 = 06 : output "/" end end

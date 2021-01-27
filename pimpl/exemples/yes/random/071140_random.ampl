@@ -1,0 +1,1 @@
+program x : main : X, ra, P : boolean; Jx : integer array; while true rem(7540) * false and 2 > (34800) rem(4) and 2 - HS and 02 or 23 - 3 : chillax end; do Z(4 * (613) = (454) and 3860, 8 and 4 <= - 0 - 31, 4 - 05, 720, 2, 7540); while - (674) < - 9 - 0 : chillax end end

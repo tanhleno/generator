@@ -1,0 +1,1 @@
+program J : A06 : takes Z : integer; ij, r57 : integer array returns nothing when case(9) - 3 - 50 : let K3y0a = array 5; while 2 : chillax end end otherwise : chillax end; pop 5; do t(46, 67, 5); input nn9; pop; do E9(3) end main : uYe : boolean; a7, ed : boolean; mp, mmi0, GM0, N, g : boolean; chillax end

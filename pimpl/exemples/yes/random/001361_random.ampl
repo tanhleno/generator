@@ -1,0 +1,1 @@
+program Z : I : takes d300a, A, C, r, R, l : boolean array returns boolean array output 03; output "Q" . 029; when case 524 : output ""; pop end; do F1(0, 4390) end main : output true or 1400 + 1 = - false - 30 . - not 389 or 0 >= 495 - 8 . ""; output "" end

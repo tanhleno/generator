@@ -1,0 +1,1 @@
+program C : z : takes zT, S770a, Uq6, K, n, m : integer array returns nothing pop - 57; when case - 5260 - 69 > 565 : let N = 4 end case 1 = 6 : chillax end; input t88[0] end main : PZ : integer; do Y(- f rem(2) - gs5aa); output RhL and 45 /= 26 end

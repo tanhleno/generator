@@ -1,0 +1,1 @@
+program SC : H5 : takes LZ : integer returns boolean array U : boolean array; H, i : boolean; H : integer; jqs0, _ : boolean; chillax end main : Xo : integer; when case - (49 = 9) : output 91 end case - not not 7 and not 6 = - i or 66 - 6 : chillax end end

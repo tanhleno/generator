@@ -1,0 +1,1 @@
+program CM9 : main : when case not false : let v = 4830 = 34700; when case 33500 = 69 : chillax end otherwise : chillax end end case - K / 3 and 9 : chillax end otherwise : input xL4aa[5]; pop 6; when case 9 : chillax end; while 1 : chillax end; pop end end

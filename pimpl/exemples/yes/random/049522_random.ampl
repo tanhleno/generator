@@ -1,0 +1,1 @@
+program wd : L : takes t : integer; D, j, X, G0e0a : boolean; v : boolean array returns nothing let C[- NJ50] = array(041) and 7 or 1; pop end HJ : takes h66, e, R1J0a : boolean returns nothing chillax end main : chillax end

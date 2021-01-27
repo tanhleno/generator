@@ -1,0 +1,1 @@
+program w1a : _ : takes p : integer array; V7, d : integer array; t : boolean array returns boolean G, BO : integer array; let E = array - false and 7 - 16800; do Q(- 89 - 02 >= 0, 7760 = 1, 8840) end main : chillax end

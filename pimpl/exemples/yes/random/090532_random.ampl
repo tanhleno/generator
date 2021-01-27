@@ -1,0 +1,1 @@
+program dSg : main : let HD9[(47) - false rem false and 9] = array 5190 * false rem false - k57aa(4) rem not 1 - true and 9; input Z[- N(2) / not 8 and 76 + false and 0 - 69700 - 2]; pop - 5 - 28 >= 61900; pop 9 end

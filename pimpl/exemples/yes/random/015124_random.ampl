@@ -1,0 +1,1 @@
+program Q : e : takes n9Y, L, X : integer array returns integer pop 73 - 2 /= 8140 end AX2 : takes y : boolean array returns nothing chillax end main : P36 : integer; when case - true / false / false and 7 or 5 and 99 and 4 + 4 and 7 + 86400 > T(42) and 9 or K and 54 : chillax end otherwise : chillax end end

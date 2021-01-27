@@ -1,0 +1,1 @@
+program Gh5 : N : takes w2u, c : boolean; X1 : integer array returns integer chillax end main : while J[3] - true <= - true and not 78 : chillax end; do U(- (5) * (5) - T and 6, h and 1 + 561, - 2 /= 0); do x8F(- (3) and 37, 24, 3, 2, 451) end

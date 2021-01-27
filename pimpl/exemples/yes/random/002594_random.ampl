@@ -1,0 +1,1 @@
+program C1 : qry : takes c, S, b6, i, QKqaa : boolean array; rV : integer array; w : boolean array returns nothing DQ, Y : boolean; output "\\]" . 82700 = 28 . 39 . 3 end L7 : takes B8 : integer returns nothing D850, C, P, J9 : boolean; chillax end main : while(5 = 3) / not q rem o5 + true and 988 and 2 : pop; output "|" end end

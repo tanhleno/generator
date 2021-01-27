@@ -1,0 +1,1 @@
+program R0 : main : when case true / false : pop 2 = 4; pop 47; let B3 = 9; when case 942 : chillax end end case - not not 6 rem i4 or c and 8840 + 16900 = - not 6 and 6 : do XVw(9); do ZW5a(51, 2) end case true - 60 - 83 : chillax end end

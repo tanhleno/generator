@@ -1,0 +1,1 @@
+program Zn : B : takes b : boolean returns nothing aGWaa, F : boolean; e : integer; chillax end P : takes ih1, n, X81a, Y40a : boolean array; q, U8, F : integer returns nothing v, S7, vk, r : boolean array; m0N0a, U6z : boolean array; bQ0aa, T : boolean; output ""; do D(1 = 09); pop end main : a4 : boolean array; C, b2 : boolean array; chillax end

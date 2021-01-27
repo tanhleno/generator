@@ -1,0 +1,1 @@
+program Y : v2 : takes I : integer array returns nothing q : boolean; E : integer array; do n(true and 969 - 1) end H : takes R : boolean; X, YC : integer; O : boolean; t, I, A : boolean array; d4, s7C : boolean; U : boolean returns nothing chillax end main : m5 : boolean; fl : boolean; B : boolean; input R; output true and 318 end

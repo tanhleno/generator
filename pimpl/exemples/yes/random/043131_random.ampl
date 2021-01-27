@@ -1,0 +1,1 @@
+program s : Do : takes N : boolean array returns integer T, R : boolean array; BL1 : boolean; chillax end U870 : takes N : integer; rn : boolean returns boolean array pop; let L74a[22] = 8 end main : chillax end

@@ -1,0 +1,1 @@
+program t : f8M : takes v, d47, e7 : boolean array; K : boolean array; G, sx : boolean array; z : boolean array returns nothing R : boolean array; pop; do A(- 5620 - 10, 6420, 93200) end J8 : takes l7 : integer array returns integer input B990a[1 - 774] end g : takes H, A5 : integer array; H : integer returns integer chillax end main : chillax end

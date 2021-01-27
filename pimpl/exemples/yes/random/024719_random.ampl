@@ -1,0 +1,1 @@
+program s : t : takes aV3aa, q : boolean returns nothing let y9v[(8010) + 5] = 9 < 61; let H[- 2 - 16700] = array 7 - 4 end B8x : takes J4, t, s : boolean array; kV : boolean array returns integer C, Kg : integer; do e(- 8 - 2 >= 8) end main : v : boolean; chillax end

@@ -1,0 +1,1 @@
+program xG1 : I : takes _, x1, I46, g, J4 : boolean array returns boolean array while - (72800) and 5 > - 43 - 09 : when case 35 : pop end case 7 : chillax end otherwise : chillax end; input B; when case 752 : chillax end end; let WX0aa = array 0 - 95 end main : Rv40a : boolean; o : integer array; pop end

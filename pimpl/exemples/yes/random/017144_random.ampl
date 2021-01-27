@@ -1,0 +1,1 @@
+program n : u3k0 : takes N, P : boolean; S, xQ : boolean; w77, Sl : boolean returns nothing w : boolean; do m33(false and 2, 1 >= 64, 349, 6) end v0Ka : takes t, p7, t, Uj : integer returns nothing do e8(- 68 - 94 /= 739) end main : j, zHa : boolean array; X, L : integer; R : boolean array; M, vz, Rw : integer; chillax end

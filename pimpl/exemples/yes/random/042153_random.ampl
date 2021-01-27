@@ -1,0 +1,1 @@
+program yI : n : takes T : boolean array returns boolean v, x : integer; output "/n" . 4 = 8 end main : l : integer array; A : integer array; k : boolean array; while false /= - false rem true and 2 - not 6 : while - 0 <= 6 : chillax end end end

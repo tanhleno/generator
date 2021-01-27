@@ -1,0 +1,1 @@
+program h1w : Y0 : takes M : integer array returns nothing chillax end W : takes _m, hp, S, k : integer; mB : integer array; p0f, s6d, O : boolean array; o : integer array returns nothing chillax end main : chillax end

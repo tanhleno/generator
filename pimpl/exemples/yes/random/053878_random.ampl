@@ -1,0 +1,1 @@
+program K02a : mM : takes uY : integer array; u49, W, x8 : boolean; Ir, oI, hbs0 : integer array returns integer chillax end main : while - false / true : chillax end; input T; when case Z and 4 or 7 - 45 : chillax end case - 3 : chillax end case 64 : chillax end case 9 : pop end case 3 : chillax end otherwise : chillax end end

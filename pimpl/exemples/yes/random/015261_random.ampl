@@ -1,0 +1,1 @@
+program VQ20 : P : takes R1xaa, K, B : integer array returns nothing do y(- not 3 + 9 /= - 66500 - 4550) end main : when case 96 /= false rem 5 or tw5a and 6 : when case - 7 - 4480 = 9 : when case 54 : chillax end end case 34 = 7 : output "b" end case 47 : chillax end otherwise : chillax end; let J[7] = 9; pop 9; output ""; pop end case x(9) : chillax end end

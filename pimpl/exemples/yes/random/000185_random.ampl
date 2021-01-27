@@ -1,0 +1,1 @@
+program EJ : LV : takes K, h, V, tX7a, g, X, n, B : boolean array returns integer R, Vd, rVK0 : boolean array; D2X : boolean; let C75 = array true and 38100 or 6 end main : do v_(- gK(84) * (182) rem false and 91 = - 4 / Z and 98300); let l9 = not 47 and 186 /= 3 - 1; do G1P0a(- (5) > - 1, 6 /= 5); let I[0300] = 53 = 34 end

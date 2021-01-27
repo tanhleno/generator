@@ -1,0 +1,1 @@
+program u7E0 : g : takes lZk : integer returns nothing Z : integer array; while - 94 and 126 : chillax end; output "i" . "" . 5950; input N[90300] end main : c6Y0, G, B480a, p, O6 : integer; do nz(- not false * true / d5 or(59) * WKD and 3 + false and 501 - 3 - 74 /= false and not 4 and 3 + not 3 and 988 - 8460) end

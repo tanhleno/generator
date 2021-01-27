@@ -1,0 +1,1 @@
+program Xw : CS : takes l2 : boolean array; l, U : boolean; A0, A, D : boolean array; v6 : boolean returns boolean v : integer; chillax end x : takes u : integer returns nothing Y1G0a, h, H1 : integer array; when case - 54 : chillax end case 6 : chillax end otherwise : let h = 372; pop end; output "" . 93500 . "4\"\"a" end main : chillax end

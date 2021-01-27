@@ -1,0 +1,1 @@
+program Um : main : r, yBka : integer array; lb : integer array; when case true or false / false and 1 - Cq5 : while 7 : output "b-"; let C = 1 end end; let h[- not true - false - 890 - 48] = false and 207 + 27 >= - 67200 end

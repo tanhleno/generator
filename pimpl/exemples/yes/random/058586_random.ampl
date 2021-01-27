@@ -1,0 +1,1 @@
+program R : d : takes r22a : integer array returns integer array chillax end S : takes C, UD : boolean array; Hc4, j_, b, J3, v : integer array returns nothing output "" end main : while - false /= - false : chillax end end

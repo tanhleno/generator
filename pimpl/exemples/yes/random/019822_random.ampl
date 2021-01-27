@@ -1,0 +1,1 @@
+program N7 : X470 : takes Nq, KUa : boolean array; E : boolean array; F, VG7, y1O0 : boolean; w : integer array returns boolean chillax end A0f : takes pS : integer array returns nothing mh, Y2aa, b : integer array; chillax end main : oV, H, ke : integer array; while - (236) and(0) * (675) and 9 or false - false or 25 : chillax end end

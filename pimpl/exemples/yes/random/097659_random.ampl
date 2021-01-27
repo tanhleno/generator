@@ -1,0 +1,1 @@
+program A : main : when case true and(38100) and 033 > - false : chillax end case - false / 66 <= true or 5 - 62 : while 38 : input FKJ0a end; while 70 : pop end; input iuta; input w; pop end case - not 7 or 257 : pop 49 end case - 03 <= 36 : do jK(6) end case 0 = 4 : pop; pop end case 3 : chillax end case 6 : chillax end; output "" . 46 . 227; input H[43]; input q4O end

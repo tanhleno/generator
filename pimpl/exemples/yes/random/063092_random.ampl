@@ -1,0 +1,1 @@
+program yb2aa : f3 : takes H7 : integer returns integer array input F end s : takes PC0 : boolean; Y : boolean array returns boolean array chillax end main : IuT0 : boolean; pop - true or 4 and 763 <= - dm and 9 end

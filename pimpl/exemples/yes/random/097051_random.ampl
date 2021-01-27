@@ -1,0 +1,1 @@
+program a : main : when case f[8] and false / not 6610 and 9 - 9 * (3) : do O(25 = 5) end case - not false + 8 and 02 : let T24 = 7; output ""; when case 09 : chillax end; when case 5 : chillax end end case - D9 - 17 : chillax end otherwise : input xv[0]; input t[74]; do i(94); while 5 : chillax end end; input S1Jaa; pop; input Ef; do D9(5, 58500); while 9 : pop end end

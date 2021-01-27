@@ -1,0 +1,1 @@
+program f1 : A : takes Zv, P : integer array returns nothing chillax end main : t, AW5 : integer; On : integer array; pop; output - v and 3 - 5 - 2 . "Z" . 84; input pV7a[not 5 + 344 - 9]; let p[- 4 - 68] = 485; while 4690 = 9 : let sgT = 9 end end

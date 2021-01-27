@@ -1,0 +1,1 @@
+program j : main : X, pY : integer array; do KC7(not(9) and false / n4 - not X * true and 19 /= - not(871) rem true or(9) and 71300, M, false); pop not 0 <= 1; output - 9 - 54 < 0 . "\t>"; input V6Q end

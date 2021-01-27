@@ -1,0 +1,1 @@
+program Jd40a : q : takes m0, mU, w6 : integer array; B, d, b9 : integer array; yu, DtR, F, _ : integer; R : integer array returns nothing output - 4 < 5 end X1 : takes I : boolean array returns nothing do Nd6a(- 4, 7 = 8, 2) end main : do MUS(- 9 / cX(543) - false + false, true rem not 1 - true + 69 = - not 0 and 1, - not 3 and 1) end

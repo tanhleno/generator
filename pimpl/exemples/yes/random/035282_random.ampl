@@ -1,0 +1,1 @@
+program B : B : takes uC : boolean; z1, X89a : integer returns nothing M : boolean; chillax end main : r : integer array; P : integer; W7 : boolean array; R : integer; pop - (0) >= false; when case true - not 5 and 3 - 9 - 54 > - 56 + 0 - 1 : chillax end end

@@ -1,0 +1,1 @@
+program O2Y : M0 : takes t680a, mF, gfT : boolean; H, BI, fj, W : integer array returns integer array PF40, n8 : boolean; uZ3, N, lc : boolean; input h end q : takes B, Zz8, ma : boolean returns integer array input z7f[- 5] end U : takes V4_ : integer array returns boolean chillax end main : pop false; let EV = c3 and 1; while(66) and 85 - 44900 : chillax end end

@@ -1,0 +1,1 @@
+program UCy0 : w : takes C : boolean returns nothing let m[7 and 2 - 8] = array - false end s_l : takes U53 : integer returns nothing chillax end o0 : takes M : boolean returns integer O0, L : integer; input Y end main : chillax end

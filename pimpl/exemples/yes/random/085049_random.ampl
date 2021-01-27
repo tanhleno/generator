@@ -1,0 +1,1 @@
+program C : main : r : integer; pop; when case - false = - false and 25900 or 4 : when case 9 = 9 : chillax end; while 178 : pop end; output "" end otherwise : pop end; do vyra(- false = 02 - 90); while - 2 : when case 1 : chillax end end; pop 75 end

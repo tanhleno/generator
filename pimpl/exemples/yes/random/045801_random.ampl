@@ -1,0 +1,1 @@
+program o : h : takes J : boolean returns boolean array let l[true and 4] = 75 - 9170; let f[- 8 - 1] = array 7 - 1; do p(64 = 5, 7); pop; while 9060 : chillax end; while 18 : chillax end end main : h, i : integer; N : integer array; Kt : integer array; when case(56 = 3) * (62600) or(6) * false and 39 - 7 and 5110 : chillax end end

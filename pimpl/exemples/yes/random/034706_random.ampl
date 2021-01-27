@@ -1,0 +1,1 @@
+program A : M : takes n : boolean; X, S0X : boolean returns nothing x, i4Baa, M5, M0d : integer array; when case false and 1 - 2 - 414 = 23 : input A; input R; while 00 : chillax end end case - 0 - 667 >= 9 : pop end; output "<"; let Bf60a[14] = array 7 end main : chillax end

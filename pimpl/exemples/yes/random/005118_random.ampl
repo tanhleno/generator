@@ -1,0 +1,1 @@
+program X : N : takes G, si60a, En6, t : boolean array; U : boolean returns nothing YD : boolean; do j5(- X); input F[- 1]; let _[9] = 211; while 9 : pop end; while 0 : chillax end; input RZ end C : takes w, V5, U : integer returns nothing chillax end main : output "" . "" . 1 - 3 <= 47 end

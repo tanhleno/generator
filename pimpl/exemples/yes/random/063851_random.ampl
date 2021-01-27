@@ -1,0 +1,1 @@
+program hE80 : NO : takes g30aa : integer returns nothing chillax end n6 : takes w : integer returns nothing chillax end r : takes jAA : integer array returns integer chillax end y : takes s46aa, IY : boolean; H : boolean returns integer array chillax end main : chillax end

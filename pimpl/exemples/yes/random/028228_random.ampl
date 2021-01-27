@@ -1,0 +1,1 @@
+program f : dj : takes l, de60a : integer array; y : boolean array; _m, NF, Q, P, K33 : boolean array; q7 : boolean returns boolean array P, _6, gz, L : boolean array; chillax end main : output "75a" . "" end

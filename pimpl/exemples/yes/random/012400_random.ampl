@@ -1,0 +1,1 @@
+program M5 : Z : takes L4h, Doy, K : boolean returns nothing Q : integer array; Zk : integer array; chillax end main : h, g : boolean array; Lg, o62, P, uY, q, _13 : boolean array; VJ : boolean; r, N, HC, od : integer array; while true : do Ys00(75000 > 2, 6) end end

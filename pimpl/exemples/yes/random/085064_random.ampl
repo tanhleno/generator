@@ -1,0 +1,1 @@
+program u : main : g : integer; pop; while not(52800) and 42 and 4 or i8 <= t - 5 : output 82 end; when case true and 47 : chillax end case - 056 >= 6 : chillax end otherwise : pop; do Z(3); pop end end

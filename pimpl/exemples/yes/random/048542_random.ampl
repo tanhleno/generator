@@ -1,0 +1,1 @@
+program K780 : g : takes mT : boolean returns nothing g1 : boolean array; U3 : integer array; pc1 : integer; T : boolean; q : boolean; input d end main : ip, qW : boolean array; y, O : integer; chillax end

@@ -1,0 +1,1 @@
+program u_ : main : df, b : integer array; wE : integer; do v(- true * not(1) and true < WuJ(08), false = 7 and 26); do i(- I5(47000) and false and 2 <= not 7 and 558 + 0 - 5, MT7 and 0 or 4 - 3 = - 0); do n(not 3 /= 95 - 81); do u(- 66 - 72 >= 4, 83, 0); input f5 end

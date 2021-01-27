@@ -1,0 +1,1 @@
+program HK10a : U : takes x : boolean array; h : integer; D : boolean array; T : integer array; Y7Ca : integer array; v, Suq0a : boolean array returns nothing r, Y0 : integer; chillax end main : let Q = array S(5, 9) and not true - y46[2] * true and 4 + u6 and 28 or 5 end

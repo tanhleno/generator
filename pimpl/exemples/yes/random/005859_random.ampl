@@ -1,0 +1,1 @@
+program a : e : takes Fv7, Gs, v, E : boolean returns boolean chillax end p : takes j, l : integer array; _, XZ2, n : integer array returns nothing B, I1, HE5 : integer array; while - 9 - 47 : when case 61 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program R : main : while - jCp0a /= - z83 rem true - not 29 : while - 615 <= 033 : pop; pop; pop end; output 6 . 1; do Fv(5) end; output j + 1680 - 3 > 5 - 4; do A(false + 4, 91 - 5, 4, 0, 42400) end

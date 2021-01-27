@@ -1,0 +1,1 @@
+program EA5 : w6 : takes V, I, G6, Z8R : integer; n, x, G5Ga : integer array returns boolean array do a(true, - 21) end main : q : integer array; r1 : integer array; v : integer array; c, XB : boolean; o, _ : integer array; input tem; when case - true rem 8 and 3 = true and 5 : chillax end otherwise : input eZ2 end end

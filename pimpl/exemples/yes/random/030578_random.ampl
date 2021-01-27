@@ -1,0 +1,1 @@
+program _L : ljka : takes n2Raa, X8 : integer array returns nothing M, Q43 : boolean; chillax end SX1 : takes r : boolean array returns nothing v, U : integer; pop 47300 = 4240 end main : za : integer array; Bc, t1 : boolean; W, Pf : boolean; d : boolean array; t : boolean array; pop Wm and(9) and 1 + true - 9 end

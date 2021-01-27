@@ -1,0 +1,1 @@
+program W66 : Xk : takes b : boolean array returns nothing output "B2" end main : when case - true + F(5) * (5) - NC and 50100 < (4) * true : when case 5 - 99 > 121 : pop; when case 6320 : chillax end end end case not e or V and 54 : when case 9 = 74 : while 7 : chillax end; pop end; pop; pop end end

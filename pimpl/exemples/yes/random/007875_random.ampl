@@ -1,0 +1,1 @@
+program i : Hr7a : takes q, J2Ra, N650a, e3n : integer array returns nothing pop 30700 end C4l0a : takes J : boolean; _, A, GAE0a, M : boolean; kR, T2, YC9 : boolean; vF : boolean; w : boolean array returns boolean array output 74900 . "f" end main : chillax end

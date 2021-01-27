@@ -1,0 +1,1 @@
+program YzK0a : zd : takes v, I1 : boolean array; x : boolean array returns boolean array l70aa, Y, F5 : boolean array; D, T, e, c9e0a : integer; do mV(836 <= - 7, - 2 - 957, 1); when case 2 : while 1 : chillax end; while 11 : chillax end end; pop 9 end main : rR7, w, a1, T, M3, u : integer; input L[- p(5, 090) or Q(2)]; output - (405) or 5 - 44000 >= 1 - 1 end

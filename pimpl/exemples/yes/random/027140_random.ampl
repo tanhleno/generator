@@ -1,0 +1,1 @@
+program N : y : takes j, p : integer array; f9, J9j, c, Vf, x : integer array; es : integer array; O, B, o, X, l : integer; q2a0, D, FE00 : integer; V : boolean returns integer G6 : boolean array; input yj[139 and 9] end main : when case false / not(9) / false and 26 = - mVx rem not 0 or 5 - 43 - 074 : do e(7); let f[3] = 734 end case not u - (8) : chillax end end

@@ -1,0 +1,1 @@
+program p : main : y : boolean; pop; pop - u or 25 - 7; when case true - 233 - 8 /= - 37 - 2 : let y = array 035; output "~"; output ""; pop end case - 844 : output "8"; pop; pop end case 850 : when case 0 : chillax end end case 70 : chillax end case 329 : chillax end otherwise : pop; while 8 : chillax end; pop end end

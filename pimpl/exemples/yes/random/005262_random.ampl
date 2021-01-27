@@ -1,0 +1,1 @@
+program d5la : H5L : takes PM4, Ii, P, l18a : boolean array returns boolean array chillax end main : when case - true and 0 rem 627 and 69 : input t; output 8 . 0 . "7L\"a" end case - false * true - (7) > false and 0 - 2 : chillax end otherwise : chillax end end

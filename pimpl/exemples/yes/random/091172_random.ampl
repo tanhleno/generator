@@ -1,0 +1,1 @@
+program f3X : main : let V[- true + (30100) and true + true] = array - not true; output ""; while w and 2 = - 04 : chillax end; while 4 - 5 : do SP3(5); while 4 : chillax end; pop end; input RI4aa; let l520 = array 68 end

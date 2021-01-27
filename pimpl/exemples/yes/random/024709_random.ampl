@@ -1,0 +1,1 @@
+program T : e26 : takes E, s : boolean returns nothing let h = array - not 3 and 2340 + 4 end VATaa : takes a5 : integer returns boolean array output "" . "\"" end main : E : integer array; m5, L : integer array; R8, e : integer array; U, n4, BA : integer array; O, KY4, v : boolean; O6, _ : boolean; chillax end

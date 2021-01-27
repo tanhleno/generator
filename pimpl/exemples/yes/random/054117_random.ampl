@@ -1,0 +1,1 @@
+program E40 : z : takes E64 : integer array; M, U, Q90 : boolean returns nothing pop - 99 > 8; output "\\"; input S; input v7C; output ""; output "uC" end S : takes R : integer array returns integer array l4 : integer; Y, S, A : boolean array; pop end main : input R190a end

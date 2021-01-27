@@ -1,0 +1,1 @@
+program EX9 : J95 : takes L, E : integer; Sc : integer array returns nothing m, bz : integer; Vx : boolean array; chillax end B1 : takes j9Gaa : integer; DQF0 : boolean array returns nothing chillax end main : R, x : boolean; chillax end

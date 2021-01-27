@@ -1,0 +1,1 @@
+program I15 : g6 : takes S540a, LYh, sD2aa, N, en9a : integer; R : integer array returns nothing when case - (42400) < 9 : chillax end otherwise : output "!k"; when case 4 : chillax end end; while 427 - 5 > 2 : when case 93 : chillax end; output "\"Baa" end; when case 7 = 1 : chillax end case 2000 : pop end; do M8Ka(622, 37) end main : C, q, HC, t : boolean; chillax end

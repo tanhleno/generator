@@ -1,0 +1,1 @@
+program G82aa : s : takes yW : integer returns nothing h, Ny, Q : integer; chillax end main : H, yq, L58aa : integer array; k, F, N, dB6aa : integer array; I, X, Y : integer array; BJ, k, _4i : integer array; E : integer; while - y8jaa / true and 4 and 0 + true rem(86000) and 1 /= - 3 or(445) or 7 - 3790 : chillax end; output - (75300) + 5 <= - 0 - 7 . ""; pop 7 - 57 end

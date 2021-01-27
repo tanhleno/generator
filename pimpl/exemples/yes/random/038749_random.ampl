@@ -1,0 +1,1 @@
+program n : j : takes y0 : boolean array; cL8, r : boolean array returns integer array chillax end e88 : takes dH : integer array returns nothing LC2a, g, H, Gv : boolean; z, p2 : boolean array; r : boolean; k : boolean; let f = 526 = 4 end main : input Lv[false - false + false and 1] end

@@ -1,0 +1,1 @@
+program U : I : takes l, F4, w : integer; N : integer; X1m : integer array; i2W0, s8, b, VAD, KE60a : integer array; t, E, Gjz : integer returns integer array pop end main : B : integer; pop; do U(G1l[82] or false - 5 - 8 < - (93) and 07); output ""; while 697 - 8 : let i = 7880; let Y6 = 7940; pop end end

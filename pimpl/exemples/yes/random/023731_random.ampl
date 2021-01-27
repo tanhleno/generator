@@ -1,0 +1,1 @@
+program X1Ea : oXl : takes DY5, KmS : boolean returns integer Q6, X7Ta : integer; j680a, C51 : integer array; when case not 24 and 76 >= 47300 : output "" . "" end case - 7 - 61 >= 01800 : chillax end otherwise : pop end; while - 93 - 58600 > 89 : do v(485) end end main : ie : boolean; chillax end

@@ -1,0 +1,1 @@
+program o : C0 : takes i : integer array; LD : boolean array returns integer array pop end main : q : integer; J : boolean; g : integer array; o, Z, R9, rA : boolean array; a0 : integer array; pop end

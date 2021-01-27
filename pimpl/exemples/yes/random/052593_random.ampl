@@ -1,0 +1,1 @@
+program i : x : takes m : integer; Iq : integer; F8 : integer returns integer O, Pbp, SK2 : boolean; chillax end J0ia : takes Sy : boolean array; G2 : boolean array; p : boolean array; S7 : integer array; MV, z5S : integer array returns nothing R : integer; chillax end main : iy5aa : integer array; let gr4a[- true and 40 and false - (8550)] = - 002 / (6) and 3 end

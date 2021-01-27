@@ -1,0 +1,1 @@
+program gB : z : takes U : boolean; r, u, Sw : integer returns boolean chillax end main : Y : integer; BW, D, G : integer array; do F7W((48) + true rem true, - (4) - c and 742 > 7 and 2360 + 9 - 5, - false and 896, - 6 < 30600, 0, 1, 48) end

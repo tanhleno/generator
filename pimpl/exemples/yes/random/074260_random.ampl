@@ -1,0 +1,1 @@
+program E : main : Z, dJ10 : boolean; output not true or(4) - 7 - 6 <= false and 4 + 58 - 3; do w(not not 4 / false > V - 3 - 3, - (50) and 2 or 69, - 42); when case(121) and 569 - 921 - 527 : chillax end end

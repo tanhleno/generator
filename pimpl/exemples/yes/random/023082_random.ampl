@@ -1,0 +1,1 @@
+program NA : k100a : takes T, n : boolean returns boolean array when case(58) or 96 - 23 > 36200 - 30500 : when case 84 : chillax end case 02400 : chillax end; when case 71 : chillax end; while 5 : chillax end end otherwise : chillax end end main : pop - not false / not 1 - 79 + 5790; do a(true); when case - false <= - 0 : chillax end end

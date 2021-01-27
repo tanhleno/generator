@@ -1,0 +1,1 @@
+program a0y : u : takes A, G : integer returns integer array chillax end Rk : takes BeTa, zs60a, w : boolean; E, AFC, _74a : boolean; r : boolean; m : integer returns nothing I9H, J, c, H5 : integer array; when case 5160 > 42500 : while 46 : chillax end; when case 01300 : chillax end; pop end otherwise : input c9 end end main : chillax end

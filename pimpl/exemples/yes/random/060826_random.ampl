@@ -1,0 +1,1 @@
+program m : gZ70 : takes E28 : integer array returns nothing p : boolean; pop end h83 : takes _K2aa, Z : boolean array returns boolean array chillax end main : e7v, Dnp0a : boolean array; K2, a7 : integer; O4 : boolean array; output "\nYa" . - (78) and 71300 or 5 - 7 > - 3 . "" . "x\n" . 9 . 0 . "#7" end

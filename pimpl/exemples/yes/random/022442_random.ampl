@@ -1,0 +1,1 @@
+program oN40a : w : takes b6, m67 : boolean array returns nothing j0 : boolean array; do i1(not 4 and 5 - 9130 - 83) end Pe : takes H : integer returns integer s : integer array; nI : integer array; chillax end main : J : boolean array; w : integer; when case false - false >= false and false and 52300 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program P : v : takes M, j, c : integer array; Z : integer array returns boolean array h : boolean; output ""; output 9 = 31 . 47 end Lh : takes N : boolean; g, l : boolean array; b6Ga, W : integer; C, H : integer array returns nothing chillax end A : takes KAZ, KK3a : boolean returns nothing chillax end main : E, c : integer array; Q800, V, q : integer; chillax end

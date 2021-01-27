@@ -1,0 +1,1 @@
+program Z : main : rh3, p9 : integer; pop - 24 or false >= not 781 and 7 - 3; input v4z0a[- c rem(04) and 76]; when case true >= 3 - 436 : chillax end; while 460 - 4 > 575 : input b; when case 0 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program YX : S : takes x : integer returns nothing pop - 00 - 8 /= 5; pop end main : c : integer; Q7j, k, m1 : boolean; Y7W : boolean array; X : boolean array; while not not true / not false and not 13 and 0 /= - false * F5v and 2 : chillax end end

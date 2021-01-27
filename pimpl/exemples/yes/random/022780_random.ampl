@@ -1,0 +1,1 @@
+program U : O5 : takes C290, T : boolean array returns nothing when case - not 8 and 9 > - 1 : when case 7 : pop end end otherwise : chillax end; while 725 - 0 > 57700 : chillax end end main : J, Z, G : integer; output ""; do w(- false rem 1 and 01 < - u and 68 - 9 - 5) end

@@ -1,0 +1,1 @@
+program P : Ex : takes x : integer array returns nothing k : boolean; chillax end main : gb, N : boolean; o28 : boolean array; when case 65 + iX or not 6140 and 98 or 6 : chillax end case Nr and true < - 1 - 4 - 1 : chillax end case not 5 and 8860 /= 4 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program u51a : X : takes J, C, op, sk, fL5, XL, C, e : boolean returns integer array bmr, V : boolean array; z, f : boolean array; O9, _ : integer; Pg : boolean; _C : boolean; x : boolean; do m2(not 7) end main : chillax end

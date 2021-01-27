@@ -1,0 +1,1 @@
+program m : h4 : takes Z, W9, I : integer array; y : boolean; Y : boolean returns nothing chillax end g : takes z6, Dy, T : integer array returns nothing output 0 = 1 . 390; pop; when case 28 : chillax end end sS : takes x660, c17 : boolean returns boolean array let T = 3 end main : chillax end

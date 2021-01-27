@@ -1,0 +1,1 @@
+program d : main : let X[- true * true and true or 46800 and 35 and 6] = false / (0) = (033); let d = array(4) and true and 91 or false and 44 + 74 - 6; while - false and 47800 or 9 : do f(76) end end

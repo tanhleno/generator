@@ -1,0 +1,1 @@
+program c : E6j : takes A : boolean array; k : boolean array; r8 : boolean returns nothing input o[E]; pop 12; while 9 = 5880 : pop end; do N(8, 270) end main : L, O2, A1j, au30a : boolean array; v, I, g : boolean array; chillax end

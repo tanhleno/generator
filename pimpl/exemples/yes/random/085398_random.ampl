@@ -1,0 +1,1 @@
+program O : main : yu50a : integer; while true * (9) < - false : chillax end; when case - (2) < - 68600 : output 1 . "" . "" end case - true and 69 < 2 - 1 : chillax end; output "2\"" . 8980 = 94; when case - 9200 = 087 : let p = 9; pop; pop end end

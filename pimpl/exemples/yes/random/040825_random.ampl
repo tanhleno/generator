@@ -1,0 +1,1 @@
+program z : l24a : takes r : boolean array; f8ka : integer array; Mpa0, w : integer array; rlMa, Q : boolean returns nothing V01a : integer array; t : integer array; while - (0) and 10 + 77700 /= - 57 - 7 : output "" . ""; when case 35 : chillax end; when case 3 : chillax end end end main : chillax end

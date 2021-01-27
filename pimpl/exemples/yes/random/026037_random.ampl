@@ -1,0 +1,1 @@
+program p : u : takes f26, R : integer; G84 : boolean; p, dK : boolean returns nothing G : integer; _8 : integer; while - not 4 or 262 >= 98 - 3 : chillax end end main : zU : integer; l, V1 : integer array; _, Cx, VL6aa : boolean; b2, h1, J20, Q : boolean array; chillax end

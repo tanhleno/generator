@@ -1,0 +1,1 @@
+program jo : N : takes R, u, D, X2ca : integer; j : integer returns boolean let qEla[- 69600 + 7] = array - (4740) - 4 - 290 end main : m910, f9, bj : integer array; K14a, C : boolean; zr, uqda : boolean array; do S(- nQ70a[188], not false + JG and 89 < - false - 34500 - 67700) end

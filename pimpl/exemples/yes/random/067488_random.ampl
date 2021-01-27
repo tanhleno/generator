@@ -1,0 +1,1 @@
+program kI4 : main : do cJ2(not 0 / 0 + not jw and 4 > - (8)); when case - (7) rem not 8 = (3) and 0 or 35100 : chillax end case Q9x0 : output "" . ""; let H5oaa = 020 end case 67 - 6 >= 8 : chillax end otherwise : chillax end end

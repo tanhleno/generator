@@ -1,0 +1,1 @@
+program z : w4 : takes i3, RA6, s : boolean; W3Q : boolean returns nothing I84, oLq : boolean; E7, f : integer array; while false and 4490 - 11200 : chillax end end m7 : takes Z65, KY, c : boolean returns boolean let qp6 = 3 = 388; output "" end main : chillax end

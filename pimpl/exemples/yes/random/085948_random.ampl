@@ -1,0 +1,1 @@
+program QE : main : d : integer array; nB5, G : boolean; UY5a, d6, L, I7, hp : integer array; _ : integer; d : integer array; K, j : boolean; B : boolean; input M_f0a[- (6) + false + (03) - 152 - 08]; let x[true and not 40 and 85 or true] = array zE3 or(4) and 69; do Ao6(- not 4580 and 49 + 6 - 4, 3, 1640); pop end

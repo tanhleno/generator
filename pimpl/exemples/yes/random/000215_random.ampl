@@ -1,0 +1,1 @@
+program H : y : takes JR, J5M, cy3aa, t8, b, U, d, c : boolean array returns nothing pop end main : do _s(false / (99) * 89900 and 78); output "" . ""; do O(- (310) and 7 >= - 90400 - 902); when case 734 : chillax end otherwise : when case 3 : chillax end; pop end; output "" . 3 . "" end

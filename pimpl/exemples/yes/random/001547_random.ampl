@@ -1,0 +1,1 @@
+program yx : W : takes a, B, aO, jP, r, oS6 : boolean returns nothing bz, u, m9, xW, KL : integer array; AK, yA : integer; x, C : integer; when case - not 9 - 1520 = - 380 - 70500 : output 9 . "n\n0a"; when case 3830 : chillax end; let J59a = 4; pop end case - 9 < 7 : do T(7); let D0 = 71000; pop end otherwise : chillax end end main : e6 : integer array; chillax end

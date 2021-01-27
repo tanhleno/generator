@@ -1,0 +1,1 @@
+program iDB0a : y : takes E1, d, UV, sq3 : integer; g, H : boolean array returns nothing when case 80300 + 496 : while 4 : chillax end; pop end case 45 : do H1(2); pop; pop end otherwise : chillax end; pop; input F2[202]; input Y end main : LK30a, u9 : integer; chillax end

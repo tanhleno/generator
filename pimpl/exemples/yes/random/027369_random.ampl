@@ -1,0 +1,1 @@
+program b64 : I : takes t, e : integer array; s0Pa, h, D : boolean array returns boolean Bd, Ojg0a : boolean array; b01, Ug5, R8, E : boolean array; chillax end main : when case true rem 061 * true and 6 or true * false = - (5) : chillax end otherwise : input suh[6880] end; let tl = - j and 5 end

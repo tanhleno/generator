@@ -1,0 +1,1 @@
+program J : main : k8, u, s620, ov50 : integer; when case - true rem true * false or k(17) > - false : chillax end case not not 909 - not 13 + 2 /= - false + 6 - 6 : when case 7 = 1 : chillax end end otherwise : chillax end end

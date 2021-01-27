@@ -1,0 +1,1 @@
+program b : N : takes HOqaa, G8, l : boolean array; a : integer; iT9a, d, H4h : integer; C : integer returns integer array chillax end main : m : integer; input IE[7 / false and true + true and 7 and 5 + F]; let w[- 8 + W1] = Q8Taa and 51 or 206 > - 7 end

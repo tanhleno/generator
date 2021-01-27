@@ -1,0 +1,1 @@
+program W : _6 : takes qvs0a : integer array; s : boolean returns nothing chillax end a : takes D, a, u, _, v, O4, pu9 : boolean returns nothing output 280 = 9080 . 3 end main : when case(082) - (7) < _b : output 1 = 15 . 5 . 472; input is end end

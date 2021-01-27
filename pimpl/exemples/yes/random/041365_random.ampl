@@ -1,0 +1,1 @@
+program Bc10 : l : takes nW : boolean array; g38 : integer returns nothing t9, I95a : boolean; P : boolean array; E, C : integer array; output - 4190 . "" . "" . "INaa" end main : w, C96 : boolean; p5 : boolean; chillax end

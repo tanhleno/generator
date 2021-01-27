@@ -1,0 +1,1 @@
+program cc : Y03 : takes cZ7, q, F4gaa : integer array returns nothing u : integer array; J2 : boolean array; I7, F93 : integer array; output - 1420 - 685 /= 890 . 8 . "" end wyj : takes J, c : integer returns nothing input n; when case 0390 = 35900 : output ""; pop end case 2 : pop end otherwise : pop end end main : chillax end

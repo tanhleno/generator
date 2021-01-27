@@ -1,0 +1,1 @@
+program o : main : A : integer array; output "" . "^4" . 8 < 3 . "r4\"a"; when case W * not 1 + true + 5 - 6 > (8) and 1 : let n[672] = 79; let d2z = 777 end case not 36 > - 8 - 5 : chillax end case 319 >= 8 : chillax end; output "" . 9 = 9 . 9 . 1; let f_3a = 15; input G_[74400]; output "" . "" end

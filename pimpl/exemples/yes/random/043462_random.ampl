@@ -1,0 +1,1 @@
+program J7 : I : takes S880 : boolean array returns nothing chillax end oL : takes l, J, M : integer returns nothing chillax end main : A7, m8, g : integer array; Lo4 : boolean; o : boolean; input Px end

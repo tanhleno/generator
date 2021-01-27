@@ -1,0 +1,1 @@
+program pR : i : takes y17, N, a6 : integer array; X : integer returns nothing dx, D9, N : boolean; l, i : integer array; G : integer array; chillax end main : output true rem not 280 or false and 18 + 9 <= false; when case - mIs0(8020) * 093 > 8920 and 0 : chillax end case - true and 9 = 6 - 8 : chillax end case 81 - 0 <= 5 : when case 1 : chillax end; pop; pop end end

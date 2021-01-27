@@ -1,0 +1,1 @@
+program kX : main : let e[- (11 = 81) * (6) / not 8 + not false and 13 and 547] = not V or 1310 and 4330 or 01600 /= cP6a and 6; do _(- false * 76 /= - true and 02, Y and 88 or 73 - 93 > - 96 - 4) end

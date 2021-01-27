@@ -1,0 +1,1 @@
+program K88 : d : takes L : boolean returns boolean array j, z, jz : integer; S : integer array; while false and 24 or 17 : pop; pop; input o end end main : Z6U, g8 : boolean array; hSk0a, awb, oeB0, p, m : boolean array; chillax end

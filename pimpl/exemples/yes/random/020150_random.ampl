@@ -1,0 +1,1 @@
+program v : y230a : takes k, W : boolean array; c : boolean returns integer array while - true and 2 : input b end; when case - 0 >= 326 : chillax end otherwise : while 7 : chillax end; pop end; do z(1 = 9, 2); when case 814 : pop end end os : takes L85 : boolean returns integer k6 : boolean array; chillax end main : chillax end

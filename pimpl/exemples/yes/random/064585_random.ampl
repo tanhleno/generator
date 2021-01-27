@@ -1,0 +1,1 @@
+program _Q6a : X9Na : takes v : integer returns nothing tSYaa, g : integer array; chillax end main : VS : boolean; c, CL, cCL : boolean; HV1 : integer array; H4Oa, p : boolean array; zhu, o8 : integer; FvU0a, Y3 : boolean; O : boolean; output 76500 + 2 and 3720 >= (06) and 58 - 6 end

@@ -1,0 +1,1 @@
+program PQ80a : j6l0 : takes X, sg : integer; X, t7 : integer array; C, x0, d870 : boolean array returns boolean _, k_4 : boolean; H0, Jb7, B, C : integer array; T, vW : integer; input Vy; when case 89 - 1 : chillax end; let M[9] = 8 end main : chillax end

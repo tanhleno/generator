@@ -1,0 +1,1 @@
+program T : main : when case - (0 = 6) or true / 236 or 96 + 00600 - 8 : pop; do Q(1, 25000); let O[33600] = 71; when case 04500 : chillax end end case - not not 79 and 58 and 6 /= 9 and 4 - 1 - 2 : chillax end end

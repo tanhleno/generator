@@ -1,0 +1,1 @@
+program F : main : when case true - (9) * true - true - 74 : input kX end; let djc0a = true and 24 or 019; when case 883 >= - 060 - 8 : chillax end case 31 : when case 11100 : chillax end end case 46 : when case 9 : chillax end; pop end end

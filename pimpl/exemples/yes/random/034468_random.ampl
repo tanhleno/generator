@@ -1,0 +1,1 @@
+program l : k : takes G : boolean; cL, I : boolean array; S64 : integer; YBn0 : integer array returns integer array xq, _E : integer; chillax end main : q, k : boolean; while(1 = 06) + true * false or a9 and 98 - 06 : chillax end; let D[- (022) rem 8 and 6] = - r and 5 - 1100 - 19; do X(- (52200), 4 - 0 = 040) end

@@ -1,0 +1,1 @@
+program t : main : when case rp[9] and 5820 + true /= - X(5) rem 74 and 7 : chillax end case(5) + true and 25 : when case 29 = 157 : while 4500 : chillax end; pop end end otherwise : when case 881 = 594 : input M end otherwise : pop end end; when case - true - R and 56 : do k(8); pop end end

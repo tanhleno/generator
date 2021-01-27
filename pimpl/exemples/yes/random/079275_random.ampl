@@ -1,0 +1,1 @@
+program A : main : FU60a : boolean; k : boolean; output - 64 and 83100 and 7 or 9 or 287 - 2 >= true and 76 . - false and 1 - 7080 - 33400 < - 01; do P(true - (8) + 5 - 64 /= false + 9, - m8 <= 5 - 0) end

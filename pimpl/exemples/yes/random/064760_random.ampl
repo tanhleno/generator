@@ -1,0 +1,1 @@
+program qd : tZ80a : takes wIT0 : integer returns nothing dN : boolean array; chillax end hFg : takes IT, q0k : boolean array; b, R : integer array; r : boolean; k : boolean returns integer array chillax end main : chillax end

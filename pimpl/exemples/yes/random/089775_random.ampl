@@ -1,0 +1,1 @@
+program o : main : let W = array(950 = 64) and not kx / false and 2 + false; let S = t13 or 7; let p[not 3] = array false and 7; when case - 32 - 333 >= 8970 : while 5 : chillax end; input e; pop end case 92100 = 01 : chillax end otherwise : chillax end; output 0 . 387 . "m)a" end

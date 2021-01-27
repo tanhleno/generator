@@ -1,0 +1,1 @@
+program XS : DGg : takes k, v : integer returns nothing q8C : boolean; I, F1 : integer; let O[9 + 4] = array - true end main : A4 : integer; P3, v, P : integer array; output - false - not 682 <= 89 and 3 or 29 - 12 end

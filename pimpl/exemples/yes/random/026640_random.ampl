@@ -1,0 +1,1 @@
+program l : Zt : takes z6, H : integer; Q : integer array; C, Cmm, x46 : integer returns nothing Ak : boolean array; chillax end NvG0a : takes UQ30a : integer array; K6, a : boolean array returns nothing W, e, f : boolean array; v01 : boolean; c8, W : boolean; y76 : boolean; vHS0a : boolean; do I39(- 67 - 28800) end main : chillax end

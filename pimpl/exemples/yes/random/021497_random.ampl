@@ -1,0 +1,1 @@
+program Jw : jz : takes i, f : boolean array returns integer array output "" end zs : takes Ha20a, B : integer; HT2 : boolean array returns nothing C11, w70 : boolean; e : boolean; L, U : boolean; chillax end BL : takes k97, X19a, lH00 : integer array returns integer output 361 end main : when case - not(18) >= true : chillax end otherwise : chillax end end

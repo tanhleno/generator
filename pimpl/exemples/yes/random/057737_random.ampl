@@ -1,0 +1,1 @@
+program X52a : q : takes i : integer array returns boolean array jR, w5a : boolean; yc : boolean; chillax end main : D, d5 : integer array; p : integer; dc : integer; let M = array - not not false / false / true and 1 or false / not 65 and 8 end

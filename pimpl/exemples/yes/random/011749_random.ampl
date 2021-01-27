@@ -1,0 +1,1 @@
+program Y : M : takes d08, R, A : boolean returns boolean let W[67 and 41] = array - false or 5000 - 8; when case - 4 = 709 : while 9 : chillax end end case 4150 = 37 : chillax end case 86 : chillax end case 20 : chillax end otherwise : chillax end end main : L : integer array; chillax end

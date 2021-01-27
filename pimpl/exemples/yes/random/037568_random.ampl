@@ -1,0 +1,1 @@
+program E : m : takes gO40a : boolean array; _, y, U, m, o, h2 : integer returns integer array t : boolean; chillax end main : rsxaa, hx : boolean array; B : boolean; input l; when case true - (53) /= true : chillax end case - true and 708 : when case 24 : pop end case 6 : chillax end otherwise : chillax end; do w(28); pop; pop end otherwise : chillax end; do N(65) end

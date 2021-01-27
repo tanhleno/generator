@@ -1,0 +1,1 @@
+program U : W5 : takes B6C : boolean returns integer iN6a, k40, _, C6 : boolean array; VP9, ui6a, m, I : integer array; chillax end main : B640 : boolean; C, i : integer; O, O, la, D : boolean; let T[- not not true * not not 99 * true and 376 + not H + L9 or 346 - 0] = array - T * true end

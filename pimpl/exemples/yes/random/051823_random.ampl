@@ -1,0 +1,1 @@
+program uqVa : Q : takes V : integer; W : boolean array; y90 : integer array returns integer array when case(19) - 230 : chillax end case - 59 - 8 < 30 : chillax end case 277 = 40 : while 520 : chillax end; pop end end main : w : boolean array; chillax end

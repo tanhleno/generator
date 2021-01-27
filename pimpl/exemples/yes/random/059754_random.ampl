@@ -1,0 +1,1 @@
+program c99a : j : takes d8 : integer array returns nothing chillax end hm7 : takes y25, E : integer array returns integer r, jh, qW6a : integer array; z, X, btJ : boolean; when case 1 < 3 : chillax end case 80 : chillax end; let vB = 2 end FnL0 : takes E, te : boolean array; p2 : boolean array returns nothing do C40(473) end main : chillax end

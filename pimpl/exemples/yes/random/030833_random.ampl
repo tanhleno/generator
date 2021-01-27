@@ -1,0 +1,1 @@
+program F7 : V22 : takes Q, f5 : integer array returns nothing H : integer; chillax end y : takes aa : boolean array returns nothing when case - 49 > 6 : chillax end case 5 : chillax end case 743 : pop end case 1 : chillax end; do GG2aa(185, 120) end main : while - i(3, 4) / not 9 rem(15) and 432 - true - AwT and 1 - 8 : chillax end end

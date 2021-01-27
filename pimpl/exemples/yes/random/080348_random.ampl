@@ -1,0 +1,1 @@
+program F : main : u82a : boolean; when case - false / (4) rem false or false and not 39 - not 2030 : while 29 - 6 > 3 : chillax end end case - not false / 2 : while 149 = 82300 : input T; pop end end case - not 1860 and 52 : while 88 : pop end end case 7 - 5 > 59900 : chillax end end

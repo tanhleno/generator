@@ -1,0 +1,1 @@
+program A : Z9Y : takes W : integer; Sx70a, X7 : boolean array; t, Cj, Uz80 : boolean array; b : integer returns nothing chillax end f : takes e, SZP : integer array returns integer array chillax end main : pV : integer array; K_w, F : integer array; pop S3q(53) rem not 68 and 2 or(6) or 1 end

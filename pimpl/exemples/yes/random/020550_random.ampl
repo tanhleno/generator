@@ -1,0 +1,1 @@
+program x : Q : takes Q, L : boolean array; Nu : integer array returns integer array chillax end k6 : takes k1, o : integer array returns boolean chillax end main : x, V, B, x4, q, rf : boolean; B : integer; output "\\9" end

@@ -1,0 +1,1 @@
+program f : beC0a : takes P, HK : boolean array returns integer J : integer array; let Z2 = 437; input V; pop end main : e : boolean; hh : integer array; let C = array - (2 = 8) / uS90a[4] * 9 - 52600 end

@@ -1,0 +1,1 @@
+program N : f : takes ur2a, R6Z0 : boolean array returns nothing input E end j : takes Y : boolean; Y1, E : boolean; x : boolean returns nothing U7 : integer; chillax end c : takes b, B, C, s4p, ex20 : integer; P0, L : boolean array returns nothing M, Wc5a : boolean; Z : boolean; pop end main : chillax end

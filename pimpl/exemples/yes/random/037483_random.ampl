@@ -1,0 +1,1 @@
+program B : F : takes u880 : boolean array; x, J, WgEaa, y9_0, abraa, g, WO5 : integer array; N_Jaa : boolean array; i240a, S, X, T, G26 : integer; Ob, z : boolean array returns nothing wl, K8, X : integer; while(13) and 7 : pop 0 end; pop 1; let B5u = 838; output ">" . "" end uCVaa : takes q, d : boolean array returns integer array chillax end main : chillax end

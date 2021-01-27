@@ -1,0 +1,1 @@
+program W : F : takes C : boolean array returns nothing do x(6 and 50 <= 1, 7 - 2 >= 2, 9) end L30 : takes H : integer array returns boolean output 4; let vX = 102; do faQ(8, 0) end f : takes z420 : boolean; LN, hd9aa : boolean array; V : integer returns integer array chillax end main : E : integer array; N6 : boolean array; chillax end

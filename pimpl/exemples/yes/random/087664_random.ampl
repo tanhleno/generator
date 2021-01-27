@@ -1,0 +1,1 @@
+program Q : main : Ik : integer array; while - O(48) - 1 and false and 4 - true + 0 : while 9 : while 15 : chillax end end; when case 2 = 2 : chillax end; when case 6 : pop end case 84 : chillax end otherwise : chillax end end end

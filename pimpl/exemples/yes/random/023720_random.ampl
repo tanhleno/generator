@@ -1,0 +1,1 @@
+program r7b0 : C : takes zT, d : boolean returns integer W, wm : boolean; output "" . "" . "0[aa"; input R[- 6]; output 1 . ""; output "31aa" end IP : takes CJMaa, p8, P5, O3 : integer; D7, Zo1, D : integer array returns integer Pvlaa : integer; chillax end main : pop end

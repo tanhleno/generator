@@ -1,0 +1,1 @@
+program v87aa : U : takes _130a : boolean array; f : boolean array; ku : integer; h, c : integer array returns nothing n : integer array; vZv, r : boolean array; chillax end main : let b8 = array - c(1) and u[2] and(18) and 5; input D[- otI / false] end

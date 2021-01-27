@@ -1,0 +1,1 @@
+program m7 : C : takes yZ : boolean array; N : integer array returns integer n, b, l, pc5, PC_ : boolean; uX : boolean array; output - 5 - 702 = 98 . "\t0" . 19 . "zT"; pop 8; pop 34; pop end main : do b(- 0); output "95" . 7 . 9 end

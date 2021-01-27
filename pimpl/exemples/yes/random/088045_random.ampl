@@ -1,0 +1,1 @@
+program Y7 : main : input J8iaa; pop - (1); when case false + 28800 = - 7 : chillax end case 506 - 00 < 09 : chillax end case 0030 = 0 : input I; pop end case 2 : pop end otherwise : when case 9 : chillax end; input A; pop end end

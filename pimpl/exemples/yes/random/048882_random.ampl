@@ -1,0 +1,1 @@
+program EH6 : _ : takes Hg : boolean returns nothing input t end V : takes we, f : boolean; u : integer; leqa : integer array; I : integer returns integer array chillax end c : takes E : boolean array returns nothing while 879 = 12 : when case 8 : chillax end end; pop 257; do M7(4) end main : _ : boolean array; let B6 = array(4) - 5 + W and 5 end

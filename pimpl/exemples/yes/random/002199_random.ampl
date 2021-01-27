@@ -1,0 +1,1 @@
+program nw : DU1aa : takes PZe, YL, O, w7, j77 : boolean; e, Y1 : boolean returns nothing chillax end main : z, d9T, H00, R3, n, q, Ue : boolean array; K75 : integer; pop; pop; when case - AkPa : while 595 : chillax end end; while - 18 : when case 28 : chillax end; while 6 : chillax end end; pop; input N1n0[8]; when case 6 : chillax end; do _(1); pop end

@@ -1,0 +1,1 @@
+program r : AX8 : takes C8c, J42a : boolean; TO : boolean array returns nothing chillax end main : do C(true, 15 / false and 2680, - false >= - 3 - 5, 8 > 6, 2); pop; do x(- (9180) and 764 or 4 - 6 < - 0 - 1, - 81700 - 68, 1); pop 4; do s(1) end

@@ -1,0 +1,1 @@
+program W0D0 : main : d0, k : integer array; when case not S0(57) and false : when case - 10 : while 3 : chillax end; do Y79(3); pop end; pop 7 end case - 072 * not 76 and 4 + l020a and 18000 >= (58400) or 58 : chillax end case - false and 7 + 6 : chillax end case 73400 - 494 : while 82 : chillax end end end

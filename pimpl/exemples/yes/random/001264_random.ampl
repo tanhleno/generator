@@ -1,0 +1,1 @@
+program l0 : p : takes N, j, s1Y0, AR50a, f, OaG : boolean array; i, v : boolean returns integer chillax end main : input s; when case - true - OP and 9 or 2 < - x1 and 16 : pop 9; let aE[0550] = array 9; do bF(63500) end otherwise : chillax end end

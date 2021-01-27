@@ -1,0 +1,1 @@
+program L : K : takes __80a : integer returns integer while - true + 16 : do F(43) end; when case - 9 : let mn8aa = 47 end otherwise : input Gpk0a; pop end; input B; pop 47 end main : S : integer array; W, xR30 : integer; input g; pop; when case - K and 741 or 639 : chillax end case - 9 - 93 /= 9 : chillax end case 5 = 5 : chillax end end

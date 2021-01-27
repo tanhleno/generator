@@ -1,0 +1,1 @@
+program m6 : z6 : takes E, yN9, x5 : integer array returns integer array A, po3, u95a : integer array; l : boolean; chillax end main : output "" . not 69 and 70 >= 962 . "" . 16 = 0; output "" . 831 /= 9 end

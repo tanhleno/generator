@@ -1,0 +1,1 @@
+program BH : a : takes T : boolean array returns integer array chillax end main : tfc0a, IZ, W4V0, M9, V : boolean; a89aa, WZ : integer; KF : boolean array; Z, P : boolean array; output(0) - true and 7; pop end

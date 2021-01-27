@@ -1,0 +1,1 @@
+program M : L4 : takes G, Rq, q : boolean; Q : boolean array; h : integer array; q : integer array returns nothing chillax end main : input I[(48 = 707)]; do z(- V(98) rem(8)); do Q9(- false and 392 - 4 - 586 /= - 3 - 6400, 72200 - 0, 23 = 0) end

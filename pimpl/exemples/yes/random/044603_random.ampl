@@ -1,0 +1,1 @@
+program Y : r1 : takes i : boolean array returns nothing g : boolean array; Fu4, kV : integer array; g81 : integer array; z, s : boolean; chillax end FDL0a : takes V : integer array returns boolean array z : integer; x : boolean; R42aa : boolean; let e = 7; when case 0 = 498 : chillax end case 9 : pop end case 3 : chillax end otherwise : pop end end main : chillax end

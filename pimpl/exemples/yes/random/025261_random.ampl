@@ -1,0 +1,1 @@
+program K3 : w7 : takes X, X : integer; ZE90, Cdiaa, b : boolean returns boolean array chillax end main : u, _3, j : integer array; do He6aa(w8[1] - (9) > - not H9T / 91 + 594 and 6 - 6, (7)); do uG(true, M and 9 or 40 < 7, 321 - 2 /= 219, 7 = 1790) end

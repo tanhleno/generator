@@ -1,0 +1,1 @@
+program T : O : takes S410 : boolean returns boolean chillax end Q : takes a35, d, s1 : integer returns boolean Oa, Y : integer array; Z, k, G : integer; chillax end main : pop; let F[(4)] = array false * false or O7 and 6 - 96; output "~)0a" end

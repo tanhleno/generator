@@ -1,0 +1,1 @@
+program Jm : B : takes Z, n420 : integer returns boolean chillax end w : takes g : boolean returns integer O, Y : boolean array; output 41 = 2 end main : SD9, p6a0a : boolean array; _8Oa : integer; chillax end

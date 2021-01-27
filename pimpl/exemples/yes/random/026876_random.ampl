@@ -1,0 +1,1 @@
+program y : X1 : takes Xg, D : integer; M : integer returns boolean array chillax end j : takes X5 : integer array returns nothing input A end main : Bf00, u35aa : boolean array; output - (23300) * false and 4 - false end

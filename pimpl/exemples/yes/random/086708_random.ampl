@@ -1,0 +1,1 @@
+program XX : main : OJr0a : integer array; t : integer; Mx9a : integer; when case - true + X[131] / not 254 and 7 >= (55100) - true or 10 - 84800 : chillax end case D + 31 and 5130 - 831 : chillax end case - 887 and 1 - 1 - 564 : let j = 3; pop end case 1 /= 5 : let w = 0; do s(8) end otherwise : chillax end end

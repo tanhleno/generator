@@ -1,0 +1,1 @@
+program L8i : HM : takes fta0a : boolean array; W9u, t : boolean; x, dw, bo : integer array returns nothing do Z9N(- e8 > - 96 - 75) end main : d : integer array; Tk : integer array; while - (76 = 9) / l[391] / 67 : chillax end; output - (8) and 679 or 7 - 2; pop; do M(1 >= 0, 16); input Q; let L[1] = array 71 end

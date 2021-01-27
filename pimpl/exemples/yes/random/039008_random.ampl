@@ -1,0 +1,1 @@
+program A : e : takes nH : boolean array; c8J, wT : integer; e, H : boolean array; K, I, n : boolean array; cm, mqS0a : boolean; Zkn : boolean returns nothing N : integer; z, NB7a : integer array; when case - false and 0 = 622 : do t(5) end case - 1390 : input P end case 1 : chillax end case 1 : chillax end end main : chillax end

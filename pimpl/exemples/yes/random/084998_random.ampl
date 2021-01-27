@@ -1,0 +1,1 @@
+program L : main : K47a : integer; pop - false or(58) - 1 >= 0; while(1) - U7 and 619 or 48 < - 3 : output 6 end; when case false and 7 or 36500 : let SK[7] = 2; input F5U; input _; pop end; while 3 : do p(91) end end

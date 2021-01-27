@@ -1,0 +1,1 @@
+program To80a : b : takes _, a8p0a : boolean array; N, Dz : boolean; Lu, pYJ, y5 : integer returns nothing chillax end _ : takes y3, L08aa, V, _, u, d, G4 : boolean array; I, V9 : integer array; F : integer array; R3, u, pn60, ws : integer returns nothing L0I, pw4a : boolean array; chillax end main : chillax end

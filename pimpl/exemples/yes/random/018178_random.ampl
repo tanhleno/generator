@@ -1,0 +1,1 @@
+program r59 : Wf : takes q9, OH9a : boolean; p : integer; X06 : boolean returns nothing let yg = array(00) + 1 - 42; let R[- 9 - 9] = 37 = 0 end main : b, Q : integer; output "=" . KVa and 8 <= 7 - 911 . 665 . 833; pop false and 42; do vUca(- false and 8 >= - 3, 0 - 7); do l(- 8 <= 5) end

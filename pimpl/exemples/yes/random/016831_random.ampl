@@ -1,0 +1,1 @@
+program E3N : FF : takes O, E : boolean; HR, u, L, D : integer; I, xuF : boolean returns nothing let w[94 and 68] = 29 end Q : takes Eiy0a : boolean array returns nothing _y1 : integer array; chillax end m : takes MSQ : integer; Lz : integer; q, S, x1, f0 : boolean array returns boolean array Fy, nTH0 : boolean array; chillax end main : u8 : boolean array; chillax end

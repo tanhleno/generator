@@ -1,0 +1,1 @@
+program C : main : while not false * true > - not false and not 207 or true and 0 or 98 - 44500 : when case - 7 : chillax end case 7 = 46 : input W; pop end; while 15600 : pop end; do HT(63, 5) end; when case zD - F35a : let MgBa = 74 end; input q6; pop 8 = 91; output "dO" . 07 end

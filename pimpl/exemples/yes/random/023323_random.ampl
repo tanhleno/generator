@@ -1,0 +1,1 @@
+program W : en6 : takes zb2, f : boolean returns boolean let y[e5 and 8] = array - (8) and 12; output "" . "/\"" end N : takes b9, x6n : boolean; R : boolean returns boolean array Q, S : integer; p1Saa, m : integer; Or, lw7 : boolean; input mh; let MWE0a = 4; when case 32 : chillax end case 3 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program I17aa : c : takes m1 : integer returns nothing chillax end h : takes H, u, L, my4, X, N68, t5 : boolean; ue, K4d, n5 : boolean array returns boolean array while - 3 : chillax end; input K; output 3 end main : chillax end

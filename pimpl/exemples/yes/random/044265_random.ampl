@@ -1,0 +1,1 @@
+program I24 : tRg : takes ehD0 : boolean array returns nothing u, K : boolean array; J : boolean array; V : integer; chillax end main : D : integer; P : integer array; X, oG5 : integer array; output "w" . ""; output "W"; when case not 76 or 3 > 74 - 0 : let W = 6; when case 0 : chillax end; while 2 : chillax end end case 287 = 5 : input Xs end otherwise : chillax end end

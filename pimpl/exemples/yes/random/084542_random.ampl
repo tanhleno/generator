@@ -1,0 +1,1 @@
+program fg : main : A3 : integer; d : integer array; let a[not not x and(7)] = false; do l(- (8) * true and 3 - true, false and 70 or 3 > - 5350); when case true /= 004 : do I(56100) end otherwise : pop end end

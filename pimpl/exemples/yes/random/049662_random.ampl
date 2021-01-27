@@ -1,0 +1,1 @@
+program V : s : takes oE1 : integer; P, M, c, q : integer array; t1w, Lv6, U9, b : boolean returns nothing A, Df, X, k2A0, P : boolean; f800a : integer array; h, L, k : boolean; let m = 4 - 3 end main : while - 3 / false rem(51) and 18000 or y >= - 1 / B : while 31 - 87 : let T = 9 end end end

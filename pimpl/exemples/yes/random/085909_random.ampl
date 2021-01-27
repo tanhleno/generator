@@ -1,0 +1,1 @@
+program M : main : K8 : integer array; i, R, qz30 : integer array; zjE, m : integer array; let S6caa = - 7 or false and 2 - 4; output - false - 6 < - 3 - 3 . - 953 < 108; when case false and 7630 + 8 - 154 > - 5 : output "" . "" end end

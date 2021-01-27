@@ -1,0 +1,1 @@
+program Vu : Gq8 : takes U8F0, GB : boolean; E : boolean returns nothing chillax end E : takes s880a : integer returns nothing rjX : boolean array; c79 : integer; r5, lI5a : boolean; l : boolean; when case 47900 - 32 = 5 : chillax end end main : chillax end

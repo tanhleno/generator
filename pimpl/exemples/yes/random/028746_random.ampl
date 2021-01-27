@@ -1,0 +1,1 @@
+program A4 : l : takes vS20, l : integer array; kM : integer; k : integer; Ar3, P, eK, v : boolean array; k : boolean; d, Skeaa, af : integer array; U, A : boolean; z7 : boolean; A : boolean returns nothing chillax end main : chillax end

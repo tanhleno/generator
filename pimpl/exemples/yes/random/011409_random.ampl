@@ -1,0 +1,1 @@
+program n30a : a2 : takes n, M, c : boolean array returns nothing eUPaa : integer array; R : boolean; chillax end main : let t_[- z(0, 2) and false - not(5) * Zr and 212] = - N8Faa(2) - H and 4 - 269 > - false end

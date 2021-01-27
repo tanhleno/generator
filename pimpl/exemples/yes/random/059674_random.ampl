@@ -1,0 +1,1 @@
+program r15a : d : takes U : integer array returns nothing chillax end i : takes U0xa, m, QR : boolean array returns nothing when case - 5 - 661 : chillax end case 62300 : chillax end otherwise : chillax end end main : J : boolean array; S, N2 : boolean; do Na((6 = 73100) * (3) - false and true and 766 - 43500 and 45000, not false / not 74 and 3 + true - 2 - 0) end

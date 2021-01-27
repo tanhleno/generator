@@ -1,0 +1,1 @@
+program V0 : Ij : takes o, t8, E : boolean returns integer array Lm : boolean array; b, s6 : integer; input Yb[false + 12] end main : when case - (9 = 6) * 77 : pop end case Z[3] + (0) - 8 : chillax end otherwise : chillax end end

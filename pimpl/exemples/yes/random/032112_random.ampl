@@ -1,0 +1,1 @@
+program x : PrN0a : takes e, H : integer returns integer lL : integer; LC : integer; v : integer array; s6 : boolean; while - true + 53 < 54 - 8 : input D22a; input pC40; let pwZ = 079; pop end; input z; let R = 5060 end main : u, VMJ, W : integer array; q, i : boolean array; chillax end

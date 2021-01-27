@@ -1,0 +1,1 @@
+program Kp : Y : takes U : integer returns boolean WK : boolean array; t : integer array; chillax end main : yH : boolean array; do ta(- 1 and false, - E[16] - true + 0 - 9500 < not 7 + 152); input Np10a; while false : chillax end; output 35 = 7 . 1 . 9 . "" end

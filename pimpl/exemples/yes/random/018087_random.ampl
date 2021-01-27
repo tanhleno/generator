@@ -1,0 +1,1 @@
+program E : l2 : takes g, Y4z : boolean; KJra : integer; Z0, V280a, w, U, J77a, l5 : integer; AV : boolean; bL9aa : integer array; c5, B, bNE : integer returns integer array s : boolean array; chillax end main : l, M8 : integer array; while false < - 5 and b8_a : chillax end; pop false; input o; pop end

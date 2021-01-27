@@ -1,0 +1,1 @@
+program B : C5 : takes Wevaa, w8oaa, U, G22, x : integer array; A3 : boolean array; T660a : boolean returns nothing C, i : boolean; _ : integer array; output - 4 . 70 = 8; output "w"; input J5; while 9960 : chillax end end main : do w(true / J / JP); output - false - 9 >= 9; let U[false and 3] = - 768 >= 3440; do e(- 8 - 076); output 58 . "" . "" end

@@ -1,0 +1,1 @@
+program M : C2 : takes _, Ex1a, Q : integer array returns integer array chillax end main : output - p and A + true and 5 > true and 49 - 41 - 388; input w2[false * E0 and 26]; while x - 393 - 09 > - 61 : chillax end; when case 66200 - 3 < 44 : chillax end case 11 : while 19 : chillax end end end

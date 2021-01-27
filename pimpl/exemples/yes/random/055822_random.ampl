@@ -1,0 +1,1 @@
+program h : C0K : takes t7 : integer array; f : boolean array; S, A : integer array; K, kn1a, X1X : integer returns nothing Q : integer; j, oCb : boolean array; chillax end main : o : integer array; while true * false - (94) / (10) : chillax end; input eko[- Bc[4320] and false and 976]; when case - 01 - 3 : when case 0 : chillax end; let y = 4; do LZf0a(6) end; pop end

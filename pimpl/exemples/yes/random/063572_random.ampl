@@ -1,0 +1,1 @@
+program lg : v : takes f : integer returns integer output "" . ""; let l0 = array 844; when case 6 : chillax end otherwise : chillax end end tl_ : takes q : boolean array returns nothing pop end z : takes P, xA : boolean returns nothing chillax end main : t, u8C : integer; q : boolean array; e7X, M, ZL : boolean; q3 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program J : S : takes Z, K, N : boolean array returns nothing J : boolean array; chillax end main : F04aa : integer array; jmoaa : boolean; y : boolean array; T, O : integer; N7La, _A, Zn : integer array; Pu, a : boolean; NK : boolean; chillax end

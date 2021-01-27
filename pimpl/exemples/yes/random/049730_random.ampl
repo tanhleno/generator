@@ -1,0 +1,1 @@
+program QK : P380a : takes Zu90a : integer; a0, xn, v, n1 : integer returns boolean izs0 : boolean; h : integer; W, q7n, x0j0a : boolean array; Y : boolean; KuZ : boolean; K630a : boolean; chillax end main : chillax end

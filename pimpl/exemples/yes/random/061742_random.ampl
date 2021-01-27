@@ -1,0 +1,1 @@
+program P : kq : takes ig : integer returns boolean array chillax end xP : takes vz3 : integer returns nothing Ak, r2 : boolean array; B : integer; let I = 7; pop end main : _0 : boolean; chillax end

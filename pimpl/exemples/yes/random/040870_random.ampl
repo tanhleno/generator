@@ -1,0 +1,1 @@
+program j : L0Y0a : takes o : boolean array; bE : integer array; j : boolean array returns boolean array M63aa, W : boolean; v : integer array; while(7) and 5 < 3 : output 74; input g5ga; input vR end; do u(- 9 - 4 > 8, 13); do KE(818, 05) end main : chillax end

@@ -1,0 +1,1 @@
+program b : main : V, h : boolean array; let n = R or true and 7 or 1 - 85 = false and 7; when case - true = - not 1 and 5 : output "\t-" . "" . "3"; input Q[5]; do K(7); pop; pop end case - false and 3 >= - 937 - 47 : while 0 : pop end; let P = 136 end otherwise : chillax end; do U(00000 and 5950 < 160) end

@@ -1,0 +1,1 @@
+program s : main : while - false * X(7) rem true and 3 - true * V > - XV[8] / false + true and 6 : chillax end; while - false * 37300 and 583 : while 7 : pop end; when case 6450 : chillax end otherwise : chillax end end end

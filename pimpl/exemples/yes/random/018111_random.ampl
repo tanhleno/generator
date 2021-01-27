@@ -1,0 +1,1 @@
+program t : o9 : takes J8u, d : boolean; Nrl0a : integer; R940, P, M32aa : integer array; nW : boolean array; wi6 : integer array; U, x : boolean; K6R : boolean returns integer p : integer array; K_7, x : boolean; chillax end main : _b : integer; j0, Y, w : integer; A, R : integer array; output ",ma" end

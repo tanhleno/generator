@@ -1,0 +1,1 @@
+program M : _ : takes Y1z, Xs : integer array returns nothing VB, Da : boolean; do k19(true or 65 - 3, 1 < 683) end main : N : boolean; ZT90a : boolean; oF : integer array; while not not false or(531) and not 5 and 9 : when case 6910 - 67 >= 7 : chillax end case 42 : output "7," end case 42 : chillax end otherwise : chillax end; input P end end

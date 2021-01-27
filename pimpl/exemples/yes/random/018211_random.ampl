@@ -1,0 +1,1 @@
+program I : y5 : takes a, N42a : boolean; Y7e : integer; G5U : integer returns boolean array while - false and 93 : do s(01900); pop end; do k(9); input hw2aa; when case 388 : pop end end main : C : integer array; o7, vQ9aa, S : boolean; e, m : boolean array; chillax end

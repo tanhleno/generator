@@ -1,0 +1,1 @@
+program Q : J : takes W, c350a : boolean array returns nothing chillax end main : do R(false, false and 3 and 6 + 987 and 3 + 701 < tF9a); let C[- true or 1] = array(827) * (406); output "d" . 121 = 1 . "" . "\\"; when case - 275 - 30 /= 1 : input WQH0a; input c; pop end case 6 = 20 : let Zu5a = 6 end case 815 : pop end; pop 5 end

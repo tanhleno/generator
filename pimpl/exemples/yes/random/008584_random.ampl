@@ -1,0 +1,1 @@
+program hR : Uc : takes ptd0, hyq, k : boolean; Bs40a, s6, B : boolean array; G : boolean array returns nothing chillax end L : takes OWE0a : boolean returns boolean chillax end main : while - true and false and 928 /= - false * false : chillax end; do T(- true, q and 9 - 1 > - 4 - 937, - 2 >= 3); input dcdaa[- 53500 and 7 or 3]; do B3(13300 = 80) end

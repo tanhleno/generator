@@ -1,0 +1,1 @@
+program R8 : kY10a : takes CZhaa, gB : boolean array returns nothing h : boolean; z17 : boolean; P, E5, Z58a : integer; V5, b6 : boolean; chillax end main : output "" . not 24 and 8 - 1 - 65 < - 469 - 503 . "" . "" . "" end

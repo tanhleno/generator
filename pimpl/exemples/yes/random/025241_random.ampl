@@ -1,0 +1,1 @@
+program Bk3aa : q : takes t4z, S2 : integer; Mj, q, P : boolean array returns nothing do P(- P5Ia >= 7, 9 <= 2, 97); when case 8 - 0 = 6 : do C(0) end otherwise : chillax end; let K[1] = 162 end main : fD9 : integer array; OVZ0a : integer; l8, L : boolean array; chillax end

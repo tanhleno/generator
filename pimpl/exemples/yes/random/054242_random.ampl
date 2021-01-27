@@ -1,0 +1,1 @@
+program Dtl : v90aa : takes Qi : integer array; O7ma, E2Xa, J : integer array; d86 : integer returns integer oi : integer; e, na : integer array; pop; input a end h2 : takes F, p : boolean array returns nothing Re20a : integer array; do z(22, 15) end main : T : boolean; z80, j : boolean array; r3, Zr60a : integer; a, kk60 : boolean array; E : integer; chillax end

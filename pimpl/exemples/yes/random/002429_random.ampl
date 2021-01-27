@@ -1,0 +1,1 @@
+program Z5Qa : N : takes L, Z, o, M5, e : boolean array; g, L : boolean; y, w10aa, K4, n : boolean; Jw, V8, S, B0, tQ20 : integer array; u, h : integer array returns integer array do a9s0a(- false - 7 - 6) end main : chillax end

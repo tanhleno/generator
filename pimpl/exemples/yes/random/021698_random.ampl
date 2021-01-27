@@ -1,0 +1,1 @@
+program n : v89aa : takes Uh2, W : boolean array returns integer I : boolean array; N : integer; R, D : integer; B7T0 : boolean; Z : boolean; while - false - 77 : chillax end end main : while true rem false / X and 51 or false /= E rem Q440 : do VK(68) end; while(1) : chillax end; do Z2(- not 0 - 6, 21900 - 52); input fl; while 20 : pop end end

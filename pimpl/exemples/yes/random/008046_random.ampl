@@ -1,0 +1,1 @@
+program S9 : X2F : takes D, f, Yt, A : integer returns integer array Sl00a, S6, U : integer array; chillax end N : takes yL : boolean array returns boolean array chillax end x9 : takes j6 : boolean returns boolean chillax end main : while - true and(874) and 7 and 0180 >= U9K[5] / M1 : chillax end end

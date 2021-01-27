@@ -1,0 +1,1 @@
+program W : main : output "p0\"" . "" . "(" . "" . 0 . ""; while - true : chillax end; when case r and 00 : chillax end case - 56 - 5 : chillax end otherwise : output ""; pop; pop end; output 92 . 8 end

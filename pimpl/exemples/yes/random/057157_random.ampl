@@ -1,0 +1,1 @@
+program d8 : A : takes bV4aa : integer array; A : integer array returns integer array when case V and 50 + 9 - 0 <= 53 : chillax end end o : takes P, M : integer array returns nothing pop 6 end m : takes p : integer array returns boolean array B, K0U0, f : boolean array; J, Hw : boolean; F4 : boolean; let h = 7; output ">U"; do _(5740) end main : z : integer; chillax end

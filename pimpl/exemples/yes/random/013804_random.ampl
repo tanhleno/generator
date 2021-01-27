@@ -1,0 +1,1 @@
+program nB0 : t : takes ecZ0a, W, I : integer array; Px3, zYZ, G : boolean returns integer F : integer array; A : boolean array; chillax end main : d : boolean array; S : integer array; s0, yt, k, gz : boolean array; input DC1aa[not true + not true rem false and 7 - false and 71] end

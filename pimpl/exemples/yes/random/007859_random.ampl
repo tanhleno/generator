@@ -1,0 +1,1 @@
+program kpi : C : takes Ni, hK, g, tK3 : integer array returns nothing output 61 > 8 . ""; when case - 26 - 52100 >= 2 : while 027 : chillax end; output ""; pop end case 26800 = 77 : while 50 : chillax end end case 73 : chillax end otherwise : do mA80a(0380); pop end end g9 : takes S, Y : integer array returns boolean array chillax end main : chillax end

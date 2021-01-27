@@ -1,0 +1,1 @@
+program u : main : h : integer; U4p, V, Q, fH : boolean array; when case - w[05900] rem I - (5) rem not 2 and 22 or not 5 and 8 = - true : chillax end; let G[- (3) / true] = - not 964 and 6 >= 29 - 05; input X; do gb(- 6580 - 3, 7, 6, 3); when case 83 : input n end case 6 : pop end; when case 3 : pop end otherwise : chillax end end

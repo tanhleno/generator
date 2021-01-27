@@ -1,0 +1,1 @@
+program us40a : j : takes M9y : boolean returns integer array xQ6 : integer; N : boolean array; let H[true + 05] = array false end main : i : boolean; do mht(- 743 / (65) rem(08) = not(40) * (2)) end

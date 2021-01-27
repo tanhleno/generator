@@ -1,0 +1,1 @@
+program oy20 : Z : takes D, S : integer returns nothing chillax end a3d : takes K3, GyC : integer array returns boolean array fp3 : boolean; b, ns : integer array; let XZ = 87 = 303; while 5 = 27900 : chillax end; when case 8 : pop end case 2 : chillax end otherwise : chillax end end main : input N end

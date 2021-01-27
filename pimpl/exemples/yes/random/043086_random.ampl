@@ -1,0 +1,1 @@
+program dY : GMFaa : takes L : boolean array returns integer f5, n8U, c : boolean array; while 4 and 8 : chillax end end main : while F /= - true / 88 + not 7 and 4 - 82 : pop 8 = 6 end; let _4V0[- 4 and(8)] = - (8) + 6 - 746; output "G" . 98 . 26; output "" . "F\t!" . 320 . "<" end

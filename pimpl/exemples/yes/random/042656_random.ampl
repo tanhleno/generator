@@ -1,0 +1,1 @@
+program J5Pa : R : takes Xh : boolean array returns integer array Y : boolean; chillax end W : takes oP, h : boolean; ca8, B : integer; Q, PNJa : boolean returns nothing X, t, K, pw : boolean; do Q070a(- 67, 6 = 2, 91) end main : chillax end

@@ -1,0 +1,1 @@
+program D : B3 : takes Gg : boolean array; vm2, l : integer; _H30a, L : boolean returns nothing m830a : integer array; r09 : boolean; while - m and 53 or 62 : chillax end; let LO[- 6 - 3] = array 68 end main : l : boolean array; while(4) * u6(08) > true rem false and 9 : let m = 02 = 8010; input jA; output 36; input l end; input B; input d[- d and 9]; pop 7; output 3 end

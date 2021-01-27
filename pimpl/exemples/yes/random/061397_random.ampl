@@ -1,0 +1,1 @@
+program Sz : N : takes Q : integer array returns nothing output "" . ""; input u end I01 : takes m : boolean; A2 : integer array; C, s, xM : boolean; D : boolean; e, F_ : integer returns boolean chillax end main : U, D : integer array; when case true rem false rem true = - (3) : chillax end end

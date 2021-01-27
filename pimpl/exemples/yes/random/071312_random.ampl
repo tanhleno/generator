@@ -1,0 +1,1 @@
+program s0 : main : N, a, _2Saa : boolean; while not not G8 / true and false <= - false * true and 7 : chillax end; when case true rem false and 95 or true and 05 : chillax end otherwise : chillax end; do _(88 and 7 - 23 - 5) end

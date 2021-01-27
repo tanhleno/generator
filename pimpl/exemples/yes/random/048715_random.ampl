@@ -1,0 +1,1 @@
+program o : W : takes D6 : boolean returns nothing L : integer array; chillax end main : do l5Yaa(true or true or not 7 and 5 < false rem true + 53, true, - 08 + 93 - 6 /= - 9); while(2) rem(82) > - (67) and 794 + 55 : while 2 = 54 : when case 785 : chillax end; pop end; let _3Ma = array 9 end; input l[not 8 and 54100 - 04 - 4]; output "\\" end

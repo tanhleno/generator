@@ -1,0 +1,1 @@
+program Bi2 : HyL : takes Uo : integer; I, X, f : boolean; L, J4na : integer array; H, S, zWl, I, z3 : boolean array; TAX, hB, T050a : integer array; l : integer; T : boolean returns boolean array chillax end xw : takes A, u, m4taa, z5, g7 : boolean returns nothing pop; when case 86 = 20 : while 8660 : chillax end; pop end end main : chillax end

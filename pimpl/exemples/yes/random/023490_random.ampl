@@ -1,0 +1,1 @@
+program kC9 : e : takes v280, b : boolean returns integer array K, U : boolean array; D3 : boolean array; let J = array 00; input ZQ[- 6920]; when case 66 : input y; pop end otherwise : chillax end; pop end main : Q : integer array; s6 : integer; chillax end

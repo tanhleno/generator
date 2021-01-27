@@ -1,0 +1,1 @@
+program E : N : takes FF4, Ia : boolean array returns integer while - false and 6 + 1 - 18 < 457 - 1 : while 8 : chillax end; let h = 9 end end main : vk, wCA0a, PSB0, oC : integer; while - true + false : chillax end end

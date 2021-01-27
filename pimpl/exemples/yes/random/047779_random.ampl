@@ -1,0 +1,1 @@
+program zY7aa : z4 : takes K : boolean returns nothing do l4((8) and 46 - 1 < - 8 - 470, 3 - 41 >= 4); pop; input V[2] end V : takes q0 : integer array; L : boolean returns integer chillax end main : y, B : integer array; chillax end

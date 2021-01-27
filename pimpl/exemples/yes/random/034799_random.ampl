@@ -1,0 +1,1 @@
+program f760 : U : takes G : boolean; s, b : integer; R57, _ : integer array returns nothing K, _b, v8, x : boolean array; G2l : integer; while - false and 2 : pop 9 end; pop 96 = 8 end main : when case - J7 and 7 and not 1 > (63400) : chillax end end

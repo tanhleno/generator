@@ -1,0 +1,1 @@
+program O47aa : T : takes u : boolean; z : integer array returns nothing chillax end O : takes J, S : integer; _, F : integer; _4c : integer array returns integer array W, hD, i7, s8 : integer array; input C3[- 83]; while 1 : output "\\" end end main : z, F : boolean; chillax end

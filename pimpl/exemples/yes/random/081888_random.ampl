@@ -1,0 +1,1 @@
+program h : main : EQ1 : boolean array; Kqi0a : integer; Us80, M : boolean; R9 : boolean array; while - (185) * Z(61000) rem true and 8 + 7950 and true and 03 or 7 or 24 /= - false rem p5 and 9 + not 2 or 23 : input D[1]; output "(x" . 2200 . "2["; pop 2610 end; let K[true or a or 0 - 25] = array - (3); output "" end

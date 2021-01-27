@@ -1,0 +1,1 @@
+program Ja9a : PAV : takes ED30a : integer array returns integer when case - 3 and 3 : input a6; input C end end R : takes h, t : boolean array; I : integer; h : integer array returns boolean array chillax end main : j, u, H, W8Ya, t, Z6o0 : boolean; chillax end

@@ -1,0 +1,1 @@
+program V0 : nq : takes I0 : boolean; ff, X450, q, n4, g : boolean returns integer xE9, D : integer array; V : boolean array; d760a, W, H : integer array; z : boolean; pop - 645 - 4 /= 2220 end main : when case w(64) rem not 51 rem true + not false : chillax end; let G[(2)] = array - 5 and true end

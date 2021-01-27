@@ -1,0 +1,1 @@
+program C : BVF : takes Zw, N, R, o, R, j9, B, M6Wa : integer; U, S : integer array returns nothing input V7qa[- 7 and 15]; let r81 = array - 1 end main : y640a, Z : boolean; N : boolean; input q[false rem 2 - false] end

@@ -1,0 +1,1 @@
+program h7 : o : takes F, B, sP4, J, u6, LDm : boolean array returns nothing chillax end main : s96 : boolean array; F05, IQ, F : boolean; pop; do b1(- true / not 5 - (139) and 1); do iWr(- 866 - 0 - 43 > - 0 - 3860, 9, 75, 2580, 2910) end

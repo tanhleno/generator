@@ -1,0 +1,1 @@
+program M4 : Ok : takes y2 : boolean returns nothing _h : boolean array; lT, h3Kaa, e : boolean array; let pt[(2)] = array - false and 5 end k5 : takes z7X : boolean; N2S : integer array; Op6 : boolean returns nothing xl, c200, w, iOW : integer array; do xW(56 = 08000) end main : chillax end

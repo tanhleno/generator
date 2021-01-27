@@ -1,0 +1,1 @@
+program l : main : when case 201 / 6510 - (1) / (0) and 754 : when case - 9700 - 76 <= 7 : pop end otherwise : while 00 : chillax end; pop end end otherwise : chillax end; while - true : chillax end end

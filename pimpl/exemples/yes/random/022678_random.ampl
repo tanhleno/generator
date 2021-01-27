@@ -1,0 +1,1 @@
+program O : U : takes i7, S : boolean array returns nothing let t2[(8) and 250] = - 6 end g2 : takes h, dr : integer returns nothing let G060 = 2 = 18 end main : qd, X, W : integer; Z, I, gf : boolean array; when case - not(24) : pop; while 011 : chillax end; when case 4 : pop end case 74 : chillax end end otherwise : chillax end end

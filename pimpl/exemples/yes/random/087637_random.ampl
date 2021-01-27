@@ -1,0 +1,1 @@
+program t : main : J : integer array; while - (4) * not false * false and 24 + (6) * 0 and 058 <= 2 rem 29 and 8 : when case 47500 : pop; output ""; pop end otherwise : chillax end end; let bn[- true - (69) or 0] = array m(651) rem false end

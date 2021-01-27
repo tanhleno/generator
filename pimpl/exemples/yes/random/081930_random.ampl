@@ -1,0 +1,1 @@
+program B : main : Y7ca : boolean array; zi : integer; S2 : boolean; while - 37 / 8 and(1) and 69 - true * zq and 74300 < not false and 57300 and 26 + false and 19 or 60 : let v410 = array 2860 - 0; do R(51700 = 1) end; do z09(05400 / k + not 8 and 0 - 1) end

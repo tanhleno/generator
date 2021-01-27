@@ -1,0 +1,1 @@
+program H : W : takes ql2a, X3 : integer; U67, Ep2, u0 : boolean array; f9 : boolean array; c, M, f : integer returns integer array H6 : boolean array; pop end D8 : takes w : boolean; w : integer array; m : integer array; z : integer returns boolean array chillax end main : output - 1 + true + 6 - 809 >= - not 26 + 225 end

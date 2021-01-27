@@ -1,0 +1,1 @@
+program N3 : x : takes uiw, ca4aa : boolean array; r, V : integer array returns nothing R : integer; p, tM : boolean array; X5o, V : integer; y : boolean; I : boolean; chillax end main : A, u, k : boolean array; output - 8; pop end

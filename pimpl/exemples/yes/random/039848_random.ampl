@@ -1,0 +1,1 @@
+program I5 : qB : takes _5 : boolean array; S3 : boolean array; Q80aa, A6D : integer returns nothing Y5x, r : boolean array; s, F7 : integer; while not 93 and 3 + 35900 - 71 > 8600 - 29 : chillax end end main : llL : boolean; kfi, _, q, gq, z, O : integer array; o, V, f : boolean; chillax end

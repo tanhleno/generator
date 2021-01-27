@@ -1,0 +1,1 @@
+program J : a6Z : takes cB : integer; V : integer array; d, _n6, dE : boolean; F450, M1, L980 : integer array; m, Ut, w, W83aa : boolean returns nothing do i(- false - 3) end main : h, f_70 : integer; x3j : integer array; output - y / true end

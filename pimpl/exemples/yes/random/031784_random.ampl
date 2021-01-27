@@ -1,0 +1,1 @@
+program p2 : v3 : takes d0, M0 : integer returns integer array c48, D5j0 : boolean; d, e : integer array; H : boolean; JKq : boolean; n7 : boolean; chillax end Cx : takes X : boolean array returns integer array d : integer array; DW : boolean; D0, O : boolean; while - 864 - 1 : output ""; while 9 : chillax end; pop end end main : input Q_[true] end

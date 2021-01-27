@@ -1,0 +1,1 @@
+program P : main : A, b, Z : boolean; l09, K : boolean; G9e0, ra : boolean array; Azdaa, t : integer array; cL0 : boolean array; y8U0a, LO5a : boolean; F : boolean; uA20a : boolean; while - not 3 rem false : chillax end; do h(false or q and 56 + 9) end

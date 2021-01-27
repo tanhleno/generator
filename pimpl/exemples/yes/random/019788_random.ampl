@@ -1,0 +1,1 @@
+program f : g : takes Xl80, G : boolean array; F : boolean; fo50 : integer array returns nothing P600, MP9, op : boolean; n, v9, j, aO : boolean; b : integer; d : boolean; O : boolean; p : boolean; do f(not 1150 and 966 >= 4940 - 22800, - 20 - 1) end main : RP7 : integer array; l1 : boolean array; chillax end

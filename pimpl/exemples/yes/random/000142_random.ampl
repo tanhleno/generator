@@ -1,0 +1,1 @@
+program qu : M : takes Ax8, V49, w, W6, C, q, A50, q : boolean array; h : integer array returns nothing Z, H : integer array; input q[- true and 6] end p4 : takes SM4, x6U, E : boolean array returns nothing Y : boolean array; do Mg(- 1 < 6); let F1i[965] = 37; let A[05] = array 0; input h end main : f, n, n1, P8 : boolean array; chillax end

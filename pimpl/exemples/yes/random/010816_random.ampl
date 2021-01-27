@@ -1,0 +1,1 @@
+program B : p : takes ZW, CY, i : boolean array returns integer array A, nku, k, m5 : boolean; chillax end main : Z3, l6, X7 : boolean array; B, xO : integer; XQ5a : boolean; output "9" . true . "" . 3 . 4 . 273; output - true and 4; let l = array - true or 8; let _J[7 - 37] = array - 03100 - 2 end

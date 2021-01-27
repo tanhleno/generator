@@ -1,0 +1,1 @@
+program y : _1 : takes E7o : integer array returns integer array output "&g" . ""; while 9 <= 076 : when case 7 : chillax end end end X0za : takes xv : boolean array; F, k16aa, k : boolean returns integer PT, K : boolean array; chillax end main : output F[371] * false . - not 5360 and 7 - 7670 - 2; output not 6 and 7 + 4 - 9 end

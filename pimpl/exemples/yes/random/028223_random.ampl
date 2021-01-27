@@ -1,0 +1,1 @@
+program ly : w : takes V, K : integer array; da5 : boolean array; R, r, u, n, g, a : boolean array; v : integer array; H, C6, N : integer; FZ : boolean array returns nothing ESNa, h26 : integer array; L : boolean; chillax end main : l9 : integer array; when case - (3) or false = - A7G - true and 05 or 044 - 96 : do r(0) end otherwise : input LQ2[2] end end

@@ -1,0 +1,1 @@
+program F : X : takes b4 : integer; m, FK : integer returns integer array pop - 0 - 88 end fY : takes m : integer returns nothing when case 4 - 3 >= 8 : chillax end end By : takes o9Baa : integer array returns nothing c : boolean; c : boolean; DJ : boolean; h : boolean; input B8 end SY : takes d9 : boolean returns nothing chillax end main : chillax end

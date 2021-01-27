@@ -1,0 +1,1 @@
+program A9 : eQ : takes c : boolean array; n : boolean array; YJ10, RFd, O, E, _, c09 : boolean returns boolean array while - 8 - 00 > - 381 - 54 : chillax end end main : v010 : boolean; e9f, X, C, x : boolean; pA : boolean; output - false rem 8 + (6) and 9 > - not 6 and 966 + 0 - 6 . 210 and 9 end

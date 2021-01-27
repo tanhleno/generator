@@ -1,0 +1,1 @@
+program x : Kl : takes F : integer array returns nothing chillax end Q : takes l, J : boolean array returns nothing chillax end main : b : boolean array; when case(052 = 185) rem 14300 + (837) + not 0 and 5 > - true / 7 or Q7 and 2 : output "1" . "" end case - true rem false : chillax end end

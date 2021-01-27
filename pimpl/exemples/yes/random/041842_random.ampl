@@ -1,0 +1,1 @@
+program x : b : takes R1 : boolean array returns boolean array output - 722 - 70 . 60 . 07 end R0 : takes nP, F9 : boolean; W : integer returns nothing chillax end main : let X0B = false; when case - b[2] : chillax end case - false and 2 < - 1 - 7 : output "18\""; do w(2); input N end otherwise : chillax end end

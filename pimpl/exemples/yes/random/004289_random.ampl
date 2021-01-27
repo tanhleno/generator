@@ -1,0 +1,1 @@
+program x : B : takes n, KUu, _I, A : boolean; oa, V9zaa, _M : integer array returns boolean chillax end T : takes r, Ls, J3 : integer array returns boolean input JG[- 2]; do c270a(8 = 7); input Pk[4]; do x(4) end main : K2m0, EQa, k6 : integer array; Q : integer; chillax end

@@ -1,0 +1,1 @@
+program v : v : takes B1, _, c, m : boolean; T_ : integer array; H : boolean array returns boolean when case false : while 91 : pop end end otherwise : output ""; do P(8); pop end; output ""; while 52 : chillax end; pop 66 end main : B, qZ, m, k, C : boolean array; A08 : boolean; c : boolean array; output - (0) rem not 4460 and 23 <= - not 2 end

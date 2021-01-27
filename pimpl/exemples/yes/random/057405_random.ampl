@@ -1,0 +1,1 @@
+program h620a : K2 : takes T : integer array; l : integer returns integer chillax end t : takes D : boolean; rIf0a : boolean returns nothing chillax end main : do w(true = 1, 0 and not 35800, 34 and 5 > 1990, - 8 /= 43, 71 = 57, 5, 3) end

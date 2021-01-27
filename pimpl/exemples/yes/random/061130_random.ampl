@@ -1,0 +1,1 @@
+program Ob7 : bkf : takes j : integer array returns nothing e : integer array; N0, HD : boolean array; let C[not 51 and 8 - 0 - 19] = - 73 /= 41; input f[- 5 - 1] end Rf : takes B : boolean; H, R, _, Y : integer array; c : boolean; l5c, _8l, X70, K : integer returns nothing U, m8paa : boolean array; pop end main : p : integer array; S9, fF : boolean; chillax end

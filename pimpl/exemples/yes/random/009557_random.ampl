@@ -1,0 +1,1 @@
+program _3t : I : takes hy, G, C51 : boolean array; A, q, vX5, I : boolean; zt : boolean; zAe0a : boolean; W : integer returns integer f : boolean array; chillax end main : let L[xCC0[3] + not true - not 62 and 7] = array not V(4) / false end

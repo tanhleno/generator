@@ -1,0 +1,1 @@
+program x88 : K : takes f5 : integer array; e : integer returns nothing chillax end m : takes ouJ0a : integer array; R : integer; U48 : integer; T1d0a, j : integer; V : boolean array returns boolean let g = array 49 - 1 end main : chillax end

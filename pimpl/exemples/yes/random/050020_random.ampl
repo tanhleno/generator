@@ -1,0 +1,1 @@
+program A0r : a : takes m5 : integer; Z570a, t, C5 : integer; a, D, j9za : boolean returns nothing p, _73 : integer; RD : boolean; ke, O, _B : boolean; while not 1 and 0 = 171 : while 9 : pop end; pop end end main : input Y[false + 8 rem(7)]; let o[- 3] = W and 683; while 49 and 9 < - 39 - 73 : output 824 end end

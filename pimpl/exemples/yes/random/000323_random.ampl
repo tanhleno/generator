@@ -1,0 +1,1 @@
+program z : h : takes l, b, Z, k, Y0B0, F, jU, ip : integer; A, S : integer; s9, q : integer; z5, Q6taa : boolean array; Z1, PR : boolean; Y, yq6, W1ra : boolean; o, o : boolean returns nothing X, B, d, M : boolean; let V2[- AiYaa - 3520 - 39] = 09 - 5 < 537 end main : when case - 9 / 2 and 757 and 0 : chillax end; let i = false = - 0 - 0 end

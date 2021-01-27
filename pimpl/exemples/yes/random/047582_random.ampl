@@ -1,0 +1,1 @@
+program q0 : C : takes x : boolean returns nothing chillax end t230a : takes IF : integer array; R, A2K0a : integer array returns integer input tO end main : h0b : boolean; D : boolean; I : boolean; A : boolean; v, C8 : boolean; I, G : boolean; chillax end

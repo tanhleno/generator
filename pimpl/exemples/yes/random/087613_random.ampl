@@ -1,0 +1,1 @@
+program f : main : S : integer array; when case true * m9 / true and 7 <= false and 50 and 4 - not 52 : output "" . 4 . 1 . "4Y"; input A6[1]; input Zn0[1] end otherwise : do k(367, 1890, 3) end; output false and 8 + 0 - 5 = - 9; output "" . 231; do f9(- 66 < 5, 8, 1, 83); do J(7 = 6730); while 8 : chillax end end

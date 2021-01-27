@@ -1,0 +1,1 @@
+program v : T4X0a : takes r5 : integer; ajBaa, NO, m, O : boolean returns nothing cC70a : integer array; Y1, TW, VCj, I : boolean array; i : integer; H : boolean; while - not 50 + 6 - 5 : chillax end; let NC[- 5 - 0] = 704 end main : Xa : boolean; chillax end

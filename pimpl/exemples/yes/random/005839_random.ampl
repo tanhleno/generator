@@ -1,0 +1,1 @@
+program Qr : Sa1 : takes i, ph9, P, XH : boolean returns boolean array U : integer array; chillax end w : takes r8Oaa, b6, oxd : integer returns nothing AF : integer; UP8 : boolean array; chillax end main : H : boolean; chillax end

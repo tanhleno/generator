@@ -1,0 +1,1 @@
+program Kn5 : DN : takes N0I : boolean array; KHK, S0G : boolean array; Gz, oe : integer array; V2 : boolean array; j, iH : boolean; K : integer array returns nothing Qg : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program _ : hg20 : takes O_, I, U : boolean array returns nothing RE5a, K, N : integer array; R1, El, c4, S : boolean array; chillax end T41 : takes a5qa, R : boolean returns nothing rC, C, D, o4A0 : integer; chillax end main : V69, o, J : integer array; chillax end

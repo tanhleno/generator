@@ -1,0 +1,1 @@
+program sW70a : G : takes z, i6, _ : boolean; D : integer array returns nothing chillax end main : let U[gjy - (9) * 4 and 29] = array 04 rem(657) / 6620 and 639 or not 3 and g66 + true and 19 or 918 - 29; output - 83 . 1 > 634 end

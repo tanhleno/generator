@@ -1,0 +1,1 @@
+program W : Z : takes ZZ1aa : boolean array; vCu, A, N, h, V190a : boolean array; I, B4 : boolean array; vL1 : integer array returns nothing chillax end i : takes e090, z4 : integer array returns integer while - 4 - 87400 < 6 : let z51 = 9820; do a(3) end; let Q8[5] = 7 end main : chillax end

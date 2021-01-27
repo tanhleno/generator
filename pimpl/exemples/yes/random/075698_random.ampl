@@ -1,0 +1,1 @@
+program Cp8 : main : s, Ssk : boolean array; while - (87200 = 1) / false + (556) or(45) + 9 - 9 < true or F and 77 : while 4 - 23 : chillax end; pop 524; while 79 : pop end end; when case - true / true and 9 : chillax end otherwise : input Rv4[7] end end

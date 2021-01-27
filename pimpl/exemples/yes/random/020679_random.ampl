@@ -1,0 +1,1 @@
+program U : U : takes m, B : boolean array; H : integer returns integer array Nw40a, I, GI, a : integer array; S : boolean; let o[- YX5a and 6 + 93 - 8] = - 1 - 66; input C[- 1 - 877] end main : let qf9[(5) - 9230 and true and 9780 - not 394 and 8] = array - not y(61) * not not 8050 end

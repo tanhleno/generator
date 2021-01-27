@@ -1,0 +1,1 @@
+program A9 : o : takes CQ20 : boolean; M, c12, l, l : integer; L : boolean array returns nothing chillax end x : takes c : integer returns nothing f7Ca : integer; P, Z, P : integer array; N : boolean; when case - 601 <= 8 : while 67 : chillax end; input I; pop end case 87 : while 9 : chillax end end end main : N : integer; a2, M, s2, p1, am7 : integer array; chillax end

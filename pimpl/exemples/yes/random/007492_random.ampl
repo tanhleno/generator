@@ -1,0 +1,1 @@
+program J82aa : H0 : takes h, QZ, I, g : integer array returns boolean output "E(\"a" . "\"" end main : D3s0a : boolean; let T[- 033 and 3 rem true - not(3) + 51100] = array - (956 = 2) and qp4 / true and 16; pop U and 5290 or 60 - 5 end

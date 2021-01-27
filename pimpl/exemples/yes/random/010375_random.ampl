@@ -1,0 +1,1 @@
+program vKq0 : V : takes g, r, v : boolean array; HP : integer array returns boolean k, NDY : integer; output "" . 6 . "HK" . 23; output 8; input ya2 end main : output 25 and true and 18 <= (5) - 2 - 1 . - false and 3 > - 8 . "-4" . "" . "5" . 2 . "" end

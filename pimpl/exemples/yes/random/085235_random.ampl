@@ -1,0 +1,1 @@
+program i : main : t5 : integer; when case true * (3) / not 92 and 50 - true - 2 or 7840 : input r end otherwise : chillax end; when case false or 2 and 9 : let A = 17 end otherwise : chillax end end

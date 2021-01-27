@@ -1,0 +1,1 @@
+program J : F : takes M : boolean array; XD : integer array returns boolean UC9, E, I : integer array; Ys : boolean array; chillax end main : Sx : integer array; a, t, Lx, Uy5, _ : boolean; wR8, By0aa : boolean; do j3(- false / 083 * true and 62 + (83), - (17500), - not 8, 7 - 7) end

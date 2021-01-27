@@ -1,0 +1,1 @@
+program Z5 : _ : takes D : integer array; l, B, MZ : integer array returns integer when case - 3 and 13 or 325 - 7 : pop end case 01 - 19 : chillax end; while 95300 - 965 > 908 : let X1p0 = 0; pop end; output 1; output "+"; input n; do p(57) end main : chillax end

@@ -1,0 +1,1 @@
+program d : N : takes x, B, k : integer array returns integer array chillax end C : takes R : integer returns integer array J6 : boolean; chillax end tQ : takes X46aa, S, vjH, a, mY90 : integer array; c : boolean array returns integer array let t57[6] = 0; pop 152 end main : let N[- not x - not Jb / (2) - N5 and 1170 + 9 - 50] = - not not 8 and(8) and 541 = - yH or 5 end

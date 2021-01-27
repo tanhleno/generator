@@ -1,0 +1,1 @@
+program z : ha7 : takes _0, W5 : integer; fL8a, fU3 : boolean array returns nothing B67, JI, Hz : boolean; do Z(false + 6 - 9, 17 - 52 /= 89000, 0); do H(95600 - 402 > 8) end main : do x(false, - false + not 32600 and 74 + 3 > 0) end

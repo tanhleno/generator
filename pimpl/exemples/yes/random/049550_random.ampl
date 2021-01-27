@@ -1,0 +1,1 @@
+program n : T : takes U : integer; q, m7z0, p3y0a, t99 : boolean array; K9 : boolean returns nothing while true - 8 - 87 < 8950 : input T[6]; input _6 end; while - 8 - 53200 < 4 : let w0E = 8; while 5 : chillax end end end main : chillax end

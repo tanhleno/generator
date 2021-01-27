@@ -1,0 +1,1 @@
+program c : V : takes V6K, Yv : boolean; w, T, oR6 : boolean; h : boolean returns integer array output 5 - 3 . 3 . 6 . "" . "-"; pop; input k6y0a[7]; while 4 : pop end end main : Z, On : boolean array; input V; pop - true or 8 - 5 end

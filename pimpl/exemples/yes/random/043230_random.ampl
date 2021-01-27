@@ -1,0 +1,1 @@
+program T74 : Q68 : takes lGna : boolean array returns integer d : integer; I, dfIa : integer; A : integer; A, c6p0 : boolean; wL : boolean; chillax end L46 : takes KJ, U : boolean returns nothing do V(6 > 6); input g[2]; when case 5 : chillax end case 4 : chillax end; pop; input S end main : B, M : integer array; T, b : integer; chillax end

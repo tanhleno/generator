@@ -1,0 +1,1 @@
+program A0Ua : l0 : takes T, q3, D : boolean array; L7 : integer array returns boolean input p; while 76 - 4 : output "|" end; when case 16 = 1 : let e7 = 45 end case 674 : pop end; output 1 . "\t" end main : b, a : integer array; f, Kd, U6, R, u7, L : integer; CJ, n : integer array; chillax end

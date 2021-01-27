@@ -1,0 +1,1 @@
+program n : M : takes byk, pm3, t, aC0 : boolean; u, O, xc6, sa20a, W : boolean returns integer array J, g, U9J0 : boolean array; n, z760 : integer array; input h[not 26 + 28] end main : C_ : boolean; chillax end

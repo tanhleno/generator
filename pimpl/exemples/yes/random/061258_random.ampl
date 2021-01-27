@@ -1,0 +1,1 @@
+program G : x2 : takes vi : integer array returns nothing input __[true + 31 - 11] end M : takes u : boolean array returns boolean array chillax end main : when case - 81 * (82) * (586) + (8) * true or false >= - not(2) : pop end otherwise : output 7 . 372 . "gVa"; output "" . "5\\aa"; while 3 : chillax end; when case 87 : chillax end end end

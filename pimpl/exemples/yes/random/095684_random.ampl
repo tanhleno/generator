@@ -1,0 +1,1 @@
+program h : main : when case - (7 = 0) / true >= 71 or true + 7 - 3 : let e = 359 = 301 end case not false and(228) > (866) : let iC3aa = 0; while 5 : pop end; when case 12 : chillax end end; while not yU9 * not 4 : chillax end end

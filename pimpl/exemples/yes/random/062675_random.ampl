@@ -1,0 +1,1 @@
+program X : Rb70a : takes R6N : integer returns boolean while - true : when case 0730 : chillax end case 88 : chillax end otherwise : chillax end; pop end end t : takes kn, g4 : boolean array; x, cI : integer returns nothing O4, A : integer; chillax end main : chillax end

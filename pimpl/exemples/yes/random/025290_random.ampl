@@ -1,0 +1,1 @@
+program d : a : takes Y, MAa0a : integer; zW, c3, VK : boolean returns nothing f8z0a : boolean array; o8I, C : boolean array; chillax end main : while - Uk[76] > false rem false : chillax end; do M(not(8) <= - true and 81); pop; let J01aa[- 8] = array 16; input I end

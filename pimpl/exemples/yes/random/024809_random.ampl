@@ -1,0 +1,1 @@
+program w : Q : takes G, O51 : boolean returns nothing pop 7 - 49 <= 3; while 096 <= 07600 : output ""; pop; pop end; output 514 . 3 . ""; do ay2(1) end main : nvjaa, T27, e, B8, hy2 : integer array; output "Wy!" . "\\" . 01 - 320 /= 9; when case - not true and false + false : chillax end case - false and 1 + 74 - 80 : chillax end; output "" . 37 = 63; let vo = array 92 - 7 end

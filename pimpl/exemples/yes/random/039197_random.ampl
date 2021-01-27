@@ -1,0 +1,1 @@
+program v2 : c620 : takes M6 : boolean array; x04, b2 : integer array; X : integer array; q : integer returns nothing chillax end main : D : boolean array; go : boolean array; output - 1 / 870 and 0 + (6) <= not 1 - 9 . false and 6 = - 24 . "" . 9 = 4450; let T88a[not K19] = array - (9480) end

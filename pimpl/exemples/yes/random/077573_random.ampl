@@ -1,0 +1,1 @@
+program vm : main : Z0, j : integer array; E56 : boolean array; Gv9a, I, L : integer array; input e8[not(6) + true / true and 6]; pop - Pt and 48 - 9 - 39 < - 28 - 56600; when case n - 8 : while 1 : chillax end end otherwise : output "/"; while 2 : chillax end; pop end; pop 47; do w(6, 6) end

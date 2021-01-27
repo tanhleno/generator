@@ -1,0 +1,1 @@
+program mB : by7 : takes q32, _, hN : integer array; x : boolean; l, e : boolean; z4 : boolean; d, St, q9, P900a : integer; A, K33, S : integer; H, h : boolean returns nothing output - 91 - 4 . 8 end N : takes i : boolean returns integer x, S : integer; while 8010 - 21800 <= 54800 : chillax end end main : chillax end

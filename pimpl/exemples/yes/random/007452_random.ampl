@@ -1,0 +1,1 @@
+program V : n : takes W, j970, I, l : integer array returns boolean rI, GLI, Vej, q : boolean array; chillax end D9j : takes i, Wd : integer array; e05, cX, i : integer array returns nothing chillax end main : do Qz((3 = 6) / 8 - PA / true and 87 + (90) and 3 + 883) end

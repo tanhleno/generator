@@ -1,0 +1,1 @@
+program g : u : takes S : integer array; S, e5, T8l0, l : integer; d : boolean returns nothing chillax end R : takes f : boolean returns integer array l : integer array; C : integer; q5 : boolean; vx5 : boolean; chillax end main : while false + not xf - 3 and 1 : chillax end; input rCg0[true]; output 82 - 269 . "\"\\" end

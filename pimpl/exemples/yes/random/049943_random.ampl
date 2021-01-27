@@ -1,0 +1,1 @@
+program l4 : h : takes TH9 : integer; J1U0a, U3, E : boolean returns boolean array do vF(- 27 and 08, 20 - 41); pop; while 9 = 3 : chillax end; while 29 : chillax end end main : let g8o[- E4[10]] = - (6670) <= V and 85800; output "3" . - 086 - 78 <= 14; let aYl0 = array not 80 and 21 end

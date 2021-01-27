@@ -1,0 +1,1 @@
+program ZVO0 : main : while - (5) and(0) or T8(576) rem not 772 : do W(- 5 - 759 <= 53); do v0(3) end; pop; when case - true and 62300 + 97 /= - 14100 : input P[5]; input zk; when case 03 : chillax end; pop end case 92 = 7 : chillax end; let B[42 - 0] = array - 7 end

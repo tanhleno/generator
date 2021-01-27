@@ -1,0 +1,1 @@
+program U : Lp : takes m : integer array returns boolean array r2r0, C : boolean; chillax end r : takes F, t : integer array; Wo : boolean returns boolean chillax end main : B9A0, Qf2 : boolean array; let q7[true * not true / (0) and 6 + B] = array true end

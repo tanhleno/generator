@@ -1,0 +1,1 @@
+program X : main : let C = array(9) rem(0) / true and 0 + 3 - true; when case not 300 and R2 - D or 54 : chillax end case - not 99 and 1 or 20700 : chillax end case - 9 - 8 = 67 : when case 8 : chillax end end; while false and 630 : while 45900 : chillax end end; input f[- 4] end

@@ -1,0 +1,1 @@
+program Fq5 : p : takes T72aa : integer array; oCY, D, x4 : integer array; uOl : boolean returns boolean v2 : boolean; do UJ(- true and 6, 60 >= 1) end main : z, E1 : boolean array; E : integer array; V, O, P : integer array; chillax end

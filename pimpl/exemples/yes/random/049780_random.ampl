@@ -1,0 +1,1 @@
+program p46 : k8 : takes z5r : integer; O, m280, P4 : boolean; t, Y : integer returns boolean array output "2[" . 96 = 0130 end ia : takes N, j : integer array; _p1a, dHwaa, u, Ia5, GGN : integer returns integer naA : boolean array; _ : integer array; while - 6 : chillax end end main : D : integer; pop; while - true : while 6 : chillax end end end

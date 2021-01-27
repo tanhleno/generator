@@ -1,0 +1,1 @@
+program mQ : Pze : takes vU, BH : integer array returns integer array vY, P1 : integer; SnBaa : boolean array; u7 : integer; j, d : boolean; let vF[- true and 4] = - 95700; pop; let f4 = array 5 end main : wv : boolean; do U(not not(2) or(550), (1) and m26aa and 1 - 4 or 09) end

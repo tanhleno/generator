@@ -1,0 +1,1 @@
+program Uk40 : a : takes zm, m, yQ, l2x0a, Xf, dB, vz, c : integer; l : boolean; B : boolean; B, tT5aa, YI, B4, Eu70a : boolean array returns nothing Gy2a : integer; while(11) or 0 - 718 <= 97 - 155 : chillax end; when case 4 : chillax end case 713 : pop end; do t(34 = 95400) end main : F : boolean; chillax end

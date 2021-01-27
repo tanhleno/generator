@@ -1,0 +1,1 @@
+program i8 : J8 : takes i8 : boolean array; y : integer array returns integer array M2Ya : boolean; B, t, Z, l : integer array; chillax end main : X, p340a : boolean; S : boolean array; pop; pop - false - 9 - 0 >= 2; when case(95) >= - 66200 - 81900 : let l = array 6 end otherwise : when case 2 : chillax end end; do I(099, 4 = 119, 34, 3); let L = array 74 end

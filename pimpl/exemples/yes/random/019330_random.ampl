@@ -1,0 +1,1 @@
+program j : y : takes i, m : boolean array; J3, b : boolean returns integer array y720a : integer array; H : boolean; O : boolean array; X : boolean; output "1"; output 840 . "_\\"; do U93(49 = 31900) end m : takes j9 : boolean; dC1 : integer; t : boolean array; I, a, O, f : boolean returns nothing JM : integer array; chillax end main : input ZB end

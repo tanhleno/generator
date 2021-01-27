@@ -1,0 +1,1 @@
+program o : s0 : takes F, a2 : integer array returns nothing chillax end X : takes k4, I : boolean array returns nothing chillax end H : takes d7 : integer returns integer array output "\t80a"; pop 2; input oF1; while 0 : chillax end end main : input T[- 5 rem ac1(1) rem false] end

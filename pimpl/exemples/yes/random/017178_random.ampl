@@ -1,0 +1,1 @@
+program G6F0 : R : takes Zg, e : boolean; fX, T1B0a : boolean; ghcaa : integer returns boolean array chillax end main : pop; input V230; when case - not 9 and 64 - 3 < 2 : output 89 end case 64 : output "&" end otherwise : do PMg0a(4); input Z end end

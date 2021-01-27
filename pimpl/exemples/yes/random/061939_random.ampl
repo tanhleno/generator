@@ -1,0 +1,1 @@
+program P : t : takes T : integer returns boolean array e5 : boolean array; chillax end main : fT90a : boolean; Be, zm, Cli : boolean; while 0 rem true and false + false rem true or(63) < 6 / P78 and 90 : chillax end end

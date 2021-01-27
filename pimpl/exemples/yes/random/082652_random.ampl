@@ -1,0 +1,1 @@
+program j : main : Y : boolean array; when case(8 = 1) or not false : do QLc(37 - 70, 23); when case 0 = 1 : chillax end; let C[4] = 6 end case - (1) > - false - 902 - 20 : chillax end case false or 2 - 5 : chillax end; input FY end

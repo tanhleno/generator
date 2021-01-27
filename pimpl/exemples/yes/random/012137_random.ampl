@@ -1,0 +1,1 @@
+program Tfd0 : V5 : takes C, C7paa, g6 : boolean returns nothing chillax end main : when case not(7) - E180a(0270) rem false and 6 or K6 or 149 : chillax end; while - not(3) : chillax end; pop 06 end

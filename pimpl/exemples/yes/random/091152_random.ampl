@@ -1,0 +1,1 @@
+program C : main : let J[- 1 rem v(01) - 77 and(4)] = array true / B / not 3 and 73900 or true; output - (7) + 2 - 35400 /= 74 - 26 . ""; while(7) and 1 > - 2 - 338 : input S[7740]; let A = 9 end; do TU6(9, 0) end

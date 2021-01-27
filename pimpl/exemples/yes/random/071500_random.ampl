@@ -1,0 +1,1 @@
+program v3y : main : Y3, XSJ, q : boolean array; g, g : boolean array; while - 5 rem false - (6) rem false = - Z8h[8] : chillax end; when case - not false and not 06 > (72) and 4 + 7270 : let zh[1560] = 459; when case 98 : chillax end otherwise : chillax end end otherwise : chillax end; input V; pop end

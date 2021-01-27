@@ -1,0 +1,1 @@
+program q5d : p : takes K : boolean; CL : boolean array; o, t6Ia, e : integer; E, zU : boolean returns nothing input M; when case - 77 - 23 : chillax end case 0 : chillax end case 8 : chillax end otherwise : chillax end end main : e : boolean; chillax end

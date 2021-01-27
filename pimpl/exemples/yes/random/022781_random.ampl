@@ -1,0 +1,1 @@
+program R : r : takes S89, K4 : boolean array returns nothing when case - 8 /= - 733 : output "" end case - 96 <= 97 : while 1 : chillax end end otherwise : chillax end end main : while - rl[38] or(618) * not 4 and 6310 - (1) + 1980 - 0 /= - true : let Ni80a[- 46000 - 000] = array 9 end end

@@ -1,0 +1,1 @@
+program o : main : N5 : integer; when case - c__0a(84700, 3) >= false : chillax end case - true * not 0490 and 7 : pop 83 end case - true and 6 : while 61 : pop end end; when case(538) - e9 and 86800 - 0 - 3 : pop 2520; output "@q!" . "5\\" end; input B end

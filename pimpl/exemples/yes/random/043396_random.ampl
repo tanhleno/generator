@@ -1,0 +1,1 @@
+program J70 : Qf2 : takes Y : boolean array returns integer while 50 and 4 >= 3 : chillax end; pop 6320 = 7 end A : takes g1B, c75a, z4 : boolean array returns boolean array QNLaa : integer array; chillax end main : chillax end

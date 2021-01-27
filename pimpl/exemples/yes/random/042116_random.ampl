@@ -1,0 +1,1 @@
+program E : JZ : takes A : boolean array returns boolean q, Hv : boolean; z, e : integer; output ";" end f170a : takes s : integer; p1, v : integer array returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program x : main : x : integer array; D : integer array; T : integer; output Q1(4) = - not 3 or 46 - 4; output - 105 and 6 or 6 /= 2 . "JA0a"; input f120[d6k]; do _i(2 - 4 >= 47, 83, 7, 2); while 806 = 18000 : chillax end end

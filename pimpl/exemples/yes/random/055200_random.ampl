@@ -1,0 +1,1 @@
+program J : z : takes T : integer array; OF, A : integer array returns integer array o, y, Y9Qaa, N : boolean array; I3, s1z : integer; output "" . ""; input g; when case 57 : chillax end case 151 : pop end end M1 : takes U12aa, N2, WO, Uh_a : integer array; B, L, vJ, oUy : boolean array; O : boolean array returns nothing chillax end main : d : integer array; chillax end

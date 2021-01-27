@@ -1,0 +1,1 @@
+program P : jxU : takes Jc7, I, N, B : integer; d7, yf, FnBaa, d, R : boolean returns nothing output 2130 - 8 . ""; do S(- 643 < 3560) end main : bL6 : integer array; n3, W, A : boolean array; Y, wD70a, A26 : boolean array; while - false rem(719) or not(8) : chillax end end

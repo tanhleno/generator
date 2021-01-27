@@ -1,0 +1,1 @@
+program Xhbaa : main : p, T4, Hz70, x : boolean; k, x : integer array; when case B6L[5] > false and w and 9 : chillax end case - true * QTa0 + false and 8 : let G[722] = 96; do M(0, 8) end otherwise : input z6D[3]; output "\t" . "" end; do W44(- not not 9 or false and 5, 0 or 984 - 9 = - 0, 564 <= 1, 8 = 4) end

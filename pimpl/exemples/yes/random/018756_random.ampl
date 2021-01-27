@@ -1,0 +1,1 @@
+program K9 : Q : takes NG2a, DR00 : boolean array; jbr, w1, m, C : boolean array returns nothing srQ : boolean array; chillax end main : Lh00 : boolean array; when case(9330 = 3) * true and r6 and 8 : chillax end case not true or not 5330 and 02 : output "\"" . "-\t"; do Ww90(005, 4530) end case - 8 and 8550 : let H = 096; let Md = 3 end otherwise : chillax end end

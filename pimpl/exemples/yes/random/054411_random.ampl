@@ -1,0 +1,1 @@
+program R : VA : takes dC_ : integer array; S, Yc : boolean; U, T5 : boolean returns integer CU : integer array; output 79 = 1 end ic : takes X : integer; u, Ka, M450a, Et : integer array; y : integer returns integer input X; let S4 = array 7 end main : l, Y : boolean; is, v6 : boolean array; b : boolean array; r, t, p3p : integer; chillax end

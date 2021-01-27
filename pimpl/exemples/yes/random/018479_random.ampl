@@ -1,0 +1,1 @@
+program C : l6 : takes g8, R : boolean; b1 : integer returns boolean array do m2(- false - 5400 - 0 = 65 - 0); while 30 = 0 : chillax end end o : takes C : boolean returns nothing JS : boolean; s, i, VQ : boolean; chillax end main : Y : integer; while - false * 31 < false rem(38) : chillax end; pop - not 57 and 3 or 6 = 4 - 20 end

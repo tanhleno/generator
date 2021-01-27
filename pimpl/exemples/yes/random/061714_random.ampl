@@ -1,0 +1,1 @@
+program p : SG : takes tn : integer returns boolean array chillax end Uq8aa : takes u : boolean array; i : boolean array returns nothing while - 8 - 2 <= 9840 : chillax end end main : B80 : boolean; chillax end

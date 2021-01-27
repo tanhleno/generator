@@ -1,0 +1,1 @@
+program T : main : while true : input m[13]; let F = array 07; pop 4 end; let I[m[77] rem 0 + false and 3] = array - false and 9 or false and 8; while(61) and 7 : chillax end; do d5(60, 5, 4, 43800) end

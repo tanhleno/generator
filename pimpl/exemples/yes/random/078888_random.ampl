@@ -1,0 +1,1 @@
+program FU : main : _Xj : boolean; L, A4 : boolean array; pb3a, I : boolean array; h, Hfoa, t : boolean; while not m4[64600] rem false * s5 and 9 or false + e and 5210 - 44 - 1 < - (82) / true : let UB = 847; do Bowa(194 = 83, 708, 314); input lS0; while 517 : chillax end; let NJ = 5; pop end end

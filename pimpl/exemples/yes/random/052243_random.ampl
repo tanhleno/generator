@@ -1,0 +1,1 @@
+program a : w : takes U88aa : integer; CY : boolean returns integer when case 84500 and 122 + 871 - 730 < 7210 - 4 : input h; do q(9) end; pop 284 end D : takes W : boolean returns integer chillax end YI : takes PD, p84 : integer returns nothing uqfaa : integer; output "" . "6" end LWr0a : takes _ : boolean returns nothing chillax end main : chillax end

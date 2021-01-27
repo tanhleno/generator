@@ -1,0 +1,1 @@
+program X : f : takes O8 : boolean array returns integer array let J[79 and 5] = - 77; do a2(- 47, 72, 97, 55900); input XS30a end _8 : takes z7_ : integer returns integer array chillax end f : takes X : boolean array returns boolean array let H[30500] = array 01 end main : b7 : integer array; PcX : boolean; pop - U or true and 0 <= - 6 or 88 end

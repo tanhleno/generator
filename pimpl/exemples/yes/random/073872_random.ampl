@@ -1,0 +1,1 @@
+program n9 : main : I, a : boolean; n78 : boolean array; pop - false rem(1) and 0 + false < - 7; when case - m2(20) rem not 6 - false + 8 > - not 777 : chillax end otherwise : input F5[1]; let w = 22 end end

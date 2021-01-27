@@ -1,0 +1,1 @@
+program j3 : p : takes W : integer; U : boolean array returns nothing input Z[- y7 and 8070 - 2 - 0320]; when case - 16 : chillax end otherwise : output "" end; let DiE0a[292] = 8; let B = 61; do j(5) end main : _bG, o : boolean array; o, O, o, h4 : integer; chillax end

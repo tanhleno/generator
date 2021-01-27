@@ -1,0 +1,1 @@
+program a : zY2 : takes Y, i, N : boolean array; uS4 : boolean; NE : integer array; K280a, y, Bb7, F, e8_aa : boolean array returns nothing q : boolean array; Ky10 : integer; chillax end main : R, B7 : boolean array; when case - (2) rem(92) / (3380) : chillax end; do DE(- true / (9) or not 052 and 2 <= (2) or 6870, false and 9 + 9 - 59900, 057, 86800); do I1(true) end

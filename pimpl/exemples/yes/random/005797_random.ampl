@@ -1,0 +1,1 @@
+program T : B : takes D8, uy, H4E, X : boolean returns boolean array chillax end main : a, hB : integer array; V, x : integer array; do e(- (7860 = 63000) * g and(2) and 9, - 38 >= T420 and 5, OX1) end

@@ -1,0 +1,1 @@
+program L600 : main : when case true or false and 2 and 5 + Z16aa and 22 + 4 - 9 : chillax end case - not not 9180 or not 7490 and 89 < - 7 - 90 - 66 : chillax end case false and 3 - 302 - 85600 : chillax end otherwise : pop end; pop end

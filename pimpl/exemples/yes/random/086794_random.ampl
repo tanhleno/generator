@@ -1,0 +1,1 @@
+program t1 : main : m : integer array; DW30 : integer array; y740a, Cvp0, E690a, EOA, Zu : integer; R_ : integer; w5 : integer; i : boolean; S : boolean; Tn7 : boolean; when case - 99 or true or false > - (2) * (6) : output "j\\!" . "" . "t" end otherwise : chillax end; pop - true and 6 + 2 - 684 end

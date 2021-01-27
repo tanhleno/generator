@@ -1,0 +1,1 @@
+program Y : p1 : takes O5X0, P : integer; X5Daa : boolean returns nothing chillax end N : takes vDha : boolean; gV, R : boolean array; Jo9 : integer array returns nothing chillax end main : chillax end

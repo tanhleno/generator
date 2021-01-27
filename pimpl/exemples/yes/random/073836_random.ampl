@@ -1,0 +1,1 @@
+program H : main : f, r : boolean; I : boolean array; OF, _ : integer; m : boolean array; _ : integer; do w(not true, - _5(9060) * false and 34400 - false or 3 - 854, - false and 89 - 49 - 02 >= 4, - 0 - 490 < 3, 5 = 183); do hx4(false or 1 and 9); do w(- not 518 and 73 = - 1 - 35) end

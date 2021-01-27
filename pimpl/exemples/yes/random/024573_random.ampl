@@ -1,0 +1,1 @@
+program g2O : s : takes _88, H59 : boolean returns nothing t : integer; d : boolean array; while - not 1000 = - 3 - 0 : chillax end; pop end L2L : takes bL : boolean; e, j, Q : integer array; c, s, FEH : integer array; S1, X, p1, X : boolean returns boolean N2, kl, B : boolean array; chillax end main : h6L : boolean array; F, U : boolean; R0 : boolean; h : integer; chillax end

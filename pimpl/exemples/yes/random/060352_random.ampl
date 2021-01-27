@@ -1,0 +1,1 @@
+program p : yw1 : takes Ae : integer array returns nothing tT80, V, P1Ha : boolean array; chillax end main : when case true * (5) rem(7) : output 0 = 5 . "E2" . "\t" end case - 41600 rem true and 1170 + not 8310 and 2 or 46700 <= true : input S[07]; while 2 : chillax end; pop end case false >= - 3 : chillax end otherwise : let k[5] = array 180 end end

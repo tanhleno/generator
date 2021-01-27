@@ -1,0 +1,1 @@
+program e : o9h : takes h : integer; O : integer returns nothing input s; pop; do n(44200 = 44); let n5s = 8; let OX = 2 end main : G30, _AO, I4 : boolean array; H17, H6, N, i, MJ, yY : integer; m, K6, q, v81, o : integer; C1w : integer; chillax end

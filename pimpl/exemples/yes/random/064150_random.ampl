@@ -1,0 +1,1 @@
+program k : Z : takes O9a : integer returns nothing do A(585 - 53 < 1); pop; input Z; input b; output ""; when case 1 : chillax end; pop end main : let F = - not(947) + false + 0 = - Ct3aa and 183; while - false and not 5 : chillax end end

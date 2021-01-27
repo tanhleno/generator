@@ -1,0 +1,1 @@
+program F : P : takes A : boolean; q9 : boolean array returns nothing chillax end wE8a : takes j, e9, c, n, U, P : integer array; Y : boolean returns nothing let Y[2 - 5] = array - 48; pop end main : MoQ : integer; chillax end

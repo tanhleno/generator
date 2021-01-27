@@ -1,0 +1,1 @@
+program j : x : takes k, L, h3 : boolean; O : integer returns nothing pop end n : takes R, kr : integer array returns nothing F : boolean; do O5(- 1500 - 25) end Re2 : takes y4 : boolean; p : integer; U4 : boolean; Jqn : integer array returns integer yHWa : boolean; Z : boolean; S02 : boolean; chillax end main : chillax end

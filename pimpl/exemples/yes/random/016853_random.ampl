@@ -1,0 +1,1 @@
+program K : Zvh : takes O, G1 : boolean; wGS, O640a, K, Dj : integer array returns boolean array Wp : boolean array; when case - 9 and 5 > - 688 : chillax end end main : J, n : boolean; do lp(0 + false / Tz, - (59) rem(42)); let K = - not 17 - 3390 - 9 = 6370 - 32 end

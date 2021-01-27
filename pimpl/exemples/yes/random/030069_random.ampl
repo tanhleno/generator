@@ -1,0 +1,1 @@
+program u : Y : takes M5, EJ4 : integer array returns integer c_80a : boolean array; pop end O7 : takes _ : integer returns nothing e, r : boolean; r4, ya, e4 : boolean array; S60 : boolean; chillax end ZD6 : takes c : boolean array returns boolean when case 4 : input l5h; pop end otherwise : pop end end main : H, S, R, E, u : integer; output - not true or(34) end

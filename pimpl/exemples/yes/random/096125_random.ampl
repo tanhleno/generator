@@ -1,0 +1,1 @@
+program i : main : when case - g9 or true and 2 and 3 : chillax end otherwise : when case 35 : do xA(5); pop end case 08 : chillax end otherwise : chillax end; let c9qaa = 1 end; let V5k[- not(6) rem 75] = - k and 517 - 6; let e = 695 - 86 < 614; do x1(- 3 > 3870); let x = array 97 end

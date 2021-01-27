@@ -1,0 +1,1 @@
+program b : E5e0 : takes n26aa : boolean array returns boolean U14 : integer array; while - not 5510 and 9140 - 0850 - 1 = 3 - 3 : pop; do p(400); let A = 1; pop end end main : V : boolean array; input M[(8 = 29) / not hl1a * O and 6] end

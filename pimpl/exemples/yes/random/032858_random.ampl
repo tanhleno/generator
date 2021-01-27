@@ -1,0 +1,1 @@
+program UI : WO1 : takes x9Ga, v : integer returns nothing a0 : integer; do g08a(- (1280), 93 - 84 = 9, 1 = 11100, 65, 12); let vB90[- 3] = array 44 - 84 end Y : takes _ : integer returns boolean array chillax end main : pZ, E, RE8, j, dD : boolean; chillax end

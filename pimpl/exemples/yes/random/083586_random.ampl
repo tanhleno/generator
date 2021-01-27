@@ -1,0 +1,1 @@
+program r : main : P4 : integer; s, O : boolean; while true /= - true : chillax end; while - (4) rem false and 66 - k6baa - 62 - 9 > - false and 4 - 277 : chillax end; when case y and 33 : chillax end otherwise : chillax end end

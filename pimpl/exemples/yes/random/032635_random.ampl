@@ -1,0 +1,1 @@
+program o : a : takes d, Kdp : integer returns nothing a, QP : boolean array; Q : integer array; u8G0a : integer array; b600, q : boolean; chillax end main : j, HG9, XKC : boolean; y4ma, n6 : integer; chillax end

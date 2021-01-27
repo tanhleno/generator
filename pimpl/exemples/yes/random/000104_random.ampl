@@ -1,0 +1,1 @@
+program J : I : takes v3, Q85, Q, c, D1, u8, S, H : boolean array; G : boolean; rBYaa, E, y46, Vyc0a : boolean returns integer s5, c, _9V, S, t2 : integer array; Ap, LB, j0, l2Eaa : integer; n, j8 : boolean array; chillax end main : do Z(tM = - (7) + not 95, - not false < - not 5) end

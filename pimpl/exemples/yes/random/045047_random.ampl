@@ -1,0 +1,1 @@
+program t6 : m : takes t : boolean array returns nothing let F14a[- true] = - 5 - 203 >= 4; while 5 > 6 : chillax end; pop; do x91(58) end L6Ra : takes l, d0 : integer returns nothing while - 3 : let Su = 6; pop end end main : e640a : integer; q_, q, s, Sm, i : integer array; while Fiy(8, 246) or not false / l or 28 - 6 : pop end end

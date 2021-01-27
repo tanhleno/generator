@@ -1,0 +1,1 @@
+program X : A : takes o1Ia : integer array returns integer pop - 90; while - 9 = 3090 : when case 2100 : chillax end end; while 0 : chillax end end IaG : takes RJ7, l0, X, N, d2 : integer array; s : integer; j3, g1E : boolean returns integer array LQ : integer; X, gi : integer array; y1j0a, C : boolean; RX : boolean; input T[- 8] end main : chillax end

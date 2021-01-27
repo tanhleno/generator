@@ -1,0 +1,1 @@
+program q : main : when case Kn[09] > true : chillax end case true rem q3 or J + 12 - 5790 = - false and 9 or 796 - 183 : let g = array 30 end case false and 99 > - 4 - 79 : pop; do E0(0); do yWn0(77); pop end case - 3 : chillax end case 0290 = 54 : chillax end case 2 : pop end otherwise : chillax end; output true and 05 < - 7 end

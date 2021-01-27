@@ -1,0 +1,1 @@
+program SI : n1 : takes z0, QN : boolean array; z810 : boolean array; j : integer array returns nothing while - true or 22 - 0 : chillax end; let s = array - 1; output "z" . 66 . "d1aa" end n6 : takes M4 : boolean array; D95, kp : boolean array; B53 : boolean returns boolean array e : integer array; output 9 = 6 end main : input o[true / true and true and 69] end

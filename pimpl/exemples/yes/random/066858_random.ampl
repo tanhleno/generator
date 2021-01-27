@@ -1,0 +1,1 @@
+program J2C0a : main : do W1(- true /= - z[4] * (6) and 04400 or 50400, 2 or 8 and 7 - 41 >= not 33 and 331 or 72 - 144, - (651) and 6600 >= 68 - 4, 1 > 156); while - false and false or 48 >= - not 99300 and 879 - 0 - 57 : chillax end end

@@ -1,0 +1,1 @@
+program N : c : takes hv, W, J : boolean returns nothing do K(- not 0 and 9 >= 3280, 70); do Q8(- 33 - 56 > 4); output 0710 . 867 end Nk : takes n, t : integer returns boolean V : boolean array; input Y6J0a[43 - 801] end main : L : integer array; chillax end

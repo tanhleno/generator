@@ -1,0 +1,1 @@
+program p : main : Q, f, ih : integer; while - not q(88) * 76 / T = - E600a(9950) / X82aa and 5 : while 254 >= 949 : chillax end end; output "3.!a"; while - true and 3 : pop; pop; do IA_aa(80500) end end

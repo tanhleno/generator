@@ -1,0 +1,1 @@
+program TVk : NCi : takes D, Y : integer array; Q : integer; X0Y, _ : boolean; m : boolean; G : boolean returns integer array e : boolean array; m : boolean; chillax end g2 : takes j41aa, FF : boolean returns boolean array b, v26, w9i : boolean; when case - 0 >= 4 : pop end otherwise : input Yx; pop end; while 35 : chillax end end main : chillax end

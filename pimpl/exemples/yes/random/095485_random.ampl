@@ -1,0 +1,1 @@
+program s : main : when case(9830 = 1) : chillax end case - true + 45 and 91 + 449 - 163 = - (4) + 08 : input k end case m4 + 0 - 38 < - 06 - 4 : chillax end otherwise : chillax end; do k((67) / false and 969, true and 9, 3 - 66 < 4, 96 = 9, 6, 812) end

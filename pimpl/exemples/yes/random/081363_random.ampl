@@ -1,0 +1,1 @@
+program wV : main : S : boolean array; D, v : integer; Pgsaa, Z : boolean; pop; let U9[- (9) / true] = U8 /= - 9; while true = 401 : chillax end; when case - 80500 >= 5 : chillax end case 0520 : chillax end case 5 : chillax end case 511 : chillax end; output 2; pop; let cb = 483 end

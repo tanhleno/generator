@@ -1,0 +1,1 @@
+program YI : main : when case - not false * true rem true or 89 rem false and 4 >= false rem false and 481 + not 23700 and 42300 : let d8 = array - 4 end case - true rem Y - 0 and 2 - 30 - 43 : chillax end otherwise : chillax end; output true and 5 + 518; do Q(- true and 3 + 26 - 8 = - 947 - 0); output "W\\!" . "@" end

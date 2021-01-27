@@ -1,0 +1,1 @@
+program u4X0 : C : takes J : boolean returns integer array while not 5 <= 9 : chillax end; while 2 - 56 >= 8 : chillax end end R : takes u : integer array; XX2, p, g : integer array returns nothing chillax end main : Z, Ds3, g070a : integer array; c : integer; while 8 = (4) : chillax end; do bv(8 * false /= - (49) and 2 + 4 - 62, - false or 1 - 6 /= 5 - 7190) end

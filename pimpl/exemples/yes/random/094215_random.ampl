@@ -1,0 +1,1 @@
+program O7 : main : pop - 5 rem 61 and 67 - 4 and 92 or 65 - 4 >= 48 and 2 or 6 - 2; while(68) * false and 1 >= - true and 7520 - 3 - 3 : output "" end; while true + 45500 <= 49 - 011 : chillax end end

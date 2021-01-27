@@ -1,0 +1,1 @@
+program M : G : takes v : boolean; O, B, _z, S : integer array; e : integer returns boolean array d : boolean array; i : integer; C : boolean; J4, A : boolean; w6 : boolean; input rVh0; when case - 42 = 5 : chillax end otherwise : output "5" end end main : chillax end

@@ -1,0 +1,1 @@
+program a : nb : takes G5 : integer; X1 : integer array returns integer array s, n, K7, P : integer; n, SY3aa, p, Ki : integer array; chillax end E : takes u, iZ1, M6 : boolean returns integer array l : integer array; GB8aa : integer; let d8[- 9] = array 7; do efe(16 = 40, 09000) end main : input Hn3[- (68)] end

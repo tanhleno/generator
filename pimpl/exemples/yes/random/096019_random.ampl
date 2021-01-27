@@ -1,0 +1,1 @@
+program B : main : when case - T / true / (7) and 1 >= - false : input b[- 5 - 3490]; input aG0[8] end; while - false * v3 and 2020 >= - true - 4 - 5770 : do W8(310); input S[38] end; output "5-a" . "{6"; while 3 : chillax end end

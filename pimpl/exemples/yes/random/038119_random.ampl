@@ -1,0 +1,1 @@
+program I5 : i : takes ch : boolean array; d, D, Iz : boolean array returns nothing i : integer array; Y1 : boolean array; output "c" end main : j : boolean; f82aa : integer array; PpS0a, c : integer; F, i, Q, J : boolean array; chillax end

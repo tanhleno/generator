@@ -1,0 +1,1 @@
+program B : xm : takes yY, A, wE60a : boolean array returns integer array chillax end main : m, c, R : boolean; qx : boolean array; while true * not(75) / 89500 + true >= - (04) : chillax end; input Q7[- true]; let l8[true] = array 178; do d(49); while 4 : chillax end end

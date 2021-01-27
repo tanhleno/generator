@@ -1,0 +1,1 @@
+program MY8aa : main : when case true * false /= (53) and false or true and 6 - 108 - 6 : chillax end case(4) < false and 151 + 195 : do r(902); let v3[99] = array 0 end otherwise : let y33a[78] = array 5; let FGI0a = 9 end end

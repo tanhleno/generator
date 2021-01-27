@@ -1,0 +1,1 @@
+program S6 : VA : takes Sv, l8, v9qa, i8Ma : boolean array; eL : integer array; R2b, xa30a, c, H : integer array returns nothing do f(- not 1 - 7); pop 5450 = 0; do E(62 = 2, 97, 6) end J2t0 : takes chc : boolean returns nothing chillax end main : chillax end

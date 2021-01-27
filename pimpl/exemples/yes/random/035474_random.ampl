@@ -1,0 +1,1 @@
+program w : W : takes Ie : boolean; y : boolean; i4 : boolean array; Z : integer array; rI : boolean returns nothing Di, CO : boolean array; input P[- Y and 5 + 0]; while - 6 <= 10 : let _23 = 7; pop; pop end end pz : takes O : integer; lk8, rE, pp : boolean returns boolean array chillax end main : chillax end

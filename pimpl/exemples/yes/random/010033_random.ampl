@@ -1,0 +1,1 @@
+program f : b : takes A, u, t : boolean array; A : boolean; s : integer array returns integer o, W : integer; let jg4a = array - true and 90800 - 2 end main : output Au(11) < - false and 6370 - 5 - 5 . not 63000 and 66 + 29 = - 98 - 6 . "" end

@@ -1,0 +1,1 @@
+program c65 : main : Zs3a, _ : integer array; Ws8a, s, L, eB40a, y, I : boolean array; do c7((02 = 8) /= not false); input D[false or(3) and 3]; pop; when case - 08 - 39 : input D; pop; pop end case 6 : chillax end case 65600 : chillax end case 67 : chillax end; while 5 = 97800 : chillax end end

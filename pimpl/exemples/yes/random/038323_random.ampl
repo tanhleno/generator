@@ -1,0 +1,1 @@
+program J : Y_ : takes J : boolean array; T, R, I : integer array; w : integer returns nothing z, ef : integer; L : boolean; pop end c : takes jH : integer returns nothing chillax end a : takes P : boolean array returns integer array when case 901 : do x(35) end case 70 : pop end; output "8" end main : chillax end

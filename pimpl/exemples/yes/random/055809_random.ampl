@@ -1,0 +1,1 @@
+program J : A : takes Bm : integer array; R : boolean array; t, u : boolean returns nothing when case - z10 and 40 <= - 8 - 4 : while 3 : pop end end case 2940 - 63 : chillax end case 82 : chillax end otherwise : input F9o end end main : chillax end

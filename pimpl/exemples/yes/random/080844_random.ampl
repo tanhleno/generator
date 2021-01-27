@@ -1,0 +1,1 @@
+program b5H : main : b : boolean array; G950a, FX, N9, N1, nh9 : integer; Q : integer; C4, z : integer array; when case(27700 = 18) * 3 * 24 + not not 79 rem true or true - 10900 : input G22aa[789 - 445]; output 17 . "1" . "\n" end; while k / R or D7 and 370 <= - 9 and 32 : chillax end; output 635 < 71 end

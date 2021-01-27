@@ -1,0 +1,1 @@
+program x6 : g5 : takes d5vaa, O690a, w : boolean array returns boolean chillax end main : Pn3a, d : integer array; k, W : integer array; y03, o : boolean array; M, t : integer; h8Baa : integer array; T, x : boolean; E : boolean; chillax end

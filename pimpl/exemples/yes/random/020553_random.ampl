@@ -1,0 +1,1 @@
+program t8 : F7 : takes R, JP : boolean array; I8b : integer array returns integer array do Bq(- (8410)); when case - 2 - 9 >= 7060 : output "\t" end otherwise : chillax end end OI : takes sP : integer array; g4v, BAM : boolean array; B, vd : boolean returns nothing Bs7a, F : integer array; while 8 - 64700 <= 97 : chillax end end main : K : integer array; input D end

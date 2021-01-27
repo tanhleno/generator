@@ -1,0 +1,1 @@
+program T : WEaaa : takes k, Fkw : boolean; L : boolean; zY, l7 : boolean array; M, ZD40 : boolean array returns nothing chillax end main : o : integer array; v2 : boolean; output "" . "}" . - 6 - 4 end

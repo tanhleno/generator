@@ -1,0 +1,1 @@
+program v : K : takes DqO : boolean array returns nothing ca, ce6 : integer array; chillax end o : takes tT, u, c : boolean array; a, S : boolean array returns nothing chillax end main : qq90, U : integer; pop; do Bma(f[5] <= 14 and 73 or 89) end

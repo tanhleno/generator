@@ -1,0 +1,1 @@
+program GYQ : m : takes m : boolean; x, c : boolean; E : boolean array returns boolean array input p8[- (1) and 2] end main : P : boolean array; G, P3 : boolean; l, W, _ : boolean array; l : boolean array; chillax end

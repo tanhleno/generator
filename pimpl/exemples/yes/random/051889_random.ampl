@@ -1,0 +1,1 @@
+program TG : H : takes V : integer; i9a : boolean array returns boolean array X0 : integer array; x : integer; S, S, R : integer array; t, J340 : boolean; IK3a : boolean; pop 642 - 504; let l380 = array - 0 - 80; do n130(948) end main : chillax end

@@ -1,0 +1,1 @@
+program P : Z : takes pgj, f, T3 : integer array; a, W : integer array returns integer array while - false and 5 or 5 >= 5 : chillax end end j : takes s39 : integer returns integer while - 3330 : chillax end end main : output "" end

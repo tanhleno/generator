@@ -1,0 +1,1 @@
+program B : a21a : takes Qb1aa : integer returns integer array Ls : integer; do m(true and 770) end w : takes e6, RK : boolean; jJ0 : integer array returns boolean array d1, i, e2, C : integer; chillax end main : _ : boolean array; pop - not(5) rem not 6; while - false * true and 730 or 3 = - 543 - 53 : while 3 = 25 : chillax end end end

@@ -1,0 +1,1 @@
+program p1 : main : when case - (24 = 5930) / iSc[88] and false or GS[4080] / 943 and 706 : chillax end case true >= - 2820 : when case 004 : input y; pop end case 4 : chillax end case 94 : chillax end end end

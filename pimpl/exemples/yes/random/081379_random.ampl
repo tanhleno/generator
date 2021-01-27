@@ -1,0 +1,1 @@
+program H : main : Y6 : boolean array; F380a, y : integer; G : boolean array; M, i : boolean; X, k, F : boolean array; b, K21 : boolean; GO : boolean; output false + B and 6 + 8640 . - not 38 and 5 > 81 - 9210 . 05 - 1 end

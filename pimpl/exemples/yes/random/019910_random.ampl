@@ -1,0 +1,1 @@
+program Wg : H : takes pA3, i2 : boolean array; Sp2 : boolean array; dR : integer; X : boolean; Ao, vm, R4Iaa, Qk : boolean returns integer array fe, t : boolean array; chillax end main : output - mYr rem not 27 and 5 - Des and 2 + 25000 <= true or 5; when case - (98) / D or(2) - 50 : chillax end case 044 and 33 : chillax end otherwise : pop 5; while 924 : chillax end end end

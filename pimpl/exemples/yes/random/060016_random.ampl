@@ -1,0 +1,1 @@
+program zW : c : takes u : integer array returns nothing chillax end main : p : boolean array; n4 : integer array; when case false * not false + true / C or 2 and 44 : chillax end case - false rem not 5 and 366 : while 58 : chillax end; do Mv7(1250, 09); when case 22 : chillax end; output ""; pop end otherwise : chillax end end

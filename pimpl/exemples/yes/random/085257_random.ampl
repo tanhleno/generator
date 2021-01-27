@@ -1,0 +1,1 @@
+program g : main : l : integer; while(36) rem true < not 59 : chillax end; when case(03) : let En[97] = 990; do R(5, 95); input OE6 end otherwise : when case 045 : chillax end otherwise : chillax end; when case 4 : chillax end end; pop 9 < 76 end

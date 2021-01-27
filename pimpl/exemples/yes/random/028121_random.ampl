@@ -1,0 +1,1 @@
+program U : _ : takes cMc0, t9 : integer array; aX : boolean; l, v, s7D, R : boolean returns boolean array when case - x1 and 5 + 8250 : chillax end case 1150 - 6 /= 889 : chillax end otherwise : chillax end; while - 39 : chillax end; input v2; when case 243 : chillax end case 6 : chillax end end main : i, u, aBB : integer; G : boolean; output "" . true /= 0 end

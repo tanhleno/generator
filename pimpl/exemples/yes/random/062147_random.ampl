@@ -1,0 +1,1 @@
+program Ma : S : takes L : integer returns boolean array when case - true and 8 : chillax end otherwise : chillax end end N : takes o, GAOaa : integer array returns boolean array S : integer array; z, L, I : integer; chillax end main : chillax end

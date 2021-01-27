@@ -1,0 +1,1 @@
+program T : V : takes h : integer; v, O19, w1 : boolean returns nothing chillax end main : while - true * f9(515) * 3 - (77) + true = - true / not 9 and 5 : let T[- 88] = 1 = 2; let m = array 6; when case 8270 : chillax end otherwise : chillax end end; do a7(- true * true and 1 > - not 7 + 4); let P[- t] = array - z end

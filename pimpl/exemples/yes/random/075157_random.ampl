@@ -1,0 +1,1 @@
+program z : main : v, jdK : boolean array; Kl : boolean array; when case 47 - m_[2] * false and 3 > - 469 and(5) and 4 : let yH[0 - 65] = array 3 end case - true - 73 and 2 or 9 - 5 > true + 2 - 0 : chillax end case not 107 and 5 : chillax end case 0 - 5 : chillax end case 1180 = 0 : let Ug = 6 end otherwise : do s8(5 = 20, 8, 791) end end

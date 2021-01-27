@@ -1,0 +1,1 @@
+program e1 : main : J1 : boolean array; while L52a[9] - false * s and 3 : do K(- 213); input C; when case 855 : pop end case 5200 : chillax end; input en; let Z2 = 3 end; input f; pop 8100 - 163; do i(- 437 - 24 >= 1, 6) end

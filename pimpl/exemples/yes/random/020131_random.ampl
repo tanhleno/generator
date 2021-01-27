@@ -1,0 +1,1 @@
+program O : v : takes B65, U1 : boolean array; c : boolean returns boolean when case - not 7 and 82 : output "\t" . "" end otherwise : while 907 : chillax end; let J6 = 32500; pop end end k : takes z, xj4, _4, S, PA, f : integer returns boolean array when case 3 : chillax end case 95 = 34 : when case 6 : chillax end end end main : M370a : boolean; output "" end

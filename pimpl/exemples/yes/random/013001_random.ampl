@@ -1,0 +1,1 @@
+program d : W : takes A, z, w6W : integer; D, tH_0 : integer array returns boolean array _ : integer array; chillax end kb : takes d7, JdW : integer array returns nothing y, p, H12 : integer; chillax end H : takes H : boolean returns nothing p6 : integer; h : boolean; chillax end main : j6 : integer array; input h4[45]; pop(6) and 2 < 570 - 10700 end

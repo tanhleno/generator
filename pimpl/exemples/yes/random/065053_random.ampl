@@ -1,0 +1,1 @@
+program Rm : I : takes HxO : integer returns nothing d : integer array; chillax end main : let C = - true + (857) or 5 - 0; while true - not 51 >= nk2 and 0 : output ""; do x(611); output ""; output "i"; pop end end

@@ -1,0 +1,1 @@
+program Wi : z : takes P : integer array returns integer pop 4 = 0; while 91400 - 3 : chillax end; pop end L : takes q3, W : boolean array; w : boolean; d2, X7K, UM1, g : integer returns boolean array do r8f(5 < 3, 4, 0430, 64) end main : chillax end

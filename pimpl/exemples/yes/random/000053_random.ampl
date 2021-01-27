@@ -1,0 +1,1 @@
+program O9 : R : takes Dy, S, Qf, IE, _, O, b8d0, qk : boolean; FEVa : integer; o9 : boolean array; d3 : boolean array returns nothing T, Pm : integer array; input q[b]; while - 31 - 1 : chillax end; while 528 : chillax end end J : takes U, In : integer; G74 : integer array returns integer array l : integer; chillax end main : input EC end

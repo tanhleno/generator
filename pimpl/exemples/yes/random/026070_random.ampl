@@ -1,0 +1,1 @@
+program X : FB : takes qC6a, E : integer; H5 : boolean; y : boolean array; F, z : integer; q : integer returns nothing Oc7 : integer array; chillax end main : when case not 6 and false / true : when case - 2 : chillax end case 0 : chillax end otherwise : chillax end end otherwise : do j1(6 = 43, 112, 25); when case 9 : chillax end otherwise : chillax end end end

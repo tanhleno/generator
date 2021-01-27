@@ -1,0 +1,1 @@
+program TR : slY0 : takes u : integer array; E6S, j60a : integer returns nothing X, P16, D4 : integer; RU2a : boolean; do j(- true and 61 <= 9, - 1 - 703 /= 8); input Pqt0; when case 3090 = 74800 : chillax end otherwise : pop end; let EH[3] = 7 end main : chillax end

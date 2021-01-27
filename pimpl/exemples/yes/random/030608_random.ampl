@@ -1,0 +1,1 @@
+program Q0 : UO : takes B, sy7a : integer array returns nothing D76, z : boolean; while - (9) and 8 <= - 1410 - 7 : chillax end end Z47 : takes X, IYga : integer returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program n : q_Z : takes G : boolean; r61, CxY : integer returns integer I700, B2, n, RA20a, B : boolean array; uX : boolean; P : integer array; input B510a end M : takes C, eD, q : boolean returns integer when case 58600 - 9 : do r(8); pop; pop end case 66 = 3 : chillax end otherwise : chillax end; while 4 : chillax end end main : chillax end

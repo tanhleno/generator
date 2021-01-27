@@ -1,0 +1,1 @@
+program w : h : takes ru : boolean; gg : boolean array; e, W, nH : boolean array; S3, R : integer; eQ, u2 : integer returns integer W : boolean; I : integer; ocQ : integer array; H, y : boolean; input Lq00 end n : takes G5, BZ, D9 : integer; E, V : integer array returns integer array FGf : integer; waU, xRc : integer array; chillax end main : let Bl = A /= - z0 end

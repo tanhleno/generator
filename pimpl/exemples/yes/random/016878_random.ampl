@@ -1,0 +1,1 @@
+program a7 : G : takes LU, R : boolean; a, g, Z, o : integer returns nothing tB7a, L0 : boolean; x, I8Ba, f6 : integer; J, T, Z : integer; z : boolean; R : boolean; y : boolean; while 5 and 0 or 9 < - 25 - 319 : while 4 : chillax end; while 987 : chillax end end; output 2 end main : chillax end

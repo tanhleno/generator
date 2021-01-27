@@ -1,0 +1,1 @@
+program L : X8 : takes XVqa : integer array returns nothing A9, LwWaa : integer; t, b, u, kP : boolean array; m, X : integer; X, bu70 : boolean; chillax end main : N, c : boolean array; i2, b : integer array; output - (3) and false - x and 2 + 41300 /= (5); do K(- 6 /= 0, (6) - 9 /= 4 - 90); let g2[- true and 865 - 77 - 9] = - 3000 - 84 >= 1; output "]" end

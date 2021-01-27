@@ -1,0 +1,1 @@
+program z : Ag : takes ei00, F, Vi70, N, y, M : integer array returns boolean W, MJ80 : boolean; k, y3, Faxaa : integer; chillax end main : o : boolean; s : boolean; xBoa, _, P91, Y, Q : boolean array; input BE[pp1a[4]] end

@@ -1,0 +1,1 @@
+program O5 : s : takes k, Xs0aa, Cy : integer; j4Aaa : boolean; V : boolean; k8N, C9Ba : integer array returns integer rN : boolean; chillax end main : input J; when case E rem true and 6 - true - 2 - 96 >= 9 - 2710 : let g = 2; while 3 : pop end; when case 32400 : chillax end; let r = 2 end case - v590 : chillax end end

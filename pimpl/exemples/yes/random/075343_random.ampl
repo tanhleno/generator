@@ -1,0 +1,1 @@
+program T250 : main : d, Td7a : boolean array; gs : integer array; output false > false + 5 - 2950 . "\n" . "%\"\"" . "\n"; output ik and 748 - 7 = - 6 . "" . ""; pop 00 - 7 >= 24; while - 2 = 125 : chillax end; when case 07 : chillax end otherwise : chillax end; while 30800 : pop end end

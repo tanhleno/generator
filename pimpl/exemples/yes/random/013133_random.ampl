@@ -1,0 +1,1 @@
+program mS : y : takes PAMaa, q, a15 : integer; z4 : boolean; S5 : integer returns integer A, o : integer array; F : integer array; h, k : integer array; s : boolean; z : boolean; y0O : boolean; do BQY0(- 0 or 2 /= 0, - 8 - 7 >= 12, 4) end main : xlG, C47aa : boolean; E : integer; let A6[- E73(2, 1830) rem not false or not 60 / 6 and 6320 + false] = - true or true and 1 end

@@ -1,0 +1,1 @@
+program L : b10 : takes kR : boolean; a0a : integer array returns nothing k, R2G0a, d9M0a, koIaa, Y : integer array; pop; input Y9uaa end VX : takes n8, n0 : integer array; Zl8a : integer; I : integer; B2, a, fS8 : boolean; KY0 : integer; D : boolean returns nothing let t[8 - 8610] = 87 end main : chillax end

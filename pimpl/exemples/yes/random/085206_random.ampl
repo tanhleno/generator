@@ -1,0 +1,1 @@
+program j6 : main : D0 : integer; when case _E[9] or false = (88) and false and 5970 : input C5[- 2]; output "" . 31 . "`~0a"; when case 8 : chillax end case 4 : chillax end otherwise : chillax end end case - (53) and(5880) : input B[331]; let Z = array 6 end case 6 and 84 or 1 /= - 21 - 9 : do U(4); let um = 85 end end

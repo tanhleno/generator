@@ -1,0 +1,1 @@
+program Lpi0a : x4 : takes KQXaa, l2, q3, v, U, Kr : integer returns nothing i1x0, VEn0a, H0Xa, s, R : integer; c, T8d : boolean; W18 : boolean array; output "Ffaa" . 1 = 7; let g[- 53 - 3] = 857 = 7 end main : when case - true * false : chillax end end

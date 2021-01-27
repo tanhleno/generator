@@ -1,0 +1,1 @@
+program s : F : takes rR1 : integer array; z : integer; J0, Z : boolean array; H : boolean; AC, _7ha : boolean array returns nothing chillax end main : output "`" . - true - 8 /= 5690 . - 2 . 1 = 90; pop end

@@ -1,0 +1,1 @@
+program E8 : w : takes Nv2, G : boolean; yG : boolean; x, k1, i : boolean array; T, m, b4 : integer; m : integer returns nothing pop - 8 < 8 end main : Us : integer array; D, eA : integer array; F : boolean; X, O, tF : integer array; z2, C690 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program h960 : p71aa : takes na9 : integer array; T, l5 : boolean array returns nothing s, K, cN, dBoaa, bLo0 : integer; input I; let QgFa = 2 end main : LN : integer; qy, RRHa, P, yx7, O : integer array; output - 11 or(1) or 4 end

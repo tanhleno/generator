@@ -1,0 +1,1 @@
+program G : P9 : takes O, g : integer returns nothing input B[- (29) and 2]; output 95 . 16100 . 67 end main : when case - (2730 = 868) rem true = - not(7) / (65) - false and 956 : chillax end case - not true : let z[14] = array 3; let X = array 3 end otherwise : input t[30]; let sr[3] = array 8 end end

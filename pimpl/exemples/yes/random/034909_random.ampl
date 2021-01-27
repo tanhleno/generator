@@ -1,0 +1,1 @@
+program d9 : q : takes R42 : boolean; t, w : integer array; O, _ : boolean returns boolean array chillax end td : takes v3, n : integer returns nothing x6 : integer; do Z0(83 - 83 <= 29, 02) end z : takes U, k0, r : integer array; eTH0 : integer returns boolean array chillax end main : output - (0) rem not 45 or n61a and 7 > 24 or 7 - 3 . true and 9; let A = - false + 111 end

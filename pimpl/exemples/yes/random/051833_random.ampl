@@ -1,0 +1,1 @@
+program k : BBf : takes c950a : integer; l : boolean array; c : integer array returns nothing T810a : boolean array; chillax end main : NRq : boolean array; output - B rem true and 5320 = - not 90400 and 11 . "9" . - 24 - 02 < 3 end

@@ -1,0 +1,1 @@
+program R76a : main : w2 : boolean array; w8 : integer array; do V((6 = 0), false, - b2 - 22 - 8, 595 <= 40, 1 = 40, 28300); while true * (9) or g or 5 - 2 = - t : chillax end; let sGA = array false; output 5 = 2 . "{W!a" end

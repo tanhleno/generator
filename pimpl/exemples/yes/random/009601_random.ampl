@@ -1,0 +1,1 @@
+program w : S : takes B9, P5o0, W3s0a : boolean array; o, N, L, bE : integer array returns nothing pop; output 1 = 3 . "\\" end x07 : takes k, z : boolean array returns boolean array chillax end r : takes Q, r, VOZaa : boolean; x, jH1 : integer array returns boolean array input d; do H(9); do c31(3); input S9; pop end main : do kw(- (08) + 839 / not 4 /= - false and 039) end

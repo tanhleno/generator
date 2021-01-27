@@ -1,0 +1,1 @@
+program L9 : main : when case(9 = 98) * false and not 4 and 38 or P[47] and false and 32 or true and 3080 >= (38100) and not 8 and 17 or not 407 and 5 : when case 08000 - 9 >= 3 : chillax end case 59 : let q = 6 end otherwise : chillax end; when case 1 = 8 : chillax end otherwise : chillax end; do q2(3); while 9 : chillax end; pop end otherwise : pop 3; input X[88] end end

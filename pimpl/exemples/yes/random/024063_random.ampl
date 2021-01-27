@@ -1,0 +1,1 @@
+program J : z : takes g, i : boolean returns nothing chillax end main : z38aa : integer array; pop not false + false; let O[- 09100] = - false or 25 - 749 = - 075 - 08; let v7a = 3 - 1500 = 8; let G23[076 - 8] = 677; input y5y[84400]; do w(3) end

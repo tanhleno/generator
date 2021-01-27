@@ -1,0 +1,1 @@
+program p : p : takes Z4 : integer returns integer M5, p, Zi8a, G, IvRaa : integer array; do P6(false and 9 or 11 - 55600, - 5 >= 9, 4 = 9) end V0 : takes dp : boolean array; G : boolean array; J, z920a, N : integer returns integer ch, H, v8D : integer; while - 1 - 3 = 9 : chillax end end main : pop not not 70 end

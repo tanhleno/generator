@@ -1,0 +1,1 @@
+program W : n63 : takes I : boolean returns boolean array ds60a, Bb, BmQ0 : integer; output "%9!" . 98; do u5(- 704 - 18 >= 74700) end U_E : takes a2, _ : boolean; w : integer; g9 : integer; n, S5 : boolean returns integer array chillax end main : R : boolean; y, d, e68aa : integer array; W, c : integer; chillax end

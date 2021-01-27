@@ -1,0 +1,1 @@
+program Z3Na : NY : takes PC : integer array returns boolean array N : integer; ZG1, e : integer array; e0Yaa, p, e : boolean array; let LuO = - 3 - 3; pop 77 = 38; output "" end main : N : boolean; do K8(- true rem 09, true / not 0 and 2110 or not 08000 and 5 + 6, - y >= - 7 - 46, - 30100, 5620 = 7); pop - 02 and 87 < - 85000 - 3; do o(not 419 + 4, - 9360 - 9150) end

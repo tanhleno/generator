@@ -1,0 +1,1 @@
+program p2 : main : u : integer; o4, q, Y : integer; let q[- false] = - c7 rem(89400) and 64 <= - not 433 and 1; pop false; do c(- not 70 and 7 - 0 > - 06800); pop; when case 53300 : do o6(9) end; when case 30 : chillax end case 5 : chillax end; while 799 : chillax end end

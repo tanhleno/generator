@@ -1,0 +1,1 @@
+program D : I : takes o : boolean array; yf, d, T : integer array; T : integer array; Y, Tn : integer returns boolean X, f5 : boolean; Wa60, a03, c : integer; SCc, w, r : integer; x : boolean; n : boolean; y6 : boolean; when case false and 8 or 5050 : chillax end; while - 04400 - 57 : let X = 0 end end main : v86 : integer array; pop end

@@ -1,0 +1,1 @@
+program e : p : takes g : integer returns nothing Kh, n : boolean array; input d[- (720) + 9 - 84] end xi : takes e7Q, z, j : integer; j, k : boolean array returns integer array input P2 end x73 : takes h : boolean array returns integer array T3, sb, m : boolean; rA1 : boolean; let ny[62] = array 8; output "" . "E" end main : e, u : integer; a7, o : boolean; chillax end

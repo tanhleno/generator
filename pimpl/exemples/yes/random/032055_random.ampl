@@ -1,0 +1,1 @@
+program iUU0a : k : takes co4, C72aa : integer returns integer wd6, s1 : integer; chillax end main : z : boolean; B9 : boolean; when case - true / xr[0190] * 7 and 50 < - false - (60100) and 3840 : let f = 43 end; output ">"; do Q(- not 332, 9060 - 144 = 494) end

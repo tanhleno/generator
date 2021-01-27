@@ -1,0 +1,1 @@
+program b : main : n : boolean array; C : integer array; while 1340 * (60900) - (0) * (2150) and 37400 + false - 3 > - k and false and 903 : chillax end; let C30aa[En] = array - _[1470] rem S6K - 31 end

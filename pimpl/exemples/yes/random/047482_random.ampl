@@ -1,0 +1,1 @@
+program j880a : U : takes BV : boolean returns nothing chillax end N : takes t4ra, w4 : integer returns nothing when case 930 : let E = 0; while 513 : chillax end end otherwise : chillax end end m63 : takes T700 : boolean; io90a, y, ll, t, Y : integer array; T : boolean; g, r : integer returns nothing pop 77 end main : chillax end

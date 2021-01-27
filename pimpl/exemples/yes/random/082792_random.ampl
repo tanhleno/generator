@@ -1,0 +1,1 @@
+program tO : main : oa : boolean array; while(8) * not 206 or(6) rem not 5 and 75 - (06) and 93 + 7 - 5 : chillax end; pop; while - (4) and 2 + 1 : let P = 2; let V5ja = 3040 end; when case 95 - 57 : chillax end otherwise : output "" end end

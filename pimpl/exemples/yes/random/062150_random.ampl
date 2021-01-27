@@ -1,0 +1,1 @@
+program M : hwu : takes Q280a : integer returns boolean array when case dm or 31 : let F[38] = array 623 end otherwise : pop; output "?o0"; pop end end main : T, A : integer; let LO9[- false] = (01) / false + true end

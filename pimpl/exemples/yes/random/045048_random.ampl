@@ -1,0 +1,1 @@
+program lK : jiP0a : takes Gl : boolean array returns nothing let s[- true] = array - not 1 end rmB0 : takes X, J, v : integer returns integer array uN, rq, GgMaa : boolean array; pop end main : chillax end

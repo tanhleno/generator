@@ -1,0 +1,1 @@
+program f : main : when case true / false : when case 30 - 9 : chillax end case 5 = 5 : while 51800 : chillax end end otherwise : chillax end end case(07) and true or true - 76 >= - (956) + 3 : chillax end end

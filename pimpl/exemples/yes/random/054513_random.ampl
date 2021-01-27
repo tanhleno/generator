@@ -1,0 +1,1 @@
+program c : t0N : takes z : integer array; i, X : boolean array; SO, e, i8v0a, C : integer array returns integer array d : boolean array; B, s2 : boolean array; do U(- false and 97 or 62 - 4 >= 5 - 48) end A6w0 : takes n4Da, vS, i, x, G, AA, b : integer returns nothing chillax end main : chillax end

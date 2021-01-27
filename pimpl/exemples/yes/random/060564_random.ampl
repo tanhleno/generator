@@ -1,0 +1,1 @@
+program W : E : takes R : integer array returns nothing B, j2Qa : boolean array; pop 2 - 1 > 58 end Gc : takes y, K, X, S7, q5y0a : boolean; E, A, W, i, B, D : boolean returns nothing pop end main : chillax end

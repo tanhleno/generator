@@ -1,0 +1,1 @@
+program V : t : takes A45 : boolean; fs : integer returns nothing chillax end JTM : takes S7 : integer; V, i, vt : integer; e : boolean array returns boolean output "" end n : takes r : boolean returns boolean chillax end main : output false or R8 and 1 - 7 - 0 >= (8) and 1390 - 99400 . - 1 and 6 /= 275 . "?\t0" . 31 . 4 end

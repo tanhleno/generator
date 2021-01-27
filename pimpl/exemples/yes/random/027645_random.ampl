@@ -1,0 +1,1 @@
+program U9 : E : takes d, Xw : integer array; n2, n : boolean array; U, e, HV : integer array; Ll, n : integer; i, Q84 : integer; B : boolean returns integer array let a140a[not 2] = - 4 - 942 end main : when case true >= false and true and 36100 or true : output 05 . 6 . "<" . "0" end case - (9) - not 2 : output 4 end case - not 46 and 6 <= - 236 - 30 : chillax end end

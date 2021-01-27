@@ -1,0 +1,1 @@
+program LD2a : main : do P(- mU[1] rem 1880 / (01) >= - not U2 / t, not true rem pDt and 1 <= - false - 0 - 96, false + 1); when case(6190) : pop end; when case - 1 and 9 + 78300 - 58 > 9 : chillax end end

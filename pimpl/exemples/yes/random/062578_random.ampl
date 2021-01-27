@@ -1,0 +1,1 @@
+program q : j : takes yh : integer returns boolean Kl : integer array; pop - 26 - 3; input o[489] end main : let A[- false - 33 and not 0410 and 5] = array j(6, 2) * false; do S48aa(- false or W < - ka and 4) end

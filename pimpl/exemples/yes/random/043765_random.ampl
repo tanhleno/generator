@@ -1,0 +1,1 @@
+program _w : z46a : takes Rr30 : boolean array returns nothing chillax end main : h : integer; o9 : integer; m44, h5, Y2, M : integer array; WX : integer array; AHe : integer array; r : boolean; let Ob9 = array - not not(0) end

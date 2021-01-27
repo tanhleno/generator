@@ -1,0 +1,1 @@
+program WZ : z : takes Lk9 : integer; Sh : boolean array; UGM0a, e, b, T : integer array returns integer H, n, o : boolean array; input a5[true and 06 or 99 - 6]; when case 5 : chillax end case 4 = 89 : chillax end case 455 : chillax end end main : let M = - false and t - false + 5 - 0; output true = 9 - 129 end

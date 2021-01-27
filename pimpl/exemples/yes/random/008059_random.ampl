@@ -1,0 +1,1 @@
+program A : c : takes i6, V4_, H5, M : integer returns integer array yn : boolean; input z6l0; when case 0 >= 2 : when case 3 : chillax end end case 09 = 02300 : chillax end case 7 : pop end case 03 : chillax end otherwise : chillax end end main : z, k74aa : integer array; chillax end

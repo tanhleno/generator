@@ -1,0 +1,1 @@
+program R : QA : takes n4, T, g, h : boolean returns integer array Z, k, X4d : integer array; r, X : integer; H0, m, A : integer array; chillax end main : pop - not 52800; input vZ[- false rem s] end

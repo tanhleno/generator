@@ -1,0 +1,1 @@
+program g5 : main : while - true / not y8 and(8) : when case - 1 - 9 : chillax end case 5 = 2 : chillax end; when case 9 : chillax end case 50 : chillax end case 03800 : chillax end otherwise : pop end; let o = array 2; input M11a; output "7{0a"; pop end end

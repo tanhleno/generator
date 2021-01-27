@@ -1,0 +1,1 @@
+program w040a : q : takes k1 : boolean array returns boolean output "" . "%2" end D74aa : takes j, OoM, Yh, WOb : boolean returns nothing output "" . "@" . "" . "" end main : E, M, s0A : integer array; while false / 5 / (7) : chillax end end

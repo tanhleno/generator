@@ -1,0 +1,1 @@
+program C : _6 : takes i, WU : integer returns nothing dl : integer array; QXO0 : boolean array; chillax end rk6a : takes k, S3 : integer returns nothing q9m, l, y0, l4i : boolean array; chillax end main : do v(- (6) rem false - MRc[5] - false or 0 - 8 /= - (099)) end

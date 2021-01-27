@@ -1,0 +1,1 @@
+program M : g : takes x : boolean array; e : boolean array; k : boolean array; sRx0a, kq : integer array returns nothing z : boolean array; chillax end I7c0 : takes H60aa, B : boolean array returns nothing chillax end main : Hx, I1 : boolean array; while - not 2300 : chillax end end

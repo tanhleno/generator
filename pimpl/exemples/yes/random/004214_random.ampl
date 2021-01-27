@@ -1,0 +1,1 @@
+program F : Y2 : takes Z4, v, E, E : boolean; F, v, i65, H : boolean array; C7, pV, vY, a9 : boolean array; f, j : integer array returns integer array J : integer; W : boolean; W, I31 : integer array; input mA2 end main : h, a : integer; output - false and P and 2 . - not 1 - 9 end

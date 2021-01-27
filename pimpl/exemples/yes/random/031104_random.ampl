@@ -1,0 +1,1 @@
+program TB : y : takes R1, E : integer array returns nothing when case - true + 312 - 8 /= - 6 - 9420 : chillax end case 86 > 09 : chillax end case 337 = 4 : chillax end case 3 : pop end otherwise : chillax end end main : chillax end

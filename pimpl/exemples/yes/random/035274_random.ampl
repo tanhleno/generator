@@ -1,0 +1,1 @@
+program m5 : nH0 : takes SA : boolean; OJ, c8U : integer returns nothing b6, Oe2 : boolean array; when case - (1) and 9 + 49 - 5 : chillax end case 7 - 1 <= 1 : chillax end; output "@\\!a" . 1; let YV[59600] = array 8; pop end main : output "" . "" . "" end

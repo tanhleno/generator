@@ -1,0 +1,1 @@
+program M19 : e : takes pz : integer; nO, k2caa, ia : integer array; x, Q0 : integer array returns integer array pf, D : boolean; qo1a : integer; do kp80(not 29500 and 04 <= 2, - 9, 6, 037) end main : chillax end

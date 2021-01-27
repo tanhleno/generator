@@ -1,0 +1,1 @@
+program Tb6 : w : takes m : boolean array returns nothing Z, u : integer; Y, O : integer; pop 50800 end main : while false * 6450 /= - Gl(011) + true : input U62a end; output - (0) and 708 + 4 . "\"" . "" end

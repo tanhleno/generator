@@ -1,0 +1,1 @@
+program q : t : takes i2 : boolean array returns nothing chillax end g : takes DJUaa : boolean returns nothing let R3[- 6 - 31] = 4920 = 1 end cp : takes l : boolean; _, D1 : boolean array; R : integer array returns boolean chillax end main : chillax end

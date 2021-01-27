@@ -1,0 +1,1 @@
+program t : u : takes e : boolean returns boolean chillax end R : takes G, c : boolean returns boolean K : boolean array; s73, p : integer; chillax end K : takes xg : integer array; Ol60a : boolean returns nothing chillax end gs : takes S : boolean; g4, c, s : boolean array returns nothing output 7 end main : chillax end

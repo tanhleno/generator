@@ -1,0 +1,1 @@
+program d : main : O, L, U, u, R, i : boolean; AHB0a, opq0a, S, M, W, h : boolean array; K : integer; y : boolean; c : boolean; let n6[- true] = - false * x and 890 or 25 >= - not 19900 and 6 - 81; output 3 > - 939 - 6; do b6Taa(- (16) and 9 + 9, 039, 3, 63, 4) end

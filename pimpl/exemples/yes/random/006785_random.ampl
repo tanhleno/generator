@@ -1,0 +1,1 @@
+program lQO0a : f : takes c, z8, F, yE : integer; X : integer returns nothing chillax end x : takes SQ9 : boolean returns nothing D : boolean; v, e, scZaa : integer; pop; pop end main : output "\t"; let n = array - 3 * e; let _0[(9) or 6 - 2] = array 4 and 8 end

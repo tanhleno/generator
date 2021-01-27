@@ -1,0 +1,1 @@
+program t3 : bN3 : takes Y7Ha : integer array returns integer array when case YH and 3 + 6 - 34 < 9 : chillax end; input cz[34 - 39]; pop end gn : takes sB : boolean array returns boolean pop 89 = 02200; output 87 end main : n : integer array; let F = - false + false and 19 > 8630 end

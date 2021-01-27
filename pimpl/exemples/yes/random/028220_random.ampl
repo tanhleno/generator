@@ -1,0 +1,1 @@
+program M3 : K : takes b0, l : integer array; w : boolean; u : integer returns nothing V, v82aa : boolean array; e : boolean array; N : integer array; chillax end tnu : takes d, E, XM : boolean array; A, d, c, J1 : boolean array returns boolean chillax end z : takes S : boolean returns integer chillax end main : chillax end

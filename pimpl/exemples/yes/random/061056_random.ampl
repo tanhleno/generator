@@ -1,0 +1,1 @@
+program U : y9 : takes B : integer array returns nothing d540a : integer; output "" . ">4" end main : pop - (8); when case pl <= - (8) + 77 - 7 : pop end case - true - 68 - 53 : chillax end case 9 >= 8 : when case 54400 : chillax end end otherwise : chillax end; while not 8 and 102 <= - 0 : chillax end end

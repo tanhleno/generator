@@ -1,0 +1,1 @@
+program u : main : u : boolean array; do u(- not not 7020 - (526) and true and 90 or 004 and 6 or 3380 - 65 < - 1 rem l + true and 7 or 0, Y5(327) + false); output - true + 25 - 740 . "\""; let h = 7 - 799 end

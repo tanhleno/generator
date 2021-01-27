@@ -1,0 +1,1 @@
+program y : n : takes _mH : integer array; l3, Y, M : integer returns integer while false and 45 - 5 - 7 < - 55 - 32 : chillax end; while - 876 - 42 : chillax end; input N6f end L4 : takes G5, Y : integer array; zr : boolean; x7, V8, J, A : integer returns integer while 33 > 0 : do Xx(8); when case 4 : chillax end end end main : chillax end

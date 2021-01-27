@@ -1,0 +1,1 @@
+program yC00a : main : when case false - (07) : let f0[6610] = array 36; pop 3; let r6h = array 515; do _(6760) end case 727 >= x8 and 1 - 6 : chillax end otherwise : when case 73 = 1 : output ""; pop end case 460 : pop end end end

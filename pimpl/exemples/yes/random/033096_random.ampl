@@ -1,0 +1,1 @@
+program WAaa : f : takes V, dY : integer returns nothing pop end main : B96, X : integer array; pop - not true and J and 5; when case - not(65000) rem 88 > not 3560 and 7 or 99700 - 7 : while 10 = 8 : chillax end; do k9(6, 998) end end

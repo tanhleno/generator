@@ -1,0 +1,1 @@
+program M : qk40 : takes E, gu : integer array returns nothing chillax end main : j5G0, M, C, L7wa, g8, kH1a : boolean; HrU, P5 : boolean; S, SI00 : boolean; elf0 : integer array; let bj1aa = array - false and 94 + G[2] + 4 and 8 end

@@ -1,0 +1,1 @@
+program EC30 : i : takes S, R, j, G : boolean array; OW, T1 : integer array returns integer array A, y2M : boolean array; chillax end main : I, L71, t, r : boolean array; m2, t23, cQ10a : boolean; chillax end

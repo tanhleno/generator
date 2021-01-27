@@ -1,0 +1,1 @@
+program O : j : takes f7q0, J4, Sd : boolean; nga : boolean returns integer dt : boolean array; let y[not 6 and 3] = 6; output 07 = 3 . 1 . 96 . ""; while 6 : chillax end; let Cl[5] = array 8170; let i = 9; output "5"; pop end main : n990 : integer array; B1 : boolean array; while false - (4600) and 6 + true - 1 : chillax end; input y[- not true - C]; do j9(false <= 3 - 64) end

@@ -1,0 +1,1 @@
+program GJ : z : takes MY, _, X3, UXCa : integer array returns nothing oBsaa, E, G0, V0 : boolean array; chillax end f : takes c, M7 : integer array; x, d1 : integer array returns nothing o : boolean array; v, zJ : boolean array; VT : boolean; output 46; do P1w0(46, 0, 34); pop 2; output ""; pop; pop end main : chillax end

@@ -1,0 +1,1 @@
+program C1b : Qb : takes c, PJ : integer; OS : integer returns nothing j, L, V : boolean; _8, _, W, J : integer array; NDlaa, b : integer array; b : boolean; let P = array false; output "aha" . "-`a" . "\t" . "\n#"; let T[0] = 77; input pW; while 90 : chillax end; input s; pop end S3P : takes l2 : integer array returns integer chillax end main : wS : boolean; chillax end

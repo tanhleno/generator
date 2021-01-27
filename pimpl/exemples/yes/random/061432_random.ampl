@@ -1,0 +1,1 @@
+program j83 : T : takes P : integer array returns nothing pop - 349 < 9; let z[- 1] = array - 05 - 8490; input T[02]; while 8 : chillax end; let I = 6; output ""; pop end main : D3z0a, t : integer array; q, j : integer; chillax end

@@ -1,0 +1,1 @@
+program u : main : do W8(- false rem not w0 * o > - true and false, - 996 * not 77 or(01) + 541 - 7); do z(not(2) * OV and 2000 + gV); output "\n20a" . 53700 = 37 . "9\t" . 93; input V2; when case 033 : do ZU(1); pop end otherwise : chillax end; do L(6, 18800); pop; input B4 end

@@ -1,0 +1,1 @@
+program N : wIma : takes s_ : integer array; vs, Gpv0a, lNC0a, eA : boolean array returns nothing chillax end i : takes pL, s9, hbo, V : integer array; _0D0 : integer returns boolean array when case - 59000 - 6 = 93 : chillax end case 6 : chillax end case 9 : pop end case 4 : chillax end otherwise : chillax end; do g(02 = 2) end main : CSM0a : integer array; pop end

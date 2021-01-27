@@ -1,0 +1,1 @@
+program J : w0V : takes M, R430a, doL0 : integer; y, UN50a, t, c : integer; j : integer array; xkE : integer array; o9 : boolean array returns nothing A36, E : integer; when case - (5) : chillax end; do k(8, 0, 02) end main : let B = array true end

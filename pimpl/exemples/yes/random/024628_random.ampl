@@ -1,0 +1,1 @@
+program o : v : takes b, k : boolean returns nothing v : integer array; jY, Z : integer; w15, i, P : integer array; N, s77 : boolean; output - 6 - 4 <= 78 . 0 = 15; pop end h : takes n, b49a : integer; pIB : integer returns nothing VL1 : boolean; let T = array 4430 - 7; when case 198 : chillax end otherwise : pop end end main : O, g1, w, X05, J1 : integer; chillax end

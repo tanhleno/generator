@@ -1,0 +1,1 @@
+program o4 : B83 : takes _7, Q3D, S : boolean array; C3, I, q, NC : integer array returns nothing ZMj : integer array; let uv[- false + 06 - 0] = - 685 - 2 end xcg0a : takes R, T3, _ : integer returns boolean array W18 : integer; l : boolean array; let AJp = array - 7 - 8 end main : chillax end

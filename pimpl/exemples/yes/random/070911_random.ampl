@@ -1,0 +1,1 @@
+program O : main : W05, Yc5aa, E : boolean; p7Ia, J5 : integer; Z99a : integer array; when case - false < true or(9) and 38 : chillax end case false - A and 10 = 356 : chillax end case - (26) and 2 - 824 - 7 : pop; do A(75) end; output true = 7 - 3 . "6J" . 2 = 61200 . "" . 65900 end

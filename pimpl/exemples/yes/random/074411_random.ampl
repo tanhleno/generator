@@ -1,0 +1,1 @@
+program c : main : p, J : boolean; when case 8 or H640a / true and 0 - (2) /= - rZa and false and 9 : chillax end case - 40 + (9) and 94100 - 859 - 7 < false and 4 + 52 : chillax end case true and 250 : pop; while 3 : chillax end end end

@@ -1,0 +1,1 @@
+program TE2 : main : Td : integer; f : boolean array; output "" . - true and 9 <= - 8 - 5; do h(- (4) / 7 and 1 - (523) /= - false, true and 0); input R[- d8 and 5]; when case 48 : chillax end case 138 : let qg = 3 end; input r[0]; pop; do J(3); do mS(288) end

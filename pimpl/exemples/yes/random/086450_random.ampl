@@ -1,0 +1,1 @@
+program B4Taa : main : DT20a : integer array; T4 : boolean; while - 3 * _ / (96) and 1 - false rem true and 6 + false : pop 8150 end; do F(- c8(4) rem 018); while not 6 and 72300 or 0240 - 4 : chillax end; pop end

@@ -1,0 +1,1 @@
+program L4 : main : when case - (640 = 22) : chillax end case - 009 or y - 0 : do J(6); do g9(5, 20300) end otherwise : chillax end; let JS[- 3 * not 42 and 4] = array - (5) / d7 and 155 + 5 + 2; pop 306 - 3; pop end

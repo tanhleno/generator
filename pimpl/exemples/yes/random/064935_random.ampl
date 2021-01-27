@@ -1,0 +1,1 @@
+program K4 : k : takes D0 : integer returns nothing F : integer; I6, XO, Onk0, Y12 : integer array; chillax end main : do w(true or false rem true + false, - true rem not 76 and 57 - (3) and 60500 or 092 - 080 = - (44)); let R770a = array - 47100 / T + (5) + 1 end

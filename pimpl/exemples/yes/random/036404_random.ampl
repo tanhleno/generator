@@ -1,0 +1,1 @@
+program _8A0a : k : takes r : boolean; RY : integer; f, thdaa, l, m : integer array returns integer array while - not 26 + 2 : input rJ[4]; do b5(8) end; input f9[2]; do D9taa(3) end main : chillax end

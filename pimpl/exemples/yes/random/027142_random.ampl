@@ -1,0 +1,1 @@
+program C2j : m : takes lp, U : integer array; R2, C, elR0, u, w19 : integer array returns boolean array chillax end G : takes O, L, G88, s : boolean array; kZ1 : integer; xk, S : integer returns nothing chillax end main : b7_, l : boolean array; V, yu : boolean array; M, i : integer; while - true * (87300) - true - (624) : input V end; input I[- true and true and 7] end

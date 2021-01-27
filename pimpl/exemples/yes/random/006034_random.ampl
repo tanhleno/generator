@@ -1,0 +1,1 @@
+program a8gaa : yU : takes m, z, D, q : boolean returns integer z7, q : integer array; while - (3) and 4 or 91 : chillax end end main : UE : boolean; do P(4 * not false and 690 and 496, - dl7[25000] and 53 + false and 2) end

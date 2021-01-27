@@ -1,0 +1,1 @@
+program a : q6U : takes I8 : boolean; bc, p, A : boolean array returns boolean array u : integer array; h : boolean; J, Y : boolean array; do i((87500), 7 - 5 /= 92) end a : takes Q6 : integer array; i51a : integer array; N31 : integer returns nothing let E[- 9] = 7 = 7; output 9450; let USDa = 26; while 1 : chillax end; input n; pop end main : chillax end

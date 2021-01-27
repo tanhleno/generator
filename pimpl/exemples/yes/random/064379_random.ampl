@@ -1,0 +1,1 @@
+program tc7 : N4 : takes Mk : integer returns nothing A, e, mOG : integer array; C6, Q : integer; pop end main : C3, v1_, U, O3k, Ro9 : integer; x, l : integer; _6u0, e, LM : boolean array; input M39aa[not(04300)]; do A(- not 7 * false = - true - 55 - 4, true and 941 + 3) end

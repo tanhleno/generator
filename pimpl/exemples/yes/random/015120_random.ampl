@@ -1,0 +1,1 @@
+program U : zi : takes o, t0, A : integer array returns integer pop; do jo(31900 >= 087); do A(6, 2); input M[99] end main : I1, C, BYw0a : boolean; V : integer; z3ia, E, S, X, Gw : boolean array; chillax end

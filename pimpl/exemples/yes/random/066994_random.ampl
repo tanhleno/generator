@@ -1,0 +1,1 @@
+program U : main : do l990(false, true + (582)); when case false and(70) and 41 <= 364 : chillax end otherwise : when case 421 : chillax end end; input vf[- false and 43]; while - 4 : chillax end end

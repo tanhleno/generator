@@ -1,0 +1,1 @@
+program pcfa : v : takes t, j : integer array; _wh, K1oaa : integer returns integer array pop - 4 = 9; input S end main : while - N(44, 4) + false > - xY or true and 623 : input _95; while 6 = 4170 : chillax end; output 78 . "9^"; while 57 : chillax end; when case 2 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program K : p : takes FP : integer array returns nothing T : boolean array; d : boolean; G, w : integer; n6, x : boolean; v : boolean; output - 4 - 6 . 0 . 299 . 7 end Hn0 : takes hg0 : boolean array returns nothing P, Q : integer; when case 5 < 2 : chillax end case 8 : while 8 : chillax end end otherwise : let x = 38 end end main : let ZM = - (9720) end

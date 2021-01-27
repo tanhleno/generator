@@ -1,0 +1,1 @@
+program W : main : when case true * v rem 92 : input B; pop 6 end otherwise : pop 8 end; when case - vw[2] rem 1 and 0 <= not 82300 and 4 or 3 : input Gd[1890] end case true and 40500 : while 88400 : pop end; input l07 end case 8900 - 84 = 17 : chillax end; pop; output 64 . "" end

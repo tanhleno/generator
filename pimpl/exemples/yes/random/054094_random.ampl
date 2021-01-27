@@ -1,0 +1,1 @@
+program oa8 : M : takes l : integer array; l, M2, q6R0a : boolean returns nothing chillax end main : while false / true - d2G[2] + false and 6 or 5 - 10 : chillax end; input H[- false / 8210]; let c = array - w; let n[985] = 39 = 1 end

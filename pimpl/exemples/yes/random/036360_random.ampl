@@ -1,0 +1,1 @@
+program t : z9 : takes B : boolean; o : boolean returns nothing when case - 54 and 2 - 23 : chillax end end main : e6Z, B : integer; GF6 : integer array; Ra, pC80 : integer array; R : integer; chillax end

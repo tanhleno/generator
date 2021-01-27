@@ -1,0 +1,1 @@
+program X : B40 : takes D : integer array returns boolean array Jh, h, L, e5, h : integer array; Vp5 : integer; H, b : boolean array; when case - true and 2 or 571 - 53 >= 58 : chillax end; input i end main : vgV0a : integer array; bmOa : boolean array; j, F2 : integer; f1p0 : integer array; a : integer array; input a end

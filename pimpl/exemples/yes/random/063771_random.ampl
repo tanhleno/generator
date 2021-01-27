@@ -1,0 +1,1 @@
+program Bk : a : takes gmNaa : integer returns nothing chillax end lU6a : takes ad : boolean array returns integer do E(4 - 92); output "o\n\"" . ""; output 9 . "" end main : y, b, V, V, gE : integer; xZ, Gw : integer array; H, j : boolean array; do j(- (988 = 7) and i[000] rem not 3 + not 2 /= - (5) or false and 9 + 2 - 2, - not 82 rem false + 2 < - true, - true or 8) end

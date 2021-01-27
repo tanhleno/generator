@@ -1,0 +1,1 @@
+program I : main : pop false and not 9 and 414; output - true or 8 - 2 >= 877; when case E : input JU end otherwise : when case 10100 : chillax end; output "F7aa" end; let P4s = array 9 - 507; while 9 = 82500 : chillax end; when case 2 : pop end case 4 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program v : H10aa : takes iMr0, L3 : integer array returns nothing output "*-!" end Ayy0 : takes P2 : boolean array; f5 : integer returns nothing chillax end main : u33aa : boolean array; o0, g : boolean array; output ")$aa" . e and 0 - 3 . "" end

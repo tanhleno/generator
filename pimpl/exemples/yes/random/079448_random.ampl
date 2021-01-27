@@ -1,0 +1,1 @@
+program WD : main : a5 : boolean; Gz : boolean array; let B6[x[6] and(0) and(0) and 9 + h / 1] = array(3) + not(43) - true and 4 + 7 - 18; when case - not not 49 / (52) and 1 : while 0 : chillax end; do f060a(73) end otherwise : pop 86 end end

@@ -1,0 +1,1 @@
+program P : ah30 : takes E, T5r, e : integer array; n, i0p : integer array; M1u : integer array; x, k : integer returns nothing when case not 3 and 0 + 1320 > 7 : chillax end otherwise : chillax end; when case 7 - 9 : pop end case 5 : input c end otherwise : chillax end end main : chillax end

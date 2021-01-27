@@ -1,0 +1,1 @@
+program V13 : p : takes B4m0a : integer array returns integer array chillax end Q : takes A6, j6, R : integer array; u, t960a, ui4 : boolean array; p : integer returns boolean array chillax end main : chillax end

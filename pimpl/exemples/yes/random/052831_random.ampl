@@ -1,0 +1,1 @@
+program K4ja : mH7 : takes P : integer; e0 : integer array; _ : integer array returns nothing U : integer; P, o : boolean array; r, A2, j : boolean array; chillax end l : takes o, Ceyaa : integer array returns boolean array chillax end main : ps00a : integer array; n3Zaa, Re : integer array; l, L : integer array; do n(Kmy(3, 367) - 4 or true, m(0700) * false) end

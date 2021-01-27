@@ -1,0 +1,1 @@
+program Q : w : takes c, U : boolean array; g : boolean; i4, DqR : integer returns boolean _pr, Y46a, zfR : integer; v : boolean; chillax end U9 : takes kAG0a : boolean returns boolean n : boolean; Ig, _, G : boolean array; input N end N : takes F : integer array returns nothing while 7 : when case 648 : chillax end end end main : output "" . - 9 - 13 end

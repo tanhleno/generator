@@ -1,0 +1,1 @@
+program o : C : takes b : boolean array returns nothing a : boolean array; s, Sd, _, n : integer array; input J end L1 : takes u : boolean; oO6a : boolean returns nothing while 0 : do B(38) end; do he(929 = 5, 4); let M = 6 end main : Q : boolean; chillax end

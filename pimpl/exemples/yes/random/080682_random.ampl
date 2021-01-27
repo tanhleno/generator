@@ -1,0 +1,1 @@
+program y : main : g : boolean array; do a(- 6 / H < - true and false); when case false - false and 124 > - t0e0a : do W(87 = 239); do sTh(194, 4) end case - (2) and 80 : let w1iaa = array 9; do vp(2); let x7f0 = 332; pop end case 5790 - 9 : when case 6 : chillax end end otherwise : when case 047 : pop end case 770 : chillax end end end

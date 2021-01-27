@@ -1,0 +1,1 @@
+program mR : main : q, LXV : integer array; do d((3 = 92800) or 1 rem false or 9, false and not 28 - not 90); when case not 2 and false > - true + 59200 - 1 : let d = array 3; do OT(5760) end otherwise : do Z(958) end end

@@ -1,0 +1,1 @@
+program yg : yD : takes al2 : integer array; a : integer returns nothing when case - false >= 98 - 60 : output 8 . "w4\""; pop end; let r = 4; output "" . "b2" end z36a : takes d, j : integer; v : boolean returns nothing T, j7, Y4 : integer; chillax end main : WqL0a, Mh3, G : integer array; output "F\\!a" end

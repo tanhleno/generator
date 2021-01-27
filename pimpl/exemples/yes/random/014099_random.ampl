@@ -1,0 +1,1 @@
+program q : Te80a : takes xF, it, z86a : integer array; _, LO : integer array returns nothing GYba : boolean array; chillax end j : takes k, vK5, q39 : boolean array returns nothing F : integer array; chillax end main : chillax end

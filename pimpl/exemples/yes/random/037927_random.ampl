@@ -1,0 +1,1 @@
+program Q5 : F : takes OdX : boolean array; E, t45aa, N2, S : integer returns integer array let Fhna[false] = array 8 and 0 + 77 - 9; when case 34000 - 5 /= 5350 : input o_Va end case 65300 = 5 : input dA; pop end case 01 : pop end; let O[063] = array 911; when case 815 : chillax end otherwise : chillax end; pop end main : input S4da[- DL1[1]]; pop false - 3 - 39 end

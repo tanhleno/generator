@@ -1,0 +1,1 @@
+program m0 : main : ZL : boolean; pop not 417 - (33); input wp4a[- (89800) or false and 12 or 57]; when case - 639 or 9 : chillax end case - 5 : when case 53 : chillax end; when case 9 : chillax end; pop end case 4 : chillax end case 8 : pop end; while - 04 : chillax end; input Z end

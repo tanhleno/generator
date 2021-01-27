@@ -1,0 +1,1 @@
+program N9 : k : takes m : integer array returns nothing _F, K : integer array; input H; output 1 = 4 . ""; output 08 end main : when case - not V(80) rem U : output "K"; output "" . 55 end; while not(9470) rem true and 4 : input C3; while 1 : chillax end end end

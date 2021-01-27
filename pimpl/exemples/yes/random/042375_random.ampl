@@ -1,0 +1,1 @@
+program a4 : o : takes A : boolean array returns boolean while - 9 or 7 - 85 >= - 2 - 78 : do _4(42, 91); when case 0 : chillax end end end main : output "8" . - (936) and 1 - 5 . 13 >= 9; input d end

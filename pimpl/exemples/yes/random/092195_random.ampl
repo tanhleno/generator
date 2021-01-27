@@ -1,0 +1,1 @@
+program u6Jaa : main : output - not not 5 / not 5 and 99 < 368 + 149 - 021; let a[not false or(3) and 8] = - true and 39; when case not 03100 and 63500 + 9 : chillax end otherwise : chillax end; output "?" . 4 . "D.0a" . "U\t" end

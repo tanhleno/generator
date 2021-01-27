@@ -1,0 +1,1 @@
+program vng : s : takes aR, K4 : integer array returns boolean do C(- false and 57); while 1 - 8 < 23000 : chillax end; let J6e[9] = array 244; output "" . "\n"; when case 60 : chillax end; output "&0" end main : x, s86a, J, h7Y0a, x : integer; A13a : integer; J : integer; chillax end

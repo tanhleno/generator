@@ -1,0 +1,1 @@
+program f000a : main : J11a, w : boolean array; when case h - Z(81200) - not 077 or 141 - 2 : chillax end case false * F2B and 12500 : chillax end otherwise : output 85 . 6; input W64; input k36; output ";" end end

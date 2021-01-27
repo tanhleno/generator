@@ -1,0 +1,1 @@
+program Z81 : C : takes Z5S0, v0, r : integer; M : boolean; pD8, Z8G : integer array returns nothing RQ3 : boolean; input SHW[- false and 18 or 7 - 42700]; pop 45 = 7 end main : M7L : integer; chillax end

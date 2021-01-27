@@ -1,0 +1,1 @@
+program f2 : j : takes i, u, nah, G, y32 : integer array; aiha, G, r : boolean array; xy, S, OQ : boolean array returns nothing chillax end H : takes B4H0a, p : integer returns nothing chillax end X0 : takes YDdaa, Az7 : boolean returns integer array l, wp8, e : boolean; chillax end main : do k(- false); input J[- not true rem false and 2]; input c end

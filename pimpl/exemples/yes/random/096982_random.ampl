@@ -1,0 +1,1 @@
+program k : main : when case zW : let AX[8] = array - 818; while 3 : let mY = 5 end; while 1 : pop end; do L(226); output ""; pop end case - not true >= not 3 and 684 : do a(645) end case - 9 /= 0 : chillax end end

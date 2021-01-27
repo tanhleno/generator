@@ -1,0 +1,1 @@
+program SA7aa : main : H0S, q7 : boolean array; k4 : boolean array; d490 : integer array; O : boolean array; let xI6[- (9) * 0 + (15) rem false and 277 - true + 868 - 5880] = array not(7) and not 15 - not true - 7 and 5 end

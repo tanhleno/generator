@@ -1,0 +1,1 @@
+program k : w2 : takes y3S0a : integer array returns integer i, m0 : boolean array; let tr10[- false and 8] = array true - 38200 end main : I6, I7Saa, fT : integer array; Rbz : integer; let y[true and 849 rem not 87100] = array true rem WN_0a and false - (718) + false or 375 - 36800 end

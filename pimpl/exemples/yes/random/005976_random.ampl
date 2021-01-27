@@ -1,0 +1,1 @@
+program H6 : F04 : takes b, E, VD9, U : boolean returns integer array let w[- not 31500 and 4 or 445] = 697 - 08 end C : takes n, i, K830 : boolean returns integer array R : boolean; M : integer array; U5, aa : boolean; while - 38 - 7 : do J(4) end; do f(42 = 5, 7, 964) end main : input mQo; output "" end

@@ -1,0 +1,1 @@
+program l : o6_aa : takes P : integer returns boolean array c, r : boolean; when case - (7) and 0 : chillax end otherwise : chillax end; pop 48; input v[680]; when case 4940 : chillax end case 8710 : chillax end end A : takes zK30a, Y7, b2, u : boolean returns boolean chillax end main : chillax end

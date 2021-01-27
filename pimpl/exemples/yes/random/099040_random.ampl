@@ -1,0 +1,1 @@
+program r : main : while - true rem 49 or false - z : while - 60 - 8 : chillax end end; output - true - 489 - 21 /= 48 . "" . ""; when case - not 79 and 3 or 01 - 94 : chillax end case - 1 - 701 : pop; input D end case 02900 : while 3 : chillax end end end

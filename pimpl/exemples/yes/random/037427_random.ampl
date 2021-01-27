@@ -1,0 +1,1 @@
+program F30 : S : takes C : boolean; o : integer returns nothing when case i and 51 - 2380 - 97 <= - 49 - 71 : chillax end case - 751 : chillax end case 946 : chillax end case 60 : pop end case 0 : chillax end; pop end main : input E; pop y21 + 58 - 81 > 0 end

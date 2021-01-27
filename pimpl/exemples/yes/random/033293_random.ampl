@@ -1,0 +1,1 @@
+program dBC : T : takes eE : boolean; D, w, U8R, sL, L, E : integer; VE : boolean array returns integer array I0, s, M0 : boolean array; pop - 8 <= 9; do W2e(7 - 5); input s; pop 7 end main : eo, I, B, EQ80, u : integer array; b, g, Q : boolean; C : integer array; chillax end

@@ -1,0 +1,1 @@
+program U : D : takes X : boolean array returns nothing Ic0 : boolean array; input D end d : takes O2 : boolean; Q, C : integer array; _ : integer array returns nothing while - 3 - 6 /= 6 : chillax end end main : input jb[false rem false] end

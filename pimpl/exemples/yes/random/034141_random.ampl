@@ -1,0 +1,1 @@
+program r : z2ra : takes I : boolean; X, N9h, u : integer array returns nothing input I1n[- not 88] end main : do V(- 757 and VU or not N or false and 5, (85) rem true and 7 + 343 + 7 /= (763) - 4, - true and 6 - 3730 - 6 = - 55, 8 - 3 = 5) end

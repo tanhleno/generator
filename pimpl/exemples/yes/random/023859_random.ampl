@@ -1,0 +1,1 @@
+program S9 : O36 : takes a3, _550a : boolean returns integer pop; output ""; while 0100 : let j = 181; pop end end u9 : takes n3, _42aa, VD : integer returns integer array R : boolean array; chillax end main : pC : integer; chillax end

@@ -1,0 +1,1 @@
+program c : main : when case - true + true : when case 5 - 2 : chillax end; pop end case true + not 3 <= true : when case 43 : chillax end case 5 : chillax end case 1 : chillax end otherwise : pop end; while 04200 : pop end end case - 92 < 33 : chillax end case - 28800 - 2 /= 50 : output ""; while 8 : chillax end end end

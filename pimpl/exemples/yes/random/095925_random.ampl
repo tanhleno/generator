@@ -1,0 +1,1 @@
+program B : main : when case - false rem not not 71 * (21000) - not HfB : when case 52 - 7 : pop; pop end case 5 = 4 : chillax end otherwise : chillax end; when case 1 = 4 : let An = 46600; pop end otherwise : pop end end; output - A and 9 <= - 758; while(5) and 4 <= - 166 - 6 : pop end; pop 6; do r6(8); output "" . "l3\"a" end

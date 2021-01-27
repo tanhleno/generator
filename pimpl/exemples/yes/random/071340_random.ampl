@@ -1,0 +1,1 @@
+program z6 : main : R9V, H, wI : boolean array; do C(false); when case eS70 + true <= - true or 1 - 3 : do DO(71700 = 54000, 1) end otherwise : let qc90a = 9980; pop; pop; pop end; when case - kv and 00 < - 99 - 8 : chillax end case 3130 - 93100 = 3 : do w3(8) end case 7 = 5270 : chillax end otherwise : chillax end; while - 877 : do p(4) end end

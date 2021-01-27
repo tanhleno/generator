@@ -1,0 +1,1 @@
+program R93 : E37aa : takes _1x0a : integer array; H : integer array; nBA : boolean array returns nothing let n = array true + 2 - 8; input uC[3 - 6]; input K[0] end main : g07, h22aa : integer; k, L, VX0aa, i6, p58, M : boolean; while - 2 / true rem not 1 : chillax end end

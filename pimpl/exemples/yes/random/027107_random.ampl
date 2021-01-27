@@ -1,0 +1,1 @@
+program I : H : takes o18, B : integer array; uNT, l, l, xi5, trR : boolean array returns nothing T : integer array; H5 : boolean; chillax end main : output 97 > - true; let J91[(88) * false] = 9 and 2 < - 4 end

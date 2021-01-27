@@ -1,0 +1,1 @@
+program N3 : c : takes u : boolean array; M : integer array returns nothing let U6[T640 and 9 - 2] = array - false or 2 end b4 : takes Sf : integer; A90, g : integer returns integer output "" . 77 end main : hB2a : integer; q, r : boolean; let b[- U + not 49] = array - not true rem false * 54 end

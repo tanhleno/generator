@@ -1,0 +1,1 @@
+program w : main : C : integer array; when case false /= - not true : chillax end case - false - (46) and 34 >= - true + 59 : pop 7 end case 5 + 4530 - 2 >= - 86500 : when case 878 : chillax end; do jJ6a(21); input j end case - 47000 - 78 > 4950 : do oxB(50); let u5 = 3440; pop end case 366 : chillax end case 0 : chillax end end

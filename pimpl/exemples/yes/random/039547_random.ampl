@@ -1,0 +1,1 @@
+program C0Oa : a : takes y7 : boolean array; P : boolean; p, V, J6 : integer array returns nothing cl50, s : integer; pop - 27; let e[0 - 81] = array 2; while 3270 : chillax end end main : input K2[(783 = 383) or 2 and false and 921] end

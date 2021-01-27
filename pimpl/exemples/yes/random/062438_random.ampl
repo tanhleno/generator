@@ -1,0 +1,1 @@
+program J : AzZa : takes w : integer returns boolean Y, eR : integer array; I : boolean; W2, H93a, Ey : boolean; BT : boolean; when case true : chillax end case 30 - 9 : chillax end case 6 = 845 : chillax end otherwise : while 4 : chillax end end end O8 : takes L : boolean; M : integer array returns integer g : boolean array; chillax end main : chillax end

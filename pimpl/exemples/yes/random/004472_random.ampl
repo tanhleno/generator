@@ -1,0 +1,1 @@
+program X : H : takes s, FB6, n, g : boolean; k4 : boolean; Z310a, x : integer returns integer chillax end U4 : takes Y, C : integer; u5 : boolean returns boolean array chillax end main : pop; let Z[81200 and not 7 and 7 - 9] = array - true end

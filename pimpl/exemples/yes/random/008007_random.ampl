@@ -1,0 +1,1 @@
+program H : I : takes l4, Z, U7, iU : integer returns boolean output - 08 . 58100 = 8; while 2900 - 366 /= 57400 : chillax end; output 27 . 2 . "" end w_ : takes ENa : boolean returns boolean array chillax end main : w : boolean; when case za8(1960) / 6 >= - 7 : output 71 = 7; do p(98); when case 6 : pop end case 8 : chillax end end end

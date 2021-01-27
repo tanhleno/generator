@@ -1,0 +1,1 @@
+program GS40 : main : W0F : boolean; bk6 : boolean; Qc, H, M3 : integer; J, U : boolean; do w(- true = - true rem 0 and 0, - not true or 4 and 48 or 6 - 7 > - false + 0, - true - 0 - 7); output - false and 6 < - 0 - 70 . - 0280 - 4 = 43 . 3 = 9; output "" . 32000 = 0 end

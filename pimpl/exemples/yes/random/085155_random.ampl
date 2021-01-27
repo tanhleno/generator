@@ -1,0 +1,1 @@
+program al3aa : main : c : integer; when case - not false and R[34] > true : chillax end; input T[- not(6) - true + 4 - 5]; while - true and 3 + 5 - 48000 >= 57 : chillax end; while 1 - 541 <= 0 : chillax end; pop 77600; do IT(24, 8) end

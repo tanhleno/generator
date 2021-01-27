@@ -1,0 +1,1 @@
+program nA5 : t870 : takes X9P : integer returns integer array chillax end s9_ : takes r : integer; O, M820a : boolean; n, TUTa, I99aa, I550 : boolean; Fdv : integer; O : integer returns nothing input m[621] end main : H, O : integer array; DDM, qtq : boolean; d : integer; chillax end

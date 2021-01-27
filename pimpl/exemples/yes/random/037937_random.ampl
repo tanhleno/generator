@@ -1,0 +1,1 @@
+program R1 : F59 : takes E : boolean array; y, y, b, y : integer returns nothing x, p3J, l0, L : boolean; let q13 = array - true and 57; let t = 438 = 01; output 1 . "\n2aa" . "\nn\""; let a6[75] = array 21 end main : output "" end

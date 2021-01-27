@@ -1,0 +1,1 @@
+program n : main : s85 : boolean array; P : integer; when case(153) : chillax end otherwise : chillax end; do t((6) / true and 1 - 98 and 83300 < true, not 1 and 2, - 95 - 505 = 28); when case - false and 4 - 3630 >= 55 : when case 6 : chillax end end case - 6 >= 03 : chillax end case 20100 = 504 : output "\t50a"; pop end; pop end

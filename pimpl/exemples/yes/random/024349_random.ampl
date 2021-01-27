@@ -1,0 +1,1 @@
+program I : N1 : takes I, Q : boolean returns nothing W3R0a, Lo10 : integer; input K3faa; when case - 4 - 7 <= 7 : chillax end case 0 : chillax end case 26 : chillax end case 2 : chillax end end main : K, E2 : boolean; chillax end

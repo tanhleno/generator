@@ -1,0 +1,1 @@
+program z7b0a : JA90a : takes tf, R, _ : boolean array returns boolean array E, n : boolean; chillax end l9K : takes H : boolean; F, f1, OcM : boolean array; L : boolean returns boolean pop end main : output "\nh!"; when case 7 / true - (3) and 0 or 9 : do O5J(1140 = 0, 8); output "{\n\"a"; while 5 : chillax end; let h9 = 2; pop end end

@@ -1,0 +1,1 @@
+program A : main : let JVEa = array - (55) / false rem not 4 and 1 + 38 rem not 7 + not 6680 and 70 or 0 - 2; when case - not not 6 + false >= - (80) and 9830 + 01 - 62400 : when case 06 = 645 : pop end case 950 : chillax end end end

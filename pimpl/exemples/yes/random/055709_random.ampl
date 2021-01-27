@@ -1,0 +1,1 @@
+program aU : E5 : takes _7 : integer array; xhl : boolean; s : integer returns nothing do KX(- (1) and 7, - 9 - 36600); output 0 = 43 end main : while - not false * not 5 or(6020) * false and 5 > 9 * 77 and 347 : chillax end end

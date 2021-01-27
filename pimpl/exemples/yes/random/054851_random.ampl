@@ -1,0 +1,1 @@
+program S : s : takes A5 : integer array; A4, h : boolean returns nothing do r5(- 7); let x5g0a = array 76 end main : while 9 rem true > - false : when case 28 - 8 = 36 : chillax end case 6 : chillax end case 94 : chillax end; let D = array 4 end end

@@ -1,0 +1,1 @@
+program r : f4 : takes WVG0a : boolean returns boolean array chillax end lQ : takes C : boolean returns integer array F19aa : integer array; while 02200 - 4 : while 08 : chillax end; pop end; output 6; while 56 : chillax end end main : J : boolean; ROJ0a : boolean; m_ : boolean array; FM : boolean; input gm end

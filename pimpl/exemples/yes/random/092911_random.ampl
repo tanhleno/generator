@@ -1,0 +1,1 @@
+program t_40 : main : output "" . - aW1 and 3 = - 15500 - 65 . "9"; when case - 586 or j and 48 <= - 0 and 143 : pop 5; pop 1; input d79; when case 5 : chillax end; pop end case - true : let P[8] = 1 end case - 50 : do qA2(49); do S(61); pop end end

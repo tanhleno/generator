@@ -1,0 +1,1 @@
+program M : Z : takes Q5, El3 : integer array returns nothing c, kC6, c, AIEa, I18 : boolean; y : integer array; chillax end main : xB7a, N, k40 : boolean array; pop; output ""; do yZ(- not 28 >= - 599 - 5760, - 12 >= 21); input KG[- 09]; when case 9 : chillax end end

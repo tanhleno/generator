@@ -1,0 +1,1 @@
+program a : t : takes p : boolean array; zK, Z, K24a : integer array returns nothing B, Vg6 : integer; tNp : boolean; g, m64aa, jB : integer; output - 033 - 8 = 51 . 5330 = 81 . "" . "]@\"" . ""; pop 5 end main : chillax end

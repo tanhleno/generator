@@ -1,0 +1,1 @@
+program I : main : x, m : integer array; V3 : integer array; s, J_, r, V7l0, u5P : boolean array; B, E, FX, qC : integer array; b, _6ca : boolean; do y1(- h[1240] rem 3 and not 3 - not bY + _ - 8, not(27) and(4)) end

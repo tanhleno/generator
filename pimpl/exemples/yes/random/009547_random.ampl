@@ -1,0 +1,1 @@
+program B : u : takes t, j, go : boolean array; q5U, Rx, T2, l5Y, aSB : integer array returns integer chillax end m07a : takes U8 : integer array returns integer array chillax end L0 : takes o : boolean returns boolean X, V, z27 : integer; c1 : boolean; HK : boolean; let U_[4870] = array 0; pop; output "" end main : chillax end

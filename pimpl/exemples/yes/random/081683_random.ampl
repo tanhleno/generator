@@ -1,0 +1,1 @@
+program V4 : main : q97 : boolean array; p0 : boolean; while false and false + true + true and 61 - 3 : pop; while 9 = 91 : chillax end; output "Kz" . "pY"; input Kz; do r(945); pop end; while - false : do l(81, 3); output "" . "" end end

@@ -1,0 +1,1 @@
+program x : He : takes W840 : boolean array; q, y, W : integer returns nothing let t[- jz] = 3 < 4; when case 67 - 11 : chillax end case 3 = 5 : do dE5(4); pop end case 4 : chillax end case 91 : chillax end otherwise : chillax end end main : pop; do P030a((5) and _ and 3 + false > false or 855 - 2) end

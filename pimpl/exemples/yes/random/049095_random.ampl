@@ -1,0 +1,1 @@
+program N0U : n : takes S : boolean returns nothing when case(481) : do r7(2) end otherwise : input uD6; input z end; when case 0 - 4 /= 87 : chillax end case 75 = 8 : when case 4 : chillax end end otherwise : while 410 : chillax end end; when case 42 : chillax end case 2990 : chillax end otherwise : chillax end end main : chillax end

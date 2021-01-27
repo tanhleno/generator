@@ -1,0 +1,1 @@
+program k82 : LZ : takes G : boolean; B0X0, B : boolean array; b : integer array; M : integer returns integer dse, o74, l : boolean array; while not 320 <= 16700 : pop end; output "wa" . 2 end main : do Lhr(- false / not true rem o, - not false) end

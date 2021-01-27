@@ -1,0 +1,1 @@
+program W9 : Y : takes g73aa : boolean array returns nothing f5 : boolean; X, W : boolean array; do Kr7(not 3 + 2 - 2 <= 074, - 6950, 71 = 7); while 61 : while 77100 : chillax end; let I = 07; pop end end main : let G = array - not true rem Q6[5] end

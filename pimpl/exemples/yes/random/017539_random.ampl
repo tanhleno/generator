@@ -1,0 +1,1 @@
+program X47a : p2Gaa : takes N, H : boolean; u93a, pX : integer array returns nothing let w = array C - 566; when case - 16 /= 5 : let a = 3 end; let A3z[1] = array 9; input y[2] end main : do d(- false rem 51 rem true > false or I, - true * true and 4 /= - j and 1); let u = array e6 or i and 813 end

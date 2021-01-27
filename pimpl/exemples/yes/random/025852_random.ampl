@@ -1,0 +1,1 @@
+program a : Q : takes Pi70, z4 : integer; F, K4Eaa : integer array returns integer array V : boolean; h : integer array; when case - false + 4 - 1 >= 7 - 34 : chillax end case 9 - 3 <= 31 : output "\""; do v(6) end case 9 = 9 : chillax end case 07 : pop end; output 9 = 25 . "\n"; output "\tb!a" . "h" . ":.a" end main : chillax end

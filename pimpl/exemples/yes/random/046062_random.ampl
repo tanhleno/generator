@@ -1,0 +1,1 @@
+program l270a : C : takes J8 : boolean returns boolean s, ngt, P, m1 : boolean array; let i4[true and 8] = 9 = 97 end zA8aa : takes E, IS : integer array; D : integer returns nothing qs9aa : integer; chillax end main : chillax end

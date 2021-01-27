@@ -1,0 +1,1 @@
+program s4wa : V : takes i : boolean array; Fa4, F, _ : boolean returns boolean chillax end main : Sm3, bz40, Y, P : integer array; EKG0, C : integer; B, z, Z1q : boolean; while not(9) < not(5) rem(192) or true : chillax end; pop; pop 7090 - 718 > 1280 end

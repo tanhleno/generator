@@ -1,0 +1,1 @@
+program G : K2 : takes Wh, Pl : integer array; C23a : boolean; N6 : integer array; ll, l : integer array returns integer Pzu : boolean; o : integer; chillax end Q7 : takes P580a, e : boolean returns integer input Z63a[155 - 5] end _ : takes g : integer; x : integer array returns nothing M4, z : boolean; chillax end main : do s(false or not true /= (57)) end

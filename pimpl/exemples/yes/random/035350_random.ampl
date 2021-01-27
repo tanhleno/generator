@@ -1,0 +1,1 @@
+program C : c8f : takes x : boolean; sSI : boolean; X, E, sf, d : integer array returns nothing z, jT : boolean array; output "" . "\\ba" . 9280 end Wu50a : takes o, Z5, Zc : boolean returns nothing u50a : integer; chillax end h : takes I410a : boolean; v : boolean returns nothing chillax end main : V, I : boolean array; Zl : boolean array; chillax end

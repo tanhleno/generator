@@ -1,0 +1,1 @@
+program k : T7Y : takes i, Y12 : boolean; p2 : integer; K, L : boolean array; jT : integer array; M8paa, fo2 : boolean array returns boolean array penaa : boolean array; when case(3) = 780 : let Jb[127] = array 5; let u = 7500; input U end case 8 : chillax end otherwise : output "'" end; input k3Laa[- 5 - 7]; while 4 : chillax end end main : chillax end

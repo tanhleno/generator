@@ -1,0 +1,1 @@
+program l : main : when case - false / false * q + 2 or false /= - false / not 0 and 0 : when case 0 : chillax end; output 09 . 8; do p76(620, 5) end otherwise : chillax end; output - true - 0 - 56; output 42 <= 6400; while - 871 : do O(0) end; while 6 : chillax end; input y[901]; while 15 : chillax end; pop; pop end

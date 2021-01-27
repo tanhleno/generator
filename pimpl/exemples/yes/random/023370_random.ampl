@@ -1,0 +1,1 @@
+program r : vfF0a : takes m, m0d : boolean returns boolean while not 4 and 3 or 397 - 1 : input F4Ja; when case 6 : chillax end end; pop 684; input BHl0a; pop 835; when case 0 : chillax end; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program k : C : takes N, cvBaa : boolean array; v280a : boolean; _ : boolean returns nothing when case - true and 9 : let S = 4; pop; pop end otherwise : chillax end end main : d1 : boolean; G, ba5 : integer array; chillax end

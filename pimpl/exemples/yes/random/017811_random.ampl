@@ -1,0 +1,1 @@
+program r2U : A6 : takes z, r9 : boolean; my : boolean array; T : boolean returns integer A77aa : integer; chillax end main : output false or not 6 and 5 + 6 - 9 < - true - 0 . (664) and 779 <= - 81 - 69 . - 09200 - 439 end

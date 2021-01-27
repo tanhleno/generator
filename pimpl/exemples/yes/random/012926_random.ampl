@@ -1,0 +1,1 @@
+program i : u8 : takes eC, p, G0c : integer; J, V : boolean returns nothing input T end zo : takes X2 : boolean returns nothing W2, U, Y0, G : integer array; u, n9T, L : integer array; let u = array 6 - 7950 end S : takes gT : boolean array returns nothing while 40 : chillax end end main : x : boolean; input J end

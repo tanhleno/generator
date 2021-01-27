@@ -1,0 +1,1 @@
+program X : U : takes TM6aa, tag : boolean; i4t0 : boolean array; M : integer; M : boolean array; z5, i2 : boolean returns nothing chillax end Ms : takes r, M : integer returns integer Q : boolean; do x06aa(089 > 2) end main : while - 04500 / not true / false and 288 : chillax end; let G = array - L(459); input h; pop 09; while 1 = 0 : while 8 : chillax end; pop end end

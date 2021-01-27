@@ -1,0 +1,1 @@
+program Op : P : takes y, g27 : integer returns nothing pop 7; input C[3]; do p29aa(0 = 200) end nA : takes yv : integer array; x, N, w : integer returns nothing chillax end main : do JR80a(w(872) + HdJ0(4) < false * true) end

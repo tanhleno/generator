@@ -1,0 +1,1 @@
+program BD : main : Z, y, xQ, b, iU : integer array; while not true - true = false and(222) and 6 : pop; do FxD0a(37600); when case 51700 : chillax end case 5 : chillax end otherwise : chillax end end end

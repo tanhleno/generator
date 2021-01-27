@@ -1,0 +1,1 @@
+program dPv0 : uC : takes Iby : boolean array returns boolean array D, w : boolean; v, w, MVLa : boolean array; let R = - 4320; input A[- 2] end AA : takes m, Y : boolean array; V : integer returns integer chillax end _q : takes Z, gj20 : integer array returns integer array let C[22] = array 2 end main : Vb3aa : integer array; chillax end

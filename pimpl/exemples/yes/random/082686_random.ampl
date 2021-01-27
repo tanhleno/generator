@@ -1,0 +1,1 @@
+program K : main : M : boolean array; when case - F2K[568] - e[1] : chillax end case - not not 0 : input U[06]; when case 9 : chillax end otherwise : chillax end end case 8 and 7 or 8 < 62 : input m30[9] end otherwise : chillax end; while true /= e : chillax end end

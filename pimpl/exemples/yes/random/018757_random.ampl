@@ -1,0 +1,1 @@
+program v : d4naa : takes m9, V3R : boolean array; g, y, h0, L : boolean array returns nothing r : integer array; Qt, Li0 : boolean array; let Z[false or 4] = - 146 - 6 end u82 : takes pb, e, e, t, n : boolean array returns boolean array chillax end main : chillax end

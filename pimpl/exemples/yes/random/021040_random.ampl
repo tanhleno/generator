@@ -1,0 +1,1 @@
+program B : O : takes i8, igraa : boolean array returns boolean chillax end main : do tov(- (6 = 0) rem false / k, (2) /= true and 8 - 1); when case - (256) / true /= - d : chillax end case - true : chillax end case 9 > 2 : chillax end otherwise : input L1; let iD = 9 end end

@@ -1,0 +1,1 @@
+program M2X : main : z15, V : integer array; l : boolean; I03 : integer; while - (01) >= - R(9) + not 8 : let F5[- 60 - 2] = array 4 - 1; when case 7 : chillax end case 90 : chillax end case 4 : chillax end otherwise : pop end end end

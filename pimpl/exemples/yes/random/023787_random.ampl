@@ -1,0 +1,1 @@
+program k : K : takes Fg, LI : boolean returns integer d : integer; Lb : boolean; i, mn, v : integer array; It8 : boolean; i2w : boolean; P : boolean; chillax end mK7aa : takes g : boolean returns nothing u670, LK : integer array; let vE5[- 7380 - 8] = 0 = 3 end t9D : takes z85aa : integer returns boolean chillax end main : input F[false rem not not 1 + false and 20 and 785] end

@@ -1,0 +1,1 @@
+program c02a : o : takes JKd : boolean array; J0 : boolean; P8, y, I : boolean returns boolean array chillax end L1 : takes fA : integer array returns nothing input YSmaa[9 - 5] end main : O, p, CG, f0 : integer; chillax end

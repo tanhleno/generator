@@ -1,0 +1,1 @@
+program M : L : takes UX, p, h8 : boolean array; g : integer; Z : boolean array returns nothing S, G : integer array; while - 7960 and 20700 < - 36200 : chillax end end main : pop; input T[true rem(16) - p5_aa and 6830 + 9 - 38] end

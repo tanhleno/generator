@@ -1,0 +1,1 @@
+program c : main : G : integer; U5 : integer; Hi, W : integer; dZI, b : boolean array; when case false rem I[8920] rem z <= - G : while - 939 - 3 : chillax end; let EYzaa[422] = 30; while 70600 : chillax end; pop end end

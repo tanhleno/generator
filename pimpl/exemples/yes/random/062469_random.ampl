@@ -1,0 +1,1 @@
+program uq1aa : vxc : takes b : integer returns boolean S : boolean; x : boolean array; chillax end main : do Z(900 - true and false - not 1 and 06 - 7 - 7 = 73 and not 1 and 8 or true and 13700); when case - 9600 + false and 0 - 1 - 1 <= 015 : chillax end otherwise : pop; output "\n"; let S = 5560 end; let B = array not 9 and 74 end

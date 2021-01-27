@@ -1,0 +1,1 @@
+program x : e : takes MVg0 : integer array; Y : boolean; Ia : boolean array returns nothing do YGOa(- false, 9 - 3 > 3, 6 = 16); pop end main : while DQx0a * false - Z6s[195] <= - false + false : let T[7] = 4 = 429 end; input NS[false and true]; input S end

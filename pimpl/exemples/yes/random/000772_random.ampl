@@ -1,0 +1,1 @@
+program V : ndPaa : takes oC, W, j6D, I2, K, R, vB70 : boolean returns integer y54, LH10a : integer; p : boolean; do eCT0(- 04 >= 84 - 74, 2 - 962 > 54900) end main : while - 2 rem Z(833) / (08) or i(69) : chillax end end

@@ -1,0 +1,1 @@
+program YTd : s : takes Pe, aMq, y3w, m6 : integer array; D : integer; n4, S0, I, p, NR, r : boolean returns nothing Y : boolean array; while(99100) + 9 < - 55700 - 9 : chillax end; do dHG(5 - 9, 000 = 77, 4850); when case 1 : chillax end otherwise : pop end; pop; input L end main : a, gJ : integer; K : integer; chillax end

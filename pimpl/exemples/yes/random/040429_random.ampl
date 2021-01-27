@@ -1,0 +1,1 @@
+program p : L : takes A_ : boolean array; o : boolean returns nothing O : boolean; when case true - 9 : when case 1 : pop end otherwise : chillax end; let j = 17; input W; pop end; when case 8 - 7 <= 1 : chillax end end main : output - (1) and true and 7880 <= true and 2 - 31 - 69 . - 2 and 7 - 2 > - 4 end

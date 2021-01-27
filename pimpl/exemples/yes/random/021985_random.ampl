@@ -1,0 +1,1 @@
+program r : ju : takes p, G9 : boolean array returns nothing chillax end main : k, H2Y, z9 : integer; J, k, X6, _ : boolean array; input j[not(31) / false / 223 + 4 or not 9 or 67]; do S(zYw(3) * Y); output - 790 . "p" end

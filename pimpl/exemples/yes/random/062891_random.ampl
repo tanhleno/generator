@@ -1,0 +1,1 @@
+program q6 : Y : takes Z : integer returns integer array A, R : boolean; y : boolean array; nf1a, d, wK : integer array; input EW; input i; input s2 end main : u2 : boolean; output "}" . - false - 9 - 9 . 38 - 011 end

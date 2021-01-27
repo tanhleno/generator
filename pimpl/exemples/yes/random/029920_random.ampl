@@ -1,0 +1,1 @@
+program I5 : i1n : takes aqsa, p : integer array returns integer chillax end Ju0aa : takes L5, K, K55a, E, h : integer array; F : integer array; XnSa : integer returns boolean array vE9aa, G, i7I0a, x : boolean; input Wk[92] end main : K, xAma : boolean array; chillax end

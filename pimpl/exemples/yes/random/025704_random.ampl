@@ -1,0 +1,1 @@
+program m : D6 : takes v99a, p : integer; m7, B : integer; h, b, QEi0 : boolean array returns integer array while true and 11900 : chillax end; while - 788 - 93 <= 28 : chillax end end main : input T[- (0 = 71)]; input z[- 99 and false - false and 7]; do a(not 5 and 7 - 65 - 3150, - 6 <= 820) end

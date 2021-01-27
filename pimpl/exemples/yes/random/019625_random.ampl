@@ -1,0 +1,1 @@
+program uN10a : Q480a : takes Q0, xCF0 : boolean array; P, E7 : integer returns integer input s end Y5Laa : takes a, G : boolean; g, r8, j, U, r : boolean returns nothing chillax end main : W9, vd : boolean; let m50[not 1 / not not 6 / (42600) and 81] = X rem(4190) > - r05 or 8 - 6 end

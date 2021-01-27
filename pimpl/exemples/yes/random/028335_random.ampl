@@ -1,0 +1,1 @@
+program F8 : z22 : takes a4, z16 : integer array; r : boolean array; m62 : integer array; eE3, V : boolean returns nothing zh : boolean; X, N6, u7v0, eW : boolean array; g8 : boolean array; while w /= - 3 - 376 : output 29 . "" end end main : input t[- fA(02, 2) * 817]; output false and 7 - 40000 - 4 . "|" end

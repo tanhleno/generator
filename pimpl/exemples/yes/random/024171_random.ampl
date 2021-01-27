@@ -1,0 +1,1 @@
+program b : Fp : takes F6, Nk00 : boolean returns nothing K37, W2, k1, g, STe0 : integer array; while false or 377 /= 8 - 0 : while 5 : chillax end end; do R(4 < 8); output ""; do v(71, 72) end main : s : boolean; s3j, s, V, Q : integer array; chillax end

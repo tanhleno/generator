@@ -1,0 +1,1 @@
+program WP0 : I : takes Zx : integer array returns nothing chillax end u : takes o2 : boolean array; C1 : integer array; j26aa, m : integer returns integer _x1, RO : boolean; do s(48, 200, 84700, 9) end I0U : takes Q, X2ja, fa4 : integer array; Pf, j, c, A : integer returns boolean array P : boolean; pa8, J7 : boolean; output "" end main : c, I : boolean array; chillax end

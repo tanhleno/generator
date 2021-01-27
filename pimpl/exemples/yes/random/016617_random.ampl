@@ -1,0 +1,1 @@
+program J : x : takes v, QU, R7Fa : integer returns nothing when case true : while 11 : chillax end; pop end case 999 : input N; let a = 8 end otherwise : do i200a(37) end end E : takes _0 : boolean array; h : integer returns nothing output 8 end main : N : integer; while - false > - false rem u : pop end; pop; input C9[- 2 + 4 - 8] end

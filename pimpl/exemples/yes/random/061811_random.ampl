@@ -1,0 +1,1 @@
+program S : O4 : takes w : integer returns boolean array c, E6, y, q98, j : boolean array; input k[- (4) and 106 + 191 - 0] end main : do Zc((90 = 9) and not false + false rem true and 01 - true, not false * not 7 and 2 + not 0 - 7 = not 8 and 0770, (0) and 79 - 99 - 37) end

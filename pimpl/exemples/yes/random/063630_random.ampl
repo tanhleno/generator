@@ -1,0 +1,1 @@
+program b : K : takes oV : integer returns nothing chillax end F : takes B9, A04a, R, x, p, k, d1s : integer array; a, _4, XTg, l, q, o : integer; F, u, b23, u9na, L : boolean array; j, v, P39aa, tl : boolean array returns integer array Haa : boolean; t, qf : integer array; pop; while 3 : chillax end end main : eI3aa : integer; chillax end

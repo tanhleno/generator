@@ -1,0 +1,1 @@
+program c : X : takes k, B7f0a, e : integer array returns integer hJ : boolean; p2 : integer array; chillax end g : takes KK : integer array; R3h : boolean array; M5V, K : boolean; u : boolean returns boolean array g1, k : integer array; P58, Sp, K : boolean; M6, AkY : boolean; do x5(- 54 > 4, 26 = 2) end main : input O[true]; input V[- (378) and not 49 + 08 and 6] end

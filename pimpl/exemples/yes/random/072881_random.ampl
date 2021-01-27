@@ -1,0 +1,1 @@
+program P : main : Ti, n8, b : integer array; u : boolean; pop(67) * true and 91 + false and 86; when case(72) and not 07 - p6Saa + 358 - 54 : chillax end case not 86700 < - 58200 : chillax end otherwise : chillax end; input u; when case 3 : chillax end; while 01200 = 4 : when case 7 : chillax end; pop end end

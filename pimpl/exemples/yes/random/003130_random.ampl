@@ -1,0 +1,1 @@
+program s2 : k : takes eA, i, FiNa, n, Qx2 : integer; q, P, p6u0a, _ : integer array; Wa : boolean; I07aa, N : boolean; OaR, b, S, _h : boolean returns integer output 31600 - 3 > 7 . ""; let o = array 153 - 308; output 0; input YgZ0a[2] end main : let r[not 5 rem o(8) + 47 rem(7) and 6 + m + 085 - 444] = array - true or(9) and 4 and 7 end

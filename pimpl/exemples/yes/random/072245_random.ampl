@@ -1,0 +1,1 @@
+program v2 : main : z7, h, q : integer; s : boolean array; dVCaa, _ : boolean; j, I, Sj : boolean; when case - false - false / true and 87500 : input S2[- 08700]; pop end otherwise : output ""; output "{L"; input n7qa end end

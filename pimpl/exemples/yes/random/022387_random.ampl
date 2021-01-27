@@ -1,0 +1,1 @@
+program u : A : takes pn, DXZ0a : boolean array returns nothing d : boolean; chillax end main : output "[" . - 6 and 85700 or 97 - 4; output false + 2; when case - true + 4 : chillax end otherwise : chillax end end

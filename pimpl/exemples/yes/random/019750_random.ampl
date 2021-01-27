@@ -1,0 +1,1 @@
+program H : P : takes em1, iw : boolean array; Ke60a : boolean; NL1 : boolean array returns nothing L : boolean array; pop; let Oav0a = array - 3 end r : takes W73 : integer; Zi, n : integer returns boolean input e end main : chillax end

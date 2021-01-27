@@ -1,0 +1,1 @@
+program x : S03 : takes A : integer returns integer do b6U0(not 6 and 01 <= - 5 - 4, 07 <= 556, 72 = 8, 0170, 9) end E3 : takes L, k, k : boolean; j07a, X, F, O, q0 : boolean returns nothing pop; output 8 . "" end main : X : boolean array; chillax end

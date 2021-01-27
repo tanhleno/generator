@@ -1,0 +1,1 @@
+program mIwa : g86aa : takes O, M : boolean; dqv0a, I43 : boolean; G, O : boolean array; F, X190 : boolean array; d : boolean array; P, H, Ph2 : integer returns boolean array chillax end main : while - not false < - (748) : chillax end; pop end

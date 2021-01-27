@@ -1,0 +1,1 @@
+program PV : k : takes W : boolean array; P, s : boolean; xow, l1, vGu, ItY : boolean array; d3E0 : boolean returns integer i : boolean; P : integer array; while - not 6 + 654 - 8 >= 41 - 1 : let wI8 = 66; let N = 0 end; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program z1_0 : c3 : takes a7, a, xZ : boolean array; e1haa, l8, ooU0, E : boolean array; E, H, Z, N9C0a : boolean array; o, k, _ : boolean returns nothing T, Hs : integer; do Y4(false /= 05, 2 >= 0); output "#" . ""; pop end r5 : takes iD : boolean array returns integer do C(9 - 3) end main : chillax end

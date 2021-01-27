@@ -1,0 +1,1 @@
+program A2 : V : takes pa5, Z2, H : boolean; Ks : integer array returns boolean I, g66, L, k, B : boolean array; chillax end k : takes b4 : boolean returns boolean pop 8; input Y[55600]; pop 53; when case 19 : chillax end end main : w, Q : integer array; do hk(- (6 = 0) /= (9) - 17100 and 9 - 07600 - 07, - x2(7) >= false and 422) end

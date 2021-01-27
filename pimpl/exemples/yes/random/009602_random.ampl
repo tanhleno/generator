@@ -1,0 +1,1 @@
+program Qg : K610 : takes v, CM, J : boolean array; KW, Ro2aa, N47, P5 : integer returns boolean array P, D : integer array; when case - not 074 and 7 - 1 < - 675 - 5 : do C(29, 7) end end main : do W(- false and false) end

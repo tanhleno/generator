@@ -1,0 +1,1 @@
+program b1 : R99a : takes N27a : integer returns nothing g, H, T : integer array; E3 : integer; let aD2[770] = - 0790; output "\\" end main : while - not tk7 rem true rem 3 - (7) + not 6 and 8 >= - not false / U and 11 : chillax end end

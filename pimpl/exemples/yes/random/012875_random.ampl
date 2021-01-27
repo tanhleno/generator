@@ -1,0 +1,1 @@
+program F : w4 : takes X, Dx, Q : integer; sxg, N7 : boolean array returns boolean U : boolean; let Dq5aa[false + 9] = array d + 3 - 6 end jyx0a : takes cA, W46 : integer returns boolean chillax end main : chillax end

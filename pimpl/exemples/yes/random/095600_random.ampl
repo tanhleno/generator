@@ -1,0 +1,1 @@
+program Rs : main : when case - (8) >= true * true and 78 + Y9 : chillax end case true / true and 79 /= - false : pop end case - (08) and 2 /= - 5 : when case 9 : chillax end otherwise : chillax end end otherwise : chillax end end

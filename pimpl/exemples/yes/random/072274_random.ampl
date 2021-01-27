@@ -1,0 +1,1 @@
+program O78aa : main : h, O030, K : integer; kfw0 : boolean array; when case true or not not 763 /= - (56) and(6500) : while - 73400 : pop; do R(08); pop end end; pop false and 0 >= - 281; while false and 1 - 8220 : let H = 9 end; pop 40 end

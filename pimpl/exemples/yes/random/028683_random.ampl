@@ -1,0 +1,1 @@
+program H9 : U : takes l, hS : integer array; r : integer; s, ko : boolean array returns boolean m79 : integer; e, P, p : integer array; O6 : boolean; chillax end Cn : takes k3Q, ia : boolean array; z, THx : boolean array returns nothing chillax end main : Wbw : integer array; do M4z(- p, true or not 97 and 08500); output "jl0" end

@@ -1,0 +1,1 @@
+program O57 : Z : takes t5, ut7aa, z : boolean returns nothing RL, xbG0a, X, n, xF : boolean; while - true + 5 - 62 = 725 - 9 : when case 571 : pop end otherwise : chillax end end end main : Bg0, FF40, i : integer array; y : boolean array; chillax end

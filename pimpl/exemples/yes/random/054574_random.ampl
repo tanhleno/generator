@@ -1,0 +1,1 @@
+program x1 : V0 : takes l : integer array; j, d4 : boolean array; a : boolean array returns nothing do Iz((17) and 4290 >= - 25, 5); when case 0 - 2 > 71 : input pdU; let rK = 0; pop end case 4 = 07700 : when case 535 : chillax end; pop end case 2930 : chillax end otherwise : let lL70a = 36 end; pop 0; output "" . "" end main : input F end

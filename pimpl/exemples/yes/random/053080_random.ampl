@@ -1,0 +1,1 @@
+program Q92 : wE5 : takes xa8 : integer; m : integer array returns nothing let _0[J3 and 1] = - 1 < 68; output "1" . 774 . "" . "\"\t"; input TB1; while 6 : pop end end e3 : takes S, v, h5 : boolean array; yzAaa : boolean returns nothing pop end main : aMq, q4, I : boolean array; chillax end

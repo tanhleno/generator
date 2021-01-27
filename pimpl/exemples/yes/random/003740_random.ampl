@@ -1,0 +1,1 @@
+program p : I2 : takes R, k6, ld, e8, j230a : integer array returns integer array kUn : integer; chillax end Y : takes he, X, x6b : boolean array; J : integer array returns nothing while - 3 /= 3 : chillax end; output 6670; input M; do x97(017); while 0 : chillax end end main : chillax end

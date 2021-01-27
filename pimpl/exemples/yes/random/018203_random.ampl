@@ -1,0 +1,1 @@
+program Vi : r840 : takes p, eh : boolean; d : integer; Fj20 : integer array returns integer s : boolean array; when case - (6) /= - 03 - 53 : input e[971]; let i18 = 6 end otherwise : let Cr = 393 end end main : chillax end

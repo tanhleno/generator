@@ -1,0 +1,1 @@
+program a6 : main : mzZaa : integer; pop; pop 64; output - 0 - 9; when case 261 - 81 : while 9 : chillax end; pop end case 3 = 07 : chillax end case 99 : chillax end otherwise : chillax end; while 6870 = 6 : pop; pop end end

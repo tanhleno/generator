@@ -1,0 +1,1 @@
+program G0 : p : takes u31aa : boolean array returns nothing n, I : boolean; y, L : integer array; input g3G end main : output ""; input b[q25aa[86]]; pop 2; while - 572 <= 1420 : chillax end; let d8Q[53] = array 7; when case 608 : pop end end

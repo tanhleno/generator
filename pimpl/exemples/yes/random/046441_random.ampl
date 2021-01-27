@@ -1,0 +1,1 @@
+program H : A : takes o : boolean returns integer array chillax end P0 : takes vX : boolean returns boolean array P1U, q75, X, t6 : boolean; let U0[0] = 09 end main : I, MZ, h7 : boolean array; b, i : boolean array; g : integer; a : boolean array; J : boolean array; Y810a, PO : boolean; output "" . "" . - 86; let u5 = array - I67(199) + not 6 + 7 end

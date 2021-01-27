@@ -1,0 +1,1 @@
+program Ye : hD : takes Z, Z, j : boolean returns nothing input A_t[- false + 7] end R : takes P0 : boolean array returns boolean array u5 : boolean; chillax end M : takes a4 : boolean array; s : boolean array returns boolean array do f6x(10 = 9, 6); let E[1330] = 2; pop end main : chillax end

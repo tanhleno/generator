@@ -1,0 +1,1 @@
+program LU : Ke : takes _, m : boolean; Fr10a, v, u2Z : boolean array returns boolean array pop; let Z = array - 07 - 2200; when case 577 = 68 : chillax end otherwise : pop end end main : chillax end

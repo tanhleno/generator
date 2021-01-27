@@ -1,0 +1,1 @@
+program v : B : takes QM, L : integer; g : integer array; V : boolean array returns integer array O6s, v6naa : integer array; Hj : integer; f : integer array; vz : boolean; k : boolean; K : boolean; chillax end main : EP, o, FS : boolean; qY9 : boolean array; while - SL1 * (22) + false = - true : input uku[- 5]; do H(67, 38) end end

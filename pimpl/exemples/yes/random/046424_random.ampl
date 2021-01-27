@@ -1,0 +1,1 @@
+program md10 : N : takes G : boolean returns integer array chillax end eD : takes S4, M : integer returns integer V : boolean; mf, f : integer array; N : boolean; chillax end yq : takes N : boolean array; J : boolean array returns integer chillax end main : input B[- true * 2]; do OCJ(- true / true = - false - 658); while - not 0 and 8 : input T[3]; do QP2aa(40) end end

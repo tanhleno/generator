@@ -1,0 +1,1 @@
+program Ag : Wb40a : takes C, L19, e, N3 : boolean array returns integer input Rkpaa; when case - 8 : do e(1) end end main : e, q, tT : boolean array; j, N, U290 : boolean array; while true / s7q(82) : output "\n"; while 5 = 3 : chillax end; do n8(2, 16) end; output - true + 55 <= - 3 . "" . "" end

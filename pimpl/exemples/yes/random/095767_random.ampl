@@ -1,0 +1,1 @@
+program d : main : when case - false + false * true and 9 + not 11900 and 3 - 7 - 51 : output 9 . "4[a" end case - not false rem 36 and 6 or 5 and 56 : chillax end; output ""; input K; while 5 - 5 <= 0 : chillax end; let e = array 8490 end

@@ -1,0 +1,1 @@
+program G0 : main : NLb, C, E350, t, ku, s, y : boolean array; input E670[- (4 = 0) / 65]; output ""; when case - not 8 /= 1 - 986 : let Fa5[32] = array 96 end otherwise : while 95 : chillax end end; output 881 . 28 . 78 end

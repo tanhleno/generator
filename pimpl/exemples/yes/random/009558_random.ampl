@@ -1,0 +1,1 @@
+program W8p : F290a : takes N, UH, L : boolean array; v, g, A, tG : boolean; C3 : integer returns nothing o : integer array; u : boolean array; S5e0a, s : boolean array; chillax end main : y, i, a : integer; chillax end

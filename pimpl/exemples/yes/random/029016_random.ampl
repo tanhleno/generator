@@ -1,0 +1,1 @@
+program U : z4 : takes G3, udy : integer array; O : integer array returns nothing Z, E4 : boolean array; J, l, K, X : integer array; F6_ : boolean array; LZ, a4 : boolean; ZFha : boolean; pop 8 >= 1 end R4 : takes G : boolean array returns nothing l5Da : boolean array; do B1(- 3, 934); input r end main : chillax end

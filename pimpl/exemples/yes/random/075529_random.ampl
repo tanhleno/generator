@@ -1,0 +1,1 @@
+program U4 : main : C, Z_30a : boolean array; output "1" . - true and 9 . - 5; when case - true and U + true + 5 - 680 /= - false + 14 - 6 : when case 0 : input s2; pop end case 60800 : pop end; while 60 : chillax end end case - (646) and 25 : chillax end case 18300 <= 4 : pop end otherwise : chillax end; input j end

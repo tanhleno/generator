@@ -1,0 +1,1 @@
+program O : b : takes f, I8 : boolean; Mu4aa : integer; W : boolean array returns integer array q7 : integer array; chillax end main : r, o : boolean; B1h0, F, V, _, q, y : boolean; w : boolean; m, D, H, y : integer array; pop; do Ab0(- Jb[8] - 1 and 7 or 1, true and 545); do EJ(- ddxaa - 4 - 6 <= 5 - 0, 7 - 2, 36000 = 9); pop end

@@ -1,0 +1,1 @@
+program E : v : takes U6, Y3q : integer array; mRH : integer array; D : boolean; O, X, s, O, F : integer array; d, t, q3q : integer array returns boolean array e, t0 : integer; chillax end main : chillax end

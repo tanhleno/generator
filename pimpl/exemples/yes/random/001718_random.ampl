@@ -1,0 +1,1 @@
+program h : Lj : takes f, E, mQ6aa, F23, r, H : integer; A : integer returns nothing T, Y : boolean; g, z : integer array; zE : integer; U : boolean; chillax end v : takes u, n : boolean; I, z : boolean returns nothing output 5 . "" end o : takes K : integer; A3, t : integer; u : integer returns integer array C : integer; chillax end main : chillax end

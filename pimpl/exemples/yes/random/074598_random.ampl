@@ -1,0 +1,1 @@
+program k : main : PI, Nf5 : boolean array; E, yBl, P2, J, ExRa : integer array; Xn : boolean; Q2, L6 : integer array; N06, lK, J : boolean array; output "" . not 0 and 5 >= - 0 . ""; when case(2) rem oc < - true : chillax end; while u66 < 47300 - 39 : chillax end; input X45aa[67 - 346]; output 3; input ks6 end

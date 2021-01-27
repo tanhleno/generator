@@ -1,0 +1,1 @@
+program yJFaa : s : takes xh, i, k, P8, QWW0a : integer array; ln : boolean array; S, G : integer array; j9 : integer array; t, T : boolean array returns boolean array chillax end t_ : takes Q : boolean returns nothing do M(- 9800 - 93 >= 7) end main : chillax end

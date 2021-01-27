@@ -1,0 +1,1 @@
+program l : M : takes c, C5 : boolean; rK : boolean array; z71, k, z2, T : boolean returns boolean array u3r, sfl, J, o, g : integer array; do s(false or 4390) end t : takes pE : integer; H : boolean returns integer v, XM : integer; chillax end main : vJ5, MJ, f : boolean array; output "N" end

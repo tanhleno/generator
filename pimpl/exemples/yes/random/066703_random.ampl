@@ -1,0 +1,1 @@
+program w7 : main : do Fj(- 83 and false, - w rem N5 >= - c + 85 - 1, - not 7); when case false or e and 9050 <= - c and 78 : when case 0 = 6 : let W = 5; pop end case 59 : chillax end end case false and 1 or 08 : do uy9(22, 746); input t end; let V = - 1; pop; do uW60a(3); input t[365]; when case 4 : chillax end; when case 86 : chillax end; pop end

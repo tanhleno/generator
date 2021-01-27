@@ -1,0 +1,1 @@
+program D : main : XS, m1 : boolean; r8B0a : integer; let V31 = array - 7 / true; while not(63) - false and 8 <= - (169) and 18 - 31300 - 7 : output 062; let O0 = 640; let E = 3 end; input R[true and 483] end

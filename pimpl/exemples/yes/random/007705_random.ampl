@@ -1,0 +1,1 @@
+program q : x5t0 : takes w4, A9, Sv5, MK0 : integer array returns nothing chillax end main : when case qJ(6, 62) + not(3730) : chillax end case not false and true + true or 8 = - 044 and 9 - 2 - 733 : input Nu5; do xKw(5390) end otherwise : chillax end end

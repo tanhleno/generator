@@ -1,0 +1,1 @@
+program R : main : _ : integer array; zw, fr, Fi6a : integer; bq : boolean array; N1X : boolean; h, E73 : boolean array; pop true or not 0 and 5 + 8490; while - (9) : do l(336, 4, 899) end; when case Hce /= 819 - 0 : chillax end; let B0I0a = 0; input H92a end

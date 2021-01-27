@@ -1,0 +1,1 @@
+program f : R31 : takes T : integer returns integer array Md0 : boolean; when case 3 and 5 - 0 : chillax end case - 01 >= 55 : input L84; output "72!" end case 55 : input d end otherwise : output ""; let a = 2 end; do LT(- 37 >= 1) end main : chillax end

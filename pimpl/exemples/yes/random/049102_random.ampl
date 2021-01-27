@@ -1,0 +1,1 @@
+program Q : A0 : takes T6 : boolean returns nothing when case - (7) : while 16 : chillax end; when case 5250 : chillax end; output "0" end end main : input N4[(34 = 8) rem 2 rem(4)]; let n = array - not true rem(02) and 4 - not 5 and 44300; while - (7) : chillax end end

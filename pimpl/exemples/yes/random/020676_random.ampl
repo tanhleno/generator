@@ -1,0 +1,1 @@
+program K : f : takes U, l : boolean array; L : integer returns integer array KE20a, X2K, LW, dEaaa : boolean array; pop 2 - 241 < 4 end main : h, j : boolean; output "" . z - 5 . "" . "" . "?" . 72; pop; output 9 - 65 end

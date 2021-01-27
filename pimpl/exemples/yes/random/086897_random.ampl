@@ -1,0 +1,1 @@
+program h : main : Z : integer array; v : integer array; J : integer array; L, Q : boolean; do g(- S9i(834, 786) and false or(0) and _0); while - U50[81800] > not 60 or 8 - 4 : chillax end; output - 9 - 211 > 7 . 149; when case 356 - 6 > 91 : chillax end; do y5Y0a(1 = 79, 5, 9); let h[93500] = array 25 end

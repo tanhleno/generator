@@ -1,0 +1,1 @@
+program o : main : R15, fi, p, q : boolean array; swE : integer array; do J3r(not(3) / (4) + false, - X[3] - Idga and 347 > h and 8); output - y and 9 > - 75 - 03400; do Z(- true and 64 or 581 - 8 = 8 - 337) end

@@ -1,0 +1,1 @@
+program W2v : lu : takes Faf0a : integer returns nothing MX, rw00a, v1n, Xoq : boolean; input J end main : V : boolean; HRe, w4, D4 : boolean; input D980[- 54 rem not(6) or not(9)]; input F[- y - g and 51800 - 8]; pop - 33 - 22 >= 30 end

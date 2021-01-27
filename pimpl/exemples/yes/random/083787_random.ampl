@@ -1,0 +1,1 @@
+program f : main : D2ha : integer; AW, D : integer array; t, D1, F, _P : integer array; do A(- 21 and(99) > - false and not 6620); pop - s2Q + 6 - 525; pop; let xT50[- 9960 - 7] = 04 = 4; input Q[85]; pop; while 73 : chillax end end

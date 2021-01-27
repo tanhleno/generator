@@ -1,0 +1,1 @@
+program D : R06 : takes Z, o : boolean; q : integer array returns integer when case(5640) and 2 <= 067 : chillax end case 7 : chillax end case 87 : when case 5 : chillax end; pop end end Q : takes G3 : integer returns boolean array V62aa : boolean array; ykY : boolean array; hLL, c5Zaa : boolean; u : boolean; chillax end main : chillax end

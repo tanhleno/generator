@@ -1,0 +1,1 @@
+program t0 : main : output - (9) and 387 - not 32300 + 8770 . "\n2a" . - 2 /= 29; when case - true + (97) : output "" . "" end case - true and 325 : chillax end otherwise : chillax end; when case - true : input m end case - 318 - 9 : let O = 60 end; pop 1 end

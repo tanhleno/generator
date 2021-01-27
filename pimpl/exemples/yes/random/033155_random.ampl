@@ -1,0 +1,1 @@
+program Y44 : R : takes f, p : integer returns nothing while - false : chillax end; while - 68 - 5 /= 87 : when case 64500 : chillax end end; output 840 . "4)"; output 9 . "2"; input i8 end main : W, V : integer array; chillax end

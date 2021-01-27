@@ -1,0 +1,1 @@
+program Up20 : TrLa : takes j2 : integer returns nothing while 38 : input f9F; while 3 : chillax end; pop; pop end; output 9 = 60 . "" end main : pop; output ""; let x_0a = array - false and 315 or 7 end

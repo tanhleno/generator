@@ -1,0 +1,1 @@
+program a960a : J : takes x66, Y : boolean array returns nothing L : boolean; U : boolean; JD : integer array; when case not 8 and 59 + 5 /= - 9 : chillax end end main : j4, q1 : boolean array; pop - not not 94300 * xh3aa and 9 + true and 6 + 56 end

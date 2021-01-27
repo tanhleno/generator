@@ -1,0 +1,1 @@
+program C : h7 : takes xd0, _, Pp, v4 : integer array returns nothing let w[true] = - 6 - 3880; output 5 end main : Ch, U, laH, l2Ua, t : boolean; while - not 2 rem false rem 02 : chillax end; input k[- not true rem 4]; do m(- true) end

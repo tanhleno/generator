@@ -1,0 +1,1 @@
+program T : o : takes L2y0a : boolean returns nothing chillax end Ao : takes YV, NW : boolean returns nothing z5naa : boolean array; G, LL, ju : boolean array; F, v : boolean; chillax end main : chillax end

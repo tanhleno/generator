@@ -1,0 +1,1 @@
+program W : TY1 : takes nZ_0, VP : boolean returns integer d : integer array; chillax end main : hr, y : boolean array; G, z, M89, eq0, k, H9 : integer; input dj[- true / G(7) + not(8)]; do T(- true + true > - Rw or 4920 - 3, - 19 and 799 <= 79, 2150 - 9 <= 434, 63, 9); let e = array - not 13 end

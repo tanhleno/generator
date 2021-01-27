@@ -1,0 +1,1 @@
+program dB4 : main : NW : boolean array; a : boolean array; Xl, rw : boolean; dN, M7Aaa, K, Sc : boolean; Xx80, te5 : boolean; iI1, BY6 : boolean; do r46(S(2) - (7610) / v790a < true); do N(- 1 * not 24100 or s and 6); input e[08 + 5] end

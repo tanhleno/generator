@@ -1,0 +1,1 @@
+program R : B : takes s : boolean array; _, WO, Y, J, P : boolean returns integer chillax end main : while - 16 - g(04) = - wn * not 21 - 978 and 1 + 72 - 8 : while 29600 <= 9 : input Co6 end; let H4[88] = 6 end; do X(not true * G0P) end

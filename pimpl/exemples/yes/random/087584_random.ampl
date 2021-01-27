@@ -1,0 +1,1 @@
+program X : main : E9 : integer array; when case VK5 or false * 87 - 1 and 6 - 2 - 5250 /= - (5) - false : pop 7; let v = 83; when case 9 : pop end end otherwise : chillax end; output ""; while(94) and 5 : chillax end; while - 9860 - 443 : when case 7010 : chillax end end end

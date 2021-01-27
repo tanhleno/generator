@@ -1,0 +1,1 @@
+program lz : M : takes Pn, L, E, R29, WmJaa : integer array; M : integer returns boolean array input R4c0a; when case - 10 - 4 /= 2 : let l0 = 69 end; let r10[8] = array 46600 end main : Ck : boolean array; chillax end

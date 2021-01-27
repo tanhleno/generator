@@ -1,0 +1,1 @@
+program Qr : C : takes QO : integer array returns nothing tI, c : integer array; Y : boolean; _6 : boolean; chillax end main : m : boolean; Y4 : integer; R12, r, YD : boolean array; V : boolean; when case V[2] - 45100 < - true + false and 67 : chillax end end

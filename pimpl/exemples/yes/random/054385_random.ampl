@@ -1,0 +1,1 @@
+program Z : U : takes us : integer array; RB, t : boolean; H, G, A : boolean array; J2, VL30a : boolean array returns nothing Qb, t52aa : boolean; chillax end f32 : takes d : boolean; G, A : boolean returns nothing h, H, g, e : boolean array; chillax end main : do G(- false) end

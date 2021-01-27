@@ -1,0 +1,1 @@
+program d : g : takes g : integer array; b, g : boolean array; Ei, o : boolean array; x9, Y0Naa, h9, q, K : boolean array; O : boolean array; q : integer array returns nothing do E(x6); pop 466 = 1; input F2m[5]; output 7 . ""; while 1 : chillax end; do r(913) end k32aa : takes A8 : integer returns nothing while - 0 > 6 : chillax end end main : chillax end

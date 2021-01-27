@@ -1,0 +1,1 @@
+program iQ : main : c9, L, t : integer; n_d : integer; do N(not false and f and(2) or 9 + false or 6 > - true - (1), - true * not 52 and 9170); pop - (519) + 55 = - 44200; input v; output "~I!a" . "6" . 8 . ""; when case 7 = 9 : chillax end case 0 : chillax end otherwise : chillax end; while 7 : chillax end end

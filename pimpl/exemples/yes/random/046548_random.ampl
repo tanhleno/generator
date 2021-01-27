@@ -1,0 +1,1 @@
+program I : tO7 : takes KJ : boolean returns integer array N, aO80, jW : boolean; l, e920, s6 : boolean array; E9 : integer; D200a : boolean; n : boolean; j6L : boolean; chillax end main : l8 : integer array; while - false - false : input C[- 83600 - 3] end; when case not Wy / 39 or true and 7 - 8 - 8190 : chillax end otherwise : chillax end; do B(w9) end

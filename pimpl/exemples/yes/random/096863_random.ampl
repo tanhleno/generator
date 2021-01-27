@@ -1,0 +1,1 @@
+program y53 : main : when case false or false and true and 2 = 92200 * yT and 1 : input w end case - (4700) * 2 and 34 - not 2 and 39 <= - l8M - 8 - 66100 : chillax end case - 9 and 2 or 7 /= 9 : input Lnu0a; pop end case - 35 = 3 : chillax end; let V5l0a = array(7) and(86000) end

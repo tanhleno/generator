@@ -1,0 +1,1 @@
+program iiz0 : T : takes De8 : boolean array; kO : integer array; k, C, L : boolean; yG : boolean array returns boolean array Ox20, Yk : integer; W : integer array; oFG, UDv : boolean; input fO end main : b8j0a, j48a, O, Ie : boolean array; when case not false = - (63) and true and 7 + (8580) and 948 : chillax end; output - (7) and 98 . - 6 end

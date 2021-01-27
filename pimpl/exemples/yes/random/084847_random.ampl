@@ -1,0 +1,1 @@
+program I : main : qT7 : integer; let KT[true * true - (34) * true and 164 + (5) and 5100] = - O7[361]; output - 2170 and 96 + 1 - 6 >= - 48 - 7880 . 7 - 9 . ""; do ce0a(- c + 7240 < 0 - 42, - 48 - 35 >= 8, 3 = 601); let H = 504 = 170; let FU8a[39] = 6 end

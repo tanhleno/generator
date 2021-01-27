@@ -1,0 +1,1 @@
+program B : Ij : takes ONJaa : integer array; E, m670, Uc, oS3 : boolean returns nothing output 1730 - 42 . 6 = 8 . 8 . 8; when case 0020 > 0340 : pop end case 42 : output "" end; pop 02 end w : takes W7D0a : integer array returns nothing I1 : boolean; input j[- 5]; input q[36600] end main : chillax end

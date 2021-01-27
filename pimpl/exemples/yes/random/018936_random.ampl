@@ -1,0 +1,1 @@
+program o : y8 : takes Ej, y : boolean array; F, b97, c : boolean array returns integer array input _m end y : takes C680 : boolean array returns nothing T, Ua : integer array; Y : boolean array; chillax end main : lX : boolean array; chillax end

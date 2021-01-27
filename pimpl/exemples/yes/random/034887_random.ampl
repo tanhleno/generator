@@ -1,0 +1,1 @@
+program B : w83a : takes J9W0 : boolean; p19, u5 : integer array; U3k, f, Jm : integer; Q, SL, T : integer; H1 : integer array returns nothing H6, G62aa, s : integer; S89, h, x : integer array; Q : boolean array; output "*\n"; let I2Gaa = 103 = 5 end main : le00 : integer array; p : integer; z : boolean array; chillax end

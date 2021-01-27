@@ -1,0 +1,1 @@
+program y360a : main : while - true rem true * not 9 > (1) / (97) and 39 or 1 : pop 85700 end; when case - false * true + 04 + 5 : when case 663 : chillax end case 3 : chillax end otherwise : pop end end case 668 and 9 <= - 1 - 7790 : chillax end case - 4 : pop end case 2 = 0 : while 899 : chillax end end otherwise : chillax end end

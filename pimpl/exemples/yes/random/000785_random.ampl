@@ -1,0 +1,1 @@
+program w3q : l3 : takes Rij, BT80a, aD, u2e0a, f, C, qX : boolean returns nothing do j(- (3) or 0 - 0 /= - 3 - 442, - 8000 >= 7, 0 = 11, 5, 01) end _ : takes JM : integer array returns integer array j, A : integer array; bvB0 : integer; gS6aa, p : boolean; chillax end main : V, M, NS : boolean; Ve : boolean array; chillax end

@@ -1,0 +1,1 @@
+program w : t : takes h, H, P : boolean; n5I, mz1, _, jd2, a0, tS : boolean array; SJ : boolean; z2, C, I, x : boolean returns nothing pop; do s5y(444 = 3) end main : Y, e, K, K : integer array; I0 : integer; Vq, d0g : boolean; m : integer; chillax end

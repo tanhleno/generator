@@ -1,0 +1,1 @@
+program SU : main : when case - true and true * false and 9 : chillax end case V(7) / false and 3 > - true and 7 : chillax end case - false and 98 - 5 - 82 > 979 - 69400 : chillax end otherwise : chillax end end

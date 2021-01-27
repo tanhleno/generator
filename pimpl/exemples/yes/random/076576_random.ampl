@@ -1,0 +1,1 @@
+program D : main : C, ol : integer; H : integer array; when case - false : chillax end case - (623) - 827 or 7 /= A : chillax end otherwise : chillax end; while false > s90 : chillax end; pop - 2380 - 441 end

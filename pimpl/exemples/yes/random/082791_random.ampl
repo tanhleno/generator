@@ -1,0 +1,1 @@
+program T : main : n : boolean array; when case true rem 32 or(7) * a - false and 7 < true * 49300 and 938 : pop end; while - true * (52) >= - not 65 and 243 or 4 - 03 : do ew5(56, 4) end; output 82 > 4; output 84 = 0 end

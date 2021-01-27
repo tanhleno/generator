@@ -1,0 +1,1 @@
+program r : main : when case not true * false rem not 1 /= - not(7) / not 17 and 2 + 2 and 7 : chillax end otherwise : chillax end; let n[- X] = - not 1 = - 5560; let UR3aa = array - ps and 5 - 52; when case 58 /= 3 : chillax end otherwise : when case 4 : chillax end; pop end end

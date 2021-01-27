@@ -1,0 +1,1 @@
+program T : L : takes P, n : integer array; R3 : boolean array; rt, t1, M9, No : boolean; O : boolean array returns nothing let s2[(3) - 364] = - 86; let k[43] = array - 75 end j8t0a : takes V : boolean array returns integer array W : integer; let gO50[- 1 - 81] = 1; output 9 . 8 . ""; pop end main : chillax end

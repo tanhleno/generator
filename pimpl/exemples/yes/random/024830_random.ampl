@@ -1,0 +1,1 @@
+program Q04aa : Ctu : takes AXnaa, b : boolean returns nothing when case - true - 9 : output "\t" . "<!"; output "\n\t0a"; output ")"; pop end case 81 : chillax end; when case 64 - 2 : let uQA0 = 76 end otherwise : while 231 : chillax end; pop end; when case 9 : chillax end end main : hR9 : integer array; chillax end

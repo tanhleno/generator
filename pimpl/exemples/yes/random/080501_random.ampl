@@ -1,0 +1,1 @@
+program B : main : R : boolean; while - Y : input y9 end; when case not s / q and 409 - 4810 and 53 or 576 - 0 /= O and 0 + 2370 - 6 : output "6'a" . "" end otherwise : while 0 : chillax end; while 7 : chillax end; when case 17 : chillax end end end

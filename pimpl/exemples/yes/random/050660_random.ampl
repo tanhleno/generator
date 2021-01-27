@@ -1,0 +1,1 @@
+program f : Pe : takes RzX0a : integer; U, K : boolean array returns nothing while - false + 989 - 3 <= 74 : pop; when case 8700 : chillax end; input D6u end; input Z[0] end main : O, s : boolean; let Xo = array true rem false and not 4 and 359; do T(- 151 < false); input l6[- LB and 2] end

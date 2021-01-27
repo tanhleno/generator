@@ -1,0 +1,1 @@
+program P38a : f : takes ov, a, I, uT, N, y, X0 : boolean array returns boolean Lz : integer; pop - 1 >= 770; while - 8 - 7 > 483 : output "\\"; pop end; while 2 = 0 : input p7 end end i : takes h : integer returns nothing o : boolean; while 7 - 33100 = 8 : do p5(6) end; pop 89 end main : input G; input G0; let p = - 5 /= 98500 end

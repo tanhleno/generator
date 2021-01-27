@@ -1,0 +1,1 @@
+program n79 : SHA : takes b3 : boolean array; B0, RfJa : integer; p01a : integer returns boolean array nz30 : integer array; output ""; while - 94900 : while 1 : chillax end end; input T[6]; output 22 . "" end main : L, H : integer array; F : integer array; while false >= not(94) : chillax end end

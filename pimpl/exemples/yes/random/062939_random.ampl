@@ -1,0 +1,1 @@
+program ITb : l : takes D450a : integer returns integer array C : boolean; chillax end V2 : takes I2Faa, z : boolean array returns nothing chillax end main : let VP70a = array - false; let f1Daa[true or 7 and 4 - 0] = M - 2600 - 9 end

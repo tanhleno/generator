@@ -1,0 +1,1 @@
+program Z : T : takes T, a, A : integer; p, ql : integer array; Eo0a : integer; z3 : integer array; pm : boolean array returns nothing chillax end main : Z, _, c : integer; while - not(5) * not false > - 44800 * not 55 - not 1 and 51 : chillax end; when case(69100) > V : let _ = 329; pop end; pop 265 - 27; do M(06 - 30 = 412) end

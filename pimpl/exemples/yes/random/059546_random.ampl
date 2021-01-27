@@ -1,0 +1,1 @@
+program k0 : qV : takes eb : integer array returns integer output 08 - 06; pop end KG : takes kA : integer array; Wgx, e, R, _4a, kxF0, j : boolean array returns integer pop end main : q, T, q : integer; chillax end

@@ -1,0 +1,1 @@
+program HE : main : input r[true * true * not 88 and 91000 - (4)]; when case - true and false and 9 or true and 3 or 6090 : pop; do _K(29); do xY(8); output ""; pop end; input G0[9 - 9 - 0]; output 18 = 8; when case 18 : chillax end case 1 : pop end end

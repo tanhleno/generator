@@ -1,0 +1,1 @@
+program W220a : r : takes V, pg60a : boolean returns nothing m : boolean; K6k : integer array; when case - (8) and 6 - 3 > - 2 : chillax end otherwise : input Nrl end; do Gro(- 4, 1); output ""; input u99[4] end main : u : integer; chillax end

@@ -1,0 +1,1 @@
+program Koh : x : takes T : integer; B2 : boolean; J, cX : integer returns nothing chillax end lO : takes j, I, N2, R, s : integer returns integer array let m[54] = array - 1 - 31; let X = 02; do m25(8, 5); when case 1 : chillax end end main : Db9, ySQ : integer; r : integer; chillax end

@@ -1,0 +1,1 @@
+program q : main : y : boolean; P : integer array; let V6t = array false / false; when case - (5) or OI and 0580 + 967 : output "" end otherwise : output 7720 end; while true and 5 - 4 - 2 : let N = 50 end end

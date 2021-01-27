@@ -1,0 +1,1 @@
+program Y : rm : takes a : integer returns nothing m0Ya : boolean array; chillax end b : takes P6 : boolean array returns integer array chillax end main : d, S72 : integer array; d8z, Gwj : integer; when case(11) or false + 021 and 4 or 0 : chillax end case - 3 rem _D90a > - false and 2 : chillax end case - 4560 and 53 or 45 : pop 7; input ZgC end end

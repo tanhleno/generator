@@ -1,0 +1,1 @@
+program ltF : A : takes s : boolean returns integer u, A, w1 : boolean; A2, Y, _J, w : boolean array; chillax end u : takes C, Y, v, T : boolean array; TM, F, v : integer array returns nothing P, V9 : integer array; s, z4, v : boolean; output 9; while 2 : chillax end; input u; when case 44 : chillax end; pop; pop end main : chillax end

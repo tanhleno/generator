@@ -1,0 +1,1 @@
+program _ : e : takes x0R0 : boolean array returns nothing input e; do gv80a(89 > 2) end main : Sw : boolean array; B, N : boolean; I : integer; do B21aa(h(0, 463) + uKp0a(3) or true and 71 + 2 /= - (0) / not 6 - u8 and 7, 8140 - p /= 446 - 6 - 7, true and 9 <= 95300 - 46, 7 - 8 <= 28, 693 = 5, 7, 2) end

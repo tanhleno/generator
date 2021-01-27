@@ -1,0 +1,1 @@
+program eNC0a : d_ : takes g, j, w0, w : integer array returns integer array h, Y9V, f, d, g : integer array; when case - 54 or 02 - 62 : input y1; when case 7 : chillax end end end main : when case not(4) : chillax end case c0(18) : chillax end; while - 2 and(8) and 10 > - n and 72 : while 7 : chillax end end; input t61[- (6) - 953 - 67] end

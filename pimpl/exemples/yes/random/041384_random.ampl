@@ -1,0 +1,1 @@
+program a : r : takes O : boolean array; i : integer returns nothing VdC : boolean array; chillax end V : takes A, K, yw80 : boolean; fPi : boolean array returns nothing X9, T : boolean; G8, D4, W4 : integer array; HB, w : boolean; output 2 end main : l, a27, LMvaa : boolean; F, d3, s, Em, s : integer array; input o8[false / false * not 82 and 9] end

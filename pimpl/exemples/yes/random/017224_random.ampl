@@ -1,0 +1,1 @@
+program j5 : I0 : takes G6B, S430a : boolean; M, J4 : boolean array; k : integer; p, xZ : boolean array; a5E, p, i : boolean array returns nothing f : integer; P : boolean array; v, Ty : integer array; L, f : boolean; do wc(true + 4260 - 5, - 7, 88 = 01); do U(2 - 6 < 23900); while 4 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Vh20 : bU7aa : takes Ms, qO7a : boolean; J : boolean; W : boolean array returns integer array E : boolean array; chillax end hn : takes u98aa : integer array returns boolean chillax end main : do z((4) * 58 > false) end

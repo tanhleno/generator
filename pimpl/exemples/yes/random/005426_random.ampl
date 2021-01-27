@@ -1,0 +1,1 @@
+program a : iI6a : takes JFU, o, w1, P : boolean array returns integer array s5 : boolean array; F8 : integer; output - 1 - 32; when case - 73 - 9 <= 7 : when case 2 : chillax end end case 765 = 97000 : chillax end; output 9 . 09 . "6"; while 9 : pop end; do C(0); output "l"; pop end g : takes w0 : boolean returns nothing chillax end main : chillax end

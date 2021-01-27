@@ -1,0 +1,1 @@
+program NcS : Gz : takes sOc : integer array returns integer VQa : boolean array; output "" end main : R : boolean; l : integer; while - O(525, 01) or true + false >= not(3) : let o15[- 13] = array 0 end; while - true and true /= not 4 and 9 : chillax end end

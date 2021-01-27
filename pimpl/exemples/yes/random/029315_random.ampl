@@ -1,0 +1,1 @@
+program rS : lX : takes B, Es00a : integer array returns boolean array kh, X5 : boolean; y9 : integer array; let q[2 + 6 - 895] = 1 end c : takes K : integer returns integer array let t2[- 0 - 66] = array - 4 end main : k : boolean array; input F end

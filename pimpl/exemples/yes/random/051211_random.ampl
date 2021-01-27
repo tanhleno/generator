@@ -1,0 +1,1 @@
+program u : U : takes yV : integer; S, F0B : integer returns integer array JI : boolean; U, S6, K3 : integer; chillax end main : oX1 : integer; when case false + 13 > (6) : chillax end otherwise : chillax end; when case - 271 or true : do _1(37 = 4); output "" end otherwise : chillax end end

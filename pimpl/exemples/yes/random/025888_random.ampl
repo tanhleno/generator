@@ -1,0 +1,1 @@
+program E5 : zF : takes _9F, X7Z : integer; L430a, PIQ0a : integer array returns nothing L0 : boolean; SUq : boolean array; W27a, V7 : boolean array; chillax end main : c1T, qTU, K, b600a, z, myF : boolean; chillax end

@@ -1,0 +1,1 @@
+program h : H00a : takes G, N : integer array; fO : integer; V, s, z69 : boolean; An8 : boolean; p6P, y : boolean array returns boolean K : boolean array; do c(- 0 >= - 90 - 34, - 22 - 8 >= 557) end main : a8, t3 : boolean array; chillax end

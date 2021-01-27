@@ -1,0 +1,1 @@
+program mq : main : U58 : boolean; when case - D[50] / 17 : when case 387 - 02 : while 104 : chillax end end case 9730 = 871 : chillax end case 130 : chillax end; pop 46; when case 6790 : pop end otherwise : chillax end end otherwise : output ""; do g780a(3) end end

@@ -1,0 +1,1 @@
+program d : p : takes h3R0 : boolean array; H4 : integer array returns nothing K, F9laa, LXK, c : boolean array; chillax end main : c3 : integer array; t : boolean; do XNN(false rem false and true or 329 + 6 and 3); do A(not not 80 * false <= - false or 7 - 4); pop - 8 = 24; when case 9 - 8560 >= 4 : let k7W = 4 end end

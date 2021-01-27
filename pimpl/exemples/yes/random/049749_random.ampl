@@ -1,0 +1,1 @@
+program _Mka : f9R : takes Ry : integer; EKNa, u, F4 : boolean; wuQ, Q1zaa, c6, H, b5S0a, J : integer array; U5, I : boolean returns boolean array Q0, L : boolean; bDR0 : integer array; chillax end B : takes t2 : integer array returns integer chillax end main : Q : boolean; ZZm0a : integer; T : integer; chillax end

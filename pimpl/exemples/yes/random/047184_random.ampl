@@ -1,0 +1,1 @@
+program wk : t : takes l0 : boolean returns integer tM : boolean array; dY, i_ : integer; R, t49, O : boolean array; chillax end main : when case v / (2) * P04 and 254 : pop 87 end; input i270a; pop 4 - 723; let z = 15 end

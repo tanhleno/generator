@@ -1,0 +1,1 @@
+program c : main : w3Sa, Fa, e, Wb50a : integer array; while 11 / not false and J : chillax end; when case - not(91) : chillax end case - not 55300 and 7 or 6600 = - 0 : output "\n" end case - 2 /= 41800 : chillax end case 5 = 7 : pop; pop end end

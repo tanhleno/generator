@@ -1,0 +1,1 @@
+program h : N7 : takes nKma : integer array; l82aa, xuK : boolean array; X : integer array; s : boolean array; C820a, F : integer array returns boolean chillax end Q1O0a : takes JW2, a : boolean array; HL, g : boolean array returns nothing do Y(- 9, 09 = 9); do U(490) end main : chillax end

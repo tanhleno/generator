@@ -1,0 +1,1 @@
+program n440a : XI40a : takes o, ur, drea : integer array; vX, R, x, r47, T, T0p0a : boolean; m : integer array returns integer chillax end O0 : takes k4z : integer returns integer vU : boolean; r, Uy : integer array; I : boolean; do i0(- 3 - 2 >= 2); output "" . 4 end main : H9h : integer array; N : boolean array; let z = (31); input lE[- 37 or s] end

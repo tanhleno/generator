@@ -1,0 +1,1 @@
+program S2 : main : sh4aa, Ve40a : integer array; T8pa : integer array; lbBaa, I2u, f5, ida : boolean array; Y : boolean array; when case - W[30] < - 14 : chillax end case true or(8) and 7 = - (3) and 769 or 3 - 15 : chillax end; input O end

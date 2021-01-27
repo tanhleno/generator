@@ -1,0 +1,1 @@
+program v5 : U : takes L : integer; oTl0a, X, D : integer; R, j, F : integer array returns nothing do C71(- 233 and 22); input eQ0[91] end main : n : integer array; MO, m0 : boolean; WJ7aa, d : integer array; chillax end

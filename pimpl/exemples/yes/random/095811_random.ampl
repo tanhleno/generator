@@ -1,0 +1,1 @@
+program T : main : when case - false / rr or false and(6) and 1 : chillax end case true and 27 : chillax end case - 34 and 881 + 969 <= - 8 : chillax end case 77 : input Y; while 0 : chillax end end case 6 : input Wp2; pop end end

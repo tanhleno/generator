@@ -1,0 +1,1 @@
+program O97 : R_ : takes G34 : boolean array returns nothing X, R1 : boolean; let lp = array not 9 and 3 end main : s : boolean array; Q, uC7, yba : boolean; U, Qc, Pj : integer; MSv0a : integer array; d, Y6, nr : boolean array; o, g : boolean; pop - 2 / 77700 and 7 + a0 end

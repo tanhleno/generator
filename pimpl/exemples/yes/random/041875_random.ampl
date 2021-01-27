@@ -1,0 +1,1 @@
+program c050a : c : takes u : boolean array returns boolean array pop 9 - 8 end x4 : takes Mj50 : integer returns boolean Z9s, u860a : boolean array; chillax end main : ls, B52, d6, x, U, v5, YT : boolean; chillax end

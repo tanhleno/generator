@@ -1,0 +1,1 @@
+program EXyaa : V : takes D : integer; Ip, P7d0, z1v0a : boolean; q : integer array; y, IP0, Gjz0a, x2 : boolean array; qD : boolean; p : boolean returns nothing B : boolean; chillax end main : o2 : integer; L7, M : boolean; pop end

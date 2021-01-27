@@ -1,0 +1,1 @@
+program f6 : main : TI : boolean; do Ht(false * 123 * true and 8 <= - q + false - 652 - 5, - 63 or 4); let W7Vaa[- (7990) / not 1] = - true and 4; while true and 0170 : do Hc3(06, 133) end; let Lk7 = 467 end

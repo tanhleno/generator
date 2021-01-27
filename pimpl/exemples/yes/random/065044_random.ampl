@@ -1,0 +1,1 @@
+program m : pAQaa : takes j1 : integer returns nothing r9 : integer array; chillax end G : takes l0Baa : integer returns nothing when case 147 : chillax end otherwise : when case 580 : chillax end; pop end; pop end main : f, D, Ry0 : integer; N : integer array; output "\n" end

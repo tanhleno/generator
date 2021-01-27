@@ -1,0 +1,1 @@
+program n : I : takes k, Tb, O6t : boolean; q, F9S, X0, D : boolean; T : boolean; N, R, sm : integer returns boolean array Wu5a, R3E : integer array; let jwV = array(23100) end main : W6, Bz : boolean; RgL, dpfa, P3 : integer; B : integer array; M : integer; G : boolean; chillax end

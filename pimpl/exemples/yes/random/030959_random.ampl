@@ -1,0 +1,1 @@
+program q : WwU0a : takes j, i : integer array returns nothing input F73aa; let k860a[36] = array 3640; output 5300 . 3620 end Z : takes o9a : boolean; U5r, q, Q, xQF0 : boolean returns nothing B : integer; chillax end Qr : takes Iv : integer returns nothing v : integer array; chillax end main : Eo40, f : boolean; do PU((713) = true, - false + j and 8) end

@@ -1,0 +1,1 @@
+program M : C : takes m6q0 : boolean returns nothing j : integer array; do y(not 83400 and 84600 /= - 3); pop end sE4 : takes Mh60 : integer returns nothing c, a : integer array; J : boolean array; R : boolean; output 07900 = 68 . 16 . 7; input P[6]; output 7; when case 6 : chillax end; output ""; pop end main : pm60a : integer; chillax end

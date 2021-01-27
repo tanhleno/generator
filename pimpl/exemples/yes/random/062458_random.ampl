@@ -1,0 +1,1 @@
+program d7t : x19 : takes u : integer returns boolean V : boolean; p3, L26aa, bXW, rli : integer; chillax end j : takes k : boolean array; L : boolean returns nothing r, I : integer array; S5, Vlla : boolean array; X0, i : boolean; v7 : boolean; Fq : boolean; chillax end main : nq : integer array; J, E, v : integer array; s : integer; pop end

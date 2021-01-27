@@ -1,0 +1,1 @@
+program SJ : O : takes z, odG : boolean array returns boolean output 3 <= 92 end main : while - true * false and not 09 <= - (7) rem false or not 55 and 9 or 21 - 5 : chillax end; pop w3Z0 and 0; pop - 1; while - 04 - 44 : chillax end; when case 3 : input v; pop end case 6 : pop end end

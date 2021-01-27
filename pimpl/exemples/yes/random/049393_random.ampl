@@ -1,0 +1,1 @@
+program T7U0a : ZbCaa : takes a : integer; s00, J1, B60, R, D : boolean array; p : boolean; W, R : boolean; N : integer array returns nothing _ : integer array; JZ : integer array; I14a : boolean array; Kw : boolean; P : boolean; Wj : boolean; chillax end ir : takes U, t7 : integer; J : boolean array; E : integer; M : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Sf4aa : E : takes L, s350 : boolean; iZE0, f9F : integer array returns nothing while - false < - 2 - 48500 : chillax end; while 3 : output ""; while 40 : chillax end; pop end; output "" end main : chillax end

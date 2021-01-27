@@ -1,0 +1,1 @@
+program K : S : takes m7 : boolean; F : integer array; eW0 : integer array; Q : integer array returns boolean array MM8 : boolean; X, C, Y, N : boolean; c, w : boolean array; do _58a(true and 44 = 2950, - 92600, 761 = 49, 8, 66); let rn = 2 = 9 end main : Bp00a, d12, E2 : integer; o : boolean; j, YM6 : integer array; tS50a, W9ka : integer; chillax end

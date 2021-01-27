@@ -1,0 +1,1 @@
+program M3 : HTb : takes Z4v, _010a : integer array returns nothing e, i6Z0, Q84, x, tSV0 : integer array; chillax end B : takes UP, fL, E, T : integer returns nothing while 54 : when case 8 : chillax end end; while 8 = 15 : chillax end; when case 3 : chillax end; when case 0 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program D1 : nYx : takes a, u, m : boolean array; F : integer returns nothing while - false and 4460 >= 82 - 494 : input Ev; pop; when case 137 : chillax end end end E8 : takes g, N : boolean returns nothing output 9 . ""; output "" end main : chillax end

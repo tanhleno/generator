@@ -1,0 +1,1 @@
+program W : j : takes p : boolean array; Jd2, q : integer array returns nothing k93 : integer; let g = array true; input q; when case 05500 = 1680 : chillax end; let u2[21] = 54; do H(0090) end main : chillax end

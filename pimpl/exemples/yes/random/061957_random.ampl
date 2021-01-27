@@ -1,0 +1,1 @@
+program v : N : takes Zj : integer returns boolean array IWbaa : boolean array; k4, B : integer; do xh(- (59) and 2, - 6 - 1); let FJ[5 - 93] = array 2 - 1; input l1Yaa end main : clk0a : integer array; yr7 : boolean; D : boolean array; input N5qaa; output - (68) and 9 or 6460 - 3 = - 6 . - 70 = 45 . 9 end

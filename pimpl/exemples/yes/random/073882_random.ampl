@@ -1,0 +1,1 @@
+program J7_ : main : C1h, y80 : boolean; w1 : boolean array; when case - e3u(24) * (0) or 5 : chillax end case(51) / (1) and 43 + false and 256 : input Te[1] end case - 9 <= 94800 - 94 : let r9caa = 5 end otherwise : chillax end end

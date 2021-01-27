@@ -1,0 +1,1 @@
+program I : y : takes N10 : integer; P0I0 : boolean array returns nothing X73 : integer array; qhfa, jaO : integer; l12, K : boolean array; chillax end main : input k[not 551 / 78 rem false]; while not not 4 rem not 2 = 4 and 6500 + 11 - 58 : pop; pop end end

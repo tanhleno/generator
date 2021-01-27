@@ -1,0 +1,1 @@
+program L : mq : takes dc, G : integer; G, V, D8G, J : boolean array; L, l, i : boolean returns nothing a1, r1 : integer; chillax end Z74 : takes oJ60a : integer array returns nothing while 4 : chillax end end main : iVo : boolean; chillax end

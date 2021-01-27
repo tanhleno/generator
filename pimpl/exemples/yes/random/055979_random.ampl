@@ -1,0 +1,1 @@
+program Z : l51aa : takes M : integer array; I2 : boolean array; D : integer returns nothing output "" . 232 = 4 . 72 . 00 . "u" end UCN0a : takes h, uU, Y, M7, aV7aa, b : integer array; y : integer returns integer z4 : boolean; output 15 end main : chillax end

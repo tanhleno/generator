@@ -1,0 +1,1 @@
+program B : main : when case - (51) rem 59900 : chillax end case true / 703 or true < - (5) - 611 - 16 : chillax end case - R + 470 - 79 : chillax end otherwise : chillax end; pop - not 7 and 97 - 74300 - 546 end

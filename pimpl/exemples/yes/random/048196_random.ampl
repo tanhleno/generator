@@ -1,0 +1,1 @@
+program L : d6Ia : takes w : boolean returns nothing y, r : boolean array; while - not 54700 and 5 - 77 - 11 : output ""; input C; output ""; pop end; while - 49 - 5 < 8 : chillax end end main : u : integer; chillax end

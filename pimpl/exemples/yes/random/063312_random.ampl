@@ -1,0 +1,1 @@
+program _ : q : takes W3 : integer returns integer FvKa, j9G, _, G6, F : boolean array; chillax end main : while 0 and K(48) or(3) * m : chillax end; while - true or true > - false or 72 : chillax end; input P11[(509) and 93] end

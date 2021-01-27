@@ -1,0 +1,1 @@
+program xZ : W6 : takes b4 : boolean array; _, z4 : integer array; E, u : boolean array returns nothing K08a, J7D, Q, T, c : boolean; i1, m6 : integer array; let b[- g and 7] = 340 <= 2 end main : while t + false rem false or true - 0 = - (5) / 409 - false and 200 : pop; input B1[6950]; while 61 : chillax end end; input P end

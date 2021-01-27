@@ -1,0 +1,1 @@
+program BIp : d15 : takes _1, e8R0, t, m : integer returns integer array chillax end Ha : takes JL, y28a : boolean; w : boolean; Qk4, b78 : integer; n, F : integer array; VMK0, w : boolean; K3 : boolean returns integer output 31400 . 2; input JE; while 78 : chillax end; output "DK" end main : chillax end

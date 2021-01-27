@@ -1,0 +1,1 @@
+program SR : uQ : takes mE : boolean; DPc, Ah, h : boolean array returns integer array do c(veH0 and 24, - 03); when case 68 = 2 : chillax end otherwise : when case 076 : chillax end; pop end; pop 27; pop 4 end _ : takes U, V : boolean returns nothing chillax end main : chillax end

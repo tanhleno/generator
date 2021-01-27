@@ -1,0 +1,1 @@
+program H : Z : takes w7 : boolean returns boolean array when case - (3570) and 2 or 8 > 3 - 29 : chillax end case 9 - 597 >= 09800 : while 7 : chillax end; pop end otherwise : chillax end; when case 2 : chillax end otherwise : when case 6 : chillax end end; when case 6 : while 145 : chillax end end otherwise : chillax end; let jj = 61; output ""; pop; pop end main : chillax end

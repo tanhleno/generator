@@ -1,0 +1,1 @@
+program N : B2 : takes Dk6, H3, n : integer returns nothing o8, K : integer; g3 : boolean; e, m : boolean array; Q5, i : boolean; x7Oaa : boolean; Fzf : boolean; pop - 8 - 6880; let t = array - 91600 - 5570 end main : G, N, e, iE0a, B, nS, yl2 : integer array; xJ7, M : boolean; C, A : boolean; V, IQ80a : boolean; chillax end

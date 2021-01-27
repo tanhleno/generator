@@ -1,0 +1,1 @@
+program n6C0a : WT : takes j : boolean; v, G3aaa, J, l, z : boolean array; Nz50, N6 : integer returns integer array input l[not 1]; input Z[44 - 2]; output 880; let I[3] = 24300; do Ez(39100); input R end main : l5u, f, C, f28a, R9 : integer; Qm : integer array; chillax end

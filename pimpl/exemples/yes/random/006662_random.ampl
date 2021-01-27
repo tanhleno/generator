@@ -1,0 +1,1 @@
+program zm : pa : takes c, lR, e1, e9 : integer; o4F : boolean returns nothing i, w, w, aRIaa, y : boolean; chillax end X8Ra : takes A : boolean array; _ : integer array returns integer QY8, P1, p_pa : boolean; h, J : integer array; input Y[- 0160 - 593]; input qY end main : i : integer array; output "" end

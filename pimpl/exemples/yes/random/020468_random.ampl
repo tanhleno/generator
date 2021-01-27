@@ -1,0 +1,1 @@
+program V47a : Q : takes aE, s : boolean array; IT8 : integer array; p : boolean array returns nothing vzE0a, d : boolean; when case - H and 9 - 02 - 2 <= 23 - 7 : while 2 : chillax end end case - 00800 : do X7(359) end case 21300 : chillax end; while - 3 : chillax end end J1 : takes K5 : integer array; o3 : boolean array returns nothing do O8(- 69) end main : chillax end

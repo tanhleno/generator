@@ -1,0 +1,1 @@
+program R01 : i : takes w : integer; G380, P : integer returns boolean array chillax end Gl : takes hf7, H1, t0z, k2, bF, E94aa : boolean array returns integer k : boolean array; when case 76 : chillax end case 04 = 8190 : output "" end case 26000 : chillax end otherwise : let FCdaa = 8; pop end end main : j, F6, f : boolean array; chillax end

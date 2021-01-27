@@ -1,0 +1,1 @@
+program q : l : takes w53aa : integer; u : integer returns boolean array B, m : boolean; chillax end main : while Du * (4) / P - true : output "R" end; while - not C = 52 : chillax end; let r2 = - 71 <= 37; pop 1 end

@@ -1,0 +1,1 @@
+program aF : kj : takes mai0, A1, Oq : boolean array returns boolean array M : boolean; chillax end main : while - X * (6) / true and 4 = - w and false and 1250 + not 71 and 99 or 0 : chillax end; while(8) : let o0[3] = array 3180; when case 47300 : pop end; input z; let W = 3; pop end end

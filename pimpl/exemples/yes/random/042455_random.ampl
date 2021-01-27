@@ -1,0 +1,1 @@
+program R : O3 : takes l9 : boolean array returns integer array chillax end Kl90 : takes t : integer array; Z : boolean; GI, G, V3, S : boolean array; t : boolean; s : boolean array; FQ80a : boolean; KD9 : boolean returns boolean array F, o : integer; chillax end main : chillax end

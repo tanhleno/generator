@@ -1,0 +1,1 @@
+program N : C : takes Wj, Z, gPf, i : boolean returns nothing while - false and 8 : chillax end; input i6w; when case 9 : pop; pop end case 0 : chillax end case 9 : chillax end otherwise : chillax end end main : Kfl, RIt, OnB : integer; chillax end

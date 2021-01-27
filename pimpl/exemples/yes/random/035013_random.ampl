@@ -1,0 +1,1 @@
+program puK : c : takes b : boolean; i, W : integer array; p : integer returns integer array C : integer; when case(2890) and 73 < 2 - 25 : input f_0aa; while 4 : chillax end end otherwise : chillax end; do aZNa(8 <= 9, 36, 059); let H = array 2; when case 4810 : chillax end case 923 : chillax end otherwise : chillax end end main : while(9) and(4230) : input x8 end end

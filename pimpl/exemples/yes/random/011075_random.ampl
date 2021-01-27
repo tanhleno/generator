@@ -1,0 +1,1 @@
+program PW : oBr : takes tG, H1, m : boolean array returns nothing chillax end E : takes mL50a : boolean returns integer d : integer array; T : boolean; Nd : boolean; B : boolean; chillax end e4wa : takes X, hZ, i, w : integer array; g : boolean returns nothing chillax end main : Q, e : boolean array; hu, Y : integer array; Ze5 : integer array; chillax end

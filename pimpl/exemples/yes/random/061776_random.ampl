@@ -1,0 +1,1 @@
+program jp : D : takes w : integer returns boolean array chillax end main : Z : integer array; when case - u[0200] rem K21 and true - U(855) rem true - not 60 or 6 - 92 <= (96700) * (7) or not 7 and 24 : while 176 - 5 >= 97 : chillax end end otherwise : pop 5 end; let _9o0 = array - 925 end

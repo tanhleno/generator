@@ -1,0 +1,1 @@
+program W : RApa : takes A : boolean; jV, H39aa, mw, f, P : boolean; L9, q : boolean array; B2 : boolean array returns nothing chillax end Y : takes e : boolean returns integer while 7 : input I0 end; do X(5) end main : chillax end

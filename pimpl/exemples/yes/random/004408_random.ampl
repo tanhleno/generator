@@ -1,0 +1,1 @@
+program p : mL9 : takes J7, q, z8, U2q0a : boolean; N, S : integer; P : integer returns boolean array Q, w : integer; i : boolean; M4 : boolean; while r6oaa + 61900 - 228 : input A2[0] end; let r = 65; while 1 : chillax end; pop 54 end main : do dJP(true) end

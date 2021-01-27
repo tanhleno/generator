@@ -1,0 +1,1 @@
+program Ih : I : takes L, jY : boolean returns nothing st, p : integer array; yQ, csTaa : boolean array; while - true and 940 = - 37 : chillax end end H : takes x, y : integer array returns boolean Q : boolean; b, r : boolean; k, u : boolean; y : boolean; chillax end main : let P5U = array true; when case k /= - 6 and 6 + 348 - 8 : let mT = array 5 end end

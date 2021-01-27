@@ -1,0 +1,1 @@
+program qu80 : k : takes I, P7 : boolean returns nothing chillax end main : do p(- gLS or true rem not 5 and 28300, true /= false and 0 - 5 - 9, - not 73 and 9 = - 0 - 37); while - M6X and 4 and 6 - (3) and 6 + 3 - 896 : chillax end end

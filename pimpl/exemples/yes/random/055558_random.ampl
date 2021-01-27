@@ -1,0 +1,1 @@
+program y : uZj : takes _ : integer array; t : boolean; M4, T8 : integer; R : boolean; p3, t0 : boolean; I : boolean; Z0, pM : boolean returns boolean chillax end main : B, _ : integer array; K2I : boolean array; e : integer array; chillax end

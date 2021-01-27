@@ -1,0 +1,1 @@
+program m : c : takes Jj : boolean array returns nothing when case(57) and 75 : chillax end otherwise : pop end; pop 588; when case 239 : chillax end case 51 : chillax end otherwise : pop end; pop end main : uk : integer; chillax end

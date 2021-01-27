@@ -1,0 +1,1 @@
+program uAk0a : M : takes F : boolean array; X8B, w, aTy, w : boolean array; W, L : integer returns boolean array fA, yLR0a, Hn : boolean; chillax end W : takes YO5, uRR, M29 : integer array returns nothing AEzaa : integer; q, c, K : boolean; chillax end main : r : boolean; input a3U[(7) / (15100)] end

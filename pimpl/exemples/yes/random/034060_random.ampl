@@ -1,0 +1,1 @@
+program Q : Q5Caa : takes c : boolean; gP, S96, Z : integer array; JEm, x5 : boolean returns boolean p : boolean; ep, sny, J, H : boolean; c7 : boolean; do W4s((708) or 68900 - 6 > 04 - 1); let F = array 45900 - 3670 end f : takes N, B29 : integer returns nothing output "" . "\t\\\""; when case 66 : chillax end otherwise : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program i : zq : takes xLJa, v840a : boolean returns nothing chillax end tweaa : takes p : integer returns nothing let G = array - 16; when case 20 : input F93a end; while 5 : chillax end end main : M8, O07, F7, i, z0ra, m : boolean array; chillax end

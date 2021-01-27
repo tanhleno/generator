@@ -1,0 +1,1 @@
+program x9 : R : takes X1ra : boolean; S0E, Z, j, BI : boolean array; n6, k1 : integer array returns nothing do y(- 6 and 2 - 578 - 58, 82 - 6, 4, 0); input s[- 52] end main : O, V1f0a : boolean; input E; pop end

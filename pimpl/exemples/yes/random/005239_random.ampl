@@ -1,0 +1,1 @@
+program S : D : takes P, z, ETS, C : boolean array; t : integer returns nothing gJ : integer; h1, _y7aa, th9aa : integer; LBu : boolean array; I, _ : boolean; wR50 : boolean; when case(54) and 2 <= 5 - 851 : chillax end otherwise : chillax end end main : c : boolean; cAj, D, Q4 : boolean array; g : integer; pop; do VZ(- u5 * K and 23, - (340) or 39 - 2, 6 - 2 <= 4370, 1) end

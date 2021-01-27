@@ -1,0 +1,1 @@
+program d530 : hc : takes NTW, a2, HKb : integer array returns nothing chillax end o : takes MF : integer; c : boolean returns nothing chillax end n : takes P61 : integer; d2Wa, GVR : boolean array; c09, G : integer returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Q : main : input Iu2; while - false + 51500 and 45 : pop 5; while 33 : pop end; when case 0 : chillax end; when case 4 : chillax end end; when case true <= 8150 : chillax end case - 086 : chillax end case 81 : do P(82) end end

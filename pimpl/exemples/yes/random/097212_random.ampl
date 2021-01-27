@@ -1,0 +1,1 @@
+program Vr : main : when case not not S5D0 * false and d1 : chillax end case - Qt_a[4420] rem not 06 = false + 4 : chillax end case false and 2 - 88 - 4 <= - 43 - 4 : output "" . ""; output "(3aa"; let r8vaa = 5 end; while - false or K4 and 826 : pop end; output "7{!" . 5 = 21; while 6 - 5 <= 55 : chillax end end

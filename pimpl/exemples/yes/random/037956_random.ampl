@@ -1,0 +1,1 @@
+program w : j3 : takes W : boolean array; N, f, gb : boolean; X, R79, GY : integer array returns integer s, K, R : boolean array; oO : boolean array; while not 0 and 58 < 7 : chillax end end main : r : integer array; o : integer array; A72 : boolean; pop; let k[- T(789)] = (8) and 5 end

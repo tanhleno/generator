@@ -1,0 +1,1 @@
+program S : jQAa : takes G : integer returns nothing chillax end oh : takes N : integer array returns nothing chillax end w4 : takes aj : boolean array returns nothing chillax end ORI : takes _bi : integer; X : integer returns boolean array chillax end main : _0T, u40, Y : boolean; chillax end

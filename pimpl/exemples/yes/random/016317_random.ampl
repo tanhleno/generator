@@ -1,0 +1,1 @@
+program r : x : takes tq, x, M : integer returns nothing tf, k, w : boolean; i, F, b6e : boolean; w, z200 : boolean; d3 : boolean; chillax end main : do q8(- r2); output "\\@"; do va2(- not 92 and 692, - 524, 5 = 0, 2, 625); while 7 < 6 : output ""; do HyDaa(69) end end

@@ -1,0 +1,1 @@
+program O : J6 : takes Z3a : boolean returns boolean array pop; output "I" end o : takes y : integer array returns nothing c : integer array; By5aa, O, E46 : boolean array; chillax end main : chillax end

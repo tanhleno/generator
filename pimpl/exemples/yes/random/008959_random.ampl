@@ -1,0 +1,1 @@
+program E : ZX5aa : takes Lutaa, Q, M : boolean; m : boolean; A, w, S : boolean array returns boolean array v : boolean array; pp : boolean; chillax end main : I, v7 : boolean array; c : boolean array; K6R : boolean array; while 27 rem not 1890 : chillax end end

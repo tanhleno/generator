@@ -1,0 +1,1 @@
+program W : Y : takes G : boolean; S : integer returns nothing chillax end KQ60 : takes CN : integer; z, waH, wiMaa : integer array; Jq : boolean; U3 : integer array; t9y : boolean; f, h : boolean returns nothing output 7 = 9 . 7 . 6 end main : AAe0a : integer array; L, e : boolean array; c4, x : boolean array; chillax end

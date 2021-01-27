@@ -1,0 +1,1 @@
+program B : main : let V[(6 = 82) / false and(316) and 6] = array not false; pop; do l(- O3); do Rh0(- 001, 0090, 8); do M(90 = 0090); do vZA0(17, 8); when case 3940 : chillax end; when case 7 : chillax end end

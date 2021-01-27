@@ -1,0 +1,1 @@
+program pV : zH : takes R : integer; G, c, G : integer array; P : integer; p, Xl, v : integer; x : integer array; hA4 : integer; BDf0a : boolean; d : boolean; s : boolean returns integer chillax end main : f5, cK : integer array; T, g5 : boolean array; Aeja, E : boolean array; pop end

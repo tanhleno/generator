@@ -1,0 +1,1 @@
+program z1 : main : let Lq[not false * (9) and false] = array - not z / P8k0 rem(2) + (8) + true and 6520; do aiC(62500 or not 815 + 680 - 34 < true + 227, (080) and 8, - 1 - 4, 70 = 1, 96); while 7290 and 6 - 9 - 6 : while 8 : chillax end end end

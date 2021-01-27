@@ -1,0 +1,1 @@
+program tw : i9iaa : takes n4, C : boolean array; s, hhy0, c : integer; Az1 : boolean array; Q : integer array returns boolean array chillax end l : takes SW : boolean array; u8c0a : integer array; Jj5, l44 : boolean returns boolean array let a[8 - 0] = 3 = 894 end main : pop not(4) end

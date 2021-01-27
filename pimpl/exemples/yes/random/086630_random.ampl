@@ -1,0 +1,1 @@
+program Bu : main : qn : integer array; BZ : integer; tx20, P6, w, J, B : boolean array; iVxaa, l : integer; do S(false / 541 and not 50 + (5) rem 9); while - false / (01) - G and 4 - 2 - 4 : chillax end end

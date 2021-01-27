@@ -1,0 +1,1 @@
+program ecj : f : takes v, Y88, pD_ : boolean array returns nothing chillax end V1 : takes VSq, yG4 : integer array; GN1 : boolean array returns nothing I, tXw0a, L0 : boolean; when case 0 - 5 < 907 : do rQ(76); when case 98 : chillax end end end main : chillax end

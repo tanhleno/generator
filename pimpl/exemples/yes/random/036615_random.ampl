@@ -1,0 +1,1 @@
+program M : TuS : takes H7oa : boolean; A : integer; IY : integer array returns nothing Q1N : integer array; chillax end D6 : takes L : integer array returns boolean b : boolean array; K : integer array; pop 6 = 6400; do g8(4750); input A; output "\\\t"; input sJn end main : chillax end

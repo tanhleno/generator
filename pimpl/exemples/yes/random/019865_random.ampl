@@ -1,0 +1,1 @@
+program _ : JM50 : takes T, d : boolean array; vz80 : boolean array; j, I5W : integer array; y1 : integer returns integer array m, v, L3 : integer array; Z, m : boolean; d, X1Zaa : boolean; chillax end main : p : integer array; chillax end

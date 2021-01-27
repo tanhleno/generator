@@ -1,0 +1,1 @@
+program Q : M0 : takes m05, B, Y, Q : integer array; tauaa : integer returns nothing when case not 5 : let l[3] = 563; output "" end case - 842 <= 01 : chillax end case 16 = 96 : chillax end case 8 : pop end case 3 : chillax end end Af : takes Rml0a, t : boolean array; e : integer; j6 : boolean returns nothing do GGD0(- 41 - 9) end main : chillax end

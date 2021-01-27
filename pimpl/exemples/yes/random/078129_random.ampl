@@ -1,0 +1,1 @@
+program z3 : main : _B, dJ : integer array; when case true * (7) or false - mh30a or 3 /= N / false : when case 71 < 46 : let R4ca = 1; pop; pop end case 3 : when case 65 : chillax end; pop end otherwise : pop end; pop end otherwise : chillax end end

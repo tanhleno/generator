@@ -1,0 +1,1 @@
+program V : I0 : takes MYG0a, IB, P, I_ : boolean returns nothing chillax end l : takes d : integer; X : integer returns nothing KzS, X0 : boolean array; ik2, r6ra, k : integer array; let X[9] = 5 end main : s : integer array; let iP1[- (4) + m[1]] = array - AA(0) - s[8] and 192; let A0 = array - not 6 or J8 end

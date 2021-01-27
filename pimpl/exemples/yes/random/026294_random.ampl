@@ -1,0 +1,1 @@
+program e : U5 : takes A0, lE : integer; L : boolean array returns nothing chillax end GMQ : takes ox8a, M : integer; v2, cR1a, X19aa : boolean; x : integer returns boolean array vYm, W, q : integer array; do t8(86 > 44, 4, 378) end U : takes V, K2h0, t, S : boolean returns integer array chillax end G7Va : takes o, Hs3 : boolean returns nothing chillax end main : chillax end

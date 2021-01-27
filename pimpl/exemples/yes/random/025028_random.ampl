@@ -1,0 +1,1 @@
+program UV : N : takes R3, J : integer; S, K, k2, FBkaa : boolean array; o, j, d1t0, _, sq8 : boolean; FR : integer returns nothing chillax end main : let X = - 3 / 85 or false and 6 or 84 - 0 = - false end

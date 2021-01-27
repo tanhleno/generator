@@ -1,0 +1,1 @@
+program h : y : takes S : integer array returns nothing chillax end D : takes FF : boolean array returns boolean array chillax end F : takes P : boolean returns nothing chillax end main : pop; output "\n" end

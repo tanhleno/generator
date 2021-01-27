@@ -1,0 +1,1 @@
+program _34 : i93 : takes s : boolean array; z : integer returns nothing y : integer; pop; do Ff9(- 3); let r[97] = 0; let j8[61] = 4; pop; when case 8 : chillax end end main : A, U9O, g9 : boolean; input C[false] end

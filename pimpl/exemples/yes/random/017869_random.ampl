@@ -1,0 +1,1 @@
+program pU : R7j : takes B, BM2 : boolean; z4 : boolean array returns boolean p1x0, U : integer array; VJ, wD, w, E : boolean; MM20 : boolean; chillax end main : let b = false <= - ZI - 49 - 33900; while - true or true and 33 or 485 - 43 < false and 1 or 9 : chillax end; input w1[true and 8 + 1] end

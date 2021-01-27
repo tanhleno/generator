@@ -1,0 +1,1 @@
+program YW : H : takes j, S6s0, r0, M4, R240a : integer array returns boolean array Z : integer; output "" . "" end S9e : takes b01 : boolean; l74aa, Z : boolean; J720a, YT, N, e9, bM : integer returns boolean let e = 8; pop 5 end main : u, D0, B : integer array; c : boolean array; I : integer; N9, tc7a, f : integer array; D, iW, Y : boolean; input P[- true * (21) rem not 69] end

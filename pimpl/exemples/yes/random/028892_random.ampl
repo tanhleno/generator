@@ -1,0 +1,1 @@
+program uvY : SI : takes T, A : integer array; F9 : integer array; k : boolean returns nothing pop 95 /= 1; let d[1] = 113 = 6; let Z[075] = array 0100; input z end G : takes ro, S8 : boolean; u8b, J, A0, g9 : boolean; l : integer returns nothing input PYe0a[8] end main : i8, eM5, G, Lc, B, MT90a : integer array; chillax end

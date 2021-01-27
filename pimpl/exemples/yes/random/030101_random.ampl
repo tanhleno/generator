@@ -1,0 +1,1 @@
+program cLKa : p : takes d, S2 : integer array returns integer input K; pop 81 = 6 end J : takes n4 : integer returns boolean array U : boolean; Ap9a : integer array; r, WF : boolean; pop 155 = 3 end main : w : boolean; while - false rem false : when case - 6 >= 5 : chillax end; input d end end

@@ -1,0 +1,1 @@
+program GG2a : main : f, D4 : integer array; let z[false / false / 5 or true rem true and 4] = array 52 * true and false and 95; let I = - true and 2 or 376 - 6840 < - 869 - 80; output "*" . "" . 65 . 19 end

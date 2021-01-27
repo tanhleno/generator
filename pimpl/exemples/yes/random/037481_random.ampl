@@ -1,0 +1,1 @@
+program m : u : takes S : boolean array; i, Q, d, Z, j, G30a, s : integer array; M390a, x : boolean returns integer chillax end u5m : takes k, p, e, j : integer array; J, c : boolean array returns nothing k, V : boolean; do vp50(- 867 - 5, 38, 8, 748) end main : K76, b13aa : boolean; chillax end

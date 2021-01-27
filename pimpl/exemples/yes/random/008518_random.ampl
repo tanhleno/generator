@@ -1,0 +1,1 @@
+program e : Qa : takes X, n, J : boolean; le, q, R70aa, p92 : boolean returns nothing do j(- true and 1) end main : c : integer; let d[- y3] = array not Y(0) - P(30) - (7) and 9860 - 40; do ma9(true) end

@@ -1,0 +1,1 @@
+program c : ER1aa : takes H2h : integer; zX, G : integer array returns nothing o : boolean; p5 : boolean; WF : boolean array; chillax end main : n5, i, r9 : integer array; g, W, r9, p3q, S, L : integer array; do Z(- not false * false or(69) rem V3O0a /= - false, - false rem true and 335 - E, - true + 2 - 8 /= - 115) end

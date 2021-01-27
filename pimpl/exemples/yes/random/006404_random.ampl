@@ -1,0 +1,1 @@
+program D : P : takes U8Z0, J, W, LG0 : integer; gn1, pa4aa, r : integer array returns nothing Nwc0 : boolean array; chillax end main : V, mHy : boolean; fE, z : boolean; while - 8 rem not false and(4) and 3 or(584) + false - 110 < false : do c(- 0, 700 = 6, 0, 8) end; input PV[- 93 rem not 7] end

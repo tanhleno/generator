@@ -1,0 +1,1 @@
+program D2 : A6 : takes WM : integer array returns boolean chillax end main : Y, g3Q, af : boolean array; do L(- (133) > M(786) / (02) and 9 or T, false and 4 and 13700 - 22 and 972 or 139 - 0 < - b) end

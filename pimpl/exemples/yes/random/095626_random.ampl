@@ -1,0 +1,1 @@
+program e0 : main : when case - (0) rem false rem 8 and 0790 or(15) or false + 85 - 333 : chillax end case not L6 + false or 1 - 065 : do me(90800, 1); input r31; do i8(767) end case - zQ8a and 8 = - 0 : chillax end case 7 >= 9 : chillax end end

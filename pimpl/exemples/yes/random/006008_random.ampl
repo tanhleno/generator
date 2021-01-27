@@ -1,0 +1,1 @@
+program c6 : J : takes s, n, M, NK8 : boolean returns integer do z(- 429 >= - 0, 6 <= 39) end RNZ : takes l : integer returns nothing output 87 end main : Nl1, O, K45, H, V090a : boolean array; ro : boolean; L : integer array; y : boolean array; chillax end

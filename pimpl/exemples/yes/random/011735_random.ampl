@@ -1,0 +1,1 @@
+program G : dO10a : takes E, zd, G : boolean returns boolean T : integer; t, K : integer; chillax end FS : takes k : boolean array; R, NH : integer array returns nothing T, tM : integer; T, r, N : boolean array; chillax end main : v68, w3 : boolean; RT, hD00, vh3aa : integer; f, u22 : boolean array; chillax end

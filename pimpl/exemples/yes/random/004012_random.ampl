@@ -1,0 +1,1 @@
+program _8 : R : takes e, Y04, V9, t2, w4L0 : integer returns integer chillax end b : takes YS, S, cAx : integer array returns nothing xz : integer array; L9xa, a : integer; when case 9 - 8 /= 77 : do z2(2310); do M78(3); pop end case 48 : input Nl3 end otherwise : chillax end end main : chillax end

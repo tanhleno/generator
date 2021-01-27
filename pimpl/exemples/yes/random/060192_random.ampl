@@ -1,0 +1,1 @@
+program n4 : W : takes C410a : integer array returns nothing IfW, u, o, A, C : boolean; pop - 46 <= 33 end ffj : takes U : boolean; y55aa, ct, O, Z480a : integer array returns nothing do R(- 6); let j[3] = 3 end rS0 : takes j3 : boolean returns nothing input v0 end A85aa : takes oif, Z5f : boolean returns nothing let x = array 72 end main : input K[- false rem true - true] end

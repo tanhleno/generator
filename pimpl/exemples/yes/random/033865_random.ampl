@@ -1,0 +1,1 @@
+program Q7S0 : K5Q : takes ux2 : boolean; d9, s8, Y : boolean array returns boolean G5, P, U45aa, zp8 : boolean array; c : boolean; input M[true and 27]; pop end o480a : takes K4aaa, t61 : boolean array; s : integer returns integer array chillax end main : while false / (0) < (1) / 39300 - (2) and 0 : chillax end end

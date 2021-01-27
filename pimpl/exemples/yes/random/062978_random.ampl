@@ -1,0 +1,1 @@
+program C : Q : takes xD9 : integer returns integer array s5 : boolean array; M, AH, j1, X : integer array; S : boolean array; chillax end A : takes k : boolean array returns nothing do v3b(- 2 - 06) end main : output "\n" . - (66) and 0 - 2 . "" . 1 = 5 end

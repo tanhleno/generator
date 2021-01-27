@@ -1,0 +1,1 @@
+program K5 : main : when case - (253) / not(6) + not not 54 + aF + 6 >= 73 - E and 2 : pop end case - q rem false and 8 or true and 01 > - 32 : do W3(9 = 2) end otherwise : chillax end; do E(- m[0] * (31) or true <= - true and 8, - not 37 and 74 or 34 - 34) end

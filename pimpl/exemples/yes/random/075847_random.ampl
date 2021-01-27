@@ -1,0 +1,1 @@
+program H : main : F9, f : integer; do A26(true / false and false < - false or not 7 + 4, M[9] <= false and 462); output(932) and 35 = 7; when case 7 and 4 + 311 - 08 : chillax end case - 2 = 999 : chillax end case 4 : chillax end case 68 : pop end case 56 : chillax end end

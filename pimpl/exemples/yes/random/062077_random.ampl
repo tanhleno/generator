@@ -1,0 +1,1 @@
+program X : Y : takes tDP : integer returns boolean array let z1f0 = 9980; output 3 = 3; let jR = array 97 end main : N3Q : integer array; e : boolean array; gJ, M0 : boolean; h, E, z, Q86aa : boolean; chillax end

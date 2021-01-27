@@ -1,0 +1,1 @@
+program g : d : takes X, g, T, r : boolean returns nothing Q, l9 : boolean; Ad1 : integer array; H9vaa, P, M : integer; N, w : boolean; ChC : boolean; Z4 : boolean; when case - 4 and 1 or 22 : chillax end otherwise : chillax end; pop 4 end main : chillax end

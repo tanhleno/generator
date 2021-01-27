@@ -1,0 +1,1 @@
+program V : E : takes F : boolean array; a : integer returns integer array c, s35a, L0 : boolean; chillax end main : while - false - not(2) rem true and 166 + false or 040 : when case - 7 /= 6 : chillax end case 383 = 2210 : chillax end; output "x" end; output - 7 and 4; while - not 647 + 1 - 4 : when case 89 : chillax end end; do FJ(- 00500 = 6, 3 = 1) end

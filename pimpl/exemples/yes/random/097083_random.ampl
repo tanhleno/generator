@@ -1,0 +1,1 @@
+program y : main : when case _63 and 03 or true * BT0 and 2 - not 44 and 22700 : input JH[- 38000 - 4] end case(8450) or(770) and 629 : chillax end case - false and 0840 = 8 - 40 : chillax end case - 893 - 2 : input E1; when case 82 : chillax end end case 31 = 0 : chillax end case 1 : chillax end end

@@ -1,0 +1,1 @@
+program s : E : takes t1, RB60a, KQ, GU, K, h : integer; P0, NY, JAb : integer; O, NM2, O, C4r0 : boolean returns nothing chillax end main : h : boolean; do J1F0a(- B[5] rem not D rem false and 5 + (57) rem 8 > (41) + false + 02 - 0); do Q2((1) or not 2 and 7 + 1370 - 6 /= not 8540, - GOX + 4 < - 9060, 54700); output "@`"; when case 8 /= 40 : pop end end

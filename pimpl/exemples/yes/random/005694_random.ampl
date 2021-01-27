@@ -1,0 +1,1 @@
+program v8S0 : GU5 : takes D, igc, L, T : boolean array returns nothing B : boolean array; k : integer array; output "" . "8M\"a" . 7; when case - 89800 - 6 = 0 : let RP5 = 3; while 89500 : chillax end end otherwise : output "" end end main : K, E : integer array; let kxk[- (4 = 4)] = - true > x or 901; let E[true * D and 31 or(7)] = array false * not 5 and 09 - hH or 8 - 18 end

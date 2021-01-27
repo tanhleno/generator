@@ -1,0 +1,1 @@
+program p0 : J2O : takes Fu, X, Wp : boolean; bi1a : integer array returns integer array K46, j, n, vJ : boolean array; chillax end f : takes F, q, f : boolean returns nothing chillax end main : K : boolean array; chillax end

@@ -1,0 +1,1 @@
+program L : i : takes A : integer array returns integer j : boolean array; N7T : integer array; ZI5 : boolean array; e : boolean; when case - false + 82 - 4860 : do X(4); output ""; while 27 : chillax end; pop end otherwise : while 9 : chillax end; pop end end main : chillax end

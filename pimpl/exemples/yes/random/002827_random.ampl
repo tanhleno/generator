@@ -1,0 +1,1 @@
+program kB : u : takes a6n, S, L, P1ea, QR3aa : boolean array returns nothing Xpd : boolean array; H9m, J, R : integer; v : integer array; y45 : boolean; chillax end main : yCz : integer array; chillax end

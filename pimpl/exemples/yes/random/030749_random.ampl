@@ -1,0 +1,1 @@
+program t : J8Fa : takes p0, l : integer array returns nothing H : boolean; Q : integer array; chillax end i1B : takes q, V : boolean returns boolean do D5(- 6 - 5, 1 = 8070) end main : input Q8y0a; while(84000) + false and 5690 + 3 : chillax end; while(0) + 515 : chillax end end

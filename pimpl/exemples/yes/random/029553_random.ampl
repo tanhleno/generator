@@ -1,0 +1,1 @@
+program i : B2 : takes x, g : integer array returns boolean q, a22aa : integer array; while not 3 and 45 < - 6 - 4300 : output "@"; do i(25); when case 1 : chillax end end end main : E : boolean; output "" . - (0) or 26 . - 1 end

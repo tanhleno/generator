@@ -1,0 +1,1 @@
+program h0 : main : fbY0a, Z17aa, Jz : integer array; W74aa : integer array; _, p7, l : boolean; while - false * (9) and(404) + not true / false and 3 /= c[30] rem false - 66 or 6 : when case - 5530 > 5 : chillax end otherwise : do jH6(1) end end; pop - (07) and 4; while - 75 and 72 + 1 = - 8 - 4 : let CL[793] = 7 end end

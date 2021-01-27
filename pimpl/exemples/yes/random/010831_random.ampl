@@ -1,0 +1,1 @@
+program Z : h : takes TT, p00, q : boolean array returns integer array O, _Np : boolean array; j, G : boolean array; chillax end main : when case false : when case 35600 = 1 : chillax end otherwise : chillax end end; pop end

@@ -1,0 +1,1 @@
+program k7V : G : takes P, WLA, J_ : boolean returns nothing G, V, _, d0w, N : integer; output "l,"; when case 9 - 3 : chillax end; while 72 : chillax end; pop 713; do B(2); let b = 3; pop end main : pop end

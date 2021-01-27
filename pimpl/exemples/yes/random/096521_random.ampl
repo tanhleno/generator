@@ -1,0 +1,1 @@
+program k : main : when case - 3 rem false rem 45 /= - 3330 or 86 and 3 : pop; while 6 = 10 : chillax end; pop end case(694) and false and 0 : pop 6; input PZ[001]; let U = 120 end case - false - 0940 >= - 87 : chillax end otherwise : chillax end; do J(- (9), - not 2 and 8, - 5, 1) end

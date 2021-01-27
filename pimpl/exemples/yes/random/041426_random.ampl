@@ -1,0 +1,1 @@
+program Qqj : n : takes bi : boolean array; g : integer returns nothing while - false + 36 > - 8 - 86 : chillax end; input X end l : takes e : integer; I, By : integer array; M, G : integer returns integer while 581 < 4 : chillax end end main : chillax end

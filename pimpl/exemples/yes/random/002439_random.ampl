@@ -1,0 +1,1 @@
+program D3O0a : i56 : takes G, T, A0, E, Qa : boolean array; D, SS : boolean; T : boolean array returns nothing chillax end main : A : boolean; Wl, Vk9a, am, h, C : boolean; m, q : boolean; tA : boolean array; chillax end

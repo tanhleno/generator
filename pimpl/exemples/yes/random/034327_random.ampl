@@ -1,0 +1,1 @@
+program HR6 : o : takes K : boolean; yL20, i : boolean; K1I : integer array; U5, w : boolean returns integer output ""; pop 02; pop 1 end EF_ : takes u, J7, K0 : integer; s3G0 : integer returns nothing while - 5 = 0 : while 19600 : chillax end; while 2 : chillax end; pop end end main : ye, s96 : integer array; chillax end

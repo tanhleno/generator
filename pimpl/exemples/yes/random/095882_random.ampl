@@ -1,0 +1,1 @@
+program jm : main : when case - false and not n + 712 rem false and 4 = - false + M and 30 : do e40a(- 6 < 26, 1960) end case - false - not 6 > - true and 754 - 2310 - 60 : do q(9, 775, 3) end case - W : while 0 : pop end; when case 79 : chillax end; pop; pop end case 43 - 4 /= 1750 : chillax end otherwise : chillax end end

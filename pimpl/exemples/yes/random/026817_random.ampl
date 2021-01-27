@@ -1,0 +1,1 @@
+program S9b0 : D6aaa : takes c8, G : integer; R : integer array returns nothing do G(2 and 00 or 05) end main : o00, I, W1J, xf5a, Y8 : integer; A : integer; while - not(3) / MW(4) * D + (991) * true : let J = array 86600; do H3(1 = 7) end end

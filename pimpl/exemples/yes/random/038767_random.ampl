@@ -1,0 +1,1 @@
+program PjB0 : r6 : takes q : boolean array; g, b250a : boolean array returns integer chillax end i : takes n : boolean array; F, I, S : boolean array returns integer Y0 : integer array; I, j2, N8 : integer; w, IU : boolean; WB8a : boolean; do _9(068 - 0); let mh[27] = array 04; do c8(34, 2); output "" end main : chillax end

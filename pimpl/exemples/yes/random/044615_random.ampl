@@ -1,0 +1,1 @@
+program P : e : takes s8 : boolean array returns nothing nw : boolean array; D7 : boolean array; TQ3 : integer array; pop - 23 - 44 > 0; do dw(38 - 6 >= 6, 4 = 92, 2); output "" . "" . "#"; while 713 : chillax end end E : takes E : integer returns nothing chillax end main : PK : boolean array; C, KdP : integer; input E; pop; input jPj0 end

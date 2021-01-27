@@ -1,0 +1,1 @@
+program Wp20 : main : output "" . "8"; input L; when case - not 012 or 0 - 6 : chillax end case - 8 - 6 < 4 : chillax end otherwise : chillax end; while - 339 /= 6 : let c = 4; output "1"; pop end; let Sa[98] = 44600; output 7 . "\t" end

@@ -1,0 +1,1 @@
+program Un7a : m : takes rL : integer array returns nothing chillax end NH : takes m7 : integer returns integer array K : boolean array; output 0 = 487; let i = array 56 end b : takes EOd0a : boolean array; qx2, EJO : integer array; f : boolean array; I2 : boolean array; K, Z4 : boolean returns boolean chillax end main : V : boolean; O57, O0X0a : integer; chillax end

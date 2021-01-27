@@ -1,0 +1,1 @@
+program cra0 : _ : takes n540a : boolean array; TwC, s, A, E, K, E : integer array; A : integer array returns boolean array u : boolean; chillax end main : h5 : integer; j : integer; e, ZV, OXb, C9, A : boolean; f34 : integer; chillax end

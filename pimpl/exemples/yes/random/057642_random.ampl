@@ -1,0 +1,1 @@
+program M : Td8 : takes mn : integer array returns boolean array chillax end main : N650a : integer; KTh : integer; pop - true + false + 6 - 4; input z[- (50)]; while - not 17 = - 0 - 67700 : when case 0 : pop end; do k_(1) end; output 2 = 2; do Hn(4 = 17, 3); pop; pop end

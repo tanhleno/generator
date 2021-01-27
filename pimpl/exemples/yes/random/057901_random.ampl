@@ -1,0 +1,1 @@
+program Ui : d0 : takes Nh9 : integer array returns boolean array bP1 : integer array; input Lc end FXm : takes Q : integer array; bY1, TG, z2, F : boolean returns nothing t : boolean; while 997 - 8 : when case 916 : chillax end; output "rMaa"; pop end end Ut : takes mu : integer array; H, h : integer returns nothing i, _ : boolean array; chillax end main : chillax end

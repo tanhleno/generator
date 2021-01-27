@@ -1,0 +1,1 @@
+program v : S2ja : takes Fw : integer; h, v : boolean array returns integer v : integer array; when case - not 7 and 495 - 739 - 7 : pop; do sF9(3) end case - 7 : chillax end case 59 : chillax end; do c(- 6, 2 = 5680, 2); input Gww; when case 4 : pop end; input z0q end main : j : boolean; chillax end

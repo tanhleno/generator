@@ -1,0 +1,1 @@
+program q : DG : takes V, mA : boolean; L : boolean; T : boolean; tx6, y, T6 : integer array; F : boolean; g, PIA, zEb : integer returns boolean chillax end main : while not X670[7] - not(4) : while - 22 : chillax end; while 15 : chillax end end end

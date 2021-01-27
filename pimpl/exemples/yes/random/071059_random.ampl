@@ -1,0 +1,1 @@
+program i970a : main : N2, d3, J95aa : boolean; m : integer; U0, A : integer array; let rr = array true / N[63900] / true + M3 / u - l or 6; while(2) <= - 6 : chillax end; do pA40a(- false - 42); while 3 : chillax end end

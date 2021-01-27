@@ -1,0 +1,1 @@
+program P : main : do N(- (3 = 5) * T(395) and true and 6 /= - ce * (8), - 76, - D3 and 2 - 19400 - 206); do s((679) <= - (0130) - 8 - 695, - not 0 and 2 < 4820 - 1, 555 /= 6, 7); when case O3R /= 2140 - 6 : chillax end case - 6 : when case 9 : chillax end end end

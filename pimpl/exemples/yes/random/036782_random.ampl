@@ -1,0 +1,1 @@
+program lXV0a : S8 : takes O : boolean; k : integer array; t : boolean array; m : boolean returns boolean chillax end main : I, Y, z_Taa : boolean; input B; do E(- false < 513 and 75 or 4); let r = 3 - 9 = 6290; let LNg[26 - 1] = 6 = 8490; pop 8; when case 55 : pop end otherwise : chillax end; output "" end

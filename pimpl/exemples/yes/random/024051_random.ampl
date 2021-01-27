@@ -1,0 +1,1 @@
+program Ht0 : MYia : takes f, X : boolean returns nothing chillax end main : W : boolean array; pop; while - (17200) and true : do W(4 = 1, 8800, 76) end; input xS[false]; while 9 - 21 : chillax end end

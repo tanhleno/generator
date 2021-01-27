@@ -1,0 +1,1 @@
+program o9 : main : pop 7 * 7 + false and 621 < v0 - 86 - 9; let XF[- not T - (92) and 8 or 5120 - 4] = array 038; when case - x6 and 158 /= 69 : input a; let N5 = 07 end; do N(0 - 3, 7 = 4); when case 60 : let _ = 8; pop end case 1 : chillax end case 0 : chillax end otherwise : chillax end; when case 628 : chillax end case 08 : chillax end otherwise : chillax end end

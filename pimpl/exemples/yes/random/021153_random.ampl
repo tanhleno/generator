@@ -1,0 +1,1 @@
+program yW : Ur1 : takes iQS, a5 : boolean array returns boolean B : boolean array; input b3h[- Z690 and 9550]; pop; when case 1 : chillax end end Wi : takes zR : boolean; l : boolean array returns integer chillax end main : B, u1 : boolean; e85, p9 : integer array; input H2[(49) - U[5] / 9920 and 9390] end

@@ -1,0 +1,1 @@
+program m5 : J : takes S : integer; x : integer returns nothing chillax end N : takes D : integer returns nothing chillax end main : N, Nlba, k5 : integer array; while false and 7 and false < (92) / true or K and 2 or 9 - 6 : chillax end; do w(- false / (01) + false) end

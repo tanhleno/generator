@@ -1,0 +1,1 @@
+program i4 : mG : takes m350a, d7, m, Q, B0, U9s : integer; Xf, R5, G, Z, y, F, D : integer array returns boolean array M : boolean; cMZ0, O9, N9baa, B : boolean array; l5, H, x : boolean; BEF : boolean; chillax end main : chillax end

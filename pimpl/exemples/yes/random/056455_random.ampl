@@ -1,0 +1,1 @@
+program v : yX5a : takes z : integer array; _ : boolean returns nothing S : boolean array; C66aa, z : boolean array; let y2[- 57400 and 12 + 80300 - 2560] = array not 47 and 39 end main : y, gqe : integer array; chillax end

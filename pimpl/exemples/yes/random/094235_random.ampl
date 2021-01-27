@@ -1,0 +1,1 @@
+program tO : main : pop - true * not 7600 and 1080; when case - (848) rem not 44900 and 5 : while 0 = 698 : chillax end; let s = array 5; output "H}"; input U73 end case - 2 : chillax end otherwise : pop end; output "7" . "" . 7; pop 864 end

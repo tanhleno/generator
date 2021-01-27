@@ -1,0 +1,1 @@
+program j : XbX : takes u : integer array; f8_, Tp : boolean; Up, R, y : integer array returns nothing u, mIV, D, d : boolean array; E : integer array; C : integer array; C : boolean; fy : boolean; b : boolean; chillax end main : while e[04] * not 43 >= - (416) - false + 0 : chillax end end

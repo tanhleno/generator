@@ -1,0 +1,1 @@
+program q730 : V : takes M, T : integer array; d : boolean returns nothing input p end G8Qaa : takes k : integer; g5p0a : integer; w : integer; bTJaa, K : boolean returns boolean R, l : boolean; t, yh, m : boolean; chillax end main : D9, _Y3aa, I0p : integer array; pop end

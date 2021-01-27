@@ -1,0 +1,1 @@
+program Owh : l18 : takes y, vRc0a : boolean; ju6, mz, WN : boolean array returns nothing h, LG, _730, R : integer; input J4[- 84] end main : U77 : integer; output "" . c58aa and 2700 or 68 - 9 <= 9 - 77 . 8 > 65 . "`k!a" . 09; do A3(- not true rem Eip /= - true, 7 and 8 + 9) end

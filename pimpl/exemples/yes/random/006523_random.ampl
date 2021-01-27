@@ -1,0 +1,1 @@
+program T : t0 : takes N, R, Ty, m : integer; f2_a, z53 : integer array returns nothing s3, r : boolean array; while - not 89 : chillax end; do O(9660 - 7340, 38, 4, 05) end main : K : boolean array; chillax end

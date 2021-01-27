@@ -1,0 +1,1 @@
+program s : MQ4 : takes rxfaa : integer array; k, bgQ, q8L0a : boolean array; vh, x, Y : integer; qQ50 : boolean returns nothing chillax end P : takes H, T, xm, H : integer array returns boolean array T, iH0aa, d, H0_ : integer array; output ",~" . 7580; input f0[998]; output 0 . ";" end main : M, I : boolean; G480, x1eaa : boolean array; u, js, n : boolean array; chillax end

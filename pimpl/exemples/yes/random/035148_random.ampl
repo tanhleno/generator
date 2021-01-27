@@ -1,0 +1,1 @@
+program m : aE : takes fY : boolean; Y30, H : integer array returns nothing K : integer array; je, K, d : integer; pop end O3F0a : takes g, E : integer array returns nothing chillax end A : takes a, q, w, M8, o : integer array returns boolean chillax end main : h : boolean; output "" . "" . - 90 - 068 end

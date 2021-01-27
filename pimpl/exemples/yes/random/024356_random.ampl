@@ -1,0 +1,1 @@
+program J20 : vZ : takes O10aa, P : boolean returns nothing A340, X24a : integer; pop; pop; pop 241; do e7a(5, 24) end main : do U6(true * true / (5) and 6, - true rem(40) and 30 + not 497 >= - true - 5); when case(5) : while 339 = 94 : chillax end; input qA60a end case - false : chillax end case 8320 : do t(90) end; output 9 - 6; do p(4 - 6, 507 = 8); do N(9170 = 16000) end

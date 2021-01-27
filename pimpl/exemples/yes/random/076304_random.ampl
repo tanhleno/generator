@@ -1,0 +1,1 @@
+program Y : main : F, dt : integer; W : boolean; when case N(3, 54700) + false rem not 31 and 3 : chillax end otherwise : chillax end; when case - false / false or not 400 - 71 /= - (3) or 1 - 0290 : chillax end otherwise : chillax end end

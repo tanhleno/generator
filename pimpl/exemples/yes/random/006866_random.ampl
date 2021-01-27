@@ -1,0 +1,1 @@
+program g4 : Nxp : takes X18, Ul, i, R42 : integer array; I, P1F, NG, A4v : integer; _, D35aa, H, D, s : boolean returns boolean let x[- (7) + 81] = - 7 >= 45500 end main : Z, zV : boolean array; let D = not mX5aa / true and 0 /= not 7 and 009 end

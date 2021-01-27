@@ -1,0 +1,1 @@
+program Z0 : Eo : takes j8 : boolean; g, h1J0 : boolean returns boolean array do d(- false and 56900 <= 9 - 7950); input gp[027 - 2]; input c6 end q : takes e : integer array; N : boolean; Pnt0a : integer; _, q : integer; bn, WEW : boolean array; u, NSPaa : boolean returns boolean a, L7b : integer; chillax end main : bxl, v : boolean; chillax end

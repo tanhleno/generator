@@ -1,0 +1,1 @@
+program n : rM5 : takes jw : integer array; Qy : boolean; K, J, W360, nPn, r, wJ : integer; g, FM : integer array returns integer array f : integer; D, j3 : boolean array; let L = array - false end main : chillax end

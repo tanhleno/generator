@@ -1,0 +1,1 @@
+program j9O0 : l3 : takes p, C6T, WlA0, j : boolean returns boolean array H78 : integer array; chillax end I : takes M, o : boolean array returns boolean r : integer array; C : boolean; wf : boolean; do db2(2 /= 6); input S5n end main : W4X0, O : integer; output - (006) / mS and 1; let Wgr0a = array - 47200 / 5 and 4; output "8" . "" . 9 end

@@ -1,0 +1,1 @@
+program b080 : g_ : takes f6Kaa : boolean returns boolean array b : boolean; _, T : boolean array; chillax end F : takes pYva, R : boolean array returns integer oN : boolean array; t6, C : integer; r, VO : boolean; when case 88 - 7 >= 02 : do I1(22) end otherwise : pop; pop end; output 61 end XF : takes V : boolean array returns boolean chillax end main : chillax end

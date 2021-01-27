@@ -1,0 +1,1 @@
+program i : T : takes v67 : boolean returns boolean chillax end mb70 : takes C : integer array; C, _, a6, B830 : boolean returns integer array Q : integer; chillax end o : takes F, I, cj : integer array returns nothing chillax end main : U : integer array; DRr0 : integer; do l(625 rem(1) / not 2970, (8) + 4380 or 88500 - 94200 > 269 and 6) end

@@ -1,0 +1,1 @@
+program M : u : takes Ge9aa, vz, E65, I : boolean returns boolean array L : boolean array; do D(i and 52) end main : while true rem 1 <= - (86) + false : pop 614 = 98; pop 9; when case 91 : pop end case 2550 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program Atj : q2m : takes U, _E : boolean returns integer V890 : integer; input eao; pop; do C2T(33 = 55, 260, 139); do BUQ(1, 5); let u = 46800 end main : let y = 1 - (813) or 249; pop - true and 6 - 68 - 4; pop - 14 - 5 = 4 end

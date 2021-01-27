@@ -1,0 +1,1 @@
+program O2 : y : takes El9, QU, N : boolean; e6 : boolean returns integer let oJ1a[true and 6 or 5 - 374] = 1 = 38 end main : g6 : integer array; x9 : boolean array; L : boolean array; when case false rem(5) / true : chillax end case(96) < 2430 + 220 : input s end end

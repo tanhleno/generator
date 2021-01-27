@@ -1,0 +1,1 @@
+program X5 : v : takes j : integer array returns nothing x9Kaa : integer array; chillax end D : takes q : integer; u, d : integer returns boolean array y, o, c : boolean array; chillax end uh : takes q : boolean returns integer array c : integer; pop end main : z6 : boolean; chillax end

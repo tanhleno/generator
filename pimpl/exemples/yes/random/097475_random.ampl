@@ -1,0 +1,1 @@
+program r : main : when case 199 and true or(46) and G0 + (6700) < - r[00] or zR and 36 : chillax end otherwise : input g6 end; let n[- true or true] = - (15) and 85600 >= 28; while - true and 576 + 88 - 864 : chillax end end

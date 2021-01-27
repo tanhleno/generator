@@ -1,0 +1,1 @@
+program i : L08 : takes W0k : boolean array; b8 : boolean array returns integer chillax end S : takes Uh : boolean; B7 : boolean array returns integer array S, bd70, Mx : boolean array; let Fr = 0 end main : chillax end

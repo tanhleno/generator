@@ -1,0 +1,1 @@
+program L : main : OI, pG4 : boolean; g : integer array; when case - true : let N = 2 = 6; pop 7850; do I(67, 1); input Dm end case - d and 7050 and 595 >= - true and 92 or 8 : pop 970 end otherwise : let p9 = array 07 end end

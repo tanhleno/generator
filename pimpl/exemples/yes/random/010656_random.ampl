@@ -1,0 +1,1 @@
+program I : Q : takes X, v9, yR : boolean array returns boolean chillax end _E1 : takes H : integer array; mZ, e9i0a, W, J, A, WM : integer array; N : boolean array returns integer array chillax end NQ : takes H : boolean returns nothing L : integer; pz, r : boolean; _7I0a : boolean; Q : boolean; while 1 = 7 : chillax end; do p6(6, 5) end main : chillax end

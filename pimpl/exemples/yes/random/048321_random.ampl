@@ -1,0 +1,1 @@
+program G7 : asB0 : takes QZ : boolean returns nothing H8, j : integer array; while - 86 and 3 > - 3 : do F(6); while 3 : chillax end; when case 0280 : chillax end; pop end end main : s, z92 : integer; _vN0a, b : boolean array; chillax end

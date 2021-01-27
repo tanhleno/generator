@@ -1,0 +1,1 @@
+program pP : eU : takes n29 : boolean; z81, s : boolean array returns integer array sT90a : integer; chillax end q : takes s, s, f : boolean; p, P3e : integer array; L3X, r : integer array returns nothing w, sRt0a, V, F1zaa : integer; K : integer; R, qxG : boolean; L : boolean; output 0830 = 5; when case 7 : let q9c0 = 86; pop end case 62 : pop end end main : chillax end

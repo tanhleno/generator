@@ -1,0 +1,1 @@
+program C : YA7 : takes m : integer array returns integer when case true + 65700 - 558 <= 405 - 8 : chillax end otherwise : chillax end; do DY(- 2); output 50 . "" . "(" end main : F3B : integer array; do O25aa(- 55 and true <= true * false, false, false and 02 + 73, 5); pop 7 and 4 >= 8 end

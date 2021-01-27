@@ -1,0 +1,1 @@
+program u : V7 : takes v5, G6, Yw, kN, w, g68, s : boolean array returns nothing chillax end K : takes r1, F40 : boolean array; d8 : integer; cT, M1 : integer; Y, K890a : boolean array; yO : integer array; h6c0a : boolean; li7 : boolean; u : boolean returns nothing HNM : integer array; input rq[3 - 80]; while 1 : let WE = 63 end end main : do B(- X(8) / I) end

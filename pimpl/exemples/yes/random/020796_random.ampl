@@ -1,0 +1,1 @@
+program t : u6Aaa : takes h, p : boolean array returns boolean array chillax end j95aa : takes x40a : integer array returns nothing qrU : integer; output 09 = 322; input Ax; do Z(262, 92700); when case 7 : chillax end end main : T : boolean array; Ea6aa, j7 : boolean array; v0i0 : integer; while O / not true : chillax end end

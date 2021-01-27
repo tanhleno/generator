@@ -1,0 +1,1 @@
+program c : main : output - not 8 and true and 585 . ""; when case true / true and 4 : do Q(2 = 0) end case true + 4 : when case 157 : pop end; when case 6 : chillax end; while 4 : chillax end end case - 06 : pop end; when case - 84 and 38700 : chillax end end

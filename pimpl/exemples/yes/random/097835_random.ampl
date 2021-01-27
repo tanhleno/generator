@@ -1,0 +1,1 @@
+program nMa : main : while(09 = 806) + Q and false and 7 - true and 1 <= v(5) and true : chillax end; output not 474 + 1 . "\""; while false - 7 > - 57 : chillax end; while - 5 : let W = 594; do rl(8) end end

@@ -1,0 +1,1 @@
+program d2F : b9 : takes k : integer; O : integer returns nothing let l[true and 8] = - 2 <= 3; while - 5 - 15 /= 3 : chillax end end c : takes xB : boolean array; c0 : integer array; kIt : boolean returns nothing R : boolean array; chillax end main : do Ze2(not(7580) <= true * true + O and 697 + 1); input A end

@@ -1,0 +1,1 @@
+program k : E : takes w5 : integer array; X5M, q, _, i : integer array; O4, EjWaa, b, k100a, iDka : boolean array; x2I0 : boolean returns nothing p, sw : integer; chillax end main : let b[not O130(98) * (5830) * true and 00 + true] = array - (84) rem(99) or not not 0 + (57) and 484 end

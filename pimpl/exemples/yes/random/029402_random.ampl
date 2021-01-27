@@ -1,0 +1,1 @@
+program TO : b7qaa : takes Y, D : integer array returns boolean array let T5 = 47500 - 49 end E : takes l7j, O, i83 : integer array; t : boolean returns boolean array input du3 end main : do z(- (267 = 49) * false - true - true and 4 or 0 - 5 < not 27400 and true and 3520, - Cp2aa); while false and(5) or false or 65100 - 5 > - false or 41 - 8 : chillax end; pop - 9 end

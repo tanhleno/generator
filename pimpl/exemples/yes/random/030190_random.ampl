@@ -1,0 +1,1 @@
+program J : U : takes P, iM : integer array returns nothing chillax end f4ma : takes X, G, K, sT4aa : boolean returns nothing H : integer array; S3z, n5 : boolean array; let X[- 45 - 6] = array 2 end i : takes X : integer; w : integer array; iyL : integer; S, h : boolean array returns boolean chillax end main : G720a : boolean; chillax end

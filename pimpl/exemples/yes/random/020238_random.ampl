@@ -1,0 +1,1 @@
+program IA3a : uV20 : takes q780, n540a : boolean array; S6 : integer; IC4, HS, p, d : integer returns nothing cp : integer; while not 22 and 7 + 3140 - 2 : chillax end end main : KQeaa : integer array; of : boolean; chillax end

@@ -1,0 +1,1 @@
+program G : ipb0 : takes t, Ek, _83a, S9 : integer returns boolean Z, v : boolean array; do d(- 837 + 309 > 30, 52 > 31, 24 = 3, 36) end a : takes M : boolean returns nothing do ow(- 442); when case 9430 = 478 : chillax end otherwise : pop end; let J_2[0290] = array 5 end main : U3F, H : boolean; chillax end

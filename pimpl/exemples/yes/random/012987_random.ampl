@@ -1,0 +1,1 @@
+program F3 : F : takes H, O1, iiCaa : integer; W, gy : integer array; ZI80a : boolean array returns boolean array u7N, ZT : boolean; do G(true /= 3 - 5870, - 362 >= 385, 6920, 7); when case 11 - 4 : input Vd; let J = 2; pop end; pop 04; output 2 . "\n0\"" end main : chillax end

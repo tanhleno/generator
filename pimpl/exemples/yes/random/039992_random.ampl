@@ -1,0 +1,1 @@
+program m : _VV : takes M8I0 : boolean array; l : boolean array; d32 : integer returns nothing zf : integer; pop; input G[- 7 - 0] end main : _8, b : integer; N1 : integer array; do A(- true / 7 - true /= true / not 2510 or false and 935); do Fn1((22) / (24) and 487, - 46 and 3 /= 256 - 3, 900 >= 4970) end

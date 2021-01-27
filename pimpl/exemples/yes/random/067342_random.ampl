@@ -1,0 +1,1 @@
+program M : main : do q(not(8) - S(62) / (50) and 741 + true - 6 - 3 >= - true - not 1 - 105); do gX(false - true /= - not 52 or 7 - 29); when case - c and 5 + 41 : do g(5); pop; when case 0 : chillax end end case - 80 : chillax end case 93100 = 2 : chillax end otherwise : chillax end; input u end

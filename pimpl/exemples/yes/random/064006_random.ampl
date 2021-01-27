@@ -1,0 +1,1 @@
+program b : _ : takes k : integer returns nothing chillax end main : f : integer array; I : integer; while - false or true + false : while - 29300 - 3 > 9 : while 1 : chillax end; pop end; output 06 . 6 . "\\\\" end; let m[- (8) and not 72100] = array - false rem true and 4 + (2) - 24 - 84 end

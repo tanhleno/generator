@@ -1,0 +1,1 @@
+program j : z : takes s, X2 : integer array returns boolean array w5, d, P0J : integer array; K : boolean; let c690 = 56 - 21 <= 6; when case - 9960 < 4 : when case 96 : chillax end; when case 2770 : chillax end; pop end case 82200 : output ""; pop end otherwise : pop end end main : d : boolean array; pop; while - (0) /= false and 9 : chillax end end

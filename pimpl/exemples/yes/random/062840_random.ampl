@@ -1,0 +1,1 @@
+program v : PS : takes j : integer returns integer array v, v2, Qg00a, H6 : boolean array; input p_d0; output 17 = 388 . 98 . 7 . "7V0a"; let k120 = array 04 end Z : takes m, N, Bj8a, l8c0a : integer; Z : integer array; o : boolean array returns nothing let s[0] = 1 end main : S0, F8jaa : boolean array; chillax end

@@ -1,0 +1,1 @@
+program N : T : takes U, Xy : integer returns boolean array hT, Kz3 : integer array; let Qc4[- 5] = array t; while 04 : chillax end; output "" . "\""; do uKwa(4, 09); input j; when case 140 : chillax end; pop end main : p : integer; O02 : boolean; Z : boolean array; while - not not(3) or false rem true and 9650 or 97 <= - VK40[49] : chillax end end

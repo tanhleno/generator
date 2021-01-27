@@ -1,0 +1,1 @@
+program Lf : U : takes U : boolean array returns boolean array while false + 31 - 7 /= - 75 : chillax end; do T(- 827 - 4 = 7); do r(530 = 9, 61600) end wn1 : takes D5t : boolean array; W, YM : integer array returns nothing chillax end main : k, p : boolean array; chillax end

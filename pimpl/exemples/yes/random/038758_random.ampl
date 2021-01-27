@@ -1,0 +1,1 @@
+program z1N : x : takes f : boolean array; K, a : boolean array returns integer array Ek : boolean array; while true - 6640 - 09 < 2020 : let sC = array 4; pop end; do sq(6 - 286 /= 639, 3, 4, 9) end main : chillax end

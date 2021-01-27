@@ -1,0 +1,1 @@
+program U : K : takes d, UD1 : boolean; Rps : integer returns nothing while - 0 and 5 - 48 /= 59 - 8 : pop 3 end; while - 9190 < 56 : output ""; while 8 : chillax end end end main : d, P, r, cs : integer array; chillax end

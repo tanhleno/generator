@@ -1,0 +1,1 @@
+program f : main : TR70, N, DP, h, w, W : integer array; pop; output ""; output 3 . "" . "2\n\""; when case - 1 - 956 /= 88 : pop end case 1 : let I = 7 end case 60 : chillax end; output "9" . 742 . "" end

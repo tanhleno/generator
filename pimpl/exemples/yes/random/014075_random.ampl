@@ -1,0 +1,1 @@
+program LS : D : takes h650a, zb, sF : integer array; e, T6q0 : integer array returns integer array yt, b : boolean; T4, iU60 : boolean array; h, r, j : integer array; U, J : boolean; C : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program r : t180 : takes W : integer array returns nothing c, xD, U75, K : boolean array; W, m44, C, nF : integer array; pop; let QF = array 86 - 0; when case 8 : input Fhl end case 3 : pop end otherwise : pop end; output 77 . "2da" end R5 : takes M01, _v : boolean returns nothing chillax end main : jJD : integer array; I : boolean array; s8, Z7j : integer array; chillax end

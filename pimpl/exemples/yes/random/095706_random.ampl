@@ -1,0 +1,1 @@
+program yL : main : when case - (59200 = 9) <= true - false and 85 or 45400 : let ub[- 7 - 8] = 64; output 81; while 250 : pop end; when case 864 : chillax end; let dt1 = 6 end; when case - true /= wh2 : let Bp0 = array 37400 end otherwise : input iKZ end end

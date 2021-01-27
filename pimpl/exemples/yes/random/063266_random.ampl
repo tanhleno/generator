@@ -1,0 +1,1 @@
+program UI : BG : takes vf30a : integer returns integer chillax end main : E6 : integer array; J0, E8, v, W1 : boolean; u19, k : integer array; input wMi[not cPi(99) + (16) and(6) and 055]; while - true = - not 9610 and 9 : pop 254; pop end end

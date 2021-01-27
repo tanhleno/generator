@@ -1,0 +1,1 @@
+program ds : main : o5 : integer array; when case - 35 - 4 : chillax end case sL[59] <= - not 3 and 89 : output 0 . "" end; while false or false and 91900 or 8 - 95 < - (49) : when case 3 : chillax end end; input z5 end

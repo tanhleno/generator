@@ -1,0 +1,1 @@
+program o9 : main : b : boolean array; when case - Jv or not 96 rem not 48600 + false and 5 + 7970 - 57 : input Y9; do fvz(690, 02000, 450) end; do Y(- false = not 405); do f3(- e <= 37 - 61600, 82) end

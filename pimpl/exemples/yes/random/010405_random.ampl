@@ -1,0 +1,1 @@
+program M : I : takes t, D, n : boolean array; i : integer array returns nothing DFk0a, B, To : integer; while Mj2 and 7 = - 4 - 1 : chillax end; when case 6 - 27 = 2 : chillax end case 0 = 8 : do b(80) end otherwise : chillax end end main : n : integer; _2u, e, _ : boolean array; let sWS = array - false and not false; output "8#" . "" . 60 = 0 end

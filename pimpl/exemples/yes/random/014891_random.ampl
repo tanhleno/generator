@@ -1,0 +1,1 @@
+program VLUa : M : takes Tc, v, e : integer array returns integer array chillax end _v : takes em9aa : boolean array; i1, q, b, T, J : boolean; AML0, d : boolean array; rV : boolean array returns integer chillax end main : T : boolean array; chillax end

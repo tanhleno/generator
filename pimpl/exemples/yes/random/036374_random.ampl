@@ -1,0 +1,1 @@
+program E1 : E : takes xj : boolean; aB4 : integer; j, ln3aa, _, H0, jk, Nc20 : integer array; LAq, r, o, nP00 : integer returns boolean while - 9 - 8860 /= - 2 - 8 : input qeC; pop end end main : chillax end

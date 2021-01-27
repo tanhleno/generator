@@ -1,0 +1,1 @@
+program ciEa : z : takes Y, i_, W4Ha, IM : integer returns nothing chillax end D : takes k4faa : boolean returns nothing when case 3 : chillax end case 32 = 3 : do B(13) end case 5 : chillax end end j : takes c2 : integer array returns integer array xvD : integer; pop 99000; when case 66 : pop end case 7490 : chillax end otherwise : chillax end end main : chillax end

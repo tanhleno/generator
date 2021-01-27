@@ -1,0 +1,1 @@
+program tA : S : takes u : integer array; q8, mA, HR : integer array returns boolean array u3 : boolean array; while - false > 0 : while 15 : pop end end end main : A, U, blP : boolean; z6C0a, u, Px : boolean array; chillax end

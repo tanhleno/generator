@@ -1,0 +1,1 @@
+program d : x : takes n690a, B : boolean returns nothing P6, Sp3 : boolean array; chillax end main : g_, p0 : boolean; when case Y rem(2) * (31) - (2110) : input At7[- 6]; while 44 : input G94; pop end end case false : chillax end case - false and 45 : let HfM[3] = 60500 end otherwise : when case 1 = 4 : do J3c(58); pop end end end

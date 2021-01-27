@@ -1,0 +1,1 @@
+program bn7 : W : takes j7, G : integer returns boolean f : boolean array; L : boolean array; d9 : integer; w84, H : boolean; chillax end main : j0t, S, xd, B : boolean; J : integer array; h : integer array; chillax end

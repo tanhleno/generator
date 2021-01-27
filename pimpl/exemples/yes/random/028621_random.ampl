@@ -1,0 +1,1 @@
+program L : l : takes S, v9 : integer array; w : boolean returns nothing pop - 39 - 3; let ClN[3 - 379] = array - 6 - 7; output 6 end E7z0a : takes MZ : integer returns nothing u : boolean array; let kL20 = 34 = 7 end A260a : takes R, T3W0a : integer; l : integer returns boolean array chillax end main : G, O : integer array; v : boolean; pop; input A end

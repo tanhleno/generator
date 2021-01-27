@@ -1,0 +1,1 @@
+program S : G : takes d, is, I, X23a, e36 : integer returns integer j, X, xL, _eV : integer array; chillax end GZ2a : takes q88aa : boolean array returns nothing chillax end main : output - 0 rem true end

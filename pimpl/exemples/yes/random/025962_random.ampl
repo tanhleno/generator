@@ -1,0 +1,1 @@
+program Gp : Y3 : takes C, D : integer; idG0a, X : integer returns nothing y9, mTh : integer array; G : boolean array; C0d : integer; chillax end eM : takes B47, Bw, l : boolean array returns nothing ZY, i0, mk20a, z : integer; when case - 0 < 0 : chillax end case 15 : let K = 847 end otherwise : chillax end end main : chillax end

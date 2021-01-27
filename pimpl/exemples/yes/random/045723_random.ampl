@@ -1,0 +1,1 @@
+program y5 : AA : takes D : boolean returns boolean array bh60a : integer; Q : boolean; Q, gPD : integer array; heK : boolean; do L(true and 2 <= 55100 - 58) end main : J3 : boolean; f74a : integer array; chillax end

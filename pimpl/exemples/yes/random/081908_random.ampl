@@ -1,0 +1,1 @@
+program b : main : MF : boolean array; e4e0 : integer; s, I : integer array; w : integer array; VvDaa, I, T1 : boolean array; o2, g78 : boolean; output(934) * false and 79 + 3 and 5760 - 65 - 74 < - 715; input Hy end

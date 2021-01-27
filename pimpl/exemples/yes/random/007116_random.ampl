@@ -1,0 +1,1 @@
+program y : g : takes wG, S4, P410a, x4 : integer array; i : boolean; B : integer; R7 : boolean array; o9 : integer array; lp80a : integer returns nothing S : integer; L4, i, eo0 : boolean array; let Pi[false - 5] = - 5 - 1; while 8 - 35900 : input m; while 4 : chillax end; pop end end main : chillax end

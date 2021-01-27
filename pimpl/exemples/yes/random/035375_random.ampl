@@ -1,0 +1,1 @@
+program ku : v : takes I : boolean; On : boolean; q, d, Wb : integer array; _, e : integer array returns integer array W, f, nr : boolean array; D : boolean array; while uD > - 39 : chillax end; let hV = array 1 end a4h : takes WR5a, BD, f1, v5, E, u : boolean array; s : integer; y660a, J3 : integer array returns nothing chillax end main : chillax end

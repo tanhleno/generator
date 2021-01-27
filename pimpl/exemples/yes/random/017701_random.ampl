@@ -1,0 +1,1 @@
+program ts : Ao : takes E4, AD : boolean; Har0a : boolean; dS : integer array; x, E0 : integer array returns boolean array chillax end G : takes O, Np : boolean returns boolean chillax end main : P : integer array; v5, LT5a, t3 : boolean; z02aa, N, j : integer array; n, f, gKd0a, z : boolean; r : integer; let h = array - (5 = 8) end

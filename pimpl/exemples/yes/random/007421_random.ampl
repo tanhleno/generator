@@ -1,0 +1,1 @@
+program tyo : t : takes F, MeY0a, _, B : integer array returns boolean array input p[- true - 18 - 23] end main : Z41 : boolean; do K(false * 60 + 0670 < - (8)); do Q((1) * 42); let U9Waa = array 0 or 602 end

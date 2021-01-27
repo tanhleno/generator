@@ -1,0 +1,1 @@
+program KxR0 : e : takes a5fa : boolean; W7 : integer returns boolean do w((2) - 14 - 592); output "" . 5450 end main : e, H0S : integer; L, L : boolean; l : boolean; A, yY, V, q5 : integer; v : boolean array; output true + (0) and 13 /= - not 247 or 5140 - 2 . - false - 0 - 6 > - 46 - 2 end

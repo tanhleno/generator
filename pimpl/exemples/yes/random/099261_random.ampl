@@ -1,0 +1,1 @@
+program n8 : main : while G(5) rem not not 54 and true and 67 : output 35600 . ""; while 15 = 248 : chillax end; output "(1" . "\\|" end; let W[(255) + true or 4 - 67] = - true or 6 - 551 >= - 5 - 7 end

@@ -1,0 +1,1 @@
+program A35aa : i : takes M7, Q620a : integer array returns nothing chillax end eK10a : takes M6, P, b : integer array; Q, AS : integer; B21, W : boolean; B : integer returns integer array while - 86 - 64 > 6 : input V end end main : J, j, R6, F0, j3 : integer; output(37) + (4) end

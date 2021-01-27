@@ -1,0 +1,1 @@
+program nP : q : takes z : integer array; Z, J1 : integer returns integer array chillax end y3 : takes y62aa : boolean array; t : boolean returns integer array J : integer array; chillax end main : W, Z, e, Wh20, O9H0 : boolean array; WJ : boolean array; input j[- false rem 329 * (6) + (542)] end

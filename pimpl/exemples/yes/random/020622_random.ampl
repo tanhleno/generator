@@ -1,0 +1,1 @@
+program CY : BKB0a : takes x, S28 : boolean array; J : integer array returns nothing lU6a : boolean array; z8G0 : integer array; O, qL : integer; n : boolean; OK : boolean; input r[false or 296 - 5]; pop 3 = 09; do W(2 = 0480) end main : HC_ : integer array; H : integer; input P[false + miX[3] - not 6] end

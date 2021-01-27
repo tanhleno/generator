@@ -1,0 +1,1 @@
+program Y3 : H : takes MW3, i970a : integer array returns nothing q : integer; chillax end f : takes S : integer; f4, C, p, e : integer array returns nothing y, uy : integer; V0, p : boolean array; I5N : boolean; while - 67600 > 215 : chillax end end main : Q, OKE, b, f : boolean; TL9a, b : integer array; output - N4 - 3 and 16 . "o\t" end

@@ -1,0 +1,1 @@
+program y : Km5 : takes ea : integer array; uF6, z, xa30 : boolean returns integer input n[(87) and 1180 - 7 - 4] end A : takes r8, v, P, k : integer array returns nothing q : boolean array; vc, i, d0s : boolean array; d9, vC : boolean; while - 0 - 01 >= 5770 : chillax end; pop; input p[6] end main : v : integer; chillax end

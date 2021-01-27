@@ -1,0 +1,1 @@
+program F : d : takes n : integer array returns nothing chillax end az : takes z, nMr, k, K : boolean array returns nothing chillax end main : wIf : integer array; when case 8 = - y(14) + not 1200 : chillax end case - true - 25 and 69 or 4 : chillax end case - true and 2 : chillax end; output not 9740 /= 8470 - 2; do o(- (5630), - 0) end

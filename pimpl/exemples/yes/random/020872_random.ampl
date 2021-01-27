@@ -1,0 +1,1 @@
+program b : O : takes v2, k : boolean array returns boolean array xwE, L : boolean; input Dq8[- true]; when case - 5 - 95500 : chillax end otherwise : chillax end; while 29 : chillax end end main : chillax end

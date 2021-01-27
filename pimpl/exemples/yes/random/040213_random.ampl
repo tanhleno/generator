@@ -1,0 +1,1 @@
+program Y5Q : MQ : takes G : boolean array; _jB : boolean array returns nothing input x; when case 16 - 9 : pop; input D5; pop end case 5 = 1 : chillax end case 0 : pop end case 4060 : chillax end end dk : takes G : boolean array; N : boolean array; d2J : boolean; b : integer array; B, z2 : boolean; B, L : boolean returns nothing pop 0 = 54; do o(02200) end main : chillax end

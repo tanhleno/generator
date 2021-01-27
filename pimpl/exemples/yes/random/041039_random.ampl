@@ -1,0 +1,1 @@
+program p : w : takes Og : boolean array; c : integer array returns integer array t : boolean array; e, v : boolean; chillax end main : let O5j[false and not true and false and 0 or 2] = - C1(58700) - false /= (4); let q0[not zs9a rem(570) and 8 or G0 and 1] = array false / Qv5 end

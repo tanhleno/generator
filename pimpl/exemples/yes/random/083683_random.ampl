@@ -1,0 +1,1 @@
+program C0 : main : I : integer; i, Y : boolean array; while not(3) + 64 /= (32) and not 01 and 22300 : when case - 4 > 62 : when case 15700 : chillax end; output "0f\"" end case 418 = 78 : while 9850 : chillax end end otherwise : do U(9) end; pop; output 47300 . ""; output ""; output "" end end

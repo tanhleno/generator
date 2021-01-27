@@ -1,0 +1,1 @@
+program kj : Jq : takes Q : integer array returns integer array I7 : boolean; fa40a, u, F : boolean array; input L end w : takes ba : integer; Y7, m : integer; cb, T, x : integer returns nothing HM : boolean array; chillax end YCn : takes J, a, FFQ0, a : boolean returns integer array hx : integer array; chillax end main : _yjaa, _ : integer; output "0" . "4" end

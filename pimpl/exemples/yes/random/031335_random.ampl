@@ -1,0 +1,1 @@
+program rq1 : i2D : takes p9, A : integer returns boolean array bz : boolean array; while _ and 723 - 2 : chillax end end T : takes m : boolean array returns nothing b : integer array; ABx, n : integer; chillax end main : chillax end

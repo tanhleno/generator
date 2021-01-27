@@ -1,0 +1,1 @@
+program O : D : takes Kh6 : integer returns nothing do H(not 2360 and 317 /= - 85100); while 34 - 4 : chillax end end zu : takes e150a, W, QLa0 : integer; E : integer array returns nothing E, u, P, Zf : boolean array; when case - 7 < 1 : chillax end; output 289 . 6; do W(2) end main : TOKaa : boolean array; input t end

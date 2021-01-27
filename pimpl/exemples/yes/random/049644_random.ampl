@@ -1,0 +1,1 @@
+program R : q5 : takes MJ : integer; ZL, w, q, W6 : integer; T : boolean array returns nothing Jm4, z0 : boolean; chillax end main : while - Da > - (238) rem false + true : while 0 - 29000 : pop end end; let TW[false * false and 8] = - k or 696 = - 6; pop - 207 - 7; let S = 0700; input Fw[0]; when case 4 : pop end otherwise : chillax end end

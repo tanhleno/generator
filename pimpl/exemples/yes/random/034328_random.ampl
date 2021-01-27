@@ -1,0 +1,1 @@
+program Tl5aa : F04a : takes hpH0 : boolean; F, s : boolean; v : integer array; i, K : integer returns integer array TMj, c6Naa, zH, x, a : boolean; do J9(- false and 4, - 893 /= 8, 7, 72, 110); input T[64] end main : chillax end

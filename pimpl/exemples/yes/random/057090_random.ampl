@@ -1,0 +1,1 @@
+program j5 : g : takes J : integer array; LY : integer array returns boolean array while(687) and 68 : input a end; while 5 > 77 : input m end; when case 3 = 3 : input m; pop end end A : takes c, F : boolean returns boolean P, C, gO : integer array; chillax end main : pop end

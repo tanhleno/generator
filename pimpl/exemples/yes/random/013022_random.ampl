@@ -1,0 +1,1 @@
+program X88a : n9 : takes C, Y, b : integer; N, m : integer array returns integer do T080a(- 6 and 8) end pcU : takes N : integer; K, i0s : boolean array; nHg : integer array returns integer chillax end R8 : takes Bx, E, LfR0a, X : boolean returns boolean chillax end main : W : boolean; chillax end

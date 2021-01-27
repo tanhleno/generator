@@ -1,0 +1,1 @@
+program n : i9 : takes sv : boolean array; nGY, Q790, Q, K82a, S3 : integer array; t7t0a : integer returns nothing N, J : boolean; g : boolean; k, jY, d2c : boolean; e4T : boolean; MD8 : boolean; C : boolean; let CFQa[true or 0] = array 4 end main : Y : integer array; do G(P6(6) * 50 rem false >= - B[14] + Do and 64, not 66 - not 29 and 911); pop; pop 18300 = 94 end

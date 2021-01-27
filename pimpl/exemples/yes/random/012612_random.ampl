@@ -1,0 +1,1 @@
+program ly : B : takes t, a7, qU : integer; K, DJ_, _, v : boolean; r : integer array returns integer chillax end LG : takes _ : boolean array returns boolean array W33, F : boolean array; T : boolean; chillax end main : output not not 1 * true and 69 + 32 end

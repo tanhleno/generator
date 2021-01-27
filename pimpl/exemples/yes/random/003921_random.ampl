@@ -1,0 +1,1 @@
+program k : Js10a : takes i, xC, U9p, p, E : integer array returns nothing when case e and 745 or 95 > - 63 : do dV5a(19, 0) end case 6 - 73 : chillax end; pop 0 = 467; input Be end main : e : integer; chillax end

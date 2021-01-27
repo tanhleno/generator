@@ -1,0 +1,1 @@
+program a : main : j020a, k, E : integer; when case - C * s(83) / G : chillax end; when case - not 72 rem not 6 + true and 5 : input s[79600] end case - true > 09 : chillax end case 5 : while 6 : chillax end end case 5 : while 1 : chillax end end otherwise : chillax end; let F4S0 = - 786 - 6; input S end

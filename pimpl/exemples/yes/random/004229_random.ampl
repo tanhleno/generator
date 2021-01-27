@@ -1,0 +1,1 @@
+program c : eeD : takes BC, cNs, f, N : boolean; U6, Y, a, M : integer; A : boolean array; Wb : integer returns nothing U : integer array; output "" end k : takes b, x, sew : integer returns integer oD : integer; yd : boolean; pop; output 5 . "~" end main : let UB = array J - m[53500]; pop j11 or 73 - 35 end

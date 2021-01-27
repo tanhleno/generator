@@ -1,0 +1,1 @@
+program s : k : takes i, y, I7, Q : integer; cb, S7, A : integer; x310, X, XA : boolean array returns nothing pA : integer; Qp : boolean array; l8J, oPi : boolean array; chillax end w : takes L8, Qd1aa : integer; n7, DZ2a : boolean; By, O9O, Z5G0 : integer array returns boolean chillax end main : GJ : integer; pop false and K and 3 > L4b0a and 8 + 0 end

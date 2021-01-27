@@ -1,0 +1,1 @@
+program Y : L2 : takes VPB : boolean returns nothing r, w5 : integer array; let e = array - not 2 end XE : takes P : integer; r, z : integer returns nothing when case - 3 - 6000 <= 76 : when case 45 : chillax end; output "K"; pop end case 47 = 1 : chillax end case 06300 : chillax end case 89200 : chillax end otherwise : while 17 : chillax end; pop end end main : chillax end

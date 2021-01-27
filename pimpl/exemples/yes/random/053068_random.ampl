@@ -1,0 +1,1 @@
+program Gu : d : takes l : integer; lbRa : integer array returns nothing input VV4 end t : takes H6ca : integer array; N : boolean array; w : integer returns integer array chillax end fUb : takes M4da, f46, T7Haa, LYO0, MJ00a : integer returns nothing q : integer; j : boolean; m : boolean; chillax end main : output "0" end

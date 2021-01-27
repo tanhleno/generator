@@ -1,0 +1,1 @@
+program O : m6m : takes g, j, Y : boolean returns nothing V, k1, g3Maa : boolean array; do r(- true) end a : takes L5 : integer; g0 : boolean returns nothing y : boolean; let n9[- 0] = array 1 end main : YV : integer; u : integer; MI, B74 : integer array; do QM(not not(1) * (8) / false /= false rem u9, false * true = - true + 0 - 8) end

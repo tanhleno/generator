@@ -1,0 +1,1 @@
+program P : Qgxa : takes Z, Y29, L : integer returns integer array input z end main : D : integer array; w170a, JU0, Vn, K, Tv1, yh : integer array; when case H630a[7970] and 1 - (6) + true and 64 + 67 - 23 : chillax end case - not false and true + false : chillax end otherwise : do _u(5 = 9); when case 6 : pop end case 7 : chillax end end end

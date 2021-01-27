@@ -1,0 +1,1 @@
+program u : g44 : takes P, b : integer; J6 : boolean array returns nothing zsk, ub0, J9, i2taa : boolean array; q84a, n57, Ck : integer array; let iyCa[- (1) and 6 or 0] = 2 - 2; when case 01 - 84 = 10 : chillax end; pop; when case 22 : pop end case 2 : chillax end end main : YE : boolean array; input f1; let n0[true * false and 7] = - not 654 and 3 - 532; pop 56 - 6 end

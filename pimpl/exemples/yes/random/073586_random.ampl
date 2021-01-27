@@ -1,0 +1,1 @@
+program i4 : main : U7, KO4 : boolean; i8, XzD : boolean array; I : boolean array; D : integer array; v : boolean array; pop - 18600 + not 60 and 66 or 5 <= - 34 and 452 + 4 - 5; input sE; do XjK((389) and 708 < 6 - 248, 1 > 01, 9) end

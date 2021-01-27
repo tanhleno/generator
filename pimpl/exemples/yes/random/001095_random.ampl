@@ -1,0 +1,1 @@
+program V : O : takes W, P6, g6, f, B, L : boolean; k, r, W : boolean array returns nothing _5, cu, j : boolean; Q6 : integer array; o : boolean array; a : boolean; while true and 8 >= 12500 : when case 7 : chillax end case 532 : chillax end otherwise : chillax end end end main : while - false - not false : chillax end end

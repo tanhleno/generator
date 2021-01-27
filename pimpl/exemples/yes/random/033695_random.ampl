@@ -1,0 +1,1 @@
+program ke : z : takes J86 : boolean; h, OR, m, Be : integer returns boolean array cl : boolean; A1D : integer; K : boolean array; chillax end n : takes x : boolean array returns nothing pop 341 = 9 end h : takes i8, H4D0a, _3 : integer returns nothing let mB2[937] = 16 end main : chillax end

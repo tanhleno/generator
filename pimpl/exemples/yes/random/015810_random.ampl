@@ -1,0 +1,1 @@
+program pvH0a : ZoKa : takes g1, lSD, dY : integer returns boolean CN, _B, RL6a : integer array; input P; when case - 21 /= 4 : input u; do u(3) end case 42 = 3 : let A = 3; pop end case 9 : pop end end main : chillax end

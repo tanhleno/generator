@@ -1,0 +1,1 @@
+program qM : od : takes Q, PD50 : integer array; Jz4, m2 : boolean array; C : integer; HZe0a : integer array; r : boolean returns boolean MmN0, W : integer array; L6ka, L : boolean; e, W, M1X0a : boolean; B : boolean; Y : boolean; c0 : boolean; chillax end main : m, E2 : integer array; K6 : integer; R : integer array; chillax end

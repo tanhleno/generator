@@ -1,0 +1,1 @@
+program d : main : F, j9, O, S, m : boolean array; uU60a, X : integer; p : boolean; while(4) rem(4) : let A8[8 - 4] = array 33 - 01; when case 41 = 7 : chillax end case 0 : pop end case 34 : chillax end otherwise : pop end; output "v" end; when case - 8 > (4) and 09400 : chillax end case - 5 and 5 : chillax end case 2 - 730 >= 978 : chillax end case 7 : chillax end end

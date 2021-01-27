@@ -1,0 +1,1 @@
+program N1 : m : takes N, TJ, R : boolean returns integer array do i(false - 0, 9 - 057, 91, 74); let u53aa[87 - 0] = array 968 - 97; do s(81 = 8); let i = array 7 end f0 : takes c5W0a, w : boolean returns nothing chillax end main : while - (9) and(0) and F : pop; output 84900; pop; pop; let o = 23; pop end; let f7 = - not 03100 and 1 /= 9 end

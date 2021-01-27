@@ -1,0 +1,1 @@
+program j1 : main : P : integer array; while - true / (6) rem not 27 and 94400 - not(32) * (46) + true - 7 /= - 1 rem 844 and 6 : chillax end; let C6Da[false] = false and 78500; do G(- true > 5); input Tg end

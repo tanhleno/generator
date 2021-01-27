@@ -1,0 +1,1 @@
+program b7 : Y : takes L, B, e81aa : integer returns integer input d3m[9]; do l(- 9 - 57600); pop 7 end R13aa : takes m : boolean; v : integer returns integer array B, s7ra : boolean array; do tT(7) end main : input z2[T[804]] end

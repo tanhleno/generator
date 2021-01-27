@@ -1,0 +1,1 @@
+program oV : K : takes W68aa : integer; ZhA0a : integer; Y, Q : boolean array returns integer xC : integer; s8Xaa, m, d : integer; chillax end main : let d = array - false rem 78 rem true and 056 or 44 end

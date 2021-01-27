@@ -1,0 +1,1 @@
+program t : t : takes cYS0a, M, C31, D, PP : integer array returns integer no, mp7, KB, a : boolean array; Z5, h9i0a : boolean array; DF2, C, r : boolean array; when case - r9 and 8 : chillax end case 31 : let O = 9 end end main : do SJ(- true < - false - not 90 and 49, - 4 * j - true = - false and 04800, - not 40 and 0 < - 4 - 3) end

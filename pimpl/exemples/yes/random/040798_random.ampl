@@ -1,0 +1,1 @@
+program Q : R : takes Df8 : boolean array; lE : integer array; j, k : boolean array returns boolean array p : boolean; Kx, p : integer array; chillax end GqRa : takes UL, l2 : integer returns nothing chillax end main : do p(D[7], - 8 * (607) + not 1740 and 79 or 2) end

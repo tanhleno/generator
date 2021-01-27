@@ -1,0 +1,1 @@
+program j : Y : takes ZI, t, tl, y, C5, E : integer; U : integer array; C, d : boolean returns nothing _ : integer array; let D5 = - 0 - 687 end g : takes yut : boolean array returns boolean when case 53 : chillax end otherwise : chillax end end main : chillax end

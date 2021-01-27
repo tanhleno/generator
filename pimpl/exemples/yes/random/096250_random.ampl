@@ -1,0 +1,1 @@
+program n : main : when case - not not q and not true <= false * (19) : let Yb = array - 814 - 26; when case 67 = 56 : chillax end case 5 : chillax end otherwise : chillax end end case(8) * (39100) and 46 or not 63 + 381 - 68 >= - BTl0 and 3 - 402 - 61 : chillax end case(36) and 4 /= 770 - 9 : let j[1] = 41 end otherwise : chillax end end

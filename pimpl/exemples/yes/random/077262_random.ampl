@@ -1,0 +1,1 @@
+program Y4W0a : main : t, y : integer array; Q1, Jb, N2i : integer array; V : integer array; O2, K, c, AY : integer; i33aa, w9, b8 : integer; when case - (665 = 927) rem M3s[65] <= 4 : do p(- 36 - 3240); pop; while 6 : chillax end; input X; output ""; pop end case - x6(7) * qi4a >= 6 or 5 - 8 : when case 9 : chillax end otherwise : pop end end otherwise : chillax end end

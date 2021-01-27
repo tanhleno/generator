@@ -1,0 +1,1 @@
+program ka : Sa : takes e : integer array; P0 : integer; sBG, s90 : boolean returns boolean E : boolean array; O, i, i, k : boolean array; chillax end u : takes G, r9, Q : boolean returns nothing EN, Y, cO : boolean; m2 : boolean array; w : boolean; B2 : boolean; b : boolean; while - 89 - 725 >= 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program o : x : takes q, o : integer array; l, u : boolean; V, T8, A : integer; L7Z : integer array returns nothing do p(true - 01 /= - 11 - 236, - 7, 28, 6) end main : w : integer; t, o, L6 : integer; mI, yMG, F : boolean; C9 : integer; hSOaa : boolean; chillax end

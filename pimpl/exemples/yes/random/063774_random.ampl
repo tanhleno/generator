@@ -1,0 +1,1 @@
+program g2 : n6A : takes H : integer returns nothing chillax end d : takes R : boolean array returns integer B : boolean; do r(233 - 87 /= 64, 193); when case 087 = 5 : output "X" end; when case 04000 : chillax end case 18400 : chillax end; output "" end main : O : integer array; q3taa : integer; c : boolean array; chillax end

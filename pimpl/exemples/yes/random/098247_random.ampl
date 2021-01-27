@@ -1,0 +1,1 @@
+program H : main : while - false and false / (17) and 7 + true and(3) < - false - 7920 and 54 - 31 : when case 7 - 05 : pop end end; input q6[- not not 749 * not 206 - (301) and 13 or 449 - 3]; input K; pop 5 = 5 end

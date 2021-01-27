@@ -1,0 +1,1 @@
+program PZ : r : takes x, YDC, N, h : boolean array; X : boolean; U : integer array; A, pn, b : integer; x : integer array; DS6, E : integer array returns nothing input p end bF : takes O, g1raa : boolean array returns boolean D9, l : boolean; chillax end main : I : integer array; input c[(8)] end

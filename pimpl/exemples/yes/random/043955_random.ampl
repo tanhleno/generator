@@ -1,0 +1,1 @@
+program a8 : M : takes B7 : boolean array returns nothing o, _7, Kf, _39aa, X : integer; t, CS : integer; chillax end C54 : takes Y : integer returns integer _, b, Y4d : boolean; when case 496 - 5 > 48600 : chillax end otherwise : chillax end; let w[1] = 9; output 87 . "" end main : chillax end

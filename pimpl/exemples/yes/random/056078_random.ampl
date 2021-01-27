@@ -1,0 +1,1 @@
+program Xu7aa : P : takes yr6 : integer array; mz6 : boolean array returns integer do Vu(- false - 6); pop end N : takes w, q09aa : integer returns nothing k5x, U2l0a : integer; chillax end main : _, zN : boolean array; o : boolean; WP5, vLea : boolean array; j, TP, U : integer; let J = array false end

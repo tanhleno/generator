@@ -1,0 +1,1 @@
+program b8 : C : takes Gc2 : boolean array; w : boolean; ElX, D, C0S0 : boolean; G2, T, Q, va, L7y : integer array returns boolean j : boolean array; while - false + 000 = 3 : while 215 : pop end end; do H(- 52 /= 836, 2) end main : let S58[true / not(9) * not 870 and 9 - S(049)] = array - 10; when case - false and false : chillax end otherwise : while 53 : pop end end end

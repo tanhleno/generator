@@ -1,0 +1,1 @@
+program m : main : E2, S4 : boolean; F, i2w, D, F, X : integer array; output ""; input q82; while not 0 and 64 + 5 : when case 51400 : pop end end; when case - 430 : chillax end case 6670 : output "R" end case 82 : chillax end otherwise : while 403 : chillax end; pop end end

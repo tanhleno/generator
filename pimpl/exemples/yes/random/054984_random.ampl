@@ -1,0 +1,1 @@
+program i : N : takes U : integer array; i, W : integer; tX : boolean array; M2 : integer array; G : boolean returns integer G, u : integer; jI : boolean; do g3w0(- true + 627 - 04600 >= 61 - 356) end J : takes K : integer returns integer N9 : integer array; F : boolean; s : boolean; E : boolean; do F(78 - 7) end main : chillax end

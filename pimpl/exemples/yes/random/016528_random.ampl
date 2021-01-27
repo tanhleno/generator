@@ -1,0 +1,1 @@
+program W4 : nk50 : takes o, N, gX : integer returns nothing input Nyk0 end main : nb, b3k0a, m : boolean; l9, OP0a : boolean array; when case true * false + not 92500 and(104) and 0 + (4) and 26 : do H1M0(87 - 2 <= 39, 0) end case - not false : output "\"9" end end

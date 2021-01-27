@@ -1,0 +1,1 @@
+program H : y : takes B, e : integer array returns boolean array chillax end B : takes w : boolean array; _, GH30a : integer returns nothing N : integer array; chillax end M1 : takes Z2 : boolean; u : boolean array returns integer array when case 07 : chillax end end z : takes v41a : boolean returns nothing chillax end main : X, I : integer; let q = array true end

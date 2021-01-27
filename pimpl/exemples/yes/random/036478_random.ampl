@@ -1,0 +1,1 @@
+program N : P6 : takes g5Ja : boolean; lh : integer; LR, l0 : integer array returns integer aO7 : boolean; chillax end main : p, c : integer; l : boolean array; input ZU; do m5Q(- not B7 and true - o37 + 99300 - 62 < false, - 3 or 59 - 4); input C[- false and 2] end

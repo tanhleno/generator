@@ -1,0 +1,1 @@
+program W4 : main : M : integer; W : integer array; input gh[not not b0]; while - 367 / true and 41 : chillax end; output "" . 29; when case - 41 - 3210 : chillax end case 7 = 950 : chillax end case 26 : pop end case 38 : chillax end otherwise : chillax end; do A1(01, 7, 81) end

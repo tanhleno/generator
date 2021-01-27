@@ -1,0 +1,1 @@
+program KvV : D5f : takes j, z : integer returns integer array while - false + 9 - 3 < - 1 - 48 : chillax end; output 5 = 70 . 636 . "e" . "" end main : oR, ap9, B : integer array; E : integer; input M[false - (46100)]; when case - false * 2 > - false : do l070(06 = 3) end end

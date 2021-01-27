@@ -1,0 +1,1 @@
+program E : n : takes G, J, Op : boolean returns integer input Y0W end N : takes t9i, o : integer array returns nothing chillax end main : W0B, t : integer array; while - 2 > - v(5) rem not 77 and 559 - false and 7 or 85 : input vh3; input CW[4] end; output - not 4 and 2 /= - 9800 end

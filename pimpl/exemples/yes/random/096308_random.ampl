@@ -1,0 +1,1 @@
+program E : main : when case - not true / true : while - 4 - 8 >= 78 : chillax end end case P1(9) or false and 15 - 7 - 2 >= - 0 and 3 or 4 : while 0 = 7 : chillax end end case - true and 1 : chillax end case - 2 : while 21000 : chillax end; when case 830 : chillax end end case 1 : output "`{"; pop end case 22 : pop end case 1 : chillax end end

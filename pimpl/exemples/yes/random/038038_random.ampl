@@ -1,0 +1,1 @@
+program n : J : takes kIva : boolean array; R, B, a : boolean array; H : boolean; s5, Y : boolean array returns nothing lT, N2, w, SZ60a, tD7 : integer; while - L and 99 : do I(320, 6); when case 3 : chillax end end end N : takes b : integer returns integer array C : boolean array; chillax end main : chillax end

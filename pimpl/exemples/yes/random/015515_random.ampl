@@ -1,0 +1,1 @@
+program a : F7f : takes A, r320, J : integer array returns nothing s : integer array; chillax end main : while(4) - (56) : chillax end; when case - not r - not 4 : when case 5 : chillax end case 3 : chillax end otherwise : pop end end; output 141 - 81 /= 3; while - 2 - 4210 <= 6390 : pop; input y; pop end end

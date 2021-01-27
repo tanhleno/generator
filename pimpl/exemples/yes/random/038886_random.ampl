@@ -1,0 +1,1 @@
+program A : S7 : takes A_ : boolean array; E, Bc : boolean returns integer array while - not 9 : chillax end; let _ = 0 = 31500 end S : takes w75 : boolean returns integer array chillax end main : n7 : boolean array; let i9Aa = array not false * false + true - not 5 and 8 + 3; input dC; while - false or 72 - 41600 /= 2 : do G(776); let c_00 = 8 end end

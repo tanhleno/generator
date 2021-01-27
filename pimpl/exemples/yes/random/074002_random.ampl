@@ -1,0 +1,1 @@
+program e : main : i5, SH_0a : boolean; z : integer array; Yt4, A, i, q : integer; when case 7 / (9) /= not(3) and(9) : let Fb = 5 = 5; input wPaa[074]; output 8 end otherwise : when case 118 = 5 : when case 9 : chillax end end case 197 : pop end; let pf5 = 1190 end end

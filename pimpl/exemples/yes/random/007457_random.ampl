@@ -1,0 +1,1 @@
+program a1s0a : T : takes c, E0, N, paPa : integer array returns boolean F28a, W33aa, d3 : boolean; while - (262) : do C86(4, 7) end end main : Q, D : boolean; y : boolean; when case 68 : while 4 = 2 : output ""; input e0 end end case b_7[91] and true : when case 1 : output "k"; pop end; let S8 = 3800; pop end end

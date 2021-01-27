@@ -1,0 +1,1 @@
+program A : Ds3a : takes S1o0 : boolean; PH, l3Ca, H, Qbv, L, Pc : integer array returns nothing q0Uaa, j, Y : boolean array; fx, H6na, A20, _b : boolean array; chillax end main : M1 : integer array; when case not(3) and 05 or 47900 or c and 11200 = - not not 38 : chillax end otherwise : when case 72 = 53 : chillax end otherwise : chillax end; output 096 end end

@@ -1,0 +1,1 @@
+program SA : w : takes h, X9 : integer; N, k, Hr : integer; jm : boolean; j : integer array returns boolean L, d, _Q0aa : integer array; xu0aa : integer; chillax end main : while - (2 = 64300) rem not 0 rem 375 - false / (7) : chillax end; while - false <= - Lb : while 4 : chillax end end end

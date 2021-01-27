@@ -1,0 +1,1 @@
+program c : main : d7 : boolean array; when case lp[15900] or yvo0a - true and 3 < - not Siw and not 40 and 3 + d : chillax end case 0 rem not 26 : chillax end case - 0 and 9 /= 44800 : chillax end otherwise : pop 27 end; input u end

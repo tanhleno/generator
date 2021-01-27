@@ -1,0 +1,1 @@
+program A : z : takes DR : boolean; Z85aa : boolean returns nothing chillax end U44 : takes G6, JQ : integer returns nothing while - 1 /= 9 : chillax end; pop end main : output ""; while - U / not 2940 : chillax end end

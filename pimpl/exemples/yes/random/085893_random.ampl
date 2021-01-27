@@ -1,0 +1,1 @@
+program x : main : g : integer array; y0, A, b : integer array; n, r, o7, a : boolean; do s(- (48 = 8) + true > - true * (3) and 0, - L5(260) or false and 2 or 64 < (486), true and 41 /= - 944 - 3, 6290 - 6) end

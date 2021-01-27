@@ -1,0 +1,1 @@
+program C : main : when case - true / not(9) /= - 98 + SD - 146 : chillax end case - 138 * not 08000 - true <= (2) and 3 + 2 - 85 : chillax end case - 272 and 20 + 8960 : chillax end; output "5ha"; do f45aa(true and 4 + 86 - 64600 < - 13700) end

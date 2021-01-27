@@ -1,0 +1,1 @@
+program P : main : KD : integer; when case - (2 = 4) <= (6) and not 46 or false or 571 : when case 0 - 8 : when case 1 : chillax end end otherwise : pop end; input s end case - true rem false + not 653 and 8 < - (5) : chillax end case - Z and 88 + 4 : pop; input bf end case 9 : chillax end end

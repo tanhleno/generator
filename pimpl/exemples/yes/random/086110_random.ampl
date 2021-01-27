@@ -1,0 +1,1 @@
+program p : main : N : integer array; O, n0 : boolean array; when case not false / 6 + not Pf < not not 7 and 808 : chillax end case - G[547] >= - 24400 - 3 - 9 : output "bG0a"; do kT4(7, 2) end otherwise : chillax end; input c[- rs] end

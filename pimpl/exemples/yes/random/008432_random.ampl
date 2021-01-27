@@ -1,0 +1,1 @@
+program t : q : takes m, v0, d2 : boolean; D09, O, p, Y46a, rE9, u2 : boolean array; t71 : integer returns integer array chillax end k : takes y, VB9, d : integer array returns nothing when case 4460 : pop; input Nz end case 11000 = 9 : chillax end case 1870 : pop end; while 0 = 043 : do Xz(10); pop end end main : k, m, cz : boolean array; pop end

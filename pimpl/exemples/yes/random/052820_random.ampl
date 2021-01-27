@@ -1,0 +1,1 @@
+program G4 : B1 : takes d : integer; u0 : integer array; A0 : integer array returns boolean chillax end main : when case - true = false * not 5 : do xi(- 5 - 10 >= 0) end case - true : pop 5 end case - 5 = 69900 - 90 : output 4; let Ju = 6; let B = 31; pop end otherwise : chillax end end

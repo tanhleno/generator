@@ -1,0 +1,1 @@
+program v : X2k : takes AH80a, n : boolean array; l, _8, HBS, yz : boolean; B, r, uD, cp, nkE0 : boolean; Oeu : boolean; tf : integer returns boolean chillax end main : input S[- false + not(40) and not 576 and 00000 or(96) + 5]; output true; while(44) and 4 + 87 - 8 : chillax end; when case - 6 - 29 : chillax end; do l(3 = 3) end

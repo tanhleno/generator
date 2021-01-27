@@ -1,0 +1,1 @@
+program g : Cyg0a : takes Z, QY3 : boolean array; g, x : boolean array; Pq : integer array returns boolean array S7Ya : boolean array; a : integer; o, p, V : integer; zKo : boolean; pz : boolean; chillax end main : r : integer array; chillax end

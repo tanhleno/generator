@@ -1,0 +1,1 @@
+program g9za : RH : takes c7, N, Y, J, t740a : boolean array; l0, J : boolean; S, S8 : integer array; u5w : integer returns integer JW, r0, c : boolean array; chillax end main : D4 : boolean array; let a = true / true >= not 45 - 6 - 0900 end

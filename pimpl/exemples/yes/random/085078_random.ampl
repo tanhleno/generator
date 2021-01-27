@@ -1,0 +1,1 @@
+program wQ : main : Q : integer; pop E[99] * not 1 and 8 + _P >= - (7); when case 6 rem 155 and 5 or false /= false + 07 - 353 : chillax end case w and 69 = - 081 : when case 508 : chillax end; while 71800 : chillax end; while 3 : chillax end; pop end otherwise : chillax end end

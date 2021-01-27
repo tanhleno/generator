@@ -1,0 +1,1 @@
+program Fm6 : main : let g3[- false / (03700) * 759 and 1 or true and true] = array - (1 = 8) rem false or not not 43 * (322) and 6 + 1 - 9; output 0 < - 9; when case(4030) - 559 - 74300 < 6 : chillax end end

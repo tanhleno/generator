@@ -1,0 +1,1 @@
+program _p : main : N6, g390, B, c, t, g : integer; T : boolean array; E, Gh : integer; when case false : pop 92; pop end case 6 : chillax end; while 8 or(22) > not 74 and 9 + 3 - 35 : let Ap4[15] = array 6; when case 100 : chillax end case 3 : chillax end otherwise : chillax end end end

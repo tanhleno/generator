@@ -1,0 +1,1 @@
+program N : r : takes F, g : boolean array; L, k, e : integer returns boolean while - kgg0a and 5 or 5 - 3 = - 0 - 2 : let p3 = array 6 end end TC6 : takes p : boolean array returns nothing n : boolean; chillax end main : ix, t, a : integer; c, P : boolean; chillax end

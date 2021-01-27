@@ -1,0 +1,1 @@
+program a : i : takes F : integer array returns boolean J : integer; let mK9[bG0] = array - (5) end W : takes F : boolean array returns integer array U5d : integer array; chillax end main : L1 : boolean array; l, l, w8, B, u2 : integer; chillax end

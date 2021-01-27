@@ -1,0 +1,1 @@
+program e : c : takes r, v5, Q1V : integer array returns nothing r7, Hl_aa, vx9 : integer; T : integer; zU7, e, D : integer array; while - Ryr and 63900 + 5 - 5 : do YK(564, 51); while 3 : chillax end; pop; pop end end main : output "\t8!a" . - V and 33; let PK5[- 68] = array - not(62900) * F and 7; output - 7900 <= 20 . 6 = 60 . "4" . 58 . "\n" end

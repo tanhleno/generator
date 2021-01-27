@@ -1,0 +1,1 @@
+program l02 : X : takes v : integer returns nothing b, F, o, W : integer; let m[false] = - 0 < 0; do I(13 = 6, 6 = 9, 3970) end A0 : takes Dj, K : boolean array; Kj : boolean; Z, pzZ, y7, O : boolean array returns integer array while 8380 : do c1(49) end end main : X, u9 : boolean array; chillax end

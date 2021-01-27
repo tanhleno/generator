@@ -1,0 +1,1 @@
+program M : main : output ""; while true / 7 and 6 = true and 388 or 88 - 8020 : chillax end; do R8q(- 61 >= - 9 - 9, 83500 /= 704); let _G20[- 49200 - 3] = 10900; when case 9 = 90 : input lh end otherwise : pop end; input s[38400] end

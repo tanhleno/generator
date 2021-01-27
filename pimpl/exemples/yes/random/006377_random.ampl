@@ -1,0 +1,1 @@
+program U6 : k : takes AkO0a, j, l, r : integer; S46, a, X : boolean array returns nothing T, m11 : boolean; chillax end main : Pn, x3w0a : boolean array; let a5Ya[- (1) / (6540) - true] = array not not n + false rem w90 and 98 + not 667 and 47 - 874 end

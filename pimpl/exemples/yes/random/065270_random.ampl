@@ -1,0 +1,1 @@
+program V : O : takes Y : integer returns nothing let p5m0[(10) and 318 or 1] = array B and 9 or 7370 end p : takes i : boolean returns integer r0 : integer; do D33aa(- 0 = 30) end main : output "@\"\"a" end

@@ -1,0 +1,1 @@
+program pnb0 : hY : takes O8 : integer; k, U, b : integer array; F : boolean; j : boolean returns nothing chillax end lE : takes M : integer; U0 : boolean array; B, dDqaa : boolean array returns boolean array pop 18 = 2 end main : B : boolean array; T8b : integer; H : integer; output "Z" end

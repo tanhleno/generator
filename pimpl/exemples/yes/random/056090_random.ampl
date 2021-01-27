@@ -1,0 +1,1 @@
+program NQ : s2 : takes H : integer array; sM : boolean array returns integer pop - 256 - 6 <= 305; let z64a[- 81 - 6] = 522; while 800 : chillax end; output 5; pop end y : takes u : boolean returns nothing v, m, Z : integer; xt, E : boolean array; chillax end main : chillax end

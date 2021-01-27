@@ -1,0 +1,1 @@
+program i4 : Dp6a : takes hpW, O, lo : integer returns nothing x3, U : integer array; p0, _3, _, HW : boolean; U : boolean array; pop 6 end main : when case r2M0(8780) and m : let fs = 1; input vL end case false = l - 8 - 82 : chillax end; pop not 738; pop 5 - 2 end

@@ -1,0 +1,1 @@
+program d : main : w6, Z : integer array; when case - true - not 74600 rem not 7900 - not 6 : chillax end case false * (64) and 17300 > not 496 : chillax end case 3770 and 9 - 0 - 49 >= 6 : let f = 7 end end

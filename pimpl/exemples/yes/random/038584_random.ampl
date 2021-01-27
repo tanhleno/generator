@@ -1,0 +1,1 @@
+program Z08a : j : takes M : boolean array; a, M : boolean array; JC, n, c, s0, a : integer; A56 : integer array returns nothing c : integer; chillax end main : HPq0a : integer array; let D0M[false * Lq(2)] = array true * false rem false; pop XD - 64200 end

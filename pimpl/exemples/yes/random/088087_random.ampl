@@ -1,0 +1,1 @@
+program D9d : main : input S1; pop; when case not 5 and 237 + 8330 : input ZIw0 end case - 2 - 31 = 22500 : let R6u = 99800; while 32 : chillax end; pop end case 0 : pop end case 8 : pop end case 4 : chillax end otherwise : let c7 = 52000; pop end end

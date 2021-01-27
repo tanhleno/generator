@@ -1,0 +1,1 @@
+program a : main : o : integer; Xq : integer; C6j0a : boolean array; when case - false or not 4 * N < false / true and 772 : chillax end case - false * not 305 and 130 - 0 and 4 < - true and 2 : output "v" . "|\t" . ""; when case 95 : pop end end case true or 26 : chillax end; output "62"; do p3(- true and 4 >= 13300 - 4); let RbRa = array 0 - 7 end

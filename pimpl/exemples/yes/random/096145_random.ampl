@@ -1,0 +1,1 @@
+program g7 : main : when case - not(586) + (9190) or Qu0 and 5030 - 4910 - 0 = - w and false : pop 6 = 76; when case 1 : chillax end case 9 : chillax end case 0 : chillax end otherwise : chillax end; output "" end case _48a(6) rem true and 7 + not 872 and 86 + 91 - 42 : chillax end case - false and 49 or 1 : chillax end case 0 /= 1 : chillax end case 09400 = 9 : chillax end end

@@ -1,0 +1,1 @@
+program b : O88 : takes H : boolean; hR, P : integer array returns nothing when case(7) and 9 > 8 - 1 : pop 3 end otherwise : output "+20" end end main : Hre : boolean array; O : boolean; chillax end

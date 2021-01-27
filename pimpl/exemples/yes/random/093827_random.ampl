@@ -1,0 +1,1 @@
+program Z : main : pop - (56) rem false and 5730 + (8) - 1; do kKS0a(- SI and false and 004); when case twCa + 5 > - 8 - 0 : chillax end case - 3 > 46 : chillax end otherwise : pop end; when case - 582 - 871 : do OU(56) end otherwise : chillax end end

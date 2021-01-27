@@ -1,0 +1,1 @@
+program P : T : takes F, z : boolean array; S, K, qV, o, lL, f, a3 : integer array returns boolean let L[036 + 561 - 9] = 2 - 496 end main : f8j0a, m, B, Y, WS4 : boolean array; k, u : integer; let q = array - e(6940, 6430); pop end

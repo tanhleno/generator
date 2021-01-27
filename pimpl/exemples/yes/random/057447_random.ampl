@@ -1,0 +1,1 @@
+program qB : woD : takes F : integer array; t : integer returns nothing chillax end g89 : takes A : integer array; f, _, B : boolean; F0, t : integer array; j7, f : boolean; l : integer array returns boolean chillax end main : do B(- (20) * not D0L * not 2 + true); do Dm(- (89) and not 9 + (00) and 6 or 6 = - false and 323 + 3 - 99900, - not 53600 and 6190 + 918 - 6060) end

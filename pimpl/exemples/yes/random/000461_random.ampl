@@ -1,0 +1,1 @@
+program t : b : takes k, lb40, b, DlX, iP6, ii, K83a, z : integer array returns nothing K, xb60, f7 : boolean array; z : integer; m, P, k : integer array; when case - 0 and 2 or 1 - 8 >= 1700 : chillax end end main : chillax end

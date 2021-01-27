@@ -1,0 +1,1 @@
+program k : g5 : takes n7V0, w : boolean array; z, U : boolean returns boolean B : boolean array; chillax end main : L0 : boolean; let S1[- true - not false rem true and 6 - (58) and 1 + 6] = - false or JK0 <= S10 + 8; pop; let h4[- (29) and 7200] = array true + 2; input q[7]; let P[19] = array 8; do DEn(3) end

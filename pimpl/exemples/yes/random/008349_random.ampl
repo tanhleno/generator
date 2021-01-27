@@ -1,0 +1,1 @@
+program f : o0Eaa : takes P, U5, g26, U : integer returns nothing rg8 : integer array; f3, g : integer; V, v, C4 : integer array; K, cS : boolean; chillax end main : when case - 5 * (7) rem false and 97500 < 435 or true : chillax end; let j = - sO and 6; pop - 597 - 2 < 0 end

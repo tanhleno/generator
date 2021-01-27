@@ -1,0 +1,1 @@
+program Ct : WGtaa : takes K, D : boolean; Xs : integer array returns nothing To70a : boolean array; chillax end uf60 : takes X, gk3, gg6a, p : boolean array returns integer wY, J5 : boolean; L, p42, l : integer; Q, E5F : boolean; chillax end q : takes H : integer array returns nothing I : integer array; chillax end main : nC : boolean; chillax end

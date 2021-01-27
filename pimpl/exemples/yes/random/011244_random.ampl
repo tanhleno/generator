@@ -1,0 +1,1 @@
+program d89a : W6 : takes S, D, Z : boolean array returns nothing r, o3b0 : boolean array; while - false - 0 >= - 70 - 0 : chillax end end oUQ : takes _9G0a : boolean; l : boolean array returns nothing Z4, F, Tx00, J : boolean; KA90a : integer; chillax end main : chillax end

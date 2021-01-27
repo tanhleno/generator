@@ -1,0 +1,1 @@
+program CI : D : takes h0g, wP : boolean; DDr : integer array returns integer array GR : integer; V : integer; input Y[- 8] end wt : takes Iq5, C : boolean array; S : boolean array; P : integer array returns boolean array input J[- 0] end main : H, p, L2, K9q : integer array; Fs : boolean; l0, vVd : boolean; chillax end

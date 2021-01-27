@@ -1,0 +1,1 @@
+program L : AS : takes sL : integer; n : boolean array returns nothing when case - true and 41 > - 1 - 6 : chillax end case - 7230 - 6 : chillax end end N46a : takes D, R6, WaNaa : boolean returns integer chillax end j : takes c : integer array returns nothing chillax end main : N : boolean array; input qZ; input gL5[false / true or false and 79] end

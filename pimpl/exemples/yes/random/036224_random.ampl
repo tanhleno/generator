@@ -1,0 +1,1 @@
+program h : e : takes GHT : boolean; X : boolean returns integer chillax end main : when case 0 or true / false and 23 > K : while - 7 - 6 >= 9 : pop; when case 7 : chillax end; pop end; when case 681 = 7 : input d; pop end otherwise : chillax end; when case 59 : pop end; input f end case 2 : chillax end case - true and 4 : do s(7) end case - 33 - 2 : pop end end

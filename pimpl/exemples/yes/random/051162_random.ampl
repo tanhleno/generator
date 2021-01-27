@@ -1,0 +1,1 @@
+program t : aq : takes k : integer; o, K : integer array returns nothing pop - 9 - 8 > 8; output 2 = 8 end c : takes c6K0, K, y950a, W : boolean returns boolean array Lp, Z, T : integer; output 5 = 520 . ""; do h(3 = 3, 489, 7890) end Pa : takes C, aW, D9B, m, B57 : boolean returns nothing pop end main : chillax end

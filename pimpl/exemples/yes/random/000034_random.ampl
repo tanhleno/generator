@@ -1,0 +1,1 @@
+program M : K : takes R, A7, CY, _, e1, C7, Kr1, v5 : boolean; tp80a : boolean; O3A, Y, p : integer array; PPT : boolean returns nothing let Ur[- (36200)] = - 26 - 7 /= 9; let v = array 56000 end o : takes l : boolean returns nothing chillax end main : t : integer; do Q(J(4) and 0 / true); let VF[- false and rJ + not 5] = true and 76 or 39; let Ppz[M8] = array 886 or 4; pop end

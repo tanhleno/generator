@@ -1,0 +1,1 @@
+program V : d3p : takes C8Ta : integer array; f3, U56 : boolean; R, g8Ya, L, R9 : boolean array; l4L : boolean array; t, D, S : integer returns boolean chillax end main : Z : boolean array; iEt, M, C2, qx5, yE, C17 : integer array; chillax end

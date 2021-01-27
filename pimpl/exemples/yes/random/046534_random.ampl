@@ -1,0 +1,1 @@
+program a65 : G2 : takes y9 : boolean returns integer array W, V390, cV8, X, Y : integer array; ab : integer; Y : boolean array; n8, Ug5 : boolean; while - true > - 08 : while 209 : chillax end; pop end end main : c4 : boolean; chillax end

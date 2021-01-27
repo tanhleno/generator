@@ -1,0 +1,1 @@
+program Nh : uW : takes nr7aa, PC, lf0, m1 : integer array; o0, X : boolean returns integer array xV : integer array; when case - 0220 : while 4 : pop end; pop; let R = 3; pop end case 79800 : chillax end case 5 : chillax end otherwise : chillax end; when case - 6 : input z end; input YJ2[6] end main : P : integer array; c, Y1J0 : boolean array; input zwBa end

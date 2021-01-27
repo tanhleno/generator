@@ -1,0 +1,1 @@
+program w0 : tlHa : takes Z, L, ry, g : boolean returns nothing chillax end main : dw : boolean array; when case - 77 * b + not false < cA90a and(83) and 7 : chillax end case - true / false and 86 - not 93400 + 4 - 7 >= 83 and 071 : chillax end; pop end

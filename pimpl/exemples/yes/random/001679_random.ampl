@@ -1,0 +1,1 @@
+program U91 : U : takes q, UM, Qh, T7, K, X : integer; cU7 : boolean array returns nothing let YI = 0 end z : takes Or : boolean returns nothing i : integer; input Z; when case 5 = 80 : input y01; pop end otherwise : pop end end N9 : takes Vg0aa, CIna : boolean array; p : boolean returns integer chillax end main : q39aa, Ka, RdT, u0m : boolean array; chillax end

@@ -1,0 +1,1 @@
+program g7x0 : main : q0 : integer array; o, G4J0 : boolean array; G : integer; b : boolean array; B0gaa, S48aa, HM30 : boolean array; Z3, uZ9 : boolean; do rZV0(50300 * (08) - false and c and 15700 <= not true) end

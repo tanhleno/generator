@@ -1,0 +1,1 @@
+program UL : g : takes L, V, yTpa : boolean array; I2j, D : integer returns integer array chillax end main : let So[- 02 + (50) + true and 29 or 35500] = g6[4] * false and 4; input u7[- T or true and 3 - 9] end

@@ -1,0 +1,1 @@
+program R7 : main : cc : integer; do U(- 800 + 5 * 86, - not false - true or 6280 >= false and 2, true or 5 - 59 <= 92900, - 94 < 4); do D7(- z3(21) and(4), - (56) /= - 7 - 4, 1 >= 15, 582, 00300, 1); output "" . 1 = 1730 . "" end

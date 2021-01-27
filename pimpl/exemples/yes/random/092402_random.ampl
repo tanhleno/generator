@@ -1,0 +1,1 @@
+program C : main : output - true >= vb and 915 - 4 - 6 . - (96800) and 2 - 5 /= 7990 - 8; while - false - (1) and 6 : chillax end; while - (31300) or 1 - 714 : input iw80; input BpX end; while - 8 - 556 <= 0 : chillax end; input C9 end

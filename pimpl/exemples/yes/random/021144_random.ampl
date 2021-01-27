@@ -1,0 +1,1 @@
+program cxK : q4 : takes xn8, a : boolean array returns boolean q : boolean; pop end g : takes w310, O0 : integer array; S : boolean; T : integer; i4, T2 : boolean array; MF : boolean returns nothing H, Zzo, o8h0, R : integer array; y : boolean array; chillax end main : f810, GG, P : boolean array; chillax end

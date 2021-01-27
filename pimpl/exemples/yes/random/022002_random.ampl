@@ -1,0 +1,1 @@
+program P3 : jz : takes CT2, X490 : boolean array returns nothing chillax end main : k48aa, t5 : integer; pop - true rem 6 and 2 + true < d and 4 + 5 - 3; when case false > - us + 08 - 1 : chillax end end

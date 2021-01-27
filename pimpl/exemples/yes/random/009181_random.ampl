@@ -1,0 +1,1 @@
+program e : K90 : takes I, z, L8 : boolean; G : boolean returns integer mV, a, A : boolean; c : boolean array; pop; output "" end main : D7, O : integer array; n, u3ra, RJ : boolean array; j, uR : integer; input GW; while(0) + false and 3480 : input hS[0] end end

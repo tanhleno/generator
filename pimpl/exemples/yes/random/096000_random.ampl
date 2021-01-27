@@ -1,0 +1,1 @@
+program c : main : when case - D8 * not not 68 or true <= V8c0 * 88 : while 5 : output "\"" end; let y6[042] = 1 end case - true or(0) and 0 or 1810 = true : chillax end case - 09 and 277 : while 3 : chillax end; input X end otherwise : chillax end; while - 9 = (67) and 99 + 7 - 1 : chillax end; do V(Z and 41 or 57 - 00); output "/\t\"" . 95800 . 12 . "" end

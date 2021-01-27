@@ -1,0 +1,1 @@
+program ra0 : o1K : takes O : integer returns nothing Eh0aa : integer; when case 2 and 92500 - 513 : chillax end otherwise : chillax end end J2 : takes d : boolean array; u : integer; j0, P7e0, b : boolean array; h : boolean returns boolean Y : boolean; p59a, r1 : integer; c, E : boolean; chillax end main : k7K : integer; chillax end

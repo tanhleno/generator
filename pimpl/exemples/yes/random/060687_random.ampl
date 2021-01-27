@@ -1,0 +1,1 @@
+program r8 : n51aa : takes U : integer array returns nothing D, G : integer array; when case N and 2 or 8 > 8760 : chillax end; do j(12600, 390 = 7) end _ : takes N : integer array; c, n, v : integer returns nothing C : integer; chillax end main : g3 : integer; while D30[9] and false - false * false /= - true - (9) and 61 - 883 : output 9 . 0 end end

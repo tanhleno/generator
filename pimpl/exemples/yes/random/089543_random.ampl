@@ -1,0 +1,1 @@
+program VH0 : main : let s = - dE(91) rem not 88 and 80100 + (9); while - true * true or false and 5 or 41 - 3 : when case 01600 = 65 : output "B" end case 090 : pop end; when case 99 : chillax end case 23800 : chillax end; pop; input fe7 end; do v9V(u - 4320); output 1 = 2170; input G end

@@ -1,0 +1,1 @@
+program v : c : takes f90 : integer array returns integer array chillax end main : g : boolean array; L : integer array; X, k, A : integer; Q, j, Q, S2 : integer; Mb, K : boolean array; output "6"; while H6Ka[858] or false : input O[3] end end

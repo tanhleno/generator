@@ -1,0 +1,1 @@
+program Td : J : takes M8, j1 : integer array; D7 : integer array; d, c960a, G : boolean returns nothing Z : integer array; output "B\\" . "i"; pop 84 = 86; pop; output 55 . ""; input O7; while 1 : chillax end; pop end main : input M[W(6, 8) rem false * false and 07 or l] end

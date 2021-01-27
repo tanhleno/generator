@@ -1,0 +1,1 @@
+program J : x : takes v : boolean returns integer array j : integer; R, V, a : integer array; RX : boolean; input Lobaa[- (751) or 3]; input K; while 80 : do L(8); pop end end uR : takes y75, n : boolean; p, z, j : integer returns integer input OZK0 end main : input SH5[- false / true or not true and(2)] end

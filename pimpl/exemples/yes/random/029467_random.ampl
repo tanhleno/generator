@@ -1,0 +1,1 @@
+program LF2aa : uD : takes H, N9Waa : integer array returns boolean chillax end main : do v(- false rem false + (39) rem false and 3 or true and 8); do v(w and not 4 and 771 > - false and 217, - not 31); pop end

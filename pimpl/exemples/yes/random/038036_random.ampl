@@ -1,0 +1,1 @@
+program x : zMp : takes O43 : boolean array; ql, F, b : boolean array; s : boolean; U, M, ya5a : boolean array returns nothing QV, A, W : boolean array; s470a : integer; E : integer; chillax end L : takes OB5aa : integer returns nothing X : boolean; chillax end main : let X = - S88 - (76) and 3; do mh9(not(024) or false and 44, not 15 and 79100) end

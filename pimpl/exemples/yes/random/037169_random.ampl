@@ -1,0 +1,1 @@
+program hU5 : qhZa : takes h : boolean; l : integer returns boolean array chillax end K : takes k, J : boolean array; k53, c, W, S2, f, X : integer; d : boolean returns nothing e : integer array; input T9ga[- 5 - 0] end main : y5fa, v9Waa : boolean array; chillax end

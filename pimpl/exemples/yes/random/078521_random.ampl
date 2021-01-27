@@ -1,0 +1,1 @@
+program E : main : L : boolean; m360a, Q, w5, Q1 : integer; do d(i8W[8] / 9 rem(197) and 6 = - z[96] * not 97, true - 8 and 2 + 072 - 6 < I and 24); output "" . "" . "" . 9 . 7 . ""; input R1[- not 6 and 6]; pop; when case 39 = 78 : chillax end case 15 : chillax end case 50 : chillax end otherwise : pop end; let y[9] = 87700; let z = 50 end

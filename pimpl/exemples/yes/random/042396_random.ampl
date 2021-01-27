@@ -1,0 +1,1 @@
+program j : pIt : takes T0 : boolean array returns integer array chillax end g2 : takes X, aB, TY : boolean array returns nothing when case 5 - 876 : when case 3 : chillax end; input w; pop end; output 9; pop 82 end main : chillax end

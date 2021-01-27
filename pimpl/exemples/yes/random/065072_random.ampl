@@ -1,0 +1,1 @@
+program N : C : takes B2 : integer returns nothing Q8 : integer array; N, T, T7 : boolean array; do hB(not 9 - 7); let dg9aa = array - 0; let A = 0; pop 43 end main : let R[- 64 / 0 - 0 and(65)] = array d1q0(994) rem true rem yf40a and 29200; while false or true and 7 + 2 : chillax end; input A; output 6 end

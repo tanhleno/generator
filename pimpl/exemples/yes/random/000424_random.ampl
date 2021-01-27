@@ -1,0 +1,1 @@
+program s : K : takes R, om, J, f6, v, jl, p, D : integer array; KH70a : integer array returns integer array output - 2 - 2 end NfR : takes D1, st : integer array; q950a, gC, Gp, C, W : integer; I : boolean returns nothing chillax end main : aX : integer array; T7, a, T, Y, p1 : integer; M : integer array; chillax end

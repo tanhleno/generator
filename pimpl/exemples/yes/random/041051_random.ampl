@@ -1,0 +1,1 @@
+program D9 : H5Wa : takes K2 : boolean array; L : integer array returns integer chillax end m : takes D9X, G : integer array returns nothing A7 : integer; sD, b8E0, h : boolean array; E1na, AvWa : boolean; output "'1"; do p7(9 = 629, 0, 95); let u0[441] = array 3 end main : do t(53 - false rem false and 25 + c2 - 2 > (61)) end

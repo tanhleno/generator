@@ -1,0 +1,1 @@
+program s : L : takes Y4c : boolean array; X, b : boolean; _T, O, vZ30, e8, i9Pa : integer array returns integer l2 : boolean; wC : integer; N45, M, Zo1 : boolean array; chillax end main : input p[- not(8)]; when case - true > - (1) and 56 - 4 : chillax end otherwise : while 1 : chillax end; do j(58); input m; pop end end

@@ -1,0 +1,1 @@
+program R : main : while - 60 rem not true rem 5 or false rem true = not false and not 0 and 19 or false and 3 : let D[8 - 0] = array - 9; output "0\"a" . 3 . "" end; let xh[false] = not 5 > - 61 end

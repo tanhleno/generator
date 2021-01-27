@@ -1,0 +1,1 @@
+program q7j : s1 : takes iuHaa : boolean; IW7a, zf00 : integer array returns boolean array L : boolean; yfk : integer; chillax end main : b, M, C, ge : boolean; do a1(- VcG[7] / (2) and false and 349, false + true and 5 - 4 - 6, true, 01); pop false = 5 - 71 end

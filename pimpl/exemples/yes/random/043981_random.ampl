@@ -1,0 +1,1 @@
+program H2 : P : takes wdSa : boolean array returns nothing RP, _, g, Oy, h : integer array; output "6-!a" end R6X0a : takes DZ : integer array returns integer array let EUE0a = array 1 end ar : takes b6, f0, V : integer returns nothing input Cjb0; pop 79 end main : R : boolean; N, Z : integer array; chillax end

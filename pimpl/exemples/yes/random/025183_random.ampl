@@ -1,0 +1,1 @@
+program F : _ : takes I, d0V : integer; M60aa, y19aa, i : boolean; H : integer; s : boolean array; k, K1 : boolean returns integer array M4 : integer; i7 : boolean array; do d(- false, 832 /= 88, 97200 = 35, 82) end main : f590a : integer array; z, Sy1a, T1 : boolean; chillax end

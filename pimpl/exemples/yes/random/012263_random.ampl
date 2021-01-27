@@ -1,0 +1,1 @@
+program qH : x : takes I9, d, a : boolean returns nothing K, N : integer; chillax end u : takes w8, K : boolean array returns boolean array chillax end main : R, Ry0a, cY : integer array; input n[- false]; pop false and 71 >= 55800; while 63 or 3 : chillax end; output "" . ""; while 2 = 69 : do M1p(51) end end

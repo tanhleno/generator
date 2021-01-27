@@ -1,0 +1,1 @@
+program y470a : B : takes mQx0, f, yg : integer; e, r, k7V0 : integer; K, m : boolean; p73, j, d0 : integer array; q, WVza : integer array; S : integer returns boolean T : boolean array; S : integer; X : integer array; chillax end main : chillax end

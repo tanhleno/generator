@@ -1,0 +1,1 @@
+program kl : main : O : boolean array; OK, N : boolean array; MM9, nV00a : integer array; hF, t12a, j60 : integer array; pop; do yK60a(not not 64 - true and 0 + 80 - 75600); input Hd; output "\\" . 90; do Vt6(5 = 3380); do K(6, 8) end

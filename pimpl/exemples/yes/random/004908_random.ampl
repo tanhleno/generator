@@ -1,0 +1,1 @@
+program SQY0 : y : takes Id, Y, _2D, d : boolean array; O, iO : boolean array returns nothing D90, Z, C08a : integer; bqx : integer; QN : boolean; chillax end main : J, D9ga, a : boolean array; sJF, j3oa, fQ5, G : boolean array; do b(- false - false - f and 083) end

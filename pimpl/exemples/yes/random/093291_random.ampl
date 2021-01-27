@@ -1,0 +1,1 @@
+program z2 : main : output "g%" . ")%"; when case not true * true < v - 1350 : chillax end case dFi or 7 - 6 > 020 - 27400 : chillax end case - 346 > 1 : output "6"; when case 38 : chillax end end case 8 : chillax end case 4270 : pop end; do LP6(false and 2210 - 8 - 54 < 6, 21800 - 45 <= 38) end

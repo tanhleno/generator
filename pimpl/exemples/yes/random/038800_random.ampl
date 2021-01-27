@@ -1,0 +1,1 @@
+program wE : TV0 : takes I78a : boolean array; A, s940 : boolean array returns nothing v, o, T0Ua : boolean; kV, c, k2_a, j8 : boolean array; q9l0a : integer array; do Vn(- K9 and 8, - 9); pop 0; input Y end main : v4, oX : integer; pop; while(6) and(7) : chillax end; output 5 end

@@ -1,0 +1,1 @@
+program j1 : main : while false * true and 0 <= - l(486) : let x = 857 end; when case 56700 * 60 and 080 = true or 3 - 73 : chillax end case p6 and 50 /= - 302 - 1 : chillax end otherwise : output "" . "I70a" end end

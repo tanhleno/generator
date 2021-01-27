@@ -1,0 +1,1 @@
+program s : main : c5_aa : integer array; when case n[33] : input Y5; output "" end case - 9 > not 52 and 2 or 5 - 3 : output "&" . "" . "" end case FT <= - 2 : chillax end otherwise : chillax end; while - not(13) : output 4 . "" . "!,0a" end end

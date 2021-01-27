@@ -1,0 +1,1 @@
+program x : N : takes z, d : integer returns boolean array r2 : boolean array; when case not 5730 + 825 <= - 83 : chillax end otherwise : let y = 6; when case 8 : chillax end end; when case 7 <= 375 : chillax end end main : let mz8[- true - 247 or i3 + 8 - 520] = array 5930 end

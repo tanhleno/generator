@@ -1,0 +1,1 @@
+program J4g0a : k : takes U, J : integer returns integer let P[false and 5] = 9 end main : p9C0, j12 : boolean; x, T0 : boolean array; pop - true / z or not 78 or 0120 = - by or 3 - 1; input n7[- false and F] end

@@ -1,0 +1,1 @@
+program p5E0a : y : takes m, x7z0a : boolean array; q, cm : integer; U : integer array returns integer array O, O_, _u90, T : boolean array; chillax end main : pop not not 5 * not 102 and 960 or Vl2 and 81 - 36 - 38 end

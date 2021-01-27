@@ -1,0 +1,1 @@
+program yj : m1 : takes r, y : boolean array returns boolean array chillax end E : takes Ea : boolean; ydY, T, g : integer array returns boolean array voD0a, U : integer array; pop; when case 263 : input GG end otherwise : chillax end; let fU[02600] = array 3730 end main : output - _6[1] . ""; input v end

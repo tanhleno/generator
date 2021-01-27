@@ -1,0 +1,1 @@
+program r4 : main : I : integer array; v6Q, E, c : integer array; h, Et : integer array; _ : integer array; k : boolean; L, NQ : boolean; H760 : boolean; UvS : boolean; do BuI(- not not(29000)); do n99(not true - false = YE, true or 39 >= - 11 - 5, 9 /= 0, 349 = 9) end

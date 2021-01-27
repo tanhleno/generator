@@ -1,0 +1,1 @@
+program s : main : when case - Y2Caa(32, 25) <= (52) : chillax end case - MDl0a[1] * 291 > 0 and 36 : while 2 = 92 : when case 5 : chillax end end end case true - 9 - 92 > 08 - 24 : chillax end case 57 - 98300 >= 1 : chillax end otherwise : output "\"" . 69 end end

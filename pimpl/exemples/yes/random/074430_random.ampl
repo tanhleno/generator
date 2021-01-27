@@ -1,0 +1,1 @@
+program F3naa : main : wE30, i : boolean; while - r[8] * false rem false and 3 : pop; input q; input AF; when case 6940 : chillax end; output ""; pop end; pop; while - (4) and 54 - 6730 : chillax end end

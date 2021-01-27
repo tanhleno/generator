@@ -1,0 +1,1 @@
+program N : main : when case false / false - false rem false + true - 0 = - not e0Y and not 37 and 06800 + (7) : chillax end case - (9) >= - 2 and 6 - 7 : chillax end otherwise : pop; input o end end

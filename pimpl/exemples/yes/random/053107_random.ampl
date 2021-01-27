@@ -1,0 +1,1 @@
+program k2 : d : takes q : integer; o : integer returns boolean array chillax end c : takes lb : integer array returns boolean pop; while 4 = 25700 : chillax end; let Vg0 = 202 end main : h2 : boolean; when case f(3, 3) < - nY(7) * 3 and 5 : chillax end case not 2 <= 2 and 58 + 94 : chillax end otherwise : chillax end end

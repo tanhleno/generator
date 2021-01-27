@@ -1,0 +1,1 @@
+program f3 : P : takes e6 : boolean array; Evy : integer array; V, x, f6 : boolean returns nothing S : integer; when case Gg7aa - 807 - 04 : do g(44, 1); when case 4 : chillax end; do ru(06); pop end otherwise : do b(9); when case 5930 : chillax end end end main : chillax end

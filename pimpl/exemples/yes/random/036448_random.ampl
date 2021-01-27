@@ -1,0 +1,1 @@
+program w4c0a : Y : takes s : boolean; W : integer; I0S, OEo : boolean; w8 : integer array returns nothing chillax end dp6a : takes R290 : integer array returns nothing when case - 144 - 6 : let Yp = 1 end otherwise : chillax end end E : takes J, e1 : integer returns integer m, cf8 : boolean array; chillax end main : input DiA0a[dK8 rem true + k8 rem(8)]; input I end

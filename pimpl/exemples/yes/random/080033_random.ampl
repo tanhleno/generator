@@ -1,0 +1,1 @@
+program u : main : HQT : boolean; let X87[- 7270 * false / not 9 and 9 + (62) rem false + (2) and 0890 + 59 - 0] = array true; output(6) . 1 - 012 >= 16 . 2 = 81; do N(- (79) and 6 + 74 = - 2 - 6, - 3 - 4 < 2) end

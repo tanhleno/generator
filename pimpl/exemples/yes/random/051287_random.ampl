@@ -1,0 +1,1 @@
+program w : Wpt : takes k250 : integer; z, J32a : integer returns nothing let N = 6 - 61 end Pyz : takes xy, N : boolean returns integer array Z, y : boolean array; l : boolean; w, s : boolean; output 0; when case 6660 : pop; pop end case 40 : pop end; input m[6530] end main : chillax end

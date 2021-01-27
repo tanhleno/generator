@@ -1,0 +1,1 @@
+program f65 : L : takes p, X : boolean returns boolean i : boolean array; F, m, wBN, Z : integer; while false and 1 : let CD = array 1 end end vz : takes e : boolean returns nothing M : integer; YPk : boolean array; input WA[- 9640]; do t(20, 3410, 237) end main : chillax end

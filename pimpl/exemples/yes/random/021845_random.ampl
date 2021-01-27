@@ -1,0 +1,1 @@
+program a : a7 : takes lEJ, P : boolean array returns nothing chillax end _ : takes r, K7 : boolean; Rf4aa, H9u : boolean array returns integer Z : boolean array; chillax end main : S, J : integer array; O : boolean; let l[- false / false] = array not(1) rem 9910 or false + false or 95 end

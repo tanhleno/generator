@@ -1,0 +1,1 @@
+program h : U2H0 : takes E : boolean array; C9 : boolean array; yge : integer array; Q, o, b : integer array; C : integer; A, q9 : boolean; Xu, ro : boolean; I35 : boolean; J : boolean returns nothing chillax end main : when case true * Jc3aa[6] = - 58 : chillax end end

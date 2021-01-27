@@ -1,0 +1,1 @@
+program f7 : a : takes z : boolean returns nothing input c200a[true + 36 - 6] end tZ3a : takes z : integer returns nothing do _(1 - 0 > 07, 2, 73300) end c : takes e4, I, m6 : boolean array; q : integer returns integer L, M, G5h : boolean array; while 4 = 81800 : chillax end; let aC[0570] = array 4; output ""; while 3 : chillax end; pop end main : input h0d[- vwP0[7] + false] end

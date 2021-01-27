@@ -1,0 +1,1 @@
+program S : F4 : takes vyT, h81a, E : boolean array; q, Z, B : integer; Jg : boolean array returns integer L : integer array; Mv1 : boolean; E : integer; l : boolean; chillax end main : k3, h : boolean; u11aa : boolean; chillax end

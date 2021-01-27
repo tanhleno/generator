@@ -1,0 +1,1 @@
+program g : main : let u = (2960); let bkg[4] = (2) > 5; when case W and 5 or 9250 >= 23 : chillax end case - 2 - 1 : let I3v = 460; when case 6 : chillax end; pop end otherwise : while 750 : chillax end; output "2e!" end; let zY = array - 63400; input m; output 2690 end

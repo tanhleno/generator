@@ -1,0 +1,1 @@
+program tw : C : takes A : integer array returns nothing h09 : boolean array; chillax end k : takes Ce, J, C, P : boolean array returns nothing h : boolean array; do V(- 2, 9390 = 398); let n[5] = array 070; input NG[0]; let A = 8 end J : takes a80a : integer array; D2 : boolean returns boolean array chillax end main : j : integer; chillax end

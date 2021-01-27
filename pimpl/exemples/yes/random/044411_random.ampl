@@ -1,0 +1,1 @@
+program n : m : takes Y : boolean array returns nothing w, t : integer array; when case ZY and 4 : output 48; output "F\""; do W(8); pop end otherwise : when case 68 : chillax end; pop end; pop; do pap(92) end main : S260 : integer array; f12aa : boolean; output "" end

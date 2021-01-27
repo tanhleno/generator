@@ -1,0 +1,1 @@
+program M80 : A : takes X7Caa : integer array; o7 : boolean array returns nothing I7, B, L, g45, P : boolean; while - not 2150 < - 1 : chillax end end main : input WA; when case false >= q2 and 59 : pop; output 2 . "N"; when case 3 : chillax end end end

@@ -1,0 +1,1 @@
+program o0 : Z4U : takes tU, l, Y2 : boolean array; PPW, y, Q2x0 : integer returns nothing e : integer; x : integer array; U1, tb, ca70a : boolean; ZW : boolean; O : boolean; X : boolean; chillax end main : do p(- false * false and not 45 = false); pop false and 9 < 5 end

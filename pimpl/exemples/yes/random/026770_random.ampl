@@ -1,0 +1,1 @@
+program c : p : takes L6, DgY0 : integer; L4 : integer array returns integer array chillax end J : takes h : integer array returns nothing h, U5ba : boolean; W : integer; D : boolean; let GQP0a = 3 = 0410 end main : let G2 = array false * 6 rem not 13 + (5) * (4) and 06700 - false - 0 - 895; do w(- false rem not 947); input Rw; do FZ(- 9940 - 50 >= 0, 11 = 34) end

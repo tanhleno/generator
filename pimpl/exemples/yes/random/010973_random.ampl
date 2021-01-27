@@ -1,0 +1,1 @@
+program j : G12 : takes T, J, x : boolean array returns integer EG : boolean array; UA50 : integer array; t : boolean; Nm : boolean; cw1aa : boolean; output "1" . 9 = 34; output "" . 8; while 4 = 7 : pop end; pop 4 end B : takes e : integer returns nothing chillax end main : output not true >= 5; output - true or 5 = - 66 - 302 end

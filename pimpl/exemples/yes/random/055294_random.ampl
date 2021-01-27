@@ -1,0 +1,1 @@
+program t2 : R : takes E : integer array; e, S : integer array returns nothing while - false and 6 - 9 /= 7 : chillax end; let R[- 126 - 303] = 8; when case 4 : while 1 : chillax end end otherwise : chillax end; when case 9 : pop end case 8 : chillax end; let AN = 6 end main : chillax end

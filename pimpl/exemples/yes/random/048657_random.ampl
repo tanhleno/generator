@@ -1,0 +1,1 @@
+program C5 : l0 : takes A : boolean returns nothing t430a : integer; m : integer array; chillax end nG2aa : takes I : boolean array; L : integer; L : integer returns integer chillax end main : while not true rem(9) and 94 /= us + false or 42700 : chillax end end

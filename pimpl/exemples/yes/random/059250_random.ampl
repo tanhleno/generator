@@ -1,0 +1,1 @@
+program J3s : r : takes B3 : integer array returns integer D, Y, n5, f6 : integer array; Q0 : boolean array; AN, e8 : integer array; sVS0a : boolean; m : boolean; a : boolean; let It = array - not 73 and 55 + 3300; when case - 241 : chillax end case 5290 : chillax end case 9 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program m : main : input M; output ""; when case not 68400 and 7 - 2 = 4 : output ""; when case 77000 : chillax end end otherwise : chillax end; pop 6 = 5; output "&&"; do v(1, 7); input h9Eaa; output ""; pop end

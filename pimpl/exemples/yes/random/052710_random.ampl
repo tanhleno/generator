@@ -1,0 +1,1 @@
+program H : Td : takes r : integer; WpO : integer array; z, n : integer array; G, W : boolean array returns nothing input Qm50 end B3 : takes Qn7 : integer array returns boolean when case 02 >= 102 : while 61 : chillax end; let FSi = 299 end end main : do Z(not 2 = false and P and 9 + u and 28, true rem false and 0) end

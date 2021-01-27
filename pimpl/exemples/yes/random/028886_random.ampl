@@ -1,0 +1,1 @@
+program dn : d : takes S, WH : integer array; E8za : integer array; aI : boolean returns boolean W, A : boolean; i44a, W7, s1 : boolean array; pop end main : kk, B : boolean array; do Y(not A); output ""; input _32; pop 5; input e; input l0 end

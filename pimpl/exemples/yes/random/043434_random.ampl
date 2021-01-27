@@ -1,0 +1,1 @@
+program a98 : g5Caa : takes x : boolean array returns nothing chillax end s : takes X, D, Z, T_ : integer returns nothing chillax end MO : takes C8Paa : integer array returns nothing Gz2 : boolean; chillax end main : g, GV5a, i, no1, B0B : integer array; chillax end

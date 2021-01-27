@@ -1,0 +1,1 @@
+program JP6 : main : Q8l0 : boolean array; r : boolean array; h12, d : integer array; pop - (0) + (03) and 5 + 77100; while - not 9 * false and 9 > false and 9 - 069 : do Hj9(63 = 9770); pop 1; when case 336 : chillax end end; while - fc and 1 : chillax end; pop; when case 8 : chillax end; when case 2 : pop end end

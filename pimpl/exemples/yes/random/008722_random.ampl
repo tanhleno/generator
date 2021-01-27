@@ -1,0 +1,1 @@
+program P : D : takes nJjaa, w, SK : boolean; Kq, M5x : boolean array; Op, r, w : boolean; G3, q3, P : integer array; j, r5, c, _6 : boolean; a : boolean array returns boolean array chillax end main : pop end

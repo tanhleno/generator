@@ -1,0 +1,1 @@
+program cn : H : takes Z7Waa : boolean array; v2, o8t0a, xNn, B : integer array; _ : boolean array; Q2, H : boolean; Um0 : boolean array; E6l0a, U : boolean; P : boolean; b4 : boolean returns nothing chillax end main : _ : integer array; do ap60(- true, - not 9); pop - not 6 and 8 or 3 - 96 /= 74500 - 945 end

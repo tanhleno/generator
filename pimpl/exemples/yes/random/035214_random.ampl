@@ -1,0 +1,1 @@
+program e : D : takes T0 : boolean; Lf3, L44 : integer returns integer chillax end main : m : boolean; when case - not 7 and false * false - false and 1 and 3410 + 05300 and 52000 - 2 < 2 : do tP(- 6 - 45, 6 = 5, 3, 52); output "" end; do O(- false * (640) and 57 + not 3270 + 0 <= - 8, false > - 0); do a(- not 04 and 597 or 008 - 957, 64 - 41) end

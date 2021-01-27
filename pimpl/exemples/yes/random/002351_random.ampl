@@ -1,0 +1,1 @@
+program iUv0 : c : takes z0, kX8aa, A2, T90a, b0 : boolean; c74 : integer array returns nothing wzZ0a, BP00a : boolean array; do sVc0a(- MQ) end main : while 55300 / 2 + (4) + true : let B = 7 = 3; output "" . "?" . ""; do T250a(9, 890) end end

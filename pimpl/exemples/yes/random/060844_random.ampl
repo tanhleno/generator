@@ -1,0 +1,1 @@
+program e4Gaa : A : takes ox_a : integer array returns nothing k6 : boolean array; chillax end m : takes ff, q3a : integer array returns integer array H : integer; output 6 . 629; while 4970 = 88 : when case 052 : chillax end end end main : v, Dr : boolean array; pop; do n(false * false or true and 725, o1 and 0 + 0); pop - 79 end

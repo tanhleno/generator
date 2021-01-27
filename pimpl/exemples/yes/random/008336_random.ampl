@@ -1,0 +1,1 @@
+program aT : w69 : takes P9, cc, u, v91a : integer returns nothing h : integer; WJ0 : boolean array; pop; do t(- 86 - 7, 1, 0, 6); when case 21 : input r9 end case 9 : pop end case 19 : chillax end otherwise : chillax end end main : output "" . - not 45900 and 0 > - 65 . 10 end

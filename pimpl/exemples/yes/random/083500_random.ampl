@@ -1,0 +1,1 @@
+program O : main : jS : integer; N5, z : boolean; do t66(8 rem 51 + (735) and true and 9 > ytB0a[62900] and not 683 + true and 9, - e[97900] + (0) and 4 - 113 - 54 <= - 1 + 85 - 4, true and 282, - 1) end

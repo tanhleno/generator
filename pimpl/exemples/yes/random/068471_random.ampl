@@ -1,0 +1,1 @@
+program pF : main : K, S, K12, X, c, Q4 : boolean array; when case true / 43 <= - not true + O : chillax end case 98 / S and 6 - Pu and 7 : output "2" . 9; do T(06000); input J; let t = 65200; pop end end

@@ -1,0 +1,1 @@
+program F5 : _1 : takes U : boolean; V : integer array returns boolean array t5w : integer; z5Baa : integer array; input V[qA]; do z(- 12 - 5470, 81, 1, 96) end main : V3 : boolean; Y1, C : boolean; znLaa, X6j, d : integer array; T : boolean array; input N end

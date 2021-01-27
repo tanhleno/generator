@@ -1,0 +1,1 @@
+program S : U6 : takes r0 : integer array returns integer chillax end CZ : takes v, Y9, Db : integer returns nothing output 44; do Z(1 = 4); pop; pop; let z = 2 end main : R5F0 : boolean array; U, QK, So3 : integer; k : boolean array; S3Aa, a1G0, Ie : boolean; chillax end

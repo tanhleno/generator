@@ -1,0 +1,1 @@
+program U8 : main : Z : integer array; pop - true and true and 89; when case - 28 : do F(1, 5, 8) end case - false : chillax end case 99 < 7 : let y6 = 39500; pop; pop end; while(286) and 90400 - 3 - 6 : chillax end; let f = 91 = 0; output "+%\"a" . 2 . "CU0a" end

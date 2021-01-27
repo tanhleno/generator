@@ -1,0 +1,1 @@
+program w44 : GBE0 : takes X : integer array; u : integer returns nothing input O[- Fhr + 315 - 62]; pop; pop end main : T, hr, t : boolean; q, c28, M, z : integer; t0R0a, U : integer array; x, r, o : integer array; let F = array - (564 = 5) or M and true + not 63 - 4 - 06; input S[false] end

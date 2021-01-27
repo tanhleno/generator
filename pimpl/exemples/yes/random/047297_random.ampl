@@ -1,0 +1,1 @@
+program h : FF : takes L : boolean returns integer output 10; while - 30 - 06 : chillax end; pop 83500; let X5 = 9 end main : Z, i : integer array; let s42[- true and not false] = array 865 and(48) / (5) and 217 - (546) end

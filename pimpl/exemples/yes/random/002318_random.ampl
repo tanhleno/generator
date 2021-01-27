@@ -1,0 +1,1 @@
+program u : l0y0a : takes p5, QG2, B5e, J, O : boolean; Jp : integer array; J2, ta60a, K800 : integer returns nothing F, J940, t : boolean array; J, f970, b, F5 : boolean array; chillax end zJ_aa : takes fI, I : boolean; A6x : integer array returns integer array do Vb(0 - 3 = 75, 4 = 9); output "\n\naa"; let xs[02] = 2; pop end main : chillax end

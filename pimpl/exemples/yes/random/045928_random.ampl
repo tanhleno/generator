@@ -1,0 +1,1 @@
+program I : Wo00a : takes s110 : boolean returns boolean chillax end X : takes L : boolean; G, U, hr3 : integer array; I : integer array returns nothing j : boolean array; chillax end main : pop - false - T - 6; input O4[H2L(934) * false and 78]; do _(- 872 and 9800, 2 - 7); when case 645 < 98000 : chillax end case 7 : chillax end case 492 : pop end end

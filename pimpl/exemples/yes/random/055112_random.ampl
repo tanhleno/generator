@@ -1,0 +1,1 @@
+program V : _ : takes m4 : integer array; K270a, H : integer array; i6G0a : boolean; K4Q0, nM : integer; qz, b : boolean returns boolean array chillax end kt : takes M, N : boolean array; E, W0, l4, Pn : boolean returns boolean array Y, L : boolean array; pop end main : when case(5 = 64) or true rem false and 7 - L - 8 : chillax end end

@@ -1,0 +1,1 @@
+program N : main : pop(0220); when case not false / XOS0a and 9 <= - false and 0 : chillax end case N and 4190 : chillax end case 8 >= 06 : chillax end otherwise : let e[9] = array 6; output "\"p" end end

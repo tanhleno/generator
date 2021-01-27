@@ -1,0 +1,1 @@
+program j : M0 : takes H : integer array; y, Tf6 : boolean; I50 : boolean returns nothing chillax end b : takes X : boolean; H83, AM, i, PE, k : integer; y : boolean returns nothing _, Mh : boolean; do D0(- 113, 1, 86); when case 76 = 06100 : input n end case 03100 : pop end; do o(1, 9) end main : chillax end

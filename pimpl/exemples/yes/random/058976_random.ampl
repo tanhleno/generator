@@ -1,0 +1,1 @@
+program p22 : C5 : takes wf5 : integer array returns integer array input t end O : takes C4, W920a, s, I : integer; u : boolean array; R : integer array; A9p0a : integer; Q : boolean array returns nothing output "2" . 8330; pop end main : chillax end

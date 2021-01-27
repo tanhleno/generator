@@ -1,0 +1,1 @@
+program Z : Py : takes a, msj : boolean array; d4_ : boolean array; E, y07 : integer array returns nothing T : integer; while 86 and 4 : do If(9); when case 4 : chillax end end; while - 4 - 65 = 6170 : chillax end end main : z09 : integer; chillax end

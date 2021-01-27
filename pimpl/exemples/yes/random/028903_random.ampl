@@ -1,0 +1,1 @@
+program Y7W : Y8 : takes Q1, G : integer array; K : integer array; D : integer array; g9z : boolean array; Z, gh : integer array; iZ2 : integer returns boolean array while - b and 3 or 5 : while 75 : pop end; let L = 4 end end main : chillax end

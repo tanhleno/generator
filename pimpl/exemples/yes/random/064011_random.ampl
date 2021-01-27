@@ -1,0 +1,1 @@
+program IT : Bt2 : takes S : integer returns nothing chillax end main : Y : integer array; when case - (4760) * 2 or not not 7 rem(0) and 6340 < - (91) + w or 184 : chillax end otherwise : chillax end; do p6(Z(1) + not 1 and 29 > - false and 2); let h = 61 >= 180 end

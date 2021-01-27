@@ -1,0 +1,1 @@
+program t : J : takes Qq3 : integer; Z : integer; Y, a6Laa, _, V : boolean array; e : integer; T, q, T6w : boolean returns boolean K, S, v4, I5, j4N : boolean; let H[7690 and 3 + 92] = - 3 <= 63500 end main : when case true and(8) : when case - 4 - 5 /= 3 : chillax end otherwise : do _(3) end end end

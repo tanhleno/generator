@@ -1,0 +1,1 @@
+program lK6 : Q : takes j9, m13 : boolean array; A4, hX : integer returns boolean array chillax end main : do B1J0a(true); while - 915 < - false or 9 : pop end; when case true + 83200 - 63 < - 7 - 46 : input kRZ[727] end otherwise : chillax end end

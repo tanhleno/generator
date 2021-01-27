@@ -1,0 +1,1 @@
+program U : Z : takes O, z : integer array; S, u : boolean array returns integer let m = 71 - 07; let n150a = 23 end q : takes cx, xu : integer returns boolean array pop 627; when case 0830 = 22 : do m(0490) end otherwise : chillax end end main : chillax end

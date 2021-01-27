@@ -1,0 +1,1 @@
+program P8 : n : takes O5i : boolean array returns nothing b8ca : integer; U, c71 : integer array; chillax end main : h : integer array; YC90a : boolean; let p[- true] = true and true; while false / not 8 + not 8 and 42 or 6 - 41 /= - false : chillax end end

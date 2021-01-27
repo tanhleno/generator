@@ -1,0 +1,1 @@
+program jfh : k : takes G2k0 : integer; J : integer array; V : boolean array; g, C9Gaa : integer array returns boolean array wri0 : integer array; while false and 3 > 303 : let FU[6870] = 5; output "" end end main : G9 : integer; chillax end

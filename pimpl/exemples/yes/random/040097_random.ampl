@@ -1,0 +1,1 @@
+program bk7 : Dj1a : takes y : boolean array; k : boolean array returns integer xJy, V : integer array; h, r : integer; chillax end main : K9 : boolean array; output 7 or true and 6 + 5 - 48900 <= not 390 and 4630 - 0 - 6 . "pu\"" end

@@ -1,0 +1,1 @@
+program o4s0 : main : q5, e1, r, t, v, NEJa : boolean; kL : integer array; T, N : boolean array; when case x[76300] - (92) /= 0 * 898 and 3 - 5 or 699 - 8 : input i86; input qib[3]; input m3[3]; do Hc2(9) end case - 7 * true and 1 < (8) and 8 : chillax end end

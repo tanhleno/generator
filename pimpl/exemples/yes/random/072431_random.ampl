@@ -1,0 +1,1 @@
+program Y : main : k0, bD4a, P : integer; let lNoa[- true and(810) or false rem 0 and 5 - not 05 and 80800 - 32] = array 7 / (1) - false rem true and 8; let W6[a3[3]] = array true rem true and 2 - true + 676 end

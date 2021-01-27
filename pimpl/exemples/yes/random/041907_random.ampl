@@ -1,0 +1,1 @@
+program l : Y : takes tJ : boolean array returns boolean array while - true and 238 < - 2 : when case 4 : pop end end end main : when case not a or(02) * (1) and 1 <= false * Z6 and 4 or false and 3 : chillax end otherwise : let KT40a[27] = 0 end end

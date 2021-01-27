@@ -1,0 +1,1 @@
+program z : Q7 : takes M08, F, UP : boolean returns integer n : integer array; chillax end F : takes G3 : boolean returns nothing input O[7 - 1] end main : q, k : boolean; Tr80a : boolean; chillax end

@@ -1,0 +1,1 @@
+program P5 : D8 : takes xZ : boolean array; vf : integer; F : integer array; lS, A, q : integer array; f30, d, O7, s : integer; U : integer; gn, B8m : boolean returns nothing q : integer; h, Aoya, r : integer; let x = array - 11 - 29 - 05 end main : x31aa, h8, X, gX, A, z, S : boolean; when case - 989 > (0170) and Q0 and 92 : output 39 end otherwise : chillax end end

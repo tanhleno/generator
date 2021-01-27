@@ -1,0 +1,1 @@
+program e : e : takes OB : integer array; w1, d : boolean array; R7haa : integer array returns nothing X : integer array; R, m1d : boolean array; b : boolean; while 6 - 4 - 14 : while 5 : pop end; output "" end end l74 : takes V, V : integer returns nothing chillax end main : S, h_ : integer array; chillax end

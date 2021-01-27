@@ -1,0 +1,1 @@
+program AV : main : T5v, Z : integer array; let y[3] = array - l(96) and false or false + O7; when case - B3(2) and false or e and 85 : chillax end case false : while 30400 : pop end; while 62 : chillax end; output ""; pop end case 7 - 7 > 94 : while 4 : chillax end; input H end; let g = array not 62 and 1 end

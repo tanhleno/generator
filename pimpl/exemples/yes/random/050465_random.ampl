@@ -1,0 +1,1 @@
+program Q : h4 : takes l : integer; k, j4 : boolean array; t, O : boolean array; Q0r, tU : boolean returns nothing when case false and 1 /= - 3 : let AfSaa[7] = array 34100 end otherwise : output ""; let P = 8; pop end end main : H : boolean array; chillax end

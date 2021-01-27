@@ -1,0 +1,1 @@
+program etwa : main : when case - true - not false rem true - true and 79500 or 4 - 3 > - (5) * not 1 and 8600 - true : while 343 > 009 : when case 8 : chillax end end; when case 713 = 88 : do b600(298); pop end case 90 : chillax end; let R7raa[246] = array 95; while 0 : chillax end; when case 426 : chillax end end end

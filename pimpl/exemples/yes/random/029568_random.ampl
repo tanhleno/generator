@@ -1,0 +1,1 @@
+program v3P : A : takes d, zR : integer array returns boolean N20a : boolean array; g, g5 : boolean; B5, x9, v : boolean array; C : boolean; chillax end x81 : takes g : boolean returns nothing F : boolean; while 1 - 6 /= 9 : when case 38900 : chillax end end end main : D, yh, n, BP, I, K99a : integer; c4, a : integer array; t9, zK : integer array; chillax end

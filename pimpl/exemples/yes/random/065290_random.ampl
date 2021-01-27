@@ -1,0 +1,1 @@
+program S8 : G_ : takes X : integer returns nothing let h[not 1] = 4 <= 68 end a : takes Nj00 : boolean; y0 : integer array; X55 : integer; i : integer; rJ : boolean array returns integer array Y : integer array; when case - 54400 - 07 : while 34 : chillax end end otherwise : output "" end end main : let p = array - 3 + true - false end

@@ -1,0 +1,1 @@
+program g : main : do F1(- false rem true or not true rem false >= 577 rem w5, 8 / (2200) and 50); input q[- (5) / E1b0 and 7]; while true - 9 < - 1290 : when case 1 : pop end otherwise : chillax end; input yB end; do Y(- 8 - 4 < 197) end

@@ -1,0 +1,1 @@
+program n3 : L7 : takes p : boolean; X, y4 : integer array returns nothing while 0 and 46 or 4 <= - 686 - 8 : chillax end end X : takes R, fY : boolean array returns nothing chillax end main : SS8a, p : integer array; R, Lv4 : integer; chillax end

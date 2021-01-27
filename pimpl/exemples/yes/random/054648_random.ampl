@@ -1,0 +1,1 @@
+program a : X380 : takes i : integer array; GQ, ke : boolean array returns boolean chillax end main : l, A : integer; while h3l0a rem false * true and 48 or r9u(635) >= - false - nlJ0a - 5 : pop 7 = 674; while 0 : chillax end; do F7(65, 1) end; let q[gO[0] / true and 27 - (6)] = array - (29) / not 52 and 78 - false; output "" end

@@ -1,0 +1,1 @@
+program rk : w0 : takes kP, H7K : integer; A2 : integer array returns nothing input t630a end main : do X6z(false < 9, not 4 and false, - 57 + 896 - 41500 <= - 0, - 543 /= 5, 4 = 47, 431); while - not false or true and 47 /= not 42500 : chillax end; output - 2; input wq; let n0 = array 2; let Y = array 6 end

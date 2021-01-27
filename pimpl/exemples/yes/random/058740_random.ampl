@@ -1,0 +1,1 @@
+program T : w : takes D7 : integer array returns integer array o, n, bp6a : boolean; chillax end _7 : takes C, _GW : integer array; ck_, R, Q6Vaa : boolean; p, i1, a : boolean array; Q : integer; A : boolean array; o8a0, R : boolean; l8 : boolean returns nothing L3yaa, fh, De : integer array; chillax end main : output 98 and 9890 < not 86100 end

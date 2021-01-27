@@ -1,0 +1,1 @@
+program sU : F : takes x : boolean array; U4, L, O, k, NL : boolean array; P : integer; t : integer; x, V, q : boolean array returns nothing K, Ls4 : integer; chillax end C2ua : takes p, W7 : boolean array returns nothing let E = array - 0 - 01; pop 73; pop; output "" end main : i, F_, D9, Z, y2 : integer array; lC1aa, H : integer array; input u8[114 / 1 and not 105] end

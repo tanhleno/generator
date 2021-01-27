@@ -1,0 +1,1 @@
+program Xtua : T : takes A : boolean; O : integer array; v, a : boolean array returns integer array input v3; pop end main : oclaa : boolean; U5n0a, W, j4p, zr8a : boolean array; pop; do qJy(not n5 + 5, - false) end

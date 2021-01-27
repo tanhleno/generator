@@ -1,0 +1,1 @@
+program H4 : W2x0 : takes z, p43aa : boolean returns integer chillax end main : g, P : integer; M : boolean; J4, Sx50a : boolean array; gyl0a : integer; T6, o, M : integer; when case(3 = 4) or V and true or false and 0 - 70 - 600 : chillax end; do q(not true rem not 2 > - px, false and 2); let SHc0a = 87 = 15; while 4 - 0 < 4 : chillax end end

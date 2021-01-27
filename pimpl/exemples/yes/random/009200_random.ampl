@@ -1,0 +1,1 @@
+program K : IK3 : takes u, u, o7 : boolean; ow8 : boolean returns nothing do I50(- (2) and 93 - 79800 - 8); pop 3; let U[8] = array 67600; when case 2 : chillax end case 1 : chillax end otherwise : chillax end end main : chillax end

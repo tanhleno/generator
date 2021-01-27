@@ -1,0 +1,1 @@
+program S5 : main : j600a, Q8 : integer array; _, p460 : integer; l, w, k, f, D7 : integer; A60 : boolean; while - not(96) + (09) * false + not 2 and 0320 + 1 - 08 = (646) - true and 2 : while 9 : when case 3970 : chillax end end end end

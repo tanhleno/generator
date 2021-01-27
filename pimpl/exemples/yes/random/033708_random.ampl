@@ -1,0 +1,1 @@
+program a : Vi : takes Q_ : boolean; Qia0a, I3, o, s : integer returns integer array output "3" end p : takes E2, H, h, K7 : boolean array; BH, r, W : integer array returns nothing m, y1 : boolean array; chillax end p6 : takes hWS0, e, q : integer array returns boolean input n[1] end main : ub : boolean; chillax end

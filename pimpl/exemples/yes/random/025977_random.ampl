@@ -1,0 +1,1 @@
+program X85 : s : takes T, _ : integer; Y : boolean; U, t7x0a, R, vm, m, L : boolean array returns nothing z, Q : integer array; KM, l, mt : boolean array; chillax end main : W, t, W, NGo : boolean array; when case - false / 4 or false and true and 29 : chillax end otherwise : chillax end; while - fB and false and 3 = - (12100) and 89 : chillax end end

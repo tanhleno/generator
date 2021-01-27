@@ -1,0 +1,1 @@
+program f4 : main : when case false rem L18(2) * 7 >= - true / O : chillax end case - not not 95000 : chillax end case false < - 3 - 19900 : output "" end case 818 - 0 < 7 : when case 8 : chillax end; when case 05 : chillax end; pop end case 8 : chillax end otherwise : chillax end; while - true * true and 1 + (9) - 77 >= - true : input Ca9aa end end

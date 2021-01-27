@@ -1,0 +1,1 @@
+program gWJ : y : takes f, W, E, g : boolean array returns boolean array chillax end iQ : takes r22, B6 : boolean; U, P : integer returns integer array chillax end ANy : takes EQ : integer array returns integer array chillax end G : takes i, o, p2, U, XG : boolean array returns nothing D, R : boolean; f : boolean; chillax end main : Z : integer; chillax end

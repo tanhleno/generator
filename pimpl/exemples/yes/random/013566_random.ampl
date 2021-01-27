@@ -1,0 +1,1 @@
+program _ : H : takes y7, o, V : integer; o7 : integer returns integer array output 401 - 22 . ""; input x; output "5_!"; while 1 : pop end; when case 367 : chillax end end ut : takes f, R62a, R : boolean array returns nothing while 373 - 9 = 2 : do D130a(7); let g19 = 3; pop end end main : L53, e, z4 : boolean array; chillax end

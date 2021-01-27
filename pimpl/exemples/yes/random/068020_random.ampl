@@ -1,0 +1,1 @@
+program M : main : d7, h, o, E, a, g7, _130 : boolean array; S2, I26, H : boolean array; output not true and not 83 - 0 and 083 + 9 - 40000 . "\n" . "" . "O" . ""; let o[97 * false and 27] = array - not T * true and 12; input v end

@@ -1,0 +1,1 @@
+program s : f3 : takes e : boolean array; w, d, Z, xV50a, a, Jed : integer returns nothing ZoL, D, s : boolean; U, D, Z : boolean; mG : boolean array; pop end main : A, v30aa, b : boolean; chillax end

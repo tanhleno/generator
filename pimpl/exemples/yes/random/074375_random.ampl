@@ -1,0 +1,1 @@
+program p2 : main : bV4, PZ : boolean; when case - 55 * false and false and 2 or a_Laa / true and 7760 : chillax end case false * false /= - true and 6 + 5 - 7 : chillax end case false : pop 5; when case 90 : chillax end; let U = 5 end otherwise : when case 6170 : chillax end case 6 : pop end case 66 : chillax end otherwise : pop end; pop; let oIk = 12; input Qg0; pop end end

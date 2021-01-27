@@ -1,0 +1,1 @@
+program X : lBH : takes Pv, S : integer returns integer chillax end kz3aa : takes zA, O, k : boolean; d : integer array returns boolean chillax end A8 : takes b : integer returns nothing pop 52; pop; input X; when case 313 : chillax end end main : l : boolean array; output "3" end

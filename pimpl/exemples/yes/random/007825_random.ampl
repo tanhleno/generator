@@ -1,0 +1,1 @@
+program yV : y : takes I1, eA, z, K3 : integer array returns nothing b : integer array; chillax end main : J, mI, Pc6 : boolean array; H62a, s : integer array; while - k4m0a(7) / false and(0) and 55400 or(366) > - 3 + not 1 and 4 : chillax end; let z = array - X56aa[213] and(167) end

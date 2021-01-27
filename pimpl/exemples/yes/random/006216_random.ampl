@@ -1,0 +1,1 @@
+program OF : kk : takes W2, w6, f, Z230 : boolean returns nothing MZ6aa : boolean array; q, x : boolean array; pop - 9 - 4 >= 48; output "" . 09 end C : takes N, Muf : integer array returns boolean array chillax end main : chillax end

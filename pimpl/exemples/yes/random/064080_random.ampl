@@ -1,0 +1,1 @@
+program G8 : _ : takes s : integer returns nothing do x9(- (96200) and 6); output 7 . "\"\n0a" end main : output - 7 = - 68100 and 4 or 9 . - not 75 or 9 - 6 >= - 592 . "" . "\n"; pop; while false and 89 : chillax end; input T[8]; pop 33 end

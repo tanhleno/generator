@@ -1,0 +1,1 @@
+program ZV50 : x7 : takes L : integer; V : integer returns integer do r7C(3 and 5 >= - 1) end m7Sa : takes r, B, G : boolean array; E, l : boolean array; Z, p, J : boolean; M, T8j : integer returns boolean array H : integer array; while - 37 - 7 : pop; when case 8 : chillax end; pop end end main : MdZa : integer array; c, V, r58 : boolean; chillax end

@@ -1,0 +1,1 @@
+program WVk0a : main : z0 : boolean; while - true rem 449 + (1) + u or 9 - 21 /= ki / false - not 6420 and 1 - 818 : while - 5 >= 7 : output "" end; while 42 = 1 : chillax end; do AZX(8, 6) end; while - false /= false : let T = array 68300 end end

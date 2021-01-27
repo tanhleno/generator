@@ -1,0 +1,1 @@
+program oX : LqW : takes Z, yxK0, U, K, M : integer array returns boolean array chillax end main : q : integer; output ":a"; when case true + 47700 or 61 - 0 : chillax end case - true and 3 >= 9050 - 6 : while 74 : chillax end; input yb end case - 0 - 7 : chillax end case 3950 : chillax end end

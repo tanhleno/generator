@@ -1,0 +1,1 @@
+program M : gd30 : takes r8X0 : integer returns nothing when case - true or 9 - 364 <= - 2 - 34000 : pop 6220 end; pop end main : X7 : boolean; k : integer array; O, Nh9, pK, vP50, L : boolean array; w : integer array; O, M37 : boolean array; a, JA0 : boolean; bD : boolean; g9 : boolean; while - (7) < 6 : chillax end; output "\n" . 37 - 08600 < 0 . "" . "" . 8 end

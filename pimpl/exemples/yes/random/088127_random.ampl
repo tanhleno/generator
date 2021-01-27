@@ -1,0 +1,1 @@
+program O1 : main : input S; when case - (66) / true : chillax end case - false or 575 - 6 : when case 1 : pop end case 5 : chillax end; pop end otherwise : let d6q0a[1] = 42 end; input F6; output "" . 67 . 1 . "" end

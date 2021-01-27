@@ -1,0 +1,1 @@
+program R : a : takes G, R : integer array returns nothing chillax end main : xX, M, L : integer array; N : boolean array; O4, b, ot, W, cn : boolean; do d(- false <= - p(78) + U and 2 or 713 - 9, (3), gh - 6 = 7 - 92) end

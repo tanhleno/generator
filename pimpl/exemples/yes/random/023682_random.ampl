@@ -1,0 +1,1 @@
+program oo4aa : _ : takes nnh, B : boolean returns integer do l(- not 8 and 97 - 8, - 3 - 5 = 03100, 12 = 3, 0) end pa : takes k : integer array returns boolean array chillax end main : _0 : integer array; JCt, a, vT00, sm, iyU : integer array; j : boolean; chillax end

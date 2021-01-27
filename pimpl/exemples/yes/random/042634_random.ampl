@@ -1,0 +1,1 @@
+program _3Ka : k : takes h4v0a : boolean array returns integer array dy, Y9 : integer; let H[true and 474] = array false + 8 - 7; input Q[2 - 8] end main : do gQf(- (45100 = 7) and 3 + (3) >= 8 * 9, true < - e, false, 51, 163, 2, 02); do hL3((886) < - not 3); input p6; do Qk(3, 8, 944, 0); let a[993] = array 74; when case 531 : chillax end otherwise : chillax end; pop end

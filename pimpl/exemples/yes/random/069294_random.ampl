@@ -1,0 +1,1 @@
+program oI : main : hL, V, LI7aa, WLq0a, a : integer array; J : integer array; while - (7) rem(613) * 0 > - not false * (718) and 0 + true : chillax end; while(0200) / (7) and 99 - true and 81 = B4ea or 3 : chillax end; let T[- (1) and 90 - 70] = array - not 0 end

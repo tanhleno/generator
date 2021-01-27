@@ -1,0 +1,1 @@
+program cA : w : takes it5, lt40a, O8 : integer returns boolean array pop; while 264 >= 8 : when case 4 : chillax end end; let rMpaa[85] = 3 end F1 : takes w : integer returns nothing input nCY[2 - 39] end main : while - false / 963 : let Z[- 3 - 48] = array 2 end end

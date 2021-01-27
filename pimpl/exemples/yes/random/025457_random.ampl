@@ -1,0 +1,1 @@
+program ClO : H3 : takes xc4, c : integer; s, Y : boolean; Mt2aa : integer; F : boolean array; u : integer array returns nothing n520a : integer; while Yd and 84 = 453 : output 8 . "4t" end; let gF[- 7 - 47] = array - 195 - 81 end main : while false * 4 or not j + i >= (89) : chillax end; output true and 14 . "" . "" end

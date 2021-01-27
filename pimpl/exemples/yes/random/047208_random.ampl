@@ -1,0 +1,1 @@
+program v : M : takes l : boolean returns integer k : integer; j03, J : integer; K73a, X : boolean; CU, jDx : boolean; x : boolean; pop; output 9 = 4 . 3; let P = 80300 end X : takes K9B : integer returns integer array pi5aa : integer; while 48 - 84 : pop end end P : takes M : boolean returns boolean chillax end main : pop end

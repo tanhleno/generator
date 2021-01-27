@@ -1,0 +1,1 @@
+program S5 : main : when case - (6980 = 10) or(3) <= not true : output 34 = 7; input C[52]; let QN[7] = array 10800; input LJ40a; pop end case(9510) and not 74400 - true and 7 + 82 - 1 : chillax end; when case - false and false and 9 < - true : chillax end end

@@ -1,0 +1,1 @@
+program Y54 : main : do hLr0a(- true >= true and 7 and 9 + not 2 and 0 + 3 - 47); when case false and not 77 or 8 and 90 : do _(370, 0, 354) end case true and 0 /= - 33 : while 1 : chillax end; input A4r end otherwise : input Qq4a[3] end; do b0J0a(nKy - 44 - 0 = 4 - 57, 42 - 1 <= 264) end

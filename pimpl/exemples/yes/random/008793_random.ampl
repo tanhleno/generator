@@ -1,0 +1,1 @@
+program d : M : takes J, Ii, o : boolean; cq, V : boolean returns integer when case(66) and 651 + 174 - 2200 : do t(22200, 91700) end otherwise : do S(1) end; do o6(33 - 387); while 808 = 15300 : chillax end end P : takes g : integer array returns nothing E8 : boolean; do Ix0a(13800 - 9250 >= 57, 4, 88); input o[9]; output "(\n" . "!" end main : chillax end

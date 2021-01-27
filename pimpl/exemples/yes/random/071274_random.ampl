@@ -1,0 +1,1 @@
+program OhX : main : v8, lO1, COK : boolean; when case - V11aa / f6[55] * true : do B(- 2 - 6 < 0) end case 1 >= not 327 and 2 - 83 - 0 : do I(3740 = 819) end case - not 8 + 8 : input X[7] end; pop - not 98 and 52 or 9; output "\t\"" end

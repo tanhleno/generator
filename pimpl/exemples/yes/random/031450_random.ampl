@@ -1,0 +1,1 @@
+program L : o6M0 : takes q3C0, RuLa : integer returns boolean chillax end o1y0a : takes W : boolean; R8 : integer array; lo, Y, T, iq : boolean; j, Z8la, N, A : boolean; uzJ : integer array; n, S_K : boolean returns boolean array output 9 = 2 . 3370; let J = 607; while 8 : pop end end main : y : boolean; l : boolean; j6 : integer array; chillax end

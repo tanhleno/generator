@@ -1,0 +1,1 @@
+program dw9 : n : takes s3, KaEaa, E4E : integer array; R, z0e0, XHe : boolean array; _h : boolean array returns boolean array input C400[- false] end k : takes Tvd : integer returns boolean array r, q4 : integer array; input P end l : takes W, w, R, q950a : integer; RF, D3, v : integer returns nothing chillax end main : a, eb5 : integer array; EVa, o : boolean array; chillax end

@@ -1,0 +1,1 @@
+program ya80a : qFI : takes s, S3, C, il30 : boolean; c : integer array returns nothing do M(- false and 9 + 4 - 80, - 7620 - 2 >= 9750, 1260 = 15, 8850, 8); do _(- 4 - 2 < 3); when case 769 : chillax end case 498 : chillax end end main : chillax end

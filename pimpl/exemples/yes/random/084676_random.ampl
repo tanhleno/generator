@@ -1,0 +1,1 @@
+program i : main : qM4aa : integer; input ET[not not not 8 * s(2) * (9) and 131]; when case false / 4 : chillax end case U2s0a and 0 + 3 <= - 016 - 35 : input oY[8] end; when case 6 and 031 < 877 : when case 6 : chillax end case 1 : chillax end end case 6 <= 266 : chillax end case 7340 : do I9e0a(4) end end

@@ -1,0 +1,1 @@
+program Me : q3 : takes b, I : boolean array; M6 : integer; n490, zz2, f1 : integer; U6D : integer array returns nothing input M4[- true and 580] end TaF0a : takes Lx : boolean returns nothing MY6, A, h, q7 : integer; z2Ba : boolean array; b : boolean; g : boolean; g : boolean; chillax end main : chillax end

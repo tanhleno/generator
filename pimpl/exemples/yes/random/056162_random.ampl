@@ -1,0 +1,1 @@
+program N : _ : takes E : integer array; GG : boolean array returns nothing S : boolean; N, p : boolean array; C, C : boolean array; O8u, k_ : boolean; chillax end x : takes H2, m5 : boolean; yq : boolean returns nothing tMCaa : boolean array; let P18a = array 95 - 4; output "t{"; input R9[12] end main : p4q0 : integer; pop; pop - tc; input A[- not 4]; input ysJ0a end

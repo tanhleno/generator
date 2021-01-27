@@ -1,0 +1,1 @@
+program n : m : takes w0m0a, o, c : boolean array; v : boolean returns boolean F : boolean; KN, Ax, d, iP1 : boolean; a, p, V : integer; when case false + 1 - 9 : chillax end case - 5 - 75 = 20400 : while 9 : chillax end end case 74 = 15 : while 0 : chillax end end case 8 : pop end end main : w, A, p8, vF, q : boolean; chillax end

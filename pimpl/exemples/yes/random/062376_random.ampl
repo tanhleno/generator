@@ -1,0 +1,1 @@
+program T : a : takes eX3 : integer returns boolean wB8aa, L, A : integer array; when case m and 7 >= - 39 - 2 : let y = 6 end case 55800 - 0 /= 06 : while 844 : chillax end; let I = 218 end case 8 : while 7 : chillax end; pop end end main : XW3, t4 : boolean array; input s; do k((2010) / false + not 51 and 4 or 1 = not 70100 and 7 or 89, c or 9); output "\t" end

@@ -1,0 +1,1 @@
+program K5s : c : takes v, pegaa, r, O65aa : integer array returns boolean P2z, u : integer array; chillax end j : takes l : boolean returns integer array y : boolean array; while 2 - 73 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program XR : v0 : takes zX30a, lJ, ZRTa, Stc : integer; h : boolean returns nothing WM4aa : integer; chillax end main : pop; let X = false and 80900 or 29 - 0110 < 7; when case not 4 <= - 0 : chillax end case 481 - 9 : input R; output "x|!"; pop end otherwise : chillax end; when case 0 - 5 > 677 : chillax end case 9 = 65300 : output "6" end otherwise : chillax end end

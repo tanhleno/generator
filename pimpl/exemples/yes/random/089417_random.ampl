@@ -1,0 +1,1 @@
+program S9 : main : let _0S = (6) or K and 9 /= - false or 4 - 63900; do T6(- false / true and 3 <= - e19 or 8 - 908, t or 3 <= - 400); pop 2 > 25; when case - 2 - 7 : do b(5); input d2 end case 18 : chillax end; while 2 = 20300 : output ""; pop end; do Qe1(9, 992); while 4 : chillax end end

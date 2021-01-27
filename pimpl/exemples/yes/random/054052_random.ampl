@@ -1,0 +1,1 @@
+program Y : j : takes W8 : integer array; x05, N, a : boolean array returns nothing _7P : integer; P : boolean; s5Z, _0P : integer array; r : boolean; nt : boolean; while false and 0 : pop 065 end end main : E65, A : integer; input PR[(69) - not Rj and false or false and 57 + 8390] end

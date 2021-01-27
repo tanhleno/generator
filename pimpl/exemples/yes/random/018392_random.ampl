@@ -1,0 +1,1 @@
+program bIqaa : g : takes X4h, r : boolean; u : integer array returns integer array C : integer array; F : boolean array; A, x : integer array; f : boolean; M : boolean; input n end main : iI : integer array; chillax end

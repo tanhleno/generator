@@ -1,0 +1,1 @@
+program p : U3 : takes I : boolean array; S4N0, l : integer; z : boolean; t4, Z, q9 : integer array returns nothing when case - 86 <= - 2 - 5 : chillax end; let UF7a[8] = array - 25 - 3; let W4[5] = 5 end uu : takes t, G : boolean returns integer chillax end main : K, fy1, a : boolean array; chillax end

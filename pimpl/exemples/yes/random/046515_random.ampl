@@ -1,0 +1,1 @@
+program H : Z : takes t : boolean returns integer array do jhZ(not 1 and 92 = 4); pop 808 = 6 end y3 : takes F2T : boolean array; h, H, B8H, k0 : boolean returns boolean when case - 0 - 9 = 9 : let Gi2 = 1; output "Xva" end; when case 42 : chillax end case 53 : pop end case 47 : chillax end otherwise : pop end end main : B : boolean array; input j[true] end

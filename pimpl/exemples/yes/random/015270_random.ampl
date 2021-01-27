@@ -1,0 +1,1 @@
+program F24 : A : takes tO, RNo, O690a : integer array returns nothing do pe9(true < - 4 - 56200); when case 71500 >= 4 : let P47aa = 221 end otherwise : do puv(66) end; output ""; let dA = 624 end KD70 : takes v : boolean array returns nothing chillax end main : P, wS : integer; input tA90 end

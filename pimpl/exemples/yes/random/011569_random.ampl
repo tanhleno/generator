@@ -1,0 +1,1 @@
+program P : ZS : takes _0A0a, H4, o79 : boolean returns boolean array _, Dx, UB, M2, _EXa : boolean array; K : integer; chillax end main : when case - q6I(98, 8) and not not 5160 - 1 rem true : while 26 - 7 /= 318 : chillax end end otherwise : chillax end end

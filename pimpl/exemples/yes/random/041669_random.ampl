@@ -1,0 +1,1 @@
+program _rV : r : takes uyG : boolean array returns boolean array Zamaa, v : integer array; chillax end X8 : takes P60, ir : integer returns boolean array x3 : integer; N, O : boolean; l4 : boolean; K : boolean; output 92600 = 96400; pop; do X(90, 88) end main : chillax end

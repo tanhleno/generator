@@ -1,0 +1,1 @@
+program r : w9 : takes Z92a, u : integer; k0 : boolean returns boolean c740a : integer array; T4N, u, n0 : integer; G, L, G : boolean; l : boolean; K : boolean; output 3 - 1 > 8680 . 5 = 1 end main : output not not 5 + not 64 or 3 - 2 . "" . 568 <= 32 end

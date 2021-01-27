@@ -1,0 +1,1 @@
+program AM : q : takes Uw : integer returns boolean chillax end E1 : takes p : boolean; U5_ : boolean array returns nothing input g40; let i = array 1 end K0 : takes m9 : integer array returns integer while 29 : chillax end; while 25 : chillax end; pop; output "}t"; pop end main : chillax end

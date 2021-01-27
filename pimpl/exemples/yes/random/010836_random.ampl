@@ -1,0 +1,1 @@
+program K : Y : takes l7, u5, D : boolean array returns integer array t, Th : integer; C : boolean; while - (7) <= - 192 - 072 : chillax end end tfM : takes i, c99, VLTa, dm, C : boolean array; V2Z : boolean; t42 : integer array; U2, a96 : integer array returns integer array _ : boolean array; q : integer array; do Q7(62 > 4) end main : fw : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Na : main : j : integer; pop false + (2) >= false - 8; when case 6 rem false > - true : chillax end otherwise : let Gp50a[64400] = 11500 end; when case 538 + 06700 <= - 5 : let U9b0[3] = array 7 end case - 38 < 6 : chillax end end

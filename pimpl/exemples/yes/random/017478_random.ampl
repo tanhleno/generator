@@ -1,0 +1,1 @@
+program S : S : takes r1Zaa, k4 : boolean; S, _ : integer array returns boolean array chillax end L2 : takes N66, NaD, T3 : boolean; n3 : boolean array returns boolean array Q180 : boolean array; a : boolean; chillax end main : let qh[(22) / true or y7(9) rem false and 58 or true or 6] = array 4 + not not 45 / false and 29 end

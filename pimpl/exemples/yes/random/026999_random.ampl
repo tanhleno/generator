@@ -1,0 +1,1 @@
+program XN6 : es10 : takes Y, q : integer; y : integer returns nothing input PT[- not 7]; output "<L0a" . "\n]0a" . "\n" . ""; input oM end bsA : takes f0, Gl, R, Y8 : integer returns boolean I : integer array; chillax end main : HfJa : boolean; sV4 : integer; chillax end

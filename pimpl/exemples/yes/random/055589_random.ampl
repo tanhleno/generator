@@ -1,0 +1,1 @@
+program o : v : takes i : integer array; gI0 : boolean; U, E_50 : integer returns integer w0, xi6a : boolean; input R[O and 2]; output 891 . ""; when case 2 = 990 : chillax end otherwise : pop end end main : output - A(86) + not 5 - 1 - 2660 >= true and 3 or 1 end

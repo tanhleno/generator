@@ -1,0 +1,1 @@
+program A3z0a : oO90a : takes j6 : integer array returns boolean chillax end m0 : takes o, B33a, S : boolean returns boolean pop; while 4 : chillax end end main : do h(- not J(073) * (4) rem 2, - 0) end

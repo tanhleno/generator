@@ -1,0 +1,1 @@
+program z89 : s : takes E : integer array returns integer M, O : boolean array; m : boolean array; b, E : boolean; b, i4 : boolean; pop - 5; output "\"kaa"; pop end main : H, D9Aa, v, l2 : integer; T5, Y : boolean; pop - not false * false end

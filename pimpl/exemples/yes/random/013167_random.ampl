@@ -1,0 +1,1 @@
+program Quta : P : takes S, qd, J : integer; U12 : boolean array; B : boolean; tn, G5na : boolean; G52, g4 : integer returns nothing input Y39[- false and 7] end main : o : boolean array; do A7(not not false rem(358) and c and 1 or false and g and 66, 12 or T and 7, (4) and 50 - 52) end

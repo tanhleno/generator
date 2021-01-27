@@ -1,0 +1,1 @@
+program Dh : i4 : takes S : boolean; o : boolean array returns nothing let VM[not 2 - 0 - 2] = array false or 27 end y : takes t : integer array returns nothing do E(72 - 6 = 1) end d : takes x, nK1 : boolean array; x0Saa, p, BP3aa, K, y6K : boolean; T : boolean returns integer array Z0s, L9G0, T7 : boolean array; a, V : boolean; let G = 90 end main : chillax end

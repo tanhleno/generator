@@ -1,0 +1,1 @@
+program L1 : f1l0a : takes p : integer array; z : boolean array; chh0a, Hg2 : integer returns nothing let x = array - G250a and 2; do z(- 38 - 21400 = 5) end u : takes Q1p : boolean returns nothing chillax end main : Yt, B61 : boolean; while false rem(844) rem true : do PB(28 - 12); output "29\""; do j(9, 0); output "L" end end

@@ -1,0 +1,1 @@
+program ie1aa : NyY0 : takes S5g, i1, a6 : integer array returns boolean array output ""; output "}" . ""; when case 0 = 25 : do n(74) end otherwise : pop end; while 21 : pop end end main : iC : boolean; U : boolean array; chillax end

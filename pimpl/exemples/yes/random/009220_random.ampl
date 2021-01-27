@@ -1,0 +1,1 @@
+program Cf : D : takes Mhp, m3, _ : boolean; ig : boolean returns nothing while - false and 1 - 6 - 3 = 6 - 07 : chillax end end main : Ow : boolean array; output "" . - true or 9 - 6 <= - 68400 - 2 . - 092 - 9; output - (3) . 7 = 5 end

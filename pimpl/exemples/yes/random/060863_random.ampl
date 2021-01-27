@@ -1,0 +1,1 @@
+program DH : _r : takes E9O0 : integer array returns nothing PGHa : boolean array; do k(rb >= - 795 - 19); when case - 3 - 0 : chillax end case 986 : chillax end otherwise : when case 527 : chillax end; pop end; do i(7 = 42); when case 93 : chillax end case 00000 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program I6x0a : ff3a : takes Q6, vF, W : integer returns integer chillax end main : do G(N[88200] rem true / 6 and 240); do E((380) / true + k or 14 = 0 and 4 or 2 - 41, false and 60 - 9 - 7, - 72) end

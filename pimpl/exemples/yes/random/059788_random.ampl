@@ -1,0 +1,1 @@
+program Kz50a : D39 : takes b_V : integer array returns nothing chillax end a : takes x : boolean array; T, X5, K910a : boolean array returns nothing A : integer array; f : integer array; A3, t : boolean; chillax end main : p3, ku, ME, H : integer; output - not not 74 > - (3) or 498 end

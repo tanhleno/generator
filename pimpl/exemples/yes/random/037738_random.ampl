@@ -1,0 +1,1 @@
+program jZ80a : A : takes C49a : boolean array; Z, Z, k, H : boolean array; j0Va, Z : boolean; F2 : integer returns nothing u : boolean; when case - Gl_aa + 6 : while 4 : chillax end end case - 7 - 1 : chillax end case 74 : chillax end end main : d, A, h, j : integer; i : boolean array; chillax end

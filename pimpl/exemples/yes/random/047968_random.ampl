@@ -1,0 +1,1 @@
+program ld : O : takes O : boolean returns nothing p3, g, o : boolean; R46, e, P : integer; chillax end tmo : takes r : boolean returns boolean r4, XP, V5 : integer; I, rm0 : boolean array; chillax end R : takes e3 : integer returns boolean array chillax end B : takes U : boolean; K96 : integer returns nothing s, L370 : boolean; do R(0) end main : chillax end

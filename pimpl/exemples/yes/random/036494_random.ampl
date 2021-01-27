@@ -1,0 +1,1 @@
+program e : B0 : takes B08aa : boolean; DO8 : integer; K, L : integer returns nothing a, Q4 : boolean; n : boolean array; while - false and 2 + 1 - 948 : chillax end; let l[2] = 6 = 07; when case 6 : chillax end end main : nn, v9o, E650 : boolean; y, Vu6a, GY, l : integer array; chillax end

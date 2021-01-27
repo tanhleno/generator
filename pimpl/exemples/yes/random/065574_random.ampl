@@ -1,0 +1,1 @@
+program S1 : O : takes ZF : integer returns nothing while not 8 and 4 + 9 : output "" . "" end end c : takes N : boolean; p : boolean array; pD : integer array; zmF, Fo : integer; tg, wx, X : boolean; S : boolean returns boolean array A, AW, ge : integer array; chillax end main : chillax end

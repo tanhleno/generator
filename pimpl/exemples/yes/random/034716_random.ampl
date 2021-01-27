@@ -1,0 +1,1 @@
+program Z7 : l : takes k1 : boolean; P, J : boolean returns nothing J : boolean; R, u : boolean array; y : boolean; q6 : boolean; mi : boolean; w : boolean; chillax end main : O, Y36a, B : integer array; N9 : boolean; W9, K2, z : boolean array; pop - false rem not 9 and 4 > false or 0 end

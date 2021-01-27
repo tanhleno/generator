@@ -1,0 +1,1 @@
+program p : y900a : takes I, L8, b1, VQ, _ : integer; R, N, Q41a : integer array returns nothing o9i0, G : boolean; Nx0, D, J, n : integer; chillax end main : u37, z : boolean; do R0((0 = 61) + t8(3) + (9) + 1); input gB[- 01 and gU and 01700 + TM or 60 - 0] end

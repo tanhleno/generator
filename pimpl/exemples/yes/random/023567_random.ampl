@@ -1,0 +1,1 @@
+program N2 : xW3a : takes B, cl : boolean returns integer array YKj : integer array; let O760a = - 7 end C860 : takes w13a, BAw, Q5, n2u, wy, q, u : integer array returns boolean array chillax end xb : takes U, R, A, o : integer; v, FH, ZT : integer array; Q, V46a, a, x430a : boolean array returns nothing do j(5) end main : E, p1, _98 : boolean array; chillax end

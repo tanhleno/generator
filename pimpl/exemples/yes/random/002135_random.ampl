@@ -1,0 +1,1 @@
+program R : N : takes SZ, ZH, CS, W, X8Daa : boolean; A, E, cr : boolean array; voya, P, Y : integer array; G0, j, YU : boolean; t, CKPaa : boolean returns nothing chillax end main : output(8) . "s\\" . 4 - 7 < 07 . ""; while Jam /= not 7 : pop; input T[85] end end

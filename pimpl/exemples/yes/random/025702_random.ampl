@@ -1,0 +1,1 @@
+program yOt : t : takes V, f : integer; e0, He : integer; Rx10, z, y : boolean array; N, N9e : boolean array; I8q, u9 : boolean; O46, lk, D : boolean returns nothing pop 1 - 157 end main : N2, Y1a : boolean; do o(X7(8, 5) + true >= - 84700 and not 1 and 7 - 0 and 97400); while - true : chillax end end

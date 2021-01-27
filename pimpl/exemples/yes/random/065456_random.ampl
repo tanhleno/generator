@@ -1,0 +1,1 @@
+program n : j_ : takes kb : integer returns nothing when case - (6) and 432 /= - 35700 : do l(9); input l end case 84800 - 4 : pop; while 940 : chillax end end; do g(3510 - 5, 658 = 3); when case 3 = 39 : input M; pop end; input Tn[63800]; while 2 : chillax end end main : chillax end

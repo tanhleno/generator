@@ -1,0 +1,1 @@
+program I : T : takes fI20, kRC0, T : boolean array returns nothing v : boolean; x : integer array; chillax end kU : takes w, O : boolean; kP8a, v, aAb, f6 : integer returns boolean array Rt, V40aa : boolean; let e = 9 end main : p87a, tV : boolean array; let w5[false - (82) rem v1 or false and 0610] = array not(2) * (60) end

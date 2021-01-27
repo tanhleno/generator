@@ -1,0 +1,1 @@
+program J6 : JG1 : takes e, h : integer; l, jF, oR : integer; y, r : boolean array; G0L, Z : integer returns boolean array U, F78 : boolean array; Txr, u, y : integer array; let W5j = array - X end main : F9a0 : integer; chillax end

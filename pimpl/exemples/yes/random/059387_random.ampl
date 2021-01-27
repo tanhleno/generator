@@ -1,0 +1,1 @@
+program nA6a : rX : takes Za00 : integer array returns integer E : boolean; U2 : integer array; chillax end main : u4C : boolean array; t, p, R : integer array; MU30, M, C : integer; while true : chillax end end

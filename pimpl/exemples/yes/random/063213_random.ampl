@@ -1,0 +1,1 @@
+program Z : Rh8 : takes J2 : integer returns integer chillax end P : takes U : boolean; uKS0 : boolean array; h : boolean array returns nothing n0R : boolean; when case 69 : output "" end end main : chillax end

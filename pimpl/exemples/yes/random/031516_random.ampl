@@ -1,0 +1,1 @@
+program U : F : takes C, f : integer returns boolean a, q, N : boolean; G : boolean; do N(not 681 and 6 /= 61 - 639, 19); do J(21500 < 3, 96700, 31); when case 4 : do Wi5(2790) end case 1 : pop end case 183 : chillax end otherwise : pop end; do U680(9) end main : chillax end

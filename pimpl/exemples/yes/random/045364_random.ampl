@@ -1,0 +1,1 @@
+program r : s : takes h9Qa : boolean array returns nothing while 6 or 3110 - 70900 : let i4[39] = array 38300; input g; output "" end; pop; do M(4 = 8470); when case 9200 : chillax end case 89 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program T : n : takes YEPaa : boolean returns boolean array _, I8 : integer array; while true and 6 or 80 : chillax end; input JR; let g = 9 end main : output(8) and 82 . "m" . "" . 6 = 9 . 9; do X(not not 410 - 05000 and 7 + 2980 - 5 <= e, - (79500) - 0 - 6); input r[(3) and 12]; pop; output 729; do y(1) end

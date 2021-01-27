@@ -1,0 +1,1 @@
+program k : n1 : takes Gu : boolean; XsO : boolean array returns nothing D : integer; while not 0 : chillax end end C : takes G : integer array returns boolean eC : integer array; chillax end main : jH3aa : boolean; chillax end

@@ -1,0 +1,1 @@
+program N : e6 : takes A3 : integer array returns nothing let bo = array - true and 48 + 72 - 3; pop 2 end I : takes t, X : boolean array; f : boolean array returns boolean do n(191 - 640) end main : I : boolean array; pop - 37 / not 68 + A >= (46) and 6 + 80 end

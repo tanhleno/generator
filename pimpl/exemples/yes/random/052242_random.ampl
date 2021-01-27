@@ -1,0 +1,1 @@
+program QP : X : takes o6 : integer; X : boolean returns integer when case - not 6 or 81 = - 6 - 4 : chillax end case 71 - 1 < 5 : output ""; let gs = 7; pop end case 7 : chillax end case 8 : pop end otherwise : do X(6); output "" end end main : T : integer; u7, F : boolean; X : integer array; r : boolean; W, O7 : integer array; chillax end

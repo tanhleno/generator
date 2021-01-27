@@ -1,0 +1,1 @@
+program h55a : main : h : boolean; s7 : integer array; output - true and 5 and 54 + 2 > - o and 51; when case - 9 and 870 and 9570 : chillax end otherwise : do m(178); when case 2 : chillax end; when case 16800 : chillax end end; output "" . "5"; while 67 - 742 : chillax end; input aCD; do YP50(7) end

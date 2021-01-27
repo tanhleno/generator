@@ -1,0 +1,1 @@
+program C : y1ca : takes o : boolean array returns nothing R, G : boolean; W : boolean array; when case o /= 1 - 5400 : chillax end case 64 - 500 : chillax end case 6 : chillax end; output "2" . "7V" end main : k : integer array; chillax end

@@ -1,0 +1,1 @@
+program P7 : KI : takes gQaaa, _1, u_9 : boolean array; XR, U7Z, E, Sv, a : integer array returns boolean sg, n, H, H2 : boolean; chillax end main : let Uz = (55700) + 01900 <= - BW and 23; do u(- s /= true or 59 - 760, not 9 + 05 - 7); output ""; while 75 - 76 /= 0 : chillax end; let J[5] = array 5450 end

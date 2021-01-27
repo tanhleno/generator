@@ -1,0 +1,1 @@
+program MNO : c : takes y2, i : boolean array returns nothing Q1 : boolean array; input J; let S = 7; input N end q9Fa : takes Eg, I, _6, DW, pqZ, G_T : integer array returns integer array while - 2 - 43 = 9 : chillax end; pop; input Fz end main : C : boolean; n6V0, H, BH5aa : boolean array; chillax end

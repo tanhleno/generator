@@ -1,0 +1,1 @@
+program T6z : C : takes S, i : boolean array returns boolean let lH = array - (7); let nnNa[- 8 - 2] = array - 8 end main : when case - false rem 1 * d090a + G : chillax end case true * false : chillax end case true and 74 : chillax end end

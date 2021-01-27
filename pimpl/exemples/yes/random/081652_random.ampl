@@ -1,0 +1,1 @@
+program q92 : main : Dba0a : boolean array; ts : boolean; output 4 + (59) and 98; while true + false = - not 50 and 7 : when case 24 = 7 : when case 1 : chillax end; pop end case 0 : chillax end; let f[1] = array 23; let C = 1; output "" end; input R; input n5n0a[552] end

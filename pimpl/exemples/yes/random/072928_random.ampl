@@ -1,0 +1,1 @@
+program K : main : t6, F, G6 : integer array; w6 : boolean array; when case(0090 = 18) and(9) rem(68) and 3 : input O5; when case 4 = 8 : when case 23 : chillax end end; input o[2]; while 73 : chillax end end otherwise : chillax end end

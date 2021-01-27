@@ -1,0 +1,1 @@
+program gb : a : takes k5paa : integer array returns integer array T, d : integer array; S : integer array; V, B8 : boolean; input o; input ou4a[- 6] end qSH0 : takes mC30a : integer returns nothing while - 19 - 8 < 133 : chillax end end main : output - (90) / (8) <= not 2 . - false >= 9 - 2; input g[not false or true and 7]; do S(9 + 392) end

@@ -1,0 +1,1 @@
+program g : Z : takes Fm1a, I, b7s : integer array; t7 : integer array; H8, fC, t3, Dl1aa, X27, f : boolean array returns nothing qfV, u, D : integer; c : boolean; m : integer; let R[(26) + 2] = array - 17 and 0 + 646; pop; do t(066 = 7) end main : pop; let WG = false and 2 end

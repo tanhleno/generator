@@ -1,0 +1,1 @@
+program Mk : vx6 : takes s : integer returns boolean array output "Su" end P : takes B : integer array returns nothing I0K : integer array; input Nl8a[6 - 9] end l5 : takes uy : boolean returns nothing chillax end main : output not false * QsO and 92700 or xd and 37 = (8) + 9 - 523; output "\"" . "" . ","; while u and 9 /= 8 : chillax end end

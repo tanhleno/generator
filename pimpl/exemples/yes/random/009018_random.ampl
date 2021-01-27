@@ -1,0 +1,1 @@
+program za : jZ : takes w4, v, Cc : boolean; wq : boolean array; g, P7, O, a9s0, l : boolean; N, l8 : integer returns integer chillax end main : h0, J, c34 : integer; h69 : integer array; H, J1, Mr9 : boolean array; do Z2(- 2 rem(6) / true and 31 <= j[2], - not not 662 rem 13, 9 and 0 - 723); while - true * (9) - 7 and 74000 - 9 : let R[5] = 81400 end end

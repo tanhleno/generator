@@ -1,0 +1,1 @@
+program Yi : main : y, nnF0 : integer; jS0, c : integer array; Z2, z : integer; m2E : boolean; r : integer array; T1, Q16 : boolean; p7 : boolean; w7 : boolean; while - (646) * (3240) / i9 or T7(2) and j6 /= - J22a(6) rem(78) and 13 - (56) and 0 - 52 : chillax end; input J[(3) / MT]; do z(12000 and 66 or 2 - 25 /= - 00 - 1) end

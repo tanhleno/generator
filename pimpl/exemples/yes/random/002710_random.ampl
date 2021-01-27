@@ -1,0 +1,1 @@
+program S : ev40 : takes EX, l, YU, _e5a, f : boolean array returns integer array output "y"; do N(- 710 - 8); output "" . 52 . ")\n\"a" end _Xg : takes M : integer; KbHa, SN : boolean; Z, Dfh0 : integer returns nothing N15a, BR : boolean; chillax end main : Zp, d4, w5, ZvO, X, p, y : boolean; k, R, K, Lq, G230 : integer; Cun : integer; chillax end

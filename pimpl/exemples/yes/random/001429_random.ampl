@@ -1,0 +1,1 @@
+program V : iRF : takes f10a, q, tD, y, J, y : boolean array returns nothing j8q, fJwa, f, T8, k : integer array; output 01 - 9 end n130a : takes w, M1Gaa, W000a : boolean array; X : integer; y4, w, s3, jM, Q05a : integer returns boolean k4Vaa, r5X : integer; let G = 76 = 19200 end main : zS : integer; C, h, t300 : integer; uE : integer; T2 : boolean; U : boolean; chillax end

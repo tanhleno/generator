@@ -1,0 +1,1 @@
+program m : main : while not false rem false : chillax end; input Sa20a[(2) and 95]; when case - (05800) and 7 - 970 - 9 : chillax end case - 7460 : when case 9 : chillax end end case 78100 : input n end otherwise : while 8 : chillax end; when case 7 : chillax end; pop end end

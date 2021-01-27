@@ -1,0 +1,1 @@
+program A : t : takes W : integer returns nothing chillax end S8 : takes Ui, w4, kGQ : integer returns boolean array Vh0a : boolean; chillax end main : Unb, W5, G9p, _l3 : boolean; J : integer; s, h : boolean; G, mM1, b : boolean array; let bMTa[- l2 * (90) and not 3 and 3] = jz[67600] + (1) /= false and 75300 + 84700 end

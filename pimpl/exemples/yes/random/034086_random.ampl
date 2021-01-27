@@ -1,0 +1,1 @@
+program S : Uk : takes Z9 : boolean; T5, O1, V : integer array; r : integer array returns nothing l, J : boolean array; aRH : boolean array; J8L : boolean; output "" end W : takes D, u : integer array; M : integer; V, G5L, P090a : integer array returns boolean while 6 - 1 >= 3 : chillax end; output ""; while 2 : chillax end end main : chillax end

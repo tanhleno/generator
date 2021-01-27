@@ -1,0 +1,1 @@
+program v : b55 : takes DK, u5, Tw : integer; s, pd : boolean; J, Wv80 : integer returns nothing let v83 = 97 - 77; while - 6 /= 6 : input D end end main : f5, N : integer array; B : integer array; F8, y : integer; g, J2 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Y9 : y61 : takes cm0, _X : boolean array; b0P0, L : integer array; N, K, oZ : boolean returns nothing chillax end main : c33, f5a0a : boolean; X40 : boolean; akLa : boolean array; W4s, B, L0, hS : integer; while 62600 * D(82) - false or N24a and 4260 + 0 - 3 : let D = array 4590 - 3 end; output Z3Y0a . "" . "" end

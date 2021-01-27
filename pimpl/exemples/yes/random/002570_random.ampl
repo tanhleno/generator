@@ -1,0 +1,1 @@
+program kF7a : _c : takes J850a, l, K, K4, B8 : boolean array; tPia : boolean returns nothing N4 : boolean array; Fw : boolean; do gPZ(- (0) /= - 83 - 3); let u7[- 25] = array 4 - 66 end main : f, q2, F, Q8 : boolean; chillax end

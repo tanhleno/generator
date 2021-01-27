@@ -1,0 +1,1 @@
+program G : T7 : takes j6 : integer array returns nothing X8 : integer array; output "O" . 2 = 35 . "" . 3 . "" end main : E, B9saa : boolean; QXy : boolean array; O5O : integer array; mF : integer array; chillax end

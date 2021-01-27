@@ -1,0 +1,1 @@
+program Y8Na : cW : takes R0z, r : integer array; s : boolean returns integer XG : boolean; uh90 : integer; q6 : boolean array; output "" . 6700 = 14 . "" . 97; do cV5(- 259, 8, 29) end p5 : takes qv, os3 : boolean; rH0 : integer returns boolean I590a, v070, z_ : integer; chillax end main : E, yS6 : boolean; U : boolean array; chillax end

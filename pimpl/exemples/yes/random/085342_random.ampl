@@ -1,0 +1,1 @@
+program H : main : i : integer; while - true rem(31500) /= - not K_ * not 3 and 7 : when case - 63600 >= 10500 : chillax end otherwise : chillax end end; while t5 and q58 or not 5960 or 22 : chillax end end

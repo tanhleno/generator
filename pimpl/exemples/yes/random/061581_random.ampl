@@ -1,0 +1,1 @@
+program z : u : takes M4 : integer array returns nothing when case I450 and 9 or 3850 - 25 = 8 : chillax end case - 2 - 66 > 7 : when case 9 : chillax end; pop; pop end case 9 : pop; pop end; do sJ(08600, 8760, 2, 392) end main : AGV, b : boolean; T5 : boolean array; chillax end

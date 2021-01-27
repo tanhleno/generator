@@ -1,0 +1,1 @@
+program O : main : input B; output - Y and 37 > - 7; let St[- J and 4 + 0 - 85] = - 49 - 4 = 6; when case 23 : when case 6 : chillax end; do Pe(0); pop end case 0 = 76800 : output ""; pop end case 675 : pop end end

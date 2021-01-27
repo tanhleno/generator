@@ -1,0 +1,1 @@
+program K : b : takes _410a : boolean array; V, r, fY : integer array; G : integer array returns integer array i : integer; P : boolean array; when case false and 49 : output "Z" . "" end case - 89100 - 4 < 45 : when case 3 : chillax end; output "~^"; pop end end main : chillax end

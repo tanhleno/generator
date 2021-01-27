@@ -1,0 +1,1 @@
+program Q : G : takes DH : boolean array returns nothing b : integer; iV80 : boolean; L : integer array; _D : boolean; let q8I[- (80) and 553] = - 4590 > 1 end K : takes na5 : integer array returns nothing chillax end KV : takes C64, a, u : boolean returns boolean array S4, b, w : boolean; chillax end main : chillax end

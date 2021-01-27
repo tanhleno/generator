@@ -1,0 +1,1 @@
+program X9wa : x : takes x : boolean; y : integer array returns nothing w9, n : integer; chillax end rx : takes V : boolean; w, A2j0, iG0, H, h : boolean; B, r : integer array returns integer array pop; output 226 end main : T : integer; ds, mw2, Ti : integer array; Y : integer array; u : integer; y : integer array; pop end

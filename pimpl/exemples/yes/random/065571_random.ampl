@@ -1,0 +1,1 @@
+program X : n : takes Vi : integer returns nothing while jz and 37700 + 36 - 56 < 87000 : chillax end; when case - 23 /= 8 : chillax end case 47100 = 8 : chillax end end main : q : integer array; chillax end

@@ -1,0 +1,1 @@
+program O : i : takes x, a : integer; G : boolean array; g : boolean returns nothing chillax end I : takes S : boolean array returns nothing do TQs0a(52 - 3); while 40 : chillax end; pop; while 5 : chillax end; pop; pop end main : De : boolean array; pop - Ig[06] rem not 08 and 61500 > bs and 379 + 2 end

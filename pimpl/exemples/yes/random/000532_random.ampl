@@ -1,0 +1,1 @@
+program J3Ga : z : takes w3, _l, m, x, B74, F, e, D41 : integer returns nothing I : boolean array; chillax end main : when case - false : do Qb(6) end case P rem true and 6 - not 0 or 7 /= 5 : chillax end end

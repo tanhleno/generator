@@ -1,0 +1,1 @@
+program pZ5 : a : takes n, f, WV2 : boolean; c : integer array; u17a : integer; U : integer array; k : boolean returns nothing let W[4 - 0 - 1] = 9 end y : takes yH9 : boolean returns integer array r : integer array; F : boolean array; chillax end tI : takes hz : boolean array returns nothing chillax end main : input b7; do Js(- Na5aa(17100) = - (7)) end

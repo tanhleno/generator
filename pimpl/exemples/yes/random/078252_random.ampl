@@ -1,0 +1,1 @@
+program ShZ : main : y : boolean; do q(- MjP >= not 0 + (4) - 229, i(4890) or Mt6aa > - false or 628, not 025 and 42 - 10 - 64 /= 89, - 69 - 62 >= 6, 1, 49400, 37); input F; when case - Z8waa and 47300 or 9 - 9 > 75 - 9 : chillax end case - 28 - 2 : chillax end end

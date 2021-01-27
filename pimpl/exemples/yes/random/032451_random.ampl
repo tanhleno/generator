@@ -1,0 +1,1 @@
+program Y : d : takes Rl30a, N : integer returns nothing WN, ba, B3ca, d, d8 : boolean; chillax end main : c1, O : boolean array; k, B : integer array; while - false * true rem(76) and 5 /= true - false : chillax end end

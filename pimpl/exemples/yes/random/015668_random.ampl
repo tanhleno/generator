@@ -1,0 +1,1 @@
+program q : B : takes S, SD, u : integer returns boolean array chillax end main : B70, G : integer; let v = array false - true - not 22; while - 22000 - 92 and 7 + 0 : chillax end; input YYG; output "" end

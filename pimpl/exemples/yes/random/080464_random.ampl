@@ -1,0 +1,1 @@
+program k8 : main : t : boolean; when case true rem(531) - true = not false - true and 46 - 076 - 4 : when case - 3940 - 4 /= 7 : chillax end case 2 = 9460 : chillax end case 3 : chillax end end otherwise : chillax end end

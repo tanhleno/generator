@@ -1,0 +1,1 @@
+program O : F : takes o95 : integer; B, c : integer; r : integer array; Yc, c : integer array returns boolean chillax end L : takes S : boolean; k15a, w, W8X0a : integer returns integer array input Z8Z[- 1 - 1] end A5xaa : takes S : integer returns nothing pop 1 end main : k : integer; a : integer; K9a0, Z8, q1 : integer array; p, q050a : integer array; chillax end

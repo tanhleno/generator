@@ -1,0 +1,1 @@
+program Mdv : VP0a : takes Prbaa : integer array returns integer when case - not 1050 and 1 : chillax end case 5 - 4 >= 815 : input g end; pop; let m81[88] = 93 end main : pop not 9 + 8 and 0 or 5 < - false and 81 + 4; do L50a(- (5) rem 8 and 2) end

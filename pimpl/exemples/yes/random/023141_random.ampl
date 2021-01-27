@@ -1,0 +1,1 @@
+program _ : Z3U : takes w1, e : boolean returns boolean chillax end main : do h8qaa(c5d(8, 6300) - W(00) * (5) and 37100 > - false / true and 7 + false and 4 + 7 - 0, - lFH(4) * 1 or 1660 and 7 + 0 - 07 > false and 465 or 2); let J = 75 and 52600 or 4 - 5 >= 169 - 9 end

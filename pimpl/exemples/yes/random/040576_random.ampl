@@ -1,0 +1,1 @@
+program B : Ad : takes m : boolean array; Y1G : integer; f, b9 : integer; SND0a : integer array returns nothing pop - 83 - 85 end main : i : integer array; let l[(04 = 21)] = array - k3[01] + true / (0) + (40); when case i7 >= - b + 4 - 8 : chillax end end

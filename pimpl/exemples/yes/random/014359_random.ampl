@@ -1,0 +1,1 @@
+program _ : RH : takes hH4, BE, o : integer array; c : boolean returns nothing N, u9, t8p : boolean array; R4 : boolean array; chillax end L : takes z : integer; N, Aq1a : integer returns nothing chillax end main : F : integer array; while true /= - 04200 + not 9 or 49 : chillax end end

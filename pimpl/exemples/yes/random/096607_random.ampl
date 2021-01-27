@@ -1,0 +1,1 @@
+program O9w : main : when case - true /= 96 + (8) and 1 + 0 : input cR1[- 45]; while 10 = 8 : chillax end; input l; do L5qaa(5300) end; output - J5K and 8; do m6((5) and 8 = 753 - 9, - 9 - 751 > 5, 47 = 6); when case - 67000 > 7 : let qn = 8 end case 28 : chillax end end

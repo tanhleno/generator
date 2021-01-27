@@ -1,0 +1,1 @@
+program Q460a : H : takes M1, b, q_1aa : boolean array; XH0aa, A : integer array; d : integer returns boolean _4 : boolean; output "L~" . "" end main : Tsza : boolean; f9, X4, Q : boolean array; w0, P, FJ8aa, u05aa : integer; r : integer; chillax end

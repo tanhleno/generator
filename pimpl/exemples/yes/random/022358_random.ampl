@@ -1,0 +1,1 @@
+program kg9 : f330a : takes a8, aFX0a : boolean array returns nothing E3, wS : integer array; jOy0 : integer; b : boolean; d9maa, NE0 : boolean; T : boolean; input H[true and 5]; output 2 = 7; when case 45 = 91 : while 0 : chillax end end end main : input Y end

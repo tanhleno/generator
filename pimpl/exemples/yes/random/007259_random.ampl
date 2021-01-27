@@ -1,0 +1,1 @@
+program g : i : takes X, o, D, U0 : integer array; r870 : integer; sv9 : integer returns integer _5, L : boolean; U, t, Y : boolean array; chillax end main : o8 : boolean; x : boolean; b5, b5 : boolean array; pop n2f(561) /= 590; pop end

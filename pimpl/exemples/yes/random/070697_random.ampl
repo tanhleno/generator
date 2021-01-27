@@ -1,0 +1,1 @@
+program xm : main : w, V2_, OL5, H : integer array; while 1670 rem true : output 9 end; when case true * false and 60 or n and 9 + 676 - 24900 = - Ty : output ""; output ":" . "" end case(51) or 5 - 1 : chillax end otherwise : chillax end; when case - false - 000 = - 7 : chillax end case - 39 /= 376 : chillax end end

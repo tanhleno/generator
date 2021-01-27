@@ -1,0 +1,1 @@
+program rQi0a : i : takes _3ma : integer array; P, p9K0a, K7D0 : integer array returns nothing I, hi8aa : boolean array; output 881 - 55 . "" . "8" . "\"k" end d : takes C2na : boolean; t1 : boolean; s, t, L : integer; p6ra, B, U : integer array; d : boolean array returns integer let _8Ta = array 3 end main : Dwn0 : integer; PEW0, U0 : integer array; input H[(2)] end

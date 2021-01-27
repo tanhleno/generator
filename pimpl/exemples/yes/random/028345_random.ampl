@@ -1,0 +1,1 @@
+program y6 : r6 : takes G0Na, Y : integer array; O7 : boolean array; sV : integer array returns nothing let lM0a[735] = array - m3; when case 13000 : pop end; while 0 : chillax end end Pz : takes _ : integer array returns integer G5, E : boolean array; hS, m : integer array; CFl0 : boolean; input fq[5] end main : r0 : integer; t : integer; chillax end

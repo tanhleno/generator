@@ -1,0 +1,1 @@
+program KU : c : takes jb : integer; Mr, AV, B : boolean returns boolean pop 2790 end q : takes g : boolean returns nothing O : integer; pop end _ : takes CW : boolean returns boolean array chillax end main : U6, r, c, Q0, tb40a, e, X : boolean array; chillax end

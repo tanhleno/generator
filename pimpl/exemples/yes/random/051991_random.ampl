@@ -1,0 +1,1 @@
+program _1 : n : takes S : integer; I34aa : boolean array returns integer b : integer; Eq, R3 : integer; chillax end v : takes f7d0a, _J5, d : integer; F5xaa, w, X, UB : boolean; P, Y : boolean returns nothing Q, f, TCz, S : boolean array; chillax end main : h95, _, W6B : integer array; do z(- true rem 9990 * true and 94 or false or false and 8 <= not false / 6 + not 7 or 5) end

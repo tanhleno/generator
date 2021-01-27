@@ -1,0 +1,1 @@
+program lPC : ua70 : takes c_ : boolean array; F02 : boolean array returns nothing pop end main : a3za : integer array; FS : boolean array; b, a6s, U : integer array; pop true * true = - false and 3 + 6; pop not 5 or 0; input t[- not 9]; let k[42 - 8] = 4 = 553 end

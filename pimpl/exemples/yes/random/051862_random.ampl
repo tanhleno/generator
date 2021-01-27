@@ -1,0 +1,1 @@
+program L7s : t : takes O0s : integer; s : boolean array returns boolean array chillax end pm9aa : takes y, e, x9, t : boolean returns boolean array chillax end main : t : boolean array; PR : boolean; kS9aa : integer; chillax end

@@ -1,0 +1,1 @@
+program K : oZ : takes cp40a, C : boolean; usu0a, x1 : integer array returns integer hO, d, h, Hfe, F : boolean; chillax end main : when case not(184) * A + (00700) / false - (124) + 138 < - (0) - 9 and 19 : input ZH1[- 6] end case - false or 9 or 6 > 2 : do T(8) end; do t(true / (029)) end

@@ -1,0 +1,1 @@
+program p36 : j1 : takes p, x, J : integer array returns nothing B210, i : integer; n : boolean; j6na : integer array; Pq80, r0 : boolean; chillax end main : z9z : integer; E, y : integer; output - (4) + 0 and 45 + 6 - 69 . - 36 - 729 < - 6 - 5; pop - JO > 0; let H = - 07 - 901; output 2; pop; pop; do H(3) end

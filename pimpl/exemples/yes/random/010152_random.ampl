@@ -1,0 +1,1 @@
+program SG : X71 : takes Z, M, I : boolean array; W4 : boolean array returns nothing P, f970, T : integer; l7 : boolean array; x : boolean; when case Q and 4 or 06 - 8 : while 0 : chillax end end; while - 9 : let s36aa = 676 end; pop 7230 end XnP0a : takes V65, lU, u : boolean array; K : integer returns boolean array chillax end main : a, E33 : integer; chillax end

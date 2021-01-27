@@ -1,0 +1,1 @@
+program al6 : R : takes Z, lH0 : integer; n, w : boolean returns nothing X1 : integer; c4 : integer array; m : boolean array; a680a, K6 : boolean; X7 : boolean; BB : boolean; input H[959 + 7]; input V000 end main : chillax end

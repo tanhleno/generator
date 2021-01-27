@@ -1,0 +1,1 @@
+program FT7 : main : when case false / not false or(1) rem false or not 2 and 9 <= - (5) : while - 44 < 9 : chillax end end case(29) - true and 823 or 3310 - 0 : chillax end case - 2 >= - 8 : chillax end otherwise : let c[36] = array 102 end; pop; when case - 730 and 41 : chillax end; while - 52 - 5 : chillax end; while 1 : let y = 04 end; input s end

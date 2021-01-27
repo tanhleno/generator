@@ -1,0 +1,1 @@
+program d : J0D : takes D4 : boolean; l, x : boolean array returns nothing se, bQ, z : boolean; chillax end main : when case false / (46) and true + false / false + not 03 and 525 + 7 - 0 : chillax end case Y(4) and X - (2) and 15 : input b end otherwise : input R[62300] end; let Q = m - 65 - 4 <= 7470 - 8 end

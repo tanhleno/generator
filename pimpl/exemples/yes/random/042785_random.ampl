@@ -1,0 +1,1 @@
+program E : v : takes U : boolean array returns integer array y : integer array; when case - true or 7 : while 5 : pop end end otherwise : chillax end end tn : takes W4, y : integer returns nothing pop 6 end main : while(74 = 1) * false rem true - 17900 / (1) and 4 : chillax end; do y(false >= 36 - 50 - 1, false and 6 or 031, - 883 - 98, 9780) end

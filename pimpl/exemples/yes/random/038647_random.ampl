@@ -1,0 +1,1 @@
+program _ : FRQ : takes D92 : boolean array; S2, z3U : boolean array; eG, Ycfa : integer array returns nothing s : integer array; U7 : boolean; chillax end W : takes U, pK : integer returns nothing S88, B5 : boolean; chillax end p : takes D62, E, R : integer returns boolean sd, L : integer; pop 3 end main : while - 9170 + (1) and not 71600 : chillax end; pop end

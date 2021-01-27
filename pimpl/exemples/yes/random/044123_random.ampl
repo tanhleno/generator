@@ -1,0 +1,1 @@
+program Pm40 : z2 : takes k : boolean array returns nothing y19a, tMd0a, S81 : integer; XI_0a : boolean array; bV : integer array; z820a : boolean; while - (8070) + 3 - 3 : input e end end main : o7_aa : boolean; Hj : integer; when case - true : output 9 end otherwise : chillax end end

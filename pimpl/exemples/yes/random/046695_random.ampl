@@ -1,0 +1,1 @@
+program q : e : takes XA5 : boolean returns integer array APyaa : boolean array; B : integer; chillax end main : let yE5[H[3] and true * true and 99 or m[662] and false and 45] = array - false / not false and 2 and 4 end

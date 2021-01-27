@@ -1,0 +1,1 @@
+program z9 : f : takes t6b0a : boolean returns integer do AtD(false and 33 <= 51, 6 - 461 < 723, 7, 2); input E end main : G : integer array; do S(true / l * true - 7 and not 05 + false and 49800 or 8 - 4, 2, 03 - 17 - 75 > 3 - 5) end

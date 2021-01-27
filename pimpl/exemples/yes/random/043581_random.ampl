@@ -1,0 +1,1 @@
+program b : y_4aa : takes R : boolean array returns nothing chillax end k8 : takes m6 : boolean array returns boolean q : boolean array; do zd(50 - 943 = 8, 7); when case 8 : output "Y^"; pop end; while 4 : pop end end main : pop - false - not 78 < - not 5270 and 0; when case - (52400) / not 8 : chillax end; output 681 /= 0 . 510 end

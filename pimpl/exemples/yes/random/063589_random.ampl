@@ -1,0 +1,1 @@
+program s9g0 : J9Q : takes y : integer returns integer pop 5 = 44900; while - 4 - 87 : chillax end end g : takes KUy, q : integer array returns nothing w : boolean array; B, HX4 : integer array; pop 09 end main : s890a : integer array; do a4F((7) rem false rem not 27 - true rem(707) and 8); while false and Tu or not 6 and 9 : chillax end end

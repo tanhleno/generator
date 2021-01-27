@@ -1,0 +1,1 @@
+program ZZH : l6 : takes i, q : integer; Z9P0a, V2, o3Qa : boolean array returns nothing u2 : integer; let e[true and 74 + 94] = array - false and 05 end main : tg : boolean; let v[(488 = 2)] = array - (1 = 57) end

@@ -1,0 +1,1 @@
+program F49a : main : when case 3 * false rem not 40 and 9 /= 8 - false + 1 - 9 : pop 24; input y end case - false >= - false and 6 : chillax end case(26) and 5 : pop end case - 392 > 6 : chillax end case 65100 = 2 : do E(9); pop end case 62 : pop end otherwise : chillax end; output "y" . 6 . 4 = 1; while not 40 or 61100 >= - 95 - 8 : input M8[05]; output "" end end

@@ -1,0 +1,1 @@
+program f86 : J : takes y, h : integer array; r, v, C32aa : boolean returns nothing a57 : integer; pop - 323 - 1 end main : when case c[31800] / false rem true - 4 * (24) and 1070 < - false * false and 029 : chillax end otherwise : chillax end end

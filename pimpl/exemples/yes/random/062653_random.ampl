@@ -1,0 +1,1 @@
+program T : t4 : takes Li : integer returns boolean when case(451) and 856 + 496 /= 9 - 01 : chillax end case - 20 - 186 : chillax end otherwise : chillax end; input w end P7 : takes M : integer returns nothing output "\t7!a" end x2 : takes V030 : integer array returns integer array by, H : boolean array; M, m9 : boolean; F : boolean; h : boolean; chillax end main : output "" end

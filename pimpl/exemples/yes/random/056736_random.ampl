@@ -1,0 +1,1 @@
+program ec2 : L : takes e : integer array; W : integer; R : integer array; Q, P : integer array; w9, y : integer; c, e : integer array returns boolean array t6, vK, C6 : integer; UYp : boolean array; U, _H5 : integer array; let A = array true and 01 - 32 end main : pop - RoPaa or FH2 and 617 or 3 - 3 >= - 61800 and 0 end

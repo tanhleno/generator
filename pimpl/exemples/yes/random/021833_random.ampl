@@ -1,0 +1,1 @@
+program F9wa : P : takes n, G : boolean array returns nothing chillax end po0aa : takes q, Y, h : boolean array returns nothing chillax end i : takes ml : integer; N : integer; k1, hZ : integer array returns boolean array Qu : boolean; ov : boolean; p35a : boolean; a : boolean; chillax end main : Y : boolean; V4K, _ : boolean; i5Taa, nh : boolean array; chillax end

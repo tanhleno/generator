@@ -1,0 +1,1 @@
+program X9 : Ch9 : takes rm5 : integer; g, N3 : boolean array returns integer o : boolean; V : integer array; input W end main : E : integer array; F : integer array; Z310, fWJ, Tp, uJ : boolean; F, Cf9, E8, w : integer array; output "\n" . "\t"; while true rem 9 : do f(47) end; input l6_ end

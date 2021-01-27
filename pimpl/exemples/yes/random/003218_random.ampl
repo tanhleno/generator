@@ -1,0 +1,1 @@
+program n : pGi : takes BN, IjZ, aP, y, V4 : integer; U83, S : integer array; g, U21, B, Q, R : integer array returns nothing do p8(- U and 8 + 1) end S74 : takes w : boolean array; z : boolean; n7, L470a, ml, MZ50a : boolean returns integer chillax end main : let h830a[- OG10a / HDY(3) / false and 1340] = - GgX[68] and false end

@@ -1,0 +1,1 @@
+program _4 : Y2H : takes K4S0 : integer array returns integer g : boolean; chillax end Z : takes RJ3 : boolean array returns boolean array chillax end x : takes T : boolean; t, LZl : integer; CjU0, aE : boolean array; pq : boolean returns nothing P : integer array; input My6; input Z; pop; output ""; pop end main : chillax end

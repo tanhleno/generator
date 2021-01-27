@@ -1,0 +1,1 @@
+program C0 : R : takes k4, JD, sZ, s : boolean returns boolean when case - false : pop 16; while 556 : chillax end end; pop end BgLa : takes Ohl0a : boolean returns nothing while 74 - 3 : chillax end; while 5 : input G end end main : e, WYF, Ep6aa : integer array; P : boolean; input k5z0a[- k] end

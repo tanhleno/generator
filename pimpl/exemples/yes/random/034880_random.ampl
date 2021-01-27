@@ -1,0 +1,1 @@
+program z5y0a : E : takes K440 : boolean; Z, U : integer array; b, YXa, k : boolean array; va : boolean; j : integer; jtc : boolean returns integer array _37 : integer array; chillax end c : takes YQ : boolean array; E83a : boolean returns nothing do w(1 - 4 <= 7); output "" end main : let K = array true and(0); while - not false * (8) <= not 5 and 1 + 05 : chillax end end

@@ -1,0 +1,1 @@
+program O : X : takes J1, t50aa : integer returns integer chillax end n7 : takes P, yn, OIDaa, z : integer returns nothing R1, Qr : boolean array; chillax end main : R : boolean array; A, I : boolean; when case not not(90) or 77 / w : input OLk0[- 8] end end

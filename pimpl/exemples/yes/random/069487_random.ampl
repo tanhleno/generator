@@ -1,0 +1,1 @@
+program _r40a : main : mVYa, q, H, E : boolean; SvU : boolean; V : integer; Ps : boolean; when case - not o[9430] or 41 rem 9 > - 482 or false and 2500 : chillax end; input lI; input _6o[true or 1 - 08]; output ""; let j[9330] = array 94 end

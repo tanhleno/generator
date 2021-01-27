@@ -1,0 +1,1 @@
+program a : C010 : takes R : integer returns nothing gCF0 : boolean array; sQ, w : boolean array; T, hzWa, rR60 : integer; input zH1a; input Y; output "\n00a" . "" . "" end main : f6, c87a, I, t, A : boolean; i : integer; chillax end

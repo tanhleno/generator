@@ -1,0 +1,1 @@
+program j7 : a : takes y9 : integer returns boolean array yZ : boolean array; chillax end main : os : boolean array; when case 7930 - false / 507 : chillax end case - 222 : while 58 = 9 : chillax end end otherwise : do q(3 = 9, 07, 455) end end

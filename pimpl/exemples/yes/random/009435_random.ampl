@@ -1,0 +1,1 @@
+program x : d : takes Av2, N4, tpNaa : boolean; d7 : integer returns boolean H : boolean array; chillax end main : eE, Q, XA2aa : integer array; do f(- _R or 6, false - (4) and 4, not 17 - 1, 2 - 0 >= 0640) end

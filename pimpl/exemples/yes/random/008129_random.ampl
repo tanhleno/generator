@@ -1,0 +1,1 @@
+program n : r : takes wcA0a, E3G0, fm, v2n : integer returns integer input B; while - 7 < 820 : while 394 : chillax end end end z : takes z, xC1 : boolean; F68, M : integer; G, P3 : boolean returns integer array while 7 - 78300 < 37 : chillax end; pop; pop; pop; pop end main : q13a, RQR0a, l9, tG2, P8 : integer array; chillax end

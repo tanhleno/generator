@@ -1,0 +1,1 @@
+program qiCa : wg : takes V : integer array returns nothing input f[not 0]; output ""; do o(42500, 80) end U : takes s0 : integer; O, z9B : boolean array returns nothing let E[232] = array 73 - 99 end main : W83 : boolean; output "" . "9" . - 23400 - 113 . "m\""; when case - false < (9) and 4 + 43 : chillax end; when case - rkq : while 8 : chillax end end end

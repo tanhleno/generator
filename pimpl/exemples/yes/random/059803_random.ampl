@@ -1,0 +1,1 @@
+program fCn : L : takes uJ : integer array returns nothing chillax end TK : takes V : boolean array; ZMy : integer array returns nothing pop; output "!" . 89400; while 21 : chillax end; when case 7610 : chillax end; while 0 : chillax end; pop end v7ra : takes w : boolean returns boolean array chillax end main : chillax end

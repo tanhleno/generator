@@ -1,0 +1,1 @@
+program A : _ : takes X, m : boolean array; L6 : boolean returns integer array V, U6Raa, v : integer; x : boolean array; chillax end pT : takes n1 : integer returns nothing P, pCFa : integer; chillax end a : takes O : integer array returns nothing p7 : integer array; N9, h : boolean; do P(874, 80) end main : u58, O, hh, B : integer array; input c; let bg = array - not true end

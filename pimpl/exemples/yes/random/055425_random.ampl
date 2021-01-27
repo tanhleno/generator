@@ -1,0 +1,1 @@
+program B3 : K : takes K : integer array; H, p7G : integer returns nothing O4h0 : integer; chillax end main : output ""; when case 5 : chillax end case false and 8 or 93 - 8 : chillax end case - 35 - 61 >= 4 : do C3(0); while 03700 : chillax end; pop end otherwise : chillax end end

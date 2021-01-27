@@ -1,0 +1,1 @@
+program l000a : xd : takes xh : integer returns nothing let Qd[- false and 2 - 6 - 4] = 5 >= 1; output ""; when case 9 : chillax end end h12 : takes M94 : boolean; p0a, P : boolean returns nothing chillax end main : chillax end

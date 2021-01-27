@@ -1,0 +1,1 @@
+program H1 : main : when case - 231 - 2 * true : chillax end case - yb(22600) < z and 8 : while 88800 : input _; pop end end case - false + 87 : do I34aa(5) end case - 86700 - 0990 >= 9 : do _770a(3) end case 9 = 31 : chillax end otherwise : when case 29 = 44 : chillax end end; output - H and 2 . 1 <= 4 . "b?\"" end

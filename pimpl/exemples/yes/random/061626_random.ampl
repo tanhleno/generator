@@ -1,0 +1,1 @@
+program D : n1I0a : takes A8 : integer array returns nothing while - D3 and 8 - 63 - 116 : chillax end end main : u : boolean; Kz, C8 : integer array; m, YE : boolean array; pop not true and(8) or false end

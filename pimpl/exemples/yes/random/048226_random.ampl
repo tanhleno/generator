@@ -1,0 +1,1 @@
+program H9 : K : takes W : boolean returns nothing P, U : integer; q74, F, Vi : boolean; mw10, c : integer; while false : chillax end; let g4[29800 - 373] = array - 6 - 3 end main : do u6(- not(3) + (311) * 2, - B / 4 and 79) end

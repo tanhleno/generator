@@ -1,0 +1,1 @@
+program z : k : takes F : boolean array; t : integer; N2da : integer; T7I0, y : boolean array; E : boolean array; U, a : integer array returns boolean i3, K5faa : integer array; X, V9, b9M : integer array; Z1 : integer; x, y : boolean; QK : boolean; do x9(- (0330) - 98); let O64 = 4; let O[391] = 2; do l(35, 5); do ZM(8); do JK(92); pop end main : Y : boolean; chillax end

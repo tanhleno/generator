@@ -1,0 +1,1 @@
+program r6c : e : takes p, P, Z, hN, v, B6, e : integer returns nothing chillax end I : takes Sy7aa : integer array; x : boolean returns nothing G53aa, c : boolean array; chillax end main : chillax end

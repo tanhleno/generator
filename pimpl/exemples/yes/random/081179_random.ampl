@@ -1,0 +1,1 @@
+program bPhaa : main : ng : boolean array; S, T02 : boolean; h, ox : boolean array; when case(3 = 3) * not(77) - 0 < - false : chillax end otherwise : input Mz[0]; let _r = 30800 end; do B7(m9 or QVR and 57 < - true and 7 - 0 - 6); pop end

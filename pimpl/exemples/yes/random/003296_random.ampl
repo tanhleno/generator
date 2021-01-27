@@ -1,0 +1,1 @@
+program lq : u2 : takes K, n, Y, G, X : integer; N : boolean returns integer array output 5 end y2 : takes q : integer array; XN8aa, r, td, Rya0, EK, A : boolean returns nothing output 1 = 5 . 75 . 9; pop 9 end z02 : takes U, Yr20 : boolean returns nothing N : boolean; w, Y8j : boolean; chillax end main : chillax end

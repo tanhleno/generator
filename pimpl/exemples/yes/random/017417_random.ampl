@@ -1,0 +1,1 @@
+program mP6 : Vl : takes nXRaa, Z : boolean; io, n : integer; S : integer array; M, fTi, p : boolean returns nothing chillax end v : takes vp : boolean array; d : boolean array returns nothing t72a : boolean; while 4 - 4170 > 912 : chillax end end main : Yh, K, V : integer array; j : boolean array; chillax end

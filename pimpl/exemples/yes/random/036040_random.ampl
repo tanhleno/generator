@@ -1,0 +1,1 @@
+program u : s : takes S : boolean; z : boolean array returns nothing T : boolean array; chillax end aX : takes a : boolean returns boolean output 3 = 4 end main : f050, awz : boolean; when case 0 and 666 and(1) < - not true and false or true : let q[985] = 6 = 31 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program x2 : rFQ0a : takes m, c7, L_, y : boolean array; l : boolean array; g : integer array; Em, _84, k__, O : integer returns nothing S : boolean array; chillax end main : p : integer; T : boolean array; M : integer; I : boolean array; ber : boolean; d, C : boolean; chillax end

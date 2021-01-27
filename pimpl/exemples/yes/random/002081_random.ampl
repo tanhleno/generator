@@ -1,0 +1,1 @@
+program Y : t : takes uXT, yz, B4e, z, O, n : integer returns nothing N : integer array; Z3C : boolean array; ZJ : integer; pop - 34 - 8 <= 43; when case - 5 - 6640 : let Q = 13 end case 8 = 3900 : when case 3 : chillax end; pop end case 3720 : pop end case 3 : chillax end; input J[6120] end main : chillax end

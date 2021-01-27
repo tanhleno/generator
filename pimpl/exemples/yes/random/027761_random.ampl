@@ -1,0 +1,1 @@
+program s : y : takes Do, RH : integer array; wP7, t : boolean array returns nothing ka : integer; while 4 and 1 : let Cf0aa = 3; output "\n9\"" end end main : a690 : boolean; va : boolean array; S7_ : integer; chillax end

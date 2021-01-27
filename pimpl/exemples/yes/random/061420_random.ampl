@@ -1,0 +1,1 @@
+program p : U : takes F : integer array returns nothing output "" end sn4 : takes B, o, R, A, g44a : boolean; O : boolean array returns nothing let T = 32 = 3670 end main : S, Y : boolean array; input p; let u1[91 / cV and 1 + (51100)] = - not 5 and 55; input F[43 and 2] end

@@ -1,0 +1,1 @@
+program wQh0a : Zs40a : takes HA50a : integer array returns nothing H, K : integer array; chillax end e24aa : takes DgWaa, Q1J0a : integer array returns nothing when case 556 - 8 >= 41 : let C4 = 4; when case 7 : chillax end end; output "3e" end main : x : boolean; input t[(3 = 575) + L(4) or false] end

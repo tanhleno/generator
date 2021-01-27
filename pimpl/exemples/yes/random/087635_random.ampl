@@ -1,0 +1,1 @@
+program n4x : main : n : integer array; while(6 = 48) rem false + not O8m <= - not not 6 + false and 11 + 6 : when case 6 : chillax end case 2 = 484 : chillax end otherwise : chillax end end; while false / false and 5 + not 46 or 489 = true + 0 - 2 : chillax end; pop - 2; do m7(51 - 1) end

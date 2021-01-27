@@ -1,0 +1,1 @@
+program t : A : takes d : integer array returns boolean array pop - 12 - 21 end O : takes t : boolean array returns boolean array _, T6, V6 : integer; chillax end main : S3, r : integer; when case - (340 = 58) rem not true = (0) : while 23 - 8 : while 87 : chillax end; when case 0 : chillax end end; when case 6 : input Lvtaa end case 9 : pop end end otherwise : pop 0; pop end end

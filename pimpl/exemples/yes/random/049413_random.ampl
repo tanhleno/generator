@@ -1,0 +1,1 @@
+program _ : O5 : takes P : integer; D, e, m, B4, NJ7 : boolean array returns integer do P980(- k and 3 or 2 - 5, - 28500, 9540 = 62400, 2, 6); pop; do RBB(52 = 216) end main : _59aa, X, M9 : boolean; s, c : integer; o : integer; V0G0a : boolean; Yg : boolean array; N32a, e1 : boolean; W : boolean; X : boolean; chillax end

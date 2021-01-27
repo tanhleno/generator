@@ -1,0 +1,1 @@
+program Q : a8 : takes O84, Tdca, r : integer array returns integer when case - false and 8 - 5 : chillax end case 49 - 8 : let g3 = 4 end case 551 : pop end otherwise : chillax end; let a2[836 - 8] = array 8360; let L[83] = 6; while 3 : chillax end; while 5150 : chillax end end main : B5W : integer array; u2, N8, t5, V : boolean; chillax end

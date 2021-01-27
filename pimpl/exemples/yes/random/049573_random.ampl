@@ -1,0 +1,1 @@
+program xh : enM0 : takes i : integer; E, c, w6, x0 : boolean array returns nothing chillax end M : takes w, c, B, x1 : integer array returns nothing chillax end main : P, n3 : integer array; chillax end

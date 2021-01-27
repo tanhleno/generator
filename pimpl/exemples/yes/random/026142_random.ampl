@@ -1,0 +1,1 @@
+program q94 : q : takes Y, k : integer; q : boolean array; ll7aa, d7 : boolean; e1b0a, a8y0, w, _W, Ov : boolean array returns boolean m7iaa : boolean; input bN4; do u(90 - 9040 <= 4, 206 = 6, 9); pop end main : Cp, f : integer array; output "" . "3" . "" end

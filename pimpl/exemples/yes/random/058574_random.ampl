@@ -1,0 +1,1 @@
+program CC1 : n : takes Nk : integer array returns integer array chillax end b3 : takes J6, fQ5, q, M, J : integer; n2, Uh, i : boolean array returns boolean chillax end main : while - false * w[65] or true / (9) > 1 : chillax end end

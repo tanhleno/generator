@@ -1,0 +1,1 @@
+program s4 : A : takes M, hh9a, XXj, _cG : boolean; tl3, W, Z1 : boolean; W, b5, k : integer; p9 : integer returns boolean chillax end main : c1 : boolean array; input rJH[- O(69, 0) + (5) + (67)] end

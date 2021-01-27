@@ -1,0 +1,1 @@
+program c650a : r : takes N98, H42 : boolean returns nothing e, F9, pH : integer; chillax end q : takes O : integer array returns boolean chillax end main : do Fm1(- not not true + (5) - true - 4 - 7) end

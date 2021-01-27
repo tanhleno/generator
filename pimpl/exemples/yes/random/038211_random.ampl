@@ -1,0 +1,1 @@
+program Z4 : ey : takes L : boolean array; nDY0a, M, qM : integer; v, F : boolean; J : boolean; u79, G, MVQ, d6 : integer array; Y : integer returns nothing while - true - 6 - 2 < 9 : chillax end; let F[2 - 8] = 4 end X740 : takes z : integer returns boolean array r : boolean array; x, s, r : integer array; R6 : boolean; chillax end main : chillax end

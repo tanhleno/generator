@@ -1,0 +1,1 @@
+program k : Rak : takes LoF0a : integer returns nothing W9, cTT, Y : boolean array; d4 : boolean; chillax end main : h, Y : integer; let H = array - (4 = 2690) rem 9 and w + (385) rem(8) and 30; output "\"" end

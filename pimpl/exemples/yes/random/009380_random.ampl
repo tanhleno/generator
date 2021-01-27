@@ -1,0 +1,1 @@
+program gC : ef1 : takes x79, Hh9a, c : boolean; n : integer array returns nothing chillax end yz40a : takes x : integer array; n : integer; kk : integer; E, D : integer; n : integer array returns boolean KWma, gg4, r5A : integer array; chillax end main : Y, K40a, u, MAt0 : boolean array; let It1 = array not 807 and false * (40) and 7 + false; output "\n" . "\t" . "" end

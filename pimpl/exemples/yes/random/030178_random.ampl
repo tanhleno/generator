@@ -1,0 +1,1 @@
+program c : Jr : takes k7, M : integer array returns nothing chillax end j : takes d, DzB, V, j9J, N9, x7w, BV : integer array returns boolean let dU[- 3] = 9 = 81; input CE[6]; output 4 . ">\n"; do f(082); input cN2a end main : pop - not true * false = - P4; pop; do S79(true and 0) end

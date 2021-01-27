@@ -1,0 +1,1 @@
+program r : v : takes U69 : integer returns nothing do u(- (2) = 59100 - 26) end DU : takes U, H2 : integer returns integer array O, Kz, Bb : boolean; chillax end main : i : integer array; q, w, lY : boolean; x, Omda : integer array; I, Km : boolean array; i, p, U8 : boolean array; chillax end

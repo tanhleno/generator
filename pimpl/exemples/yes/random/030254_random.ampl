@@ -1,0 +1,1 @@
+program F : Z : takes H, lTM : integer array returns nothing chillax end L : takes g5A0a : boolean; W : boolean returns nothing b : boolean; output 5910 = 65; input F[2]; input JiX[36] end main : z7p : integer; f : integer; output - 3100 or true = k9 and 44100; while - true * 72 and 58 < - QOEaa : chillax end; input _[- (702) and 51] end

@@ -1,0 +1,1 @@
+program Tc : main : while not R2_a rem not 14 + _(9) * not 52500 and 82700 >= - true : pop end; while not false + not 0 - 108 <= - D5 and 43 : while 7 = 4 : output "m}" end; let N = array 5; when case 3 : chillax end; pop; pop end; while not 65 + 2 - 606 <= - 566 - 0 : chillax end end

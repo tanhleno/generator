@@ -1,0 +1,1 @@
+program i : U23 : takes T : integer array returns boolean chillax end main : t4, n : boolean array; while - (10) or F(31) and not 1 or 16500 and 1 >= 6 / not 90 - (8) : let I04[52 - 91] = array - 1 - 06 end; when case - true * true >= - false and 5030 - 4 : chillax end; pop 7 - 1; input g9yaa end

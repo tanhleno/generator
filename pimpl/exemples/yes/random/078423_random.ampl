@@ -1,0 +1,1 @@
+program Ru : main : aD : boolean; r20, W, D9, r, C0, l2 : integer array; when case 30 and(022) / not 770 or 8 or(636) or 2 - 1 : output 53 = 0 end case 9 * not 582 = - f9naa and 6 or 5 : chillax end case - (1) and 0 or 6 - 3 = - 08 - 78 : chillax end case 1 >= 74 : when case 6 : chillax end end; pop false and 894 + 4 - 3; input S[false]; pop; output "7\n0" end

@@ -1,0 +1,1 @@
+program D : main : J : boolean; VV, yeD : boolean; when case - g8v(3) / v[7] / false : chillax end case - 7 and(0850) + 2 and 91 < not 89 and 6 : chillax end otherwise : when case 096 = 8010 : chillax end case 0 : pop end case 0 : chillax end end end

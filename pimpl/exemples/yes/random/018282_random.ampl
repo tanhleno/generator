@@ -1,0 +1,1 @@
+program oC : O8 : takes V, T : boolean; J : integer array; W, I : integer array; j1, l : integer returns nothing chillax end A : takes DR60a, o, j : integer array returns integer array e3f : integer array; chillax end main : s : boolean; P : boolean array; input J8F0a[76 / 1]; do f(B8_0(82) - not 22 and 9 + 09 - 65 > H4U and 0 - 8400 - 946); input l; do p_7(193 - 8 < 41) end

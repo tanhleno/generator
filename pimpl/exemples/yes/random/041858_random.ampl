@@ -1,0 +1,1 @@
+program L : r6 : takes L : boolean array returns boolean array output "" . "" . "" . 450 end aW4 : takes j6, Tj : integer; Gt5, i : integer array; I : integer; CF : integer array returns integer array let H5[0] = 3 = 7690; output "EU"; output 6 . "" end main : chillax end

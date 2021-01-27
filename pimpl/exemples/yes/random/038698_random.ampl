@@ -1,0 +1,1 @@
+program wY : CkL : takes Hr : boolean array; y, i : boolean array; qV : integer array returns integer chillax end main : m, Q, x : integer; IF : boolean array; pop false / 573 and 4 or false and 98 + 66400 end

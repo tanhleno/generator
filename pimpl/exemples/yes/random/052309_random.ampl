@@ -1,0 +1,1 @@
+program m : F : takes y : integer; qi : boolean returns nothing SJ : boolean; pop 4; do q90(02) end main : S52 : integer; do E7(- true or false rem 81 and 80 - not 29000 and 957 - 8 - 7 >= (940) + not 2 + 16, 2 rem 03 and 5 < - (77) and 14500 - 2); output "" . - 1 > 9 . "" end

@@ -1,0 +1,1 @@
+program l : Z : takes U, l : boolean array returns boolean array output 024 - 4 /= 8; do g(- 4 >= 1, 5 = 46600, 0, 24600); while 0 : chillax end; pop; let Dz6aa = 1 end u : takes g, A0, Li, q, w, a, J24 : boolean; _O3a, w8, qt : boolean array returns integer array b3Ca, G : integer array; s, Z, C : integer array; chillax end main : chillax end

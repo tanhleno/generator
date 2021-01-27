@@ -1,0 +1,1 @@
+program W : d : takes k : integer array; BB, Y : integer returns boolean let TL[- false] = array not 5 and 862 end t : takes Y460a, A1 : boolean array returns nothing u, WV, a, C : integer array; F9 : boolean; RG : boolean; chillax end main : pop end

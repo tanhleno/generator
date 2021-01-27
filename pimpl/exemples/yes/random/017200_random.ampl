@@ -1,0 +1,1 @@
+program O : X : takes Rn, m010 : boolean; F, p : boolean array; M, z : boolean returns integer array y7, G, k, B, jN6 : integer array; chillax end main : when case - 02 - not 9 rem(29) and 2 : chillax end case - not 00 * false or false and 3 + 5 : chillax end otherwise : output 8 . 5 end; while 1 = - (8) and 4 + 98 : chillax end end

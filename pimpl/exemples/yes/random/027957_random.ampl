@@ -1,0 +1,1 @@
+program C89 : g : takes y, X770 : integer array; w, Tr : integer array; w180a : boolean returns nothing V, O, p : integer array; input YK end C : takes b, T : boolean array returns nothing chillax end main : xz : boolean; O : boolean; H480a : boolean; lu, U, Bl9, Br : integer array; H : integer array; F : boolean; nYL : boolean; output not false; output "3" . "" end

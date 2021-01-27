@@ -1,0 +1,1 @@
+program Mg : f3 : takes Q5g : integer; M : boolean; _0o : boolean array; g : boolean array returns nothing F, N : integer; input q940[true and 40 or 80 - 6]; while 18 - 73 > 1 : while 74 : chillax end; input s end end C1 : takes V, n : integer returns integer do a(- 8, 82, 7440, 3) end main : E : integer; h, vs : integer array; Y, l, f, MO5, v : boolean; chillax end

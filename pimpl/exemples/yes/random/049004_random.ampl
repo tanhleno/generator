@@ -1,0 +1,1 @@
+program WA : FC : takes c56a : boolean returns nothing output "4\n" . 21 end main : output - not(2) = true + 7 - 8; let r[96 - UJ - 15 - 4] = - (15700) and 16 - 3070; while - 9 and 4 - 7 /= 838 : while 6 : chillax end; while 1 : chillax end end end

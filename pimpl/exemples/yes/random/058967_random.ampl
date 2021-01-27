@@ -1,0 +1,1 @@
+program j8 : X4q0a : takes Llxa : integer array returns integer array input G; pop; do r(5, 54) end W : takes L9, O, Z : integer returns boolean array chillax end e : takes v7 : integer array returns nothing chillax end _0 : takes K : boolean array returns nothing chillax end main : chillax end

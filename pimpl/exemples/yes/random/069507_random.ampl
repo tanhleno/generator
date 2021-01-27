@@ -1,0 +1,1 @@
+program _D8 : main : aw, q4, U, GcQ : boolean; J : boolean array; H, B : boolean; j, N52, E, s : integer; _c5, Z, x8E : boolean; u8, d : boolean; when case 16600 rem f7[863] + (80) rem(87) < - true : chillax end; pop end

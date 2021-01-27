@@ -1,0 +1,1 @@
+program n : B8 : takes o, mv : boolean returns integer array pop; input ocW[2 - 66]; let i[2] = array 636; do M(4); when case 816 : chillax end; when case 7680 : chillax end; pop end main : chillax end

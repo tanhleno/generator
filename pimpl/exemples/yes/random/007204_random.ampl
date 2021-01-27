@@ -1,0 +1,1 @@
+program W : N : takes G, xRW, D, IS : integer array; P5 : boolean returns integer input F4[- (123) and 1 or 924 - 1]; let j4[51700] = 96 end eS5 : takes Ld6 : boolean array; p1, HfDaa : integer returns nothing do m90aa(- 59 - 81 < 963, 37, 9) end main : do W(- true * true, - (7730)) end

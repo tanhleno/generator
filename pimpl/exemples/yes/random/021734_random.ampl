@@ -1,0 +1,1 @@
+program x25 : A9 : takes m, r4 : boolean array returns integer r : integer array; when case - false and 4 + 7 - 736 : chillax end case 5 > 9 : do U94(18); pop; pop end case 5 = 6 : input f1; pop end case 78 : pop end otherwise : chillax end; pop end main : V, J, LqR0a, SJe, f : integer; input x end

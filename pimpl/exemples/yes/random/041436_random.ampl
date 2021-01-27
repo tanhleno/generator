@@ -1,0 +1,1 @@
+program V : uM : takes p : boolean array returns boolean array chillax end A0 : takes JXF0, eL7, g, Wm : integer; T, w : boolean; vD3aa : integer returns nothing qr, W, Rqb0a : integer array; mT8 : integer; Vu, O5 : boolean; when case 94400 - 48 > 84 : input u end end main : v, r7, GU : boolean array; m5 : integer array; chillax end

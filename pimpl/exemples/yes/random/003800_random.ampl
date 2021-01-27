@@ -1,0 +1,1 @@
+program n : th4 : takes tCYa, O5, MH4, MU0, K3 : integer array returns nothing chillax end C : takes x, y, xH0 : integer array returns boolean pop 2 = 1; input M[60]; while 3 : pop end; output "\\(0a" end main : chillax end

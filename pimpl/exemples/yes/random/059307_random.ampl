@@ -1,0 +1,1 @@
+program y : p : takes i : integer array returns integer H, e8 : boolean array; chillax end v5 : takes q : integer; ik, sc : boolean array; ws : integer array returns boolean array Q1, y8w, J : boolean; chillax end main : output not 266 rem not 88 and 8 - not 4360 and 2460; output TmC and 141 . "" . 01 end

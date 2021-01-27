@@ -1,0 +1,1 @@
+program J : main : N : integer; input nE[- true and true / vny and 36000]; when case v[559] : output 7 . 3 . "&" end case - 0 and 6 : chillax end case - 1 - 7010 > 9 : input MC10; pop; pop end case 29 = 6 : chillax end case 0 : chillax end case 4 : chillax end otherwise : chillax end; do E(- a and 5 - 26 - 4770); do J5(79 - 707 > 1) end

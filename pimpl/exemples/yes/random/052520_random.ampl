@@ -1,0 +1,1 @@
+program nHs : An5a : takes AY : integer; H7b : integer; ws : boolean array returns integer array while - not 8 and 496 - 52300 >= 017 - 3 : chillax end end main : while false * false - true * 82 - false - 120 >= (96) : chillax end; when case - iS0(3) and false : do xm(6, 60300, 5); pop end end

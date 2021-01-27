@@ -1,0 +1,1 @@
+program dMc : x : takes U4 : boolean array returns nothing while - (5) and 8 = - 3 - 99 : let T[00] = array 2 end end main : do vY((8) * not not 8 <= - 4 rem false and 9); when case(02) and(7) = false and 4 or 6 : input ar[1] end case false : input Ry40; while 29500 : chillax end end case 4 - 63 : chillax end case 7 = 39 : chillax end; pop 2 = 0; pop end

@@ -1,0 +1,1 @@
+program S : L8r0a : takes Jt8 : boolean array; x5 : boolean array; E, gy : boolean returns nothing E9 : integer array; when case(6960) and 53 + 56 - 4 : let p9 = array 9; pop; while 0130 : chillax end end; pop end main : while 6 or false /= false * 73 : chillax end end

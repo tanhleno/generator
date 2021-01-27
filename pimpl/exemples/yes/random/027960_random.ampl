@@ -1,0 +1,1 @@
+program a : y : takes em, F : integer array; O0Ka, c : integer array; A : integer; p, B, Idgaa, C : boolean returns nothing x7aaa : integer array; t : boolean array; r : integer array; ta, k6 : boolean; chillax end main : cA30a : boolean; o, AS6 : boolean array; while - (87 = 3) rem true + false >= - not(0) and 64000 and 1 - 9 - 66 - 8 : chillax end end

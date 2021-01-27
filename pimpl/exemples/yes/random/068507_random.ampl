@@ -1,0 +1,1 @@
+program te : main : V, Q, m75, K, e, g : integer; G5, U7 : integer; WE, c, ko, K0o : integer; CW, EQ, j1, eM : integer array; K, _IM : integer; s, n4 : boolean; Ix : boolean; f : boolean; while - false rem(8) and qvGa - (420) : when case - 0570 : chillax end otherwise : when case 0 : chillax end end end end

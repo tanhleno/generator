@@ -1,0 +1,1 @@
+program l : I98 : takes H0N : integer; g0 : boolean array returns nothing chillax end o : takes o : integer returns nothing chillax end R0v : takes X, P, TpL0 : boolean returns integer array y, g, m : boolean; Jn, s : boolean; p : boolean; when case 5 = 7 : chillax end case 2 : chillax end end main : input JdX end

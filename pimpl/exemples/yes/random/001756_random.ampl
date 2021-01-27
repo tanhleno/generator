@@ -1,0 +1,1 @@
+program I5t : e : takes w0, w79, c, T5, q, p : integer array; M1, M3w, w : integer; B : integer array; I, X, v, z : boolean array; m : integer array; S : integer; m1, K2 : boolean; iE7a : boolean; kS3 : boolean returns integer chillax end main : do nq4(- not 20 / not W > - 6 - true); output "?1"; let YS = - 2 - 1 end

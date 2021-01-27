@@ -1,0 +1,1 @@
+program X : D : takes V, O, i, g, g, M22 : integer returns boolean array j63, p, ZQ, Wl3 : integer; do wqs(- (8)) end H : takes u7, E1 : boolean returns nothing chillax end main : M : integer; input k9; do j(true * (2580), - true and 4 - 53200 - 59, - 95 /= 5960, 8, 3, 7) end

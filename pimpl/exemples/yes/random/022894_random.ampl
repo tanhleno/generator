@@ -1,0 +1,1 @@
+program a : n7 : takes Tr, ZC : boolean returns boolean array chillax end main : G : integer; while(9) * (4) and not 4 and 17 - true / false and 1 or not 0390 /= (3280) / true : when case - 4 : while 8 : chillax end end case 5 = 21 : do mPr0(13); pop end case 2 : chillax end; let hy = 3580 end; pop end

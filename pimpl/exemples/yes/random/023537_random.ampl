@@ -1,0 +1,1 @@
+program I : m : takes Vq, j : boolean returns integer array Z : boolean array; while not 56700 and 3 >= - 11300 : pop 8 end end main : M : boolean; oR10a : boolean array; u : boolean; do u(true + 42 - false = - true); output "" . "" . 482 = 8 . 8; pop - 5 > 4; let q1taa = 1 end

@@ -1,0 +1,1 @@
+program P : main : I, c7, tv, X7z : integer; M, pIN : boolean array; Sz1, R : boolean array; A, W32, Z, D0 : boolean array; let Y81[true] = true; do gVm(- (85) <= not 7 or 90); do g(- true, 043, 65 = 7) end

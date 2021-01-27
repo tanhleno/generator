@@ -1,0 +1,1 @@
+program X : main : when case(6) or true = - false + true + 41 : chillax end case m : chillax end otherwise : chillax end; input n; output 694 - 9 = 3 . "" . "" . "5)0"; when case 244 : chillax end case 81 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program SiC : d3 : takes uz5, a : integer returns nothing q1, O : boolean; pop; pop; output ""; when case 334 : pop end case 71 : chillax end; while 2 : chillax end end main : F : boolean array; h, Nc : integer array; pop end

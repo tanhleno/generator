@@ -1,0 +1,1 @@
+program z9la : b : takes h, i, P : boolean returns boolean array chillax end jC : takes g : boolean; I : integer returns nothing q : boolean array; input j[- 54 - 7] end main : Wv : boolean; l, F : boolean; T : boolean array; t, oJ80, e, _ : integer; chillax end

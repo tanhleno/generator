@@ -1,0 +1,1 @@
+program M : S : takes RJ, CuWa : boolean array returns nothing do r(- true and 501 or 0 - 9 > - 3) end dc : takes _t : integer array returns boolean chillax end main : do Gv(- false rem(529), - (26) <= (42) and 8 + 2) end

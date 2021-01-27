@@ -1,0 +1,1 @@
+program r : k : takes VX, _, l : integer array returns boolean chillax end y9n0a : takes D : integer array returns nothing input kr end xT6 : takes P : integer array; u : boolean array returns boolean array pop; when case 51600 : pop end otherwise : chillax end end main : w : integer array; chillax end

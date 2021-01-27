@@ -1,0 +1,1 @@
+program MH : X370a : takes wMp0a : integer; d, U : integer array returns nothing W4, zC, HvW : boolean; chillax end u : takes H : boolean; T60a : boolean; UH, i : integer array returns boolean array I, joX0, m170a : boolean array; k : integer array; P : boolean; do p(- 79 - 1) end main : input n0C[- false + false + (483) and 0] end

@@ -1,0 +1,1 @@
+program h71 : S5 : takes ZP : integer array; l1x, r6t : integer array; S, b, r6 : integer array; Z : integer returns nothing p : integer array; oL9aa : boolean; output 22 < 2 end main : j, F : boolean; U : boolean array; qis : integer; do p670(- (4) - not false rem true and 8); input H[false - true - 05] end

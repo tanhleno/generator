@@ -1,0 +1,1 @@
+program Q4 : main : pop; when case false and i and 0 - (3) - 35300 <= (94500) and 3 + 7 : let g = 7; when case 2 : chillax end case 319 : chillax end end case not 7140 and 66 or 7460 - 6 > 26 - 5 : chillax end otherwise : chillax end; do eOJ(3 - 1 - 39 >= 4 - 0); pop 0 = 55 end

@@ -1,0 +1,1 @@
+program u : c6 : takes X : integer array returns nothing U7 : integer array; B, N, N, F : boolean array; r310a : boolean array; UH1a, y2 : boolean; while false < - 6 : pop; pop end; when case 176 >= 2 : do q(4); while 0580 : chillax end; pop end otherwise : input H end; do d(6 = 405); while 051 : chillax end; pop; when case 871 : chillax end; pop end main : chillax end

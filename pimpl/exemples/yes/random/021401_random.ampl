@@ -1,0 +1,1 @@
+program u : S : takes _, rU1a : boolean array returns integer array tsc : boolean; m, t6 : boolean; On, m6 : boolean array; u9 : boolean; input y; when case - 0 >= 4 : when case 3 : chillax end; do c(9); pop end end pQp : takes J32, b6d : integer returns nothing chillax end main : B : integer array; input K end

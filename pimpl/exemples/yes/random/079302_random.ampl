@@ -1,0 +1,1 @@
+program B : main : J : boolean; H : boolean; when case W(1, 9) * false = F(2) * true - true and 60 : chillax end case false / TO or(626) and 7 - 5 <= false and 7810 : chillax end case true >= 5 : chillax end case - 0 - 48600 : do zs(6950); let p3 = 300; pop end end

@@ -1,0 +1,1 @@
+program a : j : takes z20aa : boolean returns integer chillax end Y : takes I90, P8, x, tqGa : boolean array; fl : boolean returns integer array M96, by, r, P : integer; G : integer; s6 : boolean; l9Saa : boolean; chillax end uB : takes I71, r, G : integer array; z, I7na : integer array returns nothing while 0 : chillax end end main : pop - not false; output - true >= 05 - 4 end

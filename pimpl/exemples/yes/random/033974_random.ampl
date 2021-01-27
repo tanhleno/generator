@@ -1,0 +1,1 @@
+program w : T : takes F : boolean; G85, H5, U3b : integer; F_l0, h1, P9iaa, Y, P : boolean array; n8, i4Ja, S : boolean array returns nothing X2, k, IXL, t : integer; let nP = - 9 = 1750; while - 87 - 96 : output "If" end end main : when case - true > - cAd(3) - U5 : chillax end end

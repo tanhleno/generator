@@ -1,0 +1,1 @@
+program P21 : HI : takes FK9 : boolean array; L, v, FEZ : integer array; pW, fH8 : boolean; c : integer array returns integer array lx : integer array; when case false and 83 : chillax end case 1 - 83 < 9 : pop end end main : chillax end

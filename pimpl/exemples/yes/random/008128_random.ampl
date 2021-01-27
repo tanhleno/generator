@@ -1,0 +1,1 @@
+program Xa : C : takes i, y3, p, G : integer returns integer wn3 : integer array; when case - true and 49600 - 6 : let m = array 73 end otherwise : chillax end end w : takes Uv70 : boolean array; VH4, rV : integer array returns nothing chillax end main : pop end

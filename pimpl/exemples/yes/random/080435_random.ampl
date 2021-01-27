@@ -1,0 +1,1 @@
+program K2 : main : JR : boolean; when case not K[6] + not not 6 / (287) - 10800 and 2 or 1 < false and not 99 and 0 : when case 20 - 376 > 6420 : pop end case 85300 = 78 : chillax end; input U[6] end otherwise : let u = 48 end end

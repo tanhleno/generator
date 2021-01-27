@@ -1,0 +1,1 @@
+program vS3 : pfL0a : takes A, T : integer; v, w, cXi : boolean array; XJm : boolean array returns nothing d7 : boolean; while false < 80 : chillax end; do E3(- 6 - 09 /= 35) end C3Paa : takes XX : boolean array; g : boolean returns nothing output ""; do k7(2 = 43, 15) end main : chillax end

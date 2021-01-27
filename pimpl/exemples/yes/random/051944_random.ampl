@@ -1,0 +1,1 @@
+program W : S : takes O : integer; O : boolean array returns integer array o8R, W, niU : integer; En9, H : boolean; pop 4 - 17 > 7750 end r4 : takes T : integer array returns nothing C : integer array; pop; do kQ(33 = 1, 6, 5410) end main : chillax end

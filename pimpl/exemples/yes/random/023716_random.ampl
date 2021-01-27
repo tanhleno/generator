@@ -1,0 +1,1 @@
+program Et8 : O : takes g820a, w150 : boolean returns integer N, BHa, Glg : integer array; chillax end pYd : takes N, a, Ze : boolean returns boolean array do o31aa(80 - 2) end main : p, O7d, R, J70, G1, H : integer; chillax end

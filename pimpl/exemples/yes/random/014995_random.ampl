@@ -1,0 +1,1 @@
+program kF : sd0 : takes N6l0, F, x7Vaa : integer array returns integer array when case - (0) and 09 /= - 7 : chillax end case - 930 - 3 : chillax end case 7 : chillax end; output 9 = 4 end main : output not(1) - not 012 > - false or 13 - 2 . "" . "" . "c"; input G end

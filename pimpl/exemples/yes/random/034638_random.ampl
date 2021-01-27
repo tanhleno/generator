@@ -1,0 +1,1 @@
+program m : x : takes oQK : boolean; x500, C : boolean returns boolean x0 : integer; chillax end z : takes N : integer; bAN, k, E0, e, U9saa, VP : integer returns nothing chillax end main : P : boolean array; let e6 = array - 501 + true or not 0470 and 301 end

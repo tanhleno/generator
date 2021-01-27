@@ -1,0 +1,1 @@
+program R : r : takes c, LK : integer returns integer array output 54 = 4; pop 58 end main : when case false + (4) rem false and 0 or(0) < S[3] * not 89 : chillax end case - 4 : chillax end case true and 1 - 2550 - 128 /= - 0 - 77 : chillax end case 22 : chillax end case 4 = 088 : input L end case 0 : chillax end; pop end

@@ -1,0 +1,1 @@
+program TA : a2W : takes X, d79aa, Yr60a : boolean returns nothing km, U : integer; y72 : integer; l : boolean array; output "\"8\""; let s = 74 = 4; when case 3 : when case 5 : chillax end; pop end end main : V : boolean; chillax end

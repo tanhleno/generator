@@ -1,0 +1,1 @@
+program g2 : main : k9 : integer; Q7 : boolean array; aWF0 : boolean; hm6a, S, L, S7 : boolean array; when case - yj + not not 8 rem true and 9 : chillax end; pop - f and 0 or 2 - 18 <= - 19; input j; pop end

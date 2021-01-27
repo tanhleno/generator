@@ -1,0 +1,1 @@
+program H2 : C : takes i, kpI0a, fr, ubw, Gw, Dw : boolean returns boolean chillax end main : JJ : boolean array; w : boolean array; input PP[(72 = 7) rem false]; when case - 6 and not 6300 and 760 + V + 77 = - (2) and 09 or 4 - 8 : input l_2a[8]; do Ld(7); output "1"; let u = 70 end case I : chillax end end

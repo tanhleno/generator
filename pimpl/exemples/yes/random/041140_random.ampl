@@ -1,0 +1,1 @@
+program E8 : jQ : takes s2 : boolean array; D : integer array returns nothing x : boolean array; Td7, gB2 : integer; chillax end C97a : takes Lv : integer array returns integer array M0 : boolean; while 9 - 1 < 6 : chillax end; while 5 : while 1 : chillax end end; while 2 : chillax end end main : chillax end

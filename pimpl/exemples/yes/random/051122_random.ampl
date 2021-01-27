@@ -1,0 +1,1 @@
+program V99 : m : takes n : integer; z, y : integer array returns nothing chillax end main : input vRj[- N7(5) and N00 + true and(3) and 6300 - not 41300 and 51]; let C = array true; when case(452) and 2 <= 6 - 4 : chillax end otherwise : chillax end end

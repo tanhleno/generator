@@ -1,0 +1,1 @@
+program ho90 : _ : takes R, w70 : boolean array returns nothing chillax end G : takes L4 : boolean array returns boolean array G : integer array; k : boolean; e : boolean; _0 : boolean; VW60 : boolean; let D_5 = 39 = 314; output 18 . "" . "" end e : takes e : integer array returns nothing chillax end main : chillax end

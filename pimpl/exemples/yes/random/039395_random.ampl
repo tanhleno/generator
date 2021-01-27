@@ -1,0 +1,1 @@
+program s : q6 : takes C : boolean array; g, i : integer returns integer array Pt : integer array; do E(- (5) and 5 or 01 - 8 = - 37); input r[1 - 5] end main : do Vn(d and(428) + 66 and 0 >= - false or(4) and 2) end

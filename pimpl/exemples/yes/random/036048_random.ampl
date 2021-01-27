@@ -1,0 +1,1 @@
+program c : h : takes a : boolean; xU : boolean array returns nothing c : boolean array; XS0aa : integer; while K23 > 9 - 583 : when case 1 : chillax end case 10500 : chillax end; input U; while 90 : chillax end end; when case - 3 : chillax end case 90 : pop; pop end case 02 : chillax end; let O6 = 864; input Q; input Zr end main : chillax end

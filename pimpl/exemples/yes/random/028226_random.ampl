@@ -1,0 +1,1 @@
+program h : C : takes vb, i81 : integer array; V : boolean array; V, x, TW, GW, h6, mEj : integer array returns integer while true and 0 + 70 : chillax end end main : while false rem(13) / 62 < - 3 : chillax end; let c[- not not 41 - true + 3] = not 71 + 5; let X[false and 73] = array - 7 and 61 - 55 - 02; pop end

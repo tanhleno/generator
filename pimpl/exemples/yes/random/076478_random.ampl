@@ -1,0 +1,1 @@
+program V : main : p, Kc : integer; N : integer; let S[false / true / not 90 and 17 or not(92) / false + false and 6 + 7] = array - false and(8) and false or false rem false; do D0(- false, - false and 3 or 92, - 5 < 76); input n end

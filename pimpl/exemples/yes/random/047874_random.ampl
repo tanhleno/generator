@@ -1,0 +1,1 @@
+program JZS : T5 : takes y : boolean returns nothing U, E9, J, X21, A : boolean array; F7D, j7o, d, R7 : boolean; when case true = 5 - 2350 : chillax end case 2 > 9 : chillax end case 5 : chillax end; input v80; let Mv = 64 end main : tA, K : boolean; chillax end

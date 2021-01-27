@@ -1,0 +1,1 @@
+program l : hW2aa : takes Z2, C, I : boolean returns boolean chillax end main : pop; when case not Z - (75) and 1 - 24 <= - 22 + 6 : chillax end otherwise : when case 7 : pop end otherwise : chillax end; do Ea(0); pop end; while 6 and 7 /= 004 : do L0(1, 008); when case 4 : chillax end; when case 5 : chillax end; pop end end

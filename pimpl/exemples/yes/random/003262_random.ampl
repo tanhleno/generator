@@ -1,0 +1,1 @@
+program Q4 : J : takes M9F, T1, xB, X, _ : integer; Y : boolean; K15a : integer returns nothing while(5) and 0410 > 3 - 6 : let s = 1 end end KU5a : takes o9R : boolean array; n3 : boolean returns nothing pop 4840 end main : b, GI8 : integer; chillax end

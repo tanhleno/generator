@@ -1,0 +1,1 @@
+program Ll : main : U : boolean array; _G20a, CVK : integer array; f : boolean array; a, ERw : integer; OuIaa, p, kO : boolean; l50 : boolean; do Tk20a(- false * 63 /= - true, 8 and A and 8930 - gd and 0 - 8) end

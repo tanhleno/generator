@@ -1,0 +1,1 @@
+program M : H : takes b, S, k, H530, m : integer returns integer array Sc : boolean; chillax end CAs : takes rp : boolean array returns integer chillax end main : let VB0[0 and true and(8) and 02] = not true; while false - false + 68900 - 997 : chillax end; when case false : chillax end case - 6 : chillax end end

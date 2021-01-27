@@ -1,0 +1,1 @@
+program KS00a : A : takes sO8a, F2, aaH, D, u3 : integer returns nothing z0, u, c7 : boolean array; I35aa, o : integer; chillax end e3H : takes L8Paa : integer array returns nothing chillax end main : chillax end

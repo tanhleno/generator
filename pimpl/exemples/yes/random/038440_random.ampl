@@ -1,0 +1,1 @@
+program m : p : takes V : boolean array; t0, YI5aa, j : integer returns nothing ae : integer; pop; let l = array - 95200; input o end main : A4, _ : boolean array; input kL[- k5(45) rem true or k(15) rem true or(6) + 3]; input L05 end

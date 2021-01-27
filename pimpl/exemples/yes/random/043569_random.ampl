@@ -1,0 +1,1 @@
+program _s : pdD0 : takes L7 : boolean array returns nothing chillax end Y5 : takes U8va : boolean array; F3 : integer; Y, M06a : boolean array; Qi, D_9 : integer array returns nothing h, u7R0 : boolean array; chillax end main : S, R1q0 : integer array; while not false / g + false : chillax end end

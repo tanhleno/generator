@@ -1,0 +1,1 @@
+program V : c : takes d60, B : boolean array returns nothing F0k0a : boolean; chillax end main : Ft : boolean; r, q, C : boolean array; when case G(1) - e <= true : let d = array 35; output "9>!a" end case 8 / false and 5 - UO : chillax end case not 3040 and 45700 : chillax end case 661 - 8500 >= 72 : do y(3) end otherwise : input Q[6] end; pop end

@@ -1,0 +1,1 @@
+program p : KL5 : takes B, Vt, kh : boolean; AT1aa, H1 : boolean; f : integer array returns boolean array W67aa, T, GZj, Y : integer array; while - false - 05 : pop 3; input L end; output ""; do p3(0); input q end main : s, n : boolean; chillax end

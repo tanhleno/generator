@@ -1,0 +1,1 @@
+program U : GX6aa : takes B : boolean returns boolean array chillax end main : when case - X(9, 1) rem a and false > - vLr0a / false and 846 + not 34 + 287 : let e = array - 1; when case 76700 : output ""; pop end end otherwise : chillax end end

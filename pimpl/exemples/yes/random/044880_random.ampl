@@ -1,0 +1,1 @@
+program BY0aa : k36aa : takes Py : boolean array returns nothing l : integer array; q : integer; chillax end d : takes f : boolean returns nothing pop; output 918 . 3 . "\"*"; input R[2]; while 4 : chillax end end main : X46aa : integer array; chillax end

@@ -1,0 +1,1 @@
+program O : j9 : takes xI : integer array; B, L : integer array; v : integer array returns integer D, Wq : integer; chillax end main : output true * (48) + true and 8 . 6980 and 8890 + 48 - 35 >= 64200; input p[- not 1 - F and 15 or 006 - 376]; while - (352) and 723 <= 7 - 9 : output "\t70a" . "10\"" end end

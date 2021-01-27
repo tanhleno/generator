@@ -1,0 +1,1 @@
+program B : main : B, A, j : integer array; when case 5 / false = - (9) rem RW + true and 60300 : input a030[08] end; output - (30800) = - 4 - 03; pop - 5; when case - 5 > 6 : input qf6; let L1 = 6; pop end otherwise : let Z = 4630; pop end end

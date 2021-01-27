@@ -1,0 +1,1 @@
+program k3c0a : u : takes v8D0a, H : boolean array; h : integer array; bS : boolean returns boolean chillax end B20 : takes c, rd : boolean array returns boolean array output "Y4" . "" end main : chillax end

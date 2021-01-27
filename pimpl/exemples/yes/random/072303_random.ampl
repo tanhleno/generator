@@ -1,0 +1,1 @@
+program _ : main : H, J, I : integer; yy : integer; dg : boolean array; y, Z, k, jd : boolean array; CB00, s : boolean array; m, ZP : boolean; output - true / not 5 and 0 >= (6) and 05 + 3 - 0 . "\n" . "" end

@@ -1,0 +1,1 @@
+program k : qS : takes F, G, o, dH3 : integer returns nothing output - 53900 - 4 = 96 end g5 : takes h, A, gk, I, aL, m, u : boolean returns nothing do U(9, 7); do l(5) end d05 : takes H890 : boolean array; vDX0a : boolean; M9, I1, yhQ, y83 : integer array returns integer K : integer; Z3 : boolean; h : boolean; chillax end main : output "}h\"" . "NY" end

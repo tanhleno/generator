@@ -1,0 +1,1 @@
+program W : e67aa : takes O, Xoda, v, Hr6 : boolean; m2, E, Bv, kWq, A : boolean returns nothing m : integer; chillax end ua5 : takes q : integer; mgM0a : boolean; _, O, g5, tQU, g24 : boolean; F : integer array; U : integer array returns integer W : boolean; C, _0 : integer; GI : boolean; m5Y0 : boolean; Kk : boolean; input zc end main : _ : integer array; chillax end

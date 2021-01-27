@@ -1,0 +1,1 @@
+program w : F7x : takes oc, W5, l : boolean array; X79 : integer returns boolean array b65, V02aa, K : boolean; chillax end main : FTN, Osa0, vUr : boolean; while - 43400 - (115) <= - 44 rem true + false and 86 or 027 : chillax end; while - not Q * not 5 + _ < - (5) or 948 : chillax end; input s[- 9930 or 5] end

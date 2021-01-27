@@ -1,0 +1,1 @@
+program ewRaa : O4Ma : takes C52 : integer array; Rv, t : integer array returns boolean array chillax end main : baJa : integer array; do F(Y(463, 488) * (73200) or not ET40 / true = - 19, (64) and 54 and 6 /= (09) and 268, not 38 and 4, 3 - 8, 6) end

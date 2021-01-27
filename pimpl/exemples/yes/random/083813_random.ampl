@@ -1,0 +1,1 @@
+program X4A0 : main : H : integer; s, u : integer array; NKf, J : integer array; hq40 : boolean; d, v, y : boolean; k, n8 : boolean; let L7 = array(0 = 13) and _(91) + true / not 6 - (0) and 006 + 81300 - 67 end

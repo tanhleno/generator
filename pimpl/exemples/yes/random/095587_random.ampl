@@ -1,0 +1,1 @@
+program fN : main : when case - (5) : pop 7; do J9G(9, 19, 1); while 47 : chillax end; pop end case - 6 : output "Q"; let j = 8 end case true and 615 : chillax end case 385 = 8 : chillax end case 7 = 4 : when case 2 : chillax end end end

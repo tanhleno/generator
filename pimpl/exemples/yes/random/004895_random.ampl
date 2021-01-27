@@ -1,0 +1,1 @@
+program j6 : bDva : takes L0, B, JA, H : boolean array; U33, N15 : boolean array returns boolean array g, m, t : boolean array; do KI9aa(5 and 8 - 18700 - 8 = - 348, 18) end main : while - (0 = 02) = - (014) rem 34 and 20 : chillax end; while - (2) / not 10 - (5) >= - 3 : let RCO0[194] = 3 end end

@@ -1,0 +1,1 @@
+program S2 : sOf0a : takes O, X, _40, b1 : boolean returns boolean array chillax end main : when case not 9070 : while - 83 <= 29 : chillax end end otherwise : chillax end; pop - not 2 and 6 or 8 - 86; pop 9 end

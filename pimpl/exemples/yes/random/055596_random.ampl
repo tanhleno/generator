@@ -1,0 +1,1 @@
+program M5 : V : takes e : integer array; b : boolean; AW30a, r : integer returns nothing input Q[- (0270) + 02 - 70400] end main : pop; input F[- 3 + (9) or 80 - 07]; input g3[- y and 12 or 8]; output "w" end

@@ -1,0 +1,1 @@
+program d4 : ARX0 : takes ty60a, fw, k, ea, Q, r : boolean returns nothing z7 : boolean array; chillax end mj00a : takes l, SX3a, NI : integer; f : boolean returns integer array GQ, z, ULEaa, H : boolean; G, Y, n : integer array; chillax end main : yV00, iPp0a : boolean array; let e1[- not not false] = 55 or true and 25400 end

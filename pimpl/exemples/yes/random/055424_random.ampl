@@ -1,0 +1,1 @@
+program k : A0 : takes y9z0a : integer array; M, I : integer returns nothing VP : integer; chillax end main : do u(- (4) or not true - R and 3 > - false rem not 7 and 3, not not 6530 and(82900) and 75 or(8) and 858 - 5 - 7 > - false); when case - 55 or false and 0 or 4 : chillax end case - O and 9980 /= 93 - 71 : chillax end end

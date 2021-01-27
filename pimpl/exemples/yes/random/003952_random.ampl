@@ -1,0 +1,1 @@
+program z : BH : takes QF, Wkjaa, q, vV, iY0 : integer returns boolean array pop end Q2laa : takes c : boolean returns nothing q : boolean; ezu0, R, s : integer array; chillax end h4 : takes kK : boolean array returns boolean pop 4600; pop end main : Ouh : integer array; cb : integer array; chillax end

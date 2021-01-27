@@ -1,0 +1,1 @@
+program qPY : ik2 : takes B, u, XT : integer array; z : integer array returns nothing M : boolean array; ZR, CBIaa : integer; zOB, p8 : boolean array; k1 : boolean; output - 9 - 4 . 26 = 6 . 9 . 0 . "" end BE : takes b, q : boolean array returns integer s1, I : integer array; n4, m : integer; pop 46600 = 1 end main : let g6 = - S and 08 or false and 225 < (27) + 1 - 0 end

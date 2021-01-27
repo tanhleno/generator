@@ -1,0 +1,1 @@
+program t65 : n : takes kv, Z : boolean array; j, x : boolean returns nothing t, r : integer; sR, B : boolean array; d7, m5 : integer; g9q0 : boolean; chillax end g : takes x7u0a, ig : integer array; e58aa : boolean returns nothing let U8g = array 3 - 55; do e(7, 67, 1550); output "" end main : l, S : integer array; chillax end

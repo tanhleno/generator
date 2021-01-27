@@ -1,0 +1,1 @@
+program Q : G9u : takes k5, X, v, j6 : boolean returns nothing chillax end main : T6 : boolean array; ka, G : boolean; N : integer array; VN1aa : boolean; B200a : integer array; iF : boolean; C : boolean; chillax end

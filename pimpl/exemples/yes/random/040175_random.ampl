@@ -1,0 +1,1 @@
+program c : w : takes aUl0a : boolean array; A : boolean array returns nothing ZE50, H : integer array; input W[- (3) - 1] end z : takes b, H : integer array; c : boolean array; M6 : boolean returns nothing chillax end main : chillax end

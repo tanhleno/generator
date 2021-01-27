@@ -1,0 +1,1 @@
+program ng20 : main : do KJ(true * true rem q8 and 843 + 83, - R(4) or 3 - 35, not 30400 and 6 - 183 /= 57 - 27); do JU(- not b4 + true and 7630 + 1 - 5 >= N5O and 1 - 8 - 1, - 8 and 4 - 0 - 98900 < - 374 - 20, - 0 - 131, 70, 21200, 2); input n0 end

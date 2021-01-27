@@ -1,0 +1,1 @@
+program NX4a : y5 : takes N0eaa : integer returns boolean chillax end main : F, vS, k_ : boolean; when case - true and not not 60 - F6[7] : chillax end case 8 + (9) and 123 or 8 : let bO[06] = 3 end otherwise : chillax end; let W = array false and not 2 or 3 + 8; while true and 1 + 0 - 81400 : chillax end; do Gn(958 - 9 > 9); while 67 = 22 : pop end; let Pf[5] = 60 end

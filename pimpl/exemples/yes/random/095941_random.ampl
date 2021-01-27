@@ -1,0 +1,1 @@
+program T : main : when case - b(5) <= not true or 5 or 52 - 14900 : while 1 - 4 : chillax end end otherwise : do f(1 = 164, 3390) end; do M58(- 7 /= - true and 0, - p and 81900 or 8 > 2 - 94); output "" . "\t"; while - 512 - 942 : chillax end; when case 68 : let h = 78 end case 56 : chillax end end

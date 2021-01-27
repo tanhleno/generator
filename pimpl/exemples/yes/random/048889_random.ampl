@@ -1,0 +1,1 @@
+program ZWca : A4R : takes UF : boolean returns nothing input N end y : takes F : integer array; G, U, Z : integer returns boolean JS, AJ : integer; pop 84 = 65; input Dk[0] end main : while q(94, 681) rem false : chillax end; do R5(- 40800 + false + 5 - 8) end

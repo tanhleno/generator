@@ -1,0 +1,1 @@
+program bO : main : while T[4] or true / (1) and 17 <= false - true and 909 : chillax end; do d((2) / not 69 and 70300 or Mr); while - (7) or 7 > 46 - 4 : pop 4 end; when case - 2 : chillax end case 5 : chillax end case 9 : pop end; input e end

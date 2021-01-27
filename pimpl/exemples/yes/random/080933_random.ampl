@@ -1,0 +1,1 @@
+program O04 : main : y8 : boolean array; t7, T, k3, c : integer; while - true * false rem h + H / 835 and 7 : chillax end; while - not true + true and 30 /= - not 80 : while 0 : chillax end; while 722 : pop end; do N(26); output "4\n" end; output "3"; pop 5; input z[56] end

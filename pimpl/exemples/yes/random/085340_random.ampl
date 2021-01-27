@@ -1,0 +1,1 @@
+program Vr : main : KO6 : integer; while - true or(6) + not 79 = Nm8a[947] * 2 and 9 : chillax end; while not not 71 - L /= - (00) and 6 or 000 : output "9\n\""; let xCB0a[1] = 2; while 4 : chillax end end; do H4((9) and 4 + 19 = - 08 - 8, 2 - 071 >= 6) end

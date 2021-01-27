@@ -1,0 +1,1 @@
+program XH : H : takes z5 : boolean array; Z5 : boolean array returns nothing P6O0 : boolean array; chillax end main : while false / false / false and 163 or false + (1) + 988 - 4 <= false and(0) + true + 2 - 7350 : chillax end end

@@ -1,0 +1,1 @@
+program GT : main : k00 : integer array; Y, E : integer array; T : boolean; do R35(- (3590 = 02) / nh(05100) rem false + not false and 26 = c[65500] - not 67700 and 4); when case - (6) * 3 : pop 432 end end

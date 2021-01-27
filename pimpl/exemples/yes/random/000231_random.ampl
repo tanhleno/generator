@@ -1,0 +1,1 @@
+program m2 : e : takes uh, H4, bO, A, N, D18, pm, K : boolean returns boolean Z, Y : integer; e : boolean; when case 8 and 732 + 9 - 244 > - 37 - 4 : let V[7870] = array 919 end case 4 - 7 : when case 5 : chillax end end otherwise : output "$" end; pop 2 = 53 end NX : takes v2 : boolean returns boolean array w3S0 : integer; v : integer; chillax end main : chillax end

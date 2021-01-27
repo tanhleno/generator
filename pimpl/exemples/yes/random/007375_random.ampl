@@ -1,0 +1,1 @@
+program P61 : tse : takes F3, D, M, n : integer array returns boolean array chillax end c : takes X, H : integer; m : integer array returns nothing chillax end main : c : boolean; JT : boolean array; chillax end

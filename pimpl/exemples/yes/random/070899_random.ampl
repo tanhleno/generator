@@ -1,0 +1,1 @@
+program Gu : main : c, YL9, y2Y : boolean; N, F : integer; s, E4Q : integer array; input m9[- BW6[2]]; do p(- Z, - false or 9750 <= - 2, - 86 - 6 = 5, 5); output "" . 59800 . "\t" . "l" . "\""; when case 08100 <= 94 : chillax end case 86 : chillax end case 151 : chillax end; output "4" . ""; let H[0] = 7290 end

@@ -1,0 +1,1 @@
+program c : l : takes p : integer; E, z : boolean; F, J : integer array returns boolean chillax end main : Y : integer array; M : integer array; do nYg0a(not not 769 or true / true and 01 - (33600) < Nk(0) + false + 4 - 64, - (7) / false, (19) and 59600); do W9(- false * 66 and 5 or(517) or 47); pop; pop end

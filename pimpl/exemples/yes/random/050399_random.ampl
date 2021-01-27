@@ -1,0 +1,1 @@
+program Si : a08aa : takes e : integer; d, A9 : boolean; we00 : integer; Tq, f8W, miqaa : integer; U11 : integer; I : integer array; v : boolean; X : boolean; O8 : boolean returns integer array Y, d : boolean; lx : integer; SI : integer array; do J34aa((0) >= 40); let t = array - 51 end main : lC, h, v180 : integer; chillax end

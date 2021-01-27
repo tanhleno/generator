@@ -1,0 +1,1 @@
+program x : main : when case - 94 / true or P1[6] and(770) and 8 < not true or FN - 87 - 611 : chillax end case - true rem not 871 < - (2) : chillax end case 71 : pop end case - 9 : chillax end otherwise : do F(899, 9); output 23400 . ""; while 89800 : chillax end end; pop - (6) + 5440 - 4 >= - 2150 - 33 end

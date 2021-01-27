@@ -1,0 +1,1 @@
+program w : uh20 : takes xb : boolean; A6va : boolean returns nothing let O = 7 - 8; output "C" end main : y : boolean; do Njea(- n[6] = true / not 6 and 422, false * (35) or not 9); when case 85 >= 0 : chillax end; input mXB0; output "-" . "" end

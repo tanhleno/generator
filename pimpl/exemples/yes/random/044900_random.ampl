@@ -1,0 +1,1 @@
+program V : k280a : takes M : boolean array returns nothing R3 : integer array; let B = array - not 5 and 4 + 7 end p : takes q5c, hs, J7 : integer array returns nothing chillax end main : L, Ajiaa : integer array; cQE0 : boolean; bnZ0 : integer array; while - not not(8) + false + false and 13 or 0660 - 5 > not 6 - true and 0 + 3 - 9 : chillax end end

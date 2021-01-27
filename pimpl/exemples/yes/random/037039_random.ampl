@@ -1,0 +1,1 @@
+program aQtaa : h : takes dn : boolean; Q : integer array returns nothing chillax end pZS : takes x5, j : boolean returns nothing chillax end a : takes P5u : boolean; b, T, K : boolean; y, A, Z, e : integer returns integer g4, xmkaa : integer; chillax end main : o : integer array; V, S2G : integer array; chillax end

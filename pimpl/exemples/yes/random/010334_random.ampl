@@ -1,0 +1,1 @@
+program t1k0a : I : takes w41a, d, dG : boolean array; c : integer array; Y : boolean returns boolean array do l6z(- L /= - 08, 8850 <= 6050); pop 1 = 766; input Sp; let o6[6] = array 82 end main : do z(false rem(2) + not true - aX9a and 85 - 7 - 9 = - d[2] + nw); when case not(7) + not 49500 : chillax end end

@@ -1,0 +1,1 @@
+program tR : main : IQ, HN8 : boolean; S_, ha : boolean array; output - false - not 3860 or 9 - 2; when case - not d3 - false : output "\t"; pop 5 end case true and 15500 or 5 : while 0 : pop end; let u5 = 9 end otherwise : do F(206, 66) end end

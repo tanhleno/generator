@@ -1,0 +1,1 @@
+program F : w : takes rLF, j : integer returns integer array eo2, GM, d, w, b : boolean; pop - 4 end xv10a : takes d : integer array returns nothing X : integer array; pO : integer array; j, i7w : boolean; input D0S0[58] end main : chillax end

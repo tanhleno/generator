@@ -1,0 +1,1 @@
+program U : main : output "\\"; let O = array - 88 * not 9; when case R and 4 + 1 - 9 >= - 8 - 4 : do q(1, 1); let u = 7; when case 71 : chillax end end case - 39100 : chillax end otherwise : while 4 : chillax end; do kSF0(4); pop end; when case 008 - 0 : do zF7(150) end case 8 = 6 : output ""; pop end end

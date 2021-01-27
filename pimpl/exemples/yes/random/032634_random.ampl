@@ -1,0 +1,1 @@
+program XY : F : takes ms, j1X : integer returns nothing x7, KL : boolean array; T : integer array; D6Uaa, e : boolean; output "" . 58700 = 02 . "9" end Oi : takes RK : boolean array returns nothing t : boolean; H, u9 : integer array; chillax end main : J2 : boolean; chillax end

@@ -1,0 +1,1 @@
+program S290a : O : takes r5e : integer array returns integer array do s5A0a(- 75, 2 - 85 <= 5, 16200, 61) end v : takes w, K3P, Ue, r, gD, m : integer; HD : integer array returns boolean hz, _ : boolean array; pop 3; while 0 = 20 : chillax end; output "]\t" end main : q1S0a : integer; c, X3, sIA : integer; chillax end

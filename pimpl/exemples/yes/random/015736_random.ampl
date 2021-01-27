@@ -1,0 +1,1 @@
+program G : Hs : takes vHk, G, MV00 : integer returns boolean array input e; while 2 - 87300 /= 4 : while 3760 : chillax end; do V(1); pop end; let c = 4 end main : X, d, NU, W, F : boolean array; chillax end

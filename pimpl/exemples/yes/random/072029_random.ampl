@@ -1,0 +1,1 @@
+program C_r : main : _, q, F : integer; H, u, Ek6, jN3 : integer array; j9, c, f, d7, o : boolean; ZPv0, Q9b : integer; i, X : boolean array; qj4, d : boolean; let Z7O = - U(137) > ZW and 0; do O(- not(142) + WQ and 6 or 3, - 1 and 72 > - 901 - 1, - 9 <= 45) end

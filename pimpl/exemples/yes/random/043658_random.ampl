@@ -1,0 +1,1 @@
+program iu : J : takes x : boolean array returns nothing chillax end I : takes u : integer returns boolean chillax end main : let T6Uaa = array - true; when case - false / d and 5 > - 3 : chillax end case 3 or 18800 /= - 14 : chillax end case - 5 - 8590 : when case 84 : chillax end; when case 56500 : chillax end; pop end end

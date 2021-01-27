@@ -1,0 +1,1 @@
+program r : main : P : integer array; when case - true - (5) / (4) and 9 = - false rem not 4 : chillax end; when case - 4 : chillax end case - 35 and 3 + 0 - 5 /= - 8 - 785 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Ai6aa : Q : takes br : boolean array; rU : integer returns nothing _25 : boolean array; f : integer array; n7 : integer array; s : boolean; chillax end main : let j = - 1 or(6) and 918 /= - true - 38 - 9 end

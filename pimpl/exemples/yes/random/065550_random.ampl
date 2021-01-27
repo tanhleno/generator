@@ -1,0 +1,1 @@
+program jp8 : b14a : takes P61 : integer returns nothing while - true + 914 - 680 : chillax end end U : takes L, nlEaa : boolean returns nothing let u[9 - 893] = array - 7; do rn(7) end main : G : integer array; pop end

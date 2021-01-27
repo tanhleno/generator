@@ -1,0 +1,1 @@
+program _ : s : takes Y : integer array; v : integer; Cf3aa : boolean array; X, G : boolean array; W, GPt : integer array; o, H9, M59 : integer; a : boolean returns nothing when case 2 and 92 /= 56 - 3 : do s5Kaa(2) end; pop; pop 7 end main : chillax end

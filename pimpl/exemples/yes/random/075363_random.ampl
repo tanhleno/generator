@@ -1,0 +1,1 @@
+program K : main : HE, p : boolean array; lR4 : integer array; while false + XFr rem not 6 and 266 : when case 95 - 539 <= 94900 : output ""; input z8; pop end case 4 = 1 : while 8 : chillax end; pop end; pop end; output - false + 5 > 1; when case - true - 887 - 6 <= - 318 - 5 : chillax end otherwise : chillax end end

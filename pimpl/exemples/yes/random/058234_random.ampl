@@ -1,0 +1,1 @@
+program p1 : K8 : takes h : integer array returns boolean P, Q : boolean; b, S, kgt0a, _ : integer array; input O[- not 1 and 19 - 6]; when case 865 - 9900 < 0 : chillax end end main : c9 : integer; do c(- false); pop; output ""; pop 7 end

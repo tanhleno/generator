@@ -1,0 +1,1 @@
+program gmK : vf : takes k : integer returns boolean D, kt : integer; chillax end P4T : takes zt7, EN7 : boolean; M, M : boolean array; F0d, M, W : boolean; o, O, Z : boolean returns integer array fvU : boolean; let T = 0 end main : M, U : integer array; snjaa : boolean; chillax end

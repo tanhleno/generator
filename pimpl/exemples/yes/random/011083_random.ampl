@@ -1,0 +1,1 @@
+program m : m91aa : takes h, e, a : boolean array returns nothing chillax end mV : takes aY : integer array returns integer array while 0 - 344 < 583 : pop end end main : y1saa : boolean; d : integer; E : integer array; do Kt3(- (13000 = 2) - nCA(6) * not 3 and 08 - 1710 and 5 > true); output N and 4 = - 8 end

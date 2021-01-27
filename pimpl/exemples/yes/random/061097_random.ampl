@@ -1,0 +1,1 @@
+program ZQ9 : w : takes rn : integer array returns nothing w : integer array; chillax end main : q : boolean; S, Mw8a, Z, rdS : boolean; e : integer; output(61) + true + 5 - 7 . "b\\"; output "\"4\"" . ""; let D[Z and 67] = array false and 8 - 5; pop 2 = 1; output 6; while 8 : chillax end end

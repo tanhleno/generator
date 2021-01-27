@@ -1,0 +1,1 @@
+program b : A : takes j : integer; da6 : boolean; u92a : boolean array returns nothing f15a : boolean; chillax end G : takes L33, Z : integer returns nothing w : integer; Z : boolean; k7, H : boolean; chillax end main : output ""; output - true - 8 < 48 end

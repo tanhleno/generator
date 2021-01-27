@@ -1,0 +1,1 @@
+program mAOa : bD : takes r, U, h : boolean returns nothing _ : boolean; hr, h, Y : integer; while - i4 and 0 <= - 8560 - 7 : chillax end; do O1(8 - 74000 >= 1, 14); while 79 : input yQo; pop end end main : D, W6, dZ, R9 : integer; chillax end

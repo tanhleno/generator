@@ -1,0 +1,1 @@
+program sj : U8b0a : takes K2, Zn, b7X, _2 : integer array returns nothing let a = - 5 - 3; input bz[52 - 21200]; do V3(9) end main : og, Dg, Vc : integer; while 2890 + false and v : chillax end; let T = not 23 + 6 end

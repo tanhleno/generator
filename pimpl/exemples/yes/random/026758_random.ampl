@@ -1,0 +1,1 @@
+program i6F : i : takes HOHa, d : integer; M430a : integer array returns boolean chillax end X8 : takes K, Qz : boolean array returns nothing k, b : boolean; chillax end main : do a5(312 * false, true / S2 + not 5460, not 788) end

@@ -1,0 +1,1 @@
+program j : Z : takes q9 : integer; X730 : boolean array; P : boolean returns boolean P : integer array; chillax end YT90a : takes W, aM6, OH1, G, R : boolean returns integer array H, S, MB, T : boolean; when case 4 - 076 = 0 : chillax end; when case 8 : let d5Oaa = 5 end case 958 : pop end otherwise : pop end; output 0 . "" end main : chillax end

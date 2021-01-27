@@ -1,0 +1,1 @@
+program g : LxM : takes p9Ta, k : integer array returns boolean HY9, jp, J : integer array; f : boolean; c0 : boolean; while - T and 798 : input R end; while 969 - 128 : input X2k0a; while 3 : chillax end; pop end end main : pop end

@@ -1,0 +1,1 @@
+program w42 : main : while not(0) / true and DE and 82 or false + C : do N(- 025 - 802 <= 8); pop; let e = 97; output "8m\"" end; let U = array 4 rem(466); output 8 /= 8 . 7; while 51 - 1 : do v(1); while 8 : chillax end; pop end; pop 9330; when case 1 : chillax end end

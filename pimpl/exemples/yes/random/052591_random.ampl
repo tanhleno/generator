@@ -1,0 +1,1 @@
+program l7 : h : takes pi : integer; U : integer; UY : integer returns integer array V6M : boolean array; VK : integer; q, F9 : boolean; p4 : boolean; l : boolean; chillax end main : P : boolean array; m : integer array; chillax end

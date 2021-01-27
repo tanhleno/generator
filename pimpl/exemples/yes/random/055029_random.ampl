@@ -1,0 +1,1 @@
+program U9d : k : takes uv : integer array; x, b : integer; j2 : integer returns integer array Rac : boolean; io, J, LRH0a : boolean; A : boolean; chillax end main : t : integer array; input cV; let g = (6) + 47 - 5; while true and 9 > 9 - 8 : output 97300 . ""; input A end end

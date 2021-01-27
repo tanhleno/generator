@@ -1,0 +1,1 @@
+program N0 : S : takes _ : integer array returns nothing pop - 561 - 743 end main : do GG(- 08 / Z6[53] < - K8(8) and eh and 520 - (406) and 01, fN and true); do g(- (023), - not 9 and 75 /= 52); output 1 - 80 <= 0 end

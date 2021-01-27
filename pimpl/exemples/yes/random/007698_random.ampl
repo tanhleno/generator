@@ -1,0 +1,1 @@
+program y : d : takes gT60, R, L6, TW : integer array returns nothing chillax end main : F4I0a : integer array; while - not false and false : pop 09 = 9 end; when case not not 94 + not 2 and 64 >= - (2920) : chillax end case - (71600) and 5 : while 038 : pop end; pop; do cn(5) end otherwise : chillax end end

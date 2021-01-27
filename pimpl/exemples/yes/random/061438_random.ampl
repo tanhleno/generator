@@ -1,0 +1,1 @@
+program o0j0 : D : takes P : integer array returns nothing pop - 2950 - 2; let N[4 - 6] = 3 end main : v0S : boolean array; H, U, b : boolean; _i8, q4 : boolean array; PC : integer array; chillax end

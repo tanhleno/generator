@@ -1,0 +1,1 @@
+program e6 : i4 : takes E1, Ly : boolean returns nothing c9f0 : boolean; when case false : chillax end case 556 <= 91 : input a32a end otherwise : do pB(2) end; output 56 = 1 . "5"; pop 1; let _0 = array 6 end main : pop; let B7[- (2560)] = - R; let d[false and 057] = array - g9 and 13 + 8 - 8; while - 88 - 6 <= 8 : input L end end

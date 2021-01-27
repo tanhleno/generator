@@ -1,0 +1,1 @@
+program k : VZ : takes So : boolean; Cy9a, K : boolean array returns nothing N : boolean array; input c[- 12600 and 7] end y1 : takes b67aa : integer array returns nothing chillax end main : do C90(- (9), - 565 rem not 38 <= not 7, not 7 >= - 2, 80 - 49 /= 1); do d(- true and false, false > - 31500, - 2 - 73 <= 03, 5, 73, 6300) end

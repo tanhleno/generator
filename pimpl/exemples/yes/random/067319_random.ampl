@@ -1,0 +1,1 @@
+program d : main : do T40aa(t rem(630) - false); input o38a; when case false and 921 or 37 - 90 : chillax end case 7 - 838 : chillax end; when case - 6 - 01600 : output "\n"; let r = 1 end case 57700 = 136 : chillax end case 32 : pop end case 7630 : chillax end; input S[9] end

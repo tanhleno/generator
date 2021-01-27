@@ -1,0 +1,1 @@
+program Z7_ : B0H : takes K : integer; Q, E5 : boolean array returns nothing u, fFo0a, z : boolean array; pop; when case - 85 > 6 : pop; output ""; pop end case 21100 = 137 : chillax end end main : chillax end

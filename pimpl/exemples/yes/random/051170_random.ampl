@@ -1,0 +1,1 @@
+program b : E : takes fe : integer; M, o : integer array returns nothing when case false - 5 <= - 6 - 1 : chillax end otherwise : chillax end; do F(683 - 7); input i; output "5n\"a"; pop; let i = 655; pop end main : Hv0, k : boolean array; chillax end

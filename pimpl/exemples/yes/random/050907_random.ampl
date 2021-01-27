@@ -1,0 +1,1 @@
+program Md : h5 : takes x57 : integer; O, ay40a : integer; Gqt0 : integer array; ES_aa : boolean; U480 : integer array; z : integer; Q, X : boolean returns nothing let l0[- o] = - 50800 - 0; output 75 = 1 end main : pop; while - (852) < not 568 : input H4u[66]; output "" . "" end; output - 329 - 0 = 1 . 0 end

@@ -1,0 +1,1 @@
+program v : N0 : takes d, FY0 : boolean array; I4, gC0 : boolean array returns integer input N3b0; do L(19); do u(5 = 7); while 2 : pop end end f : takes G1 : boolean returns nothing chillax end main : chillax end

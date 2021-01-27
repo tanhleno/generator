@@ -1,0 +1,1 @@
+program ggK : z3H : takes PO : boolean array returns integer array chillax end main : ZZ : boolean; k8T : integer array; tP : boolean array; w : boolean array; m, P : integer; P : boolean; pop true = - not 4630 + 63; while true /= - 557 or 494 - 06 : chillax end; let EQQ = array false; let mJ[63 - 9320] = array 26 - 3820 end

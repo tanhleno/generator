@@ -1,0 +1,1 @@
+program cE : O3 : takes n, czq0a, o8 : boolean returns integer G0h : integer array; input h; pop 42800; while 93 = 56 : chillax end; output "" end main : dd, bQxaa, FR6, mt1, K7_a, Z : integer; pop - 0 or false /= - J end

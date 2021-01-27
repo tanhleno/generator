@@ -1,0 +1,1 @@
+program a570 : Sk : takes H, DE, oQ5 : boolean; SF : integer returns nothing J : integer; when case not 5 and 4 : let XB = array 585; let z = 1 end case 89600 : chillax end; let R8[7] = 5 = 5110 end main : n5c, l74, X0, y : boolean array; a : integer; B, H6, v : boolean; chillax end

@@ -1,0 +1,1 @@
+program y : O5 : takes q1 : boolean array returns nothing input nz5[5 and 4 - 64] end p : takes Q7P0 : integer array; lhL : boolean array returns nothing when case - 22 : while 146 : chillax end; input f; pop end otherwise : chillax end end main : output 49500 + false and 77000 or 83 - 53200 < - p . "5(a" end

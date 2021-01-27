@@ -1,0 +1,1 @@
+program c : p : takes W290 : integer array; d0, V3D, M, j, x : boolean array returns nothing let _[false - 51] = 8 - 2; let Jn9[- 7] = 52; while 767 = 88 : when case 2010 : chillax end; pop end; let W3 = 3 end main : chillax end

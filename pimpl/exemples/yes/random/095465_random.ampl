@@ -1,0 +1,1 @@
+program f73a : main : when case(7290 = 6) - (3) or G and 5 or 94 - 2 : pop 60 = 8; let P = array 5 end otherwise : pop; pop; when case 10900 : chillax end; input z; pop end; do m(- false - false /= not 5) end

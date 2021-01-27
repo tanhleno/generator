@@ -1,0 +1,1 @@
+program vqka : Y : takes N0 : integer array; _, q, c : boolean array; Tc : integer array returns nothing input _4[- not 22 - 9 - 0490]; pop 725 end d6 : takes N, O, U9, X64, p, Z : boolean array returns nothing while - 5 - 1 : pop end; output 2; when case 6 : chillax end case 7 : chillax end otherwise : chillax end; do O(3) end main : chillax end

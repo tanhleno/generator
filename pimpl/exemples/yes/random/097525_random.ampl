@@ -1,0 +1,1 @@
+program _57 : main : when case true * (39) * (91) and 6 : pop 0 end case - not true + false and 2520 - 8630 > - true + 1 - 45100 : chillax end case - not 41 and 662 + 86 : pop 7 end case - 4980 - 4 >= 725 : chillax end case 553 : output "\\" end end

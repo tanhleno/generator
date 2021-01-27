@@ -1,0 +1,1 @@
+program TD_aa : y : takes y : boolean array; Jc : boolean; Kg, E1 : integer returns integer array when case false : do K05a(6); let Vp = 7 end otherwise : while 005 : chillax end; when case 52 : chillax end end end R : takes x : integer; c, R, eL80a, s, m : boolean array; u : boolean; wt3a : integer array returns nothing chillax end main : chillax end

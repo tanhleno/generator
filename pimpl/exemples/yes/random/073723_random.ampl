@@ -1,0 +1,1 @@
+program E59 : main : m, N2Yaa : boolean; D : boolean; X, X2, iD2aa, FyL, zwp0a : integer array; f : integer array; mW3 : integer array; pop; input l6aa[- not(8) * true and 1]; output - 1 - 4950 . 894; output 907 = 05; do e(7 = 50, 3, 7) end

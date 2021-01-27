@@ -1,0 +1,1 @@
+program H43 : T5 : takes sG, B, Z, T91a, X, M, n, Y94 : boolean array returns boolean array chillax end main : e : boolean; do o(- c9M(49, 85) = - not false / (172), - not true / IY and 19 < - (87)); while true * a0 and 6 : chillax end end

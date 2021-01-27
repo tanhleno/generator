@@ -1,0 +1,1 @@
+program J7 : h1n : takes u : boolean array returns integer array M : integer array; let z = array - false and 1 or 98 - 2; output 504 . 6 end iE2 : takes Y : boolean array; T : integer returns integer array while 49400 : do l4(97100); input q; pop end end kZ6a : takes JY : integer returns integer array when case 4 = 5 : chillax end case 1 : chillax end end main : chillax end

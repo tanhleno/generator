@@ -1,0 +1,1 @@
+program a : b : takes g : boolean array returns boolean chillax end Ye40a : takes h : integer array; o : boolean returns nothing M4la : boolean; d : boolean; chillax end main : when case 0 rem(6) / a9 - false < (381) and false and 19200 - (3) and 68 : chillax end end

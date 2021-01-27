@@ -1,0 +1,1 @@
+program X : Z : takes t, MR3, e, a : integer array returns integer array m4, rJ : boolean; B1, j : integer; pop - 3; while 47 : input m1; input N; pop end end main : K, w : boolean array; chillax end

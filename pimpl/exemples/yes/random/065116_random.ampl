@@ -1,0 +1,1 @@
+program y5 : zD : takes s : integer returns nothing E : integer array; ih : integer array; chillax end main : B5, u0, A, na, r, F, J3A : boolean array; g : boolean array; cMRa, W : boolean; do up(80 rem i3n0a(6) or R[5] - (0)) end

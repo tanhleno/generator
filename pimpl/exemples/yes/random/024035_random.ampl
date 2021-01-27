@@ -1,0 +1,1 @@
+program mE60a : H0 : takes X, b3W : boolean returns nothing chillax end main : O, q : integer array; G, UAM : integer; W47aa : integer array; PC, O : integer array; a : integer; _9 : boolean; while(6 = 76) rem not A75 * not 54 <= true rem false and 470 + (8) and 7 : input xg[0] end end

@@ -1,0 +1,1 @@
+program b8 : q3a : takes W, Y, JY5 : boolean returns nothing output - 3 . "8Gaa"; output "" end L : takes s, y : integer; L : boolean returns nothing pn : boolean; Q, zt : boolean array; chillax end main : chillax end

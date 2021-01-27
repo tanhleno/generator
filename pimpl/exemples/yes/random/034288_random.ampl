@@ -1,0 +1,1 @@
+program rpr0a : f7q : takes y : boolean; EM6a, _U : boolean; T : boolean array; sCv, w, Z1f, P : boolean array returns integer g : integer array; chillax end main : d, W, U, v0va : integer; when case false rem s[92] * Bs and 16 : pop end case - not not 62 - not 94 - 7 - 2 <= w and 89 : output 81; when case 6 : pop end end otherwise : chillax end end

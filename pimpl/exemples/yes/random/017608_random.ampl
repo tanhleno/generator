@@ -1,0 +1,1 @@
+program X : S : takes Ny, q25 : boolean; D : boolean; N, b5, M, r, x3 : integer array returns integer array chillax end i : takes A8, d2i : integer array returns nothing e, iN, m, R_ : boolean; while - 62700 - 76 : do n(83400) end end U : takes b0 : boolean returns integer chillax end main : d : integer; input I7; let L = array - (6) * true and 1 end

@@ -1,0 +1,1 @@
+program h : I : takes T : boolean returns nothing KUD0 : integer; Y : integer; BA, p1Qaa : integer array; chillax end main : f : integer array; G, X : integer; C9, G : integer; pop; do h((639) * K - false - 775 - 11600, not 95000 and 9110); while - not 6 and 47 >= 0 - 46500 : chillax end end

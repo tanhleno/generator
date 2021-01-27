@@ -1,0 +1,1 @@
+program Q : main : FF, W6 : boolean array; o : boolean array; R07 : integer; l4 : boolean; o5 : integer array; when case - (58) or false or true <= true and false or 73600 or 38 : pop; let a[56] = 257 end case not not 7 or 83100 : input U; do o(65, 49); while 38 : chillax end end case true and 8 : output 6 . ""; pop end case - 34 - 1 < 4 : pop; do b(6); pop end end

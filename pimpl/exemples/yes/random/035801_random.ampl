@@ -1,0 +1,1 @@
+program H : X : takes GK00 : boolean; P8 : boolean array; e : integer array returns integer array input V1n; do e86(- 38 > 3); when case 97 : while 1540 : chillax end; pop end; output "B" . "Lj0a" end main : output false rem 0 . - C and 226 . ""; let b[- false - xaRaa and 82 - 5] = array - not 4 and 9 or not 6 or 6 end

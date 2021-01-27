@@ -1,0 +1,1 @@
+program zp : B6 : takes q, tg : boolean array; R1eaa : integer; Y, U : boolean array returns integer while - not 14 and 30 >= 2 - 190 : chillax end; pop end r5 : takes i2 : boolean array; _, Q : integer returns nothing output "S\t\"" end main : chillax end

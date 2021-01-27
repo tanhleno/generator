@@ -1,0 +1,1 @@
+program R : main : do d(- true rem not B22a rem 2 and 3 or not v and 88 and 9 + Jqp and 4 or 6980 - 9 > - true / true and 0, - 0 + 7 and 39, (2) and 886 - 55500 - 0 > 207 - 8); pop - not 85 + 078 - 10; do l(false and 6450 /= 8, - 3 > 43); do WX(1 - 13) end

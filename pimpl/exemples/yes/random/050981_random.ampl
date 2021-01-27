@@ -1,0 +1,1 @@
+program V0 : y : takes M : integer; z5, k : integer array; z7, T : boolean array returns boolean W, R : boolean; chillax end main : output "1"; when case - false / (8440) and 57 or 3 - 491 - 19 > - false and 6 : chillax end; do R(true >= 5); output ""; input t7 end

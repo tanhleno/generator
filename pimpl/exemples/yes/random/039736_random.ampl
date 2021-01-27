@@ -1,0 +1,1 @@
+program l4 : MaMa : takes tA : boolean array; mC5 : boolean; B4o : integer returns nothing BS : integer; r : integer array; f : boolean; let z[true and 6 + 64300] = 6 - 55 = 0; pop 5 = 5; when case 4 : let a = 86; pop end case 6 : pop end end main : G, P, I, O : integer array; do of0(- false + true or(3) and 465 + 5 - 0) end

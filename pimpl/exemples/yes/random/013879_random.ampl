@@ -1,0 +1,1 @@
+program s0 : n2 : takes Kh, a, Jb : integer array; t, a : boolean; b03aa : boolean; Q, S5u : boolean; h : integer array; W : boolean; t2Raa : boolean returns nothing let T7 = - 4 > 2; output "+"; input V9[99800]; when case 7 : pop end end main : chillax end

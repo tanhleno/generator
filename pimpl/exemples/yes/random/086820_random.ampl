@@ -1,0 +1,1 @@
+program Z : main : L : integer array; H49 : integer array; u, I, f0 : integer array; lcK, x : boolean array; input g; input OYR; output "\t\"!a" . ""; while 94 /= 7 : chillax end; output "" . 0; let a = 50; do y(5) end

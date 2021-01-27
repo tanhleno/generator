@@ -1,0 +1,1 @@
+program R3 : F3 : takes N : integer; l230, r, Wo1 : integer returns nothing s : boolean array; chillax end i05 : takes ff40a, J, MU, g7 : boolean returns nothing l, P, LJ, XL : boolean array; output "`" end main : do pg(- (9) rem true and cQGaa and 9 < - not i, false / not 89 or(62) and 86 - 4 = - J - 27, - 7 and 7 - 288) end

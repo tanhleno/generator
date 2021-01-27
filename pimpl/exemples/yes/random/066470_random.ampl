@@ -1,0 +1,1 @@
+program P : main : do M800(- not T - (3) / true and 19 > 39 / true and 19200, - h(33) > - y2 and 57); while - 00 rem(75) : chillax end; when case - not 32 < 9 : chillax end case 61 : chillax end otherwise : pop; pop end end

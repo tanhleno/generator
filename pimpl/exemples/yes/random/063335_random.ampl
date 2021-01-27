@@ -1,0 +1,1 @@
+program p9 : t : takes RK0 : integer returns integer L, c, c, g : integer array; while - (62300) and 1 + 0 : when case 6 : chillax end; output "S"; input l end end main : Il : integer; t0k : boolean; let o = array - H11; pop end

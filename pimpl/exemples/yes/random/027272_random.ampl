@@ -1,0 +1,1 @@
+program N : W : takes O, T : integer array; f_, s93, cek, A : integer array returns integer array while - false and 74 - 44 /= 4 - 9 : chillax end end main : Q8 : integer; W, Q, eP, H, _ : integer array; chillax end

@@ -1,0 +1,1 @@
+program NwWaa : main : u, h, E, t3Paa, B : integer array; OU : integer array; r7, wv : boolean; qG10 : integer array; do BL(- false + false / true and 26 or false and 4, - 1 <= (554) and 456 + 4, N1Gaa and 57000 - 795) end

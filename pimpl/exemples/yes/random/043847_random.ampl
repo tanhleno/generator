@@ -1,0 +1,1 @@
+program X : f_ : takes t : boolean array returns nothing do V98a(- false - 062) end S0 : takes y3 : boolean; b7, k03 : boolean returns nothing pop 2 = 98; let h = array 552 end main : F, f, P, J : boolean; while 7 > 9 : do TM7(- 4510 < 4) end end

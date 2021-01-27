@@ -1,0 +1,1 @@
+program s2 : D : takes Ns9, X, M, n : integer; Mz4aa : integer returns boolean array chillax end main : while - false * true : do Z(- 28, 8); let u = array 66; input q[8] end; input WD50[- (9)]; output 1 - 2 /= 5; let H11[6] = 5 = 796; output "\\" . 9 . ""; while 16100 : chillax end end

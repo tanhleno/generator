@@ -1,0 +1,1 @@
+program i : v : takes v5, xc8aa : boolean array; KU10 : integer returns boolean array Z, zd6, _ : boolean array; uj60a : integer; chillax end k4 : takes i, Ae : integer; X : boolean array returns integer uY4, JW, wS40, b : boolean array; when case 9960 - 426 <= 89100 : let Sk = 8 end otherwise : do kl7aa(09) end; output 7 . "5" . "" end main : chillax end

@@ -1,0 +1,1 @@
+program OL : main : S, m82, J, y4 : integer; jHA, Y : boolean array; f : integer; let c[true - not true * true and 35 or 0 - 9] = - not not 8 - 20 and 3980; pop(36); let g = 358 - 4; output 0 = 7 . "" . 41 . ""; when case 1 : do WyVa(35); pop end case 8 : chillax end case 04 : chillax end otherwise : chillax end end

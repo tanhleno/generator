@@ -1,0 +1,1 @@
+program n : Kypa : takes b6z : integer array; N : boolean; s54a : integer returns nothing ye90a, Y44a : boolean array; pop; pop; when case 22 : chillax end; while 64 : pop end; let Y66 = 0390; input L; pop end main : c7, R : integer; chillax end

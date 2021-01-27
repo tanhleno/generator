@@ -1,0 +1,1 @@
+program d : H7 : takes F00aa, nl : integer returns nothing Vf, lZ, LJ7a, DAqaa : boolean; output 22 = 5 end v : takes Zz, P, r, I, j : integer returns nothing chillax end Q2_a : takes X5, C9y, M : boolean returns nothing g : integer array; do TSW(5) end main : eSn0, s, O : integer array; let H[not true and 13] = array - not false * (6) / not 7 or 9 end

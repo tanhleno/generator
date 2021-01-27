@@ -1,0 +1,1 @@
+program i : W17a : takes HQ9, v, f, k : integer array returns boolean s, i, H : boolean; when case - I and 24 < 97700 - 789 : let l[61] = array 3980 end end main : while - F + LL1aa[4] : do e(- 26 - 09500) end end

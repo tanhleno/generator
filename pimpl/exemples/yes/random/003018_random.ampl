@@ -1,0 +1,1 @@
+program k3 : sF : takes cm, R, iA, n, i5 : boolean returns nothing b5, o3, Li3, Q : boolean; F9 : boolean; output - 1 . "y" . "\"" . "" end main : I4, J : boolean array; do BD((1) - false + 878 or 3560, - not false < - not 86); output 9880 and 4960 . "" end

@@ -1,0 +1,1 @@
+program F : e : takes u, Em, x : boolean array; H : integer returns integer hd, Hk20 : boolean; hm : integer array; YxA : boolean; input OK20a; input h[- 72300 - 5] end main : F1 : boolean; P : boolean; pop; input J[- true or false and 28 + 302]; let a[false and 175 or 77 - 2] = array true or 63; while - 9780 : chillax end; output 8 . 428 end

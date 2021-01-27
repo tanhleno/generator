@@ -1,0 +1,1 @@
+program A : main : n07, y, F : integer array; M, pN, f : boolean array; L, Q : integer array; k, MF : integer; ji : integer; A, BP : boolean; G94a : boolean; do KQ(true * not rPsaa and false - true < true, 92 rem ClA0a, g7 = - 60 - 92, 1 < 61, 486 = 9); pop - 5 end

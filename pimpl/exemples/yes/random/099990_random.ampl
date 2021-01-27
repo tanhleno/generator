@@ -1,0 +1,1 @@
+program B : main : while true rem 77 / 84000 and 483 + 417 / true and 880 or false and 5 - 1 - 4 /= - N rem true or 2 and 64 or 187 : let K[- 8] = 58 = 07 end; when case - 40 < (8) - 8 : chillax end case - not 182 and 8 : let m = 82600; when case 8 : chillax end; when case 2 : chillax end end; output 44 - 64 . "p"; while - 3 : chillax end end

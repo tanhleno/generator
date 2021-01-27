@@ -1,0 +1,1 @@
+program x810a : zH5aa : takes Sn, Ee0 : boolean returns boolean chillax end main : b, z5 : integer array; Q, v, C : integer array; li, G : integer; while - 47 = (6) + not 7 and 2 : when case - 1 - 61 : chillax end otherwise : pop; pop end; pop 808; output ">" end; input B end

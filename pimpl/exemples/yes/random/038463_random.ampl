@@ -1,0 +1,1 @@
+program AR : B49 : takes _ : boolean array; Q, i2A0a : boolean; i990, CN80a, eNaa, L8 : integer returns nothing chillax end z78aa : takes p : boolean returns nothing KW : integer array; d : boolean array; output "" . "M"; input sW; let L0D = array 4 end main : N, O46 : boolean array; K : boolean; E : integer array; chillax end

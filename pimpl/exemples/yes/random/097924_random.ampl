@@ -1,0 +1,1 @@
+program zI50 : main : while - (9) * false or not(4) and 1 + not 3 and 1630 or 621 >= - not X96a - true or 1320 - 4580 : input c end; do yMnaa(- a[9] and not 721 and 77, true); let m57 = array not 68; output "Q" . 054 . 6 . ""; when case 57 : chillax end end

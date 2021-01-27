@@ -1,0 +1,1 @@
+program PY8a : Mh00a : takes F9za, R1 : boolean array returns nothing when case - false : pop end case - 8 : chillax end; pop; output "" end main : when case - HC or not not 194 : pop 1 = 93 end case(4) or 7 and 3 or 3 <= - 5 and 28 + 0330 : let _[7] = 6; do R7(50); when case 8 : chillax end end otherwise : input K1[997] end end

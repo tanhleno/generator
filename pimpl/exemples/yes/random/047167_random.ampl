@@ -1,0 +1,1 @@
+program r : d : takes v : boolean returns integer ZX : boolean array; chillax end y : takes E5, NE : integer array returns boolean array chillax end YZ : takes E : boolean array; SFS : boolean; T : boolean returns integer array do q(11) end F2i : takes dx, B8, uT : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program j910a : k : takes F : boolean array; kHuaa, XR70a : integer array returns integer Cr : integer; chillax end i7 : takes t : boolean returns integer f : boolean array; U, K9, _9 : integer; chillax end main : a : integer array; pop end

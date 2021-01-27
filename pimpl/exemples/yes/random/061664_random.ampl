@@ -1,0 +1,1 @@
+program Q : GG9 : takes K : integer array returns nothing while 68 /= - 39 : when case 461 : chillax end otherwise : chillax end; do as1(8); when case 0 : chillax end end end D : takes O, l : boolean; m0, hC : boolean; F, H : integer array returns nothing c0, E : boolean; chillax end main : when case - not false + not(1) : chillax end end

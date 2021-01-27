@@ -1,0 +1,1 @@
+program p : B9 : takes E, CkC : boolean returns nothing a : integer array; let q[- true - 16] = array - false end main : TO7, R, C, d9, Y : integer array; when case - (3970) * 60 * (2) or false : chillax end otherwise : chillax end; while - SGw(6) <= - 91 - 23 : chillax end end

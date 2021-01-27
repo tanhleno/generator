@@ -1,0 +1,1 @@
+program _ : main : n3ma, w3 : boolean; G : boolean array; WN7 : integer array; IrMaa : boolean; v, pc, Q : integer array; v5, HLz0a : boolean; while - (1 = 523) and A25 rem F : while 1 >= 3 : chillax end end; input v[(3) rem not 7 and 2]; while - false and 76 >= - 794 - 1 : chillax end end

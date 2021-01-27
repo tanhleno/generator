@@ -1,0 +1,1 @@
+program H : n : takes X8, f, v : integer; Pb, aV, Y : integer array; z4s : boolean returns nothing output "gq" . "" end U : takes n, Z, s, Q : integer returns nothing y, J : boolean; do f46(- 18600 - 0 /= 6, 6 = 63) end i : takes Fa : boolean array returns nothing m0na : boolean; chillax end c53 : takes q9a : integer array returns boolean chillax end main : chillax end

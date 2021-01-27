@@ -1,0 +1,1 @@
+program C6ka : d : takes IG : integer array; Zr, CX, D, d : boolean array; Q4_0a, IhTaa : boolean; E8Pa : boolean returns boolean a : boolean array; n0, e, w, ZR : integer; X680, h : boolean array; chillax end main : chillax end

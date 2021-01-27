@@ -1,0 +1,1 @@
+program DwW : Yv7 : takes K : boolean array returns boolean chillax end _Cd : takes t : integer array returns nothing QaYaa, M, C, C : boolean; do t(- 2 = 63) end p : takes K : boolean; C2 : integer returns nothing M : boolean; ChL0 : boolean; input V; pop 929 end main : input JDr0a end

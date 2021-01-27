@@ -1,0 +1,1 @@
+program TvGa : RT : takes JF5 : integer array returns nothing y : boolean array; P : integer; while - not 31 : while 8 : chillax end end end g1 : takes B : boolean; _Sq : integer array returns nothing y : integer array; output "5" end main : bt, t : integer array; chillax end

@@ -1,0 +1,1 @@
+program G : E : takes p5, o63, z, D1, TPt, M : boolean returns boolean array pop; let t9U = array 4 - 882; let D[2000] = array 86800; when case 7 : chillax end end Kj7 : takes w, Am60a : integer array; n, g5, V : integer array returns nothing j : integer; q : integer; Wt6aa : boolean; chillax end main : oaU : integer array; chillax end

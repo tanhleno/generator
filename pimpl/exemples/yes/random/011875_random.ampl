@@ -1,0 +1,1 @@
+program H : P0 : takes OZ, e49aa, V : boolean returns integer array when case - true and 937 - 0 - 520 : output 44 end case 50 >= 11 : output "" end end e : takes Ew : boolean array; B64, O : boolean array returns boolean array when case 4 > 1 : chillax end end main : I, r0K : integer array; chillax end

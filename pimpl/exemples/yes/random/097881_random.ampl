@@ -1,0 +1,1 @@
+program Z : main : while(6 = 51) and false rem false and 3 or(64) / true >= - (01) + J and 2 or 2 : let b = array 13; pop end; let d = true and 3 > - 08 - 169; when case(6) and 5 >= 1 - 28 : do z(2) end end

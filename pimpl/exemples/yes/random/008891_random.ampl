@@ -1,0 +1,1 @@
+program _dQa : I0 : takes iQb, wp, Px : boolean; o1, f3p : integer array returns integer d : boolean; let m = 11800 < 0 end main : g, R, Qp, u, N8T0a, d5q, bS6 : integer array; output 1; input H[- not 827 * false and 32700 - 79 and 092]; output "" end

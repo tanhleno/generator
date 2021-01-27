@@ -1,0 +1,1 @@
+program _ : TgF0a : takes p : integer returns integer InW0a : integer; let DwA = array - false + 99 - 0070; when case 83900 - 28 <= 88300 : while 66900 : chillax end; pop end; let ruW[9] = array 0; do w(7, 6730); pop end main : s : boolean array; A, T : boolean array; when case true + 2 : let n = array - 3 - 0 end otherwise : chillax end; pop end

@@ -1,0 +1,1 @@
+program H : DT40a : takes wJ0a, i : boolean array returns nothing let i5[(9) and 80600 - 1] = array true; output "" . 36 end main : fF, VQ, Sq, r, l, P67, Q2 : integer; r, T, h, _ : boolean; chillax end

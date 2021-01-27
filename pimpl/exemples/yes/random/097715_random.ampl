@@ -1,0 +1,1 @@
+program T01 : main : when case true rem not yp + true / true and 5 : input q_6a; when case 07 : while 93 : chillax end; pop end otherwise : pop end; pop; let K52a = 81200 end otherwise : chillax end; pop; while - not 0 + 04 - 571 : while 3 : chillax end; input y7 end; do z(- 1, 17500 = 05) end

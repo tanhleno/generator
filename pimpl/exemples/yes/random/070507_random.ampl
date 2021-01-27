@@ -1,0 +1,1 @@
+program k : main : Q, O, G, Sw : integer array; e2 : boolean; output 3 rem 8; when case 95 <= - true - 3 - 4 : chillax end case - 5 /= - 8 - 8 : chillax end otherwise : output "/kaa" . "\nh0"; pop; output "_" end end

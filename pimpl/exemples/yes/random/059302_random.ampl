@@ -1,0 +1,1 @@
+program RI : W6 : takes G : integer array returns integer z, P9_ : boolean; m : integer array; pop - 12 - 75; pop 9; do wE(75 = 8, 73, 150) end B : takes M : integer; z : boolean array; d4Na : boolean returns nothing chillax end main : M, A : boolean; Q17 : integer array; H : boolean; chillax end

@@ -1,0 +1,1 @@
+program b : w : takes g : integer array; c, T : boolean; K71 : integer array returns nothing let V = array - not 1 and 79 + 5 - 988; when case - 7 - 25 : while 88900 : chillax end end otherwise : when case 7 : chillax end end; pop end U : takes x8 : boolean array returns nothing chillax end main : chillax end

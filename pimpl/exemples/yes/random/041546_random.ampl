@@ -1,0 +1,1 @@
+program b : U : takes l5 : boolean array returns boolean array do R((7) = - 67); while - 5 : chillax end; pop 478; when case 8 : pop end end main : OE : integer array; T, A, x, zW, U9N : integer array; chillax end

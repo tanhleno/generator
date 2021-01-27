@@ -1,0 +1,1 @@
+program M : main : w2, u5 : integer; when case - xaaaa = - not false / not 8 and 5 + T and 00 : chillax end case - j6 rem d2ba and 1 : chillax end otherwise : pop; input w[1] end; let N = array(17) rem not 73 and 02900 + true - 3 - 5 end

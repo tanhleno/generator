@@ -1,0 +1,1 @@
+program G : main : when case - not dj / 3 * true and 0 or false + true + 1 - 1 /= - (4) or(81) : input R; when case 533 : chillax end; let A = 72 end case - true <= true or 0 - 3 : chillax end case 18 + 94 : chillax end otherwise : output "" . "" end; output - 5 and 11 + 938; do E(- true, - 4340 <= 9) end

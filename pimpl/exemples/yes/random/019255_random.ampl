@@ -1,0 +1,1 @@
+program u : tor : takes L18, W9 : boolean array; W, K0 : boolean array returns boolean s : integer; Xp : integer array; u, pjiaa, a92a : boolean; input _36a[- (1410)]; while - 7 - 60 : chillax end end main : B6, H, bu, n7, T25aa, y : boolean array; qZ : integer; let U = array - Y or not E2 + 65 end

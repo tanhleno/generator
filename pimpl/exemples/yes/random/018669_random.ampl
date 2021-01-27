@@ -1,0 +1,1 @@
+program d810a : zUN : takes V, k : boolean array; Wf, u, H310, J, L : boolean array returns integer array d : boolean; chillax end o : takes I, J : boolean array returns boolean chillax end main : d, U : boolean array; chillax end

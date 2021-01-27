@@ -1,0 +1,1 @@
+program c : Wct0 : takes R49a : integer; sl : boolean returns nothing input p[- (635)] end xrv : takes J : boolean array returns boolean p, h, _8w : integer array; chillax end A : takes VN : boolean array; XB9a : integer array; _, e, r0, E9 : integer array; H : integer returns integer array m : integer; chillax end main : chillax end

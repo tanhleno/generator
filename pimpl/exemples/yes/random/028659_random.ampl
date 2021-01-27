@@ -1,0 +1,1 @@
+program D : Xt4 : takes N9, jw : integer array; N : integer; is6, Y, Z : boolean array returns integer let AN7[- not 3 and 37 - 8] = array(6) end main : o : boolean; output "p" . - not 6 - 31 - 0 /= - 5 . "q"; pop - not 82 >= - 32 end

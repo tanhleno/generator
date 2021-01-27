@@ -1,0 +1,1 @@
+program U : K4c0a : takes V : integer array returns nothing y, e0 : boolean array; chillax end main : output ""; when case(5) and not 4 - V and 9 or 7 - 25 < - (467) : do mm(59000 = 617); output 3; do U1(0) end otherwise : output 9 . ""; when case 4 : chillax end end; pop - 4 end

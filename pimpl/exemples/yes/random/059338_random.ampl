@@ -1,0 +1,1 @@
+program UK1 : j : takes x : integer array returns integer Y, P : integer; _ : boolean; s3K : boolean array; chillax end main : H08a, ldY, yb : integer; while - false / false / N3 and 023 <= m(7) : chillax end; do Sk(- false / false and 4) end

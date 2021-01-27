@@ -1,0 +1,1 @@
+program p : main : sc5 : boolean; s4, ghY0a, _q, s, e : integer; while - false or not not 2 <= (92) / false or a : pop; when case 65 = 252 : chillax end otherwise : pop end; pop 961 end; pop; while - 3 > 8 : pop 228; output "" end end

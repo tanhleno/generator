@@ -1,0 +1,1 @@
+program K : p1 : takes O : integer; g : boolean; s, U, V, k : integer returns boolean let u = array - false and 8 end main : do Ye(- false / true / not 4900 and 4 or true * true and 48); when case 4220 : chillax end end

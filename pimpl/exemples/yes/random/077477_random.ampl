@@ -1,0 +1,1 @@
+program D : main : j, c : integer array; Z8 : boolean; s9, v, a41, C : integer array; output "\t" . - not 193 and 18 = 34 - 949 . "{\n" . ""; while - 9640 < false : chillax end; let Z[47 and 4] = array - false or 25 - 4 end

@@ -1,0 +1,1 @@
+program P : main : do W(false - 5 /= not true, - U3(243) / true and 120 - not 68 and 4 + 9 - 3); when case(5) + false : input g3z end otherwise : chillax end; let T = array - false and 5; while 9 - 9 > 70 : input wh; input z26; pop end; let l = array 9 end

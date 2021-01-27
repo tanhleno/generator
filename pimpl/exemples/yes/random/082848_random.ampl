@@ -1,0 +1,1 @@
+program LP7 : main : v : boolean array; while - g500[1340] rem(255) rem false or false >= - false : chillax end; when case - J or true and 1 + 7 /= - not 4 and 7410 or 2 : do H99(55 = 8, 0) end case - A >= 75 : when case 448 : pop end otherwise : chillax end end case - 85 : pop end otherwise : chillax end; output - 0; output 3 = 8; while 8 = 23 : input k end end

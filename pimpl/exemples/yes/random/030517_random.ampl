@@ -1,0 +1,1 @@
+program s9t0 : q : takes p, a : integer array returns nothing B450, ZF3aa, z : boolean; PO : boolean; H7j0a, H_, Th : boolean; x : boolean; do gYy((4) or 7 - 4170); do ce(08 - 9 < 15) end main : yjw, qO_a, Y4, N25aa, g, z : boolean array; Do : boolean; chillax end

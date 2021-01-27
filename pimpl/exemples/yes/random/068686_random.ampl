@@ -1,0 +1,1 @@
+program gNSaa : main : tW, xX, K6, Z9, C5F : boolean; n, B0 : integer; while - true and(9) - x7Ga[4] rem true + x and 6 or 2 - 9960 <= 33 * false : do m(- 3, 741 = 302) end; output - (72) >= 40400 - 116 end

@@ -1,0 +1,1 @@
+program U : a : takes Rt, P : integer; dd, Y : boolean array; P, Q : integer array; n9ta : integer array; ir, A6, p : integer array returns nothing G6U, aY : integer; z6W0, n : integer; chillax end main : do a(false and false * (7) and 3 < gS, - 4 - 17000 - 4); pop; do J(- true); do G3(- 14 - 16) end

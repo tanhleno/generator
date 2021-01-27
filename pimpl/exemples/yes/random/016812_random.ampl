@@ -1,0 +1,1 @@
+program Ix8 : m70 : takes b2c, MF3 : boolean; U, R, Y420, p : boolean returns boolean array D, X6 : boolean array; output "" . "" . 4 end l : takes f, E : boolean; on2, l1b : boolean array; P, S, R2 : boolean returns nothing while - 9 - 7 > 870 : chillax end; output 69200 . 64300 end main : chillax end

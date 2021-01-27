@@ -1,0 +1,1 @@
+program M : Y : takes W8p : boolean array returns nothing do D8(false and 650 - 2 - 2 < - 29 - 7); when case 7 - 96500 : do Q(8); pop end end main : yo30, seF : integer array; r, Q3, D, iQu0 : integer array; chillax end

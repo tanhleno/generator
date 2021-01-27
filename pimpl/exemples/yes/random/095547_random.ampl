@@ -1,0 +1,1 @@
+program C : main : when case - (8) * 5 rem(57) and 32 : while 6 - 0 : do qUF0a(0) end end case - Y6d + not 18100 + 0290 - 7 : chillax end case false or 2 - 3 : let d = 0 end case - 0 = 5 : chillax end otherwise : chillax end; pop; while - (1) and 61 + 7 - 0 <= 130 : chillax end; while 99 - 2 < 0 : chillax end end

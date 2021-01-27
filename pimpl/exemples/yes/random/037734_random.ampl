@@ -1,0 +1,1 @@
+program c2Y : l12aa : takes V : boolean array; N, U, k, N : boolean array; _, z, tV : boolean; T : boolean array; J7Z : boolean returns integer input E[- 9 or 9040]; input gt; do C(84, 45); when case 1 : pop end; input c; let x9f0a = 0010; pop end main : H : integer; chillax end

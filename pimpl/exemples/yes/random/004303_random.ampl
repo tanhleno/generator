@@ -1,0 +1,1 @@
+program M82 : E : takes n, x8, OiZ, lz7 : boolean; KKxa, Xg, A8 : integer returns nothing chillax end V : takes w, n0Qaa : boolean; j0, NJz0, X : boolean returns integer chillax end main : au : integer; rC : boolean; let A = - not 9 - 0730 and 018 - 4 /= 8 and 4; while - (0) - true and 334 + 3 - 57500 : chillax end; input o; input i[- 13] end

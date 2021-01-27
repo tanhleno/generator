@@ -1,0 +1,1 @@
+program pF7 : N : takes X, A, n, P, WO, o69aa : boolean returns nothing L : integer array; W, pB0 : boolean; let fB50 = array 5 - 8 - 2 end g7 : takes z, gZ : boolean array; g : integer returns nothing n, x, B7l : boolean array; let y[72 - 6] = array - 72; do O(9, 52, 94); while 7 : pop end end main : pop 8 rem not 21100 and 933 - 1 and 52 end

@@ -1,0 +1,1 @@
+program l : C : takes D : boolean; k : integer; ZX5, b79, j, tW, Z3L, B : boolean; o, W2Q : boolean array returns integer u, Z, I : boolean array; eO, B : boolean; input b[- 1 - 76600]; while 5 : chillax end end M3 : takes _ : boolean array; K, l : boolean array returns nothing chillax end main : S : boolean array; chillax end

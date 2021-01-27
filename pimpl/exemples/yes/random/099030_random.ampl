@@ -1,0 +1,1 @@
+program z : main : while - true rem not not 8 and true and 7 - not not 5 / z1Ha and 800 + (561) and 5 - 3 - 99 /= - h360a[0] / Ef and 1 or(7) - 2 : chillax end; let dm = not 4 and 6 - 4 - 3 <= - 71 - 51600; output "{*" . "" end

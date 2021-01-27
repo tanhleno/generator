@@ -1,0 +1,1 @@
+program C580a : PW : takes W : integer array; fez, Nk : integer; m, PM_a, t, M, Kaf0 : integer; D2 : integer; M, ta : boolean; fW, u, _7 : boolean returns nothing T : boolean array; chillax end main : chillax end

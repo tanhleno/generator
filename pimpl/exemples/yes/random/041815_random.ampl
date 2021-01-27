@@ -1,0 +1,1 @@
+program xKT0a : FT3 : takes r : boolean array returns boolean array let U = - 4 end main : while - (1 = 45) * not(0) rem 2 and 1 : input opT[8]; output 9 end; output ";" . "" . 4 . 7 . 294 . "\t"; output 6 . "" . "" end

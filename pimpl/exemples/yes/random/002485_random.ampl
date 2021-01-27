@@ -1,0 +1,1 @@
+program _ : xx : takes tJ9, M, ZX, S, B57 : boolean array; C, Q : integer returns boolean array h : integer; q : boolean array; pop end main : kc, A, RPF : boolean; U : integer array; when case - 9 and(50) >= - false : chillax end; pop end

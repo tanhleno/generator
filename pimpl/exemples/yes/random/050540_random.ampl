@@ -1,0 +1,1 @@
+program Q : w : takes Z5 : integer; k, j4E0a : boolean array; D : integer array returns nothing output ""; when case 0 - 1 < 6 : output "L\n"; when case 1 : chillax end; pop end otherwise : input a9; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program Wv50 : main : a4, e4, pF : boolean array; H57, Z : boolean; Jg7aa : integer array; when case - (8970) + (10100) : chillax end case - not(2) and 76 <= false and 7 or 6 : output "=" . "S1a" end end

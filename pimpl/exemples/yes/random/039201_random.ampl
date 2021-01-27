@@ -1,0 +1,1 @@
+program D : f : takes CfVa : boolean array; C2w, e : integer array; l9 : integer array returns nothing C : boolean; b, dY : boolean; Y, R4t, DDy : integer; X, c : boolean; when case - false <= 88 : chillax end; while 502 : while 342 : chillax end; pop end; while 3 = 07 : let i = 1 end; output "3" . "6"; input H end main : input d[false - false] end

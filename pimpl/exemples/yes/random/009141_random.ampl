@@ -1,0 +1,1 @@
+program VC90 : M : takes o3, fb1, z : boolean; DG : boolean array returns nothing MZ6 : integer array; chillax end B04a : takes dP : boolean array returns nothing chillax end a : takes K : integer array; g : boolean array returns nothing chillax end fu : takes Z, L3 : boolean; m : boolean returns boolean array output 3 . ""; let f = 609 end main : chillax end

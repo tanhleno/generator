@@ -1,0 +1,1 @@
+program PC : f : takes aR : boolean returns integer array chillax end B6 : takes trN0a, h0 : integer; U, a, l, P : integer; V : boolean array returns integer chillax end main : let _[not not M / true rem c and 6970 + f(036)] = array I6(98, 83) end

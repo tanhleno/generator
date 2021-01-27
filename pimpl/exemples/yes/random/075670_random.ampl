@@ -1,0 +1,1 @@
+program B : main : Wv, o570 : boolean array; when case 835 : when case - 878 - 1 : let e = 9; when case 58 : chillax end end case 2 = 330 : input kP end otherwise : while 4320 : chillax end end; when case 77 = 41 : when case 5580 : chillax end; pop end; input A7[6]; while 40 : chillax end end otherwise : chillax end; while - false + (1) and 2 /= (7) : chillax end end

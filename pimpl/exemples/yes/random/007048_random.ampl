@@ -1,0 +1,1 @@
+program R : h : takes _b, q, J, L : integer array; R, E : integer array; v0, o, UX10 : integer; f8 : boolean array; B : integer returns nothing chillax end Eh : takes R : integer array returns boolean while 9750 - 5 < 6 : input b end end X : takes B : boolean array returns nothing I : boolean; bn6, z0Faa : boolean; o : boolean; pop 040; let H[5200] = 12 end main : chillax end

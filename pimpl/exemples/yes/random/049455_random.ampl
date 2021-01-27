@@ -1,0 +1,1 @@
+program Ln : K30 : takes P2 : integer; w, t, I, x, y : integer array; W250, _ : integer; W, Jbtaa, l8, W, t : boolean array; w : boolean returns nothing do ac(03000 and 4); input q[- 14]; while 5 = 60 : let Y = 055; pop end; pop; input l6gaa end main : when case - (6) * z5O0a rem w + not(366) rem not 170 - true : let y[- 1] = 034 end case - (86) or not 9 and 3 : chillax end end

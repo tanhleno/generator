@@ -1,0 +1,1 @@
+program G7 : S5 : takes vd, JB, B6F, A, jKd, tL, T, S : integer array returns integer array chillax end T29 : takes sHg, _, x : integer array returns boolean h : boolean array; let S[- 8 - 16] = 8 end Z850 : takes B75, x4Ea, QI8a : integer array returns boolean chillax end main : output "\\g\"a" . "\t-aa" end

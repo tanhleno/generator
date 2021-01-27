@@ -1,0 +1,1 @@
+program d : a : takes P48 : integer array; GA : boolean array returns nothing while - (692) = - 3 - 7 : chillax end end main : r, c, k : boolean; Z : boolean array; while u /= true - true and 98 - 0 : let B = array 5 - 7; do R(76, 6, 34); pop end end

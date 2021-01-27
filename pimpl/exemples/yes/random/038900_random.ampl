@@ -1,0 +1,1 @@
+program i1 : u : takes V : boolean array; Y29, v32 : boolean returns integer output 73 - 1 < 4 . "" end main : input f[- K46 rem 441 * true]; input AA[- Z(37) + not 53 and 69 - 849 - 794]; do k((30) and 5, - 9, 7); output 892 end

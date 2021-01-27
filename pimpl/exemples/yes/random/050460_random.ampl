@@ -1,0 +1,1 @@
+program a : t : takes h : integer; g2n0, a4 : boolean array; O7, vGKa : boolean; D, WW, l1p0a : boolean; K : boolean array returns boolean array t7ga, Pi : integer; chillax end S : takes C2z0, v04 : integer array returns nothing chillax end main : do q(- false and true / 99 < not 6 rem a2b); pop - 674 and 38 end

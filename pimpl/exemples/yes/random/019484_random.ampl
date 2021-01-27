@@ -1,0 +1,1 @@
+program Ui4 : l2 : takes R, b81 : boolean array; m, t15aa : integer array; C : boolean array; _ : integer returns integer array do V1k0a(W and 9); output ""; output 8 . "t" end main : pop; when case - not not 0 / true and 5 + N and 2 : do U0(399); pop 3; when case 01 : chillax end end end

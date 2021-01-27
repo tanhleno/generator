@@ -1,0 +1,1 @@
+program j : main : pop(756); do _((56) * (23) and 75000 > - (0) and 129 - 8); do fFk(false and 53 = 91); let K3[- 72000 - 2] = array 2; when case 22 = 1600 : when case 56 : chillax end; pop end; do k(49300, 50) end

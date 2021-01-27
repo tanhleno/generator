@@ -1,0 +1,1 @@
+program BD : O2 : takes a4Baa, e, RaX : integer array; i : integer; A : boolean returns integer array F4 : boolean; v5o : integer; chillax end main : q, l : integer array; sqB, _, F : integer array; do tQYa(true - not not 00 * true and 666, - true * true, - yT and 2 or 2550 - 2 = - 1 - 6, - 7 - 6780) end

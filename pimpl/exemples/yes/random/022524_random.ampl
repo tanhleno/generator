@@ -1,0 +1,1 @@
+program u : gI30 : takes R5, a : boolean array returns nothing F7 : integer; E : boolean; chillax end main : xa : integer array; n : integer; UO2, Oa : boolean; do W(- o3[655] / false rem false /= Y5[711] * false and 44, true, not 4 and 960, - 140 - 963, 3660 = 31, 51, 6); let G = - (2) >= - 79200 - 2; do J(- false, 447); let St = 8; do a(8 = 2, 5, 4) end

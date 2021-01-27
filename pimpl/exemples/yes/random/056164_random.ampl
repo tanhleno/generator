@@ -1,0 +1,1 @@
+program I : a9 : takes H : integer array; M : boolean array returns nothing s : boolean; i, n : integer; J, q2, L7 : integer; output "" . "" end main : iG : boolean array; i, i1 : integer; chillax end

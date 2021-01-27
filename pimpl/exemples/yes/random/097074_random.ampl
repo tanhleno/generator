@@ -1,0 +1,1 @@
+program yc : main : when case H[5] rem true < 9 * false : when case - 5 = 44 : chillax end; pop end case - true and false /= 3790 and 926 - 088 - 1 : chillax end otherwise : do t(40 = 200, 668, 8) end; pop false and 0; while - true and 5680 : while 9 : chillax end; pop end end

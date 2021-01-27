@@ -1,0 +1,1 @@
+program N : D : takes A8, e4, y73 : integer returns integer array do KIC(- 5 and 58 <= - 1, - 5) end main : do J(not true / not(013) or false rem F0 and 8 or not 8, - not false / (4) and 5 + false or 5 < - not 4 and 123 or 3860); output - 41200 and 9 - 733 - 9 = 5 - 8 . 058 < 1 . 2 end

@@ -1,0 +1,1 @@
+program d : Dv : takes g : integer; p, c, D, J09 : integer array returns boolean array chillax end J6zaa : takes y, g, e, E, G : boolean array returns boolean array when case - 0 : chillax end otherwise : chillax end end main : G, f : boolean; chillax end

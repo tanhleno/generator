@@ -1,0 +1,1 @@
+program V1J : x : takes q : boolean array; Y, U6, l, o5b, S : boolean; A : boolean array returns integer array when case f < - 5 - 2820 : chillax end case - 7 : output "%" end end main : D : boolean array; dd, Ls : boolean; input ZSB0a end

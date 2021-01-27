@@ -1,0 +1,1 @@
+program _6 : d : takes p, Hb : integer array returns boolean let J2f[(0240) or 0 - 8] = array - false and 8 end main : ow50 : boolean; when case - true or false : chillax end otherwise : pop; let QZ[3930] = array 3780; when case 8 : chillax end end; output - (3) and 1 >= - 312 - 2; let D[false and 796] = array - u and 70 end

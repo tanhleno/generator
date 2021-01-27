@@ -1,0 +1,1 @@
+program K : L : takes l, u, T, a, fv : integer array returns boolean chillax end R : takes fY : integer array; LhY0a, _, l030, lg20 : integer array; JJ : integer array returns nothing R6 : boolean array; do Xf0(- 1 = 1) end main : x0 : integer array; D2 : boolean; input g[X8(2)] end

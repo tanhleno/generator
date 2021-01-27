@@ -1,0 +1,1 @@
+program h7 : V : takes i, w050a : integer; k, U, p : boolean array returns nothing bVm : integer array; let N[not 9 + 45100] = - 5; do h(7 - 12200 <= 9) end G32aa : takes L, NN : integer returns nothing chillax end main : chillax end

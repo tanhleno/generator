@@ -1,0 +1,1 @@
+program NqF : z5 : takes Ds : boolean array returns nothing f8 : boolean; _2 : boolean array; L : integer array; V, K : boolean; D82a : boolean; output "R" . "9" . "" . "\tk" . "" end main : do Q4R0(- P2 rem 07 rem Yx and 044, gCn(21) rem 26 and 8610, true and 2 - 1 - 1 /= - 8) end

@@ -1,0 +1,1 @@
+program dz1 : main : G0, j : boolean; f : boolean array; FX : boolean; input NI[1 - 37 + not 13 + 1]; while - false or true and 885 > - true or 079 - 1 : while 6 = 7 : input s3O0; pop end; do A(5, 0850); pop end; do zM90a(mXD, - 00 - 4950, 3 = 6); let K = array - 9 - 27; while 5 : do F(96) end end

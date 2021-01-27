@@ -1,0 +1,1 @@
+program L : q : takes XdUa : boolean array; S3 : boolean; D, N, l : integer returns boolean array do b(not 502 and 6 + 7960 - 5); while 1260 - 0 < 189 : chillax end; do U(5); input E end main : Q, I, yH, K : integer; chillax end

@@ -1,0 +1,1 @@
+program s : main : U, eBz, aF, Y, SQ : boolean array; Cq : boolean; C4, U : boolean; W, x6s, s4 : boolean array; v2 : boolean array; output - 102 / false > - (59) and 9 or 33; output "\\S0" . 5760 end

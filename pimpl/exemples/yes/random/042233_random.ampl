@@ -1,0 +1,1 @@
+program F : O : takes C : boolean array returns boolean U : integer; r, Urg : boolean; j : integer; w, o : boolean; while false and 7 or 8 - 6 : while 8 : chillax end end end main : U : boolean array; while - uv4 > not 8 + (8) + 7480 : chillax end; output "" . 3340 end

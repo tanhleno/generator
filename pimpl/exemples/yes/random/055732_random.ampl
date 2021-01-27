@@ -1,0 +1,1 @@
+program G2 : N : takes b45 : integer array; my2 : boolean array; E5, s, l, E8 : boolean; DKc : boolean; J_3a : boolean array; W, K, AH5aa : boolean array; d0 : boolean returns boolean array K : integer array; chillax end main : pop true end

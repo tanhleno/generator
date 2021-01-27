@@ -1,0 +1,1 @@
+program NXg : main : zN : integer array; j, D, Ax : integer; when case(137) * true / K5ha - (690) * true and 7 /= - not false - 6 + 2 : input _4 end; while - RV[02] * true + false and 125 : chillax end end

@@ -1,0 +1,1 @@
+program j : main : pop - _3[9] / 53 and 1; when case true * false and 434 : output 2720; pop; when case 7 : chillax end; when case 01300 : chillax end; pop end case true and 1 = 2 : chillax end otherwise : chillax end end

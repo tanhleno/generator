@@ -1,0 +1,1 @@
+program p5 : M : takes P1N, y4i : integer array; E : integer; ni9aa, K : integer; Q : integer returns nothing when case n - 3530 - 0 : input tC end; while - 684 - 133 = 27000 : chillax end; output 13600; let L[6] = 781 end f : takes bF : boolean array returns integer output "" . 016 end main : j, W0 : boolean; VV : boolean; chillax end

@@ -1,0 +1,1 @@
+program U1 : O : takes _7, X4q : boolean array returns nothing M9, Kv2 : integer; do G(- (74) - 0 - 76400, 19 - 748 /= 2, 0 = 1700) end main : do Hs(- (858)); while R(0) or 8 or 7 > - (07) and 6 : chillax end end

@@ -1,0 +1,1 @@
+program YG : o : takes t, J9 : boolean array returns boolean array chillax end main : when case - 875 and k28[83600] : chillax end otherwise : chillax end; let p[false and not 78700 or not 2] = array(98300) rem h and 3 - false and 82 or 665; let t[- y0] = 069 end

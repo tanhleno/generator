@@ -1,0 +1,1 @@
+program h9 : main : b, t3Ba : integer; when case - 7 - true / (2) + not 1 and 5810 + 0 - 5 : chillax end; do X(- (4) rem(0) + w /= - 590 - 2, - true and 07, - 4); while false : when case 2 : chillax end case 19 : chillax end; pop end end

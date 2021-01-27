@@ -1,0 +1,1 @@
+program tZ : Y87 : takes J1L : integer; dB, K0 : boolean array returns boolean C0K, P1 : boolean; u0 : integer; Jf : boolean; chillax end main : _8 : integer; u9Z0 : integer array; D : boolean; Y5H : boolean; L, a : integer; Y : boolean; chillax end

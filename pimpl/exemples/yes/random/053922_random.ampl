@@ -1,0 +1,1 @@
+program M : I : takes kT : integer array; cE, eluaa, JQ : boolean; Q90 : integer; M9, V8 : boolean; y : integer array; V3J0 : boolean array returns nothing chillax end main : v1, R3N0a, w : integer array; z, p6G0a : boolean array; output "" . j - 88500 - 0 /= 8 - 4; input r3[- true rem q4] end

@@ -1,0 +1,1 @@
+program yt50 : main : d, s : integer; let J[831 - M16(53) rem not 8 and 91 + r9 and 3] = array - lF8aa[8] - false / not 90; when case true + not 60 and 8 - 55 - 1 >= not 255 and 5 or 14 - 46 : chillax end case - q >= 24 - 3 : output ""; input d6ka end case - 799 : chillax end otherwise : chillax end end

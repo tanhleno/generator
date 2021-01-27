@@ -1,0 +1,1 @@
+program Cl0 : sJI0a : takes GEU, G : integer array returns integer array let J = array true or 5; do Q(- 2 - 8 = 13); when case 0 = 49700 : when case 85 : chillax end end case 92 : pop end otherwise : chillax end; output 02 . "" end main : H : integer array; chillax end

@@ -1,0 +1,1 @@
+program E8 : O : takes C17a : boolean array returns nothing P0 : boolean; pop - 447 <= 5; input Y[529 - 02] end main : while false > true rem false and 50 : chillax end; do n(- true and false and 36 or not 9 and 02100 + 50); pop - 26; while - 2 - 4 /= 3 : do tgWaa(160); while 09 : chillax end end; while 142 = 1 : chillax end; pop 20; input o3Paa; pop end

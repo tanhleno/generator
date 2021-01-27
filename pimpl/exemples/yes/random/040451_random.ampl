@@ -1,0 +1,1 @@
+program m : P4 : takes P : boolean array; E5 : boolean returns nothing Vg9 : integer array; _K : integer array; L, S7Maa, u : integer; output "2/\"a"; input k; input w end main : g : boolean array; chillax end

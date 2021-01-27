@@ -1,0 +1,1 @@
+program f : r : takes k : integer returns integer array c : integer array; input m[false and 6 + 5310 - 42]; do FB60(3 > 1) end main : sr : boolean; YKy0a : boolean; while n47(03000) rem Z(2) * not 2 : do X(- 1 - 31200 < 86); input sv; when case 63 : chillax end case 2 : chillax end; pop end; output "" end

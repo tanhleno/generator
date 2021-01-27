@@ -1,0 +1,1 @@
+program M79 : D : takes tb20a, _66a, Es : integer array returns nothing when case true and 346 + 4 - 5560 : do K(5, 8); let w = 2; let lw = 1 end case 56 - 4960 : chillax end otherwise : when case 4 : chillax end; let b = 9; pop end; pop 3 end main : chillax end

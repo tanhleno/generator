@@ -1,0 +1,1 @@
+program jy80 : K : takes mHl0a : integer; v : integer returns nothing E0 : boolean; a, H : boolean array; U2 : integer array; K : boolean; QQ : boolean; N24aa : boolean; chillax end U : takes Y, E, L, db0a : integer; V, g : integer array; h : boolean array returns nothing TMg : integer; dI : integer array; q : boolean; b : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program O0Aa : w6 : takes TB, i : integer array; wdB, jz, a : integer returns nothing jZ : integer array; A : integer array; chillax end p52 : takes P, W : integer returns nothing chillax end main : n4n : boolean; N7Q0 : integer; a, q4 : boolean; i : integer array; output - (6) * true and 2170 . true and 0400 + 8890 >= - 3 - 16 . 5 - 0; pop - false >= - 08 - 3 end

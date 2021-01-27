@@ -1,0 +1,1 @@
+program U : es5 : takes T02a, Zc : integer array returns integer array Y8, D : boolean; U5, Lb, _K : integer; chillax end N7n0 : takes B : integer; bCI : boolean; c77aa, q, u260a : integer array returns boolean let jYa = 6 = 1 end PD_0 : takes u0eaa : integer returns nothing g : boolean array; n : boolean; l : boolean; do J(350 = 882, 67, 0) end main : chillax end

@@ -1,0 +1,1 @@
+program q7C : jV : takes C3, j, W9, TS80 : integer returns nothing chillax end main : e3 : boolean; r, P : boolean array; let H[- 13] = not Qb + jrb and 030 + 4 - 81600 = - not 32 and 05; output false and 9; do e(T and 5 = - 787 - 22700) end

@@ -1,0 +1,1 @@
+program c : T7 : takes g, xb : integer; r : boolean array; t : integer returns nothing W, h, ti50a, eIp : integer; chillax end main : Xg9a : integer array; let uN7 = array - not false rem(3); do yS(- 52); input l75[false or 1 - 62] end

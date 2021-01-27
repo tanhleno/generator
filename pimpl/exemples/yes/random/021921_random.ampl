@@ -1,0 +1,1 @@
+program B : OLy : takes _0, g : boolean array returns nothing chillax end n1 : takes C : boolean array returns nothing while 27 - 8330 = 3 : input q; input B end; let s = array 9 end main : chillax end

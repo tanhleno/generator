@@ -1,0 +1,1 @@
+program B : J3 : takes a67 : boolean; P : boolean array returns nothing chillax end Be : takes M7w : boolean returns nothing W : boolean; V, F, l9 : integer array; x : boolean; p : boolean; chillax end main : while - true : input O; let T5[3] = array 429; do c(7, 35); while 529 : chillax end end; do ui(not not 73300 * W and 2 + not 20 - 4 - 80 <= - 1130 and 8 + 43) end

@@ -1,0 +1,1 @@
+program lnr : q8 : takes D65aa, v5 : boolean returns nothing Jk, t9 : integer array; chillax end j : takes HOTaa, r : integer array; D1, P : integer array; hS : boolean array returns nothing p6Waa, U, TM : boolean array; do B(9, 84500) end main : chillax end

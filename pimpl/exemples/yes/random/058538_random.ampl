@@ -1,0 +1,1 @@
+program i : Cg : takes xEI0a : integer array returns boolean when case - 64 and 2 + 28 - 44 : input e[616]; output "="; when case 1 : chillax end end case 48400 /= 57 : chillax end end X : takes r, Q79, Rh6 : integer array returns boolean array M210, N, eXU0, yn : integer; when case - 9 - 8 : chillax end case 2 : chillax end; pop end main : L : boolean array; chillax end

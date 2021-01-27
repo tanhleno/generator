@@ -1,0 +1,1 @@
+program A1 : C : takes b : boolean array; ii : boolean; t6, I : integer array; g81, m : integer array; w, x, Nb5aa, AHY : integer returns nothing y, Y : integer array; r1 : boolean; pop 34300 - 74800; output 9 = 53 . 645; let R4[80] = 7 end main : do O(true - faha[6] /= false - (09) - 6400 - 1) end

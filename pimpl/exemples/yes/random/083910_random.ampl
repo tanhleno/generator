@@ -1,0 +1,1 @@
+program C : main : r4Ha : integer; D : boolean; S8, C : boolean; v9da : integer; when case - false : chillax end; input Ac7; when case not 64 and 32 : chillax end; while - 0 : chillax end; pop; when case 175 : chillax end case 470 : chillax end otherwise : chillax end; while 1 : chillax end end

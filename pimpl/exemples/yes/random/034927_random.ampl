@@ -1,0 +1,1 @@
+program Y : b : takes O4z : boolean; n, Vt70 : integer array; kH40a, J91 : integer returns nothing c, q, L190a : integer; do A310(- 0 and 2 + 264 - 12600 <= - 9, - 797 - 701); when case 05 - 7 : chillax end otherwise : chillax end end main : V : integer array; p, u, c : boolean; chillax end

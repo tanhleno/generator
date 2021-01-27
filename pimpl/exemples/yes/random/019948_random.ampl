@@ -1,0 +1,1 @@
+program l : dJJ0 : takes f, V : boolean array; y : boolean array returns boolean array X0, i18, k, k, a7 : integer; A, c4 : boolean array; m, r : integer array; input L1[not 26 and 41] end main : Vf30, k, nj, Z : boolean; xW : boolean array; Y, k : integer array; chillax end

@@ -1,0 +1,1 @@
+program R : s0l0 : takes C : integer array returns nothing b, tr, GQX : integer; rE, Q : boolean array; H, t0Pa : integer; RW0aa, G1r0a : boolean; do u(- (17) or 1 - 27 = - 156 - 73, - 5 - 55) end main : input je[not Ky / true]; pop; output - 08 <= 19 end

@@ -1,0 +1,1 @@
+program C : Q : takes _, p : integer returns boolean array input P; output "" . "W<0a" . "25" . ""; do ip(977) end B : takes H7Y : boolean; Tmz, y : integer array returns nothing _ : boolean array; chillax end Z8B : takes Q7, jSN0, W90a : integer array returns boolean array chillax end main : chillax end

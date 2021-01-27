@@ -1,0 +1,1 @@
+program m : I : takes ic, ytY : integer array; w, i : integer array; e1, y4, IuAaa : boolean returns nothing pop end u : takes e, P : boolean returns nothing chillax end main : QoYa : boolean; R1W : boolean; B0 : integer; W, cvta : integer; chillax end

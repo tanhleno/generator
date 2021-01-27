@@ -1,0 +1,1 @@
+program KT : d : takes t : boolean array returns nothing chillax end Z6U : takes E, BS4aa : boolean; r, G : boolean; X0ya : boolean array returns nothing IYi : boolean; chillax end main : let Z = 0 * not 022 and 24 + 458 - 1 - 71; when case F(42) <= - not 9 or 0 - 2 : input Y60 end otherwise : chillax end; input s7 end

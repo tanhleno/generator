@@ -1,0 +1,1 @@
+program J : main : eI0, U : integer; do X(- false or i6T(7) * (0470), - (48) * not 8 < - true + 81000 - 9, false + 91 - 2 <= - 3, 680, 6, 74300, 3); while(17400) / false and 82 : chillax end; let v0 = array - true and 20 end

@@ -1,0 +1,1 @@
+program TSu : kQ : takes l2 : boolean; G, H : boolean array; G8, a, y, RC1, RS3aa : integer returns boolean F3r, ffT, p07 : boolean array; while(28) and 7 + 8 >= 7 - 9 : let Alo0 = array 9 end; while - 3 - 9 < 8 : chillax end end o : takes U : boolean array returns nothing j99a : boolean; chillax end main : CV : boolean array; b, j2R, HgA, G, g, i : integer; chillax end

@@ -1,0 +1,1 @@
+program A : main : when case not(01) and not C60 rem 09700 or R18a * not 2 or not 79 : chillax end case 6 = - 3 + 739 - 63 : do RE(090 = 05); input cl4[67]; input J; do f(6120); pop end; do aiy(- false / AgWaa and 8 or true, - b and 9 + 9 - 632); let R5 = array - (064) and 3 + 9630 end

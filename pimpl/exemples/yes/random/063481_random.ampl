@@ -1,0 +1,1 @@
+program t : V : takes i7 : integer returns integer h26 : integer; A : boolean; while true or 08600 - 1 : chillax end; let H9 = 5; pop 17; while 3290 : chillax end; input QCT end mgX0a : takes LX : integer; u : integer; e, V : integer array returns integer array chillax end main : pop 7 rem false and 8 - (72) + 396 - 039 /= - not 850 and 8; input x[- q * false] end

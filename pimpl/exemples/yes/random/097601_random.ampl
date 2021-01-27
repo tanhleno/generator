@@ -1,0 +1,1 @@
+program v : main : when case true / true / (4) - (1720) + (19) + 7 - 6 : output "\"(!" end otherwise : output 19 . 512 . "" end; while not 0 : chillax end; input O; when case - 30 = 7 : chillax end case 1340 = 9 : chillax end otherwise : do s(7); pop end; pop 86 end

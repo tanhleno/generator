@@ -1,0 +1,1 @@
+program b : main : let qC[- false / (330) and false and 4 or not(15)] = array false - c3Za rem not 665 and 70; output false > - 2 - 0; do Bx6aa(- 450 and 7 - 8, - 309 - 174 = 54); do a(- 0410 - 61 >= 3, 28800 = 935, 61) end

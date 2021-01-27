@@ -1,0 +1,1 @@
+program j : cV : takes c5Wa : integer returns integer s, f, R, g4Taa : boolean array; D51a : integer; pop; input i[888 - 5] end h06a : takes dL, YwJ : boolean; IdK, p39 : boolean array; YTe0a : boolean returns nothing I : integer array; cP : integer; IuPaa, m : boolean; chillax end main : do dRE(- not M[3] or false + false and 159 - 614) end

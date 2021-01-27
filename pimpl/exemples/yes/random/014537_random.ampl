@@ -1,0 +1,1 @@
+program S8 : u6Ga : takes lr8a, a, C : integer array; D : integer array returns integer output "6\""; pop 8; input M[10]; let jOXa[66] = 89; when case 6 : chillax end; do e96a(2); pop end main : kd7 : boolean; chillax end

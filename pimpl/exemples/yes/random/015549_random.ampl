@@ -1,0 +1,1 @@
+program O : V : takes p, OLj0, a83 : integer array returns nothing input Lf2a end xB : takes u : integer returns nothing R : boolean; k : boolean; lyla, N : boolean; a : boolean; o7 : boolean; chillax end main : Q : integer; let xy60a[- false * not true / true or i and(713) or a and 3] = 5 + true and 2 end

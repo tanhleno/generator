@@ -1,0 +1,1 @@
+program _ : T : takes QN, g, HDM, x, VpU, h, D, W : boolean returns nothing let Y = array 55 and 6 or 4; output "`2!" . 6720 . "" end t : takes T : boolean; e, tG, D : boolean; Z : boolean; t3, Kf, D : integer array returns boolean D, C : integer; B, g : boolean; chillax end main : n, W, Y, o : boolean; chillax end

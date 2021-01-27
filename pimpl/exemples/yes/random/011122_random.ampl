@@ -1,0 +1,1 @@
+program piB : rF : takes I45, p, gTm : boolean array returns nothing chillax end main : when case l4(1) / (82) + false * not 4 + true and 37 : while - 6 - 2 : chillax end; let w[6] = 71; let Y1[7] = 7580; when case 09 : chillax end; when case 1 : chillax end end otherwise : chillax end; do Q4(- (51) * K - t and 1 <= true or 19, - 94 and 41 + 2, - 13 - 5) end

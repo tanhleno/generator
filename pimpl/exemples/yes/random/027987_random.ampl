@@ -1,0 +1,1 @@
+program J0A0a : X : takes jL80, F : integer array; h4k, n : integer array returns boolean iV : boolean array; let o[- 5] = array true end _ : takes Zl : boolean array returns nothing chillax end main : w, O0, M, F : integer array; do s(- 8 + 16 <= - 04, not true / (01) and 67 + false or 63 - 55300 <= false, - true /= - 7310 - 39, - 733 <= 3) end

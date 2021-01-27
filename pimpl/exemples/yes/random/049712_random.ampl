@@ -1,0 +1,1 @@
+program By : k : takes UZ : integer; w, w, T, d9 : integer array returns nothing chillax end n2t0a : takes L, S : boolean array returns nothing chillax end main : input P[- false]; input we[- true]; pop end

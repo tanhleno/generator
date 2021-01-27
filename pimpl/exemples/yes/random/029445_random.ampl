@@ -1,0 +1,1 @@
+program x : K : takes x, ct : integer array returns boolean chillax end xq1 : takes X3i0a, X, Al50 : boolean array returns nothing while 9 : do J(2) end; let Y1h = array 02; when case 2 : pop end otherwise : chillax end; pop end main : K, C3, M9 : boolean array; D2, Km, u78, a, I, J : boolean; JG, D, au : integer array; chillax end

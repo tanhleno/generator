@@ -1,0 +1,1 @@
+program j : X8_ : takes ER : boolean array; U5 : boolean; I, k7i0 : integer; ua3a : integer returns boolean array chillax end main : output - E(69) * true; when case(758) or q8 : chillax end case 29 and 9 : pop; when case 7 : chillax end; do Tp(6); pop end otherwise : chillax end; do G(not 8 and 0 - 5 - 57 < - 6 - 74500, - 6 <= 5); when case 5 - 61000 : pop end end

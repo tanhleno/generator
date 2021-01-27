@@ -1,0 +1,1 @@
+program N2 : T : takes G, X, w, rF_a : integer; B, x, Ra, P8, l : integer array; X : integer returns integer O1 : boolean; input y[(6)] end main : pJ : integer array; while g[9] rem 4 / 6 and 7 - 333 : output "" . 9 . 7 . ""; input cwd[32] end end

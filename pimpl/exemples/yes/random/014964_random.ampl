@@ -1,0 +1,1 @@
+program ib00 : P : takes S, K, v : integer array returns integer array q05 : boolean array; x3m : integer array; M4, Wp_a : integer; chillax end main : T58 : boolean array; p : integer array; while - true * U : chillax end end

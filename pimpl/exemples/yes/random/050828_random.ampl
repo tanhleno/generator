@@ -1,0 +1,1 @@
+program jW0 : C : takes Ph7a : integer; W, f : integer; QH, OP, C5 : integer returns integer array J2D : boolean; I, A_0, U9 : integer array; k, T, B27 : boolean array; g, b63aa : boolean; D : boolean; O : boolean; pop end x : takes w : boolean array returns nothing P : boolean array; input K[4 - 4] end main : pop end

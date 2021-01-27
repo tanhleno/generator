@@ -1,0 +1,1 @@
+program m : j : takes ZM : integer array; S56 : integer array; X010 : integer returns integer input g7; while 3 - 34 > 5 : output "<" end end S98aa : takes V1, x, V4ra : boolean array; b : integer array; IA : boolean; Sj : boolean array returns nothing chillax end main : l13a : boolean; chillax end

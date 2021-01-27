@@ -1,0 +1,1 @@
+program gwB : d600a : takes NGY0a : boolean array returns boolean array chillax end B : takes f_ : integer array; Y3 : boolean array; H7Oaa, c : integer; B, L : boolean array; bN : boolean array returns integer input l[6] end main : chillax end

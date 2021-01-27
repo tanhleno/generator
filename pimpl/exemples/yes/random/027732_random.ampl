@@ -1,0 +1,1 @@
+program C : O : takes E710a, e : integer array; p, U1ja : boolean array returns integer O, n9 : boolean; TBO0a, C2 : integer array; zj50a : boolean; p, v : boolean; d75 : boolean; while true + 7 - 39 <= 2 : do uC0(19800, 1) end end main : H : boolean array; v : integer; Y, H5, h41 : boolean; cgq, b : boolean; chillax end

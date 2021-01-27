@@ -1,0 +1,1 @@
+program M : S2v0 : takes R080a, D, b0Za : boolean array; aW7, M, Kk : integer; S3 : boolean array returns nothing rcM : integer; j, n : boolean array; d09 : boolean array; chillax end w : takes dk9, m : integer array returns boolean chillax end main : chillax end

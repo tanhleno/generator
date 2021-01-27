@@ -1,0 +1,1 @@
+program U : SH00a : takes a : integer returns nothing F460 : integer; o, F : boolean; v9, Q, q : boolean; do K(- H /= 807 - 6, 21 - 485, 2 = 356) end main : V9a : integer array; input m[false - true and 5 or true] end

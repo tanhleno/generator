@@ -1,0 +1,1 @@
+program qG : main : _4Y : boolean array; do j(false / false / 1 and 0 + not false, - (9) + true and 85 > - false or 5, (4) and 3); while - (9) : let V88[0] = array 8 end; when case - not 4 : chillax end; do Z(- 9 - 202); while 9 : chillax end; let J[1] = array 9 end

@@ -1,0 +1,1 @@
+program T : d : takes x, C : integer array returns nothing input BTL0a[- 4 or 3360 - 3]; do OtK0(5 - 6 > 41, 70 = 9); input E3[5] end d : takes C, b37, h, o : boolean array returns nothing chillax end main : chillax end

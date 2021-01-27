@@ -1,0 +1,1 @@
+program u : H6 : takes f770a : integer array; W, iW : integer array; QG4a : boolean returns nothing when case false + 9 >= - 86300 : while 9 : pop end end otherwise : chillax end end main : i : boolean array; let c[true / true or not false] = - true rem not 3 and 5280 + Jp and 80 = (63) end

@@ -1,0 +1,1 @@
+program L5 : X6 : takes Ui4aa, OB, c3, v, u, w : integer; w6t0a : boolean; fK3aa, v4 : boolean array; XS70a : boolean array; u, A, q : boolean array; X9, A : integer; kS9aa, r : boolean returns nothing v0 : boolean; ws : integer array; E : boolean array; E : boolean; pop 9; while 1 - 7 : chillax end; while 6920 = 1 : chillax end; output 78500 . "\tz\"" end main : chillax end

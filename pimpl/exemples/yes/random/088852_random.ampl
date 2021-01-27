@@ -1,0 +1,1 @@
+program V : main : input Z44[- true / false + true and(95300) and 941 + false]; when case(1) * (839) and 3 >= not 79 or 82600 : chillax end otherwise : input R2[1]; when case 0 : chillax end; do r(1); pop end end

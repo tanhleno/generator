@@ -1,0 +1,1 @@
+program l : D10 : takes v, J : integer array; i : integer; Y, Z : integer array; X, z1 : boolean; m : boolean array returns boolean array w5, S : integer; dJ : integer array; Q : integer; n : boolean; chillax end main : o290 : boolean; Y, nv3aa : integer array; let eY[- (08 = 34) / 091] = array - not 5 rem 588 end

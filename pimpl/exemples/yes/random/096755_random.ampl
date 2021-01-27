@@ -1,0 +1,1 @@
+program a : main : when case false - F5X rem false /= - (47) + (669) : input L2g[9] end case true * e96 - W - 1 - 40 < false and 8 + 5 : chillax end otherwise : output 92 . 46; while 2 : chillax end end; do b1(- true rem false and 907); pop - 922 - 8 /= 2 end

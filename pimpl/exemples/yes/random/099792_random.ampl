@@ -1,0 +1,1 @@
+program D : main : while 5 rem C[3] * not 6 and 63200 <= false : input Z; when case 60 = 6 : pop; pop end end; when case(091) < (6) : let j[143] = array 87; let HL20a[460] = 17300; let roM = 2; input Q1; pop end case o and 1 : chillax end; output "" . 84; pop; let ks70 = array 82 end

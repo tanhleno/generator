@@ -1,0 +1,1 @@
+program i : v7 : takes I : boolean returns integer chillax end Xzpa : takes uz30a, eN, dl2 : integer array returns integer array while 7 : let E4L0a = 6 end end i : takes X, az0 : integer array returns nothing N : integer array; chillax end main : chillax end

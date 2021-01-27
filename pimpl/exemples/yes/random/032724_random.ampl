@@ -1,0 +1,1 @@
+program U9 : g : takes L6, L5 : integer returns nothing f : boolean; do v(true or 598 - 0, 3) end F5_aa : takes Z, x, TT6 : integer; IxU : boolean array returns integer array chillax end main : k1_ : integer array; T, z : boolean array; while false and(52) : chillax end; when case - 52 : output "" end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program y : S6W : takes r : integer returns nothing do RG(- a1 /= 9); input C[- 88400]; let _4a = array 2; output "" . "" end main : while - false or T[046] < 1 rem false or(2) and 8 - 1 : pop 4 = 9 end end

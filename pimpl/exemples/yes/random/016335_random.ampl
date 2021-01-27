@@ -1,0 +1,1 @@
+program v6x0a : v2 : takes SwGaa, Q, J4 : integer returns nothing S, z87, a : integer; EtK, K, _0d0a, O : boolean; e : integer; chillax end i : takes q26 : integer array; RZ, P : boolean; tC : integer array; J : boolean; w, _, r07 : integer array returns integer array A47 : boolean array; let c[- 59] = 473; pop; do Cj(06); pop end main : chillax end

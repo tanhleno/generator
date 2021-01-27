@@ -1,0 +1,1 @@
+program F : _8X : takes s, o, m, w, z, Z1 : integer returns nothing when case - false or 9 : chillax end otherwise : while 3 : chillax end end; pop 1250 end main : L : boolean; Md : boolean; H : boolean array; chillax end

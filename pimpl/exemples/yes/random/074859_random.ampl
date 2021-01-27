@@ -1,0 +1,1 @@
+program ucd : main : a1, L : boolean array; x4, k : boolean array; yL : integer array; L, Szn : boolean; Q, yLE0a : boolean array; while 740 : chillax end; when case false + F - 698 : pop 5; while 42 : chillax end end case false + 505 : chillax end otherwise : chillax end; pop; when case - 673 - 8 > 5 : let S = 2; output "I" end end

@@ -1,0 +1,1 @@
+program Nd : Jo00a : takes Y3, U : integer array returns nothing chillax end a : takes L, l : boolean; T7Va, S0I : integer array; T5, Q98, n, BI : boolean; g : boolean; N : boolean; Tl, H : boolean returns boolean chillax end main : when case false : let j = 2; let u0 = array 24 end; output - oh and 8 . "\\" . "6U\"" end

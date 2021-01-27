@@ -1,0 +1,1 @@
+program X : H : takes P, Z7E : integer array returns nothing Ad5, i49, A5, k : boolean array; when case(70) or 3 - 7 : chillax end otherwise : chillax end; when case - 6 >= 32 : while 9740 : chillax end; input N; pop end end main : I : integer; chillax end

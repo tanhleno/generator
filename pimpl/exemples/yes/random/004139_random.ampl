@@ -1,0 +1,1 @@
+program J : h8 : takes Q5n, TzL, M, S, SM8 : integer returns nothing input XR; do M1(- 30, 1); let w[1] = array 136; output 9; do N2(4) end b : takes t, R : boolean returns integer array a : boolean; chillax end main : k, x : integer; y : integer array; chillax end

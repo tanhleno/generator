@@ -1,0 +1,1 @@
+program b3 : Zj : takes C : integer array returns boolean array output 5 < 2; when case - 65 : do J3(6) end case 07 = 3 : chillax end case 3 : chillax end otherwise : chillax end end main : A4 : integer array; chillax end

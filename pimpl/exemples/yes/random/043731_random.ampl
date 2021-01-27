@@ -1,0 +1,1 @@
+program s : BO : takes YD : boolean array returns nothing chillax end main : Sq80, kA2a : integer array; when case - x0[4] < - true - not 8 or 10 - 44 : pop; while 4580 : chillax end; input W; when case 8 : chillax end; let t = 2; pop end otherwise : output "\t3aa" end end

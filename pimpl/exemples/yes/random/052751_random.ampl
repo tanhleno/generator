@@ -1,0 +1,1 @@
+program g0 : p0 : takes w : integer; E : integer array; u : boolean array; E, q : boolean returns nothing Z : boolean array; input w[- U and 83 - 6 - 42]; while 47 <= 1 : output ""; output ""; pop end end main : chillax end

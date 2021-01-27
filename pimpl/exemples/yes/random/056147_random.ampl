@@ -1,0 +1,1 @@
+program t : cADaa : takes tp : integer array; qe80 : boolean array returns nothing tcC0, C3 : boolean array; let k = - 897; input hF[- 230 - 3]; do N5(7); do v0(2) end main : vSh, niT : boolean; c, s19 : integer; input q end

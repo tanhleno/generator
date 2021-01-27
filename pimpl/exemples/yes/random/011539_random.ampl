@@ -1,0 +1,1 @@
+program u440a : WU : takes L5, P, YGQa : boolean returns boolean array chillax end L : takes V1, H : integer array; j4j : integer array; A, v, A17 : integer; _ : boolean array returns nothing k : boolean; _ : integer array; _9 : boolean; chillax end kLe : takes V, n, z0a : integer returns nothing chillax end main : Z5Naa, E : boolean; pop; pop - true >= 26 end

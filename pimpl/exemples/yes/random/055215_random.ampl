@@ -1,0 +1,1 @@
+program i : Z : takes Na : integer array; y, nN3 : integer array returns integer array let D = array V36; when case - 5 : chillax end otherwise : chillax end end main : p88a : boolean; input B[- V2 - true / false or 4 and 1] end

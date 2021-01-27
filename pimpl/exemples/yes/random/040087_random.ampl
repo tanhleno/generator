@@ -1,0 +1,1 @@
+program q : si0 : takes x : boolean array; r : boolean array returns integer do Wj(- (2) /= 7); do c(445 - 03); output 4 end uX : takes e : integer array returns boolean array when case - 0 < 93600 : chillax end otherwise : do r(31100); pop end; input q240[24] end main : HR, P, x : boolean; chillax end

@@ -1,0 +1,1 @@
+program H : h : takes s : boolean array; Y5M, PL, A_7, X4 : integer; g : boolean array; c7 : integer array returns nothing output "F!"; when case - 17000 : let Q = 091; input E; pop end otherwise : chillax end; pop 93; let O4[2] = array 3; when case 6 : chillax end end main : lS, Ylb : boolean array; chillax end

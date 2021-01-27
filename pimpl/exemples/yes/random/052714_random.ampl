@@ -1,0 +1,1 @@
+program oJ : Q3B : takes y5M : integer; WVv : integer array; B, i8 : integer array; P : integer returns nothing b7R : boolean array; POI, v : integer array; g, l49, h : integer; do x(- BE, 99 > 77, 1, 620, 849) end main : input K; output Q = 54 end

@@ -1,0 +1,1 @@
+program C4 : PB : takes Uu : integer; fcVaa : integer array; h3 : integer array returns nothing input Pe[false and 8] end r4 : takes zj : integer array returns nothing pop end X : takes l : integer array returns integer array while 21000 = 35 : while 1 : chillax end end end main : do H(1 - 71800 / A or true + 3, Z8v[56] * not 3 <= 39, - 5 and 9 - 3 >= - 20300, 07 - 601 <= 9) end

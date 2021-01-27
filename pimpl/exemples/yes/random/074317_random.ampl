@@ -1,0 +1,1 @@
+program L : main : PfZ, Z : boolean; pop; when case - true : chillax end case h22aa and 7 : pop 2 end case 1 : do q(91) end otherwise : when case 0 : pop end case 7 : chillax end otherwise : chillax end end; when case true - 4 - 28 <= 58500 : pop end case - 4250 - 7 : chillax end end

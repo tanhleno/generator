@@ -1,0 +1,1 @@
+program J0caa : N : takes S8, MQ : integer returns integer gp : boolean array; V, Z, Y, oe : integer; chillax end Og : takes K : integer array; qu2 : boolean array returns boolean array do F(- 7 - 8); when case 25 = 81 : output ""; pop end end main : output - (2) - true - 067 - 7 . - false and 0 or 0 - 96 . "}" end

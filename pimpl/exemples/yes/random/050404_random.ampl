@@ -1,0 +1,1 @@
+program onI0 : W : takes g : integer; E4, oiaa : boolean; d4 : integer; L : boolean array; ZG, E, W0 : integer; wC, XC, q9Ma : integer array returns nothing x : integer; chillax end iT2 : takes p, K5, V : integer; O, c : boolean returns nothing P5saa, e1, O : boolean array; chillax end main : v, d, R3, C960a : integer; input Ie; input Mf[- false + 3 - 9] end

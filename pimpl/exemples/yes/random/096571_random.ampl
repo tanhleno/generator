@@ -1,0 +1,1 @@
+program z1 : main : when case - true - (6) / false and 8 or 41 and 9 < - M(1) * false : pop end case O(6) / not 9 <= true : while 65 = 99 : do f(35); pop end; do K(0); input F end case - Zi - 27 <= - 8090 - 3 : chillax end case - 2 - 772 /= 37 : chillax end case 2 : chillax end otherwise : pop end end

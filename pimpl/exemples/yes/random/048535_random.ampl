@@ -1,0 +1,1 @@
+program y0 : l3b0 : takes i : boolean returns nothing z5 : boolean array; L9 : integer array; do l5(- (1) and 6); do WB(- 40 - 2 < 72400); pop 1070; input h; input I; input s end main : do kY(- 8 + true - false and 4 - 44 - 875) end

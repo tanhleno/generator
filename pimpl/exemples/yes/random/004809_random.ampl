@@ -1,0 +1,1 @@
+program T4l0 : a : takes U, L, o, kK : boolean array; U510, H, SQB : boolean returns nothing chillax end o : takes L, d8ya, w27 : integer array; A, v510a : integer; wm : integer returns nothing output 87 = 0 end main : chillax end

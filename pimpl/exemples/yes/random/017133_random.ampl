@@ -1,0 +1,1 @@
+program U : m : takes j, A5za : boolean; ix, T : boolean; Q2, a, Q : boolean; _ : boolean; V, m, V, TA : integer returns nothing output 3 end main : q, iGi0a, Q : boolean array; input U8; when case - not true - z and 6 : chillax end end

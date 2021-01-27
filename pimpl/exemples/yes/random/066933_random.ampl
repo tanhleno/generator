@@ -1,0 +1,1 @@
+program EX : main : do hC5aa(- true rem not 5320 - B(31) rem false, (621) / not 493 - not 0700, Q >= - 50, - 1 = 79, 102); do q(1 and(4780) and 1 or G81a /= not 60 and 30, true); pop - 4 - 9; input rm5; pop 389 end

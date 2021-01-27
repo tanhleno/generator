@@ -1,0 +1,1 @@
+program z3_0 : main : P : integer array; U : boolean array; S, U : integer; B8, HS90a, w : integer array; let S[- true] = array true / not(0) or true and 7 or(507) and 35; let m[false rem not 7 and 58200 or 5 + 317 - 4] = - Z; when case 90 >= - 6 : chillax end end

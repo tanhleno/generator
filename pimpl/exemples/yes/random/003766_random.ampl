@@ -1,0 +1,1 @@
+program T : L : takes h, Ch, s, m, Q : integer array returns integer do M((201) and 07 or 21 - 604, - 8, 204, 5) end afqa : takes I, YZS0a, ZJ : integer array returns integer array chillax end d : takes A76, K : integer; Vy, K : integer; cu : boolean returns boolean e0 : integer; when case 9 = 8 : chillax end; pop 0 end main : D4R, _ : boolean; chillax end

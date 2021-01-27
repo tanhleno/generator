@@ -1,0 +1,1 @@
+program P3 : zYR : takes Z : boolean array; GG : integer; ko, t, K : boolean returns boolean chillax end main : us, l, g, D, WLCa : boolean array; Y, yI, xAE, i, C7n, M6 : boolean; while false rem 02 or true / not 3 and 48 : when case 97500 : chillax end case 56 : input X; pop end case 24 : chillax end case 8 : chillax end end end

@@ -1,0 +1,1 @@
+program H8M : main : q, v, o1u0a, TN, s : boolean; MXo, s1G : boolean; x, BS2, qi : integer; u, KMaaa : boolean; let O = array not not gV7 rem not y and(7) or not(3950); input P[false + a]; do b(true and 47) end

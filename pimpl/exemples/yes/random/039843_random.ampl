@@ -1,0 +1,1 @@
+program x870 : V : takes BY : boolean array; Ai : boolean array; i4S0a, J : integer returns integer array chillax end KB : takes ur : boolean array returns nothing r, fiP, P, y : boolean; chillax end main : let mY30a = - t[30] / true - true and 91 or 645 < false and 387; input A[false + false and 8 + 4 - 81400] end

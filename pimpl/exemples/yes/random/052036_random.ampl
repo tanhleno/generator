@@ -1,0 +1,1 @@
+program Rcw0a : I1 : takes v24a : integer; v2 : boolean array returns nothing H, N, X8F0a : boolean; D390a, y : integer; w, q, T : boolean; chillax end Q : takes u : boolean array; y93 : integer returns nothing Ua, z, f : boolean; while - 77300 >= 66 : pop end; let k[14] = array 6; input T[51]; do p(284) end main : g : integer; X7 : boolean; chillax end

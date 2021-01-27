@@ -1,0 +1,1 @@
+program Fk1 : main : j, k19 : integer; output - not not 3 and not 4 < - true or 555 - 06 . "R"; when case not 12 : input Z06aa[8670] end case - not 4 and 5 + 9 : do X8ua(0) end otherwise : output 6500 end; output 378 - 493 > 2830 end

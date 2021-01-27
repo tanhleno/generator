@@ -1,0 +1,1 @@
+program Y5 : C : takes P96, bt80a : integer; V2, O : integer returns boolean array E4, F : integer; f27 : integer; aj : integer; input Ad[- 28 and 2 - 9]; output "670" . 4280 . 4 . "9\\"; output "" . 77 . "M;\"a" end main : chillax end

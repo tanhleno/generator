@@ -1,0 +1,1 @@
+program uDMa : g : takes hR, l : boolean returns integer input QE[not 2660 and 7] end Q : takes H : boolean array returns nothing Iwn : integer array; S : integer; Qk : boolean; hUg0a : boolean; chillax end main : S, Gg, LS : boolean; A, xP : integer array; E6, MU50a : integer; B, EcE0a, Z : integer array; when case - not h * false : output "~#" . "9" . "|" end end

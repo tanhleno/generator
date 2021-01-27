@@ -1,0 +1,1 @@
+program F : K : takes e : boolean array; I77 : boolean array returns nothing m : boolean; h, J75, S : integer; C : boolean; T, H : boolean; chillax end f : takes u5u : boolean array returns integer array chillax end K : takes E : boolean array; D, v : integer array; Z : boolean array; P940a : boolean array returns nothing d2 : integer; chillax end main : input _52 end

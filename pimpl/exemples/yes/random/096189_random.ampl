@@ -1,0 +1,1 @@
+program dN : main : when case - not false : chillax end otherwise : chillax end; do l5H0(- false and not 0 and 9 or 2 or 4, true + 5 - 7 /= - 2 - 6, - 80 /= 109, 3 = 621, 8, 53); do qn(- true and 73, - 1, 54 = 37000, 40800) end

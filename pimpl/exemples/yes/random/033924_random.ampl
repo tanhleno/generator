@@ -1,0 +1,1 @@
+program o8oa : L : takes cl : boolean; m, L, e : boolean returns integer array h06 : boolean; when case not 16800 and 332 <= - 8880 - 9 : while 5 : pop end end case 2 - 1 <= 01 : chillax end case 25000 : chillax end otherwise : let X = 67 end; pop; do d(2 = 7, 97) end TQqaa : takes B : integer returns boolean array pop end main : input jK[- 0 rem true * 59] end

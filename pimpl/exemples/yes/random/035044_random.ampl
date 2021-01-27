@@ -1,0 +1,1 @@
+program y6W0a : ue5 : takes pX : boolean; v, S : integer array returns boolean do i(- y and 32900 or 76 = 6 - 87) end main : k : integer; Z, y_, Xd, y : integer array; Q0, WY : integer; l : integer array; t : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Zf3 : main : let Ga = - NH / false + false - 80 <= - Y640 and 5 + 7 - 043; when case - (23) / 4 and 1 : when case 9 : chillax end otherwise : pop end; let G[065] = 37; let u = 55 end otherwise : chillax end end

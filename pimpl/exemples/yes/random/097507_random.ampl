@@ -1,0 +1,1 @@
+program V : main : when case 2 rem false and 9 and 8 + 38 / lb and 2 <= - not cw70a + true and 241 : chillax end case not false : chillax end case - (124) and 7 : output 5; do n(35); while 06 : chillax end; pop end case 777 < 4 : chillax end otherwise : while 91 = 831 : pop end end; pop; output 1 - 6 = 50300 . "" . 56 . "\"\"" . "" end

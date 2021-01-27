@@ -1,0 +1,1 @@
+program Q50 : k : takes _w, P, k : boolean; z : integer array returns nothing while - not 1 : output 1 . ""; when case 94 : chillax end end end Tw : takes v8 : boolean array returns boolean array chillax end main : I : boolean array; pop; let f6baa = - true and 1 or 418 >= 8 end

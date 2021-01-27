@@ -1,0 +1,1 @@
+program V3K : COe0 : takes OT, Q, lS : integer returns nothing do fr9aa(176 and 54 or 65 - 3 /= 39 - 7, - 82 = 09100, 63, 8570) end main : while - (1 = 9) <= - not false : chillax end; input X[- (4)]; output 8 = 47 end

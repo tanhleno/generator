@@ -1,0 +1,1 @@
+program Esj : main : q : boolean; sS, i : boolean; S320a : boolean; do F(- true /= true, not 4 * not 70 or(77) and 8 /= true and 3 or 5 - 21400); output - true + 832 - 6 > 8080 . 3 <= 55 . 3 = 38 . 4510 end

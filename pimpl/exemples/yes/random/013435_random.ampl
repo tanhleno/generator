@@ -1,0 +1,1 @@
+program C : Sb : takes JGJ, w, O8 : integer; E : integer array; it, G6, v : integer returns integer array do Po((0) and 761, - 7 < 1, 3 = 8, 0, 6) end h : takes Z9Q, M, W, J : integer array; _r : integer array returns integer array m7, p : boolean array; chillax end main : output "$"; output - 52 and 292 or 33 /= - 8950; do o3(true < 7); do s(- 089 - 1) end

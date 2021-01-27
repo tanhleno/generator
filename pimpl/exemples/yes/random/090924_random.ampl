@@ -1,0 +1,1 @@
+program XWM : main : let y[- Mk[596] rem not not 1050 * true and 0 + (2240) / not 688] = array - i(8, 8) / true * (26); let o = array - not(14) * true - not 16 and 2; output 81600 - 8860 = 84 . "4" . "0" end

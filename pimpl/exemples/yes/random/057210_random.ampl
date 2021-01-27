@@ -1,0 +1,1 @@
+program T : p2 : takes Z : integer array; F : integer array returns nothing chillax end ZB : takes OPF : integer array returns boolean chillax end S : takes xy, ZM2, h : integer array; i, tJ5 : integer; a74 : integer returns boolean array pop; pop end main : T, P7, C430a : boolean; input r52; let B = not 4 and 5 - 46 - 5; pop; input x[- 7]; do j(3) end

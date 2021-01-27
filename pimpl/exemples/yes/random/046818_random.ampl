@@ -1,0 +1,1 @@
+program i1 : Q8 : takes n : boolean returns integer array output "" . 5 = 546 . 46; do q65(86) end f : takes JY3a, d5S : boolean array returns nothing a : boolean; El00 : integer array; j6, q : boolean; F : boolean; chillax end main : chillax end

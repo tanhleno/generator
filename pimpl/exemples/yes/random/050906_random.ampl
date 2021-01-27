@@ -1,0 +1,1 @@
+program ry : N130 : takes Nqda : integer; h5, c9 : integer; Z : integer array; g4, f : integer array returns nothing n : boolean array; _ : boolean array; input z9; pop end H : takes _2, _ : boolean returns nothing pop; output "\t\n" end main : k0, W, Mp, M, E2R0 : boolean array; when case 52 or false or false or 75 : pop end; output - 3 and 5 - 6 - 9 end

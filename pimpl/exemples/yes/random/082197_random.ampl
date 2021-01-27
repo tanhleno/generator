@@ -1,0 +1,1 @@
+program m : main : g : boolean array; input gM; let G = 01 and 061 or 6 < - 3 - 3; when case N2 and 5 >= 1 - 29 : chillax end case 639 : while 4 : chillax end; while 908 : chillax end end case 50 = 82 : chillax end; do d06aa(- 00400 - 4); when case 3 : output "\t\"" end; when case 26 : chillax end otherwise : chillax end; output "4\\" end

@@ -1,0 +1,1 @@
+program x : o22 : takes OD : boolean array returns integer chillax end TYJ : takes _E70a, F, E0o0 : integer returns boolean array K7, d : integer array; chillax end main : I, l : integer array; chillax end

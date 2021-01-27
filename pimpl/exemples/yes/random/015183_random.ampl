@@ -1,0 +1,1 @@
+program D : o : takes _, V2, I : integer array returns nothing chillax end V : takes k : boolean returns integer V, WK : integer array; let A3p[759] = array - 2 - 4; let G[6] = array 78500 end V : takes W4Y0a : boolean array returns integer array chillax end main : yR_, jz, pm10 : integer; chillax end

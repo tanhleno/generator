@@ -1,0 +1,1 @@
+program j : main : p0, P, h4 : boolean array; while - false rem true * false - not 551 = true : chillax end; do gn(- G or Sp6a - 81, - uf); while - false and 2 + 4 - 23800 : while 04 : chillax end; pop end; pop end

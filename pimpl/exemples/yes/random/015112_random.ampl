@@ -1,0 +1,1 @@
+program d6 : n : takes W, b, mK : integer array returns integer let P[l and 3 - 6 - 8] = - 10 - 9 /= 82 end main : A9d0a, G : boolean array; input vjF[- C99[1] * false rem not 1 + false rem true and 1940] end

@@ -1,0 +1,1 @@
+program hl1a : T0 : takes J8m, n : integer array; u82aa, R9 : integer returns nothing chillax end main : c8a : boolean; sy, tQ : integer array; n : integer; W3v : integer array; while - (73 = 5) : chillax end; pop; while not 93 and 0 or 1 : chillax end end

@@ -1,0 +1,1 @@
+program n0 : main : do o3s0a(- true * v and false > not not 3, false <= true + 2 - 29); let UW = array(3) / false + oa5 + 9 - 0; when case - H and 52200 /= - 48800 - 47 : when case 8 : chillax end end otherwise : pop end end

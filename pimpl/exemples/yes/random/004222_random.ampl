@@ -1,0 +1,1 @@
+program mp1 : u9T : takes w, H, R, wy : boolean; o2Yaa, Z, a, f9 : boolean array returns nothing L : integer; chillax end main : pop - (0) + false - 87700 - 5 >= - false and 7 + 10; pop; while e : chillax end end

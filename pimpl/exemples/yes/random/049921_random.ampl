@@ -1,0 +1,1 @@
+program U18 : Y7 : takes u : integer; O5, R0f0a, N : boolean array returns nothing KoU0, Rh, DN8, z : integer array; B : boolean array; when case not 42 and 0 or 3 : chillax end otherwise : chillax end end main : chillax end

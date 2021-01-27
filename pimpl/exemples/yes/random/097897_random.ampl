@@ -1,0 +1,1 @@
+program c : main : while(59 = 48) or r5(5) / not 03 - 8970 : output "" . "" . "" . "" end; when case 752 < true : chillax end case not 6 and 717 + 7 - 7 : when case 54 : chillax end case 59 : chillax end otherwise : chillax end end; output ""; do mn0a(510 - 6 >= 8); do h(470 = 25) end

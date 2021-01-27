@@ -1,0 +1,1 @@
+program Oi : _ : takes z0 : integer; P : integer returns boolean B3, W, L, I : integer array; n : boolean; l, u, y : integer; chillax end D8 : takes R : integer array returns integer array yp : boolean array; while 6 : chillax end end main : do eQ(- 17 / true > (6920) and not 7 and 9); pop - 9 end

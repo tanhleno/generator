@@ -1,0 +1,1 @@
+program Q : khZa : takes ofb0, v, N830, Tx, t : integer; B, z, ar, it, Tc, v : boolean returns nothing x : boolean; input T[j and 2 or 0 - 1] end E : takes x0, JE : integer array returns nothing input z; while 3 : output ""; pop end end main : W5Taa, p67aa : integer; let y12aa[Ok[0] * false or false and(99) and 10 - false and 5420 + 8520 - 09000] = array - not false end

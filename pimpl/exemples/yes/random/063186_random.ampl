@@ -1,0 +1,1 @@
+program r : Ly : takes X : integer returns integer array while true and 93 + 366 : while 88 : chillax end end; do B(- 789 - 05); pop 57; while 73000 : chillax end; input Z8; do U5m(9); pop end main : while - (3 = 27800) / false rem false and 75 or not V rem w : chillax end; do Z(false * (40) and 62 or(99) + 7, 74700 <= - 0); output "" . "" end

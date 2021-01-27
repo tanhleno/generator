@@ -1,0 +1,1 @@
+program k3s : j7 : takes z3, H8 : boolean array; G, n0, Li20a : boolean; O, b : boolean array returns nothing U : integer array; output - 72 - 7 . "" . "" . "b" . ""; while - 84800 - 24600 : chillax end; while 3 : do d(5) end end main : while - false - 344 > - not not 2 / true and 61100 + (97600) and 27 - 2 : chillax end end

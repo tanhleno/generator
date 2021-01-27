@@ -1,0 +1,1 @@
+program Zn : bG1 : takes k, p : integer array returns boolean fjr0, _, C, Q19 : integer array; Sh : boolean array; o : boolean; uL : boolean; m3y : boolean; chillax end R : takes v : integer; K, a6, HA, c92aa, qI0 : boolean; j0E, j, ul00, JFC, f : integer returns boolean array chillax end main : input f94a end

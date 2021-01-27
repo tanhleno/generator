@@ -1,0 +1,1 @@
+program G500 : main : when case not true : chillax end otherwise : chillax end; let u120a[d4y(09400) - (67500) and 639 or 8 - 02500] = - false; when case true and 4490 : chillax end case 9 : let G = 92; input A5 end case 81 : chillax end case 1 : pop end case 6 : chillax end; do IZ(65 - 4770 > 63, 2) end

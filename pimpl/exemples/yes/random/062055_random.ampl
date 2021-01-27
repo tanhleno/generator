@@ -1,0 +1,1 @@
+program q : g : takes KW : integer returns boolean array input M[- (8) and 07]; pop 77; let hqA = 9 end main : e : integer; O9, FZ3, d, H : boolean array; l_2a : boolean; input s[- true * true + true]; let _[- (0) and 5 and 3] = array - true / 8 and 560; input v[- false and 6] end

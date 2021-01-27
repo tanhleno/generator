@@ -1,0 +1,1 @@
+program l : X : takes xY, P5K : boolean returns boolean chillax end b : takes Q3, F, P70aa, q : integer array; QN4 : boolean; o, f : boolean returns nothing chillax end main : let W = not E and(4) + true and 2810 - 2 - 5; do bW(54 + (10) + 5 - 6, - xA > - 08, 0, 14) end

@@ -1,0 +1,1 @@
+program a : X : takes qr, t76aa : integer array; RQO, j : integer array; l, S : boolean returns integer array Z, r5qaa, Y, I2, S : boolean; while(7) >= 3000 : output 68 end end main : YD2a, QW : integer; chillax end

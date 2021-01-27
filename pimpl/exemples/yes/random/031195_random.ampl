@@ -1,0 +1,1 @@
+program A : R : takes sV, OA : integer returns boolean array chillax end y58 : takes Wd : integer returns boolean chillax end main : pop; let b[- 8 + (5640) and 3] = array - (1) or 3; pop - 6 - 45 end

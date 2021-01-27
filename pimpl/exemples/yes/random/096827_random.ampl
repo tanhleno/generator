@@ -1,0 +1,1 @@
+program O2u0a : main : when case false > 69 rem false and 552 : input W end case - 3 < - 1 and 5 + 01 : when case 4 = 7 : output ""; pop end; pop 141; let j5p0 = 20600; output "" end; input h7A0a; pop - 2 >= 5; do l1(967, 1); let l[981] = 95; output 7; let B = 09 end

@@ -1,0 +1,1 @@
+program sD7 : L : takes U, wq0 : integer returns nothing n4 : integer; chillax end D2 : takes ma, _ : boolean array; r : integer; E : boolean returns nothing lx, t : integer; chillax end main : let g[(8) rem mj or false / (83) and 20] = false; output - n end

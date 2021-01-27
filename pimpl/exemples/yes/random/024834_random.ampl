@@ -1,0 +1,1 @@
+program rc90a : U : takes x9, J52 : boolean returns nothing when case O and 5400 + 3 : when case 1 : pop end otherwise : chillax end; pop end case - 697 - 8 = 03 : chillax end case 4650 = 092 : pop; pop end case 39200 : chillax end case 0 : chillax end end main : qQ, H, mVhaa, WN, t, L7 : boolean array; aT, i, g : boolean; Gfj : integer; chillax end

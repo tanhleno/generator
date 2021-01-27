@@ -1,0 +1,1 @@
+program o : A48 : takes Ia_aa : integer returns nothing j2U, ZB9aa, y : integer; H4, kn, J : boolean; do y8H(- 60 and 4, - 7 <= 9) end main : pS, C55a : integer array; do eg9(h or D + 4 and 9 - 1 = - false rem(19)); while false - 59400 and 0 or 5 > - not 26400 or 8040 : chillax end end

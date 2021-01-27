@@ -1,0 +1,1 @@
+program _ : P4 : takes d : boolean array returns boolean array chillax end J : takes Tr : boolean array returns nothing chillax end main : G180a : integer; pop; do Ja2(- true > - not 8 + 4970, 0 and 3 - 2 - 68 = - 2 - 00, 8 = 6, 2 = 2) end

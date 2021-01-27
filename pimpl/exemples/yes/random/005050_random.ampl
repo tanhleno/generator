@@ -1,0 +1,1 @@
+program v : fYOa : takes T74, R, ZB, r : boolean array; KQN : boolean array; c_4a : boolean returns boolean array cm5aa : integer array; while _44 and 6850 : chillax end; output "" end y : takes u0, t0, D, _ : integer array returns nothing input j[2 - 340]; pop end main : vD, QJ, k3b0a, H, g : integer array; chillax end

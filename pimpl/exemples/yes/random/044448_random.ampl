@@ -1,0 +1,1 @@
+program v : Cq5a : takes g9Faa : boolean array returns nothing yxA : boolean; D5Ya, j, Z, f : boolean array; chillax end main : G, _6B, X, _, g, kI8 : integer array; r7, jD, e, B, e, E : boolean; d, vbQa, L : boolean array; do iL_(- Dhk rem false and N16 and 035 = - not not 849 * (1) - not 0 and 1 - 9 - 68); let Bx2[6510 + true] = array _9[90] * true; pop; input s_ end

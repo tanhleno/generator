@@ -1,0 +1,1 @@
+program Q7jaa : Et_0 : takes bh6 : integer array; H, Z9, l, p : boolean array returns boolean array U, d5, r9Z : integer array; let Yc = 3 - 7 < 748; output "" . ""; when case 77 = 6390 : pop end case 9 : pop end otherwise : pop end end main : chillax end

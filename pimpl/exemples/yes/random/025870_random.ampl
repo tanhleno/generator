@@ -1,0 +1,1 @@
+program k : W : takes a, G : integer; p, A : integer array returns nothing chillax end T15 : takes c : boolean returns nothing pop; input w[2] end N : takes w40 : integer array returns nothing vPj, sr9a : boolean; do UJ(5080); input w end v : takes w, WDea, y, j470a, fVk : integer array returns boolean z : boolean; chillax end main : output "\n_aa" end

@@ -1,0 +1,1 @@
+program e : M5 : takes j : integer array; H : boolean; f, nM : integer returns integer w8p : boolean; input UQ[- Gg9 or 64 - 39] end main : wFma, a : integer array; z : boolean array; pop not I1b - 4 and 3 /= true and 5; pop false = - 59 - 219 end

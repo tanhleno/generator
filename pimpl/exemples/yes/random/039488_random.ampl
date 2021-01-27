@@ -1,0 +1,1 @@
+program yR : T : takes X : boolean array; rJ8 : boolean; x, f, nc7, _9, C : boolean array; h : integer array returns integer l, t : integer; input MiW[- z3Uaa and 9]; input k[12 - 75] end y : takes x : boolean array returns nothing chillax end main : let t = array false - true + (8490) and 45 end

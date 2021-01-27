@@ -1,0 +1,1 @@
+program T : main : I, t, Cz : integer; when case - not(838) rem 3 and false and 82 - (6190) + T8Faa - 0480 - 7 /= - true and false and 8 : let m0 = 3 end otherwise : let v = 150; pop 4 end; input mI end

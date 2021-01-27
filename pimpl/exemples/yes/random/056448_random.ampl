@@ -1,0 +1,1 @@
+program CG : dzd : takes I9l0a : integer array; I : boolean returns nothing f2 : boolean; A3m0a, l60aa, R4i : integer array; MT5a, xz : integer array; N, dr : boolean; when case false + 02 - 50 : do t(5620, 66) end end main : chillax end

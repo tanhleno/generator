@@ -1,0 +1,1 @@
+program OP6a : F : takes s : integer array; M : integer returns integer k : boolean; M : boolean array; u, aE9a, t : boolean; when case(126) = 2 - 96 : pop 4; pop end case 8 : while 9 : chillax end end case 2 = 7 : pop end case 8 : pop end case 28700 : chillax end end main : Y, X : boolean array; cT6, xA : boolean array; i : boolean array; eG : boolean array; chillax end

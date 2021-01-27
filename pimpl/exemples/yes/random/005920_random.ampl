@@ -1,0 +1,1 @@
+program d33aa : F : takes T2, cw, u3, t : boolean returns boolean input A[- w5 and 8]; pop 3680 = 2 end aC : takes k : integer array returns integer array when case - 1 - 69 < 0 : chillax end case 41 = 8 : input w9 end otherwise : do J(52) end end main : i4 : boolean array; I, U3, C, r : boolean; chillax end

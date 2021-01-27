@@ -1,0 +1,1 @@
+program B4a : V52 : takes kRk, S, GhL0a, oE, Qs, PAb0 : integer; J, uO0, A9 : boolean returns integer r : boolean; Wv, L, d6y0 : integer array; n, N : boolean; Fc, H : boolean; chillax end main : chillax end

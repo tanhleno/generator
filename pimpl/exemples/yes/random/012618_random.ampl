@@ -1,0 +1,1 @@
+program k5c0a : W : takes D, vm70a, D : integer; f4z, c, N, S : boolean array; k, D2 : boolean; VO, cv2, z21, v0, n : integer returns nothing do g(- false or 8, - 419 - 4 > 76, 7 = 2, 6, 23); when case - 5 - 7 : output "\t"; let z = 7; pop end case 8 : chillax end end main : I6 : integer array; chillax end

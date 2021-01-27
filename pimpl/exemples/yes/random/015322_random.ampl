@@ -1,0 +1,1 @@
+program b : J3 : takes BgYa, c, g : integer array returns nothing cm40a, p, mb : integer array; c7, l0, K, S29aa : integer; c, df : integer array; chillax end xV8aa : takes R7 : integer array returns nothing J8, q, MW, P : boolean array; Ve : integer; do qv(9 - 5 = 38, 7 = 0); pop end main : chillax end

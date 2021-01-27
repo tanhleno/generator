@@ -1,0 +1,1 @@
+program RD : J : takes XH : boolean array returns integer d : integer array; while 0 + 22 : let n3 = 94; pop end; while 4 : do SD(91); pop; pop end end l52 : takes Z : integer array; q : boolean; U : boolean returns boolean array k, N : boolean; v6 : integer; chillax end main : chillax end

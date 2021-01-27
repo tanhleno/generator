@@ -1,0 +1,1 @@
+program FO0aa : V : takes S : integer array; I, e7Ka, H5, c00 : boolean returns integer chillax end main : when case not not(50) and(3) * 4170 : when case 65 : chillax end case 07 = 3860 : chillax end case 6 : chillax end case 16 : chillax end; let G = 05500; let g = 39 end case - 5 = - true and 101 + 1 : chillax end; pop; input y[88 - 2]; output "0\t" . 891 end

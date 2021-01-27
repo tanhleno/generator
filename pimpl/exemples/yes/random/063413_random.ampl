@@ -1,0 +1,1 @@
+program X : L : takes g : integer returns integer q, N0 : integer array; x, eh9 : integer array; q_T : boolean; c : boolean; output - 70 /= 82 . 0 . 2; let D[- 6 - 2] = array 9 end main : let z[- (7080 = 9) rem 23 * not 0450 and 25] = array - CLWa[57] / true; output true >= 2 - 24 end

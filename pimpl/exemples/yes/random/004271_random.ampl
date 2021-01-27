@@ -1,0 +1,1 @@
+program cZ : B : takes F, Q, u6, ja3 : boolean; b5, d, Bw : boolean returns integer array chillax end u : takes E : boolean array returns integer array chillax end main : output - false or(347) and 73 . "q" . "\\" end

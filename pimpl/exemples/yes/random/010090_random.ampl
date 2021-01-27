@@ -1,0 +1,1 @@
+program n : ZFva : takes Bd, l, g : boolean array; yJ : boolean array; w : integer; f, _ : boolean; m : integer array returns nothing N : boolean array; y : boolean; q33 : boolean array; chillax end main : chillax end

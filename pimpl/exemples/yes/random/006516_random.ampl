@@ -1,0 +1,1 @@
+program a7 : E : takes l1uaa, R, P, l9W : integer; w, Q : integer array returns nothing chillax end lo : takes q : boolean; qy : integer array returns boolean array while 063 - 8 : chillax end end main : while(3) < (90) / (846) : while 94 - 82100 = 0 : chillax end end end

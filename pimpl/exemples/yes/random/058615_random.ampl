@@ -1,0 +1,1 @@
+program v : iVY : takes fg : integer array returns integer array chillax end v : takes O : boolean array; s : integer; OR : integer returns nothing when case - 8 /= 9 : while 781 : chillax end end otherwise : do pG5(8); pop end end main : chillax end

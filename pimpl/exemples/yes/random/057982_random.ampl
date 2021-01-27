@@ -1,0 +1,1 @@
+program MV : R3H0a : takes k : integer array returns boolean array pop end w : takes j : integer; O : boolean returns nothing s : integer; chillax end dk : takes q : boolean; i, L, Z, P, _l : integer array; sr, Q1 : integer array returns nothing b, S : integer; D9, b : boolean; let I[4] = 17 end main : while - 0 rem f6 / K010a <= 64500 / 1 : chillax end end

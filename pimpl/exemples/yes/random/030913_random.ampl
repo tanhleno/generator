@@ -1,0 +1,1 @@
+program kJI0 : exi0a : takes o, W : integer array returns nothing D : integer array; chillax end main : Z : integer array; when case - true rem false + (4) and true and 26 - (628) and 01 : chillax end case false - true or 1 : chillax end end

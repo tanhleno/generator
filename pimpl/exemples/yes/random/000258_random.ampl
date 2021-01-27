@@ -1,0 +1,1 @@
+program B : cGr : takes V1Uaa, BIvaa, us, g, cQ00a, K_, fF, m : boolean returns nothing chillax end v : takes tT, _ : boolean returns boolean chillax end main : when case u3x(413) : chillax end case 63 / 4 or not 27 /= false : do Y(00, 6, 7); while 1 : chillax end end end

@@ -1,0 +1,1 @@
+program e0 : Yl30 : takes I : boolean array returns nothing pop 7 - 9; let V[- 5] = 90 end main : let o = array - e5(6120) rem false rem 6 or not not 6290 - (17000); let E = - false - 031; do v(- (6) and 7 = - 8 - 3) end

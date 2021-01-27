@@ -1,0 +1,1 @@
+program m : main : W5 : boolean array; I, gh : boolean; while(24400 = 870) : let e[- 60 - 7] = 58; let vH2 = 963; let A = array 16; while 8 : chillax end; let L = 0 end; let h[- G(527)] = array - (5); input e; input Q[- 72 - 336]; input i[2] end

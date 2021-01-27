@@ -1,0 +1,1 @@
+program wd5 : l0Yaa : takes q : boolean; Ru9 : integer array returns nothing chillax end iL : takes I1 : boolean; TF5aa : integer returns nothing x, O : boolean array; E : integer array; W, o : boolean; chillax end main : let O0[05 rem false] = array - not false - (7540) or not 3 and 34 + 62 - 4 end

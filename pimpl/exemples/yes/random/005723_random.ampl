@@ -1,0 +1,1 @@
+program a : v : takes r, g, E, a52a : boolean array returns nothing X51aa : integer array; pop end w7 : takes G : boolean returns boolean array chillax end main : input O5; while - A rem true and 2 or true and 62 : chillax end; when case - true and 14100 : pop; when case 8 : chillax end; pop; pop end; do J(- 98700 - 09 = 6680, 47 = 64300) end

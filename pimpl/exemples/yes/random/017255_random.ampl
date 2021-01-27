@@ -1,0 +1,1 @@
+program Z : i : takes h, td1 : boolean; W6, h : boolean array returns integer array Q : boolean array; t : boolean; chillax end U : takes iI : integer array; Z, z : boolean; X, q6 : boolean array returns boolean array k25aa, h : boolean; do c(- 86) end main : do IW(- not false rem not not 94); while(0) rem false and 41 - false + 63300 : chillax end end

@@ -1,0 +1,1 @@
+program nJ0 : zG : takes l : boolean returns nothing F, n58, e : boolean; chillax end _03 : takes L, nx20a : integer array; M, W : boolean returns nothing chillax end main : a, r : integer array; do BmW0a(- not(23) + rWW(55) >= - false and 3 or false + 888 - 0); let E010[- not true / (81400) and 75 - f and 4 or 48] = - true + 8 - 9; output "" end

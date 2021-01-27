@@ -1,0 +1,1 @@
+program D5 : i : takes z8, E6 : integer returns integer Z210 : boolean array; chillax end main : G71 : integer array; input N55; do uw(- (9) * false and 4 - 0 and 7 + 1 - 9, t5 and 2 - 5 /= 0); output 84 - 502 < 85 end

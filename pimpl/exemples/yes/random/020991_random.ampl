@@ -1,0 +1,1 @@
+program A : p6 : takes i, H : boolean array returns boolean array pop; let XH[- 7 - 01] = 257; pop; pop; do Fjsa(5) end main : G : boolean; while 96 + not true / (948) and 9 or true + 6 > - 325 : input d[- 69 - 6] end end

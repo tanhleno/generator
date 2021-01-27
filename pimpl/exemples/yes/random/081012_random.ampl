@@ -1,0 +1,1 @@
+program S7E : main : X0 : boolean array; U4, m, ohc : boolean; when case - true rem 4 * not 3 and 34 + (7) - oc and 29300 /= - (0520) : chillax end case - 92 rem 2 and 7 + (8) - 0 - 35 : while 9 = 921 : pop; pop end end; let F = array - true; while(5) and 8 + 21 > - 64 - 3 : while 5 : chillax end; do KF(03); pop end; while 5 : chillax end end

@@ -1,0 +1,1 @@
+program R : main : c, S1, l1 : boolean array; b, El, k : integer; output "" . - true - 92 > - 1 - 1830 . - 2 . "" . 07; do g(49 * 1420 /= - (67600) and 5 + 8); while G and 78 >= 67700 - 5590 : chillax end end

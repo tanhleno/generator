@@ -1,0 +1,1 @@
+program P7C0 : main : Y : boolean array; when case(56600) = - false rem false and 6 : output 9 end; when case - true * true and 6 : chillax end case - true and 9 : chillax end otherwise : when case 9780 : pop end otherwise : chillax end end; pop 9 /= 67 end

@@ -1,0 +1,1 @@
+program q : r4 : takes hd30a, ip : integer array; m8 : integer array; J, H, m : integer array; H, cD, S, Y : integer returns boolean array gL : integer array; chillax end main : gJ2 : integer; chillax end

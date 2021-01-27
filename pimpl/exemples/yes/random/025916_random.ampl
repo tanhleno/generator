@@ -1,0 +1,1 @@
+program tx9a : r : takes T, Q : integer; f, T : integer returns boolean array i1 : integer array; output ")\t!" end main : D3Saa : boolean; aw, Q4I, Mt, y : integer array; O0, u7 : integer array; chillax end

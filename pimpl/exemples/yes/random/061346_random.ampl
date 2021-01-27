@@ -1,0 +1,1 @@
+program zxda : c1 : takes l2aaa : integer array returns nothing let p7[true and 8] = array(29) and 6 end h : takes S : boolean array returns nothing W : boolean array; H, f, K2 : integer array; y : boolean; B : boolean; do DC(- 5 - 4 > 12600, 23, 6); do J(23000) end main : chillax end

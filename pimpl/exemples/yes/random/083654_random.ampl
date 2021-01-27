@@ -1,0 +1,1 @@
+program Kg0 : main : Q : integer; d35, D : boolean array; y : integer array; z6 : boolean; while - false - M0 + (7590) or 64 - 2 <= (2) : chillax end; input M[- true]; when case true : chillax end otherwise : chillax end end

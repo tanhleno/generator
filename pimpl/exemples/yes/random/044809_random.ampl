@@ -1,0 +1,1 @@
+program B25 : b : takes sM10a : boolean array returns nothing I : integer array; chillax end main : jy, Pe9, S5, C : boolean; Ta1 : boolean; m5A : boolean array; J : integer array; Gsaaa : integer array; do I(- N(4, 448) - 0, - false, true and 9 or 64) end

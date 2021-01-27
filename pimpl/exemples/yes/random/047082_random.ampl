@@ -1,0 +1,1 @@
+program X : g : takes G : boolean returns integer C, q : boolean; L : boolean array; when case not 8 : chillax end case - 1 - 537 /= 11 : output "" end case 6 : chillax end case 4420 : chillax end case 0080 : chillax end end main : chillax end

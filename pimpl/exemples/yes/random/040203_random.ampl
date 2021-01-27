@@ -1,0 +1,1 @@
+program T : r2 : takes B : boolean array; u : boolean array returns nothing A : integer array; Jd4 : boolean; br10 : integer; while(34) and 4 < - 6 : chillax end end I : takes H, D, FJe : boolean; Q : integer array; oLLaa : boolean array returns nothing output "j" . 9 . ""; when case 8 : chillax end case 5 : pop end; while 1 : pop end; do o2D(8) end main : chillax end

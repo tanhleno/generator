@@ -1,0 +1,1 @@
+program D : Q : takes r57 : boolean; r, r, h1y, krR0a, S : boolean returns nothing a88 : integer array; output - 5130 - 9; let Aj90[- 1] = 6 = 2 end main : lq0a : integer array; jCF0a : integer; ta6 : boolean array; chillax end

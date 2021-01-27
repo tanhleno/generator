@@ -1,0 +1,1 @@
+program wU : xaM : takes N2O : boolean; D3eaa : boolean; m, gr9 : boolean array; x4qaa, b : boolean returns boolean Ai30 : integer; T, x, oMf : boolean array; H, Dl_0a : integer array; _9, t : boolean; T : boolean; V2 : boolean; chillax end main : Clz : boolean; M260 : integer; do DA(true and p8ma(1) + o870[3120] * _ and 4 = z(58) and t and 1, - false or true) end

@@ -1,0 +1,1 @@
+program z9 : main : let KU4[- (1) or 95500 * true and 2270] = array true * not not 19100 / false; output D and 8; when case - (09) /= 85000 : chillax end case 6 < 2 : chillax end otherwise : let p = 76 end end

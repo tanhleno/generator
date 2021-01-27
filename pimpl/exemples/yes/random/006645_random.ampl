@@ -1,0 +1,1 @@
+program S : a8M : takes G, Y2p0, j2, n6 : integer; rbf : boolean returns boolean chillax end gcn0 : takes bAL0, v, U22 : integer array returns nothing N2 : integer array; BN : boolean; chillax end W7c0 : takes f, k : integer array returns nothing T, R : boolean; pop; when case 0 : pop end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Wl : P8t0a : takes D0 : boolean; Uq, f : integer returns integer do y(G and 3 or 1 - 426, - 8 - 0 <= 436, 253, 5); let AjO[- 67 - 3] = 1; input B end main : output - c and xL >= not 7 and 0 end

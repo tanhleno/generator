@@ -1,0 +1,1 @@
+program X2 : nar : takes VX, A : integer array; m : boolean returns boolean W9 : boolean; B : boolean array; qCT, N : boolean; chillax end main : R3, n, OFq0a : integer; do g(- not(4) and not true / not 5 and 35) end

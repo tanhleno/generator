@@ -1,0 +1,1 @@
+program e : yx : takes E, E : integer array returns integer chillax end u4 : takes v2 : boolean; Y, n8, l, b7 : integer returns integer p, E : integer array; chillax end pn : takes sy8, P : boolean; t9r, VZd0, bd : boolean returns boolean array yv : boolean; input x; output "" . ""; output ""; do X(28); pop end main : Q, Q : integer array; chillax end

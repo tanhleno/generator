@@ -1,0 +1,1 @@
+program l : i6B0 : takes F, CW8, Uf6aa : boolean array; h, p : boolean array; Q5paa : boolean array returns boolean array let b1gaa[- Yl8a] = 7; while - 346 = 25 : chillax end; output 5 end main : output - (5) and not 32 > - c and 5 end

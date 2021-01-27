@@ -1,0 +1,1 @@
+program hm90a : tz : takes p, a0 : boolean; c : boolean array returns nothing while false and 1 + 3 /= 72 - 7 : do T2(75); do wU7(5); let b5 = 72 end end l7d : takes Z, F : boolean returns nothing T5 : boolean array; chillax end main : chillax end

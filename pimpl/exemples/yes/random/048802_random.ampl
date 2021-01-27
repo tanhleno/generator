@@ -1,0 +1,1 @@
+program b : G7g0a : takes r : boolean returns nothing BMzaa : integer array; output "$2" . "\"i" . 33 . ".i0"; let FIM = array - 4 - 9; while 1 : chillax end; pop; output ".8" end J : takes xJ : integer array returns nothing chillax end main : chillax end

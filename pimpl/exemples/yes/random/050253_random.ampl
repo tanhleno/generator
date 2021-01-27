@@ -1,0 +1,1 @@
+program Z : W1 : takes W : integer; Ly, j7S, k2Ba : integer returns nothing do D(1510 >= - 6) end l72 : takes Oz, Mv : integer returns nothing T : boolean array; C, k, L : integer array; chillax end A40 : takes zf, S410a : integer; L, A : integer returns nothing input J43a; do b(9, 38100) end main : chillax end

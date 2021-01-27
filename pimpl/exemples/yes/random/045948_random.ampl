@@ -1,0 +1,1 @@
+program F : l : takes pO0 : boolean returns boolean chillax end B : takes z : integer; D940, E, a8, d : boolean array returns integer chillax end main : H5, F : boolean array; q12 : integer array; pop not false; let F[- 32 / true and 637] = array true rem true + 5220 and 02900 or 41 - 69 end

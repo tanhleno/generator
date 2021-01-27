@@ -1,0 +1,1 @@
+program TK : main : when case - true or 4 - 79200 >= not false : chillax end case l6C0 * true = - not 58 and 672 or 250 : chillax end otherwise : do R(20500); do V(13); output "A\t\"a"; pop; pop end; let J[- not false * 44 - false and 8 or 3 - 9] = array false rem false; output - 04 - 2 . ""; input d[6] end

@@ -1,0 +1,1 @@
+program H : e : takes b : integer returns boolean T, my3a, h : integer array; chillax end isq : takes le : boolean; T59a : integer array; rP, BP : boolean array; L, z69 : integer returns integer array chillax end j : takes Pf : boolean returns nothing chillax end main : K8 : boolean array; L : boolean array; chillax end

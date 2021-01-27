@@ -1,0 +1,1 @@
+program G : l : takes a, Ij, h : boolean array; i : integer array returns boolean let b3[true] = array ZU or 1; input R; input S3; output ""; let b72 = 0; input F; pop end main : when case true + XpA0a(56) : chillax end; pop end

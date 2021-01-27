@@ -1,0 +1,1 @@
+program _8Fa : Z01aa : takes MJW0, J : boolean returns boolean array K67, Y, G, M : integer array; chillax end N : takes MB1, g, v2, v5O0a : boolean array; s9w : boolean returns nothing while - 730 - 2 : chillax end end main : while - not true or not not 4 and not 64 : chillax end; do j98(true); input J1F end

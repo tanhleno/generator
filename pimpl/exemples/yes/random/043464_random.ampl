@@ -1,0 +1,1 @@
+program P : o : takes c6Qaa : boolean array returns nothing chillax end C16aa : takes t, _ : boolean; V5, M1, w : integer returns boolean chillax end main : Y, i : boolean array; do F5(not(5860) = (5) and z8 and 56 + true + 3 - 8) end

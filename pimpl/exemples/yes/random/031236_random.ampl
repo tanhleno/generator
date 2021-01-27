@@ -1,0 +1,1 @@
+program fC7 : l00a : takes I, g : integer returns boolean array ty, Y, NH, ev, U : boolean array; uA5 : boolean array; input b end main : Cfm, e, y : integer array; KJlaa : integer; dt2 : boolean; y4Z : integer; xl, R : integer array; K3E0, CZ5aa : boolean; L : boolean; r0 : boolean; while(8) or not(46700) - not 8 and 6280 or 71300 - 24 >= G5(7) : chillax end end

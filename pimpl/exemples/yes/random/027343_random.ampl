@@ -1,0 +1,1 @@
+program y6 : QB : takes I, w2Maa : integer array; FB90a, o, X : boolean array; a, h54 : boolean returns nothing V, D8 : boolean; chillax end BHL : takes o, msK0a : integer array returns integer chillax end main : let Nw = array R5L(03) * not 9 / not 1120 and 66 or 15300 / true and 6; do l(- not(7110) and true /= true and 2) end

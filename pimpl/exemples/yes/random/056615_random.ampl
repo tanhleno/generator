@@ -1,0 +1,1 @@
+program R36a : U60aa : takes _ : integer array; _Ke : integer; Q7, H : integer array; l9, w : boolean returns nothing r9wa, Ps : integer array; g : boolean array; Kl : boolean; let J = - 605 - 9 >= 4 end main : ip5, v : integer; output "<Ua" . "\\" end

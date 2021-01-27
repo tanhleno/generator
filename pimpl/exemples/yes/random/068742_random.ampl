@@ -1,0 +1,1 @@
+program D : main : qu, uG7, Os, X, b990 : boolean; _ : integer array; i8, w, z, Z : integer array; let I[- not not T * false / not 6 and 9240 + true / not 33600 - 32400] = - not true /= not 7990 and 1 - 3 - 250 end

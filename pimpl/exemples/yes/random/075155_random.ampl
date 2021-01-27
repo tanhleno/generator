@@ -1,0 +1,1 @@
+program m9 : main : x, J : boolean array; EQ7 : boolean array; when case false rem not 4 >= - true + (90) - 6 - 73 : chillax end case - 9 rem V and 90 : input Pz[18]; when case 1 : chillax end otherwise : chillax end; input vk end case - 1 and 5100 + 7 : pop; output ""; pop; pop end otherwise : input c end; input d2h[true rem 3 and 69] end

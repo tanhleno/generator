@@ -1,0 +1,1 @@
+program ts10 : main : when case - not not false or oo4[731] rem false - 1 and 0 = - (4) rem G and 06 - (24) and 4120 - 18 - 72 : do A(- 348 - 9, 6); while 636 = 1 : chillax end end case - true /= - true : do oR10a(2, 2, 74700); output 3 . "" end otherwise : pop 0 end end

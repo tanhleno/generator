@@ -1,0 +1,1 @@
+program m : p4 : takes Z : boolean array returns integer chillax end E8k : takes Zha, J, b : boolean; k9, j, S, q, F64a : boolean array returns nothing chillax end main : let a = not(68) and true and 168 - (43) - 8 - 1 end

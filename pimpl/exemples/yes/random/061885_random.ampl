@@ -1,0 +1,1 @@
+program j3 : g : takes G8 : integer returns boolean array r, x2 : integer; W : boolean array; z5, X, j5j : boolean array; pop; pop 1 end main : q2, T520 : boolean array; pop; let I = array not not 6 end

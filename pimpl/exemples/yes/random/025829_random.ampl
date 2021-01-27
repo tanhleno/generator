@@ -1,0 +1,1 @@
+program A : g6 : takes V, F : integer; w, Q : integer array; z : integer array returns integer array C : integer; output 3 end main : A2, Qcz0a : integer array; when case(20) : let f = array 975 - 95300 end case - w4f0a(2) : chillax end otherwise : output 4 end; output - true and 40000 or 0 - 20 . "~" . "\"\""; input b end

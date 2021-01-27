@@ -1,0 +1,1 @@
+program p : U : takes Tax, v : integer array; I81, p : boolean; W, hl : integer array returns integer array w, K44a, a : integer array; M150 : boolean; chillax end n : takes mM, Bz : boolean array returns integer XE, YN, y11a, n : integer array; chillax end main : s8 : integer array; output - not not 9 end

@@ -1,0 +1,1 @@
+program g : be30a : takes Zf, b : boolean returns nothing when case - false or 9 - 61 = - 5 - 515 : output 1 . "\"|"; while 10 : chillax end end case 5 : chillax end; pop 5 end main : h : boolean array; do Y(true and false and false - true and 09 and 9 or JK and 94 = Ji(6) and true and 09, not true) end

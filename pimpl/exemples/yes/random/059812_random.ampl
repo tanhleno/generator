@@ -1,0 +1,1 @@
+program M : i : takes Fp : integer array returns nothing chillax end L : takes S0 : boolean array returns nothing M3 : integer array; D, joh0, I : integer; F9, l : boolean; chillax end w : takes u : boolean returns boolean l6Ja, h : boolean; h9, h : boolean; chillax end main : O50a : integer; do F960(- not 8 rem 5 and(3370), true and true < - (3) + 10900 - 220) end

@@ -1,0 +1,1 @@
+program B : main : w, s, Jj : boolean array; while true * m[14] and false < not true * false or not 5 and 7 or 5 - 1720 : chillax end; while - true and 6 and 07 or(14) - 5210 : while 121 : chillax end; when case 0 : chillax end otherwise : chillax end; pop end end

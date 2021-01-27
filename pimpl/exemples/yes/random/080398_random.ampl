@@ -1,0 +1,1 @@
+program VU3 : main : G : boolean; when case - true : chillax end case false * false >= - z35 - 4320 : when case 519 = 5 : chillax end otherwise : pop end; when case 98400 : chillax end case 104 : chillax end otherwise : chillax end end case - 5 > 4790 - 75 : chillax end end

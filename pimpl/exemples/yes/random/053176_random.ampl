@@ -1,0 +1,1 @@
+program N9 : B : takes b0 : integer; r : integer returns integer array chillax end main : Z : boolean array; do O(- T6 + false rem 5 and 8 + true < false * r3E - (95) and 3, - true and not 09 and 2 <= - T + 78 - 0, - (4) and 5650 or 461, 09700 - 66 > 8) end

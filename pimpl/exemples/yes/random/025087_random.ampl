@@ -1,0 +1,1 @@
+program MKs : bW40a : takes j, X9 : integer; k, Xr, R, hwi : integer; I, us, h28aa : boolean array returns boolean do v(- not 2350 /= 81) end h340a : takes m4O : boolean returns integer W, B : boolean; do t1baa(36) end main : when case not false : chillax end case 1 / false <= - false : chillax end; pop; output 0 - 16 >= 70000 end

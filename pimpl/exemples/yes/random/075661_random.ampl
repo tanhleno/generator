@@ -1,0 +1,1 @@
+program E : main : q25, v : boolean array; when case not u6 and(2) * (8) + true * false and 2 or not 4 or 46 >= false or true - 1 : while - 03 - 46600 : when case 61 : chillax end end end case U = mE50a and 5 or 39 - 45 : output 99800 end end

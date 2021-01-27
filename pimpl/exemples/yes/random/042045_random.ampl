@@ -1,0 +1,1 @@
+program X3o : W4 : takes F : boolean array returns boolean do W71aa(not 25 and 6720 > 9) end main : B : boolean; l : boolean; sX80a : integer array; JD7, a : boolean array; Jw60 : boolean; let Q0 = false / false and 2 /= true and 570; pop end

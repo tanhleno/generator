@@ -1,0 +1,1 @@
+program Fa3 : l : takes R : integer; W : boolean array returns boolean array chillax end x9 : takes yo : integer array returns boolean array chillax end d : takes C560a : integer array returns nothing f, V, O : boolean; chillax end main : F9, Va : boolean; pop end

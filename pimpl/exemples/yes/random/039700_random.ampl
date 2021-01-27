@@ -1,0 +1,1 @@
+program Qt : L : takes P : boolean array; d : boolean; oR : integer array; D4, iz : integer array; L : boolean; lH, c, Zj : integer array returns nothing output "" . 2420 . 70200 . 45 end main : b75 : integer array; m : integer array; chillax end

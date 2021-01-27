@@ -1,0 +1,1 @@
+program Mb5 : F : takes rZ : boolean returns boolean input AM1[- (689) and 33]; output 0 = 40; output 38; input VJ end main : f6, c3, s : boolean array; pop - not true - 8 and 4 + 5 = not 8 and 8060 end

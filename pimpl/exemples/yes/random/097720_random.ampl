@@ -1,0 +1,1 @@
+program Y : main : when case true rem 1 / 6 : chillax end otherwise : do W(6 = 6); when case 397 : chillax end case 6 : chillax end otherwise : chillax end; do pQ(2); while 5750 : chillax end end; output "-" . - 38 - 0 . "" end

@@ -1,0 +1,1 @@
+program F : main : zD : integer array; when case - Q[69700] + false + true and 24600 - 015 = - not(5) - (4) and 4 : input ozU; do J(872, 6) end case not J or true : pop 10; while 9 : chillax end; output "" end case 9 + 0830 /= 2 - 726 : pop end end

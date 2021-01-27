@@ -1,0 +1,1 @@
+program HkC : t : takes X : integer array; W8 : boolean returns integer array chillax end v9 : takes Vk : boolean returns boolean array L, n : integer; chillax end r9z : takes Hg5 : integer array; y, q46, nN1, ab, W : integer array returns integer array while 1 : do OG(2); pop end; do R(25); while 264 : chillax end end main : E, X, s : integer; input H end

@@ -1,0 +1,1 @@
+program T : main : when case not not true or false - not 9710 and 9 - 9 < 0 * not 40700 and 34 : pop 370 = 14; while 6 = 7 : chillax end; let L4S0[2] = 330; output ""; output "" end case - (279) >= - fS and 9 - 2 : output 0 end case - (8) and 1 : chillax end; pop false; input qa[- (0) and 5] end

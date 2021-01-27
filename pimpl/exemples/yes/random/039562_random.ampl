@@ -1,0 +1,1 @@
+program b52 : E : takes M : boolean array; G6A : boolean; e, P : boolean array; iI3, f, i : boolean; C, P, u : boolean array; w, w1 : integer; d, C07 : boolean; E60aa : boolean; u : boolean returns integer array ON, r, t, r4z : integer; chillax end G070a : takes C : integer returns boolean E, X, o1, ic : integer; output "FU" . "H" end main : let u4t = 9 and not 6 or 5 + 77 end

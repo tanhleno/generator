@@ -1,0 +1,1 @@
+program zZN0 : cB : takes R : boolean; Z7c, F, D, I0Taa : boolean returns nothing input J[- false]; input Osna[- 1510 - 5]; input ZR; do V6(84, 1); output "7"; do A(20); pop end main : b : integer; chillax end

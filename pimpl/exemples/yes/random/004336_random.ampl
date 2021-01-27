@@ -1,0 +1,1 @@
+program w18 : H7v : takes u2oaa, fH, m, o : boolean; jW, R7 : boolean array; Vua, r : integer array; O, i1, X830, a : integer returns boolean array y : boolean; PT : integer; u, A56 : integer; Pd : boolean; E6 : boolean; chillax end main : I, Pw9 : integer; p : boolean; output "" . - V and 81 = - 6 - 313 end

@@ -1,0 +1,1 @@
+program b4 : e : takes rA, D03a, a7 : boolean array returns integer h83aa, v : boolean array; x1, I, u : boolean; do M61(T or 91, - 359 >= 307, 52 = 7); when case - 5 - 5 : pop; while 5210 : chillax end; pop end end main : O : boolean array; while true > (8) - B4va + 9 : chillax end; pop - Vx4 and 44; do D(- BUl and 7990 < 9, - 79000) end

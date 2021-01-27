@@ -1,0 +1,1 @@
+program yc : Yv : takes w : boolean; Q : boolean returns boolean m, O : boolean; DI, U : integer; z, Uana, yg6 : integer array; chillax end main : let D2[- false * false] = - L7[3] - (3970); when case true / 6 and 77 or not 6 - 3 = - (86) or 1 : output 099 . 669 end otherwise : chillax end; pop 9000; output 03900 = 4 end

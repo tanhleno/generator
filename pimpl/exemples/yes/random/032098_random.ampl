@@ -1,0 +1,1 @@
+program E : K : takes Uj80, lO : integer returns integer C : integer; chillax end h : takes GV, p, T2 : boolean; O4, d : integer array returns nothing P : integer; chillax end a : takes E, LV : boolean returns nothing pop end main : K620a : boolean array; XP : integer; let Wp8aa[false and B(7) + X and not 0] = not not 47 <= - 10 and 42200 end

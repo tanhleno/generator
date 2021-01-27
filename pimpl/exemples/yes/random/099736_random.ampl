@@ -1,0 +1,1 @@
+program Mr : main : while 3 = (544) / (6) : chillax end; when case - 2 : pop; while 1 : pop end end case - true <= 95300 : pop 0 end case 5 : do b(78); output "" end case 0 : chillax end otherwise : let qd[088] = array 2; let V1m = 8; output "6I"; pop end end

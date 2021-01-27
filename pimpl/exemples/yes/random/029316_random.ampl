@@ -1,0 +1,1 @@
+program y : B : takes o, k6X : integer array returns boolean array Y0Qaa, A : boolean; while not 49400 and 3 >= - 51 - 1 : chillax end; let H3 = array 7 - 85900 end main : h : integer array; when case - 18 and false rem(3) <= - false or not 1 - 3 - 0 : chillax end end

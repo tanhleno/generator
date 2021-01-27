@@ -1,0 +1,1 @@
+program _ : main : do gbl0(not not(38) * 1 / not 5 and 8 - true + 5 and 9 + 5060 >= - (4), not(2) - 96 and 974 >= not 8); input A05aa; when case - not 092 and 1750 : chillax end otherwise : pop end end

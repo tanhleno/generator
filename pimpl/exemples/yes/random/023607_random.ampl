@@ -1,0 +1,1 @@
+program a : M : takes g, Kzw0 : boolean returns integer array when case V and 6 or 580 - 3 : chillax end case 9 > 83 : output "" end case 0 : when case 1200 : chillax end; pop end otherwise : chillax end end main : l2, p8, mK, b, d : integer; UBu : integer array; h, X80a : boolean; chillax end

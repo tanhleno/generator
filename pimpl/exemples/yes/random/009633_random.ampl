@@ -1,0 +1,1 @@
+program kA70a : a : takes y2T, sV9, r : boolean array; z, ShU0, C : boolean array; T69a : boolean; r, S : integer returns nothing chillax end main : input e; when case - (8) * false and 2 >= - 3 : chillax end otherwise : chillax end end

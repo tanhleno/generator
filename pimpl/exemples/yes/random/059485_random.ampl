@@ -1,0 +1,1 @@
+program j : H : takes T : integer array returns integer V : integer array; Lc : integer array; chillax end O : takes t1E, v3 : integer; Nb, u, O420 : boolean array returns integer u7 : integer array; chillax end M : takes FkK0 : integer returns integer array while 9 : pop; pop end; do U9(7, 99); when case 75 : chillax end; do a(573); pop end main : chillax end

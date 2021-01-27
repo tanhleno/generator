@@ -1,0 +1,1 @@
+program tZ : C7 : takes dL : boolean returns nothing when case - true and 5 = - 74 - 1 : chillax end otherwise : chillax end end fI : takes s : boolean array; W, u, l0 : boolean returns boolean array o2 : boolean array; chillax end U67 : takes mk10, f, v05a, AY : boolean; EL_ : integer array returns nothing chillax end main : chillax end

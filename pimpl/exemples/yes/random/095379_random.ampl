@@ -1,0 +1,1 @@
+program nb80a : main : when case(81) + 2 : pop end; pop; when case false and 2 : chillax end case 09600 - 49 /= 097 : output "\""; pop; pop end case 062 : input x end case 7 : chillax end otherwise : chillax end end

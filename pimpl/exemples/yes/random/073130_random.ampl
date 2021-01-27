@@ -1,0 +1,1 @@
+program P1 : main : tMX, IG5aa, bM : integer array; pop - false and I and 36; when case not not 85 / V3 or not 4 and 1 /= not 19200 : chillax end case - false - 5270 : chillax end otherwise : let ySD0 = array 13 end; while - false : chillax end end

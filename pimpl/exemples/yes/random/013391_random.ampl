@@ -1,0 +1,1 @@
+program D : v : takes t5fa, i, s7 : integer; Y : integer; H : boolean; N : integer array; f : integer array; Z8 : boolean; l2r : boolean returns integer n6ha : integer array; Y, drr : boolean array; W, Wa3 : boolean array; fP : boolean; chillax end main : s, D : integer array; W, Z : boolean; chillax end

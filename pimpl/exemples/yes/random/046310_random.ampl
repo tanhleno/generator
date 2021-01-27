@@ -1,0 +1,1 @@
+program x7 : Uo : takes e : boolean returns boolean input Yh5[- Z and 91900 or 9]; do i(- 7 - 8) end x0C : takes G43, f : integer array returns nothing do K(- 6 > 7, 38 = 8380, 900, 8) end main : r9j : integer; chillax end

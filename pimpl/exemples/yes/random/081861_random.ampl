@@ -1,0 +1,1 @@
+program i : main : J : boolean array; G : integer; P3Y0, L, rE, R8, q7 : boolean array; A : integer array; JP : integer array; do x9q0a((12 = 238), - (6) * true - false or 14800 - 2 >= true and 13700); input H; pop 68000 /= 7; while 2 - 8 <= 7420 : chillax end; pop 8; pop; do p58(0) end

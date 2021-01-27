@@ -1,0 +1,1 @@
+program f : z19aa : takes f, M5c : boolean; N : boolean returns nothing Kp : integer; chillax end m7 : takes jx : boolean array returns boolean pop 6 = 6010; do O(65 = 14) end S : takes Vs, a6 : integer array returns nothing fN : integer; chillax end main : chillax end

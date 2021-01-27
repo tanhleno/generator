@@ -1,0 +1,1 @@
+program C : O : takes A, M6, z : integer array; dO0, Kx70a, g : integer; s : boolean array returns boolean array m, k : integer array; let tV = array false and 25 + 758 - 3; let I = 4 end _v7 : takes F : boolean array returns boolean P1Ta : integer; input p[18500] end main : g, CxC, S, R, w : integer; FY9aa : boolean array; S : integer; output "" end

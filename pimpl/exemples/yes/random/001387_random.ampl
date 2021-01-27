@@ -1,0 +1,1 @@
+program rr7 : G : takes s, u0, JL1a, i530a, x3l, M : boolean array returns integer array f : boolean; r : integer; K : boolean array; P3 : boolean; g9 : boolean; V71 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program _ : main : vZ, YHb, G2 : boolean; KL60 : integer array; G4, B : boolean; when case - false : chillax end case - (78) and not 1 - not 9 and 96 : output 6; input uv; do V(1); do p8M0a(92) end otherwise : pop 0; do v(8); output "f" end end

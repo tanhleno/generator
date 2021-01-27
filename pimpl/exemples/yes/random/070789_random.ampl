@@ -1,0 +1,1 @@
+program w : main : cG_a, ce6, p2 : boolean; bH2, O, W : boolean; c : boolean; z_o, V : boolean array; JR, o, u5 : integer; s, W : boolean; let O[not false or false / 7000] = array - not false and(4) rem not 82 and 55; pop - false and 9 or 4 - 6760; let ka4 = array f and 6 end

@@ -1,0 +1,1 @@
+program a : W : takes I : integer returns boolean chillax end Y510 : takes t5 : integer array; C, r, L : boolean; L : boolean array; x, r : boolean array returns boolean WAT : integer; pop end h4Maa : takes zC : integer array; D0 : integer; M : boolean array; T : integer returns nothing output 3; output "|8"; input mR end main : H, h : boolean; H, i : integer; chillax end

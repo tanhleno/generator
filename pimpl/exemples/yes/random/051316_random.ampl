@@ -1,0 +1,1 @@
+program j : pB : takes F : integer; B : boolean; S3, L, m2, V, fw80a : boolean returns boolean chillax end b02a : takes m, w, r : integer array; Z : boolean; w, O, w5 : boolean array returns boolean chillax end main : D : boolean; when case false + true - true - 4 : chillax end case not 80 - not 4 : chillax end case(09) : chillax end otherwise : chillax end end

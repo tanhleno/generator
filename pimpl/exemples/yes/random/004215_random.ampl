@@ -1,0 +1,1 @@
+program _ : N : takes p1, K, un, P0_ : boolean; p, i5, L, fqh : boolean array; p, C7 : boolean returns integer do X(not 7); when case - 6100 >= 087 : pop end case 20 : when case 7 : chillax end; pop end otherwise : let grp = 09200; pop end; when case 059 : let X = 1; pop end otherwise : chillax end end main : n4p : integer array; Xg : boolean array; chillax end

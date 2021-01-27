@@ -1,0 +1,1 @@
+program b : v : takes V4, ij, VG3 : integer; n : boolean returns nothing D, QOga : boolean array; chillax end main : J_, b8M0 : integer array; CD : boolean array; while not false rem not not 0 : chillax end; do p(- true <= false); pop - 60 /= 894; let Cb8[2 - 8] = 51 = 17200; while 39 = 36300 : chillax end; pop; while 8 : chillax end end

@@ -1,0 +1,1 @@
+program x520a : D96 : takes w1 : integer array; g280, x6, M2Y : integer; q07, U : integer array; Q : boolean array; i7 : boolean returns nothing chillax end M : takes E71, s : integer array; p : integer returns integer array do V(3 > 2) end main : e1ka, K, M : boolean; W0L, q6k, N8iaa, l, X : integer array; chillax end

@@ -1,0 +1,1 @@
+program xf0 : K8K : takes Oh1 : boolean; fVr : boolean; om1, r1 : integer returns nothing chillax end t : takes zx : boolean array; r : boolean returns boolean n4C, B, U58 : integer; chillax end z : takes D : integer returns integer pop; while 4 : pop end end main : chillax end

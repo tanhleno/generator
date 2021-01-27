@@ -1,0 +1,1 @@
+program kh : Z : takes f820a : boolean array returns boolean z, Ee, i11 : integer array; o3oaa, qRna : integer; Yv : boolean; of, v : boolean; do e(- t or 83); input Iaf end main : do p(not(7) + 41 or false - 232 - 97, - not false, true and 79) end

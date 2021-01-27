@@ -1,0 +1,1 @@
+program c0 : main : output "1%" . not 94 < - 84; when case - true : chillax end case not 9 or 41 <= 9 - 39 : chillax end otherwise : chillax end; while - true and 8 : input Ax[373]; output ""; output "P\ta" end end

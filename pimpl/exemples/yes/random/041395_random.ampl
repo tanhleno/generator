@@ -1,0 +1,1 @@
+program b2 : K9 : takes W4 : boolean array; Z1W : integer returns nothing w : integer; nHG : boolean array; chillax end k : takes K : integer returns boolean array E : boolean array; _8 : integer; ZT : boolean; _ : boolean; chillax end main : A : boolean; ck3a : boolean; pop; let o = array true + XL and 2 end

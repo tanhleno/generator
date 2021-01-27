@@ -1,0 +1,1 @@
+program yfJa : O : takes CX6, j69 : boolean returns boolean array chillax end main : pop not j and not 92 = - not 84 and 35300; while false / (7) > d and 00 or 1330 - 2 : while 3 : chillax end end; do PsB(true + 448); pop; do Ob(6, 1590); do LPn(498); output "\"" end

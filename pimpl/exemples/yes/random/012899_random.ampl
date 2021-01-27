@@ -1,0 +1,1 @@
+program a : K3Oaa : takes S, G, C0I : integer; D, imy0 : boolean returns integer array S, O75aa, c : integer; let s[false and 4 + 08 - 0] = array wI and 1 + 20 - 19900 end main : zW : boolean; m, J : integer array; chillax end

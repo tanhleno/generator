@@ -1,0 +1,1 @@
+program a7Saa : main : output false - true and 0110 . "" . ""; do N(- not false < - 66 and 291 or 2, - j and 40100 or 52300 - 8 >= 9 - 658); when case - (4) + 2 = - 2 - 16500 : chillax end otherwise : chillax end end

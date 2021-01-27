@@ -1,0 +1,1 @@
+program jZ : l : takes Y : boolean returns nothing q3, ym7, y : integer array; while 0 or 6440 : while 8 : pop end; output ""; input s end; let Pj[- 025] = 3 = 5500 end L40aa : takes ubm : integer returns integer aQgaa, C3 : boolean; while - 02 <= 0 : chillax end; let Ue80a[9] = 767; while 9 : pop end; input oO30a; input V; pop end main : chillax end

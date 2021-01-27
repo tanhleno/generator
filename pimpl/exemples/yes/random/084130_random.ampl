@@ -1,0 +1,1 @@
+program Bov : main : QQ : integer; H7j : boolean array; q : boolean; when case true and(16) <= 58 and false and 58 or F : input zWu[- 75] end case true and bt7 and 0390 + (5) : chillax end; output 6390 . "" . "2(!" . "d" . ""; output - 50 - 4 . 285; pop end

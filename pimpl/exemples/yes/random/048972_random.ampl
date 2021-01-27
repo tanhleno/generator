@@ -1,0 +1,1 @@
+program Xr : kqW0a : takes U33 : boolean returns nothing output - 724 > 0 . "" end d : takes G : boolean; R3 : integer returns nothing chillax end M : takes x : boolean array returns boolean array do LMu(827) end main : do X1(- not true, true - false) end

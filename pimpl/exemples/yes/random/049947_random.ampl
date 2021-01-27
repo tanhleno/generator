@@ -1,0 +1,1 @@
+program Q : S3 : takes u : integer; i, f, FL : boolean returns boolean array s : integer array; when case false and 063 + 3460 < 49 : when case 8 : pop end; pop end case 76 - 2 : let D0 = 89 end; when case 0530 - 6 /= 22 : chillax end case 907 : chillax end case 00 : pop end otherwise : chillax end end w : takes E : boolean returns nothing pop 463 = 41; pop 72 end main : pop end

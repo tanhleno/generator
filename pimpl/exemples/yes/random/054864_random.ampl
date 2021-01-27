@@ -1,0 +1,1 @@
+program j : Mz30 : takes w : integer array; SJ, z : boolean returns nothing i, qZ : boolean; EO, Z210a, Z, t : integer; pop - 3 - 4960; input Cks end main : o : integer; c4, X, Z73 : integer array; v7 : integer; output "4" . "1" . - 81; let zc50a[- (6) * 4 and 7] = array - (70) and true and 290 or 2 end

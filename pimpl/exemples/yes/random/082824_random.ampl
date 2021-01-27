@@ -1,0 +1,1 @@
+program X : main : yXU0a : boolean array; while - false / not(9) <= - true / not 4 and 26 : when case 34 : output "\"Fa"; when case 566 : chillax end end end; let WY = array(4) * 4 or not 1 and 9 - 4 end

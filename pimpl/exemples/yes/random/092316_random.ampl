@@ -1,0 +1,1 @@
+program H : main : output - 6 and not 1 . - true and 68 + 4 - 4 < - 57; when case(4) or false >= 8 and 6400 - 95 - 5 : chillax end otherwise : when case 1 : chillax end otherwise : chillax end; pop end end

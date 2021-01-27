@@ -1,0 +1,1 @@
+program Q0 : o : takes Q, u9, B, _ : integer array returns nothing F, E5O : integer array; D, n, M : integer; input paz[not 248 + 7] end D : takes y : boolean array; bt, y, lI5, f6 : integer array; O8, F2 : integer array returns nothing chillax end main : I : boolean; Q5 : integer; zY_ : boolean array; A : integer; J, g : boolean; chillax end

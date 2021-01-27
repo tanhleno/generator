@@ -1,0 +1,1 @@
+program G : c : takes f : integer; l, BR, Ti : boolean array returns boolean o, WH0, O : integer; chillax end E : takes U72a, CN : boolean; z, l, w, i : integer array; s, e : boolean returns boolean chillax end b6 : takes I, y28 : integer array returns integer array o, D : integer; Q, h : boolean; let x1j0a[9] = 3 end main : chillax end

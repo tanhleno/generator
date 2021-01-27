@@ -1,0 +1,1 @@
+program K2T0 : k9 : takes DcH, El, p8 : integer array; K, a4z0a : integer; R7 : boolean returns boolean array e : boolean array; E : boolean; Va : boolean array; let BZ = array false and 25 end main : m, r, D7, f : integer array; chillax end

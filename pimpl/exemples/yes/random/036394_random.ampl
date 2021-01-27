@@ -1,0 +1,1 @@
+program eqnaa : f : takes j : boolean; g : integer; X, lt4, s, T : boolean array returns integer array chillax end I : takes m, MM, l, E8 : boolean array; Cn, Ma, CDA0 : boolean array; MiZaa, wI : boolean array returns integer output 8 = 2240; while 28000 : chillax end end main : do i(false / false and true or false and(0)) end

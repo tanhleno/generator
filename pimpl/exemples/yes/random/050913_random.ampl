@@ -1,0 +1,1 @@
+program jv8 : r : takes z9 : integer; XY0, WVt : integer; U : integer array returns boolean array output - 23 - 9 /= 3 . 7 = 13 . 420 end A : takes Y, R9 : integer array; Q2Yaa : integer returns nothing Q7E : integer array; chillax end main : g3, hbo : boolean; chillax end

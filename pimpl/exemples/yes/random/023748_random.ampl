@@ -1,0 +1,1 @@
+program e : d : takes XK8, zI3 : boolean returns integer Z : boolean; do F9i(- Xf and 1 + 2) end j9 : takes mb, W7E0a : integer array; J9Q, c4 : integer array returns boolean F, X, y, C : integer array; chillax end main : chillax end

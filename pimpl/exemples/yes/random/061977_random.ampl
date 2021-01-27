@@ -1,0 +1,1 @@
+program x : x7 : takes I : integer returns boolean array n : boolean array; when case - AU - 06 > 870 : pop 1 end end d : takes j, f9 : integer returns boolean array chillax end ikv : takes cD : integer array; m, g4v0a : boolean array returns nothing do D(9 = 268, 3, 6) end main : b : boolean array; while c[95400] + sK and(28) and 8 or 7 and 12 : chillax end end

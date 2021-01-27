@@ -1,0 +1,1 @@
+program Z16 : X : takes j70, l4, k, bX5, h, O, Y : boolean array; k1, Qj7aa : boolean array; VC2, ouMa : integer array; c1B, M93, W86aa : integer array; q : integer; T : boolean array returns integer input cd8; pop end main : a : boolean; while - 8 : chillax end end

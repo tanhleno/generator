@@ -1,0 +1,1 @@
+program j : main : when case - not vB_[3] rem(82800) <= - Zc[42] : while 73 : let Fx = 1 end end case m(9) * false or tu7a < false or 0 - 3 : chillax end case - true and 8 : while 6430 : pop end end case - 63 : output ""; pop end case 1 = 47100 : chillax end; while - false and not 5 and 37 < - not 612 and 8 : while 3 = 90 : chillax end end; input u1[not 0 and 0 or 3 - 77] end

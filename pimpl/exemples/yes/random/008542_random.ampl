@@ -1,0 +1,1 @@
+program fc : O : takes D2Aa, s1Q, P7 : boolean; O, T8, f4, RR : integer array; Ig : integer returns nothing q3, U : integer array; F, U3 : boolean array; output 6 - 2; do i(6 = 36, 50); output "t~\"" . ":0aa" . "" end main : chillax end

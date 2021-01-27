@@ -1,0 +1,1 @@
+program c31 : k : takes Z9, i550a, h57a : integer array; nvg, s : integer array returns boolean array YEC, P : boolean; _ : integer array; w, G3U : boolean; pop; while - 2 - 5 : input lq; input X110a end; while 497 = 71 : chillax end end main : XLY, OG, E : integer; chillax end

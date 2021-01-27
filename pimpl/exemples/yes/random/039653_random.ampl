@@ -1,0 +1,1 @@
+program Th : x : takes Oh : boolean array; SRp : boolean; T : boolean array returns integer T, z : boolean; let V[79 + 7720] = array - s6 end m : takes E940, c, l : boolean array returns boolean array pop 72 end Bd : takes t, Yg8aa, C4 : integer array; vP, l, X : boolean returns boolean s5, g2g, wv : boolean; Ux : boolean; U : boolean; M : boolean; chillax end main : chillax end

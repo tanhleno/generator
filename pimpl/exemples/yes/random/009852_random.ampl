@@ -1,0 +1,1 @@
+program gHc : rr5aa : takes I, XBi, F : boolean array; n8, z : integer; PpB, O200a, g50aa : integer returns integer array chillax end K : takes H : integer array returns integer array Jy, Y : integer array; k : boolean; while - 6 - 9 : chillax end end main : U, E7z : integer; D1 : integer; chillax end

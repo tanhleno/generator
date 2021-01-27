@@ -1,0 +1,1 @@
+program ds8aa : X000a : takes g, t : boolean array returns integer array chillax end EV : takes V, n : integer array; g, JE7 : boolean array; Q7 : boolean; xf60a, U4 : integer array returns integer chillax end main : p, g, z, K : integer array; chillax end

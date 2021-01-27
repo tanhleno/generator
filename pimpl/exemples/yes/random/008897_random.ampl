@@ -1,0 +1,1 @@
+program D : s9 : takes D8, H1sa, x : boolean; e, cxj : integer array returns nothing chillax end q : takes wfS, vy40a : integer; P : integer returns boolean array chillax end M8p : takes K9 : boolean array returns boolean array pop 11 end main : y : boolean array; let z51 = - 4 rem true and 1 + false and 1 = - true end

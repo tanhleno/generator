@@ -1,0 +1,1 @@
+program V : main : gn, m, fx, b : boolean array; while - true and false rem not 799 /= false * not 02 : do e3(8 - 85); when case 9 : chillax end case 68 : chillax end case 3 : chillax end otherwise : pop end end; output X . "" . "4" end

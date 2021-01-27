@@ -1,0 +1,1 @@
+program Q61 : F : takes E1 : integer array returns integer array X : boolean; chillax end R : takes d, G, H : boolean returns nothing chillax end k : takes I, j6 : integer returns boolean array output "" . 6 . "" end N : takes i54a : boolean array; Z : integer; D : boolean returns boolean array t : boolean; chillax end main : s : integer array; pop end

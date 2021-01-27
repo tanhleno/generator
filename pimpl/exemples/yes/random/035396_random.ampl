@@ -1,0 +1,1 @@
+program e7r : x6 : takes j : boolean; FFS : boolean; N5, wy5 : boolean; il : integer; v, tn : boolean; V9 : integer array returns integer array do kB60(- false > - 10 - 6, 4, 0) end main : do P(- true, not m rem not 229 < - false and 01) end

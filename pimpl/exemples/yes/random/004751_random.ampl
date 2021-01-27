@@ -1,0 +1,1 @@
+program ggk0 : Y : takes U, F, D, D : boolean array; q, b6, Gy, t2 : boolean array; b : boolean array returns nothing chillax end main : i70a, PV, Ao, M, UUZ : integer; Y8 : boolean array; A270a, m12a : integer array; k : integer; input Ai1; let N5n[true / not 58 and 7 + false and 90] = array - true + true and 4 or 1 - 0 end

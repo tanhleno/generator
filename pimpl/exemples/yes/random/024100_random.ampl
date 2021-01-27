@@ -1,0 +1,1 @@
+program u8 : X2 : takes ctr0a, H : boolean returns nothing do M(- false or 3920 - 869); let qd[- 5] = 51 end main : w : boolean array; input u8; output "~" . "" . 8 = 5; when case - false = - 6 : let h020a = array 1; while 7 : chillax end; do q29aa(8); pop end case 1 /= 484 : chillax end otherwise : while 90 : chillax end; let x6d0a = 3; pop end; let U5 = 116 = 6 end

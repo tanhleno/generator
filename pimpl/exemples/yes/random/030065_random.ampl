@@ -1,0 +1,1 @@
+program Z : F0 : takes _B, K550 : integer array returns integer e : boolean array; H : integer array; a8, ki : boolean array; output - 1 - 5 . "1\t" end main : do F1(false and true and y and 40400) end

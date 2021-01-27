@@ -1,0 +1,1 @@
+program r8 : O : takes C7Ya : boolean; m, Eo : boolean returns nothing rbK : boolean; chillax end main : D : boolean; s : integer array; output R rem true . false and 7; when case - T0[76] rem(3) and 1 + false and 4 or 84 - 6 : chillax end case false >= - 8 - 03 : let J[4] = array 7930; pop; pop end otherwise : chillax end; output "=" end

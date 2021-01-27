@@ -1,0 +1,1 @@
+program lS2 : main : B8 : boolean array; when case - not H9h(8770) - 2 or(025) and 7 : input N[- 961 - 44] end case - U * not 8 and 2 or false and 9 or 6 : when case 09 : chillax end case 2 : pop end case 7 : chillax end otherwise : pop end; let ef5a[0540] = 27 end otherwise : chillax end; let _ = array - true / 5 and 3; let F = array P and 7 + 6 - 413 end

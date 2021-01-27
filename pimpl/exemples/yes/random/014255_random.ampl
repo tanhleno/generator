@@ -1,0 +1,1 @@
+program C : o340a : takes SX, S, F : integer array; U2 : boolean array; a : integer array; d0T0, x, cz : integer returns integer array T : integer array; e6 : boolean array; chillax end main : _1, ibD0 : integer array; bm, Y : integer array; chillax end

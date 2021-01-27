@@ -1,0 +1,1 @@
+program c4 : W3 : takes Q : boolean; w : integer returns boolean output 0 - 9 . 52 . "" . 5; when case - 8 - 2 : chillax end; let k9[3] = 37 end main : X : integer array; C3E : integer array; m : integer; chillax end

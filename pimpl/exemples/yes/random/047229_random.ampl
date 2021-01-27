@@ -1,0 +1,1 @@
+program O : TV : takes P : boolean returns integer j : integer array; n, w1s, e, v : boolean array; V9, I8 : integer array; input LA3a; when case 3 : pop; while 242 : chillax end end case 01600 = 1 : do H(3) end case 57 : pop end otherwise : while 5 : chillax end end; input b21; pop end main : B2 : integer; let j3[- false or false / (3) and 1] = false <= (7590) and 6 end

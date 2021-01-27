@@ -1,0 +1,1 @@
+program r7 : main : when case - true / true and false : while - 2 - 6390 : chillax end end case - (464) >= - false and 49 : let N4y[6] = 8; let h_M0a[9] = array 2; when case 074 : chillax end; while 0 : chillax end; pop end case - not 66 and 9 : chillax end otherwise : chillax end; input j5E0 end

@@ -1,0 +1,1 @@
+program y5 : o : takes r, u : integer returns nothing when case - 01 and 7 + 379 = 7 : chillax end end s : takes H : integer array; f, x, KK : integer; H, U4, EEAaa, W35 : integer returns integer array tM, BD, wok0 : boolean; q, q : boolean; input B end main : L : integer; chillax end

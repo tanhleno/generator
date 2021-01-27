@@ -1,0 +1,1 @@
+program Z : f : takes z, P : boolean returns boolean eK, g46 : boolean array; VH30 : boolean array; output 7 - 585 > 19900 . 7 = 4; let h = 908 = 2640 end main : j6m : boolean; w : integer; input t2; when case - (6) - not 3 < true + 727 - 7 : output 7; output ""; do G(5); pop; pop end; while - 0 and 873 or 4 - 16 : chillax end end

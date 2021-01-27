@@ -1,0 +1,1 @@
+program Z : c : takes u, g3xa : integer array; N : integer array; D, Pmi : boolean array; Av60a, VL, ZK, p78 : boolean; K8 : integer; H, e : boolean returns nothing S : integer array; G, x, U3, nn : boolean; uU4, s370a : boolean array; output "\\H!" . "J" end main : E, C, DI3, R : boolean array; chillax end

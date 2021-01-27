@@ -1,0 +1,1 @@
+program TH : x : takes A : boolean array returns integer array when case - false or 67 - 9 <= 5 - 2 : while 3 : pop end end otherwise : chillax end end e2 : takes y : boolean returns nothing Qn8, s : integer array; V, O : boolean array; Bn : boolean; Q2 : boolean; i : boolean; let jIi[38 - 9] = 0 = 4590 end main : w68 : integer array; chillax end

@@ -1,0 +1,1 @@
+program AVB : IFP : takes w07aa, Q : boolean array; w100a : boolean; yuB0 : integer array; J2Oa : boolean; p, L69, o, e : integer array; c : boolean; ge, j : boolean; Zh : boolean returns nothing pop - 35 - 49200 > 06; let L = array - 929 end q : takes rJ : boolean array; W, HJ6, S : boolean array returns nothing let c9i = array - 0 - 8 end main : chillax end

@@ -1,0 +1,1 @@
+program C2u0 : C : takes UTE, wq0 : integer array; qD : integer returns nothing while - C and 6 >= 02 : pop 1; while 2 : chillax end; when case 749 : chillax end end; when case - 7 - 5 <= 902 : chillax end case 9610 = 8 : chillax end; let fKka = 7 end main : chillax end

@@ -1,0 +1,1 @@
+program Yq : nN : takes n7c0 : integer returns nothing QF2a : integer; m0g0a, c, A240, x : boolean array; nM, e0, r : integer; input rG; when case 63 - 7 : chillax end end main : input LPD0[- true and(9) * true and 05 + t(36)] end

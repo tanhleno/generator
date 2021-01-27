@@ -1,0 +1,1 @@
+program VI2a : g1 : takes J, q, q : integer array; l : integer returns nothing when case false and 7 - 3 - 47000 : chillax end otherwise : chillax end; pop 8 = 46 end N : takes O04, Nr : boolean returns nothing when case - 37 : chillax end case 7 : let r = 6; pop end otherwise : when case 0 : chillax end; pop end; output "d" . 80100 end main : U : integer; chillax end

@@ -1,0 +1,1 @@
+program z : main : x : boolean; FYM : boolean array; when case - not E[9] + true = not j6d : chillax end case - not true - X /= 82 - 60 - 0 : let H = array 6 end otherwise : chillax end; input Y; when case - 8 : chillax end otherwise : output ""; input ULy end end

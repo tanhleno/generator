@@ -1,0 +1,1 @@
+program C : r9r0a : takes r : boolean; k : integer array returns boolean output 15 - 4 end main : a : boolean; pop not false - 2 and 7 or 8 - 6 >= - false and 5; let _T7a = m92; while 7 and 8 - 1 : chillax end; output "" . 4 . 5; input h end

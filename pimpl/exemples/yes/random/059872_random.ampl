@@ -1,0 +1,1 @@
+program n : T : takes A : integer array returns nothing chillax end r : takes L : integer array returns integer array JO : boolean; input J[9 - 3]; let Z41 = 9; while 4 : pop end; pop end main : while - false - false and(5) > - false * not 8 and 98600 - u39 and 75 or 6 - 41 : when case - 3240 - 6 : let ZF = 24600 end; let R[5] = array 020 end end

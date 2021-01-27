@@ -1,0 +1,1 @@
+program B : P : takes y, B, W : boolean; s8U0, N : boolean; O : boolean array returns nothing let nB = array - nzT and 03 end k6X0a : takes y : boolean array; z1G : integer array returns integer array h, M : integer array; mV, qAQ : integer; input h3Sa end main : chillax end

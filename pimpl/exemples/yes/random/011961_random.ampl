@@ -1,0 +1,1 @@
+program f : w : takes e1, Ng00, U32 : boolean returns integer U8S : boolean array; chillax end z : takes t7ta : integer; v, p, G : integer array; s, KAQ : boolean array; f6j, k7, Z, ZYW0a : integer array; p : integer array returns integer array u8Q : integer array; chillax end main : J : integer array; chillax end

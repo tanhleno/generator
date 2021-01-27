@@ -1,0 +1,1 @@
+program P : l : takes Z, f : integer; hu, i : integer returns integer TL6, k, E4, r : boolean; let k = - 4 - 218; pop; pop end main : when case - false and 1 <= - p[72400] : chillax end case - 9 + 03 and 0 or 1 - 3 /= - F : chillax end otherwise : do f(2, 6, 2); when case 77 : pop end case 9 : chillax end; pop; when case 985 : chillax end; pop end end

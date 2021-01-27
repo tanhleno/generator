@@ -1,0 +1,1 @@
+program d22 : v : takes y : boolean array returns nothing c : boolean array; chillax end main : aH1 : boolean; while - false / true rem true and 1 : pop; input S[5]; let f[81] = 258; output "" end end

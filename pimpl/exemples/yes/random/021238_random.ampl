@@ -1,0 +1,1 @@
+program D : D : takes x, n : boolean array returns boolean when case - not 6 and 7 or 92 - 1 <= 9 : chillax end; output 77 . "/\t\"a"; do R(9) end u : takes Mf : integer returns nothing Ik : integer; BM : integer; chillax end ng : takes v : boolean array returns boolean array d, Pu6 : boolean array; while 7 : do hx(1) end; do G(0940, 294) end main : chillax end

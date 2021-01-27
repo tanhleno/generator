@@ -1,0 +1,1 @@
+program n : x : takes H0Za, C : integer array; D, R, DmG, mVD, L : boolean returns nothing J : boolean; g4, O8n, i3Q, A : integer array; G : integer array; when case 9 and 8 - 533 - 015 = - 421 - 38 : chillax end end main : input T; input ggx0; while true and 10 >= 09 : output 8 . ""; output ""; pop end end

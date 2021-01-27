@@ -1,0 +1,1 @@
+program d : main : Cx : integer; BI : integer array; input A[- not(82)]; let tE[- not true and not 3 and 53500] = - true - 97600 - 0; while true and 7710 : when case 423 : pop end case 0 : chillax end; while 62700 : chillax end; input L7 end end

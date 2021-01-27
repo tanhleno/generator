@@ -1,0 +1,1 @@
+program Z090 : u : takes Z5, g : integer array returns integer E, F87a : integer array; H : boolean array; h150, Uy : integer; M5 : boolean; chillax end main : output "\nO" . "q" . "0"; do k(not(93) rem true, true, - 7 - 23200 >= 604); let d = array T72aa and 7 end

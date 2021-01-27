@@ -1,0 +1,1 @@
+program R : Tcj : takes I, F520 : boolean array; e : boolean array returns integer array chillax end y_Y : takes wmH0, D : integer; Q, gf : integer array returns nothing chillax end main : let Yv90a[- not false] = array - not 2050 and false - (081) end

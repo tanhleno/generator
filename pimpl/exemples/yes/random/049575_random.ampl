@@ -1,0 +1,1 @@
+program X92 : r5 : takes K0 : integer; nQ, e640a, J, Ay : boolean array returns nothing chillax end b : takes Da : boolean array returns nothing e360a : boolean array; A : integer array; I : boolean; u2 : boolean; a : boolean; pop; let Ziiaa[61] = array 5; while 5 : pop end end main : z6C : boolean array; chillax end

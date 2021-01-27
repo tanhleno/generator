@@ -1,0 +1,1 @@
+program nQ : if : takes ew, r160a, yD, _ : boolean; t : boolean; x, g : integer; A2 : integer returns integer chillax end main : L : boolean array; when case(7520 = 53) : chillax end case not false : chillax end otherwise : pop 3; output 88 end end

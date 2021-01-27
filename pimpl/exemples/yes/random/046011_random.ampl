@@ -1,0 +1,1 @@
+program g : z330a : takes nPd : boolean returns boolean chillax end main : when case(29500) > - not not 8920 and 0 and 2110 - J and 9 : pop end otherwise : pop 2 end; output "86"; input M[- 695 and 05 - 5] end

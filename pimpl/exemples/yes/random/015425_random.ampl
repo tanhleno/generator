@@ -1,0 +1,1 @@
+program P2a0a : b4 : takes o, c4, I : integer array returns nothing E : boolean; I28a : boolean; Fh : integer; a1, o : boolean; W : boolean; pop; input E[3 - 5] end PR : takes x0 : integer array; Hz9a, H3maa : integer returns integer array let __8[- 2 - 919] = array 3 - 9 end main : B9 : boolean array; chillax end

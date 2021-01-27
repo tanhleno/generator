@@ -1,0 +1,1 @@
+program s7 : F8N0 : takes x4, Gv70a : boolean array; U : boolean array; O : boolean array; sk : integer array; R9 : boolean returns integer while - p and 335 : chillax end; input eW7; output "" . "\n" . ""; input e1[3] end main : uH_0a : boolean; chillax end

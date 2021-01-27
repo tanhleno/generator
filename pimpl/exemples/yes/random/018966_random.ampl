@@ -1,0 +1,1 @@
+program b9Yaa : P : takes Ac90a, Q : boolean array; S, C5F0, i : boolean returns integer chillax end he5 : takes z : integer returns boolean array do gs8(- 1, 94 = 62); input q[8]; pop 9; pop end main : pop - 67 / not 4 and 96 - not 7 and 232 < (4) and 1010 - 26300 - 1 end

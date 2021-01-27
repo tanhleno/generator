@@ -1,0 +1,1 @@
+program b7 : R : takes y, P, WTQaa, uG : integer array returns boolean array when case - 505 and 0 + 37 > - 97 : chillax end end main : b, N, e : integer array; do n7(- not not(045) / f(6) rem 5 and 9 - false); input D_[true rem 4 - true]; do q(- 4 and 7 = - 18 - 3) end

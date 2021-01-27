@@ -1,0 +1,1 @@
+program m : w : takes J : integer; wk : integer array returns nothing D, X2M0a : boolean array; let W3[- 21 and 47] = array - not 5; input S9 end main : G, T : integer; L, rtLaa, b : boolean array; output ".\\"; do E(- (50) or not 4400 and 0) end

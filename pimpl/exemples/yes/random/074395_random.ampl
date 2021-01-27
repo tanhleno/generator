@@ -1,0 +1,1 @@
+program t4 : main : q, A73 : boolean; when case false or Q3(09) or false and 9 /= - n58a(252) * k9 and 8 : pop 3 end case R / false - 568 and 50 - 1380 < (7) - 32 : chillax end case D or 629 : chillax end case - 6 > 8 : do G5(4) end case 23 : chillax end case 49 : pop end case 6 : chillax end end

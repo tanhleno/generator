@@ -1,0 +1,1 @@
+program y3c : R : takes C : integer array; J : integer; z6 : integer; n, _66a, O : boolean array; T, IwW : boolean returns boolean array GZcaa, z, X : integer array; k2E, X990a : boolean array; pG : integer array; chillax end main : while not false and true or true /= false : do j(72 - 32) end; input W4[false] end

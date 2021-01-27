@@ -1,0 +1,1 @@
+program WN : main : when case - PK8[0] / TM10a(793) * 5 < (92200) * not 667 and 43 : chillax end case(15) : chillax end otherwise : let D1 = 6; while 03 : pop end end; when case - false : while 1 = 7 : chillax end; when case 43200 : pop end otherwise : chillax end end case - ht and 3 : chillax end; pop - 92 >= 96; let D3[0] = 6 end

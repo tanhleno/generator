@@ -1,0 +1,1 @@
+program e : NN10 : takes WO2 : boolean array returns integer jc, r : integer array; O24aa, t : integer array; chillax end gV : takes m : boolean; H, o : boolean array; j, b0, X, v : integer returns boolean M, uM30 : integer; E4H : boolean; H86, R : boolean; IM10a : boolean; output 3 . 6 . "d\"\"" end main : X, x, v, F, h : boolean array; C4, _, d : integer array; chillax end

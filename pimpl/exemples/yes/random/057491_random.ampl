@@ -1,0 +1,1 @@
+program GC7 : x : takes uV90 : integer array; LuN : integer returns nothing p, S : boolean; X4, T : integer array; B9a, S5, X : boolean; let Ia[- 6] = array false end b : takes qr, a290 : boolean returns integer let X = array 0 end main : chillax end

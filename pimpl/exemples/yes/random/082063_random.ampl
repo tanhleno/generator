@@ -1,0 +1,1 @@
+program u : main : e7 : boolean array; U : integer array; v, k, X : boolean; S : integer; k, O840, Q : boolean array; when case false rem dS[3190] and false and 53 or false : chillax end otherwise : output ""; pop 04 end end

@@ -1,0 +1,1 @@
+program GE6 : main : while - not u(6) and true or 00 and(8) - false and 12 - 8 - 0 = - 2 : when case - 2 - 2 < 480 : input Q end otherwise : chillax end end; when case - true / true : pop 4 end otherwise : chillax end; pop; while - 6670 - 8 : pop; do gL(4); pop end end

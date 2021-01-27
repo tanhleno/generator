@@ -1,0 +1,1 @@
+program r8 : main : k0 : integer; D6, x0, u99, F1 : boolean array; l : boolean; K, AZ, d : boolean array; a5 : boolean array; f05 : boolean; while - not 102 / false rem true and 24 + (64) - not 5 and 5410 > not b1d * false and 9 + not 6 - 1 : chillax end; output - (44); while 00 and 2 > - 44 - 2530 : output 0 end end

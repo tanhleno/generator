@@ -1,0 +1,1 @@
+program s : F : takes C1 : boolean array returns boolean w56 : boolean array; p9, a : integer array; e : boolean; f, rt : boolean; chillax end main : while - true * false - false rem false or not 6 <= false rem not 8 and 883 : chillax end end

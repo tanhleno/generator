@@ -1,0 +1,1 @@
+program cx : l28 : takes o : boolean array returns nothing do K(- not 2 + 8 - 2 < 2, - 1, 1, 18, 5); when case 1 >= 622 : do py(88) end case 886 : chillax end; input d[51600] end main : MN, A, Id0aa : integer array; output "y6\"a"; let e[- (4) and i] = array 346; let Z = - 26 - 996 = 1010; pop 0 = 4 end

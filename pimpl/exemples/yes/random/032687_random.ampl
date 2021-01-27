@@ -1,0 +1,1 @@
+program L : U : takes R, AI : integer returns nothing L, Y : integer array; WDNa, u : boolean; x, Yl, V : boolean array; v, G : boolean; r : boolean; gc : boolean; input o[- 18400 and 1 - 24 - 932] end main : chillax end

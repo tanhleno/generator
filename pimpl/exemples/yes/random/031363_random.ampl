@@ -1,0 +1,1 @@
+program G : cOs : takes b5, AG : integer returns boolean array r : integer array; output 270 - 0 . "a"; do x(- 6, 623 = 3690, 99, 3); input jq8[459] end S : takes M70a : boolean array; IB, n, V25a : integer returns nothing V : integer array; do F7(5610) end main : U2 : boolean; r8, PN, t : boolean array; chillax end

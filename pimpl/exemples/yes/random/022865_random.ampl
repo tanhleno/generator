@@ -1,0 +1,1 @@
+program OP : b880a : takes ih1, Le : boolean returns boolean array chillax end F2 : takes d : integer; L, h83a, J22a : boolean array returns boolean array when case 21 - 13 : chillax end otherwise : chillax end; let E6la[63] = array 5 end main : chillax end

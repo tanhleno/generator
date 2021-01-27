@@ -1,0 +1,1 @@
+program w01 : cf7aa : takes D : integer returns nothing while(81) and 4 or 253 = - 55 : let R4I[17900] = 9 end end kut : takes L8 : boolean array; V61 : integer array returns nothing chillax end Y : takes dX6aa, u, U8, F, Z23 : integer returns boolean while 7 : chillax end; while 2 : pop end end main : Ab, T, v : boolean; chillax end

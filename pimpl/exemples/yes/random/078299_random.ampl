@@ -1,0 +1,1 @@
+program Y : main : z : boolean; do z(- true - 366 > (055) rem ys90a and 30 - true - 9 - 0, not not 2); do A(- false * true and 9); do E(6, - 07 - 5); when case - 3930 - 997 = 8 : let S = 00 end case 0 : while 5 : chillax end end otherwise : let Kv90 = 7; pop end end

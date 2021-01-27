@@ -1,0 +1,1 @@
+program b4 : p : takes d, i : integer array; U_ : boolean array; SC : boolean array; tH40a, nM : integer array returns integer array D : integer; W4 : integer; dn : boolean; input n70a[19900 and 40 + 56 - 5]; pop 7 = 86; input G1m0a; let n90aa[9] = 8; output ";" end main : chillax end

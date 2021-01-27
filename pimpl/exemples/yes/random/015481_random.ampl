@@ -1,0 +1,1 @@
+program f : L7 : takes CW, U, Y0p : integer array returns nothing WJ : integer; do V4(- not 0 - 6 <= - 2 - 38); do g(- 18 < 976) end main : p21a : boolean; B8 : integer array; sW00, e4n, N : integer array; when case Ss[3] * RRd[9] rem not 9 <= A[3] : do M(- 16600, 1) end end

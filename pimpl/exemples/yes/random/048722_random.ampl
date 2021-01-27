@@ -1,0 +1,1 @@
+program C : t1W0 : takes u : boolean returns nothing C1 : integer array; chillax end main : while - true * not false and F >= false + (994) and 7 - 72100 - 1 : pop; let u = array 15 end; input tb; while - true > - 920 - 152 : while 37 : pop end end; output "" end

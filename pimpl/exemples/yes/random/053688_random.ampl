@@ -1,0 +1,1 @@
+program G : wf5aa : takes C : integer array; P, g, A, K : boolean array; p3 : integer returns integer array pop end main : input e; do f((60) and t and 37 - true /= - a9P and 33, - k and 0140 >= - 3 - 5080, - 79 /= 2); input k[- true and 2 - 1]; input v[- 1 - 0]; input to[5] end

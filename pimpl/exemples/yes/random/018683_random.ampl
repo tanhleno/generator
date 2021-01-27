@@ -1,0 +1,1 @@
+program vIj : GH : takes w, xvuaa : boolean array; zb, H, z8, VF5, C : integer; X, K5, ck : integer; NH, L, bIO, _5i0a, TF1 : boolean returns nothing input XMaa[- false and 0 or 3 - 2]; do fJ(3); while 4 = 960 : pop; pop end end dJ : takes M, j8daa : integer; Q8 : boolean array returns boolean array E : integer array; chillax end main : s, zu5 : integer array; chillax end

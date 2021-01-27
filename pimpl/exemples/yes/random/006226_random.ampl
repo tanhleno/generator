@@ -1,0 +1,1 @@
+program t : x : takes X, r4I, c, w4 : boolean returns nothing R : integer; do H(_m >= - 85, 221, 42300) end FA0 : takes o7W : integer array; IZ9a : integer array; T2iaa, b : integer array returns nothing iW3aa, R : boolean; t : boolean array; chillax end main : input T end

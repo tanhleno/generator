@@ -1,0 +1,1 @@
+program X570a : sxma : takes V, cyfaa : boolean; kS, N6, p, F : boolean array returns nothing chillax end q21 : takes O, g, K, E, u, L : boolean; zU : integer; U : integer array; _09a, Z, l, zU : integer; s : integer returns integer N : integer; QC9, d, Y : boolean; let sGk = array 1 - 2970 end main : chillax end

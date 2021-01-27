@@ -1,0 +1,1 @@
+program F : H190a : takes b1, aK : boolean; a2Ra : boolean returns boolean while Z + 5 - 4 < 4 : pop end end t0 : takes w, MMV0 : integer; e5Xaa : integer; T : boolean returns integer E6 : integer; do e1(- 7 - 5 /= 8, 346, 9) end main : output - 6 > (5) or 65 end

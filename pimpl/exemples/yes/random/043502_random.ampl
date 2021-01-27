@@ -1,0 +1,1 @@
+program C : U : takes d4 : boolean array returns nothing chillax end e : takes h4, TH9 : boolean returns nothing W, Zkb, D : boolean; chillax end main : s : integer array; output ""; pop - true and 7 end

@@ -1,0 +1,1 @@
+program V5 : main : while 4 / (0) - 29 rem x : when case - 7850 >= 94 : pop; while 84700 : chillax end end otherwise : input _8n; pop end end; while - 61 * _ - R and 298 or 3 - 58 : chillax end; output - 96 = 3 end

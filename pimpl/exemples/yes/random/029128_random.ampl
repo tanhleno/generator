@@ -1,0 +1,1 @@
+program s : lQP : takes OGL, S56 : integer array; b0A : integer returns nothing chillax end SC2 : takes b0, xi, V : boolean returns boolean array input tg9 end F : takes x, r : boolean returns nothing do Y(17 = 93) end main : output true and 66 + 1 and 3 - 34200 <= - 972 or 93800 end

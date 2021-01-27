@@ -1,0 +1,1 @@
+program g4M : S2 : takes t, C400a, B17a, W : boolean array; _4z : integer array; Yo, gl : boolean returns integer array chillax end _ : takes b : integer array; bX, Ml_ : integer returns nothing chillax end main : K6m, zg : boolean array; vK : integer; V : integer array; while - not false - fp(7) = - (1) : chillax end; let e8f0 = - 2070 and 5; output - 301 < 79 . "" end

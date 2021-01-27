@@ -1,0 +1,1 @@
+program x : u : takes Mi6 : integer array; S23, i, v, hym, X83, yP : boolean array; M3F0a, f, N : integer array returns nothing V, V : integer array; U, v, hz30a : boolean array; PD7, u : boolean; chillax end main : chillax end

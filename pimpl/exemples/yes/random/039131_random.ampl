@@ -1,0 +1,1 @@
+program zF : l1 : takes m : boolean array; w, D1 : integer array; mqq0a, U6 : boolean array returns nothing while(49) and 041 >= 3 : pop 595; while 0 : chillax end; let b = 89; pop end end main : chillax end

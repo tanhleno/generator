@@ -1,0 +1,1 @@
+program X1Da : Md : takes O, Vl : integer returns nothing C : boolean array; chillax end WO : takes z, _H80a, Bh, Z, _, FjR : boolean array returns nothing L7, E, a28 : boolean array; when case - 3 - 65 <= 3 : when case 4 : chillax end end otherwise : chillax end; input J; pop; let B = 39100 end main : T : boolean; U7laa, k6, j : boolean array; chillax end

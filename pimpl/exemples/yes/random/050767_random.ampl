@@ -1,0 +1,1 @@
+program z : E5 : takes I : integer; n, n : boolean returns nothing h, T7 : integer; do r(- K6 and 0 > - 21 - 0550, 2) end main : T, E : boolean array; QD, a : boolean; output - not 35 or 3 and 6 >= (5) and 6240 . "" . "\t\"a"; do Wk(- _cp(7) rem(2), - 8840 and 66 - 06 < - 36 - 9, - 39 - 4, 2) end

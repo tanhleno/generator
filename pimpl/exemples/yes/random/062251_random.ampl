@@ -1,0 +1,1 @@
+program r : EKcaa : takes GT : integer returns boolean chillax end main : J, R, a3, v : boolean array; P, a : boolean array; z23 : integer array; T_4 : boolean array; z55, e : integer; input ir; do gE0a(d73aa(2650) < - false, false and 5 or 08 - 05400 > - 5) end

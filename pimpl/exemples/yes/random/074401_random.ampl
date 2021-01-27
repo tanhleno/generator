@@ -1,0 +1,1 @@
+program S5Ea : main : R7, J : boolean; when case D and(05) and false - not y1 or(495) : chillax end case - c(8) * Y or 4 and 604 - 65 : pop 29; input w[82]; when case 4 : chillax end end otherwise : output "?[\"a" end; while - not false <= - (3) and 8730 : chillax end end

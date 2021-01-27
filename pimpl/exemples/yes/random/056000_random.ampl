@@ -1,0 +1,1 @@
+program b1x : t : takes xf : integer array; h2 : boolean array returns boolean array let JPE[- true] = - 43900; pop end c : takes s, w : boolean array returns integer array L : integer; m2, R : integer array; let F = array 4; while 9 = 99 : when case 9 : chillax end end end main : IPm, m : boolean; chillax end

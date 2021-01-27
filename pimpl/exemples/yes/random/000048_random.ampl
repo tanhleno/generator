@@ -1,0 +1,1 @@
+program j : c : takes J, h, o, q, n8, l, _, o : boolean; B : boolean returns integer chillax end main : while not nP[3] or false : while 8 - 1 : chillax end; pop; pop; let S = 014 end; let h = - (0) + 02; input csn end

@@ -1,0 +1,1 @@
+program V4 : F6 : takes i, tq : boolean array; d3p, Q : integer; E : integer array; cNKa : boolean returns boolean R3 : integer; l : boolean; chillax end main : s26, f5 : boolean; H7, EA0, n : boolean array; chillax end

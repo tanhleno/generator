@@ -1,0 +1,1 @@
+program r : Il10a : takes a : boolean array; J : integer array returns nothing do O((6) < - 0 - 4) end main : dl, m, j : boolean array; M9 : boolean array; GR : boolean array; M : integer array; mp, l, q : integer; u : boolean; input _0B end

@@ -1,0 +1,1 @@
+program K8H : Mx : takes SJ2aa, f, TZ, Xa, or4 : integer returns integer array while - not 8 - 9 <= 5 - 646 : output 279 . "~"; output "\tl!"; pop; pop end end main : C, PJ4a, K : integer array; chillax end

@@ -1,0 +1,1 @@
+program YHA : H : takes b, N9e : boolean array; m3, C86a, l2D, wi2 : integer array returns nothing i7, T9 : boolean; chillax end K080 : takes Q690, C : boolean; Y : boolean; L : boolean; X, x : integer returns boolean array chillax end main : do Na(- (40800 = 27) + 26); do s(not true, - 7 and 3 + 3 - 664); output - 7 < 3 . 3 = 568 . 2 end

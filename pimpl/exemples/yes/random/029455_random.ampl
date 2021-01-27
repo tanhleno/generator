@@ -1,0 +1,1 @@
+program qL : v : takes ejZ, y : integer array returns boolean chillax end U1 : takes H : boolean; D0x0 : integer returns nothing let j[23] = 30600; do gi(0 = 3850, 4) end main : let B[t rem(16) and false and 1] = - false / EV and 9 + not 0 and 9; let D = array - false rem(9) - true end

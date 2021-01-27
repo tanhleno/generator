@@ -1,0 +1,1 @@
+program d : main : do x(- (999) - false and s and 9 <= - true * 1190 + false and 41); when case - false and(2540) or false : input w0[21]; pop 0 end case 1 and 5 - 114 : while 796 : chillax end; input O; when case 07 : chillax end end case 42100 - 0 <= 71 : chillax end case 26 = 903 : when case 2 : chillax end end case 44 : chillax end end

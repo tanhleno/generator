@@ -1,0 +1,1 @@
+program M : ocE : takes u, W8 : boolean array returns integer let E770a[- (97) and 0] = array - 75200 or 4 - 3; do I(- 6 - 5) end main : while - not not(9) rem 11700 / (7) - (3) / s0 and 42 + (4290) and 43 >= - false / (6370) + 798 and 70 : let G4f[7300] = array - 044; let Lx = 4 end end

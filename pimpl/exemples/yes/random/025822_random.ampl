@@ -1,0 +1,1 @@
+program fY : v : takes j, w : integer; v, ry : integer array; Z : boolean returns nothing pop 216 - 0; output 1 . "'\\"; pop 4 end main : s680a, l, pV : integer; L : boolean; _ : boolean array; o, lk, D6j, f1 : integer; while - 26 rem 8 rem(94) and 47 or true < not false and true : do d(- 42); pop end; output "" end

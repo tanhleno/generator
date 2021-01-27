@@ -1,0 +1,1 @@
+program g22 : OiD : takes f : integer; B : boolean array returns boolean array z, t : boolean array; E : integer array; chillax end hih0a : takes OJ0a, y : integer returns boolean chillax end main : chillax end

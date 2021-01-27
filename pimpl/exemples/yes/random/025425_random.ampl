@@ -1,0 +1,1 @@
+program E : T : takes D, J : integer; X8, l : boolean; K3s, X, d : boolean; HW, m8, X : boolean returns integer do cz3a(false or 46 - 3, - 8 - 7); input Qy; while 346 : pop; pop end end T7r : takes jo : integer array; n6G, D : boolean array returns nothing Gx, Z : boolean array; wS, Vv : boolean; chillax end main : pop; let S = - not 64 + 01 end

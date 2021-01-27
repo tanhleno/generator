@@ -1,0 +1,1 @@
+program F7 : main : h : boolean array; ZM, w : boolean array; K : integer; z5b : integer; B7Fa, w, CO : boolean; L : boolean; Y : boolean; bp : boolean; pop - 81100; output(65) <= 166 . - 0 /= 70 end

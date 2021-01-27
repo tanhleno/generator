@@ -1,0 +1,1 @@
+program bU : S3o : takes s050 : boolean; eA, f : boolean array; P : integer; uw : integer array; A, J, c : boolean returns nothing pop end j9 : takes W, f7, b : integer array; y, eB : integer returns nothing chillax end Fy : takes X5 : integer array returns boolean array p : integer array; output 32; input sM8 end main : chillax end

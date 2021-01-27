@@ -1,0 +1,1 @@
+program odva : S : takes x17 : boolean; S, d, E, hj, qY1 : integer array returns integer pop - 6010 - 7; let h = array 4 - 233; input E[6] end o4J : takes j67a, Ifh0, rR2a : integer array; T6 : boolean; V8 : integer array; SE, k, TA6 : boolean; l, rrd : boolean array returns integer array chillax end main : Y16 : boolean array; W9, E, Q, x : integer array; input DWh0a end

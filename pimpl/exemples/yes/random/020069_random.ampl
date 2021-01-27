@@ -1,0 +1,1 @@
+program tz7 : f : takes Q, v : boolean array; S : boolean array returns nothing m9H0a : boolean array; j : boolean; z5 : integer array; Q, N : boolean; while false + 814 - 5 > 1 - 6 : while 6 : pop end; while 45 : chillax end; while 8 : chillax end; pop end end main : chillax end

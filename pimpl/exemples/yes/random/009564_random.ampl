@@ -1,0 +1,1 @@
+program V : ZN : takes GHbaa, V, Ntk : boolean array; K8, e, RS, ua4 : boolean array; l : boolean array returns nothing chillax end V8 : takes _dH0 : integer returns boolean chillax end Ht20a : takes f5R0 : integer array returns boolean Y : boolean; f, aA : boolean; chillax end main : input b[not(1) and not xeg] end

@@ -1,0 +1,1 @@
+program l : x : takes b : integer returns integer array when case - 40600 - 0 - 79 = - 163 - 45 : input LH; output ""; input EO end case 4 - 8 : input p end case 7 = 14 : chillax end; let F = array 7 end main : U : integer; let P770[- true] = array true and(3) rem(14) and 9 end

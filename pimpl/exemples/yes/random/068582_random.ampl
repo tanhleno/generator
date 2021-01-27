@@ -1,0 +1,1 @@
+program O1 : main : fo, t, _7w, s5, Cq8, J : integer array; n5Wa, U : boolean array; while 8 / 1 : chillax end; while - (489) / true and 3 /= - (7) or 4 : chillax end; do w8e(true and 3 - 0 - 8 /= 198 - 9090, 3 - 2); pop; pop 53; output 601; input YV; pop end

@@ -1,0 +1,1 @@
+program i : D : takes q : integer returns nothing _B, k : boolean array; chillax end main : d : integer; while - Z(4, 5) : chillax end; while - (22) and 92 and 6 : output "" . "G9" . ""; when case 4 : chillax end case 18 : chillax end otherwise : chillax end end end

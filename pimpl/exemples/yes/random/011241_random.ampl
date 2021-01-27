@@ -1,0 +1,1 @@
+program S : CM : takes U, c, l : boolean array returns nothing a, bx : boolean array; N : integer array; pop; output 4 . 212 end main : J : boolean; while(2800) and 08 * 2 + true : chillax end; let o36a[- false rem Dl and 45 + t and 2450 - 7] = array - true * false - (8530) and 7 end

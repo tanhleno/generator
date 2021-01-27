@@ -1,0 +1,1 @@
+program I4 : m : takes f3 : boolean; u : boolean returns nothing chillax end TI : takes d9h : boolean array; I82 : boolean array returns boolean array p : integer; chillax end F8 : takes O, f5A0a : integer array returns integer array do z(8, 277); while 34 : pop end; do G(6) end main : chillax end

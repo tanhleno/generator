@@ -1,0 +1,1 @@
+program x6 : k : takes Z : integer returns nothing I : boolean; M15 : boolean array; output "" end main : s : boolean array; _ : boolean array; when case - false and 7950 and 1 /= - (42) * true and 429 or not 225 and 5670 + 8 - 4 : chillax end case(9) or false = false and 1 or 3600 - 75 : output 70 end case - not 8 and 9 >= 0 - 9560 : pop end end

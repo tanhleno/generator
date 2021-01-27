@@ -1,0 +1,1 @@
+program cTL0 : m14 : takes a, d, Gb8, XsY0a, Q2I, ME : integer; V : boolean; T, X1 : boolean returns integer Wj : boolean array; chillax end G : takes U5M, QK : integer returns nothing chillax end main : let O9[- (817 = 6) - j] = - true - false + 0 - 3 end

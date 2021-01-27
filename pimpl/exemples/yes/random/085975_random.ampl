@@ -1,0 +1,1 @@
+program ws : main : Z0o : integer array; b, k : boolean; Iff0, O7 : integer array; output "" . - (3) and 9 + 6; when case mB[16] rem false and 07400 - false and 6 = - 0 : when case 7 : output "\\"; pop end otherwise : chillax end; pop; do A(6); when case 27100 : chillax end end end

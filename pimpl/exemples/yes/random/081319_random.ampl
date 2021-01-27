@@ -1,0 +1,1 @@
+program S : main : n8 : boolean array; KL, J : boolean array; input z[- (370) / m[046] and 81 and 429]; when case - true and not 6 and 2 or not 5 and 79 + 61 - 3 : chillax end case - (5) and 5 + 97 - 3 <= - 8 : chillax end case 818 - 6 > 079 : input H1eaa; pop; pop end otherwise : pop; output "1{"; do R(3); pop end end

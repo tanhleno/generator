@@ -1,0 +1,1 @@
+program _o : A2 : takes a, l, N1a : integer returns integer f : boolean array; chillax end F0 : takes w6s0a : boolean; s6, P7 : boolean; RY : integer array returns nothing sp : boolean array; input l2[- 9 - 88300]; while 29 : chillax end; do B(934, 5130) end main : chillax end

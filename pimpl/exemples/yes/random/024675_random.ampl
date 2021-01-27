@@ -1,0 +1,1 @@
+program p : R9 : takes SGya, X8B0a : boolean returns nothing input s[- (9) - 3 - 18] end URTa : takes I : integer array returns integer SO, s : boolean array; H2Z, kn : integer; Tx : boolean; chillax end X8 : takes b, X, Z, BWG0a : integer returns nothing f : boolean; U : boolean; j : boolean; Y : boolean; chillax end main : t, M : integer; chillax end

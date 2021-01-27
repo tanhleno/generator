@@ -1,0 +1,1 @@
+program H : main : when case - true + v(745) : when case 6 < 094 : let fHw0a = 147 end otherwise : input z end; output 6; let au[4] = 596; do K(6) end case N * (4) and 96 + true + 6100 - 8 : output 3 end case(0) : when case 2 : chillax end case 6240 : chillax end otherwise : chillax end; let O = 7 end end

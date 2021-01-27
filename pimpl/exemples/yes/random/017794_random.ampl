@@ -1,0 +1,1 @@
+program N : mE7a : takes I3Waa, p5A : boolean; m : boolean array; m5 : boolean array; p, o, k : integer; S : integer; R, Y : integer returns nothing V : boolean; output "" . "" . 8; input nZ[4 - 139] end Ip : takes TF40 : boolean array returns nothing let pg = array 99 - 1; let DT = array 8 end MX7aa : takes Yx, z : boolean array returns nothing chillax end main : input u end

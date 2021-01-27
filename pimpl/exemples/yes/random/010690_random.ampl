@@ -1,0 +1,1 @@
+program IZ5a : L : takes N2B, I, D : boolean array returns boolean u, O : boolean array; lZR : boolean array; output - 14 - 50 > 96900 . 275 = 3; pop 5 = 125; pop end main : input O; input t[not(7) * not 00600 and 2 + false] end

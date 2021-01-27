@@ -1,0 +1,1 @@
+program s7 : d1s0a : takes P11, Q : boolean returns nothing cP : boolean array; h, r, h, L : boolean; KJk : boolean; chillax end H1 : takes r, i : boolean array returns boolean l3, C : boolean; chillax end main : pop 35 / (6) and 67 >= - P - 59 - 17; when case false + E3 - 85 - 4 : chillax end; let V[(9) and 7] = 70 > 1; do C68(6210 - 56900 <= 2); pop end

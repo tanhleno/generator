@@ -1,0 +1,1 @@
+program G : x : takes yT40, u, l, jx6, S, U, T : integer array; a, k : integer array returns nothing while(7) - 3370 = - 84000 : chillax end end P4 : takes d : boolean array; C670 : integer array returns boolean when case - 04 : while 096 : chillax end; when case 4 : chillax end end otherwise : while 6 : chillax end; pop end end main : chillax end

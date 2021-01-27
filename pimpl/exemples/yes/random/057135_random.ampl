@@ -1,0 +1,1 @@
+program W : s : takes xv : integer array; e3 : integer array returns integer array chillax end n : takes U : integer array returns boolean array FT : boolean array; let sy0[4] = 4 = 8; when case 95 = 0470 : output "\tw" end end main : c : boolean array; ez, S : integer array; E390a, jX3, i, k1, R : boolean; jN8, p : integer; chillax end

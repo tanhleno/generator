@@ -1,0 +1,1 @@
+program _2Yaa : main : when case - false / not not 87600 * false - 7 / Q and 7 + not 0 : let P3x = array - 2310; while 00 : chillax end; when case 726 : pop end end case - not true >= false : chillax end end

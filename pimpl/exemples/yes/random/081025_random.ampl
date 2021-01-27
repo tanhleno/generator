@@ -1,0 +1,1 @@
+program r0b0 : main : J : boolean array; e52, m, oBC0 : boolean array; y, Zn, L : boolean array; input F; when case 64 >= - false + 70 - 78 : chillax end case 3 and 86 - 9 : when case 47 : pop end otherwise : chillax end; while 19 : chillax end; while 7 : chillax end end otherwise : let w = 59 end; while h7 : chillax end end

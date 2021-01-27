@@ -1,0 +1,1 @@
+program M : Kp_a : takes F, B, w8, O5 : boolean array returns boolean array f, MX : boolean; L : integer array; Mu : integer; U : boolean; d : boolean; k07aa : boolean; chillax end main : while false = S(0) : when case - 90600 - 162 : input Xi; let XWK = 4 end end; while 505 - false /= (3) and 5 : chillax end end

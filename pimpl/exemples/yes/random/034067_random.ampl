@@ -1,0 +1,1 @@
+program O : Gb : takes vOf : boolean; m, l, a : integer array; q, C : integer array; A : boolean array; G : integer array returns nothing input z7[5 and 443 + 893 - 50400]; input yrd[16 - 25] end main : X : integer array; p : integer; gZF, Z, D : integer array; pop - true rem not 38 + 6290 - 9 - 6520 /= not 506 and 1; output "" end

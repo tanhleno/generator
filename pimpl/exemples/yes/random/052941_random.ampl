@@ -1,0 +1,1 @@
+program d : Q : takes b : integer; W : integer array returns integer do P9(- false or 63 <= 5, 455 - 90600 <= 50, 5, 92) end main : m1 : integer; jM, B7 : integer array; while Na(47, 385) and 554 or 7 : chillax end; while true and A : chillax end end

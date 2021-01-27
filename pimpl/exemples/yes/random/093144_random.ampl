@@ -1,0 +1,1 @@
+program F : main : output "" . ";" . 4 /= 8 . 08; when case - y /= 5880 and 3 - 4 - 9 : pop 8; do O5(399) end case - (06) and 34 - 40 <= 9 : chillax end case - 3740 - 934 : chillax end; while - c : chillax end; output "" end

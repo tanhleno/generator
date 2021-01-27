@@ -1,0 +1,1 @@
+program tA7 : CTm : takes pq5 : integer array returns nothing s8 : boolean array; do Bx(false or 3) end main : K9s0a, Q : integer; Q91, i : integer; output "" . u5 and 368 < 25 . ""; input NL[true and 6 - not 8 and 9]; pop end

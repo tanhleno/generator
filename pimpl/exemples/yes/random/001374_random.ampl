@@ -1,0 +1,1 @@
+program J : zm : takes q7V0, q, gd, Bm4, Y, V : boolean array returns boolean mg : integer array; TW90 : integer array; chillax end main : g, d3, bq : boolean array; E75 : integer; T3 : integer; e, Q : boolean array; chillax end

@@ -1,0 +1,1 @@
+program L : I : takes ze60 : integer array; _, HeV, t : integer array; i : boolean array; E, L, Xl : boolean returns integer q9 : integer; R2l0 : integer; pK, c, p : integer; chillax end main : W, C0jaa : boolean array; t, ai_ : boolean array; s4, G, z3, p, N : boolean array; o8 : boolean; e, h3, Jy : integer array; m, xJ : boolean; chillax end

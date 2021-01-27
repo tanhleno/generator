@@ -1,0 +1,1 @@
+program c : YnZ : takes j4, S, E, G : boolean array returns nothing chillax end _7 : takes BJNa : boolean array; J : integer; J5, E090a : boolean array returns integer V9q : boolean; zj, d : integer; EEz0a : boolean; while - 1290 - 73 /= 663 : when case 627 : chillax end; when case 45700 : chillax end; pop end end main : output s5(17); let TUJa = G3 and 7 or 392 end

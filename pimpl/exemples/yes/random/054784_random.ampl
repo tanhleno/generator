@@ -1,0 +1,1 @@
+program O : Z : takes N : integer array; Z9r, b8 : boolean returns boolean do v90(- F and 4); let k = 36 = 0; while 56000 = 6 : do y(7) end; let T = 88 end main : M, w : integer array; n : boolean; z1, I7paa : boolean; QJ : boolean; output ""; do y(69 rem true and 164 < (0), 3 or 58 - 05200 /= 1 - 9, 43 - 0) end

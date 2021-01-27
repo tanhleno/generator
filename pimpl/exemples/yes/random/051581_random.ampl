@@ -1,0 +1,1 @@
+program Ul : M : takes i4 : integer; XG6a : boolean array; SO, s4, s6, P, e : boolean array; d9 : boolean array returns integer q8 : boolean array; do t1(- 8 or 77 - 6) end main : h, Ay9aa : integer; chillax end

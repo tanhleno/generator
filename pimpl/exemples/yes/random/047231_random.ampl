@@ -1,0 +1,1 @@
+program S35 : I9 : takes bt : boolean returns integer j640a : integer array; x7, G, c, s : integer array; chillax end J : takes Itd, V, X, pQsa : integer array; O, z6 : boolean; TaMaa : boolean returns nothing c : integer; R5 : integer; chillax end main : b93aa : boolean array; while(9 = 2) and true or not(2) and false or true /= - true and 5 - true or 8 : chillax end end

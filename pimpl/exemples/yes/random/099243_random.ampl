@@ -1,0 +1,1 @@
+program w : main : while o(6) + Q : while - 72 - 27900 < 024 : chillax end; pop end; output false . 2 - 7 . 4; when case(6) and 0 : pop 14 end otherwise : let m9 = 0 end; pop; do e(5180 = 3, 1, 6); output ""; input H end

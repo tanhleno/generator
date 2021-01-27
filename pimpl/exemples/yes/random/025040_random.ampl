@@ -1,0 +1,1 @@
+program KO : S410a : takes Po, i : integer; X, M, u7ma, b : boolean array; d : boolean array; q : integer returns nothing n : integer; chillax end main : P, g : boolean array; Qe7a, e : integer array; Yf7 : integer; chillax end

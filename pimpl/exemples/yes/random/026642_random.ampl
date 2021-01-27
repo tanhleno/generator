@@ -1,0 +1,1 @@
+program g : nr : takes Cp5, U : integer; m8 : integer array; V, d : boolean; o9R0a, Lz9a, P5 : integer; N0 : boolean returns integer array chillax end main : r42 : integer; Nk, a0_0a : integer; input N[false]; input y; while - 3 and 76 <= - 7 - 0400 : chillax end; do GjOa(81 - 8, 2, 867) end

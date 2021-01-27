@@ -1,0 +1,1 @@
+program F : R5y : takes s : boolean returns nothing Q, G, L89 : boolean array; gX5a : integer array; while N and 15 - 8 - 80500 : chillax end; input Am80[99]; when case 59 : while 84 : chillax end end case 2 : pop end case 3 : chillax end otherwise : pop end end main : Ke : boolean; chillax end

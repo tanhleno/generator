@@ -1,0 +1,1 @@
+program H : bc0 : takes tS : integer array; a0Pa : boolean returns boolean chillax end main : do m9(- v[9] rem not(82) /= - H); input T8[false or(3)]; when case - y and 95 <= 01 - 6 : chillax end otherwise : chillax end; input M[414]; when case 48 = 54 : chillax end otherwise : chillax end; output 33100; while 7 : chillax end; output "0" end

@@ -1,0 +1,1 @@
+program B : main : W : integer; D7, s8w0a : boolean array; G9, I, W, k, H7 : boolean array; P4, Y, c : boolean array; r960, lv60a, P0 : integer array; while 9 + false / not 9 : chillax end; pop; let oKm[- false and 3 or 7 - 369] = - 727; when case 26 - 28 = 90 : chillax end end

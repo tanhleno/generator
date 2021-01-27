@@ -1,0 +1,1 @@
+program ae30a : q1 : takes oZ9, rf4 : boolean returns integer array R9, G8 : boolean; S40 : integer array; when case - not 9 = 68 - 5 : chillax end otherwise : chillax end; when case 09 : chillax end case 8 = 5 : while 94 : chillax end; pop end case 4690 : chillax end case 8 : chillax end end main : KU, g : boolean array; e : boolean array; cY3a, F, G66 : integer; chillax end

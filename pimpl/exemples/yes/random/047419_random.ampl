@@ -1,0 +1,1 @@
+program t7 : L : takes M : boolean returns nothing chillax end vd : takes b, j37, C : integer array; B, B, m6 : integer; vp2, R : integer array returns boolean array w : boolean; pop 7530 = 38 end UU40a : takes K0kaa, DUi, a : integer array; q : integer returns integer array while 1 = 2 : input A5; pop end; output "" . ""; input dC end main : pop - (9) rem true and 79700 end

@@ -1,0 +1,1 @@
+program D : U : takes l, s5, c, yRba : boolean array; o7h0, r : boolean; u : boolean array; j_i : boolean returns integer array n5C : integer array; chillax end main : when case - true - false >= 033 / false and 4480 : do I3(- 3 - 8) end otherwise : chillax end end

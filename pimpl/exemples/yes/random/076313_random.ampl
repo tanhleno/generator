@@ -1,0 +1,1 @@
+program K : main : i48, u0 : integer; c : boolean array; do c(Z[6], false * (560) and 8 - true - 01 = (0420) + 974 - 749, true >= - 42 - 1, 48 /= 0); pop - (1) and 4 or 5 - 548 /= - 9450; when case C37aa and 0 or 9 - 4 >= 2080 - 41400 : let p4[01] = array 1; let B = 8 end case 60 : chillax end otherwise : when case 6 : chillax end; input i end; while - 2290 >= 5 : chillax end end

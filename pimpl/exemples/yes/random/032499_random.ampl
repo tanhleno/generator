@@ -1,0 +1,1 @@
+program Hn : a1 : takes M7, u : integer returns nothing L, M, JNzaa, nI : boolean array; w, F, e7C0a : boolean; chillax end main : do F(not false or 678 / 3 and 6, true / false - (5290) + 4 /= not 0 and 803 or 0 - 52800, (52) and 9 - 58 - 956) end

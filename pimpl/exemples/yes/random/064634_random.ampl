@@ -1,0 +1,1 @@
+program c : D4s0a : takes c : integer returns nothing s75 : boolean; chillax end H : takes M, g : integer; v : boolean returns nothing q : boolean array; chillax end main : when case - M3(24, 1) <= D[232] / (4) or not 39700 : while - 6 - 0 = 44 : chillax end; while 62 : chillax end end; do T(06 or 73400 and 06); input D[- 9 and 8]; while - 7 : input I0 end end

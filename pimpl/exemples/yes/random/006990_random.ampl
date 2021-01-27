@@ -1,0 +1,1 @@
+program E8 : kL : takes MP, z, S0, aGGa : integer array; A, _ : boolean array; Ty, T8ba : integer returns integer array chillax end Rt : takes X : boolean returns nothing rS9, o7, ks, Jf : integer; while 2 > 63 : chillax end; output 34 . 5 . "" end main : input x; let U[- (1)] = - true and 0; while(73) - 539 : chillax end; while 255 - 3 > 36 : chillax end end

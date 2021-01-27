@@ -1,0 +1,1 @@
+program R : main : let Jp = array false; do p(- (3) or 4 < - (04) and 22 - 1, - not 8 >= 1430, 9 - 6); input H[26900 - 23 - 651]; let n = array 67; output 658; output "2" . "\t"; while 3 : chillax end; input S; pop end

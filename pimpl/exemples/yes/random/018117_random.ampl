@@ -1,0 +1,1 @@
+program Yt : J : takes r, Z : boolean; p4 : integer; W9, B : boolean; nY, h7 : integer array; iy : boolean array; c : boolean array returns integer G700a : integer; do D(- (3) - 71 - 4 < 0, - 007 - 3 > 8, 0 = 1, 40, 612) end vKD : takes R : boolean array; xy : integer returns nothing Va, M, R, m : boolean; output "" . 18 . "o" end main : Ta80a : boolean array; chillax end

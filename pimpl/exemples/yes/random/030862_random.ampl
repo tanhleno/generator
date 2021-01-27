@@ -1,0 +1,1 @@
+program k170 : B4 : takes U83, q : integer array returns nothing YL : integer; BY : boolean array; chillax end main : z : boolean array; T1s, d : integer; input d3; while 9 rem j7 or(1) and 87 or 0 - 13 : when case 61 : do c(4); pop end case 48 : pop end otherwise : chillax end; input g4y[78] end end

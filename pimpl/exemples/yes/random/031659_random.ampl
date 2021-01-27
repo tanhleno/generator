@@ -1,0 +1,1 @@
+program R : L6 : takes g, y1jaa : integer returns boolean pop; when case 85 : output "\n"; input J; pop end case 4 : chillax end; pop end main : f, Ge, N : boolean; A, rp, h : integer; u5, f : integer; p5 : boolean; j75, K7, re9 : integer; let H = array - false rem false and 69000 and 71; let z = (59600) and 4700; let Ik1 = array 55 + 6 - 1; let c[53 - 87] = array - 5 - 860 end

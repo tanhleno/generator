@@ -1,0 +1,1 @@
+program OW : _050a : takes v0, h : integer array; Mq : integer returns nothing y : integer array; _, a, Y8, i520a : integer array; DI, v8 : integer array; n : boolean; k790a : boolean; chillax end main : pop - A[6] rem 3 and 9 - true and 70700 or 3 - 38; do T(50 rem sQyaa and 71 - false > - true - 5 - 4, - 46600 and 9220); pop 6 - 698 /= 3; output 3 = 5 end

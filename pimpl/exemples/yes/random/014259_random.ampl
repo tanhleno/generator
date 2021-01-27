@@ -1,0 +1,1 @@
+program ShP : I6j : takes H, oVtaa, x : integer array; B : boolean array; BE : integer array returns integer array chillax end main : u20, R8X, X, l, YW : boolean array; x2z0, c, kYMa : boolean array; let p[not not true] = array 40 or(63300) * false; input JB7aa; do v6(true >= - 5 - 07); input e; while 9 : chillax end end

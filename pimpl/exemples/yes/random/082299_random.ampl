@@ -1,0 +1,1 @@
+program G : main : G4baa : boolean array; let w = - A[02] + 6 and 53100; when case - r1 >= - true and 468 : chillax end case - not 346 : chillax end otherwise : let D85 = array 03; output "" end; output "O0!"; do y860a(2 - 86 > 80) end

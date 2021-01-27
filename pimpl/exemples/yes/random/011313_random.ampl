@@ -1,0 +1,1 @@
+program D : ed : takes E5_0, b3g, m6 : boolean array returns nothing l : boolean; x9 : integer array; Q8K, kw : boolean; H1 : boolean; nK9aa : boolean; qC : boolean; output "1" end main : chillax end

@@ -1,0 +1,1 @@
+program L : O : takes q : boolean array returns boolean array yj, _ : boolean array; u, SX1aa : integer; when case 3 and 8240 - 7 - 9 : input n end case 11 : chillax end otherwise : chillax end; let S[- 2 - 53] = 7 = 4; output 0 end main : R, z4d : boolean; do t9H(75800 / false / true or not not 36 <= - D7, - true and(8) /= not 6 and 8 + 9) end

@@ -1,0 +1,1 @@
+program v340a : U : takes I740, M, LV40a : integer array returns nothing A : boolean array; while 85000 and 4 <= - 70400 - 114 : let g[5] = 3 end end main : input Xgh[(5 = 467) - _[2]]; input nD5 end

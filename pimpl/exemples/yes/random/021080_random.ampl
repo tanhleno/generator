@@ -1,0 +1,1 @@
+program bR : d : takes oj, i : boolean array returns boolean q, LI, z, o : integer array; do v(- (93200) and 29 <= 8 - 62, 65); output 54 = 83; pop 0 end main : B4, q, B, d9, O73a : boolean; output - (6) / true and 4970 or not 37800 and 24 = - u . "" . 1 /= 20 . ""; pop - not 727 or 8 - 53 end

@@ -1,0 +1,1 @@
+program sU : d : takes d, a, n71, m, s, c, z, E9 : integer array returns nothing chillax end S : takes Y, DkJ0, W8 : boolean array returns nothing chillax end main : H750, vb : integer; x : integer array; n4 : boolean array; hx0, v : boolean; Q : boolean array; let g = array Oh + (6120) rem 4 and 8; do E(- q(41) > (5)) end

@@ -1,0 +1,1 @@
+program T : Hg4 : takes OH, a32 : integer; H : integer array returns boolean array f : integer array; input WIua[- false]; output ""; when case 986 = 4 : chillax end case 75 : pop end end main : while true * false * true > (8) or not 49 + 7 : output "p" . 92 . "" . "\\5"; while 5 : when case 1 : chillax end end end end

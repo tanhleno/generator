@@ -1,0 +1,1 @@
+program ze : r : takes e, NEZa : boolean returns integer G : boolean; chillax end x6w0 : takes E6 : boolean returns integer pop 42 end main : while not true > not true : input I[- 2]; do H(2 = 80, 795) end; output - (8) + 1 - 695 <= - 5 . "o" end

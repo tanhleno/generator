@@ -1,0 +1,1 @@
+program O : main : output - 6 > not 7 and 2 + 0 - 8 . 4 + 105 > 953 . "I" . 0 . 9; when case - (598) or(1) and 4 : when case 70 : chillax end; output 13; output "="; let Q = 5 end case - (0970) and 64 + 50700 < 337 - 8 : chillax end; while false and 7 : pop 71 end end

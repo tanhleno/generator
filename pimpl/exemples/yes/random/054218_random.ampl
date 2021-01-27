@@ -1,0 +1,1 @@
+program y : V : takes d96 : integer array; jua, U, i470 : integer array; V : boolean array; _ : integer array; d1 : integer; A : integer returns nothing K : boolean; output 7 > 0 . "" end yO : takes Vx : integer; OV : integer array returns nothing o, r : boolean array; chillax end main : m : integer array; Lf : boolean array; E9taa, Q : boolean; chillax end

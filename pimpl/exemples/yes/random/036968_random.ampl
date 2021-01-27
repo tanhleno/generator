@@ -1,0 +1,1 @@
+program nW : n5 : takes FJj : boolean; i2 : integer array returns boolean when case 199 and 79 or 0 : let s6[51] = 97 end otherwise : chillax end end main : z7, t, D1 : integer; output - false rem true . - 9 and 46 end

@@ -1,0 +1,1 @@
+program S : main : R, b4, I, t, N3m : integer; j, E8, p, p : boolean array; g, A : boolean array; Y25, x1, jd5aa, Sq : boolean; v2, Q, r : boolean; D : boolean; E : boolean; c : boolean; do q(not true / l1[51] / (1) and 64300 < - (8) and(7380) and 94, 3 - true + 66 <= - 63900 and 55 + 0480 - 6); let Q = array - false; input f; input Zw1 end

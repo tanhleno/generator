@@ -1,0 +1,1 @@
+program y5 : X : takes V, DC2aa, jSJ, bp, vTg : integer; o, Zv, N, H, J : boolean array returns nothing input rR end main : do B(- 25 / (790) and(26) + (722) or not 0 - 1 > 459, - L[7] / not 6, (35700) and 939 + 6, - 1); input X3[0830 * C9 or false and 5 or 4610 - 5] end

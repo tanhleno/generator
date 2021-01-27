@@ -1,0 +1,1 @@
+program u : o8 : takes S6, T : integer array returns integer array chillax end oCMa : takes im : integer; p, L9h : boolean array returns nothing dL : boolean array; chillax end f9 : takes X : boolean; _6, x, y, cpg0 : integer returns boolean Y, Xg80a, x : boolean; t7M, a : boolean; chillax end main : let u = array - false / not 91 + Z(31) / false and 24700 - (17) end

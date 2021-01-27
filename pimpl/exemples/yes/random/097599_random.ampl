@@ -1,0 +1,1 @@
+program Z : main : when case true / true * (0) and 58 - false - (8) and 3 + 4 - 27 > RU and true and 6 + false or 18 : do ex(3 - 122 /= 48, 30200) end case true and not 0 + t and 38 : chillax end case jI30 <= 7 : while 4 : pop end; let H = 94; while 05 : chillax end end end

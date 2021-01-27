@@ -1,0 +1,1 @@
+program a71 : P : takes I5 : integer array returns integer chillax end m : takes p, I : integer; r76a : boolean array; nov : boolean array returns integer vm : integer array; chillax end main : chillax end

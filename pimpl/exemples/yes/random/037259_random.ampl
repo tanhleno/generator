@@ -1,0 +1,1 @@
+program T : A : takes y1a : boolean; R0 : integer returns integer array I1, ynjaa : integer; pop - 3 <= 7940; while - 28900 > 0 : chillax end; output 42; while 7670 : pop end; let dg2a = 5 end main : y : integer array; pop - false; input m; when case not 3 : chillax end otherwise : input jP; when case 2 : chillax end; pop end end

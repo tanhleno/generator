@@ -1,0 +1,1 @@
+program m : main : Y : boolean; h7Z, J2 : integer; I, x7w : integer array; H : boolean array; do O(- not true / true * not 51 and 2 or true + (4) and 87 /= - 8940 / true - false and 32, (3), - m - 1 - 7) end

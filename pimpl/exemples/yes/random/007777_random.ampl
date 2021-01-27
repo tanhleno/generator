@@ -1,0 +1,1 @@
+program j : H9 : takes k, X75a, w, x : integer array returns nothing L : boolean; output "$+\"a"; let aFW[- 79] = 16 = 3 end Jm7aa : takes uM, z : boolean array; TB9aa : integer array returns nothing output 5 = 5 . 64 end y : takes vD : boolean array returns nothing Fx : boolean array; pop 75; let V = 2 end main : chillax end

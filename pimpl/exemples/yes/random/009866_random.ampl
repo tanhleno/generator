@@ -1,0 +1,1 @@
+program c : t2P : takes S8o, rr, zL : boolean array; W, P2 : integer; y, It : integer; a0 : boolean array; O, r : boolean returns boolean array input rkp end main : when case - (4 = 9) / false / false or BS * not 7 or not 8 or 22 - 11 > 3 + (3) and 6 : chillax end end

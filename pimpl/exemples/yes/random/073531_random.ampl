@@ -1,0 +1,1 @@
+program X1a : main : Jg, j : boolean; hL0aa, l : boolean; I : boolean; when case - _[9] + (2) : when case - 36 - 1 /= 6 : when case 2 : chillax end; let o = 07500; pop end case 2 = 47 : while 9 : chillax end; pop end case 2 : pop end otherwise : chillax end; pop 7470 end otherwise : while 45 = 608 : chillax end end; when case true : chillax end end

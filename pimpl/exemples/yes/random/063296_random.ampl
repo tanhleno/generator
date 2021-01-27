@@ -1,0 +1,1 @@
+program W : h190 : takes G : integer returns integer do k6(false) end main : od10a : integer; Fi : integer array; output "\\"; when case TO[27000] and true and 5 - false and 9 or 1 = false and 95900 or 8 : chillax end end

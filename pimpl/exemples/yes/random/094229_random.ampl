@@ -1,0 +1,1 @@
+program w : main : pop - true * a + not 3 and 6 + 5 > - false and 26 or 3980; let H8 = array false + true and 25 + 4; while(6) - 0 - 753 < 83200 : output 9 . "I"; let b550a = 6; when case 4 : chillax end; pop end end

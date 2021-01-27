@@ -1,0 +1,1 @@
+program l1 : PI : takes XM8, h8 : integer array; l : integer array; c : integer array returns integer array AF6 : boolean array; m, h, s, xj_0 : boolean; Tm, O, t : boolean; pop - 6 >= 04 end V : takes U : boolean returns nothing EO3a, qb10a : boolean array; chillax end main : let Cw[- (3 = 65300)] = array true and 7 rem false or not(4); input i; input G[- not 007 or 2 - 05] end

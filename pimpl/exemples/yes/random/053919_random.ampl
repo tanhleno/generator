@@ -1,0 +1,1 @@
+program kJ : a : takes gG5 : integer array; oKF0, Z, g : boolean; A : boolean returns nothing W : integer; Wb : integer array; o, t, B8 : boolean array; n, JT1 : boolean; pop; while 9 : while 5 : chillax end; let sN4 = 597; pop end end main : ay : integer array; O, q, n, Oj, U9, Q2 : integer array; W : integer; pop - (5) rem true + false and 4 - 29 - 86 = H or 6 end

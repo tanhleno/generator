@@ -1,0 +1,1 @@
+program z : V : takes zX7 : boolean array; dA, jZ : boolean array returns integer array chillax end X : takes B : integer array; S : integer array; U : boolean array returns boolean array H : integer array; input mR9[6 - 4]; pop; input Y_3 end main : b580, y600a : boolean; when case - not x(405) : chillax end; let I = - not 734 and 71 end

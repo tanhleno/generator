@@ -1,0 +1,1 @@
+program gQ : X4 : takes X, r, C : integer array; r84, NUX : boolean array; X83 : integer; v, TrW, m, k : integer; K, Pl, qk7, e98aa : integer returns nothing kn4a : integer array; when case false and 9 + 8 < - 96 - 1 : do r(88) end end main : p, R : boolean; E790 : boolean array; chillax end

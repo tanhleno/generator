@@ -1,0 +1,1 @@
+program hT0 : Z : takes _ : boolean; Bv, q, Ob, P0 : integer returns nothing a : integer array; output 4; do t(- 688 - 8); while 7 = 1 : when case 7 : chillax end; pop end; do P(1, 89) end main : input C[true - r[69]] end

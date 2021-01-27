@@ -1,0 +1,1 @@
+program A : main : z1, d, nH0, z : integer; W, F : boolean; pop; when case - not 0 rem 400 + true and 571 + 229 : while 0 = 904 : chillax end; pop end case - 080 - 7 : pop end case 5 <= 18 : pop; while 8 : chillax end; pop end case 9510 = 41 : chillax end case 12 : pop end otherwise : do F7ua(17) end end

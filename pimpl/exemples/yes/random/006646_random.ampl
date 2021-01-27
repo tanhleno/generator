@@ -1,0 +1,1 @@
+program sG : Ot : takes YH, G, k, P3J : integer; a : boolean returns boolean r, w : boolean; X : boolean array; chillax end zr3 : takes W : integer returns nothing input j[- 4]; do b(8) end main : when case not 5 rem M[07] - (33800) > not N6 : chillax end otherwise : chillax end end

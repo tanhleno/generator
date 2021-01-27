@@ -1,0 +1,1 @@
+program s6waa : H : takes F5 : boolean; l2Naa, p4, R, Qa, x, i, rc10 : integer array; i0, g6 : integer array; b1, tF0, QHl0a, uB : integer array returns nothing mL : integer array; chillax end main : y : integer array; output 8 < xt - 6; do f9(- false - true + 29400); pop; do eWw(- 8 <= 984, 46, 2, 4) end

@@ -1,0 +1,1 @@
+program r : nT8 : takes P5 : boolean; o0, cse0, HjV : boolean returns nothing n, u : boolean; N00 : integer array; chillax end main : do j(- (892) + C(5) + false and 76, - (63), v or 0); input TeC; input k[(3) or 3]; pop end

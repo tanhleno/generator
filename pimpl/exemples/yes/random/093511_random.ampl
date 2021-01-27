@@ -1,0 +1,1 @@
+program O : main : output ""; when case - false or L : when case 493 = 2 : chillax end case 56300 : chillax end case 4 : chillax end end case - not 66900 and 4 >= - 8 : input PJ[4]; while 68 : chillax end end case - 73 - 0800 > 27 : while 2 : chillax end end otherwise : pop; when case 611 : chillax end; while 8 : chillax end; pop end; do A(- false, - 2 - 2 < 5560, 32 = 59) end

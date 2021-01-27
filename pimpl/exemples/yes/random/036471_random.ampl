@@ -1,0 +1,1 @@
+program L3 : Y : takes J : boolean; B : integer; C_, r : integer array; o_, B, cd2a : boolean array returns boolean input l[- true and 30] end main : I4s, Lt : integer; R : boolean; P : integer array; chillax end

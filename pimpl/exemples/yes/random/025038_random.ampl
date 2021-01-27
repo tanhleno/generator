@@ -1,0 +1,1 @@
+program L : c : takes Y80, j0 : integer; qy, s2, Vi, i : boolean array; s, L : integer returns nothing output "" end I : takes J, o5, g, U6N, K0ba : integer array returns nothing E1p : integer array; chillax end t : takes m : integer returns boolean chillax end main : li40a, gD0a, u : integer; i : integer array; chillax end

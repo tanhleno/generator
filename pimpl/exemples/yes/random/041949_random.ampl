@@ -1,0 +1,1 @@
+program y : m : takes b : boolean array returns boolean chillax end s : takes U : boolean array returns boolean when case - 853 - 3 : chillax end otherwise : do D3(00); pop end end Vy60a : takes e : boolean; I200a : integer array returns boolean V580a : boolean array; chillax end main : chillax end

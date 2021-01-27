@@ -1,0 +1,1 @@
+program Fu1 : main : L2 : integer array; h, h : integer array; h8_, N8, R, qX7 : boolean; S : integer; when case false /= - 0 - 1 + 12 - 860 : when case - 7 - 2 >= 5040 : chillax end case 3 : do an(0); pop end case 26 : pop end case 911 : chillax end end case(3) rem true and 6 + true and 7 or 5 - 44 : while 08 : pop end end otherwise : chillax end end

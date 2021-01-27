@@ -1,0 +1,1 @@
+program v5 : P : takes I5I : integer returns integer array let Y[A and 1 - 6] = 0340 - 6 < 38; when case 59 > 52800 : while 97 : chillax end; do R(7); pop end case 6 : output "" end case 7 : pop end otherwise : output "\\O"; pop end; when case 2 : output "8" end; let n0[38] = 0250; output "" end main : chillax end

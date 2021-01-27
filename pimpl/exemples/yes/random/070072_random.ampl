@@ -1,0 +1,1 @@
+program u11aa : main : u, YN, dd, oRc0 : integer; e2La, X, I7, cJ8, P : boolean array; Q : integer; Y : boolean; m : integer; Y8ca : boolean; X : boolean; Xt : boolean; input T; do i(595, true + 02, 0 >= 40, 4 = 13400) end

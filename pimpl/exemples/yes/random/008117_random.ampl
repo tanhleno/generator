@@ -1,0 +1,1 @@
+program Xo : Gv30a : takes X, L0, m, X : integer returns integer C5, r3 : integer; when case true : when case 61 : chillax end otherwise : chillax end end otherwise : chillax end; do O8(- 35 - 1 > 51, 1); pop; let A4[9] = 78 end main : PDk : boolean array; let F2J = array false / 93 and 8 and 86 + c(82600) / true and 76900 end

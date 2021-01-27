@@ -1,0 +1,1 @@
+program gH0a : main : L : integer; fN : integer array; T : integer array; YZ : boolean; input GY[- not true rem not O4 / 4 and 4 or(88) - false or 3]; input O; while not 7 < - 38 : when case 44 : chillax end end; do B(96); input N4 end

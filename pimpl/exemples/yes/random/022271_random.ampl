@@ -1,0 +1,1 @@
+program WJ : g990 : takes H, _V20a : boolean array returns nothing _, zm0a : boolean array; q, l, fO3, kw2aa : boolean; do G(- not 86, - 6 > 09) end g : takes g : boolean; E34aa : boolean returns integer array output 96 . "\t!" end main : M0 : boolean array; chillax end

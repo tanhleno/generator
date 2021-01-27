@@ -1,0 +1,1 @@
+program U : X : takes EqZ, Y : integer returns integer array output - 6 end dB9 : takes FS8, z470a : boolean array returns nothing E : integer; E : boolean; qB4 : boolean; N : boolean; chillax end main : c : boolean; gb : boolean; let D = array - (1310) * not(39); pop end

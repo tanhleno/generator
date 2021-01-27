@@ -1,0 +1,1 @@
+program i : m : takes e, x4n, z, P : boolean returns nothing pop 109; do h490a(- 6 - 9, 2 = 79, 5760, 34); let w[4] = 4 end AXlaa : takes Ds7, lw, _31a, O, g, C, xs : integer returns nothing when case - 06 - 0 < 5 : pop; input Kupa end case 1880 = 58 : while 6 : chillax end; pop end case 8 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Tn : GVq0 : takes x, r : boolean returns boolean array nH9a, i : boolean; P, d : boolean array; when case - false and 48 + 68 - 3 > - 59 : output 3; when case 36 : chillax end end otherwise : output "" end; let V8o0[8 - 2] = array 221 end main : b, ci0a : integer array; pop - false end

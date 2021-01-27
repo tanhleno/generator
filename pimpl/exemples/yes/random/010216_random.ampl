@@ -1,0 +1,1 @@
+program SN : H : takes SH, Q, e : boolean array; E5 : boolean returns nothing do C(- true and 0); output ""; let h6 = 3; let f[0] = 26; do S3(869); input MP end main : Gg5 : boolean array; z : integer; when case(1) and false + (0) : chillax end; do IL7(ZM(7) and(7) + Uuc and 07); pop; do X(0 > 9); output "&" . ""; input u4[6] end

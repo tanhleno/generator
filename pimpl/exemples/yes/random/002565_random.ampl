@@ -1,0 +1,1 @@
+program M : p : takes Y05aa, x9s, GZ90, f, l3Iaa : boolean array; T3 : boolean returns integer let o = array - true and 85800 + 13 - 0; input s1[- 145]; pop 73 end main : while(5570) * false / (8) and 4 or k[0] : input _[- 9]; while 2 : when case 6 : chillax end; pop end; while 8 : chillax end; input c end end

@@ -1,0 +1,1 @@
+program g : Y4d : takes oxg : integer array; C09, Z, r, M : integer; P : integer array; q31, x, c, Dx : boolean array; g, I6S : integer; P, xN, eK : boolean; BT : boolean; Yg4 : boolean returns integer array Dw : boolean array; fW3 : boolean array; input J76[G and 65] end main : Me : integer array; d : integer array; chillax end

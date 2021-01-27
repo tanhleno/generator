@@ -1,0 +1,1 @@
+program v : main : when case not true >= true and true - (198) and 59 + 60300 - 9 : when case - 7 > 583 : chillax end otherwise : output "" end end case F2[6] > 0 : chillax end case - K and 53 or 1560 - 23 <= - 9 : output 38; do f9L(423) end case 4 - 72 >= 4 : pop; output "\n"; pop end otherwise : chillax end; input a; let c[- not 493 + 6] = 8 - 8 > 156 end

@@ -1,0 +1,1 @@
+program _3 : main : pop; do tP(true * true <= not 069 and 68 - 4, - (1270) or 0470 - 42700); output - 8 . ""; when case - 7 - 94 > 416 : chillax end case 7 = 26 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program ZAF : n : takes w, O : boolean array; S, o : boolean array; n0, mC, NGU, i : integer returns integer chillax end main : S : boolean array; when case - d010 / 0 or(8) / true + Kv7 and 3 : input r[4 - 1]; pop 097; do K58(17); input j9W; input uBm end otherwise : chillax end end

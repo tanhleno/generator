@@ -1,0 +1,1 @@
+program Ny : E : takes f3, a : integer; H, Gh40 : boolean array returns nothing dN4a : boolean array; C, M, w1 : boolean; input X; pop; do c(5, 5) end K : takes R : integer array; e65, e : integer returns integer array kj, M240a, Te : boolean; L, U : boolean; chillax end main : Y, c : boolean array; chillax end

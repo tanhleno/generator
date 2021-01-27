@@ -1,0 +1,1 @@
+program s : main : D : boolean; g, x : boolean array; v3, Z1, GBv, u98, m : boolean array; y, Z, hO, J37aa : boolean; X, I, A7 : boolean array; while j5(6870) > 7 / false or not 35 and 6510 : when case 67000 - 4 : chillax end otherwise : chillax end end end

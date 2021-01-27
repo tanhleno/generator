@@ -1,0 +1,1 @@
+program w : IA : takes Nc80 : boolean array returns integer y : boolean array; M_ : integer; O, O, nt7 : integer array; OP, y9p : boolean; Y : boolean; chillax end main : when case - 12 / true : let K[- 74 - 30] = array - 6860 - 03; pop; input y[7860]; output "\\\n0"; let x = 6; pop end end

@@ -1,0 +1,1 @@
+program Po60a : n : takes C5 : boolean array returns integer chillax end main : J32, O, K, Ru6 : integer array; o : integer array; k9 : boolean; l, w83aa, o, Rp : boolean array; do P(A6(71, 9510) and 6 + (4) / De < true) end

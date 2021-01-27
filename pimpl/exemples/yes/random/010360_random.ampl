@@ -1,0 +1,1 @@
+program L : c : takes PK, aK90, H : boolean array; x : integer array returns boolean array chillax end main : d, r : integer; K : boolean array; k1O : integer array; input nh5; do gH(- 0 / not 758 and 0 <= 7 or 2, - not 7070 < 3 - 21, - 6490 - 5, 51 = 7) end

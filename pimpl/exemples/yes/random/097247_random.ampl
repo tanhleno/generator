@@ -1,0 +1,1 @@
+program g : main : when case not 7 >= - 73 and false and 0 + false or 5 : output 3 . 2; while 4560 = 0 : chillax end; pop; pop end; while(4) / not 0 + (19) + 72 : pop 5; do FZ(23, 8); pop; let U5da = 31; pop end end

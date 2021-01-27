@@ -1,0 +1,1 @@
+program J : j : takes lqu0a, h98, Q : integer array returns nothing when case false + 72 - 306 /= - 94500 : pop; pop; pop; pop end case - 3420 < 6 : while 0 : chillax end; output "" end case 24 : chillax end case 6 : pop end otherwise : chillax end end iIA0a : takes P, _, T5 : integer returns nothing output 037 . 781; let Z = array 34 end main : chillax end

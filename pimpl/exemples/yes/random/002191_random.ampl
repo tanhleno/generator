@@ -1,0 +1,1 @@
+program u660a : A : takes Z7E, G, v, _940a, a : boolean; h2, K : boolean returns boolean output 90; while - 6 = 9 : chillax end end main : pop; when case(74) rem 4 and 0 or true - 91900 - 64 : output "" end case - U >= - 339 - 99 : chillax end case 8 : while 64 : chillax end end otherwise : while 14 : pop end end end

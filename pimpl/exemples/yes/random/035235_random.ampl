@@ -1,0 +1,1 @@
+program PC : d2 : takes yP1 : boolean; ho, R : integer returns nothing chillax end i0 : takes C, f : integer; Y : boolean array; c : boolean returns boolean array i6 : boolean array; let p = array - 395; pop end main : chillax end

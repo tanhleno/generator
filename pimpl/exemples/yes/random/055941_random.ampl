@@ -1,0 +1,1 @@
+program R3 : n : takes J : integer array; K : boolean array; n : integer array returns boolean array chillax end main : ro, u, vly, b : integer; I, sl : boolean; KV9a, ewLa, Y, h : integer; j4s, E5, pyxa : integer array; chillax end

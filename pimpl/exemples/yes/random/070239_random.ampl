@@ -1,0 +1,1 @@
+program Y : main : c5y, x1, H, xW : integer; e : integer; when case not Z : chillax end case F8[6] : chillax end case - false : input C2[64]; let R = 0 end otherwise : do A5ea(5 = 92) end; output "T"; pop end

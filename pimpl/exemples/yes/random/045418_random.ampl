@@ -1,0 +1,1 @@
+program M : Q : takes Q : boolean returns boolean array chillax end W : takes h : boolean array returns nothing g2laa : integer; a, RqQ0a : boolean array; Nb : boolean; A : boolean; E : boolean; let v[2] = 7680 end main : pop; do BH1(- false) end

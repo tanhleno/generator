@@ -1,0 +1,1 @@
+program n2ia : e : takes T, P : integer array returns nothing z, v : integer; chillax end M9d0 : takes b : integer; _2m, S, u8X0, i480 : boolean returns integer let wQ = array 30 - 37; while 24600 : chillax end end main : pop end

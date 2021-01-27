@@ -1,0 +1,1 @@
+program Mp : P6ea : takes A : boolean array; F : integer returns nothing output "" . "" . 6 end main : F, x, C, oQ, i, q, u : integer; P_ : integer; k_K : boolean; q15 : integer; N : integer; r : boolean; chillax end

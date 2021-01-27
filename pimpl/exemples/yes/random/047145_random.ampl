@@ -1,0 +1,1 @@
+program O : x : takes C : boolean returns integer U : boolean; A : boolean; pop - 2 - 3230 >= 716; while 4 /= 491 : do g(0) end end main : when case - not 2520 / 4 > 52 * false and 6 : chillax end end

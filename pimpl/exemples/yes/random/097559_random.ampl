@@ -1,0 +1,1 @@
+program a : main : when case true + true / false and 4 : do w(- 3 - 2 > 4); while 9 : output "" end end case not m - 76 and 88 /= - 76 - 94 : input T[95] end case - (48) and 6 > 66 : chillax end case - 84 <= 618 : chillax end otherwise : pop 1; input T; pop; when case 4 : chillax end; pop end end

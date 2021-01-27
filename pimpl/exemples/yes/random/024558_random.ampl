@@ -1,0 +1,1 @@
+program c7 : W : takes GTN, N : boolean returns nothing x4 : integer; lPX, L50, C, M : integer array; pop - 1 end f : takes FV60a, m6Gaa, Kr : boolean; zcS : integer returns integer chillax end main : chillax end

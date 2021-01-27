@@ -1,0 +1,1 @@
+program D : c : takes D88, R, N0, cV8, c3, Kn : integer; O_30 : integer array; kn : boolean returns nothing chillax end main : while true rem true and not 2 and 00 /= (123) : chillax end; do X(- true + 456 <= 7 and 7990 or 3890 - 22) end

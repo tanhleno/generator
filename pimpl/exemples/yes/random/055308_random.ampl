@@ -1,0 +1,1 @@
+program S : AJ80a : takes G0 : integer array; e79a, q : integer returns boolean array p : integer; Wd : boolean array; To, rq, e : boolean array; F : boolean; chillax end main : when case - true rem not false <= not false : chillax end case false + true : chillax end end

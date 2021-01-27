@@ -1,0 +1,1 @@
+program P : main : do T(9 + k[424] or false, not false <= true, false and 217); output true and 36 or 278 - 0; while p8Z and 566 > - 80400 : do GWDa(038, 9) end; output 3300 . "i"; while 617 : let Um1aa = 7 end; input x end

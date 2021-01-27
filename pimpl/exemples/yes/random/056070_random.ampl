@@ -1,0 +1,1 @@
+program y : M : takes tK60 : integer array; j950 : boolean array returns integer chillax end p : takes O, XV : integer returns boolean VBq, Ex7 : boolean; O, v2 : boolean array; r32, S1 : boolean; M : boolean; chillax end O08 : takes c, W, f : boolean array returns nothing chillax end D : takes q : boolean returns nothing while 71 : chillax end end main : chillax end

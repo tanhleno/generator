@@ -1,0 +1,1 @@
+program S : d : takes Fnva : boolean returns boolean array E4 : integer; ouG : boolean; vO80a : integer; do w5(- rgBa and 5 >= 44800) end main : Z14, I : integer; D, LIm : boolean; IO0 : integer; chillax end

@@ -1,0 +1,1 @@
+program na6a : Jrs : takes J : boolean array; D2s : boolean array; N3 : integer array returns boolean chillax end main : when case - not not true rem true / false <= - true or X4G and 9 : chillax end case not O > - i1 and 795 : chillax end end

@@ -1,0 +1,1 @@
+program O4 : vT : takes l, FA30 : integer array; u, o4 : boolean array; w, H_20a : integer; W, H5 : integer; c4, R, i, F : integer array returns integer array do j(false and 74 or 9 - 86, 797 = 0) end main : let N1P[(22500 = 8) / true rem true and 94] = e(2) / U - (2) and 6 > e or 5 end

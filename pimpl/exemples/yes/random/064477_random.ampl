@@ -1,0 +1,1 @@
+program Bk5 : q : takes f : integer returns nothing o, Rc : boolean array; P : boolean; chillax end main : I, gR : boolean; U : boolean; p5faa : boolean; pop; let l = 6 - 6; pop 36; output 31 = 96600; let n = 9 end

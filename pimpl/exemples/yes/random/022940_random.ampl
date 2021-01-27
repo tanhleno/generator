@@ -1,0 +1,1 @@
+program gD : I : takes I2, K : boolean returns boolean array Rr, k840, w_50 : integer; J, q : boolean; I, rc, h2 : boolean array; Dp, eM : boolean; when case false : chillax end case - 7 : chillax end case 2 = 01900 : chillax end case 0 : pop end; input tc end main : a : integer array; chillax end

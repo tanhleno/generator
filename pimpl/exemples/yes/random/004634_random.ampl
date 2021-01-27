@@ -1,0 +1,1 @@
+program u : QD : takes g8x, P5, Q2m0a, k : boolean; q2da : integer array; T, oE60 : boolean returns nothing output "" . 0 = 03 . "(" . 039 . "1f\""; while - 7 : when case 440 : chillax end; output "\\" end; input Cj[93] end main : output - not true + (1) and 3 or 1 . "1" . "3" . "2"; input W1; let ul = 525 = 1 end

@@ -1,0 +1,1 @@
+program xl6 : Mvx0a : takes J2, z : boolean array; v, H0, GT : integer returns nothing b, r7 : boolean array; output "0"; do p4(72700 > 5) end M : takes g : integer array returns nothing AHa0a : boolean array; yg : boolean; y : boolean; t380 : boolean; D : boolean; pop 6 = 2510; input x[49] end main : chillax end

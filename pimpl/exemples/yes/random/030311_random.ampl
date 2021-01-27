@@ -1,0 +1,1 @@
+program X4 : YL : takes RYvaa, sN9 : integer array returns nothing chillax end main : do tuTa(- X6 / not(081) / false); while - not false / not 3 + true and 90 = - not 97 and 1 : do Sf(3 = 51) end; pop; input GV[- 6 - 48] end

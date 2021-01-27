@@ -1,0 +1,1 @@
+program x : rB : takes s : boolean returns nothing let rM5 = array - 8 - 757 - 6 end S : takes Q7, tR : boolean array returns integer chillax end main : pop; output 5 . - 97; pop; output 2 . 6 . 03200 . "11!a"; input RO3a; pop 7 end

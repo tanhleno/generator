@@ -1,0 +1,1 @@
+program wGm : r0 : takes s8iaa, I8, J04, _6S, WIR0a : integer returns integer chillax end UGn : takes QqQa : boolean; M6 : integer; x : boolean array returns boolean let D[363 - 0] = array 364 - 03; when case 92 : chillax end otherwise : pop end end main : pop false / V6 or false - 17 <= (605) or 51 - 204 end

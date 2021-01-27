@@ -1,0 +1,1 @@
+program o : Ny2 : takes K : boolean array; nI, Uk, J5D0 : integer array; w, M5n0 : boolean returns boolean chillax end main : pop; when case false and false and 694 : chillax end otherwise : chillax end; while(7) : while 4 : chillax end; while 3 : chillax end; while 7 : chillax end; pop end; input B[- 33 - 69200] end

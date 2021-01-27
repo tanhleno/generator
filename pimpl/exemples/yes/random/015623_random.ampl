@@ -1,0 +1,1 @@
+program q : vOq : takes T, Ss, w68 : integer array returns nothing while - 9 > - 5 - 2 : chillax end; do w(3 - 00 >= 37, 3, 106); input K[18]; output 7 . ""; input N; when case 6 : chillax end end JPtaa : takes S, D : boolean; j0, E980, je7a : integer array returns nothing chillax end main : pop; when case - false * (0) and 6 : while 14 : chillax end; input W9X0 end end

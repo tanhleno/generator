@@ -1,0 +1,1 @@
+program Ny8 : JE80 : takes e : boolean; Y, a1, H : boolean; E : boolean returns boolean array R : integer; chillax end j : takes S : integer; RWF : integer returns nothing FZ : integer; cT : boolean array; output ""; pop end main : chillax end

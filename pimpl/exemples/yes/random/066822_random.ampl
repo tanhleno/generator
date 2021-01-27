@@ -1,0 +1,1 @@
+program XIb0 : main : do I5X(- true - W(62) * s2 or B00 and 5 <= NO rem true and 45 + (64400) + 45 - 951, 20000 + f and 86 >= - true + 9 - 1); let D[(62) or not 616 and 9 + 52 - 2] = array false * false; output - 954 - 6 . 3 end

@@ -1,0 +1,1 @@
+program b : Ax : takes E, X : boolean array; I : boolean; ue : integer returns nothing chillax end main : do G(- not not true rem X4 / true, true - true - 12, - (6) and 98500 or 2 - 41300 < - 1980 - 915, - 38500 > 15); input i end

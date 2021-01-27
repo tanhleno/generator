@@ -1,0 +1,1 @@
+program G6 : g4 : takes X4 : boolean; b, Z, v, V : boolean array; Mu, L7e0a : integer returns integer array chillax end Wx4 : takes ts4a : integer array returns boolean array XI : boolean; n, Hg : integer array; when case 1 - 9 <= 40 : chillax end end main : output not(0) and true and 7840 + 30; when case(48) - 4 and 8 : output "+3" . 2 end otherwise : chillax end end

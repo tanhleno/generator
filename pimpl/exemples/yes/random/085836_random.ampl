@@ -1,0 +1,1 @@
+program sq : main : _ : integer array; u, g67a, q : boolean array; when case - not 7 / (0) or(714) * (6) and 2 + 16 and 8 - 01 : chillax end case - false = - m : when case 09 = 48500 : chillax end; do u(88); pop; do _(24700) end otherwise : chillax end end

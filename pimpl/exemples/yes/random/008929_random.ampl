@@ -1,0 +1,1 @@
+program O : H : takes s4, hGc0a, e : boolean; ir, rl2aa : integer returns integer chillax end main : while kiKaa[5] or 6 rem 98 <= - true - Ypt and 32700 - 40 - 3 : while - 46 - 95 : chillax end; while 6180 : chillax end; do u(3); while 91 : chillax end end; while 4 < - S and 2 : when case 51 = 473 : let O36 = 3 end otherwise : chillax end; let l = 324 end end

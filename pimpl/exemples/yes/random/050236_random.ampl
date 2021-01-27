@@ -1,0 +1,1 @@
+program _ : H : takes BD : integer; W, g9f, D : integer returns integer array input S8[not 0 and 1350]; while - 49 >= 90 : chillax end; output "u\n\"" . "}" . "*\\"; while 601 : pop end end main : do Tq(- 6 and 1 rem(894) = true) end

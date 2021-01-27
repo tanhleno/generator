@@ -1,0 +1,1 @@
+program i : main : L : integer array; D : integer array; VHN : integer array; when case - true - (6) - (4650) : while 4 = 685 : do mC(4); output "^" end; pop end case - D9aaa(24) + K : let v2[63] = array 2 end end

@@ -1,0 +1,1 @@
+program k87 : main : output false - false and 6 . ""; when case - i[56] : when case 2 = 8 : chillax end case 370 : pop end otherwise : pop end; when case 071 : pop end case 75 : chillax end otherwise : chillax end end case - (0) and 573 - 6 - 1 : chillax end case - 4 : chillax end case 6100 = 72600 : chillax end otherwise : let x[86800] = 8850; pop end end

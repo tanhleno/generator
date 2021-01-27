@@ -1,0 +1,1 @@
+program J : main : when case false / H + 34 rem true and 5 <= true * q and 29100 or true and 0 : chillax end case not true / false - true and 8 = - true and 1420 - 0 : when case 8 = 6 : chillax end case 7 : chillax end case 47 : chillax end end otherwise : chillax end end

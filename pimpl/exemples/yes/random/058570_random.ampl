@@ -1,0 +1,1 @@
+program j : Q : takes U : integer array returns boolean while true and 1 = - 42 : chillax end; while - 7 /= 23 : let m = 51500 end; input pS[2] end main : U : integer; v73, k, p, l9 : integer; chillax end

@@ -1,0 +1,1 @@
+program e : ilw0 : takes F5 : integer array returns nothing _, NUM : integer array; while - h > - 57 - 5 : pop 097 end end pM : takes Sh, z140a, Cg6, S5Ua : boolean array returns nothing x : integer; R : boolean array; d : boolean; while - 6 - 4 /= 05 : chillax end; input d2 end main : q : boolean array; Ro : boolean; A, s9 : integer array; chillax end

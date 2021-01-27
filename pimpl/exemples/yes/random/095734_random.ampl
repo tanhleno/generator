@@ -1,0 +1,1 @@
+program O : main : when case - (47 = 73) rem(4) rem not 2 and 98 : pop 6; while 32 : chillax end end case - (9) + M - 97 : let Tg[81] = 79 end case(04) and 8730 < 1 : while 2 : pop end end; pop(8) > 46 end

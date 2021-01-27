@@ -1,0 +1,1 @@
+program a9 : W : takes B, rN, DV5a, u, I, A, q : boolean; KF, U, h46 : boolean array; P, P, v : boolean array; T : boolean array; M3 : boolean array; aX, Ao, wH2 : integer array returns nothing input hj1aa[- 9] end main : e : integer array; chillax end

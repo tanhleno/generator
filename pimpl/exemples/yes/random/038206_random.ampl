@@ -1,0 +1,1 @@
+program X : K17 : takes H9 : boolean array; m, o, t : integer; wh, iD, HN0, txI : boolean array returns boolean input to30 end main : N83aa, f06, E : integer array; Xd3aa : integer array; Z, F, r950, A : boolean array; output "k"; do Q(false / 8 >= - false, (711) > - 595) end

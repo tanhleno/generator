@@ -1,0 +1,1 @@
+program Gd : main : when case - true and false or true : while 72 - 6 /= 00 : when case 77 : chillax end end; do ot(29, 1, 86); do d(26, 8); pop end case 525 * _ and 9 + false or 59 /= true + 5 : chillax end case - 60 and 41400 - 4 : output 4 end otherwise : input m[8]; input c end; pop(5) > - 78 end

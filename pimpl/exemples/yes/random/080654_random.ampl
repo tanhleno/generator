@@ -1,0 +1,1 @@
+program c : main : BwQ : boolean array; do Q(- WK[50] - not not 06 * false and 85900 or not 03500 and 12, true /= - (31) and 1, - (1) or 9 - 442 = - 6 - 753); input w7S; input A; input Z0Ta[115 - 6] end

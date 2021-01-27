@@ -1,0 +1,1 @@
+program _4 : y : takes j, iQN : integer array returns nothing when case - (437) and 33 + 8 : input U end otherwise : input Y41 end; pop 61800 = 63 end S8r0 : takes c6 : integer returns boolean array peQ, b6 : integer; n : boolean; j, P : boolean; a2 : boolean; output 2 = 85 end main : chillax end

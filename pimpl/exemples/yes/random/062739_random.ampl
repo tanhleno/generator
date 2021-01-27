@@ -1,0 +1,1 @@
+program q : ie7a : takes Mp : integer returns integer array chillax end ID : takes Kii : integer; q : integer; u : boolean returns nothing pop 7 = 7; when case 98 = 9720 : pop; pop end end p85 : takes d : integer returns integer do S27(1 = 54, 0); while 0 : pop end; input rr; let fV = 638; pop end main : m, N, Qq : integer; WE5 : boolean array; chillax end

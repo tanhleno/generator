@@ -1,0 +1,1 @@
+program Nse0a : main : when case true / true * R >= false : chillax end case false > - not 16 and 78 : chillax end case true < 9 : let f35 = array 494; when case 8 : chillax end; while 10800 : chillax end; pop end case - 2 - 933 <= 47 : pop; pop; pop end end

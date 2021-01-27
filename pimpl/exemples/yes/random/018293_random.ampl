@@ -1,0 +1,1 @@
+program RT5 : X : takes vw2, j100a : boolean; r : integer array; z, V : integer returns integer k, D : boolean array; chillax end Nu7 : takes Y0, B5T, L, H, DV9 : boolean; J, G, D : boolean array returns nothing while - 3 - 91 = 1 : do PTF0a(0) end end RGV0 : takes xYw : integer array returns integer array pop; input B[2] end main : l, t9I, E, wI8 : integer; chillax end

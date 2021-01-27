@@ -1,0 +1,1 @@
+program a : b : takes Qa, Ce, C7, r, t : boolean array returns boolean ex, a75 : integer array; chillax end m : takes Q, o : boolean; DLVa : boolean; CN, xr70, e : boolean returns integer array do T(- 847 - 8 = 970); pop 7; while 0 : chillax end end L : takes F, Q : boolean returns boolean R : integer; Q, w : boolean; ME : boolean; chillax end main : chillax end

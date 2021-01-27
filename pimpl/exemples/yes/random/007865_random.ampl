@@ -1,0 +1,1 @@
+program Vb : q : takes o, X3j, e, p : integer array returns nothing output "" . "" . 7 . 2 . "" end z2 : takes S : boolean returns nothing s, lT7 : integer array; chillax end M4 : takes y : boolean; t2Ta : integer; C_ : integer array returns nothing when case 8 = 4 : input j_ end case 5 : pop end case 1 : chillax end otherwise : pop end; pop 28 end main : chillax end

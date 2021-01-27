@@ -1,0 +1,1 @@
+program A : L : takes H : integer array returns boolean chillax end q : takes U, GY, s0, k95a, pk50a, F25 : boolean array; L, f, a4 : integer array returns integer chillax end main : input n[true * 56]; let i[not true or 119 and 9] = - H2; let c = array true and 12 + 4 - 1; output "R" . ""; let d[26] = array 5; when case 4 : pop end case 7 : chillax end end

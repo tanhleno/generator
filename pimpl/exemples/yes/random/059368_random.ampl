@@ -1,0 +1,1 @@
+program N : s : takes p : integer array returns integer b : boolean; chillax end T : takes rA : boolean; w, d7, w, JRW, l : integer returns nothing while - 2 /= 71 : while 3 : chillax end; let J = 6 end; let J = 6; output 339; output ":+"; output ""; pop end main : output - not 7 / true = Gi9a and 77 . true = - 7 . "" . 123 . "7k" end

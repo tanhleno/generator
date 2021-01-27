@@ -1,0 +1,1 @@
+program S : z170a : takes c97aa, J, lPlaa : boolean returns nothing chillax end m : takes W, m6, B : boolean returns nothing chillax end G62aa : takes B : boolean; gpWaa : integer array returns nothing L : boolean; chillax end main : while - (79) or true * true and 25 : chillax end; while - 0 or(1) or 63 <= rANaa : chillax end end

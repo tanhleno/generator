@@ -1,0 +1,1 @@
+program i : F : takes d, oW, h : boolean array returns nothing chillax end main : c, N0h, Xi : integer; when case(95 = 6) * 9 - 802 and 6350 or(4) + 6 >= false or true + 7 - 9 : pop; output 8 end case not p and(8) and 7 + false - 5 - 0 : when case 9 = 35600 : chillax end case 1 : pop end case 7 : chillax end; while 3 : chillax end end case(8650) + 6 /= - 9 : chillax end end

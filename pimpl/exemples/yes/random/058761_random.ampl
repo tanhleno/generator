@@ -1,0 +1,1 @@
+program YN : L5E0a : takes OI9 : integer array returns integer array k, ym, s : integer; W, aX70 : integer array; Vx, eoga, qI : boolean array; chillax end main : SB, TC7 : integer; do nvBa((9) rem(2) or not 083 * false); pop - 2 or 326 > 44 - 835 end

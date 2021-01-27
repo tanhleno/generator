@@ -1,0 +1,1 @@
+program M : q91 : takes D : boolean array returns nothing let i[r66aa or 98200] = 48 - 7; pop; while 362 = 7 : output "nN"; pop end; output "" . "" end main : t, Wx4aa, QH1 : boolean array; chillax end

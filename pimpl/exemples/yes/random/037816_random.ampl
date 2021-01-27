@@ -1,0 +1,1 @@
+program VL : Y8 : takes g : boolean array; G, z, B, i4 : boolean returns nothing _ : boolean array; V, H, R03, c : boolean; u : integer array; input j[true - 87 - 4] end main : output 821 * of and 1 > - not 3; while false > - false and 4 + 87 - 3 : do yV3(0) end end

@@ -1,0 +1,1 @@
+program yS : H : takes JBW, jE : integer array; F, Q : boolean array returns nothing e, G, t, G3q0, O : integer array; B, a : boolean; m, j0J, tu : boolean array; O : boolean; output 89 - 51600 /= 0 end main : chillax end

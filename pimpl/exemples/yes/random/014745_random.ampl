@@ -1,0 +1,1 @@
+program F : Il5a : takes EX1, i, z : integer array returns boolean array qT : integer array; when case not 20 and 3110 + 08 - 801 : while 4 : pop end end end main : t4r0 : integer; r4, SP, JDx, t, a0N : integer; y, _, m : boolean array; t230 : integer; chillax end

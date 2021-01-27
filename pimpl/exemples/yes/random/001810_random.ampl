@@ -1,0 +1,1 @@
+program Q : R : takes OH, kT, eMT, ce1, R, Qp50a : integer array; D0 : boolean array returns nothing chillax end main : when case - 8 - not false rem 01 and 33 : chillax end case - M(643) : chillax end case false : output 8 . "" end otherwise : let w[9] = array 92; let yi = 0 end; when case f rem 63 and 6440 or true : chillax end case 97 : pop end case 2 - 90100 : chillax end end

@@ -1,0 +1,1 @@
+program G : O : takes D : boolean array; Pn3, Jg : boolean; cu, qJS, aJ, P, w6, j : integer array; W, _ : integer array; E, I, cN : boolean; k, U : integer array; _q, Bp : boolean returns nothing eA, E6Z0a : boolean; chillax end main : _B, Oh, b : boolean array; output "" . "\tK0" end

@@ -1,0 +1,1 @@
+program a3B : a : takes Hp00, a : boolean array; r, hm : integer returns boolean when case - false and 22 : chillax end case 2 - 3 <= 9 : chillax end case 2 : chillax end case 14 : chillax end case 8 : chillax end otherwise : let u0Y0a = 93500; while 06 : chillax end; pop end; pop 42; while 7 = 3 : chillax end; do u(53, 24); do KH5(452); let mR = 19 end main : chillax end

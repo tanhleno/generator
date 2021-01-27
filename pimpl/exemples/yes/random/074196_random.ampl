@@ -1,0 +1,1 @@
+program b : main : CI, pA : boolean; let Yk[- false] = array - n1 * false / 67 and 0; while not false * false + A5 and 1 : chillax end; do E(C and 7 <= 5); when case 71 - 59900 >= 3 : input j; while 1 : chillax end end; when case 744 : output ""; pop end case 3300 : pop end case 3710 : chillax end end

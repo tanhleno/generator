@@ -1,0 +1,1 @@
+program H : L : takes W : boolean returns boolean let z5_a[not 7] = - 7 end x : takes S, l5 : integer returns nothing g : integer array; output 3 . "" end G : takes QaF, J530 : boolean; t, x, bU70a : boolean array; QYf, RLZ, r : integer array; i6 : boolean array; i, dS5 : boolean returns nothing PI, FPG0 : boolean; r, k69a : boolean; H : boolean; chillax end main : input eu1a end

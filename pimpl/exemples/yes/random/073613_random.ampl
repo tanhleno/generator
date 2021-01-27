@@ -1,0 +1,1 @@
+program N : main : np, x : boolean; G2A0a, e : integer; do w((3 = 4) rem not m = - not 4 / true, (28) or true + 452 - 6); while - false and(2530) and 4 + true : pop end; let At[- q6 and 64 + 5] = array - false; while - 559 : chillax end; when case 8 : let k = 1 end case 26 : chillax end case 4 : chillax end; input U9[8] end

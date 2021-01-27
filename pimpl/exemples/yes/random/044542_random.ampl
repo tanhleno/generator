@@ -1,0 +1,1 @@
+program t : o5X0 : takes J9 : boolean array returns nothing q : boolean array; chillax end y : takes g : boolean returns nothing Q : integer; while - 3 - 28300 : input VS1 end; pop end main : chillax end

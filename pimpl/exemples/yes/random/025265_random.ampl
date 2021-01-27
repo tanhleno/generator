@@ -1,0 +1,1 @@
+program p79aa : m6 : takes F3, J : integer; ti, a, T2Paa : boolean returns boolean do P(true and 8 - 5 - 0 /= 38, 3, 6, 4340) end K : takes c, FG1, A, cu : integer; QY : boolean; dE : boolean returns nothing input H; pop; when case 08 : pop end case 58 : chillax end end main : I : integer array; chillax end

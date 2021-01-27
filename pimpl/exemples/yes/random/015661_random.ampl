@@ -1,0 +1,1 @@
+program I : t : takes WF, OyG, p : integer returns boolean array chillax end main : do xn(c < - true - (7100) and 87, - not not 85 rem Z and 8100 < not 425 and 96 + 54 - 0, not 9); output not 2 or 3 . "" end

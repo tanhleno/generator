@@ -1,0 +1,1 @@
+program D58 : M : takes A, y11, c, p, A : integer; FJ : boolean returns boolean array b610a, Q9K : integer; while - not 1 and 3 - 2 /= - 75 : chillax end end main : _79 : boolean; w, b : integer; W : boolean array; let H = array not 16; input Q[false]; input z9 end

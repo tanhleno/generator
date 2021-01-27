@@ -1,0 +1,1 @@
+program Z : K : takes R0 : boolean array; V2 : integer array; F74a : boolean; ci : integer; H8, J8z : boolean array returns nothing fY, VUb, c54 : boolean array; OH30a : integer array; x : integer array; let p[- 88600 and 686 or 42] = array - true and 4 - 594 end main : f, T, Q, n, u0, R : integer; b : boolean; pop - true and true end

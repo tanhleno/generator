@@ -1,0 +1,1 @@
+program V : v : takes Gao : integer returns boolean output 5 - 77 . "<" . ""; when case 676 - 53 : chillax end; when case 45 = 3720 : chillax end case 2 : pop end case 80 : chillax end end main : chillax end

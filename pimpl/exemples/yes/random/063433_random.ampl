@@ -1,0 +1,1 @@
+program RC : K : takes x : integer returns integer U : boolean; u, v3ha : integer; chillax end q : takes E3 : boolean; X : integer; p, sC : integer array returns nothing chillax end main : input sF end

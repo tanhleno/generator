@@ -1,0 +1,1 @@
+program L : main : W, _ : integer array; do g8j(- true - not false rem 6 < (8770) / 48 and 5 or true or 89, - 3, - true /= - 389 - 1); input m; when case - true > - 7 - 6 : input L end; let b[6 - 3] = array 09900; pop 3 end

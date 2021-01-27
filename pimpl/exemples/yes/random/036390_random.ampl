@@ -1,0 +1,1 @@
+program t5 : A4 : takes T0Yaa : boolean; O : integer; Y8, s3, l, a : boolean; X : integer array; oRp : boolean returns boolean array O : integer array; chillax end mq9 : takes t, h77aa : integer array returns integer chillax end main : i : integer array; chillax end

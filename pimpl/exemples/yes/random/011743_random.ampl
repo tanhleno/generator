@@ -1,0 +1,1 @@
+program P8A : sy : takes q, x2, rloaa : boolean returns boolean input _o60 end main : pop; while(5930) rem not 1 and 2 >= false : do w(24 = 7); do I(68) end; output "" . "" . ""; let c[- 9770 - 512] = array 705 end

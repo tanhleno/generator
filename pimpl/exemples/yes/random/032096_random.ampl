@@ -1,0 +1,1 @@
+program zpda : y9Z : takes A5o0a, FM : integer returns integer dQ : boolean array; when case 1 /= - 2 : chillax end; output "m"; pop 65; while 3 : pop end end main : K : integer array; M : integer array; w, V4, TTU0, q, G : integer; chillax end

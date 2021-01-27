@@ -1,0 +1,1 @@
+program n : o : takes X, X18, Fv4 : boolean array; a, p, S5, y560, V, bO : boolean; J6q, G, hw40a, Y7, H : boolean array; L1 : boolean returns integer j, q, g4La : integer; OSvaa, I, j1c, r50aa : integer; while 3 and 69 = - 0 : do I6c(37) end end main : when case - (350) / not not 815 - not eS * not 84000 < false : chillax end end

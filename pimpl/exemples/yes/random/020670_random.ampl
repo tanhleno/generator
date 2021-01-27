@@ -1,0 +1,1 @@
+program j0 : q : takes J6, b3 : boolean array; y : integer returns boolean output 8950 end G : takes BF : boolean array returns boolean array when case 811 - 2660 > 8 : chillax end case 854 : do E590a(4) end otherwise : chillax end; while 3 = 794 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program MQ9 : main : k : integer; t4 : boolean; gh5 : integer; Mh, p : integer; pop false; input F09; let a[- 61200 or 4 - 2] = - 2 - 11; do Y(- 8 - 60, 01); let x = 5; when case 6 : pop end; pop end

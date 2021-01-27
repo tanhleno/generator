@@ -1,0 +1,1 @@
+program f : J3 : takes LAfa, lg : integer array; m89a, V9 : integer array returns integer Xd8, W : integer array; chillax end main : k, y9 : integer; let i2[5 rem not(60) - false rem not 2 and 3 or 6 and 6] = array false; when case - false * 94 and 8 /= - false + 89 : chillax end; input b3[- true and 2]; input P5; do _470(6 = 5, 58) end

@@ -1,0 +1,1 @@
+program Io1 : j : takes z, u, N2 : boolean array; CR3 : boolean returns boolean e : integer; chillax end L : takes r : integer array returns nothing do BM(- 791 < 34); let wUXaa = 8 end main : input sYuaa[not(156) * 3 - not(9) * not 6 and 8]; input j[- false and 7]; while - true : input SPa[487]; let bl = 27200; input Vf; pop end; do sB(1 - 05) end

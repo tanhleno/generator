@@ -1,0 +1,1 @@
+program g : i23aa : takes u : integer returns nothing f55aa, q : boolean array; while QG : chillax end end main : V34aa : boolean; c50a, Xa : integer array; while c3za(611, 2) or 0 * true : chillax end; input y[- true or(8) - 1 - 30] end

@@ -1,0 +1,1 @@
+program lhPa : main : do J(- 2 - (7) rem(8) and 8 + false + 6 <= - false and not 4 and 4 or true and 8 - 18900); pop; while 0 and 45 : while 7420 : pop end end; when case - 206 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program e : J840 : takes A6, db00 : boolean array returns integer array C : boolean array; while - not 372 and 8 : let I2q0a[93] = array 3 end; input Y; do r(26300 = 87200, 3) end main : s, j : integer; chillax end

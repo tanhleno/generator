@@ -1,0 +1,1 @@
+program X390a : t : takes a5S : integer returns boolean pop - 6 - 8 end main : o9l, Bj : boolean array; jO5aa : boolean array; while false * false - 98 / 5 + not 8 <= R / true and 6 : chillax end; do pr1(false or 6 or 27 - 991, (20) + 6 - 5820) end

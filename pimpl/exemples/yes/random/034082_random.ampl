@@ -1,0 +1,1 @@
+program QZB0a : E : takes Q : boolean; dA, cV, f21 : integer array; Y : integer; iG, L : boolean array returns nothing z0X0a : integer array; X7 : integer array; o180, taua : boolean array; f5 : boolean; input A[- (745) and 9 - 49500] end main : chillax end

@@ -1,0 +1,1 @@
+program D : f5 : takes Q2, x, h, E : boolean; QS, b, J23 : integer; Zv5, B : integer returns integer chillax end i : takes R, k1, z, i9, a1, mI9 : boolean array returns boolean array output 25500 = 4 . 891; while 5 = 743 : chillax end; pop 6 end main : t, g, K, rA : boolean; chillax end

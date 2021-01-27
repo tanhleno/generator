@@ -1,0 +1,1 @@
+program Er : F3 : takes F : boolean array; D : boolean array returns boolean array pop - 2340 - 4 end S0m0a : takes ElZ : boolean; v2, h, K, f, h, rbNa : integer returns nothing chillax end main : Sg : integer; pop end

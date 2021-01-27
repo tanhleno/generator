@@ -1,0 +1,1 @@
+program S7 : FJ : takes T4, O : boolean array; Z : integer array returns nothing N, QT, K2l : integer; V, Ma : integer; output "" . 05 . 47600 . 34 . "%"; while - 83 : input x end end main : input q9q end

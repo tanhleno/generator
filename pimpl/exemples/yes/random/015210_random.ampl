@@ -1,0 +1,1 @@
+program T : f95 : takes mbj, w, M1gaa : integer array returns nothing chillax end main : do i2R0(E(53, 5) / true >= - true / 77 and 86, - not P22aa and true and 04 = - false and 0 - 2 - 0, - true and 17 - 7 - 6 < - 5, - 6 <= 194); output(302) + 3 - 8 >= 5 - 99 . "\\"; let M[T and 12] = 75200 - 87 end

@@ -1,0 +1,1 @@
+program g : O : takes l : integer array returns nothing B, x, S, C8, ouz : boolean array; chillax end main : pop - (0) rem 8 >= true and 02 - 1890 - 9; pop - false and 6 = - 4 - 0; when case - 95 and 90 - 2 - 5 > 4 - 2 : when case 9 : pop end case 30 : chillax end end case - 7 - 7 : chillax end end

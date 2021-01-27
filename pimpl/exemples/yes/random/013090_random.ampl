@@ -1,0 +1,1 @@
+program X : m6 : takes uD, yn7a, i : integer; ci : boolean; s2, t, c : integer array returns integer array input X; pop 9 = 3 end main : do k(not not true rem(55) / not 2 and 4 /= - (234)); do A(- 5 rem false and 8); while true : chillax end end

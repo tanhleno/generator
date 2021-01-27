@@ -1,0 +1,1 @@
+program f : main : w_b, SuU : integer array; when case false or false : output "" end case 2 = - not 4 and 6 : chillax end case not 2 and 13 < - 5 - 22 : when case 278 : pop end otherwise : chillax end; pop; let n5eaa = 27; pop end otherwise : chillax end end

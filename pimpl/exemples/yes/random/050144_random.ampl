@@ -1,0 +1,1 @@
+program NQw0a : n : takes L : integer; y, kc, l : integer array; u : integer returns nothing chillax end k : takes oQ90a : integer; N : boolean returns boolean pop end main : while - not true rem i : while - 01800 : when case 3 : chillax end; when case 4 : chillax end end end end

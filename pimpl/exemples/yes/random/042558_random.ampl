@@ -1,0 +1,1 @@
+program iI_0 : gA : takes cKRaa : boolean array returns integer array V4X, s, PP80 : boolean; n : integer; let E6[- false or 94] = 46 - 68 <= 40 end main : when case - (7 = 3) : when case 625 < 1 : output "" end otherwise : output ",{"; pop end; pop; do X(23) end case - false and not 8 and 8 : when case 43 : chillax end end case false or 15 - 10 = - 64 : do _43aa(8, 2) end end

@@ -1,0 +1,1 @@
+program s5U : f : takes Ti0, G : boolean; z31, _ : integer returns nothing K : integer array; chillax end main : let f[- r + Y] = array A[07] and true rem(42000) + false / not 7 and 79 + i44; output "\n9a" . "\\C0"; input d end

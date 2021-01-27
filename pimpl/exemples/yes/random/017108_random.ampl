@@ -1,0 +1,1 @@
+program R : ee2 : takes ki_0, Y : boolean; F2, ig, X4 : integer returns integer array Q : integer array; ckD : integer array; v : boolean; i1 : boolean; s : boolean; v2M : boolean; chillax end main : when case - true and not false <= not K4 : chillax end end

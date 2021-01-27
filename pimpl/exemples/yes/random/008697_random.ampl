@@ -1,0 +1,1 @@
+program m : a8C0 : takes H, Y400a, Q : boolean; n, b : boolean; hTpa : boolean array; g : integer returns nothing input h6xa[98900 and 88 - 5]; input f3[- 28]; output ""; while 39 : pop end end main : chillax end

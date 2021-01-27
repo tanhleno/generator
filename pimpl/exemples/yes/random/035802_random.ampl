@@ -1,0 +1,1 @@
+program H : Uyha : takes X : boolean; _0L0 : boolean array; O : integer array returns integer array while false and 9 : while 8 : chillax end end; do dJ(- 73300 <= 65, 21, 5) end main : Sx2 : integer array; M47, cC : boolean array; l15a, x, Rx, F5 : integer; cB : integer; chillax end

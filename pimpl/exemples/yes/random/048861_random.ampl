@@ -1,0 +1,1 @@
+program j : H52 : takes YP : boolean returns nothing input b9[false] end B : takes d, k, Wv4 : integer array; p : boolean array returns nothing S, f : boolean; chillax end main : n : boolean array; I : integer; u, m7Ia, x : boolean; x6O0, O3m0a : integer array; ocWa : integer; chillax end

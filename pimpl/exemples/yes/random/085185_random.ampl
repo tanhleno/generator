@@ -1,0 +1,1 @@
+program X : main : p8 : integer; when case false * false * false and 99 <= 1 + true and 90900 : while 363 <= 8 : output "\t" end; while 8 : let x6 = 3; pop end; do uN(3, 6970) end case not 90 / true or(3) or 01 - 0580 : chillax end end

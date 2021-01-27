@@ -1,0 +1,1 @@
+program u : w : takes V : integer array returns integer array s : integer; do X1(not 1 or 8990 - 590 > - 86 - 4) end main : Y, F, R5, j : boolean array; k, s : boolean array; let M = array not not 0660 and(2) * (8) and 84; output false or 9580 /= - 07800 . 77 - 9 = 2 . 88; while 4 and 92700 = 24 : when case 90 : chillax end otherwise : chillax end; input P270 end; input Fm4 end

@@ -1,0 +1,1 @@
+program G6 : sZ : takes Hg8, i, J, X : integer array returns nothing chillax end O33 : takes F, h, u : boolean; n : integer array; RQ0 : integer returns boolean SA : integer; t, e : integer array; chillax end main : M : integer; do A9S0a(false rem false * 3 and 27 - v + true and 06 - 5 = false * F99, N(1) = - h - 89, false or 1) end

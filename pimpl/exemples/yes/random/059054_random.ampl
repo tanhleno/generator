@@ -1,0 +1,1 @@
+program v6 : Qh : takes mG : integer array returns integer array when case true and 124 or 882 - 1 = - 784 - 36 : do H(4, 3) end case 0 - 47 : while 1 : chillax end; while 7 : chillax end; pop end; output 6 . 8 end main : output true - hnh0 >= - true and 58 . "'r" . "r" . 21 = 3 . 8 . "u"; input y; input e end

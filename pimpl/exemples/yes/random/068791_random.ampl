@@ -1,0 +1,1 @@
+program h : main : m, s, S, Y61aa, N : boolean; pop not mR7; pop - true and 36600 or 7; when case - 4 or 3 > - 4 : output 1; do i(20); input j; pop end case 14 - 57 : let zF = 14; when case 90 : chillax end; pop end end

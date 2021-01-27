@@ -1,0 +1,1 @@
+program vtb : B : takes Va, s83, P, X, f, m : boolean returns boolean h : boolean array; i, s : boolean; chillax end M2 : takes N : boolean; enU : boolean array; m9 : integer array returns nothing chillax end main : Y : integer array; HbD, u, l1, w : integer; chillax end

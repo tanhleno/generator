@@ -1,0 +1,1 @@
+program VjXaa : main : c, m : boolean; b1, bFx : integer array; m : integer array; uu : boolean array; LQ : boolean; x1 : boolean; rE9aa : boolean; pop - 8; output - not 33900 and 2820 < 1; do M(not 4 < - 4 - 02) end

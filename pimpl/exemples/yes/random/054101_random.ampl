@@ -1,0 +1,1 @@
+program C6Raa : C8 : takes E : integer array; fz, V1, c9 : boolean returns nothing j, gyG0 : integer array; k : integer; chillax end I : takes C1V, rZ : integer; c6, O, G, Y74 : boolean returns boolean array chillax end main : pop(7) + 99 = - _ and 05700 or 4; pop not 949 and 29 + 23400 <= - 3 end

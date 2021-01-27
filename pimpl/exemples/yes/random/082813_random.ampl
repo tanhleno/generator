@@ -1,0 +1,1 @@
+program U : main : RfO0 : boolean array; while - (9) or not(74) / (2) : input C[- 57 - 960]; while 9 : chillax end; pop; do J3M(56) end; let f66 = array - not not 6 or true and 0 or 7530; pop; when case - 0 <= 497 : chillax end otherwise : chillax end end

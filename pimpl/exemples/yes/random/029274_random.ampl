@@ -1,0 +1,1 @@
+program f : F : takes vCRaa, l : integer array returns boolean array v, y4B, Q, L6, l : boolean; Tl : boolean; do d99aa(- 87 and 496 = - 15300); do Ro(8, 1 = 7020); do IVy(03800 = 8) end main : output "" end

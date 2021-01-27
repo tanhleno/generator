@@ -1,0 +1,1 @@
+program H : WC : takes R, Y : integer array; OFG, R : boolean; M7 : boolean array; e6 : integer; N, d78aa : integer returns boolean _c00 : integer; W : boolean; when case - false and 768 < 8 - 1 : chillax end case - 6 <= 4 : chillax end end main : s2, fu : integer; chillax end

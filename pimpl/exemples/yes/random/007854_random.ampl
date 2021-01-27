@@ -1,0 +1,1 @@
+program k : MZ7a : takes m0S, o, W, n : integer array returns nothing let t[g and 049] = array not 0 and 31 end main : pop - not false rem not 9 <= Z and 80 + 16 - 659; let YJE[- Qqb[70] rem(1)] = array - (5) * true or false + 918; let d[not 40300 and 4] = 454 > 56 end

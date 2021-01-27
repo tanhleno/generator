@@ -1,0 +1,1 @@
+program H4 : F : takes k1n0, P, w : boolean returns boolean array I62, VQ : boolean array; B, PGX0, Li6 : boolean array; Lui0a, j : boolean; pop 666 - 1 end main : do O9(- false * 8730 - not true * false and 04800 < 7) end

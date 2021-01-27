@@ -1,0 +1,1 @@
+program A31 : e : takes p83 : integer; O1, ivm : integer array returns nothing chillax end main : c : integer; F, Tu : integer; p, v, Lu1, SJ, H : integer; when case - true / not(27) - 5 * 56 and 95 : chillax end case false and 9 : chillax end otherwise : pop 0 end; input fs end

@@ -1,0 +1,1 @@
+program j6P : k : takes T, B : integer; A, n : boolean array; CF, l : integer; Cq7 : boolean array; EsMa : boolean; R : integer; V : boolean; FD : boolean; u9 : boolean returns nothing chillax end main : input m[I6t0a(2, 7) + false and not 87] end

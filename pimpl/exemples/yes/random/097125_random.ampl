@@ -1,0 +1,1 @@
+program q : main : when case not(49) and true > - Q[20] rem false and 5 - 08 and 67 or 78 : input c end case false / U0I and 941 + (0) - 26400 - 1 : output ":" . 1520 . ""; do wt(1, 6); input g; while 380 : chillax end end case - 8 - 4 : chillax end end

@@ -1,0 +1,1 @@
+program t6 : Qe : takes e : integer returns nothing while - true and 79 : do x(1920, 301) end end V : takes H7, RL : integer array returns boolean array chillax end l : takes Q : integer array returns nothing chillax end main : chillax end

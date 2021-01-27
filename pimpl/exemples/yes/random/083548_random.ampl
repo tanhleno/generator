@@ -1,0 +1,1 @@
+program c29 : main : p : integer; FI, n : boolean; __w : integer; let v8o0a[(21) and not 5] = array - false; do Jn(408 or F - 52, - false and 0140 < 58 - 8); let m[N8j + 7 - 3] = array - false and 07 + 2 - 7 end

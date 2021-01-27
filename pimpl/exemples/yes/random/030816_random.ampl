@@ -1,0 +1,1 @@
+program r2 : Q : takes k, F : integer array returns nothing j : boolean array; input e[- not 150 and 8 + 16 - 2210]; let B = array - 01 - 02; while 1 = 3 : while 83 : chillax end end end main : Yv, Y02 : integer array; input g end

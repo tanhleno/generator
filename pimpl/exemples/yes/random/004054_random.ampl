@@ -1,0 +1,1 @@
+program D : x : takes c, Z2, y, D4, q3F0 : integer returns nothing chillax end h4c : takes Sk : boolean array; a, R, X : boolean array; p : boolean array returns nothing chillax end main : GF : integer; t : integer array; let K = array TR[98] / not true - x(690); do PP50a(4 rem(0) and 440 >= - (53600) or 37, not 9) end

@@ -1,0 +1,1 @@
+program Yt : r : takes E, V : integer; V : boolean array; fA : integer returns boolean array x, Yuh : boolean array; uP, m : integer array; input K5[- 61400 and 5 or 1 - 40700]; input L5[- 4] end main : rL1, y5, Sd, t9, d23 : integer array; chillax end

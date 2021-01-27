@@ -1,0 +1,1 @@
+program Pfy : main : U : integer array; do Up(t(6, 157) / 08 >= - 02, true - 6 and 33 < - (26) and 758 - 4 - 0, - 949 = - 1 - 1, 80 - 06600); do G(- false * true and 6 - true and 94 > false and 8 + 12 - 26); let P = - 47 <= 8 end

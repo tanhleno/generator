@@ -1,0 +1,1 @@
+program _ : main : u8 : integer; fS5aa : integer array; oe9aa, p : integer; when case uvH[247] rem(68) or(84000) - 8 - 7 - 2 < 8 or(47) and 872 : while - 4 = 4 : while 22200 : chillax end; output "72"; pop end; pop; do l(3) end; do V5(- (91) >= - 1 or 8, - not 7 and 6 - 45 <= - 5, - 7) end

@@ -1,0 +1,1 @@
+program SHna : Ko : takes ke7 : boolean array; Y, g5 : boolean; s, Et : boolean array returns boolean array l : integer; D15aa, w9 : boolean array; X, m01, W4 : integer array; input h[- (3) and 6]; let ceF = 0 end L6 : takes v : boolean array returns nothing chillax end main : do n(- (06) or not 78) end

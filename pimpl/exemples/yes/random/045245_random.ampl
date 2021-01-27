@@ -1,0 +1,1 @@
+program l3 : j : takes J5 : boolean array returns nothing when case - true - 6 - 2 >= 9 : chillax end case - 8 - 3 = 44400 : chillax end end sC : takes K, o, t2, q, D, f, o : integer returns nothing TB00, R, x2 : boolean array; pop 2 = 3; output 1 . "I" . "" end main : chillax end

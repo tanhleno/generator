@@ -1,0 +1,1 @@
+program KA6 : uf : takes z0 : integer returns integer pop 22; input gqfa; when case 86 : pop; pop end case 8 : pop end case 9 : chillax end; input U8[23]; do cm(2); when case 6 : chillax end end main : i5Ta : boolean; Gd : integer; chillax end

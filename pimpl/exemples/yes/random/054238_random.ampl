@@ -1,0 +1,1 @@
+program D : dq : takes a0 : integer array; Qhw, M, A : integer array; bC2 : integer array returns integer chillax end K6 : takes N, m, V5I0a, ZL : boolean returns integer array h43 : integer; while 6 : chillax end end main : T, mP9a : boolean; chillax end

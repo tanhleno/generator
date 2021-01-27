@@ -1,0 +1,1 @@
+program p : Ew0 : takes H : integer; ct2aa : boolean array returns integer array HR4aa : boolean; chillax end main : let zj20a = true - 0 <= - true and 05 + 19800; output - (4) and 9 . "?1aa" . 87; do qSjaa(- f); let Xs[70 - 51400] = array - 8220 - 3 end

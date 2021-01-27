@@ -1,0 +1,1 @@
+program w : y : takes x : integer returns integer chillax end main : T, d, i, j : integer array; D, D0C : boolean array; e, Z, L, Qd : boolean; when case - not true rem(5) * true and 7 > - false : chillax end case - 4 - not 78 and 740 : chillax end otherwise : pop end; do v((2) / true, not 6); output "" . "4\n!" . ":" . "n" end

@@ -1,0 +1,1 @@
+program c : A : takes Qm1aa, w : integer array returns boolean Nl : integer array; HHB, m, I : boolean array; V : boolean array; chillax end JV30a : takes m, S, q : boolean array returns nothing do nZ(91800 >= 9, 9 = 513, 5500) end main : xWX, a24a : integer array; x, w : boolean array; chillax end

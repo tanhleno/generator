@@ -1,0 +1,1 @@
+program y : main : r870, Q4 : integer; RKr : boolean array; Sf : boolean array; Z : boolean; while(4) / (28) rem sS and 4 <= - false rem 8 : chillax end; input o33[8 and M9ta and 8]; when case true and 4 /= - 8 - 0 : while 5 : chillax end end case 633 - 29 >= 707 : pop end; while - 6 : while 200 : chillax end; input wI end; while 5 : chillax end end

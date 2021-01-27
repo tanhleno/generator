@@ -1,0 +1,1 @@
+program C8 : DR3aa : takes bGP0a : integer returns integer j3, I : integer; when case not 7 : chillax end case - 90400 - 9 /= 50 : chillax end case 6 = 7 : pop; pop end case 59 : chillax end case 93 : chillax end; let G7 = array 2 - 6 end u : takes RRr, Ycs0, x, d2 : integer; Jr2 : boolean array returns nothing chillax end main : chillax end

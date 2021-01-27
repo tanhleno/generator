@@ -1,0 +1,1 @@
+program U : main : X : boolean; let h[(12)] = - AA[9] + false - 0 /= - (779); output - true and 48 < 7 . - 2 . 21900 . "" . 4 . ""; output 0 - 698 <= 061; let R = array - 5; while 0150 = 0 : let x = 2; pop end; input p[64] end

@@ -1,0 +1,1 @@
+program ArG0a : L : takes X : boolean; W : boolean returns nothing when case M and 5360 + 4 >= - 5 : while 1 : pop end end case 647 : chillax end case 5 = 3 : chillax end end main : Y4 : integer array; m, n, b, Q8, P93, l : integer; jZ, Ds6 : integer; T : boolean array; chillax end

@@ -1,0 +1,1 @@
+program E2 : main : i, L, V0, r0S, QV, S : boolean; B : integer; let G[true / n4(402) rem 75400 and 8900] = true; input c25a; when case true : when case 93000 : chillax end otherwise : chillax end; do L760(0) end case - 9 - 59 : chillax end case 5 = 67 : chillax end case 1 : pop end case 7 : chillax end; output 1480; pop; pop; input o2; output "" end

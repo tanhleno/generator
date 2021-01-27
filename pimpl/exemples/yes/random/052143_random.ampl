@@ -1,0 +1,1 @@
+program wE8 : z99 : takes D : integer; e : boolean returns boolean chillax end x : takes NF, u250, Q, Zo : integer returns boolean DV : integer array; s, U7la : integer; chillax end main : v : boolean; w, ta7 : boolean array; chillax end

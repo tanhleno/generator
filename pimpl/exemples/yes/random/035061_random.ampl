@@ -1,0 +1,1 @@
+program V88 : z : takes G : boolean; JP_, up : integer array returns integer array chillax end e : takes S : integer array; hY : integer returns integer while - 59 - 9 : chillax end end c : takes Q : boolean; g, fs1, d : integer returns boolean pop 28 end main : g470 : integer array; x : integer array; C : integer array; chillax end

@@ -1,0 +1,1 @@
+program M8 : main : R, v : boolean array; pW : boolean array; Im40a, w, D, G, y : integer; Jn : boolean array; JQ1 : boolean; pop - Z[1] and(5) and 49 or false and 8; do e(false > - 5 and 6 or 0, - true or 5 - 4) end

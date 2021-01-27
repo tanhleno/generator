@@ -1,0 +1,1 @@
+program p : l : takes v, Be : boolean array; wc : boolean; BZ6 : boolean array returns nothing I, d1, p, Ija, J54a : boolean; j : boolean; f, s : boolean array; v2m, AY : boolean; output 5 <= 8 . 2 = 4 . "" end main : r, RHU0a, L, j, cT1aa, m : integer array; chillax end

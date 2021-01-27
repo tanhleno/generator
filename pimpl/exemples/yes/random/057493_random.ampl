@@ -1,0 +1,1 @@
+program W : Ik : takes oQS : integer array; a330 : integer returns nothing m, l : boolean; ff : integer array; chillax end Nlw : takes i9k : boolean returns nothing let l1 = array 81 end oX2 : takes m : integer array; W84 : integer array; I, BY, u3 : integer array; x : boolean returns nothing pop 98; while 3 : pop end; input M end main : chillax end

@@ -1,0 +1,1 @@
+program e95 : JS : takes PZ : boolean array; z : integer; aH : boolean; Bh80a : integer returns nothing h : boolean array; when case - false and 1 /= 0 - 6 : input H[5030] end; do la(- 46 - 0, 840, 7, 724); pop; do d(234); output "!"; pop; pop end main : chillax end

@@ -1,0 +1,1 @@
+program Ml : K3w : takes a : integer array; A, zw : boolean array; I, i, m : boolean array; i : integer returns nothing m, e06 : boolean; when case - not 2 and 4 >= 1 - 4 : chillax end case 2560 - 2 > 2 : chillax end case 53 : chillax end end main : chillax end

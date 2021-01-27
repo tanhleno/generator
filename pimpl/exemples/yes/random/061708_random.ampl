@@ -1,0 +1,1 @@
+program Uw0 : E : takes OaC : integer returns boolean array chillax end dm : takes r : boolean; Ig9, A, PgF0a : integer; Z, a, J, Aw : boolean returns integer X7 : boolean array; output 6 = 206 . "" end lH3aa : takes Z9, G : integer; aC7, D, X1o0a : boolean array; e46, x : boolean array; z6, d : boolean array returns boolean yE : integer; chillax end main : chillax end

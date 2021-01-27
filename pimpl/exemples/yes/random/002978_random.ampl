@@ -1,0 +1,1 @@
+program B5 : E : takes k, B, K79a, V5, jc : boolean returns integer B5 : integer array; input Q; output "*8" . "1/"; pop 54; pop 3 end main : j : boolean; when case - false and g(2) * false and 15700 : chillax end otherwise : output 09 . 62000; when case 0 : pop end otherwise : chillax end; do fI8aa(665); pop end end

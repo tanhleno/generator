@@ -1,0 +1,1 @@
+program ir : v : takes q : boolean returns boolean array u : boolean; T3, F : boolean; u : boolean; chillax end main : while - true rem 55 + true and not 4 and 9 /= Ux8a[8] / true and 267 : when case 0 > 0 : pop; do lni(320) end otherwise : chillax end end; pop; input I[- not 41] end

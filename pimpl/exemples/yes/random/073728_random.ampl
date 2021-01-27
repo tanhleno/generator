@@ -1,0 +1,1 @@
+program g8 : main : B7V, aWc : boolean; E : boolean; Q, iD, p : boolean; do b(N(885, 02) rem false); while true + 06 /= - not 1810 - 2 : pop 06; output 2 . "" end; when case false or 93 - 4 < - 6 : when case 3400 : chillax end otherwise : chillax end end case - 851 - 7 = 0 : chillax end; pop; output "8&\"" end

@@ -1,0 +1,1 @@
+program Hzq : main : v : boolean array; F : boolean array; do P((5050 = 10) - (6) rem not 0 < - true * not 6); pop true; do S(- (9700) and 92 or 56 /= - 44400, - 784 /= 48, 8); input J0gaa; do UC(7680); output "}" end

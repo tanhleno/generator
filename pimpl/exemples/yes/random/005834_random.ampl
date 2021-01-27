@@ -1,0 +1,1 @@
+program _Lh : L : takes FGx, Z, aG4aa, m : boolean returns boolean array A : boolean array; zu : boolean array; t, x, U : boolean; Xe, woa : boolean; input H[not 5 and 03 or 6] end main : let z0 = - not(6840); while - not false * false and 044 or true : chillax end end

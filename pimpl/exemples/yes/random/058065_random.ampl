@@ -1,0 +1,1 @@
+program M : O2 : takes Ze : integer array returns boolean chillax end rz : takes G : boolean array returns nothing b : integer array; while - 4 < 5 : chillax end end main : pop - 79300 + KH - 8 = true and 8 + 7 - 1; when case(54900) or not 5 : output 0 . "]Ta"; output 9; when case 7 : chillax end end otherwise : input i[007]; let S = 66; while 7 : chillax end; pop end end

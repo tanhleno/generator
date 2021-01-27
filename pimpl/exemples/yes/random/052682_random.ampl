@@ -1,0 +1,1 @@
+program M : A : takes a : integer; y : integer array; Y2, _dPa : boolean array; i, p : integer array; u : boolean array returns integer array xm : boolean array; sk2 : integer; let _2[true and 3] = 0; output "3" . 0 . "1-0a" . "" end e51 : takes x : integer array; H, k : integer array returns boolean chillax end main : chillax end

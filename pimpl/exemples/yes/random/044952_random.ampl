@@ -1,0 +1,1 @@
+program We : fOv0a : takes FM0 : boolean array returns nothing input kl0[- not 26 and 99] end main : n7, ox : boolean; O, H, y, YM3, al : integer; RmVa, v_Z, P6, E : boolean array; output not false / 4 /= 5 and 30600 . - (9) or 224 - 1 = - 69 . "" . "" . "" . 33 . "6" end

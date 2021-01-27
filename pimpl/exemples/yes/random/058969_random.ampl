@@ -1,0 +1,1 @@
+program I : C : takes e : integer array returns integer array input k; while 7 - 84 : output "" end end s : takes B5, qk9, B, a : boolean array returns boolean array chillax end main : g, n7, _p : boolean; do QMH(- not E rem false / 65 and 485 - P[34] rem false, - false / s or 166 and 99 - 72 - 155); pop end

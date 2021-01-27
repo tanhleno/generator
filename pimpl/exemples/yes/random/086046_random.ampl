@@ -1,0 +1,1 @@
+program q : main : d8 : integer array; DJH0, Wj : boolean array; s, v, w : boolean array; Ho : integer; when case(4 = 81) < f[5] * 5 or true and 5 or 5 : do RKO(- 8 - 42 < 2, 8 = 3, 890) end case - true * g7M and 4 or L - 4 - 0 <= false and 8 : chillax end; while(92) or 0 + 2 > - (0200) and 56 : input K[29600]; let G[74] = array 631; let n = 4 end end

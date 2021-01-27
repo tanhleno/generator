@@ -1,0 +1,1 @@
+program _cxaa : main : X4 : integer; when case(962) : let X5 = 2 = 4 end case - 4 / S and 3 - true and 1 or 1580 >= - 5 - 80 - 589 : do J(941 = 60) end; while - false <= - 7 + 8 - 5 : pop end; pop; let x2Wa = array - 0830; when case 3 : input r6F; pop end case 2040 : chillax end case 04300 : chillax end; do l(2); do i(7); output ""; pop end

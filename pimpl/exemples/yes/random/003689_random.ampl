@@ -1,0 +1,1 @@
+program r : xl : takes o, l, Y, w, FL : integer array returns boolean V0, v, J9 : boolean array; wwV, M : integer; Z3, w : integer; y, EaG : boolean; chillax end main : let X = false rem g and 292 = - not 7 or 9 - 8 end

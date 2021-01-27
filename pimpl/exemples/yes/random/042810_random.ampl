@@ -1,0 +1,1 @@
+program z94a : b5 : takes DW0aa : boolean array returns integer array let Y = array not 3 end A : takes RN7 : boolean array; x, Z, n : boolean array returns boolean let Pg[- 1 - 13] = array - 07 - 45; when case 05 = 08 : while 43000 : chillax end; pop end case 24 : chillax end case 6 : chillax end otherwise : pop end end main : W : integer array; chillax end

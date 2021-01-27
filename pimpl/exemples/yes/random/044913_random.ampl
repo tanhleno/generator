@@ -1,0 +1,1 @@
+program q6 : g : takes k5F0 : boolean array returns nothing J : integer array; pop 0 = 1 end main : m : integer; Y, K, T, g3 : boolean array; v1N0a : boolean; while - not 8 rem true * false and 037 : pop 8 = 3; output "d" . "" . "3\"!"; output "060"; when case 7 : chillax end; input t3R; pop end end

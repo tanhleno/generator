@@ -1,0 +1,1 @@
+program R : main : n : integer; X : boolean array; q : integer; when case - P(5920, 1) : chillax end case true > - (56100) and 92300 : input W9y; let p60[9] = array 12 end case(0) <= 71600 - 1 : input in[90300]; when case 64 : chillax end end end

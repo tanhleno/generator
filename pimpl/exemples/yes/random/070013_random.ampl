@@ -1,0 +1,1 @@
+program p : main : W3, R, P, T46 : boolean array; when case - (6) + (479) * (5) and 31 + wl and 307 - 0700 : when case - 29 : chillax end otherwise : chillax end; while 10 : do q3(2) end; do _M7aa(2) end; output "\n\"" . "U" . 1 . 60 end

@@ -1,0 +1,1 @@
+program M : A : takes A39 : integer returns boolean p : integer array; X, y, P5Jaa, p6J : boolean array; Q : integer array; chillax end Fo : takes y83 : boolean; r, f7 : integer array returns nothing g8, j8 : boolean; while - 38 >= 40 : do u72(981) end end main : h : integer array; chillax end

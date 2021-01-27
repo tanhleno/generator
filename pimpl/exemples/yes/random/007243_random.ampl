@@ -1,0 +1,1 @@
+program s : j : takes wm, Z, P89, Sr40 : integer array; uc : integer; Xl5, w : integer array; a : boolean array; V : integer array returns boolean chillax end q : takes A6, m : integer returns integer array O : integer; chillax end main : chillax end

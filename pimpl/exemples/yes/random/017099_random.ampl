@@ -1,0 +1,1 @@
+program D : beC : takes x5, z : boolean; s, l, r : integer array returns nothing let yN = array 921 end h : takes x : boolean array returns boolean array when case 5 >= 6 : do L(88) end otherwise : chillax end; let m[83] = array 9; input m; do KV(88) end main : chillax end

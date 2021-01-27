@@ -1,0 +1,1 @@
+program A : Q : takes f : integer array; I : boolean returns nothing cYZaa : integer array; o, u : boolean; let mQO[- not 490 + 25800 - 1] = 67 - 6 = 77700; do P57(- 45, 81); while 056 = 704 : chillax end; input N[9] end main : let rC = - true <= - false and 90; do W(not not 3 + not 49 or 4 - 3 /= (702) and 3 + 7, false and 5); output 8 - 0 = 1; while 7 : do x(1) end end

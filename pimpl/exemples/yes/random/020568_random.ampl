@@ -1,0 +1,1 @@
+program T : m : takes S, _J : boolean array; N : integer array returns integer array let qt5 = - 92 - 4 end main : A : integer; V : boolean; zkr0 : integer; ce, hfl0, f : boolean; dU, Wk : integer; input F09[- (5) or a4[2]] end

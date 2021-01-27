@@ -1,0 +1,1 @@
+program fO : j : takes G, ews0a, q4 : boolean; a : boolean array; QO, b9, F0 : boolean array; I, S : boolean array returns boolean chillax end main : X : integer array; M : boolean array; U, e0q, h40, hG, P : boolean array; PR : boolean; chillax end

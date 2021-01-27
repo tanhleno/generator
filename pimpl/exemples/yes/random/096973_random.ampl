@@ -1,0 +1,1 @@
+program E3 : main : when case Zi / not false - (09) * false and 6 : chillax end case 04 and false and 0 : do b(1 = 8); when case 8 : chillax end otherwise : chillax end end otherwise : input r[3] end; input k3[- (6)] end

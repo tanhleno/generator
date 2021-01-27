@@ -1,0 +1,1 @@
+program l : UQzaa : takes p, g, S, ool, q : boolean array returns nothing chillax end main : input F[- e85(1, 814)]; input gC; output 7 - 46 <= 2 . "" . "" . "P-"; output 2 = 3 . "" . "z" . "%\\\"a"; input ZQA; output 07700 . "" end

@@ -1,0 +1,1 @@
+program p : J980 : takes Z3, od : boolean; n : boolean returns nothing D8V, E, o88, J, t : integer; output - 4650 <= 7; pop; output "\\8\""; input koK0a[6]; do W(6); when case 0 : chillax end; pop end main : while - 7 and true : output ""; pop; do z(5, 2310); output ""; while 5 : chillax end end end

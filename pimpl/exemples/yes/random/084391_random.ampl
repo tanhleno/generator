@@ -1,0 +1,1 @@
+program s6W0 : main : P : integer; boRa : integer; while(3 = 99600) / (57) - not(8) > 9 - (7) : output 1 = 0 . "i\"0" . "\n\\" . "" end; do Bi(Dwqa[2] rem not 29000 and 55700 > (5) or 4 - 569); do w1i0a(k9) end

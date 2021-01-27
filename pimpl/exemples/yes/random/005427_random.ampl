@@ -1,0 +1,1 @@
+program E : py : takes WUN, E28a, e, c : boolean array returns integer array N : integer; chillax end i : takes h2s, r0 : boolean returns nothing V, Z, s : boolean; input o; output 2 . 1 . "" end I : takes u2_a : boolean array returns nothing chillax end main : P, x7_, V8W, Y, C, T4, c : boolean; chillax end

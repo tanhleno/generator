@@ -1,0 +1,1 @@
+program I6 : d : takes h, N, t, U6 : boolean array returns nothing when case - not 34 and 53 + 7 - 19 >= - 98 : when case 1 : pop end otherwise : chillax end end otherwise : input Wd end end V : takes LN : integer array returns integer chillax end k3H0 : takes C : boolean returns nothing G3 : integer; chillax end main : chillax end

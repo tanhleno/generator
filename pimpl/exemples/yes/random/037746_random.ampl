@@ -1,0 +1,1 @@
+program W8e : L : takes o : boolean array; i39, j, O, V : boolean array; Q, H : integer returns boolean array YH90, s3 : integer array; while n and 595 - 5 - 5420 : chillax end end main : e92 : integer array; let sm4[not false] = (6) * not 463 and 4260 - true - 16300 - 45500 > (8) and 7 - 71 - 79 end

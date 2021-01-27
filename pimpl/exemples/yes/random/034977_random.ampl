@@ -1,0 +1,1 @@
+program t : B3va : takes dRY : boolean; v, Gk : integer array; Z2 : boolean returns nothing do _4(- true, - 9 - 72800 /= 58) end main : while(5) and true and 6 : while - 4 > 008 : do a1(4); pop; pop end; do f04(5); input a[70] end end

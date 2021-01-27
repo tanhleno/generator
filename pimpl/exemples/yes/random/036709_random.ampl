@@ -1,0 +1,1 @@
+program u53 : H91 : takes A : boolean; nX : integer array; I, L : boolean array; C6 : integer; F : integer array returns nothing k : integer; U, C, P, n : integer array; chillax end bt00a : takes V1F0a, N : boolean array; aM : integer array returns integer array chillax end main : chillax end

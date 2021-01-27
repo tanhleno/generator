@@ -1,0 +1,1 @@
+program Ex : l2 : takes Z, E, v : boolean array; x : integer; zR, xZ, i6s0, O0S0, FpV, mk : boolean returns integer v5, m, k, o, B7L : boolean array; s : integer; chillax end main : O13aa : integer; W7, xaL : integer array; E, b, e2h, TJ, BVO0 : boolean; v, p, R : boolean; j76a : boolean; pop true - 62 <= 7 + 57 - 5 end

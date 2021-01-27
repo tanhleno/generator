@@ -1,0 +1,1 @@
+program g : main : W68 : boolean array; h, Tc, x, D, M : boolean array; S8 : boolean array; A0 : boolean array; pop; do zv((14) / false and 5 or(3) and 7 > - 185 and 724 or 1 - 7); do O(- true and 389 - 2 - 063 <= 1); input Ly9[8 - 1]; output "~" end

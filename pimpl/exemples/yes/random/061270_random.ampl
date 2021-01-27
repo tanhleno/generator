@@ -1,0 +1,1 @@
+program U : YE : takes W : integer array returns nothing input Ll0 end Q : takes H5M : integer array; dJu0 : boolean returns nothing chillax end main : v, d2, c : boolean; v3 : integer array; while(01 = 62) * not false * (9720) and 5 or true - not 8 and 8 or 6 : when case - 0 - 7 > 40 : chillax end case 3580 : chillax end case 8 : chillax end end end

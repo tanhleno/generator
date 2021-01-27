@@ -1,0 +1,1 @@
+program jgIaa : P5t0a : takes H03 : integer; A5o, p : integer; hks0, yR7a, H, U0 : integer array returns nothing d, z : integer array; pop end uO : takes _ : integer array; F : boolean returns nothing chillax end main : output not D + true + 2 - 02 . not 02 and 0 - 0 - 708 < 44 - 7; pop 58600; do z4A(not 998 and 1 or 7140 - 91) end

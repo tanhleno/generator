@@ -1,0 +1,1 @@
+program l1V0 : E : takes X, hF, w6f0 : integer returns nothing let hY5[x and 9] = array - not 682 and 6 end u5 : takes R, r45a : boolean returns nothing i, OQ : boolean array; WU3, R, kb : boolean array; chillax end main : u, E : integer array; chillax end

@@ -1,0 +1,1 @@
+program qc : b : takes w, K6 : integer returns integer chillax end A : takes H, E, k : boolean; r : boolean array; j, c, _ : boolean returns nothing chillax end main : Qrn, Wh, H : boolean; pop p[7] rem false and 1 or gj50a; pop; input ce[not 5 and 4] end

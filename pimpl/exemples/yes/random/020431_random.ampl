@@ -1,0 +1,1 @@
+program i : A : takes mf, l : boolean array; NZ30a : integer array; nq, m : integer array returns integer input n1; output 4 = 79 . 8 . 93300 end main : j45aa, h : boolean array; Y, Bo10a : integer; A, k12a : integer; X : boolean; h, bS, q890 : boolean; chillax end

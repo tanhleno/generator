@@ -1,0 +1,1 @@
+program c : zo7 : takes C, P : boolean returns boolean array do p(not 4180 and 5 + 99 - 1 > 2760, 7, 4); let M9[- 560 - 82600] = array 6; when case 82200 : chillax end case 98100 : chillax end otherwise : chillax end; input u end main : output - Hb rem 12 and 1 - true and 2 + 12 end

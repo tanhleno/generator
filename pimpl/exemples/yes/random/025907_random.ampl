@@ -1,0 +1,1 @@
+program F7 : r4_ : takes O, R : integer; Ke, h_7a : integer array returns nothing while not 6 and 7 + 9 : chillax end; while 67 : pop; let gy = 2 end end Z2 : takes v : boolean array returns integer array chillax end main : output(16) and true . "" end

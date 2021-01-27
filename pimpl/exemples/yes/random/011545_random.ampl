@@ -1,0 +1,1 @@
+program i : C : takes z5, C, L : boolean returns boolean array chillax end v7 : takes D91a : boolean returns integer array a, b : integer array; NW, a : boolean; A7t0a, tB : boolean; pop end main : input y[V9(2) - 598 rem S9C0 and 8 + not 9840] end

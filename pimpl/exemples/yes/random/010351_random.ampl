@@ -1,0 +1,1 @@
+program B930a : AD3a : takes o, xp, Q28 : boolean array; T78 : integer array; v8 : integer array returns nothing input MC[62400 - 8 - 43]; let F = 9 end main : Y9maa, zoaaa, Z1 : integer array; Os9 : integer; pop; input E; when case - (9) and 3 /= 656 : chillax end end

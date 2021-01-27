@@ -1,0 +1,1 @@
+program f920a : main : kH1aa : boolean array; V, u : boolean array; z9 : boolean array; when case z8[05] * 3890 or(071) * f and 3 + (108) : chillax end otherwise : let H1 = array 150 end; do Q37(true = - true and 6 - 6 - 4) end

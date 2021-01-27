@@ -1,0 +1,1 @@
+program M : V48 : takes XI : integer array; mc9aa : boolean array returns boolean array j : integer; pw : integer; output 01300 - 72 > 288; output 7 = 5890; input C; let F9qa[5] = array 44 end main : input s[- 08 rem(7) * false]; let K = 60 and 4; input b88; do wX(- 5 - 28, 159, 45) end

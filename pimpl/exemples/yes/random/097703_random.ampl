@@ -1,0 +1,1 @@
+program t : main : when case true rem(90) / not 37 and 1 or 207 / false and 21 + s /= false / (5750) and 5 : chillax end case - false = 61 and 56400 + 0 - 963 : chillax end otherwise : when case 718 : chillax end case 9 : pop end case 85 : chillax end otherwise : pop end end end

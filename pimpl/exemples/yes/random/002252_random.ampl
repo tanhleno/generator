@@ -1,0 +1,1 @@
+program awQa : k : takes wb, U23, G, L0, C9 : boolean; l : boolean; f6j : boolean array returns nothing chillax end main : s : boolean array; f4, _ye : integer array; z360a, t, L : boolean array; T : boolean; chillax end

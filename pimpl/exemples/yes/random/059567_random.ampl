@@ -1,0 +1,1 @@
+program HI : U070a : takes jO : integer array returns integer pop end k : takes Ew, N9, M, q : boolean array; d : integer array returns nothing chillax end main : let a = - 6 or not 2 and 4 + 6 /= - 0 or 4; do fg(- not 164 * true or T7 and 9 <= true - 92 - 17); input Q end

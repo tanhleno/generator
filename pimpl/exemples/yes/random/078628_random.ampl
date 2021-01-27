@@ -1,0 +1,1 @@
+program f : main : Cpna : boolean; O8ba, F8, W : boolean array; a, d, U, X : integer; wxGa : boolean array; e, Z : integer; k : boolean; u : boolean; while - 74000 / true rem true and 3 or not not 6 / (86) + not 49 and 6 = zKwaa and not 1180 and 9 : do S(4 - 03, 0 = 2) end end

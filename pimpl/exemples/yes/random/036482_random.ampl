@@ -1,0 +1,1 @@
+program h : b : takes F : boolean; jF4 : integer; W, u : integer array returns nothing F2, u6, M : boolean; chillax end main : H : integer array; H : boolean; Ds : integer array; do ck00(- not C[6] * (746) - (9) * spI < - false / C and 6); input gX[false and true or not 723] end

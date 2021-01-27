@@ -1,0 +1,1 @@
+program N : Sn : takes D, Xje0 : boolean array returns nothing E, q8va : integer array; xh, Z : integer; chillax end z4 : takes O, O : boolean; q, x : integer returns nothing p6y0a : integer; H7 : boolean; v3O, Q640 : boolean; while - 7 >= 52 : let u = 049 end; input k6S[67] end main : pop true - 116 and 9; pop end

@@ -1,0 +1,1 @@
+program q : Y410a : takes X, Y7 : boolean array returns integer while - O and 91 + 19 : chillax end end O : takes v84a, H, E : integer array returns boolean array chillax end C7q : takes rV9, rd50a, q, n : integer; US1 : integer array; P0M0a, L : integer returns integer Zx : integer; chillax end main : chillax end

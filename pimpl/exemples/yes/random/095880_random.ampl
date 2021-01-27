@@ -1,0 +1,1 @@
+program v6T : main : when case - false and not lx * (0270) or false * true and 888 < Ae : pop; let dm[0] = 5 end case not(8) and(77900) + true and 0970 or 1 : chillax end otherwise : chillax end; pop - 16 and 4 + 5 > 3 end

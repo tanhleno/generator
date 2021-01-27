@@ -1,0 +1,1 @@
+program j : p : takes R, Z, w5, WpQ0 : boolean returns nothing let o = array - true and 60 or 973 - 48 end main : do I52(- 99900 + (5) / (7) = - M); while false rem false or true - 5 : let T = array 6 end end

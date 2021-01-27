@@ -1,0 +1,1 @@
+program W : A650a : takes GBt0a, f, o3 : integer returns nothing n : boolean array; chillax end V8 : takes N, S2D, P05a, D : boolean array returns boolean array chillax end main : output - not U * O1 and 1220; do F(not false or true + 8 /= 6 and 9 or 36 - 584, false and 66 > - 8); pop; let u = array - 996 - 00600; while 2 : when case 3 : chillax end; pop end; do Jt1aa(3, 7) end

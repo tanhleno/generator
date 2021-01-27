@@ -1,0 +1,1 @@
+program j : main : when case(3 = 6) : chillax end case true * (5) and 9 : pop 1; while 9 : pop end end case - false >= 23900 - 7 : output "" . "0"; while 5740 : chillax end; when case 6 : chillax end end end

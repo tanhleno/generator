@@ -1,0 +1,1 @@
+program K : cM : takes b : boolean array returns nothing when case L7 and 72 - 40 - 8 = 2 - 9 : input Uf9aa end otherwise : when case 4 : chillax end end; let q = 5 = 9; while 296 : chillax end end main : chillax end

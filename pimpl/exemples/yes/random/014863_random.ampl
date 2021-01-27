@@ -1,0 +1,1 @@
+program kl7 : vj50 : takes J, zi, U2raa : integer array returns boolean let p = array true or 1 - 00; when case 54 /= 8 : chillax end otherwise : chillax end; when case 9 = 2 : chillax end case 62200 : chillax end case 020 : chillax end; output 4 . "'zaa"; let F = 41; while 8 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program o : s : takes s : integer array; Y1 : integer array returns boolean array chillax end B : takes e : boolean array returns nothing chillax end main : y : integer; pop; pop - false + 32 - 3 end

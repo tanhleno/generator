@@ -1,0 +1,1 @@
+program O : main : C : integer; D : integer; let K[not(4) or r(3) rem not 5 and 37] = array not D91aa and Rm; let g[SH[9330] * false and 21 + I and 51] = - false >= 1; let T = 2; do x(3 - 78800 <= 457) end

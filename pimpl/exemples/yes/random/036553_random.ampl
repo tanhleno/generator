@@ -1,0 +1,1 @@
+program Q7 : z : takes AJ2 : boolean; N : integer; T6 : boolean returns boolean hs, W1naa : boolean array; y, R : boolean array; input un8aa[(7)]; input UxO0 end main : while - xQ(5) / (91100) / (4100) and 3 >= - false : while 71 : when case 7870 : chillax end end; while 1 : chillax end end end

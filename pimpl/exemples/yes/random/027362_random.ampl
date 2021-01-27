@@ -1,0 +1,1 @@
+program DY9 : B : takes A9, vp90a : integer array; t750a, X4, w : boolean array; a : integer returns boolean array J : integer; Z, V, l75, H : boolean; pop; do aK(- 7 - 5) end fB : takes c : integer array; Nz : integer returns integer array chillax end F : takes f8d0, IL : integer array; G7p0a : integer array returns boolean output 50; do I(1730) end main : chillax end

@@ -1,0 +1,1 @@
+program B8vaa : main : x, t26, U8 : boolean array; V9, r4, T, N : boolean array; when case - not not q55 and false / not 0 : chillax end case(9) < 224 - 40 - 13400 : pop; input RA20a[9]; do Cl(4) end otherwise : let D[32] = 9; while 9880 : pop end end; let e[true - false and 0] = false < 619 end

@@ -1,0 +1,1 @@
+program o7 : i : takes G : integer array; u3I0, K, q, UN, j, p, X : boolean; s : integer array; s, U2 : boolean returns nothing output - 0 >= 6 . 5 = 7 . "[;!" end Eu : takes V, O7 : integer array returns boolean chillax end main : chillax end

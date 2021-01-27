@@ -1,0 +1,1 @@
+program K1laa : a : takes K, Y, yS, v41, q2 : boolean returns nothing chillax end main : I : boolean; when case - not(94) rem false and 838 and 3120 + not not 28 rem 16 + rnI <= not false / 2 and 12 : input t[19 - 73] end otherwise : input P end; output "1"; do TNL(- false and 89); do Qh50(- 2 - 1, 513 = 34, 13); output "" . "" . ""; let rQ = array 0 end

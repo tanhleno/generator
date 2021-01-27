@@ -1,0 +1,1 @@
+program h : g6C : takes j : integer; g1 : boolean array returns integer let J[- 92 and 55900] = 1 - 3 /= 3; output ";,"; when case 0390 = 376 : output "" end otherwise : pop end end main : let L = array t6[5] + true + 3610 + 52 - 5; do Dp40a(not 9 < true, Wo and 3); while false and 02 - 578 > - 7 - 872 : chillax end end

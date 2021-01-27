@@ -1,0 +1,1 @@
+program p : z : takes hvm0, Gj : integer; e6y0, r : integer; S5x0, b : boolean array returns nothing chillax end J7 : takes r, s4, O1 : boolean; A : boolean returns nothing chillax end main : output - not true * false + C end

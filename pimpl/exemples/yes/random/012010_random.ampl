@@ -1,0 +1,1 @@
+program t : t : takes Q, F, a : boolean returns integer pop end main : k9 : integer array; Ehcaa : integer; O, el, D : boolean; let S9[not(2) or not 23 and w] = - (44); do e(- (6) * false - 88 + 20 = not 4, T >= 975 - 3160, 19 <= 824, 902) end

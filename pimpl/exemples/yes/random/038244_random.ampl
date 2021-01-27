@@ -1,0 +1,1 @@
+program uU4 : G : takes Yk : boolean array; m, p1, Hl7 : integer; W : integer array; Zsj : boolean; NP : boolean array; t : boolean; F, N : boolean; j : boolean returns boolean SnD, ZqI, n6b0a : integer; output ""; input S[32200] end main : chillax end

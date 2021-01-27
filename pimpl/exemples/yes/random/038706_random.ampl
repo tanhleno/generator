@@ -1,0 +1,1 @@
+program Z : T : takes X : boolean array; C1, j35 : boolean array; fQ6aa : integer returns integer array output - 3 end sG9 : takes h5 : boolean array returns boolean chillax end main : let j[- true and t130 * false and 32] = - not 9 or(4); pop - 6; do U3(false >= - 718 - 7, 56 - 0, 55, 4); do OQ(5 - 37 > 97, 5 = 5, 04900) end

@@ -1,0 +1,1 @@
+program b : b9 : takes C1 : boolean; t, u : integer returns integer o0Z, P, p3, SE : integer; chillax end main : pop 7 + not 59 <= not 4410 and 259 - 73 - 316; do r(- (0) - 73 and 6 = - 01 and 7, - EQv and 4, 6 - 4, 3 = 1) end

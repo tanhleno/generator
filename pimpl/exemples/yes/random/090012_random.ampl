@@ -1,0 +1,1 @@
+program n0Z : main : let p = array - true * Q6 / not 4 and 18 - 1 / true; when case CEcaa(9) / not 52 and 62 : do G(99 = 1, 8, 7) end case - M and 15 or 040 /= - 2 - 8 : when case 3 : chillax end case 5 : chillax end otherwise : chillax end end case - 197 : input Al end otherwise : chillax end end

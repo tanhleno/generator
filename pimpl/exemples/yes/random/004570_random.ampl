@@ -1,0 +1,1 @@
+program COOaa : S8 : takes k7, CN, q, o : boolean; c : boolean returns integer array FYF, e05, R9 : integer; s, GDK0a, C, x : boolean; chillax end rIF : takes H, I, D, L : integer array returns integer chillax end main : while K and not(7) / true - not false and true <= false : chillax end; while - d(1) : when case 8 = 0 : chillax end end end

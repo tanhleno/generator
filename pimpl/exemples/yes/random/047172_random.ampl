@@ -1,0 +1,1 @@
+program he : J42aa : takes I950 : boolean returns integer B : boolean array; do r(- true and 7 + 4390 - 3) end main : when case - false and(3) and 3 and 3170 - f(6) rem not 285 and 4 : do EE(- 2 - 92) end case false + 0 and 1 : chillax end end

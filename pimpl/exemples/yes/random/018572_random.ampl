@@ -1,0 +1,1 @@
+program sW00 : D : takes rH, y : boolean; Kp4aa : integer returns nothing h : integer array; when case k and 5200 - 0 /= - 7 - 8 : chillax end end _R0 : takes F, v08 : boolean; xY3, P : boolean array returns integer array chillax end main : c8, m8ua, O : integer array; chillax end

@@ -1,0 +1,1 @@
+program Ov : v : takes L, g3q, G : integer returns integer array xw : integer; chillax end z : takes p, V : integer array returns nothing do j(- 8 <= 07900); do sR2(7, 1); while 07 : chillax end end main : IB : integer; x3r, D, X : boolean; i6, L : integer; input n4; pop end

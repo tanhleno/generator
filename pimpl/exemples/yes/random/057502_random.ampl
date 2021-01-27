@@ -1,0 +1,1 @@
+program i : a : takes BF30 : integer array; A : integer returns nothing H17, n6 : integer; Y, m, Z7, u : integer; S2, O1y : integer array; pop; do TH80a(- 40 - 9, 5 = 14) end main : H : boolean; input N[not true]; pop end

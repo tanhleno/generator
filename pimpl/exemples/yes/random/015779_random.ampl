@@ -1,0 +1,1 @@
+program a : r5 : takes uS, N, yk1a : integer returns boolean chillax end Um : takes y4pa : integer returns nothing E0 : integer; Y : integer; M0D : boolean; tb70a : boolean; o : boolean; chillax end main : _, C, a : integer array; x, v, t4, oKF0, X01 : integer array; while(4 = 693) * false / M0 : chillax end end

@@ -1,0 +1,1 @@
+program oG : _5 : takes td : integer; UFO, tX7 : integer array; uk, T0T0, A, Fl : boolean array; _j1, l : boolean array returns boolean Aj, Us : boolean; u, F25, b2, JZ40a : integer; do x7(false + 5 - 03) end main : chillax end

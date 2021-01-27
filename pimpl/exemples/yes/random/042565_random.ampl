@@ -1,0 +1,1 @@
+program c : Y : takes S : boolean array returns integer array b, u, V : boolean array; H, bBF0 : integer; let i = 52 >= 4; when case - 01 - 5 : output "\t<\""; do T5(7); pop end case 5 : chillax end; do N(2) end r : takes O, M, z, Mkl, sg : boolean array; BQo, t2, e : integer returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program n : H670 : takes b0g0a : integer returns nothing do T(- not 18 and 89 > - 2) end j75a : takes t : integer returns integer array Yr : boolean array; chillax end C7W : takes gEp0, S740a, P, Dd : boolean array returns nothing output "" end main : chillax end

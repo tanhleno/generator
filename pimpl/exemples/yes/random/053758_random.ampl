@@ -1,0 +1,1 @@
+program fm70 : Q : takes IF90a : integer array; R88, h, A, z : integer; V, A8 : boolean returns nothing cU8, d, J0 : boolean array; pop 05 = 15; do j(- 6 = 85); let bZ_aa[3] = 50 end main : chillax end

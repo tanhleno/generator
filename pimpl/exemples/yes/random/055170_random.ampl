@@ -1,0 +1,1 @@
+program q2o : k850 : takes X9b0 : integer array; G, N9A0 : integer array returns boolean array do _860a(- (86) and 2 /= 2, 292 - 2, 9 = 6, 39, 43200) end u : takes f, E : boolean array; B, k, y, z, n : boolean; pY30 : boolean array; W : integer array returns nothing chillax end main : chillax end

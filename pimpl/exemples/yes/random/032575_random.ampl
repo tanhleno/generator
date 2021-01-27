@@ -1,0 +1,1 @@
+program r : Y0 : takes y, m : integer returns nothing z, M, l0 : integer array; V6, J2i0a, wM7 : integer array; while false and 29 - 58 - 2 : chillax end; let l = array - 8670 end main : do m(not W(12) < (74) and true and 3 - not 1 and 0 + 9) end

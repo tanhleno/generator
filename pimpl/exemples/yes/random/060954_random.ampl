@@ -1,0 +1,1 @@
+program X : UT6 : takes T8 : integer array returns nothing SX : boolean array; when case 08 and 1050 : chillax end otherwise : when case 84 : chillax end end; while 32 - 2 : chillax end; when case 1 = 48 : when case 5 : chillax end; pop end otherwise : pop end end main : chillax end

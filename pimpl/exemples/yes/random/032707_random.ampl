@@ -1,0 +1,1 @@
+program m : B : takes BF, i0 : integer returns nothing v96 : boolean; chillax end SV : takes SD, xC : integer array returns boolean pop; while 8 : pop end end main : ap : integer; V : integer array; d, Hlka, a, U, d : boolean; while d7_0a[58] * i[1590] rem(7) and 36 or not(2) : pop; do v(32 = 0, 6) end; let RgZ0[- false and WO or not 6 and 04 - 6240] = array(93) * true and 87 end

@@ -1,0 +1,1 @@
+program x : P : takes P : boolean array returns boolean array pop 72 - 2 end main : do q(- false * 585 or not false - 1 - 4, (27) rem Df and 26 /= - not 6150 and 7 or 3090, P_40); when case(9) * false or not 2 and 280 : do G8(4210, 15) end; while - _f and 8 <= - 4 - 4 : let _4 = array 13; input w end end

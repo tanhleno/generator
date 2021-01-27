@@ -1,0 +1,1 @@
+program W : main : y49, E : integer array; let q = - 0 / not 004 and 2 or not 0 > false; do rd(false /= false and 0); output 3000; when case - 4 - 5 /= 9 : chillax end; let E6[6] = 211; let W = 23 end

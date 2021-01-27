@@ -1,0 +1,1 @@
+program A : k79 : takes y, k5, RAx, u870a, O6, j4n0a : boolean; LPD0 : boolean array; z : integer array returns nothing chillax end main : output "\n"; output "\"" . ""; output - 5; output 182 = 9 . "" end

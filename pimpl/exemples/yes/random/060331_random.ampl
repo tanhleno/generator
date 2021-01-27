@@ -1,0 +1,1 @@
+program V6 : Eys : takes UZs0a : integer array returns nothing n, u, K3 : boolean; b8Ga : integer; pop; while 5 - 1 : when case 71 : chillax end end end main : h7H, m : boolean array; do Yag(false, true / 189 and 5 - S and 7 or 8 - 138 < - not 19500 + 9 - 74, - y, 18 - 6); let Db60a[47 + true and 126] = array - not not 46300 - false; output "" . "77" . "" . "!" . "" end

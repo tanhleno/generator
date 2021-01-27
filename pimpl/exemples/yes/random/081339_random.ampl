@@ -1,0 +1,1 @@
+program oJ0 : main : b630a : boolean array; Wn, Pl : boolean array; while - true - true <= (44) * 15 or false + 74 - 9 : pop; output ";E0a"; when case 4 : pop end case 89 : chillax end otherwise : chillax end; while 9 : chillax end; let cu9 = 4320; pop end; do a890a((97) or e); pop 61 - 7 end

@@ -1,0 +1,1 @@
+program n : main : U, yW : boolean; when case - not false : chillax end case - false - 51 and 22 >= not 81 or 82 - 5 : chillax end otherwise : input a; pop 4510; pop end; input Z860a; output ",90" end

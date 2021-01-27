@@ -1,0 +1,1 @@
+program R : r : takes z, VC : integer array returns boolean o7, Y : boolean; output ""; when case - 1 - 9 > 06 : chillax end case 1 = 8 : chillax end case 8 : pop end case 38 : chillax end; let w2 = 71200 end main : chillax end

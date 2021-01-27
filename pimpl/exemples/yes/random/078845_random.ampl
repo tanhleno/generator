@@ -1,0 +1,1 @@
+program VZ : main : s : boolean; oD, K5 : boolean; when case - true and true * not 1 - t[4] < false and not 23600 - 24 and 7 : do _X(89 < 73, 5); do k8O0a(2, 276) end case - BV[65] + l and 92 < (4) and 92 + 3 : do Uw(11 = 7, 70, 6) end otherwise : chillax end end

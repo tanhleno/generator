@@ -1,0 +1,1 @@
+program z : fk : takes A : integer array; N : boolean; J6, Cv : integer; N3Ma, Jy6a, s : boolean; B, b, G6 : boolean; j, G0, k4 : boolean; _48, _I : boolean returns integer array do t4(- not 0 and 83 or 292 /= - 5, - 0 /= 7) end main : YY : integer; C46aa : boolean array; chillax end

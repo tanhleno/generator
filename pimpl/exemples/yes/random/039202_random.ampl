@@ -1,0 +1,1 @@
+program AR0a : Y : takes X9 : boolean array; E, o : integer array; gM40a : integer array returns nothing x : integer; output "#"; pop 24 end kl : takes aw : integer returns integer array j : integer array; chillax end L2 : takes M5 : integer array; c : integer returns integer chillax end D61 : takes c : integer; eN5 : boolean array returns boolean chillax end main : chillax end

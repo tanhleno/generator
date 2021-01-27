@@ -1,0 +1,1 @@
+program i4s0a : c80aa : takes YY00a, K : boolean; z, e, g, q : integer array returns nothing s, Q, LAp : boolean; yA : integer array; g4, w5 : integer; chillax end q : takes F : integer array; DQ4aa : integer array returns nothing OH, K4l : boolean array; chillax end main : j : integer; chillax end

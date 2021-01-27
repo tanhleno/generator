@@ -1,0 +1,1 @@
+program O : b3R : takes n9s, R : boolean array; XZ : boolean array returns nothing K9 : integer array; do C(- (088) and 0 >= - 73600 - 6); while - 52 - 7 >= 5 : pop; while 0 : chillax end; pop end; do CK(7 = 108, 5, 74) end main : output "" . - (3); let Z[- (8) rem y and 07] = array - F56 and(92900) and 398 end

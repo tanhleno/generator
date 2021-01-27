@@ -1,0 +1,1 @@
+program FL2a : e : takes qh, b6, dk : integer array; v : boolean array; A : integer array; e : boolean; K, C, jU : integer array returns boolean array dt30, dx : boolean; h8, r, U : integer array; chillax end main : chillax end

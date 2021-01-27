@@ -1,0 +1,1 @@
+program y8ja : s : takes T : integer; W, _77 : integer returns boolean output 6 - 09 . 9; input o end fx : takes R, ix, i, w : integer; l : boolean array returns integer array UB, _ : boolean array; c : integer array; do _(4 - 185 <= 1, 031 = 44, 3, 8) end main : chillax end

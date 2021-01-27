@@ -1,0 +1,1 @@
+program aLj0a : z : takes L, O8 : boolean returns nothing DM : integer array; nC8 : integer; d : boolean; M, l : boolean; x : boolean; y : boolean; chillax end wZtaa : takes D : integer array; w, j, AT : boolean array returns nothing chillax end main : f, b, J0 : boolean; let U3 = not 0 / not 34 and 2 - false; while true rem 03400 - z < (2780) : do i(0, 91) end end

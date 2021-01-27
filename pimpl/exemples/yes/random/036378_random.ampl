@@ -1,0 +1,1 @@
+program Z : k2 : takes AE : boolean; o : integer; L, K, ZR20, ji, p : boolean array; m2 : boolean; wg8 : integer array; Nupa : integer array returns integer array let iyJ0 = array - true end main : chillax end

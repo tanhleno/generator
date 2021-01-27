@@ -1,0 +1,1 @@
+program uCL : EY : takes b2B0a, N5Aaa : integer array returns nothing output ""; let Y9C[1 - 6750] = array - 15; input z3[8] end s : takes v : boolean; O, Q, D, So6aa : boolean; b, q : boolean array returns boolean DE80, F9H0a : boolean array; chillax end main : d1Zaa, Q010a, V8t, Nc : integer array; z9 : boolean array; input I[- true * not(9) and true]; pop end

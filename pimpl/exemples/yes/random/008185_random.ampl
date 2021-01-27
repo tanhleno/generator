@@ -1,0 +1,1 @@
+program c : s : takes GF, T34, k3, i : integer returns nothing chillax end main : h8, C : boolean; k : integer array; b, Io : boolean array; e : boolean; S, u4 : integer array; do G8(- not false / qO[231] - false or 1340 or 711 - 0 > - not 5 or false and 0) end

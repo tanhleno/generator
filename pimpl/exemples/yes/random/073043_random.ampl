@@ -1,0 +1,1 @@
+program _ : main : W, N4, _V : integer array; input u[- not not 2 rem false + (6) rem false]; while(7) : let W030[042] = array 7040; when case 6 : chillax end case 0 : chillax end otherwise : chillax end; while 36 : chillax end end; when case 6 and 0 - 50 - 75 = 08 - 836 : chillax end end

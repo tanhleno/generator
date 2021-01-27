@@ -1,0 +1,1 @@
+program s6G0 : wCZ : takes gU20 : boolean returns nothing T : boolean array; when case - (54) and 2200 < - 08 - 1 : chillax end case - 37 : chillax end case 1 = 7 : while 0 : chillax end; pop end otherwise : chillax end end main : D, H, I, c, qY60 : integer; chillax end

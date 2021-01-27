@@ -1,0 +1,1 @@
+program Qiz : main : z, v8, t8Kaa, CF : integer array; do J(not 8 or not false /= true + 149 and 3); do DF8(8 or(8) <= (8) and 6); when case - false - 79 : chillax end case 33 - 81 : chillax end otherwise : do D(08900) end; pop 28 = 94; when case 8 = 99 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program x : X : takes x : boolean returns nothing m8 : integer array; k, e, x, j8b : integer array; chillax end s : takes Y, L : integer array; f, Gg, S : integer array returns integer when case - 8 <= 35 : chillax end case 72 = 2 : input QN end case 73700 : pop end otherwise : chillax end end main : q4, S, y72, Vi3 : integer; X : boolean array; chillax end

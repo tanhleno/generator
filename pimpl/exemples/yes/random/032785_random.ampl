@@ -1,0 +1,1 @@
+program s : Z : takes j, V : integer returns nothing CU2a : boolean array; chillax end RP : takes Rs0 : boolean array returns nothing q1, m : boolean; QU, a5, v : integer; wr : boolean; x1 : boolean; let n = 49 = 5; input m[1] end main : chillax end

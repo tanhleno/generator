@@ -1,0 +1,1 @@
+program Nh60 : JR : takes b7 : integer; C, z, d : integer array; N : integer; O : boolean array returns boolean array chillax end mx : takes QB : boolean returns nothing R82, K5, t : boolean; m : boolean; R43aa : boolean; chillax end main : input c0[- true * 631 or 1 and true + 2]; input mFu0a; input N end

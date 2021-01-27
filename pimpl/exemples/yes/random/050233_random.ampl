@@ -1,0 +1,1 @@
+program g : Zy : takes UK60 : integer; T, R, c6S0a : integer returns integer array E1, Wd : integer; input L end main : do W190(- (0) * S[34900] < true, - Y(7) and(0430) and 10 + not 3 + 4 - 749 > - 80 and 4); while false - (3) and 8 or 24 - 7 : do m49aa(8, 8, 277); while 18 : pop end end end

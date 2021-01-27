@@ -1,0 +1,1 @@
+program _6 : Q : takes O : boolean array; x : integer; VI10a, j : integer array; M : integer array returns nothing i : integer array; t, Y9 : boolean; input K[not 929 + 10 - 90] end main : S, DO : integer array; EQ, h2, B, az, rs40a, V77 : integer; chillax end

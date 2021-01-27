@@ -1,0 +1,1 @@
+program S : lp : takes N5, o : boolean array returns boolean array G, d : integer; when case not 831 : chillax end case - 338 : chillax end case 806 : chillax end; input J10[- 6 - 486]; do xt(29500) end main : V, k : boolean array; R, ml : boolean; chillax end

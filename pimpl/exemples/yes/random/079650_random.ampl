@@ -1,0 +1,1 @@
+program dpv0 : main : q770a : boolean; N : integer; when case d79 and true * not 43500 and 7 : chillax end otherwise : chillax end; input sLU[false and true and 7]; when case - true and 5 : chillax end case - 57 - 2 : chillax end case 1760 : chillax end case 3 : pop end case 88 : chillax end otherwise : when case 9 : chillax end; when case 7 : chillax end; pop end; let g = 9 end

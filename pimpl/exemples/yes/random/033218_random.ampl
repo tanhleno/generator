@@ -1,0 +1,1 @@
+program D : kpD : takes b : boolean; V, Q8I, eS60a, Q, k, sB, f : boolean array returns integer let KMca = - 80 - 29 > 96 end o : takes Q, rf : boolean returns integer chillax end main : T, LO : boolean array; a : integer array; F, q5 : boolean array; F, j, A2 : boolean; chillax end

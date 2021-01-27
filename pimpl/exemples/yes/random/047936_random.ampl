@@ -1,0 +1,1 @@
+program ka : c0A : takes l : boolean returns nothing tGP, u77, m, Hu : integer; chillax end y30 : takes J0, A, v4, U78, k290a, L, X2va : boolean; U980 : boolean array; S, b1, b : integer array; Z0, I3 : integer array; O : boolean returns integer WL, JY, z, E : boolean; chillax end main : s : integer; chillax end

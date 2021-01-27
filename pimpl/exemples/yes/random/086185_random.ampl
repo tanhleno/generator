@@ -1,0 +1,1 @@
+program Gu0 : main : h61 : integer array; G7, d : integer; let J[not true + (4) / (92) and 84 + false] = array - not QQd(0) or(80900) - (91) or 9; do sG((92) * not 59 and 1 or false and 0 - 96 <= - N2 - 41 - 9770); input e end

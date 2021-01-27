@@ -1,0 +1,1 @@
+program q : c0Kaa : takes u : boolean; m9taa : boolean array returns nothing pop 49400 - 8; while - 7 - 8 : chillax end; while 5090 = 71500 : do R(94); pop end; do s1(4) end main : when case false - 122 + 5 and 2880 + 9990 - 1 : chillax end otherwise : output 389 . 27 . "\t"; when case 237 : pop end end end

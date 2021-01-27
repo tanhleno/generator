@@ -1,0 +1,1 @@
+program c : j : takes E, c, r0 : boolean returns integer chillax end main : when case not true or A0 + 14000 and 22100 = - false / 8 and 46 - 94 + 5 - 5 : while - 8 - 3 : input po; let h = 4 end; pop; while 4 : pop end; output "\t;\"a"; when case 56 : chillax end; pop end otherwise : input F[922]; output 6 . "k7\""; let v0 = 9 end end

@@ -1,0 +1,1 @@
+program A6j : x : takes vN, Ge0aa, V8 : boolean array returns integer chillax end E9 : takes A : integer; d, i : boolean returns boolean let H4 = array - 7; when case 1 = 45000 : while 84 : chillax end; pop end case 857 : pop end end main : do p3Haa(- (56 = 7) * not false * false and 57400 + (2), false / b, - true, 4 - 13, 0) end

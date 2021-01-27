@@ -1,0 +1,1 @@
+program R : G : takes R : integer array returns nothing YN, Bwnaa, U71aa : integer; let AH[- I and 79 or 2] = - 6 - 8 > 206 end main : while - not true and not true rem(7) and 77 : chillax end; do g1z0(4 and(554) <= false or 70000 - 02) end

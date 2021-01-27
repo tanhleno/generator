@@ -1,0 +1,1 @@
+program PT : r1 : takes G : boolean array returns integer pM, BG, pIa : integer; tp, u_4, LXl : integer; chillax end main : zt : boolean array; a, E340, f, Z6, _, i : boolean; fkYaa, y, h, n : boolean; while not(1) rem 1820 or MC[707] and not 5060 and 14900 - (849) and 34 or 5 : do g(- 327, 702 = 637) end end

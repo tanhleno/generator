@@ -1,0 +1,1 @@
+program r : main : output "$"; when case 4340 * true + not 41 : chillax end case - true : chillax end case - 19 : output ""; when case 68 : chillax end; pop end case 0 = 5 : chillax end case 60600 : pop end case 43 : chillax end otherwise : when case 6 : pop end end end

@@ -1,0 +1,1 @@
+program T : main : cBv, W : integer array; c : boolean array; while - false + j0[3] * true : when case - 07 - 98 : when case 0 : chillax end; when case 3 : chillax end; pop end otherwise : chillax end end end

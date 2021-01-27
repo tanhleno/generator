@@ -1,0 +1,1 @@
+program P : main : do d(- true / false and(1) and 6 + J3[3] rem Q and 4 or true and 5070 - 0 - 27 = (8) * (3) + true, 1 * WY and 12 - true, false and 1 or 69 - 13 /= 63, 03 - 3); pop - not 42 + 5 - 74300; pop 5 <= 9; let vB4aa = array - 24100 - 4 end

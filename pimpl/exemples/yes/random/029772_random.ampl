@@ -1,0 +1,1 @@
+program T : JtX : takes u_, U : integer array returns integer array g, R9 : boolean array; H : integer; chillax end g : takes eN, O : integer array; n : integer returns nothing output 6 = 38 . "\""; pop 3; pop 5 end main : A5a : boolean; chillax end

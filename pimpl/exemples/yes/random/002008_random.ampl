@@ -1,0 +1,1 @@
+program X0C : M46 : takes Tf, p, Jyp, q, w7aa, j0 : integer returns boolean Y19aa : integer array; let D[- false] = array - (986) and 37 end main : HN, t, u, Geza, B : integer; tSXa, D4 : boolean array; SY3aa : boolean; N1m : integer; chillax end

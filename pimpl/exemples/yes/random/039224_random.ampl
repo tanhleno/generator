@@ -1,0 +1,1 @@
+program O9x : A0haa : takes G : boolean array; B, vNU0a : integer array returns boolean array HNS0 : boolean; B, s, CC : boolean array; Pu : integer array; h_ : boolean; Q4 : boolean; chillax end main : when case - false rem not(51500) : chillax end end

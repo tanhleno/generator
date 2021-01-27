@@ -1,0 +1,1 @@
+program N8 : b : takes k : boolean returns nothing chillax end o : takes f : integer; W, q, I, r, N, FY4 : integer array returns boolean array input DK; when case 8 : output "" end otherwise : chillax end end main : Vo : integer array; e4, o, TQ50a : boolean; do A1(- true >= false / false and 8, - T6[8] * true + false - 93 - 62500, o - 63 - 5, 796 - 1 = 8, 6) end

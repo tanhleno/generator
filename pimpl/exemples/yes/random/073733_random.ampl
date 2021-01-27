@@ -1,0 +1,1 @@
+program A : main : F, zL : boolean; R : boolean; B, i, UD : integer array; _af0a : boolean; input A; pop; when case - true and 2670 : do BTmaa(508, 72) end case - 5 < 1 : chillax end case 64 : chillax end; when case - 1 - 46 > 94 : chillax end case 1 = 50 : chillax end case 25 : chillax end end

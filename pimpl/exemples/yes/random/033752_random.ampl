@@ -1,0 +1,1 @@
+program F530 : _ : takes t : boolean; z, c, d : boolean; M, i1o : boolean array returns nothing T, N : integer; chillax end U : takes I, l : boolean array; z : integer array; JX1, m, f, _, R : integer returns boolean array chillax end main : pop end

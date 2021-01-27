@@ -1,0 +1,1 @@
+program PvJ0a : Jp : takes J : integer returns nothing chillax end o : takes Ts : boolean array returns nothing chillax end main : m6, rJ, wIS0a, t, U, t : integer array; do y(- (5) and false or 2 >= false / (1), - Tm[696] / M); do e38(bL60(02600) > - true - 14 - 6); let W[- Z15] = - 0 - 622 <= 6960 end

@@ -1,0 +1,1 @@
+program W7 : o : takes TJ : boolean returns boolean array jzNa, Md10a : boolean; while - not 2 and 66 + 6 : input h8M0a end end Gk : takes qpD : boolean array returns nothing pop 1 = 54 end y : takes yZ3aa : boolean; e, qx2, H, f : integer returns boolean chillax end main : g, _, Q : integer array; k, O, V, j : integer; pop end

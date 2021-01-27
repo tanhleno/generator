@@ -1,0 +1,1 @@
+program Z : main : k : boolean array; GAN0a, sG3, g : boolean array; e : boolean array; R : integer; j8i : integer; n, BZ60a : boolean; j : boolean; let v = array false or true and true - false; when case - false >= false and 7 : chillax end end

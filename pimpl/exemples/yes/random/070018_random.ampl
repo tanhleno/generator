@@ -1,0 +1,1 @@
+program OvU : main : C, D, iM0, A400a : boolean array; when case - true * true * sA and 83 + false * not 6 or false and 13 : let e = 62600 end case - true : chillax end; do Y(- false, - false and 44 /= - 39); output 86 end

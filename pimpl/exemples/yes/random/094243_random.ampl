@@ -1,0 +1,1 @@
+program X7 : main : pop - true + bu and 1 + 5980 - 268; when case l = - o or 23 : while 51 = 36400 : chillax end; input k[39800]; when case 0 : chillax end end otherwise : output "\t"; output "x" end end

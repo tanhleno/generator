@@ -1,0 +1,1 @@
+program T : r : takes q0, tD30, q, h5, G, zh : integer array; R15a, j : boolean array returns integer input F5; pop; input Jn2[93] end h : takes P, rq, f520, o : boolean array returns nothing let a = array 786 - 8 end main : chillax end

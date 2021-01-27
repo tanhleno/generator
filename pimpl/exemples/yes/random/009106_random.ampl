@@ -1,0 +1,1 @@
+program G : z : takes bj, DkJ0a, c : boolean; a : boolean array returns integer array chillax end main : pop; when case(8) rem(8) + (02) + 5 - 07 : when case 6 : chillax end otherwise : pop end; pop; do w(6230); let SY = 55; pop end end

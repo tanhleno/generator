@@ -1,0 +1,1 @@
+program _9 : u6R : takes p : boolean returns boolean array f : integer array; M, x, Ad : integer array; input S950 end z : takes Iv : boolean returns boolean do v50(- 02 = 63800, 604 = 6, 5, 87); let U[4] = array 80900; input FP; pop end main : pop end

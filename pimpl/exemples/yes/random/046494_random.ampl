@@ -1,0 +1,1 @@
+program lJ : _ : takes C2 : boolean returns integer array chillax end main : when case - not 65 / not false : chillax end; when case - 5 * not 8 : chillax end otherwise : let Q = array 0 end; let jL[5 and 1030 or 1] = 2 - 473; while 8 - 3 <= 56900 : chillax end; let d67[7] = array 8; while 1 : pop end; input A65; when case 99700 : chillax end end

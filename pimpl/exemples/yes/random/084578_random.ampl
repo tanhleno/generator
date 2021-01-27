@@ -1,0 +1,1 @@
+program M26 : main : KJ4 : integer; _T : integer array; while false - false rem false and 1 : chillax end; pop; do c8M(- not 736 and 3, 21800 - 53, 921, 7); output 963 = 8 . 1 . "9" . ""; while 936 = 54100 : while 0 : chillax end; pop end end

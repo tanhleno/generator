@@ -1,0 +1,1 @@
+program i7V : main : E2, o, s7 : boolean array; V5u, P, d, _, lu00, D : boolean; V : boolean array; go3 : boolean array; e : boolean array; z, FYk : boolean; when case - false rem(9) : chillax end otherwise : chillax end; input v8i[- true / B and 1] end

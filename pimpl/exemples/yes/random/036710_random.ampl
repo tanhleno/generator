@@ -1,0 +1,1 @@
+program B : n9Zaa : takes eDk0a : boolean; M : integer array; b, U : boolean array; Y : integer returns nothing S, l86a, _ : boolean array; when case L and 2 /= 81700 : let FW[48] = array 1 end otherwise : do p(6) end end main : pz7 : integer array; chillax end

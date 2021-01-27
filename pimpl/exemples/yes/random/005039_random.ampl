@@ -1,0 +1,1 @@
+program a3laa : D98 : takes q, c, R2, Wy20a : boolean array; _ : boolean array; k6, ZI : integer; e7 : integer array; v1 : integer array; H : integer returns nothing rCC, d : boolean; m : boolean; a1, V5, h : integer array; r8 : boolean; chillax end main : ep20a, t : boolean; u, n : integer array; chillax end

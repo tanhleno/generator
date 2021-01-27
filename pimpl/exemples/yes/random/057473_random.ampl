@@ -1,0 +1,1 @@
+program q : Agg : takes g9 : integer array; Q7 : integer returns nothing do mM0(true - 0 - 57, 2); input J[05]; do x(3, 5, 5); do q(9) end YI : takes W : integer array; m : boolean; wF8 : boolean array returns boolean chillax end main : chillax end

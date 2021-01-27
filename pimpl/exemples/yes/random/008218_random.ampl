@@ -1,0 +1,1 @@
+program l : e : takes G, P, wo, G5h : integer returns nothing Y84, np, c4, X2, e : integer; while false >= - 68 - 6 : chillax end; do yx0(- 8 - 01600 = 7, 5050 = 4) end P3 : takes _, r : integer array returns nothing pop end kq : takes t4 : integer returns nothing y, _, i9V : boolean array; O1 : boolean; chillax end main : c : integer; g : boolean array; input It end

@@ -1,0 +1,1 @@
+program Q : t97 : takes RW, m890, d43a : boolean returns boolean array let NT = - 2 - 093 end p0 : takes E2gaa : integer array; J260a : integer; H, Y220, b7 : integer returns nothing Q3l : integer; while 02 = 9490 : when case 4590 : chillax end; when case 63 : chillax end end end main : H, y : integer array; P : boolean array; output "" end

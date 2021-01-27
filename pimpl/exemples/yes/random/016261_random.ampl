@@ -1,0 +1,1 @@
+program m : d : takes y, u, N : integer returns nothing do L(- b and 584 = - 881); when case - 0 >= 674 : chillax end case 24 : while 976 : chillax end end; when case 87 : input A9h0; pop end case 4 : chillax end case 0 : chillax end end main : V, y, b82a, Q, D : integer; chillax end

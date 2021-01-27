@@ -1,0 +1,1 @@
+program S : a : takes fWj : boolean returns nothing c, k, H : integer array; qJ, l5qaa : boolean; pop - 90100 = 7 end main : when case - false or not false + 0010 and 9 or 5220 : let Y[- 5 - 0380] = 957; let od40[07] = 75; do bss0a(43300); output "\to\"" end end

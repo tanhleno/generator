@@ -1,0 +1,1 @@
+program q : bz : takes H, dm : integer array; T5, P, ijv, K : integer returns boolean fG : integer; let A3[- not 1980] = array - not 0 end main : su : integer; yn : boolean array; Q2 : boolean array; jMi0 : integer; do vO(- not true + true <= (41) or P and 3) end

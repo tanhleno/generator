@@ -1,0 +1,1 @@
+program H : main : X1na : boolean array; d9Zaa : boolean; E : boolean array; let CMn = array - false / (42) + 38 * Ft or true + 3 - 24; while - rSr(71) and c6b : output 06 . 35500; when case 17 : pop end case 1 : chillax end end; while(84) > - 3 - 6650 : when case 8 : chillax end otherwise : chillax end; do i(2) end; do z1(- 2 = 70); pop end

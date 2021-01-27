@@ -1,0 +1,1 @@
+program Au40a : y : takes EB0, H9, S : integer array returns integer k, A1, OM6 : boolean array; chillax end c : takes i : integer array; M, i2, fS, P : boolean returns nothing w : boolean array; chillax end WWWa : takes h : boolean returns boolean LW, J : integer array; bl : boolean; output ""; pop end main : chillax end

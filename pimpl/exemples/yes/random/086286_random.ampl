@@ -1,0 +1,1 @@
+program e : main : j3 : integer array; f, I : integer array; when case(688 = 9) and(130) * true and 7 - L7(7) + (796) and 05 <= - 07 / not 81 or WML - 798 : chillax end; pop - true and 2 - 7 >= - 60 - 9; input W9[I + 5 - 56]; when case - 3 - 06 > 7 : output "*"; do a(5) end case 34 : chillax end case 2 : pop end case 81 : chillax end otherwise : output ""; pop end end

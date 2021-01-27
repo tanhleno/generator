@@ -1,0 +1,1 @@
+program K : main : h : boolean array; gv3 : integer array; fg, Zg, l, i7_aa, k : boolean array; N9 : integer; while true and true + false and 5 and 2 or not 8 and 1 >= false : chillax end; do O0(- (7) rem I >= - false - 34 - 69); let Z = array not 0 and 7; pop end

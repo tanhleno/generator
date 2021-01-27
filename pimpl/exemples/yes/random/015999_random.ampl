@@ -1,0 +1,1 @@
+program d4 : ai : takes c, S8oa, Lp : integer returns integer array while not 5 - 6 - 7 = - 86 : pop 8 end; pop; when case 4 : chillax end case 5 : chillax end case 191 : chillax end; do r(29, 3) end main : chillax end

@@ -1,0 +1,1 @@
+program m : main : f : boolean array; M1 : boolean; Gc, j : boolean array; when case(2) / true and false - false and(4) > - 71 and n and 09 - true : input H[- 4710 - 9]; when case 99 : chillax end case 33 : pop end case 50 : chillax end otherwise : chillax end; do b0(3); let A0o = 0; do Z(4); pop end; while - not true - true : chillax end end

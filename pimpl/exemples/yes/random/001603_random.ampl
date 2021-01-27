@@ -1,0 +1,1 @@
+program d8 : C : takes q, VD90, h, g04aa, E, wct0a : integer; S, p, i5, nqha : integer array; A2 : integer returns nothing m, i, as : boolean array; let u0[false + 2] = - 8 - 8 end main : _ : integer; _4, IPTaa : boolean array; O4, UB, I : boolean array; pop end

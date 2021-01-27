@@ -1,0 +1,1 @@
+program C : G : takes wr, qT1 : integer; c, v8za, p130a, KS0, Xa, hj5, v5 : integer; Ek, g8, O, I580a : boolean array; xM : boolean returns integer chillax end main : let n = - 998 and 08 and 99 + true + 86300; do X((1) rem false + (1) and 4720 + 4 >= - (8) and 55, not 8 and 1) end

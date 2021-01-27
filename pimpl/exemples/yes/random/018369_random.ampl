@@ -1,0 +1,1 @@
+program Nl00 : y : takes B, q5 : boolean; M : integer array returns boolean array sG : integer array; while - true and 35100 >= - 49 : chillax end end main : do R(- a = (3)); when case(90) / Zkw and 4 - not 0630 and 8 /= 06 - 38 - 6850 : pop 5; while 5 : chillax end end otherwise : pop 5; let H5 = 765; when case 6880 : chillax end end end

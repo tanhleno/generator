@@ -1,0 +1,1 @@
+program W : main : when case U7(8) : while 06 - 95100 : while 200 : chillax end end; input o; when case 4 : pop end otherwise : chillax end; let QV = 4; pop; pop end case - false or not 53 and 32 + 90 = (83) : chillax end end

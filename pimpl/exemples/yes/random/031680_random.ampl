@@ -1,0 +1,1 @@
+program b : a : takes L, Z : integer returns boolean when case true and 06600 or 6 : do e(6770) end case 0 - 1 = 8 : when case 96 : chillax end; pop end end main : o7 : boolean array; H : integer array; c, a : boolean array; h0 : integer; chillax end

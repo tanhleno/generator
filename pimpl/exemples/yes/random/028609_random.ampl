@@ -1,0 +1,1 @@
+program Ki8aa : e : takes H, A : integer array; tB : boolean returns nothing e6 : integer; do h7(- false and 2, - 54 >= 6, 6, 3, 4) end y5 : takes G, i, P4e : boolean; a : boolean returns nothing F, j, Z6Da, b : boolean; w : boolean array; do P(0 - 6 < 932) end main : chillax end

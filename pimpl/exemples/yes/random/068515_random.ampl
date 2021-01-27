@@ -1,0 +1,1 @@
+program QBGa : main : I87a, jY, X, p, o, n0 : integer; Fu0 : boolean; V, P, bZ, PyY0, m : integer array; n : boolean; IUg : integer; g, h : boolean; Y : boolean; I : boolean; pop; input O65a[- (8) - 9 and 9] end

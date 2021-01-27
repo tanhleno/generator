@@ -1,0 +1,1 @@
+program V0 : main : f : integer; bX, S6 : boolean array; while(8 = 7) and 007 : pop 0; input I; input xhN0a; while 8 : chillax end end; while - true and(8) and 5 - false and 2 + 9 - 9 >= false and 2 : chillax end; input J6H end

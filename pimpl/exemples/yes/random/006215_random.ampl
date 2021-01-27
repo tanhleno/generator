@@ -1,0 +1,1 @@
+program f : S : takes ty50a, y5, _, q : boolean returns nothing y8 : boolean array; B02, K : boolean; do v(true > 6, - 588, 20, 2); when case - 2 - 4 : chillax end case 1 : when case 89700 : chillax end end case 8 : chillax end end main : l : integer; input T end

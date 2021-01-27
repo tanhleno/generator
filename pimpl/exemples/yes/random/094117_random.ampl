@@ -1,0 +1,1 @@
+program Yr4 : main : pop - not true rem d0M0 /= (4) or 8; do k1(false / (69) and 998 < - (7) and 1); when case - true < - 2 - 794 : chillax end case - 4 - 768 >= 0 : input q6Q0a; do c(2) end otherwise : input m; let m = 10; pop end end

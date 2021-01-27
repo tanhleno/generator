@@ -1,0 +1,1 @@
+program v : y6 : takes KY : boolean array returns integer chillax end cp : takes JM9a, Lg : integer; s840a : integer array returns nothing while 64 : chillax end end main : r : integer; o : integer array; Y : boolean array; chillax end

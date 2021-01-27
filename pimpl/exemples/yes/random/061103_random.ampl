@@ -1,0 +1,1 @@
+program F : w : takes I2 : integer array returns nothing a7K : integer array; do h1(99 < 6 - 4, - 6 - 30 /= 3); let Q[- 638] = array - 3; pop; pop end J : takes V : integer; O, C : integer returns nothing chillax end q : takes A : integer array returns integer array chillax end main : ys : integer array; chillax end

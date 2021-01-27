@@ -1,0 +1,1 @@
+program B : R : takes V : boolean; EM : boolean; a4o, X, l8 : boolean array; pX5a, S, f0 : boolean returns nothing uX, I, Tt4, GEO : integer; chillax end e : takes S, p : boolean array returns boolean chillax end main : do d(5 * not false * not 64000 - H0 / not 5 and 78, - not(55600) rem 0 - S5) end

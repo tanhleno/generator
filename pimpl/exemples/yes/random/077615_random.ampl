@@ -1,0 +1,1 @@
+program L17 : main : O68a, e : integer array; XR : boolean array; I : integer array; D780, s, Rt : integer; when case - true rem g6(449) rem true and 3 < - (2060) - false or 491 : input hG; let p[59] = 725; when case 9 : pop end otherwise : chillax end; let cZ4 = 5 end otherwise : chillax end; let B5[- false or(14) and 495 + 6] = array gDm0(6) or(53) and 2; input h end

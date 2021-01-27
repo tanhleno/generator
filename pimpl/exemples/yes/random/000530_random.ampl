@@ -1,0 +1,1 @@
+program p7 : P4 : takes SQ, _0, pC, Y1, t, S, mZ0, tv : integer returns nothing P7 : boolean; r4, f21, I : integer; Rt2, q, Q : boolean array; chillax end main : M, V5, q50a, D, x, O5C, U27 : integer array; chillax end

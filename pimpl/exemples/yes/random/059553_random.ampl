@@ -1,0 +1,1 @@
+program b : PK : takes ui : integer array returns integer output "\\3aa"; input M[- 83]; when case 5780 : chillax end end Y8 : takes b : integer returns nothing when case - 4 : chillax end case 26 = 7 : chillax end end main : input k[(20) and false / lMMaa]; while 4 - not 9 and 88 - 8 : chillax end end

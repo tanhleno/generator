@@ -1,0 +1,1 @@
+program R0 : IW4 : takes X, WC30, a : integer array; l : boolean; GNYaa, f : integer returns boolean AEja : boolean array; j : boolean; SCJ : boolean; tIDa : boolean; D3z0 : boolean; Sjs0a : boolean; chillax end main : chillax end

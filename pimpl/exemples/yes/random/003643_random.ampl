@@ -1,0 +1,1 @@
+program WyD : co : takes _, E5, v, Ox, I : integer array; F7 : integer returns nothing V, v, hk5a, Lc, F : integer; Y : boolean; uD : boolean; input Q[- (1) and 6 + 7 - 91] end HkU0 : takes M5x : boolean returns boolean array while 78 <= 1 : when case 5 : chillax end end; do H3(6 = 0) end main : z, I, Z, DSxaa, G, w : integer array; V1X0, U : boolean array; chillax end

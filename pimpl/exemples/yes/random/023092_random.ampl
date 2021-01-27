@@ -1,0 +1,1 @@
+program J8G0a : Jw8 : takes j, _ : boolean returns boolean array while - 51 >= - 8340 : chillax end; while 54 - 0 /= 45 : let d7 = 92 end end j : takes l1, n, IS, w, E : integer returns integer array when case 1 - 4 = 4 : input g3 end otherwise : let w = 7 end end main : chillax end

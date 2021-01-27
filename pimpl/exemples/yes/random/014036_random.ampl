@@ -1,0 +1,1 @@
+program Va2 : bu : takes z4, qW5, h : integer array; W, t : integer array; s5a, m : boolean array returns nothing M : boolean; S, ml, k, T : integer; chillax end main : s1 : boolean array; do d4o0a(Oq8aa[9770]) end

@@ -1,0 +1,1 @@
+program T : U980 : takes g8 : boolean array; CzB : boolean returns nothing W5, N : boolean array; n : integer; while - (24) > 996 : chillax end; when case - 0 : input K end otherwise : when case 62900 : chillax end end end main : while 05 + 6 rem false < (5) and(35) and 25 : chillax end end

@@ -1,0 +1,1 @@
+program w9 : W : takes x : boolean returns nothing chillax end B : takes P : integer array returns nothing output 8 . "26\"a" . ""; while 7 = 931 : output "k" end; when case 7660 : chillax end otherwise : chillax end end main : e8, YT00 : boolean array; B4 : integer; I4, z7c, b, g : boolean; chillax end

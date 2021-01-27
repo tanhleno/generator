@@ -1,0 +1,1 @@
+program yAO : main : while - H6e[24] * (81) and not 2 and 66 - false : output 5 = 72 . "D\ta" . 8500 end; when case - false and false + M5 and 14 : output 12 end case 3 - 9 - 3 /= - 41 : chillax end otherwise : while 8 : pop end end end

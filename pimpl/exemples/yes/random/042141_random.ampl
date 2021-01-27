@@ -1,0 +1,1 @@
+program j : y : takes D : boolean array returns boolean k, a : integer; chillax end s : takes O, o : boolean array; v58, i : integer array returns boolean k, wbV, H : boolean; chillax end main : G, I, M : boolean array; while - not(61) / true * 6 and 86500 : output "1\"" end end

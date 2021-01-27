@@ -1,0 +1,1 @@
+program Q6 : main : R, U : boolean; M : boolean; JkC : integer; S1Gaa, t : integer array; input j; pop - (83) + 08; when case - d and 2 + 0 - 44 : let AZ2[0] = 01 end case 3 : while 5 : chillax end; pop end end

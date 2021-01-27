@@ -1,0 +1,1 @@
+program l : e : takes m : integer returns nothing when case - not 7 > 138 - 41600 : chillax end case 27 - 241 < 8000 : chillax end end main : do l(- not true - not(89) - false and 91100 > - false or false or 4) end

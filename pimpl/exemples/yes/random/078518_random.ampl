@@ -1,0 +1,1 @@
+program a : main : P : boolean; m, F1R, o4, n : integer; do D(- true < true rem not 90500, - false and(7) > - not 704 and 8, - false or 3 - 4); while(935) + true or 98 - 1630 : chillax end; input x5[- 260 - 45 - 25]; pop 05 end

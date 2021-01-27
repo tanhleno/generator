@@ -1,0 +1,1 @@
+program n : T : takes J28, ou : boolean array returns nothing v5, iPhaa, bB, V3j, n : boolean; do w7(- true, 190 - 04) end C : takes GQ70a, v : integer returns integer chillax end main : t, w, N, Fi, v : boolean array; do H(- false rem false) end

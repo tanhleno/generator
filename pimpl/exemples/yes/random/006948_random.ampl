@@ -1,0 +1,1 @@
+program Fw : WK9 : takes y, i, o68, Th3 : integer array; o390a, g0, r2 : integer returns boolean array chillax end main : b57, i, K : boolean array; i0 : boolean; when case c / true and(5) + (290) rem true - 9 : chillax end case(62) / true and 94 - not 62 : chillax end end

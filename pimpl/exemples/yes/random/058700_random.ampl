@@ -1,0 +1,1 @@
+program a3 : i4A : takes T : integer array returns integer array do Y(- 304, - 26, 09 = 38); do E(- 461); pop; when case 63 : pop end case 71400 : chillax end; let b480 = 7 end main : q : boolean; chillax end

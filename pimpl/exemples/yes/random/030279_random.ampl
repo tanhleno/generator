@@ -1,0 +1,1 @@
+program x : sBd : takes d, v1w : integer array returns nothing chillax end rQ8a : takes N : boolean returns nothing when case 325 > 1 : output ""; input ZX; pop end otherwise : output "\\" end end main : chillax end

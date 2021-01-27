@@ -1,0 +1,1 @@
+program V : o : takes I : boolean array returns nothing while true = 254 : chillax end end a880 : takes cJ : integer; MZ : integer returns nothing chillax end _M : takes t, ES : integer returns nothing chillax end H14 : takes D8 : integer; A0 : integer returns boolean let d[93] = 2; when case 9 : chillax end end main : KX70a : integer; input gY[true / true] end

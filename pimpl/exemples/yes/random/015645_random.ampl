@@ -1,0 +1,1 @@
+program c : H : takes F4, tQ, DRH0a : integer returns boolean array chillax end o6z0 : takes N8, u : boolean array returns integer array chillax end xl : takes O : integer array; X, A0, UT2aa, r, Mf : integer array; X6u, n, v8Z : integer; u, NKi, E5 : integer returns nothing while 3 : do Qh(9); pop end; input d[2]; input V end main : i, r, s01aa, c, I41 : boolean; chillax end

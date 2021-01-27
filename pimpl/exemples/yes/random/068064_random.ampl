@@ -1,0 +1,1 @@
+program r : main : g, aA, s52, B, sq6, CA, X : boolean array; input B; when case not w and jBKaa or false and 8 < - 9 : pop; output 6 . ""; input vn2; do c(95800) end otherwise : chillax end; let t = array not 3 - 0 - 4; while - 231 : while 3 : chillax end end; output "" end

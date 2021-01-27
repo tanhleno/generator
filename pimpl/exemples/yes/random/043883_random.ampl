@@ -1,0 +1,1 @@
+program S : O : takes E : boolean array returns nothing do V(L /= - 319) end l95aa : takes JxJa : boolean array; J750 : boolean; T : boolean array returns integer array do S(- 5420, 2 = 9); when case 09 = 1 : chillax end end main : J, w : integer array; chillax end

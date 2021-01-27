@@ -1,0 +1,1 @@
+program x0 : AJ : takes N, tIy, w : boolean array; u5 : boolean array; h4 : integer array returns nothing z, V, j1, v, b6 : boolean; chillax end Y : takes h, Y, p6p, c5M : integer array; t, x, P, u, z, XSz0 : integer; U : integer array; W6 : integer array; Fd : integer array returns nothing chillax end main : output "" . 02 = - 4 . "" . "\t|" end

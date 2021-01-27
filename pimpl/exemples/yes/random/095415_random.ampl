@@ -1,0 +1,1 @@
+program j : main : when case(90) > - 3 and(5) and 5910 + 5 or 0 : chillax end case - i rem 41 + true <= - false and 8620 : input w; do P(0); when case 456 : chillax end; output "30!a"; pop end case - 7 and 5 = - 79100 : pop; let UGz = 2 end otherwise : pop 8 end; do YP(- true and(21) and 328 or true + 958); do U(- DsN0 - 92 - 8 <= - 8 - 5, 46700) end

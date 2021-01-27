@@ -1,0 +1,1 @@
+program K : f0Paa : takes A : boolean; V7 : integer; l : integer array; D : boolean; y8l : integer array; Yx : integer returns integer array Nl : integer; input G end main : when case not not true rem false and true >= F(63) : chillax end otherwise : output "[s0a" . 715 . "5" end end

@@ -1,0 +1,1 @@
+program u48 : R : takes M0V : boolean; sV, XP40 : boolean array; XSBaa : integer returns nothing chillax end a : takes d, s : boolean array returns nothing chillax end main : r4, d, P2 : boolean; m0, MG : boolean array; chillax end

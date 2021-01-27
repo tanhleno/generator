@@ -1,0 +1,1 @@
+program S3o0 : main : S36aa : boolean array; t : integer; output dA[115] > - 2 and 0410 + 2 . - (75) and 2 >= - 81; pop false and 94 /= - 256; output - 86 . 1; when case 4 - 94 < 62 : chillax end otherwise : input w end end

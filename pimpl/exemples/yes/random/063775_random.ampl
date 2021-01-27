@@ -1,0 +1,1 @@
+program Z540a : o : takes y2 : integer returns nothing chillax end n : takes h : boolean array returns integer while - 9 > 5 : output ";" end; let x0 = 2; let m2[1] = 6460 end main : u : boolean array; Zi, G24, k, I9N, r3 : boolean array; v, p : boolean array; t, t, TE : boolean array; ao8, F7 : integer array; chillax end

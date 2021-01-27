@@ -1,0 +1,1 @@
+program w2p : K : takes L2T : boolean array returns boolean array when case - (794) and 496 + 33 : pop 1 end case - 82 - 533 < 7 : chillax end otherwise : let r3 = 9; pop; pop end end main : chillax end

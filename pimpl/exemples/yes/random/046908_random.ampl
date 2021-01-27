@@ -1,0 +1,1 @@
+program d8 : w : takes x5 : boolean returns integer chillax end M65a : takes D, q : integer; g : integer; czl, y, b, m0i, e : boolean array; h3 : integer; T : integer array returns boolean Ip, E : integer; d : boolean; LJ, L : boolean; chillax end main : pop; let R8[true rem not 033] = - false; let seq[not 3940 + 72] = array - (0) end

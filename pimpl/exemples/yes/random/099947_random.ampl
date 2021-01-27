@@ -1,0 +1,1 @@
+program l : main : while true and not 9 : chillax end; let IM = array - 4; while false and 7 or 6 - 5 < 88 - 31 : do B8(7); output "U!0"; while 5 : chillax end end; input p0; when case 102 : chillax end case 5830 : pop end otherwise : chillax end end

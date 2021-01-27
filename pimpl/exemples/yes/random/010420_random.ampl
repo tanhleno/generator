@@ -1,0 +1,1 @@
+program A : Y2 : takes O, vK4, d : boolean array; C : integer array returns nothing cb : integer array; output - 19800 <= 3; pop 196 = 39 end main : j, R : boolean; Y, W_8 : integer array; chillax end

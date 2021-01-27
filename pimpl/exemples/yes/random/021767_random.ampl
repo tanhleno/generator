@@ -1,0 +1,1 @@
+program WJ : P : takes Q, BT20a : boolean array returns integer pop - 2 /= 0; pop; when case 403 = 59600 : chillax end; do n(6); let _ = 5 end o43aa : takes nHr0a, A, g3 : integer array returns nothing let r[3] = 3 = 40; do gM2a(0); input y[3] end C : takes bt20a : boolean; w, l : boolean; E, Dvf0a, V, _ : boolean returns nothing F : integer; chillax end main : chillax end

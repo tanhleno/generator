@@ -1,0 +1,1 @@
+program S : suI : takes et : integer array; sQ : boolean array returns boolean array when case - not 5 and 7 >= - 40 - 27 : output "" . ""; let b3 = 36500; input z8Z; pop end; while 9 - 6 /= 8 : chillax end; pop; input s end main : B : boolean; chillax end

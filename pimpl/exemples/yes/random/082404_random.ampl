@@ -1,0 +1,1 @@
+program ObG : main : iC20 : boolean array; let g5[- 1 and not true] = array - false and 93 - false + x and 25 or 179; when case - r[4] / (602) + true and 71 : chillax end otherwise : when case 888 : pop end; output "$"; output ""; pop end end

@@ -1,0 +1,1 @@
+program U7 : I810a : takes G : boolean; Cp, x350a : boolean; h : integer array returns boolean array n, y, _, KR, R : integer array; Mo, u, r : integer; chillax end main : r, p, P, w04aa : integer; i1, T, z, DZ, f0 : integer; Q3, r8 : boolean array; while zH : while - 6410 < 854 : do R(01000) end end end

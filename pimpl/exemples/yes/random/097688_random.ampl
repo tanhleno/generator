@@ -1,0 +1,1 @@
+program F6 : main : when case true or false : do m0(36 < 132, 091 = 4, 5730, 17); let m3[33200] = 42500; while 1 : chillax end end case - true > 3 and 03500 - 2 - 0 : chillax end otherwise : chillax end end

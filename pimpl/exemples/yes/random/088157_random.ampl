@@ -1,0 +1,1 @@
+program w5 : main : input eKE0a; when case - 2 = - true + 1 : while 3 : output "j"; pop end; do i(6) end otherwise : when case 4 : pop end case 4720 : chillax end otherwise : chillax end; output "\n\t0a"; let a7 = 74500 end end

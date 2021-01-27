@@ -1,0 +1,1 @@
+program PQ0 : main : P : boolean array; when case - (4490 = 3) and(4) / 9 and 231 - 7 or true or 396 - 4 : chillax end otherwise : chillax end; do vo70(true <= - false and 15 or 68 - 3, - M and 96 or 0 <= 127, 8); input p4R[B - 07 - 47]; do _(- 8 < 513); when case 3 = 6 : chillax end end

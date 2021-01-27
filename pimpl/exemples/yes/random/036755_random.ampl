@@ -1,0 +1,1 @@
+program L : EAg0 : takes b6 : boolean; E0 : integer array; N, y6naa : integer returns nothing chillax end I1 : takes G : boolean returns nothing let gt = array - 95 - 00900 end main : V, j, E, g5 : integer; J1, X : integer; output(5) - true and 806 >= - true . "7" . - 18 - 78 /= 89; let l[- not true * (881) and 2390 + A08 - 9] = - (75) and 66 /= - 56 end

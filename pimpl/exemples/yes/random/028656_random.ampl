@@ -1,0 +1,1 @@
+program l : X : takes z8e0, l : integer array; m5 : integer; l, D, s9 : boolean array; f, S : boolean array; h, ch : boolean returns boolean array z, _ : integer; Y1E, b9ba, B : boolean array; RL, g2 : integer; chillax end main : pop - l rem(57) end

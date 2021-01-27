@@ -1,0 +1,1 @@
+program Rt : O : takes S, Z : integer returns nothing DN50a : boolean; G11, w : boolean array; _, En, Y : boolean; PL1 : boolean; o09aa : boolean; do fFm(- (864) and 695 >= 2 - 48, - 86 <= 6); pop; output 0730 . "-" end main : pop true / B and 20 - (04100) and 65; do O(- (29) * not 3 /= xH and 807 - 5, true and 0 >= - 00 - 0); while - 67 and 0 : chillax end; do V6(8 <= 8) end

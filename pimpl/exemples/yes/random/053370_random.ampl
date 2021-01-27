@@ -1,0 +1,1 @@
+program q : Ce2a : takes T : integer; J : integer returns nothing pop 47 - 8 > 2 end main : output "" . - true and 53 - 35 > - 26 . 8 . ""; when case - 8 rem not 3 or true and 6 - 84300 : chillax end otherwise : do B0(9) end end

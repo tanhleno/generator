@@ -1,0 +1,1 @@
+program RC : w72 : takes h2, L, _ : boolean; q, M93 : integer array; Pt, r, KK, xR7a, h : integer array returns boolean t, _2, D, R, cK70 : integer; HVG, O1 : boolean; W, g, wB : integer; t : boolean; j : boolean; J : boolean; when case not 49 and 15 : output "" end case - 16600 >= 30 : while 0 : chillax end end otherwise : chillax end; let E = 3 end main : chillax end

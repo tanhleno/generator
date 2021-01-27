@@ -1,0 +1,1 @@
+program oY40a : main : GmZ0a, l, G3, h, ZK, n : boolean; A, n : integer array; when case - y7d0a[2] - true : chillax end; let c = 887 and 364 - 65; input cq80[- 03]; when case 96 - 5 : when case 1 : chillax end end case 13500 : let Yi3a = 2 end case 439 : chillax end case 2 : chillax end otherwise : do N(3) end end

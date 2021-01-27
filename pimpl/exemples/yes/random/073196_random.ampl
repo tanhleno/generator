@@ -1,0 +1,1 @@
+program r : main : k1, y, aPu : integer array; when case true rem not true < Ozf(0) and 896 and 0 + true or 115 - 2 : chillax end case 17 + false and 39100 - 2 - 422 = - false : while 6 = 7 : pop; pop end end end

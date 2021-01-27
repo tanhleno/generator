@@ -1,0 +1,1 @@
+program y : a : takes b4 : boolean array returns nothing C0ea, oa : integer array; h : boolean array; C06, B, a2 : boolean; let DN = 44 - 84 > 848 end main : B5, Ck, i0, l : boolean array; N, Ta50, G : integer array; xBw : boolean; let V[- true or false or _Y0a and 2 or 1] = array - true * false end

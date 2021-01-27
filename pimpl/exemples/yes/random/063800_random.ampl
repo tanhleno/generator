@@ -1,0 +1,1 @@
+program y : TP : takes j : integer returns nothing chillax end k : takes X : boolean returns nothing pop; do m(4 = 0, 81, 7); input I9d; let H = 3650 end main : O, z, y : boolean; t : boolean; pop - not not 0 * false and 1 end

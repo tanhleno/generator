@@ -1,0 +1,1 @@
+program s : S8 : takes B2 : integer; G, v : integer array returns nothing g, t : integer array; p, Cpj, H : integer; d : integer array; chillax end main : when case - 500 > - false - (7) and 481 : pop; while 9 = 7 : let q = 7 end end end

@@ -1,0 +1,1 @@
+program D : h : takes qo, r5 : boolean; I2 : boolean; o, az5aa : integer array; B, h : integer returns nothing chillax end c : takes l : integer returns boolean chillax end P6na : takes A : integer array returns nothing yi7 : boolean; l6y0a : boolean; let z[51] = 7 end main : chillax end

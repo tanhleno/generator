@@ -1,0 +1,1 @@
+program XN : T : takes l7r0, u, h : boolean returns nothing D : boolean; p, v : integer array; let NG[- bF] = - 7 > 0990 end main : n6 : boolean array; u, D0, Y, p83 : integer; q : boolean; sv0 : boolean; chillax end

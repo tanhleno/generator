@@ -1,0 +1,1 @@
+program H8 : Dbg : takes b, f, aF : integer; Z : boolean returns nothing output "" . "V"; when case - 308 : let p = 4180; output "=\""; pop end case 380 = 4 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program E : o : takes YL0aa : integer; J, u, osm, F : boolean array; W : integer returns boolean do f9_(true and 773 + 5 >= - 8 - 9); output 6330 = 7 . 601; output 895 . "\n_0"; output "" end main : chillax end

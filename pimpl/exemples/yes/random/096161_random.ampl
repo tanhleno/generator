@@ -1,0 +1,1 @@
+program z : main : when case - not(1) >= - not 5 rem false : let muy = array 909 end case - (054) / 8 - k3 <= - not 4 : chillax end otherwise : chillax end; let O25[(9) and(977)] = array - 44 or true - 320 end

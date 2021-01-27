@@ -1,0 +1,1 @@
+program wb6 : qM : takes b, k : boolean returns integer output - 7 >= 5 . 30 = 57 end V : takes n, EV : boolean; G, Pi : integer array returns nothing let E = array 724 - 37 end main : SQ8a, L : integer; ma40a, Yk, nv : boolean array; chillax end

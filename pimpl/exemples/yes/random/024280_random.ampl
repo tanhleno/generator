@@ -1,0 +1,1 @@
+program F7Qaa : Zm : takes d3x0a, G : boolean returns nothing Vp, Mw : boolean; t56 : boolean array; W : integer array; chillax end Q : takes b4, K4, K2 : integer array returns boolean array do b8(- 22000 > 6); output ""; when case 15 : pop end otherwise : chillax end; while 5 : chillax end; do X3w(5) end main : chillax end

@@ -1,0 +1,1 @@
+program X6T : main : o5y, Qz2, u58 : integer array; i4o : integer; q44a : boolean; when case 3 * true / false and 56 - false * true and 24 : chillax end otherwise : pop 20 end; let Pm[false + not 013 and 5190 + 2] = array - r[0] / 4 and 8 end

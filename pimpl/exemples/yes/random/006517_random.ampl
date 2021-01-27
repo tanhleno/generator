@@ -1,0 +1,1 @@
+program S7O : I : takes s, Co, l5, WrW : integer; TI8, w3Ua : integer array returns nothing chillax end g : takes s : boolean array; jE8 : boolean; l : boolean; m : boolean array returns nothing chillax end main : e, w740a, q4 : boolean array; chillax end

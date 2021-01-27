@@ -1,0 +1,1 @@
+program E1 : o : takes c, y, W, s95a : boolean returns boolean GcV0, y : boolean array; Irc0 : integer array; chillax end f : takes I, J, P9 : boolean; C, m : integer array; M740, v : boolean array returns boolean array chillax end main : pop end

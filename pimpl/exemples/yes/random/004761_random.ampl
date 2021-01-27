@@ -1,0 +1,1 @@
+program q : z : takes P, x, OE70, bM : boolean array; xI5, pKjaa, It, a : boolean returns nothing while - true and 8 + 17 : pop 4; let C = 0400 end end KLca : takes n, CPC, Z : integer array; V6E : integer array returns integer T, m : boolean array; chillax end main : W8 : boolean array; let b1 = array not 8720 and 85; output "\n" end

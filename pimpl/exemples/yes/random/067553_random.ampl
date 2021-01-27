@@ -1,0 +1,1 @@
+program ae : main : do yl(62 * not(011) * not 0120 and 54 + true + not 125 and 1); when case - (8) - mb and 63 : chillax end case - 63 + 219 - 4 <= - 1530 - 52700 : chillax end case - 09 : chillax end case 5 : chillax end otherwise : when case 630 : pop end end; let dj = array not 84 or 65 end

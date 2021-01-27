@@ -1,0 +1,1 @@
+program l9Waa : main : E, w, Au : boolean array; pop; input a1; while(9) : let D[96] = 0 end; when case - 3 - 56200 : chillax end case 3 = 56 : while 93 : chillax end; pop end case 901 : chillax end case 77 : chillax end otherwise : chillax end end

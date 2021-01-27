@@ -1,0 +1,1 @@
+program Y : a : takes nij : boolean; D7, h8, u7 : integer; lO : boolean array; A : integer; H7, p, Z, hl : integer; n, jg, wy : boolean; d, r : boolean returns boolean array X5f : integer; u, w, B8a : boolean array; s65 : integer array; when case - 29 and 1 : chillax end case 5 - 3 : chillax end; output "" . 9 end main : input O1K0 end

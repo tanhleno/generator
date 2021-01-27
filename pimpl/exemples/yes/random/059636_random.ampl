@@ -1,0 +1,1 @@
+program S8J : E0M : takes m : integer array returns nothing chillax end w : takes bL, Y100, UT, R, r5 : boolean; Fm6aa, I : boolean; U04a, eg8aa, fr, F5 : boolean returns integer Q : integer; m : integer; j460 : boolean; fW : boolean; m4p0 : boolean; chillax end main : chillax end

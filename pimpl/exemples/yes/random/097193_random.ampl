@@ -1,0 +1,1 @@
+program _ : main : when case not e : output 79900 . "" end otherwise : chillax end; do E((496) rem true); pop - 9 >= 40300; do Y(- 9 - 97 /= 44, 6); when case 13 : chillax end case 53700 : chillax end case 5 : chillax end end

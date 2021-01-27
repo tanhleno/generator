@@ -1,0 +1,1 @@
+program d5 : e64 : takes f3, J, P2 : integer array; P, c : boolean array; X : boolean; O, z7 : integer; w6 : integer; Z, Z : boolean array returns nothing input X1q[- false - 4] end main : output - (83000) or false and 8 <= 71 + 410 - 9 . "" end

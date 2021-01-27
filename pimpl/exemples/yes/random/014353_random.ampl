@@ -1,0 +1,1 @@
+program h_6 : E : takes F5, w, mAw : integer array; d7 : boolean returns nothing chillax end p : takes E : integer array returns boolean array n, A : boolean array; WEY : integer; do b(- 0 <= 78); do g(0 = 9) end main : do W(T(27300, 61) rem _, - (61) rem bjl0a and 93 or false, - Q or 2 - 81900) end

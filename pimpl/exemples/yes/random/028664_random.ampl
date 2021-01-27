@@ -1,0 +1,1 @@
+program iE : C94 : takes TSw, L : integer array; d : integer; d8, f, C8 : boolean returns nothing Xnr, xx50, BkG, J7Pa : integer; chillax end g : takes R, c : integer returns nothing do T(- 6470, 5) end main : yE0 : integer array; gJ, Cw : boolean; iF : integer; chillax end

@@ -1,0 +1,1 @@
+program p : main : when case - (9) / (1) rem Mq1 or false / U >= (472) or I5 : chillax end case false - not 48 >= false and 5790 or 9 - 2 : output 1 . 2 . ")"; output 2 . "" end otherwise : output ""; input d; while 4870 : chillax end; when case 428 : chillax end; pop end end

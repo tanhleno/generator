@@ -1,0 +1,1 @@
+program _4 : main : A68 : boolean; do i9o(44 < - true rem not 3610); while - not 52 = 11 - 2 - 4 : input c4[5]; do i(39, 93) end; output - 7 > 6470 . "\n%0" . 3; pop 96; when case 46 : chillax end case 9 : pop end; pop end

@@ -1,0 +1,1 @@
+program vO70 : N : takes k : boolean array returns integer array pop - 7 - 5 end a : takes N2, fw60a, O, A, G9Ja : boolean returns nothing chillax end _U : takes s0v, y, d : boolean returns nothing w16, k, E9 : boolean; output 8 . "\n"; let e[5] = 2 end main : X5, o : integer array; z8, d : boolean; s6, P : integer array; chillax end

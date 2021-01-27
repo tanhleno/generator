@@ -1,0 +1,1 @@
+program E : WK : takes F : integer returns boolean array while - not 9 and 98 >= 0 - 1580 : pop 8; do l(7); let O = 1; pop end; while - 221 > 278 : chillax end end main : gO6, L : boolean; let j = (3860) and 7 and 8 /= - false end

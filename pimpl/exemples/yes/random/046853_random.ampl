@@ -1,0 +1,1 @@
+program E : p4 : takes KTt0a : boolean returns integer array when case - true and 1 <= - 2 - 843 : chillax end case 74 > 10 : chillax end; input gY; output "K\""; when case 221 : chillax end case 6 : chillax end end main : pop; do S(- 3 <= - 42 and 31 - 0 - 13); output - 16300; input Y[58 - 7]; input nu[2]; output 7 . "3"; output ""; while 4 : chillax end; pop end

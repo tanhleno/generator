@@ -1,0 +1,1 @@
+program SH : main : _6 : integer array; E3, C1, y7paa : boolean array; pop(95) + 918 and 76800; input mc; while - 1860 and 5 + 8 - 8 >= - 34 - 09 : when case 6270 : pop end otherwise : chillax end; when case 04 : chillax end; while 22100 : chillax end end end

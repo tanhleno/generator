@@ -1,0 +1,1 @@
+program c6 : n : takes U, W6f0 : integer returns nothing let gIYaa[false and 8 or 0] = 94 - 26; let b1[- 853 - 68600] = array - 9; do nl(0); let B = array 32200 end main : f9 : integer array; when case - false rem(96900) and false and 8 : let k[4 - 7] = 59 = 1; output "`" end otherwise : while 92 = 4 : output "\t" end end end

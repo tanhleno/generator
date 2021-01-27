@@ -1,0 +1,1 @@
+program L : u : takes Q : boolean; T : boolean array; m92, M : integer returns boolean while - N and 31 < - 36 - 7 : let uG[5] = 28100 end end F : takes Q, w3, H : integer; XCoaa, k6, y : boolean array returns integer array Pj, K9, D6 : integer; D, U0, B : integer; O, iS4 : boolean; input S end main : hWzaa, U : boolean array; X50, _B4aa : integer; chillax end

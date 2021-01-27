@@ -1,0 +1,1 @@
+program BK : main : when case - (08300) rem(8450) or(589) = not true - (423) : chillax end case - false * qz2 and 3 <= not 704 : chillax end case - true or 55600 - 0900 < - 0 : output 82; let h690 = 8; while 5 : chillax end end case 9550 - 97 > 17 : chillax end otherwise : chillax end; output - (3) - 1 <= - 3; input N; let Y2[55 - 7] = 1 = 5 end

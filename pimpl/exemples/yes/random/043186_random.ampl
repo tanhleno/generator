@@ -1,0 +1,1 @@
+program z3Uaa : X63 : takes oHL : boolean array returns integer b : boolean; output 8 - 1; while - 3 /= 664 : when case 2 : chillax end; while 5 : chillax end; pop end; let j = array 1 end main : chillax end

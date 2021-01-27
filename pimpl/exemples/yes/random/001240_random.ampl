@@ -1,0 +1,1 @@
+program D19 : O : takes Lv, B, G26a, N, B, U5 : boolean array; x6, a28, zGaaa : integer array; J, a6, Gij : boolean array returns integer pop; when case 9 - 0 <= 9 : let po = 5; input H end case 5260 : when case 97700 : chillax end; pop end case 49 : pop end case 4 : chillax end otherwise : output "" end end main : chillax end

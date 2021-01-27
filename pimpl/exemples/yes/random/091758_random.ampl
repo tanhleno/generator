@@ -1,0 +1,1 @@
+program e : main : output(4730) + not 1 /= - not 04 + 3 - 4 . "\tV\""; output ""; do wIca(- (14) or 133 <= 461); do g7(478 - 464, 1, 5, 71); output 36 . 1; when case 171 : chillax end; input Aeya; let h2 = 7 end

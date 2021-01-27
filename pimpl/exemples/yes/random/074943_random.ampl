@@ -1,0 +1,1 @@
+program Q : main : xL0a, HPJ0a : boolean array; e, w : integer array; IlS : boolean array; when case - (5580) * (74) rem true - true and true : chillax end case true < - not 6 and 987 + 1 - 9 : chillax end case - false + 7 <= 06 - 43500 : chillax end case - 269 : chillax end; pop end

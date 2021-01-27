@@ -1,0 +1,1 @@
+program YJ : A0 : takes L9 : boolean returns boolean let B = 8 - 7; while 61 - 56 > 14500 : chillax end end main : l, V0, OX6 : integer; do j((2) < 5); when case false : chillax end case(963) and 3 /= - 75 - 61 : pop end case - 9 - 11 > 8 : chillax end end

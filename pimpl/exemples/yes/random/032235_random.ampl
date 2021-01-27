@@ -1,0 +1,1 @@
+program Q32 : M : takes B, J50aa : integer returns nothing chillax end v6 : takes I, O7 : boolean returns integer array Ta : integer; chillax end Y : takes Ova : boolean array returns boolean while 76 : input WdK end; pop; pop end main : y, D0Aa, s5, yty0a : integer array; chillax end

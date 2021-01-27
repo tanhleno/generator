@@ -1,0 +1,1 @@
+program qEX : J4J : takes I, Z5A0a, Z : integer array returns nothing z, z, B2 : boolean array; y : boolean; let Rx[(1) and 9 - 3] = array - ufI - 0440; pop 6 end j3 : takes J, L, N : boolean returns nothing pop 68 = 94; input e[4] end main : E : boolean array; OOK, bcqa : boolean; v4, p, K97, y7F0 : integer array; chillax end

@@ -1,0 +1,1 @@
+program Y : BR : takes VNEaa, t170a, R : boolean returns nothing A : boolean; K : boolean; chillax end zX : takes DB70 : boolean array returns boolean array input e82a end R : takes i, _ : integer array returns nothing h7r, Z, Ho : integer array; n : boolean; u : boolean; d : boolean; input Z[4] end main : chillax end

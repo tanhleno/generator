@@ -1,0 +1,1 @@
+program V : G6za : takes EYv0a : integer array; W1 : integer; F9 : integer returns boolean array t4 : boolean; chillax end main : b1 : integer array; Q : integer array; E1 : boolean; output not(01) or 63 and 1 . "\"" . "-\"" end

@@ -1,0 +1,1 @@
+program l : R : takes v, k, G1, i : boolean; s8Z0 : integer array; C, v180a, YUJ : boolean array returns boolean g, HA, v : integer array; chillax end ssv : takes e, e : boolean array returns nothing let R[82] = 15 = 1 end main : chillax end

@@ -1,0 +1,1 @@
+program R2 : main : when case true : when case 08 - 70 = 105 : input l; while 5000 : chillax end; pop end case 25 = 9 : when case 3330 : chillax end end case 06600 : pop end case 8 : chillax end otherwise : do K3(8) end end case - true = true and 8 : chillax end; pop; do y87(- (1250) and 69 - 0); while - 27 = 66 : let qD2 = 8 end; let X = array 5 end

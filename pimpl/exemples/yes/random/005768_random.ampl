@@ -1,0 +1,1 @@
+program D : p7 : takes dTi, O, k, f : boolean array returns nothing when case - false and 17 + 4 : chillax end otherwise : chillax end; pop 0 end mr1 : takes i, O : integer returns nothing do X(7 - 8 <= 7100); output "%7!a" . 8 end main : Cw7 : integer; w, e0 : boolean; chillax end

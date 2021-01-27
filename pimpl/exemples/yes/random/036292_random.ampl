@@ -1,0 +1,1 @@
+program H : x : takes f1 : boolean; Km80a : boolean returns nothing AT4, P5, A2u, e950a : integer array; GG : integer array; N, RE9, PW : boolean array; chillax end L : takes l : boolean array; I : boolean; F9F : boolean; IW, v7O0a : integer array; u : integer array returns boolean array input A7R0 end main : let D = array - (7 = 667) end

@@ -1,0 +1,1 @@
+program rB : z : takes xQ, o2 : boolean; a : boolean array returns nothing k : integer array; Q, f, c : integer; chillax end main : a, U : integer; HR, AYm : integer array; _ : integer; let X[56 and(592) * U and 73 + not(51)] = - 18200; output "#" . 7 - 8 >= 69; while - (810) + 1 - 32 : do x8(2) end; input r end

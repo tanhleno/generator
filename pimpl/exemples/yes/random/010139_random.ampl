@@ -1,0 +1,1 @@
+program q : ed : takes z, i, B : boolean array; a45 : boolean array returns nothing chillax end t : takes g, S23aa, ou80 : integer array returns nothing chillax end D0r0 : takes N, k : boolean; yXNa, m48 : integer array returns nothing T, ie : boolean array; o, V : boolean; Tf5aa : boolean; s : boolean; let w3 = array 4320 end main : chillax end

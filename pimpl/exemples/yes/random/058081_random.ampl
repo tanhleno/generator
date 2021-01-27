@@ -1,0 +1,1 @@
+program H : T : takes f : integer array returns boolean chillax end V : takes x : integer array returns nothing chillax end n : takes hF : boolean; d, NB_ : boolean returns nothing Ml40 : boolean; chillax end main : s9_0, Z, E33, H : integer array; Q_, Ei, M : integer; chillax end

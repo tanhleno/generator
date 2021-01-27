@@ -1,0 +1,1 @@
+program rmq : M : takes x : integer array returns nothing U : integer; H : boolean array; while - G and 4 : output 4 . "7+" end; let U[- 52 - 8] = array 01 - 2 end main : uLyaa, X : integer; chillax end

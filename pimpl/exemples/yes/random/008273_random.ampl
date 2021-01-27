@@ -1,0 +1,1 @@
+program g : T6 : takes J, e, s6, m3c : integer returns nothing d, LN : boolean array; mUy0 : boolean; W, g8, eBna : boolean array; cb8a : boolean; input n end main : EI, T, bwyaa, o : boolean; N, _, r2L : boolean array; L, v3b, e : integer; S : boolean array; H, V, Z : integer array; MN9aa, d : boolean; W : boolean; chillax end

@@ -1,0 +1,1 @@
+program z : main : pop - 6 <= false or 4; while r[6910] and not 08 + u and 1 > false and 3 : chillax end; do m0l(993 and 23 > 38 - 77, - 2870 - 4 > 7); while - 9 <= 1 : while 90000 : chillax end end; output "L" . 43 end

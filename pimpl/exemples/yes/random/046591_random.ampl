@@ -1,0 +1,1 @@
+program t : P7 : takes c : boolean returns integer array za, G : boolean; let R23 = array true and 4 - 8 end k61 : takes y5Daa : integer array; K : integer returns boolean p, ts : boolean; X, S, y540a : boolean; M1 : boolean; _ : boolean; input vK[- 825] end main : R, X, Cr, Q : boolean array; chillax end

@@ -1,0 +1,1 @@
+program X5 : main : when case - (8) / F[63] rem N + true - (80800) : chillax end case - (7) rem(1) and 7 : chillax end case - false and 8 + 7 >= - 7 : pop; input hcZaa; when case 1970 : chillax end end; let r[- 8] = array 4910 end

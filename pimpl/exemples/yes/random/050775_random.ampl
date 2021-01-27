@@ -1,0 +1,1 @@
+program S : qb : takes lB : integer; W_f, a7Vaa : boolean returns nothing YuKa : boolean; while(73) and 1 : let T61a = 70 end end main : let SeA0a[- f(9, 50) + true - 41 or 3] = - 112 or K6h and 2 end

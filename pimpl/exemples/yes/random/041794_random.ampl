@@ -1,0 +1,1 @@
+program OV : p5 : takes p : boolean array returns boolean array a : integer array; N0 : integer; pop - 69 <= 79 end G : takes Vxe, r19 : integer array; A : boolean; Y, l, N : boolean array returns boolean C, Z37a, R620 : integer; gR, p, P : integer; chillax end main : o2 : integer array; G28aa : integer; cs0, Yzxaa : integer array; do D4(- 37) end

@@ -1,0 +1,1 @@
+program gu : t : takes f6, f7 : boolean returns nothing y, t45, P6N : boolean array; E : integer array; L, x : integer array; l, I57 : boolean; chillax end Fa : takes U, q : integer array returns integer chillax end main : output "" . ">;0" . "\\-aa" . ""; input E end

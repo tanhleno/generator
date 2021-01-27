@@ -1,0 +1,1 @@
+program i8 : u : takes a04aa, M : integer array; x9 : integer returns nothing d9, vw0, f, J56, OJ_ : boolean array; chillax end f : takes s : boolean array; J97aa : boolean array returns boolean m2L, _ : boolean array; W, ui : integer; S : boolean; g : boolean; output ""; when case 204 = 9410 : chillax end; do e4(2, 2) end main : chillax end

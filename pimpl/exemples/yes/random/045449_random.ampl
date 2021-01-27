@@ -1,0 +1,1 @@
+program b970a : R : takes GDU : boolean returns boolean array chillax end main : xC, Z, f : integer array; oD4, u : integer; X, i0J, Oe : integer array; Dn, Q, d : boolean array; while - E080(61) >= 449 : pop end end

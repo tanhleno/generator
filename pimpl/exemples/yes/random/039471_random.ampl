@@ -1,0 +1,1 @@
+program s9 : e : takes F3 : boolean array; B, W : integer returns nothing output - 5 - 3 > 9 . "0" . "@\"aa"; while 83 - 175 : pop; pop; pop end; do O8(091, 72, 3); while 8 : chillax end end T : takes Ug5a, Ud, WK1, Z : boolean; y5, T630a, j : boolean array; Q : integer returns nothing y, N : boolean array; chillax end main : chillax end

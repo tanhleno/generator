@@ -1,0 +1,1 @@
+program d : BG2 : takes _p6a : integer returns integer G : integer; do Q((4) and 7) end qB : takes k3wa, e : boolean; V, z, e : boolean; A3 : boolean array; S : boolean; d : integer; V : boolean returns nothing chillax end main : chillax end

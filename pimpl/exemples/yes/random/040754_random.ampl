@@ -1,0 +1,1 @@
+program z47aa : B : takes tud0 : boolean array; Yg : integer array; g7, X, o550a, l : integer; X : integer returns boolean output "3" end main : TC : integer; _, z6, X, fs3a, i1, A6 : boolean array; u40 : boolean array; chillax end

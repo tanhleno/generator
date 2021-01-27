@@ -1,0 +1,1 @@
+program S3 : ME : takes I, J9 : integer returns boolean D6, H0 : integer; chillax end main : output o48(0) < i6L and 4 - 4 - 832; do vA(F610a(96) /= not 0, true - 4 - 5 >= - 9790 - 6); pop; let b[- 18] = array - 1 - 62 end

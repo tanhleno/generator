@@ -1,0 +1,1 @@
+program axR : u : takes uiN, P1 : integer returns integer array LO1 : boolean array; Z6 : integer array; w, LQ, R : boolean array; chillax end main : bOpa, nP, m9, Y9 : integer array; do C6(80 - false rem true >= - (23), 96 /= - (4) and 57, 77 or 6460 - 6, 53); let a4 = - (997) and 52 end

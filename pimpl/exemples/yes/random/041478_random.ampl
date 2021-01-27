@@ -1,0 +1,1 @@
+program y : ZwMaa : takes rw : boolean array returns boolean array chillax end C : takes p3 : boolean array returns nothing chillax end main : let v6 = not not 9 * true and 20 or not 8 - 577 - 3 < 3 + 6 - 6; while 39 > true and 129 : chillax end; pop; let ldI[- 466 - 6] = 5 = 05 end

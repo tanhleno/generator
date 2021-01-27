@@ -1,0 +1,1 @@
+program Q : H : takes V7 : boolean returns nothing pop; output 212 = 8; output 4; while 7 : chillax end end main : VG : integer; pT : integer; when case false and h(536) * true - (8) - 5 : chillax end otherwise : let tj0 = 1 end end

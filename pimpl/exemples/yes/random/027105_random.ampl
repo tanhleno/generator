@@ -1,0 +1,1 @@
+program q : a : takes u, S4V : integer array; rZ10, J, r4, S, L : boolean array returns nothing o, l8 : boolean array; W, W, o, UY : boolean; C : boolean array; O : boolean; when case - (74) and 2 - 0 - 597 : chillax end; while 003 : pop; pop end end main : output - (73) - not 146 <= - not 0850; do C(- true) end

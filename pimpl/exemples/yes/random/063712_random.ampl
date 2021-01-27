@@ -1,0 +1,1 @@
+program mqe : mT80 : takes y : integer returns nothing chillax end G65a : takes FwRa, g8 : boolean array returns nothing input n2; when case 26 : chillax end otherwise : pop end end main : chillax end

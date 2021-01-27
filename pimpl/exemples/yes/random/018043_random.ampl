@@ -1,0 +1,1 @@
+program cj6 : t : takes H250a, z : boolean; J : boolean returns nothing chillax end main : X : boolean array; EI90a, s, N82 : boolean array; do P4((3) * 70, - (9350), - false); output - true + 414 <= 40000 - 1; pop end

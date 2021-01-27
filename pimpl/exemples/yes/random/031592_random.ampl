@@ -1,0 +1,1 @@
+program G540a : A : takes o, DC5 : integer returns boolean h : boolean array; BY, N, G, aa : boolean array; chillax end L : takes e, c4E0a : boolean returns integer array Clm0, SA : boolean; V920a : boolean array; chillax end main : Ox4a : integer array; s6, w1 : boolean array; S : boolean; f : integer array; T : boolean array; W : boolean; input gO20[- l[2]] end

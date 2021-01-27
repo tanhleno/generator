@@ -1,0 +1,1 @@
+program Up50a : main : r : integer; when case not(83600) * 746 or false * true >= - false and true : chillax end case - L / r and 154 or w9 or 908 - 64 : input o; pop; when case 0 : chillax end; output ""; pop end otherwise : chillax end end

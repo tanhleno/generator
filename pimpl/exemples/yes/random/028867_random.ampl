@@ -1,0 +1,1 @@
+program cF : n170a : takes f, I7Z : integer array; W : integer array; la5 : boolean array; j0 : boolean; _060, L : boolean array returns integer output "I"; while 4 - 3 : chillax end end main : b : integer array; pop; pop true = - 2 end

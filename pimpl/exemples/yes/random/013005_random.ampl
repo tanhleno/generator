@@ -1,0 +1,1 @@
+program P : ke : takes d, v8I0, T : integer; Ho, s : integer array returns boolean chillax end G : takes B, F, X : boolean array returns integer N9p0, o : integer array; chillax end main : pop; do C(- Pzn(83) > L and 27) end

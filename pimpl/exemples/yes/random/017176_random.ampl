@@ -1,0 +1,1 @@
+program Fi : m : takes e, r2Va : boolean; w69, arEa : boolean; Bz : integer array returns nothing i, J_, j, a_, I_X : boolean array; while - (5460) <= 970 - 76 : let TG = array 0 end end qk5 : takes sE, M59 : integer array returns nothing chillax end zG4 : takes I, H, h46, i, Io : integer array; i : integer array returns nothing uz, X3 : integer; chillax end main : chillax end

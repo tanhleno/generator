@@ -1,0 +1,1 @@
+program PZ : main : m, AUf, qYO : boolean array; when case - true and not V + (5) / g and 77 - true or 0 - 5 > - N5g or false and 6 : do PR(- 2 - 1 <= 151, 7 = 9) end case a[28] : input g[36] end otherwise : chillax end; let b[- not not 8] = 17 end

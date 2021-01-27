@@ -1,0 +1,1 @@
+program t : main : when case - false and(25) : pop 296 end case - true and not 8780 < - true + 892 - 775 : do V(0 = 9930); while 50 : pop end; while 6 : chillax end; output "2f" end; while(5) / true and 057 - true : pop end end

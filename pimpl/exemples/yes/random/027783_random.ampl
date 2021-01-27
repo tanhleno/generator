@@ -1,0 +1,1 @@
+program _f : _ : takes f, C : integer array; OKNaa, T : boolean returns boolean P9, j : boolean; n : integer; do c3(- false and 1 <= - 0) end z : takes v02, j0v : integer array returns boolean array let Q = 0 = 7; input L[511] end main : v9Q0a, J, X : integer array; PP1 : integer; let v[true rem F4[5920] and true and 3 or not not 55] = array not not(2) and(7) and not 15 end

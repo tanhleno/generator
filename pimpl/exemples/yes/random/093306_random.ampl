@@ -1,0 +1,1 @@
+program z : main : output "\n" . true; input F900a[4840 * not 21 and 6]; when case not 7 and 57 - 22 - 3 : when case 479 : chillax end case 25 : chillax end otherwise : chillax end; input r; when case 8 : chillax end; pop end end

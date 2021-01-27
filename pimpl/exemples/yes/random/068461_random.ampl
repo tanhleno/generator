@@ -1,0 +1,1 @@
+program L : main : n, N, a, k3, n, T7 : boolean array; output ""; pop - true <= 0; when case - a - 8450 - 0 = - 661 - 1 : chillax end otherwise : chillax end; when case 1 > 1 : chillax end otherwise : chillax end end

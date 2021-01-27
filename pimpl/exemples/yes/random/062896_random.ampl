@@ -1,0 +1,1 @@
+program Bg : J : takes x : integer returns integer array wiIaa, wfLa : boolean array; chillax end main : I9 : boolean array; H, x3, d, I : boolean array; when case false + H[439] /= - not 0 and(83) : chillax end case 8 rem false or h + 5 <= 1 : chillax end case false or 7 - 6 : chillax end case - 8 - 2090 : output "43"; while 0 : chillax end end otherwise : chillax end end

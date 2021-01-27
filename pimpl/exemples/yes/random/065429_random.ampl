@@ -1,0 +1,1 @@
+program ZPe : n : takes a : integer returns nothing pop 49700 >= 96 end M : takes o : integer returns nothing j9, DGB, r, P : integer array; lu, T, f : boolean array; _x : boolean; Frr0a : boolean; K510a : boolean; chillax end main : chillax end

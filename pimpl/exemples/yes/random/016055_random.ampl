@@ -1,0 +1,1 @@
+program wpI0a : N54a : takes e8, A, R6n : integer returns integer w, s8P0 : boolean; input DiI[false or 7] end JT : takes M, XMe, a9, p4, Lioaa : boolean returns nothing output "" end main : yo, O5 : boolean; chillax end

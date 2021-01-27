@@ -1,0 +1,1 @@
+program M02a : l2 : takes S : boolean array returns nothing input s9[856] end C : takes nG : boolean returns nothing h : boolean; chillax end E : takes ph4 : boolean array returns boolean array chillax end Kcx : takes J : boolean returns nothing chillax end main : chillax end

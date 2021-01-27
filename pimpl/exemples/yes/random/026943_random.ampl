@@ -1,0 +1,1 @@
+program x6K : TD : takes tR, v : integer; Q : integer returns nothing chillax end Q : takes Y, i, u, VfHa : integer array returns nothing _4 : integer; R4S0, m0L0a, q : integer; u24 : boolean; c : boolean; output "" . "" end main : T : boolean array; u, N6 : boolean; M : integer array; when case(20 = 6) and not f2 and not 149 + false or not 6 or 774 < - true : chillax end end

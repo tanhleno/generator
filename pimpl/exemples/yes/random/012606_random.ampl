@@ -1,0 +1,1 @@
+program l : o : takes F2J, d47, X : integer; w, _2baa, gIZ, Dr5 : boolean; w, A, Q : boolean array returns nothing do J(- true and 2 or 6 - 85); let s8l = 0 = 3; pop; output "\t"; output ""; while 71 : chillax end end main : chillax end

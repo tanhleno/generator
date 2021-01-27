@@ -1,0 +1,1 @@
+program vu : main : t9, D : integer; when case false - false >= - false rem 6 : do q2(- 8 - 054 = 14) end otherwise : chillax end; while - false - true and 872 <= not 27 and 1 : let U6[6] = array 31900; do H(6); let wZ = 0 end end

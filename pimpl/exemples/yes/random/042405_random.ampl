@@ -1,0 +1,1 @@
+program A : GwR : takes a : boolean array returns integer array chillax end A : takes Uc60, r5g0a : boolean; b, v19, i : boolean; w5 : boolean array returns boolean array pop end main : Z, v, z : integer; chillax end

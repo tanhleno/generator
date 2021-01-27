@@ -1,0 +1,1 @@
+program C : E : takes p : boolean; hR0 : integer returns nothing when case - Xc and 07100 >= - 04 : chillax end case 47 >= 1 : while 4 : chillax end; input A end; pop; pop end S : takes Zp, V4 : boolean returns boolean array do a(- 71400) end main : H3Za, bL00 : integer array; g, _ : integer; chillax end

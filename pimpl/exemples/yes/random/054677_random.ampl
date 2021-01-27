@@ -1,0 +1,1 @@
+program _2 : zM20a : takes v : integer array; F, bzkaa : boolean array returns integer chillax end R8oa : takes oC, u, m, Pr6, c, x : boolean array returns boolean array N6 : integer array; l : integer; _u6 : boolean; Z : boolean; e : boolean; when case - 20 : chillax end end main : output - false >= true or 2 - 45 end

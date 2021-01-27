@@ -1,0 +1,1 @@
+program x : p : takes yc : boolean returns boolean array HZ, f, k : integer; K5, e, I, R : boolean array; when case J and 8 = 1 - 61 : input V[0]; output "\\"; let B = 516; pop end; input fc end main : a : integer array; when case - (6) or v(1) rem true and 4 : chillax end case false and 0 and 2 = - w and 2 : chillax end otherwise : input Z end end

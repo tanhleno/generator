@@ -1,0 +1,1 @@
+program qf : R3t : takes d, Vp : integer array returns boolean array I : integer array; let N = array not 51500 and 224; output "|" end t4 : takes s : boolean; b : integer returns nothing V, v, B : boolean; chillax end main : g : boolean array; chillax end

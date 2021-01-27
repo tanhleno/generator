@@ -1,0 +1,1 @@
+program b6 : h94 : takes G1 : boolean returns nothing when case - true > - 363 - 6 : chillax end otherwise : chillax end; pop 9 = 6; input k[3]; let q7 = 96; do x45(5); when case 5 : chillax end end main : let G = 448 /= - (1) and 73900 end

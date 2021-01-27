@@ -1,0 +1,1 @@
+program D2 : MKJa : takes M, B : boolean array returns nothing P : boolean; mjY0a, T88 : integer array; chillax end y : takes U, TG, Q_ : boolean; S9, v8 : boolean array; Z4D : boolean; U6, T1, h, UXU0a : boolean; K510a, j : boolean; O, ej : boolean; f : boolean; U59 : boolean returns integer array chillax end main : while - C(12) : chillax end; pop - true /= 36 - 7 end

@@ -1,0 +1,1 @@
+program B : R : takes hhba, yqka : integer; o : boolean returns integer chillax end C : takes s, Q : boolean array returns integer array pop 938 = 6; while 27 = 8170 : chillax end; output 0; output "1!a" end F : takes m4 : boolean returns integer let BbKaa[672] = 7810; pop 701 end main : chillax end

@@ -1,0 +1,1 @@
+program DnO0a : x : takes Vima, fbf0 : integer array; V, l : boolean array; nm : integer array; Z2, G, o, _, z : boolean array; S130a, vq10, e, eQZa : boolean returns nothing M, Z : boolean array; S : integer; chillax end main : qt, H3, i, s, k : boolean; while true * false - 95 >= - false : chillax end; output "\t"; output - 76 - 518 /= 0; do Ax7(- 53) end

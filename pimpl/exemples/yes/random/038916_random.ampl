@@ -1,0 +1,1 @@
+program WL : e17a : takes f7 : boolean array; w, j : boolean returns nothing chillax end main : C09 : integer; E, zE3 : boolean array; xn : boolean array; g4 : integer array; while - false : chillax end; when case - 1 and 3 or true and 3 - 2 - 0 <= - true and 0 : chillax end otherwise : input F[58]; output "-"; output "\\" end end

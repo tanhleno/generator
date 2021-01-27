@@ -1,0 +1,1 @@
+program m : S : takes b12, n5, FLp, K0 : integer; Z, r20 : boolean array returns integer pop; pop 75 = 6; while 5 = 3 : output "" end end main : output "&" . false . "\t"; when case false and true and 8 : chillax end case not 56 and 2580 - 4280 /= 93 : chillax end otherwise : let x19[33] = 4140; let eUPaa = 14100; do PZ(4); pop end end

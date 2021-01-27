@@ -1,0 +1,1 @@
+program jm7 : hV : takes a, ou50a, D : integer; U, u3, D : boolean array returns integer M8S : boolean; D2, N3, j, Z : boolean; input J[true and 748 or 92300] end main : input AQz; when case(29) : chillax end case not 4 > - 3 : chillax end end

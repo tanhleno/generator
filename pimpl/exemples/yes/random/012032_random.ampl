@@ -1,0 +1,1 @@
+program FR : JDE : takes V, ZTW, a9l : boolean returns nothing chillax end R : takes D, C230, JM, R1, I : integer returns boolean D : boolean array; let WW = 88 = 09 end F7 : takes k2b : boolean array; BI : boolean returns nothing chillax end x : takes Z1v : boolean array; dP2a, gn5aa, Wk1 : integer returns integer array chillax end main : O, Vd, B : integer; chillax end

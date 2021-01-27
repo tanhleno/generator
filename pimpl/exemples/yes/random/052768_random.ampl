@@ -1,0 +1,1 @@
+program nSY : XM8 : takes a : integer; S : integer array; u : boolean array returns nothing A8, u : integer; chillax end j : takes E : boolean returns boolean array r9r, _6, fS, p : boolean; Qh, x650a, B8 : boolean array; output "" . 529 end T : takes o, o, Z : integer array returns boolean array chillax end main : chillax end

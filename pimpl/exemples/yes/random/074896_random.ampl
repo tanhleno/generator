@@ -1,0 +1,1 @@
+program g03a : main : x, l : boolean array; Gida, x : integer; t, y : integer array; F : boolean array; b, Lt : boolean array; u, l : boolean; k : boolean; u : boolean; pop - h[78] - HU - 23; output - true and 9 = - 7 end

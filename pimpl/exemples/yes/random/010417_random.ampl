@@ -1,0 +1,1 @@
+program KI0aa : Z : takes q8, Y, n5J : boolean array; D : integer array returns nothing n : boolean array; A, r, M3I : boolean array; aZ : boolean array; input vb_ end main : W, Gl : boolean; C, O, m : boolean array; do P5(26 or false * false and 690 or not 2 - 3 > - 2 or e, - not(26500) and 1, K and 1 /= 15 - 3, 68 - 5 = 3) end

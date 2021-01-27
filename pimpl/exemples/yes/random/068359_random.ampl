@@ -1,0 +1,1 @@
+program Z : main : w, nV, _, G790a, E3, e3 : boolean; let G = - false rem D5b or(1) and 9 - 53; when case - F390a[7] + true and 0440 + 5 - 92 >= 0 - 62 : do JgYaa(18 = 17) end case not 442 + 2 : chillax end otherwise : chillax end end

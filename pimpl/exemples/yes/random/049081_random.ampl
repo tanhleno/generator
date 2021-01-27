@@ -1,0 +1,1 @@
+program fTGa : B : takes ut : boolean returns nothing pop 8490 - 43 = 7; let Kg[- 95 - 281] = 24 end J : takes N, M, s : integer array; I, q0 : integer array; Y4m : boolean array; Z, V2n, w31 : integer returns integer y : boolean array; l670a, o, s : integer; do R5v(26400) end main : T, p6 : integer; chillax end

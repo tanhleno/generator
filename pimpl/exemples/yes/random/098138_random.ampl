@@ -1,0 +1,1 @@
+program xE : main : while - false * 30 and g or 02 * (63) + not 51 and 6 + 7 <= 263 * (80) and 5 : do r(5, 65, 8); while 0 = 3 : chillax end; output 0; pop end; input QD9[true * true or 4 and 932]; while not 5 and 5 : chillax end; do r(263 - 54) end

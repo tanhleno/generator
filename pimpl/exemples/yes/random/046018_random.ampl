@@ -1,0 +1,1 @@
+program o : W : takes Y : boolean returns boolean do lAaa(- false and 0 = 5, 878 - 09 <= 084) end l : takes j : boolean array; U : boolean array; A2 : boolean; Q7c, m2, D6I, hA : boolean array returns integer output ".0\"" end main : Jj9aa, N : integer; F : integer array; output - not true rem false = - true and 5 - 1 end

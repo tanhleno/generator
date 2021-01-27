@@ -1,0 +1,1 @@
+program V : r32a : takes F4, n04aa : boolean; I : boolean; m : integer; Z350 : boolean array; g5x0, H4xaa, R7 : boolean; HM : boolean; R : boolean; J : boolean; p0 : boolean returns nothing chillax end main : cNm0 : integer array; while false : chillax end end

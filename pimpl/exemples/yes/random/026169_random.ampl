@@ -1,0 +1,1 @@
+program h : rD : takes d, eT80a : integer; o3 : boolean array; gs, C : integer returns integer array chillax end VQ6a : takes it10, E2, w, Q, Nq : boolean array returns nothing t : integer; chillax end main : f, N, r4U, O : integer array; chillax end

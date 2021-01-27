@@ -1,0 +1,1 @@
+program Sc : Vx : takes Tw : boolean array returns boolean Z4 : integer; input hH3aa; output 359 end Q : takes Vz : integer; D7maa, U26 : boolean returns nothing pop 8540; do H9(788 = 693); output 3 end main : chillax end

@@ -1,0 +1,1 @@
+program Dx : ve : takes L_, q : integer array returns nothing UU : boolean; do V(33 and 20000 + 9); input E[- 816] end main : when case - (1 = 1) : while 5 : chillax end; let R1[7] = array 3 end case - (1) rem 11 = 2390 and 7 + 33 : let p = array 929 end otherwise : let K = array 6; pop 4 end; do O(- false * 4900 - true and 4) end

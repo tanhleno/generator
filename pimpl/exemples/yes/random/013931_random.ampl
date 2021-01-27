@@ -1,0 +1,1 @@
+program D : k9J0 : takes C, a, g : integer array; I, l : boolean array returns boolean i, Cq : boolean array; ru2aa, b, N0, yN : integer; i7 : integer; X, s4h : boolean; b93a : boolean; OW2 : boolean; chillax end main : chillax end

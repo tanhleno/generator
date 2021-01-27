@@ -1,0 +1,1 @@
+program d : E : takes U8 : boolean returns integer array nZ : boolean array; input s4[false]; pop; when case 1 : chillax end case 2 : pop end case 13800 : chillax end otherwise : pop end end main : dYx0a : boolean; chillax end

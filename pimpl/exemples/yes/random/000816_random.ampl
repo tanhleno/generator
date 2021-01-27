@@ -1,0 +1,1 @@
+program h17aa : pE : takes R, f, O0, Fa, D, V, J2 : integer; p6, HF, S : boolean array; D, Z, p : boolean array returns boolean do x(785 and 2 + 2 - 9, 55 - 6 >= 660); output "\"\"" end main : chillax end

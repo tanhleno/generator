@@ -1,0 +1,1 @@
+program X : N : takes jq, r : integer array; Uf : boolean array returns nothing D : boolean; V, Q1, lbA : boolean array; input zS end s0 : takes fRj0 : boolean; S : integer array; y : integer returns boolean f, j : integer array; do Q0U(7 - 59600) end main : do o(true rem not 1, false * B - false - 7 <= false + 4, - (28)); do GN(not not 5 rem o + false + 44) end

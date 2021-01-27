@@ -1,0 +1,1 @@
+program pL60a : n : takes h7 : integer array; xbRa, S : boolean; q, M : boolean; n45aa, Bwyaa : integer array returns boolean vf : integer array; chillax end S : takes R7, S : boolean array; Y470, J, Y : boolean array; YO6, T920, Y, c0, B : integer returns boolean chillax end main : Wv, s9G, L : boolean array; chillax end

@@ -1,0 +1,1 @@
+program u : EyRaa : takes Q68a, vfxaa, x6, K, J, f : integer; KI6 : integer array returns nothing j, O8Baa : integer array; A : boolean array; chillax end V : takes Vyf : boolean; Zx, M, Su, Tml, _ : boolean array returns boolean array chillax end main : e, v2, F1i0 : boolean array; input z[false / (3)] end

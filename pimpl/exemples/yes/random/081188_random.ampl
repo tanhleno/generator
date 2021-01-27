@@ -1,0 +1,1 @@
+program u210 : main : o : boolean array; woZ, H98a : boolean; Zs3, Y : integer array; g : integer array; output "1Paa"; let t[true + not 396] = array - J(1) - not 2 and 36; while - 02 or 5 < - 671 : pop 8; input V; pop end; when case - 66 - 19 > 2 : chillax end case 7 : when case 4 : chillax end; pop end end

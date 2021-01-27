@@ -1,0 +1,1 @@
+program V9 : main : output "" . - not 1 or 6 - 22 < - 4600; when case - false * false or 063 and 5000 = false : pop 1; while 55 : chillax end; while 1 : chillax end end case 4 and 4760 <= - 30 : input Qr end case 31 = 546 : chillax end case 68 = 818 : chillax end case 8 : chillax end; while - not 865 : chillax end; pop end

@@ -1,0 +1,1 @@
+program i060 : p : takes cQ, z : integer array; r, m : boolean array returns nothing a : boolean array; B6uaa, C, i : integer; b : integer; chillax end s : takes Y : boolean array; P : boolean array returns nothing chillax end main : mp9a, H, WK : boolean; W : boolean; xdJ : boolean; chillax end

@@ -1,0 +1,1 @@
+program N950a : main : when case - (8) rem not h : pop 139; while 5 : chillax end end case - 874 + not 81 + 0 - 11 : chillax end; while not LO / true /= - false : pop 5 end; do v42a(- not 1 + 6 - 58); while 6 - 7 > 067 : chillax end; output 5 . "\n@0" . "" end

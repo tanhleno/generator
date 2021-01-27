@@ -1,0 +1,1 @@
+program k77a : main : h, wv : boolean; do u6(- (47 = 28)); when case not(3) rem(78600) : chillax end case - false > - 7530 - 2 : let g0 = array 751 end case - 95400 > 2 : chillax end otherwise : input H end end

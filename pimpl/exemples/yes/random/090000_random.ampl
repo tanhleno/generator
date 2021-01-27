@@ -1,0 +1,1 @@
+program L : main : let l1saa = array - 53 and Q rem false + not(45) + 5250 or 59; output - not 6 >= 3350 . "" . "!\"!"; let H7p[not 48 and 9 - 60 - 5360] = - 6; let Z[- 3] = array 5 - 5; pop; while 8 : pop end end

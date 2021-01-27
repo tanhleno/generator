@@ -1,0 +1,1 @@
+program E680 : n : takes c, uNsa : integer array returns integer pop 47 = 2 end V : takes g : integer array; u39, q, o, B58, T65 : integer array; Z4 : boolean returns boolean array chillax end main : let l8 = array - not false end

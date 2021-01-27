@@ -1,0 +1,1 @@
+program b : main : X, H, wR, I, z : boolean array; S, W, eO, DF, s1f0 : boolean array; ID, T9J : integer array; let FV6 = array 7 * not not 7 or 24; let a6 = 8 and 5 + 70 - 7 < 5; while t2M and 36200 - 1 : chillax end end

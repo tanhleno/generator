@@ -1,0 +1,1 @@
+program o39 : X4ra : takes g : integer returns nothing t3D0, p, O800a, P, g3F : integer array; _ : boolean array; y : integer array; d5, S : boolean; output 362 - 36 . "e" . "" . 108 . "" end main : chillax end

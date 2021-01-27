@@ -1,0 +1,1 @@
+program D89 : R9 : takes d, V : boolean array returns nothing v, NR60 : boolean array; let y[Zt5 or 8 - 39300] = array not 7 and 65 or 7; do Y_zaa(- 21); input kqm0a[0] end main : jR : integer array; rL, ae, a : boolean array; chillax end

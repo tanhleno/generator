@@ -1,0 +1,1 @@
+program o2 : g : takes H : boolean array; xg : boolean array; c, CA, r_c0a : boolean array returns nothing output "\n8" . 3 . "" . "'U\""; while - 16 <= 22300 : chillax end end main : k67 : integer; a6, p : boolean array; K060 : integer array; chillax end

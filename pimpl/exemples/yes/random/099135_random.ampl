@@ -1,0 +1,1 @@
+program x3 : main : while false : chillax end; while - (1) * (8) and 0 - false + 52 - 23 : when case 112 = 6 : chillax end case 27 : pop end case 30 : chillax end; while 32600 : pop end end; output "" . 36 = 2 . "I/0"; pop end

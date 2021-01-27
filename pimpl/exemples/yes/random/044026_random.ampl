@@ -1,0 +1,1 @@
+program S3 : H : takes im : boolean array returns nothing r60, g, b, iWPaa : integer; while - 6 + 306 : chillax end; pop 1 end j0U : takes a2 : boolean array; b : integer array returns integer array V5 : boolean; Y, H7D : integer array; chillax end main : chillax end

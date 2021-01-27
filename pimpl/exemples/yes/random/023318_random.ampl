@@ -1,0 +1,1 @@
+program D86 : jj : takes Gj4aa, I : boolean returns boolean let b740a = array - not 83 and 19 end main : b, y870a, Y, b : boolean; Fib0a : boolean array; input j[- true and XS / 20 and 055]; output "" end

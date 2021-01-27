@@ -1,0 +1,1 @@
+program W2 : A : takes h : integer array returns nothing chillax end sb : takes Ke : integer array; d, d, y : boolean array returns boolean H96 : integer; chillax end main : F9q0a : integer; do t(- 67 * true + 5 * MF7a and 5, - true * V7 - not 9480 and 8 - 65 - 1, - (3) and 4 - 1 - 45 /= - 07 - 85, 7 - 5470, 5 = 8, 3) end

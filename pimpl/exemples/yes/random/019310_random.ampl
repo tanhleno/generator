@@ -1,0 +1,1 @@
+program IlV : nT : takes P, t : boolean array; p4e, _ : boolean returns boolean array H160a, m4, B, x, w : boolean; a87 : integer; pop - 2 = 22; do v43(- 6) end M : takes d : boolean; w32aa, kJAaa : boolean array; Ww, u : integer array returns integer array chillax end main : chillax end

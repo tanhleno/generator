@@ -1,0 +1,1 @@
+program P0 : m : takes w : boolean array; lJ8, I, z3 : integer array; w, m8 : boolean array; n, R, l3, p : boolean array; z9n, V : integer array returns integer array v, q : integer; ft, bmIa : integer; input NB[false]; let r = array 946; output 985 . "" . "" end main : do X(17 or false + true and 1); while - dz + true : output 12 . 23700 end end

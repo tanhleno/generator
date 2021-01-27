@@ -1,0 +1,1 @@
+program i : f7 : takes xZ, k0, T, V, fS, Pb : integer; f, _ : boolean array; n8 : boolean array; P, QIW : integer; N, ue : integer array; O, Wi9 : integer; hB1a, q : boolean returns boolean array output 996 > 9 . "`{" . ""; while 7 : output "" end; output 2; input pA end main : chillax end

@@ -1,0 +1,1 @@
+program Q : vN8 : takes XY : integer array; O, l, q03 : integer; v : integer; Y4 : boolean; u, Na, U, _ : boolean array returns integer vm, A : boolean; let P[not 72 and 8 - 12 - 6] = array - true end main : chillax end

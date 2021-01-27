@@ -1,0 +1,1 @@
+program x3 : main : N, K : boolean array; when case(45 = 6) or true or not 77 : input uy60a[- 956 - 37]; do v7(152 = 38, 2, 18); pop end case - true or j + 5 - 5 = - not 65 or 2 - 19200 : chillax end; input wEk[- apF[7] / not 5780 and 234 - true]; when case - not 6 or 4 - 92200 <= - 8 - 57 : when case 22800 : chillax end; let x2 = 277 end otherwise : do K11(4); do B(04) end end

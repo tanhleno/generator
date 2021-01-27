@@ -1,0 +1,1 @@
+program U2 : v : takes z, i, t1, sV : integer returns nothing RV40a, oo3, r9G : integer array; output ""; when case 08 < 36 : chillax end case 50800 = 3 : chillax end case 58100 : chillax end end main : W : integer array; do kF((8) + true / (4), - true / false); pop false and 427; pop end

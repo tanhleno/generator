@@ -1,0 +1,1 @@
+program j : r : takes _ : integer array returns integer let D070a[- false and 47] = 0 end main : s1R0a : boolean; do P(false + Z[1] and true and 300); do J(F9[6] * false + (87) /= false, - 65 and 47 - 66100 - 246) end

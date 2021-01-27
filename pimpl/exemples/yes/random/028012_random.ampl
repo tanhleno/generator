@@ -1,0 +1,1 @@
+program I2 : u : takes hq1, h4 : integer array; J3zaa, M5 : integer array returns nothing chillax end main : U4T : boolean array; LBH0a, _ : boolean array; pop - (3) and w9 and 7 + false and 07 - 7 - 7; let L2[false and 714 and 2630] = array false - true or 3 - 3 end

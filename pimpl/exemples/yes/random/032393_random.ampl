@@ -1,0 +1,1 @@
+program W : m : takes X, s6v0a : integer returns nothing chillax end main : when case - Q - true rem not 64 and 5 > - rD8[0940] rem 19 : chillax end; pop; while(44) >= - 0 : chillax end; output "N"; output "" . 3 . ""; pop end

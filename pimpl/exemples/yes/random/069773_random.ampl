@@ -1,0 +1,1 @@
+program yUR : main : P, j8D, Et, C7 : boolean array; p, Ji2, N6 : integer; r, l : boolean array; let bF[u] = - true * false and 16; when case - Jov0a /= false and 196 - 19 - 6 : chillax end case true and 6300 : input M end case 1 : chillax end otherwise : let e = array 4 end end

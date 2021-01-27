@@ -1,0 +1,1 @@
+program _9 : q : takes Bh7, L, D : boolean array returns nothing Kg : boolean; let CB[- (33) and 8100 or 0330] = 60 > 543; pop 0 = 3040; do Z(9 = 0, 5); pop end main : ejv0a, wh, A8, rF : boolean; T, F88a : boolean; x, w : integer array; chillax end

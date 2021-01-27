@@ -1,0 +1,1 @@
+program A8 : main : p : integer; while not not 481 < not(0) : while 2 : do K9(5); output "%"; pop end; do y1F(5) end; while not 77 / not 8 : pop 95900; let U0T[7] = array 6; let T = 2; pop end; while 2 and 8 - 3520 - 1 = - 7 - 5 : chillax end end

@@ -1,0 +1,1 @@
+program G0 : hx : takes kYy0a, Z : boolean; p9 : boolean returns nothing chillax end b : takes W, a : integer array; F, n : boolean; T : boolean; _, o : integer returns integer array chillax end z : takes Un4aa : integer; wxhaa : boolean; L : integer array returns boolean array T : boolean array; pop 4; pop; pop; input Q; pop end main : chillax end

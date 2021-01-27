@@ -1,0 +1,1 @@
+program l7 : P5 : takes A96 : boolean array returns integer array X5ca, nr, A, wk : integer array; fp70a : integer array; G, M3z, f8 : integer; K : boolean; U : boolean; chillax end main : chillax end

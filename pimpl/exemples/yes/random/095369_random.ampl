@@ -1,0 +1,1 @@
+program y : main : when case(82) + (14) * false and 8 + 5510 : input c22a; while 632 : input p end; let c4 = array 0410; do B5E(931) end case - false or false and 475 /= - (4) and 0 : let h75aa = 6 end otherwise : pop end; do JwY0a(HLaaa(559) / (3) or not 6 + 17800 - 93, false and 1550 - 9 - 6); output - 2 - 9 >= 7; do s(- 24 > 3, 7) end

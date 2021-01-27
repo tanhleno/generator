@@ -1,0 +1,1 @@
+program V10 : main : eb : integer; output not true + false and 0 . false and 71 > 85800; let Q[true or true and 6] = array not not 7 rem(1) - X + 4 - 35; pop; pop; do t(45 = 98, 566); let aQ = 35600 end

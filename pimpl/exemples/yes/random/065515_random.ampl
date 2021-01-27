@@ -1,0 +1,1 @@
+program gH70 : v : takes p850a : integer returns nothing when case 9660 and 58 or 67 - 13600 : pop 618 end otherwise : chillax end end main : do T5zaa(not false <= - 2 and sV - false and 84 + 5 - 9, - 962); let L5 = false and 8 end

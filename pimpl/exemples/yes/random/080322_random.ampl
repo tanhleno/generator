@@ -1,0 +1,1 @@
+program O82a : main : _7 : boolean; when case(1) or false : chillax end case - 13 rem not 23200 + 1 : while 506 : output ""; pop end; let _y1a = array 57 end case 2740 <= 1 - 87 : chillax end case - 291 - 90 : let S = 7 end case 7 : output ""; pop end case 2 : chillax end otherwise : chillax end end

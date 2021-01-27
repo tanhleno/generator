@@ -1,0 +1,1 @@
+program f : n : takes mN4aa : boolean array returns nothing mS : integer; L0, J : integer; when case 975 and 48 = 38 : do h(9) end; output 6 = 7 . 0 end main : fQ : boolean; input oL[true]; pop - not 6 and 67; while - false and 85 - 5 - 1 <= 790 : chillax end end

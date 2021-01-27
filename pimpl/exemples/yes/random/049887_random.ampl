@@ -1,0 +1,1 @@
+program Nc : L : takes M : integer; g, y, shh : boolean array returns boolean array output 86; let u = array 75700 - 9; when case 8 : chillax end; let Ql[7] = 270 end main : W, nL4 : integer; yF : integer; T, UU3 : integer; chillax end

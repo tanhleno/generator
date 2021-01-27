@@ -1,0 +1,1 @@
+program ur : b : takes F, t : integer array returns integer array chillax end F : takes p0E : boolean array returns boolean array N, sX : boolean array; D05a, zO, n : integer array; input B4[- 6]; do y(8); output "\"\n" . "" end main : I : boolean; do v7(- not(53500) * 13 - not false / c1 + 814 or 5) end

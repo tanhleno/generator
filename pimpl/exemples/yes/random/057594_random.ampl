@@ -1,0 +1,1 @@
+program e_ : _ : takes sd : integer array returns boolean array chillax end Dp : takes c : boolean array; v : integer returns integer while - 30 - 7 : chillax end; input U; output "\tw" . "\n\n"; output "" end c : takes uD : boolean returns boolean w9 : boolean; chillax end main : V9p : boolean array; chillax end

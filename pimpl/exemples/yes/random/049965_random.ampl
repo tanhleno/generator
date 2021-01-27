@@ -1,0 +1,1 @@
+program xu : Qka : takes w : integer; D2, p0H, zK : boolean returns integer array a : integer array; B : integer array; _, s, P : boolean array; c, E : boolean; chillax end o : takes vo, x : boolean; U : boolean returns nothing kL, O, F, a : integer array; D, R3N : boolean; JL : boolean; chillax end main : F : integer; let kyBaa[66 rem false] = array - (71 = 15) or false end

@@ -1,0 +1,1 @@
+program Kvzaa : h0V : takes n : integer returns boolean array let nT70 = 6410 - 5; while - 4530 : chillax end; input O90[42]; let qs6[6] = 4 end main : when case - 055 rem Z : chillax end; do o(- false rem not 5 - 6 + 93 - 38 <= not 03 and 0) end

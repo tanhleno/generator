@@ -1,0 +1,1 @@
+program F24 : main : when case - s7[7] >= - T(5) : chillax end case not true or true : chillax end case H and 5 : input f6[9]; when case 9 : chillax end; input N; pop end case 77 >= 72 : chillax end end

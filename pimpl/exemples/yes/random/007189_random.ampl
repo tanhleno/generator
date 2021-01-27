@@ -1,0 +1,1 @@
+program Kg : KY : takes i7Za, J, S1, O : integer array; y : boolean array returns nothing let t6s[x] = - 96 - 2 = 7 end main : a8 : integer array; J, K : boolean; B, a, C : integer array; chillax end

@@ -1,0 +1,1 @@
+program X : jX8 : takes w, Jvc : integer; K : integer; op8aa : integer returns nothing output "" end At : takes j : boolean; b : boolean returns boolean array E9, p : boolean; chillax end main : C : integer; chillax end

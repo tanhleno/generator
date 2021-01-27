@@ -1,0 +1,1 @@
+program H : main : i, N, b : boolean array; while 45 / zs(6) or not(3) /= false : chillax end; when case(82) - false and 0 : chillax end case false and 69 < - 0570 : pop end; while 2020 = - 3 : chillax end; do eT(- 47 < 41) end

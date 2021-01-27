@@ -1,0 +1,1 @@
+program a5 : Z1 : takes Ta, OAla, zM : integer; uLn : boolean array; E : integer array returns nothing o : boolean; lRL, Z : integer; chillax end main : A : integer array; D : integer array; u, T, b, P4m0a : integer array; t : integer array; output "ijaa"; pop end

@@ -1,0 +1,1 @@
+program R8 : bS : takes U, b, k, V : integer array; N6u, Sk_0a : boolean returns nothing while true and 8 + 97 - 6 = - 05 - 9 : chillax end end main : while(2 = 74) and false / not 760 : do M3(- 2210 <= 844) end end

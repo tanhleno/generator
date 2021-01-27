@@ -1,0 +1,1 @@
+program x3 : F : takes A, iXGa, A8ya : boolean; mhRa, hF, F, s, TG8a : integer; x, L : integer array; shfa : integer array returns nothing _ : boolean array; chillax end l4t : takes JA : integer returns nothing chillax end main : chillax end

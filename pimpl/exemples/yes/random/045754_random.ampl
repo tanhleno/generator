@@ -1,0 +1,1 @@
+program C : p05 : takes j9k : boolean returns boolean array J1 : integer array; pop - 72300 - 9 <= 10; input Bx end main : D : boolean array; d, N, P, ph, M, I : integer; P : integer; do UI1(not(39) - true / false and 6 or false and 38400 > - QD7aa rem 44 - false and 06 - 6 - 44, (97600)) end

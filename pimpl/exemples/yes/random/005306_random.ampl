@@ -1,0 +1,1 @@
+program j : R2C0 : takes mv, g36, V, u : boolean array returns boolean array pop - 7 <= 1 end main : while - 488 * false rem(63) and 7 + (3) > - not W * not 93 and 6 : when case 792 - 2 < 2 : input R end case 7 = 91 : chillax end otherwise : while 74 : chillax end end end end

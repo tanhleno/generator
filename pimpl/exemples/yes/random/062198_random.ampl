@@ -1,0 +1,1 @@
+program I : Ctq : takes W6 : integer returns boolean chillax end H : takes l, xM1, l : boolean returns nothing do wqX(- 44000 > 3810, 2890 = 6); input M0[01]; input Jj[959]; pop; pop; pop end main : output "" end

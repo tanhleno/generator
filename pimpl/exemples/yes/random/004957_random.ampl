@@ -1,0 +1,1 @@
+program e : g38aa : takes D, i2, X490, _q : boolean array; H, R4 : integer array returns boolean array when case 9 and 18 + 54 < - 7 : chillax end otherwise : chillax end end main : y, G0I, L, y : integer; u : integer; while - (9320) > - nD - v0taa and 223 : chillax end; while 161 * false and 1 or false - 034 - 9 <= f3R - 51 - 68000 : output 96 end end

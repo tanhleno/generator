@@ -1,0 +1,1 @@
+program W : p : takes r9 : boolean returns nothing h680 : boolean array; g : integer array; i5, b, Vw : boolean array; let i = array - 0 and 9 + 7550 - 1 end s : takes t4, pj10, T : integer array returns nothing n : boolean array; chillax end main : K : integer array; let d[false - false and not 8 and 22] = array(073) / 6; output "\\"; output - 6 - 30 /= 9 . "4:aa" end

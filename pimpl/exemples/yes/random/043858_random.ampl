@@ -1,0 +1,1 @@
+program mCe0a : t : takes Ie : boolean array returns nothing do w0(- T and 9 <= 53); do D8(489 - 1) end H07 : takes l3 : integer array returns integer array let D = array - 3; output 71; do B(59, 213) end main : H8, x5 : boolean; chillax end

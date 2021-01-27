@@ -1,0 +1,1 @@
+program P : Mk : takes J15 : boolean returns nothing chillax end main : S8 : boolean; output - g(927) and true and 2 or(4) - 1 - 133; input v2; when case - c and 764 or 0 : chillax end otherwise : chillax end end

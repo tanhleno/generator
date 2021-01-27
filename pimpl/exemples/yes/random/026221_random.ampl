@@ -1,0 +1,1 @@
+program I : P : takes K, Tu : integer; q : boolean array; ug : integer returns boolean Q, fG : integer; let k = array(97000) - 77400 - 68 end main : do MG(- false rem false, - false - true and 7620 + 44700 - 935 = sh5 - 3 - 1); input NA[- not(26) * not 30 + false and 0 + 7 - 037] end

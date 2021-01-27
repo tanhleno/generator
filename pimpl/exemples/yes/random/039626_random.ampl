@@ -1,0 +1,1 @@
+program w0 : r : takes T2P : boolean array; j4 : boolean; u : boolean; Cx, g, y : boolean returns nothing chillax end I : takes IS : boolean array; tx : boolean array returns nothing NY, j160a : integer; xr, g9 : integer; S, i8 : boolean; input y; pop; while 3 : chillax end; do u(6) end main : chillax end

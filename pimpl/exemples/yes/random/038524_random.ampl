@@ -1,0 +1,1 @@
+program _ : xA4 : takes iSX : boolean array; g, i2J : boolean; V : boolean array; n : boolean array; t : boolean array returns integer array chillax end main : X : boolean array; t, W, mez : boolean; g : boolean array; y, V7 : boolean array; N : boolean; chillax end

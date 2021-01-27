@@ -1,0 +1,1 @@
+program Jf10 : s : takes k, l0 : integer array returns boolean array output - 8190 - 612 >= 55 . "" end main : do L(- not FbS / Z(8240) + (2070) - 45800, - (18) / E and 2 - O and 0 + 8 <= B1 and 3 + 16) end

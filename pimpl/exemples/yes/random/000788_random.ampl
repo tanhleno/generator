@@ -1,0 +1,1 @@
+program Z45a : G : takes N, Ano0a, D32, Lo50, q, K, j : boolean returns nothing do A_X(true and 585 - 26 - 41); output 1 = 9; output 6200 end main : Ls : boolean; output "" . - not 76 and 0960 or 6; do q(- false and not 7030 and 9 < - 1 and 3); let DoFa[- j + 2] = array - true and 6 end

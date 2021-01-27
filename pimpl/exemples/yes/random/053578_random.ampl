@@ -1,0 +1,1 @@
+program t4 : KJd0a : takes u4 : integer array; Mn, p, v, C, o220a : integer; _28 : integer; N68, g, s, W : integer array; r : integer returns nothing a7, K, K : integer; gF : boolean; input r; output 06 = 887; let c = 6; while 0 : chillax end end main : I : boolean array; AW : boolean; chillax end

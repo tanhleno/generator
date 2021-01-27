@@ -1,0 +1,1 @@
+program g : D : takes _13aa, x00a, wA : boolean; l2O : boolean; E, X : boolean; B, f1 : boolean returns boolean e : boolean; o5e, J, _, Y : boolean; while - k > - 4 - 87 : input z[1]; output "" end end U240 : takes F : boolean array; F2, w : boolean array; G6, msY : boolean; X : boolean array returns integer chillax end main : chillax end

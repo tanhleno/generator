@@ -1,0 +1,1 @@
+program pwna : q : takes g9, t5 : integer returns nothing Q : boolean; U2M0a, h : boolean; when case 09 - 4880 < - 6950 - 4 : when case 43600 : pop end case 17 : chillax end end; when case 43 : chillax end otherwise : while 2 : chillax end end end main : do ka(- true or false); input B27a end

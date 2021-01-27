@@ -1,0 +1,1 @@
+program b9P : C : takes o : boolean array; a : boolean array returns nothing S, Fy, x17 : integer; S, Y : boolean array; chillax end main : bBTaa, W8 : boolean array; do H(false * (954) + (0030) * true); do q(true = - false - 3 - 9) end

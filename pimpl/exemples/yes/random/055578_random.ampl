@@ -1,0 +1,1 @@
+program u : T35 : takes FN : integer array; dH : boolean; S, k : integer array returns nothing chillax end LaJ : takes t230, GR7 : boolean array; V7Gaa : boolean returns boolean while 8 : let n = 9; output "" end end y : takes uzR0a, P : integer; t : boolean array returns boolean array chillax end main : chillax end

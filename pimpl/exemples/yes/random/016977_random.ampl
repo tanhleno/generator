@@ -1,0 +1,1 @@
+program r : N : takes w, X : boolean; _, Y, B4 : boolean array returns nothing while - (9) and 2 > 7 : chillax end; do y(- 008 - 2150) end main : while(67) and false + (711) or false and 2310 : chillax end end

@@ -1,0 +1,1 @@
+program NA : Psoa : takes ZS : integer array returns integer chillax end Q : takes Q : boolean array returns integer array AM1, O6, l : boolean array; chillax end W2 : takes k, B : integer array returns integer array p, H9d0a : boolean array; chillax end main : Q, r4, HK, d : integer array; do l(not gM3) end

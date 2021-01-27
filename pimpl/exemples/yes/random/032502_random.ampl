@@ -1,0 +1,1 @@
+program m : l : takes z, Jwk : integer returns nothing v, M, e, q67 : boolean array; m : boolean; chillax end U : takes y, M : integer returns nothing sX8, I : integer; l, a, R : boolean; when case - 174 < 29 : chillax end otherwise : chillax end end u7 : takes I : integer returns nothing GK, s : boolean array; chillax end main : Z, v : integer array; chillax end

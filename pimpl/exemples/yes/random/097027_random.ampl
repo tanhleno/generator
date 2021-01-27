@@ -1,0 +1,1 @@
+program C : main : when case xc[0] / true and false + not(4) : do Z(- 0990, 2030, 0, 2); let f[8] = 39; when case 60 : pop end end otherwise : when case 9 : chillax end case 086 : pop end case 4 : chillax end otherwise : pop end end; output O0 end

@@ -1,0 +1,1 @@
+program AL : qN : takes d, Y7 : integer; t : integer array returns integer H6, j, qg, H, o9 : boolean array; b9 : boolean array; let d9[jn1 and 3] = 6; let ofeaa[- 0 - 6] = array - 557 end main : do k4(not 907 + 3 / not 2 and 391, true - not 696 and 6 + 6 - 03) end

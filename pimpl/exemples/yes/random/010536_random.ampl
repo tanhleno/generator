@@ -1,0 +1,1 @@
+program U : cI : takes v, s, X : boolean array returns boolean array L8, U, V, e, o : boolean; do t0i0a(J7R and 16 /= - 10, 07 - 3) end I : takes h9 : boolean returns nothing S, oF9 : boolean array; u, A : integer; pl2aa : boolean; chillax end main : chillax end

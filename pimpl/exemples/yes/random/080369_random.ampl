@@ -1,0 +1,1 @@
+program A : main : Nn4 : boolean; when case - not false < - (38) + not 39 and 462 : chillax end case 32 rem _ or 5 and 2 or 597 - 6 >= - not 9 and 78 or 0 - 43 : let t = 49; output 7 . "" end otherwise : chillax end end

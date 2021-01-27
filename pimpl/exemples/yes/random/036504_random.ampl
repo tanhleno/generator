@@ -1,0 +1,1 @@
+program M : TU : takes w : boolean; T : integer; E940 : boolean; V6zaa, c24a : boolean returns boolean while 1 or 0 - 59 >= - 3 : do fw(7) end end k : takes V, B : boolean array returns nothing js : integer array; S, c, ox8a : integer; G5j : boolean; LF3 : boolean; z6fa : boolean; chillax end main : chillax end

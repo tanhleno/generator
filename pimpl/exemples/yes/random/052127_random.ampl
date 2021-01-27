@@ -1,0 +1,1 @@
+program G : Q3za : takes w65 : integer; e4k0 : boolean returns boolean array i : boolean array; k0 : integer; VB0a : integer array; when case(86) and 7 or 0 : chillax end end zQ : takes O, k, Q : integer returns boolean array tg : integer array; input i end main : j, Gk : boolean; chillax end

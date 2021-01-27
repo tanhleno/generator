@@ -1,0 +1,1 @@
+program Ej9aa : k : takes Si8, N2, O : boolean array returns boolean array AR9a : integer array; w5A0 : boolean array; U : boolean array; when case - true and 6 : input I86[6100]; pop; output "E"; pop end end main : chillax end

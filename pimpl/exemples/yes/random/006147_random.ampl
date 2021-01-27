@@ -1,0 +1,1 @@
+program f : o7q0 : takes f, w, e, i : boolean returns nothing d0, v, Bl9aa, uw7 : boolean array; pe, f22, A, T : integer; O : integer array; c : boolean; H8 : boolean; chillax end main : W, Q0, w : integer; let pP[- (6 = 6) * 9] = true * (564) and 21500; while(1) + not 45 - 37 : output "5\t"; pop 6 end end

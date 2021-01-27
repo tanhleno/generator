@@ -1,0 +1,1 @@
+program QE : i : takes d370 : integer returns boolean Wy, A : boolean array; R, yy, Wk5 : boolean array; do P0(- true and 4 = - 2) end I : takes w, P : boolean returns nothing m7m : integer; yR4aa : integer array; e1B, H : boolean; _1 : boolean; A3Q0a : boolean; chillax end main : chillax end

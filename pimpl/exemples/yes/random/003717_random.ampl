@@ -1,0 +1,1 @@
+program s74 : u : takes a, h0, r, z4, A : integer array returns integer array chillax end Z : takes Gu : boolean returns nothing pop 23600 = 8 end p : takes tn, z, zj, I0 : boolean array returns integer do mz(7550, 8, 4); while 49 : chillax end; let rCb = 946; pop; pop end main : Z60aa : boolean array; A, W_, E, y : integer array; chillax end

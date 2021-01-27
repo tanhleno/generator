@@ -1,0 +1,1 @@
+program l7 : zCk0 : takes i31aa, PO, P, E3N, nQ3a : integer; Mgz : integer array; w12 : integer array returns nothing d2, i9 : boolean array; chillax end H : takes Yz10a, xe2aa, p, LJH0a : integer returns integer pop end O : takes k : boolean array returns integer chillax end main : chillax end

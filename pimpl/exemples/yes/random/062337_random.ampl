@@ -1,0 +1,1 @@
+program _ : a58 : takes _ : integer returns boolean FM2a, V, w, k : integer array; when case - (5) : chillax end end h : takes N9 : integer array; x : boolean returns nothing k8, O_ : boolean; chillax end main : do x(- rW0a and(0) * (9) < - (57600) * true and 5, - false /= - false - 3 - 7) end

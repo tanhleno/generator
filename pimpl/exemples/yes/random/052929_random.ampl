@@ -1,0 +1,1 @@
+program zB : b2Raa : takes F : integer; K35 : integer array returns integer array let wn = - 6 - 7200; when case 70 <= 94 : let m = 4; when case 12100 : chillax end; pop end case 8 = 52 : input X; pop end end main : let z8 = - not not 41900 * 6 - true = - not 8 and 5 + 1 end

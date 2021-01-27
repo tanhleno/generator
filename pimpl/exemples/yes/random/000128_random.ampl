@@ -1,0 +1,1 @@
+program _7M : H : takes C, q, e, S, h, v, J, S : boolean array; b : boolean returns nothing C_ : integer; chillax end Y : takes A0t0a, J, t : integer returns nothing let SC80a = array - 385 - 6 end main : while - 2 and rLl / true and 0 > - false / u and 91 : when case 20 <= 62 : input I end case 64 : chillax end otherwise : chillax end end end

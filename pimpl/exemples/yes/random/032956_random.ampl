@@ -1,0 +1,1 @@
+program bn0aa : e84 : takes J5, C : integer returns nothing v5 : integer array; N7 : integer array; rsc, D8 : boolean; chillax end main : v : integer; do F(false <= - A(93), false - 2 and 8, not 87500 > 0) end

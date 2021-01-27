@@ -1,0 +1,1 @@
+program r : main : EmQaa : integer array; hX, m7Ka, X : boolean; when case true : when case - 94 /= 19 : let g5 = 7; pop; pop end case 6 : chillax end otherwise : chillax end end case false and true and 03 : chillax end case true and 8 : let GF[80300] = array 721; while 6 : chillax end; output ""; pop end case 63 - 23 /= 4 : chillax end end

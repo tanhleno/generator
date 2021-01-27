@@ -1,0 +1,1 @@
+program G : ZN4 : takes p, d8o0a : integer array returns nothing G, X : boolean; chillax end S : takes Hc, H1, Y370a : integer array returns integer array W, w : boolean; R, z, anF : boolean array; Dt, n : boolean; y : boolean; w7i : boolean; output 2720 = 8 . 58 . 2 . ""; do r(8); input o[4]; while 0 : chillax end end main : E, X, wi, Wp : integer; chillax end

@@ -1,0 +1,1 @@
+program V : D3 : takes g : boolean; Y : boolean; J : integer array returns boolean array x5 : integer array; chillax end H7 : takes FY : boolean returns nothing ldg0a, nA40a, D : integer array; chillax end Qxg : takes x : integer returns nothing do P(86800, 038); when case 5 : chillax end otherwise : chillax end; when case 891 : chillax end end main : chillax end

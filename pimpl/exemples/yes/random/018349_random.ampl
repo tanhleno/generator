@@ -1,0 +1,1 @@
+program E : m : takes s, GW8aa : boolean; R : integer array; n : integer returns integer array LIi, B, P : integer; while - true and 478 : chillax end; while - 8 - 93 >= 9 : when case 0 : chillax end; output "8"; pop end; when case 0620 : while 86 : chillax end; pop end otherwise : pop end; do B(030, 745) end main : chillax end

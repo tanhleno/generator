@@ -1,0 +1,1 @@
+program G : b : takes _80 : integer returns boolean o, o : integer array; pop end jB : takes a, f1 : boolean array; M, S3C0, S9, rnu0, D3 : boolean; DD : integer returns nothing chillax end main : LD50, sy : integer array; d2, AL1 : boolean; chillax end

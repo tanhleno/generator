@@ -1,0 +1,1 @@
+program Q : bj : takes E : integer array; F, x : integer returns integer chillax end v : takes ktRa : boolean returns integer while 89 - 967 <= 2 : chillax end; input K end main : when case - 7 or true rem m and 5 : output 498 . "#\t" end otherwise : chillax end; while tZg[69100] or(6) or 400 - 3 : output 1 . 3 . "\\" end; input Z[- (4) and 8] end

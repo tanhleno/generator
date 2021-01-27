@@ -1,0 +1,1 @@
+program r64 : T : takes s : integer array returns boolean chillax end Fo : takes L, d09a, VQ, WC_0 : integer; lK5a, L, Z : boolean array; tY0, T9x, I3 : boolean returns boolean chillax end main : D, g : boolean; output "" . - true < 03100 . 00; do h(- T[0] * Hm7 and 269, (6) and 1) end

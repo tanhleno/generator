@@ -1,0 +1,1 @@
+program V : t : takes SR, m, xW4 : integer array; O : integer array returns nothing chillax end bc6 : takes W7 : boolean array; Z8 : boolean returns integer x : integer; chillax end main : X, n73 : integer array; while - true rem not false - (33) * qyR and 129 : chillax end end

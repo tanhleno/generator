@@ -1,0 +1,1 @@
+program x : y57 : takes V, nY : integer array; YE, i8 : integer; a900, _kn0a : boolean array; z : integer returns nothing chillax end f : takes j : integer array returns nothing n : boolean; F : integer; t, ro : boolean; m : boolean; t7 : boolean; while 9 = 474 : chillax end; output 98 . 047 end main : chillax end

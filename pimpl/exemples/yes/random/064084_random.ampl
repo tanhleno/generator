@@ -1,0 +1,1 @@
+program k : l2 : takes y8U0 : integer returns nothing do aM6(- (94) and 23900 >= 4 - 2); input q[- 7] end e : takes s : integer array; lB4, feE, Bx5, IN, Id6aa, I7 : boolean array returns nothing chillax end R : takes i280a, S7N, D7, D, pD : integer array; T87a, Aq2, al5 : boolean array returns integer array chillax end main : Y450a : integer array; chillax end

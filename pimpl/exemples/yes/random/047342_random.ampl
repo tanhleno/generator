@@ -1,0 +1,1 @@
+program H9ca : U : takes Xj : boolean returns integer when case - Z and 6990 or 40600 = 912 : pop end case 7 - 827 /= 58 : input F82; when case 65 : chillax end end end main : m55, w4 : integer; chillax end

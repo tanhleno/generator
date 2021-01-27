@@ -1,0 +1,1 @@
+program S : main : u, z, O, e, J3, u1, s : boolean; T : integer; k8, Z : boolean array; when case - (7) / (7) + not yD7a + true - 1 - 453 /= not OE or 3 and 75 + 5 : while 87 - 5 : while 9 : chillax end; input Au; pop end end case - d - (94) and 7 - 5 - 423 < - false - 645 : when case 9 : chillax end otherwise : chillax end end case - not 10 and 6 : chillax end end

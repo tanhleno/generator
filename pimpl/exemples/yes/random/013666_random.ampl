@@ -1,0 +1,1 @@
+program V : F : takes h6, N, E : integer array; a2R, V, G, G, T1 : integer; x : integer returns integer WAdaa : integer; l : boolean; chillax end main : t, GM9a, C : integer; b8p0a, O : boolean; while false * false - not 91700 - true and 96 : while 838 < 6240 : while 89400 : chillax end end end end

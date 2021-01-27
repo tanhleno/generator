@@ -1,0 +1,1 @@
+program S8f : v3 : takes M : integer array; X : boolean returns integer pop end main : Q07, d230a, X4O, O, x, C, L : integer array; while - j(98, 2) >= true rem not 6 and 447 or(19) + 5 : chillax end end

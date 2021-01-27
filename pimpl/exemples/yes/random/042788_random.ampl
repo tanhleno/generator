@@ -1,0 +1,1 @@
+program ap : I7 : takes j : boolean array returns integer array input m; output "a" end U : takes Q, p : integer returns nothing chillax end J : takes zL6, t, E97aa : integer; F, T, _ : integer array; g : boolean returns integer Lw : integer; uaD, H82 : boolean; chillax end main : do xp(E < - false) end

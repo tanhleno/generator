@@ -1,0 +1,1 @@
+program oF : Vm60a : takes Z, m, o, z, g, x, a : integer array; _v : integer array; _, r, Nu : boolean; LB5 : boolean returns nothing A : integer; chillax end main : pop - false rem rrYaa and 201 end

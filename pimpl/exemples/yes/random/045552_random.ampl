@@ -1,0 +1,1 @@
+program I600a : C0 : takes q : boolean returns boolean array t6, J8Q, u : boolean; chillax end jpHaa : takes j, s, Li : integer array returns nothing output 1 . 08 . "" end main : IM : integer array; chillax end

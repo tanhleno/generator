@@ -1,0 +1,1 @@
+program w2E : x : takes aO30 : boolean array; K7, LJ : boolean returns nothing while - true and 78 - 673 - 033 > 43 : chillax end end Q : takes jC4, qT, Bx : integer returns integer array let hQ[- 2 - 21] = array - 93; pop; when case 13 : pop end case 82 : chillax end; let J3Qa = 66400; pop end main : output "{3a"; output - T and 2 = - 54; do P(4 - 323 - 766) end

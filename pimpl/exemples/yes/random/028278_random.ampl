@@ -1,0 +1,1 @@
+program CF : I : takes O0V, wb : integer array; q : boolean array; M500a, v9 : integer array; q : integer; n, yqe, X6, Tg : integer returns integer array p5A0, e1 : boolean array; q : integer array; o, li, P : boolean; chillax end w : takes m, H720a, b, D, K49aa, k4 : integer array; t9 : integer returns nothing chillax end main : chillax end

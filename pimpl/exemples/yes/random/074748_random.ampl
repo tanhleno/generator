@@ -1,0 +1,1 @@
+program oe : main : x, Z5y0a : boolean array; S, tr9a, t87aa : integer array; d2, e : integer; k : integer; let w[- false + not k * 68 + (76) and 85 - 655 - 4] = array not 12; while - false and not 738 : let fZO[8] = array 673; while 143 : chillax end; pop end; let bCs0[R6U] = - 4 - 0 = 0090; output 053 . "" end

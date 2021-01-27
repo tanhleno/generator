@@ -1,0 +1,1 @@
+program B : Y7Waa : takes T2 : boolean array returns boolean array output 09 <= 4; do X(3 - 3480 /= 670, 7 = 16, 1, 85) end main : j, Nbb : integer; do Z(- 682 and false / v0 < - false and 282 and 5280 + true); do N(not(5) * K and 2) end

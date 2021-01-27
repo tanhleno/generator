@@ -1,0 +1,1 @@
+program F460 : W : takes x : integer; V : integer returns nothing m8y0a, nW : integer; t, n, S : integer array; while - 46700 >= - 560 - 6 : when case 54 : chillax end; let Z = 30; output "" end; while - 4 : let j = 65; pop end; let xGr0a[43100] = 632; while 50 : chillax end end main : output - 768 / not 711 + false and 4 <= true and 80 . "J\\a" . "" . "5j!a" end

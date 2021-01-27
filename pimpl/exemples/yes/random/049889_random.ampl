@@ -1,0 +1,1 @@
+program N : R : takes HD : integer; Y8, rHc, a : boolean array returns boolean chillax end y : takes m, P, v, r31 : integer; c, YU, i02 : boolean returns integer chillax end main : t, V : boolean; t : integer; oC : integer; r6, k : boolean array; while(61100) / I[42] / not 1 and 977 or false / (35) or K + 4990 - 2 : chillax end end

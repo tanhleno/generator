@@ -1,0 +1,1 @@
+program y9 : D : takes P7q : boolean returns boolean array chillax end H : takes q, s4l0, mcma, j7 : boolean returns boolean array K2x : integer; output ""; while 1 : pop; pop end end W : takes Q490 : boolean returns boolean when case 84 = 701 : output ""; pop end otherwise : pop end end main : chillax end

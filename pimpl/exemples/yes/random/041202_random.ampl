@@ -1,0 +1,1 @@
+program n_ : a : takes t : boolean array; P : integer returns boolean array H, Z, s, o : boolean array; chillax end main : when case(7) / v(5) /= true * true and 56 : do R(212 - 07 > 1, 78, 08200, 62) end case(14) * not 5 and 2 - true and 184 - 3 - 216 >= true and 6 : input D end end

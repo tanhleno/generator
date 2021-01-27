@@ -1,0 +1,1 @@
+program SBt : yVGa : takes A4c, u8, Io0, g : integer array returns nothing input e; output 17 = 953 end main : do h(7 and true / not 3 and 59, true / false and 32 = - 26 and 3 or 86, (6) and 2790 or 5 <= - 8); input q2 end

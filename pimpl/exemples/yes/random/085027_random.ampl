@@ -1,0 +1,1 @@
+program l : main : M : integer; pop; do f(not 8 = false, - (8) or 3 - 01000, - 5); when case(2750) and 59 + 9930 = - 708 - 3 : input j6; when case 392 : chillax end; pop end case - 8 - 8 : chillax end otherwise : chillax end; do D210(- 94) end

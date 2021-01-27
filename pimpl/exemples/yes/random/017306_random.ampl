@@ -1,0 +1,1 @@
+program XG : A : takes n, K : boolean; Y4l0a, b8 : boolean returns boolean do e(false and 0) end U : takes O370, C, t, Y, J : integer array; B : boolean returns nothing P : integer; _ : integer array; chillax end p : takes E : integer; lr, d94, V : boolean array returns boolean chillax end main : M : boolean array; VQ6, q7L0, k : integer array; n : boolean array; chillax end

@@ -1,0 +1,1 @@
+program u : main : do Ek4(true - false); do M(- (65) >= - b and 1); when case S or 9 /= - 4 : let C[036] = array 56; when case 76 : chillax end end otherwise : chillax end; let f = 6 = 70; input x end

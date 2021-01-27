@@ -1,0 +1,1 @@
+program C5 : oNg0 : takes RsZa : integer array returns integer X, b, v, np, Ojd : boolean array; uL, XCy : boolean array; f0 : boolean; input i[- false or 043 - 9]; output 37 = 1 end Br : takes x, _ : integer array returns integer chillax end main : rQ3 : integer; I, X64 : integer array; chillax end

@@ -1,0 +1,1 @@
+program S : main : W : integer; bR : integer; n, j7K0a : boolean; Y, iO : boolean; Q : integer array; while - (911) rem true / (8) : while 5 - 62 : chillax end; input q; output 6 end; while not not 3 - LP and 34000 : while 51700 : chillax end; do F5(6); pop; let Q = 7590 end; output 5 - 5; while - 98 - 4 >= 56 : input Q3v; do u(791); pop end; input v end

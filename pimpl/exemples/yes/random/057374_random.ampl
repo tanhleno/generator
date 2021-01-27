@@ -1,0 +1,1 @@
+program _ : G : takes Z : integer array; wc : integer returns boolean w : integer array; Q, e, n5 : boolean; _1 : boolean; output "9ga" . 6 = 03 end main : output - (5840) rem false and 6030 - false > 7 and 1 - 3; while - not not 8 - true + 0 - 2 : chillax end end

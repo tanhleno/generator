@@ -1,0 +1,1 @@
+program SL : a : takes h, C, wPb0, kIDaa : boolean; r : boolean array; E, b1 : boolean; X9, W, e, jk : integer array; Ko, _, H, v : integer array returns nothing q : boolean; l : integer; F, j, pgj : boolean array; D, g0c0a : boolean; A : boolean; T7 : boolean; chillax end main : V : boolean; do r5F0(- 76 / true and 3, 2 and(56) and 61 >= - (6) and 7 - 23) end

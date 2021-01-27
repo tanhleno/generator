@@ -1,0 +1,1 @@
+program Q9 : hFkaa : takes Tk8, q : integer array; T, G : integer; _8 : boolean; R : integer array; M : integer; _, r, Y4 : boolean returns nothing I, Bhzaa, Za, BTU, j : integer array; chillax end main : _ : integer array; input p[7] end

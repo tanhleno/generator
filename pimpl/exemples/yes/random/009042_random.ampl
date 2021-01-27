@@ -1,0 +1,1 @@
+program y : rP4aa : takes Lw80a, b8, t : boolean; H : boolean array; nd, ogu0 : integer; v8 : integer; jK, tE : integer array returns integer array C98a : integer array; q8, psn0 : boolean; input p5[- not 15 - 6] end main : M : boolean array; c9 : integer; ge, r89, G1, v03 : integer; output O(01) end

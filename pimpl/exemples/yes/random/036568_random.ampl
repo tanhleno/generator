@@ -1,0 +1,1 @@
+program W : c3 : takes r : boolean; n : integer; W : integer; ON8, t7m0, Z : boolean array; Pt9 : boolean array returns integer array O3s0, W, P : integer array; chillax end main : h, P7gaa, m : boolean array; let k95[not false or true] = array r0q or o[77] or false and 7 end

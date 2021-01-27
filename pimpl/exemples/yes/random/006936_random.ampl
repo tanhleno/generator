@@ -1,0 +1,1 @@
+program E54aa : u3 : takes t4e0, A8, h, _ : integer array; HA, ZO4, FH6 : integer array returns boolean do O(- true) end main : do O(- m - 299 and z /= true + false - 83800, - true and p850); do o(- true * 8 and 50100) end

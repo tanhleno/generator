@@ -1,0 +1,1 @@
+program mX : P : takes k : integer array returns boolean let Q[(94) + 098 - 0] = 72 = 38 end oLg : takes J, YA, h, B8 : boolean array; nN8 : integer array; m : boolean returns nothing chillax end main : chillax end

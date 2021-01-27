@@ -1,0 +1,1 @@
+program X4 : JL7aa : takes Q, E, l, S8T, bH : integer returns boolean chillax end V7V : takes w9yaa, D, y, E28, U, q4r, kM90a : integer array; m : boolean; h, l : integer returns boolean chillax end saq : takes w : integer returns integer chillax end X : takes C4 : integer returns boolean array chillax end main : do f(false) end

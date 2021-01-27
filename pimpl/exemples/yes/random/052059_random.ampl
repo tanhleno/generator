@@ -1,0 +1,1 @@
+program z2waa : x : takes Z : integer; i : boolean array returns nothing M8S0 : boolean; x : integer; output - 44 < 37000; do P2(41 - 59 <= 7, 849 = 088, 1, 33) end s : takes sN_, J : integer array; e, Q5 : integer returns nothing chillax end main : MVaaa : boolean array; kBG : integer array; C, u750a, E : integer array; chillax end

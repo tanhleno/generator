@@ -1,0 +1,1 @@
+program kP : q : takes F : integer returns nothing input Rp[- 6] end Z : takes Mt, E, m0, w2c, Pp : integer; xP : integer array; h : boolean returns nothing let PPt0 = 1; while 0650 = 649 : do i4E(712) end end main : let Ib[(8 = 31) * B4(61)] = false <= true - 06 - 0; pop - u + 2 - 83 end

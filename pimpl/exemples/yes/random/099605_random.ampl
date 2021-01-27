@@ -1,0 +1,1 @@
+program a9 : main : while not true or 63 or I + 5 < (91) rem false and 254 + T7 and 3 : chillax end; while false <= D and 8 - 0 : when case 5 : output "" end case 8 : chillax end otherwise : chillax end end end

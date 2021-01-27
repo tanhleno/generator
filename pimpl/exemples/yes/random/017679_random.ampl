@@ -1,0 +1,1 @@
+program d7 : rWz : takes g22, f : boolean; E_ : boolean; J : boolean returns boolean array D, L, s95 : boolean; D7Zaa, S9, v : boolean array; vs5, d50 : boolean; X, M : boolean; chillax end main : VX : integer array; V3 : boolean array; o : boolean array; input c[- true] end

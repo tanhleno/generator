@@ -1,0 +1,1 @@
+program U : L310a : takes a : boolean array returns nothing chillax end LK : takes j5, nC, Z66 : boolean returns boolean array OO : integer array; d, W : boolean array; do f(- 71); input xo end U : takes aQ : boolean; X, t, N4 : boolean returns nothing _, I : integer array; chillax end main : G : boolean array; pop end

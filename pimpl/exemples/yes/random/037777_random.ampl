@@ -1,0 +1,1 @@
+program F5 : J : takes G : boolean array; D2, N, u, d : boolean array returns nothing chillax end I : takes i : integer array; l8 : boolean array returns boolean array EZ : boolean array; Sx : boolean array; do yG(- 1); when case 126 : while 0 : chillax end; pop end case 69 : chillax end case 126 : chillax end otherwise : chillax end end main : chillax end

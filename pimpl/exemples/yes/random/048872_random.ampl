@@ -1,0 +1,1 @@
+program B4M : sJ0 : takes L : boolean returns nothing input P[287 and 08] end main : when case false or false - false and 1 >= - (6) rem false + q + 6 : output 5; pop; when case 1 : pop end case 22 : chillax end end case - 04 / not 3 or true and 2 or 1 < (8) - 8 - 04400 : do Nl1(79 = 3); while 3 : chillax end; when case 746 : chillax end; input w; pop end; pop end

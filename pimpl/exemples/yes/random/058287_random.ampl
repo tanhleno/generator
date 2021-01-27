@@ -1,0 +1,1 @@
+program v : lt60a : takes nm : integer array returns boolean P, D0 : integer array; rxPa, Ij30, z, V : integer array; chillax end Y : takes r : boolean returns integer when case 3 - 9 >= 36700 : input Ogq; do j57(5) end otherwise : chillax end; do b73aa(23, 28, 18); do EQ(5); let n0Caa = 324; when case 94 : chillax end end main : pop end

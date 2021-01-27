@@ -1,0 +1,1 @@
+program T9 : main : X, l5, d9 : boolean; W : boolean array; do c(not 7 / (1) /= not(1) + false and 4 - 17 - 9); let RJ[true and false and 5660] = p or 7520 - 7; output 3 - 89 >= 9 . ")^" . "'|"; pop 2 = 07 end

@@ -1,0 +1,1 @@
+program AA : l : takes XZ : boolean array; M, ff, D5, b : boolean returns boolean _ : integer; W : boolean array; P2z, n9 : boolean; while false and 7 : chillax end end z : takes L6 : boolean returns boolean b4j : boolean array; Y300a : integer; pop 2; let r = array 9680 end main : chillax end

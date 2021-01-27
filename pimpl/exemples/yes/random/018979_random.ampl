@@ -1,0 +1,1 @@
+program G : lQ : takes O, p : boolean array; Q, Y4, EK : boolean returns nothing XF, i : boolean array; do E(I and 5) end k : takes l, TQl : integer returns nothing output "8" end bg : takes n0 : integer returns integer array a, r : boolean array; chillax end main : input Tp; let P = hy > 6 - 45 end

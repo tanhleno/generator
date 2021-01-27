@@ -1,0 +1,1 @@
+program e : V : takes u, y : integer; _ : boolean returns nothing input t; let t[- 5 - 4] = 1; pop 83 end main : e, f, m1X0, Ld5 : boolean array; output ">" . - (8440) and 0 . ""; pop; input z[KpU and 16]; when case 7010 - 0 > 52 : while 5 : chillax end end case 6870 = 9 : do r(4) end; pop; input g end

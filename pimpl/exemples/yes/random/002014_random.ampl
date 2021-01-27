@@ -1,0 +1,1 @@
+program A : pC6aa : takes N47aa, xc, C, E15, kH, e1 : integer returns integer array chillax end j : takes a, W, Yms : integer array returns boolean chillax end main : N, u, c, B, D, F : integer array; chillax end

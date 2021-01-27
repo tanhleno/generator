@@ -1,0 +1,1 @@
+program Q : uV : takes w43 : integer array returns integer chillax end g3 : takes a0 : integer; y7, r, l5 : integer array; G, sW, H : boolean returns nothing pop 305 = 26; let QdB = array 2; let o1H0a = array 61 end t9 : takes d : integer array returns nothing chillax end g : takes WI7, H7Q, P8V : integer returns nothing let j = 6970 end main : chillax end

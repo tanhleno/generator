@@ -1,0 +1,1 @@
+program g8 : G : takes x, p : integer returns integer array s : boolean array; j : boolean; do qC(true > 07) end J : takes y3ka : integer array; Gt9, v0t, m : integer array returns nothing p9, R6 : integer array; J : boolean; chillax end main : chillax end

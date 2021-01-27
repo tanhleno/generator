@@ -1,0 +1,1 @@
+program H : fnm0a : takes G7 : boolean; J : boolean array; V6 : boolean; d : boolean array; N1 : integer returns nothing chillax end v : takes q5 : integer returns nothing kxO, E : boolean; input w end main : chillax end

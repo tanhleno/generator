@@ -1,0 +1,1 @@
+program n80aa : i : takes t4L0 : boolean array; t5H, wI1aa : integer; B9h0a, HU : boolean returns integer while - 27 or 30 - 0 : do d7(112, 64) end end PPJ0 : takes B, n8s : boolean array returns integer array chillax end main : chillax end

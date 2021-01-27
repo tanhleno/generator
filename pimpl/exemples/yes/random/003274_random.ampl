@@ -1,0 +1,1 @@
+program JHZ0 : N5Q : takes _, K, z, cXJ, c : integer; R : boolean array; C : boolean returns nothing f50 : boolean; chillax end f : takes j3b, B, R : boolean array returns boolean when case 77 - 3 <= 8 : chillax end; let v = 5; output "" end S6 : takes z : boolean returns integer chillax end main : chillax end

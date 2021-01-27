@@ -1,0 +1,1 @@
+program M : main : g4, Z4, m, g6 : boolean array; G, y1 : boolean array; when case - true or(6) = true / not 269 : while - 6 - 3 < 76 : do o(7); pop end end case(422) and 6 and 6 : input rE4; let Q = 00 end case 58 : chillax end case - 0 - 23 : pop end; let V = not 279 > 71; pop 11 - 0 /= 83800 end

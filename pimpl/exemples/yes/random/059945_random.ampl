@@ -1,0 +1,1 @@
+program x : t76 : takes f : integer array returns nothing chillax end main : m, z5, j : integer; let O = - false / true and 17 + true and 6 - 413 > false; pop; when case - not 41 < - 29 : while 9 : chillax end end case 42 - 5 : output "7\n!a" end case 1 = 15 : do W(11) end case 9 : chillax end case 0 : chillax end end

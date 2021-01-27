@@ -1,0 +1,1 @@
+program j : main : M : boolean; while - 19600 * not 871 * 30 and 583 >= - (8) / not 8 and 90 + not 285 and 0 or 2130 - 75 : when case 3 <= 52 : chillax end case 1 = 386 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program _2 : Ed : takes P : boolean returns integer array output "8\\" . "" end v : takes j34 : boolean; E, q9 : boolean array returns nothing chillax end T : takes b : integer array returns nothing chillax end main : bG0, k, V, d1Va : integer array; P, u, K4D0, p, Xh, Y : boolean; Jy, Gf : boolean; Q5, k2 : boolean; chillax end

@@ -1,0 +1,1 @@
+program E : main : Jo30a : integer; output "E6" . "F" . 91; do W81(true / true > QL7 and 2 - 5320 - 201, - 8 /= - 59, - 4 - 46200 >= 26700, 6, 5410, 85100); while - true : chillax end; when case - 7 = 0 : chillax end case 2 = 6 : chillax end case 7 : chillax end otherwise : input r59aa; pop end end

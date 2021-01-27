@@ -1,0 +1,1 @@
+program Dr : bMYa : takes K : boolean array; a : integer array; exJ0a : boolean array returns nothing PB : boolean array; F : boolean; when case ZF and 66 : chillax end otherwise : do I5(1) end end main : k49, i2 : boolean array; y : boolean array; Q, O7, I : integer array; y9h : integer array; chillax end

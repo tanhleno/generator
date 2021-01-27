@@ -1,0 +1,1 @@
+program g5 : o : takes Ntp, rg, h, H350a, n, x, I3, k : boolean array; mY : boolean returns integer chillax end Rs : takes v7 : integer array returns integer when case - 4 - 7 : let w = 4 end otherwise : do SR(01) end end main : chillax end

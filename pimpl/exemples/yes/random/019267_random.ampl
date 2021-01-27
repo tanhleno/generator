@@ -1,0 +1,1 @@
+program b74 : nC : takes N, qr : boolean array; FXf0, h9 : boolean array returns integer Vmk, J300a : integer; t86aa, u : integer array; b : boolean; chillax end main : Y : boolean array; chillax end

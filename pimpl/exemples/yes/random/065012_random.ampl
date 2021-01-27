@@ -1,0 +1,1 @@
+program Z14 : Q : takes Q : integer returns nothing se1 : integer; pop - 10 - 7 = 10 end main : O : boolean array; ns30a : integer; Y : boolean array; Q : boolean array; z : integer; m : boolean; chillax end

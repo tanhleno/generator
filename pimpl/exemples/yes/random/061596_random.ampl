@@ -1,0 +1,1 @@
+program h : x8 : takes b : integer array returns nothing when case true : chillax end otherwise : chillax end; output 05 . "" . 5860 end main : input HH[false rem(15) - (6) or false - 9 - 6]; pop end

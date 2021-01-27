@@ -1,0 +1,1 @@
+program W56 : C940 : takes l0n0 : integer returns boolean Q, G1 : integer; wJ : boolean array; c : boolean array; X : boolean; Gy : boolean; M : boolean; while uZ : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program k : M : takes c6 : integer array; R : integer; jTp : boolean returns integer chillax end nI9 : takes n6 : integer returns integer array do D(- 3 - 920) end A6 : takes Cs : boolean; Z, H0 : integer returns boolean array output "" . 5; do Ql(0) end p : takes CC : boolean array returns nothing l, B6 : boolean; kR : boolean; chillax end main : chillax end

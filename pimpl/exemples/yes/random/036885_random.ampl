@@ -1,0 +1,1 @@
+program l : y42aa : takes F61 : boolean; c : integer array; O2Y0 : integer returns boolean chillax end _ : takes E : boolean array returns nothing chillax end main : g, i15a : integer; do N(false rem(93) / 02 and 73 + true or not 7 and 8870 - 5) end

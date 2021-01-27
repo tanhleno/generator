@@ -1,0 +1,1 @@
+program a12 : i : takes vj7 : boolean; B : boolean array returns integer array y43aa, Vn : boolean; input E59a; when case - 9 /= 2 : output "" end otherwise : chillax end; input p end W6 : takes prh : boolean array returns boolean array e170 : boolean array; chillax end main : chillax end

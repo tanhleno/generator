@@ -1,0 +1,1 @@
+program j52 : e1 : takes p3, paX0, y, m : boolean array; yS : integer returns nothing V : integer array; K2, k, l4, qk : boolean array; N : integer; d1U, G5 : boolean; let H1M0 = array - 1 end main : input Qrq[- true and not(3)] end

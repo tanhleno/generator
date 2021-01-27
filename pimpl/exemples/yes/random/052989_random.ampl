@@ -1,0 +1,1 @@
+program y_5a : F : takes u6 : integer; c : integer array returns nothing chillax end main : Y : integer array; when case not(8) rem false or 5 and true + DN and 068 - 24 >= - not 236 / true and 403 + 5 + 7 - 758 : while - 52000 - 61 /= 5360 : chillax end; input Om end case - 4 and true and 0 < - not 20 - 5 - 3 : chillax end otherwise : chillax end end

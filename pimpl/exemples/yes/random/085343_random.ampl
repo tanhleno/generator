@@ -1,0 +1,1 @@
+program Yc : main : sk : integer; while - true rem false or not _ = not true : chillax end; do q(61 and not 2 and 8140); output 34 - 747 = 3 . "3" . "\""; while - 58 - 8 : do y220a(90) end; input j; input i[48000] end

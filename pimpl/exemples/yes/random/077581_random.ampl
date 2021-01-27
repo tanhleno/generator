@@ -1,0 +1,1 @@
+program R6 : main : L, n1 : integer array; nhG : boolean array; p, g : boolean array; let Rj[- true rem 82 * 0 and 0] = - not(4); pop - not 36 + 7 <= 8 - 960; while(5) <= 6 - 9 : while 18900 : pop end; when case 3 : chillax end end end

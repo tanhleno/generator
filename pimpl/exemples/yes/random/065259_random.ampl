@@ -1,0 +1,1 @@
+program _Ye : o : takes A : integer returns nothing let d19 = 21 - 5; pop 61; output 1 . 47; while 9 : chillax end end main : x : integer array; c6, d60, QZp, q4 : boolean; fl, Zk, A, U : integer; chillax end

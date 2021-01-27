@@ -1,0 +1,1 @@
+program k0Aaa : main : input E[- true * not vw6]; while - i(78) > - W or 37 - 0 : pop; pop 478 end; input M[- true and 44]; when case 1 - 01900 : let it = 3; while 06 : chillax end; pop end otherwise : when case 1 : chillax end; pop end; input A[6]; output "" . "j" end

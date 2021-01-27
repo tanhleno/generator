@@ -1,0 +1,1 @@
+program Q : y : takes x7 : integer returns integer array output 993 <= 5 . 79000 . "9n" . 22900; input M4x[93 - 0] end VJ2 : takes FH8a : boolean array returns boolean chillax end main : u : boolean array; E : boolean; I : integer; do e(false + 74) end

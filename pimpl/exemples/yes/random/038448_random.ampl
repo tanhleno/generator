@@ -1,0 +1,1 @@
+program V : x0U : takes t : boolean array; I3f, d, h7 : integer returns nothing when case false : when case 662 : chillax end end otherwise : chillax end; output "" . 2 . 5 . "" end main : h7 : integer; chillax end

@@ -1,0 +1,1 @@
+program N : VIP0 : takes w : integer; P : boolean array; f : boolean returns nothing do e(- 7); when case 0 = 3 : let D = 1110; let L = 5 end case 48 : when case 228 : chillax end end case 8 : pop end otherwise : chillax end; input e910 end main : let GQ[50900 * 0 / 55 and 0 or N(3970) rem d8 - R - 3 - 8] = - false end

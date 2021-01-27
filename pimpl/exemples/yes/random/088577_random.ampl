@@ -1,0 +1,1 @@
+program M : main : input eq3[- E63 / 55]; when case(288) : do Y(63 = 13, 4090, 5); when case 6 : chillax end case 9 : chillax end otherwise : chillax end; input R6saa end otherwise : chillax end; pop - 81 = 5 end

@@ -1,0 +1,1 @@
+program fT : dg7 : takes ns3, T : boolean returns nothing t : integer array; kFA, a, Qt5 : integer; chillax end main : TjM : boolean; N1 : integer; O3, RPQ, j3 : boolean; c, hv, ZY, d : boolean; s : boolean; jA10a : boolean; chillax end

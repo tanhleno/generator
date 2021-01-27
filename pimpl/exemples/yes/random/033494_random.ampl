@@ -1,0 +1,1 @@
+program g370a : R : takes w : boolean; b, r, R, O : boolean array; k, o, g : boolean returns nothing t, o9 : boolean array; s7 : boolean; y2 : boolean; chillax end main : do u7(- qn and W1u[367]); do aq(Z[14600] - true or 9 - 8 <= - false and 2960) end

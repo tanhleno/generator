@@ -1,0 +1,1 @@
+program X : w1 : takes HBR, dI, p : integer; sT, UZ3 : integer array; S19aa : integer array; q7 : integer array returns boolean array y8, U : boolean array; k3 : integer array; wz, H : integer array; chillax end main : qj, j3 : boolean array; output false and false or(0) and 752 - 8 - 7 < - 695 and 5; output - 1 and 46 - 4 - 7 end

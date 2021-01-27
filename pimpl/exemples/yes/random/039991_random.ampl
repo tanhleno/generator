@@ -1,0 +1,1 @@
+program a0z0 : l6i : takes k3 : boolean array; q2E0 : boolean array; s : integer returns nothing l5 : boolean; input w[- false and 58600]; while 9 - 88 > 1 : chillax end; pop end E0Maa : takes C5, n, j : integer; F, RC : integer array returns nothing chillax end main : y : integer array; output(1800) rem not 752 + syra - 83 - 6 > true . 5 and 0 - 3 <= - 7 - 13 . "" end

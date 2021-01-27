@@ -1,0 +1,1 @@
+program pey : FO : takes A, N, X, Z : boolean array; y, y : boolean returns integer array while - (7) and 08 : pop end end o : takes t9taa : boolean; RS : integer array returns integer array I : boolean array; chillax end main : I : integer; chillax end

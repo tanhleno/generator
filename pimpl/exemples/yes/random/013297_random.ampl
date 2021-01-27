@@ -1,0 +1,1 @@
+program aL : Gj40a : takes y, M49, z7 : integer; F : boolean returns integer x, J, cR, h, Z : boolean array; chillax end F : takes X : boolean array returns boolean U3, d, x : integer array; r : integer array; chillax end main : O40, nX : boolean array; iN7, hV8 : integer array; c, S51 : boolean array; chillax end

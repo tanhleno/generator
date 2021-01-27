@@ -1,0 +1,1 @@
+program MAP : main : H, s, O : boolean array; RTw : boolean; q, x, ZJX : integer array; qxM, E4_aa : integer array; AW_, d, XH : boolean array; while - w2[3] * not 6 and not 10 = true or na and 3 or 4 : do g(- 6); do vV4(1 = 246) end; input ms[- (190) / 6 - (9) and 4]; let c2 = array - ul60 - 5030 - 9 end

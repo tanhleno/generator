@@ -1,0 +1,1 @@
+program Vn00a : main : d : integer array; when case - i : chillax end case(0) + false and 000 = not 1 or 9 : chillax end otherwise : when case 0340 = 6 : do N(8) end otherwise : chillax end end; output 63800 and 6 or 57900 - 8 . "" end

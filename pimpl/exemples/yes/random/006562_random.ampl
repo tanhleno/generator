@@ -1,0 +1,1 @@
+program _ : z1jaa : takes L, H, m6, vx2 : integer; B : boolean; w : boolean returns integer array pop; while 055 : chillax end end X : takes e, F6, Q, _ : boolean returns integer array Y, B : integer; chillax end main : B : integer array; bmM0a, O : integer; pop - not(8) / true and 4390; input O end

@@ -1,0 +1,1 @@
+program yFz : Q : takes D : boolean array; k : integer; eI : boolean returns nothing output 794 . "Mx" . 5; while 12 - 1 : chillax end; when case 3 = 31 : chillax end case 62 : pop end case 94 : chillax end end main : hr : boolean array; chillax end

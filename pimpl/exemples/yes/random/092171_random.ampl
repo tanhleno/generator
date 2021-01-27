@@ -1,0 +1,1 @@
+program s4 : main : output - not D9 + true . HO - 3 > - 484 - 59 . - 14 - 17 /= 15 . 3; output - H - 8 - 14 >= - 58100; when case Y or 4 - 72 : chillax end case - 26 : pop end otherwise : let w = 0 end; do O(67600 < 27, 84 = 51) end

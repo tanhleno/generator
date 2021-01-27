@@ -1,0 +1,1 @@
+program O : T : takes D, _, h87a, j : boolean; WqO : boolean array; XUQ, U : boolean array; j, r, l7, a, Z : boolean array returns nothing chillax end L : takes s0 : integer; DYRa, G9 : boolean array; H24 : boolean returns nothing k, n : boolean array; t : boolean array; do A(- 3 - 5 <= 83, 5) end main : let U1O0 = array NX or true end

@@ -1,0 +1,1 @@
+program o : w : takes r, X : integer returns boolean pop 4 end pY : takes BP3, b : boolean; M62, i, F91 : integer array; d2A0a, d : boolean array; w : boolean returns nothing O, zy : boolean; x, a, J : boolean; while - 9 - 563 : chillax end end main : t7, LY, n : integer; let y = array - (9) - (6) rem not 130 + not 7 and 29 - 4 end

@@ -1,0 +1,1 @@
+program f : k : takes j, Fp50a : integer; C5 : boolean array returns nothing chillax end V9 : takes X, eB5a, a, w, a_7 : integer array returns nothing J : integer array; while - 36 : output "40" end; when case 62 = 82 : while 9 : chillax end end case 00100 : pop end end main : J : boolean array; pop end

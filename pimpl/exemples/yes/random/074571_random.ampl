@@ -1,0 +1,1 @@
+program B : main : j, P55 : boolean array; C5N, DM, z3f, F, v, Y : integer array; c : integer array; x67 : boolean array; b3Uaa, P : integer array; when case y2(9) or(9) or not 9660 and 4 < not y61a : input h end case false * false or not 0 and 34 : chillax end case - false and 85400 + 8 - 47 : chillax end otherwise : chillax end; pop false >= - 6 - 929; input q end

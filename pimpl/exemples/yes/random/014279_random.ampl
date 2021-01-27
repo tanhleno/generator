@@ -1,0 +1,1 @@
+program iE : m1Sa : takes zv, A, n5 : integer array; u8m : boolean array returns integer chillax end I : takes o, s99, m, h, U9D0, yj, B : integer returns boolean chillax end main : k5 : boolean; do n(- (4 = 03) or n(8) * true) end

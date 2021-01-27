@@ -1,0 +1,1 @@
+program AOQ0a : o7 : takes r, M : integer array returns nothing while 511 : output 65; when case 976 : chillax end end end main : g, a : integer; g : integer array; kK, D6, OBL, h, K2Iaa : boolean array; chillax end

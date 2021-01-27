@@ -1,0 +1,1 @@
+program l1 : r : takes ZS6, E7, _8, Fw, rc7 : boolean returns integer array while false : chillax end end v3C : takes M : boolean; h, u3U0, OR : boolean returns boolean array P_, U : integer array; C2O : boolean; chillax end main : pop(7) and(0) and 08 - false = (31) + 0 - 78 end

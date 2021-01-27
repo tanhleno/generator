@@ -1,0 +1,1 @@
+program B7 : main : w42 : integer array; p, zB : integer array; zK : boolean array; B6Maa : boolean array; Z : integer array; when case - 5 / not false and wN and 8 : chillax end otherwise : while 5 : chillax end end; output - (9) and 2 + 5 - 862 . "G5\"" . 71 = 7 end

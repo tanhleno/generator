@@ -1,0 +1,1 @@
+program s : I : takes fG : integer; L : integer returns nothing Q0 : boolean array; input h6[(9) and 6 or 989 - 2]; input E[64800] end main : m : integer; when case - not not true : chillax end; input Uj0a[B]; let e = array false and 74 end

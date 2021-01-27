@@ -1,0 +1,1 @@
+program t1r : fU : takes N9Ha : boolean array returns boolean array when case qt70 : while 50 : chillax end; output "8" end otherwise : do v8E(58) end; let D = array - 66 - 1 end nP : takes IbT0, x9xa, k3 : boolean returns boolean I, K_9, U : integer array; chillax end main : chillax end

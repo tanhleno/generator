@@ -1,0 +1,1 @@
+program V : main : ig : boolean array; pC20a, q : integer; do T_9a(- 3 + true / 7 and 38, - not true rem A8 and 63 = - not 97 and 119, 3 and 352, - 35 /= 86, 4 = 7, 4, 10); when case - h(2930) > 56 and 5 + 1 - 5 : chillax end otherwise : pop end end

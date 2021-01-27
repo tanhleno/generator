@@ -1,0 +1,1 @@
+program G : r3 : takes s : boolean; r : boolean array returns nothing chillax end main : when case - not true rem not false * true and 26 /= true and K770a and 86 + (35) - 13600 - 6 : chillax end case - V(092) and not 06 and 8 : do D170(1 = 1, 396, 4) end case - true and 9 or 61 <= 142 - 5 : output 90800 . "" end case - 8 /= 0 : input t; let YZ = 3; pop end; let Aa = (337) end

@@ -1,0 +1,1 @@
+program s98 : main : T : boolean array; G0, p2 : integer array; W : integer array; lU7aa, R7 : integer array; let Sg30[- X / a[4] + true rem true and 89] = - hA(3) / true and 1 or false + 71 - 7 <= - (2) - 2; when case - true rem true : input r end otherwise : chillax end; input x end

@@ -1,0 +1,1 @@
+program y4H0 : a : takes cPba, k, G, c : integer array returns boolean y : boolean array; OS, Z, a : boolean array; v : boolean array; output - 04 = 0; let Y9M0[4 - 06] = 11; output 2 . "" end main : while - b[1] > - false or false or 5 : while - 3 - 2 = 77 : chillax end end; output "" . - 10500 - 45 end

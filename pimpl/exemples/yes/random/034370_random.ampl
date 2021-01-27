@@ -1,0 +1,1 @@
+program m : c : takes V : boolean; p, k : boolean array; hhY, aI, t4C0a : boolean array returns boolean array when case true and 1 + 49 = - 87 - 8 : chillax end otherwise : chillax end end main : chillax end

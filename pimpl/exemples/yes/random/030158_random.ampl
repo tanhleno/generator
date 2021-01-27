@@ -1,0 +1,1 @@
+program j43 : S : takes S, U : integer array returns integer when case false and 00 or 389 - 5 : input q5 end otherwise : output "" end; input Nw end main : c1z : boolean array; w9ja, B9 : boolean array; N74a, W7, hQ90 : integer; qe, PU, h : integer; chillax end

@@ -1,0 +1,1 @@
+program X : B4 : takes v, l4, X, u_ : boolean returns nothing I : integer; HK, L, b : integer; Uxa, C : integer; output ""; while - 53 - 933 = 8 : input dG_a end end main : n, o, FZ, v4 : boolean; D8 : integer array; chillax end

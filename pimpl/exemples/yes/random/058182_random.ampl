@@ -1,0 +1,1 @@
+program kQV : Aw : takes yf : integer array returns boolean B2, A, T240, H1 : integer; chillax end main : do l1(- not not n rem true and 69 and 42, true - false, - (0470) and 42, 2 - 6); output - not 67 and 5; let l[not 8 - 77100] = array - 9 - 4 end

@@ -1,0 +1,1 @@
+program a : z82a : takes L620 : boolean array returns nothing d : integer array; chillax end main : output false and false and 1 + not 71 or 03 - 57 /= - 23 and 8550 . Xsf and 7 + 73 - 9 . "}" . 55200 = 1680 . "\"" . 2; do X((5) * (6) or(93) = - (9) or 1, - true) end

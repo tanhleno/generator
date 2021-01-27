@@ -1,0 +1,1 @@
+program M : main : _Eeaa, Z : integer; input K[not(814) / oe5(154) and not 4 or(95) * true and 9]; output ""; when case - true and 3 + 81 : let jE30a[69] = array 975; pop; let akj0a = 9; pop end otherwise : chillax end end

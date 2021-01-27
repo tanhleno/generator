@@ -1,0 +1,1 @@
+program De : r : takes A2, c, V0 : boolean; n5, oe : integer array; yS : boolean array returns nothing J58 : boolean array; do M5(false - 375 <= - 12 - 319, - 7 - 6 < 8280, 34 = 07400, 7) end main : input A8; output true = 2 . "@" . "17\"" . "" end

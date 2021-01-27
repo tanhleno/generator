@@ -1,0 +1,1 @@
+program q : main : do T62(not true / 7 < - vJ / J - true); when case - Kg7[0] + false and 75 : chillax end case VA + 47 - 145 : output "q" . "\\"; when case 7 : chillax end; let u = 26000 end otherwise : while 10 : pop end end; when case false and 38 + 8 - 2 = - 2 : chillax end otherwise : while 2 : chillax end end end

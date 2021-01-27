@@ -1,0 +1,1 @@
+program Z : qT60 : takes g, Qh : integer array returns integer array e : boolean array; CK, c : boolean array; Q, AS : boolean; do Q(6 + 5 - 8, - 2); output 0040 = 5 . "" . 8 . "`"; do DI(0 = 2, 6); while 89300 : chillax end; let Dy40a = 2 end main : chillax end

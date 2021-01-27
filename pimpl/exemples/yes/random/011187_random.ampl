@@ -1,0 +1,1 @@
+program z : Y : takes V0, d, V : boolean array returns nothing D, lI8aa, Hs : boolean; input p67a[- false and 4 - 22 - 9]; output 4; output "!\n"; when case 5 : pop end end m : takes o_Ea, y : boolean returns integer array while - 07 : let SV = 38; pop end end main : Sa, e3 : boolean array; J7, Q : boolean array; chillax end

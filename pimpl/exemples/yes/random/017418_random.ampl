@@ -1,0 +1,1 @@
+program x : z660 : takes q7l, K : boolean; U9o0, Y : integer; Nk30a : integer array; S, Cz : boolean array returns boolean array zYc0a, G : integer array; A : boolean; while(9) : chillax end end main : chillax end

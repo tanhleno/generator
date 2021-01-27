@@ -1,0 +1,1 @@
+program _1 : t : takes Z5, Yq1 : boolean returns integer array while - 8 - 448 - 72 >= 0 - 0 : chillax end; input u[- 84 - 464] end T : takes n, HwN : boolean array; Sq3 : boolean returns integer array P : integer; j : integer; QT : boolean; Y : boolean; chillax end main : H, D, cB : boolean array; chillax end

@@ -1,0 +1,1 @@
+program c : q : takes D : integer returns nothing n : boolean array; t4 : integer array; N : integer; chillax end _ : takes D7 : boolean array; XK, eW : integer; U : boolean array; U, D1ja, M : boolean; p, oc, k : integer array returns boolean array chillax end main : P0 : boolean; B : integer array; pop - false - Oc8 or 50 - 95 > - not 031 or 8 - 5 end

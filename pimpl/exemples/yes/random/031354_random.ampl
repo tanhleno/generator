@@ -1,0 +1,1 @@
+program V : P4daa : takes bQO, W48a : integer returns boolean array D : integer array; chillax end X : takes tS : integer array; e : boolean returns integer array chillax end yA1 : takes N : integer array; V : boolean array returns integer BBz : boolean array; y5, M00 : boolean; pop end main : chillax end

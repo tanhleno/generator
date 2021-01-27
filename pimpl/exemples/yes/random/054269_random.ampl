@@ -1,0 +1,1 @@
+program j66 : J : takes m0A : integer array; f, Y, TX : integer array returns integer array Y : integer; o5, W : integer; A4 : integer; W3, v6g : boolean; Wb : boolean; chillax end main : output false or not 6 and 6 - 3 - 1 > - true . "\\" end

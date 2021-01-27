@@ -1,0 +1,1 @@
+program b : main : let n1[- true] = - 4470 /= - false and 5; when case - i[3] + j and 5540 < not 5 : output 3370 . ""; pop end case - true and 3 : output "pE!a" . ""; do L(490) end otherwise : let ce9 = array 1 end; output - 77600 - 70 > 33; input D01[9040]; when case 7 = 3 : chillax end case 8 : chillax end otherwise : pop end end

@@ -1,0 +1,1 @@
+program o : main : cq : integer; JXv : boolean; X : boolean array; v, b, TlP, y : boolean; while - (1 = 4) - not false * false and 43 or not 95 - 7 >= - not false and true and 63 : chillax end; let p4 = array - false rem 75 + (10) and 1 end

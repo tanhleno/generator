@@ -1,0 +1,1 @@
+program q : Z06 : takes H : integer array returns integer array u : boolean; when case - true - 23300 - 69 <= - 785 - 4020 : chillax end otherwise : chillax end; let o8 = 1980 = 7 end G : takes I : integer array returns nothing output "\n" . 15; input ai[428]; do xu90a(65); pop end main : XA, B : integer array; chillax end

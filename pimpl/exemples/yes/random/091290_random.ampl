@@ -1,0 +1,1 @@
+program e : main : let g[false / D3X0[0] rem false and 1 or true rem false and 68 + Fu] = array 078; pop - true and 9 + 84 - 7 > 00 - 3; input YQ[46 or 47 - 58]; while - 8 - 7 = 5 : let H = 850 end end

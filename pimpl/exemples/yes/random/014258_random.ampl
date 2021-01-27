@@ -1,0 +1,1 @@
+program v : Yq5aa : takes O, Zcg, w4 : integer array; p : boolean array; p : integer array; v2 : integer array; r8 : integer array; Kb50, f : boolean returns nothing pop; input X8 end main : do Mq(r0 rem(7) + false / 0 and 5 > - true) end

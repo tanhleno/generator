@@ -1,0 +1,1 @@
+program S : i : takes Y94 : integer returns nothing do p(- (89) and 3 - 70 > - 6) end main : do H(- not true / true rem(8) or false * true + true and 1, - not true and(4) and 1 or not 73 - 201 = - not 17000 or 48, - false and 86, - 62 > 6) end

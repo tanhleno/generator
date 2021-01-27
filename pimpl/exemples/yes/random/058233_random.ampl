@@ -1,0 +1,1 @@
+program CF30a : sL : takes m : integer array returns boolean B, p : boolean; do tmZ0a(- 9980 < - 54 - 1); do p(- 81, 4) end v : takes PxE0a : boolean returns boolean input a52 end E : takes E, J7, N, CrW0, G : boolean returns integer array chillax end X : takes B99 : boolean returns integer array DE : boolean; input o; pop; output "01" end main : chillax end

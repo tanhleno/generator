@@ -1,0 +1,1 @@
+program r : Vp10a : takes y3V0 : integer returns nothing U : boolean array; when case 0 and 80 - 71 /= 27 : chillax end end g : takes QkT, c : integer array; x3 : boolean returns boolean do Yk(- 0 - 9 /= 5380, 8 = 7, 2); pop 18 end main : Q : integer; gv : integer array; do Mm(- w5, true, - true and 2 >= 9 - 6780, - 0 - 20) end

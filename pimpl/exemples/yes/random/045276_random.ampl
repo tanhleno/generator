@@ -1,0 +1,1 @@
+program U : YqS0a : takes j9 : boolean array returns nothing when case true = - 7 : chillax end end j : takes H73a : boolean array returns boolean array while - 1 < 5 : chillax end; pop; when case 4 : pop end case 9 : chillax end; input eK end main : output "7\n" . not 2 and 847 > 9 - 02 . - 70 - 66 . 1 . 7 end

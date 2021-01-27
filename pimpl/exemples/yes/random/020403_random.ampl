@@ -1,0 +1,1 @@
+program _ : q970 : takes U, L : boolean array; e : integer array; c, MA, uMx0 : integer array; o, C : integer array returns boolean O30, c, _, M89aa, v3 : boolean; chillax end main : let J = array 6 * f1[6] and true and 1; while t / false + true and 4 <= 9 and 2 or 4 - 3 : pop; do pPu(7, 53) end; output - 1 end

@@ -1,0 +1,1 @@
+program D : W62 : takes W : integer array returns integer pop 25 < 877; while 362 : chillax end; when case 1 : chillax end case 1 : chillax end end main : P9Ba : boolean array; f : integer array; input S end

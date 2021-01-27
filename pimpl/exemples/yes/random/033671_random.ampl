@@ -1,0 +1,1 @@
+program Z : Y : takes Zo : boolean; c, R8, Q, mrS : integer array returns boolean ap, uEs, B, i, h : integer array; MY6aa : integer array; L_, p : integer array; while false and 6 >= - 0 - 6790 : output "q7" . "" end; let D1[3] = 0 end main : pop end

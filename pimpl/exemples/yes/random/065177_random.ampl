@@ -1,0 +1,1 @@
+program V : t : takes s8 : integer returns nothing input I[- QGP] end c : takes bG, S9Uaa, P, S : boolean array; T, z : boolean; pV : integer array returns integer P : integer; tG, Sd : integer array; chillax end P : takes U : integer returns nothing chillax end main : U : boolean array; pop; input K; pop - 91700 <= 7; output 4 end

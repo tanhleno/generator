@@ -1,0 +1,1 @@
+program f : b0R : takes HsSa, m8D : integer array returns nothing f, M8 : boolean array; chillax end main : gz : boolean array; I, b : integer; input v[not true or not(3) rem not 70 and 5 or true and 0 or 13 - 5] end

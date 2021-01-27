@@ -1,0 +1,1 @@
+program n : zv3 : takes p9p : boolean array returns nothing tC3 : boolean array; mN30a : boolean; pop - 6 end Q71 : takes _, fG1, X3, e, SsE0 : boolean; U, V, sxZ : integer returns nothing chillax end LK0 : takes Q2waa, c : boolean returns nothing K0, X : integer; f, k6 : boolean; w : boolean; pop; while 71900 : pop end end main : chillax end

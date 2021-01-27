@@ -1,0 +1,1 @@
+program y : main : n, X : integer array; x, Dp50 : boolean array; let q[- not not D / (983) * 16900 and 7030 - 5] = array true rem b6(0); output "+6a" . "9sa"; output 7 /= 120 . 5440; pop 2; output ""; do q7T(563) end

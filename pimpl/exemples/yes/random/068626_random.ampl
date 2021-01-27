@@ -1,0 +1,1 @@
+program MjYaa : main : r, h, n, z, L0, u9 : integer array; when case - Q[859] * false rem(9) - 8050 rem 0540 or false and 0 : when case - 53400 : input l7Y; input k3Va; pop end; while 3 : chillax end end case true / not 03 : chillax end otherwise : chillax end end

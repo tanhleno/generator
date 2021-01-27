@@ -1,0 +1,1 @@
+program d : o7I : takes V, Lg : boolean; J, a2 : integer; z : integer array; M18 : integer; hp, Y3, oK : boolean; f, xpT0a : boolean array; j, Z : boolean; I : boolean returns boolean chillax end m : takes Yz : integer array; h : boolean returns nothing let UIS = 9510 end main : RsJ : integer; chillax end

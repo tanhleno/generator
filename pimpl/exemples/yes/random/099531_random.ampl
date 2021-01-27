@@ -1,0 +1,1 @@
+program F : main : while not not I and(04) : chillax end; input T[- (6) - false]; when case - false and 6 : let VG = 66; output "'"; output "l}\"" end case - 40 - 10 /= 1 : do Q(31) end case 814 : pop end otherwise : while 55000 : chillax end end; let z9W = array 18; pop 6; output 8 . ""; let j = 9 end

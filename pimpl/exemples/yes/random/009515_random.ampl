@@ -1,0 +1,1 @@
+program n2Q0a : l : takes S, X, D : boolean array; b32a, v, o0A0a, y, go2, _2 : integer; Iy : integer array returns boolean chillax end main : h : integer array; UN, WN : boolean; E, FM_, s, n7T : boolean; NK : boolean array; Xv : integer; a : boolean; output "+" . false - 58 > - 43 - 58100 . "%7\"a" . "" end

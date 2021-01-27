@@ -1,0 +1,1 @@
+program HyAa : main : c560a : integer array; when case - v8 <= Z13aa(5) rem false and 6 : chillax end case false and 2 and 5 - not 8 and 4 : while 44 = 7 : do PJo0(5110) end end case - 8530 and 1940 or 8580 - 4 > - 28700 : output 8 . ""; pop end otherwise : chillax end; pop end

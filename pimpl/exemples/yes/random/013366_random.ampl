@@ -1,0 +1,1 @@
+program z : H : takes e, s, G : integer; Gj3aa : integer; K, d8, C4 : integer returns nothing s : boolean; L02 : integer array; pop - 4 <= 5 end U : takes V700 : boolean array returns integer array p : integer array; chillax end LIu0 : takes RsK : integer returns nothing X9, BF : integer; t, N4gaa : boolean; R0 : boolean; do ue8a(10); input q[0] end main : chillax end

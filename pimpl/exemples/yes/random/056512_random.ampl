@@ -1,0 +1,1 @@
+program j8p : w : takes O : integer array; n : integer; dT, uz7, j14, a : boolean array; k5T0 : integer; r, t2 : boolean; l : integer; vE, t6sa : boolean; fw : boolean returns integer array let IS = - 2 end main : Jg : integer array; c, V75 : boolean; chillax end

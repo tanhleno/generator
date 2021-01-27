@@ -1,0 +1,1 @@
+program m : a : takes k : boolean returns nothing while e8 - 6 < 46200 - 9 : output "" end; while - 01 - 0920 : pop; while 6820 : chillax end; pop end end main : ds, J1, J, E6 : integer; p3, Y : integer; D, h, O9, f4 : boolean array; a, G : integer; dy, r020, A6 : boolean; chillax end

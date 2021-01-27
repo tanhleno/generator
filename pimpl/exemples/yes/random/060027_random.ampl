@@ -1,0 +1,1 @@
+program t : e : takes ck : integer array returns nothing chillax end main : q : integer; V : boolean array; rG30a : boolean array; D : boolean; _, K4 : integer; i22 : boolean; r2 : boolean; P : boolean; chillax end

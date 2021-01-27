@@ -1,0 +1,1 @@
+program IBz : c04 : takes q : boolean array; h : boolean array returns boolean array Y6, p : boolean; P3 : boolean; while - false : chillax end end main : g : integer array; EzI, A : integer; M, x : integer array; while o0 <= false / 0 and 7730 : pop; let J = array 27 end end

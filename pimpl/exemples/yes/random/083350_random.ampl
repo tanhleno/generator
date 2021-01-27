@@ -1,0 +1,1 @@
+program WRH : main : jt0 : integer; Oe_aa, Ah, u : boolean array; t, u, f, N0I0 : integer; Y, p, S, V : integer array; y, t3G : boolean array; Tc, t : boolean; c : boolean; p7 : boolean; output "" end

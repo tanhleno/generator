@@ -1,0 +1,1 @@
+program RU : G47 : takes S2D : integer array returns nothing chillax end _3 : takes RG : integer returns nothing I, _ : boolean array; chillax end main : f, L3, M, Ng_ : boolean; c, ss : integer array; pop F; pop end

@@ -1,0 +1,1 @@
+program R1 : M : takes F9 : boolean; s : integer; Zt, s, k050a : integer array; Y, g0 : integer array; D, l85 : integer; J, s5w, F : boolean; W1 : boolean returns nothing yk : integer; p : integer array; H : integer array; let I = 0250 end main : let w = array - 74 end

@@ -1,0 +1,1 @@
+program H : ryxa : takes m : boolean array returns nothing Z28, _ : boolean; Nc, Zx4, xK1, Y5 : integer array; while - (723) and 7480 - 3 > - 43 - 94 : output "oLa" . "" end; when case 33 /= 43 : chillax end case 30 = 870 : chillax end otherwise : let z3 = 60; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program n9h : r9 : takes L1, jS : integer; wls, Bm, _, Qo1, AdY : integer returns nothing chillax end H : takes p8 : integer; B : boolean returns integer w4, I, Y : integer; pop 6 = 680 end main : while - X - not false - not 260 <= - not I + 88 and 7 or 181 : when case 09 - 9 >= 1 : when case 6980 : chillax end end; input J4; while 59 : pop end end end

@@ -1,0 +1,1 @@
+program lz : main : Sq : integer; c : integer array; mn, y, R, v : integer array; input _e[462 + 761 * j5 or nh - 29]; while - not false and false and 95 : chillax end; let B[- 8 and 67 - 6 - 79] = array - true and 1 end

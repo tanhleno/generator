@@ -1,0 +1,1 @@
+program Z : P : takes R : boolean; w : integer returns nothing j, qE, A : integer; input j26[not 9 and 7 or 684 - 5]; when case 4 = 28 : chillax end; when case 7 = 4 : chillax end otherwise : pop end end main : chillax end

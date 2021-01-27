@@ -1,0 +1,1 @@
+program CiG : c : takes A0 : integer array; H2, O : boolean array returns boolean array W : boolean array; y : integer; x5, BP : integer; NG : boolean; jy : boolean; _6 : boolean; pop end main : g, k, Z : boolean array; chillax end

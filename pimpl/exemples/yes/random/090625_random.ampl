@@ -1,0 +1,1 @@
+program oqWaa : main : let H[(5630 = 4) rem false * not 3 and 45] = - (44) * (7) and 55; when case(534) : when case 9 = 8470 : do r(7); pop end case 5 : pop end case 7 : chillax end end case(54) > - 5 : chillax end; let p = - 38 - 77700 end

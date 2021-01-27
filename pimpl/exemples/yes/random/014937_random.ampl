@@ -1,0 +1,1 @@
+program n : L69 : takes knG0a, t5, e : integer array returns integer array i, dh : integer; pB8, I, Pv5aa, i : boolean; let M = array true and 0 or 503 - 7; let G = 281; output "" end main : chillax end

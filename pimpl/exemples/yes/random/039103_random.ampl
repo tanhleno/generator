@@ -1,0 +1,1 @@
+program Q : N5 : takes C5y : boolean array; Zqr, o7 : integer array; F, t, i, s : integer array returns nothing L : integer; chillax end main : k0 : integer; u : integer; r : integer; input N; output "1Eaa" end

@@ -1,0 +1,1 @@
+program fS6 : T : takes Bk, esr, ov, Ms, h5, A6 : boolean; U : boolean returns nothing K, N68 : boolean array; chillax end main : pop - false / (6); do Z6p((9290) / not 2 or(4), false + 3, - 01500 < 94, 0); output - 57 . "" . 3 end

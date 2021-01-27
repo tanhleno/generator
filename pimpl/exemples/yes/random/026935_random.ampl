@@ -1,0 +1,1 @@
+program a : e3 : takes s, H : integer; Z : integer returns integer n : boolean array; chillax end FcI : takes Z_, t : integer returns nothing H8 : boolean; let k43[87 - 3] = array 29; output 252; pop end main : chillax end

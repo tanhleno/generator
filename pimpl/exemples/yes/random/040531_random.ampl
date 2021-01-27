@@ -1,0 +1,1 @@
+program f : sx : takes J : boolean array; V : integer; V, S61, qpa0a : integer returns nothing J9, c3 : boolean array; chillax end main : Z, v5 : integer array; dK : integer array; output 1 + (1) /= - (36) . - true + 4 - 6 /= 4 - 870 end

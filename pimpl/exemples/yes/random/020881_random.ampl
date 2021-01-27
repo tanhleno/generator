@@ -1,0 +1,1 @@
+program E : XZea : takes o, a : boolean array returns boolean array sP00a, s0 : boolean array; u : boolean array; chillax end main : do NY_(- not false rem false / (5), - not Db / (344) and 1 > - true - 5, - (7) and 60600 >= 15 - 2, - 9 - 0, 2 = 17, 6) end

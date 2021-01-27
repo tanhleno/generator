@@ -1,0 +1,1 @@
+program Z : main : w : integer; L : integer array; _Zh0, U7 : integer; Q8Vaa, JF, H5 : boolean; xd : boolean; g : boolean; when case true /= false * (7) or(5) - 11 - 063 : let ins = array 0 - 771 end otherwise : while 49 = 71 : chillax end end end

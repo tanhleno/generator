@@ -1,0 +1,1 @@
+program w : HR0 : takes z, P : integer array; xd : boolean array; h : boolean returns nothing while false < 220 : while 53400 : pop end; let Q7 = 40200; do A(6); pop end end f : takes r : integer; a, F9t : boolean; pY : integer returns boolean array do E(9 > 4, 9 = 699, 7); let f[433] = array 9 end main : chillax end

@@ -1,0 +1,1 @@
+program q : s_ : takes u, DE3 : integer array; Mw : boolean array; c, F2 : integer returns nothing w : integer array; KN : integer array; while(3) : chillax end; output 593 end f : takes A6, x_X : boolean array returns boolean q8 : integer; chillax end main : chillax end

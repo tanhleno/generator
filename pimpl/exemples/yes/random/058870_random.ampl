@@ -1,0 +1,1 @@
+program a : o9 : takes F : integer array returns integer array W : boolean array; chillax end main : fji0a : integer array; q, D50 : integer; when case - false and true /= - o(7) or(134) + 0780 - 74 : output ""; pop 3 end end

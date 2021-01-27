@@ -1,0 +1,1 @@
+program a : main : eT, o, i : integer array; m, x4, UOv0a : boolean; output ""; while - (461) and 3 and 65 >= not 67200 - 0 : chillax end; let bI10a = 88 > 68100; do A(6 > 09, 53 = 0); while 53 : chillax end end

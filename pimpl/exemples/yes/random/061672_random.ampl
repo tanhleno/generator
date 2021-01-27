@@ -1,0 +1,1 @@
+program i : zs : takes od : integer array returns nothing while true : when case 30 : pop end case 4 : chillax end otherwise : chillax end end; do z(1); input S_7a[6]; let K = 7 end K9c : takes X600a : integer array; n, OL, vaZ0 : integer array; l : integer array returns nothing chillax end main : chillax end

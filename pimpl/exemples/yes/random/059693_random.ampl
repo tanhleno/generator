@@ -1,0 +1,1 @@
+program t : s : takes i9 : integer array returns nothing chillax end Y : takes R, X6T0, T : integer returns boolean do VG50(- 31 - 9, 4, 0) end ry : takes O : boolean array returns boolean y, D8G0, A : integer array; let c[2600] = 699; let w[9] = 90; while 2 : chillax end end main : T : integer; chillax end

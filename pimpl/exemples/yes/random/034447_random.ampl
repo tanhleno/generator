@@ -1,0 +1,1 @@
+program PKea : ym : takes l : boolean; n, x3Ya : boolean array; GhZa : boolean array returns nothing je, sq : integer; let a[not 33300 and 0] = - 9 - 393 < 7; do V(2 - 197 >= 156, 56) end main : chillax end

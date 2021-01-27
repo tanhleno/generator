@@ -1,0 +1,1 @@
+program O5 : D : takes Om : boolean; P : integer array; A6 : integer array returns nothing input J; input l end O5Ea : takes l9 : boolean array; L : boolean array returns integer array v : integer; pop end C6 : takes T : boolean returns nothing I : boolean; input d5Yaa end main : chillax end

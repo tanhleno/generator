@@ -1,0 +1,1 @@
+program d : jQ : takes re, b1, n6, L, P, i2kaa, xp, L380a : boolean array returns nothing zP, BE, s, Ho : integer; J47 : boolean array; D, oj40, ak : integer array; input W; output "" . "" . ""; while 53 = 35 : chillax end end R : takes zP0 : boolean array returns nothing k, e6Taa, t, Z : boolean; let X220[6] = array - 67 - 5 end main : V : integer array; chillax end

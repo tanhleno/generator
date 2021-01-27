@@ -1,0 +1,1 @@
+program D4b : v0 : takes N, q, p : integer; X : boolean array; r0C : boolean; pg, d1, i3, BP : boolean array; e, c, Au7aa : boolean array; k, YP8aa, ME1 : boolean; r : boolean; c : boolean returns integer r : boolean array; YGt, A2, b : boolean; chillax end main : output "@" . (7830) and 56 <= - 476 - 04; while(47) * 211 and 14 < true and 1 : do yA(66 = 3) end end

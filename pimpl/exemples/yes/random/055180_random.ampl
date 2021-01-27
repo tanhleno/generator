@@ -1,0 +1,1 @@
+program R : t2R : takes c : integer array; R0, iRx : integer array returns boolean array when case - false > - 1 - 0 : do mT(7800) end otherwise : while 3 : chillax end end end u : takes cy : integer returns nothing while - 25 : let k2 = 4 end end main : input C end

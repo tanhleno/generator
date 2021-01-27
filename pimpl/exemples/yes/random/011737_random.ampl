@@ -1,0 +1,1 @@
+program kpe : R : takes r5, dy, e : boolean returns boolean ov : integer; when case P8 < 7 - 24 : while 7 : pop end; output ""; when case 40 : chillax end end case - 88 >= 99 : chillax end otherwise : chillax end; pop; pop 2; input N19a end R9naa : takes y : boolean; h : boolean array returns integer array chillax end main : G4, U0 : integer array; chillax end

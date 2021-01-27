@@ -1,0 +1,1 @@
+program J : O : takes oM, I, v2 : boolean array; d : integer array; i3, Z : boolean array returns boolean K93 : boolean array; g : integer array; chillax end main : let f = - D[52] and true and 2 = true or 27; while true / 496 and 1 = w and 3 : let w19 = array 1 end; output "" . "" . 8 . "" . ""; output "\"" . ")60"; do A(4) end

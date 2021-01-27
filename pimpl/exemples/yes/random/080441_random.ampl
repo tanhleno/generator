@@ -1,0 +1,1 @@
+program q : main : QB : boolean; when case not true * q[356] <= lW[79] rem true and 29 + (1450) + 1 - 4200 : chillax end case not not 499 rem false and 08 >= 455 - 5 : pop end otherwise : chillax end end

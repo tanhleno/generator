@@ -1,0 +1,1 @@
+program M2 : f1 : takes EA : boolean returns nothing output "" . "{\\!" . 32300 end lp : takes h : boolean array returns nothing chillax end main : do T((14) rem(54) and false + s(12), true * P + false and 6, - true and 1 or 4 - 0, - 543 - 39 = 9) end

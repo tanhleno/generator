@@ -1,0 +1,1 @@
+program t : k : takes p620, D1qaa : boolean; O : integer array; Jg8aa, o, o, b, e : integer array; n : integer returns integer do a5((1) + 49 - 522, 017 - 689) end main : _ : boolean array; p0, wD3, Ok, B : boolean; p : boolean; j, KA, Z : boolean; chillax end

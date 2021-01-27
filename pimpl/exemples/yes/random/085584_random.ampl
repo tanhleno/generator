@@ -1,0 +1,1 @@
+program p : main : S : integer array; g, A, b, C0g, Rv, F8f : integer array; i18, TM, B5, D4 : boolean; while - false + false = 8 / true - false and 0 : chillax end; pop; do l(- (8) < - 737 - 5); let W90[0 - 7] = 7240 = 1760 end

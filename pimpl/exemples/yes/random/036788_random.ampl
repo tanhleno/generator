@@ -1,0 +1,1 @@
+program j : a5 : takes N : boolean; L350a : integer array; Y : boolean array; RDb : integer array returns integer let F = - 637 - 867 end main : do irB0(- false rem true - (30) * false and 1650, - d8 or false and 488 <= - n140a and 81500, - 74 and 2, 00600 - 5430 /= 39) end

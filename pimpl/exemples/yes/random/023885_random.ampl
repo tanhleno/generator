@@ -1,0 +1,1 @@
+program A5iaa : W : takes F26, _1fa : boolean returns nothing chillax end H : takes s, c, gk, V, P : integer array; _FX, kw0aa : integer array; R7C0a, jW, Q : integer array returns integer aI : boolean; R, a0g, n : integer; m : boolean; input G end main : chillax end

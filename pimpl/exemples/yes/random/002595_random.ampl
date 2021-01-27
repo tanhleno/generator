@@ -1,0 +1,1 @@
+program S : v : takes H, o2L, i, f, X1 : boolean array; H : integer array; C : boolean array returns nothing e, t : integer; jq3, nD, _, ZJ : integer array; chillax end main : input U; do iK(not Z rem not 55 = - not 26400 + 5) end

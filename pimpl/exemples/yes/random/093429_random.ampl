@@ -1,0 +1,1 @@
+program x : main : output ""; output(6) and 1 - 68 - 702 <= - 5; when case - (4) and 109 : chillax end case - 315 : chillax end case 8970 = 1 : input M9; pop end case 218 : pop end case 8 : chillax end otherwise : when case 9 : chillax end; when case 5 : chillax end; pop end; input K; input yD end

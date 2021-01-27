@@ -1,0 +1,1 @@
+program T : ab : takes G3l : integer returns nothing when case - true : chillax end case - 9 : while 1 : chillax end; output "" end case 4 : when case 4820 : chillax end end otherwise : chillax end end main : O : boolean; chillax end

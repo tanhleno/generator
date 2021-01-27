@@ -1,0 +1,1 @@
+program B : p89 : takes B8 : integer returns integer array when case - KdX and 685 : when case 7 : pop end otherwise : chillax end; do rZ(1) end case 2 - 3810 = 297 : input aq; do J(7) end case 37 = 5 : chillax end case 77300 : chillax end otherwise : chillax end end y72aa : takes h : integer array returns boolean array i : boolean; chillax end main : chillax end

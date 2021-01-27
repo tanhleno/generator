@@ -1,0 +1,1 @@
+program j : WO90 : takes R110 : integer array returns integer U1, Y7B : integer; R : boolean array; chillax end main : R : integer; while not not 51 and false rem 61800 = - (7) - false : chillax end end

@@ -1,0 +1,1 @@
+program v : main : when case false : chillax end case - true or o - 9 - 968 > - false and 49 or 3 : input h7; output 5 . "\t@" end otherwise : chillax end; let a23[- R_f(747) / 8 and 779] = array - not true + t and 1; input D6 end

@@ -1,0 +1,1 @@
+program L9V0 : TV : takes E2 : boolean array; B02 : boolean array returns integer o : integer; chillax end WJH0 : takes m, qwZ0a, M, wC : integer; l7Q0, u0 : boolean returns integer p : integer array; input j; pop 09 end main : do G(- not 6, - 96 / not 118 and 6) end

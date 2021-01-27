@@ -1,0 +1,1 @@
+program y2 : K : takes G : boolean; MQC : integer array returns nothing W : boolean; let I52[T] = - 7 - 8; output "\n" end main : BbZ : integer array; output ""; output - 94 and 224 >= - 3 - 82100; do NuX(- false and 573 or 27, - 0 - 36 > 216) end

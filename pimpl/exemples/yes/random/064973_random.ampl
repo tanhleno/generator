@@ -1,0 +1,1 @@
+program I : SN : takes Rs : integer returns nothing ZI : integer; l : boolean; f4Z : integer array; o4Iaa, U : boolean; pop end main : pop; let V[8530 + 4] = array - 9 or 86 and 3; while - (7) /= 53 : while 4 : chillax end end; while 30 - 337 < 7 : output ""; let r67 = 8 end; do c(06 = 15, 27) end

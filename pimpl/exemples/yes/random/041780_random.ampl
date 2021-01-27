@@ -1,0 +1,1 @@
+program Xcs : G1R : takes e : boolean array returns boolean array Wc : integer array; AA, G, H, J : integer; while true and 45 or 1 - 4 : chillax end end A : takes N5q : boolean array returns nothing chillax end main : y4 : integer; chillax end

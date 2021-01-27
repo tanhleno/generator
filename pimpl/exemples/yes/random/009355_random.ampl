@@ -1,0 +1,1 @@
+program A : d : takes f, F, y : boolean; tG : integer array returns boolean chillax end main : u, S5 : boolean; W, AV : integer; v : integer array; output - H(23) * not 4 and 04 or(64) and 15700 + 29 > - not 9 and 2 . "3" . - 409 - 2 > 5 . "" . "\n"; pop end

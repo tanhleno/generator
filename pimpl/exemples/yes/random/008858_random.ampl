@@ -1,0 +1,1 @@
+program u : e : takes G, E470, i : boolean; iA, Cb : integer array; z : boolean; x : integer returns boolean array while - not 3 >= 6 - 0 : pop 8; when case 5 : chillax end; do r1(555) end; let a2F0a = 2; do z(57) end main : chillax end

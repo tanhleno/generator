@@ -1,0 +1,1 @@
+program lZ10a : D : takes u, Z : integer array returns integer array output ""; output "\"" . 80; let Z = array 594; when case 8 : pop end end R0 : takes O : integer array returns nothing v1, S, C : integer; let P1[- 98] = array 3 - 94; do tE8(2 = 9, 6) end main : chillax end

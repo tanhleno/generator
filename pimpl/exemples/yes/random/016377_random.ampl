@@ -1,0 +1,1 @@
+program l : EFYa : takes e, W, jr5a : integer returns nothing Q, k : integer; y, i_y0a, r, GwG : integer array; DTc : boolean; chillax end Q2B0a : takes v, k, jl40 : boolean array; c, F : integer; uE, f : boolean returns boolean l3 : integer; e7, o, y : boolean array; nI : boolean; pop 9790 = 61 end main : chillax end

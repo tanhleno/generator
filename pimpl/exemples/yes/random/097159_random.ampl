@@ -1,0 +1,1 @@
+program A : main : when case not false = - gb rem(4) and 8 : chillax end case - false / true and 8 + true <= true or 0 - 6 : while 5 = 40900 : chillax end end case 313 and 8 - 431 - 7640 : chillax end case - 39 - 2 : let q35 = 3; output "" end end

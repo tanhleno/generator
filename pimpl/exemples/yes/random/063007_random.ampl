@@ -1,0 +1,1 @@
+program K : S : takes D : integer returns integer array a : integer; chillax end R2 : takes C56, Nc, M2, P, Q0, PRO : integer array; V : integer; J3 : integer array returns nothing while - 0 : do k(8) end; output 9 end main : chillax end

@@ -1,0 +1,1 @@
+program F : main : j, U, d : boolean; pop - true / 83 = - (8220); while - T[8090] * f and 474 - LF and 6 >= 272 + 09 : chillax end; do p(- false + 3 < - 14, - 5 - 2, 3 = 6, 8); output 1 . ""; pop 2; let KqMa = 41500; do I(46400) end

@@ -1,0 +1,1 @@
+program Z : C : takes h : boolean returns integer array X : integer array; W2 : boolean array; m490, tj80a, s3 : integer array; while - false - 01 < 0 : when case 6 : chillax end; when case 7 : chillax end; output "" end end main : while - true or 3 : chillax end end

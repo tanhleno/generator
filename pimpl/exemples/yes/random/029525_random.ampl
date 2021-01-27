@@ -1,0 +1,1 @@
+program j : s : takes Is, U : integer array returns boolean k, I1e : boolean; vT : boolean; x, Bi : integer; let wN = array false and 8 + 298 - 14 end main : while - false / not(3) * O750 and 600 - (71) rem false - C and 9 - 7 = true rem not 99300 - hO and 099 : chillax end end

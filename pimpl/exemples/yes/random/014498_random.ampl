@@ -1,0 +1,1 @@
+program Y : y : takes v4, q, X : integer array; _3 : integer array returns boolean array chillax end main : r : boolean; K, x9, Sj7aa, pc0, s : integer array; while - (2 = 5660) > - 1 - not 6 and 0460 + 233 : while - 6 - 41 < 433 : while 4 : chillax end; while 4 : chillax end; pop end; while 13000 = 217 : pop; pop end end end

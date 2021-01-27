@@ -1,0 +1,1 @@
+program IS8 : jg : takes Q3 : integer array; O, q0 : boolean returns integer V, I5P, T, i : boolean; r, z : boolean array; TL : boolean array; while - true and 85 : output 7 . "Qb" end end Qi3aa : takes w : integer; J, F : integer; py : integer; KS : integer array returns nothing M8 : boolean; chillax end main : chillax end

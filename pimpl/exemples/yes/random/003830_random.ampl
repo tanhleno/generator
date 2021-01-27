@@ -1,0 +1,1 @@
+program Sq : g4C : takes F3, r, JD3, da, s78aa : integer array returns nothing w, c, p5, k, g : boolean array; when case - (7) - 89 : chillax end case - 4 - 5 : pop; do D0Gaa(929) end case 79 = 49 : chillax end case 7 : chillax end case 20 : chillax end end L3oa : takes h : boolean array returns nothing input b; when case 16 : when case 4 : chillax end end end main : chillax end

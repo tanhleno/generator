@@ -1,0 +1,1 @@
+program R : main : S4 : boolean array; do AK(false / S - (4) and 92900 and 129 or true); while true = 8 and 7420 : when case 593 = 667 : chillax end; do Z(967, 62); pop; when case 9 : chillax end; pop end end

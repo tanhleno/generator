@@ -1,0 +1,1 @@
+program vQ : m : takes x9 : integer; g, GcDaa, B : integer returns nothing f : integer; while - M and 33 : do p(37) end; input O860a[4240 - 0]; when case 06 = 6930 : chillax end otherwise : pop end end main : B8Y : boolean; output false . true and 21 /= 59; input uw[false + 381 + 0940]; output "9" . 820; let UJ = 5; pop 6 end

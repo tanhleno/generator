@@ -1,0 +1,1 @@
+program Vs : B06aa : takes t : boolean array returns boolean chillax end c2 : takes k, a1, gIf : boolean array; Y, h, Q95, G, J, il : integer array; R9j0, Z : boolean returns nothing e, r, g, M : boolean; input tI20 end G7 : takes D, VK1aa, L : integer returns boolean output "kj" . 2 end main : pop - 1 / true /= 037 and 20 + 755 end

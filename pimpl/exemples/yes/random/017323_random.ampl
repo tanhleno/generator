@@ -1,0 +1,1 @@
+program Fb : j : takes Y31, XP : boolean; C, v : boolean returns integer D : boolean array; L : boolean array; chillax end j : takes PY : boolean returns nothing Jl, W1 : boolean; Va : integer; G8 : boolean; chillax end main : p, m08a, i : integer array; W, Lc : integer; do tx90a(- false, - true rem not 5890 >= true and 21 or 0 - 486) end

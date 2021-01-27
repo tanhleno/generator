@@ -1,0 +1,1 @@
+program iD2 : main : K, H : boolean array; fc : integer array; r6 : boolean; s14 : boolean array; BgF0a, R2vaa : boolean array; E : boolean; S : boolean; Tj : boolean; when case 94 / (5) * false - (14) * H6 : chillax end case(77700) * not 8 : chillax end end

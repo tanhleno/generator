@@ -1,0 +1,1 @@
+program ar : M38aa : takes I : boolean; Un : boolean; N : integer; p : integer array; X : boolean; a, u9 : boolean; f7 : boolean; UN : boolean returns boolean j : integer array; do k((273) and 2 or 124 - 37 <= - 561, - 92700 - 8 < 3); when case 7 - 384 > 64 : let x = 72; while 4 : chillax end; pop end; while 6 : pop end end main : v, O : boolean array; chillax end

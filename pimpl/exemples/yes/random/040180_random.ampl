@@ -1,0 +1,1 @@
+program n : T : takes L40 : boolean array; PKna : boolean array returns nothing yxe : boolean; w, S75 : boolean array; z9, D, E : boolean; input d[- d5Y and 87900] end main : Wo, OEiaa : integer array; Q8 : boolean; chillax end

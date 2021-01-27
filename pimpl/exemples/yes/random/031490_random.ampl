@@ -1,0 +1,1 @@
+program gd : wm : takes A86aa, e : integer returns boolean chillax end main : input p51[- true / O[06] rem 9 or 60700 / true or(6) and 14 - 0 - 2]; let c = array - 544 * not 350 and 95700 + (16) + 9 - 9 end

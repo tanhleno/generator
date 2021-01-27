@@ -1,0 +1,1 @@
+program c : nk : takes Z, V, u2 : integer array returns integer output 6 - 46 . 63400 end main : do g60(- 98); output false and 4 . "d"; do ujO((73) and 0 <= 09 - 9350); output 81800 = 4 . "" . 7 . "" end

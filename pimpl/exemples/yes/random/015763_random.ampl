@@ -1,0 +1,1 @@
+program Z : brJa : takes T4saa, u5, M : integer returns boolean chillax end UD : takes a65aa, q, dFRaa, M : boolean array returns integer aQ20, g220a, q : boolean array; B, G : integer; chillax end main : F_Ja : boolean array; do Bc60a(- true * true * 00) end

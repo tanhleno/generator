@@ -1,0 +1,1 @@
+program f05 : I : takes P, k : boolean; x, S4p : integer returns boolean when case not 32 > 53 - 46100 : chillax end; output 62 = 9 . "3`a" . 79 end main : pW : integer; while - za2 <= - (166) or(0) and 71 : chillax end end

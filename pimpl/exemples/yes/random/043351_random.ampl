@@ -1,0 +1,1 @@
+program A : I8 : takes Crua : boolean array returns integer pop end QT80 : takes E3 : integer array returns integer chillax end main : Pz, y8 : boolean; _ : integer; nl, L, vc0, bM5, L : boolean; E95 : integer; R, B1j : integer; chillax end

@@ -1,0 +1,1 @@
+program USy : WG : takes R18, e, Q : boolean; r : integer returns integer n : integer; p8i0 : integer; pop - 96 = 8; do n800(4 - 9); input tdHaa; when case 8 : pop end otherwise : chillax end; do O01(95); input lR; pop end main : chillax end

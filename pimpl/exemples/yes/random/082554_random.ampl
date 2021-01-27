@@ -1,0 +1,1 @@
+program U : main : qI1 : boolean array; pop - gc(5) rem not 0 = true and 62; when case true and false and 0 or 9 - 5 = - false and 1 : pop; pop end case 88 or 187 : let Em1aa = array 66 end case - 235 - 9 : chillax end otherwise : when case 4 : chillax end case 8 : chillax end otherwise : chillax end; while 9 : chillax end end; output - 479 . "w" . "x\t" . 5 end

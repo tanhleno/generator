@@ -1,0 +1,1 @@
+program n : k6 : takes J : integer array; c : boolean; z89a, xx5, O, y, A4, r : boolean; I, t06 : boolean; p : integer returns nothing n, l8, n : integer; H88, o8, y : boolean array; chillax end h : takes b : boolean returns integer array chillax end main : input a; let H8paa[- true] = - (5) and 3470 or 90 - 239 < 2 - 2 end

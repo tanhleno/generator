@@ -1,0 +1,1 @@
+program tC : zn30a : takes S : integer returns nothing SxN : integer array; let V[K] = array(31) and 7 - 9 end _X3aa : takes u : integer returns integer array BIr : boolean array; T : integer array; R3p0 : boolean; B6 : boolean; SU : boolean; chillax end main : r : integer; chillax end

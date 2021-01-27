@@ -1,0 +1,1 @@
+program D : main : pop - not true * not 4 + (4) and 00 + 574 < - 0 - 067; when case false or true - 4 < false and 5 or 4 - 449 : chillax end case - false and 4 + 3 : chillax end otherwise : chillax end; when case - not 14 - 774 : chillax end case 9 > 0330 : when case 2 : chillax end; output "l" end case 475 : chillax end otherwise : chillax end; output "" . "" end

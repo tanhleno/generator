@@ -1,0 +1,1 @@
+program O8e : Z : takes g81, uk9 : integer; VO : boolean array returns boolean S3 : boolean array; chillax end main : O, o8O, l : boolean; do K(- false / false and(10) - (2) / (8) and 5 - (90) and 424 <= H9h and false and 8, - not true * b /= (77) and 0 or 9) end

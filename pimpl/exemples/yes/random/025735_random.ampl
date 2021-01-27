@@ -1,0 +1,1 @@
+program s24 : gf : takes q, fu : integer; L9, J9K0 : integer; l : boolean array returns integer array chillax end W : takes h, E940 : boolean; ER4, oE, y : boolean array returns integer array output ":="; let c6 = array 4470; when case 88300 : pop end otherwise : chillax end end main : chillax end

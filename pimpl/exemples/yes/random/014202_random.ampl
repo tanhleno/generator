@@ -1,0 +1,1 @@
+program F : N1 : takes ayF, N, S : integer array; ImQ : boolean; dV0a : integer array returns integer array do J(- not 3 <= - 81) end aFy : takes P060 : boolean array returns integer array P : integer array; output 3 = 5; let vx[03] = 63 end main : input v[2 rem L] end

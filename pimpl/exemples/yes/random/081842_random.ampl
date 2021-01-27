@@ -1,0 +1,1 @@
+program W : main : M46a : boolean array; r : boolean array; while - false rem 0 /= - not false + e and 666 : do p1(0, 61 = 8); do l160(9) end; do Oq_(true * false and 5 or not 6650 and 45 or 5, 8 > 182, - 5, 72 = 440, 6) end

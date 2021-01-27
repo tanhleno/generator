@@ -1,0 +1,1 @@
+program VXZ0 : r : takes O : boolean array; TO, A, G : boolean array; U : boolean array; z6C, to, y, JV : integer array returns integer array chillax end main : k9b0a : boolean; Az, j : boolean; t : boolean array; output "M_\"a" end

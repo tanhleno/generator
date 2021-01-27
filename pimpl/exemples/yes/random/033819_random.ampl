@@ -1,0 +1,1 @@
+program J5 : U : takes oY : boolean; v, T, hx9aa : boolean array; Da7aa, E : integer array; Y, d1, B, J, zh : boolean array returns integer do P7(true and 58700 <= 15100 - 1, 1950 - 4, 1, 50, 725); while 6 : chillax end end main : jUb0, Td : integer; chillax end

@@ -1,0 +1,1 @@
+program w : main : when case - (1) - (07) - 85 >= not CR or 5 + 6 - 27 : chillax end case true / false and 6 /= true and 16 : chillax end case not 2 : chillax end otherwise : when case 3 = 7 : while 2 : chillax end; pop end case 6 : chillax end case 9 : chillax end end; let oE = array - false rem true; pop end

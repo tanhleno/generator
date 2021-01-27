@@ -1,0 +1,1 @@
+program G : h : takes aw, N0, _83, OZ0 : boolean; j2o, L, Y6B0a, D0, E, CtO, A2 : boolean array; G : boolean array; j : boolean array returns nothing JM50a : boolean array; input H end main : output - false / g = - A and 66 + 9 end

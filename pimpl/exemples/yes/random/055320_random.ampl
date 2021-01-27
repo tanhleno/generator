@@ -1,0 +1,1 @@
+program T : S1 : takes o : integer array; Xl, v : integer returns boolean v_8, f, L1X : integer; output "" end main : S : integer array; Zo, u, X, F9n0, gtba, o : boolean; u : integer array; m080, K97 : integer; chillax end

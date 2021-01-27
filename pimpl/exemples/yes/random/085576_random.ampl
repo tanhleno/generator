@@ -1,0 +1,1 @@
+program T : main : X6 : integer array; z, ZD, Od, Ob, v, A : integer; a7 : integer; when case true = - not Rk : do k(- 7); do C(9); output "" end case - false < (35500) and 67 : chillax end case false and 1370 /= 37 - 8620 : while 5640 : chillax end; pop end; let p = (5) and 6 - 3 <= - 427 - 8; pop end

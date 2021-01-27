@@ -1,0 +1,1 @@
+program j7 : main : T, k : integer; W, S : integer; oy, ur, m, T, m6 : integer; zT, D : boolean array; do B(true and 2 / false and 9 <= - true / not 0, not(2250) / false - (7) <= (3) and 6); pop - Z + 50; do X(- (479) and 1) end

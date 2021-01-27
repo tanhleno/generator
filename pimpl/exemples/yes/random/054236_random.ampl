@@ -1,0 +1,1 @@
+program c3x0a : e0 : takes d47 : integer array; q, mt, W : integer array; Po : integer array; HR : integer array returns nothing hzc : integer array; chillax end main : o : boolean; do F(- xvP0 * B); pop end

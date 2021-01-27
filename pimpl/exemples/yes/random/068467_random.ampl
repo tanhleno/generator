@@ -1,0 +1,1 @@
+program G : main : k5, r, K, d, g, K : boolean array; when case - false rem not not 6 : pop end case false rem not 02 and 7 < - true + 8 : chillax end case - not 09100 and 3 : chillax end case 049 - 6 : pop; let W = 6290; pop end case 357 : chillax end case 48500 : chillax end case 6 : chillax end; output(5) and 6 or 36 . - 833 >= 35500 . 6 = 2 . 2 end

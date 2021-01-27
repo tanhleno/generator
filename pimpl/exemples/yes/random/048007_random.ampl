@@ -1,0 +1,1 @@
+program w : Y : takes F : boolean returns nothing f, X, k : boolean array; v : integer; sg, fJ : boolean array; u : boolean; v : boolean; chillax end main : when case - Ggiaa(8, 2) + true and 54 and 2 + true - 40 - 8 = - false - true : chillax end end

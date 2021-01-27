@@ -1,0 +1,1 @@
+program f6 : main : L, AZAaa, z2, r : integer array; j, O, y, oQD0 : boolean array; grm0, M : integer; do YHs(not O[033] or S8_0[2] >= - (58) + not 5, true and(13500) + (3) or 8 < s7, - true + 31 - 9 > - 4, - 9, 21) end

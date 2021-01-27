@@ -1,0 +1,1 @@
+program o24 : s0 : takes d, D19 : boolean array; C : integer; Z, A3 : integer array; Y : integer array returns boolean chillax end M : takes n : integer; ZY : boolean array returns boolean array chillax end main : z : integer; pop end

@@ -1,0 +1,1 @@
+program d4 : main : G : boolean; when case false : input Fp end otherwise : chillax end; when case - true : input T; pop; do yZ8(926) end case(0) and 2 : chillax end case - 5 : pop end case 5 = 64 : chillax end case 0 : chillax end case 05600 : chillax end otherwise : chillax end; do jL0(a and 4 or 078 - 0, 8, 72 = 0400); input u[- 3 - 8460] end

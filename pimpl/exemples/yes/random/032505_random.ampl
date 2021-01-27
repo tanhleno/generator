@@ -1,0 +1,1 @@
+program R : cL9a : takes T, XI : integer returns nothing j, u, Hb, Z : integer; chillax end g : takes Q, V : integer; i, L21, a, A3I0a : integer; nG9, I, M : boolean; F, q0, O : boolean array returns nothing while - 0 - 00 <= 1100 : output "a\t\"a" end; while 7 = 914 : chillax end end main : chillax end

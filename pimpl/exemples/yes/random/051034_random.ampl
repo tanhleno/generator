@@ -1,0 +1,1 @@
+program cT : m : takes s : integer; H32, N7 : integer array; m : boolean returns nothing when case - not 1 >= 67 : output 1; while 23 : chillax end; when case 7550 : chillax end; pop end otherwise : input jC end end O : takes D0c : boolean; UM : integer returns integer array nf, ly : boolean; chillax end main : yY0, IGjaa : integer array; v, J : integer array; chillax end

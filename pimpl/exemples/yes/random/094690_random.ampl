@@ -1,0 +1,1 @@
+program F : main : pop; when case(3) + (7) or 2 : chillax end case - 7 + 2 - 276 : input W end case 28 - 5 : do sJ(77); when case 30800 : chillax end; pop end case 3 : chillax end case 077 : chillax end; pop; input v48[2 - 3180] end

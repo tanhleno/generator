@@ -1,0 +1,1 @@
+program m07aa : I : takes q, l3, o, b0 : boolean array returns nothing E, cn : boolean; let s = 96 - 637 /= 065; do At(- 91100) end e : takes j1 : integer returns nothing chillax end main : u99 : integer; chillax end

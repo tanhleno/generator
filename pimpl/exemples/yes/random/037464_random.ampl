@@ -1,0 +1,1 @@
+program d : O : takes k : boolean array; t, i, h, m5, a500a, L, PH3a : boolean returns nothing chillax end HsUaa : takes mo, l, a : boolean array returns integer l5 : integer; chillax end main : chillax end

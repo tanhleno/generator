@@ -1,0 +1,1 @@
+program x69 : H : takes H : boolean array; R : integer returns nothing B62 : boolean array; eW7 : integer; U : boolean; chillax end main : x00a, F : boolean; n25, p : integer array; pop true <= false and 6630; let Z = array true rem W - 4 + 1 - 82500; while - 3 = 60 : chillax end end

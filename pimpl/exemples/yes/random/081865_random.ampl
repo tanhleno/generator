@@ -1,0 +1,1 @@
+program r : main : Z : boolean array; Di : integer; H, f4R0, p, W, t0s : integer array; ef : boolean; e1 : boolean; SQ : boolean; NMy : boolean; RK : boolean; let bN8aa = not(77200) < Z3 and 78 or 17 end

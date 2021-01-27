@@ -1,0 +1,1 @@
+program GG : main : do c(- false rem 6 rem I2 and 3, true + X and 88 or 580 - 35300, - not 7570 and 3, 43 - 0180, 54 = 5); when case - false rem true : pop 848 end; do p36(true or 60 - 70 > - 7 - 5, - 0 - 3, 63 = 7); do T7Saa(- 34 - 1400 > 66); pop; input Lx80a; do Xw(5); pop end

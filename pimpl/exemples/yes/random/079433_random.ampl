@@ -1,0 +1,1 @@
+program Q8v : main : Wo : boolean; Sbdaa : boolean array; input j56[- true + true and(55) - true]; input _; do kA(- not 00900 and 83 - 9 - 4, - 6 <= 9, 41000 = 52, 0, 38); when case 44 : pop; do E(9) end otherwise : let w9f0 = 98; pop end end

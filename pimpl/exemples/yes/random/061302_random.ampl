@@ -1,0 +1,1 @@
+program o : L : takes dp : integer array returns nothing let A = 44 = 28; pop 6820; while 3 = 9 : chillax end end f : takes N : integer; n0za, z, G : boolean array; J : boolean; t : integer array; x, E3, rg : integer returns integer array let i = 6 = 212 end main : chillax end

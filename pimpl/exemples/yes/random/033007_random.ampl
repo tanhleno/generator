@@ -1,0 +1,1 @@
+program E : o2 : takes t, c : integer returns nothing input Ku end main : o : integer array; pop(23) * not 8820 - true >= (01) - 9 - 5; let A6[false] = array - false and 7 or 7830 and 26 or 2940 - 0; output - 05 <= 1 end

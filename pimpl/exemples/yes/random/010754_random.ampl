@@ -1,0 +1,1 @@
+program i : H : takes ex5, n, W7 : boolean array returns boolean output ""; output "" . 47 . "\\" . "D"; when case 162 : input X; pop end; pop; output "" end f : takes d, Q, N, z : boolean returns nothing A : integer array; w2 : integer; let i[24] = array 44 - 37 end main : chillax end

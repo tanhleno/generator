@@ -1,0 +1,1 @@
+program r : wz2 : takes G : integer array; y : integer returns boolean when case - 8 - 62 - 58 : chillax end case 62000 : chillax end case 567 : while 27 : chillax end end; pop 44 end main : s14aa : integer array; j, A : boolean array; pop end

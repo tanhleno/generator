@@ -1,0 +1,1 @@
+program B : B : takes P, v4 : integer array returns boolean H : boolean array; V14aa : integer array; t : integer array; QA : boolean; k4Q : boolean; tq : boolean; chillax end u : takes da : boolean array; F : boolean returns nothing output 2 end main : l4M : integer array; chillax end

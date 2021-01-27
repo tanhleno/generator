@@ -1,0 +1,1 @@
+program TC : d : takes NJ : integer; k5, P1, z3, I : integer array; c : boolean returns nothing pop 22 >= 762 end main : h : integer array; d, e, Sd : integer; let h[- true + not 2 - false or 3 - 9] = - E6(09) end

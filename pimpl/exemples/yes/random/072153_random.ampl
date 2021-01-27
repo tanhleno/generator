@@ -1,0 +1,1 @@
+program B : main : s6jaa, f, lF6 : integer; G5, Wy : integer; V : boolean array; when case false + not true + false - 79 >= - false : pop 93; while 3790 : output "9k"; pop end; let S[33] = array 1; while 4 : chillax end; do J(31) end end

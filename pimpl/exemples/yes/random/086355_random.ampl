@@ -1,0 +1,1 @@
+program g : main : IL : integer array; oD6 : boolean; h9 : boolean; while(9 = 3) rem false rem _040a /= - JzX[6] / O300 or not 77500 or 19 : let yh = 104 = 0; let U = array 52700; input EH; let y4 = 51400; pop end; output g08 and 49100 . 5 - 086 . "x"; when case - 15200 and 91 = 49 - 5230 : chillax end; pop end

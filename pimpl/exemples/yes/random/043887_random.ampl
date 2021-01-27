@@ -1,0 +1,1 @@
+program i : A : takes L6 : boolean array returns nothing do a(K or 57 - 1 = - 3 - 22600, - 5, 986 = 5); do XFr(4 = 7); output 5; do ee(86, 8); input Y end cZ : takes Rxp : integer returns boolean array while - 2 : do o(19); when case 802 : chillax end end; pop end G : takes z510a : boolean array returns integer aU : boolean array; Na6 : boolean; chillax end main : chillax end

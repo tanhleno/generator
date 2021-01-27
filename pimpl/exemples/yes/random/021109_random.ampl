@@ -1,0 +1,1 @@
+program Y8 : P : takes mv, l7 : boolean array returns boolean yd, z : boolean; Hhz, b : integer array; Y5 : integer; S, Z : boolean; qy3 : boolean; Lce : boolean; do E(false and 8, 2 - 9 <= 7); while - 1 - 2 /= 6 : chillax end; input r end main : x9 : integer array; chillax end

@@ -1,0 +1,1 @@
+program w2m : main : X : boolean; output "9\t" . - (6900) or 6720 > 96 . "\t" . "" . 52500 . 7 . "\t"; when case l(6) rem not 4 and 0 /= - true - 0 - 2 : chillax end case true and 033 or 0 - 2 : output ""; when case 20 : chillax end end; input s[false and 5]; while - 11000 - 673 = 937 : input Cg; pop end; while 1 = 0 : chillax end end

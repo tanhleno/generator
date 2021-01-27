@@ -1,0 +1,1 @@
+program Z : P4 : takes Rg : boolean returns nothing when case - true + 5 : chillax end case 830 : let B0 = 8 end otherwise : chillax end; let r[- 535 - 32] = 44000; when case 4 : chillax end otherwise : pop end end C : takes S, i8J : boolean returns nothing Pz : integer array; m : boolean array; let M90[- 3540 - 243] = array - 2290 - 8 end main : chillax end

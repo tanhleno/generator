@@ -1,0 +1,1 @@
+program D3 : Ou : takes Zz : integer; Q : boolean array; nJB : integer array returns boolean input F end s3 : takes J : boolean; LX, O : boolean; H : boolean array returns integer C, I : boolean; j : boolean; chillax end main : Cc, _F : integer array; bl : boolean array; chillax end

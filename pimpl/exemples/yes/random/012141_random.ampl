@@ -1,0 +1,1 @@
+program t : N1 : takes H, E, j : boolean returns nothing chillax end main : while false / false / not 27 and 2440 or h(80) = - false and not 832 or not 9 : chillax end; do d(- not not 5 * ho, - (928) = 670 - 7); pop; while - 2 = 01 : output "" end; while 8970 = 5 : output "" end end

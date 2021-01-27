@@ -1,0 +1,1 @@
+program JY : H49a : takes qzO : integer; P, z7, n, O, v, M : integer array; _, _ : integer array; G : integer array; d : boolean array returns boolean chillax end main : let J[- (00) or 763] = false or true + 55 - 6 end

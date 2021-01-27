@@ -1,0 +1,1 @@
+program z9 : RGv : takes R, a, QW : boolean; eP : boolean array; S, T2, m, f : boolean array; v, i : integer array; n, zcd : boolean returns nothing let Unt[not 7990] = array - 3 and 662 or 5340 - 80 end hB : takes c0 : boolean returns integer array u, Mo, K, C : integer; while - 7 - 8 : chillax end end main : pop end

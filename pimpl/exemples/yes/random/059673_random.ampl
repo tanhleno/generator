@@ -1,0 +1,1 @@
+program s : K : takes F2 : integer array returns nothing chillax end y0 : takes bD20, t8caa, D : boolean array returns nothing xh : boolean; fy, _, K : integer; chillax end main : pop; when case 102 - false or 3250 < not 231 : chillax end otherwise : chillax end end

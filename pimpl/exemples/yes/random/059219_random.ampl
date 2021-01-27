@@ -1,0 +1,1 @@
+program bc7aa : Q : takes V : integer array returns integer j, B, h, L, k : boolean array; P, Ge, N, k : boolean; chillax end main : w44a : boolean; output ""; output "\"" . "~"; do f(- 88500 >= 8); when case - 7 - 46 = 2 : while 94 : chillax end; pop end otherwise : chillax end end

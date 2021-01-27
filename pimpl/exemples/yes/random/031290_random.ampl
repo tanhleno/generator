@@ -1,0 +1,1 @@
+program B : p4 : takes R, v950a : integer returns boolean array Z540a, brN0 : integer; cQ9, a, f89, as4 : integer; Y, d : boolean; OE6, uI : boolean; tND : boolean; let W = 43 - 7 end main : chillax end

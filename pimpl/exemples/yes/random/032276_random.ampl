@@ -1,0 +1,1 @@
+program n08 : o4 : takes N37, U510a : integer returns nothing chillax end AAr0a : takes i450 : boolean array returns integer array pop end main : when case - (4) <= - (1) and true : while 9 - 755 <= 288 : chillax end end otherwise : chillax end end

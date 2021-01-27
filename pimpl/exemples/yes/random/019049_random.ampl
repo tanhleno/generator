@@ -1,0 +1,1 @@
+program L : TJh0 : takes bOm, g : boolean array; L2f, Z, w : integer array; D93 : integer array returns boolean let ATmaa[- 5 and 20] = array - 44 - 1 - 49000; let b = array 7 end U : takes v, jWM, U : integer; a, K1M, Udj0 : boolean returns nothing do VK4(8 - 73, 3 = 39200, 3); output "I" . ":" end main : chillax end

@@ -1,0 +1,1 @@
+program X640a : Ow : takes Z : boolean array; L, cCz0a : integer returns integer chillax end NE : takes i5 : boolean array returns boolean when case - 5 - 79 > 7480 : while 0 : chillax end end end N4Oaa : takes M, k : boolean array; d : boolean returns boolean W4 : integer; o : boolean; chillax end main : chillax end

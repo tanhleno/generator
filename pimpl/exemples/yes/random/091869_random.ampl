@@ -1,0 +1,1 @@
+program r2 : main : output - (6) - false = false . "" . - 4; when case - C4[568] - 05 : input W[0]; input o[680] end case - (67) + 2340 - 2 : output 02; while 9 : chillax end; while 36300 : chillax end; pop end case 3 - 7 /= 7 : pop end case 5580 = 8 : while 268 : chillax end end end

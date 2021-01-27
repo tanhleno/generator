@@ -1,0 +1,1 @@
+program X2 : W : takes Ff, V : integer; r, b : integer array; L540 : boolean; wu, t : boolean array; B2 : boolean array; Mp, FQ, WI5 : integer array; nS : boolean returns integer x, R1 : boolean; while - (672) and 3 >= - 468 - 45 : chillax end; while 95 - 8 > 8 : chillax end; when case 9 = 63 : let W = 7; pop end case 55 : chillax end otherwise : pop end end main : chillax end

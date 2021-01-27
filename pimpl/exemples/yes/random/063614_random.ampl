@@ -1,0 +1,1 @@
+program X : h1 : takes e7 : integer returns integer while - 5 - 477 = - 271 : chillax end end ns : takes s : integer returns boolean array i : boolean array; G480, G, K : boolean array; V, yP : boolean; do Gl90(43300 - 8 /= 3) end main : kW : boolean array; chillax end

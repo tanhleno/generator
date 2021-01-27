@@ -1,0 +1,1 @@
+program m4U : main : while - g rem(6) : do R(- 2 = 965); when case 0760 = 1 : while 2 : chillax end; pop end case 2 : pop end otherwise : pop end; when case 5 : pop end case 4 : chillax end end; when case - Y >= not 886 : let n5 = 1; input yMW; do B42a(4) end; pop - 0660 end

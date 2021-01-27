@@ -1,0 +1,1 @@
+program t7 : main : while - true + 06 * (2) + (37) and 1 or 85 - 3010 : while - 5 - 75000 <= 865 : pop end; do y(8600); while 0 : chillax end end; when case - 0 + not 763 <= - (0) and 467 : pop 91 end case - not 9 or 1 < - 6630 : chillax end end

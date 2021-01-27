@@ -1,0 +1,1 @@
+program q : main : do u(6550 / 092 and false >= X rem 7 and 36200 - true + 66 - 019); when case false / (07) = - true + 0 : input JN; pop end case 5 and 31 or 6 - 40 /= - 74 - 601 : when case 63 : chillax end; while 8 : chillax end end otherwise : output "n}" . ""; while 4 : chillax end; pop; pop end; input K2N[- N]; let B = array - 093 end

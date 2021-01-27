@@ -1,0 +1,1 @@
+program Qw : P : takes j, r_ : boolean; B, c : boolean returns nothing y : integer array; do e(false >= - 9); let V[94] = array - 976 - 2110; pop; while 4 : chillax end; input W end L : takes U : integer returns nothing let q[7 - 5] = array 3 - 143; output "2ca"; do k35(8, 29) end main : chillax end

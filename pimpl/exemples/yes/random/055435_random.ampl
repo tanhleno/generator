@@ -1,0 +1,1 @@
+program e : q : takes aB : integer array; C, lG : integer returns nothing let I[- true and 8] = array not 17 and 1 - 9 - 1 end m : takes e : integer returns nothing SA, b : boolean array; v, Z : integer; Q0 : boolean; chillax end main : t, m, q, ro, A3, W, s0 : boolean array; let _ = array - false * B74 or tK(241) rem not 7 - V and 9 or 8 - 883 end

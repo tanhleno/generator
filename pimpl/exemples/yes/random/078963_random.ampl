@@ -1,0 +1,1 @@
+program Hkb : main : W : boolean; _V0, Gu4a : integer; do u(C[51] or true or(6) - 879 <= (1) / not 98700 and 0460 + true or 16, true and true and 8 = - (2) and 8, true and 978); do f(false - 417 and 7); while not 1 + 8 - 70500 > - 2 - 31600 : chillax end; input uC1; output 1 . 2 end

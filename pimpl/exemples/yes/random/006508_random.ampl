@@ -1,0 +1,1 @@
+program d : v7ha : takes p, tvNa, E5, l : integer; y4, e9 : integer array returns boolean X : boolean; L59 : boolean; C4saa : integer; M, JY : boolean; y : boolean; r : boolean; do S(- false or 1 - 08 < 6) end vY : takes T, a1, f : integer array returns nothing L94 : integer; y3C0, T, t : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program ugr : Y : takes xx, S, n, KU : boolean; H : integer array; gG8aa : integer array; En : integer; M, ac2, J35, Yi : integer array; tK : integer; l : boolean returns nothing Z : boolean array; ik : integer array; z, a : integer; sr, K : boolean; L6 : boolean; R88 : boolean; output 1 >= 0 end main : chillax end

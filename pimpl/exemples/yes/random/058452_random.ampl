@@ -1,0 +1,1 @@
+program Z : c : takes p : integer array returns boolean x : integer array; while false = - 7 : when case 5 : chillax end otherwise : chillax end; let Nk70 = 5 end; output "6"; input N75 end main : while - not ci30(9) : chillax end; do B5c(- true >= Uv and 5 + 0 - 3, false and 08 <= 7 - 742, - 543 - 3) end

@@ -1,0 +1,1 @@
+program x : z : takes K : integer; Z, N, a, ZjD, a : boolean returns integer array MM : integer array; J, m, P, j : integer array; do YJ(- true); pop; do a8r0(4 = 1, 8, 8) end r : takes Z : integer returns integer x : boolean array; l : boolean array; when case 089 < 26 : chillax end case 05400 = 9 : do J30aa(2) end end main : chillax end

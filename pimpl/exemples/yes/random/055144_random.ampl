@@ -1,0 +1,1 @@
+program b : t : takes BW : integer array; _5, MC : integer array; r : integer array; EcJ, C : integer array; c : integer returns boolean Dpxaa, ntf : integer; pop - 6 end main : while true : input V[1100 - 92200]; do D07(9) end; input R5 end

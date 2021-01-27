@@ -1,0 +1,1 @@
+program uo : main : let uvz[- false * false * (5) and 018 - (1)] = true rem T8 and 34100 + false and 63 - 4 = 81 and 8 - 3390; let k[not true / not 757 - 45 and 3] = array - (27) and true and 83 - false and 067 end

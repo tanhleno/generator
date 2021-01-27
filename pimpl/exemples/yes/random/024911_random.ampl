@@ -1,0 +1,1 @@
+program i : pOQ : takes C, m : integer; g7, xT9, co_, O, G9, PMS, P9 : integer array; z12a, i, fB6 : integer array; ff, x, R, x : integer array returns boolean output 76 . 9; while 9 : chillax end end main : H, B : boolean array; pop - o * false or true or 2430 end

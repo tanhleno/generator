@@ -1,0 +1,1 @@
+program D : Jhz : takes v : boolean; h6, Q4, D15, l : boolean array returns integer chillax end main : Ck : integer; output "\\W\"" . - true and 08; output "@" . - 2 - 9 . "" . 39; while not 3 = 820 : while 32 : chillax end; when case 6 : chillax end end end

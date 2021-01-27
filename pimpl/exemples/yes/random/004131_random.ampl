@@ -1,0 +1,1 @@
+program hO : k4 : takes Z, vD, O, L, u : integer returns nothing h : integer; h : boolean; g_, x620a, d : integer; hg : boolean; l : boolean; output 2 - 7 /= 60; do o(- 35500 - 19 >= 72, 7, 4920, 77) end main : chillax end

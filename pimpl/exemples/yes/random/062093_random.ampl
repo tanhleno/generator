@@ -1,0 +1,1 @@
+program U : Z95a : takes Hx : integer returns boolean array output - 0 - 5410 > 6710 . "" end A : takes V1, _e, u : integer array returns nothing c8o, xm : boolean; chillax end S : takes F : boolean array; e9, X : integer returns integer array chillax end e2 : takes R : integer array returns integer T : boolean; x4 : boolean; w5 : boolean; chillax end main : do xR((7600) / 6) end

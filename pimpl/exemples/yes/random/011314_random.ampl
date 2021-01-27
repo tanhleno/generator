@@ -1,0 +1,1 @@
+program I4 : RB : takes H, t5, I : boolean array returns nothing I1 : boolean; k1 : integer array; u, o5q : boolean array; zv : boolean; sB4 : boolean; when case true and 5 : chillax end otherwise : chillax end end d : takes JMW : integer array; R, G : integer; M : integer; E, i : integer; w : boolean returns integer array chillax end main : E6, M : integer array; chillax end

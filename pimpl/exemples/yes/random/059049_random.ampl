@@ -1,0 +1,1 @@
+program v0 : Fd : takes f : integer array returns integer array when case not 4 or 820 - 555 = 85 - 53 : chillax end case 9 : let i44a = 4; input gga0 end case 58 : chillax end case 1880 : pop end end main : while - (4 = 35) >= not false : chillax end end

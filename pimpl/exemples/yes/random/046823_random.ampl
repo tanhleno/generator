@@ -1,0 +1,1 @@
+program Y : V : takes C : boolean returns integer array output "\""; do c470(30 < 5180); do I(5 = 5, 7) end main : UB70a, A, G7Ra : integer; H : boolean; l : boolean; s6, b : integer array; f78 : boolean array; let l_4[false] = array - not 671 or(0) rem true + 5 and 9 end

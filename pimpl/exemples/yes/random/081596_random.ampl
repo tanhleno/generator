@@ -1,0 +1,1 @@
+program s54a : main : y : boolean array; z2 : boolean; m : boolean array; n, m, m49a, Zg : integer; j1Maa : boolean; i, v : boolean; q : boolean; while false * Aj10a - not true + not 0 and 1 + 1 : pop 4 = 0; output 567 . "" . "3=\"a"; pop 2; input JF; input V end end

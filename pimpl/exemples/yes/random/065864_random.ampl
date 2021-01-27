@@ -1,0 +1,1 @@
+program q73aa : main : do sP(- (0) >= not(83) * not 79000 and 97 or false and 5 + 2 - 45, - false - not 5 = not 7 and 69); when case - _ + true - 9 - 3 : chillax end case(3) or 2 - 0 : chillax end case - 2 : chillax end case 9 : chillax end case 77 : pop end otherwise : pop; output ""; while 2 : chillax end; pop end end

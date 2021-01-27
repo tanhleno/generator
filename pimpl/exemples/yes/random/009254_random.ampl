@@ -1,0 +1,1 @@
+program f : m9 : takes O, bAQaa, G9Ka : boolean; R : integer; u : boolean; q7, T, hx, k, D : integer array; Z, dnRaa, QE0, N : integer array returns boolean m : boolean array; output 63 - 9 = 32600 . "0:!a" . 26 . "k" . "m" end main : chillax end

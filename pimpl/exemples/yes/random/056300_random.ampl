@@ -1,0 +1,1 @@
+program jY9aa : b8 : takes UF : integer array; p8 : boolean returns boolean pop end main : Uo3, k : integer; D, _ : integer; r64 : integer array; while(6 = 1) and false /= - not true or not 3 or 55 : chillax end end

@@ -1,0 +1,1 @@
+program c3 : main : let O = - (0530) - X - 4; while - true rem not 8 - false and 6 + 7 : chillax end; when case(82000) + 833 - 8 : do d(4, 90900); let O7 = 7; do K(1) end otherwise : do v(69300); pop end end

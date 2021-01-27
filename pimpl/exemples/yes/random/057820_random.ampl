@@ -1,0 +1,1 @@
+program Hp3 : Y : takes E : integer array returns boolean array H : boolean; b2Q : integer; j7, g : integer; uLF : boolean; output "" . 37 = 2 . 2 . 1 . ""; while - 13700 > 9 : output "["; do JE7a(7); pop end end main : G0, d, jy, p : boolean; f, m : integer array; j : boolean array; let qy4[7 and i5(9)] = array - 6460 + not false end

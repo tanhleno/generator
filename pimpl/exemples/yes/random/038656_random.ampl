@@ -1,0 +1,1 @@
+program K410 : a : takes el : boolean array; m, s : boolean array; gII : boolean; B : boolean; H : boolean array; h : integer array returns boolean L, BrU, o : integer array; C : boolean array; S170a : integer array; Z, z : boolean; chillax end main : chillax end

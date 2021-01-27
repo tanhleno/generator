@@ -1,0 +1,1 @@
+program Txs0 : l : takes u : integer array; G8l0a : integer returns boolean array input _[- not 54 + 3]; while 98 : chillax end; while 03 = 4 : chillax end end e : takes TK : boolean array; k : boolean array; S, h8g : boolean returns nothing I, b : integer; QkNa, u, _ : boolean array; chillax end main : pop - false = - (4) and 85000 or 11 end

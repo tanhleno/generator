@@ -1,0 +1,1 @@
+program h6a : GU8 : takes h : boolean returns nothing T, oG : boolean; t8Ba : integer array; hi : integer array; CH : boolean; output - 56 - 940; do rS1(- 41700 - 2 > 2); let SI[5] = array 5810; output "" . ""; output "\n" end main : y, f080 : integer; k0, e : integer array; chillax end

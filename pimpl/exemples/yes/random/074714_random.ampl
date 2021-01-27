@@ -1,0 +1,1 @@
+program R : main : X1, d : boolean array; w7, A, o : boolean array; input V[28 * true]; pop - true and 04 < - 95; do jf9(- ni80); when case 826 : chillax end case 20700 : chillax end case 4250 : pop end case 2 : chillax end otherwise : when case 1 : chillax end; pop end; input I[0] end

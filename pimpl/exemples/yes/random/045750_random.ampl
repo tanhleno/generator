@@ -1,0 +1,1 @@
+program M9Q0 : f : takes s : boolean returns boolean array I : integer array; EH : integer array; B2, w6, wo : boolean; m : boolean; while - 7510 and 9 : when case 41 : pop end otherwise : chillax end end; let fo = 95 = 6 end main : chillax end

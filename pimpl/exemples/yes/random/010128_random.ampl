@@ -1,0 +1,1 @@
+program r : U : takes Jj, O, R2 : boolean array; t : boolean array returns integer chillax end o : takes z920a, ES2a, _43 : integer array; Ja : integer returns integer array do uR(- 85 - 03, 070 = 1, 4, 2); output "2" . "" end main : Q, x : boolean; input f; input h end

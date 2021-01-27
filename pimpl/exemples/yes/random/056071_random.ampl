@@ -1,0 +1,1 @@
+program ku40 : dj : takes N760a : integer array; K : boolean array returns integer chillax end k : takes G : integer array; nw : boolean returns boolean N5 : boolean; while 5 > 26 : output "" end; pop 20; output 045 end main : chillax end

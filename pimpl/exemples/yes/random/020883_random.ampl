@@ -1,0 +1,1 @@
+program Z4 : r9 : takes G, E : boolean array returns boolean array Z, f : boolean array; r : integer array; do O(5 and 9) end main : when case - true and false rem true - (35) > N[817] or 6 - 8600 : chillax end end

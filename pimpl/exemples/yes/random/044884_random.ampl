@@ -1,0 +1,1 @@
+program t : M : takes J : boolean array returns nothing s : integer array; Sd3 : integer; b, e, YM : boolean array; G5, x3N : boolean; k : boolean; A : boolean; do lY60(- true and 4 - 804 - 460) end main : let jc[(26 = 45) rem not(33100) or(7) - not 0 - 7 - 24] = array - (664 = 6) + 81 and 45000 and 17 + false; output "" end

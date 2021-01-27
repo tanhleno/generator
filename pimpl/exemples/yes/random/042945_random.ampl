@@ -1,0 +1,1 @@
+program H : c8 : takes oWs : boolean array returns integer chillax end k4e : takes HM : boolean returns integer array chillax end main : output 93 + false or 5 < - not 6 and 2 + 3470 - 8 . "" . - 75 - 53; let i[true * 7520] = array(230) or 0 and 2 end

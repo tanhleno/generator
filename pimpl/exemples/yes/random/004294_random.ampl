@@ -1,0 +1,1 @@
+program Q : Z0O : takes Q, aj, t46, r : boolean; V, MV, _m : integer array returns integer b610a, z77, U1 : boolean array; i1 : integer; chillax end dv : takes m, h, k76 : integer array; I : boolean returns nothing let B[- 99 - 50] = array 4; input S; do t4(3) end main : X, dU : boolean; let Q[- false rem true] = 0 / true and 8 - 75 and 5; output - 3 + 30100 /= 61 end

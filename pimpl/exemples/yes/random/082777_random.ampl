@@ -1,0 +1,1 @@
+program tX : main : S25aa : boolean array; when case true * false + k(4) and N and 8 : chillax end case 7800 * 19 and 9 <= - not 2 or 20 : when case 16 = 73700 : chillax end case 4 : pop end case 5 : chillax end end case false and 11 + 6 - 3 > - 5 - 52 : chillax end case 4 : let A = 8; do w(08) end case 5 = 2 : while 0 : chillax end; pop end case 60 : chillax end end

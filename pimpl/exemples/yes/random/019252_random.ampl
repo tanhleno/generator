@@ -1,0 +1,1 @@
+program P : f0 : takes s08, r550 : boolean array; o6, D : boolean array returns boolean chillax end IC8 : takes a : integer returns integer while - 3 : while 84 : chillax end; pop; pop end; pop end main : t : boolean array; when case false : chillax end case - false : output 88 . "w\"0a" . "-" end case true or 92 : while 8480 : pop end; pop end case - 1 <= 30 : pop end end

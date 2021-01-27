@@ -1,0 +1,1 @@
+program Q5 : F : takes ff9aa, J : integer array returns nothing chillax end N7 : takes zB : boolean returns integer array WXAa, H : boolean array; chillax end main : U : boolean array; r3, U : boolean; pop - 6 rem false and 26 - false = - not 2 - 971 end

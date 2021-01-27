@@ -1,0 +1,1 @@
+program t : hAv0 : takes d : integer returns nothing input G end main : J3, n8, H6n0a : integer array; pop - 74 + (8) and 14 = - true; when case - not UyLa + 32 and 6 - 57 : input s[0]; when case 2 : chillax end otherwise : chillax end; do k(7) end end

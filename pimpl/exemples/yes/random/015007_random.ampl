@@ -1,0 +1,1 @@
+program o : re : takes C9, R0, G : integer array returns integer chillax end M : takes hr, S : boolean array returns boolean s : integer; while - 2 - 2 : let q0 = 46; let mm = 9540 end; while 5 = 21 : chillax end; pop end main : chillax end

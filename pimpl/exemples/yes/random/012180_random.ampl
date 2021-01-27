@@ -1,0 +1,1 @@
+program x : E : takes m32aa, kO9, L : boolean returns nothing e, T, u8s, b : boolean array; L, Rxta : integer; xQ, D, h : integer array; h, p2 : boolean; G1naa : boolean; while false and 921 : chillax end end main : do M(- false rem false + a92); when case false > (281) and 3 or 2 - 659 : output 1; output 832; input ven end otherwise : chillax end; output 49 - 61900 end

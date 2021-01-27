@@ -1,0 +1,1 @@
+program N74 : G5 : takes O, O2 : boolean array; C, L, Z1 : integer; L : boolean array returns integer v2 : boolean array; h29, n5 : boolean; chillax end main : Z : integer; output "" . - (96) or 9 = 3 end

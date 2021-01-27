@@ -1,0 +1,1 @@
+program wRi : R : takes n : integer array returns integer array C, x4i, a1 : integer; IZ, O : integer; i : integer; let Q = 20 > 2; output 513 = 5 . ""; let g[8] = 5; input f820a end main : u : integer; chillax end

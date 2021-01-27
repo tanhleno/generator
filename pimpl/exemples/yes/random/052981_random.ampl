@@ -1,0 +1,1 @@
+program SV : _No0 : takes GYk : integer; N : integer array returns nothing chillax end l : takes s_1a : integer returns boolean output 4 = 5 end main : do Q8I0(- false and not false, false + false and 4 + 01); input V[not(833)] end

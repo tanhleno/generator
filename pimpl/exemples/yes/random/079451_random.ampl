@@ -1,0 +1,1 @@
+program M : main : Du : boolean; n : boolean array; output(43) + Sj and 3 = - true and 0 - 6 - 11 . ""; while - false rem 9 : output 73 . 84 . ""; when case 2 : chillax end; let u = 9 end; do E(not 95 - 26 - 0) end

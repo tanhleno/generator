@@ -1,0 +1,1 @@
+program e : F : takes D, CFc0, HB, k : integer array; k, n3, _ : integer; w : integer array returns boolean array U : boolean; aT0, w : integer; chillax end T : takes Jz_0a : boolean array returns boolean MVQa : boolean array; chillax end main : when case true / false : chillax end otherwise : while 3 = 03900 : chillax end end end

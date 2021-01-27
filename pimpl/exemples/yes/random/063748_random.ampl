@@ -1,0 +1,1 @@
+program G4v : P3m0 : takes Y : integer returns nothing chillax end w2 : takes YK : boolean array; w1Uaa, A2, S : boolean returns boolean chillax end main : M9L, l, mu6, A5, w, k41 : integer array; do oR20(- true and 8 <= - 49300 rem C) end

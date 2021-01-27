@@ -1,0 +1,1 @@
+program NuK : t : takes a : boolean array; N, h : boolean; X : boolean; W : integer array returns integer array output "" end p : takes S : boolean array returns boolean E, u : boolean; k : boolean; when case 356 : chillax end; when case 83 = 958 : chillax end otherwise : chillax end; while 4 : pop end end main : chillax end

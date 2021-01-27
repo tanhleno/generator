@@ -1,0 +1,1 @@
+program O : _ : takes u17 : boolean returns boolean array chillax end TY : takes _27 : integer returns integer array chillax end main : a60, bp : integer; g, y, U, d0a, E, t : integer; Q : integer array; chillax end

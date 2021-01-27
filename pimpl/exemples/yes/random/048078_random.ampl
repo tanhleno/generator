@@ -1,0 +1,1 @@
+program v1L : JPW0a : takes o : boolean returns nothing m, R : boolean; chillax end R4 : takes e1 : boolean array; tc : boolean array returns nothing X6, q, a9J : integer array; do f7(- 6390 - 897, 8, 2, 910) end eA2a : takes x8, V0, Lu, h : boolean returns nothing let u5C = 10; do p(3, 4); while 8 : chillax end end main : chillax end

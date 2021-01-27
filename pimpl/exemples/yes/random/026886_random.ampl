@@ -1,0 +1,1 @@
+program T1U0a : t5C0a : takes LL, S7y : integer; x : integer returns boolean array V : integer; fTj, b : integer; chillax end main : o8K0a, LLY0 : integer; u_ia, Bf : boolean array; when case - true /= g(8) : chillax end end

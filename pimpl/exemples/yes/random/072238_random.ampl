@@ -1,0 +1,1 @@
+program yR : main : xbg0, hw0, i : integer; O : boolean array; n5, Q4, L : boolean array; Kv, FR : boolean array; eNb : boolean; input Z; input q[- E]; output "#!"; output 52 . 67 . 35; when case 2 : chillax end end

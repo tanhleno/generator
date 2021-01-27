@@ -1,0 +1,1 @@
+program O2Ka : UN5 : takes WIU0a : boolean array returns nothing let zwga[- true and 5 or 4 - 92500] = - 0; when case - 7 /= 98 : input ix0; pop end; when case 55 = 6 : chillax end otherwise : pop end end main : while - 0 >= 6 : output "\"" . "" . "\"" . ""; pop end end

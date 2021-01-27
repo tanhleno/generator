@@ -1,0 +1,1 @@
+program C : v2L0 : takes J8, G, A8, X : boolean array returns boolean array h0 : boolean; h : boolean array; I : boolean array; K, w : boolean; chillax end I : takes zy2 : integer returns boolean array q14 : boolean; i, JLha, H : boolean; I, f : boolean; input t[- 6 - 1]; do y76(7 = 2) end main : output I750a or false and 2 or 883 end

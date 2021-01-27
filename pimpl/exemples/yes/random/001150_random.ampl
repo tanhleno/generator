@@ -1,0 +1,1 @@
+program G1haa : HL7 : takes h7, L9, fZs, G, t, Q5 : boolean; F5 : boolean array; h5Qa : integer array; e4 : boolean; lM, A06 : integer; gq : boolean returns nothing chillax end w3x : takes sR : boolean; l570a, k7d : integer array; C4 : integer array; J8, my, QT : integer array returns nothing M : integer array; x : integer; AV8 : boolean; output 717; pop end main : chillax end

@@ -1,0 +1,1 @@
+program r : H : takes M15 : boolean array returns integer q2 : integer; u43 : boolean array; qc, n9 : integer array; H, d0Uaa : boolean; chillax end IA : takes V98 : boolean; _190a, J, Q6 : integer array; H000a : boolean; F : boolean returns nothing I5 : integer array; chillax end main : pop 5; do Zt(d76[8] / 7 and 3 > false, - 120 + 358 <= - 8210 - 6, 9 <= 4, 9) end

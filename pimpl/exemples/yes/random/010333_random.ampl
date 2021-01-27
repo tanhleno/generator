@@ -1,0 +1,1 @@
+program Yf : iT : takes gQ7, wLja, Z980a : boolean array; wk : integer array; Yk : boolean array returns nothing chillax end main : when case false = a(95000) : chillax end; do R8(true rem(9) and 2 or(1) and 1 = false); do f(- (3)); let VSb[- 0] = array 72; input B end

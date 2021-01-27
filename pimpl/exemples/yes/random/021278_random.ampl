@@ -1,0 +1,1 @@
+program zR40 : u : takes o, s : boolean array returns integer array chillax end uB : takes c0 : boolean array; E : boolean array; xB3 : integer returns integer array d : boolean; pop 5 = 2760 end Q71 : takes X, g9 : boolean array; Vl, g, B, VE : boolean array returns nothing d2 : integer array; Ef5a : boolean; chillax end main : chillax end

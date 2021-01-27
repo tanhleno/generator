@@ -1,0 +1,1 @@
+program h : q : takes D : integer array returns nothing chillax end t2 : takes d : integer array returns boolean M5a, z5, K1 : integer array; K : boolean array; y : boolean; pop; pop end main : C : integer array; let T8[55 or(60)] = array - (71) - true * (23) end

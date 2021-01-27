@@ -1,0 +1,1 @@
+program nu0 : s : takes m15a : integer; xV : integer returns integer O, F, I : boolean array; d6, h : boolean array; x0G : boolean array; m : boolean; m7na : boolean; W : boolean; chillax end I : takes x86aa : boolean returns nothing chillax end k : takes G : boolean array returns nothing V, q310 : integer array; chillax end main : chillax end

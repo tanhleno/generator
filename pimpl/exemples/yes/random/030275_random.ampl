@@ -1,0 +1,1 @@
+program q : Kt1a : takes j, NU9 : integer array returns nothing chillax end H6 : takes K18aa : boolean returns boolean pop 087 = 8; do tm(40 = 0); while 97700 : pop end; output "" end main : X, m : boolean; F5, r5, U92 : boolean array; xl, h : boolean array; chillax end

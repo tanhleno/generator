@@ -1,0 +1,1 @@
+program u83 : main : sAP : integer array; P50, nV : boolean; let y6[- D(5, 09) rem f00a(91) * not 58 and 0] = not 6 / true and 4 >= - false and 53 - 80100 - 7; do i(not l5ta > 80 - 506 - 0, - 77 and 96000 or 1 - 065) end

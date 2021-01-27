@@ -1,0 +1,1 @@
+program Y : v : takes Dc, w, s93, m, k, My3aa : integer returns integer nM : boolean array; nh80a, P1 : integer array; when case - true and 7 : chillax end otherwise : let Jx = 929; let O = 0710; pop end end E : takes b : integer returns nothing input gF7[27800]; do pW1(44900, 0); pop; pop end main : z : boolean array; input cT[- (563) / not false * L6o and 38700] end

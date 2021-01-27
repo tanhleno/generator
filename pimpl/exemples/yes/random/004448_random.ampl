@@ -1,0 +1,1 @@
+program z : z : takes M, P0C0a, ao20a, PA7 : boolean; bk, ut50a : integer returns integer f9, m, t, uB : boolean; chillax end main : while 4740 >= - 82 and not 6 and 6 + true and 00 or 51 - 576 : while 3 - 7 : do qe(06) end end end

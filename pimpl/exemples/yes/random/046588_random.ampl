@@ -1,0 +1,1 @@
+program z : o : takes M : boolean returns integer array dMS, d : boolean; m : integer array; output 5 = 9; let k = 84800 end main : K : boolean; when case c(7) * mp3a(76100) + O[2] /= true : output "" . ""; when case 5 : chillax end case 62100 : pop end case 98100 : chillax end otherwise : pop end; output 6 end case not(4) - qq6 and 7 - 95 : chillax end end

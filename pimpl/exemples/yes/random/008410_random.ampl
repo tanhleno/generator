@@ -1,0 +1,1 @@
+program G : r : takes P0, B5, G, v8 : integer returns nothing while - true and 7 = 7240 - 5 : chillax end; let Q4n = array 18200; let T[6] = 6; while 3 : pop end end main : n : integer; J : boolean array; s860a : boolean; output "" . "WC" . "\"" . 3 . "" end

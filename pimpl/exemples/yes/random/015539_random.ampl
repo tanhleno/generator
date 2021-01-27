@@ -1,0 +1,1 @@
+program n3 : Ii : takes w04a, t8, p9 : integer array returns nothing input N[false + 28600] end sS : takes x : integer returns integer array Q, D, g, Q1 : boolean; chillax end main : L5, AAka : boolean; chillax end

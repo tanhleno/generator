@@ -1,0 +1,1 @@
+program tT : u : takes eeRa : boolean; Jcs0, h, E3, nP, E1 : boolean returns nothing while - not 60 : input d; input lB7a; output "w"; pop end; pop end main : QE, G : integer array; EKG0 : integer; J, Z : boolean array; pop end

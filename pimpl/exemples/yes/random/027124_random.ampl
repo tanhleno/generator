@@ -1,0 +1,1 @@
+program A : y : takes zd9, k6 : integer array; i, X, f, V, oP8a : integer; ZrS0a : boolean returns integer array e : boolean; chillax end qA : takes y : integer returns integer L6x, f5qa : boolean array; chillax end main : z : integer; while - not true >= true : chillax end end

@@ -1,0 +1,1 @@
+program y : b5Pa : takes OV : integer; xk5aa, s, l : integer returns integer array chillax end main : do f(- false * false / 1560 and 7); when case W63(4) - true = - true : when case 72 : let E = 6590; pop end case 8 : chillax end; input t5[23]; do B(2); do YE7a(1); pop end; output "" . "" . ""; while 3690 - 29 < 54 : output "" end; let f = array 8 end

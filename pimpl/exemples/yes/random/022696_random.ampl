@@ -1,0 +1,1 @@
+program DyG : G8 : takes H, Y : boolean array returns nothing output - 4010 < 9090 . 11 end main : when case - false / nk(2) <= - 371 rem l : chillax end; do v0(RBw0a(84) rem false or true and 58400); input vN end

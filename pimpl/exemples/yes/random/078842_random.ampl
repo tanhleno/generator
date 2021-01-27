@@ -1,0 +1,1 @@
+program q : main : Cd60 : boolean; Fse, U : boolean; when case - 82 / not 90 < - (652) : chillax end case true and 4 and 1 : chillax end; when case not true rem(0) < false and 26 or 338 : pop 5; do NK4(84, 2) end otherwise : output "[" . "1\t"; do qbT(7); input U; pop end; let Il = - 8 - 9110; while - 0 - 7 : do U(66100); while 8 : chillax end; pop end end

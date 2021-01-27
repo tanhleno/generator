@@ -1,0 +1,1 @@
+program Hg : main : do q1S0a((92 = 3) and 9 or not(1) or true); when case not 071 + (1) and 0230 - 24 : do G(7, 3) end case 74000 or 16600 : chillax end otherwise : chillax end; let hf[- 0 and 4050 + 76 - 068] = - 21 - 56; do J(- 3, 0) end

@@ -1,0 +1,1 @@
+program F080 : X : takes bR, K2 : integer array returns nothing v, K : boolean; A, y : boolean array; i5P0a : integer; p74a : boolean; input O; input Q[942] end main : output not 95 >= not 21 and 9 - 5 . ""; when case - (08) / true and 0 : chillax end case false and 68 > - 92 - 54 : input K end end

@@ -1,0 +1,1 @@
+program t06a : o : takes PyX, L : boolean array returns integer array k : boolean; do B6(- false >= - 9, 0) end C : takes Y8 : integer returns boolean array ISg, Kh : integer array; D : boolean; E8va : boolean; D : boolean; K : boolean; chillax end D : takes ci : integer array returns integer array chillax end main : chillax end

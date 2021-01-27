@@ -1,0 +1,1 @@
+program W : v15 : takes d3m, N990a : boolean array; Y0, y, W, E, O6 : integer array returns nothing chillax end J : takes I, o, a : boolean array returns nothing d, q : integer array; U : integer array; Z : boolean; while - 9 > 3 : input bJ1 end; pop; while 4 : chillax end end main : pop 58 < - false end

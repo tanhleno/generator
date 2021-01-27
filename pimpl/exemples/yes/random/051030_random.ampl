@@ -1,0 +1,1 @@
+program r : v3 : takes d9 : integer; b41, Iru0a : integer array; B6 : boolean returns nothing L, v : boolean; O21a : integer; R7 : integer; R : boolean; jV : boolean; c : boolean; chillax end main : let b = array c2x[0] or(35500); output - c and 0160 or 0 - 11 < 3; let Hr[P0] = array(0) + 14 end

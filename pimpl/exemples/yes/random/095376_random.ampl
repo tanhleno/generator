@@ -1,0 +1,1 @@
+program J : main : when case(58) + 766 * (87) - false or 3 <= - true : chillax end case(8) or 34 and 5 : chillax end case(17) and 2 : chillax end case - 49 - 8 = 04300 : while 2 : chillax end end case 9 : chillax end end

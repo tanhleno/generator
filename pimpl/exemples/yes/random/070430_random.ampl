@@ -1,0 +1,1 @@
+program rMa0 : main : B2, g, QBY0a, Rh : integer array; T, Ww : boolean; e, C, Hj5, Yk7, n : boolean array; U, E0, y : integer; v : boolean array; u, AW8 : boolean; G46aa : boolean; do eZ5aa(- (73900) /= false and not 03, 5490 * false - m = 1, false, - 3 - 0 > 2, 65300 = 69); do WiT(false) end

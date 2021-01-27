@@ -1,0 +1,1 @@
+program Vc : H : takes V, G : boolean array returns nothing chillax end h : takes niH : integer returns nothing input id0[5]; do q(98 = 1640) end main : Jq, r3q, XaB0 : boolean array; output "" . "E"; while - T rem not 4 - (35500) + 0190 >= 6600 + 4 : pop 39 end; output 89 >= 7 end

@@ -1,0 +1,1 @@
+program a : xWl : takes BhJ : boolean; L : integer returns nothing Dh, sH, t4, lJ : integer; H : boolean; l, G9x : integer; g : boolean; pop end main : output - OL(769) + true or 5 . false and 81600 - 907 >= - 70 - 33 end

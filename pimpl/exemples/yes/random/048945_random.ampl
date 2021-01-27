@@ -1,0 +1,1 @@
+program Nf1aa : d6 : takes EL : boolean returns nothing let b2baa[- not 4 - 3] = array - not 77400 and 893; do q(- 64 - 8, 5, 4, 5); let y = 2; when case 7 : chillax end case 0 : chillax end end x40aa : takes v : integer; f71 : integer array returns nothing h, z, L : integer; nCNaa : integer; wJ80a, v : boolean; T : boolean; chillax end main : chillax end

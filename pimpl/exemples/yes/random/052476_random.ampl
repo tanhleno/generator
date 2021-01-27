@@ -1,0 +1,1 @@
+program J5 : fO : takes O89 : integer; b030 : integer; HHX0, cK : integer returns nothing N : integer array; HuT : integer; let V[A4] = array true - 46; let E2w0 = 62300; do Bv(9) end main : input V[h(19, 37700) * S(64500)]; do Gj(- (806), - false or 3 - 4) end

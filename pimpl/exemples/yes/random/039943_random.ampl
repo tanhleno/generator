@@ -1,0 +1,1 @@
+program p67aa : V : takes R : boolean array; jT50 : boolean array; b : integer array; wa, z : integer; s0 : integer array; P : boolean; q : boolean returns integer array pop - 75200 - 865 end PF : takes K, QM : boolean returns boolean d24 : boolean array; chillax end main : O : integer array; k1 : boolean array; Nyaa, n58 : boolean array; k, n : integer; chillax end

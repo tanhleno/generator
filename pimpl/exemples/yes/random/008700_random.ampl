@@ -1,0 +1,1 @@
+program f : AX : takes K61a, K, eT1a : boolean; N, P8 : boolean; c : boolean returns boolean chillax end Lv : takes C : boolean array; B2j, g0, ZFP : boolean returns integer d340 : integer; output 1 . "" . "\t\\" . ":"; output 74; input aW7a[8] end main : T, ik : boolean; u, _1R, J8 : integer; chillax end

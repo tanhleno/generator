@@ -1,0 +1,1 @@
+program q7 : ux8 : takes V : boolean; b73, _, a : boolean array; B, L, v : boolean; p, f : boolean array returns nothing chillax end t : takes Z4Saa : boolean array returns integer array let D6ga[5] = 41; do SGF0a(6, 0); pop 814; while 73 : chillax end; when case 7 : chillax end end main : chillax end

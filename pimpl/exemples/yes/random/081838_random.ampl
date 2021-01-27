@@ -1,0 +1,1 @@
+program OC80a : main : v : boolean array; nH : boolean array; while(9 = 471) and true >= - 8 / false + J53 and 1 : pop end; when case - i * not 89 + false >= - (2) and 6 : while 556 : chillax end; when case 443 : pop end end otherwise : chillax end end

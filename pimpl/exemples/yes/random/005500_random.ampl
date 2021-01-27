@@ -1,0 +1,1 @@
+program k39a : O : takes L, H1x0a, Ym, m : boolean array returns integer gK : integer array; chillax end main : d, B : integer array; do g(- 25 < - false); output not 7130 + 3 - 05 . - 5 - 0 <= 24 . "" . ""; input gAA0 end

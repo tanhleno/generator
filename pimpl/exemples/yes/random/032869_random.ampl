@@ -1,0 +1,1 @@
+program J : m : takes m44a, C1U : integer returns nothing ol : integer; y8a, n, zj9 : boolean array; chillax end Cm90 : takes b690a : boolean array returns integer array while - 97 - 9470 : input n; let Sq2aa = 4 end; when case 7 : chillax end case 0490 : chillax end case 206 : chillax end otherwise : pop end end main : c8, q, Z : boolean array; do H(true) end

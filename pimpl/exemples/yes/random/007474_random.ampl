@@ -1,0 +1,1 @@
+program OH5 : tK : takes fo, qS, w, h : integer array returns boolean F : boolean array; b82aa, y0 : integer array; while - true < 37 : input S[8] end; do m(- 212 <= 7); let G[513] = 6; while 62 : pop end end x : takes p0 : boolean array returns integer array chillax end main : do oZS(- 7) end

@@ -1,0 +1,1 @@
+program kV : Rb : takes y : integer array returns integer array let Q = array - false or 127 - 5 end main : Q5 : integer; Gwg0a : boolean; ER, Q : boolean; R : integer; c : integer array; zR, P430a : boolean; D : boolean; hm50a : boolean; chillax end

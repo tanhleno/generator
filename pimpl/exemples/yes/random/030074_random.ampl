@@ -1,0 +1,1 @@
+program g : f : takes a, h31aa : integer array returns integer XLt0 : integer; chillax end main : do o5(R / false - f_Yaa(64) + (96) and 2 >= true, - (1) * false >= not 00 + 5760); let a[- 3 + false and 294] = array false end

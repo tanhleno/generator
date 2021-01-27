@@ -1,0 +1,1 @@
+program jc : b : takes j : integer returns nothing yq : boolean array; do C(true and 486 or 2 - 2, 8 < 9) end z : takes nQq : boolean array returns boolean array while - 79 - 51300 : chillax end end main : n : integer array; output - true * not 1 and 2 - true /= true and 062; pop; pop 3 - 2 end

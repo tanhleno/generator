@@ -1,0 +1,1 @@
+program eN2 : main : z : integer array; do f7((2030 = 63600) / true <= 5 + not 5 - 5 - 0); when case - (0) or l and 1 <= true : chillax end otherwise : pop end; let v = array 06 and 9 + 26 - 9; output "" end

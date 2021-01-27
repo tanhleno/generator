@@ -1,0 +1,1 @@
+program J : l : takes h, L740a, _, _2 : boolean array returns integer array chillax end T : takes N : integer array returns nothing r, P, M : boolean array; Ht7a, e : integer; pop end main : while 96 * false rem U and 9 : chillax end; output - E - 4 - 26 /= - 0370; let h74aa[- NRc and 81] = array Me7a and 9 + 8 - 8; input n[1 - 1] end

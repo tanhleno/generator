@@ -1,0 +1,1 @@
+program M : n : takes J, RD3, D, h : integer; D, e5 : boolean; W : integer array returns nothing while b : chillax end; input J end P : takes U, Y, X : integer returns integer Z45, f, fz3a, z : boolean; B : integer; E : boolean; lE : boolean; chillax end main : output "h"; pop not 8; when case - true : while 4 : pop end end case 8 < 4 : chillax end; let Ugh = array - 3 - 3 end

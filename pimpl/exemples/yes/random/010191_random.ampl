@@ -1,0 +1,1 @@
+program s49 : k : takes A2, c, iN : boolean array; o86a : boolean returns boolean when case - not 88 > - 966 - 98900 : chillax end case 43 : chillax end otherwise : chillax end end main : G56, Zt, TR1 : boolean; rzs, g, EQ80a, C, I09, C6b0a : integer; d, s59, s, B, zq : boolean array; _ : integer array; q : boolean; F : boolean; b1 : boolean; t : boolean; chillax end

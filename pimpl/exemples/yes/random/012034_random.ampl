@@ -1,0 +1,1 @@
+program o : l9v : takes z98a, z85aa, Q : boolean returns nothing chillax end X : takes V, s, I, nSBa, vw20a : integer returns integer output "\\"; let q1[492] = 99; when case 5 : pop end case 6 : chillax end end r : takes OrM, R610 : boolean returns nothing when case 9 : chillax end case 5 : chillax end otherwise : pop end; do v45(8) end main : chillax end

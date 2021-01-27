@@ -1,0 +1,1 @@
+program f : Z : takes Jv8, L : integer array returns integer vT : integer; input O1V0a; when case 6 : chillax end otherwise : chillax end; while 42 = 6 : chillax end end X : takes xn, J : boolean array; k, W0 : boolean array returns nothing chillax end O : takes _, b2 : integer array returns nothing p, K, K2u : integer array; bU : boolean; input T[7] end main : pop end

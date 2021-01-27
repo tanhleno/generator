@@ -1,0 +1,1 @@
+program t84 : fTraa : takes d, X, G : boolean returns boolean g : boolean array; Xd6 : boolean; D, UNV, SF : integer; N5 : boolean; f : boolean; do X(- t) end main : z : boolean array; f7 : integer array; Ryx, F08 : boolean array; f, tr, B69a, L : integer array; chillax end

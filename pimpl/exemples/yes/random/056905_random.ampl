@@ -1,0 +1,1 @@
+program A : Pw40a : takes _pa : integer array; i : integer array; qp, x5x : integer array; uK, XZ1aa : boolean; c640 : integer array; tg : boolean; x3, q4 : boolean; N0U : boolean; w : boolean returns nothing chillax end S : takes g3 : boolean; m0I : integer returns nothing while 3010 - 1 : do rJ(69) end; pop 17 end main : F : boolean array; H : boolean; chillax end

@@ -1,0 +1,1 @@
+program n4 : main : j2, t, J : boolean array; while false rem c(4) and not 20400 or vv and V and 6 - (3) + 7 - 7990 >= (6) / true - false and 6 : output 18 end; input o1[true rem D and 4 or 4 - 1 - 97]; input Q6[- y]; when case - 7 : when case 9 : chillax end end otherwise : while 4 : chillax end; pop end end

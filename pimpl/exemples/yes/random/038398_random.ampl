@@ -1,0 +1,1 @@
+program nJla : D : takes v97 : boolean array; g3, B, B030a : integer returns integer array a9Q, Aj, h, U4E : boolean array; chillax end main : when case false - Pm(8) or(131) and 6 or 54 - 1 : do E(- 19 <= 15); input se end otherwise : chillax end end

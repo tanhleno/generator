@@ -1,0 +1,1 @@
+program vI : h : takes A : boolean array returns boolean array when case false or 1 - 3780 : output 4 end otherwise : output ""; output "" end end A : takes GA5 : boolean array; VV, s : boolean array; n : integer returns nothing f7, K, z : boolean; output 97 . 6 . 2; output 713 . "\"" . "" end main : C2ga : boolean array; chillax end

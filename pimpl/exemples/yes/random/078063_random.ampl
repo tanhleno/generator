@@ -1,0 +1,1 @@
+program G21 : main : q, Y7da : integer array; when case - (94) or true - w and 0 < false rem an - true : chillax end case true >= false and 2 : chillax end case - false or 7330 > - 137 - 60 : pop 28 end otherwise : do N830a(67, 3, 52); do P720a(6, 1130); output "1r" end; while - not(2) < - 4 and 01 : while 97 : chillax end end; do q7((33) + 86 > 9) end

@@ -1,0 +1,1 @@
+program kYG : yXPaa : takes Rb00a : integer; C, c, Y : integer returns nothing chillax end v : takes Bcy0, M, S : integer; n : integer array returns boolean input b; pop 2; when case 5 : pop end otherwise : chillax end; output "" end main : Q : integer array; while not false and c[06] : chillax end end

@@ -1,0 +1,1 @@
+program xa : main : output - false and J + not 64 - 1 - 0 < - 471 and 4; while O7Ba[7] * y82aa and 1 - false and 13 : while 7 = 112 : do A(7) end; do t(052); do cC(0) end; let C2 = - 5 >= 4; while - 54 : chillax end; output ""; pop 929 end

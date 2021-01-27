@@ -1,0 +1,1 @@
+program I88 : q : takes j29aa : boolean array returns nothing q55a : boolean array; y : integer; while not 17 and 08100 : while 8 : pop end end end R : takes L, i : integer returns nothing j, Ze, x : boolean array; chillax end BV1aa : takes Y : boolean returns boolean array chillax end main : chillax end

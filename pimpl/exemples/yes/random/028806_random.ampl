@@ -1,0 +1,1 @@
+program E16 : mNfaa : takes HB7, _73 : integer array; C4 : integer array; gX, Zm, B : integer array; j, m6, V : boolean array; L, pi : integer; Wg : integer; L, N : boolean; B : boolean; W7 : boolean returns nothing d, eb : integer; chillax end main : while - Lfk * not not 023 and 026 + true or(5440) and 5 or 00 - 05 : chillax end end

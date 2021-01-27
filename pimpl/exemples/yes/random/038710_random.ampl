@@ -1,0 +1,1 @@
+program u : s : takes B2 : boolean array; p, c : boolean array returns boolean array chillax end Fz : takes y65 : boolean array; q : boolean array returns boolean input Ms6[- 8 - 09]; do f6(47 = 3); do _(1); let v = 2; do Zle0(8) end main : chillax end

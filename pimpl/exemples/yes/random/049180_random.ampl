@@ -1,0 +1,1 @@
+program h540a : A : takes grc : boolean returns nothing while - z and 1 or 8 - 5 : output 4 . "8l\""; let nJD = 15; pop; pop end; input z; output 4 . 18 . "" end main : c7, o33, QZ, h3, L : integer; chillax end

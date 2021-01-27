@@ -1,0 +1,1 @@
+program D : main : ry : boolean; let R3 = array not false and P; when case true and K3 and 0 + (4) and 0 + 2 - 5 < not 7660 and 75 : while 1 : chillax end; pop; let pBg0 = 231 end otherwise : pop 867 end; do X3n((7) >= - 390 - 3) end

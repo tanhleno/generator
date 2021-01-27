@@ -1,0 +1,1 @@
+program M : xc : takes b, F29 : boolean array; Q : integer array returns nothing do d4((18100) - 1) end main : input R; pop; output "m" . ""; when case - 7 : chillax end case 4 = 95400 : pop; pop end end

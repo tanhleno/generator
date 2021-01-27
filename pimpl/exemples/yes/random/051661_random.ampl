@@ -1,0 +1,1 @@
+program d870a : C570 : takes Cd : integer; bF : boolean array; H, AT : boolean array returns boolean array when case(5) + 232 <= 1 - 415 : pop; output "" end otherwise : chillax end; do Q(- 12); when case 57 : input J; pop end otherwise : pop end; while 1220 : chillax end end main : f8_aa : integer array; ZQ1 : integer; l, C : integer; chillax end

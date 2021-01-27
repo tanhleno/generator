@@ -1,0 +1,1 @@
+program pE : kQ : takes g0, o2 : boolean returns nothing chillax end kl : takes O, i2, S, Z, K : boolean array; q : boolean array; XD0a : boolean; Y, l, t : integer array; F : integer returns boolean array while 724 - 62 /= 3 : chillax end end main : ug : boolean; s : integer array; S : integer array; chillax end

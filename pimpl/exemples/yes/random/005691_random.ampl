@@ -1,0 +1,1 @@
+program Vy : gz : takes i, kN, b, J2 : boolean array returns nothing y9I : boolean array; Q81 : boolean array; when case 01000 or 2 < 44 : pop 8; output "z"; let iY = 49400; pop end case - 33 - 7 : chillax end; while - 3 - 3 : chillax end; input mt7[78] end main : u51 : integer array; k : integer array; j : boolean; pop - not not 5 <= (74) + 33 - 3780 end

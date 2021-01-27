@@ -1,0 +1,1 @@
+program _X : k : takes B1V, X0, Q, s : integer array returns nothing g, O, gKF, H24, Z : integer; chillax end Gp : takes N50, L1Ua : boolean array returns nothing let IV70a = 23700 = 1 end main : input C12 end

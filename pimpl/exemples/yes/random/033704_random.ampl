@@ -1,0 +1,1 @@
+program yr : hw : takes o5 : boolean; K, D, C, i6 : integer returns integer array chillax end main : yB : integer array; j49aa : integer array; Uo, O_5aa : boolean array; ve : integer array; S, M : boolean array; chillax end

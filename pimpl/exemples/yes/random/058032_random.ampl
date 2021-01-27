@@ -1,0 +1,1 @@
+program _ : q : takes z : integer array returns boolean chillax end mNT0a : takes C, a2, G, O : boolean array; U, wgEa : boolean returns integer array when case 02800 - 8 < 9 : chillax end end main : C, T320a : boolean array; chillax end

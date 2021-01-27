@@ -1,0 +1,1 @@
+program c : pA : takes h : boolean; G : integer; r : integer returns nothing SG, J, J76, EL6 : boolean; chillax end main : K, s8 : integer; zU : boolean; e46, d1 : integer; O02aa : boolean; do Sm(false); pop 8 and 3 < - 668 - 6; when case false : let l_ = array 33; pop; while 2 : chillax end; pop end otherwise : chillax end end

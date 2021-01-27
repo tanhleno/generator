@@ -1,0 +1,1 @@
+program h : main : V22aa, _, Z57 : boolean array; mx, b, Y : boolean array; J, lb, B : integer array; s4, Qf, r0Ra, h : boolean; when case false - true : output "O"; do z(08 = 968); when case 84 : chillax end case 9 : chillax end; pop end otherwise : chillax end; while - (365) * true or true and 0 + 2920 = not 86 - 66700 - 879 : chillax end end

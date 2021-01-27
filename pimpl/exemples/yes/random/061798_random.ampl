@@ -1,0 +1,1 @@
+program _EFaa : b : takes x1 : integer returns boolean array do pL30(false and 99 - 82 - 1) end k : takes s3t : boolean; N, t, z : integer array; MHo0, nwE0a : boolean array returns boolean chillax end main : chillax end

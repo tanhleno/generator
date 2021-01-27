@@ -1,0 +1,1 @@
+program pN : s8 : takes e, q : integer array returns integer array when case not 92 = - 34 - 04 : do B(9) end otherwise : do I(4) end; let n = 51 = 2 end Y : takes c, AF4aa, Q : boolean array returns nothing chillax end main : chillax end

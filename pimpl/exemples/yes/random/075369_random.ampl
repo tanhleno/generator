@@ -1,0 +1,1 @@
+program b : main : lNe, a : boolean array; input V7; do sk90a(true * false - not 4 + 21 - 04 /= - 0620 - 400 - 91, (8) + 15 - 77 > 5430 - 5, 51300 - 9 > 5, 4, 8, 86600); while - false > 688 - 56 : input Q9W; let v = 299; output "" end end

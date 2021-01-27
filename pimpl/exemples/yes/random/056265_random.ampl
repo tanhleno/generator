@@ -1,0 +1,1 @@
+program H : a : takes c : integer array; q3z0a : boolean returns boolean array while - 23800 and 110 or 5 : chillax end end O : takes P50, H74aa : integer array returns nothing I9 : boolean; _ : boolean; chillax end main : let f[4 * (8) - false rem false - (46200) and 25 + 93] = array true rem false * (5) + false; while - 6620 rem(27) and 9 : do P54(66 = 6150) end end

@@ -1,0 +1,1 @@
+program G7 : main : R : boolean array; v : boolean array; X0 : boolean array; when case - not 1 * not(69800) + (15) * not 11 - 2 + 636 : chillax end; while - 2 > false and 6 : while 62 = 46 : when case 8 : chillax end end; input K; while 6 : chillax end; input u; pop end end

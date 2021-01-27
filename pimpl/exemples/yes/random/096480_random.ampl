@@ -1,0 +1,1 @@
+program l1 : main : when case - 121 and X(3) + (1) or 36 + 24 >= true or false : input n790[- 58]; while 83400 = 1 : output "0" end end otherwise : when case 2 = 0 : when case 3 : chillax end end case 6 : pop end case 086 : chillax end otherwise : chillax end; input f[5] end end

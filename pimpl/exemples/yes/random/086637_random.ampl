@@ -1,0 +1,1 @@
+program rh70a : main : k : integer array; ob : integer; A58a, M, p, P, gT : integer array; when case true and(1) rem V : chillax end case true : chillax end; output "" . "" . ""; let PGsaa[false] = 1 end

@@ -1,0 +1,1 @@
+program C150 : N : takes T : integer array returns nothing when case - false + 17 < 3020 - 0 : chillax end end R : takes R350, G, Q, R, H, JPH : boolean array returns nothing when case - 64800 - 9 <= 7 : output "2\\a" end case 9 = 3 : chillax end case 95 : chillax end otherwise : while 6 : chillax end; pop end end main : let Z3 = true or false >= not 8 end

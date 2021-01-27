@@ -1,0 +1,1 @@
+program L4 : l : takes Nc : boolean array returns integer output "\"\n" . 2 . 2 . "" end main : while true <= (9) : output "\"4" end; let m20 = array not(5710) / (949) + not 39500 and 1 or 89 - 9 end

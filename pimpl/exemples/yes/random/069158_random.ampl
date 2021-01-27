@@ -1,0 +1,1 @@
+program F3q : main : h, p, py, _, ud : integer; when case(6) = 37 rem true - true : output "" end case - (67700) - 6 and 8 + 0260 - 3 : chillax end otherwise : do U(5 = 47); let X[2430] = 7; output "5" end; while(1) + true or 296 < - T and 9 : chillax end; output "" . 5 = 2 . ""; pop end

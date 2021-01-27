@@ -1,0 +1,1 @@
+program X : main : when case - (0) and false rem S and 0 or 65900 * (0) + Ge10a >= - 6 or Cy : let N6[8 - 287] = array 0 - 4 end case - false and not 2650 : while 4 = 222 : when case 2 : chillax end; pop end; do I(79700, 3) end; input rm; output - 779 - 3 <= 3 end

@@ -1,0 +1,1 @@
+program xg9aa : main : while false /= false or false and 832 + 4 : chillax end; input H; while - true and 63 or 9 - 29 : chillax end; when case - 8 : do O(6); do E(3); pop end otherwise : chillax end; while 77 = 10 : output ""; pop end end

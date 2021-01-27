@@ -1,0 +1,1 @@
+program u : mwu : takes ZG80 : boolean array; i, QKfaa, a : boolean; f : boolean array; wW, b : boolean array; Y : integer array; L8 : boolean; e, A : boolean returns nothing when case - (6) and 40 or 233 - 7760 : when case 151 : chillax end; let c = 63000 end end main : RA8, R, e, yM : boolean array; chillax end

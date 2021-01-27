@@ -1,0 +1,1 @@
+program e9 : main : X, W : integer array; k, d4Baa : integer array; c4m : boolean; Pb, B6f0a : integer; RZwa, cNk : boolean array; when case(55) * not(617) rem(4) and 9 + not false * Tg40a + i and 66 or 3 - 2 : pop end otherwise : when case 67 : while 00 : chillax end; pop end case 151 : pop end end end

@@ -1,0 +1,1 @@
+program qv : d480a : takes CC4, H1zaa : boolean array returns nothing input Z; while 70 >= 2 : chillax end; while 0230 : chillax end end main : V, D, R9, r, VU : integer; B00, p : boolean array; chillax end

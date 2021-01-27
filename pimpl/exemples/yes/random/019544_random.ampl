@@ -1,0 +1,1 @@
+program w4 : M : takes z, h : boolean array; SL0, t4u0 : integer array returns integer kC9aa : boolean array; pop end Z : takes Y : boolean returns integer array input Y[- 6]; pop 6 end main : W : boolean; nM5 : boolean array; y : boolean array; h : boolean; p, Y790 : boolean array; J : boolean; Po : boolean; uRe0a : boolean; chillax end

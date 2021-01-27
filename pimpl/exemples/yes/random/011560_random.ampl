@@ -1,0 +1,1 @@
+program n : V8R : takes y, E64aa, y : boolean returns boolean array chillax end main : output g0[207] * not 9 . - not 2 + 7 . - 20 - 4 . 28; while true + not 1 > - v22 - 161 : chillax end; let RwE[td9aa and 6] = 6 < 35400; while 7 - 4 > 1 : output ""; pop end end

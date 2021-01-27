@@ -1,0 +1,1 @@
+program ZyR0a : k : takes C, taE : integer returns integer Z : integer array; let E = - 8; pop; while 477 : pop end end k2 : takes F, p : integer array; xu00 : integer array; b5C, v : boolean array returns boolean array pop end main : chillax end

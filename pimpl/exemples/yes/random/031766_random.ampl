@@ -1,0 +1,1 @@
+program g : FkF : takes A, P : integer returns integer array k, P8, a2q, q : integer array; when case - false and 7 - 9 - 45 : do k550(7, 59900) end case 5 <= 4 : while 2 : chillax end end end main : pop end

@@ -1,0 +1,1 @@
+program B : main : P_, rI6, S, g, E : integer; input C9; pop(9) and 0 /= - 514; when case - (3) and 9 + 0 < 7 - 57 : chillax end case - 3 - 5 /= 869 : chillax end otherwise : while 883 : chillax end; output ">" end; let h[- 41500] = array 7 - 5 end

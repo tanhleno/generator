@@ -1,0 +1,1 @@
+program W85a : jF : takes n : integer array returns nothing r, l, Y, H, n : integer; chillax end k : takes R0 : integer array; q, b04a, td, z : boolean array returns boolean array chillax end main : when case not false / 8 : chillax end case not not 56 * true and 2 + x : chillax end end

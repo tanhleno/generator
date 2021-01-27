@@ -1,0 +1,1 @@
+program Dp : uYz0 : takes p, Gw : boolean array; L0, LX3 : boolean array; aC, B74a : integer array returns boolean array j, E, c9 : integer; R, I : boolean; SS8a, C_5, c : integer; s, o0 : boolean; chillax end T1 : takes yc2, o : boolean array; q : integer; cc2 : boolean returns nothing output 52 . 2 . 6 . ""; let Gd0aa = array 8 end main : x4V0a : boolean; chillax end

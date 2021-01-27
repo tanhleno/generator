@@ -1,0 +1,1 @@
+program p : o : takes b, Sm2, r, OQ, V710 : boolean array; AKMa, v8 : boolean; Y5Gaa, v : boolean array; zxA : boolean array returns integer mX50a, O : integer array; pop end main : b, Xz, A, y : boolean array; output 859 * r5E0 - not 6 and 3 + 4 end

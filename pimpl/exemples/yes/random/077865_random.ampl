@@ -1,0 +1,1 @@
+program q : main : _, gv : integer array; input L6Z0[true * not false * not 3 + not false rem true and 837 + HG - 6 - 66]; while - o28(4) rem __ >= - false and 413 : chillax end; input w0Sa[- true - 87 - 59]; let n = array - 63 - 49 end

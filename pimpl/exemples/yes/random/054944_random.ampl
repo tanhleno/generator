@@ -1,0 +1,1 @@
+program Y : r5w : takes j : integer array; gp9a, h : integer; BRo, ZV : boolean returns boolean lY50, Jg, X, N5, C120 : boolean array; t, nJ80, o1 : integer array; F : boolean; do XE(- 84 <= 0, - 6 - 5960 <= 1); let y_[430] = array 70000 - 78; let bL = 9 end L2daa : takes L, _Wq, E0 : integer; K570a : boolean array; h2 : boolean returns nothing chillax end main : chillax end

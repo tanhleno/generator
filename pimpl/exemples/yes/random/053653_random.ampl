@@ -1,0 +1,1 @@
+program V : C6D : takes Q : integer array; SU, z62aa, P8, uu : boolean; B : integer array returns nothing do Zoza(- not 7 and 61 /= 4); pop end main : J : boolean array; output not not 6 * L0 and 155 + t < true - 51900 end

@@ -1,0 +1,1 @@
+program H6 : main : AD, OMp0 : boolean array; qy, U, c68a : boolean; do T8z(not not not 1 / (57) - 51200 / not 8 and 52 or 8 and 78 < not not 4 and 4470); pop - not 115 and 8 + 3 - 35000 /= - 1; pop 2020 - 923 > 3 end

@@ -1,0 +1,1 @@
+program b : L40 : takes K3h, bLzaa : integer array returns nothing input g[false and 15600 or 1500] end main : do Qz(true >= - jsa0a[99] rem 1, - 38 / j_ and 181 < (21200), - not 6 <= - 8 - 9820, 48 /= 9, 89 = 314, 6, 4); pop; when case - (118) : let LI[9] = 090 end case - 2 <= 238 : when case 7 : chillax end; let y4 = 1; pop end otherwise : chillax end; do Qx(305 = 87600) end

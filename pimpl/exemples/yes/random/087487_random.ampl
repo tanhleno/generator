@@ -1,0 +1,1 @@
+program r : main : T : integer array; when case - (0) and C6T(6690) = - (2) / true and 1 or K and 4 : pop 2 end; output "" . ""; output 89; do s(- 1 - 89900, 0 = 20, 1, 94); do n660(375); let D[864] = 64000; pop end

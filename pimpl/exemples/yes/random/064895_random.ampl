@@ -1,0 +1,1 @@
+program k1 : E8 : takes Kl : integer returns nothing XzC : integer; chillax end UC : takes W02 : boolean; W : integer array returns nothing let f[- 6270 - 88500] = array 7 - 4 end main : D9, fc6 : integer array; do W0(- false and not p); pop; do D(false or 550, - 6 - 9 < 563, 7 = 6); do J06(9, 0090 = 11, 444) end

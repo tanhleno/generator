@@ -1,0 +1,1 @@
+program N : i0 : takes FO10 : boolean array returns integer array vKuaa, O63aa, j4r : boolean array; s, HdHaa : boolean array; fw, W, p07a : integer; chillax end main : O : integer array; do t(- false rem(3) rem true and 0 or not 2 rem false + not 1 = ov0(26) or 59); do U(true rem false + FH and 4, not 6 + 46 /= 27 - 7) end

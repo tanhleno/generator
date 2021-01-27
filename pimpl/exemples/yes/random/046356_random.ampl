@@ -1,0 +1,1 @@
+program i3 : yA5 : takes Y2 : boolean returns boolean output "\t" . ""; pop end main : let Q2 = array I(0, 1170) rem false; while not T2K : let M = array 22; input uM[03] end; when case - 91 and 58 : chillax end case - 2290 - 66 >= 5 : chillax end otherwise : do S(09); input X; pop end; input fx7aa; output "d" end

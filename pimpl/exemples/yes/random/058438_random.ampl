@@ -1,0 +1,1 @@
+program j : E4 : takes D : integer array returns boolean DV : integer array; J6, n : integer; let i = array - true and 7; while - 631 : chillax end; input C5d[352]; output 25 . ""; output "" end main : chillax end

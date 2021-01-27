@@ -1,0 +1,1 @@
+program P : P : takes q4 : boolean array; t, v : integer array returns nothing dw : boolean array; F : integer; chillax end main : X : boolean; U2zaa : integer array; input pm[- true / J or 1]; input e end

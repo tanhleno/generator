@@ -1,0 +1,1 @@
+program Z8 : t : takes n2, Y0D, V : boolean; t1 : integer array returns nothing L, w : integer array; chillax end main : s1 : integer; d : integer array; g3j : integer; do C04((82) - false rem 009 and 6, true * not 066 and 2, - (846) or 00, 413 - 17); do eT(N4 and false = - true and 6360 - 20 - 302, - true and 483, 02 = 39) end

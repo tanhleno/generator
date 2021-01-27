@@ -1,0 +1,1 @@
+program q : main : o, K : integer array; let W[- 7 and d160a[4] and false and 246 or(3) / false and 5 + false - 6] = array - false * not true rem(9) + 2 + false and 21; let E48aa[- ZV[46] and c and 332] = - (6) or 4; while - true /= 68 - 6 : pop 35 end end

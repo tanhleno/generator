@@ -1,0 +1,1 @@
+program m2 : r94 : takes f : boolean array; x, H, rn6aa, x : integer; M, z : boolean returns nothing y, npw0a, m7q : boolean; n : integer; chillax end R : takes N : boolean array returns nothing chillax end main : while false * (5) or(5) and false and 8 <= - (09) - true : input m[78] end; pop py + 424 - 6 /= 7 end

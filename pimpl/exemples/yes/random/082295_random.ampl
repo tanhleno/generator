@@ -1,0 +1,1 @@
+program wX30a : main : u5v : boolean array; let Pp = - k00a(020) = - false and 59 - 15 - 9; when case - false rem false or true - 575 - 86 <= true + 860 - 90 : do ZM6(9 = 89, 9, 22) end; when case true and 3 + 5 < - 3 - 701 : pop end case - 5 <= 43 : do Y(9) end end

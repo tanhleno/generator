@@ -1,0 +1,1 @@
+program x : G2 : takes i, V1Na, y1, tT : boolean; fJ, T : boolean returns nothing when case true + 42 >= - 778 - 6 : while 6 : chillax end end; while 91 - 9 : while 0 : chillax end; while 074 : chillax end end; let V[9] = array 28800 end main : chillax end

@@ -1,0 +1,1 @@
+program IF : main : E78, d_, v5 : integer; p8 : boolean; let u8[- 9 * not o rem 6 and 004 or false / not 81 and 105] = array(95) or(38) + (8850) and 38 - 96 - 8; input ee[- not t]; let h5[- true] = array - false end

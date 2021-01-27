@@ -1,0 +1,1 @@
+program w : PYQ : takes tJvaa, Uf, P, j, Yq, L5, sNPaa, s : boolean; d, Hah0, d, WA, y, a, V : integer; _8 : boolean array; H : integer returns nothing chillax end main : s, y5i, v : boolean; output "" end

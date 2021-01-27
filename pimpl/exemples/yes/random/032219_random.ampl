@@ -1,0 +1,1 @@
+program t : A : takes Y, en20 : integer returns nothing chillax end xO : takes n, B46 : boolean; GTr0, L, j : boolean returns nothing chillax end main : input p; input L[false / true]; while - not 96 - 0 : chillax end end

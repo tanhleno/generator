@@ -1,0 +1,1 @@
+program f : Wu : takes d, hTPaa : integer returns nothing Q : boolean array; chillax end Z : takes zY, G, T : boolean array; T17, Bu2, j4, I : integer array returns nothing e : boolean; pop; output "4" . "(9" end main : chillax end

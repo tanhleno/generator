@@ -1,0 +1,1 @@
+program YL80a : main : QO : boolean array; m, h2 : integer; when case not(212) and false and DTda : input hQ30a[3 - 80]; when case 15 = 2 : chillax end; pop 3; input Y; output "\n"; pop end case - false * (1) or true : chillax end otherwise : chillax end; when case(3440) * not 2 : pop 66 end otherwise : chillax end; let I[true - 2830] = - 544 end

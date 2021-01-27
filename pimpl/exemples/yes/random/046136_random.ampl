@@ -1,0 +1,1 @@
+program gL20a : IH : takes g0 : boolean returns boolean e01a, jLLa : boolean array; J : integer array; GBv : boolean; chillax end main : p, e, Q : integer; zf : boolean array; T, V : boolean array; B : boolean array; chillax end

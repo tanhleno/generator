@@ -1,0 +1,1 @@
+program r : LB : takes b7, R, ODr, SFC0, t, En60a, M, R9 : integer; h, j : boolean array; I : boolean array; d : integer; j4 : boolean array returns boolean chillax end main : m : integer array; let N4Jaa = array - (1 = 287); let zoQ0 = array - not true end

@@ -1,0 +1,1 @@
+program w : I : takes p3, E, x6, qa : boolean returns boolean array chillax end c : takes x, g, iz : integer array returns nothing chillax end main : while - true or(0) or 88 and 9 : chillax end; output ""; do O1n(- false - 51 <= - 8 - 5, 44 >= 0, 4); output 8 = 6 . "47!" end

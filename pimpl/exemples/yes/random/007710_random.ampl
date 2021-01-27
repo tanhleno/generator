@@ -1,0 +1,1 @@
+program Fu : Q : takes F, p, hue, P : integer array returns nothing do gU(- 9 and 58 >= 3) end main : l : integer; T, A6 : boolean; while 4800 / d2 + true - false or 5 - 42 /= - not 68600 / not 0 + false and 0 : let _[- 260] = 8 = 73; output "\t}" . "8\t\"a" end end

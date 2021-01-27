@@ -1,0 +1,1 @@
+program tVL0a : main : d : boolean array; hy60a : integer; b : integer array; X : boolean; do B7(- not 69500 and true or R(778) or true and 34 - 15 - 58100 > w or(1), - true rem false or not 9 and 057 or 4820) end

@@ -1,0 +1,1 @@
+program H : n670 : takes J : integer returns nothing when case M and 3 < - 8 - 70000 : input J end case - 2 /= 84 : chillax end otherwise : chillax end end main : Pm : boolean array; P0M, D, j, V : boolean array; x : integer array; chillax end

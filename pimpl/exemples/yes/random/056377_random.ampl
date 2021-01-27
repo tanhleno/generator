@@ -1,0 +1,1 @@
+program V : E : takes w : integer array; L : boolean returns nothing chillax end V : takes j4, r5, Dgq, Et, W, HZ, dX : integer array returns nothing K : integer; chillax end main : let Q[- false / true - W88[5] rem false] = array - not(1) / false + 76 * true - not 1 and 98900 or 0 end

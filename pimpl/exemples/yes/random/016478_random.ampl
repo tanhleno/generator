@@ -1,0 +1,1 @@
+program Is : n : takes cy9, L, h : integer returns nothing k8 : integer array; chillax end main : x1, u : integer; u : boolean array; let k9[false and j_5aa(84)] = - true; do s5x(not G4 and(1) and 61 = true and 3); let uLh[r and 95 or 0] = 1 - 95 < 2; while 5 <= 4190 : do t(61) end end

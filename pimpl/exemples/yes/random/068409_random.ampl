@@ -1,0 +1,1 @@
+program v230 : main : B, u, Q56, O1H, N0n, N : boolean array; p01, qK5aa : integer; vX : boolean array; _1 : integer array; let P73a[c(11, 4) rem not false + not 270 and false and 12 or not 7 and 37800 + 345] = array - 81100 rem(0); do m(I(3) or not 76 or 50 - 4, - false or 8390, - 9 = 168) end

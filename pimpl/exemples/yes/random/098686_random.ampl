@@ -1,0 +1,1 @@
+program He : main : while - 219 * not true * false and 9690 : chillax end; when case - FaD[3] - 436 and 23 - 1 > JK and 26500 + 68 - 4 : chillax end otherwise : chillax end; pop; when case - 8 : input YN; while 5050 : chillax end; pop end case 407 = 1 : chillax end otherwise : chillax end; output 8410 . 54 . "7\n" end

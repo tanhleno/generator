@@ -1,0 +1,1 @@
+program v : g : takes O3 : boolean array returns integer output 7 - 9550 . 91 . "7%aa"; output "K" end Y : takes O : integer returns integer T : integer array; d0b0a : integer array; do rE(8 - 6 = 0520) end main : chillax end

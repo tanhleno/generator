@@ -1,0 +1,1 @@
+program h0 : nx7 : takes _ : boolean; cL, A32a : integer returns nothing chillax end main : zb80a, j, I : boolean array; when case - 01 : input L; output "" . "\\" . "`3aa"; when case 3470 : pop end; let KP3 = 9 end otherwise : chillax end; input D5 end

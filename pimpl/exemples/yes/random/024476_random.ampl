@@ -1,0 +1,1 @@
+program s : w : takes L9, F : boolean returns nothing WyU : boolean array; chillax end k : takes s8, C, _ : integer array; r, L560a : boolean returns boolean when case - 746 > 7 : chillax end; pop 01; let fN[69] = 7; input V end j : takes t : integer array returns integer chillax end d3maa : takes J : integer returns nothing chillax end main : chillax end

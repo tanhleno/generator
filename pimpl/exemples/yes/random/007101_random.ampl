@@ -1,0 +1,1 @@
+program Y : r6 : takes TI, l, o5uaa, _ : integer array; p : boolean; w, G060 : boolean array returns boolean do j(48 + 47 >= - 8 - 24) end P : takes I : boolean array returns integer chillax end N : takes ln : boolean returns integer eW90a : boolean array; chillax end main : chillax end

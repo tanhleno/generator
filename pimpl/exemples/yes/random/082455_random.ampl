@@ -1,0 +1,1 @@
+program D : main : Z560 : boolean array; output - not n4 /= true and 98 - 3; input v; let iY[- x and 995] = - 7 - 2; when case 0 >= 64 : when case 5 : chillax end; while 58400 : chillax end; pop end case 185 = 2 : do V(1) end; output 2 . "_60a" . "y" end

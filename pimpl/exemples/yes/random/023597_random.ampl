@@ -1,0 +1,1 @@
+program Yp : w2 : takes u0, d8h : boolean returns integer array pop; let oI = 5; input r[678] end H0 : takes g : integer; Q5 : boolean array; S : integer array returns boolean array do n(- 78 - 40 < 8, 7); do Rz(0190) end main : hn : boolean; m, N, U, U : boolean array; l : integer array; chillax end

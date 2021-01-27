@@ -1,0 +1,1 @@
+program y : S6 : takes o : boolean returns boolean chillax end main : output "H%!"; input nH[- true and e and 12 + not 5 and 245 + 7]; let z[true and 2 or 15] = 9510 >= 4; when case 7 - 8 : chillax end; input w6k0a; do n(1) end

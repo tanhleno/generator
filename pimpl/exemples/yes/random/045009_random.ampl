@@ -1,0 +1,1 @@
+program q : k : takes q : boolean array returns nothing let fuY0a = array - false + 1; let Z6m = array - 98; pop end W : takes i9 : integer returns nothing chillax end main : a : boolean array; when case - (93 = 1) / 5 * true and 4 or not false - (0) and 9 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program L : Ga : takes ZCW : boolean; _, p86a, ol, C, U : boolean returns boolean array X, s : boolean array; when case d9za and 06 or 6000 > 0 : chillax end; while - 47 : do E(4) end end g : takes sX, L, kE70, w : boolean array; Z, g140 : boolean; m : boolean array returns nothing input cs10[5 - 2] end main : chillax end

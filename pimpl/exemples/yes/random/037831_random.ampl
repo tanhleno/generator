@@ -1,0 +1,1 @@
+program ypC0a : W : takes Mgt0 : boolean array; K, _8, R9Ba, yI00 : integer; q, xs5, H : boolean; M, Pv20, F : integer; Q : boolean; cf : integer; B : boolean; T7 : boolean returns boolean wn, c1 : boolean; chillax end main : chillax end

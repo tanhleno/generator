@@ -1,0 +1,1 @@
+program w : main : l, s, W : boolean; hnj : integer array; output "t"; when case - 149 : when case 10 : output "" end otherwise : chillax end; while 631 : chillax end; let NY = 90 end case true and 8 + 20300 - 0 > 89500 - 9 : do K(1, 2) end case 82400 /= 708 : when case 6 : chillax end; pop; pop end end

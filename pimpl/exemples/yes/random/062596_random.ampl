@@ -1,0 +1,1 @@
+program r9 : NP9 : takes m1 : integer returns boolean input ok9 end w1 : takes Rg3 : integer; t, e, I : boolean array returns integer chillax end main : c, eP0aa : integer; input n7c[true and not 11 or cX9aa[14]]; let U[false * not 67600 or not 5] = - 528 and 17; input I[true and 2 + 2420] end

@@ -1,0 +1,1 @@
+program Z9 : fQAaa : takes dEG, Z, d9maa, R79, X25 : integer array returns integer array T : integer array; E : integer array; MX, N : integer; pop - 6 - 31 >= 0 end c : takes n46a, v : boolean array returns nothing y : integer array; v : integer array; output 5 end _ : takes h : boolean array returns boolean R, z, tk : boolean; chillax end main : pop; pop - true and 1 > 295 end

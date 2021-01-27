@@ -1,0 +1,1 @@
+program G3 : F740a : takes V : integer array returns boolean E : boolean; chillax end E : takes A, rx : integer; zdC0a, VpK, wA9 : boolean; G1i0 : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program laX0a : f : takes i8, G : boolean array returns nothing _, a : boolean array; V : integer; Y : boolean array; oz, Q : boolean; do Nq(- not 88 and 8 < - 898, - 0 - 70 /= 60, 5 = 93, 048) end w350 : takes f, S : boolean array returns boolean array chillax end c : takes m : boolean array returns nothing chillax end main : output "=" end

@@ -1,0 +1,1 @@
+program o : G : takes PZ : boolean array returns nothing do x370(- not 22) end Rh4a : takes I0, d : boolean; H : boolean array; rf, K : integer array; Ll80a : integer returns nothing chillax end main : input o end

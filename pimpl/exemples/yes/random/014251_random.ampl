@@ -1,0 +1,1 @@
+program L : R : takes W, o, Y : integer array; p29 : boolean array; x : integer; C, V : integer; st4 : boolean array returns boolean array B, z : integer; a, s : integer array; pop - 1 - 717 <= 7 end main : wQ : integer; vw : integer array; I, nS : integer; k, Z, R3, P : boolean array; Jmraa, S, v : boolean; p4 : boolean; input P[3]; pop - jdG and 2 end

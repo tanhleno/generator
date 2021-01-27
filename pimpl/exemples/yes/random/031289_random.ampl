@@ -1,0 +1,1 @@
+program r : N : takes Bm, o : integer returns boolean array FM, E : integer; do rRE0a(false); do u(80 - 2, 4 = 2, 42) end V : takes Q : boolean array; sZ, zvPaa : boolean returns boolean array chillax end s8 : takes h : integer array returns nothing pop 1 end main : J : integer array; chillax end

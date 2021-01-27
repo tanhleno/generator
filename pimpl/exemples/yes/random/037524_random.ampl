@@ -1,0 +1,1 @@
+program fe : D : takes t : boolean array; i4Y, K, i7, e, h, c : boolean array; n2 : integer array returns nothing chillax end main : q1, h : boolean; b3U, wz : integer; V_2, tU5 : boolean array; e : boolean; do b3L((5) <= - 5950 - not 5 and 8) end

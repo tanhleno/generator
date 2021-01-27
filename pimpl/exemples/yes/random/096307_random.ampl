@@ -1,0 +1,1 @@
+program Q9J : main : when case - not true / true : while - 13 /= 7 : output "4\"aa" end end; let t[- 5 and true and 2 + true and 97] = array true + 9; when case(2) and 50 : chillax end case - 7 : let D = 57; output "" end otherwise : while 8 : chillax end end; when case - 233 : while 4 : chillax end end; pop end

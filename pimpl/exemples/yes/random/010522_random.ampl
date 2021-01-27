@@ -1,0 +1,1 @@
+program M86 : Lo : takes m35, VS, e : boolean array returns boolean array chillax end main : J, L : boolean array; em2aa, I7, s : boolean; hJ : boolean array; gCR0, i1y0 : boolean; while - (6) or 9 - true <= - not not 7180 * true : chillax end end

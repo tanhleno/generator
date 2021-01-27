@@ -1,0 +1,1 @@
+program Ic : LU : takes aua, TA : integer array; p, C3 : integer; y : boolean array; r, Lg0aa, q, u, C : integer; W, Z, Bu60, Rcz : boolean returns integer array D6 : integer array; pop 0 - 5; while - 51 - 2 : output "\\G" end end main : A, aSu0a : boolean; Z700a, k, R : integer; t, v880a : integer; M : integer array; V, D440, Mr : boolean array; do Z(7 and 7 * (19) <= - 54) end

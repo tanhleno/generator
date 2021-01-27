@@ -1,0 +1,1 @@
+program i94 : R190a : takes V : boolean array; oY6 : integer; CI, KD40 : integer returns integer array Ek : integer; x : boolean; pop 261 - 6; when case - 4 - 1 > 61 : pop; when case 7 : chillax end; pop end otherwise : chillax end end vD : takes SN3aa : integer returns integer chillax end main : chillax end

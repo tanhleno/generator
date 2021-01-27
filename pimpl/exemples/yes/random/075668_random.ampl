@@ -1,0 +1,1 @@
+program qx6 : main : I9, c : boolean array; when case 20 - not true - not 33100 - 4 - 12 = - not 0 and 582 : output ""; while 4 = 42 : when case 3 : chillax end end end case - not(5) - npI0 and 786 or 6 < 5 and 44 + 93 : input O[5] end case - not 064 + 4 < - 56 : while 0 : pop end; output "T\""; input m; pop end case - 125 - 41 : let z440a = 83 end otherwise : chillax end end

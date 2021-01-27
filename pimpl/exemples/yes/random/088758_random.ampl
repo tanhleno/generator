@@ -1,0 +1,1 @@
+program Xs : main : input i[- 5 / false - not not 29 or 2 and 949 + 447 - 70200]; when case - false > - 23 and 5 or 225 - 9 : chillax end case v and 02 - 8 : chillax end case - 080 /= 6 : chillax end case 6 = 56 : chillax end case 0 : pop end case 5 : chillax end; while - k2 > - 72 : chillax end end

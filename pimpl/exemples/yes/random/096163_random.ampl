@@ -1,0 +1,1 @@
+program a : main : when case - not(65) and not(7) /= (07) - (1) and 5660 - 9 - 21800 : output 35 = 0 . 5 . "" end case not 90 = true + 932 : do HgF(9 = 8, 7730, 85); do HV(7); output "" end otherwise : chillax end; do x68(- (985) > (84) and 42) end

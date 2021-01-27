@@ -1,0 +1,1 @@
+program g1Qa : main : D, a : integer; when case not false rem not 86 = - qNl(0) : chillax end otherwise : chillax end; do l980(A7[137] + false and 3 - 29 - 34500, not 5 - 0, 5 - 71 /= 216, 677 = 483) end

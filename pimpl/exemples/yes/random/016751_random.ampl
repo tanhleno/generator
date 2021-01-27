@@ -1,0 +1,1 @@
+program S : v59 : takes B, W1N : boolean; r, C2, Pr5, N, xP3 : integer array returns nothing output - 10 - 7; input d; pop end him : takes F : boolean; E : integer array; Y5, S : boolean returns boolean chillax end main : do P(- (9) + CvG0(82) and not 8 and 101); output "QW0"; do p(- u and 867 /= 15300); input cV90; do r(6 = 38800, 8, 8) end

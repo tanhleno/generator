@@ -1,0 +1,1 @@
+program Z : Dq9 : takes z7Za, n, R860 : boolean array returns nothing do oIRa(- (9) = 321); output "" . "" . 56; input d5[8]; let i5l[05800] = array 8 end z0 : takes u64 : integer array returns nothing let a = 5 = 4 end main : F, X6 : integer array; chillax end

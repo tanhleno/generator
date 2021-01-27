@@ -1,0 +1,1 @@
+program Z : Q2Ua : takes Q2, W : boolean; h : boolean array; o4k : boolean returns boolean do D(- false and 1) end R930a : takes I, wb : boolean array; Z : boolean array; l, n : boolean array returns nothing chillax end main : e : integer; let r[- not l[8] + false / true and 0] = false or(1) and 23 end

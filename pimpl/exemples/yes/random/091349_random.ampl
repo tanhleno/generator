@@ -1,0 +1,1 @@
+program m : main : let nE[false rem false and false and 4] = (3) rem false or I or 19 - 338 > not 98 and 185 + 6; output true >= 2630 - 9; pop 142 - 395 >= 07; while 8 : chillax end; do Fk4(40, 46, 02); when case 7 : pop end otherwise : chillax end end

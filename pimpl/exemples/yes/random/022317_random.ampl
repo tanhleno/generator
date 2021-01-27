@@ -1,0 +1,1 @@
+program R : i : takes g84, Gq80 : boolean array returns nothing H2, X71aa : integer; Ke : integer; let E = - 8 - 05 end main : d, o9 : boolean; h : boolean array; vzDa : integer array; y : integer; let g8[898 * false] = array - y[6]; output Q2 and 0360 . - 2 < 2; while - (1) and 1 : chillax end end

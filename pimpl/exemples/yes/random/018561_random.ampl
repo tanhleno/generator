@@ -1,0 +1,1 @@
+program fF3 : T9 : takes B5, w : boolean; T10 : integer returns nothing G5 : boolean; J, c : integer array; w, K : boolean; chillax end p : takes wx : integer array returns nothing j, T9a : boolean; N4R, xB, r8 : boolean; qDx : boolean; when case - 7 : let XA = 2220 end end main : tt : boolean; chillax end

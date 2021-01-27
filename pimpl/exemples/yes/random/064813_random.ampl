@@ -1,0 +1,1 @@
+program f : K : takes Ps : integer returns nothing m3H : boolean array; sH40a, uXi, p : integer; i : boolean array; input C end Q970 : takes RA0 : boolean array; p, J : boolean array returns nothing e : boolean; Ja, sE : boolean; chillax end main : pop; input Cx; input s[- TW50a and 3 or 6]; pop end

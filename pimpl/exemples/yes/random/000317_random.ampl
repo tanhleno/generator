@@ -1,0 +1,1 @@
+program R : p : takes i, f, rT1a, w9, BQ, G, H, Sa : integer; tu, e8 : boolean array; Z, Yk : boolean; v : integer returns boolean array m6, f : integer; chillax end main : while 9020 / (48400) /= - not false rem(6) - false : chillax end end

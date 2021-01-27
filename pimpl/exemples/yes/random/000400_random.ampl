@@ -1,0 +1,1 @@
+program iS : K : takes Q5, R, a, h, z, c, n, B : integer array; eT2 : boolean array; zY, r, Q, G, W : integer returns nothing fAW, c : integer array; chillax end main : nzha : boolean; xN50a, u, rH : boolean; chillax end

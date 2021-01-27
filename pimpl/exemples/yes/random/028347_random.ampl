@@ -1,0 +1,1 @@
+program A3Z0a : T : takes Jb, f : integer array; xp5 : boolean array; O : integer array returns nothing when case - true and 3 or 4 - 13 = - 9 - 3 : chillax end; do u5b(- 4, 95 = 7270, 68); while 38 = 86 : chillax end; input OF end main : q : integer; rne : boolean array; b4l, x7Ba : boolean array; l, P, O : integer array; bM, u1, w : boolean array; chillax end

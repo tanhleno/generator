@@ -1,0 +1,1 @@
+program n : J390 : takes o : boolean array returns integer array pop - 7 - 2 >= 58; input NU50[- 80600 - 03]; when case 91 = 84 : while 8 : chillax end end otherwise : pop end; do p9(272, 8); input EqHaa end main : D : boolean array; k7ma, JVR, k68 : integer; chillax end

@@ -1,0 +1,1 @@
+program s : b : takes q7, md, pVv0, Rv9 : boolean array; H8b0, yy, B : integer array returns nothing chillax end z_e : takes gJ, tq : integer returns nothing when case 3 : chillax end case 41 : chillax end case 15 : chillax end end main : while not false + not bGg rem(1) : chillax end; input g5[not(0) / not 4 and 355] end

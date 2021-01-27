@@ -1,0 +1,1 @@
+program P : gol0 : takes P9 : boolean array returns nothing do C5H0(false - 4 - 860, 12 - 64 /= 1) end o3 : takes C, m : boolean array; _8 : integer; GI, X29aa : integer returns nothing gM, E : boolean; input aE end main : G, m : integer array; D6I, v, F96 : integer array; output "Z" end

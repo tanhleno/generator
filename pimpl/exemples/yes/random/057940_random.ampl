@@ -1,0 +1,1 @@
+program B : S : takes KyY : integer array returns boolean array let j[L4] = array - (84200); input c2y0[- 0 - 45]; output 61; output 0; let fi = 4790 end main : zW, oQE0, g, G, q : boolean; let L7 = false and true or d1 and 36 + 0 end

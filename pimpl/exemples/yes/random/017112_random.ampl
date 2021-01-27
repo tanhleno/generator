@@ -1,0 +1,1 @@
+program j29 : E4P0a : takes s, J2Qa : boolean; dU, zS, K : integer returns integer q, jo, o, o, v : integer array; K : boolean; chillax end j2s0 : takes bJ : boolean; h, IbO, v, bJ : boolean returns integer llt, J5Z, P, q : boolean array; U : boolean array; f : boolean; JX : boolean; chillax end main : G, Ek3 : boolean array; chillax end

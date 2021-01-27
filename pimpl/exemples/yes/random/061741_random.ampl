@@ -1,0 +1,1 @@
+program z120 : lH_aa : takes P : integer returns boolean array chillax end j : takes a : integer returns nothing chillax end main : Pn20a, U, ww, r, Z5fa : integer; X7, jh, _Q, C3 : integer array; K7 : integer; p2, au, K7, KP : integer; oN1, m, W2d0a : integer array; N : boolean; o : boolean; d : boolean; chillax end

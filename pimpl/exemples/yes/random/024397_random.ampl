@@ -1,0 +1,1 @@
+program m5u0a : rR : takes O8, m : boolean returns nothing gx : boolean; chillax end N5va : takes g2, _z, o : integer; w27a, H0 : boolean array returns nothing S14 : integer array; y : boolean array; O, m0m0a : boolean; do P(8 - 42, 7630, 7, 045); when case 6 = 994 : output "" end case 731 : chillax end end main : _RYa : integer; chillax end

@@ -1,0 +1,1 @@
+program M : P : takes h5 : integer array returns nothing output 06 >= 7 . "" . 91 . "" end j : takes Z, h : integer array; t, y0, o95, t : boolean array returns nothing a3, A : boolean; chillax end main : d, L, x : integer; N, q : boolean array; D : boolean array; output "1" end

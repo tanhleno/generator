@@ -1,0 +1,1 @@
+program _8 : main : U, Z, q, B0 : boolean array; do QFt(not V46a(7) + false * 05 and 21 + false or 6 - 89 <= - 7 or(4240)); do U65(- c6[1] and true + not 3 and 1 /= - not 7670, 907 and 1 - 92 - 92, - 0 - 4, 989) end

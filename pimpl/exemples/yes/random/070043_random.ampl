@@ -1,0 +1,1 @@
+program K : main : b, z9V, U, V : boolean array; while false / false = - (1480) * not 57 + p : input y[0 - 82] end; let z = array false * (642) + (2) and 9 + 47 - 5; while false and 1930 : when case 12 : pop end case 4 : chillax end otherwise : chillax end; pop; pop; pop end; let OK[- 8 - 362] = 64300 = 45300; when case 2 = 81 : chillax end end

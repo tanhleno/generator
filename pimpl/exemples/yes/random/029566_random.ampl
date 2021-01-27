@@ -1,0 +1,1 @@
+program z : k6 : takes A, l8 : integer array returns boolean Zt50 : boolean array; chillax end main : a : boolean; while rd1(1) rem false <= - true - (48) and 24 : while 7 >= 1 : let np00a = 0 end end end

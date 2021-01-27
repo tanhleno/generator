@@ -1,0 +1,1 @@
+program h : v93 : takes P, M : boolean array; Y, N4 : integer; s, M : boolean array returns nothing N : integer; u : boolean array; while - 264 and 31 : output 260 end; do vRj(- 41) end main : x, F5 : integer array; chillax end

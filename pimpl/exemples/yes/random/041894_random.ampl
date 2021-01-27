@@ -1,0 +1,1 @@
+program V : Lk : takes cr : boolean array returns boolean array when case 1 and 02100 : chillax end case 82 - 1 : chillax end case 3 : chillax end otherwise : when case 73 : chillax end; when case 3 : chillax end; pop end; output "6"; while 84 : do h(603); pop end; pop; when case 4 : chillax end end main : input o[false + not 0140 / 6 and 2] end

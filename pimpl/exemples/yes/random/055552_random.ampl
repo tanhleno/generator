@@ -1,0 +1,1 @@
+program H0 : f : takes c : integer array; i : boolean; q, i : boolean returns nothing c, y4, UJ : integer; iV5aa : integer; chillax end main : when case - not true rem(08) : pop 8 end case - not 6 < aTL and 037 or 22800 : while 87600 = 7 : input s; pop end end case false /= - 66 - 9 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program R : I6 : takes _ : boolean; q5, d : boolean array returns nothing do o(U0o0a + 99, 2, 21 = 9, 7, 9) end dO4aa : takes B : boolean; _w, SK : boolean array returns nothing chillax end main : chillax end

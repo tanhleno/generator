@@ -1,0 +1,1 @@
+program uV8 : n : takes H8, fV, t : integer array; i, v : integer array returns boolean array v4, x : boolean; L : integer; while 5 >= 2 - 222 : chillax end end main : do C400(true - (83), - not false + not 6860 and 5 or 34 - 7 > - (96) and 553 - 60 - 8, not 13 + 8 > - 4, 33 - 28 /= 310, 803 = 1, 73, 8) end

@@ -1,0 +1,1 @@
+program z9Aa : st : takes M, e, Z, l : integer array returns nothing X : integer; z, A : integer; chillax end a : takes Y5, g, n : integer array; k, u, u : integer returns nothing I : integer array; chillax end main : output - false - not 4 or 15700 - 99 end

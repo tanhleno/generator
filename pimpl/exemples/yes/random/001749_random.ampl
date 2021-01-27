@@ -1,0 +1,1 @@
+program I : J77 : takes T2maa, y5haa, k7, F, T, QP : integer array; Z, d18, TI : boolean array returns nothing Eek0a, ym : integer; P0, O, i : integer array; output ""; pop end cx00 : takes T190a : boolean; p0 : boolean array returns integer array input y end main : Xvk, T, TBr, t, m, YoDaa, e : boolean; C, g : boolean array; chillax end

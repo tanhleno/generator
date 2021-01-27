@@ -1,0 +1,1 @@
+program PP80a : td : takes Im, o, U, j5, V : boolean returns nothing when case - not 37 + 06 - 7180 : chillax end; pop 70 = 9; input S1 end F : takes zD : boolean array; ma, jq3 : integer; S, o, xYt0a, _ : boolean returns nothing while 62 > 3 : chillax end end main : let UZ[true / vP(86)] = - O(8) end

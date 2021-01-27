@@ -1,0 +1,1 @@
+program U : ey : takes X1La, lVd, S : boolean array; N : boolean array returns integer chillax end main : Em : integer; ZS : integer array; let c = R190[6] > (06) and 131; while u / false and 3 - Of + 90 - 44 : do V9(993, 0, 6840); do m7Oa(921, 64); while 37 : chillax end; output "R$a" end end

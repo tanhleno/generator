@@ -1,0 +1,1 @@
+program _P : main : R, ja, zf8, d : boolean array; when case - false : output "" end case false / 0 and 66 + 2460 - 090 - 7 : let KkF = 5; input t9ea end case true and 490 + 8 - 2 < 6 - 6 : let xJA[713] = array 5; pop; when case 64 : chillax end; pop end; pop end

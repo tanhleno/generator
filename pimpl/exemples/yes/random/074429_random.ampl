@@ -1,0 +1,1 @@
+program a : main : W, S : boolean; while - x(74, 018) / not Uw60 * (413) and 9320 : while - 7 - 1 : output ""; when case 9 : chillax end end; input Z; when case 04 : chillax end end; when case - o : chillax end case not 08 = 57 - 393 : when case 8 : pop end end case - 4 - 6 /= 13 : chillax end; do z(not 60 or 9, - 960 - 4790 >= 53) end

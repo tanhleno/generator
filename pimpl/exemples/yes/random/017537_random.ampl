@@ -1,0 +1,1 @@
+program T : P : takes L5, Pq : boolean; O, EMA : integer array returns nothing B8 : integer array; q, AH : boolean array; uT2aa : boolean array; chillax end main : X92, D, C : integer; i6, q7, a : boolean array; do g(not 0 and true); do Sj(not false - not 7 or 58 - 30600 >= false or 811, false and 1 <= 14900, - 73 - 4 > 93200, 76 = 49) end

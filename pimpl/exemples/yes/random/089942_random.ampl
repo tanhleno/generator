@@ -1,0 +1,1 @@
+program z : main : let w = array - not false rem false and y or not 0 + (04200) and 026 + 51; when case F rem true : chillax end otherwise : while 85 : pop end end; do j((55) + 7 - 816, 15 - 0810 = 9, 2 = 5930); input l end

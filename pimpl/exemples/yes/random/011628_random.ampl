@@ -1,0 +1,1 @@
+program k32 : E : takes H, o, jv : boolean returns boolean array Hc70 : integer array; chillax end main : G : integer array; k1 : integer; B, m : boolean array; _, _, pD0, uOh : boolean array; p2, z : boolean; Mm, D : boolean; output(4) and(16) and 694 - J + 7 - 2670 < not 7; pop end

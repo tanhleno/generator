@@ -1,0 +1,1 @@
+program VK : B : takes J, Y : integer array; CpO, WMZ : integer returns boolean array E, x, tO : integer; let l = array - false end au6 : takes j46aa : integer returns boolean do P(47400 - 21) end main : W, S : boolean array; chillax end

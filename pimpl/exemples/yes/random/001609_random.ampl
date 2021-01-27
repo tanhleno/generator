@@ -1,0 +1,1 @@
+program M : N : takes P, F45, p, drN0a, F, Mn : integer; T9m, s, K : boolean array returns integer input m; do fh(- 84500, 0 = 8, 69500, 7) end main : S5Q, h440, a, t, g : boolean array; let a[- not true rem(88200) / false or false / not 35] = - Q13; do kZ((3) >= false, A, 84000, 2, 43900); when case - M and 6 : let N = 3 end otherwise : chillax end end

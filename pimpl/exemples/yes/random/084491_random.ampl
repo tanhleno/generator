@@ -1,0 +1,1 @@
+program W : main : M9 : integer; S : integer array; PJi : boolean array; let D8[(61) / 12 - 5 rem false] = array f or true and(6060) and 7; input Ls[not Jib / false and 2]; do u(- false < 51 - 69400) end

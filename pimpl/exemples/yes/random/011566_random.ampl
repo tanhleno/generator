@@ -1,0 +1,1 @@
+program IW : W4I : takes W, M, _M : boolean returns boolean array do A(I and 815 + 1 /= 4) end i : takes zt, F : boolean array returns nothing when case 9 : let Q = 34 end case 0740 = 6 : chillax end; let l[2] = array 712; output "f" . "~B\""; let O = 28; do z36(7); pop end main : G, W, h14 : integer array; chillax end

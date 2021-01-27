@@ -1,0 +1,1 @@
+program Z6 : U : takes w, cP, F2, Mu5, t6, _, T, b : integer returns boolean E6 : boolean; chillax end main : S : boolean; when case - true or Fcr[3] - w > 9 rem 51 + true and 5 : pop 75 = 70200 end case true <= - false : let t2[83] = 0 end otherwise : pop end; let t = array L55a(7) - t9r0 end

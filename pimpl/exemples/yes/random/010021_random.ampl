@@ -1,0 +1,1 @@
+program p : Sw7a : takes G, s31, A : boolean array; QRo0 : boolean; p41 : boolean array returns nothing g, l, G : boolean array; let CB = - 9; while 574 - 31300 >= 8 : chillax end end main : pop - 9; pop end

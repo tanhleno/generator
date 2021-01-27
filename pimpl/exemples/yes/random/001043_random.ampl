@@ -1,0 +1,1 @@
+program a : O : takes qm, e9, fEQ0a, k580a, B1, o3, Z : integer returns nothing chillax end main : B : boolean array; when case - (01 = 84) rem p1 / not 360 and 28 - 3 - 69 + 7860 <= - 0 or 2 and 0 : let f[6] = array - 167 - 2 end case - false * 09800 and 27 + true - 0 : chillax end end

@@ -1,0 +1,1 @@
+program X : W : takes t0q : integer; k8 : boolean array; d : integer array; I3 : integer array; R : integer array; N : integer returns nothing chillax end main : pop - (62) rem true and 93; output "\\1" . "" end

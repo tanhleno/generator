@@ -1,0 +1,1 @@
+program n3 : Q58 : takes e, U5d : boolean returns integer array do D(- (60) - 0, 64 - 21 > 830); output 5330 . "/4!a" . 5 end M : takes I : integer array returns boolean chillax end main : do I8Maa(- G[25] or 3 + 6 and 3 + 9, - not N4 + 143 and 8 < false) end

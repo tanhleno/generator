@@ -1,0 +1,1 @@
+program g9 : main : s0Xa : boolean array; Xx : boolean; I88 : integer array; ND, Q24a, r : integer array; a, j, wr90 : boolean; N : boolean; do e((2) and true + not true and 9, false * false and 00 or e + 43100 - 27); while - 6 rem uh = - false and 98 : chillax end; while true or 6 - 8 >= - 61 - 19 : input F end end

@@ -1,0 +1,1 @@
+program t : main : when case not(47) or 2 + (54) - 6 : output 2 . 32700 . 3 . "d" end case 13 + 89400 > false and 3 or 9 - 0 : chillax end otherwise : chillax end; pop; let Mz[- 7 and 2560 + 3 - 6] = array - not 3; let f[- 2 - 4] = array 22 end

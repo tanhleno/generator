@@ -1,0 +1,1 @@
+program y : fB2 : takes QcV : integer array; DS30a, I64aa : integer array; vl60 : integer; w : boolean array; _, q0, r, Er : integer; L7, A : integer array returns nothing I : boolean; M : boolean array; q3 : integer; KX30a, g : boolean; input NU20[- (3)]; let x = array - 826; when case 414 = 663 : chillax end case 4 : chillax end otherwise : pop end end main : chillax end

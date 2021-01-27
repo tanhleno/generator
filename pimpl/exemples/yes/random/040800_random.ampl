@@ -1,0 +1,1 @@
+program g : Y : takes t2 : boolean array; K : integer array; q, U : boolean array returns integer array chillax end main : Q4 : integer array; let tT3[not 8 * 0] = array - JE; do Q(true rem(350) and 09 /= not 03900 and 5, false and 8 >= - 3) end

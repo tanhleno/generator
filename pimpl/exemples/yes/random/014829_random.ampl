@@ -1,0 +1,1 @@
+program C : _ : takes Kx, mg, b : integer array returns boolean MX20a, e : boolean array; chillax end Wm0 : takes y, Z9fa, O, u, izc, i, Khv : integer array; l8P : integer array returns boolean array chillax end main : Q : boolean array; AQi, O9, L1 : integer; input e5; input e[not(4) rem(2) and 6] end

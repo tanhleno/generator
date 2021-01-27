@@ -1,0 +1,1 @@
+program W : main : when case - 2 / O(072) and false and 47 : chillax end case - not(11) and not 38 - 632 and 4 + 8090 - 1 : pop; do k8(93, 21700) end case true or 9 /= 29 : chillax end case - 7 > 4 : chillax end case 4 : chillax end end

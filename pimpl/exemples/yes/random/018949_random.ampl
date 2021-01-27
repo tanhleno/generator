@@ -1,0 +1,1 @@
+program u : v : takes d, U3 : boolean array; m, j3, K : boolean array returns nothing let v = - 5 - 2 >= 0 end main : when case - Y(4) : chillax end case false + not 10 and 73 or 37 - 0 = 7 and 7010 : output "" . "2" end otherwise : do n(7); pop 131; input M end; input e[- not Y * false and 0] end

@@ -1,0 +1,1 @@
+program h : L : takes t3, qh, n : boolean array returns integer array Dh : boolean; output - 8 - 0 = 08 . "ML!a"; do W4v(0 <= 236, 17, 8, 0) end PG : takes zL, I, tc : boolean; K, D97 : boolean array returns integer chillax end main : chillax end

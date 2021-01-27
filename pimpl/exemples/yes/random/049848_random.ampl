@@ -1,0 +1,1 @@
+program D1 : G : takes xrF : integer; d, l3, UN4a : boolean array; U, v : integer; x2 : integer returns nothing W : boolean; while - false and 1670 : chillax end; let OR = array - 9 end main : chillax end

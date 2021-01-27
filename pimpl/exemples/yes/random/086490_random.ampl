@@ -1,0 +1,1 @@
+program s : main : e1 : integer array; G : boolean array; z, p2haa, Lh : integer; M1o : integer array; Sr, J7g0a, N : boolean array; o : boolean; v : boolean; do b(- 17 * not Xy8 * BZ /= not r, M8[8] and false and 26 or(0) + 29 - 3, not 5 + 7 - 2 /= - 36 - 3, - 4 = 37) end

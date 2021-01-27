@@ -1,0 +1,1 @@
+program t : _J : takes u2i, JP : integer returns nothing chillax end Y8 : takes Z9_0 : integer returns boolean array output 53 . 45; when case 12 : chillax end case 2 : chillax end otherwise : pop end; input ZH60[262]; pop; when case 4 : chillax end; pop end main : when case - not false rem 6 rem false and 5 : chillax end otherwise : chillax end end

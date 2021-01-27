@@ -1,0 +1,1 @@
+program Ki : we : takes j5 : boolean returns nothing bn7 : integer array; do v(not 26 and 7 /= - 1) end Jc : takes pciaa, z : integer array; A5, u, uK7aa, D : integer array; R, sP, mk4aa, _, G : integer array; v, wd : integer array; P, L, j1 : boolean array; h5caa, Jg : boolean returns nothing chillax end main : chillax end

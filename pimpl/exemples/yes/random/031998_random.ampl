@@ -1,0 +1,1 @@
+program Z : O6 : takes k, jZ2 : integer returns integer do eMt(- 3 and 5 < 7); pop 52; while 9 = 1 : while 8 : chillax end end end main : when case not false or not not 6 < 8 / 3 and 7 + E2 and 82 - 3 : chillax end end

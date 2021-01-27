@@ -1,0 +1,1 @@
+program L6 : p4e : takes E, D8, ss6, o : boolean; a : boolean array returns nothing T : integer; p, U, q9, r98aa : boolean; do R(true and 7 + 680, 53, 4, 7320); while - 3 /= 26 : while 3 : chillax end end; let aF[5] = array 5740 end main : do v(false /= bt, - 9 and false + (17) - 8 - 9 <= - J and 5) end

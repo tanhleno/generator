@@ -1,0 +1,1 @@
+program q : h3D : takes N, z, F : boolean array; vOS, V51, m2O : integer array; _, d35, S, U : boolean array returns nothing k, eQ, X, l, y : integer array; k, rw : integer array; mw, u : boolean; chillax end _ : takes sw4 : integer array; Ekyaa : integer array returns nothing e, P, jP1 : integer array; S : integer array; output 7; input rV4aa[4]; do j(3) end main : chillax end

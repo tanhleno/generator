@@ -1,0 +1,1 @@
+program x : v : takes N, I : integer returns integer h730a, i : boolean; input U2A0a end G : takes On7, K3s0a, F9 : integer array returns integer array fvT0 : boolean; N, w4K, Nj : boolean; let sqb[- 63] = 784; do u5(5 = 4); input g7 end main : let F[- (2) / true] = - (692) and false > false or 1; let E = - true and 9 + 1 - 5 /= - 05 end

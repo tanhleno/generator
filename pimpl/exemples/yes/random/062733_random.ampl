@@ -1,0 +1,1 @@
+program E : L : takes MX : integer returns integer array chillax end A : takes d1 : boolean returns nothing chillax end rA : takes I : boolean; y, s : integer returns nothing while 6 = 86 : while 7 : chillax end end; while 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program b2 : dF2aa : takes D0, C4 : boolean returns integer QT, M, O, sO9a : boolean; pop; input R[- 9 - 7]; when case 824 = 6 : do Q(9) end end XuH0 : takes Wi7, Ij : boolean array; o22a : integer array returns integer array F23aa : boolean; C2 : integer; chillax end J : takes c, z, M : boolean array returns integer array s : boolean array; chillax end main : input xrl0 end

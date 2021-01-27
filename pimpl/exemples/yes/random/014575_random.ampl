@@ -1,0 +1,1 @@
+program Yp : D0 : takes E64, m5, bo : integer array; G230 : integer returns boolean array OM9 : integer array; output - 1120 = 4 end y : takes M, qpi, e : boolean returns nothing chillax end main : c, a : boolean array; XP, h4, D, _, rb10, o : integer; Sa, ZQ : boolean; c1, t7j : boolean; let D = (068); while - true - k3 or 9 : let jx80a[6] = array 2 end end

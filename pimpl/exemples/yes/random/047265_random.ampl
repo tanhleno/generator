@@ -1,0 +1,1 @@
+program bG : l : takes K : boolean returns integer input Cl end w380 : takes Kv : integer; Py : boolean returns boolean array chillax end main : H : boolean; ZW : boolean array; input w6J0a; input GK[- true or false and 692]; pop 0 >= 568 end

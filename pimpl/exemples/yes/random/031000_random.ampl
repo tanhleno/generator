@@ -1,0 +1,1 @@
+program H : D3 : takes e, Z5 : integer array returns nothing let ex = array - true end main : ICv : integer; H, UYj, e : boolean; fH : integer; l : boolean array; while 84 / true * not 1270 and 3 /= - (1) and 09 and 6 : chillax end end

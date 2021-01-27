@@ -1,0 +1,1 @@
+program S : qU : takes g1 : integer returns nothing chillax end M0 : takes B570, lab, B, zP : boolean returns nothing chillax end main : when case - false / false - O2 /= (2) * j and 777 : chillax end otherwise : while 7780 : chillax end end; let xU = 024 and 44 end

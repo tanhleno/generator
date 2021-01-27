@@ -1,0 +1,1 @@
+program L : J : takes s5, l, q12, h, o21 : integer; F : boolean array returns integer array chillax end R200a : takes te : integer array; o_ : boolean array returns nothing chillax end main : chillax end

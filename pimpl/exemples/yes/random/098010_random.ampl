@@ -1,0 +1,1 @@
+program r : main : while - (9) rem false and not 7 and 6 + y[3] rem not 5 or not 6 and 317 - 1 - 1 > not(3) / not 0 and 9940 + not 392 : chillax end; when case c(7) / (91) and 2 >= (8) and 290 : do b(4 = 3, 46) end; let Vx9 = array - true or 80; do r380a(453 - 5 > 93, 530, 84, 3) end

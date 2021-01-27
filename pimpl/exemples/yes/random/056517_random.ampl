@@ -1,0 +1,1 @@
+program j : m4 : takes _7 : integer array; Lym : integer; r, s, O3, F5 : integer; g5 : boolean array; u, gX : integer; H : boolean array; K : boolean returns nothing chillax end main : while 2 and false /= true / 53200 and 0 : let vO50[948 - 03] = 33 = 57 end end

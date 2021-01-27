@@ -1,0 +1,1 @@
+program v : l090 : takes Bhc0, u7 : boolean returns nothing Ab : integer; do W(R and 44 /= - 41, 37 >= 78, 91, 1, 31); while 3 = 92 : let s9 = 94 end end main : when case(0 = 4) / false : pop end otherwise : chillax end end

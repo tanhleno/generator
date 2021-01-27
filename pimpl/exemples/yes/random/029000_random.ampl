@@ -1,0 +1,1 @@
+program PS20a : Y : takes A, fa : integer array; g3 : integer array returns nothing chillax end main : L, G, r : boolean; k, P : boolean array; s8H, Q, IS, Q : integer array; when case not 0 - false or(9) and 692 - 91 : when case 3 < 8 : chillax end end otherwise : chillax end end

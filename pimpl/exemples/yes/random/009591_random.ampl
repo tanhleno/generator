@@ -1,0 +1,1 @@
+program tNj : FE : takes r420, Q5, Akk : boolean array; kk80a, q, Q, Lk : integer array returns boolean Sf10a : boolean array; pop 1 <= 10; let _43[- 0] = 7 end xC : takes f2, w23 : boolean array; Q23 : boolean; E : boolean array returns nothing chillax end main : chillax end

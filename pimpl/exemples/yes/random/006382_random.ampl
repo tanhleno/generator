@@ -1,0 +1,1 @@
+program F3 : Qk : takes q9, x, z, f : integer; u, k, E9 : boolean returns boolean array while(5) /= - 10200 : chillax end end V : takes c1 : integer; X, _ : boolean; K, m0a : boolean; G, X8, c6, JJ : boolean array returns nothing while 2 - 650 >= 55 : chillax end end main : while 7 : input W[9 - 6]; input C5[4] end end

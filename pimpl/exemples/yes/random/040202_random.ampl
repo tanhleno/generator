@@ -1,0 +1,1 @@
+program h : U : takes B : boolean array; Wu50a : boolean array returns nothing Uv : integer array; t : boolean; chillax end main : X5 : integer array; X9 : boolean array; R : boolean array; output - not false rem true and 6 or 2 - 7 - 6 end

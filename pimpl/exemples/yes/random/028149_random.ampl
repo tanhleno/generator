@@ -1,0 +1,1 @@
+program jDI : Agl : takes Q, QH : integer array; N : boolean; w8, K6H0 : boolean array; K, X5 : boolean array returns integer chillax end main : h, s6 : integer array; input w[(63500) * not false - 1470 - I - 96] end

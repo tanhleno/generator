@@ -1,0 +1,1 @@
+program t : X : takes z : integer; jFX, Wn : integer returns integer thpa, Na4a : integer array; chillax end main : yz : integer array; pop; while - (70) < - a and 2 : let f[61] = 2; output "\n"; output "" end end

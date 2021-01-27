@@ -1,0 +1,1 @@
+program dw20a : main : let T = - not true rem false or not 4 or 8 - 43 /= false; output not 17 and 8090 < 121 . ""; when case - true and 9 - 3 /= - 2 - 6 : do SM(0) end case - 824 - 5 >= 348 : chillax end case 344 : input f end; while 8 - 6 : chillax end; input fAW[4]; while 99000 : pop end end

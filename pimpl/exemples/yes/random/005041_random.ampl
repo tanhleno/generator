@@ -1,0 +1,1 @@
+program Q1 : g4Taa : takes X, r, r, H : boolean array; F : boolean array; Y, Ef : integer array returns boolean array G, Kb60, G, U : boolean array; output 544 = 39 . "_"; while - 49 = 66 : chillax end end main : chillax end

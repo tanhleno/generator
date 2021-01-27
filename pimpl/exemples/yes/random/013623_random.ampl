@@ -1,0 +1,1 @@
+program U : P : takes h7, cJl0, s : integer array; j2aaa, e5, NQ5, E6A0a, X1, l, a5 : integer array; Q : boolean; x0, sv4 : integer array; G, X : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program S3 : KwL0a : takes lX0, ZiB : integer array; U, h0 : boolean; t : boolean; C : integer array returns integer chillax end main : K, j49 : boolean array; P5p0 : integer; M1, w5Faa, z, u40 : boolean array; do Y39(true rem not(2) - false > - (949) * Z and 9, f[0] or(6) and 4, - (8) and 1 or 64) end

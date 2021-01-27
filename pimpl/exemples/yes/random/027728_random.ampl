@@ -1,0 +1,1 @@
+program G77 : L : takes A5, Oc : integer array; T6c, C8 : boolean array returns integer array while - 74 and 3 - 0 - 9640 : input y7M0[44] end; pop; while 9 : pop end; input RY; let D = 94 end main : h7Iaa : boolean array; r8, Lp90a : boolean; chillax end

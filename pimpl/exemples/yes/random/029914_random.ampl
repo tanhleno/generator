@@ -1,0 +1,1 @@
+program y : X : takes Ym4a, neI0a : integer array returns integer array while - true and 3 : chillax end; let a[- 36] = 529 end main : zq, _S8, t : boolean array; output(50) . - false and 9 /= - 46 - 2780 . 287 - 38100 <= 57000 . "\\Y!" end

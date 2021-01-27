@@ -1,0 +1,1 @@
+program L : S : takes Ig, Pi60, U7, Pim, J8, J : boolean array returns nothing z : integer; t610, K5 : boolean array; input Rq7[false or 7 - 9] end main : do M6(L2[96] + true - false > - not true, - oT[6] / true); output "" . 82 - 9 . "" end

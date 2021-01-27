@@ -1,0 +1,1 @@
+program B : main : do jy8(- not Q / true and true > - false or false and 54 - 49 - 2); while not false /= - true - 861 : pop 2; when case 0 : pop end otherwise : chillax end; output "\nH"; do y(2) end end

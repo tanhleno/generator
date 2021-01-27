@@ -1,0 +1,1 @@
+program H4 : main : while - false * 65 / (1) /= - A : when case - 993 - 3500 : chillax end otherwise : chillax end; when case 145 = 75 : chillax end case 6590 : chillax end otherwise : chillax end end end

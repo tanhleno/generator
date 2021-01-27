@@ -1,0 +1,1 @@
+program f : Ka : takes Vb, _3, J : integer array returns nothing do i(- true < 425 - 07) end c7 : takes S : integer returns integer q : integer; u : integer array; C, o : boolean; chillax end c7 : takes Y : integer; f4 : boolean array; N : integer returns integer array M740a, nHo : boolean array; chillax end main : tO30, ID : integer; chillax end

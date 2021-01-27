@@ -1,0 +1,1 @@
+program x : s : takes KXc, o : boolean; wKS, G, f, L5B, r : boolean returns boolean array A, xF5, X, Dm70a, v7 : integer; while - (6) and 09 > 51 - 0 : do x0H(2, 0); let fA = 509 end; do p0(616 - 5 >= 09700, 06, 39600, 78); while 4740 : let l = 985; pop end end main : when case - 5530 > true / 46 and 3 : chillax end end

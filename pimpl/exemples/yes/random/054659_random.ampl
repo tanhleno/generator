@@ -1,0 +1,1 @@
+program Y4 : i : takes W : integer array; YZ, W : boolean array returns boolean pop end main : c4i : boolean array; let ZZqa[4 - true / (3) - 7] = (870); let e[true and(5) - (5)] = - false and 31 + 75 - 30; let x850a = - 82300 - 9420; let t = array - 894 - 77; while 3 = 106 : do X(9) end end

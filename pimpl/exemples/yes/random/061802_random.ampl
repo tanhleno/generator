@@ -1,0 +1,1 @@
+program jMF : T : takes f2 : integer returns boolean array do p(not 67 and 53); input hV; while 78 : chillax end end Ee : takes m9 : integer array; Q : integer array; Z, UK : integer array; V : integer array returns integer array chillax end main : while - true / 2 and true > - false or false or 696 - 7 : chillax end; input wM8aa; let ky[- (8) or 802] = 184 >= 043 end

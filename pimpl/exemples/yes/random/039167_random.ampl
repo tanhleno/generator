@@ -1,0 +1,1 @@
+program Ra : M : takes E : boolean array; yi, d : integer array; H : boolean array returns boolean chillax end main : when case k(941) rem 2 - not(32) / 3 - 17 : while 59700 : do a(78) end end otherwise : chillax end; pop 2 and 9 or 0; output "" . "WQ"; pop; output "3<aa" . 99 . "" end

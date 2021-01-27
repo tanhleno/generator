@@ -1,0 +1,1 @@
+program zn00a : t : takes Aa : boolean returns integer j : boolean array; chillax end qc20a : takes e3C : boolean array returns nothing E6, y6b, G, e : integer array; while - 161 - 47 : input L end end main : chillax end

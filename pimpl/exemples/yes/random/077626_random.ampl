@@ -1,0 +1,1 @@
+program r4 : main : y, P : integer array; A : boolean array; output m and V8S0 + true and 837 . - BF; do D(PP7 and false and 07 + (7) and 00 <= (0) + 29); when case mamaa : do W(5, 7); while 8 : chillax end; while 2 : chillax end; pop end case - 65 /= 22 : chillax end otherwise : output "\n"; when case 16 : chillax end; pop end end

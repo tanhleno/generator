@@ -1,0 +1,1 @@
+program m : main : m, x : integer array; Z, Mj, N, ZeW, ZG : integer; I8 : boolean; when case - not l and false or false - false and 13 + 54 - 23 > 0 : while 27000 : chillax end end otherwise : while 32 = 3 : while 91000 : chillax end; pop end; output 45 . ""; output "b"; pop end end

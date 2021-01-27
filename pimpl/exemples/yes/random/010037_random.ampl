@@ -1,0 +1,1 @@
+program F : t9c0a : takes e1, M, oh : boolean array; V6 : boolean; Gl : integer returns nothing while true + 9230 /= 7 - 8 : while 93 : chillax end end; let x = 0800 = 2 end main : do O2(- true, - true / 88); pop - A9 end

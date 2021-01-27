@@ -1,0 +1,1 @@
+program k0D0 : C35 : takes Ai, N : integer array; l, R_, W, k : boolean; g, r : integer; gB, H, WdW0a, V, H : integer; Yd, BPG, J, P : integer array returns boolean array chillax end main : chillax end

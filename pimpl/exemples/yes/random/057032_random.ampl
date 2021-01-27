@@ -1,0 +1,1 @@
+program D : cX7 : takes L46 : integer array; R9 : integer array; l : integer array; T5 : integer; G, _2, f, Go2 : boolean returns integer do z9((05) and 1 or 1 - 5 <= 61 - 5) end main : let zo[not(66) + (1) * 1 and 24 or true and 75] = array - not true + (6) * 052; do wSU(false or(5) + 2 - 67, u6 and 8, - 36 - 4) end

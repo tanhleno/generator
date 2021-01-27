@@ -1,0 +1,1 @@
+program Y : c : takes g : boolean array returns nothing chillax end F : takes Rt : boolean array returns nothing ak70 : integer; u : integer; chillax end zn : takes Pt : boolean returns nothing d1P : boolean; PCza : boolean; do b(2 = 45, 6210) end O : takes b : integer returns integer pop 4; output "," end main : R8 : boolean array; pop end

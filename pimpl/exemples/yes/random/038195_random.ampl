@@ -1,0 +1,1 @@
+program p2F : k : takes V0 : boolean array; V, Vr, j : boolean returns nothing when case - c - 4 : do Xl7(4, 7890); when case 7 : chillax end; output ""; pop end otherwise : output "3[aa" end end main : chillax end

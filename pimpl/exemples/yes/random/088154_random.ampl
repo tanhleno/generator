@@ -1,0 +1,1 @@
+program JR : main : input M; when case - 7 / not 6 and 6 - true >= (2) and 92 : chillax end case not 93 and 3 or 121 - 4 < - 05600 - 9 : chillax end case - 8 > 55 : input K8; output ""; pop end otherwise : while 8 : chillax end end end

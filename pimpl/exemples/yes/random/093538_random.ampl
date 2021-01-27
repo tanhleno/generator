@@ -1,0 +1,1 @@
+program KM : main : output ""; when case 26500 and true and 72 = 1 + 21 - 14 : do H(1 = 4, 3); pop 39900; pop end case - l and 1 : chillax end otherwise : chillax end; while - y and 62 - 21 : chillax end; input l[- 08200]; pop; output 303 . "" end

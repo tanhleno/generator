@@ -1,0 +1,1 @@
+program JB : Vw5 : takes w : boolean returns nothing O2 : boolean array; m, H, S, E : boolean array; chillax end C3j0a : takes V, d : integer returns nothing I, Z, Q, z4 : integer; chillax end main : let t = - (8) <= not 6 and 15 end

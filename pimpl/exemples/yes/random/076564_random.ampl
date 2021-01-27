@@ -1,0 +1,1 @@
+program Z : main : _w, B1Z0a : integer; j : integer array; input Tg8; when case - true and not 181 or ak and 14700 + 4 : chillax end case(060) and 1 - 3 - 2 /= 1 - 5 : chillax end case - 900 : input E; output ""; pop end otherwise : chillax end end

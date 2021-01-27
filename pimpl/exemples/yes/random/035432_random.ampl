@@ -1,0 +1,1 @@
+program R8 : ze : takes N : boolean; j0 : boolean; v, f : integer array; Z : boolean; J : boolean array returns nothing chillax end y8 : takes A2p : boolean returns integer pop 353; pop 226 end main : X : boolean array; bl, a : integer; chillax end

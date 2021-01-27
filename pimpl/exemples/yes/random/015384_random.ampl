@@ -1,0 +1,1 @@
+program I : gs : takes i, Y, X : integer array returns nothing I6C, h : integer; when case - false and 2 : do QZ(32100, 88200) end case 09 - 2070 : pop; while 0090 : chillax end; pop end; do V8W(- 18 /= 0, 463 = 01) end main : chillax end

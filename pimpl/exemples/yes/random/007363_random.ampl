@@ -1,0 +1,1 @@
+program RpN : n6 : takes X, CNCaa, O, b : integer array; N : integer returns nothing x1 : integer array; A : integer array; vT : boolean; chillax end P : takes r760 : integer returns integer chillax end main : while j(5410, 46) - false or true and 076 <= - not false and false : do x1(45300 /= 18, 0, 4); while 13 : do HbDa(263) end end; let s = array - xA(7) * true end

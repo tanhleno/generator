@@ -1,0 +1,1 @@
+program n : jK : takes O, s6, F : integer; G, VO9a : boolean; s : integer array returns nothing pop - 8 - 086 end main : I0l0, x : integer array; X18aa : integer array; do q6(XW(278) / true rem 922 <= - 677 * (63) and 07) end

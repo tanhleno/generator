@@ -1,0 +1,1 @@
+program c : V : takes Ik : integer array returns nothing v5 : boolean; na : boolean; input A; while 37 : pop end end i310a : takes E : boolean array; o6, nNs : integer array returns nothing while 686 : chillax end; input q end main : U, h, gJ, OH : boolean; chillax end

@@ -1,0 +1,1 @@
+program a8E0a : I : takes b : boolean array returns nothing x, _3 : boolean array; output "^" . "4"; let H = array - 5 - 2 end main : VOz0, ak : boolean; Bd30a, Z : boolean; output - true . false and 848; pop - R end

@@ -1,0 +1,1 @@
+program Q : UQ : takes I62, y : boolean returns nothing do R3(false + 49 - 2 < - 3) end g : takes y, U : integer array; Z : boolean array returns boolean array chillax end main : FRDa, t : boolean array; B, _ : integer; pop - false or 3 - 05 - 94 = (661) or 7; input _sJa[false or(28) and 81] end

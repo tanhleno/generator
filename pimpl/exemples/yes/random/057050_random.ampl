@@ -1,0 +1,1 @@
+program Zt : z : takes G : integer array; o : integer array; D : integer array returns nothing e : integer array; input n13[3000 + 61 - 33]; pop 2 = 78; output "]"; while 09 : pop end; do H(0); input x end main : r, a, V6F, u : integer array; D, xg, h : boolean; input g0; do l(023 and not 1 and 1550 - false /= - true and 1, true and 95, 32 > 4); do Yd5aa(6); pop 44 = 63 end

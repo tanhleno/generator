@@ -1,0 +1,1 @@
+program O : R : takes b : boolean array returns integer array MR, h5, t, _8 : integer array; input x[P]; while - 18 : let G = 3; input T; pop end; do z(1, 61200); let Y07aa = array 7; pop; when case 243 : chillax end end main : input m[Ek40a(7, 1)] end

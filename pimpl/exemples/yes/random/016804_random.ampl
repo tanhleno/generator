@@ -1,0 +1,1 @@
+program z100a : T5 : takes o, vX : boolean; O, U3Vaa, N83aa, p84 : boolean array returns integer V8 : boolean; pop 6 >= 173; pop 13 = 8 end main : do E0(false rem not not 2, - false - 9 and 1 + 039); do A56(- (099) and not 6 and 8 + (9) and 408) end

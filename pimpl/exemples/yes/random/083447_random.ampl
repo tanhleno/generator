@@ -1,0 +1,1 @@
+program KTr : main : c : integer; Y8, J4taa, v93 : integer array; Y3E, qY, R, f, m : integer array; A11 : integer array; gv : integer array; while E9(7360) + I9daa rem not 5 - false and 3 : chillax end; while true * true and 1 + true - 4 - 2 : chillax end; input C; input y end

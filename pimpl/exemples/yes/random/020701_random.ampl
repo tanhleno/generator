@@ -1,0 +1,1 @@
+program W27 : N0V : takes r, f : boolean array; B70 : integer returns integer while not 7670 - 70 > 133 - 18 : do a8(4) end; do M2Oa(- 46 - 17 /= 662) end U : takes in : integer array; e : boolean; n01 : integer array; d, Q3 : integer returns integer array chillax end main : chillax end

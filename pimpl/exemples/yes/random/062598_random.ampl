@@ -1,0 +1,1 @@
+program e3 : Q : takes WTi : integer returns boolean input J end main : do a96a(true + _1 * (4) and 7); while - y2(1) : while 4 : pop end end; pop 93300 - 95400 > 2; input A[- 5]; output 706 . "8"; output 86 . "?9" end

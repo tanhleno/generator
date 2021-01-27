@@ -1,0 +1,1 @@
+program m : bB30a : takes m : integer array; zTj, Y : boolean array; i : integer array; k, J : boolean returns nothing chillax end D79 : takes LI : integer array; c : integer array returns boolean c720a, B : integer; jN2, k0 : integer array; chillax end main : B, g58, k, Rp : integer; fu2, K27, B : boolean; do K(- false or C8[4] / not 03 and 6 + false, 3 * true and 487) end

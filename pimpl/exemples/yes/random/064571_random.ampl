@@ -1,0 +1,1 @@
+program MF : y5u : takes S : integer returns nothing m9, s : integer; pop end main : when case - (0) rem(701) - false >= true and(5) and 6300 or false : chillax end otherwise : chillax end; do l6(- (5450) rem false and 7 + false or 78 >= K + 4200); when case - not 0370 and 6 - 865 : chillax end otherwise : chillax end; do F(0 - 7) end

@@ -1,0 +1,1 @@
+program l : J : takes k8haa, S, U2, d : integer; ZZ, B, ko, b5, R, V, F : integer array returns boolean while - 8 and 5 : chillax end end main : h, JE : integer array; do P(- false > true - J); when case - 9700 and(4) and 1 - (61) or 6 : pop 6; while 0 : chillax end; while 2920 : chillax end end end

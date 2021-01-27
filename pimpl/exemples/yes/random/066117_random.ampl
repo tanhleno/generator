@@ -1,0 +1,1 @@
+program I : main : do _(- false >= s0[49] or W4 and 064, - false / not 9140 and 0 < - (3) and 0, - false and 7 >= - 72, 7 - 50 > 7); while rTBa(14900) and d : chillax end; do D(- 7 - 5 - 3, - 7 - 429 > 83, 2, 70); let e[54] = array - 9; input f5 end

@@ -1,0 +1,1 @@
+program Bri : y : takes tp4 : boolean returns nothing while - false and 91 or 37 : chillax end end main : C : boolean; G, du_0, u : boolean array; O, b57aa : integer; Lc1 : integer; pJn, mE, W : integer array; xn10a, F9taa : boolean; while 2 - false rem not 28 and 70 or false and 9 >= - (7) - (069) - 826 - 8 : while 63 /= 008 : chillax end end end

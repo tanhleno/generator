@@ -1,0 +1,1 @@
+program w1 : main : N : integer; w3 : integer; l : boolean; Y : boolean array; D : boolean array; while false - false / 43 - not 6 and 3 : while - 2 : output ":3aa"; do p(947); pop end; while 3 = 8 : input p; pop end; let g1 = 81; when case 6 : chillax end end end

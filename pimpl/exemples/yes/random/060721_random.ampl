@@ -1,0 +1,1 @@
+program d8Ia : Y : takes G : integer array returns nothing j : boolean; chillax end main : e : boolean array; f : integer; x : boolean array; while not(0) : chillax end; do m((3) rem RQ60a or 3 and 748); pop 1 - 50 < 9530 end

@@ -1,0 +1,1 @@
+program J : a : takes h, u, a, D4, X, R : integer array; n, u6T, O : boolean returns nothing t7, S0, G : integer array; N8f0a, f : boolean; while 6 and 61 <= 08900 - 390 : chillax end end w93aa : takes O, d, s6 : integer array; _32aa, N : integer array returns nothing Q, w : integer; pop 8 end main : chillax end

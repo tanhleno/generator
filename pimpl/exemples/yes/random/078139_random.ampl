@@ -1,0 +1,1 @@
+program NP80 : main : G, N : integer array; while - (0 = 43) * false rem 95 : chillax end; do W9((8) and true and 0 = - 78 and 8, - ER7, 0, 45200 = 53, 22000, 4); while f and 73 < 2 : chillax end; pop end

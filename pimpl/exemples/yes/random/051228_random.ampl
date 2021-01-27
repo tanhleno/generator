@@ -1,0 +1,1 @@
+program d : Kd : takes f : integer; s, I : integer returns integer b : integer; output "\"" . ""; output ""; when case 2 = 38 : input W4u0 end otherwise : pop end end main : q : boolean; input d9[false rem true + rI(2)]; input qJ[- (5) and false + true + 77 - 64] end

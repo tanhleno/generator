@@ -1,0 +1,1 @@
+program h : J780a : takes J, v3g, E, Axl0, Z : integer; S : integer array returns integer array ws, _ : boolean array; R78a : integer; chillax end W : takes t0 : integer returns integer chillax end main : pop - m8[9] or false and 1 < (1) and 8; while k * (6) : while 4 : pop end end end

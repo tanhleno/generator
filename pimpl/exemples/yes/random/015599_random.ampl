@@ -1,0 +1,1 @@
+program g : M : takes G, OVw, W8 : integer array returns nothing pop 175 - 6 > 1; while - 14900 - 6 : while 7 : chillax end end; do B4U(865 = 5); do gc(3, 98) end D5 : takes B : integer returns nothing pop end main : chillax end

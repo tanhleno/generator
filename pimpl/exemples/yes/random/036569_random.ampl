@@ -1,0 +1,1 @@
+program c4Wa : Q1a : takes sB : boolean; o : integer; S6 : integer; B7M0a, m700, OR : boolean returns integer array chillax end q : takes n, n, O37aa : boolean returns nothing chillax end P : takes G5za, Mw, k3, o : integer returns nothing chillax end main : chillax end

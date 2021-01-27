@@ -1,0 +1,1 @@
+program Pss : main : Dw : integer array; B : boolean; pop; when case not true or not 98 and 18 /= - (5) - 8760 : input im end case(01) - 31 - 64 : chillax end; pop; let C080a[- 8 - 9] = 02 = 8; input f[61] end

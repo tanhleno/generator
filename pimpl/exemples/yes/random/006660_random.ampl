@@ -1,0 +1,1 @@
+program wu : J : takes J00, G, g, vr9 : integer; fUN : boolean returns nothing chillax end O : takes D : integer; H : boolean; xyw0 : integer array; DC : integer array returns integer I : integer array; k, N, M : boolean; n : boolean; chillax end hE3 : takes Li9aa : integer returns nothing chillax end main : do V3(- not 5 rem false rem false and 20900) end

@@ -1,0 +1,1 @@
+program Y02a : C99 : takes O, I1 : boolean array returns nothing let O = 9 - 28 = 9 end main : while true * 30700 > - false rem false : chillax end; do J(- false + not 10 and 2 >= (5) - 9, - 2 and 7 <= 9); output ""; pop; while 9 = 29 : while 9 : chillax end; pop end end

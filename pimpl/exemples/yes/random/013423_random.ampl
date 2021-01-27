@@ -1,0 +1,1 @@
+program Iu7 : O0Wa : takes M, rV, Zi : integer; WMLa : integer; v : integer returns nothing output 633 - 8 <= 7 end m : takes J : integer returns nothing chillax end main : y : integer array; while not true : output "NH" . "Y"; do l7fa(12) end end

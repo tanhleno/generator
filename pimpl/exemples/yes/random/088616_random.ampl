@@ -1,0 +1,1 @@
+program A890 : main : input b[- r and(7) / true and 8 - (70) / C or(7) - 03 - 566]; when case - false : input b1Kaa[396]; do N2m(84700, 80) end case - true >= 7 : pop end; while - false and 00 = - 717 - 16 : chillax end end

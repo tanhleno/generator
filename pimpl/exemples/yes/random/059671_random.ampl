@@ -1,0 +1,1 @@
+program i8D : tL5a : takes z5 : integer array returns nothing chillax end e : takes RqQ, j, lu3 : boolean array returns nothing chillax end main : do O(- false + (47) rem not 2 >= - (0) rem uf2 and 08200); do zV0(- true / (6) or 7910 and 0 - 4750, (9) >= - 1610 - 5); pop end

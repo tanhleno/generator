@@ -1,0 +1,1 @@
+program _ : jt : takes yt2 : boolean returns integer array e2 : boolean array; f : integer array; while - not 5 + 27 : output 3 end; do C450a(- 5 > 36, 37 = 7) end n4Qaa : takes j1, v : boolean; kD4, GTR, pT : boolean array; I2 : boolean array returns nothing h, r, l : boolean array; output ""; let V[0] = array 722 end main : chillax end

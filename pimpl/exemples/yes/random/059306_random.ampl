@@ -1,0 +1,1 @@
+program v760a : V8M : takes qj1aa : integer array returns integer V, TMl0 : boolean array; chillax end B : takes b, X2, E, O9z0, G40aa, QB : boolean returns boolean chillax end Y5 : takes FK, v, llX, F, L, D28 : integer array returns boolean chillax end main : chillax end

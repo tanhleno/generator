@@ -1,0 +1,1 @@
+program V : H48 : takes B : integer returns boolean array chillax end Jr : takes mV10a : boolean array; x05aa : integer; g7 : integer; I : boolean; I : boolean returns nothing chillax end main : while - not false - true and not 114 : input G76 end; input u; do k(- false, 4, 8); pop 63000; pop; while 59 : chillax end end

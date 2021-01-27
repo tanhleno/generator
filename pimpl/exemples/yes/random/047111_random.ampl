@@ -1,0 +1,1 @@
+program m8Taa : x4 : takes o0 : boolean returns integer K, j : integer array; chillax end M : takes B, J4 : integer; y : boolean array; J7s, g : integer returns boolean array output "" . ">2"; while 2 : chillax end; do n(4) end main : it, R : boolean array; p, B1 : integer; chillax end

@@ -1,0 +1,1 @@
+program r : main : s : integer array; input q[- not 09 rem true rem(7) and 592 + (7) + (488) or 3]; when case - 19400 + (87) = (852) : input b1b0[977]; let Rs = array 58; when case 53 : chillax end; when case 6 : chillax end end otherwise : do S(0); let yH = 9; while 53900 : chillax end end; let G[0] = array 03 and 91 - 978; output ""; do L(0, 98); output "" end

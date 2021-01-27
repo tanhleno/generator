@@ -1,0 +1,1 @@
+program D : V8 : takes x8P0 : integer returns nothing Zz, I, o : boolean; chillax end u : takes K, m9, R1 : boolean returns integer K, tp : boolean; output 828 end main : while - false / (40) and false >= - false - 9 and 8 + 9 - 6 : let z = array - 87400 - 8; while 61 : chillax end end; let E = - h3N and 2 <= - 3880 - 8 end

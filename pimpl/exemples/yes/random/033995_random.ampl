@@ -1,0 +1,1 @@
+program r : I : takes HTxaa : boolean; v, O, P3x0 : integer; nZ5, W : boolean array; RT3, YI, M, c9, b4 : integer; m0taa, q890 : boolean array; S, u, Pe : boolean returns nothing E : boolean; do L(- u and 0 > 7 - 6, - 00 = 3, 70 = 9, 4) end main : X : integer; W : boolean array; chillax end

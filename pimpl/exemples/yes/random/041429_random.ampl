@@ -1,0 +1,1 @@
+program z6 : ahaa : takes Q : boolean array; UMpa : integer returns nothing while W and 3 : output "" . "\\" end; do R03a(- 7); pop end main : do dKN(- x * 2 / x and 9 <= true and 6540 - 4 and 2, not not 782 * Q and 449 + (5) and 586 or 7 /= - true or 57, - H < 51 - 4); let k = array - false end

@@ -1,0 +1,1 @@
+program P32aa : P : takes z9m0, an : boolean array; L6Eaa, b : integer array returns boolean C_M0a, x82, b1 : boolean array; v, t, L : integer array; while false and 610 or 7 : when case 79 : pop end case 4 : chillax end end end main : F, fSbaa : integer array; QE30a : integer; chillax end

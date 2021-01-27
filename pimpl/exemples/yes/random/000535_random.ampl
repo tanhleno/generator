@@ -1,0 +1,1 @@
+program g : x0 : takes X, aK, qD, Uf, qfJ, W, My, AR4 : integer returns nothing PbC : integer array; R, i, my, b : boolean array; c2h : integer; ek9 : boolean; N : boolean; chillax end main : T7n0, t4U, C910a, h, Y8 : boolean array; do K(- true * E(6)) end

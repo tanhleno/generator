@@ -1,0 +1,1 @@
+program AD : PHr : takes bL : boolean array; I7 : integer; P1b, f : boolean returns boolean input G6; do Nl8(766 /= 6, 47400 = 9, 64000, 58); input CV end X : takes k2 : integer array returns nothing Hs : boolean; Nh, a, c : boolean; G : boolean; e : boolean; Y : boolean; chillax end main : chillax end

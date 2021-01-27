@@ -1,0 +1,1 @@
+program q : y : takes _1c : boolean array returns nothing C : integer; pop; output "7]aa" . 672 . "" . "" end Q090a : takes OM : boolean returns nothing chillax end main : M : integer; pop; pop; when case lJ = - 90 : do zN(4) end end

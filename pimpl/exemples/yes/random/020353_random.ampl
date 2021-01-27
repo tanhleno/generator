@@ -1,0 +1,1 @@
+program T280a : zu : takes B, c5 : boolean array; Y : integer; qi : integer array; c : integer returns boolean array while false - 904 : when case 73200 : pop end case 6 : chillax end otherwise : chillax end; output "^%a" end end main : chillax end

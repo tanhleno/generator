@@ -1,0 +1,1 @@
+program V : e : takes A : boolean returns boolean array c0 : boolean; b : boolean; G8, P : boolean array; s : boolean; pop 22 < 1470; input Wt70a[1] end F : takes W2, s : integer array; qf : boolean; r : integer; _b : boolean array returns nothing chillax end main : x5, C12aa : boolean; chillax end

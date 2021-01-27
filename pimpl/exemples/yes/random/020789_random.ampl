@@ -1,0 +1,1 @@
+program Iws : qJx : takes Y8k, l4 : boolean array returns boolean array chillax end M : takes Q : boolean array; o : boolean array returns integer array do R(- 7 - 09 <= 9, 37); output 88300 . "0;\"" . ""; do _0J(8); while 65 : chillax end; output "" end d : takes H : boolean array returns nothing when case 8 = 860 : output ""; pop end otherwise : pop end end main : chillax end

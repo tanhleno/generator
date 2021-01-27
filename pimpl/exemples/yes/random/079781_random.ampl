@@ -1,0 +1,1 @@
+program X : main : v : boolean; t : integer array; let NG[false / not p - true / (8) and 3] = false >= - 1 and 47 or 1; let g9m[false - true and 0 + 62] = array - 5 * false and 406 or g6 and 70; input b; when case 126 - 9 > 0 : chillax end otherwise : chillax end end

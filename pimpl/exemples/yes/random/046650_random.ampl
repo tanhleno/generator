@@ -1,0 +1,1 @@
+program xI : Z : takes UNWaa : boolean returns integer array z : boolean; H68, n, R : boolean; f3 : integer; v : boolean; chillax end u3M : takes q, l : integer; x : boolean; ol0, k2, E, D : boolean array returns nothing q54 : boolean; chillax end main : when case - 71 + r8 or false or 66 - 9 : output ""; while 0260 : chillax end; pop end otherwise : output "" . "7\"" end end

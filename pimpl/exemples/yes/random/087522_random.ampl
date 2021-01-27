@@ -1,0 +1,1 @@
+program S : main : OU : integer array; when case - not not(1) / true or false - R and 2570 /= - not(6) and(3) + (9710) and 8 : let sqO0a[- 717 - 819] = array 1340 end; let _9 = - L4 and 0 + 855 - 3 <= - 082; input IS1[- not 4 and 8530] end

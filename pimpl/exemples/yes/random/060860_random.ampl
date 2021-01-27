@@ -1,0 +1,1 @@
+program hVZaa : P1 : takes j : integer array returns nothing GC : boolean array; chillax end main : while - (1450) - false /= - (51) and false and 45000 : when case 058 : output ""; let H = 2 end case 4 = 7 : chillax end case 0940 : chillax end case 1 : chillax end otherwise : chillax end; while 5 = 73 : input H; pop end end end

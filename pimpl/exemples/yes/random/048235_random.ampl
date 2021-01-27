@@ -1,0 +1,1 @@
+program M : wn6 : takes S : boolean returns nothing E4f, l : integer; I2 : boolean array; chillax end _1 : takes VIN : integer returns boolean input w[- 4] end I2 : takes J : integer returns nothing v : integer; s : boolean; v2Haa : boolean; YQ90 : boolean; chillax end main : input m2Q[(73)] end

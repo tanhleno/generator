@@ -1,0 +1,1 @@
+program Q : main : while false rem u[9] and 20800 : pop 5; output "" . "" . "" end; output "="; when case(42) + 72 = - 9 - 1 : do nS(9) end case - 39 : chillax end case 85 : chillax end otherwise : chillax end end

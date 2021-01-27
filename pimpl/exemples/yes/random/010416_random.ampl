@@ -1,0 +1,1 @@
+program T : S : takes w, CA, k : boolean array; E10a : integer array returns nothing NGq0a : boolean array; do Fn_0(- 5 and 5 >= 5480, 1, 59) end J : takes eX80, Q, W_, p : integer returns nothing V, w : boolean array; AA, Cu, j : integer array; chillax end main : while not(2) - not 05 / not 05 >= - false * true or 99 : chillax end end

@@ -1,0 +1,1 @@
+program tp9 : C : takes iB9 : integer array; Pr0aa, o : integer array; k : integer array returns nothing lx9a, q, Xx, v99 : boolean array; K, i : integer array; X, T, qg : boolean; input c9 end main : T5, F89a : integer; e : boolean; let W = array - false * not(76) rem 579 end

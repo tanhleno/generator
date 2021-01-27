@@ -1,0 +1,1 @@
+program vKIa : ZW8aa : takes CQ, D, w : boolean array; JT, t9p0a : boolean array; d99 : boolean array; Y, V, r, M, h75a : boolean array; x, e : boolean array returns integer input t0; pop 351 = 3 end main : E, kY, Xr, P, K : boolean array; pop - false * true + v and 9 - 1 - 894 end

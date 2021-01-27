@@ -1,0 +1,1 @@
+program S : JuH : takes hP9a, T59, K, IV, p : boolean array; S5, B, q29a, I7, d : boolean returns nothing while - false or 70 - 2 <= 4 : pop 5 end end main : wX1 : boolean array; _6 : boolean; chillax end

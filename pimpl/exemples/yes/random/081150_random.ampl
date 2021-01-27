@@ -1,0 +1,1 @@
+program Z3waa : main : d8 : boolean array; g9, cK, f6D0a : integer array; while - Vj(27500, 0) - false or not 8 and 7 + 3 - 69 /= not(8) or false and 3 or 6 - 271 : chillax end; output ""; output "" end

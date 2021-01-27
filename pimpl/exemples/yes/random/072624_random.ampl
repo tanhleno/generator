@@ -1,0 +1,1 @@
+program p : main : h, q, J1 : integer array; do S(l7J[9] < S(97) and 889 and 26); while - false and not 7 and 40 = 18 - 55700 : chillax end; while - i : chillax end; while 6 /= 9 : input Q34aa end; do y9Iaa(5 = 9); pop 7 end

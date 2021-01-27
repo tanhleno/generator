@@ -1,0 +1,1 @@
+program Q : main : while false < - (7) : do g(- 74300 - 09 > 3870, 65, 358, 6) end; when case not false and 205 + false >= - not 4 : input r87aa end case - (14) and 97 : input qJ5[592] end case - 73800 /= 7 : chillax end; while not 4 and 6 : chillax end end

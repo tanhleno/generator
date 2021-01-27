@@ -1,0 +1,1 @@
+program A0 : X2 : takes X : boolean array; B1, l, Te : boolean; lw0aa : boolean; ST60a, Qe : boolean array returns integer do z(- (4) and 419 + 2 > - 0 - 356, - 29 = 24) end main : SPW0, gW1 : boolean array; P : boolean array; chillax end

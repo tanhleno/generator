@@ -1,0 +1,1 @@
+program B : main : a, ly : boolean array; while(3510) rem t[25] and s and 3 - 58 + (42800) and 0 < - false and true and 0 : chillax end; when case Q[494] - (220) + 21 - 32 < J5 and 43200 : chillax end case - (7) >= 54 - 74 : chillax end case 2640 >= 57 : chillax end case 22 : chillax end case 2 : chillax end end

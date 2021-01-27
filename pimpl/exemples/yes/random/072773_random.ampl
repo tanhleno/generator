@@ -1,0 +1,1 @@
+program e_Ra : main : d, d, y5 : integer array; w9h, b_ : boolean array; do _(- false rem 82); do X(true / (4) and 346 or 4 and 76 or 62 - 3, - 9 and 3 <= - 4); output "" . ""; do K0(5 > 0, 7670 = 468, 2, 72) end

@@ -1,0 +1,1 @@
+program Nr6aa : main : pop 4; when case - (71) and 4 and 6 /= - not 2 : when case 2 = 6 : let g = 5 end case 5 : chillax end otherwise : chillax end; input q[7]; do l(2) end otherwise : chillax end; do xo(A - 796 < 0); pop 47 end

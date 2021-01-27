@@ -1,0 +1,1 @@
+program g2k0a : _ : takes fs6a, u, V, VU, Z, U44aa, N, BO : boolean array returns nothing chillax end pa : takes t06aa : integer array; G : boolean; n9, K, h : integer returns boolean input p_; do M(7 = 02); let ri = 14 end main : pT9, E3F : boolean; C2W0 : boolean array; Hm8, W : integer; chillax end

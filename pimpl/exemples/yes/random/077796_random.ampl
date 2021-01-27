@@ -1,0 +1,1 @@
+program c : main : f, X8 : integer array; b : integer array; o : integer array; Z : boolean; D, gO5aa : boolean; do Z2(l(4, 53) <= - false and 1 and 60); input QZ[false]; when case(5) < - 786 - 1 : chillax end end

@@ -1,0 +1,1 @@
+program P : L2 : takes V0, P, _ : boolean; x : integer returns integer array w : integer array; f_L : boolean; let B[- true and 39 - 10] = 3 - 6 <= 4260 end main : when case - false / not false >= not 9 rem not 7 and 7 or not 2 and 0 or 9 - 76 : chillax end case false + not 4 and 031 - 8 > - not 4 or 84000 - 53 : chillax end case yq and 3 - 5 : chillax end end

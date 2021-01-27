@@ -1,0 +1,1 @@
+program w : l : takes u, N, h, F, L, K9 : integer returns boolean HY, oc : boolean array; chillax end main : do N(not not false and(25), false and 21800 and 4 - (0590) and 663); while 4 * true + not 56 and 681 /= false - 28 : while 521 = 13 : output "|O"; pop end end; while 9 and 7 : chillax end end

@@ -1,0 +1,1 @@
+program n1 : Z : takes A : boolean; o, aWL0a : boolean returns boolean while - not 06 and 7 + 986 /= - 6 : chillax end end main : input C[Fg0[7] rem false and(63) + Z[4] and not 1 and 14]; do G(true / not 16 and 77 + false > - (91), - 757 and 898); do OAOaa(true and 6100 >= - 6 - 7, 6 - 224 /= 170, 5, 4, 2); pop end

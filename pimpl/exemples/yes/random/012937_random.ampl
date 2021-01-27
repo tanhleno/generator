@@ -1,0 +1,1 @@
+program qr4 : Y82a : takes j, Y8, X84aa : integer; Q, W : integer; ZN40a, A6paa, Xg : integer array; _6, Wo, w, Dv0 : boolean returns nothing m : integer array; input p end main : when case true + not U5 = 7 * (6630) and 13 + k4M0a : while - 20 - 9 : input c end end end

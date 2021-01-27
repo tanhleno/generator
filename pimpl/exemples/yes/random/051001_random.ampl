@@ -1,0 +1,1 @@
+program d : a : takes w : integer; P640, m : integer array; R, aH20 : integer array returns nothing Q, wh : boolean array; pop; when case - 0 - 78 : chillax end; output "K" . 0 end main : e6, W : integer; m : boolean array; chillax end

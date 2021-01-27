@@ -1,0 +1,1 @@
+program Q : N : takes q, i : boolean array returns integer CH, m, Eg : integer array; let v2 = array - not 23 + 8 - 9; when case - 09 - 37 /= 22 : do u7Y0a(7); when case 9 : chillax end end case 3000 : while 3 : chillax end end otherwise : when case 16100 : chillax end; pop end; output "_" end main : chillax end

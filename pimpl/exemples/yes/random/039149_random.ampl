@@ -1,0 +1,1 @@
+program T7 : A9 : takes _0 : boolean array; k, D : integer array; P : boolean; J, x, i : integer array; b : boolean array returns boolean A6 : integer; chillax end main : e4 : integer; __, Z : integer; input w5V end

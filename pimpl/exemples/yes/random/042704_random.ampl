@@ -1,0 +1,1 @@
+program Tf1 : f7l : takes S : boolean array returns integer array j8 : boolean array; m2n0a, H : boolean array; input v0n; let MG[66] = array 7 end main : Y, dr : boolean array; y, Tm2a : integer; Z : integer; chillax end

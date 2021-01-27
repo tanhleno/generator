@@ -1,0 +1,1 @@
+program f : M : takes CdOa, g1i : integer array returns nothing I4 : integer; do o(4190 = - 1 - 6) end main : yNF : integer; while - true : output "" . 2720; let T8faa = array 156 end; when case - not CV rem(13) - (9) and 5720 or 31 /= false : chillax end case(7) and 97 : do Q_1aa(3) end otherwise : chillax end; when case true >= 609 : chillax end; let X[- 7] = 4 end

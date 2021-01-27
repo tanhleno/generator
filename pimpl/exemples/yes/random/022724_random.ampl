@@ -1,0 +1,1 @@
+program t : q : takes n9, N3w : boolean array returns nothing output ""; let D = array 7; input f[8] end main : when case true / false * false and 2 : chillax end case - 9390 / 2610 or 64 and 4 - 7 - 6080 : chillax end end

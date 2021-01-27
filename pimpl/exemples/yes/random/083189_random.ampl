@@ -1,0 +1,1 @@
+program fS0 : main : t6 : integer; Q9, no, BEL, I, atw : integer array; r60aa : integer; bt : integer array; W6, K, p4 : boolean; do f(true - true rem(360) and 8 - false and 51 < - false or 2, - true and lsQ and 0 + 963 and 21700 < - (95) and 5 + 59, false <= 9450 - 62); pop - false end

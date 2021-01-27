@@ -1,0 +1,1 @@
+program t1yaa : H : takes eZ6 : integer array; wB60, I7 : integer returns integer array while not 12 : when case 81 : pop end otherwise : chillax end; when case 42 : chillax end; let n5 = 771; pop end; pop 52 end main : do m(false <= - S800a + H and 9 or 7 - 897); do UV((2) and false and 14 + SS70 + 72 - 2); let A7 = 3 - 1 end

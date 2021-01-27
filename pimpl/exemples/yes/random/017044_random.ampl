@@ -1,0 +1,1 @@
+program MM20 : S_ : takes x, o : boolean; S, lEg0a, X76 : integer; H : integer array; g, h24, R, w5 : boolean array; j, N63aa, n : integer array; g6, y : integer returns integer array chillax end main : a1, o, FU, tkg, z, a : integer; let M[- true and false - false or not 4020 or 7260 - 7] = array not not true; output ""; do K(- true and 938 - 8 - 4 >= - 4 - 6) end

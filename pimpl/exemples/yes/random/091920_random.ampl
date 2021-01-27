@@ -1,0 +1,1 @@
+program vo6 : main : output - (0) and not 5 - bd; when case - C or not 3 and 0 + 2 < - w + 18 - 33 : chillax end case false and 1 - 64 - 97 = 2 - 180 : when case 5 : chillax end case 46 : chillax end end otherwise : chillax end end

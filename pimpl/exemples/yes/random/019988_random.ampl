@@ -1,0 +1,1 @@
+program p : P : takes R, N : boolean array; C9 : boolean array returns integer array chillax end j0 : takes c : integer array; N, uF2, m, Y7 : boolean; E9baa : integer array returns integer array while - 6 - 50 = 33800 : let I = 9; do ZG60a(586); pop end; input R[0] end main : u : integer; chillax end

@@ -1,0 +1,1 @@
+program U97 : u : takes h09a : integer returns nothing when case - 5 = 508 - 222 : let aa[0] = 1; input O; input Ub end otherwise : chillax end end main : let H[8] = array false - true / C750; do N(not not 1 * (198) and 7 - not 91 - 28); when case not 4 < 314 - 479 : chillax end case 3 : chillax end otherwise : chillax end; pop; output 5 end

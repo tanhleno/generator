@@ -1,0 +1,1 @@
+program K4daa : v4 : takes Oc : boolean array; y4Faa : integer array returns nothing chillax end B1 : takes s_ : integer array; o : boolean array returns nothing q, RZo : boolean; when case - 3 - 2 < 500 : chillax end case 8 : when case 006 : chillax end; pop end otherwise : chillax end end main : Bu70, dY, IuP : integer array; p : boolean; chillax end

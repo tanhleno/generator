@@ -1,0 +1,1 @@
+program z1 : r62 : takes ejm0, T72 : integer array; zk5, B5gaa : boolean array; s_ : integer array returns nothing chillax end main : p2, DU10a, r, K, tY30a : boolean array; do P(- not(0) = - not false); input yRB[- false rem true - 1 and 498 - 4 - 02] end

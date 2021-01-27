@@ -1,0 +1,1 @@
+program e : w : takes J : boolean array; m, w070a, V8, sO5, n5n0 : boolean; U2Ca, U : integer array; Xz, P, g : integer; G, l : boolean; YD, KGr, u0 : integer; ogD : boolean returns boolean array let w[- 2 or 9] = array - true and 3 or 81 - 826; let VwF = 29500 end main : M7 : boolean; chillax end

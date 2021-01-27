@@ -1,0 +1,1 @@
+program Y : main : qy, i, X0g : integer; while not(73700) > true rem C + not 3 : do y32(- 40 - 5 >= 118) end; when case 4 = R : chillax end case - not 29 and 5 + 51 : chillax end otherwise : do vx(3) end; do x4(63); input Yh1[0 - 7]; let x[413] = 712 end

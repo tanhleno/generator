@@ -1,0 +1,1 @@
+program F : Wf : takes uK8, g, G : boolean array returns boolean array IS : boolean array; K, C9 : integer array; V : boolean; do S(- 3 and 7 - 9 - 51 <= - 84 - 9) end _ : takes m25 : boolean array returns boolean chillax end main : chillax end

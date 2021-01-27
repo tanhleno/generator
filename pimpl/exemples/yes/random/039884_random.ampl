@@ -1,0 +1,1 @@
+program PA : B3 : takes q : boolean array; c1Ua : boolean array; svia : boolean array returns boolean array Y630a, i, i35, R : boolean array; chillax end b : takes S : boolean returns integer array input V; let m[49] = array 75 end main : u : integer array; output "" . _ and 00 + 4 - 9; do N_((8) * 56 > false and 62 + 910, not 171 and 6 - 79 /= 50) end

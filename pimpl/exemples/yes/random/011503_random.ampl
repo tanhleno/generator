@@ -1,0 +1,1 @@
+program b : kH : takes I46, X, UD : boolean array returns nothing when case - r and 39500 : do P(2, 674) end case 5 >= 1 : let G = 5; while 54 : chillax end end otherwise : let GO4 = 6; input R end end main : cV, k : boolean; w : integer array; T : integer array; X : boolean array; GZ3 : integer; Zau, P9 : boolean; input X4 end

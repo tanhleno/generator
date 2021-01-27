@@ -1,0 +1,1 @@
+program J : main : G, e9, tYd : integer array; PA, vj0aa, BQ, OU : integer; i9U0a, Z88 : integer array; _v, w2 : integer; output "s" . - true + 1 > - 6 - 20; pop; do z(false and 94, 96 /= 243); when case - 7 = 48 : do b1(0); pop end case 3 = 1 : chillax end; let eu = 84 end

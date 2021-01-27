@@ -1,0 +1,1 @@
+program o : T : takes H8x, Mm, N, R3 : boolean array; F2, e, j : boolean; o380a : integer array returns boolean array d : integer array; let q = array - true and 43 or 83 - 7; input O[- 75 - 9] end h7 : takes ko, y : boolean array; aYO0, l32, M66 : boolean returns integer do n6(- 1 <= 52) end main : O86a, Ui4, fc : integer array; chillax end

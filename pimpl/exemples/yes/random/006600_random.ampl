@@ -1,0 +1,1 @@
+program e : f5 : takes d7, u, cqu, E33 : integer; Z : boolean array; mc : integer array; v : boolean returns nothing L2, y, P24 : boolean array; X, j5 : integer; chillax end main : G : integer array; qV, AT : boolean; a : boolean; when case 4 : when case 1 : chillax end; pop 85 end otherwise : chillax end; output "" end

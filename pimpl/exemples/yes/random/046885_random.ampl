@@ -1,0 +1,1 @@
+program on : e : takes cPr0a : boolean returns integer chillax end a : takes A, E, g, oP, g : integer returns boolean array chillax end P8I : takes q4 : integer array; j, b, N : boolean returns nothing ZK, J : integer; nh9a : boolean; chillax end f420a : takes m, j : integer array; v4 : boolean array returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program m0 : main : _i8 : integer; DS5 : integer array; when case - YS0aa(2, 30) / true : chillax end otherwise : when case 0 : when case 1 : chillax end end; when case 37 : chillax end case 67 : chillax end otherwise : chillax end end end

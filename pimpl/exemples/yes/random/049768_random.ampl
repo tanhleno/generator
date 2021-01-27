@@ -1,0 +1,1 @@
+program r6O : i : takes w : integer; M, z, Q60 : boolean; T, SFaa : boolean array; s : integer; B : boolean; bX, c : integer returns nothing D1da, A : integer; when case 997 or 7 - 45 >= - 93 - 68 : chillax end; input J0[- 8 - 0] end main : leY : boolean array; chillax end

@@ -1,0 +1,1 @@
+program H : Y7 : takes A : integer array; Gx : integer returns integer array chillax end main : P7 : integer; while false + false : chillax end; pop - not 018 and 70 /= 7; do g(true and 97900 + 0 - 61 >= 6 - 2, 4900 - 6); input kfR[- 7 - 157] end

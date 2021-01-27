@@ -1,0 +1,1 @@
+program i : Y : takes y : boolean returns boolean array when case I : input GmO; while 5150 : chillax end; while 9220 : chillax end; pop end; let g[444] = 3 = 3 end Zh : takes O : integer array returns nothing when case 7400 : chillax end case 62 = 96 : chillax end otherwise : pop end end s : takes OB : integer array returns integer output 993 end main : chillax end

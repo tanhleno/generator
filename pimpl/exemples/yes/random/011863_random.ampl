@@ -1,0 +1,1 @@
+program b : LU : takes P, M, Td2 : boolean returns integer array let LP2aa = 969 end main : c5, Hv : integer; J76 : boolean; output "" . "" . - 2 . "" . "6" . "\"F"; output - 325 and 80 + 8 >= 74 . 45 . 44 . "" . "4," end

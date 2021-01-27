@@ -1,0 +1,1 @@
+program EY10a : b6j0a : takes K, v7, i5, cY60a, N4, T0 : boolean array; D3Ka : integer; Y, EJ, t9 : integer array returns boolean array s87 : boolean; do j3(- J9); when case - 74900 : chillax end case 7 = 50 : chillax end case 69 : chillax end; pop; when case 1 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program U90aa : V : takes G, N : boolean returns boolean array r24, q, yA80 : integer; let h90[- false or 290] = - 86 /= 1 end main : K7 : integer; r : integer; J : boolean array; when case not p0naa rem true and V and 09 + not R : pop end otherwise : chillax end; do V7(not not 13, - G and 26900 /= - 3, - 5, 57000, 3) end

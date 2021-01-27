@@ -1,0 +1,1 @@
+program UQ : t9 : takes j6, x6K, R6z : integer returns integer C52 : boolean; input Z; do _xT(208 - 1 > 89, 96 = 73) end main : i100a, etY, h : integer; while - O(0) + (92) = - (40200) - 9150 and 28400 : when case - 8 : chillax end case 5 : while 85300 : chillax end; pop end otherwise : chillax end; output 5040; input C[7]; while 0 : chillax end; let H = 1 end; input b8Zaa end

@@ -1,0 +1,1 @@
+program T1 : H8 : takes sh, SO : integer array returns nothing chillax end d : takes iKr0 : integer array; FDvaa, Y860a, b, m0_0 : integer returns integer array chillax end main : let y[- 7 rem(42) - (93) / 35200 + false and 08800 or 73] = 3 end

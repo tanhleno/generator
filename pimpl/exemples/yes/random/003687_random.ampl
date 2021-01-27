@@ -1,0 +1,1 @@
+program Q6 : D : takes O, f, W, o, f : integer array returns boolean W, j, H, K : integer; Qm50a, h, Yewa, I0A : integer array; STw, O : boolean array; M0C : boolean; output - 91 >= 3 end main : pop end

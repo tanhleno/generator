@@ -1,0 +1,1 @@
+program P5j : main : let ty[- M4xaa(7, 8)] = (6550) * true and 4 or 9 and 9 + 2; input HY[- 55 rem true and 480]; while 76800 /= - 56 : chillax end; when case - 53 - 1 : chillax end otherwise : chillax end; input l[2] end

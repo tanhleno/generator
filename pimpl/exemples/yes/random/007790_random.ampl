@@ -1,0 +1,1 @@
+program f : Ia_aa : takes Y, M480a, q5, O : integer array returns nothing P : boolean array; k, G : integer array; yeZ : integer; chillax end main : tW, o : integer; w5, SKAaa : integer array; as4 : boolean array; input _pB end

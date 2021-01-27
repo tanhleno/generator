@@ -1,0 +1,1 @@
+program c : z2j : takes l : boolean array returns nothing L87, _, x, l86 : boolean array; G, W1, z, I : boolean array; output 5 - 8; input y[2610 - 5]; do Z(9, 9790); pop end main : nY, CX1aa : integer; chillax end

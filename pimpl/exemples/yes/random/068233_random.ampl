@@ -1,0 +1,1 @@
+program L : main : l, _PZ, Y_80a, u, B, t, o75aa : integer array; k : boolean array; xm, MX : boolean; g8 : boolean; input Q0G0a; while - not true rem(8) + 9 or 2 /= false or 1 : chillax end; input B; output "3" . "\t" end

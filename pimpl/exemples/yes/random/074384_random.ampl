@@ -1,0 +1,1 @@
+program bh : main : zS, R : boolean; when case - true rem(8) and 9 : chillax end case m[2] : chillax end; when case false / not 88 and 768 > true and 480 - 245 : chillax end case - true - 98 : do v5(0290, 5); while 85 : chillax end end; when case true and 30 + 463 < 7 : pop end end

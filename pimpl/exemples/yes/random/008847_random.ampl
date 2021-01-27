@@ -1,0 +1,1 @@
+program E : c : takes t3, A3, nmca : boolean; l, d : integer array; S, H3, ZY : integer array returns boolean f, Kb70a : integer array; Uu, V : integer array; G : integer; Y0c, O : boolean; chillax end main : chillax end

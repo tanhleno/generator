@@ -1,0 +1,1 @@
+program C6 : l : takes h : boolean returns boolean array h8, j : integer array; Oala, O, zm7, g : integer array; c : integer array; b, H4Caa : boolean; J : boolean; output 4 >= 0 end main : U : boolean; chillax end

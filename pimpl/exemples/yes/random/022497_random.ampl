@@ -1,0 +1,1 @@
+program E : r : takes L, rK4aa : boolean array returns nothing r : boolean array; while not 4 : chillax end; output ""; input z0[804]; when case 1 : chillax end case 8 : chillax end; input Wm0 end main : g, FU : boolean; while - not 80 - Z(20) : chillax end end

@@ -1,0 +1,1 @@
+program s : kS : takes BP : boolean returns integer V, u : integer; while(9) > - 3 : when case 7 : pop end otherwise : chillax end end; when case - 0 - 8 = 53 : when case 23 : chillax end; pop; pop end case 7 = 96 : chillax end otherwise : chillax end; while 8480 = 4 : chillax end end main : XGf, Z : boolean array; do C(- (7490) + false / 5 and 367) end

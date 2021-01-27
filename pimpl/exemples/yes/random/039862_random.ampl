@@ -1,0 +1,1 @@
+program q4 : Y : takes e : boolean array; X : boolean array; IL : boolean; q : boolean; C, Z : boolean array; B : integer; cuZ : boolean; a : boolean returns boolean p4, xEIa : boolean; chillax end main : c, c : boolean array; f : boolean; let m3p[- 55500 rem true] = - a[8] * not 7 and 3 or 55000 and 04 or 9; let a10[not(71)] = array not true * true and 963 end

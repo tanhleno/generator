@@ -1,0 +1,1 @@
+program h : main : eO, DPU0, L8V0a, _4 : integer; f2A0 : boolean; do r(- 4 rem false * not 9 and 321 <= (49) rem 4, V(5) + (0) + 03 > - not 9 and 6 + 61 - 77); while not ND and false or not 4 and 2 or 0 - 0 : let j[7] = 69 end end

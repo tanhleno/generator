@@ -1,0 +1,1 @@
+program Z6 : S4L : takes gh : integer array; N2, N, K : integer array; i6 : integer returns nothing let j[- (265) and 2] = - 2 - 03 end A : takes i, z : integer returns nothing yt : integer array; chillax end main : chillax end

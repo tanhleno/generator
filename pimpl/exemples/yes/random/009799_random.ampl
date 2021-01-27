@@ -1,0 +1,1 @@
+program D160a : R : takes Q6, G, T7 : boolean array; Gj, w : boolean array returns nothing q3, De9a : integer; input h6n0[gx or 22600 - 2]; do b(- 6 - 912, 71000) end G03 : takes j : boolean; H, D : integer returns nothing chillax end main : m : boolean array; chillax end

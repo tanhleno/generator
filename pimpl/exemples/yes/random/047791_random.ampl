@@ -1,0 +1,1 @@
+program J : P : takes z : boolean returns nothing do W3x(- y and 3340); pop; do Riu(45, 9920) end e85 : takes u : boolean; JG : integer array returns nothing o : integer array; K, F, m : boolean; output 7 . "3" . 780 end main : p : integer array; pop - (54) * true and 8 or true /= - G; when case - not not 9 and g1 and 49 + false or 1930 - 758 >= - false and 35 : chillax end end

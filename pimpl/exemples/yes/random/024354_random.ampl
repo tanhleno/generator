@@ -1,0 +1,1 @@
+program f3Da : Z : takes N, L : boolean returns nothing M, z : integer; pop - 2 < 2; when case 8 < 736 : chillax end case 9 : chillax end end TW5aa : takes h : integer returns nothing u, Cm9, j28, O4p : boolean array; EjE0 : integer array; eX, l : boolean; o : boolean; chillax end main : Wsf : integer array; chillax end

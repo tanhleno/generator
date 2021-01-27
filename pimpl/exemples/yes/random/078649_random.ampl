@@ -1,0 +1,1 @@
+program L : main : s : boolean; J, O, dUO : boolean array; K : boolean array; pop - s rem not 4 or(254) and 22 = - 2 or 6 - 87; do Vj(- true, - not 0 and 6 or 39, - 960 <= 18); when case - false and 80 = - 2 : chillax end end

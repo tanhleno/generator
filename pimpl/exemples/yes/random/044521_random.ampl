@@ -1,0 +1,1 @@
+program E : s7 : takes Y : boolean array returns nothing Co6aa : boolean; pop; output "j2" . "\\" . 20 . "k" end main : s : boolean array; while true / not true /= - (2) rem not 8 and 55 + not 6 : do J(8930); let B[86] = 5 end; input W9Q end

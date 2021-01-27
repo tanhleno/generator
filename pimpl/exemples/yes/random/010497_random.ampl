@@ -1,0 +1,1 @@
+program A : D7 : takes L, l7, Dl4aa : boolean array; dk : integer returns nothing when case - e - 36 - 8 = 84400 - 476 : let D0[1] = array 5; do M13(80); while 9 : chillax end end; while 4 - 5 > 2490 : output "" end end main : output "" . - false and 48 . "" . "j\t"; let M = not 0 and 20600 - 4 = - 9 - 1 end

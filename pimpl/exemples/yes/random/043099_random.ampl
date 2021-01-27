@@ -1,0 +1,1 @@
+program x : S : takes f7 : boolean array returns integer cXW0a, P, t4w : integer array; chillax end main : g8 : integer; while(0740) / true / not 20 and 09 < not(46) rem(1) and 6 : chillax end; do q(not A20aa * not 26 and 588 = - 0 + 2, - not 5 and 0); input J[false and 68 - 27 - 7] end

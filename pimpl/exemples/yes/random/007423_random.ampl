@@ -1,0 +1,1 @@
+program KN : gR : takes d, rz, Ius0a, V_7 : integer array returns boolean array let m900a = - 0 - 89 < 9 end P2 : takes o, Ce : boolean returns nothing pop 1 = 0530 end j : takes Hj1 : integer array returns nothing let e5 = 4380 end main : chillax end

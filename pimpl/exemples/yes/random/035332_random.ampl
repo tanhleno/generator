@@ -1,0 +1,1 @@
+program D79aa : i3 : takes B : boolean; R : boolean; W2R, h, lO, P3 : boolean array; m, DW : integer array; xO : boolean returns integer array while - true and 1 - 47 >= - 7 : let Q[8] = 4 end end main : bv7 : boolean; x2 : integer array; chillax end

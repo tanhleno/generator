@@ -1,0 +1,1 @@
+program w : FT : takes e : integer returns boolean let D4xa = array false and 2 end N : takes F8, n, i : boolean array returns boolean chillax end pF : takes P : boolean array; N6, p, KF : boolean returns boolean array y : boolean array; chillax end main : output - false and false and 796 or not 45 end

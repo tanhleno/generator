@@ -1,0 +1,1 @@
+program eOy0a : Y_V0a : takes J, I : integer array; p : boolean array; jl : boolean array; q3, e : boolean array returns boolean array when case true and 0 : while 2 : pop end end otherwise : chillax end; do n6(- 159 = 95, 5) end main : c, n, _ : integer; O5, k1, o, p2, H : boolean; input _dAaa end

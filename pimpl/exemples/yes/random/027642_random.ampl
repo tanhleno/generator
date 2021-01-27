@@ -1,0 +1,1 @@
+program w6w : n6D0 : takes Q, lA : integer array; X, j : boolean array; i, U, AQWa : boolean array returns nothing while - 436 - 6 = 23 : output 55; when case 66 : chillax end end; do v5(95); pop; input J[6540] end main : O, MW, d : boolean; J : boolean array; chillax end

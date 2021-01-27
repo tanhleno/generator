@@ -1,0 +1,1 @@
+program U : main : while A and Ke6(1) < - not 983 / false and 36 - not 9 or 9 : pop 0 = 7; when case 2 : chillax end otherwise : pop end end; do by7(- not not 311 < false, - false and 0 - 8, 3320 - 3 >= 69) end

@@ -1,0 +1,1 @@
+program w17 : G : takes _ : boolean returns boolean chillax end main : output - (04100) . ""; while - false or not 660 - 2 - 5 < - (994) or 614 - 6 : let BrT = array 023 end; let VA5[f and 20 or 9 - 2] = array K; pop 9 = 0 end

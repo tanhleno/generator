@@ -1,0 +1,1 @@
+program lD : main : Dk : integer array; P, L4, z, h5F, d, V : boolean array; B1W : integer array; U : integer array; let D3e = array - true * false and true and 6 + (2) rem false and 04 or true and 155 + 0 - 1; do c(- 07 or true and 0 or 6, true); output - 77000 - 78 /= 74300 end

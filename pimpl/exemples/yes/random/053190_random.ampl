@@ -1,0 +1,1 @@
+program Q0ia : H : takes DS : integer; o : integer returns integer array l : integer array; N, y8 : boolean array; input c; while 34 : chillax end; while 77 = 8 : do P1o0a(669) end; input v; pop end main : h : integer; chillax end

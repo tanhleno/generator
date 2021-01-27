@@ -1,0 +1,1 @@
+program M7 : r : takes S : boolean returns boolean array W : boolean array; hG : boolean array; when case(580) and 16800 or 05 - 6 : chillax end case 4 - 9 < 850 : chillax end case 26 = 84 : when case 4 : chillax end end; while 46 - 86 = 36 : chillax end; let e[4820] = array 0 end gW3aa : takes ep1, sE, T, l : integer returns nothing chillax end main : chillax end

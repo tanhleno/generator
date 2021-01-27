@@ -1,0 +1,1 @@
+program c : main : when case - false or not 8 or frA and 56 - 66 - 1 : chillax end otherwise : when case 1 : do k(9); pop end case 975 : pop end otherwise : chillax end end; while(0) / true and 54 or false and 788 : chillax end end

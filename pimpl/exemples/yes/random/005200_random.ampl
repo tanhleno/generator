@@ -1,0 +1,1 @@
+program q2 : y : takes w3, do3, H71, BAk : boolean array; n : integer array returns boolean R, l : boolean array; chillax end main : d6, mR : boolean array; N, fO7, P, r : boolean; i4, HW, _, nK, w2 : integer array; pop - true * false + not 5 and 6 - 62 end

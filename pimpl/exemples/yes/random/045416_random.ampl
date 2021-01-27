@@ -1,0 +1,1 @@
+program a : F : takes M : boolean returns boolean array chillax end h : takes ut : boolean array returns nothing chillax end main : while(5) * true and 71 and 0 or true * 20 and 842 or(8) and 8 : when case 1 - 5 < 524 : chillax end case 2 : chillax end case 24 : chillax end case 8 : chillax end end end

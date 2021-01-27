@@ -1,0 +1,1 @@
+program q : c9R : takes c, p, uI6a : integer returns nothing chillax end f : takes w : boolean; L : boolean; B1 : boolean array returns boolean when case 3 - 332 : chillax end otherwise : do Z(8) end; do ab(80, 2, 4) end main : chillax end

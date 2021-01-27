@@ -1,0 +1,1 @@
+program x : main : when case - true and not 1 + false : chillax end case not not 3 >= - true : chillax end case(059) and 406 <= 5 - 5 : chillax end case 6 : do U_Ua(8); let JY = 70 end case 28 = 9 : pop end end

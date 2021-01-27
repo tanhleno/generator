@@ -1,0 +1,1 @@
+program Zg : main : d : integer; SYW0, m : integer; when case - 2 * true / 25 and 0 : while 38 <= 2 : do g0(61); input Y; pop end; output "" . "" end otherwise : chillax end; do M3kaa(not 0 rem 03 and 3210 + true and 6 - 3 = false) end

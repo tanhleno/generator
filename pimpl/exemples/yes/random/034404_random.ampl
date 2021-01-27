@@ -1,0 +1,1 @@
+program W : b : takes d9a0a : boolean; J, K6S0a : boolean array; Xk, d88 : boolean returns nothing Npm : boolean; chillax end w61 : takes sr, R, XC : boolean returns integer array let AcQ[- 9] = 2 = 34000 end t980 : takes MS2aa, q : integer; Q : integer; e : integer returns nothing chillax end main : chillax end

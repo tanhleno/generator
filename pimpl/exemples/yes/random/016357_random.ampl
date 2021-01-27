@@ -1,0 +1,1 @@
+program V : n65aa : takes K, v, n : integer returns nothing fU, C8 : boolean; Fa : integer array; K, DO, il6a : boolean array; S : boolean; R : boolean; Vp4 : boolean; chillax end main : t, WjM, I8paa, bG6, F : integer array; w10, x770a : integer array; chillax end

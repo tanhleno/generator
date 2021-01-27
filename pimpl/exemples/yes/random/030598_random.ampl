@@ -1,0 +1,1 @@
+program Ko : c : takes T, lwF0a : integer array returns nothing R, y1 : boolean; input x[(71) + 7 - 38]; pop 9 = 916; when case 7960 = 2 : chillax end end V : takes T : boolean array returns integer chillax end main : output true / 75 /= - v8 + 12 - 5 end

@@ -1,0 +1,1 @@
+program MK : g : takes wig0, d, I : integer returns integer B9 : integer array; E0 : integer array; g2, U, J : boolean array; do Uiz(true and 2720, 5 - 8710 <= 46); let m09 = array 8 - 369; when case 85 : chillax end case 96 : chillax end case 4 : chillax end otherwise : chillax end; do S(38) end main : chillax end

@@ -1,0 +1,1 @@
+program JH : main : when case 610 and y5b0a(3) : output ":D"; while 7 = 4 : chillax end; let Ex[6] = 4 end; input Ih00a[not(7370) / false and 34 + 1 and 12 - 9 - 2]; let a3 = - 2 /= 5; pop; let N1[8] = 3 end

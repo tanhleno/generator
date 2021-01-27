@@ -1,0 +1,1 @@
+program r : K1b : takes gY, zDRa, H, Up, eQ : boolean; BU, f3 : integer array returns boolean array Rh : integer; let dB7[not 2590 - 8] = - 9840 >= 0120; when case - 6 - 60 : chillax end otherwise : chillax end end g : takes N : integer; v : boolean; I83a : boolean returns nothing mh, V1 : boolean; g : integer; R9 : boolean; H91 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program t2 : g0f0 : takes o : integer returns nothing Zw, w0 : integer; output "" end Yd : takes o : integer returns boolean array LMl, w9g0a, D, N3g : boolean array; l, e, s : boolean; W : boolean; chillax end g : takes t, M, uR : boolean array; c6a, Q, V : boolean returns nothing x : integer array; let mI[73] = 381; input M[2] end main : chillax end

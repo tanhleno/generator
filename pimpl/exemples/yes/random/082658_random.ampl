@@ -1,0 +1,1 @@
+program QS2 : main : wS : boolean array; when case - (576 = 4) + not not 4 /= - (61500) * not 8 and 8 or 92 and 6 : output "" . "?80" . 5 end; let yO = - E6 or 153 - 7700; input mf[- (88) + 88 - 9] end

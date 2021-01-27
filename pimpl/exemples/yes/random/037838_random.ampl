@@ -1,0 +1,1 @@
+program M8Q : v : takes e : boolean array; b, M, an50a, Y : integer; Rxt0, v71 : integer array returns nothing G : integer array; pop - 1 end main : WO8 : boolean array; M, a, xks0 : integer array; pop - 8 /= - not 0 and 96 end

@@ -1,0 +1,1 @@
+program Dw3aa : main : do JC(- (0) * 7 + (21) < true + V and 39500 - 7 - 84900); do k8(- XH and(3) and 5 or false + 4 - 63); when case - false or 39 : input r end otherwise : output ""; while 50 : chillax end; pop end; output "+," end

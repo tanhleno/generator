@@ -1,0 +1,1 @@
+program OC2 : x : takes q8 : integer array returns boolean array chillax end s : takes l : boolean array; M, qOj, lvNaa : integer array returns integer array pop; while 91 = 147 : chillax end; pop; pop; while 3 : chillax end; pop end z3 : takes l, F850 : boolean array; Q0, D06, F, Q73aa, P : integer returns nothing K, FH, D : boolean; chillax end main : chillax end

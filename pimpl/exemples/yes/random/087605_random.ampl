@@ -1,0 +1,1 @@
+program A : main : O0 : integer array; when case 55 = - not true - (1) and 8 : when case 17 : chillax end case 9 : chillax end case 7 : chillax end otherwise : when case 687 : chillax end end; while 272 : input a end end; output true + 6 end

@@ -1,0 +1,1 @@
+program l : x : takes H24 : boolean returns nothing input F[- (23) and 780 - 40 - 5160]; input AR[3 - 454]; while 5 = 2 : while 54 : chillax end; pop end end main : do k7(true >= (6920) / true and 8 - false - 502 - 7, false + not 8 and 4 or 61 = - false and 6 or 6540); while(26400) < - true : do xAca(7550 = 586, 5, 96) end; pop 45 end

@@ -1,0 +1,1 @@
+program mVd0 : T9 : takes q : integer returns nothing O610a, Q : boolean array; input JUy; output "" end main : h : integer array; pop - T1 rem not 308 and 09 or 487; while - false - true and 0 : chillax end end

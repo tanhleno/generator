@@ -1,0 +1,1 @@
+program X1 : KvLaa : takes D, L8 : integer array; M, S : boolean array returns nothing W, L0 : boolean array; input b6[71 and 9] end main : do d(false / s(9) - false, - c1(5) + not 91000 and 3 or 6 < 1 - 9 - 59); while - not(09500) / not 7 : chillax end; input R end

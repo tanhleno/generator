@@ -1,0 +1,1 @@
+program _ : U : takes P, k690a : integer array; VB, H, E0 : integer; N : boolean returns nothing chillax end main : s5w : boolean array; G : boolean array; while - not 18 or not not 41000 - not 3960 : input H; output 5; output 153 end end

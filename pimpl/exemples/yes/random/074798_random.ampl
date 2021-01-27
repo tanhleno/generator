@@ -1,0 +1,1 @@
+program hid : main : l, l1 : boolean array; XD0aa, m : boolean; Q92 : boolean array; when case true * 5 rem false /= true : chillax end; let _L = array - not YL / not 731 and 655 or(399) or 44; input hWi[(44) + 0 - 70] end

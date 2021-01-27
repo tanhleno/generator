@@ -1,0 +1,1 @@
+program q : j5X : takes _0, V2, A, hn : boolean array returns nothing M, d96, A, t : integer array; C, V3Na : integer; v : boolean array; output - 67 < 710 . ""; input U1b0a; output 10 . "" end main : O320a : integer; W, k, XP6, o : boolean; d, eU6, qb, y, P : boolean array; chillax end

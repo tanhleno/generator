@@ -1,0 +1,1 @@
+program C090a : D9a : takes la : integer array returns nothing qo : integer; Zz, B, p, G : boolean array; chillax end main : input G9[- (38 = 21) + false / 0720 + 512 + 74 - 78]; input D; let D = - 83 - 2 end

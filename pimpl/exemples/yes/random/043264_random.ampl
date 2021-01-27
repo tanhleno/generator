@@ -1,0 +1,1 @@
+program d : n6 : takes N : boolean array returns integer J : integer array; P : boolean; azW, z, v5 : boolean; u, cc2a : boolean; Adw : boolean; do h(- K and 23, - 645 - 48 >= 236); output "q"; do mt(8, 41) end main : chillax end

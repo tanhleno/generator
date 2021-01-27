@@ -1,0 +1,1 @@
+program t : R : takes V, j, C0, W42, J5 : integer returns nothing when case not 8 : chillax end case - 1810 - 5 : chillax end case 7 : let L11 = 46 end; output "iA\"a" . ""; pop end main : Q : integer array; Nr : integer array; chillax end

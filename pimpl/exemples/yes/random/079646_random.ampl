@@ -1,0 +1,1 @@
+program O : main : X : boolean; I : integer; when case - C6(6) - t or not 4 >= - false * 9 : chillax end case(50) and pV + A - 4040 - 0 : pop 1 end case false <= - 6 - 6 : when case 3 : chillax end case 466 : chillax end; input w11 end end

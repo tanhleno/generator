@@ -1,0 +1,1 @@
+program yq9 : main : HE, c : integer array; W : boolean array; a, Yz, R, vc4 : integer array; v : integer; while not false / not 4 / not 8 or false * false and 81 or 0 and 4 < - 2 rem not 3100 or 41 - 32100 : let O47aa = array 89; pop end; output - (17) <= - 97 end

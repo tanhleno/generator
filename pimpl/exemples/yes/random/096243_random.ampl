@@ -1,0 +1,1 @@
+program R : main : when case - not not false + true - not 4 : output 9 = 81 . 69600 . "\tc" end case false * false > false and 0 : chillax end case - lj : chillax end otherwise : chillax end; input XF end

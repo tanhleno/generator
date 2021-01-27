@@ -1,0 +1,1 @@
+program wJJ0 : MkJ0a : takes H, Y : integer array; p4f : integer; o, Y1L, f3, X, s, A : integer; bA : integer returns boolean pop - 83 - 720 >= 5; do F(0); output "UA" . 3 . "\"\"" end main : u240a, t : integer array; do J(- true and false) end

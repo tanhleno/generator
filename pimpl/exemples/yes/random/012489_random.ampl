@@ -1,0 +1,1 @@
+program A : s : takes Vu, q, x8C : boolean returns nothing when case - true and 1 + 7 : chillax end case - 9 < 392 : when case 7 : chillax end; let s = 70800 end case 1 = 731 : chillax end case 66 : pop end otherwise : chillax end; output 9 end main : do At(- true, - not false or L, false and 0 + 0050 - 34, - 08600 /= 59) end

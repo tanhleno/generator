@@ -1,0 +1,1 @@
+program we : m : takes Pi, H, n, h7U, I, BX : integer array; K, I, Z : integer array; w : integer array returns nothing chillax end main : Arja : boolean array; when case - 90 - MK(239) * 0 and 75 - (825) + 47900 : do J(- 84 - 9 > 6, 607, 336); pop 5680 end otherwise : chillax end end

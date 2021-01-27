@@ -1,0 +1,1 @@
+program o : R8Ma : takes l1, hE, wZ : boolean returns boolean array chillax end ZyFa : takes B0 : boolean array returns nothing I : boolean; do z89(5 - 8 > 4) end V : takes C : integer returns boolean wA, j : integer; chillax end main : Q, d : integer; chillax end

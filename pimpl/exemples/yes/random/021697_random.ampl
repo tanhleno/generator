@@ -1,0 +1,1 @@
+program Q : _ : takes e, N5 : boolean array returns integer Z : boolean array; e5 : integer; bj, n : integer; do k86aa(false); while - 6 : while 6 : chillax end end; pop end D9 : takes m, X : integer; t72 : boolean returns boolean E, bt : integer array; chillax end R600 : takes K00 : boolean returns nothing chillax end main : chillax end

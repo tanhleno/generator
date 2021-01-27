@@ -1,0 +1,1 @@
+program s : K6 : takes B5 : integer array; hyj, o : boolean array returns boolean array y, gZ, P4, F, _23a : boolean array; g : integer; output - 5 - 0 > 2 end main : while - (61 = 04) and true >= VE(5) - not 7700 and 154 : chillax end end

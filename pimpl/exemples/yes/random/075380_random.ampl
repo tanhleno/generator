@@ -1,0 +1,1 @@
+program iz : main : AI, X6 : boolean array; input on; when case - true rem not 0 and 58 >= VK : pop 3; do K(4); while 2910 : chillax end; let m = 3 end case v4 - 9 : input v; when case 1 : chillax end end end

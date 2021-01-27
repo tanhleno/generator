@@ -1,0 +1,1 @@
+program Dz : N : takes I, p : boolean; v6H0, _, wK : integer array; Ty : integer array; Iv9 : boolean array; Y : boolean array returns nothing r88aa : boolean; sI5a, bL, Y, q : integer array; T : boolean array; output - 7 . "\t"; do c(- 0 = 6, 8770 = 9, 2, 77900) end main : let T = array - true rem(8) * true and 34 + (7) and _ - (2) and 6630 + 071 end

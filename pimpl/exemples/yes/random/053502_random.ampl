@@ -1,0 +1,1 @@
+program pq5 : m : takes zq9 : integer array; B, C, C, y, Jdc0a : boolean; t, LbA : boolean returns nothing when case d + 7 - 9 : chillax end case 1 > 96 : chillax end case 2 = 729 : chillax end end main : chillax end

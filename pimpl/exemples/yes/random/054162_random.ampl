@@ -1,0 +1,1 @@
+program F : R2 : takes g5Z : integer array; e, jv, T : integer; gj : integer; uF10a, A, U, j9, lK : boolean; f, h, ou : boolean array returns integer array pop - 8 end main : H9 : integer array; chillax end

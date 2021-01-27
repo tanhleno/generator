@@ -1,0 +1,1 @@
+program F : W : takes B60, Zw9a, U : boolean array; N, yY9aa, Vm4aa : boolean array returns nothing input D; when case - 913 - 9360 <= 606 : chillax end otherwise : chillax end end a3z : takes f : boolean array returns boolean array chillax end main : while true rem je0a / 19 and 3 : chillax end end

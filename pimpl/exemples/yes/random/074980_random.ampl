@@ -1,0 +1,1 @@
+program i : main : f, d : boolean array; T1 : boolean; m8, pE, R, t6, f : integer array; n6, e : boolean; while - 93 - (76) < - false + not 8 and 652 : chillax end; output - 5; pop 11; let tW8aa = 1 = 1; while 5400 : pop; pop end end

@@ -1,0 +1,1 @@
+program a : main : yX : boolean; when case(0 = 91600) and 205 and true : pop 5 = 14 end case - o(560) and 2170 and 0 + (1) + 9 - 5 /= false : chillax end case - 350 and 59 + 8 /= - 7930 - 85 : do T(3); output "z"; do B840a(342) end otherwise : while 4 : chillax end end end

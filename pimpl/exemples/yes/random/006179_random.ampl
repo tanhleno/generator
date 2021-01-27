@@ -1,0 +1,1 @@
+program y : M12 : takes l39, o, Le, l9P0 : boolean returns nothing q, s : boolean array; x : integer array; z, z : integer; j1, D5 : boolean; x_ : boolean; do Y(true, - 4 - 6 = 6, 25 = 49); output 8 = 90 . ""; input k60aa; let vF = 90 end main : E_Iaa, t, NU : boolean array; chillax end

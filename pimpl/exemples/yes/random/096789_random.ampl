@@ -1,0 +1,1 @@
+program L : main : when case false : chillax end case - (7) / not 395 or a and 3 /= - false and 72 : while 4 = 8 : chillax end end; when case false rem 000 and 930 or not 98 and 1 /= - (35) and 9 + 51 - 4 : chillax end case - (174) and 234 - 5 : do j(8) end end

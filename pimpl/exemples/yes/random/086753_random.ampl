@@ -1,0 +1,1 @@
+program h04 : main : Bk : integer array; Oj4 : integer; pop(10); let D7f[not not 23 or(36) and 2] = - LP50a and 9 - 5 <= - 14; pop; input U; input JC4[2]; when case 9 : chillax end; input NK0; output "" end

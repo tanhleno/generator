@@ -1,0 +1,1 @@
+program N9 : main : when case not(2) < not not 4 - (963) : when case 4 : when case 90500 : chillax end end otherwise : input K4 end end case not false rem H and 557 : chillax end; let W[- 4 rem true and 5 or(408) and 69 or 14900 - 37] = 3 or 39100 >= 57; output - 57 - 4 . 6 . 514 . 2 end

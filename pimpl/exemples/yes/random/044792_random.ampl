@@ -1,0 +1,1 @@
+program SZV0 : bc : takes D : boolean array returns nothing UEza : integer array; chillax end X : takes x5n, Y, f : boolean array returns boolean array chillax end V : takes R : boolean array; Y, G : integer returns nothing _, sjp : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program h : main : m, Q : boolean array; when case(7 = 9) - false or(4) and 22 /= false rem Ss and 9 : while 7 : chillax end end case false : chillax end case false or 7 : chillax end case - 07 - 4 /= 58 : when case 4 : chillax end; when case 8 : chillax end end otherwise : do vC6a(2 = 78, 110, 77); pop; output "\"\"!a"; while 2 : chillax end end end

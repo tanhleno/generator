@@ -1,0 +1,1 @@
+program gZ1 : O5 : takes Z92, dT : boolean array; WX, E : integer array returns integer o : boolean array; chillax end AtC : takes g7, APka : integer returns boolean _ : boolean array; d : boolean array; p, i4 : boolean; MJ : boolean; a : boolean; output 8 = 4 . 66 . ""; let m80[68100] = 60; let l3 = 9 end main : chillax end

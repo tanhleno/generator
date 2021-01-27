@@ -1,0 +1,1 @@
+program c : zal : takes X0, oZ, sj, W, gD : boolean; n, U, g : boolean returns integer array D85, I6G0a : integer array; m7gaa : integer array; while - 966 + 19 >= 3 - 1 : input MN[50] end end main : J : integer; chillax end

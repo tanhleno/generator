@@ -1,0 +1,1 @@
+program rKd0a : FX : takes J99a, K110 : integer; f4ta : boolean returns integer array chillax end Q : takes d4 : integer array returns integer array when case 4 /= 14 : pop; output ""; pop end otherwise : chillax end end main : B37a : integer; RC : integer; X : boolean array; output "5\t" end

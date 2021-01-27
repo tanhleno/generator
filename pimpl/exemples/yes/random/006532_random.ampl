@@ -1,0 +1,1 @@
+program t2 : t : takes F2, G1, J, c5 : integer; x9c0a, j1 : integer returns integer array D : integer; m, D, _2Ia, f : integer array; e : boolean array; input Q end M : takes AL : boolean array; d, Yn, A0 : boolean array returns boolean array chillax end g : takes gr3, T1, K : integer array returns nothing let PjZ[91] = 9; pop end main : chillax end

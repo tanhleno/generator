@@ -1,0 +1,1 @@
+program e : Q5 : takes Q, E6, n9, m, L : integer; e : integer array; F, x49 : integer array; b : integer; Z8 : boolean returns nothing output - 121 - 98400 >= 2 . "qc"; output 5 = 79; output "q9" . 46 . "82aa" end main : do I2(Ua40a[1] and(7) * false + 1 >= - (10) rem not 46 + (9) and 02); output "" . - 58 . "|" . ""; output - 1; let G4[5 - 273] = 9 end

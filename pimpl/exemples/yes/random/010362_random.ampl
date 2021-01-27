@@ -1,0 +1,1 @@
+program S3 : y4daa : takes P, _o10, Xu : boolean array; N : integer array returns boolean array gZ, b8_a, J2 : boolean; output "" . "" end main : e : boolean array; output "8\\" . true + 6060 . ""; let I5 = array not true; pop; output 0 end

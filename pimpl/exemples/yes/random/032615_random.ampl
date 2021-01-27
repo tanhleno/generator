@@ -1,0 +1,1 @@
+program H : p : takes k_Gaa, q : integer returns nothing G5x0, ez : boolean; when case - false : do JV8(4, 1); while 7 : chillax end; let D = 6; pop end; input PQy[40 - 44] end main : WXU0 : integer array; do h(- (9 = 0) * true and(31) + M[7] and true and 162 or L and 9, not true / (9600) + true and 56 + 98 - 7, - (0) and 14 or 5 - 3, - 4) end

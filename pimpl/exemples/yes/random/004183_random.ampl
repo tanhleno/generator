@@ -1,0 +1,1 @@
+program f24aa : l : takes E, n, a67, y : boolean; q, dD, G, BU, Nh, Y : boolean array returns integer chillax end F9 : takes sv, B60a : integer returns integer n1 : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program J : i8S0a : takes G : boolean array returns nothing NJ, Eg, A, D, j9 : integer array; do e33aa(- true) end jk1aa : takes F : boolean returns integer a : integer array; let u = array 3; while 683 : output "'"; pop end; pop; input W; when case 68 : chillax end; pop end main : chillax end

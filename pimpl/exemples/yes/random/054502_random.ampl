@@ -1,0 +1,1 @@
+program RlCa : A : takes o : integer array; MAZ, M54aa : boolean array; ROzaa, kBS, C, XH4 : boolean; K4, l : integer returns boolean array qae, AQs : integer; xp6a, X, S3, w8 : integer array; chillax end main : chillax end

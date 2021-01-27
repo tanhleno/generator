@@ -1,0 +1,1 @@
+program D : L33 : takes k, H : integer array returns boolean when case - (1) + 0220 - 27 : when case 5 : chillax end otherwise : chillax end end case - 1 = 4 : when case 18 : chillax end end otherwise : chillax end end main : _ : boolean array; q, P8T, Y : integer array; chillax end

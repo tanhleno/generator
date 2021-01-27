@@ -1,0 +1,1 @@
+program E : x : takes O8, Mq : boolean; u : boolean returns nothing Z2 : boolean array; pop 3850 - 3 >= 95; when case 4 - 1 : while 9 : chillax end end otherwise : input MP; pop end end CP : takes wic, K : boolean array; BY2, sIK : integer; SP, ZI : boolean returns nothing chillax end main : input y13; do H00a(not(3) and 846 or not 4 + 0600 <= 3) end

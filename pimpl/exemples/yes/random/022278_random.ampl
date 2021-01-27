@@ -1,0 +1,1 @@
+program U2 : zQ : takes i, g : boolean array returns nothing R, D : boolean array; W, Yd : integer array; pop - 41 - 702; output 8 = 17 . 3 . "" end main : K : integer; bDA, tO : integer; chillax end

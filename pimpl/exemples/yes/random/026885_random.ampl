@@ -1,0 +1,1 @@
+program Zw30 : Z : takes K, r : integer; Ew : integer returns boolean array Zg0aa : integer; chillax end o0y : takes w040a, Q : boolean; Zji : integer; e : integer array; n : integer array returns integer when case - 2 : chillax end end aj7 : takes S, s, N, X : boolean array returns integer chillax end main : output false >= - not 689 and 9 or 237 - 8 . - (5) + 6 end

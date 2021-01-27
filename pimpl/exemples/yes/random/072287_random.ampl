@@ -1,0 +1,1 @@
+program _ : main : E, A, A2F : integer; r09 : integer; g4va, m, X040 : boolean; o, H6, g : integer array; v, y0 : integer array; when case - true rem wz6a[51] * true - false + false > not 7 : chillax end otherwise : let x[16] = 94; output 5 end end

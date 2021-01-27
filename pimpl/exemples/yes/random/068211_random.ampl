@@ -1,0 +1,1 @@
+program i6 : main : v, W, T, v, W, fHU, m_ : integer array; T, o : boolean array; when case not false /= - false : chillax end otherwise : pop 4; pop 3; input BS; let c130 = 15 end; output "\n"; pop; input a[1 - 38]; input U end

@@ -1,0 +1,1 @@
+program x : l81 : takes T3 : integer array; P, UTr, s57, T, m : boolean; zI : integer array returns nothing chillax end main : A, M, c : boolean array; do Y(- not false rem not qV or 7 and not 837 - not 9 and 4, - not V rem(8) and 1 + 9 or 54400 - 4 = not 3 + 144 - 35, - Ov8aa + 54600, 9330 - 38 < 89, 37 = 670, 7) end

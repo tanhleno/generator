@@ -1,0 +1,1 @@
+program n : V : takes z, d : integer; F : boolean; I : boolean returns integer Un, g0, x0, D3D0a : boolean; chillax end main : when case true : chillax end case(956) - 023 : chillax end case false and 23 : chillax end case 31 - 28 > 486 : chillax end case 531 = 3 : when case 062 : chillax end end end

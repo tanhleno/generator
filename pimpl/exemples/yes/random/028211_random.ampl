@@ -1,0 +1,1 @@
+program wZQ : SGl : takes tP, D : integer array; T : boolean; j : integer returns integer array chillax end main : f, N, f : integer; rn : integer array; output 0 * qS40 and 5 /= false and 34000 + 5 - 3 . - true and 1 + 2 end

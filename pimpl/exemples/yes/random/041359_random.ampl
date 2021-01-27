@@ -1,0 +1,1 @@
+program N : c : takes I : boolean array; x5 : integer returns nothing Z5, A, N : boolean array; when case false - 117 - 54 = 9 - 1370 : output 3 end case - 35 - 1 : chillax end case 40 : chillax end otherwise : chillax end end main : hNQ0, O, gO : integer array; Gn2, Xp : integer; e, t5Z, en : boolean; chillax end

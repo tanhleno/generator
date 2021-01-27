@@ -1,0 +1,1 @@
+program C : d0 : takes h : integer returns boolean array uOh0a : integer array; _, g, y3 : boolean; output - 1 - 5; pop 5; pop end main : when case 90 > - (8) : while 3 - 06 : pop; let n = 22 end end end

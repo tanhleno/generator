@@ -1,0 +1,1 @@
+program Id : main : Q, u : integer array; do H5daa(- not true / false + true * false + not 9 and 4, (63) + 2 and 46 + 5 - 8 < - true - 1, - (1580) and 07 or 9 > - 6); let E[false - not 7 and 4] = array - true rem 0 and 21 or not 41 and 8 + 3 end

@@ -1,0 +1,1 @@
+program rh : sL : takes bK : boolean array; n0a : integer; g, EZta, ozV : boolean array; P6X, l, Zp5 : boolean array returns boolean array pop; let _[3 - 1] = 0 = 01 end YzP : takes gG, m08, I, lie : integer array returns nothing chillax end main : f : integer array; W1J0a : integer array; uV : integer; _, b6 : integer; o : boolean; pop - 1 or not 3 + 2140 < Z and 6 end

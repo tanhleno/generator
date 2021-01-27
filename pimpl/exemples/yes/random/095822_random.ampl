@@ -1,0 +1,1 @@
+program c : main : when case - false / 02 and Ne and 5 or not not 423 / b or true and 78200 - 57 : input a3[910 - 974] end case - O5(17) - true and 622 + 3 - 2 /= - not 5 and 654 - 25 - 97 : chillax end; output "H\n"; input S end

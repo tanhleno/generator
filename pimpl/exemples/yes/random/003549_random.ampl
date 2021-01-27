@@ -1,0 +1,1 @@
+program T : Q20 : takes z6, X5, K, I8gaa, o4 : integer array; b : boolean array returns boolean E, G, g : integer array; chillax end main : R : boolean; elea : integer array; y : integer array; chillax end

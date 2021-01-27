@@ -1,0 +1,1 @@
+program U : d : takes H4 : boolean array; u, v5, I, WJ50a : integer array; kD, f : integer array returns nothing input G; let y2Ba = 28 = 3 end g : takes U, Ku, C4Pa, v, r, S : boolean; B : boolean array; q, G : integer array returns boolean wQ70a : integer; wc, Z : integer; l, O8a0a : boolean; V : boolean; chillax end main : chillax end

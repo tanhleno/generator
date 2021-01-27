@@ -1,0 +1,1 @@
+program C : N : takes J : boolean returns integer array Q : integer; d : integer; while true >= 1 : chillax end; do N(- 78 - 1 < 3, 0) end B : takes TmP, EB, A, Gs60a : integer; d : integer returns nothing output "\t%" end V : takes n : integer array returns integer array J7V0 : boolean; when case 4 : do R(124); pop end otherwise : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program ps : b2 : takes ftr : boolean; L, w, i : integer returns integer chillax end Cr : takes n : integer; P3, g4, o : integer; i, L, p1, vl9a, js0 : integer array returns integer k, q, M9yaa : boolean array; let qE[- 21700] = array 208 - 8 end main : do aQz(4 / not(43) rem true and 69200, s - not 84 and 3 <= t1) end

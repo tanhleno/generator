@@ -1,0 +1,1 @@
+program G : u5y : takes V, D1d0a, A : boolean array; m, do5 : integer array; P5 : integer array; v, c6, J, T1y, cU : integer returns boolean pop 9 - 0 end M : takes w : integer; h : integer array returns nothing H330 : integer; do w7(9 - 0, 361 = 81) end main : W : boolean array; do m2waa(- 8 + (45) / not 54600 or 9 or 4 = true - true and 93 - 9 - 2) end

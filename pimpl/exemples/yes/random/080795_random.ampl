@@ -1,0 +1,1 @@
+program a : main : B : boolean array; p, j, k34aa, x, a5, UBja : boolean array; when case DN[0] and false rem 6 and 7 - true and g /= - 6 : chillax end otherwise : chillax end; output false and 4 - 6 - 1600 >= - 2 - 5 . - 3; output - 0 - 76 = 96; when case 6 - 6 = 4 : pop end; when case 7 : chillax end case 7 : chillax end case 6 : chillax end; while 23 : pop end end

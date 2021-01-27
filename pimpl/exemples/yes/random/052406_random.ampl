@@ -1,0 +1,1 @@
+program l : k : takes C : integer; QKq : integer; E, n0, KG : integer array; Q, k : integer returns integer array let b[- false + 8] = 39200; when case - 32 : while 84400 : chillax end; input h; pop end otherwise : input S4 end; let L6 = 3; do q4R(3, 373) end main : d : boolean array; chillax end

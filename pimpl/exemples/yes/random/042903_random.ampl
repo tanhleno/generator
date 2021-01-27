@@ -1,0 +1,1 @@
+program P : E : takes S : boolean array returns integer chillax end c : takes iP, O6, zu, B : boolean array; z : boolean array; v, v : integer array; k0, j, r, z : integer array; ad2 : boolean; C6, A : boolean returns boolean array B7g : boolean array; y : boolean array; output 948 = 2 . 5 end main : g, A : boolean; input r[true * (56300)] end

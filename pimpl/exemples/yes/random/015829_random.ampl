@@ -1,0 +1,1 @@
+program n : J9 : takes QA, v, dg : integer returns boolean x : boolean; _, UW, A, nk3 : integer; I, I4, NI : boolean; ze, c : boolean; when case not 22 : pop 16600 end otherwise : chillax end; let gRe0a = 05400 = 2 end main : F96 : integer array; let bc = not d14 end

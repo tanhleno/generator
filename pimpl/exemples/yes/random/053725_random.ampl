@@ -1,0 +1,1 @@
+program cf : k : takes Z : integer array; K4, Ra, f, o : boolean array returns nothing while - (3) and 4 : let Z[58] = array 4; when case 6 : chillax end end end main : g4C, R, h34 : integer array; l : boolean; when case - true / (275) / true + r9Y and false or false and 78 > m + D and 997 + 0 : do PH4a(- 478 /= 05600, 9, 095, 1); output "9(\"a" . 23 end end

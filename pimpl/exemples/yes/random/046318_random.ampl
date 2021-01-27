@@ -1,0 +1,1 @@
+program A1Yaa : yV : takes e : boolean returns boolean input rX end F : takes _x : integer; c_, Z30a, D2, u : boolean; j8 : boolean; nh : boolean array; Q1, i : integer returns nothing chillax end main : pop - (1); while - 5 : pop 7 end end

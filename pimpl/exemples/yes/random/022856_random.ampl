@@ -1,0 +1,1 @@
+program q6C : y : takes Xy80, k : boolean returns boolean array chillax end g9O0a : takes fwm, hd70a : boolean returns integer chillax end O : takes L99, RbV0a : boolean returns boolean array X : boolean array; kHE0a, s : boolean; S : boolean; S4 : boolean; chillax end main : C : integer; chillax end

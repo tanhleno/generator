@@ -1,0 +1,1 @@
+program i : c6 : takes AB : boolean; I7, R61 : integer returns nothing oj20a, lJ5a : integer array; while - 6 : while 9 : chillax end end; input l end main : PV5, O, n, _ : integer array; Gi7 : integer; chillax end

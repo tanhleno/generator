@@ -1,0 +1,1 @@
+program m16 : DC : takes e, X, UR : boolean; Y, o, B7, I : boolean array; Z : integer returns nothing if : boolean; chillax end main : o0 : integer array; when case - not not(5) < - N4 : chillax end; pop end

@@ -1,0 +1,1 @@
+program cp : U : takes a, D, v7 : boolean array; s : boolean; x, D : integer array; Kj00, p60, C, Q : boolean returns nothing c0, U97, I, j : integer; do f6(- (26300)); output 843 = 04 . "" . 26600 end main : chillax end

@@ -1,0 +1,1 @@
+program zG70 : zjP : takes b4ja, zSB0a : integer returns nothing I : boolean array; pop; while - 0 >= 9 : input r5; when case 0 : chillax end end end s87 : takes d7 : integer array returns boolean chillax end main : chillax end

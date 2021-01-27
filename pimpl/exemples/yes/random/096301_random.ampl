@@ -1,0 +1,1 @@
+program Sf : main : when case - not true * not(9) / (8) and 97 + 2950 / true : when case 45 : chillax end otherwise : chillax end; when case 00 : chillax end; input a06[219]; when case 6 : chillax end end case true and not 7 and 1 + 56 or 6 - 693 : chillax end otherwise : chillax end; pop end

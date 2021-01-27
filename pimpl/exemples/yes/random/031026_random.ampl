@@ -1,0 +1,1 @@
+program Hz7 : j21 : takes k, c7 : integer array returns nothing let O[90 or 0 - 4] = 87800 - 86; output 0570 . "" . "" . "00!a" end O : takes S3D0a, F4, L : integer; P6 : boolean returns integer M, L280 : boolean; chillax end main : when case - false * true : chillax end; output "\t4!a" end

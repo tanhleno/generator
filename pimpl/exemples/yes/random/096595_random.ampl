@@ -1,0 +1,1 @@
+program gI2 : main : when case - true / not false > true or true or 07 - 72 : chillax end case - false * (328) + (4) : input h1o end case - (5) and 4 : chillax end otherwise : chillax end; do p7(5 or(5) and 45, N, - 26, 24 = 67, 94); let y[- not 9] = - 8; pop end

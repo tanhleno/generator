@@ -1,0 +1,1 @@
+program Nh70 : e : takes D : boolean array returns boolean q, on6, c : boolean array; chillax end Ma : takes Yv, f, ZF, H, B : boolean array returns boolean u, Z : boolean; y, UR6 : integer; uwI0 : boolean; UEu0a : boolean; L1b : boolean; chillax end main : h : boolean; do i(- 2 rem true, (50)); output 51 and 3 - 887 - 4 end

@@ -1,0 +1,1 @@
+program b09aa : i7 : takes b1I0 : integer array returns integer R : boolean array; Z : boolean array; Q7, f7 : boolean array; w, c1w : boolean; Z : boolean; M : boolean; chillax end main : output "YR0"; pop; do xN(l and 0640 - 3610) end

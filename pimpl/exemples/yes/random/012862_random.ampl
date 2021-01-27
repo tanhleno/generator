@@ -1,0 +1,1 @@
+program j : BR : takes I7N0, C, Q : integer; l, Mp : boolean array; m29 : integer; t : integer returns nothing chillax end s : takes i, L1, d : integer array; p35, Io, p29a, UEz, Q, g : integer array; h63 : boolean; T : boolean; h : boolean array returns boolean chillax end main : do HG3(- 072) end

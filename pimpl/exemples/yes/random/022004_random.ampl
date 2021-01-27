@@ -1,0 +1,1 @@
+program s : l : takes Sr, z : boolean array returns nothing chillax end main : L, b : integer array; Y_, Y08, f97a : boolean; NuU, b010a, K : boolean array; let gTUa = (1) and false and 8; let c0[- true - t or 2] = array - 3 / false and 2 or false; let y[- M1U0a or 96500] = array not 0 end

@@ -1,0 +1,1 @@
+program M : Ny : takes tS : integer; j : boolean; e4, Mkj0a, S : boolean array returns nothing Yo, m5 : boolean array; i, h : integer array; S7, z, S0b : boolean array; Le, xcP0a : boolean; pAk0a : boolean; X : boolean; do h(8 and 5 or 598 > - 435, - 39 - 261 > 8850) end main : x6, OtQ : boolean; chillax end

@@ -1,0 +1,1 @@
+program xAY0 : main : j : integer; bP : integer array; H0r, T : boolean; B : integer array; n, h94a : integer; when case(75 = 7) : while - 63 - 7 : output "\"b!"; when case 4 : chillax end end; pop 6 end otherwise : pop 2 end end

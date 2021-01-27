@@ -1,0 +1,1 @@
+program B2I : main : when case 1 rem true /= - 9890 : while 5 - 2 : when case 26 : chillax end; pop end end case - (170) + true and 7 = - R and 113 : chillax end case - false > 0 - 2590 : chillax end case 0 >= 3 : let R = 1 end; while(6) - true and 1 : chillax end end

@@ -1,0 +1,1 @@
+program z : l : takes D, j5 : integer array returns boolean chillax end main : when case - false + 1 and not 458 - true or 326 - 7 : output 4 = 1 . "" . "["; pop; let u = 6; input X2; do X(550) end case - true > - m - 6 - 540 : chillax end case true and 148 - 291 /= - 5 - 5 : chillax end otherwise : input X; pop; let a = 278; when case 7 : chillax end; pop end end

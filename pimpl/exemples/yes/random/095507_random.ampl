@@ -1,0 +1,1 @@
+program K : main : when case(75800 = 8250) >= false + true : when case 4 : chillax end otherwise : let P5z0a = 80; pop end end case not f and true - not 38 and 01 - 7 - 9760 <= - not 40 - 22 - 59 : chillax end case - 05 : chillax end otherwise : output 98 . 96 end end

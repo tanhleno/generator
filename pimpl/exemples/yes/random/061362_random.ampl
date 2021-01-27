@@ -1,0 +1,1 @@
+program I : m : takes r : integer array returns nothing output - 6 - 7; while 1 - 8 /= 2 : while 41100 : chillax end; when case 8 : chillax end; pop end; when case 6 : when case 615 : chillax end; pop end; while 9620 : pop end; let d = 50 end main : chillax end

@@ -1,0 +1,1 @@
+program x : main : h : integer array; g, _7H0 : boolean array; when case not 837 + true : when case - 3070 > 8 : chillax end case 7 = 6 : output ""; pop end end case true and false or(5) or 4 : chillax end case false = 9 : chillax end end

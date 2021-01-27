@@ -1,0 +1,1 @@
+program GT : A : takes DXE : integer returns integer array input M[(46) or 87600] end K_M : takes cmxaa : boolean array returns nothing do r(961 - 3); input b[978]; while 501 : chillax end; output ""; let w = 7; pop end main : chillax end

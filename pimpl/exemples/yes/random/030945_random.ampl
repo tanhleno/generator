@@ -1,0 +1,1 @@
+program c5 : _v3 : takes W, m : integer array returns nothing xRa : integer array; IGG : integer array; chillax end main : when case - qlvaa[8] / not 424 + 401 * true >= b20aa - false - 1 - 7 : do Kx(- 3 - 5700 < 7); output 3040 . "9" . "" end end

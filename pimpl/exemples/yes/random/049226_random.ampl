@@ -1,0 +1,1 @@
+program Xj7 : g5 : takes L : boolean returns nothing while true and 72 /= 24 : pop 75500; when case 8 : chillax end end; let W = array - 5 end e : takes O7 : boolean; r : boolean array returns nothing chillax end main : Eg : integer; chillax end

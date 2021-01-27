@@ -1,0 +1,1 @@
+program ic : main : pLDa : boolean; do R(2 / true rem(3) and 92); do zA(- 7); pop; when case 6 - 728 : pop; output "!\n" end case 12 = 084 : when case 172 : chillax end end case 771 : pop end case 7830 : chillax end otherwise : when case 356 : chillax end end end

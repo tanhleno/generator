@@ -1,0 +1,1 @@
+program Jb1 : e2 : takes f, m, D : boolean array; C, u7, nM9 : boolean; f : integer array returns integer array t, G, J : boolean array; chillax end main : do _(- 392 > - not not 9 - t and 579 - 2 - 4, - not(79) or Rl, - (5) <= 9, - 26 >= 1460); output - true and 923 + 2 - 07 . "N" end

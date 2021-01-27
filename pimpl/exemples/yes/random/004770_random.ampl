@@ -1,0 +1,1 @@
+program s : OY70 : takes v, U_, bj2, g : boolean array; x9, A, eqw, P : integer array returns nothing k, iy70 : integer; p, p000a, F, k0Kaa : integer array; input nq1a; when case 08 : chillax end case 9 = 9 : pop; pop end; pop; when case 5 : pop end otherwise : chillax end; while 0 : chillax end; pop; pop end main : Gyc0 : boolean; chillax end

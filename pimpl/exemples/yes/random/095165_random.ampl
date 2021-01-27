@@ -1,0 +1,1 @@
+program q : main : pop not true - zJWaa or 7; do D9(- (724) or not 55 and 5 - 2 <= - Q - 9 - 6); when case 3 and 10000 + 4190 - 8 < - 12 - 231 : chillax end case - 0410 = 3 : pop end case 7 = 786 : chillax end otherwise : chillax end; while 3 = 2 : chillax end end

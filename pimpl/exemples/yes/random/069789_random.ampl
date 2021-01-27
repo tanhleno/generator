@@ -1,0 +1,1 @@
+program Y : main : k94, n, N, n5 : boolean array; EP4, P6C : boolean; od, B7K0, V3S0 : integer array; input X; input s0c[false]; output "" . "" . 4 . "\\8\"a"; do VB(097 - 5, 8 = 9); let C8 = array 2; when case 5 : chillax end otherwise : chillax end end

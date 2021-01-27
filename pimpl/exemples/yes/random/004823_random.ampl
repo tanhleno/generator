@@ -1,0 +1,1 @@
+program f : Z : takes KZX, r, gl9, oi50a : boolean array; w, m6, d1 : integer array; x, q8 : boolean returns nothing when case - (4) or 80 >= 27 - 0 : chillax end; input R09[1]; do Ny(0 = 10200, 0, 4) end i : takes K, b7_0, z66 : boolean array; S1Y0a : boolean array returns integer chillax end main : n47aa : integer; chillax end

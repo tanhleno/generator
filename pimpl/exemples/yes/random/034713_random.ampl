@@ -1,0 +1,1 @@
+program tg : Zr : takes P : boolean; o, e : boolean returns nothing j, P : integer array; C07, npHa : boolean; chillax end main : K : boolean array; W1 : boolean; let m9g0[551 / not 39 rem(749) + s37 * true and 6] = - 2 - true and 9 >= (00100); input eb8; output "e\\!" end

@@ -1,0 +1,1 @@
+program B0Xa : main : while Z(0890, 0) * UN(77) * true and 17 /= (347) and false : chillax end; when case - Z99[7] and not 2 or(5) and 9 >= - false and 93 : output "5" end case z and 8 : output 3 . ""; output ""; do wCTa(4); pop end case - 6 - 726 < 20 : chillax end case 1 : while 47 : chillax end; pop end otherwise : when case 749 : chillax end case 94 : chillax end end end

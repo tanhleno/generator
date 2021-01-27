@@ -1,0 +1,1 @@
+program F : main : p6 : boolean; Q6, b1 : integer; p : integer array; R : boolean; j, T15, b : integer; I : boolean; while(0 = 1) + true / x05 + Qa or 425 : pop; input on9[1]; pop 9 end; while 72 / true /= not 10 and 22 : pop end; when case false and 8 <= 9 - 7 : do a4(8); output "3Xaa" end case - 974 - 7 : do n(1); let _ = 5; pop end otherwise : do L3(6) end end

@@ -1,0 +1,1 @@
+program s : y7z : takes P07 : integer returns integer let E = array x and 812 - 1 - 6 end M : takes Lk : integer returns boolean f : boolean; aSZ, e, Fg7 : boolean; pop; while 31 : when case 2 : chillax end; pop end end main : chillax end

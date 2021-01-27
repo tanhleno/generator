@@ -1,0 +1,1 @@
+program Ir : d : takes N : boolean array; D, V : boolean; FeM : boolean array returns nothing let W[true] = array 03 and 0990 - 8 - 97; output 91; while 0 : chillax end; while 4040 : pop end; output "g"; do c(7); pop end main : d : boolean; chillax end

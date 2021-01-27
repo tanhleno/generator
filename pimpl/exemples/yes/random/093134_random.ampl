@@ -1,0 +1,1 @@
+program a : main : output "" . "2\\0a" . - 7 - 0 = 9 . "" . 4090; do E(- 1 * true - 86 and 0 or 1 > - 9 and 93); when case - 74 + 2 : chillax end otherwise : chillax end; when case - 6 /= 8 : pop; input Y; pop end; output "X"; let o = 95300; do s(024) end

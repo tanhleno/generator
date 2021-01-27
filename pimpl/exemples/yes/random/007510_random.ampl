@@ -1,0 +1,1 @@
+program A4 : f : takes GKn, tEk, ve, iIa : integer array returns integer array chillax end main : X, hPPaa, F : integer; _, X : boolean array; do r(true + true * (6) + (597) + 01600 = 0, - true / 8 or false and 63 - 7 - 95, eJSaa and 6 > 4 - 1, - 6 - 5, 20); pop; output - 985 - 85; output 3 end

@@ -1,0 +1,1 @@
+program D : p7 : takes f08aa : integer array; U : boolean array; XB : integer returns integer array Z, X5, G81 : boolean array; D, h : integer; c9 : boolean array; P4 : boolean; BK6 : boolean; chillax end main : let i[- 18] = array 0 + 21 or(7) and 82 end

@@ -1,0 +1,1 @@
+program R : main : s : integer; di2 : boolean array; W : integer; while - (9 = 08) /= - 3 / false : chillax end; when case true <= true and 24 : input a[024]; when case 5 : pop end otherwise : chillax end; pop end otherwise : output 18800; input Ak6; input b; pop end; output "" . "&" end

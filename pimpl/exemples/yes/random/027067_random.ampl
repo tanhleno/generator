@@ -1,0 +1,1 @@
+program q : Y14a : takes z, XJ9 : integer array; C92, H, s460, G, WZ, i550a : integer array returns nothing mn : boolean; m, P050, hC4, M5Ra : boolean; Z, h, V : boolean; chillax end main : qh : integer; chillax end

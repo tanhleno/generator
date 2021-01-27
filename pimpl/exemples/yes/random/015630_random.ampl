@@ -1,0 +1,1 @@
+program go00a : w78 : takes F, F, xq : integer array returns nothing while not 59 <= 0 - 77300 : chillax end; when case 1 - 03200 < 17 : chillax end case 83 : while 08 : chillax end; pop end case 3990 : chillax end case 2 : chillax end end main : do Ae7aa((5 = 7) rem a0[6]); pop - 5 and 71 or 4 - 5; input k[- false - 75]; output 28 . "\\" end

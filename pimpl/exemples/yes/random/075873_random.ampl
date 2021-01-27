@@ -1,0 +1,1 @@
+program S8 : main : v, vZ : integer; pM60, T, Q, N9, Z, mx : integer array; hkm0 : integer; e5, lD, PP, a1O : boolean array; let z2 = - false and f and 5990 >= - nm0; do Fb0aa(- false or true, not 2 and 3 - 97); output "{l" . 7 end

@@ -1,0 +1,1 @@
+program D : Q : takes Q, G6, q, F : integer array returns nothing U, ECM, WEt0a, c, b04 : integer array; pop 05 end main : x, c2r, n : boolean array; output ""; let MCJ = false or 8 - 9 <= 2; pop - 8 - 91 >= 71 end

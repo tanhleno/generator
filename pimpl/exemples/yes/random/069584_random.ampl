@@ -1,0 +1,1 @@
+program l : main : S, V, q, P : boolean; n8l : integer array; output - true < 2 and 44 + 47 . "a1" . 7 - 9 /= 9; when case - 102 = false : when case 3 = 566 : chillax end case 28 : chillax end; input r31aa end end

@@ -1,0 +1,1 @@
+program y0F : R : takes k, A : boolean; C, L : integer; um7, a : boolean returns nothing f : integer; B, NZA0 : integer array; chillax end x : takes kK, y0m, K : boolean; p5, c, a : boolean returns boolean array gu : boolean; chillax end main : output 39600 > (730) and 05 - 1 . "~" . - 4 - 849 >= 8 end

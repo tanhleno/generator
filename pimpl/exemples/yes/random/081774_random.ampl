@@ -1,0 +1,1 @@
+program H : main : p : boolean array; FJ : boolean array; HgE : integer; A, UZ : integer; u41, J : boolean array; x, kQ4 : boolean; a : boolean; do c(t[03], - true and(31) and 1 or false >= - false and 75600, - true and 3) end

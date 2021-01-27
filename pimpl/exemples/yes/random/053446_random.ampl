@@ -1,0 +1,1 @@
+program d49 : s : takes VC : integer array; rK, l, Y, K, R, b : boolean array; Q : integer; Hz, at90a, M : integer; R6, X120, c8, l83 : boolean returns integer array iZ : boolean; TF, t, s, v0I : boolean; chillax end main : k : boolean array; chillax end

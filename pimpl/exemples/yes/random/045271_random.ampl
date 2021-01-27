@@ -1,0 +1,1 @@
+program K6 : _XN : takes SP0a : boolean array returns nothing when case 161 and 515 : chillax end case - 61 > 09600 : chillax end case 931 : while 3810 : chillax end; pop end case 7 : chillax end case 8 : chillax end otherwise : chillax end; while 71600 - 7660 /= 6 : chillax end end main : pop - c7[3] end

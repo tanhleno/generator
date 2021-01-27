@@ -1,0 +1,1 @@
+program AI : M : takes D88 : integer array; M, G, WyYaa : integer array; hK : boolean array; A, t4k : integer array; h, L : integer; Wfh : integer array; DM : boolean returns nothing chillax end main : Mc3, O : integer array; chillax end

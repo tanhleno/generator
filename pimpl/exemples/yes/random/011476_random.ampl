@@ -1,0 +1,1 @@
+program K : H : takes _9, Fb9, u4D0 : boolean array returns nothing output "0"; while - 5 >= 5 : chillax end; let K0[8] = 5 end Q9_a : takes Q, p : integer array returns boolean input I end main : chillax end

@@ -1,0 +1,1 @@
+program e : Qi : takes fc7, T : integer array returns integer array while - (80) and 174 + 90 : chillax end; pop 13; do A(1); output 245 . "S;!" end main : R, AJ6, i : integer array; output - m or false . "" . "\\" . "" . "#\"\"" . 1 . ""; do _(68600, - 952 - 000 - 46800) end

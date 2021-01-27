@@ -1,0 +1,1 @@
+program Zj7 : T : takes pP : boolean returns nothing Yi, c, B, X6p : integer; b5 : boolean; R7, E : integer array; pop 474 - 033 > 5 end D46aa : takes H, V : integer returns nothing chillax end G : takes Z : boolean returns boolean array i3 : boolean; chillax end cn : takes gE : boolean array returns integer urj : boolean; output "\"7\"a" end main : chillax end

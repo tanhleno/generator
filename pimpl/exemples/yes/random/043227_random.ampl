@@ -1,0 +1,1 @@
+program C3 : E : takes X : boolean array returns integer d1m : integer; R, o : boolean array; pop; let v = 600; let re[5] = 5 end main : when case(5) : chillax end otherwise : output 5 . "" end; while true : chillax end end

@@ -1,0 +1,1 @@
+program Kd : F5 : takes p, p : boolean returns nothing while J = - 439 : chillax end end main : when case - false / (9) / 0 or true / fv and 8660 : chillax end otherwise : chillax end; while - 5 / false and 11 = - false : input D; do V(4, 0) end; when case - false and 0 + 9 - 52 : chillax end case - 66 /= 6 : chillax end case 5 : chillax end; let U8P = array 3 - 513 end

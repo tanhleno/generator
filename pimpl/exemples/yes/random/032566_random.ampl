@@ -1,0 +1,1 @@
+program S1 : y : takes U, WyC0a : integer returns nothing p, Z, bJ : integer; output - 3 - 605 = 3590 end ts : takes K : integer returns nothing while - 665 /= 53 : while 0 : chillax end end end main : mo8, nG : boolean array; input a850a[- true / CR[2]]; pop - 5 - 9 end

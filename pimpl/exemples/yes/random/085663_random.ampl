@@ -1,0 +1,1 @@
+program N : main : p : integer array; _, r5Vaa, a4K0a, ys : boolean; Fw80 : integer; u24aa : integer; S : boolean; o7, M : boolean; input n0saa[- not 251 rem false / (0) or v[9]]; while o[67] rem not 743 or v8 and 03 + 9 = - y and 66200 + 630 : chillax end end

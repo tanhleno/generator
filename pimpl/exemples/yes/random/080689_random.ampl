@@ -1,0 +1,1 @@
+program V31 : main : B : boolean array; do t(- true, - 4150 rem 27 < q and 1 + 8350, not 47 and 14600); let W[- true] = array true; output 5090 /= 62 . 81 = 189 . "" . 9 . "O"; do d(2, 10 = 69); pop; when case 8 : pop end otherwise : chillax end end

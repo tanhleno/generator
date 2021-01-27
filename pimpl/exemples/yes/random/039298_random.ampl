@@ -1,0 +1,1 @@
+program Ggj : v : takes Zwha : boolean array; v, Q : integer array returns nothing chillax end main : a390 : integer; gW : boolean array; k, lS, X : boolean; wP, X, z, O : boolean array; when case - not(86800) + (091) * (476) > - true + not 8 and 1 - 6 : do qx(7 - 35) end otherwise : pop; while 74 : chillax end; pop; output "\\"; pop end end

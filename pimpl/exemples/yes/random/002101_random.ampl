@@ -1,0 +1,1 @@
+program Um : z : takes K, b, J_0, yrz, aRda, ec : integer returns nothing when case n - 78 - 5100 : let B = array 8 end end L : takes bN9aa : boolean; b : integer returns boolean g, p : boolean array; pop end main : chillax end

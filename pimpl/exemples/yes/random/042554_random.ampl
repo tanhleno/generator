@@ -1,0 +1,1 @@
+program P6r0 : h : takes _28 : boolean array returns integer array z, G, Q : boolean; s0g, L : boolean array; A, p : integer; z, e : boolean; PjNaa : boolean; u5U : boolean; chillax end main : output "8"; output "" end

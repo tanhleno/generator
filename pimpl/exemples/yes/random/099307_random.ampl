@@ -1,0 +1,1 @@
+program X : main : while x31 - H[8] rem not 5 and 9 : let OaR[- 68] = 4 = 6 end; do WZ50a(- true - not 0170 and 37 + 7 > - false or 2); do xl20(- true and 8 or 21, - 9, 6, 3); do v84aa(- 93 - 5 /= 39, 3 = 7690); while 83900 : when case 2 : chillax end end end

@@ -1,0 +1,1 @@
+program E02 : h : takes Iq : integer array; e, l, J, J9, n, O9 : boolean returns integer array pop - 64 <= 5; when case - 4 > 48 : chillax end case 905 : while 2 : chillax end end end main : chillax end

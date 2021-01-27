@@ -1,0 +1,1 @@
+program q52aa : ig : takes j : boolean; a : boolean array returns integer array Lz : integer; while true and 9 + 8 < - 46700 - 590 : chillax end; pop 0 = 12; when case 54000 : chillax end; do e(1, 32); when case 332 : chillax end end main : L : boolean array; output - true * 7 and 05 . "\\" . "" . 96 . "" . 7 . "" end

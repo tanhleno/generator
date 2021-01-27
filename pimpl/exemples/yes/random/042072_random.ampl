@@ -1,0 +1,1 @@
+program b5 : Ml : takes T : boolean array returns boolean d, ef30a, g6, jc : integer; Gby, U0 : boolean array; chillax end main : while - not false and not 75200 and false and 9 : when case 2 - 6 /= 72 : chillax end end; input bT[- true * (2) and 97]; while - D = - 0 - 08 : input b7[0] end end

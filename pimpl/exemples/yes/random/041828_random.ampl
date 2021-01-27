@@ -1,0 +1,1 @@
+program I : D : takes WX : boolean array returns boolean array let w[- bw - 1340] = - 0; do Enq(94300 - 733 >= 2240); let J = 4400; while 9 : chillax end end main : while(3 = 4) / not 3800 + false and true and 4 : chillax end end

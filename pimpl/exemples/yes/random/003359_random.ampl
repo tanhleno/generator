@@ -1,0 +1,1 @@
+program DD1 : v : takes U, K, M, fRw, rC : integer; D : integer returns boolean array V : integer; Y75, Ia30, d, I : boolean; do K08a(m and 6 - 85 - 9 /= - 4490) end main : H330 : integer array; YJ : boolean; let wY[(50 = 21) - 8310 and true and 7] = array 5 end

@@ -1,0 +1,1 @@
+program e : p : takes q, l, OC6, a88, e, W : integer array returns integer array chillax end main : when case - true >= - (5) rem(05) : do w(- 6 = 96); while 481 : input vm90; pop end; when case 2 : chillax end otherwise : chillax end; do Iw1(77); do LPV(7); pop end otherwise : input CAaa; let L[7] = 68; while 1 : chillax end end end

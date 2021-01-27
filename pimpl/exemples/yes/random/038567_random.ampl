@@ -1,0 +1,1 @@
+program i : Q : takes kz2 : boolean array; G, s : boolean; Z : integer array returns nothing pop 5 - 74 = 065; input w; pop end wE10a : takes y6A0, V, r, D : integer array returns boolean array chillax end main : pop; do _(- (90) / false > - 124 and 22); do a(- c and 3 <= - 73); while - 952 - 3 : chillax end end

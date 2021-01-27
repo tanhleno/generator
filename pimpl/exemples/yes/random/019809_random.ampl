@@ -1,0 +1,1 @@
+program uT : SA : takes MM6, c : boolean array; TJ9 : boolean array; w, A, I, Kx, P9 : boolean returns integer k : integer; P : boolean; pop 3 - 44 end N : takes im7, Y : boolean; q16a, Q, uP6a : boolean returns nothing chillax end G6 : takes _ : boolean array returns nothing I540a : boolean; J, H50 : boolean; Si : boolean; chillax end main : input P[U3e(6) * (89)] end

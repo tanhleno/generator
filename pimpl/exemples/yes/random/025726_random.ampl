@@ -1,0 +1,1 @@
+program S9Naa : Ik : takes v2, md : integer; Y5, s : integer; x : boolean; G, y3Z : integer array returns nothing Dq1 : boolean; T1na : integer array; _ : integer; chillax end D : takes O, a, _ : boolean returns nothing s88 : boolean; s : integer; input G end main : t, m, Pa4 : integer array; chillax end

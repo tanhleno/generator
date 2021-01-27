@@ -1,0 +1,1 @@
+program T6I0 : main : D3 : boolean; S9b0 : integer array; Z, d2, j, VK : integer array; y : integer; when case - true / not 5 or 1 rem true - false and 421 or 1 - 4 < - 808 and 7 and 6 : chillax end case v(4) < - 2 and 8 or 96 : pop 56 end; input B92a; while not 6 or 8 : chillax end end

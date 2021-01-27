@@ -1,0 +1,1 @@
+program H5 : f33a : takes w1 : integer array returns nothing HR, _ : integer; chillax end y9n : takes eB : integer returns nothing V, e5ea, B, _ : boolean array; J, KZo0, D : boolean array; output 6 . 7 . 38; output 250 . 2 end main : when case false - false * 939 + (7430) and 740 or 600 : do yz(- 0, 434, 6) end otherwise : while 93 = 41 : let m = 23; pop end end end

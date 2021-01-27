@@ -1,0 +1,1 @@
+program V : EwEa : takes E : integer array returns integer V : integer; V7 : boolean array; let p0[false and 03 or 879] = - 24 - 2 < 0; while - 6 : do Q(29) end end G : takes L : boolean; l : integer returns boolean R, D, W, L : boolean array; chillax end main : chillax end

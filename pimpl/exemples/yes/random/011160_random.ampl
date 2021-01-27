@@ -1,0 +1,1 @@
+program O : v320 : takes zE3, i, NO7 : boolean array returns nothing F, HL, Sk, g5 : boolean; while - (955) - 7 : chillax end; output 8 = 9; while 2 = 9 : pop end; while 7 : chillax end; pop; input S1r end main : chillax end

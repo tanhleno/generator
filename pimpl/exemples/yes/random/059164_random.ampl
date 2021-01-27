@@ -1,0 +1,1 @@
+program e : s : takes L : integer array returns integer chillax end main : r96, i5L : boolean; w1, y1 : boolean array; H, j670a, D0v : integer; while - true * 40 and not 5 < - 4 : let u[1 - 2] = array 0 - 3290 end; while(2) and not 1 : while 76 : pop; pop end; while 7720 : pop end end end

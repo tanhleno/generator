@@ -1,0 +1,1 @@
+program q : E : takes bg9 : boolean array; y : boolean array returns boolean array T, T1j, M, m, H : boolean; chillax end main : a, l, O7 : boolean; IJ2 : boolean; let S = array 3 + 862; let s = array - (68); output 50 <= 3 . 73500 . "" end

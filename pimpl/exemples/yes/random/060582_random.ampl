@@ -1,0 +1,1 @@
+program ap7 : yeK : takes og : integer array returns nothing v, B : integer; chillax end main : D, h, i, o : integer array; l8D0a : boolean; do O0f(- not(9) rem false or(8) / not 0 - true >= - e380(0) and false or not 1710 and 01) end

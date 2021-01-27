@@ -1,0 +1,1 @@
+program ofQa : v : takes Hal : boolean array; a, _T : integer array returns integer A, o5, v, F, J : integer; while not 70 and 255 + 9 : do MB(85000, 6) end end main : output "" . Lw and 762 + 86 - 40 . - 2 - 1 = 74; while - false or(40) + 897 - 0 : do E(1); do n(08, 02) end; input s; pop 6; output "" end

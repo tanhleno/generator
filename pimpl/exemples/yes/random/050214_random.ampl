@@ -1,0 +1,1 @@
+program NGWaa : V : takes hpN0a : integer; Qb, Y7, O : integer returns boolean array while 9 and 51700 /= - 79 : chillax end; let l = 4; input b end main : p : boolean array; when case - G[7360] = - true * true and 02 : chillax end case - x / true and 8 : chillax end case - true and 81 : chillax end case - 4 - 0 : chillax end; input L[- (229) - false and 5 + 44]; pop end

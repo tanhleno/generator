@@ -1,0 +1,1 @@
+program nW : BM : takes U6, P, s, y880, W, t : boolean returns integer array B6, s4P : integer; T42aa : integer array; do v(- true and 4 or 28300 /= - 0, - 2 - 30100, 4); pop end hh : takes c, OM : boolean array returns nothing pc : boolean; chillax end main : r : boolean; let Z = array 3 and not(8) and true and 3 - P(3) rem not 3 and 3 end

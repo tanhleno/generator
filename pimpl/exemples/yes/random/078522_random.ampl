@@ -1,0 +1,1 @@
+program i6 : main : UI : boolean; FY5aa, C, ER, n : integer; fH, f_y, n, a4 : integer array; X, C, Sx8 : boolean array; pop - 7 * true and 78; when case false * not 011 and 06 or(2) and 10 : chillax end case - false and 96 or 5 - 91 : chillax end otherwise : do i1F(18); pop; do S(42) end; output 97 . "" . "" end

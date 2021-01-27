@@ -1,0 +1,1 @@
+program dI4 : seN : takes g, bx_, v34a : integer; Lhe0, j6Y : boolean array; N, P : integer array; j87aa, n, f : integer array returns nothing U : integer; J : boolean array; when case(661) : let C = 5; pop end case 700 /= 91 : chillax end; input UZF; when case 49 = 280 : do n(2) end end main : input _73[- eE7 / (2) - 642 / true and 5] end

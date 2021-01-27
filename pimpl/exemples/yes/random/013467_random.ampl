@@ -1,0 +1,1 @@
+program H8G0a : L1Zaa : takes b1, s, d : integer; na : integer array; i : boolean returns nothing let G[not 8 + 33 - 5] = array 503 and 897; while - 7 : chillax end; do r39aa(0); while 69 : pop end end main : chillax end

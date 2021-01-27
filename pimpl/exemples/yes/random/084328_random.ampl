@@ -1,0 +1,1 @@
+program e : main : xG : integer; V2b : integer; d : integer array; a6, g91, p : integer; q, mz : integer; C1 : boolean; o : boolean; while - not not 6 rem u[1] and true and 7 /= ck[66700] + false : chillax end end

@@ -1,0 +1,1 @@
+program E : e2 : takes N : boolean; o : integer; X3, xD4, i7, k0, eJ : integer array; g, miY0, q4, UP : integer; G : boolean; aY : boolean returns nothing do h24(not 9 and 197 - 70); when case 27700 - 1 >= 3 : output "" end case 0 : chillax end case 28900 : pop end otherwise : output ""; pop end end main : Q, n, e, R, nj, s, S : boolean array; chillax end

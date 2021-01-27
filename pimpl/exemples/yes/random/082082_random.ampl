@@ -1,0 +1,1 @@
+program E : main : G : boolean array; FL4 : integer array; fTe0a, tM : integer; T : integer array; when case(28700 = 3) = (6) : output 96 = 7 . 72 . 4 . "" end case - true * 727 : chillax end case - true and 62 or 1180 - 436 : input e[8] end otherwise : input A; when case 89 : pop end; let T8 = 19 end end

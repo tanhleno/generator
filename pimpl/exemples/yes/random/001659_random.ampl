@@ -1,0 +1,1 @@
+program D : s0 : takes ve, j, b, uh, w, s : integer; Y : boolean; i9, O4, n, jAs0a, d : integer returns integer array S5 : integer array; Q, p91aa : integer array; input XO end A : takes Je, O : integer array returns nothing l : integer array; pop; pop; do F420a(0, 95); do L75a(606) end main : when case - S(0) / r / 9 or(75) : input xe; let G[59] = 6; do y(3) end end

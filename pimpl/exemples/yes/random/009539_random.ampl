@@ -1,0 +1,1 @@
+program RG : c : takes Pt, e, H : boolean array; QK, c72, ZF, dI, M : integer; S, g7w : integer array; oy9, u, C1, bN : boolean; H, Hr : boolean array; a9u, D3 : boolean; W, y7 : boolean; H : boolean; Y : boolean returns integer array output "" . "9" end M : takes u : boolean returns boolean array chillax end main : output false <= - l3 end

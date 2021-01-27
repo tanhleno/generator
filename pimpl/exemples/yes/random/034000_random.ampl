@@ -1,0 +1,1 @@
+program i65 : u : takes eA : boolean; o, E9, BI : integer; F, y : boolean array; K6n0 : integer array; X : integer returns nothing chillax end H32 : takes m, h : boolean array returns nothing MS6 : boolean; K, lK1aa : integer array; Q22 : boolean; pop 0 = 5 end main : p98aa, j4Y, c, Bn, L, K, MnJ : integer; N, W, y, M : boolean array; chillax end

@@ -1,0 +1,1 @@
+program mYC : K : takes L6c0, tu3aa, qp, K5t0a, hK, c, TE8aa, R : integer array; EyQ, l2m0a : integer; i, bl, d8, p77 : integer; Ez, qP, lI, e : integer returns nothing lAm, B, P, og, O : boolean array; while - true and 4 - 56 - 94 /= 296 : chillax end end main : Q, S : boolean; pop - (22) and 3 and 1 or AY6 and 5 end

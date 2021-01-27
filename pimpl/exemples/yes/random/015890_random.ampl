@@ -1,0 +1,1 @@
+program X : bh8 : takes c3w, Ff5aa, t : integer returns integer array chillax end _4 : takes Y7, r, D : integer; fs, p1 : boolean returns nothing do S(- 45 < 50); output "" . 6080 . "\\;" end main : AhTa : integer; T2, KH60a : boolean array; g : boolean; te3 : integer; T70aa : boolean array; FL : boolean; u : boolean; chillax end

@@ -1,0 +1,1 @@
+program G : aB : takes V60, X : integer array returns integer chillax end f1 : takes x : boolean returns nothing chillax end a_ : takes N : integer array; ly, B : integer returns boolean while 4 : while 2 : chillax end; pop end end main : chillax end

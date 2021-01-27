@@ -1,0 +1,1 @@
+program l : Vcb : takes o, lL : integer array; F : integer array returns boolean array x17a : boolean array; input y end t : takes y : boolean array; Hd9a : boolean returns integer array input O8[49]; while 7 : output "}\t!"; pop end end main : while(276) < - 1 : chillax end end

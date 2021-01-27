@@ -1,0 +1,1 @@
+program u : z0 : takes Y, z2O, A0Aaa, yCq0, r : integer array returns nothing chillax end main : R3, p_S0 : boolean array; while not 3 /= - (6320) or(0) and 7 or 0 - 14 : input m[- 74 - 4] end; while - (2) = - false + 4 : output 67 . 40 . "|Y0"; pop 8 end end

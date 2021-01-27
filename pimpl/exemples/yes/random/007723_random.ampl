@@ -1,0 +1,1 @@
+program m : pE6aa : takes r41, m, J, uf8a : integer array returns nothing lpA, z, O : boolean; chillax end k : takes Z, j, JS : integer; U : boolean returns nothing M : integer array; when case - 9 - 86 : chillax end otherwise : chillax end; output "\\" . ""; pop 48; while 10 : chillax end; pop end main : chillax end

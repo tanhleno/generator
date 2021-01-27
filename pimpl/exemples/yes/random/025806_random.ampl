@@ -1,0 +1,1 @@
+program WS6 : PU : takes s, _ : integer; b, q : integer array; t : boolean; C : boolean array returns nothing input M[- tL5aa and 89 or 6]; output 3 = 19000; input BaPa[6730]; output "" . ""; pop end main : chillax end

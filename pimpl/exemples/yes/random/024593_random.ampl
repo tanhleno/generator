@@ -1,0 +1,1 @@
+program q : if90 : takes Z, K : boolean returns nothing d42 : integer array; chillax end e : takes w, _A : boolean array returns nothing do kM(00 - 4 >= 2) end main : k1k : integer; do Pf(- false and h(85) and false >= - H5 and true - not 6, - true * not 1 or UGu - 635) end

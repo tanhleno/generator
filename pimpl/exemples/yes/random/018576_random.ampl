@@ -1,0 +1,1 @@
+program k1 : l : takes B60, b : boolean; A940 : integer returns nothing let M = 5 - 3 > 5 end e : takes OC : integer; eyF : integer array returns integer array l : boolean; while - 26 = 8 : while 0 : chillax end; input u end end P89 : takes vDna : boolean returns integer array do l21aa(8) end main : s4, J8, A0S, a, t0, II4, M : integer; f, h : integer array; chillax end

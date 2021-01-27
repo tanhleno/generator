@@ -1,0 +1,1 @@
+program b : z : takes JR, H, pj, n, p : integer; i3 : integer array returns nothing do wX(- 38 and 4 = - 167 - 09); let N7s[- 091 - 2] = 9; let f6[11] = 0; let m60a[5] = 628 end I : takes y : boolean array; agM : boolean returns boolean chillax end main : j2ca, K : boolean; UQ, k : boolean; chillax end

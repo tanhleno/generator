@@ -1,0 +1,1 @@
+program U3 : Ymm : takes rS3, rN, T : integer array; hl : boolean array; T8 : integer array returns nothing y, h0Da, h, a5Y : integer array; gK : boolean array; while(2) and 61 /= 76 - 88 : while 723 : pop end; let T64a = 4620 end; pop; input o0 end L : takes l : integer; dG : integer returns integer input Y end main : pop end

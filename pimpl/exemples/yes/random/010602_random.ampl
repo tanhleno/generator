@@ -1,0 +1,1 @@
+program BF6 : l : takes x, Q, D4 : boolean array returns boolean array g : integer; p9s0, E, B0V, pCI : boolean; chillax end main : _ : integer; when case - (009 = 521) rem(1) > - false and true - false - 31500 - 3 : chillax end end

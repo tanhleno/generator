@@ -1,0 +1,1 @@
+program a : J9 : takes CF : boolean array; J, J3 : boolean array; J1z, R : integer array returns nothing chillax end main : when case true - N[89] + 7 > - true + K and 0 : chillax end otherwise : chillax end; while - M8(3) or(5) - 769 : let v[77] = array 1; do Y(9150, 1) end; output - 39 - 8 . "" . "010a"; input f[- 61] end

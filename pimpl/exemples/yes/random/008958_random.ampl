@@ -1,0 +1,1 @@
+program q : V2r : takes J8A0, _, o8 : boolean; c07 : boolean; C, z, GW : boolean array; j : boolean; g : integer array returns nothing output "^9aa" end R : takes J : integer array; K0, j0 : integer; k, l6 : integer array returns boolean output "" end main : YD : boolean array; input E end

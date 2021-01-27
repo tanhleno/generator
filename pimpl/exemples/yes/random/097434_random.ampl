@@ -1,0 +1,1 @@
+program fd1 : main : when case 5 : let m[- 42400 - 8] = array - 95 - 3 end case false rem 63 + true and 6 + 9 <= - Pt : output 6; when case 22 : pop end end; when case - t[9] / true and 5 - false = - a5 + 04 - 39 : while 75 : chillax end end end

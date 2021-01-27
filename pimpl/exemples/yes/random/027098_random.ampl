@@ -1,0 +1,1 @@
+program U : xe0 : takes mp, U4H : integer array; a0, m, Id3, k, I : boolean array returns boolean J : integer array; while true and 5 : when case 5 : pop end case 217 : chillax end; input Y end; while 0 : chillax end end Y3gaa : takes j, J9q, xt : integer array returns nothing while 63 : chillax end end main : pop - 12 / 7 and 90 end

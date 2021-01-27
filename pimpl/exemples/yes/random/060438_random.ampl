@@ -1,0 +1,1 @@
+program qh : t1 : takes M : integer array returns nothing eF, nU, iw : integer array; when case(6310) : chillax end case 99300 >= 294 : chillax end case 1 : pop end end main : h1Ha, W : boolean; J480a : boolean array; chillax end

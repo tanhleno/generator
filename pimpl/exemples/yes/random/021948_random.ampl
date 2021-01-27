@@ -1,0 +1,1 @@
+program j : g13 : takes PK, O : boolean array returns nothing chillax end Z88 : takes S : integer array; _ : integer; _b : integer array returns boolean array chillax end main : when case - true / not(0) + O[5] rem l or I7E and 9 : pop 59 = 8 end end

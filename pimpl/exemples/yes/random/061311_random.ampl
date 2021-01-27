@@ -1,0 +1,1 @@
+program G : k : takes g00 : integer array returns nothing let S[- (7)] = array not 3 and 8 - 7 end N : takes sU7 : boolean; K : integer array; e : integer array returns integer array r : boolean array; T : boolean; n, SI : boolean; xs2 : boolean; q : boolean; chillax end main : chillax end

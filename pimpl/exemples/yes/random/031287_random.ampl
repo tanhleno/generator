@@ -1,0 +1,1 @@
+program j : m : takes v, p : integer returns boolean array v84, v : integer; chillax end p : takes D2 : integer array; G88, Z5 : integer array; Y : boolean; Hbwaa : boolean array; iK : integer array returns nothing do M(- 9 - 7020) end l26 : takes d2 : boolean; D7, T, e_N : boolean array; ueW0 : boolean array returns integer array T : boolean; chillax end main : chillax end

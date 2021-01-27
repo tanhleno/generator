@@ -1,0 +1,1 @@
+program A : b : takes E9 : integer; Q : boolean array returns integer array do kz(7 and 08 > 8 - 26) end main : G, D, I, pd1, BB0aa, l, x : integer; while - not false = (1) and not 32 or false and 3 : chillax end; do nl(not true) end

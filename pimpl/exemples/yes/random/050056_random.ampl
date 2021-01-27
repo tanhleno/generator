@@ -1,0 +1,1 @@
+program q : v22 : takes c : integer; lSD, Bz, K : integer; ME : boolean array returns integer while 72700 + 50 - 11 : chillax end end n76a : takes E, m8 : integer; HFA0 : boolean array; e, T : boolean array; fkNa : integer array returns integer array Z, D : integer array; chillax end main : chillax end

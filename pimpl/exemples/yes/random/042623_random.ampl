@@ -1,0 +1,1 @@
+program X : m42a : takes f69 : boolean array returns integer array w5, O : boolean array; pop end main : d74aa, g : boolean array; output - C0 and q43 - true + 34 - 9; when case - false * false <= true - 381 - 8 : chillax end case(99) /= 81500 : output "p" . ""; input Nt end case - 60 - 42 <= 3520 : do Z(0) end end

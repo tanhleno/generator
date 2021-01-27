@@ -1,0 +1,1 @@
+program w : main : A, Yw : boolean; P190, rrma, KV : boolean array; let y = (94) / (0); output "2\"\""; while - (80600) and 3 : chillax end; let l[24] = array 00; while 8 = 9 : input SK5 end; input B end

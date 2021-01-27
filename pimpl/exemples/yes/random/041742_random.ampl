@@ -1,0 +1,1 @@
+program l : P77 : takes s22 : boolean array returns boolean array _X90a : integer; chillax end gS : takes f4Vaa : boolean returns nothing chillax end main : when case - 93 - (3) + not 1820 and 4 > - true / not 2 and 4 - 2 or 4 - 46 : output ""; input F6[764] end case(2) = (8) - 80 : chillax end case not 0 : chillax end end

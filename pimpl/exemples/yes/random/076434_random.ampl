@@ -1,0 +1,1 @@
+program fM : main : ek, p65 : integer; QgQ : integer; Ww50a, z3X0 : integer; F : integer array; when case - false rem p[9] and true <= (4) / true : do P(- 7) end case(3) rem h - true : do c(514, 87) end case 6 - 1 : chillax end end

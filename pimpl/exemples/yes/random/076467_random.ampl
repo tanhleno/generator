@@ -1,0 +1,1 @@
+program e : main : D7Laa, x840 : integer; X : integer; D : integer array; J, dn : boolean array; P0X0 : integer; pop - true and true and 45 >= q - 1 - 84; while - (92) rem false and 613 or not 5 and 51 : chillax end; let r[2410 and 8 + 5] = - 4 - 7 > 4; do s(- 20 > 5, 9 = 914, 6) end

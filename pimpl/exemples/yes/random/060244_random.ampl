@@ -1,0 +1,1 @@
+program t : Y8 : takes x6b0 : integer array returns nothing g78, t3, G5, P1, j1Faa : integer array; pop 24 - 304 /= 1; do d(- 9 - 8 > 3) end d : takes i, b : integer returns nothing kH : integer; let W[- 0] = array 2; input mNqa[72]; output ""; input k end main : pop false / true + true and 9 end

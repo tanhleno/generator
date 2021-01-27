@@ -1,0 +1,1 @@
+program Z : s : takes C, V : integer returns integer array c : boolean; C0d, n : boolean array; S4s0a, l : integer; do g((9) + 666 - 9540); pop 46200 = 3; when case 9 : pop end case 5 : chillax end otherwise : pop end end v5c0a : takes S : integer array returns nothing u, n : boolean; J7q, kg00, vcEa : integer array; chillax end main : chillax end

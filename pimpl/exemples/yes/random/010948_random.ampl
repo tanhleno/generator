@@ -1,0 +1,1 @@
+program Ai4 : H : takes it, n, K : boolean array returns integer y, j60 : boolean; HHraa, W : boolean array; do J0S0(- T and 40) end main : _, i8, BP2, F23aa, o, W : integer; e9, r, pBy : integer array; e1, F, pr : integer array; chillax end

@@ -1,0 +1,1 @@
+program m : main : R4d : boolean array; g_, q, el, g : boolean; when case - (7) >= - tR9(26) + R and 6 : pop; when case 173 = 600 : chillax end otherwise : chillax end end case not not 1 : while 2080 = 80500 : chillax end end case - true : output "7" end case - 3 - 1 : let M = 981; let X660a = 61; pop end; while - 8 : do Qi1(23 = 614, 7, 5); input p end end

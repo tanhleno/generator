@@ -1,0 +1,1 @@
+program pE : a : takes E : integer; x : integer array; W : integer array; P : boolean returns nothing do iV6((5) and 0) end Gd : takes Rt : integer; o : boolean; C0, z : integer array; Hp6a, J, G95 : boolean returns nothing k : boolean array; Q, G : integer; input Rf end main : chillax end

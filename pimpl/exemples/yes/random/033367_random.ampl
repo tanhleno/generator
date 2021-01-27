@@ -1,0 +1,1 @@
+program t : B76 : takes B : boolean; SD, t, S, _z10a, qua : boolean returns boolean array YP : integer array; while - 9150 and 84 : do F1A0(865) end; input P[- 77] end main : z, f9, ma10a, b, s, D910a : integer; kQ90, G, rk : integer array; chillax end

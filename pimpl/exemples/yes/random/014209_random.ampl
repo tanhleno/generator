@@ -1,0 +1,1 @@
+program Q : w : takes v, U, nay0a : integer array; q1 : boolean; SK9 : integer returns integer array while - not 24 or 9 - 3 > - 0 : input H end; while 6 - 279 >= 0 : chillax end end main : y, a, V5, e39aa, A, jM80, yRQ : integer; do JP(- false /= - not true rem y) end

@@ -1,0 +1,1 @@
+program u0E : B : takes l2R0a : boolean returns integer array let E[- true or 0] = 09 - 94 /= 2660; let hH = 94 = 6 end main : input c[false rem false]; let G[wb7a(288) or 8 and 40 + 9 - 5] = array - not K65 and D560a and 32; pop 2780 - 920 end

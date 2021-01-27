@@ -1,0 +1,1 @@
+program Ob0 : z : takes X : boolean; NAD, g0qa, msc0a : boolean array returns nothing Y, Y9Saa, TO6a, Z, Z300a : integer; pop - 5 - 78 <= 4800 end main : z3Z : boolean; s : integer array; chillax end

@@ -1,0 +1,1 @@
+program r6 : Cy : takes R4, nF, I, Ph8 : boolean; c8, i820a, v, W, g : boolean array returns integer W29 : boolean; chillax end o : takes M : integer array returns integer input l[- 994] end main : fu1 : boolean array; DwYa : boolean array; t8 : boolean; output not 09 rem false and 39 + 4 and 32 - 1 - 74 end

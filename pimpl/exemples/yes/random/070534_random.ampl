@@ -1,0 +1,1 @@
+program i : main : o, G6X0a, D4, m27 : integer array; v : boolean array; while - n5G[7] <= - false / (79) and 3710 : input p end; when case - C5(9) or bz2a and 5 < not 3 and 579 or 5 - 6830 : chillax end case 27 and 2 - 6 /= - 1 - 6 : chillax end case 04 = 7 : chillax end otherwise : chillax end; while - false or 8 < 3 - 11 : chillax end end

@@ -1,0 +1,1 @@
+program gn : GG80a : takes B : boolean array; Fz9aa, S, d1Zaa : boolean array; K, t2U, e7 : boolean array; k, nE, E, N : boolean array returns nothing d3f : integer array; chillax end HN8 : takes jt, V0 : boolean array; c, y, L, h : integer array returns boolean z24a, e, B2 : integer; input o[74] end main : E5, t : integer array; input m00 end

@@ -1,0 +1,1 @@
+program Mk : Ah : takes k, y1, In : boolean returns boolean array S, S : boolean array; chillax end I : takes T, Z2 : boolean returns boolean chillax end main : VU5 : integer array; z990, a, fb : integer array; k : boolean; wm10a, i : integer array; while 11 : chillax end; while 1 <= - true and 8 : chillax end end

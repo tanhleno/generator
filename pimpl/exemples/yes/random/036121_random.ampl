@@ -1,0 +1,1 @@
+program vU90 : D2 : takes C2 : boolean; my : boolean returns boolean array r4k0, yj, r, D : integer; when case not 13200 and 8 : chillax end case 6 <= 0 : chillax end otherwise : input ns3aa end end main : pop - 88 + not 5 + 8 - 5 < - false and 76 or 544; while(83) /= - true and 2 - 51 - 965 : pop 279; input R[72] end end

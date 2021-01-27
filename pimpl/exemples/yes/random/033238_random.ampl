@@ -1,0 +1,1 @@
+program kh4 : l : takes DX : boolean; H, m5J, s3, El, X, X2, D : integer; R5B : boolean array; h0Ea, L : integer array; DQ : boolean array returns nothing chillax end main : u900, K86 : integer; while 0 / (7) rem false and 6 /= - 789 and true : chillax end; output "" end

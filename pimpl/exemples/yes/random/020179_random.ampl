@@ -1,0 +1,1 @@
+program fS0 : J : takes v, u64aa : boolean array; soq0 : boolean returns nothing chillax end main : input T3w0; do Aq(not _r + 1 and 14100 > true, - (042) <= - 55500 - 5, 2 - 426, 02); pop; let Z = 1 = 186; input Q100[55]; input A[829]; do S(3); when case 024 : chillax end end

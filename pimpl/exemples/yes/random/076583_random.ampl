@@ -1,0 +1,1 @@
+program B_ : main : uw, iO9 : integer; K81a : integer array; while - 4 and not true * true or U and false : let w[- 84 - 6] = 1; output 1 . 6470 . "3\na" end; when case - false - false + 3 - 6 = - (198) and 810 : chillax end case - true and 982 /= - 4 - 3 : input q6[1860]; pop end; do K(- z < 1 - 1, 1 - 09 < 20600) end

@@ -1,0 +1,1 @@
+program n : _0la : takes _, JlX : boolean array returns nothing j : integer; when case false and 8 : chillax end case - 48 > 09 : chillax end end U9 : takes P : boolean returns integer Y : boolean; chillax end main : Y : integer array; chillax end

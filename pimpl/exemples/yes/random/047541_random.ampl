@@ -1,0 +1,1 @@
+program A2 : e : takes Z : boolean returns nothing chillax end L : takes Uz : boolean returns integer array u7, Z5, J : boolean array; let QY = array - 9; input WM6a[0] end A : takes P, a3c, V, D, Sk, G : integer returns nothing OT : boolean array; chillax end main : E, e_4, x : integer array; H, PE70 : boolean; let eN7aa = (9390) end

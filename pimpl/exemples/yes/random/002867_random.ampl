@@ -1,0 +1,1 @@
+program um2a : S : takes i, X1, P, Zt, t5t : boolean array returns nothing pop end main : c : boolean; output ""; let a = array - false; while - 85 and 23 <= 9 : chillax end; while - 88800 - 7 : chillax end end

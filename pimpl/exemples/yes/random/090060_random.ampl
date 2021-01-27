@@ -1,0 +1,1 @@
+program R : main : let D = array false * false / not 8; do u(- WB(1780) + true + 1 - 42600); pop 0010 - 94300; when case - 89200 /= 5 : while 78 : chillax end end otherwise : chillax end; pop 0350 end

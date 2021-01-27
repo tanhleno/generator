@@ -1,0 +1,1 @@
+program V : N : takes l6, m, p, s : integer; O : boolean; s9 : boolean; M_1 : integer; K7, x5 : boolean returns boolean v : integer; do a070(true and 39, 99 < 12); when case - 1 : output "C"; output "%\"a"; pop end end main : h : boolean; let m = array - false / (1) rem 714 and 67 or 4 - (476) or 8 - 67 end

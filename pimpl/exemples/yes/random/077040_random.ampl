@@ -1,0 +1,1 @@
+program G : main : B, UY : integer array; do G9(false + false or false); when case true rem 7 - false > - true and 11200 : while 7 = 3 : chillax end end; while r8 and 8 /= - 5 : chillax end; while 7 : chillax end; input qr[4] end

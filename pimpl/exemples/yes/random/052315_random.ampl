@@ -1,0 +1,1 @@
+program I4 : l : takes _ : integer; x99 : boolean returns nothing q : boolean array; o, g : integer array; let H = 9 - 6 > 53 end E : takes r7 : boolean array returns nothing pop 9 = 62 end main : v, o, X : integer array; chillax end

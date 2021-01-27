@@ -1,0 +1,1 @@
+program x7b : main : Z : integer array; while true and 900 + 1 / r and 36 >= false - true and 6 : while - 80100 : input Z end end; input c1a0a[23 / true or Jg7aa and 669 - 3 - 380]; do L(7 + 7 >= - 9640 - 99, - 157, 1 = 36200) end

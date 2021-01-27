@@ -1,0 +1,1 @@
+program ff8a : Lpl0 : takes P0, c : integer array returns boolean u : integer array; chillax end main : l, fG, ci : boolean array; v8U0a : boolean; C9, Q : integer; E, v : integer; t : boolean array; chillax end

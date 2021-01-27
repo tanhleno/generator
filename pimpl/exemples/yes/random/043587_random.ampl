@@ -1,0 +1,1 @@
+program I : F : takes s8K : boolean array returns nothing chillax end pI4aa : takes S : boolean array returns nothing chillax end main : let W[(35 = 8)] = - false rem false < not 4 and 59 or 49; output(81) and 4 - 3360 /= 4; when case 4 and 32 + 4 - 6 /= - 52 - 2 : chillax end case - 4 - 4 : output "" end; output ""; pop; while 873 : chillax end end

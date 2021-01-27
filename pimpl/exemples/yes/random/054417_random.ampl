@@ -1,0 +1,1 @@
+program C : _ : takes X : integer array; S, k : boolean; A1Y0a, h6Fa : integer; p, C : boolean; R3H0, zv10a, Izo0a : boolean returns nothing chillax end main : t630, k, tE, Y, Ud : integer array; input hq[F4(2, 411) and vX * 49 + 26000]; input j; while(3) and 43 < 64 : chillax end; pop 40 = 9 end

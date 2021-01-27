@@ -1,0 +1,1 @@
+program x : xJ : takes Q, e3 : boolean array; aL, e : boolean returns nothing I, WyCa, D80, Z : integer; C9, zC9a : integer array; output 92 = 2; while - 2 /= 5 : while 37400 : chillax end end; output 47 . 83600 . "S`" end B : takes j : boolean array; gX, H8W : boolean array returns nothing chillax end main : while 7 + true * R and 153 + 8 and 4 or 4 - 29 : chillax end end

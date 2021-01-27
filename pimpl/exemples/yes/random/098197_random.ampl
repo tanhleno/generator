@@ -1,0 +1,1 @@
+program o : main : while - false /= - Nzs0a(52600) rem(4) and 86 or Z : chillax end; pop; when case true and 7 : pop; output "!\\"; when case 752 : chillax end; pop end case 0 = 58300 : when case 24 : chillax end; when case 0 : chillax end end end

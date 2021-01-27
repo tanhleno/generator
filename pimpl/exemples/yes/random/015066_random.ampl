@@ -1,0 +1,1 @@
+program W : g5_ : takes S, I8fa, r : integer array returns integer cP : boolean; chillax end f : takes Y : integer returns nothing mE : boolean; chillax end B : takes p : integer; f, LL : boolean array returns nothing b : integer; pop 87200 end E : takes IX, f : boolean array returns integer array Q0, xb : boolean; chillax end main : chillax end

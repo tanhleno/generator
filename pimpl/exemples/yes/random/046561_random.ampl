@@ -1,0 +1,1 @@
+program s : m1 : takes S : boolean returns integer array T2Ga, px, f : integer; do u9P(true) end main : sm50a, wU : integer array; do a59(not not y / (1) * (1) and 41800 >= (9) / LR + not 15 + 7 - 05, (4) and 042 and 87 /= (79400) and 3 + 36 - 802); output false - 5 end

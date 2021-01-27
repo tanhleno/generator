@@ -1,0 +1,1 @@
+program k : f : takes B, X : boolean returns integer array let J1s = array not 151 end T3 : takes F : boolean array returns integer C : boolean; input qB end main : a7, z, L6 : integer array; chillax end

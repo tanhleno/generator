@@ -1,0 +1,1 @@
+program D : ZVYa : takes g, F, H : integer array returns integer m5 : boolean array; g5, F : boolean array; P, R_, L2 : integer; HK : boolean; chillax end main : c : integer array; D, D8 : boolean; Re : integer array; P, U, W, y : boolean array; chillax end

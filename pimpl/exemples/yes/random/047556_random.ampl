@@ -1,0 +1,1 @@
+program L : z : takes K : boolean returns nothing chillax end Y : takes Tcuaa : integer; Q, M8, j4, GZja, A7 : integer array returns integer array while - 0 - 3 : output ""; input v8z; pop end; while 7 : chillax end; output 7; do D(39) end main : do y(- true) end

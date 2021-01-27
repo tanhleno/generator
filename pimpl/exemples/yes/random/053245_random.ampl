@@ -1,0 +1,1 @@
+program h45 : ZE : takes Tcda : integer; _4x : integer returns nothing chillax end I : takes g, U : integer returns nothing R4U : integer; e : boolean; S, Y2 : boolean; o : boolean; l : boolean; let r = 719 end S : takes U, IM, Y, KW9 : integer returns nothing chillax end main : a, k : integer; chillax end

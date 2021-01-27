@@ -1,0 +1,1 @@
+program X8 : iW2 : takes Gi, _, fL0, pcSaa, B : boolean array returns boolean P, n, aD7aa : boolean array; A : integer array; F : integer; P, mKj : boolean; M : boolean; N : boolean; chillax end main : chillax end

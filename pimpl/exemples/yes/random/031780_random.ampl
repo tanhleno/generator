@@ -1,0 +1,1 @@
+program G790a : A : takes B, R : integer returns integer array d, CY2 : boolean; chillax end z : takes lM3a, Q7b0, i, W : integer array returns nothing M : integer array; bD, a, A2 : integer; pop 16; output "" end main : when case 4340 and 6 rem(1800) >= - false rem Eo9 : chillax end otherwise : chillax end end

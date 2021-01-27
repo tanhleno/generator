@@ -1,0 +1,1 @@
+program G : e : takes C, m, T3, Z6, V : boolean returns boolean array pop; let k = array 308 - 959 end main : rLM, M : integer array; L2r : integer array; x7, Yb, xR5, e : boolean; x : integer array; chillax end

@@ -1,0 +1,1 @@
+program T : NV : takes i : boolean array returns integer array when case - true or 8 - 4 : chillax end end main : i, w43 : integer; output "" . "19"; let k = - false and 6 > - 82800 - 7; let n = - 110 - 44 = 97 end

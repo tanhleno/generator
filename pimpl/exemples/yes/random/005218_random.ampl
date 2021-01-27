@@ -1,0 +1,1 @@
+program T : X01 : takes k, PN, sW90a, q : boolean array; d9 : integer array returns nothing Na, b38 : integer; z, c : integer array; chillax end main : jD9, J, C, rn, M, If : integer array; F, u : integer; chillax end

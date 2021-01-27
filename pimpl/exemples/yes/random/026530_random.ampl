@@ -1,0 +1,1 @@
+program s7raa : i : takes k38aa, Y : integer; c : integer; CS, Utz : integer returns nothing K, vZ : boolean; input b; when case 29 : chillax end case 91 = 5 : chillax end case 2 : chillax end case 46 : chillax end end x : takes u60aa : integer returns integer array K, uB1 : boolean array; N, J : boolean; meI : boolean; chillax end main : chillax end

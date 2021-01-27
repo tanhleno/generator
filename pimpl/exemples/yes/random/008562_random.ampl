@@ -1,0 +1,1 @@
+program R27 : w : takes M, H, i51a : boolean; Z0G, R, Z : boolean; E, jZ, E : integer; f5 : boolean; j, t : integer array returns nothing w, C48, x : boolean; chillax end main : let Om[false] = array - (10 = 8) - g end

@@ -1,0 +1,1 @@
+program xl : Kl6 : takes NG, k5v, k, A, BKy : integer; Y, P : integer array returns boolean array w2, ktPa : boolean array; T : boolean; when case - not 0 - 578 : input B19a[12100] end otherwise : chillax end; input W end main : j, KU2 : integer array; pop end

@@ -1,0 +1,1 @@
+program e1v0a : N : takes vFC : boolean; m, i : integer array; E : boolean; m : boolean; d, J : integer array returns boolean array chillax end main : z : boolean array; n : boolean array; r : integer; _8, C, dO9a, K : integer; P69 : integer array; chillax end

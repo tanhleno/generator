@@ -1,0 +1,1 @@
+program p : main : G : integer; T, v : integer array; when case not true / false = - not true / (676) and 3 : when case 4 > 403 : when case 18 : chillax end end; output 3 . "" end case false : chillax end case - (86300) and 4 = 8 - 66 : chillax end case 961 : chillax end; let gE80[- (8) and(8) and 9] = array - not true end

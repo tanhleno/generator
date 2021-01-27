@@ -1,0 +1,1 @@
+program C : main : while not x[5930] >= - (48200) / false and 0670 : chillax end; when case not true rem 9 and 5930 < - u5i0a and 7 or 9 - 919 : chillax end case 468 and 7530 or 5 - 83 /= - 672 - 38000 : when case 338 : pop end; output "" end end

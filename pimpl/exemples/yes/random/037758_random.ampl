@@ -1,0 +1,1 @@
+program I : R : takes T : boolean array; s, tp, BZ, q : boolean array; iR : integer array; B : integer returns nothing jg8aa, z : integer array; do w4ha(true < 0, - 1 - 197); input R; pop 05900 end main : chillax end

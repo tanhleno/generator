@@ -1,0 +1,1 @@
+program IuLaa : Ig90a : takes j : integer; R3Qa, W5S, K2, LV : boolean array returns boolean array Q, J, i17 : boolean; D : boolean; chillax end main : pop - true / 798 and 57 = 1 and 5430 - 9; let E = array(8) and false and 3 - true and 66; pop end

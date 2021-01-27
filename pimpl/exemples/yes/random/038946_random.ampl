@@ -1,0 +1,1 @@
+program Q : z : takes og : boolean array; s, O2L : boolean returns nothing g : boolean array; chillax end main : WK80a : boolean; let P = array - not 1 rem true; input q[- false / not 0 and 38 - 763 and 2]; output 2 - 398 . 4 = 227; while - 8 : pop; let R5 = 0; pop end end

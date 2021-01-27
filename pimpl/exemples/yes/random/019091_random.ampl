@@ -1,0 +1,1 @@
+program o : bN1 : takes C, o : boolean array; b, E, eA : integer array returns nothing while u or 17 : output 09400; do o(8) end end main : R37, P, N5 : integer; z : integer array; E : boolean; f4 : integer; H : integer; wS0 : boolean; while - 89 or false / true or false and 0 : chillax end end

@@ -1,0 +1,1 @@
+program D : main : b6 : integer array; n, f8, H : integer; let f4 = array - false or 1; do j(- (08) * W15aa and 2 > E and 8, 5 or 7650 - 63, 88 - 95); when case Cq and 96 = 9580 : chillax end; while 594 > 28 : chillax end end

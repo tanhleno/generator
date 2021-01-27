@@ -1,0 +1,1 @@
+program E : main : c5, A29 : boolean array; when case not n7(0) = - false rem not 59 - (846) and 18700 or 20 : chillax end case - 0 : do C(16500 = 1); output "j" . "$70" end case - (5) : chillax end case 42800 - 2 : chillax end case 2 = 6530 : output "\to" end case 4800 : pop end case 0 : chillax end end

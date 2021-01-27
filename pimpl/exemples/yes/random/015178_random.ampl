@@ -1,0 +1,1 @@
+program F : I1f : takes f, lJ2, Dz9 : integer array returns nothing chillax end tG : takes m : boolean array returns nothing chillax end I9 : takes H0 : boolean array returns boolean array k : integer array; output "" . 42; when case 52 : pop end case 6 : chillax end end main : let dek0a = false and false and 51 = not 42 end

@@ -1,0 +1,1 @@
+program R5X0 : b : takes VWR0, jA, R : boolean array returns integer input iZZ[778] end lIV : takes fh4a : integer returns nothing when case - 45 : chillax end otherwise : when case 6 : chillax end; pop end; output 4; pop 1 end main : do b7(true and O57(50) > (3) and true - 21900 and 17300 or 42 - 5, - (96) or false and 9330 <= (6) and 19, true and 71100, - 76400 /= 72) end

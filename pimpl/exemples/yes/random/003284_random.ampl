@@ -1,0 +1,1 @@
+program M : Lna0a : takes W, J, ds9, C, e : integer; I1 : boolean array returns integer array when case(45) + 3 - 1570 >= - 70 - 26 : chillax end case - 1 : input m9 end otherwise : pop end end g : takes Z, s, P, p : boolean; j : boolean array returns integer w3, Nw : integer array; pm, m : boolean; J, if5 : boolean; output 5 = 3720; input g end main : chillax end

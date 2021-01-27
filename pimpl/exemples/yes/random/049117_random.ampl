@@ -1,0 +1,1 @@
+program ue3 : a : takes V : boolean returns nothing when case - not 9 and 6 : chillax end case - 1630 <= 9 : chillax end case 798 : output "17"; pop end end s : takes Zn70, Cw3, E, h, n : boolean; n, RCh, GV3aa, z : boolean array; aVnaa, bA30 : integer array returns integer array chillax end main : pop end

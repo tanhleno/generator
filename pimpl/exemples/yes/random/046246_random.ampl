@@ -1,0 +1,1 @@
+program Y : T : takes v0 : boolean returns boolean y : integer; axJ, k96, Hw2 : boolean; Z6 : integer array; hW4, yg : boolean; C : boolean; CAt : boolean; while 0 - 2 /= - 39 - 9 : when case 28600 : pop end end end R : takes s : integer array returns nothing pop 8 = 262 end main : chillax end

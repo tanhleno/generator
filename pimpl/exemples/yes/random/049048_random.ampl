@@ -1,0 +1,1 @@
+program E : H : takes W4za : boolean returns nothing pop; input n0 end main : pop - (2) * 5 and 994 - true and 557 or 8 - 5 /= true and 75700 + 087; while not not 93800 : chillax end; output "{;" . 12; let t = 4 = 40 end

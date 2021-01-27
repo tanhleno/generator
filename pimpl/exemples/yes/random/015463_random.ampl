@@ -1,0 +1,1 @@
+program m0 : O9 : takes I0, j, i : integer array returns nothing F1 : boolean array; sQ9a : boolean array; l8, c : integer array; chillax end main : when case - (1) : chillax end case not true and true + true : chillax end case - 7390 and 73 : chillax end case - 228 < 7 : when case 1 : chillax end; let Ah = 86; pop end otherwise : chillax end end

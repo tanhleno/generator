@@ -1,0 +1,1 @@
+program O2 : x91 : takes BUu : boolean array; F, t2 : integer; t, H, l, _, G, M : integer; OvF, B, S : integer; Wj, k, m07 : boolean array returns nothing while - 8 = 89 : chillax end; input o3[- 0 - 23]; when case 813 : when case 2 : chillax end; pop end otherwise : chillax end end main : input c; input A end

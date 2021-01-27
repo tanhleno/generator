@@ -1,0 +1,1 @@
+program S : l : takes eisa : boolean returns boolean O5 : boolean; z, g, y, Z59aa : boolean array; CMp : integer array; chillax end main : E : boolean array; T, ku : boolean; H : integer array; while lvra and true rem(4) + L / false and 6 or not 3 > - 05 * true and 0 or not 484 : chillax end end

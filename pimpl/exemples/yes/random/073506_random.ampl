@@ -1,0 +1,1 @@
+program y : main : f, m : boolean; n2na, o74, q : integer array; while - false rem false * p4 and 5 < - (63) and not 5 + m6 and 8 + 9 : pop 1 = 8 end; pop - not 9 and 4 + 70 - 831 > - 807; when case H and 8 + 3 - 56 > - 99 : input R[11] end end

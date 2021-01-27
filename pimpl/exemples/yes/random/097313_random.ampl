@@ -1,0 +1,1 @@
+program b : main : when case 74 * W3[7] / p2R0 and 02500 or not not 270 * w + 024 <= - fyp[8] and false and 639 + c + 52 : chillax end case - true * (7) or(0) and 83200 or 013 : output 8 . 1 . "0" end; output not 4460 >= 4 - 5; pop - 1 - 712 end

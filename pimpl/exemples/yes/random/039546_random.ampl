@@ -1,0 +1,1 @@
+program C : B12 : takes c370 : boolean array; M : boolean; c1caa, W, V7F0a : integer array returns nothing chillax end x : takes O1, m : boolean; e26 : boolean; a20, dn, X1h : boolean array; Bx, x : integer array returns boolean array output 1 = 29500 . "" . 34 end main : chillax end

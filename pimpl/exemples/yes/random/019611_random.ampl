@@ -1,0 +1,1 @@
+program j : s : takes j, b : boolean array; BF, X11a : integer returns integer array do H(false and 4 or 31800 - 20 <= - 014 - 7, - 809 - 548) end main : do o2(true / true rem j and 38, true and not 387 or HXU0a and 95 + 5 - 59 >= true, true or 1 - 0180 <= 3 - 39) end

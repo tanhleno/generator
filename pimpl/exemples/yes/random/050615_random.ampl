@@ -1,0 +1,1 @@
+program l : isC0a : takes c : integer; o9, r : boolean array returns nothing chillax end main : m : boolean array; EKVa : boolean; while - not false - false * r and 5400 : input v[- 0] end; while - not false : chillax end; pop - 85 - 823; do i71(- 51 = 4) end

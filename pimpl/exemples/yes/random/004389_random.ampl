@@ -1,0 +1,1 @@
+program q : c : takes a, B, o, BI : boolean; z0, k52aa : boolean returns nothing pop - 58; when case 334 - 68 > 16 : chillax end end Jn : takes sGA : boolean; X : boolean; g : boolean returns integer pop 8 = 2 end main : input _D[- true / G2 + 8540 or not 4900 and 2]; output "\t"; do w(true >= - 7270) end

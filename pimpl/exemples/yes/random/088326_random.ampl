@@ -1,0 +1,1 @@
+program g : main : input g9[(33100 = 2) * H]; when case(6510) : chillax end case false + 614 <= 5110 - 11500 : chillax end case - 1 <= 3 : chillax end otherwise : input J[7] end; let s93a[true] = array false and 4; do x1raa(4) end

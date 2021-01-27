@@ -1,0 +1,1 @@
+program w : E : takes w6 : integer returns integer array r, S2 : boolean; y : boolean; w : integer; jm : boolean; V : boolean; do kY9(not 3 and 64); while - 3 >= 4 : chillax end end main : IA : integer; chillax end

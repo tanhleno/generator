@@ -1,0 +1,1 @@
+program qr : p : takes X : integer; tX10, S4m, q4 : boolean array returns nothing pop - 031 - 902 <= 889; while 7040 - 39 > 35 : chillax end end main : do lr1((5) < - false * not 8 and 29000 - false and 72700, not not 0 or 76 and 8 >= - true + 27 - 3) end

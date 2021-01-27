@@ -1,0 +1,1 @@
+program F : h : takes e, Y690a, U2 : boolean returns integer array SMZ : boolean; jvL0, D24, b, EX3 : boolean array; V : integer; chillax end main : Dv : boolean array; while - false rem 5 rem 13 and 34 : chillax end end

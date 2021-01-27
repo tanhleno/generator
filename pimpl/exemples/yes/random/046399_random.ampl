@@ -1,0 +1,1 @@
+program qq : C9 : takes q8 : boolean returns boolean while false and 9 - 85 - 43 /= - 2 : when case 9 : pop end case 635 : chillax end otherwise : chillax end end; do b(- 0 - 057 >= 5) end main : do _520((522 = 32) - true and not 7 and 8 < - false) end

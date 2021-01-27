@@ -1,0 +1,1 @@
+program w : be : takes R09 : boolean array; e3k, s : integer; w, Y, J : boolean returns boolean array o4m : integer array; C : integer; chillax end main : let S[- not false + false] = - 725 * 6 and 74 or 28 and 4 < - 69; while - true + false + 61 - 234 : chillax end end

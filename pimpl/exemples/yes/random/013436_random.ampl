@@ -1,0 +1,1 @@
+program h : b : takes vV, n, r : integer; f_ : integer array; j, y : boolean; R6, o : boolean array returns integer array while - 96 or 2 - 990 : chillax end; output ""; output "0" . "}"; output 44 end main : O, g : boolean; chillax end

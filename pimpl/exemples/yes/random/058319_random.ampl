@@ -1,0 +1,1 @@
+program r : l : takes A : integer array returns boolean t4r : boolean; X780, JxB : boolean array; g1, nXm : integer; chillax end ij8 : takes F, b3, g, E, W2q0 : boolean array returns nothing input Kh5[13 - 506] end main : k, A, D, N, w0, C : integer; output "" end

@@ -1,0 +1,1 @@
+program P : I : takes y, M7, yW, V3, w : integer returns integer array chillax end q440 : takes N, E : integer returns nothing output 93 = 0 . "" . 0 . "" end g : takes j8 : boolean array returns boolean array Hou : boolean array; E : boolean; chillax end main : input Np6[- not(9) rem(17800) * Q2ha and 4] end

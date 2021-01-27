@@ -1,0 +1,1 @@
+program Q7 : K : takes Ivs : boolean; J_w : boolean; wp : integer returns boolean array j : integer; when case not 379 or 225 : input o[09]; output "" end end main : X : integer array; A4 : integer; I : boolean; k, Y0, Q1, Sv : boolean array; k : integer array; chillax end

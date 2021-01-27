@@ -1,0 +1,1 @@
+program Q : Zr : takes t4 : integer array; n : boolean array returns integer array O84a, _, q, G, A7 : boolean; do Oto(2, 75000 - 05, 3, 86) end OQa : takes G3 : boolean array returns nothing pop end main : chillax end

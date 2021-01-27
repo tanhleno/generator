@@ -1,0 +1,1 @@
+program B : mmQ : takes q : integer returns nothing A, c2t, s : boolean; input hmK; when case 172 <= 2 : chillax end case 5 : pop; pop end case 910 : pop end case 4150 : chillax end otherwise : chillax end end V0 : takes Q1, I7 : integer array returns nothing t, h2, YN8aa : boolean array; do C05a(- 2 - 949 >= 7920) end main : chillax end

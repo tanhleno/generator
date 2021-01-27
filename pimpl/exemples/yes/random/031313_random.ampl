@@ -1,0 +1,1 @@
+program WI : v : takes myt, D14aa : integer returns boolean array K : boolean; pop; pop; pop; while 30 : pop end; let J = 8 end q5S : takes Xvp : boolean array; m : boolean returns boolean chillax end main : s5b : integer; chillax end

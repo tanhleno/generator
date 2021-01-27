@@ -1,0 +1,1 @@
+program G : Z93 : takes T2 : boolean array returns boolean z6W0a, l, R4, nM1 : boolean; chillax end main : m, UU : integer array; input R[true and 3 rem 7 and 9 - true * (7) + not 36 + 7]; output "" end

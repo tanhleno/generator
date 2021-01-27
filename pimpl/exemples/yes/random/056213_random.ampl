@@ -1,0 +1,1 @@
+program F : k : takes LK : integer array; E : boolean array returns nothing pop end Q : takes r, d6, H8 : boolean array returns nothing Yf10a, c1, p : boolean array; input Q8saa[- 20 - 71] end Bx : takes K9 : boolean; P, a, C, DG50a : boolean array; TI : integer array; p3, JR, O : boolean array returns integer d4F : integer; output "\"R" . 65 end main : chillax end

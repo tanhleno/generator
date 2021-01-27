@@ -1,0 +1,1 @@
+program w0 : main : u150, sN5, j, _No0a, zj : integer; when case not(50) + hk5 < 1 rem(98) and 226 : when case 9 : input E6; when case 9 : chillax end end case 643 = 9 : chillax end otherwise : chillax end end; while - true + false = - 15 and 5 or 0 - 037 : pop 956 end; while - true < 41 - 3 : let j480 = 91 end; while 1 : input M; input qY1 end end

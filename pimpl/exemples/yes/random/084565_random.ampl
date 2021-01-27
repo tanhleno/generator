@@ -1,0 +1,1 @@
+program i2 : main : Nj60a : integer; z : integer array; when case - 2 /= - false : chillax end case false rem q6 or(93) : let h[7] = 4; pop end case - false and 5 or 2 - 26 > 37 - 6 : chillax end; do W(- 55 or not 4 = - false and 79, false and 295 - 86 - 04) end

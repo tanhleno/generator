@@ -1,0 +1,1 @@
+program t : d : takes vN : integer array; KI3 : boolean array; n4f0a, t : boolean array; P67 : boolean returns nothing O11 : boolean; ZV4a, _, c : integer array; IO, Mc, CK : integer; chillax end main : n, Z8 : integer; QZ : integer array; f : integer; gp : boolean; do J(not(01) = 504) end

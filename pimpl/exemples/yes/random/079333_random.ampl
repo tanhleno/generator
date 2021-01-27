@@ -1,0 +1,1 @@
+program e : main : O : boolean; k : boolean array; Q8, BC3, y, X : boolean array; while - not(39) rem 7 or true * false or(04) and 5 : output "" . 0; output "6*!" . "4" . "\\X\"a"; let q03[0] = 0380; do TJa(215); do P(5) end end

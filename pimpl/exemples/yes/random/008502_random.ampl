@@ -1,0 +1,1 @@
+program U8 : i : takes Zt, f92aa, lOJ : boolean; u9, dn, pT, p : boolean array; W8p : boolean; J4, ZRI : integer returns nothing chillax end n : takes I, M, B0 : boolean returns boolean hrBaa, k66 : boolean array; chillax end main : chillax end

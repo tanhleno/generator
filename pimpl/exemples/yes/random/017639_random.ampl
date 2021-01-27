@@ -1,0 +1,1 @@
+program V : e24aa : takes b, jF : boolean; _ : boolean; B, TsP : boolean returns boolean chillax end Wc5 : takes o : boolean array returns nothing chillax end main : input O[j[8] and false]; do K2(not false rem not 34 or not 20 and 7 - 11 - 4 > - true or 3, false, - 7590 = 82) end

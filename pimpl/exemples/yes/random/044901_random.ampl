@@ -1,0 +1,1 @@
+program t8 : hr : takes lr3 : boolean array returns nothing K3K : integer array; let s = 09 < 46600 end t6 : takes i, F120a, F : integer returns integer xm, D21aa : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program c : main : xi, v : integer; G0A, s, g : boolean; xJ2 : boolean; pop; when case true rem 41 : chillax end case 3 and 5760 : when case 8 : pop end case 5 : chillax end otherwise : chillax end; while 7 : chillax end end otherwise : pop 6 end; do w(not 3 and 4 - 5 - 94600 >= - 35); while - 8 : chillax end end

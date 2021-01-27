@@ -1,0 +1,1 @@
+program LQ : main : v2 : integer array; V, _b : integer; W : boolean array; input L9[- x * 727 * false or 8 * true and 76500 or p9I0a and 34200 or 74 - 8]; let T[2 and false or true + 3] = array true and true and 53 end

@@ -1,0 +1,1 @@
+program b3n : lG : takes K1, y99, G : integer array returns nothing chillax end main : let bf = false / 41 and 7 > V and 01; pop - 6 and 0600 or 0 - 3 > - 3 - 49; while(86) and 34 or 05 = 282 : let ryI0a[39] = array 9490; pop; pop end end

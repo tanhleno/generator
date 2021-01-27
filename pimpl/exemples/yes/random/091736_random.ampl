@@ -1,0 +1,1 @@
+program U : main : let a[true rem not false rem not 703 - not false] = - R[3]; input MK[IU and not 6]; when case - not 30 >= - 58200 - 6 : chillax end otherwise : chillax end; do WQ40a(1); while 06 : while 82 : chillax end; pop end; do p(028) end

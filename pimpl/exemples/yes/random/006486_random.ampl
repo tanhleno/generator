@@ -1,0 +1,1 @@
+program t : W : takes l, Y, YS7a, w : integer; Nq, AB : integer; b : boolean array; c : integer returns nothing xRj0, e : boolean array; chillax end main : let n[x5 / not false * 141 and 232] = array G(8) and Q[14] and not 8 end

@@ -1,0 +1,1 @@
+program gw : main : M : integer array; input e9[- (1 = 13400) * (185) rem true]; do p(- true + false or 5 - 763 <= - k and 5, - false and 53 > 0 - 469, - 075 - 7, 6730, 4, 813); let S = 70 - 61 > 8; pop 26; when case 79 : output "7&"; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program ovX0a : main : output - not not 061; do S6p(false, (65) and 1 > - 3 - 3, - 1 /= 410, 5 = 759, 59); when case true and 57000 : let K4[9] = 0; while 08 : chillax end end case - 3 = 9 : when case 0 : chillax end; do q7c(96); pop end case 32 : when case 5 : chillax end; pop end otherwise : pop end end

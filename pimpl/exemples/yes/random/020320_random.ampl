@@ -1,0 +1,1 @@
+program h : Z : takes fP, K6N0 : boolean array; mGua : integer; t : boolean array returns nothing output "\n" end E : takes t34, j : boolean array; W0Yaa : boolean array returns nothing let h = 6 = 956; when case 120 : output "" end otherwise : pop end end main : U, Y : integer; pop end

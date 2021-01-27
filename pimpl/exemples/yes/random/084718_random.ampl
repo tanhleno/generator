@@ -1,0 +1,1 @@
+program I71aa : main : p0 : integer; let d = - 09 + not 2; output false - 06 > - 671; output "\"\\!a"; input e5[- 7 - 4]; when case 6 : pop end case 0 : chillax end case 7 : chillax end otherwise : chillax end end

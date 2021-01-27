@@ -1,0 +1,1 @@
+program ED : main : Jp5 : integer; m, f18a, Z1Daa, U2q : integer; E : boolean array; IYf : integer array; Db, p : boolean; output "`\\!"; output - u34 > - 6; pop; while 4 - 1 > 6 : let Qdo0a = 7 end end

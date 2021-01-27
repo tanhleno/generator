@@ -1,0 +1,1 @@
+program H : YR50 : takes LX8a, D050a, hF : integer returns nothing QGs, DYP, K5, o23aa : integer; chillax end main : input _[false and not false / not 5400 and 5 + 62600 + (16800) + 78 - 3]; input X3[- W * (7380) and 4]; input bp end

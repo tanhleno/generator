@@ -1,0 +1,1 @@
+program Q : main : pu0 : boolean array; p, x5Daa : boolean; j : boolean array; do T8(- e(7) <= - false); when case(6270) and 244 >= - true and 6 or 20700 - 69 : output 70300 . 241 . ""; input u; when case 0 : chillax end end otherwise : pop end; input gO30 end

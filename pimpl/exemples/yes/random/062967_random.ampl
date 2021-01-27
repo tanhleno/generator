@@ -1,0 +1,1 @@
+program C1 : B1 : takes AX : integer returns integer array Ih : boolean array; chillax end Z : takes Gb : boolean array; oZ, Wn : boolean array; Z : boolean returns nothing chillax end main : W, R7, Z : boolean array; pop; input Z3[- not 4 or(4160) and 8 or 1]; while(5) and 0 or 66 >= 84 : chillax end; let S[- 0] = 73700 end

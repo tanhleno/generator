@@ -1,0 +1,1 @@
+program j : b : takes M : integer array; F7, GM5, Rm, F, fR, F, QPy0 : integer array returns nothing P : integer array; chillax end main : r, W, R : boolean; when case xRc[9] or(525) >= - f(9) or not 0 and 78 : do p(8) end case false / d and 817 /= not 5 and 7 : input w430a end end

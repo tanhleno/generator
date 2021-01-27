@@ -1,0 +1,1 @@
+program _B7a : main : ODn, a, b : integer array; B0 : boolean; g : boolean; when case - false + 4 / (0) - l <= true : chillax end case - 7 rem not 1 : chillax end case - 8 and 49 + 4 : output 90 . "[5" end case 00 - 8 : chillax end case 85 = 3 : input PN40a end otherwise : chillax end end

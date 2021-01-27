@@ -1,0 +1,1 @@
+program B6 : d : takes o : boolean array returns integer array X : integer; b : integer array; let L = - 1; do y(- 25400 - 1 >= 1); output "S\"0a"; input ws3aa; when case 04 : chillax end end main : while not(5) - (001) <= - rk rem not 5170 - (0) and 1 or 1 : chillax end; output "" . "" . 48; input i390; output "\""; do gx(278, 6, 9); while 15 : pop end; output "" end

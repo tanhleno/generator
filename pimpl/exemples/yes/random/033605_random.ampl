@@ -1,0 +1,1 @@
+program T0 : H840 : takes W : boolean; iy0, X, t, s : integer; x, Q2 : boolean; v870a, So6 : integer; CFd0 : boolean returns nothing chillax end w : takes n : boolean; Qn : boolean array; MT80 : boolean; J : boolean; N, b, u : integer; l9 : boolean; W : boolean returns nothing DOE, B : integer; chillax end main : M, X, r : boolean; input zq[- 5 * 5] end

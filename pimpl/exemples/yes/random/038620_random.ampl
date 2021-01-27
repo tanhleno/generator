@@ -1,0 +1,1 @@
+program b : K : takes PzEa : boolean array; _, uG : boolean array; F7, qw : boolean array; k : integer; R, E3 : integer returns integer array h, M, U53a, R : boolean; U, Di, J, oQ2 : boolean array; output "0" . 64 end R : takes r5w, h, j, O : integer returns integer array M : integer array; input m[- 2 - 6940] end main : input k[i(6)] end

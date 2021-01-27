@@ -1,0 +1,1 @@
+program E : B7 : takes fn, F7, Z, eC, q : boolean; M, O : integer array returns boolean array while - (91400) or 97900 < - 87 : chillax end; pop 5 = 232 end uFm : takes lD : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Y : A : takes G6T0a : boolean; s, c : integer array returns nothing let s = array - not 2 and 2 end z1saa : takes w1 : integer array; r7, B, z8, Ee : boolean array returns nothing input gi; do c(211); when case 86 : chillax end; let O940 = 45; output "" end main : do se90a(- false * false and false or false + (67) and 7 - 6 - 49); pop 01 > 1 - 6; pop end

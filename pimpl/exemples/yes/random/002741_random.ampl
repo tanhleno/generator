@@ -1,0 +1,1 @@
+program H : ofN : takes BJFa, a, h, H, jK : boolean array returns integer let myaa = - 00700; while - 9 /= 7 : input e95 end end x_2 : takes f, H : integer array; J83aa, b920a : boolean returns boolean array chillax end main : O7 : boolean array; S, hTs0a : integer array; n, v, E, n, q1 : integer; Bjk : integer array; r : boolean; chillax end

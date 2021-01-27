@@ -1,0 +1,1 @@
+program u : g4 : takes k : integer array returns boolean array ROXa, t : integer; input u[not 47 and 36] end main : pop; output - 02 and 4 . - 5 - 8 < 0 . "" . "^" . 78 . "\n("; while d and 41 - 2 = - 9 : pop 62; do U(6) end; input Y23 end

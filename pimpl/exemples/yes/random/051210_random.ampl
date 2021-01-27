@@ -1,0 +1,1 @@
+program P : s : takes B : integer; E03, g : integer returns integer array j9, PsLaa : integer array; do F(- false and 2 or 1 - 10 < - 5) end main : output true rem false and 85 - false + 3 - 6 . 2 = - 506 - 3 . "" end

@@ -1,0 +1,1 @@
+program iF : E : takes J, m6f : boolean returns integer array while not 6 and 3 > 530 - 3 : chillax end; pop 8 = 54; do R(1 = 5, 7, 96); when case 4 : pop end case 90 : chillax end end main : chillax end

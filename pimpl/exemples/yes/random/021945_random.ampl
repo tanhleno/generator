@@ -1,0 +1,1 @@
+program h : b6 : takes Q4Uaa, X85 : boolean array returns nothing chillax end j : takes N : integer array; QE, UY : boolean returns nothing WNP0 : integer; r3 : boolean array; c8 : boolean; L : boolean; let Ph = array 72 - 35; while 50 = 60 : chillax end end R : takes mE2a, C1, Z6q, O, L, Zjw : boolean returns integer array b : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program H1 : jG : takes hV0, l4 : integer array; T5 : boolean array; Z8v : integer array returns integer output - 08900 - 2 . 1 = 7; when case - 3 - 3 : let T0 = 5 end otherwise : let X = 8; pop end end main : when case - lZ90(25) - (4) + (04) and 3 + 92 - 898 : pop end end

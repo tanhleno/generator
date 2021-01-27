@@ -1,0 +1,1 @@
+program L : UX : takes WYT, N3, l0, W : integer array; Y : integer array; HW7 : integer array; pD5aa, f, I720a : boolean returns nothing chillax end r : takes J, Nc : integer; v0, E, V, W : boolean; S9, px, uaO0a, n : boolean array returns integer array d07 : integer array; while - 10 : input v; when case 0 : chillax end end end main : n2r0 : integer; chillax end

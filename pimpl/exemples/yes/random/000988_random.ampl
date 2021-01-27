@@ -1,0 +1,1 @@
+program z3U0a : Oc : takes k, Db, qk0, b, v53, y, T : integer array returns nothing j : integer; when case - not 9 : output "3"; output "" end case - 215 - 12 < 18600 : chillax end end jgM : takes H : integer array returns nothing n, QT10, pnOa, rr7 : integer; e, L, Kf : integer; chillax end main : do O(not Lz[26] and(4)) end

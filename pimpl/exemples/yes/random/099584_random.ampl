@@ -1,0 +1,1 @@
+program XR : main : while not true + 823 + true : chillax end; output not 2 <= 2 - 4; while ALm and 5640 or 137 - 50 = 7 : pop; output "\"" end; do d(- 95 > 76); while 75800 : let a4 = 67; pop end; input l[293] end

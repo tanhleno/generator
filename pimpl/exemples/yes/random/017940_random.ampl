@@ -1,0 +1,1 @@
+program l : DP : takes m, S : boolean; c : boolean array returns nothing N9 : boolean array; chillax end main : when case not XV(5710) or true or 803 : pop 697; let X[2] = array 77400 end case - q[4] : when case 468 = 70 : chillax end; while 0 : pop end end otherwise : output "" . 5; output 1 . "}\\0a"; while 83 : chillax end end end

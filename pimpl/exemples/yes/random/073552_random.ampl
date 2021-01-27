@@ -1,0 +1,1 @@
+program N4 : main : g, M6 : boolean; i, V : boolean; pop(5) * (83500) and 0; when case - 83 and(5700) and 71 + cZ and 6 : pop 347 end case(7) = - 3 : when case 7 : pop end case 2 : chillax end end case - 36 /= 7 : chillax end end

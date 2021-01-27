@@ -1,0 +1,1 @@
+program iSJ : g : takes k, j : boolean array; u390 : integer; p0 : boolean; _1P0a, g, c2 : boolean array returns boolean array chillax end p0 : takes i1 : boolean array returns integer chillax end p : takes H : integer returns integer D : boolean array; let Lf[26] = array 3 end main : GIc, zuA, NH : integer array; input u8[- (68) rem 3180] end

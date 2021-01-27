@@ -1,0 +1,1 @@
+program P : B : takes B : boolean; d : integer; C : integer array; vz : boolean array returns boolean array g, V3 : boolean; X74a, H : integer; Wtl0a, i : boolean; do N(- S and 91100 or 4 - 1, 4 - 48, 491) end main : chillax end

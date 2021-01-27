@@ -1,0 +1,1 @@
+program a : s : takes B, Ov, kN, _ : boolean array returns nothing R, Ho : boolean; while D : chillax end end main : do r(not 9 = 20 and true and 062); let z = array false; do B(- (717)); when case - 5 - 4 = 3 : when case 7 : chillax end end case 8880 = 74 : chillax end end

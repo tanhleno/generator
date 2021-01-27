@@ -1,0 +1,1 @@
+program yM : V : takes r0 : boolean array; n8 : boolean returns nothing while - zo and 3 > 792 - 0 : chillax end; input w[3 - 8]; pop 39; while 43 : chillax end; pop; when case 070 : chillax end end main : g : integer array; MP : integer array; G9P0, S : integer; chillax end

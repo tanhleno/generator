@@ -1,0 +1,1 @@
+program q_80a : fKu0a : takes RP : boolean; C8r0a, M08 : boolean array; up : boolean returns integer array input K[not 03]; while 6 < 9 : let y = 1 end end N : takes f1 : boolean returns nothing N5, v, I : integer array; F, e, G : boolean; input V; while 39 : chillax end end main : l, f, d, l : boolean array; v480 : integer; AF : boolean; K0 : boolean; chillax end

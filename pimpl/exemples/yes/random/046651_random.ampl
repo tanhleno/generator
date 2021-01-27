@@ -1,0 +1,1 @@
+program nS : Bm4aa : takes B : boolean returns integer array q08a : boolean; Z, n, Y0pa : boolean array; mC_, w : boolean; e, zZ : boolean; chillax end main : output(7) * 093 and 6 >= not 1 - 91 . ""; do Y((89) rem not 065 = - not 29 and 7470 or 2 - 54); while - (5610) and 74 <= 78 - 9830 : when case 1 : pop end end end

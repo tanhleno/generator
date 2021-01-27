@@ -1,0 +1,1 @@
+program wRp : W : takes r, x, Cl4aa, _18aa, LoG : boolean array; R, jL4, H, Qj, C, fp, l : boolean; i2Va : integer returns nothing while U + 6 : pop 873 end; output 6 end main : while 49 - false / F < true * true + true and 5 or 268 : input Q[19]; while 5 = 4 : while 2 : chillax end end end; when case - false or(8) : chillax end end

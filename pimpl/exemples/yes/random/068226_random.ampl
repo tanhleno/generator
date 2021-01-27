@@ -1,0 +1,1 @@
+program _F1 : main : y, G, cxJaa, E, Q, P, Z04 : integer array; P : boolean; Lf : boolean; b : boolean; m, P5, q : boolean; C98aa : boolean; while - Q(6) + not not 33 / false + true > - not false * (2) + false : chillax end end

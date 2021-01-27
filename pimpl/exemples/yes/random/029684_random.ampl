@@ -1,0 +1,1 @@
+program CO : C42 : takes c, Kn : integer array returns integer array chillax end n3 : takes F, Qt1, A : integer array; Z, V, Ho2, O, b, T : integer returns integer array chillax end main : output - not 2 or not 095 < - false - 3 . "" end

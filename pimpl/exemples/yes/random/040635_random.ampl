@@ -1,0 +1,1 @@
+program FD : i4Zaa : takes c : boolean array; P : integer; L : boolean array returns boolean array D2 : integer; chillax end main : output true and(91) and 2 . "\n~" . ""; when case not false : while 8 : chillax end; when case 2 : pop end case 2 : chillax end; output ""; pop end otherwise : chillax end; input RGm end

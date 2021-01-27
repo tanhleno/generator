@@ -1,0 +1,1 @@
+program t : I : takes W7 : boolean returns nothing ry1aa, l : integer array; Q : integer array; th_ : integer; mzB : boolean; o : boolean; y : boolean; output - 83 < 98; do Q96(- 65 - 3 < 9, 9 = 2, 1, 85) end main : J, kB : boolean array; pop - _K30a(7) rem not 050 and 84 - u - 1 end

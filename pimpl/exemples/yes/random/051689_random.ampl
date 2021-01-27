@@ -1,0 +1,1 @@
+program c : f : takes t0 : integer; N : boolean array; l, b : integer; EIo : integer array; Z39a, CG, P3, y : boolean returns boolean when case - (9560) : pop; pop end; pop 1 = 5; pop 0; input G[9] end main : W : boolean; oB50a : boolean; chillax end

@@ -1,0 +1,1 @@
+program YNt0a : M : takes F : integer returns nothing chillax end JnP : takes e, g, l, p : integer array returns boolean chillax end main : WF, l, r : integer array; output "\n-" . not 67600 and 5 or 26 - 772 = - 6 - 6 end

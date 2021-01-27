@@ -1,0 +1,1 @@
+program C5m : G : takes y2xa : integer array returns boolean E2 : integer array; qn : boolean array; U : integer; ti, T : boolean; let Y[t and 2 or 3 - 444] = - 9 - 7 >= 2 end main : ELt0 : boolean array; input h[- 6030 or b(7) - not 5 and 8 or 46]; while(3) /= (8) and 5 : chillax end end

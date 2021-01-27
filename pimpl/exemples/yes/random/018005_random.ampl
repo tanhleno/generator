@@ -1,0 +1,1 @@
+program vA : Awn : takes v, lxya : boolean; j4d : boolean returns integer array let w = - 4 - 0 /= 0; do N(9 - 5 = 5); do J2i(1360 = 94); while 391 : chillax end; output "~\n"; output "1"; pop end main : m : integer; chillax end

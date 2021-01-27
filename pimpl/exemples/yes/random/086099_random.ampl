@@ -1,0 +1,1 @@
+program q : main : Cw_0 : integer array; V6k, v0 : boolean array; pop - ftC[362] - false - 3 - 20 = - 7 and 988; input qW[- not P * U and 648 or T]; let A[true and 78] = - 405 = 2; output 03; input h[0] end

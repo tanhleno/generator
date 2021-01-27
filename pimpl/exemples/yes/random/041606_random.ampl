@@ -1,0 +1,1 @@
+program O4 : VaT : takes FLP0 : boolean array returns boolean array l, t, d : integer; pop end main : u, A : boolean; Q : integer; let o[(767 = 27) and rxua or z2 rem(0) + true - 021 - 19300] = - not(7) rem not 592 and 5 + l or 16 > false end

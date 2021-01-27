@@ -1,0 +1,1 @@
+program e : o : takes n, L : boolean array; z37a : integer array returns integer array chillax end H : takes w : boolean array; zth, n : integer array returns nothing w2 : boolean array; Kbo0, b : boolean; let K1 = 1 = 0; output "0v!a"; pop; let v79a = 2; output "" end main : k6L0, Y : integer array; chillax end

@@ -1,0 +1,1 @@
+program Vb : wI2aa : takes P6a : integer array returns nothing input c[- false or 9]; do oj(- 09, 7 = 559); while 63 : let U = 23; pop end end m : takes E, Q8 : integer array; B3, M, i55, H11a, q, rP : boolean returns nothing chillax end main : L58 : boolean; chillax end

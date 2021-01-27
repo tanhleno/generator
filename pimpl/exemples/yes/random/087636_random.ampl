@@ -1,0 +1,1 @@
+program H : main : c : integer array; while - (35) * (5) / true and 38 + q8 / true and 87 or 2 and 3 or 0 - 39000 : while - 943 - 265 = 7 : chillax end end; pop - not 8 + 221; input m7p[(367) and 5] end

@@ -1,0 +1,1 @@
+program J : D5p0 : takes yR : integer array; GHJ, l, B : integer array returns nothing while(98) and 515 + 12 : chillax end end a : takes q, v : boolean array returns nothing chillax end main : chillax end

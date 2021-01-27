@@ -1,0 +1,1 @@
+program p1 : _ : takes JQ, b2 : integer array returns nothing pop; input m end q : takes E5j, y : integer array returns integer when case - 156 > 1 : chillax end otherwise : chillax end; output "G"; input Q56[217]; when case 4 : chillax end end main : C0 : boolean; M, Y, l, s, RUM0, U : boolean array; chillax end

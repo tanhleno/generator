@@ -1,0 +1,1 @@
+program Y : r : takes J42, J1 : integer returns integer p : integer array; let Z8zaa = 7; let xG[5 - 4] = array - 96; let MGH = array 00500 end main : dy, j : boolean array; s, f2h : boolean; W, o4 : boolean; M, t : boolean array; H, L3 : boolean array; chillax end

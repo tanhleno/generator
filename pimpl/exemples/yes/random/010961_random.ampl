@@ -1,0 +1,1 @@
+program gN : E1J : takes yX, g, j3Waa : boolean array returns integer Z : boolean; chillax end j1 : takes Z : integer array; M, B4, q : boolean; g, bv : integer array returns integer array output "" . "" . 3 . "`" end main : f : integer array; n : boolean; chillax end

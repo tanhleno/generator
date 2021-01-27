@@ -1,0 +1,1 @@
+program U14 : K : takes D6, E, d, U52 : boolean returns boolean FM, F, n : integer array; Hq, k9S, m_ : boolean; XJj, p, M : boolean; J65, d : boolean; X : boolean; X1Qa : boolean; let K21 = array false or 982 - 0 end LV3 : takes U4, k : integer; h : boolean returns boolean array H440 : boolean array; do G(- 7 - 3); while 4 : input A; pop end end main : chillax end

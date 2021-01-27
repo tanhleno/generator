@@ -1,0 +1,1 @@
+program Oe : main : x : boolean; while not true or(4) and oq and 0 + not 0 and 0 /= (46) and false and 522 : when case 0 - 7 = 7 : when case 499 : chillax end end otherwise : chillax end; while 89 : when case 28700 : chillax end; pop end end end

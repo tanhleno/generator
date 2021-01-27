@@ -1,0 +1,1 @@
+program fs : j : takes A2, JL, HC90 : boolean array returns nothing while - not 0 and 34 = - 51600 : while 0 : pop end; let a3 = 335; input o end; input DB60 end m : takes j : integer array; L : boolean returns integer array chillax end main : h : boolean array; y2E0a, L : integer array; J, Y, H : integer; g, l41 : integer; chillax end

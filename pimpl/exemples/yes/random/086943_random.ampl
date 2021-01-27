@@ -1,0 +1,1 @@
+program YE5aa : main : P : integer array; sP : integer array; pop; when case - false or fEz0a and 294 = - 2 and 621 - 81200 : pop 9; pop 8; output ""; while 4 : chillax end; pop end; output - 0 . "" . "4)0a" end

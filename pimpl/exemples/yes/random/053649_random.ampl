@@ -1,0 +1,1 @@
+program O : qA : takes o : integer array; u, fSTaa, C, e : boolean; P9 : boolean returns boolean array do r7(- n + 1 - 4 < 4) end main : _, XJk0a : integer; R, c0 : integer array; pop - 20900 * not 8860 and 6; when case not 472 * false and 1 - false : while 8 : while 4 : chillax end; pop end end otherwise : input d[34]; let tM = 44000; when case 36100 : chillax end end end

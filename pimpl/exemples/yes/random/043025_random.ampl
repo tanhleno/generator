@@ -1,0 +1,1 @@
+program A5 : m8 : takes aTx0 : boolean array returns integer do V(- 531 and 59 + 54 <= 73200); input QX80a end q : takes Ag6 : integer array returns nothing q9, D : boolean array; LR : boolean; pop; while 1 = 02000 : chillax end; do C(7, 6); pop; do _(123); pop end main : chillax end

@@ -1,0 +1,1 @@
+program F6n : On : takes z4_, w : integer array returns integer l : boolean array; h, RZ : boolean; O0, D, CD5 : integer array; P : boolean; let ceq0a[- (212) and 5] = array - (33) and 63 end main : chillax end

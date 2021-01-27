@@ -1,0 +1,1 @@
+program W6 : main : let Lu0[(75) - (3) * not 3530 - (9) and 83 + 7 - 11] = S0(2) - not 071 and 35; input I[- not true and(4) and 00 + true and 0 + 26 - 265]; pop - 3; when case - 123 : chillax end otherwise : when case 9 : chillax end; pop end; let tf[45] = array 3; while 2 : pop end end

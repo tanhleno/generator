@@ -1,0 +1,1 @@
+program i4 : N : takes _, Co, H560a, p : boolean array returns nothing F1 : boolean array; G9Uaa : boolean array; l : integer; sIxaa : boolean; j : boolean; m : boolean; output "+"; let y4 = array - 23 - 08 end md8 : takes u : boolean returns nothing chillax end main : chillax end

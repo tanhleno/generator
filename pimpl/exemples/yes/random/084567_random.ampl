@@ -1,0 +1,1 @@
+program g : main : h3ia : integer; j : integer array; when case - true or(79) > 87400 or true or 8 - 0 : chillax end case o[4] or 03 or 305 < true and 68 - 5 : chillax end otherwise : do n(1100 = 60, 4); while 6 : pop end; let g = 4; while 5690 : chillax end; pop end end

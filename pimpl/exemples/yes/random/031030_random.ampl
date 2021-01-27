@@ -1,0 +1,1 @@
+program T : w : takes m78aa, b : integer array returns nothing output - 83 . "" . 952; input JS; when case 44 = 8 : output ""; pop end case 4 : chillax end end Q : takes y : integer returns integer X, bf70a : integer; chillax end q : takes tu : boolean returns nothing output ">" . 7; while 5 : pop end end main : WE : integer; chillax end

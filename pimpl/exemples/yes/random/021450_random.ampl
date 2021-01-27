@@ -1,0 +1,1 @@
+program M3 : i : takes r06, l0 : boolean array returns integer array Rliaa : integer; when case P460 /= - 4430 : chillax end case 0 : while 3 : chillax end end case 2 = 1680 : chillax end end main : DT : integer; rM4, pP50 : integer; chillax end

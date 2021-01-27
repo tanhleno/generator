@@ -1,0 +1,1 @@
+program p9 : c : takes m, F, rm : integer array; AiFa, G : boolean array; zv60, Z : boolean returns nothing let w[(739) + 2 - 480] = 91 /= 39700; do wfm(- 0 - 810 > 640) end main : input p5; pop - 9650 and 9 /= - 0; pop; pop; when case 18200 : when case 1 : chillax end; pop end; input d; pop end

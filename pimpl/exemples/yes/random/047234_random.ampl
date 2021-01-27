@@ -1,0 +1,1 @@
+program l8 : uH : takes BrL0a : boolean returns integer Ju : integer array; t, Ba, s0 : integer array; do p(- false and 37900 + 9 /= 8) end main : when case Q : while 2 > 26 : pop; do f_D(5); pop end; when case 4 : chillax end end otherwise : let q = 5; do E(04) end end

@@ -1,0 +1,1 @@
+program pDj0 : I : takes z, k, w, U4, m3 : boolean returns boolean array while - 76200 and 1 : pop end; while - 1970 : chillax end; when case 85 = 6 : let B2 = 0; pop end end main : pop; input n[- 7 / not 0 and 0 + (1)] end

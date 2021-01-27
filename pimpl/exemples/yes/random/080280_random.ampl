@@ -1,0 +1,1 @@
+program D : main : M : boolean; pop; when case - A7 and true and 32 + C57aa and 9870 + 828 - 9 /= not 1 : chillax end case not 4 + 4380 - 94 /= - 3790 - 292 : chillax end case 4 - 21 : while 7 : chillax end end case 41 = 4 : let m = 2 end; do YK(- 99 and 07 - 2280 - 17 <= 6 - 1, - 5 - 0 = 3) end

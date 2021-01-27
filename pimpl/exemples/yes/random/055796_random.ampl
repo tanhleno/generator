@@ -1,0 +1,1 @@
+program Co9a : f : takes Z8t : integer array; k : boolean array; r1, l : boolean array returns integer array y, Av : boolean array; let L = array UR; output "8\\" . "" end r72 : takes C : boolean; n, O, w : integer returns boolean array V : integer array; O : integer; let E = array 0 - 126 end main : chillax end

@@ -1,0 +1,1 @@
+program G1y : main : W : integer; o6F0a : integer; do x(- true rem(1) + (534) or not 7030 + 1490 - 6870 >= true - false and 8); input U[(97) / (72) and 20]; when case false and 51 > 6 - 5 : let r = 4; while 37100 : chillax end end case 3 : chillax end case 74 : chillax end otherwise : pop end end

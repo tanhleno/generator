@@ -1,0 +1,1 @@
+program Ks : g7 : takes N, ozn0a, _ : integer returns boolean when case - 3910 : output 06 . "\t" end; do W(216 /= 1730) end g1 : takes adKaa, g, l, f : integer array returns nothing chillax end main : E, h0n : integer array; N, l5 : integer array; ziA, R, t, H57, x : boolean; chillax end

@@ -1,0 +1,1 @@
+program H : MXw : takes R : boolean array returns nothing ZZ : integer array; output - 438 - 344 = 6720 end main : l : integer; output - false and true - false and 0 >= not 40 + 3 - 86 . - not 2 . "9\t" . ""; input tn[- not(1870) - (17)]; let y[true and 25 - 8 - 4] = 4 - 8; let n[- 72] = 9 end

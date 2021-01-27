@@ -1,0 +1,1 @@
+program o1 : Sx : takes F, Z : boolean; T, y : integer array returns nothing O, e : integer; chillax end main : BM, Fg90a, W : boolean array; Luw0, n, BV : integer; G97, v : boolean array; do T3(not false * not false and true and 8, - (9) rem false and 4100 > - false and 9); output "\n" . - 9 - 5 < 506 end

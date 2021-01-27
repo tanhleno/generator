@@ -1,0 +1,1 @@
+program Q : f7 : takes T : integer returns integer array B, j9, v : boolean array; T2, D4D0, _d : boolean; x : integer; P, z : boolean; z : boolean; chillax end main : v : integer array; while 0 / false or false / (99) and 96 + true and 95500 - 9 - 215 : when case 028 > 8 : chillax end; let i[1] = 45800; when case 53 : chillax end end; output "\"\t"; output "" end

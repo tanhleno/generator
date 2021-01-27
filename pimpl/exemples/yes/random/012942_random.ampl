@@ -1,0 +1,1 @@
+program S : j : takes v4, WMta, t6 : integer; R19, z9 : integer; S, I : integer array; WP, Nc, k5, I4n0a, JZ7 : boolean returns nothing U, U200, p, F, f : integer array; do h((5340) > - 81500, 488 - 60 = 78); while 8 - 09 <= 7 : pop end; while 7 : chillax end end main : Y3e : boolean array; W, p5 : boolean array; m5 : boolean; pop end

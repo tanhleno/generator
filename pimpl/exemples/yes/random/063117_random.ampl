@@ -1,0 +1,1 @@
+program _7 : x : takes q : integer returns integer array output 01700 - 115 . "" end main : vN, e : boolean array; U, Jw2, E : boolean; do xA(8150 rem false and not 1 and 4 or(13) and 69 and 9, 034 and not 41 and 3 <= 7 + 9) end

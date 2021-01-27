@@ -1,0 +1,1 @@
+program dvh0a : Q : takes L, F2 : integer; i, x, Xzya : boolean returns nothing chillax end A : takes I150, X, b, IECaa : boolean returns boolean array while 6 - 5 >= 167 : while 6 : chillax end; input F; pop end; when case 9 = 6 : chillax end otherwise : pop end; while 758 : chillax end; while 117 : chillax end end main : KN : boolean; I : integer array; chillax end

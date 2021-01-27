@@ -1,0 +1,1 @@
+program K : X : takes r : boolean array returns nothing D : boolean array; hw7aa, ZS8, b4, c : boolean; chillax end main : N : integer; input L; when case true < - not 64 - 45 : chillax end; let A = 97 end

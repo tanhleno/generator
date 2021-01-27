@@ -1,0 +1,1 @@
+program N : M : takes V1e, H3B : integer; q : integer array; f : boolean array returns nothing g63aa, F : boolean array; eQ, dY : boolean array; ev4aa : integer; T : boolean; W : boolean; v : boolean; pop - 3 - 803 = 27 end main : when case c[92] + not(88) or false + 7 /= - 0 / (52) and 992 : input fj2 end; let J = array not not 43 end

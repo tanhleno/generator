@@ -1,0 +1,1 @@
+program t : y8D : takes D : boolean array returns nothing t5, A : integer array; let w = - 68 /= 4; when case - 8 - 22 : let E = 1 end otherwise : while 2 : chillax end end; when case 5 = 7 : chillax end case 212 : chillax end case 4 : chillax end; pop 3; output "<9a"; output "\\\t"; pop end main : chillax end

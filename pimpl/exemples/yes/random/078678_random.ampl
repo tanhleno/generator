@@ -1,0 +1,1 @@
+program sS7 : main : r1 : boolean; u4w, ZJ, Po7 : integer; rxya, F : integer; Y, o : integer; when case - false / false rem false and 2170 > - not z3 : when case - 1 - 91 < 811 : chillax end; while 2 = 893 : output ""; pop end end otherwise : while 59 : input m3 end; do M(757, 80); pop; output "" end; while 862 <= - false and 56300 + 37000 - 0 : let d[16] = 9 end end

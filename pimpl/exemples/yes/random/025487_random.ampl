@@ -1,0 +1,1 @@
+program q1 : J : takes q, mu : integer; s, kc : boolean array; _x, zy7a, Ae : integer array returns integer array i, p5 : integer; input M end T2 : takes Jm, G7, a : boolean returns boolean chillax end main : pop; let h = true end

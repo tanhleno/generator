@@ -1,0 +1,1 @@
+program ZX : V : takes n, ha, b : boolean; s, E, nIV0a, H, E22 : integer array; h6 : boolean array returns integer array chillax end main : K : boolean; do y(false or n0(4) < - 382 and not 60 and 77400 + true + 4 - 23, N(80)); pop end

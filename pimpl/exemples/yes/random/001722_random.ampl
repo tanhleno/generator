@@ -1,0 +1,1 @@
+program u6 : V : takes o, WX60a, O9, nD, J, r : integer array; HZ9a, Yg, qoBa, X, J33, t : boolean array; u90aa : boolean array returns boolean array U : integer array; S : integer; N, L, DR : boolean; chillax end main : chillax end

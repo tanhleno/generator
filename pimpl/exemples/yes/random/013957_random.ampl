@@ -1,0 +1,1 @@
+program s : k : takes XE8, L, R99a : integer array; h, m7 : boolean returns boolean array u_5, DC0a, Tk1 : integer; l : integer; J5 : boolean; let f[not 0 - 929] = - 043 end main : do e(- (5 = 9) + 307 - false and 38600 >= - j8(56)) end

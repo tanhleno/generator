@@ -1,0 +1,1 @@
+program c : H2 : takes W, EH : boolean; B52 : boolean array; j, D, i9 : boolean; I, i, Z, Gs4 : integer; Hnw : boolean returns integer array chillax end t : takes X, ut : integer; K : integer; R : boolean; P48 : boolean returns nothing t, gv, H5 : integer array; f7, Dq, x : integer array; v2 : boolean; output 68900 . 33500 end main : a, z, L0, Q5c, bg : integer array; chillax end

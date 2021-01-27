@@ -1,0 +1,1 @@
+program VGt0a : l : takes z, io : integer; F : boolean returns integer while - (599) or 4 - 69 = - 4 - 3 : chillax end; do T(4 /= 76, 7 = 73, 4, 1) end main : pf, z, z9 : boolean array; G7 : boolean; chillax end

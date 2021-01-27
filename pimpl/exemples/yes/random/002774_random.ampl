@@ -1,0 +1,1 @@
+program di : D : takes Px, W, b, sX, W : boolean array returns nothing chillax end main : C : boolean; input U[154]; while - 4 / true and 2 + 9 and 916 - 9 <= - uA and 2 + 9 - 414 : chillax end; output 81 . "z"; while 2150 = 83 : chillax end end

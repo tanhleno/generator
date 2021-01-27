@@ -1,0 +1,1 @@
+program v : x : takes F3R, V : boolean returns integer L : integer array; VK, K : integer array; NP, P : boolean array; U : boolean; y : boolean; K : boolean; chillax end main : H : integer; Kd : integer; o : boolean array; FX, K : integer array; chillax end

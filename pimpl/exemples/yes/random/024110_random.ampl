@@ -1,0 +1,1 @@
+program D4 : fw : takes WL, d : boolean returns nothing do M(- true and 59); pop; input p[04] end f03 : takes EId : integer array; Dcj : boolean; U : integer array; m : boolean array; K2j, G : boolean returns boolean array output 1 = 92 . "\tg!" . 5 . "\n" end main : input V; while false rem 2 and 416 or true - 3 /= o and 5 or 707 - 073 : do q(64 = 9, 9); pop end end

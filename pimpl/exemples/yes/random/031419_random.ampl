@@ -1,0 +1,1 @@
+program B : iP : takes c, Q : integer returns boolean array when case z >= 06 - 09300 : let B[303] = array 33; input c end case 507 - 6 < 3 : chillax end end G : takes g, d : integer array returns nothing pop 58; do v13(2 = 33, 78, 08) end main : chillax end

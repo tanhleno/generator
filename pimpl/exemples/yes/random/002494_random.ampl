@@ -1,0 +1,1 @@
+program Sw : s0 : takes hI, W, u77, K7b, X : boolean array; R, n : integer returns nothing chillax end uQ : takes ykxaa : integer returns nothing chillax end t : takes o6 : integer array; H900, CT : boolean; n, I, QQ : boolean array; Ad : integer returns boolean do i(94, 5, 1940); output 8 end main : chillax end

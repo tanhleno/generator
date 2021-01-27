@@ -1,0 +1,1 @@
+program y : o : takes k, v, Ov : integer array returns nothing Ti2 : boolean array; bFu : integer; h : boolean; pop - 44 - 6 end F : takes y, E, aC : boolean array; b : integer array returns boolean c : boolean array; pop; do y(41, 5, 6) end B48aa : takes u, x : boolean array returns nothing In : integer array; chillax end main : chillax end

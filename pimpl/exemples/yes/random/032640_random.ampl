@@ -1,0 +1,1 @@
+program p7 : X : takes BIU, I : integer returns nothing h, l : boolean array; when case - 8 and 6 or 19 : chillax end; while 92 : do sR6(291) end end main : when case - true or 7 and 841 or true and 8 - 8 : chillax end case - 9 : chillax end case not 37700 - 9 : while 6 : chillax end; input YD; when case 36 : chillax end; pop end end

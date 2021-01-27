@@ -1,0 +1,1 @@
+program m3 : UReaa : takes b, f4 : integer returns integer chillax end K4 : takes Z84, l3, w0e : boolean array returns nothing when case - 6 - 22 /= 6 : chillax end case 6 : chillax end end main : B : boolean array; y : boolean; chillax end

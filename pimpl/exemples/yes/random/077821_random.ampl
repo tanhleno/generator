@@ -1,0 +1,1 @@
+program aA : main : W, V : integer array; w5 : integer array; while 1 + not true : chillax end; input kL3[true rem not 2 + false and 39]; when case 00 and 65 <= 28 : let k4 = array 8; pop end; input o[9 - 96]; when case 81 = 6 : when case 69 : chillax end; pop end end

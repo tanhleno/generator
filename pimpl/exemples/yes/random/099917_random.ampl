@@ -1,0 +1,1 @@
+program x2 : main : while true = - (386) * 449 : when case 20000 : pop; let e21 = 73; pop end otherwise : when case 115 : chillax end; pop end; input Xca0a[8]; do J(1, 2) end; let B[false rem(7) and 53 - 23900 and 682 - 02 - 1] = array false end

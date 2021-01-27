@@ -1,0 +1,1 @@
+program N : di : takes F : boolean array returns integer array a : integer; chillax end J : takes V910 : integer array; i7 : boolean array returns nothing let Yl30 = 87300 = 7; when case 791 : chillax end case 7 : pop end; do VbW0(3); pop end m : takes VZ80, Vd00a, c : integer array returns nothing chillax end main : input JTnaa end

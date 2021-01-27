@@ -1,0 +1,1 @@
+program u9 : P6t : takes K, T : integer returns nothing B, d, f : boolean; while - false and 1 : chillax end; output 4; input w[1] end Z : takes w : boolean array; Fv2aa, Z : boolean returns nothing S : integer array; J : integer array; u : boolean; while - 3 - 6 > 062 : chillax end end main : do H(vnC <= (9110) * false); pop end

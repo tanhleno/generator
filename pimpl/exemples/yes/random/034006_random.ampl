@@ -1,0 +1,1 @@
+program T : j5Sa : takes z : boolean; I, s, xY9 : integer; e1, l7 : integer; i, Eo9a : boolean returns boolean array chillax end wq7 : takes y : boolean array; d, l, z : boolean returns nothing xO : boolean array; yd0a, B88aa, m51 : boolean array; do hZDaa(- 8 - 217, 658, 3, 370) end main : n : boolean array; do l5(true rem not 90 = not not 0 rem not 4 and 82 or not 2 + 8) end

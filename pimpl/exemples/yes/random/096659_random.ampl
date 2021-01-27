@@ -1,0 +1,1 @@
+program w : main : when case - true and 5 <= - 6050 * true + i76a : output 4; when case 4 : let l = 13; pop end case 76 : pop end otherwise : pop end end case - true + not 4 + 2 - 0 > - 23 or 57 - 3 : chillax end otherwise : chillax end end

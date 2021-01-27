@@ -1,0 +1,1 @@
+program s36 : nR0 : takes rQ, qb, W_, ld, B, u, H : boolean; _ : boolean; r69aa, QO6 : integer array; S : boolean array returns nothing while - 32 : chillax end end NVq : takes P370a : boolean returns nothing sXc : boolean array; K, S, SrR : integer; g, e : boolean; input dVD[67 - 9420]; pop; output "UD" end main : input g end

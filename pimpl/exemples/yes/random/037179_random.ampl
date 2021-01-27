@@ -1,0 +1,1 @@
+program p25 : Y : takes _2 : boolean; D : integer returns boolean array f, u, k6 : boolean array; input d end main : G, k : boolean array; o, oa : integer array; w1V0a : integer array; do hX8a(6 and(3) or not false, - false) end

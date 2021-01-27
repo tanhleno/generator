@@ -1,0 +1,1 @@
+program Z1 : main : output - not not 4 - 75400 and 04 . ""; when case O[9] or not 8 and 8 - 6 - 5 > - false : let t = array 6; when case 65 : pop end case 0 : chillax end; pop; when case 4 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program rj40a : Ud : takes T : boolean returns boolean array chillax end u4 : takes U0Y0 : boolean array returns boolean D850a, x, M1 : boolean; b, iM, K4za : boolean; input UB[- 3 - 8]; pop end main : do X(- not true * not 667 + uYj0[6] rem true and 1 < - LK6[1] rem false and 3, false, not 7 or 99300); pop false /= 7; let cP = - 31 - 0 end

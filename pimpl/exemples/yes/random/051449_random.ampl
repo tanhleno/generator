@@ -1,0 +1,1 @@
+program k : d : takes C : integer; F : boolean; Z : boolean; iM : boolean returns nothing while not 5 and 04700 or 9 - 8 = 05000 : chillax end; input jB; while 61 = 644 : chillax end; input S[020] end main : P05aa, m : boolean array; Y, s, l, x2, ZMd : boolean; K : integer array; chillax end

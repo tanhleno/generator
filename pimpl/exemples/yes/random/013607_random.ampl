@@ -1,0 +1,1 @@
+program _ : z : takes b, r, D : integer; o35a : integer returns nothing while - N3D and 9 + 0 - 1 : output 3 . ""; output "-\ta" end; do FL(9 /= 3); do j(7 = 19, 74, 65); let _ = array 8 end main : when case - true + (0) - false > true or 34 and 780 - 7 - 49300 : chillax end otherwise : chillax end end

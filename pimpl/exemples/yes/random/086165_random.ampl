@@ -1,0 +1,1 @@
+program G : main : q : integer array; H2, X4Ya : integer; wm : integer; e9aa, Sve0a, T, Qg : boolean; when case not(2) * P2 : while - 945 - 8 <= 1 : chillax end; while 3 = 16900 : chillax end end otherwise : input K end end

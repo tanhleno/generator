@@ -1,0 +1,1 @@
+program n82 : Z : takes Q, u, _, sx, v, kv90 : integer array returns integer J, f3, E4, g : integer; Rd : integer array; v8Ma : boolean array; P : boolean; c7W0 : boolean; chillax end main : N6 : boolean; input b860a; while - false and 2820 = - 0410 and 68 - 25 - 19700 : chillax end end

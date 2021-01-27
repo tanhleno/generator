@@ -1,0 +1,1 @@
+program a : main : output ""; when case - true <= not 78 - 1 - 249 : do E2(792 = 4, 410, 0) end case - (669) and 4400 : when case 7 : pop end case 4860 : chillax end; do Y(0650) end case - 7 : output "" end case 804 : chillax end; input e[- Lz - 29] end

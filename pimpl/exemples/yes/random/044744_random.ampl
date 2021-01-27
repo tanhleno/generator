@@ -1,0 +1,1 @@
+program L3uaa : T : takes l7 : boolean array returns nothing Zi10 : integer; q : boolean; pop 6 - 8 end main : let MCA0 = not not 66 rem true and 1; let af = not 1 + 18400; when case 4 + 2 - 74 <= - 26700 - 824 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program q : main : p, I : boolean array; C : integer; when case not(665) = - Qnl0(9) - g and 9 : let G = array - 316 - 352; pop; while 6 : pop end; do l(0); output "" end case - H280a : chillax end case - false and 4 or 5 - 6 : chillax end; pop end

@@ -1,0 +1,1 @@
+program Vv5aa : NR : takes q6, D : integer array returns integer array chillax end lc : takes kPZ, F5 : boolean returns nothing chillax end I : takes n6Oa, g : boolean returns integer array chillax end main : input n[- (7) and(1340) + 40] end

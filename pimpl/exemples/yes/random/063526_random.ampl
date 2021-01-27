@@ -1,0 +1,1 @@
+program Mm : eaW : takes W090a : integer returns integer input s0[(50)]; pop 666 = 1; do r(9) end main : l : boolean; z2, u, fn, r, x : integer; while true - true + q = (1) : let FhSaa[60 - 0] = array - 7230; when case 25 = 42 : chillax end end; let B = not 81 and 88 - 4 /= - 9 - 42; do S6(false and 893 or 80 <= 7 - 8) end

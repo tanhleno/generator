@@ -1,0 +1,1 @@
+program S1 : V : takes D : boolean returns boolean H : boolean array; k, Lv : boolean array; chillax end main : do Th(- false and 384 rem true >= - 9 * false and 4 or(41)); input sG[not 41 or false and 24 or 19 - 946] end

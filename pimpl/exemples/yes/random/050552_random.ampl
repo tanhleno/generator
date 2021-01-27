@@ -1,0 +1,1 @@
+program Yn : t : takes t5 : integer; q, Y : boolean array returns boolean array WX, S : boolean; Ww, sz : boolean; chillax end main : vb10 : integer; when case not not(9) and 8520 and true - true : chillax end otherwise : input w5t end end

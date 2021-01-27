@@ -1,0 +1,1 @@
+program UOV0 : h : takes unpaa, p : integer array; uP4 : boolean; a : integer array; eY : integer; k2, m : integer; c, Sk : integer returns nothing output "&"; output "" . 13200; pop 29 end I330a : takes q, h : integer; E9, c, epJa : integer; x7s0a : boolean returns nothing let R = 7; do G(50800 = 9); input IKE[22]; let ord = 3 end main : q2, S : boolean; chillax end

@@ -1,0 +1,1 @@
+program vP : main : when case - not(5) * (06100) / 169 : while - 90200 /= 600 : output "" end end case - false / 09500 - false and 18700 or 2 : while 952 = 4 : chillax end end otherwise : pop 1 end; do Eb(not not 65 or(8) or 2 - 1, not 49); do K((0860) or 271 /= 9 - 21) end

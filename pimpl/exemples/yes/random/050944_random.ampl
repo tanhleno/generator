@@ -1,0 +1,1 @@
+program w3V0a : qED : takes Lp3 : integer; N48a, E : integer array; o, q_80, qL, P : boolean array returns integer array pop; do r23(119 /= 7, 603 = 89); output 60; output "" . ""; pop; let M3 = 6200 end main : chillax end

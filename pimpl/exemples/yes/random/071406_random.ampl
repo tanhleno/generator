@@ -1,0 +1,1 @@
+program q15 : main : n, ALk0a, t : boolean array; J, Z, l, G : integer array; _, u9j0 : boolean; let iPMaa = - 4 <= - 92600 and 3 - 0; output - (017) and 4 /= - 9 - 2 . 1 . 5 = 9 . "\"" . 88 . "\n" end

@@ -1,0 +1,1 @@
+program VCUa : S3z : takes Z3, A : boolean array returns boolean array let Y = - 05 - 1 = 8 end D : takes Qn : integer array; M, s, O : boolean; scMa, d : boolean returns boolean array T3, s : boolean array; I, O : integer array; chillax end main : H, e, z : integer array; chillax end

@@ -1,0 +1,1 @@
+program Nv : f : takes w, R : boolean array returns boolean array pop 068 - 6 <= 517 end main : v4 : boolean array; TH : integer array; let Gk[g7[58] or false / false and 190 + (3) and 4 + 568] = array - not true rem(71) - I / false and 4 or(7490); pop; while - true and 0 - 7 - 84 : chillax end; output 9 = 410 . ""; input N[8]; pop 2; pop; let m = 96300 end

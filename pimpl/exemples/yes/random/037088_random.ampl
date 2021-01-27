@@ -1,0 +1,1 @@
+program tK : l : takes BM : boolean; c7caa : integer array returns nothing S7D0, un : integer; chillax end Q : takes D : boolean returns nothing when case - 94 /= 8090 : chillax end otherwise : do o(67); pop end; when case 2 = 54500 : chillax end otherwise : chillax end; input z end d2 : takes Q : boolean; D : integer returns nothing S, uJ : boolean; pop 60 end main : chillax end

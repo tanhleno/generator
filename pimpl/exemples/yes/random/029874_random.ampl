@@ -1,0 +1,1 @@
+program ky2 : o : takes X3, C : integer array returns integer array input i3 end mI : takes V1, R2, M : boolean returns nothing c, A, d : integer array; g9 : integer array; q, Xj4 : boolean; z : boolean; v : boolean; chillax end main : rp : integer; c, N, v : boolean; output not not 5120 rem not 45 and 13700 - (63) - 18 - 7530 = - UN60a and 57 + 7 - 403; output O or 2 . 5490 end

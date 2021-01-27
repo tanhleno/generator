@@ -1,0 +1,1 @@
+program w18 : main : m : boolean; B, l : integer; z8 : boolean; H, w, V : integer; Ujb0a, V, S : boolean; s : boolean; Od : boolean; output "\n"; input H2[not not 16 + false]; let H[K and 51 or 68 - 40] = array nb0 end

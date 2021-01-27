@@ -1,0 +1,1 @@
+program aCy : T7 : takes BXC : integer returns boolean chillax end Sv : takes mp7, X : integer; c, Tx : boolean returns integer array chillax end h7aa : takes x : integer array returns boolean Ya, i : integer array; N6 : boolean; S : boolean; chillax end main : chillax end

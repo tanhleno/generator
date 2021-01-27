@@ -1,0 +1,1 @@
+program V : i : takes Gda : integer array; Q, C : boolean array returns nothing sF, s : integer array; while - false and 2 < - 74 - 81 : chillax end; output "" end main : T0 : integer; pop - true > not 8 and 676 + 649 - 8 end

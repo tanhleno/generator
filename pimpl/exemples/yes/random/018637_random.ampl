@@ -1,0 +1,1 @@
+program P : wz : takes _L, V : boolean array; o, n, H950, S, b, N : integer array; Z, n53, gTiaa : boolean returns nothing F : boolean; j, y3 : integer array; input P[- (5)]; when case - 56 - 649 : chillax end otherwise : chillax end end main : output "}" . "" . "90" . "" . "" end

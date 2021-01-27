@@ -1,0 +1,1 @@
+program C : l : takes t : integer array; C7, q, _C : boolean; M : boolean array returns nothing x22aa, y, x0t, s3, d44 : integer; chillax end main : when case - (1 = 5) : output 952 . "" . "["; when case 9 : chillax end otherwise : chillax end; input x230[31]; when case 7 : chillax end; do H(82) end end

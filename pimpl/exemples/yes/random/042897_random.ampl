@@ -1,0 +1,1 @@
+program B : E1H : takes T : boolean array returns integer array while true and 74 or 7 >= - 9 - 951 : chillax end; do _(- 08 > 605, 9, 5); pop; input G; let dr = 4; input V end fi9a : takes L, Y7Z0a : boolean returns nothing while - 6 - 14400 : input n end; input V end main : chillax end

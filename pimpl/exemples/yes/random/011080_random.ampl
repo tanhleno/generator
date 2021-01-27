@@ -1,0 +1,1 @@
+program E9 : A72 : takes v, g, n : boolean array returns nothing chillax end cx : takes p : integer; b5, a, m : boolean returns integer chillax end BF : takes X3K, Z : boolean array returns nothing O : integer; K, Z : boolean; neM0 : boolean; chillax end main : while W8E[43100] - (738) or(80) and 50 + 21 - 41 < 5 + (8) and 8 : chillax end end

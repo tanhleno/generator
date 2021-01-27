@@ -1,0 +1,1 @@
+program Gp : BgS0 : takes x, U16 : boolean; vcY : integer returns integer MH : boolean array; input y end a : takes V, p5 : integer returns boolean T5, a : boolean array; UH7 : boolean array; let t5c = 72100; while 9 = 72 : chillax end; let w[4] = array 98; pop; input V end main : do h(false - 76900 and q /= true rem true - (3) + 75, - (5) and V and 8 /= - not 94 and 6) end

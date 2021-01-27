@@ -1,0 +1,1 @@
+program E9ta : p : takes y1I, H : boolean; n, zl00a, V83aa : integer array returns nothing E6 : integer; chillax end main : while p[3] / false or not Lv90 / false and 5 : chillax end; while - false / false or d : do c9(0, 904, 705); while 8 : chillax end; let q5 = 5; while 0 : chillax end; pop end end

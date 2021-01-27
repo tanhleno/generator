@@ -1,0 +1,1 @@
+program b83 : i : takes e9wa, t2u0 : boolean array returns nothing b : boolean array; let H[- true + 2 - 3] = - 32800 - 66 < 45700; when case 2 : when case 84600 : chillax end end case 1 = 78500 : when case 6 : chillax end end end main : chillax end

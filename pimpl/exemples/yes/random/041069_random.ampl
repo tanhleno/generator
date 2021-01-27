@@ -1,0 +1,1 @@
+program Oc6 : W : takes q : boolean array; Q : integer array returns integer output 2 > 88 . 8 = 18; let W = 5 end main : when case not false rem not(39) * 911 : do VZ(- 06 = 5, 2) end case not false - true and 2 : output "5[" . 86 . "]" end case - (626) or 7 <= - 5 : chillax end case 3 >= 357 : output "2" end; pop end

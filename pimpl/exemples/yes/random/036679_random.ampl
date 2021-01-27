@@ -1,0 +1,1 @@
+program gls0 : R : takes v75 : boolean; t28 : integer array; C4, Xug, Z : integer; hY, E : integer; e : integer; g, P, s33aa : boolean returns boolean array chillax end G : takes i : integer; Wc, m6 : boolean returns boolean array pop 24900 end main : while P53aa / (0) and 6 and 34 - J and not 18800 and 45 : chillax end end

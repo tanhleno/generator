@@ -1,0 +1,1 @@
+program g : main : K : boolean; while - 709 > - false : input S4; input x; while 0 : chillax end end; do f(e(72900), true > - 799, 94 - 3 <= 2340); input BGb0; while - 2 - 463 > 9 : do Dp(294) end end

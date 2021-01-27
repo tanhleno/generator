@@ -1,0 +1,1 @@
+program p7f0a : DL : takes n3faa : integer; Ps8aa : boolean array; z_Za, HY, D : boolean; yE : integer returns boolean N1, r : integer; output 60 - 2 . 4 end main : cjZ : integer; W60 : integer; let J = array - true / (038) * false; let JlE0a = T8 or 7170 - 8 >= 2 - 8; input A[ru6 and 946 - 2 - 07] end

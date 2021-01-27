@@ -1,0 +1,1 @@
+program kh4 : x : takes Z5 : integer array; I, GZ, y0, T, J9 : boolean array returns integer array rr : integer array; chillax end main : while true >= - (21500) * (007) + (2) + 3 - 062 : when case - 2230 : chillax end end; do R(- false = (0) and 382 + 9 - 2, D4 and 2 or 78 - 72, 8 - 054 <= 5, 52, 7, 2); when case true - 94 >= 68 : chillax end; output 4 = 3 end

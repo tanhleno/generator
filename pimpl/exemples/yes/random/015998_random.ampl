@@ -1,0 +1,1 @@
+program I : W : takes F1, pl, W : integer returns integer array while r or 59 - 144 >= 6 - 6 : let a83[42] = array 69; input k end; input _6[- 55]; pop end main : input b[- (87 = 0) * false rem 0] end

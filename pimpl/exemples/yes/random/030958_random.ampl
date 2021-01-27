@@ -1,0 +1,1 @@
+program xU20 : O6 : takes yKI, XE2 : integer array returns nothing input MEj; input Vo; do Q(9, 6) end W : takes K : boolean array returns nothing j : integer; yE0, j, __ : integer array; E, G : boolean; pop 6; do w(536, 69) end main : m : integer array; while not 9 and _ / 46 and 317 or not J0paa - true >= false : chillax end; pop end

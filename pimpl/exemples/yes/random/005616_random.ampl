@@ -1,0 +1,1 @@
+program k9 : zl2 : takes M, T, H, V_ : boolean array returns nothing wk, l9, k6 : integer; _, ay, r5 : integer array; chillax end f8Y0 : takes m, GbU, q, Mg4a, T3Y0a, n, I : integer; qW, J9, y, x3z, U, nX9 : boolean array; p6 : boolean returns nothing input B17a end main : chillax end

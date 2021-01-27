@@ -1,0 +1,1 @@
+program o : Gj0a : takes u, g1 : boolean returns integer array d, le : integer; let V[(2810)] = array - false end main : o : integer; when case - true / (2) * (7) and 5 : do y4(2360, 7, 17) end otherwise : do iuu(9, 2) end; output "" . - 63 - 55 . "7" end

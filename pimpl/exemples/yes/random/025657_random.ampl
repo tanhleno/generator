@@ -1,0 +1,1 @@
+program mlR0a : E : takes A, R : integer; bW, wfz : boolean returns nothing chillax end f44aa : takes L300 : integer returns integer array input c[- 6]; when case 48 = 6 : chillax end otherwise : chillax end; while 5 : chillax end; when case 828 : chillax end; while 3 : chillax end; pop end main : chillax end

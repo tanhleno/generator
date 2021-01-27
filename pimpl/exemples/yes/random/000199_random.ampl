@@ -1,0 +1,1 @@
+program G : fL10a : takes G, WS, o3ea, l9I, R6, F, P, m : boolean array returns nothing Z, h, ALr : boolean array; V, N900, j : boolean array; W : boolean; chillax end L94 : takes I : boolean array returns nothing while - 07 : chillax end; while 7 : input v; pop end end K19 : takes Q : integer; S : integer array returns integer c : boolean; chillax end main : chillax end

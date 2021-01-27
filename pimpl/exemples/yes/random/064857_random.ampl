@@ -1,0 +1,1 @@
+program C : Q71 : takes Y9 : integer returns nothing P : boolean array; I : integer array; D21aa : integer; ir90 : boolean; s : boolean; input R[- not 8 and 0 + 4 - 0] end main : P, T1, nunaa : integer array; while true <= - A5M[8] : do wvz(75 < 98) end end

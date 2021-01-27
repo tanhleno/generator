@@ -1,0 +1,1 @@
+program j : main : Y, x1, y14, o : boolean array; y : boolean array; aZ7, k : boolean; b, hq, L : integer; V, v, E : integer; OU, Of : boolean; X : boolean; output "4\n"; input l; when case E - 6 > - 8 : chillax end; input gg; output "33!" . "T" end

@@ -1,0 +1,1 @@
+program Rn1 : j : takes lp, q0za : boolean array; t : integer returns nothing pop 2 - 70 end main : do j71(- false and not J - false rem(56) - false and 13 = true / false and 3 - k and 4 + 7); let j5k[- 44 / not 6] = array - T(0100); do P(346 and 73900 - 4 - 7 >= - 30 - 14) end

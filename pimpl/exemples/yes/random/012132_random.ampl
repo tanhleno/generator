@@ -1,0 +1,1 @@
+program pTJ : a : takes Mz, j, x : boolean returns nothing chillax end main : output ""; output - true and 8680 + 9 - 5 > 3 . - 74 - 5550 /= 2 . "" . 9 . 82000; output 583 /= 81 . 5 . ""; input r4[- 643 - 7] end

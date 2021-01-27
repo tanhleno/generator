@@ -1,0 +1,1 @@
+program v : main : do b(true < - true, - (6) - not 9 and 73, - false and 8 >= 2); when case - 3540 = - X8 and 9 : pop 2 end case - 189 and 4 : do d8k0a(55, 2690) end case 8 - 8 /= 7 : chillax end case 09 : chillax end case 8 : chillax end case 0 : chillax end otherwise : chillax end end

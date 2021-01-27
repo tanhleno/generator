@@ -1,0 +1,1 @@
+program c : x35a : takes V : integer array; H : integer array; w7, Troaa : integer array; D, lx : boolean array returns nothing o, M : boolean array; e : boolean; chillax end main : j, YY : integer array; B : boolean; do M5Vaa(- not not false > - false * false or not 4 and 26) end

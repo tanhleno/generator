@@ -1,0 +1,1 @@
+program F : Apnaa : takes mm, sM7, H, SAX0 : integer returns boolean m8j, WTDa : integer; input T; do A(8) end main : let Y = true and true - (38) or 01 - 02; while true rem true and 9250 : chillax end; while - not 0 : chillax end end

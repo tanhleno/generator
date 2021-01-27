@@ -1,0 +1,1 @@
+program a : k2 : takes m8 : boolean; siXa : boolean; aJM, NYh, h, e9, rbJaa, yB : boolean returns boolean do sHJ(- 2 - 0070 - 6); let V[- 2 - 4] = array - 6; do Yp5(54 = 4) end main : s9, fVNaa : boolean; _ : integer array; chillax end

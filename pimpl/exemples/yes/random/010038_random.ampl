@@ -1,0 +1,1 @@
+program hmt : hC7 : takes e, CL, r : boolean array; _ : boolean array; J, u, yd5, rA, f, Mw : boolean; e, _, VZ, Qn : boolean returns nothing input V end main : q : boolean array; let L4 = array - (92 = 8) and not not 4 or not 2 / (5) and 9 - false and 0; output "\t" . - 1 >= 1 . 0 = 70 . 5; do X7(- (1) and 3 - 9); do w4c0(- 6) end

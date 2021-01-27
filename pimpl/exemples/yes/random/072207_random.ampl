@@ -1,0 +1,1 @@
+program Z : main : Q, R1, p8 : integer; Q0 : boolean; o, Te, PX : integer; E, Mdv : boolean; let L = array - (85) or true; while(371) : do h(9500); while 786 : chillax end; let Fwd = 59; when case 4 : chillax end; pop end; pop - 1480 /= 3; while 7 - 51 : chillax end; input y; when case 0 : pop end; output ""; while 4 : chillax end end

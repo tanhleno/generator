@@ -1,0 +1,1 @@
+program gS : qA : takes q, W : integer returns nothing H180, m : boolean; K4 : integer array; chillax end H : takes h3 : integer array; F5u : boolean array; o5 : integer returns boolean h : boolean array; chillax end main : p : integer; e : integer; l : integer; chillax end

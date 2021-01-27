@@ -1,0 +1,1 @@
+program w2 : A : takes Ah : boolean; U24, K, H2 : integer returns integer w1, g4 : integer; a : integer; chillax end main : W, b, N41, f0 : integer; R : integer array; when case - I rem not not 7 * (4) < (5) / true : output 02700 end case S(99) < 7 : chillax end case false - 3 - 4 = - 06400 : chillax end end

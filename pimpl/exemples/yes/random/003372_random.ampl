@@ -1,0 +1,1 @@
+program d7 : A : takes q, I93a, Wg6a, _, _1 : integer array; b, YO, zi2aa, a, U3c0, f, A : boolean array returns nothing chillax end main : while - 9 * true * true : do h(- 5600 - 9); do M25aa(28 = 5, 4, 0); do t(54600); output "" end end

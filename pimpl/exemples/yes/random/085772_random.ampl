@@ -1,0 +1,1 @@
+program w : main : gs4 : integer array; z6, s, L40 : boolean; sy : integer; output - true * (0820) . - true or 17 - 96 > - 0 - 3; while - true : do P(640 = 9) end; when case - not 68 and 8420 + 01500 - 25 : when case 3 : pop end otherwise : chillax end; when case 868 : chillax end; output ""; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program j4t : k : takes y2T0, KR6 : integer array; f : boolean array; w : boolean array; X : boolean returns boolean array chillax end main : Db, va : integer array; w, H, I05 : boolean; input Z; when case not false / 7 or b and 4 or 61 - 1510 <= 7350 and 94500 : chillax end case - 1 and 7 - 7 : pop end; input HnX0; input t[- 753] end

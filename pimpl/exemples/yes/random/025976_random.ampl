@@ -1,0 +1,1 @@
+program yw6 : H : takes e, H : integer; hD, c1 : integer returns nothing output "" end N : takes lhs : integer returns nothing input M3a0[- 8 - 5220] end q : takes C, m : integer; W, XI_0a : integer array returns nothing chillax end main : J : integer; pop not not 9 rem 8 and 11 + false < - true and 25; while - false : chillax end end

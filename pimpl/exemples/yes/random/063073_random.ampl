@@ -1,0 +1,1 @@
+program v : v : takes N9 : integer returns integer array C6 : integer array; while - (53400) and 7 : let yr20[4] = 4; while 1 : chillax end end end main : do Z7(- (1560 = 84) or q <= - not LU / O + false and 7); while true - (4) = 5 : chillax end; do U2(- false and 00 - 12 - 9 >= 61); input AK50 end

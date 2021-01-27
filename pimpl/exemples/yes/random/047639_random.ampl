@@ -1,0 +1,1 @@
+program v3 : l : takes Jz : boolean returns nothing chillax end main : vD60a, m0, d6, pI : boolean array; when case false : let u6[- 8] = array - 24 - 8; let j = 9460; while 4 : chillax end end case - (3) - 8 and 7 + 7 > - 9 - 90 - 41 : chillax end end

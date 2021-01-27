@@ -1,0 +1,1 @@
+program KR : y : takes L : integer; l, Gg0, g, Wg9 : integer returns boolean array s : boolean; chillax end main : r : integer array; e : boolean array; AD, Z, G2u0a, e : integer array; L3A0a, O8, c0, IONaa : integer array; Le : boolean; k6 : boolean; d7 : boolean; A : boolean; chillax end

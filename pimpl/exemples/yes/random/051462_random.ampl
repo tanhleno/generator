@@ -1,0 +1,1 @@
+program w18a : A : takes O : integer; H : boolean; UU : boolean array; p8z, k : boolean; n, U : integer array returns nothing j : boolean; chillax end A : takes c, n0l, fw : integer returns nothing chillax end main : output not R1 * true + X and 26600 + 3; let J = array - not 6 - 3 end

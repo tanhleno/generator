@@ -1,0 +1,1 @@
+program h : H : takes r, e, q79aa, q1 : integer; w0Y : boolean array returns nothing pop; while - 68 - 42 < 83 : chillax end end main : r50a, t, M, L, e, Z : boolean; output(94) = - t and 16800 or 401 end

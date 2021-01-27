@@ -1,0 +1,1 @@
+program pf : kdh0a : takes E : boolean array returns nothing pop; when case 9 : input s; pop; pop end otherwise : chillax end end J : takes K : boolean array returns nothing input Y94[- 8] end main : chillax end

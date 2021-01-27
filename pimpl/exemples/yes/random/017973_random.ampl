@@ -1,0 +1,1 @@
+program b : Tw3aa : takes b4l, s77 : boolean; yny : boolean returns boolean array W : boolean array; b, lC : integer array; let xgg = array true - 0 - 3 end Z : takes jc8 : integer array returns nothing pop end main : c6u0a : boolean array; v, n, Q, h : boolean; input mGQ end

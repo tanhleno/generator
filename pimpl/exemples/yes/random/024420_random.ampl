@@ -1,0 +1,1 @@
+program k3V0a : G : takes au, dn : boolean returns nothing as : boolean; s3, A, _ : integer; let nq60a = array J7; let R[6 - 4] = 3610 = 9; while 1 = 65 : chillax end end Y : takes Wj : boolean returns integer array m, Xh, M : integer array; Av : integer array; u : boolean; while - 8 > 8 : when case 57 : chillax end end end main : output "/" end

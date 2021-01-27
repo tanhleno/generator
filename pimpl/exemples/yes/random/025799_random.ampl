@@ -1,0 +1,1 @@
+program IDH : V : takes n, J : integer; W, J890a : integer array; u1, U : integer array returns integer array S, s2 : boolean array; chillax end main : N, f7, p, o8, fH : integer; do cF(not false >= - false, false) end

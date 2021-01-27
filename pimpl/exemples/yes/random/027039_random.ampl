@@ -1,0 +1,1 @@
+program VA00 : g : takes J, I1Z0 : integer array; g, D, P4, RK2, A9, f, nd : integer returns integer r7I : integer; ol : boolean; input E[ii + 83]; input BYU[- 8 - 48] end main : s, v, C2, m, H92, S20aa, v : boolean; chillax end

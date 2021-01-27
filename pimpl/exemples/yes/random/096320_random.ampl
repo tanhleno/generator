@@ -1,0 +1,1 @@
+program G : main : when case - not true > - false * not 9 : let K23aa[- 85 - 9] = array 16 end; when case(2230) and gvRaa and 9 or xZ and 7 : chillax end; do T(- (40) - 88 - 7 /= - 1710); pop 67 = 01000 end

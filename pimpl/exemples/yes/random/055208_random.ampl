@@ -1,0 +1,1 @@
+program XJ : Y : takes D : integer array; _y, LX : integer array returns integer array D, I4H0a : integer; output "" . 1 = 37 . 9180 . "N9!" . "" end r : takes n160, CFD : integer; l, Z : integer returns integer array l, KpH : boolean; let R[94] = 54; pop end main : chillax end

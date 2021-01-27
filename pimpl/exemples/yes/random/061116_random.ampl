@@ -1,0 +1,1 @@
+program l : W : takes M : integer array returns nothing B : integer array; I, y, Q65 : boolean array; Yo : integer array; O : boolean; chillax end main : O5a, H6g, gy, eF : boolean array; while(61 = 1) and 5 rem(09) and 7 > false : chillax end end

@@ -1,0 +1,1 @@
+program J : glO : takes U, r70, q, D : integer returns boolean fnua, G, m, g21aa, V21 : integer array; pop end main : P, Cl : boolean array; K, b, O : integer; do p(false and not true or(0) + false and 1); pop(9) or 73 - 46100 end

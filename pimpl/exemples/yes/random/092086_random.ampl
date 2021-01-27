@@ -1,0 +1,1 @@
+program R : main : output - n2[70] * not 89300 and 76300 or 7 . "\""; when case not 2 = - 6730 : when case 36 = 4 : pop; pop end case 2 : pop end case 31 : chillax end otherwise : pop end; do c(1, 80800) end otherwise : do P(93, 072); let q = 45 end end

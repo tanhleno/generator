@@ -1,0 +1,1 @@
+program YYL0a : main : let Wi[true] = array not(48) * 8 - true and 3680 and 86 - false and 582; when case - (307) or not 9 <= false : chillax end otherwise : let z1G0a[68000] = array 9; output "" end end

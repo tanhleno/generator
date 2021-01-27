@@ -1,0 +1,1 @@
+program a : main : let z[d3 and 6910 / not 5] = array - true / not(86200) and 6; do S(- false + (0) and 5 = - not 40 and 2 + 3 - 9, not 391 + 6); output ""; output ";|!" . 5440; do U5(0); do g(668, 3); while 5 : chillax end; when case 3 : chillax end; pop end

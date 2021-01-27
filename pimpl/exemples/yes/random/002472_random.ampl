@@ -1,0 +1,1 @@
+program l5 : _ : takes J1W, g8, v, sP4, x : boolean array; sM, F : integer array; an : boolean returns boolean output "\t" . 01 = 1 end main : Z6, i6X0a, S : boolean array; U, E55aa : boolean array; input i9 end

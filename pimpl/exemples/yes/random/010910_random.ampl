@@ -1,0 +1,1 @@
+program F : F : takes Q, O4, z : boolean array returns integer chillax end main : a, h, w7 : integer; let X[- (3 = 14300) rem 0 rem false and 5] = 5 + true and 0; when case 19 > 06 : chillax end otherwise : chillax end end

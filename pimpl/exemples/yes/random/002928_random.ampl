@@ -1,0 +1,1 @@
+program O : Fg : takes S, I, pJ, H31, Z : boolean returns integer array chillax end pm : takes H, M2 : integer array; C96aa, g69aa : integer array; g4, V2 : boolean; jqf : integer returns nothing let L7Da[- 5 - 89500] = 0; input M[7]; pop; output "" end Nf : takes nY, h01 : integer; p, t : boolean array returns boolean array chillax end main : chillax end

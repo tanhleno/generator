@@ -1,0 +1,1 @@
+program A59aa : main : A : integer; Bd0a : boolean; when case false or not(7) / (28500) and 29 - 45 and 3 <= - true or true : when case - 8 : output "y" end otherwise : chillax end; let lo[23] = array 3 end end

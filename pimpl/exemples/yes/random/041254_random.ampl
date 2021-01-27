@@ -1,0 +1,1 @@
+program rfL : M : takes z : boolean array; Ur : integer returns integer array chillax end main : while - Y / not(6720) /= - true / (788) or L and 40 : let Az3[- 4 - 63] = array - 54700 - 837 end; when case not false - 8 and 1 > false and 25 or 03 : chillax end case m >= 11 : chillax end otherwise : chillax end; do J(true and 5 or 1 /= 9) end

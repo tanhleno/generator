@@ -1,0 +1,1 @@
+program zS : h : takes LG : boolean returns nothing C : integer array; N_2 : boolean array; z, m : integer array; while - false and 24 or 09 /= 9 - 05 : when case 7 : pop end case 92200 : chillax end end end p : takes b7 : boolean; s : boolean; eq, J, K3u : integer array; n, _3, O2xaa, k0 : boolean returns integer P, A1, QU70, p : boolean; chillax end main : chillax end

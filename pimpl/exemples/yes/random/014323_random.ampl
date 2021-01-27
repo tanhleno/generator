@@ -1,0 +1,1 @@
+program Hx : mGc0 : takes nf, b, bD : integer array; x : boolean array returns nothing when case - false or 365 - 0 : chillax end otherwise : chillax end; output 5670 end main : output ""; while - n(06) : while 20 = 1950 : pop end end end

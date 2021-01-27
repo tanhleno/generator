@@ -1,0 +1,1 @@
+program t : H9 : takes BAsaa : boolean array; h, n : integer array returns integer array chillax end main : do s3J(- not not Q * 8 rem 6 <= - false * Dw8a and 50 + not 2 and 5 or 95, (7) / not 0) end

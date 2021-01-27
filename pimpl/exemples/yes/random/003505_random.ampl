@@ -1,0 +1,1 @@
+program d6 : G : takes Ku3a, j, G, s, R1La : integer array; x, U5 : integer returns nothing chillax end main : while - true / (509) or(8560) - 0 - 41900 /= not not 2 or false : while 88 - 1 > 77900 : when case 4 : chillax end end; pop; when case 9060 : pop end end; input n end

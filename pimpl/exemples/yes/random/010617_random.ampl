@@ -1,0 +1,1 @@
+program eO6aa : h6 : takes Ji, fLa, l2 : boolean array returns boolean array z : integer array; pop - 7 - 532 end main : when case true : while - 7 : chillax end end otherwise : chillax end; input g; output 11 - 5380 > 1 end

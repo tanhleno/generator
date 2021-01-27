@@ -1,0 +1,1 @@
+program V1 : xH : takes c, z, Me0a : boolean; m, S : integer; Km, d : integer returns integer array while(7) and 3670 - 4560 : output 35 end; output "" . "" end MP : takes x, M9, jy : integer array returns integer b4, K, Uj, W : integer; chillax end main : G : boolean; input t end

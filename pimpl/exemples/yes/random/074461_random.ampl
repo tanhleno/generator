@@ -1,0 +1,1 @@
+program UJp : main : U3w, r : boolean; while lm(841) - (4) = (2) or 0 : when case 77 - 02 /= 6 : do F8(2); pop end case 9 : do on(6) end case 08 : chillax end; while 5 : output "" end; output "3R" . "6|0a" end end

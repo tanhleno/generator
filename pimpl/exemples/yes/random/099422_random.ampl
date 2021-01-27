@@ -1,0 +1,1 @@
+program i : main : while not(051) * false / O and 83 - true / xyBaa >= true - false - 75 : chillax end; when case 9 rem true or not 588 and 9 + 0 - 25 /= - true and 4 : chillax end otherwise : input zD6a[02] end; pop; when case 45 < 1 : chillax end end

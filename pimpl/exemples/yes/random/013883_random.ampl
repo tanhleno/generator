@@ -1,0 +1,1 @@
+program f : D1 : takes W0, h, nK6 : integer array; B, Y : boolean; S0 : boolean array returns nothing chillax end i : takes O45, c1, m : boolean; bW, r : integer returns nothing input k; while 47 = 3 : do u(1940) end end main : let SR[- (66) rem true] = array not false and P / S and 4 + true and 830 - false and 0 + 8 - 134 end

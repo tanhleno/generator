@@ -1,0 +1,1 @@
+program t : A : takes g, I : boolean array; X, K1 : integer array returns integer O : boolean; when case(8) - 175 : output 1; do L(65); output "{O" end case 8 : pop; pop; pop end end main : D : boolean array; P : boolean; do qZ(- (72 = 020) / 4) end

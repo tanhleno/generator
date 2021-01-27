@@ -1,0 +1,1 @@
+program ghGa : main : Z : integer array; X, l47 : integer array; fW : boolean array; H, S, E : integer array; while - HdD > (1) : let o63[- 14100] = array 81 - 60 end; input E[false]; input dT[- false and 424]; pop 6 end

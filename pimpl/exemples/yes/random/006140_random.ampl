@@ -1,0 +1,1 @@
+program G : aX : takes gKw, Ah, U, w : boolean returns nothing Az7, m8n0, G, yq, F : boolean; V : integer; chillax end _ : takes G82 : integer array returns nothing pop; input Q end main : X, Nc, L : boolean; RG_, Pd4, p2 : boolean; input W[not false or not false]; let y = false and 94 - 6080 - 5; input s[- (34)] end

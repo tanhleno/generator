@@ -1,0 +1,1 @@
+program k : U7 : takes e, LNQ : integer; M : integer array returns nothing lOEa, E7, N7, Lkt0, w : boolean; chillax end T : takes H : integer array; z1, i : boolean array returns nothing FA : boolean; chillax end main : chillax end

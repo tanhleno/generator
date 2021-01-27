@@ -1,0 +1,1 @@
+program B05 : uN : takes io, e, v : boolean; U4Y0a, T : integer array; Q2Haa, t, L, cU, f6, V7 : integer array; K5I, p : boolean array; A, f, QT6, u : integer array; P0 : integer array; qz3, y7s : boolean returns boolean pop 2; when case 5 - 8 : chillax end otherwise : chillax end end main : chillax end

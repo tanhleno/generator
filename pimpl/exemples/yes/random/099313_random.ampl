@@ -1,0 +1,1 @@
+program z : main : while a / x(4) * not 07700 + 2 and(0) and 87800 > - (4) / not 5 and 3 + false : chillax end; do b(- (4) rem 7 + true or 8 - 71300 /= - false or 8 - 8, - true >= 0 - 40, - 2 - 33) end

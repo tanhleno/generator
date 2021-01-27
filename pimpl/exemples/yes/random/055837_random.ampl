@@ -1,0 +1,1 @@
+program lZ8 : K : takes sb : integer array; p : boolean array; f, PJ2 : integer returns nothing do v((7) and 22300) end Z : takes H, e, U : boolean; _k : integer; S6Ua : integer; t, W : integer array; u1da : boolean array returns nothing when case 0 - 9 < 37 : chillax end case 23 : chillax end otherwise : when case 0 : chillax end; pop end end main : chillax end

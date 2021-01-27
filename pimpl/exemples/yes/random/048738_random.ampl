@@ -1,0 +1,1 @@
+program K : _ : takes o : boolean returns nothing v1 : integer array; W, _8a, H : boolean; L1, N, R : integer; R : boolean; let ud30 = - 0 > 58100; output 4 = 1 . 89; while 10 = 4 : chillax end; when case 81 : pop end otherwise : chillax end; pop end main : chillax end

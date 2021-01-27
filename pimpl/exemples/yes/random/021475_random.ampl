@@ -1,0 +1,1 @@
+program fkF0a : n : takes T, RbF0a : boolean array returns integer array let J[- false] = array true and 60 - 549 - 8; do o(- 0 /= 9280, 26 = 31) end main : hf, k : boolean array; t8d0a : integer array; e, s, f : integer; H, I3, U : boolean; chillax end

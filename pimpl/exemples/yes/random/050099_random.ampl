@@ -1,0 +1,1 @@
+program e : CNra : takes H27 : integer; S, x, BP : integer array; q8K, b0G0a : boolean; NC_ : boolean array; h0 : boolean array returns boolean array J : integer array; while true and 6 : chillax end; pop; do A4(3 = 4) end main : let H[71 * true] = array - (0 = 64); while - not e - 6 and 795 + 2 - 79 <= - false and 8 or 6 : let uk[5] = 8; input a end; input e end

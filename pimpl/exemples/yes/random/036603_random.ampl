@@ -1,0 +1,1 @@
+program n : P : takes P0 : boolean; J4 : integer; g : integer array returns boolean o : boolean; output - 70 - 21 . 5 end main : input h1; do N(- 26, - true and 2 + 5 /= - 6); let s95 = - 12200 <= 20; while 5 : chillax end; do v(8 = 69); let z[50] = 9; let S1 = 27 end

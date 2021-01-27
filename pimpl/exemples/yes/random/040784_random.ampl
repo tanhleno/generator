@@ -1,0 +1,1 @@
+program q : eF50a : takes w2 : boolean array; n : integer array; R, g8, h : integer returns boolean array v3 : boolean; chillax end main : Ww, t : boolean array; tG6a, o, amga, Pj1 : boolean array; while 34 * WW(3) /= - 26000 : chillax end end

@@ -1,0 +1,1 @@
+program K : _ : takes s : boolean returns boolean array R69, xy : boolean array; P : integer array; while - J < 9140 - 8480 : chillax end; pop 529 = 39 end main : e, a, x83a : boolean array; _s, H : integer array; v : boolean; v0, M : integer array; let E76a = false + T and 64200 < L and 709 + 6600 end

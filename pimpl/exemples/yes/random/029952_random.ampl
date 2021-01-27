@@ -1,0 +1,1 @@
+program m : iSw : takes EO5a, M : integer array returns integer chillax end P : takes AN : integer returns integer tnJ, Q, V, c7 : integer array; J : boolean array; Om, R : boolean; Sc : boolean; let D[91 - 32] = 89 end main : h : integer; V : boolean array; J2 : boolean array; chillax end

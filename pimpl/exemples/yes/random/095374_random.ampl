@@ -1,0 +1,1 @@
+program FYP0a : main : when case(46) + false and T and 341 : chillax end case - true or not 51 + 8 - 8 > ti2 + 31 : output 3 end case x - 5 - 30 : chillax end case - 84 > 775 : chillax end case 2 : chillax end case 340 : chillax end case 7440 : chillax end; input Z[4 - false - 1]; input z5Qa[true and 4 - 52800] end

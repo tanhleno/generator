@@ -1,0 +1,1 @@
+program G : main : b6 : boolean; T, pCE0a : boolean; R : integer; G7J0 : integer array; Nr : integer; N : boolean; input A[not(213) / (5) rem false]; output "^" . "r~0" . "7<" . 8 . 6 . "=r"; input l980[- not 567 - 25 - 1] end

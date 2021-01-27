@@ -1,0 +1,1 @@
+program VI80a : v : takes N, h, UY : integer array; A6p, x48a, T9, p, O, Q, vp : integer array returns integer array chillax end f : takes b : boolean; P : integer; X, G, _63, dC, _o70 : integer array returns nothing output "\\" . 9 . "\t" . "" end main : chillax end

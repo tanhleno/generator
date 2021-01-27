@@ -1,0 +1,1 @@
+program P : f : takes kQb : integer array returns nothing chillax end SpQ : takes VZ, U : boolean array; m, s : integer array returns integer array r : integer array; chillax end main : R : boolean; t : boolean array; Cr2, uV, U : integer; n22, z, h3l : boolean; t840 : integer; nQxa, O6 : boolean; chillax end

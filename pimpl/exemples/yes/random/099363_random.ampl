@@ -1,0 +1,1 @@
+program n : main : while t16[5420] : when case - 12400 : when case 1 : chillax end; pop; pop end otherwise : chillax end; do aqS(0 = 5, 90); let k02 = array 565; do m(610); while 8 : chillax end end end

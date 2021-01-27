@@ -1,0 +1,1 @@
+program TId0a : i : takes H, DU, R_U : boolean returns nothing F, l, J8g : integer array; z : integer array; h : boolean; o : boolean; y080a : boolean; o : boolean; chillax end main : H : integer; K, c, T : boolean; chillax end

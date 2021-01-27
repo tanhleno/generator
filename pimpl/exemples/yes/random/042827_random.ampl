@@ -1,0 +1,1 @@
+program E17 : n : takes U : boolean array returns integer array output - 08 - 69 . 2390 = 10 . "A"; output 2800 = 92 . 46 . "2" end Q2K : takes G, Q0 : integer array; w, fE, WE : boolean array returns nothing chillax end main : while - (1 = 6350) rem(23) : chillax end end

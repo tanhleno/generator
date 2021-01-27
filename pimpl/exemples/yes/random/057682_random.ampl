@@ -1,0 +1,1 @@
+program Knj0 : iW : takes gq2aa : integer array returns boolean array c, D, B, xto, X3 : boolean array; zZf0 : boolean array; when case - 9 >= - 45 - 8 : chillax end; pop 09; pop; output 4 . "01"; pop end main : when case - (575) + not G8L or true /= (20) + V and 8 - 89 - 85 : while - 9 < 9 : input a; output "" end end case l[13] : chillax end otherwise : chillax end end

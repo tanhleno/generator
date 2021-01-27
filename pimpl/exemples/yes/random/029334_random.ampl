@@ -1,0 +1,1 @@
+program l : _A00a : takes PE9aa, Xl5 : integer array returns boolean array J, TG : integer; let _J40 = - 87; when case - 559 : chillax end case 83 : let t = 63 end end r : takes EV : integer array; w6, f, x : integer returns nothing c, R : integer; D, M, WG6 : integer array; chillax end main : chillax end

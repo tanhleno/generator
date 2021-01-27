@@ -1,0 +1,1 @@
+program l06a : Ls : takes Y : boolean returns boolean R : integer; chillax end F420 : takes aa6 : boolean array; Y5, Z : integer array returns nothing while 20 - 0 : chillax end end r9_0 : takes P : boolean array returns nothing y, pO : boolean; chillax end main : B : boolean array; K, e240a, nY, _6i0 : integer; output - 07 / false or 4 /= - 76 or 3 . true and 0 - 5 - 1 end

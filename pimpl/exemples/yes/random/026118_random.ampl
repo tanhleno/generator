@@ -1,0 +1,1 @@
+program T : d : takes b, Xf40 : integer; g : boolean array; w, vzj, f, C, D, P140a : integer array returns boolean l : integer; while - false - 55 : chillax end; while 98900 - 26 = 4 : pop end; let HTcaa[2670] = array 6; output "\t" end main : Ys : boolean; LHR : boolean; Kn, o9 : integer; chillax end

@@ -1,0 +1,1 @@
+program F1 : o950a : takes b9z, B, ud, h, tb0a : boolean array; BRT, H60, m : boolean; f, jFm, H : boolean; Z, XV5 : integer returns nothing b : integer; N : boolean; do n(- true and 5200 >= 4 - 563, - 36, 0580 = 9); let GhI0[- 57 - 04] = 09 = 4; input f[9720]; output 6 . ""; while 8 : chillax end; let Z7 = 20; pop end main : chillax end

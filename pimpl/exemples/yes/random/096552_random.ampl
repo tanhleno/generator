@@ -1,0 +1,1 @@
+program QV : main : when case - true * 4 = ap0(3) : output 29 = 3 end case false * not 1420 < X : chillax end case - not 05 < 51200 - 1 : let r7 = 1 end case 42100 - 9 >= 94 : while 9 : chillax end; let ip20 = 5 end; while - not not 275 + (4) and 8830 = true - 72300 : chillax end end

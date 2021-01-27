@@ -1,0 +1,1 @@
+program s8 : u : takes atDaa : boolean returns nothing Y : integer array; O0u, h4daa, D760a, F : integer array; chillax end RK : takes U : boolean returns boolean array d : integer; n : integer; let n[4 - 583] = array - 8; do k(5) end a4i0 : takes C, T : boolean; l, u2 : integer array returns boolean array u : integer; chillax end main : chillax end

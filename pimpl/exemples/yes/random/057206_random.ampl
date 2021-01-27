@@ -1,0 +1,1 @@
+program a6 : Dg : takes Os : integer array; hv : integer array returns nothing chillax end V9 : takes E9 : boolean; O7Q : boolean array; FtT : boolean returns integer tF : integer array; chillax end main : output "" . (5) <= 0 . "p"; while - false + (0780) and 479 >= - 7 and 35200 + 4600 - 88300 : chillax end; pop; input l8da[2] end

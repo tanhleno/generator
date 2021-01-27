@@ -1,0 +1,1 @@
+program N : main : z : boolean array; G : boolean array; tb3 : boolean array; E, E : boolean array; P : boolean; let vh8 = C05[031] and true and 1 = - true and 4 - 1; output "" . ""; input E[- 9] end

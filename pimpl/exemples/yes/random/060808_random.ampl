@@ -1,0 +1,1 @@
+program k : lp2aa : takes Q31 : integer array returns nothing h : boolean; H : integer array; output - 1 > 3 end main : T1, Xlo0a, V0, Jc60, G : integer array; AtUaa, S, U1W : integer; Ml20a, T84, T, b96a : boolean; chillax end

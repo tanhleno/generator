@@ -1,0 +1,1 @@
+program s : main : when case not true or not O rem false and 7570 or not 1 = - (3) - (89) and 4 : chillax end case - 6 and not 3 + not 4 - 6960 >= false + 0 - 61100 : chillax end otherwise : when case 91 : while 8 : chillax end; pop end case 105 : chillax end end end

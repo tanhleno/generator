@@ -1,0 +1,1 @@
+program w : dz9 : takes b : boolean array; B1, V, s, w, w, z6, XJc0a : boolean array; _, R : integer returns nothing chillax end j : takes E, W : boolean array returns boolean chillax end main : t : integer; input z[false] end

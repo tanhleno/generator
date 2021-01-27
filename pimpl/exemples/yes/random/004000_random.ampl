@@ -1,0 +1,1 @@
+program h : u : takes N, kN50a, z, v1Z, D600 : integer returns integer array B : boolean array; R : boolean; while - true and 5 - 8 - 02 : chillax end end main : B1ka, T5Vaa : boolean; MC : integer array; Z, G, S : integer array; chillax end

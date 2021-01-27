@@ -1,0 +1,1 @@
+program pm : y9g : takes I, O, T, y0 : integer returns nothing pop - 6; when case 2 < 72200 : chillax end case 4 : output "" end case 0 : pop end case 636 : chillax end otherwise : chillax end; when case 986 : chillax end case 48 : chillax end end main : Y : boolean; chillax end

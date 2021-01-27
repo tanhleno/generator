@@ -1,0 +1,1 @@
+program m : FR : takes n39 : boolean array; Bf5a, bRX : integer array returns boolean input B end nj : takes w : integer; X : integer returns integer q3 : boolean array; chillax end main : N9 : boolean; nA : integer; chillax end

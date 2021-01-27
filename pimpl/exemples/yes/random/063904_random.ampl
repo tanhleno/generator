@@ -1,0 +1,1 @@
+program X : h : takes F : integer returns nothing chillax end main : Dm4aa, B45, o : boolean; pop - 886 / not 3 and 9 > - not 6990; while 4 / true - false and 670 >= - true and 97 : chillax end; let u[- not 9 or 8 - 1] = 04 end

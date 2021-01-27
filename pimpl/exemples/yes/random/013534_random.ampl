@@ -1,0 +1,1 @@
+program L : o : takes K, b, U : integer; _m : integer array returns nothing input H[(5470) and 7] end S : takes K5N : boolean; n13aa, j : boolean array returns nothing b3 : boolean array; pop; let f = 04; while 9 : pop end; while 486 : chillax end; output "" end main : chillax end

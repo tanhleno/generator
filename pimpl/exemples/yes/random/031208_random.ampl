@@ -1,0 +1,1 @@
+program z0Iaa : g : takes sJa, b4P : integer returns boolean array chillax end main : _J9, f2, R4, W : integer array; xo : integer array; while(80 = 0) / (9) / SqO0a > - not not 2980 : chillax end; when case - (510) / true and 58 - not 872 and 78 or 9 - 7 < - not 8 or 6 : let H[27] = array 941; output 5 end otherwise : chillax end; do yo0a(- 68 and 2) end

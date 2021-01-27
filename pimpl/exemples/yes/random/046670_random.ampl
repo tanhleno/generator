@@ -1,0 +1,1 @@
+program G : V : takes JO : boolean returns integer array w6ka : boolean; when case false /= 6 - 4 : do U(7) end; output 42000 = 6 . ""; when case 3340 : chillax end case 3 : chillax end; pop; do NF(5); while 2 : chillax end; pop end main : y, X0, w : integer array; let Ld2aa = array not(72200) rem g(3990) rem true and 2 + true end

@@ -1,0 +1,1 @@
+program W3Y : w770a : takes lkn : integer array; V, LI : boolean returns nothing s24, k, m45 : integer array; hmO0a : integer array; input R6[- not 2 and 0] end main : input z[- (5 = 2) * Rp(973) / not 4]; do OJ(not 57 + not 4); pop end

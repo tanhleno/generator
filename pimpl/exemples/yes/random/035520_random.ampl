@@ -1,0 +1,1 @@
+program M : uI : takes R : boolean; f : boolean; L : integer; s82a : integer; dG7, hU9aa, u7, w : boolean array; Mk : integer array returns nothing MR9, fI : integer; GN : boolean array; OO : integer; chillax end main : pop - not not 1 /= - false - 5 - 33; pop end

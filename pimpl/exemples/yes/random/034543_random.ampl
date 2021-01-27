@@ -1,0 +1,1 @@
+program n80 : H : takes A : boolean; Pd, r : boolean array returns integer g7D0a : boolean; vAc : integer array; G, jl, DI : integer; i6i0a, e2 : boolean; e : boolean; X230a : boolean; let uGG0[(09)] = - 08; while - 5 - 2 : chillax end end main : bC : boolean; chillax end

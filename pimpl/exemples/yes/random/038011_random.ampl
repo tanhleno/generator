@@ -1,0 +1,1 @@
+program k8_ : I1 : takes M : boolean array; n83aa, j, Nt_0a : boolean array; P, l, R, p : integer array; d, I59, z5, Ef, Mw : integer returns boolean array chillax end main : pop; when case not not 52700 - not 4 : chillax end otherwise : input vbr; input K; do z(0); pop end end

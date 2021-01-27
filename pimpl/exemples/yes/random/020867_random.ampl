@@ -1,0 +1,1 @@
+program HG : S : takes sm, I : boolean array returns boolean array x9, b : boolean; F69a, s, S4, P : integer array; j63, XG8a, N : integer array; E43, f6 : boolean; chillax end main : u0j, x9, H : boolean array; pop(74) and(37) and 86 - 7 and 10; input Ym9a end

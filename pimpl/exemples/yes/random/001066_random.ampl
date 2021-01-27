@@ -1,0 +1,1 @@
+program RJ : K : takes Y, H89aa, w2k, a79a, R, Qe, u : integer returns nothing Ubm : integer; S : integer array; do rqr(V and 73300 < 1270 - 10, - 1 - 1, 671, 3); while 1 /= 6 : chillax end; input U0 end main : chillax end

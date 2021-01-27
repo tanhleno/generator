@@ -1,0 +1,1 @@
+program m : u : takes a8, j : integer array returns integer while C = - 28 : output 20 . "7" end; while - 92000 - 09 < 2 : pop end; do K(1 = 75200); output "\n\\!" . "\n" end cg5 : takes b : boolean returns nothing output ""; do yr(0 = 35); let S = array 22900 end main : output(5) * 2 and 48 - G8; pop end

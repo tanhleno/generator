@@ -1,0 +1,1 @@
+program hF : j : takes k, tH : boolean array returns boolean array C1 : integer array; when case - not 3 /= 2 : while 52 : pop end; do u9d(80) end end P : takes Nr, V : integer array returns nothing E : boolean array; M, p : boolean array; chillax end main : chillax end

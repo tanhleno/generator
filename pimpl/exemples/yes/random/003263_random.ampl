@@ -1,0 +1,1 @@
+program c : s0 : takes x5, U6, Aq, rq, v : integer; t280a : boolean array; t, ZU1, _68, q0 : boolean array; Z85, tp, _ : boolean returns nothing M : boolean array; B : integer array; output "" end main : chillax end

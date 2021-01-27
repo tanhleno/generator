@@ -1,0 +1,1 @@
+program Ckka : Yg : takes h9, G3 : integer; n : boolean array returns nothing k, Q94 : boolean; chillax end f : takes Q, Um : boolean returns boolean array chillax end main : when case true / false rem 55 <= - not false - not 6 or 76400 : when case 3 : chillax end end case - (4) : output ""; pop end otherwise : chillax end end

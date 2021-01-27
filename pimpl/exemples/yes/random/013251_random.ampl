@@ -1,0 +1,1 @@
+program L300a : u : takes gE, S1r0, MJl : integer; oYX : boolean array returns nothing k90, mI, a8n, _, M : boolean array; pl : boolean; c6, aZ : boolean; R2 : boolean; let R[- not 35] = array not 865 end main : let x = array(4 = 3) end

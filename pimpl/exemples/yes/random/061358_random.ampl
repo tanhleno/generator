@@ -1,0 +1,1 @@
+program q : o : takes K : integer array returns nothing output - 83 - 261 . "" . "4" . 5 . "\t#"; do e52a(- 6 - 9 >= 9, 6, 1, 05) end xw : takes f : integer; v5 : integer returns integer array chillax end main : chillax end

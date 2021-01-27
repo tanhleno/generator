@@ -1,0 +1,1 @@
+program EHIa : I : takes FZ7, O, W81 : integer returns boolean n6, j : integer array; HIL0a, Y : boolean array; chillax end F : takes K5 : boolean; s : boolean; w : integer array returns nothing S : integer array; chillax end h7 : takes pyH0 : integer returns boolean array chillax end main : IS, b9 : integer array; chillax end

@@ -1,0 +1,1 @@
+program K62 : Xp : takes s18, MmF0 : integer array; I, uB : boolean array; x, u, cP6, uo : integer; i2 : integer; in3 : boolean; K, OE, ln : integer returns nothing do R((21) and 4) end main : A, s, A : integer array; t : boolean array; chillax end

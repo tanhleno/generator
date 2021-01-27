@@ -1,0 +1,1 @@
+program T : R : takes g2, PH, H : integer returns nothing when case - 04 and 7790 >= 13400 : pop end case - 27700 - 5 : output "7\t\"" end end a : takes W1 : integer; Y7V, LT, O, Cqfa : integer array; p, k, Om, OyL, T : integer array; Q2x : boolean returns boolean array chillax end main : chillax end

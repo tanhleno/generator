@@ -1,0 +1,1 @@
+program x : N870a : takes R, O, pUH, x : boolean array returns integer array while(0) : chillax end; pop 0; let dw = 6; pop 4 end main : s, a : boolean; pop 19000 and not 6 and 266 < 075 and 4090 - 24 - 13; while - 78 <= - not 52 and 630 : chillax end; input q end

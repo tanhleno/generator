@@ -1,0 +1,1 @@
+program Q5 : A : takes h : integer array; F : boolean; _ : integer array returns nothing when case not 7 and 33 - 20 - 8 : input U[1]; pop end otherwise : chillax end; let _2[8] = array - 67 - 0; output 80; input s; do Gy(84) end K4 : takes N, e, Q : boolean; O, Hu5aa, lqd0a, zb : integer returns integer array CHtaa : boolean array; chillax end main : G, Q5 : integer; chillax end

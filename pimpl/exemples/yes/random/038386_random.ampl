@@ -1,0 +1,1 @@
+program n4 : B : takes B8 : boolean array; DP90, mQz0, B17a : integer returns boolean array let G[false and 7] = array 0 - 3 - 93200; while - 1 - 105 /= 1 : let t = 75 end; when case 1 = 87 : do LD(665); pop end case 23 : chillax end case 9 : chillax end otherwise : pop end end main : output true /= not 4720 and 9; output "" end

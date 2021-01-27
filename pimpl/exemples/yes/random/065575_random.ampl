@@ -1,0 +1,1 @@
+program j : y : takes k : integer returns nothing while not 5 and 0 + 4 >= - 0 : let w = 37; when case 3 : chillax end; let a = 60 end; do h(- 0 - 29000) end main : FM, a : integer array; p7g, n, RVaaa, _, v : boolean; q4, U : boolean; chillax end

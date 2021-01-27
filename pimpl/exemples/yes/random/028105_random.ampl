@@ -1,0 +1,1 @@
+program e : K : takes P, Z0 : integer array; Y, q7 : integer returns nothing input e6[true]; pop; pop; pop 4; input mR; let Z = 7; pop end u : takes I : integer returns nothing Q : integer; L : boolean; chillax end main : chillax end

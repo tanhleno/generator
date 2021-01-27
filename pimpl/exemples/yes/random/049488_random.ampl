@@ -1,0 +1,1 @@
+program g : v93 : takes d : integer; J, m, x, gt, b : integer returns boolean j : boolean; k : integer; when case - 065 and 53 or 967 : chillax end case 543 - 6 /= 15 : input P end case 956 : chillax end otherwise : while 922 : chillax end end end main : r, p3, V1t : integer array; input f6[- 8 * 9]; pop - true and 1 >= 9 - 0 end

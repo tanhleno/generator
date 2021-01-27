@@ -1,0 +1,1 @@
+program S2 : sE : takes o, u, Q0 : integer array returns nothing p : boolean; o5d0a : boolean; b4, T5 : integer; t9j : boolean; L : boolean; chillax end main : while - true * not false : chillax end end

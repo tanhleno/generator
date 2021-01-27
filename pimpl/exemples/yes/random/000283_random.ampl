@@ -1,0 +1,1 @@
+program U3 : q23 : takes o, L, E, Ta, DDg, k, V, x : boolean returns nothing let f = array - true and 369 or 04 - 5; while 073 - 5 : chillax end; input X7[06]; do H(3, 88); while 0 : chillax end end main : chillax end

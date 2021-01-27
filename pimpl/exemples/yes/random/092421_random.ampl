@@ -1,0 +1,1 @@
+program J9 : main : output - true and 0 and 3 >= - not 9 and 4 or 8 - 58 . "."; when case - not not 49800 and 91 + 95 : let MO[7] = array 1410 end case c or 8 - 5 > 2 - 103 : do Q(5) end case - 37 - 3 > 2 : pop end case 32 : pop end otherwise : while 4 : pop end; pop end; output "" . 2 = 8; let P6 = array 0 end

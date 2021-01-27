@@ -1,0 +1,1 @@
+program S : main : while - of2 and(88) / 2 and 43 : let qz = array 74; output ""; do g(3, 3); do Tif(89) end; do w4B0a(- a * false - not 65 - 7690 - 2 /= 5 or 4); output ""; while - 4 - 23 > 84 : chillax end end

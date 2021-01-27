@@ -1,0 +1,1 @@
+program S : main : aw, dy, H, d6T, u, DN, SRd : integer array; B3_, f81, Rni0, A : boolean array; output ""; do p1maa(- false <= - not 645 and 5 - 6970 - 2); when case(919) : chillax end otherwise : chillax end; let P5H0 = 64 end

@@ -1,0 +1,1 @@
+program F : A : takes a : integer array; o1, OZ : boolean array; i, d6W, G1F0, jc : integer array; f1L0a, v : boolean array; H : boolean; _ : integer array returns integer k : integer; chillax end fEAa : takes c, lK : boolean; e3, Nur : integer array returns boolean output "" . "O\n" end main : chillax end

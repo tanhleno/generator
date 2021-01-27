@@ -1,0 +1,1 @@
+program E4i0a : K : takes iw6a, U, r, H, _1, Y7, s, rP : integer returns boolean q : integer; input zL50a[l and 6 + 3]; while - 24 : chillax end; while 3 : chillax end; while 7 : chillax end end main : R2 : integer; chillax end

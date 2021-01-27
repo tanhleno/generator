@@ -1,0 +1,1 @@
+program S3Fa : _ : takes dD, GCO, r, xq70a, U1, le : integer returns boolean VC3, c : integer array; chillax end main : do g0(YJ[88], - true / not 8 and 95); when case - true * false or true >= (41) : chillax end case(0) and 8 - 1 - 409 < - 116 : chillax end case 5 : pop end end

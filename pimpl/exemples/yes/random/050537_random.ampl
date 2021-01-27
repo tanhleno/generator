@@ -1,0 +1,1 @@
+program K : sTO0a : takes R : integer; K0, b_ : boolean array; R : integer array returns integer when case - x0 and 946 > 14 - 5 : chillax end case - 1 - 71 : chillax end case 6 : pop; pop end case 6 : chillax end; pop end main : do P(- not true and true / not 21 and 3 or 7 / true and 83, (5520) and false, true and 1 = 9) end

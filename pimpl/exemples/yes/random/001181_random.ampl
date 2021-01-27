@@ -1,0 +1,1 @@
+program k : q9s0 : takes yBw, V, n, r1, W8I, p : boolean; m : integer; n : integer; s6, P : boolean returns boolean array y, G3Z, C, f730a : integer; when case true < 4 : chillax end; output 6 end p6A0 : takes wt80a : boolean; L, w2, p5, u6f0 : integer array returns integer let b[- 620] = 2 = 2 end main : l64aa, I, n : integer; i, PI, QM, Q : boolean; chillax end

@@ -1,0 +1,1 @@
+program fm : main : input s; when case - false : do Zy(675); when case 0 : pop end case 34800 : chillax end end case - m38 or 7 < - 50 - 5 : chillax end case 97 <= 7 : chillax end case 2 = 5570 : let D = 9; pop end case 6 : chillax end otherwise : let k = 8; output "\"7\""; input z4 end; input y3[true and 153] end

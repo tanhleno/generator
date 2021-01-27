@@ -1,0 +1,1 @@
+program A : I : takes g7D : integer array returns nothing when case(27) : output "" end end main : st, LK, N6, j6, wZ90 : integer; r : integer array; input A[- true]; while - false > A1 : input u end end

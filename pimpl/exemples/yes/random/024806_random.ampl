@@ -1,0 +1,1 @@
+program C9 : T : takes w26, BI : boolean returns nothing pop end main : input p5N[- false or not tr - (062) + 35]; input Z17; when case not 24 + 768 - 6290 = - 0 - 258 : let R8[8] = array 79600; let M7 = 4910; pop; pop end case 8730 : chillax end case 15 : chillax end case 7 : pop end otherwise : output "\tE" end end

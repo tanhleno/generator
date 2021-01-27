@@ -1,0 +1,1 @@
+program xZj : L1 : takes u7 : integer returns integer n98 : integer array; z, g : boolean; M, c, e3E0 : integer; chillax end main : do Te9a(- (7000) * 7 or not true and 8810 + 3 = c[05] + true, - false <= (2) + 3 - 4); output true + 39700; while - dD and 6 + 4 : output 4 end; let n2[- 1] = 5 end

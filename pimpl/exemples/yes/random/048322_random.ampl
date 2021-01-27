@@ -1,0 +1,1 @@
+program S : s3 : takes x6 : boolean returns nothing T : boolean; chillax end HW20 : takes V32, Y, fD_, j3, R : boolean array returns nothing M : integer; output "\n" . "" . ""; while 81 = 1 : chillax end end p : takes J, n : boolean returns integer chillax end main : xIpaa, D, i, sS10a : integer array; chillax end

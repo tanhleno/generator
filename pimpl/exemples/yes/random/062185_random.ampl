@@ -1,0 +1,1 @@
+program oG8 : Q : takes H98 : integer returns boolean chillax end _ : takes i, Z, yS4, o3C0, R3 : boolean array returns nothing pop end cSpa : takes d : boolean array; V, _, xu : integer array returns integer chillax end u4 : takes eB80, YWh : integer array; y, Ii : boolean array returns boolean a3, j : boolean; JEs0a : boolean; w : boolean; chillax end main : chillax end

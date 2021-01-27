@@ -1,0 +1,1 @@
+program J : Y : takes Y : boolean array; W, Ep : boolean returns boolean array E, z, t, UeS0a : integer array; i : integer array; chillax end main : dC2a : integer; when case - false and(3) + true rem(2) or 33 and 1 : when case 1 : do v(44) end; let fv00[03] = 4 end case not not 3 > - 0 and 7 : chillax end end

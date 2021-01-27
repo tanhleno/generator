@@ -1,0 +1,1 @@
+program k : u19 : takes L : boolean; B, L, F : boolean; R : integer; ey : boolean array; ty, n : integer array returns boolean X : integer; N8 : integer array; o : integer; chillax end I : takes W : integer array; f8, zO9 : integer array returns nothing output "" end main : N9Daa : integer array; chillax end

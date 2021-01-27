@@ -1,0 +1,1 @@
+program l : hqra : takes R91aa, T : integer; Yj : integer array; Yz : boolean; M2Y : integer array returns integer array S : integer; do yb(qO = - 8790, 86200 - 8) end gi : takes Z2 : integer returns nothing chillax end main : chillax end

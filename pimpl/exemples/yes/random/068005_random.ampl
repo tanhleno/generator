@@ -1,0 +1,1 @@
+program c : main : v, U4E0, A, N, _, u0, A : boolean; when case H[55] / (4) * (3) and 8 < (21) + 819 + 5710 : let n = 085 = 8350; while 3 : when case 61 : chillax end end end otherwise : when case 8 = 7 : chillax end end; output - Br end

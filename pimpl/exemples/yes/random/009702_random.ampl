@@ -1,0 +1,1 @@
+program ik : yAE : takes s, x, l : boolean array; x, C, X : integer array returns integer array D, t7 : boolean; chillax end e : takes w2O0 : boolean array; p, e, A : boolean array returns integer chillax end main : while 2 < - 79100 and K and 122 : chillax end; when case 6 * not 52 : chillax end case - 8 and 20 or 86200 : chillax end end

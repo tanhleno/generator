@@ -1,0 +1,1 @@
+program Q : W : takes s3Na : boolean array; L6M : boolean array; E140a : boolean; T2 : boolean array returns integer array chillax end main : do W(- (14) rem true >= - true * (3)); output false or 98 - 0 . "@0"; when case 9 and 486 + 5 : do bej0a(9); while 01 : chillax end; output "" end otherwise : let y = 6 end; pop 8270 end

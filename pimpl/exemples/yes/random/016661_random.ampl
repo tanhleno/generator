@@ -1,0 +1,1 @@
+program i1Za : W : takes y, q : boolean; SB00, l9, V, iC, F, y7Ba, n : integer returns integer array output - 6000 - 7 . "" end w42 : takes rK4, C, IiU0a : boolean array; n0y0 : integer returns nothing chillax end main : chillax end

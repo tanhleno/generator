@@ -1,0 +1,1 @@
+program T : main : xx, r6O0, z, UO : integer; R95, Ec1a : boolean array; when case 7 / true and(989) - not 0 / not 805 and 3000 - not 6 : chillax end; do gU2(not false + false and 888 /= true, - 1 and 2 - 802 - 282 = - 3 - 6, - 2 - 234, 28600 = 39, 65, 0) end

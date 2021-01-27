@@ -1,0 +1,1 @@
+program o6 : main : U, m_ : boolean array; i : integer array; H : boolean; N, U : integer; G9 : boolean array; m, Beua : boolean; cW : boolean; pop - not(27) * 6 and 6 /= false - 3; output not 7 <= 0 . "" end

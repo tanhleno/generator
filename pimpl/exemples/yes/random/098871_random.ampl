@@ -1,0 +1,1 @@
+program M : main : while - true * not _W and(5) : output 2; when case 6 = 97000 : chillax end case 6 : chillax end case 42800 : chillax end otherwise : chillax end; let Y[42] = array 6200; while 25 : chillax end end; output "M7"; do r92aa(false and 1220); do z(- 36 = 47, 1, 778, 6) end

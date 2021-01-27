@@ -1,0 +1,1 @@
+program A : F : takes XIz : boolean array; lx20 : boolean returns integer l97a, Q, M56 : integer; H9r0, Z : boolean array; K, o : integer; let b[(28)] = - 65 - 13; pop 58900 = 68200; output "" . 0; input rRlaa; while 6 : chillax end end p5 : takes s : integer array; Xw9 : integer returns integer array q : integer; chillax end main : D, h : boolean; chillax end

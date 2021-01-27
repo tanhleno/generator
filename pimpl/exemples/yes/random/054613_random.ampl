@@ -1,0 +1,1 @@
+program NqV : vT : takes r : integer array; SB, H : boolean array; E : integer returns boolean z : boolean array; s : boolean array; chillax end main : G1, d70 : boolean array; O : integer; H, DU, g : integer; chillax end

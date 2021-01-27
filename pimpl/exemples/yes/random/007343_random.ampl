@@ -1,0 +1,1 @@
+program A2k : q8Za : takes v7, C2, e, v : integer array; J3 : integer returns boolean array when case true and 0 + 68 > - 24 : chillax end case 1 - 6 = 15 : chillax end end main : QZ : integer; I : boolean; K : integer array; M : integer; s : boolean array; chillax end

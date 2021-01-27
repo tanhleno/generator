@@ -1,0 +1,1 @@
+program QS9 : S4 : takes S4J0a, Jf20a, l : integer returns boolean array pop 4 = 022; when case - 6 <= 08 : input Rz50a end case 387 = 11700 : while 3 : chillax end end end main : Ty : integer; v : integer; QzM, DNU, J : boolean array; chillax end

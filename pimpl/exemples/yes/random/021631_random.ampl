@@ -1,0 +1,1 @@
+program g : VU : takes g, BM : boolean array returns integer l, o1, M8D0a : boolean array; m, oUMaa, Bk : boolean; iYFaa : boolean; while - 85 <= 178 - 9 : pop; while 0 : chillax end end; while - 9 - 88 : chillax end end main : chillax end

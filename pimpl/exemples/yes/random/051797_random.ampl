@@ -1,0 +1,1 @@
+program a23 : q : takes rh : integer; _ : boolean array; ns : integer; u51, B : integer array; c : boolean array; z16 : boolean returns integer H, G9 : integer array; q, lJ90, Hu, gZs : integer; let Q68 = 17 > 0 end cw : takes NN, j, Mj, Y, e, D46 : boolean array returns integer array chillax end main : _ : boolean; input vN40 end

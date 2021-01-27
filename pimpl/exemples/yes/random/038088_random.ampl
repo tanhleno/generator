@@ -1,0 +1,1 @@
+program Z6E : Z : takes b6 : boolean array; XP0, Iy, G1 : boolean array returns integer array h : boolean; pop 2 - 4860; while 0 - 7 < 68 : output "" end end I : takes D : integer array returns integer input B end main : A4 : integer array; chillax end

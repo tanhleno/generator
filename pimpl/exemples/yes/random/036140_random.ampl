@@ -1,0 +1,1 @@
+program OP : SNI : takes W : boolean; DF : boolean returns boolean array let s = array c and 6; when case 5 - 0 : do KF7(5); when case 0 : chillax end; pop end case 1 : chillax end case 24 : chillax end case 0 : chillax end otherwise : chillax end end main : M, cB : boolean array; chillax end

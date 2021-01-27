@@ -1,0 +1,1 @@
+program D : T1 : takes j4n, v0K0a, OHV0 : integer array; Q : integer; l : boolean array; r8, VMJ : integer; wEB0 : integer array returns nothing P1S : integer array; Si7aa : boolean; N7 : integer array; let w = array - true; output "<"; output "" . "" end main : l, Lw : boolean array; oGXa, c, a : integer array; n30 : boolean; chillax end

@@ -1,0 +1,1 @@
+program xc : m1 : takes cMtaa : integer array returns boolean array when case - false and 3 or 6480 : let A36 = array 6 end case 6610 : chillax end otherwise : pop end; while 82 - 50 < 3 : chillax end; do M(1 = 7) end main : io8a : integer; chillax end

@@ -1,0 +1,1 @@
+program A : EG : takes f, d, G : boolean array; LU1 : boolean array returns boolean Uf : integer; fq3, J, P : integer array; B10, u, t : boolean; N7 : boolean; chillax end p : takes q, sx : boolean array; Sv, M, I : boolean array returns integer array J, p, VfPaa : integer array; q80aa, x : integer array; do gGm(0 <= 2, 23, 02, 057) end main : chillax end

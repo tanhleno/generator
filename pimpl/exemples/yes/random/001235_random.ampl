@@ -1,0 +1,1 @@
+program LM8aa : M : takes j, Ub, jPVa, D71, p, i020 : boolean array; uM, C, E : boolean returns integer v73, JD10, V, C : boolean; pK0, C : boolean array; output "" . 3 = 23; while - 4 - 6 : chillax end end main : Wj, Y, J : boolean array; j89 : boolean array; do T(false and true + 89 > p, not false rem not 47100 or 4 and 4 /= - 74 or 3 - 4, - 22 and 5 /= 7) end

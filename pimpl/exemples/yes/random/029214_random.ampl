@@ -1,0 +1,1 @@
+program I650 : P : takes T, sF3a : integer array returns boolean array chillax end of : takes E0D0a, wYV : boolean array returns integer array y : boolean array; h5, T : integer; input G[956] end main : Z : boolean array; pop - (8); let g = not 8 <= - 8 - 31; let ql = array - not 4 end

@@ -1,0 +1,1 @@
+program J : Qv10 : takes z : boolean; F9, v : integer array returns integer array while - A : input hD5aa[404] end; input P5j0a[26]; pop; do m(7, 2) end main : D2, XL : integer array; n2, RW, Z9, w : boolean array; chillax end

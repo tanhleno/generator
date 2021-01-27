@@ -1,0 +1,1 @@
+program N3 : Z : takes a : boolean array; A, Q2 : integer returns boolean array vv, xgwa : boolean array; while - (2) and 8 : while 906 : chillax end end end main : a : integer; l, cw70a, I4, O : boolean array; let d[- 34 rem true or 9 or true and 9 or 1 - 8] = zI[3] and true and 7; pop - 91400 and 32 + 3 end

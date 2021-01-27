@@ -1,0 +1,1 @@
+program b5 : u : takes O : boolean array returns nothing chillax end main : p550a : integer array; sAx0 : integer; R5paa, z : integer array; B, y8, a : boolean; IXt, q1U0, n : integer; Y130a : boolean; K1 : boolean; LO3 : boolean; pop; pop - 8 - 5 - 38 > - 02 end

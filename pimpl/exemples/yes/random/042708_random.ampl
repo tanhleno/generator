@@ -1,0 +1,1 @@
+program ypxaa : Ie90a : takes x : boolean array returns integer array D : boolean array; m : boolean; u92 : boolean array; k : boolean; i : boolean; Q : boolean; do C7(not 81 /= 5 - 5, - 0 = 2810, 22, 344) end main : p4, O : integer; N, O : boolean array; output - e[6] end

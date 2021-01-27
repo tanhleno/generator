@@ -1,0 +1,1 @@
+program o9z : Z : takes F3, k, S, I, W3 : boolean; cv : boolean array returns nothing _ : boolean array; do d(- Y7 or 8, - 50 - 9) end U : takes l1T, j : boolean; DZsa, TSQ, O8, M, s : integer returns nothing while 4 - 6 : output "3Q" end end main : chillax end

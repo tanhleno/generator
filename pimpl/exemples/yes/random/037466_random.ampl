@@ -1,0 +1,1 @@
+program J : e : takes K : boolean array; x, m5Oa, y, i, j, MA, J : boolean returns nothing oV : boolean; while - (4) and 3 + 54300 - 33 : input ta3 end; let j[- 3 - 716] = array - 2620; output 4; while 096 : chillax end; do w(717); when case 3 : chillax end; pop end main : s : boolean; eS, ke, rL9, t4, q : boolean; pop end

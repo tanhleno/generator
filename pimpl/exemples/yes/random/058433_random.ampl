@@ -1,0 +1,1 @@
+program v : IQ : takes y : integer array returns boolean A0 : integer array; f5, S, a2 : boolean; chillax end main : F0 : boolean array; T0 : integer; when case false : input t[6 - 2]; input F end otherwise : chillax end; let M = array(3) + Vr; input G03; input _8 end

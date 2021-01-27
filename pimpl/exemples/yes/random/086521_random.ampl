@@ -1,0 +1,1 @@
+program f65aa : main : PfRa : integer array; dRs : boolean array; m5, Z : integer array; n : boolean array; a, JI, i7gaa : boolean array; y, S0 : boolean; h0 : boolean; while 7260 = - 6720 / false and 763 : chillax end; let I2[- not(871) or 67 and 94 or 3 - 84900] = - not 549 and 48 or 9 - 2 > 830 end

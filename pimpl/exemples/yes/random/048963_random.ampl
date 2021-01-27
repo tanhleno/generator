@@ -1,0 +1,1 @@
+program G : w : takes Y : boolean returns nothing let mY[true and 80800] = 6 - 8 end r : takes X : integer array; H9, P, O, tf8a : boolean array returns integer chillax end ge : takes PF3 : boolean returns integer array Y : integer array; chillax end main : EU5 : boolean; h5L : integer; input z end

@@ -1,0 +1,1 @@
+program x6laa : l : takes A, w3 : integer array returns boolean array p : boolean; n : integer array; kh : integer array; G : boolean; R : boolean; chillax end main : while - Z[629] : chillax end; pop - false and 4 or 60 - 636 < 931 - 34 end

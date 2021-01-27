@@ -1,0 +1,1 @@
+program RO : main : M, H, s, S, F : boolean array; A4, M : boolean; when case true + false / not 712 and 5 : chillax end case - false / JI and 749 : input X48aa[7]; output "Pu0" . ""; while 79800 : chillax end; when case 1 : chillax end end end

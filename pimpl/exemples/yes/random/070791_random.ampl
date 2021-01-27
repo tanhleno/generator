@@ -1,0 +1,1 @@
+program h : main : es, p4w0a, c : boolean; I9, brmaa, I5 : boolean; rATaa : boolean; let o9I0 = (1) + br and 74; while(8) and Q and 2 - true and 3 : chillax end; when case - b = 7 : while 9 : chillax end end end

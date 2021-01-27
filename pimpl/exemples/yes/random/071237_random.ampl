@@ -1,0 +1,1 @@
+program Fkoa : main : G, OI7, S3t : boolean; output "p"; do i(0 and false and 5 or not 2750 and 184 - 9); while - E : chillax end; do x5J(2 < 5360, 971, 9); when case 0 : output ""; pop end case 73 : chillax end case 1 : chillax end otherwise : pop end end

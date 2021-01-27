@@ -1,0 +1,1 @@
+program a : _Oh : takes Oe, v3, E, _ : integer; uNQ : boolean array returns nothing let t = 160 - 1 < 80200; do W6(- 960 - 21, 89, 85400); pop end _9r : takes Y : integer array returns boolean array Je0aa, Rs : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program xA : e : takes M : integer returns nothing y, A2, W : integer; eA : boolean; let C = array - (156) and 3 or 6; let U = 0610 = 183 end YKs : takes _ : boolean; f : integer returns boolean array let R2[- 456] = 7 = 790 end main : input g end

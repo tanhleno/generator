@@ -1,0 +1,1 @@
+program K : aF : takes vv5, z : boolean returns nothing VM1 : boolean; b : integer array; input DH end s : takes H4xa : integer returns nothing chillax end main : aQ, M, M : integer; H, B0H0 : boolean; kW : integer array; m, Y, _ : integer; while(6) * qp[7] rem not 39900 - Z[4] and(8) or(6) and 5 >= (04) - 8 : chillax end; do vjH(not true, 7 and 6810 - 511 /= - 01) end

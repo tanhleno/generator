@@ -1,0 +1,1 @@
+program Dc : T : takes N : integer array; b : integer array returns nothing do m(- true and 60, - 1); input b55[- 1730 - 8]; pop; let VJO0a[1] = array 09; let p = 7 end VZ : takes A : integer returns boolean aR3a, Z2, N_ : integer; chillax end main : F : integer; Z77 : boolean; output "" end

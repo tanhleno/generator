@@ -1,0 +1,1 @@
+program Q : eI : takes OV10, i, JX : integer returns nothing when case 80 and 0 or 8 : chillax end case 18 - 997 : when case 4 : chillax end; output ""; pop end case 62 = 00 : output "" end end main : output 6 * true and 3 = - true and 0; do i(- true <= - not 6490 and 8, - 1 and 22300 + 9 - 3) end

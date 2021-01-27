@@ -1,0 +1,1 @@
+program M : O : takes ngP0a, lV : integer returns boolean t : integer array; Ot, TX9, d, c5 : integer array; sFwa, g0 : integer; chillax end main : pop 9 / ahr; while - false > 7 : output "#?" end end

@@ -1,0 +1,1 @@
+program M : U : takes lf, D : boolean returns boolean array f : integer; chillax end rE : takes G, eT, _ : boolean array returns nothing Sx, MBu, G, r1 : integer array; lK1 : integer array; output 888; when case 9 : chillax end otherwise : chillax end; do m(0, 554); output ""; output "}`" end main : chillax end

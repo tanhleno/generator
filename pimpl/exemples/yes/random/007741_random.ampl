@@ -1,0 +1,1 @@
+program B : N6 : takes E, k, r, k920 : integer array returns nothing lJ, x : boolean array; T, c, c : integer array; Y : boolean; chillax end main : while - true /= not false - X or 14 - 8 : chillax end; output - (7) and 54 > - 1 . - 71 - 46 end

@@ -1,0 +1,1 @@
+program V : Pm : takes I, gE00, XC : boolean array; r6 : boolean array; Q, C, c, q, su, B : boolean returns integer do H5(not 3 and 9510 + 057 - 9 >= 135 - 1, 716, 25 = 37, 744) end main : chillax end

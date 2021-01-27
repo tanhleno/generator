@@ -1,0 +1,1 @@
+program OW0a : Y77 : takes C3, E4H : boolean returns integer array pop; output 9 . 30 . ":" end main : when case true / 35 and not 27 + JDi0a[7] >= - 1 - true : chillax end case - not f0 / MR and 87 : pop 5 end case not 8 <= 44 - 9 : chillax end case 77 : let r = 6080; pop; pop end; let rQmaa[true / false and 874] = - FD40 end

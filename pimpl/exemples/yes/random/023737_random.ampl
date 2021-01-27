@@ -1,0 +1,1 @@
+program U : U : takes m5, O6 : boolean returns integer PY, B9 : integer array; do P(true - 9) end w : takes z89 : integer array returns boolean chillax end main : do S(not 9 / 2, - (8) rem(05800) or true and 48 = - (923) - 1) end

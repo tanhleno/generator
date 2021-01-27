@@ -1,0 +1,1 @@
+program Bf : O7 : takes sd, m6 : integer; Nh00 : integer array; SVRa : boolean returns boolean array e9, Lg10 : integer array; wN, SZKaa, Z : boolean array; let y[true] = 7670 - 8 >= 274 end main : m, Y : integer; P, i240a, Y, y, FF, r : integer; input o; output "e"; pop end

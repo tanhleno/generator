@@ -1,0 +1,1 @@
+program Cl7 : l6Qaa : takes m : integer array; E : integer array; n, gE4a, k, y : boolean array; m67aa : integer array; g, l : integer; t : boolean; X : boolean returns integer array chillax end W49aa : takes a : boolean array; M8, CI6a : boolean returns integer array pop 75; output "" . 95 . ""; do H3(510); input E end main : pop end

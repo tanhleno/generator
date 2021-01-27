@@ -1,0 +1,1 @@
+program Vw : main : uc7a : integer array; when case not X[9] and 4930 + false : while 16 - 021 < 52 : when case 0 : chillax end end end case - (1020) = (7) and 46 : chillax end; input Cx[91 * not 0 or not 61600 and 28 + 1] end

@@ -1,0 +1,1 @@
+program S0 : Va : takes xf, F0 : integer; w : boolean; p08aa : boolean; z : integer array; C18 : integer; D06, T : boolean array; e, BK30 : boolean; a : boolean returns nothing Z0, Oo, oR80 : boolean array; input n[- false] end E : takes A83aa, O, T, S, _ : integer array; h, F8r, R5 : boolean array returns integer array chillax end main : e3, h, t : integer array; chillax end

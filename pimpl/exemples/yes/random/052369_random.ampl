@@ -1,0 +1,1 @@
+program m38a : V : takes s : integer; F5 : integer; K, _J5, B, p : boolean; jR, l, q7 : integer array; i : integer returns nothing R6 : boolean array; when case false - 8 > - 7 : chillax end case - 77 - 8 : do p(41); input IE end case 85 : chillax end case 9 : pop end case 5 : chillax end otherwise : chillax end end main : BI, W83aa, w : integer; output "" end

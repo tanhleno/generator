@@ -1,0 +1,1 @@
+program wQ20a : main : while true * true or false - (23) + 222 - 9 = true or 4 and 7 - 535 - 3 : pop; when case 7670 : chillax end case 9 : chillax end case 3 : chillax end end; input CP50a[(71) / false] end

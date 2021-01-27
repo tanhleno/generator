@@ -1,0 +1,1 @@
+program c : h : takes j : boolean returns nothing let Fb7 = array - false + 1 - 692 end main : when case - true + not not 9 / (8) + false and 16 - 591 > - a[7] + 7 and 3 or 66 - 51 : while 0940 - 45 /= 1 : chillax end; when case 83 : chillax end case 9 : chillax end case 6980 : chillax end end otherwise : chillax end end

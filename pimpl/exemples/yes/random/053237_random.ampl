@@ -1,0 +1,1 @@
+program Qu : s : takes d5oaa : integer; t22a : integer returns nothing chillax end e : takes r, l : boolean; At, z76 : integer array; M60 : boolean returns nothing LQ, Y, f61aa, vA : boolean array; S, n4F : integer; let k44 = 8 = 3 end main : pop; let T5 = array false / not 64 + (5) and 8 or 5 end

@@ -1,0 +1,1 @@
+program F2U0 : main : T : boolean array; C : boolean array; while true + l < false * false and 8 - true - 696 - 8 : output 1 = 91 . "" . "/0"; do M130(521, 3, 248); pop end; while - 9 and 54 and 1 or Ew - 9 - 0 : when case 64 : output ""; pop end case 1 : pop end case 34 : chillax end; pop 63500; output ""; pop end; pop end

@@ -1,0 +1,1 @@
+program h : x : takes Z, A : integer array returns integer array chillax end main : j0, U, O, g8, D, U : integer; h3, b, Om3 : boolean; when case 3 /= (93) : input TA end case(66) and false >= - (13) and 5 : chillax end end

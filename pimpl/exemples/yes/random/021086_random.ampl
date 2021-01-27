@@ -1,0 +1,1 @@
+program SEC : d9 : takes b5, WHx : boolean array returns boolean jE8aa, U, Uy : boolean array; chillax end U : takes T : boolean array returns nothing f, P : integer array; nH6 : boolean; I, W : boolean; chillax end M_ : takes K : boolean; P5 : integer array returns nothing input n; let D62 = array 0 end main : chillax end

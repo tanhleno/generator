@@ -1,0 +1,1 @@
+program H3 : B7ga : takes X56, JU3, i2 : boolean array returns nothing nq : integer array; let l980a[- not 7] = array - true + 29 - 70; output "" . "" . 5 . ""; do I(4 = 3070); let h[04] = array 192 end main : chillax end

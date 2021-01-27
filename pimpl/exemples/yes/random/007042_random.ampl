@@ -1,0 +1,1 @@
+program fjl0a : v : takes u91a, Uw, E6, v : integer array; a_, VW70 : integer; DS : integer array returns integer array c : boolean; E, B0 : integer; while false and 14 : input D700a end; pop 7 = 1730; when case 511 : chillax end case 9 : pop end case 12 : chillax end; input A04; do o(108) end main : B : integer array; J : integer; H5K0 : boolean; p27 : integer; chillax end

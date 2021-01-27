@@ -1,0 +1,1 @@
+program n3g0 : u : takes o : boolean; z2 : integer array returns nothing input f end main : zs, EG50, a, L, M3S, V, J : integer array; x, H, s : integer array; H, mF : integer array; c : boolean; output N2 / not 3 and 488 end

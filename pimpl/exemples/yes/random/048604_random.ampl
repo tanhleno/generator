@@ -1,0 +1,1 @@
+program sn : K : takes T2 : boolean returns nothing NN : integer; Hm8, U, W, c : boolean array; chillax end PA : takes ZXvaa : boolean returns nothing chillax end C51 : takes mZ, P83, k : integer returns integer W8 : boolean; Ifu0a, n : boolean; LW : boolean; i : boolean; output 18 end main : chillax end

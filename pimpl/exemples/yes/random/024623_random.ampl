@@ -1,0 +1,1 @@
+program X68 : k : takes bQ, j4e : boolean returns nothing t0g : integer array; p2, b1 : boolean; chillax end V : takes C, n4, q78, J : integer returns nothing d0 : integer; _g5a, r, S6 : integer; pop 17 = 90; while 7 = 03 : input ytD; pop end end Ex00 : takes q6, Ji, JsG0a : integer returns nothing Hb1, IN4, rt : integer array; Bx : boolean; chillax end main : chillax end

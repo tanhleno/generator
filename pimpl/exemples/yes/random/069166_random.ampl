@@ -1,0 +1,1 @@
+program c : main : h, _, L, M, x : integer; when case not true = - R(4) : chillax end case not 653 + 2 and 001 - 726 - 786 < 08 and 65 : input V[75] end; pop true and 9 + 3900 - 41 = - 7 - 58500; do h(eg - 960) end

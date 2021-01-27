@@ -1,0 +1,1 @@
+program P1V : main : hC, l, P4p, bW : boolean; L, g : boolean array; t : integer; output - not(21) * 4700 and 9 or Z - 4 - 220; while D1vaa / false and 366 = true - 5 - 96 : output "" . 74 . "" end; pop - 72 - 5 end

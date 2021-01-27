@@ -1,0 +1,1 @@
+program Y : r : takes QRFa, r : integer; p : boolean array; eM, Ha : boolean; m, p, m, k9 : integer array; Z, r4ea, B : integer returns nothing l0 : boolean; do v3(3380, 1 - 887 > 9, 298) end main : while false + f[52] /= - 4 or not 1 or 4 - 8 : chillax end end

@@ -1,0 +1,1 @@
+program Q : Y : takes L, CYW : boolean array returns integer array pop 0 - 87 end ct6aa : takes I2, K2, s5N : boolean returns nothing do d(79 /= 4) end main : U1, k, Ov3 : integer; s9 : integer array; r6k0a : boolean; chillax end

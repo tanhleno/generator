@@ -1,0 +1,1 @@
+program u : S : takes F25 : integer array returns integer array n : integer; II, y : integer; chillax end o : takes C, o, sXW, FQ00 : integer returns integer array input VX; when case 7 = 63 : let b = 1 end; output "\t\ta" . "" end main : D : boolean array; do au(false / false) end

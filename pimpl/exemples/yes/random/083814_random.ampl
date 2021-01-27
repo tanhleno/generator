@@ -1,0 +1,1 @@
+program w : main : p : integer; ddA, Gkj : integer array; n4j, Uw : integer array; h : integer; dsI, aA : integer array; X, FM : boolean; F : boolean; do h(445 / Z); while not(5) or not 7 - 6 - 9390 >= - true and 2000 or 2 - 5 : chillax end end

@@ -1,0 +1,1 @@
+program p8 : jhZ : takes y : boolean array; O4 : integer; EXD : boolean; B : boolean array returns integer array output - 91700 = 6; let h7j0a[9] = 526; let sO = 3; output 6 . ""; pop; let K = 3; pop end main : m28, p : boolean; i : integer array; o, _ : integer array; H, _ : integer array; chillax end

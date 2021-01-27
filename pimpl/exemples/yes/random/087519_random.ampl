@@ -1,0 +1,1 @@
+program hsh : main : Hi : integer array; when case - not(1) rem false * not 0 + true / 0 and 18 : pop end case(2) or(4180) > - false and 8 : chillax end otherwise : do K(84 = 27); do h(57) end; do Z(- not false rem false and 3 or not 819 or 9 - 5 = 3 and 0 + 5190) end

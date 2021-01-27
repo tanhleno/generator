@@ -1,0 +1,1 @@
+program FCa : OS30a : takes SD : integer; UIIa : boolean array; p2 : boolean array; t, y5, j3, y : integer array; g, A, Y : boolean returns boolean while not 1 = - 4 - 5340 : pop; pop end end main : l : integer; input W end

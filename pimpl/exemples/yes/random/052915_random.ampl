@@ -1,0 +1,1 @@
+program wA : Y : takes ll : integer; l9A0a : integer array returns integer array tOf0, z : boolean array; B_sa, Y4, O, Q6q : boolean; chillax end main : u, Y, A6, k4Za, zE0 : integer; let k[- not false / false rem not 9 + true] = array 77 and false rem Q; let WmP0 = array - true end

@@ -1,0 +1,1 @@
+program X : Fh : takes E, P : integer array returns integer s : boolean array; output "=" . "\n"; do R2(2 - 318 >= 186); while 2 : pop; pop end end D : takes I : boolean array returns boolean array e : boolean; do h1B(- 55700 - 924, 48400 = 3, 35); output 00 end main : P : boolean; chillax end

@@ -1,0 +1,1 @@
+program m : Qy3a : takes r, G1 : integer array returns nothing b, p810a : boolean array; IjRa, w, c : integer array; x, h : boolean array; s, I5 : boolean; chillax end main : let W5[true * G[62] rem 2] = array - not false rem true - N / true + (6) or 0 - 203; do iM(- true or 4, - not 38 and 874 - 325 - 6) end

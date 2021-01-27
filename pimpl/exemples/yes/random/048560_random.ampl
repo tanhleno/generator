@@ -1,0 +1,1 @@
+program O0 : zSf : takes S : boolean returns nothing k : boolean array; output - 7950 >= 00 . 4 = 1 . 1 end q : takes T : boolean array; MH, B : boolean array returns integer array output "|"; input H; pop end main : m : boolean; r, b, s3t : boolean; chillax end

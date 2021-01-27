@@ -1,0 +1,1 @@
+program M : main : D, Y, f9, E4, N25 : integer; do D8(- (8 = 64) or false rem 4 and 0, (1) / not 67700 - (77) and 36 > true and 8 + 00600 - 7, (8) <= 07100 - 95100, 654 - 2 < 3, 529 = 909); output "" . "" . "dU\"" . "eB" . 3 . "" end

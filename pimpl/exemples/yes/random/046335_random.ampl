@@ -1,0 +1,1 @@
+program t : z : takes v1 : boolean returns boolean let y[- not 0 and 04 + 3] = array - false and 774 - 51 end main : BQ, T : boolean array; h : integer; Z9D, k : boolean array; c3t : boolean array; m97, ne9, ogm : integer; H87a, j3 : boolean; m26a : boolean; chillax end

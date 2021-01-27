@@ -1,0 +1,1 @@
+program dQ2 : y : takes tFg, H, F : boolean array; l, R : boolean; j, o3, K, G, R_ : integer array; jl, L5Taa : integer array; Z4 : integer; h, h, k1Ua : boolean array; S : boolean returns integer o : boolean; ZRL, V, w, g9 : boolean; d, W, fQ : boolean; chillax end main : input OIM; pop; pop; let H = array 759 end

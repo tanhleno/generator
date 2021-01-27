@@ -1,0 +1,1 @@
+program L5 : D2 : takes n : boolean; i98, P, x : boolean; w, j, sd60a, es, ceW, A : integer array; a6, tt : boolean array returns boolean I : boolean array; i : boolean; B, T9a0, g49 : boolean array; chillax end main : a, af, W : integer array; let Y = (1) - not 9 - 4 - 6 end

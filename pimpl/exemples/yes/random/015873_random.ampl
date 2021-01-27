@@ -1,0 +1,1 @@
+program j : KQ : takes yj4a, fap0a, F4Laa : integer returns boolean output - 585 >= 8 end F : takes d : integer array; P8m, E720, Q, A4L : integer returns integer c : integer; chillax end u : takes Y, mA : boolean array returns nothing chillax end Lo : takes Y, Y, H : integer array; G, X, U_ : boolean returns nothing let X4 = 25900 end main : chillax end

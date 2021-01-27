@@ -1,0 +1,1 @@
+program B : af : takes P : integer array; n8 : boolean returns nothing chillax end o : takes J6 : boolean; Bn8 : integer; bK60a : integer returns nothing J : boolean array; let g = array - 26800; let T[5] = 1; do Uh(268, 6740) end main : TC6a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program C : TO : takes k, y, m6 : integer array; P : integer array returns integer chillax end main : e, w, i : boolean array; I4, ilQaa, z : boolean; input M[(56600 = 355) / true * not 6 and 96 + false rem V and 4 or(5) + 2] end

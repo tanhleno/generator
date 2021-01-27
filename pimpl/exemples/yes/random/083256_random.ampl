@@ -1,0 +1,1 @@
+program w : main : B2 : integer; tD, P60, V, F : integer; S : boolean; while not 9 rem true / not 1 + 1 rem not 3 - false and 94 - 3 <= - Z3(9) : chillax end; input p01; let gp9[3800 and 6] = - 20 - 1 > 8; input _3 end

@@ -1,0 +1,1 @@
+program r : S : takes b, u : boolean returns integer array R0 : integer; L9, E : boolean; chillax end main : output - (6) / false + (4); while(96000) * H17 and 4 + 1 : output 4; input v end; do z4(- 9 and 4070 or 20 - 505 <= - 2960) end

@@ -1,0 +1,1 @@
+program Z : main : d0, l, h : integer; while c84aa[96] and not false rem true + (2180) and(7) and 1 or true and 17 < - (8) / false or(0) and 00 : input XX50a[9]; do G(11, 9) end; when case - not Uk3 : chillax end case(1) = - 2 - 4 : chillax end otherwise : chillax end end

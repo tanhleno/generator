@@ -1,0 +1,1 @@
+program Yb : tk : takes U9saa, l, Bs, B : boolean array returns nothing output 6 . ":" . "" . "" . ""; output 9 . 6; output "" . ";" . "\"" end main : r9s, y : integer array; output "" . - not 02 or 4 - 5 . 8 > 73000 . 40 = 4 end

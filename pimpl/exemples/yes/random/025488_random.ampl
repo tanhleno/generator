@@ -1,0 +1,1 @@
+program ju1 : l : takes q, eMU0a : integer; avla, c7 : boolean array; p25aa, t, jt : integer returns nothing pop - 88 end x3 : takes c_8 : integer returns nothing Y9, Bm80, N, b5 : boolean; S, l : integer array; when case 35 : chillax end end bW : takes J : boolean returns integer chillax end U : takes f : boolean returns integer while 8 : chillax end end main : chillax end

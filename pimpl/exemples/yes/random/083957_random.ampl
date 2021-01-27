@@ -1,0 +1,1 @@
+program t8B0a : main : F9s : integer; oj : boolean; QG : boolean array; when case - false rem not 01 or false rem X5 and 73 + false and 25 : chillax end otherwise : chillax end; when case true - (5) < - (1) and 52 : while 64900 : let c44 = 72; pop end end case - 9 : do Z5(1, 2) end case - 4 : chillax end case 7 : when case 6 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program GQ_a : D : takes s230, m6 : boolean returns boolean array N : integer; chillax end E : takes u : integer returns nothing let l[3900] = array 3 - 64 end Lw : takes Yl10, h16 : boolean array returns integer K : boolean; Se3 : boolean; pop 217 end main : d : integer; h, UT4 : integer array; chillax end

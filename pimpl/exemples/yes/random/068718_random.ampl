@@ -1,0 +1,1 @@
+program g16aa : main : Q, Nl, Y6, xk2aa, n98 : boolean; M : boolean array; when case not n1[0] and false and(8) and 5 - (21600) / not 6 and 2 : let Fb = array - 8 - 26 end otherwise : chillax end end

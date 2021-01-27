@@ -1,0 +1,1 @@
+program J : E : takes RV_aa, Ycx : integer returns nothing chillax end B8 : takes j, ZB, X, A7w0a : integer returns nothing C8 : integer; output 3 . 5; pop; when case 45 : pop end case 9 : chillax end end main : output - true or(6) and 0 < - false and 8 + 6 . (4) and 97 + 1; pop end

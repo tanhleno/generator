@@ -1,0 +1,1 @@
+program T : _ : takes QM : integer; u : boolean array; M, j, bC : boolean array; hn, Z2, ZUy : boolean; N, W : boolean array; Wh, lc : integer; b : boolean; u : boolean returns boolean array pop; while - 0 - 74 >= 302 : chillax end; while 61 : chillax end end main : P2 : integer; gM, C : integer array; d4, W0 : integer; A, F1B : integer; chillax end

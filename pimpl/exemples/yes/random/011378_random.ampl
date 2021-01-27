@@ -1,0 +1,1 @@
+program X5e0 : N : takes h9Y, O, X : boolean array returns nothing UUt : integer; q5, N : integer; chillax end g : takes l5, j420a : boolean array; c14aa : integer; N : integer returns nothing Y : boolean array; chillax end main : let g[248 * _u[3300] and vU8 and 4 - a(374)] = false / false - false and 1 or 54 = - 2900 - 3990 - 5 end

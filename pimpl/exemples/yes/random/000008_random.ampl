@@ -1,0 +1,1 @@
+program N5 : LRLa : takes z3, u6c0, zc6, Q, Ni2, y, Q, K60 : boolean; qL, bm, e, s : boolean returns integer K : integer; let P[(1) - 8 - 0] = 313; when case 5 - 824 >= 2 : chillax end otherwise : chillax end end mN : takes Qquaa : integer returns nothing CJ, f : integer array; pop 2 = 7; while 1 : chillax end end main : w : boolean; let F350 = (5) and 0 >= - true end

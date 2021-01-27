@@ -1,0 +1,1 @@
+program d : s : takes y6, TA : boolean; P : integer returns nothing when case false and 254 or 6 - 10 = - 2 : chillax end otherwise : output "4i"; while 94400 : chillax end end; while 09 = 88 : chillax end; when case 7000 = 11600 : chillax end; input Pz[3] end main : chillax end

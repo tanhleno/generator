@@ -1,0 +1,1 @@
+program v7h : main : c : boolean; let H = array - true - (89200); output "" . "(" . 7; while - 8 - 7 - 1 : chillax end; when case - 38000 : chillax end otherwise : output ""; pop end; do W(92 = 70900) end

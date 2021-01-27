@@ -1,0 +1,1 @@
+program H8fa : T : takes kY : boolean; L, yL : integer; J : boolean array returns nothing O, F_0 : integer; input Q[- false and 9 - 1 - 96] end n : takes q : boolean array returns boolean F, k : integer; N : boolean array; _9Ua, y : boolean; pop 02500 = 4; while 626 = 8 : input YN; pop end end main : F, v : boolean; g, p5R, h : integer array; chillax end

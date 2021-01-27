@@ -1,0 +1,1 @@
+program n55 : p : takes s : boolean array; PB, q52, p : boolean; z, anc, w8 : integer returns boolean array j, L32aa : integer array; J, _, R : boolean array; Q, R : integer array; F2u0a, m6sa : boolean; r : boolean; chillax end main : chillax end

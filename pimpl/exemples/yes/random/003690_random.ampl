@@ -1,0 +1,1 @@
+program p : O : takes L9, Z, r36a, m, _NF : integer array returns boolean W1waa, du, t : integer array; n, _ : boolean; input i0[- true]; while - 08 : when case 1 : chillax end; do s(6); pop end; pop 0; when case 7 : pop end otherwise : chillax end end main : Y, G : integer; pk7 : integer; chillax end

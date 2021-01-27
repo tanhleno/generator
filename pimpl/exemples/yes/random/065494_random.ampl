@@ -1,0 +1,1 @@
+program cr30a : G : takes M : integer returns nothing when case NFP0 - 7 - 0870 : chillax end case 02600 : while 1 : chillax end; input XaS; pop end; input j[90] end main : vQ : boolean; F : integer array; bIk : boolean; do j87(- false or y5 or P9D /= - ST7(1) rem 2 - 96, true, 73 and 65, - 5 - 77); output not 3 + 2 > - 1 - 91 . "N:\"a"; let BSRaa = array - true and 0 end

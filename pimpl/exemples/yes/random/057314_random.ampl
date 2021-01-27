@@ -1,0 +1,1 @@
+program Ur : TkG : takes G6 : integer array; Gm : integer array returns nothing when case(3) and 0 + 2 > 6 : chillax end case - 956 : chillax end case 488 = 3 : when case 0 : chillax end; pop end otherwise : chillax end; pop 2; do T81aa(8840); output "" . "x\""; do RD(6); input pY end main : D : boolean array; chillax end

@@ -1,0 +1,1 @@
+program o : RjYa : takes w0, T : integer array; F5, R, Y, M : integer array; tr, i4, m, A : integer returns boolean let E = - 4 end main : input V56; input Mo; let I3[false and 4] = array - 1 and 3 end

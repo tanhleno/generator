@@ -1,0 +1,1 @@
+program G : m : takes Z : boolean returns boolean chillax end N0 : takes n4Ta : integer; U, S, z, t, vyz : boolean array returns nothing input Azdaa end main : do _((59500 = 765) * not true / 48600 /= - (4) rem(9), 51 rem not 4 and 94, 550 + 92 - 6) end

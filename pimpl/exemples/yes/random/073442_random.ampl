@@ -1,0 +1,1 @@
+program t : main : V, i : boolean; f, Y_, T6 : boolean array; X_, iw, fyMaa, k : boolean array; i9 : integer; gt6, u, XMZ : integer array; u, C45 : boolean; when case - (6 = 8) or false * 6350 and 638 + (58) and 60 or 7 - 533 : chillax end otherwise : while 6 : when case 7 : chillax end end end end

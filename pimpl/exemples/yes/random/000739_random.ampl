@@ -1,0 +1,1 @@
+program Je10a : tKU : takes J, G8, C, h6, dS, a, Q : boolean array returns nothing output 0670 - 10 end m : takes D, X, j, y : integer array returns boolean array Q, d49aa, t : boolean; let DXy = array 9910 - 85; do W6(7) end main : _, x, J : boolean array; i, L, i, Dy2aa, B, V : integer array; chillax end

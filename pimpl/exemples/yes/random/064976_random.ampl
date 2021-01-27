@@ -1,0 +1,1 @@
+program Bp : A11 : takes l6 : integer returns nothing G : integer; f4 : boolean; output ""; output 4 . "A3\"" . 1; do M(4) end _ : takes d, E : boolean array returns boolean array jM, Ha, W26a : boolean; chillax end main : pop; input Vw0; do AvD(1 or 31 = - 3 - 7); do f(- 410 - 1, 5960 = 9) end

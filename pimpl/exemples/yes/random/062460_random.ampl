@@ -1,0 +1,1 @@
+program Z19 : o6 : takes O : integer returns boolean CrE : boolean; u, K7N0, H, O : integer; do g(- not 91700 - 41); pop 3 end x : takes l4i : boolean returns boolean H, dBX, p, d : boolean; while - 58 - 8 : while 7200 : chillax end; output ""; pop end end main : d, k : boolean array; o0 : boolean array; y5B, k790 : integer array; chillax end

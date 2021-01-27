@@ -1,0 +1,1 @@
+program Tx : o960 : takes y5G, bw8 : boolean array returns nothing c : boolean array; chillax end o : takes DX : integer; Xw : boolean array; Hk8 : boolean array returns nothing chillax end u : takes T, Z0A : integer array returns nothing pop; pop 73 end main : chillax end

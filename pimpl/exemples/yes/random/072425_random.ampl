@@ -1,0 +1,1 @@
+program lm : main : y, Z, c01 : integer; let M[- false + O and true] = - true and not 4; when case - not 122 / B + 084 : chillax end case(64) + 95400 > - 3 : while 7 : pop end end case - 8 - 6 : chillax end case 39 : chillax end; when case - false or 937 : chillax end otherwise : chillax end end

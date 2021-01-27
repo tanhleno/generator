@@ -1,0 +1,1 @@
+program j : y0 : takes Q, Z : integer returns integer array V : boolean array; do o(false and 315 + 7 - 3 /= 9, 29 - 6, 8, 6, 57) end main : o, o : integer array; ju : boolean array; i, g, P : boolean array; G, X, X : boolean; G1, F, Z4 : integer; chillax end

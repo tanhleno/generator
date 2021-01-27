@@ -1,0 +1,1 @@
+program G : oS : takes b9, Lon : integer array returns integer X, l, I, Z0, T9 : integer; let N[true and 9730 + 520] = array false and 849 end Q : takes gDe : integer array returns integer chillax end n : takes c : integer array; i, hb : boolean array; t7a : integer array returns nothing chillax end main : chillax end

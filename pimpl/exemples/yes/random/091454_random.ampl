@@ -1,0 +1,1 @@
+program u : main : let T[not(38) and not(36) + e(1) * not 670 and 7] = - true; when case - true > - N and 86 : chillax end case - false and 37 - 05 - 3 : pop 46; output "3"; when case 85 : chillax end; pop end otherwise : chillax end end

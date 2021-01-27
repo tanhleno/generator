@@ -1,0 +1,1 @@
+program tL : v : takes A : boolean; t : boolean array returns boolean array E : integer; when case - true = 6 : chillax end case - 3 - 2 : chillax end case 74 = 9 : chillax end case 6 : pop end otherwise : let A = 7 end end main : P : integer; g1z0a, C : integer array; chillax end

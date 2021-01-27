@@ -1,0 +1,1 @@
+program H : G1_ : takes z5 : boolean array returns boolean array let jm = array - 13 and 05 + 3 - 63 end main : let A3t0a[false * not v + true + true] = array - not true + not false and true; while c2[4] + false and 7 > - 4 : chillax end; when case not 30 - 7 <= 32 - 42700 : chillax end end

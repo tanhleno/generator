@@ -1,0 +1,1 @@
+program n : y4 : takes h : integer; Buf : integer returns nothing chillax end H_ : takes R740a : integer array returns nothing P, D, h : boolean array; let V6[2] = array - 14 - 2; output 7 . 414 . "a7"; when case 0 : pop end case 2 : chillax end end main : q, xBBa : boolean array; B0 : boolean; E, maD0a, x, H, ADua : integer; pop; pop - true and 8 = 47 end

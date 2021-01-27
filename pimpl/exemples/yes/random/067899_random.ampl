@@ -1,0 +1,1 @@
+program O : main : do wI(true or 8, not RqUa and false and 2 < - not 27 and 05 + 86 - 90400); output K or 9 <= - 99 - 28100; when case - w or 5 - 9140 : do s(9, 0); when case 18 : chillax end end otherwise : chillax end; input f; input r[91600]; when case 4 : pop end end

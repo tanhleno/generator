@@ -1,0 +1,1 @@
+program b : U5 : takes hV, PqLaa : boolean array returns boolean t, y, T : integer; output "\\" . 2 end main : when case - 530 * true /= not(13) : do Q8(0); while 4 = 5 : chillax end end case - (8) + false + 11 < - not 7 : chillax end case - not 2130 and 29 or 855 : do O(1, 2) end case 4 - 7 : chillax end end

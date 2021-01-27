@@ -1,0 +1,1 @@
+program l33aa : t : takes Fr, Vo20, s : boolean array returns integer J, Z, T : integer; do M(- true); let Uf1 = 0 = 902; let W[23] = 9; when case 3 : chillax end otherwise : chillax end end main : do pNu0(a(9) * false rem true + 8 - (08)) end

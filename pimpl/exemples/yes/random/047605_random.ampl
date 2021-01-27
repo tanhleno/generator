@@ -1,0 +1,1 @@
+program K : tzt : takes W9Xa : boolean returns nothing chillax end c87 : takes V5 : integer array returns nothing when case 2 - 46200 : pop; input N; pop end; pop 124; while 35 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program x : lq : takes Y_ : boolean; I, mp : integer returns nothing chillax end main : t : boolean; when case - (235) rem(8210) rem(48) and 9 : input M[96200]; when case 9 = 5 : when case 174 : chillax end; pop end end case false : output 22900 end case O : chillax end case 380 - 0 : while 28 : chillax end end end

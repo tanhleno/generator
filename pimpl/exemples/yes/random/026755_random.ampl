@@ -1,0 +1,1 @@
+program NAw : v : takes X20, e : integer; dqm : integer array returns boolean array wk : integer array; let Z2 = array - false and 9 end Nm : takes K1aa : integer; WB, Y210, DT40 : integer returns nothing chillax end main : chillax end

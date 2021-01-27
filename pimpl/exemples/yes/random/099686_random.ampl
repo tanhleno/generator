@@ -1,0 +1,1 @@
+program t : main : while 06 / f(8) : pop 59; pop 07 end; let w[h45(8) rem(4) and 606 - not 6 and 2600 - 7170 - 7] = o and 2 + 02 <= - 0; do qk(- false /= - 8 - 1, - 91 - 4 /= 7); output 0 = 0 . 4 . 0 . "v"; let nCG = array 9090 end

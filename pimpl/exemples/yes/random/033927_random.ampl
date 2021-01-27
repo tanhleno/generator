@@ -1,0 +1,1 @@
+program I : r3I : takes W : boolean; t3z0, r, F : boolean returns integer do l(false and 2 - 85 - 610 < - 776 - 768) end T : takes As : boolean array returns boolean O : integer; chillax end main : chillax end

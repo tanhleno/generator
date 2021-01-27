@@ -1,0 +1,1 @@
+program u : Z6 : takes I, R, T, a : integer returns boolean chillax end X : takes f240, xr7, J, k, j : boolean array returns nothing pq : boolean; when case - 08 - 46 : chillax end end main : while not 5 * 881 : while - 97 - 4 : chillax end; when case 5 = 24700 : chillax end; let M = 79 end end

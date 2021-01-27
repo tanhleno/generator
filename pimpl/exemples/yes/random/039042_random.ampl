@@ -1,0 +1,1 @@
+program i7 : i : takes P : boolean array; b, f350a : integer; B : boolean; Ui : integer returns integer xs : boolean array; when case W and 2 > 55 : chillax end case 3 : chillax end otherwise : pop end; do p(- 17, 4 = 2) end J : takes Ju3aa : boolean returns boolean array Qe4 : boolean; u, w : integer array; chillax end main : V9_a, W : integer; do f27(true * z(4)) end

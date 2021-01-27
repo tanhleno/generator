@@ -1,0 +1,1 @@
+program B : l : takes c : boolean array; oh : boolean; d : boolean; t, P44a : boolean array; o : boolean returns integer fyk : integer; A5X : boolean; while - true >= - 718 : when case 0 : pop end otherwise : chillax end; when case 0 : chillax end; output ""; pop end; input B[10] end main : N, C : integer; chillax end

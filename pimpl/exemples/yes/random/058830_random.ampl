@@ -1,0 +1,1 @@
+program P7 : J4_ : takes k2 : integer array returns integer array DB : boolean; chillax end q : takes YQ, k, O, Qc, s5C : integer; l, K2, I9, _j, E5, S : integer returns boolean V : integer array; N : boolean array; p : boolean; input I end main : chillax end

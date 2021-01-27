@@ -1,0 +1,1 @@
+program M : m880 : takes Y3O : integer array; g80a, a9 : integer array returns integer array O7, h : boolean; XNda : integer array; WM : integer; V, U39 : boolean; Q4 : boolean; Z : boolean; input us[- (6) and 61 + 3] end main : b6 : boolean array; Kx00, fi, oB : boolean array; output "" . "w6" . "\\" end

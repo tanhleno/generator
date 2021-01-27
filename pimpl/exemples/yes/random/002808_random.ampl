@@ -1,0 +1,1 @@
+program F7Da : X : takes e, G, z, T, _32aa : boolean array returns nothing Pd, c : integer; while - true and 9 : chillax end; while 39 - 2 /= 039 : when case 2 : chillax end; while 1 : chillax end end; while 1 : chillax end end main : chillax end

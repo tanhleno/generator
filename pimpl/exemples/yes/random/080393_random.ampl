@@ -1,0 +1,1 @@
+program z : main : b : boolean; when case - true + not(9) /= not ZQ : when case 58 - 7800 /= 50 : chillax end; when case 0510 = 828 : while 338 : chillax end; pop end otherwise : pop end end otherwise : output "" end end

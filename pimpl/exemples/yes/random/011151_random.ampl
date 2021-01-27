@@ -1,0 +1,1 @@
+program X2 : gy : takes Lv, M1Saa, V : boolean array returns nothing I23, H9, eB, u, oC : integer; chillax end Y3 : takes e : boolean array returns nothing when case 8430 - 3980 < 9 : pop; while 2 : chillax end end case 2 : chillax end otherwise : let L2 = 79; pop end end main : chillax end

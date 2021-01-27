@@ -1,0 +1,1 @@
+program qp10a : a : takes E4B : boolean array; KF, m : integer returns nothing t, U, tS3, _ : integer array; let q = 20 - 928 end main : d : boolean array; z, FV, t, D1 : boolean array; L, d, N : boolean; F : boolean; while - T0(1) + true and A and 5 : output "+" . ""; do r(45800, 323); pop end end

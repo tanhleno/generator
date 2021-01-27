@@ -1,0 +1,1 @@
+program F43 : main : input C40aa; when case true : when case 5 : while 1 : chillax end end; while 496 : pop end; let E11 = 8; when case 5480 : chillax end; pop end otherwise : let Ti40a[01] = array 8; while 7 : chillax end; output "" end; output 3; do G530a(22000 <= 80000); while 9 : chillax end end

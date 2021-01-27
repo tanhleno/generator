@@ -1,0 +1,1 @@
+program T : P : takes p : integer array; eB, w0S : boolean array returns boolean array C, M, P : boolean array; Q, jba : boolean; chillax end main : pop; input Q; do n(- not 19000 and 5); do i(2960, 2, 11) end

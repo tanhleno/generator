@@ -1,0 +1,1 @@
+program La0 : z : takes w9, e95aa : integer array returns nothing chillax end S210a : takes rp9, O, jl : integer array returns nothing m : integer array; _ : boolean array; while 1 : chillax end; when case 735 : while 4 : chillax end end otherwise : chillax end end main : GN : boolean array; chillax end

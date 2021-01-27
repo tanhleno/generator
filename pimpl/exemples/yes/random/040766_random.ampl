@@ -1,0 +1,1 @@
+program zP : t : takes s25 : boolean array; Ywu : integer array; qj, t, W : boolean array returns integer U66 : boolean array; L26, Rc : boolean array; do U1(- false and 2 > 3) end main : chillax end

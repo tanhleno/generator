@@ -1,0 +1,1 @@
+program N : J : takes YV, P : integer; g, XJ : integer returns boolean chillax end main : mG, c2, k99 : boolean; A6, h9c0a, H7r0 : integer; L, e48, FEG : boolean array; K1, B, _f : boolean array; chillax end

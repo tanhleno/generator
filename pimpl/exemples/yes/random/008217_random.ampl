@@ -1,0 +1,1 @@
+program VH : qn : takes lE, l0Saa, z, M81 : integer returns nothing x3, I41, A, B, w : integer; when case - K - 741 <= - 6 - 151 : pop end; let H3Daa[- 45] = array - 58000 end w : takes A : integer; Iap0, sUv : boolean array returns boolean array chillax end main : t16, v5u : boolean; chillax end

@@ -1,0 +1,1 @@
+program jQ : main : B4k, u : boolean; Gh, _ : boolean; k : boolean; v : integer array; input ooF; when case true - true > vK60 : output "" . "A" . ""; when case 2 : pop end case 3 : chillax end otherwise : chillax end end; when case - true - 66 - 3 = - 44 : output 9 . ""; while 5 : chillax end; input c5 end otherwise : chillax end; let T6[5 - 3] = 9 = 9 end

@@ -1,0 +1,1 @@
+program m : main : while - (7540) rem(0) - not not 767 + not 7 and 535 - 6 - 0 : when case 7 /= 8 : do A9m0a(9); do B(000); pop end end; output - L and 47; while(909) and 7 + 5 - 6 = 5 : chillax end; while 50 : chillax end; input s end

@@ -1,0 +1,1 @@
+program Z7 : R : takes Tl, ld : integer returns nothing pop; while - 6 >= 1 : when case 51 : chillax end; input Q; pop end; when case 5250 = 988 : when case 5370 : chillax end; pop end case 12800 : chillax end case 583 : chillax end end Q : takes k : integer array; OP80 : integer returns boolean array d9 : integer array; while - 1 - 2 < 96 : input s end end main : chillax end

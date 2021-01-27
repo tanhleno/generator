@@ -1,0 +1,1 @@
+program aT9aa : E2L : takes p : integer returns nothing K, H, V : integer array; let B = 0 - 79 end main : when case(206 = 79) * Di / R : chillax end otherwise : chillax end; let i8 = array true and true end

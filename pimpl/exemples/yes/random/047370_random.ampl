@@ -1,0 +1,1 @@
+program J : p : takes r : boolean returns nothing chillax end H8 : takes q, Q, asX, g, j, I : integer; iG9, q, x : integer array; H, G3Ia : integer; H7saa, f42a, I, GI : boolean; TU, F : boolean; j, P0 : boolean; kC5aa : boolean; d : boolean returns boolean array chillax end main : k4, x : integer array; k4 : integer array; I, E5X0a : boolean; j : boolean array; chillax end

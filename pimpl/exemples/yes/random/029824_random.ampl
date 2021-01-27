@@ -1,0 +1,1 @@
+program G690a : A7Jaa : takes _7, pB : integer array returns integer array M3R : boolean array; Mx : integer array; qj : boolean; Y3, dBM0a : boolean; u1 : boolean; chillax end n : takes k, H, R : boolean array; EX, D1f0a : boolean array returns nothing do w(4 <= 8) end main : chillax end

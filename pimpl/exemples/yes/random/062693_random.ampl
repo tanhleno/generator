@@ -1,0 +1,1 @@
+program xP8 : TN : takes dm : integer returns integer array chillax end Lj90 : takes h, n, d, P4 : integer returns nothing a, B35 : integer; mY00, j, G0x : integer array; S, X64 : boolean; let g = array 6 end pm20 : takes p2v, k, mxL0, l3, t4, kck0a : boolean returns nothing iL, NT3, k : boolean; chillax end main : input zP[Ts / not 638 rem 215 - c(120) * (749) - (394) - 9] end

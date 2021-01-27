@@ -1,0 +1,1 @@
+program l6 : h : takes Zk, OG : boolean returns nothing j, O2da : integer array; chillax end i970a : takes t : integer returns nothing chillax end main : do R(false / 34 /= - not true / true, - Q(7) + d and 37, - false and 6 < 94100 - 2) end

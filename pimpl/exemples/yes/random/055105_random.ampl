@@ -1,0 +1,1 @@
+program J2N : H4 : takes x : integer array; w580a, FR : integer array; dGw, A : integer array returns nothing output - 3 - 25 <= 1 . 26 = 989 . "=$!" . 65100 end main : K : boolean; Z : boolean; input hX00a; output "V"; input jV; while 7 - 7 /= 50 : while 1 : chillax end; while 4410 : chillax end; pop end; output "f" . "5" end

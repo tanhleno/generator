@@ -1,0 +1,1 @@
+program B : main : when case - 6 and true : when case - 0 <= 48 : let b = 08 end case 8 : output "0m0a" end otherwise : do F(36) end; pop; while 4 : pop end; when case 7 : chillax end; do _(314) end case - (82) : chillax end; output "(\\\"" . - 5 < 4 end

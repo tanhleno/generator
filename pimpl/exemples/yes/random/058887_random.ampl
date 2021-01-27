@@ -1,0 +1,1 @@
+program rt90 : Li5 : takes y5 : integer array returns integer array X : boolean array; Yn3 : boolean array; t4 : boolean array; Hz6 : boolean; pop 64; pop 5; do p(3 = 614) end X4 : takes s5 : integer; gA : integer returns nothing do v(9 - 6 <= 4); do B7(62) end main : chillax end

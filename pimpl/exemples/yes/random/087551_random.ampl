@@ -1,0 +1,1 @@
+program X : main : U : integer array; when case - true or z[24] and false and 72 or 9740 and 6 = - (2) / (610) and 0 : chillax end otherwise : chillax end; do w(- true * z or dq30a and 9 >= - true) end

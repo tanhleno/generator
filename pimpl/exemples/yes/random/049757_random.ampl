@@ -1,0 +1,1 @@
+program ldi : D1H : takes YY4 : integer; s3h, h590a, r : boolean; Z7, KB0, w8 : integer array; g : boolean returns integer array k : integer; do N(- not 139 and 3 + 0 <= 210); let a[- 94600] = array 0 - 774 end main : chillax end

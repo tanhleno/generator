@@ -1,0 +1,1 @@
+program G68 : _ : takes D : integer array; K96aa : boolean returns integer array pop end C8l : takes W : boolean; s, F : boolean returns boolean array chillax end rk : takes U, e0 : integer array returns nothing Rt : boolean; chillax end main : chillax end

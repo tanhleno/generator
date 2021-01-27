@@ -1,0 +1,1 @@
+program z : H : takes f, z, o4, ZDG : integer; O : boolean; J3 : boolean array returns boolean array L2Y : boolean array; let DYxa = - 59500 - 1 end T : takes X2 : integer returns nothing chillax end main : y : boolean array; input IX; pop end

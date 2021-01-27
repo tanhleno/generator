@@ -1,0 +1,1 @@
+program mr : n : takes AO8aa : integer array returns nothing t : integer array; chillax end h : takes n, aM : integer returns integer chillax end D : takes C, iO, t, D1d, hp, G : boolean array; S56 : boolean; kXg : boolean; fS, L, vEeaa : boolean array returns nothing let Lx30a[33] = array 0 end main : S9 : integer; chillax end

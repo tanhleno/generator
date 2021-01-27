@@ -1,0 +1,1 @@
+program T : main : pop - false * (2) and 42; let Z1[not true * true] = array - false and(24) or false - 2; when case - 3 < - 4 - 6 : let O4[05] = 7; when case 09 : chillax end end case 0 - 5 : output ""; input D12a end otherwise : chillax end; while - 42 - 22 < 07 : do Xo8a(69); input L44aa end; do bm(824, 2); while 29700 : pop end end

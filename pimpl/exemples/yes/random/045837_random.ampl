@@ -1,0 +1,1 @@
+program a8 : C8g : takes FCb : boolean returns boolean array pop; output "" . "" . 9 end main : e28, u : boolean; Y : integer; let Wc[- not 0] = array true * (9) rem false or d19aa(6) rem o or 167 and 93000 - 6730; input J7z[6 * (1) + (8) and 47 or 7] end

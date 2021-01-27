@@ -1,0 +1,1 @@
+program O83 : k : takes YI, v45, t, M : boolean; J0, F, G9 : integer returns integer array chillax end Xq3a : takes jV3, C, I : boolean; H3o, Y6, X, W : integer returns nothing let QI5aa = 053 end v : takes Lb3, b, Hxc0 : integer array returns integer input BLB; input GHB[07]; when case 70600 : chillax end; let Oh6 = 1 end main : chillax end

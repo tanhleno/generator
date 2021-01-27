@@ -1,0 +1,1 @@
+program L64 : h : takes E, d : integer returns boolean array X, UE : boolean array; chillax end main : c : boolean; h, L : integer; let e = array(41) rem not 84 * true and 3 + not wc2; pop; output 0 - 7 > 33 end

@@ -1,0 +1,1 @@
+program Y2laa : BA : takes V, z, S2, J : boolean array; VL, vMj, Y, p, C, _3, M : integer returns nothing n, D : boolean; qr70a, _3, ng7 : boolean; when case - 4 - 6 - 43 : chillax end case 57 : chillax end otherwise : output "WL!a" end end main : r : boolean array; M, L, J2 : integer; r, G7S : integer array; Qm : integer array; ub4, O : integer array; b, W : boolean; chillax end

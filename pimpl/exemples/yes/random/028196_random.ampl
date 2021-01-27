@@ -1,0 +1,1 @@
+program A5 : A3a : takes K32, Tvza : integer array; A : boolean; T1Z : integer; _7 : integer array; E7 : integer; W : integer array returns integer M : integer; LA, M, K, a6 : boolean array; Y, WX, if : boolean; chillax end main : D_ : boolean array; Bxc0a, N8H, _ : boolean; F, J : integer; chillax end

@@ -1,0 +1,1 @@
+program j : e : takes W : boolean array; w : boolean array returns boolean zT4a, LA, tX90 : boolean array; Gj, V2, x, x : integer array; ft : integer; input V end main : j230, h70a : boolean; pop; do y(- (92) rem g /= T4T0a - 9); let g58[9 and 51] = array - (0) or 4 - 32300; when case - 375 : chillax end otherwise : chillax end; while 75 = 15 : chillax end end

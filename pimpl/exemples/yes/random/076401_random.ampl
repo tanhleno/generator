@@ -1,0 +1,1 @@
+program f : main : H, N : integer; k : boolean array; when case not not 4 / not true : input p4[- 5]; let u[3] = array 033; when case 796 : chillax end otherwise : chillax end; while 7 : chillax end end otherwise : chillax end end

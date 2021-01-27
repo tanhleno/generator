@@ -1,0 +1,1 @@
+program B : main : MA3a, X, D2, X : boolean; Q : boolean array; h, g, KtX0a, Y9oaa : boolean; Tg : boolean; when case - not false / 4 and(3) and 9 - Z[0] / true or s : while - 70 >= 9 : chillax end; while 30 : input Q2; pop end; while 9 : pop end end; let p[false and(4)] = 6 - 7 - 45 <= - 12; when case X or 2 >= - 7 : chillax end case - 0 - 8 > 85100 : input E end end

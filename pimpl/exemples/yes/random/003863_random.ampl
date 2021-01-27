@@ -1,0 +1,1 @@
+program f : X : takes q, c, jI70a, ju8, ezp0 : integer array returns nothing E, h : integer; output 3530 - 94 end p : takes T, r : integer; J, k, B, W : boolean; P, b, s : integer; b4 : boolean; i : boolean; Fi, A : boolean; l : boolean returns integer B : boolean array; do E(72 - 5) end main : chillax end

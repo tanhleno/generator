@@ -1,0 +1,1 @@
+program a6D : c2D : takes V44, W9 : integer array; r1, E1F, Y24, f2, IT, s : boolean array returns boolean when case - not 67300 : chillax end case - 2 <= 340 : do W3Pa(7) end case 99 = 3 : while 24 : chillax end; pop end end J670a : takes CB_a : boolean returns integer Q, Ja1 : boolean array; x, P1 : integer array; yh, N : boolean; Vt6a : boolean; chillax end main : chillax end

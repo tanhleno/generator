@@ -1,0 +1,1 @@
+program o : _ : takes t : boolean; M, Hkr : boolean array returns nothing when case - true >= 5 : chillax end case 177 - 2 > 8 : while 9 : chillax end end case 8 : input J end end main : when case - not BS2 rem false + false : pop 5 = 3 end otherwise : chillax end; pop; while - not 1 and 3 - 6560 - 6 : chillax end; input x[- 9] end

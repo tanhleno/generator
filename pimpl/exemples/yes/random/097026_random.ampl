@@ -1,0 +1,1 @@
+program q : main : when case l1[6] / 41 and 15 and 9 /= - not J + (4) : do OD(- 8 - 13, 95); let p6 = array 07 end case - not m8qa and he and 93 < - EC and 2 + 0 : while 0 = 40 : input X56; pop end; output ""; pop end case - not 7 and 42 - 8 = - 5 - 84200 : while 8 : pop end; input Uy end case 662 < 78100 : chillax end otherwise : pop end end

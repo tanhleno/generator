@@ -1,0 +1,1 @@
+program tx3aa : F : takes O2, q, Tnxaa, d, y, b9 : boolean returns boolean array i : integer; when case true and 8 : pop; output "\"\""; do BgF(0); pop end otherwise : chillax end end main : chillax end

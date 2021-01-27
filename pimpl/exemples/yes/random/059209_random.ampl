@@ -1,0 +1,1 @@
+program g : Y73 : takes KA : integer array returns integer do W(- 745 and 4, - 3 - 82); output 8 = 2; pop 8; when case 8 : chillax end end uWP : takes v79, UQ1, n, _P5aa : integer array; CL2 : integer; B, P, mO : boolean; k : integer array; y, C01aa, N : integer array returns integer array chillax end main : I, o : boolean array; pop end

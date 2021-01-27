@@ -1,0 +1,1 @@
+program a : A9t : takes S, k, o : integer array returns boolean _, L, Yaba, l4 : boolean array; c, q : integer; when case not 542 and 99 /= - 12100 : chillax end case 5 - 48 : while 12 : chillax end end case 99300 : chillax end case 2 : pop end otherwise : pop end; when case - 666 >= 3 : chillax end end main : pop end

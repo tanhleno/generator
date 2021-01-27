@@ -1,0 +1,1 @@
+program cE : S : takes E, Ar, c7O : boolean returns nothing chillax end a : takes u : integer returns integer h : boolean array; c : integer; Yv : boolean; G2 : boolean; UMt : boolean; when case - 18 > 3 : chillax end; output 6040 . "39a" . ""; input V0; let O6 = 3 end main : chillax end

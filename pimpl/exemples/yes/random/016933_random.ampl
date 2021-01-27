@@ -1,0 +1,1 @@
+program gs50 : p : takes J, y : boolean; a0F, g6, o9E : boolean array; a : integer array returns integer UH : integer; pop end main : t : integer array; do Y0f(not i(1) /= (7) * 6 or G and 6, - false + false); do S(- (1) * false + 92 + 4) end

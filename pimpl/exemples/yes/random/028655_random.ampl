@@ -1,0 +1,1 @@
+program y : c : takes kY1, h560 : integer array; wm40 : integer; r01, L, U : boolean array; zRl0, p : boolean; Kf, Y7 : boolean array returns nothing let np0 = array false and 5 - 5 - 3; when case - 295 = 278 : while 756 : chillax end end end main : u8 : integer array; chillax end

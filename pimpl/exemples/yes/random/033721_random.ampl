@@ -1,0 +1,1 @@
+program z : b7 : takes e : boolean; K, M4, b0, UK : integer returns nothing y8Xa, QE : integer array; F37 : integer array; d0, P58, j63 : integer; e68 : boolean; P : boolean; chillax end main : input L; when case - T(705) rem 1840 and 30 >= true or 2 : let Fw[82] = array 3 end end

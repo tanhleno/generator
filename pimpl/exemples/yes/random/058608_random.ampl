@@ -1,0 +1,1 @@
+program Oz : Ez : takes _ : integer array returns integer array chillax end X1 : takes e : boolean; V, k9, t : boolean array; Uy : boolean array; g450 : boolean; v08a : integer array returns boolean array let C = 5 end main : g : boolean array; q, R : boolean array; chillax end

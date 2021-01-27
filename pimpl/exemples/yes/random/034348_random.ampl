@@ -1,0 +1,1 @@
+program GXy0a : z : takes t3V0a : boolean; wz9, t : boolean; v3 : integer returns nothing Owe : boolean array; Xs : boolean array; u : boolean array; A : boolean; i : boolean; P : boolean; do Ja(e or 89 - 30 = 1 - 3) end main : _3, C, Q, TE60 : integer; U5, A, Tt, O8 : integer; chillax end

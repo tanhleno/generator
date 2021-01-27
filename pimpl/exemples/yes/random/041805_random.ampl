@@ -1,0 +1,1 @@
+program _j : c : takes Wo : boolean array returns boolean array input J[- true and 641 + 6 - 6]; while - 4 > 623 : chillax end; let TN[5] = 247; output 3; when case 3 : chillax end end E : takes u, Nf, n : integer array returns integer input X[49300 - 35]; output "" . 739 end main : chillax end

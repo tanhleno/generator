@@ -1,0 +1,1 @@
+program a69 : o0V0 : takes Pb10a, X7 : integer returns nothing chillax end m : takes t9C : boolean array; Ld : boolean; I : integer array returns nothing chillax end main : do z7I(true * true - true rem not 33 and 4 - true or 607 - 8 < - not false or(7) and 8, - true or not 47 and 3 <= - false and 60 + 4) end

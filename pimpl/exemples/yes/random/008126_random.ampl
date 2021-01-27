@@ -1,0 +1,1 @@
+program n : I : takes m0, fwWaa, F1La, r5 : integer returns integer r7S0a : integer array; chillax end main : when case - 3 and u[2] + 2 or(28) and 5 : chillax end case - not(17500) rem(61) and 0 + (9) : pop 1020 end; do v92(m(692) * not 62 - true >= - true and 2); output - 7 <= 1 end

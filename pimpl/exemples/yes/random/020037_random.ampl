@@ -1,0 +1,1 @@
+program Yfc : f : takes N7F, i1 : boolean array; M : boolean array returns nothing do w7q(- H and 23 + 6 <= 38); do u(8 - 2, 6, 89, 49) end main : pG7, Z : boolean array; input O[(28) or H[334] - m7 and 0]; while - false + false + 79 > true : chillax end end

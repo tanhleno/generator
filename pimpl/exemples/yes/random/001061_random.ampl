@@ -1,0 +1,1 @@
+program U5 : pj9 : takes Z, m1K, r, cj7, EVx, C, c : integer returns nothing _T3 : boolean; when case - not 1 - 927 <= - 7 : when case 3 : chillax end otherwise : chillax end; pop end case 103 <= 09 : output "" end case 45 = 0 : let t = 3 end; output 64 = 56 . ""; while 00 = 30 : input H end end main : chillax end

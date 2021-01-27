@@ -1,0 +1,1 @@
+program u1v : oqE0a : takes i : integer returns nothing do Pq(- J and 5 - 5, 92 <= 9); pop; when case 3 = 4630 : chillax end otherwise : pop end end main : v : boolean; t, y : integer array; chillax end

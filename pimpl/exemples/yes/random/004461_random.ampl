@@ -1,0 +1,1 @@
+program U : P : takes FG, z, r, Q2Jaa : boolean; uD : boolean; K, oF50a, dA9, PR40 : integer returns integer chillax end q : takes z, N03, f, Gv, yHq, Z : boolean; X : boolean returns boolean P, pe1 : boolean; MVC : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program e_ : Mh3 : takes N : boolean array returns nothing AVk, N, t, ZYl, K : integer; do S(37 and 93500) end main : T, I3X : boolean; p : boolean; O : integer; do u(- true * not(971) - false < false rem false and 2 - true, - true > 8 - 2, (5) and 951 <= 1) end

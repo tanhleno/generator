@@ -1,0 +1,1 @@
+program YO8 : main : n7 : boolean array; output R31a(2) or false or 52 - 1; output - (9530) and 1; when case - (6) and 8 or 7 : when case 347 : pop end case 8 : chillax end otherwise : chillax end; while 1 : chillax end; pop; pop end end

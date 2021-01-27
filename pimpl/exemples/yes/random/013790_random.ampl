@@ -1,0 +1,1 @@
+program lP : W : takes V, a, k1Y : integer array; C4, k, kR : boolean array returns nothing do z24aa(- true and 1 or 84, 1 < 8, 1190, 97); do F3(- 10 < 8); output 176 end main : VVnaa : boolean array; output(4) and not 200 + 3 . 4 and 74 . "{60" end

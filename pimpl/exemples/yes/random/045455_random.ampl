@@ -1,0 +1,1 @@
+program h : e : takes jj7 : boolean returns boolean array chillax end main : B2, nVS : integer; xtwa : integer array; I7 : integer; h720 : boolean; while not false : chillax end; pop - true and 7 or 90 - 9 end

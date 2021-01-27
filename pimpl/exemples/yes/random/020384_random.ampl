@@ -1,0 +1,1 @@
+program a : b : takes P3R0a, w : boolean array; jf : integer array; kF, _, B, N8 : integer array returns integer array when case - true or 75 <= - 4 - 61800 : let er = array 41 end; output 41 = 63 . ""; let c = 5; output "" . "'" end main : chillax end

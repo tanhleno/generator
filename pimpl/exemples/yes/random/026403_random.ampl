@@ -1,0 +1,1 @@
+program h : P6 : takes L17, Q : integer; k : boolean returns integer chillax end zl : takes Hc : integer array returns nothing output 665 . 63 . 9760 end main : W : boolean array; OpOa : integer array; bK, d3, sp_0 : integer array; chillax end

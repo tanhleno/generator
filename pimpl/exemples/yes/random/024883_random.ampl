@@ -1,0 +1,1 @@
+program R : T : takes u1I0a, d : boolean returns nothing while not 04 and 7 : chillax end; pop 159 = 6; let e = 70300; pop 9; while 1 : chillax end; while 9 : chillax end end g : takes d : boolean returns boolean chillax end main : K : integer; let u[- not true] = - 30 /= (34300) end

@@ -1,0 +1,1 @@
+program Q : b : takes r, r9H0a, v69a, O : integer array; J : boolean array; uq : boolean array; c, o3, Gr, M : boolean array returns nothing chillax end main : when case - true - true / false >= - false / not 377 and 309 + not 2 and 8 or 8 - 138 : while 7 : pop; when case 2 : chillax end; pop end; do H(845, 02) end end

@@ -1,0 +1,1 @@
+program e : main : bF, _ : integer; while - false * r[66100] and 8360 and 3 or Z > - not true / (60) : chillax end; when case not false * true and 15 or not 46 or 19 - 8560 /= - false and 34 or 89 - 5 : chillax end otherwise : while 99 : chillax end end; pop - 5 - 4; while - 2 - 5 >= 644 : pop; while 9 : chillax end; pop end; output ""; output 9 end

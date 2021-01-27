@@ -1,0 +1,1 @@
+program n : main : T : boolean; cK_ : integer; k : integer array; when case not 11 / z2 : chillax end case true or _u and 11 or 764 <= - true or 2 - 00 : chillax end case - 6 /= - 4 - 91 : input vt[202]; input W5 end end

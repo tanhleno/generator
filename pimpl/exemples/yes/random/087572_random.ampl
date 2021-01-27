@@ -1,0 +1,1 @@
+program Y76aa : main : yT8 : integer array; when case Ru(85) - not 30 / not 94800 <= true rem(8) and 908 : chillax end case false >= - false and 1190 + 56 - 302 : while 1 : chillax end end case - (2) and 66600 - 3 - 0 : chillax end case - 838 - 9 : chillax end otherwise : chillax end end

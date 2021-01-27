@@ -1,0 +1,1 @@
+program m : fr : takes x, U27a, X7 : boolean array; z, _iZ, V, J9 : integer; k : integer array; L3 : integer array; Za, f : boolean array returns nothing O, oB : boolean; P : integer; pop 1 - 5070; let a = array - 6 end main : ZT : integer; L : boolean; A : integer array; chillax end

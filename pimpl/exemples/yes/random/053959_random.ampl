@@ -1,0 +1,1 @@
+program u : Z7T : takes H : integer array; f, cP2aa, h810 : boolean array; d, I : integer array returns integer array uh : boolean; chillax end t : takes r, TR, s : integer array returns nothing H, hl3a, W3 : integer; x, Y : integer; do j2J(- 31); do s(3 = 39) end main : f3, i : integer; output "" . true and 12 end

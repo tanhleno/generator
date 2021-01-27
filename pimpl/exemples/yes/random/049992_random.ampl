@@ -1,0 +1,1 @@
+program L7 : Y5 : takes BN0a : integer; s, j, x6 : boolean returns nothing dA : boolean; qg, u1F, n : integer array; r9 : boolean array; chillax end Vy7 : takes w, Ql9 : boolean array returns integer do G3(8 - 70200 < 7); let Ny = array 113; output 4; when case 3 : chillax end end k : takes r : integer returns nothing Yj : boolean; chillax end main : chillax end

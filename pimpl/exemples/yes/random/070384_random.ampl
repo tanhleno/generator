@@ -1,0 +1,1 @@
+program P9N0a : main : X, G5S0a, q_, SVc : integer array; do p(true / not not 915 - (92) + false and 68, true - true /= not 2, - not 10 + 00 - 94, 4 - 7, 8); while 88900 or(3) and 811 < not 0 and 8 : pop; do ge(5); do a(94); when case 48 : chillax end end; input Gp[- false and 6 + 8]; while - 93 - 37 < 166 : do l(7) end; input r end

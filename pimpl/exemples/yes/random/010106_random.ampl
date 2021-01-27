@@ -1,0 +1,1 @@
+program MC8 : lB6 : takes vx1, yu7, _xB0 : boolean array; M : boolean array returns boolean array DG : integer; X, M : integer; chillax end nsj : takes q : integer array returns boolean let x22 = array 4 - 113; input A end main : chillax end

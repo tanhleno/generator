@@ -1,0 +1,1 @@
+program Pu : main : D, e, E, A61, i960a, Be7 : boolean array; when case - AG(3) rem false / false and 43 - false <= true or true : when case - 632 > 13 : chillax end case 50300 : while 22 : chillax end; pop end otherwise : chillax end end otherwise : chillax end; while - 93 - false or 8 - 06 : pop 9; do Qcd(0, 77) end; pop end

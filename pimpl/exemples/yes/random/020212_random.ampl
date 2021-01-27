@@ -1,0 +1,1 @@
+program ql9a : pE : takes Vx, x : boolean array; y : boolean returns nothing input N; pop 62500 end S : takes g5, G : integer returns boolean array Kd, _, Q, G80 : boolean; E, t : boolean; chillax end main : output(67) - (895) and 3 + 4 > true and 6090 - 5 - 074; do M9r(X[68] * true < true and 76); do T22(- true and 3, 14800 - 18) end

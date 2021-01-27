@@ -1,0 +1,1 @@
+program v56 : i : takes QG : boolean; af90a, k8 : boolean array returns integer output ""; let u[- 0 - 9] = 3 = 9; let Q[86] = 8 end Xw : takes r : integer; NQ : integer array; H74a, M : boolean; R : integer array returns nothing s6N, kG, yhK0a, n5 : boolean array; chillax end main : L, _, Q8 : boolean; chillax end

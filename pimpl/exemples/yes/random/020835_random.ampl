@@ -1,0 +1,1 @@
+program r0 : H : takes U, Y4 : boolean array returns boolean array do h1(36300 and 126 < 27 - 41900); while 7 >= 8 : do Z8raa(1) end; while 3 = 4 : chillax end end Iv20 : takes P00 : integer returns nothing input A end main : chillax end

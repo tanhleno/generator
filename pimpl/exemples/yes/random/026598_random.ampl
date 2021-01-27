@@ -1,0 +1,1 @@
+program d0 : S : takes M, w4 : integer; WG : integer; B : integer returns integer array mgZ : integer; when case - (4) + 039 - 6 < - 38 - 7 : input L5M; when case 5700 : chillax end; input NV end case 1 = 6 : chillax end otherwise : do w(29); pop; pop end end main : jrN, y13, k, wszaa : integer array; chillax end

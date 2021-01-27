@@ -1,0 +1,1 @@
+program g : jF : takes A, Q, jw2, Y : integer array; j3 : integer returns nothing z4wa, X, V : boolean; sM : integer array; let F = array 48200 and 5 + 0 - 3 end main : do Vw(- true and not 7 + 768 * (8) + (92) and 56 or 3 - 0 = (52) or not 36 and 468, 31 /= - not 0 and 46) end

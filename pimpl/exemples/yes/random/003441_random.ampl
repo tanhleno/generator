@@ -1,0 +1,1 @@
+program y : L : takes M8, o, c, v, F : integer array; u, m0, s8da : integer array returns nothing L, C0 : boolean; Jp : integer array; Ls : integer array; s : boolean; E : boolean; pop end main : I : integer; chillax end

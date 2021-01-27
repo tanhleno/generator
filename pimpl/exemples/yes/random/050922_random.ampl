@@ -1,0 +1,1 @@
+program Zh : F : takes xyJ0 : integer; Ppt0a, h8h : integer; y57aa : integer returns integer array chillax end YL20 : takes K, W : integer array; G, E83aa, v_, k, yri, P : integer array returns nothing pop 18 = 53; when case 28 : chillax end; when case 7 : chillax end case 3 : chillax end end main : while - false : chillax end end

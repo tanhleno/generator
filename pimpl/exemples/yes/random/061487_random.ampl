@@ -1,0 +1,1 @@
+program G : y4 : takes pkD : integer array returns nothing pop 2; when case 9 : chillax end case 80 = 3570 : do A(8260) end case 79 : chillax end otherwise : when case 0 : chillax end end end main : T3 : boolean array; chillax end

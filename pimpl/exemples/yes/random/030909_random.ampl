@@ -1,0 +1,1 @@
+program b2 : Ur : takes XYh, y : integer array returns nothing a : integer array; chillax end main : _17a : integer; _, y, u, k7 : boolean array; _l6, n9, RHta : integer; h : boolean array; w980 : boolean array; output "" . - false /= 35; do z((07500) + (9) and 38 or 126 - 26 < not 75 and 646) end

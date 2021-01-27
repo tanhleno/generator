@@ -1,0 +1,1 @@
+program u : Vx8 : takes W91aa : integer array returns nothing when case(9) and 0 = 83 - 1 : let Q = 05; do L(71900) end case 32 - 967 : chillax end end main : when case false / (0) : pop; output 8 end case - true rem not 132 /= - (240) and 40 : chillax end; input WEd[- HA4[55] or vym0a and 60 + 3 - 2]; pop end

@@ -1,0 +1,1 @@
+program h : main : pN, n : integer array; m, WP : boolean array; h, E : boolean; q13, Z, w, J4 : integer; KO, G : boolean array; q : boolean; xF : boolean; v3 : boolean; do rVn0(true + false / d, - 0460 < (4) and 902 + 63, - not 859 and 5 <= 32 - 822) end

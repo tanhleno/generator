@@ -1,0 +1,1 @@
+program k : _w : takes Po4aa : boolean array; Y, D56 : integer returns nothing let ek_0a[(69)] = - 87 end X2 : takes g, X : integer returns integer array when case - 2 : output "" end; when case 6 = 3 : chillax end; when case 3 : pop end otherwise : chillax end end main : chillax end

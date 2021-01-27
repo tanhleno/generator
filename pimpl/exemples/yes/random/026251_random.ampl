@@ -1,0 +1,1 @@
+program z2u : i : takes gC00, C : integer; j : boolean array returns boolean r, ybKa, Uz, J65, N : integer; do E(D and 55, 3680 - 4 < 6); let s2[08 - 7] = 1 end main : p, JM, R84a : integer; t, A8 : integer; output - N(061) * VO and 79 <= - (8) - 2 - 43 . ""; when case false rem not 6 and 29 /= - (5) : chillax end; output - 4 - 72 . 4600 . "s" end

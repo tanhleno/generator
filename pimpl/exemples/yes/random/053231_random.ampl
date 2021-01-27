@@ -1,0 +1,1 @@
+program C4q : t : takes h6 : integer; a : integer returns integer pop - 2 >= 3 end QX : takes o, V, C, V, _, n, Z : integer array; n, Q : integer array returns nothing DHx0a : boolean array; E, T, Ca3 : integer; _, Y : boolean; chillax end main : chillax end

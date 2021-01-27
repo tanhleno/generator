@@ -1,0 +1,1 @@
+program m4ca : main : h : boolean array; pop not 9 or 3 > - false; while true + not 5 > 9720 or 46 : let A[5] = 8; when case 18800 : pop end case 4 : chillax end; pop; let Q = 48 end; when case(83) + 52300 <= - 56 - 66 : chillax end case 8 - 4 /= 21 : chillax end otherwise : let C5 = 51 end; pop end

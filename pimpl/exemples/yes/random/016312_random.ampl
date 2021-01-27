@@ -1,0 +1,1 @@
+program u : o4j : takes q0, Q, x : integer returns nothing n, GO, t51, c7la : integer array; B, ON : integer; when case not 682 : chillax end case 1 : chillax end case 6 : while 927 : chillax end end otherwise : chillax end end main : input Y end

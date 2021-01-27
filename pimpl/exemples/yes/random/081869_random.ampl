@@ -1,0 +1,1 @@
+program w : main : US2 : boolean array; u : integer; nu10, z, B, q : boolean array; ICN0a : boolean; oK30, A, G : integer array; _ : boolean; vp : boolean; K1Yaa : boolean; let zo[- (7010 = 73) * 53 rem true] = not true rem u < (7) or 8 - 14 end

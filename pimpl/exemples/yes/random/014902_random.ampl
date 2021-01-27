@@ -1,0 +1,1 @@
+program i : QE7aa : takes Luoaa, uD, K : integer array returns integer array chillax end o : takes t : integer returns nothing T : boolean; output 3 = 9 end main : c54 : integer; T : boolean; chillax end

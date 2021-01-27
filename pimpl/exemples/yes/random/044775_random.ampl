@@ -1,0 +1,1 @@
+program UI5 : h4 : takes L_ : boolean array returns nothing wP : integer; output "" . 239 = 8; output 7 . "" end main : wGQa, G, I5, s1q, m, J9, eD : integer; n, d, z : boolean array; e : boolean; S : boolean array; pop true end

@@ -1,0 +1,1 @@
+program d : R : takes L, ng5 : integer returns integer output "4"; do I840a(- 5820); do wI(7740 = 268, 51); pop end dU : takes QAaa : boolean returns integer array chillax end main : let k = - K0[90] - (2) or 6 end

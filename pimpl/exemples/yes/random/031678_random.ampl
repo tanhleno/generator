@@ -1,0 +1,1 @@
+program U5m : GTM : takes H, z5 : integer returns boolean when case true + 48 - 3 < 1 : chillax end case - 1 : chillax end case 2 : chillax end case 4 : chillax end otherwise : chillax end; input f4Fa end main : p, Xw, l, y_4, GO80a, E3 : integer; h, n : boolean array; input k[0530] end

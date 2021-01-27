@@ -1,0 +1,1 @@
+program hh : q : takes w, A0la : boolean array; YZ, W, t, S, v : boolean; FM : integer array; U690 : integer; B : integer returns integer output ",`" end main : q, E5Y0, s, P : integer array; output "9" end

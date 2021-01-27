@@ -1,0 +1,1 @@
+program n190a : main : let qhP[- not not not 2] = array - 9 * tMN(5130) or false; when case false rem true : while 6 = 0 : chillax end; when case 0310 : pop end otherwise : chillax end end otherwise : do v(572); output "\t" end end

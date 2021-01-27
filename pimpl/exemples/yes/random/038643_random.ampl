@@ -1,0 +1,1 @@
+program lg : K : takes z : boolean array; F, g : boolean array; o, z : integer array returns boolean chillax end IQs : takes U0, f : integer array; r, v, y, O, q, jU : integer returns integer do ef5a(4 - 1, 0 = 099); when case 81 = 55900 : do b7qa(7); pop end; when case 0800 : chillax end otherwise : chillax end end main : V : boolean array; output "" end

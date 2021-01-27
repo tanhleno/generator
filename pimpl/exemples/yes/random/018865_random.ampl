@@ -1,0 +1,1 @@
+program yH1 : z : takes i9fa, V : boolean array; Kh, Tb, F : boolean; A : boolean; r : boolean array; fg, n, t9 : integer array; Q, G : boolean; _J : boolean returns boolean array output "s5" . "" . "" . 0 . "" end q : takes e, o : integer returns nothing S8Z, P : boolean; chillax end main : q : boolean; W, q40 : boolean; do rf(- 2 / (23) + not not 9 rem true) end

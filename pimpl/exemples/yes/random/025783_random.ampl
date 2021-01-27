@@ -1,0 +1,1 @@
+program s35aa : st9 : takes B, q : integer; Lmk0, vvb : integer array; i, K, s : integer returns nothing chillax end b : takes PD : integer returns nothing let H2Laa = array 0 - 2; let q = 7 end I9 : takes b380, ub40a : boolean; B : boolean returns integer array chillax end main : chillax end

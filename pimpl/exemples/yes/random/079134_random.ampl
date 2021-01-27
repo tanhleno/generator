@@ -1,0 +1,1 @@
+program J : main : x87 : boolean; nXi, E : integer array; when case - hgSaa and true rem not 95 and 598 <= - 78 and 2 and 3 : chillax end case - not 7 and false : when case 04 = 6 : while 3 : chillax end end case 103 : chillax end otherwise : pop end; input o end end

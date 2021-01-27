@@ -1,0 +1,1 @@
+program ro90 : l : takes C34, H : integer array; g, z, P, h : integer returns integer t, M9 : boolean array; chillax end main : J, T, Jk, n : integer array; c9 : boolean array; when case true / false and 6 and 10 >= - 0 rem false : chillax end otherwise : while 3 = 550 : while 5 : chillax end; pop end end end

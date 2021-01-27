@@ -1,0 +1,1 @@
+program c : y : takes w : boolean array; Z0E : boolean array returns boolean array t5 : integer array; let h = array - 2 and 6 + 23 - 81; pop end main : dB1, v, f93aa, f : integer array; G : boolean array; chillax end

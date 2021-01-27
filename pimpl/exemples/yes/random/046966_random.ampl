@@ -1,0 +1,1 @@
+program H : L : takes j4_aa : boolean returns integer chillax end main : cD : integer; Ij0aa, R : boolean array; ak : boolean; when case - false * true and not 82 and 474 < false : pop 4 end case - false - (3) or 8 >= true or 7 - 0 : chillax end otherwise : chillax end end

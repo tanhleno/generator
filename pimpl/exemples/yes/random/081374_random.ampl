@@ -1,0 +1,1 @@
+program BI : main : V3 : boolean array; q, I : integer; QM : boolean; Hp, z_, t33a, T1 : integer array; let m[- not not true + not(7)] = - (4) + 8 or 8; output oP and 8 <= 99 . - 772 > 0 . 5 . "\t" . "{" . "x" end

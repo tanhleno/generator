@@ -1,0 +1,1 @@
+program s : main : T : boolean array; S, H95 : integer array; while k / not 1 + true or not 5570 >= not not 20 / true and 9 : pop 4 = 6; when case 3 = 6 : when case 8 : chillax end; pop end case 82 : pop end end end

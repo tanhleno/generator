@@ -1,0 +1,1 @@
+program U : S : takes S : boolean; s, Tmr : boolean array; y, I9 : boolean array returns boolean array chillax end So : takes oU8a : boolean array returns nothing u : integer array; do Gg(- 7, 96) end main : Bgj0a, d8D : boolean array; let P9U[- not 0 - (72)] = true and e; let E = - true and 351 + 13 > - 570 - 60 end

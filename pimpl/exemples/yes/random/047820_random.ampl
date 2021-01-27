@@ -1,0 +1,1 @@
+program kiqaa : n : takes K : boolean returns nothing do z(false and 74 or 6 - 9370, - 7 > 94400); output 2 end U : takes W2f, N : integer array; vc : boolean returns integer array h : boolean array; chillax end main : chillax end

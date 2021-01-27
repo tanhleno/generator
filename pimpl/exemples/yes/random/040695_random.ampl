@@ -1,0 +1,1 @@
+program r3g : R : takes k : boolean array; G : integer; t : integer array returns boolean L, a, n, i, B0 : integer; Y1, V : integer; when case not 6 and 4 - 3 = - 20 - 6 : input YQT end case - 9750 - 0760 <= 842 : output "" end otherwise : let Y540 = 850; let m6 = 297; pop end; input yH[- 45]; while 8 = 11900 : chillax end end main : let w5[f(9) or true] = array - true or(1) end

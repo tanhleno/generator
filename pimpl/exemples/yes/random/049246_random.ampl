@@ -1,0 +1,1 @@
+program v52 : M : takes OO : integer; Z0, N0, u3, d, R, C, E : boolean array returns boolean array l, AF : integer; output 5 . 1 = 34; let T1 = 290 = 0; input dt80 end main : ZQRa : boolean; chillax end

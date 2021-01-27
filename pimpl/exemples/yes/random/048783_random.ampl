@@ -1,0 +1,1 @@
+program dN4 : zi : takes a : boolean returns nothing v : integer array; n : integer; while - n and 4 < 7 : output 9 . "" end end main : G, I : integer array; h, V, S, J : integer array; X : boolean; chillax end

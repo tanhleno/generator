@@ -1,0 +1,1 @@
+program u : q : takes v, F, Irf : boolean array; L : integer array; a, A6ra, S, mH : boolean; _d, Y66 : integer returns nothing when case false and 3 : when case 932 : chillax end case 9 : chillax end otherwise : chillax end; let U = 5; when case 0 : chillax end; pop end end main : chillax end

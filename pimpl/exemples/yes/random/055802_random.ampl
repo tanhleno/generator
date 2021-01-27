@@ -1,0 +1,1 @@
+program h : o : takes T54 : integer array; U : boolean array; d, g : boolean returns boolean array L : boolean; chillax end Pk : takes R : boolean array returns integer array let XQ[10700 - 086] = 8720 end main : Q, i, ED : boolean; while 8 or 3 : chillax end; output ""; do P4(false <= 0) end

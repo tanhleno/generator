@@ -1,0 +1,1 @@
+program M : main : I0, zh, g8, G0, o, N, ZA : integer array; do f1H0(true and 932 - not true * (1) <= true rem p and 7, - false or not 2 and 46); do f(- (193) rem(09), - (7), - 8 <= 68); input m[- 5570 and 254] end

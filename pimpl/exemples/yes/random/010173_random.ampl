@@ -1,0 +1,1 @@
+program Pk : d : takes E, D, h2 : boolean array; d5E : boolean array returns nothing output - 4 - 4 <= 0 end main : X : integer; q : boolean; do K(s(9) > - 1940 rem(6) or(4) and 2, 0 < - 2, - (3) > - 4 - 8, 5, 4920 = 7, 9160); input s8 end

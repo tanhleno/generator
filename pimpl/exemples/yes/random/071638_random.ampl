@@ -1,0 +1,1 @@
+program q5 : main : xM, ov6aa, i : boolean array; x : boolean array; output ""; output "8k"; when case - Za30 and 830 <= - 480 - 5 : while 2 : pop end; pop end otherwise : when case 371 : chillax end; pop; pop end; when case 9 > 02 : chillax end case 4 : when case 68 : chillax end; pop end otherwise : do Q(239) end; pop 1 end

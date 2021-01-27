@@ -1,0 +1,1 @@
+program w : main : p : integer; when case - Hh(0, 1) rem(75) + true - not 52900 and 1 - 8 /= - not 59 or 33 and 5 - 04 - 3 : chillax end case - (7) : while 700 : when case 21 : chillax end; pop end end otherwise : while 78 : do Ei(6); pop end end; output false and 5 . "" . 63900 end

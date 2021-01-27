@@ -1,0 +1,1 @@
+program F : Y : takes L1 : boolean array; r1, q, k68, y99aa, K2 : integer; c : integer array; U : boolean; U : boolean returns boolean array input i5; while - 3020 : chillax end end main : chillax end

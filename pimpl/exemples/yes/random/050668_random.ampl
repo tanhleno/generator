@@ -1,0 +1,1 @@
+program TV : oK : takes U : integer; b, g : boolean returns boolean array R, E04, u : integer array; M, X0 : integer; F, I : boolean array; chillax end main : input k2g0a[- 8]; input qW2aa[(9) + K and 5]; input T[581 and 67 or 540 - 748]; pop end

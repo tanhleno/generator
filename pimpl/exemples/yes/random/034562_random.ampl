@@ -1,0 +1,1 @@
+program u : Xi1a : takes o7U : boolean; N, w : boolean array returns nothing chillax end main : while 12 : pop 5 = 3840; let JL2[6] = array 677; do C(9, 5) end; let a6[- true and false] = - 5050 and 001 or 1 - 0 < - 3 - 2; do a(false > 4 - 335, 9510 - 797, 00300 = 51600) end

@@ -1,0 +1,1 @@
+program m : fF90 : takes E5R, jJ1, NA, Q, o : integer returns boolean array z, Xn7a : integer; do pLlaa(true and 14 or 263 = - 0); while - 9 - 6 : output ""; let y5 = 2; pop end end main : do Gn(true + not PlU rem 6 <= not true) end

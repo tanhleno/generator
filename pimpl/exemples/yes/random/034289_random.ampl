@@ -1,0 +1,1 @@
+program kJ60a : N : takes l : boolean; LD, W : boolean; VA5 : boolean array; e68, Buv0a, n : boolean; Z : integer array; nM, a31, J0 : integer array; P38aa : boolean; O : boolean returns boolean W : integer; chillax end main : pop true rem true and 8 end

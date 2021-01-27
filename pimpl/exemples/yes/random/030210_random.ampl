@@ -1,0 +1,1 @@
+program b : x : takes oL30, c : integer array returns nothing chillax end KY9aa : takes iS, xm7, lW3a : integer; a : integer; L : integer array; X, K : boolean array returns integer array i, eb8 : integer array; chillax end main : g5A, w : integer array; chillax end

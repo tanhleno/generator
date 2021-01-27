@@ -1,0 +1,1 @@
+program _86 : o2L : takes Ed4 : integer returns boolean m2, Q : integer; chillax end Z : takes No, d : integer array; mK : boolean array; h, H5, K5 : integer array; C_, tm : boolean array; p : integer returns nothing hoJ0a, T : integer array; chillax end main : B : integer; E, r : boolean array; fJ, Q, D : boolean; L, j02, M : integer; chillax end

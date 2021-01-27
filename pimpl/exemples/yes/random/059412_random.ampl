@@ -1,0 +1,1 @@
+program q : RV1 : takes p97aa : integer array returns integer G : boolean array; u, Tza : integer; E, u : boolean array; when case true : chillax end otherwise : chillax end end Om : takes C : boolean returns nothing chillax end main : pop 86 + (9) - 4 end

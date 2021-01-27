@@ -1,0 +1,1 @@
+program S0 : I : takes z, C : boolean array returns boolean H : boolean array; w1, x : boolean array; chillax end p : takes k : boolean array; i : integer array; G, K, qB, z29 : integer returns integer array A5, f : integer; when case - 222 >= 5 : input g end otherwise : pop; pop end end main : d70 : boolean array; chillax end

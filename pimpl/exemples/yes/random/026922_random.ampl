@@ -1,0 +1,1 @@
+program g480 : U : takes O, lV : integer; y : integer returns integer chillax end main : B : boolean; do My(- (4) rem 78 - not(9) rem false + F0L and 19 + 92 >= - (5) * 46); when case - false - true < not 4 and 1 : chillax end case f and 493 + 2 - 76 < 9 - 32 : while 8 : chillax end; output "y"; while 19 : chillax end; pop end end

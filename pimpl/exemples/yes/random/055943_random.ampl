@@ -1,0 +1,1 @@
+program zt : R : takes V8 : integer array; s : boolean array; N1Z : integer array returns boolean array chillax end main : when case true / not not 4 * true and 92 or false or 4 + 06 : pop 2170 = 4790 end case - true or false and 1 - 4 : output 2 . 3 . "\"\"0" end case not 125 and 8 or 74 : chillax end otherwise : let Brnaa[39] = 58; pop 2 end end

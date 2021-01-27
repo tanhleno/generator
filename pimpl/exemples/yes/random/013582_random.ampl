@@ -1,0 +1,1 @@
+program i : x5 : takes c9, X, Sb70a : integer; E : integer returns nothing do I_(- not 2 and 9 + 1 /= - 23, - 8 >= 5) end P : takes GI, D, n : integer returns nothing L, R : boolean array; chillax end m4R : takes NLV, _44, s, Tw, P, l3h : integer returns integer Jr2aa : boolean array; f : boolean; _ : boolean; chillax end main : chillax end

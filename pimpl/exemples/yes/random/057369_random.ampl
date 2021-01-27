@@ -1,0 +1,1 @@
+program W6 : r : takes E : integer array; gaJa : integer returns boolean q3 : boolean; v, F3K, f, c1k : boolean array; while - (00800) or 34 - 2 : do P(225); input W end end main : while false < - true and true or(1) : chillax end; when case false and true = - _ : chillax end otherwise : chillax end; when case - not 9090 - 6 - 4 < 81 - 31 : chillax end; let vJs = array 58800 end

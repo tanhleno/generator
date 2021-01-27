@@ -1,0 +1,1 @@
+program S : st50a : takes X, Q : integer array returns nothing chillax end main : p, K68 : integer; do g(- false or true and true and 3880 or MH and 871 < - true and true and 6 + false and 06 + 9, BJl[77] >= (2) or 7 - 50) end

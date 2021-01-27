@@ -1,0 +1,1 @@
+program QJ9aa : u5 : takes a, R9Na : boolean array returns integer chillax end Tl9 : takes sS : integer array; Ql : boolean returns nothing q, F63a, VZ, A : integer array; chillax end main : pop; input Lt end

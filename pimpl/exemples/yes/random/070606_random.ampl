@@ -1,0 +1,1 @@
+program cB : main : S9S, fO7, DW, W : integer array; input K7[66400 or true * false and 9]; when case - a910a(47) rem not 7 and 3 >= - O and 18 or 88400 - 03 : let T10a[57500] = array 57 end otherwise : chillax end end

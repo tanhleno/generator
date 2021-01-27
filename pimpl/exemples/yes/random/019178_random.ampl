@@ -1,0 +1,1 @@
+program P5 : T5I : takes P950a, b : boolean array; G3, k : boolean; h : integer returns nothing _3x, T : integer array; F, I : integer; let WU60a = 1 - 4360 end main : pop - true + (40) and 5 = true - 47000 - 5; do M(not(643) / true); output "\":a"; input w[- 9]; while 3 = 865 : let M = 318; pop end; pop end

@@ -1,0 +1,1 @@
+program D230a : main : UZS : integer; zV : integer array; N5 : integer array; when case - 1 * not a1W - 681 rem true and 52 or false or 9 : chillax end; while(662) / true and 4 : let Q92 = array 4 end; when case 6 : input b7g end; let N5[409 - 6] = array 8 end

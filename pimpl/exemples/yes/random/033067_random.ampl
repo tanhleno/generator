@@ -1,0 +1,1 @@
+program Igq0 : b : takes Z1, K96 : integer returns nothing output "" . 75600 end main : when case - (775 = 0) rem F[4] * not 03 and 02 - 5 * H21 and 8 or not 6 : chillax end otherwise : chillax end; output "8" end

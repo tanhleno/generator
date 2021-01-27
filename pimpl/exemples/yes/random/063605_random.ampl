@@ -1,0 +1,1 @@
+program x0 : l : takes b : integer returns integer when case false and 541 <= - 1 : while 3 : chillax end end otherwise : chillax end; when case - 51 = 6240 : chillax end otherwise : do S3(8) end; pop 1 end S1 : takes H : boolean; nm, a : integer; JJ20a, P, t, h7, e : boolean returns integer Xd : integer; Y, Z, V1 : integer array; chillax end main : chillax end

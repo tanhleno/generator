@@ -1,0 +1,1 @@
+program Yn : main : c : boolean array; YA80a : boolean array; o : integer array; u3, Et, S : boolean array; XL : boolean array; a, m : boolean; when case x[49] * v and 8 and 9960 - (4) = true and not 4 : pop 1 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program T11a : main : when case(6) and not x and(7) and 6 + VL4a[07] * true <= - t18[057] / true and 60 : chillax end case - (581) + true - 1 - 05 : chillax end case - not 0 = - 386 - 107 : chillax end; input fF; input UD[- (79200)] end

@@ -1,0 +1,1 @@
+program a : n : takes E, jb : integer array returns boolean let o[false or 01] = - 51; output "" . ""; do C7(1 = 58, 95); do X29(21, 9); output "L7\""; do ib1aa(3) end main : n : boolean array; chillax end

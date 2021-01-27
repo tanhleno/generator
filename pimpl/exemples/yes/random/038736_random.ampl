@@ -1,0 +1,1 @@
+program r0 : r : takes f : boolean array; d0, moZ0a : boolean array returns boolean O, u7caa : integer; X, X, Q, Nq4 : integer array; output - 0 - 975 . "\t" . 70; do m(- 1 - 08000, 0 = 7, 886, 8); while 7 = 7 : chillax end end main : q, m, h, Gc : integer array; r0, V, WL : boolean; pop end

@@ -1,0 +1,1 @@
+program J : W : takes b4k, r1Vaa, V : integer array; i : integer returns nothing pop - 0; let a[- 45500] = 85 end J : takes v3, s : integer array; i9 : integer array; D : boolean returns nothing chillax end z : takes h1, a5e0, d : boolean array returns nothing chillax end main : do _(- true or(3) - true and 4 > - (177) or true and 4, not true * Cb and 1940 - 9) end

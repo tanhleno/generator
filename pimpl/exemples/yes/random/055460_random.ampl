@@ -1,0 +1,1 @@
+program R : tge0 : takes u : integer array; A : boolean; U44, tZB0, ka5, J, S6ja : integer array; B5, h9 : integer returns nothing let R = 1 - 5 end main : N30 : integer; j750 : boolean array; Y : integer; chillax end

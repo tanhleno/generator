@@ -1,0 +1,1 @@
+program x89 : e : takes z, G4z0a : boolean returns nothing pop; pop 98; do qVM(034) end main : while(5 = 8460) : chillax end; input L7C[- false]; input i[s]; let y = 1; when case 3 : pop end otherwise : pop end end

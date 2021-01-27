@@ -1,0 +1,1 @@
+program S : rgO : takes f7, U, K, v6Fa : boolean; y, L, _eB : integer array; L : boolean array returns boolean array let N[- false or 6] = 5 < 364; while - 04 <= 3 : chillax end; let PT9 = 79; let nz[494] = 0 end main : l, G, Lo : integer array; input lh[false rem false + 4 / 3 and 6]; while 996 rem false or 7 and 4 : chillax end; output "" end

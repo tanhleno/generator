@@ -1,0 +1,1 @@
+program B : s : takes Y, X : boolean array returns nothing chillax end q2 : takes o8ya, el0 : integer array returns boolean array X : integer array; chillax end main : L3J, Io : boolean array; F, UI, H, CI : boolean; P59aa : integer array; pop not(32) + 8 + 87600 - 46 <= - 0 + 338 - 4780 end

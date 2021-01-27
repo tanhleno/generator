@@ -1,0 +1,1 @@
+program Lt40 : h0 : takes p3Maa, P, e_10a : integer returns nothing chillax end Q4 : takes G, c, xr : integer; O : boolean; h8 : integer array returns nothing b52 : integer array; rt : integer array; let s = array - 3; output "" end main : chillax end

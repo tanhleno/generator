@@ -1,0 +1,1 @@
+program VMC0a : W410 : takes F : boolean; K6, P : integer array returns boolean chillax end s : takes l6, o : integer array; l : integer; a, B4i, z, X, lc : boolean; p_, f, Hh : integer returns nothing while 7 >= 5 : pop; pop end; output 10; do i(2); input h170 end main : _ : boolean; D : boolean array; chillax end

@@ -1,0 +1,1 @@
+program M : W : takes PG : integer returns integer array when case 529 and 6 - 4 - 8 <= 3 - 4920 : input Q; while 745 : chillax end; pop end case 4 - 1640 : chillax end otherwise : let XR = 6 end; do p(8, 5, 8, 1) end main : input X; do k5(- not(0) / (7820) = true and 9) end

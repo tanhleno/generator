@@ -1,0 +1,1 @@
+program W09 : L3 : takes U, Z7 : integer; B : boolean returns boolean while - true - 6 = - 94 - 40 : input Ip end end main : z0 : boolean array; F, Kz : integer; S7 : boolean; E, D, qd : integer array; x : integer array; while - false : chillax end; when case 3 or(9) + 202 - 0 : chillax end case a : do _6(7, 9); while 38 : chillax end end end

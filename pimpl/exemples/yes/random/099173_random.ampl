@@ -1,0 +1,1 @@
+program w : main : while false >= true / (930) and 4 : input m4 end; when case - b[87] * not 1 and 0 + z and 4 - 19000 - 4 : pop 71800 end case - true and 24 >= 94 - 9 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program L : F2 : takes u, _TQ0a, P : integer array returns integer array Y1, a, x, P1 : integer array; c6 : integer; Yk, Yq8 : integer; uT : boolean; output "H{" end main : O2Q : boolean array; while true rem uk[40] and not 0 >= - 1 * (7) and 3 : chillax end end

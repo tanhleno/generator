@@ -1,0 +1,1 @@
+program w : main : I, d7, Py, z : integer; when case false : chillax end case - true / 47 or false and 8 - 8 : let _9[5] = array 13900; input gC_[8] end otherwise : chillax end; pop; output "j\\!" end

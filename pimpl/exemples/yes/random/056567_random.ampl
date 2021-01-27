@@ -1,0 +1,1 @@
+program tX : ZF : takes I3p : integer array; r : integer; I, Fi0a : boolean array; O0, M : integer returns integer X760a : boolean; do Il8(true and 19000 <= - 0 - 50300, 04 < 8) end main : chillax end

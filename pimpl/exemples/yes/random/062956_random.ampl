@@ -1,0 +1,1 @@
+program m : Z : takes _ : integer returns integer array X : boolean; R : boolean; L8Laa, Rb30 : integer; Hx, sM4 : boolean; chillax end tk : takes E : integer returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program gu7a : SS3aa : takes R : integer array; B7, LN : integer; dLX0a : boolean array returns nothing while false and 1 : chillax end; when case 7 - 155 : input c; while 9 : chillax end; pop end case 3 = 7 : chillax end case 8 : pop end end main : let i87[- true and 10] = array - (0190) and true or 3 + kf60a and 53 - 71 - 2 end

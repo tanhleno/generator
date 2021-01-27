@@ -1,0 +1,1 @@
+program v : u : takes Ko70a : integer array; _27, _jJ : boolean returns boolean array W : boolean array; HFj : integer; iR6, NA4 : integer array; ULE, tUw0 : boolean; a420a : boolean; Pb : boolean; chillax end main : O2g, d : integer array; lP : integer array; chillax end

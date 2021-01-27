@@ -1,0 +1,1 @@
+program R : E : takes w, W, i : integer array; Q5T0, n9, l8 : boolean array; x : integer returns nothing xu : boolean; chillax end main : _, w, qr : integer array; when case - false / 93 <= false : while - 925 - 9 >= 6 : pop end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program KG : main : i : boolean array; Dh8, L0, M : integer; V, TQ : boolean array; let Ux = array lwH0(9, 2) + (3) + x5A and 5 - 8; do UL(- 44 / (711) = true and 2, (0370) and 9 or 934, 31); pop end

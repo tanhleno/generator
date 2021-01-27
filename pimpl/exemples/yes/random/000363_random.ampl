@@ -1,0 +1,1 @@
+program l3 : YD : takes tn, q, z, D82a, jf, DV0a, m, b : integer; G : integer array returns integer chillax end main : f : boolean; E970, g, ug, V, CYR, v : integer array; flT : boolean; V : boolean; HaJ : boolean; w, S : boolean; v2ma : boolean; input a[7 * not false - 72 + true]; input n[- b1[4] and not 39 and 81] end

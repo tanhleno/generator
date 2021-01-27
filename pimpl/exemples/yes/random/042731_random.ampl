@@ -1,0 +1,1 @@
+program M9daa : ev : takes L : boolean array returns integer array O : integer; chillax end k : takes q : integer array returns boolean array do R(- 6 = 8, 21 = 64, 941, 5) end main : c2 : integer array; chillax end

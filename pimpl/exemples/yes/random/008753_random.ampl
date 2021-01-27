@@ -1,0 +1,1 @@
+program D : e : takes c, q, s : boolean; cI, A7 : boolean array returns integer array mp, o_5 : boolean array; chillax end U : takes r7l, Z : integer array returns nothing X, v : integer; qQ, s : boolean; chillax end main : when case - true : input Cs; do m(26, 19900) end; while(5) /= - false and 854 + 5740 : chillax end end

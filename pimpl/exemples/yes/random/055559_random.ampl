@@ -1,0 +1,1 @@
+program VEt : l : takes a5e : integer array; B : boolean; l, k : integer; i : boolean; T, H : boolean array returns boolean array Dd : integer array; rQ : integer; chillax end y2 : takes a : boolean; q6Oaa : boolean returns nothing hf, k : integer array; do O(- 8 = 4); let H9 = array 0 end main : Y, W : boolean; j7, B3, o, rz0aa : boolean array; pop end

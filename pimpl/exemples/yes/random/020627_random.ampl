@@ -1,0 +1,1 @@
+program N : Q : takes s, G : boolean array; M7ea : integer array returns nothing v4o : integer array; B1 : integer array; chillax end main : pop - T(53500) and w and 11900 < - false; input M1; do L2Ta(Y = 66, - 7 - 0 >= 2); input l6 end

@@ -1,0 +1,1 @@
+program VG : U5Waa : takes Eg : boolean returns boolean chillax end _ : takes b : boolean array; z0, M : integer array returns nothing sg : integer array; e, _NIa, bC : boolean array; input a8 end G : takes j700 : boolean array; w : boolean array; sY2 : boolean array returns nothing z : integer array; O : boolean; o4 : boolean; C : boolean; chillax end main : chillax end

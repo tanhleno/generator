@@ -1,0 +1,1 @@
+program NoB0a : n : takes f : integer; EN, ev30a : integer returns nothing Q3l, c : integer; X : boolean array; chillax end uQy : takes A : integer returns integer array m4 : integer array; chillax end main : let _Xx0a[(62300 = 7) rem 32 or true] = - true - false and 6; input u8[true * 8 and 8]; input te[- (54)]; pop; pop end

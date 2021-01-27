@@ -1,0 +1,1 @@
+program nDRa : C : takes r, h : integer; Ng, s1 : integer array returns nothing when case - false and 9 + 9 - 7120 > 4 - 76900 : input s; when case 16 : chillax end; let d_z = 0; pop end otherwise : chillax end; while - 1 : do n(23); let B = 4; pop end; input r; while 7 : pop end; input A end main : chillax end

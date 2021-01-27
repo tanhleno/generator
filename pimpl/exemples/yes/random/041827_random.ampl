@@ -1,0 +1,1 @@
+program o4 : O : takes q : boolean array returns boolean array let Q62[- false] = array not 8 + 71200; pop; when case 191 = 84 : when case 7 : chillax end; pop end otherwise : chillax end end main : do yi4aa((985) * true and false and 114 or not false, - (0) <= (3) and 15, 66 and 4 or 427 < 6, 6 - 81 <= 7, 581 = 2); pop - true < 0 - 9; input Q[not 4 and 0 or 5 - 28900] end

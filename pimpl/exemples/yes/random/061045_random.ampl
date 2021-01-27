@@ -1,0 +1,1 @@
+program G76 : ed : takes y : integer array returns nothing E : integer; input w; when case 1 - 777 : do G(3); let S = 1520; pop end; when case 488 : pop end case 1 : pop end case 544 : chillax end; do S(80, 3); let w = 3 end main : P : boolean; K17 : integer; chillax end

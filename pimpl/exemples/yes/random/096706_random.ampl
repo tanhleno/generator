@@ -1,0 +1,1 @@
+program WB : main : when case false * (374) rem g15 and 2 /= - a(4) * (23) - not 3 : chillax end case - k(820) and 1 - true or 8 >= true and 040 : when case 0 : chillax end; pop end case - 1860 : chillax end case 3 >= 5 : output "" end otherwise : when case 0 : chillax end end; when case - false rem true < - Q7 and 5 : pop 42; output 3 . "\\" end otherwise : chillax end end

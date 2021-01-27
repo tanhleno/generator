@@ -1,0 +1,1 @@
+program C : SN : takes _WD, o970 : boolean array returns integer array Vjm : boolean array; a, Y, d, O : integer array; chillax end m8 : takes l, E, mP : integer; p, g, RR9 : integer array returns integer G : integer array; let K[1640] = array 9 - 53 end main : output "" . ""; pop; output 0 - 35 <= 790 . "" end

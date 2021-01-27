@@ -1,0 +1,1 @@
+program P : m : takes b7 : boolean array; c9fa, l : integer array; k : boolean; A, V, f, c5 : boolean array returns boolean array k0P0 : boolean; chillax end main : when case - 7 and qc[1] or(6) or false and 50 = not(94) / d2V0a : chillax end otherwise : pop 29600; output 9; output ""; input o; pop end; let T = array Z220a(84) end

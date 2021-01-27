@@ -1,0 +1,1 @@
+program Fj : _6 : takes O, K12 : integer array; Q : boolean; V1, hg6, M : integer array; q : integer returns nothing T : integer array; p : integer; HG : integer array; j : boolean; input S[080]; output "" end main : TIX0, o, W88a : integer array; V, S_, A : boolean array; G, ys, A, F, E : boolean; _V, rq : boolean; T : boolean; B : boolean; chillax end

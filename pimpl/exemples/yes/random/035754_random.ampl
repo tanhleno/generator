@@ -1,0 +1,1 @@
+program q : q : takes VfI : boolean; s : boolean array; RGV : boolean returns integer array e310 : integer array; while false or 78 - 31 : chillax end end A : takes v, x, r, O7v0, _J : boolean array returns nothing q2 : integer; chillax end main : chillax end

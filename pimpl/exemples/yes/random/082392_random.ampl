@@ -1,0 +1,1 @@
+program m2 : main : X : boolean array; let t[- not(92) * not not 7 rem(01600) and 40500] = array 2400 - true / true - false; when case 4 : chillax end case 2 and 8 or 9 - 2 >= - 6 - 4 : pop 9 end case 974 - 8 > 71 : chillax end otherwise : chillax end end

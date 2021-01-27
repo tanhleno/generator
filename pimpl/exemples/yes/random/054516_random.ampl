@@ -1,0 +1,1 @@
+program lnj0 : l : takes G480 : integer array; M, n : boolean array; y, ot, C : boolean; R : boolean array returns integer chillax end Fh : takes iK6a : integer array returns boolean chillax end xy : takes G0, f : integer array returns boolean while 1 = 11 : let e = 2 end end G7 : takes FM, IuM0 : integer returns boolean chillax end main : A : integer array; output "" end

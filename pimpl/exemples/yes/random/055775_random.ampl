@@ -1,0 +1,1 @@
+program RR : w : takes lc : integer array; T : boolean array; w0, Gc : boolean; Z, a0p : integer array returns nothing while - 3 = 8 - 05 : pop 0; when case 6 : chillax end; output "58" end; let B6 = 9 end w : takes m : boolean array; eD : boolean returns nothing L : boolean; chillax end main : u9, M1, VFS0 : integer array; chillax end

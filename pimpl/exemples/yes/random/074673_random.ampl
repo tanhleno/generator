@@ -1,0 +1,1 @@
+program q1 : main : is, d24 : boolean array; GHM0a, G2N, V050a, X41a : integer array; let p[bLc0a(9390) / true / c62aa or not not 2 and not 5 + true and 6 or 5] = - true and 9 and 1 < - false + 8; while true rem true and 62 <= - (87800) : while 5 : chillax end end end

@@ -1,0 +1,1 @@
+program h : N4 : takes L0 : boolean returns nothing input D[- (7) and 016]; pop 6400 = 0 end main : do o8(- (2 = 3) and false + S4[1] - not 9 and 1840 or 46 - 7980, not false and 3 and 298 - true and 8 - 56 - 90400 /= - 5 and 3 - 1 - 3) end

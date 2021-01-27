@@ -1,0 +1,1 @@
+program v : main : wX : integer array; N, ea, a0, f5, xO, B : boolean array; K : integer array; pop 8 /= - (5) and 6 - 0; when case true * 68 and 7 /= - true and 623 or 8 : input Y[1]; let A8 = array 8; input m end; when case p and 716 >= 37 : chillax end end

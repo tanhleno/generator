@@ -1,0 +1,1 @@
+program Ui : C2 : takes o : integer array; X : boolean; M, PJ : boolean returns nothing input G end main : i2, Z0 : integer; when case - u(6, 6920) and X32[005] = - o[5] + (95800) and 3 or 7 - 664 : chillax end otherwise : chillax end; output "\n" end

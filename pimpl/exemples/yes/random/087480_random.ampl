@@ -1,0 +1,1 @@
+program Yp : main : J0 : integer array; when case(88 = 5830) > - false rem g or ZC2 and 2 : chillax end case xG[6] and not 2 and 6 - 049 : chillax end case(13) + 47 - 70100 : chillax end case - 574 - 898 = 7 : let DF = 3 end end

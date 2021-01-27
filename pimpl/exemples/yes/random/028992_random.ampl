@@ -1,0 +1,1 @@
+program J : mgd : takes YE3, Z3C : integer array; _eEaa : integer array returns nothing chillax end C : takes e, kdW : integer returns integer let h6J[95] = 07; output 4 end main : e : boolean; chillax end

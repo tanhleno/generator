@@ -1,0 +1,1 @@
+program v : main : l, s : integer; while false and not true rem 855 : when case 019 - 9 : let b6L = 22 end case 4 = 1 : chillax end case 84 : pop end case 5 : chillax end otherwise : let k = 0; pop end end; while - (13) / false and 5 - 9 and 20 >= W78 and 0090 : input Rf[6]; while 64 : chillax end end end

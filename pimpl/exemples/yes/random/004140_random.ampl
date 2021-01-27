@@ -1,0 +1,1 @@
+program hFS : G : takes T, L, Q33, _, B7 : integer returns nothing input c; while - 0 < 7 : pop; pop; pop end end KN : takes b, t : integer; x, j, J65aa : boolean array; z1q : integer returns nothing chillax end main : chillax end

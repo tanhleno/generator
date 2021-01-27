@@ -1,0 +1,1 @@
+program q : main : pop - false * not 407 and 2; output ""; when case false /= - 8 - 7 : chillax end otherwise : output ""; pop; pop end; when case 302 > 839 : when case 90 : chillax end; output "m" end; output 97 end

@@ -1,0 +1,1 @@
+program mfM : main : when case 893 : do q(72 <= 5670); let o[8] = array 8; pop 05; when case 26400 : chillax end; while 14 : chillax end; pop end case - x + false and 642 < - (8) and 40 : do U(0, 035) end otherwise : output 62 . 46 . "P\"!" end end

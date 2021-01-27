@@ -1,0 +1,1 @@
+program ZBwa : main : I : boolean; output false * 2 + false and 5 or 9 - 1 = true and 89900 . "\"" . 8 - 74; when case - (1) rem true and 9 > false : chillax end case - false + 9 < 2320 - 3 : when case 5 : chillax end otherwise : chillax end; input w end case - 7 - 20 : chillax end case 90 : chillax end; input f_[- (6) and 7] end

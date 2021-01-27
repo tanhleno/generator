@@ -1,0 +1,1 @@
+program M : main : when case - 13 /= true : do t(30 - 6 >= 9); input B0 end case - (32500) and(1) < 156 and 7 : chillax end case i and 9 >= - 1 : let k[80] = 7580; pop; while 46 : chillax end; pop end case - 4 : let h = 4450 end case 3770 = 729 : when case 02 : chillax end; pop end case 3 : chillax end end

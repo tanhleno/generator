@@ -1,0 +1,1 @@
+program _ : c7D0 : takes V, SY : integer; w, j, ji : boolean array returns integer chillax end s : takes x : boolean returns nothing chillax end S87a : takes _600a : boolean returns integer array JL : boolean array; chillax end main : chillax end

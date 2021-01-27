@@ -1,0 +1,1 @@
+program rP2a : zS : takes A6, F6, q : integer array; d80 : boolean array returns boolean array while not 8 + 9 - 13 < - 31 - 6 : pop; do j(3); do lj(512); pop end; when case 23 : chillax end case 48 : chillax end otherwise : chillax end end main : chillax end

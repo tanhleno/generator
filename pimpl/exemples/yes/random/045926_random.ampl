@@ -1,0 +1,1 @@
+program yL : xB : takes j : boolean returns boolean chillax end LM : takes qg : boolean; XN, Y9, v : boolean; J : boolean array; V6, J3 : integer returns nothing when case 1 : chillax end; let O = array 1840 end main : chillax end

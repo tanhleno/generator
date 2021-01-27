@@ -1,0 +1,1 @@
+program gs : main : when case - false : pop 325 = 35 end otherwise : pop 93 end; input zn7; while true and 8 + 1 > 9960 - 7 : output "\\\\0a" end; when case 1 >= 00 : chillax end; let Y = array 7; do fM5(72, 37) end

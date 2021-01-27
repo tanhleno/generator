@@ -1,0 +1,1 @@
+program G6 : g : takes B2Ea : boolean returns integer array chillax end f : takes B : boolean array; a, P : boolean; UN, H : integer array returns integer chillax end f : takes ZfJ, ml, o1, K, G : integer; o, DX : boolean array returns boolean output 8 . "" . ""; when case 67 : pop end otherwise : chillax end end main : chillax end

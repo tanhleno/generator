@@ -1,0 +1,1 @@
+program x : n : takes n460, L1 : boolean; b, e7, x : integer returns nothing f, Sf10 : integer array; do qOk(- true and 5750 <= - 39, 3740 - 360, 9 = 80) end w : takes m : boolean array; k, w, G : boolean; A6 : integer; P : integer array; _, pc : integer; U4, l : boolean returns integer Xf : boolean; Ce0aa : integer; input rI[- 73] end main : M1 : boolean array; chillax end

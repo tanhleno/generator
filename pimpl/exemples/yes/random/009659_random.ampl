@@ -1,0 +1,1 @@
+program j : E4 : takes L, y8, p9 : boolean array; IA, W30a, j140a : boolean returns nothing g070, Sa : boolean; K, n : boolean; chillax end main : when case 7 * l[0] rem false and 9 : chillax end otherwise : chillax end; let S[63100 * jt and 7] = array true rem(7) and 27 end

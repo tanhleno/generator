@@ -1,0 +1,1 @@
+program C : i : takes c8, c, m, r, F : integer array; B, V3 : integer array returns nothing y20, M : boolean array; chillax end b : takes T, n15, eS40 : integer array returns nothing output "" . "r\taa"; do z4(347, 84, 67900) end main : chillax end

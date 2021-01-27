@@ -1,0 +1,1 @@
+program V : H39 : takes Yo : boolean; D, R, E, HT3, T, LQ : integer returns boolean array KQ00 : boolean array; a6 : boolean array; k, K6K, v : integer; n, w : boolean; kj8 : boolean; chillax end x : takes o : boolean; t9g, x5 : boolean array returns nothing chillax end main : seia : boolean array; chillax end

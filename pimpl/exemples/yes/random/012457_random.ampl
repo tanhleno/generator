@@ -1,0 +1,1 @@
+program G : p : takes _, f, v81a : boolean returns nothing output "" . "" . "" end G : takes OA50, T : boolean array returns integer array d, s, O, yN : integer; pop end main : n78 : boolean array; G : boolean array; q, cU9 : integer; output "0" . "" end

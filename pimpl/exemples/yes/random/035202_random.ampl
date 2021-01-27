@@ -1,0 +1,1 @@
+program I05 : b2 : takes V310a : boolean; P, R280 : integer returns integer array S9V : boolean array; chillax end m : takes kU, HPf, J, E, Hlk : boolean array; y, R : boolean; I, M : boolean array returns integer array Ibn0 : boolean array; chillax end main : while - 039 > true and true or 2 : chillax end end

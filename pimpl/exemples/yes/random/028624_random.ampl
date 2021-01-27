@@ -1,0 +1,1 @@
+program Fdtaa : Am : takes z, _ : integer array; j4 : boolean returns nothing when case not 6 and 4 - 249 : pop end case 75 > 03 : when case 32000 : chillax end end; when case - 3 - 3 > 49 : chillax end otherwise : while 19 : chillax end; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program xQ : fQ : takes Q980, ZEW0 : boolean returns integer array BDLaa : boolean; V4, exu : boolean; P, e, v2 : integer; output "" . 6; when case 23000 : chillax end otherwise : output "2}"; pop end end main : chillax end

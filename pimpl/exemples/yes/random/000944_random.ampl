@@ -1,0 +1,1 @@
+program g : i860 : takes HZia, Y, F, od, M, bX, kXGa : integer array returns integer array input A[- not 8 and 8 - 88000 - 2]; while 9 : pop end; pop end S : takes a12, o7 : boolean returns boolean array j : boolean; chillax end main : input C[(1 = 6)] end

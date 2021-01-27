@@ -1,0 +1,1 @@
+program J : main : let J = array - not true * 91; when case - pJP + C5 or 7 - 1 : chillax end; input u; while 4 - 068 : do iLw(48); do C(4) end; when case 4 : chillax end otherwise : chillax end; output "" . ""; when case 4 : chillax end end

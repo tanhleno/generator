@@ -1,0 +1,1 @@
+program p : main : g0 : integer; T, I : integer; G0, r5S, m7, M : boolean array; i, T, fO90, C3 : boolean; A67 : integer; Q1 : boolean; when case gr8(19100, 6) : chillax end case - true or(6) and 77 : chillax end case em and 484 <= 5 : do n6(32) end end

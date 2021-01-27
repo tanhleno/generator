@@ -1,0 +1,1 @@
+program l : main : while true >= true * (1) + not 9160 : let f = array 1 - 63 end; input Co[not not 89 * 8 - false]; while true and 8 > 5 - 1 : chillax end; while - 8 : chillax end; input jL[4]; while 8 : chillax end end

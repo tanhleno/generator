@@ -1,0 +1,1 @@
+program p : M : takes s : integer array returns nothing d, h : integer; chillax end f73aa : takes n : boolean returns integer array qm40 : integer; chillax end main : while(81 = 3) rem not 187 and 0560 = - 17600 : when case 872 - 6 : when case 5 : chillax end; while 14 : chillax end; pop end end end

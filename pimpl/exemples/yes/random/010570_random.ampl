@@ -1,0 +1,1 @@
+program G : e : takes O, B, e : boolean array returns boolean array v, v : integer; while(0) or 2 <= 232 - 99 : let gj[5] = 0; output "" end end main : when case 34 < - false : chillax end case not e or 88 = v and 5 - 14 : chillax end otherwise : pop 64 end end

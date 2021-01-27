@@ -1,0 +1,1 @@
+program n6 : KNb0a : takes X : integer; i_ : integer returns nothing chillax end b : takes A, OE30a : boolean; f4 : integer array returns boolean array o, B4w, V, A : boolean array; Q1N0a : integer; f : boolean; output "\\"; output "\t7"; when case 580 : chillax end end main : chillax end

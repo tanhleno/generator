@@ -1,0 +1,1 @@
+program T2 : W9pa : takes N : boolean array returns nothing A8 : boolean; c : integer; pE, bn, k : boolean; f : boolean; while - false - 01 - 534 <= - 0 - 9170 : while 2 : chillax end; pop; do B(13) end end main : input Z[- false or false or(77) and 57] end

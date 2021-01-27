@@ -1,0 +1,1 @@
+program h9M0 : p : takes IMf : boolean returns boolean array chillax end S : takes SJ, G : boolean array; I5 : integer array returns boolean array v5 : boolean; W, b : boolean array; chillax end main : i, t : integer array; R, v, o : integer; do d6T(q - 320 and false and 49, - T0 / not 17 and 2 /= (22400) or 4, - (93)); output "\n" end

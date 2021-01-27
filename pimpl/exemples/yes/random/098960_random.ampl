@@ -1,0 +1,1 @@
+program vf : main : while - true < - false * Bp and 14 : while - 3 - 235 < 83 : chillax end end; output not 0 - 3 . ""; input v[4 and 4 - 53 - 93]; while 44 > 365 : chillax end; while 1 : chillax end end

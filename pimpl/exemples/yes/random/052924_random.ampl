@@ -1,0 +1,1 @@
+program W : d : takes g : integer; m : integer array returns integer array v : integer; let G650[false and 7] = array - not 71 or 1 - 0; output 6930 = 08 end o : takes q, o, k_ : boolean array returns nothing J, B : integer array; chillax end main : t8, P : boolean array; chillax end

@@ -1,0 +1,1 @@
+program D : k : takes K, r_, T : boolean array; Lr : integer; W2i : integer; q57 : integer returns integer chillax end N3 : takes ov8, T4, Z, B, S, n, m : boolean; f7 : boolean array returns nothing chillax end main : pop g9(73) - true - 0 end

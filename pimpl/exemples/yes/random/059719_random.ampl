@@ -1,0 +1,1 @@
+program _U5 : i : takes aE20a : integer array returns nothing chillax end K96aa : takes cyB, _ : boolean array returns nothing g9, Nm5 : boolean array; Gm : boolean array; O : boolean; chillax end main : U6, pI2 : integer; r, U, DF70a, dKI0 : integer array; L, k, N1 : boolean array; kQf : boolean array; while(7) - (35) = 6380 : chillax end end

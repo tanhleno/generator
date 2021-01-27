@@ -1,0 +1,1 @@
+program c : K3Ha : takes K5, Q, I : integer array; p : boolean array; i : integer returns integer chillax end main : F : boolean; e, VB, V6, p6Ha, v, h : boolean array; l, M, rM40, M : boolean array; r35, XZ, i, eE : integer; Z1 : integer array; output "c-0"; output 85 and 3 . - 0 . 2960 = 1 . "[0\"a" end

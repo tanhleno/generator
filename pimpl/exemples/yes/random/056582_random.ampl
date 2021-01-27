@@ -1,0 +1,1 @@
+program bw : j : takes f : integer array; z6 : integer; m, m : boolean array returns integer v : integer array; U88 : boolean; input _0H; while - 8 - 8 : chillax end end main : n, gf50a, g, v2 : integer array; q : integer array; Z36 : boolean array; O, E, gC, CJ : boolean array; chillax end

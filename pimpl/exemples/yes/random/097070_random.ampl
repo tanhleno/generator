@@ -1,0 +1,1 @@
+program OJh : main : when case p7[278] rem false or 8 : chillax end case - false + false and 7 : let p6[8] = array 0; input s7 end otherwise : input wA[915] end; while Jn1 / w and 3 : pop 829 end end

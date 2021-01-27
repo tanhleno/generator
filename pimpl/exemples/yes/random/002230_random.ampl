@@ -1,0 +1,1 @@
+program W8p0 : j : takes U000, v, _, Z, b : boolean; F4, pI : integer returns nothing chillax end IE : takes s : integer; K : boolean; RB : boolean returns boolean array chillax end main : while(1) and 082 - Z - true and 34 = false : chillax end; when case - true + (40) : when case 99 = 1 : while 78 : chillax end end end end

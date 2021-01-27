@@ -1,0 +1,1 @@
+program vxw : h : takes z : integer array; SE8aa : integer; h, AE, D : integer array; A : integer array returns nothing while not 5 - 60 : let I[6310] = 1 end; pop; pop end r82 : takes rl, mh : boolean array returns nothing chillax end main : p960 : boolean array; chillax end

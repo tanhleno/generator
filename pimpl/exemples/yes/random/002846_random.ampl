@@ -1,0 +1,1 @@
+program Q3 : J95 : takes i2, Y5da, L6N, s, P : boolean array returns nothing Z5 : integer array; a3 : boolean; h5, l, D : integer; L : boolean; X : boolean; output "s"; while 82 - 54 /= 116 : chillax end end main : input W2[- false and(726) / not 9] end

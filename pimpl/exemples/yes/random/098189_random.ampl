@@ -1,0 +1,1 @@
+program tr : main : while - false / 552 * false or true <= - true : pop; while 0 = 83200 : output ""; pop end; pop 5490; input M3g; while 25 : chillax end; pop end; output 86 <= 107 . "2\\" . "A\n"; input Ff[- true + 638] end

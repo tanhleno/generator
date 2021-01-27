@@ -1,0 +1,1 @@
+program Q50 : D : takes H : integer; T73 : boolean returns nothing chillax end j : takes j : boolean returns boolean array w880 : boolean array; t, q, l : boolean array; let w = array - 3; output "\\)\"" . "3"; pop end M : takes B, niH0, I_, Q : integer returns nothing chillax end main : ve : integer array; yND0a, dX6, cE : integer; T90 : boolean; chillax end

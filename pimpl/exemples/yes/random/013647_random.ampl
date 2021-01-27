@@ -1,0 +1,1 @@
+program I : Y : takes L25, TF30, w9 : integer array; x, HM9, a3, nt5, u, W : integer returns nothing a : integer array; M : integer; P7 : integer; chillax end L8 : takes GL, cb, G5, rE : boolean array returns boolean let YC2 = 37 = 42 end main : gT80a, L : boolean; chillax end

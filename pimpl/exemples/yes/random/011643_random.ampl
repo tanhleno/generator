@@ -1,0 +1,1 @@
+program N : l : takes a0, Iv, On : boolean returns boolean array let m2[- 8 + 625] = 0770 <= 7; pop; output "" . "=" . "L?\""; input a01aa[82300] end main : h : integer; while 227 : let Q[0] = array 4 end; pop; while 1 + 33 - 75 : pop end end

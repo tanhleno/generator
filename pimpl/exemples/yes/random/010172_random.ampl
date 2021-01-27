@@ -1,0 +1,1 @@
+program E91a : V : takes Z6_0a, L030, J : boolean array; m : boolean array returns nothing let h[true] = array(4) and 12 - 369 - 8; pop end sB90 : takes Q : boolean array; v : boolean returns boolean chillax end main : s6 : boolean; chillax end

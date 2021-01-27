@@ -1,0 +1,1 @@
+program w53 : X : takes Jk, J : integer returns nothing do Q1(- false and 06400); when case - 68100 : chillax end; let ri00[95] = 6; when case 9 : chillax end otherwise : chillax end end main : u : boolean array; N3 : integer; k, T, R3 : boolean array; chillax end

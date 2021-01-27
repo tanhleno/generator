@@ -1,0 +1,1 @@
+program s : J : takes X, QQ, A3 : integer array; U, T8 : boolean; D6 : boolean array; V, EP : integer; E : integer array; s, Y, B0 : boolean array returns nothing _5, n, KNu, q : boolean; chillax end main : when case - true and false = true rem 2 and 54 : chillax end; pop; output 5 - 48 = 05800 . 6 = 6; while - 0 - 8 : output "4#!a" end end

@@ -1,0 +1,1 @@
+program Q14 : Q4 : takes Z, l, Y2A, Q, rb9 : integer; W : integer returns boolean array mN90a : boolean array; E : integer array; chillax end nj00a : takes i, u : boolean; x : boolean array returns boolean chillax end main : i : boolean array; P5 : integer; chillax end

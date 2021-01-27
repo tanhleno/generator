@@ -1,0 +1,1 @@
+program X : main : iN, sb40a, R, U6 : boolean; pop; while - not true and false or true : let j1 = array 0 end; output "\n\n" . 8 = 17 . 93 . "\\+0"; while - 2290 : while 5 : chillax end; input p1; pop end; let u[25100] = 0 end

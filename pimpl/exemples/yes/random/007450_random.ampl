@@ -1,0 +1,1 @@
+program T16 : k : takes WbNaa, L4e0, Q52, w : integer array returns boolean n6, C, f, Aw, p : boolean; D, M, f, Q29a : boolean; while - false and 8180 > 64 - 98 : chillax end; let W = 18 = 26100 end main : let Y97[true - true / false and 2] = true end

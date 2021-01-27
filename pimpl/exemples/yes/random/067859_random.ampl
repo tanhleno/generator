@@ -1,0 +1,1 @@
+program dN : main : do _58(true and(36500) * not 472 and 157 + true + true and 5 - 8 - 82 < false rem 3660 and 32600 + K, z8y0a(1) - (6) >= - false - 0, not 54 + 24 = 33200 - 7, - 0 - 92 > 97, 9 = 9) end

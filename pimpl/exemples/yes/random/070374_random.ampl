@@ -1,0 +1,1 @@
+program p6f0 : main : O5, t67aa, i, ZuH0 : integer array; do U(- not 2 * (30500) or(28) + 934 + 8060); input PD10[m[2]]; do pG2a(- D + 9 - 564 = - 12 - 6600); do q670a(13 - 76700, 5, 47, 6); output "@4" end

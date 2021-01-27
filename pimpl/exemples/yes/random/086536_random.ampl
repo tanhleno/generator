@@ -1,0 +1,1 @@
+program S2zaa : main : h30aa : integer array; z14 : boolean array; C5k : boolean; when case r5 + false / mV9 and 242 > - false and true or true : chillax end otherwise : output "" . "\"" end; let W3 = array false / true and 79900 end

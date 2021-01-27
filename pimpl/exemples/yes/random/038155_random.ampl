@@ -1,0 +1,1 @@
+program Cm : KY : takes a : boolean array; CB, s, v5F : boolean returns integer j : boolean array; do F(- not 1, 21200 < 416, 054, 0); pop 0 = 0050; input Q[40]; while 94 : chillax end end ny5a : takes q, Ox0, pN, L, Gt, m8 : boolean; n : integer; I, i : boolean returns nothing Q2, v, Ej, x : boolean; j, S, T : integer; chillax end main : chillax end

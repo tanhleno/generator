@@ -1,0 +1,1 @@
+program q4i : U : takes mi1 : boolean array; l : integer returns boolean array O, z : integer array; input S end main : let wQZ[true rem not(80) rem not 5 and 9380] = - 72 - not 1 and 8 + 8320; let o04 = array - not not 82 end

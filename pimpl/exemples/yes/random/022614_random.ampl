@@ -1,0 +1,1 @@
+program E80 : L500a : takes i, b : boolean array returns nothing V : integer array; when case true and 3 >= - 9 : chillax end case 2 - 58 : chillax end; do h(- 60 - 24 /= 7) end main : d, mT50a : integer array; ad, PY0aa : boolean; VOK0, u, Z, gW, f4 : integer array; chillax end

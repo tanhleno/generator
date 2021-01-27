@@ -1,0 +1,1 @@
+program GK8a : J : takes s : boolean array returns nothing pop - 8 <= 1; while - 2 <= 4 : chillax end; let l91aa[8] = 1710 end P290a : takes z : integer returns boolean array N : integer array; w, U, J : integer array; let y[- 965] = 8 = 83700 end i : takes X74, P, r : boolean returns nothing do R(7 = 4) end main : input K78 end

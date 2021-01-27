@@ -1,0 +1,1 @@
+program m : r : takes Q, V, a5 : integer; s : boolean returns nothing Q3, X : boolean; when case not 1 and 2 + 453 - 8 : do u8(6); output "_4" end end main : let e5w0[- false and not false] = array - not not true or u(7) + (7) and 7; when case - (01) / h and 3 : let u[2] = 1030 end end

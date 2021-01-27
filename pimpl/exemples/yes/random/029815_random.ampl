@@ -1,0 +1,1 @@
+program T : x : takes s, ne : integer array returns integer array f : boolean array; chillax end main : while - not(8410) : let m = array - 8 - 5 end; when case - (8460) * false and 2 < not 4 : chillax end otherwise : while 5 : pop end; when case 59 : chillax end end end

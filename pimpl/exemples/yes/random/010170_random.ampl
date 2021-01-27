@@ -1,0 +1,1 @@
+program A1 : Kh : takes t, y0, K5X : boolean array; S : boolean array returns nothing input smZ end main : e : boolean array; ca6aa, M16aa : boolean; output ""; let ac[6860 + (9) and 2 + 4 - 9] = not 3 and 6 or 5 - 7 end

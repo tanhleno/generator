@@ -1,0 +1,1 @@
+program r : main : while - (3) >= - CSJaa[3] and not 6 + p : chillax end; pop - false and 4 - 5; pop 4 > 8; when case - 62 = 93 : do H(62); while 8 : chillax end end; input N[87]; let Glnaa = array 2; pop; output "\t"; pop end

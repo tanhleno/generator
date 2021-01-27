@@ -1,0 +1,1 @@
+program E5 : b : takes G, v, by : boolean array; qh : boolean array; W96a, kv : integer; J : integer returns integer array e : integer array; input _[not 92 + 30 - 77] end main : let b[true rem J[517] / 5 and 48] = array - true rem 13 * 04400 end

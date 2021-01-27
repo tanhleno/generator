@@ -1,0 +1,1 @@
+program M3 : T : takes m, L : boolean returns nothing input u6K0a; do A(- 878 - 9, 229, 6) end s : takes t, A : integer returns nothing do V(4, 5 = 5); pop; output "\nH0"; input mZC end I : takes n, tg : boolean returns boolean array chillax end main : let e0[j9A(5510, 6) + not(060)] = array(25) - (92) / 4 end

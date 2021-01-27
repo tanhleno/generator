@@ -1,0 +1,1 @@
+program XU : _ : takes jL, rV, X, I, f : integer array; jZ, nR, E8, Y : integer array; P5S : boolean; L : boolean array; B8 : integer returns boolean array A8, K, V, Ev : integer; when case - true and 2 + 2 - 2420 >= - 4 - 83 : chillax end case 4 - 86 : chillax end case 51 = 17 : chillax end otherwise : input e end end main : chillax end

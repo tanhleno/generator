@@ -1,0 +1,1 @@
+program M : aq9aa : takes K9 : boolean array; Ai : boolean array; U, Y : boolean array; n : integer returns integer array while not 262 + 89 >= 8 : when case 5 : pop end otherwise : chillax end; let fgN0 = 0 end end main : chillax end

@@ -1,0 +1,1 @@
+program j : D8 : takes o : integer; X, Q99 : boolean array returns integer when case - o15 >= - 1 - 29 : output 7 . "{" end otherwise : chillax end; while - 578 : chillax end end main : d : integer array; chillax end

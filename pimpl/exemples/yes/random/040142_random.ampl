@@ -1,0 +1,1 @@
+program AT : q : takes w : boolean array; Us00 : boolean array returns nothing tq, I, at, t8, KP : boolean; chillax end main : rd, ZV4aa, g81, Xl : integer array; dW : boolean; when case Xl rem true / (43) < - not true * 341 and 4 : let RS[- 66 - 8] = array 5 - 6 end case - (3) : chillax end otherwise : do i(1 = 43) end; input Pq3[- false + Z and 6510] end

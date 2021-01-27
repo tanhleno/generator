@@ -1,0 +1,1 @@
+program FPs0a : U_ : takes J, Hx : boolean array; Mp : boolean returns integer output ""; output 0 . "" . "\\C" . "\n"; when case 23 = 35 : chillax end case 529 : pop end otherwise : pop end; when case 5 : chillax end otherwise : chillax end; while 280 : chillax end; let r = 68; pop end main : while true * true rem true and 09 : chillax end end

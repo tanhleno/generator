@@ -1,0 +1,1 @@
+program mc : main : input wfUa[- R2[659]]; when case 8 * true and 9 or true and 9 : chillax end case - true and 5 or 2 - 546 /= 29 - 16 : chillax end case - 0 - 803 /= 9 : output "\n"; when case 98 : chillax end; pop end end

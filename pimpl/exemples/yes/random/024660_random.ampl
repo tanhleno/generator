@@ -1,0 +1,1 @@
+program k : H7 : takes pt, Pv6a : boolean returns nothing l : integer array; while - true + 61 /= 8 - 2 : input j[8]; output ""; pop end; pop 9 end D0 : takes n9, We : integer; W : integer returns nothing while 80300 - 35 : when case 9 : chillax end; when case 83 : chillax end; pop end end main : input g; output - Z and 28 + 1 = - 0 . "@" . 213 = 328 end

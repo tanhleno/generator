@@ -1,0 +1,1 @@
+program KA : i9 : takes I9, l : integer returns integer array chillax end hkeaa : takes Lt7aa : integer array returns nothing when case - 7 /= 74500 : let U = 34600 end otherwise : chillax end; let o = array 492; pop; let r0 = 4; output ""; pop end main : chillax end

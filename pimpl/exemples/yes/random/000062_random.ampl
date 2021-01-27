@@ -1,0 +1,1 @@
+program C : Rb : takes t, _9haa, r, n2F, k, R0waa, U02, g2 : boolean; m : integer array; b780a : boolean returns nothing xa9aa : integer array; chillax end main : tKoa, u, ys, RS : integer array; H, q, vei0 : integer; T, eV3aa, IZC : boolean array; input RXea[not 49 / (4) - false - 945 + 1] end

@@ -1,0 +1,1 @@
+program ufr : main : while - false : do iZE0a(- 3 - 3); pop 2 end; let L7[(68800) * E and 2] = array - 7 or false and 23; when case(4) and 90 /= - 315 : chillax end; pop 6; while 82 : do g(95) end; pop 8480 end

@@ -1,0 +1,1 @@
+program X : h : takes S1v : integer returns nothing chillax end main : M, h, g : boolean array; let V[ni5[24]] = false and u9; do t0(- 9 * false and 1 < - true and 1670 - 90, (29) > 40 - 2420); when case(3) and 8 = 3 - 7 : chillax end case - 47 - 1 <= 863 : pop; let H = 7; pop end otherwise : when case 8 : chillax end; when case 58 : chillax end; pop end; input V[63 - 9] end

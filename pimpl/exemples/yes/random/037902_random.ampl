@@ -1,0 +1,1 @@
+program u0 : a5p0 : takes Z : boolean array; g, f, sQ20, J8A : integer array returns integer q, J, I, tGhaa : integer; d, n, G, N8 : boolean array; chillax end main : X2H, Q7Paa, dk : boolean array; sg : boolean array; chillax end

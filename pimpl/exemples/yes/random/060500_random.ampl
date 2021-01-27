@@ -1,0 +1,1 @@
+program m : N340 : takes M : integer array returns nothing R, t : boolean; output "\"q"; when case 2 >= 2 : chillax end; when case 9 : chillax end case 53 : pop end otherwise : pop end; output ""; when case 7 : chillax end; let ta = 81100 end main : QR60 : boolean; chillax end

@@ -1,0 +1,1 @@
+program B : Z8 : takes c8, D9 : boolean; H : boolean array returns boolean chillax end EUP0a : takes U, G : integer; s : integer; C, SYY0a, C9 : integer; kB1aa, k, wt, f41 : integer returns nothing output "3," end hIG : takes CBRa, v4N, Q, OY : integer returns nothing do e(99 = 59) end main : p2 : boolean array; chillax end

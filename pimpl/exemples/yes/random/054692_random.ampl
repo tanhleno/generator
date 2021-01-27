@@ -1,0 +1,1 @@
+program N2 : mhV0a : takes d : integer array; v, uim : boolean array returns integer while - not 2 and 14 = - 86 - 5 : chillax end; pop; when case 22 : let AIj = 8 end end main : Jz, d : integer; o0, yV, w7h : boolean array; output ".za" . "y" . "\n"; pop; input x3[- not 821 + 68100]; let p3[- 9] = 6 = 939; when case 0 : let C = 08 end otherwise : chillax end end

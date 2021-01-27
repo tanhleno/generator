@@ -1,0 +1,1 @@
+program H : K : takes B : boolean array returns nothing v : integer; M : boolean; chillax end main : fw6a : integer array; while - true rem true / (15) = (4) or(276) - 2 : chillax end; input Pa00a[- true - d840 + 31 - 30] end

@@ -1,0 +1,1 @@
+program t : main : while - false or(53) > - not Wg + true : chillax end; let U81 = array false + (49) and 1260 or 8; pop - 2890 < 9; when case - 6 - 85 : when case 9 : chillax end end case 1 : chillax end case 9 : chillax end otherwise : chillax end end

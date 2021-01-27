@@ -1,0 +1,1 @@
+program Jqk : t : takes H3, Mr, A5 : boolean array; c, d : boolean array returns nothing pop; when case 17 /= 1 : input C4; output "~3" end case 5 : when case 0 : chillax end; pop end otherwise : chillax end end lvSaa : takes na, r3ca : integer array; K, U : boolean; Cv : integer array; T83 : boolean returns nothing chillax end main : chillax end

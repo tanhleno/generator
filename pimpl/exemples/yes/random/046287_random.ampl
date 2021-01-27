@@ -1,0 +1,1 @@
+program s : T96a : takes Wl : boolean returns boolean TW : integer array; G, x3 : integer array; while - h and 26200 < - 23 : chillax end end main : v : boolean array; R, S, k6 : boolean array; b7, O5, Hn, BSb : integer array; let n = (4) + true and 21200 - 61 - 8 >= lS and 8 + 1400 - 75; pop 2 and 1 < 162 end

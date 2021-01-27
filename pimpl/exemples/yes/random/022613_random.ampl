@@ -1,0 +1,1 @@
+program hY7aa : V0 : takes jW00, R : boolean array returns nothing FB : integer array; when case true - 6040 - 3 >= 0 : do C6faa(56) end case 7 - 91 : chillax end end main : w : boolean; pop; let Q = array - false and true and 6 end

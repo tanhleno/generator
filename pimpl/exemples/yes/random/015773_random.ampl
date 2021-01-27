@@ -1,0 +1,1 @@
+program m : id6a : takes qE, s, ng7 : integer returns boolean chillax end HYy : takes pg : boolean array returns nothing s, d, V0m0 : integer array; do _s(6 - 37, 8) end main : Z3b0a, Xiy0a, K5n : integer; h, M : boolean array; chillax end

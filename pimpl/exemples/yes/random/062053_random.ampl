@@ -1,0 +1,1 @@
+program Rq : dK7 : takes M : integer returns boolean array input Soj0a; when case 64 : chillax end case 0 : pop; pop end case 39600 : chillax end case 2 : chillax end otherwise : chillax end end main : a : boolean; chillax end

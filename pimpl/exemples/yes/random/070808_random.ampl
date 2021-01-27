@@ -1,0 +1,1 @@
+program D72aa : main : n, Qbz, y440 : boolean; c, f420a, W6 : boolean array; let d = array true; when case - (670) rem 7 or uU <= - false and 2 : do X6(7050, 6630, 1) end case false and 501 + 7 - 0 : chillax end end

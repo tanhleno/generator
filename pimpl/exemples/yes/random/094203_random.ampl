@@ -1,0 +1,1 @@
+program w : main : pop - 93800 or true and 7420 - 0 - 16200 >= (2); input K[(91) or not 31]; do U(- true and 85700 + 9 > 3); while - 7 - 25 /= 69 : while 3910 : chillax end end; do p(2 = 5, 8, 1) end

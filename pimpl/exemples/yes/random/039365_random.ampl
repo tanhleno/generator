@@ -1,0 +1,1 @@
+program wt : fs : takes k : boolean array; p, VA : integer returns boolean array G : integer; s67aa : integer array; when case - true : when case 1 : pop end case 8 : chillax end; pop end case - 16 > 304 : chillax end end main : u, N, t : boolean array; input _ end

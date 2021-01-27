@@ -1,0 +1,1 @@
+program Q : A2Fa : takes R, s, oA9aa, PrO : boolean returns nothing G : integer; gv, g, cv : integer; while - 21 - 74 - 84200 : pop 3; do r(78) end end main : L2, f2 : integer; DT3aa, j : integer array; chillax end

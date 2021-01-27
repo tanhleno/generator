@@ -1,0 +1,1 @@
+program Hm : O8F0a : takes iYA : integer; e, k320a, Y, X2 : integer array; O1, V, e, dd2a : integer array returns boolean array Q1Baa : integer; Y, B5Xaa : boolean; Q, G2 : boolean array; input C[- true and 6] end V : takes D, w : integer array; I : integer array returns nothing let MP = array - 9 end main : chillax end

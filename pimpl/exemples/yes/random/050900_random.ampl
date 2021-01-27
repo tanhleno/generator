@@ -1,0 +1,1 @@
+program K8 : dYE : takes y : integer; D23a, g : integer; i : integer; t53 : integer array; d460, D : integer array; D : integer array returns boolean a6z0a : integer; let g = array true end ji3 : takes e : boolean array returns integer chillax end main : l : boolean; output - (7) + true and 82100 >= false . not 6 = 203 - 700; while - W9[59300] : let b8[262] = array 7 end end

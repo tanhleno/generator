@@ -1,0 +1,1 @@
+program f17aa : O2 : takes Nz : boolean returns boolean array X : integer array; output "\n^!a" . "\\"; when case - 2 < 5 : pop; let K8 = 70700 end case 7 = 3 : chillax end case 296 : pop end case 63 : chillax end otherwise : chillax end end main : do H1(- f8(5) rem 73 / 3 and 21, - (463) = x) end

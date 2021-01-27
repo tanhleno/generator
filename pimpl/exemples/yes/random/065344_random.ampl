@@ -1,0 +1,1 @@
+program v : K : takes Mp : integer returns nothing output "\t" . "\"" . "\t:0"; pop; output "" . "Q\n0" end C14a : takes j : boolean array; N, eK_, O, LS, s, S : integer returns boolean s : integer array; output 9 = 1 . "" end main : chillax end

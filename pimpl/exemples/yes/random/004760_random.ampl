@@ -1,0 +1,1 @@
+program sQoaa : uA6aa : takes N, w, k1, R : boolean array; z, u, I, W : boolean returns integer array A85aa, h, m0 : integer array; do a(- f7D0 and 22500 or 92600 - 9) end main : r, x : boolean; while - true - not not 32 rem false : input u[- 93 - 27]; pop 1; let o7[61] = array 14; pop; pop; pop end end

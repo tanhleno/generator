@@ -1,0 +1,1 @@
+program No : R : takes q : boolean; p, y7, qC00 : boolean returns nothing Gs : boolean array; chillax end D : takes U, sm0 : boolean array; ZCdaa : boolean returns nothing chillax end main : let B7 = array - g(5, 6); when case false /= - (99800) and 6 : input f1[6440] end otherwise : let B[01700] = array 23 end; input a[- I3 + 208 - 92]; output "" . "\"\\!a" . "" end

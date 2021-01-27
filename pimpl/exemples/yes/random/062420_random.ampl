@@ -1,0 +1,1 @@
+program y : i : takes q6 : integer returns boolean R, _7e : integer; n710a, h, _ : integer array; K : integer array; C, Z23 : boolean; t : boolean; C7 : boolean; while - Jc1a and 78600 >= - 15 : when case 79 : chillax end otherwise : chillax end end; let JO[- 6] = array 88 - 5 end main : pop - true - false - 2 - 6 end

@@ -1,0 +1,1 @@
+program Y8 : FW : takes _ : boolean returns nothing chillax end main : while - 54 /= true rem(2) and 42 : let i[- 86500 - 758] = array - 8 end; while true and false + true - 9 - 9 = (5) : chillax end; output "0l0" end

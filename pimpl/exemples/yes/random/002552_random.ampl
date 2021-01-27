@@ -1,0 +1,1 @@
+program R : _ : takes H1, p, j, Y77, e : boolean array; R : boolean array returns nothing T : boolean; Z : integer array; let _7Ua = - 9; while - 8 = 2 : input h8; while 4 : chillax end end end p : takes R : boolean array; z0 : boolean returns nothing chillax end main : chillax end

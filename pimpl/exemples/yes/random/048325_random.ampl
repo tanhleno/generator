@@ -1,0 +1,1 @@
+program _HM : sQo : takes G : boolean returns nothing q : boolean; chillax end pM0 : takes zvv, j7e : integer returns integer output 72 end main : Q : boolean; while - w4w[29900] rem l1 + not true /= - false / false or false and 283 or 56 : when case - 28600 - 3 <= 08 : chillax end otherwise : chillax end; do K(7 = 9) end; output not 61 and 41 + 124 - 25 >= - 77 end

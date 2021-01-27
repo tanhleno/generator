@@ -1,0 +1,1 @@
+program L : c : takes h : boolean; s, wJ : boolean array; v, u47, s0 : integer array returns boolean array while not 8 and 4 or 7 - 1 > 7 : chillax end end u : takes Bd2a : boolean array; a : boolean returns nothing chillax end main : cy : boolean array; F5 : boolean array; K5eaa, S, v, a3u, x : integer array; f, vU : boolean array; j : boolean; I, HG4aa : boolean; input w8 end

@@ -1,0 +1,1 @@
+program i : H : takes b26 : boolean array returns nothing chillax end main : when case S(46, 3) / true or 2 * 0 - true and 2 or 591 - 4 <= - _ : pop 03 = 32 end otherwise : do q9(3, 180, 118); while 39 : chillax end; pop end end

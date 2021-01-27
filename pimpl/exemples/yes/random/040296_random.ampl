@@ -1,0 +1,1 @@
+program Y69 : _ : takes v : boolean array; ffK : boolean returns integer array chillax end J : takes Eb00a : boolean array returns nothing v, EN : integer array; let XR = array 804 - 72 end main : chillax end

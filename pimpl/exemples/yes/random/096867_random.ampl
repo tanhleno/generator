@@ -1,0 +1,1 @@
+program r : main : when case false or not 6 * false and 79 - false /= - 9 / (990) and 1 : pop end; while - (56100) or(57) and 1 or 7730 : when case 20 : chillax end end; when case - 8 and 854 + 030 : chillax end case - 1 >= 2 : chillax end case 7330 = 7 : chillax end end

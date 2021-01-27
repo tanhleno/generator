@@ -1,0 +1,1 @@
+program Q : e7 : takes u, w0, y, o, X, s : integer; i : integer array returns nothing chillax end V8 : takes x, J, f8 : boolean; B, w : integer; S6, y, ccw0, J : integer returns nothing chillax end main : G64, y, o8s, w : integer; do e7(- 02 = - (838), - not(0)); input J end

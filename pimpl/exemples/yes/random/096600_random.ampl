@@ -1,0 +1,1 @@
+program i : main : when case - true / 18 rem 8 + not q6 - 2 - 7 > - true rem J : chillax end case - 748 rem true and 0850 - true and 727 or 18 >= - not 7 - 860 : let zy = array 203 end otherwise : chillax end; while - 4 and not 6 and 8 : chillax end end

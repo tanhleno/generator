@@ -1,0 +1,1 @@
+program cB9 : cn : takes w7caa, _, a, z1 : boolean array returns nothing XZn : boolean array; chillax end V : takes t, Y9 : integer; e, v7 : integer array; _320a, a, N, K : integer returns nothing chillax end WaS : takes e, _, g, p, s : integer array returns nothing chillax end main : P3, F7, W5W, z, d : integer array; let iD = not(14) + true or 1 - 7 < - (198) and 7 end

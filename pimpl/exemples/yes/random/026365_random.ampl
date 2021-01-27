@@ -1,0 +1,1 @@
+program Lc0 : v : takes u, hp : integer; c : boolean returns boolean chillax end b : takes h, l, Gs40 : integer array returns nothing output 7 = 7 end main : F0 : integer array; while not false < 18 and od and 119 : while - 7 <= 3 : chillax end; while 55 : input Rmp0a; pop end; let v[2420] = array 5; input gd end; let E0h[not not 8 + (0) and 5390] = - Q and 874 end

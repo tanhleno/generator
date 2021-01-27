@@ -1,0 +1,1 @@
+program DD : eaUaa : takes E : boolean array; M : integer returns nothing output - 87 - 4; input g end main : q : integer array; p, T3N0a : boolean array; when case(991) : chillax end otherwise : pop end end

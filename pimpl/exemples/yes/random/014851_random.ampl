@@ -1,0 +1,1 @@
+program l : F04 : takes e1Z, cpMaa, L6 : integer array returns boolean um : integer; chillax end main : while - 2 - true - (3) or 983 /= - 1 - 48800 and 6 - 94 : while 48 >= 10400 : chillax end; while 39500 : input ak; pop end end; do F(not false /= - true and 8); input B[- 6 and 3 - 09600 - 73] end

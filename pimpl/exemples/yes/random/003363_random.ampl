@@ -1,0 +1,1 @@
+program T : z9 : takes ls, vK0aa, V, awd0a, d : integer; u : integer returns integer array R : integer; m, WI, c1O0a : boolean; d : boolean; when case false and 8 + 97 - 3 : chillax end case - 042 : chillax end end main : qDk, E : boolean array; let K = array - 6750 rem qM0 end

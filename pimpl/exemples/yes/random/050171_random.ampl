@@ -1,0 +1,1 @@
+program f : Dv7a : takes zL : integer; il40, L, l : integer array returns nothing chillax end H : takes R, WOY : boolean array; h, Tr6 : boolean array returns boolean chillax end main : input B; output false <= - 5 . "|(\""; when case - 07 and 3 or 1 : chillax end case 92 : input q; let ZW = 138; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program L610a : BNPa : takes eK : integer; z, S, st : integer returns integer array chillax end Mc6 : takes xo3 : boolean array; j : boolean; G, Uz4a : boolean returns integer array pop 6 end D6 : takes v, _ : integer array; GR : boolean returns nothing d : boolean array; chillax end main : qrj, C, p20aa : boolean; chillax end

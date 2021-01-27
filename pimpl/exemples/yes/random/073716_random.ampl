@@ -1,0 +1,1 @@
+program iK : main : efqaa, n : boolean; s, G : integer array; when case(9) = true + not 128 + 1 : while 6 - 967 : chillax end; output "5\n"; input s95a; pop; input T end case true rem(5) : chillax end case t or 6 - 1 >= - 5 : chillax end end

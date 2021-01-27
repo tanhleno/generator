@@ -1,0 +1,1 @@
+program L : GY50 : takes z, MG3 : integer returns boolean input GQ[(7220) and 9 or 9 - 25400]; do yh(- 5, 9 = 11, 1, 3) end main : output "" . "" . "N"; when case - true rem 51 and 0 >= false + 551 - 5 : chillax end case - true - 6 : while 8 : chillax end; let NMI = 6 end case 10 : when case 8 : chillax end end otherwise : chillax end; let Fx[true - 1] = array X or 37 - 28700 end

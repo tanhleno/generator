@@ -1,0 +1,1 @@
+program Q : DP : takes z : boolean array returns nothing i7 : integer array; eyE, m27, i : integer array; chillax end Yo : takes g2, r : boolean returns boolean array chillax end X : takes L : boolean array; Y, l : integer array; aw : integer; t, Z, E : boolean returns integer do f20(7) end main : Q, e : integer array; pop z(88) rem true and 17 >= false and 40 or 8430 - 6 end

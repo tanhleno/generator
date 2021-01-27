@@ -1,0 +1,1 @@
+program IU : main : when case - (4 = 3) = - 6 / K - true : chillax end case(22) rem(2320) and 263 or false and 89 <= - true + 3 : chillax end otherwise : chillax end; pop - I and 881 < 6380; when case - 569 and 65 - 70 - 16 <= - 08 - 5 : chillax end otherwise : chillax end end

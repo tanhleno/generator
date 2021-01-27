@@ -1,0 +1,1 @@
+program i : main : lC : integer array; l5O : boolean; C6 : boolean array; pop; when case false * true and 44 + (4) and 1 : when case 947 : chillax end case 6 : pop end case 9 : chillax end otherwise : pop end; pop 7 end case A - 5 - 6 >= 4910 : chillax end otherwise : pop; while 12 : chillax end end end

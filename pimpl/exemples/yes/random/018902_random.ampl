@@ -1,0 +1,1 @@
+program I2 : m : takes As9, v : boolean array; o5, O, R9 : boolean array; y8z : boolean array returns boolean chillax end q : takes Why, O : boolean array; FJ9a : integer; tB0, a2, f, b : boolean returns integer a7 : boolean; p45, ep5aa, Pkm0a : boolean array; vY, I13 : boolean; output 8290 = 3 end main : i, S : boolean array; input jI[- 746 rem X[6] * true] end

@@ -1,0 +1,1 @@
+program C0S0a : hh8aa : takes S, n : integer returns nothing s, K, W, IR : integer array; Wz : integer; input V[true and 5]; let K = 9; while 8550 = 6 : chillax end end b : takes S8, x1, g3u0a, _2 : integer array returns nothing l : integer; when case - 573 : do L(09) end case 8 = 0 : do R(6) end end main : chillax end

@@ -1,0 +1,1 @@
+program _E : Q : takes I6H0, F : integer returns boolean when case - (205) and 64500 + 99000 : chillax end otherwise : do e(5); while 1720 : chillax end end; when case 7 - 6 : while 881 : chillax end; when case 21 : chillax end end otherwise : chillax end end main : H : boolean array; chillax end

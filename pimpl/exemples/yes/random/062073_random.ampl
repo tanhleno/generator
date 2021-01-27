@@ -1,0 +1,1 @@
+program O : T3 : takes t8 : integer returns boolean array let M = array - (2) and 77300 - 80700 - 7930; when case - 7 : when case 4 : chillax end; output "" end case 1 = 051 : chillax end case 57900 : pop end otherwise : chillax end; let e5[64100] = 0; output "6" end main : chillax end

@@ -1,0 +1,1 @@
+program EI : main : when case - (07 = 09) : output "#\t\""; do t950a(08 = 3) end case - X4[985] : chillax end case - true and 6 - 70 - 0 : while 70 : pop end end; do G(- (66) and true <= x or 3, (4) or 89 - 954 < 4 - 713, 118 - 67); let p = - 33; while - 8 - 39600 /= 5 : output "" end end

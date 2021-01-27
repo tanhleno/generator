@@ -1,0 +1,1 @@
+program X : main : output - true rem Qy3aa and 3 or true and 8 /= - 2 and 95 - 97 - 1 . "" . "\n6" . 1380 = 96; while true and true or not 8 >= - y3W and 1 : output 79; when case 04 : pop end case 82 : chillax end otherwise : chillax end end end

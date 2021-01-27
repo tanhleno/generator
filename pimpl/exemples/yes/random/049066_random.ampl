@@ -1,0 +1,1 @@
+program rD : Z : takes GE : boolean returns nothing pop end main : V : integer; o5, U : integer array; while - 8 <= - false / (8) and 1 - C7 and 178 - 5 : let Y820a[- 146] = 27; while 1 : chillax end end; output "" end

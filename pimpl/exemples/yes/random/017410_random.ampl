@@ -1,0 +1,1 @@
+program oD : CW : takes _, my : boolean; D0, oP : integer; wf : boolean returns integer while - F < 9 - 5 : let P = array 57; let H = 61 end end main : input iY[false / not(1320) rem false and 09] end

@@ -1,0 +1,1 @@
+program nO00a : main : OXka : boolean; do sc6(H + 651 and(5) + true and 77, - pj[871], - (092) and 216 - 8 - 7 /= 5, 801 - 015); while 1 * 30 and 0 < - not 19 and 8 - 9 - 6 : output "" . "$" . ""; output 64900 . "2"; while 61 : chillax end; when case 6 : chillax end; pop end end

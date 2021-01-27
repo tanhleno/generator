@@ -1,0 +1,1 @@
+program T : l : takes I5 : integer array; h, K2l : boolean array; B, G, Ivp, cx10, u4Y0a : integer array; l7U0, X : integer array returns nothing w3, a : boolean array; j : integer array; while false /= 450 : chillax end end mA : takes u55aa, g, h, R, F, e07aa : integer returns integer chillax end main : pop end

@@ -1,0 +1,1 @@
+program f : O5S : takes e7, qQ8, O07a, kc : boolean array returns nothing pop end r : takes l3 : boolean; d : integer array; hL5 : boolean returns nothing D31 : integer; c, j6 : boolean array; t : boolean; J : boolean; output 8 . 8080; input GY3; when case 5360 : pop end case 25 : chillax end otherwise : chillax end end main : chillax end

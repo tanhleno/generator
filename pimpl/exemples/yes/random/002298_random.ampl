@@ -1,0 +1,1 @@
+program St : s : takes z, e190, C, P, s1ga : boolean; K : boolean returns nothing chillax end main : when case - false rem(0940) * a : chillax end case B[3920] or 9 and 9 = - true or 26300 - 76 : chillax end; let Y = array - W(89); when case - false and 12 : chillax end; while 8 - 24 : chillax end; input H5; pop 4; input R end

@@ -1,0 +1,1 @@
+program Pb : H : takes Y3Daa, n, N1, U, F, Fs9 : boolean; ZTW : integer; M, P53aa, zg, A, L : integer array returns nothing IV : integer array; e54, o0eaa : boolean array; pop 3; while - 45 - 22 > 2 : do mz(5) end end main : u, n700, i : integer; chillax end

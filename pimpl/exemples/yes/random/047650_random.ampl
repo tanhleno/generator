@@ -1,0 +1,1 @@
+program X : V : takes v3 : boolean returns nothing chillax end main : gT, G8, f : boolean array; do Bj40a(- 9 + not 1 * true /= - V[4], - 7 / not 04100 < - true and 31 + 9970); when case false and(80500) and 6 = false or 03 : input Lw[1] end otherwise : output "" . "A5" end end

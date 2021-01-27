@@ -1,0 +1,1 @@
+program e4 : g : takes TI : boolean returns nothing let s = 87 - 0; pop; when case 92700 : pop; pop end end A1 : takes aO, Sc3aa : boolean returns nothing input X[- 8] end main : when case true : chillax end otherwise : chillax end end

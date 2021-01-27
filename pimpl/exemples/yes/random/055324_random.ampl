@@ -1,0 +1,1 @@
+program B3 : a : takes A4V : integer array; p, T : integer returns boolean b : boolean; U2, N, d : boolean; C4, D, W : integer array; output "" . 270 end v0B : takes E : integer; Y : boolean array; fu, m4, v, j : integer array; X : boolean returns boolean let O8 = 9 end main : F : integer array; chillax end

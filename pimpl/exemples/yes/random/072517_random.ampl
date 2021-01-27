@@ -1,0 +1,1 @@
+program l : main : s, C780, y3 : integer; when case - false and x[4] + 1 / MJ > - V3[9] and true and 4 : chillax end case YD[266] * A + false - 6 /= false and 9 : when case 4900 : while 7 : chillax end end end case not 9 and 540 : chillax end otherwise : chillax end end

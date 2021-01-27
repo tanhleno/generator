@@ -1,0 +1,1 @@
+program Nww : lz : takes w7 : boolean; h : boolean; i8, t : boolean array returns nothing chillax end ms6 : takes vZ5a : boolean returns boolean ua2 : integer; chillax end GK : takes n, a, a3, RFd : integer array returns boolean chillax end main : R : integer; pop(49700) * a and 048 <= - false and 2 or 5 end

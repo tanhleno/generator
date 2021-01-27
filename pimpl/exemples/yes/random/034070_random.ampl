@@ -1,0 +1,1 @@
+program o : k260a : takes qp : boolean; V8, g, oA : integer array; iL40, c : integer returns boolean chillax end i1 : takes kx, V33aa, J : integer array returns nothing while - 0 - 10 > 2 : pop end end main : X87 : boolean; chillax end

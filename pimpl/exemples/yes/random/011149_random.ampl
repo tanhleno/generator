@@ -1,0 +1,1 @@
+program UHDa : X : takes S, TX3aa, x : boolean array returns nothing s8, b7, G, Ho, s6 : boolean array; f : integer; chillax end main : R2, M : integer; H8, rQm0, j : integer array; let s3[true * (36) * j7] = array - z rem(72); when case - 48 < - GN4 and 9 or 8 - 76 : let q = 5; input G5p0[320]; let b0o = 0 end end

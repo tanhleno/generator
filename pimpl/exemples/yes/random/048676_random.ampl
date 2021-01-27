@@ -1,0 +1,1 @@
+program N : R65 : takes FP : boolean returns nothing Z : integer; let g[41700 + 2] = array not 10 and 2350 or 50; when case - 39 >= 7 : let j = 7; while 27700 : chillax end; pop end end main : chillax end

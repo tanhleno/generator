@@ -1,0 +1,1 @@
+program d9i : i : takes Sl : boolean array returns nothing let I = - 7 - 5; do D6A(5400 - 19 <= 0, 9) end main : Y, b190 : boolean array; D98, R5 : boolean; input bI; let T2 = array not(7) rem true and 5 end

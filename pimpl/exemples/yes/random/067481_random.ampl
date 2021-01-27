@@ -1,0 +1,1 @@
+program Y62 : main : do u2(not 932 - not true * M - not 53300, 48 * false and 6 = - (39) and 10 + 4 - 5560, not 849 and 2 or 68 - 31900, - 873, 2 = 2, 8, 4); pop; while not 2 - 7 : chillax end; do nU0(39 /= 28, 3 = 0, 11); output 4 end

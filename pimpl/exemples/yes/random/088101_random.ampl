@@ -1,0 +1,1 @@
+program cv : main : input Y; pop not 8 - 83 - 33 <= 48 - 7550; output 02 - 2 /= 826 . "F"; when case 11 - 0 : let U7 = 7; while 4 : chillax end end case 2 = 3 : chillax end otherwise : chillax end end

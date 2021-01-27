@@ -1,0 +1,1 @@
+program Ba9a : Z : takes h4i, AR, s : integer array; O, E : integer array returns nothing Kr, z : integer; s, U : integer; pop end Jhf : takes R57 : boolean array; NM3, Z : boolean array returns nothing Q, UC, t : integer array; K2 : boolean; E, gy5 : boolean; chillax end main : input h[- o + false] end

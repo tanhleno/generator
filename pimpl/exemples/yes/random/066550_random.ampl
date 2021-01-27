@@ -1,0 +1,1 @@
+program k : main : do om(- not true - 71 rem fm5a and 2 - false - 2 - 4); while not s0 rem not 1 : output "/7\"a"; do Zq(60); pop; input L end; when case - true and 932 : chillax end; do X(- 92); output ""; output 2 . "KC"; while 89 : chillax end; pop end

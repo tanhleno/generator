@@ -1,0 +1,1 @@
+program p : z : takes r3t0, j : integer array returns nothing chillax end sE : takes ZZP0 : integer array returns nothing ZP10 : boolean array; m : integer array; sJsa : boolean; chillax end main : j, T, e : integer array; pop; output - 06 and 35 + 8 . "" end

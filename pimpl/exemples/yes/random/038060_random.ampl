@@ -1,0 +1,1 @@
+program C49a : b : takes d1 : boolean array; E, F, s : boolean array; S : integer; _7Z : integer array returns boolean array when case 532 and 1 : chillax end end z : takes x : integer array; u490a, h, rI, L : integer array returns boolean array chillax end c5 : takes y2, t22aa, I, Z : boolean returns nothing N, i, ix : integer array; chillax end main : chillax end

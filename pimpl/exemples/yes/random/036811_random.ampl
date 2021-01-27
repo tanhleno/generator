@@ -1,0 +1,1 @@
+program D : t : takes P : boolean; L : integer array; JY : boolean returns boolean output - 15800 - 9 . 6830 . "\\9" . "\t3\"" . ""; pop 34 = 5 end C1 : takes u8, Z3h, bL, F, U250a, L : integer; Kea : boolean returns nothing let R = 9 end main : while - true * true + (7400) > true : let q[- 88 - 74] = array 87 - 0 end; output "(2!" . "P\n" . 841 = 8790 end

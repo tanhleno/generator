@@ -1,0 +1,1 @@
+program mf : FT0 : takes r : boolean array returns integer array A, F : boolean; while B95a + 313 : chillax end; output "!/0a" end mb : takes V44, t, h, G67, s : boolean; f, i, A5d : integer; p, M2, UO, g : boolean returns boolean do LL(7 - 72, 5 = 6990, 4); while 315 = 2 : chillax end; input P[88]; pop; when case 90 : chillax end end main : chillax end

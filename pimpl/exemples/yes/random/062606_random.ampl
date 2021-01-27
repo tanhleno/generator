@@ -1,0 +1,1 @@
+program f : cy : takes b : integer returns boolean let O = array A and 8; when case - 1 : when case 3 : chillax end; pop end case 87000 : output "\n\n0" end case 0 : pop end case 8 : chillax end otherwise : let h = 2 end end main : d : integer; Z : integer; zM : integer array; chillax end

@@ -1,0 +1,1 @@
+program Ob : main : when case - false : when case 3 < 9 : output "J30" end case 93 = 1 : do Y(329); pop end case 2 : pop end case 4 : chillax end otherwise : chillax end; do UY(6, 2330, 5); input Wu[9]; output "t" end; output "3" . 3 - 048 end

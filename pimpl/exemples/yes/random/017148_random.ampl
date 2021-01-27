@@ -1,0 +1,1 @@
+program y : yV : takes j, O : boolean; Mgd0, K8 : boolean; C, Y3 : integer array returns boolean array Us8, b : boolean; let P1I0 = array false end k : takes E35 : integer array returns integer array r : boolean; when case 340 : let pb = 11 end; let KQAa[45400] = 66; let W20[05] = array 203 end main : chillax end

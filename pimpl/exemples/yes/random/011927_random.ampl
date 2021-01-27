@@ -1,0 +1,1 @@
+program s : Q : takes U, Y, p3R : boolean returns integer e, C, K : boolean; puE, tT : integer array; do Zoo(- (5)); input Y[- 8 - 66] end rMla : takes Ud : boolean array returns nothing I88, X : boolean; S, Cr, JqX : integer; input o end main : when case y[0] * false : chillax end case false / 685 and 4 - d0W and 2 - 2 <= false : chillax end end

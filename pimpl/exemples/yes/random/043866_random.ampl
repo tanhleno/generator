@@ -1,0 +1,1 @@
+program X : d : takes e : boolean array returns nothing do Yi(- not 9710 and 43 or 57 < - 7); while 208 < 7 : chillax end; do X2(7, 782, 18) end main : M : boolean array; XW, W780a : integer array; d9gaa : integer array; chillax end

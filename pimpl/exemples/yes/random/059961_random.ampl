@@ -1,0 +1,1 @@
+program p : Z7 : takes j9 : integer array returns nothing chillax end main : Dr2, M : boolean array; r, x, x, c : boolean; M, Q150a : integer array; H, O, Dr00, w9q : integer; jF1 : boolean array; pop(7) * not 6 and 2 - 2 and 7 = - true or 2 - 659; input R end

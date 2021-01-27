@@ -1,0 +1,1 @@
+program h : rtMaa : takes Ev, b8, el, k : boolean array returns nothing chillax end HI : takes mnW, AHK, n5, s : integer array returns boolean output 20 . "" end main : zE : boolean; o : integer array; b1, bzL, N : boolean array; a3 : integer; chillax end

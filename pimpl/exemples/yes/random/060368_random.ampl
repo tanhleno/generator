@@ -1,0 +1,1 @@
+program r : K3s0a : takes H2 : integer array returns nothing eC, x, O : boolean array; let g9 = - 4 - 180; while 2 : input JZ; when case 2 : chillax end end; when case 9 : do Gm20a(0) end case 8 : chillax end case 0 : chillax end end main : let T = (097) / 3880 and 96 - false <= - 674 and 589 end

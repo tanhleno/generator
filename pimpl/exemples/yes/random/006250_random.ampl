@@ -1,0 +1,1 @@
+program R : J3 : takes p, Zh, Fe, G : boolean returns nothing YJ : integer array; let Gi3[not 0670 and 9770] = array 6 and 5 + 98200 end main : M8K0 : boolean; J, D : integer array; _ : integer; pop E(3); output - V or 5 - 3; output 69 - 4; when case 8 : do l(7) end otherwise : chillax end end

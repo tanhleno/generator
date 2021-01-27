@@ -1,0 +1,1 @@
+program n7H0 : X9 : takes iL8aa : integer array; P : integer array; z9B : boolean array returns integer p, uO : integer array; k : integer; while - F - 735 - 5 : when case 5 : pop end otherwise : chillax end; do L(5); output "o}"; pop end end main : KJ2, n : boolean array; pop; output "" . ""; output - 3340 - 33 end

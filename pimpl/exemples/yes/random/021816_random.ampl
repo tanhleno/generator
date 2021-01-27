@@ -1,0 +1,1 @@
+program r2waa : N : takes WZ, L6 : boolean array returns nothing chillax end _0l : takes r, O, m63, zV, z : boolean array returns nothing do bZ(- 0, 06, 4, 1) end X3z : takes x4 : boolean array returns boolean output 4 . 6 . "L#" end Q : takes n : integer array returns nothing IlYaa : boolean; chillax end main : j : integer; chillax end

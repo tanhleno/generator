@@ -1,0 +1,1 @@
+program L0 : l70aa : takes O : integer array; G, RVnaa, n : integer; E : boolean array; a, T : boolean returns nothing kQd : boolean array; chillax end t : takes c, Ov3a, JiE : integer returns boolean pop 8 = 0 end main : chillax end

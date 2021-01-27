@@ -1,0 +1,1 @@
+program NE10a : XaX0a : takes l7, e600a, H3 : boolean array returns nothing V, X, F59a : boolean; MC3 : boolean array; VL2, I1 : integer array; aj6a : boolean; k : boolean; chillax end main : P0, F8, a1, g0 : boolean array; chillax end

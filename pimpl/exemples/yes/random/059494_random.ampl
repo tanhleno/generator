@@ -1,0 +1,1 @@
+program K : u : takes f : integer array returns integer n9 : integer array; output - 1 . 48; when case 2 - 04 : pop; pop end case 6 = 4 : pop; pop end; when case 09 = 3940 : chillax end end main : c : integer; chillax end

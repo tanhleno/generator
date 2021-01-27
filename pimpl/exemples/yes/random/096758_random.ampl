@@ -1,0 +1,1 @@
+program M : main : when case false - not true - (48) + 77 - 6 : chillax end case jzy[75] < false and 735 or 64 : output "S" . "" end case - true or 76 - 9 : pop; let b7M = 7900 end case - 59 < 9620 : chillax end; do my(- _n = false - 8, (8) and 28 or 29 <= - 7); let d2I0 = array(1) + 5 - 62 end

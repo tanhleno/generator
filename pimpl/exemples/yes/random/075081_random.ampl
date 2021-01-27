@@ -1,0 +1,1 @@
+program T : main : G7Yaa, Z0 : boolean array; j : boolean array; yb, Z, JS : boolean; while - not not 1 * (13) and 0 : chillax end; do Y((136) - true - 2 - 421 /= - Zb and 2 or 4); pop 3 >= 01; when case 64 : chillax end otherwise : pop; pop end; pop; when case 9 : pop end case 9 : chillax end; while 5 : chillax end end

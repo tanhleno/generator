@@ -1,0 +1,1 @@
+program d6 : main : B, T6w, u, oWv0a, M : integer array; do Y79(true rem x - not true + 669, (97) / not 19 and 4 + false + 8400 > true, true or 91 - 95 <= 4 - 6, 47 - 508 = 700); let s[- true - 16] = true and 7 - 2; while - 3 and 5 or 9 - 1 <= 507 - 0 : let Cf[3740] = 2; output "r"; when case 6 : chillax end end end

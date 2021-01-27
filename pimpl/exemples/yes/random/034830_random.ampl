@@ -1,0 +1,1 @@
+program U60 : H9j0a : takes Y : boolean; T, i1H : integer; V : boolean returns boolean array U, bt, B, q3, k : boolean array; D : integer array; let F[(1)] = array 15500 and 3; input iss0a[8 - 4]; let S040a[49] = 0; input zR0aa end F9Oa : takes K : boolean returns nothing output 814 end main : output not 0 rem(8) end

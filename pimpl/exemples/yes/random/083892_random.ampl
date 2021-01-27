@@ -1,0 +1,1 @@
+program U : main : Fp : integer; b : boolean; Q, c, t, S : integer array; output(5670) + 8 . "\t" . - 38 - 065 >= 464; input A4O0; when case q and 8 or 17 = - 1 - 87 : let i49a[2] = array 0 end otherwise : let B5 = 5; pop end; when case - 5780 : chillax end case 3 = 43 : chillax end end

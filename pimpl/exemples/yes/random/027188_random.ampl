@@ -1,0 +1,1 @@
+program c : k : takes Zpa, u : integer array; k, G, J, B : boolean array; b : boolean; p5, x : integer array returns nothing V2v0a : integer array; chillax end main : input N; input c6[- 17 * false]; let u[false + 6] = - 59 - 8 end

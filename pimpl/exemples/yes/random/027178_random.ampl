@@ -1,0 +1,1 @@
+program PV7 : a6 : takes a, I : integer array; PlQ, Ip6, WZ, h2 : boolean; L : integer returns integer array chillax end w : takes V, t7a, v4, y : integer; PbTaa, Z : integer array returns boolean d2p0, o, g3G, y : boolean; q : integer; chillax end main : while - 8 or true rem not 1 and 5 + Ox : chillax end; input SH[- false]; output ",\"0a" . "\\" . 895 end

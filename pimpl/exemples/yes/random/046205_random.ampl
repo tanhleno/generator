@@ -1,0 +1,1 @@
+program erl : S : takes k : boolean returns boolean N : boolean array; chillax end n : takes t22, T : boolean returns nothing chillax end main : pop - (2) / false + false and 5910; output - (4) and 2970 < - 06 end

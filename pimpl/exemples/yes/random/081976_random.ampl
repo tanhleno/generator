@@ -1,0 +1,1 @@
+program N : main : PG5a : boolean array; j1Z : integer; input R[(1)]; output L - 3 >= 197 - 66 . ""; input n; when case 471 - 94 : chillax end case 81 = 9 : while 33 : chillax end end case 2 : chillax end otherwise : while 58 : chillax end end end

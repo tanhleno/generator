@@ -1,0 +1,1 @@
+program W26aa : E7i : takes ZT4 : boolean returns nothing s : boolean; lc : boolean; v3x, u, F : boolean; let A[false] = 5 - 22 end Y45 : takes i : boolean; v : integer returns nothing chillax end eE : takes J : integer array returns boolean let RVI[49] = array 393; while 128 : chillax end end main : output "\t4" . "9" . - 1 - 888 = 2 end

@@ -1,0 +1,1 @@
+program Ob7 : zr : takes WA : integer array; HcN0, l, B : boolean returns nothing output "\\" . 020 = 008; let s = array 4; do qtI(91, 3); pop; input dy; pop end main : X, _ : integer array; vz : boolean; Z, D15a, A, w : boolean array; while(29 = 4) = 2 : pop; let o[6] = 072; do n(2, 8) end end

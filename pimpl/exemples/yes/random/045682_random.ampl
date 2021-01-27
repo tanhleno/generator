@@ -1,0 +1,1 @@
+program Ds : r : takes A1 : boolean returns boolean array u : boolean array; H5, k, U, qj : integer; chillax end n : takes z : integer returns boolean array e, Z : boolean array; let _ = 3 = 7740; input y end main : R, d : boolean array; input n[_ + 5390 or(300) and 7]; while - not(0) * true - 51 = - not 06 and 892 : chillax end; let AX[true and 9 - 5 - 525] = - 9 end

@@ -1,0 +1,1 @@
+program P8 : main : V : boolean; while - not true rem not false or true / not 2 and 1 : output 0 . 0540; pop 6 end; when case B[627] < - not 772 and 3 : output 05 end otherwise : input d[1740]; output "\ns" end end

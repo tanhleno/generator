@@ -1,0 +1,1 @@
+program BJ7 : L : takes P, o5 : integer; i : integer array; b, _ : integer returns boolean chillax end hd : takes K0F, xHC, IRV : integer; Hd : boolean array returns boolean array when case - 4 : input G end; output 8 end main : pop end

@@ -1,0 +1,1 @@
+program x20 : main : let m = T06(12) and false + not 7 or 24; when case not sf rem(668) and 4790 <= - true or 680 : output "" . 2; when case 25200 : chillax end otherwise : chillax end end otherwise : chillax end end

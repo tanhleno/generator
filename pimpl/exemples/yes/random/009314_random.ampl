@@ -1,0 +1,1 @@
+program L : LJx : takes i, Dg4, Z0 : boolean; I : integer array; Z, C : integer returns integer chillax end main : when case - false / not B3F0 / true and 9 : let a = array 22000; while 0 = 7 : chillax end end otherwise : while 10000 = 2 : chillax end; do zSp(1); while 0 : chillax end; while 33 : chillax end end end

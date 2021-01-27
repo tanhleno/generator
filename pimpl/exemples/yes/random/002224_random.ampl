@@ -1,0 +1,1 @@
+program q0 : X8r : takes I, v5, Ga5, K, yp1 : boolean; _, ec : integer array returns integer array do _(- true = - 36 - 41400, 2 = 00) end C3 : takes C780, K : integer array; h : integer array returns nothing Y5n0 : integer; F, i1, t : integer array; let NP = array 98; do I(401, 1); while 7 : chillax end; do r(7190) end main : chillax end

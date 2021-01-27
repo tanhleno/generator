@@ -1,0 +1,1 @@
+program U : V : takes c, B : boolean; Y2, P, j : boolean returns integer array u, c, i, a5g, x : boolean array; x, b, M490a : boolean; geWaa, B410 : integer array; let MAQ[not 79800 or 6270] = 4 - 3740 end main : chillax end

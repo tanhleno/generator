@@ -1,0 +1,1 @@
+program q : main : do RGuaa(true and 9 >= u8 rem not 3 and 2 + true and 9, - not(1) and E); let Z0 = false or 7 - 5 < - 59; output 3 - 7000 = 8620 . 6 = 13 . 9 . "\n3\""; do H3(6 - 25 < 52); when case 03200 = 0 : chillax end case 8330 : chillax end case 491 : chillax end otherwise : pop end; let Q = array 7; do s(24); output "D"; pop end

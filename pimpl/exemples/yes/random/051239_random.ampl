@@ -1,0 +1,1 @@
+program Y_ : W1 : takes w : integer; I, J : integer returns nothing chillax end K : takes A : integer array; l8N : boolean array returns boolean array D : integer array; let q = 21 end main : while false rem V(86) = (134) * r9 - false and 8 + 1470 : pop end; do x65aa(- false * x or true and 8 <= - true and 4, - true <= - 83 - 20); pop end

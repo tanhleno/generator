@@ -1,0 +1,1 @@
+program pEQ0a : n86 : takes LX50, I, A : integer array returns integer q, V : boolean array; l : integer array; K, CyGa, j : integer; F7 : boolean; U70 : boolean; chillax end main : l, O, t3 : boolean; y, C1, W, Cn : integer array; o, r7O : integer array; chillax end

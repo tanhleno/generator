@@ -1,0 +1,1 @@
+program p : Ac_ : takes Tp7a : integer returns nothing y : integer; chillax end L4 : takes H, X1, Tw, q, e, Nw : boolean returns boolean array chillax end v : takes G, _ : integer array returns integer array N : boolean array; b : boolean; while 6 = 90 : input H43aa; pop end end main : r_, F : boolean; E2Uaa : integer array; output "\t" end

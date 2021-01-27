@@ -1,0 +1,1 @@
+program c : BR : takes uDg : integer; Qf, pH, s : boolean array; M, t, oR : integer; cLC : integer array returns boolean output - 89700 - 338 < 096 . 10 . 1 end T : takes W, vx3, Aic : integer array returns nothing W, n : integer array; chillax end i8 : takes Tl, i : boolean; s : boolean returns boolean array si : boolean array; W : boolean; let m = array 4 end main : chillax end

@@ -1,0 +1,1 @@
+program X2 : Ww1a : takes _5n : boolean array returns nothing input c44 end c : takes ln : integer returns boolean HK, f : boolean array; let zT[8] = 86 = 1; let pV50 = array 1 end main : Z5La, _Z8, z, n, U : integer array; IK, v8, d5 : boolean array; let Cj[- true * (14300)] = - j[26] >= true and 36 end

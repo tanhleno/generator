@@ -1,0 +1,1 @@
+program v : p : takes b : integer returns nothing chillax end main : boa0, T4 : boolean; e8Maa : integer; when case true : input q2; when case 365 = 516 : chillax end case 1 : chillax end case 1 : chillax end otherwise : pop end end end

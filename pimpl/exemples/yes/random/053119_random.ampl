@@ -1,0 +1,1 @@
+program K4 : g : takes uY : integer; z : integer returns boolean array W750a, k0 : boolean; chillax end V : takes z9 : boolean array returns nothing N : integer; pop; while 6 : pop; pop end end main : j0, L : boolean; I54 : boolean array; chillax end

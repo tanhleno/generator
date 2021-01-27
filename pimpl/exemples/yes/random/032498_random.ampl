@@ -1,0 +1,1 @@
+program n : E : takes hp, K : integer returns nothing e, l, e, r : boolean array; V, _9fa, K7, Y : boolean; chillax end main : ds : integer array; J8, z : boolean; do FN(not false, 4 or true and 5); when case not true * (722) = - h and 27 + 15800 - 0 : chillax end otherwise : chillax end end

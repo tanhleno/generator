@@ -1,0 +1,1 @@
+program T : QQ : takes I, U : boolean returns nothing dOy, B, l, x2, rZ : boolean array; chillax end Qf : takes F : boolean array returns boolean let W[- 307] = 28300 = 65; when case 8 : output ""; pop end end main : chillax end

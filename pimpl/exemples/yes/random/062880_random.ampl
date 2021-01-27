@@ -1,0 +1,1 @@
+program l : M : takes Rz2 : integer returns integer array q96, RhG : boolean; chillax end F56 : takes r0b : boolean array; s7_ : boolean; s, r : integer; Q0, np, n8c, u : boolean; s1Ea, E, SY9 : integer returns integer array do J2(2 - 71) end main : chillax end

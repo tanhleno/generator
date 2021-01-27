@@ -1,0 +1,1 @@
+program ZJ5a : o00 : takes d : integer array; j : boolean returns integer array chillax end Hn : takes _ : boolean array returns nothing chillax end main : Hp4aa, UqD0, l6 : boolean array; chillax end

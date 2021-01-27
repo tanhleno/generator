@@ -1,0 +1,1 @@
+program z : main : when case - true + (0330) : input _4D; do A06(7) end case - (4) : chillax end case - (733) - 9 >= - 92 : let c8[8] = array 44 end case - 378 - 68 < 45 : chillax end case 9 = 7 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program b : main : let Q9 = array - not not v and A; when case - 2 < (9) + 6 - 762 : chillax end case - PU1aa and 4 + 795 > - 9 : pop 82; output "X\na" end otherwise : chillax end; while - not 5 and 7 : chillax end; while 7 - 74 < 0 : output ""; when case 033 : chillax end; pop end; do Tz30a(1) end

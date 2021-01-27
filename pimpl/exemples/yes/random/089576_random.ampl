@@ -1,0 +1,1 @@
+program Cg : main : let x = - JW and 7 and 59; output ""; when case - not 7 and 1 >= 0 : when case 3 : chillax end case 87 : chillax end otherwise : chillax end end case 600 - 04 >= 0 : input a420 end case 61600 = 1 : chillax end otherwise : pop; let g = 289 end; while - 2 : output "\t" end end

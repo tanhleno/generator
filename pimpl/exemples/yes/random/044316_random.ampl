@@ -1,0 +1,1 @@
+program VI : T3 : takes d0Da : boolean array returns nothing W, b : integer; o5L, Jk0 : integer array; M6Faa : integer; G : boolean; E : boolean; do G760a(false - 66) end main : O, S, V, of6, K3, p, l : integer array; HWq : boolean array; Vp : boolean array; D : integer array; m44 : boolean; let G[true and true] = array p - y6(37100) end

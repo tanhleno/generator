@@ -1,0 +1,1 @@
+program G : g : takes K, J, i9 : integer array returns nothing chillax end main : M, r3 : integer array; pop true / 6; let S62[- (9) or not 1 or 9260] = array Ig(95) / 9 and 67200; when case - true and 329 - 12500 - 6 < - 9 - 00 : chillax end otherwise : pop; let rD = 44 end; input m; while 33 : do o(5); pop end end

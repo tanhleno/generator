@@ -1,0 +1,1 @@
+program p : h : takes j : integer array; q, U, a : integer; V : integer; i : boolean array returns integer array z59 : integer array; chillax end t66 : takes J8 : boolean returns nothing when case - 6 = 1 : chillax end case 4 = 01 : chillax end case 1780 : pop end end main : r, PCba, OJ, vO5 : boolean; input H[(4)] end

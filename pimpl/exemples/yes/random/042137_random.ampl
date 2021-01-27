@@ -1,0 +1,1 @@
+program KRda : dt : takes S8 : boolean array returns boolean D, gWM : boolean array; let L = 56 - 1; pop 3 = 3; while 7 = 026 : output ""; pop end; pop 80 end X : takes Y, S : boolean returns nothing chillax end c4 : takes lM0 : integer; zLQ, N, G9 : boolean array returns boolean chillax end main : c9, R, E620, w : integer array; chillax end

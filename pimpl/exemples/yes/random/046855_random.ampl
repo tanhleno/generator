@@ -1,0 +1,1 @@
+program d96 : Z7o : takes iRja : boolean returns integer array when case not 81 + 0 : chillax end case 6 - 5 < 9 : chillax end case 80 = 6 : chillax end otherwise : do A(6840) end end main : chillax end

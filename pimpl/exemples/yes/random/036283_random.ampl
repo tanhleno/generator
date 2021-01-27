@@ -1,0 +1,1 @@
+program mZ : t : takes B1K : boolean; K : boolean returns nothing do V((655), 26 - 3600, 60 = 6, 5); let c_[776] = array 39 - 3 end main : let C2N0a = false / (3) + (6) and 5 + 18 - 58 >= not 2 and 0; do T2o(G(264) / true + true and 6 or 3 - 92) end

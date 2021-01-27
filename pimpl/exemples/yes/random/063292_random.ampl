@@ -1,0 +1,1 @@
+program a : b : takes w5T0 : integer returns integer do K(- not 7 and 2990 = 74, 3 - 45 < 30) end l6 : takes BH : integer returns nothing Z, uN : integer array; do Lr(0, 37, 9, 578); input O end main : input nQ[- (0) * (67)] end

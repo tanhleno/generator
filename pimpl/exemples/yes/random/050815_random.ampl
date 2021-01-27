@@ -1,0 +1,1 @@
+program p : u : takes qj : integer; q, Y0 : integer; q, A, Di : boolean; Z : integer returns integer array Y65, M : integer array; V3, Qtb, W9 : boolean array; when case - not 0 and 4 - 0 - 5 : when case 7 : chillax end otherwise : chillax end end otherwise : chillax end end main : let s[false] = - not false + 4 and 9 <= false end

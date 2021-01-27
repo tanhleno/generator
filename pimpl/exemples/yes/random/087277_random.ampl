@@ -1,0 +1,1 @@
+program T : main : A : integer array; output false / (86) >= - true and 252 . - false and 98 or 8 - 4 /= - 9 - 6 . "\n"; output - false + 2 . - 12 /= 5 . 9230 . "\t" . "" . "?"; when case true or 38700 : output 961 end otherwise : chillax end; when case 4 >= 8 : chillax end case 56 : while 01 : chillax end end otherwise : while 4 : chillax end end end

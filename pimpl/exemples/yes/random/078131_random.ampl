@@ -1,0 +1,1 @@
+program F : main : t3, gt90a : integer array; when case true >= (27) : chillax end case 5 + true : while 79 : chillax end end case - 8 = 48 - 32800 : chillax end case - 2 > 46100 : pop end case 97 : chillax end case 1 : chillax end otherwise : chillax end end

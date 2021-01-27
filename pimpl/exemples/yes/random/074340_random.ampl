@@ -1,0 +1,1 @@
+program is : main : c40, J9E : boolean; when case(947) / 7 rem false and 7 = false - true and 95 : input F; when case 9450 = 1 : when case 18 : chillax end end case 85 : pop end; pop end case true > lp : chillax end case h4 : pop; pop end; while - false <= - (5) : do k(8) end end

@@ -1,0 +1,1 @@
+program jRM : r4 : takes o : integer; L, J, r, G9 : integer; l, w, P8d0 : integer returns boolean array chillax end main : fu : boolean array; A, Mq90, T7 : integer; A45 : integer; S, g9, mB, H : integer array; T : integer; C, I : boolean; output "" end

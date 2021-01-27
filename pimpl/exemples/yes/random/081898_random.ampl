@@ -1,0 +1,1 @@
+program PG : main : I : boolean array; m3 : integer; I6, X5 : integer; a, i, X : integer array; when case 12 + 962 : chillax end case - true - true + 4 - 66 : chillax end case true + 68 - 18400 : let H28aa = array 6; output "" end otherwise : input ao8[4] end; input sx end

@@ -1,0 +1,1 @@
+program a : s : takes v280a : integer array; E1a0a : integer array returns nothing o, DK : boolean; chillax end main : I, wTOa : boolean; s6_0, p36 : integer array; input N5M[- V_[64] - 52900 or false and 2]; output - (9) = 379 . 08 > 600; pop end

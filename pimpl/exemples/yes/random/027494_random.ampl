@@ -1,0 +1,1 @@
+program G : x : takes F1B, ZE : integer array; U73aa, a, G2 : integer array; t9 : integer; s, c, n9xa : boolean array returns integer array while - 3 > - 21500 - 58 : chillax end end main : let c1 = array m; input n[- true / true and 8] end

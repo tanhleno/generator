@@ -1,0 +1,1 @@
+program uF7aa : main : when case - false and 1 * false and 16 : chillax end case false > - 47 + 9 : chillax end otherwise : when case 2 : input q0 end case 7240 : chillax end case 837 : chillax end end; do f3(NvNaa[7070]); let L[- false and 6] = array false; do A(- 1880 - 4 < 0, 4 = 7, 10); let S[9] = array 799 end

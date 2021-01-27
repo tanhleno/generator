@@ -1,0 +1,1 @@
+program Q8L : main : _ : integer; m : integer array; do zT(- 294 and O[3] and true and 0); do uCIaa(- 1 or true and 14400 <= - false and 0, - false - 6 - 669 = - 0 - 2); pop; let u = array - 10; when case 32 : while 0 : chillax end; pop end otherwise : pop end end

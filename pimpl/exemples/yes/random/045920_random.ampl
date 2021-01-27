@@ -1,0 +1,1 @@
+program w : De : takes rj : boolean returns boolean chillax end r6Ga : takes j, qjd0 : integer array returns integer array input Z; let Y5[86] = array 2; when case 179 : pop end case 35 : chillax end otherwise : chillax end end Sl : takes Q : integer; D : integer array; F9y, TR, pP : integer array returns boolean array chillax end main : let t7 = - YZ2(7) and not 0 end

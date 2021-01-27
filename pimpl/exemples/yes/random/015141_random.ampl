@@ -1,0 +1,1 @@
+program o : G : takes jP, A, yN : integer array returns nothing chillax end Q1Caa : takes U, o, n, v : boolean; b : boolean array; J, vi9aa, i, z4 : boolean returns boolean array input lj; when case 33 : chillax end case 153 : chillax end; let B750a[009] = 7 end main : chillax end

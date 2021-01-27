@@ -1,0 +1,1 @@
+program q740 : G : takes WtC, l, TY : integer array; ZMc, F3 : integer returns nothing a9a : boolean array; U1, _kuaa : boolean; do U0(- false); when case 4370 : chillax end otherwise : chillax end; do q(9 = 23800); pop 8430 end main : chillax end

@@ -1,0 +1,1 @@
+program M4 : R : takes A : boolean returns nothing wRn0a : integer array; LP, k, C8 : integer array; b : boolean; b9W, VQ : boolean; input n[- (4) or 9] end W : takes W0 : boolean; Q : integer returns nothing chillax end main : chillax end

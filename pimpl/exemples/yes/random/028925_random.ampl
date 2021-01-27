@@ -1,0 +1,1 @@
+program Ow : C7 : takes wh0, p1 : integer array; Dvj : integer array returns boolean array chillax end iB : takes a6, Kn20a, g : boolean returns nothing let F = 1 = 478 end Q : takes tZ7aa : integer returns integer array chillax end main : ovG, B, kj80a, p : boolean array; Q, X : boolean array; g, k : integer array; y, q8 : boolean; input M[(65) - false] end

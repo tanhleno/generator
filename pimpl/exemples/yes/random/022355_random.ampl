@@ -1,0 +1,1 @@
+program V : O2l : takes u9Uaa, f : boolean array returns nothing L, G : integer array; D84 : boolean; P : boolean; chillax end Y6 : takes L : integer array; x8Xa, F1A0 : boolean array; a : integer returns nothing while - 7 : chillax end; while 74 = 6 : let I = 5 end; while 8 : chillax end end main : output(41) / Z2 and 3 - F - 56 /= true and 8 . h - 9 = 3490 - 71 end

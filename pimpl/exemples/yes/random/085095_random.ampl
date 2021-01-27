@@ -1,0 +1,1 @@
+program vVq : main : o7N0a : integer; pop 2 or true and 4 or 8 = 8 + 569; when case false - (59) and 7 + 96 - 42 : input O2 end case(2) and 3 + 2 > - 76 - 1 : while 45 : pop end; input q0; when case 396 : chillax end end otherwise : chillax end; do qs1(- 60 + 8 - 1); while - 31 - 2 /= 986 : let F = 8; let z = 86900 end; while 409 : chillax end end

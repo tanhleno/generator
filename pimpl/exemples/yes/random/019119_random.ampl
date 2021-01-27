@@ -1,0 +1,1 @@
+program DB : x7 : takes Z1, H : boolean array; u, M9U0, s : integer returns nothing while true or 4 < 5 : pop 6; do q(700); pop end; output "" end sX : takes J13 : boolean array returns nothing chillax end RI8 : takes Iw : integer; N1 : integer returns nothing vy1, w : boolean; chillax end main : G, cvxa, L81, a, Q, S70 : boolean; output 0 >= o1 and 015 end

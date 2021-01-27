@@ -1,0 +1,1 @@
+program b1D : R : takes Y, z73 : boolean returns nothing chillax end D : takes T : boolean array; M : boolean array returns nothing s08, jM : boolean array; chillax end main : K, k, vc : integer array; do D(- not false * true or false <= 9 + (7) + 509 - 6, false <= - (3) or 9, - 4 and 684 - 7 - 3) end

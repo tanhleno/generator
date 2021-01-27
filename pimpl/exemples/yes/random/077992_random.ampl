@@ -1,0 +1,1 @@
+program K : main : e410, o : integer array; output "?l0a"; while - 6210 : while 8 = 059 : chillax end; output ""; do eZ(35000); input Cd7aa end; let i[- true and 3 or 39 - 831] = array(3) and 1 - 785; while 31 - 5 /= 6 : chillax end end

@@ -1,0 +1,1 @@
+program e : RWX0 : takes z, Hz, H, i8 : boolean array returns integer output 0 . 46 = 4 end L5 : takes q9 : boolean array returns boolean array chillax end main : x4 : boolean; Yf6, z, B, g, aU : boolean array; pop; when case - false + not 10 : chillax end otherwise : chillax end end

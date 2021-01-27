@@ -1,0 +1,1 @@
+program Y0 : c : takes h, a1, myp : integer array; SYBa, o, K : integer array; V : boolean returns boolean while - false - 21 - 76 : pop; pop; do f(8); pop end; do vH(- 220); pop; input z end main : chillax end

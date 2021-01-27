@@ -1,0 +1,1 @@
+program xR2a : f4 : takes Z2, g : boolean array; T, y : boolean array returns boolean array FW4, o6B0a, i, IsP0a : integer array; Q0 : integer array; chillax end main : when case(2) - not a3_ rem false or q and 4 - 8 : chillax end case true and not 2 and 6 : output 0 end otherwise : output 9 . 4 . "" end end

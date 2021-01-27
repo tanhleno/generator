@@ -1,0 +1,1 @@
+program t : G : takes x920a, El : boolean array returns integer jU : boolean array; let l40 = - 7 - 69100; when case - 03 = 5 : output "Z"; pop end case 317 = 6 : chillax end case 39 : chillax end case 447 : chillax end otherwise : when case 048 : chillax end; pop end; input O6p0[074]; pop; let t9g0a = 1 end main : let sw50 = not(8800) < - true and 0 or 4 end

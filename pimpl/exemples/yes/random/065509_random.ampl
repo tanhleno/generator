@@ -1,0 +1,1 @@
+program G : V : takes Ag : integer returns nothing when case not 0 and 0 = - 41 - 5 : chillax end case - 7 - 31100 : input rH; pop; pop end case 5 : chillax end otherwise : let U = 1 end; input eT; do kBS(104 = 62); output ""; do v2(3) end main : chillax end

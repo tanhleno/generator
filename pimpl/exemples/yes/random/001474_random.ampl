@@ -1,0 +1,1 @@
+program H : r : takes kZ, A5, rw, w, L4, B : boolean returns boolean array chillax end c03 : takes J2, m, E, N, b, Rvzaa : boolean array; s, YXy : boolean; b71, b : boolean returns nothing input Qr60a[- 15200 - 396] end main : r20 : integer; z : integer array; k : integer array; y, S1, W : integer; output ""; do G4T0a(- true - v390 and 1 + 7) end

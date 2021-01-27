@@ -1,0 +1,1 @@
+program f : z : takes m, D3 : boolean array returns boolean array chillax end main : w41 : integer array; X360, B : integer; HTr : integer array; b8e0, D070 : boolean; input d[- 69 * true / false - true]; while iL[9] > 5 and 46900 : chillax end end

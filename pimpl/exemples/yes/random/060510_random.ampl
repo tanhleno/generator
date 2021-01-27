@@ -1,0 +1,1 @@
+program O : S : takes qPT : integer array returns nothing B, Q : boolean; when case true and 07 : chillax end case - 3 - 0 : chillax end otherwise : chillax end end q : takes vI7, K, v : integer array returns integer chillax end main : B, N, uA, p : boolean array; eYfaa, F : boolean; chillax end

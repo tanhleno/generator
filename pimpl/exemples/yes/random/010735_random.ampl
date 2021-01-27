@@ -1,0 +1,1 @@
+program su : ZGa0a : takes t, N, em00a : boolean array returns boolean u6c0a : integer array; chillax end main : l : boolean array; output - S9(2) - false + 1 /= false - 56 - 8150 . _ and 7 - 7 - 06 /= - 8 - 40 . - 4 - 2 <= 6; output - not 901 < 0; pop 2530 - 7990; when case 22 : output "" end case 6 : chillax end case 07 : pop end end

@@ -1,0 +1,1 @@
+program u : main : rMU, c, Uy20a, D : integer; when case 794 - true and not 144 and 89 /= false / false and 1 - true : chillax end case - (6) * 6 : chillax end case true and 040 : chillax end case - 33 : pop end; pop end

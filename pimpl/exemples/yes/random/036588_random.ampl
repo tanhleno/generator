@@ -1,0 +1,1 @@
+program vs2 : r3 : takes T : boolean; RO0 : integer; l : integer array; L : boolean; J : boolean array; W55aa : integer array returns nothing W, j7Pa : integer; chillax end x87aa : takes G41 : integer array returns nothing do Z(- 88 > 57, 9 = 85100, 9) end main : s8g, L, T2M, x, S, ycY, m : boolean; chillax end

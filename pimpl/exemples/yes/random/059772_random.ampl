@@ -1,0 +1,1 @@
+program pd30 : u : takes vS3 : integer array returns nothing chillax end yf : takes Bo : boolean; p, ow, UO : boolean array; At10a, WM : integer array returns boolean chillax end main : Pj90, y3, zs, a, Nj, W : boolean; e, O2, X : integer; q : integer array; xO : integer array; n, oJ10a, YV6 : integer; chillax end

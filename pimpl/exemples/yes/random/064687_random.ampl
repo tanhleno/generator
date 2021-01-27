@@ -1,0 +1,1 @@
+program O : g2 : takes T : integer returns nothing IL : boolean; E, B : integer; L, sA, H : boolean; qC, _B : boolean; d : boolean; chillax end zb : takes QP70, ur, J : integer; k : integer array; K4G, J : integer returns nothing do n(- 7 /= 3, 518 = 7, 84300) end main : while - not not 60600 * true * 89 or N65(6800) rem J3 and 8 + (155) - 635 : input s74 end end

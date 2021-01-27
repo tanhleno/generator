@@ -1,0 +1,1 @@
+program QN : U : takes K0Ya, V, At : integer array; S : boolean returns boolean R : integer; Mv2aa, n, ox : integer array; kM4 : integer array; chillax end main : s9R0, G3, Nx : boolean; pop 9 + true = not 0 and 94 + 00 - 5 end

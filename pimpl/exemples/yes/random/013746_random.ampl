@@ -1,0 +1,1 @@
+program T : F42 : takes s5, h46, VU : integer array; hJ, e, h6 : boolean; G, S, U3 : boolean returns boolean chillax end x : takes O4Paa, dv, Ywm : boolean; Hcm : boolean returns boolean m, U : integer; chillax end main : chillax end

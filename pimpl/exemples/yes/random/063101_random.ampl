@@ -1,0 +1,1 @@
+program H0 : l : takes X : integer returns integer array let t = 7 - 8; let z[- 4 - 13] = 49; when case 8 : pop end; let QpOa = 46 end rZ20 : takes jd3 : boolean array; rn : integer returns nothing xk2a : boolean array; d : boolean array; D1s : boolean; input _[04] end main : A6o, Y : boolean; chillax end

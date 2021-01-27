@@ -1,0 +1,1 @@
+program A : F3W0a : takes Y : boolean array; D, y, A : boolean array returns integer pop end main : i : boolean; while - not true + false or true <= - true : output "\t" . ""; when case 83 = 739 : input l; pop end otherwise : pop end; pop end; output "4]" end

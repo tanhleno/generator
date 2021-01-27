@@ -1,0 +1,1 @@
+program F23a : w : takes N, O, Y0jaa : integer array returns integer pop - 4 - 841; pop 9; output 6; input l7p[0] end main : fT : boolean; input m9n0a[false and 7 and 307 and 1]; do Ic(- a5u0(32) < - (71)) end

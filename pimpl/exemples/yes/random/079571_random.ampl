@@ -1,0 +1,1 @@
+program P : main : a33 : boolean; mU : integer; s : boolean array; OY30, b : boolean; when case KZ - not false rem false and 6 : chillax end case - not j < 8 and 8 + 87400 - 1 : chillax end case - 25 and 522 >= - 1280 - 9 : pop end; output "7\\0a" end

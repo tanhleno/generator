@@ -1,0 +1,1 @@
+program b : w3 : takes s0o, W4 : integer returns nothing chillax end main : when case - 1970 - 0 rem not 07 and 4 : chillax end case - (3) : chillax end case - not 06 : pop end otherwise : input I76a; when case 2 : chillax end otherwise : chillax end end end

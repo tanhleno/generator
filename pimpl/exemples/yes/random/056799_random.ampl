@@ -1,0 +1,1 @@
+program q780 : o : takes c7Za : integer array; F : integer array; J9c, d19aa, I, a, RC, P : integer array; L : boolean array returns boolean array while - not 8 + 421 : chillax end; when case 5 : chillax end; when case 41 = 87200 : do O(0240) end otherwise : pop end; when case 8 : chillax end case 1 : chillax end otherwise : chillax end end main : chillax end

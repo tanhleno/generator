@@ -1,0 +1,1 @@
+program t : wwC0a : takes d5Jaa : boolean array returns boolean array chillax end b : takes Yn : boolean returns nothing k, KZ, g : boolean array; b7, Jy, Q : integer; A2, Fw0 : boolean; chillax end main : chillax end

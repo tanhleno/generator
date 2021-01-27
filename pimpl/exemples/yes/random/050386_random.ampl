@@ -1,0 +1,1 @@
+program Nk : t : takes eDE0a : integer; B, r : boolean; EK0 : boolean array returns nothing do Utu(- true - 7300 - 690, - 402 - 931, 644) end main : W440a : boolean; r4E : boolean array; HBuaa, nBt0a : integer array; chillax end

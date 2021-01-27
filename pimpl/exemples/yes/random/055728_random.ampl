@@ -1,0 +1,1 @@
+program f : s2 : takes W8 : integer array; y : boolean array; Y5, oI, h, u88, nN6a : integer; xVw, v : integer returns nothing chillax end HS : takes qkd : integer returns nothing when case 65 <= 0850 : input lYK end case 8 : chillax end otherwise : chillax end end main : q : integer; chillax end

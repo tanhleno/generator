@@ -1,0 +1,1 @@
+program j : main : k : boolean array; ig, E5 : integer; NE, _7, b, v, Z : integer array; OX5 : boolean array; M, K, pw10a : integer array; rMW : boolean; Jt : boolean; f : boolean; while(2) + (321) or true and 3 : while - 2 <= 6 : chillax end end; while(45) <= - 86 : chillax end; output - 1 - 1; when case 487 : let b = 8 end case 1320 : input Mv4aa; pop end end

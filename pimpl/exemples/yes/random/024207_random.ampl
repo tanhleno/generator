@@ -1,0 +1,1 @@
+program d : Kk : takes J, n : boolean returns nothing dI, Q5, Hn : boolean; chillax end oX6 : takes SJ30 : integer array; _F7, M : boolean returns nothing chillax end main : let H = false / jW and 1 > not 938 or 7960; while true + (2) /= - K9oaa and 6 : when case 0 : while 12 : chillax end end otherwise : chillax end end; while not 3 + 6 - 0 : chillax end; output 7460 end

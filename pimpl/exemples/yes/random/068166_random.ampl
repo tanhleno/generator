@@ -1,0 +1,1 @@
+program z : main : H, J2, VN, _, V, P6r, w : integer; let F[not(9) rem true] = array - not(0) rem 33; do k7(not 06 * false + true /= (09) + 6 - 62, - false, - 04 - 72 /= 82, 5 = 5); let f600[- not 46 + 6] = array not 765 end

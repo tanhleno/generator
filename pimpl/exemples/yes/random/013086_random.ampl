@@ -1,0 +1,1 @@
+program P : U : takes Zi, V, _ : integer; c5 : boolean; _Bua, FX8aa, r : boolean returns boolean v : boolean array; a, z, h, q : boolean; w : boolean array; C, TQ7 : boolean; chillax end main : xUF0, Y, Pu2, i2k, T : integer array; chillax end

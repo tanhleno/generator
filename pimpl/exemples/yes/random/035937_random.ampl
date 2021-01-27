@@ -1,0 +1,1 @@
+program o : z : takes epM : boolean; g4 : boolean array returns integer array pop 4 > 64; do D(- 0 - 03000 > 856); let D5 = array 421; pop; do k(619); pop; pop end f : takes wv, i : boolean returns nothing chillax end main : let L[- q1J[38900] and i + false] = array - false / 30000 - not(93) and(2) and 47 end

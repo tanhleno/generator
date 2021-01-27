@@ -1,0 +1,1 @@
+program lV : Y3 : takes Z68, n7v : integer returns nothing chillax end main : when case - 422 > not false : let i = array - 3 - 01; when case 5 : chillax end otherwise : pop end; do T(46); let W31 = 8; pop; pop end case - 46700 + true and 7 > - (4260) + 59500 : pop; do D(6); while 3 : chillax end; do U(30); pop end otherwise : chillax end end

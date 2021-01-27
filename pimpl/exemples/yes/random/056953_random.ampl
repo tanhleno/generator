@@ -1,0 +1,1 @@
+program sd60a : q : takes T : integer array; j : integer array; xf : boolean array; I4 : boolean; dp : boolean; c, T, gb6aa : integer array; e : boolean; j : boolean returns nothing chillax end main : d : integer array; chillax end

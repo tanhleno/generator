@@ -1,0 +1,1 @@
+program XT : d : takes M : integer array; W : boolean array returns nothing pk : boolean array; when case false and 07300 - 2 - 8210 : while 21100 : chillax end end otherwise : chillax end; pop end Jz : takes q : integer returns nothing P, q, _560a, r7 : integer array; w : boolean; output "\n"; let _ = 09 end main : chillax end

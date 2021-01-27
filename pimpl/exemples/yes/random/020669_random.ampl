@@ -1,0 +1,1 @@
+program B71 : I : takes U5, R : boolean array; eW5a : integer returns boolean output - 31 - 5 <= 014 . 6 . 32 . 8; when case - 0 - 20 > 74 : while 0 : chillax end; while 4 : chillax end; pop end end main : chillax end

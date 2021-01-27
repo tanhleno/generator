@@ -1,0 +1,1 @@
+program hPca : _ : takes E3 : boolean returns integer when case - nC and 0 /= 8 - 2 : chillax end case - 6 - 47500 : chillax end otherwise : do U(3); let Vm = 74 end; while - 4 <= 69 : input y1z end end main : input Hy; do l6(- false * (6) <= - (7) and 86) end

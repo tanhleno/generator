@@ -1,0 +1,1 @@
+program uSj : o : takes R6, Y, AM0 : integer; z, D : integer returns nothing GS10, ICh0, eI, e3 : integer; TO, U, A : integer; G, Jt, J : integer array; input o5[- not 578]; do Q9(40); let oIi0[651] = 787 end main : do D_4(not(7) and(1)); while - 2 /= false + 45 - 2 : while 4 = 8 : chillax end end; do K(not 458 + 154 - 00100) end

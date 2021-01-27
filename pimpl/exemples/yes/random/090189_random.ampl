@@ -1,0 +1,1 @@
+program ue : main : let GX40 = array 33 * (10) rem false - 1 and not 0 and 20 - false; input Jz6; input ZR00a; when case - 12800 /= 881 : chillax end; while 50600 = 2 : output "@\"\"a"; pop end; let v = array 1 end

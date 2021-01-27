@@ -1,0 +1,1 @@
+program x : main : while - lE8 * not 3120 or false and false : let q6 = array 563; output "-e0a"; input n82a end; while - true - true and 9 + 950 < true and 17 : chillax end; when case y and 6 <= 38 - 9 : chillax end end

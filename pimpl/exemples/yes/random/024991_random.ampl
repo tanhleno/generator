@@ -1,0 +1,1 @@
+program j : l0u : takes D, v : integer; B11aa, I2, B, x, rCXa : integer array; I3, N430, n : boolean; y, kiE : integer; VS, A : boolean returns nothing when case I < - 6 : chillax end case 6 - 2020 : chillax end; when case 442 >= 6 : input DY end end main : G90, d, G : integer array; gS60a, l81aa, p5u0a : boolean; input w5 end

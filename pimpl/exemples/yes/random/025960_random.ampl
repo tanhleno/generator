@@ -1,0 +1,1 @@
+program _ : VzE : takes Ca3, _ : integer; v350, k4fa : integer returns nothing _, M72 : boolean array; T03a : boolean array; G, g5_, u2 : boolean; Y75 : boolean; u : boolean; pop; while - 778 < 5 : let a = 8; pop end end main : when case - not false + false + true and 943 : chillax end end

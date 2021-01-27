@@ -1,0 +1,1 @@
+program K : M2C0a : takes v, U : integer array; r3, c : boolean array; y, S : boolean returns nothing c6 : integer; while O7J : chillax end end main : IG3, i : integer; z0Sa, T1, U : boolean; chillax end

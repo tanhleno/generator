@@ -1,0 +1,1 @@
+program Z : main : g36, pz, bF5, d : boolean; z, z9P, mI, u : boolean; O1 : integer array; pop; when case m[92] : when case 9 = 625 : chillax end; input l; output "%"; while 51500 : chillax end end; while - J : input H[950]; do y(0); output "\t~0"; pop end; output 12400 . 4; let h = 2 end

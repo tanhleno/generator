@@ -1,0 +1,1 @@
+program iVG : main : N, E : boolean; F : integer; when case - 1620 or true - false + 8 - 64 < not true : when case - 9 - 514 : when case 7 : chillax end; when case 7 : chillax end end otherwise : while 333 : chillax end; pop end end case not false and 196 and 6 or W_9 and 90 >= false + 3 - 4 : do r(71700, 33) end end

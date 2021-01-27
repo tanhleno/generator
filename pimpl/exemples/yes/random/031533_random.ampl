@@ -1,0 +1,1 @@
+program H : Z1 : takes u, zaM : integer returns boolean N, H : boolean; Xt, s00aa : boolean array; output "" . "" end w : takes n61a, h2, a9, Vc : integer; n4, xTN, E, s : boolean returns boolean array chillax end main : when case true or(27) - not 1 and 20100 : chillax end end

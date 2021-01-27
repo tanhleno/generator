@@ -1,0 +1,1 @@
+program DV5a : x550 : takes b, G, g : integer array returns boolean chillax end Tw : takes k, GN5a, a52, b : integer returns nothing input s[9 - 5] end main : K : integer array; output - (7) or true . true end

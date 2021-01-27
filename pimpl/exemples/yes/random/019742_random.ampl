@@ -1,0 +1,1 @@
+program C : V0Y : takes a0Na, Uo : boolean array; X90a : boolean; de : boolean array returns integer array cNm, aDga, B : integer array; p, o9 : integer array; u, W : boolean; Zc, x : boolean; input x end main : do a0(false / (3) > false - uX, - (156), - not 7 and 6 - 1); do PY(- false <= - (89) - 0 - 6); input Lqg0; let s[6] = array - 2 end

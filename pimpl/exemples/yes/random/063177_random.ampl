@@ -1,0 +1,1 @@
+program rq : e : takes d : integer returns integer array while - not 7 and 24 + 85700 - 0 : chillax end; do l(- 89600) end J7n : takes vU30, X : boolean array; IjU0, K, R : boolean returns nothing let M[- 4] = 475 end NgH : takes rp : boolean array returns boolean do C0(13 = 6, 7, 07) end main : input h[- (81) * false * true and 12] end

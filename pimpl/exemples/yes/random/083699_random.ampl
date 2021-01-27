@@ -1,0 +1,1 @@
+program n : main : M2 : integer; N, b : integer; UK, OoC0a, o38aa : boolean; TG, F, F4 : integer array; let vW = true / false - true and 883 - 94; when case - true / false and 0 <= - (752) + 5 - 3510 : chillax end otherwise : when case 352 : pop end end end

@@ -1,0 +1,1 @@
+program Q : T : takes VO9 : boolean array returns nothing chillax end BI : takes pwA : integer array returns nothing do x9(3 <= 9, 331, 91700, 9) end M0 : takes CrS, Un5a, gT : boolean array; Z, R50 : boolean array; xO, R, M7 : boolean array; I, b, G : boolean returns nothing chillax end main : do F(- 4 * not not 9 / FB and 7 = - (0) + (45), - (4) + 7 and 33) end

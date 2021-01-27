@@ -1,0 +1,1 @@
+program w : l : takes J, ksGaa : integer; xu : integer array returns integer chillax end main : l, t2 : boolean array; mS, LK : boolean array; b, E4, BX : integer; do A(true or true / true and 0 - (2) and 4 or 06 >= true and false and 3 - 4 and 87, 28 > - n7 + 4, - (3) + 36700, 87 > 2) end

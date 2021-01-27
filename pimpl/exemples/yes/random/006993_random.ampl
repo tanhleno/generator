@@ -1,0 +1,1 @@
+program d : egDaa : takes A, h, Q, I : integer array; c, O : boolean array; _NL : boolean array returns nothing r, C, G69 : integer; chillax end main : A7, H : integer; output P . - not 1 and 082 . - 5 - 3 end

@@ -1,0 +1,1 @@
+program O9 : g6ka : takes G2 : integer array; sY4 : integer returns boolean b : integer; l2 : boolean array; C : integer; yj : boolean; do R9V(- false and 755, 8 <= 68); input z[0]; when case 39 : while 2 : chillax end end otherwise : chillax end end main : V, zv, f38, Ae5 : integer; chillax end

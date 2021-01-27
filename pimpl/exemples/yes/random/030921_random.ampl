@@ -1,0 +1,1 @@
+program H : ie70a : takes ww, p : integer array returns nothing z4 : integer array; aG9, M, d : boolean array; j, C, K8k : boolean; v : boolean; c : boolean; let j0[Ru + 3] = array not 6; let Ty[8] = 0390 end main : do W(- Aw9a and false and not 740 or not true / (32100) or 8 and 6 - 4 >= - (6530) / (5) and 98 + not 5 and 2520 - 694) end

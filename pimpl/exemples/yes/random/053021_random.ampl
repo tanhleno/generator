@@ -1,0 +1,1 @@
+program n43 : X : takes H : integer; MN : integer array returns nothing Y, y : boolean array; i5W0a, z94, q : boolean array; q : integer array; m : boolean; e : boolean; while true and 16 <= 5 : do pZ0aa(8, 99) end end main : output "\"`" . "9`\"a" . "Nf0"; let j = - true and 3 or 84 end

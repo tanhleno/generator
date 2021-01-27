@@ -1,0 +1,1 @@
+program H : main : YR, J, m5T, bgZ, bf5 : integer array; D : integer; e3P : boolean; pop; input I4[90]; let Q[not 011 and 9 - 6 - 53] = array false + 1 - 1; while - 89800 - 7 : pop end; when case 5 = 9 : do L(2) end end

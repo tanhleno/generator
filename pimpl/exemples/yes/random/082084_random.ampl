@@ -1,0 +1,1 @@
+program gF : main : E : boolean array; A250 : integer array; a6m0a, E : integer; when case - true / 8 >= - (1) rem true : chillax end; when case - false rem false and 6 + (9) and 33 or 3 - 3 : input X6[59]; let DR[91] = 52; pop; do K(0) end end

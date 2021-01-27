@@ -1,0 +1,1 @@
+program B3Y : v : takes g8, C, v, f, j1Aa : boolean array; S3 : boolean; wy : boolean returns boolean let E5O[W + 446 - 2] = array(122) end L : takes j : boolean returns nothing while - 7 = 05 : chillax end; pop; when case 35400 : pop end otherwise : chillax end; output ""; input b end main : chillax end

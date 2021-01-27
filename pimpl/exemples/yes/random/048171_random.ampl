@@ -1,0 +1,1 @@
+program Q : Z8 : takes V : boolean returns nothing K, _83 : boolean array; d : boolean array; m, DN40a, E : boolean; chillax end main : z, i4maa : integer; output - true / false and 0 . true . - 70 /= 73800 . 095 = 19 . 98 end

@@ -1,0 +1,1 @@
+program VX : E : takes z, Y, A : boolean array returns nothing S : boolean; while - true and 48 : when case 4 : chillax end case 5 : chillax end otherwise : chillax end; output "" end end main : PZS : integer array; chillax end

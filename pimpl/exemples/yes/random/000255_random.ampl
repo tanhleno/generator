@@ -1,0 +1,1 @@
+program a : M : takes qB5, t, C, Po9, f, C, wE5, E : boolean returns integer pop 650 end W9 : takes V, Dz2 : boolean array; gp : boolean array; o : boolean returns integer array pop 5 = 019 end main : do G1r0(not l[294] and false rem not 6 < 23 + (584) and 7 or 85100, - a(0) and(1) > - (3) and 5) end

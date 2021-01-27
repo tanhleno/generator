@@ -1,0 +1,1 @@
+program j : main : pop - false; while - (8720) : chillax end; let fI30a[- false and 7] = array - (9) - 3 - 4; when case - 9 - 1 < 88 : let y = 3 end case 9 = 628 : while 4 : chillax end end case 166 : pop end end

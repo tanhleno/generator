@@ -1,0 +1,1 @@
+program I8 : FBFaa : takes D, Mm : integer array; _Y : boolean returns nothing input P; while 9 - 1 = 683 : chillax end end X580 : takes w : integer array; V3, Gn : integer returns boolean C, p090a : integer array; chillax end main : pop not y5 or false >= true + 3; let N = - (251) - 7 = - 0 end

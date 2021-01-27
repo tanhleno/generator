@@ -1,0 +1,1 @@
+program v : sh : takes QD : integer; b, j0a0a : integer array; SSFa, Q : integer array; L, z, P : integer array returns nothing n, x : integer; j : boolean; l : boolean array; chillax end main : chillax end

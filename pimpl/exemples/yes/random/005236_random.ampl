@@ -1,0 +1,1 @@
+program C_ : _ : takes d, q, z6ta, a : boolean array; Z55 : integer returns nothing chillax end main : H15 : boolean array; let h[- (6) - K(11300) and false] = - false rem true >= - false - 6 - 19600 end

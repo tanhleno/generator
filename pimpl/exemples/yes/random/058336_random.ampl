@@ -1,0 +1,1 @@
+program Nd4 : pBR : takes w : integer array returns boolean w : boolean; input Yd end N3f0 : takes Q : integer; Ea9, H : boolean returns nothing Xb7a : boolean; input j9[77 - 1]; let vE3 = 4; output "" . "^"; when case 5 : chillax end end main : do UJl0(- not 3 and(1) and not 781, - (4) or true, true < 7 - 0, 29700 /= 1, 0, 591, 4030); output(4) . ""; input O[(5)] end

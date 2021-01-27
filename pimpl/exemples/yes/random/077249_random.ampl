@@ -1,0 +1,1 @@
+program K : main : l, X300a : integer array; CG, u0, h : integer array; l, I3 : boolean; when case - false rem Fl[31] or false + (8) and 8260 - 3 - 5 : pop 3 end case - false + false = - (6) : chillax end; pop; output - 05000 . "" . 2 . 82 . "6"; do j1(6 - 59800 = 061, 50, 4, 28); pop 8 end

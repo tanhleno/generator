@@ -1,0 +1,1 @@
+program zj : y520 : takes rl1, H3, tu7aa, h4maa : boolean array; UY : integer; c : integer array; M5 : integer array returns nothing Z7, U, Q5, i2 : integer array; chillax end main : let x[- 1] = 04 >= - 20500 or 8 end

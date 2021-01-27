@@ -1,0 +1,1 @@
+program f2 : main : B, s97 : integer array; when case not true > (7) rem 11200 - not 3 and 3 : chillax end case - not false * false and 7 < - false and 2 - 73000 : pop; while 74 : pop end end otherwise : let PqB[1] = 81; do b71(360, 7); let EA = 0; let p0 = 963 end end

@@ -1,0 +1,1 @@
+program n8 : u : takes o8Q0 : integer returns nothing Q : boolean; do j8(- true and 4 + 88 > 64, 07 - 9 /= 1, 329); let sN1 = 42800 = 61 end main : output "yo!a"; do a(- r >= 87, - not 30 <= 81 - 24200, - 6 - 93) end

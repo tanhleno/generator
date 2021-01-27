@@ -1,0 +1,1 @@
+program G : S6 : takes V, B0xaa, T : integer array; y, W, q, h4 : integer array returns nothing E : boolean array; input c[true and 62 - 66 - 49]; when case 6 > 034 : chillax end case 158 = 4 : chillax end otherwise : chillax end end M51 : takes lL8, h, E, p3Q : boolean array returns nothing output 3 . 9 end main : chillax end

@@ -1,0 +1,1 @@
+program StU0 : W8 : takes PZ : integer returns nothing K : integer array; i : boolean; WQ, O, TT : boolean; c : boolean; chillax end main : input z4N; do kp4a(31 / AG and 5); let KX[- true and 2] = - 8; pop end

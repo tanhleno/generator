@@ -1,0 +1,1 @@
+program Xa : L : takes _, Up : integer; c, j1 : integer returns nothing output 79400 - 283 = 3 . 0 . "" . ""; input P0w[- 71 - 04] end C9 : takes s7, t : boolean; H : boolean array; n2_, L1, t0, Z, x2 : integer array; y, B310a, a, Rq40a : integer; mtE0, aF : boolean array; Fl, O : boolean returns nothing chillax end main : N5 : integer array; chillax end

@@ -1,0 +1,1 @@
+program w : lH : takes Z7Z, ZG, U : integer array; X : integer returns boolean do Qf(- true + 2 - 1, - 0 - 0); while - 1 - 0 <= 98500 : pop; input oX end; do wI70(4690); let n = array 75; input H end main : Q8v, it : boolean array; o, w : integer; output "\"" . - true or 88 = - 992 end

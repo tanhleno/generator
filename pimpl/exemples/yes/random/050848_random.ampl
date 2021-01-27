@@ -1,0 +1,1 @@
+program CO : M : takes i : integer; G, O : integer; UM, u : integer; r180a, M, y, D : integer returns nothing fa : boolean; T, L, Lh7, u : boolean array; Q720a, gC : boolean; output 28 - 4 > 4 . "" end main : chillax end

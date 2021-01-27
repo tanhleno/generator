@@ -1,0 +1,1 @@
+program FVwaa : v : takes x5d0, n : integer array returns nothing k3, R : integer array; chillax end c6 : takes I9Va, A, DQ5, M : integer array; M : integer returns boolean array pop; let Y[8460] = 0010; when case 7 : chillax end case 5 : chillax end end main : Yp7 : boolean; output "" end

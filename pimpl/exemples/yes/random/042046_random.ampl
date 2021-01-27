@@ -1,0 +1,1 @@
+program T : J : takes q : boolean array returns boolean do av(8 - 0); output 805 . 2 end main : when case - 0 - false * not 266 and 06 >= - 8 : let L[- 4] = array 8; do IS3a(61 = 6, 026); pop end case(110) - 48 or 4 - 2 : chillax end end

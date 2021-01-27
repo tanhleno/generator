@@ -1,0 +1,1 @@
+program Sx7 : X7 : takes M : boolean returns nothing chillax end Jafaa : takes m : boolean; F6, W8uaa : integer; z : boolean array returns nothing F : integer; k : boolean; chillax end main : pop - 3 and false and 6 or not 2 and 01 - 8 - 83600 end

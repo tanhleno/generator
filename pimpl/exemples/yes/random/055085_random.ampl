@@ -1,0 +1,1 @@
+program HE : Ip2aa : takes y : integer array; xP, Dz0a : integer array; I3V, CeF : boolean array; v, l : integer array; C0, o, J : integer returns boolean array while - (06) and 91 - 474 - 6 = - 5 : while 6 : pop end end end main : chillax end

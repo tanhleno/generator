@@ -1,0 +1,1 @@
+program Ob : t2 : takes k : integer array returns boolean pop; let U21[- 222] = 58500 = 6040; output "" . "F5"; output 4 . ""; input oxf0 end a : takes m, M, f, gb, Z, I : integer; G9M, S, T : integer array; MO : boolean array; jAMa, l8 : integer array returns nothing while 4970 - 8 : pop; output ""; pop end end main : b : boolean; chillax end

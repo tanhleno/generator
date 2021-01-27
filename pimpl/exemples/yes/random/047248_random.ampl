@@ -1,0 +1,1 @@
+program _ : L : takes D : boolean returns integer M : integer array; when case(29300) and 5 : chillax end otherwise : chillax end end main : d, b750a : integer; WT, H330, m, WP3, Enk0 : boolean array; chillax end

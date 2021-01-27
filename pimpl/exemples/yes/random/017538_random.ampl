@@ -1,0 +1,1 @@
+program S1 : l : takes G, O36 : boolean; yx, OL8a : integer array returns nothing d : integer array; s : boolean array; bC : integer; chillax end Ggaaa : takes uQ, l, Gch, y, P, kOv, zT : integer returns nothing input S82aa end main : chillax end

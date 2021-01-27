@@ -1,0 +1,1 @@
+program z : main : H, p : boolean array; o80, n85, zC : integer; WP, F8z : boolean; A, Q3 : integer; Z : integer array; t3, O : boolean; pop - true - (5) and 3 - 7; do z(- (0410) rem not 8, false and 9 + 89700 - 53 <= - 7630 - 39) end

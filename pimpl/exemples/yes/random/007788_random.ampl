@@ -1,0 +1,1 @@
+program C7 : u : takes D, P, P, p9P : integer array returns nothing s1Laa : boolean array; M, Tg : boolean; nva0a, E : integer array; T, l : boolean; w : boolean; v720 : boolean; chillax end JK : takes d : boolean array; D7Ma, Yf : integer array; u43aa : boolean returns integer chillax end main : chillax end

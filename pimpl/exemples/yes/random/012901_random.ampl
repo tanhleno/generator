@@ -1,0 +1,1 @@
+program iS40a : aC : takes F, M5, m : integer; y, t7 : boolean returns integer array X : boolean array; UGp0a, _N : integer; m2 : boolean; pop; output 1; input L0[36] end main : input K2; output "$" . ""; do x(- (4) and 3 + 09 - 4, - 0 >= 6); pop; let v = 3; while 830 : pop end; output "`\"!" end

@@ -1,0 +1,1 @@
+program L : KO : takes s : boolean; r : integer returns nothing pop; output 0 = 18 . "[" . 4; when case 121 = 1 : chillax end otherwise : pop end end main : pop - true rem not 3 and 57 <= - false and 232 - 593 end

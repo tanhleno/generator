@@ -1,0 +1,1 @@
+program HZ : jfea : takes hy1a, Bq : boolean returns nothing Z710a : integer array; when case(8) and 0 + 4 : chillax end case 6 - 80000 : chillax end case 4 = 43 : do j18a(7230); pop end otherwise : chillax end; pop 6 end main : chillax end

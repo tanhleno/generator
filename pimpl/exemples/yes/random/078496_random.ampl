@@ -1,0 +1,1 @@
+program p : main : u3 : boolean; no, wE, x, N : boolean; pop; do E(1190 rem 476 and 8 or true and 5 - 8 - 96, false and 148 = - 987 - 2); when case not 0 and 4 - 87 > 36700 - 950 : chillax end otherwise : chillax end end

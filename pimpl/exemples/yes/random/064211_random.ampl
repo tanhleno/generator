@@ -1,0 +1,1 @@
+program i8 : u : takes X5h0 : integer returns nothing oi, W, KF2, y, e : integer array; while 47 and 4 : chillax end end main : B3, _ : boolean array; T3 : boolean; g : integer; do y23aa(- 8 * d(4230) < n[9] / (4)); pop - D and 3 + 88 - 10 > - 569 end

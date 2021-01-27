@@ -1,0 +1,1 @@
+program N31 : oF7 : takes A, uk8 : boolean returns nothing do y0(- HJ and 20 or 44 <= 0 - 08, 28, 6, 16); input QT; output 6; pop end H : takes C : boolean array returns integer Gd, Zw, t_ : integer array; MMj : boolean; a : boolean; chillax end main : Xk : boolean; B4, X, x : integer array; output "" . "}" end

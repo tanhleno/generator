@@ -1,0 +1,1 @@
+program B : z : takes k31a, J3maa, G : boolean array; r7, X, C : integer array returns nothing chillax end i : takes z, P, Y710a : integer returns nothing chillax end main : J0, rS4 : integer array; do K9g(- not a8[1] > - not e, 20 - t and 99 - 9, (372) - 3, 9); input P8ha; do U(- (86800) and 2 >= 1420 - 8) end

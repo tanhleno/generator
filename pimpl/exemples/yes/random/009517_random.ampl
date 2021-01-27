@@ -1,0 +1,1 @@
+program N : G5 : takes a0, LY6aa, A45aa : boolean array; f2j0, x, ebM0a, E, P7, G : integer array; a, W : boolean array returns nothing d0, g, u, Sz40, a : boolean; do B6(- true and 2840 + 5, - 2 - 9 <= 30, 4 = 17, 0) end main : chillax end

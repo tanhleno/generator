@@ -1,0 +1,1 @@
+program G : main : q, x, b : boolean array; Vj : integer; when case true and false - true - 2 and 68 or 29 : chillax end case - true / false and 8 or(4) and 2 : output "" . "6" end; output - (4) or 98 - 8 . - 18 . ""; while not 6 and 81700 or 86400 - 9 : pop end; do GF7(2 - 00 >= 8520) end

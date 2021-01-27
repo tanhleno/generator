@@ -1,0 +1,1 @@
+program e : main : when case(9) * (615) <= true * not 7 and 4 or 1 or 7680 : pop 79900 = 2; pop; let u7 = 156 end case - (81) : output 7490 end case U < - 6 - 7 : chillax end case 04 : chillax end case 2 : chillax end otherwise : chillax end end

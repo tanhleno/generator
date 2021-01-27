@@ -1,0 +1,1 @@
+program M010a : Al : takes ygT, aA, _, X : integer array returns nothing chillax end main : E59aa, g, _ : integer array; V, D1Vaa : integer array; J, v4Z, WL, Kjr : integer array; D : integer array; when case true - false * zb : while 3350 : chillax end end case - true or true and 2 + 2 - 27900 <= false and 0 + 2680 - 61 : chillax end end

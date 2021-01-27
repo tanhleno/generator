@@ -1,0 +1,1 @@
+program h : n_8 : takes g, p5U0, Xd : boolean array; T, l, o : boolean; g1 : boolean array returns integer array pop - 6330 - 7 <= 7; input i; output ""; output ""; output "" end main : pop - true rem false + true = - (70) and 55800 end

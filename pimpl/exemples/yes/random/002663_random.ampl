@@ -1,0 +1,1 @@
+program D : I : takes x, p, m, RC, d : boolean array returns boolean chillax end main : output - (919) > - 04 . 9; do oG4(- true - bt2aa and 7200 + 4 - 414 /= - not 9, (24) and 82 or 2 > 9, - 1, 89, 3160, 698) end

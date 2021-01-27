@@ -1,0 +1,1 @@
+program uF20 : un : takes F : boolean array returns integer n10 : boolean; when case qO + 6560 - 9 : do ijMa(383, 4) end case 0 - 8 : when case 15 : chillax end end case 7 : when case 0380 : chillax end; pop end otherwise : pop; input K end; let Z[1 - 80] = 4 end m : takes AC : integer array returns integer array pop 13100 end main : Kb5 : integer array; do vY(tB[2], - false) end

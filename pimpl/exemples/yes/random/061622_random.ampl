@@ -1,0 +1,1 @@
+program QW : Z2 : takes y : integer array returns nothing while - tqb - 598 <= - 9 : chillax end; let t5 = array - 3 - 456 end y : takes OD : integer returns nothing let S[4] = 5 = 883; pop 5 end main : pop; output(549) or 04000; output "" . "8" . ""; when case - 812 - 072 : while 82 : chillax end end otherwise : chillax end end

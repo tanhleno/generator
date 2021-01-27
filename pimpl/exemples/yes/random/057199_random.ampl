@@ -1,0 +1,1 @@
+program M8 : n4 : takes t : integer array; _w : integer array returns nothing chillax end p : takes P2, Q6 : boolean array returns nothing Ce3, kPh0, L, M : integer; when case 7 - 0 <= 52 : input b; let e = 23; pop end otherwise : chillax end end IC : takes p2, lsmaa, L : integer; Y : boolean; a : boolean array returns boolean chillax end main : chillax end

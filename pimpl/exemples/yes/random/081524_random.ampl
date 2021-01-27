@@ -1,0 +1,1 @@
+program F94aa : main : S : boolean array; S600 : boolean; OX, A, z, ZD, Zj : boolean array; do D(- 2 or true or true = Z / not 5, F0 or oDEa and 5 or 3 - 7); let M360a[X2(71) / (30) and 4 + l4 and 702] = array CO[1] + 1 + 55; do s(69 and 70 = - 9) end

@@ -1,0 +1,1 @@
+program c78 : q6H : takes b, c : integer returns integer array input vR[36800 and 5] end p : takes Ga, S, HW, h7Waa : integer; kS6a : integer; K5haa : boolean; e5 : integer returns nothing s, m : integer array; chillax end main : o, DK2, Cx : boolean array; IX : boolean; SJk0a : boolean; l, R9, O, r : integer; Yc_0a : integer; i6, j : boolean; chillax end

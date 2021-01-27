@@ -1,0 +1,1 @@
+program TqQ : N58a : takes E_, g9 : boolean array returns integer iL : integer array; a3, q : boolean; mu : boolean; fIcaa, U : boolean; Y19 : boolean; f : boolean; chillax end r : takes Q9va, q : boolean array; p, Z : integer array returns integer array output 98500 = 1; while 26 : chillax end end main : A : boolean array; chillax end

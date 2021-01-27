@@ -1,0 +1,1 @@
+program Rr50a : v4 : takes S : boolean array; LI : integer array returns nothing H4, D : boolean; E12 : integer array; chillax end pl3aa : takes W, pO, H5, dtMa, fIp, FC, j25 : integer array; y800 : boolean; rY, e7 : integer; x, u, dB00a : boolean; w8 : boolean returns nothing F : integer; let o6[46 - 3] = array - 3 end main : chillax end

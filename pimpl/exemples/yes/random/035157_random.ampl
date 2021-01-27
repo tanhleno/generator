@@ -1,0 +1,1 @@
+program Q6 : j : takes V : boolean; ws, r_ : integer array returns nothing pop; when case 5 /= 6 : chillax end otherwise : while 0 : chillax end end end main : s3 : integer array; O0P0 : integer array; B, h2 : boolean array; m, w, D : integer array; output l; do V(not(37) rem(04) and 5 > - not 5 - 622 - 9, - false and 3 or 4) end

@@ -1,0 +1,1 @@
+program R : U : takes I, w, t2S, c0i : integer; a, K6 : integer array returns nothing input M1 end i6T0 : takes D, g11 : integer; n : integer array returns nothing chillax end main : do e(5 * false / 0 /= - K(35600) / (80900) and 7) end

@@ -1,0 +1,1 @@
+program f21 : Q : takes Ig7, nd, W, BH7a, o51a : integer returns nothing let Mp[- true or 268] = - 43600 - 2 end main : i : boolean array; KpD : boolean; a4, e : integer; pop - false rem 697 and 57500 - false and 43600 + 3 >= - false or 6 end

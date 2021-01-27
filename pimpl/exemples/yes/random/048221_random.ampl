@@ -1,0 +1,1 @@
+program X8Ia : DY2 : takes E : boolean returns nothing C, f2 : integer; t, pi, wRB, p1b0a : boolean; W41 : integer; do o0(6450 and 69 < - 9220 - 7350) end main : Fk : integer array; output "\"" . "\\" end

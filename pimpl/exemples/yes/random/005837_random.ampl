@@ -1,0 +1,1 @@
+program Z : h4 : takes P5, U, K, u : boolean returns boolean array PhW0 : integer; Ph : integer array; S94 : integer array; wF : boolean; chillax end y8 : takes U, d : integer returns nothing let x[361] = array - 8 - 70; input Z1 end r05 : takes N9 : boolean array; p, W, l_8aa, h, U : boolean returns boolean array do V5(7) end main : vM2aa : boolean; chillax end

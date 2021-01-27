@@ -1,0 +1,1 @@
+program D_8 : main : E : boolean; input N; input r[- 0 rem false and 01400 + not 3]; when case not 78100 : chillax end case - 12 >= 9 : chillax end case 574 : chillax end case 1 : pop end case 6 : chillax end otherwise : chillax end end

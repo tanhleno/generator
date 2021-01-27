@@ -1,0 +1,1 @@
+program tFl : h : takes Z9, Mp : integer array; a51, R : boolean; O, p2, V2, D, w : boolean array returns integer while z9 - 5 - 9 : let b[2] = array 039 end; let H[- 7070 - 51] = array 748 - 15 end main : t : boolean array; while - (14) or 7 - l29a >= not v : chillax end; output - v4 and 5 . - 77 . 5 = 2 end

@@ -1,0 +1,1 @@
+program V : main : M : integer array; gT0, s77, R, C, w5, k : integer array; while - 2 * (14) / (20) - true : chillax end; while - true and C : chillax end; while(2) and 5 : while 0 : pop end end; let h[1 - 5] = 66900; while 9 : chillax end end

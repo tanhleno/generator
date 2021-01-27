@@ -1,0 +1,1 @@
+program D : gn : takes Bh10a : boolean array returns boolean array A : boolean; d, Y : boolean array; b : boolean; i5H : boolean; do L(- 9 or 3820 - 06000, - 6, 9 = 39, 28, 8); pop 0 = 059; do R(7 = 6); do zO40(1); pop end main : chillax end

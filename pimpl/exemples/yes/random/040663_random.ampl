@@ -1,0 +1,1 @@
+program _6G0 : F2L : takes k : boolean array; t7 : integer; x2ka : boolean returns nothing output 9 < 62 . "T&" . "" . "!U" . "" end main : let G = array - false + X[5] + not 5 - 16 - 85; output "" end

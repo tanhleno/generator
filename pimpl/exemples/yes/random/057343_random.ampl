@@ -1,0 +1,1 @@
+program G : qH : takes E : integer array; TQg : integer returns boolean array input eb00a; do q(22 >= 3); output 9; when case 33 : pop end case 52 : chillax end otherwise : chillax end; do Ct2(752) end main : input S5[- false]; while true * false and 084 - not 6 : let z8t[8] = 7 end; input h[- false and 865 - 4]; pop end

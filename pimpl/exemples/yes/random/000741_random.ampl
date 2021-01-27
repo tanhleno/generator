@@ -1,0 +1,1 @@
+program g : i : takes EA, P, bN80a, Zys, H, zN, B : boolean returns boolean array chillax end D3 : takes H, _ : boolean returns nothing chillax end main : B, yA40 : integer array; f, q01a : boolean; U : boolean; M : boolean array; chillax end

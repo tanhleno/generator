@@ -1,0 +1,1 @@
+program Z : c : takes xv, r5 : integer; d, u : integer array returns nothing input GH[- a0] end main : let Gb[- true / 58 and false and 7 + not ES4 and 9 - true + 678 - 32] = array(5) - N(352) / true + false and 0300 end

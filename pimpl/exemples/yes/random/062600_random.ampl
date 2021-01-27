@@ -1,0 +1,1 @@
+program F : DO : takes f : integer returns boolean let y3jaa = - 0 - 0 /= 87; output "\t" . 1 . "g"; do W(464, 5) end main : Q, s, G14, g, Xh : boolean; TN : integer; let z = array - not _(4) or(9) and not 36 and 17; when case a(2) = - 1 and 093 : chillax end otherwise : input mma[9] end; pop; do Iu70(00 >= 8220); while 7 : chillax end; input F end

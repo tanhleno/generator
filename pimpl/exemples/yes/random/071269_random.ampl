@@ -1,0 +1,1 @@
+program Q : main : sT7, p, tk : boolean; when case(42900 = 4) : pop end case false * a and 7 < - not 0 and 25 + 7 : chillax end case false and 15 <= 4 : chillax end case - 50 : input BTb end case 41300 = 26 : output ""; pop end otherwise : output 63 . "\\" . ""; do i(2760); input i; pop; pop end end

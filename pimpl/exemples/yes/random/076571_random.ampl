@@ -1,0 +1,1 @@
+program Z3 : main : M2, l : integer; GU1 : integer array; output ""; when case - true rem true : when case 8 = 2 : let R08a = 40 end case 9 : chillax end end case 77 and 8 or 1 - 54 <= 38 - 42200 : input R; let aZJ0a = 67 end case - 2 /= 582 : output ""; while 9 : chillax end; pop end otherwise : chillax end; do C(M20 and 7 + 31 - 1); do g(03 - 2 > 4380, 06500 = 223) end

@@ -1,0 +1,1 @@
+program W9 : main : y1, G : boolean; ck6 : boolean array; when case - false : chillax end case false rem 225 and 2 = - 90000 and 8 : chillax end case 5 - 43 : output 43300; when case 4 : chillax end end; do v(- u2e[7660] + not 0 and 4 or 799); do qdN0a((0590) and 9, - 61 - 4); let KB5 = array 86 - 4; pop 3; input jo[9]; output "\n" end

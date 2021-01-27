@@ -1,0 +1,1 @@
+program J : P : takes A_80a, mnF, d : integer array returns nothing e7M0a, c : boolean array; when case - true and 01000 or 9030 : chillax end otherwise : chillax end; output "" . "" . 77 . "2" end main : eO, P : boolean; Y120a : boolean; M, a4t : integer array; h, gT : boolean; q7 : boolean array; chillax end

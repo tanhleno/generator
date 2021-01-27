@@ -1,0 +1,1 @@
+program L : o : takes Z28 : integer; Hp6a, _Se0, A : boolean returns boolean x : boolean array; V, p : integer; M : integer array; while 9 < 8 - 2 : chillax end; while - 24300 - 83 : input pP end; do d(14200 = 79, 7) end main : chillax end

@@ -1,0 +1,1 @@
+program d : v17a : takes z, Iz, n : integer; TV9, Z, pm5 : integer; P96, I : integer returns boolean array JC00a, l : boolean array; while - false and 04 <= 7 - 69 : chillax end end z : takes f : boolean returns integer IG70a, G, v8_, L2 : integer; t, U, M8 : integer array; chillax end main : do u1Ua(w[4] rem false) end

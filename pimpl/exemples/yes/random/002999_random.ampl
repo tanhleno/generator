@@ -1,0 +1,1 @@
+program V : hAyaa : takes E9J, v6, Y, P33, XZ : boolean returns nothing chillax end O : takes H : integer returns nothing pop 3 end main : when case - false and not 9 - f2f(95200) / false and 124 + Gu and 3 - 8 : let O = 78900 = 06900 end end

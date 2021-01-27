@@ -1,0 +1,1 @@
+program bo : gd : takes HiDaa, b4C, z : integer array; w, FcU : boolean array; E, STx, Dm6aa, A, v, b : integer array; H : integer returns nothing while - 7 and 9 >= 890 : pop end; let G = array 6370 - 0100 end main : V, X, gOw : boolean array; chillax end

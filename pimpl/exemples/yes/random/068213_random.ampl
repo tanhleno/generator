@@ -1,0 +1,1 @@
+program E7 : main : F, S, T, r, s, a4, Fp : integer array; T, L : integer; Xn1a : boolean; XU : boolean array; input m4[true and 3 / true and 7 + n[70]]; pop(8); let R[- false and 8 - 9600] = - 77100 - 6 = 71; do m(- 75 /= 16); input N[9]; while 540 : chillax end; when case 3 : chillax end end

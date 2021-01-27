@@ -1,0 +1,1 @@
+program z6 : rI : takes St, S : integer; P5m : integer array; I, Sh70, F, E0 : integer returns nothing T4 : integer array; output - 9 . "\\"; do x(- 5 = 5, 16, 6); do L(65300) end main : oa7 : integer array; Zx50a, b5 : integer array; c, Y810, Q, imm, ZxT0a : integer; input T[not w_(515) / not 7120 rem I and 9 - 849 rem not 655 and 6 or false or 70 - 97200] end

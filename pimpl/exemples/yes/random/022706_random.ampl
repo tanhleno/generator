@@ -1,0 +1,1 @@
+program dm : iU : takes xp50, E : boolean array returns nothing output - 0 - 7 end j : takes D : integer array returns nothing K0 : boolean array; k, V : boolean array; chillax end main : s : integer array; n, A : boolean array; C, a, t, c8 : integer array; B, K, xY : boolean array; Bj : boolean; P : boolean; pop; output "" end

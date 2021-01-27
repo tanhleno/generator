@@ -1,0 +1,1 @@
+program lAAa : k7Laa : takes _, u8t : boolean returns boolean i7, E, y8R : boolean array; A8 : integer array; chillax end sM : takes x : boolean; g, V6, d6 : boolean; e, T85a, v, O, Wp : boolean returns boolean chillax end l : takes w : boolean returns integer do FW(49, 941) end main : chillax end

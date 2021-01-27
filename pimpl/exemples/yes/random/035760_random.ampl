@@ -1,0 +1,1 @@
+program sl40 : d : takes b2 : boolean; p : boolean array; BS : boolean returns nothing K67 : integer; be, m9y : boolean array; chillax end main : input it[- (09 = 56) + 4 + true and 85]; let vMK = P and 71 or 08100 > - 6 end

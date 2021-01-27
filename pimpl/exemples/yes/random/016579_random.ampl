@@ -1,0 +1,1 @@
+program v : T2 : takes js, Ww9, DRXa : integer returns nothing pop - 0510; while - 02 > 9550 : chillax end end L : takes e, b, T400, W7s : boolean array; KB20 : boolean array returns nothing when case 6 <= 6 : input S7K0 end; while 9 = 2 : chillax end; input b[5] end main : pop end

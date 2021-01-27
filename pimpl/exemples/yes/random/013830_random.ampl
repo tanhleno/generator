@@ -1,0 +1,1 @@
+program mkS : e : takes v, q, Y : integer array; T, h6h, H : integer array; T, o : integer returns nothing when case - true and 3 + 35800 - 18 = - 4 : when case 58 : pop end end; let ZK = array 33 - 5; while 925 = 45 : chillax end end main : Q6Na : boolean; while false / (661) and not 2 : chillax end; input M3E[- true rem true or true + 97 - 0] end

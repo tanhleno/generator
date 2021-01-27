@@ -1,0 +1,1 @@
+program Tf : main : let G[- 8 - Xp * not 213 and 92] = - true and true and 588 - 6 + 33400 - 5; pop(9830) + 46 - 5 > 2 - 6; do g(not 16900 and 38 - 7 - 94 >= - 09 - 09, 25 /= 3, 9, 057); do f(- 3 - 7, 6 = 7, 19, 08); when case 147 : do jf6(2); pop end case 6 : chillax end end

@@ -1,0 +1,1 @@
+program S2A : m : takes vs9, z0Ia : boolean returns nothing chillax end Z0 : takes q : integer array returns nothing C : integer array; do njF0a(- 6 - 7) end main : e, gSa0a, s8, Phe, E : boolean; f, M : integer; Khwa : boolean array; PX : boolean; while - false / (6) * rt80 or B[3] or 8 : chillax end end

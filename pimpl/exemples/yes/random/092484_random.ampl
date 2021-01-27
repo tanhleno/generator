@@ -1,0 +1,1 @@
+program jvU : main : output false / not 19 and 5 - true . false and 437 - 7950 . "\""; do p(- false and 02 + 28 /= - Ku90 or 5, - M and 2 > 002 - 57); when case - (7) + 0 - 76200 : when case 67 : chillax end case 12 : chillax end otherwise : chillax end; let N = 44 end end

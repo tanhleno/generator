@@ -1,0 +1,1 @@
+program J9 : main : when case G < - not not 2 * not 3 : chillax end otherwise : chillax end; while - true < - d790 - 86 - 05 : chillax end; let T7[- not 4] = 574 = 99; output 08 = 8 . "" . "5" . "w"; let L[65600] = 447 end

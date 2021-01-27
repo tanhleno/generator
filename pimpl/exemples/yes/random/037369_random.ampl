@@ -1,0 +1,1 @@
+program OIYa : F4 : takes N : boolean; Z : integer returns nothing X37, J : boolean array; chillax end F : takes s : integer array; E : integer; w3C, V : boolean; c5, e3X, I : boolean returns integer chillax end main : b3, N : integer; chillax end

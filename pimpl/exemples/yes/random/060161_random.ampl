@@ -1,0 +1,1 @@
+program N50aa : a : takes _ : integer array returns nothing do E3(not 0 and 2 + 22 - 5 >= 39800, 66 > 5); let B = 4 end YR : takes qo0 : integer returns nothing H7 : integer; chillax end main : chillax end

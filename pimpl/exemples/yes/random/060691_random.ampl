@@ -1,0 +1,1 @@
+program VMs : H4 : takes YSQ : integer array returns nothing ZS : boolean; chillax end q : takes x8, C, V6 : boolean; O : integer array returns boolean do H04(- 276 > 6) end j : takes d, Eb8 : boolean array; j : boolean array returns nothing chillax end main : Q, l, mxdaa : boolean array; p1K : boolean; y : boolean; chillax end

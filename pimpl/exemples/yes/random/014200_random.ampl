@@ -1,0 +1,1 @@
+program m : P : takes TW9, Go, Wt : integer array; K : boolean; _39 : integer array returns boolean array input V; while - 1 = 040 : when case 49 : chillax end; when case 2 : chillax end end end F : takes v8T, i : boolean; _74 : boolean returns integer array chillax end main : y, V, T8, E, l_10a : integer array; chillax end

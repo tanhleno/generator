@@ -1,0 +1,1 @@
+program BdX : main : _h : boolean; D : boolean array; C : integer array; _9, i, JZ, I_ : integer array; when case not true / false : pop 1 = 76600; while 4020 = 01 : output "" end end case - 2 / lfl : chillax end case - not 5 : chillax end; let S = array - not not 84 end

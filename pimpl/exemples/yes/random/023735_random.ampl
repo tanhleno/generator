@@ -1,0 +1,1 @@
+program f2ya : d4h : takes pk, F6 : boolean returns integer q, B8 : integer array; chillax end D : takes Z9t, D_V0 : boolean array returns boolean vr9 : boolean; chillax end Z53 : takes Ts : boolean array; v, U, X : integer; IfKaa, T6, h, Y2 : boolean array returns nothing K, d6 : integer array; output 101 end main : S : boolean; chillax end

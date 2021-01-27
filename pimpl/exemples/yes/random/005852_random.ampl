@@ -1,0 +1,1 @@
+program Z : eF : takes H, D, Z, pY70 : boolean returns boolean array pop 17 end main : rE, GYia, L : integer; when case - true * 4 : input v end case - true and not 9 and 4 /= - 32 and 7 : chillax end case - true and 23 : chillax end; when case - 5 or(43800) : while 945 : chillax end end otherwise : chillax end; input f end

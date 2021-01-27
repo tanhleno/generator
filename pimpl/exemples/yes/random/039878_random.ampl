@@ -1,0 +1,1 @@
+program W : JZ1a : takes MfD0 : boolean array; cd4 : boolean array; j : boolean array; G : boolean array; u1, B, q, l : boolean array; l7, JlZ0, d : integer returns integer chillax end main : while(473 = 56) and 2 : when case 7300 - 665 : pop end case 1 : chillax end; while 2 : let j8 = 9140 end; output "8" . "" end end

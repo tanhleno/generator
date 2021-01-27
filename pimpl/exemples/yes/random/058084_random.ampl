@@ -1,0 +1,1 @@
+program VB4 : J : takes f7 : integer array returns boolean chillax end J : takes l : integer array returns nothing Xg7, USTa, J : integer array; chillax end main : input w4[- _ and not 0 and(3)]; input pa3aa; output 8 - 83800 end

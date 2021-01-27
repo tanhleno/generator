@@ -1,0 +1,1 @@
+program A : Z : takes D, Jl : integer; b : boolean; DH3, Yv : integer; xLi : integer array; Jp6, U2, B, X04 : integer returns nothing rv : boolean array; y0 : integer; chillax end main : output - (2) = true - 5190 - 5 end

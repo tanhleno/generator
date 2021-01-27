@@ -1,0 +1,1 @@
+program kH : main : d9D : integer array; E, N, OK : integer array; A : boolean array; _ : integer; while not true / a8 rem not 5 and 73 : while 9 - 164 >= 126 : chillax end; do X(4 = 51100) end; while - AS_[8] rem true and 47 : when case 9530 : do pF(1) end end end

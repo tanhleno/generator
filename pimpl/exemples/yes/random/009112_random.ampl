@@ -1,0 +1,1 @@
+program Y15 : J : takes U47, F, h_r : boolean; w : boolean array returns integer array when case - not 32 or 71 - 8 : output 14 . "38aa"; input X end otherwise : pop; output "" end; input DtTaa[- 2] end f950a : takes Il : integer returns integer array while - 97 : chillax end end main : t86a, v, l : boolean; chillax end

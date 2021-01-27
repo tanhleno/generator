@@ -1,0 +1,1 @@
+program l : x : takes _, q8, b_V, G3h0a : boolean returns boolean array a, JTa0 : integer array; u, t : boolean; let jKPaa = - 6030 > 7520 end F : takes gV : integer; M : integer; nQ1 : boolean array; Q, i, th : integer array returns nothing chillax end main : do ar20a(- (45) and 5940 / false and 28, 973 / false) end

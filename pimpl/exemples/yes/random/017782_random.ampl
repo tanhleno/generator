@@ -1,0 +1,1 @@
+program r : Y4 : takes j7, i61 : boolean; ee : boolean array; y480, d_ : integer returns integer chillax end U070a : takes t, m : boolean array returns integer H7h0 : boolean; do Wr(03, 04 = 3, 1, 85) end main : output "@30" end

@@ -1,0 +1,1 @@
+program z840 : s : takes dE, C, Gx80a : boolean array returns integer let F[- Y7 and 2 + 0 - 300] = array - true and 12 or 6; do M(1 - 8); input j7waa end main : while - 4 / false and(9) <= k(78) : chillax end end

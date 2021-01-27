@@ -1,0 +1,1 @@
+program O7 : W : takes j : integer returns integer array when case - lP and 37 : when case 6610 : chillax end otherwise : chillax end end otherwise : pop end; input R920[2 - 6]; while 3 = 0 : chillax end; while 8960 : chillax end; when case 2720 : chillax end end main : C : boolean; pop - (955); input J end

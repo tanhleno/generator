@@ -1,0 +1,1 @@
+program l : bMu : takes Z : boolean returns nothing chillax end main : W : integer array; N : boolean array; do S(uO / Fd60a(4) + false or not 99000 and 645 /= - true and 3 + 4 - 5 - 0); while - 88 rem(911) and 40 = not 1 : input BK8[0]; input l1[6840] end; pop end

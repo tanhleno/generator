@@ -1,0 +1,1 @@
+program w : BRz : takes X, F, Pv80, zL0, w5 : boolean; t : boolean array; N9Maa, c : integer array; Q1Ga, ko, t4zaa, Zu : boolean array; Bc7aa, B : integer; j, g5 : boolean array; Kh : boolean returns boolean array D : integer array; chillax end main : input Z; let K[true and(2) and 6 + (50) and 23] = array - true * true; let gr9 = 9880 end

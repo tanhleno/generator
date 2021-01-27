@@ -1,0 +1,1 @@
+program O9 : s53 : takes h : boolean; d : boolean array returns nothing input P2M[true and 8 - 5 - 0] end main : while 69 - false = false rem iY and 33 : let S = 53; input c[165] end; when case - (0) rem false > true or 2 : chillax end; output "\\;" . 3 = 33; let w[589 - 1] = array 6 - 8980; input V; input _[5]; input wL9 end

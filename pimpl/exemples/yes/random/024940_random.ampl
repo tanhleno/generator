@@ -1,0 +1,1 @@
+program r : P : takes aY80, A : integer; b, ziQ, gb9, Z, rxU, U8K : integer; yM : integer array returns nothing output "d\n!" end W31 : takes vf2 : boolean returns boolean do k(- 2 - 2 /= 3) end z : takes h32, U, j5, HF, r : integer returns boolean array t : integer; output "'1!" . 8 . ""; do W4p(3); pop end main : MP6a, o2Baa, zb5 : boolean; bC : integer; chillax end

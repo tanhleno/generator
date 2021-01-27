@@ -1,0 +1,1 @@
+program f : f : takes a : boolean array; w8 : boolean array; E, f : integer array; SP20 : integer array returns integer array hl, iM : integer; f, n040a, j : boolean array; N, Y2h0, cZ9 : boolean array; D6, b : boolean; output - 20 - 8 . "c" end r : takes E3, gmL0, x, g8Ba : boolean returns nothing _, m : boolean; Rt, B04a, MZ : integer array; chillax end main : chillax end

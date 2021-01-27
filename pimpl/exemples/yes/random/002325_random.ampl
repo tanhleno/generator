@@ -1,0 +1,1 @@
+program _j : Tx : takes x02, W74, F, E5, u6 : boolean; im : integer array; Y : boolean array returns nothing chillax end main : CT2, H8 : integer; do k(- true or true + 0 and 74200 or 0 = - false rem false + false + 5) end

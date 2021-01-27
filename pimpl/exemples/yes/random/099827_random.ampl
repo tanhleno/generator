@@ -1,0 +1,1 @@
+program R : main : while true * true / Z27 and 3 or false / true and 053 < - false / false - (8) and 594 + 10 : output 91 = 120; do d(4 = 4, 6); while 26 : chillax end; when case 779 : chillax end end end

@@ -1,0 +1,1 @@
+program o : main : B : boolean array; e : boolean array; pop(94200) <= - sw and 6; when case(9) / not 962 and 5 + 83 and 2 : while 8 : chillax end end case true and 6 + 2 = - 8 : chillax end case - 7 - 5 >= 0 : when case 8 : chillax end; while 75 : chillax end end case 89 : chillax end end

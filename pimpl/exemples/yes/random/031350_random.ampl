@@ -1,0 +1,1 @@
+program gC1 : K87 : takes oZ, h87 : integer returns boolean array T : integer; while - not 1 and 890 /= - 3 : chillax end; while 7 >= 353 : chillax end end main : output "3!a"; pop(78) and 3 or 41600 - 34; let q = - 18 - 4 > 5; input d; do V(59400 = 8) end

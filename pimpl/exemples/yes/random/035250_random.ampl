@@ -1,0 +1,1 @@
+program Fu : M9r : takes Ed5 : boolean; G, s5 : integer returns nothing chillax end main : when case(4 = 167) + false + false and 9 < f3r : chillax end case - true : chillax end case - false >= - 9 - 92 : chillax end; input oo70 end

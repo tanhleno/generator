@@ -1,0 +1,1 @@
+program QRG0 : S : takes r, u : boolean array; Oc, jH4aa, B, U : integer returns nothing E8, wq : boolean; chillax end main : p8x, ba : boolean array; when case - true rem owh0a(1) * not 50200 : chillax end otherwise : while 8 = 5 : chillax end; input r; input _W end; input GPR0 end

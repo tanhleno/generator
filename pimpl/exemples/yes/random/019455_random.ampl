@@ -1,0 +1,1 @@
+program C : U : takes H480, P : boolean array; q2, e4 : integer array; j, tJ, P : integer returns nothing chillax end main : do k9yaa(- 56 * false + false rem not 69 >= 3 and false and 0, 7); when case K6[27800] : chillax end case(5) and 83 < - 9 - 9 : chillax end; input o end

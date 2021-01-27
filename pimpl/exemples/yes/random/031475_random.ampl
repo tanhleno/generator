@@ -1,0 +1,1 @@
+program m : N04 : takes ou5, f2D0 : integer returns boolean chillax end main : Ec6 : boolean; r, x : boolean; when case - (90) <= h(19) and true : when case - 20 - 73 : chillax end case 1360 = 8 : input D8H0 end; while 937 = 0 : input e; pop end; pop; output "" end otherwise : while 1 = 8 : let i = 7 end; when case 8 : pop end; input Y7N; input r4a; pop end end

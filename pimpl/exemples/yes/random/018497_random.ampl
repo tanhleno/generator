@@ -1,0 +1,1 @@
+program C6 : QE : takes r, Z : boolean; f : integer returns boolean vq0, g, s, C, Qc : integer; chillax end main : vi : integer; tG8 : boolean array; b : integer array; ioSaa, t : integer; chillax end

@@ -1,0 +1,1 @@
+program Fs : main : pop; when case(4) + K : when case 124 = 0 : chillax end case 05000 : chillax end otherwise : pop end; output "R\\a" . "6\n"; input y end case(3) and 51700 : chillax end otherwise : chillax end; input ra end

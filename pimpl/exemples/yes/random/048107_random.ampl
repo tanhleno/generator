@@ -1,0 +1,1 @@
+program M880a : Q : takes aw4a : boolean returns nothing wk, o9k : boolean; _, M : integer array; when case true and 75 < 3 - 3 : pop; pop end case - 3 - 3 : pop; pop end case 0 : let C = 1; pop end case 08 : pop end case 50 : chillax end otherwise : chillax end end main : input A end

@@ -1,0 +1,1 @@
+program Q : Nz : takes _ : boolean array; r9 : integer; Z9D, c : integer returns nothing L : boolean array; chillax end main : let S2[- zso rem 7] = - 8 - true + 75 /= - false and 759; output "!Z" . ""; do c0haa(- (44) + 0 - 926 >= - 6, 7 - 32 >= 488) end

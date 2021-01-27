@@ -1,0 +1,1 @@
+program t : main : when case(7 = 3) * true >= (940) : when case - 6 < 19 : output "~"; input L; pop end otherwise : chillax end end case true * not 1 and 4 : chillax end case - not 2 + 59 : chillax end otherwise : chillax end; let xm = - not 10700 or 30 - 3 = - 5 - 90100; pop; input f; input I5B[2] end

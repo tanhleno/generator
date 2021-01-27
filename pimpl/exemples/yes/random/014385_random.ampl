@@ -1,0 +1,1 @@
+program c48 : ohQ0a : takes x94, J, C7o : integer array; x : integer; hp, z7, Q3ja, v : boolean array; R : integer array returns integer nX, _ : boolean array; let D8[false + 5] = array - false or 47; let ojSa[- 8 - 28] = array 026 end main : chillax end

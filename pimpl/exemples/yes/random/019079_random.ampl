@@ -1,0 +1,1 @@
+program p540a : ka : takes ST, f : boolean array; V, y, A : integer array returns nothing G, P, f : integer; J, w30 : integer; R6Yaa, _ : boolean array; let j = - 399; output 8; input RWI0 end main : k5, yE : boolean array; let v = _I - true and 474 or 4 - 9 < - 6 + 967 end

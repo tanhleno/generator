@@ -1,0 +1,1 @@
+program s : main : output id1a(4) rem(14) . - 239 . - 59 /= 58900; output "\"" . 3 - 2250 < 08100; when case not 0 = 6 : chillax end case - 145 - 15300 <= 29 : do c(3); let U = 2 end case 6 : input y end case 7 : pop end case 28100 : chillax end end

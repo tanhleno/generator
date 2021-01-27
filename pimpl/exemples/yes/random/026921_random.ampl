@@ -1,0 +1,1 @@
+program GDk0a : Vwqa : takes g, o : integer; s : integer returns integer chillax end V : takes Kz : integer; z : boolean; H : integer returns boolean array do W(- 0 - 1 <= 38, 08 = 3); let L[5] = 8; while 354 : pop end; let I1 = 9 end main : l6 : boolean; X : integer; GT9, VD, SVh0a : boolean; I : boolean; x7Waa, kA, _C : integer array; e9, J : boolean; b : boolean; chillax end

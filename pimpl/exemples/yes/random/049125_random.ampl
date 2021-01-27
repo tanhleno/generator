@@ -1,0 +1,1 @@
+program h : x : takes h : boolean returns nothing when case - 025 and 3 or 7 : let g[0] = array 398 end case - 2 - 90 : chillax end; do Nlr0(- 13 - 7) end e : takes A, x, R2 : boolean returns integer array chillax end main : h, G, h9, M : integer array; X : integer array; M : boolean array; chillax end

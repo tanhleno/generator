@@ -1,0 +1,1 @@
+program bY7 : h : takes j, c : boolean array returns integer L7zaa, U : boolean; T8 : integer array; K44aa : boolean; WK70a, ha : boolean; r : boolean; c1 : boolean; pop 6 = 909; when case - 63 : pop; when case 79 : chillax end end case 4 = 01 : let L = 98500; pop end case 2 : pop end; input u[0]; while 58 : pop end; let u = 4; let t = 23; pop end main : chillax end

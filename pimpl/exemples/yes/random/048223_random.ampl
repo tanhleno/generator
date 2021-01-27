@@ -1,0 +1,1 @@
+program _ : b7 : takes Tq : boolean returns nothing MY, Bzm : integer; S6, d, P, x : boolean array; eoc0 : integer array; U, P5 : boolean; do o(B - 4) end main : NVJa : integer; zQ : integer; J : boolean array; J : boolean array; U9t : boolean array; chillax end

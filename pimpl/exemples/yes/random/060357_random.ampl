@@ -1,0 +1,1 @@
+program b : m13aa : takes J : integer array returns nothing O, r, iy : boolean array; k, d, qR : boolean array; T7, E7 : boolean array; L : boolean; a : boolean; chillax end m : takes I, y_, yTS0a, L52, R : integer array returns boolean array pop; let j = 7; input w[47]; when case 7 : chillax end; pop; pop end main : jc5 : boolean; pop end

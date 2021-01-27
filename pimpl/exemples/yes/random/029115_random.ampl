@@ -1,0 +1,1 @@
+program kW2 : f4H : takes J4, GW : integer array; x8 : integer returns integer OXn, jxg : boolean; G0, XH, KD3, Kb : integer array; HT, _q, q : boolean; input vli end S : takes d : boolean; y, d6n, b, g3v, DG, ZY8 : integer returns nothing j4 : integer array; chillax end main : chillax end

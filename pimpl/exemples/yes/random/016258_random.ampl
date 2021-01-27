@@ -1,0 +1,1 @@
+program bD60 : yB7 : takes D, D, k40a : integer returns nothing do e(- z /= - 66); let t[8 - 2] = 6 end main : p, sW : boolean; I : integer; h4, o : boolean array; do M(true - true > - 6 / not 30 and 1, 435 + U_90a and 0 - 4 - 7 >= - not 36, - true - 2, 2 - 48 > 54700) end

@@ -1,0 +1,1 @@
+program rpoaa : q : takes N : integer returns nothing chillax end p2h : takes L8, z, wblaa : boolean; z : integer returns integer chillax end W3Gaa : takes DK_0a, w : integer array; Q : boolean; H8, Z, J9, M30a : integer array returns nothing chillax end main : B : integer; let y6 = true - 6 and 6 or 21 - 62700 = false and 989 or 696 end

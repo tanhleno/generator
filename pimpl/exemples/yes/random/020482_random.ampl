@@ -1,0 +1,1 @@
+program h7 : k : takes s, O : boolean array; U6 : integer array; b : boolean returns nothing let Vg[- true and 3 - 18 - 506] = array - U end main : z : integer; G : integer; while - (0) rem not not 4 / not 0640 : pop end; output "3-" end

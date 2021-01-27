@@ -1,0 +1,1 @@
+program d : U : takes N760a : integer array returns nothing H, m, X : boolean array; S, Gh2 : integer array; output - 970 >= 105 end main : n_80 : integer; l : boolean; NM2, w : integer; output "6@\"" . false and 70 /= 2 - 57 . ""; input EPI[- (72) rem not 04 + 4220]; when case(2) and 6 : let c65[5110] = 107 end otherwise : input u end end

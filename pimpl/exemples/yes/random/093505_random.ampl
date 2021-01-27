@@ -1,0 +1,1 @@
+program Y : main : output "\n"; when case - (949) >= not 9 and 712 : let rEXa = 5 end case - true and 68 or 7 - 047 /= 39 - 2 : chillax end otherwise : chillax end; while 73 and 73 or 11 - 64500 : do A6(28) end; let aM40a = array - 8 - 641 end

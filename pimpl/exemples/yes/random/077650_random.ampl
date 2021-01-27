@@ -1,0 +1,1 @@
+program h5 : main : p, m8 : integer array; bd1a : integer; do m(- true * not(20700) <= - s[79] * false - 97 and 2, - not false /= - not 3 and 053 + 352 - 945, false < - 8 - 67); do g21(true and(20400) and 0, - true or 40 - 063 /= - 1) end

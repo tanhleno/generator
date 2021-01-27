@@ -1,0 +1,1 @@
+program s : L : takes C8, x090a, aDIaa : boolean array; U3, D, I, m1 : boolean returns boolean b, d, rrma : integer array; g7 : integer array; Q, Ud : boolean; input a end HD : takes Y, Bd0, y : boolean; d1d, k : boolean returns boolean while - 831 : chillax end; input MW end main : G, E15, F9 : boolean; y : integer array; chillax end

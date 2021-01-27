@@ -1,0 +1,1 @@
+program KO : H : takes J : boolean array; e8 : integer array returns boolean array G8h0a : boolean array; chillax end BfA : takes TO9a : integer returns boolean chillax end T : takes bY : integer array; mG, P : boolean array; L : boolean array returns nothing v : integer; Z : boolean; D5 : boolean; let W[24] = 6160 end main : a, o, m : integer array; chillax end

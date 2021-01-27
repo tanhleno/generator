@@ -1,0 +1,1 @@
+program r : q : takes C48, Y6, c : integer array returns nothing chillax end vEo : takes h : boolean array returns integer array chillax end main : Wj : integer array; hU : boolean; let d[(5) * false rem true + true] = false < not 866; input t[- 22 / false] end

@@ -1,0 +1,1 @@
+program N : main : qd : integer array; when case - not not Yc / false >= (544) * false and 05 : when case 5 - 5 = 2700 : input B end end case false rem W : chillax end; input L6D0a; do n5(5 and 309 + 7680 = 557 - 24); while 68 - 34200 : output "g" end; pop 3 end

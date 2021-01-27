@@ -1,0 +1,1 @@
+program rd : main : C, K, O69a, g13 : boolean array; output true - i . "B{" . 84200 > 914; while - t38 * false : chillax end; while false and 4 or 6 >= - 0 : chillax end; do Rd(- 46 >= 1, 9, 490); when case 8 = 569 : input Q2; pop end otherwise : pop end end

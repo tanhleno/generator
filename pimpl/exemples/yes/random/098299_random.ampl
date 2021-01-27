@@ -1,0 +1,1 @@
+program xg : main : while - false rem 52 * 7 or true / false + 1 - 42 - 85900 >= - false : output 98 = 8; pop 3 end; input r[- not(80)]; input H9; when case - 49900 - 3 : chillax end case 33 : chillax end case 55 : pop end end

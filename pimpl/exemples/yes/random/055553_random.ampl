@@ -1,0 +1,1 @@
+program Q : nb : takes Y : integer array; v11 : boolean; q, c5 : boolean returns nothing T1 : integer; I : boolean; u : boolean array; l7 : boolean; B0Ca : boolean; pop; let i6G0a = array 6 end main : Q : integer array; gG, d, a6a, m, q, w62aa : integer array; x, Sj6aa, A, K : boolean array; chillax end

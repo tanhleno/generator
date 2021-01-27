@@ -1,0 +1,1 @@
+program P3 : main : when case 3 : chillax end case false / (906) or f5 and 56 >= true and 734 : let IH10a = 91; let jy[14] = array 057; when case 2 : chillax end; input B end case P or 8 < - 8 - 1 : chillax end otherwise : when case 430 = 64000 : chillax end end; let xSI0 = array - false and not 8 + (27) and 4 end

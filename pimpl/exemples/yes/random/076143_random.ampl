@@ -1,0 +1,1 @@
+program a4raa : main : o4raa, W5 : integer; d720, Jq20a : integer; rB, J : boolean; do b(- true and true rem(7) and 3, true > - true - 9 - 3); output "B"; output - 382 >= 19800 . "2"; pop 211 = 8; input U; while 1 : pop end end

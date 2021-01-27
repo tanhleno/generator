@@ -1,0 +1,1 @@
+program x : D : takes zC : boolean returns nothing R : boolean array; Z, p1, m6i : integer; g1Aa, Q : boolean array; M : boolean; chillax end main : N84 : boolean; do X9(true * (2) rem oOT0a - JH / true and 6 = s(47) / Q and 8760 + AJ and 53); while - false / true and 4 + 55 - 14 - 22 < - 34700 or 6 - 69 : chillax end; while e and 66 : chillax end end

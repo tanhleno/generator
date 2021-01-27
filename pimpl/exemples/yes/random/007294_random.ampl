@@ -1,0 +1,1 @@
+program C : U : takes E, ms, q, y : integer array; KG : integer array returns boolean array T, w8 : integer; Z : boolean; input I; pop; while 2 : when case 4 : chillax end; pop end; while 8 : pop end end main : o5, a62 : integer array; while(3 = 0) rem 363 : let V9 = 0400 = 7; output 26; input ZK[81] end; input m[- not false * n9 or false and 787]; input T[- true] end

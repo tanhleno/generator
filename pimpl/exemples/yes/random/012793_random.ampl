@@ -1,0 +1,1 @@
+program A : h : takes J760a, c9, a48 : integer; R, N, V8 : integer returns integer array chillax end main : H : boolean array; Sn : integer; when case(9) * L360[52200] + k3[45] : chillax end; pop; when case - W8 and 7 + 567 > 2 - 6 : chillax end case 8 - 1 : chillax end case 2 : chillax end; input St end

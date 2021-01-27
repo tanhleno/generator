@@ -1,0 +1,1 @@
+program H890 : OH : takes B, c : integer; K, n : boolean array; W, Z, n : boolean returns nothing wm : integer array; jr, j6Naa, f, I : integer array; R : integer array; chillax end main : output "" . - true >= 43 - 22 end

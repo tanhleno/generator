@@ -1,0 +1,1 @@
+program zv : d : takes gyN0 : boolean array; X : integer array; I : integer array returns nothing when case true and 137 /= 7 : pop; pop end case 2 : while 25 : chillax end; pop; pop end case 864 : chillax end case 9 : chillax end case 0 : chillax end; let Lev0a = array - 2; when case 83 = 65 : chillax end end main : do D(- true); while o[3] /= false and 5 : chillax end end

@@ -1,0 +1,1 @@
+program n : h : takes y, aDgaa : integer; U : integer returns boolean input l; input g[- 65 - 2]; pop 017 end Qq9 : takes Lh : integer; cB, XO, lQ5aa, H7Q : integer array; G, lm : boolean array; L, a, L : boolean; q4, xp1, Qy : integer array returns boolean chillax end main : chillax end

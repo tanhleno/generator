@@ -1,0 +1,1 @@
+program c : main : o : integer; when case - not(8) * HxP0a(5020) rem false - (8) rem not 60 and 5 - 1 - 28 - 3 : chillax end case - Pe9 * _ /= false and 260 : chillax end otherwise : chillax end; let R8c0 = array true rem false; input l[- true and 2390] end

@@ -1,0 +1,1 @@
+program A : y : takes S, _5 : boolean returns boolean chillax end main : k : boolean array; a4 : boolean; l, NS10a : integer array; while - false rem(2) > 1 : pop; pop 077; pop; let e = 9 end; input n0 end

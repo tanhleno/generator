@@ -1,0 +1,1 @@
+program G_ : kY : takes vW40 : integer; c : integer; K7 : boolean; sD : integer returns boolean L, S, ox8a : integer; chillax end main : output "1" . - (6) and 7 . "6l0"; do o(- false - not 5 and 5 - 39) end

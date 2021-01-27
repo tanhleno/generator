@@ -1,0 +1,1 @@
+program h : T7g : takes T, K : boolean returns integer array w, P, a8, nwna : boolean array; z : boolean array; C3N0, b2J : integer; chillax end R2s : takes G : integer array returns integer do c1(8 - 5 = 9, 0) end main : chillax end

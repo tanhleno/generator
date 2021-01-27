@@ -1,0 +1,1 @@
+program a : oCOa : takes e, b : boolean array returns integer array x6A0 : boolean array; Z : boolean; G, gn : boolean array; N3, v : boolean; output 8200 - 1 end main : while false > (4) : while - 913 : chillax end end; input p end

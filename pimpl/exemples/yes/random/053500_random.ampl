@@ -1,0 +1,1 @@
+program tM9 : z : takes G : integer array; _6N, kc, W81a, O, y : boolean; D, _, L : integer array; XX, IE, cR : integer; Dmr, xW, O, D : boolean returns boolean chillax end main : when case - not Q / (692) - true or not 12 and 0080 + 4 <= (8) * (2) and 1150 + false and 0740 - 77 : chillax end otherwise : input S[36100] end end

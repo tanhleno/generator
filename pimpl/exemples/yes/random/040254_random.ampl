@@ -1,0 +1,1 @@
+program x : N : takes K470a : boolean array; Xi : boolean returns boolean array c : integer array; do fS8(true and 5 /= - 90 - 1, - 96 - 06 = 7790, 0 = 96200); while 9 >= 4 : chillax end; output "A\""; let j[32] = 07; while 46 : chillax end; let fE5a = 2; pop end main : let C[- false] = array - W89aa[7] and 80 - true; while(69800) and(17) or z < not 180 and 3 : chillax end end

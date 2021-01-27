@@ -1,0 +1,1 @@
+program x : v : takes ac, x, e : boolean returns integer array when case - false : pop 40; input U2; let A53 = 4; pop end case - 0 - 617 >= 45 : output "5"; do I(15900) end case 229 = 4 : do b7(05300) end case 6 : chillax end; output "" . "T" . 0210 end b : takes y : integer array returns nothing L, ua : integer; chillax end main : chillax end

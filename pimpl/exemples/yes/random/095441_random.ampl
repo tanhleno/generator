@@ -1,0 +1,1 @@
+program j : main : when case(2) rem Hd[6] : when case 9 /= 2 : output ""; output "9" end case 95200 = 07400 : output "" end case 699 : chillax end end otherwise : chillax end; while L[7] > - false or 09 - 5 : let T = 94 end; input e0; do R4(- 1) end

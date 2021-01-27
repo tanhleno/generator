@@ -1,0 +1,1 @@
+program u : main : when case - false rem(86) and not 9 or 205 >= - 824 + 3000 : chillax end case - false * _ : when case 5 : chillax end; let Bc = array 5 end otherwise : while 8 = 1 : chillax end; input c9 end end

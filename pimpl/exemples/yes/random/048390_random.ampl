@@ -1,0 +1,1 @@
+program w25 : I0 : takes Z880a : boolean returns nothing Ok : boolean; r : boolean array; while not 216 or 7 - 137 : let LW2[213] = array 9460 end end P99aa : takes l : integer returns nothing g6 : boolean array; D, J57 : boolean array; Pd, b : boolean; output "\n0" . "0" . "\"1aa" . "k=" end main : p : integer; chillax end

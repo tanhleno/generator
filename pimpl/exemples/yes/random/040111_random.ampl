@@ -1,0 +1,1 @@
+program aam : j : takes h600 : boolean array; I : boolean array returns nothing chillax end P1V0 : takes p, y, e, a, v, n8, dl : boolean; Zn : integer array returns nothing C2, Y : boolean; g68, MN3a : boolean; i : boolean; chillax end main : let p[not 955 * true] = array - t(4) + true rem(987) and 8 + false and 0 or 07 - 2 end

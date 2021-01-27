@@ -1,0 +1,1 @@
+program F : k : takes j : integer; mL : boolean array; Ct : integer; p : integer array returns nothing s0 : boolean; let a[true - 567 - 34] = array not 80 and 58600 + 19100 end V : takes X7, VJF, V22, WW : boolean returns nothing chillax end main : t890a, h79 : integer; chillax end

@@ -1,0 +1,1 @@
+program o : Y : takes E5, s, t : boolean; P : integer array returns integer kk7a, O, G1r, e6, US2 : boolean; output 9 <= 30; when case - 2 <= 558 : do Km(72); while 52 : chillax end end otherwise : while 8700 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program C : a4H0a : takes G, o : integer array returns nothing K, U, M : integer array; pop - 6 < 8 end main : let LW[- false + s9(2) or true] = array(94900 = 3) and(9); do Iv0((3) / xD and 4 + (84300) and 01 + 581 - 302, - B - 2 - 2 >= 1 - 3) end

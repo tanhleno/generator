@@ -1,0 +1,1 @@
+program P13a : t0b : takes Gz : boolean returns integer L, Z7q0a, r3 : boolean array; when case K - 5 - 856 : input J[8] end end ws : takes P, bv70 : boolean returns nothing PO : boolean; input M[195] end main : B : boolean; A, R4z : boolean; I : boolean array; let qT5[- (5) / false / not 2 + 3 * g and 17 - false + 5 - 9] = - false - (4) end

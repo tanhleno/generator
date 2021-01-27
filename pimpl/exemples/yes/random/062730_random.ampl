@@ -1,0 +1,1 @@
+program n9 : IVI : takes J : integer returns integer array chillax end K7Aaa : takes m5 : boolean returns boolean array pop end main : let h[- true / not true / (30) and 9 + true rem(4)] = 3 rem 608 + (7) or 5 end

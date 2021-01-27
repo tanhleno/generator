@@ -1,0 +1,1 @@
+program t : eO : takes R, i5I, l, P14, t930 : integer array; n9Eaa : boolean; U, t, J5 : boolean returns integer output "\t" . "\n\\" . "" . "Zc" . "" end iD40 : takes V1 : integer array returns nothing UP_aa : integer array; chillax end main : chillax end

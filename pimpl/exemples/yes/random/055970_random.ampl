@@ -1,0 +1,1 @@
+program DOwaa : y85 : takes _k : integer array; vd3 : boolean array; J : integer returns integer array k6o0a : integer array; when case 2 and 6 : do g6(09, 32700) end case - 0 - 6 < 815 : while 747 : chillax end; let R = 64800; pop end end main : f6 : boolean array; Si : boolean array; c, GBA, Vn4, U61aa, Qw : boolean; hIs, M : boolean; chillax end

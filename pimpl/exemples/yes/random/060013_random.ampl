@@ -1,0 +1,1 @@
+program z1 : D : takes W : integer array returns nothing chillax end main : xldaa : boolean array; G : boolean array; O : boolean array; vZ2 : integer; y : boolean; Mj : boolean; r : boolean; pop; let tO[- (1) and false and 6] = array true; input K end

@@ -1,0 +1,1 @@
+program D3 : main : input e2j[- false rem true + false rem not 0 or not 08 and 8]; while false - tY : input p[2]; output ""; let cN = 9 end; let f5[83 - 8] = - 1 - 27; let x = array - 9 - 8; pop; output "" . ""; input cK; pop end

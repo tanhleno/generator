@@ -1,0 +1,1 @@
+program o : QM9aa : takes fo, r7, W2, A, ul, f : integer array; H1, cL, U53, m : boolean array returns nothing let m = array - (3) and 7 or 48 - 90; output 02 . "" . 97 . "" end gM : takes V : boolean array; I, t, p1l : boolean array; LF, pkX : integer; iv3a, v : boolean array returns nothing input L[2] end main : d, K6 : integer; chillax end

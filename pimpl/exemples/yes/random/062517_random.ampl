@@ -1,0 +1,1 @@
+program p : aK4a : takes AL : integer returns boolean CtI : boolean array; let B = array 02 or 18 - 9; pop 55 end main : Z, b : integer; U : boolean; h : boolean array; Y, kKRa : boolean array; output "*:0a" end

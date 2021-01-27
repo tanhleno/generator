@@ -1,0 +1,1 @@
+program v : R : takes Ae10a, F, y18, D : integer array returns nothing d, k : boolean array; _ : integer; y0 : boolean array; while false < 74 : chillax end; while - 89 < 8 : chillax end end main : _qga, T : boolean array; g : integer; input k end

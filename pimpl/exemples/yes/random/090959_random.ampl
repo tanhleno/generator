@@ -1,0 +1,1 @@
+program kmb : main : let p[- not(0) rem false * (6950) and 3 - (1) / (9) + not 9 + 8] = array false; pop not 18 and 7 or 9000 /= - 0; while - false - 2 : chillax end; when case 1 - 65 : when case 9 : chillax end end case 05 : chillax end case 3900 : pop end otherwise : input E end; input gF90a; pop 5 end

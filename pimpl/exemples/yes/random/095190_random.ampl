@@ -1,0 +1,1 @@
+program i0vaa : main : pop 226 * true or 53 or 6; when case - not false / false and 10 + (96) or 8 /= 3 : pop end case - true and 7920 : chillax end case 0 - 96 >= 8390 : chillax end case 773 = 26 : let WHm = 32; pop end case 0 : chillax end end

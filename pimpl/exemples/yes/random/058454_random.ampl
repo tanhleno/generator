@@ -1,0 +1,1 @@
+program j9 : Pl2 : takes o : integer array returns boolean input K72aa; input Y[54] end h : takes Z7, o83 : integer array returns boolean zu40a : boolean array; chillax end main : while - not f : chillax end; when case true / (7690) - false and 26 : pop 81000 end case true >= 2 - 816 : let A = array 47 end otherwise : when case 3 : pop end end end

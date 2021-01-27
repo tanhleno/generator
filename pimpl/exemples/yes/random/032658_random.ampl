@@ -1,0 +1,1 @@
+program s : YI : takes o, Gn : integer returns nothing j, L : integer; u : boolean array; chillax end main : G : integer array; while not not true * 0 and not 1 + 98 rem not 5 - false and 10 - 5 : output "" . "" . "" end end

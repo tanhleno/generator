@@ -1,0 +1,1 @@
+program n : D : takes i, m9 : boolean array; R : boolean array; sn1aa, T4, R : integer array returns boolean pop; when case - 90 : when case 5 : chillax end; output ""; pop end case 026 : chillax end case 03 : chillax end end b0 : takes J4X0, XT, w : integer array returns integer chillax end qL : takes RL : integer returns boolean chillax end main : x : integer array; chillax end

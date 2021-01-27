@@ -1,0 +1,1 @@
+program uH8a : u950a : takes Sl : integer array returns nothing chillax end main : when case - V0t0a[0] / true / false and 76 /= - at(2) / true and 2 or true and 53500 : do d(04 - 6 <= 96) end; output false and 50 end

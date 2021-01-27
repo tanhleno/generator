@@ -1,0 +1,1 @@
+program N : tlN : takes H5 : boolean array; J, f9N : boolean array returns boolean array K, P88, Y7, X, lI : integer array; chillax end main : when case true rem true : do Y(- 9, 48 = 027, 17100, 6) end case false or false > - (35) and 45 : chillax end case false + 955 /= 6 - 22 : chillax end case 9 < 5 : chillax end end

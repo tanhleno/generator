@@ -1,0 +1,1 @@
+program s : m_ : takes x, T5i, u8g : boolean array; rK, F98aa, v2X0a, U : integer array returns integer caF : integer array; q : integer array; v, g, Pj9 : integer array; k : boolean; chillax end a2 : takes F : integer array; h : integer array; i, S : boolean array returns nothing C : boolean array; chillax end main : do L1Da(- true /= - (0) or(7) and 95 or 1310 - 8) end

@@ -1,0 +1,1 @@
+program n : N : takes x, LA, zq : boolean array returns integer chillax end c9qaa : takes Hc : integer array returns nothing z : integer array; i, yf9 : boolean array; chillax end main : f : boolean; m : boolean; N1, l3, w, dguaa : integer array; n, M, E, _ : integer; input T[(3 = 8) or not 223 / F and 4200 - (073) and 98 + 2400 - 64]; output "9" . - 3510 - 6 /= 129 . "#" end

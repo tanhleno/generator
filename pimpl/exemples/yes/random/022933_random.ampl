@@ -1,0 +1,1 @@
+program OY : y : takes oGl, f : boolean returns boolean array Ag, l, L : boolean array; chillax end a : takes AV, k, J, e4t0a, VK : boolean; U89 : integer array; p : boolean; G3, lJ : boolean array returns boolean array h, sP : boolean; while 31700 - 5 : chillax end; input bLIa[15] end main : P : boolean array; let m = - not not 4 / not 72 and 4 /= ieL0 end

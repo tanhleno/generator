@@ -1,0 +1,1 @@
+program NU : _4M0 : takes CT, tQ : boolean array returns integer chillax end I5 : takes f8 : integer array returns nothing do W(8 - 7); output "0" end y : takes c280a : integer array; vv, R : boolean array; w : integer; _f6 : integer array returns nothing k8 : integer array; D, Bm : boolean; while 30 = 6 : chillax end end main : chillax end

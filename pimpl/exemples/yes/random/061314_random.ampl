@@ -1,0 +1,1 @@
+program r1 : G : takes O : integer array returns nothing let W[- (56) and 8820] = - 40; do if(1 > 66, 9 = 6, 892, 557) end Jn : takes g, O0 : boolean; N6E0a : integer; B, l500, w : integer returns nothing output 6 = 2 . "y\\" . 1 . ""; pop; pop end wX4a : takes r : integer; o, p, W : integer array; J1 : boolean returns integer do eM4aa(57 = 39); pop 9 end main : chillax end

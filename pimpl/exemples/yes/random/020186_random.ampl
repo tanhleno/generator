@@ -1,0 +1,1 @@
+program f8 : Y : takes G9ua, _w3 : boolean array; i : boolean returns nothing m7, V, Q : integer; chillax end main : VP, N, g3D, z : integer array; output true or true /= 71500 and 1 . ""; do N1(- (6), f and 4); when case true and 9 + 8 - 5 < - 0 : chillax end otherwise : chillax end; pop; input j0; while 08 : chillax end; do dS1(2) end

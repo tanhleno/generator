@@ -1,0 +1,1 @@
+program R : G : takes q, sQga, m : integer returns boolean Vq : integer array; do Y1((2) and 6 + 47 - 52, 7 - 08, 5680 = 18) end f : takes n5, q4y : integer array returns nothing chillax end main : chillax end

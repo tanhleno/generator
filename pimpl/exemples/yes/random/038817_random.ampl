@@ -1,0 +1,1 @@
+program u : Es : takes k : boolean array; R, h : boolean array returns nothing nml0a : boolean array; chillax end main : Gr : integer; E, A6J : integer; when case false and X(7) rem a5 - false rem 24 : while 8 - 34 : pop end end otherwise : output ""; input rL5; when case 88100 : chillax end; do H(54); pop end end

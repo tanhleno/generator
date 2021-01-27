@@ -1,0 +1,1 @@
+program z : main : M8, w : boolean; Z : integer; when case - not(2) / false + false and true + true + 4 <= false * 866 and 9 : output "" end otherwise : chillax end; let A[- not not 254] = - not 46600 and 3; output "S\\" . 55 = 7; let Q = array 7 end

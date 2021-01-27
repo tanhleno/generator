@@ -1,0 +1,1 @@
+program p : F : takes h : boolean returns nothing h : boolean; when case - (00) and 1 /= - 41 - 311 : let hV2 = array 2; output ""; pop; pop end; output 73 = 80; pop end main : b, bB7 : integer; F, Cj2 : integer; chillax end

@@ -1,0 +1,1 @@
+program d : TPG : takes Ts, u4 : boolean returns nothing let QnWaa = - 4 < 7 end O6haa : takes o29a : integer; I : integer array returns nothing input n; while 64 : chillax end end main : while - false >= - false * 2 and 7 : chillax end; let Y4 = array 30 end

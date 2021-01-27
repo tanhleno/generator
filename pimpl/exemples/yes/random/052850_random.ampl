@@ -1,0 +1,1 @@
+program O : is : takes W : integer; kO7 : integer array returns boolean array chillax end h : takes T01 : boolean returns nothing p, G, Dhd0a, Y4s : integer array; DV4 : boolean array; h, L : boolean; let nH = 67 = 18; input x2[7]; pop; do s(6) end main : N1, ds : integer; when case D + true and true and 07 or false : chillax end otherwise : chillax end end

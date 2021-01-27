@@ -1,0 +1,1 @@
+program Hz : m : takes GL3a, w : integer array; J : integer returns integer g380a, C, R : boolean array; e, K6E, y : integer array; T, M : boolean array; D1 : boolean; chillax end R : takes tO, B8 : integer array returns nothing chillax end W : takes R, E, _u : integer returns integer J, _ : boolean; chillax end main : input qO3; let rA[- (1)] = - tx and 58 <= - 5 end

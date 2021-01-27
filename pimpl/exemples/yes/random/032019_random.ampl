@@ -1,0 +1,1 @@
+program Bm : VM : takes S, Z : integer returns integer P1, z4, QE : boolean; chillax end main : Km8, lW : integer array; while - (4 = 533) rem o4d0a(8) / (63300) = z1 rem C : chillax end; while 9 and FM and 4 : chillax end end

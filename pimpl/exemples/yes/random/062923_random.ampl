@@ -1,0 +1,1 @@
+program iY : s77 : takes D5u0a : integer returns integer array I, a06aa : integer; LPEaa : integer array; chillax end w : takes n, h5, _79aa : boolean array returns nothing gt7a, qrg : boolean array; N, u, sHI : boolean; output "" . "3\t0a"; do ga(2); when case 57 : chillax end case 0 : chillax end otherwise : chillax end; pop; pop end main : chillax end

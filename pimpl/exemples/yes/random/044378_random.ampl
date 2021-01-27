@@ -1,0 +1,1 @@
+program ORe0a : i7 : takes P5G : boolean array returns nothing o, mn5aa : integer array; f : boolean; W, X : boolean array; n, im : boolean; s9 : boolean; chillax end main : H8, iQ, z : boolean; hf4a : integer array; W : boolean; chillax end

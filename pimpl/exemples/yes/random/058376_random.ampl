@@ -1,0 +1,1 @@
+program w9 : J : takes N1 : integer array returns boolean v : boolean array; output "?u" . 7 = 713; while 7 - 084 : chillax end; let A = array 2 end J : takes F, h, u4 : boolean returns nothing na : boolean; output "" . 1; let G = array 54; output 346 . "" end main : chillax end

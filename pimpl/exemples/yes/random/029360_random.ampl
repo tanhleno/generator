@@ -1,0 +1,1 @@
+program i : y : takes A, h83aa : integer array returns boolean array QW : boolean array; when case - not 24 and 66 or 8 - 3 = 5 : let K6[2] = array 9920 end end main : s6 : integer array; V, w7, z : integer array; output "7?" . "" . "" end

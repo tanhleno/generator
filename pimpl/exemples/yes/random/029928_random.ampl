@@ -1,0 +1,1 @@
+program LZ : N700a : takes Z82, c : integer array returns integer chillax end v7 : takes P, o6 : boolean; x8aa, p, EU : boolean array returns integer let b7[8 - 2] = array 73 - 40; output "" . 788 end E : takes yz2 : integer returns boolean chillax end A : takes s, I : boolean returns integer f : boolean; Q270 : boolean; t : boolean; chillax end main : chillax end

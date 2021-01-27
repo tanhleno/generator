@@ -1,0 +1,1 @@
+program YJ : c1 : takes x : integer array returns nothing cy, r, V, X, J99aa : boolean; e : integer array; c, T4 : integer; _V, K2Aa : boolean; do j(- false /= 028, 6, 90, 11300, 9) end main : O, r, P22, jKt0a : boolean; input w[- not R(5) * false] end

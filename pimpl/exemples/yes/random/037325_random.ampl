@@ -1,0 +1,1 @@
+program i5 : v98aa : takes Z : boolean; d : integer returns nothing chillax end main : w, ro3a : integer; o, q : boolean array; while - false / not a - false or not 09 or 35800 - 2 > f : chillax end; let E = not 13 and 0 = 3 - 4; while 9 /= - 90 - 004 : while 28500 : pop end; while 9 : chillax end end end

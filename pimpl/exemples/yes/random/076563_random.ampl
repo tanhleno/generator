@@ -1,0 +1,1 @@
+program od3a : main : i, j9f : integer; R : integer array; U : integer array; when case(2 = 3310) : chillax end otherwise : chillax end; pop - 0 and 58 <= 4; input QEb; let TC[6 - 7] = array - 5 - 18400; output "" . ""; when case 6 : chillax end case 0 : chillax end otherwise : chillax end; when case 9 : chillax end end

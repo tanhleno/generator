@@ -1,0 +1,1 @@
+program c : main : input QI2[false - 75 / 0430 + false or 9 - 2]; while C > - 9 and 26900 : let u[6] = array 35; pop; when case 6 : chillax end end; pop; input B[09 - 1]; let e[8] = 8; pop 11; while 3 : chillax end end

@@ -1,0 +1,1 @@
+program H : H : takes x9Z, p, G0X0 : integer array returns integer array J, I8F : boolean; i : integer; m, g10 : integer array; P : boolean; while - not 85 < 4 - 4500 : chillax end end m : takes b : boolean array; u, H, w : boolean array returns boolean array pop 1; do K(1); output "1"; do F(363); when case 27 : chillax end end main : p2 : boolean; chillax end

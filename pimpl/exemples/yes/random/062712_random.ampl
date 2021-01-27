@@ -1,0 +1,1 @@
+program B : FB : takes z2 : integer returns integer array chillax end b1 : takes lILa, A : integer array; x9gaa : integer array; ug7, Y : boolean; K, X : boolean array returns integer array chillax end main : _, z2 : integer array; u : boolean array; chillax end

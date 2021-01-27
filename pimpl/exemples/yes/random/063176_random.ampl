@@ -1,0 +1,1 @@
+program z54 : R : takes W : integer returns integer array while - f and 9 >= - 18 : chillax end; let jW7[- 77] = 153 = 42; input rz0 end main : while - (7 = 9) - P(981) and true - (2) + 7680 - 22 /= (19400) - true and 616 : chillax end; pop - v end

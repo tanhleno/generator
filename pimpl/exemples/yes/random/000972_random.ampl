@@ -1,0 +1,1 @@
+program K : T6 : takes P0h0, z, h, h9, K, o590a, s : integer array returns nothing D, G, K : integer array; U, AG, w : boolean array; chillax end main : pop 44 + false and 776 + 0 - 759 >= - true and 16 - 2 end

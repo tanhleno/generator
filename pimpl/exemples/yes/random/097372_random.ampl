@@ -1,0 +1,1 @@
+program S : main : when case 2 - true or not 553 and 05 : output 5 . 2 . 8 . ""; while 28 : output "1"; pop end end case - not m72aa and Z + not 2 or 1 : let k4[3] = 490; when case 23 : pop end case 02 : chillax end; input B end end

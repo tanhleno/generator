@@ -1,0 +1,1 @@
+program L : Y : takes h, nkd : integer; o : integer; Nk4 : integer array; w : boolean array; Z5 : integer returns nothing Y : boolean array; J0 : boolean; oj80a : boolean array; do w(x and 4 >= 5 - 02) end Sr6aa : takes K : boolean array; o9Z, s5 : integer returns integer pop 9 = 6; do W(0560) end main : Y, W7, k : integer array; chillax end

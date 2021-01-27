@@ -1,0 +1,1 @@
+program D : V : takes j5D0 : boolean; R, z, Gc, tH, V, iZ80a, j7maa : boolean array; f, G9, S, e23aa, v51 : boolean; k : integer returns boolean array while v <= - 4 : when case 2 : pop end otherwise : chillax end end end main : q, u : integer array; Pf, X2, J2 : boolean array; input G[not false and not(1)]; output "" . 397 - 81 > 4; input U4; let f9[- 3 - 2] = 2 = 3 end

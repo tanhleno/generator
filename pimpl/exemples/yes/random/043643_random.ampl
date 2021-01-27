@@ -1,0 +1,1 @@
+program i : E4 : takes Yg0 : boolean array returns nothing chillax end AC : takes X : integer array; z : integer returns integer chillax end main : q2 : boolean array; output "G(\"a" . - not 92 - 8 end

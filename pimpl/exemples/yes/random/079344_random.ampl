@@ -1,0 +1,1 @@
+program H : main : EQ4 : boolean; p : boolean array; G, V, K : boolean array; P : integer; when case true and false - 3 and i8 and 2 : chillax end case - false + false and 3 or 2 - 67700 : chillax end; pop s670 and 1 >= 4 end

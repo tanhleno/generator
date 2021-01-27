@@ -1,0 +1,1 @@
+program T : S : takes I, qM, r : integer; OD, Z, b5f : integer; o8 : integer returns boolean array J2 : integer; P, j : boolean array; let Sa[- not 4260] = - 99 /= 65; while - 4 - 8 : do ix(35700) end; when case 4 = 9 : chillax end otherwise : pop end; pop end o : takes sv : boolean array returns boolean array do W_(1 - 8, 01, 8140) end main : r, Z : integer array; chillax end

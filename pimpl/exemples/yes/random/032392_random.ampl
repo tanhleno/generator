@@ -1,0 +1,1 @@
+program J610 : w2 : takes VD, o : integer returns nothing chillax end main : when case - g * u / X710 < - 7 : chillax end otherwise : do d(4 = 75, 04); do l(41400, 36); when case 1 : chillax end; pop end end

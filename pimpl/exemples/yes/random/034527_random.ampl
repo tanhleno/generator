@@ -1,0 +1,1 @@
+program kfo0a : N : takes U100 : boolean; L, H2i : boolean array returns integer array let S[- O390] = array(2) - 49 - 46; while - 1 <= 9 : chillax end end q : takes m6 : boolean array; m5y : boolean; n, Q510a : boolean array returns boolean do R(- 9) end j : takes V, b : boolean array returns nothing chillax end main : chillax end

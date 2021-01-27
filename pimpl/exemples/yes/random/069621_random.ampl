@@ -1,0 +1,1 @@
+program De6 : main : f, r1, W, Q9Kaa : boolean; let h0[- not false and V] = - elK[9] and false and 539; when case - true / false - Y8 : chillax end case false and 76 = - 5 : when case 8 : chillax end case 4 : chillax end otherwise : chillax end end otherwise : let vCx[1] = array 325; input V8 end; pop - 9 < 53 end

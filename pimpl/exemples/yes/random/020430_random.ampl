@@ -1,0 +1,1 @@
+program rfA0 : l1 : takes Mi, F : boolean array; k5a0 : integer array; m7, qc : integer array returns boolean PnJ, T, s : integer array; a, xWT0a, __4 : integer array; let M9g0[- true - 2] = array - not 43600; do X(- 2 - 27, 2140 = 2) end main : J : integer array; input r[- true / true and D + (2000) + 52 or 32]; pop; output "660a" . 2 . "*" . 2 end

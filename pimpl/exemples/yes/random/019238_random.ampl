@@ -1,0 +1,1 @@
+program k : Y : takes H, F : boolean array; c6, M : boolean array; o : integer returns nothing Dv, p, cEl, s5V : boolean; let t[- not 7 and 120 + 3] = - 7 - 0 end _E : takes v90 : integer; Q : boolean array returns nothing G, F8B : integer; when case 8 - 8650 >= 8 : chillax end end main : chillax end

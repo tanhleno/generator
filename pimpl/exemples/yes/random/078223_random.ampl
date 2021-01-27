@@ -1,0 +1,1 @@
+program FaD : main : k : boolean; do g8((5 = 158) + w(376), false / 2 and 209 + not 2 and 711 + 4 = false and 18); when case - false / SrT + not 0 or 4 - 17 /= - 2 - 7 - 46 : chillax end case c or 86 - 149 : chillax end otherwise : chillax end; while 0 and 4 > 9 : pop 614 end; output "" . 4 . 4 end

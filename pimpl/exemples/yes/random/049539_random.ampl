@@ -1,0 +1,1 @@
+program O82 : A : takes S1k : integer; f, ER, Vww, pV3 : boolean array; Y5l, u : integer array; O9e, J790a, F9T0a, R : boolean array; B6, c, TLK0 : boolean returns integer do G(not 05 and 21 + 8 - 11900); do r(64 - 15 >= 964) end V : takes Z, LW : boolean; CgE, i, XgG0a, mG : boolean returns integer array chillax end main : chillax end

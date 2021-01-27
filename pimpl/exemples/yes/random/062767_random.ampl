@@ -1,0 +1,1 @@
+program C : et80 : takes I : integer returns integer array chillax end main : CPxaa, to : boolean; I : boolean array; N : integer; FH7, IRl : integer array; K : integer array; pop; let b95[- 3 and 7640 or 5 and 2] = array false + (7); output "\\" end

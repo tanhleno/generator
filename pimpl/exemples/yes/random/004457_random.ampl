@@ -1,0 +1,1 @@
+program jO8 : o : takes M, L, z, x : boolean; h, J : integer returns nothing while(903) + 17 <= 91500 - 6 : chillax end; pop 4 = 8; do a2(4); pop; do c(7); when case 0 : chillax end end n : takes x : boolean; wY80a : integer; Vw90, Yw8a : boolean array; P : integer array returns boolean array m : boolean; input W[9] end main : chillax end

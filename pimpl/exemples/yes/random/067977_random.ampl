@@ -1,0 +1,1 @@
+program Jj : main : N8, P, L_8, v, y8f0, ru, T2qaa : boolean; U7 : boolean array; aA : boolean; A340a, Dg : integer array; do oKu((465 = 8) * b7); while - L6B(3) or(48) and 65 + 6 - 6000 >= - 9890 : input Rh1[40] end; output "8D0a" . 14 = 61 . 46 . "*" end

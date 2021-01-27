@@ -1,0 +1,1 @@
+program e : f : takes U26 : boolean returns integer let WUm = array - false and 92 - 0 - 6760 end lP2a : takes o8, h1c : boolean array returns nothing NH10, n, K, w : boolean; chillax end main : chillax end

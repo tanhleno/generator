@@ -1,0 +1,1 @@
+program f33 : main : when case - false or(8) - t0 and 09300 : when case 4 = 458 : when case 766 : chillax end end otherwise : while 28 : chillax end; pop end; input r end case - not false * false and 08 + (1760) /= not 4 or 98 - 9 : while 1970 = 6 : output ""; pop end; pop; output ""; do k(74); pop end otherwise : when case 7 : pop; pop end case 77 : pop end end end

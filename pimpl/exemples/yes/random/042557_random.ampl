@@ -1,0 +1,1 @@
+program R : _CN : takes kaB : boolean array returns integer array Q430a, Qvt, Q : boolean; J : integer; chillax end main : while 8 <= Gi[56] - (00) or 2 - 08 : when case - 7 - 06800 : chillax end case 4 = 8 : when case 3590 : chillax end; pop end case 4 : chillax end otherwise : when case 699 : chillax end; pop end end; output - true and 689 or 0; while - _ : chillax end end

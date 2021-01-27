@@ -1,0 +1,1 @@
+program VRc : G : takes h, r3eaa : integer array returns nothing output "\""; let h6 = 1 = 7; do P8(42) end T : takes v, k : boolean; d2caa : integer returns nothing chillax end K2O : takes A : integer returns nothing V17 : boolean array; chillax end main : chillax end

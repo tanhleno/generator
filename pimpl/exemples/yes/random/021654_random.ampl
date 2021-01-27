@@ -1,0 +1,1 @@
+program G4 : r : takes l, B38 : boolean array returns integer j6, G : boolean array; g : boolean; chillax end main : gqJ, h : integer array; let c7[false * not true rem N and 0] = - 65 + O210a and 6 or 304 = - true and 6 + 1 - 1; do W(- true * not 3 and 27600 + not 0 <= - 9 + 4 - 77); output "^" . "\"`" . "" . "-" end

@@ -1,0 +1,1 @@
+program dMIaa : N4 : takes k, B350, _330, _, P : integer returns boolean array i3b0a : integer; C : boolean; while 9 : chillax end; input g1z[4 - 0] end L : takes QkU : boolean returns nothing aJn0 : boolean; when case - 904 - 52 : chillax end end main : Qni, Yf : boolean; chillax end

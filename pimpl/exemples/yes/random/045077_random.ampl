@@ -1,0 +1,1 @@
+program x5 : Y2 : takes ad : boolean array returns nothing output - 34 - 43500 end n : takes Hb6 : integer; Fu7 : boolean returns nothing when case - 84 - 80 : chillax end case 1 : chillax end case 30 : pop end; input q[1] end main : Y4 : boolean array; chillax end

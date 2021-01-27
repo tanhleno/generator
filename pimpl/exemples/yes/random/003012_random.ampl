@@ -1,0 +1,1 @@
+program SO6 : y : takes U, h, I, Q, PFR0a : boolean returns nothing S, j, O, K, P : boolean; m, o24, e, Z : integer array; bV, A, Q870 : boolean; w : boolean; r41aa : boolean; a8P0a : boolean; input N4; while - 32 : output "[j!" end; output "|" end main : T : integer; output - 5 rem(49) /= - true and 8 or 992 - 9 . "u8!"; pop - (169) and 7 end

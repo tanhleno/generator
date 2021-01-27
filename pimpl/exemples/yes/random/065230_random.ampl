@@ -1,0 +1,1 @@
+program J41a : fLm : takes Cqt : integer returns nothing let K = - 5 end V : takes bt : integer returns integer J, Wp, KVf : boolean array; m1_aa, y : boolean array; while 2 <= 7940 : chillax end end main : l, g, x, A : boolean array; output Z5(10) and not 8090; input T; let SP6[- false + 64] = array - 68100; output 40700 = 17 . "#" end

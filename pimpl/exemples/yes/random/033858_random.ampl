@@ -1,0 +1,1 @@
+program k6 : N : takes r : boolean; k, zuj0, F9 : boolean array returns boolean array A, A, Y, X : boolean array; c : integer array; chillax end main : input O[- U - false / false and 21]; when case - w7[0] and(1) : input h end end

@@ -1,0 +1,1 @@
+program b : F : takes CU10a : boolean returns nothing chillax end vJ : takes E, g4 : integer array returns nothing let N[95] = array 42300 - 7 end main : let p8[(8) and false * true] = (7) rem false < - true end

@@ -1,0 +1,1 @@
+program W : main : t, S84a : boolean; my5a : integer; B, F050a : integer; UX : boolean array; Q : boolean; output "o"; when case(993) and(5) : chillax end case 0 >= 80 : do U(960); let K = 17200; input AQQa; pop end case 03 - 7 : do th(24); let K = 98 end case 73 : do w(515); pop end case 2 : chillax end end

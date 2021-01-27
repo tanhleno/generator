@@ -1,0 +1,1 @@
+program tW : main : q32 : boolean; while - (4) and 19600 or(3930) <= 4 and false and 2 : chillax end; do I(655 rem 1 and 7 + 58 and 96 or 550 - 4, not 0 - 85 - 240 <= - 99 - 72, 3 < 4, 769); when case - not 7 : chillax end case 7 >= 6070 : chillax end case 393 = 26 : chillax end case 7 : chillax end case 801 : chillax end otherwise : chillax end; let U = 96800 = 19 end

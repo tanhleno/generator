@@ -1,0 +1,1 @@
+program x : n : takes tQj, yt : integer returns nothing while false : while 0 : chillax end end end n : takes a72, a84 : boolean; E, X : integer returns boolean l : boolean array; chillax end A0 : takes u, QB : boolean array returns nothing input y2 end main : Wv, Y5 : integer; r1, T : integer; v0V0a : integer; W9J0a, n9y0a : integer array; chillax end

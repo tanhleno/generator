@@ -1,0 +1,1 @@
+program Wm : X : takes v6 : boolean; b, N4, ufs0a : boolean returns boolean Q7 : integer; while - u - 19600 - 3 > - 38 : chillax end; input I; when case 5 : chillax end case 75 : pop end case 7 : chillax end; output 506 end main : chillax end

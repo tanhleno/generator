@@ -1,0 +1,1 @@
+program W : e : takes E, Hg : integer array returns nothing o : integer array; i : boolean array; pop - 997 - 2; pop 22 = 9 end CUx : takes m2, o3q : boolean returns boolean array chillax end main : Js : integer; while - 8 and false / true and 46 - true rem(19) and 3 : chillax end end

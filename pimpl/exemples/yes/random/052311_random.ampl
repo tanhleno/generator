@@ -1,0 +1,1 @@
+program O81 : U : takes j : integer; _4 : boolean returns nothing Gas : boolean array; chillax end k : takes a, w : boolean returns nothing chillax end main : N : integer array; UsG0, B : boolean array; let e790a = array - T9qaa rem 4 / not 3 end

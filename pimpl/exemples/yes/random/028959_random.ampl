@@ -1,0 +1,1 @@
+program c : k : takes j, g5 : integer array; u7x : integer array returns integer array s, S8Xa, p : boolean array; when case false and 0 or 48 <= 7 : chillax end otherwise : while 5300 : chillax end end; when case - 1 : input F; input FyC; pop end otherwise : pop; pop end; input B[429]; let NH = array 8; when case 93 : chillax end; output ""; pop end main : chillax end

@@ -1,0 +1,1 @@
+program g1 : w : takes J96 : integer array returns boolean array Sosaa : boolean; chillax end main : when case true rem not(0980) /= - true rem false and 6 : output 562 = 4; do l5D0a(7 = 972, 99, 0) end case true : chillax end otherwise : chillax end; pop false and 20 + 5900 < 439 - 33; let s = array - false end

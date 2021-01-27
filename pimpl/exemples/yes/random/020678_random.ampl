@@ -1,0 +1,1 @@
+program q : Y1 : takes T, fV : boolean array; E_ : integer returns integer array rZU0, G, h3J, LRr : integer; V, aB20 : boolean; MN : integer; chillax end main : zN : integer; while - ay[5] : let UR[- 6] = array - 4 - 0 end end

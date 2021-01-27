@@ -1,0 +1,1 @@
+program X : C : takes h, c : integer array returns boolean array while - Sz - 07 - 2 : pop; pop end; while - 9 = 22 : chillax end; output 57; do tW(14) end b93 : takes n : boolean returns boolean array S, e : integer array; chillax end main : s : integer; y : boolean; Y : boolean; chillax end

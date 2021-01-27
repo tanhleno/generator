@@ -1,0 +1,1 @@
+program C : p : takes NNY, i8x : integer; m, g, wM : integer returns nothing input PZ; pop 21 = 81; when case 4080 = 1 : pop; pop end; when case 033 : pop end end main : YO, l : integer array; V : boolean; h, J8 : boolean; chillax end

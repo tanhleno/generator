@@ -1,0 +1,1 @@
+program P1a : p5 : takes L, m : boolean array; L, j : integer returns boolean A2 : integer array; b, w, c : boolean array; when case not 8 : do x(54, 3); input m end; while - 8 >= 6 : chillax end end main : input L; do T0p(- h1u rem false + (9) and 764 > - (65) - 30 - 5) end

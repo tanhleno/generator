@@ -1,0 +1,1 @@
+program u9 : c : takes n, O9, k, Y2w, y : boolean; i : boolean; qG, Z : boolean array; Hv, i0 : boolean; f : boolean array; f : integer array; h : boolean returns nothing I, _wKaa : integer array; let Qh4 = array(9) end YE : takes d3, M, QL, EyK0a, t : boolean array returns boolean array qCb : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program l0 : o : takes Y : boolean returns nothing d470 : integer array; EU50a, i6, P, mA : boolean array; S, v8ma, _5Fa : boolean; chillax end main : i : integer array; S : boolean; input L[- true - (513) and 0 + false or 9 - 7]; output not 92; let U = array - (95); output "\n\"" . "{\\"; pop 157; input B; let tZ = 7 end

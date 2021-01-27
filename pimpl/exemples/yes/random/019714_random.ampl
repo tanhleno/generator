@@ -1,0 +1,1 @@
+program KnC0 : r : takes e, l : boolean array; LfY : boolean; jY, O : integer array returns integer array output - 42 - 2570 >= 4 . "S7" . "!"; when case 724 : pop; pop end case 0070 = 8 : chillax end case 635 : pop end case 075 : chillax end end main : chillax end

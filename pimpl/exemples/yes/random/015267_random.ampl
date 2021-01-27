@@ -1,0 +1,1 @@
+program C5 : jR : takes I, Z9, X : integer array returns nothing do _2Za(r and 56700) end V : takes mS3, WS, I9z, G, B, F : integer array; X : integer array; v : boolean returns integer array input O710; let z = 06 end main : k, tB6, Y : boolean; c4, X : boolean array; chillax end

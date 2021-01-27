@@ -1,0 +1,1 @@
+program qw8 : F : takes jd5, YF, d, t, E, d8p, vQ50, o : integer; x, Q : integer returns nothing n6, D, m : boolean; R : integer array; r2 : integer; NL00 : boolean; y : boolean; while(5) : while 75700 : chillax end; pop; while 04 : chillax end; pop end; input nx end c50 : takes h : boolean returns integer chillax end main : do no4(false / true rem U) end

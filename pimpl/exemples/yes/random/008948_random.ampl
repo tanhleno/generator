@@ -1,0 +1,1 @@
+program y : Yx : takes Q, f96, QJ0 : boolean; q05, A3G0a : integer returns nothing let d[- uT and 69] = 0 < 2; pop; do D(89) end main : output - (6) or 162 - 52600 /= - not 0 and 3 . "" . "" . 23000 = 8 . "\\3" . 31 end

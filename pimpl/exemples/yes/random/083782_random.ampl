@@ -1,0 +1,1 @@
+program O3 : main : X27a : integer; c5, r0 : integer array; j9q0, O, Ch9, V : boolean; Z0, J7, by : boolean; Y01 : boolean; SKn0 : boolean; x5 : boolean; b7 : boolean; do A5(true and 5 / not 9580, - (72) >= false and 17, not 118 or 1, - 00 - 529, 8) end

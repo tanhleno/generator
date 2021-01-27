@@ -1,0 +1,1 @@
+program z3 : main : let G[not true rem not false / u] = array true and false and not 55 and 94 or 42800 + false or 7; let Zg = array E[883] - 3 or 25 - 8; let w40[2 and 2] = 18900; output 45 = 55 end

@@ -1,0 +1,1 @@
+program i2Z : i : takes j4, fm5aa, B03a : boolean; u : integer array; a, A7 : boolean array; X4 : boolean array returns boolean array v : integer array; v7 : integer; chillax end main : mz : boolean; input i; input s3[false * true + not 36 + 526 - 7] end

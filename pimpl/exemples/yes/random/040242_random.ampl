@@ -1,0 +1,1 @@
+program i : z : takes X : boolean array; H44 : boolean returns boolean array chillax end main : eb, d4, a, f, e3 : integer; yZ, _ : integer array; IK2 : boolean array; input o[- F(109, 43) rem(8) rem U] end

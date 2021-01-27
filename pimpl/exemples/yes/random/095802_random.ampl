@@ -1,0 +1,1 @@
+program S3 : main : when case - false / false : output 0 . "*\\aa" . 5 . ">7"; pop 01 end case(8) rem(2) and 47 : chillax end case - true /= - 84 : let M[254] = 36; when case 950 : chillax end; when case 00 : chillax end end case - 8 < 011 : output "\\&0"; pop; pop end case 91 : chillax end; pop end

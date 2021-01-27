@@ -1,0 +1,1 @@
+program hk : main : when case not not W3F0a : input y; let f = array 80 end case false rem 28 and 48 : when case 4 = 8 : chillax end case 6 : pop end end case - true /= - 67 : input b[961] end case 00200 <= 8 : pop; when case 1 : chillax end end otherwise : chillax end; pop; input v[- not 9 - 16600] end

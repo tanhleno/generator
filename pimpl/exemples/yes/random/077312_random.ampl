@@ -1,0 +1,1 @@
+program aHW : main : hPd, s : integer array; l, a6g : boolean; let JMs[FaM rem false / false and 5] = array - bX; when case - not not 2 rem false : while 2120 = 60 : chillax end; input P[89] end case not 0440 + 6 : chillax end case 9600 - 55 : chillax end otherwise : chillax end; pop end

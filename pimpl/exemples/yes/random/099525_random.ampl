@@ -1,0 +1,1 @@
+program yR : main : while not not false rem true - (5) rem true : do I3(- 01000 /= 5, 1, 5, 9) end; output ")" . - 8 . "\t\"\"a" . "" . 72000; let n[- true and 600 + 05 - 27] = array - (8) and 12 end

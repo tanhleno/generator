@@ -1,0 +1,1 @@
+program o5 : n : takes DT50a, y, x : integer array; Iz0, i, r, j : boolean; c9ea : integer; Z : integer; O : integer; cT_, x, q0C0 : boolean returns nothing while - D - 25 - 5 : while 5080 : chillax end; input b2; when case 70 : chillax end; pop end end main : chillax end

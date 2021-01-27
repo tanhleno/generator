@@ -1,0 +1,1 @@
+program y : s : takes CMda, bG : boolean array returns nothing en, J, S : boolean array; chillax end l7 : takes I : boolean; x, b : boolean array returns nothing t, C2t : integer array; W48 : integer; do x(3, 9 = 0, 93) end main : I, JfA0a, S, H730, rE, X5 : boolean; L87, x8, y, d : boolean array; _ : integer array; M : integer array; f : boolean; z6, O : boolean; chillax end

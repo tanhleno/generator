@@ -1,0 +1,1 @@
+program q : main : when case(50 = 7) / true : let x500 = 6 = 2 end case not 6 rem false and 8 : when case 94 = 107 : output "" end otherwise : pop end end; when case(11) < - false and 4 : chillax end; output 792 - 4; when case 7 : when case 3 : chillax end end otherwise : chillax end; output "Y"; output "\\"; do K(065); pop end

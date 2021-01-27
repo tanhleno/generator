@@ -1,0 +1,1 @@
+program jg : p : takes h, S, U : boolean; QU00 : boolean array; R : boolean array; C, v7m, f, Yr9a : boolean; lq : boolean array; e4, J8, U : integer array returns nothing output "A" . "I"; when case 388 - 1 : chillax end otherwise : when case 2 : chillax end; pop end end main : C, _6, Ve8a : boolean array; chillax end

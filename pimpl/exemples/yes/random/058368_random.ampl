@@ -1,0 +1,1 @@
+program a : GYVaa : takes AC : integer array returns boolean I7 : boolean array; D_ : integer; input s4[- true] end main : s8 : integer array; Wc : boolean array; PU : boolean array; Ra10a, iyD, D, p : integer; t : boolean array; wP7aa : boolean; pop; when case G * 38 and 9 : input on[0]; output 08600; while 584 : chillax end end; output "x" end

@@ -1,0 +1,1 @@
+program O : o : takes b, F : boolean array; X, l : boolean array returns nothing when case - 9 and 4 : do B(30, 9) end otherwise : do h6(77); output "" end end main : P, ZD7a, b7, uX : boolean array; output "21\"a" end

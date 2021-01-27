@@ -1,0 +1,1 @@
+program k : x : takes G, y : boolean array returns nothing bL : integer array; chillax end O : takes M : integer; KE : boolean; Xez : boolean returns nothing chillax end main : jg60a : integer; d : boolean array; b : integer array; output "\"" . not 427 - 20 > 0 - 58 end

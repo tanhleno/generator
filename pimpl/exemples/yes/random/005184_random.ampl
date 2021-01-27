@@ -1,0 +1,1 @@
+program r5 : NJ : takes l0e, tGk, g0h0a, r9 : boolean array; HY : integer array; wV1 : integer array; i3fa : boolean; b, K : boolean array returns integer T : integer; chillax end main : output - not(5) or not 67 - 6 . - LJ80a > 18 . - 043 /= 51 . "" . "^1"; while not true rem 33 >= (20) and 1 + 2 : output "^" . 1 end; do z810(- Y810 and 0300 + 68900 <= - 7, - 3 - 32 /= 8) end

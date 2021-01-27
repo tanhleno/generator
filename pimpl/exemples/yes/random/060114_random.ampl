@@ -1,0 +1,1 @@
+program A : r1 : takes n96 : integer array returns nothing do J(- (1) and 6 + 3, 1840 - 45, 6560, 98200) end y : takes b : boolean array returns nothing do J(759 - 0, 17, 8, 6); do tP(24 = 86); while 9 : chillax end end main : chillax end

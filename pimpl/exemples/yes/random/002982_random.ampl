@@ -1,0 +1,1 @@
+program R6ja : qX : takes v53aa, gTF0a, B, v79, k8 : boolean returns integer while(0) > 6 - 380 : when case 2 : pop end case 6 : chillax end; when case 5 : chillax end; do ZI7(39400); pop end end main : W3 : integer; chillax end

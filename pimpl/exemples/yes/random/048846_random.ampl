@@ -1,0 +1,1 @@
+program J95 : W : takes ai30 : boolean returns nothing input Z[- false] end g : takes R2 : boolean array returns integer chillax end n : takes d720a : integer returns nothing let T = array 67 end main : pop; do ib(- not 2560 or true and 69 < true and 7 + 44, - not 31 or 8 - 89100) end

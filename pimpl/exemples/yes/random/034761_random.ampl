@@ -1,0 +1,1 @@
+program lBl : A : takes Q : boolean; N, Nzy0 : integer; JM6aa, J510a, U, _ : boolean array; R : integer; t8saa, v7 : integer; p, y : boolean returns boolean output "" . 4 end main : output ""; output - tb > 661 . - 2 = 06 . 0 = 3 . 7 end

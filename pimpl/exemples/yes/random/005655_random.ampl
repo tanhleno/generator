@@ -1,0 +1,1 @@
+program H4 : I : takes p7k0a, rB2, H4, b3 : boolean array returns nothing ic, oK : integer array; chillax end main : _ : boolean; output "Y" . - (61800) and 4 + 105 - 7650 > 58; pop - (9) + 2 - 01; while(20) /= 79 : when case 05 : chillax end otherwise : chillax end end; do Y(- 2 - 727 > 9) end

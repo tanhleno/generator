@@ -1,0 +1,1 @@
+program C3O : a : takes yj : boolean; E4T0a : integer array returns nothing while - not 5 and 29 >= 718 : output 0 end; while - 3000 >= 90400 : when case 6 : chillax end; when case 0 : chillax end end end main : chillax end

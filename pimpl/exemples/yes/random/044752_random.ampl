@@ -1,0 +1,1 @@
+program S : n2 : takes XI : boolean array returns nothing dE9 : integer; AKr0a : boolean array; l2taa : boolean array; input eDJ0a end j : takes R, Z_ : boolean array; V, t : integer returns integer when case 5 - 5 /= 6 : pop; input KCQ; pop end case 635 = 4 : let Y0 = 76100; pop end otherwise : chillax end end main : let N = - true * 26 > (93700) and 581 - 8 end

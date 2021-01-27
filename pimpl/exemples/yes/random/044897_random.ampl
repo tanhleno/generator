@@ -1,0 +1,1 @@
+program hL : OT5 : takes s : boolean array returns nothing ia : integer array; input r[0]; let t8 = array - 383; do S95(9, 32, 2) end X : takes m, B, L83aa : boolean; Z, tb3aa : integer returns integer array pop; while 30 : do D1aa(86600); pop end; do X(3); let oRi = 877 end main : let _47 = array b - true end

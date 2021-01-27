@@ -1,0 +1,1 @@
+program z1 : ap : takes Q : integer array; f9, H, J, P : integer array returns nothing a, d, fX1 : integer array; chillax end main : O9, l, e, p : boolean; syA0 : boolean; p : integer array; while false + true : chillax end; output "" end

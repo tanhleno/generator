@@ -1,0 +1,1 @@
+program d : bS9 : takes qKl0a : integer array; dg : integer array; y7Paa, U, H, T, x6 : integer returns nothing _, U, B, uAka : integer; j, Sc : integer array; E3, G, z0 : boolean; chillax end main : do i(- (6) + true < (8) and not 7, - not g >= - true and 0, - 9970 and 2 > 5) end

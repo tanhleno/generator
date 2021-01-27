@@ -1,0 +1,1 @@
+program P : main : when case - x8(4, 6) / 3 or false * not 08 > - false : chillax end; let n = array J(0); input X; when case - 3 - 91 = 0510 : do Q43(3); do k4U0a(6) end case 0 = 3 : chillax end case 76 : chillax end case 3 : chillax end; output "07" end

@@ -1,0 +1,1 @@
+program mXr : YZT : takes k0, Fh3, b1Z, p, QQ : boolean returns nothing output "[" . "" end qT : takes u, q, h : boolean array; u1, fD8, m : boolean; yJ : boolean array returns integer array a, NN : boolean; chillax end main : chillax end

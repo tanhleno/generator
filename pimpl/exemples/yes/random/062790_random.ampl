@@ -1,0 +1,1 @@
+program d : m : takes u : integer returns integer array chillax end main : d : integer array; m : boolean array; q, kW : boolean array; i : integer array; S, WW70a : integer; fJ10 : boolean; V : boolean; input ME end

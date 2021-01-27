@@ -1,0 +1,1 @@
+program z : Z2fa : takes U, d7d0 : boolean returns boolean array p, i : boolean array; r72 : boolean; do _LT((1) and 6, 684 <= 2, 93, 5); let z6V[7 - 71600] = 0 end main : e, Te : integer; r : boolean; m : integer array; U, N : boolean array; chillax end

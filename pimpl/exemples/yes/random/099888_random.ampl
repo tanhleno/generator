@@ -1,0 +1,1 @@
+program fO : main : while true : chillax end; when case not(2) : when case 2 = 12 : let T = 17; pop end otherwise : pop end end case(94) + 1280 : chillax end case - 9300 - 7 : output ""; pop end case 0740 : chillax end case 34 : pop end case 3 : chillax end end

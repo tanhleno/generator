@@ -1,0 +1,1 @@
+program Ya : _1 : takes zS2 : integer array returns nothing do n(false or 4 - 19); do m(11000 - 6, 346 = 2470, 934, 691) end Q : takes y7aa, N, _R20, U : boolean returns boolean array s : boolean array; chillax end main : input m1H0a end

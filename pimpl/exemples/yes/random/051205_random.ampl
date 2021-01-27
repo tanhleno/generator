@@ -1,0 +1,1 @@
+program P7j0a : c : takes A : integer; MP, s3 : integer returns integer array chillax end main : input dvj; when case Lv3aa / false = - not 2940 and 82 : pop end case o0 : chillax end case 2 <= 267 : input T6S; input A; pop end otherwise : chillax end end

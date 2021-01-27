@@ -1,0 +1,1 @@
+program u2 : main : F : integer array; when case v[7] + 8 = - 02 and 4 + not 530 and 8 : pop 8; pop 9; do xp(60100); output "B\t0a" end case - false > not 618 and 544 or 34 - 9 : input s[30200]; input _; input O end otherwise : chillax end end

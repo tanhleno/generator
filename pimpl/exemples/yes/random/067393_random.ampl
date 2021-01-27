@@ -1,0 +1,1 @@
+program k : main : do _(not false rem false = - x(2810) + false - 183 - 0, - U[2], 8 + 7360); pop; when case not 6 or 371 - 27 : while 2 : pop end; output "\"^!a"; pop end case 4 : chillax end case 4 = 8 : let J9i = 82 end case 7 : pop end otherwise : do H9M(6); when case 4 : chillax end; pop end; let rJ[- 5] = array - 8 end

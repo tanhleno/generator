@@ -1,0 +1,1 @@
+program N : P1 : takes S, sr6aa, w : integer; Yv7 : integer returns boolean pop; input WJ[0]; do wj90(621) end main : while true or not 634 rem false and 3 or Y or 17 > - true rem false + not 2 and 60 : input x2Ia; when case 680 = 3240 : let R = 09 end case 03 : chillax end; let u = 7 end; when case - not U + false or 39 : pop 15700; input v[81] end end

@@ -1,0 +1,1 @@
+program LB : main : let q1[(41700 = 8) and 99 + (0) / 6 or(19400) and 323 or 9] = true; input gc4aa[(547) / not 4 - true - 3 - 6]; when case - (7) and 1 - 96 : pop 5 end case - 0 - 6 /= 8 : output "'s0"; input qqi; pop end; do n(0 - 60 >= 07) end

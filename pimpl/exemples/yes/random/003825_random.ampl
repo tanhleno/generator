@@ -1,0 +1,1 @@
+program P2 : H11aa : takes zb90a, k3, X, W, K8 : integer array returns nothing do F(- true + 6 - 29 > 752) end r08 : takes O : integer returns nothing chillax end K8 : takes _W : integer array; b, D8 : integer returns integer when case 64 = 0 : when case 40 : chillax end end case 22 : pop end case 0 : chillax end; output ">" end main : h, cC : boolean array; chillax end

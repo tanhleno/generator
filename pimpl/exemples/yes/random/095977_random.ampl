@@ -1,0 +1,1 @@
+program R : main : when case - R8(60500, 20400) : while - 747 - 309 <= 1 : let aRC0 = 6 end end case 13 + 813 < 7 and 029 or 4 - 6 : while 2 : chillax end end case - not 35 and 33 = - 6 : chillax end otherwise : pop 262; when case 98 : pop end case 2 : chillax end end end

@@ -1,0 +1,1 @@
+program Dz0 : P1 : takes v : integer array; v, p55 : integer array; h, k, W : integer array returns boolean array chillax end x930a : takes B, e, m : boolean array; uG, M, R6, y3 : boolean array returns boolean chillax end main : chillax end

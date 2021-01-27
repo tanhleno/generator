@@ -1,0 +1,1 @@
+program zY1aa : y7T0 : takes Y : integer array returns nothing input eE6[- (02)] end main : t0, f : integer array; when case - true and true : pop 7 = 7430; while 3 : while 8 : chillax end; pop end; while 47 : chillax end end otherwise : chillax end; do H(- da(44) + false) end

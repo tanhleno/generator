@@ -1,0 +1,1 @@
+program m3 : h15 : takes g66, c6, Dr, v : integer; uF10, E2, P : boolean array; t, D, v1, r : integer array; qN : boolean; t, Yt, YA : boolean; Q, E, QZ40a : integer; vZ, H : boolean returns nothing d6I0a : integer; do L(- true and 4 <= 1, 22 - 461 < 4150, 75 = 9, 2); do eM80a(4 - 91); do S(7450, 65) end main : chillax end

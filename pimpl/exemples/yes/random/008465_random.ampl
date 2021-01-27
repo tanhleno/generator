@@ -1,0 +1,1 @@
+program _ : h : takes eC, Ed, J64a : boolean; f, F450, d, G0, e : boolean returns nothing fW : integer array; Yp : integer; while(1150) and 883 <= 2 : when case 4 : chillax end otherwise : chillax end; let Y = 08 end; do e78a(5) end V3d : takes f, m2, gS2 : boolean; Ai : boolean array returns boolean pop end main : chillax end

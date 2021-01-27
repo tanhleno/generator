@@ -1,0 +1,1 @@
+program dk9 : zPN0a : takes F : integer returns integer chillax end S4 : takes X : boolean returns boolean u2, a, qD1 : integer; H8, KW : boolean array; _3 : boolean; while 23 - 97 = 8170 : when case 09 : chillax end; output "250a"; pop end; while 88 : pop; pop end end main : m, C7, V : boolean array; gV, e, A9z : integer; qH, C, P220a : integer array; chillax end

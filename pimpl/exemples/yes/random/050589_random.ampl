@@ -1,0 +1,1 @@
+program ji : XOtaa : takes s : integer; t, r5 : boolean array returns integer chillax end main : NX : integer array; let Fa0[- (749)] = array - false rem 74 + false; output false and 49 - 7 >= - 93100 - 41 . "5" . "3!"; input u6 end

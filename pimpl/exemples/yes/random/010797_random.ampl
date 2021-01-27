@@ -1,0 +1,1 @@
+program A750 : L : takes QP, _, z : boolean array returns integer array chillax end main : lg, O : boolean array; K : boolean array; when case - false rem true or true and not 9 and 7 : chillax end case - false rem u and 27400 : chillax end case true > 6 - 1 : do h(92); let u = 10400; do v1(8) end otherwise : chillax end; pop; while false and 760 + 1 > 29 : chillax end end

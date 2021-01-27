@@ -1,0 +1,1 @@
+program q1 : Figa : takes OR : integer; M, P : boolean; ocm : boolean; Zh, H4C0a, w : integer; L, Z : integer returns nothing chillax end L8 : takes Sc, T : integer returns nothing m9 : integer; while 5 <= 514 : while 27 : chillax end end end main : let S080[- 4] = array e(7) + true; pop(63) and 6 end

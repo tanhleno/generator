@@ -1,0 +1,1 @@
+program a : P : takes _ : integer array; W_ : integer returns boolean input Sw end main : output "@R" . "" . "" . ""; input gr[- not(92) and false + X2]; do WN10((0) - 4 /= 7 - 91, - 31 - 570 < 81500) end

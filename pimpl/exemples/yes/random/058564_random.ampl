@@ -1,0 +1,1 @@
+program Wx80a : XIy0a : takes M8T : integer array returns boolean while false and 50400 + 10 : pop 384; input C4; when case 6 : chillax end; pop end; let o = array - 180 - 2; let f = 47; pop end Gz : takes P7d : integer array returns boolean array e, _9 : boolean array; Q260a, EB, p9 : integer; chillax end main : J : boolean array; U : integer array; chillax end

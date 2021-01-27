@@ -1,0 +1,1 @@
+program B99 : Lw : takes r : boolean returns integer output ""; pop end R9 : takes h : integer array; x : boolean array; u, s, PV3 : boolean array returns integer z, y6u0, G2, RPj : boolean array; do Gkf(358 = 81, 5); input kb[70]; output "" end main : when case - 063 : chillax end case - not E and 330 and 3 >= F06 and 8 + 5 : chillax end otherwise : chillax end end

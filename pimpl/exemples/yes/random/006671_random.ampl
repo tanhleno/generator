@@ -1,0 +1,1 @@
+program I : f9 : takes R, d6, R, U : integer; i : integer; BW, QM, u, zn : boolean array; vi, N, _ : integer returns nothing G : integer; o, Q, r060 : integer; X, I2 : integer array; chillax end main : chillax end

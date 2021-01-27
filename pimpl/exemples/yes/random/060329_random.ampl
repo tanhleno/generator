@@ -1,0 +1,1 @@
+program U290 : vv : takes Uc : integer array returns nothing QbDa, f, Oq3 : boolean; t0 : integer; R, c : boolean array; dDu0a : boolean; chillax end u : takes sl9 : boolean array returns nothing Tt60a : integer array; pop 3 end zd : takes W52a : boolean array returns boolean array A, Rq, I : integer array; j3 : boolean; chillax end main : chillax end

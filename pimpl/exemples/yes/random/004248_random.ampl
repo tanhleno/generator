@@ -1,0 +1,1 @@
+program IVD : m13 : takes zH10, o, J, G : boolean; W, N, g, J4 : integer returns nothing input PI1a end fy : takes o, P6 : boolean returns integer array when case 8 - 931 : do B(2) end otherwise : pop end end _8 : takes Kt : integer; R : boolean returns boolean g4y0a, g, D : boolean array; chillax end main : let wy = array Z / true + 122 - false or 0 - 1; input o end

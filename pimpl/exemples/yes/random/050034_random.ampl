@@ -1,0 +1,1 @@
+program X : yJ : takes A510a : integer; h, S, N : integer; u, ul : integer; p, X9, Sa : integer returns boolean array z4, e6Q : integer; x, L : boolean array; pop; when case - 7 - 15000 : when case 9 : chillax end end case 6940 = 58 : chillax end case 90 : pop end case 9480 : chillax end end main : chillax end

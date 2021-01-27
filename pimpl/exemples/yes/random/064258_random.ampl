@@ -1,0 +1,1 @@
+program v380a : IN : takes q : integer returns nothing nfG, V7, o9G, z14a : integer; let Pz = array - (940) + 6300 - 49 end main : L8_ : integer array; h9v0 : boolean; Of1 : boolean array; Z : integer; chillax end

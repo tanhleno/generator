@@ -1,0 +1,1 @@
+program V3 : un : takes s, p3ya : boolean returns boolean chillax end main : let c = - true + P8 > - (9) and 7 or 0; while - not not 7 / t : pop; when case 62 : pop end; when case 947 : chillax end end; output "" . "" . 604 . 6 end

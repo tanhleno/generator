@@ -1,0 +1,1 @@
+program lK : EC : takes Z : integer; l : integer returns nothing chillax end Z46 : takes Oc : integer array returns integer when case - 1 - 319 : while 09 : chillax end; output "p" end case 502 : chillax end otherwise : chillax end; while 6470 = 35700 : chillax end; input _ end main : chillax end

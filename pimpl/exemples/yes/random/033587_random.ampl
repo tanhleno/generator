@@ -1,0 +1,1 @@
+program M06 : y : takes qX00 : boolean; cU, IP, q8, G : boolean returns nothing j : boolean; G, E7, r : integer array; n, a : integer array; pop; when case - 3 - 7 >= 8 : while 924 : chillax end; let I = 91600 end case 49 : while 6 : chillax end; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program H : Q7L : takes TOk0 : integer; s, m, Z, J5, k0u, C : integer returns integer when case - false + 0 - 2 : when case 4 : pop end; pop; when case 67 : chillax end; pop end case - 0 - 1550 = 460 : chillax end case 7 : chillax end case 980 : pop end case 2 : chillax end end main : chillax end

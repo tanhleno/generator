@@ -1,0 +1,1 @@
+program k : main : lg : boolean array; Gt, B, El6, R, er : integer array; Z4, pg, b : boolean array; while - V(2) - not(2) rem not 16 + true /= 9 : while 58 - 1 = 066 : chillax end; when case 5 = 7 : do Mk(3) end otherwise : pop end; while 41 : pop end; input w; input j end; let cU[- (07) + true and 6] = array - 1 rem f - false or 44 - 29; input Q; pop end

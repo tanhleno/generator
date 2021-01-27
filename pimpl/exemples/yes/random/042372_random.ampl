@@ -1,0 +1,1 @@
+program M : C : takes yis : boolean array returns boolean while - false and 5 = - 9 - 2570 : chillax end end K : takes t : boolean returns integer array chillax end c : takes k, zH7, Y0 : integer; Q : integer array returns boolean output 0 . 6 end main : B, m : integer array; EA, M : boolean array; P, p : boolean array; chillax end

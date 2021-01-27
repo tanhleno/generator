@@ -1,0 +1,1 @@
+program M5t0 : f : takes _S8aa : boolean returns integer ru1, b : boolean; d9o : integer; chillax end f9 : takes v : integer array returns integer array _, H, M3X, X : integer array; input a[- 276]; when case 6 : output "" end case 11 : chillax end; pop end OV : takes i7j : integer returns nothing x : boolean; O640a, J : boolean; kJ : boolean; chillax end main : chillax end

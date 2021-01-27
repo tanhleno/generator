@@ -1,0 +1,1 @@
+program S1 : V : takes A, jr : integer array; BI5aa, B, k, n : boolean array; A : integer array; W, i, m : integer; x : boolean returns integer output 93 - 4 /= 91700 end z : takes BR1 : integer array; m7, X9ea, K : boolean array returns nothing chillax end main : T : boolean array; pop end

@@ -1,0 +1,1 @@
+program rOraa : main : do l(5 * not 93 or(495) rem(25) + 5 and 6 - 4 - 7, 13 and Z2z < - H7 and 21 - 66300 - 5); when case(987) / 39 : when case 1230 = 45 : let x = 2; pop end case 9 : chillax end otherwise : pop end end; while not 5650 and 40 or 988 : chillax end end

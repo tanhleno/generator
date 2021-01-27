@@ -1,0 +1,1 @@
+program t : l : takes Rd, pStaa, P7, qx : boolean array returns nothing output 2 - 073 > 3150 . 1; output 92000 = 4 end x : takes Kr : integer array returns nothing h9 : integer array; let IU = array - 5; input AI5; when case 9780 : pop end case 42 : chillax end otherwise : chillax end end main : C, v, tg, m : boolean; chillax end

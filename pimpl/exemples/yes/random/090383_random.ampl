@@ -1,0 +1,1 @@
+program _ : main : let AJ3a = not false * false; while(02) - true <= (7) + 586 - 01 : pop; let v = array 4; while 0 : chillax end end; while - false and 38 /= 4 - 0 : let V[5] = array 0 end; do S6(3) end

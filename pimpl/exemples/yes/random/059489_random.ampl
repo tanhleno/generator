@@ -1,0 +1,1 @@
+program G06 : gC8 : takes i2 : integer array returns integer J : integer array; input qE; input O; input T10[996] end S : takes z : integer array; k : integer array returns nothing chillax end main : F69, G7 : boolean array; S, vs, hY3, M, b : boolean array; chillax end

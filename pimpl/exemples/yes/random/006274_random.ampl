@@ -1,0 +1,1 @@
+program C : D97 : takes F, FT2a, L, Pv : boolean returns nothing pop end _29a : takes t4 : integer returns nothing when case 0 - 21 <= 896 : chillax end end main : Li, x : boolean array; pop(318) * (7) and 7 /= - false and 285 - 87 end

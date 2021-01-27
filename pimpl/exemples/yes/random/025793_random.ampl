@@ -1,0 +1,1 @@
+program S : W50aa : takes s, m : integer; C370a, L : integer array; TDwa, i1 : boolean returns nothing when case 6 and 6 + 37 <= 95 : chillax end otherwise : chillax end end main : E, a2, Dd0 : boolean; chillax end

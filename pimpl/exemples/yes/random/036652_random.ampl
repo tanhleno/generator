@@ -1,0 +1,1 @@
+program TD : C : takes QI : boolean; PbH : integer array; o, e, DM, b : boolean array returns boolean array chillax end main : AM5aa : boolean array; t, B, v, f : integer; do K7(- true, - true /= (3) and 2 - 42 - 78, 35 + 798 - 19, - 9, 0 = 386) end

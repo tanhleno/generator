@@ -1,0 +1,1 @@
+program nz : du : takes i, Y : boolean returns nothing when case not 0 and 9 : do x(369, 9) end end x : takes qq, w : boolean array; J7S, o, pD, W, i : integer array; G92 : integer returns boolean chillax end k : takes w : boolean returns integer array nc8a, a44aa : boolean array; v67, Ffg : boolean; U : boolean; tL : boolean; pop; input eaOa[5880] end main : chillax end

@@ -1,0 +1,1 @@
+program n9 : O : takes n9 : integer array; i0 : integer; d : integer returns nothing g : integer; output 2; input pn0[- 5 - 6]; output "" . "m"; input N; while 12 : chillax end end W : takes v : integer returns nothing while - 4 - 4 : when case 91400 : chillax end end end main : chillax end

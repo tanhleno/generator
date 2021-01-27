@@ -1,0 +1,1 @@
+program c : a : takes d8_0a : integer array; S9 : boolean array returns boolean i : integer; input h; input jUX[- 89]; input o end A1Na : takes VJ : integer returns nothing chillax end J : takes w : boolean array returns integer p, ak6aa : boolean array; let jX[3] = array 5; output 0 end main : chillax end

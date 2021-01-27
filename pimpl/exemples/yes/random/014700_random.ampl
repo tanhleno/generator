@@ -1,0 +1,1 @@
+program p8 : C : takes eV9a, k9, v : integer array returns boolean array u, cR : integer; output - 52 . "\t\\!" end main : h2, sY, Jm1, V040a, b : integer array; let rAjaa[70] = array(021) rem not false or true and b and 4 + 68 and 5 end

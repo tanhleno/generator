@@ -1,0 +1,1 @@
+program iY : TRK : takes Vb_ : integer; CC, q : boolean array; M0gaa : integer returns boolean array Y8Ca, I, h : boolean; while false > 43600 - 3 : chillax end end zo4 : takes i : integer array returns nothing chillax end main : pZ6, K : integer; pop 7 > - 0 and 050 end

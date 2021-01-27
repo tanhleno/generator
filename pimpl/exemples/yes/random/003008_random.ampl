@@ -1,0 +1,1 @@
+program A7m : i8 : takes z, vzOaa, R0, C800, J : boolean returns nothing chillax end main : J : integer array; M : boolean array; e, Un : boolean; e77 : boolean array; f : boolean; t : boolean; s : boolean; i : boolean; chillax end

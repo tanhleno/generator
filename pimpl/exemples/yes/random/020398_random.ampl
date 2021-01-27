@@ -1,0 +1,1 @@
+program S : H8X0a : takes z, pj : boolean array; K1 : integer array; __, V, l : integer; h62, Up9 : boolean array; n, x3 : boolean; f, A33, C : integer array returns integer array YQn0 : boolean; pop - 61400 end main : M : boolean array; B_, n, C12a : boolean; W, Q, Y, r, B : integer array; input Y[- false] end

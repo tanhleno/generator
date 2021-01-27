@@ -1,0 +1,1 @@
+program VGR : gu70a : takes n : boolean returns boolean y2, zn20, VD, p, f : boolean; HN : boolean array; pop end J : takes _Y1 : integer array returns boolean input n9; do ZO(7 = 2); let IK[0660] = 6 end I : takes C : integer returns nothing chillax end main : chillax end

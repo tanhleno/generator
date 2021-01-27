@@ -1,0 +1,1 @@
+program c : x : takes O : integer array returns nothing input N[- Qo and 97 - 60200 - 5] end G : takes v, H490, mV5aa, wP3aa : integer array returns integer array l : integer; when case 2 : while 8 : chillax end end case 47 = 3 : chillax end otherwise : when case 3 : chillax end end end main : pop; while - h and(265) : chillax end end

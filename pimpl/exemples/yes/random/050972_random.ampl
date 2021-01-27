@@ -1,0 +1,1 @@
+program boo0a : n : takes L : integer; g5, v61 : integer array; s99, l : boolean; M, A0 : boolean array; i, X : integer array; A, O : integer; P : boolean; z : boolean returns integer S7xaa : integer array; chillax end main : output "\\"; output "\n" end

@@ -1,0 +1,1 @@
+program t : main : m31aa : integer; sl : integer; K : integer array; output "\""; output - false and 9 <= - 8; when case - true > 769 - 21 : pop 0000 end case - 1 - 2 : chillax end case 682 = 00 : pop end case 4 : chillax end end

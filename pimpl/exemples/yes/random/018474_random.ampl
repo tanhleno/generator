@@ -1,0 +1,1 @@
+program E : T5 : takes K, g : boolean; ELja : integer array returns nothing when case - 252 = - 45 : pop end case 72 - 6 = 29 : pop; pop; pop end case 3 : when case 75 : chillax end; pop end case 7 : pop end otherwise : chillax end end u : takes SSR0a, b3, J : integer array returns boolean pop; output "" end main : pop end

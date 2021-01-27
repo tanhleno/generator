@@ -1,0 +1,1 @@
+program L : _ : takes K : integer returns boolean array e : boolean array; do m((08) and 9140 + 5, 7 >= 5, 923 = 18) end P7 : takes a, N, x : integer returns boolean H : integer array; K6 : integer; x1S : boolean; input Y[2 - 3] end main : chillax end

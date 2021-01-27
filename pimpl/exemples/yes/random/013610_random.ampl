@@ -1,0 +1,1 @@
+program ZMXa : r21a : takes c, e, j0 : integer; V1 : integer returns nothing while not 0720 >= - 4 - 5 : let k[5] = array 94 end end main : d58aa, W1T0, A0 : boolean array; output "" . "U" . 3 . "/_" . "\n"; pop not 523 and 9 <= - 3 - 0; pop - 241 end

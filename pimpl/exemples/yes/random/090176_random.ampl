@@ -1,0 +1,1 @@
+program A : main : let W2 = array not 9 / 8 rem true and 8; do T5(not W + e and 48 or 0 - 6 < - 7); let R0 = array true and 3; while - 2 < 8 : chillax end; when case 9 : chillax end case 2 : chillax end end

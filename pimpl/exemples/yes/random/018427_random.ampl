@@ -1,0 +1,1 @@
+program m : s7 : takes x, E3 : boolean; N : integer array returns nothing chillax end main : let xQu0 = array 417 - 0610 and(9); output(9) . "" . ""; pop; input Q51[- 03000 - 9]; while 5 : pop end end

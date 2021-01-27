@@ -1,0 +1,1 @@
+program Wg : o : takes LI, c, vZ, J, C : boolean returns nothing while true and 6 <= 0 : chillax end; pop end main : let d1[true - N1 - not 2 and 27300] = array - true; when case false / not 77 : pop 5 end otherwise : chillax end; do q(- (4) and 66 < 55 - 33) end

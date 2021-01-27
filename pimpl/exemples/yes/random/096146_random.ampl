@@ -1,0 +1,1 @@
+program w5_ : main : when case - not(2) + not B * false and 72 + false <= - not 2 : when case - 9 - 46 : chillax end case 1 = 6810 : chillax end case 3790 : chillax end otherwise : while 706 : chillax end end end otherwise : chillax end; when case 7 = false and 8 : let g[4] = 5; while 26 : pop end end case 7 and 88 + 26 < 3 - 1 : output 6 . "" end; do LO4aa((80) or 31) end

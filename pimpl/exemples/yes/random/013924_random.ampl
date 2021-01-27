@@ -1,0 +1,1 @@
+program C : w : takes m, y69, Y : integer array; M, TF : boolean array; g57 : integer array returns integer array N, c : boolean; f : integer; while - (25600) and 8 - 3 - 7680 : let _[6] = array 054; do _3o(0); input _ end; let FT3[- 5270] = array - 4 - 76; input v[2]; output 6 end main : g61 : integer array; chillax end

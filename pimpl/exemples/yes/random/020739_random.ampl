@@ -1,0 +1,1 @@
+program P : A920 : takes I, F : boolean array; E : integer returns nothing j : integer; do P(- false and 71, - 2 - 5) end tj : takes Vo : integer returns nothing chillax end main : h, D : boolean array; Z, xN : boolean; G : integer; uZ8 : integer; chillax end

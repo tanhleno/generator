@@ -1,0 +1,1 @@
+program e : z : takes Q5, j, l, q : integer array returns nothing Q3A : integer; pop 7; when case 0 - 9 <= 5 : chillax end case 83000 = 1 : input b end case 6 : chillax end otherwise : chillax end; output 33 . "i,0a" . ""; input P[97]; do xy(46); while 36300 : chillax end end main : chillax end

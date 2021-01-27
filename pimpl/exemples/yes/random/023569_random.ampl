@@ -1,0 +1,1 @@
+program yf : _ : takes O, u8Iaa : boolean returns integer array H : integer array; pop; when case 12 : chillax end case 55 : do H60(30100); pop end case 0 : pop end; do M(10900 = 0) end main : pop end

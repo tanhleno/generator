@@ -1,0 +1,1 @@
+program l : kIQaa : takes G, T : boolean array; Xs0 : integer returns integer array chillax end cXx0a : takes v0W, W : integer returns nothing IQ5, lf, Fg, Ap0a : integer array; do r(6 - 7 = 5) end main : J, o2 : integer; t73aa : integer; s : boolean array; chillax end

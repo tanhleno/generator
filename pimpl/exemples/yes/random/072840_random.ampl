@@ -1,0 +1,1 @@
+program v : main : dk, c, C : integer array; Z, R3 : integer array; O3A : integer array; z28aa : integer; l, TB7, Ib : boolean; while(3) or N and(06) and 9 - true and 811 - 7 = (6) * true and 852 or 0 and 249 + 5 - 2 : chillax end end

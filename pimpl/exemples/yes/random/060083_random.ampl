@@ -1,0 +1,1 @@
+program C6 : OBl : takes i0 : integer array returns nothing chillax end main : pop false and false and 5 >= - false and 12 + 38 - 8; when case - 9 * not 06 : chillax end case(69) and 9 > 3 - 45 : chillax end; do C(true and 991 < - 772 - 2); pop; input vd; input As7 end

@@ -1,0 +1,1 @@
+program C : main : do M(- (2) < - true, - false - (40500) and 4 - 5, - true and 702 + 2); when case - false / oT and 18 <= 6 : chillax end case not 939 or 253 - 6 = - 627 - 95 : chillax end case - 06 - 6 < 2 : chillax end case 3 = 48 : do SBb0a(39000); pop end; do px(- P /= - 424 - 39, 5, 04, 6) end

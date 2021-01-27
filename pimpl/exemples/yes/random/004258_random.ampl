@@ -1,0 +1,1 @@
+program m : k : takes U, m, Oy4, T5 : boolean; vV, D, x56 : boolean array; o, g : boolean array; d0A : integer array; n : integer returns integer array chillax end G7 : takes L42, h5 : integer array returns nothing while 338 - 9 : chillax end; do D6(96, 15, 312); pop end main : chillax end

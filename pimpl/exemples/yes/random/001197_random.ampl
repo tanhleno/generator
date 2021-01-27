@@ -1,0 +1,1 @@
+program OB : S : takes Y, _c, t, X, K, z : boolean; e36 : integer array returns integer Zue : boolean array; chillax end k : takes w, Sv, gn : integer array; b, h, mAC : boolean array; o, _, I6w : boolean; Xt, I : boolean array; i, jdra, r : boolean array returns nothing Go : boolean array; E41 : boolean array; let T[39] = 7 end main : input O07a[6 + 7 / (9) and 4 + 774 + 44] end

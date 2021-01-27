@@ -1,0 +1,1 @@
+program V8paa : main : when case - M[2] and true / (86) or 6 + 73 and 9 < - V(4) and(43) + not 1 and 35 : chillax end case not 3 or B and 1 + 43 - 1 <= S + 6000 - 41500 : chillax end case - false or 4 - 01 <= - 78 - 19 : chillax end case - 980 - 4 : let I2y0a = 26 end case 5 = 30 : input u; pop end case 7 : chillax end; input _J4; input eV[(8000) - 1] end

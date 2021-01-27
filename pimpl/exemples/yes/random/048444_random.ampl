@@ -1,0 +1,1 @@
+program t : l : takes x : boolean returns nothing B86 : boolean array; chillax end ep : takes L, XYia : boolean returns nothing t, M, E, i : boolean array; s : integer array; h, l : boolean; Q9 : boolean; GAV : boolean; output 9 . ""; input Wq; input a; let w = 6; while 3 : chillax end end main : lJO, Rd3 : integer; chillax end

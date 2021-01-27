@@ -1,0 +1,1 @@
+program P : oT8a : takes x, t, z, r : boolean array returns integer array Mzt, B, hm : boolean array; O4T0a, T950a : integer; WT : boolean array; H : boolean; fDM : boolean; K : boolean; chillax end main : LoSaa : boolean array; chillax end

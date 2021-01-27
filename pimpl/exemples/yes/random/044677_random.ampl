@@ -1,0 +1,1 @@
+program K060a : N : takes z5d : boolean array returns nothing g : integer; chillax end M2g : takes F : integer returns nothing a90 : boolean array; i, Y : boolean; do j(3 - 64 < 1) end main : a, K, t340 : boolean array; V, H : integer array; chillax end

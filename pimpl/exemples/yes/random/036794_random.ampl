@@ -1,0 +1,1 @@
+program QR : h7 : takes d : boolean; OK : integer array; h : boolean array returns boolean array st2, M, d4 : boolean array; V5, g, lr4 : integer array; do C((6) - 7 - 993, - 5 - 53, 3) end main : k : boolean; kk, w, K54aa : boolean; chillax end

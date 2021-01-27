@@ -1,0 +1,1 @@
+program p : S9 : takes j, d, V : boolean array returns integer AWV0a : boolean array; Au6 : integer; output "\t" . 05 = 1 . "1" end Pr : takes j : integer; R4, O9 : boolean array; X, v : boolean; t : boolean array returns boolean array chillax end main : output "" end

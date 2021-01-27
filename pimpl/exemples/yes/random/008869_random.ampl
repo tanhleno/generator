@@ -1,0 +1,1 @@
+program _M : c : takes N, u, z : boolean; g, y : integer array; f2 : integer; FM, J, F, c7E0, F : boolean array; z : boolean array; N, Bp : integer; K : boolean; _ : boolean; B8 : boolean returns nothing while - 50 /= 48500 - 3 : do g(0, 8); let YZ = 6; when case 7 : chillax end end; output 43800 . 23; pop end main : c, f : boolean; b, J : integer; chillax end

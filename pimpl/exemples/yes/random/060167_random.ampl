@@ -1,0 +1,1 @@
+program QWX : s : takes EE : integer array returns nothing do j02(0 and 2380 + 5); do V(7, 48 = 496); when case 42300 : chillax end case 057 : pop end end main : h5, D : integer array; when case - (1 = 7) and 072 / not 732 - YA9aa(09) rem false : output 6 . 2 end; let F0[- 3] = array - false / 0 - false and 327 + 9 - 662 end

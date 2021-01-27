@@ -1,0 +1,1 @@
+program F : Xg : takes O1t : boolean returns nothing T9ca, V54, y07aa, qi : boolean array; f, f : integer array; let M[(72)] = 5 - 33 end main : while - x4 / false - (4) /= - true * true and 31 : chillax end end

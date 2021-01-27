@@ -1,0 +1,1 @@
+program K : PU : takes J, K, e930, k, x : integer array returns nothing let Vxa = array - false or 8; pop 33 = 7 end Kk60a : takes t : boolean array; Ndk, p : boolean array returns integer array chillax end main : JjBa : integer array; e5 : integer array; chillax end

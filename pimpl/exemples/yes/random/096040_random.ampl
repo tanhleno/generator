@@ -1,0 +1,1 @@
+program k : main : when case - R[3] + (89) and 4 or 40 >= - not not 8520 + 6 and 5 : pop 4 = 3590 end case false / b8 and 7 >= (4) and 19800 or 03 : chillax end otherwise : chillax end; output "{N\"a" . "" . 3; let Ner = 7 - 9 end

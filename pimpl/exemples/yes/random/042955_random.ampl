@@ -1,0 +1,1 @@
+program oA3a : h : takes h3 : boolean array returns integer chillax end Y7N : takes Wvwa : integer array; Z94a : boolean array returns boolean array let P[- 893] = array 8 - 9 end main : V0D0, l : integer; let L6[- 7 + not true] = - true * 0 end

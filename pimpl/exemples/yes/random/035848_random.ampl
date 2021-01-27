@@ -1,0 +1,1 @@
+program f8 : m0y : takes W91a : boolean; X : boolean array returns boolean array m, Pn : integer; do Q(- true, - 77 /= 15) end main : mr7, P, D6, Y, zfq, g : integer; when case - true / not v29 * false and 42 : input dM[933 - 88] end; let z_1[not false rem true and 4] = array - sc[2] / (0) end

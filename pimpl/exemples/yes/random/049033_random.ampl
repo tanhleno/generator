@@ -1,0 +1,1 @@
+program ucx : _ : takes arqa : boolean returns nothing pop - 48 = 23300; let s[4 - 9] = 22 = 49; do l14(83200 = 7) end main : let C = array G[6] / true; output true and 140 = 93 - 9 . 062 < 7; while true or 048 : chillax end; pop; when case 0 : while 60 : chillax end; pop end; when case 4 : pop end otherwise : chillax end; output "" end

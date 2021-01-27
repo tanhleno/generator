@@ -1,0 +1,1 @@
+program zg_a : x : takes y6V0, w8M : integer array returns boolean array input y5_0[not 611 and 68200 or 21100]; while - 3 : pop end; while 7470 = 9 : chillax end end main : L, C, h9, S, z9, d : boolean; lA : integer array; chillax end

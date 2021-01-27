@@ -1,0 +1,1 @@
+program Sq2aa : y550a : takes K, b5p, B : boolean array returns nothing chillax end R : takes Y1 : boolean array returns integer array chillax end main : fI, v0B : integer array; Q : integer array; chillax end

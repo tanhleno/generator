@@ -1,0 +1,1 @@
+program d : main : output ".\"" . - 4 and 3780 or 589 - 3 >= 78; while - (08) / not 10 or false and 93100 : input K24aa[70100] end; when case - 0 : do g(940, 428); pop end otherwise : chillax end end

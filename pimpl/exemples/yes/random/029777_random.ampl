@@ -1,0 +1,1 @@
+program k : x : takes U, a : integer array returns integer array w, G24aa : integer; bQ8, LX6, o, P2 : boolean; r1K0a, ZX : boolean array; while(7) = - 5 : when case 56 : pop end otherwise : chillax end end; pop; input YxT0 end main : C, b2x : integer; S : boolean; chillax end

@@ -1,0 +1,1 @@
+program j : l : takes Z : boolean returns integer array L0 : boolean array; n, q33 : boolean array; pop 42 end main : let gcEaa[6360 and not p] = array(40000); when case 1 and(6) + false >= - not 6 : chillax end case - A6L = - 218 : chillax end case 4 - 468 : chillax end; let L = - 9 < 9 end

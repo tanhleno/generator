@@ -1,0 +1,1 @@
+program qT : Y : takes LI, V3Paa, Z : boolean array returns integer e8yaa : integer array; D0x0a, VRp, JN, X : boolean array; G : integer; do G8Faa(- false and 5); output 2 . 728 . 4; do V7(94, 267, 1290); while 7 : pop end; while 2 : chillax end end main : chillax end

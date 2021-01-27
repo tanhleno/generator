@@ -1,0 +1,1 @@
+program u : m7 : takes _ : integer array; RX70a : integer array; bW6 : boolean array; q, Wg : boolean; s, v0 : boolean array returns boolean chillax end _ : takes M, l, e, ck, c, W1, f : integer returns integer chillax end main : chillax end

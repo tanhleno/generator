@@ -1,0 +1,1 @@
+program VQ1 : U : takes Afh0a, xj : integer; p4i : integer array returns boolean V, r : integer; Z, Y, Y3t, h46 : boolean; R : boolean; F, O0s : boolean; gHP : boolean; w : boolean; input f1[- false]; do sx1a(- 7 - 95) end main : while not true : pop; while 48 = 25 : do O(5) end end end

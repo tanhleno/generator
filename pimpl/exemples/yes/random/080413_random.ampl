@@ -1,0 +1,1 @@
+program L6 : main : fG : boolean; when case false and false = false / true and 4 - true or 7 - 8 : chillax end otherwise : chillax end; when case - false - Z and 6 : input x0; while 5 : chillax end; output "`"; output "" end otherwise : chillax end; let nB[- not 17800 and 6] = array - false and 062; input b end

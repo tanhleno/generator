@@ -1,0 +1,1 @@
+program E : U : takes I : boolean array returns nothing chillax end YZQa : takes F : integer array; v, F : integer array returns nothing chillax end Z : takes uJi, e, oe : integer returns nothing do G2(43 = 90000, 721, 0); output 22; pop; let rLC = 5; pop end main : do sA(- (4 = 00) or not 1 and false, 2 + (158) and 8 /= - N3, 0 and 7 - 8 - 0 = - 36) end

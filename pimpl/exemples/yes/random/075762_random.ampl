@@ -1,0 +1,1 @@
+program fR : main : B32aa, n : integer; do t((5) * (60) or false / 5 and 259, not Dd <= - not 0 + 585); let o18[9 - false] = array - 3; output "" . ""; do Fx(- 10700 - 07 <= 8, 578, 1); do F830a(553) end

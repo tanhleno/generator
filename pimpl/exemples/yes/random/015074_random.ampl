@@ -1,0 +1,1 @@
+program r3 : T : takes q52a, N, l4_ : integer array returns integer z : boolean; when case - (8) and 164 or 3 - 8 : while 81 : pop end; when case 3 : chillax end end case 6 : chillax end otherwise : output "" end end main : chillax end

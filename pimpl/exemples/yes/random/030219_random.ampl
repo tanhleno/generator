@@ -1,0 +1,1 @@
+program r : D7 : takes qD, R320 : integer array returns nothing chillax end Ex : takes j, S7, X3 : integer returns nothing w0N : integer array; u : integer; chillax end main : s, g2a : boolean; W, N : boolean array; chillax end

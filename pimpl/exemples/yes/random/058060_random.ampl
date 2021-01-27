@@ -1,0 +1,1 @@
+program J2 : is : takes z : integer array returns boolean chillax end YQ : takes qDIaa : boolean; F : boolean array; N : boolean; gw, R : integer; V9 : boolean array; fn8aa : boolean returns nothing chillax end main : w : boolean; w, U9 : integer array; chillax end

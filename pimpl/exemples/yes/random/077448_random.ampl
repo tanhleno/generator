@@ -1,0 +1,1 @@
+program _ : main : s, f68a : integer array; eO7, d : integer array; N : integer array; L : integer; p : integer; JI : boolean; u : boolean; A : boolean; let qvN[P and 7 / 74600 + false rem not 0 and 8 - false or 5] = array(6 = 7) and not true end

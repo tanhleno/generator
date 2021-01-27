@@ -1,0 +1,1 @@
+program C : z : takes L : boolean array returns nothing chillax end v : takes M, QL2aa : boolean array; x5U : integer; M : integer; _4M : integer array; R1 : integer; O : boolean; q : boolean returns integer let Ol[- 524] = 368; input V6p0 end main : G4, H : integer array; chillax end

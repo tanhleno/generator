@@ -1,0 +1,1 @@
+program i1 : pV : takes Hf, z, s, t, Z, r20, Ezi, N : boolean returns boolean i8O0 : boolean; chillax end main : agU, G, I6, s600 : integer array; p2 : integer; output ">" . 153 and 3 = 57100 - 2 end

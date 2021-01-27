@@ -1,0 +1,1 @@
+program cQ : L : takes F : integer array; c, j3 : integer array returns integer array Th : boolean array; _r : boolean array; let B = array - false and 87200 - 733 - 1; do L(7 - 2); output "\t" . 8 end main : J360 : integer array; chillax end

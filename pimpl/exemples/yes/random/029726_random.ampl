@@ -1,0 +1,1 @@
+program n : x830 : takes X, h0R : integer array returns integer array do I((8) and 128, - 39 = 9) end J : takes r, D : integer array returns boolean array chillax end Q : takes Vo4a, hS : integer; A : boolean; v : integer returns nothing chillax end main : chillax end

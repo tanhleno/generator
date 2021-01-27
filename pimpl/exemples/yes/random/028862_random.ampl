@@ -1,0 +1,1 @@
+program u : zE70a : takes k, j : integer array; _ : integer array; Uq : boolean; VPw : integer returns boolean chillax end W4 : takes C1, c9Z : boolean array returns integer chillax end main : K7, LM, p : boolean array; g : integer; t, s, V, k : boolean; A0, M90 : boolean; V, V : boolean array; pop end

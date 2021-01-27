@@ -1,0 +1,1 @@
+program a9 : Y : takes _u : boolean returns nothing input o1c0a[- (2) and 250] end Q : takes TmA0a : boolean returns nothing U, r : integer; chillax end main : pop; when case not 700 : input p5[28] end; let i = - 8630 - 2; pop end

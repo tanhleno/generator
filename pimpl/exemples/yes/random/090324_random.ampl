@@ -1,0 +1,1 @@
+program R0 : main : let JXG = g4a0(2) / r and 0 = - gvp0 and 92; input A[278 or(5) and 3]; let XU = array - not 0 and 8; while 8 /= 65 : input y end; let Q = 001; do kB_(8); let W6Maa = 3; input w end

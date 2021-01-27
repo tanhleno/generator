@@ -1,0 +1,1 @@
+program o4 : W : takes O, i : boolean array returns nothing Vb : integer array; mP : integer array; f : boolean; while - false : chillax end; output 331 = 0; pop 2910; let l3 = array 691 end main : A1 : boolean array; t0 : integer array; J6, W : boolean; chillax end

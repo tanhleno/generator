@@ -1,0 +1,1 @@
+program z : main : c : integer array; let e[false rem true and not 4 and 6 + true * true or(8) and 7 - 42300] = array - 21 or _; do _(- MJ - not 7 and 0 - 401 = - (84), - (7) + 9 >= 922 - 862, 359) end

@@ -1,0 +1,1 @@
+program Y3y : h6 : takes s, RJ, s : boolean array; w, O, _km0a, y, gL9 : integer array; t : integer returns boolean pop - 84 = 4; input p end d : takes H7 : boolean; j4 : boolean array; O : boolean; D56, Wq7, a5, Y8 : integer array returns nothing chillax end main : m0 : integer; p : integer; chillax end

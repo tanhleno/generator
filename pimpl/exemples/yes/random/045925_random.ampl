@@ -1,0 +1,1 @@
+program AQ8 : jX : takes R1Eaa : boolean returns boolean chillax end j : takes Az, x60a : integer returns nothing z, A5U : boolean array; chillax end main : k : boolean array; I, y, T : boolean array; let ig4aa = - (1) and true and 9 end

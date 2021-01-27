@@ -1,0 +1,1 @@
+program n : GFEa : takes uguaa, u6, PqWa, MF, S, B, b : boolean array; e : integer array; Wc1aa : integer array; zb : integer array returns nothing chillax end X : takes cBj, E8 : boolean; JyM : integer returns nothing P, k : boolean; chillax end main : chillax end

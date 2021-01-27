@@ -1,0 +1,1 @@
+program o : oGa : takes h : integer; y, i3W, x, q, m, J79, K : boolean; c : boolean array returns boolean array F : boolean array; chillax end LZ : takes g, F, at, h, A0, s0 : integer array; i : integer array returns boolean array chillax end main : d : integer; chillax end

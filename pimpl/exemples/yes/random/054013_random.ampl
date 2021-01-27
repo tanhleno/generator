@@ -1,0 +1,1 @@
+program i : f : takes X : integer array; p, NK, y : boolean array returns boolean BU4 : boolean; yh, z, Y2na : boolean array; input U3[true and 3]; do a(13 /= 1, 40, 665); output "0" end main : when case(14600 = 5880) rem not ch : chillax end case(68) rem not 6640 + not 7 and 0 + 27 - 69 : chillax end end

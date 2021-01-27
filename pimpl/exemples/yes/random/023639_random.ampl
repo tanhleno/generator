@@ -1,0 +1,1 @@
+program w : cM : takes SZ8a, c9 : boolean returns integer chillax end t8 : takes tT3 : integer; p, C5 : boolean returns nothing Sj0, _68, iB40a : boolean; while - 5 /= 25 : chillax end end main : c : boolean array; do r(- 18100 / false / (6) /= - not(473) rem true and 1, false * 79 and 883 < - K and 0 or 0 - 27, - not 9) end

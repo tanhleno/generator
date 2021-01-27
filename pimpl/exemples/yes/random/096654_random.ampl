@@ -1,0 +1,1 @@
+program N6G : main : when case - true and not B or true / not 0 and 90 + not 30 and 08 - 1 : output 0 = 99 . 08; output "" . 9; output 8 . "" end case 85 / not 9 and 1980 : while 20 : let j = 391; pop end end case tHZ0 or 7 < - 4250 - 25 : chillax end otherwise : let l[417] = 9; input s4[3] end; input n; do HQI(- true - 4 < 99) end

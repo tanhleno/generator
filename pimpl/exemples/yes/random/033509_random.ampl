@@ -1,0 +1,1 @@
+program I : hxma : takes pw : boolean; a, c, J1, KUb0 : boolean array; WDD0a : boolean array returns nothing chillax end Y : takes R1 : boolean; W, bHD : integer array; I0 : boolean returns nothing pop end main : do i(- true + 1 * s and 26 >= - false or false, (886) / false /= - true and 78); pop; output "" . 7 end

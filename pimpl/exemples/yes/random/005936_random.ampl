@@ -1,0 +1,1 @@
+program K : z : takes j8, u2Qaa, N, O5 : boolean returns integer array chillax end u : takes _td, C : boolean array; a0 : integer array; l : integer returns nothing p, z8q0a, Yh, Wg3a : integer; output "" . 8 end main : pop not 2; pop - false < 837; input c[false and 53]; output 44 = 9 . 6 . 946 end

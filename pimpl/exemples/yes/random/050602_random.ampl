@@ -1,0 +1,1 @@
+program gX : Ja : takes gqqa : integer; Os, _ : boolean array returns integer while - 6930 : do z(79, 17800) end end a : takes E6, C3, lp : integer array returns boolean array chillax end main : y, j4O : integer array; T, T : boolean array; chillax end

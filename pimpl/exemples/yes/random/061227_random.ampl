@@ -1,0 +1,1 @@
+program F : in1a : takes S : integer array returns nothing input v[- false and 9]; while - 23 = 388 : do A5(6) end end main : do c((73 = 3) = - true, - w[4] or(0) /= - false and 9 + 62200 - 51, - not 317 - 7 - 2 <= 13, - 99 = 61, 8550) end

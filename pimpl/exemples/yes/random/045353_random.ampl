@@ -1,0 +1,1 @@
+program g8 : LO : takes M : boolean array returns nothing while v and 3 = - 7800 : while 4 : pop end end; when case - 81 - 1 = 8 : input d2g end case 9 : output "Z9"; pop end case 2 : pop end end main : chillax end

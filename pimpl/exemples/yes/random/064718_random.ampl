@@ -1,0 +1,1 @@
+program W : I : takes L : integer returns nothing E9 : boolean; s : integer array; chillax end main : _, Zfqa, d, Q44, V : boolean; B : boolean array; output po[53] or(1) <= - 2 . "W2" . "34aa" . 5 = 7; pop 5790 and 9 - 38 end

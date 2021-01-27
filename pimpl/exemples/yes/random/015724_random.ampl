@@ -1,0 +1,1 @@
+program t : M88 : takes ZV, o67aa, e8Ua : integer returns boolean array PX : integer; r8, M : integer; D5, G : boolean array; b500 : boolean; e : boolean; chillax end a2G0a : takes Ti : boolean returns boolean R : boolean array; p43aa : integer array; k : boolean; input S; do VM(4240 = 1, 02, 4320) end main : Kk : boolean; chillax end

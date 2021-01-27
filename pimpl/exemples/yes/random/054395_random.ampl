@@ -1,0 +1,1 @@
+program jK : b5G0 : takes q09a : integer array; h2, G : boolean; h5X, h15, V : integer returns integer array I, t : boolean; a39 : boolean; n, X : integer; Xr : boolean; chillax end v : takes Q8 : boolean array; O39 : integer array returns boolean array I, tO9, NXg0 : boolean array; input p0; when case 8 : chillax end case 3 : chillax end end main : chillax end

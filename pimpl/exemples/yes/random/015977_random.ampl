@@ -1,0 +1,1 @@
+program k7_ : l : takes V, b6, Is7 : integer returns integer array let E7y0[cr50 - 1050] = 19500 end main : o1 : boolean array; Tc, H, Yas0a : integer; K : integer array; do Fcf(- r[5] rem not W2 rem false and 8 > - 974 rem H450a - 0 and 4 or 91 - 4, - not u - GH9a and 5 or 0300 >= 0 and 4) end

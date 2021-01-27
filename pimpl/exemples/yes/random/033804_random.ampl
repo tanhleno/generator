@@ -1,0 +1,1 @@
+program H : g4 : takes b : boolean; kSxaa, R, y : boolean array; U, hw : boolean; O, s, P5, p, c : boolean array returns nothing L6Y0a, F14 : integer array; c3ua, V : integer array; chillax end g : takes _ : integer array returns nothing k, x, j8W0 : boolean; when case 788 : chillax end otherwise : input e5 end end main : m, GQ : boolean; chillax end

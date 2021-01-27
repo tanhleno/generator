@@ -1,0 +1,1 @@
+program V : L1 : takes y1R0, T : boolean; U : boolean array; Y9g, bj : boolean; E6, I : integer returns nothing H, G : boolean; do t(- not 467 and 5 > - 1250) end main : f66aa, p, ds, p : boolean; s : boolean array; Y : boolean; chillax end

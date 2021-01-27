@@ -1,0 +1,1 @@
+program U0l0a : main : p, V, D6 : integer array; H, FWh, W3, z, w79, j : integer array; output - true <= - false and 0 or 02; pop; while - false - 01 - 5 >= 7740 : when case 604 : chillax end end; let B[8 - 011] = 80 = 7 end

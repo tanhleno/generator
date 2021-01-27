@@ -1,0 +1,1 @@
+program h : main : q : boolean array; a, w0 : boolean array; e : integer; W : integer array; J : boolean; when case(42) * false rem true and 26 - true + true and 2 <= not 635 and 2 - true and 4 : output "l\n" . "qga" . 5 . "" end; pop 46 and 98 or 11 - 71 end

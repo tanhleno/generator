@@ -1,0 +1,1 @@
+program tdl : F : takes zZ : integer array; tbw : boolean array; s : integer; W, b : boolean returns nothing when case true and 1 : chillax end otherwise : output "" end end T : takes x660 : boolean; Np7, N1 : boolean array returns nothing Dum, F : integer array; h440, v0 : boolean array; o, P : boolean; chillax end main : v : boolean array; C, H, c0, Qy7a : integer; chillax end

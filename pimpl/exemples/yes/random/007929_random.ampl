@@ -1,0 +1,1 @@
+program heF : rp4aa : takes Zt, s, j, h : integer returns boolean array H, rz8aa : integer; chillax end X8Kaa : takes V : boolean; ERM : integer array; y, V9O0a : integer array returns nothing v : boolean; PX, DnIa : integer; G : boolean; chillax end main : BG, myV, K : boolean; chillax end

@@ -1,0 +1,1 @@
+program g : h : takes G : boolean array; K : integer array returns boolean MUxa : boolean; y6 : integer; q, Hr0, pA : boolean; let r[r and 9580 + 8] = 070 - 3 end main : F, qb, T5, u : boolean array; U : integer; input e; pop end

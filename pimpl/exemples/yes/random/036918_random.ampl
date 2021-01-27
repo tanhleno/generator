@@ -1,0 +1,1 @@
+program Fy30a : n : takes U : boolean; f : integer array returns boolean array S, T, R : integer; pop; while 5 < 2 : while 56 : chillax end; pop end end main : when case 4 + false and O57 and 04700 + 70 - 8 : while - 91 : let V = 30 end end end

@@ -1,0 +1,1 @@
+program q84 : q : takes yC : integer returns nothing S, c, w : boolean; chillax end main : pop false / 5 and 8 or false and 7 or 68 - 9; while false rem not 90100 : chillax end; pop - 3; let L[- 564 - 04400] = array 23 end

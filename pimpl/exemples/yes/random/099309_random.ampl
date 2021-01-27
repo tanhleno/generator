@@ -1,0 +1,1 @@
+program Jc80a : main : while V / (59) and not 20 - true rem vD and 3 : chillax end; when case true / not 50 : chillax end case - 5 and 8 : input W0[9]; when case 1800 : chillax end end case 07600 - 1 >= 90 : chillax end otherwise : chillax end end

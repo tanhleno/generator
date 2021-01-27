@@ -1,0 +1,1 @@
+program J : main : V : boolean array; input n[1 / false or false + (3) and 75]; do A5faa(4 / (6) - U or 917 - 76 = - true and 03 or 5, - not 0 < - 3, - 69); let B[- 4800 and 8250] = array - M8 and 3; output 8 . "" end

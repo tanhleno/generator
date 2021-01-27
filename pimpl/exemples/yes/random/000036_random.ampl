@@ -1,0 +1,1 @@
+program pA : K : takes d, n, X, x96, _, _, t8, k : boolean; L : boolean; mZ5 : boolean; Q3, Q4, F, D, R3 : boolean array returns nothing chillax end main : cs : integer; while - (8 = 26) * not I - false + true - 9 <= false : chillax end end

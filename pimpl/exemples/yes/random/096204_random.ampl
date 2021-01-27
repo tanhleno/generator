@@ -1,0 +1,1 @@
+program x150 : main : when case - not false rem 4 - 3 : when case - 6 : chillax end case 7 : pop; pop end case 51 : chillax end otherwise : chillax end; let P[98] = 71200 end case 63 or 420 and 88 + 5 - 19 = (8840) : output "" . 9 . "" end otherwise : when case 6 : chillax end case 20 : pop end end end

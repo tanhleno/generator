@@ -1,0 +1,1 @@
+program bvlaa : main : l, J18 : boolean; b070a, x3y : boolean array; while not false /= - r[3] and v : output "\t" end; input J[- 2]; while - false and 1 <= 649 - 9 : chillax end; output 4 = 8 . 0 . "9" end

@@ -1,0 +1,1 @@
+program I : LR : takes J, x : boolean; Zf, o, u, qT7 : boolean; J7p, V3, F, qt, y : integer array; K3, bf, o : boolean returns nothing BA0, o, X6, o5 : boolean array; output "" . 8820 . 006 . ""; output 6 end main : let g = array - (6 = 8) and(2) * (86) and 539 or(41) rem not 8 and 24000 or not 26 + 2 - 895; input h end

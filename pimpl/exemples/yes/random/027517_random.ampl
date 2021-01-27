@@ -1,0 +1,1 @@
+program o : JF : takes D, X9h : integer array; F0, l, QXo : integer array returns nothing gD, f, Y, _ : integer array; when case - (28) and 6 or 8 - 160 : chillax end end main : S : integer array; r, hT5, RrB : boolean; chillax end

@@ -1,0 +1,1 @@
+program A5 : Lx80a : takes N, I, sJ70 : boolean returns boolean array input Q380 end main : when case - (407 = 6) <= - V - false : chillax end; output - 7; output 1 <= 6 . 02; do U(- 2, 9 = 699, 18600) end

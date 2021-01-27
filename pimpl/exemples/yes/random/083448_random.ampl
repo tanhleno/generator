@@ -1,0 +1,1 @@
+program fN : main : C : integer; CJ, gtT, Z9Z : integer array; k, t2, _3, t : boolean array; when case - false and true : chillax end otherwise : while 560 : while 1 : chillax end; pop end; let E3i0 = array 2 end end

@@ -1,0 +1,1 @@
+program q : f : takes u0 : boolean returns nothing L1, Pv2, u : boolean array; I, w, z_ : integer array; iCl : integer; output "" end main : e : integer; O : integer; N, K : boolean; pop 9 + X9 - 9 - 96 = TBN and 4 or 0 - 6; input n[not true and(333)] end

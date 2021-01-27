@@ -1,0 +1,1 @@
+program ZGD : i : takes T : boolean returns boolean output "\"M" . "" . ""; while - 91 - 4 : chillax end; input _[7]; output "p" end main : F, R69aa : boolean array; nL : boolean array; m : boolean; h54aa, P58aa : integer; chillax end

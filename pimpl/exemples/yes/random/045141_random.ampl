@@ -1,0 +1,1 @@
+program B : s3yaa : takes c : boolean array returns nothing pop - 3 - 8690; when case 17 = 258 : chillax end otherwise : chillax end end Mg : takes L : integer; L, i, G : integer; q : boolean; M0, P, r9 : integer; r, d, _P : integer array returns integer array input eL end main : i : boolean; chillax end

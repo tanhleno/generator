@@ -1,0 +1,1 @@
+program VN60a : P : takes g : boolean; n : boolean; e6e : integer returns boolean array c, j, H, p, wR : boolean; K : integer array; lX9a, cj : integer array; while not 0 and 297 - 8 - 8 >= 08000 : while 9 : chillax end; pop end end main : pop; output "" end

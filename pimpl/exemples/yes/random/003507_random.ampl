@@ -1,0 +1,1 @@
+program O6 : Y : takes yQ, XC, A9i, Z, ao : integer array; hj6a, n : integer returns nothing z, xD : boolean; _bC : integer array; f : integer array; output "" . "" . "+" end rC00 : takes Kc : boolean array returns boolean array L, M : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program W400a : E94 : takes mox0, I, hr, ktt0, ZC, G : boolean returns nothing k : boolean; chillax end oE : takes iz9aa : boolean; J : integer array returns nothing v : integer array; K4v, j8r, H : boolean array; O : boolean; input r[- 0] end main : pop false - q and 0 <= false and 65 + 9 - 063; input C4[U03 rem c or 1 or 217]; pop end

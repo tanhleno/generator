@@ -1,0 +1,1 @@
+program ie0 : fv : takes D5E, M9H : boolean; kP3 : integer array; Z : integer array; B2, epr, N, Z41, H : integer returns integer array f : integer array; Q_t0a : integer; output 2 end main : B5A, R, A, d4, l, m : integer; h4, d, N2 : integer array; do l5B(Q9(51000, 3) rem Q[3] * true and 2 or false / (6) and 8) end

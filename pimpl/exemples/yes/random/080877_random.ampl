@@ -1,0 +1,1 @@
+program z7 : main : zD : boolean array; y2, F, B, l64aa : boolean; e : integer; output(2470) * false . - (86) + 68 - 1 >= - 972 - 52600 . "L4" . "f"; let j[(13300) * (96800)] = array true and false + (4560) or 6; pop; do V81(- 93900); when case 57 : input p2 end case 1 : chillax end case 58300 : chillax end otherwise : pop end end

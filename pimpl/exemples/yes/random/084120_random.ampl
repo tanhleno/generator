@@ -1,0 +1,1 @@
+program d : main : K16a : integer; F : boolean array; Y : boolean; M87, FZ50a : boolean array; Yp5aa, l4g, Hmyaa : integer; K2 : boolean; S8 : boolean; v : boolean; pop; when case - true : pop end case 1 and 2730 - 4 = - 5 : chillax end case - 8 - 981 < 3 : let h = 99; input b8Ma; pop end otherwise : chillax end end

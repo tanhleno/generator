@@ -1,0 +1,1 @@
+program Ug : c : takes dlFa : integer array; g, Y : boolean returns boolean while(52000) and 5 - 1 : pop; output "\t" end; input g0[7] end main : C3 : boolean; F5, C06aa : boolean array; C6, c : boolean array; v : boolean array; input _; do aMB(VW rem 77 and 653 - Du < - not 1 and 2, - not 6 - 572, - 14 > 79, 9650); pop end

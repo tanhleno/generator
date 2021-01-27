@@ -1,0 +1,1 @@
+program v : Z : takes X : boolean array returns integer array d : boolean; while 6 + 6 - 44700 < - 87 - 5 : output ""; let aq = 25; let l73 = 66900; pop end; let y[- 5] = 7 = 29 end main : c7 : integer; Bf : integer; M, Z : boolean; N : integer; pop end

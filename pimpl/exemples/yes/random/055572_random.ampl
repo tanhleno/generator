@@ -1,0 +1,1 @@
+program Rn0 : Ho : takes n9 : integer array; V : boolean; Yh, B : integer array; XKW : boolean; S, f5 : integer array; D8Y : boolean array; Y98a : boolean returns boolean N, M : boolean; chillax end Y : takes QS, ul, W, B, N630a, E, n100 : boolean array returns nothing L : boolean; j : boolean; a : boolean; chillax end main : chillax end

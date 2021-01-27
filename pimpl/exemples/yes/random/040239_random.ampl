@@ -1,0 +1,1 @@
+program c88 : G : takes U75 : boolean array; N4 : boolean returns boolean array chillax end d : takes wy : boolean array returns integer array chillax end joy0 : takes W0j : integer array returns nothing chillax end main : output 0 or i . "|" . "6\na" . 0390 . "=" . "\t'!a" end

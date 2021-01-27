@@ -1,0 +1,1 @@
+program p : main : k96 : boolean; o : boolean; output "\t\n" . "" . "" . 27200; let Wg3a = - true and 5510 + 2; while(5) and 6 > - 70 - 6 : input Zx[5] end; when case - 9 >= 8 : do dqw(9); when case 65 : chillax end; pop end end

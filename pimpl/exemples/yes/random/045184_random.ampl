@@ -1,0 +1,1 @@
+program nE : o9 : takes z : boolean array returns nothing pop end main : do l(true / true - false < - true and true and 294 + 92100 and 16, - false - c7c0 and 2530); let s8h[10 rem true] = array - O[5] rem 0 and 92 - not 1; let YCm = 8; do Z(11) end

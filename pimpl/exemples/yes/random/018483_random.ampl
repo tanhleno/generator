@@ -1,0 +1,1 @@
+program L : Ng : takes Dj3a, j : boolean; O68 : integer returns boolean array S : boolean; output 1 > 59 end main : Z, w9 : boolean; C, c2 : boolean; xY, s6, T, x, x : integer; while - false rem(93000) - not s * 56 and 9 + 60 and 05900 : chillax end end

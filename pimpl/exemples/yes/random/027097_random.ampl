@@ -1,0 +1,1 @@
+program Z : L : takes G, S8 : integer array; S, P, DM, n, c : boolean array returns boolean chillax end feo0 : takes PEF, r6, OA7, y3Z : integer returns nothing output 4; pop 9 end main : chillax end

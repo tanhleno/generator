@@ -1,0 +1,1 @@
+program E6 : main : G : boolean; while false + true + true and 6 : while 83 - 4 <= 84 : when case 8 : chillax end; let Z = 538; pop end end; pop; do Pe3(- false or 58 /= - 0, 53, 92, 94000); pop 3; pop 7 end

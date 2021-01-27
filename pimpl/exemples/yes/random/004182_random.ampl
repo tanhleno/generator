@@ -1,0 +1,1 @@
+program a4 : w52 : takes h, h, z8, jt : boolean; Bp, b, W2, hh5, K, T : boolean array; nYD0a : integer returns nothing chillax end main : w, b, U : integer; K, k, P, l8W0 : boolean array; do E(- false = true * 78200 and 0 or a) end

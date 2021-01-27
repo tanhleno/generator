@@ -1,0 +1,1 @@
+program b : mXk0a : takes I, Y : boolean returns integer array when case false and 06 : input M6 end case 1 - 4 = 2 : chillax end case 5 = 7 : when case 2 : chillax end end end main : M : integer; do VL4aa(- false + not not 97 rem false + z, - 4 < - 897, - not 289 and 2 + 2) end

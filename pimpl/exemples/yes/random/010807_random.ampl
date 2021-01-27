@@ -1,0 +1,1 @@
+program h : u79aa : takes dN, YK, W9m : boolean array returns integer array chillax end main : while not not 1 * A(24) rem(25) > - b[6] - false and 2 : while 73 : chillax end; output 19 . 64 . ""; let VO7a[2] = 5 end end

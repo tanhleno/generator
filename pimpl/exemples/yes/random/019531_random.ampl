@@ -1,0 +1,1 @@
+program n7 : WtDaa : takes tb60, Cp20a : boolean array; A, z : integer array returns integer array chillax end main : p, j : integer; T, VA0, s4, H, wP : integer; output "1#0" . not 2740 - 2 - 7 . 99 - 3 >= 6 . 1 = 3 . 0; let o = 9 - 24 - 01 /= - 7 - 3 end

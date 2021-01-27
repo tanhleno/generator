@@ -1,0 +1,1 @@
+program RY3 : a7 : takes m6, UG : boolean array returns boolean pop 341 - 67600 >= 70; pop 78000; pop end main : input j[- false rem not s2saa / not 66 - true and(1) and 919 + not 51 and 266]; do hs(- (813) < true, - not 8 and 27500, - 90 = 5); pop - 010 - 2 > 0330 end

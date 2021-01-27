@@ -1,0 +1,1 @@
+program q : main : do E1(15, - true /= - 2 and 3, true /= - 71, 9 - 3 /= 79, 39); when case - not Z - true and 2 + 5 - 577 < - a and 7 : pop end case - not 6 > - 2 : do L(696); output "3" end; input O end

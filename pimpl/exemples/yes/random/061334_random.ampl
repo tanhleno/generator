@@ -1,0 +1,1 @@
+program o : w7y0 : takes w : integer array returns nothing let H[false and 45 or 04 - 7] = array not 9 and 55500 - 7 - 82; while 40 - 5 /= 1 : do cg(3) end; when case 7 = 94 : pop; pop end otherwise : pop end; let Y[65] = 3; pop end main : f : integer array; dC : boolean array; M2xa, qw : integer; while false / true : pop end end

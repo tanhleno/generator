@@ -1,0 +1,1 @@
+program z : q : takes g, f : integer array returns boolean chillax end N : takes d : boolean; k : boolean; W : boolean returns boolean do k(1 - 68); when case 78 : chillax end case 3 : pop end otherwise : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program f : z2 : takes LQ, H : boolean; O71, i : integer; s : boolean; u : integer array; G, yJx0 : integer; r0 : integer; h : boolean; D1 : boolean returns integer v : boolean; chillax end main : when case 7 and 0470 * eI20 and 25 > false / (7) and 4 : when case - 8 - 64 : chillax end end otherwise : chillax end end

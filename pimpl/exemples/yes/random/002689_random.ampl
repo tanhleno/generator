@@ -1,0 +1,1 @@
+program F : i0 : takes C3, BT, S, TTH, Z : boolean array returns integer array chillax end aI : takes A : boolean array returns integer while 5 : chillax end; do N(11, 32, 050) end main : ECZaa : boolean; pop end

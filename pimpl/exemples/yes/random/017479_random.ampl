@@ -1,0 +1,1 @@
+program c : f6 : takes i, dGj : boolean; GjZ, jhaa : integer array returns boolean array chillax end WhXaa : takes I, n : boolean array returns nothing Rh, tS : integer; Zo : integer; input S[77 - 89] end main : chillax end

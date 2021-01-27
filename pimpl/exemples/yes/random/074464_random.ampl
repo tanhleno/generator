@@ -1,0 +1,1 @@
+program p : main : j, o30 : boolean; while ePP(92, 6) /= r[2] and true - 8 or 2 - 7 : while 765 - 0790 : output "`"; output "1" end; let E5n0 = 6; let y[3] = 1; output ""; output "#" end; input o[8 + 3 and 7] end

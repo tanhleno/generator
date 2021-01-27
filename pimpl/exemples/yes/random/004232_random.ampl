@@ -1,0 +1,1 @@
+program yMma : QWTaa : takes u, D, z, m29a : boolean; e, bv, g8, G : integer array; S, K : boolean; l6 : integer array returns nothing Nq, C70aa, Pe, Sl6aa : boolean; chillax end F : takes LSyaa, ld9aa : integer array returns boolean chillax end main : let L = - (2) / (0) and 9 + F and 012 end

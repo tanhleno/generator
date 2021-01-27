@@ -1,0 +1,1 @@
+program C4 : Q : takes X : boolean array returns nothing x, p5 : boolean array; wx8 : boolean; chillax end u : takes Dx4 : integer returns integer array while - 3 - 67500 : chillax end; pop 0; output 8 . ""; output "|"; output "\"\\\"a"; pop end O : takes g, H5, mC : integer; pr : boolean array returns integer array chillax end main : pop end

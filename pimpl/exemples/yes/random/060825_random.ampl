@@ -1,0 +1,1 @@
+program O : Z2ga : takes y : integer array returns nothing Y : boolean; pop; let E98 = 50 end main : k4 : boolean; Q : integer array; ca, Gl, P : boolean; qu : boolean; e1 : boolean array; while - 1 - k(1) + false - 35 : chillax end end

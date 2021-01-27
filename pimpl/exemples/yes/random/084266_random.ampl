@@ -1,0 +1,1 @@
+program m : main : eV60a : integer; y0 : integer; p840, r : boolean array; input x; input qY[h2c0(894) and(4) + not 91 and 31300]; pop - 693 - 5; output "|8!" . ";"; output 7 . "" . "=8"; let U780[2780] = 89 end

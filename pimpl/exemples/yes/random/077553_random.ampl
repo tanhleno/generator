@@ -1,0 +1,1 @@
+program w : main : U06aa, FL : integer array; h : boolean array; do c(- (6150) rem not(7) /= - (65) / 53700 and 8, true or true and 92 /= - false and 8, - not 5, 51000 < 16000, 8 = 91, 2); do o(- u[54], false and 9 - 82 - 6, - 40400 - 1 /= 9, 9 = 7, 7); pop; output 7420 = 0 end

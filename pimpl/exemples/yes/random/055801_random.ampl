@@ -1,0 +1,1 @@
+program y : j : takes x0 : integer array; P : boolean array; Y, A : boolean array returns nothing pop 4 end main : N47 : boolean array; when case(71) rem G2x(2550) and true <= false + not 84600 and 8 or 701 : chillax end case ftb[5] rem false and 5920 /= not 5 or 5 - 6 : do d(5 = 87400, 2); do y(92) end; let c[false] = - true and 97300 > - 0 - 4 end

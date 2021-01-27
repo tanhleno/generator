@@ -1,0 +1,1 @@
+program r13 : q : takes K, Q, r, h3, v, BL_a : integer array; G : boolean returns nothing output 0 - 6 end j : takes x, fT40, p5, c : boolean returns nothing Bg3 : integer; chillax end main : pop - u(9) + true end

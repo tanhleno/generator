@@ -1,0 +1,1 @@
+program N : main : when case - 68 / true rem(692) and 7 or W and not 8 >= - (55) * 4 : chillax end case - (84800) rem(2480) and 3 : chillax end case - true and 2 + 6 < 82 : pop 85700; when case 40 : chillax end end otherwise : chillax end; let q[- true] = array - 79; output 1 - 3 . "h3" . "5\"\"a"; output 404 . 6 . "" . ""; input q; do L(9) end

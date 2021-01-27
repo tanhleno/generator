@@ -1,0 +1,1 @@
+program wy7a : r : takes rV : integer array returns nothing S, A : boolean; O, yk5, aBs : boolean; i : integer array; do _8T(- 543 and 95, 46 = 9) end main : pop false and not 6 - not 26 or 60100 - 2 = zV3aa + 39; output ""; while - not 25 and 95 - 72 : chillax end; input d88[2670 - 8] end

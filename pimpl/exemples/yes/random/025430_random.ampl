@@ -1,0 +1,1 @@
+program d : fG90 : takes p8, _ : integer; D, G : boolean; c, y1, r6 : boolean returns nothing u, l : integer array; F, dxl : boolean; pop - 8; do wsL(3); when case 2 : pop end case 4100 : chillax end end main : Dh, y : integer; WJ : integer; let A = array not not false; input Z1g; output 9 - 802 > 2 . "" . "" end

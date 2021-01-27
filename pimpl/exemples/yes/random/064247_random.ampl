@@ -1,0 +1,1 @@
+program w : sFN0a : takes V : integer returns nothing v, l580, R, _ : integer; h, w, d, I : boolean array; while not 53 and 928 + 77 - 8 >= - 7 : do P5(924, 35); let a = 9; output "" end; input C6 end main : pop; do e((325)); do fd(- true and 618); let O = array - 02; while 10 = 971 : output "\n" end end

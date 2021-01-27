@@ -1,0 +1,1 @@
+program q : K40 : takes zd, O : boolean array; M, T34a : boolean array returns nothing pop; pop; pop 498; output "\t" . "\t>" end J3 : takes OE, s : integer array returns nothing chillax end main : chillax end

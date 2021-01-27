@@ -1,0 +1,1 @@
+program Z : IIXa : takes W0, d : integer returns integer array Q : integer; pop; while 1 : chillax end end KS : takes v : integer array; A, Y580, h, t, R3 : boolean; hE : integer; fR : integer array returns boolean array chillax end main : chillax end

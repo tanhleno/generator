@@ -1,0 +1,1 @@
+program cl : R : takes V, j, _79 : boolean array returns nothing h : integer array; E, e2j, er : integer; b5, IRc : integer; input W6Ma; while - 1 - 69 : chillax end end main : A0J : integer array; output 6 * 813 . - false; let y = array(4) or false + 48; pop 01 < 66700 end

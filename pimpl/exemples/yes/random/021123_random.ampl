@@ -1,0 +1,1 @@
+program w0p : s : takes L07aa, V0 : boolean array returns boolean fo5, Z5 : integer; while - (0460) and 1 - 974 - 9 : do J(83200, 74); pop end end v : takes AQ, l, s : integer array; wmd, OO2aa : boolean; a : boolean array returns integer G : integer; pop end main : E, M08aa, J, A : integer; chillax end

@@ -1,0 +1,1 @@
+program s : K : takes W : integer array returns boolean array p62 : boolean; P : boolean array; o, C8, A : boolean array; chillax end main : do EwC(- (5 = 0) and 61000 / 7 and 06, true or true - 395 - 61 > - 003) end

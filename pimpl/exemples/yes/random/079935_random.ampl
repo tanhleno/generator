@@ -1,0 +1,1 @@
+program Q : main : F5 : boolean; let H = - true and true - false; let Ex[- (6) * (192) and 3150 or true and 3 + 3 - 9] = - H and 1 >= 8; when case(2) and 78 = - 7 : chillax end otherwise : chillax end; let EW[5] = 1 = 38; when case 1 = 126 : output "" end case 26 : chillax end otherwise : chillax end; input DY; output ""; pop end

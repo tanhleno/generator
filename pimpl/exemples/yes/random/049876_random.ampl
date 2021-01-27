@@ -1,0 +1,1 @@
+program N : D : takes V00 : integer; r2_0a, q, i : boolean array; l : integer array returns nothing while 13000 : let G090[5] = 86; while 1 : chillax end; pop; pop end; output "Z" end main : pop 2; pop false and 85 + 0 - 12 end

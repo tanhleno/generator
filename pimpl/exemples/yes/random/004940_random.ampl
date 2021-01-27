@@ -1,0 +1,1 @@
+program L : j1h : takes A70a, s, Wl70, v : boolean array; a, f43 : integer array; E, mO, K : boolean returns boolean T : boolean; chillax end kQ : takes j : integer returns boolean array do Y(- 5, 80 = 14, 7) end c : takes kY, FF : integer array returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program u0 : A : takes iT2, s, e5 : boolean; L : integer; i, w : boolean; ybp : boolean array returns nothing F6 : boolean array; chillax end l14 : takes R26, I9 : boolean array returns boolean output 7; let V[6] = 94; input uv[87]; do nk2a(9) end main : chillax end

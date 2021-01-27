@@ -1,0 +1,1 @@
+program w6 : main : d : boolean; l, b : boolean; R790, j, j : boolean; output ">[\"" . x <= - 40600 . 3 = 7; when case true = (40) and 7 or 6 - 830 : chillax end case - not 51 and 0 > 2 : chillax end case 4 - 5 : output "" end case 9980 : chillax end case 851 : pop end case 8 : chillax end end

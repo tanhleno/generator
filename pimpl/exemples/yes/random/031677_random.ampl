@@ -1,0 +1,1 @@
+program d : n : takes r, z : integer returns boolean when case - true or 45 - 36 : chillax end; while 554 - 5 : chillax end end main : f, w : integer array; Z, gW, j, Y7_ : boolean array; chillax end

@@ -1,0 +1,1 @@
+program K : u : takes W5o : boolean array; Qj : boolean array returns integer array l : integer array; pop - 3 - 7; while - 6 - 7 : pop; pop end; output 6; let g = 6 end main : let M[55700 - (7) * false or true and 7 - 23 - 9] = o4Uaa and BH or 8 and 4 end

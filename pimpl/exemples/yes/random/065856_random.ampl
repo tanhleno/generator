@@ -1,0 +1,1 @@
+program gA : main : do _(- (6) < - U24aa[5] and B and 101); output true and 235 - 25900 >= - 76 - 4 . ":" . "_"; output - 1780 < 4 . 0; when case - 5 : when case 6 : chillax end; input w; pop end otherwise : when case 9 : chillax end; pop end; when case 1 = 3 : chillax end case 7 : pop end case 3 : chillax end otherwise : chillax end end

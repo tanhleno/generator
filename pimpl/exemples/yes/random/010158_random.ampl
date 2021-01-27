@@ -1,0 +1,1 @@
+program t_9 : I4 : takes Z2, J2N, OTw0a : boolean array; M : boolean array returns nothing k, T : integer array; chillax end main : h, R, ND0 : integer; do go6(false and W440a(961) rem 65100, (440) or true /= true or 2, - 1820 and 9 + 4 >= 4080 - 45, - 556, 64400 = 7350) end

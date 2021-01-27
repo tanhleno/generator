@@ -1,0 +1,1 @@
+program A : z : takes r, c : boolean array; E5h0, X77 : integer returns nothing chillax end J9 : takes V, h7 : integer array returns nothing input c5f[18 - 516]; input R[3] end U : takes T2 : integer returns nothing fKy0a : integer array; pop; input w[4] end main : j1 : integer; chillax end

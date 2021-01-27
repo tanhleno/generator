@@ -1,0 +1,1 @@
+program dY90a : tc : takes i, Y : integer returns boolean array chillax end x : takes W : boolean; j : integer returns nothing a : boolean array; when case - 2 - 498 : chillax end end main : chillax end

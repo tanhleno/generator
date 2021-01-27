@@ -1,0 +1,1 @@
+program ck : k : takes d3 : integer; e, S : boolean array; P : integer array; B, b, W6 : boolean array; s, L, e : boolean; b : integer array; Z : boolean returns nothing o, w : integer; jn, w, _m6 : integer array; let T = array - false end main : Lm4 : boolean array; input k; output(13) = - 30 end

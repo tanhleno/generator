@@ -1,0 +1,1 @@
+program R : A : takes w : boolean array; p2x, R, s, Rei : integer array returns nothing chillax end XW : takes _m, bM : integer array returns boolean array chillax end l : takes i72, _ : integer returns nothing input AHx0a[68] end main : chillax end

@@ -1,0 +1,1 @@
+program U : q8 : takes R, FX8, K53, _, SC : integer; OSU : boolean array; C6 : boolean returns boolean y, b : integer array; p8, _Hu : boolean array; chillax end P : takes H : integer array returns integer array chillax end main : _32 : boolean array; C : boolean array; A8b, y : integer array; input k_ end

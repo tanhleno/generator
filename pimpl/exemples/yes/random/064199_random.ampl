@@ -1,0 +1,1 @@
+program _5 : _ : takes u6 : integer returns nothing M, r, O, u, d : integer array; chillax end L : takes r, z, u, mz, If : boolean array; i : integer array; zA, b, S : integer array returns nothing chillax end main : do r0(- not 22 / not false and 6 and 0 + 40 /= false / 7 and 7 or true and 5600 - 4) end

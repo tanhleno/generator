@@ -1,0 +1,1 @@
+program xT1 : main : when case 1 + not 60 rem(7) and 2 > - 581 and 98 : when case - 427 - 14400 : chillax end case 4 : pop end case 458 : pop end otherwise : chillax end end case - false : chillax end; pop; let K65 = array true; output 24 = 34 end

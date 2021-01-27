@@ -1,0 +1,1 @@
+program X : G9 : takes o3 : integer; d, cA2aa : boolean array returns integer when case t <= 91 - 5 : do ZzDaa(9, 39); do d(890) end otherwise : input E end end main : z : boolean; rVla, DH, E, E : integer array; l9, DO, T : integer array; input m3E; let P0E[- not(3980) rem(2)] = E /= - 86300; do Z(- n4 or 4 - 46 >= - 4 - 999, 30 <= 9) end

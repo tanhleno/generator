@@ -1,0 +1,1 @@
+program pyB0 : y1v0a : takes K, rr : boolean; y : integer; cre0a : integer array; W : boolean array returns nothing o : integer array; when case - not 8 >= - 44500 - 972 : let XD[72] = 6150 end case - 61 - 39 : let G = 43; let F = 4120; pop end case 4 : chillax end; input bXW0 end main : chillax end

@@ -1,0 +1,1 @@
+program U : d : takes b, U, P : boolean; ll, OS, _, H : boolean array; J, H6, r, Q, CtC : boolean; Qu, FuY0, F : boolean array returns boolean array k9D, F : integer; when case 1 and 587 or 5 : chillax end otherwise : chillax end end main : when case 5 or false / not 89 - false >= 6 rem kCD0 and 0 : chillax end case - not(836) /= - true : chillax end end

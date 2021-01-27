@@ -1,0 +1,1 @@
+program U : SfE : takes h : boolean returns boolean array chillax end E : takes H7, c : integer; J : integer; T : integer array; X : integer returns nothing let ZB_0 = 8 = 01; do z(2); let bG[23] = array 1; let N = 4; do t(591); pop end main : O960, E45aa, h : boolean array; A : boolean array; while(8 = 8) : chillax end; output "\n" end

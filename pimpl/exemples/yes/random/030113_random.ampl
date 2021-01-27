@@ -1,0 +1,1 @@
+program W0wa : Z0 : takes br20, Ws : integer array returns integer let UB = array false end main : while true - not(79500) rem 17 : when case 510 - 21 >= 55 : chillax end case 8 : chillax end otherwise : do m9e0(48); pop end end end

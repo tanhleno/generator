@@ -1,0 +1,1 @@
+program B : U3 : takes m, D3H, z, G1 : integer array; S620a : boolean; n3A0 : boolean; P, F, UF, f, V : boolean returns boolean DSFa, g : boolean; output "" . ""; output ""; output 62; do O(42) end main : chillax end

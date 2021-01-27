@@ -1,0 +1,1 @@
+program mX : k : takes Si, r, N52 : integer; t40, V4Taa, p : boolean array; Nw, O55aa, m : integer array; Qj7aa : integer array returns integer H, k2X0 : boolean; I97aa : integer array; chillax end W4K0a : takes B : boolean array; N, g, K, OK : integer array returns integer array pop end main : output - 554 . true end

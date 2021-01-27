@@ -1,0 +1,1 @@
+program r : l : takes aT2 : integer array returns integer chillax end K : takes s8 : integer; p40 : integer array returns integer array u, NNKa : integer array; R5, f, ue : boolean array; E, A : boolean; u : boolean; Y : boolean; do R(- 38 /= 7, 0, 83, 1) end main : input u[u * true] end

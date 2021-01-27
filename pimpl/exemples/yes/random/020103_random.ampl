@@ -1,0 +1,1 @@
+program m : Z : takes m, E : boolean array; y : boolean returns boolean array b : integer; pop - 45 <= 8 end main : i, L : boolean; f, T : boolean; pop; output not 6620 and 1540 = 2 . - 9 - 2 < 3 end

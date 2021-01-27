@@ -1,0 +1,1 @@
+program S : E : takes C, W48 : integer array returns integer let N8 = 8 - 44 /= 9 end main : X9 : integer; while true : chillax end; pop; output - 5 = 899 . ""; do k(8 - 2 >= 4); when case 3 = 255 : input iJaa end otherwise : chillax end; when case 05 : pop end end

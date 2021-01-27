@@ -1,0 +1,1 @@
+program h : w8E : takes r : integer array returns boolean array QY : integer array; r04, Z, y : integer; input t[- 5 - 9850 - 3] end R4 : takes Q : boolean array returns nothing input qmPa[- 8]; pop end main : eR, cR, z, gn00 : integer array; B8ta : integer; A : integer array; pop false /= true and 90 end

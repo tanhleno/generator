@@ -1,0 +1,1 @@
+program KQ : Hg : takes E, n : boolean; X, F4S : boolean array returns nothing Q2 : integer array; chillax end L : takes Tv8 : boolean; S : integer; VG : boolean returns integer do g(03 - 1 > 2, 7 = 6, 32200, 6) end main : chillax end

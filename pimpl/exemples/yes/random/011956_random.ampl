@@ -1,0 +1,1 @@
+program Y : u : takes J, LeE0a, pB8a : boolean returns integer jWYaa : boolean; chillax end Q0g0 : takes Ni5, _6X, emk, T1, d9, A, K : boolean; D8, r : boolean returns nothing do awG(- 10, 504); let O = 23 end main : A140a, mtla, j_ : integer; chillax end

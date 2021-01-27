@@ -1,0 +1,1 @@
+program t : g : takes n, Xv : boolean; Q25, k : boolean; P : integer; N8, Z, W48 : integer returns nothing chillax end h : takes A56 : integer array; G2M : integer; T : integer; Q5, n : boolean array returns integer let O[- 6 - 9] = 60 = 52 end main : chillax end

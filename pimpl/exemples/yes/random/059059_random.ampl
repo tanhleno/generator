@@ -1,0 +1,1 @@
+program r5 : SNn : takes Q : integer array returns integer array while - 55 : chillax end end main : s : integer; output ""; while - not not 0 / pCr0a - Q and 8 : chillax end; input Ae[- e and 4] end

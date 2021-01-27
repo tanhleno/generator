@@ -1,0 +1,1 @@
+program J : s : takes C6 : integer array returns boolean array qYS : boolean array; chillax end Vai : takes y5 : boolean array; Fw9, q : boolean returns nothing pop 5 = 116 end AyM : takes J24, Y4qa : boolean; L, gi3 : boolean returns boolean gS, O, b : boolean; O8Q : boolean; chillax end main : FvH0 : boolean; chillax end

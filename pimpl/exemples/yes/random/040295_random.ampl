@@ -1,0 +1,1 @@
+program V6 : c7E : takes X : boolean array; y : boolean returns integer array chillax end O : takes L, z : boolean array returns integer D, v0, d, H : integer array; chillax end z : takes N13a, mQ, Ob9 : integer; _8 : boolean returns nothing i, rM : integer array; chillax end main : b : boolean array; oDo0a, k0, n, Z0 : boolean array; pop - (7) + true and 38 end

@@ -1,0 +1,1 @@
+program x : Kx : takes k3sa, l : boolean returns nothing chillax end gqL0a : takes m : integer array; Q, b, c, D, iU9aa, TpM : integer array; R, e : boolean array returns boolean array let P = array 7 - 65 end main : chillax end

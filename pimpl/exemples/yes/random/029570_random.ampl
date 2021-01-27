@@ -1,0 +1,1 @@
+program r : Ys : takes U4, j2 : integer array returns boolean g4 : boolean array; Fn20, S : integer; chillax end main : while - not 3 rem true and not 652 and 6 <= - true * true and 90 or(0) : output "x" . ")"; when case 734 : input eA6aa end case 82 : pop end case 4 : chillax end otherwise : pop end; while 202 : chillax end end end

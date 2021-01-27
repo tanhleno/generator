@@ -1,0 +1,1 @@
+program p : Q : takes E, PO5, X2, R_1a : integer; A : boolean array; s3 : boolean; u : boolean array; i2, L1q, A : boolean; h1C, P900, a : integer; Ke : boolean; z : boolean; VQt0 : boolean returns nothing chillax end N : takes st8, LS : integer; a, D : integer returns nothing b110a : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program z : i6uaa : takes M, Q0 : integer; o : integer array; rk, e, Y : integer array returns integer array l8, n0 : boolean array; pop 9 > 218; input ug; while 51 = 80 : chillax end; pop 232; while 9 : chillax end; input uD; pop end V1 : takes L1i : boolean array returns boolean O : integer; chillax end main : chillax end

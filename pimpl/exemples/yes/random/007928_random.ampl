@@ -1,0 +1,1 @@
+program W1 : n : takes jd, eM10, _9g0a, g : integer returns boolean array a48aa, Z : boolean array; n, N, uh : integer array; _QT : integer; while - (6570) + 2 - 260 < - 0 - 04600 : when case 5 : chillax end; while 5 : chillax end; pop end end main : chillax end

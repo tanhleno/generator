@@ -1,0 +1,1 @@
+program ABH : F5 : takes D, f : integer; y8, A : integer returns nothing input _[- false and 6] end j80aa : takes D, a81aa, JY : boolean array; m4aa : integer array returns integer chillax end main : qx, U, S : boolean; chillax end

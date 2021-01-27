@@ -1,0 +1,1 @@
+program y : U : takes W, B2 : boolean array; z2f0 : integer array; Qd, Z44a, zm : integer; YG : integer; q47 : integer returns boolean array EEK, bC6 : boolean; U, I : integer array; output "" . "V" end main : e : boolean; output "W\t" . ""; when case - not 75300 and 006 : chillax end case 59800 and 8 : output 3 . "4"; let x7Ya = 7 end otherwise : chillax end end

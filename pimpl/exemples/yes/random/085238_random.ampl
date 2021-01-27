@@ -1,0 +1,1 @@
+program f9 : main : ua : integer; when case true + false and(13600) < 6900 * true + 8 and 58 or 5 : let R[- 949] = array 8 end case v and 8 and 2 : chillax end case not 02 and 7 - 08 - 6 <= - 70 : output "$60" . "" end case 3 : chillax end case 84 : pop end end

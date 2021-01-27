@@ -1,0 +1,1 @@
+program Bvv : qH : takes f4_, Qub : integer; kw : integer array returns integer array chillax end main : u73 : integer array; E, A : integer; J2, k : boolean; J, Aora : boolean; A5, LT : boolean array; t : boolean; d : boolean; t : boolean; while - false + 8 >= - false : pop 5; while 0 : chillax end end end

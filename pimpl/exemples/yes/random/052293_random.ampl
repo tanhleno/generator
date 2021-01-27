@@ -1,0 +1,1 @@
+program n : vze0a : takes Y : integer; Y9 : boolean returns nothing S2L0a, R : boolean; b : integer array; d, S2 : boolean; input d[false - 34700] end J : takes z : boolean array returns nothing while - 1 - 12 >= 7880 : do x(65) end end main : chillax end

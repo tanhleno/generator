@@ -1,0 +1,1 @@
+program r5N : m : takes DU : boolean; u5, q : integer array; A1, wd3, A, H : boolean; m890a, e : boolean; tT5 : boolean array; k : integer array; _ : boolean; z : boolean returns nothing chillax end main : oE : boolean; G, W6, L, C, YO1aa : integer; while G8 or(6) and D : input L end; input y; output 8 - 1 /= 85 . "w" . 0 end

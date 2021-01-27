@@ -1,0 +1,1 @@
+program P : main : f, r1 : boolean array; h0 : integer; n8 : boolean; pk, q : integer array; when case - (02) : chillax end otherwise : output "$-"; while 04 : chillax end; output "0\t"; when case 545 : chillax end; pop end end

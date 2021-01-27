@@ -1,0 +1,1 @@
+program T : s7 : takes D3 : integer; P, X, s3F, k : integer; T : boolean array returns integer z, O67 : boolean array; _ : integer array; pop end main : input K[a rem true / false or true + false - 34]; pop end

@@ -1,0 +1,1 @@
+program G : i3N : takes S, ewE : boolean array; Yk : boolean array; m, yy : boolean returns integer chillax end main : O, Ps : integer; e : integer array; input _4; while - true or false or 86 - 4 : when case 77600 = 7 : pop; pop end case 3 : pop end end end

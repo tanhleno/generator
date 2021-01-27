@@ -1,0 +1,1 @@
+program l09 : EVJa : takes n, N : boolean; a, Q : boolean array returns boolean QK : boolean; vy6a : integer; input k end CiNa : takes K : boolean; Q, v, R : integer returns boolean chillax end main : chillax end

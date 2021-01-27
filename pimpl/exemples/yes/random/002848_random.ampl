@@ -1,0 +1,1 @@
+program j : b : takes B, S, T, x, F9 : boolean array returns nothing UM8 : integer array; let J5i = array - not 3 and 0; when case 3 - 05 : output "" end case 6 : output "8" end otherwise : chillax end end main : chillax end

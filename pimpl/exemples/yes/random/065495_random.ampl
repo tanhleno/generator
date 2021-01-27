@@ -1,0 +1,1 @@
+program U : LXWa : takes g : integer returns nothing when case I - 4 - 76 : do a4(1) end case 0 : chillax end case 144 : let x = 7 end case 4 : chillax end case 1 : chillax end end F2 : takes v, E : integer; U, WL7, r : boolean; g : boolean array returns nothing output 635 = 2 . "\tH0"; pop 8 end main : chillax end

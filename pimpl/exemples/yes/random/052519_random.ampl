@@ -1,0 +1,1 @@
+program LP : M : takes w3 : integer; e : integer; j : boolean array returns integer array input k[(55) and 391] end V : takes L57, Q9 : boolean; mU : integer; aV, P51aa, w2 : boolean returns integer array chillax end G80 : takes n4Waa : boolean; I : integer; Na : integer; v, Z, v : boolean array returns integer A, Zv3, j20aa : integer; chillax end main : chillax end

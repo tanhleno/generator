@@ -1,0 +1,1 @@
+program D : Z : takes PQ : boolean returns integer array chillax end main : U, g : boolean array; do B(false / f and not 7 and 20 + not not 8 = true rem 8 and 4030 - false); while true + (28) = Nq or 6 - 4 : chillax end end

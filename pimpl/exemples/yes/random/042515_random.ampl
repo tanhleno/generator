@@ -1,0 +1,1 @@
+program JT : z : takes J0W0 : boolean array returns integer array do nQ(r - 9270 - 094 > - 3 - 3); output 90 = 4 . "" . 30800 end ic : takes Z, N : boolean returns boolean array while - 6 : chillax end end main : h, sii : boolean array; chillax end

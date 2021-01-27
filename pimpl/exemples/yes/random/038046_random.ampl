@@ -1,0 +1,1 @@
+program uS80a : xF : takes v7 : boolean array; U, i98a, m : boolean array; Ten0a : boolean array returns nothing when case - true and 526 = 91 : output 7 end end main : z2 : integer; when case not true rem not true or false or not 3 = not not 28 + 89 and 12 : chillax end otherwise : chillax end end

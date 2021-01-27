@@ -1,0 +1,1 @@
+program e : I : takes w, S, B, R24 : boolean; u : integer array returns nothing L, gFV, wg, i03 : integer array; do qi(m, - 7 - 2) end T : takes j : integer array returns nothing do O(- 5 - 13, 578, 9, 3) end main : pop end

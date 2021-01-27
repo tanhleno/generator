@@ -1,0 +1,1 @@
+program Td90a : WO : takes d, zKZ : boolean returns nothing when case true and 8 + 5 - 0 <= 2 : chillax end case 87 - 22300 > 90400 : chillax end case 01 = 8 : chillax end otherwise : when case 7 : chillax end end end main : EzM0a, sM1 : integer array; E, f : boolean array; it : boolean array; pop; do tsV(0 > c) end

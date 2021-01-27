@@ -1,0 +1,1 @@
+program p0 : F : takes M7 : boolean returns integer array do v(false, 23300 - 2 = 347); while 3 : when case 3280 : chillax end end end main : do m2(393 rem not 7200 or 0 / not 3 or(35) and 148 - 0 <= 2) end

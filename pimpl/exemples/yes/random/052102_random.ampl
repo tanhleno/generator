@@ -1,0 +1,1 @@
+program M0 : J : takes T : integer; Qx : boolean returns boolean array chillax end j1B : takes v2, X, C, _, eK9, O0 : boolean returns integer chillax end Ch : takes m8, A6 : integer array returns boolean array chillax end main : let s0[true / (47) + false + d and 37 or 60] = array - 1 rem false rem not 369 end

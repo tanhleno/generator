@@ -1,0 +1,1 @@
+program h : Cn : takes l83 : integer array returns integer Z : boolean; _ : boolean; S, UD, x350 : integer array; chillax end L : takes t : integer array; a2 : integer array; o9 : boolean array; be50a, xf4a, e9 : boolean; b : boolean returns integer array chillax end main : do RiT(- M1[5] and 401 - true = true) end

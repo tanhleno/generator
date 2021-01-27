@@ -1,0 +1,1 @@
+program v : OJ : takes G, C9 : integer array returns boolean array V : integer array; l : boolean; d : boolean array; chillax end f8Qaa : takes GZs0 : integer returns integer array A : boolean array; C4, O, M : integer; F0 : boolean; output 9 = 75; do A(82, 89, 840); pop 11 end main : q : boolean array; chillax end

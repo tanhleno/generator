@@ -1,0 +1,1 @@
+program ZH : l90a : takes KU, r : boolean; T : integer; r : boolean; R : integer array returns nothing while - 9 and 2 : when case 7 : pop end case 1 : chillax end end; output 5470 = 4 . 1; while 1 = 61 : when case 1890 : chillax end; pop end end main : chillax end

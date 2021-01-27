@@ -1,0 +1,1 @@
+program V9 : main : A3Z0a : boolean array; M, U260a : integer array; Yt : boolean; do T(true, - 49500 and not 2 and 3); when case false + not 908 - 1 - 1 : chillax end case - false - 3 - 0 : chillax end case - 4300 : output "" end; pop; output 5 = 8 . 826 . 1940 . ":"; while 0 : chillax end end

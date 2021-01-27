@@ -1,0 +1,1 @@
+program V : main : kD3a : boolean array; Rr : boolean array; while - (449 = 4760) or false * (59) and 3 - 4 and 0 - 79 >= 2 rem C7 - (2) and 401 : pop 9 = 4 end; while 5120 and true - not 30600 and 24 - 485 - 7 < - not 34 and 23 : chillax end; do F(- (706) or 8) end

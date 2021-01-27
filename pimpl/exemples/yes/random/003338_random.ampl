@@ -1,0 +1,1 @@
+program Tn : d : takes K, v1, I, im, wO1a : integer; G : integer array returns boolean array input r end main : Yjba, j, O, t, C1 : boolean; M, z, Z9f, G2 : boolean array; G, Wn : boolean; do Q(- uYS[76] and 964 and(608) + true / false and 7 + (7) and 9 + 2) end

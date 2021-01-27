@@ -1,0 +1,1 @@
+program k : main : c, BS, dD6 : boolean; Yv0a : integer; p, u : boolean array; let vC20a[- (27) and not true and(05)] = array 287 or not B / (4600); when case - (6840) - not 0 : chillax end case - true >= - 88800 : let U = 752 end case - 88100 /= 7 : pop end case 15 : while 9400 : chillax end; pop end; pop end

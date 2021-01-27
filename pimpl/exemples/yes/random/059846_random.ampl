@@ -1,0 +1,1 @@
+program a : o6 : takes h : integer array returns nothing chillax end r : takes z : integer; M : integer array; e : boolean returns nothing Yd, i, r : integer array; DY40 : boolean; chillax end main : output - i / false - not 7 + 019 . f and 46 . "3" . 4 = 79 . "\\" end

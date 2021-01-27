@@ -1,0 +1,1 @@
+program eDFa : Wo1 : takes F5, c : boolean array; I : boolean; j, ib : boolean array returns integer while - B8Kaa : do _(0); do Z2(0) end; output "\"" . 9 . 56 . "5"; do l(53500, 69); input T5 end main : chillax end

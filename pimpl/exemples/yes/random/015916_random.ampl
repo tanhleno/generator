@@ -1,0 +1,1 @@
+program l4 : l7 : takes k, o, R0 : integer returns integer array do Z91(not 00 - 86 > - 8 - 9); do C(- 1 - 4, 6 = 5, 137); input np6 end main : B : integer; _, h6S : boolean; input a[h(4, 90) * R[3550] rem cMU] end

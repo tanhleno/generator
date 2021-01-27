@@ -1,0 +1,1 @@
+program W : h : takes N40a : boolean; D, l : integer array; kT3, mf1 : boolean array returns integer array do O(true /= 52 - 49, - 142 - 6 /= 055, 9) end main : e, w60 : boolean array; cS0, J : integer array; N18, w : boolean; output "<" . - (58200) and 07 end

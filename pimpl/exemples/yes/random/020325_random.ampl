@@ -1,0 +1,1 @@
+program z : p3Maa : takes n, WV : boolean array; _83 : integer; IH : boolean returns integer array f, i, jJ : integer array; A3 : boolean array; chillax end main : v, l62 : boolean array; s, Ys : integer; chillax end

@@ -1,0 +1,1 @@
+program P : xD : takes K, PU, N : boolean returns nothing when case - false or 8 - 48200 /= 8 - 2 : chillax end; while - 5 - 60 : chillax end end QL : takes g, T, Hh, O3, N : integer; g, q : integer; W, L9 : boolean array; iV : boolean; Gw, V, i : boolean; jr, a : boolean returns nothing let _[816 - 56] = array 390 - 18; pop end main : chillax end

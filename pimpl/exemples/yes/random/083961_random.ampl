@@ -1,0 +1,1 @@
+program X : main : Lrd : integer; e : boolean; w69a : integer; b, ak, NM0a : boolean array; while - u(5) and T[2] <= 7070 / not 5 and 3 or 8 : chillax end; input X[false]; while - not 955 and 7 : while 2 : chillax end; output "" end end

@@ -1,0 +1,1 @@
+program q : lY : takes sa, n750a : boolean array; w2, zY : integer; q : boolean array; JS9 : integer array; G : boolean returns boolean chillax end ha0a : takes f : integer array returns nothing A, Y, o, f : boolean; chillax end main : chillax end

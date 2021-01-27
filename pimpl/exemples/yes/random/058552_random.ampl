@@ -1,0 +1,1 @@
+program uhX0a : z41 : takes F : integer array returns boolean when case true and 33 >= 54 : while 0930 : chillax end end case 79 /= 4 : chillax end case 7 = 3 : let f48 = 10000 end case 06 : chillax end end Ob : takes V54aa : integer returns integer array i, d : boolean; chillax end main : x, lN : boolean; chillax end

@@ -1,0 +1,1 @@
+program I96aa : N : takes _gg0, x6I : boolean array returns integer chillax end O4Paa : takes f8 : boolean returns nothing chillax end main : pop; while true or not 95 and 393 - 2 - 5 : while 60 = 5760 : chillax end; when case 254 : pop end otherwise : chillax end end; output 7 . 75 end

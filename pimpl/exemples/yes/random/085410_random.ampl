@@ -1,0 +1,1 @@
+program MH : main : be : integer; while true >= - not 7 : input UXm0; when case 5 = 53800 : input U1; pop end case 75000 : chillax end case 4 : chillax end; input O[73]; let R = 14 end; do c(not 2 * (97000) or false or 4); let pUK = array - 0 and 7 end

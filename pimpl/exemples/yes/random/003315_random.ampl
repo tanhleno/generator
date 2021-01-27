@@ -1,0 +1,1 @@
+program hq8aa : _ : takes Z, RX, Px, o, GOea : integer; E : integer; t : boolean array returns integer array chillax end w : takes M, q, F, oZ70 : integer; B : boolean array returns nothing R : integer array; D : boolean array; i : boolean; chillax end main : input V[- false and false - 28 and false] end

@@ -1,0 +1,1 @@
+program ji : J : takes o : boolean; I, Vv, A930, pTv, i0G, aO : integer array returns boolean array chillax end main : do W(- (9 = 359) or(5) > - (874) rem not 0 and 8); pop true and 4 - 4 - 4 = - 931 end

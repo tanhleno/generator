@@ -1,0 +1,1 @@
+program z : main : output ui . "" . - 3; when case - false * (9) and 0 + 56 and 5 : while 02 = 1 : let X = 4; pop end; while 99 : chillax end; while 625 : chillax end; while 0 : chillax end; pop end otherwise : while 9 : pop end; pop; input rx; pop end end

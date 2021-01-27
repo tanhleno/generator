@@ -1,0 +1,1 @@
+program p : z69aa : takes soW0a, l37 : boolean array; PW1 : integer array returns nothing V4 : boolean; I, d1Q : integer array; chillax end main : V : boolean; F93aa, A4 : boolean array; B, s8Y0 : boolean; VW : boolean array; do R(- true / y46 * OP and 1300); output "\\" . - 0 - 302 < 61 . "74" end

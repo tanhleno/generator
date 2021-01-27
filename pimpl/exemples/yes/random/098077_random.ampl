@@ -1,0 +1,1 @@
+program N5 : main : while - (625 = 6) < - false * 19200 and 7070 or not 590 + 5 - 5 : chillax end; do t(F[61300] or true and 7230 + 33 - 7 /= - false - 3 - 15, - true or 8290 > 09 - 6); while 87600 and 6 < - 1 : let Cy[51] = array 4 end end

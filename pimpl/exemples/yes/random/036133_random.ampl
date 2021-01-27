@@ -1,0 +1,1 @@
+program G : Q8 : takes l : boolean; j6T : boolean returns boolean array h : integer; C460, DV9 : boolean; K : boolean; o, e14 : boolean; f : boolean; chillax end main : KZPaa, O : integer; YWH0a, W : integer; n, Kx4a : boolean array; output "" . - not 67 and 0 or 993 - 07900 = 1 - 68400 end

@@ -1,0 +1,1 @@
+program _V : main : Qi, SO00 : boolean; D : integer; x7, p38, a27, c, K : integer; E, P1, S1 : integer array; L9 : boolean; C : boolean; C : boolean; when case - true and false + S rem(2) and 0 : let h = array - 92200 - 32 end otherwise : chillax end; let O = array not true / F - 2 and 6; input b250a[- qd] end

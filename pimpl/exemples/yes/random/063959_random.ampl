@@ -1,0 +1,1 @@
+program W : j7 : takes m : integer returns nothing chillax end main : sBo : boolean; z0, x, J : boolean; when case(4 = 84) or not not 66 > - 3 rem C : output 703 = 9 end otherwise : pop 0 end; input m[- 49 rem not 7]; input O[false and 3 + 93]; pop 7; while 7 = 4 : chillax end end

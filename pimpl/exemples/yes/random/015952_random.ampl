@@ -1,0 +1,1 @@
+program rK0 : x : takes F, X, V : integer returns integer array c : boolean array; M, H82a, g, k : boolean; p : integer array; T0 : boolean; chillax end main : when case - m5Ia[2] + true - false + 1 - 4 <= - false - (55) and 18 : when case - 1690 : output "" end case 119 : chillax end otherwise : chillax end end otherwise : chillax end; let z090 = 2 and 6 - 7 <= 4 - 0120 end

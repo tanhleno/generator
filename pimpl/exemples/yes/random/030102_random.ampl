@@ -1,0 +1,1 @@
+program W : J53 : takes p86, u : integer array returns integer input z3; while 49 - 90 : chillax end; when case 5 : chillax end case 2 : chillax end case 80 : chillax end; pop 0; input C; let g = 016 end pI : takes O : boolean returns boolean chillax end main : input I; input gb end

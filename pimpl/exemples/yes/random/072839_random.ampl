@@ -1,0 +1,1 @@
+program c : main : o4O0, x190, Q : integer array; f9, c : integer array; h : integer array; XEO : boolean; A5n0a : integer; bU : boolean; when case false rem d(70) : while - 67 - 08 >= 06 : chillax end; let h = array 6 end case - 396 - W and 4 - 7 - 5 : when case 8 = 47 : chillax end otherwise : pop end; while 37100 : chillax end end otherwise : chillax end end

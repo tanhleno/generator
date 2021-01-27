@@ -1,0 +1,1 @@
+program V : xH : takes a, i7 : boolean; VS6, T8 : integer array returns boolean array FY : integer array; chillax end main : z3ea : integer array; do Q(- uS[509] = (7) * not 7 + (4680) - 4 - 4); while - false / not 5 and 37 : chillax end; while - SA and 4 + 96100 < 1 - 8 : chillax end end

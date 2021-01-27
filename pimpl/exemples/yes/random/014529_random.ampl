@@ -1,0 +1,1 @@
+program TqCaa : Pd : takes L, X2J, X2h : integer array; s : integer array returns integer chillax end M : takes K : boolean; n, R, T1, fK, b : boolean returns boolean r3, m70aa : boolean; when case 8 - 4 : chillax end; let k[36] = 3 end main : chillax end

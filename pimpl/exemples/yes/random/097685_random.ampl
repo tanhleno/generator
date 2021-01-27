@@ -1,0 +1,1 @@
+program z97a : main : when case true or(26) * (6) and 4 - _ or 5 - 3 /= false and m or 82 + 371 : do E(35, 11 = 8, 5); while 8 = 8 : chillax end end; input BX[- not true / false and 4]; do Z(not 16 and 2010 - 92 - 0, 2) end

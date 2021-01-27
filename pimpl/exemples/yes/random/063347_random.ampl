@@ -1,0 +1,1 @@
+program g6 : kSV0a : takes q : integer returns integer F, E, S : boolean array; q : boolean; D7 : boolean array; chillax end e5 : takes q, psf : integer; u, w : integer array returns integer e, b : boolean array; output "r-0" . 1 . "" . ""; pop end main : input e end

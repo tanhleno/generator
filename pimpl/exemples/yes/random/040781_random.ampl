@@ -1,0 +1,1 @@
+program x : m : takes gOo : boolean array; n : integer array; L, q5U, r : integer array returns boolean output 86 - 191 >= 6 end a : takes Y, i, t0Oaa, Io4 : boolean; g18aa, R, W, Z, V, _ : integer returns nothing let F = array 7 end main : chillax end

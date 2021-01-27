@@ -1,0 +1,1 @@
+program g2Qa : Nb : takes La, E01 : integer; lS, _, P, oa7aa, F : integer array; tr : integer; t : integer; A, j : boolean array returns boolean array chillax end u8 : takes T, F, V3 : integer returns boolean kq : boolean; chillax end main : W : boolean array; let JA = array(6970); input tMH[not x and(6)]; pop; let Y9 = 6 = 881; output 5 . 82300 . "J"; pop 109 end

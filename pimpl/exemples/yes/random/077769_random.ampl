@@ -1,0 +1,1 @@
+program fM : main : Qo20a, A3 : integer array; Y : integer array; h : boolean; I6, j5, B4A : integer; let v[- not 70] = - 69 - false and 203 <= - not 72; let Gy = array true and not 17; let _[- 3 and 85] = - 2 >= 65; let k8 = 7 end

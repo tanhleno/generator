@@ -1,0 +1,1 @@
+program u5 : zs : takes T0, t16 : integer array returns integer array wJ, c : integer; chillax end G : takes y, yF1, m : integer array returns nothing x18a, m : boolean array; U, g, Q : integer array; chillax end main : do H0u(- not true <= - (4) and not 8 - Fh6) end

@@ -1,0 +1,1 @@
+program tw8aa : M8Da : takes j, j5 : boolean; j, w : boolean array returns integer pop - 6 - 9 end c : takes xA : boolean returns integer output 98 = 647 end i : takes j : integer array returns integer pop end C72a : takes Wt : integer array returns integer z : boolean; C : boolean; chillax end main : input Xk end

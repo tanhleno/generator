@@ -1,0 +1,1 @@
+program VY9 : W : takes z0 : boolean; W : integer array returns nothing f : boolean array; y : boolean array; do M0y(f - 384 - 48, - 51 - 841 = 5); pop end main : let DX[false / 8] = - E * true + f2oa and 4700 > - not 3; while false rem kS5 and 850 + A + 081 : chillax end; when case - not 19 and 9030 or 3 - 5 = 1 : chillax end case 2490 - 3 = 6 : output "" end end

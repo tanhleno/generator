@@ -1,0 +1,1 @@
+program nuY0 : n5i : takes nv, EY40, M, z6 : integer array returns nothing U1, y : boolean array; when case(203) and 8 = 4 : while 7 : chillax end end case - 5 >= 5 : when case 4 : chillax end end otherwise : when case 9 : chillax end end end main : chillax end

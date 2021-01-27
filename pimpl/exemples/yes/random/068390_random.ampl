@@ -1,0 +1,1 @@
+program T : main : fFl, u0l, xq, x, h, Yhl : boolean array; v, T, L : boolean; U, B0x0 : boolean; m0, Y : boolean; X8, v, O : boolean array; when case - not a - (6) + (911) < - false + true : let CV[8 - 403] = 08 = 8 end end

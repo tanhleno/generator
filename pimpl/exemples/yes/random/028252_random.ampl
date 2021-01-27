@@ -1,0 +1,1 @@
+program D660a : l940 : takes s7M, _8 : integer array; s : boolean array; XwY, g, E : integer returns nothing n, rU, g : boolean; g5, EA, Z2, l : boolean array; ZlA : integer array; chillax end main : CK : boolean; input _790a; do JiP0a((0460) or 1 and 5) end

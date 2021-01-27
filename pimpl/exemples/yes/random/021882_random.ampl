@@ -1,0 +1,1 @@
+program MA : L6R0a : takes Vh, V : boolean array returns nothing chillax end T : takes D, t2 : integer array returns nothing zn, b, le : boolean array; chillax end main : do GIT(9 >= - o71[83700], - false = 98) end

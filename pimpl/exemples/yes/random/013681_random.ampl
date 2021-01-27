@@ -1,0 +1,1 @@
+program a : P : takes v4, W, E8 : integer array; y, X, T, d : boolean; z : boolean array; l : integer array; A8, S, D97a : boolean array returns nothing do Y(- false, 43 - 5); let V[2 - 6] = 102 = 23 end main : O83, q : integer array; pq00 : integer array; j20, _ : boolean array; chillax end

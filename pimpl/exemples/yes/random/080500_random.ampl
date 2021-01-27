@@ -1,0 +1,1 @@
+program s8 : main : V : boolean; while - t(8, 72) /= false and H1pa and 1 + not 722 or 2 - 7 : let Kn8aa[870 - 0] = array 945; when case 7 = 2 : chillax end case 32 : chillax end otherwise : pop end; let q = 52300; while 31 : chillax end end; let p[- (195) + not 61100 and 60 - 08 - 4] = array - true / false - true and 71; pop 68500 - 19; input _ end

@@ -1,0 +1,1 @@
+program U : main : do K(not s7[7] and(42300) * K, - false rem 3 and 00, - false and 419, - 8 - 2 < 1); when case - (75300) >= - not 7 - 0 : pop end otherwise : chillax end; when case - false and 656 - 8 - 1 : chillax end; when case - 3 >= 52 : do H(0860); do u(27) end end

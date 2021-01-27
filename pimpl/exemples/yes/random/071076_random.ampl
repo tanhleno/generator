@@ -1,0 +1,1 @@
+program tR : main : M, io1aa, n : boolean; a : integer; let p3m0[- (853 = 84000) rem not l4] = array - true and true; output(661); when case M >= 0 : do N42aa(3); when case 05 : chillax end; do q7(5) end case - 8 : while 57 : chillax end end case 7 : when case 17 : chillax end; pop end case 44 : chillax end case 1 : chillax end; pop 9 end

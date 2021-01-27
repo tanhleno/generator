@@ -1,0 +1,1 @@
+program Bv : main : u : boolean; ku : integer; I18, z, w2, c, a : integer; do y(- false * not false + not not 9 >= 52900 / (8) and 0); pop 5 and 8730 or 3 - 0; do B(- 8 + 137 - 32700); do T3(- 455 - 223, 7, 86, 09) end

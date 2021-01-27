@@ -1,0 +1,1 @@
+program g : o : takes N : integer; u, G : integer; cd, m : integer returns integer array chillax end LWZ0a : takes J : boolean; G : boolean array returns nothing input p85aa[6]; let Z[3790] = 8 end w : takes o8, X9, e : boolean returns nothing output "" . 24 end main : A, q9, R, f, VC, b : boolean array; R : integer array; pop not false and true and 0 or D end

@@ -1,0 +1,1 @@
+program D : M : takes WU70, Q, AoN, I, l, Po, O9 : boolean array; N, a7 : boolean returns nothing chillax end Sr : takes P, KVf : integer returns boolean X : integer; s : boolean; chillax end main : F0, J : boolean array; chillax end

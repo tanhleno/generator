@@ -1,0 +1,1 @@
+program an : a8 : takes K, Bb5 : integer; W : boolean returns nothing chillax end main : j, MSZaa, o7 : integer; I9, ot90, L : boolean; while true rem false rem W_ and 2 or false - true and 9 - 9 - 1 : input F4[- 36] end; do L(- 606 or not 5 and 3 + 14 >= - (3) and 1 - 8 - 4, not 6 and 55 <= - 95600); when case false : chillax end end

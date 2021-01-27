@@ -1,0 +1,1 @@
+program Z : xi : takes s : integer array; UD : boolean; J : integer array; bd, gsP, u : boolean; _, vB0 : integer array returns nothing output 1 >= 90400 end main : do M((4310 = 74) rem false * (93300) and 5) end

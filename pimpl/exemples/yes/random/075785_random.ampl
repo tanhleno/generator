@@ -1,0 +1,1 @@
+program m : main : Y5D, _ : integer; do U(- not false, j[3100] >= - true + 2 - 82, false /= - 7); while true * false or H and 7 + 8 <= - 2 and 3 or 8 : when case 08 = 2 : output ";,"; pop end case 0530 : chillax end end; pop 25 - 0830 = 5 end

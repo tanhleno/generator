@@ -1,0 +1,1 @@
+program I8 : main : Q, F : boolean array; x : integer; TbYaa : boolean array; xA, g550 : integer; when case - false / true = - true : let B490[84] = 56 = 50 end otherwise : chillax end; while - (7) < false : output 5 end; let Fr4 = - 430 = 32 end

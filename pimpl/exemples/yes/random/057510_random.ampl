@@ -1,0 +1,1 @@
+program QBh0a : vYK : takes nz : integer array; L2 : integer returns nothing A : boolean; aE4 : integer; NX90, w6Ga, A : boolean; O, lq : boolean; i : boolean; V : boolean; chillax end main : do F((4), (668) * 8 and 3410); pop end

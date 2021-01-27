@@ -1,0 +1,1 @@
+program M86a : r6 : takes U, i2g, _ : integer; t : integer returns nothing r090a, C, Z : integer array; y : integer; output ">" . 32 end main : d86, G, m1, dX, Q5u : boolean array; v24 : boolean; chillax end

@@ -1,0 +1,1 @@
+program I9 : y : takes T, X, us9, C : boolean array returns nothing iiz0 : boolean; S2 : integer; y4I : integer array; while 054 and 95 or 6 : chillax end; output "{" end main : y28, K : integer; s, d3 : integer; w2, V, H, i : integer; output j0Laa <= 3 and 9 . "" end

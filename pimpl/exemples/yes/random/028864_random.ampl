@@ -1,0 +1,1 @@
+program Olh : T7 : takes z6t0a, tlca : integer array; U : integer array; uC8aa : boolean; iC3 : integer returns nothing chillax end F8 : takes WA, SOH0 : integer array; nJhaa, o, U : boolean array; p, Q, z8 : integer array returns nothing chillax end main : chillax end

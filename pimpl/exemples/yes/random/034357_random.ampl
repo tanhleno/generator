@@ -1,0 +1,1 @@
+program s3 : S8 : takes k7k0a : boolean; v, Fv : boolean array; y0b, h, Y, k, h : integer array; S5Daa, W, qT : integer array returns boolean array chillax end main : let lZo = - (400) <= - (7620) + 34 - 07 end

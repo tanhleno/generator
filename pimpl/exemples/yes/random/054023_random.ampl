@@ -1,0 +1,1 @@
+program T : Hy10a : takes _ : integer array; N4, fe, lU : boolean array returns integer array M : integer array; s : integer; when case - 203 or 93 : pop; when case 8 : chillax end end case - 8 - 8 : chillax end otherwise : chillax end end main : chillax end

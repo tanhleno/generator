@@ -1,0 +1,1 @@
+program W : main : I, m : integer array; W, G_40, hsK0 : integer; while - T(3, 4) - not(6100) and(3) <= - false or F and 7 : while 78 - 5 > 5 : chillax end; do G(3); pop; when case 3 : chillax end; output ":," end end

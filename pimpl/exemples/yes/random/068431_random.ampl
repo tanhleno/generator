@@ -1,0 +1,1 @@
+program Z8o : main : uS, U9, x, S, I, m : boolean array; y : boolean array; input i[- true / true and 5 and 99 - not false]; when case - 65 and true or(94) and 9330 <= false or 24500 - 291 : chillax end otherwise : output 7 end; let K = - 98; when case - 81 : output "|"; output "" end case 7 : chillax end case 35 : chillax end otherwise : input Fv; pop end; do F(83) end

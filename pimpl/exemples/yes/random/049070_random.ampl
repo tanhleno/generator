@@ -1,0 +1,1 @@
+program y : a : takes bs60 : boolean returns nothing pop 6; when case 1 = 4 : output "I+0"; do t2(482) end case 9 = 3 : when case 6200 : chillax end; pop end end main : V : integer; when case true rem false / 33 - 18 - not 464 : do V(- 4 - 6, 638) end otherwise : chillax end end

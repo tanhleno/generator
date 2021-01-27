@@ -1,0 +1,1 @@
+program s : k : takes g8 : boolean; Mu, Q8Uaa, T, G, _vDaa : integer array; M : integer array; k, j, i : boolean array returns nothing pop end main : L8, m, A, PnG, iyu, y : boolean array; R23a : integer; chillax end

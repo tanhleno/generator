@@ -1,0 +1,1 @@
+program n56aa : _ : takes D, qd3aa, q, F : integer returns nothing pop 53400 - 6 >= 26; when case - 61 - 784 < 2 : chillax end case 7 = 4 : output "r"; pop end case 0 : pop end otherwise : input h23; pop end end main : m, a, M, O2, Y, Z : integer; chillax end

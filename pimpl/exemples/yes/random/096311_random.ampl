@@ -1,0 +1,1 @@
+program J : main : when case - not true : chillax end case 9 <= false and 53 - 2340 : output "+20"; let D = 9 end otherwise : chillax end; let e8D[0] = array not true * false + not 45 and 41; while - (742) or 83 - 1 > - 03900 - 3 : chillax end end

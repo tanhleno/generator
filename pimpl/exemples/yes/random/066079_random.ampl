@@ -1,0 +1,1 @@
+program I : main : do Jn80a(- false / false and false or false > - (951), - 2 or false and 13 <= not 35 and 5, - false <= 1 - 50600, - 62 - 3); while - false rem(1) and 8 /= - true - 44700 - 03000 : input d4[6]; pop end end

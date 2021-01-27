@@ -1,0 +1,1 @@
+program d : w : takes i, y4P, pn4a : boolean array; vgnaa : boolean array; R : integer; h, I9U0 : integer; f, X, O, M2sa : boolean array; U, q44, u0za : integer; e6A, p09 : boolean returns integer array input YNR0a[- 425 - 73 - 114] end main : U1 : integer array; chillax end

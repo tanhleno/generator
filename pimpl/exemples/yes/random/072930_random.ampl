@@ -1,0 +1,1 @@
+program E : main : Z, Q69, Fu : integer array; g : boolean array; when case not true * true or 4 > - (60700) and true and 6440 + j47 : chillax end otherwise : output 1480 . 72; pop 2 end; let a23 = array - not true and true and 59 or not 906; input mpU; output 4480 . 2 . "n2a" . ""; while 8 : chillax end end

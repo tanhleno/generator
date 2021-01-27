@@ -1,0 +1,1 @@
+program ay : G : takes I6 : boolean; X11a, Q : integer array returns nothing t, Y : boolean; p, V2 : integer array; ly1 : integer; UJ, l : boolean; input OBo[- 43 and 15]; while 42800 - 68 : chillax end; pop 8; output "\n8"; do Z(4); output ""; pop end main : R : integer array; chillax end

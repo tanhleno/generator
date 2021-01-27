@@ -1,0 +1,1 @@
+program T1 : main : do g(m1I * not xNe / true <= - false); when case(575) : chillax end otherwise : let WV = array 90 end; when case(99) and 3 + 73700 /= - 84000 : chillax end otherwise : chillax end; do Q63(- 16, 81700 = 68800, 92); let _x[5] = array 95200; when case 71 : pop end case 98 : chillax end otherwise : chillax end; let i = 7 end

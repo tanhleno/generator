@@ -1,0 +1,1 @@
+program Ff5 : CI5 : takes j : boolean; r940, d0, u31 : integer; y, zcaa : integer array; L8a, X, EDH : integer; S, m5 : integer array returns nothing k9, K : integer array; chillax end main : while - not 056 rem 2 or 3330 - not 64500 + 4 : chillax end; let g[z rem false and 223 + R920 and 1] = false and 26 - 56600 /= 1 - 59 end

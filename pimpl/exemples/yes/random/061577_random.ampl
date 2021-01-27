@@ -1,0 +1,1 @@
+program j : S : takes u600 : integer array returns nothing when case Y >= 41500 - 6 : chillax end otherwise : let T2 = 89; do r(77); pop end; let j[- 5] = 17800; input x; while 88 : pop end; input v end main : P7q0, B, XC1 : boolean array; pop; while - 61700 and not 55 = false + 07700 : when case 0 : let o2 = 784 end case 6 : pop end; input Q; output "" end end

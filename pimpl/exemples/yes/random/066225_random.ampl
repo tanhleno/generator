@@ -1,0 +1,1 @@
+program j : main : do F(- BbD(4) rem not not 92 + (23) and not 2 and 94 > (3), y77(272) >= - (69) - 16100 - 52); input B[(2660) or false and 9]; do r6Va(- false and 6); while - 9 : do r(2); do m5(299) end; output 7 . 92 end

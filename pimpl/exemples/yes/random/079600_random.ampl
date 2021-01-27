@@ -1,0 +1,1 @@
+program e : main : H : boolean; v : integer; o : integer; lg : integer array; while - f[23700] - true /= - (98) and true : output "" . 9; when case 6 : chillax end case 51 : chillax end; while 0 : chillax end; pop end; do r(true + true and 80300 or 5 - 5, true and 0); when case Tfy >= - 55400 - 1920 : do d(110); do gJ(3); while 03 : chillax end end; input d end

@@ -1,0 +1,1 @@
+program x : main : Ee : integer array; let B[- N(0, 0) / I[4] and(84700)] = array - A(0, 7) / not(752) or not(08) or(7) and 3 + 49 - 7; when case - (3) : output 90100 end case - bs : input c3 end case 0 - 2 : output ""; pop; pop end case 1 = 07 : do A(4); pop end otherwise : chillax end end

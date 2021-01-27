@@ -1,0 +1,1 @@
+program f : EI : takes K : boolean array; z8, t, k5 : integer array; s7, T7, t : boolean array; k : boolean returns nothing input k; output "<" end f6V : takes q5 : boolean; _1, bG6, V : integer returns nothing input l0 end main : Y, B : integer; chillax end

@@ -1,0 +1,1 @@
+program mZM : K : takes B, kF : integer array; X3 : boolean array; n, WZtaa : boolean; s, d5 : integer array; y0, P4Saa : integer; Mq, t, D9 : integer returns integer h, P, I, w, P : integer; e : integer array; chillax end utb0a : takes En7aa : boolean returns boolean array chillax end main : w : integer; do c(- 1); while - (1) : chillax end end

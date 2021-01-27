@@ -1,0 +1,1 @@
+program g : nUn : takes S4, p5, c : boolean array returns nothing pop 9; when case 53 - 272 > 9 : output "D\t" end case 755 : when case 7 : chillax end end case 9 : pop end case 49 : chillax end end main : p, s, r : boolean; chillax end

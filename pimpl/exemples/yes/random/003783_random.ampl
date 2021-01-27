@@ -1,0 +1,1 @@
+program i0 : Y8 : takes pk, F, p5, Z, _6T : integer array returns integer d : integer array; while i4 and 050 or 963 : chillax end end main : l, y, Am : boolean; l, z20 : integer; output ""; do B(- s[289] / not 82, - j = - 15, 036 - 83) end

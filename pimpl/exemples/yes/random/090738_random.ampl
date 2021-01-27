@@ -1,0 +1,1 @@
+program N : main : let R4B[- false * false + YQ * 8 and 7 + 2 and 62] = 98 rem d and 37 or(4950) or 2 - 61 > false + 2 - 9; while - 67 and not 28 and 6 - true and 8130 = - 6400 - 2 : chillax end; input Zf[false and 24] end

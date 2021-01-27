@@ -1,0 +1,1 @@
+program co : R7 : takes l : integer array; G99 : integer returns boolean array input p end main : output - not true - true and 924 + 458 > - 1 . (230) and 6620 + 00 /= - 4; input x[- r9[89700]]; when case vLW0 or 91 - 2290 : output 31100 . "@"; do n36(48); when case 7 : chillax end end case - 2 : do H(83) end case 4 : chillax end otherwise : input G; while 1 : chillax end end end

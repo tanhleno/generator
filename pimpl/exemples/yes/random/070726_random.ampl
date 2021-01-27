@@ -1,0 +1,1 @@
+program mi : main : a0d, o, a : boolean; do O(not not not 5130 - (2) rem t or true - 2 - 25, false * 50 and 2 = - 87 and 5, - m or 9, 93 - 9 < 51300, 7, 53, 66); pop(84) or 621; while 217 or 0 - 9 <= 29 - 60 : while 2 : chillax end; let kv = 27700; let Q = 2 end end

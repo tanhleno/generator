@@ -1,0 +1,1 @@
+program H : BJ90a : takes B, m5 : boolean array returns boolean chillax end f : takes o, i, O5, P730, c : boolean array returns nothing y, L : integer array; pop 24 = 5 end main : T : integer; chillax end

@@ -1,0 +1,1 @@
+program B : P : takes w6T, l9 : integer array; g, B, U, k6 : boolean array; H88 : boolean returns nothing chillax end main : pop(23100) - (56000) or 1; do K(not M or true <= - D, Yn5a, - 2 - 15, 5, 327); when case - not 62 + 830 - 85 : output "\n" . "" end case - 3 - 4150 : chillax end case 3 = 2 : chillax end end

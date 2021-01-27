@@ -1,0 +1,1 @@
+program HsR : D8T : takes Aq, e : integer array returns nothing let Zk[20 and 1] = 5 - 4; pop; let ki[82] = array 0 end main : U, G : integer; l9, Ti, X : boolean array; C330 : boolean; q : boolean; let T = - not(3) + (8); input D6 end

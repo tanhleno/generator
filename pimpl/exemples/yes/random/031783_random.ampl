@@ -1,0 +1,1 @@
+program Sr0 : b : takes T120, O : integer returns integer array Y7, t : boolean; miA, l : integer; j, A : integer array; while - h : do Ge9(94, 67); while 663 : chillax end end end b : takes Q5y : integer returns nothing _5, W : integer; N61 : boolean; D, uM : boolean; input Ac[0 - 66] end main : Ey : integer; cL, f : boolean; chillax end

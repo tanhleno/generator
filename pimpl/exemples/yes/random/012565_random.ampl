@@ -1,0 +1,1 @@
+program z : c : takes j, l, Y5 : integer; LM3a, n, NEn0a, k, w : boolean array returns integer W : integer; sGA, b, qj : integer array; I, nV, _ : integer array; dq, u : boolean; chillax end main : chillax end

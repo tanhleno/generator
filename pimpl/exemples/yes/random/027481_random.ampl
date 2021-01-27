@@ -1,0 +1,1 @@
+program qx : t : takes _f4a, I : integer array; gC, g6, Z : integer array; j, R : boolean array returns boolean array chillax end C : takes a, F : boolean returns boolean array l, p0, mY, d7 : boolean array; chillax end main : when case N * 7 rem not 4 - 65 : chillax end case 1 rem true or 3 and 027 - 736 : chillax end end

@@ -1,0 +1,1 @@
+program Jd2a : n : takes E15, C, L1, R7 : boolean returns boolean Z3I, d02 : boolean; chillax end H : takes h11 : boolean; T : integer returns nothing chillax end main : a8q : boolean; T5 : boolean array; u, VX1, t78a, T, ml : boolean array; while - (8) rem false < - 9 / true and 7350 - false and 7 : chillax end end

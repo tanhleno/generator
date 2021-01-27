@@ -1,0 +1,1 @@
+program Nl : U : takes U : integer returns nothing while(461) and 8 - 0 <= 5 - 6 : chillax end end main : when case - false + (1) + b and 4 < - w(50) or D and 37 : let F8 = array - 4 end otherwise : while 820 = 3 : let M7N = 9; pop end; output 38; when case 00 : chillax end; when case 6 : chillax end; pop end end

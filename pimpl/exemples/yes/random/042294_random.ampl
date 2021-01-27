@@ -1,0 +1,1 @@
+program m : r : takes yn : boolean array returns boolean input jqCaa[- (0) and 4 or 17700 - 9] end q : takes q, f, pLS : integer array; a, uV : boolean array returns boolean array pop 4 = 82 end v5 : takes j, E6, V6 : integer array; MW8 : integer returns nothing chillax end main : r, P, o, Fx90, oj : boolean array; Z, p1 : boolean; input mL[false] end

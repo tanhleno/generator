@@ -1,0 +1,1 @@
+program P6M : main : do x(x8[094] * false rem y3faa + X7[43] * _ > - false, not M - not 9 and 7400, (61) and 2310 /= 91 - 5); when case false <= not 41 - 31 - 8 : chillax end case - y3 and 3 or 92000 - 35 <= - 91 : let h = 139; do R(3); input W14aa end otherwise : output 2 end end

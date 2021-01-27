@@ -1,0 +1,1 @@
+program tN6 : l8 : takes Q, q, X : integer array; OQ4, VL : boolean; I, t8, a9 : integer; q33aa : integer; W, r : integer array returns integer j : integer array; h, G : boolean array; YO : boolean; n : boolean; Y : boolean; AT : boolean; chillax end main : m : integer; XP70 : integer array; let k = array - (8 = 356) - (5); output ""; pop 718 end

@@ -1,0 +1,1 @@
+program n0Paa : b : takes y : boolean; C : boolean array returns nothing ul, D, G : integer array; when case - H < - 8 : chillax end case - 807 - 57 <= 73800 : chillax end; output 14 end main : let I[(3) / false] = - 6 - false > - false - 1480; pop C4 end

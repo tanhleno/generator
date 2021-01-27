@@ -1,0 +1,1 @@
+program Z : main : when case mw9a >= - true * true and 1 or not 4 and 9 : input c end case - false / false and 5 or 876 : input o[72]; output "2" end; let YZ[not(35) - false and 78 - 78 - 3440] = array 98 end

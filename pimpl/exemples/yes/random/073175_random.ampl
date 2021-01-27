@@ -1,0 +1,1 @@
+program cd : main : l, d, Kw : integer array; when case - true and(66800) + v0 >= - h2[3] / not 0430 - c and 916 : let V[- 3] = array - 25 - 5; while 92 : input z2; pop end; input u_V[74] end otherwise : do C(34700) end; while - true or 7 and 43 < - (653) and 62 : chillax end end

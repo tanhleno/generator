@@ -1,0 +1,1 @@
+program g4 : m8w : takes q : integer array returns nothing output "N\t"; output 4 = 947 . "" . "v1" . ""; do h7M(8 = 0, 9); output 703 . "|"; do W(79); output ""; pop end main : uP80 : integer; chillax end

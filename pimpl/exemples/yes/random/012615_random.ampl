@@ -1,0 +1,1 @@
+program b8j : H : takes B, K9, b : integer; X1, b, O, LIXa : boolean; v : integer returns integer array let F65a = 406 < 2; pop 1 = 4; when case 3 : do mh(9); pop end otherwise : chillax end; while 5 : pop end end main : _3 : boolean; w, Q : integer array; chillax end

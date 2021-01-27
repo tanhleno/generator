@@ -1,0 +1,1 @@
+program Q : sCV : takes nk : integer array returns nothing chillax end Vz : takes G8Ea, u : integer returns integer array Y : integer; when case 0200 - 23 = 9 : chillax end case 2 : while 82 : chillax end; pop end end main : let Snj[4520 or true or 9] = array - (688 = 22) rem 4 / not 32 end

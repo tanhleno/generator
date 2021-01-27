@@ -1,0 +1,1 @@
+program N : k : takes p2, E, mX, l, r : integer array returns boolean FD : boolean array; let a = - 9 end main : u680, KG : integer; do w33a(- (24) /= true); pop; while(4) and 34 - 7 : when case 2 : pop end end; pop; when case 09900 : while 3 : chillax end; pop end case 772 : chillax end case 44900 : chillax end end

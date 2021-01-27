@@ -1,0 +1,1 @@
+program P : main : ZN, E86 : boolean array; M : integer array; g, W7Naa : integer; a, B : integer; d, n, eR : boolean array; PU2a, oW6aa : boolean; r : boolean; X : boolean; do n(- (2) = - O / not 8); pop false end

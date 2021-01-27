@@ -1,0 +1,1 @@
+program m : J : takes I : boolean returns boolean chillax end r0 : takes V, A : integer array; N, s, R9 : integer returns integer array j, k1P0a, q, p9 : boolean array; output 57 = 5 . "6" . 38 . ""; input m[0]; let H = array 66900 end main : fj : boolean; chillax end

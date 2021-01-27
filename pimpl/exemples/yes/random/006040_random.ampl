@@ -1,0 +1,1 @@
+program epO : y1 : takes Uw, i8, K, UE80 : boolean returns integer P : boolean array; e, V, G : boolean array; do C95a(- not 2 + 6 - 0, - 21 - 8) end main : X : integer; let yr7[- 1 * not Pb5] = - (143) - not 7 and 2 - 0 end

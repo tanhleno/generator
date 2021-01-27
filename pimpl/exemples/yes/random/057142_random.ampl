@@ -1,0 +1,1 @@
+program w : L : takes qr : integer array; J : integer array returns integer array c64, fm, G, tu90a, u : integer; c : boolean; chillax end main : f, s76, n, T : integer array; SK, c8, s, fr, uT, s : integer array; OsW0a, o9 : integer; chillax end

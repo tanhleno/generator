@@ -1,0 +1,1 @@
+program G : main : do TR0aa(not false /= - w[2280] - false or 13800); input q[- not YH / (2) - C]; when case - 8 > - 87 - 8 : when case 8770 : chillax end case 22 : chillax end otherwise : chillax end end otherwise : when case 42 : chillax end end end

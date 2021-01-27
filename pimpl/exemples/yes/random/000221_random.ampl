@@ -1,0 +1,1 @@
+program g4 : f : takes F, J3E, m20a, G9, h, m, eg, r8 : boolean returns boolean array E, Q05aa, U : boolean; chillax end o : takes z : boolean; G : integer; x, b7, cg, r, sjP0a : integer array returns boolean s4 : boolean array; when case - 95 : pop; while 3 : chillax end end otherwise : output "" end end main : chillax end

@@ -1,0 +1,1 @@
+program Ni : o : takes r : integer array returns boolean array O, Q : boolean array; while - (4) + 56 > - 35 - 0 : input F; when case 278 : chillax end; input i; pop end end main : p, o, o : integer; c, Cb, cN : integer; q, Y, CR00a, Y6, j : integer; M99, ec : integer; v9 : integer; Ta20a, U7 : boolean; chillax end

@@ -1,0 +1,1 @@
+program l130 : B3 : takes IF, g : integer array returns boolean array b7, w, C : boolean; chillax end main : Gyuaa, P : boolean array; Pu_0 : boolean array; A, z0 : integer; output vq[29] - U or 12 - 85; input X6D0; when case - not 11 < 9 : chillax end case - 6 : chillax end end

@@ -1,0 +1,1 @@
+program m : o : takes y, F020a, LrO0 : integer array returns boolean chillax end main : Z4L0a, g82a : boolean array; d, V4l, _b, A3o, mB, uM : integer array; output ""; while not(0) and(12) - (98) < true and 0 : chillax end end

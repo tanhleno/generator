@@ -1,0 +1,1 @@
+program Oy0 : sB : takes S : boolean returns nothing d : integer array; YP : boolean array; input PL9; output ""; when case 17 = 5 : chillax end case 979 : chillax end case 0 : chillax end end main : while true /= not(4) / true and 5 : chillax end end

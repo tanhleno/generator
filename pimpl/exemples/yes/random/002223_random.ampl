@@ -1,0 +1,1 @@
+program m : kdw : takes H, V7Ua, _8, S, JY : boolean; z, mO : integer array returns boolean pop; while - 66 - 86 >= 9 : chillax end; when case 9690 : input r end case 8320 : chillax end otherwise : pop end; do Ja8(9, 786); input G end main : sC9a : boolean; M, vD5 : integer; G4_aa : boolean array; J2, h : integer; chillax end

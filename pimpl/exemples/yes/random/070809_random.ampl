@@ -1,0 +1,1 @@
+program i : main : I, g4, d97aa : boolean; y44, ce, c8 : boolean array; pop 7; do xn(9 <= not 055); when case not 2 + 8490 - 4 < 2 : let sQ = array 2; output "" end case - 1 : chillax end otherwise : chillax end end

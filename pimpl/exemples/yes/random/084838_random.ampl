@@ -1,0 +1,1 @@
+program OA : main : z47 : integer; let i4[not l(8)] = array 29 + false rem not 3; while not(2) rem 4 and 1 or false + 11 : when case 6 : output "" end otherwise : pop end; output "" . ""; input Q end end

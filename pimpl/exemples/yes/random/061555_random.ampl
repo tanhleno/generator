@@ -1,0 +1,1 @@
+program p : ACa : takes y : integer array returns nothing when case - true + 5 - 621 /= - 3820 - 00 : chillax end otherwise : chillax end end main : output "" . true and 0 < - 5; do cf(- not true * not 5 and 52, fP6) end

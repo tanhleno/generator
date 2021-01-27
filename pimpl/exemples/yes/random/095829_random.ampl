@@ -1,0 +1,1 @@
+program m : main : when case - false : chillax end case - false rem false and 2 > - (0) and 4 or 163 : when case 6 : input pz end end case - (00) and 3 + 810 >= 6 : chillax end otherwise : pop; while 6 : pop end end end

@@ -1,0 +1,1 @@
+program d : l0 : takes YJ9 : integer returns integer H : boolean array; chillax end a7 : takes rqP : integer returns nothing P2x, P, D : integer; while 39 - 858 /= 092 : chillax end end main : rBO, v8k : boolean array; chillax end

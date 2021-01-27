@@ -1,0 +1,1 @@
+program T : I : takes B, Iy : integer returns boolean array Is9, N : integer array; lx, c5, Xo : boolean; u, _, e : boolean array; G, qC : boolean; chillax end main : while - true and true / O4 and 49 - (0) or 5 /= y(8) rem true and 1 - true and 91 : chillax end end

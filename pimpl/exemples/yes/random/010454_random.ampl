@@ -1,0 +1,1 @@
+program n9b : r : takes X4, M, o53 : boolean array; w : integer returns integer array output - 09 > 0 . ";20a" . "/8\"a" . 0 . "" end main : s6 : integer array; when case(3) rem(6) * n : chillax end; input R; while(1) > 3 : chillax end end

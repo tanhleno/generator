@@ -1,0 +1,1 @@
+program W : P : takes l : boolean array; d, Zxaaa, l5G0, N1Kaa : integer; y : boolean array returns nothing pop - 0250; do Xm(- 9 - 6 /= 5) end main : while - true > 5 or false : chillax end; pop end

@@ -1,0 +1,1 @@
+program N9 : iD : takes bJ : boolean array returns integer while - 4710 and 5 or 3940 : pop end end Y51 : takes j : boolean returns boolean R, g, n : boolean; do C(0 - 8); while 7 : chillax end; when case 06 : chillax end; output ""; do C8(4); pop end main : do S(not 9200 rem false * not 56 and 5 or not(77) * (587) and 6 /= true * false or(91) and 6) end

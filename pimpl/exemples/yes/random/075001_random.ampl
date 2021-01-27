@@ -1,0 +1,1 @@
+program QB : main : sDA, N : boolean array; e : boolean; m, f : boolean; let ZT4a[42 + true and(24) or true and 7] = true; while - 1 / 5 + o9u : do DL30(1 = 9, 831); do G2B(865, 6); while 6 : chillax end end end

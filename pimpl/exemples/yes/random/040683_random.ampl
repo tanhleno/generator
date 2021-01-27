@@ -1,0 +1,1 @@
+program t : I_ : takes K : boolean array; kl : integer; lx : integer array; O, lw1 : boolean array returns integer array chillax end _qV0 : takes q, D9Naa : integer array; UH : integer returns nothing chillax end main : Jd80a : boolean; pop; do R((9) and true and 5 + (9210) and 3 + 43, 41 and 926, 4 - 52 > 6480) end

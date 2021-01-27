@@ -1,0 +1,1 @@
+program J : y : takes H : boolean; K950a : boolean array returns boolean array K5 : integer; while - 3 : chillax end end X1 : takes m1 : integer returns boolean array L : boolean array; let A1 = 41 end t780a : takes P9 : boolean returns nothing chillax end Y : takes oP7 : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program xq : V6 : takes eF, i4, PZzaa, R7Ya, L : integer array; J : boolean array returns nothing q : boolean array; pop; while 0 : chillax end end main : let e[- false * 6590 or(2) / (6)] = - true rem not 53 and 35000 end

@@ -1,0 +1,1 @@
+program up : q : takes N : integer array; MUO : integer array returns integer array G8O0a : boolean; while false and 7 + 91 : chillax end end main : when case 5 rem(6) >= - 39300 / true and 7240 + true : chillax end; while - (2) : chillax end end

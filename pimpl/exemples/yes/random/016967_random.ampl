@@ -1,0 +1,1 @@
+program r : C0n0 : takes x9X, a4 : boolean; L, px, sWg : boolean array returns nothing B, H9 : boolean array; while J and 9 /= 9 - 55000 : chillax end; output "2I0a" . "76!" . "\\"; pop 10900 end main : D, E, _ : integer array; J : integer array; M : integer; qQ3a : boolean array; chillax end

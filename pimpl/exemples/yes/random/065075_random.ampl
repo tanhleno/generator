@@ -1,0 +1,1 @@
+program H5 : B75 : takes n : integer returns nothing ds : integer array; A3, gH, G : integer array; ma : integer; T : boolean; pop 434 - 67 > 9 end Hp : takes sm3 : integer returns nothing pop; let Ia[35] = array 4 end main : pop - false; do i(- true, - 6 and 46); when case p010 and 0 or 6 : chillax end end

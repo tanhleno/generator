@@ -1,0 +1,1 @@
+program W : Zh7 : takes G, F : boolean returns integer array t, t, nc4aa : boolean array; F, d, DU : integer; l, O, G8F : boolean array; U9 : boolean; K : boolean; chillax end main : LFi, xa : boolean array; do s(- false); pop end

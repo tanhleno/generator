@@ -1,0 +1,1 @@
+program VD : KWna : takes Yf, E : boolean returns nothing output - 10 - 31 . "n" . 3970 . 91 . "k" end main : while false + 2 * not 6 and 1 + x : when case - 5 - 12 : output "P" end case 5680 : chillax end; do _(9 = 86500); output "" . "\""; do nu(9) end end

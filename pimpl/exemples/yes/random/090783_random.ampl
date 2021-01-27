@@ -1,0 +1,1 @@
+program z : main : let u[- false] = - (37300) / e; when case - not(5) * 96 and 20 - 018 = (7) and 826 : let EH[6] = array 25 end case - A and 4 + 0 > 35 : when case 43 : pop end; do v(1) end case - 8 - 55 <= 0 : chillax end case 84100 : chillax end case 6 : chillax end end

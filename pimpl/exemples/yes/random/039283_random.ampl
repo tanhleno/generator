@@ -1,0 +1,1 @@
+program S : w : takes D7l0a : boolean array; K, kU : integer array returns integer F : integer array; chillax end I : takes hG, I6a, LQEaa, CLMa : integer returns nothing pop 6370; let v07aa[0] = 769 end main : do _a(- false and(68300) rem true, - not 58 /= B and 27 - 559, - R and 1 or 7420); let X = array not(1) / j or 2 and 6 or 644 - 909 end

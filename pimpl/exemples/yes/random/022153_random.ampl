@@ -1,0 +1,1 @@
+program C : L : takes b, nE : boolean array returns nothing x, h2, B, k : boolean array; when case true >= 776 : when case 9 : pop end otherwise : chillax end end case - 69 = 2 : chillax end otherwise : input Qs; when case 639 : chillax end end end main : input F; pop end

@@ -1,0 +1,1 @@
+program U : X : takes XU : boolean returns integer array input o[not 67]; while - 2 - 65 > 2170 : chillax end end C6 : takes Y4 : boolean returns nothing chillax end main : t8yaa, B, mEYa, UM6 : boolean array; chillax end

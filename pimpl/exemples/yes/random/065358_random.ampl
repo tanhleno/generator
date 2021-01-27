@@ -1,0 +1,1 @@
+program gq : Za : takes J : integer returns nothing output "~" end g : takes Wi : integer returns integer jcO0a, w, e, AG50 : boolean array; chillax end main : l : integer; H : boolean array; r : boolean array; chillax end

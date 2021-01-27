@@ -1,0 +1,1 @@
+program r : GWQ0a : takes wg : boolean returns nothing H : integer array; chillax end KW : takes e : boolean; i : boolean returns boolean array chillax end c : takes N, S, T6Na, Y : integer array returns boolean E5 : boolean; b, h : boolean; do A4(83 = 2, 13, 3960); do xZ8a(4, 6) end main : lV : integer; Mbf : integer; chillax end

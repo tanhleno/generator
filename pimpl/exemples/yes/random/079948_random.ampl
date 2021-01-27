@@ -1,0 +1,1 @@
+program Hj : main : P9 : boolean; let O = array - k or(1) and not 8 and 18; pop(0) and 606 + 3 - 05; do y910a(- Zy5aa and 54 + 6580 - 9 <= - 7 - 63); when case - 758 <= 4 : when case 2970 : chillax end end case 13 : do Z(01300) end otherwise : chillax end; when case 50 : output "7"; pop end case 4 : chillax end case 96 : chillax end otherwise : chillax end end

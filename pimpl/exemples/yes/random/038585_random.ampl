@@ -1,0 +1,1 @@
+program W : P : takes sc : boolean array; T, d : boolean array; sCv0, bI0, m6, cx, M6J : integer array returns nothing output - 6880 - 8 >= 4 end main : Y06aa, _, R, Y53a, Ut3aa : boolean array; chillax end

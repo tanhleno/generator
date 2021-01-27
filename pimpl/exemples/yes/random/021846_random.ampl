@@ -1,0 +1,1 @@
+program a : s : takes V7, vN3a : boolean array returns nothing chillax end l1 : takes c68, c : boolean; i8L0a, Q : integer; I6wa, d6x, y8 : integer array; AwL : integer; h, a : integer returns integer Hc6aa, I : boolean array; chillax end main : Kf : integer; rF, Vd7 : boolean; L : integer array; do R(- true) end

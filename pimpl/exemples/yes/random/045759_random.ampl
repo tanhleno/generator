@@ -1,0 +1,1 @@
+program co : x_R : takes Yu : boolean returns boolean array sT : integer array; when case 2 - 5640 - 34 : do a3(6) end case - 06 : chillax end case 3 = 3 : chillax end otherwise : chillax end; when case - 7 >= 47 : chillax end otherwise : input v; pop end end main : chillax end

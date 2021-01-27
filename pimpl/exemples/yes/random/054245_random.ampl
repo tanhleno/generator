@@ -1,0 +1,1 @@
+program _71 : p : takes x : integer array; gJ, p, e : integer array returns boolean array chillax end main : do t(true + not h rem not 3 + not 4470 >= false and(77) and 59, - not not 2 rem true and 9) end

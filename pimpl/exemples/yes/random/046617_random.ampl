@@ -1,0 +1,1 @@
+program n98 : E : takes h : boolean returns integer array n, g9 : integer; W0 : boolean; x, W30a, A8 : boolean array; wc0a : boolean; while 5 <= 9 - 5820 : pop; when case 5 : chillax end end; output 54700 = 1530 end main : chillax end

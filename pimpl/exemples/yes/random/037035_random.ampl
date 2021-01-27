@@ -1,0 +1,1 @@
+program Q9 : J : takes L3 : boolean; N : integer array returns nothing chillax end A : takes c34, tf8, f : boolean returns integer array do G(221 <= 17600, 06 = 4); pop 84; while 1 : pop end end main : pz8aa : boolean; chillax end

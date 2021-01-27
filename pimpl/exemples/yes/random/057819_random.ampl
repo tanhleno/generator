@@ -1,0 +1,1 @@
+program A7 : Z : takes L3 : integer array returns boolean array Bs : boolean; B : integer; chillax end o : takes I, F : integer returns nothing e : integer; do v5(- 3 < 184); do z(227) end p : takes U, r1, O : boolean; k : integer returns nothing e, b, _440 : boolean array; i : boolean; chillax end F : takes XW0 : boolean returns nothing chillax end main : chillax end

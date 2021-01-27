@@ -1,0 +1,1 @@
+program VvFaa : Loeaa : takes Wtw, q9, E, H : boolean returns nothing P, w : integer array; chillax end n0l : takes q : boolean returns boolean vo9, hs : boolean array; Hj : integer array; chillax end h : takes q7, M6, j, s : boolean array returns integer array sr8aa : boolean; output "8" end main : chillax end

@@ -1,0 +1,1 @@
+program KA : D7i : takes Y : integer array returns integer chillax end Nd90 : takes a, g, UXwaa, X : boolean; d, M6 : integer returns nothing do T(- 44, 8 = 465, 80300, 5); input k[972] end main : input bZI[V280]; when case - not true : chillax end end

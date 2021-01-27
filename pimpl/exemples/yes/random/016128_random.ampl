@@ -1,0 +1,1 @@
+program k : C8 : takes q8, T7, v : integer returns integer when case false <= 992 - 7 : chillax end case - 9 - 87400 <= 26 : chillax end case 8 = 2 : when case 19 : chillax end; pop end otherwise : chillax end; while 7 - 0 < 86 : while 8 : chillax end; pop end; output 18; while 603 : chillax end end main : chillax end

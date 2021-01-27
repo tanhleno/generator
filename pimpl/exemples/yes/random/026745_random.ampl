@@ -1,0 +1,1 @@
+program h48 : kA : takes IHZ, ts : integer; y : integer array returns boolean array Zg9, f, J5B : boolean array; g, I, A : integer; G, K4, kUr : integer array; chillax end main : Z1, cA2, c : boolean; chillax end

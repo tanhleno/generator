@@ -1,0 +1,1 @@
+program yY : W : takes R, S3 : integer array returns nothing y : boolean; chillax end F5naa : takes N, q, z8 : boolean array; G, Yd, Rk : integer; NU : integer; J5, w : boolean returns nothing y, M, p, Miz : integer array; chillax end main : output "d" . 6 - 0 end

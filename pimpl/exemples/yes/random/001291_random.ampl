@@ -1,0 +1,1 @@
+program g52 : OB : takes X100a, O, s6Daa, CuT, TYAaa, G84aa : boolean array; g6p : boolean; k0 : boolean returns nothing s : boolean array; w, d, T2, t : integer array; while false = - 4 - 41 : let f[32] = array 8 end end main : ol5 : boolean; C4 : boolean; l0a, D : integer; chillax end

@@ -1,0 +1,1 @@
+program a : main : R : boolean; _24a, i, P7 : integer array; pop false * not 5; when case - (446) + (06) > false : chillax end case - 7440 + 8 : while 91 : chillax end end case - 8 - 68 > 1 : chillax end case 4 = 2 : chillax end otherwise : chillax end; input y; while - 52 - 21 : output "^"; when case 4 : chillax end; pop end end

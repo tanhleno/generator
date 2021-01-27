@@ -1,0 +1,1 @@
+program KQ : K2 : takes TV, M, t, J, Q4 : integer array; hG, x, V, x, ET : integer array; z : integer; n : boolean array; V9 : boolean array; Gz, Z, k : integer; z : boolean; s : boolean returns boolean array chillax end F89 : takes t : integer; ct, S : integer returns integer Z, Ime, E : integer; s63a, pG : boolean array; V : boolean; chillax end main : pop end

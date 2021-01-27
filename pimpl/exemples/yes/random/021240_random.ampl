@@ -1,0 +1,1 @@
+program N : x : takes Y, k2H : boolean array returns boolean when case - 92 and 84 - 42 - 8 : pop end case 5 : chillax end case 6 = 713 : pop end case 91 : chillax end case 59 : chillax end; while 78 : while 833 : chillax end end; while 25 = 1 : chillax end; when case 1430 : pop end case 43 : chillax end; when case 45 : chillax end end main : g, t : boolean array; chillax end

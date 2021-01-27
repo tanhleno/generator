@@ -1,0 +1,1 @@
+program HIza : kT : takes nB0, t : integer; U, l : boolean; J : integer array returns integer while - N3 and 95 + 5 : pop; output "L\n"; output "" end; while - 9650 : chillax end end n : takes xt : integer; m, E5, M : integer array returns nothing ep : integer; chillax end main : chillax end

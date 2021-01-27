@@ -1,0 +1,1 @@
+program H : main : do z((7 = 3) / 6 / (65) <= not true / C0 or(17) or 3 - 1); input n; when case true < 081 - 58 : chillax end case 24 - 6 : when case 1 : chillax end; while 9 : chillax end end case 4 = 9 : pop end case 73 : pop end end

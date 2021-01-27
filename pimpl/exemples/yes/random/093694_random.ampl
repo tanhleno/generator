@@ -1,0 +1,1 @@
+program B : main : pop(4) * 34 or not 763 and 34 or 7 >= - b and 5; do S(- (328) rem false /= true and 6 - 78 - 53, - (9900) or 2, 9 - 816 > 9, 1, 80, 5); when case not 977 + 13 /= 86400 : output 57500 . "" end case 5960 - 464 = 5 : chillax end end

@@ -1,0 +1,1 @@
+program H4 : re : takes t, JT3a : boolean array; G, t8, w, X, GeU0, t, zwwa : integer array returns boolean input C[- not 737 and 1 - 5 - 5] end j : takes s : integer array; R8 : boolean array returns nothing input Yo6[- 5]; while 0 = 7580 : chillax end end main : E, p380a, m9, a : boolean array; input lW[D0] end

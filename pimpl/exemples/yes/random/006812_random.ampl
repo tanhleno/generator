@@ -1,0 +1,1 @@
+program x : q : takes GY, mS, a, K : integer array; g, W54, az, e, OA, A9V, x : integer; A : integer array returns integer chillax end k : takes J3 : boolean returns nothing let R6p0 = 10 end SQ : takes ND8 : boolean array returns nothing Sc1aa : integer; chillax end main : _6, _, U : integer array; B : boolean array; xf, De : integer array; chillax end

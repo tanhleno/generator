@@ -1,0 +1,1 @@
+program H : g4 : takes Xzo0 : integer returns nothing v : integer; chillax end main : when case - true and not 0 : chillax end otherwise : input Z[3]; let N[9] = 6; let _ = 85; while 780 : chillax end end; when case - true : while 4 : chillax end end otherwise : chillax end end

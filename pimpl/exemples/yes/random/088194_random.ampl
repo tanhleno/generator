@@ -1,0 +1,1 @@
+program I : main : input z4; when case 6 and false and 107 or not 5 : let I[92] = 0 end case 8 : while 0990 : pop end; input k3 end case - 8 - 7 > 9 : while 1000 : chillax end end case 1630 = 9 : chillax end case 6 : pop end otherwise : output "" end; while 8 and 696 : chillax end; output "" . 2; let D[07] = 407; input P; while 07 : chillax end; while 3 : chillax end; pop end

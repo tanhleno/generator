@@ -1,0 +1,1 @@
+program b : RVz : takes mN, t : integer returns nothing let a[not 1 and 5 + 59] = array - 5 and 4 or 66800 - 2 end main : when case - 38 = - not false and not 6240 and 0 : do A32aa(4 - 8 >= 48) end end

@@ -1,0 +1,1 @@
+program U : GRW : takes w : integer; ez, D4 : integer; H : boolean array returns integer m, e9, s, M0, qe : integer; w : boolean array; when case R18 and 7 : let r[1] = array 053 end case 12 - 15 : chillax end; do aI(- 9 - 5, 94700, 0) end main : chillax end

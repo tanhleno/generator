@@ -1,0 +1,1 @@
+program V : W : takes FEU, U2, O, Z, X3G, T, F6E0, hH80a : boolean returns boolean h2c : boolean array; U, Kb50 : integer; pop 9; let v[4] = 07600 = 5020; pop; when case 42 : pop end; input j3; let k = 3 end main : pop end

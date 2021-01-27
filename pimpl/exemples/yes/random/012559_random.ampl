@@ -1,0 +1,1 @@
+program at9 : y : takes l, Z, s8 : integer; _Xn0, F, w8g, j, Gw : boolean; e, G, i0, P : boolean; p630 : boolean array; I : integer; Ul5a, nN, P6Y0a : boolean array returns boolean chillax end main : chillax end

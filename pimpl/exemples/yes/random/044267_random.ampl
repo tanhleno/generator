@@ -1,0 +1,1 @@
+program C : J7 : takes W : boolean array returns nothing C0ba, u4k0 : boolean array; c : boolean array; output "" . "" . "" end CUI0a : takes O, A : boolean returns integer E : integer array; A : integer array; while - 303 - 19 : chillax end end main : input S[94 - false rem(039) or(02) + 9 - 6]; pop - (70) >= 2 - 82; pop; do j8E0a(- 93 - 2 > 3); while 4 : chillax end end

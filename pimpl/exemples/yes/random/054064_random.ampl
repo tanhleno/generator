@@ -1,0 +1,1 @@
+program ue : dd : takes a : integer array; U, N_7, Ac : boolean array returns nothing when case y and 87 + 9 : input i; do bU(456) end end u : takes RU10 : boolean returns integer u, SY : boolean array; input B; when case 3 : when case 3 : chillax end end end main : chillax end

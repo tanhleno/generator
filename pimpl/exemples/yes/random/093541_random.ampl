@@ -1,0 +1,1 @@
+program J4n0 : main : output ""; when case true : do u3(2, 871); output 3 end case - o > - 5 : output "\t"; do c(7) end otherwise : output 19 end; let Xoz[true and 9 - 6 - 4] = - 560; while - 95900 - 0 : output "" end end

@@ -1,0 +1,1 @@
+program A : N : takes U, Wq20, us, M : boolean returns integer array U : integer array; do c300a(false and 2550 - 1 - 82); while 1990 - 0 > 2 : when case 598 : chillax end; input GH; pop end; pop end N84 : takes nV, jt : boolean; fr0 : boolean array returns nothing B0 : boolean; chillax end main : output "" . "" . "\"" . "6\t!a" . "3" . "\"8" . "["; do J510a(- false) end

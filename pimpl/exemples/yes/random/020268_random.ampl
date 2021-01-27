@@ -1,0 +1,1 @@
+program E : h : takes r, ar50a : boolean array; Q : integer; B, S : boolean returns nothing B, ac2a : integer; p8, U48, O0, M4 : integer; chillax end main : when case - not a9[83] rem E31aa - true rem Z9w0a - false /= false / 70 : let o = array - 46 - 5 end end

@@ -1,0 +1,1 @@
+program N : DIv : takes _5c : integer returns nothing I : integer array; while not 8 and 68 or 43800 - 8 : chillax end end main : when case - 4 rem true + false * false - 94 and 6 or 3 : chillax end case - true = - false - 1 - 6 : chillax end otherwise : chillax end end

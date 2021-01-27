@@ -1,0 +1,1 @@
+program w : N : takes yXA, T700a, D, T1D0a : integer returns nothing while true - 57900 - 9570 : while 69 : pop end end; input w end main : V : integer; V5, Xf, b3 : boolean; do uj(- kx = c5faa(68)) end

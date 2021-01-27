@@ -1,0 +1,1 @@
+program Iq7 : M9 : takes ujP, jk90a : boolean; s, U7v : integer array; pV, R7l : integer array; K, Q, r6, IT : integer array returns integer FiY0, l4, Ek, Cv0aa : boolean array; chillax end main : chillax end

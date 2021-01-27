@@ -1,0 +1,1 @@
+program E : Ti : takes v, Y, W, x6 : integer array; WL, M, r, Q4, Xy : integer; B, h45, iB6, _2P0, r9 : boolean array; C : boolean; vu : boolean; g5 : integer returns nothing when case false and 7 : when case 12 : pop end case 9 : chillax end end otherwise : chillax end; while 49 - 30 /= 543 : while 3 : chillax end; output ""; pop end end main : j5 : boolean; chillax end

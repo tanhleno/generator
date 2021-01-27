@@ -1,0 +1,1 @@
+program n : S9K0 : takes N8Zaa : boolean array; B, I8, l : boolean; f, v93, L, Y2, h : integer; _ : integer; v, d : integer returns nothing chillax end main : JD : boolean array; kH : integer; k, F, C2 : integer array; input d; input _[- (85) + true and 29 or 9760]; output 74 - 7 <= 3330 . "" . ":\\\"a" . "2I" . "<a\"" end

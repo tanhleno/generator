@@ -1,0 +1,1 @@
+program i : V : takes c5, e : integer array; zm : boolean returns nothing nN : integer array; while KZ : chillax end end f : takes e : integer array returns nothing pop; when case 3 = 5 : pop end case 6 : chillax end otherwise : chillax end; pop; do K(1); do M710a(83000) end main : output "" . (2) and 3 end

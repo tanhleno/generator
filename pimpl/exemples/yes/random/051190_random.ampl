@@ -1,0 +1,1 @@
+program Q : _q8a : takes l4R0a : integer; k, E : integer returns boolean do q5(7, - 943 - 47500, 6 = 8, 838); while - 1 < 7 : chillax end end main : let nT1a[- true and false] = array(9 = 3) or false; let kl10a = array(7) * (8310) and 45 end

@@ -1,0 +1,1 @@
+program u : V6R : takes vI7, vN0 : boolean returns nothing chillax end main : output - (19400) rem X5M and 90 or false and 72 - 15 - 6 /= true and 3 . - not 4 and 61 - 93 = 8 - 2 . ""; input K2[true - true and 4 or 1470 - 3] end

@@ -1,0 +1,1 @@
+program n88aa : main : output true * true >= - Fy - 914 - 5 . "6^!a" . - 3 . 343 = 8; when case - true rem(01700) and 9 or(585) and 9 - 4 - 39 <= NGLa and 7 : chillax end otherwise : let zoy = 84 end end

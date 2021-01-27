@@ -1,0 +1,1 @@
+program k : i53aa : takes F, z1k : integer; C : boolean; um9 : integer; xO : boolean array returns nothing _7, sU8 : integer array; chillax end E : takes P, EQ : boolean array; g : boolean array; k, l, W07a : integer array returns integer array v : boolean; while - 83200 : when case 708 : chillax end end end main : D : boolean; chillax end

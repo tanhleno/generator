@@ -1,0 +1,1 @@
+program s : wI : takes I, x : boolean returns nothing input ES7 end y : takes h, R42 : boolean returns boolean array k6Ra : integer; output 329 . "-" end n9 : takes S7Y, O : integer array returns boolean do z(035) end main : input Z end

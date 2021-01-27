@@ -1,0 +1,1 @@
+program NJ9 : di4 : takes H : boolean; nk8 : integer array returns integer array M, l : integer; v : boolean; chillax end W : takes Vm : integer; YS6, o, pUL, I, K, X08a : boolean array returns integer array T : integer; y0oa, D, hy5a : boolean array; n, z1B : boolean; output 7 = 4 . "" . 92; input hhG0a[3440]; do x(88); when case 5 : chillax end end main : chillax end

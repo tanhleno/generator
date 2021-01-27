@@ -1,0 +1,1 @@
+program p : w : takes QS : integer returns nothing V, k1 : boolean array; l0A : boolean; tw, r1Gaa, q : boolean; input d; pop; let gMd = array 5; do Hk(18, 0); pop end main : V : integer array; let sr[- not not false - not(06) - false + 7 - 37] = JI[09] or T and 5 /= (480) or 23 - 4 end

@@ -1,0 +1,1 @@
+program Xk5 : g : takes p : boolean array; y6, Y3 : boolean returns nothing do Rs(XD, - 7, 5 = 5); let Ff = 85 = 9; input L end ZA80 : takes e, S : integer array; h65aa : integer array returns boolean pop end main : do u(- not not 8 / true = D(1) or K, true * (6030) or K - 37200) end

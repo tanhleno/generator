@@ -1,0 +1,1 @@
+program an2 : F : takes s9Qaa, Q, Y : boolean array; w4, W, _7, Bkq, Z : boolean array; n18aa, x37, n : boolean array returns boolean array input Q_[- not 7 and 3760 - 3470 - 45]; when case - 26000 - 3 : chillax end end wU : takes v : boolean; g0, DA : integer array; l : boolean array returns boolean array chillax end main : chillax end

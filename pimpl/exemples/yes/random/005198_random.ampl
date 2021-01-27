@@ -1,0 +1,1 @@
+program U : qC : takes KMt0, O, N, H : boolean array; Z6 : integer array returns boolean chillax end main : do B((4) and(852) and n >= 873 or 18 + 52 - 165); do Kl00a(- 64); when case - not 55600 and 51 : chillax end otherwise : chillax end end

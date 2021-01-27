@@ -1,0 +1,1 @@
+program O : main : HSk : boolean; while false and true : pop 4; input e[6]; do v(5); output "" end; when case - true < false : let nU[1] = 2; do C(87) end otherwise : when case 27 : pop end otherwise : chillax end end end

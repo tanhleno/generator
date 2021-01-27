@@ -1,0 +1,1 @@
+program R5 : o : takes XQDaa, _4 : integer array returns integer when case - J8 : let Q = array 5; let Wp = 42; output ""; pop end; let y = array - 86 - 97; let B[9] = array 9; do d(886); pop; while 21 : chillax end; pop end main : input k3B[p rem(9) / not 7 - not not 6 * 3]; when case c9 and true >= not 6 : chillax end otherwise : input p; output "" end end

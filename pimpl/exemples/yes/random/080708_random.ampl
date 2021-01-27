@@ -1,0 +1,1 @@
+program n : main : w : boolean array; do l2(V0w(86) >= - not not 4 / (76) and 9 + not 2 and 8 - 9); do IE6a(not false or false and 8); pop; input Q; output 9 . 6210; input q; when case 6 : chillax end; output "" end

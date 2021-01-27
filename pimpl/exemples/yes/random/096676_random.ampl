@@ -1,0 +1,1 @@
+program ia : main : when case - true or not rzp / not 435 and 3 or(15) and 8 - 2 >= T + 94900 + 22 : chillax end case - (4) or r or 8 - 9 : input t1[9] end case not 9 and 68 /= - 397 - 7 : chillax end case 24 = 7 : chillax end case 5 : input J; pop end case 947 : chillax end case 1 : chillax end; do i((6) and true) end

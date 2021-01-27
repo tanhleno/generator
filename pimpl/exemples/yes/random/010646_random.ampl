@@ -1,0 +1,1 @@
+program iN : f2 : takes j, RA, d : boolean array returns boolean chillax end x : takes m8, S, E, o : integer array; e620 : boolean array; l4 : boolean array returns integer I, D : integer; let t[- 32] = array - 851 - 6 end main : chillax end

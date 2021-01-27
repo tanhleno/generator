@@ -1,0 +1,1 @@
+program nBR : w42 : takes FFhaa : boolean array; m, T : integer; Q : integer; ImD : integer array; UtJ0a, b : integer returns integer array z, Nc60a, dgs, T, N : boolean; input SFN end main : chillax end

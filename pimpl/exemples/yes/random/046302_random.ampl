@@ -1,0 +1,1 @@
+program l : d7K0 : takes p : boolean returns boolean B : integer array; pop end main : u0l : integer; XQGaa : boolean array; r, l56, Q5n, Yz : boolean array; input X; let o[true and(9)] = - not 0 and 11100 end

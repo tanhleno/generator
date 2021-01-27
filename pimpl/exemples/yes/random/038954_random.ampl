@@ -1,0 +1,1 @@
+program f35aa : k : takes Lr : boolean array; f, n : boolean returns nothing T : integer array; chillax end T : takes J, F, H9 : boolean; A, p7H : integer; U51aa, u6 : boolean array; R, XnM0 : boolean; m : boolean array returns boolean LN, _X : integer; do GZ6(- 0, 65 = 1, 17900, 5); do _(5, 17, 95); while 95400 : pop end; let A66 = 72300; do D(6) end main : chillax end

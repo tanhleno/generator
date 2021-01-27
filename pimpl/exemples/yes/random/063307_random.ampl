@@ -1,0 +1,1 @@
+program y : u01 : takes e : integer returns integer U1, D2, v0, G, k12 : boolean; N0 : integer array; chillax end main : S0 : boolean; ZB : boolean array; let L3[- true and 51 * true] = - not true * not 5 < - 04; input ot[- (50) / not 9] end

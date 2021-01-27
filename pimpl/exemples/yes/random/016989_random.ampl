@@ -1,0 +1,1 @@
+program z92 : y : takes Q3, v : boolean; W0Haa, e, i : boolean returns integer array Ji, N0 : boolean array; V5c, H : boolean array; chillax end main : do NTWaa(s - 3 * not 2 + true and 56); output true + 2 - 8 end

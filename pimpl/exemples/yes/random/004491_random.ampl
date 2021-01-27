@@ -1,0 +1,1 @@
+program Z6 : r : takes U81, n37, X9, A0a : boolean; j : boolean array; P4h, p, H, b : boolean returns integer array let j[false and 42] = 563 - 08000 > 51; output "" . "" . 6550 . "" end main : do j(false and 42700 * (556) and 8540 or S(8)); while - (5) rem(4) or(7) and 542 + 8 >= - (3300) : chillax end end

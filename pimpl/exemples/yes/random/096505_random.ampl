@@ -1,0 +1,1 @@
+program C720 : main : when case - 8 or G(7) * true and 923 - not 9 and 5 : let tN[33 - 80200] = array - 088; while 909 = 462 : chillax end end case - (4630) * (7) and 8 : input B end otherwise : while 4 : chillax end end end

@@ -1,0 +1,1 @@
+program t0 : YZ : takes N : integer array; h65 : integer array returns nothing s6d : integer array; N, L0, w76, X : integer array; jS, p01 : integer array; P5, q : boolean; Q : boolean; chillax end en : takes A4, D : integer returns nothing Y, fxja, U, Vxvaa : integer; chillax end main : chillax end

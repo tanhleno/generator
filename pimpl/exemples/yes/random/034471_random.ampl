@@ -1,0 +1,1 @@
+program v : c : takes TZ : boolean; cVX, Z : boolean array; i : integer array; K : boolean returns integer array G, h, F : boolean; when case - y6na : input L; input u end case 36 : chillax end end main : do U34(- false + false / false); let nqr[- M rem 04 + 3 and 36] = true and 7 + 58; input H; while 8 = 0 : chillax end end

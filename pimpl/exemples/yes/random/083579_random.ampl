@@ -1,0 +1,1 @@
+program l : main : U710a : integer; IM, h : boolean; when case - not not not 24000 and not false rem(40) and 81600 + not not 9 > - true * not 00900 : chillax end; output "9\n" . "\"" . 37 = 48 . "9\t" . "6" end

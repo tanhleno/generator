@@ -1,0 +1,1 @@
+program _S : main : when case not 42 /= true + false and 065 + 6 - 639 : chillax end otherwise : output 9 end; when case not 49 and 8 < true : let l = array 3 end case - not 93 and 75 : when case 18 : pop end case 01 : chillax end otherwise : chillax end; input l6 end otherwise : do e(09, 0) end end

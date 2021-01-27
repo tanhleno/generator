@@ -1,0 +1,1 @@
+program yj : JV7 : takes F2, e4, S : integer array; j : boolean array; _9, d : integer array returns boolean B5 : boolean; when case - (129) and 1 or 0 - 5 : chillax end otherwise : chillax end end main : AYraa, SG, B3, MX : integer array; i3za, U64 : integer; K, d4 : boolean; k, u8T0a : boolean; do r(- a + 9 or false + 83 /= false * (69) and 54) end

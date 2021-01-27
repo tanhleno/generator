@@ -1,0 +1,1 @@
+program J : N : takes Z6zaa : boolean; q9J0 : boolean array; E, I8z0, M : integer; V : integer array; i, T : integer returns nothing do V(false + 96); when case 950 - 360 : chillax end case 8 = 17 : chillax end case 1 : chillax end case 025 : chillax end; let o6M0 = 0 end main : J : integer array; let y = not true and(1) and 1 >= - not 35 and 9 end

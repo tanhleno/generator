@@ -1,0 +1,1 @@
+program g3 : I : takes W, w, Bp : boolean array returns integer array W : integer array; t, LU, y : integer array; while true or 48 = 988 - 6350 : chillax end end m8T0a : takes v, H, j : boolean returns boolean V3, GH : boolean; chillax end main : K : boolean array; chillax end

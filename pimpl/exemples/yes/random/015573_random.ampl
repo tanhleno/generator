@@ -1,0 +1,1 @@
+program wO0 : f62aa : takes lx, s, C : integer array returns nothing output "" . 3 . "\n" . ""; output 2 = 55 . ""; while 0 : chillax end end main : when case not g : chillax end case - not 982 and 42 >= true and 068 : chillax end; do n(46 - not 410) end

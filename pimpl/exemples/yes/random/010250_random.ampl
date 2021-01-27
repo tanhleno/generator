@@ -1,0 +1,1 @@
+program X : W : takes B, hn, S6 : boolean array; LT : integer; B, wi, HlG : boolean; J, i, X, _, V4 : boolean array returns nothing let L = 6490 - 80700 <= 6; let Yz[6] = array - 9 - 2 end main : when case(01 = 86) : chillax end; while - 8 >= - 7230 and 7 - 5 : do Z(8, 03200, 0) end; do nn4(- Y980 > 1820 - 685, - 6 /= 3) end

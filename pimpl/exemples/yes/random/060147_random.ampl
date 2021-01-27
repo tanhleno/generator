@@ -1,0 +1,1 @@
+program q : z : takes w : integer array returns nothing do F4(- true and 2, 8440 - 09 >= 8, 4, 4, 7450); while - 64200 - 9 : chillax end; output "Q"; let omI0[8] = 2; do S830(5) end tu : takes q, B8 : integer returns integer array pop; input u0e[8]; input Z2P0a[54400]; while 5 : chillax end; when case 4 : chillax end; pop end main : chillax end

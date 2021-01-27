@@ -1,0 +1,1 @@
+program l22a : SL8 : takes g : integer array returns boolean P1 : boolean array; chillax end main : z, G : boolean; ZX, R080, s6, IK, mZSaa, a3 : boolean array; K, S, h8 : boolean array; z : boolean array; output true < (7770) . "" end

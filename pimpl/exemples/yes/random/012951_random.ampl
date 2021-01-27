@@ -1,0 +1,1 @@
+program j : z : takes C79, us, y : integer; O2, F6 : integer; tq1 : integer; jA, Xik0a, Z, u4 : integer; _5ka : integer array returns nothing v, B, VG, jZ : integer; J, A, S : boolean; chillax end main : input wz[not 8 * not false and(41) and 3530 + 11 * true and 016 or not 788 and 2]; do Mk9(true * false and 52200, not 3 < - 9) end

@@ -1,0 +1,1 @@
+program kO90a : E5Ta : takes IQ : integer array; I, tS9 : integer; _ : boolean array returns nothing do v(true and 278, - 7 /= 208, 344, 836); output "I$a" end uC0 : takes P1B : integer array returns integer array output 083 = 42000 . 50 . "x" end amN : takes r99 : boolean; B : integer array; O : integer array; i82 : integer returns nothing chillax end main : chillax end

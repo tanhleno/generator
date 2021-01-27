@@ -1,0 +1,1 @@
+program k1 : EGB0a : takes B3, MP80a : boolean array; Qj : boolean returns boolean chillax end o : takes A4M : boolean array returns boolean chillax end L : takes KP90, bl : integer array; X : boolean returns integer array Wr, r, a0 : integer array; chillax end main : gi, A : boolean; I : boolean; T, B, b : boolean; qr, OT : integer array; q0Z0, E, AA : integer array; chillax end

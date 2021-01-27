@@ -1,0 +1,1 @@
+program aw : main : when case not true and true : let T = 3; pop end case not(4) and(9) and 96 - false and 3 or 248 - 00 /= 7 and 4310 + 9 - 051 : chillax end case false and 4 or 7 - 72 >= 46 : let h[72] = 36700 end case 00 : chillax end end

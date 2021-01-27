@@ -1,0 +1,1 @@
+program y : Uck : takes uX, qM : boolean array; i : boolean; _, Usra : boolean array; q, j, rm, F : integer array returns nothing chillax end main : when case - (9460 = 5) or TQ9aa(13000) rem J and 4 + (6) and 2 /= 92 and not 922 - (6) and 8 - 5 - 69 : when case - 5 >= 9 : chillax end end case 8 and 58 + (4) - 6 - 58 : let c[79] = array 18; output 5; output "" end end

@@ -1,0 +1,1 @@
+program R2 : main : B : boolean array; output false . - false - 5 - 6 . - 7 < 8; while - 41 and false - (8) >= - 1 - 8 : chillax end; when case - false and 5 + 4 > - 4 - 9 : output "" end otherwise : chillax end; pop; let g[649] = array 9; while 9 : chillax end end

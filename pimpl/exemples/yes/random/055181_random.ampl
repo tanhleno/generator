@@ -1,0 +1,1 @@
+program UO : w6C : takes p : integer array; b, l4 : integer array returns boolean chillax end main : x, Q, V0, Q5 : integer; let S4[4 + false] = - not not 56 rem not 5890; when case n(1) and not 0 or true : let o[5] = array 3 end otherwise : chillax end; input G end

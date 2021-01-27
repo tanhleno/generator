@@ -1,0 +1,1 @@
+program M : main : Yk50 : integer array; while false or 2 rem(78) /= - (6) or true or 4 : chillax end; while - (2) and not 0980 or not 92 and 5 : when case 4 : pop; pop end otherwise : pop end; input R end; when case false or 4 - 84 > - 0 : chillax end case 8820 - 7 = 3 : chillax end case 069 : pop; pop end otherwise : do O(4) end end

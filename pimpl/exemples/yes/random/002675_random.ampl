@@ -1,0 +1,1 @@
+program R : nO : takes L, o0, Qv20, d, wX : boolean array returns boolean U : boolean array; do HJQ0a(- false); when case - 39 - 791 /= 40 : pop end; when case 33 = 0 : chillax end otherwise : pop end end main : while - not(7) and true rem(0) + GSm(7) rem not 55 > 418 rem l61 - M9 and 7 : chillax end end

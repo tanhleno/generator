@@ -1,0 +1,1 @@
+program _6 : main : f : boolean; output(4640) rem U3yaa - (42) - 984 - 6 >= 9 . (54) <= - 8 . - 7 - 0; while - false - true and 44500 : output 79 . 28200; output 91 . "" end; when case - 66400 and 6 : chillax end case - 2 : chillax end; while - 2 <= 3 : output ":F" end; while 3 = 5 : let H90 = 7 end end

@@ -1,0 +1,1 @@
+program W7 : K : takes M : boolean array returns integer chillax end main : U1O : integer array; pop; when case - Z or not 2 and 5 < - G : chillax end case false and 7 = 27500 : let f[1] = 6 end otherwise : chillax end end

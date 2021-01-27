@@ -1,0 +1,1 @@
+program Q : g : takes x : integer; D5Sa : boolean array; q, j5 : integer array; Bs, p1J0a, B5, ij7 : integer array; c : boolean array; yD : integer array; KD : boolean returns integer array input J; input _3 end main : B, z1U, D : boolean; s : integer array; output - true /= false - 4570 - 45 end

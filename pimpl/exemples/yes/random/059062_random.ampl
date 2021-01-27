@@ -1,0 +1,1 @@
+program xL : RY : takes fH70 : integer array returns integer array while false and 45 - 09 - 636 : chillax end; do y1(- 40 = 78000) end main : E0, C, V, U, I : integer; output - mN90 or(7) and 06 = true and 8 - 6 - 14100; let n[- z(2) rem(81) + false and 084 - 395] = array not not 00 * not 42 and 4 - not 0 and 2; let S[8 and 9 - 8 - 5] = 36 < 20900 end

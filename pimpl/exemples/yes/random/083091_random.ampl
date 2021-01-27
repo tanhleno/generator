@@ -1,0 +1,1 @@
+program gt3 : main : H : integer; do _(true rem(1) or R8k0a[3] - 717 and 37 + 37 - 96 <= - 2780 / true and 4 + not 39 and 58 + 5 - 8, - (9) or not 2 and 970 <= - true and 38700, - false and 7 + 09 - 7410) end

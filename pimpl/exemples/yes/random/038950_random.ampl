@@ -1,0 +1,1 @@
+program F : G : takes s0 : boolean array; i17, t : boolean returns nothing K3 : boolean array; HA : boolean array; I360a, Y, Isn0 : integer array; M2I0a : boolean; chillax end main : A4k, j7r0a : integer array; x : integer array; pop; let W = array KT30(45400) or S5 and 4 - 6 - 48; do dn(87 + 8 - 15); output 1 = 925 . "\t" . "" . "\n"; pop; pop; let l = 33 end

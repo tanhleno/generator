@@ -1,0 +1,1 @@
+program U : TB : takes a7 : integer; x, z, oN, V3e0a, MO : integer array returns integer array chillax end O : takes V : integer returns nothing while - 19700 - 20 <= 9 : let P = 999 end end main : ZK, _ : integer; IN : boolean; F, B0, X, e, YiW : boolean; h : integer; kR : integer array; when case not not false / true * (0) and 2 > P(38) / false and 2 : chillax end end

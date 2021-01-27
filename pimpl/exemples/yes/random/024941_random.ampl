@@ -1,0 +1,1 @@
+program _ : xc : takes KSb, C73a : integer; L5, yGm, aT, O9, F6ra, B_s0 : integer; i : integer returns boolean array let b = - 8 > 6 end main : G9, x90, o0ia, o31 : integer; X2 : boolean; T : boolean; Ga : boolean; chillax end

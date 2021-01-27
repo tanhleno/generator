@@ -1,0 +1,1 @@
+program c : y10 : takes EhX, s : boolean array returns integer array km : integer; do X90(- true - 7 <= - 7 - 06) end main : output - r7Y(4) / not 97 - not 6 or 63 - 3 /= - 1 and 4; let MG = not 3340 and 0 = - 8 - 3 end

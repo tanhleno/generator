@@ -1,0 +1,1 @@
+program Hd : main : x, Fj1, r, d7 : boolean array; Q : integer array; do Y(- r(8, 745) rem(73) / false and 7 - not h - false and 743 + 9 > - (7) * false and 37 or true and 964 - 6, (66) rem true and 52 - false and 26 > - (1710) + 05 - 4); let I = true and 7; let D[true] = array - false and 0; pop 7 = 289 end

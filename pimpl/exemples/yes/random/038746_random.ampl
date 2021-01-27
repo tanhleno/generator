@@ -1,0 +1,1 @@
+program o7 : ck : takes gY : boolean array; g6, O9 : boolean array returns boolean output - 8; output 5 = 9; let __F = array 442 end y : takes VDbaa : integer returns nothing chillax end main : u : integer; r, t650 : boolean array; auh0 : boolean array; chillax end

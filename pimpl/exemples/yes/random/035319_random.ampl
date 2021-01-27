@@ -1,0 +1,1 @@
+program m4Wa : sP : takes T : boolean; ea : boolean; T, qE, q, s, H, Y : integer array returns nothing J4 : boolean; qA7 : integer array; let b[true + 2 - 69] = array false and 4 or 64 - 99 end _jaa : takes n6 : boolean array returns nothing xa3, uW : integer array; while 2850 : chillax end end main : chillax end

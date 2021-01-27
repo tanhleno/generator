@@ -1,0 +1,1 @@
+program R : o : takes zA : integer returns integer array let W[- (1) and 5 or 6] = 954 end main : do v(true or false * false and 09200 + not 80 and 1 + 221, - true rem(7) - not 439 and 5 - 8 - 2 >= true) end

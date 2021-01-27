@@ -1,0 +1,1 @@
+program X : e : takes s, O : integer array returns boolean let Gu[true] = array - (7) and 9 end q : takes Y, A2 : integer array; O, Uy, DU0aa : integer array; E : integer returns boolean C71a, Bp : boolean; Xh : boolean; z, k : boolean; o : boolean; chillax end main : chillax end

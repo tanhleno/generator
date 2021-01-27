@@ -1,0 +1,1 @@
+program He : t9 : takes d, W720 : boolean array returns nothing f : integer array; chillax end D : takes M : integer array returns nothing kX : boolean array; X, D5O, i88 : boolean array; while 97 - 1 < 09000 : chillax end; pop; pop end main : chillax end

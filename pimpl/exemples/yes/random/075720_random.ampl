@@ -1,0 +1,1 @@
+program p : main : y460, A : boolean array; while - 549 <= false or false and 6010 : do V_A0(197 > 3530); pop 2; let G[148] = array 28; do ZoZ0a(3); do o50(1) end; let R[- not o or 79 - 39] = - Gro end

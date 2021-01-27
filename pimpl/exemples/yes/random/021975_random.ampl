@@ -1,0 +1,1 @@
+program L : Q : takes F, vg90 : boolean array returns nothing chillax end main : Eo9, t, N, Sl7aa : boolean array; oP40a : boolean array; let JZ3a = array(6 = 3) or false; when case - false - 7 < - true + 5 - 3 : chillax end case - (67) and 891 : chillax end otherwise : chillax end end

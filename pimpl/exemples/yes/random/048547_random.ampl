@@ -1,0 +1,1 @@
+program p : a : takes l9 : boolean returns nothing t : boolean array; input F[- true] end AR : takes LQE : integer returns integer array input u[8]; do o5(4 = 5500, 2420, 33); pop; output "8" end main : chillax end

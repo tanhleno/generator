@@ -1,0 +1,1 @@
+program kO3a : j7 : takes Q, AZ9 : boolean array returns nothing input I[- false]; output 9 end main : do v(QK rem(49) - 76 / true and 5, - Z[28700] and false and 5); when case not b5 > - BS - 07 : let cW = array 123; pop; pop; let xl4 = 86 end case - not 687 : chillax end otherwise : chillax end end

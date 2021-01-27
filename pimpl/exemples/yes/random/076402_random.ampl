@@ -1,0 +1,1 @@
+program e : main : M, N : integer; q2 : boolean array; while - W7haa[6] * H(1) / (6) or false * not 9 - (67600) : chillax end; while(62) : when case 01 = 8 : input c end case 31 : chillax end otherwise : chillax end end end

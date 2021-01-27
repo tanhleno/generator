@@ -1,0 +1,1 @@
+program x5G : main : rc : integer; KxX : integer; h : integer; do E3(- true * false * not 815 and 36300 < - not Y * 0 - false + 92 - 1, - true / c); while - (03) / false : chillax end; output "04"; let t[8] = 7; pop; output 985 . "Ie"; while 1 : chillax end end

@@ -1,0 +1,1 @@
+program j : X : takes M, HD4, a : boolean returns integer pop - 26 /= 70; pop; pop; while 96 : pop end end r : takes jg : boolean array; b47 : integer returns integer BU : integer; A, N0 : boolean; F, F : boolean; G4 : boolean; let E = array 0 end main : chillax end

@@ -1,0 +1,1 @@
+program e : a : takes cY : boolean returns boolean ob : integer array; s : boolean array; while(7) or 9410 /= - 2 : do b6(2, 6) end; while - 3070 - 5 /= 7 : pop; while 0 : chillax end; pop end; while 8 : chillax end end main : f : integer array; chillax end

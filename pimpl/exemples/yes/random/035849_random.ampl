@@ -1,0 +1,1 @@
+program b : g : takes c : boolean; K7I0 : boolean array returns boolean array Q2 : boolean; chillax end U : takes F2M0a : boolean array returns integer let m = array 8010 end k : takes _ : integer returns nothing M : integer; chillax end main : output - false; do q(- true / not 6 and 5, false or 540 - 70 <= 6 - 4, - 02 - 9, 7 = 04, 0) end

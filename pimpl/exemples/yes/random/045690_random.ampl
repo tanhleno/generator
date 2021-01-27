@@ -1,0 +1,1 @@
+program hb : kW : takes z : boolean returns boolean array c : boolean array; mdB : boolean array; chillax end o : takes dO, F : integer returns boolean F, l, l : boolean; N : boolean; chillax end main : Dh, Nq0 : integer array; H, bp, x5n : integer array; chillax end

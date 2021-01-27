@@ -1,0 +1,1 @@
+program k1r : hy6 : takes H : integer array returns boolean chillax end main : t78aa, R, XZ, k, h47 : boolean; let Ohd[8 or false and O1 and 8] = not false > false and 5220 or 73; while _5 - (1) and 977 + 51 : chillax end; let F = 7 < 5 end

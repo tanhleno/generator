@@ -1,0 +1,1 @@
+program S : No9aa : takes U, V3, ZT5 : boolean array; B : integer returns nothing chillax end a : takes C2E0, Rt, a, l : boolean array returns boolean chillax end m : takes Loma, A : integer array returns integer array X : boolean array; Z04a : boolean; let Sx[0] = 9 end main : chillax end

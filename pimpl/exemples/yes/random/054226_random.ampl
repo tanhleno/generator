@@ -1,0 +1,1 @@
+program tt : U0 : takes e950a : integer array; Gt, f1, c : integer array; d5H0a : boolean returns integer array output "" end main : WQJa, r : integer; Oa : boolean; while true / not not 18 >= 7 : chillax end end

@@ -1,0 +1,1 @@
+program _0 : EC : takes K48 : integer; D : boolean array returns integer chillax end main : d68aa : boolean array; W : integer array; when case 35 or 8 : while 5 - 67 : chillax end; input g1[4]; input b[8]; output "" end end

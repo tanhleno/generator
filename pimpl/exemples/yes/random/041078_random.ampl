@@ -1,0 +1,1 @@
+program p : L : takes F : boolean array; p160 : integer array returns nothing chillax end t0 : takes e : boolean array returns nothing pop 0 = 5; let A4Z0a = 8 end main : while - 7 or false and not 2 : input y[935]; when case 4 : let PiM = 1 end otherwise : pop end; pop end; do y9(58900 and(1), - false > - 5 - 3, 6 - 15 /= 2, 08); do S(- 6410 and 76 - 4 - 2); pop end

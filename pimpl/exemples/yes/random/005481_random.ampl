@@ -1,0 +1,1 @@
+program P : A9 : takes sG, r, hv, o : boolean array returns integer Xc2, R : boolean; while true and 98 /= 5 - 407 : chillax end end main : pop - (9) or not 2090 /= false or 3 - 78; do b1(- not false, - false + 442 - 4) end

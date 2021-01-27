@@ -1,0 +1,1 @@
+program Y : s : takes W6, U560a : integer array; QE : boolean returns nothing e : boolean array; output - 4 end main : l3, V02, y, qUsa : boolean array; S : integer; output - false /= 41 + 068 - 93400 . "" end

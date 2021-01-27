@@ -1,0 +1,1 @@
+program f : I6Q : takes u, M34, m4 : integer array; _ : boolean; F, f : integer returns boolean w8 : boolean; FG1, A : integer array; input _iy0 end main : zZA0a : boolean array; w, z08a : integer; D, S24 : integer; chillax end

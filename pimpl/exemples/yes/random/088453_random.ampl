@@ -1,0 +1,1 @@
+program P : main : input xJ[- false * (8) + lb(3)]; output - true and 60 < - 47 - 803 . 2 - 6 >= 9 . 4820 . 5 . "@"; when case - not 94 and 80 - 15 - 56700 > - 0 : output 6 end case 3 - 2 : input Z1; input T end; pop end

@@ -1,0 +1,1 @@
+program DX : U620a : takes P, QF : integer; V49, K, M49 : integer; M : integer; U6g, h, UC9, kQ, j : boolean array; K0u, T, go, PTBaa : boolean array; PA : integer returns integer input p67aa; input uhS[2630 - 17]; do yC(6 = 09300, 20, 591) end main : do lr(false or 2 - 6 - 2 <= - s(9), - o7(468) / not 1 - not 33700 and 6 > true + 2740 - 60) end

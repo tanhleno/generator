@@ -1,0 +1,1 @@
+program N : main : when case(73 = 31) >= - not L880a or not 1 and 11800 or 5 - 4 : when case 9340 = 69900 : chillax end case 4 : while 90800 : chillax end; pop end case 36 : chillax end otherwise : do Y(5); pop end end otherwise : chillax end; let H7 = true and 65 < - 35 - 46; output 88200 > 05300; pop 98 = 6; input s[96]; when case 2 : chillax end case 2 : chillax end end

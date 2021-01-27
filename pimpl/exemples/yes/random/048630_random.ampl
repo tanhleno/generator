@@ -1,0 +1,1 @@
+program k : sh : takes j : boolean returns nothing p : integer; p8, N5 : integer array; Sx1 : boolean; pop; when case - 3660 >= 9920 : chillax end otherwise : pop; pop end; do i(6 = 4) end main : jC, _, Kcn, H : integer; y2, P : integer; Av0 : boolean; let V[false and V5M and x and 5] = array - (1) / 39 and false and 3 - 5070 + false and 7 end

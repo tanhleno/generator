@@ -1,0 +1,1 @@
+program pv4 : Ff : takes _, a6, Q : integer array returns boolean x, y5g, w4 : boolean array; do yHA(not 58 and 5, - 725 <= 8, 5 = 3); pop; input b7N end main : let n = false < - not 7 and 9580 + 3 - 67900; when case 134 + not 6 and 0 or 136 : output 9 . 4 end otherwise : chillax end end

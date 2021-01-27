@@ -1,0 +1,1 @@
+program r : main : t, N, d580a : integer array; when case false - (94300) /= true rem(5) : chillax end case false * a : let w = array 4 end case - 60 - 9 : chillax end; let Rf6 = not 8 and 9 >= 1 end

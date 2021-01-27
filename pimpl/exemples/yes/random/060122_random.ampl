@@ -1,0 +1,1 @@
+program Wu : go : takes r : integer array returns nothing do Ei(- false - 3550 - 6, - 0 - 54); output 9 = 9 end C : takes U : integer returns nothing chillax end main : gPd0 : integer array; chillax end

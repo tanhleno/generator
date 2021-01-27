@@ -1,0 +1,1 @@
+program E460a : J9 : takes A : boolean array; X : boolean returns boolean O, z, _N, l : integer; when case true + 3 - 805 = 92 : when case 3 : chillax end otherwise : chillax end; input Gb2; let a38 = 6 end otherwise : chillax end; let JHB = 59 = 3 end main : output false + we and 4 or 7 - 8 = - B340a and 588 end

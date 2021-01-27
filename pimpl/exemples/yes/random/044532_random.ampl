@@ -1,0 +1,1 @@
+program j10aa : t : takes V : boolean array returns nothing d94a : boolean; while(2) and 09 + 1730 /= 8 - 869 : input N end end main : dDF0a, z : integer; let FQW0a = array - 0 - true; when case - 0 : do l(776 = 74) end case true : do I(9, 48) end; do z(- true and 60 or 20, - 007 - 84); output 493 = 0; input t1[0] end

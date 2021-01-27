@@ -1,0 +1,1 @@
+program fn3 : main : when case KJL0a(4380) rem false rem not 3 and 977 : when case 50 - 1 : input P3; pop; pop end case 1 : chillax end case 55 : pop end; output 7; do g(922) end otherwise : let e4[6090] = array 48 end; while - not(1) or false and 83 or 79 : chillax end; let X5F[not 6 and 8 - 19] = 32900 end

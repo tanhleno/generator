@@ -1,0 +1,1 @@
+program p : e : takes SLY : boolean array; te_0a, n80aa : integer returns integer array b370a, I : boolean array; ySYaa : integer; Xa, xC, T : boolean; U, O : boolean; aF4a : boolean; chillax end main : pop 94 and 1 and 735 + false - 3 - 78; input Z160a end

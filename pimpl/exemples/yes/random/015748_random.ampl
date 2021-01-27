@@ -1,0 +1,1 @@
+program e : M74aa : takes I, JIR, H : integer returns boolean array pop - 16; input H[- 0] end h : takes V0, H0 : integer; f : boolean; h8 : integer returns nothing r, o31 : integer; m, VYt0a, A22a : boolean array; a6b, F : boolean; Q6t0a : boolean; chillax end main : pop w[06] * (2) and 5 end

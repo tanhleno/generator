@@ -1,0 +1,1 @@
+program f5 : s : takes o7O0a, C930a, pm, K14, sH_aa : integer; F, V, G, Sc20a : boolean array returns nothing let Q2[h5I0a and 7840 or 3620] = 9 - 6 end main : C, l75 : integer; q, O, v3 : boolean array; n, d5, u, Tw : boolean array; while false or not false or(4) and 6 <= (52) and false and 5100 - (53900) : do R(- 0 < 47, 1 = 23) end end

@@ -1,0 +1,1 @@
+program dH20a : e : takes F : integer; zZ, Xe : integer; q : integer; o0 : boolean returns nothing w, S, y, D3, Vu : integer; zJ, vay0 : boolean array; chillax end f : takes ui, yd, D4 : integer; Z, V : boolean returns integer let B3 = 66 end main : while 0 - not 06 rem false <= I : when case 9 : chillax end otherwise : chillax end end end

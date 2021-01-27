@@ -1,0 +1,1 @@
+program umS : A45 : takes S79, L : boolean array returns nothing Nj, n, _ : boolean; chillax end UO : takes W, n9ma : boolean array returns nothing while 9 - 82 = 8 : chillax end end main : chillax end

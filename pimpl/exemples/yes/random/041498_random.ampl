@@ -1,0 +1,1 @@
+program N : l : takes Q : boolean array returns boolean array chillax end main : do b(x6[7] / (57) >= S[68], - b7[77] and E - not 6 and 9590 + 0 - 37 >= true); while - not not 42 and true - not 3 and 8 : do U4(3 = 6); let V1[177] = 0; when case 17 : chillax end end; let r = array Jk end

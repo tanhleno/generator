@@ -1,0 +1,1 @@
+program Q : Sx : takes B7, t : boolean returns nothing I : boolean array; y30aa, J, n, zD40a : integer array; chillax end main : S6r : boolean array; F, p, D : integer array; F8Daa : boolean; pop end

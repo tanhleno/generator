@@ -1,0 +1,1 @@
+program E : pb40 : takes X, K1, X : boolean; M : boolean returns boolean output "8" end L : takes Lq, w5 : boolean array; k, a1, g : integer returns nothing chillax end main : do VQ(p(8) / (049) * false) end

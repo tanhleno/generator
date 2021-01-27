@@ -1,0 +1,1 @@
+program o : main : f, s3 : boolean; L : integer; _ : boolean array; Z, f70, VI, V4 : integer; ZX1 : integer array; h, X : boolean; WfNaa : boolean; pj : boolean; input J0I0; input yP3[- false + false and 9 + 9 - 6380] end

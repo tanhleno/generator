@@ -1,0 +1,1 @@
+program B70aa : Ipea : takes P, h : integer array; m790a : boolean array; p, c : boolean array returns boolean array w, H, X0faa, Z, m380 : integer array; r0, W0 : integer; vJ1 : integer; Mt80a, Y : boolean; chillax end w : takes Aiu0 : integer returns integer while - 5 - 0 : chillax end end main : input Z100 end

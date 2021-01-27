@@ -1,0 +1,1 @@
+program r : J : takes w, d : boolean returns nothing while not 79 < - 3650 - 7 : while 90 : chillax end end; do U(0 - 57 /= 96); when case 445 : chillax end otherwise : pop end; do b_(7, 6) end sC : takes H0S : integer array returns nothing chillax end main : V : boolean; Km3aa : integer; pop - (45) / not 273 and 8 <= vv or 8 end

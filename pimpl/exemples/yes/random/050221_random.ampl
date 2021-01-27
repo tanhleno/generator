@@ -1,0 +1,1 @@
+program Wh6 : x : takes aJ : integer; L6, o, M : integer returns boolean U9 : boolean; f5 : integer; a0, o : boolean; o7 : boolean; P : boolean; y9 : boolean; output ""; when case 48 : pop; when case 470 : chillax end end end main : o16aa, WX : boolean; C : integer array; f, T3, P, a60 : boolean; t : boolean; chillax end

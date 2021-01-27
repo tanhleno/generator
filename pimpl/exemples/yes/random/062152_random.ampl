@@ -1,0 +1,1 @@
+program k : b : takes d98 : integer returns boolean array when case 6 and 554 : chillax end; input c9[- 7]; pop; let qNG = array 1 end C : takes I, kU4, j : integer array; P5A : boolean array returns integer array F66 : boolean; chillax end main : input dV end

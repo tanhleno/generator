@@ -1,0 +1,1 @@
+program Z9 : I3 : takes fP : integer returns nothing chillax end h : takes Z, y : boolean array; K, c : integer returns integer chillax end main : Ad, k79a : integer; S : boolean array; pop 99 + true and 1; input TBW0a end

@@ -1,0 +1,1 @@
+program V : tEi0 : takes PM6, ISI0a : boolean array returns boolean chillax end r93 : takes n : integer returns nothing while 53 - 61 /= 1 : input Ke end end main : Pu : integer array; do g(- true - c - (69) and 8 > 754 * not 06500 - 4, - false / not 5 and 08 - true and 5, - Nsh and 09 <= 6960, - 3 - 13 < 2, 07600 = 3) end

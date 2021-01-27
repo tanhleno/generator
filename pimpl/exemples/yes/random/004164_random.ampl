@@ -1,0 +1,1 @@
+program Gyna : i : takes q, k, Z0, _, a : integer returns nothing when case true and 6 + 14 >= - 86 - 0 : chillax end otherwise : output "e"; pop end; let Zs5a = array 302; when case 267 = 771 : chillax end; pop end main : do m(not 9 < - true rem false or RN, - (7) - false and 6 or 897); let j = array - Q(9) end

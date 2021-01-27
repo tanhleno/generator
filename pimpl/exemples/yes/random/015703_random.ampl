@@ -1,0 +1,1 @@
+program ngJ : N : takes S7, f, cW2 : integer returns boolean array j, S : integer array; s : boolean; Y, iyq, U : integer; I : boolean; l : boolean; let G = array not 5 + 62 - 1 end main : kX0, x, X, gJ3aa, o71, _ : boolean array; a, S0u : boolean; chillax end

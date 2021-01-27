@@ -1,0 +1,1 @@
+program My : g : takes n09 : boolean array returns boolean let d = array not 04500 and 7; pop; pop 189 end n48a : takes I, K : boolean returns nothing nS60a : integer; chillax end main : _NSa, l, e : integer array; chillax end

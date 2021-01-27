@@ -1,0 +1,1 @@
+program p : main : let v[- not O[2] / (4)] = - (056) and not 3980 and 7 - 677 and 544 + 0 - 074; do k(76); when case(4) and 54 + 2 - 8 /= - 17 - 5 : while 1 : pop end end case 769 /= 3 : let w = 293 end; when case - 3 /= 6860 : pop; input A9N end end

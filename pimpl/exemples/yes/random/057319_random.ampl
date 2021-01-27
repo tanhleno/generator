@@ -1,0 +1,1 @@
+program A0k0a : b : takes p : integer array; U : integer array returns nothing while - 418 and 9 = 9 : chillax end; when case - 5 /= 4410 : chillax end case 19 = 0 : while 5 : chillax end; pop end; let X8F0 = 5; output ""; when case 0 : chillax end; when case 37 : chillax end end main : Y, o2 : integer array; T : boolean array; chillax end

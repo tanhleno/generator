@@ -1,0 +1,1 @@
+program r : b7ma : takes vw, U : boolean; E8 : boolean array returns nothing T : boolean; let Z4faa = array not 40800 and 5960; let H[- 62700] = array 7 - 02; let P290a[2] = 258 end main : chillax end

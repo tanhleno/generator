@@ -1,0 +1,1 @@
+program D2w0a : D : takes AQe : boolean array returns nothing gj : integer; a, YG, G : integer; R : integer; output "" . 35 = 26 . "?+0" . "1\n0" . "*7"; let H[- 5 - 84700] = array 7 end main : do Ch60(SO[55], (747) and not 3 and 1880 + p7 = - false or 8 - 13) end

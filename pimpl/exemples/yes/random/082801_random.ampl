@@ -1,0 +1,1 @@
+program uh30a : main : T : boolean array; while(70 = 90) - (7) : when case - 644 - 1 > 2 : pop; when case 996 : chillax end; pop end end; input Z8[- 0 and false and 704 + 9 and 43700 or 92 - 511] end

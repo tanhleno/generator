@@ -1,0 +1,1 @@
+program WS : N01a : takes f, Jp, f : boolean array; oB, w, L : boolean; k, ZSv0a, ZYd0a : integer returns nothing D : boolean array; chillax end main : input A[- not 678 or wq[224] + 598]; when case v[64] and false or true - 082 : let R = array 52 end case - not 8 : chillax end otherwise : chillax end end

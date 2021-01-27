@@ -1,0 +1,1 @@
+program G : m : takes S610, Ik : boolean; TL4a, FE, pWN : integer returns nothing while true and 38200 = 875 : chillax end; output 8 end _ : takes x : boolean array; I8P, t : boolean array returns integer array chillax end main : chillax end

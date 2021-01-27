@@ -1,0 +1,1 @@
+program z : s5z0 : takes n, J : boolean array returns boolean pop 71000 - 2 end n : takes i : integer returns nothing Z630 : boolean; when case 8 : chillax end case 8 = 1 : let b = 5; pop end; input U[6] end U9l : takes Bq, yc : boolean array returns nothing ZB, E, KN : integer; i : boolean; t : boolean; chillax end main : M : boolean; chillax end

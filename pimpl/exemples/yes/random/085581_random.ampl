@@ -1,0 +1,1 @@
+program Rw : main : c : integer array; R, T, P, h23, O, l : integer; when case true : input B end case - _ and 3 : chillax end case - not 82 and 5 + 4 : when case 07400 : pop end end case 14100 - 3 : while 547 : chillax end; let B = 7; pop end otherwise : chillax end end

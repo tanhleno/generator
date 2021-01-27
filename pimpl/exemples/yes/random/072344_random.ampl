@@ -1,0 +1,1 @@
+program vW : main : n890a, nc, h : integer; u : integer array; h, L : integer array; e, T, QS : integer array; D : integer array; G25, O9A : boolean; do zV(- (3 = 5310) /= w(9) - false - 8); output true and 20; when case - (7) >= 5 : chillax end case 1 - 508 <= 169 : pop end case 9 = 125 : pop end case 2 : pop end end

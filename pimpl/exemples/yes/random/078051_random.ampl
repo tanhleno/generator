@@ -1,0 +1,1 @@
+program z : main : n87, FI : integer array; when case(12) rem(4) + 2 * a0 and 97 <= - true rem 311 and 97 - true and 78 - 2 - 02 : when case 8 < 0 : chillax end otherwise : chillax end; output 4480; output 8; when case 83500 : chillax end end otherwise : chillax end end

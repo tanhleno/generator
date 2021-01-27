@@ -1,0 +1,1 @@
+program Bgv0a : t1 : takes vAY, J9 : integer array; M7, V230a, i : boolean returns integer array chillax end y : takes R : integer; P1y, U1X : boolean; F : integer array; GuGa, cA : integer array returns integer Nu90a : boolean; R, Q9, qL20a : boolean array; F3 : boolean; Y : boolean; while - 93 > 0 : chillax end; while 9 : let b3 = 1 end; do yW7aa(8, 7) end main : chillax end

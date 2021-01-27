@@ -1,0 +1,1 @@
+program k : H : takes x : boolean array; s5, CDbaa : boolean array returns nothing while - R and 1 + 52 <= 4 - 84 : do d(9); output ""; when case 9 : chillax end; pop end end main : Z, P : boolean; chillax end

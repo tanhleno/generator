@@ -1,0 +1,1 @@
+program lBGaa : d : takes BV, B, Qu, nm, G : boolean returns nothing Q5 : integer array; pop 19 - 95 = 9; input b99[9] end C8 : takes U : integer array; T, t4 : integer array returns nothing when case - 6 - 9640 > 6 : let M3 = 7 end otherwise : chillax end end main : d, O, A, r : boolean; TV8 : boolean; chillax end

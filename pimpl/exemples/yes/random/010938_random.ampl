@@ -1,0 +1,1 @@
+program o9 : Z : takes V88, R, nI5 : boolean array returns integer Eo1a, Z, U9, g : integer; chillax end v : takes l : integer array returns nothing let LV = array - 3; do b2(19 = 7); input u[069]; let G2 = 026; do p(6) end main : while - true * false rem not 005 < - cQ(5) rem Q5 and 23 : chillax end end

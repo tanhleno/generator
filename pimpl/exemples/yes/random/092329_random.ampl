@@ -1,0 +1,1 @@
+program v : main : output - 27 or not 9420 - 77 - 85; pop(2) = 63; while - not 8 and 431 - 0310 < 647 - 9 : while 863 : chillax end; let K01 = 2 end; when case 89000 = 96400 : chillax end case 6 = 2 : input Y; pop end otherwise : while 1 : chillax end; pop end end

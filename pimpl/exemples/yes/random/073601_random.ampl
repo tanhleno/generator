@@ -1,0 +1,1 @@
+program _k : main : I, c : boolean; _2ra, N8 : boolean array; output "\"" . - false and 0 <= 9 - 1 . - 10; while not not 9 + (1990) and 2 + 91 : chillax end; when case - (0) = 58 - 7 : chillax end otherwise : chillax end end

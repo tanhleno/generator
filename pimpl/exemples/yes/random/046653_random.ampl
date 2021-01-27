@@ -1,0 +1,1 @@
+program v : N : takes w : boolean returns integer array f : boolean; I4, e : boolean array; do V5(- (9) or 313 = - 61); do u(63); let aQ80[34] = 41; input C end main : m : boolean; d0, Z : integer array; chillax end

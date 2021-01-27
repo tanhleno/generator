@@ -1,0 +1,1 @@
+program D9 : C : takes VLlaa, ejX : boolean; u : boolean; I, o, b7b, q3b : boolean; H : integer array returns integer l, iN, P, K : boolean array; input s24aa end main : W : boolean; T7H, UG : integer array; g3baa : integer array; chillax end

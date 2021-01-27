@@ -1,0 +1,1 @@
+program GX : main : when case - 59700 rem true * false - 3 + V and 31 or 5 - 8 : chillax end case 527 - 51 + 48100 - 8 = (84) and 8 - 9 - 5 : do Ifsa(5910, 38, 6) end otherwise : chillax end; when case(3) rem 2 and 88 - OqC + 04 - 1 : chillax end; output - 509 - 2 > 4350; pop 94 = 188 end

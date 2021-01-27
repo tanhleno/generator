@@ -1,0 +1,1 @@
+program i5Ya : R7 : takes CCs, E, b : integer; d, ls, L : integer; kI, D86a, U83a : boolean; v2 : boolean array; aG8a, e, P31a, G : integer array returns nothing M7 : boolean array; chillax end main : input c2a[- bb[2] and false - false rem 54500] end

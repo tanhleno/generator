@@ -1,0 +1,1 @@
+program j : fr : takes Ow, r : integer; p6, J, bB : boolean; F : boolean array returns boolean o1b0a : integer array; when case false + 652 - 5 > - 7 : chillax end end U : takes R7 : integer array; W : integer array returns integer m : integer array; chillax end Z : takes D, Q : boolean; v3xa : integer returns boolean chillax end main : _ : boolean; Q : integer; pop end

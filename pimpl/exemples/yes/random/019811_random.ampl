@@ -1,0 +1,1 @@
+program Q67aa : A4 : takes w, j : boolean array; b : boolean array; f, N24, c030, RZm, O : integer array returns boolean array chillax end W : takes j76 : integer array returns boolean array pop; while 3 = 1 : input Y; pop end; input Ns end main : chillax end

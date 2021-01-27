@@ -1,0 +1,1 @@
+program m : main : f0 : integer; S : integer array; U : integer array; uuTa, b, I : boolean; w : boolean; X : boolean; while(96 = 6) - false - false and 97000 = - 53 + (400) and 3950 - 13300 - 0 : chillax end end

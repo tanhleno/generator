@@ -1,0 +1,1 @@
+program L : main : q : integer array; let S = - (2220) + 54 or 0 - 0; while - (6) : pop 61; let W[7] = array 67; when case 4 : chillax end; while 52 : chillax end; pop end; output - 209 - 29 <= 4 end

@@ -1,0 +1,1 @@
+program _70 : JP80 : takes j3 : boolean array; Zl8aa : boolean; p : integer returns nothing H, h, z5S : integer array; do b(false and 4 >= 565 - 74, - 45) end t : takes D : boolean array returns nothing l : integer; I : integer; chillax end main : TP : integer array; j, e, ORQ, Qq, E : boolean array; output "" end

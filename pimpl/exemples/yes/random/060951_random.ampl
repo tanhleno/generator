@@ -1,0 +1,1 @@
+program ZW : NbT : takes s5G : integer array returns nothing K : boolean array; when case - false and 29 = 262 - 3 : pop end otherwise : chillax end; while - 3 - 1 /= 2 : chillax end; while 70 : do B3l(9); pop end end main : chillax end

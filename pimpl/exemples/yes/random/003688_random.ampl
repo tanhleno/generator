@@ -1,0 +1,1 @@
+program U : o : takes m1, P, M8, W, v : integer array returns boolean cSH, W, V4D : boolean; x0, G : integer array; x1 : boolean array; do i(- not 77900, - 9 - 434, 10 = 5); output "" end S : takes D1Ma : integer array returns nothing V99, l : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Np3 : main : input vUQaa; when case f5[3890] / false /= - not 02 + 2 : chillax end otherwise : when case 2370 : chillax end case 9 : chillax end end; output - 62 - 7; pop 29900; let vA[575] = array 7 end

@@ -1,0 +1,1 @@
+program h2z : l91 : takes w3Q, g5H, O7I : integer returns integer W : boolean array; l : integer; chillax end z3 : takes TI40a : integer array; rQ4 : integer returns boolean array n4, A : integer array; M, h2 : integer; o6 : boolean; sKX : boolean; I : boolean; pop end Rx : takes Qb : boolean array; p : integer array returns integer array output 9 end main : chillax end

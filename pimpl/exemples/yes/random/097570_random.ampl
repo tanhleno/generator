@@ -1,0 +1,1 @@
+program q : main : when case true - not(2) rem(456) and 2 or not 9 + 9 = - (34900) : chillax end case(4) : chillax end otherwise : chillax end; when case false : while 24100 = 1 : when case 308 : chillax end end; when case 47800 : chillax end case 851 : chillax end end; output ""; input P1[1] end

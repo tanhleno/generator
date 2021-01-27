@@ -1,0 +1,1 @@
+program K0 : X2 : takes T920a, Z, t8, v, k, u : integer returns nothing JJI0a, t : integer; chillax end h4s : takes P, M : integer array returns integer array chillax end i8 : takes j, Fe, u7d0a : integer returns integer chillax end main : l : integer array; t8J, L2, e : integer; u : boolean array; chillax end

@@ -1,0 +1,1 @@
+program L : Y : takes g : integer array returns nothing c5 : integer; Q250a : boolean; chillax end YW : takes ek, h : boolean; Uc : boolean array returns nothing x1Y0 : boolean; Z, a9v : integer array; J9d0 : boolean; output ""; let m = array 1; do e2(3) end main : input _; let p = - (03) or 8 - 5 = - 36 - 0 end

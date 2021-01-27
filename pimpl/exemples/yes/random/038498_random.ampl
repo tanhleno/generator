@@ -1,0 +1,1 @@
+program m : C : takes Djr : boolean array; os4, q : boolean; Cas0a, x : integer array; jj : boolean array; pg : integer returns nothing j : integer array; Zw, K7Raa, f, e : boolean array; do K67a(- _q and 9150 + 8 - 8, 8 - 883 <= 4, 2 = 79) end main : n : boolean; g, V23 : boolean; chillax end

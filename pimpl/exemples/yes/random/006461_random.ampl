@@ -1,0 +1,1 @@
+program Wd5 : oJP : takes jL, n, G2H, Z : integer; f, _1 : boolean array returns nothing i, w, y7, G7, cwt : integer; output - 5 = 2 . 011 = 94 . "\t\n" . 9 . "" end main : while - f(4, 87) * not(167) or false and not 5 and 6 <= - r[4] or true : chillax end end

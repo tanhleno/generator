@@ -1,0 +1,1 @@
+program w9 : z : takes D : integer array returns integer array chillax end s : takes LG, y3 : boolean returns nothing when case 0 - 312 : while 741 : chillax end end end main : S, MT : boolean; chillax end

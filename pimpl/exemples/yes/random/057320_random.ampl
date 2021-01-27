@@ -1,0 +1,1 @@
+program krh : H : takes al : integer array; M : integer array returns nothing while - 2 or 72 - 6 <= - 5 - 02 : output ""; let F = 935; do y(75500) end; output 31200 = 7 . 28 end main : when case - not S : chillax end; let L[- d] = false - 6 - 4 end

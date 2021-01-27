@@ -1,0 +1,1 @@
+program mX : B : takes O3, s : boolean; e : integer array; n : boolean returns nothing f : integer; chillax end main : F6 : boolean array; D : integer; kd10a : boolean array; P, s0w, B : integer; Q, k55 : boolean; when case W + O1[8] / false - itW - 642 > - i[9] : chillax end case - Xz50a and D2 and 8 + s6q0 and 8 : chillax end end

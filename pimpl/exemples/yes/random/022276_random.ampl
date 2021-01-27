@@ -1,0 +1,1 @@
+program P86a : E8 : takes X1, a : boolean array returns nothing cn4a, U : boolean array; UP, C9c0, R : integer; O0oaa : integer array; pop 3890 >= 49; pop; output ""; do u81(0) end main : C2, c : boolean array; chillax end

@@ -1,0 +1,1 @@
+program S : e8zaa : takes B2, T, f : integer array; ox2 : boolean; P : integer returns integer array chillax end main : output "" . ""; pop - true and 26; let L[true and 6 or 37 - 318] = array - 388; pop 96400 = 6; pop 1; output 47 . "{"; when case 6 : chillax end end

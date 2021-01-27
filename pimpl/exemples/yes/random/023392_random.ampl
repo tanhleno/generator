@@ -1,0 +1,1 @@
+program h3 : Z3 : takes S, r460 : boolean returns integer array chillax end w : takes e0r0a, e : integer returns integer array k : integer; pop; while 5590 : while 95 : chillax end end end A : takes Q : boolean array returns nothing K, yi80a, KI : integer; do J(7 = 6, 0); output 446 . ""; input gK; pop end main : Ja : boolean array; chillax end

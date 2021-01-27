@@ -1,0 +1,1 @@
+program z : H : takes Zi : integer; m, x, i14 : integer array; C79a, f7, L5, _ : boolean array returns nothing input oFX[- z and 7 + 1 - 0260]; while 97 > 1230 : output "" end end main : do vG(- false > - not(355) + true and 88 + 64); let R = - true and 94 + 2 <= - 6 end

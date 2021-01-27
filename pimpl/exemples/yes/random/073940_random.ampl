@@ -1,0 +1,1 @@
+program n : main : H8C, a : boolean; P5S : integer; H : boolean array; xN, e460 : boolean; output iG8 / true and 13 or true - 4; when case 85500 + not 28 and 18 : while 17 = 5 : do j(1) end end case - true : chillax end case 69 : chillax end otherwise : when case 00 : chillax end otherwise : chillax end end end

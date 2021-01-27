@@ -1,0 +1,1 @@
+program s5 : E : takes v : integer returns boolean array Cn : boolean; chillax end E : takes K, L920 : integer array; E1d : integer array returns nothing o5 : boolean; EZj : boolean array; y, z76 : boolean; y : boolean; dlF : boolean; when case 26 : let wx20a = 6 end case 10 : output "@" end case 4 : chillax end case 3 : chillax end end main : chillax end

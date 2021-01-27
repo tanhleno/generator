@@ -1,0 +1,1 @@
+program u2l : mx50a : takes q4C : boolean returns nothing pOD0a : integer array; chillax end main : iVx, xI, h : boolean array; H1 : integer; CX1 : integer array; Wwc, j5i0a, J, I3 : boolean array; chillax end

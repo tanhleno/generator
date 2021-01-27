@@ -1,0 +1,1 @@
+program o4q : main : F, pZ90, U : boolean array; _E, Y, p, Y : integer; Y6, Z : boolean array; N : integer array; w5, huC, T : boolean array; w : boolean; f : boolean; GRw0a : boolean; when case V[3] * 8 / (7) and 00 or(9) * Q and 6 : chillax end; output - e - 3370 - 6 /= - 73700 - 1 . ""; pop end

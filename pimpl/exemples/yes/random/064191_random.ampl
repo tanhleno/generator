@@ -1,0 +1,1 @@
+program m : N : takes _ : integer returns nothing w3, X5kaa, g, j5, R1 : integer; u : boolean array; pop; do Cq1(- 4, 7, 2) end main : g6, j : boolean array; N : integer; Yze : integer; nT, Y, o, xx : integer; s28, a, i28a : integer array; chillax end

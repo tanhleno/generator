@@ -1,0 +1,1 @@
+program R1xa : q43 : takes e : boolean; B, An : boolean array; B : integer array returns integer E : integer array; chillax end main : when case false * not 5 : chillax end case - 54 + 2 : chillax end case - not 0 = 90 : chillax end case 1 : when case 9 : chillax end end end

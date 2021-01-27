@@ -1,0 +1,1 @@
+program CHk : T : takes t : integer returns nothing when case - (5) + 4 < 5 : chillax end case 55 - 6 : chillax end case 8 : while 1 : chillax end end; input eQZ end main : output "/Ya" . "b" . 272 . "["; let l2[- cq3[86] / uw or u0 and 97 - 391 - 2890] = array 2 rem j and 3 end

@@ -1,0 +1,1 @@
+program Rs6 : W : takes b, C01, V : boolean returns nothing b9 : integer; chillax end main : LO7 : integer; H, wSd, P : integer array; while - (20400 = 20) or 6 + false and 93600 + 8 > - not eZ : chillax end; do x3(not u / 6860 - not 8 + 60, not 5 and 771 = - 11 - 3, - 727 - 4 /= 3) end

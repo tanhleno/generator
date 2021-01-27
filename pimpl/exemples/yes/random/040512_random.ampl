@@ -1,0 +1,1 @@
+program _P : E : takes FV : boolean array; X8 : integer; rt, M, S14 : boolean array returns nothing uW4 : boolean array; chillax end main : do C(false and not 6150 / (3) or false * not 9 and 8 <= (53) rem N and 2, false > 0 and 6) end

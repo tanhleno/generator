@@ -1,0 +1,1 @@
+program S : xwc : takes h45a, DPXaa, w, n : integer array; ff : boolean array; X, Ha : integer returns boolean M : integer; g : integer; f : boolean array; chillax end j3 : takes C7 : integer array returns nothing T7, bq3, q, o6 : boolean array; chillax end L : takes J, W : boolean array; eCv, Lp : integer array returns boolean array H : integer; chillax end main : chillax end

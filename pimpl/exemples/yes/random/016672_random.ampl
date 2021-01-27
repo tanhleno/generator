@@ -1,0 +1,1 @@
+program bq : C : takes z, L41aa : boolean; J, i, Gcd, W4Uaa, E, _q : boolean array returns nothing chillax end A6 : takes S, Y, f : integer returns integer b : integer array; chillax end main : f : integer; P9E : integer; en, Xd4 : boolean array; do uK2aa(- 432 <= 4 / (6) and 8); let g6[- false - true and 0 or 2 - 2] = (60); input o[- false or 0 - 8] end

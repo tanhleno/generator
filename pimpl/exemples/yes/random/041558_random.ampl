@@ -1,0 +1,1 @@
+program wajaa : Y5 : takes X : boolean array returns boolean array do O(08 <= - 6 - 59) end main : x : boolean array; while - w[24] and false and(1) or not K rem false and 8410 or(3) - 8 : output 51 = 443; input h[4] end end

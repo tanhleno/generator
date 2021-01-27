@@ -1,0 +1,1 @@
+program j : LW : takes p7, D4o : integer; D39, Y67, XO, f : boolean array returns nothing input Oq[- false] end main : b, rB, M0T, P : integer array; K, W : integer array; p02, Xx, r3, l68, h0 : boolean array; chillax end

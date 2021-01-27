@@ -1,0 +1,1 @@
+program E95a : t0 : takes V3, d : integer array; hf, S2u0, n : boolean array returns nothing input c[i]; input XcH0[650 - 50]; output "" . 2; while 5 : pop end end main : let p0u = true - true or 9 - 84; while - q(3) /= - true + 8650 - 6 : let T6[2] = array 7 end end

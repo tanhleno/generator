@@ -1,0 +1,1 @@
+program R : bTba : takes k : boolean; O9Ha : integer returns integer array g6, U, i : boolean; chillax end I : takes P : boolean; n9, Lp : boolean array returns nothing RR3, D, o : boolean array; pop 63 = 227 end main : output "\"" . 701 or 4 <= - 09 - 36 . - 81 - 2 . "*\t" . 9; let tw6a = array true; when case false and 0 + 1 <= 7 : when case 5 : pop end end end

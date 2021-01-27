@@ -1,0 +1,1 @@
+program d : main : let F1[true] = array - false; while(2) : output 5; pop 894 end; when case - false and 63500 - 11400 >= 36400 : chillax end; when case - 7400 > 28 : let F = 12; input b end otherwise : pop end; do T3(096 = 6); let o = 19400; output "\\9aa"; output ""; pop end

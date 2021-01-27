@@ -1,0 +1,1 @@
+program p : N : takes h, M8, j6 : boolean array; S3Y0a : boolean returns boolean T, ym7aa, x9N : integer; chillax end X : takes D : integer; a : integer returns nothing input A[0]; pop 0 end main : chillax end

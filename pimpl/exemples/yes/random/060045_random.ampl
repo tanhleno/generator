@@ -1,0 +1,1 @@
+program zD : gb : takes b : integer array returns nothing chillax end main : K : integer array; a74 : boolean array; Q : boolean; hc : boolean; u3G0a : boolean; output - not false and not 77 or not 5 and 2 + 9 - 88 end

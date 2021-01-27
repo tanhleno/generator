@@ -1,0 +1,1 @@
+program z : av : takes i, c9i, C : boolean; F : boolean; p78aa : boolean returns nothing ng : boolean array; input Po; let S2 = 7; pop end s5 : takes g5, VA9aa : boolean array returns boolean array i8, y : boolean; input N[6 - 2] end main : m, y0, pFG : boolean array; Q2 : boolean array; T, p1w0a : boolean array; DV, g8, zS, n : integer array; zr : boolean; chillax end

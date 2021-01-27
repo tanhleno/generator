@@ -1,0 +1,1 @@
+program zI : H : takes I, u : boolean returns integer chillax end E9Ra : takes z : integer returns nothing chillax end main : output "\\"; when case not false and false and 7 : let Q1 = 37300; while 4090 : pop end end case not 6 and 02 > - 485 - 86 : chillax end end

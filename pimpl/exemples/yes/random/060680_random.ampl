@@ -1,0 +1,1 @@
+program gz5 : w : takes Zpp : integer array returns nothing _56, Ky3aa : integer array; output "\"90a"; let a[3] = 89 = 67 end p7 : takes L080 : boolean returns boolean input x9A; when case 8 = 18 : do D(0); pop end case 5 : chillax end case 4 : chillax end; let RS[1] = array 2 end main : x, FJT0a : boolean array; pop end

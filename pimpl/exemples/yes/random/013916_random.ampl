@@ -1,0 +1,1 @@
+program B : IzS : takes C71, Y, O : integer array; l3, Bo0 : boolean array; x : boolean array returns integer output "" . "\t"; when case - 8 - 31 : when case 6 : chillax end end case 15 : chillax end case 28 : pop end end main : ks : boolean; do h(F3[7] / z8(98) * true, 28 + false or 3 - 3 >= false); let S6 = - false; output 86 = 246 . 2230 = 34 end

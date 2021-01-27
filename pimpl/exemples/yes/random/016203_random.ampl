@@ -1,0 +1,1 @@
+program l1 : f : takes d3, X, U8 : integer returns nothing chillax end te : takes dg1a : integer returns integer let W[3 - 71] = 1 = 2720; output "" . "e" . ""; pop 0; do P3(94) end h : takes g : integer array returns boolean chillax end main : chillax end

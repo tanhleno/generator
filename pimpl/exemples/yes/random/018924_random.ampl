@@ -1,0 +1,1 @@
+program Q : G : takes Fh, j5N : boolean array; nk, dj9aa, M : boolean array returns boolean array let De[- false and 9 + 1] = - 16 end M9 : takes q : integer; sma, w : boolean; t9 : boolean returns integer chillax end main : CK6 : integer array; x, gE : integer; while t : chillax end end

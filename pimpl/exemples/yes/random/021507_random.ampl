@@ -1,0 +1,1 @@
+program o : c : takes f, ec : boolean array returns integer array pop 7 - 3 < 858; input m98 end k : takes E2U, kk : boolean array returns integer input Z66; output "94!a" . "" . "3" end main : RW, x, Tb, x, Y, cQ : boolean array; SM9 : boolean array; when case - jz : input Op end case true and z1 - (8) and 1 or 35 : chillax end; output "" . - 3300 end

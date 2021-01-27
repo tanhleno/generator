@@ -1,0 +1,1 @@
+program mbkaa : rUb0a : takes RK6, k, e2 : boolean; Q : boolean returns boolean array pop - 3 end main : when case not 1 and not 8 : chillax end case(12) rem not 4 - 28 and 7 - 50 - 5 : input M8; when case 877 : pop end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program X660a : main : JhQ, v2H : integer; output "X$\"a"; let w[true and 0090 and 08 - true + 1] = - xK - 1 - 2 < - 9 - 3; when case F1 = - 1 - 4 : input OeXaa end case - 6 : chillax end case 3 = 692 : let ID = 98 end case 54 : chillax end case 60200 : chillax end; output 6610 = 7160; output ""; let O[49] = array 8 end

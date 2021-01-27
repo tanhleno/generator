@@ -1,0 +1,1 @@
+program A : b06 : takes i03a, T7l0 : integer array; TX8, t : integer array; apA, Q, e : boolean array returns integer r : integer array; chillax end main : H1 : integer; while - (0) + false rem i or(74) /= - true and not 0 : pop 8; do Aq1(83 = 7) end; input L[- Fh[53]] end

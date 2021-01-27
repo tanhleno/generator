@@ -1,0 +1,1 @@
+program k : M : takes V : integer; A8I : boolean returns integer t270a : integer; u, W0, T9, y2 : boolean; S, F, v67 : boolean array; chillax end aG : takes T850a : boolean returns nothing g : integer array; M5Qaa, D : integer; m : boolean; chillax end main : do v(K6[4] + false and F > o[4] and not 02 - 1 and 9 + 37 - 924); while not DP - 6 + 2 : do U1(0, 30000, 2) end; pop end

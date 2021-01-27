@@ -1,0 +1,1 @@
+program A2i : main : g7, a, EV, Cw, _ : integer; when case - false rem(82) / _1 + (5) / 91 and 05 : chillax end case - (115) rem 08 and 6230 >= - 15100 and 526 + 6 - 1 : while 812 : chillax end; pop 29; while 0 : chillax end; input Al9aa; pop end otherwise : let M99 = array 05; do r9H0(2, 93) end end

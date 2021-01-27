@@ -1,0 +1,1 @@
+program x5F : ffw : takes L6, j, h : boolean array; B : boolean array returns boolean o : boolean array; d : boolean array; do C(true /= 7); do J(- 96900) end main : S4, j1, r : boolean array; chillax end

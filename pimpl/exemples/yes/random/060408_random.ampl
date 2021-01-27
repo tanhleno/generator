@@ -1,0 +1,1 @@
+program V : u7 : takes w1H : integer array returns nothing hv, q, JE : integer; when case true >= 22500 : chillax end; when case 30500 /= 24 : when case 5 : chillax end end; output "" end main : while true - true : when case 6780 <= 32 : chillax end case 4 : chillax end; do F(9 = 8, 2, 3) end; do x(gyGaa[11] * not 3150 or o and 4, - (6) - 6 >= 0, 6420, 24, 6); pop - 82 end

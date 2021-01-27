@@ -1,0 +1,1 @@
+program wW3aa : j : takes Z : boolean returns nothing while - not 8 and 0 = 4 : chillax end end main : while - not x(3) rem false >= - false : chillax end; do i(- (4) * not 57 and 5 + 3 - 2, - not 9 = - 6 - 4); input C7; pop; when case 033 : output "?9"; pop end case 06900 : pop end end

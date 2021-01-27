@@ -1,0 +1,1 @@
+program F : x : takes Ej4aa, p : integer returns nothing v, Ps, q : boolean array; output 1 - 7 < 9 end V15 : takes O4 : integer; m : integer; o : boolean returns nothing ff, E : integer; K84aa, RfDaa, c : boolean array; chillax end main : input v0; while - 88 = not 429 : chillax end end

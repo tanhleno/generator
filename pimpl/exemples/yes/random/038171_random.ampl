@@ -1,0 +1,1 @@
+program yaI0a : C9 : takes OX0aa : boolean array; u, Z, s : boolean returns nothing hf30, Pw6a, M2, c : boolean array; while - true - 000 <= - 0 - 575 : chillax end end Ye : takes C : integer array returns boolean array p : boolean array; chillax end main : d : integer array; when case - 66 : chillax end; pop end

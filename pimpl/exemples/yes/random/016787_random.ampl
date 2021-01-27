@@ -1,0 +1,1 @@
+program rF : c : takes PO, M : boolean; v, YQ, e, T110a : boolean array; _q4, N : boolean array returns integer array B, VR : integer array; output "D"; pop 0820 = 4; output "" end main : chillax end

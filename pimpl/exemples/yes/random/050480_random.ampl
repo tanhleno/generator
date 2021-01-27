@@ -1,0 +1,1 @@
+program t : M : takes A : integer; U, k : boolean array; o, i : integer; qzW0, S, Bu : integer returns nothing g6, FBU0a, Qz8 : boolean array; chillax end main : do A(- Y / A6_ rem not 881 and 6, J(24500) and true + (2) or 177 - 5, true and 05100 + 28 - 5450 /= - 46 - 01, - 2, 4 = 7); while - not(3) : while 5 : pop; pop end end end

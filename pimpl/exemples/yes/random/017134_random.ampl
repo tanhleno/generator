@@ -1,0 +1,1 @@
+program Em : J91 : takes OQ, b : boolean; o, l : boolean; eERa, W, A : boolean array; w2Na : integer array; C3, s3 : boolean array; rY3 : integer; R, s : boolean; q : boolean returns integer do J5z(59 > - 673 - 3) end main : K : boolean; j7w0, s, Tq5, L, GU4aa : integer; do D(- true > (2) - not 6 and 7) end

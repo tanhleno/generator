@@ -1,0 +1,1 @@
+program X26aa : C : takes U90a : integer array; ZkLaa : boolean; vZLa : integer array returns nothing chillax end main : output - true and 77300 and 59 = - false and 5 + 31400 - 0 . "#"; when case x[39] rem Rd : chillax end case not 22 and 5 : chillax end otherwise : chillax end end

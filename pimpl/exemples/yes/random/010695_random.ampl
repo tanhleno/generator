@@ -1,0 +1,1 @@
+program Au : t2 : takes G56, L, i0O : boolean array returns boolean f, U : integer; yLW, U : boolean array; while - false /= 2530 - 3 : while 14 : chillax end; pop end end main : c : boolean array; chillax end

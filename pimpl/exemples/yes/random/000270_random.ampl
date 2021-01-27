@@ -1,0 +1,1 @@
+program pU : TYd : takes P7, U, L, B, d, qt, d, sY2a : boolean returns nothing ZT6aa, Gj : integer array; when case - 67 + 3 /= 197 - 7 : chillax end otherwise : chillax end end main : a, w, v, O1 : integer array; input a[a(7140, 7) and false / 5 and 9]; pop end

@@ -1,0 +1,1 @@
+program f1 : w4 : takes v4Jaa : boolean array returns nothing chillax end main : pop - true and true + D /= not 2 and 38; while not W4X0a <= - true : do K(23800 = 0, 66); when case 1 : pop end case 0 : chillax end otherwise : chillax end end; while - true and 73 or 5 - 4 : chillax end end

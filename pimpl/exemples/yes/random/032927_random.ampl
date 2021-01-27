@@ -1,0 +1,1 @@
+program f3caa : S : takes i, y4 : integer returns nothing m : integer array; do M(not 59 and 4 + 3, - 0 - 5 <= 63); input iB1[92] end _o : takes e6 : boolean; V, X01aa, y0 : boolean returns boolean array p5, V, o, B : boolean array; _K : boolean array; when case 2 > 751 : chillax end end main : while(407 = 4) : chillax end; while - 1 or false and 24 - 26 - 0 : chillax end end

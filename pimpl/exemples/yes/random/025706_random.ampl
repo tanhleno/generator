@@ -1,0 +1,1 @@
+program y : Z : takes X, Y : integer; e, D3 : integer; k3, jM, yI7a : boolean returns nothing pop - 3 end U9 : takes J : integer array; CF : boolean array returns nothing Q : boolean array; while - 35 > 08700 : pop; do P(3) end; let o[6] = array 6 end main : chillax end

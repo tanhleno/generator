@@ -1,0 +1,1 @@
+program ka5 : main : let m[- false] = array - 84 / not not 2 / false or 1; when case 3 rem false : chillax end case true and 09 or 01200 > - 826 - 0500 : chillax end otherwise : input H17; when case 0 : chillax end end end

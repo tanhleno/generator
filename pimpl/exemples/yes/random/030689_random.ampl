@@ -1,0 +1,1 @@
+program y : Z97 : takes w9S, Qx : integer array returns nothing l5e, KK9 : integer array; O4P0a, D : integer array; X : boolean; LxP0 : boolean; a : boolean; chillax end kw : takes O, aD, VN, l : boolean returns nothing E, K : integer; chillax end main : AKH : boolean array; output "0"; output - h - 4 . 6 - 3 < 30500 end

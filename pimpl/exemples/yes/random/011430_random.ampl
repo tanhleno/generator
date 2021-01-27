@@ -1,0 +1,1 @@
+program u : y : takes gP2, r, O : boolean array returns nothing input k; let B220a = array - 081 - 4; output "8\\0a" . ""; pop 22; while 79 : chillax end end v : takes I8, LB80a : boolean array; _ : integer; k9 : boolean array returns nothing chillax end main : Z : boolean array; F : boolean; Wb, wy5, mP : boolean; chillax end

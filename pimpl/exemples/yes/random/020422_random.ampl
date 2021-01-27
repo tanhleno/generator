@@ -1,0 +1,1 @@
+program l : w : takes j, v : boolean array; b : integer array; O, b4 : integer; m1v, U, HB, z, BYK : integer array returns integer array while - (57) and 7 or 69 : chillax end; when case - 094 - 6 : when case 30100 : chillax end; do fs0(714); pop end otherwise : chillax end; input N; output 1 . "<4"; let g = 6370 end main : chillax end

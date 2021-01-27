@@ -1,0 +1,1 @@
+program zGKaa : KU : takes i8 : integer array returns integer array f0, VHO, P, e, R : boolean array; O, W : integer; chillax end v6 : takes Evk : integer returns integer chillax end main : q : integer; while - (5 = 3) + false * B and 50 or(3) and 801 /= (8220) : chillax end; let b8[- 576 - G4 and 14100] = array - false * false; pop - 10 > 78300; pop; input sj end

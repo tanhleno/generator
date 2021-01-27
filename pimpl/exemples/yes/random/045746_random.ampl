@@ -1,0 +1,1 @@
+program _c : qmo : takes K : boolean returns boolean array g8 : integer array; X, I : boolean array; A9 : boolean array; E : boolean; mo70a : boolean; chillax end main : _7 : integer; q : boolean; X : integer array; f : integer array; do p(182 or 310) end

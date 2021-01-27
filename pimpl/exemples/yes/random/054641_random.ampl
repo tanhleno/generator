@@ -1,0 +1,1 @@
+program S7 : m : takes ik : integer array; b7, b : boolean array returns boolean array e : integer array; q2, X : integer array; do Bd5(- F and 5 + 5 = 137 - 7, 5, 02 = 11) end main : l : integer; K : integer array; chillax end

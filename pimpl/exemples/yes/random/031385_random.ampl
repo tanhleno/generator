@@ -1,0 +1,1 @@
+program o : w85aa : takes G9R, F : integer returns boolean array let uN70a = array - (84) or 33200 - 6610 end oi : takes un2 : boolean returns boolean do d(8 - 7 <= 7240); let w3 = 4; output 60 end H : takes xj : boolean; z : integer array returns nothing Z : boolean; bCd, yC : boolean; H : boolean; let S = array 93600; while 686 : pop end end main : chillax end

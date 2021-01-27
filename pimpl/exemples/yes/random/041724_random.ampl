@@ -1,0 +1,1 @@
+program x : X : takes L : boolean array returns boolean array I : boolean array; U : boolean array; EB, P : boolean array; cy0a, O : boolean; chillax end H : takes d : boolean; bb : integer array returns integer array do H(8 - 29100 < 9, 5 = 05, 1, 62); let z[96600] = array 20 end main : B0va, F, i : boolean; input ZX end

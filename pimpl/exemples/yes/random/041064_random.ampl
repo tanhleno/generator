@@ -1,0 +1,1 @@
+program w : S : takes z : boolean array; Y2 : integer array returns integer a6a0, Q : integer array; output "*x"; while 08600 - 7 = 3 : pop end; do vAA(9, 09); while 4 : chillax end end main : D, u, w4 : boolean array; input e[- false and true rem 6]; when case not K33 - false - 2 : input b0[1] end; while false : chillax end; input T[- 6 - 12] end

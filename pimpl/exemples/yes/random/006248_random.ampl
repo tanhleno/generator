@@ -1,0 +1,1 @@
+program y : x7 : takes l6, c5, C9, f57aa : boolean returns nothing o : integer array; I : boolean array; while false or 2 > - 4 - 4 : chillax end end main : do J(- B1(1590, 3) or true, true - true, (62) and 0 - 7950 - 0) end

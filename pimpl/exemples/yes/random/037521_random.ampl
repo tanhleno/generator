@@ -1,0 +1,1 @@
+program E : w : takes MP3 : boolean array; zl1, CG, G, E3, M, I : boolean array; N8 : boolean returns nothing when case 0 + 4 - 0 /= 7 - 6 : chillax end; let B = 16 = 8 end NCm : takes v : integer returns nothing Y4Wa : integer array; while - 21 - 5 : chillax end end main : input z; input m end

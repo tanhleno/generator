@@ -1,0 +1,1 @@
+program Z5 : t9 : takes R : integer array; O_0a : boolean array returns nothing while not 2 - 78100 - 5 /= - 24 - 51 : chillax end; input C; when case 8 : chillax end otherwise : pop end end main : K, A0 : boolean; F1 : boolean; W, l, yC, s, _36 : boolean array; J4, k5 : integer array; f, x, dL : integer array; chillax end

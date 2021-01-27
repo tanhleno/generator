@@ -1,0 +1,1 @@
+program z3 : e : takes o : boolean array; jt : boolean array; w : integer returns boolean array chillax end main : let M0Ga[- not false] = 91 and R and 8 + not 3 + 1 - 148 = - false and 5; pop 496 and 0 /= 9 - 6 end

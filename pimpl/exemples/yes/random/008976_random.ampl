@@ -1,0 +1,1 @@
+program H : y : takes Y9, H, ECda : boolean; x : boolean; d, s : integer; F : integer returns boolean array output 7 . "" end Q : takes d9, c3, JP, t1 : integer array; EB : boolean returns nothing LY : integer; chillax end main : output "6" . "P\"" end

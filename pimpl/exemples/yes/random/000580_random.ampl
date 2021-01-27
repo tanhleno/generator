@@ -1,0 +1,1 @@
+program b : fl7aa : takes V, Z_, n97, S, b, Z, Q : boolean; M5, t7 : integer array returns boolean chillax end a8h : takes z2, R, S, HO : boolean returns boolean chillax end Z6 : takes f, _ : boolean array; I, EU : integer returns boolean array pop 9 end main : l0, r, u, An : boolean; q1faa : integer; I8 : integer; do e6(- not true >= (76) and not 4 or 7 and 9 or 05 - 7) end

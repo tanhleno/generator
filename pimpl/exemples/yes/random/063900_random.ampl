@@ -1,0 +1,1 @@
+program w5 : R : takes Vn : integer returns nothing chillax end main : qG90, B07aa, Zs : boolean; a, aM, n2U0 : integer; when case not not 095 : chillax end case - true or 126 - 78 /= 93 : chillax end case - (22) and 2 or 6 >= 1 - 7 : chillax end case 0150 >= 5 : chillax end otherwise : output 98 . "5\n0" . "(+0"; input P; let nQ = 215 end end

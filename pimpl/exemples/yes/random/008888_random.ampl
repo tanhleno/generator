@@ -1,0 +1,1 @@
+program Nve : Q7V0a : takes y, Q5S, dU : boolean; O, W8 : integer array returns integer array EL, O : integer array; uo : boolean; f : boolean array; W : boolean; input IK3aa[- U7]; pop; output "" . 3 end Mr : takes pb, H7, s : integer array returns nothing chillax end main : D : boolean; do G8((0) / BK - LR * P and 9 or d920a - 1 - 05 >= 961 - false and 6 + 75) end

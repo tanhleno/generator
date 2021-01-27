@@ -1,0 +1,1 @@
+program V : K3wa : takes e, q, wU, io : integer array returns integer l7H, n, Q : integer array; chillax end d3 : takes z, O : integer array; E : integer; m1za : integer; ZZ : boolean array; ZO, fhk, Jsdaa : boolean array; W : boolean; J : boolean; D : boolean returns nothing output 2 = 0 . 0 end main : F : integer; chillax end

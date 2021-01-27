@@ -1,0 +1,1 @@
+program w6 : main : Q100a, k8 : integer array; M, M79 : integer array; output "" . true or 02 . "7"; when case false + F and 4 or 5 - 0 : chillax end; when case e - 4 < - 4 : input g[98]; do O(0) end otherwise : chillax end; when case - 72 - 428 : output "" end; while 994 = 8 : chillax end end

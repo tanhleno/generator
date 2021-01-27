@@ -1,0 +1,1 @@
+program s : s : takes b : integer array; hXv : boolean; mS5 : boolean returns integer array chillax end V9 : takes P : integer array returns nothing K, h, Y, g6 : integer array; while 2 - 5 >= 38 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program i : main : O81a, aR, h230, D, T : boolean; when case true >= not 8 and 7 + (1) and 6 or 4 - 87300 : do Z_o(- 96 < 63) end case true or true and 8 - 9 - 03000 <= - not 6770 and 6 - 04100 - 1 : while 56 : do r(94); pop end end otherwise : input F[8]; let f54aa = 0 end; pop; pop; pop end

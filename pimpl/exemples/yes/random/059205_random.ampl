@@ -1,0 +1,1 @@
+program z : Yq : takes J4 : integer array returns integer do PPta(- K and 9) end t : takes uv, J, n6, V, bJd0 : boolean array; gU : integer array returns boolean A : boolean; when case - 897 - 7 <= 2 : output "3\\"; output "K"; pop end otherwise : chillax end; when case 1110 = 3900 : chillax end otherwise : pop end; do db(7, 56) end main : chillax end

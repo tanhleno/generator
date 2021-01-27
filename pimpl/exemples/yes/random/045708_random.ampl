@@ -1,0 +1,1 @@
+program D : W3t : takes k : boolean returns boolean array p : integer; chillax end z0 : takes js4 : integer; t8x : boolean returns boolean k, Z : boolean array; b, J, j : boolean array; let n4G[4] = 6 end main : E : integer; lW6a, aa, sM6a, tz : integer array; y, C, k : integer array; krp : boolean; G : integer array; Q : boolean; chillax end

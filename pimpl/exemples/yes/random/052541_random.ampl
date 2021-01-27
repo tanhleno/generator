@@ -1,0 +1,1 @@
+program V : o6f : takes U0F : integer; k : integer; s : boolean returns integer F20 : integer array; Q9 : integer array; ja : boolean; chillax end main : DOcaa : boolean array; s, D650a, f, d : boolean; c4, P8 : boolean; S1maa : integer; chillax end

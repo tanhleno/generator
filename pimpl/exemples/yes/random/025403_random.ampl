@@ -1,0 +1,1 @@
+program zE : o6 : takes Jk, m : integer; r, g, D : integer returns nothing A, j, ma, fS, a8 : integer array; sk : boolean; h, g : integer; d : boolean; output "3" . "" end e3U0 : takes k, M : integer; G, d, M17, y : boolean returns integer chillax end main : let eZ = array - (5 = 8880) or(257) + false and 1 + 4200 - 5; let n = array - true and tP + (4) end

@@ -1,0 +1,1 @@
+program a : S1 : takes Yj, Po, z : integer array; bX : boolean; Ts : boolean array; B, ts : boolean returns boolean while - true + 3 : chillax end; while - 022 : when case 79 : chillax end; output "I" end; let SwA = array 2 end main : chillax end

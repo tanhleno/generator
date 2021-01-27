@@ -1,0 +1,1 @@
+program dw9 : b : takes FVL : boolean returns boolean array O : boolean; m85aa, M : boolean array; O, a, el : boolean array; fMp : boolean; Yi0 : boolean; chillax end main : do e(not false, true or 0 and 2 - 8 - 3 < false + 344, true or 9 - 31, - 4230 - 1, 2); let J[(4)] = array - not false * 3; do GZx(not 40900 - 5 - 6 < - 4500 - 609); pop 836; pop; input H2 end

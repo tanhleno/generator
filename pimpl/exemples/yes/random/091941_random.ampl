@@ -1,0 +1,1 @@
+program g0 : main : output - (100) rem(3) and 233 + g - 3860 - 875 <= I . "" . "D\\!" . 7 = 1 . ""; let GQ[- not true and 71600 or 4 and 5 - 62100] = - true - 48; output 0 <= 3 . ""; when case - 402 : while 02 : chillax end; pop; pop end otherwise : do HQ(9); pop end end

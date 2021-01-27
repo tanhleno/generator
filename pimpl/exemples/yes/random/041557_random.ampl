@@ -1,0 +1,1 @@
+program _M2 : L1 : takes eI10 : boolean array returns boolean array do Lfd(6 + 7 - 5 >= - 2 - 4) end main : f8Z0 : boolean array; w, J, Qm00a, n : boolean array; cu, r, C, p : integer; B1 : boolean; E : integer array; chillax end

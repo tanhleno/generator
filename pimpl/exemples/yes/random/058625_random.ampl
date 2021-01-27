@@ -1,0 +1,1 @@
+program W1 : Z9_0 : takes N : integer array returns integer array chillax end CbQa : takes W : boolean array returns nothing when case 3 : input FAQaa end; while 6 = 30 : chillax end end main : y : integer; C : boolean; Q0Pa : integer array; when case not 0 - (8) <= - 453 + 4 or 351 : chillax end; let K5 = - O and 4 + 4 - 470 > - 6460 end

@@ -1,0 +1,1 @@
+program IG6 : g : takes X8 : boolean array; C8, G : integer array; p, B3paa, _, OO, EP : integer; Aj, Pifa, i690a, U, yJ7 : boolean returns nothing when case(08) or 4 - 9 : let t = 0 end otherwise : chillax end; pop 2; input ke; pop 17000; let kE6 = 7 end main : k : integer array; Z, Z3h : boolean array; do V(- true and false rem J) end

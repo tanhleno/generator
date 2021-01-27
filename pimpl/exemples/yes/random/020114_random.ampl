@@ -1,0 +1,1 @@
+program W : x : takes Q, T : boolean array; D : boolean returns boolean chillax end U0 : takes h6D : boolean array; n, L, W : boolean returns boolean array do r(- 978 >= 434, 6 = 6, 9, 4) end s : takes C : boolean array returns nothing chillax end main : output "\t)"; do D2(- true or true - 7 - 215 > - false and 9 or 30000); output 36 - 7040 . "" end

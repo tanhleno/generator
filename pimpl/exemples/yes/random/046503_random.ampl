@@ -1,0 +1,1 @@
+program b : n4 : takes x79 : boolean returns integer array do x(- d - 6 - 24); output 3 = 5 . "T"; when case 52700 = 6 : when case 29 : chillax end end case 08 : pop end case 642 : chillax end otherwise : chillax end; let j3 = 86 end main : do L(- S[239] * not not 2 rem not 6 and 185 or not not 2 or X7); while - u /= - false or 72 - 58000 : chillax end end

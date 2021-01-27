@@ -1,0 +1,1 @@
+program j : N : takes EpE : integer; _ : integer; F020a : boolean; H : boolean returns integer Ub8, p : integer array; p4ca, lX : integer array; K5Za : boolean array; P, M : boolean; M : boolean; chillax end main : i : integer; while - 21 /= - (4) / 8560 : chillax end; pop; do F50aa(- false and 1, 2 = 39) end

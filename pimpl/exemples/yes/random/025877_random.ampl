@@ -1,0 +1,1 @@
+program Tm00a : w : takes g, b67 : integer; b, u0 : integer array returns nothing T, I7, Z, G : boolean; V, X, O, n86a : integer array; C, B, p : boolean; chillax end main : Tc5a : integer; afC : boolean; I : boolean array; chillax end

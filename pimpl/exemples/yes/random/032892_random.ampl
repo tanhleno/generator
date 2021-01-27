@@ -1,0 +1,1 @@
+program c : z4 : takes J4, i : integer returns nothing el : integer; y : integer array; VC4a : integer; chillax end cN : takes FFa0 : boolean array; c4 : boolean returns integer array e, K : integer array; chillax end main : _ : integer array; do J(- (7)) end

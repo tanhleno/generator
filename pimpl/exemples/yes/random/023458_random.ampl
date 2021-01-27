@@ -1,0 +1,1 @@
+program U : j : takes J, m : boolean returns integer array T, i62, lgF, REA0 : integer array; k76 : integer; w2, w4, iS : integer array; M : boolean; while - (37) - 4 : input y[72] end; do n4(- 85900 < 1, 79 = 559) end main : i_80 : integer array; k, s8F : integer; output "\t" end

@@ -1,0 +1,1 @@
+program C : i : takes Il10a : integer array returns integer p : integer array; chillax end Aw : takes F : integer array returns nothing Nm20a, u : integer; M, _, E8 : boolean; Y3q, L : boolean; chillax end CZJ : takes neG, I, w3Ga : integer returns nothing chillax end R : takes XL90a : boolean returns integer array d3Ha : boolean; k : boolean; chillax end main : chillax end

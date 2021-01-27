@@ -1,0 +1,1 @@
+program M : c : takes v, lbXa, f : boolean returns integer array b1 : boolean array; when case A and 0 : chillax end case - 9 - 5 : when case 5 : chillax end; let G = 1 end case 1 : chillax end; let a[2] = 62; when case 780 : input S end end main : H, Cy : boolean array; input a end

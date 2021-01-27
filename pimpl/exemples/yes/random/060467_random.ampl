@@ -1,0 +1,1 @@
+program t : g : takes T0X0 : integer array returns nothing kYL0, Y : boolean; Gw, l, C : boolean; chillax end main : pop D(00) and Z and 63 /= (22300) and 733; pop - 3 and 913 < 4 - 4; output "u@" . "" end

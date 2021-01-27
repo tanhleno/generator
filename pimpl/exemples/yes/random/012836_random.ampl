@@ -1,0 +1,1 @@
+program V : S : takes cE50a, Q, a98 : integer; f, H : boolean array; BD5, n, w6 : integer; Eu, l, r, t : integer array; w, T : boolean; CD, zE, _ : boolean array returns integer output - 9660 - 67 <= 8; while - 95500 - 9 < 0 : chillax end end main : let pT = - not false + (88400) and 54 - 7 /= (11600); input bg; pop 17 - 304 > 1; while - 3 - 1 : input i end end

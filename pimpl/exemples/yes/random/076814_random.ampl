@@ -1,0 +1,1 @@
+program TD7 : main : v3y0, A : integer; output true; while V(9) and true and 200 : when case 1020 = 41 : input Dt end case 2 : chillax end case 6590 : chillax end otherwise : chillax end end; when case(7) - 433 - 245 : chillax end otherwise : chillax end; pop; input Sk end

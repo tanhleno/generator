@@ -1,0 +1,1 @@
+program a : l5U0a : takes D : integer array; cT, c, J, K, z : boolean returns integer array F, p7B : boolean array; pop - 7 end B : takes t : boolean array returns nothing b, D : integer; pop 2 end q : takes gB : boolean array returns nothing chillax end main : chillax end

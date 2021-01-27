@@ -1,0 +1,1 @@
+program L1 : J5_ : takes XUn, vA : integer; _1, d410 : boolean array; pm, e6, S, C : boolean; z7Wa, A3m, M5 : integer array; r, EF30a : boolean array returns nothing let E = - 0 - 8 < 989; input TQ[- 40 - 307] end main : c : boolean; W, g9 : boolean array; chillax end

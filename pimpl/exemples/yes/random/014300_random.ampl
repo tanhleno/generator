@@ -1,0 +1,1 @@
+program s : R : takes C, d5, _96 : integer array; I : boolean array returns nothing C8, U, UF5, H : boolean array; hfD, f : integer; input lR50a; input w11; pop; do w(962) end main : while - (5) rem true and false or 9 / true = 31 rem 3 - true : when case - 334 : chillax end otherwise : let M = 7; pop end end end

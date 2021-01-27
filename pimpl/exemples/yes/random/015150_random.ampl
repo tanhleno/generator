@@ -1,0 +1,1 @@
+program Y : L : takes k42, la, oo : integer array returns nothing chillax end v : takes D, C1, C : boolean array returns boolean NO9, S8 : integer array; chillax end main : while - 0 / true or true * true and 7 >= not false and false : output "" . ""; do t3(2, 1); output "o0!a" . "b8" end end

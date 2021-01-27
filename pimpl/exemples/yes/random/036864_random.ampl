@@ -1,0 +1,1 @@
+program sIU : o : takes S : boolean; L : integer array; e : integer array returns boolean array chillax end main : do BP(- (33 = 8) + not t3e - YC > - false * not 5610 and 85400 + 86000 - 7580 - 34, - p6Q, - not 1) end

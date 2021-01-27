@@ -1,0 +1,1 @@
+program oz : d : takes v, q76, bD : integer; p, pi4, i9, b, fP9 : integer array returns boolean array when case 2 = - 45 : chillax end end D : takes Z3, L640, s : boolean array; Z, q : boolean returns integer array pop 7 = 94 end main : C, Qq, D : integer; WWX, ll : boolean; G : boolean; chillax end

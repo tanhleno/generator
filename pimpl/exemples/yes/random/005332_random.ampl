@@ -1,0 +1,1 @@
+program B990a : Aw : takes a, w, t090, m : boolean array returns boolean chillax end main : when case - O[6] rem true < (091) rem true - true and 0 : chillax end otherwise : chillax end; while not false / jr or(6) and 255 + 787 : chillax end; do w(- false + 0 - 1 /= 4 - 5) end

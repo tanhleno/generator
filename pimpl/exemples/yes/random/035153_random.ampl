@@ -1,0 +1,1 @@
+program X6g : r : takes y : boolean; DM, r54 : integer array returns nothing output 422 end g : takes GY, H : boolean array; C, w9 : integer returns nothing chillax end main : when case - true : chillax end end

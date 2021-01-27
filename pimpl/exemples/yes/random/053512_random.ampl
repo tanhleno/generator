@@ -1,0 +1,1 @@
+program iGR : H : takes i7Y : integer array; B390a, o7, Fn, W, WY : boolean; s6 : integer array returns nothing y6u, z : boolean array; r, E, K : integer; chillax end main : g : boolean; when case - not not(09) - true or true - 53600 = not 056 + (5) and 4790 - 682 - 6 : input q[- 684 - 0] end; input _; output 0 end

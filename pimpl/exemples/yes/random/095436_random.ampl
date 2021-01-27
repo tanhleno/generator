@@ -1,0 +1,1 @@
+program F : main : when case(36) rem(31) and false and 1 - false rem 46400 and 7 + not 5 /= false / true - not 45700 and 9 : output 7 = 4; let a = array 9 end case - (726) or not 6 and 1 : output ".6!a" end end

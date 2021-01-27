@@ -1,0 +1,1 @@
+program c31aa : _ : takes lz, y, I : integer; IS : boolean returns nothing g, ov30a, k, z, H : integer; Y : boolean; while - true + 66 = - 5 : do W(8) end end P : takes D7, E67, r0da, P : boolean returns nothing input a0; input w1[2] end main : _g8a, e2, p : integer; output "\"2\"" end

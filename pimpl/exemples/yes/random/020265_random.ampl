@@ -1,0 +1,1 @@
+program Jo : D : takes r, nIY : boolean array; O : integer; c, az : boolean returns boolean array i : boolean; chillax end main : when case true and W5P0[7] rem 12 : chillax end otherwise : chillax end; while - true * (7) + true and 7 + 8 - 4 : pop 0; input J[2] end end

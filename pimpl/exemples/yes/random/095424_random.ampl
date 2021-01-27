@@ -1,0 +1,1 @@
+program Xx9 : main : when case(38400) and 669 <= - not(843) : chillax end case - 479 rem true and 7750 or(8) and 52 or 41 > - (64) + 73 : chillax end case - 1 and 398 : chillax end case - 9 - 9 >= 4 : chillax end case 156 : chillax end case 7 : chillax end end

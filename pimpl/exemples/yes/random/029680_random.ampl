@@ -1,0 +1,1 @@
+program o54aa : Ab : takes C, j : integer array returns integer array chillax end G3 : takes YCI, xm, x1, b4y0a : boolean returns nothing c5 : boolean array; chillax end main : input cW[- true + 1840 / (2) and 59 or not 3 and 2]; when case 9 or not 1 and 40 : pop end end

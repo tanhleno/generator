@@ -1,0 +1,1 @@
+program j : B_ : takes bT : boolean array returns nothing output 5 - 33900; do W(- 7740, 35 = 4, 6410) end jX6a : takes j6W : boolean array; P5, N, aY : boolean array returns integer output "2#" . ""; output "v6\"" . 79 . ""; let z[46] = array 37 end main : output "\n$" . - dS and 3 . 38 . 4; input U; pop 87 - 9 < 4 end

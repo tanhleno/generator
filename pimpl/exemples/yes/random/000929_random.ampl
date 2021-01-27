@@ -1,0 +1,1 @@
+program c : o : takes Y1_, KEA, z0, _, Ly, x, Bk : integer array returns boolean array i2 : boolean array; C, O, Q, W : integer array; j2, WHC0, c : integer; O, b : boolean; Zp : boolean; chillax end main : w, h, Y, R, zXy, L : integer array; chillax end

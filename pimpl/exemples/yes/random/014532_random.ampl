@@ -1,0 +1,1 @@
+program G : o1Wa : takes j1daa, I, A : integer array; E : integer array returns integer K, uH : integer; P : integer; Cs3 : boolean; when case(167) - 4 = 91 - 7 : let a5[998] = 3 end end main : chillax end

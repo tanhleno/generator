@@ -1,0 +1,1 @@
+program M : main : when case - h(6, 3) - not 6 > - 0 / false and 22 + K and 5 or 9 : chillax end case - R[43] * not 39 - not 59 and 39 >= true and 16 : pop; do I44(86, 6); let G = 6; while 4 : chillax end; pop end case R and 613 > - 8 - 51900 : chillax end case 8 : chillax end otherwise : chillax end; pop end

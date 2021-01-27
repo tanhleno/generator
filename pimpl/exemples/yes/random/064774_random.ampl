@@ -1,0 +1,1 @@
+program tCh : G1R : takes qi : integer returns nothing y7 : boolean array; chillax end pSq : takes C1o : integer array; ZS : boolean returns nothing c0 : integer; o63 : integer; u : boolean; chillax end main : bR20 : integer array; h : integer; chillax end

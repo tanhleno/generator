@@ -1,0 +1,1 @@
+program Zbc : IRX0 : takes w : integer array returns nothing o8x, Oj3a, B7v, v, Ez : integer; m9 : integer array; g, C, ry : boolean; v, R2 : boolean; E : boolean; pop - 2 > 4 end main : input M; do hS3a((5) and 114 and 2 or false and 545 >= - false or 50 - 00000) end

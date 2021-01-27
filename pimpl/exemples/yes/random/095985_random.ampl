@@ -1,0 +1,1 @@
+program v : main : when case - Zx(8, 0) and(2) - true : chillax end case - false / uk and 5 - (853) : chillax end otherwise : output "" . 7 . ""; do n98a(773, 7); do P(3); while 4 : chillax end; pop end; when case true > - 280 and 74 : chillax end otherwise : when case 3 : pop end end end

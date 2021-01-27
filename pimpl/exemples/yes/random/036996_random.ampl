@@ -1,0 +1,1 @@
+program z : I : takes e : boolean; xj : integer array returns integer array let j4[not 33800 and 36 or 3] = array - (1) + 9; pop 33900; pop 2; let Z = array 2 end g : takes ml, w : boolean returns nothing y, _Kb : integer; chillax end main : chillax end

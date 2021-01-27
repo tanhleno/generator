@@ -1,0 +1,1 @@
+program m2 : yi : takes v, s, P2j, o, e : boolean; P0 : boolean array; h : boolean array returns integer array A, U : boolean; yu : integer array; p : boolean array; xR, X : boolean; V : boolean; chillax end main : chillax end

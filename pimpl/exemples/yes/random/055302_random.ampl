@@ -1,0 +1,1 @@
+program k9 : y : takes E : integer array; i, c : integer returns boolean array T99 : boolean array; chillax end main : f8, B0 : integer; B : integer; output ""; do F(G7[2] rem(18100) and 0); pop; output 06 end

@@ -1,0 +1,1 @@
+program p5O0a : b : takes r9 : boolean array; OOb0a, a, fm, zXeaa : boolean; l : boolean; gJo0a, q : integer array returns boolean u35aa, G : integer; input cG[- r96 + 453 - 6]; let yI = 64 = 509 end main : do i(N9 - not true * (5) and 4); do J(- true and false and 6 - true) end

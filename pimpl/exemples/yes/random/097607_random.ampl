@@ -1,0 +1,1 @@
+program wdNa : main : when case true /= 0 or 2 and 4 - 9 - 3 : when case 4 : while 74 : chillax end end otherwise : output "K" end end; while - 6280 < - H5 and 3 : chillax end; when case(60) - 4 : output "8" . "=3!a" end otherwise : chillax end; let I[6 - 71] = array - 6 - 09; output "" end

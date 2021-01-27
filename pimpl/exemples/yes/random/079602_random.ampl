@@ -1,0 +1,1 @@
+program rqxa : main : q : boolean; E : integer; mC : integer; while false or true : while - 20 = 1 : chillax end end; when case - 14 or not 5 or 5 - 37 < - (15500) : do b(00400 = 9, 0170); pop 469 end otherwise : chillax end; input l81 end

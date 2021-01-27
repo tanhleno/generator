@@ -1,0 +1,1 @@
+program E : Q6H : takes q : boolean array returns boolean array input _ end Q : takes D : boolean array returns boolean array while 3 >= 7 : chillax end; input m8 end main : V : integer; m1, tW, b : integer; dB9aa : integer; chillax end

@@ -1,0 +1,1 @@
+program X : p : takes _, F, I, b : integer array returns integer chillax end _2M : takes b, I : integer; H1, bh : boolean array; Jg1aa, V : boolean; tZ : boolean returns nothing while - 659 <= 5 : when case 429 : chillax end; when case 7 : chillax end end end main : chillax end

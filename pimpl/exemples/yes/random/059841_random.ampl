@@ -1,0 +1,1 @@
+program w98 : v : takes Ls3 : integer array returns nothing chillax end g8 : takes t : integer; N : boolean array; Y, c78aa, u, K, Dz0 : integer; XU : boolean array returns nothing chillax end main : Al, C : integer; do c(false - 4 and 4 - false and 4410) end

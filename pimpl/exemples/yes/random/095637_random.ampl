@@ -1,0 +1,1 @@
+program H : main : when case - (85) rem true / false and 19 - t[4] and true and 8 : let V2 = 4 = 89 end otherwise : while 72 : chillax end; when case 05400 : pop end otherwise : chillax end end; pop; pop 73 - 0120 end

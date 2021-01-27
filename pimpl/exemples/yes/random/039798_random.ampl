@@ -1,0 +1,1 @@
+program J190a : J7 : takes X : boolean array; I : boolean array; Y, OU : boolean array; N : integer; S870a : integer returns nothing G : boolean; Y54aa, Sx9, U, u16 : integer array; chillax end YR70 : takes Vr : boolean array; _b, y3 : boolean; qB30, Mw1, gX : integer array returns nothing chillax end main : K : integer array; kU0a : integer; pop end

@@ -1,0 +1,1 @@
+program y0m : f : takes V : integer array; w5na : integer returns integer J, TPy : boolean array; chillax end K : takes r : integer array returns nothing do r(- 41 - 0 > 5640, 6 = 7); let ZUy[8] = array 0 end b : takes r7 : boolean array returns nothing chillax end main : input C end

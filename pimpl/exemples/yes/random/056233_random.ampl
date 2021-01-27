@@ -1,0 +1,1 @@
+program s : C4p0a : takes R : integer array; P9 : boolean array returns nothing while 50 = - 5 : when case 53600 : pop end case 48800 : chillax end otherwise : chillax end; let z = 5750; input M8 end; input Pva0a[518]; output 3 end main : chillax end

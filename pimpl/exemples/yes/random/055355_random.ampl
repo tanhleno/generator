@@ -1,0 +1,1 @@
+program eOp : i8 : takes Q : integer array; Z, Wo30 : integer returns integer chillax end b : takes R6l, p, _8, R2 : integer; z, H7, P80 : integer returns nothing H4, r : boolean; input C[8]; let B[7] = array 286 end main : chillax end

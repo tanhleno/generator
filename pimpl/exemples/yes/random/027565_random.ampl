@@ -1,0 +1,1 @@
+program F7Fa : F : takes H, E : integer array; YsG, J : boolean; iF, L, L, UB, qp9a, iaAa : boolean array returns integer array let P = array - (97) and 82; pop 85 = 7 end main : c2 : boolean; chillax end

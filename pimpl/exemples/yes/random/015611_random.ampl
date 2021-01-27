@@ -1,0 +1,1 @@
+program Y9 : k : takes MP3, s, jt1 : integer array returns nothing when case false : pop; do t9u(3) end otherwise : output "" end end main : Xn : integer array; c : integer array; au4aa, V, o, Y : integer; do DWiaa(- Y5[1] - not false and(2) or true + 4 - 3) end

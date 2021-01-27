@@ -1,0 +1,1 @@
+program S : y0 : takes uK40, Zbv, G, DO, Z : boolean array; jfA0a, M : boolean returns nothing k1K : integer array; _o : boolean array; c : integer array; p, O94 : boolean; input Mu0a; do DP(- 83) end main : Zfs0a : boolean array; bJl0a, O, D : integer array; chillax end

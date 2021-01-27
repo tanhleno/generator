@@ -1,0 +1,1 @@
+program o : C : takes m, Y : integer array; K90a, j, W : integer; id0 : integer array; Z : boolean array; R9, G : integer array returns boolean array c_1 : integer array; input O1[16700 or 40 - 2] end PEX0a : takes f : integer returns nothing I6, C1 : integer; N : boolean array; chillax end main : ee, j01, b : boolean; pwO0a, Eeq : boolean array; output "" end

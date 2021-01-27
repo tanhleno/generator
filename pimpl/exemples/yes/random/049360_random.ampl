@@ -1,0 +1,1 @@
+program c : P : takes t8 : integer; W6Z, yy, x6, r, Q4, y : integer returns nothing kltaa : integer; chillax end s : takes R, o7Na, c, Vjb, W0 : integer returns boolean array P210 : boolean array; chillax end main : l1 : boolean array; _ : integer array; chillax end

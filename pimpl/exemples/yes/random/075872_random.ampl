@@ -1,0 +1,1 @@
+program h : main : h3, K : integer; A, W, t, mE, ydR, n2E0 : integer array; kn : boolean; f07 : boolean array; Xi : boolean; let c5u[true and not not 388 * p - 1 and false or not 19300 + 44 - 21] = (68) and(8) and 3 = - not 60 and 3; do G((978) rem R - false); when case - true - 7 : chillax end; pop 02 end

@@ -1,0 +1,1 @@
+program yZW : G : takes m : boolean returns nothing Q270 : boolean array; X : integer array; z, p : integer; bd9, A : boolean; chillax end main : input w[false + 7030 * not 2 + not 9 and 996]; when case 4 rem 16300 and 6 >= - 19 and 77 + 249 : chillax end case - 0 /= - 2 - 855 : chillax end case 1 - 9840 >= 8 : chillax end end

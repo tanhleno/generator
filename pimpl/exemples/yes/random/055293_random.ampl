@@ -1,0 +1,1 @@
+program Tw : rH : takes U : integer array; ES, i : integer array returns nothing when case not 43 and 7 + 8 = 6 : chillax end otherwise : chillax end; input X end main : pop - (5); input e3[t6l(62) / (8) and 57 - false and 17 + 67 - 314] end

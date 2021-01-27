@@ -1,0 +1,1 @@
+program BR : A : takes Rs : integer returns nothing output 9 - 3 < 32; pop; when case 058 = 9 : while 8 : chillax end end otherwise : chillax end end x : takes B : boolean returns nothing chillax end main : J : boolean; _ : boolean; hM : integer array; b, _Z : boolean array; R : integer array; chillax end

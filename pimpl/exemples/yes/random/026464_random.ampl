@@ -1,0 +1,1 @@
+program zpw : lI : takes s, W : integer; Qm : boolean returns nothing while - true and 0 <= 5 - 2 : chillax end end main : input aOa[- (289) and e[903] + 7]; pop; while(4) or 01400 = 6 : let S5 = array 3 end; let F = array 18600 - 097 end

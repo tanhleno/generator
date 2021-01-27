@@ -1,0 +1,1 @@
+program bo : main : H, U, Yn80 : boolean array; u : boolean; input V; pop false or 9280 - 9; input P[(09300) or 09 - 5]; when case 95 : chillax end case 9 : output "O" end otherwise : pop; pop end end

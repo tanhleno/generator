@@ -1,0 +1,1 @@
+program k : W4H : takes V : boolean; m, G4v, s : integer array returns boolean NZ : integer array; N, a : boolean array; Y : boolean; when case q and 298 : chillax end otherwise : let w = 191; while 9 : chillax end; pop end end main : C860a, t7 : boolean array; chillax end

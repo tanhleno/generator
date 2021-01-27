@@ -1,0 +1,1 @@
+program j : P2D : takes o : integer array returns integer chillax end main : hO7 : integer array; while true >= false + F and 89 : pop end; while false /= - (01) + 15 - 68 : output "" end; let Lz[- not 27 and 89900] = - 2; pop; do i(2) end

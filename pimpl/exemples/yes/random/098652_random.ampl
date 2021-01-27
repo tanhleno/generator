@@ -1,0 +1,1 @@
+program IZ : main : while - not true + (1) * not 3 + true - 65 - 49 >= (2) rem not 0 : while - 9 : output ""; pop; pop end end; let z[- not y rem true and 22] = array false; when case not 4 : input P730 end case - 5 : output "Y"; input dz0; pop end end

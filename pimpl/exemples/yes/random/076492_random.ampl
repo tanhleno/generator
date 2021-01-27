@@ -1,0 +1,1 @@
+program A : main : e9, y : integer; Djp : integer; when case 1540 and true = true : pop; output 7; pop; while 0 : chillax end; pop; pop end case true rem(2) and 47700 : chillax end; while - true * HU > - true : do a(220) end end

@@ -1,0 +1,1 @@
+program Z : nL : takes Hpr0a, r : integer array returns integer chillax end K : takes Q1 : boolean array; tg : integer array; I : boolean array returns nothing F, J7 : integer array; N4f, Ut0 : integer; chillax end main : S2r0 : integer; output(00) / false and 27 - not 693 . - true . 09 - 10800 . 6 end

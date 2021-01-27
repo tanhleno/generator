@@ -1,0 +1,1 @@
+program S : b : takes If90, R4aaa : boolean returns integer s9 : integer; output - 4 . "" . 81 . "9" . "9k0a"; output 4 = 1; pop 6460 end main : when case - false : let D = 6 = 0; when case 8 = 3 : chillax end otherwise : chillax end end end

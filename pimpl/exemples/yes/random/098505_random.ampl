@@ -1,0 +1,1 @@
+program q : main : while - not(283) >= - c[7] : while 4 : chillax end; while 03 = 5 : while 20 : chillax end; pop end end; while(806) / true + false and 8 : output ","; output "" . ""; pop end; do n1(710 + 1800, 6 - 44200); output 4; let I5na[75] = 80 end

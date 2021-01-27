@@ -1,0 +1,1 @@
+program Ah : main : input S[- (36500) + J(7) * not 04500 - not 86800 and 9 + 4 - 5]; when case 38 and not 19 + false and 4 or 24 - 720 > uc : chillax end case not 6 - 59 - 11600 <= - 86400 : chillax end case - 1 - 00 : chillax end case 714 = 82000 : chillax end case 52 : chillax end; let O = 3 end

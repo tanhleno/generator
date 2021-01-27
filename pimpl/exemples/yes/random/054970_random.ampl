@@ -1,0 +1,1 @@
+program o : i : takes I : integer array; b, X4 : integer; yJ, g : integer returns nothing Df : boolean; G, A6Y : integer; chillax end zk90a : takes x, R7, akH, X, E8, y, K : integer; eD8a, p, z : boolean array returns integer J : boolean array; z : boolean; let Y = 4 = 1 end main : p4u, dt, z : integer; chillax end

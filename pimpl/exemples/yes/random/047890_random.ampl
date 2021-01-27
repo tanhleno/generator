@@ -1,0 +1,1 @@
+program u6P : z4 : takes mFKa : boolean returns nothing l, y8f, _f, G4A, K : integer; JJsa, nl : boolean array; Vd : integer; when case 8 and 8 + 3 - 5 : when case 7 : chillax end end; do f9(51 - 5 >= 4210, 9, 952, 8) end main : when case - FR3[7] / (59) : do JZ0a(8); when case 9 = 3 : pop end otherwise : pop end end; pop end

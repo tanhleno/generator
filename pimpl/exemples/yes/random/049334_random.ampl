@@ -1,0 +1,1 @@
+program Ud : O : takes V : integer; Ema, G, o1R, K, xt, F71aa : integer; R : integer; C7ya, H, E, V, N : boolean array returns boolean array ly4 : integer array; F : boolean; input A; pop end main : Cei : integer array; S : integer array; chillax end

@@ -1,0 +1,1 @@
+program wr : Kr : takes E8i0a : integer array returns integer array chillax end S : takes q, XB : integer; G : integer array; l : integer returns integer while 7 /= 73900 : output ""; input e79; pop end; do i(515 = 6, 8) end main : while - true * true * not 1 and 17100 or true /= - false * Ng and 08 - Iz and 24 : pop 580; let F480a = 2180 end; pop end

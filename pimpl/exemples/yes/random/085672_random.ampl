@@ -1,0 +1,1 @@
+program m : main : Sqyaa : integer array; D, l, Z, l : boolean; when case - (71 = 070) - (5) / 2 >= - false : pop 29 = 41 end case 9 / true and 6 or false - 8 : chillax end; pop; let b34[- 9 - 1 - 88] = 00 - 65; do Pr8(- 9 < 0070, 9910) end

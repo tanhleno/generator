@@ -1,0 +1,1 @@
+program l740a : PX : takes Y3, b, qu : integer array returns nothing chillax end main : Sv90, Bn : boolean; output - true or not 7 and 48700 < - N or 6 . "|"; let _02a = - false and 913 < 61 - 36600; let V[(2) or 0 - 292] = array - c or 5; when case 562 - 24 : chillax end otherwise : let Midaa = 3 end; while 1 : input w end; do xj5(714); pop; output "4\"a"; pop end

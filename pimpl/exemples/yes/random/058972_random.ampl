@@ -1,0 +1,1 @@
+program eM : aW2 : takes Yq : integer array returns integer array input R[- true or 8 - 6]; when case 1 - 7 : chillax end case 4 = 90 : pop end otherwise : chillax end end main : p, i960 : integer; output - 93 and W and 7 . - m and 0 end

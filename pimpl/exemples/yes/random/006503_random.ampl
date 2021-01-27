@@ -1,0 +1,1 @@
+program V : cd : takes V4U, Ds, G, WS : integer; y9Ma, I2ta : integer array; i4 : integer returns integer array let U78a = - 1 end main : let r = - G(27) and wL60 and 8 <= (2) and 04; input X[- j[57] rem false and 23300 or false and 6]; input H[false and 00 or 080 - 6990] end

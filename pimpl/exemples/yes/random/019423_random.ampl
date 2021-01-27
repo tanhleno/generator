@@ -1,0 +1,1 @@
+program H0 : Y4 : takes sk, Z68 : boolean array; H, w8q : integer; J : boolean returns nothing I, K : integer array; N : boolean array; when case not 5 and 52300 or 595 : do K05(17, 19); when case 96 : chillax end end; output 09 = 76; pop end main : pop end

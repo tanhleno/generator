@@ -1,0 +1,1 @@
+program A : k : takes tHu : boolean; o4, D95a : boolean returns nothing chillax end S260 : takes b4c0 : boolean array; W, D_, Vj, A, y, D : boolean; f9t0a : integer array returns boolean output 5 = 06 end main : chillax end

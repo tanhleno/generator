@@ -1,0 +1,1 @@
+program p : v : takes kkgaa, C : boolean array; W : boolean array returns nothing u, y1 : boolean; chillax end M_ : takes _39, x, U : boolean array returns nothing O : integer array; output "" . 8 . "45" . "!"; while 94 = 93 : chillax end end main : let p[(6)] = array - 3 or not 13 / true and 3 - 5 and 366 end

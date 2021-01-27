@@ -1,0 +1,1 @@
+program p : h : takes V : boolean returns nothing chillax end main : let r2[(57 = 920) rem true + false and(45000)] = array not true / false rem false; output not 9 - 1 - 246; output "#"; input n; output ""; input p[806] end

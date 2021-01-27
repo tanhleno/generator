@@ -1,0 +1,1 @@
+program I : l : takes G, wRSaa, NEK : integer returns boolean array CJw0a : boolean; pop 9 >= 8; while - 4 - 1 : output ""; output "65"; pop end; pop; let u[98700] = array 7; let gw = 0610 end h : takes k, uK : boolean returns nothing when case 5 - 7 : chillax end otherwise : chillax end end main : chillax end

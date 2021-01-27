@@ -1,0 +1,1 @@
+program j1 : main : P, A, G : integer; while - bt(8) : chillax end; output "" . "4" . 667 = 71; output 84 - 7 . "" . 5090 . 64; while - 90 - 0 : output ")k\"" end; output "^*!a" . 35 . "0"; when case 37 : pop end otherwise : chillax end end

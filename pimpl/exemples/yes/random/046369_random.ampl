@@ -1,0 +1,1 @@
+program L : GT9 : takes k2 : boolean returns boolean pop 84 = 62; while - 1 - 5060 = 7 : do m(60); when case 8 : chillax end; pop end; input m[8]; let Dwn[7] = 8 end main : K : integer; UJ9aa : boolean array; pop; let m = m and 8 - 354 - 407; pop end

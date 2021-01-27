@@ -1,0 +1,1 @@
+program i : main : F, K : integer; when case(27) - KB[8] / 44 - (1) + 766 - 1320 : chillax end case not true + (3) - 5 : pop; input s[4] end case lFF0 or 850 : chillax end otherwise : chillax end end

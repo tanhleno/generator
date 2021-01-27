@@ -1,0 +1,1 @@
+program D67 : jD9 : takes B, Ws : boolean; vo : integer returns integer array s, l3y, d1, I43, pp : boolean array; when case - Z and 0 >= - 0670 : output 9 . ""; while 5 : chillax end; when case 9 : chillax end; pop end case 6630 : chillax end end main : pop end

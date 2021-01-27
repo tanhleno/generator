@@ -1,0 +1,1 @@
+program F4m : main : RXB, vcW, o : integer; P, K5o : integer array; c : integer array; let ga[- Cv(0) and false and true or not true or 19] = true and k; do m2caa(- false = true and 90 - 4); input v end

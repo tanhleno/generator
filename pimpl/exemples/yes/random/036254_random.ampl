@@ -1,0 +1,1 @@
+program t_ : r8 : takes g6 : boolean; j : boolean returns nothing chillax end K : takes J38, G86 : boolean; D2h : integer array; U88, x09, A, N : boolean returns integer while - 5 < 3 : chillax end; when case 12700 : do e(14); pop end; let T[4] = 1; pop end main : chillax end

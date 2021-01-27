@@ -1,0 +1,1 @@
+program q3 : J : takes pvo, U4, l1naa, h, o4Q0 : boolean array; jU, K52a : integer array; iRc0a : boolean; z9 : boolean array; g : boolean array returns nothing do W(bDU or 3 <= 143); input Q[- 422 - 9890] end a : takes P67, z, k5, K, IDA : integer returns nothing mA, wh, l, P : integer; c : integer; let r = array 8 - 4 end main : chillax end

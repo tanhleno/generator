@@ -1,0 +1,1 @@
+program L41 : g : takes O, b8, zH, k : integer array; M, F3 : boolean array; W : boolean array returns nothing _6 : boolean array; Y : integer; qO50a : integer; output - 3 - 12600 end main : do BI(false, (17)); output YY50 and 6 - 3 . 1 - 4 end

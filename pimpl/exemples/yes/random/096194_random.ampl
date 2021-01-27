@@ -1,0 +1,1 @@
+program H : main : when case - not false and false rem not 9470 and 5 or true and true > true rem not 5 + (95) or 4 - 27 : chillax end otherwise : do a(0 = 93) end; let V[- false - not 5 and 53] = array not 7 or PVC0a and 932 end

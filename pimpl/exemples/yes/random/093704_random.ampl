@@ -1,0 +1,1 @@
+program MyKa : main : pop(4) / (74) and 93 = - 2720 + 29; when case(1) - false and 21 + 7 = - not 313 and 13 + 27 - 7 : chillax end case - false >= 10 - 7 : while 1100 : chillax end; when case 633 : chillax end end otherwise : when case 81800 : chillax end case 954 : chillax end otherwise : chillax end end end

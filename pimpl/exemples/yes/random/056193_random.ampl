@@ -1,0 +1,1 @@
+program C : y9 : takes u : integer array; k : boolean array returns nothing G8p : integer array; A0, d : boolean array; when case not 66 : let ri = array 25 end end main : D, t, py : integer; chillax end

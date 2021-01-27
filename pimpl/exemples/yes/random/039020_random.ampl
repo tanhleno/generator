@@ -1,0 +1,1 @@
+program V : c3y : takes Q : boolean array; N, l : integer; s, Q3 : integer; k : integer; OZE : integer array returns nothing L7 : boolean array; chillax end N : takes D : boolean; D8X : integer; ItA : integer; d, O620, n2, P : boolean array; s : boolean array; M : boolean returns boolean while - 446 - 26 < 1 : when case 62 : chillax end end end main : chillax end

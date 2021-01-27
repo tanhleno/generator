@@ -1,0 +1,1 @@
+program G : U : takes cC : integer array returns nothing output "7" . "" end r7 : takes g9, Eye, F : boolean array returns boolean array lg : boolean; w : integer; while 5 : let Vn = 4; input d end; do i(43 = 3, 01, 9) end main : eSt0a : integer; QL : boolean; chillax end

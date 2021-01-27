@@ -1,0 +1,1 @@
+program l : main : or2, E0 : integer array; when case(6 = 12) * true = (97) and 1 : let P0 = 8 = 142; let E[6] = array 16; let O[9] = 23; input Q end otherwise : chillax end; let Ey90[(4050) - 7 + 1 - 4] = not 43 and 79 > 8; input Eo[- h + 49400 - 8]; while 134 - 73 = 66 : pop; output "A6"; pop end; while 64 : chillax end end

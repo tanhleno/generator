@@ -1,0 +1,1 @@
+program Rj : I : takes GK6aa : integer array returns nothing chillax end main : when case - 294 < - m4[1] / false + 07 and 4 or 90 : chillax end; while - (1) * 7 and 4 > - 3 and 670 - 8670 : while 54 = 0 : chillax end; input FS[2]; output "" end end

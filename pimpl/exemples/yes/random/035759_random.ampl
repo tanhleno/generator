@@ -1,0 +1,1 @@
+program w : s87a : takes I0 : boolean; g42 : boolean array; JS5 : boolean returns nothing i, k : integer array; chillax end E : takes k, E : boolean; F3, _9 : integer returns nothing E : boolean; when case 6050 > 2 : chillax end case 2 = 2 : chillax end end main : chillax end

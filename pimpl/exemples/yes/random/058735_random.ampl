@@ -1,0 +1,1 @@
+program ce : s9Ca : takes R : integer array returns integer array r6, B, _220, b2g : boolean array; m : boolean array; input U1[- 8 or 9 - 8]; input G[8]; while 78 : chillax end; output 5 end main : x : integer array; b : integer; do L(- yHNa(8) or not(7) /= - 59 * (133) and 0870 + (9) and 0, - (75) and v and 6 + 5, - (343) + 9 < 9) end

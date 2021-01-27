@@ -1,0 +1,1 @@
+program HTu0a : main : h9, Y5E, Z, V, jICaa, C : boolean array; Y6, Fo3a : boolean; when case true / not G rem false : let K9la = array - 1; pop; let e[02300] = array 8; output "Z}" end; while false - _3 > - 7 : chillax end; while MC3 and 2 : chillax end end

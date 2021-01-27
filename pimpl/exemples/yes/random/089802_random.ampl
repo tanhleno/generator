@@ -1,0 +1,1 @@
+program n : main : let D = array - (2) and n(835) and true; while false and true and 0 or(6) and 2 >= false or 59 - 3 : when case 7 : do ut80a(2) end case 2 : chillax end otherwise : pop end; when case 3190 : chillax end case 41 : chillax end otherwise : chillax end; pop; let wz2 = 2; pop end end

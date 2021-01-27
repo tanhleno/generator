@@ -1,0 +1,1 @@
+program a8D : M : takes qf2 : integer; D, Kj : integer array returns integer input gq; pop; while 1 : chillax end end main : when case true - 06 / not 7 - i1 <= - (4) : chillax end otherwise : pop 3; let NFu = 39600 end end

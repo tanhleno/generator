@@ -1,0 +1,1 @@
+program F : YC4a : takes Y, y8, q, H9 : boolean array; i, F : boolean array; uIYa : integer; Z : boolean returns nothing output 7 . 9; pop; pop; pop end Io : takes D0, K7, M : integer array returns nothing Q : integer array; chillax end main : chillax end

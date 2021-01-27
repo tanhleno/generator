@@ -1,0 +1,1 @@
+program Y : r : takes E3, T3R0a : integer array returns nothing c : boolean; chillax end u : takes z : boolean; ho, G, W_4a, ew : boolean returns nothing v : integer array; let _ = array 4; input m[965]; do s6O(0, 44); output ""; pop; pop end l2 : takes E, O : boolean; Q : integer array returns nothing d, G1 : integer; A : boolean; chillax end main : chillax end

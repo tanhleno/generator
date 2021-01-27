@@ -1,0 +1,1 @@
+program e : O : takes z, N41a : integer array returns nothing chillax end main : Y7P : boolean array; U4 : boolean array; U, F08, Y040a, U, dc : integer; D : boolean; let j0[true + 58 / 8] = - (6) / (2) and 7 - k or 8310 end

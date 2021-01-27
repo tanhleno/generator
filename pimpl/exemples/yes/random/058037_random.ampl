@@ -1,0 +1,1 @@
+program Kw20a : wb8a : takes J1 : integer array returns boolean chillax end Xk6a : takes Q, eP, _ : boolean; I, Qu0 : boolean array returns boolean nCj, K, u5Laa : boolean array; let l[- 5 - 2] = array - 4; while 27 = 8 : input F76 end; while 3 : pop end end main : P : boolean; B : boolean; pop end

@@ -1,0 +1,1 @@
+program VX : td5a : takes r, VT : integer array; s, Z, HW, a : boolean array; l, Hh, O, U : integer returns nothing t, dk5aa : integer; J : integer array; chillax end main : UI : integer; when case true or true and e and 2 : chillax end case - W(6) * false = - false and 1 or 75 : while 035 : chillax end; input u[8] end; do T(false or Z + 68100, - (2) and 5 - 133) end

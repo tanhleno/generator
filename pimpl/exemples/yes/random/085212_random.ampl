@@ -1,0 +1,1 @@
+program L : main : z : integer; when case not(943) / false rem true and 659 < S0(04) or not 0 + 1 : when case 66300 : chillax end; do iV1(28); when case 29 : pop end; when case 14 : chillax end; do m(63) end case - not not 11 / false <= false and 26 or 1 - 10 : output "12a" . 6 end otherwise : do I(40200, 43, 43); do y(49, 6) end end

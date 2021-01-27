@@ -1,0 +1,1 @@
+program A : z : takes k50aa, Z : boolean; F, rn, Y, N : integer array returns nothing e180, L6 : integer; while - 84 /= 7 : while 3 : pop end; let x = 95 end; input V[67 - 5] end U : takes r37 : boolean array; G, UT, A, xc0 : boolean; f, W, G, w : boolean array returns integer chillax end main : chillax end

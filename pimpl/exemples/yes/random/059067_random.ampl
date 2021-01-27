@@ -1,0 +1,1 @@
+program ih80a : U0 : takes i : integer array returns integer array while 66 : chillax end end v : takes N, B : boolean array returns integer chillax end main : Nuo, p6 : integer array; input _[- false rem not n / 3] end

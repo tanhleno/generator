@@ -1,0 +1,1 @@
+program Y : WB : takes r : boolean; h, h, vX, P : boolean array; _6X : integer; W, l : integer returns boolean while true and 1130 > 0620 : chillax end; while 75 /= 16200 : chillax end; do b(027 = 6) end main : G220a : integer; k, LS, U, u8, vGda : integer array; j29, K3 : boolean array; b, aD, RX, m1 : integer; chillax end

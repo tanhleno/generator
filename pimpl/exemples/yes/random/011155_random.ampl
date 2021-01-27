@@ -1,0 +1,1 @@
+program c3 : I : takes O3W, l, kf : boolean array returns nothing w, H2, ff4a, j9Gaa, t : integer; output "+"; do zC4(- 59 >= 3) end main : do Z3(false - not true and true, - 083 and true and 3 >= - false and 94 - 585 - 346) end

@@ -1,0 +1,1 @@
+program l : H1p : takes D, p700a, m, RC, f840a, c : integer array; z, Sj, p : integer returns nothing output ""; input Z end main : let znpaa = array true; when case - U * not 01 and 094 : chillax end case not 7 and 6 /= - 39 - 090 : chillax end case - 8 - 4 : when case 39 : chillax end end end

@@ -1,0 +1,1 @@
+program C : Qn : takes u, K : boolean returns integer array B610 : boolean; ZM7aa, m : integer array; chillax end O9r0a : takes iYy, o : integer array returns integer chillax end main : do E(- 30 / not Vj * c and 7 <= - 11300 - not 2 - 25 - 796); output "" . - 3 end

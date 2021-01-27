@@ -1,0 +1,1 @@
+program T : main : input F; let v[- not true] = not 9 = 42800; do a(false > 255 - 6); do j(7 - 17800 <= 9); when case 083 : when case 73 : chillax end end case 57 : pop end otherwise : chillax end; let S[13] = array 29 end

@@ -1,0 +1,1 @@
+program K : U7 : takes U : boolean array returns boolean array k, OL, v, N, q06 : boolean; while true and 57100 + 93700 : let I = array 53 end end V : takes l08a, uS, m, X : integer array returns nothing f, nu : boolean array; A : integer array; chillax end main : t, Y, DZI0, v, M, IG2a, SS3 : integer array; chillax end

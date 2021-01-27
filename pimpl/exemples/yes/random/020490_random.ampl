@@ -1,0 +1,1 @@
+program kv20 : C8 : takes o, P : boolean array; w5 : integer array; P : integer; Z : integer; N : integer returns nothing chillax end main : output "" . "$" . 6 - 932 . 2 = 29; pop; while false and 472 : output "" . "2" end; let a = 4; while 0410 = 3 : chillax end end

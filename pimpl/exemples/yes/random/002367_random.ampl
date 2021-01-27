@@ -1,0 +1,1 @@
+program Q94a : O : takes fPS0, WU, k, FN, Q : boolean array; h, G, dv, k, J7 : boolean array; v0C0a, R : boolean array; RGfaa, Ie6, Y : integer array; C : boolean array; qn7 : boolean array; i, mL : boolean returns boolean array PF1a, O : integer; g0 : integer; chillax end main : L040a : integer array; chillax end

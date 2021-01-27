@@ -1,0 +1,1 @@
+program q5i0 : f : takes w, Hp90a : boolean returns boolean i31, x, h8z0a : boolean; chillax end main : BP : integer; _8_ : boolean array; while 85 = - false : chillax end; output ""; let V8M0a[false - 03 - 4] = 8900 - 9 = 701 end

@@ -1,0 +1,1 @@
+program g9 : main : let NH = (7) rem not 51 or true and 0 or 023 - 5; while not not 0 > not 189 - 33 - 5070 : let M = 6; let _38aa = 11; output ">\\" end; do ob5(4 and 5); pop; when case 1 = 933 : chillax end end

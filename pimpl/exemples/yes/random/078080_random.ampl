@@ -1,0 +1,1 @@
+program j : main : C, g1 : integer array; when case - not(0) * not true * false < true / (64) and 34 + u + 8 : chillax end case LR5a + (66) <= - (726) and 625 or 1 : pop; let q = 8; input U end case - not 3 and 00 + 5720 : let o[1] = array 6 end case 9 - 8 : let x = 7 end; let ei[(634) * true + vF6a and 6 + 21 - 9] = (7) - 86800 - 96 end

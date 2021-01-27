@@ -1,0 +1,1 @@
+program _ : K : takes jY, r16 : boolean array; A, N120a, U6, T3, U, P4, M0 : integer array; U : integer array; U : integer array; Cq1, M2 : boolean array; d : boolean array returns nothing hj : integer array; chillax end main : B9Q : integer array; RL : integer; p : integer array; DDu : boolean; j5 : integer; I7, F3 : boolean; do Qi1(- (04) and t - h); do b(- (1)) end

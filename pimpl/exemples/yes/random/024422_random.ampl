@@ -1,0 +1,1 @@
+program ZTk0a : OT : takes Oa3, Q4Saa : boolean returns nothing UR9a : boolean; T, Y : boolean; chillax end L8 : takes ST, K3 : integer returns nothing chillax end b : takes _N5, De90a : boolean array; n, w : integer returns integer array Yi6, s8, WE : boolean; chillax end main : chillax end

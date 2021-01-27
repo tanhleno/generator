@@ -1,0 +1,1 @@
+program h : Xb50a : takes q1, Dgd0 : integer array; c3ha, R : boolean; R : integer array returns integer chillax end B : takes a : integer; N : integer array returns boolean L, Ru, X : boolean array; E, MX, fs : boolean array; input c9P end GJ : takes gQ, K, m : integer array returns integer pop end main : chillax end

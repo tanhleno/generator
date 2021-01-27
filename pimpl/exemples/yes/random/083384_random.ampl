@@ -1,0 +1,1 @@
+program S : main : K : integer; P, T4, b : boolean array; output - S(1) + Z6 > true and 8 - 89; when case(887) - not 1 : chillax end case - true and 3 or 41 : let IC = array 5840 end otherwise : chillax end end

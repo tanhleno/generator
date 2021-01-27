@@ -1,0 +1,1 @@
+program V : J : takes p, h1, oi8, A : boolean array returns boolean L : boolean; G : integer array; pop 0 end S24 : takes _F3, Y, AA4, w, P4Ka : boolean returns boolean b : integer array; P9, q : integer; T93 : boolean; M : boolean; chillax end main : when case - true = not(57) : do w71(- 33); output 050; pop; output "" end end

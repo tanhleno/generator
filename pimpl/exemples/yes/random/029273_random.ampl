@@ -1,0 +1,1 @@
+program k : _ : takes k, _ : integer array returns boolean array tt, v, RF, Q, B5 : boolean; A3, a : integer; B, S, e8 : boolean array; let i[not 9 and 73 + 8 - 9520] = 9 - 35900 = 2 end K : takes J, f, _9 : boolean returns nothing v : boolean array; chillax end main : z, G, Dp : boolean; chillax end

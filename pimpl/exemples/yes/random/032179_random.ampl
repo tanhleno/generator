@@ -1,0 +1,1 @@
+program tr : l5 : takes E, Tf0aa : integer returns integer when case - not 8 or 4 = 3 : chillax end; do l(93) end main : when case b[8] * false * not 516 and 9 - 99300 < - a(6) or 250 and 6 : input C end; let h[- 396] = array - false + (6350) end

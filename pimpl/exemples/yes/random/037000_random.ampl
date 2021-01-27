@@ -1,0 +1,1 @@
+program dD : T : takes W : boolean; b : integer array returns integer chillax end FV : takes K : integer array; k : boolean array; A, q, P : boolean array returns nothing q6, W : boolean array; do v(- 1 - 78) end main : y : boolean; H : boolean array; R, L8 : boolean; J : boolean; J, x : integer; chillax end

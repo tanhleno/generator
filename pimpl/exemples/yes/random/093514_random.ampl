@@ -1,0 +1,1 @@
+program yu4aa : main : output ""; when case - n < (36) + 5 : chillax end case - true or 20 - 0 /= - 9 : chillax end case - 2 >= 5 : when case 8 : chillax end; when case 2 : chillax end; pop end case 221 : input RZ; pop end case 5 : chillax end; input zf3[true and 998 + 38] end

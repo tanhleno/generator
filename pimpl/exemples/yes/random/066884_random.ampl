@@ -1,0 +1,1 @@
+program Q : main : do Rj00(- true and(547) / false + not not 2 rem(8) and 6); pop - not 20 and 5 /= 4 - 62; when case(6) or 695 : chillax end case - 4 - 22 : chillax end otherwise : input h; input v end; output 83 = 4200 . 2; pop 6; let s4[9] = array 10; when case 131 : chillax end end

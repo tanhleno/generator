@@ -1,0 +1,1 @@
+program g14a : w : takes j, e9 : integer array; B : integer array; d : integer array returns boolean array f9 : boolean; rI2a : boolean array; LvQ : integer array; pop - 9 - 73 end main : A, qI, j, S9, Lb, B5, s : boolean array; chillax end

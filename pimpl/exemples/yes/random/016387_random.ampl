@@ -1,0 +1,1 @@
+program U0Q : q : takes DP, gQ, HZ : integer returns nothing y, k : integer; output - 4; input O6p[- 012]; while 7 : when case 2 : chillax end end; while 12 : chillax end end main : output - 6970 . - false and 28 < 3 . - 4 < 802; while(0) and true > - i and 1 : while 0 : chillax end end end

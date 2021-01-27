@@ -1,0 +1,1 @@
+program S : p : takes K9, Ru, _4, W6o, is : integer array; lq, P3, l : integer returns integer chillax end z : takes p : boolean; C, fC4a, v : boolean array returns integer array L, x0 : boolean; input x0 end main : ilc0, H, x, F : boolean; O, c : boolean array; f : boolean; _N, C1, Yd80 : boolean; M : boolean; pop 9 * true >= true end

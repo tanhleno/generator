@@ -1,0 +1,1 @@
+program w0 : main : while not not 660 <= (7320) or false or 1 : output 4 . 74 end; while - (95) or false - 4 - 14300 : while 7 = 506 : do l(5); pop end; when case 54 : pop end case 796 : chillax end otherwise : chillax end end; do fk7aa(not 393 and 33 < 16); pop 84; pop; output 33 . "7;a"; input P5; output "9" end

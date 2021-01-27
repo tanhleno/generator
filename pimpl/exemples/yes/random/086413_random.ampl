@@ -1,0 +1,1 @@
+program k : main : m810a : integer array; k : boolean; let j36[1] = array true and(189) + (657) / true; do W(7 <= - (38)); while - 991 - 8 < 69 - 0 : while 137 : chillax end; when case 8 : chillax end end; while 34000 - 91600 : chillax end; when case 2 = 08 : chillax end case 5 : chillax end case 281 : chillax end; while 54 : pop end; pop end

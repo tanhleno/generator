@@ -1,0 +1,1 @@
+program ff2a : Y : takes wg : integer array returns boolean array chillax end jF : takes E8d, i03 : integer; p630a : boolean; V7 : integer returns integer chillax end main : xF, r, u4, w : integer; let W7B0a[false - true] = (91); while - (88200) and 668 and 243 : while 11400 : pop end end end

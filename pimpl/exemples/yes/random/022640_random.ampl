@@ -1,0 +1,1 @@
+program E : S : takes c, f : boolean array returns nothing input O[false and 96600 - 7]; when case 90 - 16 < 9 : chillax end otherwise : chillax end end A1 : takes _ : integer returns integer array pop 0; pop 923; let n43 = array 6350 end main : chillax end

@@ -1,0 +1,1 @@
+program iS4 : I1 : takes u530a : integer array; UC : integer array returns integer array R3 : integer; T8la, M, a8U0 : boolean array; L : integer; U : boolean; K : boolean; chillax end main : output - (6) rem not 742 - (2) and 7 <= - false . - D1 - 7 - 2 . "" . 5 . 4 . 61 . "m"; pop; do R6(true or 0 <= 168 - 757) end

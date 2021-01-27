@@ -1,0 +1,1 @@
+program E : main : while false / (9) / true or 15 < 2 rem true : let N[- 8580] = 8 = 27900; when case 5 : while 42900 : chillax end; pop end end; do HF(- (3), - (6) and 72 = - 52, - 752 = 076); input K7Naa[- jO and 58] end

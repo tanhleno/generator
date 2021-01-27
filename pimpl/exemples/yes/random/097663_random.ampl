@@ -1,0 +1,1 @@
+program zT7a : main : when case true and i27aa(10) * false - true : chillax end case - O(7) * (49400) or pB or 36 /= true and 59 or 8 : when case 1 = 619 : chillax end case 9 : chillax end otherwise : chillax end; pop 53; when case 1 : chillax end; input fg end end

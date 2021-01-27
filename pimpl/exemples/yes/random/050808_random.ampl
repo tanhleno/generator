@@ -1,0 +1,1 @@
+program Y : y : takes A37a : integer; a, J4y0 : integer; J, X, P, c530a : boolean returns boolean array iS : boolean; pop; output "s" . 1 . ""; let J_4 = 57; pop 5 end main : j : boolean array; while 1 : do k(28 = 4) end; pop end

@@ -1,0 +1,1 @@
+program E : f : takes O : integer array returns integer array W4s0a : integer array; pSX, E2 : boolean; output - 11 . "\n"; do D0(- 82 - 8, 61 = 3, 40); do l(7 = 300); let o[65] = 93800; input pj end main : e4 : boolean array; chillax end

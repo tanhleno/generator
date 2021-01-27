@@ -1,0 +1,1 @@
+program B : jM8 : takes J, de7a, x : boolean; Vz, B : boolean array; E, C1 : integer; G66 : boolean returns nothing chillax end l : takes t, K : boolean array returns nothing q : integer; t0, gb, R : boolean array; H, jH : boolean; while 66600 - 634 /= 97 : input U33aa end end main : chillax end

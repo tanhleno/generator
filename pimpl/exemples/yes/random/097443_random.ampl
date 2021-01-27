@@ -1,0 +1,1 @@
+program l : main : when case 1800 <= (64) * (0) + t7 and 4 + 5 : chillax end case - false and false - e or 57 < not 2 and 5 : pop 7 end otherwise : while 93 = 5 : output ""; pop end; input S93; while 1 : chillax end end end

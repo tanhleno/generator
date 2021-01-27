@@ -1,0 +1,1 @@
+program brB0 : main : k2A, a3, abm : integer array; let n[- (53200)] = (0070) / true and 1 + true and 461 /= 45 and 5 or 7; let F = array false - (3) and 83 or 7 - 0; input H8q0; pop 38; pop; output 4 end

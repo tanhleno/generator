@@ -1,0 +1,1 @@
+program q7Gaa : main : ny7 : boolean; z, s2 : integer; Dw : boolean; when case not true = - K4O0(135) rem 5 : when case 86 - 7 >= 93000 : output ">("; when case 03 : chillax end; pop end case 7 : chillax end case 6 : pop end otherwise : do t65(803); pop end end end

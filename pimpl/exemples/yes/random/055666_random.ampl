@@ -1,0 +1,1 @@
+program MRUaa : x : takes ik : integer array; j : boolean; _ : integer array; J9, xe20a : boolean array returns nothing f0la : integer; mb, Z3 : integer array; chillax end Yu : takes o : boolean returns boolean l, U : integer; L : boolean array; p4V : boolean; when case - 5800 - 93 < 9 : input G12a end otherwise : chillax end end main : chillax end

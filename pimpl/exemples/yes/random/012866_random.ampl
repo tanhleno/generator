@@ -1,0 +1,1 @@
+program l : _ : takes L, k6, B : integer; Mf6, M : boolean array; d0 : integer returns integer array IQF : boolean array; F, T : boolean array; when case 13 or 07 : while 0 : pop end; input f630a; when case 25 : chillax end; pop end end S : takes U_, p : integer; g, Y2Kaa : integer returns nothing chillax end main : E, KTF, b, Ma, Y, Y : integer array; pop end

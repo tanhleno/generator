@@ -1,0 +1,1 @@
+program EL : C : takes o9 : boolean array; x7 : integer array; K : integer; h, B, r, p, V6 : integer; L : integer array; u67aa : integer array; K, d : boolean; s : boolean returns integer e, p5 : boolean array; chillax end main : let h = array - (4) end

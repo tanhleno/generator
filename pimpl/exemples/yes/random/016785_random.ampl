@@ -1,0 +1,1 @@
+program d6 : O0N : takes ux30, Xt6 : boolean; I, i, gx, cm : boolean array; m, r, t9 : integer array returns integer array es, y, k : integer array; V8W0a : integer; G, sq7, X0 : integer array; chillax end main : fiA, y6, e : boolean array; chillax end

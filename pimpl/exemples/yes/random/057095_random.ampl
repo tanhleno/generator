@@ -1,0 +1,1 @@
+program Of : Y9 : takes DKKaa : integer array; f : integer array returns boolean chillax end main : r3, Ka8, R, E, h : integer; Is : integer array; W4c : boolean; x2V, iG, F, h1E0a : integer; while 27 / (8) = - true / not 5 and 5 : pop; input v; pop 4 end end

@@ -1,0 +1,1 @@
+program h : W : takes F, U, L8, Jje, j : integer array returns nothing do a2(- (7530) or 8 <= 9, - 1, 4200) end main : Z4Iaa : boolean; e : integer; ADuaa, L5 : boolean array; U5, S : boolean array; a : integer; V5, EI : boolean; chillax end

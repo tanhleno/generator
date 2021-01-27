@@ -1,0 +1,1 @@
+program a4K : T7aa : takes W : boolean array; V : boolean array returns nothing pXB : integer array; let a = array - (98); pop; while 4 : pop; pop end; input c; output "" end main : wP, b : integer; Q62 : integer array; j, b, Y : integer; qj : boolean array; chillax end

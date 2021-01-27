@@ -1,0 +1,1 @@
+program eaA0a : g : takes n6, y : boolean returns integer gx, vMn : boolean array; n : integer array; input G2[- true or 76 - 473]; when case 55 : pop end case 09 : when case 31 : chillax end end end main : chillax end

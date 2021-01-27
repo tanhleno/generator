@@ -1,0 +1,1 @@
+program X : l : takes A73aa : boolean returns boolean array chillax end k2E : takes Aa5a, k8 : boolean array returns nothing chillax end main : X : integer array; output "" . - true and 5 + 4 >= - 22500 . "" . "m7"; while - 4 and 8640 and 89600 > (0) : chillax end end

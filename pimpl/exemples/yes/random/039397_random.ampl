@@ -1,0 +1,1 @@
+program h : L0F0 : takes h21 : boolean array; g, N7 : integer returns integer array wle0a : integer array; when case - (5) : chillax end otherwise : chillax end end main : A, oWs : integer array; h : integer array; output "\n-"; output "\\\"!" . "\\7"; output "6" end

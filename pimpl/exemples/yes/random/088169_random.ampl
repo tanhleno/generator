@@ -1,0 +1,1 @@
+program Zg : main : input D; when case - true or(2) >= 04 and 0 or 3 - 045 : chillax end otherwise : chillax end; when case r5 or 0 - 26 : chillax end case - 8 - 17 < 07000 : do dI(92); let S = 092 end case 4 = 5360 : chillax end case 1610 : chillax end; input C; let Y = 96; while 0 : chillax end end

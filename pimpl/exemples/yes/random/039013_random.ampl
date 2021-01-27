@@ -1,0 +1,1 @@
+program f : z : takes Ej : boolean array; l, be : integer; CT, c : boolean array returns nothing S35a, n, u6, M, S : boolean array; chillax end main : A9 : integer array; Q, d : integer; G, Y2Sa : boolean; D : boolean; pX1, A : integer array; d : boolean; l : boolean; while B - false > a(1) / (17) and 3 : let X[8 - 226] = array 28 - 98; output "" . 67 end end

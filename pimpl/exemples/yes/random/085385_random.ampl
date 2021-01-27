@@ -1,0 +1,1 @@
+program xY : main : Fn2 : integer; while 27700 * not true rem true and 8 < - not true * 70 and 1 + (8) and 1 or 1 - 861 : chillax end; when case B[9] : output 3 end case(0) + 26 = 548 : input u[1] end case - 96 - 3 /= 554 : when case 358 : chillax end; while 4 : chillax end end otherwise : do JN(3) end; input C890a; input ji40; input m3[9]; pop 682 end

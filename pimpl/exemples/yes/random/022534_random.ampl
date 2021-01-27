@@ -1,0 +1,1 @@
+program Av3 : Q : takes E, E : boolean array returns nothing d : integer; D : integer; let E[false and 187] = - 55600 - 76 >= 4 end main : pop - false / not 47 and 5700 + not 66 and 12 > false; pop; do Q(true or 3) end

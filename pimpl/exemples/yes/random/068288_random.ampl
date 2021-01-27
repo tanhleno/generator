@@ -1,0 +1,1 @@
+program Y : main : AI, A, D2, E7, m91, g28a : boolean; w, vxQ, z, G : boolean array; k8, G, EY, yY, O : integer array; k : boolean; F : boolean array; JK : boolean; l : boolean; pop false and(49) and 6 = not 4 + 66; output - false or 63 - 5 <= 2 - 0 end

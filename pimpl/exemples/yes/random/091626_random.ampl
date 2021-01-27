@@ -1,0 +1,1 @@
+program T : main : let S1[6 or not(5770) rem D and 5 or true] = array - E[6] / false rem(7380) and 7; pop; when case - 9 and 18 + 4 - 268 : when case 1 : chillax end; output ""; while 3 : chillax end; pop end case 45 - 5 /= 1 : let j3 = 42; do R(8); pop end case 75 = 3 : chillax end case 39 : chillax end case 6 : chillax end otherwise : let S = 0; input _BU; pop end end

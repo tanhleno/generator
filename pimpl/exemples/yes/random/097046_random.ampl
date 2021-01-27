@@ -1,0 +1,1 @@
+program gw : main : when case P[68] and(96) * n and 6 + true and true or 9 and 344 + 52 = false - false and 15 or 0 - 32600 : chillax end; while - not Nt <= (05) or 816 : chillax end; let O = array - not 6 and 221; input zS[- 4 - 6210]; when case 35 = 93 : chillax end case 6 : pop end case 4 : chillax end end

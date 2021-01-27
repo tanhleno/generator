@@ -1,0 +1,1 @@
+program i : rY : takes F85, GD1, K : integer array; F, ct : integer array; G : integer array; f : boolean array; dh60a : boolean array returns integer output 1 - 2 = 8 . "W1!a" end main : z, Sv2aa : boolean array; chillax end

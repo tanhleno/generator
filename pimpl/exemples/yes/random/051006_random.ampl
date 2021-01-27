@@ -1,0 +1,1 @@
+program j7 : EZ : takes m5K : integer; XrD, J : integer array; l, F51 : integer returns nothing wk : integer array; I, Bc0, Ee, zg7aa : boolean; n : integer array; chillax end main : OU, q : boolean; output "y"; while not I50 * 7 : while 13800 = 2 : when case 87 : chillax end; pop end end end

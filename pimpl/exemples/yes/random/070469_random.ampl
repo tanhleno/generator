@@ -1,0 +1,1 @@
+program AL9 : main : E, b, x67, O : integer array; e, ut : integer array; DH2, q, Ht7 : integer array; u, p, g : integer; do K6(- (0 = 603) / 0 /= false - (2) and 2 + 9 - 1, true - (9) and 09 + 8) end

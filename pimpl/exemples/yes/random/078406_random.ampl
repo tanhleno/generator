@@ -1,0 +1,1 @@
+program z9 : main : s : boolean; i3, B6J0a, kZM, Nj, m, cuF : integer; v : integer array; jo2, J8, T8 : boolean; f5 : integer array; F, ZO70 : boolean; output - true . true >= - 16600 . 21 - 8 <= 19 . 18 . 7 end

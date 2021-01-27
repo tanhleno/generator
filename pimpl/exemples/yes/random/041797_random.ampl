@@ -1,0 +1,1 @@
+program h : ng : takes o : boolean array returns boolean array cjca : integer array; let q = - 2 <= 54000 end w1 : takes obh : integer; K : integer array; q8w0a : boolean; q, t : boolean returns integer array input CT9 end main : chillax end

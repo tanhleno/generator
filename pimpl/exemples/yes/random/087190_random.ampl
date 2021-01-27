@@ -1,0 +1,1 @@
+program KJ0a : main : Hb : integer array; let F[- not true] = array - (2) or true and y - false and 94; while tW / (1) + h80 or 0 - 35 : input F1[83700]; when case 1 : pop end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program _ : t : takes H : boolean array; L : boolean array returns integer Q, k, e7, I, L : integer; pop - 3 = 19; pop 27 = 91; let F[31] = array 961 end main : a0, ge, o : integer; t : boolean array; output(0360) end

@@ -1,0 +1,1 @@
+program VX : y7 : takes HP5, V, L, Qr, r, b4U, Ds, e6 : boolean; j7, P, v, g, sdQaa, h : boolean array; z, M : integer returns boolean W0, J730a : integer; y_ : boolean array; X, I : integer; chillax end h8 : takes L, N, K : integer array returns integer yg5, F : boolean; let q = array 0 - 9 end main : chillax end

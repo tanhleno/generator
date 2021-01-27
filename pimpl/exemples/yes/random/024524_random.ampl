@@ -1,0 +1,1 @@
+program D1d : E : takes b, aC50 : boolean returns nothing IN : boolean array; yB : integer array; chillax end It : takes E7, S : boolean; k, t : boolean returns nothing c : integer; s : boolean; when case - 8780 : chillax end end main : chillax end

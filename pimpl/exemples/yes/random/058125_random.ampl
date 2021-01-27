@@ -1,0 +1,1 @@
+program B : tM : takes b1W0 : integer array returns boolean chillax end main : C23 : integer array; when case 6 : chillax end otherwise : chillax end; let bml[- 6 or false and 1 + 7] = true and 5 /= 3 end

@@ -1,0 +1,1 @@
+program cz40 : main : M, T, Ou : integer array; while 1 or not(40000) rem 100 + k > - D2[77] + U : while 6 - 5 : pop end end; while 492 and f + true and 26 : chillax end; let dCK0a[true] = array - false or 376 - 02; while - 4 : pop end end

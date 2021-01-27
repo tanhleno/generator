@@ -1,0 +1,1 @@
+program II : main : let K = array - 54 and(1); when case(7510) and not 029 and 40 : when case 6 = 1 : when case 94200 : chillax end; pop end; output 52; let HDr = 40 end case not 64500 and 8590 or 3 : chillax end case - 48 - 34 < 4 : chillax end end

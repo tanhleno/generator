@@ -1,0 +1,1 @@
+program e5 : y7 : takes T : boolean array; _66, I : boolean; u6 : integer array; BZo0, C, l : integer returns nothing G : integer array; YR : integer array; chillax end lM9 : takes NZ : boolean returns boolean pop 00 = 4; when case 839 : chillax end case 8 : pop end case 8 : chillax end end main : output "" . not 57300 end

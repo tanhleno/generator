@@ -1,0 +1,1 @@
+program O : _ : takes a9 : integer array; F, v : boolean array returns nothing when case - (00) : when case 94500 : pop end case 5780 : chillax end end case 81 - 8 < 23400 : input M end otherwise : while 567 : chillax end end; while 3 = 9 : chillax end; pop end main : chillax end

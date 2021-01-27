@@ -1,0 +1,1 @@
+program V : w : takes K : boolean array returns boolean B : boolean array; AJ, R36, R, Ju : integer array; ym : integer array; t01, PQ1a : boolean; va : boolean; let d = - 25 - 45700; let Wq[- 142 - 9] = array - 5 - 2230 end U : takes os : integer returns nothing hQg, Dc : boolean; V, jzh0 : boolean array; n56, r : boolean; A4B : boolean; let n = 9; pop 82 end main : chillax end

@@ -1,0 +1,1 @@
+program d : b : takes I1, wB : integer array returns integer when case - i and 19 <= 1 - 1 : while 8 : chillax end; pop; while 1 : chillax end; pop end otherwise : chillax end; when case 0 = 6 : chillax end otherwise : chillax end; input O; while 2 : pop end end main : chillax end

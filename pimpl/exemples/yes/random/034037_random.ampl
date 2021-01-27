@@ -1,0 +1,1 @@
+program n6 : PY : takes O76 : boolean; H, B, v : integer; G : integer array returns nothing pop end main : B : boolean; zsX0 : integer; j, k7 : boolean; HRU, z : boolean array; x : integer; G, s : boolean; l : boolean; u1L : boolean; pop end

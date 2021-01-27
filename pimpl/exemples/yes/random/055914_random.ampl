@@ -1,0 +1,1 @@
+program fD : D60 : takes ZH2aa : integer array; s : boolean array; C : integer; c, A : boolean array; hx : integer array returns nothing n840a : boolean array; output "0'" . 4 . 6 . 7 . "" end main : input z[nH[4420] or false] end

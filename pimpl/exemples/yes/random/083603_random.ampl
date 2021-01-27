@@ -1,0 +1,1 @@
+program q : main : C : integer; att, j : boolean array; e, w, v : boolean; pop - true or 7 and 54 + 888; do O8t0a(false - not 96500 - 3 > - true and 262 or 543 - 83, not 0 and 2, - 1 < 395, 3 = 49, 8) end

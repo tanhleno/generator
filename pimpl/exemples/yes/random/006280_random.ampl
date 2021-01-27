@@ -1,0 +1,1 @@
+program t1 : j : takes d380a, L, VR, G05 : boolean returns nothing when case - true and 2 or 3 - 6 < - 2 - 19 : chillax end case - 85 : when case 0340 : chillax end end otherwise : output ":30"; do f(50); pop end end main : while true rem(9) + true * A83aa and 7 - false + 1 - 67500 > 0 and true and 1 : chillax end; do h(- true or false + 73, T and 53800 + 19 <= 4870) end

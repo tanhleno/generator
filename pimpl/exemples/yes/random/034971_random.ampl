@@ -1,0 +1,1 @@
+program L2r : q : takes X : boolean; yJ, b : integer array; o020 : boolean array returns nothing when case - not 9 and 8 : chillax end otherwise : while 0 : chillax end end end B : takes l : boolean array returns integer array E : boolean; D2Z : boolean; sy, J40a : boolean; chillax end c280a : takes d : boolean array returns nothing chillax end main : input x; output "2" end

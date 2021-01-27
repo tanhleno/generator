@@ -1,0 +1,1 @@
+program te : l : takes i28 : boolean; T90 : boolean array; bG70, ggI : boolean array; w58, U : integer; c7k, e, YsH0a : integer; I3 : integer; w : boolean; R9 : boolean; r6I0 : boolean returns integer chillax end H : takes S : integer array; oV : integer array; bJ40a, C : integer; Z3 : boolean returns nothing output "5\ta" . 146 end main : chillax end

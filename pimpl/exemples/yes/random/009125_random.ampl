@@ -1,0 +1,1 @@
+program K : O : takes i, b, H : boolean; g : boolean array returns nothing chillax end main : when case(6920) or 4 * not 461 and 4 >= not O * LZ0a and 5 - 60800 - 5 : chillax end case - false or true >= - false or 95400 - 5 : chillax end case false - 5 : input iXY[0880]; while 9770 : chillax end; output "" end otherwise : chillax end end

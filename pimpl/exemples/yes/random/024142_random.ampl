@@ -1,0 +1,1 @@
+program CTu : M04aa : takes r, W16 : boolean returns nothing u, Jq, Js, U, m : boolean array; chillax end F : takes f7 : integer array returns nothing r0 : integer; pop end main : eO70a : boolean array; ve, J : integer array; fy, L, t : integer array; lp, U5 : boolean array; yt, BL8 : integer; c43, Y : boolean; Z : boolean; Q : boolean; chillax end

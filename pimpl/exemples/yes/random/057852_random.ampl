@@ -1,0 +1,1 @@
+program Y : FT9 : takes t : integer array returns boolean array Fg10a : integer; chillax end U : takes S4, f, C : boolean array; LTfaa, fO2aa, pOY0 : boolean array; B, i69aa : integer array returns boolean do _(- 229 - 9, 4); let Pam = array 3 end main : d : boolean; chillax end

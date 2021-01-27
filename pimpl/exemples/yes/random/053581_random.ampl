@@ -1,0 +1,1 @@
+program Fg : s : takes Gb : integer array; A, I52aa, a, jmV0a, y4 : integer; B : integer array returns nothing U, U, G3M, b : integer; chillax end main : pop false - (16) and 1 + 408; output 0 and 5 = - 5 . 7 end

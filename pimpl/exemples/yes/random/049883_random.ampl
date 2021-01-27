@@ -1,0 +1,1 @@
+program w3 : E48 : takes NO : integer; A, G0, KC : boolean array returns boolean array a8X, q76 : integer; v, g : boolean; V : boolean; chillax end main : Z : boolean array; do t(- (3) / not true < not P + 7 and 6); pop; while not 2 and 5 - 9 - 24 < - 9 : chillax end end

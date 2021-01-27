@@ -1,0 +1,1 @@
+program Pe10a : main : fi, p1u : boolean array; while - 338 - G(73) and cW - _ - 79 - 3290 = 5 rem false and 2 + (0) + 5 - 4 : let Z[- 3970 - 5] = 8; when case 80 : pop end otherwise : pop end end end

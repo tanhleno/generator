@@ -1,0 +1,1 @@
+program u : e : takes h5w, g, r, _oe : boolean returns nothing t : boolean; Q, C4, z, hUJ0 : integer; input rX1a[- 0 and 260] end main : when case - false - true >= 614 * false and 4190 : chillax end; when case - true + 5 and 1 + 81 - 62 : chillax end; do IzT0(x + 34 > - 0) end

@@ -1,0 +1,1 @@
+program gN9 : main : i, I : integer; L, w1, zUh, mw, K, Qv : boolean array; output "2" . "" . "N\""; when case - r = - (4410) and 6 : pop end case not 28 - 929 : pop; when case 452 : chillax end end case - 7 - 8 : chillax end case 76300 = 81 : input G1 end otherwise : when case 68 : chillax end otherwise : chillax end; input Z end; while - J and 188 : chillax end; pop 635 = 0 end

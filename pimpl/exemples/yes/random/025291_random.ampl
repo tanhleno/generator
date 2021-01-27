@@ -1,0 +1,1 @@
+program r7 : rb : takes pb, _ : integer; Z, Y6, v : boolean returns nothing input h end main : when case - true * (9) and 4 and 5 or false : input y88; while 1 = 7 : chillax end; input A[04]; while 20 : chillax end end case - 93 < u : chillax end case false and 8 /= - 3 : chillax end otherwise : when case 55 : do a9(66400) end end; while(7) + not 561 : input p[510] end end

@@ -1,0 +1,1 @@
+program m3 : QbW : takes yr, g680a, g6 : integer array returns nothing T, Cj, g9 : integer; W, l37 : boolean; chillax end main : _ : integer; y, H52aa, i : boolean array; I, kkw : integer array; P : boolean; chillax end

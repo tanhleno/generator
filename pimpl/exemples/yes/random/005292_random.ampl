@@ -1,0 +1,1 @@
+program n : ad : takes rJ0, HPraa, V07, s10 : boolean array returns boolean array U : integer; input tB[- true] end main : when case - true /= false / (8770) : chillax end case(3) >= false - 6 - 4 : when case 76100 : pop end otherwise : chillax end end case - true : chillax end case 7 < 20 : chillax end; pop - (21) > - 634 - 95 end

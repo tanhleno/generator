@@ -1,0 +1,1 @@
+program w : a : takes ZBHaa : integer array; Bk : boolean; H : integer array; L, Y, A, z, W : integer; N, nt7aa : integer; h170a : integer; LJ : boolean returns boolean array vT : integer array; do c(true and 3 <= - 82); let r = array 4590; do H12(72) end main : g, Tb9, m6u : boolean; while(5) - 990 - QB : pop end end

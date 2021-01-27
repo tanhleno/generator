@@ -1,0 +1,1 @@
+program q : c : takes m : integer array returns boolean array W : boolean; Q, u2, rO : boolean array; do Gh(- 2 and 710 or 716 - 9) end main : B430a, Apq, b : boolean array; Ra, U : boolean; while - false * 7 / U0 and 51 - 19300 / true and 0 or J2 - 401 : input y[- 0 - 8]; output "" end end

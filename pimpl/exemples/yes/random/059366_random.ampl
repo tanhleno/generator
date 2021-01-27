@@ -1,0 +1,1 @@
+program E6 : x34 : takes K : integer array returns integer n : boolean; chillax end d9A : takes u, f2, DK, j, _, B : boolean array returns integer array chillax end main : while - 31 rem 97 >= T0D[95] * not 4 + (71000) and 34 : chillax end; when case(419) or Nw /= false - 448 : input ZBPaa; do e(19500); pop end otherwise : chillax end end

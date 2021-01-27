@@ -1,0 +1,1 @@
+program E : t : takes Xs, I, Mc, XA_aa, vI : integer array returns integer array U9, k76, ckc, l4 : boolean array; S3 : boolean array; Q, r5 : boolean; h : boolean; G : boolean; o : boolean; when case - (21) and 0 + 3 : let m = array 00 end case - 8 : chillax end case 10 = 9 : chillax end end v3 : takes n : boolean returns nothing chillax end main : y : integer array; chillax end

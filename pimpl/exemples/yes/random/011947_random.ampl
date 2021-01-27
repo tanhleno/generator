@@ -1,0 +1,1 @@
+program O24aa : V : takes C, f, w : boolean returns integer Sl, s5 : integer; when case 3 - 49 : chillax end end main : S1, r330a, v : integer array; output 9490 and 5 . "" . ""; input Of3[false + 59400 and 50 - 5] end

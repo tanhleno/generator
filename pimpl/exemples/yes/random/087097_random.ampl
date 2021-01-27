@@ -1,0 +1,1 @@
+program w0I0a : main : I : integer array; let F5Qaa = array(2); input i[- T(2) rem false]; when case - 9 and 0 : while 7 : chillax end; input o; output "1;" end case - 3 - 24 <= 87 : output "\\" end otherwise : chillax end end

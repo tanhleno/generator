@@ -1,0 +1,1 @@
+program r870a : t : takes C, k : integer array returns nothing oO : boolean array; cd6aa, Cu : integer; chillax end main : fy : integer; P : boolean; when case - not true rem not not 130 and U and 6 < 17700 - not 10 and 6400 : pop; do u(063, 94); output 2 . "" end; pop end

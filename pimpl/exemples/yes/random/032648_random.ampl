@@ -1,0 +1,1 @@
+program LT : jN : takes J, a1 : integer returns nothing k, _Y : integer; chillax end e440 : takes s : integer returns nothing while - 0 : when case 27 : chillax end end; when case 21 : when case 3 : chillax end; pop end otherwise : pop end end main : chillax end

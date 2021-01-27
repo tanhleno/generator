@@ -1,0 +1,1 @@
+program c : G9 : takes KcZ0a, F2X0 : boolean returns integer _8, W5 : integer; chillax end M4 : takes O : boolean array returns nothing when case - 9 : while 99 : chillax end end otherwise : chillax end end main : chillax end

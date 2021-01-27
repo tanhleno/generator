@@ -1,0 +1,1 @@
+program QT : S0 : takes A, i : boolean returns integer array output "" . "=" . "9" end main : when case - (70 = 77) * true / 4 + K[39] and not 3 + (4) < f rem not 66 and 375 + false + 86 - 8 : chillax end otherwise : while 529 = 6 : chillax end end end

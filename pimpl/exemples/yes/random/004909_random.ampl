@@ -1,0 +1,1 @@
+program L : _ : takes F2ba, q, p8, q6a : boolean array; B7, ry6a : boolean array returns nothing r : integer; j, V : integer array; KC40, N : boolean; output "K\n"; input r5I0a[1 - 8] end main : D, F6, k8 : integer; N, Z0 : integer array; s46 : boolean; R, a : integer; chillax end

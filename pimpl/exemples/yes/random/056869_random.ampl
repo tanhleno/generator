@@ -1,0 +1,1 @@
+program H : v : takes O : integer array; z3K : integer array; k4c0, v : boolean array; n, PJ, P : integer array; d, rJ : boolean array; R : integer array returns nothing chillax end main : while true <= - true / true - false and 07 : chillax end end

@@ -1,0 +1,1 @@
+program k : main : u140 : integer array; pY : boolean array; let l29 = array - I[2] / tL[63] * 4 and 2820; while not Lbs0a and true and 90 : chillax end; when case not 3 and 6 /= - 6 - 530 : chillax end end

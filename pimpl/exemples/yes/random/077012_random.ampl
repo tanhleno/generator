@@ -1,0 +1,1 @@
+program u : main : L, Z7e : integer array; do b(- false / false * J + 6 or D and 74); while - g(927) and 27 or false and 646 : input M end; let x[67600 and 72 + 7 - 01] = array false + 9 - 130; do M(- 66 - 5); let gN[191] = array 8 end

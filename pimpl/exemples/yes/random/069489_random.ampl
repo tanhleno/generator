@@ -1,0 +1,1 @@
+program P9 : main : U, hz, A, X9 : boolean; l1 : boolean; e : integer array; U : integer array; m : boolean; do dP8(- OuX(40) rem(6) rem false and 0 or 9 and not 6 and 10 or false and 5 - 963 - 5 > 1, false); let gK2aa = array 08800 + d; let Tf[not 62500] = 65; while - 9 : let BfEa = 08; while 2 : chillax end end; input n end

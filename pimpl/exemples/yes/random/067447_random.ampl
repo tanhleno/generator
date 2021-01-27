@@ -1,0 +1,1 @@
+program y : main : do o(not not false - not(2) and true and 3 = 9 and(1) and 370 or not 4180 and 15100 - 70 - 6, - false or 5 or 9 - 5 >= - (9) + 07700 - 6710, false and 3, - 171 >= 063, 2910 = 142, 89); let j[- T71[87900] and(1) and 07 - n] = array true and 44800 - true - 54 end

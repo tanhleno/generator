@@ -1,0 +1,1 @@
+program Pw_0 : ie : takes As, W_K, t8 : integer array returns integer array L2c0a : integer array; B5, X2 : integer; chillax end Z : takes x : boolean array returns nothing chillax end HO : takes R : boolean array; S : boolean array returns boolean array chillax end main : chillax end

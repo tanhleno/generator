@@ -1,0 +1,1 @@
+program J : main : when case - false + true - (006) and 6 < - false / i : input l2[692]; input g; output 287 . "" end case 0 and false + 1200 and 720 > 4 and 3 : chillax end case - fM and 404 : chillax end case - 817 - 26 : chillax end otherwise : chillax end end

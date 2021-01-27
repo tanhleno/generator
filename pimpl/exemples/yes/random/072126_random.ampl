@@ -1,0 +1,1 @@
+program h2Paa : main : y73, k, np : integer; o, Sw5 : boolean array; Ra : boolean array; o6, O, C : boolean; _5, u990a : boolean; output - i4M0a rem not 37 and 9 or w - 3 - 367 . ">"; do Z2F0(true /= - true + 01, - 63 and 17 + 5900 > - 1 - 1, - 5590 - 25, 91700 = 4); pop end

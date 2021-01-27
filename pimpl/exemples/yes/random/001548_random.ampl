@@ -1,0 +1,1 @@
+program SG0 : e02 : takes tV20a, R7, fM, q, s, ss0 : boolean returns nothing FH4aa, qnT0, a, x : boolean; while b and 3 or 0 > - 55 - 8 : chillax end end Im80 : takes d : integer; u : boolean array returns nothing chillax end main : r9 : integer; chillax end

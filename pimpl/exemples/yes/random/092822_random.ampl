@@ -1,0 +1,1 @@
+program h : main : output 205 rem true and 81 >= - not 02000 - 63 - 0; when case - false * 16 + true and 162 <= - true - 77600 - 1 : chillax end case(03) and 4 + 8 - 47 > 7 - 99 : chillax end otherwise : pop; while 87 : chillax end end; let T[- 2] = 25 - 4 < 2; input t1; pop 61 end

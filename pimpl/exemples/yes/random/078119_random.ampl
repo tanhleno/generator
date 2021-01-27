@@ -1,0 +1,1 @@
+program k5 : main : zs7aa, u10aa : integer array; when case not not not 9 rem(7) rem not 02 and 1 or not false and(765) and 5 - not 0 + 47 = false * false or u : chillax end case - true * false or false or 741 : chillax end otherwise : while 7 = 3 : pop; pop end; let zW[8] = 99500 end; do j(- true or true - 766 - 4 = false, - I7); do r(- not 1900 and 82 <= - 20000, - 6, 4) end

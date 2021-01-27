@@ -1,0 +1,1 @@
+program H9 : V : takes t : integer returns nothing A : integer array; while true and 1 - 6 - 1 : while 5 : pop end; while 1 : chillax end end end main : X3, F : boolean array; while w0_0a[53] and 7 rem false + false and(7410) and 7 : input t[6 - 3] end; while - (193) >= false or 8 - 7 : chillax end; while not 125 and 5 : do d(1); when case 0790 : chillax end end end

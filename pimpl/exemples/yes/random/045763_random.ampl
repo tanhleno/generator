@@ -1,0 +1,1 @@
+program v0 : e : takes S4C : boolean returns boolean array input w; pop 7510 = 2 end main : while - true rem true / true and 4 - 250 rem false > (05100) rem(40) and 92 + true and 3 : do ne(- 233, 6, 6, 80); let XL[1] = 0; while 948 : chillax end; input Ac end; input YJ end

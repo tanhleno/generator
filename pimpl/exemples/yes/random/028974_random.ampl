@@ -1,0 +1,1 @@
+program mWl0 : J80 : takes iw, lxP : integer array; x : integer array returns integer H, Vv, TQ, F4Oaa, xM : integer; chillax end g : takes t : boolean; c : boolean array returns boolean array let a = array - 3360; pop; when case 20 : chillax end case 229 : chillax end otherwise : chillax end; do Vuuaa(35) end main : chillax end

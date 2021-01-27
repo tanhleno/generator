@@ -1,0 +1,1 @@
+program K31 : G1F : takes y, T, rk, PC7, l : boolean array; n : integer array returns boolean pop - 5 > 16 end No : takes s : integer returns integer array when case 0 - 9 /= 85300 : when case 2 : chillax end; while 22600 : chillax end; pop end otherwise : chillax end; input Px end main : do Z(true * (675) + not false, - false and false and 7 or K3 and 3 or 753 - 05) end

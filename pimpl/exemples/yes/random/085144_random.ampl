@@ -1,0 +1,1 @@
+program q : main : I : integer; when case - p - o0(1) and 49 : chillax end otherwise : while 06 : chillax end; let D54 = 66 end; when case - true : chillax end otherwise : chillax end; while false or 4 - 662 > 4 : output 2 . "?"; when case 4 : chillax end; pop; pop end; pop 6100; output ""; do huc(38600) end

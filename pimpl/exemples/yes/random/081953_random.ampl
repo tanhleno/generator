@@ -1,0 +1,1 @@
+program wL10a : main : rXS : boolean array; h1 : integer; Q : integer; x : boolean; G, N7Xa, f01a : boolean; M : boolean; while - (17 = 50) * false / O7 - not 2 + true or 41 : chillax end; while - not true * (19) and 1 or false and 14300 < false and 5450 : do A(35, 2); pop end end

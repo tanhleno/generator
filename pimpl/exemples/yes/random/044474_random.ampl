@@ -1,0 +1,1 @@
+program D : O : takes Jr : boolean array returns nothing F : boolean; E : boolean; chillax end f : takes eO1aa, a, D : integer array; k, LK4aa, uR : boolean array; f, AK : integer array returns nothing chillax end G8 : takes W3B : boolean returns nothing chillax end main : input W[not 9520]; output "" end

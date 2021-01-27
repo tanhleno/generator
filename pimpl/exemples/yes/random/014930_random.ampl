@@ -1,0 +1,1 @@
+program dm7 : d : takes mBo, f3g0, L : integer array returns integer array Iz, d : boolean array; chillax end j0 : takes fh0 : boolean array; d, D : integer returns integer chillax end Es : takes G, AC : boolean; r, u, g, c, A84 : integer array returns boolean u45 : integer array; i, p : boolean; input An4aa[45] end main : chillax end

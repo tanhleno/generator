@@ -1,0 +1,1 @@
+program d8O0 : W : takes JG : integer array returns integer array while true and 810 - 0 - 53 : while 3 : chillax end end end main : do E47(- (395) rem v(1) and false and 99200 + true * false < - not not 5 and y, true or true and 703 + 8 > bb); input XhQ end

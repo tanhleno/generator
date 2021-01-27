@@ -1,0 +1,1 @@
+program Z23 : i : takes c : boolean returns nothing X760, l2 : boolean; chillax end Ha : takes YG : integer array returns integer G, k : boolean array; s : boolean array; do S0(- 92 - 9, 879 = 5, 4) end main : chillax end

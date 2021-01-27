@@ -1,0 +1,1 @@
+program Q : ee : takes i, b, C, CG : boolean array returns nothing chillax end z : takes s : integer array returns nothing V : boolean array; W : integer array; let e = array - 647; output 2 . "" . "" end main : when case _uV(33, 649) * false : do cke(0 /= 29, 63700 = 4, 92500) end; pop end

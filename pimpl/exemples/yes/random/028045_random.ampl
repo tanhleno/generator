@@ -1,0 +1,1 @@
+program _a7 : x5 : takes M2_, _ : integer array; D7l0, z_q0a : integer returns boolean chillax end u : takes nM, n : integer; x1, RV7, e : integer array; t58, r, w : integer returns nothing chillax end main : do U(- true, not 09 = - Gn9, c and 995); pop not 01 - 8 >= 8; while - false and 7 : while 6 : chillax end end end

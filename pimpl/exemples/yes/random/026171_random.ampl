@@ -1,0 +1,1 @@
+program v : g : takes K, D3z : integer; o : boolean array; k, U : integer returns nothing GN : boolean; l7, A, H, C : boolean array; I : integer array; k_, PB : boolean; aFs : boolean; do S(9 - 69 - 2 < 07, - 2 <= 2900) end F : takes z : integer array returns integer chillax end main : VH1, y, U : boolean; chillax end

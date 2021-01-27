@@ -1,0 +1,1 @@
+program X : d : takes z, g0f0a, I : integer returns integer input R[(7720) + 177 - 6] end D : takes P, o : boolean returns boolean array YJ, n7, S, nA : integer array; wr6, y : boolean; O : boolean; i26 : boolean; chillax end main : output(54700) rem false . - true + 36 - 4 /= 1830; pop; input C; output "K\"\""; let D[2] = array 3 end

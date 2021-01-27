@@ -1,0 +1,1 @@
+program la : R : takes F : boolean array; KI : integer; I6q : integer; V, r8 : integer returns nothing j, w, O, iI3, V : boolean; K9Aa, ru1, H : boolean; chillax end main : when case - (9) : let bE = array 39800 - 30; when case 87 : chillax end otherwise : chillax end; when case 8 : chillax end case 8 : chillax end end case true / not 5 + true and 1500 - 75 : chillax end end

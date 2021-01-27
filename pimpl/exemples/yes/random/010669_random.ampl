@@ -1,0 +1,1 @@
+program D1 : G : takes s, n0, T : boolean array returns boolean do X(_ and 5 or 6 - 9030) end q7P : takes g, BB90, nO, X : integer; Q23aa : integer returns nothing _K4, w : integer; L, e6 : integer; input k; do z(9 = 63) end main : input T960[false and(4)]; while - 33 * K : chillax end; pop 3 end

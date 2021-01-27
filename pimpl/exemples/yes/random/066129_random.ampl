@@ -1,0 +1,1 @@
+program B : main : do x11(- false and q / 843 and 08700 /= x3C[43] / q and 6, - (7) - true and 0 + 4280 /= not 84 and 8 or 0, q630a and 79, - 079 > 7); when case(7) or true and 02000 : chillax end case - false and 0 - 6 - 97 : chillax end; pop end

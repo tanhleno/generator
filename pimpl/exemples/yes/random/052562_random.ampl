@@ -1,0 +1,1 @@
+program Ap : Cg : takes N : integer; h_ : integer; N : integer array; y7, e : integer; v : boolean array returns boolean array Rzd : integer; x : integer array; J, r, Hl0 : integer array; input k9q0a end M : takes j7g0a, K9, V, S : integer array returns nothing chillax end C07 : takes ZY, h54 : boolean array returns boolean array chillax end main : chillax end

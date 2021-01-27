@@ -1,0 +1,1 @@
+program Rk70a : O : takes V : boolean array; P, H340a, w0A0 : boolean returns nothing Sm, q1x0, B : integer array; while - false and 5 : do alraa(565, 69); while 30 : chillax end; output "5:" end; while - 82 - 23 <= 91 : chillax end; input l; do QEY0a(2, 51); do I4(2) end main : f, f, c, knfa : boolean; chillax end

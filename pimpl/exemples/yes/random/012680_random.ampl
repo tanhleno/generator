@@ -1,0 +1,1 @@
+program T : T0 : takes n, P, _ : integer; F, Is, R : boolean; G, IvV0 : integer; N : boolean array; M, f_10a, f, G : integer array; f : boolean; Ja : boolean returns nothing D3, a : integer array; U, ZjQaa : boolean; do Eo(- not 26, 28 /= 0, 1 = 22, 2, 5); output "" . "D"; input i1; do BO6(8) end main : g, FE, o, Xi9 : boolean array; EyC, L, w0 : boolean; chillax end

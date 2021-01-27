@@ -1,0 +1,1 @@
+program x : main : when case - K : let BLza[- 91300] = array 6 - 8170 end case 31 rem true + 2 or 4 > - false and 39300 : chillax end case - not 0 + 4 - 8 /= - 48700 : when case 339 : pop end case 6 : chillax end otherwise : chillax end end case - 33 : chillax end case 59400 = 2 : chillax end case 10200 : pop end case 6 : chillax end end

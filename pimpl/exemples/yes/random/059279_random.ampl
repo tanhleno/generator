@@ -1,0 +1,1 @@
+program s : RR8 : takes J : integer array returns integer z, A, H : integer array; input N end main : pop; do d770(not 3 / true and 7 or not 458 and 409, - w - 9); let v9Ka[(5) and 13] = - 2 > 25; do F(440 - 70) end

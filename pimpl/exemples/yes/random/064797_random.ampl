@@ -1,0 +1,1 @@
+program e : p6n0 : takes k : integer returns nothing E : boolean array; e, b, v3, hZ : boolean array; chillax end dqMaa : takes D7, bD, YN, d, f8Ia, o : integer array returns integer chillax end main : o : integer; xvI : integer; chillax end

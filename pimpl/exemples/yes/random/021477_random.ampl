@@ -1,0 +1,1 @@
+program cR : i : takes P, B : boolean array returns integer array let _[false] = - 26 - 9 <= 24 end r : takes k7 : integer returns boolean O, K : boolean; Y : integer; s, J : boolean; _ : boolean; chillax end main : l, q2_ : integer array; output "" end

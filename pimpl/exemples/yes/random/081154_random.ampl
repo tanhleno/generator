@@ -1,0 +1,1 @@
+program T : main : CR : boolean array; ULB0a, AN : boolean; do z(S[78] rem S(61) or _9 + not 5 and 552 >= false, Cg40a(3) * (73), - false and 62); do v(- not a3 and false or 844 + 81 < - false and 00); output "4"; pop 669; do P80aa(7, 7) end

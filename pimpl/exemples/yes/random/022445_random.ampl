@@ -1,0 +1,1 @@
+program CGoaa : P : takes Z77, b : boolean array returns nothing k : boolean array; M, LB, h, n : boolean array; w : integer array; q, I8X : boolean; X2 : boolean; chillax end main : ce : integer; pop not Vb; pop end

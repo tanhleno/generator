@@ -1,0 +1,1 @@
+program E : fD : takes v5, Q5 : integer returns boolean array chillax end m : takes fhN0a, c, U : integer returns boolean M : boolean; gl40, j, P : integer array; w, r : boolean; JA : boolean; while - 98500 /= 4 : chillax end end main : chillax end

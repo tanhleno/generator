@@ -1,0 +1,1 @@
+program d : tQ7aa : takes KV : integer array; m : integer; M : boolean returns integer H : integer; chillax end main : P1, y : integer array; do iZ5(- true - Xs0aa[81400] / not 073 - not 7 + 46, - true, - (7) and 87 > 6) end

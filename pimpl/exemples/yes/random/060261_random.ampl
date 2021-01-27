@@ -1,0 +1,1 @@
+program s : E : takes nA : integer array returns nothing PR, W02a, m, C8k : boolean; c8 : integer array; let n = array - true and 904 + 7 - 77 end R : takes r62, A0 : integer array returns nothing chillax end main : b9, G : integer array; input F end

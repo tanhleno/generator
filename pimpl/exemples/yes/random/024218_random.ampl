@@ -1,0 +1,1 @@
+program q : B : takes b, _ : boolean returns nothing r3, By, q : boolean; y, j, kpr : integer array; eJ, fr : integer array; a, p : boolean; l4 : boolean; pop 061 end main : _, R, d68a, Ou30 : integer; xm, b, a4, a, Q, X : integer; u, L2 : boolean array; do q(- true and true / true and 82 + not y9 > - true rem not 93 and 6370) end

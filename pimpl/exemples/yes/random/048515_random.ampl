@@ -1,0 +1,1 @@
+program C1 : a : takes y : boolean returns nothing s : boolean array; x : boolean; output ""; while - 786 /= 5 : chillax end; when case 35 = 921 : do Ei(224); pop end case 29 : chillax end case 0 : chillax end otherwise : pop end; pop end main : chillax end

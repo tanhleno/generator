@@ -1,0 +1,1 @@
+program U1 : F2 : takes oe : integer; Z : boolean array; B5 : boolean returns nothing Z, j740a : integer; chillax end F : takes j9 : boolean array; Kj : boolean; Q, C, T : integer array; e0Taa, k, k, Fd : integer returns nothing pop 74; output 404 . "R8" end Z : takes V : boolean array returns boolean y : integer; x4i, G2 : boolean; n8 : boolean; pop end main : chillax end

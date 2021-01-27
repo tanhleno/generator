@@ -1,0 +1,1 @@
+program Y : z : takes S, tX, C : boolean array; C7, g6 : integer array; K : boolean array returns boolean array E : boolean array; chillax end main : c36 : integer array; D : boolean; V8G : boolean array; An : integer array; do U22aa(true * PI < true, - 9 > false - 5) end

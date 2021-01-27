@@ -1,0 +1,1 @@
+program Hc : l : takes P7X0, d5, K880a, gj : integer returns boolean output 3 - 1; while 691 - 4 >= 6 : while 4040 : chillax end end end t : takes b : integer; A : boolean returns boolean pop end main : K63 : boolean array; U : boolean; O : integer; G : integer; gg2 : integer array; chillax end

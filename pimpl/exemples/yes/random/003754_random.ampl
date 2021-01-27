@@ -1,0 +1,1 @@
+program Z : Y : takes fN2, NZ, PZ, gLcaa, S9H0 : integer array returns integer array output "" . 0 = 692; do K(4 - 773 <= 94) end gZ4aa : takes sZ10, F30a, k2, e, Z, D7, fP : boolean; oP60, B74, m, U6t : boolean array returns integer array output 22900 = 682 end main : let f4ya[false] = - true * y7 <= true - 0 - 67 end

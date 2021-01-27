@@ -1,0 +1,1 @@
+program U : wGY0a : takes L : boolean; p15 : integer array; u : integer array returns nothing t : boolean; Au : integer; chillax end main : while(0) * false * true and 9 or(72) - 605 : chillax end; pop not 45800 /= 0; while - 4 /= - 3400 - 6 : chillax end end

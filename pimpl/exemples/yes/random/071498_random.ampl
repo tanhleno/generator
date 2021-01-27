@@ -1,0 +1,1 @@
+program k140a : main : Z, hM, e : boolean array; k, pD : boolean array; pop true rem true and 4730; do y42(- false or true = - false or 13, - 71 and 01); while true and 0 or 4 >= - 49 - 14 : let s97[3] = 55 end end

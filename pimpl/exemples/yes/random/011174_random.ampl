@@ -1,0 +1,1 @@
+program p : lNH : takes BD, W, N39a : boolean array returns nothing H83a, DY, A5 : boolean; chillax end q3 : takes UP30, f : boolean; V : integer array returns integer h : boolean; t39 : boolean; i : boolean; pop 5 = 13; pop; when case 7 : pop end case 8 : chillax end otherwise : chillax end end main : chillax end

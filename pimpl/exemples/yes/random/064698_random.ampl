@@ -1,0 +1,1 @@
+program N0gaa : r : takes A : integer returns nothing ew : boolean; A : boolean array; chillax end Z7v : takes qXy0, yr5 : integer array returns boolean array input T[- 11 - 0]; do g(7 = 4, 6, 212) end main : do l(true, - not(09) and true and 554, - true - 14 - 6 <= - 583 - 35400) end

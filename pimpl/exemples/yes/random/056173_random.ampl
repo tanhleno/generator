@@ -1,0 +1,1 @@
+program K1 : sq20a : takes _Z : integer array; N : boolean array returns nothing y : boolean array; S, S : boolean; chillax end w16 : takes ZS, w, s5j : integer array returns integer chillax end main : j : integer array; pop not(2690) rem not 12 and 534 = - Lp; let lt[- 7 rem 539 or i - 2] = false end

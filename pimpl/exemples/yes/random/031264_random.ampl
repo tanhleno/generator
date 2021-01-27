@@ -1,0 +1,1 @@
+program F270 : O : takes g, M : integer returns boolean array O, bo, gy2 : boolean array; output "" . 7 . "" . 685; pop 20 = 32; pop 3 end main : input J[- not true * false / true and 94500 or true + x - 1 - 02800]; while false and not 2 and 5 + false /= true : chillax end end

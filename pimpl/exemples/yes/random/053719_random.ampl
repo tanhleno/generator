@@ -1,0 +1,1 @@
+program Qd : F : takes Pg3 : integer array; y0, Hk, f54, V : boolean array returns nothing O3 : integer array; input k9U[false and 2 - 49] end M980 : takes z4 : integer returns nothing when case 31 : while 7 : chillax end; pop end end main : do V2(56200, not not 2 or false or 0, - (0)) end

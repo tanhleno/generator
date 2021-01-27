@@ -1,0 +1,1 @@
+program p9 : f : takes M : boolean array; n, J22 : integer; Z9, s : integer array; Z2Xa : boolean returns boolean pop; pop 87 = 73000; input v2[4] end I : takes H, w, RU, A710 : boolean array returns nothing R6 : boolean; chillax end main : let a370a = array xR[02] end

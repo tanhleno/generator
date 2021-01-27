@@ -1,0 +1,1 @@
+program y : Nf60a : takes b : boolean returns boolean array dm20, C : integer array; output "^Y!a" end main : A3, H, h : integer; Bu, m, M, I, i, Tw0 : boolean array; pop; input iz50a; do y(- 30400 /= 694) end

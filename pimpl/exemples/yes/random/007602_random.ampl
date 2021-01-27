@@ -1,0 +1,1 @@
+program o : E2 : takes v, C, N, Bq : integer array returns integer h4H0, r, w, k : boolean; d : integer; H : boolean array; chillax end main : pop; when case true * 5 and 0 : output 83 . 23 end otherwise : chillax end; let O32[- not 54 or 961] = - 241 - 663 <= 4; output 4 . 45500; while 78 = 9 : let X = 4; pop end; let f = array 1 end

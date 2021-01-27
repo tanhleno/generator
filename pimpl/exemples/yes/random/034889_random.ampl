@@ -1,0 +1,1 @@
+program h8iaa : dg : takes w : boolean; O, M0 : integer array; r9raa, N, q2Z : integer returns boolean J : integer; g, u, S, R : boolean array; do c(not 14 and 73 or 778 - 71 < 8 - 69); pop end P2 : takes h : boolean array; N, WsB, O6, aU90a, V, D : integer returns integer chillax end main : chillax end

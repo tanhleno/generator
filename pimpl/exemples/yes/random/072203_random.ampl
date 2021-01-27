@@ -1,0 +1,1 @@
+program X0 : main : j0, HP, YF60 : integer; E : boolean; _800, j8, p81a, L : boolean; input G[true * false and not 195 or(950) rem false or 9 and 7]; output - 02 or 4 . "X+a"; let E7[- 8 + 869] = array - z2W end

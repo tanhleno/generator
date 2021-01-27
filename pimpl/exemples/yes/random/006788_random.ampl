@@ -1,0 +1,1 @@
+program wb7 : K0 : takes i, X03aa, mcl, n3 : integer; Xm : integer returns nothing chillax end Vq : takes Ggn : integer returns boolean oPA0 : integer; x8 : integer array; Ui, tRVaa : boolean; chillax end main : chillax end

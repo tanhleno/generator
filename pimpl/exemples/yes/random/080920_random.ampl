@@ -1,0 +1,1 @@
+program iN : main : D : boolean array; wC, a, J, Kt : integer; Z : boolean array; Z8d, v, S : integer array; when case - (4) + true rem not 63 and 1 : while 48 - 255 = 01 : chillax end; pop 657; when case 1160 : chillax end case 7 : chillax end otherwise : chillax end; output ""; output "9"; pop end; input v[not not 517 + true] end

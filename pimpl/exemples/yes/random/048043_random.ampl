@@ -1,0 +1,1 @@
+program l7i : LC3 : takes M38 : boolean returns nothing YG, oa0, u1w : integer; output 82 - 05 >= 5 . "0\t!a" end Jv : takes m : integer array; pJJ : boolean; g0 : integer array returns nothing w8, H7 : integer array; chillax end main : chillax end

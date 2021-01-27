@@ -1,0 +1,1 @@
+program C1 : T3N : takes bN2aa : integer; P, h : integer array; n5Laa : integer; f0m, j : integer; u : integer; Oq, T : boolean array returns boolean while - 21 and 1 or 5 : chillax end; let k5k = array - 99 - 62100; output 7 . 6 end main : chillax end

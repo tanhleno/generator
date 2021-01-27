@@ -1,0 +1,1 @@
+program a : b : takes PIG0 : integer; y, d57a : integer array returns nothing pop - 7 - 6 end t : takes n, g6 : integer array returns nothing output 1 . 0 end C : takes I : boolean array; h6X0a, k38, q5 : integer array; gkc, W59aa, g : boolean returns nothing chillax end main : chillax end

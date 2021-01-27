@@ -1,0 +1,1 @@
+program p : B : takes AtS : boolean; pA, y180a : boolean array returns nothing while 5 and 74200 + 4 - 8 : while 85 : chillax end end end main : let kr = false - (87) or 2 - 94800 < not 8; do B(- not false and false > - true and 729 - 53, - true and 34800) end

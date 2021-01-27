@@ -1,0 +1,1 @@
+program o : NRAaa : takes RK : boolean; B, S, V, F, t, e8, J : integer returns integer array chillax end T3y0 : takes Y : boolean array returns nothing do z(55 - 0 > 7, 56 = 0, 1) end main : n, y : boolean; chillax end

@@ -1,0 +1,1 @@
+program z : main : while true + not 265 >= - not a3f : do Q(- 78900 - 52 <= 8, 3 = 62); do F(8); let RR70 = 4 end; pop s and 2 or 7410 > 1; when case - not 04 and 45100 - 1 = - 1 : input V[52]; input hG end otherwise : output ""; pop end; do R(- 7 - 467); output 02 . 523 . "" end

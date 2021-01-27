@@ -1,0 +1,1 @@
+program E : main : do g(t1[6]); when case C[4] >= - 221 : do B(36); input B[4]; while 7 : chillax end; when case 9 : chillax end end otherwise : chillax end; input QI; let J = array - 5 - 50; when case 303 = 77 : chillax end end

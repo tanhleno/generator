@@ -1,0 +1,1 @@
+program t : V : takes Yj2, f, b0e0, C : boolean array; n, IFT0, V, j, C61a : boolean; P, m5, tw, XT, wVT0a : boolean array returns nothing p : integer array; X, W5 : integer; chillax end y19 : takes B, o310a : boolean array; y9B, X8Y0, _, U9b0, f, V0 : integer array; Q : integer array returns nothing output "?0" . "E"; do B(78) end main : chillax end

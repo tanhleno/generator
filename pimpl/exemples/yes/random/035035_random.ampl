@@ -1,0 +1,1 @@
+program T7 : n : takes y : boolean; L4, R71 : integer array returns boolean array x : integer array; let U[0510 or 813] = array(9) and 6 + 0 - 9; input XBJ end v : takes l, I06, tky0 : integer array; V : boolean returns nothing chillax end main : nA, d68, S : integer; chillax end

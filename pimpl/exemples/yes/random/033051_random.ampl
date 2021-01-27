@@ -1,0 +1,1 @@
+program cC4 : x2 : takes g1, O : integer returns nothing output - 4 - 09 /= 1; when case 8 - 8 : chillax end otherwise : do J(4) end; let R8naa[3] = 465 end Ob : takes a, H : boolean; K, R, z04, g1, M : boolean array; C910 : integer array returns integer array chillax end main : pop end

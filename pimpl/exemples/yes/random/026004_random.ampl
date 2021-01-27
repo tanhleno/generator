@@ -1,0 +1,1 @@
+program aB : rIP : takes c, i3 : integer; o49 : boolean; l1, J, C : boolean returns nothing while - false : input V6; let Fbq0a = 464; when case 1 : chillax end end; pop; output ""; while 0 : pop end; let d = 31 end main : Q : boolean array; let Jcg[true / not true] = - false rem(39) - (44) and 26 = r or 37 - 1; output "" . "\""; pop - 1 - 3 end

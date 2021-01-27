@@ -1,0 +1,1 @@
+program g : JN : takes so7a : integer array returns boolean array A5A : boolean; chillax end H : takes Fdw : integer array returns nothing chillax end main : while false < - _h20(0) and(06) and 4490 - not 42 and 9 : let AE7[146 - 8] = 36 = 6070 end end

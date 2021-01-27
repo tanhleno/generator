@@ -1,0 +1,1 @@
+program m : V : takes m, c4 : integer array returns boolean array jh, P8 : integer array; chillax end main : C62 : integer; when case - l and 3 < true / not 34 + false and 56 : chillax end case - RCX * true + false <= not 9 and 5 : output 30 . "\\" end; let d9 = array - 4790 * false and 3 or Y and 5 end

@@ -1,0 +1,1 @@
+program v04 : vJ4a : takes re : integer array returns nothing Q : boolean; chillax end h : takes M : boolean returns nothing Y : integer; i6 : integer array; e, F : boolean; S5ta : boolean; g : boolean; chillax end main : T : integer array; chillax end

@@ -1,0 +1,1 @@
+program BX : main : when case v5[93100] and true / Q + not(77) * false or 1 and 2 < - not false / false and 8 - 5 or 60 - 83 : output "\t;\"a" end case true : pop 5; while 6 : chillax end; output "U" end case - true and 7670 : pop; do b(4) end end

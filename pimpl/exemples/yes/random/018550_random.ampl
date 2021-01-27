@@ -1,0 +1,1 @@
+program oT : D : takes i, v : boolean; I : integer returns nothing J, F4, H : boolean array; chillax end main : while - true or false <= false and false - true and 7 or 3160 - 3 : chillax end; while false * 2 + p4L - 11 - 7 : chillax end; do u(7 and 2380 - 924 - 23900, - 5 - 0 > 6110) end

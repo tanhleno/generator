@@ -1,0 +1,1 @@
+program D : p : takes q, u : integer returns integer X : boolean; when case c and 66500 >= 37 - 776 : output ""; while 3 : chillax end end otherwise : chillax end; input D; output "" . "" . "\nG0" end main : while - true <= - BE5a rem false and 32 : chillax end end

@@ -1,0 +1,1 @@
+program K : C2 : takes xC60a : integer returns boolean array pop; while 1 >= 0 : let E = 01000; let M11 = 5 end; output 0 . 2 . ""; output ""; input Q end main : input X; do B(- (13000) or 5 >= - true or 5 - 11600, 2 and 2); while - (3860) and 0 or 93 - 3 : pop end end

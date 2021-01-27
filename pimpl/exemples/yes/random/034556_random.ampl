@@ -1,0 +1,1 @@
+program o : x : takes xg7 : boolean; bcM, k0Gaa : boolean array returns nothing chillax end e2 : takes R : integer array returns nothing L, Y9 : integer array; let u[- 604] = 537 = 5; when case 4 : chillax end otherwise : pop end; do o(36100) end main : WU : boolean array; chillax end

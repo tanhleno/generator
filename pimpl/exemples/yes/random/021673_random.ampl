@@ -1,0 +1,1 @@
+program d : A : takes l, T08 : boolean array returns integer d6a0, O : integer array; GF, O : integer array; chillax end V5 : takes V : boolean returns integer array input U[6 - 1] end main : chillax end

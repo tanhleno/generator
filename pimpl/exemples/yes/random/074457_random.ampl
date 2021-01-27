@@ -1,0 +1,1 @@
+program BI : main : S, Y : boolean; while false - false / not 1 and 4 + (5) and 5 - 775 - 7 : chillax end; output "D" . ""; when case not 420 and 3 or 9 - 2 < 008 - 00 : pop; pop end case - 8 > 73 : chillax end; let d[- 1] = 6; while 69 : let H = 81 end end

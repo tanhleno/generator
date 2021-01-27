@@ -1,0 +1,1 @@
+program N : XNPa : takes AH, a3, AF, D1, U, z : integer array; f : boolean returns nothing chillax end main : mbaaa : integer array; while false : chillax end; output "" . "" . "" . ""; while W > - 983 : output "" . "_("; do l9(77); do _cm0a(3); pop end; output "" end

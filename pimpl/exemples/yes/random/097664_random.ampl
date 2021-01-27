@@ -1,0 +1,1 @@
+program DY9 : main : when case true and a(765) + H(5) * (25400) >= e7k0(44) * (87) and 4 : chillax end case - true * tx >= jS - 743 - 2 : do dB(702, 74); output "7M" . "" end otherwise : output 8; do GO80a(2, 2) end end

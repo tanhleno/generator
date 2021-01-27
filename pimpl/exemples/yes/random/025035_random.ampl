@@ -1,0 +1,1 @@
+program z : I : takes sZ, UI9aa : integer; _, h2, f2, JkV : boolean array; I, e : boolean; Cn, u3 : boolean array; g1, C : boolean array returns integer array f810, H24, D, e : integer array; pop end main : F2 : integer array; chillax end

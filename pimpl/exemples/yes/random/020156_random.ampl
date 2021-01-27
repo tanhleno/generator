@@ -1,0 +1,1 @@
+program a : Fo4aa : takes K7, f : boolean array; WM_a : boolean returns integer kzw, Pw, L, y : boolean array; when case true or 4 - 0 : chillax end otherwise : when case 32 : chillax end; do z(397) end; do P(3 - 65, 6, 9, 2) end main : A5w, H, q4 : integer; m, v : integer; H : integer array; output "" . - true + 02 /= 663 . 1 end

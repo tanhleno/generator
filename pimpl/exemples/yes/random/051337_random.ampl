@@ -1,0 +1,1 @@
+program gQ20 : o3 : takes l : integer; a : boolean; g, m, s61, V1 : integer; g : boolean array; e4Fa : boolean array returns nothing K : boolean; chillax end main : pz, H, Qp : boolean; d1 : boolean array; when case B2na(5, 1) / 1 + (2950) or(6) and 50 - 26 - 39300 < false : chillax end; pop end

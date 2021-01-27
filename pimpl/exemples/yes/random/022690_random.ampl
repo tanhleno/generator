@@ -1,0 +1,1 @@
+program jk5 : Q : takes U, xd : boolean array returns nothing let Q[true and 7470] = array - 8 or 27 - 7 end R9 : takes a1Na : integer array; A : integer; Rz : boolean array; p : integer returns boolean array V4, v1Q : integer array; chillax end main : input oq7 end

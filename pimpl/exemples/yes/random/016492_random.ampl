@@ -1,0 +1,1 @@
+program e57 : F6 : takes Q85, h4, m : integer returns nothing p : integer array; LN : boolean array; when case false and 81 or 3 - 0390 < 09 - 971 : chillax end otherwise : chillax end end main : m3q0 : integer array; fbza : integer array; duE : integer; output - N54a(0) > - 9 and 3 . false - 11; let fB9[false - (1)] = array - not not 7280 + R - 4 - 19 end

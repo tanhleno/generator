@@ -1,0 +1,1 @@
+program W : u6 : takes M : boolean array returns integer array G, W : boolean array; A4 : boolean array; output "9"; when case - 95 < 33 : chillax end end main : M, j : boolean array; input JF4; output - not 2 and 4 + 5 = - 40; when case - true : chillax end case 1 < 1 : chillax end case 182 = 25 : chillax end case 321 : chillax end case 783 : chillax end end

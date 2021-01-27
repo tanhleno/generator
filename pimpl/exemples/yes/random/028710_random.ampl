@@ -1,0 +1,1 @@
+program S : pd : takes DC, N4 : integer array; Q : integer; F2, I24 : integer returns nothing input Qj2 end w : takes Vj : boolean array; Z4 : boolean array returns nothing chillax end main : w : boolean; chillax end

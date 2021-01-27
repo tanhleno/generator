@@ -1,0 +1,1 @@
+program g : W6u : takes jF, aE_aa, i, oDKaa, H1, j, o0, g : boolean returns integer array w : boolean; E : integer; chillax end z : takes W, v1, u : boolean returns integer array input N51 end main : when case false > (06) : chillax end; do tg(- NoP0(1) rem(76000) and 66100 /= - (25) and 69, 0); do B6(Xx - 3 >= 1 - 1, 1 > 681, 04800 = 69); output "" . "" end

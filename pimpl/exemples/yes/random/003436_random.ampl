@@ -1,0 +1,1 @@
+program w79 : f : takes v7, fR, K9, f, i : integer array; VAs, DdV0, Un : integer array returns integer chillax end _tOa : takes K : boolean; Q : integer returns boolean j1 : integer; L : boolean; chillax end u1 : takes P : boolean array; w : integer; JJUa : integer array returns nothing c, PD, pd : boolean array; while 6 : let jDf0a = 77 end end main : chillax end

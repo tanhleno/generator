@@ -1,0 +1,1 @@
+program f : CF : takes L09 : integer; l7, t, N, L6, f : integer array returns nothing chillax end main : p : integer; h : integer array; R98 : boolean; R, e3, b5o0a : boolean array; S4N0a, H, h63 : boolean array; c1 : boolean; while 61 rem false * false and 08 = - false : chillax end end

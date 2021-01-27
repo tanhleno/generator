@@ -1,0 +1,1 @@
+program B : main : P6d0a, CD40, k9 : boolean array; DQ, I : boolean; Y8 : integer; when case C350a and not true or 1 >= - false + true : when case - 2 < 7 : do A(28); while 8 : chillax end end end case - not LQ * 487 : chillax end; let JPta[true and t or false] = Ur7 or 8 - 3390; input E[(0) and 3 - 8] end

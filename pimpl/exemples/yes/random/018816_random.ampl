@@ -1,0 +1,1 @@
+program i : C : takes W, U : boolean array; A, V, uteaa, T : integer array returns nothing chillax end d : takes I1 : integer returns nothing W : boolean array; chillax end main : input N6[- not(3)]; let i = array 07 / 43300 or X and 03; input _m[- false and 0]; pop 8 = 8; do ol(63 = 4, 6, 2) end

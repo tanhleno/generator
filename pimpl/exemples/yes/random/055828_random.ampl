@@ -1,0 +1,1 @@
+program G : O50 : takes W1 : integer array; Cp : boolean array; WAC, P2 : integer array returns boolean do _(- (49) and 3 or 8 = - 191 - 141, - 8 > 7, 98800 = 47); input J[1 - 0] end main : _ : integer array; chillax end

@@ -1,0 +1,1 @@
+program v : _ : takes Q7q : boolean; B470 : integer array returns nothing w6 : boolean; Q6 : boolean; A6 : integer array; let G1[(7) and 933 or 4] = array true and 8 or 38 end main : x, E990 : boolean array; nZ, oKS0 : integer array; output - not(55200) + (80) and 0 - 7 - 9 < - true and 3 - 9 . "%" . "" end

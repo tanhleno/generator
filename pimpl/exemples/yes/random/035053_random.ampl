@@ -1,0 +1,1 @@
+program K : Hm1 : takes Y : boolean; Z2, wi : integer array returns boolean output "" end main : j, V4 : boolean array; let w1x[- true rem false + e * not 5 and 2630 + 4800] = array(6) and(7); input l; while - (4) = 9 - 7 : chillax end; let m2[- 805] = 1 = 3 end

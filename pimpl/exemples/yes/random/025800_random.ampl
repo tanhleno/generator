@@ -1,0 +1,1 @@
+program X : u5 : takes M, h : integer; H, EI40 : integer array; F, r : integer array returns integer array let Ldbaa[46] = array - NTbaa and 379; let r[- 97] = 3 = 5; do W(401 = 061); let _ = array 2 end main : chillax end

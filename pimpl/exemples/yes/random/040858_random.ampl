@@ -1,0 +1,1 @@
+program MOH0 : t : takes h9q : boolean array; O : integer array; t : boolean array; T, d_Q, u_4 : boolean array; _Sma, ud8aa, J, h : integer; S : integer; C, n9 : boolean returns nothing do V(false) end main : pop - not true * false - LI3 and 89000 end

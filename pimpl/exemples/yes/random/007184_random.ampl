@@ -1,0 +1,1 @@
+program h : F : takes NH, u, I67, J : integer array; Hn7aa : boolean array returns nothing E5N : boolean array; TLZ, N : boolean; output "" . "\t" . "30" end main : _60 : boolean; I : integer array; s : integer; pop end

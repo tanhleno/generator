@@ -1,0 +1,1 @@
+program WN : main : zn : boolean; i2V, K0Q0a, pj9aa : boolean; w9J : boolean array; D, o8, W7 : boolean; pop - (1) / (4) and 99200; while - 2 < false and 1 - 79 - 21 : pop 65400; let g6 = 670; when case 99 : chillax end end; input G end

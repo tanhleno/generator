@@ -1,0 +1,1 @@
+program N6 : M : takes C5 : boolean; U6G : boolean; Jm : boolean array; R : integer array returns nothing chillax end main : D21, Q, q : integer array; L, Q, Y, u, dA2, _8 : boolean; let k[- (73000)] = true >= - (50) + 13100 end

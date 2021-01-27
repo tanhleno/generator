@@ -1,0 +1,1 @@
+program I : rn : takes Gq20a, OcNa, O5, h, P, G, X, uhc0 : integer array returns boolean array chillax end main : p, sk : boolean array; dt : integer array; let M[- false * (3)] = array u or 757 rem x and 7 + (3) and 077 + 5 end

@@ -1,0 +1,1 @@
+program E : a : takes N : boolean array returns nothing chillax end main : w : boolean array; when case true : chillax end case - not 7 rem false and 524 + not 4 and 6 + 0 <= (81) and 08 : chillax end end

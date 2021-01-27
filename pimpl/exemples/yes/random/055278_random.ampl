@@ -1,0 +1,1 @@
+program c : v : takes l : integer array; l, d : integer array returns nothing Q5 : integer array; e : integer; fF : integer array; o : boolean; Y15a : boolean; output "\""; input P99[851] end main : chillax end

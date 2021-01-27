@@ -1,0 +1,1 @@
+program M70aa : main : rK0 : boolean; N : integer array; g, K, d7 : integer; Q : integer array; R, I31aa : boolean; q : boolean; H7 : boolean; f : boolean; when case true - 66 and 9 and 0740 >= - Y[0850] + not 4 or 3 - 4 : chillax end otherwise : let S[5] = array 0 end end

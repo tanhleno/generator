@@ -1,0 +1,1 @@
+program r : sFa : takes d, u : boolean array; r : integer array returns nothing do e(true and 2 or 64 < - 15, - 9 - 7730, 4); pop 10 = 7 end q : takes A28a, mG : boolean array; g : boolean array returns nothing chillax end main : h5 : boolean array; J73 : boolean array; r : boolean array; c, R : integer; when case - L or u(055) + not 68 and 077 <= 9 : chillax end end

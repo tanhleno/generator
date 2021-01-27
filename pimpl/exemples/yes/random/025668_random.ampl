@@ -1,0 +1,1 @@
+program y : w5 : takes Z0x, _ : integer; p, Q4 : boolean returns nothing p : boolean; T : integer; w : integer array; pop 15 - 9 < 16700 end oPW : takes a73, lk4aa : boolean; N : integer array; L7, w : boolean array; W7d, Z : boolean array returns integer GOy0, Qn, Y : boolean array; chillax end main : Z820, K, X6, n2 : integer array; chillax end

@@ -1,0 +1,1 @@
+program B7 : r0 : takes s8 : integer array; Y6, E, H1k : integer; h, N, O : integer returns nothing chillax end wN : takes f, E, L : integer returns nothing while 04 : when case 14900 : chillax end; output "s" end end G : takes Q96aa : boolean array returns integer J : boolean array; chillax end main : Mx, by : integer array; chillax end

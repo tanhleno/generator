@@ -1,0 +1,1 @@
+program A : main : output "" . false - 829 > - 40 . "" . 37300 . "" . "y\n" . ""; when case 8 and true and 4 <= not 4 and 262 - 05300 - 810 : input H[39]; do c(146, 6) end case - not 76 and 4 /= - 29 : while 85 : chillax end; while 0 : chillax end end case 4 - 774 >= 0 : input b3; input d; pop end case 9690 = 8 : chillax end otherwise : let O7s[5] = 266 end end

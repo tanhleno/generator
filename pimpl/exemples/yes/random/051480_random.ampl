@@ -1,0 +1,1 @@
+program Px : J6qaa : takes h : integer; wf : boolean; U : boolean array returns nothing chillax end main : when case - not(5) * false rem not 33 : chillax end otherwise : chillax end; let s = - not 49 end

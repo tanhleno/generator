@@ -1,0 +1,1 @@
+program r2 : E : takes N, S, pg, I, m6 : boolean; H : boolean array; l2M0, C, F, j : integer array; E, t, Nr, qGx0 : integer returns nothing x, O : integer; YER, A3F, GV7, G4 : integer; do qj((7) and 1 or 72 /= - 4560); let V[31400] = 46; let k[328] = array 6 end main : M, x, r : integer; chillax end

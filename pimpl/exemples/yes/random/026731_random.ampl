@@ -1,0 +1,1 @@
+program Wn : z : takes f3, j : integer; s : integer array; n : integer returns boolean array t8, G, f, D7 : boolean array; do Z(not 01 and 966 > 10) end c5 : takes G : integer array; M : boolean returns boolean I, za, C2 : boolean; let H[71] = array - 56; while 05 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program H : main : let kU[- 64 / (020)] = array(1) / false * (39) + (687) - true; when case z[11] / B and 3 : chillax end otherwise : let V0H[9] = 85 end; do C((3) and 0 > - 2, - 159, 93, 11); while 810 - 2 = 551 : chillax end; while 908 : chillax end; do L(49); output "\\" end

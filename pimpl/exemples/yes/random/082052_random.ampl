@@ -1,0 +1,1 @@
+program l : main : khR0a : boolean array; q : integer array; J5, u, WJ8aa, g, Y8 : integer array; do Z(- (7) or not true * not 77 or not 3 and 962, false rem not 01 and 8 <= k7 and 772 - 4 - 19, false or 6 - 45 > 3 - 84700); input J[true - not 98 and 6 or 0770 - 8] end

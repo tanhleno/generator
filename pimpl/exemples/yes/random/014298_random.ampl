@@ -1,0 +1,1 @@
+program R : H : takes k, H, J1D : integer array; I56 : boolean array returns nothing do b(true, - 19 - 2) end main : while r2(98) - true / P and 1 + true + 20 = not uMu and not 3 or 1 and 062 + 6 - 9 : chillax end end

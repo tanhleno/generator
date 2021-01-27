@@ -1,0 +1,1 @@
+program h : K : takes L2qa, P, T : boolean array; R : boolean array; j : integer array returns nothing chillax end pe1 : takes P, GA : boolean array returns nothing output "" . "J" . 8; do u1saa(90); input l[7] end main : chillax end

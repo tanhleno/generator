@@ -1,0 +1,1 @@
+program YY : B3 : takes V6T0a, cx : boolean array returns nothing lU, ylX0 : boolean array; when case - false and 57 : while 6 : pop end end otherwise : chillax end end main : G, X6, t, n, Gn : boolean array; input v[- (5 = 45800)] end

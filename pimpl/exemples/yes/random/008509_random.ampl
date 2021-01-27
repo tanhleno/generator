@@ -1,0 +1,1 @@
+program r020 : y62 : takes p, Mj, OOpa : boolean; v, _, nG, d : boolean array returns integer array s : integer; Ju : boolean array; chillax end D : takes S : integer array; jA, z, _ : integer array returns integer array L3 : integer; chillax end main : _4 : integer array; oK4a, VHE : boolean; Be8a, Jt6a : boolean array; chillax end

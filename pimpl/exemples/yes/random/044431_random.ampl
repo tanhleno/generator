@@ -1,0 +1,1 @@
+program n29a : j0faa : takes A5Maa : boolean array returns nothing a77 : boolean; chillax end main : e, a55 : integer; do I(true - true /= - (99), - true rem(2) and 5 or true); while true rem true or false + 78 /= false and 757 : while 4390 = 3 : pop end; output "\n5" . "" end; while(0130) and 5 : chillax end end

@@ -1,0 +1,1 @@
+program r8Ya : R : takes Kq, J : boolean; F : boolean array; ly, d : integer; X, G, LK3 : boolean array returns integer array do hc(- true and 0 + 3 - 2680 >= - 88 - 1) end L : takes W : boolean array returns nothing output "7" . 1 . 71 . "" end main : chillax end

@@ -1,0 +1,1 @@
+program h2Ja : gK1 : takes p : integer array returns integer chillax end Z : takes q : integer array; W, d5 : integer returns boolean array while - 9 - 4 >= 16 : while 00 : chillax end; do X(3) end end main : K7 : boolean array; pop - false and(5) + false = - not 0 and 92 end

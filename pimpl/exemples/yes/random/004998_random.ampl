@@ -1,0 +1,1 @@
+program lr : u5 : takes L, KP2a, Z, FKZ : boolean array; uS : boolean; x, ds : boolean array; e : boolean; c0 : boolean array; K, Y, b : boolean returns boolean coz : boolean; output 1 = 8; do dc60(19, 4, 107) end main : jr : boolean; C : boolean array; chillax end

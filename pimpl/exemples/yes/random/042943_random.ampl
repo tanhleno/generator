@@ -1,0 +1,1 @@
+program T08 : O : takes v : boolean array returns integer chillax end r : takes N1 : boolean array returns nothing H : boolean; v : boolean; do f7(- 990 /= 9); while 89 : chillax end end main : I : integer; xJ5a, o5 : boolean array; let SR1a = array - (29 = 9) / not J / (1) + not f7d end

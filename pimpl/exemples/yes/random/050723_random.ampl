@@ -1,0 +1,1 @@
+program W : D : takes Aw : integer; I, O : boolean returns integer n3 : integer; tG3a, v, Cz9 : boolean array; chillax end main : n7d, k, q, f, j : boolean array; do ZX(5 - Z[1] / (9900)); output "" . 71800 . 7670 = 88; output "\\j" end

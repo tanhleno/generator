@@ -1,0 +1,1 @@
+program e : liq : takes q46aa, F, q, x590 : integer array; Fu : integer array; C : boolean array returns nothing _5 : integer array; q : integer; input k[true and 5270 - 2180] end main : agf0 : integer array; chillax end

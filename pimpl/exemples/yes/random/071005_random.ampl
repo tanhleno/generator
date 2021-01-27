@@ -1,0 +1,1 @@
+program v : main : U, Wv1a, h3 : boolean; CD : boolean array; d, F, UV : boolean array; i : integer; output true >= not 9 or 0180 - 3; while true + 9 and 3 - 6 - 0 >= true and 3 - 9 : chillax end end

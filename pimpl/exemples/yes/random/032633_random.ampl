@@ -1,0 +1,1 @@
+program p : eX40 : takes A, d : integer returns nothing D, ZM5 : boolean array; K5 : integer array; chillax end main : o : integer array; y1W : boolean array; F, rc, aU, e2, Sgoaa : boolean; chillax end

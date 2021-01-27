@@ -1,0 +1,1 @@
+program G : Hr2 : takes M0z0 : boolean array; j : boolean array; x5 : integer; _2Iaa, o : integer returns nothing chillax end main : G8, D5 : boolean array; pop z(436) - W23 or 9 - 3 /= - not 68 and 6670; pop - true - 8170 - 3; do QGo0a(- (46) + 809 - 28 >= 4) end

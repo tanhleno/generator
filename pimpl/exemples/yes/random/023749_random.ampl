@@ -1,0 +1,1 @@
+program g : Y : takes N, ly00 : boolean returns integer s : boolean; LI, J8 : boolean array; Kt : integer array; B : boolean; chillax end main : when case - not false * 0 rem true + not(1) rem false - false and 0 - 2 <= - true / false and 8 or false and 7 + 37000 : chillax end otherwise : chillax end end

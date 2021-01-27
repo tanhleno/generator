@@ -1,0 +1,1 @@
+program T : J : takes E : boolean returns integer Z : integer array; pop; input O_; do X(2, 70200, 11); when case 33 : pop end otherwise : chillax end end r : takes Wb, fk7 : integer returns nothing X79a, V : integer; when case 92 = 2 : input d4S end case 8 = 8 : while 9 : chillax end; pop end end main : do bukaa((15800) < not(8550) - 1 and 948 + 17800) end

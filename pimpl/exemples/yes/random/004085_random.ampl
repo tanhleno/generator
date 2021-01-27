@@ -1,0 +1,1 @@
+program d : Y_X : takes j, g03, J, s, A : integer returns nothing a0X, F5v, m77, O, w : boolean array; I, W_S : integer; pop 75300 >= 2520; while - 19 : chillax end; input Km end main : when case - false or s05 and 79600 + false or 500 < 79 / false and 96 - (3) and 65500 or 97 - 45 : pop 7 end case a / not 0 : chillax end; output 2 - 42 - 9 end

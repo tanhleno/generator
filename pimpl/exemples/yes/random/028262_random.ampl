@@ -1,0 +1,1 @@
+program Gsr0a : r5y : takes R, qC7 : integer array; W : boolean array; K3, H : boolean array; j3 : boolean array returns nothing do Y(- not 5 and 003 - 52 - 270 <= - 656 - 5, 6310 - 43, 714 = 5); let s = 6 end c : takes v : integer array returns boolean output "H\\" end I : takes P : integer returns boolean chillax end main : chillax end

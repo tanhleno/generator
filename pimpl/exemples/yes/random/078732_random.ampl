@@ -1,0 +1,1 @@
+program Y : main : k1Q : boolean; g1, i59, k : integer array; S : boolean array; when case - (2) / (9) + I(2) * 47 or not 2 and 5 + 5 - 4 >= 092 * F : chillax end case - M21(6) or false and 1 > - true + 3 - 73 : let w[8] = 266 end; when case - (10) rem not 5 + T5 and 542 - 9 > true : let i[1] = array 04 end otherwise : input H[9] end end

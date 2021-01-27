@@ -1,0 +1,1 @@
+program Y : P : takes a, d7 : integer; S9 : integer; hx, cO : boolean array returns integer Ail, d : integer; y : integer; chillax end main : s2, r2, z, j7, f : boolean; M, i2Ba, j, W9, G, j : boolean array; l3, yd, Z : integer; input S[- (28700 = 0) + (32000)]; when case false : when case 4950 : chillax end end end

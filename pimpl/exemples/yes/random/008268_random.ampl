@@ -1,0 +1,1 @@
+program bK : ph2 : takes wZ2aa, f, W, S0 : integer returns nothing U, u9 : boolean array; Fb, o, n, o33 : boolean; chillax end l : takes EQ, h, FP : boolean array returns nothing do G(- 1); output ""; pop; do m(00) end main : N, r, iesa, t, ic : boolean; chillax end

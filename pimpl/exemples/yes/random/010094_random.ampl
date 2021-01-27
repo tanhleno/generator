@@ -1,0 +1,1 @@
+program vR9 : E : takes z, G3, c : boolean array; n : boolean array; R9f : integer array; fH : boolean; r, Y7D : integer array returns nothing dM3a, o : boolean; Jg8, p8 : integer; chillax end main : k5 : boolean; output r2[3650] rem(2) and 8070 . 887 and 97 end

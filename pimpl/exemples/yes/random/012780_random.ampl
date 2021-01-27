@@ -1,0 +1,1 @@
+program _41aa : R : takes Je, SM, H : integer; f, qH, i : integer array returns integer array while not 1 - 1 - 186 : do Fj20(1); do _8(71); do J(8); pop end end main : M : integer array; chillax end

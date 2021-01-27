@@ -1,0 +1,1 @@
+program p02 : e : takes Ea : integer returns integer array chillax end main : O3 : integer; do Gu(- 1 * 93 > - true); pop(09) and 399 or 28 < - 1 - 52; let v[S and 338] = array - not 0 and 6; input t3[61 - 5] end

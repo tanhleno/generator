@@ -1,0 +1,1 @@
+program vR : k : takes B, M, P, kW90a, Wzs0a : boolean array; X : integer returns boolean array vm : boolean array; chillax end main : RR30a : integer array; do q1D(- 1 or false + twu0 and 5 - 4) end

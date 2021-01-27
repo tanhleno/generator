@@ -1,0 +1,1 @@
+program h : gV : takes jq, R3 : boolean; Z : boolean; H1 : integer returns nothing let V[not 613 and 6 + 2] = - 854 = 2 end u0 : takes i2 : boolean; O : boolean array; E0U : integer; BeXaa : boolean array returns nothing chillax end main : c : integer; l : boolean array; chillax end

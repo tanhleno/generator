@@ -1,0 +1,1 @@
+program g3P : y9R0a : takes t24, l, SKV, C8M, F42aa, g, Gg8aa : integer array returns nothing l84a : integer array; Fe4, Y60a, vB, e8_ : boolean array; jC : integer array; K, P : boolean; chillax end main : chillax end

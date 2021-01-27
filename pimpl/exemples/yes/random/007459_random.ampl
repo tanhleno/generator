@@ -1,0 +1,1 @@
+program xS : n : takes r, P, s, Ew1 : integer array returns boolean g, WD, zp : integer array; when case false < 4430 : pop 60 end; let sn[1] = 0; let Y = array 610; let cB = array 93; when case 80900 : chillax end end main : UV3 : boolean array; chillax end

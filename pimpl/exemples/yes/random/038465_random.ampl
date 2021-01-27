@@ -1,0 +1,1 @@
+program Q : x : takes _x1aa : boolean array; v4, n05 : boolean; t980, K9, R : boolean; M0o : integer array returns nothing chillax end main : l, jx, s5c0a, S7 : boolean array; o4, Fma0 : boolean array; r, v, l3 : integer; while - false and 8 >= - L[1] / (76) : let h[10] = 869 = 3 end; input Il[NN(26)] end

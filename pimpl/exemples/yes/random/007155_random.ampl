@@ -1,0 +1,1 @@
+program X : W : takes b, e, W5Y, m2Ba : integer array; N32 : boolean array; t4l0a : integer array returns nothing chillax end main : z : boolean array; hq70a, r3, f, F, c, c : integer; M : boolean; do g(true / true and true and 99 >= - V02(4), - not false, false = - 5); let v = array - true / (4000) and 0; output "1\"" end

@@ -1,0 +1,1 @@
+program n : kWi0 : takes G, L : boolean array; S : integer array; ZJNa, k : boolean array; V6 : integer; dN : integer returns nothing w : boolean array; sM : integer array; wf, g : boolean array; while - true + 61 : let N[0] = array 0 end end main : y : boolean; h : boolean; output "" . "5"; when case not 44 / L2 and 9 : chillax end case - 8 : let M[89] = array 0 end; input G end

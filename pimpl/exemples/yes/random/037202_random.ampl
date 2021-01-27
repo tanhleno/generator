@@ -1,0 +1,1 @@
+program f : r : takes O0 : boolean; g : integer returns boolean array f : integer; when case I /= - 85 - 1970 : chillax end case 4230 > 8 : chillax end otherwise : do e(79) end; output "" . 88 . "" end main : za, S370, Mt : boolean array; n : boolean; chillax end

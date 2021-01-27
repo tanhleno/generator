@@ -1,0 +1,1 @@
+program r : f08a : takes FU : integer returns boolean array chillax end _ : takes A, s : boolean array returns nothing output "" . 9 . ""; output ""; when case 82 : pop end; input U; let u = 5; pop end main : X : integer; when case false : chillax end case(4) / 1 - 0 and 82 < - R : output "~" . "" end; do W(- 71 or 777, - true and 6 or 5 - 1350); do i((88) and 9 or 061 - 3) end

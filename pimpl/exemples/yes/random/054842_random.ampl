@@ -1,0 +1,1 @@
+program Et : LY : takes x : integer array; P4, _ : boolean returns nothing chillax end U : takes lP6 : integer array; JO3 : boolean array returns nothing r : boolean; pop 8560 end main : let I[- f[8] rem 2 * k6 or 820] = array(705 = 5) - 1 end

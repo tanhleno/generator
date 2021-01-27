@@ -1,0 +1,1 @@
+program f1 : o : takes M, t6, NT : boolean returns nothing chillax end main : while - true + not true rem not 51 or not 01 and 83 - 8 - 83400 : while 3 /= 653 : when case 6490 : chillax end end end end

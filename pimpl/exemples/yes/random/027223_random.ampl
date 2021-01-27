@@ -1,0 +1,1 @@
+program N : AS : takes w, Qb : integer array; R, z, O, gUy0a : boolean returns nothing chillax end main : um, F : integer array; V, Q, gr : integer; enDa, yen, k5V : integer array; a : integer; output ""; while(762) < - true : while 5 = 2 : chillax end; while 484 : pop end end end

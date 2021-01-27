@@ -1,0 +1,1 @@
+program g49 : x29 : takes _, H : integer array; pv40a, ReO0a : integer; Q, P0, l, x, I : boolean array; a, F : integer array; z : boolean array returns nothing u6, O : boolean array; chillax end TB2 : takes a62aa, u : integer returns nothing w, D5 : integer; chillax end main : chillax end

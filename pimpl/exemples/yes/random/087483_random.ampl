@@ -1,0 +1,1 @@
+program c7Q0a : main : D84 : integer array; when case - (557) + true < - false and(8) and 6940 + false and 5 : pop 930; let J = 2100; pop end otherwise : input Jg[67]; when case 56 : chillax end otherwise : chillax end end; while not true rem not 7 and 53 <= - (54) : chillax end end

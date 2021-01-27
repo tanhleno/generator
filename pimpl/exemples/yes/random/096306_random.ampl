@@ -1,0 +1,1 @@
+program Y92 : main : when case - not true / true * not 6 and 9 : pop; while 0 : when case 58 : chillax end; pop end; pop 2; while 332 : chillax end; while 10 : chillax end; pop end otherwise : do U(0710, 79); while 27 : pop end; pop; when case 1 : chillax end; pop end; when case(458) : chillax end case(5) - 29 - 1 : chillax end otherwise : chillax end end

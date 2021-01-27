@@ -1,0 +1,1 @@
+program lHG : cNuaa : takes f, x : boolean; Q96a : boolean; I : integer returns integer array X, o52 : integer; IA80, Chh, tG, F : integer array; T, G, E45 : integer; do P(9 + 4110 - 83) end P : takes b, r4, t : boolean array; yp0, L13aa : boolean array returns nothing chillax end main : chillax end

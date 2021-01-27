@@ -1,0 +1,1 @@
+program R7_aa : a : takes K : integer; q9 : integer array returns nothing let K = array true and 4 or 695; do e9(- 5 - 56, 08) end G52 : takes N1 : integer; y5Q0a, x : boolean returns integer array chillax end main : output - not(99); output "" . "P"; input c; output 9 end

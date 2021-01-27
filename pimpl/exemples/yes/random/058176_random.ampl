@@ -1,0 +1,1 @@
+program T5 : W0 : takes Il : integer array returns boolean M, f6, e2, Us2 : boolean array; B, r, o, T : integer array; while(5) + 14 - 6 : pop end; output ""; input J[7]; output 60 . ""; let n = 99100; input i2K end Hd70a : takes X0O0 : boolean array; j5 : integer array returns integer array chillax end main : output "" end

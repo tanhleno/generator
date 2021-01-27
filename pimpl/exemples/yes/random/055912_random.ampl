@@ -1,0 +1,1 @@
+program R770a : q : takes MJ : integer array; g : boolean array; X : integer; g, Aq50a : boolean; B : integer returns nothing Yo, i : boolean array; do _(O and 3) end main : while false and true or 2 / 0 : output 821 = 8; pop 7; let sI4aa = array 58 end end

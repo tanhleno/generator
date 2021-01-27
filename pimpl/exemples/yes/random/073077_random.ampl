@@ -1,0 +1,1 @@
+program Q : main : R3, xt, Z6 : integer array; let uM[(19 = 0)] = false or false; while - V(1) rem not 4 and 2040 or not 94 and 3 : chillax end; output - 3 . "4"; when case - 21700 >= 0780 : do x6E(3030); let F = 0; pop end case 4 = 1 : chillax end case 12 : chillax end case 10 : chillax end end

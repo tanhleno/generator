@@ -1,0 +1,1 @@
+program Y : Ya : takes V, o : integer array; S : boolean array returns boolean chillax end main : when case - not(08) /= - false : chillax end case - false and true and 9 or not 5 and 223 - 4 >= (23500) : chillax end case true or 1 : chillax end end

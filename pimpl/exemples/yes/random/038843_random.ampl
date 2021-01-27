@@ -1,0 +1,1 @@
+program n67 : UR00 : takes H7 : boolean array; D4, R : boolean returns boolean array chillax end main : C9, U : integer array; input b; let p480 = - qfs0 and 65; while - 239 and 9 or 5440 - 2 : chillax end; while - 9 - 69 : chillax end end

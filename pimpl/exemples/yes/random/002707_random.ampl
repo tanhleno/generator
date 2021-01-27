@@ -1,0 +1,1 @@
+program BK : E : takes P, X, C0M, p, a : boolean array returns integer array let CO1 = - 1 > 7; pop end main : F82 : boolean; i, d86, A6xa : boolean array; Mv, h : boolean; when case true rem not(5) rem 608 and 1 - false and false or(0) : chillax end otherwise : do J5J0a(9 = 00, 4) end end

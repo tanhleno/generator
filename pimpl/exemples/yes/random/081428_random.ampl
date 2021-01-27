@@ -1,0 +1,1 @@
+program H6o : main : ed1 : boolean array; K, SuM0a : integer array; L, n6F0a, nQ6 : boolean array; s : boolean array; VhZ, UV1aa, p0 : boolean; pop; do s4F(- false - false - 23); let L910a = array - false and 8; when case 9 - 203 >= 6620 : output "\\" end otherwise : chillax end; pop 0; when case 1 : chillax end; when case 85 : chillax end; do eK0(3); pop end

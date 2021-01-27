@@ -1,0 +1,1 @@
+program G : CX : takes uy2, g, y : boolean returns boolean when case - B or 42 > 8 : chillax end case 9 > 625 : input s1; when case 8810 : chillax end; pop end case 07 : chillax end end Q92a : takes o, y32 : integer returns nothing I : boolean array; pop; pop 9 end _7U0a : takes F : boolean returns nothing chillax end main : chillax end

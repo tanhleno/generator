@@ -1,0 +1,1 @@
+program Y1 : main : pop - (4) or E7 and 532 + 0080 /= x5 and 6 + 4; when case not(6) / (3) + d and 4 + 5370 <= false and 98 + 8 - 8 : chillax end case true or 560 >= 0 - 40400 : output 941 . "800"; output "1\"0" end case 94 - 11 : chillax end case 5 = 3 : chillax end; pop; do _(6 - 2 < 6) end

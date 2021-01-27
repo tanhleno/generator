@@ -1,0 +1,1 @@
+program w7I : p : takes oL : boolean returns nothing W7, l : boolean; chillax end main : input p[- false / false - not 7 - (52)]; when case true and false and 001 >= - (72) and 4 + 50 - 545 : chillax end case not 8 + 4 : chillax end case - 06 : chillax end end

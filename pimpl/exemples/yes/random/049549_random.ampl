@@ -1,0 +1,1 @@
+program f : B : takes h00 : integer; f, k0I0a, w_S, B0 : boolean array; SF : boolean returns nothing N : integer array; let t = array 3 end m3 : takes V, R6 : boolean array returns boolean p, r : boolean; do pES0(- 847 /= 9, 1 = 5, 2280, 678) end V2Aaa : takes V : boolean array returns nothing chillax end main : chillax end

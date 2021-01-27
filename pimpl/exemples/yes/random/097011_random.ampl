@@ -1,0 +1,1 @@
+program l6 : main : when case l[3] - 427 / not 916 + not 0 - 4 - 74 : do u(8 > 5); let F[4] = 2 end case - 9 - false and 623 : chillax end case 6 or 704 - 18 : chillax end case - 0 - 1570 = 281 : chillax end case 4 = 73200 : chillax end case 2 : pop end end

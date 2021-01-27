@@ -1,0 +1,1 @@
+program t21 : i15 : takes z, C : boolean array; K5, BO6, Cv : integer array; Gp : boolean; kI60, K : integer array returns nothing r_, v : integer array; when case(5) or 6 : chillax end case - 4 - 28300 <= 9 : let T4 = 6 end otherwise : let r = 4 end end main : chillax end

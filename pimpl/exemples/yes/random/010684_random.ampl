@@ -1,0 +1,1 @@
+program H9 : u : takes y44aa, fa, a6 : boolean array returns boolean K, D, l89aa : boolean array; when case not 81 and 272 - 34 = 64 : chillax end case 7 : chillax end end main : j : boolean array; T, g : integer; d, f : integer; p : integer array; pop - not not 6 rem not 723 and 2 or 34 or 72 end

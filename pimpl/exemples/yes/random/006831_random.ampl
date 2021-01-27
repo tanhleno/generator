@@ -1,0 +1,1 @@
+program h : MF : takes k8, u, i7, oD : integer array; B, Tl2, S, qi, R, tV : integer array returns nothing do gq((6) + 0 - 55); output "4*0" . "L!" . 5 . "E"; input pT7; do A9(90200) end main : output false rem not 23 and 137 = E and 69 . - true or 2 - 71 . "" . "}9\"a" end

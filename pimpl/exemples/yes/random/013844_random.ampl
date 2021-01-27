@@ -1,0 +1,1 @@
+program Wrx : F : takes R, o, M : integer array; A08, wa0a, W62 : integer array returns integer array F1 : integer; chillax end main : output not rB rem(993) + false and 4 + 49200 > - true . - false . - 6 - 3 . "4;" . "" end

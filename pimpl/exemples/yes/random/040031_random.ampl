@@ -1,0 +1,1 @@
+program M : M37 : takes u : boolean array; D1l : boolean array returns boolean C2, j, F, k, Q : boolean array; let f = - 6 > 5 end main : u17aa : integer; K0 : integer array; J, O, lV3, l, l : integer array; C0 : integer; B : boolean array; b, BA : boolean; s : boolean; Z : boolean; output(404) + false /= - false . true and 4 > 18 . 3 - 24500 < 8 . "%" end

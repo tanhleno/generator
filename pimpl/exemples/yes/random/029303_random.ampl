@@ -1,0 +1,1 @@
+program Y : oB : takes CT, dxc : integer array returns boolean array z, w2, p : integer; let lf[- 2 or 212] = array(06) and 25 + 73 - 439; do A690(- 9 - 0 >= 1, 18 = 5) end main : Irp0, z8, N : boolean array; O : integer array; Z : boolean; J : boolean array; In : boolean; g : boolean; input k end

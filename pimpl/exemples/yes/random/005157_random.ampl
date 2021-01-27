@@ -1,0 +1,1 @@
+program O : XW : takes w7, R, i570a, d : boolean array; U : integer array; jNUaa, h, F8, q : integer; U, H2 : boolean returns integer do w(14 and 4, 1 - 3) end main : g, r, V : integer; while - not false / not(3) rem false >= - false - false and 58900 + 9170 - 2 : output ",t\"" . ""; while 6 : chillax end; input b6aaa[5] end end

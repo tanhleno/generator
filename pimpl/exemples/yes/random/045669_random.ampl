@@ -1,0 +1,1 @@
+program U : kX : takes y44 : boolean returns boolean array d19 : boolean; u : integer array; h : boolean; chillax end f : takes e : boolean array returns nothing jFX : integer array; input Uh; let s2 = 9 end O : takes hS, l, N5Ma : boolean array returns integer S : integer; chillax end main : s : integer array; chillax end

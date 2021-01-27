@@ -1,0 +1,1 @@
+program v : oo : takes o3, c, H9, At : boolean; K, t : boolean returns nothing fdq0a : integer array; hc, VGQ : integer; when case q and 0 - 4 /= 81 : chillax end; pop end main : n : integer; let o[true - false + true - 8 - 6] = (7) + true /= true and 61; pop; when case Sz9 and 3 : output 136 . ""; let b = 38 end case 26 : do J4g(004) end case 939 : chillax end end

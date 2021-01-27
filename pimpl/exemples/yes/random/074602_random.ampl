@@ -1,0 +1,1 @@
+program A03 : main : X, l : boolean array; c, Rt2, Q, S, kt : integer array; while not true : let cfy = array 57 - 7; when case 1 : chillax end otherwise : pop end end; input P[(13800)]; let q73aa[N and 67200] = array 99 or 31; while - 4820 - 1 : output "FE"; while 3510 : chillax end end end

@@ -1,0 +1,1 @@
+program q : F0waa : takes l, U9, iN6 : integer returns integer let k = - 9 end t0 : takes Nb, O5 : boolean; F3 : boolean; j : boolean array; Y, A : integer returns boolean array output "}8a" . 6 end main : GXy, O7K0a, y7 : boolean array; g, g2, B480a, V : boolean array; input p760[- true or 9 / l and 93 or not 8 and 7] end

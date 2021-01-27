@@ -1,0 +1,1 @@
+program t : main : R7q0, G2, Z52, p, b, W : boolean array; NR, A, P, ei, diWaa : boolean; output - true - true or 4 - 3 <= - true; when case - h rem 5 - 26 or 7 - 6600 : input Se end case - not 4 and 7 : do U(94200, 96) end case - 3 - 45700 : do Q(8); do H(0) end case 5 : do R(24) end case 19700 : chillax end otherwise : chillax end end

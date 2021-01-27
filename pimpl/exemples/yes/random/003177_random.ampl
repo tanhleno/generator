@@ -1,0 +1,1 @@
+program TqV : mUyaa : takes _, T3, Ab4, B, M : integer; c8, Y : boolean array; qz40a, J, Ay : boolean array; K2 : boolean returns boolean input w[R - 7] end main : do _(h5(22) rem V8 rem(14) + not YE / false and 77700 + false and 3 or 3220 - 51, (9) / not 287 + 4 and 4 - 50 = - false and 7) end

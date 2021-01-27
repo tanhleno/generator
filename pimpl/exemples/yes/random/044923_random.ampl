@@ -1,0 +1,1 @@
+program o : f5 : takes Ne : boolean array returns nothing input s; input w2ra; input v4[4] end K : takes I : boolean; S35, lq : integer array returns nothing pop; let Nh = 61; when case 1 : chillax end case 1 : chillax end; let B = 789 end main : N, RRCa : integer; g9y : integer array; chillax end

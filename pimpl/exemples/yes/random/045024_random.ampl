@@ -1,0 +1,1 @@
+program XR : e : takes P : boolean array returns nothing let g9 = 2; input h6 end RI0 : takes D : integer; f60 : boolean; p1, _, Vd : boolean; Y : integer returns boolean array chillax end main : BU : boolean array; chillax end

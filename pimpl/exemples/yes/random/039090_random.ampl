@@ -1,0 +1,1 @@
+program e79aa : p : takes W14 : boolean array; T, f : integer array; u, W5, t29a, eH7, L, F : integer; xDm : boolean returns integer when case S and 35 > 32 - 49 : chillax end; pop; output 0 . 5 . "" end E : takes I, ehR, A, VV20a, nHH : integer returns boolean array chillax end main : chillax end

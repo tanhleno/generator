@@ -1,0 +1,1 @@
+program Gj : c9 : takes yo9aa : boolean array; u42 : boolean array returns integer chillax end _ : takes E_J0a : integer returns boolean array chillax end w : takes Hf2, f, J, X2 : integer array returns nothing pO : boolean; chillax end SV : takes f8Ca, hi : integer array; Kjm : integer returns nothing aa, Q : boolean; output 7 . "8" end main : output "/h!" end

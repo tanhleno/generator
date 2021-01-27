@@ -1,0 +1,1 @@
+program ZRcaa : nw : takes Rw, b, n, u, B : boolean returns nothing U0 : boolean; chillax end main : oX20a, J89, Qi : boolean array; while - not true <= (4) and false : let hc = 39 = 7 end; when case not true : output "4" end case - T25 : chillax end case - 68300 - 09 /= 16500 : chillax end case 8 = 593 : chillax end; pop; while - 812 >= 82 : chillax end; pop 62 end

@@ -1,0 +1,1 @@
+program S : y : takes XE0 : boolean; d : integer array returns integer array o, ly4 : boolean array; G, Ij : integer array; output ";" end main : pop; input W470[false]; input O[false]; let F09 = array - 227; input DTv0a[73]; while 2030 : pop end; input d4la; let U = 42 end

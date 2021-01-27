@@ -1,0 +1,1 @@
+program ydq : main : T : boolean; y2k : boolean; when case(8 = 30800) + 0 rem false and 4 - Z : pop 0 = 93 end case xOH[2] + false /= - 5 and 5 : while 1 : input i end; do J(6, 0) end case not 4 and 3 < 72 : do Nb10a(74, 416); when case 03 : chillax end; do j(28); pop end case 2 - 4 : chillax end otherwise : chillax end; while(4) / not 3 and 0 : do G(7 = 82) end end

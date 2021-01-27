@@ -1,0 +1,1 @@
+program lB_ : u65aa : takes F, K : integer; C, yO9, a9, N4Ra, n, J6 : integer; Tyha, KN : integer; r9, N : integer; X3v, t, CHn, I1 : integer; CG, M, X : boolean array; B4O : boolean; g : boolean returns nothing chillax end main : let C0 = array - (4 = 7) end

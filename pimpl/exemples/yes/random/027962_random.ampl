@@ -1,0 +1,1 @@
+program ZqC : X : takes D3, t4 : integer array; y17a, G : integer array; d : integer; X, R0, f2 : boolean array; TQ90a : boolean array returns boolean chillax end w : takes i, n : boolean array; O2F0, I58 : boolean returns nothing mHJ, E2, eX : integer; pop; output "5\n!a"; input z[42] end main : pop - false rem true and 67300 end

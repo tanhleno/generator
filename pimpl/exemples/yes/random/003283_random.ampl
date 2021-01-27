@@ -1,0 +1,1 @@
+program mk : s16a : takes Q6Kaa, G1, h, WA, J : integer; Rd : boolean array returns integer array pop - 907 - 9220 end vW4a : takes YVT : integer array; tj, S7, d : boolean array returns integer i2, x : boolean array; let e[9220] = array - 34 - 9; pop 3; while 9 : pop end end B6 : takes e, k, Y210, b, V : integer array returns integer array chillax end main : chillax end

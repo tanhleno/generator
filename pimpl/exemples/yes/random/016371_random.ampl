@@ -1,0 +1,1 @@
+program i : g : takes KD, O8, r : integer returns nothing X, s10 : boolean array; output - 9 . 273 . "0" . 90 . ""; output "" . 5; while 1 = 74 : while 9 : chillax end; pop end end main : let T = not 46 rem true and 1 or true < not 3 - 856 - 4; let x = false and 70; while true : do l(8); let G = 403; pop; pop end end

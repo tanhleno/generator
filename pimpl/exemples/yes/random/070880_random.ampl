@@ -1,0 +1,1 @@
+program a : main : IU3a, r61, l : boolean; L, y : boolean array; Au : boolean array; K, ZoZ0 : boolean; while - false / 8 and 49 <= e[5] : chillax end; pop; output 66800; when case - 3 = 7 : pop; let R1 = 18; pop end case 29 : chillax end; while 2 : when case 06 : chillax end end; when case 79200 : chillax end otherwise : chillax end; pop end

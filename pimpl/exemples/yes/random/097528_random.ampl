@@ -1,0 +1,1 @@
+program A : main : when case true * false - 3 * true - true and 02 or 3 - 4 : chillax end case - false : do E(43); let F[094] = array 3; output "n" end otherwise : let G = 73800; pop; pop end; pop end

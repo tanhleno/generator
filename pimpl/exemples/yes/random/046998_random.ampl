@@ -1,0 +1,1 @@
+program PQ : rQ : takes Y : boolean returns integer do YW(- true and 1, - 62); do w(77) end H6Saa : takes JJ1aa, d, H4, W : integer; i : integer returns nothing do g(- 76 - 5 = 82300, 841, 13, 065); pop 14 end main : D9 : integer; chillax end

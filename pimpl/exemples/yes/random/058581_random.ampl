@@ -1,0 +1,1 @@
+program y95 : T : takes n : integer array returns integer array chillax end o : takes M, y, F : boolean returns boolean chillax end K : takes dv10a : integer returns boolean array do oK(70, 31); input YZ[99]; output "\t~0"; when case 7 : chillax end; pop end Qj70a : takes _, ll8a : boolean returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program H : G : takes j, DSY : integer; w, jvRa : integer array; O : integer; A, v, B3J, h, Fj : integer returns nothing do n((4) and 00 - 70 - 5 /= - 185 - 3390); input y[- 2 - 34]; input Dl6 end main : q, m : boolean array; oFG, q, W : integer; AO1 : integer array; while - not true <= - not true * h and 4 : chillax end; pop end

@@ -1,0 +1,1 @@
+program H : V : takes T1, c6, az5a : boolean array returns nothing pop end main : T, P, H : integer array; do l(not 9 * not not 1 + (9) /= false and(043) + true and 449); do n(- not not 4 * 25 and 426 + (215) and 3, PF and 1 + 385 - 4, 7 - 66 < 5, 6, 7) end

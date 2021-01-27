@@ -1,0 +1,1 @@
+program y : v : takes b : integer returns nothing input b[- 36 + 62]; output "" end lc0 : takes A, N, j : integer; C, h : boolean returns boolean p1Na : boolean; chillax end V : takes z79aa, K970, _ : integer array returns nothing HTl, K : integer array; N, k : boolean; chillax end main : G : boolean; chillax end

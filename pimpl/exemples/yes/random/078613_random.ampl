@@ -1,0 +1,1 @@
+program Ki : main : H : boolean; D86, rH, AI : boolean; let q24aa[- false or(07200) * not 8 and 9] = array - not true; when case - not not 928 * 1 and 8 > (7) and 0 : chillax end otherwise : chillax end end

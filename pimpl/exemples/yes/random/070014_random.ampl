@@ -1,0 +1,1 @@
+program X8 : main : Uj9, V, c, SV4 : boolean array; when case - false / false : do d(- 218 - 2 = 3, 7, 8) end case not 098 : chillax end case(1) or 674 > - 5 - 9 : when case 8 : chillax end case 2690 : chillax end; do SH(4) end otherwise : chillax end end

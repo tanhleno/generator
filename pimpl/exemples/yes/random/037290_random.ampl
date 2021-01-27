@@ -1,0 +1,1 @@
+program Y : T0fa : takes B4 : boolean; lK : integer returns integer CZj, E0 : boolean array; LC8aa : integer; output "" . ""; let m85 = array - 93 end u : takes Pg : boolean array; s84 : boolean returns boolean zE, Wsi : integer; pop; while 8 = 78 : chillax end end main : p, xE40a : boolean; while not not false * not d and(0) > - true : chillax end end

@@ -1,0 +1,1 @@
+program R : d : takes n, a : boolean; t70aa : boolean array returns integer chillax end main : when case(12) / true + (5) or 29 : pop; while 4 : chillax end; pop 595 end; input f; output - 7 . "Y" end

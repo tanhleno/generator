@@ -1,0 +1,1 @@
+program l57 : f2 : takes A1Aaa, g, t : boolean returns nothing m, m : boolean; K4 : integer array; chillax end rT : takes N, W : integer returns integer array v, C, C : integer; K : boolean; chillax end main : input _0 end

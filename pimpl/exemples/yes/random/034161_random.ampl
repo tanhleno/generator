@@ -1,0 +1,1 @@
+program E : l : takes L : boolean; f, ah8, xA : integer returns boolean P, E : boolean; G8, HM, c : integer; chillax end rl1 : takes oc90a, w, h : boolean array returns nothing let t = array 018 - 4; do I(9 = 642, 20) end main : output(70) = not 90 or 68; let M = - false + 9 - 96 > 30 - 1; output 8; input n[- 9 - 599] end

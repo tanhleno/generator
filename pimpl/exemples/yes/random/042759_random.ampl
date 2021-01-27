@@ -1,0 +1,1 @@
+program C85 : l : takes X : boolean array returns integer array r : integer array; chillax end main : let z = not true * I + O + 961 - 798 < true and 151 + 555 - 81; do UM40(- false); input Fw[true]; when case 794 < 6 : chillax end end

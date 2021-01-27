@@ -1,0 +1,1 @@
+program UfK : V : takes j, u1 : integer; ln, K4a : integer array returns nothing C, U1, l, MS1 : boolean array; u, l : integer; A, h : boolean; do A(- 36 >= - 8760, 2 - 60, 6); output ""; when case 02 : do Ht5(82) end; pop end main : b : boolean array; chillax end

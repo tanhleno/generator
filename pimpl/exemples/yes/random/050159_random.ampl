@@ -1,0 +1,1 @@
+program Fuzaa : v5 : takes R76 : integer; D, zi3, j : integer array returns integer array G8, _, N8J, E4t, D : boolean; A : integer; chillax end P : takes L, T : boolean array; q, t5, W : boolean returns nothing chillax end main : when case 6720 - DCd0[4] and C and 7 : do O(4 - 7 < 3) end otherwise : pop 79 end end

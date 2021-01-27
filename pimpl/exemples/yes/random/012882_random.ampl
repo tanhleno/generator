@@ -1,0 +1,1 @@
+program b : W : takes AL, t, dJ : integer; y69, TOF : boolean array returns integer l4W : boolean; pop 5 /= 4; do L(5 /= 5620, 77 = 1, 03, 0); pop 8; when case 0 : pop end case 9 : chillax end; output "pc"; when case 37 : chillax end end main : pop - 4 and true /= - z and 00300 or 2 end

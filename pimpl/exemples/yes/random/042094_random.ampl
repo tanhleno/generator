@@ -1,0 +1,1 @@
+program M : O4z : takes c9 : boolean array returns boolean U, _80, ls2 : integer; output - 5 end main : Q : boolean array; input b[- O(6)]; while - (792) * false and 7 : output "<70"; let D[4] = 0; input gI end; input o[- true and 6]; output 51 = 0 end

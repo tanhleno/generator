@@ -1,0 +1,1 @@
+program jM7aa : main : when case 6 * (8) * false and 7 : when case - 6 - 8 <= 98 : chillax end otherwise : pop; pop end; when case 163 = 34 : when case 85500 : chillax end; pop end case 92 : pop end end; output "" . 425 - 9 >= 2; while false - 1 : chillax end end

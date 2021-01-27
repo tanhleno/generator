@@ -1,0 +1,1 @@
+program J : fe2 : takes z, Aq_ : integer returns boolean g : boolean; output "]"; when case - 346 = 342 : input C; input gJK; pop end case 2 = 5 : let F = 6; pop end case 2 : pop end; let AP8[7] = 24000; while 92 : chillax end; when case 9 : chillax end; input dT7; pop end main : v740a, XG : integer array; chillax end

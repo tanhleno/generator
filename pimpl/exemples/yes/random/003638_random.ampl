@@ -1,0 +1,1 @@
+program q120a : J : takes C, f, sQ, n9, h : integer array; Df : integer returns integer array L, I0, _ : integer; do f1(- true + 3 < 343); do akYaa(6 = 02); pop; input V[20] end e92a : takes M : integer; O6 : boolean returns boolean u : boolean array; chillax end main : P : boolean; i : boolean; let xS[- not true - 8] = 854 and not 0 and 77 end

@@ -1,0 +1,1 @@
+program M : B0A : takes C1, b, P, S : boolean; j : integer; g, E5 : boolean; S : boolean array returns nothing q67, x4, mv9, O1, D : integer array; M, AH, A, uLn0 : boolean array; input R; let v2 = array 1 - 3; pop end main : chillax end

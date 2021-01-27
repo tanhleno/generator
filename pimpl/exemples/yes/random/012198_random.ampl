@@ -1,0 +1,1 @@
+program h : R9 : takes g, G, k : boolean returns nothing Xj, H, OjR0a : boolean; input cqnaa end main : x, H, Wc0 : boolean array; ZH : boolean array; A : integer array; while(2970 = 99) and(72) or 1 rem 0 and 5670 < hTmaa / (6330) and 91 or true : do b(- 23 - 836 /= 2); pop end; do kJ(true < true or 3 - 252) end

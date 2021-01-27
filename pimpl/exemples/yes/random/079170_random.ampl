@@ -1,0 +1,1 @@
+program i : main : JzG : boolean; k8 : boolean; V, u, o, m : integer; _ : boolean array; pj10 : boolean; when case - 42 * not not 0 > - false / true : while - 5 : pop end; when case 6 : let e = 4990 end end; pop end

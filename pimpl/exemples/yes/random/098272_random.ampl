@@ -1,0 +1,1 @@
+program f : main : while - false or not v - true > - true rem not 7 + G28 : chillax end; when case - ip(8) < - false and 2570 : let s[5860] = array 6 end case - true : pop; input x6Ha end case 24 - 3 > 9 : chillax end otherwise : pop 1; when case 8 : chillax end end; output "" end

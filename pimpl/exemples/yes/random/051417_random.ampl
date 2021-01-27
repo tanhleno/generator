@@ -1,0 +1,1 @@
+program m : hs : takes B : integer; H : boolean; f86aa, b7 : integer array; bg2a : boolean array returns nothing E : integer array; qu20 : boolean; Z4 : boolean array; o47, Y6 : boolean; MS : boolean; chillax end _3 : takes FS : boolean returns boolean chillax end main : K, CP9, LNU : integer array; chillax end

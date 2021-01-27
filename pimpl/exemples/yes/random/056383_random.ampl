@@ -1,0 +1,1 @@
+program bd : O : takes G49 : integer array; g : boolean returns nothing chillax end q : takes b3, K, o14aa : integer returns nothing chillax end i : takes k, a2G, y : integer returns nothing tM, N : boolean array; while 12400 : chillax end; let sN2[55] = 8; output "" end Qf : takes _, ze6aa, B, s : boolean returns boolean chillax end main : chillax end

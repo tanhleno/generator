@@ -1,0 +1,1 @@
+program d7n : I : takes i : boolean returns nothing f8b, k, r32, N : boolean; in, SVt0 : boolean; when case(7960) = 2 : chillax end end main : N : boolean; L : boolean array; Y, q, eQT0, E2s : integer; while - true : let m_ = array 6 - 45600; let l[25] = array 7 end end

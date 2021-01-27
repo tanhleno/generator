@@ -1,0 +1,1 @@
+program E88 : b : takes X, F2, H : integer returns boolean chillax end TA : takes A830, Z, Esdaa : integer array; B, sk3, p : boolean array; B1k : boolean array; m, P4j : integer array returns boolean r : integer; h : integer array; chillax end KI : takes u, Kx : boolean returns boolean chillax end main : Yy, G_, Xw50a : integer array; chillax end

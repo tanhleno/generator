@@ -1,0 +1,1 @@
+program P : M8 : takes k9G : boolean; H, T, Fw, y1 : integer array returns nothing d : boolean; do WY6(- not 41 or 85 - 3, 280 > 17); when case 547 : output "58"; when case 2 : chillax end; pop end case 6 = 2 : chillax end end vX0 : takes n : boolean array; CH, _ : integer array; q7F, h : boolean returns boolean array chillax end main : Y : boolean; chillax end

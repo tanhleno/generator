@@ -1,0 +1,1 @@
+program E1o : e : takes e7 : boolean array; P, zE, w : integer; N, Gu, j, z : boolean; Fk : integer; y, V, KYy, Z : boolean; R, x10, g : integer array returns integer array P : boolean; do Wq((4) and 4 - 58 - 5390 /= 4150) end main : N, j, o40aa, N : integer; chillax end

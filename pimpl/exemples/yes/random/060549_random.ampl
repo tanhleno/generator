@@ -1,0 +1,1 @@
+program ex3 : t : takes C6 : integer array returns nothing Xe0a, y73a : boolean array; p : integer; D, U : integer array; l, j : boolean; chillax end main : v9 : integer array; A, YN, Ny3 : boolean; let _1Waa[true] = - 15; pop end

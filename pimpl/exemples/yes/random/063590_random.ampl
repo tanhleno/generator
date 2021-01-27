@@ -1,0 +1,1 @@
+program Tx00 : Sj : takes GA : integer returns integer pop 4 >= 35; pop; do wDw(82) end E : takes Fh, Q : integer returns integer array n, CN : boolean array; EN, e, a3Z : boolean array; rFo : boolean; chillax end l : takes tG : boolean returns nothing m : boolean array; chillax end main : input b; input lP2; do Ky(- t and 1 /= 260); output "t" end

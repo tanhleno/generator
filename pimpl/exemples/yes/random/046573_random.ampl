@@ -1,0 +1,1 @@
+program V : J6 : takes V : boolean returns integer array z5, T : boolean; chillax end vB : takes F : integer array; n : integer returns integer array lZ, wXB : boolean array; p2 : boolean; F4, ed80 : boolean; u : boolean; chillax end main : c : integer array; input d; output "bw\"" . "/"; input lP[WLlaa and 8 + 415] end

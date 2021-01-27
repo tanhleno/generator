@@ -1,0 +1,1 @@
+program yr : o : takes G : boolean returns nothing while not 6 + 9 - 2 <= 36 - 2 : do V9(9, 648) end end main : N, w : boolean; when case(79600) rem 3 rem wd and 797 - 63 or not 2 and 8 or 1 - 5 < 367 * 1 - 6 and 1 - 85 - 7 : while - 5 > 4 : chillax end end case - true + cG : chillax end otherwise : let p = 68 end; input Jh[- (865) + 5 and 0] end

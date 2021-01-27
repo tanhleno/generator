@@ -1,0 +1,1 @@
+program _h : T0a0 : takes a0, M3, ws : integer; a : integer array; y : boolean array returns boolean e, F, H : integer array; input C end s : takes u, N, R1G0a, n : integer; B, k : boolean array; N, q4_0a : integer returns boolean array iH, I0 : boolean; do Q3Oa(- 22300 - 0 >= 4); when case 6 = 8 : chillax end otherwise : pop end end main : output 00 and true end

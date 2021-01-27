@@ -1,0 +1,1 @@
+program c : E_9 : takes lE : boolean returns integer array G5 : integer array; C34a : boolean; Z, _, v3 : boolean array; output - 9 /= 27 . 9; input l1_a[- 1 - 7]; pop end d2 : takes iJ, u, S, e, O4 : integer; mS, Q : boolean; T : integer; r5o, bUD, L, k : boolean returns boolean g, I48aa : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program G : a : takes q : integer returns nothing hD : integer array; v : boolean array; j, MX, y2n : integer array; a : boolean; output "" . ""; do u(1 <= 4, 62, 53, 2); output 3 . "" end u0 : takes K0m0 : boolean; P : boolean array; ET, N0C, y : integer array; p, AA, r8xaa : integer; m3xaa, b : boolean array returns boolean H3, U : boolean; chillax end main : chillax end

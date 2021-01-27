@@ -1,0 +1,1 @@
+program l : main : input M; when case - true * K and 0 - false < Z : chillax end case true - 0 = 97700 : pop; pop end case - 8 /= 8 : chillax end case 1420 = 120 : chillax end; pop; when case 3 - 924 = 9 : chillax end case 0 : while 5 : chillax end end otherwise : pop end; output 4 . "" . "[6" end

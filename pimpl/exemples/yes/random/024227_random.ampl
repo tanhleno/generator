@@ -1,0 +1,1 @@
+program T : R : takes p, nc8aa : boolean returns nothing cPDaa, l, YY : boolean array; chillax end F : takes r2 : boolean array returns nothing l : boolean array; input YoF0[05] end main : v, Ml : integer array; chillax end

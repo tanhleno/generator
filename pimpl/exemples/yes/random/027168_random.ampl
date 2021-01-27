@@ -1,0 +1,1 @@
+program PY : q51 : takes I6, YC : integer array; Gq, O, c6, T26 : boolean; S, O5 : integer array; _5 : boolean array returns integer array c : boolean array; when case - J and 5 - 27 < 7 - 55 : chillax end case 2 /= 49 : chillax end otherwise : chillax end; while - 3 < 62 : do SV2(6) end end main : output "" . "\n5!a" . 2 >= 3 . 0 = 9 end

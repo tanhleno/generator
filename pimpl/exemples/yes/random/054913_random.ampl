@@ -1,0 +1,1 @@
+program XxQ : u5 : takes CW : integer array; JT, t : integer; WL, By, k : boolean array; wz : boolean array returns integer array let X = array - l43 and 7 or 779; output "as" . 5 . 1200 . "\\\n" end main : while - (30800 = 9) - false / (2) > - false rem n_ and 2 + false or 765 - 556 : chillax end end

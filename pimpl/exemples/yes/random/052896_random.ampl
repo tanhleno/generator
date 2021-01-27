@@ -1,0 +1,1 @@
+program LVj : q1 : takes Lkl0a : integer; R3 : integer array returns boolean I : integer; pop 5 end CN : takes GZ, e080a, b : boolean; R, N : boolean array returns nothing i2 : integer; chillax end main : chillax end

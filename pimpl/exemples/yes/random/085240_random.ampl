@@ -1,0 +1,1 @@
+program U7Yaa : main : U : integer; when case true - (979) and(0) - false : chillax end case - not 89400 * 89 and 3 or not 4 and 3 <= - d : chillax end; do c((8) < not 8 and 778 + 2); let q[6] = 38 - 4 > 125; pop 6 end

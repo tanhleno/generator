@@ -1,0 +1,1 @@
+program _BL0a : main : do F4(6, - true and b or true or 9 - 2 > Zjy and 1 or 46 - 0220, - (2) or 4, - 3 <= 85); while - i[3380] and not 28 and 2 = - not 2 : let U[4] = array 9 end; while - not 44 and 5 : chillax end end

@@ -1,0 +1,1 @@
+program SxN0a : main : z, z3 : boolean array; H0Oaa, g, N : boolean array; h11, b, u, F, s : boolean array; c, m1 : integer array; F, T5, V890a : boolean array; j1, o5 : boolean; m7 : boolean; CI1 : boolean; output "/"; do Ds(- true / not 35 + 9 + 2 = true - 73 - 84, - 4 and 2 <= - 50 - 9); pop end

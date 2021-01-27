@@ -1,0 +1,1 @@
+program W7K0a : f1 : takes IVTaa : boolean array returns boolean array o0Naa : boolean; while - 51 < 7 : do iA(1) end; output 618 . 8 end A2 : takes N : boolean array; uc, Y3, h, m, l, f : integer returns integer t, R9w0a : integer array; y1K0a, K, L1n0 : integer; pop end main : pop end

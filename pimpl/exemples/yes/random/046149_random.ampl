@@ -1,0 +1,1 @@
+program T0 : L : takes urZ0a : boolean returns boolean k, Nk : integer; KLHa : integer; Wr0 : boolean array; chillax end main : while not 3 rem 1 + _(9) <= false * (2) : let EO7 = array 1 - 789 end end

@@ -1,0 +1,1 @@
+program s : e : takes t : integer array returns integer array chillax end GNQ0 : takes F7l : boolean array returns nothing chillax end lc4 : takes l, SYv : integer array returns boolean array let Er0 = 9 end main : let n94 = array true / true; pop; output - 1190 <= 7 . 28 . "" end

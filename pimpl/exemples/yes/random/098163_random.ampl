@@ -1,0 +1,1 @@
+program z : main : while - false - v / not 44500 and 9 : while - 5 >= 38 : chillax end end; do qF((112) or Y1raa < SE and 29, not 295 or 1); when case - (84) and 903 - 343 - 4 > 2 - 2 : chillax end case - 3 : while 0 : chillax end; while 0 : chillax end end case 1310 = 183 : chillax end otherwise : chillax end; input F[0 - 590]; pop 65 end

@@ -1,0 +1,1 @@
+program U : q : takes Z, L, _0, V4ha : boolean returns nothing while false : pop 9; while 2 : chillax end; let S = 93 end end S : takes U, r, I, AsU, bP, C, yj : integer array returns nothing X : integer; do Z17(- 73 - 9); input y; input d[44] end main : chillax end

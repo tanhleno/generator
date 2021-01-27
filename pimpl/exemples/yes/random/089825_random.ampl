@@ -1,0 +1,1 @@
+program P : main : let l11 = array - (4 = 6) or not Ul / (00) and 15 - not 1; when case(3) - 5 and 4 > true and 3 or 649 : output "yAaa" . 07 end case 8 and 783 < 9 - 5 : chillax end case - 077 - 266 < 3870 : when case 8 : chillax end; do Na(545); pop end otherwise : chillax end; do Y((3) and 4 + 53) end

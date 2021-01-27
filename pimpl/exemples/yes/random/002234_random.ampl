@@ -1,0 +1,1 @@
+program x9 : W : takes ax5, Hz5a, n, t1, e : boolean; e, M : integer returns nothing input q[- 7] end g : takes e, t : integer returns nothing t, Mz, n, U : integer array; chillax end main : h6naa, i4 : boolean array; P8E, I, h, iod0a : boolean; nC : integer array; C : integer; f, g3 : boolean array; chillax end

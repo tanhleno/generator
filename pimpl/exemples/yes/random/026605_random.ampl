@@ -1,0 +1,1 @@
+program x7 : p : takes yub, eg : integer; R : integer array; tHQ0, E, k, F700, z, w : boolean; Q, z, C : boolean returns nothing ge : boolean; chillax end _ : takes TX, jSs : boolean returns boolean R17aa, a1 : boolean; J, e : boolean array; input y[97 - 4] end O9 : takes D7 : boolean; p : integer returns boolean m : boolean array; pop 91 end main : chillax end

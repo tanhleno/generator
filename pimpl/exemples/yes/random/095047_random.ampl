@@ -1,0 +1,1 @@
+program K : main : pop c8h[9] / 2 - 2 and 6 + 85300 - 88; do p(5 * false and 2 - z and 45700 < (9) and 1 - 7 - 9, (873), - 99 /= 6); when case - true and 8700 or 2 : when case 0940 : chillax end end end

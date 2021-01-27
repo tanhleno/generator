@@ -1,0 +1,1 @@
+program y : q8 : takes s6, h : integer; G : boolean; Y3, opra, P : boolean returns boolean array Rzw, Jz, QS : boolean array; let y = 20 - 3 < 030 end main : pop - not 2 /= - B6 and 20 - 5; when case - false + W69 - 7750 - 86 >= not 6 or 79 - 5 : chillax end otherwise : let d6[3] = 66 end end

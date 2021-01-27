@@ -1,0 +1,1 @@
+program g : i2Ka : takes Mm, x, r820a : integer array returns boolean array when case not 3 and 7 or 423 : while 797 : chillax end; input M3 end case - 0 : chillax end otherwise : when case 540 : chillax end; pop end end main : when case 49 / 4 and true or u(8790) : chillax end case - false rem 77 and 8 + false and 03 : chillax end end

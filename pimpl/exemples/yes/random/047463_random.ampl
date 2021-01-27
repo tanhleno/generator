@@ -1,0 +1,1 @@
+program xa5 : Hk8aa : takes e : boolean returns nothing chillax end k : takes d, A : integer array; l, m : boolean array returns boolean array let W0u0 = 9 end main : L5, EM : boolean array; while - true : do C0(- 9 - 1 <= 52); pop; input YZ end; do qJZ0a((16) - not 9 and 0 - 3); while - not 512 and 6 + 14 <= - 921 : chillax end end

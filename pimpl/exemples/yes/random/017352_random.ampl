@@ -1,0 +1,1 @@
+program s : BO20a : takes g, X1 : boolean; u6, D : boolean returns nothing H6 : boolean; input f end W : takes c, yh10 : integer array; E : boolean array; O, vo, y : integer array; c : boolean array returns integer array V29a : boolean; Reda : integer array; output 2 end main : Y, Q : boolean array; cL3 : integer array; chillax end

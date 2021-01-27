@@ -1,0 +1,1 @@
+program Ft : F : takes o_ : boolean array; M : integer array; o3 : integer returns nothing chillax end J : takes Y97a : integer array; y9, n6 : integer array returns boolean output 7; output "3\t0a"; while 5 : chillax end end main : chillax end

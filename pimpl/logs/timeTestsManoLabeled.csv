@@ -1,0 +1,5 @@
+ - , Teste 1 (s), Teste 2 (s), Teste 3 (s), Teste 4 (s), Teste 5 (s), Teste 6 (s), Teste 7 (s), Teste 8 (s), Teste 9 (s), Teste 10 (s)
+bfs3_token_3/, 0.03, 0.03, 0.04, 0.03, 0.04, 0.03, 0.03, 0.04, 0.03, 0.03
+random_token_3/, 2.03, 2.03, 2.06, 2.02, 2.06, 2.08, 2.04, 2.03, 2.05, 2.03
+damerau_levenshtein_2_rule_token_3/, 0.17, 0.17, 0.16, 0.16, 0.17, 0.18, 0.16, 0.16, 0.16, 0.17
+damerau_levenshtein_3_rule_token_3/, 0.19, 0.17, 0.17, 0.18, 0.18, 0.18, 0.17, 0.17, 0.17, 0.18

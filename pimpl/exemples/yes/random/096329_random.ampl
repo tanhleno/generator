@@ -1,0 +1,1 @@
+program V : main : when case - not true rem W[590] : input xP; while 6 : when case 7410 : chillax end end; do vx4(1); output "4"; input Okc; pop end case - true <= - (535) : pop end case(94) and 86 > - 0 - 0 : pop 2; when case 0 : chillax end; input fP end; let S17 = array - GI8(4) end

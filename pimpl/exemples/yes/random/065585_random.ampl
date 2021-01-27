@@ -1,0 +1,1 @@
+program K : O : takes yb4 : integer returns nothing while 801 and 4 + 9 = - 171 : let z = array 18 end end main : B, N : boolean; Vi, _ : boolean; o5, R7d, f, _ : boolean array; let n7 = array - (43100) / (3); while - not 8 and true : while 36 : when case 294 : chillax end; pop end; output 1 . ";\naa" end end

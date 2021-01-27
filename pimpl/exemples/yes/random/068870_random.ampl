@@ -1,0 +1,1 @@
+program a : main : CD0, WFiaa, i, KV, W05a : boolean array; t, y : boolean; Q5, F, qV : integer; when case - (23500 = 668) / Oqn0a[2] : chillax end case(35900) rem false and 1 or s18aa or 2 >= not 7 and 9 : chillax end case - not 604 and 79 : chillax end case - 88 - 7 : input I end otherwise : chillax end end

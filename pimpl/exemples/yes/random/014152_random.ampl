@@ -1,0 +1,1 @@
+program I : _j6 : takes r, W, Tceaa : integer array; vro0a : boolean; h, r, D54aa : boolean array; R, r, G9 : boolean returns nothing m0, kK5, J, ksy, r : boolean; qw, _ : integer; U : boolean array; chillax end main : while(0620 = 0) <= not true rem A35 : chillax end; output "\"" . "\\[0"; do O(- true /= 7); input X end

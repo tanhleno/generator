@@ -1,0 +1,1 @@
+program To : C0 : takes B94aa, D, T24, d, b : boolean array returns nothing chillax end main : let d[not(47) - s[6] or 0 or 290 - 3] = array Et(3) / true * (28600) and 9 - d45(0) rem false and 7 - not 776 or 31; output - true > 47 - 590 end

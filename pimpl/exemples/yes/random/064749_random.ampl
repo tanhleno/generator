@@ -1,0 +1,1 @@
+program pGx : g : takes E33 : integer returns nothing i : boolean; when case - not 2 - 2 - 647 = 305 : output 554 . "g8"; let D81a = 51 end case 3720 /= 7 : chillax end case 1 : output ""; pop end case 4 : pop end case 0 : chillax end; input x[8] end main : c, P02 : integer array; do k(false and(53) or not false = - true) end

@@ -1,0 +1,1 @@
+program E : main : k, Vj : integer; T, t01 : boolean array; V, c6 : integer array; when case - (30 = 2230) * true * (63) or 13 - false : output ""; pop end; while - (3) and true : let B22 = 7; while 90 : pop end; when case 9 : chillax end end end

@@ -1,0 +1,1 @@
+program ON : k : takes J : integer array returns boolean array while false : chillax end end H : takes S, W, I, E : boolean array returns boolean array pop; let H6 = array 5 end main : r : integer; chillax end

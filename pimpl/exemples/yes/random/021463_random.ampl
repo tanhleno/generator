@@ -1,0 +1,1 @@
+program d : Vj : takes h, U3ha : boolean array returns integer array Vq9aa : integer array; pop end f : takes M, us8 : integer; R, F7 : boolean; y : integer; D, _ : boolean array returns boolean A : integer; let G = 050 = 2 end main : chillax end

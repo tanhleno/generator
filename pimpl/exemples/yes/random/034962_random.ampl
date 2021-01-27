@@ -1,0 +1,1 @@
+program O : j25 : takes AFE : boolean; Q9, L : integer array; OKp : boolean array returns nothing J, Cy : integer; chillax end N : takes i190 : boolean array returns nothing H1 : boolean; input A4e0 end main : wm, s3V, D, S : boolean array; output J(0) . "H" end

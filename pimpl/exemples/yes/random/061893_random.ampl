@@ -1,0 +1,1 @@
+program B : q : takes By : integer returns boolean array lQ, R : integer array; do v4(- not 2 and 9); while 27 : chillax end; output 9220 . "" . "5" end main : let _[- not(1)] = array - (3 = 0040) and true; pop 0; output "" . 1 end

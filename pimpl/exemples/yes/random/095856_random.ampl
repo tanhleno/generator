@@ -1,0 +1,1 @@
+program hm : main : when case - false <= - (24) : input f[- 50 - 6]; input Ch_a[1]; output 0 . "2" end case(29) /= true and 2 - 5 : chillax end otherwise : chillax end; let S[- X(28)] = array false / (98) and 9 - false and 4030 end

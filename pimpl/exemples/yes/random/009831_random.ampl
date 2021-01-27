@@ -1,0 +1,1 @@
+program s9 : wj : takes v, i, E3S : boolean array; Hz, f : boolean returns nothing chillax end main : while - 8 rem(358) : chillax end; when case - false + true and 03 >= (8) and 5 : do w(5) end otherwise : output 4 . "" end; pop; do O(- 19 <= 68) end

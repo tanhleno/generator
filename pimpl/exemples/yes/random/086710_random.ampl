@@ -1,0 +1,1 @@
+program mu : main : eXq : integer array; zXR0a : integer; bx : integer array; do r((1 = 8) rem false <= not false or 73000 and 5 - 7 - 4, - a88a(37) and Q2 or true + 31 /= - false and 0030, - 1 and 28 /= 7 - 8, - 4 - 70 < 00, 6 = 6); while not true * not 8 - not 0 - 18 : chillax end end

@@ -1,0 +1,1 @@
+program l76 : hf : takes I8v, Mr : boolean returns boolean O, qf : integer array; eI : integer array; pop end U : takes MH, VP, K6 : boolean array returns integer array EZ : boolean array; input x; when case 2 : chillax end otherwise : chillax end end main : L8I, h : boolean; pC, DJ, _ : boolean; input j[false]; pop; let U[n + 432] = 3 end

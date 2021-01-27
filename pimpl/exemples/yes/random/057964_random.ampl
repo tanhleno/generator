@@ -1,0 +1,1 @@
+program b0 : P5A0 : takes F : integer array returns boolean array output "" . "{70" . 9 . "" . ""; input H[- 9] end uK : takes C : boolean array; S1, z6 : boolean returns nothing Q : integer; h, o, q1 : integer array; chillax end W : takes A, E1 : boolean returns integer array chillax end rl : takes X : integer; Z8i, hV : integer returns integer chillax end main : chillax end

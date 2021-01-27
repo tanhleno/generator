@@ -1,0 +1,1 @@
+program G5 : N6 : takes d : boolean array returns nothing K16a, v, E : integer; jq, Z, p : integer; B, v, f : boolean; let W6 = - 8 = 4 end T : takes B, C : boolean array; OZ, b, z : boolean; v, Q, W : boolean; m3, l, p : integer array; X : boolean array; H, g : boolean; kR : boolean returns boolean input m[2]; let n[42] = 0 end main : Y3 : integer array; chillax end

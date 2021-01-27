@@ -1,0 +1,1 @@
+program B : M : takes X : boolean; UZ, m : integer; r : boolean; K2, Z : boolean returns integer array G : integer array; chillax end fZ30 : takes b : boolean returns boolean array IvYaa : boolean array; bj, X : boolean array; do o(- 8510 < 6) end main : NW5, _, D : boolean array; H, p52a : boolean; chillax end

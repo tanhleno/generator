@@ -1,0 +1,1 @@
+program s : f : takes _c, Z50aa, J, j, P, b : integer returns boolean array E_6a, Q38aa, a, Z1 : boolean array; by : integer array; k : boolean array; x, _0 : boolean; chillax end main : input LU2 end

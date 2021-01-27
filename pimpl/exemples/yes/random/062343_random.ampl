@@ -1,0 +1,1 @@
+program Du : n : takes T : integer returns boolean D, J, R : boolean; pQQ : integer array; while not 9 and 4 /= 475 : chillax end end y76 : takes V7 : integer array; u74, u, l0 : integer; N470a : boolean; Z : integer array; XL, d4, u : integer array; W, _2 : boolean returns nothing chillax end main : input w end

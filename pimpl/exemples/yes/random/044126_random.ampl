@@ -1,0 +1,1 @@
+program ow8aa : t : takes B : boolean array returns nothing q, o, Y : integer; Q : integer array; chillax end main : v : boolean; let Nc[5 * true or 6 rem false] = array - 5 and true rem c2g and 91 - (11); when case - (0) : chillax end end

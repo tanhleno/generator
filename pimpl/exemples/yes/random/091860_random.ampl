@@ -1,0 +1,1 @@
+program qcuaa : main : output - (029) + A and 20 or 4680 - 5 /= false and 09 . 7 + 4 - 139; pop; when case s and 33200 < 58000 - 5800 : pop end case 0 >= 9 : while 79 : chillax end; let Y7K = 5; pop end; let Q = array 1 end

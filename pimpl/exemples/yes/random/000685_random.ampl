@@ -1,0 +1,1 @@
+program p : _ : takes x, qq10, eq9, B, y, Z, i28 : boolean array; il20 : integer returns boolean let E1 = array rk_ - 77; when case 337 - 8 < 00 : chillax end; when case 7 : chillax end case 34 : pop end; when case 3 : pop end case 16 : chillax end otherwise : chillax end end main : G, N3, o : boolean; chillax end

@@ -1,0 +1,1 @@
+program h : T18 : takes r : boolean; O43, N : boolean; pQk : integer array; t : integer array returns boolean P : boolean; do T1g(- 5 and 8 or 49800 <= 206 - 0); when case 8 - 1 : chillax end case 288 = 0 : chillax end otherwise : input j end end A : takes v3S0 : boolean array returns nothing chillax end main : EN7a, h, c, A : boolean array; chillax end

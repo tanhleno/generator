@@ -1,0 +1,1 @@
+program T : heR0a : takes O, H, z : integer array; MuK, vm4, J57, H9, r, l8 : boolean array returns integer n3G0 : integer array; when case false - 42 - 280 < 124 : chillax end end main : chillax end

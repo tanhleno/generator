@@ -1,0 +1,1 @@
+program lo : a7 : takes t1, _ : integer; A, h, Qg : boolean array; X, Jc, D2a0, k, o : integer array returns nothing do A(A); when case 7 <= 396 : chillax end otherwise : chillax end end main : input KQgaa[not(987) rem true + 4 + z and 9] end

@@ -1,0 +1,1 @@
+program ZSg0 : V3 : takes IoI, lJd, Wv, f : integer array; G, a0P, c, wb7, I : boolean; V, D : integer returns boolean array h : integer; while(45) >= - 79600 : chillax end end main : l : integer array; chillax end

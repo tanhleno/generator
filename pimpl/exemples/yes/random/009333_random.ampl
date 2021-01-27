@@ -1,0 +1,1 @@
+program v : X : takes ON, A, A : boolean; P8 : integer array; T : integer array returns boolean when case not 27 and 52 < 7 : input V0xaa end case - 652 - 9 : chillax end case 5 = 2 : pop; pop end; input T[9210 - 1]; output 61 . 56 . "" end main : V, A : integer; pop end

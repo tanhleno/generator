@@ -1,0 +1,1 @@
+program r4y : V : takes d8 : integer returns boolean array while - (4) or 5 : chillax end end main : when case(3 = 6) = - not false * true or 6 and 0580 : chillax end case - (4) * false or true > - 8 : chillax end otherwise : chillax end end

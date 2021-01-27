@@ -1,0 +1,1 @@
+program rah0 : A : takes Z, Q7Q : integer array returns nothing C, h, u, B, x : integer array; t4E : boolean array; P : boolean; chillax end x : takes k : boolean array returns integer chillax end main : chillax end

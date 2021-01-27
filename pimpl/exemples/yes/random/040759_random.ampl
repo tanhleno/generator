@@ -1,0 +1,1 @@
+program o32 : rV : takes a : boolean array; y : integer array; ec, o, h : boolean; R4 : integer; jt90a : integer; U, pV : boolean returns nothing output ":" . "_" . "\t00" . 9 . ""; let C = array - 8 - 6; while 6 = 3 : do s(9); pop end end main : R : boolean; pop; input Xo8a[(1) + (56) and 4 or 26 - 8] end

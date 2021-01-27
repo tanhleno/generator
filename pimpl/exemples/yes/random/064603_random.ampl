@@ -1,0 +1,1 @@
+program r9 : s : takes o : integer returns nothing Is0, u : integer array; wa, I : integer; u : boolean array; chillax end sw7 : takes X : boolean returns nothing C, j : boolean array; chillax end main : x24a : boolean array; chillax end

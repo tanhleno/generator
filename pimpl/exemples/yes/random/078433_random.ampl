@@ -1,0 +1,1 @@
+program l : main : G0Wa : boolean; g, p9, e, e, E : boolean; r : integer; E, J : boolean; when case not false or not not 8 + VVw + 140 : chillax end otherwise : output 8 end; while(4770) < A1F0 and 125 - 12 - 8 : chillax end end

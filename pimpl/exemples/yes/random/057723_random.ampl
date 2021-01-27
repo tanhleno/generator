@@ -1,0 +1,1 @@
+program N : f : takes W48 : integer array returns boolean array T84, r, c28 : integer; let t4t[- true and 7 - 78] = - 1 < 37700 end main : Z, w0 : boolean array; M : boolean; N, y : integer array; output "iW" . N; pop end

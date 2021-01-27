@@ -1,0 +1,1 @@
+program lDJ : a : takes Np : boolean; P9, S, ffVaa : boolean; rR, Yb90, Z : integer array returns nothing do HH(not 09300 and 492 <= 58 - 38); output 63 = 77 . "H'!" end main : K, JZ, Q : integer array; W, MZ : integer; cp30a : integer; Qju : boolean array; m15a, s4S0 : boolean; f0 : boolean; u : boolean; F : boolean; input ka0[G7 rem false] end

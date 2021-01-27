@@ -1,0 +1,1 @@
+program Jg : dBE : takes q, P, poP, Y4X, W : boolean array; w, W0, x : boolean; Uz : boolean array; IZ : integer returns nothing chillax end Wa : takes z : integer array; c3, V, O, F : boolean array; r : integer returns boolean chillax end main : L9Caa, z, V : boolean array; chillax end

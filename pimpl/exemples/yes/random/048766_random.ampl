@@ -1,0 +1,1 @@
+program T : G : takes nUr : boolean returns nothing R : integer array; U, p : integer array; iDj0, F0u : integer; h : boolean; b5m : boolean; chillax end e9 : takes M98, n5, F, qdR : boolean array returns nothing do NsE(- 55 - 52600, 0 = 4710, 90600) end main : h : integer array; Z : integer array; input V4v; output - true + 6 /= - 8 - 5 . - 81 - 9 = 5 . "" . "s" end

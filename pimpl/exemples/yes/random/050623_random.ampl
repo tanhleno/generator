@@ -1,0 +1,1 @@
+program Q63a : M : takes j : integer; XQ2a, S : boolean array returns nothing H, t, e, z5, E : integer; oI, o : integer; q : integer array; input xMoaa[(9) and 8] end main : L, n, gW : integer; l76a, g : integer array; J : boolean; chillax end

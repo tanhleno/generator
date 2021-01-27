@@ -1,0 +1,1 @@
+program hy : T27 : takes I, p44 : integer; J : boolean array returns nothing output "\n" . "4" . 9 . 1 . "" end l1F : takes T370a : boolean; W : integer array; a, B11 : integer array returns nothing chillax end main : r : integer array; input m end

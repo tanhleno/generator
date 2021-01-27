@@ -1,0 +1,1 @@
+program w0 : K : takes Zd, X : boolean; Yj, q : integer array; O9qa, W, s : boolean; v, Gv, _, D : boolean; L4aa, e4 : boolean array; _C, H : boolean returns boolean output - 7080 - 9930 . 3 = 29000; pop; while 62 = 47 : output "" end; pop; when case 12 : chillax end; pop end main : chillax end

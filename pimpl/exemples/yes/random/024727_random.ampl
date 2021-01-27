@@ -1,0 +1,1 @@
+program I : U1 : takes n, c : boolean returns nothing let L[not 9 and 1970 + 27700 - 0] = array true + 45; when case - 8 = 7 : input I end case 67 : chillax end case 4360 : chillax end case 2 : chillax end otherwise : chillax end end main : chillax end

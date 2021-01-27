@@ -1,0 +1,1 @@
+program k : Li6 : takes wtN0, d : boolean returns nothing let h = array - 28 and 4; while 7 <= 0 : when case 7 : chillax end end end main : i13, q : boolean; TD9, P06, T, X : boolean array; chillax end

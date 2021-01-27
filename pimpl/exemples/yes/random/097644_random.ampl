@@ -1,0 +1,1 @@
+program Sq : main : when case true = 84 + true + 6 - 6 : let W[- 9 - 90] = 9260 = 3; while 927 = 3 : chillax end end; when case - false or M : chillax end case - 65400 <= - 3130 - 94 : when case 5 : pop end case 14 : chillax end end case 46 : chillax end otherwise : input H[68]; pop end end

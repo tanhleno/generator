@@ -1,0 +1,1 @@
+program e4 : a2 : takes s : integer; c9R0a : boolean array; b : integer returns nothing output 30 - 15; input p end main : let Z = array - 3 rem exR[012] - not false / true + not 06000 or 75 - 13; when case - 7 - true and 78200 : let E2[03000] = 3 end case 9 and 5 + 7 - 06 = 982 - 215 : chillax end otherwise : chillax end end

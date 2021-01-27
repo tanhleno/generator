@@ -1,0 +1,1 @@
+program E : main : PZ, y : integer array; pop not 0 /= p and 817; while - j(033) / 899 + false and 9 or 47 - 128 >= false + 9 : chillax end; when case true + 5830 : chillax end case 1 - 66 <= 9 : pop end case 1 = 881 : chillax end case 4 : chillax end case 910 : chillax end end

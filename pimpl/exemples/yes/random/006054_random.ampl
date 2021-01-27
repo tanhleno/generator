@@ -1,0 +1,1 @@
+program G : h : takes kS, FYJa, I, pAD0a : boolean returns integer output "" end SW : takes A : integer array returns nothing iZ2, z, g4G : integer; fdM0, VY40 : integer; while 3 - 78 : while 4 : chillax end; let p51aa = 9 end end main : pop(9990) / false and 527 > true and 24 end

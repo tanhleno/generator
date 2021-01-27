@@ -1,0 +1,1 @@
+program A : w : takes J3, bR : boolean array; zQC0a, p4Aa : boolean; c6 : integer returns nothing C, V : boolean; chillax end main : while - true or(336) / (2) and 777 - false and 6 : chillax end end

@@ -1,0 +1,1 @@
+program g0q : j : takes w5 : boolean array returns nothing wx, J, s9 : boolean; bZP0a : integer array; let p3 = array - 3 and 237 + 7; when case 89700 = 4710 : chillax end case 9 : chillax end case 18 : chillax end end main : M, b, t7r, i7 : integer; chillax end

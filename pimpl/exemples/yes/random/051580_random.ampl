@@ -1,0 +1,1 @@
+program UU : TL : takes tc : integer; Ub6 : boolean array; m04, xRTaa, FY_, A2, d : boolean array; y, kG50a : integer array; F, XEaaa : integer returns nothing chillax end a : takes h, _7, s7 : boolean array returns nothing output "\"\n" . "6/" . 709 . "\t"; let MT[398] = 11300 end main : chillax end

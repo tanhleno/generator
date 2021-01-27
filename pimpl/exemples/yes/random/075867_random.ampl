@@ -1,0 +1,1 @@
+program v : main : U, jl : integer; N, i, DP, E9x0a, W, Rga : integer; while - true * not not 33600 + false or y4M0a and 9 > H : chillax end; when case - false + Dw1 or 0 < (9) and 6610 : input xG[905] end; input m; when case - 68 < 73 : chillax end case 054 = 5 : do JxB0(35600); pop end end

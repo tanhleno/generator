@@ -1,0 +1,1 @@
+program h : main : F, x, F : integer; Zl8 : boolean array; u4Xaa, f1ua, kG : integer; s1O, B39a, z2, e42aa : boolean; f83aa, HgCaa, v3D0 : integer array; let QKk[- (51) or k(3)] = array - not true * (906) * (58); output true - 99 - 17 . 0 /= 002; do M9oa(5 >= 15 - 4); output "" end

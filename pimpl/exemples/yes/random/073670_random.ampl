@@ -1,0 +1,1 @@
+program P : main : H, W : boolean; h, F2 : integer array; T, n, Q : integer; f, Nl : boolean; when case true and not true * 7830 and 0 or s900[15] <= - (20) / (44) and 73 + not 15800 + 075 - 7 : output "u" . 87 . "[?" . "" end end

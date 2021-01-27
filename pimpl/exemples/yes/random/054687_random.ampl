@@ -1,0 +1,1 @@
+program J : P : takes u80 : integer array; y, O : boolean array returns integer V, i, A, k15, n : boolean; P5, N, m : boolean; FU, dT, Q1 : boolean; U4 : boolean; ZRr : boolean; p : boolean; let i = array - not 4 end main : X4 : integer array; while JY / (756) / true = - false rem false : input r3y end end

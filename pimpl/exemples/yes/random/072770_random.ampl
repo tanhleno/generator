@@ -1,0 +1,1 @@
+program M : main : mr20a, gE6a, iklaa : integer array; B, L : boolean; when case - e[35] * not true : while - 1 - 6 > 24 : chillax end; output 877 end case - (1) * L0 = - not 4 - 7530 : chillax end; when case - 0 <= false : output "3" . 3500 . "" end otherwise : pop; let F = 121; do _uU(3); pop end end

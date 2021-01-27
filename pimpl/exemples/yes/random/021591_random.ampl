@@ -1,0 +1,1 @@
+program D8 : _j6 : takes n, ItM : boolean array returns integer chillax end main : when case V[08] : output 479 = 42800 . "" end case L1T0a[72] and(6) : chillax end case true - 2 : while 7 : chillax end end case 4 : output "&<a" end case 65 = 4 : chillax end case 3 : chillax end otherwise : chillax end end

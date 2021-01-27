@@ -1,0 +1,1 @@
+program o8 : main : D5D : boolean; J : boolean; when case - not false + not true and not 33 and 56 - false and 21 - 4 - 08 : input g7[1 - 0] end otherwise : when case 89 = 04700 : pop end otherwise : pop end; pop 118; while 2 : chillax end end end

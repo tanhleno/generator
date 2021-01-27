@@ -1,0 +1,1 @@
+program m5k : W : takes o : boolean; b, K, p2 : integer returns nothing let dJ[(3)] = 7 - 9 > 8 end q : takes Z, jC, l18, I, D, R : integer returns nothing vP9, S, u29 : integer array; JC, wKr, U : boolean array; chillax end main : K : boolean array; chillax end

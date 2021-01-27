@@ -1,0 +1,1 @@
+program m6 : N4m0a : takes XHsaa : boolean array; Z : boolean returns integer array y : integer; do E2Y0(- 93 or 2 - 0 /= 2 - 9, 3 /= 6400) end BE : takes u, l4 : integer array returns nothing AN, Q : boolean; pop 79700 end main : input ci[(63 = 9) and P(7) and u] end

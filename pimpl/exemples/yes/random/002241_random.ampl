@@ -1,0 +1,1 @@
+program p3Z0a : h : takes A, x, X800, b, kq : boolean; S : boolean; d, T, y : integer array returns integer chillax end main : z010a : boolean; do sy(- (458 = 3) - not not 8 / (43) and 1930, false >= true) end

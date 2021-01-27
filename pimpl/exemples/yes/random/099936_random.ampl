@@ -1,0 +1,1 @@
+program A : main : while true and d(9) * (00) or false / false + r and 3 /= - not not 93 + (088) or 2 : let p = 778 = 1; output ""; pop end; while 01 or false and 33 : let f6[91700] = array 2; when case 2 : pop end case 6 : chillax end; input v end; pop - 3 - 9 end

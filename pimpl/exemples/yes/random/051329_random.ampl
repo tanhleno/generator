@@ -1,0 +1,1 @@
+program k3p : l4 : takes ge : integer; Tj : boolean; w7, m, F1, q : boolean array returns nothing o : integer; pop; pop end A42a : takes W66, R : integer array returns nothing chillax end m1 : takes J, Sf2, h8, o9, L, RlMaa : boolean returns nothing chillax end main : while - not 3 rem true * not 7 or(35) rem 00 - 79 and 69200 - 4 : chillax end end

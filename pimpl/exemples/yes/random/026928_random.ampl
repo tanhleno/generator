@@ -1,0 +1,1 @@
+program IU4 : V : takes Fz, n : integer; Ndy : integer returns integer J, Sju, t : boolean array; chillax end u : takes q, B, wZo, n, Ws : boolean returns nothing let c = array 01; let O[3] = 77; let r[67] = array 57 end main : chillax end

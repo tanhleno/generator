@@ -1,0 +1,1 @@
+program lT : oQ : takes Q, FB7 : integer array; d9, l : integer returns integer when case - x : output 7 . "" end otherwise : chillax end end V : takes k, U : boolean; vK7 : boolean array returns integer array let Zx00[363 - 26] = array 8970 - 2; do U7v0(2 = 6); let C1 = array 6 end main : i4G, G : integer; V8gaa : integer array; chillax end

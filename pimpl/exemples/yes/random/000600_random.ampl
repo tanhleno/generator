@@ -1,0 +1,1 @@
+program Ee : GB : takes O, PA, O, K, W, V, F2 : boolean; TH8a : boolean returns integer array _Vr0a, V47aa, d, A : integer array; q3, t6L0 : integer array; chillax end main : s : boolean; pop not not 743 rem(2) and 8 + (6) end

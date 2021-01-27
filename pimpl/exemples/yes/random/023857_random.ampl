@@ -1,0 +1,1 @@
+program s67aa : W : takes b, r : boolean returns integer pop; output 2 . 6 . ""; when case 48 = 6 : chillax end case 4 : pop end case 24100 : chillax end otherwise : chillax end end main : chillax end

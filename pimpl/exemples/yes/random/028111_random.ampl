@@ -1,0 +1,1 @@
+program xS_ : w : takes TWG0a, m : integer array; E, Z4 : integer returns nothing when case - t and 2 > 56 : chillax end case - 0 >= 7020 : input yI; input v; pop end case 2 : chillax end otherwise : while 6 : chillax end end end main : chillax end

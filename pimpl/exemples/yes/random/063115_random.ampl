@@ -1,0 +1,1 @@
+program n3 : O : takes H : integer returns integer array output 7 = 9 . "" end O_pa : takes D, p8n0 : boolean returns nothing Byj : boolean array; n, W010 : integer; r : boolean; U : boolean; vS5aa : boolean; when case - 40 - 5 : chillax end otherwise : chillax end; input o; output "" end main : k, f, i65a, PIoaa, iN5 : boolean array; aC : integer array; chillax end

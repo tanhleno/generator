@@ -1,0 +1,1 @@
+program IFX : a : takes Q, F8 : integer array; S : integer array returns integer chillax end Irja : takes ji00a : integer array returns nothing X5M0a : integer; input RQ1[- 15600 - 4] end f : takes V : integer; m, f9 : boolean array; m1O : integer returns boolean do n(52100, 9, 0); do m8(400) end main : T87aa : boolean; o : integer; pop false; input v0 end

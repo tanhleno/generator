@@ -1,0 +1,1 @@
+program GsBa : p : takes RV40a : boolean returns nothing E : integer array; i : integer; do R75a(- 83 and 7); output "5" . 3 . 4; while 9 : do G_60(4); pop end; output 495; input G; output "3"; pop end main : I, U, Y : integer; E67, Dyo, r7B, fwz : boolean array; chillax end

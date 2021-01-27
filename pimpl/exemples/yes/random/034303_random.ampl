@@ -1,0 +1,1 @@
+program p : o : takes W : boolean; NCR0a, Z : boolean; W : boolean array returns integer pop - 35 end zb4 : takes F, QX, A, E, r7, u1 : boolean returns nothing E : boolean array; chillax end w08 : takes o : integer returns boolean g, p2C : integer; chillax end t : takes F : boolean returns boolean array output 9 end main : pop end

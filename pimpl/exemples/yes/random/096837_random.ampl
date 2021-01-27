@@ -1,0 +1,1 @@
+program I : main : when case false and(6) * x6 and 3 + 98600 and 9 and 55300 : let g = 7890 = 8; let P4[8] = 9 end case - (161) : input d52[8]; let Ft[0] = 9; do zvD0(5); when case 307 : chillax end end case(4) and 061 or 1 - 970 > - 04 - 33100 : chillax end end

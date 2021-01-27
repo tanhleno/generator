@@ -1,0 +1,1 @@
+program o : e : takes nR2 : integer array; Y2La, jtna, P : integer array returns nothing od0a : boolean; cU : integer array; let D2[not 4] = 5 - 27 = 1 end X7 : takes Dv8aa : integer returns nothing a, V, gc : boolean; chillax end K : takes Kr4aa : integer array; Ug6 : integer array returns integer chillax end main : chillax end

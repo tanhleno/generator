@@ -1,0 +1,1 @@
+program s : main : q, KG : boolean; when case - false * not false and false and 3 + (5) / true or _1 and 42 + 9 /= 2 : chillax end otherwise : input T6; output "/"; while 0 : chillax end; do kI8(4); pop end; while - false / true and 76 : input BTm0[34]; input j; do H(0); output "("; pop end end

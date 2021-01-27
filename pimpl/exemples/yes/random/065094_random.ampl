@@ -1,0 +1,1 @@
+program Y99a : X : takes V : integer returns nothing z : integer array; z680, zf : integer array; U2 : boolean; X : boolean; chillax end main : output "35" . "\"5"; let O[false] = not 2 and 57000; do bMr(t7S0 and 1 or 9 - 435); pop 8 end

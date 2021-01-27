@@ -1,0 +1,1 @@
+program G : i : takes X43 : boolean; B : integer; oG, bEk, J, y9 : integer; t7y, Pf, _q2aa, _lG : integer array returns integer B : integer array; wpK0a : integer; g, vU, n : boolean; chillax end main : do Xnu(true - XK[2] or l and 552 /= - 9280) end

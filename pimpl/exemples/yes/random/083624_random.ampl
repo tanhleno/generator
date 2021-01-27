@@ -1,0 +1,1 @@
+program XJ0 : main : C : integer; Z9Q0a, xm : boolean array; R9, F : integer array; z78aa, A3 : integer array; h : integer; input n[- false + I[8] + not 75 and 6 - 4770]; let t[- false] = g and 0 < - 0 - 2; let C21[- not 855 and 1] = 404 - 316 = 5 end

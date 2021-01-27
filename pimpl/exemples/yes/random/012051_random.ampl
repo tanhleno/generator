@@ -1,0 +1,1 @@
+program gf : Q7 : takes e, e, y86a : boolean returns nothing chillax end R : takes _9, iTR0, ey : integer returns nothing d : boolean; let el4[4] = array 2 - 9 end main : do R(false rem true, true); input v8[go[4]] end

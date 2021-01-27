@@ -1,0 +1,1 @@
+program z2 : b1 : takes A : boolean; Y : integer array; jelaa, m : boolean array; TI : boolean array returns nothing M00 : integer array; chillax end V2 : takes h2_0, L : boolean array returns integer output "n" . ""; while 1 = 7 : while 0 : chillax end end; let H = 12; output ",\t!a"; while 7090 : chillax end end main : chillax end

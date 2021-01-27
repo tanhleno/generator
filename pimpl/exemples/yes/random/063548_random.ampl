@@ -1,0 +1,1 @@
+program o : L : takes X : integer returns integer let h[- false and 20 + 45 - 2] = array true and 74 or 700; let Q[3] = array 5 - 55; pop 4; pop 06 end main : H, k, W, gE, Et7, y, R : boolean array; H : boolean; L, tV, cL : boolean array; Q : integer array; Y : boolean array; chillax end

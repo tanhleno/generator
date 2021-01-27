@@ -1,0 +1,1 @@
+program s : R : takes k, BN, m : boolean array; ym : integer array; E, GY10 : boolean returns boolean array chillax end main : output - (7) / not 50600 or h and 3; while - not false - S or 89 - 9 : output "" end end

@@ -1,0 +1,1 @@
+program L : O : takes N, J1u, X : boolean array returns boolean output 1 - 5950 >= 128 . 3 = 71 end U : takes f6, n, TV : integer array; b, N5, OS : boolean array returns integer do B_2aa(006 - 5 /= 4, 8, 9) end main : when case - (0 = 595) and 2820 >= 23 or not 15 and 26 : chillax end; input l[true rem false or false and 2]; when case true or 4 - 158 <= - 1 - 4 : chillax end end

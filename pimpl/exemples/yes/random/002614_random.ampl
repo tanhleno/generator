@@ -1,0 +1,1 @@
+program S9 : pc6 : takes r, vk, E4, j, EqB : boolean array; n330a : integer array returns nothing v5, s, m4 : boolean; let jz40 = - 4 - 8 < 6; while - 03 - 0 : chillax end end main : kc : integer; chillax end

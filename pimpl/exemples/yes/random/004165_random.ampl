@@ -1,0 +1,1 @@
+program Y : Fo : takes T, Z, t, q, YVU : integer returns nothing when case true and 7 or 6390 - 4 < - 010 - 721 : input J3[4]; do W(4780); pop end otherwise : when case 0450 : chillax end end; pop 4100 end main : chillax end

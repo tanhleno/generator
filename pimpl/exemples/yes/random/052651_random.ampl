@@ -1,0 +1,1 @@
+program gFW : A410 : takes k : integer; n : integer array; AL, c, C : boolean returns boolean B, o, r : integer; T : boolean array; output "\t"; let L[- 2 - 03] = 86; let ns[4] = array 9; let u9D = 5; output ""; output ""; pop end y8 : takes D : integer returns integer array chillax end main : input Y[- (9) - not false]; let S[- e(98)] = 22 and 4530; output "" . 7 = 8 . 0 end

@@ -1,0 +1,1 @@
+program N : K8 : takes A, o, aR, k3, x, _nj, u : boolean array; F : integer; Qq50a, y : integer; X9, O, e : integer returns nothing chillax end K : takes vH : integer; B, XmP : integer array; M, C : boolean array returns boolean chillax end v : takes n : boolean returns boolean array input J end main : when case V[2910] or not not 461 rem v : chillax end end

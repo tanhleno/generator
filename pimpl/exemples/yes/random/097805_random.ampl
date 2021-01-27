@@ -1,0 +1,1 @@
+program S170 : main : while(383) and not true / (9) and 694 : while 888 - 52 > 615 : chillax end; let pM[2] = array 8 end; when case - true + not 98 - 5 /= false or 7 - 90 : output 364 end otherwise : output "" end; while - false and 1 - 3 - 90 : do f(0); while 19 : chillax end end end

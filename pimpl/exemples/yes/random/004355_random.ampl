@@ -1,0 +1,1 @@
+program n : wA : takes X, q, C6, B : boolean; h, X98 : boolean array returns integer S90 : integer array; chillax end U : takes W : integer; X, N : integer array returns nothing while 3 : chillax end; pop end main : c : boolean array; do c(true - p(27100) / not 86600 and 3, - c[2] and qj <= 81, false and 04) end

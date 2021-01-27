@@ -1,0 +1,1 @@
+program F : main : x9 : integer; a : boolean array; q, w6 : boolean array; when case - true and 7 and not 21 and 10 - 56 and ps00a and 5 + (99) or 78 = - 7 rem c and 71600 : chillax end case - 7 / 5 : chillax end otherwise : chillax end; output "" end

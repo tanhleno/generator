@@ -1,0 +1,1 @@
+program V : D : takes v : integer returns integer array input CQ[- VV or 6600]; let b = 05; do v(2160 = 56); input GU7[74]; do g6(27) end main : Rfqa, H9 : boolean; F5J, T, y : integer array; while - false : when case - 7 - 0 = 0 : pop; output "#W"; pop end; pop 866 end; output "" . ""; let A = array - false; pop end

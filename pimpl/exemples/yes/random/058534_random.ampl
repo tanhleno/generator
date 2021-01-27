@@ -1,0 +1,1 @@
+program di40 : tg : takes lK9 : integer array returns boolean when case - e0 and 50 : when case 8 : pop end case 3 : chillax end end; pop 59 = 9 end f : takes p : integer returns nothing M : boolean; chillax end main : let B[- 13] = - true + false and 2 or 8 > 81 and 7 or 67; output - b > 0 - 1 end

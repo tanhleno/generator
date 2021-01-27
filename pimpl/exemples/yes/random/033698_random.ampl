@@ -1,0 +1,1 @@
+program p : Da3 : takes n1R0a : boolean; A, s, L, a4q : integer returns boolean chillax end EP : takes X3 : integer array; A, Z6 : integer; J0 : boolean array; l, K : integer array returns integer array r8l, S, k6, t : boolean; Vv8aa : boolean; chillax end main : MH : boolean array; let GE = array - not 23 * false or z(5) rem rb + 6 or 463; output "" end

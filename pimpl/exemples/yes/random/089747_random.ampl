@@ -1,0 +1,1 @@
+program O : main : let B = array(3) - 68 or(57) + 89600 - 9; when case(18400) * true and 7 : chillax end case - false < 09 - 7 : chillax end case 8 - 7 : chillax end case 697 = 1260 : chillax end; while s and 0 > 38 - 3660 : chillax end end

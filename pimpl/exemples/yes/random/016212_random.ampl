@@ -1,0 +1,1 @@
+program t : A810 : takes z, v, f : integer returns nothing chillax end main : bb, e, Z, B : boolean array; when case - r180a >= 2 + 543 - 08 - 4 : chillax end case Db[33] / not 890 : do lc(87, 13); when case 1 : chillax end case 5 : chillax end end otherwise : chillax end; input JR0a; pop end

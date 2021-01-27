@@ -1,0 +1,1 @@
+program v : V : takes B : integer returns integer array Ee, H15aa, dv4a, ei : integer; let i9 = - 75 - 657 >= 011; pop; while 8 = 12800 : chillax end end main : when case 807 : chillax end otherwise : chillax end; let k7[not false] = - mI5a and 69 or 13 end

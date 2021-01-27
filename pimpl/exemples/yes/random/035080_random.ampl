@@ -1,0 +1,1 @@
+program tLw0 : P7 : takes a : boolean; QL1, _2 : integer array returns integer chillax end C : takes z49aa : boolean array returns boolean array chillax end main : output - V(53) <= - (4) and 24800; output "\tK\"" . "" . "\\" . 35 . "5" . "" end

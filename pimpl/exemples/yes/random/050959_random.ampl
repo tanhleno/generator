@@ -1,0 +1,1 @@
+program C03a : UXk0a : takes A460a : integer; b, P1Laa : integer array; P, X2, T : boolean returns nothing uD, Em00a : boolean; chillax end main : Dcs : boolean; S : boolean; GY8aa, hv : boolean; when case true : chillax end case - not(18) - not 51800 or 94000 - 1530 = 09 : chillax end; input L; let BB[- 74 and 573 + 41] = array - not 96 and 9 or 540 - 3 end

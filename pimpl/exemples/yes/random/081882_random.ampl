@@ -1,0 +1,1 @@
+program i440a : main : i : boolean array; C : integer; U7, uMF, X540 : boolean array; P : boolean array; k : integer; let NWw[(66 = 0) / false / not 19200 and 48 + 69100] = r(0) - false and 2 or 34 - 11 > true and 4400 - 397; output "" . 2 - 90 end

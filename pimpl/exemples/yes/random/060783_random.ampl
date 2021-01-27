@@ -1,0 +1,1 @@
+program q1 : fM : takes OZ : integer array returns nothing djZaa : boolean; g89 : boolean array; Hb8a : boolean; o, PT1 : boolean; C : boolean; z8 : boolean; chillax end kY : takes d, t99a : boolean array; t44 : boolean array returns nothing let HV2a = 4890 = 5920; let r[9] = 259; pop 3 end main : chillax end

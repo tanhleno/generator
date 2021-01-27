@@ -1,0 +1,1 @@
+program b : H : takes YU, m, P, p_F : integer array; eZ, W : boolean; It, F : integer returns nothing Zw4, EQaaa, _H : integer array; r2, m0maa, i6 : boolean array; chillax end main : i8w : integer array; iU : boolean; pop - true rem not 3 and 661 end

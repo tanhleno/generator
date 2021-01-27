@@ -1,0 +1,1 @@
+program B : v : takes s, b6raa : integer array returns nothing G : boolean array; p06 : integer; S4 : integer; chillax end G2 : takes A42, fUg : boolean returns nothing chillax end main : _u6, U : integer; output "06" end

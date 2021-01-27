@@ -1,0 +1,1 @@
+program L : C : takes g, u : boolean; w : integer; v : integer; aJV : boolean array returns integer array W7 : boolean; input b9; when case - 4 - 1 : chillax end; input F0R[7950] end LS4 : takes KP, t : boolean; w, m, P3 : boolean array returns nothing W, h, M, K : integer array; chillax end main : W4 : boolean; yd : boolean array; F9a : boolean; chillax end

@@ -1,0 +1,1 @@
+program L7P0 : main : l : boolean; ak7, z : boolean array; d : integer; Y7 : integer array; A8, u, df3a : integer; pop; output z02 or 6 <= - 0 - 7; when case true and 1 : chillax end otherwise : chillax end; while 37 : do _K(9); pop end; let E = array 0; pop end

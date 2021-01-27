@@ -1,0 +1,1 @@
+program QF : GDwaa : takes Z : boolean; J, S : integer returns nothing m880, U : boolean; En, gwE, p87, q : integer; Q, E8Ra : boolean array; n, b470a : boolean; U4kaa : boolean; chillax end H : takes H69a, Q, b, J, Vd, SL : integer returns boolean array input Q end main : while - false rem false / 4 and 7 or hE4[0] : chillax end; do G78(- false * false and 49 < K7P + 37) end

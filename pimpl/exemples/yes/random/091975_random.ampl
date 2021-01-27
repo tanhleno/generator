@@ -1,0 +1,1 @@
+program kIQa : main : output - false . "" . - 775 - 2 = 722; when case - (67200) /= - true and 50800 : chillax end case Em - 7440 /= 8 - 49 : pop 24 end case 33 : let g71a = 89; while 9 : chillax end end; output "MZ0" end

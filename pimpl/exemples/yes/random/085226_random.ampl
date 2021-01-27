@@ -1,0 +1,1 @@
+program A : main : S : integer; when case 074 or(8) rem not 01 or 1 and 96 + 7 < - (162) rem d : while 11 : input y; pop; pop end end case - R3 rem false + 49 and 5 or 2830 : pop 76; while 3 : chillax end end otherwise : chillax end end

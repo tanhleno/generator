@@ -1,0 +1,1 @@
+program K : T59a : takes Jv, A : boolean array returns nothing when case N or 63 < 3 : chillax end case - 2 : do GOd0(90) end; when case - 07100 - 6 <= 1 : chillax end case 5 = 33 : chillax end end main : f4P : boolean array; s : boolean; l6, B, V2 : boolean array; chillax end

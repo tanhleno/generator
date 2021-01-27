@@ -1,0 +1,1 @@
+program ot : b : takes An : integer array returns integer array while - true and 19 + 41 /= 5 : do o(22) end end r0 : takes i1 : integer returns boolean M : integer; P, q27, O : integer array; let Ox = 4 end Z : takes Xv : integer returns nothing output "7O0a" . "" . "v"; pop 7; output ""; input HZ end main : chillax end

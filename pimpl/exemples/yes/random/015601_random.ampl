@@ -1,0 +1,1 @@
+program Q : g : takes p, O, D : integer array returns nothing when case(2) : while 0 : chillax end; when case 76 : chillax end; output "x" end case - 68 - 8 : chillax end otherwise : output ""; input A end end main : chillax end

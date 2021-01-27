@@ -1,0 +1,1 @@
+program I_7aa : m : takes a : boolean; QW : boolean; M94 : integer; X : integer; Qu, i : boolean returns integer array Z190, S : integer array; chillax end main : output RW[74] and false . "\n\n"; let G[P rem 3 and 07] = not 9230 and 6; output - 22 - 7 < 4 end

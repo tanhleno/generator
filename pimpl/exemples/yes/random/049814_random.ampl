@@ -1,0 +1,1 @@
+program v : glA : takes d : integer; Y, s, zNUa : boolean; Y6Waa : integer array returns nothing output - 3 . 7 = 16; when case 1 - 92 > 079 : pop; while 49 : chillax end end case 75 = 7 : pop end end main : chillax end

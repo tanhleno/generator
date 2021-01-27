@@ -1,0 +1,1 @@
+program Sn : f3G0a : takes V6iaa : boolean array; N, SJ8, a : boolean array; FK, P, Accaa, z : integer array returns nothing K1, v, o : boolean array; let M9u0a = 4 - 0 end main : t, X3jaa, S4C, n74 : boolean array; O, j : integer; x1 : integer; Hp, z3 : boolean; chillax end

@@ -1,0 +1,1 @@
+program tFV : main : Imk, G, K53 : integer array; F4 : boolean; Z20aa, u : integer; P : integer array; Cl, i, j : boolean array; vY, D : boolean; do l7(- _8[42] / 6 * k_n0a + false / z3M and 0 - P70 and 7 <= - E4 * Y49a); let ra[not true / false] = - not 4 >= 4 - 8; do H28aa((29) and 967 or 9 - 9) end

@@ -1,0 +1,1 @@
+program WP : main : M4, l58a, K : integer array; U2, r : integer array; while - XSC0a[547] <= (17) : do AIr0a(164 - 299 <= 30, 2); let B0[30700] = array 5 end; output false - 744 = 6 . - 4 - 7 >= 3 . "" end

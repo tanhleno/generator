@@ -1,0 +1,1 @@
+program YA : a850a : takes h480 : boolean array; p27aa, I, c47a : boolean array returns nothing JL : integer array; output "" . "69!" . 7 . "G8aa" end main : B : integer; E : boolean; do hj((5) + (4) * true + 56100 > 3400 + (43) and 959) end

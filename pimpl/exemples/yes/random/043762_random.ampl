@@ -1,0 +1,1 @@
+program q : r : takes k4 : boolean array returns nothing chillax end main : z : integer; O180, o6Z : boolean; when case - not false * true rem 293 and 6 or true or true and 948 + 37 - 83 : chillax end; output - (6) and 5; pop; input F3[- 2] end

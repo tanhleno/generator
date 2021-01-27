@@ -1,0 +1,1 @@
+program t : OU10 : takes R : boolean array returns nothing kw, RHT : integer array; O8 : boolean; u7, aK, F400a : integer; E0k, j : boolean; J : boolean; P : boolean; input O; do W(- 3260 < 2, 6 = 34800, 0, 13); let V9[6] = array 82; when case 92 : pop end case 80 : chillax end; let ug0a = 1 end main : Q, o, m : boolean array; W, a, C : integer array; p : integer; chillax end

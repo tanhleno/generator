@@ -1,0 +1,1 @@
+program T8 : IAS : takes gp_, g7 : boolean array returns nothing G : boolean; chillax end w : takes F : boolean returns boolean i : integer; chillax end main : HRs0a : boolean array; X4 : boolean array; Z, C, A : integer; chillax end

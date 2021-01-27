@@ -1,0 +1,1 @@
+program r : t : takes T : boolean array returns integer array chillax end il : takes U : integer returns nothing do O(- 2 - 4 = 6820, 4 = 88, 8); while 1 = 2 : chillax end end K5 : takes T, L : integer returns integer array do h4(9, 8, 2) end main : let p = array true rem true or false end

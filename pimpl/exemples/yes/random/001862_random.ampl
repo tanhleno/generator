@@ -1,0 +1,1 @@
+program X : r : takes a8c, fp, i2F, _1A, Y, Z : integer array returns boolean chillax end H : takes eAg0 : boolean array; A : integer returns nothing f270, i, X3h0 : boolean; output "5"; output 1 . 18 . "" end main : input W; do K6(- 4 <= not 07400 and 5) end

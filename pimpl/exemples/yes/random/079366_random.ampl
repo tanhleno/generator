@@ -1,0 +1,1 @@
+program M : main : C94 : boolean; Z42 : boolean array; u, Ax : boolean array; input Y[- not yi(1840) and true + true and false and 6]; when case - not m5 <= - true : pop 8; input e; pop; output "_5"; pop end case z + 47 - 418 : output 770 end end

@@ -1,0 +1,1 @@
+program f : Vye : takes w, d0 : integer array returns boolean pop 76 <= 6 end Gc : takes VPoa : boolean returns nothing let Z15[665] = array 1 end main : k68a, D36aa, o5 : integer array; l, o8, y, G, kNV0, tx : boolean array; chillax end

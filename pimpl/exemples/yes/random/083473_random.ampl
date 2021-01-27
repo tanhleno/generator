@@ -1,0 +1,1 @@
+program d : main : s11a : integer; V96, u, I : integer array; T : boolean; gl : integer; y : boolean array; pop; while true <= 36200 + 27300 : chillax end; while false + 2 - 3 < - 22 - 7 : let Wu[6] = array 6; when case 789 : chillax end; let P3 = 68800 end; while - 1030 - 04 : let I4j = 5; when case 07 : chillax end end end

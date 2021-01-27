@@ -1,0 +1,1 @@
+program gMC0a : sG : takes TdC : boolean returns boolean array output "\t(" . "7\\"; output "."; do az(5700, 0, 3) end main : Ry : boolean; _, b2 : boolean array; w, r3 : integer; _, r : integer; t1 : boolean array; chillax end

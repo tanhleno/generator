@@ -1,0 +1,1 @@
+program h : IQ : takes iQ7aa, uT : integer; PX_0, Au4, p : integer array returns integer when case not 017 and 8 : chillax end end j31 : takes v1, t : integer; _n : boolean array returns nothing L, n7 : integer array; l8 : integer array; d03 : boolean; chillax end main : chillax end

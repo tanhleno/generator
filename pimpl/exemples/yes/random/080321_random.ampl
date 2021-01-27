@@ -1,0 +1,1 @@
+program fd : main : k97aa : boolean; when case(4) and not 8000 / v89 = - (440) : chillax end case - not false and false + (6) - 0 - 0 = - false + 79 - 857 : chillax end otherwise : chillax end; let aN1aa[X0r[27700] / (7) and 90 + d - 046] = array 97200 and 05 - (220) - 9 - 329; while false and 39 + 4 < - 881 : chillax end end

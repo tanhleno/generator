@@ -1,0 +1,1 @@
+program l : w620 : takes O6 : integer array; I : boolean returns nothing chillax end O : takes dkwaa, U, p : integer; U : integer returns nothing chillax end vp : takes L : integer; Q, L : boolean array; X : boolean returns nothing let J[7610] = 52; output 1 end main : U : integer; chillax end

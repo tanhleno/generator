@@ -1,0 +1,1 @@
+program I : main : m6 : boolean; z : boolean array; P : boolean array; when case false and false and not 0 >= not false + (96) and 71 + 8 : output 577; input A34a[099]; input o9i0[68] end case true : when case 9 = 4 : do e(993); pop end otherwise : pop end end case - true and 84 /= 03 - 84 : chillax end case - 1 >= 9 : chillax end otherwise : chillax end end

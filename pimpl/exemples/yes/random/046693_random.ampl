@@ -1,0 +1,1 @@
+program c : E2P : takes P : boolean returns integer array A : boolean array; qY3aa : boolean array; chillax end main : output "" . "" . - 1 . "" . 8; do i(- false - false + 5 - 88900 >= (5) and 9 + 4 - 03100, 2 or 5 - 7); pop - 3 >= 9 end

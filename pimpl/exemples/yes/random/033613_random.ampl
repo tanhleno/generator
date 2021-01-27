@@ -1,0 +1,1 @@
+program y_ : mI5aa : takes d7 : boolean; n5T0a, E, h, B : integer; eD5 : boolean array; Xt, G, wy6 : integer; yT1aa : integer array returns nothing input dj3 end main : e5L : boolean array; let Q[true or 78 and true and 99] = array p8B[266]; when case - not 9 rem ey and 928 : input JZ; do gp2aa(74) end; do I(63 - 70 - 3); while 5 < 65 : let d3 = 8 end; pop end

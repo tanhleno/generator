@@ -1,0 +1,1 @@
+program e1 : l7 : takes e, v9 : boolean array returns integer array while - true and 8 = - 6 - 7 : when case 7 : chillax end end end H380 : takes e760 : boolean array returns nothing output 59 end main : F : boolean; Gz : integer; chillax end

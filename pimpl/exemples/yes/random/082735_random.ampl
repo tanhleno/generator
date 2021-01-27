@@ -1,0 +1,1 @@
+program EF : main : KyA0 : boolean array; when case i / GB3aa[1] / (42) - not T * true and 2 <= not not 8 - (6) : chillax end otherwise : chillax end; let f2[false] = array true or(5) and 6 - 97 - 9 end

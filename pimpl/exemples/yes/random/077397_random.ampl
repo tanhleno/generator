@@ -1,0 +1,1 @@
+program F81 : main : O, r : integer array; F, b : integer; jO0a : integer; _ : integer; Q, A, X : boolean array; do k0(5 / 31100 or not true < - 1250 and false and 1670 - not 7 and 359, - V3[2] * s >= - nO + 6) end

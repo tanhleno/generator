@@ -1,0 +1,1 @@
+program Q4 : gx : takes p4 : boolean; Xs5aa : boolean; S, Ri, G90aa : integer array returns boolean uNB : boolean array; output - 7420 = 3; input Y end eTr0a : takes ELXaa : integer array returns nothing do v1(4 - 3); output "\t" . 2 . "\nO" end main : zTM0, R300a : integer array; chillax end

@@ -1,0 +1,1 @@
+program s : C6 : takes j : boolean array returns nothing w, aP : boolean; chillax end main : l, j8 : integer; f0A, g, s : boolean; when case true rem x[641] or true = 738 / 8 - true and 7 or 4 - 2 : when case - 8 - 0 = 7 : chillax end; output 5 . 6; pop 26 end; when case 961 + 6 and 47 : chillax end otherwise : chillax end end

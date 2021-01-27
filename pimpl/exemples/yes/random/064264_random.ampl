@@ -1,0 +1,1 @@
+program a : l : takes e : integer returns nothing h, P710, a, ov : integer array; chillax end main : Rdg : boolean; let P7ba[- 57] = array - not 595; when case - false and true + (6) - 1 : chillax end end

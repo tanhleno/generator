@@ -1,0 +1,1 @@
+program tfL : main : when case - 10700 and not(6) : do C(4); output "61" . "" . "1\n0a" end case false * ym7a : chillax end case true < 8 - 96 : chillax end case - 0 - 681 : pop end case 5 : pop end otherwise : chillax end; pop end

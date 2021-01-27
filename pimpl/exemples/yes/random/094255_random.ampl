@@ -1,0 +1,1 @@
+program q : main : pop - true - not 8 and 9 + 3 >= not 6 and 3; pop; while - (77) and 005 < 4 : chillax end; when case 174 - 35 >= 23700 : chillax end otherwise : when case 2 : chillax end end; output 9; input E3W end

@@ -1,0 +1,1 @@
+program G5 : L : takes h, nG50a, T, J, UiF0, A : integer array; H, Y9 : boolean returns boolean t66a : integer array; let hA9 = array true - 19 end main : n : boolean array; X69 : integer; E9, J, v : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Y : YW1aa : takes N, uo : integer; C8, P4 : integer; v : integer returns boolean do VQ(p6b and 59 <= 6) end main : z : boolean array; O, T : integer; m : boolean array; J, y, C830a, _d : integer; E030, I : integer array; chillax end

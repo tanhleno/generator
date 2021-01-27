@@ -1,0 +1,1 @@
+program o530a : Vt : takes K9, ut : integer; _, cU : integer array returns nothing o : boolean array; E : integer array; L : integer array; chillax end vF : takes b5, C, t7, F, h : integer returns boolean array chillax end main : c : integer array; s910 : boolean array; chillax end

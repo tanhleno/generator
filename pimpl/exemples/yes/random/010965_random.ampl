@@ -1,0 +1,1 @@
+program Z : aW : takes jQ, z, B : boolean array returns integer MS : boolean; x, xV : boolean; ki, r6, K : integer; W : boolean; chillax end main : x : integer array; W : integer; output true / false + true and 22 or 96 - 4 > not 9 + 5 - 006 . - not 6 and 450 - 0 . - 212 . 79 = 69400; pop; pop - 2 <= 5 end

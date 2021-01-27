@@ -1,0 +1,1 @@
+program c9 : O : takes mS, t6k, s5 : boolean array returns nothing let h[- (410) and 1] = - 1; do F140a(79 - 2, 6890, 1, 4) end Ok1a : takes Y : boolean array returns nothing b, U1, A, s25aa : boolean; h, _, I4Wa : integer; f5J : boolean; output 3 = 1; do W(24600, 4, 5) end main : n_1, O2, o8, Kf, l : boolean array; output "9"; let d84[- (5) * true] = array 6550 end

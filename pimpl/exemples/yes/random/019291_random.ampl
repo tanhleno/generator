@@ -1,0 +1,1 @@
+program K4taa : Kx : takes tx, r3Sa : boolean array; C6J, G470 : boolean array returns nothing cS4 : boolean array; q2z, n, I, f : integer array; a : integer array; input k0 end main : O, e : integer; let Y = (1700) end

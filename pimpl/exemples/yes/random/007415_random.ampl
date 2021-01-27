@@ -1,0 +1,1 @@
+program G9 : G : takes D, g9, BmB, Bs9a : integer array returns boolean array R : integer; s, hDE, bQ, x82aa : boolean; i, _, y640 : boolean array; chillax end iC9 : takes Tz5aa : boolean array; C, V200a : boolean; T2, fC4a, mw : integer; VCma : integer array; m, DY, h : integer array returns nothing q, f4 : integer; input X8L[- 45 - 1] end main : chillax end

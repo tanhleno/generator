@@ -1,0 +1,1 @@
+program R : E19 : takes h : integer array; Y : boolean array returns integer chillax end main : e : integer array; O, E580 : integer array; g, c : boolean array; output false rem(779) or true > false and 3; input t4 end

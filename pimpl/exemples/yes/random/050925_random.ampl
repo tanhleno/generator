@@ -1,0 +1,1 @@
+program d : XM6 : takes zl : integer; Z, Rypa : integer; w : integer returns integer chillax end z : takes a5ia : integer returns boolean array N : boolean; chillax end main : let O = false - not 2 = false and 33 + 38; output - true and 4 - 4 = 8 . - 0 > 3 . 9 = 74 . 88 . 062 end

@@ -1,0 +1,1 @@
+program X : z : takes xu, V, _, C : boolean returns boolean array H, J2 : boolean; while(95) + 1 < 908 - 54 : let h3[6] = 3 end end main : let O0 = not 21 /= V and 2 - 5 - 7; do z40(- not e * not 66 and 40 + false or 859, (76) and 1 or 68 - 58 = - 4700); input F[- 10 and 012] end

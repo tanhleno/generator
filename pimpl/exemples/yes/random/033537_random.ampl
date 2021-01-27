@@ -1,0 +1,1 @@
+program yd : V : takes d : boolean; HC, jPwaa, M, K3 : boolean array returns boolean Md : integer array; chillax end yJ1 : takes N : integer; k_ : integer array; e, Zk, P45, o07a, OX : boolean returns boolean array chillax end main : K82, E3ja, Ti : boolean array; v7H : boolean; dsL, q, X : integer; when case - 69 : chillax end otherwise : chillax end end

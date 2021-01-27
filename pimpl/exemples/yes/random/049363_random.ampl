@@ -1,0 +1,1 @@
+program dfv : N : takes sqv0 : integer; bhGaa, x, s4G, w, _ : boolean; OL, S, P : boolean array; U, p : boolean array returns nothing chillax end JP60 : takes WFUa : integer; g, Jdoa : integer array returns nothing input l[- 064 - 4] end nx : takes t : integer array; x1 : integer returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program T1 : wPg : takes kDF : integer array; c : boolean returns integer pop - 28 - 147 end main : let H[(3) * not true + false * false or(67) and 9 or 61000 - 4] = array 5 + (0) / (96) and 7 + true and 0 or 6 - 30 end

@@ -1,0 +1,1 @@
+program y : U : takes F : integer array; s : integer array; p9 : integer returns nothing QY, hv : boolean; S, m : boolean; G, w : boolean array; input YK[- true and 49 + 2]; pop 74100; input M; pop 4; pop end main : M, mn : boolean; r, z91 : boolean array; chillax end

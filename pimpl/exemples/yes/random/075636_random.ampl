@@ -1,0 +1,1 @@
+program E : main : z, A2 : boolean array; when case - 798 >= - true or 579 : pop; while 244 : chillax end end case - (91700) : input Q6gaa[927] end otherwise : chillax end; pop; input t[- 7 - 0 - 8] end

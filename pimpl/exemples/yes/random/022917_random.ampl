@@ -1,0 +1,1 @@
+program _8 : u8 : takes B, f9 : boolean returns boolean array d5, L10, Qys, I, F : boolean array; G : integer array; output 7 /= 515; do yy1(04, 7 = 8, 40, 7380) end I2 : takes U9, ZI, cQm, L3 : boolean array returns boolean x : boolean; i, sg : boolean array; Uy6 : boolean; l : boolean; D : boolean; chillax end main : cv : boolean; chillax end

@@ -1,0 +1,1 @@
+program u : Ta20 : takes Bw : integer returns integer array z1 : boolean array; J : boolean array; chillax end main : while - not y[2280] + cR + D and 04 or 1 - 54 : while - 4 : output ""; while 8 : chillax end; pop end end end

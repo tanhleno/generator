@@ -1,0 +1,1 @@
+program k : O9U : takes F, IN80 : integer array returns nothing g16 : integer array; cc, E : integer; pop 3 - 7890 = 70; while 22700 - 6010 : chillax end end main : J, w5, Y : boolean; Cc, L : integer array; chillax end

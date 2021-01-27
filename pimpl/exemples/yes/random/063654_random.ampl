@@ -1,0 +1,1 @@
+program U : r3 : takes ve : integer returns nothing chillax end K : takes J, A68a, C, M : integer array; T : integer returns integer array let K[- 0] = 57; when case 30 = 2 : when case 8 : chillax end end otherwise : pop end; pop; input Q end main : N : boolean; chillax end

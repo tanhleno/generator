@@ -1,0 +1,1 @@
+program D4Fa : r : takes r17 : boolean array; n, q : boolean returns integer chillax end x : takes t : boolean array returns integer chillax end L : takes m, l : boolean; u0s : boolean array returns integer array X : integer array; S : boolean; chillax end main : do p(not false + false) end

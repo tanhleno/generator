@@ -1,0 +1,1 @@
+program T7 : y : takes FD, C : boolean array returns integer array output "" . "" . 4 end main : do L(- true, (25) / not 24200 - true and 81, - true and 44 or 7 - 9 /= 871, 2 - 0); when case false / true <= (832) and 373 or 4 - 33 : chillax end case - not 7 : output 28500; do dXa(200) end end

@@ -1,0 +1,1 @@
+program G : h : takes L, _ : boolean array; e, K : integer; NF30 : boolean; u : boolean returns boolean chillax end main : U, e : integer; while - false : pop 89400 = 547; while 13 = 801 : when case 214 : chillax end; pop end end end

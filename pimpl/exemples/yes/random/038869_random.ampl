@@ -1,0 +1,1 @@
+program Y : l : takes y : boolean array; O, g9a : boolean returns boolean X : integer; let rP = array - (564) + 6 - 96; let CHJ[39 - 6] = array 178; when case 39 = 5 : when case 1 : chillax end; pop end case 70 : pop end end main : N : boolean; while - true >= - Z8[7] + true - 5 : do N(- 84 - 39500 < 78); input V end end

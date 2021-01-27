@@ -1,0 +1,1 @@
+program bP0 : q : takes GXh : integer array; _7, ht, n, B, n7, W, r : integer returns nothing b1 : integer; let K[true + 3 - 9] = - 5 - 0 > 832; pop 1 = 53600; input E[7]; let Uiaa[69] = array 13 end main : K, l : integer array; b_, Yr : boolean; while not 904 / true : chillax end end

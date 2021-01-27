@@ -1,0 +1,1 @@
+program Bm : r0 : takes iO, GR : boolean array returns boolean c : boolean array; let SE = array 07700 + 1930 - 20; output "2"; pop 3 end main : m, B2 : integer array; do a0(- not H[3] rem J or 1 or 35, - (8910) * A > - Q7 + 4 - 1, false) end

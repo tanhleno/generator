@@ -1,0 +1,1 @@
+program s : Yg4 : takes y8 : boolean; gN : boolean array returns nothing At : integer; c, p : boolean; gm, Ob, t : integer; chillax end main : output "" . - not 1 and 3 - 67 - 5; pop; pop - 945 - 612 > 58; pop end

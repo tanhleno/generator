@@ -1,0 +1,1 @@
+program C6s0a : main : Yl8a, v0a, x, BBJa : integer array; output - not not 7 / not 4560 and 632 < true . false - 43 - 96 . ""; do r(- (93) and true and 721 + 74 = - D and 1 + 421 - 03, - (52) and 3, 30); output "25a" . 9560; pop; output "I\"aa" . 328 . ""; do Ci(43000, 0) end

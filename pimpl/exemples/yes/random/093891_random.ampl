@@ -1,0 +1,1 @@
+program G : main : pop - false; while(301) : when case 7120 : chillax end case 2 : pop end; when case 6 : pop end otherwise : chillax end; while 3 : chillax end end; let k[- r5 - 4 - 3] = array - gu and 3 + 4 - 9 end

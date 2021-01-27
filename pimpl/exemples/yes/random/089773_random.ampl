@@ -1,0 +1,1 @@
+program q7 : main : let N = array(04 = 6); when case true + true + 0 > false : chillax end case not 7 and 1 + 4 = 72 : pop; when case 7 : chillax end end case 25 - 3 : chillax end case 20100 : chillax end case 08 : chillax end case 0 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program h4 : nMp0 : takes O8, Wn : boolean; X : integer array returns nothing chillax end main : when case - (68) or 44 * true : chillax end case w rem false and 43 <= - 860 and 01 + 221 : while 4 = 07 : chillax end; while 7 : chillax end; input J9 end otherwise : chillax end end

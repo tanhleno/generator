@@ -1,0 +1,1 @@
+program R : kh : takes W : integer array; H4p0 : boolean; V, Q, A, h : integer array; O, D3M0 : integer; g : integer; D, A : boolean array; xA, O : boolean returns nothing T : integer array; C : boolean array; chillax end main : input R[- false or not true / (6)] end

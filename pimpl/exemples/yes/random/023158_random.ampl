@@ -1,0 +1,1 @@
+program T9 : D : takes a, s : boolean returns boolean chillax end main : nx : integer array; _80, D, X : integer; m : boolean array; pop - true rem 8 and 2330 or true and 09400 <= - 95500 and 8 or 7 end

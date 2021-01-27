@@ -1,0 +1,1 @@
+program j : main : V : boolean array; VT, S : boolean array; v6K, W : boolean array; d8, J04, j8na, F : integer array; D6U0 : integer array; t : boolean; input a[not c9(8) rem false + (0) rem not 25]; output "" . 5 - 32 . "9"; pop 3 - 2 = 3 end

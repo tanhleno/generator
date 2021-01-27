@@ -1,0 +1,1 @@
+program lJ9 : main : I8, _43, sP : boolean array; do RZ((1 = 6) and not not 11 / 44 and 14 /= true, - 730 + false and 32 or 7110 <= - not 0 - 58 - 4, - (876) and 50 /= 0 - 9, 495); let N = 61; while - true <= - 1 : chillax end end

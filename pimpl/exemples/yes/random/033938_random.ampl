@@ -1,0 +1,1 @@
+program q : U51a : takes gl0 : boolean; B3, VFR, n4X : boolean returns nothing chillax end xq : takes R9 : integer array; U4, R, p9 : boolean; r : boolean; R, L5 : integer array returns boolean p, O, N : integer; chillax end Z6 : takes P : integer array; sg : integer array returns nothing output 5680 end d390 : takes i, wd : boolean returns boolean chillax end main : chillax end

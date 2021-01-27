@@ -1,0 +1,1 @@
+program f : eh : takes W, Ys5, K : boolean; E7 : integer returns nothing pop 42 - 715 < 64; do g(- 82 = 63); pop; while 49 : chillax end; output "\\("; let c = 4 end main : PX9aa, H2, gAL0, a : integer array; input FW8 end

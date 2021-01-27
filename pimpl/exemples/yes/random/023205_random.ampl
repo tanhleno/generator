@@ -1,0 +1,1 @@
+program Se7 : vc : takes E, M : boolean returns boolean OPm, N4 : boolean; T, C : integer array; o, Y : boolean; chillax end K3 : takes LVs : boolean array; Oi10 : integer; D : boolean array; S, n : integer returns boolean array tP : boolean; chillax end main : jg : boolean; p, B : boolean; output true . "" . "0" end

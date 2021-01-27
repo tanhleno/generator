@@ -1,0 +1,1 @@
+program m1 : B5 : takes mm : integer array returns nothing q : boolean; let v9[- false and 84] = array o and 1 end k : takes K : integer array; im60a, gd : boolean; U, IN : boolean returns boolean array chillax end main : pTn0a : boolean array; pop 1 and not 4 + false end

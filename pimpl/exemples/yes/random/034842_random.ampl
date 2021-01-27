@@ -1,0 +1,1 @@
+program hW : TP : takes C : boolean; C2, V : integer; Cv : integer; Q : integer returns nothing N27 : boolean array; output 8240 - 312 = 2 end i2q : takes f1, P6M0a : integer array returns nothing O87, z1Oa : boolean array; y : integer array; W2, MR4 : boolean; pop 9 = 4 end main : J : integer array; chillax end

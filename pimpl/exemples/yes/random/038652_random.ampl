@@ -1,0 +1,1 @@
+program BW : X : takes n : boolean array; K, ago : boolean array; hz40, IV20a : integer returns nothing K, R7, n : integer array; BJcaa, X : integer array; Ei, p : boolean; input B[8 + 9]; output 792 end main : pop; input w[- X(3440) / not 9 - not 47 and 1]; input U end

@@ -1,0 +1,1 @@
+program Sam : main : when case true + false rem true : input p; while 97400 : let t0 = 4 end; do qUk(11, 2) end case not not 2 or true and 94 + 6 - 19 >= not 98 and 1 : chillax end case - (7) and 8 - 4 : let q[70] = array 00 end case 83 : chillax end end

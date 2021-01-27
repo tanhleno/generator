@@ -1,0 +1,1 @@
+program u : w : takes R0 : boolean array; C1 : integer array; R : integer; y : integer array returns nothing vu : boolean array; b : boolean; chillax end T5 : takes l76 : boolean array returns integer chillax end main : output true and not 173 or u5 and 4340 or 84; when case - not 6 / not 65 : chillax end end

@@ -1,0 +1,1 @@
+program y : S : takes h, Q : integer returns nothing do q(not 8 and 954 <= 47); do Q680(4 = 75); do g(1 = 00, 1) end main : Pw30a, kWp0 : integer array; dP, O30a, C, r, c : boolean array; chillax end

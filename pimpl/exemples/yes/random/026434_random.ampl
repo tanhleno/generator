@@ -1,0 +1,1 @@
+program Z : g : takes r, To2 : integer; sm : boolean returns nothing mShaa, V, D2maa, mYW, fY : boolean array; input n[true]; while - 521 - 3 > 731 : let AqW = 5 end; do e(0, 893, 04300) end main : output - not not 9 and true; while g = - not 79 + 69300 - 4 : chillax end end

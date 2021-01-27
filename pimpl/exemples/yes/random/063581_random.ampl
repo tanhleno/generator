@@ -1,0 +1,1 @@
+program Gd : HR : takes A : integer returns integer pop; when case 4 : chillax end end ry : takes G, T : integer array returns nothing E8, p, o, t : integer; chillax end main : T, m : boolean; do D8R(- true or false - (16) and 115 > - false and me, false and false, true and 0 - 11 - 0 /= 0 - 9) end

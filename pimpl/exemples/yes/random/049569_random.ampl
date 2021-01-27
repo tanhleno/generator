@@ -1,0 +1,1 @@
+program JQ : c : takes c : integer; S, N080, B, H : boolean array returns integer array chillax end LyK0 : takes Na, S9Q, _ : integer returns integer array UO : boolean array; chillax end main : Cc4, oJ70, Di : integer array; do g(28 >= - (34) and not 660 - true - 8); while false - not 6 and 11 : do v(02300) end end

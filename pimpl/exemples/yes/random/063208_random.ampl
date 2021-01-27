@@ -1,0 +1,1 @@
+program R : N7 : takes U58 : integer returns integer chillax end S : takes qXq, i4y0a : boolean returns integer chillax end p_30 : takes H : boolean; UV10a, R_ : integer array returns boolean array lJ2, G60a : boolean array; while 11900 = 1220 : chillax end; while 3 : pop end end main : chillax end

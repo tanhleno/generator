@@ -1,0 +1,1 @@
+program ZA : Fr : takes mJ, i, h6M, n, _, o, xz, f7 : boolean returns nothing T3 : integer array; K, J6, Ah : integer; chillax end U : takes P1, F : integer array returns integer let U = 0 = 5; when case 69 : when case 164 : chillax end; pop end case 69 : chillax end case 25800 : chillax end otherwise : pop end; while 087 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program t : m9 : takes r : integer array returns nothing r : integer; SEhaa : boolean; W : boolean array; chillax end _ : takes a : boolean returns nothing chillax end main : nCMaa, q, GV8 : boolean array; a : boolean array; let vH[- (60400)] = - not not 3560 or not 13 and 8; output true - 8 - 921 > 4 - 30 end

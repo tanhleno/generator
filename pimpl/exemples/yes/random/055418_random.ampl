@@ -1,0 +1,1 @@
+program O : l : takes HD3aa : integer array; _, ZI9 : integer returns nothing O0 : boolean; let pM40[- false] = - 60200 <= 1740 end main : let f = - true + x and 406 < - false - 8; output "" . - 76 - 61800 > 07 . 6880 = 6 . 84; do W(- false and 1 - 1 <= 901 - 5, - 5 - 5, 6 = 924); let iF70 = array 5 - 089; output "T" end

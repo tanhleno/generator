@@ -1,0 +1,1 @@
+program H : uP : takes B : boolean returns integer let h = array 1 and 97; output "h" . ""; let v[8] = array 3090 end qo : takes v, u, PI2a, x2, xVk0a : boolean array returns nothing NV, E : boolean array; chillax end main : chillax end

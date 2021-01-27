@@ -1,0 +1,1 @@
+program r : X : takes a, F5 : boolean; N, B : integer array; j : integer array returns boolean array when case true and 9 <= - 7 - 8 : when case 9 : pop end case 89 : chillax end end case - 9 - 6280 : output "\"" end otherwise : chillax end end main : pop - (8) and true and 727 + 9 and 628 or 74700 >= - false and 91 end

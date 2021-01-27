@@ -1,0 +1,1 @@
+program x : k : takes Ld, O1, F, y : boolean; S : boolean array; Xm : integer returns boolean array input d[false and 52 - 7440 - 8]; when case 3 /= 73200 : chillax end case 7 = 6 : let _ = 6 end otherwise : chillax end end main : v : boolean; chillax end

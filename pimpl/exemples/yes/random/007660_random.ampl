@@ -1,0 +1,1 @@
+program Xk : Va : takes u, ml, S, f : integer array returns nothing chillax end uGr : takes aU, G : integer returns nothing K7caa : integer; Q410a, X : integer; l : boolean; X9L : boolean; k3Daa : boolean; chillax end RO : takes g, WmE : boolean returns nothing do T1(24 = 932) end main : pop end

@@ -1,0 +1,1 @@
+program k4O0a : b : takes IF, A5D, A3n0 : boolean; u2y0a : integer; l : integer returns nothing b4, m, Q : integer; chillax end main : R5, J : boolean array; let y = array true / (5) * not 9 or not 6 and false and 51100 + false and 6 + 2 - 77; let aN = array not 1710; input Yl0aa[- not 2 and 66 - 28]; pop 1 end

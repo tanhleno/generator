@@ -1,0 +1,1 @@
+program KP : g_Xaa : takes d : integer returns integer chillax end N2 : takes N, j : integer array; _ : boolean array; t5, J3, h, Yg, Ah : boolean array returns integer array chillax end main : c : integer; et7 : boolean array; t2, iK, g5, Xy_ : boolean array; chillax end

@@ -1,0 +1,1 @@
+program IF : h : takes v : integer returns nothing _n : integer array; A : boolean array; chillax end main : when case false / 092 : when case - 2 : input s end otherwise : chillax end end case 2 - (99) and 3 or 0 - 8 <= (210) : let s = 6 end; do gS6a((1) < true - 18000 - 63, - (08400) /= - 9 - 8); output ""; while - 6 - 7 >= 4 : chillax end end

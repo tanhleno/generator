@@ -1,0 +1,1 @@
+program lDz0a : main : K, V92 : integer; pop - true rem not 7 and 88; do GI(- 36 * true + false + 40 - 2 <= (7) - 0 - 6); when case false - 2 - 6440 : when case 4230 : pop end otherwise : chillax end; when case 04 : chillax end; let h2 = 2820; pop end case - 96900 < 2 : chillax end otherwise : chillax end end

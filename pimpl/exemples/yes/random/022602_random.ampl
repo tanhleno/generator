@@ -1,0 +1,1 @@
+program k : t : takes _, g : boolean array returns nothing L : integer array; l : integer array; dl, h1 : integer array; while - 3 and 30300 or 290 - 77 : when case 8 : chillax end case 2 : chillax end otherwise : chillax end end; output "\n\t0" end main : xdo : integer; chillax end

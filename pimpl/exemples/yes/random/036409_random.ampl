@@ -1,0 +1,1 @@
+program A : S : takes H : boolean; L : integer; zl5, D4, e, E2 : integer returns nothing while - vp : chillax end; output 9 . 5 . "" end main : Q : boolean array; output - not(3) and(6) and 2050 = q and 3 - 6 . Cp7 - 9410 - 54 >= 335 - 08; do C(1690 = not 8); while - 9510 and 36 : chillax end end

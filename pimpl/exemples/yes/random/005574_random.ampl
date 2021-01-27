@@ -1,0 +1,1 @@
+program f : n : takes i, B, n, k : boolean array returns nothing chillax end main : let l[false / false] = - not false; do T(94200 or mzN and 71 - 1 /= - false, 63 - 29700); input N; when case 6 <= 9 : chillax end case 73 : chillax end otherwise : input D0 end; input e2[289] end

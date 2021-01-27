@@ -1,0 +1,1 @@
+program w4 : main : Q : boolean; let v = array - not true rem true; while - false : chillax end; when case - (83) : chillax end otherwise : chillax end; when case - 2 - 92 < 4 : output "" end case 814 : output "" end; do d80a(9 = 1) end

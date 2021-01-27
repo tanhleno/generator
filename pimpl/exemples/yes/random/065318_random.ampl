@@ -1,0 +1,1 @@
+program YER0 : XUt : takes U : integer returns nothing output 2 - 43 /= 06; when case 0 - 516 /= 11 : let q = 4; pop end case 2 : chillax end; output "" . 0; while 2 : pop end; do mU(5); while 5 : chillax end; pop end main : chillax end

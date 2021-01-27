@@ -1,0 +1,1 @@
+program yZ : T : takes Df4a : boolean returns boolean chillax end VZ : takes s, q : integer array; _5z, U : boolean returns nothing chillax end T : takes t, z5, c3, Q25 : boolean array returns nothing W : boolean array; chillax end main : while - 72000 * (6) + (8) + (8) + 9 = - false : chillax end; input W2[- (18) and false and 036 + false and 21600] end

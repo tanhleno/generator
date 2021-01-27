@@ -1,0 +1,1 @@
+program S : main : pop 7 and false; output not 87100 and 75 . - 64 > 31; while false and 4 : when case 5 : pop end otherwise : chillax end end; let Oy[- 8] = 1 = 2; do G(93); do I(46); while 6 : chillax end end

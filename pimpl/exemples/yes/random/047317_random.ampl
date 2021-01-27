@@ -1,0 +1,1 @@
+program O9A : RF20 : takes XP : boolean returns integer pop; let hy[- 3 - 182] = 6 = 132; input j; output "5" end XI2 : takes mX, U, q7, s : boolean array; a : integer array returns nothing N, m : boolean; f, W3, Ff : integer; chillax end main : output "1" . "v" . - 904 < 186 . "" . 7 end

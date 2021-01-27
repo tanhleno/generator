@@ -1,0 +1,1 @@
+program _ : c : takes L, zL, D, n : boolean array returns nothing k : integer; chillax end main : A, ep3, P : boolean array; t2W, P, XHW0a : integer; G, G : boolean array; while 03 * true - 7510 rem A and 0 : chillax end end

@@ -1,0 +1,1 @@
+program l9x : main : do v36a(q(09) or(24500) rem Fu and 050 - not 5 and 0 or 40700); do XY(false rem true < - 664 and 54, true and 0 <= - 9, 8, 2); when case K and 5 = 8 - 7 : when case 2 : chillax end; output "560a" end case 7710 - 0 < 88 : chillax end end

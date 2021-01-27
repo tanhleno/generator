@@ -1,0 +1,1 @@
+program o : p : takes f6 : integer; t9 : boolean array returns boolean array when case - (601) or 3 : let sxD[15] = 46 end case - 6 : while 52 : chillax end end case 4 = 178 : while 67 : chillax end end otherwise : chillax end end main : _ : boolean; chillax end

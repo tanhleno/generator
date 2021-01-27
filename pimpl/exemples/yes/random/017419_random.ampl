@@ -1,0 +1,1 @@
+program V : p8 : takes u, zI : boolean; R010, IK2a : integer; j : integer array; v, AG : boolean array returns boolean while - not 0 : do g2X(2600); pop end; pop 5 = 0; while 370 : pop end; output 5; do V(5300) end main : output ",-!a"; output - (532) or 8 >= - 77 - 8; while - 12 and 48800 <= - 76 - 2 : while 21 : chillax end end; while - 5 : chillax end; pop end

@@ -1,0 +1,1 @@
+program Cg : R2 : takes F, a8 : boolean; l08, e, K, C, lz1a, lr, q : boolean array returns integer lh2aa, S : integer; p4, E, cT : integer array; i6w : boolean; chillax end main : do K320((4), not(7) * false and 5) end

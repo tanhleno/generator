@@ -1,0 +1,1 @@
+program rI : k6 : takes f, Kp7a, C9a0a : integer; oAT0a, zu : boolean returns boolean HO, c, S, N : integer; while false and 1 < - 2 : chillax end; let t[2] = 87000; input c[0]; let KqT = 091 end F0 : takes h, c7 : integer; A36, t : integer returns nothing chillax end main : c, W : integer array; let Xrj = true; do ON3(hU rem false and 331) end

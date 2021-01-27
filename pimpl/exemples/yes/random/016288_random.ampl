@@ -1,0 +1,1 @@
+program W84 : w : takes W, b23, N : integer returns nothing A, b, s, M, x6 : integer array; chillax end P : takes C250a : boolean; EN5, u : integer returns boolean chillax end main : output false * not 55 and 8 <= - (309) or 1 end

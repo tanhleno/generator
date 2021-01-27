@@ -1,0 +1,1 @@
+program Y : C : takes g0 : integer array returns nothing input P7p end IF : takes yr8, O, XWN, _ : integer returns nothing I7X0, s : integer; P, PUv, O61 : boolean array; okNaa, l : boolean; l : boolean; input b9[- 27400] end kU : takes _31 : integer returns nothing chillax end main : r7U, b : boolean; P : boolean; chillax end

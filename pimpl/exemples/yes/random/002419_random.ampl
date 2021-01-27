@@ -1,0 +1,1 @@
+program CR : xG : takes z1P, X7, x1w, O, P : boolean array; uKW, n, r : integer array returns boolean array Tqh0a : boolean array; chillax end main : do e(- tm, Zp rem(24) and 8 - not 449 and 3 = not 36 and 98 + 6) end

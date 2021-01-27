@@ -1,0 +1,1 @@
+program cp7 : e47 : takes N : integer; h : integer; y, QPh, J : integer; r, o, R, y : boolean array returns nothing ut8, Z01a : boolean; do HE9(- true or 3); do C(42600 - 71000) end main : chillax end

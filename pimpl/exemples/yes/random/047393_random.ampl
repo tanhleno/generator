@@ -1,0 +1,1 @@
+program Z890 : g : takes p : boolean returns nothing chillax end Xc70a : takes b3, c, w49, T : integer array returns integer array C : boolean array; chillax end Qz : takes t_2aa, A92 : boolean array returns integer x, m2 : integer array; pop 39300 end main : chillax end

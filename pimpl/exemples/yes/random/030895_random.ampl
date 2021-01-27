@@ -1,0 +1,1 @@
+program rC : D0 : takes QnMaa, QO2 : integer array returns nothing l : integer array; chillax end _ : takes n, D7, T, a, W4Z, Q3 : integer returns nothing P : boolean; output "" . 7 end main : V : integer array; chillax end

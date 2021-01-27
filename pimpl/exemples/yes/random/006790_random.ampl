@@ -1,0 +1,1 @@
+program f7 : i : takes v7Oa, W7, p98, E : integer; HX0 : integer returns nothing c9F, W : boolean array; _y : boolean; Fs, t9, BR4 : boolean; P5, c : boolean; Cg0 : boolean; k : boolean; output - 54 - 3 > 5940 end main : i : boolean array; O0 : integer; chillax end

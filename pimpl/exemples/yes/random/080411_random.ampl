@@ -1,0 +1,1 @@
+program D : main : X : boolean; when case false : when case 29200 /= 99000 : while 8 : chillax end; when case 0 : chillax end end otherwise : input g4 end end case not w + (54) and 4030 > - true and 72300 : while 5 = 7 : chillax end end end

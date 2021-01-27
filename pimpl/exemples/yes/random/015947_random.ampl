@@ -1,0 +1,1 @@
+program J : hkwaa : takes a, _Q7a, yu9 : integer returns integer array N : boolean; SWv0a : boolean array; chillax end YND : takes gOM0a, L070 : boolean array; s : boolean returns boolean let H[- 5] = array - 6 - 8 end main : Un, vCB : boolean; a, x, CG : boolean array; chillax end

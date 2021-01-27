@@ -1,0 +1,1 @@
+program Y : main : when case 1 + not not 46 - q + 0 - 8 : chillax end case - not py4 - true and 4760 : output "" . 53; output "" . ""; when case 71 : chillax end; while 2 : chillax end; pop end; output ""; input x[(28) - 344]; output 7 = 6 . 6 end

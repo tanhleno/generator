@@ -1,0 +1,1 @@
+program p : K9 : takes M : boolean array; F, tKOaa, X2 : integer; E, z5y, y, g, n : boolean returns nothing b : integer; input x end g : takes a : boolean; J : boolean returns boolean array while 9 <= 40 : while 9 : chillax end end; let p7[6] = 24; while 7 : chillax end end main : do v4(- not 27500 rem 3 rem(728) - (20) and(9) /= - true * not 63 or true and 2 - 50 - 71); pop end

@@ -1,0 +1,1 @@
+program D : main : P, I : boolean; yG9, _, _2h, i1 : boolean; do h(- true / not true * (9) or Rt[512] * false >= - N_(0570), - false); when case - 5 /= not 3 + 8 - 2 : do p(7 = 52) end case - 3 and 10 : chillax end case - 823 >= 1 : chillax end case 3 : while 40 : chillax end; pop end case 05 : chillax end otherwise : input wq4[0] end end

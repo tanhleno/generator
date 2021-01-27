@@ -1,0 +1,1 @@
+program kE1 : main : do h(- false rem not true); output n and 42 >= - 6120 . "s" . 8 . 75; while f_ and 1 + 3 : output "m" . "\t" end; while - 735 : input f5Eaa end; when case 85 = 96300 : let P = 1; pop end case 8 : pop end otherwise : pop end; input VH; input w; while 71 : chillax end end

@@ -1,0 +1,1 @@
+program F : main : g, W6 : boolean array; y7, hR, D, NI7, W, b : integer array; PL80, oMj : boolean; lQB, X, eb4, v : boolean array; pop; do VX(131 * (0) > u); when case - 8 and 3 or 5370 - 6 : chillax end otherwise : when case 23400 : chillax end; output "s4\"" end; while - 37 = 95 : let o = 8 end end

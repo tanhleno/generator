@@ -1,0 +1,1 @@
+program N : j : takes C, Q : integer array; v, C : boolean; y8 : boolean array; b, C : boolean; o3Da : integer array; xe4, h, G5 : boolean; q : boolean; dB5a : boolean; a0 : boolean returns nothing chillax end QY : takes Nl3, n48, d55 : boolean array returns boolean array while - 2 - 9 >= 2 : do ysf(0090) end end main : A, r : integer array; do x((4 = 43) /= - j[9040]) end

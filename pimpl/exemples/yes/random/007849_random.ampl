@@ -1,0 +1,1 @@
+program s : Bw : takes e, N, k, n86 : integer array returns nothing let kK20 = array - false; input D3; do QP9aa(22 = 85, 50); while 9 : chillax end; while 40 : chillax end; let k0 = 3; pop end main : z1Caa : integer array; chillax end

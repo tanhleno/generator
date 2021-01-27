@@ -1,0 +1,1 @@
+program i : h : takes i, D5 : integer; Kd, z : boolean array returns nothing while - (4) and 4 : when case 33 : chillax end end; do z(- 58 - 28) end main : CI, PHq : integer array; vm2, s9J0 : integer array; Y8 : boolean array; let f7T[- not not not 4030] = array true rem 8360; while true * true and 5 + f and 43 or 7 : chillax end end

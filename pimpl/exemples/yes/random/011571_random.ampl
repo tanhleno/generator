@@ -1,0 +1,1 @@
+program PQ : E : takes ODaaa, k8, oX : boolean returns boolean array H, ls, l6, h : boolean array; chillax end main : let q = array true and 58 + (3); output "#"; do Fd30a(- true = 383 - 5); input u[1 - 7820] end

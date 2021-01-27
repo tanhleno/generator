@@ -1,0 +1,1 @@
+program L78 : J : takes I : integer array; AU20a : integer; J0W, Y, s : integer array; J38, r : boolean array; j : boolean; _q : integer; i2 : boolean returns boolean array input Z end main : while - false rem e[9] and not 1 and 60 - 0 rem not 6 and 9 > - false - true and 73 : do i(0); let U = 71700 end end

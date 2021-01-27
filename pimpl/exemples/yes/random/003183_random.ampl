@@ -1,0 +1,1 @@
+program Y : xj : takes o, H, Y, s6, T : integer; q, m : boolean array; x : boolean array; t, a2, k, C, B : integer array returns nothing pnwaa : integer; E, Z2P0 : boolean; D0, K : boolean array; Sz : boolean; M86 : boolean; when case - false : input M end otherwise : chillax end; while 0 /= 15 : do H(2) end end main : output "" end

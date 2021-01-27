@@ -1,0 +1,1 @@
+program n : main : Lz9 : boolean array; _D : integer array; t6o : boolean array; zv : integer; Z7 : integer array; k : boolean; when case(6550) + not 5 * 0 and 68200 : chillax end case not false and L3s and 53 - (95) or 562 : chillax end case false and 0 : chillax end otherwise : chillax end end

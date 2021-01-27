@@ -1,0 +1,1 @@
+program F4maa : main : Q4, AO3, X44 : boolean; I : boolean array; DF6 : integer; do _(- (65500) or Fes0a(9) + (17) - 433); while(12400) rem I = - 4 or 9 - 7 : let U8 = 1 end; do s((7), 83); output 6 end

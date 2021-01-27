@@ -1,0 +1,1 @@
+program E7P : ef80 : takes rRn : integer array; p, K9 : integer array returns boolean do e(- true + 6) end U : takes i9, p2, k : boolean returns boolean array L : integer; chillax end main : output "L" . "" end

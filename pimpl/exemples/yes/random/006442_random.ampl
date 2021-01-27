@@ -1,0 +1,1 @@
+program H : v : takes _, N, g77, G7 : integer; X, MH30 : boolean array; xM : boolean returns boolean O : integer; Z6, Q : boolean; pop - 429 - 13 < 5 end main : while l32[1] rem true - (68) - not 179 and 57 or 76 : when case - 8 - 6 : chillax end case 49 = 3 : while 4 : chillax end; pop end case 3 : chillax end case 9 : chillax end end end

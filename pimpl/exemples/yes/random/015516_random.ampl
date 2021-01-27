@@ -1,0 +1,1 @@
+program Dz : Ls : takes Z, Tl, Y : integer array returns nothing C : integer array; chillax end main : while true + (123) : output "" . "" . "" . ""; do C(0 = 6, 56, 7); pop; output "0"; while 331 : chillax end; pop end end

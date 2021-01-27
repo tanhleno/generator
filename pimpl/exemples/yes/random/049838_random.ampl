@@ -1,0 +1,1 @@
+program x : Xkqa : takes m5 : integer; o, M17, p : boolean array; k, e : boolean array; VyE0a, D : boolean array; R, m : integer array returns nothing X2 : boolean; chillax end main : do i(- false and mZKaa(0) / 74 /= false / Z and 8 + not 5) end

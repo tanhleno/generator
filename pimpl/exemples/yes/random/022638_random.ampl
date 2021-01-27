@@ -1,0 +1,1 @@
+program H3b0a : Q : takes CDv, q : boolean array returns nothing input C1[- not 3 and 8 + 7]; while - 4 - 210 : input DLk; while 188 : chillax end end; while 96 = 05600 : chillax end end main : h3 : integer array; S : integer array; chillax end

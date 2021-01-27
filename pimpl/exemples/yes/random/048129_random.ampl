@@ -1,0 +1,1 @@
+program q : b5o0a : takes u : boolean returns nothing j, q9 : boolean; output 544 - 51; when case - 72 - 7 = 74 : pop; while 58 : chillax end; pop end case 73 : output "9Paa"; pop end; let E[982] = array 3; let J[89] = 8; while 31700 : chillax end end main : let g[(6 = 4) / (5) rem Q and 5 or(516) or false + 7 - 1] = - not(03) or(63) and 46 end

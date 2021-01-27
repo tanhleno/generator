@@ -1,0 +1,1 @@
+program F : V : takes T : integer; S74 : boolean; n, S : integer array; a, b : boolean; TR, R4 : integer array; AE80 : boolean array; ghW : boolean returns boolean BeK, l, X2W : integer; output - 1 end main : input kb10[false or(597) - 36 and 3] end

@@ -1,0 +1,1 @@
+program k : v : takes I : integer array returns nothing H : boolean array; output "" . ""; do Uk(4 - 7); when case 998 = 6 : when case 7510 : chillax end; pop end case 256 : chillax end otherwise : pop end; do g780(1) end main : x8 : integer array; bd6aa, ospa : integer; input w4I0a end

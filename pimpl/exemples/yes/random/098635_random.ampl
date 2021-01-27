@@ -1,0 +1,1 @@
+program b4Jaa : main : while - not 1 and VM90a(35300) + vS(486) + 08100 and 62 + 0 : let W = 53100 = 5330; when case 834 = 4 : when case 75 : chillax end; pop end case 9 : chillax end otherwise : chillax end end; output H2 . - 9 = 76 . 0 . "" . 25 . ""; let k[d8 and 0] = array d and 06 + 2 - 6400 end

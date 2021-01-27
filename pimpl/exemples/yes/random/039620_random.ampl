@@ -1,0 +1,1 @@
+program l : F : takes AY : boolean array; Q : boolean; C, c : integer returns nothing O : boolean; chillax end main : XZ2, h64, d : integer array; while - true rem not not 792 < - true : do W(- 58000, 03 = 8) end end

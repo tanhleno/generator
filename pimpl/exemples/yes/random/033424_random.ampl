@@ -1,0 +1,1 @@
+program Et70 : Hh50a : takes b350a : boolean; n0Vaa, s3, i, LM, FOU0a : integer array returns boolean do R54(- 230 or 142, 8 - 2 /= 7); do y(984 - 3 <= 30500, 59 = 808, 72); do p(254 = 3); output 21; pop; output ""; pop end D6ga : takes nHg, lq4 : boolean; B, d : integer returns integer chillax end main : chillax end

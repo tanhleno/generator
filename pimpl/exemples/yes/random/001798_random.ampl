@@ -1,0 +1,1 @@
+program b73 : dp40 : takes r8, z810a, y, i2, bk6, e23 : integer array; A : boolean; s, J : integer array; Ojla : boolean array; R : boolean array; m : boolean returns nothing g8 : integer; chillax end Y8 : takes F0 : integer; yQ : boolean array; V5U0, X, YMO, Z : boolean returns nothing chillax end main : chillax end

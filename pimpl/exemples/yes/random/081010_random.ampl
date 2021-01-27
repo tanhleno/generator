@@ -1,0 +1,1 @@
+program J : main : z : boolean array; u3, i35, pO : boolean; when case - not false / 3 > true and not 3 : when case - 8220 : input C end case 3 : do Hf(36500) end end otherwise : while 91 : do b(165) end end; let Hx20a = - false + 873 /= 9 end

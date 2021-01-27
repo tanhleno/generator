@@ -1,0 +1,1 @@
+program a9G : r : takes aC, r1F : boolean returns nothing input F8[- b9 or 09 - 34] end main : do C2c(- false rem false + not 41 rem 3200 or k <= true rem(02) and 04, - 2 or 94 and 83 or 9, U and 5, - 2140 - 1, 2) end

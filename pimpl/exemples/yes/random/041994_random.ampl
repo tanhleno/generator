@@ -1,0 +1,1 @@
+program uq1 : k : takes b : boolean array returns boolean chillax end main : B, F, j : integer; g35a : boolean array; N : boolean array; M, C, J6 : integer array; I, M6, S6 : integer; input BmY0a[- 73500] end

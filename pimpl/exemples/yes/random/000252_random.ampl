@@ -1,0 +1,1 @@
+program u24 : X3 : takes o8k0a, Y8, s3, R3n0, f4q, U, ux, IoRaa : boolean returns integer t : integer array; when case 3 - 9 : chillax end end d : takes C3, Q7, g, QeK : integer array; u, jF : boolean array returns nothing w4 : boolean; chillax end main : r : integer; chillax end

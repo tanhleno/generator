@@ -1,0 +1,1 @@
+program I440a : xu : takes vVsaa : integer array; W, S : boolean returns boolean array do o(- 630 and 452 - 181 = 6, - 32200) end main : O : boolean; k3 : boolean array; I, B, Au : integer; sR3aa : boolean; output "w" . (8) end

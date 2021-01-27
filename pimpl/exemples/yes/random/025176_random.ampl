@@ -1,0 +1,1 @@
+program TL : i : takes z9H0a, qo6 : integer; m, p, H : boolean; tDca : boolean array; J, C, o : boolean returns nothing t, hcN : boolean; pop 2200 <= 2 end main : W : boolean; k5, _, h, X : boolean; E_, m3ka : integer array; GP90a : integer array; output "\"8"; while - false > not 8410 + 4 - 68 : chillax end; do K7raa(05 and 21, - 8 - 384) end

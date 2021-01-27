@@ -1,0 +1,1 @@
+program f : m3n : takes rP30 : integer array returns boolean d : boolean; S : integer; p, y : integer array; when case - not 7 and 1 < - 545 : chillax end otherwise : chillax end end main : chillax end

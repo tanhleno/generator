@@ -1,0 +1,1 @@
+program oC2 : p : takes _ : boolean; G, a02 : boolean; m : boolean array; STG, i : boolean array returns integer array g8A0 : integer array; L, EC0, Ng, H : integer array; Y, n, E4 : boolean array; D9u : boolean; A0 : boolean; chillax end m2qa : takes P64a, PK, E : integer returns nothing chillax end main : R : integer; W5K, Z : boolean; S, mu, x : integer; chillax end

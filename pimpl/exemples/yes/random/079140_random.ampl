@@ -1,0 +1,1 @@
+program a : main : D : boolean; I8, s : integer array; while false + w0(44) and 8 - Z1 <= dM[8] - D and 61 + 56 - 06 : when case 5240 - 47 <= 919 : output "1d!" end case 233 : chillax end otherwise : input C end end end

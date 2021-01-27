@@ -1,0 +1,1 @@
+program A : J : takes g : integer returns nothing e8i : integer; while - 9 and 6 <= 6 - 6 : chillax end end main : x9R : boolean array; B30, u6, U5U : integer array; uM : boolean array; O5 : integer; l : boolean; g1, osTaa : boolean; output - v15[2] * not 1240 or true or 79 . "" end

@@ -1,0 +1,1 @@
+program _ : F : takes L : integer returns nothing chillax end main : m8I, PQO0a : integer array; when case - true and not not 52300 * 7 > not LP7a / Adl : when case - 6 - 6 : chillax end case 9 : chillax end; while 4 = 8 : chillax end; when case 8 : pop end case 4 : chillax end; pop end otherwise : chillax end end

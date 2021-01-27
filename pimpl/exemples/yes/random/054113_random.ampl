@@ -1,0 +1,1 @@
+program x1 : tA50 : takes M : integer array; b3, B, r : boolean returns nothing let T = - 4970 end main : pop true rem not 44 and 6; when case - ke(4) / false + 82 and 84 : let n45aa = array 86 end case - not 2 and 06 : chillax end case 4 > 4 : when case 7 : chillax end; output ""; pop end otherwise : chillax end end

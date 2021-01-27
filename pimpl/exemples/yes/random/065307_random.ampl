@@ -1,0 +1,1 @@
+program G : XEP : takes t25 : integer returns nothing output - 0 - 1 . "\\;\"a" end gK6 : takes O : integer; S, g : integer array returns integer array when case 2 - 61000 : while 87 : chillax end end end z : takes TX, yehaa : integer array; F, bB : integer array returns nothing chillax end main : chillax end

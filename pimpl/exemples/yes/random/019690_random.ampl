@@ -1,0 +1,1 @@
+program w : E : takes r, s : boolean array; v2 : boolean; Y, c : boolean; Kw8 : boolean returns nothing let F[- (6) - 2750 - 4770] = 02700 - 8; let E0Qa = 2 = 3; do r(25); output "" . "0[0a"; output "-"; when case 44 : chillax end; pop end main : while - true rem I(277) < F8ha[6] and 7 and 016 or not 1 : chillax end end

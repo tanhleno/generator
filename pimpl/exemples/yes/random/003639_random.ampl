@@ -1,0 +1,1 @@
+program k : B3G : takes qUpa, _, Y, F, h : integer array; t : integer returns nothing chillax end d : takes _ay0, r2, MHL : boolean array; H : integer array; r2 : integer array returns nothing pop; while 7 = 8 : chillax end end main : ZU : integer array; dW9, Z9 : integer array; n, _ : integer; chillax end

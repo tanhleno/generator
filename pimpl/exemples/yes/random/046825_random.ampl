@@ -1,0 +1,1 @@
+program b : ow1aa : takes s : boolean returns integer array output "B)"; output "`\t0" . "'{" . "8G" . "" end main : R : integer; H, m560, m : integer; i : boolean array; e : boolean; r : integer; Oki0a, ap : boolean; chillax end

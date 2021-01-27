@@ -1,0 +1,1 @@
+program P1 : b_7 : takes T : boolean array; Uef0, p7 : integer array; x : integer; p3X : integer array; JC : integer returns nothing gYa0 : boolean; chillax end main : r : integer; h, R : integer array; while - G2kaa[3] <= - 25 / G or true and 21 - 000 - 79 : output "|" . "" . ""; input E07[7] end; pop - 8 and 6 + 838 - 5; do p(- not 88 + 760 > - 7) end

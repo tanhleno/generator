@@ -1,0 +1,1 @@
+program c5a0a : S : takes g, s : boolean array returns nothing W : integer array; pop - 9750 end dhf : takes Gj : boolean array; k4, K : integer; sT : boolean array; W : boolean array returns nothing chillax end main : chillax end

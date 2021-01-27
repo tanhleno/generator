@@ -1,0 +1,1 @@
+program J : Q95 : takes U, GB : boolean; gA : integer; F : integer; P, X9f, c6, HV2aa : boolean array returns boolean array chillax end main : P, MTVa, f : boolean array; KW, A, N : boolean; let A = not A / q <= - not 63 and 7 or 75; output "7" . 2200 /= 19 . 80; input NY[- (0) and 9 + 55700]; output 35700 . "5(!a" end

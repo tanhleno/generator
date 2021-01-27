@@ -1,0 +1,1 @@
+program t : f : takes t : integer array returns nothing chillax end g56 : takes h20 : boolean array returns integer G3, R61, zO : boolean array; V, o, v : boolean; c : boolean; F : boolean; t6 : boolean; when case - 52600 - 30 : chillax end case 74 : input k; pop end end main : chillax end

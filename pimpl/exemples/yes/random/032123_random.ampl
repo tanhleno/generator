@@ -1,0 +1,1 @@
+program F4 : p88a : takes cd9, L7 : integer returns integer J : integer array; do n(- true < 9 - 7) end FO9 : takes N6 : boolean array; c460a : integer array returns nothing let l[- 9 - 0] = 3 = 24; do Z(8); do i42(98); while 4 : chillax end; do sTf(93400); pop end main : o7d, w : integer; chillax end

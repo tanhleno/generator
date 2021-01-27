@@ -1,0 +1,1 @@
+program HX7 : s1I : takes tiO : integer; V46 : boolean returns nothing j : integer; yVE0a : integer array; chillax end main : c : boolean; x, n, Q : boolean array; r, _ : boolean array; J9, d, u : integer; T : integer; H : boolean; chillax end

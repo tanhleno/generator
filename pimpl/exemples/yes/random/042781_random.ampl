@@ -1,0 +1,1 @@
+program W2 : f : takes h06 : boolean array returns integer array m : integer array; let wnB[(480) and 40 or 4] = array(853) and 58 end z : takes X : boolean returns nothing TO, q : boolean; chillax end main : f : boolean; do J0(- 71 <= not false and P4) end

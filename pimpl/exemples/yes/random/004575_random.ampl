@@ -1,0 +1,1 @@
+program E : x04a : takes e, jlf, BME, q : boolean; d : boolean returns integer let J[- (71300) and 9 + 684] = array - not 68700 and 2 or 6 - 073 end c : takes k4, I97, E, e93 : integer returns boolean G : integer array; Z2 : boolean array; xAm : boolean; pop 2 = 5 end main : chillax end

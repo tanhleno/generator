@@ -1,0 +1,1 @@
+program Q : XI : takes p, v : integer array; k : boolean array returns integer array A91 : boolean array; chillax end main : while - true and true and true and 64000 + false or not 51 and 803 + 78 /= true : chillax end end

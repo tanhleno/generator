@@ -1,0 +1,1 @@
+program xCZ : r : takes W : integer array; O1 : integer array; a : integer array returns integer o : boolean array; k : integer array; when case - (9) and 957 : chillax end otherwise : chillax end end main : chillax end

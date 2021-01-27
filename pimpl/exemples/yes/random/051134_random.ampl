@@ -1,0 +1,1 @@
+program N : N1 : takes uN : integer; Q9h0, p : integer array returns nothing O, c6r0 : integer; pop - 9; input oH end GR6 : takes j : integer array; R : integer array; y, H : boolean returns nothing chillax end c : takes U7Ua, md, o, Q, B8 : boolean; i, y, V9t : integer array returns nothing t : boolean; output "%6" end main : chillax end

@@ -1,0 +1,1 @@
+program w : g : takes l5 : boolean returns boolean array g, i2 : integer array; chillax end mQq0 : takes nv : integer array returns nothing chillax end main : L : integer array; Sv : integer; pop end

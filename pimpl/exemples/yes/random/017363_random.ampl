@@ -1,0 +1,1 @@
+program r3 : x : takes l, M8 : boolean; O, q : boolean returns nothing let sS[- true and 69] = array M and 40400 or 8 - 36500; input P[- 9]; do D63aa(28); let _U[25] = 21 end s1 : takes DU2, U16 : integer array; L : integer returns boolean array chillax end main : chillax end

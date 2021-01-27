@@ -1,0 +1,1 @@
+program f : _Yw : takes DFO : boolean array returns nothing chillax end M : takes z, X : integer; W1 : integer; _ : boolean returns nothing TA : integer; g, A : integer; _, W : boolean; input s[- 9]; pop 0; let Q[8900] = array 5; input B69aa; pop end main : when case not true / 00 < - not false / not 74 and 6 : chillax end; do t((2) * true and 8 or(847) < true, R + 0 - 81500) end

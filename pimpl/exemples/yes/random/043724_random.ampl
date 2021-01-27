@@ -1,0 +1,1 @@
+program Umuaa : DC : takes F2q0a : boolean array returns nothing chillax end main : u, t : integer; while - 426 - 6 / not 39 and 2 : while 1 - 2 /= 95500 : chillax end; while 12 : chillax end end end

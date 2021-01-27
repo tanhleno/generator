@@ -1,0 +1,1 @@
+program S : KM : takes s, J4, o8, E, PaX, qdq : boolean array returns nothing do e20((8) - 9310 > - 7 - 3360, 9 <= 8); do kV(47000 = 1, 6 = 3); let p4a0 = array 9; do a(0); while 0 : chillax end end main : q, ger, T, wqm, y, U420, S3 : boolean; wY : integer; input p[true]; while - 4 + not 3 /= - (9) : do Y(49 = 77); output "" . "" end; pop - 4 - 3 < 4; do L(226 - 9) end

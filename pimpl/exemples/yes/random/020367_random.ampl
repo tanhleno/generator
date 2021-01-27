@@ -1,0 +1,1 @@
+program V : u6 : takes P72a, hES : boolean array; qk40 : integer; QQ : integer returns boolean pop end main : input X; while true - not 2360 and 6 - 70 < - (0) and 80 - 955 - 66 : while 0070 : chillax end; do _41aa(2); input e end; when case 7100 and 4 = - 64 - 25900 : chillax end case - 3 - 3 >= 989 : chillax end case 9 : chillax end otherwise : while 7 : chillax end end end

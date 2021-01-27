@@ -1,0 +1,1 @@
+program un : main : let b[- Tb[14] / 2700 - not Q / (34)] = - false; when case - true and true > - (9) and 1 - 1 : let rY = array 0840; do m(39, 9) end case - false and 49 <= 3 : chillax end case 2220 - 69200 = 3310 : input a; let Y67aa = 38; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program V7 : main : u870a, j : boolean; let wW10a[- m(1) + not false or(64)] = array not true rem S230[60] * 1 and 82; when case 7 : output "Y~aa"; when case 83 : chillax end otherwise : chillax end end otherwise : chillax end end

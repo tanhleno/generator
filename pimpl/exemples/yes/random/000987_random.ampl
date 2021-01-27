@@ -1,0 +1,1 @@
+program ZG9aa : U : takes nh, YlM0, U, u, k3Aaa, N, w : integer array returns nothing dTq : integer; v : boolean array; ud : integer array; h, L : boolean; pop; while 1 - 7 <= 5 : chillax end; pop 4300 end main : pop - not not 2 > - gV or 03 - 2; while true - 5 or 119 /= - (5080) and 5 : do u(9) end end

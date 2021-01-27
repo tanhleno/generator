@@ -1,0 +1,1 @@
+program m : X : takes RG : boolean array; X, b : integer returns boolean L, b : boolean array; x3 : boolean array; Oo : integer array; chillax end main : L7 : boolean array; E1Q0 : integer; while - 76 rem 57900 : chillax end end

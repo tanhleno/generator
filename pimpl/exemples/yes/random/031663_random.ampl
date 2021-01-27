@@ -1,0 +1,1 @@
+program q64 : F : takes p, N : integer returns boolean pop 6; do N(- 855 >= 4, 0); output "_]" . "" . ""; pop 5; output ""; when case 3 : chillax end end main : when case - false : chillax end otherwise : output 8; input M end end

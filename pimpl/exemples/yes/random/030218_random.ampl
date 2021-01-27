@@ -1,0 +1,1 @@
+program w : i : takes AWAa, D : integer array returns nothing chillax end D7laa : takes n, p2I0a, w : integer returns integer array ho, B21 : integer array; X12 : integer array; O, a5 : boolean; u5f0a : boolean; chillax end main : Y, z90, s2, x : integer; Q6, i8, YU : integer array; let Qq = array not false * Kl4aa or 1 end

@@ -1,0 +1,1 @@
+program Z5 : U : takes G5, AmJ : integer; Q4, B, l : integer array returns integer U : integer; X : integer array; let x[352 and 9 or 0 - 070] = array true and 7 or 11 - 0; pop; do xco0(55 = 3, 836); while 17300 : chillax end end main : when case(3640) / not not 77 : do l0(- 1 - 94 <= 57800) end end

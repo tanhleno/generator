@@ -1,0 +1,1 @@
+program dO : G10 : takes v, Z : integer returns nothing L, O : integer array; while not 417 : do V50(86500, 0); while 17 : chillax end end end main : o, k : integer; l, B, YG, c : boolean array; while(15) rem 6 / false - 7 / 2790 and 11 > (91) : pop 8 = 946 end end

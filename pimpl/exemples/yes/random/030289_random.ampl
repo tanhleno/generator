@@ -1,0 +1,1 @@
+program c : H : takes Xj, U6 : integer array returns nothing chillax end z : takes E87 : integer; E : integer array; k : integer returns nothing B7 : boolean array; pop; let s[1] = array 28 end main : let f = array - (0 = 49) * false and false end

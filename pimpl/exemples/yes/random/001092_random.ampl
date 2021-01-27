@@ -1,0 +1,1 @@
+program n0 : n : takes k, N, q, so7a, F21a, v : boolean; S, Ue, G6 : boolean array; yu60a, _5 : boolean returns boolean array jd, X : integer array; C8 : integer array; l01 : boolean array; chillax end main : output(43) = - 2 and 7 or 59 - 7 end

@@ -1,0 +1,1 @@
+program h330 : main : when case not false rem(42) * 9 - not true / 27 > false rem(6) and 2 + true : chillax end otherwise : while 68 = 7 : chillax end; while 487 : chillax end; while 79 : chillax end end; when case KN rem A or false > false and 7 : chillax end end

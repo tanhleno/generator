@@ -1,0 +1,1 @@
+program w : G : takes u : integer array returns nothing e : boolean; pop - 0; pop; output 5 end z : takes HN40a : integer returns boolean t, M7, y : integer; chillax end main : B, Z, N, g : boolean; chillax end

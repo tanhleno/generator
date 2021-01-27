@@ -1,0 +1,1 @@
+program n : main : when case false + true : while 4 > 837 : output ""; while 81 : chillax end; pop end end case - true + M or 32700 < - 5 and 1 - 94 - 9340 : chillax end case - (4) and 6 > 31 : chillax end otherwise : let a2[9] = 53; pop end; output "" end

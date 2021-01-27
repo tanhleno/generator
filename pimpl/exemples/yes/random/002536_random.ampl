@@ -1,0 +1,1 @@
+program im : l88 : takes D, nM6, w, O, L : boolean array; x : boolean array; w6naa : integer array; kWFa : boolean; l1, J, b : integer array; R1b : integer array returns nothing let j[not 3 or 19 - 63600] = 1 - 8; when case 95 >= 70 : chillax end case 2 : input c8a end end main : _, t5, ED, vs3, l : boolean; J, o : boolean; chillax end

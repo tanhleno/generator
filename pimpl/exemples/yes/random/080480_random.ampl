@@ -1,0 +1,1 @@
+program E : main : N : boolean; while - (21) * false : do i(- 8 - 751); do e(0); do c02(20200, 3); let M8 = 63; while 9 : chillax end; pop end; let w[- false / _ + true] = - (0) and 5 or 097 > - 5 end

@@ -1,0 +1,1 @@
+program Zo : F4 : takes L260a, nFL0 : integer; Eroa : integer; wCa, T, B : boolean; c, cB, K : boolean array; E : integer array; ww : boolean array returns boolean array chillax end main : chillax end

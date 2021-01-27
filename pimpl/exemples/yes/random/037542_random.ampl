@@ -1,0 +1,1 @@
+program B : L9 : takes e : boolean array; C, Q4, H92a, x5La, f250, RT : boolean returns nothing ZxX : integer array; chillax end main : YU, U : boolean array; sc : boolean array; when case - true / true - (40) / false : output "" end otherwise : output 5200 . "\\"; do m(90400) end end

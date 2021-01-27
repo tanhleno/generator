@@ -1,0 +1,1 @@
+program k : main : JI1, IK, X, dTX, r380a, z : integer array; y50a : integer; b : integer array; RE : integer array; l1 : integer array; q : boolean; JR : boolean; frF : boolean; while P0_ + 40 - true and 6260 /= false : chillax end end

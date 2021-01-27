@@ -1,0 +1,1 @@
+program g570 : Si : takes M, M : boolean; u : boolean; wYq : integer array; V5, f6 : boolean; mQ2aa : integer returns boolean array chillax end main : HR2 : integer; I : boolean; b : boolean array; Z : integer; chillax end

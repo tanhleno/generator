@@ -1,0 +1,1 @@
+program S : l : takes F, L, Q : boolean returns integer when case - not 9 and 4 : chillax end case - 8 : let s = 2; when case 26 : chillax end; pop end case 928 = 0 : pop end end main : c, X2b : boolean; g27 : integer array; HX : boolean; input W[4]; while(9) and not 6 and 85 or(43) or 6 - 9 : do jt5a(5); output "\n"; let M = 9; let V = 3 end end

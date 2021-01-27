@@ -1,0 +1,1 @@
+program LO90a : O : takes O : boolean array; Q, Kw1aa : boolean array; z, vp, ZSA0, N : boolean array returns nothing X : integer array; mU : integer array; input H; while 2 < 25800 : chillax end end main : y1a, E : boolean; chillax end

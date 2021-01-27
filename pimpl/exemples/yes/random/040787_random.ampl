@@ -1,0 +1,1 @@
+program m : Tb : takes w : boolean array; Ho : integer array; DoF, i, t79aa : integer returns nothing let g1 = array - false; when case 79 : output "s\"" end case 1 : output "[6" end otherwise : chillax end; while 3 : when case 4 : chillax end; pop end; do m(94, 0220) end main : chillax end

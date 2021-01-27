@@ -1,0 +1,1 @@
+program z : k : takes hE : integer; X : integer array returns nothing r8 : integer array; let W[0 and 2] = 8 - 0; let R6a[7 - 5] = 4; let m = 5; let W3S[02] = array 27; let SLJa = 1; when case 2 : chillax end; pop end main : pop true = true; output "" . - 5 . "Hn" end

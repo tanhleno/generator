@@ -1,0 +1,1 @@
+program X : main : when case xy3aa and 583 and not 10 > - true : chillax end otherwise : chillax end; while - (9) - 0 and 55 : chillax end; output "8" . 378 = 0 . 1 . "D"; while - 3 - 7190 /= 8120 : chillax end; do tP6a(53) end

@@ -1,0 +1,1 @@
+program _ : t : takes b : integer returns nothing when case - (0) and 11 : chillax end end q : takes Mr40 : integer array; I : integer array; e4 : integer returns boolean c : integer; Nf : boolean; N, G : boolean; D : boolean; when case 9 - 3 : chillax end case 02 : chillax end; do f(04000); input q end main : chillax end

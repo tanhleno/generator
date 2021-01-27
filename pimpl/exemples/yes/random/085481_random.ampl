@@ -1,0 +1,1 @@
+program k : main : jQFa : integer array; do zY5a(- true / not true = not false, (806) - false and 6 or 10 - 195); do n(true rem w >= - not 88700 + 419, 9 /= - 1); pop; output 8 . 41 . 7 . ""; output "83"; do P(2, 1) end

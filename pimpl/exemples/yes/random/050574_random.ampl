@@ -1,0 +1,1 @@
+program w : H : takes u : integer; B, BT : boolean array returns integer array d3, la, p, p, OyFa : boolean; JD1, z, O7s : boolean array; do w4G(8 and 81 or 08000); when case - 8 - 342 : chillax end; pop 5 end main : c5X, rZX : boolean array; pop - 8 end

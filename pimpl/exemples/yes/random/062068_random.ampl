@@ -1,0 +1,1 @@
+program J : L14 : takes F390 : integer returns boolean array input x end x0 : takes KERa, I : integer; m : integer returns boolean while - 70 : do HZK0a(44700) end; do Yj9aa(96); input E[8] end main : chillax end

@@ -1,0 +1,1 @@
+program i : zE : takes M, q, O, G : integer; v : integer array; O4, U, Q : integer array; Y40 : boolean; v8O, e : integer array returns nothing r2na : integer array; Ju1, tr : integer array; N : boolean; output "5?"; let f = 3; while 97 = 62 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program k : s08a : takes I : integer returns nothing z : integer array; xF, A4 : boolean; f : integer array; do mr(- 819, - 820) end Q : takes s, S : boolean returns integer chillax end o : takes BDZa, P5Q : boolean array; B : boolean; f5x, j0s : boolean returns boolean array L, h, P : integer array; input cp9aa[588]; output "F" end main : let W = array - true and 4 rem true end

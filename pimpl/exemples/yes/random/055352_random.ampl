@@ -1,0 +1,1 @@
+program D : Th : takes R : integer array; a, y : integer returns integer array output ""; output 638 = 78; output 498 end fnC : takes v2, _q : integer returns integer j : boolean array; v, RS : boolean array; chillax end e : takes F : integer; RE : integer array returns nothing chillax end main : chillax end

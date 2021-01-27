@@ -1,0 +1,1 @@
+program Na8 : Bm : takes f7 : integer; VT : integer array returns integer M8 : boolean; chillax end A : takes O, Y20aa, jDxaa : boolean array; X6m, Wt : integer array returns nothing let _500 = 9 end S : takes o : integer array returns integer chillax end main : chillax end

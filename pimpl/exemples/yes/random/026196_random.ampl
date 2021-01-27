@@ -1,0 +1,1 @@
+program eU : C : takes O0L0a, D : integer; Y090 : boolean array; X9qaa : boolean returns boolean w : boolean; chillax end U : takes a, j6taa, H, qT, y8uaa : boolean returns nothing chillax end y : takes RN, Uc : boolean array returns boolean array u : integer array; pop; input W; while 6 : chillax end; output ""; pop end main : pop end

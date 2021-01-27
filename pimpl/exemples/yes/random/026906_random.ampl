@@ -1,0 +1,1 @@
+program y : b550a : takes jaja, M79 : integer; u : integer returns boolean output - 253 < 0480 . "" end mI : takes Zy6 : boolean returns nothing kUP, d6w : boolean array; ok, G : boolean; chillax end main : m75a, s, WXK : integer; Hk4aa : integer array; W : integer array; m4 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program _ : I : takes Tt4a, Y : boolean array; X : integer returns nothing let Vb[E4 and 5 or 4 - 7] = - 73 - 7 end main : T, a, O, g, f0, w, q0p : boolean array; a, Pj : integer array; sa8, r67, j, eS1a : boolean array; while 1 > - false : chillax end end

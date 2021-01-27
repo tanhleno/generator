@@ -1,0 +1,1 @@
+program u : D : takes PZH, o2Oaa, x : integer; k : boolean array; U, v : boolean array; o : boolean; v, i7, Gx : integer returns nothing lD : boolean array; chillax end main : GV9 : boolean; output - true >= - i and 5 . "" end

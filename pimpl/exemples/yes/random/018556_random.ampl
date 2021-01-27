@@ -1,0 +1,1 @@
+program Rk5aa : G : takes k, dm4 : boolean; E : integer returns nothing M, U : integer array; do M(- vjZ0 and 16 > 6 - 97800, 2 - 4) end main : L, yK : boolean array; output _(7) or 1 and 5; when case true : chillax end case q and 5 = - 608 - 97 : do p6(80100); let n = 56; output ""; pop end case 5 : chillax end end

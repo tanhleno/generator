@@ -1,0 +1,1 @@
+program YgE0a : ozg0a : takes s66, z1, O52, z, y, t, B, r6 : boolean returns integer dd, B : integer array; q, K1O : integer array; NGZ, A28, h : boolean; pop - 818 /= 68 end l : takes gD, C, W : integer array returns nothing while 00900 : chillax end; output "~" . "8*" . "T" end main : chillax end

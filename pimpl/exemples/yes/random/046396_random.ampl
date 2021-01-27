@@ -1,0 +1,1 @@
+program _8Na : m5 : takes Bt : boolean returns boolean while - 5 : while 1 : chillax end; while 67 : chillax end end end main : B9, P14aa, j : integer; k : integer; do Z9(- 4 /= not d, not 1 and false and 9, - (4), - 968 >= 6, 6) end

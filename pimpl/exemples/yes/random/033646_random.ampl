@@ -1,0 +1,1 @@
+program e : m : takes yGqaa : boolean; nk90a, eqX, G, X : integer array; q : boolean array returns boolean output - 63 - 0180 <= 42 . 3 = 13; while - 39 : let Z = 8 end; output "" . ""; pop; pop; while 5 : chillax end end j : takes r, r8, oE : integer array returns nothing b, Qo2aa, p : boolean array; EO, wK : integer; input p4X[- 294] end main : M : boolean array; chillax end

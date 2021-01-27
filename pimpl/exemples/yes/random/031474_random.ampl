@@ -1,0 +1,1 @@
+program c : X : takes nx8, UZ9a : integer returns boolean chillax end main : Hr, FEY : integer array; w66a : integer; let v7[- (7)] = - true - not 3 and 91400 - 99 - 85 /= X and 36; pop; output 7 - 0 >= 8 . "{\t\"" . 7 . "Bj0a" . "\n"; output ""; let G0[73] = 27600 end

@@ -1,0 +1,1 @@
+program c : main : asF, Q, VAa0, Q_laa, D7I, n, L : integer; Xxxaa : boolean array; Ct8, WV, p3, w4b, c : boolean array; output not true / 107 and 770 . "\t" . 4 - 2 . 64 . "8\t"; output - false or 6 - 8 <= 73; let y = array false; do E(- 31 <= 4) end

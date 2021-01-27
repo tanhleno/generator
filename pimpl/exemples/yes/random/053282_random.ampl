@@ -1,0 +1,1 @@
+program z20 : t : takes h0 : integer; P : integer returns nothing n78, t, Uzv0 : boolean array; TK : boolean array; sn : boolean array; coO : boolean; let F0[not 54 and 6 + 1] = 94 - 31 < 1 end main : ab : integer array; chillax end

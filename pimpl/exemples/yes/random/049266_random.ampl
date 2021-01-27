@@ -1,0 +1,1 @@
+program B : EE : takes a7 : integer; h92aa, U5e, A, D89, U2n, b, H9Ya : integer; k : integer returns integer array chillax end main : N, h78, z, J, WY0, J7A0, k : boolean; input k5; let G4V[2 rem not 9 - false and 73 or 22 - 3] = array Bh6[27] / (07) and 3860; do ad9(60400, - 1 - 1 < 17, 291 = 6); pop end

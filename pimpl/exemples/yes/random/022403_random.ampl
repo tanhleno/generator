@@ -1,0 +1,1 @@
+program Q : gk : takes _, L : boolean array returns nothing F : boolean; AQ, e9u0 : integer array; output 3130 end main : JOR : integer array; let N64[M(3) / not z or(5)] = array(1 = 940) * not(7) + not true * true and 8 end

@@ -1,0 +1,1 @@
+program N : main : while - not 68 * (603) < - (54300) : chillax end; while - true / 2 : chillax end; when case - not 8 and 4 : while 2 : pop end end case - 3 <= 924 : chillax end case 8 = 66 : chillax end case 8 : pop end case 133 : chillax end otherwise : when case 7100 : chillax end; while 7 : chillax end end end

@@ -1,0 +1,1 @@
+program X : main : t, yY : boolean; x7 : boolean array; lSq : boolean; while - true + true = not w - true and 69 : pop; input _6 end; when case true > - (7) - 7 - 43 : when case 779 = 375 : do z(949) end case 3020 : pop end case 2 : chillax end end case - s0 + 212 : chillax end end

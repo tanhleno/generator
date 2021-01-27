@@ -1,0 +1,1 @@
+program O : main : C, Ry : boolean array; z : integer; X8 : boolean array; T290a : integer array; when case - G[105] / _[373] : do vX(- 81, 01, 0); while 45 = 269 : pop; pop end end case - false * false > - true and 1 - 4490 - 2 : when case 9600 = 6 : output ""; pop end otherwise : chillax end end case - 535 : pop end end

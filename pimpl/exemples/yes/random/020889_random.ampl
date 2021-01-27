@@ -1,0 +1,1 @@
+program B3 : V : takes u, UR : boolean array returns boolean array r380, eVfaa : integer; N : boolean; W2, lno, b : integer; b, TD7a : boolean; chillax end main : Z9 : integer array; while(748 = 98200) - (18) or V33 or 54 /= true + j1V or 92 : pop 6 = 160; do _(3 = 94); let tl[439] = 39; while 4 : chillax end end; input H12; input ib80[- 85 or 85] end

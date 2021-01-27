@@ -1,0 +1,1 @@
+program HG : y5 : takes XtF : integer; W1eaa, Y6e0 : integer array returns boolean array do e(- gf >= - 27 - 41, 8, 143); let d90 = array - 4 end t : takes c3, j49 : boolean; v8 : integer array; f5, p6, w1c : boolean returns nothing p, l3 : boolean; while - 5 - 9 : do zU(66) end end q : takes w, E, L, n, Le : boolean returns integer output 36900 . 47 end main : chillax end

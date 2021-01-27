@@ -1,0 +1,1 @@
+program U : T : takes u : boolean array returns boolean Zy2 : boolean; q : boolean; j7, zG2 : boolean array; do _(not 1 or 54 - 33 <= 635 - 5) end f : takes z : boolean; p5m0a, h, x39aa, PLg, EA, O5Y0a : integer returns integer array chillax end J : takes B, MlQ0a, w, a2U0 : integer array returns boolean array chillax end main : M2, X, c, rF10a : boolean array; chillax end

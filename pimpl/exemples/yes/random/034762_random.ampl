@@ -1,0 +1,1 @@
+program KTm : Y5 : takes o : boolean; LhH, S2K : integer; Z0, VC8, Ly, n : boolean array returns boolean array pop 3110 - 2 = 110; input Os[66300 - 7]; let d[3] = array 77000 end main : Z340, Q5 : boolean array; y : boolean; P1, c0, F, W3, k2Sa : integer array; UU6, p0, c6 : integer array; chillax end

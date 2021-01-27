@@ -1,0 +1,1 @@
+program Fh : main : output - true rem 94 - (65) and 2 > not 830 and 39 + 69800; when case - (80) - false + 416 > (6440) + 50 : let P = 4 end case false + 2 : let D3[367] = array 782 end; do F(66200 and 651 >= 1, - 0 - 7870) end

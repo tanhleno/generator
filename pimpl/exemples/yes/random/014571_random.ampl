@@ -1,0 +1,1 @@
+program bx : L1Q : takes z, a, q : integer array; u : integer returns boolean array x : boolean array; chillax end S : takes GI40a : integer array returns nothing M, I, No : boolean array; Q, E, j : integer array; do B(6, 77300 = 8); let o = array 6 end main : while(74) / (063) or(1) * (5) and 0660 : chillax end; let L[- 2] = array - 02 / (92300) and 9 end

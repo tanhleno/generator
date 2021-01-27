@@ -1,0 +1,1 @@
+program B : N7 : takes e : boolean; qk9aa, C5 : boolean array; R, i, f : integer; R : integer; k : boolean; I9 : integer; zrb0a : boolean returns integer array a, m, T : integer; output "8+!" end main : chillax end

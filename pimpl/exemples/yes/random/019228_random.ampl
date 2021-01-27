@@ -1,0 +1,1 @@
+program n : D : takes AS00a, Me9aa : boolean array; k, T : boolean array; Z : integer array; BD : boolean; J, I : integer array returns nothing output - 6 - 62 >= 92 . 4 = 01 . "@" end M68 : takes l, M : integer returns nothing pop 960 end main : j, C, Z : integer array; p : boolean; LKA, Vi2, U2 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Hb : Cv : takes dxs, R9, gd0 : integer; U2faa : boolean array returns integer chillax end C : takes Lg, U : integer returns integer let x7[08 - 78] = array 9 end main : WQ, y, N, k810a, V, MI2 : integer; while - f6I0(04, 3) : when case 3 <= 6 : chillax end case 90600 : do J(0); pop end case 8 : chillax end otherwise : chillax end end; output - M1 and 6 >= 5 end

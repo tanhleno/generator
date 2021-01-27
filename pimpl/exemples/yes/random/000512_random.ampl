@@ -1,0 +1,1 @@
+program n6G : Q : takes Mw80, x, m, R, F98, t, l, XA4 : integer returns nothing chillax end X : takes R, H, N, w1 : integer array returns integer array chillax end main : I : integer array; GN, T, L, a9 : boolean; pop; output "" . "2" . "" . 7 . 9 . "" end

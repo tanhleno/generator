@@ -1,0 +1,1 @@
+program T : Q : takes Rr : boolean array returns boolean F7, M, m45, mw, S : integer; w : integer array; chillax end r : takes j : boolean returns nothing R : integer; E, cq10a, _ : integer; b : boolean; qU70 : boolean; l3s0a : boolean; when case 3 : do U(0); do y_(8) end case 264 : chillax end case 02 : pop end case 5 : chillax end end main : chillax end

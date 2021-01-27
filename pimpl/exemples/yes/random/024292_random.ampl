@@ -1,0 +1,1 @@
+program ZUT0a : B49aa : takes a, _ : boolean returns nothing x5, V : boolean; while - true and 0 - 7 - 69 : chillax end end ea : takes P, V : integer array returns nothing S, J : boolean array; chillax end main : Ox, H : boolean; PB, U, Zu5a, n, ln50a : boolean array; W040 : boolean array; T : boolean; rWla : integer array; l, U : boolean; GQ : boolean; Tz8 : boolean; chillax end

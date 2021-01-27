@@ -1,0 +1,1 @@
+program y4y : wb7a : takes Kf7 : boolean returns integer array chillax end T : takes W : integer; L : integer returns nothing s : integer array; s, hZla, cSd : boolean array; y, l : boolean; b9 : boolean; when case 57 - 76 < 6 : chillax end otherwise : chillax end end main : chillax end

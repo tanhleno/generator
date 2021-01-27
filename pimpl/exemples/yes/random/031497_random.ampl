@@ -1,0 +1,1 @@
+program _ : m : takes o1x, x : integer returns boolean do SF80(- true + 9 - 94); pop; output 8; when case 292 : pop end case 0 : chillax end otherwise : chillax end; when case 8 : chillax end end v5 : takes s : boolean array returns integer while 4 : chillax end; while 9 = 1 : let k2 = 0; pop end end main : Q, A : integer array; let yH[- not true] = array - (1660) / (40) / dj end

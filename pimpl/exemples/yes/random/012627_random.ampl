@@ -1,0 +1,1 @@
+program i340a : h8 : takes B1, o4, K7W : integer; T9, ii, w1, zKU : boolean array returns boolean array Ad : integer array; Q : integer; f, Y, OsL0a : integer; z61, Aw : boolean; h84 : boolean; chillax end main : chillax end

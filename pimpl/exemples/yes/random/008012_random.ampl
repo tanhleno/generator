@@ -1,0 +1,1 @@
+program A : f : takes N, W, Z0, S : integer returns boolean pop - 8 >= 385; while 0 - 1 <= 6 : when case 2 : chillax end; while 61 : chillax end end end Ad : takes R8, mT9a, G, tN : boolean array; s, S : integer array returns nothing eq, S : boolean array; chillax end main : chillax end

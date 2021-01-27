@@ -1,0 +1,1 @@
+program e : k : takes v, W, SGP : boolean; y1 : integer array returns integer while h9Ea or 35 - 135 = - 8 - 38 : output 7 . "\"" end; when case - 91 : do C(00) end; input OnU; pop 90 end s : takes K93 : boolean array; Su : integer returns boolean output 6 = 6 . 5120 . 8; do U(3) end main : chillax end

@@ -1,0 +1,1 @@
+program f : p620 : takes Y92, e3, Z, Nz7aa : integer returns nothing I3P, F, j : boolean array; z, b, M0 : boolean array; do p4(i12 + 41); input C7Y[1 - 3]; do A7qa(3, 97, 5); output 85 . ""; while 28 : chillax end; input F6 end main : T39a, V6, W, F98aa : boolean; chillax end

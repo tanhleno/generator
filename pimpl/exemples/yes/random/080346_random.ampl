@@ -1,0 +1,1 @@
+program e : main : b6 : boolean; when case - false * true rem false and 3 < - not true * 12 and 43 : output "9Va"; do m1(7 = 866) end otherwise : let M[5] = 6 end; input O[- (9) - 75 and 99 + 9 - 20] end

@@ -1,0 +1,1 @@
+program t : R0 : takes S : integer; hf, V9, M, A29, o5Wa : boolean; _v, tW3 : integer; YJ : boolean array returns boolean array vBT, Koqa : boolean; yr7 : integer array; GS, X : boolean; H : boolean; e : boolean; do j(false + 19 - 8330 < 7, - 24, 28) end R : takes q, _ : boolean returns boolean array do S(0 >= 01, 873, 0, 13) end main : v, R3sa : integer array; chillax end

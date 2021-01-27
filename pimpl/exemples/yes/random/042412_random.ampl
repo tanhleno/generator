@@ -1,0 +1,1 @@
+program M : P : takes q : boolean array returns integer array chillax end K : takes W, vj2 : boolean returns boolean array input O[2] end cima : takes cu, s1 : boolean; z, o : integer array; h, UU : boolean array returns nothing Q : integer; Fw1 : boolean; output 09; do P(1) end main : A : boolean array; D28 : integer; chillax end

@@ -1,0 +1,1 @@
+program If : Vo40 : takes h, G, CZK : integer; T : integer array returns integer u6S : boolean array; pop 815 end main : b05aa : boolean array; output - not not 6070 * true + (658) and 5 + 557; pop i; while - Pi6 and 47 or 81600 - 573 : do j2(36, 79); pop end; do S(- 72 - 0) end

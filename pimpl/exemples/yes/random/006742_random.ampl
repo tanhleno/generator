@@ -1,0 +1,1 @@
+program l : y : takes n69, A, b, P87 : integer; hv : integer array; n : integer returns boolean j : integer; when case not 36 or 4 /= 81 - 026 : chillax end; output "" end main : a, Cp, wl : boolean array; let C = (60) and 61 <= - 6; input v[- false] end

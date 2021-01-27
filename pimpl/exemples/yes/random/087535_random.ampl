@@ -1,0 +1,1 @@
+program E : main : E : integer array; when case - 72700 rem(76900) and(6) and 5 : output 25 = 51; when case 78000 = 8 : chillax end otherwise : chillax end end case not true or not 500 and 3 + 1 : while 03900 = 48 : let t = 38800 end; let WB = 2 end otherwise : output 9; input k; output "\t" end; do GV(- true rem i < - true, r - 12 - 8, 0 - 678, 37 = 9, 5) end

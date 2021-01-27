@@ -1,0 +1,1 @@
+program c4 : XXUaa : takes O3, ty0 : integer array; Mlu : boolean; KQ, b55a, J8V, CR, M : boolean array; S92 : boolean array returns integer array while - (8) and 9 <= - 90400 : chillax end end main : i, l : integer; output "-" . (9) and 442 - 3 - 8 = - 06 end

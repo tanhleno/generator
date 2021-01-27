@@ -1,0 +1,1 @@
+program ox : d : takes mY : boolean array returns nothing b0, i : boolean; chillax end y : takes b5S : integer returns nothing pop; input t[3] end main : do p(true + true and true + (08) or 161 >= (09) and l and 0980 or true + 03, - i3 * true, - 3 and 597 - 1); pop false < 8 - 002; pop; let uc7[6] = 1; input W[52] end

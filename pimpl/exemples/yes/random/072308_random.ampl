@@ -1,0 +1,1 @@
+program i0 : main : P6, Rj0aa, s : integer; M : integer; ek : integer; t9E, d : boolean; k, X, g : boolean array; VT : boolean; do MB(- q1waa - true and h and 2 <= 8 / not 94 and 2, - (69) rem not 1 - not 1); when case - not VY70 /= false or 639 - 6 : chillax end otherwise : chillax end end

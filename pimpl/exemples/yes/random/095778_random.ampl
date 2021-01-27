@@ -1,0 +1,1 @@
+program r : main : when case - false + true and not 1 and 12 + false and 55 /= 2 : chillax end case - (6) : pop 87; do Qh40a(8, 5) end case - 85 or 1 > 1 : do w(5790); pop; do z(05) end case - 02 : chillax end case 183 : input P43; pop end end

@@ -1,0 +1,1 @@
+program P4 : p : takes q, zq6 : integer returns boolean array Cn : boolean array; S, J : boolean; C4w, vF : boolean array; s, v3S : boolean; ItR : boolean; DUE : boolean; chillax end main : chillax end

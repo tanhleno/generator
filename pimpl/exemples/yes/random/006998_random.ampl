@@ -1,0 +1,1 @@
+program Y : M86 : takes D2j0, H23a, Z, vy : integer array; E, W : boolean array; X : integer array returns nothing HJ, Ex5, tL : boolean; chillax end main : b9, x : boolean; Y3 : integer array; V5 : boolean; when case - 978 * e(72) and 659 + (0) * not 4 or(96) <= P(64) and 3540 and 31 or not 81 and 5 : do W(57 - 66, 5640); while 387 : chillax end; while 0 : chillax end end end

@@ -1,0 +1,1 @@
+program z4 : t0e : takes pwO : integer array; M4V : boolean; g : integer returns nothing q : boolean; while - true or 8030 - 7 : chillax end; output "" end R : takes LJ : boolean array returns nothing do C(- 2 - 2) end main : chillax end

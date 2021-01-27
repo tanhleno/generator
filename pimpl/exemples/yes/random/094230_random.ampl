@@ -1,0 +1,1 @@
+program D : main : pop - true * RQ; pop not 20 and 027 >= 5 - 7; when case 5010 and 36500 - 27100 - 726 : while 18 : chillax end end case 70 - 3 >= 05300 : chillax end case 24 : let Vf = 1; pop end case 60 : chillax end; when case 468 - 5 : chillax end case 2 = 6 : pop; pop end case 6 : chillax end otherwise : chillax end end

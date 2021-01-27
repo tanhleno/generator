@@ -1,0 +1,1 @@
+program rA30a : U7Q : takes T, PE, o0 : integer array returns nothing tR : boolean; yM7, w, T2 : integer; CUr : boolean; Xf5, Zrw : boolean; WO4 : boolean; Z : boolean; chillax end S7 : takes mM : integer array returns boolean x : integer array; i, XW70a, s2 : integer array; chillax end main : chillax end

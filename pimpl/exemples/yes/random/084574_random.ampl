@@ -1,0 +1,1 @@
+program H : main : p2 : integer; c9 : integer array; while - false / e(0700) / (2) and 3 + 5 - false - 4 = - true rem not 8740 and 4300 - not 5 : chillax end; pop - false; do j2(true and 945 - 0, - 11 < 6); input s0; when case 1 : chillax end otherwise : pop end end

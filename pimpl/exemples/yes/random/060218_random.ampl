@@ -1,0 +1,1 @@
+program L5 : Z : takes g : integer array returns nothing g2C0a, x, p, H, P : boolean array; when case - 9 and 5 : chillax end otherwise : chillax end; when case - 2 : chillax end case 7 : output ""; pop end case 6 : chillax end otherwise : when case 99 : chillax end end; pop; do Jn5a(2); let U = 9 end main : r : boolean array; s : integer array; chillax end

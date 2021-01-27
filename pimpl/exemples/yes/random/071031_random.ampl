@@ -1,0 +1,1 @@
+program ko : main : DGK, B6, F9 : boolean; m : boolean array; n42 : integer array; input O8c[false + not true - not 5 and 5 + 3490]; when case false / false and 23 or true = - false : chillax end otherwise : input a68[79] end end

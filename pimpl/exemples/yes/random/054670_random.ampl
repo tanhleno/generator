@@ -1,0 +1,1 @@
+program t7 : q60 : takes dt8 : integer array; u, Y : boolean array returns integer array E, y1 : integer; H : boolean array; u, e : boolean; bi0, D : boolean; aL90 : boolean; I : boolean; chillax end main : let s[- not not true] = true * (2) and 85700 /= - true; output z . - 2 >= 9070 end

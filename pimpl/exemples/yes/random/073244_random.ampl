@@ -1,0 +1,1 @@
+program q : main : h, YC1aa : boolean; do f4(- (3) >= 91 / (6)); when case - (1) rem(09) and 5 + not 720 : chillax end case false and 1 >= - 59 : output 12; when case 05 : chillax end end otherwise : pop 7220 end end

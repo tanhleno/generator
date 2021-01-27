@@ -1,0 +1,1 @@
+program lB : main : Q1 : integer array; t : integer array; _2 : boolean array; while - true / false / false or(3) and oX and 643 + false and 91 : chillax end; do l(- g9 * (9) and 15800, - not 929 and 52300, - 8, 1, 71) end

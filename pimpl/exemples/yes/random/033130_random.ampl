@@ -1,0 +1,1 @@
+program L : j : takes i, H : integer returns nothing when case pN >= 2 : do ADZ(1) end end d : takes hL, dq8 : boolean array returns integer array if, W : boolean array; I : integer; NN : boolean; chillax end main : U7G, u : integer; chillax end

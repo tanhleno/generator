@@ -1,0 +1,1 @@
+program b8 : U : takes n : integer returns nothing chillax end c4 : takes m : boolean returns nothing chillax end i : takes o : boolean array returns boolean array I30aa, V, D : integer array; c : boolean; a : boolean; chillax end main : output "4" end

@@ -1,0 +1,1 @@
+program Q : V2C : takes ln10 : boolean array; v, Q : integer returns integer array output "\t" end main : tb : integer array; do p((1400 = 7) - not 0 and(7) <= (9) / 0 + false + 5180); while - not true + true and 279 : chillax end; do J(- false < 86); pop end

@@ -1,0 +1,1 @@
+program i2 : main : UE00, lz, G, y790a, w150a : integer; oW0, bo : integer array; t : integer; R00, Q2, fU30, x : boolean array; pop - u[9] + false and 1 >= 3 and 88200 - 622; pop 1 - 70 - 89 >= 48 - 007 end

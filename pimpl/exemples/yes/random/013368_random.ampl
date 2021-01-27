@@ -1,0 +1,1 @@
+program Q : K : takes DHNaa, f, l1 : integer; DI : integer; H1, V1h : boolean; h, N : boolean array returns nothing _ : integer; V : integer; U : boolean array; T4, x6xa : boolean; k180 : boolean; output - 84 > 5940 . "3"; when case - 8 : chillax end; input v[184] end main : chillax end

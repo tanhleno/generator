@@ -1,0 +1,1 @@
+program ap : B : takes Q : boolean; a, Q : boolean array; E, W8, u3R : integer array; x : integer; q : integer returns nothing Q, E : integer; input J; input Ta[9760]; output 2 end main : U : boolean; YKX0, mk, Q, hh, CBza : integer array; do lj(- (42) rem true) end

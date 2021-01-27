@@ -1,0 +1,1 @@
+program q6 : s : takes R, rDd : integer returns nothing chillax end pf : takes C7 : boolean array returns nothing let gp = 5980 = 92 end main : q, m8 : boolean array; C, Wv, p, f9, u01a : integer; bY10 : integer; M8, qlza, QH, h : integer array; chillax end

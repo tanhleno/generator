@@ -1,0 +1,1 @@
+program Jv : p : takes d96, _6 : boolean returns integer P76 : boolean; chillax end sQ : takes p8, h, n : integer array returns integer Mc, m : boolean array; E7, H : integer array; B59, x8 : boolean; Am : boolean; when case - 72 > 15 : when case 4 : chillax end; do k7(8) end otherwise : input Z end; input Jd_ end main : F5 : integer; w90, T, Q85a : integer; chillax end

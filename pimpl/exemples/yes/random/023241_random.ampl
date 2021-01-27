@@ -1,0 +1,1 @@
+program D : q : takes N, x : boolean returns boolean P : boolean; hh, v : boolean; Fu : boolean; V3, y : boolean; g : boolean; J : boolean; do FHva(- false) end main : HI, j1qa : boolean array; chillax end

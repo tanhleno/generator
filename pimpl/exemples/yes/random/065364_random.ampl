@@ -1,0 +1,1 @@
+program NR00a : U : takes M : integer returns nothing output "" end main : let i0X[- 6190] = array true and 37; while - 7 rem false + false > true : input j; let P4[204] = array 8; when case 1 : chillax end; input o; pop end; while - 16 and 5 : output 581; output ""; while 24 : chillax end; pop end; output "3"; do O(33) end

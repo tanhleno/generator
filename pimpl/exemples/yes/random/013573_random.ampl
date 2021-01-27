@@ -1,0 +1,1 @@
+program af : J : takes W, Cj40a, i8 : integer; E : integer returns integer c5 : boolean; input V end M : takes l, p : integer returns boolean chillax end main : i : boolean array; f : integer array; pop true or Y + 1; do a(- true >= i and 8 or 895, - false and 2570 or 329 - 5, - 3 /= 5); output "" . 35 . "" end

@@ -1,0 +1,1 @@
+program p : main : while(6) rem(023) and(8) and 9 : chillax end; when case(8) * true and 03 <= - false : do Hj(4 = 4); do N(398, 3620) end case c + 29 : chillax end otherwise : while 77 : pop end end end

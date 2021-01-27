@@ -1,0 +1,1 @@
+program Xbb : pB7a : takes J : boolean array; s : boolean; M : integer returns nothing chillax end n : takes Wc, Lr : integer; qNsaa, xU : integer returns nothing chillax end main : input c[- not 27 / true and true or a100a(7) + 80] end

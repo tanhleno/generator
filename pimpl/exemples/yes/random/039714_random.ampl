@@ -1,0 +1,1 @@
+program L7 : TX : takes t44a : boolean array; w : boolean; J : integer array returns nothing o, rK, S : integer; let k[true + 0 - 89] = 67600 <= 9 end w : takes J520a : integer; U : integer; P2e : integer array returns integer array pop end M : takes iT3, yx : boolean array; O, n : boolean returns boolean input Org0a[1] end main : S, e, w0, M : boolean; chillax end

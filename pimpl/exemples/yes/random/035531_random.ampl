@@ -1,0 +1,1 @@
+program G : i : takes bf : boolean; D5A : boolean; v : integer array; N, GO : integer; l6O : boolean array returns nothing Mhg, Q4 : boolean; ZYH : integer array; P, UW20a : boolean array; while - 8 - 054 - 3 : chillax end; do RN(152 - 40 <= 03200, 317) end main : chillax end

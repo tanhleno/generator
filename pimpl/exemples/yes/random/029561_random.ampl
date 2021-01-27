@@ -1,0 +1,1 @@
+program e : V2 : takes e0, I : integer array returns boolean K : boolean; input t[(6) or 3]; while - 2 : chillax end end main : do w(- (363 = 2) and 00 rem(42)); do X45(- false or y4, true or 3 - 2 > - 66 - 8) end

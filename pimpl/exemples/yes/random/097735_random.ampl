@@ -1,0 +1,1 @@
+program R : main : while(057) * not(65) and n and 84100 = - 8 * (4) and 3 : when case 28 - 5 : chillax end case 052 : chillax end case 04 : pop end case 96 : chillax end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program jKj : i : takes pg, z6, _, C5, S4, b8 : boolean; n : integer array returns nothing G : integer; chillax end WE : takes g, P7 : integer array returns integer N1 : boolean array; when case 23 - 0 : when case 0 : chillax end end; let z = array 3; do _4S0a(404) end main : chillax end

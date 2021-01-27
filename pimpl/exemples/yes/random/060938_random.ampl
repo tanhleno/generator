@@ -1,0 +1,1 @@
+program d : J : takes yA : integer array returns nothing s : boolean array; output 1450 - 9 <= 3 . "" . 90; when case 488 : pop; input j7; pop end; do a(291, 1) end e : takes Pod, _, f, WT3 : integer; s, lZ, H0 : boolean array returns boolean chillax end main : UB : boolean array; chillax end

@@ -1,0 +1,1 @@
+program l : main : while - G1waa[632] or not not 01 * not 22 and 9 : let M = 5; pop 60600; while 41 : chillax end; when case 0 : chillax end end; while 9 / true and 53 + false and 79 = - 5 or 7 : while 482 : do t82aa(3) end; while 7 : pop end end; output "5[aa" . ""; let o2 = array - 43 - 9500 end

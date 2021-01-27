@@ -1,0 +1,1 @@
+program aex : lXD : takes R9b, O, MJ1 : integer returns nothing chillax end main : t : integer array; when case - (77300) and 07600 and true and 3920 + false or _ and 10 : chillax end case G rem(6) and 372 < - (1) - 3 : chillax end otherwise : chillax end; do j0k(- not(8) rem true and 37 = h and 31500 or 21700 - 8, - (0410) and 4 <= 5, 0790 < 3, 5, 4) end

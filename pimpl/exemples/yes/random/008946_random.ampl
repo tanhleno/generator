@@ -1,0 +1,1 @@
+program H : e7Y : takes Z6, S, A6 : boolean; K, j : integer returns nothing M2g : integer; c : boolean; g : integer array; chillax end SY : takes J, D : integer returns nothing P, U : boolean array; chillax end main : chillax end

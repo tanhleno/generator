@@ -1,0 +1,1 @@
+program C : J : takes n : integer returns boolean array fQ4a : boolean; while false > 7 : do G(14, 52); while 240 : chillax end end; do SS6(9, 9, 85, 0); output 01300 end main : Ak, l : boolean array; i9 : integer array; n0, x : integer; chillax end

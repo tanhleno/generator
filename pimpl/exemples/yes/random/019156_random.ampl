@@ -1,0 +1,1 @@
+program F0 : P : takes XiQ0a, Ph : boolean array; KG, XDgaa : boolean; X4 : boolean array returns boolean KE, a : boolean; q : boolean array; chillax end main : p4 : integer array; N : integer; pop end

@@ -1,0 +1,1 @@
+program R : n : takes v23, v, ZxL, e, Dz, S : boolean array; Gr : boolean; R, HxC0 : integer; iS4, ts4 : boolean array; x, A, r, Jq : boolean array; b2 : boolean array; j38 : boolean; qQB : boolean; W1 : boolean returns nothing so1 : boolean; l, t : integer array; input Ut1; let I[9] = 4 = 8 end main : output ">" . "\t," end

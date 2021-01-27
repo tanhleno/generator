@@ -1,0 +1,1 @@
+program FmI0a : Up50 : takes G6W : integer; D, V, T, p, E : boolean; vJ : boolean array returns boolean vX, vFQ : boolean; chillax end q : takes fq : boolean; j : boolean array; _, P1D : boolean array; u : boolean array returns nothing do z(- 703 >= 3, 56 = 42); output "" . "" . ";"; pop end main : chillax end

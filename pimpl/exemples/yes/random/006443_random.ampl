@@ -1,0 +1,1 @@
+program r8 : dvS0 : takes Y, v, xD, s : integer; z, EX30a : boolean array; E : integer; D280a, a, f, B0 : integer array; n, TM, k, d : integer array; vt, sUL, lh10 : boolean array returns integer while - false and 3 - 1 - 46 : chillax end end main : s : integer; let H9n = true / 6 and 6; do fo((13) - not 0, - true and 2) end

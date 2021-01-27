@@ -1,0 +1,1 @@
+program K : Uo : takes CHd0 : integer returns integer H : integer; chillax end upy0a : takes e6 : integer returns boolean d, a6h, J : integer array; pop; when case 42 = 2 : chillax end; pop 2 end main : z450a : integer; chillax end

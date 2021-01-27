@@ -1,0 +1,1 @@
+program v180a : jb : takes K : boolean; N, H3m : boolean; k, d49, R : boolean returns integer chillax end main : pop; pop false and 6650 or 951 - 88400; when case - 54 : chillax end case 6 : while 83400 : chillax end; let b = 3 end otherwise : output "" end end

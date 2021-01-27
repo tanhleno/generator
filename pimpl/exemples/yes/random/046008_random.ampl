@@ -1,0 +1,1 @@
+program A : Z98aa : takes U : boolean returns boolean chillax end main : pop - (4) and not 5 - not 43 or 8 - 77 /= false and 26 + 56; when case m8x[39] / 1 or true - 48900 : chillax end case - 71 : chillax end case - 5 : let f79 = 686; do A(0); pop end otherwise : chillax end; input v[- not 9 + 2550 - 53] end

@@ -1,0 +1,1 @@
+program U750 : y : takes G9 : boolean array; JH : integer array returns integer when case - true and 18 >= 667 - 12 : output "=" end case 60 >= 1 : chillax end end b : takes x, QjO0, o5Oa : integer array returns nothing chillax end main : bJ : boolean; input Rt end

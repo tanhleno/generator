@@ -1,0 +1,1 @@
+program N : main : G : integer; when case - false > - true + (5) and 1 : chillax end case - 0310 and 5 < - false or 36 - 107 : input C end case - not 6 and 5 or 8 <= 4 : let P[51] = array 293; pop end otherwise : chillax end end

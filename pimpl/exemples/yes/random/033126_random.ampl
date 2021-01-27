@@ -1,0 +1,1 @@
+program e : U : takes K, H0 : integer returns nothing when case false and 5 = 7 : when case 9 : pop end otherwise : chillax end; do g(6700); let ba = 6; pop end case 7 : when case 32 : chillax end; let m = 6 end end main : chillax end

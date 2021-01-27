@@ -1,0 +1,1 @@
+program n1_ : h : takes X4 : boolean array returns nothing pop - 7 end u : takes F : boolean returns nothing do dT(51 = 6, 1) end KE50a : takes _6, A, Q, C, d, i0 : boolean array; f, Kl, U, vt, vY : boolean returns nothing qw4 : boolean array; chillax end main : Tw5, P, V : integer array; x7 : boolean array; dJL : boolean; QnZa, Fzz0a : integer array; chillax end

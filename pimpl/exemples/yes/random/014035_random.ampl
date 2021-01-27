@@ -1,0 +1,1 @@
+program z4 : p : takes oc9, v2, s0u : integer array; t860a, n : integer array; W700a, c : boolean array returns nothing chillax end iy9 : takes r, E : boolean returns nothing while - 7000 - 9 : while 99 : chillax end end end R : takes L9, i9d : integer returns boolean array chillax end main : F : integer array; pop end

@@ -1,0 +1,1 @@
+program U : hB40 : takes z : integer returns nothing while true and 0820 /= 78 : chillax end; input c; do P8(990 = 10100, 004) end AO9 : takes R : integer; D : boolean array returns integer array chillax end main : W, i : boolean array; eA6, t0 : boolean; input y[not not not 554 and 2 rem true]; let Ak[- false - 02100 and 97] = (7) and 0 + 48 > - 6 - 5880 end

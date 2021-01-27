@@ -1,0 +1,1 @@
+program y4 : o : takes b, F : boolean array returns integer array when case z and 1960 <= 8 : chillax end case 56 : chillax end otherwise : while 46 : chillax end end; while 68 - 37000 : output "c" end end main : f : boolean; L, y2, C : integer; chillax end

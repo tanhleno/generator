@@ -1,0 +1,1 @@
+program _ : x : takes T, K, k87a : boolean; X9, UK : boolean array returns integer array ws : boolean; output ";{" . 9450; when case - 10700 - 55 < 472 : chillax end case 50 : input o; pop end case 0360 : pop end; input l; let r = 5; input v end main : E : boolean array; Lf0 : boolean array; chillax end

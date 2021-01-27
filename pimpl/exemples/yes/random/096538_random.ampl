@@ -1,0 +1,1 @@
+program kJ : main : when case - 7 rem true or true - 422 and 0 or 7 - 800 > m75aa[75] and true and 7 - true - 1 : chillax end case false or true and 93400 = true and 1 : chillax end case not 4 and 17 : let Q9[6] = 4 end case 2 > 9 : chillax end case 424 : chillax end case 757 : pop end otherwise : output 482 end end

@@ -1,0 +1,1 @@
+program M : pF : takes W54aa, sx, W, R : integer array returns integer let V7 = array false and 79 or 9760; output "\t|!a"; while 598 : chillax end end U94a : takes E : boolean returns boolean array I1V0, V, p : boolean; Ye3a : integer; chillax end main : c, Z, R : boolean; o7v0a, w : boolean; ku10 : integer; chillax end

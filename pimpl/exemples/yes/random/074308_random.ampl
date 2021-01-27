@@ -1,0 +1,1 @@
+program S4D : main : mm, p : boolean; pop; do _19(true); when case - false < - 5 : chillax end case - 30 - 646 < 3 : do W(1); output "\"9" end; input v; when case 5 = 227 : chillax end case 6590 : pop end; do r(2) end

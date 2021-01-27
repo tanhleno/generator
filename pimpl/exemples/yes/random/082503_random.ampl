@@ -1,0 +1,1 @@
+program Eax : main : nqO : boolean array; output "\n\n" . "o"; do D(false rem true <= false and 37 + 11900, - not 24 and 1 or 18900 - 2590 >= 84); do s(83 + 5 <= - 519 - 2, 0 - 3, 5 = 304, 5, 39); input mY6; while 4 : chillax end; let c[0] = 9; while 8 : chillax end; output "" end

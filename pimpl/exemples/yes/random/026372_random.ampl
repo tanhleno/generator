@@ -1,0 +1,1 @@
+program dx : N7 : takes IY6, j : integer; B : boolean returns boolean O, c : boolean array; R : integer; r6, gH : boolean; f, Gv : boolean; while - false and 66 or 5 = 9 : input t[0]; while 4 : chillax end; do X9(8); pop end end main : chillax end

@@ -1,0 +1,1 @@
+program CR : Pj : takes t : boolean; EG, m : boolean array; D, b9Yaa : integer array returns boolean array let E72a = array - (60) and 4 + 4 - 3 end main : pop; let K[0 * not 27 and 53 + not 6 and 48 + 88] = array - N2(84700) and 9; do c(2) end

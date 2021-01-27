@@ -1,0 +1,1 @@
+program QQ : P7 : takes E : integer array; bI : integer returns integer array do L(bVf /= - 22 - 4150, - 723); let d[- 2] = array - 56 end hI : takes D : integer; n, IK9 : boolean returns nothing chillax end bP : takes Zc, ty : boolean array returns integer array X, B2 : integer; while 059 : chillax end end main : chillax end

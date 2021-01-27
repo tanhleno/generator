@@ -1,0 +1,1 @@
+program S : L8 : takes l : integer array returns integer d, wpQ0, h4, S, Etl : integer array; chillax end a : takes jvL, HY, U : integer array returns boolean W : boolean; while - 1 = 1 : chillax end end J510a : takes H : boolean returns nothing let j = array 58; pop end b : takes m : integer array returns nothing t, Wm : boolean; let E[0] = 148 end main : chillax end

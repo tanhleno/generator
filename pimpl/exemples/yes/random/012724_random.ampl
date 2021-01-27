@@ -1,0 +1,1 @@
+program KhH : t7 : takes Vo, O43, FT : integer; m, w, i : boolean returns nothing o1 : boolean array; r, Fwjaa : integer array; while - (97800) and 797 : do q(439); output "" end end main : chillax end

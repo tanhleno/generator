@@ -1,0 +1,1 @@
+program z : VB : takes X, M9P : boolean; Oq : boolean returns nothing c9S, N8, v4 : boolean; c36 : integer; do E(- not 58 and 7 + 47 - 6 < 9 - 7); input XNnaa[- 495]; output 38 . 8; let x0I[685] = array 84; do j0(1); do b0(55) end main : v : boolean; while - c - ro2aa[1] - true and 5 - 1 : while 5 - 73 /= 17800 : chillax end end end

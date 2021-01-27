@@ -1,0 +1,1 @@
+program H : B : takes u : boolean returns nothing output "@h!" . 599 = 52; when case 3200 : do s4(55000); let z = 2 end end D85aa : takes Zoq : integer array returns nothing chillax end main : do G(- 48800, not not 7, false and 8 or 35 - 8810 > - 1 - 182) end

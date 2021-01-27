@@ -1,0 +1,1 @@
+program o : C : takes Ck70a : boolean returns integer when case true and 2 - 98 : chillax end otherwise : chillax end; let C[- 190] = 71; do y84(94, 0, 05); input r; when case 3 : chillax end end main : A1 : integer array; chillax end

@@ -1,0 +1,1 @@
+program FR9aa : tU20a : takes eg : boolean array; d, PU : boolean array; y64 : integer; K28a : boolean; Y5, C, N4 : integer returns nothing _0e, JVP : integer; output - 55 end main : I : boolean; vX00a : boolean array; s4 : boolean; Ntxa : boolean array; R : integer; IH2 : boolean; pb : boolean; m67 : boolean; chillax end

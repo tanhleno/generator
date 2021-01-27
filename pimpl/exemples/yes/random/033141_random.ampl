@@ -1,0 +1,1 @@
+program hPZa : P6_ : takes h190, q3 : integer returns nothing when case 44 : chillax end case 716 : input jl3 end case 1 : chillax end otherwise : chillax end; output 1; pop; while 2 : chillax end end main : let A4[(8 = 2)] = - (318) /= true end

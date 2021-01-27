@@ -1,0 +1,1 @@
+program L : N : takes C47aa : integer; i, ZVfaa, q : integer array; Vo, L13, Rz30a, A : integer; Q : boolean; Am : boolean; i, T : integer returns boolean array pop end _4 : takes W, y : integer array returns boolean chillax end main : chillax end

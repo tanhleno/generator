@@ -1,0 +1,1 @@
+program S5Eaa : main : when case not false rem 8 + true / 5 and 4 or(19) or 8 > false and 11100 and 1 : chillax end case false or true + 9 : when case 29 : when case 70 : chillax end; pop end; do a8(6) end; when case false / 4 or 72 or 00800 : let B1m[54] = array 61 end otherwise : chillax end; pop; while 48100 : while 9960 : chillax end end end

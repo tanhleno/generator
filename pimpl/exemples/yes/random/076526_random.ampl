@@ -1,0 +1,1 @@
+program s80 : main : U, rJ0 : integer; Y : integer array; Yl3aa, h0P : integer array; output not VB2aa and 3 and 4 = - 8680 and 54 - 47 - 2 . 0 and 6 . - 74; while A(4) * (761) < true : do x(9 = 53); do W(91, 4); when case 29 : chillax end end end

@@ -1,0 +1,1 @@
+program z4 : y : takes d08a, bv, v, v2, U : boolean array returns integer q9Q0 : boolean; e : boolean array; s8C0a : integer array; gg, Xo5aa : boolean; chillax end ig70a : takes b, I, MH : boolean array returns nothing chillax end q : takes B, H, x : boolean array returns integer Y5, Q : integer array; output "" . 23 . "!" end main : chillax end

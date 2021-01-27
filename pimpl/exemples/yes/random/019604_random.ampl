@@ -1,0 +1,1 @@
+program IH : wZ0a : takes n, U9 : boolean array; ue, m : integer returns boolean J : boolean array; chillax end YCpaa : takes l9H0, E, SG : integer; iQ : integer array; GsMa, A0, l : boolean returns integer pop end main : input E5 end

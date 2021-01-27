@@ -1,0 +1,1 @@
+program Qg : main : while false - (8) or 04 and 1 or 1 - 7 >= 355 + not 7 : chillax end; when case(76) /= iq4 - 2 - 90600 : output 15; pop 5; while 9 : chillax end; input j end otherwise : do D7P0a(3, 98) end; let N[false] = - 9 - 0 = 20 end

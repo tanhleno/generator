@@ -1,0 +1,1 @@
+program y : a : takes D2 : integer; EPk0a : integer returns nothing O, G : integer; when case false : chillax end case 0 - 7080 : chillax end; do A(4 - 82 <= 4320, 5 = 5, 561); output ""; pop 49 end e : takes K : integer returns integer array chillax end main : input n end

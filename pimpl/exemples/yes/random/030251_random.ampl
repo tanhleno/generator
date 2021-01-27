@@ -1,0 +1,1 @@
+program jB90 : I : takes u_C, C : integer array returns nothing chillax end s : takes VP : boolean; S5, n : boolean array; F360a, u5 : integer; b : boolean; P, A : integer array; w : boolean; Lj6a : boolean; b : boolean returns nothing C, q220 : integer; while 7 < 7 : chillax end; while 36 = 00 : while 1 : chillax end end end main : JD90 : boolean array; chillax end

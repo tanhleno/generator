@@ -1,0 +1,1 @@
+program M : main : when case - not 56 > false or true and 5 + 0560 - 454 : while 8 <= 75 : chillax end end otherwise : do P1q(89000); do Q(0); input A end; pop(3) + 388; input Di5[- (53) and 5890] end

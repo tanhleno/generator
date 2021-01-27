@@ -1,0 +1,1 @@
+program v : J : takes B : integer array; S : boolean returns integer array do u8ea(- (7) or 7 - 8 > - 50200) end main : when case false - 4 * true + b and 022 : chillax end case C or true + 3 : chillax end case 0 or 5 - 6 > 5180 : chillax end case - 2700 - 62 <= 7 : input h end case 18 : let r = 3 end otherwise : chillax end end

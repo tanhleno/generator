@@ -1,0 +1,1 @@
+program F8la : Fl : takes l, t : integer array; Y, B0, H : boolean returns boolean array input l end main : e : boolean array; d, m48, D : boolean array; q : integer; v, c, R : integer; khw : boolean; I, aq : boolean; chillax end

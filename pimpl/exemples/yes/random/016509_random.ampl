@@ -1,0 +1,1 @@
+program _7Y : nHraa : takes XX, X, t1 : integer returns nothing Xf : integer array; while not 2 and 2 + 2 < 588 : do O7(2, 9) end end w : takes q, x1 : integer array; X7 : integer returns nothing chillax end main : e, W : boolean array; H, aq, x2, a : boolean; j2, S, w4, E2, K : integer array; FS, F, R : boolean array; chillax end

@@ -1,0 +1,1 @@
+program b5Qa : O : takes Z, Y : boolean returns integer input GU; output 3; pop 2150 end bO : takes fO_0 : integer array; mC : integer array; P8, v, W : integer returns nothing fQ, g : boolean array; u : boolean array; output 89 = 8 end main : let c3 = - true; let S[- true or(92200)] = - D1 or 122 /= - 5 - 901 end

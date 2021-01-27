@@ -1,0 +1,1 @@
+program nr3 : N6d0a : takes Z9Ya, g, I9, Y4, E : boolean returns nothing chillax end D : takes N2 : integer; LQ : integer array; J, n, D : boolean array returns integer U : boolean array; R, q2w0a : integer; chillax end main : when case - 4 = not u and(140) and 66400 or false and 009 + 9 : let Y = 1460 = 62 end otherwise : chillax end end

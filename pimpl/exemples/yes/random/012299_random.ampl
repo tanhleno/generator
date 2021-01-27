@@ -1,0 +1,1 @@
+program r : Us : takes Q, G2, H : boolean returns nothing _ : boolean; chillax end X : takes q : integer array returns nothing when case 04300 - 3 >= 31 : chillax end otherwise : chillax end end e : takes U : integer array; v, y : boolean array returns nothing chillax end main : chillax end

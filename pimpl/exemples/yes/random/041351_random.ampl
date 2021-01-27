@@ -1,0 +1,1 @@
+program D : OmX : takes N2zaa : boolean array; lZTa : integer returns nothing my, m, nAPaa, I : boolean; E, s3, Y : integer array; O, Z, rL1 : integer array; chillax end main : do x(- 73000); when case - xD6(5) : chillax end; do P(- (6) - 79200 - 237 < - 8 - 49) end

@@ -1,0 +1,1 @@
+program m7I : _R90 : takes kK8aa, C6 : boolean array; h, rhfa : boolean returns nothing Of, f, r41a, q : integer array; M7, B : integer; Ua : integer; S, v : boolean; do M(false and 8 <= 1, - 92600 - 41 >= 4); do uo(- 0 - 1 < 9); input G[3] end main : pop - true * true and 996 /= V; input m; output 0 - 558; output 51 . ""; input Ts[69] end

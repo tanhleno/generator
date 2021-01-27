@@ -1,0 +1,1 @@
+program h : sc3 : takes G : boolean array; B670 : integer array; t, k2, M4, q, V : boolean array; v : integer array; xO, W, UB9, s69 : boolean array returns nothing W : boolean array; P, l, b : boolean array; n230a, Y8, hc00 : boolean; n : boolean; Zek0a : boolean; h7 : boolean; chillax end main : while J[2] and 93 / not 903 and 1 : input g; pop end; pop - M36 end

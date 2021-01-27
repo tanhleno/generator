@@ -1,0 +1,1 @@
+program h8 : Ue : takes J : integer array; h : boolean; tp70 : boolean returns boolean array uP, c, u1 : integer array; S, Uh, p9 : boolean; when case true > - 1 : pop end case 8 : chillax end otherwise : output "" end end main : x : integer array; input E; do EJ(8 and not 35300 and 2160 = (7) and 4, - m93a >= 4) end

@@ -1,0 +1,1 @@
+program JEm0 : L7 : takes l : integer array returns nothing FCr0 : integer array; Ovb : boolean array; chillax end BVy : takes N7 : boolean array; S7J, c9 : boolean returns nothing chillax end n : takes N, q5, f : boolean returns nothing chillax end main : R : integer; while - 56 or false - gx and 0 + 9 : while - 5 - 7 <= 552 : chillax end end end

@@ -1,0 +1,1 @@
+program Od7aa : t : takes C : integer array; x9 : integer array; W : boolean array returns integer array let WV7 = 2; output 0320 = 7890 . 9360 end main : Lz, Z9 : boolean array; S : boolean array; z : boolean; chillax end

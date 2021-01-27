@@ -1,0 +1,1 @@
+program A : z : takes U, d8v, L : integer returns boolean while 61900 and 1760 : chillax end; when case - 79 /= 90 : do BI(65900); pop; pop end otherwise : do P(15000) end; do ap7(22 = 98) end I12 : takes j : integer array; Z4 : integer array returns integer array pop 5 = 4 end main : chillax end

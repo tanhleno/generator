@@ -1,0 +1,1 @@
+program a4 : _ : takes y, Y, rf, p : integer; CvE, b5 : integer array returns boolean array M_5, qek, s, jP : integer array; t0, y8Pa : integer array; r : integer array; pop end main : when case - (1310 = 02) < - not(327) : chillax end end

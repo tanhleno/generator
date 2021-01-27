@@ -1,0 +1,1 @@
+program Xjc : LY9 : takes w, i0C : boolean array; eq, z83, yC, m : boolean returns integer array chillax end n5waa : takes _U4aa, m0, P, xC7, G, PD, q : integer returns boolean array L : integer array; chillax end o1 : takes KHG0, u, J0 : integer returns integer qG, K : integer; chillax end main : chillax end

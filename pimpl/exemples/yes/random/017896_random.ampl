@@ -1,0 +1,1 @@
+program l6 : G : takes iK0, uz : boolean; WBT : boolean array returns integer chillax end a5Baa : takes wX80a, V, t : boolean array; W : boolean; C5 : integer array returns nothing chillax end main : y, z, A : boolean array; z : boolean array; ku, Q1U0a : integer; h090 : boolean; input U6; do ve((3) < - (3)) end

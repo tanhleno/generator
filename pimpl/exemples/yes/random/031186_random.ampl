@@ -1,0 +1,1 @@
+program w : S7taa : takes bgN0a, u : integer returns boolean array chillax end Ni : takes XS : integer array; Z, w : integer array; fn : integer returns nothing HS6 : boolean; t7 : integer; chillax end main : b, g3 : boolean array; while - false + 1 * O or 2 and 6 + 2 : do q(8 - 982, 5); input R[1]; pop 3 end end

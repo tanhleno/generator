@@ -1,0 +1,1 @@
+program L : main : a : boolean array; R0p : integer array; YC, E, E : boolean; T2, J : integer; khr, Xb, A8z0a : boolean array; output "" . "\""; do _(- p(383) / not 39300 and 1 + 9 > - 6 - 86 - 5, - D0r0a); do m(- true + 23100 <= 2, 0 > 8450, 340 = 17); when case - 0 : while 9 : chillax end; while 96 : chillax end end end

@@ -1,0 +1,1 @@
+program _ : YCEaa : takes I, A : integer; e : boolean array returns integer input U; let K[4] = 77800 = 2; input IF7[7]; input c[7]; while 6 : chillax end end main : By : integer; X : integer array; kH3aa : integer; X5, NB, x2Faa, k : boolean; C : integer; j1 : boolean; i : boolean; chillax end

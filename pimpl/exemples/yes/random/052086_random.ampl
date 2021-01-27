@@ -1,0 +1,1 @@
+program X24a : G5 : takes H2w : integer; zF : boolean array returns nothing output - 38; while - 4 - 31500 : input X19a; do fr8aa(5); pop end; pop 164 end h : takes Jem, J : boolean returns integer PZW : integer array; while 76 - 8440 >= 5 : chillax end; input T end main : output ""; output - not 5 + 4 - 7 /= - 7 end

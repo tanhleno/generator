@@ -1,0 +1,1 @@
+program kB : kO : takes n8 : boolean array; xS, g : boolean array; nu, Md : boolean array; Q : boolean; N1, IXN : integer returns boolean chillax end main : when case false and true / 26 and 7 : while - 1 - 84 : chillax end; do S4V(391); when case 7 : pop end; input V; while 720 : chillax end; pop end otherwise : when case 9 = 81 : output ""; pop end end end

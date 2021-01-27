@@ -1,0 +1,1 @@
+program eh : A : takes Hi4 : boolean returns nothing o02aa : boolean; chillax end u : takes g : boolean array; A7Yaa, p5 : integer returns integer array do g(6 - 3, 09 = 2) end main : nn, vn, i6n, v1, I, I, b : integer; chillax end

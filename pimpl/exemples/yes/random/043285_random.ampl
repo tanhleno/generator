@@ -1,0 +1,1 @@
+program e : O61 : takes a8l0 : boolean array returns integer input A end I1wa : takes o : boolean array; cm7, s, YSi, s : boolean array; gE, jk, S, w : integer returns integer Kb : boolean; e6, Snb, b : integer; while 94 - 2 : output "5"; when case 1 : chillax end; pop end; do Y(531 = 0, 58600) end main : hX, F, s5i, e, s : integer; chillax end

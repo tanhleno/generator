@@ -1,0 +1,1 @@
+program m : OF : takes lC7, s3 : boolean array returns integer Hhfa : integer array; chillax end N : takes k, W6ba : boolean array returns integer L, r6 : integer array; kPJa : integer array; vwl : boolean; output "82" end main : chillax end

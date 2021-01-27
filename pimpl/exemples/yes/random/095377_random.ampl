@@ -1,0 +1,1 @@
+program f : main : when case(62600) + 3 * (18) and 57 - (922) or 9 : chillax end case - 8 / true and 0 + false and 43600 : let q[29800] = 55 end case true and 9 or 3 : chillax end otherwise : chillax end end

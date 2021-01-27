@@ -1,0 +1,1 @@
+program m0 : w : takes do5, H, K, h5 : boolean returns boolean array Z, t : integer; iA : boolean array; SH : boolean; chillax end main : Y4 : integer array; while 08100 - X[398] = not 1 : chillax end end

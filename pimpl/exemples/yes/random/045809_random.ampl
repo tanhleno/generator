@@ -1,0 +1,1 @@
+program v : Z1 : takes t : boolean returns boolean array output 7 - 7 end xd4aa : takes f3 : boolean; O8, z, sm70, T, I, vG : integer; S96, s, e, m, H : integer returns boolean E : integer; chillax end eFGaa : takes e : integer; qcta : integer array; M6x, k, R3, cs : boolean returns boolean array do w0(076 = 9) end main : I : integer; chillax end

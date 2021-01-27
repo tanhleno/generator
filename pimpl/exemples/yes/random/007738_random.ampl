@@ -1,0 +1,1 @@
+program C : ni : takes m2, zRO, Z, qF5a : integer array returns nothing UD, p : boolean; while(0280) and 6 : chillax end end E81aa : takes r9Ka : integer array; k : integer array; N : integer array; I : boolean array returns nothing while - 4 < 15 : chillax end; input u3 end main : e, f1Z0a : boolean; chillax end

@@ -1,0 +1,1 @@
+program a : W : takes A : boolean returns integer array YZ, F7, y90a, Q : boolean; sN : integer; I130a, d : boolean; when case - false = 1 : chillax end case - 2 - 864 : chillax end otherwise : when case 5 : chillax end; pop; pop end end main : pop; let eY = d6Ya + 80 > - 0 - 705; pop - 6 end

@@ -1,0 +1,1 @@
+program b8 : r13aa : takes C : integer array returns nothing pop - 26500 < 76; while - 8 : input r end end main : when case false and false and(1250) or not false - not 3 - 09 = - not(25) + not 638 or 38 : chillax end case - Xb < - (7) : let h = 9; do AY(14900); do u(096); let G = 05; pop end end

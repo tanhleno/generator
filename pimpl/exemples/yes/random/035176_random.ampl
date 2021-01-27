@@ -1,0 +1,1 @@
+program m : hh : takes Km : boolean; H90, l : integer returns boolean array pop - 574 <= 8; while - 91 - 6 : chillax end end main : z3, _ : integer; while s[1320] = - 9 and true or QF and 86 - 139 - 2 : output ""; output ""; do w(1); input j end; do VwZ0a(true - 4 - 64 - 6 > true or 85, - 3 and 3 + 1 - 47); let F[2900] = - 1 - 9 >= 53 end

@@ -1,0 +1,1 @@
+program E : d : takes y, V : boolean; Z : integer array returns nothing L9, v6 : integer array; j9, o, v : boolean array; chillax end O : takes Yk : integer array returns nothing chillax end main : pop - 8 or(928) and 3 = - not 95600 and 070 + 7 - 0 end

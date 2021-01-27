@@ -1,0 +1,1 @@
+program fsp : AK : takes s4, U6 : integer returns integer E5, I, i3 : boolean; L, h : boolean; chillax end main : output - a(0) rem not 55 + not 702 or 34 - 9 >= (1) . - true and 5610 + 9 >= - 26 end

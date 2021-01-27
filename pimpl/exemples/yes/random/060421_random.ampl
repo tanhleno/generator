@@ -1,0 +1,1 @@
+program n : H55 : takes gv : integer array returns nothing H8, Z, C : integer array; RY, hZ : boolean; V7, ok : integer array; u, P : boolean; chillax end L : takes HiPaa, NK, t85, c, b, FvJ : integer array returns integer chillax end main : g9K, _h2a, K14 : boolean; W3k : boolean; N, r, T : boolean array; let J = - m(0) /= 0 or 0450 end

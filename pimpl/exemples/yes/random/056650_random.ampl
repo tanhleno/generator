@@ -1,0 +1,1 @@
+program rj : P : takes j1 : integer array; xQ1 : integer; d : boolean; c42 : boolean; T81a, r, q : boolean; O, V, f : integer array returns boolean array input sfE; let k = 53 = 3; pop 3; output "\t]\"" . "<"; input Sx end main : x, x1, W, SB : boolean; do V(false + (321) rem false) end

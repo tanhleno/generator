@@ -1,0 +1,1 @@
+program o : O : takes r23, e, C1ha, i9 : integer returns integer output 8 - 6 /= 5 . 4 = 227; pop end main : w, q, A, kFp, M, l_1 : boolean; _8 : integer array; do j5((7 = 17) + true + m and 5 = - true / false and 4, 45 - rc > - 3 and 85, - F0 and 6 /= 03, 30); while(7) >= - 3 and 3 or 3 : chillax end end

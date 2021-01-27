@@ -1,0 +1,1 @@
+program Kr7 : main : MrAaa, stzaa, W0V : boolean; J, H, OI1 : boolean; let S = array - not 6; input f[o(85) / false]; output 82 - 2 < 3 . 9 = 367 . ""; when case 8 - 9 : chillax end otherwise : chillax end; while 986 : do i(3); pop end end

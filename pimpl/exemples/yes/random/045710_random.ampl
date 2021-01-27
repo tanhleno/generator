@@ -1,0 +1,1 @@
+program au9a : W2 : takes w : boolean returns boolean array e1 : integer; chillax end main : n, B : integer; xJ5aa, _4 : boolean array; c2 : integer; Yh6aa, d : boolean; _, f : boolean array; t : boolean; go : boolean; do s54(- true + v3); let O6Fa = - (1) and 5 or 0; output 52 - 824 end

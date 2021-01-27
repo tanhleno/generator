@@ -1,0 +1,1 @@
+program u : b : takes K, bD, L, M6, K : integer; K, m0f, U5, X : integer array returns boolean array pop end S : takes u : boolean array returns nothing Rs, p : integer; Eo1 : integer; chillax end main : CmZaa : integer; while - (5 = 8) - true * x8 and 2 or not 4 < - true / true : chillax end; output "" . "" end

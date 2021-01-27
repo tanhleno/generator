@@ -1,0 +1,1 @@
+program L : X : takes I, T : boolean returns boolean n : integer; I8E, T, f4s : integer array; chillax end main : G2, i : integer array; EO6 : integer array; do U(X(27), - 1 >= - true, - T and 1 - 3 - 77 >= 93, 17 > 6) end

@@ -1,0 +1,1 @@
+program D : hD : takes lY10 : boolean array; N, F : boolean returns integer array chillax end B2Jaa : takes P380, b : boolean; D, R : boolean; p, p, Tgp : integer returns nothing U : integer; chillax end main : q : boolean; chillax end

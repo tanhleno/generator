@@ -1,0 +1,1 @@
+program s : M : takes Lo40a, dPq0a : boolean array; u, Uh, Kr7 : integer array; v, b6, Ar, mR, _ : boolean; s1, G : boolean; E, pzV, r_ : boolean array returns boolean array JK4, h7, X5, vAo : boolean array; T8, qO, b5 : integer; while(6) or 67 : pop end end main : chillax end

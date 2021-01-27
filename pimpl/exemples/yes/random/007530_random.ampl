@@ -1,0 +1,1 @@
+program M : by : takes j1, P, S2, q55a : integer array returns integer array n7, C6T0 : boolean; WW, P, i : boolean array; when case - false - 125 <= 04 : output "6;!" . "" end otherwise : chillax end end kx9 : takes D1y : boolean array returns nothing gyy : integer; chillax end main : dB, F960a, j : boolean array; E : boolean array; chillax end

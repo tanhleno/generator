@@ -1,0 +1,1 @@
+program j7 : g : takes _, RDC : boolean; q91 : boolean array returns nothing q3, Ph : boolean; tIS, ZQd, UUb0 : boolean array; pop - 556 end main : TN6 : boolean; A, v1, C9 : integer; r : integer; qc4, l, i : integer; J11, t5, e : integer array; hB : boolean; while - true : chillax end end

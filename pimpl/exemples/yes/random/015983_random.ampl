@@ -1,0 +1,1 @@
+program g : e : takes H, U, z : integer returns integer array pop; pop; let x2 = array 2110; output 7 . "" end main : CBm, eQ4aa, Iv6, S : boolean array; G : boolean array; L : boolean array; M3, T, I : integer array; E : integer array; chillax end

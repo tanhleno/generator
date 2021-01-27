@@ -1,0 +1,1 @@
+program wA00a : main : NYG, u8, Bs : boolean array; Q4, N, I : boolean array; m2, g6, U, u15aa, v : integer; A, g2vaa : integer array; X, bI2, C4e : integer array; C, r : boolean; c : boolean; chillax end

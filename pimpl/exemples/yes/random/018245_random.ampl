@@ -1,0 +1,1 @@
+program m : N : takes fa, xu : boolean; c : integer array; y4v, iYSaa, H : boolean; y7 : boolean array returns boolean let M[- 3 or 256 - 6] = - 16; pop 5; input p; do W(84, 18) end main : u, Vp2, IZq, Q67 : integer; a : boolean; am0 : integer; B55, n : integer array; while - 487 or(597) - false and 0 + 72 - 2 >= - 806 - true or 0 : chillax end end

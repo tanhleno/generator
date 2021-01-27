@@ -1,0 +1,1 @@
+program gM : q : takes F : integer array; mi, oA9aa : boolean array returns boolean array chillax end main : Q : integer array; T610a, TY60a, leGaa, m, S9f0a, T4 : boolean; h490a, w, P, P : integer; while - (9250 = 1) * (0) and true + false + 22 and 9 : chillax end end

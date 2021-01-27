@@ -1,0 +1,1 @@
+program Q : j : takes o92, F, T, W2E0, o, b4 : boolean returns boolean array let a[not 81] = - 27 /= 9; input R[- 1 - 2] end R : takes n, w, t2 : boolean returns nothing w, J : boolean array; input _ end W : takes SC : integer array; M : boolean array returns boolean array while 6 = 7 : chillax end; while 09 : pop end; when case 5 : chillax end end main : chillax end

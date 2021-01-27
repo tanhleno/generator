@@ -1,0 +1,1 @@
+program S : C4 : takes m, A : boolean returns boolean array _, r, F, k, P3 : integer; when case W and 944 : chillax end case - 05 <= 85 : let ue8a = 4910 end otherwise : chillax end; let _M[3080 - 910] = array - 0 - 5 end main : M9e : integer array; chillax end

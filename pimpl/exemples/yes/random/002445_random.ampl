@@ -1,0 +1,1 @@
+program e3 : eI : takes wF4, F1Laa, T2, U9T, L : boolean array; w, h : boolean array; d : boolean; Uk : integer array; n, z9, x_1 : boolean; e, f : boolean; N5 : boolean; R : boolean; s1 : boolean returns nothing t8 : integer array; chillax end main : CvT, T : integer; oC40, YRy : boolean; while - false + true : chillax end end

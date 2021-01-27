@@ -1,0 +1,1 @@
+program h : main : m : boolean array; VYB0 : boolean; when case - not 974 and true <= - not _0u : while 54 = 1 : let Fb50 = 4; pop; pop end; pop; do z(3) end case true - false - 698 : pop; output "6" . ""; output "" end end

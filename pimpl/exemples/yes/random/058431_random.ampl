@@ -1,0 +1,1 @@
+program s : O : takes u : integer array returns boolean o32 : integer array; s, JW, _, ZG2a : boolean; chillax end main : do j1T0(- not(52) + not false + tS and 99, false and IBJ and 9 or not 67 and 1 or 7 < - 1300 and 01 + 905 - 5); while(26) / false and 56 > - false - 5030 - 92500 : input x[2]; pop 6; output "" end end

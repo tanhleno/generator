@@ -1,0 +1,1 @@
+program b : main : e : boolean; do r(- 40 - e / A - t = - (8500) and true or 03 and 02 + 21); pop; while - not 3480 and 24 + 8 >= 3 : chillax end; input O[54800 - 02]; when case 79 = 15 : chillax end otherwise : chillax end; when case 46400 : chillax end case 7 : chillax end end

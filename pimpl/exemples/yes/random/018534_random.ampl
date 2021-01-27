@@ -1,0 +1,1 @@
+program JI5aa : XI : takes x, q : boolean; c : integer returns nothing chillax end P9b : takes l, o : integer array; N : integer array; T : boolean returns nothing input nn; output 52 . "\t" . "8"; do O(649, 7) end main : dC, fz : boolean; chillax end

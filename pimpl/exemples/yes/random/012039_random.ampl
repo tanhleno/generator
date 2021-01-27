@@ -1,0 +1,1 @@
+program M : dqa : takes I, s9, y2 : boolean returns nothing chillax end g : takes L, L2, v, g : integer returns nothing let u520a[- 364 - 16] = array - 814 - 37 end main : cO : integer; V : boolean; output - D[6] or 71 and 6 = - true and 6 + 0 end

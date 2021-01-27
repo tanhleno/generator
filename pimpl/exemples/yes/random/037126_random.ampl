@@ -1,0 +1,1 @@
+program DG : J : takes c60a : boolean; p : integer array returns nothing w5q : integer; uU : integer; while - 6880 and 2540 + 8 - 33 > 993 - 08 : chillax end; do p(- 47 - 5); when case 6 = 131 : chillax end end main : chillax end

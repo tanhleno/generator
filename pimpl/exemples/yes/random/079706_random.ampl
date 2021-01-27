@@ -1,0 +1,1 @@
+program L : main : q : boolean; O : integer array; k, jQ : integer; z, _ : boolean; i : boolean; Q7, K : boolean; Hh : boolean; w : boolean; output "q" . true; when case - false : chillax end; input B[- true - 3250 - 730]; output 16600 = 7 . "=s\"" end

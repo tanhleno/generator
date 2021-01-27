@@ -1,0 +1,1 @@
+program M2 : tV : takes f, Bi, Hl : integer; W : integer returns boolean array B, h : boolean; A, s, YG10a, w : integer; V7z : integer array; let v = 7360 - 882 end main : pop - (15) or not 2 and 3; output ""; output 63 - 2; while 4 - 023 = 0 : chillax end end

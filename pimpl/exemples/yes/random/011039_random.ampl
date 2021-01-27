@@ -1,0 +1,1 @@
+program gq20a : y : takes Q0, H, y : boolean array returns nothing chillax end S : takes g, S : boolean; n : integer array returns boolean array e, rg, y, L43 : boolean array; a : boolean; dy : boolean; uoA : boolean; chillax end main : a : boolean array; BQ : integer; chillax end

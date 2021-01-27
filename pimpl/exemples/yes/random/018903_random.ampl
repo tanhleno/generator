@@ -1,0 +1,1 @@
+program FW : m : takes Bu, z04 : boolean array; y4, S, W : boolean array; a : boolean array returns integer n : integer array; d5 : integer array; Dutaa, P19aa : boolean array; N, D : boolean; chillax end R : takes y : boolean returns integer e2 : boolean; let x880a = 2 = 05 end main : chillax end

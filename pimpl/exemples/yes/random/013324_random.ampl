@@ -1,0 +1,1 @@
+program POO : o : takes tJ8a, cO80, A : integer; Tc : boolean returns nothing h, b46 : integer array; L7, Kc4aa : integer array; when case not 1 and 93800 = 1 - 4430 : chillax end case - 09 - 3 < 836 : while 8 : chillax end end end I : takes Q1c, h, l : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program N : main : F3 : integer array; I, cce, T12, j, E8, p : integer; Y8uaa : integer array; when case - true * (7) and true or false : chillax end case - false - not 52 : chillax end otherwise : while 02 = 11 : while 5 : chillax end end; input N[91]; when case 12 : chillax end; pop; pop end; input l1 end

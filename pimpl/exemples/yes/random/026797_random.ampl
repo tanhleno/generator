@@ -1,0 +1,1 @@
+program s : R09 : takes f4, f : integer; NQ : integer array returns integer Ed1a, WC1, u410, o : integer array; x3, B : boolean; output 04700 - 1 < 9; when case - 29 : chillax end case 778 : pop; pop end case 4 : chillax end end main : chillax end

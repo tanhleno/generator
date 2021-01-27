@@ -1,0 +1,1 @@
+program j75 : Z : takes E : boolean returns integer array x : boolean array; chillax end Z : takes O : integer array; h : boolean; eT, Z6Ra, lI, b6 : integer returns boolean array output 7 = 7 end main : pop false > true and 31 end

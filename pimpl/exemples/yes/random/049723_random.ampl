@@ -1,0 +1,1 @@
+program x : V : takes W8 : integer; x, l6, ic, H : integer array returns nothing pop; output 8; input TI; do lp8(60) end main : C : boolean array; A5 : boolean array; a6, Q3, v : boolean array; x0 : boolean array; E6P : boolean array; c0U0a : boolean; do _X(- (1 = 8) * not J rem(3) and 162 - (947) + (9) and 23 or 48300 = - F490a and false) end

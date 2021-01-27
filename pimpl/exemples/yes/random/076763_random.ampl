@@ -1,0 +1,1 @@
+program b : main : LD00a, e0z : integer; output - 45 / (075) and 6 < - false and 411; while - 0 - true and 28 - 566 <= (4) and 0 or 07400 - 4 : chillax end; output 41 - 77 /= 26 . 112 = 25700; let w = 90 = 1 end

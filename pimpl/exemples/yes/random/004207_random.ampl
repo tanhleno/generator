@@ -1,0 +1,1 @@
+program B : P2 : takes I, W620, D, Z5 : boolean; a, k0taa, w, r7_0a, _ : integer array returns integer array CYJ0, E, d : boolean array; let O = array not 3 - 28400 end main : v82aa, T : boolean array; P_, T, QuYa, C : integer; let H050a[- 388 * true] = - false and true and 9; while(90) > x1Y : chillax end end

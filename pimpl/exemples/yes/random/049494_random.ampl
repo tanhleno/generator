@@ -1,0 +1,1 @@
+program Du : G : takes Z : integer; C, N, y57a, j, x : integer returns nothing V : integer array; t2, iV, hx : boolean; while 15 or 10 : chillax end end main : output - 88 rem h36; input Ew[- m]; input r8[- (95)] end

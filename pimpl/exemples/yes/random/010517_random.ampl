@@ -1,0 +1,1 @@
+program P : K : takes V, V, fH2 : boolean array returns boolean array chillax end main : do e3(- 2 * false rem Jh6 and 8630); input Od; let S = 060 > 1; while - 83 : input k; let l = 1 end; do _F(833 = 2, 373); pop; input HzJ; do A(06); pop end

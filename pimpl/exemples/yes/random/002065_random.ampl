@@ -1,0 +1,1 @@
+program PZ : l : takes C, cU9a, zN, F, F, x : integer returns nothing L, C : integer; W, Y : boolean; s : boolean; do C(- not 9) end naX : takes p, _Q, S5 : integer array returns nothing J, n : boolean array; chillax end main : cE9aa : integer array; I350 : integer; while(9) + true and not 76 : chillax end end

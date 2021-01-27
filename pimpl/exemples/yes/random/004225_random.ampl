@@ -1,0 +1,1 @@
+program s : g4 : takes E, f, N, V570 : boolean; j29a, k3, f87, D : boolean returns nothing F, W9, o : boolean array; input F[- (95)]; output 3 = 4 end main : Z3 : integer; let a = array Y9W(1, 78) rem not 63 * 5 + E(7) and false - _ - 66 - 4; pop end

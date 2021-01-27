@@ -1,0 +1,1 @@
+program eg5aa : M : takes Oz90a, f : boolean; c : boolean array; r, l04 : integer; Y, M : boolean returns nothing K : integer; let j = 93 - 3; pop 3 = 09 end main : h9 : boolean; when case 2 /= - false + b and 8 : chillax end end

@@ -1,0 +1,1 @@
+program p : Yk : takes _5R : boolean array; m82 : integer returns nothing while true : chillax end; while 6 >= 1160 : do Xi70a(7) end; while 55900 : chillax end end main : NG20a, G, l, hT3, g3, o, h4 : integer array; q : integer; y7 : integer array; Q27, N, Z : boolean array; chillax end

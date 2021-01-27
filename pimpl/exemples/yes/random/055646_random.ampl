@@ -1,0 +1,1 @@
+program Hy : QK : takes Ux : integer array; _53a : boolean; P : boolean returns integer do N(G0 and 3 - 6); do N(- 8 - 1 <= 49) end A70 : takes r : integer array; FUh0a : boolean; B05, u, e3 : integer array; H, C : boolean returns boolean array h : integer array; chillax end main : I, l : boolean array; chillax end

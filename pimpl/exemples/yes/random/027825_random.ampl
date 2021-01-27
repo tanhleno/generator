@@ -1,0 +1,1 @@
+program X95a : W : takes Io, KA : integer array; QKYa, g38 : boolean returns nothing when case - ZP or 9 : chillax end end O : takes S, Cz30a, v : boolean returns nothing hw : boolean; input G[- 2]; do Q(525 = 3); let S = array 2; while 9 : chillax end end main : e : boolean; x, d2C0 : integer; F4 : boolean array; input H end

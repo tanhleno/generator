@@ -1,0 +1,1 @@
+program y5Va : H4 : takes L, Q, l1 : boolean array returns nothing lM : boolean array; output ""; while 5 > 90 : chillax end; do E(41 = 78); let p[71] = 77; when case 87400 : chillax end; output "" end main : do x(- not not 50 - not(9), (48) rem false or not 4 /= - false and 2 or 2 - 3) end

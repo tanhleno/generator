@@ -1,0 +1,1 @@
+program y : main : when case 8 + (9) and 4 and 90 + true + 7 = - B / not 8 and 9 : while - 55 - 94 : chillax end end case - not 0770 > - false : when case 668 = 8 : let b = 6 end case 5280 : pop end otherwise : pop end end end

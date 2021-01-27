@@ -1,0 +1,1 @@
+program I6_a : l : takes N5Ma : integer array returns nothing gR, Fg : boolean; ev, Z1, M, rD : integer array; t, w : integer array; output "" . 2 = 23 . 1 . "\nK\"a" . "" end main : h : integer array; O, h, Zn, J : boolean; chillax end

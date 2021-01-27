@@ -1,0 +1,1 @@
+program f : n99 : takes H9Ea : boolean returns nothing chillax end main : i, w : boolean array; when case - (60900 = 4) rem 85600 + true / W - not 40 : chillax end case false * p : chillax end case - false or 76 - 10 : output 25 end otherwise : pop 5 end end

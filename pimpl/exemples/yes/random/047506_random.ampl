@@ -1,0 +1,1 @@
+program z65 : K40aa : takes Q : boolean returns nothing chillax end Zc : takes D6Ba : boolean array; G : boolean; vJ : integer; B, X : boolean returns boolean chillax end main : Y, X : integer; Z, xw : integer; Z, Z, NG, b : integer; R97, n, b, J : integer; chillax end

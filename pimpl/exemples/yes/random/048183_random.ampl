@@ -1,0 +1,1 @@
+program y : V4 : takes l : boolean returns nothing g, U : boolean array; IFRaa : integer; V : boolean; do c1(- not 940 - 98 - 45000 = - 09 - 5180); let z = array - 7; input t[6]; input lT7[3]; input Rk end E4ua : takes tl, e_o, V : boolean array returns nothing C03 : boolean array; chillax end main : chillax end

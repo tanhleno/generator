@@ -1,0 +1,1 @@
+program F : L02 : takes a15aa, Z3, _4 : boolean returns boolean while - (30) and 97600 : chillax end end _ : takes b_Za, Dv : boolean array returns boolean array chillax end main : when case(6) / 9 - true / 4780 + not 14 and 8 or 1 = (4) or not 0 and 5 - 0 - 1 : chillax end; do _a(true and 9 and 420 - 94) end

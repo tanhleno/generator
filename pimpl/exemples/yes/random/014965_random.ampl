@@ -1,0 +1,1 @@
+program KKP : h : takes a, X7Fa, z : integer array returns integer array r9Ba : boolean array; while - 78000 + 1110 : pop 90700 end end T : takes E2v, Jq00a, j4, C, h : boolean; AX90a : boolean array returns integer array chillax end main : M3l0 : integer array; pop - true; when case - 19 >= true or 43 : chillax end otherwise : while 3 : pop end; while 97 : chillax end end end

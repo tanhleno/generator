@@ -1,0 +1,1 @@
+program V : M : takes Z, NB1a : integer; YX, v : boolean; D4Q, R, n : integer array; E, Z, t : boolean returns nothing ds, G, OTl0a, K, s : boolean array; chillax end main : W : boolean array; when case - w / false / (4) + false rem k : chillax end; let B = array - ZI1a rem(84400) + true end

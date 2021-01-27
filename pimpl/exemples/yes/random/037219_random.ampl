@@ -1,0 +1,1 @@
+program r2xaa : y3q : takes e8e : boolean; K : integer returns boolean x_y, e : integer; D, K6, R : integer array; x, P9naa, J : boolean array; b, Ikl0a : boolean; E : boolean; output 54 . ""; output 33; do d(87 = 55500, 6); let kj = array 9 end main : chillax end

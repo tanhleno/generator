@@ -1,0 +1,1 @@
+program J : p0 : takes o : boolean array returns integer chillax end u : takes e, G : integer returns integer k : boolean; chillax end Q : takes e : boolean array; LV : boolean array; q : boolean returns boolean n, tk : boolean; t75 : boolean; CI : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program g : S1 : takes L, o190a, U8 : integer; M : boolean; Vt : boolean returns boolean array while - not 8 + 278 - 2 : chillax end end b : takes B, J7t, C9G, W, Ds, f, x4P : boolean returns integer chillax end main : chillax end

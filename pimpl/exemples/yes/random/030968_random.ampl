@@ -1,0 +1,1 @@
+program S : l4Daa : takes L, aE40 : integer array returns nothing input lM60[- false or 7 - 01]; while 40700 : chillax end; when case 75 = 9 : chillax end case 041 : pop end otherwise : pop end end main : WYy : integer; A, F, Km70, U, Je : integer array; W, PA, a0, M0 : boolean; chillax end

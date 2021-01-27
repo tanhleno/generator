@@ -1,0 +1,1 @@
+program s : q : takes x4I : integer array; S, I, M3oaa, Pg, o, M, L : boolean array; A5M0a : boolean array returns nothing tW7, QJq : integer; chillax end main : let b = - (22) rem false or not 9 and 69300 end

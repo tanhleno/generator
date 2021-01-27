@@ -1,0 +1,1 @@
+program O : R : takes m : integer array; S : boolean returns nothing when case - H : chillax end otherwise : while 39 : chillax end; do W(0); pop end; output "" end main : U, B760a, v, a : boolean array; yi4 : integer; pop - H and not 0 and 6 <= - Q4 and 722; when case - 30 - (3) > true and 2 + 35 : input f8[774] end; output 6 - 8180 . ""; output 3 end

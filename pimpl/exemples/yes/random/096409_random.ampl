@@ -1,0 +1,1 @@
+program C6 : main : when case - 1 / (6) or(8) / p3 and 19 or 8 - 72 >= 110 * not 46 and 88800 : let M = 458; do N(63 = 4) end case - (1) : input M[2980]; when case 2 : chillax end case 69 : chillax end end case - true < - 801 - 9 : output 0 . "?" end end

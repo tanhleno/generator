@@ -1,0 +1,1 @@
+program T1q0a : H : takes A : boolean returns boolean array bq, Z92aa, E9Uaa : boolean array; TTs : boolean array; L, X5 : integer; f5, I5 : boolean; output "\\"; do D6(- 2); do ou2a(55) end main : d7Ua, qx : integer; input f[W]; do A(- o9(1) rem 64); when case - (32) + 19 : pop; when case 34 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program I : r : takes D9 : integer returns nothing T : integer; Q, _ : integer; Rv80a, Z, ptj : boolean; while - 04000 and 8 or 1 : chillax end end main : Ys : boolean array; a, o, x, P, C8i : boolean; kh, n, Oz : boolean array; L360, jG : boolean array; dr : boolean array; output "j9a"; while o8 rem not 44 + false and 0 or 9 - 261 : chillax end end

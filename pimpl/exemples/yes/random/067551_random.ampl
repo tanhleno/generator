@@ -1,0 +1,1 @@
+program dt2a : main : do T(0 * G9Ca[8] or true and not 8 and 4 or true + 7 /= - V(2780) and l and 801 - 67 and 77000 - 78, - O(6) + not 1530, - true <= 632 - 52); when case - false / (9) and 5 : let i[22500] = array 0 end case not 2 - 8640 - 4 : chillax end end

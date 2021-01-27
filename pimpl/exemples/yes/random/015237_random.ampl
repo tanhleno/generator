@@ -1,0 +1,1 @@
+program W : M : takes J7H, z, B : integer array returns nothing chillax end main : H : integer; x, c, F8, z : integer array; pop Z70a(332) and(3) and 906; when case false >= true or 171 - 1 : output 1130 . 8 . ""; when case 6 : pop end; when case 87 : chillax end end otherwise : chillax end; pop end

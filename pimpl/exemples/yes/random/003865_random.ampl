@@ -1,0 +1,1 @@
+program W : Y : takes A1K, Y, b, g6, x : integer array returns nothing R, h : integer array; P : boolean; S, N12, w : integer; do x9(- true and 24 or 6 - 7690 > - 39 - 3); do W(- 183 - 75 <= 3200); input z end main : do p7(- not 1340 - not true >= - rQ1[91] * i and 02400 + 6, not(41) or true); output TM and 3170 > - 98 - 1; do _(not 12 - 100 - 2 <= 7); do P2(- 9 - 53) end

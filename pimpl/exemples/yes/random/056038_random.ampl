@@ -1,0 +1,1 @@
+program Q : J : takes E1J0 : integer array; Th : boolean array returns boolean let ugQ[false] = 25600 < 655; output "380a" . "" end main : gnK, kW, j2, x : boolean; B, u5caa, tb : integer; T : integer; cag : boolean; chillax end

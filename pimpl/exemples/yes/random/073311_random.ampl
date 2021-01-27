@@ -1,0 +1,1 @@
+program v : main : DG, lg : boolean; do P(true and wq(5) or not false /= (2) and true or false and 6, - false / not 9 - false and 56 /= - false and 06); output "W"; while - true and 640 + 3 : output 5 . ""; let P = 9 end; let Y = 555 = 3; output 6 . 9 . "31" end

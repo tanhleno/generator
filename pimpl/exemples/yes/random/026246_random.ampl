@@ -1,0 +1,1 @@
+program aBDaa : X6 : takes R, M : integer; U : boolean array returns boolean array when case - false + 92 : input m1; let es = 0 end case 6 - 54 : chillax end otherwise : chillax end end main : chillax end

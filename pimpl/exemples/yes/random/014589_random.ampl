@@ -1,0 +1,1 @@
+program D : b : takes t, P0ma, tT4 : integer array; t : integer returns integer array V : integer array; chillax end C : takes p4 : integer returns integer array L : boolean array; V3, Ju6 : integer array; p, s : boolean; chillax end main : Yv, fd6 : boolean; Y, ce, o1, p39, IV, jhv : boolean array; Kq : boolean array; pop end

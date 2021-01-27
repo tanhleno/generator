@@ -1,0 +1,1 @@
+program F : main : let e = array - not not s; do V4i(980 and false); when case - true and 052 : output "?"; pop; do hj9(3); pop end otherwise : input K9; pop; pop end; input vat; do Bo(26800 = 649) end

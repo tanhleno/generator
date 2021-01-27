@@ -1,0 +1,1 @@
+program Zw5aa : main : X, j2z, U : integer array; E : integer array; th2aa, cZS, B : integer; when case - (0) rem false : chillax end otherwise : input qdO[1]; input EZra; while 2 : chillax end end end

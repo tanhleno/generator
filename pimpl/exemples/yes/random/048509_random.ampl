@@ -1,0 +1,1 @@
+program S : V3 : takes k1 : boolean returns nothing Ir : boolean array; g : boolean; Y9, Y, k : boolean; vt : boolean; n : boolean; j : boolean; while - not 2 : chillax end end v : takes _9 : integer array returns nothing chillax end main : let K[- ZSda(0, 54) - (524) / false and 33 - not 8 and 7770] = true; let nc6 = - (31) - 328 - 119 /= - 854 end

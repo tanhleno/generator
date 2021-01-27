@@ -1,0 +1,1 @@
+program l8o0a : main : Y, I, IU, I1P : integer array; n : integer; gm, Y, U0, U6s, D : integer array; n : integer array; t, k4, KD : integer; y, Hmm0 : boolean; do K5(false > not not 5 - 98 and 31 or 3); let q3k0 = array true + B8 or 4 - 0; input l end

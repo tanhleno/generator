@@ -1,0 +1,1 @@
+program T : main : A, GC, r : boolean; l56 : integer; when case - 49400 or w[39500] * 3 + false - 777 : let e = 6860 end case - false / 403 and 0130 : when case 25 = 72200 : chillax end; while 23 : pop end end; let J[(331) rem true] = array not 8 end

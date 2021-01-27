@@ -1,0 +1,1 @@
+program d : x : takes Nh, J : boolean array returns nothing chillax end main : Y64, V : integer; H57, Iv8, xK, Kyla, Z : integer; let N = - C * (9); when case - 7 or not 2 : input r[5]; while 670 : chillax end end; pop - 72500 - 3 end

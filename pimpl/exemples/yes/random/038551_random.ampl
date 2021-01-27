@@ -1,0 +1,1 @@
+program z : p : takes o : boolean array; b, rd6 : boolean; f : integer; S, z, Q, G : boolean array; A1 : integer array returns nothing chillax end main : W, h, R8K : integer array; f22, D, Amoaa : boolean array; eY : integer; do cF((1) * W + 574 + false and 7) end

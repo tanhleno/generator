@@ -1,0 +1,1 @@
+program j : T1 : takes U, P7, zk : integer array; s, z : integer array; o4 : integer returns integer u, P2t : integer; chillax end main : FGj, lX, z8, G7 : integer array; pop q * 99 and 9 < - true or 41 - 1 end

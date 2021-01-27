@@ -1,0 +1,1 @@
+program a53 : J : takes w : integer; i : boolean returns boolean array i0 : boolean; chillax end f7m : takes w, IY : integer array; S : boolean array; t : integer; K0 : boolean returns nothing while 156 - 3 = 0 : input s end end main : Rf, RI : boolean; y7 : boolean; Y5, lW : boolean; t, W60a, r : integer; W670, s2 : boolean; W4 : boolean; chillax end

@@ -1,0 +1,1 @@
+program ltx0a : D4I : takes rZs : integer; xr : boolean returns nothing pop end O : takes gb, K : integer array returns integer e, p8 : boolean array; x4 : integer; when case - 8 : when case 9970 : chillax end end case 9 = 62500 : chillax end; pop; input s6Y[16]; output "3" end main : input N; output "" . - 1; input Y; input e5[- 94 - 4] end

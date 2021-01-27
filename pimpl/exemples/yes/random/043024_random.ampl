@@ -1,0 +1,1 @@
+program E58a : w : takes V1O0 : boolean array returns integer do Da(- 0 + 9200 - 84) end R : takes _v : integer returns nothing n : integer; chillax end main : F3 : boolean array; when case a[056] / false * (4) and 5 or not false / not 3 : chillax end case - true : while 642 : pop; pop end end case 695 < - 9 : pop 37; pop end case 23 < 0 : chillax end end

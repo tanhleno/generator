@@ -1,0 +1,1 @@
+program q71 : Y : takes fv, T7W0a, A, Dh, zfv : boolean; V : boolean; x3 : boolean array; q99, dXX0a : boolean array returns nothing p1l, FsRa, x, E : integer; L : integer array; output 8 - 1 . 410 = 5 . 193; do V(- 87 - 6 < 50, 0); let DS9 = 4 end main : P : integer array; output "\\%" end

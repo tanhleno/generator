@@ -1,0 +1,1 @@
+program D : F42 : takes svj0, nu, uD : integer array returns integer array V6B : boolean; g : integer; Ra, p, b : integer; input e end M6baa : takes k51, D, H, nGia, m7 : integer array returns nothing output "" . "" . "" . "\t" end main : O0 : boolean array; RK : boolean; chillax end

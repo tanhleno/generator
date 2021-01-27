@@ -1,0 +1,1 @@
+program B : main : KIr : boolean array; h, e, B0 : boolean; when case - true + (675) rem false and 43 : chillax end case - T(424) rem not 301 >= - false : output "" end case - not 9590 and 5 or 55 - 8 : while 4 : chillax end; pop; let Iy_0a = 2660; pop end case - 85 - 379 < 3 : do l(1) end; let q = array - false end

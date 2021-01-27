@@ -1,0 +1,1 @@
+program S : y4ma : takes bO7aa : boolean array returns integer array l : boolean; Z2N0a : integer array; Gy8, p : integer; while false >= 8 : chillax end; let z[- 2] = array 9 - 7; while 66 = 9110 : chillax end end main : input W8[- n(93, 0) rem false or true / H and 7 - 7 and 6] end

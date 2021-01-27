@@ -1,0 +1,1 @@
+program Q : x : takes i, P, j7 : integer array returns nothing F, D, K, w, R : boolean array; u8 : boolean array; let k[- true and 2 or 6] = - 2 - 938; pop 56 end hl1 : takes jO, C : boolean; nH, i : integer array returns nothing QU, g : integer array; U, c : integer; t9H0a : boolean; Stj0a : boolean; chillax end main : pop H(8360) / (9) <= false and 941; input E end

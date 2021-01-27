@@ -1,0 +1,1 @@
+program z : main : when case - (0) / false rem(908) : let F8j0[- 9] = array 7 - 2030 end case - 624 * not 8 + false or 0 : while 295 : chillax end; while 2 : chillax end end case 8 and 99500 - 19 : let d5 = 6; output ""; output "/>"; pop end; do M(true and 668 or 6 and 2 - 6400 - 64); output - 812 - 8 . 3 end

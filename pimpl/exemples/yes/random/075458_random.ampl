@@ -1,0 +1,1 @@
+program c : main : i2, xv8 : boolean array; let DR = 54 >= - (6) and 29; while not false * 7 and 5 : output ""; while 7 : chillax end; input M; input l end; output - 6 = 57800; while 6 : when case 5 : chillax end end end

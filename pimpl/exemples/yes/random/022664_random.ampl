@@ -1,0 +1,1 @@
+program P95aa : L0 : takes o, W : boolean array returns nothing let oXz0 = array - not 247 end _g3 : takes E, S, q75aa, A : boolean; mj4a : integer array returns nothing b700, C : integer array; f : boolean array; Ze9, j6 : boolean; chillax end main : input bA[- not false / 896 rem false or true - not 43600 + 59] end

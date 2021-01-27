@@ -1,0 +1,1 @@
+program g : i3 : takes gA3, PR60a : integer array returns nothing chillax end yu : takes K, M, g : boolean returns boolean array chillax end main : W, T : integer array; uQ : integer; pop(8270) and(92) or Xzfa - 1 end

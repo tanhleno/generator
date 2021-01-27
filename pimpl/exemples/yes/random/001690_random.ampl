@@ -1,0 +1,1 @@
+program e : C : takes _, tn7, w, vr90a, pO, D : integer; Hg : integer; N9 : boolean; lw : integer; n : integer; nQs0a : integer returns boolean do u5((9) - 6 - 4170) end main : GC9, r, X4, Sb8aa, b : boolean; input u9[- true or false]; do Y(- j + ww >= - false and 84) end

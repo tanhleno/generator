@@ -1,0 +1,1 @@
+program NQea : main : w, l : boolean array; when case - true * ZgM * (3) and 9 - true /= true and 1 and 2 : input E3[73700] end case - not(260) : chillax end otherwise : do dg40(4, 4); pop 02; output ""; while 81 : chillax end end; do Q(false / not 5 and 42 = - (9) and 3 + 37) end

@@ -1,0 +1,1 @@
+program GJi : t : takes T, n, z : boolean array; Ng : boolean; nLhaa, pw, A, y4b, LL6 : integer array; lh : integer array; o, v5m, F : integer array; Ki_a : boolean returns integer array Z, e : boolean; Vh, U : integer array; _2 : integer; input B13a end main : let t = Q and false and 0 + h end

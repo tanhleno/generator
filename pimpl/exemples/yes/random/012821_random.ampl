@@ -1,0 +1,1 @@
+program L : j95 : takes V4I, wW, j3J : integer; I00, c : boolean; L : boolean array returns nothing chillax end g : takes Iw, n0raa, L : integer array returns boolean array chillax end main : while y(570, 772) : input U end end

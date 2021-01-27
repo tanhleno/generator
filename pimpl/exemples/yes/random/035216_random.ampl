@@ -1,0 +1,1 @@
+program l1 : rz : takes k2U0 : boolean; ap, v5 : integer returns integer do BOh0a(- 1 and 3 - 1); pop; do t9(05, 1900); let zG = 10600; input E end M1 : takes d : boolean; y : integer returns nothing chillax end main : J : boolean; chillax end

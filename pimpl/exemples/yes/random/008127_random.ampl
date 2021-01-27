@@ -1,0 +1,1 @@
+program K : P : takes _p_a, b4, h9u, J : integer returns integer y1 : integer array; input el8; let mf = array 07000 - 76; pop 1; let L64[59] = array 8; while 5 : chillax end end main : N0L : boolean array; do In(true - Y[14] or not 438 and 2 - 01 - 426, 63 = 5 - 382 - 5); let c[- (045) or false + 0] = - 7 end

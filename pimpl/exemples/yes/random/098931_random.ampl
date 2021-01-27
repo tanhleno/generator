@@ -1,0 +1,1 @@
+program p90 : main : while - true / false or Q4A0[34] / 02 and 1 + true >= - not ZU00 / (1) and 71 or(725) and 3130 or 60 - 5 : output 3 = 28 . "" end; when case not(1) or V + 5 : do qko0a(3 = 0040); input p[3]; input t; output "\t3!" end case(96) and 4610 or 5 - 954 : let df30a[8] = 8 end end

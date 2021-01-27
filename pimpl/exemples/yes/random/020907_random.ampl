@@ -1,0 +1,1 @@
+program GZ : P1 : takes Ew0, j : boolean array returns boolean array i : boolean; while - false : chillax end; while - 48 > 46 : output "8"; do D2(723); pop end; output 84 . "" . "" end z : takes _2, z : boolean; E, H, h_ : integer returns boolean array chillax end h : takes E, s, l14 : boolean returns boolean pop end main : pop end

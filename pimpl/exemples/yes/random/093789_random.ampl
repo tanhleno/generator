@@ -1,0 +1,1 @@
+program z : main : pop - (97) / pz and 5; when case - WW2aa / true and 61200 or not 2 and 451 = not 3 and 19 - 9 - 626 : do q(974); when case 9 : pop end otherwise : chillax end; input d8K; output ""; pop end case - (5) >= 48 : input j; input Wf; let u = 6 end; do d4(- not 672 <= 37, - 6 - 7 > 1) end

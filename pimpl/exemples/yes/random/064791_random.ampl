@@ -1,0 +1,1 @@
+program n4o : Ub : takes V : integer returns nothing G : boolean array; chillax end main : pop 64 - (3) or 9; pop; input b[(0) and 4 - 88 - 6]; when case 0 : chillax end case 55500 = 7 : chillax end end

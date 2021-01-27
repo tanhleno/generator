@@ -1,0 +1,1 @@
+program H5 : main : pop A1(64); when case - false - false and 51 < - false : chillax end; pop; input s01a[- 93]; when case 29 : input f; pop end; do HXk(9); output "4S"; while 852 : chillax end; pop end

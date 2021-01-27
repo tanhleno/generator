@@ -1,0 +1,1 @@
+program f : r : takes n : integer returns nothing B93 : boolean; let V7 = - 0 - 1 <= 6 end AZ : takes T, p, L : boolean; hy : boolean; W : integer array returns integer while 30500 - 6 = 06 : chillax end end i3Naa : takes _ : integer; JaDaa : boolean; zT1aa, F : integer returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program N : m8S : takes Iz4aa : boolean array; N : integer array returns nothing when case - U3s and 75700 - 9 = 96900 : chillax end case - 984 > 0 : while 43 : chillax end end; let b = array 0; pop 14; let Av = array 2 end main : chillax end

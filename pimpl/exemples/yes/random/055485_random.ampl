@@ -1,0 +1,1 @@
+program O : q : takes N : integer array; V : boolean; G, C4, D : boolean; Mr2 : boolean returns boolean chillax end main : pop true + 94 + 19000 < - (47) and 18; output "G\\0" . 2; pop - 278 - 1 = 2 end

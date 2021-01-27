@@ -1,0 +1,1 @@
+program Z1 : O4 : takes B8Raa : integer; E : integer array; V7 : integer; X : boolean; Ut, BS2 : integer array; U2_, U, ns : boolean array returns boolean array U : integer array; do _62(- not 5 + 93 < 47 - 1) end main : l, b : boolean array; input i[- not 06300]; do a(- false / (46) - true + 8, - 9 and 2 - 7880 < 1 - 3, - 1 = 821, 2) end

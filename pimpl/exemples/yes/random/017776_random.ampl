@@ -1,0 +1,1 @@
+program s : J : takes H, N : boolean; XN : boolean array; ei, e0 : integer array; z : integer returns nothing q, L : integer; input p; when case 21 - 80500 < 547 : while 5 : chillax end; input J end case 2 : pop end case 74 : pop end case 1 : chillax end; pop end main : P, s120a : integer array; chillax end

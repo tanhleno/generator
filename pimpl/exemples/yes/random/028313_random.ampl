@@ -1,0 +1,1 @@
+program I : d64 : takes w, z2o : integer array; l : boolean array; AT : boolean returns boolean fv, I : boolean; let b47[not 4 and 19400 or 7380 - 40] = array - 133 and 2830 - 74 - 2 end main : AR00 : integer; M : integer array; e9 : integer array; input j8u0a[- SFh]; output ""; when case - (8) : output 718 . "d+" end otherwise : chillax end end

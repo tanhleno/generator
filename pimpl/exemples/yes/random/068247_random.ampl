@@ -1,0 +1,1 @@
+program a : main : f0, x9, Pria, a0, a, l, K49 : integer array; s : integer; let i7 = array - false * true; when case false - true > - (353) and 2 : while 09800 = 715 : chillax end end case - true or 98 - 5 >= - 3 - 9820 : chillax end otherwise : while 7 : pop end; when case 7 : chillax end; let y = 8 end; do S6kaa(- true or 8 < 5, 1980 - 7 <= 5, 2) end

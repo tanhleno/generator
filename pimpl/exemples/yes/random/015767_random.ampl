@@ -1,0 +1,1 @@
+program E0W : Rq7 : takes U, LU5, X : integer returns boolean chillax end F : takes P, c4r : integer; M47a, Y9 : integer; a, O51, C7, d : boolean; e : integer array returns nothing chillax end main : chillax end

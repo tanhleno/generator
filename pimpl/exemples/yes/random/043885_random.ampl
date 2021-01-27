@@ -1,0 +1,1 @@
+program a1Ra : P : takes f : boolean array returns nothing do U7M(D and 91) end _A : takes o : integer; G : integer; cTN, Nx : boolean; fu : integer returns nothing pv : boolean; when case 2 /= 915 : chillax end otherwise : pop; pop end; pop end main : chillax end

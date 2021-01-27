@@ -1,0 +1,1 @@
+program vN : main : while - true - (3) rem false or true or 83 - 4 >= not not 9 or not 23 and 7 - 5 : input T; while 8 = 9 : pop end; output "" . ""; pop end; input U[- not(859) and true and 963] end

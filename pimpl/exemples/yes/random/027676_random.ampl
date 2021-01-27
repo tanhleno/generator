@@ -1,0 +1,1 @@
+program Uj : N8 : takes f, n : integer array; X, S : boolean array; O7 : boolean returns boolean Q8 : integer array; chillax end oXs0a : takes K : boolean array; Ho4 : integer array; Q, c, Lu : boolean returns boolean array chillax end main : when case not(58) or not(548) or not 65 and 8440 - 06 : let z[- 8 - 33100] = array 817 end end

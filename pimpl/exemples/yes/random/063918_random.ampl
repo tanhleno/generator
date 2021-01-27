@@ -1,0 +1,1 @@
+program ZA2 : u : takes W32aa : integer returns nothing chillax end main : u, E4, oc : integer array; s : boolean array; qV : boolean; while - not(779) + (8) rem not 1 + not 2800 and 67 : input VA end; pop - m; input D[s or 8 - 8]; output "-F0"; do H(2 = 04) end

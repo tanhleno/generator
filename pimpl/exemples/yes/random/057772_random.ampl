@@ -1,0 +1,1 @@
+program O : c : takes W : integer array returns boolean array Z, c : integer; G, d : integer array; V8 : boolean; wm, u : boolean; u2P : boolean; while - 7 and 2 - 5 >= 4 : chillax end end c : takes v : integer array; Z : integer returns nothing chillax end main : y : integer; chillax end

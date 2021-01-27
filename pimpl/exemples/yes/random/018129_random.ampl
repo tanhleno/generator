@@ -1,0 +1,1 @@
+program u5 : H7 : takes o, a13 : boolean; a : integer; b1R0a, x : boolean returns nothing D, Q : boolean; Yi, hr, W : boolean; chillax end main : f6 : boolean; rf : boolean array; do TP2a(R4 + (72) - true and 4 or 08, iH[6] + f <= - 61 and 19 + 0440); do TySa(- (9) rem true >= - U73a and 8) end

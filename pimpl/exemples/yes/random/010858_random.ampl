@@ -1,0 +1,1 @@
+program K4O : Q : takes XZ, I, zy : boolean array returns integer array _ : integer; O, z9h, g : integer array; chillax end main : F : boolean; X, j5U, T, g : integer array; when case - s2x(83, 67) and true and not 6 and 1 - true and false and 01 - (7) and 42 < false rem not 29 and 5 : input o86[6]; do R(36 = 685); let dC = 2; do s5(7); output "" end end

@@ -1,0 +1,1 @@
+program z7 : n7y : takes v : integer returns boolean array chillax end h : takes y0, eE, g, e : boolean array returns nothing l : boolean array; a87, Q : boolean; d, R : boolean; input xXe[42]; when case 1250 = 5 : while 5 : chillax end end case 55 : pop end otherwise : pop end end main : b00a : integer; chillax end

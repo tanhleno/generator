@@ -1,0 +1,1 @@
+program h3G0a : main : i3, b, O2, Z, q : boolean array; S, cD, N : integer array; Q, hL, X6 : boolean array; do mz6(- (02) rem(3), - true * A0f and 554 >= true and 6 + 82, W >= 64, 6 < 6); when case not false + b9ma : chillax end end

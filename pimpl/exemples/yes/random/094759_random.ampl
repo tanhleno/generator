@@ -1,0 +1,1 @@
+program e : main : pop; when case 0 - 17700 and 171 - 25 >= - a and 1 or 6 - 38 : output "" . "" . "9" end case(8) and 741 or 9 - 8 > 89 : chillax end case - 5 - 6 : input U end; when case uR5 and 1 - 284 : chillax end; while 2 : chillax end end

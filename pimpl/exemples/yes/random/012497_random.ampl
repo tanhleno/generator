@@ -1,0 +1,1 @@
+program D : DMVaa : takes Z, u18aa, cN40 : boolean returns nothing when case not 5 - 5 : chillax end case - 962 < 60 : let F = 4 end otherwise : chillax end end main : n25 : boolean array; a : boolean; chillax end

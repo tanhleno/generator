@@ -1,0 +1,1 @@
+program L : main : V64a, g : integer; output true + true . not 568 and 27600 - 246 . "" . "" . "" . "{B"; when case true : output "\n=0" end; let Na[- false and 435 or 6 - 7] = - 1 < 3; output "" . "" . 03300 . "" end

@@ -1,0 +1,1 @@
+program g : d : takes v23, t1h0 : integer; V, K : integer array; E : boolean returns nothing C, q : boolean array; c, t220, L, G6 : integer; hiL0, iwZa : boolean array; e, r3D0a : boolean; pop; input x end main : chillax end

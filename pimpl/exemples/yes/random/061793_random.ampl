@@ -1,0 +1,1 @@
+program XX5 : y6 : takes zA : integer returns boolean array do b0(- not 041 - 97400 <= 4 - 01, - 9 /= 7); when case - 02 - 52 : chillax end case 9 = 0 : chillax end case 296 : chillax end case 896 : chillax end otherwise : chillax end end main : while - false / 8 + false * true and 16 : chillax end end

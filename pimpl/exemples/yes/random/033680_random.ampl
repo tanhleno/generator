@@ -1,0 +1,1 @@
+program t : j : takes pP : boolean; S6, TT, g, X : integer array returns integer gp70, w, N : integer; chillax end F : takes SK : integer; u : boolean array returns boolean do w(- 4 - 2 >= 254) end main : pop - not not 7 - not 65 and 100 or 8 - 9 end

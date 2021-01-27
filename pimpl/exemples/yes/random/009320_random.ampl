@@ -1,0 +1,1 @@
+program U : a : takes LQ, m5, x2k0 : boolean; MBl0 : integer array; D : boolean array; X : boolean array returns nothing do J((3) and 1 + 3, - 200 - 50, 4); do pr(- 6) end main : input uG[- 4790 * not(49) or false * (5) or false]; do h(- 1 * (20100), - not 4 and 4 or 6 - 9 <= 99 - 383, - 163 <= 48); do q(l - 70 >= - 88 - 939, - 590 >= 84, 6 = 8); while 5 = 5 : chillax end end

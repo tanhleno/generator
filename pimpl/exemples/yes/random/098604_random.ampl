@@ -1,0 +1,1 @@
+program F : main : while - not not 77 rem not Y < P - t8 and 61 : when case 0 - 9 /= 1 : chillax end case 2 : while 9 : chillax end; pop end case 3 : pop end otherwise : input Bq6; pop end; when case 51 = 9 : chillax end case 86 : pop end end; while - false - (4) and 24 <= false : pop 03; while 5 : pop end end; input EGj[- (6) - 4]; let N = array - 52 end

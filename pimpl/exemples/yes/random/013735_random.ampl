@@ -1,0 +1,1 @@
+program B : a5 : takes f13, w7, K20aa : integer array; M, JA, alSa, m52 : integer returns integer KY, X_ : boolean; pop - 2 end M3k0 : takes u7, d0i, x4, Hd9aa, r150, B08aa : boolean returns boolean array B6i : boolean; let X7U0a = array 055 - 531 end main : while - false / (2) rem false + (57) = - true + T6 + 46 - 4 : chillax end end

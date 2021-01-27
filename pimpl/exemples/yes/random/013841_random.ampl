@@ -1,0 +1,1 @@
+program Cw3 : U : takes _, f1, G8g : integer array; S3, o, G : integer array returns boolean array pop 0 = 43 end Uv1 : takes aw, z, vc : integer; Wp : integer array returns nothing LV : integer array; do gvU0a(- 81 - 4); when case 26 : output "\\\t"; pop end case 4970 : pop end otherwise : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program r : c : takes R : integer array; eb, o : boolean returns nothing l : boolean; n1Q, V34aa, jq1a : boolean; when case - 5 and 466 + 741 >= - 39 : chillax end case 7390 - 6 : do E(7) end case 392 = 5 : input s end case 9040 : pop end otherwise : chillax end end main : output "" . "" . - 1 . 5 end

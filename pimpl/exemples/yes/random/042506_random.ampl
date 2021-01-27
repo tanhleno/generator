@@ -1,0 +1,1 @@
+program p : NX5aa : takes y : boolean array returns integer array do o(- Q + 0 <= - 17, 2) end Mz30 : takes U8, OY7, zg, r : integer array; f : boolean returns nothing aw : integer; Cpl0a : boolean array; chillax end main : chillax end

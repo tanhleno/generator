@@ -1,0 +1,1 @@
+program f : main : P, a : integer; when case - 44 : let h[05] = 53 = 5; do VM(3); while 0120 : pop end end case - glkaa(87600) rem j9e0a and 1 : chillax end otherwise : chillax end; do m8(- 8 + (5), true - 7 > - 258, - 1 /= 49) end

@@ -1,0 +1,1 @@
+program ny : e : takes GlS : integer array returns nothing r : boolean array; output 3 - 737 . 59000 = 559 . 3; when case - 4470 - 83 : chillax end otherwise : do P(6); pop end; input C end main : output n6(80) - not 93000 . - false . - 7 - 52; let L = - false - 03 - 12900 end

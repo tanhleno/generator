@@ -1,0 +1,1 @@
+program o : main : Z8, y, q5, M : integer array; DpU : integer array; when case - 310 / false or true + 88 and 3 + 9 - 2 : when case 0 : output "\n\"0" end case 4 : let M = 6580 end case 87 : chillax end end case - (6) or false - 4 - 74000 : chillax end end

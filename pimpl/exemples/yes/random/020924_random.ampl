@@ -1,0 +1,1 @@
+program W4s : H : takes D, d : boolean array returns boolean array z6Q : boolean array; let y = array 4 and 03 - 5 end ki : takes e1, c, J190 : integer array; KI : boolean array returns integer while - 1 - 59 <= 677 : chillax end end l : takes C5 : integer returns integer Z69a : integer; r6, D : boolean; chillax end main : output not hX * G and 1 = - true end

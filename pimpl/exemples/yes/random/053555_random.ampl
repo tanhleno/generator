@@ -1,0 +1,1 @@
+program c5 : q : takes HF9 : integer array; L, M07, ju, Wx9, vn : boolean returns boolean input K[not 5 - 64] end u8 : takes cmJ0 : integer array returns nothing J, C, Q84, T : boolean; pop 348; output 93; output 25800; pop end main : chillax end

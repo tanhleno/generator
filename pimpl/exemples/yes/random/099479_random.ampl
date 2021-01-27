@@ -1,0 +1,1 @@
+program L : main : while not false rem(05) + false * b1 and 0 + true /= (52) / not 3 and 32 or not 28 and 4 + 8 : chillax end; while - not Y : chillax end; do N1(- 0 and 1 + 6 - 23600 >= - 6, - 876); input wye0a end

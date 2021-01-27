@@ -1,0 +1,1 @@
+program oQ : main : do r61(not 9 * not false rem true and 6, - 4 or not 0390 + 6 - 7 >= - not 58, false <= - 21); input tn9aa; when case - g and 3 + 12 - 2 : chillax end otherwise : when case 0 : chillax end; pop; pop end end

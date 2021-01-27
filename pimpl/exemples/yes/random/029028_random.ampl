@@ -1,0 +1,1 @@
+program j : I7 : takes cuE0, mO50a : integer array; g : integer array returns nothing T : integer; do OP(true + 7 - 67600 = - 6); while 9 - 11 : while 3 : chillax end end; output "" . "" . ""; let j = array 6; input i end main : chillax end

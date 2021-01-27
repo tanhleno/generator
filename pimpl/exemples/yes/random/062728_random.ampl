@@ -1,0 +1,1 @@
+program yvw : E : takes IW0 : integer returns integer array chillax end X : takes Q : boolean array returns nothing chillax end main : pop; when case 6 / not 1 : input b[0] end case not 1 : let l[8] = 6 end case - 25 = 5520 : chillax end otherwise : chillax end; do EG(false and 545 - 5 - 7 /= 5 - 112, 50 /= 4) end

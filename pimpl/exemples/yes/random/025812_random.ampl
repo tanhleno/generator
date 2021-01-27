@@ -1,0 +1,1 @@
+program q2R : t : takes P, Q : integer; kq, P : integer array; E : boolean array; m0, by : boolean array; M, A6T, y, j7 : boolean array returns nothing pop end main : while V21aa(2, 7) - 488 >= - not not 0 : let y[- 535] = array - 3 - 6 end; do R820a(03) end

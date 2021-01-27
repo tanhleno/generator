@@ -1,0 +1,1 @@
+program F : Q82aa : takes k : integer; V, b, j : integer array returns nothing chillax end A : takes w : integer array; t : integer array; Db, z, z1, B : boolean; D : integer array; h : integer array; x : boolean; T0 : boolean; x : boolean returns boolean pop 9; when case 9 = 01900 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program L1 : u : takes U, sb : boolean array returns nothing chillax end RJ : takes vf70a, q, U, G, _C, X, G3 : integer array; P, x, x, K : integer array; p, l38a, M : integer; F, R, oZ, nJ : boolean; n : integer; s6, wMV0 : boolean; E6 : boolean; _9 : boolean returns nothing pop end main : output ""; let dx60a = O and 9 + 2 < 19 end

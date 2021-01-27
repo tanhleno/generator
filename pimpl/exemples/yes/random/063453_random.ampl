@@ -1,0 +1,1 @@
+program A070 : v : takes Al4 : integer returns integer l9 : boolean array; L, s : boolean; when case(7) + 4 - 00 >= 79 - 5 : chillax end; output 904 end main : n, G_ : boolean array; while - false rem(398) : chillax end end

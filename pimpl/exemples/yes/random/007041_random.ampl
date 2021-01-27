@@ -1,0 +1,1 @@
+program i : Po4 : takes i, R, n, I : integer array; z, f : integer; G9 : integer array; p3P : integer returns boolean array input wTe[true]; output 94200; pop 1; do ai(3, 437); do hN70a(8); pop end main : chillax end

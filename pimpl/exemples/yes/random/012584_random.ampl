@@ -1,0 +1,1 @@
+program g3M0a : A6 : takes iw, jb, pz : integer; E7, O1, p, B, R : integer array; q : boolean array returns boolean array chillax end main : when case - 3 rem 5 or not true and 61 and 3 + true and 0 = - false rem qon : when case 9 - 09 : when case 95700 : chillax end end otherwise : chillax end end case ZKBaa[57500] * H and 138 /= - (91) + 5 : pop end otherwise : chillax end end

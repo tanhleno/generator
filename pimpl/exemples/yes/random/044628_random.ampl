@@ -1,0 +1,1 @@
+program r : t27 : takes B : boolean array returns nothing H94aa : boolean array; B7Ga : integer array; W : boolean; input A[- false + 8910 - 2940]; do yJ(3 > 02100); let a7[3] = 4; input z[76300] end m3 : takes T, K7 : integer returns nothing U, h2 : integer; input a end main : pop; pop(6100) and 05 - 4 - 778 end

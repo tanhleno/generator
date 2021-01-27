@@ -1,0 +1,1 @@
+program G : juk : takes C : boolean; C, i : integer; Fw : boolean array returns nothing Y, t : integer array; do G((1) + 6 >= 16000 - 8); while 70 : let i = 49 end end main : a : integer; u, NlZ0, f1 : boolean array; s740a, nP : integer array; xqr : boolean array; chillax end

@@ -1,0 +1,1 @@
+program qG20a : m : takes w : boolean; aZq0a, m : integer array; wrZ, Z600a : boolean array returns nothing g, R, p, m : integer; chillax end main : j, d : integer array; n, lo, U37, jF : integer array; pop; pop - false and 4 end

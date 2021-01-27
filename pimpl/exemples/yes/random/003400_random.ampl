@@ -1,0 +1,1 @@
+program Fs1 : Y0 : takes nFJ, _M, V, I, T : integer array; G, J, U, z59a : boolean array returns nothing chillax end Ik4 : takes u, h : integer; o, SsJ0a : boolean returns nothing when case 3040 - 2 = 71 : chillax end end main : chillax end

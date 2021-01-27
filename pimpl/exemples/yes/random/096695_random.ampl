@@ -1,0 +1,1 @@
+program U6 : main : when case - true rem V /= g6(5) + G7M : while - 205 : output "0" end; pop; when case 447 : pop end; output ""; when case 8 : chillax end end case true rem 8 and 06 - V < - not 5 and 81 - 0 - 88 : chillax end otherwise : let i1 = array 2; pop; when case 0 : chillax end; let c = 10 end end

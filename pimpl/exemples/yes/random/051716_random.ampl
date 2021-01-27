@@ -1,0 +1,1 @@
+program V : c : takes I : integer; K6 : boolean array; LQM, mM : integer returns integer pop; let X[48] = 8 = 1; pop 09; input r[895] end Z2 : takes Oo, fY : boolean array returns nothing let Q[- 4] = 04 end d : takes Ucx0a : boolean; Hl, P4, U : boolean array; i : integer returns nothing when case 302 : chillax end; output 4 . "" end main : let U = array 5; pop end

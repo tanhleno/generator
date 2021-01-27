@@ -1,0 +1,1 @@
+program A : H : takes b13, b, s, F : integer returns nothing c1h : boolean array; Rq : boolean; chillax end f : takes V78, UK9, f, z : boolean array returns integer array chillax end main : V, z, v : integer array; y, V : integer; when case - 37 and 0 + 65 /= false * X : chillax end otherwise : chillax end; input n1[05900 / not 76 or 5 or 391 - 1] end

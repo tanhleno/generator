@@ -1,0 +1,1 @@
+program l : c : takes Z : integer array; l, e : integer array returns nothing U : integer array; J6Y : boolean; do R34(false and 59, - 8 - 3 > 6, 0, 7); output 8 end E : takes v, E1 : boolean; s0 : boolean returns nothing A, _t, I : integer array; uUKa : integer; chillax end main : while - true : while 5 - 12 : chillax end end end

@@ -1,0 +1,1 @@
+program n0 : W : takes R, g, Q4 : integer returns nothing C2j, g8D, y, r, x : integer; G_ : boolean array; input Jt20a[6 and 6] end T : takes s : boolean array returns nothing Z8, wc0a, f : boolean array; D1, D : integer; do Djc(- 1 /= 6, 4 = 4); while 9020 : chillax end end main : chillax end

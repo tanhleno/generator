@@ -1,0 +1,1 @@
+program jq5 : c : takes Y, IH, V, V23aa : boolean; Y9, w : boolean; w : integer; b, M, z, g : boolean array; _vp, tE : boolean array returns boolean array let u[097 and 32800 - 163 - 1] = 256 > 0; when case 26 - 77700 : chillax end otherwise : chillax end; input C6; pop 47 end main : pq, jY00, i, TBZ : integer; chillax end

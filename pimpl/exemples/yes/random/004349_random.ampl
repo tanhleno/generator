@@ -1,0 +1,1 @@
+program P9wa : gJ3 : takes q, j, b, D : boolean; p, O : boolean array returns boolean or5, ojF : integer array; chillax end Sy : takes N, b08, K1, y : boolean returns nothing do T(- 4100 - 561 <= 46600, 49, 4, 84) end bU : takes E : boolean returns boolean pop 90; pop 5 end main : pop end

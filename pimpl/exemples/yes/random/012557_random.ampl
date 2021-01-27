@@ -1,0 +1,1 @@
+program K9 : G : takes b8, P, Y040 : integer; _q, i3va, J, Q9q0, Y, i80 : integer returns nothing chillax end main : when case - true + y[78] = - 9 and I and 8 : do J(- 86 - 9, 57, 0, 261) end case h1(0) and false or L - 2 : let V[7310] = array 79; when case 02 : pop end case 56 : chillax end; pop end; do Bsraa(- not(2)); pop 4 - 6850 < 6 end

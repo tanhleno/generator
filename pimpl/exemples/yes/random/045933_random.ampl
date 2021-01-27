@@ -1,0 +1,1 @@
+program B25aa : Bqw : takes q : boolean returns boolean chillax end F : takes D6 : boolean array; e : boolean; O, K : integer array; T10, t : integer array returns nothing Z8 : integer array; chillax end main : M, K, M, P2 : boolean array; lX1 : boolean array; chillax end

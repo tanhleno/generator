@@ -1,0 +1,1 @@
+program V : I60aa : takes e4, N9 : integer returns nothing Z, H, X : integer array; chillax end main : input Rm[true]; while 562 > - not 86 and 7 - 7 : chillax end; when case - false - 3 - 9 <= - 3 - 695 : do P(46) end otherwise : when case 4 : chillax end; do kY(7); pop end end

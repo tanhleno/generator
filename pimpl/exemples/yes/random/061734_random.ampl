@@ -1,0 +1,1 @@
+program n56aa : an40a : takes W7F : integer returns boolean array chillax end m8 : takes gE : integer array returns boolean array input n; pop 694 end e : takes c : integer array; F : boolean array returns integer array output 6 . 0; output 2; while 5 : chillax end end main : chillax end

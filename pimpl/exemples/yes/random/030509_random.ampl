@@ -1,0 +1,1 @@
+program s9 : d : takes fS, BxM0 : integer array returns nothing o, N, a, n : integer array; when case false : chillax end end main : output - (5) + not 082; do O(- not 32, - true and 26); pop - 310 - 7 end

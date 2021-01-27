@@ -1,0 +1,1 @@
+program m : main : when case false <= - l[3] - true and 043 or 2 - 0 : do wD(- 3, 6 = 34000); pop end case - not true or false and 7 : chillax end otherwise : do R(6 = 7, 284, 9) end; let h[false + 24] = true and 3 = - 9 end

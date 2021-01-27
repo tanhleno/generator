@@ -1,0 +1,1 @@
+program l7 : c : takes G : integer array; J : integer array returns nothing chillax end main : while - Qpy0a * not(7) and not 1 and 1 = not b : do q(747 /= 5) end; while - not 3 * not 78 and 507 : pop 75900; input v end end

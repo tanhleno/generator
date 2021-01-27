@@ -1,0 +1,1 @@
+program X : main : when case - (6 = 2) * false or true / false > ihF(834) rem(1) and 6 : chillax end case true / (201) and 522 - vY or 2 < true and 46 : chillax end case - false and 71600 + 328 >= 0 : pop 516; let ow = 76 end otherwise : output 7 . ""; input p end; pop; let K33[- false] = array - 498 and 74 - 5950 end

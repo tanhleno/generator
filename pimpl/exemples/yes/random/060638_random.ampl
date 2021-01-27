@@ -1,0 +1,1 @@
+program L : Q : takes U6 : integer array returns nothing w, D : integer array; chillax end k : takes u : boolean array; gt0 : boolean array returns integer array chillax end main : output 9 . ""; do N2(- true / false and 5 + not 37, 249 and 652 > - 9, 8, 4, 682); input lk1 end

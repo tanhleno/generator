@@ -1,0 +1,1 @@
+program q : YZf : takes k, P2 : boolean array returns nothing T, u, S : boolean; chillax end main : IZ, b30a, O, t, b46a, PK, i9 : boolean array; aF0aa : boolean; L, l : boolean array; output "\tw"; when case - Eh(09) * 9 and 3 or not 2 and 97200 : chillax end end

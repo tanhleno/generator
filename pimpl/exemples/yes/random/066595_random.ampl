@@ -1,0 +1,1 @@
+program pX : main : do E(- 6 * true rem not 249 and 641 + false + (31) > GE8aa[9] - false + 61 - 5, (6) or true or 2 = - O and 1250 or 1); pop - false + 67 < 2 - 88; while - false + 8380 : pop; pop; output "m"; pop end end

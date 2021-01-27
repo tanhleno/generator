@@ -1,0 +1,1 @@
+program k : M : takes WGB, W : integer array returns integer let d1[- M and 6300] = 98; while - 68 - 6 : chillax end; pop end main : when case not B41[00900] : chillax end otherwise : chillax end; pop; output 618; input xja[0] end

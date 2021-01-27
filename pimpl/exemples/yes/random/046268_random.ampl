@@ -1,0 +1,1 @@
+program SGla : lL5 : takes E : boolean returns boolean m : integer; while c1Oa and 4790 - 88 : pop 3 end; pop end h : takes f0 : boolean returns nothing n : boolean; chillax end main : output - (8) * not 4 = - false and 50 + 22 . "'\"!"; do a(not true); pop - 8 < 69; let o[2 - 1] = 92 end

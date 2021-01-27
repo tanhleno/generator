@@ -1,0 +1,1 @@
+program cz : p9 : takes O, e5, Y : boolean array returns boolean pF6a : boolean array; output - 07 < 437 . 0 = 1 end main : A8, d : boolean; G, u1, W : integer; l, Ps0aa, uV, Jqla : boolean array; chillax end

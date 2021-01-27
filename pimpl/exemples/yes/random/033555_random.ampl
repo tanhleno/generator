@@ -1,0 +1,1 @@
+program n : T2u : takes oM : boolean; _, g5, E4, vV : boolean array returns nothing Q, Q, T : integer; f : integer; input O3[- not 208 and 00 - 6020 - 6] end yr : takes g : boolean array returns nothing output "" . "7" end main : chillax end

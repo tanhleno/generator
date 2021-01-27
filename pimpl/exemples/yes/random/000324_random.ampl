@@ -1,0 +1,1 @@
+program he1 : j4 : takes r8, eE, E87a, S, z, tz, a, m : integer; F, o : integer; Tt : boolean; N, S, g, P, u : boolean returns nothing y, am4aa : boolean; chillax end main : M, m : boolean; N : integer; TfFa : integer array; s6ma, X79 : integer; c, O, X75 : boolean array; A, h : boolean; pop end

@@ -1,0 +1,1 @@
+program ALd0 : qK : takes q : integer array; p : integer array returns nothing output ""; input g79[- 9 - 4]; when case 125 = 2 : chillax end end k : takes q1Xa, n : boolean returns boolean array input Vs50 end main : I210a : integer; fI : boolean; do lZ(2 <= - false - false and 40, false, - true + 6 - 0, - 7 - 98, 7, 8) end

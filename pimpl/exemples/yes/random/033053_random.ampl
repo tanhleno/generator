@@ -1,0 +1,1 @@
+program u4_0 : q : takes d, r8 : integer returns nothing output - 333 - 7; when case - 0 >= 6 : when case 8 : chillax end end otherwise : chillax end end z : takes J : boolean returns nothing chillax end main : while - (3 = 517) - false : chillax end; while true >= (5) and 92500 : while 572 : chillax end end end

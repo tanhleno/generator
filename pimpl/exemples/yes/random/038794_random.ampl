@@ -1,0 +1,1 @@
+program O62 : y : takes xb : boolean array; k07, C : boolean array returns nothing U, R5, i72, VC2aa, HZH0a : integer; Qz, l, e : boolean; Nku : integer; J, Tdza : boolean; chillax end main : i : boolean array; O : boolean array; F, h1 : boolean; chillax end

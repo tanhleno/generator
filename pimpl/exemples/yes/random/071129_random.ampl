@@ -1,0 +1,1 @@
+program N050 : main : g, E, f : boolean; mWJa : integer array; output "" . - (4) + 6 - 9 >= 154 - 8 . "\t\n" . "\t" . 97; while not true rem r and 2 - (447) and 3 - 731 : when case 6 : chillax end otherwise : pop end; input q end end

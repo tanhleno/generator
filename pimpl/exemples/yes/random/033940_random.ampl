@@ -1,0 +1,1 @@
+program S : g : takes Mb : boolean; M, h, z : boolean returns nothing chillax end A : takes C1 : integer returns boolean array do y(- 7920); pop end ih : takes yr : integer returns integer array chillax end H : takes t, e, qx : boolean returns nothing d2, P38 : boolean; Y : boolean; input o0; do a(56) end main : do p(not true) end

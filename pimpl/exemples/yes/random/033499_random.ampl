@@ -1,0 +1,1 @@
+program a : ZJ : takes p : boolean; c, H, GdG0, b : boolean array; L32aa, dt : boolean array; yYlaa : integer array; FHKa, g, C : boolean array returns integer array chillax end main : e : boolean; when case - 5 rem false - V67(88) - E7Raa + 9 - 1 : output "" . "" end end

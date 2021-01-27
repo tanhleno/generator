@@ -1,0 +1,1 @@
+program o : E2 : takes I6, uBb, Z : integer array; f, m : boolean; Gj, K70, WB2, F6 : boolean array; sR, L7 : boolean array; Y, e6A : boolean returns boolean array input Z; while 3 - 798 = 31 : chillax end end main : GC : boolean; LY7aa : integer array; chillax end

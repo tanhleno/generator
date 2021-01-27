@@ -1,0 +1,1 @@
+program _ : Y2 : takes gz5a, V8 : boolean; b : boolean returns boolean array h : integer; chillax end D5 : takes K, Mvo0, w, C2 : boolean array returns integer when case - 011 - 23 : output "23" end case 5 = 17 : pop; pop end end B : takes V4A0, Tr8, aH10, x : integer array returns boolean b, N7 : integer; chillax end main : chillax end

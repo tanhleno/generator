@@ -1,0 +1,1 @@
+program b5 : X : takes w, f : integer array; S, IdAaa, R, YGW0a, m2, fo : integer array returns boolean array s3, W0w0, C580a, u, Y1 : integer array; t : integer array; chillax end main : bRqaa : boolean array; pop; let wONaa[180 / (35)] = array true and 38 and 36 or 8 - 58 end

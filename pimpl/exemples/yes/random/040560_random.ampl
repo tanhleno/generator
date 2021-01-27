@@ -1,0 +1,1 @@
+program F9Z : MU7 : takes f : boolean array; o : integer; uI, z : boolean returns boolean array chillax end L : takes H : boolean array returns integer array chillax end main : when case - true - 2 : chillax end case true or(492) and 1 or 9 - 0 <= false : chillax end end

@@ -1,0 +1,1 @@
+program v270a : v5 : takes z, g59, v, q, b720 : boolean returns nothing chillax end main : z : boolean; t71aa, L6, p, N, Z : integer array; k, K, xGv0a : integer array; R : boolean array; while - (2) or 5 + false and 141 + 2 - 7 : chillax end; while true and false and 2 - true < - false : chillax end end

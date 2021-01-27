@@ -1,0 +1,1 @@
+program TM : J : takes J5H0a, F3Z : boolean array; f : integer array; e, iO : boolean array; k9ua : boolean array; Q2 : boolean; P : integer array; M, G : boolean; LR : boolean returns boolean array input b; pop end main : H, w, he : integer; when case - O8[997] rem not not 49 and not 0 and 64100 : chillax end end

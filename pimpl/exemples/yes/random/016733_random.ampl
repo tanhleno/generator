@@ -1,0 +1,1 @@
+program l : jM4 : takes Q3R0a, fM : boolean; txH, IZ, FY, M, I : integer; W : integer; b : boolean returns nothing H44, T : boolean array; let X5i = array(29) and 4 end Y : takes E : boolean array; Q, Q, w23, I, S42, uJ3 : boolean; f75aa : integer returns nothing K : boolean; x2 : boolean array; a6n : boolean; chillax end main : let A_9a = array 0 / not 788 and not 34 or 126 end

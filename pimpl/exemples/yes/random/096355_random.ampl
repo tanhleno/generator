@@ -1,0 +1,1 @@
+program Z : main : when case - 49 * not(9) / H or not 9 and 8 or false - 62 - 79 = - true : chillax end case(684) rem true - (7) : chillax end case - 1 : when case 060 : chillax end case 33100 : chillax end end case - 9 : chillax end case 147 : when case 711 : chillax end end case 9 : chillax end end

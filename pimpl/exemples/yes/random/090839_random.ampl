@@ -1,0 +1,1 @@
+program lUO : main : let c[- false rem 71200 - y] = array - not 19; while true - V + 1 > not 812 and 4 : when case 47 = 9 : output "\""; pop end case 19 : chillax end end; let z = - 72 - 26 > 1260; while - 92 - 7 : output "{9"; output ""; pop end end

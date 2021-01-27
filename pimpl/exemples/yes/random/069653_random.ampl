@@ -1,0 +1,1 @@
+program d : main : T, gi, v, N6J : boolean; when case(2 = 707) / true < - (4) * 0 and 0 : chillax end case not(26700) rem 3 : chillax end case - P or 45 /= 3 - 7 : while 4 : pop end end; output - 8 and 8 - 204 = 200 . "!"; pop - 33 - 31100 = 6 end

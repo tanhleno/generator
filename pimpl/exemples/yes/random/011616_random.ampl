@@ -1,0 +1,1 @@
+program k9Ua : VE : takes nyP, Mb, RX4aa : boolean returns boolean array t : boolean array; pop - 22100; do N1(27) end main : pop - not S56 - true and 927 - 7 <= - u and 502; do g(- 013 or true + 8 - 1, - u4j or 5) end

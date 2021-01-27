@@ -1,0 +1,1 @@
+program nE9 : main : when case - true / (6) / 4 + (9) /= - false / 62 - not 9 and 44 : do H0(- 7520 - 82700 /= 5070); while 5 : chillax end; input HOYa; do O(47); output "0%!a"; pop end; let Rq[- (2) - true and 9 + 8] = array - 2; pop end

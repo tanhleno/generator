@@ -1,0 +1,1 @@
+program Rt : p : takes _, X, F7P0a : boolean returns nothing CxX, d : integer array; Ut90a : integer; chillax end S : takes Q, F : boolean array; L, v : boolean returns boolean p : integer array; when case - 77 - 9 = 32 : when case 0 : chillax end; output "\\"; pop end end main : input E[6 rem 2 + 68 or(7) and 75700] end

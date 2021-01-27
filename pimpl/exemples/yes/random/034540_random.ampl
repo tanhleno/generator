@@ -1,0 +1,1 @@
+program OvD : O : takes P : boolean; pS5, aG4 : boolean array returns integer u70a, u : boolean array; W : integer; chillax end Z : takes E : boolean returns integer input Q9 end g : takes b, o : boolean array; xt6 : integer array; b3 : boolean returns integer array chillax end main : pop(79) / true - _ and 30; pop - not 90100 <= - 0; output "Id" end

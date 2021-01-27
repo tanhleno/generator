@@ -1,0 +1,1 @@
+program JT : main : DK, j : integer; input H[- i(6280) or not not 23]; do E68a(not not 2140 rem(66600) - not 7 + 54400 - 6, - (6) or 98 - 0 < - 6 - 6); while - 3 and 12 or 529 - 01 : chillax end; while - 59 - 5190 = 841 : output "^["; output "#" end; do oe(2630); let hr = array 896 end

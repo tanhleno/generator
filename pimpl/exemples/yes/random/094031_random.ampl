@@ -1,0 +1,1 @@
+program O : main : pop - not(77) - true - 7 - 6910; pop - (5) - 5 - 44 = - 27 - 869; when case - true - 3 = 7 - 9 : while 6 : pop end; when case 7640 : chillax end; while 69 : chillax end end case - 1 /= 2 : let k = 45; while 9 : chillax end; pop end; input x8; while 26 = 738 : when case 7 : chillax end end end

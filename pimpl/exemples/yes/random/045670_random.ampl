@@ -1,0 +1,1 @@
+program sa : x0G : takes G : boolean returns boolean array sa : boolean; input A[false or 4 - 75] end k5x0a : takes _lm, y, s7 : integer returns nothing P, w, O5, M : integer; chillax end FI : takes N, DjYa, e, V3, B9, G : boolean; j : integer array returns nothing chillax end main : E, A, FVKa, N2 : integer; Hnra : boolean; _K, h880a, x5, y, U : integer array; input k end

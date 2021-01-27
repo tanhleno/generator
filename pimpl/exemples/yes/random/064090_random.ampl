@@ -1,0 +1,1 @@
+program m2Qa : WX : takes Zf : integer returns nothing do I_(- false and 3, - 856 - 15300, 0 = 414); let z[832] = array - 05 - 7 end I0 : takes a4 : integer array; E10aa, J, l : boolean returns boolean array chillax end A0 : takes f, v01, L2, W24a, t, U7 : boolean returns integer array Q : integer array; c : boolean; chillax end main : input cB end

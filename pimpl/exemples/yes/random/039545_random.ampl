@@ -1,0 +1,1 @@
+program C7q : u : takes U : boolean array; Y : boolean; Y, W20, K3 : integer array returns integer chillax end S1g : takes xe : integer array returns nothing let E7r = array 7 - 2; do h(9150) end main : when case false * Qn(7) * not 93 and 344 /= - true : chillax end otherwise : output 0; while 7 : chillax end end end

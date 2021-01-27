@@ -1,0 +1,1 @@
+program C : H5 : takes M, k : boolean; Z : boolean returns boolean U1d0 : integer array; z4, Y : integer; zA, a, O : integer array; H : boolean; when case - not 682 and 1 - 06400 <= - 9 : pop 2; do bH(7); input _; pop end; when case - 53800 - 2170 : do L(7) end case 7 : chillax end end main : chillax end

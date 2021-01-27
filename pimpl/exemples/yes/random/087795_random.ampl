@@ -1,0 +1,1 @@
+program x : main : input zi; do j(Ug2[85] >= - i and 7); when case - kKQ and 60400 : when case 374 : pop end otherwise : chillax end; let q = 3; while 14 : chillax end end case 45600 : input I; output ""; pop end case 67600 : while 1 : chillax end end case 6460 : chillax end otherwise : chillax end end

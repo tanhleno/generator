@@ -1,0 +1,1 @@
+program O : Cf0 : takes u : integer array; xa9, k : boolean array returns boolean q, a9O, n, mv : boolean; chillax end zKs : takes t, Q : integer array; F : boolean array returns boolean let CEl0a = array - 731 end main : input F[(6 = 8) * R * true] end

@@ -1,0 +1,1 @@
+program u5 : i : takes Y, G, M, t1da : integer array returns boolean H : boolean; yA, r : boolean; s : integer array; output "6" end T400a : takes Q : boolean array; v, Fw : integer returns integer Xt3aa : integer; chillax end main : chillax end

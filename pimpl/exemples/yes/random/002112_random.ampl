@@ -1,0 +1,1 @@
+program WP : e : takes y72, j, ZV, v51, xL : boolean; d, N, YM, A06, bu : integer returns nothing l : integer array; pop; pop; input G[469] end t : takes PT, Qf, b : boolean array returns boolean array chillax end main : s : integer array; input l7B[- 296 * 2 / not 4 or true and false and 3 - (0)] end

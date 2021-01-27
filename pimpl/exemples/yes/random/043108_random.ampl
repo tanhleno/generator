@@ -1,0 +1,1 @@
+program yR : L3 : takes X : boolean array returns integer eG6, xV : boolean; chillax end main : while 3 * (6) and not 83 and 50 - true rem 5 and 11 : chillax end; output - (46300) and 1 . "" . "Z" . "" end

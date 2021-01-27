@@ -1,0 +1,1 @@
+program Ik3aa : qtv : takes c : boolean returns integer Cea : integer array; H, B2, F4, CGX : boolean; D, V7, rz4 : boolean array; chillax end main : f0, lc, q, KG, u, F6da, F : boolean array; z : boolean array; when case - false or true : while 8 - 04 /= 70 : chillax end; output 1 end end

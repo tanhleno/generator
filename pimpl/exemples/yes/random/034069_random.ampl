@@ -1,0 +1,1 @@
+program E : u7 : takes iV : boolean; f, SBp, V : integer array; azLa, Y : integer array returns nothing when case - 0 >= - 7120 - 60 : chillax end case 5 : chillax end; while - 75 = 9300 : let N = 139 end; pop; input B3; while 33 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program X : U : takes U : boolean; Q : boolean array returns integer MP : integer array; y, iVv0a, p0 : boolean; I, o : boolean array; T2N, f : boolean; pop - 994 - 71 /= 1 end main : U : integer array; N, f : integer; at, h : boolean; output ""; input H4 end

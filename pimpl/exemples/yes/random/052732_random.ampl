@@ -1,0 +1,1 @@
+program js1a : Felaa : takes N7 : integer; w640a : integer array; J, km : integer returns nothing S : boolean; AP : boolean; eb4, i, n45a : integer array; c : boolean; q84aa : boolean; Y : boolean; pop 58 >= 9 end main : h7, H02, r : boolean; output ";"; input H[- 8 * false and 1 + (2) or 5] end

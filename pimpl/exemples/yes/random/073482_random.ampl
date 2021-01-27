@@ -1,0 +1,1 @@
+program C : main : G, M : boolean; H, Vt, hE : integer; when case(4 = 4) : while - 60500 >= 55 : chillax end; output 2; while 7450 : pop end end otherwise : chillax end; output - (6) and 5870 - 0 end

@@ -1,0 +1,1 @@
+program mC : LZ : takes K, y73, K, e, c, V8 : boolean array returns boolean K, ThB : boolean array; s, NI, w4 : boolean array; do YT8aa(- y8 and 0 = 1); do U(- 99 < 0, 4 = 37); let G[0] = array 37; pop 51 end main : W, w : integer array; chillax end

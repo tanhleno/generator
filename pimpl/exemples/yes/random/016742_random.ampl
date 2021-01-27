@@ -1,0 +1,1 @@
+program Kij : x : takes Y7, f4 : boolean; _KI, De, e, l, s63 : integer array; Lx10 : boolean array; tl : boolean; C : boolean array returns nothing do v80(- false and 5 - 2) end A89 : takes pi : boolean array returns nothing chillax end main : p, A : integer array; chillax end

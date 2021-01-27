@@ -1,0 +1,1 @@
+program E : main : when case - not true and wP(941) rem false and 284 + false * not 30600 - (0) : chillax end otherwise : do H(9 = 3); while 4 : chillax end end; input e[- not false * true]; when case false or 91 : while 6300 : chillax end end; let BJ[6 - 48] = 654 = 56; while 0510 : output "3e!"; pop end; pop 21; let _7 = 96 end

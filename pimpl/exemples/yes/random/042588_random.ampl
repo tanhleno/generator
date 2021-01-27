@@ -1,0 +1,1 @@
+program Oas : W3 : takes ywy0a : boolean array returns integer array Z, T3, u6 : integer array; z : integer; chillax end m : takes R : integer array returns nothing vwS, x : boolean; x : boolean array; input d end t : takes Sq, fac, r : integer returns nothing input R; let n2d0a = array 68; do Dp(3); pop end main : do e(not true) end

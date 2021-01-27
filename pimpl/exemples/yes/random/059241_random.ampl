@@ -1,0 +1,1 @@
+program od30a : Ed : takes Z : integer array returns integer w, R, n4, u92 : integer; chillax end S : takes g : boolean array returns nothing C, c : integer; chillax end B : takes vP : integer returns nothing while 0 : chillax end end main : chillax end

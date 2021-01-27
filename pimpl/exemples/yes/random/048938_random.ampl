@@ -1,0 +1,1 @@
+program l : Tj : takes Hd00a : boolean returns nothing let _60a[- (6) and 17] = 91 > 0; pop 4 end main : do m(- 4 <= - not D or not 0 and 204, - true * not 7620 and 6270 + (62) + 384 - 6, - not 2 and 09500 > 012, 6 - 1 <= 3); output "g," . 3 < 71 . "&j" . "" . 1 . "" end

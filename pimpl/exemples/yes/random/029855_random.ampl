@@ -1,0 +1,1 @@
+program f2 : R : takes w, T : integer array returns integer array A : integer array; V, M42 : boolean; input O[false or 5 - 7]; do eY(889 - 08 <= 7, 4 = 4); pop; pop 2990 end bS : takes S, l5, s, K : integer returns boolean array pop; pop end main : x, s : integer array; chillax end

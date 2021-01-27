@@ -1,0 +1,1 @@
+program q : v : takes H6 : integer array returns boolean array let D2 = - 68 = 3 end ib : takes z7 : boolean; G, hI, F19, xHN0 : integer array; l1 : integer array returns integer array chillax end main : output - false or(029) <= (070) . - a4 and 0 end

@@ -1,0 +1,1 @@
+program E5z0a : main : when case true / U2Y >= not false - false and 9 : input CUc[73] end case R1Va or not 0 and 1 : chillax end; when case - true * true and 32 or 69 and 38 : chillax end case not 9 and 3 : chillax end; while 49 : pop 4; while 7 : chillax end; let o = 8; pop end; do d(13 - 94, 03 = 9, 31) end

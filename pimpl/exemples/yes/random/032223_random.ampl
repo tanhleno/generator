@@ -1,0 +1,1 @@
+program sx : j : takes y, c : integer returns nothing chillax end z4G : takes E, _f8aa : boolean; rY : integer array returns boolean array pop end main : pa00 : integer array; R, W, n, pA2aa : boolean array; s, wz, T, U : integer; output "" . 411 . "" end

@@ -1,0 +1,1 @@
+program X5 : e : takes k, iA1a : integer array; Gm9, A, r9, x, GZ, E, z : integer array; d8ha : integer array returns integer while - false and 8 : chillax end end main : g : boolean array; lW : integer array; chillax end

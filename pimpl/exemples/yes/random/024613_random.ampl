@@ -1,0 +1,1 @@
+program n9f0 : F : takes c, E : boolean returns nothing y2 : integer array; a, m, S, j_5aa : integer; D, s7D, m : boolean array; z, v : boolean; E : boolean; chillax end main : when case 4 or not(4720) /= - false : input g end; when case - (0) and 6 and 275 > - false - 3 : let b9 = array 5; let V[0140] = array 504; do p(77); while 10 : chillax end end otherwise : chillax end end

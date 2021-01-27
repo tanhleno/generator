@@ -1,0 +1,1 @@
+program V : r86a : takes e : integer array returns nothing c, M, O, Hm, B52 : boolean; pop; pop 5 = 6; while 1 : when case 92 : chillax end; pop end end o : takes Rng, f, eL7 : integer; im, f, eP : boolean; bX : boolean returns integer input fk; when case 2 = 86 : chillax end end main : input _c8; while not false : chillax end end

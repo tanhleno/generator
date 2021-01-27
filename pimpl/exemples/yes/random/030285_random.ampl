@@ -1,0 +1,1 @@
+program kU : MO : takes y_0, Mi : integer array returns nothing chillax end mk : takes p : integer; j : boolean returns integer l, D, FU, v : integer; NX5, bd6 : integer array; output "" . 88 end main : chillax end

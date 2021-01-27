@@ -1,0 +1,1 @@
+program gx5 : N : takes AI, b7, Q, L : boolean array returns nothing while false - 2 - 3 : pop end end tr : takes g, u : boolean; A : boolean; B : boolean returns nothing output 53 = 2; do j(5, 4, 70100) end My : takes n4k : integer array; k : integer; I : integer returns integer chillax end main : chillax end

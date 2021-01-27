@@ -1,0 +1,1 @@
+program Fl : r : takes Q1 : integer array; S20aa : integer array returns integer let I4 = array(14); output "b" . 4; let c77 = 41 end d : takes sp10 : boolean returns integer array chillax end On : takes f4 : integer returns nothing chillax end main : when case not M(10) or(70) : chillax end otherwise : chillax end; when case 085 : input N0 end end

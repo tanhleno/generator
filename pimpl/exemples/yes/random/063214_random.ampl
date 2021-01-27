@@ -1,0 +1,1 @@
+program w : co10a : takes w : integer returns integer chillax end qr9a : takes W : boolean; c : integer array returns nothing R23 : boolean array; Gr, m, x33 : boolean; input ww6; let T = array 034; output "\"Q" . "" end main : z, I6, N : integer array; chillax end

@@ -1,0 +1,1 @@
+program M7 : d : takes U : boolean; J : integer array returns integer x, A : boolean array; chillax end Xp7aa : takes D, f, Y3, E, _2S0a : integer; Ud : boolean array; m, a : integer array returns nothing T : integer; output ""; pop; when case 4 : pop end case 55 : chillax end otherwise : chillax end; input mt0; pop end main : fl, ro, T, A : boolean; chillax end

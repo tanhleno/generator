@@ -1,0 +1,1 @@
+program mu : main : P, n : boolean; output "\n\t" . ""; let Y94 = array - false rem false and 54 or not 12 and 92800 + 4400 - 92; when case not 1 > - 65300 : chillax end case - 5 - 84 < 90 : chillax end case 8 = 37900 : chillax end otherwise : chillax end; while - 4 - 1 < 37 : input ekO end; do g(3 = 6, 2); pop 8 end

@@ -1,0 +1,1 @@
+program U56aa : main : R5, gktaa : integer; do wC(- (5) + 6 /= true, - not not 1 and Y and 76 - 49 + 969 - 48 /= - f and 9, - true and 7); when case - (3) and false : chillax end case - 588 and 3 < - 5 - 68500 : chillax end otherwise : chillax end; when case - false and 1 : pop end; while 5 >= 3 : chillax end end

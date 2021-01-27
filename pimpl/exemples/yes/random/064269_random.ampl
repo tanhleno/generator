@@ -1,0 +1,1 @@
+program Y8 : F : takes qs : integer returns nothing T9, s, S, H9 : integer array; s : boolean array; J, Zu, AW1aa : integer; chillax end K : takes Yh3, E : integer returns integer array d9 : integer array; input Q[- 5710]; while 1 = 89100 : chillax end; output "" . "^" end main : R, P : boolean; chillax end

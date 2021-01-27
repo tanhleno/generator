@@ -1,0 +1,1 @@
+program f8X : s : takes W2 : integer array returns nothing when case - (7560) and 65 - 6 - 1 : input m6[3]; input j9 end otherwise : chillax end end main : w92, M040, Mf : boolean array; Q : integer array; D, w5p0, B : integer; NL : boolean array; u05aa, us : integer array; chillax end

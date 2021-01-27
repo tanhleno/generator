@@ -1,0 +1,1 @@
+program eFF0 : mZ : takes l : boolean; g4, sxtaa, N : boolean array returns boolean _k : integer; tF0a, o, i0Paa, qZ8aa : boolean array; chillax end main : l : boolean; X : integer; fW : boolean; pop true and(8110) and 52 + true and 80800 - 98 - 76500 end

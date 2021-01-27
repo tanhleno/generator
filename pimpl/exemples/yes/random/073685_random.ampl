@@ -1,0 +1,1 @@
+program y : main : U, Y6 : boolean; G52, XB : integer array; o : boolean; uG : integer array; when case(39) and 1 / false < not not 0 + Y + 5 : chillax end case - false rem true and 6 or not 0 and 8 >= - T8 : pop 6 end case - not 2 and 3 or 422 > 9 - 61 : chillax end; let elW = array not(77) * (61400) end

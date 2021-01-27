@@ -1,0 +1,1 @@
+program h2 : jlT : takes J : integer array returns boolean F : integer; T : integer array; output 2 - 9 = 5; pop end w : takes t8 : integer array; D, c : integer array returns boolean array pop end main : c1, F7C, W1Z, wB8aa, C : integer; D : boolean; chillax end

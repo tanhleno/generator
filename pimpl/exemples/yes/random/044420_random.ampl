@@ -1,0 +1,1 @@
+program l_Xaa : j : takes V : boolean array returns nothing B : boolean; chillax end f : takes J : boolean returns integer output "9#aa" end Q7 : takes pd, a : integer; j : boolean array; S66, r, yP : integer array returns boolean array when case 6 = 2 : input iY6a; pop end; output "(7aa" . ""; while 6 : chillax end; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program a : main : Yk : boolean; while not J(39) - false + (88800) <= l[58] * false and 74 or k8 : pop 6 end; do h9C(- not not 1 * E2 < (5)); do jL(not 7, 42100 - 5, 00 = 6, 76); let r[9 - 70] = array - 46; while 0 = 1 : chillax end; do jO70(4, 79) end

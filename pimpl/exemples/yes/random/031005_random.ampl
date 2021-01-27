@@ -1,0 +1,1 @@
+program Lu : Zh : takes W, YT : integer array returns nothing let x = array true and 5 end B : takes D, B : boolean array; V, ob : integer; p3, j : integer array; Ku20a, g5, YT : integer array; X9, w, G04 : integer array returns nothing i_ : integer array; ck, LM : boolean; do q(- 4 = 2) end main : chillax end

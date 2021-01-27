@@ -1,0 +1,1 @@
+program Um00a : Y7Y : takes P, To : boolean; J : integer; k : boolean returns nothing chillax end GT3 : takes U : integer; MRc : integer returns nothing do H(93800 - 1) end main : n1, y : integer; chillax end

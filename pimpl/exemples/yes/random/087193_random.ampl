@@ -1,0 +1,1 @@
+program d0 : main : Ofn : integer array; let M[- 2250 * not a0 - not not 0 or false] = - not 71 / not 776 and 9 or 7910; while 8 + not 3 and 3 + 95700 - 17700 : pop; input R14[1840]; when case 6060 : chillax end; input r; pop end; output "6"; pop end

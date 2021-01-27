@@ -1,0 +1,1 @@
+program pS : f0 : takes t : boolean array; O700a : boolean array; k : integer array; ZP1aa : boolean array returns boolean chillax end main : while - true * pl(0) < false rem(27) and 2 : chillax end end

@@ -1,0 +1,1 @@
+program L : d : takes HH : boolean array returns nothing kS10a, K48a : integer; let z[E and 2 - 129] = array(73) + 75200 - 951 end main : while - true rem(49) and(1) + H rem false and 8 or(60) and 14 + 8 : chillax end; output z1 and 5 /= 9; pop - 89 < 7; pop 8; let da[69] = array 98; pop 2; input F; while 19 : chillax end; pop end

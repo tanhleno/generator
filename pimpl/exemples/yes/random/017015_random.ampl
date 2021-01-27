@@ -1,0 +1,1 @@
+program QZ : BbLa : takes X, p : boolean; b9, Kx, n0aa : boolean returns nothing TX : boolean array; Y, u : integer array; G : boolean array; e76 : boolean; chillax end main : m : boolean array; Ji3 : integer array; n7, GW1 : integer array; chillax end

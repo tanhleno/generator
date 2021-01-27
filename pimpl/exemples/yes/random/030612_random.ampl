@@ -1,0 +1,1 @@
+program u : Lu : takes Z7Ma, d : integer array returns nothing m, y : boolean array; chillax end TG1a : takes M, a0, ap : boolean array returns integer array nJ8, hYJ0a, ev : boolean array; A : boolean array; wF90a : boolean; qD : boolean; while - 8 = 0 : chillax end; while 30 : output "7"; pop end end main : do F(false and 46, false) end

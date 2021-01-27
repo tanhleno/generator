@@ -1,0 +1,1 @@
+program qH : m : takes Rm : integer array; A3, rX : integer array returns boolean array chillax end M2Za : takes ptq, m : boolean array returns integer array i : boolean; R : boolean array; c : boolean; when case 6 <= 1 : output "\"7"; do l(0) end case 5 : when case 56 : chillax end end case 782 : pop end; let B[4] = 12 end main : jH, a9q, P : integer; output "i9" end

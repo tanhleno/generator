@@ -1,0 +1,1 @@
+program I : main : X, t, eE_aa : boolean; d : integer array; do wR(58100, - M + Wx1aa /= - false + 519); when case - s and 6 or(2) and 4 or 41 : output 26; while 5 : chillax end end case BV + 97 = - 2 : input w5; when case 0 : chillax end end otherwise : when case 68 : chillax end case 632 : chillax end end end

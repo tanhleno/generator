@@ -1,0 +1,1 @@
+program I : dts0a : takes i, A9, b, m9, M, U9 : integer array returns integer _ : integer array; chillax end sq : takes d8maa : boolean array; Q : integer returns boolean array chillax end main : I1 : integer array; chillax end

@@ -1,0 +1,1 @@
+program P2 : main : do G8(- u - true = - not not 65 + W75 and 36, (7) and false or false + 1, false or 40 - 38400 > 7, 52); when case - r[769] : let L7[3] = 9; while 7 : chillax end; input b2E0a; output ""; pop end end

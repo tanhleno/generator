@@ -1,0 +1,1 @@
+program s : a : takes P8, y6, V4N, o5, fi60a : integer; DG, w13a : boolean returns nothing P : boolean array; M : boolean; yL : integer array; do f6(2 and 53700 /= - 4); do Z(383 - 5 <= 7160) end main : u1, B, Wjkaa : integer; do BX4(not xzN(2) * false / 04 and 51) end

@@ -1,0 +1,1 @@
+program d : ni : takes L1, mA1, Cy, V8H0, w, CF2 : integer; D2Iaa, D : integer array; v, E, w : integer returns integer array chillax end main : output "3" . "" . "@" . 5 = 430; do G(- true rem not 3220); let y[(68) and 3 or 63 - 332] = array true; let J = array - 72 - 13300 end

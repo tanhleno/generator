@@ -1,0 +1,1 @@
+program x : main : o : boolean; Di : integer; K1, ly : integer array; t, aP, i, zq : integer array; do v(- (8) rem not 1 / true and 2 or true <= - jEA, - true and 50 and 48 <= (7) and 68); let r[- true] = array - true / not 487 or 7 and 31; input x5[- not 4 and 73200]; when case - 5 - 8450 <= 5 : output ""; while 7 : chillax end; pop end; while 0 = 3 : let U = 64 end end

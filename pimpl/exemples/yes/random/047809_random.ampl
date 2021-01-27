@@ -1,0 +1,1 @@
+program j : Jx : takes i : boolean returns nothing do ok(- 5 or 6 - 84); output "" end Blq : takes T, a, yA80a : integer; z1U : boolean array; eIT, h7l : integer returns boolean array while - 58 - 8 <= 86 : chillax end; when case 39 : chillax end case 0850 : chillax end otherwise : pop end end main : U : integer; chillax end

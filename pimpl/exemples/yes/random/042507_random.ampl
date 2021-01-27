@@ -1,0 +1,1 @@
+program T : g : takes c : boolean array returns integer array do Md4a(- not 38, 0 - 5 /= 7, 3 = 93, 80); do X(- 7, 0); when case 3480 = 94 : chillax end case 3 : pop end end main : e : boolean; Q : integer array; while 92 or(787) / not 796 /= - l7F[8] or T and 668 - 96300 - 8290 : chillax end; output - true and 9 . 50 - 25 > 732 . "" end

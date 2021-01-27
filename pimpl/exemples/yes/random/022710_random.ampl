@@ -1,0 +1,1 @@
+program oMg : qv : takes E7O, N : boolean array returns nothing output 5 = 202 . 9000 = 73 . 43 end t : takes o, P26, Jh, n : integer array returns nothing chillax end main : Hc7 : integer array; e, a3, X3 : boolean; do _4o0(- (7 = 875) rem not true rem true = not not 0 + (2) or 9, - (6) or(2) and 2 - 82 - 4) end

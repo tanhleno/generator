@@ -1,0 +1,1 @@
+program r6q0 : Fp : takes N, a95 : boolean array; V4, I02 : boolean array; kY : boolean array; P4, l7, C2 : integer array returns nothing T_c, n, O : boolean array; chillax end main : tg7a, C, y, I, m0 : boolean; Uoc : boolean array; q, h610a : integer array; output "\n"; input gM90a[true + true and 59]; output - 9 <= 9 . 75 = 9 . 7 . "" . "!"; while 87 : chillax end end

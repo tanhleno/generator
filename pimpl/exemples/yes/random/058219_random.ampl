@@ -1,0 +1,1 @@
+program R : mS : takes D : integer array returns boolean H6, u8E, P8 : integer; y6 : boolean array; chillax end _ : takes k : boolean array returns boolean array w6 : integer; chillax end main : input q[true or true * false]; pop - F - 305 < 89400; input R; pop; let O = array 7 end

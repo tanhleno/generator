@@ -1,0 +1,1 @@
+program ouj0 : vJMa : takes DW8 : integer returns nothing chillax end Q09 : takes F3, f8 : boolean returns boolean array when case 53 : chillax end case 0 = 0 : let c = 3590 end case 74 : pop end otherwise : chillax end; let K = 1 end main : output false - true and 7800 >= true or 5 - 9 end

@@ -1,0 +1,1 @@
+program t : D : takes pa, P : boolean array; i, e : boolean array; RV : boolean; y : boolean returns nothing I : integer; B, L, c : boolean; chillax end A : takes P, J : integer returns nothing a8h0a, z : boolean array; when case 16 - 695 : input X end otherwise : chillax end; pop 3 end main : X : integer; w, T : boolean array; f, Mi30a : integer; chillax end

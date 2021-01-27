@@ -1,0 +1,1 @@
+program b : q : takes w, Q : integer array; Io : boolean array; K86, f : integer array returns integer ou : integer array; chillax end KgNa : takes L, V : boolean; n2I0a : integer array returns nothing Cne0a : boolean array; do q(- 3) end main : output Q(9) / DIq0a and 05800; when case - false : chillax end end

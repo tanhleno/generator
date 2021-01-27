@@ -1,0 +1,1 @@
+program H : f : takes iG : integer array; pd : boolean array returns boolean array F3X0a, eq90 : integer array; _, mJ30a, A, W : boolean; K, vp0 : integer array; input M5 end main : S, b : boolean array; pop; while not not 8 rem 7 and 574 or true and 87 < (0) - 5 : chillax end end

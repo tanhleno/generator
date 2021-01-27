@@ -1,0 +1,1 @@
+program N : Cu9 : takes cA, q1Za : boolean array returns nothing chillax end main : when case - false : chillax end case - true and 9 and 650 - not 35 < - not 2180 and 7 + 3 : while 16 : while 84 : chillax end; pop end; output "\t[\""; let u = 713; output "" end case not 4 and 8 + 4 - 0 <= - 0 : pop 96 end case 5 - 9 : chillax end otherwise : chillax end end

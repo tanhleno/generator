@@ -1,0 +1,1 @@
+program o : hQ : takes c, B00, q, KF0a, h : integer array; aG, f, ixo0a : boolean array returns boolean chillax end main : let k[- 2 + not f8r0a] = array q / not(1) or DU1aa(26800) or not 648 and 3 end

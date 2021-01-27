@@ -1,0 +1,1 @@
+program L : m : takes w : integer returns nothing M : boolean array; B : boolean; chillax end main : T : boolean; CV9a : boolean; while(4) and(4) rem(6) and 61 - 8 * not 13 and 6 : when case 7 - 5 < 36 : let A = 27; pop end case 1 = 4 : chillax end case 3 : chillax end otherwise : chillax end; do K(2 = 71); input y5[8]; output "" end end

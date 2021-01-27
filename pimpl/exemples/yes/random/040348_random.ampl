@@ -1,0 +1,1 @@
+program EQ : KR6aa : takes p32 : boolean array; BU : boolean returns integer N : boolean; l : integer array; Q : integer array; when case - false or 556 - 32 : chillax end case 64 /= 29 : while 2 : chillax end; while 8 : chillax end end case 31 = 56600 : chillax end case 2 : chillax end case 1 : chillax end otherwise : chillax end end main : chillax end

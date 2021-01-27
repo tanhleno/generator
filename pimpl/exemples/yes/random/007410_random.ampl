@@ -1,0 +1,1 @@
+program Q3S : D5W0 : takes I, _, k, k : integer array returns boolean array f : boolean; u9 : boolean array; Nu, o440a : integer array; let I3 = array - not 5830; pop 4 end q800 : takes m9, I, k1 : boolean array; ZG8a : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program c : ZA : takes l, O9n : integer array; e2U0a : integer array; N, H, O, W : integer returns nothing Dt, I : integer; X : boolean array; EQ : boolean array; ITr, Pzgaa : boolean; input X[true] end iU : takes J : integer array; Y : boolean array; g : integer; L : boolean returns nothing chillax end main : do Hzsa(false * not false) end

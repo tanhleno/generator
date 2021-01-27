@@ -1,0 +1,1 @@
+program z : m : takes GaB, o : boolean; y : integer array returns boolean chillax end y : takes Ti2aa, K, kWv : integer returns integer array vP, B, X : integer; Q20a : integer; Z11, OO0 : boolean; when case - 27300 - 0 : input E; do m7v(26) end case 5 : while 80 : chillax end; pop end otherwise : while 1 : chillax end end end main : chillax end

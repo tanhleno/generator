@@ -1,0 +1,1 @@
+program RaY0 : k : takes a1, N3 : integer array returns nothing chillax end main : T, K2 : integer; when case c[5] >= - No[80] and 9600 and 47900 : chillax end; when case QiO(24) and not 36 and 32 - f and 1 or 5040 : output 90 . "H00" . ""; let zOp = 1130 end; output - 3820 . 909 = 8; pop end

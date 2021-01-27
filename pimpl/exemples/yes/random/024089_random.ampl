@@ -1,0 +1,1 @@
+program Ua60 : ac : takes eg8aa, h : boolean returns nothing chillax end main : when case - not not not 51000 + j4 - (9) : input u[- 75] end case - (2) rem false : output "" end case - false : chillax end; pop; let T = 077; input V2O[- 5]; when case 413 : pop end case 8 : pop end case 57 : chillax end otherwise : pop end; let Z = array 61500 end

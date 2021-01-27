@@ -1,0 +1,1 @@
+program g : e : takes X, Fb : integer array returns nothing while - not 42 and 33 : chillax end; while 53 : output "3\""; input ok end end main : output - true * false and 1760 + not 94700 /= r or 1 - 57 end

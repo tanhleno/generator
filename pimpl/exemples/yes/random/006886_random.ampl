@@ -1,0 +1,1 @@
+program N8 : I : takes W, V14a, F, xe9 : integer array; boAaa, x1g, Q : boolean; u : boolean array returns nothing chillax end main : while - true + lc + 4 and 18 < - 95 and not 9 or 447 : chillax end end

@@ -1,0 +1,1 @@
+program q : main : yK40a, S, F : integer; j1 : integer array; when case - true = - false and true and 2 : chillax end case - true / (988) and 16 : let w[45100] = 1490; do B9p(5); do c(27900); let m = 369; pop end case - 40 : chillax end case - 5 : while 9 : chillax end end otherwise : chillax end end

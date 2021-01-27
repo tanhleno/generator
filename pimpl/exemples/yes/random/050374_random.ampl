@@ -1,0 +1,1 @@
+program y6 : K4 : takes s : integer; h, i4 : boolean; J49 : boolean array; n : boolean returns boolean qiQaa : boolean array; x9 : boolean; g, vho : boolean; output "7" end main : d, v, kx20a : boolean array; let Lty = array juRa or false or(71600) - 13100 end

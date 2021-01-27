@@ -1,0 +1,1 @@
+program Y : Wv : takes va0a, Ir, kusaa, F : boolean; n, J : boolean array; n9, F1k0 : integer returns nothing p, q, F, o : boolean; m, wt : integer array; u : integer; A39, d : boolean; do E(true, 0 /= 2); output 7; pop end n5 : takes M8 : boolean returns integer array do X(3 - 94); let Kz = array 72 end main : L : boolean; P, q : integer; chillax end

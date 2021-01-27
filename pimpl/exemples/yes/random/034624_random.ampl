@@ -1,0 +1,1 @@
+program LE7 : Qr8a : takes g : boolean; v07, X : boolean returns boolean chillax end xq : takes YM, y3 : boolean array; s : boolean array returns nothing o, C : integer array; chillax end main : l, l, zX, v, U : boolean; qX : boolean; pop; do VH1aa(false / false and 6, true, - 7) end

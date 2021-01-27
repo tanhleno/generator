@@ -1,0 +1,1 @@
+program Nmwa : X : takes U, YY, ZM : integer returns nothing C, L7, v, Asz0 : integer array; chillax end h : takes ja : integer array returns nothing output "" end main : C5, _, i : boolean; chillax end

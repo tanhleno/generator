@@ -1,0 +1,1 @@
+program w9 : Kp : takes f : boolean; u, sm4 : boolean; a, n1e0a, f : boolean returns nothing i : boolean array; chillax end main : Aq, P2 : boolean array; input W; output "3?0a" . - 7 - 3 /= 45 . "f" end

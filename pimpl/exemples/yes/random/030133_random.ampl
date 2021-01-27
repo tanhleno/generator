@@ -1,0 +1,1 @@
+program U : F : takes e, R : integer array returns integer output "h" . "n\\" end Dw : takes Sh9, y : boolean; M : integer array; R4, EPu0a, EF, PA : boolean returns nothing P, j, h, h : boolean; let i[- 7 - 6] = array - 020 - 67; pop end main : do e((4 = 770) / false rem 018 and 5, 54 + 678, - Ph and 3 or 1, - 03000, 2 = 4); input u[(9) - c] end

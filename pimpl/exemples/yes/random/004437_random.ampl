@@ -1,0 +1,1 @@
+program jD50a : z : takes o, U, z, _H10 : boolean; u, PAL : integer array returns nothing P, v : integer array; chillax end Tdp0a : takes Ay0a : boolean array; Ilda : integer returns nothing chillax end Ri : takes m : integer returns integer ai : boolean; chillax end main : input z0 end

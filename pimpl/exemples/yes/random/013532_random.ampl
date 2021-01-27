@@ -1,0 +1,1 @@
+program FYV : Xu : takes d5, nv, d : integer; k : integer array returns nothing input D; output 2 = 5 . "" . "85\"" end I : takes q : integer array; QV20a, k : integer array returns nothing O, Kv1, x94aa, g9 : integer; chillax end main : while - true + 99 : input q[- 7]; pop 6 end end

@@ -1,0 +1,1 @@
+program al : HE0 : takes K6, w9, L : boolean array; FG, M : integer returns integer array when case false - 50900 - 5 >= - 66 : pop end otherwise : when case 5 : chillax end; when case 6 : chillax end end end main : t, BzV : boolean array; A6, E4 : boolean array; chillax end

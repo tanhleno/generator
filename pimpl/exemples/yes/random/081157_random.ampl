@@ -1,0 +1,1 @@
+program L : main : r : boolean array; t, uZ8 : boolean; do T71(7 / T68, - (2), D0ua - 1 < - 97, - 82, 8); while false + 3 and 2400 > true and 52 : chillax end; while not 6 and 73 or 62 - 5 /= - 71 : output ""; when case 4 : chillax end; while 59 : chillax end end; while - 3 : chillax end end

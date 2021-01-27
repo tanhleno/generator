@@ -1,0 +1,1 @@
+program v : d : takes h03, URmaa, x36 : integer array; aD0, qej : boolean array; S : boolean returns boolean array o : integer array; o9da, NM : integer array; l, k : integer; chillax end main : output - 21900 /= - 98 and 1 end

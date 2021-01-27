@@ -1,0 +1,1 @@
+program G : T : takes u8 : boolean returns integer chillax end E7 : takes l7, rGza, E, DF, d : integer array returns nothing My : boolean; chillax end Ak9a : takes a8 : integer array; t, XK3a : boolean returns nothing let _[1] = array 646; do FMRaa(9, 4) end main : OW, W, q, P7, T9R, n, v : integer; input VF; pop 55 <= 67800; input hD end

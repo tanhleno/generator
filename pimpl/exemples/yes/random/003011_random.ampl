@@ -1,0 +1,1 @@
+program Y : M3 : takes s, t, m0, gc8, Q : boolean returns nothing do M(12200 and 0 /= - 7 - 1, - 41, 8, 1, 0) end p5 : takes u : boolean array; yj, A, E : boolean returns integer chillax end main : U, T5_0a, Z94aa, u, iU7aa : integer; T : boolean; while false and(0690) : chillax end end

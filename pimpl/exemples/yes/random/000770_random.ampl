@@ -1,0 +1,1 @@
+program ID3 : X : takes e, U, H8, o0, W4, z30a, C : boolean returns integer k, hq, w, u, q : integer; I5, C64aa, qo : integer array; chillax end R : takes s, C : integer; awf, p8q, w : integer; F9, Fii : integer array; l8r0, Ng1 : boolean array returns integer array chillax end main : RuI : boolean; V : integer array; chillax end

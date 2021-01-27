@@ -1,0 +1,1 @@
+program w520a : y9 : takes m, mt60 : integer array returns nothing let rBia[- not 1 and 4 + 5 - 4] = array false or 699 end E : takes M8p, G21 : integer; u : boolean returns integer O38a : boolean; chillax end main : Ll, fl0 : boolean array; while _t(0, 2) rem 475 + not(161) rem not 2 and 4 or true and 881 /= - not true * false : chillax end end

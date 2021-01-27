@@ -1,0 +1,1 @@
+program pB50a : G : takes f : boolean returns boolean array do O64((345) = 62 - 469, - 5 - 4 /= 0) end g : takes _v20a : boolean; U3, E9 : integer; aj20 : integer returns integer output ">\t" . "" end O : takes R5K0 : boolean array; c, J1W0a : boolean returns boolean array chillax end main : i : boolean; Zy : boolean array; chillax end

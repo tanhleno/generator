@@ -1,0 +1,1 @@
+program Y : t : takes G7 : integer array; y, W, X, k, wo : integer returns nothing g : integer array; do oo((69600) and 0 /= - 1 - 4, 31 = 162, 61) end main : when case(8) + (592) >= true : chillax end; input H00aa[false * IZ and 24600] end

@@ -1,0 +1,1 @@
+program x : t : takes A, iT, F, CYCa : integer returns integer array J : boolean array; chillax end TkF0 : takes d : integer returns nothing l17, E : integer array; chillax end main : D3 : boolean array; N : boolean array; C1 : integer array; do L(J /= - (8) * true + not 68 and 1); while(9340) - 4 /= false : when case 1 : chillax end case 99 : pop end otherwise : pop end end end

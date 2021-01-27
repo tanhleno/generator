@@ -1,0 +1,1 @@
+program P : I : takes Y, v, q200, n44 : integer array; B : integer array returns integer array C, z26a, Gb, sB : integer array; m : boolean; while not 77400 - 61 >= 3640 : output 0 . "\n"; input w end end main : let r79[eco[40] rem 3 rem E7] = - 1 / 32 end

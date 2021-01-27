@@ -1,0 +1,1 @@
+program A : main : when case true : chillax end otherwise : while 8 = 0 : let YS5 = 0; pop end; input UFB0a[653] end; do gE(- true >= not 8, true and 7 >= - 9 - 5420); let U = array - true and 71000 or 4 - 2 end

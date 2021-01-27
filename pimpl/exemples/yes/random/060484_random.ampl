@@ -1,0 +1,1 @@
+program aI : I1 : takes k9 : integer array returns nothing J, wesaa : boolean; a : boolean; Q : integer array; output - 257 < 7; let B = 19700 = 2 end L2F : takes i6, O9 : integer; MW, B : boolean; Z : boolean; j1p0a : boolean array returns boolean PP50 : integer; u : integer array; output 3 = 13 end main : chillax end

@@ -1,0 +1,1 @@
+program F : main : p0m0, d350, x : integer; I6s, pJ8a : integer array; input O; while - false / 48 and 0 >= - 75800 - 6 - 42 : pop 92; input I end; let c24[not 1 and 388 or 9 - 9] = 1; let Vd[0] = 021; pop; pop 1; output "" end

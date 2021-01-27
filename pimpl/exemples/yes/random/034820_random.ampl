@@ -1,0 +1,1 @@
+program O : R : takes L : boolean; Z7T0a, K : integer; o : boolean array; Z12, f12aa : boolean returns nothing J2, O1 : integer array; when case(29) and 8920 : chillax end case - 58200 - 5 <= 476 : chillax end otherwise : when case 59 : chillax end; pop; pop end end M : takes y : integer array returns integer vAt0, vl80, Z : boolean array; chillax end main : chillax end

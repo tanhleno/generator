@@ -1,0 +1,1 @@
+program d : iL : takes B : boolean; RI : integer array returns integer V : integer; s, p3, mA0, B2 : boolean; fm, J, Vs : boolean; j : boolean; F : boolean; while(7) - 24 >= - 040 - 82 : chillax end end main : chillax end

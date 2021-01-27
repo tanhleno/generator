@@ -1,0 +1,1 @@
+program Wi : Tcn0 : takes v66aa, W : boolean array returns integer o, W : boolean; y3, g2 : integer; w1Aaa : integer array; do t(- (7) and 85 < - 63000) end main : output 2 - false + 8 - 85 >= false or 7 - 6 end

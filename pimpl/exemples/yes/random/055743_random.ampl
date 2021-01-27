@@ -1,0 +1,1 @@
+program M3 : J : takes Lo3 : integer array; c : boolean array; jh, w, z, abh : integer returns nothing input q[true and 5]; let XjN[82 - 7] = 26 = 1; while 5 : chillax end end si : takes raR : boolean returns nothing output "1Ja" . 0; let I[8] = 6 end main : e02 : boolean; let F2[(3) or U(7)] = array not 1 / not true and not 62 and 2 end

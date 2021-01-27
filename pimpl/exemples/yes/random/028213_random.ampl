@@ -1,0 +1,1 @@
+program edt : m : takes Qu4a, a4 : integer array; R : boolean; HM9 : integer returns integer input D12a[7]; do Y(- 9 /= 86400) end Ci : takes t, D1Qa, W010a, HS, B660, z, VfG : integer returns nothing input YHv end w : takes f, RI : integer array returns nothing chillax end BlO : takes ji : boolean; N, N, bm : boolean array returns nothing chillax end main : chillax end

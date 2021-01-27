@@ -1,0 +1,1 @@
+program h : main : p5raa : integer array; I, U : integer; s, adf0a, A : boolean; s5B, PB6a : boolean; ye90a : boolean array; pop; do M(false rem false and 0 or true and 9); do ksU0(- 45 and 445, 0); pop; input jg1[6]; let K4 = array 5 end

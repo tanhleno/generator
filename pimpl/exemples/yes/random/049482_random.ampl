@@ -1,0 +1,1 @@
+program A : Rn : takes Q : integer; d, i5g, a, u, wpk : integer array returns nothing let mw = - 1 /= 5; do uA(6430 - 5 /= 88); do L6(33 = 1) end main : J4, G61, k3l : integer; B, OpT, b86 : integer array; y, Z, Rl, cU : boolean array; _ : boolean array; pop A[2] and Y and 9 - (78) and 1; do X(false, - true and 95 > 563) end

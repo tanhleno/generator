@@ -1,0 +1,1 @@
+program A3 : c : takes B, U : boolean array returns nothing Vp, c : boolean array; let A = - 90 /= 04400 end main : while false / not not 3520 > - Kf7[94] * true and 7060 + true - 8 - 2 : chillax end; pop - true and 1; output 2 <= 8 . "<" end

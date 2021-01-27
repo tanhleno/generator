@@ -1,0 +1,1 @@
+program V9Ga : b : takes K00aa, _, U8 : integer array; QF, y, r4, tfV : integer array; SJv0, JW80a, h, x33 : boolean array; w2waa : boolean array; m : boolean; U, B, KT10 : integer array returns nothing let N = 6 - 9 /= 02; while 9 - 17 : while 4 : chillax end end; pop 5; do Y(7, 7) end main : chillax end

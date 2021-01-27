@@ -1,0 +1,1 @@
+program BCJ0a : main : F : boolean array; CZqa : boolean; while false : input s; do sqP(3, 0) end; do RZ(- (0) and 81 and 0 + false and 1 or 00 - 2 > - not 2); let B = 6 - 8; when case - 0350 - 09600 >= 473 : when case 94 : chillax end end; output 7 end

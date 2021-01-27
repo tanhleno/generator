@@ -1,0 +1,1 @@
+program u : i : takes e9u : boolean returns integer chillax end f9 : takes A : boolean array returns boolean array y3Wa, P, n04aa, x58 : integer array; chillax end A : takes k : integer returns boolean Ob : integer; chillax end w : takes e7, W : integer array returns nothing y : boolean; pop; input IV00a; while 6 : chillax end; pop end main : pop; output - 1 and 0 = 57 . "" end

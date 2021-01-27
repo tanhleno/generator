@@ -1,0 +1,1 @@
+program M_ : C : takes OC30, A, BPKaa : integer array; QVs0a, I : boolean returns integer array X : integer; rt, M : boolean; Ub, W : integer array; chillax end main : while - false or 9 * sv and 3 + true - 07 - 174 : let OkT = array - 82 - 27 end end

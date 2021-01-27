@@ -1,0 +1,1 @@
+program Ge : k1 : takes N3 : boolean array returns integer Z35 : integer; vJ : boolean; P, K, Z : boolean; DI, O : boolean; z : boolean; l : boolean; chillax end main : let w = (30300) > - (1680) + 6 end

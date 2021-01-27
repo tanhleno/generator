@@ -1,0 +1,1 @@
+program fQ : p : takes S7 : boolean returns integer array kxL : boolean; cida : boolean array; fk9 : boolean array; pop 9680 end main : F_ : boolean array; Ta8 : boolean; t : boolean; NtN0 : integer array; when case - not true rem _[30] and(75) : chillax end otherwise : chillax end; output - (52); input sC end

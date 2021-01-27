@@ -1,0 +1,1 @@
+program y : H : takes zy : boolean returns boolean chillax end n : takes _Eea : boolean; D : integer; nt : boolean returns nothing Y : boolean; chillax end main : c45 : boolean array; do R9i(- false > true, - 7 * false >= false and 4 + 39, - n - 2, 6 - 20) end

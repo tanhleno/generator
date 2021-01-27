@@ -1,0 +1,1 @@
+program z : p : takes n : boolean array; mJ20a : integer array returns nothing while - not 4 /= - 7 - 484 : chillax end; do e(- 9); output 57; let p = 9 end main : pop false /= - 2; input u[- false] end

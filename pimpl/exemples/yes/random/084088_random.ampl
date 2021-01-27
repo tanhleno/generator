@@ -1,0 +1,1 @@
+program S : main : h : integer; J : boolean array; FE40a, Y5 : boolean; _, yn, S3 : integer array; Qm, C, i : boolean array; z : boolean; joVaa : boolean; M : boolean; output "" . "" . ""; when case true or(2) and 5 /= - not 3 and 98100 : output "\tm" . ""; do W(31, 1); input v end otherwise : do Y(0150, 7); let A = 7; let k = 654 end end

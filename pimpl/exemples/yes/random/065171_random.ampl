@@ -1,0 +1,1 @@
+program O5 : Z7 : takes i7 : integer returns nothing input Nq[(21)]; when case - 7 - 12 /= 34 : when case 38 : chillax end end case 8330 : let k = 9540 end case 3 : chillax end case 7 : chillax end otherwise : output ""; pop end end main : F, t : boolean array; chillax end

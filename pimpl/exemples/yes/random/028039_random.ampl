@@ -1,0 +1,1 @@
+program W : J : takes ai, B : integer array; r, a : integer returns boolean array Vqna, L, N : boolean array; R : integer; L, y, f5Caa : boolean array; do Y(not 7, 0 - 95 > 932) end main : _e, L4, H, Q : integer; chillax end

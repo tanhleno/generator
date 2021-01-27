@@ -1,0 +1,1 @@
+program Z : main : when case - false or not false and true : chillax end case not(9) + false - 0 : do h(20, 517); do d(808, 73) end; input l; do JF1(- (0) + 1); when case 79 : chillax end case 3 : do m29(17); pop end case 963 : chillax end end

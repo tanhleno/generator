@@ -1,0 +1,1 @@
+program U53 : x : takes q, IO00a, ic : boolean; B : integer array; a38 : boolean; f7, Q1, j : boolean; l : integer array; RC : integer returns nothing output "8W0"; pop 0 = 5 end main : ea, j3h : integer array; S7 : boolean; Fa : boolean array; D, X : integer; chillax end

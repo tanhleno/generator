@@ -1,0 +1,1 @@
+program v : a : takes a, Z, H : integer returns boolean D : integer array; zI, wO : boolean; output - 2630 end main : s, keTaa : integer; tj : boolean array; x, D : integer; w8H, J : boolean; E : integer array; z6Za : boolean; K6 : boolean; input x9B[- (7 = 4) * h0(6) rem true]; do D(- true >= false and 9, - true + 2 < 93 - 8); output "d\n"; pop; pop end

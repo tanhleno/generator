@@ -1,0 +1,1 @@
+program PcM : main : P_0aa, T, v, gU : integer; v : integer array; when case - not false + true > G(08) rem false or true and 8 + 5 : chillax end case(9) / 0340 or false and 9 + 1 : chillax end case(33) and 3 or 0 : chillax end otherwise : output "," end end

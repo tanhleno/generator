@@ -1,0 +1,1 @@
+program P4 : c1V : takes x : integer returns boolean chillax end M00 : takes hqa, blF, a0, Z, q, D : boolean array; l, d : boolean array returns nothing chillax end main : s0n, F : integer; do q9Faa(yg(1, 7) / 5 > - s / O and 35200, - 3, - true and 541 = - 58 - 07, 5 - 27 > 51, 6, 1, 0) end

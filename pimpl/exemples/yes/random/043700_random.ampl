@@ -1,0 +1,1 @@
+program i6ia : B : takes D7 : boolean array returns nothing chillax end main : w2, tV, T5 : integer array; while true * R4(8) / C >= - e4 and false - false : when case - 3 - 73 > 93 : while 3 : chillax end; output "" end case 93 = 15 : input S; pop end case 21 : chillax end case 2800 : chillax end otherwise : let k = 85; pop end end; pop end

@@ -1,0 +1,1 @@
+program xR : Ob : takes Zk : boolean array; sP, i, I : integer array; q : integer; A6, jx : integer returns nothing chillax end ge : takes S9 : boolean returns nothing input X; output 23 . 02600; input N[84] end C5 : takes So : boolean returns nothing chillax end main : output "}" end

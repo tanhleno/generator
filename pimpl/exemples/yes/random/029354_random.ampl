@@ -1,0 +1,1 @@
+program Vs6a : Tu : takes D5k, F : integer array returns boolean array h : boolean array; chillax end j : takes f9 : integer array returns boolean array let F = 01 = 287; let f3t0[56] = array 6 end a : takes p : integer array returns boolean array chillax end main : u, m : boolean array; chillax end

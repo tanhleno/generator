@@ -1,0 +1,1 @@
+program v : main : when case - not not false : input l[2 - 9]; when case 241 = 8200 : chillax end case 6 : chillax end; when case 94 : chillax end case 68 : chillax end end case(71) = - (16) - 3 : while 4 : chillax end; while 792 : chillax end; pop end; output ""; when case - (4) and 4 or 5 - 195 : let Gf5[8] = 4540; when case 3 : chillax end; input u; pop end end

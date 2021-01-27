@@ -1,0 +1,1 @@
+program Ns00 : w : takes W, d, t, fR, G2O : boolean returns nothing b3 : boolean array; Od, J, qq : integer array; G : integer array; output "Q"; input o680a[- 2870 - 48] end F : takes S15 : boolean array returns nothing pop 9170 = 7; pop; pop; pop end main : output - ZF[36] . "j0" . "" . "" . "" . "1" end

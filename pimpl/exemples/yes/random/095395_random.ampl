@@ -1,0 +1,1 @@
+program h : main : when case(77) / not true and false and 18200 : chillax end otherwise : while 5 = 6 : chillax end; do z03(7400, 673) end; while false /= - false : input BMxaa; when case 6910 : chillax end end end

@@ -1,0 +1,1 @@
+program P : k : takes l : boolean array returns nothing z, l : integer; W : boolean; let S18 = array true and 06 end main : c, U, o : boolean; fa7a : integer array; X8, B : integer array; chillax end

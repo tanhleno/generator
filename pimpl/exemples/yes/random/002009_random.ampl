@@ -1,0 +1,1 @@
+program Wv0aa : T : takes w880, MUY, Ua10a, K, K, N6Haa : integer returns boolean b : integer array; output "" . 67 = 741; do j(8 - 5 = 69700, 5 = 31, 7, 6) end z : takes x : integer array returns nothing while 2 : pop; output "3"; pop end; do t8(8, 08, 47) end R : takes y, h : boolean array returns nothing o, enPaa : boolean array; chillax end main : x : boolean; chillax end

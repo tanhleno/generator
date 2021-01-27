@@ -1,0 +1,1 @@
+program p : u : takes xh : integer returns integer array l, RD_, X : integer array; x8, W : integer; chillax end Z : takes c7, f : boolean array returns nothing pop 5 = 83 end main : x3 : integer array; L : boolean array; chillax end

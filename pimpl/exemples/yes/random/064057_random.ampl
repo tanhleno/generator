@@ -1,0 +1,1 @@
+program uv : D : takes Y : integer returns nothing chillax end main : when case - 80 - 7 : chillax end case - (7) : pop 4 end case - not 8 and 9 + 0 - 67 >= 332 - 38 : chillax end case 2 > 9 : output ""; output "j2a"; pop end otherwise : while 9 = 4 : pop; pop end; while 3 : chillax end end end

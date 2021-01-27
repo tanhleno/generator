@@ -1,0 +1,1 @@
+program yUQ : main : F, WY : integer; pop not false and true + m41a and 25 <= - 94900 and 3; while 14 and true and 4 or _7 + 85 >= H - 9 - 46300 : let C = array 42 end; when case C6W and 23 + 716 - 79 : chillax end otherwise : chillax end end

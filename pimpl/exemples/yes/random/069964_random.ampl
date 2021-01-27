@@ -1,0 +1,1 @@
+program i : main : sE, Y, Yr, G400a : boolean array; let bxm = array false and 6 and true and 3; pop - false >= - 4 - 732; do y8J(j7 or 4 - 6, 3 - 080); pop; when case 3 : when case 45 : chillax end end; pop end

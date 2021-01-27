@@ -1,0 +1,1 @@
+program XY : p3 : takes V, m : boolean; A, e8B0, S, i : boolean array; S7, P, y, r, d, e : boolean returns nothing pop 1 - 2 end e : takes A : integer array; F3V0a : boolean returns nothing B, dZ, h : boolean array; eS, __ : boolean; chillax end main : J71 : boolean; do j(fR80 + false, - not 9 = not 1, - true > - 33, - 7 - 5690 >= 90, 59100 = 5780, 38, 12) end

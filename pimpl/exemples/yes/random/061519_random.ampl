@@ -1,0 +1,1 @@
+program AGUaa : j : takes z3n : integer array returns nothing when case - (75) and 6 - 968 - 8 : chillax end end main : l, fjv : integer; d, pg0, k, J5o, Mz : integer array; when case - 3370 /= - true * true : do C(- 329 - 7 > 24, 69, 35); pop 3 end case - 76 : do c(29, 82) end otherwise : chillax end; output "" . "(60a" . 56 = 65500 end

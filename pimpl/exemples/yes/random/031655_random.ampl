@@ -1,0 +1,1 @@
+program G : B5 : takes a1, n : integer returns boolean pop; do YVd0(- 0240 - 28) end h230a : takes v, W : boolean array returns nothing G3j, uTz, g, J : boolean; y : boolean; g8 : boolean; while 8 : chillax end; when case 7 : chillax end end main : let Id = - false * not 57100 - false and 0 - 3 - 7640 <= - not 8840 and 4 end

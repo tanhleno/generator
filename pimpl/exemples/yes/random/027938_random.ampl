@@ -1,0 +1,1 @@
+program B4 : a : takes o5a, _00aa : integer array; y1, FL9 : integer array; GFKaa, i : integer array returns nothing chillax end main : while false + true * not 0 and 813 <= X6[3] : do u0u(- 26 - 3, 26100, 43, 748) end end

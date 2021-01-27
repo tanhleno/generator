@@ -1,0 +1,1 @@
+program N : main : Wd4 : integer array; B : boolean; do oz5(- not JL[44] / not KV and false and 127 - 1 < - (8) + false and 85900 or 245 - 2, (34) * true >= true and 31900 + 10, - (240) <= - 8 - 3) end

@@ -1,0 +1,1 @@
+program YHl : NC : takes _iS0a, I, eQ, u : boolean returns boolean _4 : integer array; let Aqr = 310 - 7 <= 648; do A(- 77, 5, 6, 2) end main : x, O8k0, Y, P, r3 : boolean; ogU : boolean; pop; do zK3(- (2), true and 666, - 911, 1, 5); when case - (7) : chillax end; let pL = array 49700 - 0500; while 6980 = 41400 : chillax end end

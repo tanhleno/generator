@@ -1,0 +1,1 @@
+program U : j4y0 : takes wf, c : boolean; L : integer array returns nothing TH : boolean; M, r, R : integer; chillax end main : when case 8 and false = - false and(93700) + true : when case - 37 - 87 : output ""; let G = 5 end; pop; pop 934; when case 7260 : chillax end end otherwise : let K3 = 34 end end

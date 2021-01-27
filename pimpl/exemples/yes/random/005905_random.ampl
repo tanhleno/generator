@@ -1,0 +1,1 @@
+program M5 : M : takes B, S, L3, NET0a : boolean returns boolean Qq : boolean array; chillax end main : t4 : integer; when case not true : input C9[40200]; when case 44 = 8 : while 91 : chillax end; pop end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Ru : fV : takes J : boolean; Q : integer returns nothing ey90a, MSa, T6, d : integer array; while - (8) and 830 + 7840 > - 5 : input A; output "@\\!"; pop; pop end; input QM7a[8 - 7] end main : G : integer array; u, c48 : boolean; let M[(1)] = 7 / not 8 - P and 0 or 8 - 168 < - 3140 end

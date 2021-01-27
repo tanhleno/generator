@@ -1,0 +1,1 @@
+program Y : _4l : takes u89, Y, wn2aa, OX, dD : integer array returns nothing mz, g3 : boolean; f : boolean; F : integer array; while true and 1 >= 61 - 2 : chillax end; output 9 end O : takes Vt, B1 : integer array; c, i : boolean; T : boolean; s, y0k, fR5aa : boolean; H : boolean array returns nothing chillax end main : o8 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program QD : main : let _ = - 6; when case - 2 and(259) < - not 0 : chillax end case true /= - 33 : chillax end case - 83 : chillax end case 6 = 5 : output "']\"" end case 9 : chillax end case 8950 : chillax end otherwise : chillax end; input J6[- F and 0]; while - 1 - 1 : let N = 72 end; while 8560 : chillax end; let X7 = 7; pop end

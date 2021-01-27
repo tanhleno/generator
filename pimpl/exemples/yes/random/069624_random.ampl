@@ -1,0 +1,1 @@
+program i : main : Q, g, Jr4a, B4 : boolean; let v11[S] = array - (063 = 91) rem false * (31) and 72 - false and not 20 and 5 + R; when case - true - H8 and 28000 : chillax end otherwise : chillax end end

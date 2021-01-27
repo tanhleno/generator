@@ -1,0 +1,1 @@
+program q : CH : takes D : integer returns nothing let y = 08 - 0 < 24 end oj : takes mv, j : integer returns nothing BFk, T3, K : boolean; p, R : boolean array; R5 : boolean; do C180(63 - 3, 82100); pop 64 end main : while 20 : chillax end; while - not 56 / (597) and 58600 or 5 : chillax end end

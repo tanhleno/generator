@@ -1,0 +1,1 @@
+program x : wh : takes j, T : integer; B : boolean array; Rn, z : boolean returns boolean array Y, m, F9Y, I, Z : integer array; when case(1) or 9 > - 99 - 4 : chillax end; input f[4] end main : C4, B55aa, OkI, S920 : boolean; while - 7 <= Q * false and 2 + true and 789 or 67 : chillax end end

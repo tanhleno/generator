@@ -1,0 +1,1 @@
+program L : KGN : takes DY : integer array returns nothing pop; when case - 97 : chillax end end NXi0a : takes O, J, n3, xY : integer; Ia4a : boolean; O05a : integer array returns nothing M : integer array; let tr = 2 = 5 end main : L880 : integer array; while - _8O and(6) or z(687) - f and 66 + 2 : do b6(4 - 5 > 2, 56, 4, 639) end end

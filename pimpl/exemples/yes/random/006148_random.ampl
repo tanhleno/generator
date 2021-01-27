@@ -1,0 +1,1 @@
+program XE : A : takes kI50a, r, d0, C0 : boolean returns nothing G, q, i, g : boolean array; F : integer array; when case - (8) or 498 - 06 : let p[4] = array 5; pop; input L end case - 7270 : do E(1) end otherwise : let x = 3; do o080a(2) end; output "m\\\"a"; output "" . "" . "="; pop 1; while 9 : chillax end; when case 7 : chillax end; pop end main : chillax end

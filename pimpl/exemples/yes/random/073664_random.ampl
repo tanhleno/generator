@@ -1,0 +1,1 @@
+program W : main : tg50, e : boolean; PJ, YR : integer array; Q, I, c15, c : boolean array; l, cW6 : integer; v820, R : boolean; let k1f = - false * not 3990 and 433; when case f1 / 89300 and 8 > - (96) and 06500 : let C = 7; do _b(67100); when case 53 : chillax end end end

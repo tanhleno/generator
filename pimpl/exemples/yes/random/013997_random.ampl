@@ -1,0 +1,1 @@
+program C : C : takes Y, w, g52a : integer array; J, Kbh0 : integer; U, T, v, uL4 : boolean returns boolean chillax end B : takes Z9 : boolean array; K : boolean array returns nothing y : boolean; x : integer array; chillax end f : takes E : boolean returns nothing output 6 . 4 end main : do v(not true - 21, (2) rem(310)) end

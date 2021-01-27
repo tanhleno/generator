@@ -1,0 +1,1 @@
+program u6paa : Y3Y : takes M, O, ztp, T : boolean array; H1Waa, B280a, s : integer returns integer array let C[1020 + 485] = - 614 - 0 end g : takes C : boolean; MQ, H, yp, BP3, c2, L : boolean returns nothing jm : boolean; chillax end main : chillax end

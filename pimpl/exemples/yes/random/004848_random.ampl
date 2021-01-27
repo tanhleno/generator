@@ -1,0 +1,1 @@
+program F : gr : takes p0, R, r1, Pf : boolean array; a, o : boolean; uM5, n4, S0 : integer; m : boolean; UQ, B : boolean returns nothing when case false and 4 or 779 - 3 : let yW[08] = array 29; while 2 : chillax end end otherwise : do Kc2(27) end; input D end main : K, H : boolean array; B : boolean array; chillax end

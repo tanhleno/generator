@@ -1,0 +1,1 @@
+program r : main : output true * false - true; when case true - 65 - 6 : output 4; do s(3); while 696 : chillax end; while 9 : chillax end end case not 7 : chillax end case - 0 >= 0 : do f(5); output "}\n"; pop end case 1 = 8 : chillax end case 59 : chillax end case 1 : chillax end end

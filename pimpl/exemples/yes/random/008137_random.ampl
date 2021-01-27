@@ -1,0 +1,1 @@
+program i : Fd2 : takes y, W, F520, mCH : integer returns integer pop - 890 - 9 >= 3; while - 79900 - 176 : chillax end end GS : takes GrF, e : integer; E, T : boolean returns nothing chillax end main : q : integer array; d : integer; U, v, G, Bk : integer array; chillax end

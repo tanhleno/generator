@@ -1,0 +1,1 @@
+program MT : Lr8 : takes f : boolean array returns boolean do fy(66400 and 5) end H : takes pN, tI, J : integer returns boolean X2 : integer; Kx4a : boolean array; chillax end main : q : integer array; b1, K, w : integer; chillax end

@@ -1,0 +1,1 @@
+program j : y8 : takes L : boolean array; q : integer; hx : boolean array; a14 : integer; eE, Lc8, h : integer array; T4saa : integer; g4, lgM : boolean returns integer array let Mk[7 and 34 - 672 - 5260] = array - (45) and 7 - 82; pop 74 = 6 end main : let _R = array not not false and 3 and false and 4 end

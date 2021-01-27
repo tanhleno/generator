@@ -1,0 +1,1 @@
+program l : K8 : takes x, K3C : boolean returns nothing P8, tnm : integer; O2H : integer; H4 : integer; chillax end u : takes k6 : boolean returns nothing h : integer array; chillax end main : while(210 = 0) : chillax end end

@@ -1,0 +1,1 @@
+program W : S : takes _q, F, y3 : boolean returns nothing chillax end main : M, R : integer array; n25, P : boolean array; when case - 5 * G[4] / not 2 and 4 : chillax end otherwise : output 3 end; while - true * false + Z and 1 - 11 /= Z8 + 60 : chillax end; output 1 /= 1; do k(78 - 121 /= 4650, 11); input u0Vaa; input i[5] end

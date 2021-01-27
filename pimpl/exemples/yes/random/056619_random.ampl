@@ -1,0 +1,1 @@
+program A : e6 : takes T : integer array; b : integer; s4u, p2 : integer array; _, L6 : integer returns nothing t, t7 : boolean; let h = 43 - 6 < 61; when case - 71 - 5 : do V(5); output ""; pop end case 58 : chillax end case 199 : chillax end otherwise : output "" end end main : chillax end

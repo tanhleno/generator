@@ -1,0 +1,1 @@
+program z : s : takes M, q : integer array; JY0, J : boolean; C, d70 : boolean returns nothing y3S, s5, d9, P, v58 : integer array; when case false and 2 : chillax end case - 15 : chillax end case 0 : chillax end end main : let q[- true / false and 62] = array - true end

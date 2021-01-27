@@ -1,0 +1,1 @@
+program rk : y : takes H400a : boolean returns nothing o9, N5Q : integer; chillax end main : do X(- true < false * true or kz and 9 + 84, true or not 064 or 6 - 1, - false and 3 - 536 - 02 < - 852 - 211, 1 - 600 /= 82, 63, 2, 31); when case false + not 6530 and 7 or 2 - 119 >= B24 : chillax end end

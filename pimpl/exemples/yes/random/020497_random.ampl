@@ -1,0 +1,1 @@
+program Crx0 : D : takes G, q3 : boolean array; B81 : integer array; U0p0a : integer array returns boolean j, Dj, Rw60a : integer; chillax end E0S0 : takes WC80a : boolean array returns nothing let kJH0a[- 5] = 86; let Rmc[6] = array 6 end main : M, J, CE : boolean; c, J : boolean; chillax end

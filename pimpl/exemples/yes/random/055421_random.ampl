@@ -1,0 +1,1 @@
+program k3 : Tj00 : takes v : integer array; i3B, l93 : integer returns nothing N : boolean array; p, W, g : boolean array; L, l, E2 : integer; chillax end main : output - 88 rem(66) + 81900 or 13600 - 5 . ""; pop end

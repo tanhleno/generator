@@ -1,0 +1,1 @@
+program FN : k : takes T : boolean; G940, be : integer array returns nothing pop - 74 - 12; input k[- 8]; input qj30[6] end hS : takes cJ : boolean array returns nothing chillax end N_ : takes J, w : boolean returns nothing chillax end main : chillax end

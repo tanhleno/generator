@@ -1,0 +1,1 @@
+program y : N2 : takes E, t : integer; jJ, li5, L, _85, e8 : boolean array; w : integer returns integer while - true + 525 >= 4 - 5 : output 42300 . ""; let e = 2 end end main : p : integer; b : integer; s2 : integer array; v6, z, S, K : boolean array; Y1, r_ : boolean; chillax end

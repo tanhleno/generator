@@ -1,0 +1,1 @@
+program Q : w : takes j : boolean returns integer array w2, u : boolean; zw : boolean; W15a, S, Ny7 : integer; jY : boolean; when case - true or 407 /= - 87 : chillax end; while 0210 - 44 : chillax end; input e9; do p4(5, 5220); when case 2 : chillax end; pop; pop end main : when case - false / not not 1 or 078 and false and 44 <= - not true rem(8) : pop end end

@@ -1,0 +1,1 @@
+program J : OzJa : takes y : integer; X, l7, T, Z, N, K, K63 : integer array returns boolean chillax end p1 : takes P1, d, s1s0a, Y1, T : boolean array; f7ta, bI1aa : integer array; s9 : boolean returns nothing output 10 = 41700 end main : while - false - true rem(63) : input w3u0a; when case 380 = 5 : chillax end otherwise : chillax end end; let l = array not true end

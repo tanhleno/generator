@@ -1,0 +1,1 @@
+program r3U : W6U : takes Z0, h, D9 : integer; D0, dl, p, g : integer; r3z : boolean array returns nothing chillax end sm : takes BH : boolean array; Cl, Da7 : boolean array; DIb : boolean array returns nothing chillax end main : U, x0 : boolean array; chillax end

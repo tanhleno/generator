@@ -1,0 +1,1 @@
+program vK3a : X : takes Gc, zWN : boolean returns nothing Q, g : boolean; uO40, ywo0a, M, i : integer; chillax end Z010 : takes t6, Q : integer array returns nothing chillax end main : output - (2) end

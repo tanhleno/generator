@@ -1,0 +1,1 @@
+program t : jv : takes A, A, h6Eaa : integer array; N8 : boolean returns boolean f, KL70a : boolean; do L(- S5 or 250 - 49900 >= 04); let N4 = 32 = 73 end main : e8, D, E, o5, m : integer; chillax end

@@ -1,0 +1,1 @@
+program G8 : main : XQ_aa : integer; e8 : integer array; output 74800 + y and 9390 or 71200 <= - gH and 0 . false and 18 . - 0 - 5; when case - not true / false and 5 + not 2 /= false - 87 : chillax end; let u = array - not 73 and 2500 or 2580; let E = 39 = 7; when case 88600 = 0 : pop; pop end otherwise : chillax end; pop 46; let v0 = 754 end

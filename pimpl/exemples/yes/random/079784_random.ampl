@@ -1,0 +1,1 @@
+program D37 : main : M : boolean; p7 : integer array; output 9720 - a and 2 . not 77100 and 9 >= - 922 . - 6; pop; when case - true and 7 >= 8 : let k7 = array 0; output "4"; pop end case - 8100 = 1 : let vP9 = 10; pop end otherwise : let sh = 16 end end

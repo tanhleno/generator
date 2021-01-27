@@ -1,0 +1,1 @@
+program Or9 : GBlaa : takes c6 : boolean array returns nothing do v(not 48 - 6 - 3500 >= - 823 - 7); pop 7 = 7 end S : takes t : integer array; N : integer returns integer array output "" . 9 . 5 . "" end main : Cj : boolean; chillax end

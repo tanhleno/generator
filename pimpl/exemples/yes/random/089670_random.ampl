@@ -1,0 +1,1 @@
+program x6iaa : main : let E8z = - 8 and true or false + 1 >= 30 and 7 + 8 - 8170; when case - 71 rem not 0 and 03 : when case 5 : pop; pop end end case - not 98 or 785 - 7 >= 1 : let U1[863] = array 47; input D end case - 122 - 479 : chillax end case 97500 : do p(18800) end case 85 : chillax end case 69 : chillax end; output "" . "" . "4\"0a" end

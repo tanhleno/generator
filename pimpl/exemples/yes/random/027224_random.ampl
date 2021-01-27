@@ -1,0 +1,1 @@
+program r : W : takes R2, A : integer array; G, f, W4, o : boolean returns nothing chillax end main : when case not not not 5 : input S9; pop; pop; while 74 : chillax end; pop; pop end otherwise : chillax end; output "<V!a"; when case - not 78 and 118 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program U4j : J : takes I, O : boolean array; A7, R6, ia : boolean array returns boolean v44aa, v, S : boolean; while - j30 - 6 - 4 /= 29 : when case 9 : pop end end; input B1E[2]; while 0 = 1 : pop end end g : takes d7q : boolean returns boolean chillax end main : H : integer; chillax end

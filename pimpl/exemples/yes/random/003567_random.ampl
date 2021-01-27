@@ -1,0 +1,1 @@
+program k940a : F9maa : takes K31, K, C1, M, t : integer array; B : boolean returns boolean IO : integer array; output "" end D : takes f : boolean array returns integer array chillax end main : lS : boolean array; h68, E, r : boolean array; B : integer array; Z, zEMaa : integer array; chillax end

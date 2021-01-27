@@ -1,0 +1,1 @@
+program J0 : LA : takes f47 : integer array; P, r4, S, Du, eZ90 : boolean returns boolean array V3H : integer; Z, IC : boolean array; chillax end main : QCy, F, V : boolean array; output "" . "0\\" . "" . "" end

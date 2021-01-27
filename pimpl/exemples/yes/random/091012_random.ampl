@@ -1,0 +1,1 @@
+program ERs : main : let D[- not not 630 and not o] = array - W(47900) and not(87300) and not 7 or gW5(1) rem(943) and 56; pop - (92) + 4 >= 005; when case 4 - 7 - 991 >= 1320 - 7 : while 80 : chillax end; when case 638 : chillax end; output "" end; when case - 72 : do UG(3); pop end case 0 : chillax end; let z[8] = array 45; output 928 . "2" end

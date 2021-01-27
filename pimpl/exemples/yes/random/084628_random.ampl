@@ -1,0 +1,1 @@
+program SB : main : E5 : integer; input R3[- false]; when case - false - false and 7 - 04 /= (19) and 6 + 6 - 4 : chillax end otherwise : pop 8; when case 870 : chillax end end; output - 5 >= 5910; output 9910 . "\t"; do Ks(58 = 5, 6, 6); output "" . "5_" end

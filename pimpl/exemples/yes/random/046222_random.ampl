@@ -1,0 +1,1 @@
+program N : s : takes D7 : boolean returns boolean H : boolean array; a : integer; chillax end main : asGaa, u8, z, Z : integer; JW0, t, _, a : integer; V : integer array; g : boolean array; do c2(24 = e(6200) or false, true rem(0) <= Mc + 03 - 6, not 1 and 37 - 61 - 8) end

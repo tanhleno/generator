@@ -1,0 +1,1 @@
+program KU : w : takes l : integer array; P6Y, n99 : integer array returns integer array chillax end h68 : takes b : boolean returns nothing do q(1910 - 682 /= 51, 20); pop end z : takes Tpuaa, W03a, Wk, T7, O, i : boolean returns nothing Y : integer array; oO2, d2K0a : boolean; chillax end main : pop; input lG; output "" . 2 . 2 . 75 . "7" end

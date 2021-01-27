@@ -1,0 +1,1 @@
+program nc : s0 : takes O2 : boolean array; l, gzXa, E, d : boolean array returns nothing y : integer array; e, H, Z4, R : integer; b5 : integer; s35aa : boolean; w : boolean; R : boolean; output - 97 > 37600 end main : N : integer; g6, E : boolean array; f : integer; let OH80a[- true] = array true * (0) / (27) + true rem not 02 and 29 end

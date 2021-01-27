@@ -1,0 +1,1 @@
+program j : main : _, Q910a, II : integer; when case - o(384, 0) - true + 7 + 57700 : let x[- 14 - 40] = 8 = 7 end otherwise : chillax end; output(1) and 6 + 34900 = - 69900 - 49; output - 3 < 5; while 4 < 8 : let W6D = 68; when case 0 : chillax end end; pop end

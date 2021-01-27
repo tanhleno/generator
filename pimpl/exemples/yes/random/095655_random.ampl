@@ -1,0 +1,1 @@
+program j : main : when case - (6 = 4) + not(77) /= - false or(1) : chillax end case - false rem(0) - 667 and 3 or 9 - 65200 : pop 9; when case 3940 : pop end otherwise : chillax end; output ""; while 6 : chillax end; pop end case - true and 339 >= 2 : chillax end otherwise : chillax end end

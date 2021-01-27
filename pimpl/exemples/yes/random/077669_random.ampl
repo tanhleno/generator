@@ -1,0 +1,1 @@
+program m : main : io, YX40 : integer array; R : integer; D5, rg, Wk90 : integer array; Y, tB : integer; input O[- 0 - (6000) and false and 73]; while false * (2) and 3 + false : do N(1430 = 449, 95000, 76600); let s = array 6230; output ""; let Kt = 9 end; pop 1470; let p[- 887] = 2 = 6 end

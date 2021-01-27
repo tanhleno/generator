@@ -1,0 +1,1 @@
+program o : C : takes aJ : integer array returns nothing pop end _ : takes F, bvb : boolean array; uCG0, cY : integer returns nothing Z99 : boolean; c : integer array; let Q = 3 = 55; pop 1 end main : g : boolean; chillax end

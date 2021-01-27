@@ -1,0 +1,1 @@
+program uN3 : q : takes j : integer array returns nothing i, l53aa, F, scd : integer; E8, af : integer; while - true - 27 - 35800 < 78 : input BZ; let B4 = 1 end end main : when case - false : while - 7930 >= 48 : do klQ(2) end; do I6(9 = 04800); let k3[7] = array 1 end case - 73 rem(4) + not 5 and 4 >= false and 524 : chillax end otherwise : output "\t" . 61 . "" end end

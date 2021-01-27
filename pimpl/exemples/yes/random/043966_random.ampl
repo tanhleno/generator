@@ -1,0 +1,1 @@
+program H56 : P : takes tb : boolean array returns nothing V16aa, X, W, X, w : integer array; chillax end us : takes R0 : integer; nQ, a6, J5Va, w0 : boolean array returns nothing chillax end M : takes m : boolean array returns boolean output 4 end main : k : integer array; chillax end

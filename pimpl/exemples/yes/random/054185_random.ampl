@@ -1,0 +1,1 @@
+program v2G : pzk0a : takes P1 : integer array; UL, j, A63 : integer array; A, l, E, A1 : boolean array; r : integer array returns integer when case - not 3 : chillax end case 5 - 70400 : input F_; while 8 : chillax end end case 71 = 8 : pop; pop end end main : chillax end

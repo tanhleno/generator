@@ -1,0 +1,1 @@
+program hl3 : main : hx : boolean array; k : integer; while - 8 rem false / false + (01200) * 1 and 78 or true > P[9] and not 91 and 8 : while - 0 : do s(404); output "" end; when case 6 : let G = 096 end otherwise : chillax end end; output not 71 and 8 end

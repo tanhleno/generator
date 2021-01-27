@@ -1,0 +1,1 @@
+program Q : X6n : takes F : integer; D : boolean array; W : boolean array returns integer array l : boolean array; output - 21 - 992 < 0 . 87 end K : takes Ox9, A3h0 : integer array; S7h : boolean returns nothing Y710, g, G23a, M : integer; pop 6 end main : o6 : boolean; chillax end

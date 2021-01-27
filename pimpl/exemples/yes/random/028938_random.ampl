@@ -1,0 +1,1 @@
+program S : x : takes X3J, X : integer array; B91 : integer array returns boolean chillax end l0 : takes oR6, g6l0a : integer; T7, C : integer; h90, g, n : integer; swQ0, U50, m : boolean returns nothing when case - 276 /= 8 : chillax end case 56 = 7 : let d = 8; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program w : E84aa : takes J : integer; H, I54, y, Y3, w : integer array; h : boolean returns boolean chillax end A7 : takes m, A6, B : boolean array returns nothing B : integer array; let xv[- 5] = array 57 end main : E : boolean; m, o6 : integer; L : integer array; chillax end

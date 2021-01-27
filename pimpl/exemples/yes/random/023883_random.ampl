@@ -1,0 +1,1 @@
+program c : qn : takes p, yPu : boolean returns nothing chillax end u92a : takes X, v, JzO, R, r : boolean returns nothing J8Ba : boolean; chillax end X92a : takes C2o, e, V16 : boolean array returns nothing when case 6 = 49 : while 98 : chillax end; pop end otherwise : pop end end main : chillax end

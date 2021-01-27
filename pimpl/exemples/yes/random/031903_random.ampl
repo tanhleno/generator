@@ -1,0 +1,1 @@
+program R6 : H : takes x, _6 : integer returns integer array output "\t\"" . 30 = 6 . "1"; input SZ60a end main : o7 : boolean array; F25, V : boolean; let l4N0a[- i(4) * false * true + 8 and(7) or true and 5 + 5 - 510] = array - true / 3 rem XJ; pop - (24) and 8 > - 73 - 0; while(99) : output "" . "" end end

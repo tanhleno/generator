@@ -1,0 +1,1 @@
+program f : main : when case - not not true * Gho(9510) / not 70 and 58700 - (11) and(8) and 38 or false : chillax end case - false and not 35 = - (2200) and 212 + 4 - 5 : chillax end otherwise : input g[54]; when case 76 : chillax end end end

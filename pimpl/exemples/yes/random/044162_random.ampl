@@ -1,0 +1,1 @@
+program c : ha : takes zi10a : boolean array returns nothing S, j5 : boolean; chillax end c3 : takes A, Zr, _X : integer array; g0 : integer array returns nothing do Q5(- 20 - 12 < 0); do A(050 = 2) end main : chillax end

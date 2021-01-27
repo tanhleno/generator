@@ -1,0 +1,1 @@
+program I7h : a5x : takes r : integer array returns nothing r7, B400 : integer array; hcC : boolean array; r : integer array; chillax end main : when case(0) : let pa7 = 29 end; output "8\n0a"; output - 099 - 32 = 9 . ""; when case 511 : pop; let MA = 3; pop end case 8 = 65 : output "OH\"" end case 2 : pop end otherwise : output ""; pop end end

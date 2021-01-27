@@ -1,0 +1,1 @@
+program CT : J : takes u : integer array; n, V, O, z : integer array; V : boolean array returns nothing r : integer array; output "8\""; while 8 - 6 >= 9 : chillax end end Q : takes w, w, ndC0a, Rj, hS, O : boolean array returns nothing chillax end main : x : boolean array; L6, q : integer array; S6Q0, K570a : integer; B, w0 : boolean array; j4, s : boolean; D : boolean; pop end

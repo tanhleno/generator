@@ -1,0 +1,1 @@
+program J42 : f0 : takes au, b, x, a, Q : integer; Z, Vs : boolean array; C, W, _ : integer array returns integer array while OpY0a and 9 - 41 : chillax end; when case - 39 /= 57 : chillax end case 6 : do I(9); pop end case 9 : pop end case 3 : chillax end; pop end main : chillax end

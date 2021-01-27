@@ -1,0 +1,1 @@
+program Dp : X48 : takes Rfd0a, f5 : integer; SS : integer returns nothing chillax end main : when case 076 - 09 and 0 and 96 - (13) and 78 + 218 : chillax end; when case 039 * true or Y - 9 : chillax end case - false >= 88 - 5 : do hPh(2); pop end case - 575 - 8 : output "" end case 93 : chillax end otherwise : pop 7490; let R = 9 end end

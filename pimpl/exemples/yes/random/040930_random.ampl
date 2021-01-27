@@ -1,0 +1,1 @@
+program xs : m : takes v9 : boolean array; e : integer array; c : integer array returns integer array d1faa, E : boolean array; when case - (935) or 1 : chillax end; let S[98 - 3] = 694 = 3; input L_D end main : input dXoaa[- not j[4] rem not 9 or(16) / 56 and 34 or false]; do x(- (77) + 5 = - true and 500) end

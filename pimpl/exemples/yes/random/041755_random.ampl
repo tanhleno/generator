@@ -1,0 +1,1 @@
+program vZ : R : takes d : boolean array returns boolean array e : integer; C, SBx0 : integer; j8V : integer array; A : boolean; chillax end B : takes lJA, fl, e : integer array returns integer iI : integer array; chillax end main : I9, cc90, T : integer; _ : integer array; output "" . "" . "}" . "\t!" . "2"; pop - (495) or 1; let FfU[t] = array true and 5 end

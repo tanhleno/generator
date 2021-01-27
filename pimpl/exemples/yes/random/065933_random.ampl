@@ -1,0 +1,1 @@
+program r : main : do f(- (174 = 13700) / (042) <= true + 1); when case - 23 rem true > true and 6 : when case 5 = 849 : when case 2 : chillax end; pop end end case - (397) and 08 or 1 : let Q = array 715 end case - 16300 - 2 : chillax end case 1 : chillax end case 9 : chillax end case 07 : chillax end end

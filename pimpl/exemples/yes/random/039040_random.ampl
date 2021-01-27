@@ -1,0 +1,1 @@
+program i66 : _u2 : takes n : boolean array; a, y : integer; heK : boolean; Z4Ua, Z : integer; r0 : integer returns nothing chillax end main : T6V0a, C60aa : boolean; do ljeaa(- false / true and 956 and 24 /= - r[083] - true, false or 2 and 35600 = (7) and 3, false) end

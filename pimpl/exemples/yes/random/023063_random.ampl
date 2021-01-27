@@ -1,0 +1,1 @@
+program L : O : takes R3, S1Waa : boolean returns boolean array let d[false or 8] = array - (9) and 88 + 5 end main : N, bR, kk, l : integer; EGF : boolean array; ssI0 : integer; pop - 0 rem c; input N[- (97100) and true and 5 or true and 7 or 23]; input t[true]; output ""; do I66(9 = 68); input w[8] end

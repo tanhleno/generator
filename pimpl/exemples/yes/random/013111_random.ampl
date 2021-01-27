@@ -1,0 +1,1 @@
+program T1 : Q03 : takes C, P, zT : integer; T : boolean; d4 : boolean array; n, l : integer returns nothing chillax end jqO0a : takes l : boolean; t, x0, z0, _ : boolean array; L : boolean returns boolean t : integer; azC0a, z7ka : integer; v6, w : boolean; chillax end main : pop not(88) <= - false + 3 end

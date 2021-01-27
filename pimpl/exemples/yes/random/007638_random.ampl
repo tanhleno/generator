@@ -1,0 +1,1 @@
+program M : HU : takes k, S0raa, l, N : integer array returns integer let VB3aa[- 7 and 9 or 77 - 5] = array not 9 + 6 - 0; let P[0] = 01 end main : _ : boolean array; y : integer array; R8m : integer; g : integer array; output "" . - N /= - 52 . "" end

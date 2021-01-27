@@ -1,0 +1,1 @@
+program M : X : takes t4q, s : integer array returns integer array R4, f : integer; b, b : integer array; when case - (129) and 962 : chillax end end main : d, X : boolean; o2G, x9 : integer array; fW, aSk : integer; chillax end

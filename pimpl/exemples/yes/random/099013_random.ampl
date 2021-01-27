@@ -1,0 +1,1 @@
+program P_ : main : while - true or true and true and 2220 = true / 116 and 03 : when case 5 - 16 : when case 3 : chillax end; pop end case 17 : pop end otherwise : input R9; pop end; let r0 = 51; output 97 end end

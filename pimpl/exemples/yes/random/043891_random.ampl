@@ -1,0 +1,1 @@
+program a5 : b : takes y : boolean array returns nothing do o(not 5 < - 9); when case - 6 < 63 : when case 1 : chillax end end otherwise : chillax end; when case 68 : chillax end end k : takes CUJ0a, N : integer array returns nothing while - 9 - 7 : chillax end end main : chillax end

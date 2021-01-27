@@ -1,0 +1,1 @@
+program H : uE : takes j : boolean; p : boolean array returns integer B4 : boolean; input q9n[(5) + 1]; pop 763; while 122 = 41500 : chillax end end o : takes p6 : integer returns integer f5, b0, l : integer array; output 8 = 6 . 524 . 7; while 75 : chillax end; input S[49] end main : Ka : boolean; H, g, U74, wQ5aa : boolean array; i : integer; chillax end

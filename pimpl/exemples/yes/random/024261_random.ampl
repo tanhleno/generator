@@ -1,0 +1,1 @@
+program e670a : J : takes j97, B : boolean returns nothing P0, pF6aa, gS : integer array; D : boolean array; chillax end CY : takes u, fh10a, n : integer array returns nothing d : integer array; chillax end main : input M1[- not iq[08] - (74) + 9 and 7 - 61] end

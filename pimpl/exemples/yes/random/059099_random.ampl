@@ -1,0 +1,1 @@
+program cR30 : g : takes H : integer array returns integer chillax end C : takes u3, L : boolean returns integer array M : boolean; W, lD : integer array; chillax end main : D, Cg : boolean; when case - L or not not 32 >= 9 : chillax end case - not(1) * false and 8 + q6 : chillax end otherwise : let sV = 0 end; input X8[- (69) + false and 9 + 2890 - 551] end

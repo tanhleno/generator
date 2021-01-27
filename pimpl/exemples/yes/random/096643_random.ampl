@@ -1,0 +1,1 @@
+program Z : main : when case - true = true rem 2 - q13a : chillax end case - true and not 6 or(9) and 3 - 5 - 21 < - (7) and 1720 : do l(35 = 1, 4); when case 302 : chillax end otherwise : chillax end; when case 204 : chillax end; pop; pop end otherwise : chillax end end

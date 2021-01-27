@@ -1,0 +1,1 @@
+program x : R : takes Jf3, Lr9 : integer; f280, R, o3, q, v5, Y, A : integer array returns nothing a : integer; t, s : boolean array; S, _, h0 : boolean; input B2[- not 7 and 91 + 10400 - 65]; input sr; pop; when case 6 : chillax end case 62 : chillax end end main : output "" end

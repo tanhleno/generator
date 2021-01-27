@@ -1,0 +1,1 @@
+program w : L0taa : takes e3ya : integer array; U : integer array returns boolean array a, c : integer; M0H : boolean; while - false < - 27 - 64300 : input vY[6] end; output "V" end d : takes h : integer array; P5 : integer returns nothing T : boolean; chillax end a2 : takes i0 : integer array returns nothing tK, ta4, R : integer array; chillax end main : chillax end

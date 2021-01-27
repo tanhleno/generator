@@ -1,0 +1,1 @@
+program Em3 : d7 : takes x, KHJa, A, K : integer; w : integer; _R : integer array returns boolean array z, m680, U, E, C : boolean; let T42[not 2 and 51] = - 4 > 6 end l : takes Z6, f, R, XMs, DM : boolean returns nothing chillax end main : let j[- false rem not(442)] = array(3) end

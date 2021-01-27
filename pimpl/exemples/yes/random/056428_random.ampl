@@ -1,0 +1,1 @@
+program p : Y : takes x : integer array; A : boolean returns nothing Cp, G : boolean; o79, G, Z : integer array; i, C, Vstaa : integer array; chillax end main : Os, g, L4 : integer; do U(b(846, 9) or not not 36 or 7); pop end

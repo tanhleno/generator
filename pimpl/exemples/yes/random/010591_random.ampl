@@ -1,0 +1,1 @@
+program raf : Q : takes A, c, k : boolean array returns boolean array qm : boolean array; U2, a, pwRa : integer array; bX, c, r : boolean array; ka30a : boolean; chillax end main : F, P0ia, u : integer; VE : integer; S5 : boolean array; vW : boolean; pop - true or MUhaa >= not 9 and 9 or 99700 end

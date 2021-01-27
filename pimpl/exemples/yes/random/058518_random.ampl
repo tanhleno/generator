@@ -1,0 +1,1 @@
+program V : f : takes H : integer array returns boolean pop end Xe3 : takes B12, g : boolean; VJH0a : boolean; q3 : integer array; E : integer array returns integer wkV : boolean; D : integer; y48, Y : boolean; e : boolean; when case - 1 : chillax end end main : u0 : boolean array; P : boolean; _870a, P, V : integer array; output(826) * (97) . "\"\\" . - 742 end

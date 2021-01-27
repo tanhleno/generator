@@ -1,0 +1,1 @@
+program g : t7 : takes s, a, G : integer; fs, D, ly4a : boolean; P8 : boolean returns nothing _U : integer array; u, hg5aa, T : integer array; while true and 86 >= 3 : chillax end; when case 28 - 290 < 877 : input B6 end otherwise : when case 09700 : chillax end end end main : let f2 = array not 3 rem false end

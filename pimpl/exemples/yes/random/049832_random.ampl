@@ -1,0 +1,1 @@
+program Z9 : J : takes PM : integer; I, IJP, DX : boolean array; J, H, qOF : integer array returns nothing output ""; input Ukv[24] end Vzy0 : takes o5 : integer array; B : integer; mvk, Hyia, J5 : integer array; c : integer array returns nothing chillax end main : let o7 = array - true and 3 * not 5 and 6 - (3) / not 6; input T end

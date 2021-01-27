@@ -1,0 +1,1 @@
+program H : main : O, x14aa, r2C : boolean array; K : integer array; V : boolean array; v5 : boolean array; vV : integer; pop - true rem 5 and 5 - (4) and 6 + 4790; do p07a(- (8) * 08 and 7270, (3)) end

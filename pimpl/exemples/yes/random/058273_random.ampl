@@ -1,0 +1,1 @@
+program y : G : takes Z6S : integer array returns boolean _k20a, j : integer; ui : boolean; fh6a : integer array; y, N : boolean; while - not 0 and 9 : pop end; output 4; while 0 = 8 : output ""; pop end; do Z(3); when case 2 : chillax end; output "" end main : pop; let c[- not(293) and not 2 and 0 or not 28600 and 2 or 451 - 6] = array true rem true end

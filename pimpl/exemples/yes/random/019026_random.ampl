@@ -1,0 +1,1 @@
+program B : p : takes i, G7 : boolean array; c06, B, Rvk : integer array; i, Z0 : boolean returns nothing chillax end main : G, z : boolean array; let V4y[- (58) * false - (167) rem false and 8 or l and 26800] = array 5; while false and 513 and 2 >= true or 35 : chillax end end

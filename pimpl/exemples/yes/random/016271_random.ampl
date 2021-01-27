@@ -1,0 +1,1 @@
+program Q8 : yN1 : takes Xz, z1, V1 : integer returns nothing do SlR(6 and 66 + 8, 5 = 29, 9); let Uu = 794; do L(1 = 15, 58); do f(29200); do t(82); output ""; pop end main : Bj : integer; chillax end

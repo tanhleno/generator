@@ -1,0 +1,1 @@
+program R : main : S : boolean array; m4 : boolean; when case _(3, 3110) = - 3 * true : chillax end; when case - false * 3 or t1 and 31 or 3 > k - 4 : chillax end case W and 2 - 90 - 1 > 426 : chillax end case - 3 - 9 : do i(4) end case 76 = 5 : chillax end end

@@ -1,0 +1,1 @@
+program rkM : wC : takes p, P4 : boolean array; C31, p0 : boolean; I4yaa, w : integer array; I3Haa : boolean; lpza : boolean array returns integer mcq0a : integer array; l0x0, j7 : integer; chillax end main : let d = true; pop q71aa + 37 /= 7870 - 9 end

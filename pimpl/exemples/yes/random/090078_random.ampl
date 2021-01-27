@@ -1,0 +1,1 @@
+program I : main : let e = array false / 91 - true; output - 7 >= - 521 . - 79 . "\\.\"a" . "o0" . "" . ""; input q[true - 89700 - 0]; when case - 5 <= 97 : chillax end case 0 = 6 : output "" end case 959 : pop end case 6 : chillax end otherwise : chillax end; let l = array 7600 end

@@ -1,0 +1,1 @@
+program L7Ha : main : O, S1qa, r4 : integer; when case(3 = 23) * true : chillax end case - not not 23 * not 02 and 485 : when case 411 : pop; pop end case 6660 : pop end case 5 : chillax end; input m[7] end end

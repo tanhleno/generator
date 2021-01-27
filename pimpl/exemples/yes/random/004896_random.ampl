@@ -1,0 +1,1 @@
+program JO : U : takes Js, jM, L3, B : boolean array; e48, _e : boolean array returns boolean array output 1 > 4 . 21; when case 5130 : chillax end case 157 : while 748 : chillax end; pop end case 0 : chillax end case 4 : chillax end otherwise : chillax end; let h56aa[3] = array 6 end main : x1 : boolean; ri2, E5 : boolean; Xzf : boolean array; Xe, k : integer; chillax end

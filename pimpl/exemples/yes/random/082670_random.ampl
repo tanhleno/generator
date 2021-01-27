@@ -1,0 +1,1 @@
+program G : main : o : boolean array; when case - false / (0) >= true + 05 and 327 : chillax end otherwise : chillax end; while - false and 3 + 911 and 19 - 5 <= true : chillax end; let F[false or 6 - 37] = array - p and 95600 end

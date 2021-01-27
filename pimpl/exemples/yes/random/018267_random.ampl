@@ -1,0 +1,1 @@
+program Ft : T_ : takes U, YXcaa : boolean; Dm : integer array; Y, P : boolean array; Z3, P1, B4K, x, paAa : integer array returns nothing input j; pop 857 = 1; input J[64]; while 8 : pop end end main : U : integer array; do n8(6760 rem false - not not 11100 / 53 = 5 - e and 9210, true - W < not 9) end

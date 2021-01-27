@@ -1,0 +1,1 @@
+program w : main : V, M, S, O7M, B : boolean; L, XNI, AJQ0 : boolean array; input Qi[66 and(1) or(012) * true and 08 - 3 and 35]; input U[(02) and d + false and 4 or 401]; let E = array - not 57 + 8; when case - 77 - 6 >= 4 : input G6ta end otherwise : chillax end; input Q290a end

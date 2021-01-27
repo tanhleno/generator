@@ -1,0 +1,1 @@
+program qm : main : pop; when case - i : chillax end otherwise : input e5h[6] end; input I; while 6 : input e; when case 0630 : chillax end; pop end; when case 6 : let y = 0; pop end otherwise : pop end; when case 2 : pop end end

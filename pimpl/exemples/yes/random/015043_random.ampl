@@ -1,0 +1,1 @@
+program j : ox : takes R, BZ, tk : integer array returns integer O, y, YP : boolean; B : boolean array; chillax end H5t0a : takes jJ, TU10a : integer array returns nothing chillax end T : takes y5 : integer; b91, h : boolean array; E, M : integer; Ly, Z310a : boolean array returns nothing v5, b : integer array; do u(66 = 58, 4); while 79 : pop end end main : chillax end

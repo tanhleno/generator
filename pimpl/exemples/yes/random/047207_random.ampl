@@ -1,0 +1,1 @@
+program B1v0a : iT : takes Rs : boolean returns integer B : integer; N, aZ, Y : integer; output - 2 /= 8 . 2 = 1; let m4 = 0; when case 03600 = 68 : when case 834 : chillax end; pop end end JY : takes V : integer array returns integer array output 5 end R : takes C : integer array returns boolean chillax end main : input ni; pop - (2) and 2 /= 0 - 6; output - 4 > 9 . 9 = 0 end

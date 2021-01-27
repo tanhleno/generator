@@ -1,0 +1,1 @@
+program u : N_a : takes L : integer array; nh, e : integer array; N : boolean; V, d : boolean array returns nothing o, KS6 : boolean; when case - G and 04 or 1 - 5 : chillax end case - 278 - 9 : while 3920 : chillax end end otherwise : chillax end end xe4aa : takes Y9h0, H, H2 : boolean returns nothing chillax end main : K : boolean array; chillax end

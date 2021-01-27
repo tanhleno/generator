@@ -1,0 +1,1 @@
+program q : d : takes j6, n3 : integer array returns integer output "$[" end _ : takes S, R : boolean array; X, g : boolean returns boolean array chillax end main : q, Yq7aa, q, Zq : boolean; n : boolean array; chillax end

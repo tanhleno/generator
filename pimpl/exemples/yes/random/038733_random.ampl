@@ -1,0 +1,1 @@
+program D96 : s : takes u2 : boolean array; x, w : boolean array returns boolean J, Y, K76 : integer; pop - 5 end C : takes s : integer returns nothing input F3[- 105 - 08400] end k : takes c270 : integer; _I : boolean array returns nothing input i[613] end main : chillax end

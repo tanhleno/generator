@@ -1,0 +1,1 @@
+program Og : r : takes X, _P : boolean array returns nothing chillax end t : takes S7r : boolean array returns boolean chillax end main : n : integer array; nKx : integer array; ga, J, X9 : boolean array; k, G6 : integer; chillax end

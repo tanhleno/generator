@@ -1,0 +1,1 @@
+program wB10a : main : when case x : chillax end case - 8970 / false and 90900 + (8) and 5 : chillax end otherwise : chillax end; when case - false and true or true + 5 - 2 <= - not 8 : when case 6 = 3 : chillax end; let b = array 406 end; output "2`" end

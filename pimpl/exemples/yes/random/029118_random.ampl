@@ -1,0 +1,1 @@
+program k : X6 : takes n5, A : integer array; B9 : integer returns integer s, c : integer array; n, aI70, J92, G : integer; chillax end main : let Xb40 = 77800 / not 92 and 418 /= - true and 273 - 7 - 1; pop - s and 36; let c9[- (9) and 15200] = array(22) and 81; input e9[- 15 - 33]; pop; when case 34 : chillax end case 96 : chillax end otherwise : chillax end end

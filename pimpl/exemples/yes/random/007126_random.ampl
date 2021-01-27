@@ -1,0 +1,1 @@
+program V : t8 : takes A, ZuDaa, f, fDQ0 : integer array; C89 : boolean array; X, e, x39, Qw : boolean array returns integer chillax end z : takes g, m, s72a : integer array returns integer array kSU0a : integer; let li[55] = array - 905 end main : chillax end

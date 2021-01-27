@@ -1,0 +1,1 @@
+program k : w : takes w : integer array; r : integer; ZZ, cz30a, t : integer array; YnO0, N29 : boolean; y : boolean array; Sa : boolean; M : boolean; T5 : boolean returns nothing pop end main : zf, B : boolean array; eM8a, go, d1 : integer; F : integer; chillax end

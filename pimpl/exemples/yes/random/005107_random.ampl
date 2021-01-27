@@ -1,0 +1,1 @@
+program o20 : Rk : takes N, H8, E9y, J : boolean array; A : boolean returns nothing chillax end x : takes B, t, o : boolean; Y0Pa, K, k : integer array returns integer v19, N : boolean; chillax end main : I960 : integer array; chillax end

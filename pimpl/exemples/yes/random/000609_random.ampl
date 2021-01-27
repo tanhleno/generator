@@ -1,0 +1,1 @@
+program v : g : takes Y, w200a, T, yX, B36a, _, v : boolean; J : integer array returns boolean input _5 end v0 : takes R, tI, c : boolean array returns nothing let OE3 = array - 1 - 62; while 78 : let H56 = 823; pop end; input G end w : takes p : boolean returns integer array chillax end main : chillax end

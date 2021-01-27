@@ -1,0 +1,1 @@
+program g : m : takes Gv : boolean returns integer array o_O, J, L1X0a, Lqq : integer array; pop; input v8[4]; do X6(86 = 000, 4, 5310) end M : takes w, R : boolean array returns integer chillax end main : M : boolean array; B, B, G : integer array; let G[- false / 3 / not 8 or(3) * not 41 + not 6 or 165] = array 5 end

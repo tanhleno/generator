@@ -1,0 +1,1 @@
+program T : E : takes yt5a : boolean; Cvv0a, fOu0, y : boolean array returns nothing p, a : integer array; yN : boolean array; K7 : integer; input f9g end W : takes X0J : integer returns nothing N4y : integer array; X, i8, Z : integer; j0, gX : boolean; V : boolean; do I(009, 36 = 0, 60) end main : chillax end

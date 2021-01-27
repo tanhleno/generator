@@ -1,0 +1,1 @@
+program Y : w : takes O, r : integer; zyJ, paL, Y3 : integer returns nothing m : integer; let K[false] = - 4 /= 55; pop; when case 67 : chillax end case 93 : chillax end case 4 : chillax end otherwise : pop end; pop; do Lt70a(26) end main : while - G870a[02] and(13) rem not 0 and 13 - true + (2) = - (66) + not 4 and 7 - 1440 : chillax end; pop not 18 and 88 - 724 - 738 end

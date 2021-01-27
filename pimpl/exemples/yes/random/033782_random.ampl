@@ -1,0 +1,1 @@
+program j : We : takes T1 : boolean; q89aa, E, l0 : boolean; C8 : integer array; j6, fE2, x : boolean array; X_O : integer; Hzx : integer; T, z : boolean; Srw : boolean returns integer chillax end main : pop - true or m and 60 + 9; pop; do TfH(- 4 and 4, - 41 - 396, 0 = 6, 9); let D[- 40] = array - 6 - 49 end

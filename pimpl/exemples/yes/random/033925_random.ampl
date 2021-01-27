@@ -1,0 +1,1 @@
+program h55 : w4 : takes E : boolean; U, A9Fa, M : boolean returns integer array pop - 89 = 4; while 6 <= 8 : chillax end; pop 544 end main : s : integer array; ld8 : integer; E, d : boolean; m, BTE, O2, P5 : integer array; m, J : integer array; chillax end

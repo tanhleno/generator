@@ -1,0 +1,1 @@
+program r : main : B8 : boolean array; h, H : boolean; Ux8 : integer; k : integer; E58 : integer; S910, p : boolean; do U6(- (38) * 575 rem f and 4630 = (2) or false and 77); when case 89 * Ez and 9 : input s; input U[2]; let j90aa = 9 end otherwise : output 2 . "{" end end

@@ -1,0 +1,1 @@
+program E0 : main : h7s : boolean array; T : integer array; K2m, S : integer array; do q(false); while true : when case 8 : while 82300 : chillax end; pop end otherwise : chillax end end; while - ED and 687 + 5 : chillax end end

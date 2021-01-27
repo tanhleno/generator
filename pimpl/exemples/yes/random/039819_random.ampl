@@ -1,0 +1,1 @@
+program V6 : X : takes y8 : boolean array; B6 : boolean array; Z5uaa, nq9 : integer; B2, Q : integer returns nothing do Pkc((6) and 70 > 30300, 7300 <= 20700, 1); do u(49300 > 4); pop 54100 end main : q7 : boolean array; l : integer; i : integer array; h3, YB : boolean; W : integer array; chillax end

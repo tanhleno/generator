@@ -1,0 +1,1 @@
+program f86 : main : Y, U : integer; do U570(- true or true + 79 and 4 or 67200 - 4 >= not(5), O5 rem not 3 and 87 < true and 7); when case - 0 or true : output 520 end case - false and 02 + 8 : chillax end case 77 - 9 = 593 : chillax end case 2 = 5 : while 11 : chillax end end case 9 : pop end end

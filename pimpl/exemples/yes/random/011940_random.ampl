@@ -1,0 +1,1 @@
+program df60 : j : takes b, ZN6, H : boolean returns integer I, X : boolean array; chillax end main : output "" . - 2 and 25100 /= 295 . "" . 8; let t[true and 65 - true] = g07a and 748 - 7 - 49 = - 83700 - 97700; input g[V + 5 - 60] end

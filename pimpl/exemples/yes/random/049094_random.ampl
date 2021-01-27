@@ -1,0 +1,1 @@
+program m02 : xX : takes w : boolean returns nothing when case(2) : chillax end otherwise : chillax end; pop; when case 7 = 5 : let S = 7 end otherwise : chillax end; let X[6] = array 2620 end main : chillax end

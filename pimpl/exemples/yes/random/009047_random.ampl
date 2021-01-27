@@ -1,0 +1,1 @@
+program O7_a : G : takes ehw, z, K1 : boolean; sV4 : boolean array; auC, p : integer array returns nothing output "z"; input b; let G5[4] = 24 end main : g : boolean array; lS, W : integer; chillax end

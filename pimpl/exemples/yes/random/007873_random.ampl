@@ -1,0 +1,1 @@
+program v6w : syk : takes cV, Pk, C7, HW : integer array returns nothing pop 239 - 7; output "29\""; do p(70 = 982) end main : k : integer array; let n = array - 88 * false / not 9 + false - e93aa and 08 end

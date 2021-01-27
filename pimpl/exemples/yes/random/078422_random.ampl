@@ -1,0 +1,1 @@
+program z : main : w : boolean; f, s, g6Ha, ee0, T9, f : integer array; when case F[8] rem true + 93 or(12500) and 537 + 5 - 4 > 4 rem true and 9 + true - 75 - 629 : do E(- 54 - 85 = 06500, 35 = 5) end otherwise : output "" . "" . "m" end; let If = array JB * (77400) and 8 end

@@ -1,0 +1,1 @@
+program r : Z : takes Dwta : boolean returns nothing chillax end main : O : boolean; B, t0, X, C2naa : integer; P : boolean array; n, l : boolean; q, nf : integer array; N, o5 : boolean; D6 : boolean; let J6 = true or false + 33; output "" . 8 - 7; input v[- false and 5]; do W(3 >= 1, 4, 97, 917) end

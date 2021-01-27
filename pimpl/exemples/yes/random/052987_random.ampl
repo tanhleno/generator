@@ -1,0 +1,1 @@
+program H : I1 : takes g : integer; g2J : integer array returns nothing chillax end main : y : boolean; pop - (25) rem E > - 41400; output not 3 and 4 = 9060 . "" . 6 . "" . 2 . "R"; let G7I0[true - 94 - 3] = array true or 0; let S1 = array 92; input J77aa[3] end

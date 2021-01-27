@@ -1,0 +1,1 @@
+program F6F0a : qA : takes j2 : integer array returns boolean array c, B4Naa, nFV0 : integer; do b(- not 0 - 5 - 00400 >= 696 - 531, 524 - 1, 2, 4); output 15 = 95 . "un" . "" . "\\"; while 8 = 8 : chillax end; when case 8360 : chillax end otherwise : chillax end end main : F420 : boolean array; b, u, y, c : integer array; chillax end

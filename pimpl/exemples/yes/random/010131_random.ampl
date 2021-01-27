@@ -1,0 +1,1 @@
+program L70aa : n : takes l_, lls, x : boolean array; Ie : boolean array returns integer chillax end main : l : boolean; while - false or(4) / IzZ and 0730 or not 8 >= (94) - (15) + 0 : chillax end; output "\t" end

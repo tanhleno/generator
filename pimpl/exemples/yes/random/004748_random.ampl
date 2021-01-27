@@ -1,0 +1,1 @@
+program Y : X : takes tA, n33, h070a, NW90 : boolean array; k, Db, l, A : boolean; i : boolean array returns boolean pop end main : Q5t0, vn80a : boolean array; _, Dl, f0J : boolean array; un, M, N5, s9, P : integer; m : boolean array; ksCaa, M4_aa : integer array; chillax end

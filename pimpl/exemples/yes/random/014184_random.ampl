@@ -1,0 +1,1 @@
+program D6 : s26aa : takes L8Da, YGR, zC7 : integer array; X9 : boolean; v : boolean array; i : boolean array; e : integer array; j88 : integer array returns nothing chillax end Kg : takes a : boolean returns boolean l : integer array; t : integer array; V, IKO : boolean; chillax end main : h : integer; gx : boolean; chillax end

@@ -1,0 +1,1 @@
+program l : F27 : takes E : boolean; i : integer array; s, J9, j : boolean; P, kxs : integer array returns integer array when case(0) + 564 - 19 < 1 : output 3 end otherwise : input n5; output "" end; when case 4 : chillax end case 192 : chillax end case 51900 : pop end case 54500 : chillax end end main : Y2y : boolean; chillax end

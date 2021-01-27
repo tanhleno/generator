@@ -1,0 +1,1 @@
+program re : h : takes e : boolean; q8, mi, A440a, A, m : integer array; UTf0a, D, Z2 : integer array returns nothing when case false and 471 - 9 - 30 = 45 - 54800 : let kO = 7; output "" end case 0 - 07 : chillax end case 5 : chillax end end main : let J = not _ska rem false and 22 + false and 75 + 7; pop end

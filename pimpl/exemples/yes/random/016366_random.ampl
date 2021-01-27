@@ -1,0 +1,1 @@
+program _S : l08a : takes E, hSU0a, v6 : integer returns nothing C9, x : boolean array; d, OFYaa : integer; m, _10 : integer; chillax end main : C, O : integer; _ : integer array; C, W, y0 : boolean array; Q : integer; j4 : boolean array; A : boolean; T8 : boolean; a : boolean; chillax end

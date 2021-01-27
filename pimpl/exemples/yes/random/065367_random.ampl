@@ -1,0 +1,1 @@
+program YYG : R : takes M : integer returns nothing pop - 9 < 6; do f4Taa(50900 - 094, 26400 = 7, 2); while 37 : chillax end end main : N, r, s5A : boolean; when case 28 = not Ua / (04) or 3 or 7 - 6 : chillax end case - not not 4 * (81) and 2 - true and 9 or 35 - 9 : chillax end; output true and 30 + 06 . 2; pop - 38; while 84 : chillax end; output "\nZ" end

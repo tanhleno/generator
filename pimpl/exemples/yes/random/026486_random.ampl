@@ -1,0 +1,1 @@
+program S : n : takes l, g : integer; rnp0a : integer; g, PiJ, O : integer; U : boolean array returns nothing let T = - 0110 - 372 /= 2; do c(- 2, 7 = 59, 30400, 8); while 1 = 72 : let C0 = 3; pop end end K : takes a8, wr : integer array returns boolean array chillax end K69a : takes r : integer returns nothing chillax end main : pop - not not 70000 = true or 7 - 1 end

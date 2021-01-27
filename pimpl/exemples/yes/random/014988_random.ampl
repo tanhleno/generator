@@ -1,0 +1,1 @@
+program b03a : Nr : takes w, F4, Ms : integer array returns integer array output 87 >= 0 . ""; output 8 = 4 . ",~a" end Y : takes p0 : integer returns nothing pop 0; do N(14 = 06300, 5) end main : m, P3 : integer array; chillax end

@@ -1,0 +1,1 @@
+program _0 : w2x : takes V, u0za, H68aa, s2q, v870a, Tf0 : boolean array; R4Saa : integer returns nothing input e[- true and 75100]; let h5[- 748] = 24; while 0 = 7 : chillax end; when case 648 : pop end case 4 : chillax end; output ""; pop; pop end main : output "\"" end

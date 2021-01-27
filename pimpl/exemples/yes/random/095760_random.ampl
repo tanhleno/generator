@@ -1,0 +1,1 @@
+program m : main : when case - false * 0 or 90800 / (096) : chillax end; when case - true rem 0 and 5 - true - 28 <= not 4 + 91 - 54 : when case 2 : chillax end; input JR[3]; pop; while 46 : chillax end; pop end otherwise : chillax end end

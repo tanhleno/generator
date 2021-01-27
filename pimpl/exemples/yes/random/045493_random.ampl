@@ -1,0 +1,1 @@
+program nn : l1 : takes DM : boolean returns boolean array do g(- false and 20900) end main : output(8) and(5870) and 5 > false + 20200 - 72 . "7" . "" . 7 . 5; input s[- true rem(3)]; input i[- (7) and 2 - 86 - 9]; let V[8540] = array 725 end

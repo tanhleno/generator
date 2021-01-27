@@ -1,0 +1,1 @@
+program k : ux : takes Hr : boolean returns boolean array h8, A, E, K7, m : boolean array; chillax end c : takes n : boolean; f : boolean; CD : integer array returns nothing when case 7 - 16 : chillax end case 92300 = 0 : chillax end end main : _, A3 : integer array; l, m9, WF : integer array; chillax end

@@ -1,0 +1,1 @@
+program H : F : takes A, eyc, z : boolean; F : boolean returns nothing output - 7 - 6 > 537 . "" . "" end r : takes lh, f2 : boolean returns integer output 0 . 94700; pop 44 end main : do Y((5 = 1) < not not 77 * not 6 + false and 2 or 1) end

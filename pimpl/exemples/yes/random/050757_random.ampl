@@ -1,0 +1,1 @@
+program S6 : k : takes tHUa : integer; b2a0, f : boolean returns nothing DW, WxU, B : integer array; output ""; when case 3 : chillax end case 9 = 30000 : chillax end case 704 : pop end case 72 : chillax end otherwise : chillax end end main : chillax end

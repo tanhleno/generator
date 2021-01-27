@@ -1,0 +1,1 @@
+program d : main : let X[- 41 and T] = array - not 86 and f(4) + 678 / not 8; do M(- 323 - false or 3 > - (1), - (9110) and 54300 - 58 - 36 = 60 - 0, 4250 - 16 = 8); output "" . 958 = 1; input Y1E0a end

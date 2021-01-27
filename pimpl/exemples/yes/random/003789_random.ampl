@@ -1,0 +1,1 @@
+program I : L : takes _C, S2r, xh, mT, dr : integer array returns integer output "\t" end t3 : takes k5, V, fi50 : boolean; A65aa : boolean array; E : boolean array returns boolean Ep : boolean; Jzy0 : boolean array; Q : boolean; output 90 = 9 . 2490; while 4 = 4 : do f4(61); pop end; while 7 : chillax end end main : chillax end

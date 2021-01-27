@@ -1,0 +1,1 @@
+program q9 : main : when case - (5 = 0450) >= - false rem false and 56 : input lc[2 - 87]; let a = array 3; do F(12, 6) end case - not false - false or 482 : chillax end; let i56a[- (0120) rem not 81 and 7] = - an70a + 6 - 4; while - true < - 5 - 7 : chillax end; pop 449 = 19 end

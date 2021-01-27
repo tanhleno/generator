@@ -1,0 +1,1 @@
+program C2 : main : H : integer array; when case d[8160] * true * (4) : chillax end case - (19400) - J4 and 8 /= (27) and 68 - 54 - 0 : let qn4[03] = array 341; do G(2); when case 27 : chillax end end case 6 : do u(6420, 2); input HXX0a; pop; pop end otherwise : while 7 : let Gd = 3 end end end

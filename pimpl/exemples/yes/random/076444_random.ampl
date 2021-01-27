@@ -1,0 +1,1 @@
+program t : main : WU4, r1 : integer; mU : integer; gc : boolean; L4V : boolean; M1 : boolean array; let t[false] = - A rem not 848 and 4730 or not 1540; let B = array - not 0; output "7" . 308 = 81; input k end

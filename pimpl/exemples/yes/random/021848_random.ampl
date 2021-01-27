@@ -1,0 +1,1 @@
+program Xe : g : takes Q, W5 : boolean array returns nothing chillax end ww : takes lEma, W : boolean; n4 : boolean array returns nothing pop end W : takes u4 : integer returns nothing let _[0] = 4 end main : O63, eV2, Y : integer array; Q, G, Z6, S : boolean; let g7 = array - 0 * 5; pop 7860 and 398 - 5 - 1360 /= 40 end

@@ -1,0 +1,1 @@
+program j8u0a : oo6aa : takes G, W : boolean array returns nothing chillax end E : takes R, oD : integer; U : integer; b7 : integer returns nothing chillax end F : takes Y : boolean array returns nothing pop; let z = 2 end U : takes _3, aY, Q : integer returns nothing chillax end main : G6, dM, F, Q : boolean; j9, KZD, M, P : boolean array; Ao : integer; k : integer; chillax end

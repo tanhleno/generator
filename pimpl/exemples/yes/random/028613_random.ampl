@@ -1,0 +1,1 @@
+program QT : qz : takes S, v : integer array; j : boolean returns nothing t2 : integer array; dCo0 : boolean; pop - 70 - 7 end q : takes W_7 : integer array; U59 : integer returns nothing while 1 <= 2240 : when case 82 : chillax end end; let wr[3] = array 0 end main : chillax end

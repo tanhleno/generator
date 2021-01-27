@@ -1,0 +1,1 @@
+program pA2 : main : Op, x, z0, c : boolean array; do c(not B(8) * boy[43500] and true <= - not i * true and 7, - true * false, - true and 0270 < 7, 6 - 265 <= 2); input O48; let cn[- false] = array - (80) and 9; pop 65 = 3 end

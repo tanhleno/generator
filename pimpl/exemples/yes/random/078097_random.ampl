@@ -1,0 +1,1 @@
+program w : main : ZTC0a, AF0 : integer array; when case - true + (55) < pC50a(48) rem(2) : chillax end otherwise : input g; while 32 : pop end end; do W((87) * 05 and 8 + not 661 > t - 24 - 46, - true and 7 or 9 - 9310 > - 38100 - 2); when case - y - 94 - 99 <= - 69 : while 105 : chillax end; do oK(6) end; input mN end

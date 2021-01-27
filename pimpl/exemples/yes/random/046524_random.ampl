@@ -1,0 +1,1 @@
+program GM40 : ZX9 : takes Z : boolean returns integer array S, wG, Dn, sv, y : boolean array; do F(true + 8 >= - 3560); input J; let MR = 7; pop; pop end main : e1 : boolean array; rzW : integer array; SZ : boolean array; Z2, L : integer; chillax end

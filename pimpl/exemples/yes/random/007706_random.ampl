@@ -1,0 +1,1 @@
+program P : G : takes K, sz, f, l : integer array returns nothing do KIIaa(- false and 2 or 9 - 1 >= - 7) end J3 : takes H9 : boolean array returns integer array N8 : boolean array; QV, u : boolean; while - 120 : let A7 = 0070; input T5 end; do C73(1770); let a = array 2; do J3laa(4) end main : chillax end

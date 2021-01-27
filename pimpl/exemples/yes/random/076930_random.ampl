@@ -1,0 +1,1 @@
+program kBl : main : c, b : integer; when case true : chillax end case H6ba and true and 7 < true - 0520 : chillax end case - h and 793 : chillax end case - 2 - 6 : chillax end case 29 : when case 824 : chillax end; pop end otherwise : chillax end; input Nl4; output - 7 - 3 = 4 end

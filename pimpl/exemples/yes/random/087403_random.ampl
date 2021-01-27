@@ -1,0 +1,1 @@
+program r1e0 : main : Z : integer array; pop - 8 - V; do g(6 * 11 and 9 or false <= false and 2 or 5 - 7, - v8 /= 6 - 5, 8 - 9100 = 2300, 6, 7); while - not 214 or 52 - 41500 : while 8 : chillax end; while 9 : chillax end end end

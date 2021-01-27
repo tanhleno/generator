@@ -1,0 +1,1 @@
+program A : D4 : takes wI7a, J : integer array returns nothing chillax end U : takes GK : boolean array; g, ym : boolean array; Y3 : boolean array; C : boolean array returns nothing chillax end main : B2naa : boolean array; H42 : boolean array; output "$" . - (696) end

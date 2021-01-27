@@ -1,0 +1,1 @@
+program Q : fG : takes j91, vu6aa, q2 : integer returns nothing _ : boolean array; QqN0a, c9 : integer; output - 602 . 7 = 93; pop 0; while 0 = 18 : do P(4980); pop end; let z7 = 55; let m = 34; while 43 : chillax end end main : pop; while - not(947) and true or O610 and 2 < - y : chillax end; input H440[- false] end

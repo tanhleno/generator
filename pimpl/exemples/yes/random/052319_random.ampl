@@ -1,0 +1,1 @@
+program p3 : k : takes GT : integer; He : boolean returns nothing X : boolean array; while - 7 and 5 or 5 : chillax end end g : takes ysS0 : integer array returns boolean Y, P790 : boolean; nXn0, nP, I : boolean array; let C = 4; when case 40 : while 3 : chillax end end case 0 : chillax end end main : Cm : boolean; l, nZ : boolean array; D7, _, k0_aa : boolean array; chillax end

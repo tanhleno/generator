@@ -1,0 +1,1 @@
+program g : y1 : takes K7, F : integer array returns nothing pop; pop end mL9aa : takes VD80 : boolean array returns nothing chillax end main : while - H(245) + not(1) and false and 4520 or 2 and 8 >= - 74 and UG and 5 : while 4 <= 6690 : chillax end end end

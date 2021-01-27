@@ -1,0 +1,1 @@
+program L3 : SX : takes hT, Du : integer; x7 : integer; E : boolean returns integer array DG8 : integer array; E, ai9, S3, H : integer array; input _T[true and 6] end main : x130, nx, s : boolean; N2oaa : boolean; chillax end

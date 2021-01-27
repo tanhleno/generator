@@ -1,0 +1,1 @@
+program a : main : input B; when case - true + 38 <= - N and 999 : do t(9, 9) end case - a7 : chillax end case 94 - 86 : chillax end case 35 = 713 : let m = 7; pop end otherwise : input BX[81] end end

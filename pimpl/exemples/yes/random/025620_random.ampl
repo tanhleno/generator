@@ -1,0 +1,1 @@
+program Oi : JrX0 : takes j, G6Q : integer; r, EQG : boolean returns boolean array chillax end T : takes m1, Jg, P : integer array returns nothing when case - 141 : output "$\n0a" end end main : chillax end

@@ -1,0 +1,1 @@
+program B : main : output(0) / 28400 or(5) and 3 = - (2) and 5 - 891; when case - Un[25] + (04) and 0 > 143 and 7010 or 7 - 3 : do dx(7) end case - jk9 and 42 <= - 36 : chillax end case 069 /= 981 : while 8 : chillax end; when case 6 : chillax end end case 0 = 62 : chillax end otherwise : chillax end; while true - 3 - 4 > 0060 : chillax end; do r(- 79, 4) end

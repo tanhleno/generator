@@ -1,0 +1,1 @@
+program Uwg : z : takes M : integer returns nothing e21, im9, e, O, Aj : integer; M, hdb0a : integer array; I, V : integer array; d, eM8a : boolean; while - 11800 + 1 - 21 : chillax end end main : chillax end

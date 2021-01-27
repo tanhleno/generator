@@ -1,0 +1,1 @@
+program hA : _ : takes J44a, s60a : boolean returns nothing chillax end A : takes _, T : integer array; U, I : boolean array; Uj, u : boolean array returns integer qx : integer array; J, t4k : boolean; do F(- 4 - 0 <= 1); while 888 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program w1 : M : takes p, sN, s : boolean array returns boolean array when case - not 2 or 584 : chillax end case 4 - 496 : let Ta = 2; when case 9 : chillax end; pop end end main : do ey(R(21, 17700) or j / false and 67) end

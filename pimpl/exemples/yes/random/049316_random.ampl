@@ -1,0 +1,1 @@
+program G4Da : on : takes dD8 : integer; Y, tn, t, _w, N, R : boolean array returns nothing pop 896 - 37 < 4; do a(11 >= 1) end j : takes E7, O : boolean returns nothing ptn : integer; e : boolean array; chillax end _ : takes t, wz1 : integer; UG9a : boolean; j7 : boolean array; z0y0 : integer returns integer do J(0) end main : chillax end

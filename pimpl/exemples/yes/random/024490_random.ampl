@@ -1,0 +1,1 @@
+program Z : W : takes R, mc : boolean returns nothing S : boolean array; d, P, s, r : boolean array; while false and 96600 : pop; while 732 : chillax end end end l : takes y : boolean array; R : integer returns nothing S, p : boolean array; L4, M, j33 : boolean array; chillax end main : t3, G4 : boolean; QR : integer array; chillax end

@@ -1,0 +1,1 @@
+program X : x : takes dP, Q4w0a : integer; D : integer array returns nothing p : integer array; r, W : boolean array; c : boolean; input k32; do Vd(393, 7 = 29400); while 7 : chillax end; do L(9550, 107); while 1 : chillax end; pop end main : A, s, j, M1 : integer array; chillax end

@@ -1,0 +1,1 @@
+program _ : l : takes L9 : integer array returns boolean D : integer; output 07 >= 8; pop 5; while 5 = 0 : chillax end; when case 4610 : chillax end end main : m, I, oWk, O : integer array; pop; let wMw0a[6] = array - not not 2 rem true and 4 - true; pop - 9 - 7 > 3; input P[- 8] end

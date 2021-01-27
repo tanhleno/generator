@@ -1,0 +1,1 @@
+program S : y : takes u : boolean returns integer array chillax end Y : takes Q : boolean array returns nothing chillax end s : takes yJ : boolean array returns nothing chillax end main : s6R0, t3 : boolean array; while T3I[99] <= - B or true and 7010 - 5 : chillax end end

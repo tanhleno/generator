@@ -1,0 +1,1 @@
+program n_4aa : main : qK, n, T, A2 : integer; d, c : boolean; xK : integer array; s : integer; while - not not(655) or(052) /= false * true - not 9 and 2 : do h(6 < 2) end; do G(- true and false and 5 + (05) + 06 - 363) end

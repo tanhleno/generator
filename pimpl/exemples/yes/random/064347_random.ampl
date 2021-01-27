@@ -1,0 +1,1 @@
+program I4 : zHx : takes hD2 : integer returns nothing R, L, oO : integer; k96a, Uo, R, e : integer; aY : boolean; when case - 674 + 7 - 55300 : chillax end otherwise : input uY end end main : chillax end

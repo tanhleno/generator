@@ -1,0 +1,1 @@
+program vC7 : Aq : takes Q, hb8, W : boolean array returns nothing chillax end n9D : takes mk, O : boolean array returns integer array T6, Y : boolean array; chillax end V : takes RHz, O850, Er, H, l, yz40 : integer array; NF4, v, F_, o : integer array returns boolean chillax end q : takes U : boolean returns integer chillax end main : C : integer; chillax end

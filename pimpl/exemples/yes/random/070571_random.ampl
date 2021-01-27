@@ -1,0 +1,1 @@
+program Y2D : main : P, zi9, F, eC : integer array; n : integer array; a1Ua, J : boolean; while true * 18600 * I4r and 9620 > true * not 516 and 34 : when case 9770 - 56 : chillax end; output 46700 end; input je0[(17) rem true and 93 or 303 and 5] end

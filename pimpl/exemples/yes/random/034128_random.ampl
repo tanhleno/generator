@@ -1,0 +1,1 @@
+program z : K3 : takes l0 : boolean; PF, F, o : integer array returns nothing c45aa, k, UK : integer; when case - not 968 : let a[9] = 68; output "[>" end case - 79 : chillax end case 0 : chillax end end main : chillax end

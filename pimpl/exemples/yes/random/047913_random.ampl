@@ -1,0 +1,1 @@
+program IM1aa : H1h : takes mt70 : boolean returns nothing Q, E8, o2, O : boolean; _, W8La, g_, x : boolean array; hb : boolean; chillax end P2 : takes I6 : integer returns boolean array Z : boolean array; F, Ag : integer; c : boolean; J : boolean; a92a : boolean; do Rc(5); input I9 end main : T, C, x1z, T4 : boolean array; j, v : boolean array; Q1, n6 : integer; chillax end

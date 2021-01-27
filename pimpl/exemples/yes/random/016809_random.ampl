@@ -1,0 +1,1 @@
+program n : v9Baa : takes y, U : boolean; uj, A, o360, obv0 : boolean array returns nothing O, g : integer; pop; when case - 0 - 354 = 73 : chillax end case 15800 = 8 : while 19800 : chillax end; pop end end _ : takes o : integer array returns nothing do QT(8 < 9); pop 48; output "" . ""; while 6 : chillax end end main : chillax end

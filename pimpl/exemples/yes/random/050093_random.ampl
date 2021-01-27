@@ -1,0 +1,1 @@
+program o05 : O : takes L1 : integer; CG6, C, O2_a : integer array; e, cbP0, g : integer array; Z0, m0b0a : integer; T : boolean; Z, v : integer array returns integer d4, A990a, x : integer array; chillax end main : chillax end

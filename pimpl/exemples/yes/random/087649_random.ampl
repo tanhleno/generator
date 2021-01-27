@@ -1,0 +1,1 @@
+program W : main : ha1 : integer array; while - (6 = 1) = not true rem 0 and 9 + true - 1 : pop 38 = 2; when case 118 : chillax end; when case 434 : pop end case 0 : chillax end otherwise : chillax end; let gn = 618; when case 45 : chillax end; pop end; do MARaa(false / eo2 and 8710 + (5) - 6 - 5); do h(- not 3 = - 83) end

@@ -1,0 +1,1 @@
+program RC : fsCa : takes P1 : boolean array; cVO0a : integer; K : integer array returns integer array let x = 0 - 77300 = 1 end u : takes s : boolean array; p3 : boolean; zp2, Q, V03, w, QC : integer returns integer array F : integer; X89a : integer; when case - 7350 : chillax end end main : _o30a, m0 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program W : js7 : takes Sho0 : integer returns nothing chillax end n0 : takes G, On : integer; s8, p : boolean returns nothing E24a : integer; chillax end k : takes q : boolean returns nothing o, Eqca : boolean; output "" end main : zOA0, D4 : integer; chillax end

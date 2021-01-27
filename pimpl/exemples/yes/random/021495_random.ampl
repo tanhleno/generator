@@ -1,0 +1,1 @@
+program P1 : GJ6 : takes m, ni : boolean array returns integer array output "'d\""; output "" . 9 . ""; output 4 . ""; do K(4, 7); let A9 = 6 end uv : takes c, l, T : integer array; S : boolean array; B110, h : boolean array; oJ, P92 : integer; I : boolean array; f, M690 : boolean; b : boolean returns nothing chillax end main : chillax end

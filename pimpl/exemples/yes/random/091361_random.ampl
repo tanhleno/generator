@@ -1,0 +1,1 @@
+program V : main : let T[ty(50) - not 13] = - (63) < - (1) and 0 or 3; output "_E" . 92100 - 6 . 7 . "Z"; pop - 40 - 309 < 09; while 68 - 15 : input niP; when case 2 : chillax end end; do z7(24 = 1, 902, 3) end

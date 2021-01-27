@@ -1,0 +1,1 @@
+program e : a5 : takes D : boolean array; qp : integer array; brT0a, T2, o, H5, H81 : boolean array; t : boolean array returns nothing j, L1r, R, e, W : integer; chillax end main : while not true * xf(9) * not 4250 and 49 = - (0) : chillax end end

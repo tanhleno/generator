@@ -1,0 +1,1 @@
+program rv0a : v6 : takes p : integer array; q5Z, D : integer array; C, O, X, X, x : boolean array; D : boolean returns integer array Y, G, Q7, dQ : integer; when case OI9 and 40 or 1 : let Y1[8] = array 05300 end; let R = 0 = 15; let R4[84] = array 1; when case 7 : chillax end otherwise : chillax end; while 4 : chillax end; do T(8); pop end main : chillax end

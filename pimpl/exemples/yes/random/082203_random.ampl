@@ -1,0 +1,1 @@
+program O : main : L : boolean array; input h; output - o - 46 - 4 <= - 3 . 164 - 7 . ""; when case - false or 1 - 82 /= 98 : while 1 : chillax end; pop; output "*" end case - 608 > 002 : let j = 85 end; while - 239 - 5 /= 1 : input j end end

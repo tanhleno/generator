@@ -1,0 +1,1 @@
+program H4 : K : takes Ji, Pa : boolean returns nothing z, t7 : integer array; do Q(true and 2 or 5 - 4) end Y : takes E : boolean; eJ90, D2, R1, kV, ugX0, II : boolean array; CP0 : boolean returns nothing chillax end main : while(763 = 2) * not false : chillax end end

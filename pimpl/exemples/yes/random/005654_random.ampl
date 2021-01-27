@@ -1,0 +1,1 @@
+program oC : G : takes VH6, M, W, lu : boolean array returns nothing D, f5 : integer array; chillax end main : s, D, n0B : integer array; c : integer array; is, q, r, G : integer; G, C, L : boolean; I : boolean; f4, u : boolean; WJ9 : boolean; let S[- K[2] + not not 8 or 6 or 5] = 4 + true end

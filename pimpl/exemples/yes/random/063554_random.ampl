@@ -1,0 +1,1 @@
+program w : FZ : takes _ : integer returns integer let _z[9 and 3] = array true and 96 or 1 - 714; let Vw6 = 7; when case 65000 = 8 : input _M0 end case 5 : chillax end case 0 : chillax end end main : do p(k(3) >= - (2)); let z48 = - (67) and 0320 or 3 - 0 end

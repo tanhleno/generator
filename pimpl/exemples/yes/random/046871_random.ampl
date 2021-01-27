@@ -1,0 +1,1 @@
+program x070a : y8 : takes q : boolean returns integer array while false or 3 > 9130 - 9940 : when case 07200 : pop end otherwise : chillax end end end Q : takes p, s, y : boolean array returns nothing P, z4 : integer; output "z" . 7900 . 36 end main : N9p, r, _, T, G4 : boolean; chillax end

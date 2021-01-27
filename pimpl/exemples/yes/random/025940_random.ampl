@@ -1,0 +1,1 @@
+program i18aa : f : takes v0l0, F : integer; E5, f4fa : integer returns integer array pop 4 end C7 : takes q5 : boolean array returns nothing chillax end main : while false > - q_7(2) * false and 3 or false and 592 or 23 : output "1" . "" . 1 . "l"; while 5 : chillax end; pop 7 end end

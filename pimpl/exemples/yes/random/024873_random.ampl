@@ -1,0 +1,1 @@
+program u7_ : qxl : takes r, n : boolean returns nothing while - true and 9 = 635 : chillax end; when case - 3 - 28 : output "" end case 6 = 7 : chillax end case 7 : chillax end case 8730 : chillax end end main : chillax end

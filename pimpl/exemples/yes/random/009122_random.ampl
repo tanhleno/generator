@@ -1,0 +1,1 @@
+program Z : U : takes dD7, a, k1H : boolean; N4J0a : boolean array returns nothing chillax end main : NOra : boolean array; a4, A60 : boolean array; while - not(44) = false + nK6a and 1 + 9 - 6 : let C18 = array - 1 end end

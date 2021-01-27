@@ -1,0 +1,1 @@
+program Fn : o0v0a : takes X, Z : integer array returns boolean when case true + 73 : let usNa = array 4 end case - 805 - 0 < 62 : chillax end case 026 : when case 05 : chillax end; pop end otherwise : chillax end end L : takes l, kIA, EKka : boolean array returns integer gl, Ut7, iH, d1 : boolean; chillax end main : ln : integer; Y, zN60, q96 : integer; chillax end

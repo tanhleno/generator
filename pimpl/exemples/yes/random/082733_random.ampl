@@ -1,0 +1,1 @@
+program L3 : main : P : boolean array; when case N(524) rem(81) < - L6[8] : when case 8 : pop; pop; pop end case 9 = 68700 : input D; pop end otherwise : chillax end; while 919 : chillax end end; do X9Eaa(- not not 82 rem 1 and 8 < not 4 and 42) end

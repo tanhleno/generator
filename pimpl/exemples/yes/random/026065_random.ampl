@@ -1,0 +1,1 @@
+program E : r : takes A5, smV : integer; H : boolean; d3 : boolean; va : integer returns nothing when case - W and 17 or 3 - 71100 <= 02 : chillax end otherwise : chillax end end main : sw : integer; chillax end

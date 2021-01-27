@@ -1,0 +1,1 @@
+program w_ : N28aa : takes R : integer returns nothing fwvaa : boolean array; chillax end F8F : takes zYD, C : boolean array returns boolean chillax end lL9 : takes x56 : integer array; H, b, t6, a : boolean array returns boolean do m0(83 = 7, 2); input k end main : let W = array true; let mGp0 = false and 57 + 884 /= 8 - 13 end

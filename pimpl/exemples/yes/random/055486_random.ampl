@@ -1,0 +1,1 @@
+program A74 : W4 : takes q2Y : integer array; C : boolean; m, p, M1 : boolean; u8 : integer; d6, D6 : integer array; E58 : boolean array; Rq : boolean; F : boolean returns nothing pop 8 end main : let m89 = array - not false + HJ_ / N27 + (87600) or 3; output false and 7 + 8; let W = 68000 - 7 >= 3170 end

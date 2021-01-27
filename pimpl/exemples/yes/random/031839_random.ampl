@@ -1,0 +1,1 @@
+program u09 : _ : takes pjR0, W : integer returns integer array zm3a : boolean array; when case false : output 49; when case 4 : chillax end; output "" end; while 04 - 97700 > 9 : chillax end end main : chillax end

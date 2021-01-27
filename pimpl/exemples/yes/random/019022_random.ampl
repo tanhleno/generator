@@ -1,0 +1,1 @@
+program b980a : m : takes U, Ju : boolean array; f, f, tH : integer array; G8, L : boolean; a7, E, V, U : integer returns boolean Tv, z : integer array; q, z, j69aa, S : boolean; L1 : boolean; let lY[- not 161] = array 5 and 22400 - 87; do B(- 16 /= 6) end main : chillax end

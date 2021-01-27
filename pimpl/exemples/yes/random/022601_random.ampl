@@ -1,0 +1,1 @@
+program Z : s : takes d, D : boolean array returns nothing h : integer array; g : integer array; J, s0s, T : integer; chillax end main : while true - y8B0a >= - (45) rem true + false and 57600 or 7 - 5 : chillax end end

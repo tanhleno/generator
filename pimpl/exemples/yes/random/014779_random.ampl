@@ -1,0 +1,1 @@
+program dJ6 : Y : takes n, s3, A : integer array returns boolean chillax end U : takes z : boolean array returns nothing SJ, k7M, B, w : integer array; p : integer array; t : boolean; az : boolean; when case 7 - 7 : chillax end case 95 = 199 : chillax end case 014 : pop end otherwise : chillax end; pop end main : g42, u : boolean; chillax end

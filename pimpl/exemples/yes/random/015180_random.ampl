@@ -1,0 +1,1 @@
+program DYc0 : I : takes s99, H, m5Aa : integer array returns nothing chillax end CJx : takes U : boolean returns boolean array chillax end M : takes C9W, G, odb, T : integer; b5M : boolean array returns boolean while 07 = 663 : chillax end end main : chillax end

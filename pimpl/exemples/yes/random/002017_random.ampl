@@ -1,0 +1,1 @@
+program ulIa : j : takes Q34a, h, U, B8, d, N : integer returns integer array U6T0, ag, yEk0a : integer; let W1[false] = array(2) and 45 end main : j, L : integer array; Rx1, uy00 : boolean array; W : integer; kq : boolean; chillax end

@@ -1,0 +1,1 @@
+program rI : e6g : takes U : integer array returns boolean array gUlaa : integer; while(8970) and 21 or 07 - 1 <= 1 : output "\"" . ""; do j0ca(114); input Y end end t85aa : takes _4, q : boolean array returns integer let B8u[20000 - 6670] = 8 end main : ouj : integer; Pk : integer; chillax end

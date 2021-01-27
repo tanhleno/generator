@@ -1,0 +1,1 @@
+program LZ : _Rza : takes V3V0a, G, e, qA : boolean; W, HE : boolean; T, R, A6, wxgaa : boolean; A, R : boolean; V09, P3 : integer array; k, ta : integer array; e, C2 : boolean returns nothing chillax end main : r : integer; D, f8, Di, C, V2, Lw60a : boolean; input n; while - not not 751 and not 8 or(21500) /= not 7 and 1 : chillax end end

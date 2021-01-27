@@ -1,0 +1,1 @@
+program e : main : eG, i2 : integer array; wl, G47a : integer array; output true - true and 6; while - not not 91 - not 2 : when case 7 : chillax end case 45600 : chillax end; while 77 : chillax end; when case 76 : chillax end; input oHV end; do L(true + 19 - 0) end

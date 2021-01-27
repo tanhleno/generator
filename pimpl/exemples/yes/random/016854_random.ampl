@@ -1,0 +1,1 @@
+program a71a : g : takes XM, hU : boolean; R, FWW, y, z : integer array returns boolean array E : integer; kO : boolean array; chillax end main : P1S : boolean array; h : integer array; g, N, R, W : integer array; chillax end

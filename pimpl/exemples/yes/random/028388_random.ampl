@@ -1,0 +1,1 @@
+program H4 : Zn4 : takes Z, o : integer array; f : boolean array returns boolean input v[- 36 and 6090 + 68]; while - 7 - 936 >= 5 : input v63 end end v : takes f, b, VxR, M8f, l : integer; ND, b : integer returns nothing chillax end main : chillax end

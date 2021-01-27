@@ -1,0 +1,1 @@
+program a1_aa : Y : takes M, qP, a, UF2 : integer array returns nothing l8 : integer; I5Z0a : boolean; L : boolean array; r1d, AW : boolean; input f[88 and 407]; do dr30(- 5 - 1 < 2, 1 = 1, 1370) end main : Z, b : boolean; chillax end

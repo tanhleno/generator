@@ -1,0 +1,1 @@
+program U : I : takes s3Daa, T, Fr, Z4, zO9, e, WB6, G : integer; wb, L7n : integer array; t, q, x, u : boolean; q, Bol0a : boolean returns boolean array Bx : integer; f, Pc : boolean array; t93, c8 : boolean array; chillax end main : LWq0a : boolean array; output "" end

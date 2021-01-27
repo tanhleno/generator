@@ -1,0 +1,1 @@
+program ViB0a : p4 : takes x : integer returns boolean chillax end n : takes H, H : boolean array; fO, c, g, yvg0 : integer returns nothing D, v1I, d0 : integer; p3 : integer; input q end main : ql8aa, d : boolean; pop; pop end

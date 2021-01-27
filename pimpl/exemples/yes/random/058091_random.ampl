@@ -1,0 +1,1 @@
+program E : kz2 : takes z : integer array returns boolean chillax end K : takes GM7 : integer returns nothing C, O630 : boolean; input I end main : O770, n58aa, g, j : integer array; when case(79700 = 7) or 4 or(735) and 7 - 3 >= not 2 * 4 and 9 + t5r0 and 2 : chillax end case true < true + 219 - 0 : chillax end otherwise : chillax end; let y7[- 72] = array - false or sw + 59 end

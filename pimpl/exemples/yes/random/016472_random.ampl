@@ -1,0 +1,1 @@
+program cj : z3 : takes kwy0a, e1, D : integer returns nothing Pf : integer; while - true and 7 - 27 : while 47 : chillax end end; when case - 17 - 27 : input s end end main : x, u, s7 : integer; when case - false * false and not 7 > - false / not 2 and 4 : chillax end; input pf4[- true] end

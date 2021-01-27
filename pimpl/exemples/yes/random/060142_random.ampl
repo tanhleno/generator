@@ -1,0 +1,1 @@
+program C : L : takes W3 : integer array returns nothing do e(- 33 and 75, 1) end main : do e(- 9 - not(6), jR[000] rem 3 + false and 795 or 4 /= false and 9100); do L(- P[1] * false); pop - 2 - 53 > 6; when case - 98 - 8 = 01 : input Q; input W end otherwise : let hL7 = 8 end end

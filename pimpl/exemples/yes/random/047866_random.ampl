@@ -1,0 +1,1 @@
+program s : x41 : takes h8 : boolean returns nothing VN, Y1, r, B7Y, qY : boolean; k : integer array; when case - true or 1 - 7 <= - 7 - 20 : chillax end end F : takes O1, m, j, F, t3u : integer array; M : integer array returns boolean array O, E, m2, Sv : integer; chillax end main : pop; let rv[not 67] = array - false - false and 5 end

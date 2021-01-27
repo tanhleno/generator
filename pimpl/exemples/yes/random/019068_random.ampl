@@ -1,0 +1,1 @@
+program Fr : X : takes BO, Z : boolean array; VD, X3, F : integer array returns integer array Yme0a : boolean; g_9 : boolean; k : integer array; x, x : boolean; do F_(- not 6 or 851 - 5, 5 - 30 >= 3) end F5 : takes d9yaa : boolean array returns nothing chillax end main : input f23; when case - not not 7 : chillax end; output - 1; while - 8 - 29700 : chillax end end

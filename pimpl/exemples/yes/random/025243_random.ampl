@@ -1,0 +1,1 @@
+program n : NXm : takes D, K : integer; S8v, O, _ : boolean array returns nothing do l0m(_ and 83) end main : let G = 7 - true or 6 /= false and 9 or 05; output "" . "\nN" . ""; do OR(- false + 73 <= - 766 - 85600) end

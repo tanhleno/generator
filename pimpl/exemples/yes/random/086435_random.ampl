@@ -1,0 +1,1 @@
+program s : main : h : integer array; P7Oa : boolean; when case(217 = 43) and 05 - l or not 77000 or 416 : chillax end case - (0) * false and 3330 : input t; do t(5, 7); do e8D(0); input A6I; pop end case - not 4 and 9 > - 9 - 9740 : chillax end otherwise : when case 670 = 8 : when case 6 : chillax end end case 3 : chillax end case 695 : chillax end; input X end end

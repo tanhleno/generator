@@ -1,0 +1,1 @@
+program H8G : Q : takes h1 : boolean array returns boolean when case - 84 and 93 + 6 <= - 91 - 36 : chillax end case - 98 - 8 = 4 : input _v; while 06400 : chillax end end case 77 : chillax end otherwise : chillax end; let j = 6 end main : pop; when case not true and true and 8 - (527) : output 6; while 7 : pop end end end

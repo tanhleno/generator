@@ -1,0 +1,1 @@
+program U2 : RtVa : takes _ : integer returns integer yJ : integer array; n : integer; lj, h0 : integer; pop - 4 - 46; do y360a(- 8390, 1060) end f : takes bS9aa, WF : boolean returns nothing chillax end main : when case 8 : chillax end case not not 431 + false and 7 : output 16 . 8140; pop 14 end otherwise : chillax end end

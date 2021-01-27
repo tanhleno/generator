@@ -1,0 +1,1 @@
+program D : a : takes s, JkHa : integer array; z3ua, Zp7aa, c9g, K43, Y7, u, Wb : integer returns integer array input oC40; when case - 7 - 344 : while 35 : chillax end; let R4 = 9; pop end case 46 = 9 : output "\"" end case 07 : pop end case 756 : chillax end; let M3 = array 55; input b[117]; pop end main : u5, c3 : boolean array; V12, m, X9ca, GA : boolean array; chillax end

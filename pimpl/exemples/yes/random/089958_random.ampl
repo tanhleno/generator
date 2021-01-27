@@ -1,0 +1,1 @@
+program n : main : let c670a = array - not 3 / 534 and(0); when case - true and lj0 or true : input S08; do txF(0); pop; when case 9 : chillax end; pop end case - 50 - 2150 - 1 : chillax end case - 0030 - 25 <= 272 : while 8 : chillax end end case 11 = 0020 : chillax end end

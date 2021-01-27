@@ -1,0 +1,1 @@
+program Q : x : takes v : boolean array; Ss, B, L, gPg0a, t : integer array; c : boolean array; ej2 : integer array returns boolean do N(true and 96, 6210 - 57, 26); pop 35500; when case 8050 : chillax end case 0 : pop end end main : K, g, Lb, fpu0 : integer; input D end

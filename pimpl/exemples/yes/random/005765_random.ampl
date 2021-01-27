@@ -1,0 +1,1 @@
+program q : y100a : takes D5, D, x0aa, e9d : boolean array returns nothing when case - (3) + 2 - 7250 : chillax end case - 1 - 41 < 8 : chillax end otherwise : chillax end; while 4 - 26 /= 9 : pop; when case 142 : chillax end end end main : cJMaa : boolean; chillax end

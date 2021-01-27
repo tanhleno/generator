@@ -1,0 +1,1 @@
+program P : szH : takes vZ50, Ou, z, K3 : boolean; K : boolean array returns boolean array Zl3, y, U, D, to : integer; gE : boolean; H, cL6aa : boolean; H, h : boolean; pop 4 - 131 > 81200; while 0 - 7 /= 0 : input W; when case 7 : chillax end; pop end end main : C, G, r : integer; z : boolean array; chillax end

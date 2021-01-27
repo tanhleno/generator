@@ -1,0 +1,1 @@
+program Y : x : takes t, YV, S : boolean returns boolean array K, L08aa : integer array; input yh[- (46) and 1]; output "" . 16; input zo9; input a0ua; when case 1 : chillax end; while 0 : chillax end; pop end main : chillax end

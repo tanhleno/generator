@@ -1,0 +1,1 @@
+program G : m5 : takes q2 : integer; D8, X, d6 : boolean array returns nothing input Z7; let U = 32200 = 00; input Ej4[09]; output 821; pop; input K; pop end k750a : takes t : boolean array; t : boolean array returns integer array chillax end main : chillax end

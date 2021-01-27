@@ -1,0 +1,1 @@
+program m : main : when case - not(81) and true - j1Ba[164] * true : when case - 9 - 4470 : do sx(77600) end otherwise : chillax end; pop 8; let m[6] = array 74900 end otherwise : input m02 end; when case true + Mi : chillax end otherwise : when case 626 : pop end case 0 : chillax end otherwise : chillax end end end

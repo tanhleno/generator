@@ -1,0 +1,1 @@
+program UE : Z : takes YpXaa : integer; ww, R3, h : integer returns boolean chillax end a : takes G, E, pU, Lxc : integer returns boolean array pop; while 2 : chillax end; pop 69500 end d : takes g : integer array returns boolean array j, c7, z : boolean array; V : boolean; w : boolean; do B1Waa(3 = 334); output 0 end main : chillax end

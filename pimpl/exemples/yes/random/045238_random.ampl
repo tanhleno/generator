@@ -1,0 +1,1 @@
+program xX6 : i : takes uRZ0 : boolean array returns nothing when case - 3 + 1 > - 90000 - 1 : chillax end otherwise : chillax end; do u(1 - 818 = 87, 4 = 2); while 6 = 6 : chillax end; input E[88] end main : i48 : boolean; chillax end

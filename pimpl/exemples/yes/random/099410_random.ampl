@@ -1,0 +1,1 @@
+program V : main : while kv rem false : input nuH0a[7 - 6]; when case 2 = 273 : chillax end end; input p[not R8 * false and 79 or(07) and 3 or 9 - 2]; input D8Z0a[not 6900 and 0]; while - 181 > 12 : while 70 : chillax end end; input W4[38] end

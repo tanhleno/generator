@@ -1,0 +1,1 @@
+program w8 : Y3 : takes f720 : boolean; i, l, I : boolean array returns boolean nQ : boolean array; j, z1, P, duC : boolean array; a : boolean; chillax end e : takes ZM, y, Pt : integer array; t : integer array; Yz8, by : boolean array; t, V : boolean returns nothing pop end main : chillax end

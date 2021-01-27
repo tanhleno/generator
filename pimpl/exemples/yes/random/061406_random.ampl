@@ -1,0 +1,1 @@
+program v : S2D : takes B : integer array returns nothing output "\""; input d[4]; let fm5aa[1] = array 8 end P2 : takes w : boolean array; u : integer array returns nothing to, y : integer array; input J74; let F1D[68] = 77 end main : c9, r98, F8, l : boolean array; chillax end

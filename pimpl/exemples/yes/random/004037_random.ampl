@@ -1,0 +1,1 @@
+program P4 : u8 : takes s5, I, l59a, N9, K : integer returns integer d2 : boolean array; t5, TR : integer; chillax end P : takes L, p : boolean; qb, R1e0a : integer array returns nothing j, N : integer; chillax end main : h, kk, SV0 : boolean array; input MQ2[- pYs0 * 3 or X9N[23] * false and 0] end

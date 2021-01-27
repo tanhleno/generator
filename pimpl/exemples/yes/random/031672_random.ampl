@@ -1,0 +1,1 @@
+program G : ho : takes Z, j2B0 : integer returns boolean when case - false and 97 : chillax end case - 51 - 0 <= 5 : do veka(002) end case 8 : chillax end case 62 : chillax end otherwise : pop; let s = 872; pop end end main : s, t0Y0, l, S, eD80, BL40, Y : integer; chillax end

@@ -1,0 +1,1 @@
+program q1ba : main : do o5V(not(1) or(2) or m > - false + i8 + 94000); let v2[T(443) * false and 50 - true - 561] = true - 9 - 29 <= 490; output - 03 - 88300; input O; when case 515 = 04 : while 5 : chillax end end case 083 : pop end case 22 : chillax end otherwise : pop end end

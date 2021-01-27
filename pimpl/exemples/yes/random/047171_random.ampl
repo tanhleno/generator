@@ -1,0 +1,1 @@
+program e290 : E8 : takes X : boolean returns integer M : boolean array; do Q(- X and 66 - 1 >= - 52400, - 9 < 156) end kk : takes Y6z, Z, Ex, r9L, I, g : boolean returns nothing output "L" . 6 . 4 end EO : takes T : integer returns nothing chillax end main : x43a, zg00a : integer; a4W0a, rm1aa, x1, x, Di, r : integer array; l : boolean; chillax end

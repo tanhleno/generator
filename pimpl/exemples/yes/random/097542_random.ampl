@@ -1,0 +1,1 @@
+program V : main : when case true * 8 and true /= not 2 : do P(- 1 = 1, 921 = 6, 6, 3) end case true + (6) + 55 : while 723 = 7 : chillax end; when case 0340 : chillax end case 24400 : chillax end otherwise : chillax end end case - 73 < - 62 : input J[104] end otherwise : chillax end end

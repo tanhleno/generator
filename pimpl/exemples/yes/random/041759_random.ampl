@@ -1,0 +1,1 @@
+program Y : I : takes F3J : boolean array returns boolean array e4 : integer; h : integer; zc, _, sk : boolean; chillax end Ah : takes m, u2, P3, j : integer array; c7 : integer array; _ : integer array returns integer array while 49 - 423 : input Rj60 end; pop end main : h2A0a, R : integer array; when case not t : chillax end end

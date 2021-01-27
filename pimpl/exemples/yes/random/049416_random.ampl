@@ -1,0 +1,1 @@
+program BL : _ : takes m : integer; sH5, Z58, Itq0a, yM, f : boolean array returns integer G : integer array; chillax end main : A, sY0a : boolean; Ty90, s, w : integer array; t : boolean; while 38 rem 143 and true >= true rem C or hD and 42 + 97 : chillax end; while - true /= - not 4 and 130 or 03 : do h(5) end; pop 6 - 09000 end

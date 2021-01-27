@@ -1,0 +1,1 @@
+program zz : T : takes v : integer; x, B, b3 : boolean; j, E : boolean array returns nothing input _0[- not 7] end main : P4g0, n : integer array; yx, NnI0a, _6F, C1 : boolean; _6 : boolean array; while - true : pop; do OTo0(6 = 14, 21); input z[681] end; do N(- true = - false - 89 - 1); while(110) and 30000 >= - 730 - 6 : chillax end; do zy(8270 >= 5) end

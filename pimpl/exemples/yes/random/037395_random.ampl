@@ -1,0 +1,1 @@
+program Azra : uM : takes T1 : boolean; q : integer returns nothing rt : boolean array; dW80 : boolean; pop - 0 - 7; pop end main : s : boolean array; output - 7 < (66) . "" . "" . 40; while - 97 + not 7 : chillax end; while false and 2 - 7 - 7 = - 1 - 303 : output 4 . "(" end; pop 8 = 717 end

@@ -1,0 +1,1 @@
+program NZL : P : takes W6C : boolean array; q, f, h6z, s : integer array; r36aa, yV, G, Eo, Ld : integer; s, tk, Q, j3 : integer returns nothing chillax end main : pS, WAXa, l : boolean array; chillax end

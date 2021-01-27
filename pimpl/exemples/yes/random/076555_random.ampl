@@ -1,0 +1,1 @@
+program p : main : K, H : integer; en : integer array; Z : integer; when case - false = true and 35 : when case - 57 = 52 : chillax end otherwise : output "n/0a" end end case not false : chillax end; let F = array 28 or 6; do U5(- not 8 and 08400 = - 472 - 7840); output 5030 = 99 . 06 . 325 . ""; do z(33, 2) end

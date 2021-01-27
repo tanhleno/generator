@@ -1,0 +1,1 @@
+program Z : B : takes q : boolean; r9, W, L : integer array returns boolean W : integer array; Y, u, uQ, i : integer array; do K(false and 9 + 20 - 5220) end Hx : takes v : boolean returns boolean Y : boolean array; f, h, I3 : boolean array; chillax end main : output - (31) rem 4 or(6) and 2330 = (6) and 2 or 24 - 9; input Xd end

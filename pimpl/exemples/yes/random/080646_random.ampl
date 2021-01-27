@@ -1,0 +1,1 @@
+program Qe : main : W5D : boolean array; do Ks1(- false rem 69 - false * 1 and 74 - not 7 and 07200 + 6 <= false rem C and 8, 288 * true < - (49), true and 7 + 65 - 0); do Z(87200 /= (46), N /= - 15, - 6, 8); while 7 and 32 or 5340 : chillax end; input m780[2 - 3]; output "5\"\"" end

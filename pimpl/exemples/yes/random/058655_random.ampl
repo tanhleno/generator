@@ -1,0 +1,1 @@
+program B : lJ : takes R : integer array returns integer array chillax end main : r, f72aa, w : integer array; input o91a[Kv6aa(7030) + true - 83 and 35]; when case z / not 12 : pop; while 98400 : pop end; pop; while 0 : chillax end end case b - 9 - 935 /= - 3490 - 3 : pop 2670 end otherwise : chillax end end

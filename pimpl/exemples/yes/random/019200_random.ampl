@@ -1,0 +1,1 @@
+program x8 : d7 : takes U, N : boolean array; xU, P : boolean array; qP1, q : integer array; d : boolean; c, JR, x : integer returns integer array do md(- not 45100 and 912 <= - 7 - 4790, 8) end main : input u end

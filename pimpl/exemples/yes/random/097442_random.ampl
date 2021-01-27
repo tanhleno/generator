@@ -1,0 +1,1 @@
+program Tk1 : main : when case 2 < - X0 and 060 : chillax end case 3340 / false or true <= - c8w and 3 : when case 264 : let Zh40a = 6; pop end case 6 : chillax end; pop 4290; input H; let ts = 07; pop end otherwise : pop 2 end; while false + (798) or 8 < - IJX + 0 - 2 : input d[1] end; do N9u(false and 4 + 2, 8 - 8 < 48) end

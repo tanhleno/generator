@@ -1,0 +1,1 @@
+program efE : main : Q22, E2 : integer; f : boolean array; let pi8aa = not false or false and 702 or 7 - 81; pop true and 335 or 3570 >= - 329; when case true < 8 : do T(28) end otherwise : let J = 1; while 52 : chillax end; pop end; do G(4 - 1); let p3T0 = array 7 end

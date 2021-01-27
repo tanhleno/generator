@@ -1,0 +1,1 @@
+program r9 : O29 : takes Hjn : boolean array returns nothing l : integer; c : boolean array; let Hfc = 3 - 5; when case - 0 >= 5 : chillax end otherwise : chillax end; input G6; while 59800 : chillax end end main : K : integer array; D : integer; chillax end

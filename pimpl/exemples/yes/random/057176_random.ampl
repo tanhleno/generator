@@ -1,0 +1,1 @@
+program j : k48 : takes I6 : integer array; i4 : integer array returns integer JQT0, Qb, n74 : boolean array; _3 : integer array; output - 4 - 02 . "-" end main : pop - not(1) rem(20) <= - true and 1 end

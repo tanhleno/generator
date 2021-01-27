@@ -1,0 +1,1 @@
+program fHV : CzY : takes p : boolean array returns integer array chillax end s : takes m, t, Y8 : boolean; L : integer; n : integer array; K, o, Tjta : integer returns integer array B : integer; pop 2870; do B(2 = 2, 9) end main : let z9 = - H * x9; when case 53 + S and 2 /= - true and 7 or 2 : do g(45 = 0) end end

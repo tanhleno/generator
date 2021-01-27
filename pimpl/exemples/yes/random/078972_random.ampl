@@ -1,0 +1,1 @@
+program v : main : H : boolean; S38, YV : integer; u9, LhY, NcA, GV4 : boolean; n55, aC, R : integer array; while - not X5(9) + (0) * 7 - (0) or 17 : pop 6 = 23 end; pop true and 0 + 361 - 30 >= - 26 - 26; let Cvzaa = array false or 0 - 3040 end

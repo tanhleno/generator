@@ -1,0 +1,1 @@
+program wO3 : oP3 : takes G, m0 : integer; eI, Y : boolean returns boolean pop; when case 56 = 4 : chillax end case 2 : do P6q0a(5) end case 0 : pop end case 49900 : chillax end otherwise : chillax end end d : takes s2 : integer; z : integer array returns boolean let K = array 18 end main : chillax end

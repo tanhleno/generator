@@ -1,0 +1,1 @@
+program __X : D : takes c, s, op4 : integer; i, n390 : boolean array; dA, lSna, pj, lG, U : boolean; J, M, v, Gh3, k : integer; h : boolean returns nothing chillax end main : do u5(- (4) /= - true - not 36 + 51, 292 * true <= (44400) and 0 - 7 - 3, - true + 854 - 795, - 5 - 8 > 220, 83 = 5, 4) end

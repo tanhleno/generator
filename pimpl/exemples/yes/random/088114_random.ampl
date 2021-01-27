@@ -1,0 +1,1 @@
+program q28a : main : input p5Z; when case(74200) * (9) and 3 + true + 52500 - 8 : output 5 end case(47) or 6 - 22100 : while 73 : pop end; when case 400 : chillax end end case - 2 - 84 : output "\""; output "\"$" end otherwise : input h2 end; output "" end

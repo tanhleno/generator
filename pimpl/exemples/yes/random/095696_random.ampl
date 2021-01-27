@@ -1,0 +1,1 @@
+program i : main : when case - (9 = 3890) : chillax end case false > not 7 : chillax end; do G8(false / (45) and 96800, - (4), 2 - 69 < 5); input J59aa[false and 4]; when case - 2 = 66 : chillax end end

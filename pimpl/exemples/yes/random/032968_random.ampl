@@ -1,0 +1,1 @@
+program j : mr : takes q, P : integer returns nothing eA8a : integer array; while true = 90000 - 2 : when case 9 : pop end case 7 : chillax end end; pop 824 = 38 end U : takes s6 : boolean array returns boolean chillax end main : u : integer array; wG3, _, Q : integer; while - false : chillax end end

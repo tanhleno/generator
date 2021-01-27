@@ -1,0 +1,1 @@
+program fM : main : m, M6, o : integer array; w : integer array; c3O0, _W : integer; u4W, m : integer array; In, X8 : boolean; while - 3 and not 9 > true rem 3 : pop 532 = 2; while 5 : input J; pop end end; input f; do N(not 59 and 553 or 2 <= 3 - 02) end

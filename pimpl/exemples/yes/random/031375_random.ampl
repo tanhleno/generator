@@ -1,0 +1,1 @@
+program q0J : i3 : takes z, U : integer returns boolean array input D89[- 3 + 9] end l : takes H, tiO, zQ, hDY, wm, o69 : boolean returns integer input D; pop; output "i0" . ""; while 0 : chillax end; pop end main : t2o, K : integer; chillax end

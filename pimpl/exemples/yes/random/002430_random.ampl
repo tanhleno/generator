@@ -1,0 +1,1 @@
+program HA1a : v48 : takes a, X, o2, c, I1 : boolean array; bny, s8 : boolean; xu90a, n6, Z6, J720 : boolean; Fi : integer array returns boolean output "5%\"a" . 0 = 63 . "" . "\t/\"a" end main : chillax end

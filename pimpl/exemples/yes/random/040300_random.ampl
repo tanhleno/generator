@@ -1,0 +1,1 @@
+program Aq : k : takes it : boolean array; a : boolean returns integer array do w(- false and 54 > - 711 - 3, 70) end c : takes d : boolean array returns nothing A5M, P8P, MP, Z : boolean array; output "+" . "" . 479 end main : HV, Z : integer; chillax end

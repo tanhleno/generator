@@ -1,0 +1,1 @@
+program i : main : while - true : input bz[0] end; let s[true and(9)] = - false and 8; when case true and 920 or 6 - 1 : do y(5, 7); do b(36); do W03(57); pop end case 9 - 04200 : do fe(1); let F = 73100 end case 4 = 4 : pop end otherwise : input Rh8 end end

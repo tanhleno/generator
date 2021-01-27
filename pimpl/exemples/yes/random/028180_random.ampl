@@ -1,0 +1,1 @@
+program lF8a : fW : takes C, ix : integer array; u : boolean; w : boolean array returns integer T5 : boolean; m5 : integer; chillax end main : when case - O - false : chillax end case - not U or true >= ty9 and 9 + 5 - 2 : chillax end; while T / true or true + 56 > false and 785 - 374 : chillax end; do uj5(y and 2 + 723) end

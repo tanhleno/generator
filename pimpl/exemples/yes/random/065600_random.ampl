@@ -1,0 +1,1 @@
+program RV : main : do I((3)); do _08(- true * g - 8 and 8, true and 24 = - 5 - 434); when case v and 21 or 61 - 885 : while 60 : chillax end end; when case - 64 < 282 : output "" end otherwise : chillax end end

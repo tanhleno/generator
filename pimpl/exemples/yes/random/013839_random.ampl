@@ -1,0 +1,1 @@
+program p : k : takes gC, v800a, J : integer array; K40, oVB, J : integer array; CC : integer returns integer array chillax end S3n : takes aH : integer; zJ : integer array; k8, M : integer array; w, LAm0a : integer array; y : boolean; Q : boolean; PJ40a : boolean; b50 : boolean returns nothing when case - 4 : while 45 : chillax end end end main : chillax end

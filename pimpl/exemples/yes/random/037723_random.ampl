@@ -1,0 +1,1 @@
+program z190a : ph0 : takes X4N : boolean array; eu8aa, efn, j, AJ : boolean; C : integer array; D : integer array returns boolean array pH, o : integer array; chillax end main : pop J[9] * false and 3; pop end

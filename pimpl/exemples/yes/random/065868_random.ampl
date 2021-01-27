@@ -1,0 +1,1 @@
+program k99 : main : do NX(- (69) and(54) - (4) / 49 + L, (7) rem true and 4 or(36)); do ib90a(- b[05], true and 74800 or 78500 - 1 > - 80); when case true + 5 - 133 : chillax end otherwise : do v(94); while 4 : chillax end; pop end end

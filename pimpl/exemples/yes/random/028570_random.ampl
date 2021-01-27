@@ -1,0 +1,1 @@
+program E : B7 : takes Wg7aa, Uv : integer array; X8t : boolean returns nothing chillax end main : do mIq(Cj[8] / not not 8 / not 753 - false * (2) - not 0 and 2 + 90); while 87 / l or 54 and 109 + 9 : do kp(5 = 8) end; pop; do u1(- 71 = 309) end

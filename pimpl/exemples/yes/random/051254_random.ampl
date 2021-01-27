@@ -1,0 +1,1 @@
+program C4O : Jn1 : takes k3 : integer; B, A : integer returns nothing do _(not 4 or 3) end L : takes w, k : integer; sY60a, a, w6g, Wi : integer; Xk70, q : integer array; N8aaa : integer; C, GB, OW2aa : boolean returns integer array I : boolean; chillax end main : g0 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program t : z9r : takes q : boolean array; H8P : integer array returns integer chillax end i : takes m5z, o, w : integer array; d35, n, A, f3q, w, U0 : boolean returns boolean while - 4 : let i6Ua = 41 end; pop end main : while 4 * (7) or xV[4] rem(1) + (1) >= true / (8) and 152 : let O = array 525; input L end end

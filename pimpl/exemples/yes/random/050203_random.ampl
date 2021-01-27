@@ -1,0 +1,1 @@
+program n : fgiaa : takes N : integer; r7, x, C : integer returns boolean array w, M, K, i, h40aa : integer; M, a2, x, Z : boolean; input k; while 77 < 7460 : chillax end end main : k, b : boolean; lX3 : integer array; Cg : boolean array; g, T, ky8, nv : integer array; s : boolean array; o12 : boolean; chillax end

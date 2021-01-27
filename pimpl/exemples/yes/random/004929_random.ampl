@@ -1,0 +1,1 @@
+program j : p : takes V, G, w, x : boolean array; xH, N : integer; ac0, G : integer; Yj, tKvaa, uN, A : integer array; lv : boolean array returns nothing chillax end main : Y : integer; while - not false * 8 /= i(59200) : chillax end end

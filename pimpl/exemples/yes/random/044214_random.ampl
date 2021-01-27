@@ -1,0 +1,1 @@
+program Et : i : takes k1 : boolean array returns nothing Q7, Z5o0 : boolean; input dHD[MKO - 8190] end k : takes d1 : boolean array returns integer output "" . 5 . 3 . ""; input a[201]; let C1 = 78 end Ay : takes e : integer array; T, o, l : boolean returns nothing fJ : integer; _16aa, SYc0 : boolean; chillax end main : chillax end

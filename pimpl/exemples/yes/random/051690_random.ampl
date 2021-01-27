@@ -1,0 +1,1 @@
+program RO : L : takes y3 : integer; P : boolean array; X, V : integer; O : integer returns integer array input m[(7)]; output "^" end main : o : boolean array; do K4(- true + 46 > - VV); output - not 91 or 1 > - 802 - 25 end

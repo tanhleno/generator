@@ -1,0 +1,1 @@
+program Cb : W9 : takes _t, _ : boolean array; r2, M26, tN : boolean; bJ, z, Q, y, H : integer array; J6 : integer array returns integer I, q : boolean; while - true - 12 : output 2 end; output 1 = 565; let z[0] = 5150; when case 648 : chillax end case 1 : chillax end end main : let a1[(2)] = - (1); do cP(- not true or not 4 and 9 - 19 - 9, 0910 /= - 46, - 57); let Q = 536 end

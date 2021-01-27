@@ -1,0 +1,1 @@
+program G : n : takes h, V, H220a : integer; m, _4a, s, C, aF : boolean; V, Msu : integer array returns nothing u8 : integer; let N18a[- false and 20 - 89 - 2590] = array - D and 3 or 79300; while - 2 = 3 : while 4 : chillax end end end main : chillax end

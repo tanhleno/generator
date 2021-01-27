@@ -1,0 +1,1 @@
+program _3Gaa : h : takes l, R, Q, F : integer; ca10a, z : boolean; b99, D3 : boolean array returns nothing lxX : boolean array; qT70 : integer; P, IM7a : boolean; D : boolean; A : boolean; chillax end main : chillax end

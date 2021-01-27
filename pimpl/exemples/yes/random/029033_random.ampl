@@ -1,0 +1,1 @@
+program f6 : sw : takes D, B : integer array; P : integer array returns nothing M : integer array; chillax end main : wJF0a : integer; N, E5, K, V7taa : boolean; do _((4 = 3) * true rem false and 9 - h(6) + E) end

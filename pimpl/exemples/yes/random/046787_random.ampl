@@ -1,0 +1,1 @@
+program r : NM2 : takes K2 : boolean returns integer array input E0 end UG1 : takes ti3, aR3, OV, DC30a : integer array returns integer chillax end bd : takes k : boolean array returns integer array do b(7 = 4, 0) end main : vhuaa, m2, hIXa, Z : boolean array; w, F9Maa : boolean array; chillax end

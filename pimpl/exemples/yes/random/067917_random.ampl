@@ -1,0 +1,1 @@
+program B47aa : main : do f(true rem false and true /= not n and not 7 and 1400 + true and 5 or 71 - 1, true or true and 9 < not 3 and 0); while 56 * true : input Y[2] end; output 1 - 44 . 4; when case 04000 - 1 : chillax end otherwise : pop end end

@@ -1,0 +1,1 @@
+program D : main : D, L40a, p : integer; p, p, i, o, l, KW : integer; while c(3) and not not 1 rem false and 54 : while 1 - 801 : chillax end; do F6(2 = 26, 8) end; while oMO rem not 41900 - true : chillax end; while - 86 : chillax end end

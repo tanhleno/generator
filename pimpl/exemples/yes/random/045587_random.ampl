@@ -1,0 +1,1 @@
+program yw5 : J : takes V : boolean returns boolean array i, j, d : integer array; l5 : integer array; d, E : boolean; chillax end V : takes N970 : integer returns nothing aG : integer; pop 36 end main : Z, W, EX, G95 : boolean array; while xwBaa / not not 135 / false and 028 or 97 * 58 and 68800 : output 01 = 5 . 3 end end

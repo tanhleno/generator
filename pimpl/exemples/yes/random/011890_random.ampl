@@ -1,0 +1,1 @@
+program P : H : takes Trt, Md, g20 : boolean returns integer chillax end q69 : takes c1S : boolean array returns nothing let I = array 95900; when case 54 = 3 : when case 641 : chillax end end case 9 : chillax end otherwise : pop end; when case 27 : pop end case 94 : chillax end otherwise : chillax end; let b = 4; output "" end main : chillax end

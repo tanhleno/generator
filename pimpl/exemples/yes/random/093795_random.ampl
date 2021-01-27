@@ -1,0 +1,1 @@
+program xYz : main : pop - (6) / 2 /= 65 - 359 - 4; when case l5[36] : pop 28200 end case - false + 7 : input g04[5]; while 76 : chillax end end case - 2 - 5 : chillax end otherwise : chillax end end

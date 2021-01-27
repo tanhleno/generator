@@ -1,0 +1,1 @@
+program B : U : takes D, CH1aa, e, r : boolean array returns boolean Q4, E, s : integer; let n0[- not 3 and 709 or 07 - 4] = array false or 0 - 876 end qy6a : takes g2, e : integer returns boolean Q : boolean array; chillax end I0 : takes U : boolean array; O : integer array returns nothing pop; do o(4); let U9P = 46; when case 1030 : chillax end; pop end main : input s1 end

@@ -1,0 +1,1 @@
+program kHBaa : t : takes b, dXxaa : boolean; k, kaZ : integer array returns boolean array do rw(- (74), 37 - 8, 007 = 1); let kK = 5 = 26 end main : Iyg, hl50a : integer; input A730a; output(7) <= 04; do wXiaa(- (81) >= 9 - 0, 8, 167) end

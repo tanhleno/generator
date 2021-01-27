@@ -1,0 +1,1 @@
+program d : main : rN3, g : integer array; when case(94 = 9) and 30 and 81 : input I6; input Ft end; input tro[- not(36200) - 2]; while - not 0 and 2 or 8 <= - 5 : do S(574, 54); pop end; when case - 76 : chillax end; pop end

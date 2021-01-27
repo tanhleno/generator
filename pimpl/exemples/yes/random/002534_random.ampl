@@ -1,0 +1,1 @@
+program M : G : takes C13a, Q, R9, h, n : boolean array; c7Raa : boolean array; w : boolean returns integer array do l(- 689 and 46 - 75 - 7, 626 - 8 > 64); do M(- 2 < 0) end main : M3, S2h, g : integer; input DT end

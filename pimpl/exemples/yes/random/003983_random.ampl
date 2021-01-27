@@ -1,0 +1,1 @@
+program _ : k3 : takes PC6, Gruaa, x, h0, q09 : integer returns integer array chillax end a7F : takes O, p : integer array returns integer array let L8 = 4 end main : when case 23 < true : when case - 948 : pop end; output "\",\"a" end case - false / false and 4 = true : chillax end otherwise : output "" . 75 . "7-!"; let X[7] = 4; when case 53100 : chillax end end end

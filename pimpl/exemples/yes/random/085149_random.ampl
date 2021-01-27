@@ -1,0 +1,1 @@
+program s : main : UH : integer; when case - W[2] rem true * false and 29000 or true / not 372 : while - 768 - 5 /= 51 : chillax end; pop 28; do D3(93, 6); when case 2 : chillax end; when case 7 : chillax end end end

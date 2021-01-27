@@ -1,0 +1,1 @@
+program P6 : fp : takes qrN, r : boolean array returns integer T : integer; chillax end NV : takes Rz5 : boolean returns integer array Y : boolean array; chillax end main : V : integer; while not J * (237) rem 57 and 6 - h2G(716) / true < - J[5] and 0 or not 5 and 2 + 7 : input G; input ED30a[9]; pop end end

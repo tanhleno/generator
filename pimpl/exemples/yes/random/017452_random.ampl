@@ -1,0 +1,1 @@
+program sY70a : j : takes KY, C : boolean; yI00, Q : integer array; G78, j8s : integer returns nothing D3, E7 : boolean; chillax end main : do K(2 /= - false rem true and 6, true rem(10) and 2 >= - false - 84 - 638, - not 1 and 50 /= - 67, - 1760 - 21800 > 6) end

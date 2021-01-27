@@ -1,0 +1,1 @@
+program Bh : U : takes Gnn, n, TG, AO, Pz : integer; R98, e : integer array returns nothing s, B : integer; when case false and 7200 - 8 : chillax end case 5 : chillax end; while - 7120 < 69 : input uG0; when case 62400 : chillax end; pop end; let v27a = 106; output 86100 end main : V53, aaA, reJ, fza : boolean; chillax end

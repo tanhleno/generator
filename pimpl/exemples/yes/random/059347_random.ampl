@@ -1,0 +1,1 @@
+program W4Y : A : takes U : integer array returns integer O3, P : integer; when case t - 0 - 6 : do l(4, 92) end case 4 = 045 : let Xg6 = 53 end case 9 : chillax end case 1 : pop end case 34500 : chillax end end main : cn : boolean array; output "" . "1" . 72 end

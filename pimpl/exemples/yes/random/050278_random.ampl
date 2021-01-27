@@ -1,0 +1,1 @@
+program cZ : dD : takes V : integer; J7Taa, M, H : integer returns nothing when case - false > - 2 - 856 : chillax end case - 69400 - 3 <= 8 : chillax end case 07 : chillax end case 3 : chillax end case 4 : chillax end otherwise : do Gd1(0600) end end main : while false rem not(6) : chillax end end

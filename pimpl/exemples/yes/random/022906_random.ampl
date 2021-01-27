@@ -1,0 +1,1 @@
+program H : d : takes IP, E9 : boolean returns boolean array do vwO0a((3) and 85700 - 63); input md1[- 3]; pop end GM5 : takes L : boolean returns boolean array chillax end main : m : integer array; chillax end

@@ -1,0 +1,1 @@
+program N : P3 : takes P3, e : boolean; D46 : integer array returns integer chillax end N : takes i : boolean; Zy : integer; d29 : boolean; j, z : boolean; c3, O : integer array; v0, f : boolean returns boolean when case - 85100 : chillax end otherwise : input zt end end main : chillax end

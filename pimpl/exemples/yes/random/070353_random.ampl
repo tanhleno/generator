@@ -1,0 +1,1 @@
+program n : main : l840, X1t, Y, c : integer; when case 8 <= not 115 : output "" . 6 . 7560 . "" end case - (6) rem true + not 23 and 279 + 00 - 87 : output "" . "|G" end case - 86 and 4 - 2 : chillax end case - 9420 - 81 = 8 : pop; input w end case 4 : input z end case 3 : chillax end otherwise : output 4 . 1 end end

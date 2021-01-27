@@ -1,0 +1,1 @@
+program _ : main : Y : integer array; let f = array t[2] or(06) * q2 + UUO + 0360; when case false rem T > 4 - 782 - 8790 : output "\\" end otherwise : while 2 : pop end end; let D[- (01100) and 474 or 8420] = - 0 - 9 /= 49 end

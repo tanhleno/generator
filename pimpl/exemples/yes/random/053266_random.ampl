@@ -1,0 +1,1 @@
+program c : U : takes h : integer; H : integer returns nothing chillax end main : when case - not(8) rem true rem true : chillax end; while not false : pop 4; let j = 0; input m end; output - 5 - 0 . "3\\!" . 9 . 2 . "\t/" end

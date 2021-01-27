@@ -1,0 +1,1 @@
+program CG : v : takes a, R : integer; x, l, R68 : boolean array; B, e, e, B : boolean array returns nothing let i4[- not 9 and 63100] = - 10 >= 33 end main : when case - (6 = 407) rem not true and false + not true /= - false : chillax end otherwise : chillax end; input yp[- 0 + 5 and 7]; do q44(- (20800) and 61 - 28); when case - 99 : chillax end case 60 : chillax end end

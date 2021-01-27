@@ -1,0 +1,1 @@
+program nHF : l : takes p : integer array; mG3a, U41, hj, a, H : integer array; r9haa : integer; k : integer returns nothing S, IbPaa, y : integer array; while - (02) : when case 8 : pop end case 3 : chillax end otherwise : chillax end; pop; input d_ end; while - 915 - 33 = 3 : chillax end; pop 644 end main : pop - true / true and 8 = not 50 and 48900 or 49 end

@@ -1,0 +1,1 @@
+program j5 : DW : takes C : boolean array; V : boolean array returns boolean input Y; pop 1 end r : takes P : integer returns nothing c, J9 : integer; n, gc, D6 : integer array; E, Po40 : boolean; X : boolean; J : boolean; pop 315 end main : chillax end

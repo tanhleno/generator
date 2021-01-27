@@ -1,0 +1,1 @@
+program K : G : takes Oc90a : integer; O8Y : boolean array; a : boolean array; U, D5I, l, ZK4a, co4 : integer array; o6O, ojR0a : boolean; a : integer returns nothing while true - 19 > 45 - 4 : chillax end end main : chillax end

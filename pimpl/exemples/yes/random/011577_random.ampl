@@ -1,0 +1,1 @@
+program Q : F : takes g, m, K5 : boolean returns boolean array L2, P220, Dw60 : integer array; s, h : boolean; p2, d : boolean; qg : boolean; while - (577) >= 16 : chillax end end main : while - false + (378) / true and 2 - 3 = - g - true and 5 : chillax end end

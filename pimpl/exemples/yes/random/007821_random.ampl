@@ -1,0 +1,1 @@
+program U : Ca8aa : takes U, Q8, FT, X : integer array returns nothing Q : integer; while J and 30100 < 47 : input l[2] end end main : when case(649 = 822) * true and(9) + I[38300] < - R[45] : chillax end end

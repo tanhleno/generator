@@ -1,0 +1,1 @@
+program B : main : X : integer array; arQ, n4m0a, C9X : boolean; J, F, v_S : boolean array; when case 96 / true / KP < - false and _ : chillax end; output "\\\n"; let J1P0 = array - (90000) and 5 - 2 - 440 end

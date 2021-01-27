@@ -1,0 +1,1 @@
+program _ : l : takes C1, vU : integer array returns boolean e, x56aa : integer array; chillax end d : takes G39 : boolean array returns boolean P : integer array; output "@" . "d&" end a : takes w, fCk, HK : boolean array returns nothing when case 0 = 0 : chillax end case 2 : pop end end main : chillax end

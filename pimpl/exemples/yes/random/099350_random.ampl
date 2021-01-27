@@ -1,0 +1,1 @@
+program j5 : main : while kw[9] / not not 4 + false * 4 and 6 : while 6 = 2 : when case 395 : chillax end end end; input RF[- false - 1 and 3 - 1 - 1]; when case false - 9 /= - 48700 - 08 : do C(039); when case 70 : chillax end end end

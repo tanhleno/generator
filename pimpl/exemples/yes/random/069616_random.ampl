@@ -1,0 +1,1 @@
+program l : main : U, YM, q, w : boolean; let AJ7[- (2)] = - false / 9160 - not 6 and 8 or 6 - 3770; do Z(not X8 < - not 9 and 1, - true - 7 - 64 < 7, 55 - 9 < 2080); when case not 9 and 11 >= 9 : chillax end case 8280 - 55 > 75 : when case 51100 : chillax end end case 7 : chillax end; while - 2 : chillax end; do S(1) end

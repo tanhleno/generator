@@ -1,0 +1,1 @@
+program H : Ic : takes eM, gFv0, a, Z : integer; y1q : boolean array returns nothing chillax end f5 : takes nVra, A, BL : integer; G, eW9aa, k, G9Ma, Z, A : integer array; ka1a : integer array returns integer chillax end main : output ""; input p end

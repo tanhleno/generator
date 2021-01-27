@@ -1,0 +1,1 @@
+program oB2 : F : takes J, ms : integer; ql : integer array; J, OXT, mo, C, G, Pl8 : integer; Zo : boolean array; B7k : integer; uP : boolean returns boolean array chillax end main : W4n, SSM, r, a, Q : integer array; input V; let vBe = not 8 < - 51 - 33500; when case - 976 and 1 + 9 = 2 - 8 : pop end otherwise : do HNJ(83); do a(72) end end

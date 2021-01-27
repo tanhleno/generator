@@ -1,0 +1,1 @@
+program g0 : y56 : takes cvzaa : boolean array returns integer array I2, k4, B : boolean array; let R[- L] = array T - 5 end Y : takes V8oa : integer returns nothing I : integer array; chillax end main : chillax end

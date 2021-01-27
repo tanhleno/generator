@@ -1,0 +1,1 @@
+program hG : main : D, T, T, d : integer; I7Pa : integer array; D07aa : boolean; r, jp : boolean array; d : boolean array; let TtXa[- (79) and true * 5] = array - false / false or p(2) rem true and 9 end

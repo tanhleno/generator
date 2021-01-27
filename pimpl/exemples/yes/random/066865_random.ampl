@@ -1,0 +1,1 @@
+program D47 : main : do f0(- true < - (292) and NJ, not not 0 / true and 380, 164 and 0); when case - (3) rem P or(54) and 58400 + 237 - 46 : while 8 : while 1 : chillax end; pop end; when case 9 : chillax end; let i240a = 113; pop end end

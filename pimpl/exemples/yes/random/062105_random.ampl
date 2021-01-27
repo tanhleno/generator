@@ -1,0 +1,1 @@
+program q : j : takes S : integer returns boolean array output ""; output 643 . "" . "" . ""; do _8g(66 = 58, 291, 5) end main : f, N6 : integer array; f4Paa : boolean array; Q53, R3, h : integer array; chillax end

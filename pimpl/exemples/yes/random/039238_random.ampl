@@ -1,0 +1,1 @@
+program pY : uWm : takes u : boolean array; f, tY : integer array returns boolean chillax end main : when case - bJ(6, 6) /= true rem q5 - not 4 and 0 or 68000 : input N; let G = 7; when case 345 : pop end; let E = 027; input G; pop end; input v4[- eW - J and 7] end

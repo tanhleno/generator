@@ -1,0 +1,1 @@
+program S : main : UoQa : boolean; output ""; do QM(F7z + false or 2 - 306 /= - not 2 and 6); input o; when case - 9 - 20 : when case 3 : chillax end; let q = 0 end case 0 = 24 : chillax end case 83 : pop end case 0 : chillax end end

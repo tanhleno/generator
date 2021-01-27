@@ -1,0 +1,1 @@
+program C3t : P : takes O, M : boolean array returns boolean while not 8 and 3 - 12 = - 6040 : chillax end end m : takes IZR0a : integer; q : boolean; TP : integer returns nothing pop; input r6; when case 3 : pop end case 2 : chillax end; do Mi(4) end main : U3 : integer array; MW : boolean array; chillax end

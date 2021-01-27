@@ -1,0 +1,1 @@
+program I : K : takes q, iy : integer returns boolean chillax end main : input G; when case 0320 rem(2) and 3 < - not 2 - 77 - 5 : while 3 : input h end end case(3) + 30 - 6900 /= 5 : chillax end otherwise : chillax end; let V0H = array false and 640; output 24 end

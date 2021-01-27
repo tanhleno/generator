@@ -1,0 +1,1 @@
+program X : _q : takes l3, B : integer array returns nothing while(617) and 50 or 9 - 5 : chillax end; let k = array 8 - 72; when case 52 : chillax end otherwise : pop end end main : while(6) : output 8 = 0; input Y end; do N8(- (5) - true and 0); pop end

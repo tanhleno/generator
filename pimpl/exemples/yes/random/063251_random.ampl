@@ -1,0 +1,1 @@
+program En : l2q : takes R : integer returns integer chillax end main : atV, i4G, WY : integer array; Q : integer array; iC : boolean; V, Q : boolean array; u3 : integer; i, C : boolean; u : boolean; hq00 : boolean; pop - not(81) rem true and 5 + not 5 - 3 - 4 > - not 3 + 50000 - 0 end

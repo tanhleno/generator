@@ -1,0 +1,1 @@
+program h : Z : takes M, n, Z : boolean array returns nothing gxR : integer; ql : integer array; let Oc = array G or 18800 - 5 end main : K710a, q : boolean array; e, J4, YO7aa : boolean array; i : boolean; b0a : integer; R, F : boolean; o2F, mTWaa : boolean; F : boolean; chillax end

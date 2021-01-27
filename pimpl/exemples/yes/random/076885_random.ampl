@@ -1,0 +1,1 @@
+program Q_ : main : ay, f : integer; when case - N > - not true * u and 10 + true : chillax end otherwise : chillax end; when case true and true and 0 - not 38100 or 1 = not 31 and 4 : do LI5(0); pop; when case 9 : chillax end; while 2 : chillax end; pop end otherwise : let C = 14 end; input R; while 6 - 98 <= 89 : chillax end; do z6(5 = 6, 5) end

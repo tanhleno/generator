@@ -1,0 +1,1 @@
+program D : main : W27aa, cTv, A, e : boolean; x580a : integer array; when case - false > - k + not 97900 - 5 - 37 : chillax end case(88) /= - (5) + 528 - 56 : pop 285; while 5 : pop end; do dJ(0) end; do Ez((52)); input Vr[not 57 + 89100]; pop 43 = 24400; pop end

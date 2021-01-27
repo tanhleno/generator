@@ -1,0 +1,1 @@
+program bZ7 : main : do q(3 > false rem true and 064 or lG60 and 498 or 4 - 5, - (9) and true and 94 or false and 557 + 6 - 317, - 9 and 5 or 92 - 48 /= - 7, 5); output "" . "8" . 532 = 67; while - false and 38 - 45 >= 04 - 7 : while 6 : pop end end; while - 9 - 6 < 0 : chillax end end

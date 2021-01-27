@@ -1,0 +1,1 @@
+program xqO0 : fU7 : takes z, l, b, U, w : integer returns boolean z, S : boolean; Pg7a, T : boolean array; l : integer; chillax end j : takes s, fV90 : boolean array; b, lR : boolean array; Q : integer returns boolean array chillax end H : takes w : boolean array returns integer qh, b : integer array; q1, WQ : boolean; chillax end main : chillax end

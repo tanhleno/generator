@@ -1,0 +1,1 @@
+program n : main : pop; when case 0 / false : output "\t" . 8 . "" end otherwise : chillax end; while - s and 9 + 9 : chillax end; when case 8920 - 3 > 4 : when case 6 : chillax end; do tB5(1); pop end case 4 = 10 : chillax end case 03 : pop end otherwise : chillax end end

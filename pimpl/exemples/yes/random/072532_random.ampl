@@ -1,0 +1,1 @@
+program n : main : Tz6, Y, j : integer; when case - true rem N4[1] + y[5] rem(52) and 3 : input R[- 14 - 04] end case(2) + true and 8 or 0 : input ppraa; do d(793); pop end case v - 55 >= 3 - 976 : while 3 : chillax end end otherwise : pop 8 end; input Z[true and L8]; output "\nw!a" . "[0!" . 4 end

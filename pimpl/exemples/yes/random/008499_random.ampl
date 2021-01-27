@@ -1,0 +1,1 @@
+program Z11aa : m : takes g, k, I6 : boolean; Ps5a, OUva, N, B : boolean array; s, i : boolean returns nothing pop - 365 - 96600 <= 959; while - 04900 /= 1 : when case 1 : chillax end; input G end; output 9030 . 8530; do qc(8, 5); while 4 : chillax end end main : chillax end

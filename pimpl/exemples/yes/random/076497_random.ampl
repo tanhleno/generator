@@ -1,0 +1,1 @@
+program M : main : x, Sr : integer; h : integer array; do X0(not true and false + false or true >= true, - false /= - false and 49 - 6 - 5760); when case YAsa(5) * 22 > - 73 : chillax end otherwise : chillax end end

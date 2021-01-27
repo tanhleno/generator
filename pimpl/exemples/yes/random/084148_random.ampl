@@ -1,0 +1,1 @@
+program P : main : o1 : integer; h6 : boolean array; w650 : integer; A, sW4aa : boolean array; W : boolean array; x, v : boolean; Jzi0 : boolean; let C[- NN80a(94, 22)] = - true or 7 and 4 or 23; do ld(- not(8) = 11 and 78); let R = - 5600 - 7 = 9 end

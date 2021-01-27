@@ -1,0 +1,1 @@
+program P : main : e : integer; when case - t1(7, 6) + rR10a : when case - 0110 : output "Uia"; let ag = 404 end case 045 : output "\n" end case 0 : chillax end case 7 : chillax end; output 0160 end otherwise : when case 54400 : do K(6); pop end case 98 : pop end end; output - (46) and 926 + 88 - 346 . 1 - 238 . 9; input X[- 87 and 16 + 3] end

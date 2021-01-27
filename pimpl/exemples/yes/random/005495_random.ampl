@@ -1,0 +1,1 @@
+program v : DR6 : takes x0, w6, p, F : boolean array returns integer p7 : integer; chillax end T2 : takes L : integer returns nothing t98, M : boolean array; chillax end main : while GF[65] : input A end end

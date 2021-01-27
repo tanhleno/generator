@@ -1,0 +1,1 @@
+program x : z : takes a : boolean returns integer chillax end Cc : takes i5 : integer; H9 : boolean returns nothing chillax end main : w : boolean array; GB8 : integer array; GU : boolean array; P910 : boolean; z : boolean array; zO, z8 : boolean; U7 : boolean; while 61 < false : chillax end end

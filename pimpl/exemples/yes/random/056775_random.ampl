@@ -1,0 +1,1 @@
+program P : A6 : takes G8 : integer array; h8 : integer; w : integer returns integer array J : boolean array; chillax end j : takes d, u3, Z, l0, Q, q : integer array returns nothing chillax end o : takes d0 : boolean returns nothing input M6eaa[1]; let LEf0a = 7 end z : takes Z : boolean returns nothing output "S"; do J(989) end main : chillax end

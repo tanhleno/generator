@@ -1,0 +1,1 @@
+program U : A : takes AA, O : boolean; eZ, E : integer array returns nothing do u(- false or 20 >= - 94 - 6, 80); when case 2 : input n; do W(4) end case 0 : chillax end case 5 : chillax end otherwise : when case 7 : chillax end end; output 1 end main : output "_"; pop 96 = - 71 end

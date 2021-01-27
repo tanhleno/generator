@@ -1,0 +1,1 @@
+program o36 : Xhba : takes IZ, P : integer array; E, B3kaa : boolean array returns nothing o : boolean array; M : integer; chillax end Z4Y : takes kxn : boolean returns boolean while - 9 - 0 > 91 : while 6 : chillax end end; output 6 . "" end main : qa4, H : boolean; i, _q : integer array; chillax end

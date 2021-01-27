@@ -1,0 +1,1 @@
+program O : main : input f[- true]; when case - z(0) or 9400 and 0720 >= RL and 698 : output "" . ""; input D[0] end otherwise : while 49 : chillax end; when case 383 : chillax end; let fbR = 26 end end

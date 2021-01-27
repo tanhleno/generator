@@ -1,0 +1,1 @@
+program I : main : do FjXa(not 929, (55) / true and 071 + not 5 and 4); input i[not(36) * (076) or not 8 and 3 + 66700]; when case 76 + 7 - 792 : when case 1 : pop end case 56 : chillax end otherwise : chillax end; input j end case - 86 : do r(5) end end

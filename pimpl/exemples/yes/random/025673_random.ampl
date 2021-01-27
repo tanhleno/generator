@@ -1,0 +1,1 @@
+program S7F : C : takes v, IY : integer; U, PI : boolean returns nothing r0 : integer array; P, NX : integer; yFc0a : integer; output - 0 - 1; when case - 48 - 0 : when case 0 : chillax end; let a7 = 4 end end main : input F[false / not false] end

@@ -1,0 +1,1 @@
+program m8 : UmL : takes d : integer array returns boolean array chillax end P : takes d : integer array returns nothing LG : integer array; pop end main : do qG(- 02 and false * 1 >= true rem 7 - true and 532 + 12, - false + 5 and 648 or 9) end

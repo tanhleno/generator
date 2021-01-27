@@ -1,0 +1,1 @@
+program t0 : g : takes QW : integer returns nothing let H0n0a[- false and 5] = array - 361 and 389 - 253; while - 560 - 4370 : chillax end end n : takes S, R3 : boolean array returns boolean let s = array 0 end main : M5, Pul : integer; chillax end

@@ -1,0 +1,1 @@
+program h : Y : takes C : boolean array; X, P, K : boolean; b5, v0 : integer; YG, o, c, g : integer; v0b, N : integer array returns integer FB : integer; chillax end main : when case - (8) : chillax end otherwise : chillax end end

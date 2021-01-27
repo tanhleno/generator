@@ -1,0 +1,1 @@
+program j : main : when case - false and(68) - (3) / false + (6) and 1 : do K(41700 - 38, 49); do Jx(1) end case 037 : chillax end case - 6 and 8 or 5 - 31 = 4660 : do lIi(17) end case 4 : chillax end case 6 : pop; pop end end

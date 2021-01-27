@@ -1,0 +1,1 @@
+program ku1 : main : when case - Y[13] rem false - not true - false - 88 > - true + 12 and 0460 or 0 - 23 : chillax end case - not h and false < - 0 and 115 or 2 : output "H\\0" . "i"; output 383 . "4s\"" end otherwise : chillax end end

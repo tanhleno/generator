@@ -1,0 +1,1 @@
+program G : c : takes P, L0, r : integer array returns nothing U, t, s1 : integer array; let Y7M = array not 93 and 2 or 43300 - 9 end w49 : takes i0j, c5L, z, z5 : boolean array; wwi0, ay5, u, H, j720 : integer array returns integer array I : integer array; n, R, bI : integer; XF, k61 : boolean; do Lz(- 89 - 1 >= 9); while 7 = 50100 : pop; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program r : T : takes wK9, t : integer array; R1f : boolean array; A290a, S : boolean; o, kJ, NO6a : integer; a : integer returns nothing when case true and 6 >= - 6 - 1 : let v[6] = 5 end case - 3 /= 9 : do g(5); while 682 : chillax end; pop end otherwise : chillax end end main : do y(- y[83600]) end

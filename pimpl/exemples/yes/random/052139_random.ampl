@@ -1,0 +1,1 @@
+program _4E : Tc : takes H1k0 : integer; Y : boolean returns boolean array when case p2 + 8 : chillax end otherwise : chillax end; let S = 3 = 3; while 4 = 7 : chillax end end main : tRi0a : integer; K5 : boolean array; Sc6 : integer array; chillax end

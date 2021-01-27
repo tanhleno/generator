@@ -1,0 +1,1 @@
+program Lz : U : takes h, p : integer; Nj : boolean array; g, B58aa : boolean array; x, PZ : boolean; H, p, oqf, B : boolean array; Chu : integer array; voZ : boolean returns nothing let C = - 173; input n; output ""; input B[35000]; input W9 end main : F : integer; let D8baa = array false and false; pop end

@@ -1,0 +1,1 @@
+program b : L : takes L : boolean; j : integer array; M : boolean; qu : integer returns nothing while true + 169 : chillax end end Z54 : takes p, l5 : boolean returns integer array chillax end main : S : boolean array; lc9a, w, I, NZZ : integer array; Lb, n : integer; v, N0, Zk : boolean array; chillax end

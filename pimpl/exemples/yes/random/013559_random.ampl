@@ -1,0 +1,1 @@
+program V5 : S : takes y4M, L, oF : integer; P : integer returns integer array chillax end i : takes nd7aa : boolean; _, bi, f, cwB : boolean array; d7, o3 : integer returns integer array GO3a : integer; O2, Y, M2 : boolean; z, x : boolean; output 1 = 2 end main : b59aa : boolean; T14 : boolean array; chillax end

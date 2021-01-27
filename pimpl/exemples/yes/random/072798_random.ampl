@@ -1,0 +1,1 @@
+program Oh : main : O, D99, m : integer array; U, Z : integer; do sKf(- true - false + not 8 - 9 > uKNa(2) * false); input z[- 0 / false and 5 - false and 19100]; let U12a = 16; input Ol; when case 2450 : chillax end case 5 : pop end end

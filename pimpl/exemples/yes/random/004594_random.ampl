@@ -1,0 +1,1 @@
+program k : b : takes q4, V, p, W59 : boolean; k : boolean returns nothing output "" end mw : takes P : boolean array returns nothing chillax end main : while 6 or(01300) * (7) and 3 > - 4 - not 9 and 70 : while - 0 - 769 : chillax end; while 48900 : input O; pop end; pop 40 end; when case - false : pop; output 8 end end

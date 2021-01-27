@@ -1,0 +1,1 @@
+program NHR : BB : takes r, vp : integer array returns nothing iR : integer array; gl : boolean; A9, T : integer; a7i : boolean; chillax end main : output "" . "" . "8" . 4 . "*" . "" . "22\"a"; input a9laa[- true and false - true and 9]; pop 25 - 8 < 64500; while - 8270 - 6 : let F2 = 096; input R end end

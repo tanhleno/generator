@@ -1,0 +1,1 @@
+program Z1F0a : main : R, C0aa, Y39aa, k : integer; do T(false + true or true /= not 068 rem 2); input t_5aa[true + true - 3]; when case not 9 and 93 + 023 : chillax end case - 59 >= 5 : let B5Haa = 16 end end

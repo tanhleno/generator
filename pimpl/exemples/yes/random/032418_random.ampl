@@ -1,0 +1,1 @@
+program DC : rE : takes W, hR4 : integer returns nothing do cy60(- not 5 and 5 + 107); output 45 = 3 . 76 . 18 . "2" end v : takes er : boolean array returns nothing do z(- 5, 4 = 718) end main : R, DV50a : boolean; kq, l3, Fg, C : boolean; chillax end

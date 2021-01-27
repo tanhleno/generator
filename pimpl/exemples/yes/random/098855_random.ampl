@@ -1,0 +1,1 @@
+program _4 : main : while - true * false / xS and 945 : when case - 40 - 5 : chillax end case 28100 = 44 : output ""; pop end otherwise : chillax end; while 81800 = 6 : chillax end end; input Z[not not 9 rem(5670)] end

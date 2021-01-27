@@ -1,0 +1,1 @@
+program A : m : takes i, x1, YW : integer array returns nothing while o and 3930 + 9 - 6 : chillax end end e510 : takes mT : integer; u4V, Q15aa, P : boolean; f, q16 : boolean array; Oa : boolean; n, E : boolean array returns boolean array n09, c, e6r, K : integer array; n : boolean array; pop end main : xU3, KDW : boolean array; N : boolean array; pop end

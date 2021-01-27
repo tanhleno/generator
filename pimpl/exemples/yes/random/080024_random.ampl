@@ -1,0 +1,1 @@
+program k : main : Ubs : boolean; let h[- k * false / 50 and 6] = array a1(99, 296) / B[64] rem false or 7 / not 7 and 586; input d; input P[- 56 and 2]; let o[9 - 222] = 64; let w = array 34; while 41 : chillax end; do H(385); while 02 : chillax end end

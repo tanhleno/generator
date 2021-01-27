@@ -1,0 +1,1 @@
+program t6 : e : takes uUI0 : integer array returns integer vXy : boolean array; J : boolean; Z, n, K : integer; Z8 : boolean; chillax end f : takes e : integer array returns nothing U : integer array; chillax end main : while(8 = 3) - Aca[99] - (15) - 53 - 32400 >= - F(8100) or(2) : chillax end end

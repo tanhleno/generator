@@ -1,0 +1,1 @@
+program IqB0a : d78 : takes e83 : boolean; uOn, Mt : boolean; g : integer returns nothing chillax end T : takes qnGa : integer array returns boolean do C(52 > 8) end q4H : takes a : integer; D : integer array returns nothing input J7[22]; let HW8aa[48] = array 10 end main : while j6qaa(5) /= true : chillax end end

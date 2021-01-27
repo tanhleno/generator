@@ -1,0 +1,1 @@
+program K3G0a : y : takes KKw : boolean; ei : boolean; y : integer array returns nothing while - v and 85 or 9 - 58 > - 67 - 1 : chillax end end main : P : boolean array; nK5 : boolean array; chillax end

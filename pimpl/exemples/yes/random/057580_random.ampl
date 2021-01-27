@@ -1,0 +1,1 @@
+program _ : M5 : takes n : integer array returns boolean array chillax end d2 : takes Y, Uu0 : boolean array returns nothing while 26 : chillax end; input GU[715]; input m; do dxX(3); pop end main : k8 : integer array; chillax end

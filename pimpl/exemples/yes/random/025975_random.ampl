@@ -1,0 +1,1 @@
+program z : _ES0a : takes RJ, B5 : integer; D, l8 : integer returns nothing output "\\\t" . 3 . "\t" . "" . "\\r\""; let b[- 98200 - 909] = array 3710; while 8 : chillax end end main : do v(- (91 = 99600) <= - Y * D or N5 and 1) end

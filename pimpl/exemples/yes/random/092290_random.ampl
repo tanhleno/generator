@@ -1,0 +1,1 @@
+program j : main : output - 3; when case - true or 63 <= (1) + 0 - 1 : do D3(40 = 9); let DJ = array 22 end case - not 71 + 29 - 4 : let R = array 94; let o35a = 7; do n7P(592) end case - 2 : output ""; output "E"; pop end otherwise : chillax end; do o8z0a(true or 344 = 70, - 619 - 0 < 3) end

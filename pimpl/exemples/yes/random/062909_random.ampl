@@ -1,0 +1,1 @@
+program tA : a : takes Tu : integer returns integer array l, M : boolean array; when case - (06400) and 3 - 12 /= 4 : chillax end otherwise : chillax end end main : output - true rem(9) < (28); while - false = Zh90 and 0 : chillax end end

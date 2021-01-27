@@ -1,0 +1,1 @@
+program D : w : takes i, j, p, W, h5, s : boolean array; dF : boolean array; D : integer returns nothing chillax end k : takes MIda : integer; u, O : integer; c, k : boolean returns nothing P4, CK50a, W : integer; when case 7 : when case 119 : chillax end end case 1 : pop end end main : chillax end

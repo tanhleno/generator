@@ -1,0 +1,1 @@
+program j : pJ : takes m : boolean array returns nothing chillax end main : output - true - not 35900 and 83 = - true . ""; when case - false >= - not 20 : when case 50 : input d end case 53 : pop end otherwise : chillax end; output 92 end otherwise : while 5 : pop end; input T9; while 8 : chillax end; pop end end

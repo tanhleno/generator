@@ -1,0 +1,1 @@
+program y3laa : Il8 : takes jU5aa : boolean returns nothing y : boolean; when case - (8) : do X(0, 646) end; input D[- 44700]; let C[4] = array 52 end main : GkL0, c2uaa, e : boolean; while - not false / false + true - g and 9 or 72 /= - true and(0) and 487 : output "4\n"; do T(294 = 59600, 18000) end end

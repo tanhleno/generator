@@ -1,0 +1,1 @@
+program qT : F : takes f : integer array returns nothing V3X : boolean array; rVB : boolean; q5, C9 : integer array; sMt : boolean; PR : boolean; j : boolean; when case - true and 00 : chillax end case 2 > 1 : chillax end case 59 = 811 : chillax end end main : C : integer; output "\\" . "" end

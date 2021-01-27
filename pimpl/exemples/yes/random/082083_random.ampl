@@ -1,0 +1,1 @@
+program q : main : b65 : boolean array; h7a : integer array; m, GN0aa : integer; when case - (703) - J[9] + 92800 and 6 : chillax end case(92) or 2 >= (9) + 328 : chillax end case 6 > 2 : do Ku5(61500) end otherwise : pop 541; output "" . "40" end; output w and 05 /= - 51 - 60; let l[H - 5] = array false and 054; while 3 - 0 = 7 : chillax end end

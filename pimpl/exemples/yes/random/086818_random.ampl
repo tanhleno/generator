@@ -1,0 +1,1 @@
+program J88 : main : wO : integer array; au : integer array; Ii, H, gH : integer; when case - (7) + (09) * S and 3 + not 07900 and 2 : chillax end case true : chillax end otherwise : let B8O[5] = array 0; while 91 : pop end; do TV9aa(1) end end

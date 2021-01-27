@@ -1,0 +1,1 @@
+program nE : f : takes i : integer returns boolean chillax end main : while 2 * true and 81 and 4 or not true or true and 9 >= - true / true and 341 : pop 1 = 2 end; while - true < - H1A and 3 : do p(0 = 65600, 48); output 0 . "Y" end end

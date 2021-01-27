@@ -1,0 +1,1 @@
+program x : main : q : boolean array; when case not not not 553 : let O[- 8] = array 30; pop; while 78100 : pop end end otherwise : pop; input i3[6]; let w = 5 end; output - 22 and 800 or 99300 - 6 end

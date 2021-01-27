@@ -1,0 +1,1 @@
+program F : main : pop; pop - not 29 and 1 + 48 - 8310 >= 4; do I180(true and 1 - 1 >= 74800, - 7 - 744 /= 9, 5 = 7, 90100, 8); when case 6 - 0 >= 5 : chillax end case 7 = 72 : when case 7 : chillax end; pop end; output 1; let t[1] = array 67 end

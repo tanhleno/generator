@@ -1,0 +1,1 @@
+program i5 : Y : takes h, S, z9G : integer array returns nothing do _ZC(true and 987 >= 58 - 913, - 63 - 89 < 57, 11); output "\t"; do hXg(756 = 400, 6); when case 5 : pop end end main : T7c0 : integer array; F : integer array; T : boolean array; pop - (33) + false + 3 = - true and 1 - 5 end

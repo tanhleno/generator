@@ -1,0 +1,1 @@
+program T : l1f : takes sb : integer array; aQVaa, wataa, U7A, T : boolean array returns boolean array chillax end Nx : takes G, C, d : boolean returns nothing W : integer; chillax end v7 : takes f2j, x, f, t, v : integer returns integer ofj, yb, D : boolean array; w65 : boolean; chillax end main : chillax end

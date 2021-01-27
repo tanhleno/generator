@@ -1,0 +1,1 @@
+program _q : VE : takes Y, g, q : boolean; S, d220, N8taa : boolean returns nothing when case - (73) : let R = array 50 end otherwise : chillax end; do Zk(- 7 /= 95400, 340 = 97) end main : chillax end

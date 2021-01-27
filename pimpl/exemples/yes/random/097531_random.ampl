@@ -1,0 +1,1 @@
+program n : main : when case true * false and 29 and 4 + false - false and 252 or 4 : let R7a[8 - 0] = array 70400 end case - 8 * not 121 : while 4 = 61 : let g = 5480; pop end end otherwise : chillax end; do WB(- (89500) / not 5 and 80, (343) and 0 - 3 - 75500 = 63000 - 56, 80 >= 64); pop - 8 - 2; input ta; let r[2] = array 737 end

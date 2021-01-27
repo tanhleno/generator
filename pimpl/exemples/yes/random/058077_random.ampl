@@ -1,0 +1,1 @@
+program Tse : F : takes g : integer array returns boolean chillax end e4 : takes y : integer array; P59aa : boolean; d : boolean returns boolean f, Y27 : integer; chillax end Zx1 : takes j : integer returns nothing cj0, Z : integer array; input C[1]; pop end main : do c(true > - 7 + (99) and 7) end

@@ -1,0 +1,1 @@
+program DjD : E : takes l6 : integer; l, i3 : integer; l, p9f0, u : boolean array; F4 : boolean; O, S : integer array; M, h6Haa, X85aa : integer; I : boolean returns integer let h9Xaa[- 93 and 07] = - 48 - 16 = 5; let K = 91; pop 3 end main : V, g, f, g6Eaa, J : integer; I, C, y92, b, gj, R : integer; chillax end

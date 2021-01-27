@@ -1,0 +1,1 @@
+program SCc : j : takes G : integer; a : integer array returns boolean uo, J, _NU : integer; ox : integer; dN70, mJya, H : integer array; z : boolean; chillax end main : s, IpP0, X3a : boolean; input of; input D[- false / true and 8]; while not 3 and 70 : chillax end; output "_"; pop 1 end

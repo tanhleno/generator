@@ -1,0 +1,1 @@
+program A9 : G : takes p31 : boolean array; W, kV : boolean array; m, w3 : boolean returns boolean array l, E, Ys, R, Y : boolean array; n31 : boolean array; while - not 24 and 5830 <= 49100 : let g = array 13; do B2v0(9210); while 6 : chillax end end; output 0 = 7 . 26 end main : pop end

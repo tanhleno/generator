@@ -1,0 +1,1 @@
+program Z : N : takes X, H, js : boolean returns integer chillax end main : N9 : boolean array; JH, y : integer array; V : boolean; when case - not(2) and(490) - true - true < - true : while 140 - 3 <= 0 : chillax end; pop end otherwise : input vau; output 7; pop; input G end; input l end

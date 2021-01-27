@@ -1,0 +1,1 @@
+program u3 : J : takes w, v0n : integer array returns boolean array chillax end e2 : takes Qq, fa, HGJ : boolean array; JP, e9 : integer; Q9, mu0a, i, Z6 : boolean array; i, _, e84aa : boolean array; N : integer array returns nothing chillax end main : pop; do ikWa(73 / (3) < - not 4 and 50); let r96[- false] = array - (3) end

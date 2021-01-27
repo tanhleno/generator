@@ -1,0 +1,1 @@
+program f : x : takes S : boolean array returns integer array o : boolean array; let Bo = array not 2 and 3 or 6 - 4; let A[5 - 7] = 81 = 1 end main : when case - not true / not c680 rem 980 and 386 = - (11) * 10 + 6 and 07 + 553 : let zI = array 4 - 5; pop end case 27 : let on[72500] = array 2 end otherwise : pop; input i6[76]; do E79(69) end end

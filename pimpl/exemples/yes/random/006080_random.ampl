@@ -1,0 +1,1 @@
+program _1W : OP : takes B, t120a, s6, Hu : boolean returns nothing chillax end q : takes O5, rU70 : boolean returns nothing chillax end main : output 3 >= not 414 and 6 - 11400 - 9 . - false and 38 + 19800 - 9 . "" end

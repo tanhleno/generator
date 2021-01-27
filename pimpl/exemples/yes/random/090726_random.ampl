@@ -1,0 +1,1 @@
+program R : main : let e[- (44600 = 86) or t9Paa[5] * true and 38] = array - true + P78; do b(- v8g0); when case not 459 and 90600 >= 095 : chillax end case 5 <= 04 : chillax end; when case 0 - 1930 = 45 : chillax end case 494 = 25 : chillax end case 2 : chillax end case 0000 : chillax end otherwise : chillax end end

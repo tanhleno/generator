@@ -1,0 +1,1 @@
+program lX4 : main : v : integer; u_ : integer; when case 707 : output "" . "7" end case - f(5) rem 85 and 1 <= - false and 0 : chillax end; while not r8 - false and 8 + 7 - 08 : let H[0] = array 033 end; while - X9e0a = 92 : let smeaa[2] = 4 end end

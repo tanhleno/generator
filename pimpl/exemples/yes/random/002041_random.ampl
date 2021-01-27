@@ -1,0 +1,1 @@
+program GA : n : takes WtXaa, p, UQN, X, q, _6 : integer returns nothing chillax end E : takes O9, e : integer array; w0 : integer; fK, z : integer array returns integer uJ : boolean array; c8, o16 : boolean; pop 3; input p; while 0 : pop end end main : Z, K43, BO, e3La : boolean; zY : boolean; e : boolean; chillax end

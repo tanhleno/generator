@@ -1,0 +1,1 @@
+program J6 : Wb : takes e : integer array returns nothing chillax end main : m9u0a, TQC : integer array; when case - true > false * T and 5 or true and 3 + 3 : when case 2 = 938 : chillax end otherwise : when case 63 : chillax end end end case true /= (0) : input rx; when case 54300 : chillax end case 66 : chillax end end end

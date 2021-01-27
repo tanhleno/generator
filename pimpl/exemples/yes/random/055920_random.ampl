@@ -1,0 +1,1 @@
+program O : q : takes pt : integer array; V : boolean array; T : integer; l : boolean returns integer chillax end qG : takes Ye90a, S, d, v : integer array returns integer array input ex[- 0740] end ps8 : takes f, u5 : boolean; p, a : integer; O : integer array returns nothing chillax end main : chillax end

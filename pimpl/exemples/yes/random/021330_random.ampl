@@ -1,0 +1,1 @@
+program Q2 : M : takes f, _ : boolean array returns integer array A91a, l2, J6C0, t, Rt : integer; V0, nDT, PT5a, q : integer array; chillax end main : h0, s2 : integer array; a : integer; chillax end

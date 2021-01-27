@@ -1,0 +1,1 @@
+program c1 : L : takes TA5 : boolean array returns integer array let C = array - true - 056 - 69 end Kr : takes Q9 : integer array; q : integer array returns boolean array chillax end main : a4 : boolean; chillax end

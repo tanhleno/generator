@@ -1,0 +1,1 @@
+program K5_ : Bi : takes cCy : boolean array returns nothing w08a : integer array; chillax end main : G0c0a, d4 : boolean; let D[true * not(1) rem false and 9 + 8 * not 2 and 8 - (0) + 2 - 3] = array - (1) end

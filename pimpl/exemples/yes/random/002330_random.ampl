@@ -1,0 +1,1 @@
+program z : D : takes i0, E, t1, E9, E6 : boolean; q0 : integer array; Mq10a : integer array; wg : boolean returns integer array input g2[- not 4 and 259 - 3] end main : input u[- false rem true * S and 0 - (59000) + 47 and 41 + 9 - 65000]; output true and 88 or 701 - 8; pop - 7390 - 53 end

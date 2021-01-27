@@ -1,0 +1,1 @@
+program xP : A85 : takes z1 : integer array returns boolean O : integer array; output - 6 . 06 end j : takes i6k, Ovcaa : integer; t6i, d, r : integer; Y : boolean array; l, g1, bO5 : integer array; Y, Ax : integer array; s : boolean returns integer array output 45 . 4; output "" . 70 end main : lZ6a : boolean; chillax end

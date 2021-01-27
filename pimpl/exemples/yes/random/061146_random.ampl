@@ -1,0 +1,1 @@
+program q4 : t : takes qjY : integer array returns nothing A1 : integer array; c : boolean array; chillax end b84 : takes g3, Yt : boolean returns integer array chillax end main : p : integer; rY1, Vq8, E, y : integer array; let t = 84 * false - false end

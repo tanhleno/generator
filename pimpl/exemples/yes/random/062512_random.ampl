@@ -1,0 +1,1 @@
+program y : w : takes R : integer returns boolean b1 : boolean array; WV : integer; when case not 7480 + 0 - 2 : chillax end case - 5 : while 5 : chillax end; pop; pop end case 43 = 8 : chillax end end main : chillax end

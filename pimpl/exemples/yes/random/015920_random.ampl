@@ -1,0 +1,1 @@
+program I03 : F : takes _, F_, l : integer returns integer array Ym, f2, R_2, o4d, G2Qa : integer array; while - 9 and 6 + 5 - 8 /= 1 - 7 : chillax end; do QD(7 > 75); let X[3] = array 56; output "" . "" end main : jL7, KZ70a : integer; chillax end

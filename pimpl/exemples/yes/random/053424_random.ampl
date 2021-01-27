@@ -1,0 +1,1 @@
+program i : R3M : takes e : integer array; s, V, h, Ve, jG5, AO, l4 : integer array returns nothing h : boolean; d5e0a, Iyn, q : integer; chillax end ZC6a : takes oy6a : integer array; Y8p0a : integer returns boolean array E : boolean array; chillax end kFo : takes Ev50, c : boolean returns nothing Y5 : boolean array; chillax end main : input n end

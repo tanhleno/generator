@@ -1,0 +1,1 @@
+program ff2 : main : j : boolean; ix, jZ4 : integer array; tn5, z : boolean; F3 : integer; do Q0(not m1 * false < - false rem YN and 6 - true and 5 + 077 - 669); when case - not not 94 / not 3 <= J or 5 : do v(51) end otherwise : chillax end end

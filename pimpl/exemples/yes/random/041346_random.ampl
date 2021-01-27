@@ -1,0 +1,1 @@
+program G : B : takes q570a : boolean array; Q : integer returns nothing do _Z(i6 or 3 - 7 <= 7) end rs9 : takes q : boolean array returns integer input Jsga end d72 : takes B : integer array returns integer array do s5(29, 4) end main : while(566 = 1) and 8 : chillax end; output "M\\" end

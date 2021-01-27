@@ -1,0 +1,1 @@
+program vG2 : P : takes j : boolean array returns nothing A4 : integer; chillax end h0 : takes Gm, J3, N8, S, K, I1E, n : integer; ju : integer array; c, wT, wR8, y : integer; Nl5 : boolean returns nothing F9, N : boolean array; chillax end main : output - true <= - t and 6670 or 80 - 49 end

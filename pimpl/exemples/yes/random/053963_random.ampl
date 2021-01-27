@@ -1,0 +1,1 @@
+program u : MC : takes N4 : integer array; k3, B6, u : boolean array; X, S : integer returns nothing input g[(254) and 5 - 2 - 9270] end L : takes b, y : boolean array returns integer array chillax end main : when case true - 825 + K69 or 7 - 5 /= 46 and(04) and 9 : let n = array 03; input Sc end case - v(6) / (0) : output "" end end

@@ -1,0 +1,1 @@
+program L520a : main : when case - 9 rem not not 219 + (6) / true and 83 - 9610 and 98 < (75) rem 9 or(7) : chillax end case(565) : input ko6; input dMV end otherwise : do Z3b(8 = 2) end; let K = array - (5) + not 8; when case false : chillax end case 7 - 45 : chillax end case 4 = 9 : chillax end case 0 : chillax end case 65 : chillax end end

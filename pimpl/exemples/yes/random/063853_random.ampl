@@ -1,0 +1,1 @@
+program S : Uum : takes S4 : integer returns nothing chillax end e6 : takes j21 : integer returns nothing P6v, cM7, L, K : boolean array; chillax end Y : takes r, g : integer array; t : integer array; znD0, C : integer; L : integer returns boolean chillax end main : _u : integer array; do P(- (1090) * (6) / not 6430 and 0) end

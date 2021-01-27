@@ -1,0 +1,1 @@
+program x : main : vS3aa : boolean array; nK : boolean; when case - false >= - true or true and 85 or 93200 - 5 : chillax end otherwise : let H = 3 end; while not(7930) = - false - 3 - 1 : pop 50 end end

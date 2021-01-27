@@ -1,0 +1,1 @@
+program c9E : P : takes g3 : boolean array; V : boolean; j4 : integer returns nothing L9 : integer array; h1t : integer array; output - 022 - 2 . 225 . 0 . 020 . "9g" end k9La : takes B4 : boolean array returns integer array output ";" end main : pop - true * (36) >= - 3 and 6 or 15 end

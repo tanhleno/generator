@@ -1,0 +1,1 @@
+program D : t57 : takes bG : boolean returns integer knl, S : boolean array; Ow : boolean array; do F(17800 and 5 or 6, - 7 - 4, 50, 883, 10) end main : f4 : integer; do _y(- 8 = not false / false or true and 9560) end

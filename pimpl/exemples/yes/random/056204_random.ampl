@@ -1,0 +1,1 @@
+program y2 : X0O : takes H : integer array; t_ : boolean array returns nothing let U10 = 87 - 24300 <= 2; do U580a(- 60 - 44, 737) end cF : takes _ : integer returns integer nh9a : integer array; chillax end main : G3 : integer; pop; when case(1) * 47 and 3 : output 32 end otherwise : chillax end; while F3 and 7 < - 5 : chillax end end

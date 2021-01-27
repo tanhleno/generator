@@ -1,0 +1,1 @@
+program CW : R6aaa : takes e : boolean; U, G : integer returns nothing when case false and 4 or 7 - 43100 /= - 77 - 471 : chillax end; while - 5210 - 7140 > 111 : input L end; while 29 : input O end end main : w, R, W : integer array; G, fIUa, EI, u4 : boolean; chillax end

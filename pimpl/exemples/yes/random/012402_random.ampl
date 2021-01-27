@@ -1,0 +1,1 @@
+program O : c88 : takes ud6a, n, H : boolean returns nothing Y : integer array; l : integer array; chillax end main : while - (10 = 5) * true <= not not 575 / (1) and 4 or(2) - 601 - 909 : do S6(- 2 - 22, 6180 = 95400, 21200, 5); output "E" . ";\t" end end

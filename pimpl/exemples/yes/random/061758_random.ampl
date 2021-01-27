@@ -1,0 +1,1 @@
+program OLM : kC1 : takes q49 : integer returns boolean array chillax end main : C : boolean; z9 : boolean; a : boolean array; while L9[7] >= s0[2] or not 31 and 2 or 4 : input v; output "" . 76; pop 5; input N9; let V = 7 end end

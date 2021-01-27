@@ -1,0 +1,1 @@
+program yFU : bR : takes R70aa, e440a, iw, A : integer array returns integer oa : boolean array; chillax end x : takes Oj3, gMR0, V780a, SgX : boolean array; j : boolean; m46a, Z : integer returns integer chillax end main : pop - not(9) and true and 4 or u and 87500 - 4; pop end

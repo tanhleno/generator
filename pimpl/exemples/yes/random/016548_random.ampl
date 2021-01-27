@@ -1,0 +1,1 @@
+program A : v : takes K, Nf20, e9 : integer returns nothing let j[false - 2] = array not 5 and 2170; do c(- 6 - 81900); input U[03400] end M : takes n7, I : integer array; v2, v, A0, W6N, m, J : integer; A : integer array returns integer r, v : integer array; g, P, s0H0a : integer; do J50(6 <= 0, 15, 17) end main : tBC, fK, p : boolean; chillax end

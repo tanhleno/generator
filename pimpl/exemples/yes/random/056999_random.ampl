@@ -1,0 +1,1 @@
+program Y : J38 : takes g3A0a : integer array; f : integer array; B1 : boolean returns nothing input t05[- true and 45]; do Oo9(9 - 539, 7 = 4, 4490) end main : do s((45 = 2) / (431) * true + not C1ia or not 8 and 4, - (1) and not 8 + false) end

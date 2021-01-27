@@ -1,0 +1,1 @@
+program rp2 : G : takes Q, L, e6Q0a, I : boolean; w, R : integer; DU : integer array; h1Xa, Z6 : boolean array; F7d : integer returns boolean array me : integer array; while - true and 076 - 5 - 8 <= - 3270 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program B : J : takes b6e : integer array; a : boolean returns integer output - 2 - 460 > 0120 . "1" . "" . "" . ""; while 230 - 6 : chillax end end K61 : takes w5 : boolean array returns boolean array o, L : boolean; chillax end V : takes w, yT : integer returns integer array sF : integer; iVJ : boolean; chillax end main : o6V : integer; chillax end

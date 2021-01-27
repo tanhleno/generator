@@ -1,0 +1,1 @@
+program E10 : I : takes Y, k : integer array returns integer v : integer; g, b : integer; J : boolean; let U19[- (009) and 54 or 1] = - 2 - 4; pop end main : let Cs = array d[6] or true / (8) or 6 + 89; pop - false and 37 > 428 end

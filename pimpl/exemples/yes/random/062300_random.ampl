@@ -1,0 +1,1 @@
+program i : r : takes H : integer returns boolean do SE(- not 5 and 1, 6270 - 3); input kj; do QPM(8 = 05); let I = 6 end t : takes mPl0a, pYHa, O : boolean returns integer pop end main : bx4 : boolean array; chillax end

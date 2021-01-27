@@ -1,0 +1,1 @@
+program rv : main : M, s0e, k : integer array; mm9 : boolean array; when case true and(0) or not K + (2) /= false : do H3(- 131 >= 4) end case - 2110 / false and 91800 + (3) and 628 : chillax end case C and 798 or 508 - 9 : do _4_(2, 8) end case - 7360 - 33 : chillax end otherwise : chillax end end

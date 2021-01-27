@@ -1,0 +1,1 @@
+program j2 : Y : takes n : integer array returns boolean w3, B49aa : integer; when case - 2 : input mL10a[3]; do HG(9); let X = 15 end otherwise : chillax end end main : while 04 - not W : chillax end end

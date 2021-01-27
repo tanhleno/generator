@@ -1,0 +1,1 @@
+program _81 : G : takes L : integer; y6, p : boolean; FA, hhyaa : boolean; v8ka, d : integer; f : integer; T8n, oK2 : integer array; gi, z : boolean; ds : boolean; Q2f : boolean returns boolean array na, U4, C7, b0, E3c : integer array; output "" . 31 = 56 . 1250 . 07 . "" end main : let l2 = false and 1940 - true or 2 - 747 < - not 6 and 23 + 0 - 8 end

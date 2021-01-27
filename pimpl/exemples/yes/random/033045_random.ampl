@@ -1,0 +1,1 @@
+program _16a : o370 : takes mR8, B : integer returns nothing let _T40a[76 or 6 - 6] = array 4 end main : do b7ba(- false and false, (87) rem false and 4 or not 4 and 676 <= not 453 and 6 - 9); let X[false] = array - true / 7 or not 8 - 51; input zy end

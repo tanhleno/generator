@@ -1,0 +1,1 @@
+program mu7a : Kn : takes Lava : boolean; E4, g, O, D, wgK, J3Ya, X : boolean array returns boolean array chillax end main : D0Z, B : boolean array; b : boolean; j : boolean; while true and(2) * true and 9 : chillax end; pop; output "3\"" end

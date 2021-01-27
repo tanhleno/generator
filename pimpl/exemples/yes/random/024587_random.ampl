@@ -1,0 +1,1 @@
+program V : y990 : takes b13, YS6aa : boolean returns nothing N : integer; pop; when case - 16900 : chillax end; let B5w = 10 end Yr : takes _, l, a : integer array; U : integer array returns integer array ZsM, W62 : boolean; do X(36900 > 5) end main : W : boolean; output "\t" end

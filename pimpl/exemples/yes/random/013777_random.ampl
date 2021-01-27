@@ -1,0 +1,1 @@
+program X : n8_ : takes h, Y, d : integer array; l, n, Au : boolean array returns boolean array input j[- b and 1910]; let G11[- 0 - 7] = array 9 end main : pop; when case 66 or false and 47 : chillax end case 40 and 2 = - 9 : pop end otherwise : input q3 end; input l830a end

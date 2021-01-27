@@ -1,0 +1,1 @@
+program TW0 : main : R : integer array; output "\""; when case - 35700 and true and 4660 + false : pop 7110 end case - true and 96 + 8 <= - 6 : let d2 = array 56 end case 5 : when case 28200 : chillax end; pop; pop end end

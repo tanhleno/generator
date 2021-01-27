@@ -1,0 +1,1 @@
+program y : main : FR, z5I, od40a, VGe : boolean; while true * 444 > (95800) : while 9 = 0 : while 3 : chillax end; do oTb0(9); pop end end; while L(563) or not 3 and 7 or 37 - 4 <= not 0 and 3740 : pop; while 859 : chillax end; output ""; do N(8) end; pop 090 /= 1 end

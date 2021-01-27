@@ -1,0 +1,1 @@
+program G : r : takes dY, z, vC2a, W6 : boolean array; U1Ha, A : boolean; F, Ru : boolean; mo : integer returns nothing a : integer array; I, OT : boolean array; chillax end F3 : takes J : integer array; QR, A, _1 : integer returns boolean chillax end main : m, o, Hg4 : integer array; let _66a[- (25 = 2)] = - (2) / (9) and 3 end

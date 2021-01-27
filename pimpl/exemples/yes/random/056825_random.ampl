@@ -1,0 +1,1 @@
+program V : n : takes R : integer array; F : integer array; l7, N0M, o39a, MS : integer array returns boolean array chillax end m : takes Gu8, MB, V : boolean array returns nothing chillax end D9 : takes g, t00 : boolean array returns nothing a : integer; do Aq(39 = 802, 65600, 1) end main : HK00 : boolean array; y : boolean; x, NB, z : integer; chillax end

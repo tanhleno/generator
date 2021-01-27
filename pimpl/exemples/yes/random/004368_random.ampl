@@ -1,0 +1,1 @@
+program xn00a : o : takes V3, x9A, CC0, gtF0a : boolean; C, a : boolean returns boolean array chillax end main : d81 : boolean; U : integer array; vf, V, i : boolean array; h, E6, C, eRy : integer array; kN8, A : integer; do F(not i5 /= 1, false * not 4820 or 3 and 17100 /= - not 98 and 7 or 9) end

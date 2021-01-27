@@ -1,0 +1,1 @@
+program B : F7 : takes P : boolean array returns nothing chillax end pP : takes g, u : boolean array; w0 : boolean array returns nothing chillax end main : Kao0 : boolean; let fW[true] = - false and 741 and 0 end

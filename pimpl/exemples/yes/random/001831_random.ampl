@@ -1,0 +1,1 @@
+program CKv : z : takes N, e8M0a, L3, M_, _7X, j : integer array; O : integer array; ni : boolean array returns nothing chillax end main : do L8(- (0 = 8) + (0) <= false, not not 0 + 8 and 2, - 5 - 0 /= - 607) end

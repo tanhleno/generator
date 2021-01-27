@@ -1,0 +1,1 @@
+program i : Z9 : takes u, t, Un, f97a, T1 : boolean array returns boolean X60, kB, v9gaa, y : boolean array; input w end E0 : takes K : boolean returns nothing s7, f, T, hS : boolean array; chillax end main : input g[(763) rem false * false and 5830]; do IV(i3[8] / false and 33 or 8 and 0 >= I, fPo and 2 + 32900 <= - 3 - 8); while - n and 46 : chillax end end

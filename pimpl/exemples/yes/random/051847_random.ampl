@@ -1,0 +1,1 @@
+program X : e : takes e : integer; m7 : boolean array; Z : integer returns integer chillax end zj : takes qh3a : integer returns integer array output ""; pop end K : takes u090a, giU0a, mD : integer; PpC0a : integer returns boolean array do C41(07) end main : chillax end

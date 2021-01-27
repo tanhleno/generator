@@ -1,0 +1,1 @@
+program T : main : _D : boolean; WGN0a : integer array; k : boolean array; j : integer; SmR, V7 : integer array; Y6, M6La : boolean; O9Eaa : boolean; iS : boolean; pop; pop; do c(- _ - 01 - 8, 24600 <= 01); let qA[- 8170] = array - 9; output "" . 0; while 3470 : pop end end

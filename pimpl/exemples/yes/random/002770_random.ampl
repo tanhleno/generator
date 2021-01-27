@@ -1,0 +1,1 @@
+program ix4a : z560a : takes k, Ol, G, o, Jd : boolean array returns nothing chillax end main : s, P : integer; while - not 0 / not false + 7 or not 4 - 52 : when case 8 /= 0460 : chillax end; do p6(58 = 7, 0); do D(54); while 5 : chillax end end; input e5[- true]; while false and 3700 < 0 : chillax end end

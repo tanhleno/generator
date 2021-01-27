@@ -1,0 +1,1 @@
+program U2s0a : P6 : takes G : integer array; H6v0 : integer array returns boolean M, Q, e75, v : integer; while T and 5 : chillax end end main : S, f, p, P7maa : integer array; zy, a, oH20, R : integer; J, J5w : boolean array; chillax end

@@ -1,0 +1,1 @@
+program qZ : main : let D10a = 996 or(3) and 7 - 6 - 1 > false and 0 or 3 - 8; when case - (10100) and xW0 and 81 - _ and 4 : input FgFa; do c(4, 40200); let H = 6; do r(8); pop end case not 15 and 9 > 69700 - 39 : while 0440 : chillax end end case 0 - 31 >= 4 : when case 0 : chillax end end otherwise : chillax end; input c[- (0) and 0]; output 9 . "\n" . 9 . "" end

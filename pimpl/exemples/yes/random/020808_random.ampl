@@ -1,0 +1,1 @@
+program j : k8 : takes c4, B : boolean array returns boolean array chillax end main : x0N, M : integer; K1, xA3, X, Qw, Z070, J : boolean; when case - (7) / true - not not 9 + true or 08 >= - not true or not 23 - 6 : output "" end; let U[- o16[3] / true] = array B2[9] / ZZ; input m0M0[- VJ and 961]; input Z7X; pop end

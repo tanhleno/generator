@@ -1,0 +1,1 @@
+program b9 : W : takes h8 : integer; g, u390a : boolean returns nothing N, g : boolean array; tyj0, t, i, i6 : integer; do B(- 2 and 9 - 4140 < - 724 - 2, - 06 - 25) end u : takes f900a : integer; g8 : integer returns integer array chillax end main : n : integer array; output(9) / false and 1; let V = true and 4 - 30 - 4 /= - 387; let s_[- false] = array(8) end

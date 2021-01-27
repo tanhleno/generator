@@ -1,0 +1,1 @@
+program w21 : C : takes Mc : boolean returns integer R5Y, s : boolean array; chillax end f9 : takes O : integer array; Y : boolean array; V1W0a : integer; l : boolean array returns nothing do ij(- 8) end main : H6 : integer array; Fx : boolean; input y; let N = 61 and 5 + 6 - 9 = - 30; do xv40a(cZ and 15 > 44300 - 70700) end

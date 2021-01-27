@@ -1,0 +1,1 @@
+program P72 : Fb2 : takes hT, m220a : boolean returns nothing let M = array - 8 or 65 - 178; let o = 09 = 57; input Z6; pop 73100; let E = 600 end main : when case - true rem 3 or true and true : chillax end end

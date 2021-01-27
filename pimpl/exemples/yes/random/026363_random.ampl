@@ -1,0 +1,1 @@
+program u : B : takes Q0, w : integer; X0a0 : boolean returns boolean array while lZ and 814 or 6 - 4 > 5 : chillax end; output "41"; do Q890a(68, 139, 5) end main : aA, h86 : integer array; chillax end

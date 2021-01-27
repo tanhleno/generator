@@ -1,0 +1,1 @@
+program k15 : L12 : takes wL : boolean; K, W19, Y : integer; Tz5, t_ : boolean array; _4 : boolean returns boolean chillax end main : while true and 5 + (94) + (53) - 3 : chillax end; let zt7 = not 3 and 8460 + 4; output "" . "" . 898 . 8 . "V8\""; do f(- 5 - 6, 811, 5, 5); let Wp4 = 8450; do bxu(24) end

@@ -1,0 +1,1 @@
+program z : c7 : takes M42, O, X5 : boolean; b : boolean returns boolean array F3, a4, W : integer; chillax end W : takes H, n6Ia : boolean; y : boolean array returns integer array do Hy10a(- 4 - 1 < 9, 45 = 845); do t(5, 3) end main : chillax end

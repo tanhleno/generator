@@ -1,0 +1,1 @@
+program x : Y91 : takes T : boolean returns integer array Z : integer; chillax end main : q : boolean array; hG, S6, d, U4, H9, lf : boolean array; k8m0, R9, EQRa, S : integer; e, Z : boolean; o : boolean; let L = array - not true; do T(- false / false and 907 - 044 < - false + 3 - 7, - M and 712 or 79) end

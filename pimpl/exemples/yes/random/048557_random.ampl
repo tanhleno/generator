@@ -1,0 +1,1 @@
+program dX : c5 : takes Vs70 : boolean returns nothing d4na : boolean array; let a180a[true - 8 - 7] = array not 8850 + 0; pop; do a(6 = 773, 71, 3) end main : let Y7[(0) * not(40)] = array - (41) / Fm5 / z and 3 or _5(36000) or true end

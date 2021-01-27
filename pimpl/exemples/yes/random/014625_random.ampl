@@ -1,0 +1,1 @@
+program E : r : takes t, P5Z0, mq : integer array; m : integer returns nothing bE : integer array; SQ : boolean array; Z, b : boolean array; ut : boolean; do x((6)) end main : output - false; while not not 572 - true : output "" end end

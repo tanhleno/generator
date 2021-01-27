@@ -1,0 +1,1 @@
+program D8 : h : takes vpd : integer array; Agd : integer; F, e : integer returns boolean array input C[- true]; pop 376 end O8r : takes bN8a : integer array; r, O : boolean array returns boolean chillax end main : X89 : integer array; chillax end

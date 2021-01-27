@@ -1,0 +1,1 @@
+program t : WQ : takes B05aa, f7g : boolean returns integer chillax end bF : takes b, E0 : integer array returns nothing chillax end main : W : boolean; do h((53200) and false / jY6a >= false and 57300 and 47 or(3) and 5 or 91 - 4010); do k(- L6[667] < - not 131 and 8, - (560) - 77000 - 8) end

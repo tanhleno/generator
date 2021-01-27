@@ -1,0 +1,1 @@
+program yv : sy8aa : takes R : boolean; rx, _, x : boolean returns nothing d69aa, w4na : integer; let U = array - not 67 or 911 end main : al, r : boolean; w, C03, d, D1O, D : integer array; chillax end

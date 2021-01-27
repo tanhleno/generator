@@ -1,0 +1,1 @@
+program Q : L38aa : takes Ucf0a : integer array; p : integer array returns nothing O, Q, f : boolean; do s(- not 09 and 90 = 6); output 369 = 28 . 442 . 0; do h(6) end main : input XxSaa[- not false / (984) / (010) and 0] end

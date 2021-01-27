@@ -1,0 +1,1 @@
+program T : R02a : takes u, o : integer array; G : integer array returns nothing w, k : boolean; X0 : integer array; W : boolean; pop; let m[7 - 00] = array - 4 - 0 end main : bteaa : integer; chillax end

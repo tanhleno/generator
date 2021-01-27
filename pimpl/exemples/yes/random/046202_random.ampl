@@ -1,0 +1,1 @@
+program cO : P : takes Yl : boolean returns boolean U : boolean; when case true : output 0 . "ku"; while 2 : chillax end end case 46 - 5 /= 96 : chillax end; output 28 = 8 end main : aS : boolean array; while U4 rem false * (43) <= true / b6 and 8 : while - 41 >= 4 : chillax end end; output "" . 3 - 529 = 7 . 3 . "" . 097 . "+20" end

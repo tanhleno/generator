@@ -1,0 +1,1 @@
+program p : m : takes f1h : integer array returns boolean array input i[not 540 and 50900 or 66] end eEG : takes B7Ja, nmQ0a, g : boolean array returns boolean array l, E : integer array; chillax end a : takes IQc, e : integer; U26 : integer array; W : boolean array returns integer o8U0, N, f : integer; while 0 : when case 4 : chillax end; pop end end main : chillax end

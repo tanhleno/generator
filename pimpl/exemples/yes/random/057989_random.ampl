@@ -1,0 +1,1 @@
+program Qj : z : takes i : integer array returns boolean array pop 7910 - 1 /= 71; when case - 371 /= 1 : chillax end otherwise : chillax end end main : q, sjka : boolean; j : integer; while - (7) : input r end; when case - 6 > true and 60000 or 53700 : pop 6; while 034 : pop end end end

@@ -1,0 +1,1 @@
+program c8 : V : takes R : integer array returns nothing chillax end D9 : takes s, jN : integer returns boolean input k[- 3 - 4]; pop 8; output 53; while 866 : chillax end; do E(2); pop end main : chillax end

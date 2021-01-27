@@ -1,0 +1,1 @@
+program C64 : nm2 : takes sC : boolean; W740a, Bf : integer returns nothing chillax end L : takes c, cp : boolean; Y1, Vpoaa : boolean returns nothing output 7 = 71 . "" . 3 end main : d : boolean array; when case - 625 and(87000) / true : while - 0 - 29 : output ""; when case 57 : chillax end end end otherwise : when case 65 = 11 : chillax end end; let E = - false and 93 end

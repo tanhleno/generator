@@ -1,0 +1,1 @@
+program bJg : main : when case - not true > - (87) + false and 0 : chillax end; while - ym(551) and 3 and 93 + 402 and 0 < - 60 and 9 : chillax end; output "\\" . "v"; when case 9 - 904 > 3 : while 05 : chillax end end case 07 = 3 : input Mf end case 1 : chillax end otherwise : chillax end; input n end

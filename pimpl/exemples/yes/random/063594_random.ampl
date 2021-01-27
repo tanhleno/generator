@@ -1,0 +1,1 @@
+program a6 : s11 : takes M : integer returns integer when case(91) >= 5 - 013 : chillax end case - 7 : chillax end case 9880 : chillax end case 5 : chillax end case 44 : chillax end otherwise : chillax end; pop; output "" end main : jm20a, e52 : boolean; f : integer; chillax end

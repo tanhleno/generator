@@ -1,0 +1,1 @@
+program M : U : takes V : integer array; g : boolean array; F : integer; tkFa, Xc5, U : boolean returns integer array L : integer array; chillax end k5Na : takes R : boolean returns boolean chillax end main : r, V : integer; XN, P : boolean; L : boolean; input B[not false] end

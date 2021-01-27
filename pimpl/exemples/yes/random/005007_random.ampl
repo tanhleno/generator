@@ -1,0 +1,1 @@
+program Y86aa : s : takes Z1, Cjd, pOA, h : boolean array; l : boolean; r, y : integer array returns integer d : integer; X : integer; do O7(- not 122) end main : while - (1) / 552 or n[2610] / true and 50 + not 908 and 78 : input i end end

@@ -1,0 +1,1 @@
+program KfJaa : D : takes a, x, S1, Qb : boolean; q, F, Tb0, q, m : integer; NM30a : boolean returns nothing while - (54) and 8 : chillax end end main : when case false * true + false - true and 516 = true rem(527) : input nbq0a; while 5 : chillax end end end

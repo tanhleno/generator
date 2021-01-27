@@ -1,0 +1,1 @@
+program X : l3 : takes o : boolean array returns integer array x : integer array; Yp : boolean; chillax end main : output - not 1; output "" . "" . ""; output 19 - 1; let A = array - 3 - 9; output ""; let px = array 88 end

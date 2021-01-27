@@ -1,0 +1,1 @@
+program rW : YZ : takes W, VV, W : integer array returns boolean u, X, AS, H : boolean; do LcM0(- (0) and 929 > - 17 - 67, - 72 - 01100 < 5) end t : takes I, _1, k : boolean array; _, R, eh6 : boolean array; fxc, K5, I5, _ : boolean; vH : integer; j, k3 : boolean returns nothing input Q6 end main : DU60 : integer array; B, L, d, PU2a, x9 : boolean array; chillax end

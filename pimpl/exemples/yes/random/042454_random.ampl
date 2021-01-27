@@ -1,0 +1,1 @@
+program WM : gR0a : takes H : boolean array returns integer array chillax end b : takes O : integer array; E14, Zt : integer array; A : integer returns nothing c, m18a, QQ : boolean; do q(3 - 94, 39, 5); while 65 = 47 : chillax end end main : chillax end

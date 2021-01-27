@@ -1,0 +1,1 @@
+program P : kU1 : takes Y8, V, e, I5t0a, a, G : integer array returns nothing bu, r27, Y0 : boolean array; L9y : integer array; P : integer array; Rx : boolean; chillax end main : output "\th\"a" . "$9"; input V7P[7 / qW6 and 9 + (147) and 67800 + 2 - 495] end

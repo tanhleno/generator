@@ -1,0 +1,1 @@
+program o : h8Iaa : takes S : integer returns integer array chillax end main : F : boolean; zp6 : integer array; CPj0 : integer array; Oz1, gg, n : integer array; F, rj90a, J : boolean; while - 65 : chillax end end

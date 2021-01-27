@@ -1,0 +1,1 @@
+program I : u : takes S, ezN : integer array returns boolean array pop; when case - 682 <= 9 : pop; input M; pop end case 8740 = 6 : let ZJ = 33000 end end main : F : integer array; input i[true rem(42) rem not 276 and 1 - (3)]; input X[- A(1) rem false]; output ""; input sKs[- 7 - 94000]; input Z0[80]; output "" . ">}" end

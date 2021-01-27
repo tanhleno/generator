@@ -1,0 +1,1 @@
+program r : p : takes D, M2 : integer array; YZYa : boolean array; dZ7, Q : integer; Q7 : integer returns boolean array chillax end main : do NI0((39) rem(63) rem 889 and 675 < (8) - false - 8, - U0G / not 1, 4 > 43 - 4) end

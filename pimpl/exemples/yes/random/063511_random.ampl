@@ -1,0 +1,1 @@
+program D_5 : M : takes t : integer returns integer b0 : integer array; b11 : integer; N, T, N1 : boolean array; P, Y : boolean; s5 : boolean; S : boolean; chillax end p6 : takes _, Rp4 : boolean returns nothing l4, Ju8, K, D : integer; m3, M : boolean array; input J end main : gy : integer; when case Z * o[679] rem 6 : chillax end otherwise : chillax end end

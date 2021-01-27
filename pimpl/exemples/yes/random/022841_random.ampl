@@ -1,0 +1,1 @@
+program js : b : takes l7I0a, r7K0 : boolean array returns nothing while 1 = 6 - 08 : chillax end end main : v720, h : integer; I, s, fL : boolean; while - (996 = 52) - qB(53) : output "" . "" . 6 . "" end end

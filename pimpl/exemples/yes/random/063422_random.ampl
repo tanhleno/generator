@@ -1,0 +1,1 @@
+program F : A : takes f9 : integer returns integer U2Va : boolean; chillax end main : P, y8, L, B : integer; while(8 = 3) - false / false : when case 7 - 2 : while 968 : chillax end end end; while false rem k5 or true < l - 018 - 3 : chillax end; pop end

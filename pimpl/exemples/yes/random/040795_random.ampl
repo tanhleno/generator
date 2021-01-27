@@ -1,0 +1,1 @@
+program Z1 : q : takes r : boolean array; i : integer array; D6, D26a : boolean array; Ns, y : integer; x, N6, h5d : boolean; W : boolean array; D6_, Y : boolean returns boolean array input b[rx and 1]; input F2X[500 - 62] end main : chillax end

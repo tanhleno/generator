@@ -1,0 +1,1 @@
+program p030 : CGm : takes c, l : boolean; L99 : integer; z3, a : boolean returns integer array while - false : input R[4] end; while - 09100 - 34200 : let c4 = 4; while 890 : chillax end end end main : pop(1); while true > - true and 20 or 15 - 1 : chillax end; input C end

@@ -1,0 +1,1 @@
+program Mf : F9 : takes d9za : integer array; x : integer array returns nothing output 7 . 7 = 29 . 9 . 22 . "" end main : F13a : integer array; Kd : integer; K, N2, o, b : integer array; let T570 = _[29100] and W9l and 9320; while true : output 2 end; input i; while - 5 - 5 < 068 : chillax end; do O(96, 3150, 41); pop 9 end

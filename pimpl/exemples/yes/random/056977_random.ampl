@@ -1,0 +1,1 @@
+program CN : m : takes TV9 : integer array; e : integer array; hT0 : boolean returns boolean array input x[- true] end main : J : integer array; S7 : boolean array; pop; pop - s0 and 92 - 62 - 697 < - 67 end

@@ -1,0 +1,1 @@
+program hf : W : takes c, HU, L : integer returns boolean array chillax end u : takes IQI0 : integer returns integer G : boolean; chillax end main : D, vD, F, C, A4, sG10 : boolean; when case true rem false or false rem true and 62 /= - not 78 : pop 4280 = 5; pop 818; input h7[97] end otherwise : input n end; output - true and 37 >= 35 . "" end

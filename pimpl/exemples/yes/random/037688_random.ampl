@@ -1,0 +1,1 @@
+program o7 : Th : takes C : boolean array; ut, d2, O91aa, x9, R : integer returns boolean array do x3(C0 and 3 or 84 <= 259); let n = 0 = 04800 end F910 : takes l : boolean array; u : integer; n : boolean; I : integer; P, L : boolean; r, eC : boolean; S9 : boolean; x : boolean returns boolean chillax end main : c, hg : boolean; D45 : boolean array; input uz end

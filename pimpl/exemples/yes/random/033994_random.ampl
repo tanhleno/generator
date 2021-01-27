@@ -1,0 +1,1 @@
+program Km5a : l : takes l : boolean; qAja, if, t : integer; A8, H : boolean; Tf6 : boolean array returns nothing f1, GTv0, J, X0, D : integer array; O3, E860 : boolean array; v : integer array; F7J : boolean; input B48[- 06 and 93 - 3 - 97]; input A end main : chillax end

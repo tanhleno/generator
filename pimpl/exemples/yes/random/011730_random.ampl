@@ -1,0 +1,1 @@
+program Mk : Y : takes _CC, Z, w2 : boolean returns boolean I3L : integer; chillax end main : let Qj7 = - false or not 0 or 6; do h(false rem(021) and 20 > - (58) and 63100, 21 and 4 or 122 - 6 = - 26300 - 2850, 9 - 0) end

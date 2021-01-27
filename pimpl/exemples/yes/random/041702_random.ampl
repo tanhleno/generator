@@ -1,0 +1,1 @@
+program qq : n5 : takes v : boolean array returns boolean array ZN9 : boolean; t0Y0a : integer array; chillax end _5 : takes d : boolean; t, Gr00 : integer returns nothing do EMCaa(721 - 5100 = 61) end main : chillax end

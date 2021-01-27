@@ -1,0 +1,1 @@
+program z : W : takes q : boolean array returns nothing output "\t\t\"a" . ""; when case - 58 : while 07 : chillax end; let U = 05; pop end case 0 = 6950 : chillax end otherwise : while 3 : chillax end end end main : Q, k, O, F010a, f : boolean array; k : boolean; v, xMF, P : integer; chillax end

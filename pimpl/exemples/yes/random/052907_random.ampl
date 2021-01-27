@@ -1,0 +1,1 @@
+program w : b : takes l : integer; U : integer array returns integer array chillax end main : while - Hs0(9, 18) * uk[8] or(83) /= not false rem 8 and 3860 : chillax end; pop - true; input O[not 71 and 7 - 05] end

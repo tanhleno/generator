@@ -1,0 +1,1 @@
+program k : main : pop - 2 * (7660) and 9 <= - 7 and 4940; while - false and not 06900 and 6 - (1370) + 31 - 5 : input UW[37]; pop 9; input B1; let d = 8; pop end; let n6[P + 2] = array - 58200; let dMz[21 - 68] = array 3 end

@@ -1,0 +1,1 @@
+program j : K : takes t : integer array returns integer Dy : integer array; let r = - 49000 - 71900 <= 8 end o : takes Q4, w : boolean; f770a : integer array; ZT00, f : boolean array returns nothing e : boolean; input O650a[30]; while 95 : chillax end; do c(74); do s3(540) end main : chillax end

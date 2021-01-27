@@ -1,0 +1,1 @@
+program _5A : x9 : takes y2N : integer returns nothing when case not 63 and 58 - 0 - 018 < - 4 : output 3; while 8 : chillax end; when case 5120 : chillax end end; do U(22); while 7 = 8 : do G(8) end; do Y(1, 1) end p : takes E40 : boolean array; yM : boolean array; q : integer returns boolean chillax end main : pop end

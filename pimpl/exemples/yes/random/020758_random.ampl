@@ -1,0 +1,1 @@
+program q7x : Q99 : takes U7, R95a : boolean array; L93 : integer returns nothing output "\"" . ""; do _(- 8 <= 25, 7, 92600) end Ls60 : takes Z : integer array returns nothing T, j : integer array; E : integer array; input O0ma[92 - 9]; output ",]"; pop 680 end main : K : boolean; X8 : integer; AE : boolean; Yc, h, M, YX : boolean array; L6 : boolean; chillax end

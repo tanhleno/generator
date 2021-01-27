@@ -1,0 +1,1 @@
+program K38 : Vf : takes x1 : boolean; v, Z4Zaa, k, ccf : boolean array returns boolean x : boolean array; Xc6 : boolean; Pd, s : boolean; chillax end b2 : takes X, j : integer array; qa, a, no30a : integer; b : boolean array; qPu0 : integer returns integer do M4(24, 5 = 4) end main : chillax end

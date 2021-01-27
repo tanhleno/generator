@@ -1,0 +1,1 @@
+program wFW : main : g : boolean array; Xqg0, XB, h, b, F, k3t0a : boolean; lF10a, d : boolean array; j, fKH : integer; let L[- 82 rem true rem true and 3] = true - 60 or 6680 - 2 < not 2 and 3 - 3; while 63 : output "I" end end

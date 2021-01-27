@@ -1,0 +1,1 @@
+program nM40a : n54 : takes Ob3 : integer returns boolean array W2 : boolean; TS9a, _ : boolean; xH, D, B : boolean array; output - 797 - 28200; input q[8 - 62300] end main : r8 : integer array; f4 : boolean array; c, r_ : integer; Z, ts, k : boolean array; chillax end

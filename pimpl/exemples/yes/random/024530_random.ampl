@@ -1,0 +1,1 @@
+program T : f1 : takes i72, X : boolean returns nothing Vi : boolean array; input l; while - 6 - 1 > 19 : chillax end; while 2 = 5 : do dhp(0) end; output 003 . "'" end main : do N(- Lr(2) and(45) < - 2 / e5ga) end

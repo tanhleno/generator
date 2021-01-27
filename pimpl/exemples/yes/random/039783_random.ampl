@@ -1,0 +1,1 @@
+program e : dlM : takes Wj5aa : boolean array; q7 : boolean array; jk7, b55a, eN : integer array returns nothing l : boolean; do q5(40 and 5240 /= 875); let B = 3 end main : U, z : integer; J, f_, d8 : boolean array; Q : integer; chillax end

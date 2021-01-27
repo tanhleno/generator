@@ -1,0 +1,1 @@
+program E76 : A6d : takes vE7 : boolean; v620a : boolean; T5 : boolean array returns nothing output "G\"aa"; do K690(81 < 0) end o : takes W8p0a, Y, Bc : boolean returns nothing while 5 - 276 < 1 : let YPd = 04300; output "" end end main : B : integer array; b20, xr, F, v : boolean; chillax end

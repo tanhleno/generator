@@ -1,0 +1,1 @@
+program f : _9 : takes R, Wr : integer; EPyaa : integer returns integer g, Ct1aa, a : integer; L : boolean; while 1 + 2250 - 461 : chillax end; input Qk[- 9]; when case 158 : output "" end otherwise : pop end; pop; pop; input h end main : input mq end

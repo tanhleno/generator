@@ -1,0 +1,1 @@
+program B : main : S : boolean array; r : boolean; pop; do k(- false / Q or(5) and 2 - 91, V07 and 3 + 0 - 6 /= 7); input I0; let pp1a[- 47 - 6] = 29900; pop 3; pop 343; when case 6 : chillax end; while 1760 : chillax end; pop end

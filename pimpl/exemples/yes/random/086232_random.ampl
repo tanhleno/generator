@@ -1,0 +1,1 @@
+program E5 : main : kC10a : integer array; I, S3 : integer array; aT, n9t : integer array; p7p, oJ, w, _4B : boolean; let d6[- k00[1] or false / not 4 and 76 + (0) and 7 - 46500 - 60] = - not true - (8) and 6 end

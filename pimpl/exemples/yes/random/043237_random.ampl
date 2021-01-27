@@ -1,0 +1,1 @@
+program h : A : takes AMHa : boolean array returns integer d : integer; J : boolean array; tF : boolean array; pop 77 >= 0 end k : takes fM20a, X9, AD : boolean; lm8a, H, v : integer returns boolean array do M0R0(- 4 >= 5, 90500, 6, 5) end main : chillax end

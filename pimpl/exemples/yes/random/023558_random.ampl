@@ -1,0 +1,1 @@
+program q6 : DV7aa : takes W, Z : boolean returns integer array Wc : integer; when case true /= 95 : let I4[697] = array 6; pop; input D end end O : takes m8, i, U, X, b, B3 : integer returns nothing h : integer array; pop 6 = 4 end main : Ar0 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Hb20a : a_2 : takes L : boolean array returns boolean pop - 9 = 5; output 8 end main : K38 : boolean array; while - u2[8] rem false / false or(4) : chillax end; pop E7d and 6 + 848 - 16; output 9 . "|9a" . ""; when case - 9410 : chillax end case 792 = 6 : when case 305 : chillax end; pop end otherwise : chillax end; do wJ(6 = 57500, 9, 3) end

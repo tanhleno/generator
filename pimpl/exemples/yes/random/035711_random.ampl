@@ -1,0 +1,1 @@
+program d : K : takes uk80 : boolean; q : boolean array; f : boolean; n : boolean array returns nothing R : boolean; chillax end main : do Y410a(- i[5] + true >= false * L, (4) or Fr1 and 7 < e - 1 - 49400, - true or 67200 - 14 /= 30); when case(94) and false and 98 - not 1 and 22 : chillax end case - 7 and 54 - 44 : chillax end otherwise : chillax end; pop - 4 end

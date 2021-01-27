@@ -1,0 +1,1 @@
+program Bz3 : G76 : takes ECE, c9R : integer array; h : integer array returns boolean array chillax end main : W, H : boolean array; when case false : chillax end otherwise : when case 4 : output "y\n!"; pop end otherwise : chillax end; while 21 : pop end end end

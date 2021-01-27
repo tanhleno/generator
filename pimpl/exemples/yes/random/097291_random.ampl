@@ -1,0 +1,1 @@
+program R : main : when case not true and not not 25 + not false + not 5 : output "(" . "" . 81 end case - not G / g or i61 and 7 - 104 <= - (3) - 66 - 73 : do D3(36800); input jb[42200]; pop; pop end end

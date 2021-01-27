@@ -1,0 +1,1 @@
+program l : _2 : takes X, A58 : integer array; W, _, r5 : integer array returns boolean input N[- (4) and 2] end WR : takes m : boolean; Z2, QP20a, A : integer; H2, N : integer array returns integer while - 1 - 27 : chillax end end main : _41 : integer array; L, Wf7, l, T : integer; chillax end

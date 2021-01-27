@@ -1,0 +1,1 @@
+program d : o : takes Ju, xG70, F : integer array returns boolean array let a4n0a[- not 9 and 6] = 7 - 26 end p : takes y5 : boolean; VU20, i, Q : boolean array returns nothing when case 3 - 2 : chillax end case 19 = 2 : input SaG0; pop end; output 0 end main : chillax end

@@ -1,0 +1,1 @@
+program m3 : N : takes C1, _ : integer returns integer array v4, uMU0, pd, N : integer; do j(b9Aa + 521 >= 1, - 5510) end main : KK50a : integer array; x, Uuqaa : integer array; output(04) . - false . "" . "$" . 67200 . 6; pop end

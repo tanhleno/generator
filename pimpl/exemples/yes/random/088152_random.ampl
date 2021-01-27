@@ -1,0 +1,1 @@
+program v1 : main : input Q6h; when case - 578 + h and 0 or 591 > false and 56 + 8600 - 082 : when case 6 : output "" end end case - true and 3 : do s0caa(3); pop end otherwise : output ""; let v = 78 end; when case - u : output "%" . "\"" end case 21 = 48500 : chillax end case 1 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program _ : HW : takes D : boolean array returns integer array S, vGR, Y1 : integer; EU : integer; pop - 61; output 967 = 66 . "d" . ""; when case 4 = 552 : chillax end end main : J7qa, yy6a : integer; do So(Y800a[2] * 1) end

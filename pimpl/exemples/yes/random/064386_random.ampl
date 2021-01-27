@@ -1,0 +1,1 @@
+program L9 : a : takes k : integer returns nothing j, c, p : integer array; F : integer array; n, Tr, fG3 : integer; chillax end L : takes l : boolean; c, T : integer array returns nothing mr5aa, y7, jL, R : boolean; u : boolean array; when case 6 - 55400 > 12 : chillax end case 3 : while 9 : chillax end end otherwise : chillax end end main : yx : integer array; chillax end

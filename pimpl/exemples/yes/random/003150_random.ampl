@@ -1,0 +1,1 @@
+program B : D : takes ad, Sd, Xs1, G, L1 : integer; rQ6, WJ, Q : integer array; u_, w, za8a, BQ : boolean array returns integer array QCD, H : integer; PW9, Jq, U, Z3p : integer; Z8, D : boolean; z, v : boolean; while(88500) and 6 or 898 - 56 : output 057 . "Kd\"" end end main : let E390a = - true and true + false end

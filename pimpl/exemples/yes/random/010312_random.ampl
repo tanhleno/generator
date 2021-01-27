@@ -1,0 +1,1 @@
+program K : sR : takes z7Saa, A8Sa, r3 : boolean array; Y : integer array; no, g : boolean array; K : integer array; ab : boolean; HD, U : integer array returns nothing when case 8100 and 5 + 63 - 3 : chillax end otherwise : chillax end; let h[9] = array - 7 end main : tW : boolean array; chillax end

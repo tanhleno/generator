@@ -1,0 +1,1 @@
+program P1 : l : takes m7 : integer array; R : boolean; u : boolean returns boolean chillax end L : takes o, X660a : integer array returns nothing chillax end main : output false * U - true /= - (1) and 67 end

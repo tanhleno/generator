@@ -1,0 +1,1 @@
+program jG : ywF : takes e, oW : integer array; P6 : integer array returns nothing pop - 35 - 00; do H3(- 2) end main : P3z, k, Z : boolean; let X = false and 5 or false and 3 or 787 >= true - 71100; do M610(not false rem not 663 <= - (02100) and 3150 or 695 - 18) end

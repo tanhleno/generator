@@ -1,0 +1,1 @@
+program W6 : l : takes o : integer returns boolean J, f, Z, E, xt : boolean; m, z : boolean; B, y : boolean; input I; let p = 2 end main : J, b : integer; Ns, AL : integer; SFo : integer array; chillax end

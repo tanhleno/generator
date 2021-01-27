@@ -1,0 +1,1 @@
+program m : P4 : takes z, F, u, e72aa : boolean array returns nothing XmD0, AY : boolean; E7, A, n, O : integer array; chillax end main : O20 : integer array; B6, GEnaa, q, B13a, Nq : boolean; when case - 8 < - true or f and 9 + 4 - 09 : chillax end case - PQY0a[18] * (62) or 2 and 3 + 7 /= - false : chillax end; when case - 31 * BEv = 9 and 935 - 4 - 6 : chillax end end

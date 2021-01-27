@@ -1,0 +1,1 @@
+program UV : main : while true * (7) rem(2020) and 8 + false rem(0) and 52 : output "4" end; when case - true rem(2) and 92 + 034 or 6 : input L94 end case - not 961 and 629 : chillax end otherwise : chillax end end

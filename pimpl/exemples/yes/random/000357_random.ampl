@@ -1,0 +1,1 @@
+program e9 : W : takes P4p0, gM, Tu8aa, x98, x, Bq6, saZa, K2 : integer; q : integer array; z, B, c0, z : integer returns boolean array G0, i6A : boolean array; y : boolean; q : integer array; Cf, D9 : boolean; O : boolean; do TjCa(9) end main : o, u4, Ju : integer; chillax end

@@ -1,0 +1,1 @@
+program H : C : takes R, T, g, WA, Z6q : integer; Z, y, f2 : boolean returns nothing b : integer; a : boolean array; a : boolean; while(639) - 1 /= 40 - 7 : do f(45500); pop; output "9"; pop end end main : chillax end

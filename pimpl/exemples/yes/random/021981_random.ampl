@@ -1,0 +1,1 @@
+program F0 : Z5 : takes m, c : boolean array returns nothing chillax end main : Da2, h4, x : boolean; when case false and 98 < false - not 9010 and 35 : input ym[19]; input cQ[532] end case - (8) or true : chillax end case false and 01300 : while 995 : chillax end; output ""; input QE4; pop end otherwise : chillax end end

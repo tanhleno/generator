@@ -1,0 +1,1 @@
+program LG : He : takes D, H11aa : boolean array returns nothing S3 : boolean array; e : boolean array; when case true or 8410 <= - 8 - 7 : chillax end; output "" . "V."; output 0; pop end main : o : integer; chillax end

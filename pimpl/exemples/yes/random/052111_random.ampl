@@ -1,0 +1,1 @@
+program u1 : J : takes t : integer; RFSaa : boolean returns boolean array do w((5) >= 90400, 5 - 27 <= 4); pop 9 end U : takes iJ0aa : integer returns boolean array do RR50a(- 4930 <= 07, 28800, 16, 0) end Tl : takes ka : boolean array returns nothing chillax end main : chillax end

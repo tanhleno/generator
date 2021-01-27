@@ -1,0 +1,1 @@
+program W7f0a : q31 : takes a, Y6, b : integer array returns nothing chillax end main : Z020 : integer; g, u8U0a, VP6, D9, RB2 : boolean array; do _7k(400 - F(120) and not 88 and 0, - hq + f and 4) end

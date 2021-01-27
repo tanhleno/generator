@@ -1,0 +1,1 @@
+program K : Q : takes iq : integer array returns boolean array chillax end aip0a : takes F : boolean; l1v, W14 : boolean returns integer let C7 = 678 = 6; input E95aa end main : when case h3Ja[09] - I2[191] rem 555 - not 41000 and 3 or 4 < not D or false and 55200 : chillax end end

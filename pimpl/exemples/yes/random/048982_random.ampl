@@ -1,0 +1,1 @@
+program LC : fL : takes r : boolean returns nothing output 8560 . "`" . ""; pop 462; input s4[5] end R : takes D : boolean array returns boolean chillax end main : input qJBaa[false rem false * true]; input a end

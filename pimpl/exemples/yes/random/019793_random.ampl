@@ -1,0 +1,1 @@
+program D : V : takes f7, vvwaa : boolean array; TV : boolean; _07a : integer returns boolean array I, O, Tvs, d : integer; la : boolean; H, F, xar0a : integer array; mR8, O0Ea : boolean; chillax end main : input Q end

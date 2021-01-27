@@ -1,0 +1,1 @@
+program t0 : jJ6a : takes C3d : boolean array; Yk, H, D2B0, V : boolean array returns integer array let y5[- 90 and 66] = - 0 - 30 end main : Y9 : boolean array; while - not d7 rem not true - not r4 >= not(6) and 1 and 13 : chillax end end

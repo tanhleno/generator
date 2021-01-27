@@ -1,0 +1,1 @@
+program m3b : F : takes V7 : integer; J8a, RC : boolean array; A, hQ, y8S0 : boolean array; B3ma : integer; M : boolean array; N : boolean array returns boolean array chillax end main : let Q[false + E(6) rem false] = array(9) end

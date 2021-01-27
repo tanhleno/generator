@@ -1,0 +1,1 @@
+program s : R : takes S14, mK : boolean array; C : integer array; tIzaa : integer array returns nothing K9 : boolean array; let d[97 - 85 - 6] = - 9 - 028 end main : A, B, I, A : integer array; chillax end

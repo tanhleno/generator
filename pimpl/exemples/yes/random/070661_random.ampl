@@ -1,0 +1,1 @@
+program j : main : H00, SN_0a, D, _1K0a : integer array; when case - (848) + true rem true < true : pop 36000 = 3; when case 2 = 65 : let kg = 3490 end case 1950 : chillax end case 9 : chillax end end; pop - (6) and 7; when case - 4 and 605 > - 0 - 4 : output 2 end otherwise : while 03 : chillax end end end

@@ -1,0 +1,1 @@
+program mW8aa : Y : takes t, H, _, y3 : boolean; Fl, L6La : boolean returns boolean array j7e : integer array; output - 76700 - 2; while - 68 : chillax end end R : takes b, L : integer array; b4w0, h2W : boolean; el6, m6 : boolean array; i5 : boolean array; v770a : boolean; r5T, d : boolean; u : boolean returns nothing chillax end main : L : boolean; let M = - b[69] * false end

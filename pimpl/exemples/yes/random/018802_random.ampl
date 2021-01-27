@@ -1,0 +1,1 @@
+program p : f1 : takes WZ, _ : boolean array; H9, i80aa, l, Eww : integer array; U1 : integer; Ge7, l : integer; N : integer returns integer array b, z, cL3 : boolean array; chillax end main : let G[false and false + true / L4 and 1] = array - false and true end

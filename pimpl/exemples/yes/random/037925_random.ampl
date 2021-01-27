@@ -1,0 +1,1 @@
+program Wl : r : takes r : boolean array; sq3, s1W0a, H, R : integer returns integer array l : integer; uK2 : boolean array; chillax end main : s, Z : boolean; h6waa : integer array; B9, I, O1ra : integer array; do D(- false / C7e0a * false + true) end

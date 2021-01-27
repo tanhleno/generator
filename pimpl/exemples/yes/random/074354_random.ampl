@@ -1,0 +1,1 @@
+program Fr7 : main : P, J : boolean; when case - false / HM / true and 4 or(1) - false : chillax end; do D9(- E[2] and true and 8 or true and 88 <= - d and 15 or 4); output ""; while - 3 - 7 <= 3 : when case 0 : chillax end; while 90 : chillax end end; do S2(3440, 1720, 3); when case 9 : pop end case 7 : chillax end otherwise : chillax end end

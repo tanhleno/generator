@@ -1,0 +1,1 @@
+program U : xm20 : takes i : integer returns nothing rL : integer; chillax end main : T : integer; output - (97) / (0) + true and 6730 + 59 >= false and 3 or 75; while true - 1 and 073 /= true : when case 0 : chillax end case 174 : chillax end otherwise : pop end; pop end end

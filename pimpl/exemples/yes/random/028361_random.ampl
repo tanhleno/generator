@@ -1,0 +1,1 @@
+program o : x : takes l, Q : integer array; xC7 : boolean array returns boolean array c76, UO : integer; chillax end ri : takes co : integer returns nothing e, k, U6 : boolean; Vk : boolean; output "" . 9; let C[9] = 70 end main : o, i3, F : integer; pop y0H or false and 6 - 29 - 57500 >= true - 29 end

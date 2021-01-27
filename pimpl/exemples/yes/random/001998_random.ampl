@@ -1,0 +1,1 @@
+program z : tZK : takes VvV, dd8, V, D, y8, h1 : integer returns boolean chillax end _9P : takes W1f : integer array returns nothing chillax end main : while not 3 / true rem(9) or(3) - 18 - 9 - 04 > - 2 + false and 24 + 6 : do h(1 - 84, 4 = 2); output 7; input _ end end

@@ -1,0 +1,1 @@
+program G : h : takes h1 : boolean returns boolean chillax end u9 : takes M, v : boolean; Zd, VH1 : boolean array; k45, k4Faa, d : boolean returns nothing do X(95 = 18, 8, 8, 8); output "\"ya" end main : b, R : integer array; let K[0740 rem false * true and 732] = array 8 * (8); input t end

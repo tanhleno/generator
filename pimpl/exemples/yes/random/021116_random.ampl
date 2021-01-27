@@ -1,0 +1,1 @@
+program r : z : takes S, L : boolean array returns boolean c21aa, jj : boolean array; v5L0a : boolean array; chillax end main : vjv : boolean; let Xx[(7 = 9) - not true and D and 3 - not 6 + 8 - 8] = array - (71 = 7) - not R82a rem true end

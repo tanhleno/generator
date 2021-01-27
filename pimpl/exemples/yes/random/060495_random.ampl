@@ -1,0 +1,1 @@
+program J : ZK90a : takes E : integer array returns nothing V7xaa, h : boolean; jg : integer array; p6, KQ : boolean array; chillax end main : while - V[40] or false - 69 + 188 - 37 < false and Md or(4) : pop 1 = 1 end; input y[(5) * Beq and 878]; input j[- false and 6] end

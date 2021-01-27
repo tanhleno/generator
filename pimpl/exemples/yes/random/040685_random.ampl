@@ -1,0 +1,1 @@
+program l : p3 : takes bT : boolean array; u6 : integer; L : integer array; KT : boolean; H : boolean; B, r1, d : integer returns nothing let TF[- (0) or 5570 - 2] = array not 8 and 6 end main : chillax end

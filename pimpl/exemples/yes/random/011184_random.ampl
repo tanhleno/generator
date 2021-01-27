@@ -1,0 +1,1 @@
+program Qw8 : r : takes x9, _k, c : boolean array returns nothing v, b, K : boolean; z : integer; wc : integer; pop; when case 9 : chillax end case 30 : chillax end case 4 : chillax end case 2 : chillax end otherwise : chillax end; let lY1 = 9 end i4 : takes j : integer array; n, xc6 : integer array returns nothing output "#H" end main : q : integer; chillax end

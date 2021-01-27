@@ -1,0 +1,1 @@
+program E : q1 : takes hi2 : integer array returns boolean array x3 : boolean array; output 2 >= 3 . 4 = 05600 . 6290 end main : O, cI : boolean array; l : integer array; let b[(20 = 1) and not not 39] = - p * Oo1a - true; input V[- (4) and false and 2550 or L and 3 + 2 - 41] end

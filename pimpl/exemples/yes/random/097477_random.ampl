@@ -1,0 +1,1 @@
+program f : main : when case 9210 or(71) rem(4810) and 6 : do H(24 - 3 = 3, 9 = 4, 1) end case 8120 >= - false and 6 : chillax end case - not 0 and 2 - 91 : when case 5 : chillax end otherwise : chillax end end case 6 - 8 : chillax end otherwise : chillax end end

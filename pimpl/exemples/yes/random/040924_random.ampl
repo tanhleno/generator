@@ -1,0 +1,1 @@
+program G1y0 : x0 : takes d9 : boolean array; xB90a : integer array; S : integer array; o : boolean array returns boolean array FY7aa, m : integer; Hj : integer; let A7 = array Q2 or 2; input U[- 192] end main : XC60, K, u : boolean array; chillax end

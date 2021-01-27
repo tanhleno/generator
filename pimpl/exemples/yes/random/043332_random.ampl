@@ -1,0 +1,1 @@
+program Y9ga : V : takes Z : boolean array returns integer output "" end z : takes D, pK : boolean returns boolean y6ba, H, g56 : boolean; B7, W, I : integer; _78aa : boolean; chillax end W4 : takes kR5, e8S : boolean returns nothing chillax end main : pop; while false : let eUV[2] = 5400; do UU3aa(2, 01) end end

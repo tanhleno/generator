@@ -1,0 +1,1 @@
+program D320 : iV : takes J : integer; iu7, F140a, A : boolean array returns boolean C : boolean; chillax end main : let d14 = array - true / false - 21 rem(0900); let J[- not f2 or z] = not 5 and 467 >= - 9 end

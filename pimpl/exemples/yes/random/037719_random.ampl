@@ -1,0 +1,1 @@
+program e : i : takes tK : boolean array; ni, c, N5b, w : boolean; O7 : boolean returns nothing chillax end main : P : integer; P, F8, Q, d, s78 : boolean array; j : boolean; while 71 /= true and 75 and 524 + not 7 : do Ar7aa(- 497 /= 6, 2 = 13) end end

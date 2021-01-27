@@ -1,0 +1,1 @@
+program O6 : Z : takes D : boolean; a, ru30 : integer returns boolean array w3iaa, J_i : boolean array; do w(not 5 - 4 - 45900 = 1, - 0 - 981, 9, 89) end M : takes W : boolean array; o9 : integer array returns integer chillax end main : W1, T, U : boolean; chillax end

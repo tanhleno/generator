@@ -1,0 +1,1 @@
+program Y : Rf : takes lwya, Q : boolean array; T : integer; O : integer array returns integer array chillax end main : while false and false or 3 + not 3 and 4610 + 672 : chillax end; do d(uY[6], - false < - 8 - 6) end

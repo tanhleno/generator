@@ -1,0 +1,1 @@
+program v4D0 : K : takes ME : boolean array; R7, O : integer array; S9 : integer array; F, dS, D2, c, Fvz : integer array returns boolean G, H, Z : boolean array; tkc, u, Qz : boolean array; w : boolean; chillax end b : takes iq, szf, S7, yn, l0m : boolean array returns nothing x : boolean array; f0, N, j79 : integer array; u : boolean; input H[- 1 - 5] end main : chillax end

@@ -1,0 +1,1 @@
+program g5 : G : takes j, yD, Uhk0a : integer; g : integer array; g3 : integer array returns nothing pop - 87 - 1 <= 4 end Y5 : takes T, p, E5 : integer; Lv : boolean array; t : integer returns nothing I : integer array; do Q(1050); when case 09 : do H1(96); pop end case 7 : pop end otherwise : chillax end end main : output false <= - (39) end

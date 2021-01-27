@@ -1,0 +1,1 @@
+program H6 : aJ : takes N, S : boolean returns nothing y, qZ : integer array; F : integer array; do ax(41 or 5 - 92 < 7 - 1, 63 - 49 = 9, 5) end main : C80, mC, o : integer; D, M96, C0Aaa, z1, L : boolean; E, n3 : integer; S4 : integer; q, K : boolean array; n560, W : boolean; dS90 : boolean; chillax end

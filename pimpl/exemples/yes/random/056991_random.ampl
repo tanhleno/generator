@@ -1,0 +1,1 @@
+program u : _ : takes qX : integer array; Q : integer array; b : boolean returns nothing U3, HV, qqJ0a : integer array; b : integer array; while Ui and 55 or 1 : input BWu0; let S = 05 end; output "" . "!" . 490 . "\""; let x = array 10; pop end q : takes v : integer array returns boolean array do W0(511 >= 8470) end main : cb3 : integer array; chillax end

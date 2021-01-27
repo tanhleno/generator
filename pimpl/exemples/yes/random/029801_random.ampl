@@ -1,0 +1,1 @@
+program Q7 : v : takes sC9, kS0 : integer array returns integer array fH9 : boolean; Z9, bn : boolean array; I2 : integer; h0 : boolean; let l = - 73 > 18 end main : while - j(9, 16300) - false rem true and 56 or v and 9 - 651 /= - C[07300] : chillax end end

@@ -1,0 +1,1 @@
+program SA : y : takes b : integer returns boolean array M : integer array; q : integer; u71aa : boolean array; N : boolean; AE : boolean; L : boolean; chillax end main : when case - (69 = 6) + (4) or(36700) - 8 - 82 : chillax end end

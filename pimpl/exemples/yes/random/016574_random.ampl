@@ -1,0 +1,1 @@
+program p : e97 : takes L0, gD, dvf : integer returns nothing output "_["; when case 8 /= 84 : when case 2 : chillax end; output "\\["; pop end case 1 = 02500 : pop end case 392 : pop end end W5A : takes UZ, s : boolean returns nothing let N6 = 84 = 72; when case 5 = 6 : output "<3"; pop end; let b = 23 end main : chillax end

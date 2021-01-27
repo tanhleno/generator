@@ -1,0 +1,1 @@
+program J : F7c0 : takes l2 : boolean; b, tK5a : boolean array returns integer chillax end G1 : takes cuy, h : integer returns nothing when case 2 : do T0(05) end case 16 : let I39 = 4 end case 5 : pop end; output "" . "" end main : chillax end

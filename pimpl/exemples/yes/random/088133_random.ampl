@@ -1,0 +1,1 @@
+program J : main : input j; when case - false : do BsV(5) end case not 58 or 28 - 3 > - 1 : pop 8; while 9 : chillax end end case 63800 - 09 > 6 : output "" end case 46 : output ""; pop end otherwise : do C1b(652, 281); pop end end

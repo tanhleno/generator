@@ -1,0 +1,1 @@
+program A : V : takes g : boolean array; m : boolean array returns nothing P, L, x8Oaa, FJ : integer; chillax end main : W, m : boolean; B, g : boolean; R, h : boolean; input L[true + true * false and 7]; output(3) >= - 44600 - 56; input p; do K30(69300 /= 9) end

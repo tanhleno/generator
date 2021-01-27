@@ -1,0 +1,1 @@
+program j : u : takes E, r1 : integer; uE5, d : integer array returns integer array u : boolean array; I : integer array; da00 : boolean array; do s0(- true and 84 + 0, - 0, 4 = 542, 3); pop end F : takes z : boolean array; R3kaa : boolean array returns nothing chillax end main : _ : boolean array; chillax end

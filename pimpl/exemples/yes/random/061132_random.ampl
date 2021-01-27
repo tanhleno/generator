@@ -1,0 +1,1 @@
+program T : L : takes Lm : integer array returns nothing N : integer array; z, o : integer; output 92200 - 3 < 7 end c2 : takes vyk, e : integer array returns nothing chillax end main : output - false or C and 8 - 3 - 3 . "" . 2 - 67300 < 3 end

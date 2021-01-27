@@ -1,0 +1,1 @@
+program x : main : x, BS : integer; V1s0, l, EW : boolean array; j : boolean array; when case not false = (856) or false and 879 : chillax end case - S[4] / true and 366 or not 6 and 97 : while 162 = 11 : chillax end end case - z24 + 4 : pop 09000; do r39a(2); input T end otherwise : let W0 = array 6; let P = 012 end end

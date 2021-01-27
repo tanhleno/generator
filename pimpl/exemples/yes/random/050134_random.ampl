@@ -1,0 +1,1 @@
+program c4_a : YL : takes D2y0 : integer; n, Kt, h6 : integer array; L : integer; q : integer returns nothing w, x : integer array; do z(- rJ) end main : output - d9q0 * a and 2900; do J(- true, - true < 4); do vM((34) and 4 /= - 0) end

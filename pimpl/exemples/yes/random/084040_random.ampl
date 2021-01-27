@@ -1,0 +1,1 @@
+program b : main : H26 : integer; P : boolean; when case BTJ(52300, 1460) * true rem false and 0 or not false < true rem p and 35 - GZ or 96 - 2 : chillax end case 94 and q1h0a and 0 + not 84 and 25 > - false : chillax end; when case(1) / not 2 > - false + 177 - 1270 : chillax end; output "4\\!a" end

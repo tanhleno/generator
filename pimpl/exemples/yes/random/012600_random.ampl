@@ -1,0 +1,1 @@
+program j : NeF0 : takes VRw0a, M, gz9aa : integer; _, P7, O, C, S : integer returns boolean array S : boolean; UY, V : integer array; chillax end H : takes Yct, H, W, ArJ, V : boolean returns nothing DL : boolean; chillax end main : J7 : integer; input i[C / 013 or 37 rem false and 1] end

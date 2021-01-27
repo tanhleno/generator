@@ -1,0 +1,1 @@
+program kK : main : i3, O, L, TD, w : boolean array; pop - 9 rem(4) = false and 62; when case true + (0) > 51 : output ""; output 2 . ""; let L = 87 end case(924) and 5 >= 4610 - 8180 : while 5 : chillax end end otherwise : chillax end end

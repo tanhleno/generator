@@ -1,0 +1,1 @@
+program RU : e : takes R : integer array returns nothing pop 3 - 458 = 7 end U36 : takes T, r : boolean returns boolean while 987 : chillax end end main : L8 : boolean array; J, L, D9 : boolean; S : integer array; m, X : boolean; Qx : integer array; s : boolean; chillax end

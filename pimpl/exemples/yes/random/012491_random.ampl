@@ -1,0 +1,1 @@
+program g : l : takes C, R5Raa, q : boolean returns nothing when case - true and 31 or 2790 /= - 8250 - 25 : chillax end case 0 - 73 : chillax end case 5 : pop end otherwise : chillax end; output 05 = 2 end main : chillax end

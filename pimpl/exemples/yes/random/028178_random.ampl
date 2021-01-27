@@ -1,0 +1,1 @@
+program O4j : u : takes k, p : integer array; vR5 : boolean; y : boolean array returns integer array rs, wT, n : integer array; a : integer; Kl : integer array; R, Pv10a : boolean; output "" . 90 = 919 . 441 . 26400 . "d"; do vv(4, 1, 9); pop 48 end main : let m2[true] = - s(966) or q52 and 7 >= _v and 9 end

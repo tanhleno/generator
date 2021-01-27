@@ -1,0 +1,1 @@
+program R : main : K0, k, g, n : boolean; S8r0a : integer; S62, ik : boolean; when case 0 and not not 0 + not 9 + yR : chillax end case - not(38) / true and 693 : chillax end case - false + 7450 - 94 : when case 772 : chillax end case 0 : chillax end; do xPu(6); let O = 7 end case 4 - 0 /= 25 : input e end; do u(not false * (7), - 1 and 16 >= 83 - 2, 1 < 03, 5) end

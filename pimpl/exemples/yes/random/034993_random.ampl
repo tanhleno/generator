@@ -1,0 +1,1 @@
+program Q2E : qR : takes F4 : boolean; f, s : integer array; N : integer array; O4 : boolean array returns integer array chillax end m : takes SG : boolean; VW : integer array returns boolean input _; pop 829; output "" end main : a6 : integer; let _74[27 - 02 / 8] = - (5) and Yf + z and 6 <= Y and 1 - 1 end

@@ -1,0 +1,1 @@
+program P : main : GX : integer; zt5, x9 : boolean; pop - (7) / not 9 = 9 and 8 + 62200; do UqW0a(- (13) - false + 8 > true and 8 + 86300 - 4070, o and 86); do f(- (19800) and 48, - 5 - 22, 3); input o4 end

@@ -1,0 +1,1 @@
+program e : x : takes h : boolean; t : boolean array; W, V, D6, R2 : boolean array returns nothing wz, pY : integer array; I6 : integer; R : boolean array; do p(- w and 92 + 1, 4 - 0, 4 = 83); let U3[629] = array - 900; input p4[541] end main : E, Hi : boolean array; output(0) or 6 /= false; when case - r[8] rem not 66 and 15 : chillax end end

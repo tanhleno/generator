@@ -1,0 +1,1 @@
+program G : C : takes W1, z, M, R, E : boolean; m : boolean; Rd5a : integer array returns integer array chillax end S : takes K6, j : boolean array; d5, d : boolean returns nothing let B70 = 11 end main : d, Z01 : integer; while false * 5 - true + 1 - 5 - 6 : chillax end end

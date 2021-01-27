@@ -1,0 +1,1 @@
+program y : K5 : takes E, wK80a, l : boolean array; H : boolean array returns nothing a : integer; pop end main : Y, j : boolean array; Qrr : boolean; output - (9660) - 0 + 37300 <= 7 and 502 - 383 - 858; input yk[- (4) and l4 and 30] end

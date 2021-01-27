@@ -1,0 +1,1 @@
+program S : h8_a : takes XL20, o2 : boolean returns integer do GW(- (6) + 9 - 842, - 89 - 22 /= 7, 4, 1) end u : takes e : integer; f : boolean array returns integer array w : integer; G410, X : integer; l : boolean; c : boolean; chillax end main : chillax end

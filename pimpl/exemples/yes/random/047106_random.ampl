@@ -1,0 +1,1 @@
+program k : X : takes w : boolean returns integer p61, q : integer; Qh60a : boolean array; chillax end b : takes Mv : boolean; A, m1 : boolean; b67a : boolean array returns integer when case 1 - 4 < 930 : do E5(420); input s7a0; pop end case 045 = 4 : input O; pop end end main : cn2 : integer array; chillax end

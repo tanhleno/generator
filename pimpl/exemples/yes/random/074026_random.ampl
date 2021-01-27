@@ -1,0 +1,1 @@
+program N : main : LP, w : boolean; xmw : integer array; ts, mr : integer array; L33 : boolean; G, x7U : integer array; when case - (114 = 7) / 06500 - 6 * true or not 65 > - a5 - ht8 and 3 or 92 : chillax end case(49000) < - LoJ and 03 - 2 : chillax end otherwise : chillax end end

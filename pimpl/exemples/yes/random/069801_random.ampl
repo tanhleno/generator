@@ -1,0 +1,1 @@
+program x : main : GO, a1, TB, ekZ0a : boolean array; X, d : boolean; when case true /= - true rem(84) : let Vf40a = array 522 - 57 end case - (9) or true and 3 or 2 - 252 : let V8[78] = 351; while 704 : pop end end otherwise : let hIO[73] = 9 end; let er = array false and 34; input J[- true] end

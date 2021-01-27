@@ -1,0 +1,1 @@
+program e : n3 : takes nB, W2v : boolean array returns boolean array Mo1 : boolean array; s, w : boolean; EI20a, oJ7aa : integer; p2, L47aa : boolean; i2 : boolean; chillax end r : takes p : boolean array; R : boolean returns boolean L, ai, L : integer; o, kV, c : boolean array; chillax end main : chillax end

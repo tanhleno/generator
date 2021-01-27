@@ -1,0 +1,1 @@
+program b : main : p, ch : boolean; C : integer; do nl((6) >= - (9) and not 93 and 2, - true rem false + (87100), - 7 < 75, - 09 - 644, 57 = 6, 8, 02); output "" . - 6 /= 3 . "M_!"; while 0830 = 11 - 22 : chillax end end

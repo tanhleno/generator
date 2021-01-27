@@ -1,0 +1,1 @@
+program D : CE : takes j, y, Q5, l, p, Z, Dq4a : boolean array; Bt : boolean array; T : integer; z4, _, Kg : integer; X, H7, xlM0, viwaa : boolean array returns nothing EdMa, Y8 : boolean array; while not 30 and 6 >= 6 - 23 : chillax end; output "" . 1 . 304; output "7|" end main : pop - not 5 end

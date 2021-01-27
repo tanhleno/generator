@@ -1,0 +1,1 @@
+program f : main : let O = array - 23; do DI90a(- false + G1 and 0300 < - (020) and 78, - false and 2 or 5 < - 57 - 6); when case - not 1 or 781 : chillax end case 6 - 13 < 21 : chillax end otherwise : while 6 : chillax end end; when case - 3 - 7 > 41 : input d5 end case 5 = 8 : chillax end case 524 : pop end otherwise : chillax end end

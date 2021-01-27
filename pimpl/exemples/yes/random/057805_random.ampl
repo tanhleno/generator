@@ -1,0 +1,1 @@
+program Qnk0a : aH1 : takes x : integer array returns boolean array I : boolean; T, J, r5 : integer; chillax end C5c0 : takes XxE, eO0a : integer returns nothing pop end f : takes E : boolean array returns boolean array z, VXK0, l : integer; chillax end j5 : takes s : integer array returns integer array chillax end main : do o7((6 = 800) + (1) or(4)) end

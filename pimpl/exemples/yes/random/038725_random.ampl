@@ -1,0 +1,1 @@
+program fA : J : takes x : boolean array; Ta90, U7 : boolean array returns boolean chillax end Mt : takes z, UJS, H, Bq : integer returns nothing w8 : boolean array; chillax end main : v, g : integer array; chillax end

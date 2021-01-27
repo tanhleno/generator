@@ -1,0 +1,1 @@
+program aSB0 : Us : takes R4C0a, K : boolean array returns nothing chillax end s9 : takes w : boolean; Zd, R7, V : boolean array returns nothing chillax end main : M, s_, m, XP00a, Te1, J, E : integer; Y : boolean array; y : integer; chillax end

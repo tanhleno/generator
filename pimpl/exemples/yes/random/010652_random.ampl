@@ -1,0 +1,1 @@
+program f : VM : takes r4p, g1taa, C2 : boolean array returns boolean chillax end FiU : takes N : boolean array; W3C : integer array; x, Q3 : boolean array returns nothing chillax end I : takes x, V0N0a : integer returns integer chillax end main : f : boolean array; _, K, r : integer array; pop(057) > 3 + 7 end

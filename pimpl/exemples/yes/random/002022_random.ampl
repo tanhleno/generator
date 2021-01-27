@@ -1,0 +1,1 @@
+program Uv : e : takes RT, cH, sD7aa, S, c, I : integer returns integer array t : integer; chillax end main : do T((9) * 3 / 6 and 9 <= false rem not 835 and 73, - tYOa(21) + not 3 and 5 <= true and 411 + 1 - 9, T and 77 or 3, 8 - 43 = 6320) end

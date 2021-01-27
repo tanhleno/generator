@@ -1,0 +1,1 @@
+program B4 : jc : takes P7s, I, W6j0a : integer array returns nothing when case - 7 and 37 or 50 - 255 : when case 4 : pop end case 0080 : chillax end otherwise : chillax end; let E0T = 77 end; pop 588 = 30; do z1(23, 8); while 52 : chillax end; while 896 : chillax end end main : chillax end

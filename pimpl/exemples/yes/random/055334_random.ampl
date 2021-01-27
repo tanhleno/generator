@@ -1,0 +1,1 @@
+program T1 : K97aa : takes J8 : integer array; X, k : integer returns boolean pop - 39 < 83500 end U : takes x4Raa : integer; oT, K2, p : integer; F1 : boolean returns nothing chillax end main : czs, o, P, E, f4E : integer array; let i7i = - not true or true and 0; input A32; while not 6 + 31 - 87 : while 8 : chillax end; do T(7) end; output 2 end

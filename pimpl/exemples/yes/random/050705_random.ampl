@@ -1,0 +1,1 @@
+program V52 : d : takes w : integer; Ad8, k2 : boolean returns integer array M, Y1 : integer array; chillax end r : takes W1, P, fn9aa, _6R, l, j, n : integer returns integer array vZ, _5Ba : integer; pop; when case 3 = 1 : chillax end; when case 9640 : chillax end case 8 : chillax end otherwise : chillax end end main : u : boolean array; chillax end

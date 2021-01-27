@@ -1,0 +1,1 @@
+program Q : X7 : takes g, m : boolean; O, n2, F1, a : integer array; M, D : boolean array returns boolean B : boolean; u : integer; chillax end main : let RN8[not(8) - not true - 9 + 4] = 3 * (4) and 6 - true and 6 - 8 - 93; input fC[- 2 - false and 4]; output "7" end

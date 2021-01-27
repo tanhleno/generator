@@ -1,0 +1,1 @@
+program J : vMm0 : takes T : integer array returns nothing while not 9220 and 9 : while 03 : chillax end end; input vmYaa end FS0 : takes i : boolean array; Uu2 : boolean array returns boolean when case - 8 : chillax end end main : while - 8 : chillax end; when case true / not 1 and 8 + not 823 > not 49 : chillax end otherwise : chillax end end

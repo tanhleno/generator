@@ -1,0 +1,1 @@
+program j : c : takes c : integer array; I : boolean array returns integer array while - false : while 398 : chillax end end; while - 0430 > 08 : chillax end end fo4 : takes n4, i : boolean; a9F0a, SZ20 : integer; n, yD, U : boolean returns integer array chillax end main : K, t, r : integer array; chillax end

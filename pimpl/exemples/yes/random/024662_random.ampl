@@ -1,0 +1,1 @@
+program K8 : oS : takes E50, FQ : boolean returns nothing d : integer array; while false - 99 > 6 - 16 : chillax end end main : input U[(87) and true]; output "91" . "0x" . 690 = 186 . 92 . 9; when case - (979) <= 97 - 79 : chillax end; pop end

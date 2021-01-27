@@ -1,0 +1,1 @@
+program e270a : bT8 : takes O4 : integer; i, z7, C3 : integer array; Jwg0a : integer; v, b : integer; v, _ : integer array returns boolean f, Wyt0a : boolean array; O : integer array; chillax end main : YG9a, HE9 : integer array; chillax end

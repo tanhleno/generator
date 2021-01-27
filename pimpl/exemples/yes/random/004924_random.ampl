@@ -1,0 +1,1 @@
+program w : oP : takes V8, i, L, __ : boolean array; _0, bIi0 : boolean returns nothing let B8e[r and 6 - 1 - 4650] = array - (4) and 2 + 39; pop end d : takes Mb, IX : boolean array returns nothing while 88400 /= 762 : chillax end end main : C : boolean; while - true - (3) - 0 and 8 <= - not 50 : chillax end end

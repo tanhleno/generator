@@ -1,0 +1,1 @@
+program y : main : when case true and 41 and(510) and 3 - false / false : when case 87 : input B1 end case 1 : chillax end otherwise : chillax end; pop 56; while 5 : chillax end end; input QQ[- (6) / 3 + not 5]; while - true and 9040 /= 0 - 627 : chillax end end

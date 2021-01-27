@@ -1,0 +1,1 @@
+program E150 : P5 : takes CX6 : boolean array; mr : integer array returns nothing input K[true and 41 + 0]; while - 91 - 42 : while 9 : chillax end; output "\n0\"a"; pop end end a3 : takes B : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program u : H : takes aR0 : integer array returns nothing K : boolean; output 28 - 2; input Z; pop; pop; when case 9 : chillax end; when case 3 : chillax end end main : l : integer; v3Q : integer array; e : boolean; n0B0a : integer; output - not 7 or 2 and 5070 /= - true or 927; while - false * true and 9 <= - (1) and 404 : output "D" . "" end; pop; input Q0 end

@@ -1,0 +1,1 @@
+program K : _ : takes f3 : boolean; Ku : boolean returns integer array chillax end K : takes t, fi3 : integer returns nothing Z, Q : boolean; chillax end main : do hC(- false >= true - (4) - 2 - 022); output true and 9 /= - 66 . - 4 - 3 > 5; input B4x end

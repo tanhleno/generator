@@ -1,0 +1,1 @@
+program w : Kj : takes w : boolean array; d, b : boolean array; ES30, yj : boolean array returns nothing P120a, Rv, Ey80a : integer array; e, t0ia : boolean; pop - 0 - 6 = 5; output "q" . 58 . "'\"!" . "" end main : chillax end

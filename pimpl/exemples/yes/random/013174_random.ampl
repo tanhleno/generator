@@ -1,0 +1,1 @@
+program uxnaa : J : takes U, HDB, T7 : integer; Qls : boolean array; q : boolean array; O_0, W40 : boolean; V : integer array; T360a, b, R : boolean array returns integer w : boolean array; wa, gI : integer array; pop; while 9 - 101 <= 46600 : do K(62) end end main : pop; pop 2060 and 6 or 680 end

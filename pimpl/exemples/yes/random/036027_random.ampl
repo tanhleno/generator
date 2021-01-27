@@ -1,0 +1,1 @@
+program pN : E : takes R : boolean; m6j : boolean array returns nothing b540a, l050a : integer array; chillax end main : do JO(- Cr[1] - 5, true rem not 79 and 7 + true + 94 - 66800, u1w0 + 6120, - 8 <= 3, 4, 5, 5); pop false and 23200 + 422 /= 9 - 8; pop - 5 - 11 < 01 end

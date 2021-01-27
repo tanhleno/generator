@@ -1,0 +1,1 @@
+program xtF : Z : takes O, SX1aa : boolean array returns boolean array while not 111 and 54 - 2 - 50 <= 0 - 9850 : let y = 57; input N end; let sK9[71] = array 92 - 1; pop; let d1D[9] = array 55; pop end A : takes XS : boolean; l : integer array; G, m : boolean array returns nothing when case - 4 - 21 : chillax end end main : chillax end

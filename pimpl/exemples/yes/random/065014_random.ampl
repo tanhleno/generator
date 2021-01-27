@@ -1,0 +1,1 @@
+program m : o2 : takes m7 : integer returns nothing A : integer; pop; pop 987 end main : g, c7f : integer; while - not not 173 rem false = not(06600) + 7090 and 5 or 4910 - 43 : chillax end; let ma70[9 or true and 6 or 3 - 6] = array - Pt(8) and false and 1 + not 8 and 6060 or 05 end

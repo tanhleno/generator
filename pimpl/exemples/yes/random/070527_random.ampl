@@ -1,0 +1,1 @@
+program w7 : main : X, q, m20, W07aa : integer array; Z : boolean array; let I = false rem y or not 9 and 16 or 22 <= not 9; let WU[not(64) and false and 79 or t9 and 2 or 3] = array _i7 * C and 4; output "" end

@@ -1,0 +1,1 @@
+program i : ky : takes nYYaa : boolean returns integer array j7S, q : boolean array; nIm, d31aa, R : integer array; chillax end e4 : takes n2 : integer; q : boolean returns integer array n91aa, o88 : boolean; _W, Gk, W : integer array; Ph, H : boolean; a0 : boolean; chillax end main : P : boolean; do sW(- p + (83) * false and 12 < not not 86900 and not 69 or 272) end

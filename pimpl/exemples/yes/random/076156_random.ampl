@@ -1,0 +1,1 @@
+program xP7aa : main : r, Q : integer; S, M6 : integer; P : boolean; o, g : boolean; when case not not(7) : pop 0 = 82; while 2 : when case 511 : chillax end end end otherwise : when case 4 : chillax end otherwise : pop end; do r(557); while 9 : chillax end; do o1(24400) end end

@@ -1,0 +1,1 @@
+program n4 : wq6 : takes P : boolean; a : integer; l1Aa : boolean array returns nothing M6, d7, j : integer; o6 : boolean; do Pg(- not 2 and 8 < 426 - 2, 6870 - 99 < 9, 6 = 0, 75, 99) end main : do ig(not 06 rem(45), not false + true >= - 9 or 6) end

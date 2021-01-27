@@ -1,0 +1,1 @@
+program L : T : takes H : integer; w : integer array; W, N, r : integer; e, tG00 : boolean array returns nothing while - false + 57 - 32 < 6 - 0 : chillax end end main : x9 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program v : main : hf10 : boolean array; V9, g9k0 : boolean array; H, K85 : boolean; c, Q : integer array; pop; do d(t[1] < - (591)); let U9Y = array(4); let g[- 1 - 631] = array - 8; pop 3; let L[5] = 24; pop; input sF00a end

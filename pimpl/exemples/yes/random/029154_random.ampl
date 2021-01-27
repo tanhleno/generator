@@ -1,0 +1,1 @@
+program MV9a : R : takes J, _ : integer array; E : integer returns nothing do It(false and 8 + 74 - 9940); input Pv[6 - 70]; input B; while 53 : chillax end; pop end IF : takes W, Q : boolean array returns boolean array chillax end QZ : takes Hn4 : boolean returns boolean J, t0 : integer array; F8haa : boolean; input E[25]; output "\\\\!a" . "" end main : chillax end

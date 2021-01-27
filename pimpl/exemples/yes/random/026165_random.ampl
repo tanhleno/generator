@@ -1,0 +1,1 @@
+program d : BI6 : takes ZS, V3 : integer; T : boolean array; ZaJ, lz : integer array returns boolean chillax end A : takes v : boolean returns integer chillax end D : takes m, L, S09, Gbi : boolean; Fi4aa, M140a, b2, C : integer array returns nothing D5 : boolean; do A(823 = 292, 5); pop; while 9 : chillax end; pop; pop end main : chillax end

@@ -1,0 +1,1 @@
+program T2k : v : takes w3, o : boolean returns boolean array tr60, W, sD7a : boolean array; input l0[g37 + 6590] end s89 : takes Y : boolean; A : integer array returns nothing V3 : boolean; l4 : boolean; L : boolean; Lf : boolean; N4ea : boolean; pop; pop 9; let z[5] = array 2 end main : V, l, N : boolean; chillax end

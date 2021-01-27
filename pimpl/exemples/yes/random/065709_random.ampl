@@ -1,0 +1,1 @@
+program S : main : do p((13700 = 8420) * (14) + not false > E9 rem false + false); when case true or true : output "1." . 7130 end case 6150 and 5 - 06 = 677 - 3 : chillax end case 42 : chillax end; while - 1 and 7 - 9510 - 82 : when case 023 : chillax end otherwise : chillax end; do OBC(6); while 84 : chillax end; pop end end

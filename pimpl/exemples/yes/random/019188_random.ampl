@@ -1,0 +1,1 @@
+program R : h : takes Q2F0, D3s : boolean array; sP, yu3aa : boolean array; K, lF, J : integer array; G, E7j : integer returns integer array chillax end D : takes fv : boolean returns nothing input oTm0a[- 845 - 64]; do Aa10(4, 0, 08) end main : input Oo8; pop; do Gu(not 1 = - 14, - 1 - 7) end

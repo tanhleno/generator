@@ -1,0 +1,1 @@
+program l : rW : takes oQ6, j : integer; j1X, bG, S, o7 : boolean returns integer k6m : boolean; p : integer array; RM, J, T3 : integer; chillax end AJu : takes zD : integer returns boolean let Pboa[3 - 2] = 46; output 5 . 16 end main : input C0[x * 3 * true] end

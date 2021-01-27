@@ -1,0 +1,1 @@
+program N : yc : takes Q : integer returns nothing input s; do VV6(4 = 5); let kb[2] = 52400 end main : do a4(- false * false and not 7 and 26 or L[75], - not 3 = - 9680 or 626 - 530, - d5 and 7 or 13 - 54800) end

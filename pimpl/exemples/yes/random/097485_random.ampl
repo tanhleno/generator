@@ -1,0 +1,1 @@
+program o : main : when case 3 or cg4[9] + not 1 and 68 : let Jk = array - 1 - 45 end; pop - not 3; when case true : output "\"." . "Cy" end case - 2 - 42 >= 78500 : pop end case 71400 : chillax end; pop 661 = 5; let k9 = array 3; let To[06] = 38; do O9(1) end

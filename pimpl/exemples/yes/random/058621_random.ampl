@@ -1,0 +1,1 @@
+program NQ : H : takes Dn7 : integer array returns integer array chillax end T : takes C : boolean array returns integer output "" . ""; do w(153 = 86); input PR; input d; output "5"; pop end main : do A((59 = 89) * true and false and 9060 /= - Yd0aa(0)) end

@@ -1,0 +1,1 @@
+program rU : main : B : boolean array; c8 : boolean; k, h8Y : boolean array; Z, K : boolean array; dy : integer array; d, n : boolean; B : boolean; H : boolean; do C(false and false * true + not false, true rem true + 40 and 45 < true, 4 and 815, - 948 - 7530 <= 9); when case - l5[5280] : chillax end otherwise : do Q780(7, 044); input W; do Z(221); pop end; let P = - 3260 end

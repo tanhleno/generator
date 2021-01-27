@@ -1,0 +1,1 @@
+program tk : sv0 : takes X, O : integer array returns integer f4G0, V570a : integer; pop - 74800 = 2; while 1 - 8 <= 1 : when case 15 : chillax end; when case 6040 : chillax end; pop end; pop end main : chillax end

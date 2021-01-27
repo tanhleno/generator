@@ -1,0 +1,1 @@
+program u : mp30a : takes VVp, D, v : integer; vD10, w, y : integer returns nothing chillax end E17aa : takes J : boolean returns nothing P81aa, u17a, q6, Q : integer array; when case - 6 : chillax end case 50 = 1 : chillax end end main : chillax end

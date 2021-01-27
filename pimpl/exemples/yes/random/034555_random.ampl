@@ -1,0 +1,1 @@
+program L : T : takes D : boolean; awK, K : boolean array returns nothing chillax end kK : takes dvr : integer array; M : boolean; o, r, b : integer array returns boolean array zN9aa, cO : boolean; y : integer array; Cs, hh80 : boolean; chillax end main : input PW; output "" . - 6240 < 453; while 3 : input j2i; pop; do S(1) end; do p2D(6 - 168 < 91, 24 = 1, 27, 775) end

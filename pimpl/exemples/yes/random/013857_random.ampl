@@ -1,0 +1,1 @@
+program T : t : takes N, w, Aj : integer array; VH1a, O6, Yk : integer returns nothing R940, T6, N6, H, Yj3 : boolean; d : boolean array; input j3[yXw and 22 + 9] end main : while 4 / T(90400) and 04 and 2 + true + 43 < - (4) - 6 - 64 - 2 : pop end; let N[- true rem false and 7] = - true >= 93 - 64 end

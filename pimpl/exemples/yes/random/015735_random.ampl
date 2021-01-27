@@ -1,0 +1,1 @@
+program h : m : takes J05, Y1a0a, I : integer returns boolean array U : integer array; pop 9 - 85; output 200 = 1; pop 3 end o : takes O : integer returns integer S, R, mK, S : boolean array; Q, Dh : boolean; output "A" . "." . 36 end xZ : takes V77, e : boolean array returns boolean array D7A0 : integer array; chillax end main : L : integer array; input U end

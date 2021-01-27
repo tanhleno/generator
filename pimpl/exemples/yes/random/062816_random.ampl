@@ -1,0 +1,1 @@
+program _0 : h : takes J1j0 : integer returns integer array do l8(zi80a and 9 - 16) end main : while(1 = 6) + 1 and not 8 and 041 : when case 3 : let g = 36; when case 3 : chillax end; pop end end; output - true and 98 or 2 - 6 > - 7 - 6 end

@@ -1,0 +1,1 @@
+program Pp90a : E : takes U : integer array; mx1a, r : integer returns nothing when case - 122 and 00 - 3 - 5 : input yS[25]; when case 4 : chillax end; output "9" end end main : R, _, kD, u, u7, ZQ, O : integer; K, u_ : integer; d63a, O1, Do4aa, p, CUA0 : boolean; G : integer; let i0 = array - (6 = 4) end

@@ -1,0 +1,1 @@
+program H : y : takes d040 : boolean array returns nothing eZx0 : boolean array; when case(6) and 18 >= - 48 - 9 : chillax end end main : Twaaa, oY6aa : boolean array; while - e[87] / not true or false * false : input l3o[- 39]; let j[74] = 540; input y2B[47]; when case 1 : chillax end; pop; pop end; while 50 + not 3120 and 48 or 34 /= true + 44 - 28 : chillax end end

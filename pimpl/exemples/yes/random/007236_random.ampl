@@ -1,0 +1,1 @@
+program El : ho : takes n, x, m, J7 : integer array; Wjza : integer; i83aa, u, x8 : integer returns nothing chillax end main : let g[- not false + F[7] or true and 79 or 5] = array - true; let z[- 7 * not 4 and 3 or true and 38 or 196] = 7 + 7 end

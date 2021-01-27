@@ -1,0 +1,1 @@
+program Ze9 : z : takes Y, w, a : integer array returns nothing Z : boolean; while true or 46 = - 44 - 34 : let Q9 = 6 end; while - 13 - 3 : do B(9); when case 2 : chillax end; pop end end main : w, J4 : boolean array; chillax end

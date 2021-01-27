@@ -1,0 +1,1 @@
+program Q0 : h90aa : takes Z, LG3a : integer returns nothing K05aa, e0 : boolean; Rg : integer; J33 : boolean array; E0 : boolean; A : boolean; input Zd[- 7 or 2]; input d[1] end t : takes C9, d, iNM : integer array returns integer array XE : boolean; output 52 . 17 . "" . "" end main : pop true; while H(8) rem true and 632 : chillax end end

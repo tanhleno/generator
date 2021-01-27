@@ -1,0 +1,1 @@
+program B : M : takes y00, E : integer array; Q, p, y, C : boolean array returns boolean t : integer array; VH, h, Py : boolean array; input GaLaa end main : do l(E, - not 12400 * false < - W7 - 2 - 313) end

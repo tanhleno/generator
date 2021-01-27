@@ -1,0 +1,1 @@
+program x : KoO0 : takes t, _1 : boolean array returns integer array output "8" . 5650 . 02; pop 0 = 4; output 70 . "" end CN : takes b : integer returns integer array pop 23700; when case 1 = 4 : when case 08 : chillax end; pop end case 1 : pop end end main : vk, s1b : boolean; u : boolean; i : boolean; chillax end

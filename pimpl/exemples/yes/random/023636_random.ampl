@@ -1,0 +1,1 @@
+program g380a : K : takes u0, dI40 : boolean returns integer chillax end W : takes I5T : boolean array returns boolean ug, a, A1 : integer array; while 38 /= 8 : when case 848 : chillax end end end D : takes M : integer; Y : integer array; h : boolean returns boolean array chillax end main : J_00a : boolean array; chillax end

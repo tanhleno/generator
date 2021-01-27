@@ -1,0 +1,1 @@
+program i : M75 : takes fc : boolean; go : boolean returns nothing chillax end main : U : boolean array; B : integer; when case(77 = 275) : do Hi8a(- 7 - 075 /= 131, 73 = 0); when case 3 : do z(30); pop end case 25100 : pop end case 1 : chillax end end case W0Z0(00) * Q6e or nm or 6 - 657 > - false : input V[1650] end otherwise : chillax end end

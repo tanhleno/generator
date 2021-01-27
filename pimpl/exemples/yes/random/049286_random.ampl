@@ -1,0 +1,1 @@
+program z : M : takes d0 : integer; p, u8, aHgaa, n4, h, F, I6daa : integer returns boolean array i : integer array; LR, Y2, Hx : boolean; G : integer; I27aa, T : boolean; chillax end main : let J_ = array 23 end

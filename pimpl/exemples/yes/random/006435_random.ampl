@@ -1,0 +1,1 @@
+program K2 : A4P0 : takes as, EJ1, Cuz, Qiz0 : integer; ON8, d : boolean array; AO : boolean; p : boolean array returns boolean array Qq : integer; do D(- false or 3560 /= - 38) end main : L0n0 : boolean; input P end

@@ -1,0 +1,1 @@
+program q0n0 : q : takes R, V0 : boolean array; R : boolean returns nothing C : integer array; let N08 = array 7 or 86 end V5 : takes B, n7, M, S1Q : boolean; nW, r13, j : boolean returns integer array input U7[7 - 7420]; when case 5 = 23 : chillax end otherwise : pop end; let w = 632 end main : pop end

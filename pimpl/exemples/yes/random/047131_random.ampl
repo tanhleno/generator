@@ -1,0 +1,1 @@
+program j : n : takes P3faa : boolean returns integer B2 : boolean; chillax end L : takes uQE0, Z : integer returns nothing S, m, U, T : boolean array; E, _q00 : boolean array; chillax end main : let r5u = array M52(4) end

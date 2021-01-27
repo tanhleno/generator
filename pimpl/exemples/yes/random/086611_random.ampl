@@ -1,0 +1,1 @@
+program cY50a : main : gF : integer array; I : boolean array; when case not P[80] and 6 > false / 4 - b or 313 : let y[- 7 - 9590] = array - 3 - 6950 end case - H830a : output "" . "2I"; pop; pop; while 8 : chillax end; pop end end

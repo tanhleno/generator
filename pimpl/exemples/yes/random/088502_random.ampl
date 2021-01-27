@@ -1,0 +1,1 @@
+program s0 : main : input qL6a[- false]; when case - Z rem false or(0) and 9 - 7 - 2 : when case 81 = 8 : chillax end case 176 : pop end; while 4 : chillax end; when case 4 : chillax end end case v + 75 : chillax end; input T; while - 55300 - 3180 > 36 : let R = 4 end; input G end

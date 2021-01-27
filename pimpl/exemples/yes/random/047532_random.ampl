@@ -1,0 +1,1 @@
+program A8eaa : p : takes a : boolean returns nothing chillax end Y : takes O : boolean returns boolean array chillax end main : X, y, A : integer; _CX, p_, r, x, b39a, v : integer; while 4 and false or false and not 2 and 1 : chillax end end

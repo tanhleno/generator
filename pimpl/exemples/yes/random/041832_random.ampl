@@ -1,0 +1,1 @@
+program fH6 : u : takes n : boolean array returns boolean array let k[false] = - 34 >= 548; output "mO!" . "4{" end c : takes NNl0a, G, F : integer returns boolean array lr : integer array; Z : integer array; do B(42200 /= 1, 19, 9) end B : takes vr : integer array; M, S8 : integer; f, Yk : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program I21 : u : takes j2 : integer array returns nothing u, jMv, C : integer array; HX1 : boolean; let q[true] = array 8; output "" . "/" end s : takes L, l_Ba, q, o : boolean array returns integer D, vK2a, S, E : boolean array; chillax end main : chillax end

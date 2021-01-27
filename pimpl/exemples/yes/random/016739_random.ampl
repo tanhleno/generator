@@ -1,0 +1,1 @@
+program D2C : l : takes Z6, T1 : boolean; cQ, o, P, Y7, x24 : integer array; u, qCJ : integer array returns boolean array input t; do m5(4 - 13100 <= 6); output "" . 4 . "3?"; when case 12 : chillax end case 6970 : chillax end end main : J9Ea, T : boolean; n : boolean array; chillax end

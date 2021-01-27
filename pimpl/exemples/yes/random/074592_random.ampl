@@ -1,0 +1,1 @@
+program H : main : j, Z : boolean array; u, Di, tJ, M620a, P020 : integer array; b0, qPXaa, i61, I4n : boolean array; V : boolean; eV : boolean; pop; pop; when case - (80400) = 4 : chillax end; let L[- 73 - 3] = array 0; input _[55500]; when case 91500 : chillax end case 0 : chillax end otherwise : chillax end end

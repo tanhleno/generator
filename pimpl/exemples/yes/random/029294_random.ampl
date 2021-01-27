@@ -1,0 +1,1 @@
+program E0 : Q : takes Kv60, k : integer array returns boolean array N5, v, b : boolean; while - (2) and 99 - 747 : when case 513 : chillax end case 8 : chillax end otherwise : chillax end end; input k[9] end f0 : takes I, Z : boolean array returns nothing r : integer array; e9A, AU : boolean array; chillax end main : chillax end

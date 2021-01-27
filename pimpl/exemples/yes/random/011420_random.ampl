@@ -1,0 +1,1 @@
+program T1 : Q : takes v, N, R : boolean array returns nothing x3 : integer array; pop end main : B : boolean; N, S, HS5 : boolean array; em : integer; PV : integer; R : boolean array; B9 : boolean; Z59 : boolean; while false : when case 3 : do pj(04100); input T end case 49 : chillax end case 165 : chillax end; when case 69 = 9 : do Q(7) end otherwise : chillax end end end

@@ -1,0 +1,1 @@
+program OK4 : K : takes F, y : integer returns boolean when case - not 4 and 47 : do Wm(6, 2250); while 330 : chillax end end case 03 - 46 < 974 : pop end otherwise : chillax end; input Q; do e3(452 = 4); let A[33] = array 3 end main : while true * 4 * (4) : do d(- 3 - 50 < 8, 923); input F10aa[473] end end

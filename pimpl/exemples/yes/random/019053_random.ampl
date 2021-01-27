@@ -1,0 +1,1 @@
+program Q4 : H : takes j6, U : boolean array; R, D, Iyxa : integer array; e : integer returns integer pop end eC8a : takes i6, vf6aa, oc, e : boolean returns nothing input An9 end main : Y0 : boolean; gg, v2c, E : integer array; H, SJ7 : integer array; chillax end

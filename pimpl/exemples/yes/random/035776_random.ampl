@@ -1,0 +1,1 @@
+program b23 : V : takes H : boolean; c : boolean array; ff8 : integer array; J, cNe, o, H, d : boolean array returns integer array t900a : boolean; s : integer array; pop; output "=" end main : chillax end

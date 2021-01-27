@@ -1,0 +1,1 @@
+program B : G : takes R8 : integer returns boolean u, GM, J : integer array; rOI0 : integer; do hs(- false and 3 >= - 33, - 5 = 80, 19 = 32000, 6); do gb(- 8 - 5 <= 0, 34 = 0590); do pea(2, 28800, 1); do X9ia(0, 9); output "" end main : b : integer array; O8Ua : boolean; when case not true / XE3a[1] / 2 : chillax end; pop end

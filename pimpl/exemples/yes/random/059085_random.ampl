@@ -1,0 +1,1 @@
+program i95 : AK10a : takes n3 : integer array returns integer chillax end e : takes N, y1, um, ci : integer; B, U, I : integer returns integer array pop; output 05 end main : hm90a : boolean; output "" . - 2 and 142 + 72 >= 8 - 0; while true + a and 4 = - false : chillax end; while - false and 7 /= 570 - 0 : chillax end end

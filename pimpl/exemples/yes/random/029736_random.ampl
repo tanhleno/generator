@@ -1,0 +1,1 @@
+program G : u7 : takes K5, c : integer array returns integer array b9, D63a, h, A, q : boolean array; uc60a, VkI, o, E96 : boolean array; chillax end main : while not not(8) + not not 3840 : chillax end; pop - _4 - 742; input e2O[false and 1]; let N = 2 = 8; pop end

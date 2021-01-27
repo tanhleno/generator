@@ -1,0 +1,1 @@
+program _ : g : takes R0q, m41 : integer returns nothing while - false : input ha end end main : do o(true * not Ppe / false and 1 + xO[29] + false and 6 /= - 195 / (71400) and 8, - true, not 55); while - (99) * (6) and 9 or true and 7 - 27400 : chillax end end

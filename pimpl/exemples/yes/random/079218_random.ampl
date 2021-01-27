@@ -1,0 +1,1 @@
+program q : main : zb2 : boolean; I4 : boolean; N, y : integer array; input vI; while - false + not 8 and 69 <= - Y and 1 : let d8 = array 61; output "" . "#x!" end; output "r" . "|" . ""; input S0H0[85600 - 1]; pop; input q490[3930] end

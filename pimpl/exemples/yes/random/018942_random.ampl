@@ -1,0 +1,1 @@
+program KX5 : j : takes x1, d : boolean array; n, PkZ, tT6 : boolean array returns nothing chillax end main : u, xr : integer; i, R7, V : integer; while 1 or l(4) or P > - (223) and not 6 : chillax end end

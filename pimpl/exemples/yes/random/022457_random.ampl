@@ -1,0 +1,1 @@
+program A52aa : Y : takes L940, r : boolean array returns nothing KL : boolean array; NU3, l : boolean array; Re20, D : boolean; w89, X6 : boolean; chillax end main : when case 3 : input BA6aa[99] end otherwise : chillax end; output "" end

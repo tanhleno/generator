@@ -1,0 +1,1 @@
+program ZN : BO5 : takes L1_0a, z : integer array; ET : integer array returns nothing chillax end I : takes q9L0, q, x, a : boolean array returns nothing LL6 : integer array; output 26 . ""; while 8 = 96 : input b; pop end end main : g, T5, inia : boolean array; do b0(- true and(9) * not 28 and 00 - (46) or cD and 0 = not Yrg / (7620) and 29) end

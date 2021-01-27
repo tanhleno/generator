@@ -1,0 +1,1 @@
+program L5 : Z1faa : takes XwM : integer returns nothing input w[- 5] end K : takes kx, H, Z : boolean array; gd : boolean array; kZS0 : boolean; w : boolean; A, w, M : boolean; x3 : boolean; r : boolean; z : boolean returns boolean g890a : boolean array; chillax end main : w64aa : integer; while false > - not false : input l3[- 33] end end

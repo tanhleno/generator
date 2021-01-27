@@ -1,0 +1,1 @@
+program t : D : takes Ln, i40aa : integer array; y, f, D, P, V5H0a : integer array returns integer array chillax end main : let U = 04000 rem false and 2 + true - 860 - 7 = - true and 925 + 2880 - 4080 end

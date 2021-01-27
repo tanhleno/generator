@@ -1,0 +1,1 @@
+program E35a : RtV0 : takes Q : boolean; z440a, q3 : integer returns nothing L4n, Q44, a, Q : integer; g3, p, A, s : boolean; f1, sv : integer array; chillax end main : k, Z, Z, NS, G : boolean; D7r0 : boolean array; do v2j(- 6 and not 75 / false and 3 /= - lU40 rem 504 and 94 or Ga and 5630 or 69 - 03); while - false or true + 1 <= true : chillax end; input c end

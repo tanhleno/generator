@@ -1,0 +1,1 @@
+program OcBaa : main : A, i7Ia, d3, I, K99, P20aa : integer; B : boolean array; T : boolean array; while false / false rem 0 and 4 <= false : let T[- 50] = 35800 = 2; pop 79; pop end; do Q(- false and(9) and 79) end

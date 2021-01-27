@@ -1,0 +1,1 @@
+program Hs : R89a : takes Y, N630a, W8, L : integer array returns integer array IQU : integer array; i, K : integer array; L, j : boolean array; let z[not 2] = array(9); do WM2(- 1 - 1, 50, 12) end main : p90, HY0aa : boolean array; hGK : boolean; h7Y0a, R1 : boolean; s9 : integer; n : integer; W62 : boolean; mN : boolean; t5Q0a : boolean; do f2(5) end

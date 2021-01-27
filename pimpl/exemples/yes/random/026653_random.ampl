@@ -1,0 +1,1 @@
+program F : es8 : takes TMa0a, K : integer; P : integer array; R, Fdt : boolean returns nothing chillax end i : takes H, b : boolean array returns boolean b96 : integer; output "'&!a"; output 1460 end main : U26 : integer; chillax end

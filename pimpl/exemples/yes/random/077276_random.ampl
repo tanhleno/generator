@@ -1,0 +1,1 @@
+program hWu : main : X7l0a, j : integer array; fl00, z : boolean; d, KB40, s, M7 : boolean; j, Dqr0a : boolean; jTe : boolean; G, m_ : boolean; while - not true and 8 or true / 3 and 8 : output "" . "" . "(" . "" end; do yr(false + false - 467 - 9); let T2p0a = array - false + 852; input js end

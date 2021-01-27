@@ -1,0 +1,1 @@
+program ar : gA : takes n : integer; a, lX, q : integer; C7N0 : boolean array; qf, b, Y, Hr, i18 : boolean; L60aa : integer returns nothing input O96; while 80 - 8 < 06 : chillax end end main : do y(- not false) end

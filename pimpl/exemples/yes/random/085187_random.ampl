@@ -1,0 +1,1 @@
+program d9 : main : l2Fa : integer; when case false * not 09 or vN70[71] * not 7 and 4 or not 04 or 4 - 260 : output 29000 = 7; while 59 : chillax end; input e[2] end case - (0) <= false and 94 + 8 : chillax end case - z6la and 3 >= - 645 : chillax end otherwise : chillax end end

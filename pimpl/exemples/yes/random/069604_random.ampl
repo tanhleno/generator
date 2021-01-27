@@ -1,0 +1,1 @@
+program B : main : u, F, B3, K4 : boolean; let O = (9) <= false and 2; when case - true / false and 3 - true and 6 - 63100 >= not 2820 and 374 : chillax end case false and 3 < 8 : chillax end case - 0 : chillax end otherwise : input QS[50] end; when case - true and 08800 - 8 - 142 /= - 7 - 7 : chillax end; when case 86 : do Uh2(72); when case 0 : chillax end end end

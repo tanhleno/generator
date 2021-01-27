@@ -1,0 +1,1 @@
+program y8G : w6 : takes W : integer array; oF60a, H5e0 : boolean array; r8maa, s : boolean; u : boolean array returns nothing when case - not 5590 and 50 <= 3 : chillax end case 0 : chillax end end main : chillax end

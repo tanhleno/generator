@@ -1,0 +1,1 @@
+program h : Z : takes e, LR3a : boolean array; FZ : integer array returns integer array GPl, dG : integer array; p : integer array; c6, K2, W : boolean array; O : boolean; pop 978 < 18; let _[3] = 4; pop 84200; do OUc(96); do f(43) end l5 : takes g : boolean array; G, W, _6, l, c2, wya0a : integer array returns nothing chillax end main : D0 : integer; chillax end

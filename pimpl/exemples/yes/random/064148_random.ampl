@@ -1,0 +1,1 @@
+program x : t4R : takes V8 : integer returns nothing do h(7) end main : A3 : integer; pop; while true : let a = 2; when case 0 : pop end case 77600 : chillax end end; while - not 3 or 2 : chillax end; pop; while 5 = 527 : chillax end end

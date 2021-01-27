@@ -1,0 +1,1 @@
+program EID : main : when case false or not true / JNb or not 7 < (0) + not 1 and 5 + 3 - 4 : output 5; output ""; while 8 : chillax end end; while - true and false - false : chillax end; output - 00000 - 99 <= 21600 . 43 = 342; do L(- 59 - 32600, 5850, 2); input z[8]; output "<" . "" end

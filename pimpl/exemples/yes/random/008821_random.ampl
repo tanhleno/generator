@@ -1,0 +1,1 @@
+program Z : r : takes X, i, X : boolean; D500, yR : integer; z, z9 : integer returns nothing a72, f : integer array; chillax end main : when case - (4 = 124) * not(6) : let Ot[- 0 - 4] = 1; output 8 end; let Q9a0a = array - true * true end

@@ -1,0 +1,1 @@
+program WI : zdn0 : takes U37 : boolean; g, Q1, UPy : integer; T5 : integer array returns boolean array M : boolean array; output "6"; output "" . "" end main : J : integer array; while - false * (9150) + (0) >= 3 : output ""; let h[5] = 79; while 1 : chillax end end; output - false and 0; do N(not 143 and 8) end

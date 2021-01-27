@@ -1,0 +1,1 @@
+program Wa : main : output "7?" . (07) and 3 + 8 <= 7 . 99100 - 00 /= 01 . "&\""; when case(4) rem(7) and 7720 + (15) and 02 or 6 : while 5 : input UH; pop end; input L end case - false + 5 - 590 /= - 9 - 6 : output "--!" . "/"; do t(50); while 881 : chillax end end case - 94 : do j(0); let _0 = 1; pop end end

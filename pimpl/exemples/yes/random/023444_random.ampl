@@ -1,0 +1,1 @@
+program R030 : I : takes J, YI : boolean returns integer array _47, jk, L, MQd, h6 : boolean array; when case - true and 065 : chillax end case - 5 = 43700 : while 3 : chillax end end; input m[05 - 342]; while 8 : pop end end main : output - false < - false and 4 end

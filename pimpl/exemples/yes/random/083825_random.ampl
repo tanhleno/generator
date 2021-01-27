@@ -1,0 +1,1 @@
+program h : main : t1 : integer; H, qE4 : integer array; k1W : boolean array; do g(jK(985) and not true, 73, true and 379 >= 90 - 7); when case - true / false and 54 + (8) and 9 : input w; pop 41 end case - 7 or 72 - 7480 : do HAc0a(1, 78); let Y = 8 end case 56 - 925 > 59 : pop end; do Bb(03 or 53) end

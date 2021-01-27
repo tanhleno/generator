@@ -1,0 +1,1 @@
+program IHi : K : takes M4 : boolean array; U : boolean; Y, DKq : integer array returns integer q, _f50a : integer; when case not 0 or 3 <= 1 - 2 : chillax end; while - 3 : chillax end end main : chillax end

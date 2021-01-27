@@ -1,0 +1,1 @@
+program c : b8Aa : takes k, B, n : boolean array; B : boolean returns nothing J : boolean; d, L : integer; cd, R, o1 : boolean array; A : boolean; let z[- not 9 and 37] = 4; output 1 = 57300 . "\"."; input q[2] end main : chillax end

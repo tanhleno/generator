@@ -1,0 +1,1 @@
+program F : Z : takes p : boolean; f, w09 : boolean array; e, a, A, k : boolean returns nothing m, m, GG, A0Ta, H2 : boolean; when case - true or 75 - 6 > 7 - 50 : let i[1740] = array 9; output ""; pop end case 04 : chillax end case 5 = 3 : pop; pop end end main : yjSaa, y5Q : integer; chillax end

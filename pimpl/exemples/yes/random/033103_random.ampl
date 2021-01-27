@@ -1,0 +1,1 @@
+program c : v : takes s, nbha : integer returns nothing pop 2 - 3; when case - 7 - 07 < 7940 : while 6260 : chillax end; when case 2 : chillax end; pop end; let lX = 0; pop 2; pop end main : a : integer array; chillax end

@@ -1,0 +1,1 @@
+program F43aa : G6 : takes nHa0 : integer array returns nothing K, N0 : boolean array; UW : boolean; output - 40 >= 2 . 42; input Z[- 905 - 02] end main : I32, jK20a : integer; Z2, X, zL, e8d0 : boolean array; let B[- not true + (1180)] = true; input fo[- not false and z2Saa]; input v; pop 824 end

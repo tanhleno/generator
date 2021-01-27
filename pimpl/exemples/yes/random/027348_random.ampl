@@ -1,0 +1,1 @@
+program R : BKh0 : takes w, Qg : integer array; V, op, b0G : boolean array; m, q5 : integer returns nothing JY : boolean; s, i : boolean; f, v : boolean; while - Z and 0 or 5110 - 8 : input m0; output "\n&!a" end; while - 12600 - 13 >= 32 : let E = 49700; output ""; pop end end main : chillax end

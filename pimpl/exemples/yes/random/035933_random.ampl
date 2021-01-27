@@ -1,0 +1,1 @@
+program cN60a : yt : takes Z3L0 : boolean; D3 : boolean array returns integer array let VuE0 = array - I or 3; while - 7 - 19 > 8 : chillax end; let ny60[2450] = array 4 end T : takes r38 : boolean array; g7 : integer; t5 : boolean returns integer tnqaa : integer; cH, f3, DW : boolean array; chillax end main : chillax end

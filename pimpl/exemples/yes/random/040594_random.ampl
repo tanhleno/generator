@@ -1,0 +1,1 @@
+program g : w : takes bs80a : boolean array; p8 : integer; h, Nm5aa : integer array returns nothing N, q : integer array; aCB, v3 : integer; Ae9 : integer array; fs0 : boolean; chillax end main : T : integer; output(7) >= 34 or 4 . "" . - 0 - 8 end

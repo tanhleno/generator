@@ -1,0 +1,1 @@
+program B : kaW : takes a5, S52aa, I78, Z, C : integer array returns integer array g76a : integer array; s78 : integer array; Fq0a : integer array; L3, p : boolean; pop - 5 > 6 end main : g : integer array; let DrO0[1 rem(4) or 7 + false and 9] = - (3) end

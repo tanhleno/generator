@@ -1,0 +1,1 @@
+program z : Q6 : takes R : integer array returns integer P07 : boolean array; input o5; input Z end main : b, N, Y_9 : integer; when case - false : input Z; do eZ0aa(6, 0); let U2 = array 6; do f(877) end; input V0[false rem true and 482] end

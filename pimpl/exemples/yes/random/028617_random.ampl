@@ -1,0 +1,1 @@
+program a : PhRaa : takes o, S : integer array; ibT0a : boolean returns nothing let O86[false] = array Pw and 5 or 93800 - 5; let A = array - 01 end main : aora, y, W : integer array; do B7C(5 or(4) and true and 5 = not false + w and 43100, not e / false and 68) end

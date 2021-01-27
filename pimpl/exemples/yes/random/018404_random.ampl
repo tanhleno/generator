@@ -1,0 +1,1 @@
+program L27aa : JC70 : takes q, Z : boolean; I : integer array returns integer RGg : boolean array; chillax end t1 : takes tYw : boolean returns nothing chillax end J0 : takes U, P5, Lr : boolean array returns integer input zi9a[8] end m : takes qP : integer returns integer jit, MXt : boolean; chillax end main : chillax end

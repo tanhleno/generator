@@ -1,0 +1,1 @@
+program g : W : takes l, u8g : integer; o, iY, p : boolean returns nothing when case - 5 <= - 8 : when case 0 : pop end otherwise : chillax end; while 34 : chillax end; do f7(778) end case 4 : chillax end case 2 : pop end case 41600 : chillax end case 41 : chillax end otherwise : pop end; while 1 - 09 /= 2 : chillax end; pop end main : chillax end

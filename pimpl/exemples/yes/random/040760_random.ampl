@@ -1,0 +1,1 @@
+program s2 : L6 : takes x97 : boolean array; q90 : integer array; SDL, Yqk0a, _ : boolean; y7 : integer; n : integer array; B, A, A5n : boolean returns boolean array do sr7(not 6 and 11, - 8 <= 39); while - 661 <= 2 : pop end; pop end main : IV70 : integer array; chillax end

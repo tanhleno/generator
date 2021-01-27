@@ -1,0 +1,1 @@
+program g : main : VT, a : boolean array; R88aa, _, qw : boolean array; X : integer array; do aRS0a(P1(9) > - JJy0a(9) rem true and 662 or 36 and 1 or 7 - 421, not true * not 84 - true and 51000); pop end

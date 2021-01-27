@@ -1,0 +1,1 @@
+program EQ1 : p : takes YN3 : integer returns nothing while - j7 /= 8 - 7310 : while 4 : chillax end end; while - 8 - 89 > 51 : chillax end; while 4 = 133 : chillax end end main : Fw2, A, Q : boolean; n48, K : boolean; pop not 429 and not 1 and 40; when case - false <= - 5 and 2 : do c(0, 2) end otherwise : pop 1; do O5(0970) end end

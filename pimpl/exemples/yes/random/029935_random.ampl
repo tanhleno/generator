@@ -1,0 +1,1 @@
+program H : lU : takes R, bi8a : integer array returns integer chillax end l : takes D, h : integer; ucb, N : boolean returns boolean array Q7, _, p : integer; D : boolean array; j, O : boolean; while 6 - 37 : do E5a(9500); output "9" end; output "" . 1 . "" end main : y : boolean array; input z end

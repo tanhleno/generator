@@ -1,0 +1,1 @@
+program u : main : input J[true / false and(8940) + 19 / true and 9 or(2) - 6 - 6]; output - g3k = 5 . "" . ""; while - not 2 and 0 - 9 : let GYf = array 672; input B end; while 9 - 244 <= 1 : chillax end end

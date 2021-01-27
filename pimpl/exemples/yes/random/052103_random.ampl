@@ -1,0 +1,1 @@
+program gO : P : takes _ : integer; A : boolean returns boolean array chillax end b : takes O88a : boolean array; DKo, bv1aa : integer array; U07, a, l, L7 : boolean array returns boolean b41 : boolean array; Y, Hf : integer array; g7 : boolean; chillax end main : input h[CG40a(0, 7) rem(5)] end

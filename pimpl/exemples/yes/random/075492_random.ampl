@@ -1,0 +1,1 @@
+program q : main : kzl0, O : boolean array; let f[true / false and Q] = array false or Vq[4] - (7); while - true + false : when case 0 = 7 : chillax end otherwise : pop end end; while - not 9 and 5 + 71 : chillax end end

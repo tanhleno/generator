@@ -1,0 +1,1 @@
+program c : XY : takes D, EgIa, IS6a : boolean returns nothing O : integer; aoB0a : integer; z3 : boolean; chillax end main : l : boolean array; pop - true * n0 and 4 + true or 00500 = - true; pop end

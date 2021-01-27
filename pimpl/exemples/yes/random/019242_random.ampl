@@ -1,0 +1,1 @@
+program q : F : takes E, B01 : boolean array; H580, kf : boolean array returns boolean array rws0a, s0, u, g : boolean; chillax end main : input f2Saa[not false or not false - 4 and 6]; while false : chillax end end

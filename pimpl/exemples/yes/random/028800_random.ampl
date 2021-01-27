@@ -1,0 +1,1 @@
+program d : i0 : takes Yp, l : integer array; z4ja : integer array; k, k060, f520 : boolean array returns nothing while - false and 2 or 7230 >= - 7 - 23 : let M[59] = array 8; when case 9 : chillax end end; pop end main : let Uk[- true or 21000 - true and 1 - 82] = array - n3 / 74 / Y1Xa and 97; input u end

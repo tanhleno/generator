@@ -1,0 +1,1 @@
+program G : R : takes js9 : boolean array returns nothing U220a, L, L, LV, P : boolean array; kw9aa : integer; C : integer; chillax end UT : takes G320a : boolean array returns nothing pop 66; input Om4a; while 7 : pop end end main : chillax end

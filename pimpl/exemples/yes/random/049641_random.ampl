@@ -1,0 +1,1 @@
+program H2 : a4 : takes n : integer; cl, T, LE, x02 : integer; v, y8 : integer returns boolean array chillax end main : Z : boolean array; while false rem true * not 793 and 07 >= - false * (7) and 3 - true and 02 or 07 : chillax end; do sKD(- V[1] and not 895 + _4u, - false and 2, - 4) end

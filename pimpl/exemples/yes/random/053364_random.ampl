@@ -1,0 +1,1 @@
+program M8c : d : takes Zl : integer; k7E : integer returns nothing output "" . 88 end Za : takes o, h : integer array returns integer array chillax end main : let Z[false / P9Kaa(0) and true and 487 + not(6) / not 45400 and 9] = - false * true - true or 6 <= oe end

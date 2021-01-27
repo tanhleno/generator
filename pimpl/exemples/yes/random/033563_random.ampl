@@ -1,0 +1,1 @@
+program C5 : O07 : takes _L : boolean; Ky, Z, C, a : boolean array returns nothing let W = array - (7) or 7 end main : let e7[- true + (4)] = array P(8, 08) + (2) / not 7920 and 7 - not 85 and 383 - 2 end

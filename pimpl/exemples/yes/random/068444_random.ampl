@@ -1,0 +1,1 @@
+program w : main : U, A, a9, u, m, Ta : boolean array; P : integer array; aM, F, _54a : boolean array; input k; output "O#!" . 81 - 69 /= 92; when case oP0aa and 92 >= 0 - 2 : while 8 : pop end; let m = 5; let L = 0 end; pop end

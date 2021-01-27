@@ -1,0 +1,1 @@
+program _m : Q2Q : takes b, Rz9a : integer array; QN2, j21 : boolean array returns boolean when case true and 95 : chillax end case - 785 - 9 : chillax end case 9 : let i6 = 94 end case 7 : chillax end end main : when case i[7870] >= - true or(26) and 8 or 905 : chillax end end

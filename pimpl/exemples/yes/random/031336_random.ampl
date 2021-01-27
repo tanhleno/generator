@@ -1,0 +1,1 @@
+program Gt : U : takes Y, xL : integer returns boolean array _ : integer; chillax end Bw_ : takes Y5, t : integer; HT1, EB4 : boolean returns nothing output "6"; while 59300 = 352 : chillax end end main : vS : integer; c2N, F : boolean array; chillax end

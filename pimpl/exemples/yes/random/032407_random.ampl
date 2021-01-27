@@ -1,0 +1,1 @@
+program _O : CQ : takes E, F84 : integer returns nothing do T2((293) and 5710 or 2 - 8, - 90 - 0, 69 = 8); while - 59700 : output "Ox!a"; when case 0 : chillax end; pop end end main : do Rj(- not not 327 rem false / false or(7920) and not 3 and 43); output "" . 1 - 8 /= 3 . "5" end

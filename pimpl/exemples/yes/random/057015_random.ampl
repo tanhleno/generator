@@ -1,0 +1,1 @@
+program z : Z : takes D7_0 : integer array; fB : integer array; E2 : integer; rQ : integer returns nothing N : integer; Tx, c0I0 : integer; input DT3 end j4 : takes U, uA : boolean returns boolean y89a : boolean; l, M : integer array; while 3 : chillax end; do I(8); input Z3[07] end main : chillax end

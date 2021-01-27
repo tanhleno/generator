@@ -1,0 +1,1 @@
+program tK : main : R, LEe0a : integer; t, G : boolean array; pop 7 / not 26; when case not false < - 2130 and 869 or 3 : chillax end otherwise : chillax end; when case 84300 and 1 + 9 - 84 : while 481 : pop end end end

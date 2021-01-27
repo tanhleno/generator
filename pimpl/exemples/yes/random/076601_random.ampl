@@ -1,0 +1,1 @@
+program N : main : lz1, nd : integer; input J6o0a; when case - true / false and 312 or false and 34 < - Xk5 : input C; input v; when case 2 : chillax end; output "8"; pop end case - o or 3 - 89700 : pop 1; input z; let I = 55; pop end end

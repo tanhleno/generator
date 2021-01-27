@@ -1,0 +1,1 @@
+program r : e : takes f6u0, W : boolean; S : boolean; r8U, S : integer; Y, fK60 : boolean returns nothing R : boolean; H81, Mi, E : boolean array; a63 : boolean array; Z, W : boolean; chillax end main : H : integer; while - true / d18a[9310] = - true or 3 : chillax end; input lN[- p[4]] end

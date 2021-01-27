@@ -1,0 +1,1 @@
+program E9 : v : takes ueV, S00 : integer; sz7 : integer returns boolean array chillax end J : takes k, K : integer array returns nothing chillax end v : takes c8 : boolean returns boolean _m : integer; pop 94; let A[63] = array 29000; output "" end main : fFR : integer array; l : boolean array; mW : boolean; j : integer; chillax end

@@ -1,0 +1,1 @@
+program xDc : A : takes fj60, w, GQ8, j, MM : integer array; f, k, AJ : integer array returns nothing K600a, L : integer array; chillax end e : takes z, x5E : integer; J47a, _4, f : integer; T1, N : boolean array; w6, HP6aa, Z : boolean returns boolean t22 : boolean; b, y9n : boolean; WK20a, l : boolean; mS30 : boolean; pop end main : chillax end

@@ -1,0 +1,1 @@
+program l1R : k : takes RR, m3, Q : integer; Xr, i1, L : integer array; R : boolean array; PEe : integer array; k5, E : boolean array returns nothing while - true : chillax end; when case 2 - 3 /= 6 : when case 66 : chillax end end case 93 : input lC; pop end case 129 : chillax end otherwise : chillax end end main : output "L" end

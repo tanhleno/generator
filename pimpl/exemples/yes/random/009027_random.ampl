@@ -1,0 +1,1 @@
+program J : q : takes L8aa, bY5aa, p : boolean; R : boolean array; i, N4, u : integer returns boolean while - x65 and 5 + 25 : when case 4 : chillax end; input A end end main : XS, Ln, d, P, NP, VJhaa : integer array; chillax end

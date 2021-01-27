@@ -1,0 +1,1 @@
+program Zm : T2 : takes Py : integer; f1y0a : boolean; V, i26 : boolean returns nothing chillax end wb : takes hy : boolean; SQ, M0 : boolean array returns boolean array chillax end F : takes i, k : integer array returns boolean array chillax end main : chillax end

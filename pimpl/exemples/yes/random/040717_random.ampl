@@ -1,0 +1,1 @@
+program A7 : _ : takes w : boolean array; cv7a : integer; d : integer returns nothing chillax end main : v7 : integer array; g : boolean; do T3(true + mM8aa and not 286 or(46) and 8 or 3, 8 + false and 088) end

@@ -1,0 +1,1 @@
+program lz : R : takes C, f : integer array; I : integer array; r, o, A, A0 : boolean array returns nothing VU : integer array; R : integer array; chillax end bO0 : takes v : integer array returns integer chillax end main : uD, x : boolean array; let P[Zh[0900] * 4 * false] = array(5 = 0); pop end

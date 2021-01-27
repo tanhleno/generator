@@ -1,0 +1,1 @@
+program S3A0 : UM5 : takes L : integer array; f7 : integer array; B, i0j, H : boolean; ax : boolean; x, Zh : boolean; z, j7, h : boolean returns boolean array gg0, Gy_aa : boolean; g : boolean; m : boolean; input J0 end main : a31 : boolean array; n, f, xq, J : integer array; chillax end

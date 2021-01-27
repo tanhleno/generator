@@ -1,0 +1,1 @@
+program A : v : takes o6h : boolean array returns nothing E : integer; let V8 = 1 - 70900; when case - 6 : let BN = 3 end case 5860 = 5 : chillax end case 60100 : pop end case 5220 : chillax end end main : LL, p0J, q8 : boolean; do b(false + false rem(69)) end

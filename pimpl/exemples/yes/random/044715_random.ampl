@@ -1,0 +1,1 @@
+program Q : LE : takes _ : boolean array returns nothing S5 : integer; t5, n, j_9 : integer; B8, p : integer array; z, q8 : boolean; G9 : boolean; l : boolean; chillax end g : takes F9 : boolean array; o5 : integer array returns boolean array input r; while 7 = 95 : chillax end; pop end main : chillax end

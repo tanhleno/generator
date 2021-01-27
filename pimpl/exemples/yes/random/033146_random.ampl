@@ -1,0 +1,1 @@
+program z : H4 : takes d, R : integer returns nothing when case true and 0 - 8 = 1 : chillax end case 7 >= 2 : chillax end end main : A : integer array; G, A1 : boolean array; input i; pop - b - 30 - 70 end

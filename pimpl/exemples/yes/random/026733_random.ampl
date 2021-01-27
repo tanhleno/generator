@@ -1,0 +1,1 @@
+program q : f : takes k, y : integer; z : integer array; jy : integer returns boolean do L(- 2 and 9) end main : when case false >= P : pop; do u(4 = 0) end case not H and not 0 and 7 > 48100 - 48 - 9 : while 7100 = 37 : chillax end; pop 9 end otherwise : chillax end end

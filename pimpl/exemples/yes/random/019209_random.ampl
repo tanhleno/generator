@@ -1,0 +1,1 @@
+program O : C0s0a : takes S, QZ : boolean array; _a3aa, D : boolean array; cT8a : boolean array; zfs0a : integer returns integer array while(02) and 069 : chillax end end X : takes i : boolean returns integer Bu3aa, h2 : boolean; i8m0 : boolean array; A, R : boolean; A : boolean; do B2(02 <= 3920) end main : chillax end

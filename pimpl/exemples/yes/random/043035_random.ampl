@@ -1,0 +1,1 @@
+program W : CmT : takes Er : boolean array returns integer q, d, Do, z8, l270 : boolean; chillax end main : while - 7 rem not false - false rem(8) and 1 >= - Qv[206] rem not 151 and 6 or false and 0040 : chillax end; do G(- 4 - (856) = not 7 or 5 - 87) end

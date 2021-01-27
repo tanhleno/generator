@@ -1,0 +1,1 @@
+program qx : G : takes m : integer array; g39 : boolean array; B4 : boolean array returns integer array A, j8, zr2, J5, s : boolean; y : boolean; C7, W, ra : integer; output - 197 = 1 . 87 . 5 . 49 end main : while - not(5) or 139 + R0 and 5 >= true : let T5 = 2470; let dds0a[49] = array 88 end end

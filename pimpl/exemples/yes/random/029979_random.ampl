@@ -1,0 +1,1 @@
+program M0 : L2J : takes g, E : integer array returns integer do A(- not 8 or 723 - 98800, - 4 - 8900 = 3) end main : _5h : integer array; while - false / true rem false and 8 : chillax end; do bX((89)) end

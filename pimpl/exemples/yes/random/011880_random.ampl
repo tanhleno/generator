@@ -1,0 +1,1 @@
+program W : N : takes w, L1k, b64aa : boolean returns integer chillax end K : takes p, D, u : integer array; G, p : boolean returns integer array q, H5, sd : boolean array; gG0, n2 : boolean array; D, v : boolean; do TN(- 296 /= 3, 59 = 86, 03, 393); output 2; pop 43; output "/" end main : chillax end

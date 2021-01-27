@@ -1,0 +1,1 @@
+program x47a : main : while - 5 and 854 : input J; input K[76] end; do bJG0(- true * (4) and 5 or true and 88100 - 116 - 3); output ""; output "e*"; when case 54 = 1 : output "s2!a" end otherwise : pop end; pop; let p = 9; output "\n]" end

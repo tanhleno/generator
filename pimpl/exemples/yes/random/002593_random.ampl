@@ -1,0 +1,1 @@
+program d : M : takes b, eC7, X880a, a, e : boolean array; i : integer array; PB, Iy8 : boolean array returns nothing output 9 . "\t|aa" end L : takes q : boolean array; H6 : integer array returns nothing o9 : integer; input n[- 0]; while 0 : pop; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program t : S : takes z : integer; X4, I : integer array; M, d170a : integer array; s3N, PR : boolean; D, z68 : integer array; j : integer array; x, F : boolean; d : boolean returns boolean array input Z[- (95)] end main : chillax end

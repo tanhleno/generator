@@ -1,0 +1,1 @@
+program z : main : A : boolean; when case(3) = 37 or 58 or 3 - 7 : let P9i0 = 51 end case - N550a <= - T and 89 : output "" end case true and 90 : output 0200 end case - 9 - 2 = 48 : do W(62) end; input TB[- true or 36 and 5] end

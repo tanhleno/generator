@@ -1,0 +1,1 @@
+program R : main : o : integer; q3J : boolean; Pw : integer; while(66000) + false and true and 6 : let j[- 8] = array - 73; do n5(1 = 64900); let an[0] = array 73; let I = 7; while 10 : chillax end end end

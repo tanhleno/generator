@@ -1,0 +1,1 @@
+program l : g : takes j_Taa : boolean array returns nothing while - 5 : chillax end; when case - 7 : output ""; pop; pop end case 00 = 1 : chillax end otherwise : input X end; while 98 : while 6340 : chillax end end end main : chillax end

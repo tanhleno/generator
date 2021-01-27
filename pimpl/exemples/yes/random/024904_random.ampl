@@ -1,0 +1,1 @@
+program A : K : takes Z, _ : integer; X, Ip, C5, h9Y0a, h, z250, u6j0 : boolean returns nothing GR, tP90a, n9, i, kD : boolean; p, X : boolean; do d(- t and 6 >= 7); pop; do t(01600); pop end f : takes p : boolean; L, cXR : integer array; v1Gaa : integer array; TQB, T, T7 : boolean returns boolean iJO, A : integer; let f[- 038] = array - 40 end main : c9, H : integer; chillax end

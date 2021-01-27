@@ -1,0 +1,1 @@
+program Ik : main : zx, b, _ : boolean array; Ta9, Bys : integer; qA, m33, j, Nd, KA : integer; oG, u, W : boolean array; p : integer; uy, U : boolean; E080 : boolean; input _[- (7 = 9) * false / (913) or 246 or not 4 + 31] end

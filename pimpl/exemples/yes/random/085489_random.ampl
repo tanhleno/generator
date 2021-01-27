@@ -1,0 +1,1 @@
+program N0V : main : _ : integer array; do _57(false * true * kX or not(0) rem not 67 + (264) <= true / false + not 6410 and 32 - 0650 - 8, - true / (08) /= Eit - 44); input Dm7; do f(- R63aa and 65 or 1 - 8, 52400 - 6); do A(4 - 1 = 6960, 61 = 26200, 78300, 5); when case 9 : input c; pop end case 6 : pop end case 65 : chillax end end

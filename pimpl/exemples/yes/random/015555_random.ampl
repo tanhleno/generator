@@ -1,0 +1,1 @@
+program YvH : i : takes Z8na, m69, c : integer array returns nothing let V240 = 2 <= 96000; while 66 - 3 = 2 : chillax end; while 8 = 35 : chillax end end main : K, I : boolean array; K : integer array; _n1aa, H7y, D, y : boolean; input U[(05) - true rem 3]; let R = - (5530) and 601 = - 8 end

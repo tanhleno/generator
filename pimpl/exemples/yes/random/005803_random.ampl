@@ -1,0 +1,1 @@
+program l1 : s7 : takes t, c1, Spk, M : boolean returns boolean array chillax end main : pop; while - true rem false and 8 - false and 46 <= - false + 5 : chillax end; do wd(not 971 = - 12300 - 4); pop; while 04500 = 4 : input d end; output 1 . ""; let e = 20; while 34 : chillax end; pop end

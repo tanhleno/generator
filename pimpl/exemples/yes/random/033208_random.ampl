@@ -1,0 +1,1 @@
+program W : l610a : takes J8 : boolean; P, C, g7Ja, c, b, WZ, m : boolean array; J : boolean returns nothing s, v : integer array; do X7(- f and 30 + 4 - 8) end main : p81 : boolean; O21 : boolean; K7, Qv, O, Y : integer array; Vr : boolean array; D9C, Qk : boolean; Ya00, i : boolean; k : boolean; M : boolean; output "I10a" . "" . 16 - 7 end

@@ -1,0 +1,1 @@
+program x : o4 : takes d, N : boolean array; b, p, Gp20, d4 : boolean returns boolean do z(- false - 3 = 90) end H07aa : takes f, s : integer array; s6, I, u3gaa, re : integer array; p5 : boolean array returns boolean array chillax end W : takes pjc : integer returns nothing S2, KT : integer; chillax end main : chillax end

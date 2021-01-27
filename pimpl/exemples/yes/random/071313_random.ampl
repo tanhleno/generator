@@ -1,0 +1,1 @@
+program U : main : s, q9, YX : boolean; while not 63 and(32) or c - Q3 + 76 >= - true + 707 : do p(- 1 - 4, 3870); when case 3 : when case 1 : chillax end; pop end case 3 : pop end; let R[8] = 7; pop; input a; pop end; do e(- false - not 62 and 18, (1), 7 < 9) end

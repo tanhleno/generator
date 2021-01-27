@@ -1,0 +1,1 @@
+program Rm : a5zaa : takes U, _u4, WD, Q690, I, AO : boolean; I : integer; O3L0a : integer returns boolean r : integer; f : boolean; lk : integer; chillax end main : u, M, A, c : integer; let Kk = - true * false - not 1 + 6 - 94 = - 3 and 4130 + 2 - 6900 end

@@ -1,0 +1,1 @@
+program W0 : E2 : takes d : integer returns boolean array l, Y, U, xn : integer; K2Maa, B9n0a : boolean array; chillax end main : do uV(- true and false and false and 8 + (19) / 9560 or false and 19 + 8 - 3, true and 1 or(7) + 6) end

@@ -1,0 +1,1 @@
+program p : N : takes s, E, enu0 : integer array returns integer array input I[(3) and 0]; do T(6); output 4210 end main : input v5[- true]; let l7T[I37[9]] = 89 and 4 = - 0; let pK[- (4) and 3] = array - (3) and 1; output 065; output "+\\a" . ""; pop 7; let aw = 0; do X(09) end

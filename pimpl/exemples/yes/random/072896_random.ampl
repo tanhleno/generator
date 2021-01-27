@@ -1,0 +1,1 @@
+program No : main : sD, p, VCEaa : integer array; M8 : boolean array; TO, qO9, e5 : boolean array; L : boolean; while - not l40a : chillax end; input h[- b or true and 81]; while false : when case 45 : chillax end case 5400 : chillax end end; let z[533 - 0] = array 89 end

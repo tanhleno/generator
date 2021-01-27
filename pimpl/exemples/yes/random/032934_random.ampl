@@ -1,0 +1,1 @@
+program AY : f4Faa : takes F, IC : integer returns nothing B8 : integer array; c, X : integer; chillax end Nh : takes lj1, m4, m : boolean array; toK : boolean array returns nothing chillax end main : C4Vaa : integer; chillax end

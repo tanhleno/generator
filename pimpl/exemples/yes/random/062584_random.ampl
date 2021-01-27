@@ -1,0 +1,1 @@
+program t5 : r : takes P8 : integer returns boolean T7 : integer array; while 98 and 457 + 06 : while 9 : chillax end end; do y2(- 12 - 4) end b : takes b, q : boolean returns integer b4, qu : boolean; G : integer array; jm_a : boolean; Y : boolean; let S[- 8] = 3 = 6; let _A[54] = 0 end main : input h_g0[false / not false - false and(80) or 0 and 6] end

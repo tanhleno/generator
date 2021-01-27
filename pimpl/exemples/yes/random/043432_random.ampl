@@ -1,0 +1,1 @@
+program X4 : p : takes qI : boolean array returns nothing chillax end R : takes c, h1V0, p, t : integer returns boolean array input R2; let v27[414] = array 3; do L(50800); do q(772); input k end main : when case false and(4) rem B + f - not 880 and 951 = A(0) - false and 73 + 2 - 6320 : chillax end end

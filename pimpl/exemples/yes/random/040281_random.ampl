@@ -1,0 +1,1 @@
+program F : W : takes Z6m : boolean array; qND : boolean returns boolean QpZ0a : boolean array; chillax end main : while U / false * (6) and 913 : chillax end; let k02[false rem true and 37500 - true] = array not H1 / (5) and 9; pop - 2630 end

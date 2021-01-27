@@ -1,0 +1,1 @@
+program nD00 : main : x : boolean array; y3, aQ : boolean; when case false <= true * true and 4 + not 3 and 8 : input OJ[- 42]; input bF7[4] end case - not true or 1 and 2 or 02400 - 49 : chillax end case - false or 9930 - 99 : chillax end otherwise : input D end; output "c2\"a" end

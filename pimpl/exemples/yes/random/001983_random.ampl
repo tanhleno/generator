@@ -1,0 +1,1 @@
+program o : _ : takes E, _, W, w59, m, F : integer returns boolean array chillax end main : AW, W, o, Y : boolean; while - not(9) + true - false and 52 - 4 < - false and(6980) or true : output 9 end; when case not false rem not 73 : pop; do k78(9) end otherwise : when case 95 : pop end otherwise : chillax end end; do o(- jG) end

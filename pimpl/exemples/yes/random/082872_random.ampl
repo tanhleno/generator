@@ -1,0 +1,1 @@
+program K : main : m : boolean array; while - true / (44) rem true and 3 : do V4Z0(- 6) end; pop; when case false - 9 : while 0 : pop end; output "\t8" end case - 3 - 1 >= 7 : input V0T0; when case 65 : chillax end; pop end case 9 = 79 : chillax end end

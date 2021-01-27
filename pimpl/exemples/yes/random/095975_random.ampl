@@ -1,0 +1,1 @@
+program j : main : when case - Q(7, 1) : do r1U(55); pop end case - (09) + (47) and 4 : chillax end case 9 or 03 < - 6 - 782 : chillax end otherwise : when case 6 : do Y(1860); pop end otherwise : pop end; let H500a = array 63 end end

@@ -1,0 +1,1 @@
+program a3 : xZ : takes b6W : boolean; fFV0 : integer returns boolean while true or 2210 : chillax end; pop end main : C9, a : boolean; b7Iaa, B, R : integer; when case - true / ep90a(3) or 69 rem G8 and 3480 < (396) - 0 and 4 - 73 - 758 : chillax end end

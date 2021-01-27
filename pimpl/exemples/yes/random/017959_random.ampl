@@ -1,0 +1,1 @@
+program L : I59 : takes pr10, f340 : boolean; ys : boolean array returns nothing when case - (2) > 791 - 56 : chillax end end z : takes l12a, X3x, M4, h7, c8 : boolean returns boolean x, B : integer; chillax end main : output "uXaa" end

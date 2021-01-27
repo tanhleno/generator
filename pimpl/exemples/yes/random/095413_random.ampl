@@ -1,0 +1,1 @@
+program X : main : when case(1) <= - not(0390) + not 9 : input L[12 - 55]; output 57; while 5 : pop end; pop; input w8; pop end case true : while 0 : input X end end case - s3T and 6 + 4100 - 1660 : chillax end; do N(not T <= 489 and 05, - true + 9 - 2810, 9, 3 = 66); pop end

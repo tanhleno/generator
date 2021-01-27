@@ -1,0 +1,1 @@
+program r : Q : takes pbs0, P4y : integer returns integer array output 89 end V57aa : takes d : boolean array; Mb7aa : boolean array; bz : boolean; Gc, SL8, x, E : integer returns boolean Vm : integer; let yj[0 - 52] = 555 end main : chillax end

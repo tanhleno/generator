@@ -1,0 +1,1 @@
+program PI : G55 : takes A : boolean; r : boolean array; B0waa, r : boolean array returns nothing chillax end w : takes yhOaa : boolean returns nothing J : integer; pop 1 = 2 end c : takes RO, q, r, T7M : boolean returns boolean array chillax end main : when case - false or false and true and 3 + false < - not true and false and 606 : chillax end end

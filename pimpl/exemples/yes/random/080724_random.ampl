@@ -1,0 +1,1 @@
+program j500 : main : wW7 : boolean array; do N(mc[8] or(2) / 4 <= (92) rem false and 1 + Xk6aa, - not(7) and N = - (76), G = 12 - 8450, - 817 - 1520, 4); while - (94) and 76 and 2 <= - h and 16 + 62 - 5 : pop end end

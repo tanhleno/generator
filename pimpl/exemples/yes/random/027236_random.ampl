@@ -1,0 +1,1 @@
+program b : K : takes SP, d : integer array; w7, c, f, e : integer; i6, M, rg8a : integer array returns boolean array o1, P3, cd : boolean array; qrWaa, D, O6Eaa, g : integer; pop - 64 >= 38; pop 41200 = 3 end main : input S[u4[8]]; while - (33500) + not 5 : chillax end end

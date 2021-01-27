@@ -1,0 +1,1 @@
+program Mxa : d : takes a, I, y, l, Z, W : boolean; y : integer array returns nothing when case - (354) or 7 : do hJ(9); input J end case - 7 : chillax end otherwise : chillax end end p2 : takes zTza, L1paa : integer returns integer Xu : integer; input qt[- 0]; do U(56, 2); while 1 : pop end end main : Q, h, Hh : integer; s4, AN00a : integer; v : boolean; chillax end

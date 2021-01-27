@@ -1,0 +1,1 @@
+program b : mt : takes U : boolean returns nothing I00, f, Ho, dZ, kc4 : boolean; V24, X : boolean; U05, G_8a, y : boolean; A3 : boolean; H : boolean; when case true : do T(22); when case 4060 : chillax end end end main : O : boolean array; chillax end

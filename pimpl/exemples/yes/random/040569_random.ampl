@@ -1,0 +1,1 @@
+program d : K : takes a : boolean array; i3 : integer; Wx, W51 : integer; d, w, Q : integer returns integer array chillax end main : HDX : integer array; e : boolean array; let u = array true * 21 and(63) + not not 829; input h; pop 3 - 2 end

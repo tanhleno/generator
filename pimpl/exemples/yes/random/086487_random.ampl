@@ -1,0 +1,1 @@
+program B : main : T : integer array; X : boolean array; DA, uj, Rf : boolean array; let N = array - (73300 = 2) rem x(57) and false; while false and false - not 090 and 04000 + 970 : chillax end; do h((6) and 1 or 45 - 87 >= 6 - 785, - 5, 3930, 92) end

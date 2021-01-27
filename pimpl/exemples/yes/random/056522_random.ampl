@@ -1,0 +1,1 @@
+program qu : bI : takes V : integer array; U : integer; jh7, LP, Q, pJ9 : integer array returns boolean chillax end B6 : takes x3q, Z, Y : boolean array; R33a, a30 : boolean returns boolean array ma8, Y51 : boolean array; UDy0, B, Z : boolean array; chillax end main : when case - (78 = 4) * (56) / true - false * false and 5 or Xj8 : while 5 - 52 : chillax end end end

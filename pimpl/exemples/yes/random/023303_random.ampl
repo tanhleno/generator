@@ -1,0 +1,1 @@
+program d : F : takes U23, HQ : boolean returns boolean D : integer array; while - f or 46 - 4 : let zn = 0; input N; do E(6); pop end end c5 : takes R1a0, y, x, v, E5 : boolean; Vf1 : boolean returns nothing AL : integer; D : integer; M_ : boolean; chillax end main : S, M, kn, v3B, M6Z : integer; j9 : boolean; chillax end

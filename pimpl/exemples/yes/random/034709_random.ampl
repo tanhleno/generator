@@ -1,0 +1,1 @@
+program ZNQ : j : takes Ps : boolean; U, rd : boolean returns nothing m, r, Sf : integer array; k9m : integer array; chillax end main : Y : integer array; input z[- not not zw and not true and true]; input FN[true rem not 28000]; input C; output "i\t" . 70 . 7 . ""; input Q80; while 51 : pop end; let yF = 9; input hi end

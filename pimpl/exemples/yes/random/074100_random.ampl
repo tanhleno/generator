@@ -1,0 +1,1 @@
+program X : main : S, Vi : boolean; input DIM[- false]; pop; do D(- (014) and 02800 or 07 - 4 > 74 - 812); do s(2 >= 1, 59, 7, 35700); when case 53 : chillax end case 1 : pop end case 009 : chillax end otherwise : pop end end

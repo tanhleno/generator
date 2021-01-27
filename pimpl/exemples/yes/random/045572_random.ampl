@@ -1,0 +1,1 @@
+program t : e5 : takes s0Aaa : boolean returns boolean array h, qAs, q61a : integer; m, _ : boolean; chillax end main : I, w93 : integer; input W[- (75200 = 28) / true rem true and 8 or true]; output "" . "" . "(=" . "" end

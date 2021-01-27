@@ -1,0 +1,1 @@
+program Q : s : takes fp : boolean array returns integer array let u8Uaa[not 18 or 2 - 28] = array(0) and 90; pop; while 52 : while 3 : chillax end end; do T(8, 31) end g : takes Q8, V, jnm : boolean array returns nothing U, eq, s : integer array; f54 : boolean array; K, P3ua : boolean; chillax end main : chillax end

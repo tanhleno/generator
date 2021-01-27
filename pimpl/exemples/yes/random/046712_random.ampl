@@ -1,0 +1,1 @@
+program n65a : py9 : takes Z : boolean returns integer array cz : integer; G8, KZ1, e, vl : boolean; output "9"; when case - 81 - 2460 : chillax end case 49 = 42 : chillax end case 3 : pop end end f86 : takes D, Vr : integer; y4_ : boolean array returns integer array do Du50(- 1 - 768 <= 136) end main : h : boolean array; Tt3, k : boolean; chillax end

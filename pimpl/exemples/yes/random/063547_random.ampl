@@ -1,0 +1,1 @@
+program _5ta : K : takes G : integer returns integer let I[- false + 0] = - 80 >= 38500 end g : takes c250a, j, pS : boolean; l : integer array returns integer let g5V0a[0] = array - 86; while 1 : chillax end; output 71700 . "?\t"; pop; let xs = 3 end L : takes i3_, cS : boolean array returns nothing chillax end main : let LTM0 = array Y1Pa[85] end

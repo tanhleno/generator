@@ -1,0 +1,1 @@
+program H : yE80 : takes J, a1jaa : integer array; wNz, g97aa : integer returns nothing en, t7c0 : integer array; p : boolean array; U080 : integer; Z, A52aa : boolean; while - true : chillax end end main : let G = 967 / (73) and 138 = - q3 or 1 - 0; output - (9) or 6 - 164 end

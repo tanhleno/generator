@@ -1,0 +1,1 @@
+program zw : yEs0 : takes UZK : integer array; O : integer array; x16 : boolean array; z, K, qV9aa : boolean; w : integer returns nothing z : boolean; Z4, o9 : integer; let E[3] = - 454 >= 3690; pop 4; do o14(2, 5) end main : f : integer; do X1y(- M[54] * true rem(28600) - true / false = - 784 * not 2) end

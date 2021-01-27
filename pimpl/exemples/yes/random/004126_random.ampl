@@ -1,0 +1,1 @@
+program X3 : W : takes Z, Q, t1Ga, LJq, O950a : integer returns nothing E6r : boolean array; input CX40a[false]; do u(7350 - 21 /= 0, 57) end main : pop; when case - true /= not 773 - 6 : chillax end case Z and 2 or 96 - 63300 : output 1; let t = 01 end case 68 - 4 : input bMY; do Q(0) end case 1 : when case 9 : chillax end; pop end; do I(- true and 5) end

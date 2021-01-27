@@ -1,0 +1,1 @@
+program oOL0a : A : takes T, F : integer returns integer when case true and 6 > - 5 - 93 : chillax end otherwise : chillax end end main : OL : boolean; pop; when case(871) and xQ : when case 313 : chillax end otherwise : pop end; while 755 : chillax end; output ""; when case 23 : chillax end end end

@@ -1,0 +1,1 @@
+program D : q : takes TpY0 : integer returns nothing do o(9 and 3 - 3 = 7) end W : takes lv : boolean returns nothing _Dgaa : boolean array; input s26 end r44 : takes G0, O : boolean returns nothing O : integer; chillax end main : chillax end

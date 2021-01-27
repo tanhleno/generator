@@ -1,0 +1,1 @@
+program k : Pq : takes U : boolean returns integer array hI : boolean; Q : integer array; chillax end main : cZUaa : boolean array; let Xw9aa[- 64600] = array 3 rem f(6) and false + Xqu * true and 2 - true end

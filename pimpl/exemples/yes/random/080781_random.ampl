@@ -1,0 +1,1 @@
+program j : main : J4 : boolean array; p830, uZ6, S, r, bQ, I : boolean; when case - a * false * 9 + (3) rem false : chillax end case false / J and 70 - not 5 and 57 + 7 = 4 : let J[2] = 932 end otherwise : chillax end; do x(- (1060)) end

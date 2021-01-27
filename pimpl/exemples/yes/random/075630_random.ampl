@@ -1,0 +1,1 @@
+program d3 : main : X, c : boolean array; when case - not h(81000) * false /= - not true * not 2 : chillax end case - (3) : chillax end case - not 87600 <= - 1 : output ""; do R(623); when case 3 : chillax end; pop end case - 143 : while 3 : chillax end; while 245 : chillax end end otherwise : pop end; let d7[true + true and 11500 - 6] = array false; pop; do F33(- 5 - 63, 1) end

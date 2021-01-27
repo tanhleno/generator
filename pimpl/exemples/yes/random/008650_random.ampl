@@ -1,0 +1,1 @@
+program o : m : takes y89, GDt0a, B : boolean; j, b9, M3o : integer array returns nothing chillax end G : takes D : integer returns nothing _V : boolean array; vu : boolean array; Vq3 : boolean; _ : boolean; r : boolean; pop 95; let O[6] = 1; output 2 . "" end main : chillax end

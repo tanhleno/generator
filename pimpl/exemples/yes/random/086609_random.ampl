@@ -1,0 +1,1 @@
+program t : main : p : integer array; fh40a : boolean array; when case J(7) / true : output "" . 1 . "" end case - not not 9 / 3 : chillax end; while - (7) / (61) and 594 or false - 834 - 4 : chillax end; input D[- not 692 and 2 + 6]; when case 7 >= 67 : chillax end case 6 : output "" end case 22800 : chillax end otherwise : chillax end; do m(8) end

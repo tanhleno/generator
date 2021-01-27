@@ -1,0 +1,1 @@
+program qW8 : main : O2 : boolean; v : integer array; F3A, K : boolean array; v8, K, M9D, A : integer array; pop P(234) / true /= - 26; let G = array - true * z7 and 1 - true and 1; while - false and 40 >= - 944 : chillax end end

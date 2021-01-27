@@ -1,0 +1,1 @@
+program s : u : takes p, jNR : integer array; _, h, d, q, UU, d69 : boolean; we : integer; iO, g4, _34aa, R : integer array returns nothing pop - 7 - 81; input p[70 - 323]; while 24 = 7 : when case 2 : chillax end; pop end end main : Cm : integer; chillax end

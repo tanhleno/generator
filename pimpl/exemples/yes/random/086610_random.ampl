@@ -1,0 +1,1 @@
+program BA : main : _9f : integer array; D : boolean array; when case j < not false and not 3 : chillax end case 04600 - false and 818 - 40 - 195 : let oC[98] = array 4 end otherwise : do Lx4(3510 = 8) end; do v(false / false and 28 - Mh and 1900 = - (373) and 8 or 0 - 6) end

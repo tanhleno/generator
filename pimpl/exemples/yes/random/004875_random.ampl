@@ -1,0 +1,1 @@
+program T56 : I : takes paRa, A0, N1, t : boolean array; a36, J : boolean array; _s00a, _Cg0 : boolean returns nothing L : boolean; p, f : integer array; Bv : boolean array; chillax end main : eS5 : boolean; fE9aa, s74 : boolean array; Y, A : integer; D1ca, t, Gk6, M : integer; input z end

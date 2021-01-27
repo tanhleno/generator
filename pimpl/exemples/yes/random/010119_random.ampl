@@ -1,0 +1,1 @@
+program c4 : c : takes s530a, x, I : boolean array; _8Baa : boolean array returns integer array do Tm(- false >= - 19 - 957, - 55 - 36 <= 138, 89 = 9) end main : pop - true * false < not 2 - 6 - 4 end

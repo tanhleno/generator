@@ -1,0 +1,1 @@
+program w : n3F0 : takes ZO, m, W : boolean returns boolean array pop 5; when case - 0 - 5 : let A5 = 4880; do I(2); pop end otherwise : while 8 : chillax end; pop end; let GX[9] = array 9 end PK : takes g3C0a, F, v9Q : boolean returns nothing M0 : boolean array; chillax end l : takes b : boolean array returns integer array chillax end main : chillax end

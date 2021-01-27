@@ -1,0 +1,1 @@
+program JM5aa : W : takes I9q : integer returns nothing let C = - 900 - 628 end V : takes J0F : boolean returns nothing gg2, ZG : boolean; chillax end c : takes y : integer array returns nothing output 35; while 3 : pop end; while 75 : chillax end; input L; pop end main : tEq, k85 : integer array; chillax end

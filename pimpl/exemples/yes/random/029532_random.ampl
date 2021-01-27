@@ -1,0 +1,1 @@
+program t : V1V : takes i, N : integer array returns boolean e, A2I : boolean array; am, a : boolean; OB, nV : integer array; chillax end RS : takes f : boolean array returns integer array do I81aa(- 59 - 8, 4, 48, 0) end main : chillax end

@@ -1,0 +1,1 @@
+program t2K : J57a : takes wi, V : integer; N3B : integer array; J : integer; X1 : integer; L960a, i9 : boolean array returns nothing k, nTx, WwBaa : boolean array; chillax end main : output(1540) and 92 and 7 or 531 and 07 or 8 - 05 . true >= 26; pop - (0) and 5 >= - 2; pop end

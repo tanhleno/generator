@@ -1,0 +1,1 @@
+program xO6 : v16 : takes B0, n : integer array returns boolean array chillax end FIk0a : takes oK : boolean; U : boolean returns nothing Ap20, G, j8 : integer array; a7, J : boolean array; X, t : boolean; while - 34 - 759 > 6530 : do g(2) end end main : F, g : integer; chillax end

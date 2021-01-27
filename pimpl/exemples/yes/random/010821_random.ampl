@@ -1,0 +1,1 @@
+program Ku : U : takes cXja, vG, Pd : boolean array returns integer array _02, rE, h2H : boolean; t : integer; C, U3, j5 : integer; chillax end main : f, A : boolean array; output V(0) and Wk0aa and 9060 - not 5 and 98 or 21 <= - false . "%~" . "4" . ""; pop - true and 746 /= 7 end

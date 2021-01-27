@@ -1,0 +1,1 @@
+program K : main : v : boolean array; O : integer; let xz[- 85] = array - 2 or 87; do PQi(- r2[7] and(6) or true and 4 < cB8); when case - true <= - 6 : chillax end case 9 = 4 : chillax end case 3 : chillax end otherwise : chillax end end

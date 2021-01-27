@@ -1,0 +1,1 @@
+program _ : main : a7, E2, Y, D, R : integer array; sd9 : boolean; do wE(false / false > not true and false and 48 + not 0 and 07 - 12 - 3, - false < - not 13 and 77 - 55); let sH[r(47) and false and 0 - false and 2] = array - (583) end

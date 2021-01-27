@@ -1,0 +1,1 @@
+program S : LF : takes g : integer array returns boolean input b; do Z(1 - 5 /= 1); while 8 = 49900 : chillax end; input r end O : takes i : integer returns integer f, MJ, Y : boolean array; let s = array - 08; let rv = 02900 end main : F9, l : boolean; n : integer; chillax end

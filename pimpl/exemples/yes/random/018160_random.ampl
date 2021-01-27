@@ -1,0 +1,1 @@
+program qP : I : takes a7, guD : boolean; F : integer; K1 : boolean array returns boolean array chillax end l : takes C : integer array; v : boolean returns nothing cb, B, LnZ, v : boolean; pop 3520; let y[64] = 1 end main : chillax end

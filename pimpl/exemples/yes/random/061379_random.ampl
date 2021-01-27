@@ -1,0 +1,1 @@
+program k : q : takes w : integer array returns nothing output 09 - 35 . "\n" . 2; pop end Fv : takes C, z : boolean array; K : boolean array returns nothing chillax end main : pop - true - 47200 and 1 = Q; let y7[- (9) rem 9] = array X[7] rem true and 988 + vh9 and 8 end

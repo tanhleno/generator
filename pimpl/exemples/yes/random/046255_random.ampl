@@ -1,0 +1,1 @@
+program f38 : SGV : takes H : boolean returns boolean w23aa : integer; F : boolean array; o : boolean array; input dr7 end O : takes XoV, K : boolean array; c : boolean array returns nothing x, w, O4, gY : boolean; chillax end main : chillax end

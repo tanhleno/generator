@@ -1,0 +1,1 @@
+program bK : O : takes u0 : integer; j, ZGA : integer returns boolean B, b, c5, r5, L : boolean array; A : boolean array; e, E, u : integer array; x92aa, C : boolean; k : boolean; W : boolean; output "6/" end main : lC : integer; q7, f, h, F0 : boolean array; chillax end

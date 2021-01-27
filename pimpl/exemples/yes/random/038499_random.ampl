@@ -1,0 +1,1 @@
+program v : B : takes K : boolean array; L, L5L : boolean; US, Tydaa : integer array returns boolean X : boolean array; output "R" . ""; pop 7; let u9[9] = 11 end main : R4D : boolean array; let UbD = array(9) + tN[5] and false and 012 + (6330); let L = (9) + 4 - 6 <= 4710 - 35; let D[- true and 253 - 7 - 102] = 11 end

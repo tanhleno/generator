@@ -1,0 +1,1 @@
+program w2 : D : takes e66 : boolean returns nothing n : integer array; chillax end b08 : takes YA1 : integer returns boolean array let Y[0] = 84600 = 36400; output 2 . "7" . "i"; output ";" . "" end Bl : takes k9 : integer returns boolean array input I; let R12 = array 14 end main : _, A, gt20a, A, A : integer array; chillax end

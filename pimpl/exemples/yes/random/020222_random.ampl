@@ -1,0 +1,1 @@
+program wT9 : r : takes F, S5 : boolean array; v3 : boolean returns nothing when case - 866 and 8 or 47 - 867 : pop 5 end end s : takes F : boolean array returns boolean input T7h0a[1] end main : chillax end

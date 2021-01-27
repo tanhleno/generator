@@ -1,0 +1,1 @@
+program O680a : pWC : takes _Q : boolean array; Y3g, L : integer; s, oB, dL : integer returns nothing chillax end main : v61 : integer array; while - 3 rem(52) or aJ3[81800] / 033 and 493 or true : chillax end; while - true rem not 3 + 8 = - 4 and 0 or 3 - 8 : pop 2; while 9930 : chillax end; when case 1 : chillax end end; let iv[- Mj and 19] = 622 - 3 end

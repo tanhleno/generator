@@ -1,0 +1,1 @@
+program p : main : E11, J, Z3, y, w45aa : boolean; output - not 1260 /= 6 and 9 or 47 . "" . "o"; output false < - 4 . "V\t"; let a[- true and 8] = array - 5 + 6 - 09; when case - 19 - 9 : chillax end case 64700 = 7 : pop end case 53 : chillax end case 9 : chillax end; let e7[6] = array 5 end

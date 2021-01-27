@@ -1,0 +1,1 @@
+program zy : f15 : takes a : integer array; k4_, o : integer array returns boolean array B3 : integer array; xq9, neEaa, k310a : boolean; do H(- false and 6 + 6); let A[4 - 8430] = array - 585 end h : takes E2 : boolean array returns integer O : boolean array; chillax end main : H4, _5 : boolean array; chillax end

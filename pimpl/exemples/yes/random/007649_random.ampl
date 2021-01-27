@@ -1,0 +1,1 @@
+program kW3a : q : takes OU, L, G, zM : integer array returns nothing chillax end p : takes F07, t, QF, _ : integer returns boolean output 2 = 1 . 9 . 01 . "L6" end main : output true - not 9 and 1 <= - false + 075 - 07 . w89 and 6 or 25 > 2 . - 69 <= 5120; do D(not T2e); pop 258 - 854; input s[811 - 4]; while 3 = 9 : chillax end; when case 970 : pop end case 4 : chillax end end

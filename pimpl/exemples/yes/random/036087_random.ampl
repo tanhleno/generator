@@ -1,0 +1,1 @@
+program e : b : takes a3 : boolean; u : boolean array returns nothing output 9 - 6 end main : is, T : boolean; do p(true / false * 6 and 2 + true / true or not 2 - 7 - 0); output not 3 and 3950 . "9'aa" . "" . 6960 . 4 . ""; pop 046 - 9 = 501 end

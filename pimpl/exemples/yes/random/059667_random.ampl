@@ -1,0 +1,1 @@
+program r : J3 : takes a : integer array returns nothing chillax end M : takes EqK0, q, o : boolean array; Ma, f : boolean; L1, z, V8 : boolean array returns nothing do X4(- 7770 - 553) end main : output "?" . ""; do H(true - sm, - false or 4 = 5, - 9 - 26600) end

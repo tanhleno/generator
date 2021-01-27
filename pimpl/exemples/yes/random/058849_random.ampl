@@ -1,0 +1,1 @@
+program J : C : takes j2 : integer array returns integer array L4 : boolean; H9, e1u : integer array; hwv0a, _L : boolean array; e : boolean; input _4 end M : takes E9n : integer returns integer chillax end main : while 9 or(5) and true >= true rem 71 + true and 72500 : while 6 <= 8 : chillax end end end

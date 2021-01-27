@@ -1,0 +1,1 @@
+program dV : K : takes Da : integer array; M_, rW20a, A5 : boolean array; YV : boolean array returns nothing D : boolean; input Wh[wr8] end main : C, Ic, C, z : integer array; DhN, KB : integer; while - (4) * 08100 * xt < 52 or true : chillax end; pop; let O = - 8 >= 0; input PS[9]; while 4 : do Qura(82) end end

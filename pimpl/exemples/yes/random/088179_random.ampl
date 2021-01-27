@@ -1,0 +1,1 @@
+program W : main : input J; when case T(06) * not 44 : output 929 . 1 . ""; do o(5, 42) end case true or 9730 - 407 <= 9280 : chillax end case - 61 - 55 < 2 : do MJ50(2); do XJ4(4) end case 68 = 9 : input S; pop end otherwise : chillax end end

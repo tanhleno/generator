@@ -1,0 +1,1 @@
+program w78 : R : takes o8, QL : boolean array; gh, GF, eMZ, w, Y, k_, Q92 : boolean array; w : integer array returns nothing chillax end main : J, J6, F : integer array; p550a, O : boolean array; H : boolean; chillax end

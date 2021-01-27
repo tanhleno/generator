@@ -1,0 +1,1 @@
+program Q : G : takes h, c : boolean array; y : integer array returns integer BE, OA, hO6, I : integer array; let q = array N or 87 end main : K, n2, D : integer array; let w0Sa[- M(9) * (319) rem d and 6] = LF / K4saa and 13; let O2[7 rem 0 and 0] = (6980) and 97 - 23 - 51800 end

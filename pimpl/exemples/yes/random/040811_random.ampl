@@ -1,0 +1,1 @@
+program Es1 : L4 : takes c : boolean array; Ix : integer array; W8B0, X2Ua : boolean returns nothing A, V, i, tz2 : boolean; do VS4((89) - 5 - 2) end aW : takes PqF : boolean; D : boolean returns integer chillax end main : chillax end

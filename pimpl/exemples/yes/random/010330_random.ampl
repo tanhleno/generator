@@ -1,0 +1,1 @@
+program J5 : b : takes p, LC, _ : boolean array; h : integer array; Dz8 : boolean array; V0 : boolean; I : boolean returns boolean array q, i, _Lg : boolean array; chillax end Y : takes aPLaa, a, M : integer array; I9 : integer array returns nothing chillax end main : E7 : integer array; when case - N(2) / false * false or false and true and 7 : chillax end end

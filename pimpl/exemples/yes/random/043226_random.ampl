@@ -1,0 +1,1 @@
+program H : y : takes d : boolean array returns integer n : integer; B7, Y : boolean array; N : integer; chillax end main : when case - not(5320) rem(5780) = false : chillax end case 24000 / 8 and 90 >= - 8 and 3 - 8 : chillax end case - not 7 and 1 or 36 - 951 : chillax end case 4 - 8 >= 508 : input r end otherwise : while 2 : chillax end end end

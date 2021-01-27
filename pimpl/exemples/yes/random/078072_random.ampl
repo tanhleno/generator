@@ -1,0 +1,1 @@
+program lo : main : O, N : integer array; when case - G(0550, 5) rem false - not(2) : chillax end case true - false : chillax end case - true : chillax end; when case not not 629 - (7) - 3 <= 9460 and 6 : let Q5 = 6 end case - 7 and 1 + 82 - 77 : chillax end otherwise : chillax end; do b((90) and 5 <= - 56 - 8, - 5, 8 = 90, 87, 687) end

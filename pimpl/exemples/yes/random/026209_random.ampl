@@ -1,0 +1,1 @@
+program X6 : ED : takes yH1, o750 : integer; ypy : boolean array; C : integer; IKr0 : integer returns integer array pop; let xG2aa[- 61 - 8] = array 9 end m : takes tj, O, H : boolean array returns nothing chillax end j : takes L9j : boolean array returns boolean array chillax end main : y : integer; m, L9k0a : integer; chillax end

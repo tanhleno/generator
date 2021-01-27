@@ -1,0 +1,1 @@
+program i : f : takes b, n0 : boolean array; K, _26, Z4, jh7 : integer array; n7 : integer; p, d, O3b, d5, WP : boolean array; iu8 : integer; q6 : integer array returns nothing pop 1 - 2 >= 6 end main : q : boolean array; let tb[- (51 = 06) rem true - (327) and a + u - 21] = array - true rem not true - true - false or 773 end

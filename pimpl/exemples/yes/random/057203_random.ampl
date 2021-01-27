@@ -1,0 +1,1 @@
+program C : k : takes bgH0a : integer array; f86 : integer array returns nothing chillax end S : takes n, B : integer array returns nothing chillax end T : takes A, NBP, d : integer; r5, a, B : boolean returns nothing pop 912; input M end main : input RS[- (3 = 6) rem not not 06]; do L(- 7990 / 7 and 48); let Pn = array - false - 9 end

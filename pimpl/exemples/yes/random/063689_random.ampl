@@ -1,0 +1,1 @@
+program el : N : takes s : integer returns nothing chillax end U : takes f, K, Y0 : integer returns integer array output 28 = 14800 . 9 . 3 end main : qkq0, E : integer; input g5[- false * 365]; when case - 8 / 7 and 9 > - Lb and 89 + 17 - 1 : input o[3]; input s[44]; pop end case - (60200) or 4 = 5 - 8 : when case 56 : pop end end otherwise : do YH(41700, 057); do i(17) end end

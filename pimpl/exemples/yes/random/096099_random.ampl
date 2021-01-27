@@ -1,0 +1,1 @@
+program C23 : main : when case - rs[2] or true and(54) >= - false or false or 417 : chillax end case n1 / (3) and 6 or 9 < false - 8 : when case 55000 = 1 : chillax end otherwise : chillax end; let q1 = array 489; do s30(65800) end otherwise : input dR; while 4 : pop end end end

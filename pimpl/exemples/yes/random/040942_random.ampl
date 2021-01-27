@@ -1,0 +1,1 @@
+program F : l : takes F : boolean array; U : integer array; B3T : integer array returns nothing pop 2 < 28800 end Z8 : takes t, Eg2 : integer returns boolean array pop; when case 23 : input IN1a end end main : c, H9 : integer array; y, MH2 : integer array; when case(2 = 6) - (45) + not 41 + 245 - 6 <= not true : chillax end otherwise : chillax end end

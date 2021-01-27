@@ -1,0 +1,1 @@
+program h8 : Zu : takes E42 : boolean; U5 : integer; N, _5 : integer returns nothing chillax end Z8 : takes WlR0a, M5, HZ, r, Hx, L : integer returns integer smH0a, Q89a : boolean array; chillax end e : takes YX3, I1t : boolean returns nothing C : integer array; uQ, d : boolean; Z : boolean; V : boolean; chillax end main : chillax end

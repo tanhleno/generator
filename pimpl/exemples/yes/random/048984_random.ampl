@@ -1,0 +1,1 @@
+program J8n : W : takes V : boolean returns nothing output 668 <= 4 end j : takes iZ2aa : boolean returns nothing do D7(18400 >= 81) end sm8 : takes t, k : boolean array; e2, t0O0 : integer; oU : integer; C, hu, g : integer returns nothing chillax end main : r, c, k : integer array; chillax end

@@ -1,0 +1,1 @@
+program f : A5 : takes P0, r, H2, Wv2, n, b : boolean array; yw, w250 : boolean; V, HZba : boolean; zX : boolean returns nothing B, hr, k : integer; l8, V : integer array; chillax end main : t9Y0 : boolean; input a0O end

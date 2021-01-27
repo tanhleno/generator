@@ -1,0 +1,1 @@
+program J0 : I7y : takes L13a : integer array returns integer array Dc : boolean; A, MQ9, w : boolean; v : integer; J, n : boolean; chillax end main : q : integer; r : integer; when case - O or av(197) > - O(06900) * not 15 : chillax end otherwise : pop end end

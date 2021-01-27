@@ -1,0 +1,1 @@
+program U : gW40 : takes QC, Njda, K, h : boolean; C, s, X, Yt7aa : integer returns nothing b59a : integer array; output - 9; input t[- 6] end s : takes ii, p4 : integer returns boolean output "" . "+" . 28500; input fgD[3] end main : Q : boolean array; chillax end

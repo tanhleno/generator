@@ -1,0 +1,1 @@
+program VT60 : n : takes M : integer array; b3V0, R : integer returns integer chillax end G22a : takes I, E, a, mE, E : boolean array returns nothing C : integer array; Y, mR6, O : boolean; input UR[5] end main : do d(- (42 = 1) + Ck4 * not 6 or true + 2 - 9 /= true or not 8 and 4 - 545, not false and true + WgN and 884, (2000), 93) end

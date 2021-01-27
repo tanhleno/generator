@@ -1,0 +1,1 @@
+program R : r : takes J31, j, E : boolean returns integer array a : boolean; dM, g6, rXM0, o0Y : boolean; while - M and 4 + 4 : chillax end end zj : takes O, AH, I : integer array; v2U, A0, q, mf7a : integer; z9 : integer array; LJ : integer array returns integer xY, s : integer array; chillax end main : w : boolean array; e78a : boolean; chillax end

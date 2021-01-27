@@ -1,0 +1,1 @@
+program z : X : takes X, O, o : integer returns nothing chillax end Py8aa : takes h : boolean array returns nothing chillax end main : when case - OP6[3] : while - 9 - 417 : chillax end end; input P[70] end

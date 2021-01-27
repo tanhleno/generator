@@ -1,0 +1,1 @@
+program Ar : n : takes K : boolean returns nothing do SG(R and 90 or 90 - 0450); while - 78800 : let Y = 02900 end; input t[8]; when case 15 : chillax end otherwise : chillax end; do J(62) end main : wI6 : boolean; u, aT_aa, GLQ : integer; chillax end

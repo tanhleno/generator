@@ -1,0 +1,1 @@
+program v : Jy : takes S67, s6b0a : integer array; b : boolean array returns integer _5y, kM : boolean array; do a(- true - 7 - 01400) end c : takes D4C, U6r, G, Jr70a, E, BG : integer array returns integer array chillax end main : BK, w79, l : integer array; lS9 : integer array; let F46aa = array true end

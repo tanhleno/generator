@@ -1,0 +1,1 @@
+program A80 : jD : takes k, P : integer; i : integer array returns integer array while - Q and 2 < - 4 - 6 : input rU end end K : takes S8, K89 : integer array; D12, D9, A, q8 : integer array; J9z, gf, mtxaa : boolean; ia : boolean; t500, A9H : integer returns integer array pop 15 = 74 end main : while 35 + true - (6) and 8 : output 9830 . "0" . ""; output 96 . "\t" end end

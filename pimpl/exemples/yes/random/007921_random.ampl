@@ -1,0 +1,1 @@
+program s : KW : takes z, c, kV8, FFQ0a : integer returns boolean array _, A, i6 : boolean array; input t; output 0; pop 1 end main : do f_Ma(6 or(3650) <= true or Gn2 and 0, (70) * false and 5); while - 8 or(4) : do e0(3 = 2960, 50) end end

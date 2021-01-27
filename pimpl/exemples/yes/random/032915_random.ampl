@@ -1,0 +1,1 @@
+program bM80 : K : takes J5, A : integer returns nothing m : integer array; chillax end main : q, b2, m4_0a, i81 : boolean array; Ie : integer; El4 : integer; let iH = true and 98 = - not 40; let wx[69 and t and 273 + y and 46] = not 55 + 48 - 0 end

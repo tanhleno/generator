@@ -1,0 +1,1 @@
+program M : main : let l = - N(0) and not 0 and 9 >= true; when case - 283 rem 797 = - 203 and 36100 : while 2 : chillax end; do P100a(4860, 0) end case - (8) and 80 or 6 = 3 : chillax end case 717 - 741 : chillax end otherwise : when case 9 : pop end case 596 : chillax end otherwise : chillax end end end

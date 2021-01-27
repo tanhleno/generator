@@ -1,0 +1,1 @@
+program n : IR : takes GJT : boolean array; Mo5aa : integer returns boolean input TVN[- false and 1]; when case - 4 - 651 <= 6 : chillax end case 637 = 1 : let X900a = 07 end; when case 5 : while 056 : chillax end end otherwise : chillax end; do n1Z(1, 5) end main : au, X2, R : boolean; chillax end

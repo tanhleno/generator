@@ -1,0 +1,1 @@
+program _ : g84a : takes k4, W, E84, B, r : integer; d, w, RH90a, sF8 : integer; w : integer returns boolean array r640a : integer array; y8 : boolean; Bbg, s, Tl : integer; l5, YfL0 : boolean; when case - not 26800 < 2 - 3 : pop end case - 1 - 1 : let _r30 = 4 end case 3 : chillax end case 0 : chillax end otherwise : chillax end end main : chillax end

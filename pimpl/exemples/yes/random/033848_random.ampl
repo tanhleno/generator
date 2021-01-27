@@ -1,0 +1,1 @@
+program BqM : V2saa : takes t2 : boolean; t, L, Dkz : boolean array; u : integer array returns boolean q7_ : integer; input QpA end main : while - g4(5) + not(9) + true and 6 <= - not(7) : chillax end; pop - true and 99; output 714 - 8 . "" . "-" . 4 . "9"; while 243 - 08 = 1790 : chillax end end

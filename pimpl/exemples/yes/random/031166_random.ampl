@@ -1,0 +1,1 @@
+program x : Q : takes u0q, Gk : integer returns boolean array chillax end C : takes c, No, K : integer array returns integer array when case 47 - 71 > 14 : chillax end case 60 : chillax end end main : chillax end

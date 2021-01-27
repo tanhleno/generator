@@ -1,0 +1,1 @@
+program A : bDq0 : takes X, ij9 : boolean; y0 : boolean; C : integer returns nothing output - 6340 . "" end main : PHD0a : boolean; P, fe3a, b3 : integer array; when case - true + 6 / 80 + (87) = not(6) or(1) and 23 + 62 - 6 : do V(10 - 44, 1610, 0); do Nj(33400 = 73500, 01) end end

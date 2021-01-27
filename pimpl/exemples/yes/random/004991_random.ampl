@@ -1,0 +1,1 @@
+program _ : V : takes i, s1, RmO, t1 : boolean array; V6 : boolean; PXn0, ou, g, VA5 : boolean array; F : boolean array returns integer array s, S7 : boolean array; let x1[R and 8 + 0] = array true and 0; while 5570 - 6 : when case 6 : chillax end; while 5 : chillax end end end main : chillax end

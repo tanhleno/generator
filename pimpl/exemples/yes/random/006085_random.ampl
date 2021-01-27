@@ -1,0 +1,1 @@
+program Q9 : k : takes OiK, z520a, LPw, S4l : boolean returns nothing chillax end X7 : takes Y, P : integer returns nothing when case 1 : input p end otherwise : chillax end end r60 : takes P2, rI : integer; Ge : integer; ko7 : boolean; g, I, eP30 : boolean array returns boolean output 748 end main : S, hp : integer array; input fMA0a[Z(61) and(0960)] end

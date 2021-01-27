@@ -1,0 +1,1 @@
+program qlX0a : main : when case 964 / 9700 : while - 5 : let B = 134; when case 05 : chillax end end; do K(7 = 964, 1, 00); while 7 : pop end; when case 5 : chillax end end otherwise : chillax end end

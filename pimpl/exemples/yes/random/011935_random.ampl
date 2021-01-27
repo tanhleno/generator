@@ -1,0 +1,1 @@
+program Z : S : takes Y, d, W : boolean returns integer F, w, E : integer array; w7 : boolean array; R : integer; chillax end P : takes TO, d, xRy : boolean array returns boolean F, Cm5a, W7 : integer; input q020 end main : Q94 : boolean; when case false : let v3 = 7 end otherwise : chillax end; pop; output 8450 . 278 end

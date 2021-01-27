@@ -1,0 +1,1 @@
+program dqO : x : takes p9, q70 : integer returns nothing chillax end Q67 : takes y, f : integer array; Y7, K8, j0oaa : integer returns nothing do SpP(1 /= 54) end main : while false and false rem 1 : do V8(- 5 - 0 > 8); when case 6 : pop end end end

@@ -1,0 +1,1 @@
+program P : KX : takes Iu : boolean; DOK, t, fR0 : integer returns nothing C : boolean array; i, uG, K : boolean array; chillax end main : d : boolean array; when case false and false / not 907 : chillax end case - (9) * 7 and 26 - false : output "" . "" end otherwise : chillax end; while - false / 391 : chillax end end

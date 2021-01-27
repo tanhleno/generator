@@ -1,0 +1,1 @@
+program z : U : takes i6Y, wO : integer; XR7, v, Y, _ : boolean; s : integer array; F, l_, cx : integer; OD : boolean; nmi : boolean returns boolean array pop 36; when case - 5 - 91000 >= 7 : pop end case 2 : chillax end end main : N : integer; chillax end

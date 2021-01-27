@@ -1,0 +1,1 @@
+program c3 : main : MP : boolean; D0 : integer array; Dz4a, B, uh : integer; QQ30, iyq0, q, JE4aa : integer array; c : integer; Af : boolean; c : boolean; when case false / not 44 or not 68 /= - (6370) - not 2 or 85 : do Y59(- 9660) end end

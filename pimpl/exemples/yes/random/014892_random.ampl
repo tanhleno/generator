@@ -1,0 +1,1 @@
+program T : k58 : takes X5, B, P : integer array returns integer array chillax end p : takes T : boolean array; ca, Q, ew0a : boolean array returns integer G, l, c2, t : boolean; F : integer; chillax end main : input oo end

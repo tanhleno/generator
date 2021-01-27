@@ -1,0 +1,1 @@
+program AP5 : main : x : integer; D9v : boolean; lp, s, q : boolean array; when case 20 * false <= - not 72 : input Fb6a end; do s(false or(8), - (66) < 2 - 70300, - 7460, 87); input L[(355) or 6] end

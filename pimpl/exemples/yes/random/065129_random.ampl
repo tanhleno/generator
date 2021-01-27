@@ -1,0 +1,1 @@
+program G47 : mC10 : takes V66 : integer returns nothing s : integer array; let zd[true] = 7580 <= 1 end Wu : takes O, D2, R : boolean array returns boolean a, O, f, V : boolean; p : boolean array; tx7 : boolean; w6 : boolean; do X(98 - 8590, 5) end main : Js, y8, o2oaa : integer array; y : boolean array; chillax end

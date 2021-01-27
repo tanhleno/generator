@@ -1,0 +1,1 @@
+program G1b0a : C : takes a1 : boolean array returns nothing M : integer; chillax end K : takes C : boolean array; b : integer; p7, k900a, Bg : boolean array returns integer chillax end main : when case(5 = 6) or false / true and 6 + false and 029 >= 029 * not 85 : pop end case - true / (1) : chillax end otherwise : let ff9 = 3; output "G@" end end

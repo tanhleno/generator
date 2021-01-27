@@ -1,0 +1,1 @@
+program z2r : i4 : takes pp3, W44, qh8a, _, p, q9, d : integer returns nothing t : boolean array; l, zsgaa, M : boolean array; chillax end n : takes R, D : integer returns boolean zb2aa : integer; chillax end main : j540a : boolean array; K2x, U : integer; y44a, R, o5, s : boolean array; f5M0 : integer array; chillax end

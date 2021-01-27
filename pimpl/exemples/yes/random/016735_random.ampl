@@ -1,0 +1,1 @@
+program d4I0a : j : takes C, j : boolean; y, y1, N9, l, j : integer array; A4va, S, VU9aa : boolean returns nothing chillax end main : I : integer; when case - not u - true rem v2Q or not 6 or 6 : chillax end otherwise : chillax end end

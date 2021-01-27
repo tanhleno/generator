@@ -1,0 +1,1 @@
+program b480a : k : takes Fn9, c8Gaa : integer array; lZ : boolean; _ : integer; C, n99a : integer returns boolean array Q47aa : boolean array; qI, X, HAPa, c88 : integer array; chillax end main : k3, J, L : boolean; I : integer array; W : integer array; h : boolean; chillax end

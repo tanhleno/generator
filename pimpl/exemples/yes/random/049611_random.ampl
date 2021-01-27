@@ -1,0 +1,1 @@
+program U8 : G8 : takes H3 : integer; xm7, z, g, Q6 : boolean returns integer array let z = array 2; output ""; while 85 : chillax end end main : bH : boolean array; while - not not true rem true and true : chillax end end

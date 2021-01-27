@@ -1,0 +1,1 @@
+program N1 : main : EI, a : integer array; N, S, Y500a, E : integer; pop true - (4) and 180 > true and 8620; when case 771 rem not 1 and 750 : chillax end case 2 or 5 >= - 68 : chillax end case - 7 : chillax end case 9 = 92 : chillax end otherwise : chillax end; output "" end

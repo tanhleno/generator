@@ -1,0 +1,1 @@
+program s : main : let B[- QkTaa[2] and not not 72 + false * s and 30] = false + not 8 < 2; while - true and D : do N(5 = 0, 2); output 26 . "5\\"; when case 1 : chillax end; while 228 : chillax end; pop end; input D end

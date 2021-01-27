@@ -1,0 +1,1 @@
+program Dy : D : takes t8 : boolean array; H1K, n : integer; R8, Q, G, wNB, D9J0a : integer array returns nothing chillax end main : x, B, O : boolean; while 38300 > T[23] / true and 05 : while 5 - 1 : chillax end; while 2 : chillax end; pop; while 0 : chillax end; when case 2 : chillax end; pop end end

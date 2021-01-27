@@ -1,0 +1,1 @@
+program c : S : takes j7 : boolean array; U : boolean array; A : integer array returns boolean array V, R1 : boolean array; do D7N0a(O0 and 6 - 6 - 4, 7 - 627 /= 78, 20 = 0, 9); when case - 3 - 397 = 85200 : chillax end; let S[7] = 2 end main : iB : integer array; Ad6a : boolean array; j : boolean array; _ : boolean; chillax end

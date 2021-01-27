@@ -1,0 +1,1 @@
+program I : main : pop - 5820 rem 9 and 0 >= true and 32600; output "\"&"; when case - _ + 9 - 8 > - 15 : while 428 : pop end; let q = 6800; let n = 03 end otherwise : do w(3); let E = 8; pop end end

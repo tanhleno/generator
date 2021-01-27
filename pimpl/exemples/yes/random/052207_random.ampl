@@ -1,0 +1,1 @@
+program L6laa : m : takes A : integer; V : boolean returns integer array output 5 - 782 /= 1 . 3 = 945 . ""; when case - 8 <= 96 : chillax end end main : y7taa : boolean array; w : boolean array; j, R, a : boolean array; o : integer; EFz : boolean array; pop end

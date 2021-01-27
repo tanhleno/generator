@@ -1,0 +1,1 @@
+program M0 : ZQ : takes YQ : boolean; jk3aa, k, T : boolean array returns integer array chillax end N : takes b : boolean array returns nothing when case 29 > 65 : chillax end; while 0 : do X(6); pop end end h_ : takes q : integer array returns nothing M : integer array; input D7w; while 4 : chillax end end main : do G0(not 8 or(13) / (76) and 55) end

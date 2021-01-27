@@ -1,0 +1,1 @@
+program P : K2x0 : takes i3S0a : integer array; d7 : integer returns boolean j77a, GK, q : boolean; chillax end y5Eaa : takes o, E5 : integer; Q, c : integer; QNx0a, P, O6, S, Lw : boolean array; Qf : boolean array returns nothing while 30 - 63900 : chillax end end main : y : boolean; chillax end

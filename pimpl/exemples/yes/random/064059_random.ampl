@@ -1,0 +1,1 @@
+program O6 : L0 : takes n : integer returns nothing chillax end main : when case not 700 / not true : let UR[- 00] = array 737 end case true or not 8 and 2 - 9 /= (125) and 44 : output 4 . 295 . "|"; while 1 : pop end end case true <= - 530 - 6 : chillax end case - 2 : chillax end otherwise : chillax end; let EB[false rem not 076] = false or 72 end

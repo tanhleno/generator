@@ -1,0 +1,1 @@
+program k : Fs : takes S : boolean array returns nothing chillax end p : takes a7 : boolean returns nothing chillax end main : let Q[- false rem false rem false and 6] = array false; input y[true]; when case false : chillax end otherwise : when case 238 : chillax end; do p7(2); pop end end

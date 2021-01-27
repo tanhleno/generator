@@ -1,0 +1,1 @@
+program R : g : takes v : integer array; dj40 : boolean array; _ : integer array returns nothing Gx6 : boolean; R : integer; l, f77 : boolean; chillax end S : takes _I90, N1 : integer returns nothing chillax end main : PT : boolean; pop true / not 767 - false and 34 or 6 > true and 1; output "" end

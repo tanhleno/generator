@@ -1,0 +1,1 @@
+program L : fw7 : takes A : integer array returns integer chillax end P : takes a3Oaa : integer array; yi : boolean; V, R : boolean returns boolean do KD(94) end b : takes y_ : integer; R : integer array returns nothing L23aa : integer array; while 3 = 8220 : pop; pop end; input Gqza[9]; while 66 : chillax end end main : input C end

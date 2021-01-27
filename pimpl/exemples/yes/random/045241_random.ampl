@@ -1,0 +1,1 @@
+program Q : i : takes T : boolean array returns nothing when case - 5 and 5 : chillax end otherwise : while 5 : chillax end; while 9960 : chillax end; pop end; pop 58000 end main : iC, Av : integer; OP4 : boolean; chillax end

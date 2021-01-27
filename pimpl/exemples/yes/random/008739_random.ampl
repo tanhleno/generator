@@ -1,0 +1,1 @@
+program G : q : takes z, _I, h1V0a : boolean; q, t : boolean array; Z : integer; c, vN, mV : boolean array returns nothing ZKV : boolean array; pop; pop; let E[88] = array 13 end z : takes Y8, f0c0 : boolean array returns boolean array L1Qaa : integer array; output "" . "" end main : J : boolean array; output "" end

@@ -1,0 +1,1 @@
+program De : main : while true and not(90) : output ""; while 2 = 20 : chillax end; let a04[7] = 0 end; do l3Da(- M(7) / false and 4 /= true and 382, - (94) >= - 28 - 4870, 351, 0100 = 08, 7); while - true and 47 + 49 - 5 < 380 : let y[6] = array 0 end end

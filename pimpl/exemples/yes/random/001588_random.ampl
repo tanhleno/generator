@@ -1,0 +1,1 @@
+program Tu : C : takes B, l, k5t, hx, wvl, W : boolean returns nothing when case 503 and 5 < - 0 : let d[6] = 0 end case 6 <= 6 : let Y1p0a = 99 end case 4 : when case 097 : chillax end end case 12 : pop end; while - 7 /= 13 : while 7 : chillax end; when case 1 : chillax end; pop end end main : do J(- (1 = 73200) or false, - 3 or true >= - (9) or 82 - 3) end

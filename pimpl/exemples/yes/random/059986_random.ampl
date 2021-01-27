@@ -1,0 +1,1 @@
+program Q2Aaa : Bi : takes s8 : integer array returns nothing chillax end main : C8 : boolean; G, O8naa : integer; M : integer; c, g4n : integer; A, vC : boolean; Wt : boolean; Y : boolean; chillax end

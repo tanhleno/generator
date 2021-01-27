@@ -1,0 +1,1 @@
+program _5G0 : x9 : takes GHV : boolean returns nothing chillax end f6 : takes s, gB, g3, y : boolean array; P, Cz, l, C : integer; cu, y : boolean array returns nothing _V4, _, I3 : integer array; output "" . "\"" . 1 . ""; output 486 . 94 . "" end main : do m69(false rem false * (8) and 4 /= not(3) rem true and 3370) end

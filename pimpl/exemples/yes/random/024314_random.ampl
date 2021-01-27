@@ -1,0 +1,1 @@
+program L1u : x : takes u, p1 : boolean returns nothing C, i : boolean array; pop 4030 = 02 end main : when case - true + false / true or not 63 and 1 : when case 471 - 15 < 2910 : while 70 : chillax end end; when case 4 : chillax end end end

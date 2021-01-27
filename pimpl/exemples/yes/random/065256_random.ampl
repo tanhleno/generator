@@ -1,0 +1,1 @@
+program S : M7 : takes t : integer returns nothing let U = array true and 6090 or 814; while 11 /= 358 : chillax end; pop 968 end k : takes OL : boolean array; h, tU2 : boolean returns nothing chillax end main : s : integer; output ""; do KB(- 8 + (921) and 83 - 0, true and 4 + 69 /= - 2 - 3, - 337 - 525 = 840, 19); let Y1 = 1 - 3090; input q end

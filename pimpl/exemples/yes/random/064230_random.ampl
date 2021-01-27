@@ -1,0 +1,1 @@
+program X600 : I : takes c : integer returns nothing G5f0a, e, J, WE : boolean; pop - 8 < 97; output "hA" end F : takes U : integer; h, Su, q : boolean returns nothing I090a, ts : boolean; n3n : integer array; chillax end main : input X1; let F[- (6150)] = (514) and 46 + 0 - 7; pop end

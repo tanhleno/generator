@@ -1,0 +1,1 @@
+program r : u76 : takes a3 : integer; H8D0a, eB : boolean array returns boolean n420, e850a, Ru : integer; do wN3aa(G3u + 6 >= - 89200); pop 37 = 18 end main : when case wLW(62, 92) or(3) or not 6 - 6630 - 0 <= j2 and true and 7 or(334) : chillax end otherwise : do R3R(59) end; while(30) * (8) and 52 - 9 : chillax end end

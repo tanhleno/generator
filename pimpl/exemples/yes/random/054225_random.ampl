@@ -1,0 +1,1 @@
+program Rx : k : takes g : integer array; N, m, r71 : integer array; I9 : boolean returns boolean input E[- (3)]; pop; when case 5 : chillax end otherwise : chillax end end main : vr00a : integer array; A : integer array; do a(- false * 264 - (6) = - false, - not not 8 or 43 and 4); input v; pop; let TS = array - 0 - 83 end

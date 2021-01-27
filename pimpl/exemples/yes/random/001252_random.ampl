@@ -1,0 +1,1 @@
+program Z1 : s : takes j, j, R, s5, p, pp : boolean array; f, q : boolean; o : boolean array; LM70a : boolean returns integer z90aa : boolean; h, H, lXK0, o : integer array; b : integer; G35, T : boolean; _4 : boolean; I : boolean; let X = 50 end main : chillax end

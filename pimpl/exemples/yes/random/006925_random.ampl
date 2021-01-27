@@ -1,0 +1,1 @@
+program Z14 : xT : takes j, v, d, Yx90 : integer array; c, y7, D : integer array; k2q, Oo, a, ti : integer array; RG, Ys, i, Q : boolean array returns nothing y : boolean; chillax end main : Xph0 : integer; chillax end

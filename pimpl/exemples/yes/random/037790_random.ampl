@@ -1,0 +1,1 @@
+program a : I5 : takes M8 : boolean array; MZ80, c, f, e : boolean returns boolean array T, y : integer; u, O : integer; chillax end Ll : takes e, c0 : boolean array returns boolean array g9 : boolean array; do FNqaa(- 0150 - 9 >= 34) end main : t : integer; chillax end

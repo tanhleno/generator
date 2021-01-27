@@ -1,0 +1,1 @@
+program N : s : takes x5, I, r, h0 : integer returns nothing let J99[- (10700) and 13 + 0] = array - (55) and 0; when case - 6880 /= 216 : chillax end case 2 : while 87 : chillax end; pop end otherwise : chillax end; while 31 : input c end; let L4 = 1660 end main : chillax end

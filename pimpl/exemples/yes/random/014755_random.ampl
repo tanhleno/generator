@@ -1,0 +1,1 @@
+program M1 : t86 : takes V, S, Q : integer array returns boolean array let K[true] = 384 - 12 = 33 end main : let vh[- false] = array - 9; output not 8 + 64 /= 4550 - 130; output 4920 >= 9 . 8 = 413 end

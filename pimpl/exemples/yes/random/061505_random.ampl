@@ -1,0 +1,1 @@
+program LXU : Fd : takes mM : integer array returns nothing pop 56 - 1 >= 39; while - 7100 : do Q(6); let i3Aaa = 01 end; input w; pop 600; input w end VS5 : takes za : integer; I2 : integer; f : integer array returns integer array s4L0a, E : boolean array; K11, x, J1 : integer array; u, _2 : boolean; chillax end main : b : boolean array; u9 : boolean array; chillax end

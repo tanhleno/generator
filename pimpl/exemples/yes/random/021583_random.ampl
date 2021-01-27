@@ -1,0 +1,1 @@
+program X : s : takes v, V : boolean array returns integer chillax end main : j : integer array; while true or H370a(3) < - not(95700) / not 5930 and 703 : when case 97200 <= 8 : while 7 : chillax end end end end

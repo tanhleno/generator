@@ -1,0 +1,1 @@
+program hOQ0 : main : let s = - I5I0[62] or false and 9 - 2; when case tQ[58] + false - 552 - 1 >= true and 55 - 3 : chillax end case true and 36 - 5 - 9 : when case 9 : chillax end end case 1 = 65 : while 92500 : chillax end end end

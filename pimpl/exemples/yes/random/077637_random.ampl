@@ -1,0 +1,1 @@
+program T2t : main : w, Csf : integer array; D : boolean array; while(1) and(4) + 6 / (531) >= - y[78] or wQj and 16 + 9 - 3 : chillax end; when case 9 < - (2) and 0 : while 043 = 0 : chillax end; while 3630 : chillax end end end

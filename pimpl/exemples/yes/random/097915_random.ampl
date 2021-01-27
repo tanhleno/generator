@@ -1,0 +1,1 @@
+program Na : main : while(60 = 8) rem not r or 7 <= not not 9 - true and 7 or 0 : pop end; when case true < true and 6 + 7 - 9 : chillax end case oQ + 1 : do X(64, 9410) end case - 1040 - 2 : chillax end case 851 : let HMm0a = 5 end end

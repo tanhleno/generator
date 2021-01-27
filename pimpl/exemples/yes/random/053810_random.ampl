@@ -1,0 +1,1 @@
+program J1 : m7 : takes _T : integer array; G, a2, cQ, w : integer array; w7h : integer returns boolean array chillax end main : let p = - not true and(60500) and 3 - W and 7 or 694 - 853 <= not 9260 end

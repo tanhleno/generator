@@ -1,0 +1,1 @@
+program g1e : m : takes l : boolean array; W, a, b, x6, qsI, p31 : integer array returns integer let gz[true + 59] = array false or 5; output "8@!a"; let n[4520] = array 0850; let K3[5] = array 44800; when case 35 : chillax end end main : z, L, Ih60 : boolean array; output "\n\n!" . ""; let z85aa[- true] = not 63000 and 01500 - 4 end

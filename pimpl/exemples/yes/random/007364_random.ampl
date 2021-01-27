@@ -1,0 +1,1 @@
+program LnP : Q : takes x, z0Z0a, F, f : integer array; y6 : integer returns nothing input UDL; when case 1 - 0 : output "\\"; when case 6 : chillax end; pop end case 7 = 6 : chillax end case 66 : chillax end end M : takes h360a : integer array; Z : integer array returns nothing output 731 = 24 end main : chillax end

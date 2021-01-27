@@ -1,0 +1,1 @@
+program h : main : B : integer array; F, P1, h : integer array; L0 : integer array; when case - N79a(7370, 18) or false = true rem 1 and 4 - not 9 or 2 : while - 3 - 51300 : pop end end case(31) - An and 8 - 3420 - 262 : chillax end end

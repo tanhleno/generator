@@ -1,0 +1,1 @@
+program s_ : K650 : takes YB, B4, m5E0a, x, u : integer returns integer array u8o0 : integer array; chillax end vBB0a : takes u : boolean array returns nothing CY : boolean array; ycWa : boolean array; chillax end main : output - false or false - 0590 > - false or 89 - 4 . "" end

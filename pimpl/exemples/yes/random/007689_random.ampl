@@ -1,0 +1,1 @@
+program DoWaa : Y : takes B, vm9, f, y : integer array returns nothing chillax end main : nPc, Ps7 : boolean array; while - true <= - D0[6] or true : chillax end; when case - g2d0(2) and false and 2 > - (82500) + 7 - 61 : let d4 = 11500; while 5 : chillax end; when case 64 : chillax end end otherwise : chillax end end

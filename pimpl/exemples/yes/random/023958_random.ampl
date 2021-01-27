@@ -1,0 +1,1 @@
+program e : W : takes O2, CJ : boolean returns nothing chillax end w6 : takes HK80a : boolean returns integer array chillax end main : x : boolean; when case not W[0] rem false rem false and 5 + not true * 3 and 6030 /= (87) - not 3 and 2 - 0 - 14900 : chillax end otherwise : output "" . 4 end end

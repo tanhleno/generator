@@ -1,0 +1,1 @@
+program M : G5Wa : takes al2, H9Aaa : integer returns boolean array P : boolean; o18a, k, s93 : boolean; d, A : integer array; when case - false or 23 - 4 = 4210 : pop 53900 end end main : input x; let k[not true or false and 95600] = - q end

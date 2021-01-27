@@ -1,0 +1,1 @@
+program L : x8 : takes L, V, A : integer; r6 : boolean array returns nothing c : boolean array; while - true + 526 : chillax end end k8 : takes Q : integer array; _, v : boolean array returns nothing i4, Q : boolean; v, n850 : integer; E, D : boolean; tu3 : boolean; chillax end main : chillax end

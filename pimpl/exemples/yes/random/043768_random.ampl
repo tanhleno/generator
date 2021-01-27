@@ -1,0 +1,1 @@
+program W : y : takes Hu : boolean array returns nothing chillax end main : ni9 : integer; cD : integer array; when case - 63 * (01) * 3 and 0 - (8) : chillax end otherwise : chillax end; input v[- B3Haa]; when case - false and 5230 + 6 /= - 737 : chillax end case - 1 - 0 : chillax end; output "\t" . 3480 . "" end

@@ -1,0 +1,1 @@
+program B13 : O : takes Fg, C, B : integer returns boolean array chillax end W : takes C : integer; n : integer array returns nothing Z : boolean array; r, L, G0 : integer array; do U(1 = 38) end f9_0a : takes Vj, H, d : boolean returns boolean chillax end main : k, X6, S, wb, Cd : boolean; e, FN, k3r0, M, x : integer; chillax end

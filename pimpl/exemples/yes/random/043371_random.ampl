@@ -1,0 +1,1 @@
+program yu8 : AH : takes N4c : boolean array returns integer when case - true : chillax end otherwise : chillax end end P6 : takes Xw, z : integer; k, a1R0 : integer returns boolean rV10, J, S9z, WND0a : integer array; pop; output 30; while 68 : chillax end end main : chillax end

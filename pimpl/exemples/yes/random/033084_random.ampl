@@ -1,0 +1,1 @@
+program IZ3 : iL : takes e2, b : integer returns nothing pop; let v[99] = 9750 = 79 end main : R : integer array; l : integer; do F4(- (7150 = 0)); when case - false : chillax end; when case kvra >= - 448 - 3 : chillax end case - 7 - 71700 < 779 : input s96aa; let I = 33; pop end; let s[- 9 - 4] = 6 end

@@ -1,0 +1,1 @@
+program Z9f : L : takes s1, p : integer array returns boolean array i : integer array; c04a, H : integer array; C : boolean array; I, r : boolean; input w; while 8 < 1 : chillax end end main : U9o : integer; chillax end

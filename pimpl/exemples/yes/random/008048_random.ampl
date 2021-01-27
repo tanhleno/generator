@@ -1,0 +1,1 @@
+program v : _l : takes PD, K4qaa, KN, G7 : integer returns integer array N, p6 : boolean; chillax end z : takes Q, Kd : integer returns integer I : integer; while 64 - 2 : chillax end; let cru[7] = array 50 end main : chillax end

@@ -1,0 +1,1 @@
+program C : Q77 : takes b470a : boolean; c : integer array returns integer _vra, T, _5 : boolean; Z5 : boolean; zbI, S, EBF0a : boolean; when case - true and 06 : chillax end case - 7 : input v end end main : chillax end

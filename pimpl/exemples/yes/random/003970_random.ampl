@@ -1,0 +1,1 @@
+program A4 : X : takes K6, us, RRE0, px30, sB : integer returns boolean A0, h : integer array; z : boolean array; k8F : integer array; T, IK : boolean; when case - false < - 75 - 8 : chillax end case - 2 : do O(6); do j1W(3) end otherwise : output "\"" end; pop; do d(96900 = 5, 34, 2); do J(38, 542); let O = 5820 end main : chillax end

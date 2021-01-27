@@ -1,0 +1,1 @@
+program e090a : nu : takes F, x : integer; r : boolean array; G : integer returns integer array do CB3aa(- 4 < 06); let s9[0 - 6920] = 6 = 930 end main : input A[92 + pU20 / 4 or false + 66 - 85]; let E5[false * false and 90] = array S; let a = array Xm2 and 50700 - 65 end

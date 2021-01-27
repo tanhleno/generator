@@ -1,0 +1,1 @@
+program F : P : takes Z210, R, W : boolean array; X, rE, Qt, Q, hx2 : boolean array; uIna : boolean; C, h : integer array returns integer f, D6 : boolean array; G, zH9a : integer array; chillax end J : takes Q9, w : integer array; h, Nh : boolean array returns integer array let R8D[1] = 5700 = 57 end main : A, J3 : integer; LN : integer; chillax end

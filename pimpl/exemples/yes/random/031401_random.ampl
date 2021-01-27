@@ -1,0 +1,1 @@
+program g : n : takes sq2, X : integer returns boolean array pop - 09 >= 24; do P(6 - 24 = 9, 9130 = 7, 5, 22) end main : do l(- false, - V[3540], (39) - 79 - 8); input c3[- true or not 2]; output "7" end

@@ -1,0 +1,1 @@
+program v : T : takes a, s, xO7a, b, L8, d : integer array returns integer do L(- not 77 <= 554); while - 3 : chillax end end c : takes x, b39a, se2, W0 : boolean; fp : integer array; Pe3 : integer returns nothing when case 3 - 8 /= 977 : chillax end end main : chillax end

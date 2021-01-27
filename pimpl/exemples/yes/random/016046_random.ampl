@@ -1,0 +1,1 @@
+program i : j : takes H, s, G : integer returns integer F, K, m : boolean array; while - true and 9 + 17 - 6 : output 5 . "" end; pop end Ch0 : takes ml : boolean; deg0, K : boolean returns boolean array do H(1 - 537 > 5, 2); pop end main : FZ2, R, lJ : boolean; g1Z, AE : integer array; chillax end

@@ -1,0 +1,1 @@
+program T : j : takes S : boolean array returns nothing chillax end H : takes zq, F7, h4l : integer array; z660a, N : integer; r, q, r5 : integer returns nothing when case 8 - 042 <= 18 : chillax end otherwise : do Lj(78) end; input N3[2]; let y = array 64000; input m end main : input H end

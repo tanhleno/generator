@@ -1,0 +1,1 @@
+program s610 : k : takes Ww : boolean returns nothing when case(895) /= 3 - 503 : pop 72; when case 5 : chillax end end otherwise : input K370 end; while - 2 - 26400 < 89 : pop end end a4 : takes U, X5 : integer array returns boolean t62 : boolean array; chillax end main : chillax end

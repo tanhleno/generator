@@ -1,0 +1,1 @@
+program sa : iX : takes j_, i : integer; y : boolean; bb : integer; jd2 : integer; U2D0, l : boolean array returns integer J, J : integer; K, U : boolean; chillax end main : q : integer array; chillax end

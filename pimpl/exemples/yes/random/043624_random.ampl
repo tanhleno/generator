@@ -1,0 +1,1 @@
+program x71aa : a2qaa : takes w5 : boolean array returns nothing chillax end XI : takes jjF0 : integer; w7 : integer returns boolean array when case - 61 - 8 : when case 4 : chillax end end case 192 = 2 : input e8 end case 43 : pop end case 0 : chillax end; pop end main : output not(0) . (88900) + 4 - 68 end

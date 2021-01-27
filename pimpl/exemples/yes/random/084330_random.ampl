@@ -1,0 +1,1 @@
+program C : main : _z : integer; yz : integer; DH : integer array; F : boolean; Y, ob : integer; pop not C3 / true and 3 + 35 /= - true; output ""; input W93[1 - 096]; let GL0a[- 95] = 25800 = 0470 end

@@ -1,0 +1,1 @@
+program s : C : takes t : integer array returns nothing E7, Z, SB : boolean; l, q, L3, cW : integer array; chillax end Zl : takes g3G : boolean returns integer array chillax end p0 : takes u5, V3x, n, AzH : boolean array returns integer array input I end main : chillax end

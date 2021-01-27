@@ -1,0 +1,1 @@
+program ug9a : i8 : takes e, Q : integer array returns integer when case - (9) and 260 >= 9 - 8 : chillax end case 5 = 759 : chillax end otherwise : pop end end main : ux, Y : integer array; nLM0a : boolean; V, P9, x : boolean; s0, E4d, V, _ : integer array; chillax end

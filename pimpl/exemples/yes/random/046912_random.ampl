@@ -1,0 +1,1 @@
+program Vlx0a : GG : takes A2k : boolean returns integer chillax end a8 : takes k, E : integer array returns nothing chillax end iW : takes M, l : integer array returns integer I, _6 : boolean array; while 431 = 4 : chillax end; output 15300 . "" end Z : takes K : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program gbw : ik : takes L, R2 : integer; V : integer; q4, l, y7, d : boolean; L, s : boolean array; Q : boolean array; o, jc, e : boolean array; V, a82 : boolean; u : boolean returns boolean array W95 : boolean array; Y : integer; pop end main : chillax end

@@ -1,0 +1,1 @@
+program p : main : m2, m, C : integer array; when case - (27 = 5) * not C * true < - not 9 : do C(- 59 - 917, 61 = 771) end case g8G[83] : do S(53500 = 040); when case 1 : chillax end case 9 : chillax end otherwise : chillax end end otherwise : pop end; input k9[- not 42 or DQ - 0 - 8]; output "&5" end

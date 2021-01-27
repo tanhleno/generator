@@ -1,0 +1,1 @@
+program B : main : while(66 = 7) or not 0 > - 5 + false + 6070 : do Nx7(49 < 56, 98400) end; while - 583 > (3) and 61900 : do L6(0, 0540, 31) end; output 0 - 057 < 2; while 47 > 2 : input XFI end; pop 9 end

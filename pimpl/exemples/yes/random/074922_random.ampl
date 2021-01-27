@@ -1,0 +1,1 @@
+program NS : main : v, U : boolean array; f4, fz : integer array; E, c, l7, fo : integer; let o = array 71 / 6; when case - 7 - 12 and 4 or 50100 : chillax end otherwise : chillax end; while - not 276 > 46 - 3 : while 70 : chillax end end end

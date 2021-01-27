@@ -1,0 +1,1 @@
+program He : main : when case 6 or false : chillax end case - false and L : pop end case 4 and 17 or 8 >= 0640 - 8 : chillax end case 3 : chillax end case 233 : chillax end otherwise : chillax end end

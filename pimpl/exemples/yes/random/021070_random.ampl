@@ -1,0 +1,1 @@
+program m : C : takes q, j : boolean array returns boolean e, A, b, W, q_f : integer; yIo, F : integer; let h1_a[- Q + 1 - 3] = array - true + 0 - 2 end main : let e8 = (28) > true and 9; output "7:"; do v(- false and 4, - 86, 2240, 8, 9); output "\"Taa" end

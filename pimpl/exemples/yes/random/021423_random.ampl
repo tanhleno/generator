@@ -1,0 +1,1 @@
+program w : np : takes Z, U : boolean array returns integer array vt : boolean array; input U; while 3 - 1370 : input T; pop; pop end end OY4a : takes t2 : boolean array; Q : boolean array returns nothing p, D : boolean array; input C6[- 6 - 3] end main : chillax end

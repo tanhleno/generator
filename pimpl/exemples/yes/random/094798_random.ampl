@@ -1,0 +1,1 @@
+program N : main : pop; while - (7) and(38) and 13 - t or 2 = (61) and 4 or 2 - 2 : pop 6 end; when case not 6 or 1 - 1 : while 02 : chillax end end case 7 - 63 > 1 : chillax end case 16 = 91 : pop; pop end case 7710 : pop end case 242 : chillax end end

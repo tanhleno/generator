@@ -1,0 +1,1 @@
+program P : h : takes UL80 : integer; R9 : integer; bE3, o01, I0Naa, p : boolean array returns nothing chillax end Fi : takes zl : integer; z, ja7aa : boolean array returns nothing chillax end main : D3 : integer array; while - false rem 650 : output 966 = 74; while 8 : chillax end end; let Z = array - false / (12) and 26600; let SH = 3 - 6 end

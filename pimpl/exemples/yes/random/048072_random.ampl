@@ -1,0 +1,1 @@
+program zp : i : takes e : boolean returns nothing bh4, _, g : integer array; let N = - 50 - 42300 >= 55 end c : takes MF5 : integer array; r67, i52aa : boolean; l, PDnaa : integer; q : boolean array; A : integer array; RK4, uH4aa : boolean; s : boolean returns nothing P5 : boolean array; pop 21 = 63; while 4 = 5 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program eoX0a : n : takes D : boolean returns integer input Y24; when case - 6 < 4 : let eNz = 4; let l = 86900 end case 97500 : chillax end case 7 : pop end case 08 : chillax end end main : input _8[w(56)]; while - 2 > c5b : do V(784); do c(34); when case 5 : chillax end; do s(2); pop end; when case z - 97 - 249 : pop 9 end end

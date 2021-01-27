@@ -1,0 +1,1 @@
+program x : E : takes Z0 : integer; W : integer array returns integer ad, u9V0a, T1 : integer array; U, F : integer; Tt8aa : boolean; chillax end main : r : boolean; let u_1[- PUC0a[15200] - false and 6 and 6] = array l(57) / cf(6); while false <= - 4 or 9 - 89 : chillax end end

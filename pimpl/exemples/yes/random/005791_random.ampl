@@ -1,0 +1,1 @@
+program s5 : H050a : takes T, z, a, b : boolean returns boolean array chillax end f : takes g8 : boolean array returns nothing input Z[- 08700]; let G = 7; let WGKa[7] = array 195 end u37 : takes m : boolean returns integer array do Y6(19700) end main : w : integer array; chillax end

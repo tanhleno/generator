@@ -1,0 +1,1 @@
+program NxO : M : takes Sb, e, k, w11aa : boolean; A, U, u2Daa : integer; k2o, G : integer array; f, huca, V, w, I : integer array returns integer chillax end p : takes B : boolean array; tI, nt : boolean array returns nothing chillax end main : Y : boolean array; u, w7T, Se7 : boolean; chillax end

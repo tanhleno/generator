@@ -1,0 +1,1 @@
+program YYOa : Q8 : takes Ad7 : integer; I, Z : boolean; H : boolean returns integer P : boolean; MQ : integer array; chillax end R : takes l, z, Hb8 : boolean returns integer array U, E : boolean array; let O = array 2; pop 32300; input R2[0] end G : takes P : integer returns nothing chillax end main : a2 : integer; do v(true + false, - false) end

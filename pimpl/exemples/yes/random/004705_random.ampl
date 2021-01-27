@@ -1,0 +1,1 @@
+program b : K : takes L, lu, x, z6 : boolean; z37 : integer returns nothing r : integer; while 99 or 46 : chillax end; output 5 . "7Maa" . "\"e0a" . "\\" end main : e, z : integer array; oB : boolean array; A, X, z : integer array; a, r4ja, v : boolean; chillax end

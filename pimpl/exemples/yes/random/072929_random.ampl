@@ -1,0 +1,1 @@
+program A : main : o3, ocX, E : integer array; wyw : boolean array; when case - X[7] - not(5) rem pPT0a : chillax end case true /= - true and 7 + 5 - 90 : chillax end case cK and 6 < 0 - 807 : chillax end; do g(462 / not 3 and 5, - d - 0 - 3 /= 6, - 55, 6 = 90, 83) end

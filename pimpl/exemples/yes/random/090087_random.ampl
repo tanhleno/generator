@@ -1,0 +1,1 @@
+program r : main : let A = array false; while true * o99aa and 08100 : when case 9 : chillax end otherwise : pop end; when case 12 : pop end case 80 : chillax end otherwise : chillax end; while 89500 : chillax end end end

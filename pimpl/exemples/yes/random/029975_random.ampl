@@ -1,0 +1,1 @@
+program U : kT : takes Q, mr00 : integer array returns integer chillax end main : when case true : pop 8; when case 56200 : chillax end; let X[986] = 1; do Vg(4) end case - (84) or ph and 5 : when case 25 : while 46 : chillax end; pop end case 0 : chillax end end case false or 6590 - 09 : do by(86) end otherwise : chillax end end

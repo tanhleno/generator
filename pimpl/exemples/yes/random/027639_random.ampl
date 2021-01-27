@@ -1,0 +1,1 @@
+program Y3 : N8K0a : takes RHO, k5 : integer array; N, P8d0a : boolean array; G, K, G : boolean; Kpt0a, G15 : integer returns boolean array chillax end Q : takes K, s, n : integer; b18, a : integer; p7Ea : boolean returns nothing chillax end main : chillax end

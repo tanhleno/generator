@@ -1,0 +1,1 @@
+program A3 : XN : takes Ku : boolean array returns nothing l, JR, Y : integer; X, HE7aa, i : integer; chillax end F8 : takes TcEa, F0, I : boolean; d3 : boolean array; af : boolean returns integer array do N2(64) end main : chillax end

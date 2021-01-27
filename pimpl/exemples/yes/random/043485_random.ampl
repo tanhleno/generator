@@ -1,0 +1,1 @@
+program P : p : takes f800a : boolean array returns nothing chillax end F : takes q, PR : boolean array returns integer chillax end main : f : boolean; Twla, q : integer; when case _w : chillax end case true + true - 3 - 6 /= (06000) and 41 : chillax end otherwise : pop 0180 end end

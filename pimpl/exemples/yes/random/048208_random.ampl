@@ -1,0 +1,1 @@
+program kG : y5 : takes a77 : boolean returns nothing LX9, WU : integer; chillax end main : R74, D, I : boolean; I9 : boolean array; P4ea, t : integer array; z, Y, C : integer array; when case(74 = 8) and Mq[8] and 0 - true / 1 and 9 - not 3 - 8 = true * not 9260 and 8 : chillax end case - 4 and(8480) and 93800 : chillax end otherwise : chillax end end

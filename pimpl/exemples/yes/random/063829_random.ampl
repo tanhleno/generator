@@ -1,0 +1,1 @@
+program s26 : eB : takes S : integer returns nothing chillax end Y7 : takes u : integer array returns boolean array when case 45 - 1 : chillax end otherwise : when case 66200 : chillax end end end main : T : boolean; s, Z : integer array; do Rr(- not G90(4) and true * 0 and 52 or 3 or(3) and 18 - 78 - 55300, (1) /= false and 11) end

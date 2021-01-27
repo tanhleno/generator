@@ -1,0 +1,1 @@
+program R : main : F95, a : integer; v : integer array; g : boolean array; R, T : integer; cWK0a, o4 : boolean array; do UC(not XI90a(1) + not false > (5940) - (4) and 8410 + 64, 45 /= - false, s and 2 <= 38700 - 417) end

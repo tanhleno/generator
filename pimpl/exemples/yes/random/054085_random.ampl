@@ -1,0 +1,1 @@
+program N : v5p : takes P : integer array; F, O1l, y : boolean returns integer K2J, k, t, T1 : integer; Wqf : integer array; nA : boolean array; output "" end d : takes L1, co : boolean array returns integer array do mF(- 5 = 5, 9) end main : output "L3"; output - 9 and 6 = 2; while false : chillax end end

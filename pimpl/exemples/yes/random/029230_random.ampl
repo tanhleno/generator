@@ -1,0 +1,1 @@
+program Ia : X73aa : takes s, D0 : integer array returns boolean array chillax end s6 : takes Y0 : integer array returns boolean array do WN(4 - 2590 >= 02, 0 = 7, 3) end i : takes Z : integer array; N : boolean array; s5 : integer array; KCE0 : boolean; hu4, j : boolean; rMp : boolean; VGraa : boolean returns integer pop end main : Y, o, O, M : boolean; chillax end

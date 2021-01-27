@@ -1,0 +1,1 @@
+program L : A : takes XWa0, D : boolean; Bfu : boolean array returns integer array g, u : boolean; t : integer; output 9 - 8080 <= 11 . 0 = 574; while - 695 - 56 = 66 : chillax end; while 9 = 6 : while 338 : chillax end; pop end end main : chillax end

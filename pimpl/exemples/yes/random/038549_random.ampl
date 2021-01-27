@@ -1,0 +1,1 @@
+program A : q : takes u_G : boolean array; yC, R : boolean; gJ : boolean returns nothing input eTI end a : takes Q, K51 : boolean returns integer S7 : boolean; zE : boolean array; pop 3 = 1190; do xG90(15, 7) end main : s2, N : boolean; chillax end

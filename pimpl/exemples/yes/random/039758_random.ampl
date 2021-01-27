@@ -1,0 +1,1 @@
+program i : q : takes T : boolean array; u01a : boolean array; J, _r9, E, P : boolean returns nothing input E[- true] end k7Z0 : takes x, h : boolean array; m : boolean array; u8_0 : integer array returns boolean array while 92 - 1 : chillax end end main : l15aa, v8v, R1W, Ol : integer; chillax end

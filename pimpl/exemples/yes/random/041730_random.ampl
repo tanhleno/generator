@@ -1,0 +1,1 @@
+program a : y : takes M63 : boolean array returns boolean array K : boolean array; input _L end f : takes _05 : integer returns integer array input G[- 6] end main : J6h : boolean array; when case(7 = 7) rem(16) or 2570 and 5 and 1 > false * false or(09) and 65 - 0 : chillax end otherwise : pop end end

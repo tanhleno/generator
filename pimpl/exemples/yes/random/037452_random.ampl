@@ -1,0 +1,1 @@
+program s : j : takes K1 : boolean array; l, B, D, o4, F3G, _6, Z : boolean array returns integer array _1r : boolean; output "N\\0" end main : kFPaa, N : boolean; YA, Z, jd, _o, j200a : boolean; output ""; do I(1 - (9) <= true and 7 or 9); do b(- 00 and 74 - 4 <= - 8 - 489) end

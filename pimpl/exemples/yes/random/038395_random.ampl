@@ -1,0 +1,1 @@
+program O : T0U0a : takes s : boolean array; Lin0, Vh9aa, H6 : integer returns integer array chillax end OI : takes P, Y, K : integer array returns integer array y1 : boolean array; while 54 : chillax end end main : do Fx(not(03) / true / 8); output "0\"" . 0 - 0 <= 7 . ""; output "?" end

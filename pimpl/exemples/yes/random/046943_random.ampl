@@ -1,0 +1,1 @@
+program r : v : takes l03 : boolean returns integer chillax end main : do H4I(- 4 / (0) / not 22 and 6210 + false - not 56 - 2 - 3); output 23600 . 792 - 3810 = 63 . 45; let r[- not 4 and 71 - 9 - 9] = - 744 end

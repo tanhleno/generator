@@ -1,0 +1,1 @@
+program I : E3_0 : takes x : boolean array returns integer array P, W9, H47, E9c : boolean; fE, s1 : boolean; P, W, K : integer; G, d : boolean; i7 : boolean; chillax end main : h7Z : integer array; input H0; output "\t(" . - 73 <= 2680 . "\\}" . "|]" end

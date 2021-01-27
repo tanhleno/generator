@@ -1,0 +1,1 @@
+program T : G : takes c : integer array returns nothing _, z : boolean array; chillax end main : when case - true = 529 and k - (18500) : output "*" . "" . 9 end case - 0990 rem false and 9 or q1 - 5 - 172 : chillax end; output not 2 or 51 - 2 >= 4 - 950 end

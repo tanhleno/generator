@@ -1,0 +1,1 @@
+program d0 : R : takes Y3, h, F92 : integer; m76a, M4, Uu3aa, y3s, M : integer array returns boolean o, BrF, X, K7, D5 : integer; G, V5 : boolean array; D1 : boolean array; output - 53800 - 2 > 9 . 35 end qe : takes z, R, C : boolean array returns integer input YUM end main : do f(false / not not 8 + (8940) - 63 and 4); output 8 and 25 end

@@ -1,0 +1,1 @@
+program F0 : z9 : takes n, N : integer returns integer array let aX[- true and 7 or 2] = 8 < 860 end main : wM10a : integer array; while not C(3) : chillax end; do a(- false / false - false - 183 - 1 < - false and 4); let D = array u and 7; let P5[9 - 00400] = 95 end

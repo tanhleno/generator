@@ -1,0 +1,1 @@
+program r3i : qA : takes d : integer returns integer array output "@"; output "\\\t" . 9 end main : input y[f[60]]; do AD(- not(44100) * 17300 = true and 5, 659, - 98 - 56 = 210, 0 = 8850); pop 16 < 34 end

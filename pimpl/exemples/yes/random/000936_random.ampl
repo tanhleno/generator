@@ -1,0 +1,1 @@
+program o : V95aa : takes w, L810, p69, w, LZ20a, Y, Q : integer array returns boolean h : integer array; chillax end D8 : takes HZ30a, s : boolean; yu : integer array returns integer Ke90 : integer; h, B, e33aa : integer; t : boolean; U2 : boolean; chillax end main : U, w : integer array; pop; do AR10(- r3(1) and e and 59) end

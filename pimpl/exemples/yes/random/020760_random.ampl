@@ -1,0 +1,1 @@
+program j : W : takes s380, q : boolean array; Me : integer returns nothing output ":<\"a"; while 8 - 7 = 77 : pop end end LR : takes PYqaa : integer array; X, K : boolean array returns integer array input sN4a[4360 - 244]; input O[6]; input t4 end main : d1 : integer; do r(- 184 rem J7[6] * Vw and 5 - true - not 238 + 1); while(4) * true : chillax end end

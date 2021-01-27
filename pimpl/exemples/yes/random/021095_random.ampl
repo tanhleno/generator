@@ -1,0 +1,1 @@
+program k9 : J1 : takes Gp, m9 : boolean array returns boolean Q1I, fX7, D : integer; h, n650a, I5Daa : integer; chillax end main : N6, jt60, I : integer; KZ6, IJk, b, G8 : integer; while 138 >= (284) * true : while - 1 >= 8 : chillax end end; input R6i0; while - 52 and 9 < - 8 : chillax end; when case - 20 > 9 : output ""; output "8"; pop end otherwise : chillax end end

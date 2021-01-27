@@ -1,0 +1,1 @@
+program F : X : takes Q : integer array returns nothing chillax end main : let h[not 7 + Co30[12] * false and 8 or 3 and 433] = array - 53 * (8) + 564 - true or 6 - 17; pop; while dm30 : chillax end; while 1 - 25 : do B60(680); input o end; do l(26 = 2); when case 6 : pop end otherwise : chillax end end

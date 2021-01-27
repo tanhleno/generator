@@ -1,0 +1,1 @@
+program Sf : h : takes B : boolean; eZ, f, m, F : boolean; U9, Q8 : integer returns nothing Km40a, jq, O : integer array; x2, V : integer; C, j, otR : integer; wn, g : boolean; chillax end main : pop; let Y = array - not not 75 or XW or 39; input BV end

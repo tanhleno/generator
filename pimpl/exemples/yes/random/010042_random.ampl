@@ -1,0 +1,1 @@
+program k : nUh0 : takes s, kZ, s : boolean array; k : boolean array; zP5, oE, E, L2 : boolean returns nothing d : boolean; chillax end rT : takes j3q, fV30, E1 : integer returns nothing chillax end main : pop - (762) * 291 and 7 end

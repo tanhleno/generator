@@ -1,0 +1,1 @@
+program pW : m : takes T : boolean; a, K6P : integer returns nothing eW1, E8N0, v, b9, b9 : boolean array; p, oD70, Ta : boolean; while - 1 and 9 - 63200 - 7 : chillax end; let B = array 7; pop; do H27a(3); when case 9 : chillax end end main : input P end

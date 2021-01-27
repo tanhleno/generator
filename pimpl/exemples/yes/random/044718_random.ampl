@@ -1,0 +1,1 @@
+program r : A3 : takes mL : boolean array returns nothing e : integer; x, S9, Z : integer array; L, I1A : integer array; u13 : boolean; e : boolean; chillax end Yo : takes D7k, C0 : boolean; X, Dq : integer returns boolean Z6, j : boolean array; output "" . "" . "" . "i"; let cC[25] = array 14900 end main : ai : boolean array; chillax end

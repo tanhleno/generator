@@ -1,0 +1,1 @@
+program p3R : main : when case true and true + 77 + true > 7 + true : pop 552 = 83400 end case R6(600) < not 6 : chillax end case - (5) - 0 >= - 03200 : chillax end case - 4 - 7 : when case 00 : chillax end end end

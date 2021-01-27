@@ -1,0 +1,1 @@
+program l0taa : hC3 : takes LP0, O2F, Zb, w, n, s0 : integer array returns boolean when case - not 2 and 133 or 9 : input y[427] end otherwise : while 29900 : chillax end end end main : F830, I, f : boolean array; F : integer; chillax end

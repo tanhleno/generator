@@ -1,0 +1,1 @@
+program bB90a : main : C7U0a : boolean array; Y71 : integer; while - 883 rem not false + 7 or false and 3 < - (57) : output "b" . "2" end; while - (6) - 7990 and 1 - 30500 - 478 <= - X and 7 + 5 - 4 : chillax end; while false and 6 - 9610 : let V0[2] = 59; output "8L0a" end; do d(1 /= 4750, 5 = 0) end

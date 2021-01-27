@@ -1,0 +1,1 @@
+program t : main : An3, LK, t2, K, g : boolean; H : boolean; j : boolean; output 5 rem T7 and 699 or true; when case - false or(1) <= - true : do F51(57, 15, 56); when case 2 : pop end end; let Z[false] = - 89; let X0B[518] = 5; do v8(5, 097, 76) end

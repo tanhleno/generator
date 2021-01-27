@@ -1,0 +1,1 @@
+program g : R : takes P, Yw, Q3, au9, Y5P0a, W : integer; r9 : integer; Q, r, M, m : integer returns integer chillax end main : _8V, JH : integer array; IJ30a : integer; while 07 and not 44 and 182 - not true / true and 4 : do B61(7) end; input x54[false and(5890) and 50] end

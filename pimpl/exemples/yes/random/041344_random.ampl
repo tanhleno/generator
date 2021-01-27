@@ -1,0 +1,1 @@
+program U : mbI0a : takes m5j0 : boolean array; w : integer returns nothing do nY6(M + 8 - 148, 748 = 15); let N4U0a[- 210 - 0] = array 2 - 0 end r9 : takes M, y, i4S : integer array returns boolean array chillax end main : pop false rem false and 1 <= - false and 2; let s5L = 0 or 6 <= 75 - 8 end

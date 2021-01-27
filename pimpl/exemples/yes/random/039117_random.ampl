@@ -1,0 +1,1 @@
+program jP : c : takes F0 : boolean array; z, Fr9 : integer array; p_, f, F : integer returns boolean when case false : chillax end end l : takes Oq : integer; s, xg, dR : boolean array returns integer output 340 = 1; output "_70" end main : fG, x340a, s7Ca : integer array; Z3H0 : integer; Rmya, F, xT2 : boolean array; chillax end

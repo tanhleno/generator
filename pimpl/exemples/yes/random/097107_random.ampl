@@ -1,0 +1,1 @@
+program Y : main : when case not(7) : chillax end case true / not 31 /= (9) : when case 3 : chillax end case 121 : pop end otherwise : pop end; while 598 : chillax end; output ""; output "7" end case(218) and 4 or 21 : pop 0; let W = 8; do B(3); pop end; pop - o; when case - not 01 + 9 - 93 : chillax end otherwise : chillax end; let x1 = array 8 end

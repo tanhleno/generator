@@ -1,0 +1,1 @@
+program h : k47 : takes U6g : boolean array; E, _, IE, z2a, a : integer array; xM : integer array returns nothing wl, QU2a : integer; chillax end iu8 : takes eI : integer; T340a, RmS, e27 : integer returns nothing A9H, Qq : boolean array; u : boolean array; chillax end main : input Wab end

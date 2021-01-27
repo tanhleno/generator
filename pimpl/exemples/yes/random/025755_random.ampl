@@ -1,0 +1,1 @@
+program R1 : B50aa : takes sZ9, Y : integer; k, R25 : integer; ec : integer array returns boolean array I : integer; do q6(04300, 6 - 94 >= 6); pop 0860 = 68; do u(8); let y[6] = array 1; do y(807) end Y : takes r3F, o : boolean array returns integer array output 28 = 952 end main : chillax end

@@ -1,0 +1,1 @@
+program Fe : main : EEc0, z : integer; let s3[true and(00)] = false > - K; when case not aC or(7) - 2 - 219 < - 32600 and 272 : chillax end case L and 377 > 68 - 95 : chillax end case - 6 - 9 <= 3 : pop; input qI end case 31 = 2 : chillax end case 1 : pop end otherwise : chillax end; do c(- false and 28); pop end

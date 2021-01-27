@@ -1,0 +1,1 @@
+program e : CB : takes U, T, m, G, u8, y, z, C : integer; c : boolean array returns boolean array chillax end z : takes T6n0a : boolean; qq7, U1, G8C : integer; H : boolean; p2w, Z2 : boolean array returns nothing let xM2aa = 3320 = 334; input O8[075] end h : takes us : integer array returns integer array chillax end main : ga5 : integer; chillax end

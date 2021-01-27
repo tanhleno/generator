@@ -1,0 +1,1 @@
+program t : main : VrF, eG5, kc : boolean array; er, f : boolean; input R; input N[- not not 73]; do o(true and 197); do j(- 5); when case 2 = 321 : chillax end otherwise : chillax end; do PIp0(319, 27); do W(2); input KeR end

@@ -1,0 +1,1 @@
+program X : u : takes I, ST, Y, s45aa : integer array; aad, p, F5y0, v1 : integer array; s, ya9, e, T : integer returns integer array M : integer array; n5 : integer; R, xC : integer; w6, O8 : boolean; i : boolean; chillax end main : z300a : integer array; J, l93a : integer array; kW : boolean; let d3 = - not true or not 55900 end

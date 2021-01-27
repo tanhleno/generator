@@ -1,0 +1,1 @@
+program u4ra : I : takes O, x, o, X3 : integer returns integer array chillax end main : R8 : integer; when case true and not 81800 / false and 6 > - true + true : chillax end case - not OG rem 24 and 42 - not 4 : chillax end case - (1) or 3 - 24100 : output 1; while 44400 : chillax end end case 9 /= 385 : input A end otherwise : chillax end end

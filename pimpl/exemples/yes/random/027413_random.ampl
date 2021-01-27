@@ -1,0 +1,1 @@
+program Z : L : takes Q, d : integer array; n, k, Z : boolean returns integer chillax end q : takes S, d, U, E : integer array returns nothing VY, Uh : integer array; S : boolean; v7, Q : boolean; o : boolean; X : boolean; chillax end main : when case false < BS : let i = array 3 - 03 end otherwise : output 88300 end; input L[- true / 5] end

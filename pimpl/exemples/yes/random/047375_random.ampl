@@ -1,0 +1,1 @@
+program L : Q : takes uO7a : boolean returns nothing chillax end M : takes F, C, s, F96, U1 : boolean returns nothing chillax end _4 : takes U5D0 : integer returns nothing h : boolean array; chillax end main : when case D8[411] and 22 rem true : chillax end end

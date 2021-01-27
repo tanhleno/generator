@@ -1,0 +1,1 @@
+program I : H3 : takes H, a47aa : boolean returns boolean array z, n : boolean; input p2; when case 96800 - 84100 > 56 : while 3 : chillax end; output ""; pop end otherwise : chillax end; do g27(74) end main : chillax end

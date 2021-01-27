@@ -1,0 +1,1 @@
+program t : xA : takes f : boolean array; g4, ou : integer; z : boolean; m : integer array returns boolean array when case - v > - 2 - 37900 : chillax end case - 4320 - 2 : chillax end case 67 : chillax end otherwise : chillax end end main : chillax end

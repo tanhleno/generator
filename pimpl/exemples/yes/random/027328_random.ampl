@@ -1,0 +1,1 @@
+program c : XWF : takes Q, Qbja : integer array; fK, E, z : boolean; O : integer array returns integer array let Z[false and 2 - 7] = 21; output "8{a" . "1" . "" . "" end h5j : takes f : integer returns integer r, h7 : integer array; chillax end main : mX : integer; Y, fMP, m : boolean array; chillax end

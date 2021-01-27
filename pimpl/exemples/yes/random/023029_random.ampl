@@ -1,0 +1,1 @@
+program hJ : eT5 : takes O21, pq10 : boolean returns boolean array V : integer array; chillax end W5Laa : takes U : integer; e2v, iq : boolean returns nothing v2 : integer; input HN00[88400]; while 118 = 0 : pop; pop end end G6g : takes A25, k5j0, A, A : boolean returns boolean array output "7" end main : input WTu end

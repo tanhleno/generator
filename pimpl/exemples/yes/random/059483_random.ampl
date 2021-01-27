@@ -1,0 +1,1 @@
+program QZ30a : E3 : takes K : integer array returns integer Is0 : integer array; u : integer; input i; let u = 7030; do NDQ0a(68, 2, 06); pop; input _ end S350 : takes i2, O : integer array; K8F, I7 : integer array returns nothing q, qW_a : integer array; chillax end main : chillax end

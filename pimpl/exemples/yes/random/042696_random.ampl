@@ -1,0 +1,1 @@
+program _0 : b110 : takes C89a : boolean array returns integer array T : boolean array; chillax end s : takes M7 : boolean array; x, GC : boolean returns boolean array F3, x040 : boolean array; fk8, u : integer array; fn, K : boolean; pop; let _[7] = array 3; pop end main : l, E, b : integer array; n : integer; h, J : boolean; chillax end

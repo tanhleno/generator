@@ -1,0 +1,1 @@
+program l : main : when case - 6 / u[81] and 4 and 2 /= U[785] rem(57) and 759 - t and 44 or 609 : do J54(- 17000 >= 9); output 497 . "_6!a" . "^"; while 9800 : chillax end; let S = 47; let EA90a = 59; pop end end

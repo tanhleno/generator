@@ -1,0 +1,1 @@
+program m : d : takes x : integer array returns nothing while - 84000 > 260 - 73 : chillax end end main : output(530) - false and 6 + 194; while 8 + 33 and 3 - 473 : chillax end; while - (2) + 4 : chillax end end

@@ -1,0 +1,1 @@
+program Dv2 : A0 : takes d4 : integer returns boolean l, APY, p64 : boolean array; e, t740a : integer array; Pb, K : integer array; input E end y : takes a4, M93aa : boolean array; W0 : integer array; L : integer; y4X : integer array returns boolean array let G = array - 47 - 8; while 3 = 6 : let kg = 36900; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program E : V4 : takes K : boolean array returns boolean array when case A and 6 or 0 - 341 : chillax end end main : when case - (8) or not not 3 + not 2 and 436 : chillax end case - false - (91900) and 6 = - 6 and 5 + 8 - 5 : let g3[005] = 851 end case - false and 809 /= 9 - 5 : chillax end case - 057 - 475 <= 6 : input O; let G7 = 47 end case 7970 = 4 : chillax end end

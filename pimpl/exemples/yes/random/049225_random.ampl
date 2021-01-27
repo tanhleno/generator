@@ -1,0 +1,1 @@
+program Q : T : takes S5 : boolean returns nothing while true and 4 - 8 - 8 : input e[4]; input p4 end; let vH = 86; when case 7 = 6 : while 3 : chillax end end otherwise : pop end; input ZH[7] end main : b, K, q, a4O, xY, e8, i3 : integer array; chillax end

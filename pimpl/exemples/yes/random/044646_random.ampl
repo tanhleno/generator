@@ -1,0 +1,1 @@
+program q : h410 : takes d : boolean array returns nothing h5 : boolean array; output 4 - 6 . 3 = 0; output 4 = 571 . "2\"" end umDaa : takes u : boolean array returns integer let k40[- 49] = array - 8 end main : r, X__0a : boolean; gS00a, y, Xc5 : boolean array; pop; output not 1 and 524 . "N" . "" end

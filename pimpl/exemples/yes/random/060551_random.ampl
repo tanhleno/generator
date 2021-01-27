@@ -1,0 +1,1 @@
+program X : o : takes K87 : integer array returns nothing v, Oj : boolean array; ZC : integer; D : boolean array; E : boolean; i : boolean; chillax end Qb5 : takes k : boolean array returns nothing pop end main : chillax end

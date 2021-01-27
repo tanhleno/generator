@@ -1,0 +1,1 @@
+program U : A8 : takes aB2, se, cz, O, m : boolean array returns boolean array chillax end E : takes v5taa : boolean array; R, cI8 : boolean array returns boolean array chillax end main : output "X>" end

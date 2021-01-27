@@ -1,0 +1,1 @@
+program H : b740a : takes O1 : integer; uLW, K59a, A : boolean returns nothing input VS7aa[- true and 20]; input V9[- 965] end UN_ : takes Ml, w4 : boolean array returns nothing U, j : boolean array; chillax end main : pop not c or(26400) and 1 end

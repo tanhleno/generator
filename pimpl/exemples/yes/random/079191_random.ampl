@@ -1,0 +1,1 @@
+program j : main : S : boolean; QS : boolean; Z460a, mr40 : boolean; p43a, l : boolean array; bC7 : boolean array; while true : while 45 > 4 : pop end end; let h[- s[7] and not 7 and 7 or 1 - 6] = (8) end

@@ -1,0 +1,1 @@
+program k97 : V : takes fL, A6, hJn0, v9ta, P : boolean returns integer array J7, CW, D, i, LcEaa : boolean array; Pc, y, X8 : integer array; E : boolean array; pop 4 - 08 end main : T : integer; q, WBU, _, YRo, T14 : integer; i8 : integer; chillax end

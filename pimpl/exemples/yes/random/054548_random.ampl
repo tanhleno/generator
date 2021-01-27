@@ -1,0 +1,1 @@
+program P : w15 : takes b : integer array; nXe0, _ : boolean array; B, Rq : integer; p0v : integer; j3 : integer array; N7s : integer; L, L : boolean returns nothing Q : integer array; chillax end H : takes Hz9, MQ, fit : boolean; Jna0, H : integer returns integer array aNw, p, WY : boolean array; chillax end main : k25, Y9I, r2 : integer; chillax end

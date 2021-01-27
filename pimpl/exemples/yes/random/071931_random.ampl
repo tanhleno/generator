@@ -1,0 +1,1 @@
+program T5 : main : Q66, oK, t : boolean array; while B5 and false and a and 6 + (3) : while 0 : chillax end; input d890[15]; let i = array 4; do z(5) end; output "\n7a"; let q[- 3130 - 33] = - 6 end

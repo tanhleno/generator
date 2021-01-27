@@ -1,0 +1,1 @@
+program hG : C : takes R : integer array returns nothing chillax end S7 : takes l, yc8 : boolean; aa9 : boolean array returns nothing when case 92 - 235 : chillax end case 55 = 0 : chillax end case 75 : pop end end main : C7 : boolean array; c1x : integer array; do a140a(true = - 8 / 8, k0, not 63 and 19 + 496 - 5) end

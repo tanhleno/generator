@@ -1,0 +1,1 @@
+program OY50a : W : takes IW9a, Ks60a, M4 : boolean returns boolean array output "g" . 2; pop 1 = 88 end M : takes E : boolean array returns integer chillax end main : cK60a : boolean array; chillax end

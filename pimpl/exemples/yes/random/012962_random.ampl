@@ -1,0 +1,1 @@
+program e5 : B4 : takes C, frB, Z : integer; b, s : integer; R : integer returns nothing u, Y : boolean; pop - 1 - 9 end main : input n; let u4[- false] = - (512) + 6; input WRM[h and 3]; pop; let t7q = array 4 end

@@ -1,0 +1,1 @@
+program D : W3 : takes l, QX, r : integer; n690a : boolean; a : integer array; z : integer array returns nothing input i; do kiG(- 1); when case 1 = 908 : chillax end otherwise : pop end; do h(7, 64); let G = 54; let M = 6; pop end main : input A[g7 - (1) and not 2 + true and 720]; input p; do D(3 and 32 + 6) end

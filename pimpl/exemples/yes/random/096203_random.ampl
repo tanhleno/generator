@@ -1,0 +1,1 @@
+program GY : main : when case - not false rem false or not not 3 > - 6350 and 4 and 92000 + (21) and 2 or 3 : chillax end case - not A rem v + not 2 and 16 or 063 >= - 786 or 32 - 7340 : chillax end case - false and 08 : let D = array 207 end otherwise : input h48aa; when case 85 : chillax end otherwise : chillax end end end

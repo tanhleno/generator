@@ -1,0 +1,1 @@
+program e : main : when case - 39 + (5) = - B(3) * true + not 614 and 1 : input z[2] end case not false + (6) and 257 <= - l or 2 - 13 : chillax end case 98 = - 0 - 0 : let G9wa[69] = array 72; let p = 6; while 255 : chillax end end case 204 < 7 : chillax end; let H = array 6 end

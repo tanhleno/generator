@@ -1,0 +1,1 @@
+program hj60 : zqfaa : takes LG : integer array; pbP, i, V, M, z0, q, yyc0 : integer array; n, W7, y : integer returns nothing when case - true + 134 : chillax end case 02700 - 508 = 2 : chillax end otherwise : output "2+" end end main : r, v, y : boolean; nmu0a, d, i8Q0 : integer array; chillax end

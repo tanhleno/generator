@@ -1,0 +1,1 @@
+program Rn1 : o8b : takes T : boolean array returns nothing when case 127 and 22200 : chillax end case 9 - 4 /= 13 : chillax end case 3 : chillax end case 08 : pop end otherwise : while 76000 : chillax end; let w9 = 3; pop end end main : X : integer; Uf, v : boolean array; chillax end

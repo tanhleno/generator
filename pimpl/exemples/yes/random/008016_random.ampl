@@ -1,0 +1,1 @@
+program m : xZDa : takes e, pM50a, wo, Rm : integer returns boolean when case - 7 + 7 > 717 : output "g" . "\\40a"; when case 44400 : chillax end end otherwise : while 3 : chillax end end; do S(7 - 3 <= 1, 416, 29); let f[6] = array 5 end main : chillax end

@@ -1,0 +1,1 @@
+program m33a : q : takes F7J0 : integer array; o, m1M0a, Hl0aa : boolean array returns nothing chillax end main : output - false - 6 and 520 >= (6) and 88 + 3 - 23; while not false * true and 1 : pop; do y1(0); pop; pop; pop end; while - true and 25 /= - 09 - 2 : let M[33] = array 8 end end

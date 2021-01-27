@@ -1,0 +1,1 @@
+program X : main : y : integer; gL, U, t, Jrqaa, E : integer; when case - 465 > - not true : do _69(- 8 - 627 = 01, 3 = 57, 6, 03) end otherwise : when case 8 : let s4 = 60; pop end end; output r - 07 . "+" . 6 . 4; do A(7900 or 6) end

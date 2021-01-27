@@ -1,0 +1,1 @@
+program z4n : T_ : takes O9z : integer array; x, S, PX, Y : integer array; hv, Ai, F58a : integer array; j4t0a, t : integer returns nothing F : boolean; when case false : pop end case - 0 - 8 = 0 : chillax end otherwise : do S(2420) end end main : pop end

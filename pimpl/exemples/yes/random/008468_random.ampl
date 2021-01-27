@@ -1,0 +1,1 @@
+program Q : K : takes S, j2, s : boolean; aRba, tT, p, B1, k : integer; Tt4, L : boolean; M : integer returns integer array chillax end main : t : boolean; D, M2 : integer; vXc0 : integer; l : integer array; when case - true + not not 26 and true > - 2 : chillax end case O * not 90 and 1 : chillax end case - not 7 >= - 6040 : input T7W end case 62 <= 23 : input S; pop end end

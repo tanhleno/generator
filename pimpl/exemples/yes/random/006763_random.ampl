@@ -1,0 +1,1 @@
+program LF5 : Y : takes q, n, f, y : integer; d : integer array returns nothing V : boolean array; chillax end main : F, b : integer array; output - true /= - false and 370 or 94 - 4 . ""; pop - yx /= - 61900 - 51100 end

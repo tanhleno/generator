@@ -1,0 +1,1 @@
+program T6P : L2T0 : takes jN20, J, Z8, kh1, pA, o, b, B : integer; P : boolean returns boolean array Lz : boolean; L4H0a, qZ : integer; while - not 287 - 5 - 75500 <= 0 : do f_g(704); do ty90a(47800) end end main : Jn10 : boolean array; k, Utd, r : integer array; chillax end

@@ -1,0 +1,1 @@
+program s5 : c : takes Z : boolean; D2 : boolean; TbQ0a, R, I0, _ : integer array returns nothing output 01 - 5 > 85900 . 05 . 24 end Cx : takes DH, QJ2a : boolean returns boolean chillax end main : chillax end

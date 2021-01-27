@@ -1,0 +1,1 @@
+program x : yGf0a : takes s : integer; A, u11, U07 : boolean; Y3M0 : integer array returns boolean let h8[- false] = - 8 <= 4 end main : y, pDu, _y, tbq, Hp, L, W090 : integer; t410a : boolean array; when case n3 * false : chillax end case - (73) or false and 0 <= - (1) and 6 + 820 - 77 : input oq90a end case true and 19900 > 499 - 74 : chillax end; input x end

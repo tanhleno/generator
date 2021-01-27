@@ -1,0 +1,1 @@
+program PeC : b : takes H : integer array returns nothing chillax end R7 : takes A, k, N : boolean returns nothing chillax end i : takes sR : integer array returns integer chillax end f : takes U7K0a : boolean array returns integer array w6q, M : boolean; chillax end main : _ : integer; e_, l, v : integer; chillax end

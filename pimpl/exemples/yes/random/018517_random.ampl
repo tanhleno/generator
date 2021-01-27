@@ -1,0 +1,1 @@
+program V : R8n : takes Et30a, g7 : boolean; d0W0a : integer returns integer do n(- (7) and 4 or 1 - 8420 /= - 19100 - 5, - 2 = 33000, 437, 1); pop 1; do qSUaa(0 = 6, 7) end main : n, E : boolean array; wsr, L29, A, o3, f, H5 : boolean; pop(1) and not 354 and 5; do z0(false + false and 9, - _ > - 6) end

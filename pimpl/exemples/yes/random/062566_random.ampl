@@ -1,0 +1,1 @@
+program Z : i79 : takes bd : integer returns boolean V : integer array; E2, h : boolean array; when case(14) and 0 + 657 : input d[3]; output "" end case - 9430 >= 3310 : while 06100 : chillax end end case 72600 : chillax end case 75 : chillax end end main : chillax end

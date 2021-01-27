@@ -1,0 +1,1 @@
+program o4 : f : takes V : integer array returns boolean chillax end oW : takes u : integer array; E : integer array; D, e, R, P : integer; A : boolean; q9i, S : integer array returns nothing R580, K2, aItaa : integer array; chillax end main : Z, l, P37, p, p : boolean array; while - (485 = 3) * true /= - true + not 4 + 21 - 22 : chillax end end

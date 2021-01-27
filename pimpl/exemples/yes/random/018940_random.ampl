@@ -1,0 +1,1 @@
+program B : f7S : takes u, q : boolean array; AW, Y8, s : boolean array returns integer input c end M : takes e : boolean returns nothing output ""; output "@w0a"; while 9 : pop end end main : let P15aa = - false * RW1 and 41 end

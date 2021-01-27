@@ -1,0 +1,1 @@
+program t : main : output ""; when case - h[5890] and true : do o0(7 = 37700); do D18a(312, 7); when case 7 : chillax end end; when case - not 02700 - 0550 - 3 : chillax end; while 5 - 6 <= 77 : when case 8 : chillax end end; while 12800 = 6930 : do N(338); pop end; let e = 5; when case 9 : chillax end end

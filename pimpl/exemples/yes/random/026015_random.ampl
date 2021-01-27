@@ -1,0 +1,1 @@
+program Vd50a : n : takes L, w24 : integer; hu : boolean; U, V, D69a : integer returns integer m8, afS, q : boolean; while(4) or 914 : do f(73); do y(29) end end main : A, n : boolean; input q[v[9] / true - S6faa(3) rem true and 1 or false]; output "\t90" end

@@ -1,0 +1,1 @@
+program d2 : u : takes j, Eg30, hR20a, r0E0a : boolean array; EW : boolean array returns integer chillax end main : U8 : integer; when case false - Z7Y[4300] : chillax end case true / true + false and 205 >= not 76600 + 39 : chillax end case - (14) and 8 < 22 - 7 : chillax end otherwise : chillax end end

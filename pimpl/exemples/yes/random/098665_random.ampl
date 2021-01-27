@@ -1,0 +1,1 @@
+program t : main : while - not true and 4 rem c2 : chillax end; when case - false and not 9 and 188 : when case 5 = 2 : chillax end case 89700 : chillax end case 65 : chillax end; input P[6]; pop end end

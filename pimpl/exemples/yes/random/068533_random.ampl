@@ -1,0 +1,1 @@
+program H8Ya : main : O, b, P1P0a, Q, d, ou : integer; input U; when case 5 or QWx and 8 or 61 : output 1780 . 01600; while 10 : pop end; pop end case pk : chillax end case 670 - 0610 : when case 6 : chillax end; pop; pop end end

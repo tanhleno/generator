@@ -1,0 +1,1 @@
+program q0e0 : s1m : takes r : integer; H : integer; j9 : boolean; bkF0a : boolean array returns boolean qe, hN : integer array; W, qs, z1, G770a : boolean array; y2 : boolean array; output - 2 - 6 = 6 . "\"" . "" . "q" end main : o7a : integer; u58 : boolean array; c, X0 : boolean array; f : integer; _, P1, H : boolean; R3 : boolean; chillax end

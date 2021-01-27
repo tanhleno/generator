@@ -1,0 +1,1 @@
+program KX : y5 : takes q6, C2, s, g99 : integer array; X, f, q9, Y1, u : boolean array; J0, j : boolean; u : integer array; u : boolean returns boolean array A, M9z, p, W7 : boolean array; do g(false < - 85) end main : chillax end

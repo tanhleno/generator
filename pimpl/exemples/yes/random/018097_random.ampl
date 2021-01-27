@@ -1,0 +1,1 @@
+program w : R7la : takes l, hF : boolean; t : integer; W, B, K, n : boolean array; e, D : integer array; n6 : integer array returns integer array do Y9(not 89100 and 7) end U_ : takes pD, K4gaa : boolean; p, L, u, _ : boolean array returns nothing when case 82 : do pMO(5); input t end end main : chillax end

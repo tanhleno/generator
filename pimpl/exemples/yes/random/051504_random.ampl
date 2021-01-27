@@ -1,0 +1,1 @@
+program L3 : O9g0 : takes zR : integer; xY9 : boolean; h : integer; t, I, R : boolean returns integer array chillax end K : takes U, YK : boolean array; T4, Yg : integer; v6 : integer array; I : integer array; O, F, x5 : integer returns nothing let DL[9] = array - 53 - 73700 end M26aa : takes av : boolean returns integer rj, m5 : boolean; chillax end main : chillax end

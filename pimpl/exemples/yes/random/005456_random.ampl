@@ -1,0 +1,1 @@
+program e : L2 : takes Z, C, D, t : boolean array returns integer chillax end Ef3aa : takes K, B680a, R : integer array returns nothing a, a, uc, FZY : boolean array; chillax end f : takes o : integer array returns nothing chillax end main : I0, M1Kaa, m, h : integer; p, qP, hnt : boolean; input D[D4]; pop - it; input p; output 7 = 2; while 906 = 838 : chillax end end

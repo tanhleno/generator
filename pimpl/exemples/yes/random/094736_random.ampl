@@ -1,0 +1,1 @@
+program T : main : pop; when case false + (82) and 032 + 1 - 15 : when case 0 = 76 : chillax end otherwise : pop end; output ""; input t end case 5 - 287 - 77 >= 7 - 726 : let s[11] = 4; output "" end case - 8 - 31 >= 905 : chillax end otherwise : do f(1520, 7) end; while - zyeaa : while 37000 : chillax end end; do eY(41 - 7 <= 3) end

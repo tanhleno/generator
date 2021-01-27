@@ -1,0 +1,1 @@
+program j : cW9aa : takes D4n, V : integer; u, Id : boolean returns nothing do _q(- true, 6 - 0 >= 15, 507 = 4, 76, 21) end n : takes x8, O : integer array returns nothing rG, g, Hix, c : boolean; chillax end U : takes D : boolean returns nothing output 8 end main : output - (5) rem false or true end

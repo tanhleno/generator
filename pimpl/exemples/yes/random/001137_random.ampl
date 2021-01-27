@@ -1,0 +1,1 @@
+program e : s : takes o6, tSZa, dh, Z, _9za, X : boolean; D : boolean; Uf, e, M : boolean array; L, TYr : integer array; j, u3, im : integer returns boolean array let s1 = - 5 - 529 /= 7 end main : I4 : integer; chillax end

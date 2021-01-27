@@ -1,0 +1,1 @@
+program vi : i : takes kK : boolean returns boolean chillax end main : B, Hd, f9, H, D : boolean array; H7 : integer array; input z_[not true / (08)]; let p[not false] = array false; output "\n\n\"" . "\n" end

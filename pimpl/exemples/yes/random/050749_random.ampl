@@ -1,0 +1,1 @@
+program _ : lu : takes Y : integer; nN, P : boolean returns nothing c, w, L2c, Bf, Pl : boolean array; output "" . "\t6!" . "" end r : takes mg : integer array; p, G, ZL, O, sM : integer; R6, X : boolean array; r, q, e, c : integer returns nothing H15a : integer; chillax end main : do c(n[42] and k[77] > - 08 - (04) and 16300); let Q1 = array - 4 end

@@ -1,0 +1,1 @@
+program I : j : takes m09, J, M0, T, p : integer array; F, Ui, f, OOV, h : boolean array returns nothing s4, B, P : integer array; chillax end Q9 : takes saWa : integer array; E : integer returns integer array MLp : boolean array; let L48a[05 - 4] = array - 6 - 4; do bk(61, 627, 334) end main : r : boolean array; M1Ea : boolean; chillax end

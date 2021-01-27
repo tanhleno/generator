@@ -1,0 +1,1 @@
+program x : z0 : takes n49 : integer array returns boolean array chillax end main : do b((459 = 478) < - not(4) and not 22 and 46); output true and 1 + 87 . - 3 . "I"; while false and 4 or 41 - 7 : chillax end; pop 6; let k[21] = array 33 end

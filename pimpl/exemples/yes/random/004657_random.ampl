@@ -1,0 +1,1 @@
+program q8p : I : takes v, ZUm, E5u0, fX : boolean; z6 : integer array returns boolean array do v(57 - 0 = - 58, 0 - 641, 5290 = 1) end main : do P6p(- false - true / false and 32 + (516) or 0 >= false rem false and 37 - N and 97000 + 01 - 19400, 0 rem(92) and 3 + (03900) and 6 <= not 9 and 49 - 40, - not 9 + 0); let yO[- false] = Fn end

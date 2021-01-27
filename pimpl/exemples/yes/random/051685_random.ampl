@@ -1,0 +1,1 @@
+program Z : H : takes Yr0 : integer; y : boolean array; x, iS3 : integer; J, v : boolean array; O8 : integer; Fk : boolean array returns nothing t : boolean; input s; let n = 8 end main : let h63 = array not(81300); output - true and 364 end

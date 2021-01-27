@@ -1,0 +1,1 @@
+program c : R : takes u, Xm : integer; Vf, U, ThM0 : boolean returns nothing O, L : integer; Ui : boolean array; chillax end main : bP, U2m0a, lDk0a : integer; lE : boolean array; Z, j : integer array; D8, S0u : boolean array; Fs, Sc : boolean; input o[- false] end

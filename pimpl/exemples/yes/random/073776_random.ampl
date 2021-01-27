@@ -1,0 +1,1 @@
+program t4laa : main : R2, d2v : boolean; P9N0 : boolean; R : integer array; h : boolean array; R : boolean array; pop - 3 + tX and 7 + 46 > false and 94 + 9; while Z[6] rem true >= false and 344 : chillax end end

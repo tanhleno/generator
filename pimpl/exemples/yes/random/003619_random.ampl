@@ -1,0 +1,1 @@
+program c2 : l40 : takes XJs0, o8, Y, r, j : integer array; d0 : integer array returns integer j : integer array; when case - true : chillax end otherwise : when case 76200 : chillax end end end e : takes S, B : integer; F, m : integer returns integer array C, md : boolean array; KD2 : boolean array; chillax end main : chillax end

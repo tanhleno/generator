@@ -1,0 +1,1 @@
+program DDV0a : main : while - m(0, 7) / ys4a[2] / 9120 >= 14 rem false and 36 : when case - 3 - 4 = 36 : chillax end end; do V(- not(37) * false and 04, not 79 and 80 or 21 > 393); input Z[- false] end

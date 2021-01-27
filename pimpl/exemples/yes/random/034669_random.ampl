@@ -1,0 +1,1 @@
+program Y : G : takes Z : boolean; h74, U : boolean returns integer j9w0a : integer; W0, DR, O0, XQ : integer array; chillax end main : M, n70, jZ : integer array; k : boolean array; let U2xa = array true / 686 + (76) rem true or(04) and 8; input d; do b(- true and 57800); when case - 5 /= 9 : chillax end end

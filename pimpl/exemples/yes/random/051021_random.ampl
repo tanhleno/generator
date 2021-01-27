@@ -1,0 +1,1 @@
+program TG : eY : takes nhv0a : integer; hC, H : integer array; A6 : boolean array returns boolean array chillax end main : while 4 + true + false and 7 : output 81 = 4 . "" . 5; when case 1 : let q50aa = 21; pop end case 2 : chillax end otherwise : chillax end end end

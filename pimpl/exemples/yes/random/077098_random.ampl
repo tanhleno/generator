@@ -1,0 +1,1 @@
+program N : main : z9, O : integer array; COx, IZ0a, c, p04, B30a, L : integer array; Y : integer array; j, U7 : boolean; xv1 : integer array; when case true < 6870 - u + 23 : chillax end case - xV6[08300] * true and 20 <= - lO and 6 + 95800 - 63 : chillax end otherwise : while 4 = 00 : chillax end end; input z end

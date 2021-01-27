@@ -1,0 +1,1 @@
+program A09 : main : when case - false or true * (400) - false + 7 : pop end; input m9[C and(0620) and 12 or false]; when case not 0 - 9 - 15200 : when case 834 : pop end case 03200 : chillax end otherwise : chillax end; output "L7\"" end otherwise : chillax end end

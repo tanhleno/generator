@@ -1,0 +1,1 @@
+program YIs : n6 : takes g, t5Maa : integer returns nothing pop 4 - 313 < 71; pop; pop 0; let A[1] = array 7410 end J : takes aG, y8V0a, U, _ : integer array; m, U, O5 : boolean returns nothing Gy, p : integer; E, c : boolean; nk50 : boolean; co7 : boolean; G : boolean; while 5 : chillax end; output "R\\0a" end main : H6Z0a, M : integer array; L, X38 : boolean array; chillax end

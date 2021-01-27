@@ -1,0 +1,1 @@
+program Q9g0a : main : R : boolean; s5, HQ2, c, yG : boolean; as : boolean array; while - 6 : chillax end; while(1140) and IF and 2280 - IH or 39100 - 29 > - O0B and 5 : do d(3, 043, 4); do sK2(759) end; pop; pop end

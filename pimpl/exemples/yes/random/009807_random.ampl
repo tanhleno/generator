@@ -1,0 +1,1 @@
+program PN20 : t : takes D, C, Q : boolean array; Qq0, CY : boolean array returns nothing pop; do hy(0 - 8 <= 0); pop end main : h : boolean array; a3 : integer; X : integer array; do Q4(true and true or 843 + J and 32) end

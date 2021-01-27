@@ -1,0 +1,1 @@
+program C4f : Z : takes H7 : boolean returns nothing chillax end y : takes n53, kD, k : integer returns nothing when case 92 - 1 >= 885 : do C(282); do w(49); pop end otherwise : when case 75 : chillax end end end main : wT8 : integer; chillax end

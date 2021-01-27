@@ -1,0 +1,1 @@
+program h : G : takes r : integer; r : integer array; N : boolean array; J, E, JnE0 : boolean array; Z05, Z0, k, N : integer array returns boolean array while - (07) = - 9 : chillax end end main : R : boolean array; m : integer; chillax end

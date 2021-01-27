@@ -1,0 +1,1 @@
+program p : U2 : takes a, i : integer array returns integer T, QK : integer array; chillax end w : takes N, Qz : integer; dU : boolean array returns integer array chillax end main : t94a : boolean array; chillax end

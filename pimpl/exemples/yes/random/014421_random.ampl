@@ -1,0 +1,1 @@
+program r : P0Yaa : takes K, a5, Qu : integer array; i : integer; o : boolean returns integer array input Z; input b55; do L(20 = 36); output "" . "" end main : R8 : integer; F, t4 : boolean; FX : boolean array; e, e0, C9, W : boolean array; U8h0, FE3 : boolean; L, H0 : boolean; pop; let np = array true or not 6 and 539 + 7 end

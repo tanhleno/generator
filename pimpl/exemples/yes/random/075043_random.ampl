@@ -1,0 +1,1 @@
+program l : main : l720a, O43 : boolean array; s : boolean; let q[5 + false - false] = array false or false + (858) and 7 or 100; when case - e - a and 4460 : chillax end case - (81) or 3 - 069 : input F[8] end case 7 - 14 <= 1 : chillax end case 2 : chillax end case 9 : chillax end case 5 : chillax end end

@@ -1,0 +1,1 @@
+program f : w : takes N, v, f : integer array; cG, xL, Q : integer array returns boolean array M68, Yf : boolean; q, _ : integer; chillax end j : takes j5, RZ, tW, b_ : integer array; kj, zN, M, ad, Q0S : integer; R : boolean array returns nothing input jXy[4 - 90]; input y[6] end KBW0a : takes ibfaa, Ka : boolean returns nothing chillax end main : let P = array - false end

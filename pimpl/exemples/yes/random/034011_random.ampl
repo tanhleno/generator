@@ -1,0 +1,1 @@
+program c65aa : bc : takes zU : boolean; F, y, Z : integer; o, p5 : integer array; ZW : integer array returns integer pop end main : D, A, R3H : integer; fuUa, w29aa : boolean array; k6Xa : integer array; _hGa, UkO : integer array; Qd0a, o6 : integer array; dg, n6 : boolean; c : boolean; k : boolean; chillax end

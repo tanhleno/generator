@@ -1,0 +1,1 @@
+program YO_aa : main : K : boolean array; B, Q, _, n96a : boolean array; when case r03aa * 53 : while - 0 - 56 > 904 : chillax end; while 93 : output "*l\""; pop end; input _1i; input Oi end otherwise : chillax end end

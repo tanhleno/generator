@@ -1,0 +1,1 @@
+program Gs : main : v1 : boolean array; while J5I(98) - true rem true and 54 : chillax end; while - (5) rem not 2 or(09) : chillax end; when case 78 : chillax end case - 64 >= 6 : chillax end otherwise : chillax end end

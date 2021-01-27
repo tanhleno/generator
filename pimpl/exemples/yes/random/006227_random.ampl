@@ -1,0 +1,1 @@
+program V : S60aa : takes O, L070a, O, H9 : boolean returns nothing L : integer; c890, k, D : boolean array; while(63) and 01 : input g[90] end; output "\n^" . "" . 18 . ""; pop; let IAg[7] = array 9; input Z end Bq : takes Z700 : boolean array returns nothing output 63400 . 92 end main : chillax end

@@ -1,0 +1,1 @@
+program F : u40a : takes N, FK, o8 : integer array; uHN : boolean array; g, y, W, W : integer array returns integer chillax end r : takes F900a : boolean array; t0I : boolean array; zd : integer returns nothing chillax end h : takes v, hH7 : boolean array returns boolean array let Q = array 848; pop; do V7k(9) end main : pop - true - 35 end

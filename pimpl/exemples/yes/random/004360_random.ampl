@@ -1,0 +1,1 @@
+program x : h3b : takes l, T9, p, P : boolean; q, I8 : boolean array returns nothing b8, xo, o : integer; s92 : integer array; O, m9, P4 : boolean array; X : boolean; chillax end main : do Vlq(false and true + true + Ax6a) end

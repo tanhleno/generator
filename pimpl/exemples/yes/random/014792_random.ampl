@@ -1,0 +1,1 @@
+program l : c7y : takes I, y, W : integer array returns boolean chillax end main : sWl : boolean; uB0a : boolean array; output "" . (98) and 1 - 3 /= - 7 . "\n"; do z63aa(- false - not 3 and 8 > not 5 - 8, - not 9 and 0); input BQb[- 1 and 18]; while 13 : chillax end; while 3 : chillax end; output 5 end

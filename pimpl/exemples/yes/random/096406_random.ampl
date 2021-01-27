@@ -1,0 +1,1 @@
+program H9 : main : when case - 8 / (4550) < - false * false and 170 : chillax end case - true + not 1 and 7 or 3010 - 08500 <= - (96) or 9 - 186 : chillax end case y3G and 56 - 68900 - 2 < 4 - 2 : chillax end case 908 - 00 <= 704 : output ""; input c; pop end case 8 : when case 2 : chillax end; pop end end

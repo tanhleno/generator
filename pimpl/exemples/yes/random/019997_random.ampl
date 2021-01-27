@@ -1,0 +1,1 @@
+program X : H640a : takes d, K : boolean array; _Bi0 : boolean array returns integer array Q3Za : boolean array; E, ar : boolean; G : integer; input u9 end main : I, Z : integer; u : integer array; a, CT, H, Pu50a, a : integer array; J6 : boolean array; v6ba, b : boolean; chillax end

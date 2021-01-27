@@ -1,0 +1,1 @@
+program II : main : u82 : boolean array; while - (2) and 1 : chillax end; let Kw[- 0] = array false; input SW; input O26; when case 9 = 1 : do K5(42); pop end case 4 : chillax end case 7 : chillax end end

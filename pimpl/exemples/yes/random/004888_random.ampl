@@ -1,0 +1,1 @@
+program E4 : A6b : takes e, x, e2, ii : boolean array; h26aa, Y9 : boolean array; UU : integer; D, KO9a : integer array; I6 : boolean array; q5o0a : integer array; q : boolean returns integer hq : integer; pop; let K = 31; input Y; input x; input a end main : pop not false + (87) and 8860 or 5010 /= - 95 and 7 end

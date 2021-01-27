@@ -1,0 +1,1 @@
+program f : h1C : takes w, A : boolean returns nothing O9, U2_ : integer; pop - 2 - 0 <= 3; let v[- 9] = 9 = 11800; input m end bzR : takes m, J : boolean array; D48aa, i : integer; H, E1, t, b, F : integer array returns boolean array while 699 - 0 > 9 : let C3 = 6320; while 46 : chillax end; pop end end main : pop - 0 * (914) <= - not 122 + 7070 - 0 end

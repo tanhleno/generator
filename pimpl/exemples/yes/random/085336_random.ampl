@@ -1,0 +1,1 @@
+program D : main : V8 : integer; while - true : input n end; do k(- (8) rem true or true and 9 /= not 6 and 6 - 1 - 52600, - (0)); when case - not 2 and 6 - 81 >= - 544 - 27800 : input uj2 end case 853 /= 3 : do S2(6) end otherwise : let G = 29 end; input p22[- 750]; pop end

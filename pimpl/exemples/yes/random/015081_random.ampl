@@ -1,0 +1,1 @@
+program oP : g3 : takes D, s, DB : integer array returns integer W : boolean array; i, bX6 : integer array; s_, LL : integer; jy6 : boolean; J8 : boolean; M5 : boolean; chillax end main : V : integer; z, rV : boolean array; while not true - true / 53 and 1 : chillax end end

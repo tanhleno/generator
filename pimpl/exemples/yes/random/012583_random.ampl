@@ -1,0 +1,1 @@
+program WT90 : En20 : takes Q_8, yO_aa, y9v0a : integer; p1, g, A, A7m, Apu : integer array; U : boolean array; M : integer; x8, k : integer array; PPJ : boolean array returns boolean chillax end main : J : boolean; input UE2aa end

@@ -1,0 +1,1 @@
+program m : XX6 : takes _t1 : boolean array; a, m, f, a : integer array; ayVaa : boolean; sV : boolean array returns nothing when case true and 5 : chillax end otherwise : output "-" end end main : y : boolean array; chillax end

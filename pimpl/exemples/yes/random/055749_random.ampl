@@ -1,0 +1,1 @@
+program V2 : G : takes f8 : integer array; p : boolean array; u, P, vQ : boolean array; v, L : boolean array; v78, ro, u : boolean array returns nothing Qa, B : boolean; while true and 5 : output 6 end end main : T8, a, _, Sk : boolean; U : integer array; chillax end

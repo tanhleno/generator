@@ -1,0 +1,1 @@
+program c : _9 : takes VM9a : boolean array; k6Q : integer array returns boolean array E : boolean; chillax end main : do d8P0(N(89, 75600) / not Z rem(48300) + c[2] / true and 0 or not 0 and 5 - 2, false / 0 + true and 9 - 5 - 9 < - 1 + 4, false and 2, 5360, 840, 8820, 6) end

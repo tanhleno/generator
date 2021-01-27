@@ -1,0 +1,1 @@
+program L : main : input K2; when case - true or t19 : output 9 end case not 63 and 2 or 3 - 15500 : chillax end otherwise : chillax end; input l; when case 0 - 2640 : pop end otherwise : output "0\"!a" end; do d3(52300, 4010) end

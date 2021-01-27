@@ -1,0 +1,1 @@
+program L : QSP : takes D, R : boolean; B : integer; j : integer array returns integer when case(40700) and 1 >= - 4 - 09 : chillax end case 0 > 31 : pop end case 848 = 1 : chillax end case 07 : pop end; input o end main : input V[false or 87 or(86) + 2 - 7] end

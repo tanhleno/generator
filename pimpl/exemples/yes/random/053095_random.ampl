@@ -1,0 +1,1 @@
+program Jp : W : takes s : integer; y1 : integer array returns nothing while - false > 8 : when case 12 : pop end; pop; input Q end; let I[0680] = array 2; input v end main : output X7[65] / true . "" . "" . 8; let A = - V end

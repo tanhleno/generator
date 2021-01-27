@@ -1,0 +1,1 @@
+program p3 : IA0 : takes f, h : boolean; f : integer array returns integer m, SC, K9 : boolean; Jm9, S, UW7, J9 : boolean array; chillax end main : yUA0, V : integer array; pU, e2Jaa, v, dR, Z5 : boolean array; pop 318 <= - false; do q(9 / (8) and 062 - (7) and 2 or 1 = - not 72, - not 8, - 97500 - 3, 2 = 6, 3) end

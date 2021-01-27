@@ -1,0 +1,1 @@
+program DzD : M : takes G : integer array returns boolean w4, Eh0 : boolean; j : integer array; ai : integer array; k, Hi3 : boolean; chillax end main : w, x0r0, K2 : integer; XS : integer array; input k5W0; input V[- (48) rem DU or 87 + 000 - 2] end

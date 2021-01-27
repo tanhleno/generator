@@ -1,0 +1,1 @@
+program I7x : ZP : takes C : boolean; Dm, PL1 : boolean array; hv, I : integer returns nothing o : boolean array; M : boolean; output "" . "\n\n\"" . "=" . "" . "\t\\"; when case 1 - 3 : chillax end case 7 = 659 : when case 0 : chillax end; pop end; pop; output "\t4aa"; while 4710 : chillax end; let h6 = 8; pop end main : output "" . ""; pop - 9 or 95 - 375 = - 153 end

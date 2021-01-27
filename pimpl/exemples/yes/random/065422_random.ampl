@@ -1,0 +1,1 @@
+program T : w : takes Zb4aa : integer returns nothing pop end main : output - false - 3; input H[- 4 rem 1780 and 7]; while false and 24 or 6 <= - 85 : when case 3 : chillax end case 3 : chillax end; when case 7 : chillax end end end

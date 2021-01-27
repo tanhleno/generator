@@ -1,0 +1,1 @@
+program Q : main : while - not true + not false * false >= not(45) - not 0 and 17 : while - 82 > 1 : do zfH0(9) end; when case 07 = 51 : when case 3 : chillax end end case 24700 : pop end otherwise : chillax end end; let Y8ba = false and 501 + 31200 - 2 > 8; pop 9 - 14 = 40 end

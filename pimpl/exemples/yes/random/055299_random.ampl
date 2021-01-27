@@ -1,0 +1,1 @@
+program i0 : kA : takes a : integer array; x, m84a : integer returns boolean array L, S : boolean; F, jve : boolean array; input Hph0a[Wf and 876 or 3 - 884] end NL40a : takes T, Uxr : integer array returns nothing gS7, j : integer; W : boolean array; TX1aa, n : boolean; chillax end main : chillax end

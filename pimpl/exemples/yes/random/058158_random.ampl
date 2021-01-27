@@ -1,0 +1,1 @@
+program tH : s : takes IX : integer array returns boolean vC, S450, p48, L, J : integer; do WA0(- not 2, 6 - 32, 435 = 0); let N[- 114] = 1100; input M end main : D3, v, B, KOZ : boolean; chillax end

@@ -1,0 +1,1 @@
+program G_ : BI : takes q6, Yp, G : integer returns integer array Y350, ll : integer; Z, e0, A : integer array; chillax end O : takes G, O : boolean array; zj : boolean array returns boolean output "" end main : J, P : integer; while - a3[740] : do k(7) end end

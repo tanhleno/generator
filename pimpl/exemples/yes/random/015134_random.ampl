@@ -1,0 +1,1 @@
+program M : jA : takes V9, t, k : integer array returns integer while H67 < 8150 - 01500 : do R7V0(66); output ""; when case 9 : chillax end; pop end; output 768; output 09; output 30 . ";\t"; do i(2670); while 482 : chillax end; pop end R_ : takes i : integer returns nothing r, q : integer; pop; do G(753 = 2, 56, 24) end main : vl80, O2, l, v53 : boolean; chillax end

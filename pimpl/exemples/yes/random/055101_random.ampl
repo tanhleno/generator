@@ -1,0 +1,1 @@
+program H15 : Dj : takes A : integer array; Ha5, q : integer array; rJ, c : integer array returns boolean array gvi : integer array; output - 6 . ""; when case - 8 - 9 : chillax end case 939 : chillax end end main : Z, N12, c, y, v : boolean array; f, BE, C, F3, n, t : integer; oJ0, ofV0 : integer; chillax end

@@ -1,0 +1,1 @@
+program VFtaa : VB : takes jN : boolean; y : boolean; c : integer; X, N98aa, Zt7 : integer; I1Ja, U : boolean array; k : integer array; mN : boolean returns integer array d80a, o, w : integer array; _3g : boolean array; chillax end jI : takes No, k : integer; e : boolean; J : boolean returns integer rk, mo : boolean array; chillax end main : e : integer; chillax end

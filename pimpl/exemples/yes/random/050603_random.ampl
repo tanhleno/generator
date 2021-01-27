@@ -1,0 +1,1 @@
+program P : h : takes IG : integer; cb, ym : boolean array returns nothing chillax end w : takes w, yL, V : boolean returns integer array let Maqaa = 96; input Q; while 44 : pop end end main : chillax end

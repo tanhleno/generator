@@ -1,0 +1,1 @@
+program gI : U : takes C3, Fbt0a : boolean returns boolean array y1 : boolean array; chillax end main : B1oa, hKb : boolean; output - not(43) * Ri + (09800) or 155 - 0 >= - true and 2 . "7" . "" . 63 = 2 . 6700 . "" . "\"" end

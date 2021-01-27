@@ -1,0 +1,1 @@
+program Hy : a : takes y, rnV : integer array returns boolean D, R7z, R48 : integer array; input eg[- Bq and 10]; when case 5 - 47 : chillax end; pop; when case 7 : chillax end otherwise : chillax end end H : takes v, Zi : integer array; l : boolean array returns nothing do gC(- 2 - 9, 34300); do ea(81 = 13) end main : chillax end

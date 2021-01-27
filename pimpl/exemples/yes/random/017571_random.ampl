@@ -1,0 +1,1 @@
+program v : w : takes QE4, y8 : boolean; D, E : integer returns integer array while - (69) and 309 : chillax end; input dW[- 3]; when case 789 = 56600 : input J; pop end case 1 : chillax end end e : takes l : integer; G, B86 : boolean returns boolean K, t9, D : boolean array; chillax end main : chillax end

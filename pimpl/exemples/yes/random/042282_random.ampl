@@ -1,0 +1,1 @@
+program A050 : wmG : takes vs : boolean array returns boolean o : integer array; when case - not 3 : when case 45 : chillax end otherwise : chillax end end case 66 - 4 : chillax end case 0020 = 4 : input M; pop end case 4 : chillax end case 4 : chillax end otherwise : do Yk30a(0) end; input _[- 70300] end main : L : integer; _Zda : integer; chillax end

@@ -1,0 +1,1 @@
+program b5 : O : takes s1 : integer returns boolean array M, I : boolean; h, n : integer array; let B = array true and 99300 + 3 end V710a : takes nq, Uui : boolean; V : integer returns integer array chillax end main : w6 : integer; kgu0, z : boolean; a00, f : integer array; chillax end

@@ -1,0 +1,1 @@
+program M8ba : main : c, H, Vw : integer array; n, qv6 : boolean; p16, qg, n : integer array; when case - true rem(42) and false < true : chillax end case - true / not 8 : chillax end otherwise : chillax end end

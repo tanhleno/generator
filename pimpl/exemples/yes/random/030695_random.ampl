@@ -1,0 +1,1 @@
+program XAca : f : takes Dz4, n : integer array returns nothing P, N6 : integer array; UN : integer; chillax end main : input Q[- (27 = 22) * 81900 rem(15) + T(2) + not 31 and 6]; input B; pop - 36 - 32500 >= 761; while 0 < 003 : when case 04 : chillax end; output "=\"" end end

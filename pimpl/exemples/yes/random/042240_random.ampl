@@ -1,0 +1,1 @@
+program l3 : f : takes E : boolean array returns boolean m5 : integer; jQn0a : boolean; d14 : integer; input Q[- 12700 - 1]; let Go = array 87 - 5 end main : let U = - 5 rem false or P or 47 - 650 < - (376) and 8 or 6; while - true / not 9 : chillax end end

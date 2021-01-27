@@ -1,0 +1,1 @@
+program aC : Z : takes Y : boolean; y : integer returns nothing My, s360, ND, E, q : boolean; A, K, Y, Q : boolean array; t : boolean; J4, R4 : boolean; let I = array - 23 and 8 end main : q4, X : boolean; Y, s, Y5caa, z : boolean; lD : boolean; J : integer; input Z4 end

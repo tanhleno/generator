@@ -1,0 +1,1 @@
+program p : S : takes Z9W : boolean array; F : boolean array; X, c : boolean array returns nothing pop 9; input W[- 7] end main : pop 00400 / I and 13 - o and 031 - 76 >= - zd20a; do m0(- true or o and 54100 <= - (06)); when case not 1 and 9 or 224 >= 878 - 59000 : chillax end otherwise : chillax end; input c4 end

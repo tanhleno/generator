@@ -1,0 +1,1 @@
+program s49 : L : takes j07 : boolean; E7 : integer returns boolean array a : boolean array; do TP(- Ug < 7 - 1) end main : h4sa, X : boolean; H9M, p : integer array; input U4[- not 387 or not not 5 and not 5 and 00 + false and 71 or 8] end

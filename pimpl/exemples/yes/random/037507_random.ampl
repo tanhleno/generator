@@ -1,0 +1,1 @@
+program X000 : s : takes C3 : boolean array; w, NM, y, s27, I0f0a, ZE : boolean; f : boolean array returns nothing Ol : integer; while not 9940 : pop; pop; do e090(1); pop end; pop 7440 end main : do MXz(- false > A3uaa[5] * 56000); pop; when case A500 : input u[7]; do p(83); do s(64); pop end case - 313 - 8 : let wG = 5 end otherwise : pop; do b(41) end end

@@ -1,0 +1,1 @@
+program A6 : BJdaa : takes X : boolean array; nEZa : integer; B, D : boolean; n9ba : integer array returns nothing u : boolean; while(6) and 685 - 3 = 1 - 41 : chillax end; output "" . 594 . "" . ""; let W = array 2720 end main : pop - 74 * false and 11500 + 4 and 80 or 3 - 3 /= - z - 33800 - 8150 end

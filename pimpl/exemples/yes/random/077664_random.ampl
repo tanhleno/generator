@@ -1,0 +1,1 @@
+program x : main : A, B3u : integer array; bG60a : integer; h, jZHaa, xQ : boolean array; W59, fj, M : boolean array; let g = false + (0); while - 694 = false + 2 - 25 : chillax end; output - 6 < 2 end

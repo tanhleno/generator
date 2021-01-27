@@ -1,0 +1,1 @@
+program L630a : n : takes K : boolean returns boolean array output "9" . 95 = 82 . "" end B1l : takes WL, U, G : integer array returns boolean array chillax end p : takes O, o : boolean array; M5T0 : boolean returns boolean chillax end main : do R(- S + true / b and 10, - b(9) and true and 15 or not 3040 and 81); input C; input K[not 2] end

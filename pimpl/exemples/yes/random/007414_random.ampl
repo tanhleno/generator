@@ -1,0 +1,1 @@
+program iY : d : takes el4, H, d, U : integer array returns boolean array e : boolean array; F : boolean; g, jT0aa, r : integer; when case - false and 12 - 2 : chillax end case 9 - 5 > 1 : chillax end; input T2I0a end s : takes x, Md : boolean returns nothing chillax end main : chillax end

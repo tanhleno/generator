@@ -1,0 +1,1 @@
+program m9 : Mg : takes q87 : integer returns nothing let G5 = array - g end main : h0 : integer; when case - false < - false / 01 and 4 - false or 9 : when case 2510 >= 3 : output "\\"; pop end end end

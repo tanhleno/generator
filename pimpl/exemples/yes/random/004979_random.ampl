@@ -1,0 +1,1 @@
+program A : CK : takes BB, z, c1, Fb : boolean array; N2, i5g0 : integer returns boolean array input Q[- sQc - 496 - 167] end LM : takes dS : integer returns nothing pop 3; do gDFaa(977) end main : chillax end

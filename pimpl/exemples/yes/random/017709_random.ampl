@@ -1,0 +1,1 @@
+program Q9 : v : takes B, f : boolean; L : boolean; S : integer array returns nothing let M = array not 2 end l : takes B : boolean array returns boolean array chillax end dZ : takes u, W4 : integer array; H6u0a, eF_0 : integer returns nothing chillax end main : input LL0a[true]; output "" . ""; pop end

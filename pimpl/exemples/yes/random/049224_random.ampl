@@ -1,0 +1,1 @@
+program J : H7i : takes M0 : boolean returns nothing while true - 7 - 74 /= - 385 : chillax end; output 9 = 89000; when case 0 : do Fcu0(20) end otherwise : pop end end n : takes c : integer returns integer Y : integer array; chillax end W : takes Q, Jx, fh9 : integer array; K, C : boolean returns nothing pop 40 end main : chillax end

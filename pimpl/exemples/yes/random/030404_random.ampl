@@ -1,0 +1,1 @@
+program l : l : takes BM3, w13 : integer array returns nothing chillax end main : when case true > false + (4) or 906 - 204 : let Ie = array 96; when case 2 : chillax end case 45 : chillax end case 6 : chillax end; do X5(5); do yW(8) end otherwise : while 6 : chillax end; pop 8 end end

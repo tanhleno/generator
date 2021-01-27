@@ -1,0 +1,1 @@
+program M7_ : main : while - e = not 9 / false or 3 : let X = array 73900 - 9; do B(09 = 8) end; when case false /= (26) or 0 : while 4580 = 4 : do i11(621); pop end end otherwise : when case 0640 : chillax end end; do C2(- false and 2 + 9 - 769 <= - 8) end

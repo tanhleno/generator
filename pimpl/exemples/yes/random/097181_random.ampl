@@ -1,0 +1,1 @@
+program w : main : when case not g(4) = 293 : chillax end case true * not 6 : while 0 = 039 : pop; pop end; input U[529]; pop end otherwise : chillax end; when case - not false - ms and 1 : chillax end case - false = 1 : while 1140 : chillax end end; when case true and 685 >= 41 : pop end case - 3 - 04 >= 7 : when case 34 : chillax end end case 71 = 64 : chillax end; input U end

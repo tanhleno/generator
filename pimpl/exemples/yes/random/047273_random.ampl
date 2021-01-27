@@ -1,0 +1,1 @@
+program I : O84 : takes t : boolean returns integer let H3d0a = array - S200 or 8 - 0; pop 48 = 0; input H; when case 7 : pop end case 6310 : chillax end otherwise : chillax end end main : C, c8 : integer; while false or true = - not(0) rem not 39 and 8 : pop; while 56 : chillax end; pop end end

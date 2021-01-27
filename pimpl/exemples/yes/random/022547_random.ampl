@@ -1,0 +1,1 @@
+program DZ9aa : P : takes q920a, xF : boolean array returns nothing Na00a : integer; output "\t/a" . 6510 end h0qa : takes y3Ea, p : integer array; f : integer; DM20a, g280, r : boolean returns boolean chillax end main : output - true / not 121 >= not 3 . (63) /= - 77 - 1 . "5r\"a" end

@@ -1,0 +1,1 @@
+program Gb0a : C : takes U2, v : boolean; jb, n6 : boolean returns nothing yI50a : integer; when case - V < - 511 : when case 57 : chillax end; output "" end case 3420 : chillax end otherwise : let F = 7 end; let z = 138; input B; while 5 : chillax end; input t; do F(5) end main : Bj : boolean array; chillax end

@@ -1,0 +1,1 @@
+program I73 : WzO : takes sY30, X : integer array; gK, o2, a, Q, u : integer array; ywQ : integer array; Llh, K, L3c, P, VM : boolean; hi : boolean array returns nothing let k = 1 < 51 end main : c, b : boolean; chillax end

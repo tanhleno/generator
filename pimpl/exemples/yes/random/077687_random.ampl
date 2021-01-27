@@ -1,0 +1,1 @@
+program AEJ0 : main : D, Zc00 : integer array; eT : integer; R : boolean; output - not 88000 and true and 78 or 2 and 8 > - not 407 . true and 8 - 6 >= - 1870 - 12; pop not 72 = - 8; pop - 0 - 5220 >= 61 end

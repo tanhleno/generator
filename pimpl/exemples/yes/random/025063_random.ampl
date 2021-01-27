@@ -1,0 +1,1 @@
+program Y : _5 : takes TRL0a, m : integer; K, W09, z, H : boolean array returns nothing mI, v, nT0 : integer array; output - 5 - 7; while - 6 > 51 : let rL00a = 4970; do I(20); pop end; input j end G7 : takes v5t0a : boolean; C64 : boolean array; tQ70a, f, K8, t : boolean returns integer let t1[182 - 8] = array 4; let X[2490] = 44 end main : chillax end

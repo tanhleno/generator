@@ -1,0 +1,1 @@
+program w : N4 : takes d67a, b02, c7Ra, T : integer array; X : integer; g, Z : integer returns boolean chillax end h : takes E : integer; T, s, A, h, o_7a, a : boolean array returns nothing do xZ2(5 - 4) end main : chillax end

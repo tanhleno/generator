@@ -1,0 +1,1 @@
+program U : z4 : takes L, s, Max0, f : integer array; N : boolean returns nothing z, E, M52, a3 : integer; when case false and 8 or 7 < - 629 - 10 : chillax end case - 701 >= 1 : chillax end otherwise : chillax end end main : chillax end

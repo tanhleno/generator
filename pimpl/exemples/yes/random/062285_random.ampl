@@ -1,0 +1,1 @@
+program TN : Q : takes K : integer returns boolean chillax end main : when case - false and I[7] > - (58000) and false : do Fp(- 1030 - 31) end otherwise : do Pe(33900 = 6, 2); output 8 end; while not ZG : chillax end end

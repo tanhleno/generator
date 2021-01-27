@@ -1,0 +1,1 @@
+program m : vo : takes TR5a, Fd, sV, b5y : boolean returns integer z7u0, ER90 : integer array; B : integer array; do E(false and 4 = - 79, 11100 - 5); do Z(- 9); let l26 = 8; input i4n0[3] end main : chillax end

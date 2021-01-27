@@ -1,0 +1,1 @@
+program bWba : H7 : takes n6k0a, j : boolean; e, H9z : integer array; F : integer; NA, V9 : boolean returns nothing x : boolean; chillax end a : takes dxk : boolean array; c1 : boolean; Tx50a : integer returns boolean array chillax end main : chillax end

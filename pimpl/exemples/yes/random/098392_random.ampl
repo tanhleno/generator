@@ -1,0 +1,1 @@
+program gr : main : while - h - 0 rem n77 - false + 29300 - 0 : do x5Pa(5, 935 = 669, 58, 7); while 0 = 5 : output "5"; pop end; while 5 : chillax end; while 6 : chillax end end; pop - (6) + 31 <= 8 - 61700 end

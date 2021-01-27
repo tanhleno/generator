@@ -1,0 +1,1 @@
+program d33a : vt : takes M : boolean; Z2, AW, b9m, K : boolean returns integer chillax end main : m5 : integer array; oc : boolean; f : integer array; U7 : integer array; do O(- (5 = 8) or X6[246] or(3870) or 95 - 0, 8 * o - 9810 or 767 - 79 /= false and 41300, - false - 3 - 18 = - 5) end

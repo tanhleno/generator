@@ -1,0 +1,1 @@
+program v : i030a : takes E : integer returns boolean y120 : boolean; input b1r0 end main : ss, qg1, NxL0a : boolean; O0 : integer array; do V600(true / 2 - X1[6380] and false and 5 = - true * not 7 + true + 8, - 9); pop false and 39 + 7 - 8 <= 095 - 3690 end

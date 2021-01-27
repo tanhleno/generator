@@ -1,0 +1,1 @@
+program pw : main : tv : boolean array; do F9maa(- not 5 / not 6 / true, false = not 12); do K(- false * false + 74 <= false and 9 - 2 - 29, - false >= 60, - 0 - 67 <= 5); let w = - 620 - 2 /= 88 end

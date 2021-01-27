@@ -1,0 +1,1 @@
+program G : Y : takes pV1, a : integer; F9zaa : boolean array; L, l480a, D550a : integer array; EN, m5V, Sgv0, l82, xI : boolean returns nothing output 2 - 6 /= 41 . ""; while - 549 <= 982 : output "h6" end end main : do _c90a(P > true / z and 1 + false and 1 - 99, - not false * true or Dgz + 3 - 29) end

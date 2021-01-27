@@ -1,0 +1,1 @@
+program AK : gI : takes Q : boolean array; o, zTNaa : boolean returns boolean chillax end w : takes b9E : boolean array returns nothing C, O0 : boolean array; chillax end main : while - (42 = 4) - 4 /= - not not 8 - false : pop end; input q37 end

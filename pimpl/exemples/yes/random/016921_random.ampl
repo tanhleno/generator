@@ -1,0 +1,1 @@
+program pS : Q : takes L9, e5 : boolean; z8, j, kt80a : boolean array; hR2a : boolean; y : boolean array returns nothing dK : integer; C : boolean array; C1, RJ, Oh : integer array; pop end main : let o4 = false - not 6 and 0 + 1 - 5 >= (11) and 8; input Z[- 9 - 4]; output "\t"; pop; do l(3, 74) end

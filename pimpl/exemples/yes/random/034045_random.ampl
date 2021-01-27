@@ -1,0 +1,1 @@
+program kg5 : h : takes R : boolean; Qw, n, n : integer array; F, F1, G, Kq, d, h4B : boolean array; Z : integer; e3 : boolean returns nothing xIt : integer array; D, O, D660a, M : boolean array; Dt, x : boolean; h, W3 : boolean; output "" end X56aa : takes D : integer; co, I : boolean array returns boolean let ye8 = array 00 - 3 end main : chillax end

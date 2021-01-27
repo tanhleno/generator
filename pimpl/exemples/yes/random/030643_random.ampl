@@ -1,0 +1,1 @@
+program VF5 : T2 : takes H, PR : integer array returns nothing K, b8 : boolean array; pop; output "" . "7\t"; while 9 : let LV = 0; pop end; let f = array 1; let p = 58000; do Qo(89900) end main : let T = true * W + not 2 and 9 + 8 - 6 end

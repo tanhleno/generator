@@ -1,0 +1,1 @@
+program KX9a : I4aaa : takes LFk0a, kd0, o, k, tnq : boolean array; X : boolean; Y7, ON, r, v : integer returns nothing chillax end Y : takes Rv0 : integer; U : boolean; DY, A : integer returns nothing J, e3, V5J, f : integer; D0 : integer; pop 31 = 9750; do a(723, 6, 081) end main : s : boolean; chillax end

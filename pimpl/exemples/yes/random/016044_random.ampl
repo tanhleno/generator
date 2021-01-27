@@ -1,0 +1,1 @@
+program J : Oaj : takes M, O, x : integer returns integer Z, O, G : boolean; when case false and 05 : chillax end otherwise : when case 04 : chillax end; let q = 8; pop end; do I(9 <= 0, 4 = 12); when case 32 = 5 : chillax end case 89 : pop end otherwise : pop end; output "1"; pop end main : nU40a : boolean; STG, O : boolean; chillax end

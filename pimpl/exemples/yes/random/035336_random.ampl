@@ -1,0 +1,1 @@
+program Zj3aa : wj9 : takes BQH0 : boolean; D : boolean; QaS0a, V, T0, aq : boolean returns boolean array Y : boolean; u46 : integer; chillax end main : x720a : boolean array; c46a : boolean; output "J"; output "" . - 3 - 87 end

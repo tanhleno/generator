@@ -1,0 +1,1 @@
+program x7U0a : j : takes GFr : integer returns nothing x : integer array; do P(- true - 7, - 6 - 8290 <= 1, 9 = 44, 4, 859) end x : takes Y5D, vY : integer array returns boolean array let aR[- 013] = array - 9 end main : while not true rem true or false : chillax end; while - false * false or 3 and 3 : chillax end end

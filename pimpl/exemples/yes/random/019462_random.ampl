@@ -1,0 +1,1 @@
+program e : x : takes _, I5H0a : boolean array; I7Na, TeN : integer array; h2, U2 : boolean array returns nothing input d[(67) and 5]; while 74 - 8 : when case 52900 : chillax end end end main : while - (88) : chillax end; while - 34 and 28 - false and 51600 : chillax end end

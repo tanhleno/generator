@@ -1,0 +1,1 @@
+program y : Z3 : takes v, c, _, A, vr : boolean array returns nothing Fh, q : boolean; chillax end t5 : takes b47aa : integer array returns nothing when case 6 - 7 : input Q; pop; pop end case 92 = 7 : pop end; let tj[4] = 5 end main : r : integer array; do CF(false - not false * false >= - not false) end

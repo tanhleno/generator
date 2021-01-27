@@ -1,0 +1,1 @@
+program j : eB : takes e : boolean array returns boolean let k = array not 838 and 2790; let C[- 5] = 74200 = 09400 end main : while true + not _ and 1 and 0 >= true rem x : let t3S = array 8; while 09 : do F2A(2870) end end; pop; pop - 7 <= 9 end

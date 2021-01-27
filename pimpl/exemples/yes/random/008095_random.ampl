@@ -1,0 +1,1 @@
+program k : I9 : takes Z, _27a, c, pS : integer returns integer chillax end t : takes d, gk : boolean returns integer array nz, X4, _e, C0Paa : boolean; T, y, RMO : boolean; j : boolean; D : boolean; x3c : boolean; input f6 end lh : takes J, Q : boolean returns nothing K, gYEa, xg : boolean array; chillax end main : do s(Z + (9) / not 6, 7 rem true and 57 >= - true) end

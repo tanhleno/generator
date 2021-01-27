@@ -1,0 +1,1 @@
+program FX60 : W : takes H, U9, M420, fx7, b8 : integer array; D : boolean array returns integer array when case 7 and 0 or 1 - 3 >= 99 : chillax end otherwise : when case 478 : chillax end end end main : F : integer array; J : integer; chillax end

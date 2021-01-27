@@ -1,0 +1,1 @@
+program VD : main : c, q, S, z, X, c4 : boolean; Y, Z4j : boolean array; when case 8 / UY(3) * (769) or(9) * dm80 and 0 - false and 7 : chillax end case - true / true = - 7 : output "" . 028 end otherwise : chillax end; while - false * not 5 and 5 : chillax end end

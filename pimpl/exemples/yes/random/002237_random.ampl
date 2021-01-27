@@ -1,0 +1,1 @@
+program v : i33aa : takes g, H14, L0, gm50, x6 : boolean; S : boolean; _, h, J, R : integer; l30a : integer returns nothing while - 7 and 3 or 41 : output 9880 end; output 87 = 82200 end main : chillax end

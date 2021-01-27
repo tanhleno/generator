@@ -1,0 +1,1 @@
+program E : Y0Ba : takes H : integer returns nothing chillax end main : n, h3v : integer array; while - (3330 = 60) / D4(8) - false <= - d[50000] * not 3990 : while - 12 < 27 : chillax end; do qO(7); pop 2540; while 00 : chillax end; input zi8 end; when case - 9 / true and 1 : input Td end otherwise : let E = 99800; do G(07); pop end; pop end

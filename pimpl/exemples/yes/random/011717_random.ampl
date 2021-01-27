@@ -1,0 +1,1 @@
+program d69 : W : takes l8, xU, v : boolean returns boolean W : boolean array; chillax end main : L : boolean; when case(18900) and f and not 84 and 30 + true / false + (7) and 2 : do lg(33, 74, 25, 4); pop; input NR; output "" end end

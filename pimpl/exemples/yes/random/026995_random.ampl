@@ -1,0 +1,1 @@
+program W : vO : takes W4, j : integer; Ska : integer returns nothing J : integer array; let PL6 = 8 >= 132; let SZ6[9] = array - 39 end main : o9, X92a : boolean array; do P(66 < true + (378), not not 5 = - (9), - not 4) end

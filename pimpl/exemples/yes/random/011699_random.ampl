@@ -1,0 +1,1 @@
+program T : MT6a : takes x, Nm, I : boolean returns boolean u, G : boolean; R1 : boolean; eK : boolean; input Ck[LmP and 0] end main : pop; when case V[81] : chillax end otherwise : let W = array 2 end end

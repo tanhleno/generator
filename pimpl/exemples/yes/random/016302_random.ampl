@@ -1,0 +1,1 @@
+program LI30 : u : takes _, P9, s : integer returns nothing gR, a6, ZE, U : integer; do bN20a(- not 5 and 3); input SM[- 0310] end main : B, N : boolean array; S7Y, W : integer array; pop - false and true and 9 end

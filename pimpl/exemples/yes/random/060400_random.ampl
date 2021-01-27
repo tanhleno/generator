@@ -1,0 +1,1 @@
+program v5 : b29aa : takes a : integer array returns nothing e, T, kRZ : integer; output 1 - 110 >= 74; input G[- 6]; while 17 = 9 : while 5 : chillax end; pop end end main : P, J1 : boolean array; H2 : integer array; ib : boolean array; let zW = not(63900) rem not 1 end

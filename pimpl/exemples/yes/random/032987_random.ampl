@@ -1,0 +1,1 @@
+program z : YZ : takes G, o7 : integer returns nothing input ft[- q and 6 or 03 - 61]; when case 03 = 75 : pop end otherwise : input Mk end; while 2 = 3 : let lG = 45300 end; let bI7[3] = array 7 end main : b : integer array; M54 : boolean; chillax end

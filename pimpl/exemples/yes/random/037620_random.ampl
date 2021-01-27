@@ -1,0 +1,1 @@
+program h : H : takes y : boolean array; Vz, dS, A41, F4, _OPa : boolean array returns integer E8, XDn0a : boolean array; when case - 56 + 2 - 93 : output "" . ""; input O3 end; pop end main : dKH, M5O0a, v, T : integer array; input jTb[d8] end

@@ -1,0 +1,1 @@
+program Pn6 : _ : takes MH, s9 : boolean; V7, l6 : boolean; k, i : boolean array; F, gX5, P : integer returns boolean array pop - 6 - 0 = 0 end main : W : boolean array; LC : integer array; chillax end

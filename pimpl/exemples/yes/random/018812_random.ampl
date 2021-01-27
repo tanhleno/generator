@@ -1,0 +1,1 @@
+program e : f : takes I1, Z4 : boolean array; lt, n, g, b : integer array returns integer array output 1 - 31800 . 5 = 0; pop 3 = 0; output ""; do t(8); do s8H(1); output "~\\" end main : pT70, A, J, t, f : integer; chillax end

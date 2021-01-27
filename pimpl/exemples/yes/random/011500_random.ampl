@@ -1,0 +1,1 @@
+program n : o : takes Ds, v, x11a : boolean array returns nothing when case - false and 68 - 8 /= - 008 : do gyo(7, 4); pop end otherwise : when case 37800 : chillax end; pop end; do u(- 0 = 0) end main : f0F0a : boolean; c, T : integer; g4, z : boolean; chillax end

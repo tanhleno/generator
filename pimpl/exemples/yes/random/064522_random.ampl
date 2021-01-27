@@ -1,0 +1,1 @@
+program B : t : takes g1 : integer returns nothing Q, S : integer; chillax end main : K1V0 : boolean array; when case - 1 > - not false rem true and 94000 : chillax end case - 1 <= not 20 : let X = 23; do a(06200, 0); let p0 = 31300 end otherwise : output "3Ea"; do R(576); do G(9) end end

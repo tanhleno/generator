@@ -1,0 +1,1 @@
+program _8 : main : LC : boolean; a, X, Z, P880 : boolean; uw3, j, R870a : boolean array; A, a, rLl0, x6v : integer; OM, VaZ, S6 : integer array; r4, v : boolean; let B[- N and FlI - NB[2] * true] = array - d[5]; let Kg2[- 169 * (5) and 6 + n] = array not 46200; pop - 7 - 060 end

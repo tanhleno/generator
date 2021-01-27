@@ -1,0 +1,1 @@
+program s : _ : takes A6, U : integer array; A, p9 : boolean returns nothing zxb : boolean; bH : integer; a, fk, zmD : boolean; let Nq[true and 2 or 2 - 56] = array - (0) and 14 + 7 end J : takes c : integer array returns nothing l, J6 : integer; chillax end main : let V = array - true; while - 1 + 07 and 0 : chillax end end

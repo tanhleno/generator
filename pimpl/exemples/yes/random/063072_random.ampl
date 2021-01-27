@@ -1,0 +1,1 @@
+program ORw0a : Q : takes uH : integer returns integer array AU1 : integer array; while - (2) + 8 - 97 /= - 9 - 75 : chillax end end u5 : takes TF20 : integer array; p, m2 : boolean array returns boolean P04 : integer array; do V(2 - 1 >= 460); let tE = 7; pop end main : chillax end

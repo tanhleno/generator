@@ -1,0 +1,1 @@
+program S4 : K7 : takes U2n0, j5, B : boolean returns nothing O0e0a : integer; n : boolean array; do li((590) > 58 - 9, 1 - 544, 2540, 7) end main : b, O8, m : boolean array; pop - q6(4) - (77); input I[false or(70) or 3]; do TW(- false and 04 >= - 043) end

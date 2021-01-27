@@ -1,0 +1,1 @@
+program n : main : K : integer array; o : boolean array; do T(- true, - (2), not 2, - 9 < 94, 5 = 9, 280); when case not 58 rem not 528 <= - r0 and 686 + 9 : while 829 : input q end; do o(2, 020) end case - 23 and 67900 + 8 : while 9 : chillax end; let S8 = 6; output "]" end case 93 - 7170 : chillax end case 1 : chillax end otherwise : chillax end; input _ end

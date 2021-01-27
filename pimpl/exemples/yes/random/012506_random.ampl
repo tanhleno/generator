@@ -1,0 +1,1 @@
+program W : N : takes b3, f, r : boolean returns nothing while - (06) and 5 : chillax end end J8 : takes y050, L : integer array; B, h, p : boolean; d : boolean; q5x : integer; Sz : integer; b : boolean returns boolean do F4(- 3, 8 = 2260, 2) end i5T : takes g82a, g : boolean array returns integer array chillax end main : s : boolean; chillax end

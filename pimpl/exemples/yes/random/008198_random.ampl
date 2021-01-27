@@ -1,0 +1,1 @@
+program r : H : takes L, W, o, kXB : integer returns nothing chillax end main : W6q0a : integer array; let Ft[- false * not J * false or not true - (6) and 10] = array - true + (4) and s and 65 - true + 221; input f[false + HJ and 0 or 056]; let m[- 839] = 3 - 9 end

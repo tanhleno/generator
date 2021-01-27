@@ -1,0 +1,1 @@
+program a9 : GoO0 : takes S, P : integer; K, d : integer returns nothing p : boolean; let R[82 and 19 or 9 - 32] = 3 - 7 <= 7; pop 98 = 94 end main : while 5 / _CF(44) < - m3Q[01] * (35) and 7 : when case - 15 - 94 < 16 : chillax end end; let V8u = (4) - 6 - 1410 /= 0 end

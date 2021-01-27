@@ -1,0 +1,1 @@
+program z : R : takes E4, P : integer; K, S56, E, G : integer array; Ru, vU20a, a, VN, G, AK : boolean array returns nothing T, TwUa, L : boolean; a8v0a, Z : integer array; chillax end V : takes R : integer array returns nothing f, C : integer; do g3(- 347, 830 = 54); let H = 9; when case 45 : chillax end case 3 : chillax end end main : chillax end

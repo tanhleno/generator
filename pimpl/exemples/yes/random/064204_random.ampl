@@ -1,0 +1,1 @@
+program ho : Xr : takes P2 : integer returns nothing x, v_2, x, nj7, mEa0a : integer array; w, H04 : boolean; N : integer array; D0 : boolean; H9 : boolean; D54aa : boolean; input V[(833)]; output 791 . "" . "" end main : chillax end

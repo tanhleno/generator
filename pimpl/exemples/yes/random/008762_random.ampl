@@ -1,0 +1,1 @@
+program vF7aa : c : takes Y, _, T8Qa : boolean; x9, S3 : boolean array returns nothing c, N : boolean array; when case(31) and 0 - 30 < - 32 - 43 : do w4(948) end; input mE end main : when case - false + (578) and false : pop 7 = 7910 end end

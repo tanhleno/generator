@@ -1,0 +1,1 @@
+program c : f4 : takes B : boolean array returns nothing let I95[- l6ia + 706] = 3 /= 7 end main : v : integer; output "7"; when case - false / true or 38600 and 6 - 922 >= - (6) and 989 : chillax end otherwise : chillax end; when case false + 7 - 742 > - 32 : chillax end otherwise : when case 62 : chillax end; do S(26); pop end end

@@ -1,0 +1,1 @@
+program R : hv90 : takes e12, f : integer array returns nothing output 9 - 5; output 315 . "" end main : V5kaa : boolean; m, P : integer; d : boolean; iXK, G, oLX, a : integer; when case true or true and true and 20200 or not 1 or 42 - 2 : chillax end otherwise : chillax end; while - false or Di5aa and 7 : chillax end; do ks((806) <= 450 - 30, - 3 - 71, 8 = 58); pop end

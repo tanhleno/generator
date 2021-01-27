@@ -1,0 +1,1 @@
+program t : V1 : takes P : integer; A, e820 : boolean; s, q4o0 : integer array returns integer V : boolean; do o((809), - 5 - 21 < 1, 0 = 96); while 0 - 56 : when case 3 : chillax end end end main : xw4aa : integer; RD, r7o : boolean array; while false : chillax end end

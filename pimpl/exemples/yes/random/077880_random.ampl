@@ -1,0 +1,1 @@
+program M57 : main : Jt, _c : integer array; let v = array - (5); output ""; let IH[- 936 and 7 - 946 - 6] = array - T; while 8 - 8 : chillax end; when case 6 : chillax end case 1 : pop end case 15 : chillax end end

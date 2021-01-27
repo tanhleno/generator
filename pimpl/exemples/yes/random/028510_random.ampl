@@ -1,0 +1,1 @@
+program j3J : E : takes l, imIaa : integer array; d4 : boolean returns boolean array Eoc : integer; A2, L, V : integer; E, F9, y6w : boolean array; An, I : boolean; do H(- (0) and 8 or 951 - 3 > - 8 - 0, - 789 - 0 = 8); let G = array 96 - 72 end main : w03, Z : integer; chillax end

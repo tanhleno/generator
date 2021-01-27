@@ -1,0 +1,1 @@
+program an : hhT0 : takes of8a, c71 : integer array; EB, M, a1 : boolean array returns nothing j : boolean array; chillax end wi2aa : takes B : integer returns boolean J59a : integer array; pop end main : chillax end

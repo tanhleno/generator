@@ -1,0 +1,1 @@
+program Hdd : main : V, y, c4, Is1a, WS2, Ay, f : integer array; T : boolean array; output - 3 rem 2 - m - 6 < (3) and 8 - 208 - 1 . - Du or 952 . "?5" . 9 = 9; when case m2 : when case 21 : chillax end end; when case - (11) and 7 < - 8 : chillax end case - 02 - 8 = 38 : chillax end otherwise : when case 3280 : chillax end end end

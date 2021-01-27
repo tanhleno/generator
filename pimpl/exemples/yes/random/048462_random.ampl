@@ -1,0 +1,1 @@
+program O : z3 : takes r1 : boolean returns nothing P9 : boolean array; chillax end main : F : boolean; kU80a, C, b, U4w0a : boolean; H, j, a, KN, v : boolean; j8 : integer; G6s, o : integer; pop j1c + (8) or 8 - 7 >= (3800) and 1 + 7; let b6 = false and 70 /= - 1; pop; input l[203 - 547]; do j(3 = 2, 57); pop; let U3 = 489; pop; pop end

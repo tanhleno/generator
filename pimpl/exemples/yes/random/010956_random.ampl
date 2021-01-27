@@ -1,0 +1,1 @@
+program p8 : J : takes j, q, u7F : boolean array returns integer g79, Rb : integer array; input p_[85000 and 9 + 383]; while - 9 : output "\n\t\"a" end; output ":" end i : takes f6k, vY, I : integer array returns nothing chillax end main : V : integer array; Q5E, e, P, H, Y, K : integer; when case not uiW0a(6) or(95) * true : chillax end end

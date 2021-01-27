@@ -1,0 +1,1 @@
+program rg : jAK0 : takes m0k, E, m : boolean array returns boolean i, F : integer array; P8 : integer; do ORN0a(- true or 5 - 6 /= - 49000); do Q(- 5, 8, 752, 483) end main : xZB0a : integer; output "_" end

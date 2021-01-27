@@ -1,0 +1,1 @@
+program j : b6 : takes _7, N : integer; S : integer array; U, q, a : boolean; U, q, K9, iKS, I : integer array returns nothing chillax end main : Q, B, O3D0, g : boolean array; uW60a, Q, A0K, I, NA70a, dc : boolean array; do o(true) end

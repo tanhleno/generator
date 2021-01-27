@@ -1,0 +1,1 @@
+program s : Q8O : takes IF, m95, jHWa : boolean array returns nothing output ""; when case 06 - 8 > 3 : chillax end; let RZ = array 94; let p = array 0580; when case 4 : chillax end; while 2 : chillax end end main : when case(79) rem 9 and not 0 : let L = 4 = 8930 end case - (829) and 4 and 718 + 0 - 9 - 2 <= 9 and 4 : chillax end; input k1U0a; pop end

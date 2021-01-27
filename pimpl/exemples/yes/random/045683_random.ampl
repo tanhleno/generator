@@ -1,0 +1,1 @@
+program S : Pm : takes k : boolean returns boolean array O : boolean array; V9l, t, J, Q12 : integer array; sT : integer array; ynd : boolean; d : boolean; B : boolean; do TT0((6)); while 9 - 32 : do t(5); pop; pop end; while 8 : chillax end end main : s, s2 : boolean; XB, b7L : boolean; chillax end

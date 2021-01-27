@@ -1,0 +1,1 @@
+program mi8aa : C : takes J : integer array; re : boolean; ca, W9Y : integer array; m94 : boolean returns nothing s, r08a, L : boolean; Y7U0a, O : boolean array; while true and 0 - 3 : chillax end; output "" . "" . 29 . "" end w7 : takes H : integer array returns boolean m, Ac : boolean array; gy2, m1t0 : integer array; chillax end main : input xK[- not B6 or true / q0] end

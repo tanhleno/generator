@@ -1,0 +1,1 @@
+program fR : n : takes m0 : integer; w : boolean returns integer array pop - 10900 - 456 <= 78500; when case 55 : input F end case 97 = 933 : let m = 01 end case 1 : chillax end case 53800 : chillax end; output "\\"; input d end main : chillax end

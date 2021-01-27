@@ -1,0 +1,1 @@
+program U : i : takes a64 : integer returns boolean array n6 : boolean array; h9, d : boolean; s : boolean; pnY, s : boolean; y : boolean; a : boolean; input u3; when case - 1 - 2 /= 6 : chillax end case 19 = 6 : when case 8 : chillax end; pop end otherwise : chillax end; input y8 end main : do KZ(true rem S[7]) end

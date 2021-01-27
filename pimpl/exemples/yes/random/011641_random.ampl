@@ -1,0 +1,1 @@
+program Y4 : U : takes T, F75, r : boolean returns boolean array let BH = 3 - 9 end main : when case - 6 <= - false / 26 and 19100 : chillax end case(57) /= not 80 and 2 : chillax end case - 4 and 050 or 8 /= - 9 - 0 : chillax end case 07 < 5 : chillax end case 03 = 27 : do z(7) end end

@@ -1,0 +1,1 @@
+program I1 : main : let i3X = - true or(369) and 2 or 1 = 2 + 23; pop(8) and 5 - 27; while - true : let AQJ[41] = 7140; let N = 4; output "" end; output ""; do k(6, 850); when case 861 : pop end otherwise : chillax end end

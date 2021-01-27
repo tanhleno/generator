@@ -1,0 +1,1 @@
+program R3 : cT2 : takes Z, N0 : integer returns integer array do o(- (2) - 7 > 829, 0 = 9) end pEa0 : takes Q : integer array returns boolean array pop; when case 1 = 8 : while 3 : chillax end; pop end case 0 : pop end case 0 : chillax end; while 1 : pop end end main : chillax end

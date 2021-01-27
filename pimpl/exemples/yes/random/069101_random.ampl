@@ -1,0 +1,1 @@
+program O6Oa : main : y8, CQ, S, Pn, x : integer; PBO : integer; s5, y9, v8, ix9 : integer; i, s2 : boolean array; g0 : integer array; do E53a(not(1) or(9) / (21) and 14 + (4590) and 2 > not false, - (12) rem 6 and 913 or(952) - 3 - 6, - 272 - 31, - 5 = 291) end

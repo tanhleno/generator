@@ -1,0 +1,1 @@
+program k9 : ZOy0a : takes s, J : integer; OZ : boolean returns nothing when case j and 70 >= 99200 - 77 : while 80 : chillax end; pop end; input S[30] end z1 : takes c : boolean array returns boolean when case - 54 - 5 : while 6 : chillax end; let wi2 = 4 end; while 88 = 78 : chillax end end main : chillax end

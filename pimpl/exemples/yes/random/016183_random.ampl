@@ -1,0 +1,1 @@
+program y6b0 : rx : takes J54a, os, D : integer returns nothing chillax end p : takes g2 : boolean returns boolean Fx : boolean; chillax end H : takes b : boolean array returns nothing chillax end main : zr : integer; chillax end

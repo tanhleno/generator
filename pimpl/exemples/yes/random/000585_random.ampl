@@ -1,0 +1,1 @@
+program x : T8 : takes W, Np, Z9, V2T0, l, V9, z : boolean; N : boolean; st0a, w, u, G62, C : integer array; fep, K8, P8 : integer; o : boolean array; Mb9, pb40a : boolean; d3G0a : boolean; o : boolean returns nothing s, p6, H : boolean; chillax end main : ZP : integer array; pop not j /= - (57) and 29 end

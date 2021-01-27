@@ -1,0 +1,1 @@
+program Y6k : _ : takes C, iOK, uV2aa, DH, jP : integer returns boolean array X, p : integer; when case - 5 and 86 + 69500 : when case 06700 : pop end otherwise : chillax end; pop; pop; pop end; output "\\|" end main : when case - 67 - 920 / not 3 + true - 07000 : chillax end otherwise : chillax end end

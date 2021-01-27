@@ -1,0 +1,1 @@
+program J : j : takes r, X : integer returns boolean chillax end V1 : takes H5q, V, vp60 : integer returns boolean array m : integer array; chillax end main : output(89) / not 2630 and 588 > - true - 00 - 0920 . not 9 and 69 - 17 - 5 end

@@ -1,0 +1,1 @@
+program GY7 : F : takes L, o0, m5A, o, m0, gL : boolean array returns nothing while false and 9 < - 8 : when case 5 : pop end otherwise : chillax end end; pop end main : N, _ : integer array; JW, a : boolean; D, r11a, Q0 : integer; A, f, B, w0 : integer; chillax end

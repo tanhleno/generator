@@ -1,0 +1,1 @@
+program k : d : takes wH : integer array returns boolean f : integer; chillax end f4 : takes P : integer; F : integer array; i1 : integer returns integer output 5 . "" . ""; let w0Pa = 42 end main : chillax end

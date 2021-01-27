@@ -1,0 +1,1 @@
+program B : Ky : takes Q, d : integer array returns integer array let G = array - true and 8 or 7 end main : when case 36 + 9230 / false and 40 : chillax end case - w(2) rem false and 7 <= (336) : chillax end end

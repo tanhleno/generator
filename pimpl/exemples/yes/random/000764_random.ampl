@@ -1,0 +1,1 @@
+program lE1a : D : takes p0, J, J, m6, Uz, wPM, p : boolean returns integer array let o[Z0sa and 60] = 6 - 9; when case - 6 - 7 >= 93 : chillax end otherwise : chillax end end main : input F[3]; do C(- true * not 17 and 9, true and 43 + 8 < - 30 - 83, 6 - 72); output 26 - 95 <= 94 . 68600 = 8 . 71 end

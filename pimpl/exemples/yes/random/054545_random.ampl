@@ -1,0 +1,1 @@
+program _ : H1oaa : takes P : integer array; s1p, O_7a : boolean array; i8ba, U : integer; KU : boolean array; Q7, a, B : integer returns boolean array w5 : boolean; output 8 - 4 <= 6; when case - 53 - 859 : chillax end otherwise : chillax end; output 42 end main : chillax end

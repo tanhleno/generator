@@ -1,0 +1,1 @@
+program ti : HX6 : takes I0daa, k1ya, s, eH, H : boolean array; Qp, z : integer array; b : boolean returns boolean array qM : integer; when case - true and 210 - 9 - 6 >= - 7 : chillax end; do c(69 - 37 > 05) end k : takes e94 : boolean array returns integer array q : boolean array; let iP4a = array - 0 - 02 end main : jKQ0 : boolean; x, p, P8 : integer array; chillax end

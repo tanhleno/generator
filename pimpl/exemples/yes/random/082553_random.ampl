@@ -1,0 +1,1 @@
+program C : main : h : boolean array; pop - Nhw(210); when case true rem true and 797 or 52 and 018 - 1 : chillax end case - (406) and 5 + 9 - 37800 : chillax end case - 4850 - 3 : chillax end case 7 : chillax end otherwise : chillax end end

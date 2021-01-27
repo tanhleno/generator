@@ -1,0 +1,1 @@
+program td : bI : takes D, Z : boolean; K, xO20, n, q : integer array returns nothing z5 : integer array; n, I61 : boolean array; pop 17 - 88300 end t : takes X, S : integer; s : boolean array; hvv0a, Kkn : boolean; a, q, H, Z : boolean array; aZ60 : integer returns nothing while - 85 - 6430 : pop; output "q" end; pop end main : pop not false and B; pop end

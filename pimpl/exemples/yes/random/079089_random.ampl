@@ -1,0 +1,1 @@
+program e : main : B : boolean; z, ki1 : integer array; x, n : integer; d, K18 : integer; when case(170) - T and s + true and 06 > - not(6) : chillax end case - true * cf and 3 = (345) : chillax end end

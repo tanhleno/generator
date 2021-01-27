@@ -1,0 +1,1 @@
+program q : y400 : takes T : boolean returns nothing o, gyF : integer array; P : integer; when case not 5 and 4 : while 08500 : pop end; let O = 9 end case - 8 - 78 >= 6 : chillax end case 3 = 4 : while 4 : chillax end end otherwise : while 9840 : chillax end; while 7 : chillax end; pop end end main : j38, mf : boolean array; C : integer; O : boolean; pop false /= z - 2 end

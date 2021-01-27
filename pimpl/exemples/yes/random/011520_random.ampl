@@ -1,0 +1,1 @@
+program K : L : takes O80aa, B, P : boolean array returns nothing while - false : pop end; do m(3 - 430 < 69, 266 = 8) end V : takes w : boolean array returns boolean array chillax end main : M, f : integer; T58 : boolean array; B47a : boolean array; U, N, D : boolean; JZ8a, F, Z : integer array; output 94 / W38 and 67900 end

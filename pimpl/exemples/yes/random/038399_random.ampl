@@ -1,0 +1,1 @@
+program f : iD : takes m : boolean array; Y, lQ7, L : integer returns integer array ru, u, t, w7 : integer array; let N[- i and 9 - 98] = - 0 < 644; let S[- 5] = array - 0; let Ll[16] = 455; pop end main : o1, V, R, P, ND : boolean array; output "" . ""; pop(8) and 38800 - 3 - 0 end

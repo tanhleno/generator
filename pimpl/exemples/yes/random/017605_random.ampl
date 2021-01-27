@@ -1,0 +1,1 @@
+program _ : I : takes a, y7w : boolean; LF : boolean; H, W, y, wV, R : boolean array; u : integer; K : boolean array; M : boolean; ozr, g : boolean returns nothing NAx0a : boolean array; while U and 65 : chillax end; input zN end main : while not true * false and not 6040 and 4 : chillax end; do t(- 1 and 545, 2 and 74 or 0 <= - 09 - 7, - 5 - 67 > 338, 1, 42800, 9) end

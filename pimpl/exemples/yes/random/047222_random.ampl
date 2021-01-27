@@ -1,0 +1,1 @@
+program t : G : takes v28 : boolean returns integer T : integer array; chillax end _ : takes KR : boolean returns boolean array chillax end main : Q8 : boolean; y, W8V, q, i, W : integer array; D, e : boolean array; aY : integer array; D : integer array; let NnW[true] = array - true and 74; pop end

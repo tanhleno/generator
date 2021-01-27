@@ -1,0 +1,1 @@
+program q : _0 : takes h240a, Kq : boolean; E : boolean; I : boolean returns integer Y, e, g, p0, G : boolean array; chillax end y : takes Pr8aa : boolean returns nothing T : integer; chillax end main : let a[true / not dH / S] = array - true and true / 88 - not(1) * false + 4 and 38400 end

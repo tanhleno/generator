@@ -1,0 +1,1 @@
+program HR8 : v4 : takes D, D7 : boolean array returns integer array c77 : boolean; chillax end iI : takes e81 : integer returns nothing L, Fd : boolean array; pop end main : dcy : integer array; output ""; do g(not S6 rem false and 2); let L9 = array - not 47 end

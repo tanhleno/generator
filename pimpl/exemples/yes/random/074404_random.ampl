@@ -1,0 +1,1 @@
+program G4 : main : v6, N9 : boolean; when case not false or false rem 2 or true and 7 /= - true or true : input A[417 - 77]; while 2 = 6 : chillax end end case - not 8 / true and 24 < - true : chillax end case 03 /= 80900 - 3 : chillax end; input nG; pop 95 >= 9; output "J2" . 2090 . 0 end

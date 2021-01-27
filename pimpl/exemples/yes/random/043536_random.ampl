@@ -1,0 +1,1 @@
+program dN10a : _ : takes e0 : boolean array returns nothing chillax end DM : takes j62, B2_0 : integer returns nothing chillax end qOy : takes s2 : integer returns nothing chillax end main : P : boolean; chillax end

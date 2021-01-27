@@ -1,0 +1,1 @@
+program WlA : s19 : takes pQ10, Y860 : integer array; r2L : integer array returns nothing jar : boolean array; chillax end main : i : integer array; E : integer array; r3 : boolean; gsu, Q, C : integer; while - (24) + m / not 49 and 538 <= true rem true and 935 : chillax end; do Pc(not(47) or Z, - true and 6 - 90 - 74500) end

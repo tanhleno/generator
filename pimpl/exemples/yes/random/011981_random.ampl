@@ -1,0 +1,1 @@
+program K : P : takes A, P, U : boolean returns integer p5L : integer; output ""; output 1620; output ""; output 9 . "\"~" end main : Hi : integer; Yp, u, y, k, eZ3 : boolean array; P0m : boolean; P, h, J, M6 : boolean; let H = array - 236 / false * false and 61 + 5 end

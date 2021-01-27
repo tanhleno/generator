@@ -1,0 +1,1 @@
+program Z : u : takes X : integer; O31, G5 : boolean; a : integer returns integer array zq : boolean; chillax end Q : takes l, S : boolean; W9 : boolean array returns nothing chillax end main : when case WdH0a(9) / b[159] and true and 9 : chillax end case(3) >= - false : chillax end otherwise : when case 3 = 03200 : pop end case 52 : pop end end end

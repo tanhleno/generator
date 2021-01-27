@@ -1,0 +1,1 @@
+program FX : main : y : integer array; NX, eX2, M : boolean; output - d8(8590) or(0) and 32 . "" . 4 - 5 < 06 . "" . 01 . "Y$!a" . "\n"; input asr0; when case true and 4 + 5 - 8 : when case 2 : chillax end end case 1 - 9 : chillax end otherwise : when case 9 : chillax end; do N(72) end; while - 60 /= 4 : do hq(6) end end

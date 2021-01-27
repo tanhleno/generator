@@ -1,0 +1,1 @@
+program C : v : takes V, I3Ta : boolean returns boolean array h : boolean; Rq5aa, Wa00a, t : boolean; chillax end V : takes h, Z8 : boolean array; k4 : integer returns nothing v : integer array; Zv : boolean array; pop; output "\"$a" end main : chillax end

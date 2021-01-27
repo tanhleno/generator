@@ -1,0 +1,1 @@
+program UR : Q : takes uN20a : integer array returns integer input mh2a end d : takes k : boolean array; T : boolean; IZ : boolean array; b, k : boolean returns nothing x6, l : integer array; U5 : integer; chillax end main : Ci : boolean; chillax end

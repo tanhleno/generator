@@ -1,0 +1,1 @@
+program C1 : bVt0 : takes r0, wU5, _ : boolean returns nothing while - 83 + 6810 = - 0980 : chillax end end main : WAU, Ym5, u, T : boolean array; g, MB00a, h, wA, WQ, xQ : boolean array; chillax end

@@ -1,0 +1,1 @@
+program p8ea : rt6 : takes hz4aa : integer; B9, L, i : boolean array; O, ps : integer array; FH, A, J, w, exz0 : integer array; P, n7Haa, K, f23aa : integer returns boolean array pop; when case 6 - 1 /= 9050 : chillax end otherwise : output "" end; output "@\n"; output 73; pop end main : chillax end

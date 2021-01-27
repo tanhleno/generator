@@ -1,0 +1,1 @@
+program o : L : takes IVWaa, G, J, z, C : integer array returns nothing chillax end main : q, Y8l, d, q : integer array; let o[- not R[9]] = array - not(3) + 00400; output - not 5 or 8 - 1 >= - 4 . 1 >= 766 end

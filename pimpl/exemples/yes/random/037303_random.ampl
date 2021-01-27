@@ -1,0 +1,1 @@
+program Di : sQ : takes V : boolean; GTraa : integer returns integer while 49900 <= 8 : chillax end; let s8[19700] = 931 = 7; input c end B6 : takes t46, y8, t, q : integer returns nothing chillax end main : chillax end

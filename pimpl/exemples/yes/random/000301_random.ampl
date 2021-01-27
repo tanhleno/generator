@@ -1,0 +1,1 @@
+program F : Rf : takes U, O, hA9a, Hq2, Mp, r, X00aa, i : integer; x43aa, Gxk, t, a9E : boolean returns nothing S8P, D66 : boolean; QM, v67, U, B : boolean array; do p(false <= 73500 - 0) end o : takes s, Sh, nE : integer array; cG : integer returns nothing wG, TJI : boolean; let _[- 5 - 6] = 8 = 225 end main : pop end

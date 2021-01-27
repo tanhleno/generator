@@ -1,0 +1,1 @@
+program y : BN : takes P : integer array; Y : integer; W2, N, V : integer returns boolean array do t(- (0) and 8 or 2, 2 - 5) end main : let t[false] = (56) >= true and 621; output ""; do TW(- true >= - 6) end

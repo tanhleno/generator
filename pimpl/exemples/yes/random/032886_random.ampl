@@ -1,0 +1,1 @@
+program M080a : PZp : takes d, S2 : integer returns nothing V6 : integer; I4 : integer; c3, q47a : integer array; chillax end main : nt : boolean array; input ox50; do s0(- false - not 59 and 6850 - 16 = - (3) and 1) end

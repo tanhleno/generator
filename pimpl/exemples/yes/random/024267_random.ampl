@@ -1,0 +1,1 @@
+program Q75 : EU9 : takes i, o : boolean returns nothing u5, n : boolean; chillax end Si6 : takes q, T7C0a, v : integer; pN, A, n6 : integer; O, b : integer; m : boolean array; ys : integer array returns boolean array iW : integer; chillax end main : h : integer; Vl9 : boolean array; F, L5, D, Z : boolean; chillax end

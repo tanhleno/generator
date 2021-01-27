@@ -1,0 +1,1 @@
+program G : I0 : takes k, r, nJ1, Z : integer array; a, V22 : integer; M : integer array returns nothing input ct[P5 and 0520 - 85400]; pop end main : o3 : integer array; Xf, p, w, On, G, K : boolean; P61aa, Q, If, El9a : integer array; chillax end

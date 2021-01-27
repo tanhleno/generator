@@ -1,0 +1,1 @@
+program m6g0 : pc8 : takes a73aa : integer; A2v, uUMa : boolean; q, N840, v5l0a, CL : boolean array; IFVa : boolean returns integer array while not 7 and 49 /= - 10300 : chillax end; do X2V(32 - 26 >= 3); output "b10"; while 6 : chillax end end main : chillax end

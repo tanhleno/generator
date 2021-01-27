@@ -1,0 +1,1 @@
+program P5 : d7 : takes V : integer array returns nothing when case 3 and 6 >= - 635 : output "}"; when case 1 : chillax end; when case 3 : chillax end end otherwise : pop; input Y end end main : chillax end

@@ -1,0 +1,1 @@
+program noP : vN10a : takes foT0a : integer array; N, H, sn6 : integer returns integer array pop 9 - 5 < 02 end CS : takes A, OTP0a : integer array; R41, SI0aa : integer array; S8W0 : integer array returns nothing oa : integer; g, dX70, Z : integer; E, p : boolean; let m = 520; pop; when case 4 : pop end end main : input ySy[- true * true / (7) and 8 or(5)] end

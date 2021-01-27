@@ -1,0 +1,1 @@
+program As7 : w : takes M : boolean; a, M3R, mA : boolean; AK, ZqEaa : boolean returns boolean while(09) : chillax end; input b[5 - 9]; input UA[848]; input F8saa[5]; while 93600 : chillax end end iP5 : takes n : integer returns nothing pop 36; do i8(704) end main : chillax end

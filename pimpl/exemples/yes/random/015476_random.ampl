@@ -1,0 +1,1 @@
+program Rs : l2 : takes P53, a, oh : integer array returns nothing M : integer; chillax end g : takes P : integer returns boolean VO, LH00, I : boolean array; e : boolean; chillax end a : takes Sx : integer array returns integer X3 : boolean; chillax end main : c6Sa : integer array; pop g and true - (7); pop; input c; input sg end

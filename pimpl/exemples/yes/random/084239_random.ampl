@@ -1,0 +1,1 @@
+program i : main : f : integer; M : integer; qV, l, H, F5 : integer; J130a : boolean; let P[78 * h1(27000)] = true and false - x6 and 50400; output - true - 94 - 8; when case false : chillax end; while 21 - 31 : chillax end; pop 7 end

@@ -1,0 +1,1 @@
+program F820 : y6 : takes V6, O2 : boolean array; _F0, T, U15a, f, V : boolean array; h4, l5 : boolean returns integer e, ekPa : boolean; P7 : boolean array; output 95 - 7 >= 3 . "\n" . 1 . "\"" . "" end main : when case - not 1 : chillax end; when case eDI(1) : chillax end; pop; while - 4 : chillax end end

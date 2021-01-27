@@ -1,0 +1,1 @@
+program I2 : W5 : takes C2g, G51 : boolean array returns boolean array chillax end s3 : takes SW, lv : integer array returns nothing input q[- 9 - 05000] end D660 : takes y2F, L, Gb00a : integer array returns nothing let d8b = 49; output "\t"; while 8 : chillax end end main : chillax end

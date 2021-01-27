@@ -1,0 +1,1 @@
+program P : main : y, pz : integer; while 0 and true * true /= - 39000 - CN and 8 or 55 - 8 : do au9(53, 3, 600); output "((\"a" . "/C"; do K(05, 14); output "" end; let sG0 = - (6) and 39; while(40) and 89 - 6 /= 0680 : let a[8] = 87; pop end end

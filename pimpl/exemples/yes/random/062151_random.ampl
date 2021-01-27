@@ -1,0 +1,1 @@
+program y5Z : V5q : takes C : integer returns boolean array when case w1 or 8 - 24 : when case 04 : chillax end otherwise : chillax end end otherwise : chillax end; while - 77 - 66 /= 2 : chillax end end main : do p8saa(- B6(7) >= (9) / not 7 and 6 + 30, - not false or not 0 and 0090 or 9 - 457 > - true and 68 + 1 - 7) end

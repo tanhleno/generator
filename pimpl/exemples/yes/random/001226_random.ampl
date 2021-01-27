@@ -1,0 +1,1 @@
+program L : u : takes u, Z, iz3, e53, q, s6E0a : boolean array; f6, iT40a, b, Z : integer array returns integer array E, MB3 : boolean; A9, N, _k, _6s : integer; output - 3 = 8 end main : do D(a(4) * N(415) rem 4 < - true, not 23 and not 8 and 98, not 7 and 6600 >= - 6, 7330 - 11, 323 = 2270, 90, 6) end

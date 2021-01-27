@@ -1,0 +1,1 @@
+program t6r : D : takes HN : boolean; Q, LmRa : integer returns integer array k : integer array; JbK, d9 : integer; w4 : boolean array; p, veoa : boolean; OcV : boolean; let o41a = array - T3 - 45700 end main : input W66aa[- (75200 = 1)] end

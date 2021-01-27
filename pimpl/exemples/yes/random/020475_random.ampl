@@ -1,0 +1,1 @@
+program AM : l : takes N, Y : boolean array; jT70a : integer array; y : boolean returns integer array chillax end P : takes Vba : boolean array returns nothing D : integer; I : boolean; chillax end main : do a(- true / not(1) * false or true * (5)); input I1 end

@@ -1,0 +1,1 @@
+program U : main : let R0[- not(57) - 42 + _4 and 7 - 66] = J9s0(21) - false; when case - 0 > false and 1 : when case 164 = 606 : do rg8aa(755) end end otherwise : pop end; when case - not 98 and 66 or 1 < 3 : chillax end otherwise : chillax end; let z = 4 = 85; pop 2; when case 2 : chillax end otherwise : chillax end; pop end

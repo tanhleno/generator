@@ -1,0 +1,1 @@
+program PJq : jB : takes w : boolean array returns nothing Sd : integer; G0 : integer; chillax end main : while not false or true rem not 92 and 4 <= - false : chillax end; while not v or pz and 1 : chillax end end

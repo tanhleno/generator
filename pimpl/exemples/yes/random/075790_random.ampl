@@ -1,0 +1,1 @@
+program w : main : m4xaa, P650 : integer; do J(- not not not 0 / 4810 /= - true or not 6 and 52 or 8930); when case false - (9) and 58 + 457 - 5 : input n; output 97 end; when case 13 or 3 >= 82500 - 2 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program I : main : when case G1 <= - true / not 3 and 0 + false - 8 - 8 : chillax end case - 08800 / true + false + 1 - 08 /= R : chillax end; pop S and 5 = 0 - 710; do H((66200) >= 863, 16 >= 6); when case 7 - 62 : pop end case 6 : chillax end case 31700 : pop end case 1 : chillax end; do K0J0(26 = 713) end

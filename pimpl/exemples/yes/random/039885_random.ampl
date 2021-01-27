@@ -1,0 +1,1 @@
+program k7X : S1 : takes jl : boolean array; u4f0 : boolean array; H : boolean array returns boolean array C : boolean array; chillax end main : let j[- 854 and(23900) rem not 4 and 0 or false + (719) and 29400 or 11] = - true or Y and 81300 > not 0 end

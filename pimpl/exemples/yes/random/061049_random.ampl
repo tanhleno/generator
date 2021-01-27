@@ -1,0 +1,1 @@
+program Ny : E1 : takes ob90a : integer array returns nothing H : integer; let R[- false + 94800] = array(85) and 0; do Ld(0 - 3 > 895, 5); output 9 end main : xZ60a : boolean array; _ : boolean array; n, W, p, W : integer; TU1 : boolean array; Tq, p : boolean array; while not(9) or true : chillax end end

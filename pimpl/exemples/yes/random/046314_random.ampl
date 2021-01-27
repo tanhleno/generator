@@ -1,0 +1,1 @@
+program J : N : takes Xx : boolean returns boolean input Am4aa[false]; input i[262 - 620]; let e[9] = array 9 end main : I : boolean; N, U, A, h : integer array; let fc = array - S(7) - Y / true and 105; when case 3 : chillax end case - false and 0 + 9 : chillax end end

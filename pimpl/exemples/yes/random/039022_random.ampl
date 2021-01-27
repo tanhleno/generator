@@ -1,0 +1,1 @@
+program w : UyAa : takes uIz : boolean array; U, n : integer; z, i : integer; K : integer array returns nothing l9, Kq1aa, XEOa : integer; when case - I and 67 + 84 /= - 3 : chillax end case - 7 : while 0 : chillax end; input Zn1 end case 5 = 03 : chillax end case 9 : pop end; when case 0 - 18 : chillax end end main : chillax end

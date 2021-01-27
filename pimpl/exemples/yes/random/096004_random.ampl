@@ -1,0 +1,1 @@
+program W : main : when case - h + false + 424 : when case 6 : let A = 9; input E0n; pop end case 1 : chillax end case 77 : chillax end case 8290 : chillax end end otherwise : chillax end; output "" . 7 - 35 /= 7 end

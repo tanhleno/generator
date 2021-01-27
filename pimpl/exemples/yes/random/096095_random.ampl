@@ -1,0 +1,1 @@
+program b6 : main : when case - fC0a[9] or not not 1640 /= (8) / U3 and 2 or true and 38 : while - 2710 - 4 >= 2 : pop; input Cn9 end; while 8 : input o; pop end end case true rem 131 and 1 /= not 5 and 0160 : chillax end case false - 56000 : chillax end case 00 : do B(1); output "6wa"; pop end case 1 = 7240 : input Bmq0a; pop end case 21 : pop end end

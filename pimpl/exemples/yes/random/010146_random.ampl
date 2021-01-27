@@ -1,0 +1,1 @@
+program ff : K2 : takes rj4, H, N : boolean array; r : boolean array returns nothing do l(- (8) and 9600 + 25 - 01); input am[3]; while 2 = 3 : chillax end; when case 51 : pop end; let L = 26 end xi : takes t : integer returns boolean input R end main : while true and j(58) * 7 + 581 + 84 > N1 rem false + kc60a and 2 + 3 - 4 : chillax end; output true - 939 < - 8570 end

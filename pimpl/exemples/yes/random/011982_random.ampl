@@ -1,0 +1,1 @@
+program J9 : i36 : takes t, Pw, I : boolean returns integer U : integer array; chillax end g : takes xx, K : boolean returns nothing input Uc90a; input X31[06]; do B(8); while 37300 : chillax end end main : E8c : integer array; _, T : boolean array; chillax end

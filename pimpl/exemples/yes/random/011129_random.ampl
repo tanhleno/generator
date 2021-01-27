@@ -1,0 +1,1 @@
+program _x : c8_ : takes o, X0, D : boolean array returns nothing do h(- r and 58, 857 - 3990, 5630) end main : G, w4, v : integer; b, o, b : boolean; A : boolean array; A : boolean; Q4P0a : boolean array; P : boolean; chillax end

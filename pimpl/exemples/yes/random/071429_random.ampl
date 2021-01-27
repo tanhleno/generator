@@ -1,0 +1,1 @@
+program p : main : d, p, T5 : boolean array; nW80, hW, Ol : boolean array; s, ECF : boolean; L, r : integer array; while - true <= true or(85) : input f71; output 63; output "" . "}@\"a" end; while - true > - true : input Exh0a end end

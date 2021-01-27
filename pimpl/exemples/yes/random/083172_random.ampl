@@ -1,0 +1,1 @@
+program e : main : l9 : integer; bm, v5, t, Ks, N : integer; j0 : boolean array; when case - false + (6) : while 4 >= 46 : pop end end case false / true : let A67a = array 4 end otherwise : pop 5; while 64 : pop end; let M16a = 4; when case 883 : chillax end end; output - (9) + 8 - 95700 /= 6 - 0 . ",*" end

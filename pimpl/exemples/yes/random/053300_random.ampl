@@ -1,0 +1,1 @@
+program Fp : O5 : takes O : integer; j : integer returns nothing YB7, l97 : integer array; m, H, b4 : integer; while - UU or 635 - 685 < - 5 - 2 : chillax end; when case - 563 : chillax end case 9 : output ""; pop end case 9 : chillax end; do H5r(04); while 6 : pop end; input P; let Vw50 = 3 end main : C, HuO : boolean array; chillax end

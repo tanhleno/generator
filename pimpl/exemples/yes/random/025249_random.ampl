@@ -1,0 +1,1 @@
+program t : h : takes A, Fp2 : integer; d, mNN, Uo : boolean array returns nothing B : boolean; chillax end rf : takes Q5V0, e0e, z : integer array returns boolean array t : integer; chillax end main : Y79, KR3, p, D5g : integer; Nl : integer array; M5f : integer array; while - false + not 29 rem false : chillax end end

@@ -1,0 +1,1 @@
+program k : D : takes V7 : boolean array; k : integer array returns boolean v94a, hAy0 : boolean; pop - 66400 <= 5 end U : takes N9, lj : boolean array; P, W : boolean array returns boolean z, X : integer; chillax end main : I, W : boolean; do HAZ(- false - 5 rem not 62 and 47 or 7540 + 988 - 070 <= - not false); do m(true < - true and 68, - 043 < - 005 - 03, 56 - 449 >= 3) end

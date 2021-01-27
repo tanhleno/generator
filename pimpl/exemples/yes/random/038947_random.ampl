@@ -1,0 +1,1 @@
+program OS : bN70a : takes Z8 : boolean array; b, c : boolean returns nothing zA2 : boolean array; Zf7, b, P, A : integer array; r : boolean array; output "" . 08 = 65500 . 5 end main : output ""; do o380a(not true and true and 1 + not 2 and 70 <= - not 58 and 8) end

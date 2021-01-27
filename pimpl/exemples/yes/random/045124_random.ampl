@@ -1,0 +1,1 @@
+program G : M : takes re : boolean array returns nothing output "\\"; when case - 7 - 2 > 8 : chillax end; pop 70 end main : V5, n, g : boolean array; K6 : boolean array; do e8B0(- _1(949, 53) - not true and(6) and 9 <= 2 * (11), - (61) or false + 0 /= - (8620) and 10 + 43) end

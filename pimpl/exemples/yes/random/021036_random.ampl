@@ -1,0 +1,1 @@
+program D : y8 : takes B0, R : boolean array returns boolean chillax end Na : takes p0 : integer array; p : boolean array; p : integer; dk2 : boolean array; l : integer returns nothing while 273 - 6 = 4 : chillax end; input Rr8a end main : chillax end

@@ -1,0 +1,1 @@
+program a : r : takes xBVaa : integer array returns boolean array B770, k, xH : boolean; chillax end main : CBv, b5c, v, R6eaa : integer; let u = not z15a / not 23; input s[(08) rem true or true and 6 or 98 - 6] end

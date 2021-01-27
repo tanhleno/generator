@@ -1,0 +1,1 @@
+program po60 : L93 : takes q6 : integer array; Pj0 : boolean returns nothing chillax end m41a : takes n, v : boolean array; V : integer array; i, UyF : boolean array; zc : boolean array; Wje, f : integer array; ep6aa : boolean; Y56 : boolean returns integer array j : boolean array; while - 1 - 839 <= 00 : chillax end; output 4 . 474 end main : chillax end

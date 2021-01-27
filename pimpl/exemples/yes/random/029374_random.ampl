@@ -1,0 +1,1 @@
+program _ : mN : takes R, p : integer array returns boolean array Bd90 : integer; when case - true or 4 <= 32 : while 4 : pop end; pop; let FB = 96; pop end case 5 - 09 : input L end; do _(- 4 - 88 >= 8, 31) end j72 : takes O2, o, MWH : boolean array returns boolean N, HUy0, E : boolean; output ""; pop end main : U, Hs, r : boolean; chillax end

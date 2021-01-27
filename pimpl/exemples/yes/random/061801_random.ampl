@@ -1,0 +1,1 @@
+program F : N89 : takes hIv0 : integer returns boolean array do y(wL5 and 72400); pop 0 = 2 end L : takes UG6 : boolean array; F6qaa, d0Vaa, V : boolean array returns boolean array V2 : integer array; do x(18 - 8) end main : chillax end

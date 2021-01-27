@@ -1,0 +1,1 @@
+program k : d : takes L7 : integer returns boolean e : boolean; while true and 8 or 49 - 6 < 5 : pop 28 end; let AC4a = array - 75 - 06; input ej[5760]; while 16 : pop end; while 2 : chillax end end main : fB : integer array; M, V, y1, VPS, wY, f0 : integer; pop; when case not 67 or false - 05500 - 34000 <= - false : chillax end; output - 5 - 5 > 51500 end

@@ -1,0 +1,1 @@
+program g : f73 : takes lh3aa, R : boolean; KM00, i, Wq00, v2, y, l : boolean returns nothing chillax end main : a, q : integer; A : integer; K9 : boolean array; output - not X + not 8 + 0 - 95; pop end

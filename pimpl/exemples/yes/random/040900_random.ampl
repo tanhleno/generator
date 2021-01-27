@@ -1,0 +1,1 @@
+program ZL : kP7a : takes q : boolean array; j : integer array; M : boolean returns nothing OO : integer; k : integer; pop end e : takes _ : boolean array; b70a : boolean returns integer chillax end main : chillax end

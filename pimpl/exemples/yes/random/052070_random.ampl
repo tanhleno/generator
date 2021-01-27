@@ -1,0 +1,1 @@
+program p : AB00 : takes C : integer; R0 : boolean array returns nothing LHia : integer; j : integer; a : integer array; n16, q : boolean; L : boolean; M : boolean; chillax end main : D : integer array; bcQ : integer; p : boolean array; output "" . "\t" . "@" end

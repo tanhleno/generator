@@ -1,0 +1,1 @@
+program w : sB8 : takes K3, JoK : integer returns integer array yj, F3, d1, S9, N : integer; jk6 : boolean; Q, y, F4 : integer array; hV, U : boolean; output - 8; while 7 > 45 : chillax end end gju0 : takes O, z : boolean array; xr : boolean array; R2, R : boolean; J, t : boolean returns integer N7, Lq : integer; Ia3 : integer array; chillax end main : chillax end

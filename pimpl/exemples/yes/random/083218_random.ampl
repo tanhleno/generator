@@ -1,0 +1,1 @@
+program Ry : main : U0 : integer; Hy, N16, S7P, m : boolean array; z3, W, Z, B58 : integer; H, V7oaa : integer array; b, P : integer; when case - true + false - false and 74 : output 519 end case De(82) : while 5 : chillax end end otherwise : chillax end; do g8q(- g32 * Y and 0 + (94) and 320 or 5 > - false and 4 - 324, - 2 and 0 or 8 = 24000, 419 >= 57) end

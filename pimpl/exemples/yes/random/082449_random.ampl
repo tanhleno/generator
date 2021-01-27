@@ -1,0 +1,1 @@
+program M : main : P440a : boolean array; output - O . - not 3 and 02 . 11 < 424 . "\""; while lz and not 58 or(539) and 5 + 76 >= D : chillax end; input q[true]; input u1[- 9]; when case 4 = 1 : chillax end otherwise : pop end end

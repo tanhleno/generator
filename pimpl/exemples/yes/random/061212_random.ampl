@@ -1,0 +1,1 @@
+program n : H : takes S : integer array returns nothing input Z; let AY4[91] = array 84; when case 4 : chillax end case 82700 : pop end case 3 : chillax end end main : h : boolean; kAI, s : integer array; while not a /= - 55300 * (07) : pop end; output - false - 58 . 7 - 5 end

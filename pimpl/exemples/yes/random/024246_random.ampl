@@ -1,0 +1,1 @@
+program w : _j90a : takes T, x : boolean returns nothing n, UJ, x : integer; chillax end main : EX : boolean array; Y, t : integer array; when case t31aa * (9) < 36 + not 5 and 5 : chillax end otherwise : chillax end end

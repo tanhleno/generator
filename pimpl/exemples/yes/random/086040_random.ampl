@@ -1,0 +1,1 @@
+program v : main : DW : integer array; J, y : boolean array; Ru, B, t5Z, s : boolean; q : boolean; z : integer array; gj, c3y : boolean; M7T : boolean; j : boolean; while - J[4] and not not 45 / 61 or 67 <= not true : output 3 . 6 . "vAaa" end; pop end

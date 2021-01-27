@@ -1,0 +1,1 @@
+program q8 : F : takes s : boolean array; Y : boolean; H0 : integer array; Jg : integer returns boolean array _R, w6, F : integer; i : integer array; chillax end S : takes K, Y55, G, jd9 : boolean returns nothing when case 8 = 00 : chillax end end main : faC : boolean; chillax end

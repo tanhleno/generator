@@ -1,0 +1,1 @@
+program u : db : takes S6 : integer array returns nothing WI, anM0a : integer; JY : integer array; e59 : boolean; let e3 = array true + 89 - 3 end main : T : boolean; x : integer array; dk, aa : boolean; LW : boolean array; k : integer array; s, N : boolean; chillax end

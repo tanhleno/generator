@@ -1,0 +1,1 @@
+program u_ : f0 : takes f : boolean; q, H5 : integer; VhV0 : integer; e, p, d : integer array returns integer array D : integer array; chillax end y : takes Nv, ob : integer returns nothing output "Pc" end main : n : boolean array; X, t : integer; let i1v0a = array - false + not true and true end

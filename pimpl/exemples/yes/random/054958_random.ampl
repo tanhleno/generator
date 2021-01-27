@@ -1,0 +1,1 @@
+program G : T : takes Fu7 : integer array; s5e, y5 : integer; v, V : integer array returns boolean r2, m, X : boolean array; V2Ca : boolean; chillax end main : x, I, a3 : integer; do j(- not not false <= false); input D[- X[887] + false and 77000] end

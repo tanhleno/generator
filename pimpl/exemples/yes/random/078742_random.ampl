@@ -1,0 +1,1 @@
+program jM1 : main : j7 : boolean; V1, L, F : integer array; D : integer array; when case - not not not 3 or Fm(4) and Y + (372) and 82 : while 79 : input n; while 72 : chillax end end; input I end case(4) : output "\"" . "_D" end otherwise : chillax end end

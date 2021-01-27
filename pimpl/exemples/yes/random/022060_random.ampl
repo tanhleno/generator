@@ -1,0 +1,1 @@
+program u : C : takes d, D : boolean array returns nothing chillax end main : while - true * not 5 rem(7) and 0 : chillax end; let n = not 372 and 5 + 050 = - 0; output 3; pop 53 = 989; output 0 . 11 . ""; do _(4, 2); let N = 4060 end

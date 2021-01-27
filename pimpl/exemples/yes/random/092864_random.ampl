@@ -1,0 +1,1 @@
+program _r6 : main : output "6" . - (80900) or 01 = 112; while - false or not 2240 and 292 or 1 /= (17300) and 5 or 6 : input R; output "" . ""; when case 27 : chillax end end; when case(194) > 34 - 34 : do B210(9, 1) end case - 6 - 158 : when case 79 : chillax end end case 6 : while 551 : chillax end end case 78200 : pop end case 7060 : chillax end end

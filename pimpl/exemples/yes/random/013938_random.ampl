@@ -1,0 +1,1 @@
+program q_z : F : takes w5, SD1a, xc : integer array; OL20a, G : boolean array returns integer v9, H9, k : boolean array; L, n : boolean; DG0 : integer array; YcO : boolean; input m end main : C, z21aa, R7r : boolean array; pop end

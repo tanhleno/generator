@@ -1,0 +1,1 @@
+program o7 : aon : takes Jh90, G, K, w : boolean returns boolean V : integer array; S, u : boolean; chillax end main : O, W8_, Zi7, M : boolean array; while - not not false * true and sd60a - N * false - false and 347 = - (89) : chillax end; let Q = array 215 - not 3; let o = array(4) - 08 - 835 end

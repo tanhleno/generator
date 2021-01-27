@@ -1,0 +1,1 @@
+program w : K67 : takes Gu10 : boolean returns nothing output "" . 14 = 3060 end main : N, _o : boolean; pv7, NV : integer array; do T(9 or false + 2 or 72 >= 1 or rKA and 7520); when case - 79500 > - not 38 and 804 : chillax end otherwise : chillax end end

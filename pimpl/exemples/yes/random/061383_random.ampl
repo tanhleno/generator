@@ -1,0 +1,1 @@
+program gMA : p : takes lN : integer array returns nothing output 58 - 3 > 0 end ob : takes R : integer array; j370 : integer array; K1, q : boolean; Z14, gM, W : boolean returns nothing M2 : boolean array; chillax end t9Baa : takes fE : integer array; T : integer array; K_A : integer array returns nothing output "" . "\\" end main : output "" . "\"" . - 78 - 2 end

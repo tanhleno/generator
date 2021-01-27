@@ -1,0 +1,1 @@
+program m : M : takes oU5, _, Xa4aa : integer array returns boolean array chillax end Q4 : takes E : integer; A : integer; n, Q7o : integer returns nothing chillax end main : let UCL[(0)] = (3) >= - 78 and 0 end

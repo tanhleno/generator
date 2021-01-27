@@ -1,0 +1,1 @@
+program VB : Y : takes j2 : boolean array returns nothing J : boolean; i : integer array; do w(- not 80 + 0 <= 72, 52 - 98 = 7, 643 = 93, 19); output "K" . "" end main : M0, j : boolean array; KT : integer array; let U = - (8) / false end

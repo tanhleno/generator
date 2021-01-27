@@ -1,0 +1,1 @@
+program wl : KQ20a : takes a, d, Sr00 : integer array; Q8j0 : boolean array; H5d : boolean array; yq, uc, y32, d : boolean array; O : boolean returns nothing v22, E7 : boolean array; q : boolean array; output 0030 = 275 end main : chillax end

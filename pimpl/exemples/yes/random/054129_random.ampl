@@ -1,0 +1,1 @@
+program q7 : E : takes k : integer array; PC, KD, P : integer; b, BCS, y : integer array; U69 : integer array; A, T, c, xD : integer array returns boolean array chillax end M : takes Z7_ : integer; O2, k_m0a : integer returns nothing output "D" end main : chillax end

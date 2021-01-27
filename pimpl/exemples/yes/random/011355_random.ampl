@@ -1,0 +1,1 @@
+program S5 : Q : takes O, pwj, m3 : boolean array returns nothing o : boolean array; output - 28300 - 8510 . 0 . 5; while 9070 : chillax end end main : qn, l7N0, U44 : boolean; when case false : do t(- 2 - 3, 42); do B(3 = 32, 4, 6) end case not false * true and 2 > - (24) and 554 : chillax end otherwise : chillax end end

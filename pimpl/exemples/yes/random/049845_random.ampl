@@ -1,0 +1,1 @@
+program gF : M : takes y : integer; go, j, X1 : boolean array; An30, md : integer; I : boolean; c, sa : boolean returns integer let N7 = 5 end main : do _(- not 1 / false rem true and 2 or 96800 * 9 and 533 - not 71 or 8 - 9 = - not false - true + 9, false * true /= - true and 3 or 1) end

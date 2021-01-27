@@ -1,0 +1,1 @@
+program U : n05a : takes k, lR8a : integer returns nothing m99a, i : integer; while - (7) and 0 or 5 /= 35 : let cf = 3 end end M : takes Or : integer; N01 : integer array returns integer array chillax end S : takes L, E, K46, JM : integer returns integer array vlt : integer array; chillax end main : H : boolean; kGt : integer array; l : boolean; do f(WT[33] and false) end

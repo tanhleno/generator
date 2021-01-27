@@ -1,0 +1,1 @@
+program H : p : takes Z5 : integer array returns boolean array while(101) and 2 - 8 - 3 <= 2 : pop 19; when case 2 : chillax end; when case 8780 : chillax end; pop end; let EDDaa = 63700 = 3670 end h : takes n, Le, Q, Y, X2, E : integer array returns nothing w : boolean; chillax end main : M, E9, O5g0a, Gz90, ak80a, i, Ip : boolean; output ""; output "" end

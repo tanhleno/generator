@@ -1,0 +1,1 @@
+program p : NZZa : takes r : boolean array; F, y, e9B0 : boolean; x, y_, M : boolean; L6p, A, RG40a : integer; LZ4a : boolean array; K : boolean array; p : boolean returns boolean chillax end main : let T[- 72500 or not true rem false and 481 + true and 843 or 2] = array true + not 50 end

@@ -1,0 +1,1 @@
+program j : main : s : integer; U1 : integer array; _, aB, U : boolean array; when case f[1] + 5 / false : do g(- 66 - 9, 3, 9) end; when case - B(772) * (9) and 5 : chillax end case - false and 0 or 5 <= - 2 - 31 : chillax end case - 3 - 7 /= 615 : chillax end otherwise : chillax end end

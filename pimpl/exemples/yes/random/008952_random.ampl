@@ -1,0 +1,1 @@
+program m0H : N8 : takes rdf0a, I, Rf : boolean; E : boolean; y, c, IGA0, sw, liJa : integer array; Q : integer; p : integer array returns integer array D8r0 : integer; chillax end main : chillax end

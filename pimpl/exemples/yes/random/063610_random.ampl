@@ -1,0 +1,1 @@
+program Jpsaa : GC : takes a1 : integer returns integer while(6) and 9 : do M(8200, 54) end end main : LV0aa, xCha : integer; v, t55 : boolean array; uu40a : boolean array; R : integer array; when case - (276) + not true * 21000 and 51500 - true : chillax end end

@@ -1,0 +1,1 @@
+program T : BZ30a : takes E : boolean array; A, F : integer returns nothing t, m7, u : boolean array; p : boolean; zf, w, Ui4a : integer; chillax end main : e : integer array; P8 : integer array; input qz[(13 = 07600) / (87) - true rem 95 + (7) - 31 - 11] end

@@ -1,0 +1,1 @@
+program N55 : main : RRx : integer array; while - false * true + true and Tlu and 4 : when case 09 - 6630 >= 257 : input _ end case 6 = 3 : chillax end case 7260 : pop end case 89 : chillax end; do B_p(3830 = 063); when case 1 : pop end end; let d = array - 6 end

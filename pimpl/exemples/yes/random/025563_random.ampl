@@ -1,0 +1,1 @@
+program n : d : takes S8S, L : integer; w, N : boolean array returns integer array t : integer array; chillax end main : qlg : boolean array; y : integer; while - not(762) * R8ma(2) * 84 : chillax end; while iJl0a[3] : chillax end end

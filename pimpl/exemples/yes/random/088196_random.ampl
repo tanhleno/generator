@@ -1,0 +1,1 @@
+program v : main : input S5; when case 27 or true + 4 - 3 /= - true and 824 - 45 : while 6820 = 9 : chillax end; output ""; pop end otherwise : pop 66; output ""; when case 0 : chillax end; pop end; output - 163 - 234 < 8 . 0 = 832 end

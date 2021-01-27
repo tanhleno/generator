@@ -1,0 +1,1 @@
+program Rk : a : takes v, C : integer array returns boolean when case false and 4 + 1110 - 9 : chillax end; output "" end Dm : takes krO, d, UR9 : boolean; A6 : integer returns nothing output 537 = 7 end main : when case not 78 : chillax end otherwise : do PB(8 = 161, 7250, 2); do OO(17); let M = 1; when case 3 : chillax end; pop end end

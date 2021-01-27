@@ -1,0 +1,1 @@
+program B : main : output "" . false or 01800 - 07; input i; when case - (0) and 60800 - 1 <= 1 - 1 : when case 50 : pop end otherwise : chillax end end otherwise : chillax end; while - 42 <= 377 : chillax end end

@@ -1,0 +1,1 @@
+program X8 : OTz : takes bL5 : integer returns boolean pop; do ci(- 5 /= 978) end Yv : takes w60aa : integer array returns nothing kP5aa, p1s0a : integer array; do W8(908, 7 = 9, 32, 89) end main : do l(- (3 = 866) rem false and 931 - false and not 9 >= true, false or 42800 and 5 = - (4), false = 6 - 6) end

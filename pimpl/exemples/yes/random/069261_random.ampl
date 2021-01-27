@@ -1,0 +1,1 @@
+program Yp : main : H, W, Y, wjCa, QSLa : integer array; J : boolean array; let nOQa = - ds7aa[5] rem 8 - false or 219 = 0 and 7; do U(29); while false and 9 - 9860 - 69700 > - 6 : output 3 . "'4!" end end

@@ -1,0 +1,1 @@
+program L26 : l6 : takes I, K9 : integer returns boolean chillax end main : while - false + true < false or true and 01 : input h860[- 04 - 59]; do d8(1); when case 6030 : pop end case 0 : chillax end; while 85 : chillax end end; while - Y(68) < (7) and 652 + 0 - 39 : let R = 5820; while 111 : pop end; let b = 7; do z5(40) end end

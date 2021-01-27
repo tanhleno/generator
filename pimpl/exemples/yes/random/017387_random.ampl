@@ -1,0 +1,1 @@
+program R7 : P : takes O, Z : boolean; w, bB : integer; oB, Wl : integer array; d : integer returns nothing OU2a : integer array; u3 : boolean array; W5 : integer; RH8 : boolean; input npqa; input vnYaa[95 - 6] end main : chillax end

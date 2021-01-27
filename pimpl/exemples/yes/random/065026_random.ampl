@@ -1,0 +1,1 @@
+program J : I : takes n710 : integer returns nothing G : integer array; chillax end xg : takes M, Ur, P8, w2, C9 : boolean array returns nothing do _r(- 8 - 7 < 4, 050, 11800, 47); let M = 7120 end main : output ""; pop end

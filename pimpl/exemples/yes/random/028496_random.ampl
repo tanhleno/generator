@@ -1,0 +1,1 @@
+program T : w110a : takes _Q, r : integer array; P : boolean returns boolean array chillax end fh : takes D70a, C, IF7aa, m1B, g4 : boolean array returns nothing chillax end main : Co, m : boolean array; chillax end

@@ -1,0 +1,1 @@
+program tZ90a : main : f4 : integer; l : integer; _p : boolean; v, GN2, vM, IDW : integer array; output - not true and true and 42 + false; let z = array true and not 1 and 3 or 6 and 8; output 5 > 6 end

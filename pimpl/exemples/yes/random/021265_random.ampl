@@ -1,0 +1,1 @@
+program KG7 : pa : takes O, k : boolean array returns integer array chillax end j : takes x, H : boolean returns nothing pop end iVB : takes E, k09, c3Qa : boolean array; U, yt40, W2 : boolean; rZ : boolean; e : boolean array; Mmma, U : boolean returns nothing o2, Zx : boolean array; chillax end main : T : boolean; chillax end

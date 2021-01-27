@@ -1,0 +1,1 @@
+program i : main : while - 30 * 18 + (791) and not 34 and 7 + A3 and 3 : do D(91200 - 1870, 1 = 0); pop; do r91(9, 6410); pop; while 7 : chillax end end; while true * OU and 18200 or not 62 : chillax end end

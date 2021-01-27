@@ -1,0 +1,1 @@
+program qe : EL : takes sSx, o : boolean returns integer array do y(107 and 6040 = - 0 - 06, - 86); while - 36 - 5 : when case 1 : chillax end; while 95 : chillax end; pop end end main : k : integer array; N2U : integer; V, A : boolean array; p, N : integer; chillax end

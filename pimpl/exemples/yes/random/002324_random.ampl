@@ -1,0 +1,1 @@
+program y : S9 : takes g6, Y, _Ip, Y, gsr0 : boolean; g : integer array; e : boolean array returns boolean array B4 : integer; let g = array not 2 - 61200 end main : vHG0 : integer array; input D0; do B(86500) end

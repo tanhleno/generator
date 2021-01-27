@@ -1,0 +1,1 @@
+program H : main : while true : chillax end; when case not 23900 / true > - (0) - 84 - 4 : chillax end case x - 5 : chillax end case - 47 = 78600 : while 34 : chillax end end; let kW50[79] = - 004; let A = 64700 end

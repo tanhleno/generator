@@ -1,0 +1,1 @@
+program E8U0a : L0 : takes n97, K5 : integer array; A5Ha, r590a : integer array returns nothing n : integer array; F, O5x, U : boolean; while - (426) or 0 - 4280 : chillax end end main : pop M00[3] > true and 46; pop; while - not 35 and 4 - 9 - 1 : chillax end end

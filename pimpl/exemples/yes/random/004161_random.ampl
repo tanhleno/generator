@@ -1,0 +1,1 @@
+program kx : m : takes f4, z5, MO, W4, X0P : integer returns nothing when case not 3 : output 4 end end s : takes S : boolean array returns nothing chillax end P : takes q00, _ : integer; M2, b : integer array returns nothing chillax end main : let XzJ0[- false] = true and true - true and 54 + 72; pop end

@@ -1,0 +1,1 @@
+program H : K : takes Sg : integer returns nothing j57a : boolean; n : integer array; u : boolean array; while - false > 027 - 469 : pop end end x3 : takes B : boolean returns nothing chillax end main : GH : boolean; chillax end

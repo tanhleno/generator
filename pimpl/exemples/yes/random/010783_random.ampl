@@ -1,0 +1,1 @@
+program ro_ : M : takes n48a, IN, y3a : boolean array returns integer array chillax end b490 : takes Z : boolean array returns integer array pop 1 = 7; while 46 = 1 : input K1; pop end; output "s" . ""; let Dw5a = 066 end main : byr0a : boolean; while - false and E45aa(0) * not 2 and 3 : chillax end; while F or(63) and 8330 : chillax end end

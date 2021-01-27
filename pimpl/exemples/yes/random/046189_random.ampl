@@ -1,0 +1,1 @@
+program n : f : takes X : boolean returns boolean _140 : boolean; o4 : boolean; chillax end main : while K(249) or true / false or false and 9 /= - 7 * Q71 - not 5 : while - 8 - 2 : chillax end end; let H = array true / 55 and 5; do P8(- O - 9 - 43, - 2); do x(774 - 6 <= 18900, 2, 73500, 6) end

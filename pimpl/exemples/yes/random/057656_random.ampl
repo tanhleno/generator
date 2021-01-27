@@ -1,0 +1,1 @@
+program Y : H : takes SO : integer array returns boolean array chillax end main : while - false rem not true rem 8 >= 6 or not 5 or 6 - 9 : output 8 . "{" . "\\"; when case 862 = 990 : chillax end; pop 9; when case 60 : chillax end end end

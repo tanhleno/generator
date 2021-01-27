@@ -1,0 +1,1 @@
+program f : Az : takes Vr80 : boolean array; m6C, Td, k, k : integer returns nothing z7T : boolean; a0R, M : boolean; iwk0 : integer; X, JS : boolean; _0j : boolean; B : boolean; chillax end main : P : boolean; chillax end

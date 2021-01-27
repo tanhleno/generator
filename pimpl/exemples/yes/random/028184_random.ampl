@@ -1,0 +1,1 @@
+program J : O : takes qq, Y : integer array; I8 : boolean; f : boolean returns boolean output "2" . 4 . 49 . ""; while - 484 : while 26 : chillax end; pop; pop end end main : P, xdYaa, g : integer; e9, G, fnb0, F : boolean; chillax end

@@ -1,0 +1,1 @@
+program T : j : takes CK_ : boolean; w, hT, Uwi, g : boolean array returns boolean array XM : boolean; Q, O : boolean; chillax end I : takes m, s80 : boolean returns boolean while 3 : chillax end end NzE : takes z, e : integer array returns integer chillax end main : chillax end

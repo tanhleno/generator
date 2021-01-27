@@ -1,0 +1,1 @@
+program L42 : main : n : integer array; y : integer array; output - true and 1960 and 0 > not 662 - 78 - 3 . false and 9 + 15400 - 9 >= 5 . ""; when case - 79600 / (1) or true : output 36 end case - (3) - 4 - 6730 : when case 804 : chillax end; do s5(2) end; do m(true and 4 - 0010 - 54, - 26200 - 6, 045 = 8860); let tM10a = 8; do p(49) end

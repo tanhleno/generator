@@ -1,0 +1,1 @@
+program K : w : takes k : boolean; e : boolean; IM, y, R : integer array returns nothing z4 : boolean; J, a : boolean; chillax end O : takes o : boolean returns nothing R, Zi, M : boolean array; chillax end main : g46a, a, U2f0 : boolean; E56, m2, z : boolean; output "" . "" . "Q"; pop; input t16[- e7 and 7] end

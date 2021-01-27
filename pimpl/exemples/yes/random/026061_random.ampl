@@ -1,0 +1,1 @@
+program i : Z : takes P, Fkv : integer; L : boolean; D : boolean; j, V : integer array; C36 : boolean; E4 : integer returns nothing let oa[- false and 3 - 1130 - 1] = 6 - 25 /= 974 end main : output "" . "6"; pop - (192) + 540 = 137; when case false and 02 : chillax end otherwise : chillax end end

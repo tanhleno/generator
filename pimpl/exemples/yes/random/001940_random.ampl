@@ -1,0 +1,1 @@
+program w25a : v : takes K, _6, p, x, rN, f : integer array returns nothing Pe, g, rP2 : boolean; pop; let RJ = array 3; do r(5690, 3, 77) end main : n6 : integer array; E7, O, LUIa, p9U, Fv : integer; k, v : integer; chillax end

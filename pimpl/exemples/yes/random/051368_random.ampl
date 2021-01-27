@@ -1,0 +1,1 @@
+program J : bc : takes b : integer; m6D : boolean; a, R : boolean; z : boolean array; T : integer array returns boolean array pop; pop 4 = 8 end Z1J0a : takes R8S : integer returns nothing chillax end main : chillax end

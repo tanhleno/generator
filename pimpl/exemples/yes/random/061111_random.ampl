@@ -1,0 +1,1 @@
+program Z4 : M : takes I7O : integer array returns nothing Q7qa : integer array; D59, S, DO, i : integer array; x : integer array; y4 : boolean; W : boolean; RA0 : boolean; do I(not 75, 83 - 41 <= 8) end main : T, o : boolean; D, kl : integer; do Z(- false and uf(09100) = false / 5 and 35 - 671 and 9, - T(9) * (6) /= false) end

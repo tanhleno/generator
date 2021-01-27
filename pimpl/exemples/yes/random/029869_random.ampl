@@ -1,0 +1,1 @@
+program T : a34 : takes U, vn : integer array returns integer array input R; while - 7 - 1 /= 09 : while 90 : chillax end end end main : Vjra : integer; i, X, iy, N : boolean; r : boolean array; do Z(- (20 = 786) <= - (4), - 2 - (0), 3 and 4, - 4 >= 7, 6, 3, 0) end

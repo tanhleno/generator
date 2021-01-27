@@ -1,0 +1,1 @@
+program m : Y : takes LX, S, SS, N, L : boolean; F, W, XX1 : integer returns nothing chillax end main : pop; pop; while - false - 573 - 9 >= - 3 : input v end; output 47; input vD; input rU0aa[70] end

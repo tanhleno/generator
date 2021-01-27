@@ -1,0 +1,1 @@
+program U : L : takes s84 : integer array returns boolean M : boolean array; D4g, YO : boolean array; LK6aa, V, nh : integer array; chillax end main : when case V(9, 08) < not g : chillax end; let C = array - not L24 or false and 42 or 335 - 76; input i[7 or 83] end

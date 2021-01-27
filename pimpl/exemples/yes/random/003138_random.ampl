@@ -1,0 +1,1 @@
+program ST : HV : takes p, C58, jzq, cYR, de : integer; S, W2, X : boolean array; bU9, IS9, J : integer array; a, m : boolean; p : boolean; J, DH7 : boolean returns integer array c : integer; a : boolean; output "" end D97 : takes E, p : boolean array returns nothing do r(0 - 1 = 7) end main : chillax end

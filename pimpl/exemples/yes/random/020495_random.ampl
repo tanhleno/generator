@@ -1,0 +1,1 @@
+program _ : V56 : takes b, R : boolean array; Y : integer array; F : integer array; grv : integer array returns nothing w35, F, Z6, L : integer; O : integer; while - 9 and 6 : chillax end; let a1[0] = 1 end main : ay, v16, Jj, slV : boolean; pop - (24) /= false - 1; output "" . - 5 >= 79 end

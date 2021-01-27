@@ -1,0 +1,1 @@
+program vX3 : main : let A3[- true - true] = false and false and 96 = - true - 918 - 4; pop - not 1 = 781; when case - true or 6 - 25200 : chillax end otherwise : pop; when case 0 : chillax end end; while 873 <= 75 : chillax end; output "f"; let n = 15 end

@@ -1,0 +1,1 @@
+program Lt50 : lo4a : takes E : integer array; v4 : integer array; J, B : boolean returns nothing zata : integer array; P, e : boolean array; m6, c25aa : boolean; chillax end main : output(4) and true - P210a <= - not 38 and 1 + 473 - 7220 . - not 9 or 3900 - 51 end

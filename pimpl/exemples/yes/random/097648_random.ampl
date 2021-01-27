@@ -1,0 +1,1 @@
+program e : main : when case true > true rem(83) : output "" end case not t6 rem not 40000 : chillax end otherwise : chillax end; output ">"; output - 9 - 46; let S7j = array - 2 - 0; do g(26 = 47, 448); input r90 end

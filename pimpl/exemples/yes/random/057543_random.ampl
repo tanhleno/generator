@@ -1,0 +1,1 @@
+program upnaa : U : takes D57 : integer array; H : integer returns nothing input iX70; let a[1] = array - 6 - 938; while 7 : chillax end end M : takes iT8aa, Et : integer array returns nothing do j(- 342, 64, 7) end main : chillax end

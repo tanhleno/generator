@@ -1,0 +1,1 @@
+program ro8aa : r : takes p : integer array returns nothing Io : boolean; chillax end y : takes w, T, y : integer returns nothing x : boolean; wY : integer; e, V93 : boolean; chillax end main : stPa, c : integer array; p, A0ka, K : boolean array; chillax end

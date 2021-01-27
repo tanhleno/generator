@@ -1,0 +1,1 @@
+program c : V : takes c, F, cBB, v1, LC : integer; xSc : integer returns integer j : boolean; v3m : boolean array; chillax end main : rI6 : integer array; R, s : integer; let ywL[- d(30) * true rem 7 and 632 or false rem false + not 46] = array - 2 - not 97 or 88900 end

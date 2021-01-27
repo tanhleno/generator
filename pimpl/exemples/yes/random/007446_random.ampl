@@ -1,0 +1,1 @@
+program n : x : takes I, ELP, U, w : integer array returns boolean chillax end main : Y9z, J : integer array; SQ8, ip : integer array; let h = array - (7 = 12600) / 511 and true and 1490 - R(0) * true and 658 end

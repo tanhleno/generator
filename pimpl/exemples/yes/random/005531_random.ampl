@@ -1,0 +1,1 @@
+program w : s7 : takes vp, P4oaa, Jx10, y0X : boolean array returns integer when case - F = 397 - 3 : while 2210 : chillax end; input I; input j4; pop end case 40 /= 18 : chillax end otherwise : chillax end end main : chillax end

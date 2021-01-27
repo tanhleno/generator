@@ -1,0 +1,1 @@
+program Q : u0 : takes R8 : boolean array; D, Z2a0a, L : integer array; L, Mw1, e6I, RNl0 : integer; k, u2 : integer returns integer Y, xD2 : boolean array; Cv, l, k : boolean; y : boolean; chillax end V : takes I9, h : integer; O3, Y : boolean array; HX8, w : boolean array returns boolean input vz3a; while 37 = 24 : do Xk(5); pop end end main : let zqk0a = array - 3 end

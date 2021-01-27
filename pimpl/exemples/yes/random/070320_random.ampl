@@ -1,0 +1,1 @@
+program n4 : main : n3, E5t, B, _ : integer; pop - 7; when case(38000) rem not 342 and 191 > - J and 51 : chillax end case 6830 and 242 or 09 - 77 > - 44 : chillax end case - 29 : chillax end; do R(- false, 793 - 36 <= 79); do T(372 - 8930 < 27800, 038 = 2) end

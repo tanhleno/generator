@@ -1,0 +1,1 @@
+program Iq2aa : p : takes E4 : integer returns boolean array k, U, K : integer array; s : boolean array; chillax end x : takes t : integer array; k : integer array returns nothing L9, z, ni, v : boolean array; output "\n(0a" . 2 . 3 end main : output "d!" end

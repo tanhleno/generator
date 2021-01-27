@@ -1,0 +1,1 @@
+program h : K9r0a : takes _x, t : boolean; fs : integer; f4ga, Z180a : boolean array; P : boolean array returns integer array j6, t : integer; Q2_ : boolean; do T82(- false or 73600 - 9 > - 07 - 0, - 490 /= 2, 94000 = 37, 0); input z8b0; output 35 . "9f" . ""; output "" . "" end main : output(9) - not 7 + 2 end

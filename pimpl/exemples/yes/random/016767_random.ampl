@@ -1,0 +1,1 @@
+program s6 : vky0a : takes P, y12 : boolean; zT, sco, f, H4xa : boolean; FSDaa, T650a, SL2aa : integer returns integer array n3wa, n72 : boolean array; B : integer array; chillax end main : chillax end

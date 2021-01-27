@@ -1,0 +1,1 @@
+program lb : W4 : takes eW3 : boolean returns nothing t : boolean; b4 : integer array; pop - 94100 - 10; do B6waa(00); when case 5 : chillax end; do WVM(717); do e(1); while 8 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program l28 : G8 : takes sF7aa, o, N_6 : boolean array; k34 : integer array; B7b, q, O3 : integer returns nothing Y, a8 : integer; do NJ(- not 776 - 1 - 889 = - 3 - 1); let p[5] = 0 = 30500 end main : chillax end

@@ -1,0 +1,1 @@
+program C48 : l : takes hf, Z : integer; G, O, n2 : integer array; GE, J : boolean returns nothing S : boolean; ed6, pFra, R, o : integer array; M7waa : boolean; while - not 73800 and 7 : output 44; while 43 : chillax end end end main : chillax end

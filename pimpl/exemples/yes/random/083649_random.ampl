@@ -1,0 +1,1 @@
+program I : main : F : integer; R, Iq : boolean array; CJ9 : integer; r : integer array; F : integer array; A : boolean; y : boolean; x9 : boolean; let o[7420] = - z6[3] >= - 5 or 5 - 77; when case - 93 + true - 5 >= (85) and 24 : chillax end otherwise : chillax end end

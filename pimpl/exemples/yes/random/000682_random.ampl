@@ -1,0 +1,1 @@
+program o6W : Y0 : takes E, I, V7Eaa, i2, ck, y, U : boolean array; t : integer array returns integer w : boolean array; while false and 7 >= 8 - 8 : chillax end; input UO; while 317 : when case 3 : chillax end end end M : takes t : boolean; l, XJ : integer returns nothing L : boolean; pop 49 = 41300 end main : chillax end

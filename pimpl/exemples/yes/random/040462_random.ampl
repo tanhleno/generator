@@ -1,0 +1,1 @@
+program aE : c7_ : takes D : boolean array; U5v0a : boolean returns nothing output ""; input oA[849 - 766] end X3 : takes X : boolean returns boolean array chillax end tf : takes F, l9, a9 : boolean returns integer chillax end main : L : integer array; chillax end

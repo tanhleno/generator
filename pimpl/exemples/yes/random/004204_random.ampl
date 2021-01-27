@@ -1,0 +1,1 @@
+program y : cJ : takes x, bp20a, X670, RFta : boolean; c, J, I7, TS, S7 : integer array; ML5 : integer returns nothing t : boolean; I, U, y91, Z : boolean array; chillax end main : output "y"; output ""; pop end

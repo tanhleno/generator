@@ -1,0 +1,1 @@
+program o : t0zaa : takes BI : boolean array returns nothing output 3 . 7 end u : takes X : boolean array; D0 : boolean; l, B, X : boolean returns boolean array r3h : boolean; input gJ[- 97] end r : takes z : boolean array; P : boolean array; Q0 : boolean array returns boolean array chillax end main : chillax end

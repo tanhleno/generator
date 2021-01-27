@@ -1,0 +1,1 @@
+program T : s : takes x9, Q7 : integer array returns nothing do B6(false >= - 8, - 6 > 412, 70) end m_ : takes y, XFf0a, UzW : boolean array; Ga : integer; mAQa, YJ : boolean; jd : integer array returns boolean g0u0, J0 : integer array; chillax end main : i : integer; t26aa, r : integer; _, Q : boolean array; tJ, jMY0, Y : boolean; let R = array - true rem 84600; input C end

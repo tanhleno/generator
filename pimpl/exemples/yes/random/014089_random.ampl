@@ -1,0 +1,1 @@
+program t : I6x : takes uNz, W9, Z : integer array; F, J : integer array returns nothing chillax end n : takes G : integer array; S4, MB, b, A : integer returns nothing Kb : integer; chillax end main : input N[- (027) * false] end

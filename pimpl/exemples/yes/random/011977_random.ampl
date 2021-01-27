@@ -1,0 +1,1 @@
+program o : s2 : takes l, S, n : boolean returns integer VK8aa : integer; b, R : integer; R6zaa, Pn2, P : integer; smH, u : boolean; L : boolean; chillax end main : t : boolean; x, h, I1 : integer array; Ev, g : integer array; G : integer; _, C400 : boolean array; output "\"F0"; pop - false end

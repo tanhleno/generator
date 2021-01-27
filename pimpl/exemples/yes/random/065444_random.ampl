@@ -1,0 +1,1 @@
+program x : Q : takes S : integer returns nothing when case(219) and 34 > 3 : chillax end case 9 <= 3 : chillax end; do u(- 5 - 761, 3 = 5, 681, 67) end main : while not u(4) * false rem Iw /= false * (5) and 1 - w and 4 : chillax end end

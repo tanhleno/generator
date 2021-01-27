@@ -1,0 +1,1 @@
+program L : s8 : takes c5 : boolean; J, JSyaa : integer array; J, Rz2a, U : boolean returns integer v7Ja, b, Q : boolean array; J, Mq : boolean array; chillax end main : while - S(37) * X : input e6[2 - 0] end end

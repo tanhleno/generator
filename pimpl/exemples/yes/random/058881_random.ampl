@@ -1,0 +1,1 @@
+program d : D2 : takes w : integer array returns integer array e : boolean array; v, F : boolean; while T1T : chillax end; pop 7; pop end main : when case - 34 >= not true or true and 5 - 00 - 712 : pop end otherwise : chillax end end

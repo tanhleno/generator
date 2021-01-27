@@ -1,0 +1,1 @@
+program R : _ : takes nsu : integer array; W : boolean array; G : boolean; Yd : boolean array; V, h, q : integer returns nothing chillax end J8N : takes Uo : boolean returns boolean do Y(- 52600 - 4, 805, 81200); while 34500 : chillax end end main : W, V69, uv, Q : integer; do a3(- Y7(55, 99)); let B[- u[7] / 7 - true - 6] = - not 50 and 3 - 899 - 5; let l6 = - 2; output "|" end

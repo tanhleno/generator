@@ -1,0 +1,1 @@
+program A : main : let a[5 + true and B and 55 - not 48 or 09 - 5] = - not(2) and false + t and 249 /= - not 16 and 0; input Sq[true]; while - 48 and 2 or 9 > - 4 - 917 : when case 2 : chillax end case 24 : chillax end otherwise : chillax end end end

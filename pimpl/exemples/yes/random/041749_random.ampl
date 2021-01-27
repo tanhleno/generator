@@ -1,0 +1,1 @@
+program O9x0 : E1S : takes Eb : boolean array returns boolean array j : integer; do V5(Z and 90 - 4, 21, 3); while 61 - 2 : chillax end; output 0370 end main : v0k, J : boolean array; u : integer array; m : integer array; P, j : boolean; chillax end

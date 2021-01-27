@@ -1,0 +1,1 @@
+program K : w : takes _ : integer returns nothing k4Baa, ve, z3 : integer array; do Ji8(false and 64700 /= - 961, - 0230); pop 31; pop; pop; input E; do cU6a(3); pop end main : e, U : boolean; x : integer array; G4e, A : boolean array; output - not true and O > - false . 5 and 0 . - 3; pop - (3100) and 44 or 5910 <= 0; when case false and 46 + 2 : output 727 . "" end end

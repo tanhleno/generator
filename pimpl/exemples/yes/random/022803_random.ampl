@@ -1,0 +1,1 @@
+program L : h3Laa : takes w2J, m : boolean array returns nothing when case true and 4 - 5 = - 4 : pop end otherwise : input C end end main : cj : boolean array; when case not false / (5) >= true rem false + false and 1 : pop 4 = 8 end case not 83 and not 2 and 2 < (94) and 89900 + 8 - 39 : chillax end; while true * not 7 or(51) and 8340 : pop; input b2Ka; input u end end

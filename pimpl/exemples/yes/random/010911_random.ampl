@@ -1,0 +1,1 @@
+program et : Hd7aa : takes _, iK, m : boolean array returns integer chillax end main : o0, vJ : integer array; Z2T : boolean array; do E80(false + false rem true or 15 + 97 >= (41)); input Q; input f9; let R07aa[29100 - 1120] = array - 3 - 313 end

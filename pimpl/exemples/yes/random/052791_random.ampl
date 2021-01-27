@@ -1,0 +1,1 @@
+program I : hgvaa : takes m : integer; a : integer array; C : integer; R, p8 : integer returns nothing Xs : integer; C, G : boolean; chillax end ztGaa : takes c, f, r, R_1, q5 : boolean; t, nI40, R31 : boolean array returns nothing chillax end Y : takes p7, b : integer array returns nothing smc, F, nM : integer; A : boolean; chillax end main : chillax end

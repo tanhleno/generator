@@ -1,0 +1,1 @@
+program G : Dz : takes h : boolean array; U, n, N, YQ, E, sU50a : integer returns boolean S6 : boolean array; input f[1 - 6]; when case - 8 - 8 = 374 : input h760a; while 946 : chillax end; pop end; let x5V = array 9; do yZ(6550) end main : b4, g : boolean array; _, B : boolean array; input _[- b(54) rem(84) rem v or 4 * 7 and 322] end

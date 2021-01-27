@@ -1,0 +1,1 @@
+program lG2 : X : takes g : boolean array returns boolean input E[- b and 79 + 8]; pop end W : takes _ : integer array; A : integer array returns integer array rn : boolean; chillax end D : takes Jt8aa : integer array returns integer while 1 = 30 : do p(772); pop end end main : J : integer; let QS = - 60400 and false = p0 and 79 end

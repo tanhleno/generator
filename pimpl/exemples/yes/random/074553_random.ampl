@@ -1,0 +1,1 @@
+program QPl : main : WGP, O : boolean array; q, i, ty, YQ, Qn, M : boolean array; h, t1j : boolean; when case - true and f : chillax end case P / true and 6 : chillax end case 4 and 9 /= 3 : while 13500 : pop end end case 1540 = 5 : chillax end case 608 : when case 603 : chillax end end; pop(65) and 69000 end

@@ -1,0 +1,1 @@
+program m : Gz : takes r : integer; H, P : integer returns nothing U5, a : boolean; chillax end Tv : takes I : boolean returns integer y : boolean; w, Q5 : boolean; do W8(- 3 - 0 = 068) end main : M, J, c : integer array; M7, rrGaa, U : integer; chillax end

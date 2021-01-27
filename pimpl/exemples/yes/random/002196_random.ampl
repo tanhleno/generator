@@ -1,0 +1,1 @@
+program b1na : o : takes l0, i, a, v98, m2 : boolean; R, u : boolean returns integer n : integer; dq3, w1, TR, EAY : boolean array; Z, f : boolean array; i3Eaa, Xo : boolean; input Hv2[n0 + 8 - 34300] end qs1 : takes k, p, q7La : boolean returns boolean Y : boolean array; chillax end main : KV : integer array; p : integer; chillax end

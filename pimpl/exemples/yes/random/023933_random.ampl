@@ -1,0 +1,1 @@
+program hofaa : x : takes FBd, Hp : boolean returns nothing chillax end W : takes I : boolean; nWl0a, M, K, p : boolean array returns nothing O9l, R8 : boolean array; chillax end main : K : integer array; while - J - 45 and(689) and 02100 - true and 1 - 62 >= - false : output 516 end end

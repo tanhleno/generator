@@ -1,0 +1,1 @@
+program c_8 : main : d : integer; output - true * not 2 and 2 or true and 3 + 5; output ""; pop; when case - 7 - 0 /= 2740 : output "\\"; do _9(19) end otherwise : chillax end; let D = 66; pop 28300; input c8; when case 4 : chillax end end

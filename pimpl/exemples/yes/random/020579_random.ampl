@@ -1,0 +1,1 @@
+program Cjna : J : takes F, O : boolean array; fz : integer array returns integer r : boolean array; W8r, Vd : boolean array; Y, J2 : boolean array; t, u : boolean; chillax end _4 : takes K, Q, is, iu, b, j : integer returns nothing chillax end main : t : boolean; chillax end

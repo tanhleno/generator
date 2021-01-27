@@ -1,0 +1,1 @@
+program fE : main : do Z(true * 9 * 1 and 6, - not 90 and not 819 and 0 + (868) <= 651 and 523 + 7 - 6, - false or 1 - 3, - 23700 > 1, 5, 57200, 6); while - G and true and 683 - 892 : output "\nF!"; when case 7 : pop end otherwise : chillax end end end

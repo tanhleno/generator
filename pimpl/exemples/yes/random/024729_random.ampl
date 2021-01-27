@@ -1,0 +1,1 @@
+program R6 : Rg_ : takes u, A : boolean returns nothing let M32[4 and 50 - 3] = array - true end main : when case true + (9) : output "*5" . "\nE" end; let d9[- (4) rem C and 8] = array not true - false; pop - 32 - 6 = 65100 end

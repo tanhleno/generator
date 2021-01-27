@@ -1,0 +1,1 @@
+program YL : x : takes i, I, G800a : boolean returns boolean array chillax end Z : takes u33aa : integer array returns nothing input Mbg; when case 6 : chillax end otherwise : chillax end; when case 50 : pop end otherwise : chillax end; while 1 : chillax end end main : chillax end

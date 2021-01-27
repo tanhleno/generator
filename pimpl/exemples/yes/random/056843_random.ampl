@@ -1,0 +1,1 @@
+program o : b : takes q : integer array; c0 : integer array; I0d0, _, d7 : boolean returns nothing input H end a : takes t : boolean array; L, Y : boolean array returns nothing _L : integer; chillax end main : output "#" . - false - 99 - 4 . 2 - 8 <= 99 . 936 . "1o" end

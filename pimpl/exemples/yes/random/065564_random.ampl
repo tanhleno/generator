@@ -1,0 +1,1 @@
+program o0 : SC : takes Yy : integer returns nothing while false and 2 : chillax end; while 7 <= 30 : chillax end end P12 : takes D7Z0 : integer returns integer array chillax end WQ0 : takes P : boolean array; L : boolean; Q5 : integer array; M2, A, c : integer; w : boolean; P : boolean returns nothing chillax end main : output ""; output "\n\t\"a" end

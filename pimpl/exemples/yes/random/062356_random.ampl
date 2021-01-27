@@ -1,0 +1,1 @@
+program d : rg : takes OJB : integer returns boolean B3, uS20, s : integer; OKwaa : integer array; u, L, h4 : boolean; do I(- false > 346 - 94, - 8180 >= 1, 95400 = 5, 951); pop 0 end main : K7P, Q, Q, X, f11aa : boolean array; chillax end

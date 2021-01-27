@@ -1,0 +1,1 @@
+program a : k : takes b0v0, BQ, Z71aa : boolean array; b, T9, j9p : integer returns nothing chillax end f3zaa : takes U : integer returns integer array c6 : boolean array; j9 : integer; do H(- 4 /= 158, 9 = 6, 9, 47) end z : takes p, E2 : boolean returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program G : Bj : takes PV, jO, l0, t, g1 : boolean returns boolean A : integer; input Ps0a end M : takes W, g2, lA : integer array returns boolean chillax end main : d, B, X, u83 : boolean array; We : integer; y, YYT0 : integer; f5, A, Y, C : integer; do oSu(false = - (2), - (4) * false and 3 or not 94000 - 1 - 0 <= - false or 668, - not 6 and 6 = - 165, - 6 < 17) end

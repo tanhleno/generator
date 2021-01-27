@@ -1,0 +1,1 @@
+program cR : rT : takes ij : integer array returns nothing TJia : boolean; do zzr(not 375 and 2 + 1 - 8) end g : takes e0, UB6, u, MFt, K1ca, C : boolean array returns nothing l7, u, f4 : boolean array; chillax end main : N, W, T, F, T8c0, fy, Qg : boolean array; chillax end

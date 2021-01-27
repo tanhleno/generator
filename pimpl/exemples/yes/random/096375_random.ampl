@@ -1,0 +1,1 @@
+program yD0 : main : when case - 35 + false * (137) and 2 : when case 4 - 7 < 0 : do e(2); output "_"; pop end otherwise : output "" end end case - (15) rem true and 4 or not 2 and 5 > - (76) or 47500 : chillax end otherwise : let c[9] = array 76 end end

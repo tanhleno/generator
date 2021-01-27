@@ -1,0 +1,1 @@
+program LtOa : main : IA : integer array; while - false and true + false - (5) - 53 /= 68 rem B and 734 + not 4 and 55 : chillax end; let z530a = - r6 and 72 /= 36; output "" . "8"; input Qx8a[- 5170 - 29] end

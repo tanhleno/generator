@@ -1,0 +1,1 @@
+program t6 : P : takes J, WF, l : integer array; U8a0a, H, f, Q, Q, Q5 : boolean array returns nothing let p = 3 - 2; let V = array 7 - 5; do Y(06700 = 88) end Pz8 : takes t, z5, m, d, X670, M2 : integer array; D, Z : boolean array; C, bZ, a : boolean returns integer H5, nO8 : integer array; let DT2 = 59; input p3 end main : chillax end

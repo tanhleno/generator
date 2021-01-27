@@ -1,0 +1,1 @@
+program P : Ki : takes j : boolean returns nothing chillax end main : b : boolean array; O, k9 : integer array; output "B=a" . - 2 and 90 /= 7 . 2 - 013 < 243; input K[- true * not 2 and 5 - (25) and 2 or 969 - 5]; when case false - 3 < - 151 - 0 : chillax end case - 4920 : when case 0 : chillax end; input E end case 0 : input B; pop end otherwise : chillax end end

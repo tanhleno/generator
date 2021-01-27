@@ -1,0 +1,1 @@
+program x26 : n : takes AQ : boolean returns integer array d : integer; do v(I9 and 57700 >= 7) end iu : takes Z : integer array returns nothing while 8 - 76400 : output "Z" end; when case 82 = 350 : chillax end otherwise : pop end end main : yf, tWT0a : boolean; N : boolean array; chillax end

@@ -1,0 +1,1 @@
+program A78 : CI : takes GE3, I1, l5m : integer array; E : integer array; zZ : integer returns boolean array chillax end W6 : takes i : boolean array returns integer chillax end X52aa : takes gyU : boolean; q, G, a : boolean returns integer chillax end main : chillax end

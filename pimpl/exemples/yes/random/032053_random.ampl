@@ -1,0 +1,1 @@
+program PG : Tm : takes Q, d7W : integer returns integer vJ, G46a : integer; chillax end OiX : takes yeta : integer returns nothing do Jhp(9 > 6, 8 = 38, 2); pop 8; while 7130 : chillax end; do x(3) end main : Z : boolean; when case - 0540 : chillax end case 40600 /= true + 7 : input k[01] end end

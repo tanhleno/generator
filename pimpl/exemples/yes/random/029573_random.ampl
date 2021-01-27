@@ -1,0 +1,1 @@
+program Rt : W : takes i1R0, s : integer array returns boolean z5 : boolean array; _ : integer; chillax end main : when case - not j * U38(6) * (84) - FA < - true rem true and 2 : chillax end otherwise : chillax end end

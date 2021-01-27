@@ -1,0 +1,1 @@
+program I : main : z, O : boolean array; f5J, p : boolean array; E : integer; while true / false / (04) and 03 : while - 6 - 4940 < 2 : while 0 : chillax end end; let F[2] = array 94 end; do e4((5) and 1 and 89 - (511) or 0 - 15900 < - true and 9, - not 3 and 5 or 8) end

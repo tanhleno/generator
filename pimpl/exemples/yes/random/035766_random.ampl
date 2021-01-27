@@ -1,0 +1,1 @@
+program p : C : takes Wq9 : boolean; YY : boolean array; u : integer; eqJaa, f, p1, R7 : integer array returns integer Y44, Y : boolean array; TG, i, AWb, E630 : integer; f6F : boolean array; chillax end main : k : integer array; X, W : boolean array; K5, z : boolean array; chillax end

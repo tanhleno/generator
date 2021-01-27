@@ -1,0 +1,1 @@
+program X : main : do A(- true and m69 - (9) or Fk); when case d - (48800) and 6 > - 25 and 22300 - 89 - 8 : output "#$"; pop; do vQha(7040); do P(70400) end case - true and 3 : chillax end otherwise : pop 13; pop end end

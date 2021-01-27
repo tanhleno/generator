@@ -1,0 +1,1 @@
+program d : i : takes kD8, T5 : integer returns nothing while - (5) > - 0 : chillax end end N : takes V, k, z : boolean array; s8Za, X : boolean; e, n : boolean array returns boolean array h, GP : boolean; r : boolean array; chillax end main : chillax end

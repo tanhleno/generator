@@ -1,0 +1,1 @@
+program aP : v2F0 : takes R : integer array returns boolean array rp7 : boolean array; w2 : boolean; chillax end Jb : takes j : boolean returns boolean W, x, lYsa : integer; xz : integer array; chillax end v9 : takes hi, N : boolean array returns nothing chillax end u : takes N : integer array returns integer array do R(43) end main : input v end

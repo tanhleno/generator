@@ -1,0 +1,1 @@
+program o : R : takes G : boolean returns nothing R240a : integer array; s, ti7 : boolean; mv5 : boolean; chillax end main : when case true * false : chillax end case(77) + true and 2 : when case 19 : chillax end otherwise : pop end; pop 1 end otherwise : chillax end end

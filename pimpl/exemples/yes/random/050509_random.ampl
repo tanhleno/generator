@@ -1,0 +1,1 @@
+program wN : L : takes G6 : integer; Dg, lX : boolean array; w : boolean array; o1G : boolean array returns integer array while false or 5 - 287 : chillax end; do jM8(56 - 66, 6, 6, 6); let k[7] = 1; input uL4 end main : input O end

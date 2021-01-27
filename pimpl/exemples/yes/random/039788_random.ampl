@@ -1,0 +1,1 @@
+program fr9a : T02 : takes nz : boolean array; d08 : boolean array; B, V, V : integer returns nothing j220a : integer array; m : boolean; gz, eg, O : boolean; let j[- not 66 and 35 + 05] = array - true and 74 + 6 - 0; output 4 = 3; input a[9]; let k[978] = array 8 end main : t : integer array; U : integer; o0, v4Naa, U, E : boolean array; chillax end

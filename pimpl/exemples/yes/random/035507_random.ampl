@@ -1,0 +1,1 @@
+program y3 : P : takes y : boolean; m : boolean; H : integer; yt, B, e : boolean array; u, o, Gv : boolean returns nothing input _[67 and 3 - 2 - 456] end V : takes m : boolean array returns integer array y, U5oaa, d79a : boolean array; g : integer; z9, S : boolean; let j = 5; while 1900 = 6 : output "V\t!a" end; while 8 : chillax end end main : chillax end

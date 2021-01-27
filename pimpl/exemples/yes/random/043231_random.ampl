@@ -1,0 +1,1 @@
+program v7 : i : takes R : boolean array returns integer s3 : integer; Az, Y : integer array; do q8(- 5 and 276 - 627 > - 34, 84 - 95 = 108); when case 7 : chillax end case 45000 : while 9 : chillax end end case 80500 : pop end; pop end S : takes o : integer array returns nothing chillax end main : chillax end

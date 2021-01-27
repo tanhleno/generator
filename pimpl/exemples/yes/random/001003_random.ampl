@@ -1,0 +1,1 @@
+program e2 : d : takes b3, _f, Pf, e, t, X, C : integer returns boolean array N97, jwzaa : integer; chillax end v0 : takes g : integer; AQ, W0 : boolean returns boolean do w(- 0, 7); input N; let y[68] = 7 end main : chillax end

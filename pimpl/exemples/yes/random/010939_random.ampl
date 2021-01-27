@@ -1,0 +1,1 @@
+program uL : oq1a : takes H, B3, M : boolean array returns integer yX8, K, y9, j : integer; E, S7 : boolean; l3 : boolean array; while - true : input T; output ""; output ""; pop end; input m end main : x, w13 : boolean; chillax end

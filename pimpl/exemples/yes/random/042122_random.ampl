@@ -1,0 +1,1 @@
+program p7gaa : zv : takes eD7 : boolean array returns boolean X9, x : boolean; Ul : integer array; GJE, c6za : boolean; i24, n : boolean; x : boolean; output 1 - 19 . 1; while - 3 = 08 : while 1 : chillax end; do F(7); pop end end main : G : boolean; output - true . "" . 61 . "" . "SKaa" end

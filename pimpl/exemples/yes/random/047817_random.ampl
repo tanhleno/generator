@@ -1,0 +1,1 @@
+program iw : bn80 : takes Q6 : boolean returns nothing do F(false and 1); do yx(- 9470 - 125 >= 0); pop 4 end R : takes E, tO7 : boolean array; eA4, i2, s : integer array; wsK0, t, m : integer array returns integer U : integer array; x, k : integer; x : boolean; chillax end main : chillax end

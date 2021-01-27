@@ -1,0 +1,1 @@
+program Gp2aa : aJy : takes F3m : boolean returns boolean let u[8 and 28] = - 76 - 374 <= 8; input crnaa; pop end main : P : boolean; pop - true - not 0 + 88 - 1400; while not(2) : chillax end; when case not 1 and 9 - 8 > 56 : chillax end otherwise : chillax end; do W(- 6) end

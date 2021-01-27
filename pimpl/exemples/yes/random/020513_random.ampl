@@ -1,0 +1,1 @@
+program A : a : takes pz2aa, J : boolean array; F16aa : integer array returns boolean array chillax end W0 : takes FN : boolean array; Zc6 : integer array; Q : integer array returns nothing chillax end xp : takes k : integer returns nothing let Vi[2] = array 273; pop 4 end main : chillax end

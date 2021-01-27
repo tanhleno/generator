@@ -1,0 +1,1 @@
+program Y : main : J, DiR, N, aXa : boolean; output - 238 or k and 04200 - 9 = not 64 . "" . 3 - 6 /= 4; when case - true + true and 8 <= - 9 and 8 : chillax end otherwise : let OP8a = array 846; do z(46); pop; pop end end

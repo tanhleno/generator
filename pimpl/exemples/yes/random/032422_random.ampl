@@ -1,0 +1,1 @@
+program p : r : takes D2, PS : integer returns nothing do Ue0(- 4 and 9 + 633 <= - 9, - 6, 00 = 51) end G5 : takes da, m8iaa, E : integer array returns integer array AI : boolean; let S[79 - 37] = 3 = 0 end W : takes m0saa, H : boolean array; U71 : boolean array returns boolean o, q : boolean array; chillax end main : I4Y0a : boolean array; input L; output "" . "" end

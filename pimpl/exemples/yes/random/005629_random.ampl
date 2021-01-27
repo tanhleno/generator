@@ -1,0 +1,1 @@
+program q9e : V0paa : takes X, i, B, t4W : boolean array returns nothing Z, A : boolean; qo : integer; output ")" end qR : takes o, H : boolean array; XFFaa, Q5 : integer; Je, Uf9 : boolean array returns nothing o : boolean; QH5a : boolean; ay : boolean; l : boolean; j5 : boolean; chillax end main : P, IQ8, r : boolean array; input b[(37)]; output "0" end

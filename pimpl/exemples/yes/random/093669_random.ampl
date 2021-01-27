@@ -1,0 +1,1 @@
+program d : main : output true rem(46) . - n + 7920 - 9630 <= - 71600 . - 2 - 53 . "" . 53 . "" . ")"; output ""; when case false and 6 or 1 : chillax end case - 74 = 4390 : output "1H"; while 1 : chillax end; pop end case 7 = 21 : output ""; pop end; output 9 end

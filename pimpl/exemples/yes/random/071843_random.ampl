@@ -1,0 +1,1 @@
+program I : main : XD, Gy90a, vk : boolean array; pop(6) / false and 9950 > f2faa and 1; pop - not 48 and 5 + 672 - 03 >= 6; when case - 5 and 1 = 25 : input T; output "5" end case - 8 > 2 : let J = 888; do Wn3(1); pop end case 3660 = 6 : chillax end; input b98; when case 2 : do Y(5) end case 1 : chillax end; input xk end

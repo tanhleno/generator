@@ -1,0 +1,1 @@
+program W : dE9 : takes DuG0, m4, O, P, J4 : boolean array; fa_, yh, m, f : boolean; a6 : integer returns boolean I : integer; a77aa : boolean; pME : integer; chillax end main : when case - true > - false : chillax end; let n[false rem 36] = array false / Gk and 1 end

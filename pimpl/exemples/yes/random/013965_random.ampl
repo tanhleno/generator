@@ -1,0 +1,1 @@
+program HB : si : takes hg2, C, Pr : integer array; l, NH30 : boolean returns boolean J : boolean array; W : integer; do WE1(false /= 98, - 85 /= 5, 66 = 2, 926, 55) end S5 : takes f, yF : boolean array returns nothing _l, It6a : integer; while 6 - 89 : do ac(3); output "\"~\"a" end end main : while true - true * not 5 and 8 : input T; pop; pop end end

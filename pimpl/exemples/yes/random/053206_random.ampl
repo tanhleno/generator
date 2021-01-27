@@ -1,0 +1,1 @@
+program G4 : gPH : takes S50 : integer; k : integer returns integer B, U, C, L, R : boolean array; while - not 4 and 60 + 4 - 8 : chillax end; let A9O0[7 - 62] = array - 80; let c = array 48; output "1"; do P(2) end main : N : boolean array; chillax end

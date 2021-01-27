@@ -1,0 +1,1 @@
+program m7 : vk : takes PR2, o550 : boolean; B, r : boolean; r73aa : integer array; yg, a : boolean array returns boolean array rH, U, F7 : integer array; GJ0 : boolean array; Bw : boolean; X : boolean; L3 : boolean; let L[2] = array true and 30100; pop end main : U : integer; P : integer array; chillax end

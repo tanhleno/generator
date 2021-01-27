@@ -1,0 +1,1 @@
+program c : Q7 : takes V0 : integer returns integer array input D3; let Hsi[- 0] = 97 = 0 end V : takes Bg : boolean array returns boolean C, B51, F, c : integer array; c, q, q3 : integer; chillax end X : takes H : integer returns boolean array output "" . "6}"; input R[68] end main : p3T : boolean; chillax end

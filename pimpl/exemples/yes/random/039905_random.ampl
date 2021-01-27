@@ -1,0 +1,1 @@
+program Uh : e : takes W : boolean array; kV : boolean array; e4 : boolean returns integer array do QW(- J5 /= 1 - 44); let L = array - 0 - 7 end main : s_, zu : integer array; N, j4, np5, f1aa, fy : boolean array; when case 6380 / (0) rem(61) and 3 + 85 + false : chillax end otherwise : chillax end end

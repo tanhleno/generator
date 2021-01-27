@@ -1,0 +1,1 @@
+program ow : main : input Hm; when case B1[33] + (8090) and 9 - 1 > - true and 2 : let P[41100] = array 52 end case(0) and 60400 - 2 < - 19 - 7960 : while 713 : pop end; output "r" end otherwise : chillax end end

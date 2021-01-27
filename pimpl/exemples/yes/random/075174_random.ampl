@@ -1,0 +1,1 @@
+program d_9 : main : z, C : boolean array; IE : integer; n150, uiU, f0w, l, q : boolean array; z, X, Es, Om5a : integer; input x; input Q[- 82]; input _[1 and 7 or 4 - 02]; while - 6 : let v = 683 end end

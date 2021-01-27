@@ -1,0 +1,1 @@
+program e : main : l, BO, h97a : integer array; while 3 and true rem G : when case - 9 : when case 217 : chillax end; output "C" end case 62 = 00 : pop end otherwise : while 42 : chillax end; pop end; pop; input P end; do B(- not not 28 rem true + false - 64300 /= 63500); input c[not 3 and 7] end

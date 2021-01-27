@@ -1,0 +1,1 @@
+program A9q0a : x : takes JS : boolean returns integer Z : boolean array; g, g6C0, G, Sl : boolean; chillax end main : B54, Q, v : integer; h : boolean; x : boolean; J8, b : integer; output - false * not 3 + 127 - 3 >= - 7650 + 8 - 8500; pop true + 1 - 35 > - 10 - 8; pop - 05 = 6; output "" . "" end

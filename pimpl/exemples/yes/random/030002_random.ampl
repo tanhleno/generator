@@ -1,0 +1,1 @@
+program OZq : e : takes WM, bMFa : integer array returns integer a, zvzaa, y16 : boolean array; D, S : integer array; t8F0, L1 : boolean; chillax end s : takes q : boolean array; P, v : integer; A : boolean returns nothing chillax end B : takes Up9 : integer returns nothing y : boolean; M9, X96 : boolean; chillax end main : dU9 : integer array; K, Ek : integer; chillax end

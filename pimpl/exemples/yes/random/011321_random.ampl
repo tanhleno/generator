@@ -1,0 +1,1 @@
+program Y270 : N0 : takes V, D, D : boolean array returns nothing jQ : boolean array; chillax end ET6 : takes m3, o, D7, X730, WSoa, n : boolean returns nothing ok : integer array; chillax end main : chillax end

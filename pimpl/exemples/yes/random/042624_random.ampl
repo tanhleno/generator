@@ -1,0 +1,1 @@
+program J : c : takes _ : boolean array returns integer array L, Yqe : boolean array; when case - (5) > - 641 - 5 : let E[206] = 7 end case 24700 > 183 : chillax end case 99 = 6 : chillax end case 64200 : chillax end case 25 : chillax end; let Zk[96] = 687 end main : chillax end

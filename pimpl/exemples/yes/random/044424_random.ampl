@@ -1,0 +1,1 @@
+program r : J : takes E : boolean array returns nothing N : boolean; chillax end r : takes B : integer array; m, Ly60 : boolean returns integer c, pZ : integer; _5, n, Y : boolean array; chillax end main : e, x : integer; X1 : boolean array; chillax end

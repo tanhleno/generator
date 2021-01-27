@@ -1,0 +1,1 @@
+program u : Xh : takes r : integer array; o, o6Y0a : integer array; C, jz7, e : integer returns integer array W8 : integer; chillax end N : takes G6 : integer; oT6a : integer array returns integer array _8 : integer; chillax end main : St, V : integer array; pop 6880 or 2 and 2 + 709 - 4 end

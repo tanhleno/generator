@@ -1,0 +1,1 @@
+program lq : q : takes F, q, x, XF8aa : boolean array returns nothing let K = - 63 end main : when case false : chillax end case - 8 rem 2 : pop; let g360a = array 08; input i; output ""; pop end case - 5 : chillax end; let R[(7) * O0r0 and 74400 - (81000) and 60000 or 085] = array - false - true and 09 end

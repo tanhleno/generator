@@ -1,0 +1,1 @@
+program a : main : Dh3 : integer; T8, m, K5, Y93 : integer; when case - false >= - (2) or false : chillax end case - 0 rem false and 7790 : chillax end case y : chillax end case 40 : input N end case 6 : chillax end case 80800 : chillax end; do x(not false); while D or 1 - 3 <= 6920 : chillax end end

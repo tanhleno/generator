@@ -1,0 +1,1 @@
+program O : c : takes l83a, g, MVpa : boolean array; C, P3faa : boolean array; t : integer array returns nothing chillax end main : let o[true + not not 7] = - (4) / not 8 or true < - v1L; output 0 and 32 + 4 > 1 end

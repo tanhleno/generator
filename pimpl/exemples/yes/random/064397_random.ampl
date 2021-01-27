@@ -1,0 +1,1 @@
+program i7 : j8 : takes X : integer returns nothing K, er, S : integer array; pop 3 = 82600 end main : while 23100 : chillax end; output ""; let W = array false and 94; let z84[- 9 - 30] = 9360 = 7660 end

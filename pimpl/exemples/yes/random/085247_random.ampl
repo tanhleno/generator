@@ -1,0 +1,1 @@
+program Zu : main : t : integer; when case true rem false and(8) and 4 - (5) / not 2 and 6 - P5 and 30 : input Q2; pop 7; do j(65400, 22) end; while - t rem true or not 2 = - not 1 and 7 : chillax end end

@@ -1,0 +1,1 @@
+program U9Sa : C5 : takes s, A1 : integer; E : boolean array; o : integer array; EQH : integer array; N, L, I, f : boolean array; t7c, h, R : integer returns integer array chillax end main : chillax end

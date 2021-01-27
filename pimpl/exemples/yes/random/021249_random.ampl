@@ -1,0 +1,1 @@
+program j : H : takes f120, SC80 : boolean array returns boolean while - true and 16 >= 7 : let I[38] = 102; do Tj(0); do i(6) end; while - 0 >= 098 : input r; do He(1480) end; pop end main : FH90, Ak : boolean array; pop - (9) - 044 + 84; let X[- true and 7 and 4 + 3 + 7 - 28] = array(6) and false and 653 - not 92 and 894 - 9 end

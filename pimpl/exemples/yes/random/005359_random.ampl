@@ -1,0 +1,1 @@
+program pYg : QQz : takes g, Y, r, J : boolean array returns boolean Go80a : boolean; when case - true and 33 : chillax end; when case 7 - 52 : let M9 = 3 end otherwise : pop; pop end; when case 68600 = 60 : pop; pop end case 36600 : pop end otherwise : chillax end; let lWU[4520] = array 56; pop; output ""; pop end main : chillax end

@@ -1,0 +1,1 @@
+program k : y3F : takes C, L : integer array; d0 : boolean array returns nothing F : integer; P, pG, Gj : boolean array; chillax end Q90 : takes eg : integer returns integer c1, Ed : integer array; b, P7 : boolean; chillax end q3 : takes M9 : integer returns integer array Ro : integer; S6 : boolean; w : boolean; X : boolean; chillax end main : pop end

@@ -1,0 +1,1 @@
+program v5p : e : takes G46 : integer array; Y : integer array; lhc : integer array; m, K, B, Yl5a : boolean array returns nothing chillax end L : takes ljQ, u300, H : boolean; ou, n1 : integer returns integer output "4\\aa" end main : chillax end

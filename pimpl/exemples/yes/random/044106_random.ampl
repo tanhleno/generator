@@ -1,0 +1,1 @@
+program Q : YZ : takes C16 : boolean array returns nothing f0, m5, Ij : integer; chillax end main : q3, O, J97 : boolean array; while R(55) rem true * false + not true : chillax end; output - l and 70 = 46 . - 6 < 56300; when case false = - 9 : chillax end case - 55400 : output "" end; do o3(1 - 9) end

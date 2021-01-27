@@ -1,0 +1,1 @@
+program _ : TD : takes W6 : integer returns integer a : integer array; G, v : integer array; TNb, y4, c : integer array; u : boolean; while - (1) and 7 : input n[01] end; output 4 = 7 end main : C1, L, f9, E970a : boolean array; input J[- (894 = 9)]; input NH end

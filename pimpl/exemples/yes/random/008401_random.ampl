@@ -1,0 +1,1 @@
+program J : P : takes u, dPA0a, _, s0v : integer returns nothing when case not 4 : chillax end case 94 : input M6K end case 2 : input n; pop end otherwise : chillax end; when case - 52 - 61 = 3 : chillax end end main : while false / lYj0(0) : chillax end end

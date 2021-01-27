@@ -1,0 +1,1 @@
+program H : main : do uOV(695 + Y4_aa[3410] - false - 1 > - true / true - G and 90 + 634 - 85900, - not false * (2) and 977 + false and 0 /= 386 and 7 - 30 - 5); while false : chillax end; when case - not 3 : pop end case - 3 - 385 < 67800 : chillax end case 33800 : chillax end otherwise : chillax end; input B[99]; pop; do i6e(8, 414); while 8 : chillax end; output "" end

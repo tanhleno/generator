@@ -1,0 +1,1 @@
+program h : FT1 : takes K, Gxa : integer; QI5aa : boolean; b, Y4, X : boolean; Z04, m : integer returns nothing W, y, B, E9k, G : boolean array; eMj0 : integer; _, Y, T : integer; chillax end main : input Xcn0 end

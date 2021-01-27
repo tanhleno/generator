@@ -1,0 +1,1 @@
+program c : U : takes k3, T : integer array; t, _5, Z, B : integer; M, x : integer; Ek3a, J4 : boolean; g : integer array returns boolean s : boolean; chillax end GJ4 : takes rh2, E, TBfaa, U : integer; U, b, lQ, g, Vi : boolean returns nothing let E = array 8 - 4 end Z : takes m85, U, jwJa, d : boolean returns nothing chillax end main : chillax end

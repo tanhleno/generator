@@ -1,0 +1,1 @@
+program S : i : takes l : integer returns nothing C : boolean array; let R3 = 9 - 16; pop 867 = 55 end x : takes T : integer returns integer array do _(- 20 - 31700 > 6, 4 = 65) end main : pop - Z or true <= - false and 96 end

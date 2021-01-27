@@ -1,0 +1,1 @@
+program R3 : Klcaa : takes Fc : integer array; H, p1k, h0 : boolean array returns boolean array EM : boolean; chillax end p : takes Q3J0 : boolean array returns nothing chillax end main : let yT9 = array M or s37(9770) end

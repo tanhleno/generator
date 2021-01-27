@@ -1,0 +1,1 @@
+program BJ : d3 : takes D : integer array; h4n0a, u : boolean array; Dp, s : boolean; wZ, x : boolean returns nothing chillax end main : IP : boolean; gF : integer array; pop true or true and 8 <= - not 0 and 044 end

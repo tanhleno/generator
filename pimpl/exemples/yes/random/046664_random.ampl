@@ -1,0 +1,1 @@
+program z : T : takes b : boolean returns integer array H0 : boolean; o2 : integer array; chillax end iW : takes Dr, pj, SV : boolean array returns integer ht : boolean; output "\t" . 9; while 96600 = 4 : chillax end; pop 41; pop end main : y, I : boolean; chillax end

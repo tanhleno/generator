@@ -1,0 +1,1 @@
+program w : main : Amfa, mNk, g03, mu8aa : boolean; while - 3 rem true / not 5 - Zdeaa[87100] / (7) : chillax end; when case(97) / If and 884 : input r; output "+{!a" end case false + 2 - 2 >= 7 - 89000 : chillax end case 8 - 09 : do F(55); output "" end case 4 = 5660 : chillax end otherwise : chillax end; output "" end

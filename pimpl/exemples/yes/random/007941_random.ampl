@@ -1,0 +1,1 @@
+program D6 : Pw3 : takes D, uWG, l, Wc5 : integer returns boolean array J : integer array; input I[(83)] end xh : takes au, oNJ0a, P60, K, V : boolean returns boolean array input s end main : F, w5, kb : boolean; chillax end

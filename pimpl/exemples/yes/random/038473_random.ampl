@@ -1,0 +1,1 @@
+program S : E : takes Nd : boolean array; i, X : boolean; v, z1, x : integer array; e, d70a : boolean returns nothing Z : integer array; chillax end O : takes P : integer array returns nothing let yo[61 - 5] = 580 end main : pop; do J(- not(931) > (8) and 9 + 68) end

@@ -1,0 +1,1 @@
+program z4 : s : takes X50aa : integer array; q1C : integer returns integer array output 5 /= 8 end B1 : takes fg : boolean array returns integer B, G0 : boolean; GM : integer; R7, A : boolean; chillax end main : L : boolean; v09aa, d, c : integer array; input L27a[177 * J7(58900)]; output - 638 /= 8; pop; while 2 = 4 : chillax end end

@@ -1,0 +1,1 @@
+program X2 : C3 : takes n, b : integer; I : boolean array returns nothing N : boolean; output - 4 - 3; output 8 = 45900 . 69600 end O0U : takes N, b : integer returns nothing chillax end main : chillax end

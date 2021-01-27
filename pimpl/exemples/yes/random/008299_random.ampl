@@ -1,0 +1,1 @@
+program W : W54a : takes f9, U, g59, s6 : integer returns nothing QG7 : boolean; u : integer array; V, I : integer; E, W : boolean; vTUaa : boolean; iE8aa : boolean; chillax end Li : takes T8 : integer; X : boolean array returns nothing let w7[- 0 - 43] = 6 = 2 end main : chillax end

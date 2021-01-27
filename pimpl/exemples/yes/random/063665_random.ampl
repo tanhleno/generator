@@ -1,0 +1,1 @@
+program G : i9 : takes oi7 : integer returns nothing chillax end rb : takes d, q, M : boolean array; Z, PW70 : boolean returns nothing qUnaa : boolean array; cR, UQ, e : boolean array; g : boolean; do P5(89); do qR(46, 3530, 0) end bLa : takes Hz : integer array returns nothing u, G9y0a : integer array; pop end main : CW, x, LZ, kA : boolean; chillax end

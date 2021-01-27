@@ -1,0 +1,1 @@
+program r1 : _ : takes Ghba, F, n, v, K : integer array; B, W : boolean array; d : integer array returns integer array U, G : boolean array; chillax end main : pI, Z : boolean; f9 : integer array; chillax end

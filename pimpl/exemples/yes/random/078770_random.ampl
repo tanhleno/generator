@@ -1,0 +1,1 @@
+program I : main : ow : boolean; a7, D : boolean; wjraa, D, K : boolean array; C08, Rova, C, zv : boolean; s : boolean array; when case - Q[4350] * (76800) and not 3 + not not 42 and E and 78 < false and true and 3 : input f; while 1 : chillax end end case 4 * true and 9 + (0) and 7 - 45 - 5 > zb and 253 : do R(38) end otherwise : chillax end end

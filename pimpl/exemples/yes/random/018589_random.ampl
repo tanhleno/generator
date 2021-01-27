@@ -1,0 +1,1 @@
+program x44 : a860 : takes M58a, yG80a : boolean array; xhl, Qt, Y, Y, Q, t, G : boolean; L86, i, Te1a : boolean array returns nothing BEua, O, o19aa, bcg0a, xY : boolean array; output ""; pop 4; let q[44] = 233 end main : S : integer array; X : integer array; pop - (7) rem true and 99; pop; while - (9) - 3 <= 7 - 9 : let m[9780] = array 70 end end

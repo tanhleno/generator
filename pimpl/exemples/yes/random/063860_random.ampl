@@ -1,0 +1,1 @@
+program Hm : p4 : takes r7 : integer returns nothing chillax end I : takes L : integer returns nothing h2c : integer; input K; pop; while 1 : chillax end end s4o : takes E : integer; _Fd0a, u, D : boolean; z8v : integer returns boolean M7, q, hrA0a : integer array; GK : boolean; while 80600 : chillax end end k : takes UiWaa : integer returns nothing chillax end main : chillax end

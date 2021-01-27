@@ -1,0 +1,1 @@
+program zO : main : c, r, hq4, K2 : integer array; output "" . "" . "B" . "" . 8 . 2; while - (1) - true or 2 /= (22) + 10 - 0 : input DD1aa[87600] end; output - 4130 . 44 = 2 . "" . 339 . "S"; do i(4 > 54, 1, 036) end

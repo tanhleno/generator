@@ -1,0 +1,1 @@
+program acl : j : takes r140, edG : integer array returns boolean output "" . 6 = 28 end h : takes _0, W1, Z, T, _, K, j : integer array; n, A : boolean array; W, D, My : boolean; p : boolean array returns boolean do a(- 80 - 2) end main : chillax end

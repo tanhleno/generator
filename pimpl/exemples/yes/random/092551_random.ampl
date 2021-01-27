@@ -1,0 +1,1 @@
+program g7ca : main : output sN4(46) and(32) and 9 or false <= true . (3) + 1 - 3 <= - 3 - 3; do G(- (4) rem true and 4 or 95 and 4 = - true, - 372 and 15, 8 > 8, 625 = 88, 40, 2); do o(true or 8); output 3; pop 4 end

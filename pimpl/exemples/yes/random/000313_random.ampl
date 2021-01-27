@@ -1,0 +1,1 @@
+program O : W : takes H, w9k0a, hh30a, v5, L, t, ui, K93aa : integer; z, z40, g3Oa : integer array returns nothing chillax end xs : takes j : integer returns boolean let y210a[071] = 3 end main : let w = array - false end

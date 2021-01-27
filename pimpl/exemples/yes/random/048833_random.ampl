@@ -1,0 +1,1 @@
+program j : e : takes p2W : boolean returns nothing input _; when case - 89 - 6 : while 9810 : chillax end; pop; pop end otherwise : chillax end end main : c4 : integer array; when case - true and true rem false and 271 /= false and true : pop; while 589 : let _ = 7 end; output 83 . "=" end otherwise : chillax end; pop; input m1; input A end

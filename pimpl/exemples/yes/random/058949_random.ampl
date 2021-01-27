@@ -1,0 +1,1 @@
+program N : _ : takes g : integer array returns integer array c : integer array; Q, Nu, F : integer array; h, B : integer; G : boolean; do B(false, - 9 <= 43); when case - 1 <= 9 : chillax end end c19aa : takes s3, f, a : boolean array returns nothing chillax end main : l8, m8 : boolean; d_5aa, o9Za, Pv : boolean; pop(2); do i(- K(3) * (7) and 35 > - true) end

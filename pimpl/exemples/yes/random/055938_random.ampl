@@ -1,0 +1,1 @@
+program j5 : uih : takes Y : integer array; i : boolean array; J : integer array; O : boolean array; g, d1 : integer array; v6na : boolean array returns nothing X, K : integer; input v770a[- (2) or 32 - 35] end main : chillax end

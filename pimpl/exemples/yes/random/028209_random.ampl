@@ -1,0 +1,1 @@
+program O : Jl9 : takes r, Q9 : integer array; Y : boolean; Ow : integer array returns nothing y, s, E : boolean; G, Y, k : boolean; I, g, QsT : integer; F8T, G : boolean; R : boolean; output ""; while - 09 : while 3 : chillax end end; when case 867 : chillax end; do h(2) end main : chillax end

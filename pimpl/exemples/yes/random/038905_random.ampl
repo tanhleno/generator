@@ -1,0 +1,1 @@
+program O56a : k : takes b : boolean array; z, f : boolean returns nothing chillax end i420a : takes wS6, j5p : integer; oD, v, n6g : integer array; w : integer; E : integer array returns nothing qH : integer array; O1 : boolean; c : boolean; Lr : boolean; chillax end main : A : integer; y, n : integer array; do N67(004 - not not 6140 and true) end

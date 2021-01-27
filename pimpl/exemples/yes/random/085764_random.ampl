@@ -1,0 +1,1 @@
+program Tc : main : Kv2 : integer array; Q, p5Eaa, n : boolean; t : boolean array; let L = array not true rem false and false and 92 + ID2[70] * true; while 36 and true /= z and 4 : pop end; output "9Paa" . 2 = 42 . ""; while - 678 < 6 : chillax end end

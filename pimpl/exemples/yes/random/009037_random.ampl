@@ -1,0 +1,1 @@
+program Y : DZF0 : takes J, M, z : boolean; Q : boolean array; L, M9Z : boolean returns integer array V : boolean; X : integer array; do k(true - 40 >= - 1, - 17 - 7); output 29 . "~R!" . 1 . "\\" end main : while - 7 rem 6 : chillax end end

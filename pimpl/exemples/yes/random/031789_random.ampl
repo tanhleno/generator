@@ -1,0 +1,1 @@
+program N88aa : Q : takes Y, Q : integer returns integer array m8W, bL : boolean; while true and 4 or 9590 /= 2 : chillax end end main : do gi20(KZ or XQi0a[93] / z or true and 0 - 6 - 6 < false) end

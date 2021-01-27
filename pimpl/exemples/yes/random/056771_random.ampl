@@ -1,0 +1,1 @@
+program d4 : P : takes h : integer array; q : integer; r : integer returns boolean array p : integer; G5 : boolean array; Ua : integer; o, z0 : boolean; chillax end Zw_0a : takes dm, Vp : boolean; m, a : boolean returns integer array pop 0 end main : l : integer array; output "\\" . "" . - 9 = 3 . 7 . 6 . 1 . "" end

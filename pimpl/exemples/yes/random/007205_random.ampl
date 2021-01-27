@@ -1,0 +1,1 @@
+program sL : Ip : takes q, i2, r, l7J0a : integer array; l7 : boolean returns integer output 0 end FK : takes k0, r, g1 : boolean; q, v, V7, gGp : integer array returns nothing d, t : boolean; chillax end main : fz, e : integer; do Unc0((0) < 730 * true and 40, true rem not 7 - not 7310 and 4, false < - 6 - 798) end

@@ -1,0 +1,1 @@
+program h69 : a : takes rs00 : integer array; l, Z, b : integer; e : boolean returns boolean Rc, E470, m : boolean; AE : integer; ac, v : boolean; k, r : boolean; while(8) <= 9 : chillax end; input f[- 9] end main : let E[true] = not not 86; input ID; input O[- z5p] end

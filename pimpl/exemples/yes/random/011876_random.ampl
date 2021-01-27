@@ -1,0 +1,1 @@
+program d : jP : takes Nw, J, O : boolean returns integer array when case false and 9 /= - 2 : output 4 end case 4 - 9 = 50 : chillax end case 8 = 8 : while 14600 : chillax end end case 08 : chillax end end main : chillax end

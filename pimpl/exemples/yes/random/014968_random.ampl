@@ -1,0 +1,1 @@
+program H : _ : takes p75, Jy2, JP1 : integer array returns integer array q : integer; c : integer; L : integer array; o, S : boolean; xT7 : boolean; when case - 9 : let WK = array 67 end case - 4 <= 0 : chillax end case 09 = 7 : input _5; pop end otherwise : while 7950 : chillax end end; do T9(- 59) end main : R, A8, K, Bg : boolean; chillax end

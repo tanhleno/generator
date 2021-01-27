@@ -1,0 +1,1 @@
+program c : a1O : takes ECs, j9 : integer returns boolean array p5d0 : integer; pop end main : Df10a : boolean array; sI : integer array; Bq, y, xzvaa : integer; output ""; output true or 4 - 0 = - 88 . 67 - 22 < 57100 . "" . 2 end

@@ -1,0 +1,1 @@
+program h : J : takes cK : integer returns nothing XT0aa, U : integer; Z : integer; while 1 >= - 7 : while 67 : pop end; input t48a; when case 6 : chillax end; pop end end main : input L[not y2[2]]; input l[- not true] end

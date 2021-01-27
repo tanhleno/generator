@@ -1,0 +1,1 @@
+program ux : wc : takes w : boolean; LV : integer array returns boolean ES30, D6P, l : integer array; chillax end main : ga, zB, g : integer array; g : integer array; when case - not(8) / true : chillax end case - false >= false and 8 : chillax end; pop(8950) and 18 + 6 end

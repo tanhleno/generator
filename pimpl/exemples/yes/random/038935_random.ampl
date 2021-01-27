@@ -1,0 +1,1 @@
+program t : M2 : takes t : boolean array; n, C : boolean returns nothing Y, p : integer; let R = array - 6 and 8 or 3 - 68; let Z = array - 47 end j80 : takes y8, w120 : integer array; P, G2W, A88, C0La : integer; x8, k3Zaa, Y, WK9a, g790 : integer array returns nothing chillax end main : o2 : boolean array; chillax end

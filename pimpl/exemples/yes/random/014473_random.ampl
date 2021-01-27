@@ -1,0 +1,1 @@
+program Uy6 : R7R : takes T, mZ, F : integer array; Q : integer array; cP : boolean array returns nothing output "9" . 9 . "\n" end x : takes VMN : integer returns boolean chillax end main : o, D4c, P, e, o, Dngaa, N : integer array; let Z0A0[52 and false + 94 rem 8] = array - o(25) / true * R and 59 end

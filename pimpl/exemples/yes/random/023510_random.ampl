@@ -1,0 +1,1 @@
+program JM : Q : takes wmi, l : boolean returns integer array z : boolean; chillax end GIY : takes cz, RU9, B360a, is8, W : integer array; V : boolean array; FAj0 : boolean returns boolean M : boolean array; x : integer array; output "" . 3 end main : input i[- true and(31800) and p and 4] end

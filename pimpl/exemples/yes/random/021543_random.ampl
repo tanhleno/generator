@@ -1,0 +1,1 @@
+program N9 : W70 : takes J, o : boolean array returns integer chillax end cM : takes I, T : integer array; uZ : boolean array returns boolean x6T0, h : boolean array; Kf4, N43 : integer; g, n : boolean; Ita : boolean; GC9aa : boolean; output 74 = 9940; when case 2 : do x_(5); pop end; when case 1 : chillax end end main : R : boolean array; chillax end

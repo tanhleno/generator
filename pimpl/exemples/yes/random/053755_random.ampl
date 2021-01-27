@@ -1,0 +1,1 @@
+program y : rn1 : takes J : integer array; w9, Q, z, V07 : integer; Q, O, s : boolean array returns nothing while 5 or 1 > - 549 : pop end end main : G : boolean; L : integer array; input W5raa[- uI and bBZ0a / true - 2 + 8] end

@@ -1,0 +1,1 @@
+program x3 : O : takes u, Sa, ue : boolean array; YRN0a : integer returns nothing chillax end main : p, I, D, Z, C, S : integer array; d, C : integer array; X, Ag : integer; aD : integer array; input Z; do T(17300 and(5) and 5 <= i and 63 + 95, 57 and 5670, 6 - 06400); while 13300 = 5 : chillax end end

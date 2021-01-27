@@ -1,0 +1,1 @@
+program ZNV0 : AO : takes k4 : integer array returns nothing A : integer; do O(- false and 5 + 1 = - 01, 59 - 6 > 6, 9 = 80) end t : takes B : integer array; t5, i, c, l, A : boolean array returns nothing G3i, u9 : integer array; z, Q, N7 : integer array; M2 : boolean; chillax end main : chillax end

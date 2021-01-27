@@ -1,0 +1,1 @@
+program G : V : takes i : integer array returns nothing chillax end FpZ0a : takes Hr : integer; k41 : integer; U, sAGa, _, p, r : integer; LQ8a : boolean; G, b : boolean array returns nothing V650 : integer; t44, U : boolean; do bJqaa(6 - 877); let O1 = array 02; pop 0; do u2(51) end main : chillax end

@@ -1,0 +1,1 @@
+program c : Q : takes X : boolean array returns boolean chillax end tC : takes r4 : boolean array returns integer array e : integer; Y3, h04a, DiM : boolean array; chillax end main : Ky, g0Xaa, FQ : boolean; let Z6 = not(9) > - true end

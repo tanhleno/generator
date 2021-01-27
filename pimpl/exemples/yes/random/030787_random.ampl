@@ -1,0 +1,1 @@
+program d : UZ8 : takes y, kcM : integer array returns nothing j : boolean array; a, wUJ0, WK : boolean array; f : boolean; chillax end main : S : integer array; HKE, E6Uaa, xG : integer array; Zo9 : boolean array; do GO7aa(- not(010)); let M = array - true rem 9; let mJ[- 1 + 4] = - 951; input q[- 389 - 81]; pop end

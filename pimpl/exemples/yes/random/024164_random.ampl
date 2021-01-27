@@ -1,0 +1,1 @@
+program N570a : Zv : takes SH, N : boolean returns nothing V, s, eL, HZ, PM6 : integer array; S9a : integer; F, N, Q : integer; chillax end main : E6, k, s : boolean; input b[- not false or J]; while - 572 : chillax end; when case - true and 1 : do iTz(408) end; input X; do L2D0(4390 = 4, 62); pop 1 end

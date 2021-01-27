@@ -1,0 +1,1 @@
+program A2 : M7 : takes X, b7, Vp30 : integer returns integer chillax end main : while false * false / not 76 : when case 974 - 36 : input ii end case 06 : output ""; pop end end; input UPIaa[- (79) / 39000] end

@@ -1,0 +1,1 @@
+program f : Sx : takes w : boolean array returns nothing xg : boolean array; p8, U : boolean; chillax end main : b, p : integer; when case - not 1 /= 2 * (3) : chillax end case true rem 40000 + (6) - 60 = x and 5 - 42 : chillax end otherwise : chillax end; while G(15) : input a[5] end end

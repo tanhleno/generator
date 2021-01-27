@@ -1,0 +1,1 @@
+program qDA : main : E, N : boolean array; d7, s, s : boolean; when case - true + true - A1naa >= not not 1 and 3560 and 9 - z9 - 7 : chillax end case - 3 / 1 or true : let X[4] = 7 end otherwise : pop end; input F; let t = - 5 - 8230; let Kk1aa[2 - 601] = array 65 end

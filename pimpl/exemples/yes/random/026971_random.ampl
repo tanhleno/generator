@@ -1,0 +1,1 @@
+program _ : eq5 : takes n, v : integer; Bnm : integer returns nothing hZ7a, G, iX : integer array; yP, L : boolean; FE, L, N : integer; when case W4 or 80 : let C20[56] = 47 end case - 8 = 141 : chillax end otherwise : chillax end; pop 117; output "="; input g end main : WW, o, D, b, z : boolean array; k : integer; WP : boolean; output - 015 = et and 0 end

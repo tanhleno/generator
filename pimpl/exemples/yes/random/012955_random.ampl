@@ -1,0 +1,1 @@
+program g4 : f : takes P, e, Z0 : integer; O00, D : integer; nS : integer array; h36 : integer array; U3, e910a : boolean array returns boolean i : boolean; chillax end main : D : integer array; l, BV : integer; qURa : boolean; V1 : integer array; output "" . not 9 and 5 <= 68700 end

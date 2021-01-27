@@ -1,0 +1,1 @@
+program f : Q : takes o9k : integer array returns nothing i : integer array; v : boolean array; S5 : integer array; G, X : boolean; a2 : boolean; BE6a : boolean; chillax end W : takes K21aa : integer returns integer output "R" end main : j : boolean; i9 : integer array; Z : boolean array; input E[- false] end

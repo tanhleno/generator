@@ -1,0 +1,1 @@
+program u980 : _7 : takes f53, P, f, Uw : integer array; j, c : integer array returns integer array e, wJ : integer array; chillax end V : takes P2 : boolean returns boolean input LFL0a end main : pop 6 = - 1690 and 946 - 1 - 63 end

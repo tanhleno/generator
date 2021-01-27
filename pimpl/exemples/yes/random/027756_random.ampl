@@ -1,0 +1,1 @@
+program R : u : takes a, l84a : integer array; bns, oZm : boolean array returns nothing t : boolean array; t, J, f : integer array; while(1) - 5 - 89 : do P(0, 1); when case 5 : chillax end end end p0 : takes c, d3M, p : boolean array; j, D : integer returns nothing lf9a : boolean; C1 : boolean; X66 : boolean; w : boolean; x5 : boolean; chillax end main : X : boolean; chillax end

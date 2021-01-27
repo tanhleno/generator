@@ -1,0 +1,1 @@
+program d : t2maa : takes ScMaa : boolean returns nothing M8, yO2, Y9, t, k53 : integer array; VE, sE, siga : integer; let Hg[- T and 8] = - 2 - 0 > 9 end Dbtaa : takes m6Oaa, O : boolean; n, pm8a : boolean returns boolean U : integer; m, P2D, Z : boolean array; s, y : boolean; chillax end main : chillax end

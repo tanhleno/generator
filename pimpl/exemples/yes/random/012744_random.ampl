@@ -1,0 +1,1 @@
+program ol8 : i : takes B38, p, J2S : integer; W, R180a, b4 : integer; Qv : boolean; xxA : boolean array; dC, R, U : boolean array returns boolean chillax end main : G1z0a, E : integer array; _ : boolean array; chillax end

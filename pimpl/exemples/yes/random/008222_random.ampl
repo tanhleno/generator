@@ -1,0 +1,1 @@
+program n : BK : takes t0, w, h, c : integer returns nothing _Mf0, e, sKw0a, j5s0, C : integer array; dpA : boolean array; bDi, x : integer; N, L5 : boolean; bQC : boolean; gt : boolean; chillax end main : output "[4!" end

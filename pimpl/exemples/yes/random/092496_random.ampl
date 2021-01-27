@@ -1,0 +1,1 @@
+program n : main : output false; when case l[01] * false and 7 : chillax end case - (7) and 32 or 9 - 0 : pop; pop end case - 8 - 6 : while 6 : chillax end end case 91 : chillax end otherwise : chillax end; when case - 6 and 944 or 6 > 24600 - 78 : chillax end case 6 : chillax end case 1 = 5 : output "\"" end case 34700 : pop end case 5 : chillax end; input J2 end

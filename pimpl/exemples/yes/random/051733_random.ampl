@@ -1,0 +1,1 @@
+program wR : S : takes PX7 : integer; om1 : boolean array; yv : boolean; _2J0a : integer array; P, A, A340a : integer array returns boolean chillax end main : G5, o0H0 : boolean; do Ft(- 23 /= false); while 9 * 3 and 6 : chillax end end

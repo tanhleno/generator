@@ -1,0 +1,1 @@
+program s : IN90a : takes ne : integer array; E : boolean array; a, E : integer returns nothing d : boolean; b : boolean; o : boolean; chillax end CQ : takes mX6, d3 : boolean returns boolean array chillax end main : e, b, w, G1, k, j, O9D0a : integer array; chillax end

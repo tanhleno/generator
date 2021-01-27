@@ -1,0 +1,1 @@
+program h : P : takes W : boolean; Z : integer returns nothing YE, h, K, e : integer; JhO : boolean array; p : integer; input N3a0; while - 73 - 6 : chillax end; input z; output "^" . "" end main : chillax end

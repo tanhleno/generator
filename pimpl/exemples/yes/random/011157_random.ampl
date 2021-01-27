@@ -1,0 +1,1 @@
+program O : h9H0 : takes IS7aa, g, v96 : boolean array returns nothing W, bt, m, b, H9 : integer array; pop; when case 2 : pop end end fp : takes X4w, h : integer array returns nothing j3q : boolean; C : boolean array; pop 79 end main : while false - Y[71] * 71 and 2 : chillax end; pop end

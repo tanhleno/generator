@@ -1,0 +1,1 @@
+program ULt : m : takes Q5, H, H : boolean returns integer R, y4, VR : boolean; H1, B, L : integer array; J : integer array; b, l : boolean; chillax end main : when case not 50 - true or true <= not 2 or y5 or 263 : chillax end; let j7c[F59[05] and X - 14800 + 83 - 1] = array EE[0]; let r = - 24700; output 464 = 176 end

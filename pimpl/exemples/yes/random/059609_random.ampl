@@ -1,0 +1,1 @@
+program p49a : u : takes d : integer array returns integer while - 2 or 0 - 147 : do D(2, 70); output "\n\t" end end main : _D1aa : integer array; do qWU(- true); pop; do w78(- not 47 and 4 + 1 - 37, 7 - 7 < 91); do _(- 511 - 6, 08, 30900) end

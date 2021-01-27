@@ -1,0 +1,1 @@
+program _6A0 : w : takes vp : boolean array returns integer while not 5 : pop 0; let V2 = 9 end end L : takes A6Haa : integer array returns nothing let R5 = 4 = 10 end main : Cf, t3J : boolean; output - false /= false end

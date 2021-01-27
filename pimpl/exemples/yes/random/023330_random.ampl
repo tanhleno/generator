@@ -1,0 +1,1 @@
+program BQ : w : takes Y29aa, s72a : boolean returns boolean output "" . "" . "" . 1 end o : takes pz, VP, a, Fc, j : integer array returns boolean B : integer; Vm00a, d96a, t : boolean; m, h6 : boolean; chillax end MQ : takes Y : integer array; V, T : integer array returns nothing g : integer array; o75aa : boolean; chillax end main : when case - 15 : chillax end end

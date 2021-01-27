@@ -1,0 +1,1 @@
+program O6 : J5 : takes S8w : integer; qj7 : integer returns nothing y4z0a : boolean; dZ : integer; chillax end main : mQw, P : boolean; output "" . true and 1 + 3090 = 7; while false : let z = array 2 end; while 0 + 20 - 5 < - 07 - 0 : output 7 . "\"va"; input W end end

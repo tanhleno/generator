@@ -1,0 +1,1 @@
+program g : GX : takes x, k : integer; Rha, l, C : boolean; y2 : boolean returns boolean chillax end main : when case - true / not(5830) = 317 or(29) and 61700 : let hY = 9 end otherwise : while 08 = 3 : chillax end end; output "\n" . "" . "\t" . 7; input u[C]; when case - 7390 - 516 : do Ao(6) end case 094 = 54 : chillax end otherwise : while 3 : chillax end; pop end end

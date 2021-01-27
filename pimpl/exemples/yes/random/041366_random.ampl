@@ -1,0 +1,1 @@
+program Q : P : takes v0ma : boolean array; f : integer returns nothing n610, t : boolean; pop 1 /= 6; input J end Oo : takes l : boolean array returns boolean H2, l7, K : boolean; H, I, q2 : boolean array; chillax end main : chillax end

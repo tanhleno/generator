@@ -1,0 +1,1 @@
+program z : z : takes K8, Ugxaa : integer; d, m97 : integer; uT60a : boolean returns nothing L, R, U6 : boolean; chillax end b_ : takes U : integer array; q, uFja, g : boolean array returns integer N : integer; chillax end main : I, t : boolean array; while - true < - true : chillax end end

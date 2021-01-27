@@ -1,0 +1,1 @@
+program j : snw : takes m00a, n24a, q : boolean array returns nothing d520a : boolean array; chillax end nU : takes c, N9, pq6 : boolean returns nothing Ls, gS2, dp0a, v : integer; chillax end e9 : takes N3saa, m3la, M5 : integer; PP, fJ, E : boolean; ArY, _zF : boolean; w : boolean returns integer Uc : boolean; chillax end main : J : boolean; chillax end

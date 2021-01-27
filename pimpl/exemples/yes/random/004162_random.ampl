@@ -1,0 +1,1 @@
+program n2 : S : takes Z, V0f, f02aa, N9Ca, A8maa : integer returns nothing when case not 7080 and 40 - 39 >= - 35600 : pop end case 0 - 08 : chillax end end main : A4S0, A0, X : boolean array; chillax end

@@ -1,0 +1,1 @@
+program u : N : takes A : integer returns boolean array o : boolean array; chillax end main : when case false / true / not 2430 - false > - false + I - 130 : pop 76 = 8 end; output "\n"; when case 61700 and 1 >= - 6 - 0 : chillax end case - 7 - 3 : while 4 : chillax end end end

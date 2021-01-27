@@ -1,0 +1,1 @@
+program T : main : di6aa, dS40 : boolean array; E : integer array; w : integer; Z : integer array; c : integer array; n9, m : boolean; Y : boolean; output - true * false < true and 659 + 8 - 242 . false and 5 + 8 - 7 end

@@ -1,0 +1,1 @@
+program _q : erP0a : takes xY, u, u1 : integer; D9c : boolean array returns integer pop - 91 - 23300 end q9x : takes K, h, p5, n5uaa : boolean returns integer array chillax end main : pop; do Wj(x04aa - (14) = true and 7); while false : chillax end; while - 76 > 34 : when case 9 : chillax end end end

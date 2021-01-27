@@ -1,0 +1,1 @@
+program b9Ia : main : when case - (05) + (559) or O and 8 or 939 : when case 89 - 5 : output "1" end otherwise : chillax end end case - (65) or b >= - (92) - 6 : chillax end case true and 6 or 1530 - 029 : chillax end otherwise : when case 1 : while 19 : chillax end end case 19 : chillax end otherwise : pop end end; pop end

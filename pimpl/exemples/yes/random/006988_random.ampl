@@ -1,0 +1,1 @@
+program A : p4 : takes J, Ax, I, H4 : integer array; W, A : boolean array; D1H, PHN : integer array; D : integer array; N2, W1y0a : integer returns nothing while - true and 43 or 2 /= - 17 : let PICa[3] = array 6; output "\t\""; do Ay(570) end end Dt : takes Z : integer; S6S : integer array returns nothing P : integer; do dP(0 = 1) end main : chillax end

@@ -1,0 +1,1 @@
+program nQ : d : takes RPf : boolean returns nothing Z : boolean array; t : boolean; Q : integer array; input G end z : takes I, l5, V : integer returns nothing jV : integer; chillax end main : chillax end

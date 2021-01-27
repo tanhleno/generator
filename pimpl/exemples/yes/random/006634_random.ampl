@@ -1,0 +1,1 @@
+program Z : l : takes p, P, Cb1aa, jK : integer; U : boolean array returns nothing let E8[- true - 588] = array - true and 1 end main : w, v640a : integer; output(0) rem CZ3a < - true - 4; let B19[not 1 and false] = array not i3Faa / not 17800 and 4 - true and 32; let d9 = array true end

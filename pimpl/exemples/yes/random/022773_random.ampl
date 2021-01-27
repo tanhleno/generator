@@ -1,0 +1,1 @@
+program A : G8 : takes mhDaa, _ : boolean array returns nothing when case - false and 8 = - 5 : output "" end end _O : takes qzy0 : integer array returns integer array let y[638 - 0] = array - 5 - 15 end g : takes b, S : boolean returns nothing chillax end b : takes D27 : integer; H : integer returns nothing let v[29] = 2 end main : chillax end

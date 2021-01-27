@@ -1,0 +1,1 @@
+program R : R6 : takes w7z : boolean array returns nothing i4 : integer array; chillax end Tz : takes i1n, o, H : boolean array; S : boolean; d : integer array; I6, t : integer; G, g : integer returns nothing chillax end main : H, N, Qv : integer array; g68, Y : boolean; c : integer; O : boolean array; K : boolean; let Y = false = 90 end

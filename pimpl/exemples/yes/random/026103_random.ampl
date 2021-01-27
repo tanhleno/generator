@@ -1,0 +1,1 @@
+program w : R : takes X, wVX0 : integer; A2 : boolean; o : integer array returns boolean array pop - 1 > 60500; do mA0aa(78 - 257) end main : output "3" . "" . "2\\\"" . 87800; do W((1) * 729 and 82 + false and 8 or 5 - 9, - (9) or 2 - 0630); input Vj[false]; while - 4 - 61 : when case 346 : chillax end; do w(4); pop end; do u(52) end

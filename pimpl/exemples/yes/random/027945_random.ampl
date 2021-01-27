@@ -1,0 +1,1 @@
+program H : u : takes CX, yJ : integer array; S01, B : integer array; H : boolean; biM : boolean; rC2, h8 : boolean array; I : boolean; jng0a : boolean; SK : boolean returns nothing output - 3 - 84500 . 5 . "#" end main : k, h : integer; r : boolean array; chillax end

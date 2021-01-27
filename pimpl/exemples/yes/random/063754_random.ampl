@@ -1,0 +1,1 @@
+program s0 : DB00a : takes Z : integer returns nothing chillax end _5 : takes e : boolean array; T, WvK : integer array returns nothing g : boolean; h : integer array; A5, Ot : boolean; k3s : boolean; when case 9 : pop; do V(6) end case 9 = 2 : chillax end end main : chillax end

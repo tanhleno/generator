@@ -1,0 +1,1 @@
+program n : c : takes s2 : boolean; bf, y : boolean array returns nothing Qg, G, d, Em3aa : integer; a, BKCaa, x, y0 : boolean array; Z, lXR0a, Re4aa : integer array; _, HD9 : boolean; xm : boolean; y : boolean; chillax end main : while false * 2 * (212) - false + not 77 and 876 = - not zd / b or false : chillax end end

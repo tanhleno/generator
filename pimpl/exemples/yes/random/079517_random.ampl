@@ -1,0 +1,1 @@
+program p : main : T5E : boolean; c : integer; _, D, UT0 : boolean array; let g[3 and not(3) / 21 or false + false - 0 - 8] = 50 + (87) and 1 + 13 - 80; when case not(9) /= - 10 or 8 - 4 : chillax end case - 841 and 1 or 0 - 6 : chillax end; input y[(6) and 77 + 3240] end

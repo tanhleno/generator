@@ -1,0 +1,1 @@
+program hG2aa : F76 : takes Q4, O4 : integer array returns nothing input Z; pop; when case 12 = 09 : chillax end otherwise : pop end end n8A : takes j8 : boolean; Z, kFB : boolean array; E : boolean array; F : integer returns nothing while 2730 - 98 : do d(7) end; do y(4 = 7) end main : output "" end

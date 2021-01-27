@@ -1,0 +1,1 @@
+program v : U : takes n8ia : boolean returns nothing chillax end main : s : integer array; OU : integer array; U, n710a, j, u, S88a : boolean; when case 72400 rem true and 26 and 6 - false - true /= - false * true and 4 : chillax end otherwise : chillax end end

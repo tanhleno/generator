@@ -1,0 +1,1 @@
+program q0o : g : takes c9, _ : integer; A, iV60a : integer array returns integer RDpaa : boolean; chillax end Ys : takes d : integer returns nothing when case - 39 < 414 : pop end case 925 : output "C"; pop end end c6 : takes oy6a, F : integer returns integer array Q4G, j, H : integer; h2ia, T : boolean; chillax end main : chillax end

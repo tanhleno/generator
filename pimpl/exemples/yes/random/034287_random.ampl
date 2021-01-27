@@ -1,0 +1,1 @@
+program s : Y11 : takes i : boolean; u, Mt5aa : boolean; Yg : boolean array; n, R5, T, L, _ : integer; O2, A, cQ, Xy : integer; i : integer array; _DLa : boolean returns nothing chillax end DQ : takes z, N, L : integer; qdaa, p, uu9, a0D : integer array; C9 : integer array returns nothing SC : boolean array; let Oj[3 - 1] = 003 = 14800 end main : chillax end

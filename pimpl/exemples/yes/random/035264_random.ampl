@@ -1,0 +1,1 @@
+program Y4G : WLc : takes g0 : boolean; k1, O67a : integer returns nothing x, r, y : boolean; bF80, bY, N : boolean array; Y0X0a : integer; jyW, R9L0 : boolean; i : boolean; chillax end n : takes T : boolean returns nothing do z1(- 1 = 8) end main : chillax end

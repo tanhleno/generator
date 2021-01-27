@@ -1,0 +1,1 @@
+program O4 : main : R, fvA : integer array; S4V : integer array; do rY3(- true - not false rem 5880 or true and 32 /= 96 - (1) and 92 or 2 - 27, - false and not 33500 and 7 + false <= Q0 and 2 + 0290 - 1); do C(true < false + 76 - 60); when case Y and 9 + 69 - 0 < - 72 - 95 : let R = 11600 end otherwise : when case 8 : chillax end; let P8 = 1 end; input H16[2 - 993] end

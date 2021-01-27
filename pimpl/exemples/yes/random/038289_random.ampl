@@ -1,0 +1,1 @@
+program SQ60 : Y0M0 : takes j1 : boolean array; Y0, C170a, CzA0 : integer array; I8 : boolean; u : integer array returns nothing jK3, h : boolean; chillax end u04 : takes r : boolean returns integer array R9 : boolean array; chillax end main : chillax end

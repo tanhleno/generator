@@ -1,0 +1,1 @@
+program R : i : takes K : integer; C3ta : boolean returns boolean array do Eg3(- false and 4 or 0520 = 869); input Y; when case 9 = 5 : chillax end case 428 : chillax end otherwise : chillax end end main : chillax end

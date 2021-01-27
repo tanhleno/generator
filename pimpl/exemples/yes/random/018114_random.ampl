@@ -1,0 +1,1 @@
+program q : XF : takes S, g : boolean; b : integer; a, B, m : integer array returns nothing output "93!"; input rFE0[- 0 - 3]; do c(04) end Z : takes Jyw, v, t3Oa : integer array returns nothing chillax end main : lsm, Xb : integer array; D, O890, s : boolean; o24, i, Gaaaa, z1s : integer; d, U, c : integer array; Q, f : integer; chillax end

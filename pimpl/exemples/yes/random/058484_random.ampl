@@ -1,0 +1,1 @@
+program Im : z2 : takes L : integer array returns boolean let D8[not 116 and 834 - 5] = array - false and 2 or 91700; let _[- 09] = array - 7 - 41 end main : while 6 <= 06 rem 0 - true : chillax end end

@@ -1,0 +1,1 @@
+program w : main : No : boolean; when case not 9 rem 7 and not 0 + q - 7 and 6 : do q9wa(414 > 4, 5) end case - n / true > - 4 and 03 : output ";90"; output 484 . "N:aa" end otherwise : do O(5 = 94, 6); do f(9, 8); input W end end

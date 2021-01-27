@@ -1,0 +1,1 @@
+program N020a : main : W7T : integer; output(3) <= (0); input DwG[not not 6]; when case ou and 8 : output 28 . ""; input i3na; pop end case - 599 < 0 : chillax end case 4 = 4 : while 578 : chillax end; pop end case 04 : chillax end case 7 : chillax end end

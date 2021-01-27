@@ -1,0 +1,1 @@
+program Uf5aa : yS : takes K, an : integer array returns nothing A, i, p, b5, W : integer; chillax end r85aa : takes T, cw1, c : boolean array returns boolean array u23a, F, Q19, t : integer array; m0_0 : boolean array; chillax end main : h, u, K, _, f : boolean; L4Ba : integer array; e : integer; chillax end

@@ -1,0 +1,1 @@
+program k0 : vl : takes k8Daa, B : integer array; YY7 : integer; z, S : integer; z : integer array; E, b : boolean; GU : integer array returns nothing chillax end main : let B6[- 1 * (7) * (18) - true - false] = true and not 6; let j = - false and 401 - 8 - 343 end

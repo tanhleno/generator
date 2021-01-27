@@ -1,0 +1,1 @@
+program L : main : p940a, S : integer; pop false / 74 and 8650 <= - (147) and 9 + 6 - 5720; when case(9) or true and 67 - 9580 > not 2 + 9 : chillax end case - (07) and 5 + 1 - 50 : chillax end case - 02600 - 4 <= 6 : do Z(095) end; let n19 = 49 - 7; output 26 = 36600 . 91; input v4 end

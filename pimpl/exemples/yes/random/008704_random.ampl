@@ -1,0 +1,1 @@
+program S : W95 : takes WX, v, l : boolean; q, Qm : boolean; D0 : integer; B0 : boolean array returns integer array S87 : integer array; g7G : integer array; J : integer array; chillax end N : takes bx : boolean array returns integer when case 2 < 87300 : chillax end end K020a : takes w, ov5 : boolean array returns nothing G : boolean; K : boolean; chillax end main : chillax end

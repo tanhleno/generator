@@ -1,0 +1,1 @@
+program Vq4 : S : takes Z : integer array; z, k, y : boolean array; Nm, n : integer array returns boolean chillax end H : takes y5h0a, nz0, l : boolean returns nothing let I4F = array - 2 end main : do H(- (0 = 569) - (2) and not 8 and 94 or false and 61, - false < - not 5 and 1 or 30600 - 420) end

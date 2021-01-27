@@ -1,0 +1,1 @@
+program VV : mb : takes SY : integer array returns nothing while Sii0 : do x(6) end end Z : takes W, N : integer array; p : integer array returns nothing W : integer; H, NV, s : integer array; b, ioG : boolean; chillax end main : output - not true * not 578 and 3 >= - S7i . false and 6 - 4 - 8 . 868 end

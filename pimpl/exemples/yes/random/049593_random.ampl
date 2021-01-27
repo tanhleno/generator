@@ -1,0 +1,1 @@
+program A : t72 : takes u68 : integer; a7, ZD, L, R : boolean array returns nothing S : integer array; chillax end V : takes SUYaa, o12, tA, k : integer returns nothing g : integer; x : boolean array; T62aa : boolean; G : boolean; e : boolean; do E5(984 - 83, 62 = 4, 6, 04) end main : NM, Q, x3 : integer; R : integer; chillax end

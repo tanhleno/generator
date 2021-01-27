@@ -1,0 +1,1 @@
+program V : e : takes IY : integer array returns integer array I7, m : integer; f, G99aa, Z : boolean; R780 : integer array; chillax end main : let Z[- 20 + 86 * (9) - false + 715 - 8] = array - 1 end

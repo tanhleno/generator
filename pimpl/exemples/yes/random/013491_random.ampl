@@ -1,0 +1,1 @@
+program LT80a : fR8 : takes mrn, V0Xa, X : integer; S : integer array returns boolean chillax end main : C7, f, r : integer array; Hk70 : integer array; l, u : boolean; input T; while - 57 rem 9 and 04 : chillax end; pop 71 - 63 end

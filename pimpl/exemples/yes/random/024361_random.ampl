@@ -1,0 +1,1 @@
+program b62a : r : takes E, U5 : boolean returns nothing _n0aa, Vl : integer array; chillax end Zq : takes uP5, h, V : boolean array returns nothing do r(6490, 9 = 0); while 987 = 9 : chillax end end s : takes TX : integer array returns nothing U, E0, v : integer array; pop 03 end main : l85aa, y7K : integer array; nt, kx : boolean array; chillax end

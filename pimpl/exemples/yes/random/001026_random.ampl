@@ -1,0 +1,1 @@
+program j : P : takes AP, K1, j, Qp0a, m5Zaa, qK, s61 : integer returns integer array when case true or 9690 = 9 - 4 : when case 3 : pop end case 8 : chillax end; input Z; do m5(652) end case 89600 >= 5 : let ht = 29 end case 60000 : chillax end; do M(684 /= 29) end main : let P = array - false and(0) end

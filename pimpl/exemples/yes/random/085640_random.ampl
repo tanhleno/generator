@@ -1,0 +1,1 @@
+program e : main : c : integer array; Pb80, M, lL, N, K7 : integer array; s11, P : integer array; when case - not 922 / (0) : let r = array 7 - 6; pop; input LA end; do Q(not true >= - true, 07 and 9 + 9 = 3 - 106); when case J and 29 = 3 : do Q(7, 68) end case 4 > 1 : when case 010 : chillax end; output ""; pop end case 255 = 89600 : let b = 910; pop end end

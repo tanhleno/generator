@@ -1,0 +1,1 @@
+program s : vIra : takes t, oa : boolean; T : integer array returns nothing A, M : integer array; G4, T, j3, UJxa : boolean array; chillax end main : K : integer; a4L0a, f : integer array; s9, H : boolean; T720a, U : boolean; chillax end

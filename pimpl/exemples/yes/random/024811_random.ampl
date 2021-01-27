@@ -1,0 +1,1 @@
+program S : Mw : takes J, Y : boolean returns nothing pop 1 - 6 >= 5; while - 26 - 37100 = 1 : do k(2) end; input JwD[34]; while 822 : chillax end end H : takes s, O, fP : integer array; j : boolean array; T : boolean array returns nothing F, Nn2 : boolean array; input a23[25] end main : h5 : integer array; N7z : boolean; zo6aa, O1Daa : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Bz : z : takes b : boolean array returns boolean array let Qy = array not 51900 and 144 + 57 - 9 end t7r0 : takes Bj : boolean array returns nothing chillax end main : do b(- N8[8], - n / not 9 and 4 < (509) + 6); output "" . 6 - 92500 <= 0 . 4970 = 6 end

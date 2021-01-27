@@ -1,0 +1,1 @@
+program Ii9 : f : takes x, la : boolean array returns integer array do x62(- true and 6) end D : takes y : integer array returns nothing chillax end main : output ""; do Q(- true * (4) + not 5 and 6 /= false and 93, - true or 315 - 303, 38 - 33) end

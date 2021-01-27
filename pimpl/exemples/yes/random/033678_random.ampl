@@ -1,0 +1,1 @@
+program Y : Nn10a : takes tgba : boolean; kC, bD, J, e7Sa : integer array returns integer chillax end ht : takes nJ : boolean; N3 : boolean; j, f : integer array; y1 : boolean returns boolean output "2"; input r8 end main : r6 : boolean; L : boolean array; chillax end

@@ -1,0 +1,1 @@
+program L6 : F : takes s, K : integer array; L, o, f_, J : integer returns integer m4, ZA, hj : integer array; a, P : integer; y, Q6, B15 : boolean; B, M : boolean; when case - n and 3 - 4 : chillax end case 2 = 6 : do B7(2) end otherwise : chillax end; do a(- 1); when case 7 = 66100 : let h = 933; pop end case 1 : chillax end otherwise : pop end end main : chillax end

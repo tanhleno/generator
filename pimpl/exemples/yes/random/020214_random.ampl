@@ -1,0 +1,1 @@
+program v : Xd7aa : takes x29, T : boolean array; Hl : boolean returns nothing let O[- 0 or 19700 - 79800] = 8 - 80 > 2 end main : Y4 : integer array; V7 : boolean array; output(7) + V6 and 2 . - (54) - 826 . 3 - 9 <= 5 end

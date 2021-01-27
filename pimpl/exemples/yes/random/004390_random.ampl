@@ -1,0 +1,1 @@
+program ru : u : takes A, RA9aa, L, A : boolean; K, AAT : boolean returns nothing pop 96 - 38 end main : wX6, m : integer; P, r1, J, Gr : integer array; pop - true /= false - 613; do WPD(- (22) rem not 37 and 1); input El[- false or 24100]; while 502 = 75 : chillax end end

@@ -1,0 +1,1 @@
+program Gd : m : takes r : integer; o : integer; d : boolean returns boolean chillax end r82aa : takes z, z : integer array returns integer array when case - 86 : when case 33 : chillax end; output ""; pop end case 530 = 5 : chillax end case 679 : pop end end l3A : takes v : integer array; o : boolean returns nothing chillax end main : w_i : integer; chillax end

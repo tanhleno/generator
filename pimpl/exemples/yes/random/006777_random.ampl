@@ -1,0 +1,1 @@
+program O4Aaa : B7Z : takes W8, U, j, W4 : integer; d80aa : integer returns integer r, uG4aa : integer; chillax end BaIaa : takes y : boolean array returns boolean P, a000, y : boolean array; FG : boolean array; chillax end main : output(88) * true and 8 < - false and 2 - 761 . "5z\"a"; pop - 16100 or 75 end

@@ -1,0 +1,1 @@
+program x : c : takes O : boolean array; Gp70a, T : integer array returns nothing b : boolean array; pop - 2 <= 58; input v9[11 - 2]; while 029 = 032 : chillax end; output "" . "" end main : B : boolean; x : integer; chillax end

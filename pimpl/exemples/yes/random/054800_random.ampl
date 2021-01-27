@@ -1,0 +1,1 @@
+program cgR : dhC0a : takes qq : integer array; J5, c : boolean returns boolean output "" . "" . "" end id3aa : takes x340, n : boolean array returns nothing _v5, Gs8, O, U : boolean array; when case 98 : chillax end case 5 : do R(60); pop end otherwise : let l = 4 end end main : f : boolean; S, O : boolean array; Z : integer array; pop - not W90 - r end

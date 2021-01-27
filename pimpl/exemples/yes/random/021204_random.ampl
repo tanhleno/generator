@@ -1,0 +1,1 @@
+program Q : j : takes OO, j : boolean array returns boolean let I = 2 > 9; let cc[- 69200 - 283] = array 66 - 596; while 2 : let f5e = 33 end end main : q9 : integer; W5 : boolean array; c : boolean array; let M5R = array A rem 98; let n4[- true] = array - not 32000 + not 42 + 150 - 04; pop - 2; output 3 = 3 . 2 . "" . ""; pop end

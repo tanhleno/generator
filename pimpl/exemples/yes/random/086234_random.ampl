@@ -1,0 +1,1 @@
+program D4 : main : cb : integer array; R7, w8 : integer array; Tg, B : integer array; yO, X, NB, e : integer array; T9, R87, o6 : boolean; fV, Pc : boolean; d : boolean; pop - (3) and 4 and 0 /= - A and 8 - 8 - 298; while - 8 rem(0) and 8 + 154 and 247 or 9 - 231 > - 39 or 5880 - 4660 : while 18 = 2850 : chillax end end; while - (8) > - 245 : while 269 : chillax end end end

@@ -1,0 +1,1 @@
+program yt : main : while - false / true : pop end; do Q97(O(4) rem wR8 and 43200 /= - not 2 and 74, - (3)); when case not 98 or 833 - 7260 : chillax end case 89300 - 78 : output ""; pop end otherwise : output ""; while 11 : chillax end end end

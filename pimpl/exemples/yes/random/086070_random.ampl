@@ -1,0 +1,1 @@
+program W8 : main : y : integer array; c3R0a, dU6 : boolean array; hx7aa : integer; do k(- true and 4 * o9 - (2) - 0 and 7, - not 7180 rem not 3 + not 424 + 8670 > not 1 and 2810, - (042) and 6); input U; let y[9 or 05200] = - 0 - 8 >= 6 end

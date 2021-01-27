@@ -1,0 +1,1 @@
+program c_p0 : dD : takes b, V : integer array; f4 : boolean array; J : integer; A : boolean returns nothing W, T : boolean; CH, P : boolean array; d, A69, A7 : integer; let Q = - 5 > 1340; do k(- 5590 = 4, 168, 08); do P4(8); when case 7 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Ja : c4 : takes s, j2, R4, o : boolean array returns integer chillax end g : takes L8Qaa, fej0, J3n : integer array returns nothing chillax end v : takes VyWa : integer; N, n, c16, P : integer returns nothing output 8 . 0 end main : k, ed, M86 : integer; Jg : boolean; chillax end

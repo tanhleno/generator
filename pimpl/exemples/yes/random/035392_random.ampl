@@ -1,0 +1,1 @@
+program j0q0 : D : takes V360a : boolean; YU : boolean; f, P7 : boolean; P14, lB90a : integer array; Q : boolean array returns boolean chillax end v : takes cQ1 : boolean array; l8, sA8, Q, f6w : integer array returns nothing chillax end main : do V(- 91 rem false); while true and true < - false and 36000 : chillax end end

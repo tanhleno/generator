@@ -1,0 +1,1 @@
+program g : d : takes a, M29 : integer; T, W : integer array; G : boolean; q, G, c2L : boolean returns nothing pop - 3 end main : do d(true / false * 05 and 60900 + (1), - false, not 14, - 366, 13, 986, 6) end

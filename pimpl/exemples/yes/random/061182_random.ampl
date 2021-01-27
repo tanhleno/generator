@@ -1,0 +1,1 @@
+program X : f : takes L : integer array returns nothing X7 : integer array; output - 02 - 3320 . 5 . 833; do oQ(57 - 4 >= 1) end N : takes l, d9j : boolean; I3, AFO : boolean array returns boolean chillax end main : d, w1G0, y, p : boolean array; D, o, O : integer array; chillax end

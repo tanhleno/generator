@@ -1,0 +1,1 @@
+program wn30a : O_ : takes z, lFZ0 : integer array; i6, M : boolean array; G, e : integer; c, g1m0a : integer; v, h5G0a, TG, I1 : boolean array; D : boolean returns nothing chillax end main : uz, R : boolean; C2 : integer; vW : boolean array; output 72300 >= - 0 and 02 . "5" end

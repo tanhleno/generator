@@ -1,0 +1,1 @@
+program d : K : takes J : boolean; m, O : boolean array; XcJ0a, R : boolean; S : boolean returns boolean B : integer array; output "\tE"; let T[- 13 - 500] = array - 2 end main : y : boolean; G7X, e1 : integer array; JF, Km, GS : integer array; zlp : boolean; chillax end

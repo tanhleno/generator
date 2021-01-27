@@ -1,0 +1,1 @@
+program M : I : takes p : integer returns integer array o : boolean; do G(4 + 09); output "" end main : when case false and(1) + true : chillax end; input F05; do J(lC and 3550 + 75 - 6, 531 - 85 <= 84); while - 64 - 19 = 2 : pop; input t6; pop end; let p = 95500 end

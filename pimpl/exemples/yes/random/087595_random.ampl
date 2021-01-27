@@ -1,0 +1,1 @@
+program E : main : y : integer array; when case not 43 * Y[3] : when case - 97 <= 851 : chillax end; pop; when case 6 : pop end case 5 : chillax end; let T6w = 9440 end case 5 and(2) and 8390 + not 7 > not 7 + 30700 - 948 : pop 4 end case - 2 and 8 : when case 7 : chillax end case 4 : chillax end end otherwise : when case 2 : chillax end otherwise : pop end end end

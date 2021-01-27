@@ -1,0 +1,1 @@
+program X2 : B : takes no_, i06, a : integer array returns boolean array output - 56100 end main : T : boolean array; do J(349 or not false rem false and 54600 or(1110) + 558 - 51300, false rem 7) end

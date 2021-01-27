@@ -1,0 +1,1 @@
+program jTLaa : M : takes pf7 : integer array; NEaaa : integer array returns nothing q : integer array; g : boolean array; e : integer array; do n(- W and 0 <= 76); input V4[4] end main : H, d : integer array; xs, Px7 : boolean array; x : boolean; chillax end

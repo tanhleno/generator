@@ -1,0 +1,1 @@
+program V : main : o45 : integer; do Y(- false * true / false or(1) * WF90 and 4 + (2560) and 0); output AC + 7 - 3 /= 3 - 1 . "\"" . "j"; while(2) and 2 + 3110 - 42 : pop 4; when case 88 : chillax end; when case 0 : chillax end end; pop; pop end

@@ -1,0 +1,1 @@
+program V : x : takes A, O : integer array; g : integer returns nothing while false and 19700 /= 2 : when case 80900 : chillax end otherwise : chillax end end; do t(7 = 245, 5, 732) end main : D, E9Gaa : integer; P : boolean array; chillax end

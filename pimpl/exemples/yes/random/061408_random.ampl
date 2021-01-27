@@ -1,0 +1,1 @@
+program P : St50 : takes O : integer array returns nothing output "1\\"; output 3 = 53 . 53 . "."; do R6(32 = 83, 4) end main : mSW, F0 : integer array; let N[- mq[6] / (5) or(5) + 3 + 1940] = array - not A(6) or true / 7 end

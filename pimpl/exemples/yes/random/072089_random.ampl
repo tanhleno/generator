@@ -1,0 +1,1 @@
+program jA : main : r1, E78, ZA8 : integer; C, U : boolean; Lk, Wl, D1, t : integer; let W = true and true /= (09) and 85900; pop(4) and 3 = 1 - 85; output - 6720 - 9 . ""; while - 8 - 8280 <= 717 : let t = 978 end end

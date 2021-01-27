@@ -1,0 +1,1 @@
+program n2 : d : takes I170, v : integer array; qUL0a, h : integer; T, E : boolean array returns nothing do ZBY0(true, 5, 987) end main : t, a, fB, M : boolean array; U, A8i0, G88 : integer array; chillax end

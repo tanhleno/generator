@@ -1,0 +1,1 @@
+program E : C : takes Ck, G, ijr0, F, t170a, B : boolean array returns nothing output - 3 < 1250 . 14 = 3 . 20 . "\t0" . "7"; input k9 end main : Fb5 : boolean array; J56aa : boolean array; chillax end

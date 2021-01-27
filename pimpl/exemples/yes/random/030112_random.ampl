@@ -1,0 +1,1 @@
+program NzK0 : tI6aa : takes p, m750a : integer array returns integer let k = array - 07 and 4 or 8 - 741; while 33 - 9 : output "\n" end; when case 5 : chillax end otherwise : pop end; while 88300 : pop end end main : sk8aa : boolean; M : boolean; s6U : boolean array; chillax end

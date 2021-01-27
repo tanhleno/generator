@@ -1,0 +1,1 @@
+program o : v : takes x : boolean returns integer X7 : integer; chillax end main : pd : boolean array; t82, ml9aa, a500a, N : integer; when case 5 - not j - false or 47 : chillax end otherwise : pop end; input SY7aa end

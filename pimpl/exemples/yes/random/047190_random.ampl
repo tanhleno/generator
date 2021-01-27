@@ -1,0 +1,1 @@
+program Kdb : b73 : takes b : boolean returns integer k6 : boolean array; w : integer array; d3, OV8 : integer; while 8 and 15600 - 1 - 9 : when case 33 : chillax end end; output "1" . 7 . "" . "" end VZf0a : takes E, v, m, j : boolean array; E4 : boolean array returns nothing sO, d : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program zty : main : input I05; let u[- 82 - (2) - 4] = array(4) / (415); when case - 5 + 10 - 29 : when case 6 : pop end otherwise : chillax end; when case 53 : chillax end end case - 89 /= 8090 : output "J" end case 7 : while 7 : chillax end; pop end otherwise : let VI = 3; let ImM0 = 91; pop end; when case 56 - 8 /= 49600 : chillax end; while 4530 : chillax end end

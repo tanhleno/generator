@@ -1,0 +1,1 @@
+program h : K6 : takes F : boolean array; D : boolean array; Mz : boolean array; s : integer array returns nothing when case d - 10 : chillax end case - 8 >= 7 : chillax end end main : dY20 : boolean array; chillax end

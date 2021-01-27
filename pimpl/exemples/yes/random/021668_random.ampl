@@ -1,0 +1,1 @@
+program W10 : S : takes ES, R : boolean array returns integer h, l : integer array; chillax end main : do A6(false * not u14 /= - not true); let J5ca[not(4) + true and 543 - 5 - 7] = - (503) and 2 - 6 - 18000; output - 6 . "\n" . 639 . 54 end

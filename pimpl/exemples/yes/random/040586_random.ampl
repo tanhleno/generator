@@ -1,0 +1,1 @@
+program s : RGF0a : takes q9O0 : boolean array; _ : integer; V, Tx3 : integer array; Ixda : integer returns boolean array chillax end O : takes A : boolean array; RAy0, k8, CZ, U : boolean array returns integer G91a, qc, A : integer; chillax end S : takes TG : boolean array returns boolean chillax end main : output 8 + 3 end

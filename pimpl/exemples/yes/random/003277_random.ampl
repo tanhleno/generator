@@ -1,0 +1,1 @@
+program z : x : takes _, u14a, Z34, j, F : integer; J : boolean array; iyu0a : integer array returns boolean array chillax end u : takes h, e, z, V : integer returns integer array chillax end main : chillax end

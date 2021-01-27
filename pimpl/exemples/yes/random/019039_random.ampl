@@ -1,0 +1,1 @@
+program U5 : W6C : takes d, N : boolean array; u, l, n : integer array; a : boolean array; T : boolean returns boolean do F(- false and 4 + 7 /= 244) end main : when case - (197 = 12) + true /= E(30) * 27 : chillax end end

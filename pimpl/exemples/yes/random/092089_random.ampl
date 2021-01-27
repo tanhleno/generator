@@ -1,0 +1,1 @@
+program M : main : output - qH40a[96700] + H16; while(02) and J3 and 31 > not 3 and 1 : chillax end; while not 56 or 20 - 14 >= - 2850 : output 5 . "*60"; while 6 : chillax end; do X(62); pop end end

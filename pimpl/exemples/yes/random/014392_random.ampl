@@ -1,0 +1,1 @@
+program m9 : Z : takes N, q, i2V : integer array; Vf9 : integer; L960a, c4, m : integer returns boolean array v6y : boolean array; GtA0, H98, V67a, v0 : integer; do N3(9 and 3); when case - 225 < 8210 : when case 6 : chillax end; let W = 49; pop end otherwise : chillax end end main : chillax end

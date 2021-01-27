@@ -1,0 +1,1 @@
+program w0 : i : takes l, A, W, J : boolean returns nothing N : boolean array; chillax end D : takes OTM : integer; l, F1I0a, qct : boolean array returns nothing chillax end main : h : boolean array; Rc, g, GG, on20a : boolean; chillax end

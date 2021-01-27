@@ -1,0 +1,1 @@
+program OY : main : while - not true * k5(42) / not 16 and 65 - not true or(4) and 4 = - 23 * Q and 3 : chillax end; while - wq3aa and true + false and 4 >= false : do W(59900, 45); when case 8 : pop end case 99 : chillax end end end

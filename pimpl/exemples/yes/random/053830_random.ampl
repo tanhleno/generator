@@ -1,0 +1,1 @@
+program Dr : x : takes J : integer array; hK, r, C8Taa, D : integer array returns nothing F2 : boolean; uw, u : boolean array; pop - 963 /= 9690; output 4 . "" . 9; when case 467 : chillax end end main : X4 : integer array; bC1 : integer; chillax end

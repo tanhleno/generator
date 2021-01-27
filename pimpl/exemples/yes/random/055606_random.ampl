@@ -1,0 +1,1 @@
+program N0ja : M3 : takes A : integer array; G1p : boolean; F : boolean; c, w : integer array returns integer array C : boolean; Id, u : boolean; J9D, c : integer; s : boolean; let M = 5 - 307; input KR8aa[4240 - 8]; while 93000 = 1 : input h; pop end end main : e, _ : integer; let U[X rem 49 + true rem false and 63 or 9 - 06 - 5] = array 911 / 1 end

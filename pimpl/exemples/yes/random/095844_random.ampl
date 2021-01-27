@@ -1,0 +1,1 @@
+program A : main : when case - false : let B[- 681 - 42] = 35 = 275 end case - P rem tsc or not 0 and 5 : when case 7270 : input r; pop end otherwise : chillax end; while 343 : pop end; while 09 : chillax end; input i; pop end otherwise : input i[64]; output "\t" end end

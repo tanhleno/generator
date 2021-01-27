@@ -1,0 +1,1 @@
+program kG : q : takes vK : integer array returns nothing ek : integer array; js3aa, po : boolean array; b : boolean array; chillax end main : input O[- true / false / (202) and 6 + false * not 9 - PE5a + 23800 - 10] end

@@ -1,0 +1,1 @@
+program v_3 : xI : takes h, Kl : integer returns nothing wZ0 : integer; R : boolean; when case true and 26000 - 33 = - 865 - 79 : chillax end otherwise : chillax end; pop end E : takes Vy, V7T, fC : integer returns nothing let o[- 5] = 6 end main : I, wWS : boolean; let M[1120 and o1Aaa[0]] = array true or false - not 0 and 7 - 4 - 9; input f end

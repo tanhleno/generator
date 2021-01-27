@@ -1,0 +1,1 @@
+program O4 : SSk : takes T, S : integer; T61 : boolean array returns nothing pop - 4660 > 525 end main : while Z[32] - false rem Yb5 and 5 + true or 087 < - (07) / true and 66 - false and 7 - 217 : chillax end; input g4Uaa end

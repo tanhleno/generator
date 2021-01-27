@@ -1,0 +1,1 @@
+program U : qBP0a : takes Wl, K, v, h : integer returns nothing chillax end main : C66 : integer; Z6, z : integer; while - not(7) rem true and not 2 and 917 = - (1) * not 37 - not 6 and 0 : input V; let Sv9[9] = array 07 end; input R; let E = 1 - 842 >= 16 end

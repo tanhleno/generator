@@ -1,0 +1,1 @@
+program FK : main : while - not true rem 84 / R and 44 /= - not(873) * 5 : when case 5830 - 6 : input q end case 1 = 96 : do V63(11100); pop end case 62 : chillax end case 2 : chillax end; output "8"; input o[17] end end

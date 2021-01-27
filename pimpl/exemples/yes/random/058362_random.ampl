@@ -1,0 +1,1 @@
+program Sh : yC : takes WC80a : integer array returns boolean _Z10 : boolean array; F, xYG : integer array; Am, k6 : boolean; ha : boolean; do A(false and 6 <= 9210 - 4, 8 - 092 /= 68300) end main : chillax end

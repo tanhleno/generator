@@ -1,0 +1,1 @@
+program n : c : takes X2, jb, Mt, D8, E6, L, w : boolean; nV : boolean array; N, a : boolean array returns nothing output - 9 > 1 . "" . 5 . 0 end main : let NC[true rem 8 + true] = - (55) rem x7L0 = - U and 2 end

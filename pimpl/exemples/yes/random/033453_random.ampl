@@ -1,0 +1,1 @@
+program FWza : Tk7 : takes qe40a : boolean; NL, Lj8, Tt, _K, J : integer returns nothing U : boolean array; do r9(5 = 9 - 26, - 69600 - 9 < 28, 66, 184, 7) end w7 : takes L : boolean; H, a : integer returns nothing pop 861 end main : chillax end

@@ -1,0 +1,1 @@
+program D8f0a : main : P7, r : boolean array; do w(243 / true rem not 4 and 29 + A(05000) or 2 and 53 - 2 - 6, a1n(8) >= - (14), false and 330 + 9 - 1 /= 555 - 799, 03 - 3 >= 4, 841); input R70aa; input X3 end

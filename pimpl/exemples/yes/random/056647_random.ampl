@@ -1,0 +1,1 @@
+program N : G390 : takes q : integer array; o2 : integer; x : boolean; R0ia, Qbe0a : integer array; d9, _ : integer returns boolean P4, t : boolean array; chillax end f : takes u2 : boolean array returns boolean array output "1\"a" end main : chillax end

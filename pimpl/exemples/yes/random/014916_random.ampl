@@ -1,0 +1,1 @@
+program aY : y : takes v, Mk9, t : integer array returns integer array u9Q0, F, Wz90, Y : boolean array; t : integer; b8, H : integer; chillax end main : when case - G(07) : chillax end case not true * (8) and 4310 /= true and 54 or 4 : do X27(66); while 211 : pop end; when case 5 : chillax end end otherwise : let QC6[03900] = 348 end end

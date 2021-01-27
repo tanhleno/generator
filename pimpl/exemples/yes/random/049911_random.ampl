@@ -1,0 +1,1 @@
+program b : j : takes V : integer; S, H, G8 : boolean array returns integer let wH8 = array not 942; do F(84600 > 14, 2); pop; let kr1 = 6; while 12 : chillax end end main : while false * q7c0[64] rem V and 9 : pop 6560 = 487 end; pop; when case 3 + 4 >= - 03 - 8 : chillax end; pop 17 end

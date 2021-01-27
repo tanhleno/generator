@@ -1,0 +1,1 @@
+program v8 : N7Haa : takes R, ET, Q : integer array; s : integer; p2 : integer array; Y02 : boolean array; v, a6 : integer array returns nothing z9 : boolean; K, o, z7F : boolean; do Wj(0 and 3); output "" . 92; do B(0 = 78, 0, 2); when case 49 : pop end case 1 : chillax end; input d end main : EOJ, Y, nr : boolean array; zh, D, h2 : integer array; chillax end

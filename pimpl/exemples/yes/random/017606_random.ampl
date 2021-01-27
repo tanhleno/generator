@@ -1,0 +1,1 @@
+program p : E : takes x6, i : boolean; D4 : boolean; L, he8, w, HL, m : boolean array returns nothing when case - false and 25 + 110 - 9 /= 85800 - 780 : do Ti4a(1); while 9 : chillax end; input U_ end otherwise : do hC(3) end end wE7 : takes J, d4 : boolean returns nothing v45aa : boolean; y4t0a, X : integer; J6, K10 : boolean; sd : boolean; pop end main : chillax end

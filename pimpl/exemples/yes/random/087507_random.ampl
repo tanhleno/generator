@@ -1,0 +1,1 @@
+program c : main : Z3 : integer array; when case - d(79, 8) rem true > true * false : input K; do AI6(9930 = 7, 31); when case 83000 : chillax end otherwise : chillax end; let y = 8; do o(930) end otherwise : do l(120, 5, 3) end; while - false - not 743 and 3 : while 4 = 40700 : chillax end end; let x[- not 397 + 3 - 20200] = - 77 - 0; pop 1960; pop 8 end

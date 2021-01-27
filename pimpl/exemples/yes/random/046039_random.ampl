@@ -1,0 +1,1 @@
+program z : vK20a : takes q : boolean returns boolean l, N, a, u, ls : boolean; F : boolean; x41 : boolean; G, f : boolean; by40 : boolean; chillax end main : p, h : boolean; D, d, v, NKEaa : integer; T : boolean array; S : integer array; while - HVla * 8 / n : chillax end; input I[- true * Xnw0 and 8 or(3) and 16] end

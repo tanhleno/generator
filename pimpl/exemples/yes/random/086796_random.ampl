@@ -1,0 +1,1 @@
+program bd : main : C : integer array; G9 : integer array; ryf, L9, MzAa, TM8aa : boolean; c, R : boolean; Os40a, Md, ct4 : integer; G, qTE0 : boolean; while true >= - 0 rem 2 and 22000 : chillax end end

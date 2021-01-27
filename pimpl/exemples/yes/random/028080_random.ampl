@@ -1,0 +1,1 @@
+program Zc : xz : takes eq, n60 : integer array; m, W : integer returns nothing c, P_ : boolean; chillax end main : k : boolean; do D(- w(0) /= false rem 33400, - false / vd); do z0(- N(20) * not 8730 - Ok or 1) end

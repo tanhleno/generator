@@ -1,0 +1,1 @@
+program jd : c : takes N21 : boolean array returns boolean chillax end T : takes w56 : boolean returns nothing chillax end main : pop; when case - false : do A930a(6, 736, 4) end case 9 and 3 or 6 <= - 59400 - 5 : output "\t." . "" end case 6 - 2 : while 0 : chillax end end end

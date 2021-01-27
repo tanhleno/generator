@@ -1,0 +1,1 @@
+program B2 : T55 : takes c, j, e, f : integer array returns nothing ON, I : boolean; oB, shw : integer array; chillax end oC2aa : takes m, pV, sQ40a : integer array; O, nA1aa, L17, uf7 : boolean returns nothing when case 5 - 1770 = 3 : output "\"(a"; do A560(6); pop end case 0 : do d(4) end case 5 : chillax end end main : gv : boolean; chillax end

@@ -1,0 +1,1 @@
+program tlV : k : takes Mw9 : integer returns integer o : boolean; let o[not 5] = array - false; let j[- 7 - 7] = array - 0 - 528 end G1 : takes qv6 : integer returns integer pop 5520; when case 372 = 3 : when case 97 : chillax end; pop end otherwise : chillax end end main : z : integer array; output "6" . "=" . "" . 16 = 36 . 38 . "" . "" end

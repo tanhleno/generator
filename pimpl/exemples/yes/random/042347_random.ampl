@@ -1,0 +1,1 @@
+program V7 : H56 : takes _a : boolean array returns boolean pop; let I2[- 3] = 01000 end z2 : takes m2Y0, l, F : integer array returns nothing K : boolean array; n1 : integer; chillax end main : J, V, M, W : boolean; chillax end

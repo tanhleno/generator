@@ -1,0 +1,1 @@
+program tcc0a : main : _1, G : boolean array; input b9n[- not not false]; when case false - (2) and 54 > - false : while 6 = 97 : chillax end; input g[9] end otherwise : chillax end; when case false - 59800 <= - 83 - 7 : chillax end case 7 : pop; output "["; pop end case 96 : chillax end; output "" . 91 end

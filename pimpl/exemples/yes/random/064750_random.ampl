@@ -1,0 +1,1 @@
+program q : ee60a : takes R : integer returns nothing H : boolean; when case - not 7 : chillax end case 40 < 5 : do c9c(815); let iV80 = 4900; pop end case 4 : chillax end otherwise : let dq = 02 end; when case 29 >= 784 : chillax end otherwise : when case 742 : chillax end; pop end end main : S : boolean; chillax end

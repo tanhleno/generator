@@ -1,0 +1,1 @@
+program F : main : Z13a, t11aa, ITPa, HQ3 : boolean array; let V = array(4) * (8) / (26); output - D < 4 - 4 . "\\2"; when case - true and 0 = - 8 : chillax end case 305 - 2 : do F(4) end case 7 = 55 : chillax end end

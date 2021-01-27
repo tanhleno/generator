@@ -1,0 +1,1 @@
+program THF : ZF : takes A6, B : integer array returns boolean when case false and 4 or 88 < 62 : chillax end case 71 > 426 : chillax end; pop; while 6 : chillax end end M : takes rP : boolean array returns nothing chillax end main : yM, sp : integer array; chillax end

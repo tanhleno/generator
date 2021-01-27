@@ -1,0 +1,1 @@
+program n2H : ZOK : takes n : integer array; z, D7M : boolean array; Nt : boolean; V2C0, e4, FG50, O : boolean array; X : integer array; m1A, D, B : boolean; o, O8u : boolean returns nothing chillax end main : Ur : boolean; k, q : boolean; do A((68 = 5) - not i + 0 and 947 - 5 < true, not r, u8qa and 4, - 383 - 5 /= 46, 4, 8, 20600) end

@@ -1,0 +1,1 @@
+program oV : L : takes r2, b, L980a, K : boolean array returns boolean B3 : integer; pop; while - 83 - 921 <= 1 : chillax end; when case 20 : chillax end otherwise : chillax end; while 5 : pop end; when case 4 : chillax end; output "" end main : T, Kd, v, I : integer array; n9, vx80a, G : integer; chillax end

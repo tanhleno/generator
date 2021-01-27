@@ -1,0 +1,1 @@
+program g330a : jH : takes ADg : integer returns integer array input z6 end i0ba : takes x : boolean array returns nothing R : boolean array; s : boolean; C : boolean; while - 888 - 0760 : chillax end; pop end main : _on : boolean; N5v0, A : integer; r : integer; chillax end

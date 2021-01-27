@@ -1,0 +1,1 @@
+program X6Raa : hm : takes D, kK : boolean returns boolean array chillax end main : do a(- 7); input jXO; input t[- P]; pop; when case 56800 : pop; pop end otherwise : chillax end; while 7 : pop end; pop; output "+"; pop end

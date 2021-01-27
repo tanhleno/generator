@@ -1,0 +1,1 @@
+program m21 : R : takes h, YJ6 : integer array; S, Q3 : integer array returns boolean S : boolean array; _, _, T, wf90a : integer; chillax end main : do O(not b[7] and i[55] and(90) or false rem true and 8); do o4(- (2) * false - false - 57 = - false and 95); pop 63400 - 858 /= 77 end

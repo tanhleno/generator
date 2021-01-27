@@ -1,0 +1,1 @@
+program a : Y : takes f1, r, p, Jl : boolean array; Z27, I : boolean; w8, G4, Q : boolean returns nothing o, gd, N, CQE, C : boolean; output 64 - 129 > 630 . ""; input D end oh3aa : takes _G1a, A, mi8, HD, i8, qc, R8 : boolean array; P570a : integer; aQ : boolean returns integer z : boolean; chillax end main : eA5 : boolean; do Y(- true); pop; let a[8 - 5970 - 9] = array 4220 end

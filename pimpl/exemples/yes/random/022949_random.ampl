@@ -1,0 +1,1 @@
+program L : hhXaa : takes K, r : boolean returns boolean array M, j14a : boolean; I99 : boolean; pop; pop 5 end main : H7, S, S47aa : integer array; do L((08 = 0) / 91 <= - uG(5), false and(0) and 5); while not 68 and 5 and 5 : output 8; do e(39); output "u7aa"; while 1 : chillax end; pop end end

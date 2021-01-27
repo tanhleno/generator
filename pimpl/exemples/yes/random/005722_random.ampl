@@ -1,0 +1,1 @@
+program Kw : L : takes my, k, y, P_1 : boolean array returns nothing D : integer array; IV : boolean array; do _5(3 and 979 > 16 - 13); do PY(- 99000 - 5) end main : h : integer; when case true or 88 : chillax end otherwise : while 99 = 77200 : chillax end end end

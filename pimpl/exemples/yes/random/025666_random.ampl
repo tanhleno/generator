@@ -1,0 +1,1 @@
+program U : GDG0a : takes H5, CE5 : integer; g5, k3 : boolean returns nothing x, pZT0 : integer array; chillax end main : kR : boolean array; input vde; when case - not false + true > W9 and 1 : chillax end case true : chillax end case - 216 - 906 /= 9910 : chillax end end

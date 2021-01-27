@@ -1,0 +1,1 @@
+program e8 : EY : takes Gl70, O : boolean array returns boolean output 68 <= 0; input nx; pop 1; pop end main : when case true and true rem true + not not 08300 * (35) and 3 : do CM1a(0 - 03500, 4, 3) end otherwise : input g[926]; while 99 : chillax end end; input K end

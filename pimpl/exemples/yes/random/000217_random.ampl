@@ -1,0 +1,1 @@
+program v : hV : takes QNl, xU6, XP1, Z28, L, M, r6, H1E : boolean returns boolean array chillax end P : takes H4y : boolean array; P : integer; fl6 : integer returns nothing while - 0 /= 8 : chillax end; when case 34 : chillax end; input z[0] end main : chillax end

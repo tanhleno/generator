@@ -1,0 +1,1 @@
+program UD2 : x : takes A2, i : boolean; a : integer returns integer when case(2) and 13 >= 41 : pop; pop end end main : input we; when case - OK and true and 11 - true and 6 > 77 and 509 : chillax end otherwise : chillax end; let E = array - true and 2; let x[6 - 5] = 37600 end

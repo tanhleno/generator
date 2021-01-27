@@ -1,0 +1,1 @@
+program w : E : takes z3p, qI : boolean returns boolean ajY, L4 : boolean array; input V[- 6 and 5] end main : bV, T, hW, bR60a, RAia : integer array; output ""; let m[- N0[69700] / not 13 or(819) and 2 - 772 - 43500] = true + 5; output 990 - 7 end

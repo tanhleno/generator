@@ -1,0 +1,1 @@
+program E : d : takes bs, J7, K : integer array; A0z0a : boolean array; Xr3a, z : boolean array returns nothing J6 : integer; chillax end It : takes S : integer array; I01, w : integer array returns nothing when case 2520 - 1 = 62 : input K end case 7 = 65 : do RG(3) end otherwise : chillax end end main : chillax end

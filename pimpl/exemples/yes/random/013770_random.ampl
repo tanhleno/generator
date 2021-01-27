@@ -1,0 +1,1 @@
+program S : c : takes A, f5l, V : integer array; aN7aa, y, Q : boolean array; Y : boolean array returns integer s_, EiO : boolean; output - 4 /= 62; output 1 = 5 . "" . 2 . "\t" end Hb : takes d5za, vp, Ks : boolean array returns nothing pop end main : output "]"; do V(- not false <= - (2)); while - (79) - 3 - 313 <= - 14 : chillax end; output 3 end

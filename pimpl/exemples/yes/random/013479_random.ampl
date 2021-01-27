@@ -1,0 +1,1 @@
+program n : W : takes v0, n4, bT : integer; P : integer array; s : integer array returns nothing j580 : boolean; pop 6; when case 7 - 4 : when case 5 : chillax end; output "_6"; pop end otherwise : let t = 87; pop end; while 4 = 92100 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program YD : Zsk : takes o, z, j : boolean; f, C, W : boolean array returns nothing V, lxQ : boolean array; h0, W : integer; o3 : boolean array; V, j : boolean; chillax end A9Baa : takes g2, t : integer array returns nothing dII : boolean array; chillax end main : chillax end

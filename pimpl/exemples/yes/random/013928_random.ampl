@@ -1,0 +1,1 @@
+program Mx : Z720a : takes S, n, P96 : integer array; i, v : boolean array returns boolean array I : integer; S : boolean; A : integer; MP, U89 : boolean; V : boolean; let Hm = - 82400 - 6 end main : O : boolean; chillax end

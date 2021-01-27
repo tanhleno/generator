@@ -1,0 +1,1 @@
+program f6p0 : qEI : takes N : boolean array; z : boolean returns nothing I3 : boolean; gH : integer; chillax end C : takes G94a, e, R : integer array; fQ, r_, P1C : integer returns nothing T, Ne : boolean; SN : boolean array; P, x : boolean; chillax end main : G, q : boolean array; chillax end

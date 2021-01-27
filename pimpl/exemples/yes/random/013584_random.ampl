@@ -1,0 +1,1 @@
+program p : jy : takes a6, I20a, x : integer; K : integer returns nothing WX, bhJ, an, B, R94 : boolean array; input inz[- Nr3]; while - 9 : input g; output "5"; pop end end main : do gJJ(- e[82] / (3) /= x and true and 26, not O - (3) + 341 - 5 /= - 62); do g(- 6 or(98) and 653); let i6 = array - 765 and 234 or 3 end

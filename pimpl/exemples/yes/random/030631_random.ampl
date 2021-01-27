@@ -1,0 +1,1 @@
+program C8 : x460 : takes m, Ap9a : integer array returns nothing t, AF : boolean array; M7 : boolean; chillax end main : do A0(- true * not not 028 - false and not 906 and 81 + not 9 and 44); output "" . - 329 - 0 > 9 . 4 = 8; do w(83, - 935 - 70700 >= 63); output 7 . "\"9" . 91700 . "\n"; pop end

@@ -1,0 +1,1 @@
+program s : b : takes l, g45 : integer returns nothing chillax end D0 : takes g96aa : integer array; W : boolean returns boolean array chillax end Z6p0 : takes N24aa : integer returns boolean o : integer array; let EDK0[5] = array 873 end main : while false / false rem q6 : pop 7 = 07; pop 40 end; pop - not 76 or 2; while - true - 83 - 2 <= - 8 - 1600 : chillax end end

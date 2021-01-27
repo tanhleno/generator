@@ -1,0 +1,1 @@
+program Y2Ka : e : takes r, b8, lI, W : boolean array; HBE0 : integer returns boolean while - Oo or 624 - 1 <= - 12 - 2 : chillax end; when case 2 - 9 > 87500 : let c = 380 end case 6 = 4 : chillax end otherwise : pop end; output 08 end main : i : boolean array; A, F : boolean; chillax end

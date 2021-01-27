@@ -1,0 +1,1 @@
+program W9R : e : takes T : integer array returns nothing chillax end Ip : takes s, b : boolean array returns boolean chillax end main : h6 : integer array; while false and not 68 rem false or s1 rem fJ5 : chillax end end

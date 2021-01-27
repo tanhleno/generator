@@ -1,0 +1,1 @@
+program h8u : Ne : takes Tp8a : integer array; G, n, Y, Hv5, Fd7 : boolean; vb, n1 : integer; Y, v8 : integer returns nothing chillax end P : takes P : integer array returns nothing z6 : boolean array; g3 : integer array; O, UC : boolean; G95aa : boolean; chillax end main : W, u1q0 : boolean; let H19[false and true * not 9 and 9] = - not false or false and 1 end

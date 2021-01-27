@@ -1,0 +1,1 @@
+program G5m : Y : takes RGwaa : integer array; H : integer returns boolean chillax end main : g4ya : boolean array; b01a : integer; q6E : boolean array; j30 : boolean; v21, Q8 : boolean; let l = array - true - false - not 6 - 76; input q37; output - 685 . "" end

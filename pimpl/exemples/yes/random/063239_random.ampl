@@ -1,0 +1,1 @@
+program r : DM : takes cY0 : integer returns integer chillax end main : do Py(not R >= - false or not 75, - rzL0(5) rem not 00); while - (34600) * not 01900 and 4 = true and 38 - 22 - 04 : chillax end; when case - Wq50a = - 18 : chillax end; output ""; when case 636 = 32 : chillax end end

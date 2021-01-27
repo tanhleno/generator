@@ -1,0 +1,1 @@
+program H : Zu0aa : takes N : integer array returns nothing O, H, U : integer; chillax end I : takes lS : integer; q, w0I, zgU, r4D0, W : integer returns boolean L : boolean; input c[- 448] end main : p, a550, s0qaa : integer array; chillax end

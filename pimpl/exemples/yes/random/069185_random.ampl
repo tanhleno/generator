@@ -1,0 +1,1 @@
+program k : main : tN, f7, oXu, C82a, o : integer array; do YO(F[7240] - true * C95 and 4, g[96] * 6560 and 33, (0) and 03, 9); while - 67 + 51 >= true : chillax end; input s03aa[true]; let w8W = array - 4 end

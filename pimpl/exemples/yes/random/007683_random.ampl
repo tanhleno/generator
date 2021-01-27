@@ -1,0 +1,1 @@
+program f : a : takes c2w, _l, B8, n2 : integer array returns nothing chillax end main : k, P2, C, z, vY6, W46aa : boolean; input y3Ga; when case - true or not 95 or 52 : chillax end otherwise : when case 660 : pop end case 7 : chillax end otherwise : chillax end end; pop; do fh70a(- 23 >= 10800); let mb10[89] = array 4; input C; do Q(588) end

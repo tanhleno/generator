@@ -1,0 +1,1 @@
+program V : n0xaa : takes t : integer array; I, j : integer array; k, Dt7, U3, P, F : integer array returns integer f2I : boolean; RXJ : integer array; B : boolean array; iU, S : boolean; O : boolean; C98 : boolean; pop end main : G : integer; w, tg : boolean array; input e[true] end

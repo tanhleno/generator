@@ -1,0 +1,1 @@
+program N : B : takes g0, i : boolean array returns boolean Ow, j : integer; ww3aa : boolean; Qu : boolean; u : boolean; pp : boolean; p : boolean; pop; input F57[7] end main : output true + q9 or 155 . - fH5 and 3 >= 3 - 310 . "k"; let Is[- not false] = array - 22 and true and 2; pop end

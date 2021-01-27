@@ -1,0 +1,1 @@
+program u : P : takes H, B : boolean array; V, sP : boolean array returns nothing chillax end j : takes m17 : integer array returns boolean array I8 : integer array; output "" . 882 . ""; do t(60 = 7); output 84 . ""; let q = 4; pop; pop end main : let Z970 = - false >= true - 5 - 9 end

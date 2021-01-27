@@ -1,0 +1,1 @@
+program Q9_a : pu : takes q : integer; m, k, P4, X : integer array returns integer array t, mG4 : integer; chillax end sz7 : takes a : integer array; JK : integer returns boolean output 8 end sZ : takes z6f, s7U0, aBD, o650a, t : integer array returns boolean chillax end main : chillax end

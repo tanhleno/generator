@@ -1,0 +1,1 @@
+program h10aa : main : M, R, W, n7Zaa, v, J1, A0 : integer; when case - false - true and not 5 and 67 - true and 93 < - (1) : output "" end case - true rem true and 2 - (33) and 1 - 93 /= - (418) and 3 + 673 - 7 : chillax end case - false and 31 + 8050 = 5 - 41 : chillax end case 1710 /= 1 : chillax end otherwise : chillax end end

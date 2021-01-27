@@ -1,0 +1,1 @@
+program J : Ft : takes B7p : integer array; eW0 : boolean returns nothing input w8[false - 6190 - 7]; do mb(489) end main : H : integer; when case true and not(7) : chillax end case - (3) * true and 6 or(9) and 5 or 4 - 4 : chillax end end

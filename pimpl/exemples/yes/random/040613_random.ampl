@@ -1,0 +1,1 @@
+program w : X6 : takes mT8 : boolean array; oc : integer; a : boolean; u8 : boolean array; j : integer returns nothing when case - Ds9aa and 256 > 32 : pop end end main : A : integer; do G(true rem Q(0) * (776) and 35 + E / false and 1 + true - 9) end

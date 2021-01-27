@@ -1,0 +1,1 @@
+program l : PA : takes raRaa, EL : boolean returns nothing J : integer array; G : integer array; chillax end main : z9 : boolean array; yM, _ : boolean; let t[- false / not false] = - true or 3 /= - not 8260 and 31 - 7; while Nu[9] and J or(6) and 3 - 1 - 72 : chillax end end

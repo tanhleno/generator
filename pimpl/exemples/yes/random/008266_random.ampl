@@ -1,0 +1,1 @@
+program gs50a : l6 : takes y, f, m6, xG : integer returns nothing lip0, u : boolean array; chillax end b3d : takes gN : boolean array; L : boolean array returns nothing Y1L : boolean array; chillax end d2 : takes e, v, A390 : boolean array; u : integer returns nothing chillax end main : chillax end

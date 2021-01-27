@@ -1,0 +1,1 @@
+program p4d : main : d8 : integer; r, k930a : boolean array; do ga(76 /= - 9, (9) or 5 and 5); while - true * 35 - false and 9 - 52 - 2 < 74 : input V[422] end; when case true and 7 : chillax end otherwise : input y end end

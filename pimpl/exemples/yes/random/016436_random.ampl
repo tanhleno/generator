@@ -1,0 +1,1 @@
+program tC : _ : takes k, J, R02aa : integer returns nothing j : boolean array; JMm0 : boolean; dI : boolean; chillax end C : takes O, K : boolean returns nothing pop; pop 7; while 8 : chillax end; input z; pop; pop end main : chillax end

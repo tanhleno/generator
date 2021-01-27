@@ -1,0 +1,1 @@
+program O85 : main : v : boolean; v : boolean array; m, q : boolean; when case - not true / V[44200] / 75 and 2 or 0 / XO or(9) and 9 or 02000 : output "8" end otherwise : output "" . "'" end; pop; output "" end

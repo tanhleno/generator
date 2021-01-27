@@ -1,0 +1,1 @@
+program Z : L2 : takes W : boolean array; Va : integer; e9, Z : integer array returns nothing output - 5 - 44 < 1 . "\\"; when case - 43 : chillax end case 91 = 0060 : chillax end end main : a, KZ, G, H : integer; G16, F : boolean; C5G, v, w6p, T, wHV0a : boolean; output - false + true - 70 - 5; output "" . - 9810 end

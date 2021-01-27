@@ -1,0 +1,1 @@
+program r : Qz : takes T, T, Z : boolean array; u, ET7, T : integer; k, d : boolean array returns nothing while - true and 6 : chillax end end main : input J[- W6a(715)]; do a(false * false); input Z9[- true and 0]; pop; output "" . "" . "qu" end

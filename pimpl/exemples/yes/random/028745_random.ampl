@@ -1,0 +1,1 @@
+program A8 : fTQ : takes R, ZJ6 : integer array; fh2 : integer; T : integer; wm, wy, eE00a, V870, R : boolean; epg, Q : boolean; KI9 : integer array; mYh0a : boolean; L72a : boolean returns nothing chillax end main : l, t : boolean array; s : integer; chillax end

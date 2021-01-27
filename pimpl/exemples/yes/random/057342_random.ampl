@@ -1,0 +1,1 @@
+program bw : Pl2 : takes o : integer array; S : integer returns boolean array k : integer array; do d46(- true and 776 < - 7) end main : F : integer; while - 23 : do y(- 67 > 64500, 7, 7); when case 0 = 57 : output "" end otherwise : chillax end; let M = 788 end end

@@ -1,0 +1,1 @@
+program o : main : g, P8i : boolean; do F(066 - false and(2) and 12400 - 13700 and 248 + 0, - (8) * false); input M[- true - e5 and 1]; when case J and 8 or 68 - 8 : output 9050 end case 5 < 2 : chillax end; do AD9a(- 48000) end

@@ -1,0 +1,1 @@
+program N : _9 : takes HqD, z6z, N, M, E : integer array returns nothing let q = array - false and 41 - 4 - 8920; do P(21, 2) end k : takes I5, RL : integer returns boolean array t : integer; V : integer; W4, p : boolean; N : boolean; k : boolean; chillax end main : while not BN(24) : input n end end

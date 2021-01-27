@@ -1,0 +1,1 @@
+program YHmaa : a : takes gR7, r : integer array; t : boolean array; X5 : boolean returns nothing o, Ls : integer; q33a : boolean array; chillax end main : B : boolean; K8f, iA, y : boolean array; while not(36) - 490 rem(17) > true and pYO and 924 : chillax end; do L(- true or(7) + 90700, - false /= 7 - 73) end

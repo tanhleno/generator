@@ -1,0 +1,1 @@
+program B : e : takes _B, t, _3z, i : boolean array returns nothing W7, nu : integer array; chillax end W : takes x1F, S3, ie : integer returns boolean array when case - 4 - 3 : when case 792 : chillax end; pop end; when case 4120 : chillax end case 0 : chillax end end main : W : integer array; chillax end

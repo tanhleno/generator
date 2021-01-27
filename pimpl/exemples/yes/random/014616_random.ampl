@@ -1,0 +1,1 @@
+program I090a : T2c : takes h, fC, b4m0a : integer array; G : integer returns nothing v38, gH90 : integer; j, Od : integer array; L, u : integer array; while - true and 03 - 3160 - 71700 >= 4 : chillax end end main : H6w0, m63, f, m1, NF, b4, w : integer; pop; input u8o[false + not 5 and 553 or 5 - 6] end

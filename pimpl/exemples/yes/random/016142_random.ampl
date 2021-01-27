@@ -1,0 +1,1 @@
+program M : m43 : takes V, j, ZJ : integer returns nothing chillax end S : takes d, IW, x : boolean array; k : boolean returns nothing yI4, R, b8j0, s : boolean array; T8O0a : boolean array; jI8 : boolean; do S(- 488 - 776); input XJ[2]; let K = 1 end j : takes I : integer array; ZJ : boolean returns integer input Vr; pop end main : let t20 = array false rem true end

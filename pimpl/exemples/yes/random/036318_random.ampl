@@ -1,0 +1,1 @@
+program Z : MN : takes u3u : boolean; S : boolean returns nothing X1 : boolean; m, v : integer array; when case - M : while 6 : chillax end; input dv; pop end end Z : takes XU, k, W, HT : integer returns boolean Y : integer array; Wh : integer; chillax end main : O, z : integer; Kg6 : integer array; R, AMC0, V, WEa0 : boolean array; chillax end

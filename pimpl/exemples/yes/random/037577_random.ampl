@@ -1,0 +1,1 @@
+program yo : h16aa : takes d0 : boolean array; Oy, g4z0, U, g, f7, c : integer returns nothing input A; pop 1 = 17 end main : f4, J, T : boolean array; e79a, w : integer; A, gc : boolean array; do T59aa(true and h[3] * (67) + B[1180] < 4 - true or 14); pop - d end

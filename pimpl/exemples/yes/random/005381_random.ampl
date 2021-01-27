@@ -1,0 +1,1 @@
+program dQ30a : Do : takes F, H410, s, R : boolean array returns boolean pop; when case 1 : when case 32 : chillax end; pop; pop end case 1 : chillax end end Eqx : takes A : integer; k : integer returns boolean C_R0, U, g, P : boolean; chillax end main : let F6P0a[true] = array(32) / not not 8 + not false or not 4 and 24800 or 3 end

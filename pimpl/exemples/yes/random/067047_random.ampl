@@ -1,0 +1,1 @@
+program V6 : main : do C2k0(false > - not not 552, - 2 rem O and 24400 - false and 7 = (8)); do u(59 and false and 120 or not 4 and 8680 - 3 - 7); let I5 = - 8 - 1 < 8; while 73 = 8 : let Y = 64 end; output 39 . "" end

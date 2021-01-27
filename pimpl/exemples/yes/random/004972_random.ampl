@@ -1,0 +1,1 @@
+program P_ : oM : takes J0, z7, T, Or : boolean array; P, N : integer array returns nothing input y; while - 21 - 12600 : when case 8 : chillax end end end main : E, Vu0, R8, u24 : boolean array; C : boolean array; pH, j : integer array; output "" end

@@ -1,0 +1,1 @@
+program m0 : u1 : takes J : integer returns integer array T : boolean array; do B2(- (7) and 77 > - 0); pop; let T6 = 78; pop; output "" end main : do e(false and(60) or(96) + false - 54 - 843 < - false * 4 and 53 - E - 81, - not 02 /= true + 74100, false and 38 = - 767, - 152) end

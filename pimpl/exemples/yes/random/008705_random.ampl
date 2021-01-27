@@ -1,0 +1,1 @@
+program Mb20 : F9 : takes x, fTT, LM00 : boolean; C0, Wg : boolean; b3N : integer array; a7, i, B88 : boolean returns nothing m, j2 : boolean array; output "" . "" . 4; output 9 end main : Eo : boolean array; A2, k19, eI : integer array; chillax end

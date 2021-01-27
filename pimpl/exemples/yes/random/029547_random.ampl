@@ -1,0 +1,1 @@
+program l : VP9 : takes z, _ : integer array returns boolean H, B_ : integer array; C, B5, u : boolean; chillax end j : takes q9 : boolean array returns nothing input lsW0 end main : c6i : boolean array; J : integer; pop not false / true; do Z_(false /= not 81700 and 2 - 41); pop end

@@ -1,0 +1,1 @@
+program d : H : takes R460a, Q : boolean returns boolean array do f(false <= - 0, - 8 = 015); do P(1, 67 = 9); do k8taa(047 = 21); pop; let z = 9 end M76aa : takes e, K8 : integer; pt : boolean array returns nothing chillax end ap : takes Y_2, L : boolean array returns nothing pop 1; pop 18; do s(370); output "^S" end main : chillax end

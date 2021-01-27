@@ -1,0 +1,1 @@
+program AXl : t9 : takes S6 : integer array; L : integer array; w : boolean returns integer let G4[- true and 2830 + 113 - 25100] = 0 < 915 end main : pop false / true or true > false and 1 + 4950 - 99 end

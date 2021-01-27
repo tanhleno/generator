@@ -1,0 +1,1 @@
+program s0 : dh : takes Z : boolean array; NS70a : boolean returns boolean array while 1 + 6 : while 5690 : chillax end end; pop 4 = 5; let di = 68 end F : takes c : integer array returns nothing chillax end main : u, n : boolean; chillax end

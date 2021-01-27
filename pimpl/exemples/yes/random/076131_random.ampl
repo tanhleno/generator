@@ -1,0 +1,1 @@
+program g : main : b, WX : integer; jR, Uxg0a : integer; do i((2) and not false / C89 and 52, - true = - false and 40 - 9, true < - 0, - 6780 - 1 > 4); let q[- true * true] = - not 1 = - 581 - 3; let k4 = array - false or 94 end

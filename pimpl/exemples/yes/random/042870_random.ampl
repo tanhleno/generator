@@ -1,0 +1,1 @@
+program J5 : l : takes lF30 : boolean array returns integer array when case true and 72 - 20300 - 5 = 5 - 9 : let am9a[72] = array 553; when case 40 : chillax end end case - 5140 - 68200 : pop; pop end end main : M9 : integer array; U : integer array; K, Y : integer; chillax end

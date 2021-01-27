@@ -1,0 +1,1 @@
+program C : q : takes oT, wZnaa : integer; x610 : boolean; EG : integer; P : integer array; J, PDe : integer; cS2 : integer returns integer s, gF : integer array; chillax end main : F, I6faa, l, J270 : integer; while 5 and not false > - false and true and 91600 : while 6 >= 1 : when case 0690 : chillax end end; let qSE = 3 end end

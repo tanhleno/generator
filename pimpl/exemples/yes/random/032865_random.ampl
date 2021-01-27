@@ -1,0 +1,1 @@
+program _8G : r : takes y, hN : integer returns nothing ZT50 : integer; cO, l, C6K, VPY0a : boolean array; g : integer array; B, z : boolean; chillax end hN3 : takes C, S64, E, x, y3, X : boolean returns integer chillax end d : takes f, IK8, uj, k9G0, n : boolean returns integer do o(6070 = 0); let r9o0[9270] = array 56 end main : chillax end

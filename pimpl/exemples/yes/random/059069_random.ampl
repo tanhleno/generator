@@ -1,0 +1,1 @@
+program hE : w76 : takes Z : integer array returns integer array while 6 and 327 < 5 - 6 : do n2(2); pop end; input a[1]; while 37 : chillax end end q : takes kuv0 : boolean; hjf : integer array; R, F, C : boolean; A59 : integer array returns boolean array input S[69600 - 8] end main : chillax end

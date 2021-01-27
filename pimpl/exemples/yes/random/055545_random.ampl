@@ -1,0 +1,1 @@
+program N23 : O : takes c9 : integer array; Sr : boolean; L96, P : boolean returns boolean array chillax end main : K, wG2aa : boolean; E1, X, TrHa, h, l4Ka, P : integer; pA8aa, hj, G, JQ, ng3 : integer array; O1F : boolean; chillax end

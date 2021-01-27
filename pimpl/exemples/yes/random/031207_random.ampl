@@ -1,0 +1,1 @@
+program h : R7k : takes tHS, j4ea : integer returns boolean array chillax end main : rg, T8, G35, v : integer array; UG, Ym80, ZAw0, S2D : integer array; fW8, t : integer array; UZ, d4 : boolean; Vmo : integer array; chillax end

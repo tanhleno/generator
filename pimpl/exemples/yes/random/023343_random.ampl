@@ -1,0 +1,1 @@
+program c : F : takes Le, P0 : boolean returns boolean pop 149 <= 25 end main : let P = array - JS90a[5] - true or B09aa and 9 - 9 - 9; do H(- false * false - true - 9660 < - true - 4570, B and 199 or 6 /= 6 - 40300); input QP6 end

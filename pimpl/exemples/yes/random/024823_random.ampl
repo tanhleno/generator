@@ -1,0 +1,1 @@
+program g : y : takes Q, vq : boolean returns nothing when case - k = 5 : pop 082 end otherwise : pop; while 09 : chillax end end end main : while - a(53, 5) and(5) rem not 5 >= false / false and 3 or U and 83 : input x510a[56 - 9]; let O[8] = 3 end end

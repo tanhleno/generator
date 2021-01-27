@@ -1,0 +1,1 @@
+program w8 : main : while - false / u < - hcA[4] : when case 1 <= 344 : chillax end; let jF = 7; let WX00a[77] = 996; output "\"" end; when case e rem 04 /= - 95 : output "" end case true and 31 : output "0"; input l01; while 073 : chillax end end case - 38 : chillax end case 5 : chillax end case 5 : pop end; pop 1 - 822 end

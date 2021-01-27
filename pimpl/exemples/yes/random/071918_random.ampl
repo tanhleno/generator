@@ -1,0 +1,1 @@
+program r : main : l, Yn30, E45a : boolean array; while - not(698) : let DL20[3 - 9660] = 9 = 6; let o8[6] = 73900; when case 06 : chillax end end; output "" . - 84 >= 85400; do b(- 9 <= - 06 - 1, 7 - 06 < 60, 330 = 69) end

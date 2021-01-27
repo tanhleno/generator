@@ -1,0 +1,1 @@
+program k : s : takes m040a : integer array; I : integer; ua : integer returns integer array do Uv(- not 92 - 3 - 64 <= 48, - 318 - 99100 < 31); let s = 9 = 693; do H(41, 805, 6); while 9 : pop end end i9 : takes i, i63a : boolean; Li, Y, R, niLa, pJ, LL4 : integer returns nothing D : boolean array; when case - 95 : chillax end otherwise : chillax end end main : chillax end

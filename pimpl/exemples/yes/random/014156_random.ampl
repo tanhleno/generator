@@ -1,0 +1,1 @@
+program H : v : takes z6, U, s570 : integer array; M : boolean; x, U9, y9 : integer; W, d : integer array returns integer chillax end T2 : takes G : integer array returns nothing when case 3 >= 1 : chillax end otherwise : chillax end; output 8 . 412; output 3 . "K6aa"; pop; while 0 : chillax end; pop end main : chillax end

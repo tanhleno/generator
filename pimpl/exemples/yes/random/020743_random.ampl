@@ -1,0 +1,1 @@
+program o : Zo : takes v3J, f9i0 : boolean array; b7 : integer returns nothing c5 : integer; n : boolean array; iXGa, U5, T9 : boolean array; Z7, V49 : boolean; P : boolean; p1iaa : boolean; chillax end P : takes K8 : boolean array; nK : boolean returns nothing _v : boolean array; chillax end main : let m0 = - 76 end

@@ -1,0 +1,1 @@
+program f : h : takes o : integer array; v : integer array; c58, o2 : boolean array returns boolean array x : integer array; input Q2[67 or 67 - 2620]; do X(- 84 - 6, 46); while 48 : while 5 : chillax end; pop end; pop; let B = 8; input u; pop end main : hP4 : boolean array; chillax end

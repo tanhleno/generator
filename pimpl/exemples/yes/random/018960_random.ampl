@@ -1,0 +1,1 @@
+program T6W : D : takes p500a, u : boolean array; N, X, a : boolean returns boolean q : boolean array; Y : boolean; input L9[not 9 and 7 - 2 - 4]; when case - 5 - 742 : chillax end; output "\t" . 1 . "M" end main : chillax end

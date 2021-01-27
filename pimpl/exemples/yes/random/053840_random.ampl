@@ -1,0 +1,1 @@
+program N : Ho0a : takes r : integer array; y, s74, N, J1 : integer returns boolean when case - (79) and 483 + 55 : pop 49; while 79 : chillax end; let s = 567 end case - 36 : chillax end case 3 = 77 : pop; pop end end dN : takes E3L : integer array returns nothing output "06a" . 153 end main : chillax end

@@ -1,0 +1,1 @@
+program xk : M_ : takes t, p : boolean; r : integer returns boolean S, riU, vh80, q : integer array; A1C0a : integer array; do Y(- (956) and 1 /= - 143); let C[78 - 1] = 0 = 1 end main : do k2(false and true < - not true, true and(3)) end

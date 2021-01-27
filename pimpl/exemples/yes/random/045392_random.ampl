@@ -1,0 +1,1 @@
+program E62 : X : takes hu6a : boolean returns boolean array chillax end t9 : takes K, W : boolean array; mb8 : integer returns nothing when case - 554 - 148 = 86 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program m : M : takes C, USf, B : boolean array; wi : boolean; S : integer returns nothing chillax end I : takes s : boolean array; Adb, w250a : boolean; z, uVD0a, T : boolean array returns nothing chillax end main : mU, R9, p63, L4s : boolean; B2, t, gZ3, Z : boolean array; Gy7 : boolean array; while N[2] + false / b /= N : chillax end; input I33aa[o[4]] end

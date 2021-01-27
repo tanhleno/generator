@@ -1,0 +1,1 @@
+program lmQ : z1 : takes OX : integer returns integer let _70aa[true] = - 69300; input H_9a[0 - 567]; pop 3; while 3 : chillax end end j : takes h, a2Da, Mk5aa : boolean array; t : boolean; tfJ0 : integer array returns boolean array w4K0 : boolean; r, z : integer; chillax end main : chillax end

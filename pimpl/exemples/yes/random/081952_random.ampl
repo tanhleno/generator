@@ -1,0 +1,1 @@
+program vcua : main : o : boolean array; R87 : integer; Z : integer; s, Y : integer array; let U = false rem(584) + l13 and 5 + 679; let R[51] = array - aQ(412) / not 65 and 3 - false; input h[- (44) and 9050 + 7 - 9] end

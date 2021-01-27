@@ -1,0 +1,1 @@
+program q : D : takes v5L0a, f, g : integer; gR0 : integer array returns integer i4, P : boolean array; do KW7(- 7 and 79 /= - 8, 634 - 6); do l(- 11900 < 1110, 8590 = 1) end main : l : boolean; o : integer array; X1, q : integer array; input Y[- 71 or b5 + (0) - 2 - 0]; do k10a(- 11 * mD = - _ - 8940 - 265, true + 1, - 256 > 9, 8 = 1, 9); output "\"" . "" end

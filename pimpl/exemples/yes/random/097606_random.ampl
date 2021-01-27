@@ -1,0 +1,1 @@
+program Y : main : when case true /= - 69 or true and 543 - 4 - 4 : chillax end case - (9) and(0) : let Z = 53000 end case - false < - 62 : while 2 : chillax end end case 22700 > 4 : while 7 : chillax end; when case 50 : chillax end end; do P9o0a(true / G); pop end

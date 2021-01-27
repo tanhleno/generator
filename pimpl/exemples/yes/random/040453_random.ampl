@@ -1,0 +1,1 @@
+program P : x6 : takes IoFa : boolean array; ZS : boolean returns nothing j : integer array; while(2) + 2 > - 3 : chillax end; output 5 = 6 . 644 end main : when case j rem(7) and true and 1 - true < - false : when case - 9 : pop; pop; pop end case 9 : chillax end case 06 : pop end case 133 : chillax end otherwise : input rn end end end

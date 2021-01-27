@@ -1,0 +1,1 @@
+program El6 : H : takes m540a, M6Ba, K8T, sg, k4, E : boolean; I8 : boolean returns boolean B : integer array; ej : boolean; chillax end L : takes y : integer; e6, j7 : integer array returns nothing i9Caa, s : boolean array; l2vaa : integer array; n, a5 : boolean; l : boolean; while 8 > 3 : let i = 79; do I30(1) end; input kKl end main : k, D : integer array; chillax end

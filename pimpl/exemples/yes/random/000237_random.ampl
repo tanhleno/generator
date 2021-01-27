@@ -1,0 +1,1 @@
+program LQ0 : N19 : takes R, Ss0, E, A7, P, U2, N, PeQ : boolean returns boolean while - true : output 4 end; do g(9770 - 4860 <= 2750) end B : takes j3, n080 : boolean; K, y6, f : integer array returns nothing wqA, w7, _ : boolean; dZGaa : integer array; output 2 end main : n : integer; c2, B1kaa, a5k, VC : boolean; chillax end

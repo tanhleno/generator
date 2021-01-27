@@ -1,0 +1,1 @@
+program T : V3 : takes Q : integer; _ : boolean; wA : integer array returns nothing pop - 76 /= 3 end i2K : takes N, kq : boolean returns boolean let x[- 6 - 594] = array - 02 - 9; pop 19; let x[0] = 1 end main : g : boolean array; E81, Y2Na, Ez9 : boolean; S8u, O, y, U1 : boolean array; pop(3) end

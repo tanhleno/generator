@@ -1,0 +1,1 @@
+program l3ua : oe00a : takes U : integer returns nothing i : integer array; A, NGn : boolean; let h = array true + 2 - 5 end O : takes z, bV, i0z : integer array returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program vw : Ps : takes WS, hY, e4c, M, o : integer array; h38a, I70a : integer; W3_a, p : integer array returns nothing output "\"&" end main : let q[- (668) rem 8 - false] = array - false rem not(2); while - (1) - (7) >= Zm and 7 + 7 : input d[343] end end

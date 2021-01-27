@@ -1,0 +1,1 @@
+program y : main : B, v, m27, x, i4n : integer array; i : boolean; bI0a, w, G : integer; do X((5) + _0[8] >= - 08, - true and(8) and 2 - (8)); do S0(- true rem true and 1 /= - false and 4, - false and 2 - 69 - 6) end

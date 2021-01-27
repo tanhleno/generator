@@ -1,0 +1,1 @@
+program W5 : L : takes n7, X36, i : integer; w2I : integer array returns nothing t : integer; chillax end x0J : takes R8u0a : boolean array returns nothing w960 : integer array; chillax end main : sP : integer array; chillax end

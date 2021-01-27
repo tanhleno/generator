@@ -1,0 +1,1 @@
+program v : main : when case - false and true / false or(5) /= - z(2) / Z01 and 911 : output 3 = 4 end case 19 or k8 and 7 > 9 and 803 : chillax end case(8) and 28600 - 52 : chillax end case - 6 - 55 : when case 095 : chillax end; let _S5 = 79; pop end case 84 = 13 : input b88; pop end case 2700 : chillax end; do l(- 9 or false and 3 or 373 < - true); input Iz end

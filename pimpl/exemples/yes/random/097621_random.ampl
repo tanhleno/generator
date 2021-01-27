@@ -1,0 +1,1 @@
+program m : main : when case true : input v[7 - 7] end case - true / (233) and 34 + false and 04 + 2 > 4000 : chillax end case(5) and 1 - 9 - 5 /= 944 - 6 : chillax end case - 30 - 3 < 7 : pop; pop; pop end; output "-\\!a"; pop end

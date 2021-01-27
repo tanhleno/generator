@@ -1,0 +1,1 @@
+program x : p510a : takes y, v : boolean array returns nothing when case A or 4170 >= - 3 - 8 : input A; when case 40 : chillax end; output "%}\"a"; pop end end main : m7Faa, d, R, V69a, Zn2aa : integer array; kB : boolean array; DP4, l : integer array; r0Laa, wO : integer; chillax end

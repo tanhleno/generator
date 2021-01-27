@@ -1,0 +1,1 @@
+program _ : main : M6 : integer array; do z(true or not not 1 / (771) - true); when case(2) and false : pop 88; when case 04 : chillax end case 2 : chillax end otherwise : chillax end end case not 4 and 6 : pop end otherwise : let Z18 = array 0; input Pi end end

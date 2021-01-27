@@ -1,0 +1,1 @@
+program n9 : Uin0 : takes k9 : integer array returns nothing chillax end t : takes i, V, W10, s : boolean array returns nothing output ""; do s95(07500, 1) end l : takes W, h01 : boolean array returns nothing chillax end main : I, K : boolean; chillax end

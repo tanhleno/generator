@@ -1,0 +1,1 @@
+program v2iaa : u : takes g : integer array returns nothing chillax end main : when case - false : while - 128 - 4 > 66 : when case 5 : chillax end end; input i[59]; input q[667] end case 96 / t and 01100 >= - (06) and 236 : let p4 = 25; do x1(3) end otherwise : output "" . 2 end; pop end

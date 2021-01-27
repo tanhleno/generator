@@ -1,0 +1,1 @@
+program v : Xzu0a : takes r : boolean returns boolean array B : integer; k, d : integer; chillax end G : takes g : boolean returns nothing MNH0a : boolean; chillax end Hd : takes BB : boolean returns integer array dI, b : integer; oL, gU4 : boolean; input Y[9] end main : fBDaa, l : integer; output - 9 * false - (49) - 66 >= 68 and 3270 end

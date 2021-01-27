@@ -1,0 +1,1 @@
+program A : main : Z5Fa, s, h, Lp, bk6a : integer array; while - (404) and v[796] and not 27 + not true or 6 and 26800 - 47 : chillax end; when case - not not 88 * true and 2 = - 02 : chillax end; pop; do bLHaa(- 3540 - 9 > 0) end

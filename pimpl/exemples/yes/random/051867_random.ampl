@@ -1,0 +1,1 @@
+program D : l8 : takes mV30 : integer; L : boolean array returns boolean array chillax end z : takes U : boolean array returns boolean array chillax end main : output not false and true and 7 > - not 9 and 337 end

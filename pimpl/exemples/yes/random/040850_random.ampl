@@ -1,0 +1,1 @@
+program g8H0 : y5 : takes N1o : boolean array; d2 : integer array; OV : boolean; jCs : integer array returns boolean GK8, g, M : boolean; let z = - 5 - 6 >= 0; do o(- 1, 41 = 2) end tW : takes gI : integer array returns nothing e, TF, H91 : integer; chillax end main : AK, tpR : integer array; AN : integer array; YU : integer; chillax end

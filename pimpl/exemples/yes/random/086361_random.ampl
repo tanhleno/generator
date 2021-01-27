@@ -1,0 +1,1 @@
+program E : main : ia : integer array; Iu7a : boolean; cI : boolean array; b, B4, G : boolean array; input A[false or 6]; do J(false or _ + 8, - 545 and 8, - 5220 - 4 < 3190, 787 = 240, 6, 70); pop 4470 - 7 = 506; while 6 : output ""; do S3(04); pop end end

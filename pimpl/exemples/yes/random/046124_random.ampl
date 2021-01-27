@@ -1,0 +1,1 @@
+program dhR : Lpb : takes r_ : boolean returns boolean C, y : boolean; xQ6 : integer array; while 4 and 5 <= - 2 : chillax end; let sr[- 96 - 3] = 18 = 8 end L5 : takes D : boolean; r, YV, qq0a, e : integer returns nothing pop 6 = 324 end main : chillax end

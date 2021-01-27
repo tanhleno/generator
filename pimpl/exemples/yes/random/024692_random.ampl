@@ -1,0 +1,1 @@
+program LS : y : takes q, h5q0a : boolean returns nothing input S end X2p : takes f57, b1F0a : integer array; p : integer returns nothing Kp : integer array; output 930 end G : takes be2, eNt0a, OQ : boolean returns nothing chillax end main : r, v : integer; b9, Bb : boolean array; chillax end

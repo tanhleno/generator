@@ -1,0 +1,1 @@
+program L : i : takes qg : boolean array; H, n, m : integer; Bq : boolean; H3G : integer; j67, hGz0 : boolean array; I : integer returns boolean nh : boolean; w410, R : integer array; Ss3 : integer; jLb, KFX : boolean; let D = array S1 end J1R : takes p : integer returns nothing chillax end main : chillax end

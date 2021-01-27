@@ -1,0 +1,1 @@
+program H3A0 : main : let g8[false] = - (0) or not 53; input R78[- 6 + true and 86]; when case 8 or 74 - 90 : chillax end case - 6 - 7 : do e(8260) end otherwise : input i2Y0; output "f" end; input g[- 116]; pop; when case 0 : pop end end

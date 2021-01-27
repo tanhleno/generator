@@ -1,0 +1,1 @@
+program f : N2b : takes y6, W, _HF, j, JBla, P5, C6, Z34 : integer array returns nothing g2H, IJ : boolean array; u : boolean array; do W(PEb0 and 81 or 2 < - 4 - 50, 4 < 9, 6 = 94); pop; when case 359 : do i(9) end otherwise : chillax end; pop; pop end main : PB : boolean array; chillax end

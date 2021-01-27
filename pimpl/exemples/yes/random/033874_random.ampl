@@ -1,0 +1,1 @@
+program Vi : QVX : takes K46 : boolean; sCJ0a, Nk, zp : boolean array returns integer array S : boolean; M : integer array; q, K9, w29 : integer; chillax end main : u1, DJg0, n5 : integer array; chillax end

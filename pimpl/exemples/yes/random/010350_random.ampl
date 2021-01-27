@@ -1,0 +1,1 @@
+program _e3aa : B : takes c, hV, U : boolean array; z : integer array; Q : integer array returns nothing O, kf, t : boolean; O : boolean array; chillax end main : pop; do Y(true and false and 8 or OK and 33 or 3 - 894, - not 4 > - 36300 - 1, 8, 5 = 5, 229, 0); input w[- true and 66] end

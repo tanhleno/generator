@@ -1,0 +1,1 @@
+program SUEa : main : when case - not etZ(2) or true and not 39 and 59 /= - false and(3) and 9 + nP + 80 - 7 : while 8 < 6 : chillax end; output 3; input k; do L(202); output "" end otherwise : input _[7] end; output - (6) and 25 or 16000 < - 702 . ""; do G(- true and 74, - 7 <= 46, 1) end

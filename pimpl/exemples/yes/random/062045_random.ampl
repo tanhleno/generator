@@ -1,0 +1,1 @@
+program x : i9 : takes ag : integer returns boolean array c : integer array; when case - E8Ma - 50 - 75 : chillax end otherwise : chillax end end m : takes j : integer returns nothing A8 : boolean array; pop end main : X : boolean array; chillax end

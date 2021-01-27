@@ -1,0 +1,1 @@
+program N : M : takes r : integer returns boolean array while - true or 0 - 6 : chillax end; output "" . 31 . 51 . ""; while 34 : chillax end end Y : takes ke1 : boolean; y : integer array; D : boolean array; u, R1eaa, I : integer returns integer array chillax end main : B8h, k9, m : integer; chillax end

@@ -1,0 +1,1 @@
+program pi : main : when case - true + true / false : output "V" end; when case - 6 + true and 62 + 1840 - 9 : chillax end case - false : chillax end case 06 : chillax end case 7 = 3 : pop end; output 9 - 9 > 4 end

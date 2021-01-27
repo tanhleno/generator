@@ -1,0 +1,1 @@
+program B8e : M : takes L : boolean; C : integer; _0, kZ, B, H : integer array returns boolean rB, x41 : boolean; output "" . "\t" . "" end main : input h; pop - q or 3 <= - 97; let I6Waa[- 531 and 7 or 54 - 0] = array - not 1 and 46; input v[- 5 - 04]; while 85 = 6 : do es00(9) end end

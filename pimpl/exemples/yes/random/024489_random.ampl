@@ -1,0 +1,1 @@
+program WZk : l3 : takes j, oR : boolean returns nothing hL : boolean array; Q, D, FTm0, u : boolean array; let G[t and 309 - 3 - 5] = - 1 - 69100 /= 2 end main : F, j79a : boolean; while(8) : output "" . 7 end; input o[- true - G and 70]; when case - not 88 : while 8 : chillax end; do Z(69); input c; pop end case 7 >= 3 : while 8440 : chillax end; output "" end; pop end

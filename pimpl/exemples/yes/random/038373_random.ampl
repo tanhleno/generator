@@ -1,0 +1,1 @@
+program Y : gG8 : takes F : boolean array; WrYa, O, vd : integer array returns nothing when case false and 11 + 42 - 285 : chillax end; input fa[- 67 - 077]; let w[5] = 2270; do O(4); input i end main : Dp : integer; chillax end

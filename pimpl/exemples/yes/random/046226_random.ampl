@@ -1,0 +1,1 @@
+program iwq : m : takes J4 : boolean returns boolean U33aa : boolean array; output 51 . "" . 524 . 0; let b9L0 = array - 2; pop; while 8 : pop end; let A = 8 end main : let Z[110] = array - (8); let s = array false; pop end

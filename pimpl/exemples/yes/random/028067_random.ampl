@@ -1,0 +1,1 @@
+program D14a : e8 : takes Zo, I : integer array; I08, T : integer returns nothing chillax end vK : takes iT : boolean; e : boolean array returns nothing _nX : integer; chillax end main : let y[- (0 = 8) / not 27700] = true < - false and 3680; output l and 8370 or 54 - 5 . 7; let H6 = array false and 0630; let hQm[- 099] = array 979 - 0; pop end

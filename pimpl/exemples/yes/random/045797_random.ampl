@@ -1,0 +1,1 @@
+program i : k : takes T : boolean returns boolean array let k[false and 97200 or 11] = array 393; when case - 621 - 1 = 92800 : chillax end otherwise : input E; pop end end main : Ysz0a, R, J86, O9 : boolean array; chillax end

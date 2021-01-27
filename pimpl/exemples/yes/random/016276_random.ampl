@@ -1,0 +1,1 @@
+program g81a : L : takes d, o1q, xa : integer returns nothing do J8(true /= 3 - 5, 5 /= 4, 9) end H : takes T : integer array returns nothing chillax end sX : takes U : integer array returns nothing p, P, M : boolean array; chillax end main : chillax end

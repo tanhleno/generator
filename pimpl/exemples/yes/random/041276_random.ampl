@@ -1,0 +1,1 @@
+program c : K95 : takes f3x0a : boolean array; U280a : integer returns integer array while - false - 10 - 84 > 13300 : chillax end end o39aa : takes H : integer array; q, Xvc : integer; o : boolean array returns nothing chillax end main : input eH; do V(true / 9 and 53 /= - l9Qa and 1 + 5); let M[not 77 and 84 + 2] = array 1 and 2 or 8 - 2270 end

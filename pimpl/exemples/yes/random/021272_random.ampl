@@ -1,0 +1,1 @@
+program D32 : RX : takes l2, u : boolean array returns integer array chillax end sA : takes ky, L : integer returns nothing chillax end main : Y, i, F : integer array; qj20a : boolean; Q, zH, d, S9 : integer; E : integer; V : integer array; E, Z4 : boolean; chillax end

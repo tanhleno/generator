@@ -1,0 +1,1 @@
+program A : Zt6 : takes d02, n000a, d25a, Sc, Fz : integer array returns nothing x : boolean array; w1, k6 : integer; m3 : integer; N : boolean; chillax end main : while - 88 * true >= - 40 / (031) + 3 and 51 - 68 : output "" . "0"; do s49(5); pop end end

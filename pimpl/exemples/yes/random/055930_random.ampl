@@ -1,0 +1,1 @@
+program B : p : takes L : integer array; q7Q0 : boolean array; i : integer array; yw, Q, B, y : integer array returns integer array c : boolean array; do o7R(6 and 1 - 5 /= 19400); input D[8 - 4]; let x[2] = array 83 end main : when case - false rem not 34100 * (260) or 50 : chillax end; output - x or 2 >= - 5 - 73; pop - 1 - 527 end

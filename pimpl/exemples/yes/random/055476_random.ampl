@@ -1,0 +1,1 @@
+program O8ja : ib : takes o : integer array; WoEa : boolean; y, v7a, R, C : integer array; KQ : boolean array; V7_0 : boolean array; E : boolean array returns integer array do I(J or 4 - 99300, - 7 - 6 = 1, 5110) end main : output true + false > 6 or 400 end

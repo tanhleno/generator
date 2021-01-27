@@ -1,0 +1,1 @@
+program g8 : q490a : takes ya0 : boolean array; U, m, iYja, k : boolean array; ruw0a : integer; U2Na : boolean; Gp : integer returns boolean array pop end main : LPp : boolean; n, n9, L, R9 : boolean array; D : boolean; chillax end

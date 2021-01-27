@@ -1,0 +1,1 @@
+program S : G : takes Qx : boolean returns nothing let PY[- false + 0430] = - 25400 > 61; when case 2 - 4 >= 39 : pop end case 29500 = 5 : input _07 end end ju : takes Q : boolean; lh : boolean; l : integer array returns boolean chillax end main : V6paa : boolean array; l, m, SKo : integer; chillax end

@@ -1,0 +1,1 @@
+program B : VDp : takes T85 : boolean array returns integer chillax end ju3 : takes R5Z0, D : boolean; p : boolean array; B, P9, T : integer array returns integer FD : boolean; chillax end main : chillax end

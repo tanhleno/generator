@@ -1,0 +1,1 @@
+program kG : G : takes J3 : boolean array returns nothing chillax end main : output "" . - 9 and 0 - 088 - 77 . "{"; input I; do L(- 244 and 7 + 0280 - 0, 6); let uC6 = 63 = 285; when case 30 = 353 : while 1 : chillax end; pop end otherwise : chillax end; when case 90 : pop end end

@@ -1,0 +1,1 @@
+program b : l : takes u, F : boolean array returns integer array us8aa : boolean; chillax end m : takes oq8 : integer array returns nothing kc : integer; J96, cw10a : integer array; chillax end main : pop - 4 and 78 and 64 or 0 and 9 end

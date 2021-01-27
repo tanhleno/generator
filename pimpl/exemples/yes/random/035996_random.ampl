@@ -1,0 +1,1 @@
+program Y34 : L : takes w : boolean; X : boolean array returns nothing chillax end main : pop - not false; when case - not b - true and 2 < (80) and 1 + 436 : let Ov = array 40400; while 7500 : chillax end end case - not 0 >= 31 - 0 : do N(07, 0); pop; output "" end end

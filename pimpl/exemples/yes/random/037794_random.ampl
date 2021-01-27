@@ -1,0 +1,1 @@
+program xi : Y20 : takes z690 : boolean array; Z500a, r, Cn, em : boolean returns boolean _ : boolean; chillax end yg80 : takes j35 : boolean returns integer u3 : integer; when case 14 - 3 : while 984 : chillax end end; when case 799 : pop end end main : lmv0a : integer array; chillax end

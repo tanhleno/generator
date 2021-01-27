@@ -1,0 +1,1 @@
+program U : main : P : boolean array; input oP00[true rem true]; when case - X6 * (11000) + O and 9 : chillax end case - W and 4 < 7390 - 4 : chillax end case - 03100 - 426 : when case 8 : chillax end end case 17 = 7 : let t = 56; pop end otherwise : chillax end end

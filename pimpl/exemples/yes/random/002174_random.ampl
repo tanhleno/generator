@@ -1,0 +1,1 @@
+program I3 : F : takes rp30a, h, M, cH, r : boolean; d, UK : boolean array; d, tF3 : integer; N : integer; O : boolean array returns integer array s, B : integer; input N7[- not 9 and 4] end main : let Z1 = (76) >= - 70 + 251 end

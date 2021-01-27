@@ -1,0 +1,1 @@
+program y32 : R : takes n8 : boolean returns nothing u : boolean; let s[- d and 8] = 0; do O(- 5980 - 0010 <= 8) end TY0 : takes P, XC : integer returns integer l, U : boolean array; z8, Cn7 : boolean array; do b(07200, 79 = 5, 0) end w : takes _, r, l17a : integer; u1 : boolean returns boolean chillax end main : chillax end

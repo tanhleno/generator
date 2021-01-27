@@ -1,0 +1,1 @@
+program o : E : takes F830, O, G, EQ, h40 : boolean array; P, q : boolean array; T : integer array returns boolean KQ, T97 : integer array; MnT : integer array; d : integer array; V : boolean; input C[47 or 7]; let E = 7; while 51 : output "6&!" end; do KM(9) end main : iWq, f : integer array; output "" end

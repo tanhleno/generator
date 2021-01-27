@@ -1,0 +1,1 @@
+program p : q : takes g87 : integer returns integer chillax end E9 : takes t : integer array returns nothing k8 : integer array; P, QZuaa : integer array; cV, Dy : boolean; W : boolean; pop 22 = 1 end main : chillax end

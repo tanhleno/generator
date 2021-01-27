@@ -1,0 +1,1 @@
+program Gvb : K8Qaa : takes S : integer; I : integer; fHH, j0P : boolean array returns integer array q6, U1, Y3M, Y : integer; o : boolean array; BC : boolean array; D5N0, Ji0aa : boolean; I41aa : boolean; G : boolean; output "" . 7; let b[6 - 8] = array 0 - 4 end Y : takes IJ, Zq, _, f0, a3d0 : boolean; v0, U : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program I5I : K : takes Sa, A3, z : integer; c, v, L5 : integer returns boolean h : integer array; pop 5 - 7 end main : when case true or not z55a - u or 2 - 75 : chillax end case - true and(5) >= 3 and 4 or 7 - 128 : chillax end case not 177 and 75 : chillax end case - 7 - 4 /= 03100 : while 0 : chillax end; while 75 : chillax end; pop end end

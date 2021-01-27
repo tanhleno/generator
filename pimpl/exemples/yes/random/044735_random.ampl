@@ -1,0 +1,1 @@
+program i : s : takes b1 : boolean array returns nothing G : integer; lp, WY : integer array; while true = 74 : while 2 : chillax end; when case 91 : chillax end; when case 99 : chillax end; pop end; pop 6 end zU : takes R, X9X0, z8 : integer returns nothing c : boolean; chillax end main : _, V8 : integer; chillax end

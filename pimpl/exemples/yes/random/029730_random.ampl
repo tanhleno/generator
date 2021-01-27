@@ -1,0 +1,1 @@
+program by : D25 : takes y, e : integer array returns integer array do xX(- not 187 and 82500 > 42800) end main : _mL, i : boolean array; p, d, L, X2, Y : integer; p, OQ : integer array; when case - not false / vt and false and 88900 - (9) <= not false * not 2 - (3) and 0 : chillax end otherwise : chillax end end

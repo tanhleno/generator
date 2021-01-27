@@ -1,0 +1,1 @@
+program H7F : X : takes Ti : integer array returns boolean array pop end SC : takes S : boolean returns integer pop 8 = 8; when case 47000 = 78 : let yb80 = 04; pop end case 2370 : pop end case 825 : chillax end; when case 6 : pop end case 07 : chillax end end main : chillax end

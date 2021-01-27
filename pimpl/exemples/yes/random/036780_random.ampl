@@ -1,0 +1,1 @@
+program D : i : takes LCr : boolean; h : integer array; t : boolean array; BXO, AY : integer array returns nothing Z6, B, es, rB9a, x : boolean array; while not 4 <= - 6290 - 0 : chillax end; while - 555 : chillax end; while 0 : chillax end; input KW50a[6]; input O end main : O : integer; R3, y : boolean; chillax end

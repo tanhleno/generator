@@ -1,0 +1,1 @@
+program M : y6 : takes V, TW5aa : integer array; n09, X1 : integer; XL, zT : boolean array; s : integer array; iP : integer array; k3ma, d : boolean; IRp, F : boolean returns nothing Q : integer; while - not 6060 and 9 < - 2 - 40 : chillax end; output 75100 = 86 . 6 . 1 end h : takes x : boolean returns boolean array C : integer array; chillax end main : chillax end

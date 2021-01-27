@@ -1,0 +1,1 @@
+program VX : V : takes s28 : integer returns boolean array pop - 3 - 045; when case - 61 : while 7 : chillax end end; output 2 . "=" end n0 : takes I : integer; N, t9 : boolean array; B : boolean array; b : boolean returns nothing p9X : integer; let d90 = array - 3 - 0; pop; output "" . "" end main : input s[- true rem S] end

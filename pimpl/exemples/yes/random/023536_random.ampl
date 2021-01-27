@@ -1,0 +1,1 @@
+program aZD : Q : takes R, u : boolean returns integer array i8 : boolean array; when case U6 or 4 : chillax end; output 1 = 82 . 15400 end D : takes p7z, f : boolean array; X : integer returns nothing let Rd = 8 = 13; output 63 . 1 end main : let U410 = (4910) / Y6 + (62) and 630 + 3 - 2 <= - 10 and 34 + 84600 - 5 end

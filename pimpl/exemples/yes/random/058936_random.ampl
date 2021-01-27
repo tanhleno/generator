@@ -1,0 +1,1 @@
+program u : T0 : takes H : integer array returns integer array i6 : integer array; chillax end I : takes i, R, UO, p : boolean; U : integer returns boolean array while - 0 - 0 : chillax end; input R9; do v7(5, 72300); when case 6 : chillax end; pop end main : do cl(true, - true < true - 6 - 2, M + 45 < - 0, 0) end

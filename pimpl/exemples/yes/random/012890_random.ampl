@@ -1,0 +1,1 @@
+program dv40 : D5 : takes Y0, Z, E23 : integer; g, mQu : boolean array returns nothing R : integer array; O, Kx_, b, V : boolean; o5 : integer array; input b[- not 04 - 0 - 973] end O : takes S0, y6 : boolean returns boolean array chillax end main : _7 : integer; X, m : boolean; chillax end

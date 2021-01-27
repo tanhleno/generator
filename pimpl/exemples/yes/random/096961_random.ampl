@@ -1,0 +1,1 @@
+program G3 : main : when case T + not not 67400 or not 54 and 5 or 1 - 1860 : output ""; when case 9 = 7970 : when case 63000 : chillax end; pop end otherwise : chillax end end; pop - 0 + 562 - 92; do d(- (8), 6 - 8) end

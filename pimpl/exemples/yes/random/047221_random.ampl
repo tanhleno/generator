@@ -1,0 +1,1 @@
+program Aj : obl : takes w : boolean returns integer u : integer array; chillax end q : takes Y : boolean; e : integer array; C : integer; f : boolean returns nothing chillax end i : takes v7U, vL, g : integer array returns nothing w7 : integer; QQp0 : boolean; e : boolean; c : boolean; chillax end main : l, iC, b, cF, Q, y, j : integer; chillax end

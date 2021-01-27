@@ -1,0 +1,1 @@
+program li20a : W : takes z66 : boolean array; ar, o, w1, z : integer array; ka0 : integer array; U1N : boolean; G, Vw2 : boolean; FS, L : integer array returns boolean array d : integer array; chillax end main : let B0[true / not(86)] = array - 1710 rem not(3) + (957) * 6 + U + 81; pop false and 0 or 9 <= 08300 - 4 end

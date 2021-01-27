@@ -1,0 +1,1 @@
+program W8 : E : takes _hqaa : boolean; EM3aa : integer array; P : boolean array; r : integer returns boolean array when case 891 and 4 - 3160 >= 1 : let zg = 6 end otherwise : pop end; output 90 = 4 . 21 end main : chillax end

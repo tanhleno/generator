@@ -1,0 +1,1 @@
+program Z : X : takes aTD, mt : integer array returns boolean f46 : integer array; e, hn90a, o : boolean; c, w, F : boolean; fNw0, rfr : boolean; output - 2 - 4 /= 79; do F(- 90) end PQj0 : takes AH3, _R, smm, d : integer returns boolean array B : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program r4m0a : j9 : takes hbR, M, E, W38 : boolean array returns integer D, E, C : integer array; Y, z : boolean array; chillax end vQY0a : takes o : integer returns boolean j : integer; M1V0a : boolean array; output "2" . 2; do UY(5) end main : b, Z : boolean array; chillax end

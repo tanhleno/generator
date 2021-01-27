@@ -1,0 +1,1 @@
+program jg90a : main : uD : integer; do Y0_(not not 0240 - true / J9 and 5, (4) rem 15 and 3 or true <= B, not 25 + 47500); do z(false + H7m - 40 - 3 /= false and 0 - 05); do RIp(2 and 51800 - 1 - 659 <= - 65); let A[7250] = array - 7 - 4; output "0" . 4; when case 64800 : pop end case 082 : chillax end; when case 96 : chillax end end

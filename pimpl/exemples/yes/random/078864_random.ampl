@@ -1,0 +1,1 @@
+program x7x : main : h : boolean; r, lJ : boolean array; do i9(Ga[45] and(6)); when case(364) - true or 1 < false and 0 or 8 : chillax end case 8 and 1 /= - 6 - 1 : chillax end case - 700 - 3 : chillax end case 8 : output "a"; pop end otherwise : input Y; pop end end

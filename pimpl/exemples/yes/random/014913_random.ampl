@@ -1,0 +1,1 @@
+program iGQ : wS : takes I, w, C : integer array returns integer array J, v1, K, J7, I210a : integer; N : boolean; Q, x, w : integer array; chillax end Y : takes t, K : boolean array returns integer array d, lGg, z, q : boolean; while - 0 <= 11 : do i2jaa(8); pop end end main : J, j : integer; z, Z : boolean array; R : boolean; chillax end

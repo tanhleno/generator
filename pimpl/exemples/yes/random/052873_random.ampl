@@ -1,0 +1,1 @@
+program t : e : takes a : integer; m9e : integer array returns boolean array while - 2 and 1110 >= - 0 : chillax end end M6y : takes T, Cb, ZjJa, uRy : boolean returns integer when case - 5 - 8 : chillax end case 493 = 4 : while 1 : chillax end end otherwise : let E96 = 1 end end main : chillax end

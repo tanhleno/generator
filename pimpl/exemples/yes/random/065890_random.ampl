@@ -1,0 +1,1 @@
+program z34 : main : do _(- (198) rem not o / false - true * (9) and 58 or false and 98 - 2); let a76[- true * 04 and 2400 - not 08 + 3650] = - (41) /= - 45 - 6; while - (8) or 08 < - 7 : chillax end end

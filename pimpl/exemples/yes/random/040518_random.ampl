@@ -1,0 +1,1 @@
+program B : z60a : takes Nvz0a : boolean array; r : integer; q2, u, b : integer; g7, ZN5aa, qI, Q5k, O : integer; A6Zaa : integer returns integer array do hf8(- 57 /= - 42100, 7 - 2, 4750 = 0690, 62); input i end main : aa : boolean array; M, E : boolean; chillax end

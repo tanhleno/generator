@@ -1,0 +1,1 @@
+program F64 : t : takes R : integer returns integer chillax end B : takes M, y, Z, R, L, GwE, t : integer returns integer chillax end main : e3, W : boolean; while - cB(4, 42000) * true / 5 = not not 04 : output 279 = 4; output ""; pop; input O; pop; pop end; while - (9) : pop; output 890 end end

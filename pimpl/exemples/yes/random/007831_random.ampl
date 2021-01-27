@@ -1,0 +1,1 @@
+program W : A : takes FM3, y2, H, w : integer array returns nothing g6 : integer array; l1, zVa0a : integer; U : boolean array; chillax end main : Dj4 : integer; pop - not true / 52000 and 596 + 62 and 09 or 1 end

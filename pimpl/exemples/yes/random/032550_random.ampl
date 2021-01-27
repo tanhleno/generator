@@ -1,0 +1,1 @@
+program AIa : x : takes Kz3a, l : integer returns nothing n, W1, Lz1aa : boolean array; pop; do vI80a(17, 6) end c1 : takes L6, P : integer returns nothing n38, g1, P, U : integer array; A : integer array; pop 1 = 87 end i9 : takes D : integer; v, Pi : boolean array; Xc : boolean array returns integer array Of : boolean; do B(3 = 2, 3) end main : chillax end

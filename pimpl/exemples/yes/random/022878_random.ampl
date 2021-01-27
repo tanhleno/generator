@@ -1,0 +1,1 @@
+program et60a : V : takes F, yW50a : boolean returns boolean array chillax end LN6a : takes p : integer returns nothing when case - 426 - 5 < 02 : chillax end otherwise : chillax end; while 5 : let c = 3 end end main : let E[not(13)] = array - Nt; while - V[0] and e and 5 < true or 1960 : chillax end end

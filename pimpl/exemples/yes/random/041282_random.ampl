@@ -1,0 +1,1 @@
+program V : rD2 : takes _D00 : boolean array; H : integer returns integer chillax end L82a : takes rg7, j : integer array returns integer array r2, I, l, kr3 : boolean array; o2, m, K : integer; chillax end main : let nc_a = array f(5, 54) end

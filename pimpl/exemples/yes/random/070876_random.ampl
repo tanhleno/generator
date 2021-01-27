@@ -1,0 +1,1 @@
+program i : main : k, K, W : boolean; BJ, E : boolean array; N5D : boolean; Gs40a, S, _ : boolean; g, zAfaa : boolean array; do J(- 8 and 8 rem false and 38 + true / mYk and 983 or(4710) and 56, true and not 7, (5) and 595 = - 3, 5, 6) end

@@ -1,0 +1,1 @@
+program h460 : d : takes f6, m, cj6, m : boolean array returns boolean K, oLC : integer; s : boolean; Axa, c : boolean array; S : boolean; g6T : boolean; input M[(3)] end main : Sv : boolean; xfFaa, Ov : integer array; chillax end

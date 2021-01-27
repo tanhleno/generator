@@ -1,0 +1,1 @@
+program Ws : R : takes a : boolean array returns integer array I, GZO, gDZ0, q : boolean array; p3 : boolean; Xv : boolean; j : boolean; let rhI = - 5930 end main : R, F, ylq, dV40 : integer; chillax end

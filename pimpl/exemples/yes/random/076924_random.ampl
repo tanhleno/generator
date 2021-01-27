@@ -1,0 +1,1 @@
+program X8b : main : mj, u8 : integer; when case 418 >= false or d and 075 : output "\"0" . 8 . "" end; when case not false - 5730 + 2 : input Km00a; output "\\" . ""; while 7 : chillax end end case - 969 and 8 + 44 : let CdB0 = 5 end; let Q60 = array - not 0 and 1 or 0 end

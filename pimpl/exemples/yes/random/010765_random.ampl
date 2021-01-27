@@ -1,0 +1,1 @@
+program YQ : K3 : takes E, w, f5 : boolean array returns boolean while(01) : chillax end end V : takes v, k, hP, D7, L2m0, Vp8 : integer; p4Z0 : boolean array returns nothing chillax end main : Sf, A : integer array; chillax end

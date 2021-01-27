@@ -1,0 +1,1 @@
+program d : main : when case true * 1 rem 90 and 53 = Y : chillax end case - (7510) - gU + 9 - 461 >= - false and 8 + 57 : chillax end case(85) and 92 or 33600 >= 7 - 6 : chillax end case - 4710 : chillax end case 58 : let o = 6; pop end case 8 : pop end end

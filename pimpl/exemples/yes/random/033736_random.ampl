@@ -1,0 +1,1 @@
+program v3 : p : takes E_70a : boolean; N, e, c1 : boolean; Iv, K7, A, K : integer; _vBaa, X8, l : integer returns boolean array let S3[4 + 5 - 6] = - 7 = 2 end main : T : boolean array; input UCZ end

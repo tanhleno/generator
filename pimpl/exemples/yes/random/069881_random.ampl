@@ -1,0 +1,1 @@
+program e : main : Q, Ok, QR, nt : boolean array; s470a : boolean array; let SBb0a[- false / not(8) * false and 2] = array - not(2) * (84700); while - false rem true <= 34 and 9 : input ru[99] end end

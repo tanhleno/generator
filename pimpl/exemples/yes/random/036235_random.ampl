@@ -1,0 +1,1 @@
+program G8 : h : takes k : boolean; s : boolean returns integer H : boolean; W : integer array; D, x, K : integer; K : boolean; chillax end main : pop true + (1) and 666 or 1520 - 0670; while not false : let Q[1] = 94; pop; do JL90(814); do qO(7); pop end end

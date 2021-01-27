@@ -1,0 +1,1 @@
+program w : G7 : takes k1 : integer returns nothing O1D, pzW : integer array; RMG0 : boolean array; Y8 : integer; Z : boolean; m01aa : boolean; J : boolean; when case M4 : chillax end otherwise : chillax end end main : chillax end

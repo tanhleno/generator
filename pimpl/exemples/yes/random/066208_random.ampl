@@ -1,0 +1,1 @@
+program z : main : do J(- d(5320) / L7[1] or false, - u or false); when case Zf and false and 999 : chillax end case - J81 : chillax end case 12 > 9 : chillax end case 0 = 2 : chillax end otherwise : input b end; output "8" . 2 . ""; when case - 0 - 8 : output "-" end otherwise : chillax end end

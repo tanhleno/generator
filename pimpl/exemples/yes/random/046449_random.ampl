@@ -1,0 +1,1 @@
+program n : y : takes sH : boolean returns integer array chillax end b : takes rrr : integer array; bd : integer array returns nothing D8 : boolean; input E; when case 55 : while 9 : chillax end; pop end; pop 087; when case 952 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program D3b0a : main : while rB[0] / not not 0 or(56400) / false >= not 8 and false or 96 and 11 or 449 : pop 6 = 00 end; when case 90 - false : while 5 : output "/=" end end; input m6[not 7 and 832 - 8 - 5]; output "" . 4390 . "\t)\"" . "" end

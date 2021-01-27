@@ -1,0 +1,1 @@
+program Oc : i : takes ko3aa : integer array; S0X0, c, Jn1aa : integer array returns integer array while - true and 7 : when case 0 : chillax end case 71 : chillax end otherwise : chillax end end end main : m, w : integer array; xg, r1 : integer; pop end

@@ -1,0 +1,1 @@
+program v4 : main : k26 : integer array; p, Y, F : integer array; when case not t(58) or true /= false rem false : chillax end otherwise : pop; when case 6 : chillax end; while 9 : chillax end end; pop true and 0; let l = - 1 <= 9 end

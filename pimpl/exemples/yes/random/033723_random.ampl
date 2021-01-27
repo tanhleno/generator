@@ -1,0 +1,1 @@
+program _bS : CH : takes Yb : boolean; OAma, a, Jm, Ri : integer returns nothing Oa : boolean; d0, ON, Q, lu : integer array; C2 : boolean; output - 6930 . "\"" . 3 . 9; output 5360 = 4 . "U6" end main : M, v0 : boolean array; while true <= true * false and 96 : do xB(- 924 < 82, 07700) end end

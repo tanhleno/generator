@@ -1,0 +1,1 @@
+program Q82a : H9 : takes Z1, UH9 : boolean returns boolean array P, A, u : boolean; O, Ka3aa : integer array; N2 : boolean; Q, z : boolean; while 520 + 439 : chillax end; input X8u end main : a8 : integer; chillax end

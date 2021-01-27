@@ -1,0 +1,1 @@
+program KDp : E : takes G : integer returns nothing chillax end main : ut, h2b0a : integer array; Fr, e : boolean; while false and false rem not 05 + false or false and 69800 - 61800 : chillax end; output h and 4 <= 20 end

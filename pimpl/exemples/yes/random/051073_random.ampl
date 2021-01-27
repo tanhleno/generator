@@ -1,0 +1,1 @@
+program U : t : takes Tm : integer; z, B : integer array returns boolean chillax end main : j : boolean; do W(- false + false and true or 415 and 96400 + 69 - 064, - false and 5 or 82600 and 5480 - 8 - 10 = - B9 and 31 - 094 - 56); pop end

@@ -1,0 +1,1 @@
+program Q : Pn : takes zHh : boolean array; rK7, zk90, h : boolean array; O : boolean returns nothing pop; pop 6 end O3 : takes xD : boolean array; R : integer array returns integer array f : integer array; chillax end main : let V6Y = array j(2, 5) and false rem(4) or not false - e8 or 2 end

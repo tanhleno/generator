@@ -1,0 +1,1 @@
+program Q5 : n7 : takes G : integer array; M80 : integer; T, y : boolean array returns integer chillax end main : Fe : boolean; h, Q : integer array; when case - not(3) * 0 >= 574 + 487 - 6 - 62 : chillax end end

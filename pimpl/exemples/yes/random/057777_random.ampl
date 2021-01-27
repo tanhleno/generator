@@ -1,0 +1,1 @@
+program i : XO : takes v : integer array returns boolean array kf, p : integer; let f7[- true and 5] = array 1 or 44 end jK : takes i, M47aa, yxB0 : integer array returns boolean array chillax end main : S, g90 : boolean; c6 : boolean array; do z((6) - false /= - (2) + not 1, false, - false + 9 > - 2, 21900, 67 = 8, 865); output "" end

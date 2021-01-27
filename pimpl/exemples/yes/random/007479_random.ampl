@@ -1,0 +1,1 @@
+program l : M : takes V9h, o, c, l : integer array returns boolean I : integer; chillax end main : Jq, D : integer; let D7[- 3] = - (2) / not 1 or 74 /= - true and 9 + 9; pop; when case s4la and 4550 or 9 /= - 8 : let n = array 0 end otherwise : pop end; let V5o = 909 = 74700; let Eb50a = array 30900 end

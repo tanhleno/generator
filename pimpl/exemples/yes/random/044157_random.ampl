@@ -1,0 +1,1 @@
+program N9g : qa3a : takes l : boolean array returns nothing Q6p, D, P : integer array; input jE; let G[945 - 13] = 590 = 4; when case 459 = 719 : chillax end case 5 : pop end case 904 : chillax end otherwise : chillax end end hX : takes m, H0Ma, i, _e6a, FVs0 : boolean; hA, n : boolean returns nothing chillax end main : pop true /= - true and 8 + 73 - 90; input E end

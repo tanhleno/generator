@@ -1,0 +1,1 @@
+program D : b88a : takes a8, O, c3, X : integer array; J, NX9aa, p, I : integer array returns boolean chillax end main : input u6[- (45 = 1) rem true * 8 and 2 - (48) + p]; do D9(d[2] - false and 825 - 9 = - 08, ZT and 82 - 3 /= 347 - 3, 99 >= 10000, 710 = 3) end

@@ -1,0 +1,1 @@
+program s3L0 : QTd0a : takes G, R04, G6O, T4, N : integer array; u5 : integer array; w9z0, Z, IR : boolean returns boolean array let WsB = - 74; output 8120 = 637 end M : takes K : boolean array returns nothing do _68(892 >= 37, 76600); do BX8(8) end main : while true / (45) : chillax end end

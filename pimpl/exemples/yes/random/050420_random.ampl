@@ -1,0 +1,1 @@
+program G : s3 : takes b : integer; W, S7 : boolean; H : integer returns boolean array U9vaa : boolean array; AWu, r, Km : integer array; chillax end X : takes K : boolean array; h : boolean returns integer array HK0, A : integer; F, A7 : boolean array; pop end main : do j((087 = 23700) rem(181)); when case - not O6p : chillax end end

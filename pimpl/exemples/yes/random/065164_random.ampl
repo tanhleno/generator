@@ -1,0 +1,1 @@
+program _29 : I : takes x : integer returns nothing input VeL0a; pop 56300 = 530; pop 38 end _0 : takes Z : boolean array; P : integer array; l : boolean returns integer chillax end main : when case(8) * false and 6 - Ef rem true : while 6 - 7 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program aW9 : main : when case true and not false + (35) / c and 0 > (67) and N and 784 + false and 2 or 56100 : output "" . 351; output 3 . 22; output "\t\"" . "" end otherwise : pop; input j780[78]; when case 54 : chillax end end end

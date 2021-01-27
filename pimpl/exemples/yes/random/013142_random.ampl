@@ -1,0 +1,1 @@
+program oi : v2z : takes t6za, FN10a, b8 : integer; JNY : boolean array; sMNa, d, N19 : boolean; M8B : integer; sC9, lVR, N5 : boolean; n2 : integer returns nothing m : boolean; g, r, s, m : boolean array; chillax end main : G3 : boolean; cD2 : boolean; chillax end

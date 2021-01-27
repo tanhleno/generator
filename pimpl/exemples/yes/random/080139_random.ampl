@@ -1,0 +1,1 @@
+program Ne10 : main : I8K : boolean; output Ung[6] rem n5 and 169 or not 8 or 0 /= true and 0 - 046 - 55000 . false - 5 - 6; while - not 9 < A0V0 : when case 450 : let b = 2; pop end otherwise : pop end end; output - 0 > 5; when case 05 > 12 : chillax end end

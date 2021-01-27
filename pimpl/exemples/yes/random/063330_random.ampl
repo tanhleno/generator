@@ -1,0 +1,1 @@
+program Pw9 : F : takes qa : integer returns integer VrKa, M, m8o0a, c0 : integer; N, B, U75 : integer; ci, L330a : boolean array; ez4 : boolean; Y4iaa : boolean; chillax end main : T, S : integer; N1 : boolean array; when case - u[8] rem true = (1) * not 1 and 76 - 2 : chillax end otherwise : chillax end end

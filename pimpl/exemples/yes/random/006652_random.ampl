@@ -1,0 +1,1 @@
+program Ix0 : e : takes u370, Jl, q74, _ : integer; MS : boolean returns integer array chillax end xA6 : takes N : integer returns nothing chillax end G : takes R : integer array returns nothing V4Ma, r : boolean array; O1, p : boolean; chillax end main : N09 : integer; do Nd1((831 = 7) - B2 / true and 1 + (538) > not(6) * (04) - false or 04 - 71) end

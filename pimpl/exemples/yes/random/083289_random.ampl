@@ -1,0 +1,1 @@
+program c3 : main : O : integer; sr, w0, v, P : integer array; pop; do iO5(- 190 and not 00 and 4, - g >= - 653); when case false + 851 - 52 : chillax end otherwise : chillax end; output 0 . "1a" . 8 end

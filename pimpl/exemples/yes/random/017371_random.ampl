@@ -1,0 +1,1 @@
+program q : E : takes l, b : boolean; I5, Oe : integer; O, W, B7g : boolean array; q, p : integer array returns integer array b, lP : boolean array; e : boolean array; w, kR5 : boolean array; output 52; do X(- 7, 475 = 70, 53) end z : takes G : integer array; k, V96aa, x, g, NZ, Gj : boolean returns nothing chillax end main : M, y : boolean array; chillax end

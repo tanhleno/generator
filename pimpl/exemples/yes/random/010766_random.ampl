@@ -1,0 +1,1 @@
+program I : v : takes msQ0a, O, L : boolean array returns boolean while - false and 74 or 31 - 43 : input Q[245]; pop; while 29 : chillax end end; do M(5340 - 6) end main : m, KT8, h : boolean array; n, p95 : integer array; output "C" end

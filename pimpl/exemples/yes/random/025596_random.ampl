@@ -1,0 +1,1 @@
+program PB : S5Ka : takes C0, h : integer; M_6, v7_0a : boolean array returns nothing ku4 : boolean; do e(false and 51 - 70 = - 4 - 7, 88); when case 18 - 3 : chillax end otherwise : chillax end; pop end P : takes O66, O : boolean; B, O7 : boolean array; G7 : boolean array; k, J : boolean; Rm8, v : integer array returns boolean chillax end main : chillax end

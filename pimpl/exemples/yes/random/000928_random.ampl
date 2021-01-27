@@ -1,0 +1,1 @@
+program u : I : takes w, w, F, CE, Z, f, O : integer array returns boolean array w : boolean array; do H6(false and 745 < 45, 5 - 9 <= 1, 655 = 87, 7); output 83700 = 5 . ""; input n end v : takes hx5aa : boolean array; M1s0, N2 : boolean returns boolean E75a : boolean; chillax end main : chillax end

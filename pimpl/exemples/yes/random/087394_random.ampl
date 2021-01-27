@@ -1,0 +1,1 @@
+program e3 : main : g : integer array; pop - not(7) <= - true; output ""; while - true and 8 or 7 : input U5; let DMu = 7250 end; do g(- 0 >= 46); when case 48 : do e(0); pop end otherwise : chillax end; when case 442 : pop end; let m46a = 97; while 5 : chillax end end

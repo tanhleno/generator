@@ -1,0 +1,1 @@
+program T9 : IV4 : takes u3, i860, _ : boolean array returns boolean when case - not 4870 and 77 - 74 : chillax end case 5 < 3 : chillax end end zL : takes xVtaa, mW9 : integer array; b2, yE, mL1 : boolean; tW7 : integer; ezea, Qh : boolean array returns nothing ZZ : integer; chillax end main : chillax end

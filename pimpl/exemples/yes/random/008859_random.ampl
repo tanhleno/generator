@@ -1,0 +1,1 @@
+program A45a : R : takes h, w5, CK : boolean; Hx, T : integer array; s : boolean array; UwR : boolean; A, F : boolean array; J : boolean array; E : boolean; Yy3aa : boolean; g : boolean returns nothing chillax end main : chillax end

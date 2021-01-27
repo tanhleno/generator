@@ -1,0 +1,1 @@
+program s : Xhi : takes o, e : boolean array; n : integer returns nothing chillax end pz : takes F : boolean; l : boolean array returns nothing while 17 = 2 : while 7 : chillax end end end x : takes Aw, l390a : boolean array returns nothing U, Wc : integer array; iI, A : boolean; H : boolean; output "" end main : NQ, J66, X4 : boolean; Z : boolean array; chillax end

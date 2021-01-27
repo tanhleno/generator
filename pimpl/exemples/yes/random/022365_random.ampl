@@ -1,0 +1,1 @@
+program a4 : Z : takes XQ, Z5b : boolean array returns nothing t, Mpoaa : integer array; pop - 4 - 48 end h : takes VK : integer; fyU, q : boolean returns nothing output "O" end main : do oDaaa(- true + false and true <= not true / (2), (2) rem not 6 and 2970 > - (84) - 93, true - 9 - 55400 = - 91 - 3); pop; do K56(- 61 and 496 > 38 - 2, 5 - 80) end

@@ -1,0 +1,1 @@
+program x : jV : takes w : boolean returns boolean let V = - 14200 - 3 end u : takes Oc, g : integer array; kK, g : boolean array returns nothing NZ, Ld : integer array; pop 3; let O75[0270] = array 8; let jc = 2 end T7 : takes a : boolean array; R : boolean array; MnX : boolean returns nothing let n[223] = array 5520; let mF0[0] = 0 end main : chillax end

@@ -1,0 +1,1 @@
+program e : gJ : takes S : boolean array returns integer array d : boolean; P, hU, y6N : integer array; H, y, XKT : boolean; Q, F : boolean; chillax end main : let f[j[6]] = - 1 and(3) and 694 = - false and 9 - 31400 - 72 end

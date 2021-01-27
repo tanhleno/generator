@@ -1,0 +1,1 @@
+program egP : v : takes _3 : integer array returns boolean array jhv, j : integer array; let iC[- 22] = array - y4 and 4; input O1[8] end main : d8 : integer; output "=" . false and 4 + 91 <= 1 - 184; pop - not 3 end

@@ -1,0 +1,1 @@
+program Z7 : N : takes iv, d, z, W5u : integer; X3 : boolean array; N : boolean; iH3, N, nv1 : boolean array returns nothing chillax end main : input j7; let Dmg = array - C(5) and not 1 and 1 - false; do rg8aa(- (64) - 59100, 49 - 4) end

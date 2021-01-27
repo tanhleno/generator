@@ -1,0 +1,1 @@
+program j : J : takes pa : integer; XxSa, h7 : integer returns boolean array chillax end R1a : takes I : boolean returns nothing l1, N, R : integer; g, K, I : integer; output 0 = 8; while 94 : chillax end end main : du7, M1, o_4aa : integer; z : boolean array; O, K : integer; chillax end

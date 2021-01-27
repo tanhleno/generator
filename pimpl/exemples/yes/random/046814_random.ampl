@@ -1,0 +1,1 @@
+program x : Q : takes J : boolean returns integer array output 96200 < 5 . 6 = 640; when case - 05 : chillax end otherwise : chillax end; when case 0 = 7 : do V7(03) end end main : output "" . "" . "0"; input P end

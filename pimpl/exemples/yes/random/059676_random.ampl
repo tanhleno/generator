@@ -1,0 +1,1 @@
+program t : Ee : takes N40 : integer array returns nothing chillax end _ : takes J, j, u : boolean returns nothing chillax end V : takes Zl, U : boolean array returns boolean array g70a, UO, XoP : boolean; output "5" . "|s" end iM : takes a3U : boolean returns nothing Tt : boolean; X2C0 : boolean; c3 : boolean; chillax end main : chillax end

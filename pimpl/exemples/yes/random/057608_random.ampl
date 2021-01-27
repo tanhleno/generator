@@ -1,0 +1,1 @@
+program f15a : cL : takes q : integer array returns boolean array chillax end N : takes iX : integer array returns nothing chillax end f0z0a : takes f : boolean array; p, rnk, R : integer returns boolean u : integer; F, Wb : boolean; chillax end main : L0, DP, q, h_ : boolean; pop; input D end

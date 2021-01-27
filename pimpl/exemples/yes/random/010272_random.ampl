@@ -1,0 +1,1 @@
+program v_6 : a : takes Vh, V, P : boolean array; g7 : integer; j17 : boolean; u : boolean; eH : boolean array; m, b22, G : integer array returns nothing o : boolean; input Z; when case - 7 /= 78 : chillax end case 43 = 0 : chillax end; while 16800 : chillax end end main : chillax end

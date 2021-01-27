@@ -1,0 +1,1 @@
+program r3q0a : xS : takes p : integer array; P7, E0 : integer; O : boolean; HK : boolean array; r, Q : integer; l : integer array; z, H : boolean returns nothing t : boolean; J : integer array; chillax end main : output ""; output - not 662 <= - 71000 - 84900; when case K3uaa < 7 : let b[47200] = 9 end; do e(693 - 67); do R(2); input b end

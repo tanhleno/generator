@@ -1,0 +1,1 @@
+program F4B : _ : takes H, J4 : integer array; W : integer array; E45a, m : integer array; zT2a, x, Od9 : integer array; GyJaa, o5, y : boolean; j : boolean array; V, w1 : boolean returns nothing chillax end main : output not not 7 rem true /= - 5 and 8 . - (27) and 79 . - 9 end

@@ -1,0 +1,1 @@
+program h3m0a : f : takes P83a, X3 : boolean returns nothing b : boolean; n, N : boolean; d : boolean array; Hq : boolean; WNHa : boolean; b630a : boolean; chillax end main : Rk : integer array; V_E : boolean; do q(- f(32, 53) = - false, - 4 / 69700 <= 7 and 0 + 2 - 90400, - not 5 and 3 <= 8, 225 > 211, 401) end

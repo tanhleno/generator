@@ -1,0 +1,1 @@
+program J : j : takes A, l, dk8 : integer; ug7 : boolean array returns boolean WD, D6Laa : integer; P4, E, f, G : integer; chillax end main : C, F : integer; pop - (21) * N6J and 3 - false > - 0 and 23 - 82 - 0; output "" . - 1; input Ky4aa[- (7)] end

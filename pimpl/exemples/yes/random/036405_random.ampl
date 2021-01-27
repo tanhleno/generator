@@ -1,0 +1,1 @@
+program MTB0 : Z : takes e4 : boolean; OFt : integer; fG, hJ, VQqa, G : integer returns boolean array pop - 5 < 7; do q(- 86 > 16, 0) end jNp : takes a : boolean; vQ, K14aa, nI, f : integer returns integer array input m[- 623 - 7] end main : chillax end

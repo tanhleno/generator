@@ -1,0 +1,1 @@
+program pS10a : _04 : takes l : integer returns integer P : boolean; Gi, up : boolean; chillax end main : output ""; input H; do Ow(- true and 7 >= - 9 - 18600, 1 <= 14); input boA; let j57aa[74100] = 80; output "" end

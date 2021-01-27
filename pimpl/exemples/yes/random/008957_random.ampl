@@ -1,0 +1,1 @@
+program z0 : i6 : takes i, L19, w : boolean; XV : boolean; eS, q900, ES, Z : integer returns nothing let l[- false] = array - false end B : takes G1 : boolean array returns integer array chillax end main : H, jtE : boolean array; when case not y(4) * 068 + true * not 9 or false or 83 < - y2_ / false and 97 : chillax end case(65) * false >= false - 5 : chillax end end

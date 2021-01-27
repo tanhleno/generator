@@ -1,0 +1,1 @@
+program t : nY : takes BA8 : boolean array returns boolean array do _((4) and 8) end sX : takes s, E : boolean; Px : boolean; x : boolean returns boolean array d6, v99 : boolean array; _J : integer array; output 7 = 7400 . "2m0" end E : takes a, IU1 : boolean returns integer array f0z, b9u, Q : boolean; SP : boolean; input l[89] end main : chillax end

@@ -1,0 +1,1 @@
+program x : ph : takes T : boolean returns nothing kpp : boolean; A : boolean; output "" . ""; when case 1 > 00 : while 055 : chillax end; input UX end case 329 = 05 : input AA8aa; pop end; let zY[7] = 2; do Et(9460, 3710) end main : v, j67a : boolean array; let q960a = array true or Q2 / true and 348 or(795) and 7; when case true - Z6Aa - 05 : chillax end end

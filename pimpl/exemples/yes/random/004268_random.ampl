@@ -1,0 +1,1 @@
+program Y5 : s1 : takes AX, i, l, t8y : boolean; P, u, l8 : boolean array returns nothing cci0a : boolean array; do F9(3 and 7 + 60 - 94) end main : t8 : integer; y : boolean array; while true and(17) < true / not 39700 and 62 : chillax end; do o8(not true rem false and 922 < - 500 and 05 + 94 - 902, 6 = 97400) end

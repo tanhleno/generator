@@ -1,0 +1,1 @@
+program bNn : main : let Q[- false + 1 * (8) and 33 or true] = false and not 6 and 8 /= not 2 - 85; when case - v(4) / false and 6 + (2) + 7 - 322 < - (92) or 6 - 55 : output "" . "}d\"" . "0" end otherwise : chillax end; let y[- false or 6] = array not 50 + 71700 - 82 end

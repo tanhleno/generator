@@ -1,0 +1,1 @@
+program C7 : xp0aa : takes C : boolean array returns boolean R : boolean; V, D : boolean; do H(- false >= 097 - 50, - 7 /= 03, 92300 = 3, 6) end main : while - false / 1 / not 49600 : chillax end; pop - m + 2; do U6(- false + 0 /= - 31300 - 44, 210 - 0, 0680 = 5, 0, 0); do Ir(- 2 - 0, 0 = 532, 3560); pop end

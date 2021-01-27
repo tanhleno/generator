@@ -1,0 +1,1 @@
+program b : main : o9v, U, Vy, I : integer array; let PYb0 = not 24 * Cgb0 and 50900 - 396 and 5 < true; when case true + false and 56 - 22 - 1 : chillax end case - (3) and 29 + 9 - 71900 /= - 88 - 4 : when case 71 : pop end otherwise : chillax end; do b(3); while 6 : chillax end; pop end otherwise : chillax end; output "" . "" . "34" . 6; do ZI(7 - 9 < 06) end

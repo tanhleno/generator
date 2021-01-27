@@ -1,0 +1,1 @@
+program T : E : takes A : boolean array returns nothing Y, Q : boolean array; zv : integer; do zAd0(- 305 and 60 = 8 - 88, 0); while - 5 - 2 > 1910 : when case 5 : chillax end end; when case 7 : while 5 : chillax end end; output "" end main : eM : integer; v, e6 : boolean array; E, umI : integer array; while not true rem 01 > true rem b and 5 : chillax end end

@@ -1,0 +1,1 @@
+program Cs : dx7 : takes O : boolean array; P : boolean returns nothing chillax end kZ : takes k : boolean returns boolean A, V, EQOa, V : boolean; chillax end main : x5, O : boolean; e, u1y : integer; chillax end

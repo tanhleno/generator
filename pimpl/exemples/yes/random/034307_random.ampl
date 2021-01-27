@@ -1,0 +1,1 @@
+program Yc : C08aa : takes X : boolean; H, Q1 : boolean; G80 : boolean array returns nothing JLN, C0P, K : boolean array; while(353) and 87 = 23 - 7900 : chillax end; pop 47 = 84 end Cv20 : takes _, M, z, _, F5sa, PEW, N : integer array returns nothing chillax end t : takes Z, D3 : boolean returns boolean chillax end main : input Y[- (5 = 083)] end

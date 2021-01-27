@@ -1,0 +1,1 @@
+program c : z : takes p2 : integer returns nothing N2, iWEa : boolean array; chillax end main : output "" . "\\}"; when case true <= (5940) and 48 : input WT end case - X6 + 2 : chillax end case 6 /= 15 : do lh(1) end otherwise : let yz3[1] = 7; pop end end

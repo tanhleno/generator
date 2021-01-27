@@ -1,0 +1,1 @@
+program F : R3 : takes G, m, H2 : boolean array returns nothing r, J8c, x, Eg9 : integer array; output - 1 > 3 end A0U : takes r : boolean returns nothing l1Z, r0 : integer; TJ7aa, B, y : integer; pop end main : while false rem R1(2) * true : chillax end end

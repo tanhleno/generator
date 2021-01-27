@@ -1,0 +1,1 @@
+program zGJ : j03a : takes C : boolean; I : boolean array; Y : integer array returns nothing Fl, VP30a : integer; KuP : boolean; chillax end main : U, t0saa, K : integer; F6C, d : integer array; g : integer array; input r[- false]; output false and 39400 - 2 - 2; let k = 36 - 4 > 3 end

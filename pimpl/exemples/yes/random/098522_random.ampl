@@ -1,0 +1,1 @@
+program r : main : while - not false * not not 9 + not B = - true and W and 8 - 3 and 12 or 7 : pop 6 = 5 end; when case - not false < - (87) - 618 - 73 : chillax end case not 4 >= 7 - 3 : while 5910 : chillax end; input F4 end end

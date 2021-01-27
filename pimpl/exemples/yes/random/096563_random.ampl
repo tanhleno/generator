@@ -1,0 +1,1 @@
+program hs5aa : main : when case - true + p(5) or true and 1 > - h and true : chillax end case - 54000 : chillax end case - 87 - 9 < 09 : pop end otherwise : pop 10500; pop 47; when case 7 : chillax end end end

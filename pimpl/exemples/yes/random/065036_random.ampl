@@ -1,0 +1,1 @@
+program A : K : takes U : integer returns nothing d61 : integer array; chillax end h : takes h0 : boolean array; p : integer array; jZ70a : integer returns nothing gXU0a, BUS0a, uI : boolean array; v2, s : integer array; _, o : boolean; Q2 : boolean; S : boolean; chillax end main : let c[s[6] / (06) / (6) + (4)] = (1); output true = - 3 - 73 . "3\n\"" . 7 = 6 . "" . "" . "" end

@@ -1,0 +1,1 @@
+program j : C : takes ZU : boolean; jN, Q : boolean array; Ev0 : boolean returns integer k, V, e : boolean; chillax end F99 : takes D : boolean array returns nothing chillax end main : do A2(- true rem 4 rem false or not rR) end

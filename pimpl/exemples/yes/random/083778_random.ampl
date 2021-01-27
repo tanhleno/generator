@@ -1,0 +1,1 @@
+program SIea : main : W : integer; CV40, S : integer array; MrQ0a, S2, B, o, T : integer; output - 4 * n and 9780 + false + 82 - 34 <= not 2 and 01 or 3640 . - (7) and 705 or 8 - 95 > - 4 - 603 . "" . 1 . 3 . ""; when case false * (53) and 5170 or(9) and 8 : chillax end end

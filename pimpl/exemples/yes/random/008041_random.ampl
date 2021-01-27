@@ -1,0 +1,1 @@
+program K8 : Zt : takes d2, p, G, U : integer returns integer array _, M8, R0, j, G2 : integer; chillax end erGaa : takes S, gf, a3N : integer; t : integer; fa : boolean array returns boolean chillax end main : Q64, n210a, U, TT4a : integer; D5 : integer; Oh : boolean; I3 : boolean array; chillax end

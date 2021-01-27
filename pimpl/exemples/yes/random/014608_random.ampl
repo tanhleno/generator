@@ -1,0 +1,1 @@
+program WU20 : y : takes z82, y8K, x7A : integer array; R : integer returns nothing I, u, I : boolean; chillax end main : q090a, k, y : boolean; fS : integer; while - false / 0 and false : when case - 6 - 5 = 56 : let eSDaa = 8; while 4 : chillax end; pop end case 5 = 12 : input z70a end case 7 : pop end otherwise : do at(525) end; do J56(8, 5) end end

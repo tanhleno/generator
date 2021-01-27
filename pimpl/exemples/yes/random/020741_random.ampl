@@ -1,0 +1,1 @@
+program A1 : In50 : takes d, z : boolean array; T : integer returns nothing c : integer; X, F : boolean array; H : integer; while H >= - 4 - 084 : do H(23) end; output 88 end main : xa, GU : boolean array; n : boolean array; while - 706 + (49) < 2 * not 5290 : chillax end end

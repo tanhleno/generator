@@ -1,0 +1,1 @@
+program w : main : X4 : boolean array; qJDa, Jw : boolean array; when case true rem not 6 + false - false and 6 /= - (00) rem(7) and 95 : chillax end case - (6) * false and 8 - true and 1 or 7080 : do M(99); while 08 : chillax end end end

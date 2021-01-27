@@ -1,0 +1,1 @@
+program C5Raa : t0 : takes p, A, A1, Q : integer; df8, y4 : integer array returns nothing chillax end main : xvq, u5o, t, j : boolean array; kp7aa, a98 : integer array; f, E, HF10, Hr3, Z85 : integer; chillax end

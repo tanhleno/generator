@@ -1,0 +1,1 @@
+program B1 : F8 : takes w, z : integer returns nothing input D; when case 9 - 678 = 85 : while 4 : chillax end end otherwise : chillax end end main : Gu8 : boolean array; input C6[(8) and false or not not 7 rem(807) or not 8 and 65] end

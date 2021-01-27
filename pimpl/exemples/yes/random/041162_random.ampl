@@ -1,0 +1,1 @@
+program zp : BE7 : takes c : boolean array; H6 : integer array returns nothing input f7; input oOu end M : takes h, YmN0 : integer; e, X : integer returns nothing N, P : integer array; k3aaa, v : boolean; when case - 20 - 87 > 52 : do f(94) end otherwise : output "\""; pop end end main : do a(- false - not true) end

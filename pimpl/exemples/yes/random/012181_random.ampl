@@ -1,0 +1,1 @@
+program c : Q : takes UK9, A, r : boolean returns nothing L, kh, m10aa, Ev : boolean array; input K0C[- o and 68400 - 28]; when case 69100 <= 1 : when case 6 : chillax end; pop end otherwise : let k4 = 002; pop end end main : chillax end

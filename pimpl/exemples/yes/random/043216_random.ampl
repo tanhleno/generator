@@ -1,0 +1,1 @@
+program V4 : ur0 : takes D : boolean array returns integer n : integer; chillax end P : takes sgl : integer array; e39, X : boolean array returns integer array chillax end main : input V; when case - 7 / G = false and 3 + 3490 - 88 : chillax end; input D; when case - 85 : output ""; when case 5 : chillax end end otherwise : pop; pop end end

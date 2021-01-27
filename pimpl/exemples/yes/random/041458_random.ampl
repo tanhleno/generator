@@ -1,0 +1,1 @@
+program w : K92a : takes UO : boolean array returns boolean array chillax end uj : takes bv, l52 : boolean returns boolean chillax end main : G, U5 : boolean; K3, V : boolean; Gm, C : boolean; chillax end

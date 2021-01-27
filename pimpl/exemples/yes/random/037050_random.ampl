@@ -1,0 +1,1 @@
+program ua6 : iQ9 : takes ZT : boolean; b : integer array returns nothing chillax end H2 : takes r : integer array returns boolean array input U[33 - 1070] end E : takes w8, K4 : boolean array returns nothing while 9880 = 8 : pop; pop end; when case 8 : pop end case 2 : chillax end end main : pop true - k + 4 end

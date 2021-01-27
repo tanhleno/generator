@@ -1,0 +1,1 @@
+program P : I : takes L : boolean; iN5 : boolean; k, Z9k : integer array returns integer array chillax end main : n8, T7, x8x, shY, a, x : boolean array; S8 : integer; adn : integer; let d4b[- o2laa] = x1[0]; when case true or not 57 and 905 : output "" end case not 2 and 9980 or 15 - 2 : chillax end otherwise : chillax end; do G((9), - 9380 - 1); pop end

@@ -1,0 +1,1 @@
+program q : main : x4, C9, N : integer; Wx : integer array; pop; when case - l7[094] - false and 0 or 3 - 56400 < - not 9 and 15900 : when case 2 = 72300 : chillax end case 05900 : pop end case 4 : chillax end otherwise : chillax end; output 094; input jt end otherwise : chillax end end

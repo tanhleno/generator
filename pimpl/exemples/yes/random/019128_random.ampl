@@ -1,0 +1,1 @@
+program k : G : takes D85, s : boolean array; v3I, c5x : boolean; A4, d, v : integer; b, d, o, pP20a : boolean returns nothing aB : integer; while - false and 7610 = - 6 : chillax end; input G190a end main : L, jA : integer; Qu, C2H : boolean array; b9v0, Q, H1qaa : integer; p : integer; yd6, F6Za : integer array; let AuJa = (1910) / (65) or true end

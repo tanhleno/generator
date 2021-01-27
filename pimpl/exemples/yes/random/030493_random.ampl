@@ -1,0 +1,1 @@
+program v8 : F : takes K6, YD10 : integer array returns nothing _, S02, l9N, e2 : integer; chillax end main : F3u, r : integer array; pop; while - not 6 - 522 : when case 6 = 2340 : when case 34 : chillax end; pop end otherwise : chillax end end end

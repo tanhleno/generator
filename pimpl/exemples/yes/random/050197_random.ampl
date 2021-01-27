@@ -1,0 +1,1 @@
+program l : G : takes wX : integer; V, W4, E : integer array returns nothing Rr3 : integer array; iW10a : integer; NW6, U : boolean array; jQu0a, sp : boolean; while - 07 : chillax end; output "\t" end wR : takes e : integer returns nothing N, C00, a : boolean; chillax end main : chillax end

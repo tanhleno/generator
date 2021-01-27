@@ -1,0 +1,1 @@
+program I0 : P : takes h : integer array returns nothing J : integer array; v : boolean array; while 4 and 8 > - 2 - 3 : output 0 . "" end end hb1 : takes F, u, l, O, ZB, Y9, Nl30 : integer returns boolean array do u(5 <= 559, 11 = 4) end main : output "" . "" . - 0370 - 9 . "" end

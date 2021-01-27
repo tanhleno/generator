@@ -1,0 +1,1 @@
+program I01 : w : takes D7, s710a, Nj80a : integer; UQ : boolean returns nothing output 823 - 81 . "h" . ""; output 4 end main : T, W : integer array; kS8a, xS : boolean; B, J5 : boolean array; chillax end

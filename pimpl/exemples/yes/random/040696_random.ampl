@@ -1,0 +1,1 @@
+program m0qaa : K : takes w3V0a : boolean array; KK : integer; qj00 : integer array returns integer array D8, J55, T0x : integer; A0v : boolean array; b : integer array; chillax end main : chillax end

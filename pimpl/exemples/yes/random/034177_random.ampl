@@ -1,0 +1,1 @@
+program y : V6Na : takes V : boolean; ld8a, j, j : integer returns integer array pop - 0 = 67 end Q3 : takes vTq0 : boolean; v : boolean returns integer output 0 end main : input u[(4 = 12) and false and l - false * (9)]; input b; input T[false] end

@@ -1,0 +1,1 @@
+program M5 : main : output not(438) /= - true and 9 or 739 . 7 and 14 . 0 - 0 < 23; let S10 = array Cl90(3) - not 1 and 4; do n(true < - 7 - 6, 07 >= 1, 293 = 55); output 2 = 5; while 43200 = 1 : pop end end

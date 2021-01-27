@@ -1,0 +1,1 @@
+program b : main : when case - U rem 54700 * not 7 : chillax end; input R310; when case - 1160 and 4 : let M6 = 782; when case 1 : chillax end end otherwise : chillax end; let v9h = array 5; output 1 . ""; output 8 end

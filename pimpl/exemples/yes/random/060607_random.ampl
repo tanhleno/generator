@@ -1,0 +1,1 @@
+program B3Xa : h620 : takes k : integer array returns nothing E, jrt : integer; V0 : boolean array; a1E, VO_aa, _00 : boolean array; Df8 : boolean; p6 : boolean; u0J : boolean; input fV1 end main : do X8Z(a0(3, 5) and true * false) end

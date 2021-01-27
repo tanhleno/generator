@@ -1,0 +1,1 @@
+program m : main : pTw, E610a, X, K, Y : integer; output "\t\n" . true + 20 . - 932 - 4920; when case false + (779) and 6 or 0 /= - not 83300 and 79 : chillax end; do g(- (81) - 88, - 4 - 310 >= 3, 05 = 3) end

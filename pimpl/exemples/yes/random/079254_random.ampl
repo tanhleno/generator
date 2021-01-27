@@ -1,0 +1,1 @@
+program kI7aa : main : sj : boolean; C : boolean; M : integer array; mNDa : boolean; h2 : boolean; Q5, X : boolean; when case Q6 * (4) - Zsw * true - false /= (639) or(5) or 1040 : pop 5 = 6; pop end otherwise : output "" . "" . "" end end

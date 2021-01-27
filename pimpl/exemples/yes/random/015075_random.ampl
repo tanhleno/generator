@@ -1,0 +1,1 @@
+program Zq : b : takes Q2I0, H, H : integer array returns integer yVd : boolean array; chillax end J : takes pN, PG, P, E, E : boolean returns nothing chillax end gLg : takes qx : boolean returns nothing pop end main : output ""; input N[- pERaa(743) * false] end

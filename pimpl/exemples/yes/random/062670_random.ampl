@@ -1,0 +1,1 @@
+program PJ : X30a : takes Elv : integer returns boolean while - false and 5 + 9740 - 32700 : chillax end end main : while - not false rem not true - (76) or D - 77700 : output ""; pop 7; do r(2); input K2; do Yb4(0); pop end end

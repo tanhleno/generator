@@ -1,0 +1,1 @@
+program pCs : o : takes e : boolean array; W, Z : integer returns nothing pop; while 2 <= 7 : while 9 : chillax end; while 06 : chillax end; pop end end main : x, t, w0v0 : boolean array; S, ZW : boolean array; chillax end

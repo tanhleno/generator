@@ -1,0 +1,1 @@
+program R : main : output "."; when case true rem(7) : chillax end case false and 36 - 1 - 43 <= - 90000 : chillax end case - 90 = 6 : input L; do Z(12) end case 71900 : chillax end otherwise : let h4e0a = array 53 end end

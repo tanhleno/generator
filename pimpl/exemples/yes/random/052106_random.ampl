@@ -1,0 +1,1 @@
+program f3 : L8 : takes kDh : integer; N : boolean returns boolean array chillax end R0 : takes d560a : boolean returns nothing R, hb, V6qaa, o1maa : integer array; z : integer array; chillax end main : chillax end

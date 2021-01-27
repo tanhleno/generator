@@ -1,0 +1,1 @@
+program q3C : gs : takes s, H, j7O0 : boolean array; E, L2M0a, _8, k, r2, s : boolean; o, T, Ge : integer returns nothing Q, W, B : boolean array; let ae9 = array 2 end s : takes Bs, rv5, g : integer returns nothing chillax end main : A, X, U9h0, G, ek : boolean; cB : integer; input C3M0 end

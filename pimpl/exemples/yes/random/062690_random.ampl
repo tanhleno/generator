@@ -1,0 +1,1 @@
+program y6 : UxR : takes w : integer returns integer array chillax end H : takes H, x, s, KJ : boolean array returns integer qr : integer array; UD, y, n6F : boolean; R, T : boolean; z : boolean; while 4 - 560 : chillax end; let vV = 14; let T6 = array 1; pop; when case 3 : chillax end end main : n, fdQ0a, r6, Z, U, y, L : integer; j1, o, r2 : boolean array; chillax end

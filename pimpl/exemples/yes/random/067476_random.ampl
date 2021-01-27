@@ -1,0 +1,1 @@
+program v6daa : main : do I(not 1 + false / not 35 or false or 50 - 857, true and 8 and 37 < false, - KA, 85900, 503 = 02, 3); when case - G(2) + true and 88 : chillax end otherwise : chillax end; do QE(not 7) end

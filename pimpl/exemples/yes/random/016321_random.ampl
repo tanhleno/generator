@@ -1,0 +1,1 @@
+program M : E : takes j, BpG, LJ : integer returns nothing l, s, c0 : boolean; pop 1 - 58300 end K : takes P, U, P : integer returns boolean chillax end D6maa : takes K, O, XO, _4, N : boolean array returns nothing chillax end main : f, B : boolean; do O3(_u(2, 25) or true) end

@@ -1,0 +1,1 @@
+program U7 : main : output 6 * 33 < not 733 + 3; do a9z(- true * (9610) and 7 + false and 08 > - 7370 and 2 - 1); let y[rE and 50000] = 5 - 331 = 90000; while - 0 - 13 : chillax end; input d; output 9 end

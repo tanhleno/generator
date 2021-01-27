@@ -1,0 +1,1 @@
+program z2A0a : x : takes Y1 : integer array; t26 : integer; UR, b : boolean array returns nothing Ov : boolean array; G5 : boolean array; output "s\"" end Ep40 : takes E, c, OO7, WJX0, k, j, ur : integer returns nothing output 0 = 2 . "" . 58; pop 55 end main : output true and not 4 and 7 or(69300) end

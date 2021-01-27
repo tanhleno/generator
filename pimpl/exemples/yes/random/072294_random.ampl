@@ -1,0 +1,1 @@
+program N : main : TaT0a, t, o : integer; j : integer; z, E : integer; v : boolean; output rYP(0) * false and 0 - true; do A(- (2830) + a6); output - 658; pop 1 = 9; while 8 : output "D"; pop end; do w(9, 2); do sA(87) end

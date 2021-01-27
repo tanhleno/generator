@@ -1,0 +1,1 @@
+program z : Q260 : takes I, V : boolean returns nothing J, H_ : integer; T53, e8 : boolean; output "6]" end main : HM : integer; do C(ad2aa(6130, 1) rem false - false rem 5 >= false rem not 8 and 4, - 7 or(995)) end

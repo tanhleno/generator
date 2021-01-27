@@ -1,0 +1,1 @@
+program v : e : takes M7N : boolean array; Os, z050a, J : integer; l : boolean; k : boolean array returns nothing chillax end vX : takes Ec4 : boolean array returns nothing let Lq[8] = array 58 - 4 end main : let E[not false / q5 rem r] = array not not l4 end

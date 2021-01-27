@@ -1,0 +1,1 @@
+program L : u2 : takes U : integer array returns nothing while(06) /= 5 : chillax end end K : takes r : integer array returns nothing chillax end main : h : boolean array; J : integer; T : integer; H : boolean array; chillax end

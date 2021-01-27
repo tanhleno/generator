@@ -1,0 +1,1 @@
+program f : Om : takes I5y0 : integer array; H, x, Ve : integer; PM9 : boolean array; H7 : integer array; E, j6, D : boolean array returns boolean array chillax end main : b, q, q : integer array; saA, m : boolean; a9Oaa : boolean; while j rem 026 : chillax end end

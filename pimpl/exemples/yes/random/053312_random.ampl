@@ -1,0 +1,1 @@
+program fCp : g : takes O9r : integer; E : integer returns nothing _Y : boolean; while - true /= 587 : input Oo[3] end end main : Zt, Z, R : boolean array; output - not 437 or false and 5 >= false + 9 . "f0" end

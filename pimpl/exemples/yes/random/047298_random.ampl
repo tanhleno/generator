@@ -1,0 +1,1 @@
+program I : D5 : takes lZIa : boolean returns integer output 20 - 3; pop 7 = 7860 end o06 : takes h79, Lq, WN, o : boolean array returns nothing P60, k : boolean array; zA : boolean array; e : boolean; S : boolean; when case 47 : chillax end case 4 = 14 : do Q(89); pop end otherwise : chillax end; pop 8040 end main : chillax end

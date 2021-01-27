@@ -1,0 +1,1 @@
+program H : main : J, u, nd : boolean; f : boolean array; S, H, I6, C, M : boolean; E, H3, W1, I : integer array; N840a, B : boolean; output "" . "" . "\n90a" . "=,"; output not 04 . 99 - 48 /= 69 . "" end

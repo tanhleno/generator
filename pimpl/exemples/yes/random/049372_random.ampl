@@ -1,0 +1,1 @@
+program Q300 : V : takes T : integer; c, oWA, Z, y23aa, x : boolean; W : integer; ke, n, Yha : integer array; E6, T : boolean array returns nothing chillax end Q : takes l, y : boolean array returns nothing H9, pV : integer array; chillax end main : chillax end

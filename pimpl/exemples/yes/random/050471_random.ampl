@@ -1,0 +1,1 @@
+program u620 : KE6 : takes U : integer; Y0, UJ : boolean array; k, u : boolean array returns integer array output ""; pop; while 5 : chillax end; while 9 : pop end end nM00a : takes U, _, d : integer; O4, s220, l, i, b : integer array returns nothing chillax end main : chillax end

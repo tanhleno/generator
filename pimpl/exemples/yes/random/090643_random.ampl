@@ -1,0 +1,1 @@
+program VHqa : main : let ma[- (6) / (0)] = - Z + true; when case 47 * true = - false : while 7 : let n4 = 64 end end case 35 and 9 : chillax end; pop 68 - 8 = 63; when case 1 > 23 : chillax end case 7 = 756 : chillax end; input sz end

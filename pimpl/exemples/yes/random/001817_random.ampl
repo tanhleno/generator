@@ -1,0 +1,1 @@
+program Z : iQ8 : takes H, q, Y, DU, A, b670a : integer array; E : boolean returns boolean input L5 end koi0 : takes X, F : boolean; c : integer array; jL_ : integer array returns integer array chillax end Z : takes Z : integer; Y : integer array; l, Z : integer array returns boolean array while 2 = 3750 : chillax end; while 08 : chillax end; input s end main : input lW end

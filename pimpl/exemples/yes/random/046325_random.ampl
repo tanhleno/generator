@@ -1,0 +1,1 @@
+program K : D : takes F : boolean returns boolean let v = array(3) - 0; while 341 - 51700 <= 7 : input F; pop; pop end; pop end k3q : takes Cv : integer array returns boolean array chillax end main : let D = - 3 rem false end

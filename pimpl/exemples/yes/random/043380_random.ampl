@@ -1,0 +1,1 @@
+program f : O : takes m : boolean array returns integer while(9) and 74 - 858 : when case 04800 : pop end end end g : takes E : boolean array returns nothing when case 3 : output "" end end main : output - B_v / not 871 and 4; output ""; output - 7 - 7 end

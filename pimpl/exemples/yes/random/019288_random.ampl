@@ -1,0 +1,1 @@
+program a : r : takes Q, Q00 : boolean array; l, K : boolean array returns nothing T : boolean; chillax end main : V8, nmo : integer array; while - true * false + fr_0[972] / true and 6 <= - not 42 / (0) or false + 7 - 5430 : chillax end; do fk8aa(- false and false <= e and 356 + 9) end

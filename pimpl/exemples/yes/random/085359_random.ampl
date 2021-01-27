@@ -1,0 +1,1 @@
+program wv : main : F7 : integer; while false and true < - (2) : while 5 - 1 : chillax end; when case 2 = 95 : while 2 : chillax end end case 9 : pop end otherwise : pop end end; output - 6 < - 0 - 545 . 0 end

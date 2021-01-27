@@ -1,0 +1,1 @@
+program P : main : cM7, a, cK : boolean; let B9W0 = array false or 25 and(8); while X[999] + w and 264 >= (25) - 0 - 1 : when case 88 : output "\""; pop end; pop end; when case s and 123 + 2 - 4 : output "2=" . "\"\""; do zQ(5); output "\\1" end; when case - 4 - 4 : chillax end case 18 = 4 : chillax end case 052 : chillax end case 4 : chillax end otherwise : input xizaa end end

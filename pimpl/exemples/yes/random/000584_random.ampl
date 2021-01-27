@@ -1,0 +1,1 @@
+program B2 : v : takes u9ma, O8F0, xT, b97aa, E, i2l, Q : boolean; W, r : integer returns nothing chillax end main : pop; let d0[- 5 / (97800) and 413] = array - not false / true - not 29 + 206; let U740 = - 295 - 597; pop end

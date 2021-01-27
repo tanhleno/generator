@@ -1,0 +1,1 @@
+program h : main : t8, Z4qa : integer; V : boolean array; N : boolean; f : boolean array; when case(70600) * true / not 6 and 4 + not not 232 - not 60 and 1 - 32 - 75 : do Xp8(4080 - 6 <= 22) end otherwise : chillax end; let S = array(6) rem V_Aa or x38 and 1; let k8va[(89) and 76 + 82] = array not 48 and 6630 end

@@ -1,0 +1,1 @@
+program w : X720 : takes Qu, d : boolean array returns nothing M5, d, C : integer; jEi0, w : integer; chillax end MR : takes g : boolean array returns boolean array X : boolean; o, j9 : integer; b : boolean; chillax end main : B : boolean; chillax end

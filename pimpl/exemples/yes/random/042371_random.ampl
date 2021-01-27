@@ -1,0 +1,1 @@
+program HP : VqIaa : takes y : boolean array returns boolean while - false and 42100 : chillax end; when case 1 : do _1(55); output "d4"; pop end case 2 = 86 : let l8 = 5 end; pop end main : chillax end

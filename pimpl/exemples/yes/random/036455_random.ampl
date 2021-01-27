@@ -1,0 +1,1 @@
+program v6 : L : takes lg60a : boolean; y0 : integer; L, z1 : boolean array; u : boolean returns boolean array lR30a : integer; E, HX : integer; T5, kV1, j : integer array; when case not 99300 : chillax end; do c(591 - 20 <= 2, 4 = 9) end main : chillax end

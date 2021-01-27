@@ -1,0 +1,1 @@
+program R : s : takes iU70a, x : integer returns integer array while - V > - 45 - 1 : chillax end; let d[96] = 858; when case 06 : chillax end; input wm; pop; when case 022 : chillax end end main : chillax end

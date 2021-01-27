@@ -1,0 +1,1 @@
+program F : main : mV6aa, rg40a, i, r, M : boolean; input r; do Km(- 7 / (5), - 14 and 95200 - 2000 - 87 < - 7 - 6, 6 - 2 > 3, 4 = 88, 7); when case - 10700 and 1 or 5 : input B; while 567 : chillax end; pop end otherwise : input yjY end; let m = 9; while 5420 : while 0 : chillax end end; output 033 . "" end

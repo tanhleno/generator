@@ -1,0 +1,1 @@
+program zozaa : s7 : takes O7 : boolean array; eU, Yc3, e2, bP, g, C, vR9 : boolean array; u, YB : integer; Zb2, a, A : integer array returns nothing o, jX : boolean; chillax end main : RH : integer; T, Y, u, J : boolean array; m : boolean; output "" . ""; output not 0180 and 3330 end

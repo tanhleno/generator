@@ -1,0 +1,1 @@
+program q4J : NC : takes v0, q : integer; l, S9, o : integer; o : boolean returns nothing s9, u, A, r23, Wj : integer array; B : integer array; input O[true] end s : takes dV, ZiMaa, ehS0, X, f : boolean returns nothing g9Ba : integer; input W end main : do w5d(false); output 3 < - 735 . "" . "" . 42 end

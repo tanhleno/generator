@@ -1,0 +1,1 @@
+program hC : f : takes H, KVwa : boolean; o7, d : integer returns integer array L, a : integer array; pop 35300; pop 25 = 7 end c : takes Y : integer array returns boolean chillax end C : takes U, C : boolean returns nothing while 6790 = 742 : chillax end end main : m4, T2 : boolean array; d4, N : integer; chillax end

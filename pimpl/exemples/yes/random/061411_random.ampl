@@ -1,0 +1,1 @@
+program N6 : C58 : takes A : integer array returns nothing output ""; pop; let g[9400] = 8; when case 7 : chillax end case 30 : chillax end end dsG0 : takes a9, A : boolean array returns nothing let o[- 1 - 1] = 49 end main : input o end

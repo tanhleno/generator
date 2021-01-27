@@ -1,0 +1,1 @@
+program XPu : Z : takes _, i07, Xz10 : boolean; ZT70a : boolean; Y, l : boolean array returns nothing do _((31) - 9 <= 7 - 70); output 50 . 1; output 3 . ";"; let E4 = array 0; input D3 end main : b, D : integer array; I : boolean; pop - false; input K end

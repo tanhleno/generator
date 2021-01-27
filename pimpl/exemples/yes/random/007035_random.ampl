@@ -1,0 +1,1 @@
+program x : N : takes V, G, d, oS3aa : integer array; V, p : integer; X : boolean; iZ, Sa6 : integer returns nothing wC2 : boolean; chillax end main : P, b, G, T, Z04, w : integer array; let S = array - y[883] - false and true; let da50a[(25900) or c or 0] = - not 35600 end

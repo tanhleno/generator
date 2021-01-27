@@ -1,0 +1,1 @@
+program N : yA : takes W2zaa, Z8, B : integer returns integer r16 : integer array; pop - 3 - 51 < 3 end ck : takes G : boolean array; LmTa, P : boolean array returns integer while 6 - 4 : pop; while 6 : chillax end end end main : Y : integer array; do t(- not 04200); when case _7[1] >= - true - 5 : do _1(8 = 5) end end

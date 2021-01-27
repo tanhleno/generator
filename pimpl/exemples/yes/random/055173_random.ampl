@@ -1,0 +1,1 @@
+program v : q : takes s : integer array; gkg, hl : integer array returns boolean array G, B, T, x, y : boolean array; chillax end main : v, l : integer array; while false * true or xW : do V(- 58 - 5, 219); pop 00 end; do t7(true * true and 262 + not 21700 < - Q); pop - 99300 - 6860 > 59 end

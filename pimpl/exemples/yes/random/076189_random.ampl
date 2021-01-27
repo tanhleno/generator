@@ -1,0 +1,1 @@
+program v : main : T, nF : integer; KZ, U : integer array; VrE, i9Haa, bt, L, g3 : integer; KGm0 : integer array; U : integer array; do a(- false + not(5) + not 3); let D = - true <= - 06000; pop; input z[39900]; pop 08 end

@@ -1,0 +1,1 @@
+program Q : c : takes Y : integer returns nothing chillax end C : takes zdD0, Z, t, K1waa, eREa : integer array; I : boolean returns nothing while - 2 : chillax end; do uz9aa(2 = 6) end main : chillax end

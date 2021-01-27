@@ -1,0 +1,1 @@
+program e : h : takes w : boolean; l6 : boolean array returns boolean array u3, y : boolean; Y, z : integer; W : boolean; ZWx : boolean; chillax end main : I : integer; while 4 rem vR50[4] * 9 and 3 + 84 rem false < - 8 : chillax end; let G[true rem not 9990 + (52) and 7] = array(853) end

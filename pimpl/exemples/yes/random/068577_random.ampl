@@ -1,0 +1,1 @@
+program x0ja : main : z8, V6r, Oku0, C1, W5, cge0a : integer array; c, s_0 : boolean; when case - true / not not 4 / 814 and 73 : chillax end case true : chillax end otherwise : pop; do t(15, 5) end; let T750a = - (21) and 05 - 948 /= 97 - 7; pop end

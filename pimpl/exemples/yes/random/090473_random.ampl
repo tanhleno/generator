@@ -1,0 +1,1 @@
+program ZM : main : let U = 2 rem(0) and 3 - (3); input W9; while - false >= 15 : while 2 : pop end; input W; input tv end; while - 984 < 49 : pop end; when case 6 : chillax end otherwise : pop end end

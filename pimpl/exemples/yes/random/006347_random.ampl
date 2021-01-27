@@ -1,0 +1,1 @@
+program Pt : GT : takes hl9, Yx50, m1u0, lz : integer; Fl0, vJ, hXma, y : integer array; Gs, L42a, U, o85, A, Bxia : boolean array returns integer array Q : integer array; do wu6(not 47 >= 0); pop 8 = 8 end main : chillax end

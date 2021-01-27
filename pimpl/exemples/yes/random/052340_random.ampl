@@ -1,0 +1,1 @@
+program C7 : aN : takes Z5 : integer; T59 : boolean returns nothing input C37[- not 15 and 1]; do nO(- 26 - 7); input Sf2[0]; while 852 : pop end end main : iv, bGca : boolean array; F, n : integer array; chillax end

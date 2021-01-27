@@ -1,0 +1,1 @@
+program DqH0 : dj : takes c, B0, K : boolean returns integer L260a, N7K0a : integer array; chillax end V : takes D : integer array returns nothing c, r, tk, E90 : boolean; when case - 4 - 3 : chillax end otherwise : while 53 : chillax end end; pop; when case 8 : chillax end case 76 : chillax end otherwise : chillax end end main : chillax end

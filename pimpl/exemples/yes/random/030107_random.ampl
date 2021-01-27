@@ -1,0 +1,1 @@
+program c : ao0 : takes w5, _ : integer array returns integer input N end main : when case 08 or false rem not 33 and 4080 - o6 > - true and not 63 or not 1530 or 9390 - 35 : chillax end otherwise : pop 100; do wo(6) end end

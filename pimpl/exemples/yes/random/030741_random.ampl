@@ -1,0 +1,1 @@
+program W : P : takes l, K7 : integer array returns nothing V4 : boolean; X0 : boolean array; output "\n" . "\\" . ""; do C(4 - 3, 9 = 75) end main : Xv1a : integer array; when case - false / iL[0] + not false rem not 09200 or(93) and 8 or 1 - 7 > - gem0a(17) or Q or 256 - 84 : chillax end case - A4[19] - (105) or 89 - 1 /= false and 529 : let l[2] = 610 end end

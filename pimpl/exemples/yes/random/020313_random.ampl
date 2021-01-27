@@ -1,0 +1,1 @@
+program dV : f86 : takes h, ZA : boolean array; Ji : integer; l : boolean array returns boolean array l, Df00 : integer; pop; while 1 - 5 : while 358 : chillax end end; while 4 : pop; pop end end main : f, D5, p7 : boolean; G : boolean array; chillax end

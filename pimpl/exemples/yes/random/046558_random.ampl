@@ -1,0 +1,1 @@
+program S7 : T : takes q : boolean returns integer array y, jfVaa, f96 : boolean array; o, ze, k : integer array; chillax end main : input J; output - not 5 and 1 - 5 - 06600; input J7; when case 2 : input l end case 1 = 9350 : chillax end end

@@ -1,0 +1,1 @@
+program Y : X : takes iO, g : integer; U : integer; I9 : integer array returns nothing c, I : boolean; pop end main : eKEa : boolean; do M((9 = 585) rem true /= - 2 / 14 - J5a and 75 or 35, - 0 /= - true - 7 - 30, - not 6 <= 76) end

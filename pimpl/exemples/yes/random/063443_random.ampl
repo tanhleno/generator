@@ -1,0 +1,1 @@
+program Z : R490a : takes A : integer returns integer V : boolean array; chillax end g : takes p6, v1ra, X : integer; V, N : integer array returns boolean array chillax end main : b3 : boolean array; _U, L, V2 : integer array; ju : integer array; C210a, uRp : boolean array; D200 : boolean; rOR, f : boolean; Il : boolean; B0l : boolean; chillax end

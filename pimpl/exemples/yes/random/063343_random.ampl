@@ -1,0 +1,1 @@
+program SS : Wg10 : takes h86a : integer returns integer Tf60, a, Q360 : boolean; pop end S : takes hb : integer array returns nothing chillax end main : x, v, k : boolean array; v : integer array; let UPlaa = - true rem true; do w(- (9), 46); when case false and 65000 = 1 - 7400 : when case 8 : pop end; input oi2; pop end case 49 : chillax end otherwise : let v79aa = 20 end end

@@ -1,0 +1,1 @@
+program LCb : B62 : takes I : boolean returns integer array do Z7Ta(false - 4 - 16 = - 7 - 3, 618 = 19); while 8 - 09 /= 9 : chillax end end main : P12 : boolean; K, I, mTa, Y, Wd : boolean array; chillax end

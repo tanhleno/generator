@@ -1,0 +1,1 @@
+program V8ra : main : W, w3 : integer array; when case 0 /= 7 and(230) and 8 - W and 2 : chillax end otherwise : chillax end; while - not 9 or true or 20 - 825 = Y and 0 or 0 - 76 : let w[53] = 43; output 13; do K8S(39) end end

@@ -1,0 +1,1 @@
+program RA : p : takes a2 : boolean array; f5 : boolean; rlf0a, s, M : boolean returns nothing m, KmO, L : integer; sZ40 : boolean array; X : integer array; while - true + 9 < 2 - 4 : input yb20[003]; while 4 : chillax end; let D = 02; pop end end main : q : integer array; while false - false rem not 019 and 5 : chillax end end

@@ -1,0 +1,1 @@
+program d : main : R8 : boolean array; X22, Hn, f1 : boolean array; do d3b(9 rem not not 94 / 152 and 99600 + 5 rem(17) - true and 3 /= - true * true + false + 7 - 361, - false / (236) and 910 + (57)) end

@@ -1,0 +1,1 @@
+program vY : M8 : takes T6A, I4l : boolean; F, f : boolean array returns nothing do O(- (3080) and 3 < - 5 - 4450); let W3P0a[0 - 76] = 2 = 01; let E = 4; input J320a; do IlE(8); input _U; pop end main : a3x0 : integer array; Y4, p : integer; chillax end

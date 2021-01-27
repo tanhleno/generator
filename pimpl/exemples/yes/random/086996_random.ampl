@@ -1,0 +1,1 @@
+program z : main : D : integer array; input B; pop - true /= - 4 - 31; input hh[- false and 46 or 907]; when case 11 - 8140 : do o(04) end case 8 = 686 : while 9 : chillax end end case 0 : pop end otherwise : chillax end; do w(52) end

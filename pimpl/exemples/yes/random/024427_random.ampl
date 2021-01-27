@@ -1,0 +1,1 @@
+program U2 : Fg : takes vY3aa, x : boolean returns nothing U : boolean; B, o : boolean; L7 : integer array; Ku, C : boolean; d : boolean; chillax end main : u : boolean array; B6 : boolean; C7T, S, u : integer array; i : integer array; L : integer array; output - 914 - (4650) end

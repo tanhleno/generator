@@ -1,0 +1,1 @@
+program z : F : takes P, M : boolean returns nothing H0 : integer; d1 : boolean; while - y and 5 : let z[4] = array 8 end end Z3 : takes M1, H : boolean returns integer h, o : integer; do LXS(- 6090 - 0, 4590, 92, 3); input r0 end main : w : boolean array; chillax end

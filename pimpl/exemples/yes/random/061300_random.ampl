@@ -1,0 +1,1 @@
+program O : i : takes b : integer array returns nothing let L3Xaa = array true and 070 - 9 - 97; when case - 0 - 90 : input j8xa end case 4 : pop end case 866 : pop end otherwise : chillax end end main : y : integer array; o, q8N, E : boolean array; chillax end

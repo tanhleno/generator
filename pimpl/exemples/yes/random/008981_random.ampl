@@ -1,0 +1,1 @@
+program M : U2 : takes Ay, _, m : boolean; w : boolean; k, ERG : integer returns nothing O00a, a, U, w : boolean array; input IU[o8]; while 0 : let R = 6; when case 54 : chillax end end; pop 357 end main : un00, Tl8a, o, P9T : integer; g3i, r, p : boolean array; F, z, K : integer array; chillax end

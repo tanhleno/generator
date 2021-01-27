@@ -1,0 +1,1 @@
+program t : B : takes z : boolean array returns boolean let G9va = array - (372) + 88; input m[88000]; output 54500 . 4 end main : G, R, o : boolean array; Rnh : boolean; O, u33 : boolean; K : boolean array; chillax end

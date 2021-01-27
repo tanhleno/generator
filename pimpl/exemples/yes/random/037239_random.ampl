@@ -1,0 +1,1 @@
+program h : F61 : takes _H : boolean; g900 : integer returns boolean while - (4) and 0 < - 7 - 3 : chillax end; do Uq(3, 5 = 274, 43300, 023); input N[9] end main : i, T8X0a, O9, Z1c : boolean array; a, R, gP2 : boolean; ws : boolean array; chillax end

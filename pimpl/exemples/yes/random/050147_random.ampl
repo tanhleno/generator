@@ -1,0 +1,1 @@
+program L : Z : takes a : integer; xkC, N, f4K : integer array returns boolean chillax end main : while - s1 = - (9) : pop end; do K6(- D(6) * true and 5 <= - 0 and 94, - not 5, - 4, 753, 4, 465) end

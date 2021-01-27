@@ -1,0 +1,1 @@
+program a : Z : takes jh8, w1 : integer returns nothing chillax end o3 : takes n, e4d : integer; _ : boolean returns nothing chillax end main : K : integer array; W : boolean array; while 1 or 6 - o and 20 <= - 6 - (898) and 84 : chillax end; let u[9 and false and 874] = not 79 and 03 or 8 end

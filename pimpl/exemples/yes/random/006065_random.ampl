@@ -1,0 +1,1 @@
+program P : d : takes RXea, a9sa, qP, UO : boolean returns integer while 0 and 87 : chillax end; pop; pop 6; do k(07600, 47) end Z : takes e2, D, t, SP, m, uAl : integer array returns nothing while 725 : chillax end end main : chillax end

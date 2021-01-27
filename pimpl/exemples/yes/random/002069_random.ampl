@@ -1,0 +1,1 @@
+program Y : O : takes H0, IJ, B, e, uX70a, D8M : integer returns nothing G74 : boolean; Q02, olM0a, d2 : boolean; chillax end main : while y and false * not 903 and 3610 > - false * false : chillax end end

@@ -1,0 +1,1 @@
+program b24 : d : takes Y4 : boolean array returns nothing I7haa : integer array; X, p, c3, P : integer array; chillax end main : v, RPx, m_40a : boolean array; H, D, o, c12aa : boolean array; WZ : integer array; chillax end

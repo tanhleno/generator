@@ -1,0 +1,1 @@
+program l : d8b0 : takes A71, md : integer array; k4, L, wo : integer array returns nothing when case - 56 and 34 > - 2 : chillax end case 09 : chillax end case 14 = 2 : pop; pop end; while - 3 : chillax end end main : chillax end

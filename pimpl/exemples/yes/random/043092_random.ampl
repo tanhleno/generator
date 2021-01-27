@@ -1,0 +1,1 @@
+program m6 : Nf90 : takes B : boolean array returns integer c, XU, X26a : integer; t : integer; when case - false : let x[70] = array 2 end case 41800 - 6 : chillax end otherwise : chillax end; let W2 = 0650 end k300a : takes N3V0, g5m0, d : integer array returns boolean array chillax end main : chillax end

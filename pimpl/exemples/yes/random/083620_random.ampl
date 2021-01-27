@@ -1,0 +1,1 @@
+program X7j0 : main : p : integer; tR, W : boolean array; R6, yX : integer; output false * 6 and 8 - 326 - 134 - 94300; while - not 2 - eS and 0 = 90 - 30 - 3 : let PF[25] = 050 end; input J; input V[7]; output "" end

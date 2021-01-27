@@ -1,0 +1,1 @@
+program y : g : takes c : boolean array returns boolean array output 2 < 5 . 9 = 94 . "\n\n0"; let k[0 - 0] = array 0 - 8 end main : pop; input l6[(4)]; when case not 81 and 74 or 631 : input ji0[5]; do f(1); input B; pop end; while 3 >= 9 : chillax end; output "<7" end

@@ -1,0 +1,1 @@
+program K : main : when case - 4 : chillax end case(8) and N : chillax end case not 970 >= 26 : chillax end case 960 /= 9 : output "\n" end otherwise : pop 9; let HV[71] = 823; do A170(403); input YW0aa end end

@@ -1,0 +1,1 @@
+program J0 : zX : takes kZ : integer array returns boolean chillax end w : takes z5 : integer array returns nothing when case - 2 - 5160 >= 4 : chillax end end z : takes GN, a : boolean array returns nothing chillax end H : takes Q5 : integer returns nothing w : boolean; XTs0a : boolean; S : boolean; pop; input tuO end main : K : integer array; while z(99) : chillax end end

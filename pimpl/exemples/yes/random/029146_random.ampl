@@ -1,0 +1,1 @@
+program Q : i : takes RO, iI : integer array; c : integer returns nothing chillax end main : f : integer; o : integer; V4La, N, Y3Ua : integer; r, M0v, uhRaa : integer; PP0, p : integer; output - not false - not 2 or 2 . "" . - 8 . 28 = 46 end

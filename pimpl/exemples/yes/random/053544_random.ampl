@@ -1,0 +1,1 @@
+program B3Qaa : e9 : takes H : integer array; LO, o, i, c, H0 : boolean array returns nothing Bh : integer array; fT20 : integer array; chillax end main : when case - false + r = (3) + not 1 and 1 : chillax end end

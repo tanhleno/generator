@@ -1,0 +1,1 @@
+program U : y : takes R : boolean; k35aa : integer array returns integer W8Caa : boolean; let R5A = 7 < 36; do lC(6); output "I"; output "5[!" end Z : takes H, LXEa : integer; m54 : integer; w : integer returns nothing chillax end main : chillax end

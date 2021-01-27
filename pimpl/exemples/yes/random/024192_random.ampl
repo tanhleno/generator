@@ -1,0 +1,1 @@
+program T : GG7a : takes d, _ : boolean returns nothing L4, h, Y25, i6W0a : boolean array; output - 8 - 4 >= 8 end main : while - false * fU * not 7 and 2760 + true or not 8 and 68800 or 1 >= - 803 or not 3 : chillax end end

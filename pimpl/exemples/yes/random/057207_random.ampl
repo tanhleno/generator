@@ -1,0 +1,1 @@
+program R : xs : takes _55a : integer array; S54aa : integer array returns nothing chillax end s9 : takes m : boolean returns integer do u(- 76 - 25600, 439); pop; while 12 : chillax end end main : m7 : boolean; w, W : integer; AM9a : integer; let Ayf = array not not not 4 and true * false or V * true and 10 - 49200 - 0 - 0 end

@@ -1,0 +1,1 @@
+program Yf : F : takes E, G : integer; h, y : boolean; j1K, tg, c, w50 : integer array returns boolean array do Gr(- false and 7) end k : takes f, R7 : boolean returns nothing chillax end main : chillax end

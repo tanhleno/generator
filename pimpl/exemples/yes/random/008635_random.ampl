@@ -1,0 +1,1 @@
+program gQ : u2 : takes L3f, K, Wb : boolean; O19, s5, j02 : integer array; s : boolean array returns integer while - false and 43 - 548 : input RR8a; when case 4 : chillax end end end main : i : integer; e, c : boolean; M, U6faa, m8, B, b6G : boolean; chillax end

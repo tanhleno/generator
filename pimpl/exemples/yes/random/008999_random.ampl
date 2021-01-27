@@ -1,0 +1,1 @@
+program N : e : takes cAR, CC, X : boolean; r : boolean; M : boolean returns integer array chillax end main : c1F0a, F81 : integer array; p, L, M : boolean array; let h[- true / R5J0 - false rem iJ and 7] = array true and m29(589) and true or false; while - (7) * 7 and 09 - true : chillax end end

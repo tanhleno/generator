@@ -1,0 +1,1 @@
+program Q : n : takes EBZ, m08a, T, j, B : boolean array returns integer array qvU, q, j2a : integer; do B((5) and 2, 986 - 4 = 0, 417 = 4); while 1 - 7 >= 16 : chillax end end h : takes VQ : boolean returns boolean ug, B2, I, v : integer array; chillax end main : QM, Q8, I : boolean; hVs : boolean array; AVx0 : integer array; chillax end

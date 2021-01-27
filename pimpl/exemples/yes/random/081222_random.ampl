@@ -1,0 +1,1 @@
+program I : main : e3 : boolean array; C, YVna : boolean; input j[U8[2]]; output - true; when case - 0 /= - 938 : do zk(9180) end otherwise : chillax end; when case 3 - 50900 = 589 : let L = 2 end case 42 : chillax end case 8 : chillax end case 5 : chillax end otherwise : output ""; pop end end

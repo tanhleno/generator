@@ -1,0 +1,1 @@
+program t : E : takes z, t, Lv : boolean array returns boolean A : boolean array; Y6 : boolean; F6 : boolean array; X, W : boolean; m : boolean; chillax end main : when case - false + true : output 7 = 24700; do c(3 = 90) end otherwise : do T4N(537) end end

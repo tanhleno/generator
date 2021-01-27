@@ -1,0 +1,1 @@
+program m9e : MR9aa : takes S, m, auUa, rI : integer; X, _ : integer array returns nothing input G end j : takes l3a : integer array returns boolean while 1 - 43 >= 4 : chillax end end main : Y, U, jp, Z1 : integer; pop - u2laa[08200] and not 303 = false and 0 + 81200 end

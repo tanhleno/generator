@@ -1,0 +1,1 @@
+program Sc : t3 : takes oj, M : boolean array; N, S, AP, d3e, l : integer array returns nothing p : integer array; p, Uu90a : boolean; VRg : boolean; output "C" end main : H : integer array; I : boolean array; output "\t" . "" . "" end

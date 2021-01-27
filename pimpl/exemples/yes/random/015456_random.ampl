@@ -1,0 +1,1 @@
+program nh : WH60 : takes j, R9, C9 : integer array returns nothing R : boolean array; Y, I : boolean; chillax end main : input zr[- not true]; let L = - L; pop; when case 7570 >= 70 : let Pe = 98300 end end

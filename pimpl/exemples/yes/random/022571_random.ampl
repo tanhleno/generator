@@ -1,0 +1,1 @@
+program X : GZ : takes w, Q45 : boolean array returns nothing p : integer array; do cp8aa(3 and 7 >= 6, 2 >= 1); let J3S = 8 = 4 end main : E2 : boolean; P : integer array; do Q0a(- 1); pop; output "|;" end

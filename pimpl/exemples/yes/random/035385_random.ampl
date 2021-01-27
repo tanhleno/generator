@@ -1,0 +1,1 @@
+program I : Y : takes Aa : boolean; u : boolean; t, F, Lv : integer returns boolean C : integer; G5y0, pD, R : integer array; chillax end V : takes _Ob : integer; M : integer; K7H : boolean array; G : integer returns integer array let m = array - 25 end RI : takes R, C : integer returns nothing q7T, I1 : boolean array; chillax end main : q, h : boolean; chillax end

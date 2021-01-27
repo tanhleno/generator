@@ -1,0 +1,1 @@
+program AIua : e5 : takes L : integer returns nothing pop end main : Q, OHBa, Ga, FG60a, p, ld : integer array; A, L, yl7aa, IV : integer; e : boolean; K, z : integer; when case false * (0) : chillax end otherwise : chillax end; do L(- false < false and 2440 or 45 - 1); pop 388 - 7 end

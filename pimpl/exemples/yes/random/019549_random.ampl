@@ -1,0 +1,1 @@
+program l : a7 : takes Tv, u5y : boolean array; U1, XF3 : integer array returns integer pop; output 2 . "" . ")" . ""; when case 3 : chillax end case 3 : pop end end wr : takes w, m : boolean array returns nothing ZW, y25 : integer; chillax end I1 : takes Px, u, D, G, b : integer returns nothing chillax end main : chillax end

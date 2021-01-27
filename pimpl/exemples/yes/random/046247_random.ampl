@@ -1,0 +1,1 @@
+program A5 : n52 : takes S : boolean returns boolean y : integer; W, d, RO0a : boolean array; _Zyaa : integer array; chillax end main : EGb0, D, en40, w, u : integer; output - true rem true and 88 end

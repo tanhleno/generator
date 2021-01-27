@@ -1,0 +1,1 @@
+program NN : N : takes U : boolean array returns integer input X1 end O : takes Lp : boolean array returns boolean input mp end HV : takes l3F : boolean array; F : boolean returns nothing ah1a : integer; X5, X : boolean; E : boolean; chillax end main : s, q : integer; when case - false and 4 > q[6] and v and 33200 - (706) : chillax end end

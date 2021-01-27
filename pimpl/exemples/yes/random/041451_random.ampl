@@ -1,0 +1,1 @@
+program C : x : takes U : boolean array returns boolean array chillax end y : takes N, W : boolean; mB3 : integer array returns boolean array pop; let JW5 = array 87; do m(1730); while 046 : chillax end; pop end YlP0 : takes O, h3, YEqa : integer returns boolean array pop; output "A"; let g = 0; when case 45 : chillax end end main : pop end

@@ -1,0 +1,1 @@
+program h : Fi7aa : takes S : boolean returns boolean chillax end r : takes U, ps, T6 : integer array returns nothing while - 24 - 276 : output "]!!a"; when case 931 : chillax end end end main : input O; do gq(- 5 and false + true - 058 - 21 <= - (7) and 2 or 13 - 8, - true and 117 = 47 - 0, 9860); pop; output "" end

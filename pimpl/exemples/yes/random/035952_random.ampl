@@ -1,0 +1,1 @@
+program t : t : takes S : boolean; F9 : boolean array returns integer f, p5 : integer array; chillax end main : while(9 = 82) : do h(- 06 >= 8, 7230 = 6630) end; let DY = array true; let sG0aa[- true and 59 or 7 - 027] = array - not 3 and 0 end

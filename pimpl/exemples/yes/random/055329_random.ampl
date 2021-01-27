@@ -1,0 +1,1 @@
+program R : w : takes j : integer array; Et, b6Xaa : integer returns boolean W : integer; p6, A, Di60a : boolean array; dD : boolean array; when case - not 075 and 1 or 8740 - 2 : chillax end otherwise : chillax end end main : xt, u0 : boolean array; S8, q, dd, k0 : boolean array; R, SD, H6g0, AGz, d81 : integer; let G8B0 = array - (04400) - I9(033) * true and 9 end

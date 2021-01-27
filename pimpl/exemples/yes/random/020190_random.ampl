@@ -1,0 +1,1 @@
+program cz : F : takes T, e : boolean array; LQOa : boolean returns nothing g, Ka4 : boolean array; chillax end Inxaa : takes Q, q : integer array; nMv, H3 : integer returns integer output 826 = 91 . 2; do J8(65 = 4); input Uhs0[0] end main : chillax end

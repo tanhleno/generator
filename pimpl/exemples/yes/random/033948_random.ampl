@@ -1,0 +1,1 @@
+program I3 : X : takes I : boolean; hb8, M, R : boolean returns nothing D, m, ip5, y : integer array; when case - x2Paa and 2 + 7 : chillax end otherwise : do R(554) end; let Jn[1] = 0 end main : b : integer; chillax end

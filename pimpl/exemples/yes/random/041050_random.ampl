@@ -1,0 +1,1 @@
+program H45aa : L : takes T5 : boolean array; n : integer array returns integer chillax end c : takes L, t : boolean array returns boolean output 17 . "=d!" end main : do hf(not 59 and false, - 63 rem false and 4 or false and 5 or 2, F, 362 - 2, 838 = 84) end

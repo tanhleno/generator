@@ -1,0 +1,1 @@
+program c8 : u : takes O, b0 : integer array returns integer array FR6 : boolean; when case - false and 8 or 414 - 6 <= 0 - 40300 : chillax end case 1 - 90 : chillax end case 8570 = 175 : chillax end case 6 : chillax end; let dl6 = 583; do F(34 = 87, 33); do XD(1); while 928 : chillax end end main : mO60 : boolean; Vr4a, DZI0a : integer array; chillax end

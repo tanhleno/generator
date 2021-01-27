@@ -1,0 +1,1 @@
+program y4a : l7 : takes r : integer array returns integer AtM, N : boolean; chillax end V : takes GE, i : boolean array; b, S : boolean returns nothing U : integer; input WOW[- 7 - 3] end main : K : integer; i8, c, Wb : integer; chillax end

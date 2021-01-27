@@ -1,0 +1,1 @@
+program y : P : takes N, a3D0 : integer; qm : boolean; G, D : integer array; d0, g : integer returns integer array e : integer; when case - H > 2 - 7 : input l0[041] end case 8 < 1 : chillax end otherwise : when case 7 : chillax end end; pop; do z(4); while 6 : chillax end end main : z2, Z, P, gcy0a, y : boolean array; chillax end

@@ -1,0 +1,1 @@
+program q : I : takes Q2, mC : boolean array returns boolean array let C4[- false and 977 + 1] = array(3) - 06 end A4 : takes b : integer array returns boolean let c = 78 end D56a : takes l5 : integer; gD0, Nw : boolean array returns nothing when case 00 = 50 : while 13 : chillax end; pop end end main : chillax end

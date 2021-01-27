@@ -1,0 +1,1 @@
+program Ks0 : main : YyE, w : boolean; while - false rem(1) and true and 12 = not r rem not 6110 : chillax end; pop; while true or 34 : while 38 : pop end; while 23 : chillax end; while 6 : chillax end; pop end end

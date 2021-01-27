@@ -1,0 +1,1 @@
+program V : Owi0a : takes wvL0, D, q, D1, zO6 : integer; A : integer; T150 : integer array returns integer K0 : integer array; _L0 : boolean array; input JCE end main : while(45 = 22) >= - S25(34) / (40) : chillax end end

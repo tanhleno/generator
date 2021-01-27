@@ -1,0 +1,1 @@
+program RP : t : takes l : boolean array returns nothing R : integer array; q, p910, u : boolean; hmAa, tUR0a : integer; chillax end main : b : boolean array; F0 : integer array; output - false >= not 9 and 8 end

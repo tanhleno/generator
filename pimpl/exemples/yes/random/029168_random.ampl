@@ -1,0 +1,1 @@
+program W : Dq : takes G, t67 : integer array; U : integer returns nothing w, i43aa : boolean; x : integer; A, VkV : integer array; y, zo : boolean; chillax end main : while false / not false / 4 and 3 - false = 2230 - not 61 and 6460 + 1 : output "-O" . 807 . 731 end; let xY[true rem true and 5 - (3760) and 1 or 87] = array - 59; output - 40400 <= 6 . "" end

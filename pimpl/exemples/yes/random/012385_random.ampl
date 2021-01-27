@@ -1,0 +1,1 @@
+program F4 : B : takes J13aa, z, L : boolean returns nothing L5d : integer array; chillax end main : b : integer; y : integer array; while true + not not 7 / true + not 643 /= 8 : output "" . "" . "" . "4:"; let X[0] = 61600; output 512 . "SG!a"; pop end; do S(not false < - k - 15, DXP); let n = array - gb7 - 0910 - 7910 end

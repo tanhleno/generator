@@ -1,0 +1,1 @@
+program M : main : when case not 7 - not false > - false * not 439 + true - 01300 : output "\\La" . "1D" . "" . "7^\"a" end otherwise : chillax end; when case 624 and 5580 >= - true + 33 - 5850 : chillax end otherwise : while 5 : pop end; while 7 : chillax end end; while 4 + 8 - 3 : chillax end end

@@ -1,0 +1,1 @@
+program D : main : Z : integer; when case not L <= not true : chillax end case - true rem not 1 and 03 or 4 and 6 or 027 : while 09 = 21 : do I(928); pop end; output "&" . ""; let x = 3 end case - true and 3450 - 9 - 14 >= - 45 : while 3 : chillax end end; output "\"" . - 596 . "" . 54; do F(false + 1050 - 4530 <= - 2) end

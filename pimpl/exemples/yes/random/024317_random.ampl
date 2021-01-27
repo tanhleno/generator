@@ -1,0 +1,1 @@
+program F : g7q : takes f, Bz : boolean returns nothing T, p170a : integer; chillax end I : takes G5, XE, Z, fm, v, yZg0a, O : integer; s2i, S : integer returns nothing uxGa, IN, VC : boolean array; G, U, t : boolean; rKK : boolean; pop end main : e7, D4 : boolean array; J : boolean array; input y[(70) / true]; when case v * not 4440 = true and 1 : chillax end end

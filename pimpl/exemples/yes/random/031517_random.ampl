@@ -1,0 +1,1 @@
+program A : RWia : takes t4, w : integer returns boolean M, T9, B : boolean array; chillax end D : takes m : boolean returns nothing g : integer; u : boolean; while - 8 >= 0 : do w(0); let bUFaa = 27; pop end end oFX : takes tg : boolean returns boolean x : integer array; output "" . 3760 . "" end main : H, x7 : boolean; vE3, S, L, sb, R : integer; n : integer array; chillax end

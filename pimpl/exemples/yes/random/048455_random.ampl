@@ -1,0 +1,1 @@
+program bp : _ : takes nI : boolean returns nothing W6 : boolean array; chillax end B : takes P : integer array returns nothing K2, I, pUuaa : boolean array; M : boolean; j, sdd0a : boolean; input ku end main : Lk8 : boolean array; let I0[- false] = true and 2 /= - false and 4; when case true / not 3 = (1890) - 713 : chillax end otherwise : chillax end end

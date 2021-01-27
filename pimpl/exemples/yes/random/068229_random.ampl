@@ -1,0 +1,1 @@
+program _ : main : h2, a, T6W, b, VN4, n, i : integer array; S : boolean; input d[not true]; do S(false < true and 108 - 80, not 088 and 65 > - 62 - 72600, - 58 - 04 < 393); do a2(- (87) or 0 - 161, 73 - 54200, 6 = 52, 98); pop; do d(144); let Q[275] = array 59; do j(0); output "D"; pop end

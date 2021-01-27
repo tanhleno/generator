@@ -1,0 +1,1 @@
+program d820a : p : takes Ol, O : integer array returns nothing chillax end q : takes r, l, K : integer array returns nothing do G(15 - 4 < 38) end main : O : boolean array; do _(- D7[86], (933) / true /= - false and 804) end

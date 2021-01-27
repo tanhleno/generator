@@ -1,0 +1,1 @@
+program v : SN7a : takes OR6aa : integer array returns nothing G : integer; chillax end F : takes S : integer array returns nothing C4j : integer array; L : boolean; let t = 7 = 994; output ";20a" end G : takes w, O : integer returns integer array chillax end main : o : integer; wyU0a, W : boolean; input OP[false rem(8)] end

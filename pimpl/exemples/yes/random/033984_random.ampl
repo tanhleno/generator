@@ -1,0 +1,1 @@
+program z8 : e : takes u : boolean; H, p, j : integer; L, L, p : boolean array; PB : integer returns boolean chillax end main : output "-" . "," . - 3 - 2980 < 4 . "9(" . 65900 . "_/!" . "\\\"!"; let k = - F end

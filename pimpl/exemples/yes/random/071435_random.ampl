@@ -1,0 +1,1 @@
+program V : main : k, m, y22 : boolean array; Kj3, e, q : boolean array; while not 9 or N(4) * true - 2 + 5 - 85900 : while 6 - 85 : chillax end end; do B(- false and not 2 and 159 - false - 81 - 6 >= - 37, 2 and 5) end

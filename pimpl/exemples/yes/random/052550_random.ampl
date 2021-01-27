@@ -1,0 +1,1 @@
+program o66a : sW1 : takes a : integer; e : integer; q : integer; J, R, C, xH, k : boolean array; l, B, f : boolean returns nothing chillax end main : do _(- not true, 352 / 5 - false and 9 or 8, - z5u and 6130 - 1, - 5) end

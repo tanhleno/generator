@@ -1,0 +1,1 @@
+program C : main : Wxoaa, D, sk, W : boolean array; VR : integer; c, Ipeaa, M : integer array; Y : boolean; let r[not true * false / 8 and 3 - 3 + false] = array - (77800 = 81) rem not false + (3) or false or 9 end

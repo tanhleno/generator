@@ -1,0 +1,1 @@
+program S : Zu7a : takes S, p9, Y1C, n, F : integer array returns integer array N1Q0, f, r : boolean array; P0, n : integer array; while - 15 or 6 : pop; pop; do V(675); pop end; input ZA4aa end main : D, q3A0a, w0d : integer; P2S, G, a : integer; hh, w, _, Htz : boolean; input f4h0a end

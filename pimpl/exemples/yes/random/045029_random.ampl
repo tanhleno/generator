@@ -1,0 +1,1 @@
+program I : S : takes g : boolean array returns nothing let O = 33 - 765 end e : takes y6, J, p, YKqa : boolean array returns nothing do k(217 - 203); when case 5 = 06 : pop; pop end otherwise : pop end; output 45 . "6" end main : X7, L, v, o, w, H47, Sybaa : boolean array; S0 : boolean; chillax end

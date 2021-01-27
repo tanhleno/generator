@@ -1,0 +1,1 @@
+program Q3 : pKE : takes Y, tN : integer returns nothing chillax end X : takes G : integer; Qj : boolean; B, y, OVk, s, zo : boolean; AR : integer; K, b : integer array returns boolean output 7 end main : let U8[- o(9, 93) * false - false and false and 3] = - (5) * true and 4 - (2) and 7810 + 5 - 333; output _ and 0280 + 8 - 574 end

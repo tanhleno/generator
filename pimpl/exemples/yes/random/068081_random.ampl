@@ -1,0 +1,1 @@
+program Q1f0 : main : a, ALK, r45a, y, B, x6, m : boolean array; when case(2 = 6) * not(5370) / b and 22 - true / t and 0 + (46) and 09 : chillax end case - not(13) >= - false or 7 - 9360 : chillax end case(60) - 6 >= 3 - 0 : pop; input A3Fa; output "\\`\"" end otherwise : chillax end end

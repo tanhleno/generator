@@ -1,0 +1,1 @@
+program I : W : takes c7 : integer; tL0, y, E : boolean; f : boolean array; gA, C, gt : boolean returns integer array j : integer; x, cf, u, q : integer; chillax end main : c : boolean; do j(- true and q9B and not 80); pop; input T6t end

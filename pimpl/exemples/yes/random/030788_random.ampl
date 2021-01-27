@@ -1,0 +1,1 @@
+program Bp1 : l4 : takes z, Y : integer array returns nothing LkA : boolean array; q, n1ba, a8q0a : integer array; chillax end c1 : takes S1, A5, D : integer array; G, M450, Yo7aa : integer array; J88a : integer; ps, t : integer; bD : integer array; K9 : boolean returns boolean chillax end main : let f[false] = array 820 and(912) / (57) and 1 end

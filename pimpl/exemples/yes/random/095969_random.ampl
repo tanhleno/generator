@@ -1,0 +1,1 @@
+program Y : main : when case - w(27, 4510) / true - _3Qaa < - (12) + G and 2 : chillax end case - true and 8 <= (7) : chillax end case(20) : chillax end case - 5 - 7 > 7650 : chillax end case 236 : input U; pop end case 39 : chillax end case 528 : chillax end; pop; output - 20000 - 6350 . ""; pop; pop 8; while 042 : pop end end

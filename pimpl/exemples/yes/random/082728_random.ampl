@@ -1,0 +1,1 @@
+program UmU : main : Gi : boolean array; when case false rem false + 3 / not 9 and 65 or 67 = r[4590] rem 62 or 0 + 680 : do T(6 - 39); output 77 . 13 . "E=\"a" end case not 356 and(9) - not 2 or 3 - 18 : chillax end end

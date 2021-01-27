@@ -1,0 +1,1 @@
+program z12 : D : takes f, JR0a, T : integer array; z3, sP6 : integer returns integer h : boolean array; pop; output 4 . "(" . 166 end mH : takes _5W : boolean returns boolean array input N[- 89] end main : chillax end

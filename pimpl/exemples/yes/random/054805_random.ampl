@@ -1,0 +1,1 @@
+program _ : t : takes l180 : integer array; E, J : boolean returns integer array chillax end main : F, k, t3, _H : integer; W24a : boolean array; when case - true - dN30a(1) rem not 2 and 2 + false and 80 /= - (56) : chillax end; output not 466 + 8 - 0 /= - 63; do v7k(not 5 or 4390 - 212, - 2 - 4 < 7, 2, 8) end

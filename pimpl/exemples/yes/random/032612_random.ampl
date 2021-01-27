@@ -1,0 +1,1 @@
+program Q : L9 : takes j, As1 : integer returns nothing S62, N : boolean; input G end main : e : boolean; A : integer; output true rem 54300 and 279 or true and 347 or 5 < - H and 63900 . "" . "" . 8; output - true - 8 end

@@ -1,0 +1,1 @@
+program KV : main : let A[- (7) * 66 / not 00 and 4] = array(5 = 89); let DY30 = array - (6) + 3 and 7 + 40; pop; while - 44 - 6 : when case 7 : chillax end; let LF = 11 end; do Y(58 = 1); input m2Aaa end

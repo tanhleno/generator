@@ -1,0 +1,1 @@
+program Q : S : takes H : integer array; N : integer array; F : boolean array; gY0, p : boolean array returns boolean J : integer array; chillax end main : U, Hq, S : boolean array; C, p2 : integer array; when case false and not false or not not 987 rem(9) /= - true : chillax end otherwise : chillax end; let tG2a = array - (3) end

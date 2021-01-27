@@ -1,0 +1,1 @@
+program Kg1 : ft : takes M85a, SK : integer array; JWe, H49, U : integer array; l, ye10 : boolean array returns boolean chillax end tD7 : takes c, e8, s1, F, A : integer array returns integer when case - 9 - 0 : chillax end end main : ni, kl9a, s, g, z8 : integer array; chillax end

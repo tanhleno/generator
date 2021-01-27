@@ -1,0 +1,1 @@
+program w5i0a : W : takes b2daa, k7, K, F67, y, y9F0a, kZ2, pLX0 : boolean returns nothing input H7 end N : takes Y, bg : integer array; L, W : boolean array; w : integer array returns boolean array do I(4, 6) end f : takes zh, q, c, s17a, R, G7t : boolean returns nothing B : boolean; input v51aa[268] end main : e, o1c0 : boolean; B, y, R1P, e : boolean; chillax end

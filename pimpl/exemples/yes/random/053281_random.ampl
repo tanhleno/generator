@@ -1,0 +1,1 @@
+program X2v : v6 : takes T87 : integer; x : integer returns nothing j2f, Vr, M : boolean; I, C9, lIu, d : boolean; BC, bT2 : boolean; when case true : chillax end case 39 - 36800 > 2 : do W(5); let l = 10; pop end case 6 : chillax end; pop 89400; input V end main : chillax end

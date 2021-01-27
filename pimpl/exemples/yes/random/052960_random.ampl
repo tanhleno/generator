@@ -1,0 +1,1 @@
+program oM : n : takes NKL : integer; L : integer array returns integer let u6y = array true and 989 or 29 - 9; let E = array - 77; input E[9] end main : t0 : boolean array; p : integer; _ : boolean array; Q78aa, Z, UzDaa : boolean array; chillax end

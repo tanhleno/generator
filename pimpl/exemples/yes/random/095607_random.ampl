@@ -1,0 +1,1 @@
+program Xb : main : when case - (1) and N or 6 or 762 and 2 or 6 > - 2 * true and 7 : pop 94400; pop 82000; input o; do X1W(7600); while 09 : chillax end; pop end case false rem Pi0a - (21) : chillax end case - not 6 and 76 or 2 : chillax end end

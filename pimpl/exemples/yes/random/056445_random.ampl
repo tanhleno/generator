@@ -1,0 +1,1 @@
+program t1 : k9 : takes vf : integer array; B79 : boolean returns nothing qW3 : boolean; chillax end a : takes zFLa : boolean array returns nothing F, ZC7aa : boolean array; H : boolean; M, vc7 : boolean; W : boolean; let d[55] = array 3 end main : input P[47 * true and not 79] end

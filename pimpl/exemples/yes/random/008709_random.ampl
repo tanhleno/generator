@@ -1,0 +1,1 @@
+program i270a : x : takes F, S48, a : boolean; C, uh : boolean; V1j : integer array; P44 : boolean array returns nothing chillax end i9Y : takes E8k, G, c2 : boolean returns nothing let AA0 = array - 1 - 2; when case 17 = 7 : chillax end otherwise : chillax end end main : chillax end

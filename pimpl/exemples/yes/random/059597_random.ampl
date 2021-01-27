@@ -1,0 +1,1 @@
+program c : g6 : takes d : integer array returns integer when case not 6 or 3 - 9 : chillax end case - 8 - 31 < 981 : when case 0 : chillax end end otherwise : chillax end end main : when case 5 : chillax end otherwise : when case 830 = 8160 : chillax end; input M; while 2890 : chillax end end end

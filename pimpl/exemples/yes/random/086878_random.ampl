@@ -1,0 +1,1 @@
+program V : main : X0f0a : integer array; rZ : integer array; S : integer; do Qa50(true or not not 91 / 8 and 50 - false and 41000 or 2 > 37, true and iH and 952 + not 884 - 4 > - not 12 and 05 or 8); pop q3 and 27 + 90 - 0 /= 376; let QI = 0 >= 1 end

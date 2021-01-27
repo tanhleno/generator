@@ -1,0 +1,1 @@
+program z5 : CO1a : takes v9 : integer; d, a, F6, Qt, A : integer array returns boolean array n, N0 : boolean; chillax end main : G : boolean; nR1 : integer; pop true rem true and 3 + false and 04 or 19 end

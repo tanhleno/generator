@@ -1,0 +1,1 @@
+program Iy : hK : takes K : boolean array returns integer sY : integer; B : boolean; L, j : boolean; do ix6(Gf3 = - 39, - 34 <= 0, 9) end main : pop; let r = array - not(5) and false and 7 or(0) or 0 end

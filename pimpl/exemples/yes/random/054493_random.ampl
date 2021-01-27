@@ -1,0 +1,1 @@
+program n4U : y : takes u : integer array; hZ, g : boolean array; FEh, u, O, m320, o, Fl : integer array returns boolean array p8, Mh, l : integer; let D[- (4) + 4 - 2] = array - true; output 1 . 13 end d : takes Z : boolean; b : integer returns integer input LA5aa[85 - 1]; let G[55300] = 19 end main : chillax end

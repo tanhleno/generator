@@ -1,0 +1,1 @@
+program J20 : j : takes y210a : integer returns nothing k8Ca : integer; chillax end c8 : takes HO : boolean array; e : boolean; P, f1R, N : integer array; a, Pc50, u, ZT : boolean returns nothing chillax end main : P : boolean array; chillax end

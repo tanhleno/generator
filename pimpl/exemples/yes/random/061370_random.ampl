@@ -1,0 +1,1 @@
+program i : SX : takes V : integer array returns nothing output 091; input P5[3] end F : takes i, _, J : integer array returns integer output 89 . "+" . "" . ""; let w = array 84 end main : R72, i : boolean array; chillax end

@@ -1,0 +1,1 @@
+program s : P : takes fn : integer array returns nothing n6 : integer array; Z : boolean; O : integer; U3_ : boolean; chillax end main : H51 : boolean array; do A1Xa(true / 8 + not false rem not 5, false + (580) and 5); output 42 and 66500; when case true : input um end otherwise : chillax end; when case - 1 - 21200 : while 97 : chillax end; while 00 : chillax end end end

@@ -1,0 +1,1 @@
+program me40a : vM : takes Z9, j : integer array returns boolean array Q5, s3, a : boolean array; E, a : boolean array; i73 : boolean array; chillax end main : s : integer array; B4, c : integer; when case true - H(3) * (4) or false and 10 >= - false rem eD or 84 and 667 + 0270 : do u6(6 > 2, 23000) end otherwise : chillax end; when case - false and 1 or false : chillax end end

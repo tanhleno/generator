@@ -1,0 +1,1 @@
+program f : VI00a : takes k0 : integer returns boolean k22 : boolean array; hZj, Rb7 : boolean; when case E or 1 : chillax end case - 8 - 3 : input _ end otherwise : do I90a(02); pop; pop end; do W(27 - 5250) end main : chillax end

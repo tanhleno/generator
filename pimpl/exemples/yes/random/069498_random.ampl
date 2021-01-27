@@ -1,0 +1,1 @@
+program vT : main : Y, W, Ga90a, A8 : boolean; P : boolean; while true and true - not false and Hd or 2 + 74 : when case 3 : pop end otherwise : when case 4 : chillax end; pop end; output ""; when case 38700 : chillax end case 0 : chillax end otherwise : chillax end; output "" end; pop end

@@ -1,0 +1,1 @@
+program g63 : main : E9 : boolean array; M, D : integer; D, o : integer array; when case true > false - true or 8 - 944 : do v(- 8 - 323 > 00, 1); pop; output "+3a" . "U1!"; output "l+a"; when case 65700 : chillax end; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program lD : main : mD : boolean array; do fz(true or(92), true /= - 25 and 56000); do A8(- not(28) rem hZ and 9 = - (3010)); let Wg[false] = array - not 66; output ""; while 0 = 53 : chillax end end

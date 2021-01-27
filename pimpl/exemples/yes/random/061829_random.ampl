@@ -1,0 +1,1 @@
+program iD : o21aa : takes G : integer returns boolean array Z, lY, GP, Wy5 : integer array; TQ, Qr : boolean array; Rd, I3 : boolean array; t, c : boolean; U : boolean; f : boolean; chillax end main : T : integer array; chillax end

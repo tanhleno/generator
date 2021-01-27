@@ -1,0 +1,1 @@
+program T : Y : takes D : boolean; y : boolean array; v : integer array returns boolean w : integer; chillax end d5 : takes D6, wE : integer; K : boolean; WVC : integer returns nothing o : integer array; Q : integer array; chillax end main : b6M : boolean; R5H : boolean; output - true and(93) - true - 6 - 6 /= - not 67700 and 15 end

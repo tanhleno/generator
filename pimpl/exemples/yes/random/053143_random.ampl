@@ -1,0 +1,1 @@
+program p : E0 : takes xRg : integer; y : integer returns boolean chillax end T7za : takes Q0D, oc, r : integer returns boolean array B28 : boolean array; let M = 5 = 15800; let x[8] = 63 end main : y, G : integer array; chillax end

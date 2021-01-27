@@ -1,0 +1,1 @@
+program R10aa : S_6 : takes x, r, y : integer array; Q, y : boolean array; hV : integer array; I02a, Ghe0a : integer array returns nothing when case - not 20 and 0 <= 18900 - 9 : chillax end case 0 = 5 : output ""; do N8xaa(9); pop end end main : G, E : integer; g8T : integer array; J3 : boolean; chillax end

@@ -1,0 +1,1 @@
+program m : n : takes cl : integer array; Pb : integer; u : boolean; gg, M39aa, DdH0, o, We : integer; Xv70a : integer array; S : integer; o27 : boolean returns boolean array do c(- not 99, 6 - 3 = 8970, 0); pop 1; input K end F : takes b, F, I, G7, v, r : boolean; v, S0 : integer returns nothing I : boolean; do J(- 20700 - 5) end main : xg : boolean array; chillax end

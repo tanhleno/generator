@@ -1,0 +1,1 @@
+program r13 : X : takes v4h, HAn, KcE : integer array returns integer R740a, QPT, K, o : boolean array; sNma : integer; P : boolean; while not 19 + 3 : chillax end end main : output "" . "" . 60400 end

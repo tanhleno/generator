@@ -1,0 +1,1 @@
+program SR_ : main : do Z4(- (9930 = 0330) * l05[2] and true and 0 or not 9 / false and 2900 < false / (50) and 76 - (30) + 63, - (8140) / true and 1 <= true and 69 or 537, - false and 45200 + 9 - 58700 >= 6) end

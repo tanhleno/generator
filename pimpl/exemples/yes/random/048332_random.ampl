@@ -1,0 +1,1 @@
+program V1b : e : takes T : boolean returns nothing d : boolean; chillax end pN4 : takes l : integer returns integer chillax end EeC : takes xU, fD : integer returns nothing do d(9590, 5); output 31 . "" end main : chillax end

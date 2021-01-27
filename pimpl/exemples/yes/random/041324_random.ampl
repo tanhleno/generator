@@ -1,0 +1,1 @@
+program t33 : X : takes ck80 : boolean array; IWYa : integer returns nothing chillax end B : takes EM : integer returns boolean array L, B, B3, NKo : boolean array; while - 011 - 9840 >= 55 : chillax end; output 84 . 80 . "" end main : I, I, Q, h4n : boolean array; let o = - not C - true and 9 - 314 end

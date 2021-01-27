@@ -1,0 +1,1 @@
+program i2 : kGw0 : takes y28a : integer; qbSa : integer array; r2t : boolean; wl, B5 : boolean; a, tB : boolean returns boolean w : boolean array; while B9 and 17100 - 83 = - 57 : input k3 end end main : t : integer array; o, V : integer array; wO, M : integer array; chillax end

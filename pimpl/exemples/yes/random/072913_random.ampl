@@ -1,0 +1,1 @@
+program Z6_aa : main : v, D, Y : integer array; H72 : boolean array; Fu6a : boolean array; do S6G0(- V[78300] + 2 rem false and 8 > false / 5, - false and false and 3 = E1 or 4, b and 265 + 1610 > 25 - 0, 3 - 29200 > 5, 66 = 77, 5, 23) end

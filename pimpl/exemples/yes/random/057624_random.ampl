@@ -1,0 +1,1 @@
+program F3 : ied : takes V : integer array returns boolean array chillax end main : C, Bf00a, n8Va : boolean; when case 6 rem(3) and(82) and 3 : chillax end case - not b3N + false - 5 : chillax end case - not 7 and 44500 : chillax end case 2 <= 7 : output ">0" end end

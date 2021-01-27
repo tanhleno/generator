@@ -1,0 +1,1 @@
+program l : rFM : takes jC, Y, o : integer array returns boolean array when case 47 and 2 <= - 574 - 4 : output 7; output "" end otherwise : chillax end end h : takes P : integer array; V : integer array; vC, Rh, k, E : boolean array returns nothing lk5 : integer; chillax end main : l4 : boolean; chillax end

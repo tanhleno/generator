@@ -1,0 +1,1 @@
+program bK : x : takes B : boolean; QlCaa : integer returns boolean array s : boolean array; X, H9, y3, NyL : boolean array; C : integer; chillax end main : a : integer; output false * not 2 . false or 62; when case - (8) and S or false and 688 - 60 > - 3 and 91 : do Y(28, 4) end case - 30 or 53 - 0 < - 45 : chillax end end

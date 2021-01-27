@@ -1,0 +1,1 @@
+program t : F : takes g9, z : integer returns nothing output "x"; when case 36700 > 88 : input Au; do K(413) end case 43100 = 71 : chillax end case 33 : pop end otherwise : chillax end; while 41400 : chillax end end t : takes h : boolean; g9 : boolean array returns boolean array do y(- 23 > 272) end main : do fG0(- not false or 13 rem Q and 0 /= - not 4 * not 064) end

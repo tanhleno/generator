@@ -1,0 +1,1 @@
+program b5 : S : takes VY : boolean array returns nothing input Ub; when case 0 - 4 <= 1 : output "+"; do yK2(0); pop end case 65 : input EW; pop end end main : pop - m030(286) + not 5 and 8 or 5 end

@@ -1,0 +1,1 @@
+program G : Chvaa : takes k0L : integer; T0 : boolean array returns integer array r, u : boolean array; n : boolean; chillax end main : j78, c : integer array; let T = 0 / 0 and 361; do J_Ra(false rem true and 6 + 75100 or 5180 - 45 > - false); pop end

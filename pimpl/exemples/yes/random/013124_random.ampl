@@ -1,0 +1,1 @@
+program h : s41 : takes B, iLA, G : integer; y : boolean; DN9 : integer array; Kf : boolean returns integer array O, O56 : integer array; output 91800 = 8 end LJ1 : takes e9 : integer array returns integer array w, pj, U : boolean array; chillax end main : E : integer array; chillax end

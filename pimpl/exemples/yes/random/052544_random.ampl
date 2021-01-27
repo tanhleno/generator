@@ -1,0 +1,1 @@
+program b2 : N : takes E : integer; tW : integer; Z : boolean returns nothing C4, S, l : boolean array; input I1 end q5 : takes Ph, f6j : integer; P, D : integer array returns boolean C, KYY : boolean array; X9, B : integer array; e0e, A : boolean; Sb : boolean; g : boolean; pop 4; output "" end main : pop end

@@ -1,0 +1,1 @@
+program S620 : main : V97, RqJa : boolean array; i27a, l9 : integer array; when case false and(7) / I and 8 - (7) / (2910) - false and 2 + 8570 <= - true and 92 and 9310 - (1) and 99 : do k0(- 8 - 33, 8380 = 4) end case(6) rem vZ : chillax end end

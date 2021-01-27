@@ -1,0 +1,1 @@
+program P : A6w0a : takes Ht : integer; F1, xb4 : integer array; M4E, B700a, w, M6, S : boolean returns nothing Qo, b1 : integer array; chillax end main : X67, c : boolean array; a : integer; M : integer array; do h(not(31) / false rem 4, - true + j and 02) end

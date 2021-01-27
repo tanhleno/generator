@@ -1,0 +1,1 @@
+program h6 : main : L, Q, G0 : integer; while true or(8) rem not 65 and 3 - KHo - 13400 > false - (9) and 5 : do u(- 2 < 75); when case 85 : chillax end case 046 : pop end otherwise : pop end end; when case - false * false and 46300 = false and 18 + 74 : output "" end otherwise : chillax end; do XH(x and 81 or 95 - 8 >= 0080 - 45) end

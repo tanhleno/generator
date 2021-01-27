@@ -1,0 +1,1 @@
+program V : X4 : takes j, d, U, ws : boolean array; u6P0a, H : boolean array; B34 : boolean array; pQi, WBiaa : integer returns nothing pop - 99 - 2; output "" end Y : takes L, Q : boolean; M, X : boolean array returns nothing pop; input M; let f[9] = 4 end main : chillax end

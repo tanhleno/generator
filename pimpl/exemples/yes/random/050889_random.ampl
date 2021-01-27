@@ -1,0 +1,1 @@
+program pA9a : f : takes XN5 : integer; g5haa, D : integer; s : boolean array returns nothing do vp7aa(- 51 or 6 >= 1, - 0980 /= 85, 16 = 50, 6); do W(5 - 71, 945 = 124); do a8(02 = 1); do dI(3, 03) end main : ap7, N : boolean; K : integer; let d[- false * 5] = - (5) * true + 2820 - 2 - 831 end

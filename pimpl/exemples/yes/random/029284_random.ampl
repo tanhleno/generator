@@ -1,0 +1,1 @@
+program r : v : takes y2O0, k4 : integer array returns boolean array li, E7, yB, n : boolean array; chillax end D2 : takes KR : boolean array; Z, G : boolean; j8, WI : boolean array; CB : boolean array; Q, xKn, Z3 : boolean array; u : boolean returns integer do ti(- 1 - 0, 009, 4, 1) end main : X : boolean array; pop not n /= false - 5 - 9350 end

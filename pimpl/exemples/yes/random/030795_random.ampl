@@ -1,0 +1,1 @@
+program m0 : MU : takes O, tQ : integer array returns nothing N2 : boolean array; SN, ki7aa : integer; chillax end N6 : takes Te, n68, v : boolean array returns nothing T8 : integer; do ywS(891) end main : chillax end

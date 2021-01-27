@@ -1,0 +1,1 @@
+program k0 : C31 : takes C, d : boolean array; G6 : integer returns nothing do A2(- Sgga, 64); let o[1] = 4 = 8 end main : b : integer array; N9, J : integer array; RM, gJ : integer array; chillax end

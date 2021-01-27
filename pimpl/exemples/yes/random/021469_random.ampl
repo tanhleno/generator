@@ -1,0 +1,1 @@
+program g : _ : takes X, T : boolean array returns integer array input q end _6 : takes U6p0, s, W_2a, b : boolean array; m, d : boolean array; j5c : boolean array; Mb90a, v5, J, p40aa : integer returns nothing chillax end main : Gk4, een : boolean array; chillax end

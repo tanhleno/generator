@@ -1,0 +1,1 @@
+program f : O : takes E : integer array; qJs0 : boolean array; Vx : integer; Nbj, U2 : integer array; y, QL : integer; wd : boolean array returns nothing output "" end main : Y, v : integer; pop not 5 rem(0) + R and 31; do eC(not not 98 - false and 98 /= true and 54 - 30); do a((34) and 1 - 10700, 2 - 33 < 6, 4) end

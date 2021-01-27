@@ -1,0 +1,1 @@
+program f : Y : takes bU : boolean returns integer array pop - 4 - 15900 <= 276 end m17 : takes C, Q7, u : integer; Sm : integer array returns nothing _9 : boolean array; output 6 = 1 end main : I2, YGN : boolean array; input C end

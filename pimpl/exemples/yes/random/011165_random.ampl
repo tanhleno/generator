@@ -1,0 +1,1 @@
+program c83a : xuc0a : takes P, kgcaa, y3 : boolean array returns nothing a0, J, G9z0, l1n : integer; chillax end T : takes P6S, R, p : boolean array; xu_, Z, n : boolean array returns boolean chillax end J99 : takes W, z : boolean; Un, GJ : boolean returns boolean input IZ1a; input d; let q78aa = 5 end main : chillax end

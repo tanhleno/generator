@@ -1,0 +1,1 @@
+program uT : main : c, W : boolean; when case - (6) * true or false or false or 58 > - not not 73 : chillax end case true and 9 : pop 42 end case 74 or 2 > - 210 - 0 : output 7; let pt = 7; let lV = 36 end end

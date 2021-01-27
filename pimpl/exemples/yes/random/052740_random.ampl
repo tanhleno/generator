@@ -1,0 +1,1 @@
+program oK : h : takes j3S0 : integer; D : integer array; m : boolean; K, MG : boolean returns nothing um3 : integer array; input V8t; while - 83 : when case 13 : chillax end end; let e[9] = 3 end N : takes g : integer array returns nothing chillax end main : W, g6Vaa, lAQ0 : integer array; output "" end

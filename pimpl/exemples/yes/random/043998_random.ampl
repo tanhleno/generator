@@ -1,0 +1,1 @@
+program PR : GE_ : takes M : boolean array returns nothing U, l, U, PB : boolean array; O, x, Dlw : integer; when case - false and 6 : input q[5]; input X; while 1670 : chillax end end case - 2420 - 537 : do KsK0(06) end; input C8; while 2 : chillax end end main : chillax end

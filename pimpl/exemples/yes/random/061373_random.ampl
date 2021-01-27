@@ -1,0 +1,1 @@
+program k : G : takes J : integer array returns nothing output 0 <= 647 . 64 = 3 . 73; input Zj; while 1 = 3 : input tK end end main : _, T : boolean; let i = array - (45 = 44) - false; pop not 5 end

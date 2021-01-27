@@ -1,0 +1,1 @@
+program L : Ef : takes cg : boolean array; L0 : boolean array; j, n : boolean array returns boolean chillax end e6g0 : takes Sh : integer array returns nothing G4, T470 : boolean array; input e8[- 39]; do EM30(3, 85) end main : chillax end

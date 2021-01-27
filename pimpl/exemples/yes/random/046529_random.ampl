@@ -1,0 +1,1 @@
+program Hz : ag60 : takes l : boolean returns integer array Q45, o, u, J, q : integer; w : integer; JM, n : boolean; l75, T : boolean; chillax end main : do p7(- _ <= false * 620, - false and 3 < - true + 5 - 7, - not 47); input Sb[rO(93) / not 623 and 9] end

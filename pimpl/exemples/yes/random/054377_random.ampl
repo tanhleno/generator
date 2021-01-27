@@ -1,0 +1,1 @@
+program q : R : takes x : integer array; W7, y : boolean; Z_, S, D, o : boolean array; MD : integer array; a : integer returns boolean array while not 21 and 88100 or 91 : pop end; input ri end HK : takes W00 : boolean array returns integer array chillax end main : S : boolean array; W : boolean array; Y : boolean array; chillax end

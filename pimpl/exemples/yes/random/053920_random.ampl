@@ -1,0 +1,1 @@
+program P : x1 : takes f : integer array; IJ7, _, f : boolean; RyBa : integer; O, b8J, Z : boolean returns integer array c : integer array; K81 : integer; do hl(not 6 and 4 - 5 - 1 >= 63); output "" . 2 end main : y : integer array; chillax end

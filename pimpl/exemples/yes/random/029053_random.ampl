@@ -1,0 +1,1 @@
+program bc : K2e : takes A, Y340a : integer array; I1 : integer array returns nothing while false and 8 or 5 - 1 : chillax end; do X(- 3 - 4 >= 0, 468 = 3, 87, 3); while 0 = 7 : while 00800 : chillax end; pop end; let X[2] = array 47 end main : chillax end

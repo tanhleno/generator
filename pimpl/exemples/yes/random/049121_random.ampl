@@ -1,0 +1,1 @@
+program vB : H7 : takes h : boolean returns nothing when case - 1 - 6 - 8 : chillax end case - 99 /= 5 : chillax end; pop; input r[7]; while 63 : pop end end main : K : integer array; g, N, et, V : boolean; chillax end

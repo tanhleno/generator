@@ -1,0 +1,1 @@
+program E6ya : A910a : takes Q, w0, P1, N5, u64 : integer array returns boolean array output 3 - 46; let t1c = array - 7 end main : do Q(not x1d(90) / 2 rem not 5 or 764 or not 7 and 4 + 994 - 2, not 02200 + 9 or 03 > W and 8300 - 6 - 8); let Bl[- true] = - true and 1 /= - 9 - 77; input mh40[- false]; when case 0 - 36 >= 86 : chillax end otherwise : chillax end end

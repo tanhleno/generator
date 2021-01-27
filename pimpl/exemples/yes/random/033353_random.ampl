@@ -1,0 +1,1 @@
+program B2 : x : takes ML : boolean; Zcqaa, r7, I, J, AI : boolean array returns boolean array eM4 : boolean array; output - 2 - 7 . 2 = 710; output 84 = 096 . "Jt!" . 7600 . ""; input U; pop 4; let v = 24900; output "\"" end main : O7b : boolean; chillax end

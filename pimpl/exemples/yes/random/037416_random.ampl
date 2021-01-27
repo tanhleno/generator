@@ -1,0 +1,1 @@
+program k7v : n : takes yF : boolean; OgJa : integer returns nothing output 66 - 3 end main : pop - (11900) / 2 and 4; do i(c rem(4) - 92 and 5 - 2, - 1); when case - false - 0 - 4 : chillax end case 5 - 7 < 7 : when case 5 : chillax end; pop end end

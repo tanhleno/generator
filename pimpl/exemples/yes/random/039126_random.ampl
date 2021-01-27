@@ -1,0 +1,1 @@
+program l : G34a : takes D : boolean array; P, g : integer array; G, QtR : boolean array; il : integer array returns nothing f : boolean; c, NOia, q : boolean array; chillax end main : input knNaa end

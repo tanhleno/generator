@@ -1,0 +1,1 @@
+program Sh2a : q : takes KO, KB : integer; R : boolean; R : boolean returns integer array chillax end o : takes Z : integer; n : boolean array; m, b, O3K : integer returns nothing gJBaa : boolean array; chillax end main : e8, a, T : integer; chillax end

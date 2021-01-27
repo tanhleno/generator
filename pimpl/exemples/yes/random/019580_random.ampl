@@ -1,0 +1,1 @@
+program UY : s4 : takes Q, Gj0a : boolean array; N, h8 : integer array returns nothing pop - 3540 - 96; while - 3620 - 114 > 0 : let l5 = 89; when case 0 : chillax end end end main : d, k : integer array; chillax end

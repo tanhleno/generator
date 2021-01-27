@@ -1,0 +1,1 @@
+program r2I0a : Q54 : takes t, g9 : integer returns integer T07a : boolean array; chillax end main : V_, Z, Y, x5C, N : integer; while - (1 = 62) + not(12) = - x(4320) / not 47 : while 91600 : let c = 671; while 1 : chillax end; pop end; pop 8 end end

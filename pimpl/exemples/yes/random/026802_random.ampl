@@ -1,0 +1,1 @@
+program t200 : cr9 : takes Ky2, X2l0 : integer; M : integer array returns integer O4d : boolean; g, K : boolean; b, hO6, hBja : boolean array; a, K : boolean; pop; do o(- 58300 - 7 = 64); pop end main : chillax end

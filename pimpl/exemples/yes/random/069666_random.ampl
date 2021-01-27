@@ -1,0 +1,1 @@
+program t21 : main : J, d, j, GL2 : boolean; when case e(31100, 5) - (146) + 6 and 4 : chillax end case - E + not 8 and 6 - 3300 : while 57000 = 4 : chillax end; pop; output "9;"; let N = 884; pop end; let tZ8a[- false] = - 5 /= 45; while true and 7 : when case 448 : chillax end case 5360 : chillax end otherwise : chillax end; output ""; do F0(711) end end

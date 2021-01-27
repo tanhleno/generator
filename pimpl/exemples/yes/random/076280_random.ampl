@@ -1,0 +1,1 @@
+program L : main : n, D : integer; C1 : boolean; b : integer; when case - false or false > - false and k and 60 : pop end case - 3 - false and 0 = - false : chillax end case P - 2 - 9 <= - 72 - 6 : chillax end end

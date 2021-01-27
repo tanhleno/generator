@@ -1,0 +1,1 @@
+program K1ua : c9 : takes R : boolean returns boolean array chillax end main : c : boolean; when case 85200 - 2 * not 7 and 32300 : chillax end case HI(42) - F8l0a or 1 <= false and 1 + 1 - 93100 : while 0 = 11 : output "\\^aa"; pop end; when case 3 : pop end otherwise : chillax end end end

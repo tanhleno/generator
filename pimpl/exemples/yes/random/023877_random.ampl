@@ -1,0 +1,1 @@
+program B : I : takes HFK0a, i : boolean returns integer while not 077 : chillax end end Ab : takes l, d : boolean array returns nothing p : integer array; k : integer array; input Rs[1 - 7] end Llo : takes O, N : integer array returns integer output 1 . "X70a" . ""; pop; while 1 : chillax end; pop; pop end main : chillax end

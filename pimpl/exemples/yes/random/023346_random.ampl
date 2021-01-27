@@ -1,0 +1,1 @@
+program v : kH1 : takes _1, h4 : boolean returns boolean when case - false and 9 - 39 - 45000 : while 9 : pop end; output "\\1"; output ""; pop end otherwise : chillax end; input k61 end main : z : boolean array; chillax end

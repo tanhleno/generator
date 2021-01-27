@@ -1,0 +1,1 @@
+program e70 : LtL : takes r4, q, v : boolean array; j0, M1n : boolean array returns boolean when case - (7) and 90 : input N[2]; do l(624); let CAJ0 = 4 end case 31 - 3 : while 6 : chillax end; do AK20(2); pop end case 20 = 2 : chillax end case 0 : chillax end case 0 : chillax end otherwise : pop end end main : chillax end

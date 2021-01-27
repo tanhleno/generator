@@ -1,0 +1,1 @@
+program yH4 : lz3aa : takes i, k : boolean array returns nothing _ : boolean; m, Ruj : boolean; C, K : boolean array; P : boolean; while not 98500 and 45 : chillax end; let Ra5 = 767 = 4; output 1; when case 0 : pop end otherwise : chillax end end main : r71, L0 : integer array; C8, gZ7 : integer; chillax end

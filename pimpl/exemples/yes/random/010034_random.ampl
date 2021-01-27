@@ -1,0 +1,1 @@
+program eUHa : Z : takes k, Fhj0, wOxaa : boolean array; V0Y : boolean; t9 : integer array returns nothing MG80 : boolean; chillax end l : takes i, s : integer returns boolean input Q end main : y, JzP, t, l, l, Y, Q5 : integer array; _ : boolean array; output "&" end

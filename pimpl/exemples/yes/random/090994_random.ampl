@@ -1,0 +1,1 @@
+program D5 : main : let L[- not Z and true - true - false and 630 + 3 - 0] = - false < q and 09; let d[020] = array - false * 6580 and 1 or D62aa - 0; let nL[- true + 43200] = 1 - 83500 = 1; input U end

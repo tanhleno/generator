@@ -1,0 +1,1 @@
+program s : Y2 : takes c610, _5, L : integer; n, xU : integer; W, s1, w, Z : integer returns boolean array A, P1oa, S, o : boolean; r, n, f4 : integer array; chillax end m : takes B, mQT0a : integer; A : integer array returns nothing I, J, O, Fb : integer array; j2, _8, U : integer array; chillax end main : do o4(not(34900) rem 45 rem not 3) end

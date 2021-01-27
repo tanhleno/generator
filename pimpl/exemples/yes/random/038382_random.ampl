@@ -1,0 +1,1 @@
+program g : q4 : takes np30 : boolean array; I, J, QS : integer returns boolean array y : integer; when case w - 5 - 53 >= - 643 : chillax end otherwise : chillax end end h : takes D, Y : boolean returns nothing C : integer array; h : boolean; do A(- 7 < 7340) end main : input V[- true or 415 and not 96] end

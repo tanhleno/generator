@@ -1,0 +1,1 @@
+program A4_ : a : takes Ok5, U, e : integer; uF7aa, g27aa : boolean array; c6, T : integer; l, AA : integer array; xo : boolean array returns boolean array Gpsaa, C : boolean array; etYa, u3 : boolean; chillax end main : Z, m, Z, rhw : integer; chillax end

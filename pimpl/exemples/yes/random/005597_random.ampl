@@ -1,0 +1,1 @@
+program h : wMNaa : takes Mlq, F, v5caa, T79aa : boolean array returns nothing y0r0, P81, A, oXU0a : boolean array; sJH0a, tq : integer array; P7 : integer; t2Wa : boolean; zW : boolean; chillax end main : _0, x, q3 : boolean; chillax end

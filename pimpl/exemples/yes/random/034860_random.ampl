@@ -1,0 +1,1 @@
+program h71a : _Xz : takes W : boolean; wz5a, d2 : integer; b7 : integer returns nothing chillax end ww : takes PX10 : integer; t, D, _, VI80a : boolean array; n, Z5, d, Ws, K43 : integer array returns nothing s, oQQ, R : integer array; chillax end main : a, E, I : integer; output ka(18) = - false + 0; do S1Y(- true and not 61) end

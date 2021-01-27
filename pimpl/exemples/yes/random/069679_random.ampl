@@ -1,0 +1,1 @@
+program E6b : main : Q, WG, eqd0, W : boolean; while - (0440) / false rem 4 or false rem(763) and 96700 - true and 253 : do BB2(3 - 682 /= 61, 99400 = 3, 2); when case 4 = 87 : do i(0); pop end otherwise : pop end end end

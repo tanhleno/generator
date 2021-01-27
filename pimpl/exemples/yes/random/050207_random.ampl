@@ -1,0 +1,1 @@
+program i8 : YM : takes pUg0a : integer; Y, i, g : integer returns boolean array Wcr0a, Pr90a : integer array; k5, J, K : integer array; chillax end U3paa : takes M8 : boolean array returns integer chillax end main : Q4fa, q64 : integer array; A, f : integer; k1, C_, s, W3n : integer array; chillax end

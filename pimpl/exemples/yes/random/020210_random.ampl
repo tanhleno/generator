@@ -1,0 +1,1 @@
+program Qc : Ze1 : takes Q, HH70a : boolean array; U : boolean returns nothing K : integer array; let L[- e and 19 or 99500] = 15100 > 96 end TF : takes C8, O, IL, G7b0 : integer array returns integer array xs : boolean; D : integer; pop 950 = 7 end main : y : integer; u : boolean array; X : integer array; m450a, k2 : boolean; chillax end

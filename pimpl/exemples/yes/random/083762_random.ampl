@@ -1,0 +1,1 @@
+program Ae1aa : main : A : integer; P4n, R : integer; when case - O(7, 2) - true = - (5) + (32) + 8 - 65800 : output 943 = 37 end case - true : chillax end; when case - 7 > - Q and 397 : chillax end; do N(- false and 410, - 3 - 7) end

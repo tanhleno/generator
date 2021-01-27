@@ -1,0 +1,1 @@
+program VR2 : main : W2, ez9, V01aa : integer array; z5a0a, c, l7, xH : integer; let h = array - (7); when case 89 - not 43200 : chillax end case false and 3480 < - 904 : input G end; do x(9 and 1 or 9 - 8, - 6040 /= 58); let r[- 8 - 4] = array 2 - 6210 end

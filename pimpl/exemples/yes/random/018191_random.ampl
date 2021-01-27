@@ -1,0 +1,1 @@
+program i6 : g : takes e, iio : boolean; i64aa : integer; wSF : integer array; K, aK, X, DK, L : integer returns nothing chillax end main : p, W : integer; while(3 = 8) or true > 4 : output 11 = 77 end; input V[- false]; pop 5 - 6; output 78 = 89800 end

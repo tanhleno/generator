@@ -1,0 +1,1 @@
+program B : x : takes U : integer array returns integer array e, x47 : integer array; output - 3 - 000 = 8270 . ""; pop end Og : takes AC, t, j, o, p25 : boolean; FKJ0 : boolean array; j2i, _u, X8 : integer array returns boolean array wD : boolean; input s[- 01] end main : Mp : boolean array; w : boolean array; chillax end

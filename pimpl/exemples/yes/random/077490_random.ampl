@@ -1,0 +1,1 @@
+program H7 : main : AV6, N : integer array; L : boolean; _Y, v : integer; w : boolean array; do X(- false); output "" . 33 - 1 < 2750 . "B" . "%G" . "X" . "!"; when case 02 and 84 : chillax end; while 0 - 6 <= 1 : chillax end end

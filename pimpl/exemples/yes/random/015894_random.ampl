@@ -1,0 +1,1 @@
+program u : c : takes G, vq, U : integer returns integer array chillax end N1 : takes W, y : integer returns integer chillax end J : takes rp : boolean returns nothing Df : boolean array; chillax end main : gT : integer array; rH : integer array; let F[not Gi[23] - (0) and 488 + not 7 or 23 - 5] = - false / 694 and 5 end

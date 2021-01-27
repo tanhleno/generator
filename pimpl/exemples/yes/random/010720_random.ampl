@@ -1,0 +1,1 @@
+program a : L74 : takes Ac, E, se1 : boolean array returns boolean j : boolean array; while(46) or 0 : chillax end end Z : takes D : boolean returns boolean MM00a, E9, x73 : integer; M, h, e7 : integer array; OS : boolean; let D4[- 30] = array 9 end main : chillax end

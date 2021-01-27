@@ -1,0 +1,1 @@
+program GS0 : main : K, D : boolean; J : boolean array; do H(- W[1] * 45 / true or(7)); let Ui00a[(1370) / true or 3 and 8 or 55] = array true - (6) or 8; while true and 37000 or 3 : chillax end; let JW[- 7140 - 0] = 0 = 64 end

@@ -1,0 +1,1 @@
+program mAw : W : takes S : boolean; U : integer returns boolean array t96aa : boolean array; chillax end _0 : takes L, vE20a : boolean array returns nothing q, ZP, CJpa, O57 : integer; k, X0, rY0 : integer; l3 : boolean; input A[- 4 - 48] end main : chillax end

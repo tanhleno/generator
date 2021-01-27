@@ -1,0 +1,1 @@
+program fh2 : wZ : takes t, wFy : boolean array returns nothing pop 0310 >= 96; while - 29 - 091 : pop; when case 5 : chillax end; pop end end f : takes S5 : integer returns nothing let XFu[77 - 1] = array 21 - 3 end main : let R[false + true] = array - true end

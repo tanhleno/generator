@@ -1,0 +1,1 @@
+program u : m : takes W, SY : boolean array returns boolean array output "" end as : takes j : integer array; o : integer; PT : integer array; KG, F : integer array returns boolean array chillax end main : chillax end

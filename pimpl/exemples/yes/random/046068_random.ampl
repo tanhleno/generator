@@ -1,0 +1,1 @@
+program Kr60 : Sw : takes iu : boolean returns boolean k, y, IHKa, P : integer array; xM : integer; L : integer; chillax end A2 : takes o : boolean; N : integer returns boolean array chillax end main : chillax end

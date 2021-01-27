@@ -1,0 +1,1 @@
+program I : T68a : takes r, ftT : integer array returns nothing S8, w65, S : boolean; f : integer; pop 87 /= 5 end aSR : takes v : integer; N, C : integer returns nothing P : boolean array; s : boolean array; a, d : boolean; _ : boolean; G : boolean; chillax end main : p : integer array; chillax end

@@ -1,0 +1,1 @@
+program G : u : takes _, m : integer array; t8P : boolean; v : boolean array; Y : boolean array returns boolean L : boolean; while(09) + 22100 : chillax end end main : do Cz7(not U(0) or false and false = - U[5] * F, - 94800 < - false) end

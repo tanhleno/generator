@@ -1,0 +1,1 @@
+program T9Qa : yz : takes P, NR60a : integer array; j : boolean array returns boolean array v : boolean; chillax end d : takes C7i, m9, q : integer array; b4 : boolean; QaM, M : integer array returns integer while 837 /= 6900 : chillax end end I : takes n : integer returns boolean array qB : integer; chillax end main : pop 3 * false and 09 /= false and 4 end

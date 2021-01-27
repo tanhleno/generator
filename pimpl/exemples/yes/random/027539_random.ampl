@@ -1,0 +1,1 @@
+program ye : Oc7 : takes c, ya0 : integer array; z5, l0B, E : integer returns integer array qE, N4, u0Z : boolean; pop end SV : takes m, C : integer array; Z : integer array returns nothing chillax end main : chillax end

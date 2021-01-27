@@ -1,0 +1,1 @@
+program z3 : x : takes s : boolean array; o : integer returns nothing _5 : integer; R : integer array; QK : integer; GW, Y : boolean; chillax end main : G9 : integer; e : integer; HKja : boolean; s92 : integer array; R, D, CsP : boolean; CCE0a : boolean; O90 : boolean; L : boolean; input d[- not(5)] end

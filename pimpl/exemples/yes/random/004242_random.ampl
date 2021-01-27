@@ -1,0 +1,1 @@
+program I : D : takes w, g, c2Y, al7 : boolean; h4, J, g, s : integer array returns nothing H9J : boolean; chillax end aO2 : takes X : integer array returns integer let O[3 - 38] = 23 = 3 end main : u, m0, a : integer; F : integer; RM, gk, u, l, f : boolean; Rxg, vr5aa : integer array; n6s : integer; chillax end

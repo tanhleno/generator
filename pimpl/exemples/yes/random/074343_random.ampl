@@ -1,0 +1,1 @@
+program QI : main : BR8a, s : boolean; when case(8 = 8) / not false * true > E39(352) rem 5 : chillax end case - true * lkUaa < - false : when case 47 = 0 : pop; pop end end otherwise : while 8 : chillax end end end

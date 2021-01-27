@@ -1,0 +1,1 @@
+program e : x9 : takes u : boolean; p : boolean array returns integer array FLuaa, r : boolean; chillax end main : do hBZ0(- false and A(6), not J < - false or 5 - 4, - true and 5870 - 93 - 85 <= - 2 - 8, - 49) end

@@ -1,0 +1,1 @@
+program K : js4 : takes iW : integer; V : boolean array; D, sSiaa : integer returns nothing chillax end main : while - not(80) or true and 1110 and 3 - false and 1 or 6 = 64 : do kh(- 0 < 39, 646, 7) end; input iDG[- 50400 or true - 74]; when case false + 0 - 92900 : chillax end end

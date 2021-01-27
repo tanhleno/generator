@@ -1,0 +1,1 @@
+program CS2aa : N : takes Q0Z, Y5 : boolean array; r : boolean array returns nothing fT0 : integer array; while(9) and 4 + 82 : input V[8]; input B; while 6 : chillax end end end main : JJ, I2, a : boolean; q4R, HGa0a, w, f, n : boolean array; output(6) + 437 and 25 - 8 - 6 end

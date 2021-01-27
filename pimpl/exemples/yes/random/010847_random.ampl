@@ -1,0 +1,1 @@
+program O : z : takes T, _d0, zt : boolean array returns integer array T : boolean array; H, K, w, E : boolean array; output "" . "" end main : input F5A0a[- i[133] and wcU(8) / not 5 - (437) * (0)]; while not true and not 1 and 22 - (9) - 15 - 3 : do g(5, 26, 235); when case 3 : pop end case 82 : chillax end otherwise : chillax end end end

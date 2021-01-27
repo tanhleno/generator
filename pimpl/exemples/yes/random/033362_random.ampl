@@ -1,0 +1,1 @@
+program rE : cDt : takes _ : boolean; Z, h, Cjdaa, M0, Lfdaa : boolean array returns integer E, M, X, HqN0, p : boolean; ol : integer array; let TL = 50 end main : do D(true, not(17) or not 3 and 6350 < - 2 and 7360); while not not 8 or not 7 or 73500 - 5 : chillax end; let B0 = 20 /= 1 end

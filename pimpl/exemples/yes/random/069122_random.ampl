@@ -1,0 +1,1 @@
+program d : main : I, o, m1, K, eL : integer; input Y6k; input GpE[- 21800 and(43)]; when case v + 3 - 838 >= - 42100 - 6 : when case 12 : pop end case 7 : chillax end otherwise : chillax end; input c4; when case 1 : chillax end; pop end case 60 - 16700 : input v end case 29 : input Q6 end otherwise : pop; output "" end end

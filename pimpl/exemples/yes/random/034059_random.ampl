@@ -1,0 +1,1 @@
+program q400 : j4 : takes _3ea : boolean; M, c, K : integer array; T, fM : boolean array returns nothing pop; do F6(06 - 1 >= 06, 9 = 73); while 4 : chillax end end main : do T(- false /= - false + 4 or 3); pop; let w8[- false] = array 798 end

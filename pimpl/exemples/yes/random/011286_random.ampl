@@ -1,0 +1,1 @@
+program Y7 : W6p0a : takes mhH0a, F8Ya, D : boolean array returns nothing X : boolean; chillax end E : takes l4, a67, Z98a : boolean array; t, g : integer; Rg : boolean array returns nothing oD : boolean array; f7 : boolean array; let s = 8 = 736; do E1(0 = 921, 1, 0) end main : chillax end

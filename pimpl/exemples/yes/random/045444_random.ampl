@@ -1,0 +1,1 @@
+program ZR1a : b6 : takes v : boolean returns boolean array chillax end main : R4Xaa, o, I : boolean array; do h(true and true < - not false rem true + (79) and 08 - 06, (9) * 230 and 0); output "5" . "6R\"a"; when case xR and 9 = - 7 : chillax end end

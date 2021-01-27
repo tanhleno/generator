@@ -1,0 +1,1 @@
+program zr : d : takes F4c, H3 : integer; Fd1aa, p300a : boolean array; Y, jO, r : integer; _aU0 : integer array; zE : integer returns boolean do L(false + 0 - 9, 51100) end lMm : takes Ed : boolean returns nothing input tWa end main : b : integer array; chillax end

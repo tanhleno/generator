@@ -1,0 +1,1 @@
+program x : wf20a : takes EJ1, C, I, E : integer; E : integer returns nothing f0, D5 : integer array; JH, X, L, HV : boolean; chillax end n : takes i, h : integer array; N, J, v : boolean array; P : integer array; b : integer returns boolean pop end I : takes EM : integer returns nothing pop end main : chillax end

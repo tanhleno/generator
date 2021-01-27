@@ -1,0 +1,1 @@
+program K0k : _ : takes V1R, U8I0 : boolean array; q7, p, oN6, Emq0a, bU, e8 : boolean; j, wB9 : integer array returns boolean array let p = - 641 - 1 end main : let h = array - (4 = 9090) + r0(72400) rem true and 4 or d9 and 8; do B(true - true and 78 /= - Yghaa); do PZ(814 + 2 < 9, 9 - 11); when case - 80 > 49 : chillax end case 8 = 431 : chillax end end

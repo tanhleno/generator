@@ -1,0 +1,1 @@
+program um : main : when case not false or true / true and 66 + true and 1 : when case 50 >= 5 : chillax end otherwise : pop; pop end; input mwKaa end case - 2 * not 18700 - (473) : while 4 : when case 86 : chillax end; pop end end case - 18 or 0 - 262 > 648 : while 9 : chillax end end case - 1 - 6 : chillax end end

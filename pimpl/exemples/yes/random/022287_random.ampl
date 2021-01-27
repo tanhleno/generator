@@ -1,0 +1,1 @@
+program K2S : oO : takes w, p : boolean array returns nothing B, d : boolean array; output "5\"!" . ">"; let G = array - 3 - 8320 end main : while true + true rem false + false and 3 : chillax end end

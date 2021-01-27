@@ -1,0 +1,1 @@
+program N : main : when case not false / 5 /= - (217) : input I; pop end; while - 1 rem not 25 and 33 - 679 + 0020 /= - A3 and 04 : when case 65200 : chillax end case 3 : chillax end case 6 : chillax end otherwise : chillax end end; while not 98100 = 0 - 8 : output "" end; while - 95400 - 2 : chillax end end

@@ -1,0 +1,1 @@
+program V : D5 : takes RF, C, E : boolean array; n6j : integer array returns integer array when case a : while 9 : pop end end case 71 - 3 <= 32 : while 55 : chillax end end end main : QQ : integer array; W, E : integer array; a9i : integer array; chillax end

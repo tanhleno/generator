@@ -1,0 +1,1 @@
+program gS4 : rP : takes h : integer returns nothing DH : integer; chillax end A0H : takes T6 : integer returns nothing pop end w : takes VU50 : integer returns integer array let u82aa = array 57; do F(9) end main : N0U0 : boolean array; i0Raa : integer; pop not p9Iaa > F7q; while 9 : pop 910; pop; output "0q"; let I = 2 end; output "" . "."; output 1 = 3 . "4" end

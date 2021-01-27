@@ -1,0 +1,1 @@
+program N9n : DS8a : takes mX6a : integer array returns boolean z2 : integer; d, Q : integer; j9 : boolean array; px : boolean; T0 : boolean; chillax end K : takes S4, PI, AH, sPmaa : integer array; L, z8T, h, Z : boolean; Z, I17, C : boolean returns nothing z : integer array; saj : integer array; while - 9 - 12 : while 4 : chillax end; do s0k(98); pop end end main : chillax end

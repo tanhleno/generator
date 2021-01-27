@@ -1,0 +1,1 @@
+program Q : main : j1, J8, L, N17aa, s : boolean; R, U : integer; when case(0) rem(66) <= - true * false - false : while - 8 - 30 >= 8740 : chillax end; when case 20 = 0410 : when case 21 : chillax end; pop end case 181 : pop end; input H end; let I[(2) + not 4 and 0 or 74] = array - 1 and(108) and 703; let Ax5 = array true and 72 + 5 - 3 end

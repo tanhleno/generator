@@ -1,0 +1,1 @@
+program TH : mjl0a : takes cq : integer returns nothing output 173 > 0 end g : takes F : integer; j5 : integer array; v : integer array; A : boolean array; jW, p0, juC0a : boolean returns nothing chillax end main : while - false and true and(4) and 5 = r[7550] : input NrV0a[3280 - 6850] end end

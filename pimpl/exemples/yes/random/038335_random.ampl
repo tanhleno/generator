@@ -1,0 +1,1 @@
+program q : Pc : takes h : boolean array; vL9, m, Uw00a : integer array returns boolean output "\n" end _ : takes nj3, H : boolean array; I, c : integer returns integer chillax end main : chillax end

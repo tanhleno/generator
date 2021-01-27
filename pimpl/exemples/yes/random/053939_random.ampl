@@ -1,0 +1,1 @@
+program s : O3F0a : takes V : integer array; D, S3, n : boolean array; U3, x1, f4 : boolean array; h : boolean returns boolean array pS, c, w : integer array; while 44 and 6 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program VN : main : h : integer; B : integer array; g : boolean; o240, _9ca : integer; do9aa : integer; v : boolean; p : boolean; z : boolean; let r[- (57100 = 8) rem not false * 73000 and 998] = - not false and not 0210 and 44200 < false; output "" . "A\n" . "-" end

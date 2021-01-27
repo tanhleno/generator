@@ -1,0 +1,1 @@
+program G : A_1 : takes lij, nL70a, M, O360 : boolean array; I : integer returns boolean chillax end main : while - 050 or true - false - 9 : output 34; input x8ka; input n0[1] end; input m2P[- (76) * true and 8 or(5) and 788 - 208 - 77] end

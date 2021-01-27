@@ -1,0 +1,1 @@
+program Itj : main : when case false * true - (216) and true and 9 - (7) and 2 or 5830 - 0 <= 4 : let z = array 9; when case 6 = 60600 : when case 6 : chillax end end case 3 : chillax end end case - false * ARz and 5620 or j8 and 60 /= - 9 : do Q(0 = 82, 82, 52); let i30[5] = array 9 end case N_ + 506 : input D[5] end end

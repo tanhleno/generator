@@ -1,0 +1,1 @@
+program Y : S : takes a, hkwa : integer; Pw, PtD : integer array returns nothing chillax end BrEa : takes q4, Q : integer; n6 : integer array; C, I15 : boolean array; x, N9 : boolean array; j : boolean; P4Da : boolean returns integer chillax end main : F, v50 : boolean; L, y, t : boolean array; f0Qa : boolean; output "" . - false and 6 . "" . "!D" end

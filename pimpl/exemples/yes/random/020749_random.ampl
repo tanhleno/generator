@@ -1,0 +1,1 @@
+program K : i : takes Y2, Y5 : boolean array; A6Wa : integer returns nothing b : integer array; while - f + 157 - 91 < 6 : pop 641; while 56 : chillax end end end main : when case - true and not(2) + KF * not 023 + vk : chillax end end

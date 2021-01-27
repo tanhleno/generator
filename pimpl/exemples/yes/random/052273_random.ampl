@@ -1,0 +1,1 @@
+program F : aSy : takes YG8aa : integer; p6 : boolean returns nothing chillax end main : when case 0 and false - (317) rem true and 5 + (2) - 24 = D2saa(9) : do ajN(02800, 3, 87, 1) end case true - false and 9 <= - not 1 : chillax end otherwise : input U15a end; do T1(- _Fa0[613], - 8730 and 6, 59900, 41, 7, 800) end

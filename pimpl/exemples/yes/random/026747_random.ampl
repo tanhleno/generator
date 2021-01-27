@@ -1,0 +1,1 @@
+program Yz : L : takes F, w : integer; pd : integer array returns boolean array jUE, MZ1 : integer array; chillax end main : A, B, j : boolean; while - a - _0 or true and 9710 or 5 - 78 : chillax end; input t[false or not 92 and 94] end

@@ -1,0 +1,1 @@
+program f9 : main : t, s, aL90, L9G0, GD, Q8, Jg0aa : integer; YO, XM20, j3, yx : boolean; when case - (3900 = 81) * false + true : chillax end case - not 86 + 40 and 755 - 6 - 95 > false : pop; do r(33, 5450); let m = 2 end end

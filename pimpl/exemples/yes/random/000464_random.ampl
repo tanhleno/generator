@@ -1,0 +1,1 @@
+program l : r : takes jd, Fx7, A2, k, Ym, _, aHp0, uE6 : integer array returns nothing S, n : boolean array; chillax end main : do s(not not not 9 <= - 0 / J and 71, not 8 <= true and 6780); when case - true : chillax end otherwise : chillax end end

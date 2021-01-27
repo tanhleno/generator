@@ -1,0 +1,1 @@
+program vw7 : G : takes AU, pO10a : boolean; Cw, X : integer returns nothing MSa : integer array; S, P2 : boolean array; z, F : boolean; chillax end main : D : integer; M, MxL : boolean array; chillax end

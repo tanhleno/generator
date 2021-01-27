@@ -1,0 +1,1 @@
+program V : V : takes A0 : boolean; s, O : integer array returns nothing _ : integer; JK : boolean array; QC80a, Ev : integer array; input XhC0[false and 6 - 4 - 7] end f4Ma : takes I : boolean array returns nothing W4 : boolean array; pop 0 = 8; pop; when case 53 : chillax end case 694 : chillax end otherwise : chillax end end main : chillax end

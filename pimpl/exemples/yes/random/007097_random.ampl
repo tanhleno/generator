@@ -1,0 +1,1 @@
+program t0 : D : takes H, C, t, M : integer array; h : boolean; _3baa, KfS0, Q02 : integer array returns nothing chillax end h : takes un, E, E000, wl, NM30a : boolean array returns nothing F : boolean array; do p(4 - 748) end main : chillax end

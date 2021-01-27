@@ -1,0 +1,1 @@
+program vi : l8 : takes i5, AM, bW9, a8, l, s : integer returns boolean array chillax end dsu : takes G : integer returns integer array q : boolean array; n : integer array; NPL0 : boolean; chillax end main : OI, mJ : integer; chillax end

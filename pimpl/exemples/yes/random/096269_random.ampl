@@ -1,0 +1,1 @@
+program D : main : when case - not 53 - Ux(40) and(8) < - 132 or false and 6300 - 2 : while - 61 - 326 > 2 : when case 3 : chillax end; input VA; pop end; let YuD = 0 end case - (3) / 24500 or(794) and 4 + 8 - 114 <= not 1 : pop 1; output 7 end end

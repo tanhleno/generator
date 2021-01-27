@@ -1,0 +1,1 @@
+program p : main : _, Zp : integer; while - (9570 = 1) = (48) and not 5 : chillax end; when case - 26 * false : chillax end otherwise : when case 57 : pop end case 53 : chillax end otherwise : chillax end; output ""; output "(u!" end end

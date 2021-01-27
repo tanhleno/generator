@@ -1,0 +1,1 @@
+program v4 : I6 : takes R86, R, ft30, W33 : boolean array returns integer array chillax end J : takes Xf3 : integer array; e2 : integer; V, Y, sc5a, N, e : boolean array returns boolean array H6 : boolean; output 038 = 1 . "" end tF : takes Xwi, z : integer returns nothing while 3 = 24600 : chillax end end main : pop; do dS00a(- false) end

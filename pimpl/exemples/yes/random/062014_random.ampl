@@ -1,0 +1,1 @@
+program Acf0a : w : takes Q : integer returns boolean array j : integer; I5za : integer; let Hnm[- 09] = array - false and 9 or 55400 end E : takes gI70, f1, O : integer returns nothing Ruk0, n : integer array; input Fs[- 625 - 55900] end main : p : boolean; A : boolean; while - oy[12] : pop 563 = 2; output 4; pop 34000 end end

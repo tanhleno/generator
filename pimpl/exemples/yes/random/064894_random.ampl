@@ -1,0 +1,1 @@
+program w : m : takes f900 : integer returns nothing B3z0a : integer; chillax end Ue : takes SI5a : boolean; e : integer array; H : integer returns boolean array chillax end main : output not true; pop R and 94 >= 8 - 67; while - 4 and 8 <= - 2 : input j end; input T42a[3 - 3] end

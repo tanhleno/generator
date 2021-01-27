@@ -1,0 +1,1 @@
+program pJ : SQw : takes U, ZOZ, R : integer; f, L5, y, P1, yl5a, d, e : integer; hn : boolean array returns integer o, ka, sG, L : integer array; W0 : integer; X : boolean array; chillax end main : chillax end

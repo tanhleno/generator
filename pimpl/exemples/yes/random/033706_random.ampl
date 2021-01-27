@@ -1,0 +1,1 @@
+program e5 : B : takes z : boolean; Rt, z, G, j : integer returns integer array xX_aa, c : boolean; KY : boolean array; output "" . 9 = 0080 . 58; while 9 - 6 < 24000 : chillax end; when case 7 = 442 : pop end case 50 : chillax end otherwise : pop end end main : chillax end

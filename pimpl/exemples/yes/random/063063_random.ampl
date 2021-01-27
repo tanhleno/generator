@@ -1,0 +1,1 @@
+program n : uV : takes U0 : integer returns integer array l : integer array; m55a : integer array; when case - not 0 and 2970 > 6 - 034 : chillax end case 08 - 2 < 9 : input N3; let L = 3 end otherwise : chillax end; input xK[- 90 - 728]; let jL0a = 262; when case 7 : chillax end end main : chillax end

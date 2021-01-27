@@ -1,0 +1,1 @@
+program ij : O : takes V, k, l, d, a, R36 : boolean array; s, Ln, p : boolean; B, Gz, B, pS, q, Vj5a : integer returns integer array E, x : integer; je : boolean array; K, mM8, DjBa : boolean array; M, K : boolean; x : boolean; pop end main : chillax end

@@ -1,0 +1,1 @@
+program n : U : takes c, N5Y : integer array; e0, Q, w, pX : boolean array; j5Ea : integer array; t7, z, Gw, m : boolean array; J, T : integer array returns nothing p, i : boolean array; chillax end s7 : takes i, e : integer returns boolean K, mN, eZV0 : integer array; Q0 : integer; r540, Cc : boolean; while - 1 - 42500 > 7 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program o3 : W9 : takes m8 : boolean returns integer z2, b2, JJ : boolean; chillax end pJ : takes r2, i : integer array; Erd : boolean; G2, G : integer array returns nothing let F8e0 = array - 59 - 9; when case 5 = 744 : input x; pop end end main : do F(false - Y(70) - O or 40, - false rem 711 and 3 > - lw and 0 - 3490 - 76); pop end

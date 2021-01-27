@@ -1,0 +1,1 @@
+program L0 : u : takes v, X, s, u0P0a, pk5, q7H : boolean returns nothing T490 : integer array; chillax end GR : takes v0Yaa, f34 : integer; c : integer; O8 : integer array; q3 : integer; F, V : boolean; K, P : boolean; A89 : boolean returns boolean kf : boolean; chillax end main : let m[- 396 * true or true and false] = false end

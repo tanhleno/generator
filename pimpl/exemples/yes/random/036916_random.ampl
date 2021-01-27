@@ -1,0 +1,1 @@
+program W8 : e : takes r : boolean; h57a : integer array returns boolean array n, F, T : boolean array; chillax end main : z44 : boolean; pop; while(5) / I22aa : output "\n{" . 76 end; do zc(c + 2 <= - 71100, 99000, 4 = 37, 3, 16); do u(- 8, 4 = 96, 4470) end

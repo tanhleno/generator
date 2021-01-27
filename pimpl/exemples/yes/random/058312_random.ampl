@@ -1,0 +1,1 @@
+program d0 : P : takes p4 : integer array returns boolean h : boolean; do3aa, Nv6, q3, W30 : boolean array; _c, f : integer; Y9 : boolean; chillax end main : T : integer; when case - not true rem false rem false - 0 rem 99 + not 68300 and 7 - 5 >= - not false : chillax end case - not(3) rem x4 and 2 : pop 492 end otherwise : chillax end end

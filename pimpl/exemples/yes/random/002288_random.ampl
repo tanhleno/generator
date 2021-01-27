@@ -1,0 +1,1 @@
+program uFfaa : w76 : takes Io, Qc, W, X1w, HJ : boolean; A : boolean array returns nothing l0, ek1a : boolean array; chillax end v9Z0a : takes x, s : boolean array; p3f0 : boolean; k, ao : integer; i : integer array returns boolean YOg, c : boolean; chillax end main : pop end

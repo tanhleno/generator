@@ -1,0 +1,1 @@
+program z2 : Z : takes MZ, Mrx0 : boolean array; o : boolean; s6waa : integer; n0, z : integer; t : boolean array; d3 : integer returns integer GQ, r52a : integer; while false - 4 - 62 : chillax end end main : chillax end

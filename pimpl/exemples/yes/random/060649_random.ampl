@@ -1,0 +1,1 @@
+program e5 : K : takes G1 : integer array returns nothing U6I, lNN : integer array; E, ND, jLD0a, Y0v : boolean array; output 7420; let gB = array - 9 end main : OR : integer; lN : integer; chillax end

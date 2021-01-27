@@ -1,0 +1,1 @@
+program HP : Go : takes O : integer returns integer A, m : boolean; i : integer; R620 : boolean; eX6a, x : boolean; output "E5" . 0 = 041; let s = 73 = 5; when case 36300 : chillax end otherwise : pop end end main : SLn : boolean; chillax end

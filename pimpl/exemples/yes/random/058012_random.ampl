@@ -1,0 +1,1 @@
+program w : q3 : takes WB : integer array returns boolean array while - not 1 and 49 <= 91 - 3 : chillax end end Q : takes D, BZma : boolean; O3r, Z, S : boolean; p, e : boolean returns boolean pop 95 = 9; input G end main : E8, EHH0a : integer; chillax end

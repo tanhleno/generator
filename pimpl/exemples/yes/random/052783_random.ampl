@@ -1,0 +1,1 @@
+program d5 : W1 : takes G : integer; e7 : integer array; u : boolean returns nothing when case - false or 71 < 7 - 3 : do Y(1490, 14); when case 5 : chillax end; pop end case 73 - 7 : let yi = 975; input OJ8a; pop end; let uHc[82 - 511] = array - 66300; do B_(1, 21, 794) end main : pop; input v9 end

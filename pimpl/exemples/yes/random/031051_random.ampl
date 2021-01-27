@@ -1,0 +1,1 @@
+program t8 : q1 : takes q5, d : integer array returns nothing output "N*0a" . "3" . 2 . 11 end main : s : integer; when case - (8) * 4 rem 3350 - 0 + (1) < - false and 55 : chillax end case R7[086] : pop; output "@\t" . "" end case false + 8 : output ""; while 8 : chillax end end case - 1 <= 73 : let T = 5; pop; pop end end

@@ -1,0 +1,1 @@
+program F4 : main : let OS1a[- not true * (870) - not true rem not 2 and 3] = array G; when case - N[75] /= - 22 : let wH40 = array 8; while 66 : chillax end; let B = 3 end case(57) and 2 : while 2 : pop end end case 9 < 3 : input hk; let p = 9; pop end end

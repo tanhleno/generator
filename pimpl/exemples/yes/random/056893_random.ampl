@@ -1,0 +1,1 @@
+program w8 : v : takes M : integer array; b : integer array; o7, e1 : boolean returns nothing cgK : integer array; chillax end main : f : boolean; output - (177) / not 49200 and 7890 or not 2; pop end

@@ -1,0 +1,1 @@
+program b2 : j : takes S, I, w : boolean; A_C : boolean returns boolean while - true and 6 or 7 : chillax end; input L2[- 8]; input N28a; pop; while 35300 : chillax end; pop; pop end Zz : takes Q9, PL : integer returns boolean RO, q, V7 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program E : main : when case - not r(42) - (32) rem false and 6520 - 8 and 198 + 65200 - 9 : input S5[59100 - 1]; when case 5 : chillax end otherwise : pop end; when case 2900 : chillax end case 25 : chillax end end end

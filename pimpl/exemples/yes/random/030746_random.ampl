@@ -1,0 +1,1 @@
+program vKL : h : takes u7V, YZ7a : integer array returns nothing x : boolean; E : integer; xc, i : integer; N, ze7 : boolean; pop 9 end u1H : takes _9 : boolean array; o63 : boolean returns boolean input yjL[5 - 2]; while 2 = 38 : chillax end end main : H, iO : integer array; do P(- (22 = 20) rem(0690) or false * k - 01 and 3 or 4) end

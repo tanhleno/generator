@@ -1,0 +1,1 @@
+program l : I : takes v5f, a14a : boolean returns boolean D : boolean; chillax end main : when case - (1 = 6) + true and 68 /= 49 rem y0 or 6 : chillax end case not not 50 * Z = - (7) or 019 : when case 3 : while 4 : chillax end; pop end otherwise : pop end end otherwise : do _v(407) end end

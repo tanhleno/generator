@@ -1,0 +1,1 @@
+program d : AT9 : takes A, Qg, D, w : integer array; D : boolean; VY0, h8 : boolean; E, W, T1, V0 : integer; hU : integer; j, E8, f9 : boolean array; v : boolean; tkdaa : boolean; huE : boolean returns boolean gq : boolean; output 1 - 30 < 23; input _jzaa end main : D, HPa0a, v2p : boolean; chillax end

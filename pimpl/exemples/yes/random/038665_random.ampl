@@ -1,0 +1,1 @@
+program _l0 : O : takes G : boolean array; T, H9 : boolean array; X : boolean array returns integer array chillax end main : T7, d94, GeJ0a, Z : integer; k : integer; t : integer array; z, j760a, S9, Yg : integer; q : boolean array; i, F : boolean; chillax end

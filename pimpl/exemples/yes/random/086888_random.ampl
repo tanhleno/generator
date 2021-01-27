@@ -1,0 +1,1 @@
+program g5 : main : V : integer array; ff20 : integer array; a : integer; p : integer; a : boolean array; J, H1E : boolean; when case - I[76] and 2 / false or not aD : do Z_7aa(22500 - 445) end case - m(1) or G + 713 - 3 = - not 941 and 4 - 5 - 16 : chillax end otherwise : chillax end; input S end

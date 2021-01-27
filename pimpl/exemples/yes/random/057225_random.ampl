@@ -1,0 +1,1 @@
+program Em : f : takes RE3aa : integer array; Ix : integer array returns nothing chillax end main : output false rem h > - (0) and 6 or 1 - 113 . j8 < - 16; pop; while - not 8 or 18 - 88 < - 80 - 9 : while 9 : chillax end end; input G3[0 - 6]; let A[6040] = 7; let PR = array 8 end

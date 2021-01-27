@@ -1,0 +1,1 @@
+program h : b : takes I0, D : integer returns boolean Q : boolean; chillax end M : takes W8 : integer array; g : boolean array returns integer array y, v : integer; output 1450 . "2="; when case 51 = 2 : while 3290 : chillax end end end main : oxWa : integer; l : integer array; chillax end

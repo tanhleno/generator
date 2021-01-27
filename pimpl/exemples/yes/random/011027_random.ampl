@@ -1,0 +1,1 @@
+program B : n : takes C, G, s0 : boolean array returns nothing chillax end C : takes k, w800, G, r, CHZ : boolean returns nothing while - 4 - 252 : chillax end; pop 2; input Q2[46]; when case 8 : chillax end end q : takes E1, n, V, n : integer array; GK1 : integer returns boolean array chillax end main : chillax end

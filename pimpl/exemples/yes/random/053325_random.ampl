@@ -1,0 +1,1 @@
+program WF : P : takes N : integer; W : integer returns nothing WE4 : boolean array; pop - 66400 - 48 end main : while - not 2 + 4 rem not 9 and 26 or(1) and 9 - 6 : do x(7 = 81); input Pm[790] end; while - true * 7550 /= - true and 522 : pop 7 end; output 34 . ".," end

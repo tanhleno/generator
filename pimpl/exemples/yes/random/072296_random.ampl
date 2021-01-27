@@ -1,0 +1,1 @@
+program iJ9a : main : _, J, LGXa : integer; m : integer; IE9aa, v : integer array; N, ODN, x : boolean array; while true - false or true and 386 + 50 : pop 549 = 516 end; output - 4 and 12 + 68 > - 59 - 0; output - 4 <= 3280 . 6 = 90; do Rj20a(59200); while 1 = 708 : input oHs; pop end end

@@ -1,0 +1,1 @@
+program t0i : B8K : takes q6 : boolean returns boolean chillax end a : takes t, I0, G, BX : integer; N3 : boolean; S6 : boolean array returns boolean array QG10a : boolean; input _; do O(5); output "\"Q"; do P(60) end main : chillax end

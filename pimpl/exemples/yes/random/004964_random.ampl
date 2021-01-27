@@ -1,0 +1,1 @@
+program Oe : h : takes KY, n, O, _A : boolean array; WFh, TiWa : integer array returns integer Q, I6, m, m : integer; n : integer; chillax end main : while - not U(04) /= - false / true - true : input d end end

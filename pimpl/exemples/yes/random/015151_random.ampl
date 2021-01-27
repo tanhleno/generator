@@ -1,0 +1,1 @@
+program lXu0 : b : takes i, O, k : integer array returns nothing chillax end I : takes YI, zI, K : boolean array returns integer array input M140[25 - 1]; while 0 : chillax end; output 915; when case 04 : chillax end end main : u, I66 : integer; C, S, D : integer; chillax end

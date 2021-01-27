@@ -1,0 +1,1 @@
+program J : bz5 : takes R7b0, S6ca, W : integer; R : boolean array; FR, V1 : integer array; u, Y : boolean array; v, e, Q2P : boolean array returns nothing kJ6 : boolean; y, I : integer array; let N[- true and 5 + 39600] = array - false - 5 end main : chillax end

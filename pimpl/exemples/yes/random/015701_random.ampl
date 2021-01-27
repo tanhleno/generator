@@ -1,0 +1,1 @@
+program k3 : k : takes r, Lf, R1_0 : integer returns boolean array M, Z : integer array; chillax end C : takes X, J : integer array returns boolean OP6 : integer; while 4 : pop; do P(6); pop end; pop; let c = array 3 end main : E330, _0 : boolean; chillax end

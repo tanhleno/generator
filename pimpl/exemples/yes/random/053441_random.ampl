@@ -1,0 +1,1 @@
+program G : r : takes z4 : integer array; p, Q, i, M1, p, fTW : boolean; T : integer array; F, T : boolean array; g : boolean array returns boolean array input Qa[- not 107 and 090]; let P[- 6] = array 15600 - 93 end main : _22 : boolean; chillax end

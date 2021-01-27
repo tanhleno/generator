@@ -1,0 +1,1 @@
+program Vsn : kulaa : takes gt, R : boolean array; Ci, T31a : boolean returns nothing re, c, de, Lt : integer; chillax end main : output "" . - true /= - 654 - 646; pop; let S[- 9] = 7 - 08 > 878 end

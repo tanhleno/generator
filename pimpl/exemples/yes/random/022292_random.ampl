@@ -1,0 +1,1 @@
+program c : LQ90 : takes N, L : boolean array returns nothing F, U : integer; chillax end wLX0 : takes b81 : boolean array returns integer array chillax end N1B0a : takes e25 : boolean array returns boolean do Q4X(14 = 7); do Q(3); input _63 end main : chillax end

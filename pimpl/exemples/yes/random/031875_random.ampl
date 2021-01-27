@@ -1,0 +1,1 @@
+program t : z : takes u, N2a : integer returns integer array K : integer array; input O530a end main : input e; when case not U * true and 7 : while 92700 = 5820 : while 7 : chillax end; pop end end otherwise : chillax end end

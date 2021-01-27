@@ -1,0 +1,1 @@
+program N : main : pop false and 699 and 75 + true and 7 /= not 3 - 7; when case - 8 and(354) > 1 and 0 - 09 : chillax end otherwise : when case 6390 : pop end case 9 : chillax end; when case 02 : chillax end end; let t[- true] = array - 8 and 7 + 0860 end

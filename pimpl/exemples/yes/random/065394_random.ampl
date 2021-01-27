@@ -1,0 +1,1 @@
+program Q8K : MJ : takes gj4aa : integer returns nothing pop; when case - 8 - 5 : input K; when case 0 : chillax end; pop end; output 08200 . 4 . "\t5"; input A8[01] end r8 : takes r, a, ib, nNK, w6taa, e, _73a : integer returns nothing Y2, X : integer array; L, h : integer; tmpa, O : boolean; chillax end main : chillax end

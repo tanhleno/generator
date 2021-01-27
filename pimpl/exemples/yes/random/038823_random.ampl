@@ -1,0 +1,1 @@
+program N4 : NZCaa : takes MaZ : boolean array; Q35, FQ : boolean array returns nothing n : integer; HS1aa : integer array; chillax end main : input eH[3 or true / true]; pop 8 and 1 + 83000 <= 4 end

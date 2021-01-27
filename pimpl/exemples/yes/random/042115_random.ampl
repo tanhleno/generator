@@ -1,0 +1,1 @@
+program h : o : takes n : boolean array returns boolean z, Z : boolean; i2O, N0 : boolean; _e, m94a, km : integer; pop; output 70800; let c4[71700] = 5; while 054 : pop end; when case 45300 : chillax end; let JQ0 = 8; pop end main : o3p, er, t2 : integer; chillax end

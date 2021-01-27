@@ -1,0 +1,1 @@
+program o1v : main : while(0 = 4) rem bn5a * true and 96 + false / true and 0 : when case 0700 - 7 /= 87 : chillax end case 73 = 3 : chillax end otherwise : input ltA; pop end end; do B57((12) / (72800) and 016 - k + 96 - 3); let G = array - not 5 and 2 or 0 end

@@ -1,0 +1,1 @@
+program L3 : fH : takes EA80a, vhU, S : integer array returns boolean array Y, f3, m1, pj : integer; E3 : integer array; chillax end main : L, le0, XM50, y, g : boolean; b5n0a, r, L : boolean; Xyfa, K : boolean; chillax end

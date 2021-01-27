@@ -1,0 +1,1 @@
+program T : G : takes xE1a, O7M, rW, R1, jh, g, K, U : integer array returns integer pop 49 - 77; output 219 end main : when case(9) : do L(3 - 35 <= 190, 3); pop; while 7 : pop end; pop; output "!" end otherwise : pop 4; let ca[81] = 589 end; pop end

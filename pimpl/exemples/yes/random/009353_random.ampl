@@ -1,0 +1,1 @@
+program mq : t : takes r43, a27a, g6 : boolean; Y4 : integer array returns boolean chillax end vL : takes X3 : integer returns nothing o : boolean; output 3 = 9 . 0 . "" . "" end S : takes D6 : integer returns integer chillax end main : chillax end

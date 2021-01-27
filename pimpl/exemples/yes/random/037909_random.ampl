@@ -1,0 +1,1 @@
+program TS : L : takes o : boolean array; F, at60a, O, d : integer array returns nothing k : boolean array; chillax end g000a : takes Az, m : integer; q, y, U : integer returns nothing output "x" end main : i, g : boolean; pop - 22 / not 3 and 5170 + not 86 and 83 + 3 >= (7520) end

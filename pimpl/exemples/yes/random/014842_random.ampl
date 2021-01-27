@@ -1,0 +1,1 @@
+program j5 : h5 : takes Cw, L, p1 : integer array returns boolean o : boolean; let P = array - true; do N(- 123 /= 6); let PYk = 948; input m end Q3 : takes lu : boolean array; m71aa : integer; z, j15, s2 : integer array; H : integer array returns nothing input i[83 - 9] end main : i, C, B42 : boolean array; W : integer array; C3, X8, _ : integer; chillax end

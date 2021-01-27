@@ -1,0 +1,1 @@
+program j : B9 : takes u5Waa, y6, et, a36aa, F : integer array; x : integer returns boolean array E : boolean array; pop - 4 - 2900 end main : mj5a : boolean array; while false - (6) : chillax end end

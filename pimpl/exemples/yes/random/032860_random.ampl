@@ -1,0 +1,1 @@
+program DJ : Z : takes f, _ : integer returns nothing q : integer; e, e7a, f, q : boolean; do E47(- T and 5 + 6 - 6, 47 - 6 = 3); pop 3 = 1240 end main : w : integer array; pop - (888) and(7) /= - true and 4; do P(- (4) / 8) end

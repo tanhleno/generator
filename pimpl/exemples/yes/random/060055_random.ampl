@@ -1,0 +1,1 @@
+program J : PB60a : takes k : integer array returns nothing chillax end main : let fB = - not true; let j[- not(66) - (6) + 42 - 068] = array - true or lVAaa and 6 or 1; let Flr = array(1) - 59 - 0; while - 87000 - 578 = 65 : chillax end end

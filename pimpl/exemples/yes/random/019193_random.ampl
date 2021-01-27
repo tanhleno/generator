@@ -1,0 +1,1 @@
+program b : q : takes o0, Ip : boolean array; s_, l : boolean array; U, g8 : boolean; DM5 : boolean; V : integer returns integer array when case - (7) and 03 or 04 : do e(790); input q02 end; while - 38 : chillax end end main : L54 : integer; while - false > false rem not 8 : chillax end; pop; do h0(- true or 5 - 22, - 2 - 3 >= 11) end

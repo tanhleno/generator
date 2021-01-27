@@ -1,0 +1,1 @@
+program a7 : i4 : takes SA, n, U42, j : integer array; oYZa : boolean returns nothing pop; when case 4 - 67 : let i = 703; input Y5Faa end; while 11700 : when case 21 : chillax end end end C7I : takes etu, X0 : boolean array; j2, j : integer array returns nothing pop 0; do A3Ea(2880, 480, 9120) end main : output "" . "4\n!" end

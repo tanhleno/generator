@@ -1,0 +1,1 @@
+program F : H850 : takes w4, z3s, S, s, p, p : boolean; Sb : integer returns nothing when case - NVP and 1 + 2 = 0850 - 390 : chillax end case - 5 >= 2 : while 0 : chillax end end case 4 : output "2" end otherwise : chillax end end main : NcCa, k, R : integer array; chillax end

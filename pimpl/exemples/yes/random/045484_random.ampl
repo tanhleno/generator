@@ -1,0 +1,1 @@
+program qUQa : ku : takes M : boolean returns boolean array chillax end main : pop true; let vY70 = array not(912) + not 33 and 9; while - not 9 - 0 < - 76 - 3 : while 53100 : pop end; output ""; pop end end

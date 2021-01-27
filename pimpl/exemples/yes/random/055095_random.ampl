@@ -1,0 +1,1 @@
+program e8 : b : takes fIH : integer array; M4, k : integer array; d, ZK : integer array; h, v : boolean returns nothing A, J51 : integer; chillax end main : E, j50 : boolean array; pop - true * o1 and 9 + false and 9 - 8 <= not 7 and 9 end

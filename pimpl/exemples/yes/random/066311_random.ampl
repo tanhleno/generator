@@ -1,0 +1,1 @@
+program v : main : do a(- J[0] * not(46)); when case - (76) and(7) and 45 - not 3 and 5 <= (2) and 3 : pop; while 8930 : chillax end; while 0 : chillax end end; output 84 < 0 . 7 = 4 . "#8" . ""; while 293 - 10 : while 470 : chillax end end end

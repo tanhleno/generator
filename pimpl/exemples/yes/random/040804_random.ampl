@@ -1,0 +1,1 @@
+program o : e : takes kN : boolean array; O : integer array; G, V6x : boolean array returns nothing JQ70, X : boolean array; pop; do _(00300 - 483 < 90, 25 = 7, 2, 033) end main : when case 93 rem(5) : chillax end otherwise : chillax end end

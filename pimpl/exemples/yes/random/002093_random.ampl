@@ -1,0 +1,1 @@
+program s58 : l : takes uc, Av8, hW, T4, C6, fM : integer returns nothing output "r" . "\ni" . 2 . "1" . "" end main : x, pX10a, a, hR1aa, oR60a : integer; L : integer; RR, F2 : integer array; o, UT, ux : integer; chillax end

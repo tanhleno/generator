@@ -1,0 +1,1 @@
+program p8R : pp0 : takes j : integer array returns integer chillax end main : pop; when case false rem not 1 and 8 : chillax end case 2 - 86900 - 19 = - 6 - 51700 : input X[92]; let h = 6 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program i6M : b300a : takes ia : boolean array returns boolean chillax end S5m0a : takes E, p, A : integer array; x47, N, t : boolean array; i, LJ8 : integer returns integer array chillax end S : takes m : integer array returns boolean input T0u0a end main : v1 : boolean; ztq : integer array; chillax end

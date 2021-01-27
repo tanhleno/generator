@@ -1,0 +1,1 @@
+program yZG : r : takes i3 : integer array returns boolean array mn, lY, ouI0a : boolean array; MNi : integer; yXNaa, se60, PW1 : integer; do S(not 5 and 5390, 5 - 5, 1 = 430, 9, 5) end main : q4 : integer; SRC : boolean array; K : integer; pop - true rem not 87; output "a\n"; while V - 90 - 0 : chillax end; output 7 = 94 . 3 . "" . ","; input K[08] end

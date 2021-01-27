@@ -1,0 +1,1 @@
+program C : P0 : takes s8, x, b79a, r6, b_, Q4, Q2, K : boolean array; gr : boolean returns boolean chillax end main : input Vol; when case(55) or not 6 and 4 > false and 6 : output "\\" . "~6" end case 182 + 3 - 6 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program t : P1 : takes rV4, y, Mm : boolean; ie2a : boolean array; j5F0 : boolean array; yIk0 : boolean array; x : integer; U, HqR, Q : integer; L3, ec : boolean; CM7 : boolean returns nothing z, H55 : boolean array; chillax end main : do u(true * true * (3) and 04 > 8 rem(33) and 2) end

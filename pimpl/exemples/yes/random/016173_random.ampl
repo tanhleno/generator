@@ -1,0 +1,1 @@
+program I : l : takes H, W, L : integer returns nothing chillax end D050 : takes H : boolean array; _3, h, o7, i9Naa, S, By9 : integer array; j : boolean array; t : boolean; y2b0, e5, W6 : boolean array; R : boolean returns nothing chillax end main : pop 7 rem not 44600 and 0 + s1W - 4 end

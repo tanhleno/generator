@@ -1,0 +1,1 @@
+program Lq : v0 : takes h, WK, Rb, Q, E, aF0a : boolean array; M1 : boolean array returns nothing pop end main : m, HlJ, nz7 : boolean array; r : integer array; V : integer array; y, z : integer; yl6 : integer; il0 : boolean; input Mr; do s(- false <= true and 5 - 0) end

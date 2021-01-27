@@ -1,0 +1,1 @@
+program u : c : takes f : boolean; Zs, v2 : boolean; jN, a60 : integer returns boolean do U(- true and 6 < - 0); while 8 <= 108 : let Qsv = 4 end; let V[2] = array 0; output "5)!" . "|"; when case 9 : chillax end; output ""; pop end main : chillax end

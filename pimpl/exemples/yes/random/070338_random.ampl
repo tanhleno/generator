@@ -1,0 +1,1 @@
+program N38aa : main : O, J0, u, J : integer; when case - false rem false / (98) and 118 + not true + a7Faa - 03 - 9 < (6) / true and 4 : pop; let y = array 07 end case c3O[4980] and false and 9800 - (81) < true and 355 : chillax end; while(97) + true and 1 : while 6 : while 03 : chillax end; pop end end; output "k?!" . 9 = 9 . "" . "%!0" . "8"; output "" . "4W" end

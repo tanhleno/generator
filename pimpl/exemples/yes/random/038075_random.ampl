@@ -1,0 +1,1 @@
+program S : X9 : takes k3 : boolean array; a86a, Uw, O : boolean array returns boolean array X : boolean array; chillax end s52 : takes B6 : boolean returns nothing input k[- 563 - 0]; let Kx0[53] = array 4 end main : u, q : boolean array; T : boolean; c : integer array; v, rp8 : integer; _ : boolean array; pop end

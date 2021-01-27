@@ -1,0 +1,1 @@
+program ks : U : takes l : integer array returns integer chillax end main : when case - true rem not 25 * Ep3 and 4 or not not 9 + 634 and 47 : chillax end case - true : pop 922; let u[4] = array 53 end end

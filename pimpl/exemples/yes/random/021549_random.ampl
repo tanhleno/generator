@@ -1,0 +1,1 @@
+program Rl : v35 : takes U, F : boolean array returns integer chillax end l : takes z2 : boolean array; v : boolean array; zsx, F : integer array; uI, F : integer array; O : integer returns nothing m, s, M9r0a, v : integer; chillax end main : input yt; pop; when case - 7 and 2 or 001 - 6 : chillax end case 51 - 2 <= 229 : do LG8(61) end case 24 = 7 : output "" end end

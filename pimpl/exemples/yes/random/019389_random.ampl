@@ -1,0 +1,1 @@
+program y : P0z0 : takes q, G : boolean array; X, A7 : integer; a8f, TR : boolean array; U : boolean array; A7, V, J : integer array returns integer chillax end main : t : boolean; when case - (9) / 27 rem OIkaa - false * 6 : chillax end; pop; input P[- 318 or 39 - 4]; input l end

@@ -1,0 +1,1 @@
+program q4 : i : takes Qm60 : integer array; t5, huD : boolean returns boolean G, r : integer; d4, a4, th : integer array; okU, G : boolean; chillax end main : W : boolean; vK : boolean; T9y0 : integer; chillax end

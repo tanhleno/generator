@@ -1,0 +1,1 @@
+program V8 : P : takes n, s : boolean array; f : boolean array returns nothing w, S580a, v3Paa : integer array; chillax end n15aa : takes m : boolean returns nothing when case - 4 > 06 : chillax end end main : chillax end

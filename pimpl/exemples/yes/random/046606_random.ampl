@@ -1,0 +1,1 @@
+program KIya : u : takes kf : boolean returns integer array O, B : boolean array; when case(5020) + 318 - 6 /= - 0 - 5 : chillax end otherwise : do N7(72) end end k : takes sC8 : integer returns nothing output ";g\"" . 694 end main : chillax end

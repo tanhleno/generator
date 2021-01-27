@@ -1,0 +1,1 @@
+program J : A : takes zP1aa : boolean returns nothing t55 : boolean array; chillax end _1 : takes WIZ : boolean; WX, tJ, uz : integer array returns nothing zX : integer; input X end main : t, Ue : integer array; t3, I2 : boolean; pop - i540a(0) or 0 + 2 - 02; pop 586 and 5 or 8 end

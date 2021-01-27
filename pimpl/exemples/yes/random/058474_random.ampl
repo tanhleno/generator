@@ -1,0 +1,1 @@
+program nS70 : wX : takes Hx : integer array returns boolean let DF = array g and 73 - 4 end ar : takes S, Oe4 : integer array; v, P, s, Y : boolean array; MR : integer array returns nothing chillax end main : do Eu(- true > - Hx[21] / T + 1 and 6 + 23 - 19); output ">" end

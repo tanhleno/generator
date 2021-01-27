@@ -1,0 +1,1 @@
+program z : Y : takes A, G, H : boolean returns integer s, O8z : boolean array; input m4[not 56 and 747]; while - 5 - 79 = 2 : chillax end end main : ET9 : integer array; J8, nr : integer array; t53aa, K4Qa : boolean array; output - (6) / B /= k and 88; input Ip; while - false and 85 : input s; do w_(4); input V5 end end

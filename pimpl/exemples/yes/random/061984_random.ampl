@@ -1,0 +1,1 @@
+program G : zX : takes oJ : integer returns boolean array ad5 : integer; chillax end S : takes p : boolean returns integer do b(32400, 84900 = 8) end main : A, v : boolean array; P, cg5, Q, k42, F, Zl : boolean array; chillax end

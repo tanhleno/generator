@@ -1,0 +1,1 @@
+program SV : Z : takes h : boolean array returns nothing while - not 8 and 2 : chillax end; input KYf; output "{`" . ""; when case 8 : chillax end otherwise : chillax end end main : kc4a : integer; chillax end

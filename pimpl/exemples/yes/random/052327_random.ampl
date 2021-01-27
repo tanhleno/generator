@@ -1,0 +1,1 @@
+program n7 : Ew : takes g0b : integer; fI : boolean returns nothing o : integer; when case - true + 18 = - 0 : input fh[5] end case 9 : while 1 : chillax end end case 9 = 7 : do sRm0a(295); pop end otherwise : chillax end end main : d, B : boolean array; chillax end

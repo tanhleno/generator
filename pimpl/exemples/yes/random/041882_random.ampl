@@ -1,0 +1,1 @@
+program d : H : takes dK : boolean array returns boolean array when case - not 17 and 85 + 22 - 8 <= - 81 - 1 : chillax end otherwise : chillax end end main : D, k, Wfx, b, V0 : integer; do je2(4); do J(10 - false and 8 + 355 - 8000 > not 869 + 40300); when case - (7540) and 799 + 6 >= - 1 : pop end otherwise : chillax end end

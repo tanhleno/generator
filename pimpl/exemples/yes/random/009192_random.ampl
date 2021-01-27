@@ -1,0 +1,1 @@
+program exn : C : takes cj5, s0ga, Z : boolean; Q : boolean returns nothing chillax end invaa : takes oL5, Y7 : integer array; e, O : boolean; H, I270a : integer array returns nothing let E[- 6 - 1] = array 0 - 72; while 26200 : input F98 end; output 85; let zR = 2; output "\t\naa"; pop end main : chillax end

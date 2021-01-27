@@ -1,0 +1,1 @@
+program Au : ty : takes Q, K7, Z : integer array returns integer let T[- (7) and 4] = array not 5640 - 7 - 2; let H[1 - 0] = array - 3 - 3 end I : takes T : integer returns nothing Y : integer array; chillax end main : chillax end

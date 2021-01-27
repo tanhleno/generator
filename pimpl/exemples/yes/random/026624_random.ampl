@@ -1,0 +1,1 @@
+program w : h2b0 : takes S, O : integer; y : integer array; E4x, K0, sF6 : boolean; n : integer array returns nothing GY7 : integer; chillax end main : let w = array - o49 / (5); let oX = array - not K05 + not 192 + 7 - 0 end

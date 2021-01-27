@@ -1,0 +1,1 @@
+program p : p : takes K : boolean array; W, Z : boolean; H : integer array returns nothing pA : integer array; chillax end main : w, Ma : integer array; e7, H : boolean array; h0, E : boolean; v : integer; let Hc1 = array - 644 / IA(9) * (6) and 9; pop end

@@ -1,0 +1,1 @@
+program v : z : takes z : boolean array returns boolean chillax end main : while(0) <= true rem(5) : chillax end; pop; input A8[i]; when case - 038 - 276 : chillax end case 12 = 9 : chillax end case 0 : pop end case 1 : chillax end otherwise : do Am(3) end end

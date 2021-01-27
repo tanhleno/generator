@@ -1,0 +1,1 @@
+program F : main : F3G : integer array; while Ez3 - q2(2) / 70 and 53100 or UxD and 62900 : chillax end; pop 089 and 700 + 667 - 5 >= 491 - 4; when case - Dz and 3 - 2 - 771 < 3 - 67 : chillax end case 3 - 7 >= 5 : let zm = 0 end otherwise : let Z08 = 05200; while 77 : chillax end; pop end end

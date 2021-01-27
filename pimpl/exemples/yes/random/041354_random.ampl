@@ -1,0 +1,1 @@
+program W : A4b0 : takes S3Xaa : boolean array; y6 : integer returns nothing RV, aS, GIb0, qK6aa : boolean array; pop end main : st, Qgb : boolean; l : integer array; z : integer; paOaa, b51, E, F2 : boolean; output "Q3\"" . true and 43 - 9 . 7 - 507 . 0; input u[- 9 * true - true and 5] end

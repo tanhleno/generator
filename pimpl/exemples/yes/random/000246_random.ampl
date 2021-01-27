@@ -1,0 +1,1 @@
+program G : plq : takes T830a, B, Z, Ox, B, z, T, o0d0 : boolean returns integer array RC : integer array; pop; pop; when case 97 = 0 : do s(7); pop end case 8 : pop end otherwise : chillax end; do S(65) end main : chillax end

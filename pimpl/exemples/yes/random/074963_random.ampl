@@ -1,0 +1,1 @@
+program P37 : main : I, S : boolean array; _H, T : integer array; when case - (5070) and(6) : chillax end case - false + true and 1 > - (469) and 2 + 98900 : output 7790 end; input V26a[- 8]; output 20 - 37 end

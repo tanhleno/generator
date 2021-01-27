@@ -1,0 +1,1 @@
+program M9 : main : do Bx0(not 04 and 9200 - (7) rem 4260 or true or 84 >= - false or a and 7 - 0, 6 > - not 2 + 0 - 92, true and 9 /= 777); input P[false - P]; when case e and 1 /= 9 - 3340 : chillax end otherwise : chillax end; input f; output "" . "" end

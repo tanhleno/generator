@@ -1,0 +1,1 @@
+program ElW0 : n : takes d : boolean; z, a : integer array; dZ : boolean array returns nothing chillax end _ : takes J7 : boolean returns nothing gO, HaP : boolean; chillax end main : output ">" . - true and 1420 + 33100 - 3 /= 6; let LJq = - (7) + 995 - 31 end

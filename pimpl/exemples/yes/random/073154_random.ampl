@@ -1,0 +1,1 @@
+program q : main : Y, G, jt30 : integer array; when case(28 = 41700) or(23) : chillax end case true - 2 and 4 : while 58 : chillax end end case false : while 2 : pop end; while 0 : chillax end; while 1 : chillax end end otherwise : do O1(3620) end; input p920 end

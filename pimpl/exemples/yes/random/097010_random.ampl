@@ -1,0 +1,1 @@
+program M : main : when case N[31] - false or 95 and 48 : do kj(- 445 - 50, 3710); pop; let g[56] = array 13; do d(5) end case true rem false and 8 : chillax end case - 2 = 4 - 8 : chillax end; let p[- 2 and Oo and 0 - false and 994] = array false / 43 and 047 end

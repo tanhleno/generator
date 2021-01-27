@@ -1,0 +1,1 @@
+program J : l3 : takes OK0a : integer array; A, wAz : integer array returns nothing output 8 - 02 /= 1 . 57 . 7 . 22 . "3I!a" end nQ9aa : takes U82 : integer returns boolean array YVs : integer array; chillax end main : while false /= - false : chillax end; pop - true and 81 + 471 - 43 = 4; pop; input v0w0a[9 - 6]; do y(8, 93); input H end

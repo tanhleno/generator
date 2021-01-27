@@ -1,0 +1,1 @@
+program B7 : main : W6 : integer; R : boolean; E, Uq3, D, Ks : boolean array; FfQaa, ID : boolean; t01, p, e : integer array; E : boolean; while - 055 - (73500) * false or K and 5 + 4 > - _ or(1) and 40 : pop 6 = 3; do j(86, 6) end end

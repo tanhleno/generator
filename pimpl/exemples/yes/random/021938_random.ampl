@@ -1,0 +1,1 @@
+program y5 : x34 : takes N, a : boolean array returns nothing chillax end i0n : takes S720a : integer; R6x : integer; k, q5, Z, s : integer; GKh : integer returns boolean chillax end main : S, Jc2aa, r9, t0, tj : integer; w1, Q, S : boolean; p, d5 : boolean; u4, E : boolean array; mv8 : boolean; chillax end

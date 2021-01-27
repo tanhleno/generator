@@ -1,0 +1,1 @@
+program yH : H : takes O, N45a : boolean; Hz9, h, jPp0 : boolean array returns nothing chillax end main : Fn, r : boolean array; O2 : integer; U4G : integer; when case - 8 / (3) <= - false : output 30600 . "" . 3 end case false * (67) > - true : chillax end end

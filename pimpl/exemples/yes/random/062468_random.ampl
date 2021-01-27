@@ -1,0 +1,1 @@
+program M : Md : takes P : integer returns boolean L2 : boolean; kjkaa : boolean; let q2[true and 37 - 3 - 3] = array - 6 and 5830 - 8 end main : while true : chillax end; while - 681 : chillax end end

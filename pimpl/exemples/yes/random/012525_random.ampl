@@ -1,0 +1,1 @@
+program H : Z : takes cC, E, s73aa : integer; A, MA3, C, W, zuk, D, l92a : boolean; U2 : boolean returns integer chillax end main : pop - not 86 / 28800 and 01; pop; input R[(8) and 54]; let e35a[7 - 0] = 2 = 7; when case 5 : chillax end otherwise : chillax end; input i[8450] end

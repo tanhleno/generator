@@ -1,0 +1,1 @@
+program B : O0Ua : takes D, g9V0 : boolean; lC : integer array; Y7maa, w, E : boolean array returns boolean array TxH0 : boolean array; c, J7 : integer array; M79, f : integer; f, BAN0 : boolean; let om[70 and 06] = array - (73) end main : chillax end

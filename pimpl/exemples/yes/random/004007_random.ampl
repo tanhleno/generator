@@ -1,0 +1,1 @@
+program Y5 : z : takes K, E, YHT0, l, H : integer returns integer array let G = - 562 - 4 >= 27 end main : A7, p : boolean array; output ""; while - false - not 9 + 90 = e and 48 : when case 37 = 30 : chillax end otherwise : chillax end; while 5 : chillax end; input N46; output "" end; output "\t8!"; input y6; let zY[3] = array 346; do Y9(3, 70) end

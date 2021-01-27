@@ -1,0 +1,1 @@
+program e : e : takes C, a, X, X, lS00 : boolean array returns nothing pL, r7 : boolean array; chillax end main : hl : integer; do h(not false / U > - false, - 56, - not 0 and 1, - 285, 81, 5, 39); let q[- L(3) rem not 6] = not 4 and 928 end

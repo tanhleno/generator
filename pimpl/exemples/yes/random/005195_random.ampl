@@ -1,0 +1,1 @@
+program O : P5 : takes v, m, aW, R : boolean array; k : integer array returns boolean array output "\t" . 931 end l : takes _, K30 : boolean array; L : boolean array returns boolean array let qM[96 - 8] = array 1; input i[9] end main : let m[- (6 = 44)] = array(845 = 060) + not(3) end

@@ -1,0 +1,1 @@
+program k5 : kbZ : takes sP, sT1, Z9T0 : boolean array; Z, WGq0, hoF0a, wR7, J93a : boolean returns boolean D : integer array; chillax end main : output cFo0(3) - (87000) <= 7 and 34600 or 0 . - not 76 and 07 - 4 - 68 > - 8 . - 1 < 6 . 3 end

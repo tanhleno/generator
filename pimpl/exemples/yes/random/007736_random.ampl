@@ -1,0 +1,1 @@
+program T : L9 : takes S6Z, j, ai, M4Maa : integer array returns nothing xs, U6 : boolean; G8 : integer array; when case false or 054 : chillax end case 1 - 97 > 84 : chillax end otherwise : chillax end end K8 : takes O, S7 : integer returns integer array chillax end main : J8 : integer array; let j7 = - false * true + true and 57; pop end

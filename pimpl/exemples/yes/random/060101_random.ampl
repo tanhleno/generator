@@ -1,0 +1,1 @@
+program I : qz : takes Q4 : integer array returns nothing do d8((2) + 9 - 7 > 23, - 85 - 84, 33 = 1, 4, 0370) end m : takes W15aa, BlF : boolean; qBs, x0, q : boolean returns integer array chillax end main : Y, ePSaa, f, l, VQ : boolean array; while - (86 = 59) + 366 rem l1 - false : chillax end end

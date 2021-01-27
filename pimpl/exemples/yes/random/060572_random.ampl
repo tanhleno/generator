@@ -1,0 +1,1 @@
+program FZ : V : takes t5 : integer array returns nothing B, K : integer; chillax end In : takes f6 : boolean array returns nothing d : boolean; when case - 74500 - 76 : chillax end end main : B, Ut : boolean array; chillax end

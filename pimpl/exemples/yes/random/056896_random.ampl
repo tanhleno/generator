@@ -1,0 +1,1 @@
+program T : R : takes tt6a : integer array; MeWa : integer array; Fc, H : integer; TBK0, VU, n, Y6 : boolean returns nothing pop; when case - 9 /= 91 : chillax end case 3 : input O7; pop end case 706 : pop end case 61 : chillax end otherwise : chillax end; while 38 : chillax end end main : s8 : integer; pop end

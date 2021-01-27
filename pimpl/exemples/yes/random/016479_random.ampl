@@ -1,0 +1,1 @@
+program B : fn : takes x, J26, j : integer returns nothing f : integer array; chillax end main : X, b5 : integer array; _h5 : integer array; R, s4 : integer array; while false rem false or false rem false and 9 : chillax end; do e390a(- not not 64 = - false); input u[- not 8 and 2 - 5 - 3] end

@@ -1,0 +1,1 @@
+program kx : PD : takes Z4g0a : integer returns boolean array Hy5 : integer; chillax end main : J3, b, z, D : boolean; let s[- (540)] = array 1 and not not 98600 / not 8460 and 80300; when case - true : do C(3) end case - 8100 and 6 /= 60 - 18 : let R[31] = array 40; do R(1); input UNraa; pop end otherwise : pop 1220 end end

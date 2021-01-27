@@ -1,0 +1,1 @@
+program _L7 : g : takes _b : boolean array; O, yS : integer; i : integer; c2 : integer array; L : boolean array; E, o, f : integer; BD, q : boolean; N6 : boolean; p : boolean returns boolean pop 84; do G(54 - 58 = 4) end main : chillax end

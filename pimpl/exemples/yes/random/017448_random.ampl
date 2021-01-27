@@ -1,0 +1,1 @@
+program vk5 : I1D0a : takes A27, J : boolean; O, y7V : integer array; h7, H : integer array; Dn, L : boolean returns nothing when case - true and 609 < - 7940 - 5 : let W = 46; let M = 47400; pop; pop end case - 61 - 96 = 4 : output "*"; input sO end otherwise : chillax end end main : h3 : boolean; let w7Ra[1] = - 4 + false and 5 end

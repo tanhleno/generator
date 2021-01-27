@@ -1,0 +1,1 @@
+program j3iaa : main : while true >= not(794) - (2) and 64 - 037 - 90 : chillax end; when case - not(20) : input a; while 5 : chillax end end case 5 and 6 - 3 - 2 <= - 15 : when case 0 : chillax end otherwise : chillax end; pop; do z(70) end; output ""; let U63[376] = 8 end

@@ -1,0 +1,1 @@
+program kj : n : takes U130, J04aa : boolean returns integer t1 : boolean array; r5, CT : boolean; when case(0) or 0 - 4 : chillax end otherwise : chillax end; do U(- 4 <= 8); do S(7, 574) end main : xy, C : boolean; when case not false / (5) : chillax end case - (05) or false + 7 - 92 : do M(46, 00300); output "" . "v" end case not 3 or 3 - 98 < - 1 : chillax end end

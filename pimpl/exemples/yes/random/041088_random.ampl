@@ -1,0 +1,1 @@
+program L : ES : takes T : boolean array; OE : integer array returns nothing chillax end main : J5wa : boolean; H, l : integer; f : integer; while - false / false or S(9) or(12) /= qx rem false : input pU; output 70 . "" . "\t"; do BqE(5, 865); pop end; pop end

@@ -1,0 +1,1 @@
+program b : fGs : takes N, mX7, N, G : boolean array returns integer input f; while 9 : input d79; do c(927); pop end end main : while BG + true * pu and 56 or 0 and 564 > - false - true - 58 - 2 : let H[- 03400] = array - 8 - 1 end end

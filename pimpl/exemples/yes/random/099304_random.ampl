@@ -1,0 +1,1 @@
+program _ : main : while dJ + 3 or 5 <= false : when case 80 - 4 <= 2020 : when case 5 : chillax end; do A(5080); pop end otherwise : when case 3 : chillax end; pop end; while 136 = 02100 : do jt(3); pop end end; let W[- false / true] = array x - true - 990 - 6; output 01500 end

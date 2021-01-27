@@ -1,0 +1,1 @@
+program H2Caa : o0s0a : takes G0L : boolean returns integer array lFh, Z46, sA, Rk8aa, psv : boolean array; w, f, d, io : boolean array; do X3M(- MNR > - 12 - 3) end main : while IJ(3, 76) + 8 : do g(8 >= 5, 1, 0) end; output - (4420) and 3 . ">" . 7 = 0 . ">" . 7 . "\\d" end

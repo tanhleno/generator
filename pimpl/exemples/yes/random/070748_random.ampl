@@ -1,0 +1,1 @@
+program F : main : Qd50a, f7y0a, xz : boolean; M8, Y, s, B, I0A : integer; K2Haa, _ : boolean; let l6[- S + (1) / (88)] = true rem(07) or true and 74; do s(not false, (90200) and 996 or 13 /= 21, - 8000 - 5, 3, 93) end

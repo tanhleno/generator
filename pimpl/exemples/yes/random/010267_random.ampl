@@ -1,0 +1,1 @@
+program q : m : takes x, c, a7Y : boolean array; PFC0 : integer; J, q : integer array returns boolean array chillax end y : takes P0Daa, g7, S, i, r870, Uy, s : boolean returns integer output "4["; do E8i(3, 90, 2); do CYp(83, 226) end main : u, P, mIr, p1 : boolean array; chillax end

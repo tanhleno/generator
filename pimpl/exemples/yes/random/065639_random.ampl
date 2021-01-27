@@ -1,0 +1,1 @@
+program T7 : main : do ZO2((02) / false > 3 * B, - (2680) < not 9 or 8 - 37); while - true > - true : output "\t" . 6; let KA1 = 81000 end; input U; while - 77 - 6 > 9 : input s; while 3 : chillax end end; input A[608] end

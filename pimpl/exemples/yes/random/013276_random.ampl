@@ -1,0 +1,1 @@
+program H : K : takes o, nH, N_ : integer; P : boolean returns boolean array M : boolean array; R_9 : boolean; chillax end main : input n[V rem false * (8) and 4 + false or(60100) and 2 - 321]; output "R" . "9" . 8 . 027; do T0(true and 5 or 2 - 10 > - 351 - 181); let y[1 - 5] = array 3 - 170 end

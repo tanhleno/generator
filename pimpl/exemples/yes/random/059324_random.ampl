@@ -1,0 +1,1 @@
+program O8 : i : takes sxFaa : integer array returns integer Y, U : boolean array; input O[not 8 or 2 - 4] end main : K : boolean; Z : integer array; wZ : integer array; T, P040a, Ij70a, v : boolean; pop true + (9) and 6 - 01 < Bb and 582 - 921; do w(n[6] * not 54500 or not 2 and 3 + 21200 - 62800); do Q00(- true and 3 - 31 > - 4) end

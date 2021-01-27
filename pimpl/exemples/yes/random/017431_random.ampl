@@ -1,0 +1,1 @@
+program iW4 : N : takes LF, y : boolean; I, s2La : integer array; B, Y, z2L : boolean; j, h : boolean returns boolean lc, ZQ1 : integer; K5, y, H, Q : integer array; chillax end c8H : takes y4, v, c : boolean; H : boolean returns boolean input N52[5]; when case 48 : let sg7 = 12; pop end; while 35700 : pop end; output "" end main : Bva : integer array; chillax end

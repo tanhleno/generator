@@ -1,0 +1,1 @@
+program sE : km5aa : takes Q : integer returns boolean array chillax end E : takes zIK, sq3a : integer array returns nothing ld, Dl, Uj : boolean; H : integer array; f920, O : boolean; chillax end main : chillax end

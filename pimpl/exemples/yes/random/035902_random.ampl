@@ -1,0 +1,1 @@
+program A : p : takes jO6 : boolean; N : boolean array returns integer array chillax end b9 : takes l : integer array returns nothing CR : integer; when case - 4 - 7 : let dv = 4; input pJ7; pop end case 6 : chillax end; input X; do kT(900, 46); do Sq(7) end main : chillax end

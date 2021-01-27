@@ -1,0 +1,1 @@
+program _l0 : _5 : takes jBIa : boolean returns integer array Q810a, V : integer; chillax end r8 : takes wNX, l24 : boolean; Nx : boolean returns integer array output "" . "" . ""; when case 4 = 8 : input Xd end case 62 : chillax end otherwise : chillax end end main : e, B : boolean; _, V, F : integer array; T, C : boolean array; q, N, dT : boolean array; chillax end

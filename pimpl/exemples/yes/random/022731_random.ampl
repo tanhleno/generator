@@ -1,0 +1,1 @@
+program U9 : U : takes n, h8 : boolean array returns nothing output "E" end j6 : takes Qpj : boolean returns integer array e : boolean array; O : integer; input IV60 end e7 : takes B : boolean returns nothing O2, m3 : integer array; chillax end main : while - false = true : chillax end end

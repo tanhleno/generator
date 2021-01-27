@@ -1,0 +1,1 @@
+program _B3 : D : takes Tp, q8 : integer array returns nothing al00a : integer; lRi : integer array; chillax end j : takes X, S, ct : boolean array returns nothing output "" . 38; do J(9880, 910, 623) end main : chillax end

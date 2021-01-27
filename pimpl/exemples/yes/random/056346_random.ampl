@@ -1,0 +1,1 @@
+program pj4 : l : takes UT1 : integer array; z69 : boolean returns integer chillax end main : output "~#0a"; pop; output "@"; while - 498 - 39 < 25 : pop end; when case 4 = 3 : let o100 = 0120 end case 0 : pop end case 1 : chillax end otherwise : chillax end; when case 76 : pop end case 26 : chillax end; output "m\""; let L = 3 end

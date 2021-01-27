@@ -1,0 +1,1 @@
+program v : n : takes K000a : integer array; M5 : integer array; Zh, y : integer; F, M : integer; zIFaa : integer returns nothing when case - true /= - 405 - 812 : chillax end; do G(- 56, 63 = 47, 55, 9) end main : PH, U0, E : integer; input e7 end

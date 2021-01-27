@@ -1,0 +1,1 @@
+program s : C : takes H2K, qR, g35 : integer array; ML, Hy, yV, OmH0, G : integer returns nothing bP : integer array; n : integer; x2 : boolean array; LR : boolean; x : boolean; l : boolean; pop; do pv(5 /= 0) end main : rx : boolean; SE5aa : boolean; i, I80, Z3 : integer; chillax end

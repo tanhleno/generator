@@ -1,0 +1,1 @@
+program _ : A8 : takes e : integer array; N, K, W : boolean returns integer i, z6 : integer array; chillax end y : takes X8 : boolean array; LG : integer array returns nothing T : integer; chillax end I : takes EA : boolean returns nothing v, V2W0, k22 : boolean array; chillax end main : output S(8) * ax end

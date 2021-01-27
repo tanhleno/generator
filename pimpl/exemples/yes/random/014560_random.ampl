@@ -1,0 +1,1 @@
+program i930 : AV : takes r3, SV, p7 : integer array; EN40a : integer array returns nothing u : boolean array; let UA5aa[not 438] = - 9 - 9 end main : Y : integer array; _ : boolean array; output "" . - not 134 or 289 - 7 > 5 end

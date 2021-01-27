@@ -1,0 +1,1 @@
+program Y : V : takes i, d, B : boolean array; sc : boolean; ic6, d : integer array returns integer a43, d : integer; input U7; while 90 - 2 > 1 : let w = 40500; when case 05 : chillax end; pop end end main : chillax end

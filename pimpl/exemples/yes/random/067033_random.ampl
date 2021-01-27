@@ -1,0 +1,1 @@
+program B : main : do W(false /= 3 / not 75, - not true / true and 2 - (52), - (6) and 4, 178 - 7 >= 731); let x[false + ZL] = - not 9 and 8; while not 3 - 9 <= - 3 : when case 2 : pop end case 53000 : chillax end otherwise : chillax end; let hH80 = 98900; input o end end

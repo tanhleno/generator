@@ -1,0 +1,1 @@
+program G3 : t8 : takes z, I2 : integer returns nothing l : integer array; when case Uz - 92 <= 1 : chillax end case 6750 <= 99100 : while 031 : chillax end end otherwise : input B01 end; input j[- 3] end main : X0 : integer; iI : integer; chillax end

@@ -1,0 +1,1 @@
+program M : d : takes c, g : boolean; L8, a6, Z, b4t : boolean; F8, O5h0a : integer array; D, R5p, A, C10aa, s : boolean returns integer array u, PiYa, n83 : boolean; Q, K, u : boolean; output 8 - 7 <= 7 . ""; do HV(- 28, 56 = 199); while 9920 : chillax end end main : chillax end

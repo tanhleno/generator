@@ -1,0 +1,1 @@
+program Q : a : takes A8 : boolean; hx, L9 : boolean; z, _Q : integer array returns nothing Wo : integer array; W, Th0 : integer array; pop - 31300; input J7; input Zq1a; do k4Q(90) end v : takes Y7 : boolean; n0 : boolean array returns boolean array G : boolean array; chillax end main : output "*4!"; input i[- (0) and 5 and 2]; output - 0 <= 7 . 48 = 502 . "" . 528 end

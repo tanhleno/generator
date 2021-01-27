@@ -1,0 +1,1 @@
+program f : JY : takes V8, zi : integer returns integer array W : integer; when case not 49 - 6 > 1 : chillax end end J : takes u, n : integer array returns boolean eWZ : boolean array; HfDaa : integer; when case 4 - 8 >= 12 : chillax end case 9 : output ""; pop end otherwise : do o1E(11); pop end end main : chillax end

@@ -1,0 +1,1 @@
+program p : q : takes q : integer array; rY1, i : integer array returns nothing let s[Y0 and 679 or 3 - 69000] = 5 - 6560; when case 2 <= 0 : chillax end case 2 = 671 : input o3; pop end; let BCJ = array 428; let C03[3] = 2 end main : when case z[280] rem 889 / false and 3 + (63) rem not 0 and 621 : chillax end otherwise : pop 3 end; pop false and 09 + 16 - 9 end

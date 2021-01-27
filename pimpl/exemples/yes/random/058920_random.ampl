@@ -1,0 +1,1 @@
+program e8ua : _ : takes m : integer array returns integer array h : integer; D : boolean array; p : integer; chillax end _ : takes G, k : integer returns nothing chillax end main : when case - true * not z2 : let V[31200 - 262] = 9 = 2; while 5 : let CFx0 = 1; pop end; pop; while 3 : chillax end end end

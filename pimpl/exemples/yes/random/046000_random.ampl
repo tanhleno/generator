@@ -1,0 +1,1 @@
+program nD : O : takes Q : boolean returns boolean chillax end main : r5 : integer array; output - false and true <= - not 5 and 5 or 62; do F03aa(true or(8020) and 5 - 092 > - false and 2 - 86300 - 5); do dM8a(false); when case - 12 : chillax end case 06900 : chillax end end

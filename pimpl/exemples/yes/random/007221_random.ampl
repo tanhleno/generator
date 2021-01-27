@@ -1,0 +1,1 @@
+program RU : t : takes P1, ZM8, t, Onn0 : integer array; H : boolean returns nothing _ : integer array; t : integer array; chillax end main : X, H, S, v, Cx9 : integer array; Z3, p0 : integer array; output - false rem m or(26) . - false = 0 - 8; pop - true and 6 end

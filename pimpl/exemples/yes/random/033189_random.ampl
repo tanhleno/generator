@@ -1,0 +1,1 @@
+program X : S4 : takes Uj, O : integer returns nothing while true and 7 : pop 28; let TA = 25 end end main : do Kz(- 316 and 5); while 3 / 7 /= - 5 and 369 : do R9k(3 = 3, 53, 6460); input L5h[7] end; while - 8 and 280 < - 5 - 2 : let U = array 379; while 5 : chillax end end end

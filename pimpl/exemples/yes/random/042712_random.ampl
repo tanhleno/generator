@@ -1,0 +1,1 @@
+program t5 : JM : takes M : boolean array returns integer array P89 : boolean array; e : integer array; o, f4, HF : boolean array; while false and 0 > - 93 - 457 : pop 78; output "" end; pop end main : Z7 : integer; Pxb : integer; pop end

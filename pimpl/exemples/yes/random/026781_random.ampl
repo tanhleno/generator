@@ -1,0 +1,1 @@
+program b38 : a : takes F, VG : integer; u : integer array returns integer array l0 : integer array; U0, V : boolean; output ""; pop 6 = 6 end main : K, F, w, Tw : integer array; S, Z6vaa, o, S, S, O390a : integer; S : boolean array; t470a : integer; aTva, q, U4 : boolean; let yA = array not K5(54) * true - true; output(7) + 5 - 2610; output "\\@a" end

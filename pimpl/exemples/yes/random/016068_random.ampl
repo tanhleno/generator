@@ -1,0 +1,1 @@
+program nyWa : Q : takes L, k, G : integer returns integer C2L, z : integer array; chillax end main : when case - not(8) - (60) <= - true + false and 2 + 2 : chillax end otherwise : chillax end; input UkV0a[- not true * false or P7 and 19]; pop; input Dj[2 - 220] end

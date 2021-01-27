@@ -1,0 +1,1 @@
+program d : I120a : takes S, t, k, a : integer array returns boolean array chillax end main : E : boolean; JT : integer; output - not false / not 8770 or not 96 - 7070 >= - yU and 58 . - L = - 039 end

@@ -1,0 +1,1 @@
+program i9 : s : takes E : boolean array returns integer o, q : boolean array; input c9[- false]; when case 5 - 1 : while 1 : chillax end end case 1450 = 0 : when case 6 : chillax end end case 26 : pop end case 46000 : chillax end end main : Wge, d, g : integer; rTr0a, S1, L0j, Yf, b3Kaa, fl : integer array; output "0" end

@@ -1,0 +1,1 @@
+program F : x : takes P : integer; s9 : boolean array; nde : integer returns boolean array n : integer array; e8G0a : integer array; H : integer; chillax end main : do V4(- n * false / 07 and 55) end

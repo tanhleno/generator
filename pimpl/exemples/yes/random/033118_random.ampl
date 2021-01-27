@@ -1,0 +1,1 @@
+program F : y : takes L0, Y5 : integer returns nothing when case - _ and 2 >= 6 : chillax end case - 5 - 8 : output "" end case 0 : when case 8 : chillax end; pop end otherwise : chillax end end main : chillax end

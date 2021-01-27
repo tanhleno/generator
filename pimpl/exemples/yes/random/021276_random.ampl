@@ -1,0 +1,1 @@
+program J : h3 : takes q, p : boolean array returns integer array chillax end iDt : takes m : boolean; M, M8 : integer array; J0, g : boolean returns boolean chillax end main : do X3(- (6) or true or AX - 1 < - false and true + false and 74 or 39) end

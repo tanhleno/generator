@@ -1,0 +1,1 @@
+program ewZa : X : takes KT, W : integer returns boolean array input X[false and 08]; pop 03 end x : takes q, a8 : boolean returns integer t8, X1Caa : integer; chillax end vR80 : takes n, i0 : boolean; k, x240a : integer returns nothing k4d, AH30a, y : integer array; U : boolean; chillax end main : e69 : integer; x, z, V12 : integer array; chillax end

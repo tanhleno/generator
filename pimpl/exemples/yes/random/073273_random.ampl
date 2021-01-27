@@ -1,0 +1,1 @@
+program C9k : main : H, UPk : boolean; do s(- 8090 >= true rem not 0 and 2, - goS0(260) or 4 and 9 + 278, - cE2aa and 348 /= 6 - 2, - 29700 - 300 = 9); when case not q : do P8Ya(074 = 6, 896, 9); while 15 : pop end end end

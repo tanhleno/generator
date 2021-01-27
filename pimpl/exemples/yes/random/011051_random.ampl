@@ -1,0 +1,1 @@
+program z8 : i2 : takes R, G, T : boolean array returns nothing chillax end xy1a : takes P, B3p : integer array; bU, G, UY : integer; E, D : integer array; S3 : integer returns integer array Cl70a, r, s : integer; do n(9 = 0270) end main : chillax end

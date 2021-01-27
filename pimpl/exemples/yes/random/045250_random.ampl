@@ -1,0 +1,1 @@
+program y : avx0 : takes H52 : boolean array returns nothing when case false and 73 + 1 : input N end case 6790 <= 50 : while 45300 : chillax end end otherwise : chillax end end main : let h = array - false; while bgP(5) rem false <= - 53 and 55 or 09 - 96 : chillax end; output "~\n0"; while 3 : chillax end; do K(4 = 6650); when case 56 : chillax end case 0 : chillax end end

@@ -1,0 +1,1 @@
+program g1 : main : W, kR : integer; when case true or not c or 30 and 6 <= y[6] / true and 9 or L and 7 + 352 - 935 : chillax end case not 61 rem(71) : while 8 = 71 : while 2 : chillax end end; while 41 : pop end end end

@@ -1,0 +1,1 @@
+program j : main : cl0aa, s, H, zle0a : integer; a5i0a : integer array; when case - not 2 >= true or z and 4 : while 1 = 107 : input w6O end; while 00 : chillax end; when case 6 : pop end case 4 : chillax end otherwise : chillax end end otherwise : while 2 : output "4"; pop end end; output "\\" end

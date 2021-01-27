@@ -1,0 +1,1 @@
+program W6 : main : On : boolean; while(5 = 050) / false rem not 722 - o1(6) / LtX <= - C[1160] : input r46[6] end; let Jw[not y1qaa or(752) and 375] = array false * not 56 or not 20 - 7; let G = array - (707) and 5 or 2390 end

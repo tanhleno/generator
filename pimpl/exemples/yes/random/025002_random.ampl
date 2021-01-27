@@ -1,0 +1,1 @@
+program PZ4aa : i : takes C6, Mr6a : integer; u, Gj10, IX, e, h1 : integer array returns nothing M, U, h9 : boolean array; c2 : boolean; A : integer array; c, R0 : boolean; do k(k8 and 96900 + 23 - 360) end main : chillax end

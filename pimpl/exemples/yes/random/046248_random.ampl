@@ -1,0 +1,1 @@
+program s3k : Y8 : takes L : boolean returns boolean r : integer; o, J : boolean array; k0 : integer; chillax end main : do J(- false / b, - not not 297 rem 9 - 53 and 0 + 757 >= 67 and 08, (42) and 11 + 7 - 5); let qC = 8 or 0 - 84800; output "" . 4 = 34 end

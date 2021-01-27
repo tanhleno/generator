@@ -1,0 +1,1 @@
+program g : Q : takes O : boolean returns boolean when case - 685 - 2 >= 316 - 44200 : when case 39 : chillax end case 0 : chillax end otherwise : chillax end end case 5340 - 2 /= 050 : chillax end case 0 = 5 : output "" end case 51 : chillax end case 2 : chillax end; pop; output 04 end main : P : integer; m, o, X74 : boolean; L5Da, i : integer array; chillax end

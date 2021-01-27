@@ -1,0 +1,1 @@
+program W1 : main : o, H : boolean; when case false * 9060 > 7 and 8 + 531 : do Wa(- 6 - 29800 /= 3, 8 = 32400) end case not 1 : while 68400 = 923 : let R = 6; pop end; output 925 . ""; output "3" end case false and 6520 >= 6 - 74 : output "" . "99" end otherwise : output "" . 7 end end

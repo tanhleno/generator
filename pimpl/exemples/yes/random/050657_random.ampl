@@ -1,0 +1,1 @@
+program NC4 : Aq0 : takes v7 : integer; C, g7 : boolean array returns nothing pop end main : do D4(K[3] / true / true or true /= X); while(29100) rem not 9 and 958 - w and 0 : pop 5; while 220 : pop end end end

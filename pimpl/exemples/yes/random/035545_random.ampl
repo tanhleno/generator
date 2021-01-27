@@ -1,0 +1,1 @@
+program zx : _ : takes L : boolean; i27 : boolean; o : integer array returns boolean d, tG, y : boolean array; V, dGu0 : boolean; Q63 : integer; N, rIn : boolean; input Y[- false] end main : W, S, l, S6, G4G : boolean array; do M7H0(- 2 rem(231) * (23700) or 3 or(82) + 41 /= (5)) end

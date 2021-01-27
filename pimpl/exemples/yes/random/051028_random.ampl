@@ -1,0 +1,1 @@
+program L9 : X : takes Y : integer; t, o : integer array; u : boolean returns nothing chillax end main : N, Ia9a, w, j : integer array; let RR3 = false / not 52 and 8 or false and 7 or 3 > true and 4 + 1 - 4; input e[- not 4]; pop - 156 > 62; do Hcq(3800 - 8450 < 6, 63, 5, 1) end

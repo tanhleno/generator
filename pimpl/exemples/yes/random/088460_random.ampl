@@ -1,0 +1,1 @@
+program M : main : input b6Uaa[- false * not true + true / not 0 and 0]; when case - true /= - true : do X7(1 = 52, 93) end case not 3 and 84 > 0 : chillax end; do j(- (0) and 7, - 5 - 0, 2 = 953) end

@@ -1,0 +1,1 @@
+program x : main : when case - not 8 <= cI * true or true : output 62000 = 44 end; let B[false] = array(08500); when case(7) /= 6 : chillax end case 22 : chillax end case 510 : pop end case 0 : pop end case 1 : chillax end; do f(51900 /= 8) end

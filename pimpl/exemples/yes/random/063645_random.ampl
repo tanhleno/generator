@@ -1,0 +1,1 @@
+program F2 : y : takes CT9 : integer returns nothing chillax end d9 : takes d4, s, S, b : boolean array returns integer array while - 6 > 8 : when case 9 : chillax end; when case 7 : chillax end; pop end end main : while not false > y77aa(9) or(22) + 2910 - 75 : chillax end; pop end

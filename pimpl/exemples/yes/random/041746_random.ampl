@@ -1,0 +1,1 @@
+program y63aa : B2 : takes TE5a : boolean array returns boolean array Y : integer; chillax end main : e : integer array; when case - false and(36000) / a and 4 : chillax end case 45 rem 14 and 2 : chillax end end

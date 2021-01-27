@@ -1,0 +1,1 @@
+program f0 : i : takes s : boolean array returns nothing F : integer; chillax end main : J : integer; let d4[- i[02]] = array - P(304, 581) rem false + w[0] or not 6 and 61700 - 8860; pop 37 and 588 + 451 >= 6 - 313; let U = - 0 - 2 /= 4; do v(7, 30100 = 57, 42600, 57); output 32200 end

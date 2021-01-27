@@ -1,0 +1,1 @@
+program Rq : Y95 : takes A : boolean returns nothing input y3[true and 4 + 9 - 7]; while - 9 : when case 1 : chillax end; let B = 79; pop end; let J[514] = 2; do US(5, 20); when case 75 : chillax end; input d end main : chillax end

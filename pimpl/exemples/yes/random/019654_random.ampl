@@ -1,0 +1,1 @@
+program B : S : takes X, Wusa : boolean array; c, r3Q : integer returns nothing while not 5 <= 539 : chillax end end f8 : takes KbW0a, I1, d, w, hO1, x, u8 : boolean returns nothing Fd, n, C, H : boolean; chillax end main : chillax end

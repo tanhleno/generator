@@ -1,0 +1,1 @@
+program w : _y0 : takes T77a : boolean array; ED : boolean array returns nothing H03 : boolean array; I, E : integer array; do Y(- 6 - 5 - 2); input K end main : Ir, gi0, m5F0a : boolean array; M : integer; D : integer; chillax end

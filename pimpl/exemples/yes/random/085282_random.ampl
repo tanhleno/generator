@@ -1,0 +1,1 @@
+program g7 : main : J3j : integer; while - false or not 45900 + false or 8 /= not true or B and 5 + 3 - 61 : do o(2, 1 = 3, 30); input D; pop 418 end; let Mx[(2410) rem true and 1 - true - 679] = array - true / false + true; do oq2(P <= 9); while - 2 : chillax end end

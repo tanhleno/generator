@@ -1,0 +1,1 @@
+program k5 : main : W, k : boolean array; J : integer; J0, SMv : boolean array; when case true or true : pop 34; input B[26300] end otherwise : chillax end; do G9Paa(true - true and 8 or 00 - 5320 = - false + 7, i9Laa and 7) end

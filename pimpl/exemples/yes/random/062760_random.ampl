@@ -1,0 +1,1 @@
+program fp1 : XG0 : takes N : integer returns integer array chillax end main : l2R0a, R6, Lx4, pJ : boolean array; t, CJ : integer array; let xl[- true or false - not 98] = false + (414) and 3 + 2 - 15; do kuA0a(- (9340) * 60 + false or 73 - 4, - J or 54 < 491, 424 - 7) end

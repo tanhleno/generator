@@ -1,0 +1,1 @@
+program wy : main : hi7, Q : integer; w, c, Dlk : integer; c4, j, A : boolean; pop - 971 - 228 /= 2 - 9 - 71100; when case false + 9 or 393 >= vi and 3 or 782 - 07 : chillax end; while true and 97 - 0770 - 9970 : chillax end end

@@ -1,0 +1,1 @@
+program k : C3 : takes q, e9, Fj, MlK0a : boolean array; M1 : integer; AIz : boolean array returns nothing chillax end NJ : takes M61, B, a : boolean; g : integer; V : boolean returns nothing W : boolean; X4, A93aa : integer array; KzO : boolean; j : boolean; chillax end main : w : boolean; T : boolean; input Xc; pop - (7) and 4 - 84 = 148; let x = 06 - 6 end

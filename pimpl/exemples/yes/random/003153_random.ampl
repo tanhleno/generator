@@ -1,0 +1,1 @@
+program R : ofj : takes edM, s, w, u, vb : integer; gs8, y, m : integer array; Q : integer returns nothing _ : boolean; chillax end Q : takes eg, A, oo, m, V, JG : integer returns nothing qmO, N, r : integer; II9 : integer array; chillax end main : do Tfr(- not(92) / not true / true + (32) - not 0 >= - false or F) end

@@ -1,0 +1,1 @@
+program Q : main : output - not(78) / false /= 6350 + 8830; when case false * (4) and 9520 : pop; while 15 : chillax end; let gv = 63 end otherwise : chillax end; do qZ(false and 2 > 6 - 05, 03200 < 8, 6) end

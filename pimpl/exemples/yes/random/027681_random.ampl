@@ -1,0 +1,1 @@
+program J97a : X : takes W, n : integer array; r, N : boolean array; F : integer; pq : boolean array returns nothing let R0[- not 9 and 26] = array - not 0 or 51; do z(0 - 5, 6 = 38) end w : takes fd : boolean; T8 : integer returns nothing f, _4, qq, f : integer; chillax end main : pop end

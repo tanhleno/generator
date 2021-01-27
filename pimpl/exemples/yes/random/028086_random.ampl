@@ -1,0 +1,1 @@
+program Zd : A : takes s, e : integer array; sr5a, v2 : integer returns nothing vCd0a, U : integer; ll : boolean array; wp, k : boolean array; input A5[- 134 and 3 or 8 - 63000]; let q[3] = array 8 - 18 end p : takes Ma : boolean array returns boolean array do L(- 3 - 795) end main : JJ : integer; a : boolean array; chillax end

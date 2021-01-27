@@ -1,0 +1,1 @@
+program i : ce : takes So10, x : integer array returns integer pop - 9 = 3 end main : S, VLd, X, p, l, s, T : integer; E, W : integer array; t, A : boolean array; u : boolean array; C, b, EL : integer array; pop end

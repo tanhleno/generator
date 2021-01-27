@@ -1,0 +1,1 @@
+program A : Se : takes hw, N0H0, U, g5, s, T, V0h, H : boolean returns nothing chillax end V1 : takes uKl, Q7 : boolean array returns nothing when case 5 : do gK0(3); do B900a(40); pop end; pop end main : chillax end

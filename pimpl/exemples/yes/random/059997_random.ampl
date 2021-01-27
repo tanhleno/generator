@@ -1,0 +1,1 @@
+program p630a : fK : takes p : integer array returns nothing chillax end main : JQ : boolean; while false - false rem(7) or false or 01 = not n and not 2 + F : chillax end; do m6(- (32600)); input Kox; let oH5aa = 056; while 6 = 1 : chillax end; pop 0 end

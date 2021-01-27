@@ -1,0 +1,1 @@
+program Y : J : takes DGN : boolean returns nothing x, E3, U, y : integer; chillax end main : while false or 9 * Cm10 - true and 38 or 4 - 5 : output 8 = 4690; input sC; pop 37; do zhh0a(727) end end

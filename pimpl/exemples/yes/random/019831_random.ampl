@@ -1,0 +1,1 @@
+program W06aa : e : takes y, N37 : boolean array; o_raa : boolean array; WG, d4z, P : integer returns boolean array cZl : boolean array; uN : boolean array; chillax end h2 : takes k, T, z, D2, t : integer returns integer L8, a3 : boolean; chillax end main : Em, Y, o, Lva : integer; do W2(not false / not true + true or 11 and 7 + 89); input Q9; input c5 end

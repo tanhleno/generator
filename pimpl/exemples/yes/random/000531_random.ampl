@@ -1,0 +1,1 @@
+program g : R : takes L, GE, X, b, q2, dh, sG, gf : integer returns nothing QB : boolean; f : boolean; B1, l : integer; B3, u : boolean; do Q(- x < 6, 7 - 1 >= 39); output 7 . 37 end main : chillax end

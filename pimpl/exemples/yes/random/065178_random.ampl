@@ -1,0 +1,1 @@
+program W : f : takes e : integer returns nothing input S[- J] end main : do h((36 = 2) / false and 8 /= - Zv(9) and not 6390 and 95500 + (7) and 7 - 5 - 12000); while - not false < true and 9 : do S3n(8 = 5) end end

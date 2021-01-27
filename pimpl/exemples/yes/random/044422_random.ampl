@@ -1,0 +1,1 @@
+program d : y : takes F3r : boolean array returns nothing p : boolean; chillax end e : takes GmG : boolean returns nothing chillax end n : takes s61 : integer array returns nothing h3 : boolean array; chillax end main : output true + F + 04 /= - true or 00 . not 7 > 8 - 94 . "^w" . "2" end

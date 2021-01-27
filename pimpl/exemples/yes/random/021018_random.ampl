@@ -1,0 +1,1 @@
+program W : wF2 : takes w, v : boolean array returns boolean chillax end Z3baa : takes HU, Q, h : boolean array; x, N2ya : integer array; t6uaa, H430 : boolean array; f : integer array; tH : integer array; XI : boolean; j : boolean; qc10a : boolean returns nothing let vy60a = 4 = 4 end main : Vs0a : integer; p : boolean; chillax end

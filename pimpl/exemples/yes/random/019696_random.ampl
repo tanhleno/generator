@@ -1,0 +1,1 @@
+program GW9 : Pu : takes Z0h, g : boolean array; G : boolean; s, E : boolean array returns nothing cZ70, G, l60a : integer; chillax end c6jaa : takes K, Jk, N : integer; D : integer returns boolean array chillax end main : input P[true or 42 / Q7]; while 20 and(09) >= G and 743 + 1570 - 7860 : chillax end; do Ouga(not 9 + 6 <= - 350 - 81); do amLaa(- 45700) end

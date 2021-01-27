@@ -1,0 +1,1 @@
+program d1 : jK : takes gfI, r1, O : boolean; X8, uy6a, sPD, K630a, J6 : integer; r, H : boolean; QF, W4 : integer array; h : boolean; d, EpNaa : integer; v, W : boolean returns boolean array l0S0a : integer; do x(- 21 and 54500); let q[43 - 5] = array - 15; input j0Qaa[124]; do MU50a(3070) end main : LRMaa, g, D : boolean array; chillax end

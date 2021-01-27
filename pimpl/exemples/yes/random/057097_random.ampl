@@ -1,0 +1,1 @@
+program f : M : takes l : integer array; Q : integer array returns boolean chillax end main : u : boolean; b : boolean; do XHW(- true * true); when case 4 * 11000 and 9 or(7) : chillax end otherwise : chillax end end

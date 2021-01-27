@@ -1,0 +1,1 @@
+program A : v : takes n, tj : integer; KDw0a : integer array returns nothing va, xLU, _7, GH, zS90a : boolean array; H1 : boolean array; B3I : boolean array; r : boolean; c : boolean; chillax end main : do UR00a(- not not true * false + not true rem(0) - false or 11 = - jJ * true - false and 4 or 9 - 8590, - true and false + not 26 and 4 >= w or 14) end

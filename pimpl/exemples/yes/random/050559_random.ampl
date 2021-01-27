@@ -1,0 +1,1 @@
+program W7 : oAE0a : takes C7 : integer; n1, Z2 : boolean array returns boolean chillax end K : takes y2 : boolean returns boolean array pop 77 = 6320 end hO : takes v2I, W, r : integer; F8 : boolean array returns nothing do R(4 = 6) end gMP : takes w0 : integer array; A4 : boolean; Q, q, Y : integer returns integer array chillax end main : QL, J : integer; chillax end

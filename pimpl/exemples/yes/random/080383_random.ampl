@@ -1,0 +1,1 @@
+program MM : main : t : boolean; when case - 80 / c(55) < not 55 and true or not 3 and 20 : chillax end case not true or 0 : chillax end; do wP(false - 908 + 6 <= - not 5 - 48 - 6, - 6 and 37 - 205, 3290); let Wx5 = array not 90 end

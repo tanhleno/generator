@@ -1,0 +1,1 @@
+program V : main : J : boolean array; Z, p0, C : integer array; b, J : integer array; o2 : integer; Tb3, E49, X01 : boolean array; do h0(- 3 * 61 rem 8 < - true, - false * not 373, false or 42 - 60600 = - 776, - 3) end

@@ -1,0 +1,1 @@
+program U : l : takes X2 : integer array returns nothing WU : boolean; chillax end n : takes H60 : boolean array; dp, qa : boolean array; w, b1 : boolean array; h : boolean array; Q : boolean returns nothing input VU[- 4] end main : pop(62) / false and 0 + true and 35; while - (0) and 71400 >= - false : chillax end end

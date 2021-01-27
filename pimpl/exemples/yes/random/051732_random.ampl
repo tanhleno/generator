@@ -1,0 +1,1 @@
+program c : B1Xaa : takes OuZa : integer; M1 : boolean array; E : boolean; g9 : integer; BS80 : boolean returns nothing E8, uV90 : integer; output 3 - 7 <= 57 . "" . "8" . "" . "" end main : h, DRO : integer array; chillax end

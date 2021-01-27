@@ -1,0 +1,1 @@
+program B8 : a : takes i, A, d, Dh, a, V, R, s : integer; A : boolean; qL : integer; X : boolean array returns integer output - 7 - 10 = 8; output "" . 584 . "\n" . "B9\"a" end main : a98a : integer; l, KrR, e020 : integer; chillax end

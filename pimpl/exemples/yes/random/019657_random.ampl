@@ -1,0 +1,1 @@
+program Q : av70a : takes A4, m : boolean array; LU00 : boolean; V, f, V, d0, o : boolean array; Z9U, N1 : boolean returns nothing F0L : boolean; XCj0 : boolean array; output 9 - 025; when case - 0 - 38 : chillax end; output "" . "" end main : As4, w : integer; chillax end

@@ -1,0 +1,1 @@
+program Oi : _8 : takes c : boolean array returns nothing while - Z or 432 : pop end end main : Z, m : boolean array; e : boolean array; se8a : integer; Z : integer array; __V, Dk, C7 : integer; D, u : boolean; let I[- 56 - not true / not 71 and 9340 or false and 44 + 6] = array - (1) + true end

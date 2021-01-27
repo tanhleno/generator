@@ -1,0 +1,1 @@
+program l : o9La : takes C : integer array; X28, Ay1aa : integer; y, e : boolean returns nothing while - (6) and 0 > 22 : chillax end; do I9(- 03 - 7 > 6, 25); while 1 = 6 : when case 7 : chillax end end end main : while true : chillax end end

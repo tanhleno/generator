@@ -1,0 +1,1 @@
+program z : l3Oa : takes E3, C, J200, B, D, C9x : boolean array; rG, n5p : boolean; fh3 : boolean; r : integer; kW : integer array returns integer W, n21aa : boolean array; chillax end U : takes Xc2 : boolean array returns nothing M : integer; input U[- 4] end main : chillax end

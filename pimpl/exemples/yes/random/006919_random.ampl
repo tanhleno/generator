@@ -1,0 +1,1 @@
+program mv : s : takes S, Q, r, y : integer array; O, IU, nO40 : integer; o : boolean array returns boolean array input X950; do u61(- 12 - 3 > 9); pop; pop 6250 end V : takes u6v, r, Sv, n : boolean returns nothing O3Y : integer; chillax end main : j : boolean; do S4(true + 81 or s and 8530 /= - y[8] or true or 93, (170) * Y - true, true + 6 - 04 /= - 3, - 9) end

@@ -1,0 +1,1 @@
+program p : v : takes q6 : integer; XDL : integer; m, d8 : integer; Y : boolean array; E : integer array; M : integer; f, RX : boolean; F0 : boolean returns nothing y12aa, KH3, e, fzN : boolean array; do Rk5(false and 06800 + 76 - 3 <= 7 - 2); pop end main : chillax end

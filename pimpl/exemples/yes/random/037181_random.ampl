@@ -1,0 +1,1 @@
+program G88aa : q : takes v3 : boolean; tr : integer returns boolean array h, d : boolean; V, Ut, hoV, Q : boolean array; o1, z : integer array; l, dd : boolean; H : boolean; G : boolean; pop end main : chillax end

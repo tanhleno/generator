@@ -1,0 +1,1 @@
+program T : main : do NL80(8050 rem not false - 2 * 0 and 5 or false and 0 < - 4); do B(- 28 = 3 and 9, not 5 and 3, - 1 - 383, 794, 5, 4); do p0Ga(- true and 62 or 5 - 424, 7, 06); when case - 4480 /= 5 : while 1 : chillax end; do V(0); pop end end

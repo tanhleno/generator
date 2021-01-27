@@ -1,0 +1,1 @@
+program XK2a : main : while not 3 / true < - true * false : while 622 - 81 : chillax end; when case 5 : chillax end otherwise : chillax end; while 581 : pop end; let GYP0a = 05; pop; pop end; do kx(- true); pop 9 end

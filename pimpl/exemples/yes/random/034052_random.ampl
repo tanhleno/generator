@@ -1,0 +1,1 @@
+program F : Pk1a : takes M : boolean; r, W, m : integer array; z5, M, YB : boolean array; Z4 : integer; h : boolean; I : integer array returns nothing UlMaa : boolean array; R : boolean array; chillax end main : h : boolean array; input a[9 * 9 / true]; pop - 77 - 10; when case - false < 5 - 22 : chillax end end

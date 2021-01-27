@@ -1,0 +1,1 @@
+program s4 : main : let X[(0 = 41)] = array - not 4; pop; when case(06400) : do nk(50); input KV70; let RP = 19 end case - 8220 - 35 : output "I\taa" end; let j[- 961 - 0] = 6; output 8 . "[@!" . "="; output "" . ""; pop end

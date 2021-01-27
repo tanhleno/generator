@@ -1,0 +1,1 @@
+program P : m0Raa : takes q92 : integer array; pf : boolean array returns nothing chillax end O : takes B5 : boolean array returns nothing chillax end O28aa : takes v75a : boolean; g, ZUN : boolean array; t : boolean array returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Y55 : I28 : takes jW, r : boolean array; TYx0a, Q, g, y690a, D6W : integer array; v : boolean returns nothing while(2) > 0250 : chillax end end Txn : takes M0x0, a, S : boolean array; Pxm0a : integer returns nothing chillax end main : chillax end

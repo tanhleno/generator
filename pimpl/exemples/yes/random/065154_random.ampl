@@ -1,0 +1,1 @@
+program s : M68 : takes a : integer returns nothing input j; do i(63 - 28, 6 = 409); input A; let hlh = array 9; output ""; pop; pop end F8g0 : takes I : integer returns nothing input x end main : when case false rem 545 >= - IE or not 159 and 28 : when case 1 = 346 : chillax end otherwise : chillax end; while 9 : chillax end; let U[8] = 7 end otherwise : chillax end end

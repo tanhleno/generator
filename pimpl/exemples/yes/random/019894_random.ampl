@@ -1,0 +1,1 @@
+program m : T : takes b, q : boolean array; a6 : boolean array; t : boolean array returns nothing chillax end u : takes Mx : integer array returns nothing input Q46 end main : A6, Uy, WOIaa, R, rjY : boolean array; M5laa : integer array; vQ5, Mn1, D, z : integer; pop; pop; output 1940 < 863 end

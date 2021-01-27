@@ -1,0 +1,1 @@
+program o : main : S, p : boolean; He, x, q, DQaaa : boolean array; pop; while false : chillax end; when case - true + 5 - 7 /= - 5 - 958 : do V3N0a(718, 0120); while 8 : chillax end; while 2 : chillax end; pop end case 132 : chillax end; while - 83 <= 20 : input ua; do go(3) end; output "|" . 1 . "\""; output 8; let G = 0 end

@@ -1,0 +1,1 @@
+program u : b : takes sq, o, m : boolean; ou40 : boolean array; i : boolean; i, iYu : integer; fa8a, E, Yv3 : boolean array; V3, _ : integer array returns nothing uEZa : boolean array; LPAaa : boolean; dy : boolean array; do u7(T > - 4, 1 - 7 = 1); do Se0(- 54000) end main : while - 96 < - f(1) / (6) or false : chillax end end

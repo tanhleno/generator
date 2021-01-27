@@ -1,0 +1,1 @@
+program rg : main : g2 : integer; nk, S, x6, xyc0a : integer array; when case true or false > not not 403 + wRN and 9 or 5 : while - 3 - 9 : chillax end; when case 743 : do gF(5820) end otherwise : pop end end otherwise : chillax end; when case - 1 or true : chillax end otherwise : chillax end; do v7W(not 7 and 41200, 69 - 843 > 5, 7, 5) end

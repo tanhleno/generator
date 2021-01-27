@@ -1,0 +1,1 @@
+program i4m0a : J : takes O0 : boolean array returns boolean N0_0a, q, G : boolean array; chillax end W : takes tb5, Y, K8J, M18 : boolean array returns nothing chillax end main : ZuEaa : integer array; pop 6700 - true; let a96aa = array - 58100 rem x end

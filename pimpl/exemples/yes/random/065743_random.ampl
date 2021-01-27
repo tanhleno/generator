@@ -1,0 +1,1 @@
+program j : main : do wxv((5 = 67) - h510(4) + false + 13500, S(4) + f, - false and 3 < - 2); when case p and D + (7) and 3 > - 547 and 23900 - 1450 : while 0 : chillax end end case(1) - 1040 : chillax end case - 06 : chillax end otherwise : input i; input F; while 8 : chillax end end end

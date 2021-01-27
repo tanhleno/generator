@@ -1,0 +1,1 @@
+program M5 : main : t : boolean array; cv, B, X : boolean array; let r = true or(8) and 4 + 41 < - not 6 and 4; let l5 = array not u; while - not 1 and 6 = - 2 - 7 : pop; while 6 : chillax end end end

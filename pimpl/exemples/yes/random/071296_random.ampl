@@ -1,0 +1,1 @@
+program l : main : X5, t, H : boolean; while - false * false + (190) / 14 or 4 and 67 + 450 - 30300 /= - z[024] / false + true : input ZU4[- 35]; do c(6) end; let e = array - true / F8 and 4; pop end

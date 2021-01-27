@@ -1,0 +1,1 @@
+program P : E : takes o : boolean array returns nothing output 699 - 5 = 3 . "" . 070 . 91 . "-" end i : takes bU4 : integer; K, t : boolean array returns nothing chillax end main : j9Ha : boolean array; e : boolean array; T7, _, OI, T, _ : boolean; A : boolean; chillax end

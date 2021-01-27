@@ -1,0 +1,1 @@
+program N : Qe : takes s : boolean; y : integer array; Cr : boolean array returns boolean array tf_ : boolean; J, v66 : integer; chillax end main : when case true - true : output "q" . 4; do mJ(8 = 899, 5); input HUv[9] end otherwise : input gn[95] end; pop end

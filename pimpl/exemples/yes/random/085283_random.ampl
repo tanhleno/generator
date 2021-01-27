@@ -1,0 +1,1 @@
+program qFhaa : main : ayK0 : integer; while - false rem false + not 1380 and 6 - g920 and 8 = 462 / s2iaa or not 44 or 5 - 7 : while 53 - 2 : output ""; output ""; pop end end; do M(true rem not 28 and 8 <= B and 1, false and 07 or 32 >= 80500 - 634) end

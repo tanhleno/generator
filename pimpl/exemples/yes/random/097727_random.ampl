@@ -1,0 +1,1 @@
+program l : main : when case true rem true and true and 23 < AjJ rem false + 8 + 5 : chillax end case - not L85 / false and 2 >= - not 0 or 742 : chillax end; do KU(- true); output 4; do t(- 43); while 8 : do sBT(32800) end; pop 03300 end

@@ -1,0 +1,1 @@
+program i : K : takes T, j : boolean returns boolean P : boolean array; when case not 9 or 98 <= - 2 - 29 : chillax end otherwise : do e6T(460); do w(7); pop end end cYt0a : takes i, Y8P0 : boolean array returns nothing do y_1(3 > 90); output "\"<0" . 10200; when case 9670 : pop end; while 714 : chillax end; let D8G = 12 end main : P : integer array; chillax end

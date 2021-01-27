@@ -1,0 +1,1 @@
+program b : F : takes l : boolean array returns nothing chillax end Bu : takes n : boolean returns boolean c, m : boolean array; chillax end main : ha3, nf6a : boolean array; input UvH0a[- (1) / true * (95) and 566 - (7)]; let g[- true and not 09300] = false - 0 - 575 = 34 - 04 end

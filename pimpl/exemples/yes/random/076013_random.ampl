@@ -1,0 +1,1 @@
+program y : main : u, AL5 : integer; yQ, cUba, HWfaa : integer; C3, oU : boolean array; do rH00(- true and 3930 / true and 4 - false or not 0); output "b" . - 10 - 6 < 40; when case - g /= 5 : input KW[3] end end

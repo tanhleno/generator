@@ -1,0 +1,1 @@
+program f : main : R, o, nv : integer array; rhN, t : integer array; bv : boolean array; U6V0a : integer; d, R0 : boolean; J, VO : boolean; j8I0 : boolean; rGv : boolean; let J[K(96) - G0[153] - q and 47300 or 9 - 8] = array true * false / true and 6 end

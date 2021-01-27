@@ -1,0 +1,1 @@
+program P_4 : main : r : boolean array; z, e : integer array; E : integer; ob0 : boolean; Y : integer; do X2z(not 89 <= false rem not 013, - (68) * true - 06, - true - 6 /= - 2); output "9\\" . 16 end

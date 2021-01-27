@@ -1,0 +1,1 @@
+program S9 : main : f, Hf, ty : integer array; X4 : integer array; VOc : boolean array; while false / 4410 and not 840 and 724 - true / false and 2 + (2) or 8 - 7 = ed9[763] and not 2 - true or 29 : chillax end; let N[t(8) or true and 26 - 7 - 0] = N and 1; let T = 1; pop; input uX[45] end

@@ -1,0 +1,1 @@
+program i : L97 : takes Q, Ai8 : integer returns integer array o : integer; pop end main : Y4b, O8 : integer; Ns : boolean array; I, v7k : boolean array; gW, ar80, s : integer array; e : integer array; R, B : boolean; do Yr(not e4d0 or(80), - 177, - not 29000 and 4 - 8 - 65, 8 - 1, 3 = 2, 3, 5); pop; pop - 0; let Hyq = array 6 - 51 end

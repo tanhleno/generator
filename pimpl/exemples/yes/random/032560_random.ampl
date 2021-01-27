@@ -1,0 +1,1 @@
+program A3d : Y : takes T35aa, C : integer returns nothing q, yQg0a, L : integer; F : boolean array; chillax end w3Ra : takes o69 : boolean array returns boolean t : boolean array; chillax end main : pop - not true and G8 <= - (135) and 0 end

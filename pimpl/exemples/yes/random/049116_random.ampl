@@ -1,0 +1,1 @@
+program yVe : cu : takes m : boolean returns nothing when case - not 281 : input T9S0[2]; when case 81200 : chillax end; pop; pop end case 0 : output "\\\\" end case 6 = 74 : do Y(4) end otherwise : input l end end main : a, V : integer; output "" . K and 51900 >= 4 end

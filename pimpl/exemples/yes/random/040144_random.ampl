@@ -1,0 +1,1 @@
+program f : i40a : takes r03 : boolean array; W : boolean array returns nothing fN, w, FU, t, L : integer; input t[- not 8] end main : _l : integer; k, IAOaa : integer; m : integer; pop 9 or false; output not 0 or 34 - 1 /= - 80 - 4150 end

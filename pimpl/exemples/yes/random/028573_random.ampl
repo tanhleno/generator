@@ -1,0 +1,1 @@
+program E : D : takes X3u, J : integer array; yH20 : boolean returns nothing chillax end main : sA, pm : boolean; j, izw, tP90a : boolean array; b, E, M4, U : integer array; t : integer array; c1 : integer array; O, O : boolean; when case - false - (1) >= - 9 / K890 : chillax end case - not false and UYw >= - 2 and 42 : pop end end

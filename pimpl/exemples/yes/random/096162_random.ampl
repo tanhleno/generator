@@ -1,0 +1,1 @@
+program N1 : main : when case - not(286) and x[62] / true - not 3 >= - 7 and not 1 : while - 3 : when case 533 : chillax end end end case false and Q79 and 12 or(7) < - 558 or 2 - 4 : let T[2] = array 28 end otherwise : chillax end end

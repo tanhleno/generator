@@ -1,0 +1,1 @@
+program s21aa : t : takes K7, s : integer array returns nothing chillax end W : takes _, h : boolean array returns nothing do jY(- 1 - 6, 668) end main : pop; do d(Z[270] and not 63 + true + 8560 - 38, - true <= 770, - 9); let Z[- 71 - 857] = array - not 3 end

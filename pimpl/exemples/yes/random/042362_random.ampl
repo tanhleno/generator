@@ -1,0 +1,1 @@
+program C : W8haa : takes w : boolean array returns boolean when case - not 7410 or 4 = - 26 - 8810 : chillax end case 21 - 27 > 7 : chillax end otherwise : while 1 : chillax end end; output 23 . 8 . 120 . "1}\""; do p(00, 670) end main : chillax end

@@ -1,0 +1,1 @@
+program b : n6 : takes u : integer returns boolean array chillax end main : i : integer; C : boolean; input c; when case 74 and rn + true and 88100 or 92400 /= - 26800 and 3 : chillax end case true and 7 or 1 - 580 /= - 4970 : input t[74] end; let g[- g + 8 - 9480] = - 98 <= 2; output "" . "\"\\"; do C14(6150 = 06); input Z end

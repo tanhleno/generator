@@ -1,0 +1,1 @@
+program s : J : takes Pl : boolean array; Y, Z, g : integer returns nothing u8, L1 : boolean; d, c : integer; do w32(false and 2 or 3 = - 6, - 7 - 770 > 5) end R : takes C : integer; i3m0, g220 : boolean array; sj, RE, B, s5 : boolean array returns integer output 546; when case 544 : chillax end; while 4 : chillax end; let m00 = 4; input M end main : chillax end

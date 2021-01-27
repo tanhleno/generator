@@ -1,0 +1,1 @@
+program J : Ft : takes S0 : integer array; q, B, g : integer array; M, J4O : integer; U4 : boolean returns boolean array E3 : boolean array; pop 325 - 30 = 7; let _8 = array 880 end d : takes Q5r, S : boolean; j4, t3 : boolean array returns nothing chillax end main : output "" . - not 3340 = - 7 . 432 - 9 . 29 end

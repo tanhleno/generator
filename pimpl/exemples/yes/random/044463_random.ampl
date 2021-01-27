@@ -1,0 +1,1 @@
+program S : k : takes rvf : boolean array returns nothing rZ : boolean; K, i : boolean array; Tv : boolean; P : boolean; i : boolean; G5q0a : boolean; output - 0 - 67 < 933 end main : R, k60, fqy, P5 : integer; J : boolean array; J4x, K : boolean; K6 : integer; let Ml = array - false or false; while iD : chillax end end

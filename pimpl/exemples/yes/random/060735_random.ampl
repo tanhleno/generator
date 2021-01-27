@@ -1,0 +1,1 @@
+program Q1 : E : takes RAC0a : integer array returns nothing L8 : boolean; chillax end main : when case not false / 29 and false : chillax end case(8) rem N - false and 845 : pop 0 end; while - Y(25) and q and 6 : chillax end end

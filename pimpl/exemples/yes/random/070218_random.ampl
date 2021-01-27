@@ -1,0 +1,1 @@
+program a : main : W, M, B0, _ : integer; S8 : integer; V, h, qc1, H, l : integer; IJ50a, D, x, r11 : integer; Z4e, Uwr : integer array; while 94 - N : pop; pop end; while 1960 : chillax end; do O(- 939 + 240); output "" end

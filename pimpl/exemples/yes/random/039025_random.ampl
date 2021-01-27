@@ -1,0 +1,1 @@
+program T : Mw2 : takes h : boolean array; _7o, a : integer; z9, F : integer array; m4Ea : boolean array; Y : integer; n45aa : boolean; aux0, o : boolean returns nothing E74aa, Uyp : integer; e, h, Uw, x5Saa : integer; KF, W, v : boolean array; t : boolean; j : boolean; chillax end main : B5, G3ia : integer; when case - false * (70) + 7 * 6 - true : output 9 = 99 end end

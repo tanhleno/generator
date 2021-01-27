@@ -1,0 +1,1 @@
+program ZA : m : takes h : boolean array; R4, j41, qB00 : integer array returns nothing Y : integer; when case true >= 46 : chillax end; input a[02] end main : t, P : boolean; do s((074) * iEraa(1) - true); let O4Faa[- o] = - a /= - 350 - 7; output "\t80" . ""; let j = array 68 - 48 end

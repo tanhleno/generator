@@ -1,0 +1,1 @@
+program w : c : takes XK, Q3 : integer returns boolean array b52aa : integer; V : integer array; B : integer array; A0 : boolean; chillax end Oq9aa : takes C : integer array returns integer array do IGM(- 46 >= 04700) end main : chillax end

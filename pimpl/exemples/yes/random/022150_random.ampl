@@ -1,0 +1,1 @@
+program p1b : H0 : takes Xt, l : boolean array returns nothing B, H1, z, E : boolean array; input s8[J34]; let r = array - 9; input G[21]; when case 497 : pop end; when case 4 : chillax end end k : takes SWH, xhM : integer returns integer qcga : integer; chillax end main : _EZ0a : boolean; chillax end

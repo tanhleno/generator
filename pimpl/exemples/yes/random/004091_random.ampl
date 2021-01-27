@@ -1,0 +1,1 @@
+program AF : T8 : takes OO0a, N, l6, v, i : integer returns nothing y0, HR40a, R21 : boolean; do x8_aa(- 3 > - 4 - 8) end Y3X : takes y, J, x : integer returns nothing output "/'" . 516 . "" . ""; while 7 : chillax end; pop 2 end main : chillax end

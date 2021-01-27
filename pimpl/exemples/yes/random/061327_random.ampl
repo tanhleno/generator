@@ -1,0 +1,1 @@
+program J50 : w9 : takes X : integer array returns nothing let v[- 02] = array 922 and 95600 + 43500 - 0850; output "" . 9 end F : takes k1C : integer; CP70 : integer array returns boolean array ti : integer; EX50a : integer; O6, y2l : boolean; q : boolean; while 78 - 62 : input VYa; pop; pop end end main : Q, H : boolean array; chillax end

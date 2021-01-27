@@ -1,0 +1,1 @@
+program b6 : UK : takes p, Fx : integer returns nothing O : boolean; chillax end p : takes A : boolean array returns nothing Vu9 : integer; B : boolean array; input m[48] end main : Q1 : integer; input fK end

@@ -1,0 +1,1 @@
+program _ : b : takes P : boolean returns nothing t, w8, aT : boolean array; let Qm = 0 = 63 end main : output false - (4) and 40200 . "\"*"; when case false * not 25 : chillax end case - 3 and 9 /= 22200 : chillax end case 16 >= 2 : pop end otherwise : chillax end end

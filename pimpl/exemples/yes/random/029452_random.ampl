@@ -1,0 +1,1 @@
+program Q380a : E3 : takes G, fQ : integer array returns boolean chillax end H190a : takes a, j3 : integer; K9 : boolean returns integer array chillax end G : takes g4 : integer returns boolean XnK0, L, w7U : boolean; output "" . 1 end S1 : takes A, x0v, o : integer array returns integer array chillax end main : output "" end

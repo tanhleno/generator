@@ -1,0 +1,1 @@
+program u : q5 : takes xMO0a, r6E, O2 : boolean returns integer array do Sl1(- w1 or 9 - 67, - 0 - 1 /= 01) end m : takes WX : boolean array returns nothing chillax end main : v, J : integer; NW, hh, j, p5, i, G7 : boolean array; u, qs90a : integer array; R : boolean; I0, f : boolean; chillax end

@@ -1,0 +1,1 @@
+program W : main : d, L, _, f3b : boolean; when case - 0270 + vh[8] / (20) or false and 7 - 920 : let j = array - 1; input M; do Ar(15); when case 9 : chillax end; output ""; pop end case - true or not 133 + 9 : do MCq0a(3 = 81, 2) end otherwise : while 24 = 57600 : chillax end; pop 9 end; input rdD end

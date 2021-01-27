@@ -1,0 +1,1 @@
+program x : main : q, H : boolean; while W1P(65) + 452 rem(456) and 986 - not 5 and 18500 or 2 : chillax end; while - false <= true - 4 : when case 4 = 994 : chillax end case 7050 : chillax end case 347 : chillax end otherwise : pop end end; input p; let Ur = array 4400 end

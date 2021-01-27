@@ -1,0 +1,1 @@
+program Q : X : takes x : integer array; Tv4a : boolean array returns nothing output "\nI" . 0 = 3 . "1;" . "_"; while 975 - 3 : do A(2) end end main : s, P : integer; let WP[false] = not 50 / V and 1 or true and 486; while - (9) rem true and 5 + false and 1340 = - 393 : output "" . 84 . "" end; while not 1 and 2 > - 9 - 6 : chillax end end

@@ -1,0 +1,1 @@
+program p7taa : N0 : takes L, uy6, o : boolean array returns nothing input V8 end Z7 : takes Z : boolean; ps1, j, L : integer; ST, Y61, j73, g, j : integer; QH : boolean array returns nothing while - 4 /= 14 : while 39800 : chillax end end; do D8(3 = 116) end main : do v(- 2 * true * true and 35 = not Cgm / (96) - not 36800, false and U) end

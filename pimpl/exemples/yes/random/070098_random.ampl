@@ -1,0 +1,1 @@
+program a : main : Y9i0a, b2k, b, r : integer; Q, T, R0, D : integer array; H7 : boolean array; while 108 - (464) - not 88 and 5 - 6020 < - (19200) and F3V + false : output 367 . "bb" end; let a = array true end

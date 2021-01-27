@@ -1,0 +1,1 @@
+program B : pA2 : takes s : integer; g7, w : integer array; Z8Xa, x2 : boolean array; Dp : boolean; iw, l1z0a, Wkr0a : integer returns nothing when case false : let f[2] = 6; when case 1 : chillax end end case - 1 - 8 : chillax end case 93 : chillax end case 50 : chillax end case 1 : chillax end end main : chillax end

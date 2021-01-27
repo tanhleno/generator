@@ -1,0 +1,1 @@
+program C : X : takes F7 : integer; x : integer returns nothing F : integer array; n : integer; when case - not 95 and 7 + 454 : chillax end otherwise : while 292 : chillax end; input x; pop end; let L1R = array 4; while 941 : chillax end end main : EG1, o9Vaa, Vvu, O, k8 : integer array; U, HJfaa : integer array; chillax end

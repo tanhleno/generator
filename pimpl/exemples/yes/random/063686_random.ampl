@@ -1,0 +1,1 @@
+program Z : Zr : takes T950a : integer returns nothing chillax end Xk : takes M, m, yq : integer array returns nothing while - 74 = 7 : do E(43) end end main : i : boolean; p, c, L, A : boolean array; E : boolean array; M3, h4, D : boolean; chillax end

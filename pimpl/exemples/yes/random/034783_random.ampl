@@ -1,0 +1,1 @@
+program F8 : k : takes V : boolean; p, j4J : integer; v, Xs : boolean array returns boolean array while false : do C(3, 9); while 15 : chillax end; input z8 end; when case - 83900 : input Rzk0a end case 9 : do xgZa(7) end case 8 : pop end case 06 : chillax end end main : g_, k, r : integer; chillax end

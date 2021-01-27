@@ -1,0 +1,1 @@
+program VY7a : Q9 : takes J, l : integer returns nothing JD, U : integer; let U3[- true - 9] = array true and 26700; do W(62400, 95200 = 4690) end ARm : takes ja40, R, R : integer array returns boolean output 0570; let Y = 70200 end V : takes H, o4f, hj : integer array; k : boolean array returns nothing while 3 : chillax end end main : chillax end

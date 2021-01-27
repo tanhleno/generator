@@ -1,0 +1,1 @@
+program N : If0 : takes F7, Y : boolean; F, w7, Q6taa, _, j, j : integer; I : integer array returns nothing chillax end main : x, DX : boolean array; H, S : boolean; B : integer; do uH(- Bf[0] rem(2) > - (0) rem F3, - true - false > not 7, not 79400 and 4 or 44 - 62000) end

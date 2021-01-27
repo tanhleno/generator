@@ -1,0 +1,1 @@
+program y : j : takes m : integer array returns nothing chillax end t : takes kY, l, T, qZ5a, r56 : integer array returns boolean array I1 : integer array; chillax end main : when case 5 or(5) / true and 5 : chillax end; while false and false and 94 : let D16a = array 1; when case 9 : pop end end end

@@ -1,0 +1,1 @@
+program M64 : D8e0a : takes a : boolean; l, H, m, k7, QS, t, B : boolean array; q : integer returns nothing V, oaB, Q8, uwA : integer; m8, l : integer array; G : boolean; when case - false or 9 <= - 8 - 46400 : chillax end otherwise : input _; output "\t"; pop end; do LQZ0a(3 - 0590 = 3, 8520) end main : r : integer array; chillax end

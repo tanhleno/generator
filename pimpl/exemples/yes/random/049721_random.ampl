@@ -1,0 +1,1 @@
+program H4 : x : takes M : integer; Rp, n22a, R, n4 : integer array returns nothing input a9[true - 3] end e : takes v, L : integer array returns integer array chillax end main : q : integer; pop; when case - (23) + false and 8 : chillax end case true and 753 : do x(53500) end otherwise : chillax end end

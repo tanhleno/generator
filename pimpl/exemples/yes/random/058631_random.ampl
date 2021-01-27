@@ -1,0 +1,1 @@
+program Y : w : takes J : integer array returns integer array chillax end w : takes w : boolean returns nothing u : boolean; E4 : boolean array; chillax end sc : takes Ul0 : boolean; _h9a, d : boolean; i94 : integer returns nothing Y6, Y11, IP : integer array; z, rpG : boolean; chillax end main : q32, s9Va, h : integer; while - 9 <= - not(7) : chillax end; input eS[- (9)] end

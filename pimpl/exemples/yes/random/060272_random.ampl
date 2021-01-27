@@ -1,0 +1,1 @@
+program Z00 : C : takes S : integer array returns nothing d, cy, F, sZ : boolean array; input dz; let n[- 2] = array - 7 - 60; input F end main : L, HW10a, dEl : integer array; PgFaa, u : boolean; e, _5 : integer array; input T[- 9]; let t = - true and 62 or 4 end

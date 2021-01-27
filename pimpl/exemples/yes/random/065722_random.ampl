@@ -1,0 +1,1 @@
+program s7 : main : do B5((5 = 5) * true * false or 8 rem 01 > - t15[8] and true and 2 or 8 and 76400 - 96, - not false - eM and 0 - 528, h, 7 - 2 >= 37400); while - (9) / true and 5 or(9) and 84 : when case 8 : let y79a = 15; pop end case 356 : pop end case 2 : chillax end otherwise : chillax end end; let q[n and 5 + 6] = array f - 3 - 37 end

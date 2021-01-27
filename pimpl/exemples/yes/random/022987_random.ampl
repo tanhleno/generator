@@ -1,0 +1,1 @@
+program eFE : C : takes W, l5 : boolean returns boolean array VMC : boolean; chillax end main : while false + (9) or 6 and 06 - 20 = - false : let DO = 3; while 8 = 70 : output ""; pop end end; do Ym(- (00400) / (064) = - true and 75); when case true and 86 : chillax end case - 9 - 1 <= 98 : while 0 : chillax end; input b0 end end

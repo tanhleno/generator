@@ -1,0 +1,1 @@
+program o8e0a : AK : takes pn : integer; n : boolean array returns boolean Y6 : integer array; I6, t4G, q, OD : integer array; T : boolean array; chillax end main : k6, P9, m9, H, YT, S, j6 : boolean; O : integer; pop b; do h6(853, false or 7) end

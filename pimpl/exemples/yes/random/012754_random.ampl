@@ -1,0 +1,1 @@
+program p : E5 : takes hq8, D6, n : integer; N, hU, m : integer array; t, HLLaa, p9 : boolean array; m : integer array returns nothing chillax end N7a : takes pAh0a, h : boolean array returns boolean array chillax end main : n3g : integer array; _ : boolean array; input hU60a[- false or 94] end

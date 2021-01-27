@@ -1,0 +1,1 @@
+program N : W : takes f2, a : integer array returns nothing while - false : when case 04000 : pop end case 0 : chillax end end; while 2 : chillax end; while 7 : while 21 : chillax end end end main : chillax end

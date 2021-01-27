@@ -1,0 +1,1 @@
+program VG10 : zY0 : takes i, o09 : boolean array returns nothing chillax end main : I, i : integer; d : boolean; let V[false] = - true * false <= - false; while(9) + not 0660 : let m[2] = array 6 end end

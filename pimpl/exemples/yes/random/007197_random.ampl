@@ -1,0 +1,1 @@
+program L : Y2baa : takes Liy, Zx0, al, G8a : integer array; m : boolean returns boolean U6 : boolean array; j6, kK, Xr, MO : boolean array; chillax end YR : takes k : integer returns boolean HNT, Gb6 : boolean array; Xm, V, ie : integer array; chillax end main : y5 : boolean; chillax end

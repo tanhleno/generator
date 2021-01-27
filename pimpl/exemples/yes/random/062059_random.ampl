@@ -1,0 +1,1 @@
+program t4N : CK : takes yI : integer returns boolean array input s[- not 0 or 80] end e1 : takes h51 : boolean returns boolean array pop; input NV; when case 4 : chillax end case 2 : chillax end end main : chillax end

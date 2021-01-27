@@ -1,0 +1,1 @@
+program k : G2G0a : takes z : integer; F2 : boolean; U : integer returns boolean array chillax end j : takes y : boolean array; w : boolean returns nothing pop 45 = 1 end A9vaa : takes s87 : integer returns integer r, OD : boolean; F10a, o7p : boolean; output ""; let u = array 6 end main : chillax end

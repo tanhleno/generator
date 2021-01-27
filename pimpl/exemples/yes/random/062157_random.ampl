@@ -1,0 +1,1 @@
+program W41a : m : takes m : integer returns boolean array while(52) and 38400 < - 5 : when case 01 : pop end otherwise : chillax end; pop; when case 939 : chillax end; pop end end main : i9 : integer; d, W : integer; Xs8, h, q, SO50a : integer array; r950a : integer array; K : integer; while false : input jIE0 end end

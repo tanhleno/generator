@@ -1,0 +1,1 @@
+program K030a : main : X : integer; Df : boolean; OK : integer; t6 : boolean array; Z0n, H : boolean array; F570, f : boolean; S : boolean; M73 : boolean; pop i(23) + true - 7; do N(d[1], - not 99); input E end

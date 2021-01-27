@@ -1,0 +1,1 @@
+program UH : Y8 : takes i, g, y : integer array; r, N : boolean array returns integer array Q, P8, _, Hu : integer array; X29 : integer array; when case false /= 8 : chillax end case 23 : while 38 : chillax end end end b : takes Z : integer; Ni4 : integer returns nothing S4_0 : integer array; chillax end main : n1m : boolean array; chillax end

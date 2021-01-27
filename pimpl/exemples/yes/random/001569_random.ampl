@@ -1,0 +1,1 @@
+program y : _8n0a : takes BT, F, py9, FP3, h0, w8 : boolean returns nothing K35a : boolean array; chillax end main : let E = - not 8 rem not 12 >= true and 8 + 60 - 9270; input y; do A(- 00800 + 3 - 277 < 75 - 94) end

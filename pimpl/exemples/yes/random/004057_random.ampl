@@ -1,0 +1,1 @@
+program qNw0a : j3 : takes PG70, b, v, IV3, Nt : integer returns nothing chillax end Z : takes FN7 : boolean returns nothing while 6 - 60 : do X(53); let G = 5; pop end; do Bf(8, 19) end main : when case - (65) + true : let fU[6] = 6 = 08400; while 728 = 5 : chillax end; output 4160; do R(936) end otherwise : chillax end end

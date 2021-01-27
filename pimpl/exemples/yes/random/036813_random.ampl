@@ -1,0 +1,1 @@
+program C_ : lE : takes A8g0a : boolean; G : integer array; S : boolean returns integer array z : integer; M : integer array; VF : boolean array; chillax end s43aa : takes R590 : boolean; v, M, k, yn, OW10 : boolean; U, K6, V, P, OU3 : integer array returns nothing pop 7 = 6; output "O\n" . "\"3" . ""; do i(9, 83); input F end main : p53a, zVL : integer array; chillax end

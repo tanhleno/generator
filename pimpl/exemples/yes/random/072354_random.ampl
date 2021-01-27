@@ -1,0 +1,1 @@
+program e : main : PX, B, U0 : integer; Q : integer array; Q : boolean; when case - P2(94) * x(4500) or not F8N > (1390) rem false : pop 0190; while 9290 = 63 : chillax end; do Q(96, 33); do D(7); when case 58 : chillax end end otherwise : chillax end; output "r4" . 6 . 7; let d[(7)] = array not 8; output "" end

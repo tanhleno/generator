@@ -1,0 +1,1 @@
+program w : Pv : takes D_, z : boolean array returns nothing output "5"; when case 25 - 821 = 66 : input wv; input p end; when case 1 = 59 : pop; pop end; let T7Daa[2870] = array 3900 end main : K : boolean array; chillax end

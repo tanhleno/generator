@@ -1,0 +1,1 @@
+program k8 : main : Ra : integer array; E, B6 : integer; pop not true * l or(3) and 45 or 90700; input y8; do w9D(- (41800) - 29500 - 6210, - 38, 3); output 7 = 05900 . "t=" . 0; let zB[08] = array 8140; input gN5; input Z52; do q9Ka(3) end

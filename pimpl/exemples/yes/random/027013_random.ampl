@@ -1,0 +1,1 @@
+program s : y1 : takes fM, v : integer array; c, en80a, x1, b, GL, B3, Q5 : boolean; S, z : boolean array; H : boolean array; M : integer; Cl7, EY : boolean; I, x0 : boolean; A : boolean; vb90a : boolean returns integer let gy[- 7 and 2700] = array true end main : while 9 - true * false : input s[- 3] end; output "" end

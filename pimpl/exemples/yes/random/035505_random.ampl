@@ -1,0 +1,1 @@
+program Qyq : Ot : takes P3 : boolean; p3da : boolean; K7 : integer; e, Tz10, E2_aa, d, K : integer array returns nothing while H = - 25 : do K(7) end; do q(86900 - 6, 0) end main : do j((7190 = 148) * O(19100) rem j and 03500 - 1 and hG <= - g / not 7 and 4 or i) end

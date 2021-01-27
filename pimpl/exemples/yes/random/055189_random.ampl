@@ -1,0 +1,1 @@
+program m : HC5 : takes RY0a : integer array; T, m9 : integer array returns boolean l8 : integer array; chillax end main : x, a4 : integer; w9, J : integer; while - (3 = 2) * 1 * false and 546 : do q(- 6, 20 = 60, 55, 7) end; pop - false and 92 - 28500 - 5370 > - 2; when case 14 - 64 - 6 : while 9 : chillax end end end

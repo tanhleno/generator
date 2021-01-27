@@ -1,0 +1,1 @@
+program S460a : m : takes p, d, C4 : boolean; yn : integer returns nothing O3 : integer array; chillax end main : y, t : boolean array; when case - j / (1) * false + not 5220 rem true and 84 : chillax end; pop not 6 end

@@ -1,0 +1,1 @@
+program m4 : O : takes q5, sJXaa, y9z, QlU, SMv0a, T95aa : boolean; K : integer array; qN : boolean; _6Q, Y, Q : integer array; k : integer returns boolean t, i5l : integer; chillax end main : q, g, C6, H, G : integer array; _m, n : boolean array; let zH[- 4 + (7) * 0 and 7 + 6280 - 3750 - 3] = array ds * v(0) + false - false - 554 - 20 end

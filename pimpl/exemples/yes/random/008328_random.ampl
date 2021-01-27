@@ -1,0 +1,1 @@
+program k : b : takes lHW, oX, rI, s : integer returns nothing r3ea : integer; i, m, i, z : boolean; e : integer array; nFT0 : boolean; xb : boolean; while - Lz and 3 = - 19 : while 6 : pop end; while 7 : chillax end end end main : u : integer array; chillax end

@@ -1,0 +1,1 @@
+program W320 : k : takes E : integer array returns nothing chillax end main : when case - not 218 and not true and not 07 and 94 < - 1 rem 6 : pop; do b(466 = 5, 618, 0) end case false rem false and 82300 or 18 and 60300 < - (2) : chillax end case not 52 and 8680 : do F(157, 4) end; do MC50(- 74 / (8), true - 0 - 2, 55 - 0 /= 716, 8); output "*" . "=7" . 3 . 5 . "" end

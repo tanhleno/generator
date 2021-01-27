@@ -1,0 +1,1 @@
+program k3X0a : n : takes p : boolean array returns nothing B4 : integer array; chillax end main : A, n07aa : boolean; when case true * not not 2400 : chillax end; do D4(- (86100) - false < true and 3 - 7 - 3, - (61) and 35 - 42600 - 7 >= 3); input hy; pop 5910; let K13 = 9 end

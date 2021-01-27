@@ -1,0 +1,1 @@
+program T : U71a : takes X, o : boolean array; Wh80, G : integer returns integer W : integer array; UkT : integer array; chillax end main : s, o : boolean; J970a, LD : boolean; T, NU, ef, Apj, CY8aa : integer array; s, z1, C : integer; let JI[- 8 / 3] = (841) * (79000) and 05900 <= - false or 4 - 807; output "" . 4 end

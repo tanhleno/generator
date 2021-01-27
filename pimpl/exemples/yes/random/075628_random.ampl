@@ -1,0 +1,1 @@
+program r : main : s, F : boolean array; when case - H[405] and 43 <= - G rem true and 0 : input ng70a end case not not 20 or not 61100 and 08 : chillax end otherwise : do a11(001) end; do J4(false /= - false or 26, 9520 - 5 - 2, - 06 - 1 = 45, 8 = 3100, 331); pop end

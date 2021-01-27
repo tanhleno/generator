@@ -1,0 +1,1 @@
+program Q4 : Q : takes XS : boolean returns boolean fY6 : boolean; when case - true /= 6 : chillax end otherwise : output ""; pop end; while - 880 /= 68 : chillax end; while 8 : output "" end; while 3 : pop end; pop; while 9 : chillax end end main : chillax end

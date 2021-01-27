@@ -1,0 +1,1 @@
+program hL : IH00 : takes vx : boolean array returns nothing a : boolean array; Y, R39, K8 : boolean array; _, _D : boolean array; e : boolean; t : boolean; q : boolean; input TJ6 end main : D1, i, v : boolean; chillax end

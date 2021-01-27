@@ -1,0 +1,1 @@
+program I : K4 : takes Q, LF : boolean array returns integer array output 67 <= 501 end J : takes u : integer array returns boolean while - 3 : do k4(4); input JqY0 end; output "" . 407; while 8 : pop end; output "\\" end main : y : boolean array; O : boolean; yu9, oS_ : integer array; C : integer; chillax end

@@ -1,0 +1,1 @@
+program AJ70a : n : takes W, S, NIWaa : boolean array returns integer array input i end main : Q, V600, G, B, z : boolean; kL0 : integer; output - (6) + l7G and 42 or 2370 . "\\"; do w2(- (00), - (684) and 511 + 9 - 976) end

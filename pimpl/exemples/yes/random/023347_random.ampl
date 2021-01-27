@@ -1,0 +1,1 @@
+program Cb : cBf : takes z6, lW : boolean returns boolean when case - J : chillax end case 08 <= 9 : do Pu(03); when case 20100 : chillax end; pop end case 86 : let M3 = 03000; pop end case 60 : chillax end case 2 : chillax end otherwise : chillax end end main : chillax end

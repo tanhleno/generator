@@ -1,0 +1,1 @@
+program H3d : KkGaa : takes b8, e050 : boolean returns nothing output - 08 <= 196 . "3" . 28; when case - 3 : chillax end; let vv4[7] = array 903 end YN : takes h, w, E : integer array; D, LW : integer returns integer chillax end main : chillax end

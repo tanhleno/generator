@@ -1,0 +1,1 @@
+program w : Jy : takes k1 : boolean array returns integer array V8 : integer; F, m, O : boolean array; chillax end main : when case(7 = 2) and(9) /= - F / not 2 and 8 + n and 0 : chillax end otherwise : chillax end end

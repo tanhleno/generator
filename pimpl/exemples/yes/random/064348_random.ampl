@@ -1,0 +1,1 @@
+program B : t25 : takes qV : integer returns nothing Q, u, NW : integer; dk3, Dw, q, n : integer array; when case not 19 and 314 = 3 - 1 : chillax end case - 48900 - 0 : let X = 42 end case 569 = 90 : chillax end case 0260 : pop end otherwise : let _ = 15 end; input fSuaa end main : chillax end

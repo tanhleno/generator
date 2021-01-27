@@ -1,0 +1,1 @@
+program U4 : v : takes ET : integer returns nothing when case true or 76 > - 52500 : pop; input e; output ""; pop end case - 2 > 4 : chillax end end Aw : takes B4Oaa, g, L, c : boolean; gHw : boolean array returns nothing M3v0a, km, K : boolean array; chillax end main : chillax end

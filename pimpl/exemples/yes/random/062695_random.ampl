@@ -1,0 +1,1 @@
+program F : o : takes H : integer returns integer array chillax end A : takes V, Z, L9P : boolean; JI : boolean array returns nothing input p50; when case 46 : pop; pop end otherwise : pop end end main : RBp, j : boolean array; pop - 3 and true and 11 - not 6 and 3 or 8580 - 35 end

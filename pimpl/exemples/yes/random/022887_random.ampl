@@ -1,0 +1,1 @@
+program v : i : takes s, n : boolean returns boolean array chillax end main : v4, a : integer; do t(true < not false and not 99 and 0, - not false > - 02 and 0 - 0, - (4) /= - 78, 1 - 42800); do s480(- not not 7 / false); input H1c0a; do uL(- 9 - 5 < 9) end

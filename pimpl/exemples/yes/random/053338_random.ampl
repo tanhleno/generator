@@ -1,0 +1,1 @@
+program v1F : f : takes G57a : integer; g7 : integer returns nothing o : integer array; do FG((3) and 63 <= - 780) end fX : takes Q, M01 : integer; L, Z, B, dL40, bc, q : boolean array returns nothing eX : boolean; a, S, Ex5aa : boolean; Q : boolean; l : boolean; input x[- 25800 - 87] end main : aF : boolean; chillax end

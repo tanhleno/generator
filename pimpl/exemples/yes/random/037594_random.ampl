@@ -1,0 +1,1 @@
+program y : lqL0 : takes C99 : boolean array; wx, z6, Tv, s, OR : boolean; U : integer array returns nothing nu : integer array; let yt[(8)] = array - (058) end G47 : takes wM : integer; U, z4 : boolean returns boolean array YR, s : boolean; chillax end main : chillax end

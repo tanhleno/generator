@@ -1,0 +1,1 @@
+program H83 : A12 : takes U : boolean returns integer array K5 : integer; c, P : integer array; pop; output 473 = 07 end N : takes S7L : boolean returns boolean array chillax end main : H, I540 : boolean; pop end

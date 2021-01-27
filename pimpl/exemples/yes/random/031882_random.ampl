@@ -1,0 +1,1 @@
+program y9 : iIt : takes W, uk : integer returns integer array input K[not 3]; output 7 end j : takes vi : integer array; I4ga : boolean array returns nothing Kd : boolean array; chillax end main : Y : boolean; do k_3a(not not false * not true rem M); output "" . "" . 444 . 87 . 4 . "!" end

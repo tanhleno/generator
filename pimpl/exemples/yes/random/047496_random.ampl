@@ -1,0 +1,1 @@
+program p : qx6 : takes D1 : boolean returns nothing chillax end v1U : takes qwm0 : boolean; w : boolean array returns nothing I4c0, Z : integer array; while - 72600 - 0 : chillax end; do jV(5); output "\n" end dx : takes y : integer returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program v3 : C : takes r78, G9, d1s0a : boolean array returns nothing o : integer; J9, W : boolean; W48 : integer; output "" . 94 = 79 . ""; when case 7 - 3 : pop; do m9(25) end case 5 : chillax end case 6 : chillax end case 3 : chillax end otherwise : chillax end; do C(9 = 79) end main : chillax end

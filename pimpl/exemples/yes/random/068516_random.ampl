@@ -1,0 +1,1 @@
+program Y : main : B3, Z, mM, v, u, b : integer; pJ : boolean; while - 958 * 64 < - u33 : chillax end; while - true + not 0 and 9 <= - 21700 or 24 - 3 : pop 43200; while 4 : chillax end end; let T = - 5 end

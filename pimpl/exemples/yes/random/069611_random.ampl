@@ -1,0 +1,1 @@
+program Gfla : main : qW5, N, I, O : boolean; let x7c = array K - v[1] rem Aq6 - false and 6; while - true or not 2 and 46 or 3 <= - 7 and 17 + 8 : when case 7 = 0 : when case 2 : chillax end end end; while not 2 or 52 > 46300 - 8 : input A0; while 68 : chillax end end end

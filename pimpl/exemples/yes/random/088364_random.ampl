@@ -1,0 +1,1 @@
+program l : main : input A[(9 = 4) rem not false * (60) - true]; when case - not false / false > - not 8 : output 1; output "\\" end case - not 61 - 722 : do SI(1, 9950); while 1 : chillax end; while 57 : chillax end; pop end; when case false and 733 : chillax end; when case - 6 <= 8 : pop; pop; pop end case 6 : do l(163) end end

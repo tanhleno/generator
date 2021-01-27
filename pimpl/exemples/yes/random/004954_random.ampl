@@ -1,0 +1,1 @@
+program Y : dc : takes w, c, V, _ : boolean array; F, r : integer array; m3Aaa : integer returns integer array do ks(- true and 4 + 8 - 203, - 16) end H : takes p : integer array; K1, o6 : boolean array returns integer array chillax end main : k9V : integer array; A : integer array; chillax end

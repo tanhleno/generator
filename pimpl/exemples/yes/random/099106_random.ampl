@@ -1,0 +1,1 @@
+program w : main : while false / false rem 9 and 2400 or QjI[0] + 21 and 37 or 596 - 45 /= - not true : pop 161; when case 967 = 3 : do SHL0a(15); pop end case 32 : pop end; pop 7; while 4 : chillax end end end

@@ -1,0 +1,1 @@
+program s : main : g : integer; G7q : boolean array; lEf0 : boolean; let h = array not false / not true; do Z4q(59600 or not 7 and 5 >= not 0 and 07000, - not 6 and 09 or 5 - 692, - 33700, 18500 = 6) end

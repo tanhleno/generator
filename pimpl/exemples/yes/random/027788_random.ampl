@@ -1,0 +1,1 @@
+program g : Z_ : takes B6, GDqa : integer array; H66a, O : boolean returns integer array chillax end COka : takes s1w, J : integer array returns integer when case - 3 - 61700 : chillax end otherwise : chillax end; pop end main : input E4[true]; input m6; input l[- true and 7 + 7]; output ""; when case 0 = 6 : chillax end case 21 : chillax end; input IA[8] end

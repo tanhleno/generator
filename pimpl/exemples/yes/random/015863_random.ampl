@@ -1,0 +1,1 @@
+program i : A : takes _v, R, s : integer returns boolean let z = - 7 > 68 end OGC0a : takes W, x : boolean; B, H : integer array returns boolean array chillax end main : while(7) and 97 * h : chillax end end

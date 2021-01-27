@@ -1,0 +1,1 @@
+program Q : Cb50 : takes c6 : integer array; W0n : integer array; t, h : integer; H : integer array returns nothing chillax end main : input O[B and 6 rem d and 6 - (4)]; while true / false and 1 : do O(70 = 81, 3) end; while true : when case 4 : chillax end otherwise : chillax end; pop end end

@@ -1,0 +1,1 @@
+program Yv5 : Iy : takes Es : boolean array; m5, n8l, T, t1ua, Rfz0, BL : boolean returns integer array do Yw8(- (6) and 19 - 7); input mIna; let v[9] = 8; do lr9(57, 41); do d(4) end main : chillax end

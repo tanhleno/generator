@@ -1,0 +1,1 @@
+program y : main : qRt0 : integer; while D[000] / Z or HA6 rem not 9 and 90 + true > - 14 * false and 9 : let xIJ = array 598 - 9; do y(56 = 9); do o4La(12); when case 5 : chillax end end; let YZ = - false and 2; output - 6 - 3 . 5 end

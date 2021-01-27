@@ -1,0 +1,1 @@
+program z5 : R : takes a, h : integer array; S, K, p : boolean array returns nothing x57, E : boolean; chillax end UTQa : takes L1X, bD80a, v850a, u8, k2, LZ2 : boolean array; E44aa : boolean returns nothing m : boolean; input I; when case 51 = 2380 : while 72900 : chillax end; pop end case 4 : pop end case 6120 : chillax end; input h[4] end main : chillax end

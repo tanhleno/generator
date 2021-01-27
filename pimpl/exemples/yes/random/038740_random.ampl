@@ -1,0 +1,1 @@
+program Q : e : takes e : boolean array; hBY0, W5C : boolean array returns boolean Fa4 : boolean; input Q; pop 99 end r15 : takes O280a : boolean; K, T5 : boolean array returns nothing chillax end main : K3, z8, B, bt5 : integer; O, hoI0 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program n : L0 : takes X, D, o : integer returns nothing B_, cH8 : integer array; N, B0v, T1, G : boolean array; pop; let e = array - 3 end main : let p[- p3f0a(3, 552) * 8 rem 64200 or 3 - true or 218] = array 1 rem not true / (8) and 2 - false; while - true rem false and 05 - M3 : let W[3] = 50 end; pop 918 <= 9; let H7 = 8160 end

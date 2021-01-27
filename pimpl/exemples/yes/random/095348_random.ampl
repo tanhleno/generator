@@ -1,0 +1,1 @@
+program _4D : main : pop true rem(6); while - (6) / 857 and 13 : pop; let X[9] = 28800 end; output - 42300 - 185 = 3; when case - 9900 : let CH = 1 end case 3 : input A7; pop end; let M = array 072 end

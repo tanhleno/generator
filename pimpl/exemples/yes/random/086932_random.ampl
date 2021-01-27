@@ -1,0 +1,1 @@
+program SLP : main : k : integer array; e : integer array; output - false / false and 8 <= - not 2 and 1 + 4 . (1) and 8 . - 572; let I[(62) / 1 or not 2 and 5] = 88 or 742 < 0 - 8; output ""; let Sy30a[- 7] = array 1070 end

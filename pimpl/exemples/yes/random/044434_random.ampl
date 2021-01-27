@@ -1,0 +1,1 @@
+program T : a : takes X70aa : boolean array returns nothing G : boolean; chillax end main : Q : boolean; do L(- (61 = 4) + true - (5) and 464); do h(- true / 0 + true or 396 = not 5 and 889, - true and 55); input C9z[- 4 and 7 + 7 - 57500]; input y5[- 6 - 1660]; when case 5 = 18 : chillax end end

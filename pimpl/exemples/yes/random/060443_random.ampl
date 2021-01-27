@@ -1,0 +1,1 @@
+program G0 : Q360a : takes vQ : integer array returns nothing YI, V6 : boolean; chillax end y : takes J, b, v, A : integer; j95 : boolean array returns boolean array chillax end main : pop; do P0A0a(not(0) = 403) end

@@ -1,0 +1,1 @@
+program v8 : H29 : takes V, G02 : integer array; f : integer; e : integer; T : integer array returns boolean N, Q : boolean; chillax end D29a : takes U : boolean array returns nothing chillax end main : chillax end

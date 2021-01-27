@@ -1,0 +1,1 @@
+program w : z : takes D21 : boolean array returns boolean r : integer array; F8, Z9 : boolean; when case - U and 1 <= 4 : pop; pop end otherwise : chillax end end J : takes RZi : integer; a : integer array returns boolean output 9; pop end main : chillax end

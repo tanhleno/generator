@@ -1,0 +1,1 @@
+program nZ30 : LV : takes F, u : boolean returns nothing chillax end nE : takes l3 : boolean array; i2e : boolean array; si : boolean array returns boolean array Q : integer; ftoaa : boolean; p, d : boolean; Z : boolean; when case - 884 : output "" end otherwise : when case 18 : chillax end; pop end end main : chillax end

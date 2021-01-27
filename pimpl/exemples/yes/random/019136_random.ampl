@@ -1,0 +1,1 @@
+program W : F4a : takes AE4, tf7 : boolean array; F, B : boolean; H, ym8 : boolean array returns boolean array chillax end l : takes T : boolean; c3, h730a : boolean array; s : boolean returns nothing NG : boolean; chillax end main : input o9[0 + not true and(74) + true and 310 or 2330] end

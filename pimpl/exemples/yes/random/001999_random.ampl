@@ -1,0 +1,1 @@
+program a02aa : o7 : takes jd, x3, bH, vl, lWI, qU : integer returns boolean chillax end main : K, P : boolean; g, N, HKXaa : boolean; S : boolean; W, y2 : integer; C, e15 : boolean array; chillax end

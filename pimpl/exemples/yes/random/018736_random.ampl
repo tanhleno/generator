@@ -1,0 +1,1 @@
+program u : D : takes N, g : boolean array; r, rpQ, rh, s : boolean array; P6, mw7 : boolean array; a2 : integer array returns boolean array Or, WO : boolean array; i08, t08, n : integer; _, x7kaa, bZ : integer; chillax end main : chillax end

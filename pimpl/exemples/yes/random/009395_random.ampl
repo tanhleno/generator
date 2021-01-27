@@ -1,0 +1,1 @@
+program N0 : P690a : takes N, RK, C : boolean; d : integer array returns nothing f, Bz50 : boolean array; Z, R4, L9C, v : integer; output "" . 79 . 7 . 37; pop 0590 = 4 end main : when case not 3 - not 0 * true or L8 and 5 + 0 - 8 = 8 + 4 : chillax end otherwise : let fB7[3] = 7; while 1 : pop end end; input e[V] end

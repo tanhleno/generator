@@ -1,0 +1,1 @@
+program VbV : M : takes a, b, c7, W : boolean returns integer array chillax end main : when case - false and Fgt(55) and 9 : chillax end case not true : chillax end case - 68 and 8140 + 4 : while 3 : chillax end; when case 22 : chillax end end case 103 - 45 = 24 : do B(83) end case 18 = 6 : let Kb = 7; pop end; while(4) rem i : chillax end end

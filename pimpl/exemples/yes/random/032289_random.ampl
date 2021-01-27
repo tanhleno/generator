@@ -1,0 +1,1 @@
+program S : D8 : takes v, Tz30 : integer returns nothing chillax end m : takes D : integer; Y, l : integer array returns integer array M : boolean array; W, s, CV : boolean; do _(782, 5 = 9) end main : kL7a : integer array; A : boolean array; chillax end

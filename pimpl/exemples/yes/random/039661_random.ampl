@@ -1,0 +1,1 @@
+program k9fa : c : takes a : boolean array; C2_a : boolean; W_8 : boolean returns integer array F, y, U3f0, h65a, c : boolean; f1 : boolean array; chillax end F : takes T : boolean; K7 : integer array; i5za, B : boolean; R : boolean array; V : boolean returns nothing V : integer array; chillax end main : input _ end

@@ -1,0 +1,1 @@
+program OH : main : O94a : integer array; R, Cj6, Q : integer; when case false - true / true and 9 : when case - 3 : chillax end otherwise : chillax end; input P; input U1[396]; pop end case - T[6] - not 1 < (3) or 4 : pop; while 282 : chillax end; do o4(39) end case - MR40a and 0 - 7 - 7060 < - 8100 : chillax end case - 3 : chillax end; output true + 6 . "<" . "7" end

@@ -1,0 +1,1 @@
+program D : main : rxD : integer; while 7 < - q * not 30 : when case - 2 <= 6 : output ""; while 28 : chillax end end end; while(68700) + not 997 and 7 : while 89 : do q(4); pop end; output ""; while 3 : chillax end end; do m7(not 1 and 499 <= 3); when case 1 - 2 : output ".Xaa"; output "" end case 58 : when case 0 : chillax end end end

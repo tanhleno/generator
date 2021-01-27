@@ -1,0 +1,1 @@
+program TnXaa : p : takes Y : boolean array returns integer q, U : boolean array; chillax end Ul : takes W : boolean; F04, C, P, tcS : boolean array; t : boolean; L : integer array; C : integer; q, d_ : boolean; n : boolean returns boolean chillax end main : chillax end

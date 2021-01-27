@@ -1,0 +1,1 @@
+program Q : A570 : takes Z4, r : boolean array; U : integer array returns boolean do WJ(false or 338 >= - 46600, - 12 - 1) end k : takes IPe : boolean array returns boolean array let wr1 = 742 = 0 end main : chillax end

@@ -1,0 +1,1 @@
+program I : p5 : takes n1 : integer returns nothing output 0 . 2 . ""; output ""; when case 4 : pop end otherwise : pop end end main : X57aa, Yj3aa, g8g0a, R : boolean; p : boolean array; do t(- A(8, 5) * true - (997) and V9 and 3 = - not not 131 - 5) end

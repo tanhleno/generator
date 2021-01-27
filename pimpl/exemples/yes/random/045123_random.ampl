@@ -1,0 +1,1 @@
+program qO : m : takes L : boolean array returns nothing output ""; pop end main : let aF[true rem not(56) / (48)] = array - f5[7] + false rem 6 and 6; when case - not false : chillax end otherwise : do u(2, 7) end; output - 19 /= 42 . "U" . 7 . "=7" . "\"'0a" end

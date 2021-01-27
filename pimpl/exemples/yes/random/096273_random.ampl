@@ -1,0 +1,1 @@
+program s : main : when case - not 81 - true : when case - 4 > 8 : chillax end otherwise : output "8"; pop end; when case 5 = 1 : chillax end otherwise : pop end end; let Q = array - true and false end

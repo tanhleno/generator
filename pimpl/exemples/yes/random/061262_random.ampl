@@ -1,0 +1,1 @@
+program Z0 : W : takes M : integer array returns nothing input a7[true and 8] end main : let T2X0a[- 5 or 7 and true + false] = - not false * (8) - 1 + 0 /= 7 and 27 + 50; let W = - not 9 <= 82800; do SEw(- true and 4) end

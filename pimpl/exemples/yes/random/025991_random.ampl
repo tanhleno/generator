@@ -1,0 +1,1 @@
+program v : zt20a : takes u, M : integer; S : boolean; P, Y, JJ : boolean; rr4a, J16, M : integer array; Y3 : boolean array; mXEaa, Q, YB4 : boolean; pA, Iw0a : boolean returns integer I7 : integer array; chillax end xA6 : takes dyD0a : boolean returns nothing chillax end main : chillax end

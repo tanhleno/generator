@@ -1,0 +1,1 @@
+program z9s : U : takes k, Y, x : boolean array; D0B, a4J0a : integer array; _, b, X : boolean; Z, B : integer array returns nothing O17aa, F : boolean; chillax end main : x6, uh8 : boolean; output "" . - false and 2 + 26 . 00 = 83800 end

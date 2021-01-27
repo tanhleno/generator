@@ -1,0 +1,1 @@
+program XM : J : takes a, k, F : integer array returns nothing k05aa : boolean; chillax end B : takes k, A : boolean array; _ : integer array; M480a : integer returns nothing chillax end main : V : integer array; C : integer array; Om8aa, iA, sY, Sfq : integer array; let Ft[- Y[49]] = - not not 0300 rem(2) and 66 >= - not 85 end

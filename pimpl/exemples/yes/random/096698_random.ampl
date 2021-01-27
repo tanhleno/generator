@@ -1,0 +1,1 @@
+program yt9 : main : when case - true rem 5 * (4) and 87 < false : chillax end case - false and not 228 : let MB3a = 3960; while 84 : chillax end end otherwise : chillax end; do X3_((7) or true - 2 - 141 /= not 1 - 62 - 834, not 88 and 6, 30 /= 009) end

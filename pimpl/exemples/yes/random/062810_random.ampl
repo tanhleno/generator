@@ -1,0 +1,1 @@
+program X3 : FM : takes c : integer returns integer array do V(- not 66); let R6Maa = array 76 - 71000; input S[164]; pop 9750 end H10 : takes A : integer array returns nothing s : integer array; Z, rinaa : boolean array; tZ, Zs : boolean; chillax end main : input w2A[- 6]; while K(43500) - not 8280 or 8 - 60 >= - not 796 and 69 : chillax end end

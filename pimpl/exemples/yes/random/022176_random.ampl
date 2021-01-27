@@ -1,0 +1,1 @@
+program V17a : u : takes ULa0, I570 : boolean array returns nothing S, ou, x : boolean; chillax end main : pop - e590 - (83) or 5 - 4; when case 1 + false and 71700 - 63700 - 6 <= - false : pop; input q[37000]; output ""; let V4 = 34; pop end; output 5 - 6 = 14 end

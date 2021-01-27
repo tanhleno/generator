@@ -1,0 +1,1 @@
+program a : K : takes v6, m : integer returns nothing Ng : boolean array; L, E : integer; v, IWl, f : integer; input l end q : takes p4v0 : boolean array returns nothing y8, WX4, _ : boolean array; L : boolean; chillax end main : V, Xkd, T4 : integer; f, Rk : boolean; chillax end

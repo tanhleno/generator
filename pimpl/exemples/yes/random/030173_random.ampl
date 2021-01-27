@@ -1,0 +1,1 @@
+program p : r5 : takes oVF, tg : integer array returns integer while not 9 and 6 /= - 6 : output 87 . "" end; while - 2 : chillax end; while 74 : do i2G(6) end; do B(1, 5); output "^4!a" end G : takes f : boolean; Mg, g0V0a : integer array returns nothing pop 14 end main : K : integer; chillax end

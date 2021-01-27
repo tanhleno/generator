@@ -1,0 +1,1 @@
+program _ : E : takes m, l : integer array returns nothing chillax end p : takes c : integer returns boolean l3wa : integer array; Q16, H : integer array; t2, Fr : boolean; pop 1 = 2; pop end main : u : integer; VCY0a : boolean; chillax end

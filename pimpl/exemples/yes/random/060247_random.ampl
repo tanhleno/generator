@@ -1,0 +1,1 @@
+program B : aUi0 : takes Yn10 : integer array returns nothing c, T, CFDaa, w : boolean; chillax end Yd : takes OD : boolean returns integer array chillax end main : do B(- false rem y[0] rem false - not S8d0 * false /= false) end

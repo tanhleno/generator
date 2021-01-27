@@ -1,0 +1,1 @@
+program H : _77 : takes J5, _, Q_5a, nX : boolean array; J, D, C, H5 : integer returns boolean array chillax end c : takes GVa0 : boolean returns integer while - 3 /= 19 : input m end end main : z, u6 : integer array; chillax end

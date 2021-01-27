@@ -1,0 +1,1 @@
+program y : B : takes kG, Z : integer array returns boolean S : integer; K, MW50a, l9, u2Taa : boolean array; G, w3 : boolean array; i78, s : boolean; Ba : boolean; Kf : boolean; let I[- true and 9360 - 81900 - 9] = 7 - 0; do h32(- 9 - 89100) end main : chillax end

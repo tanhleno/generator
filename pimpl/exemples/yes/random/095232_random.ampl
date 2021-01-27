@@ -1,0 +1,1 @@
+program l43 : main : pop 12 < - false or 18900; output true and 408 - 19100 - 566; let O[- Qf30 and 3 + 4880] = array false + 2 - 7320; pop 0 = 49; do V6(953, 209, 61); when case 9 : pop end case 5 : chillax end otherwise : chillax end; while 0 : chillax end; let f = 0; pop end

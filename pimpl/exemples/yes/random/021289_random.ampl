@@ -1,0 +1,1 @@
+program Y : D9 : takes z7, G8 : boolean array returns integer array chillax end main : do F(- 18 rem(61900) * P9 or u[8] + cb00 - 8 - 161 > not not 38400, - true rem 5 and 2 - (6) + 5 < - 6 and 0 or 3); input xW9aa[- not false] end

@@ -1,0 +1,1 @@
+program reG : t850 : takes d, b2k0a, d, J : boolean array; C, B, O6o : integer returns nothing input D[A + 70]; do u(- 1 - 80); pop; when case 7 : pop end otherwise : chillax end end main : Z, c, g, s, nL, HU : integer; input N[false] end

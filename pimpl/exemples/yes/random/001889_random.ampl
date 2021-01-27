@@ -1,0 +1,1 @@
+program M : E0M : takes C, u9N0a, U0, V, t, N0 : integer array returns integer array X6c : boolean; let V[- y and 7620 + 989 - 183] = array - true; output "" . "\\" end main : F, t, F : boolean array; chillax end

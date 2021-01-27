@@ -1,0 +1,1 @@
+program D : main : output - GK[5] rem not 3 and 37 + 12100 /= - true . - true and 27 - 3600 - 473; let d03aa[- (8) / (4) - 46 and 5 + 70] = array true + false and 23; pop - 8 - 0; input M6; input n end

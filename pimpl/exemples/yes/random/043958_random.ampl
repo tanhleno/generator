@@ -1,0 +1,1 @@
+program o : Zj : takes bD30a : boolean array returns nothing y, h, xb4aa, _, z : integer; w0c, t : integer array; let vO[99400 and 07 - 59300] = array - false - 66 - 653; do c(- 47 >= 1, 13 = 7); do Fz_0(5, 6540); while 17 : chillax end; output "J:a" end main : chillax end

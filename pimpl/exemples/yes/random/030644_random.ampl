@@ -1,0 +1,1 @@
+program s : Cw : takes o, _ : integer array returns nothing XKx, Dam0a : boolean array; pop end main : output not(21300); when case - 3 = x0 and 65 : pop 0 end case true <= 5870 - 89 : chillax end case 9 : chillax end case 609 = 33 : pop; pop end otherwise : do V8(50); let L54a = 4; when case 4 : chillax end end; pop - 0; output ""; while 05 = 43800 : do M(1) end end

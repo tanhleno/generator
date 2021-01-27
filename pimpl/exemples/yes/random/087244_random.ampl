@@ -1,0 +1,1 @@
+program i4 : main : k4 : integer array; output - false . true and 9 . "" . "." . "v"; when case - D(50) or false and 0 <= false + 9 - 2 : chillax end; pop 791 >= 04200; when case 04600 - 4 : input m5 end case 43 = 9 : chillax end end

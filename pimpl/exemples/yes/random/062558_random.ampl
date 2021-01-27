@@ -1,0 +1,1 @@
+program R_ : N : takes y : integer returns boolean rM : integer array; N66aa, H, p86, Z : boolean; tTP, mL : integer; XSe : boolean; input j66[false - 2]; when case 2 <= 5 : pop; input C end case 44 : chillax end end main : chillax end

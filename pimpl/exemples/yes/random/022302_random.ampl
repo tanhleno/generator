@@ -1,0 +1,1 @@
+program Z : HH : takes qi5, a0C : boolean array returns nothing k7, o3 : integer; chillax end main : output "\\" . - false + 5 - 4 . "6G0a"; let D = array not 2 and false; let Y1e[- Ij1 - 2] = array false and 5 end

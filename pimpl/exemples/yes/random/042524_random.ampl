@@ -1,0 +1,1 @@
+program H : eq : takes uh8 : boolean array returns integer array mh, A, n_, t, iCMaa : boolean; C40a, w09, i5 : integer array; chillax end main : d_ : integer array; zo5 : integer array; when case 6 and Q(6) * G = (99300) and false and 4320 - (0) and 463 - 286 : chillax end otherwise : chillax end end

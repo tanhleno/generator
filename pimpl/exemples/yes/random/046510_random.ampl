@@ -1,0 +1,1 @@
+program L : Q30aa : takes I6c : boolean returns integer array do s(false and 6350 /= - 2 - 335) end main : b, e, j, R : integer array; m, T5, Cs6a, V, g, T : integer; M6 : integer array; let gH10 = 9860 * (1290) or d45aa and 5 or 6 - 93 /= 308 or 44 - 9 end

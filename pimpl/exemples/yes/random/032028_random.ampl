@@ -1,0 +1,1 @@
+program z6 : Ti : takes qZ70, M70 : integer returns integer _4, B, wL : integer; chillax end i : takes _, e1 : boolean; X, w, vy : integer array returns boolean K, _, y7n, m : integer array; Ypc, e6La, e5 : integer; chillax end main : pop end

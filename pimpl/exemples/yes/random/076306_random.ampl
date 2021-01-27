@@ -1,0 +1,1 @@
+program v : main : KO, _ : integer; v : boolean; while - not za[1] * false * 553 and 6 or false rem true and 9 = not KlS and not 8490 and 1 : chillax end; let Y[- X(5) and 7 and 5 - Z7Saa and 01 - 68700] = - not 1 and 4; do F0(- false >= - 95, - 3 = 48100) end

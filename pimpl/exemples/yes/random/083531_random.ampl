@@ -1,0 +1,1 @@
+program Y : main : D2da : integer; f3taa, fI : boolean; A : boolean; do U(- r(30) or aU1 * false and 6 - q6n, 55 * not 1 and 9, - 3 and 60 or 3 - 33 > 9 - 3, - 94 - 4 > 5, 38300 = 98); while - false and 20 - 83 <= - n and 9 : chillax end; output - 0 - 8; while - 553 > 6 : let C08 = 9 end end

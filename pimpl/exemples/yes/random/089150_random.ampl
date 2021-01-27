@@ -1,0 +1,1 @@
+program _ : main : input X36a[not not false rem 72800 - (3) + not 00 and 4 + 8090 - 4]; let a[- I(8)] = X and 2; when case - (90) and 63 - 178 - 22 : chillax end case - 3 = 52 : let L = 1; pop end case 69 : chillax end case 86 : chillax end otherwise : while 7 : chillax end; when case 2 : chillax end end; input N1C[5410 - 3]; do t(6 = 36); do wNSaa(8760) end

@@ -1,0 +1,1 @@
+program bq : N7O : takes ET : boolean array returns nothing MJ6 : integer array; mJ, o, PG7a, Q9 : boolean; while - (4) and 28 : when case 1940 : chillax end case 8 : chillax end otherwise : chillax end; let LOFa = 6780; output "" end; let m5[- 9] = 5 = 95 end main : fN : integer; chillax end

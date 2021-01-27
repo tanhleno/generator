@@ -1,0 +1,1 @@
+program rcxa : Z3D0 : takes n, iE : integer array; KA8a, yG5, q1r : boolean array returns boolean array output "\\" end main : Tk : integer array; output "" . - 44700 and 9 - 9 - 3 < 02 - 7 . 5 - 4 end

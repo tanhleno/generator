@@ -1,0 +1,1 @@
+program d31 : main : when case - not 4200 / not not 7 + false rem 6 and 7 + 22 and 8 + 2 - 4 : chillax end case false / true and 7 : chillax end case - not 6400 and 493 + 990 /= - 5 : chillax end otherwise : chillax end; let g4[false / (8) and 31 + 7 and 649] = array - (74600) or Iu and 4; input u end

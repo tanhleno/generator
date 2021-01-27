@@ -1,0 +1,1 @@
+program nS : bY : takes CX40a : integer array; N, s, Q, qiG0a, W760a, B, j : integer array returns nothing input C[- not 2 and 1 - 9 - 14700] end main : v7, GJH : boolean array; Y4, Mc6, lF : boolean array; chillax end

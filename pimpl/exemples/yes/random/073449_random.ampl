@@ -1,0 +1,1 @@
+program R20 : main : v2, V : boolean; n8, lP5, T : boolean array; G7 : boolean array; df8 : boolean; input H4[- true or false and false - true and 9]; let t[- (38000) + 3 and 9 + 7] = array(824) or 22 + 0 - 3; pop - 96 - 7 >= 1 end

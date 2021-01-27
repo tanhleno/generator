@@ -1,0 +1,1 @@
+program i : D : takes lZ1 : integer; WK : boolean array; SyCaa : boolean; Q : integer returns nothing chillax end M4 : takes u, c, HS : integer returns boolean array chillax end q : takes e7laa, MQ : integer array; M8s : boolean returns nothing do rzx(27); input C6; pop; while 05 : chillax end end main : R, Z : boolean; chillax end

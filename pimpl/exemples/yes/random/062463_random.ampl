@@ -1,0 +1,1 @@
+program aP : D : takes _m8 : integer returns boolean s0 : boolean; P_9, TI, g2 : integer array; B, hz, un : boolean array; chillax end main : do f7(false * not v + not(74) and true or false and 43 + 4); output "\\80" . 94000 >= 9 . 7 . 2; do a(true and 7 >= 4, 1 - 08, 95, 4); let CYy[- 2] = array - 95 - 97 end

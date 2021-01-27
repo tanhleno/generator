@@ -1,0 +1,1 @@
+program is80a : ll : takes NU, Z : integer; a_ : boolean; Hq, d : integer array returns nothing x : integer; while false or 3 : chillax end; when case 110 < 74 : chillax end case 51 = 8 : when case 5 : chillax end; pop end end S : takes J8l : integer array returns nothing chillax end main : QE8 : boolean array; chillax end

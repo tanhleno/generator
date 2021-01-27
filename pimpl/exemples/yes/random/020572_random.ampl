@@ -1,0 +1,1 @@
+program H : WD : takes YK, o : boolean array; T : integer array returns integer chillax end vm9 : takes l : integer; I, F7 : integer array; z, G, M : integer returns nothing pop 794 = 9; while 26 : when case 8 : chillax end; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program f1 : ZD : takes ry : integer; T, fv6 : boolean; j9 : integer; jOk0a, D : boolean returns boolean J : integer array; do y(not 404 or 7) end main : O25 : integer array; do l((74) < a4(7) rem(47) and 82, - (2) * 7 or not 33, _); when case - C : input C; when case 97 : chillax end otherwise : chillax end end otherwise : chillax end end

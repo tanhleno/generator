@@ -1,0 +1,1 @@
+program f : U : takes b1, c, rj : boolean returns nothing when case false and 17 < - 177 : chillax end otherwise : input a86; do Q(57); pop end; let n[- 6] = 8 = 64; output 36; do Ge(84, 70) end main : chillax end

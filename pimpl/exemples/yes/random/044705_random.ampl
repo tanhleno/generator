@@ -1,0 +1,1 @@
+program O : W50 : takes Y9 : boolean array returns nothing d : integer; plGaa, GV, A, Lz3 : boolean array; w : boolean; x8 : boolean; while(4) and 92 : chillax end end main : B : integer array; PB : integer; while M or 42100 and 02 /= true rem not 25 and 172 - not 8 + 1 - 1 : chillax end; input N end

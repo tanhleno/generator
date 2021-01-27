@@ -1,0 +1,1 @@
+program Y : main : while(666 = 5050) and false : when case - 0 - 2 = 55 : output "0"; pop; pop end otherwise : pop end; when case 9 : chillax end case 7 : pop end otherwise : pop end; output "" . "" end; do YA((1) * (7) + (0) and 0 - 5 - 6, - (4) > 1, - 3 > 8, 47 = 6, 99); while - true + 71 < 2 - 2 : input h[23100]; while 0 : chillax end; pop end end

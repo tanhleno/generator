@@ -1,0 +1,1 @@
+program O : I : takes N, Y42 : integer returns boolean Z, V, U3, nL : boolean array; Abi, _n : integer; b : boolean; let FB9 = array - true and 3; when case 95 - 032 : input A; when case 1 : chillax end end case 6 : do R74(2) end case 1 : chillax end case 9 : chillax end otherwise : pop; pop end end main : chillax end

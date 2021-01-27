@@ -1,0 +1,1 @@
+program mq : Hw6aa : takes O : boolean array returns nothing o, NN0 : boolean; f : integer; pjzaa, S2Z0a, L9 : boolean; chillax end main : Z, k1, w : integer; b : integer; bE3aa, N, d6p0, z8, gu : boolean; chillax end

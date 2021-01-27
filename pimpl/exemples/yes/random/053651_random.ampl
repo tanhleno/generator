@@ -1,0 +1,1 @@
+program R58 : sI : takes KY : integer array; g1, tC, I, H : boolean; _ : integer; P : integer; l, n, k7K : integer array returns integer while 86 : while 76 : pop end; output ""; input W7 end; output 17 = 212; output 7 . 01; output 9 . "" end main : chillax end

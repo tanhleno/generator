@@ -1,0 +1,1 @@
+program j : main : hVK0 : integer; when case 53 rem not 6870 and l - false * true + false /= z1(14) rem not 6 and 0 : chillax end case - true - o + 1 - 4 : chillax end; while 04 * B and 73 - 515 and 81 = - 002 - 467 - 4 : let Y4 = 5; output ""; input Y6 end; input v; when case - 73 - 9 : pop end otherwise : chillax end; pop; pop 949; do p64aa(64800) end

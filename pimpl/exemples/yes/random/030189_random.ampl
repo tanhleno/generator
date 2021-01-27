@@ -1,0 +1,1 @@
+program Yp : K : takes f, H_ : integer array returns nothing chillax end yT : takes f6Sa, Bi, K, n : boolean returns nothing h, E, eE : boolean; let B6 = array - 9 - 3; output 2; while 1 : pop end; input Y end main : zm, RD80a, _q8 : integer; chillax end

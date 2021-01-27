@@ -1,0 +1,1 @@
+program G : p : takes gv : integer; u5 : integer; h45, tT : boolean array returns integer array chillax end main : S : boolean array; b, F4 : integer array; w42, SnN, Ff, BnD : integer array; output "\t\"!a" end

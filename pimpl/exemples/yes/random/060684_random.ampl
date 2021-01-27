@@ -1,0 +1,1 @@
+program V : D4 : takes V : integer array returns nothing G, w7b : integer array; when case - not 7 : do Q(047, 9) end case 33 < 6 : when case 1 : chillax end; when case 6 : chillax end end; let g = 4; do Q2(2 = 69000, 6, 20) end main : e : integer; k, Dv : integer; pop - I[60] end

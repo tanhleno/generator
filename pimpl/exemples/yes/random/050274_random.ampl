@@ -1,0 +1,1 @@
+program I : s : takes T9 : integer; B8, fNAaa, t49a : integer returns nothing input y4 end main : U8, zB2, G1, sV, p5, V1 : boolean; px : boolean; f : integer array; while - (96 = 2) > - true / not 7 : chillax end; let Q = array - (38) / false or true and 3 or 7730 - 85 end

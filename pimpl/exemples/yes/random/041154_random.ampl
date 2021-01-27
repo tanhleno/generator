@@ -1,0 +1,1 @@
+program io : T : takes emv : boolean array; o : integer array returns nothing d83 : integer array; w, B, i0, t : integer; while - not 12 and 4 + 6 : when case 885 : pop end case 95 : chillax end otherwise : chillax end end; let wy[2410] = array 6 - 207; do E(43300, 7) end main : iz, bIx : boolean array; Zx60 : boolean array; j, tG : boolean; D, m2, C3, K : boolean; chillax end

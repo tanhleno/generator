@@ -1,0 +1,1 @@
+program v : V_ : takes Z : integer array; Bu : boolean array; O0d0, VQ0, R, k9z0a, Ocu0a : integer array returns nothing O, x : integer array; D : integer array; chillax end main : when case - true - 42 rem true and 3 or(662) and 882 + 52 - 39 : chillax end end

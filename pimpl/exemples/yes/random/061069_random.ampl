@@ -1,0 +1,1 @@
+program v7 : A : takes x : integer array returns nothing Z5 : integer; while - not 5160 and 63600 : chillax end end main : qD, m, r0r0 : boolean array; J, U, n96 : boolean array; k2, D9, W : integer; chillax end

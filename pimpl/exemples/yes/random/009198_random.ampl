@@ -1,0 +1,1 @@
+program zN20 : D : takes b, a9, pv2 : boolean; niG0a : boolean returns nothing chillax end main : B : integer; c, Y, J : boolean array; do g(- (7) = - 3 and 93000 or true - 9 - 267); do fx(not false * true and 182 or not 92 and 761, - not 08 and 88) end

@@ -1,0 +1,1 @@
+program tuL0a : l : takes q1, t9C, F, c1, O : integer array returns nothing aA50, N5, S, G9, n : integer; chillax end dk : takes w, E, w : boolean; s, Ln, p2c, F, Hs : integer; Ob : integer array returns integer o7, B7, z, d17 : integer array; t, m, n4 : integer; o : boolean; o : boolean; chillax end main : chillax end

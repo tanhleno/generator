@@ -1,0 +1,1 @@
+program pYQ0 : main : do AT3a(858 + true, - false * true + true and 3780 - 6 >= 1750, - true and 5950 or 5 - 459, - 1 - 390, 4 = 8); pop; when case true and 909 + 27000 - 547 = - 60 : chillax end otherwise : output "" end end

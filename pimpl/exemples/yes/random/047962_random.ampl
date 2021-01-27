@@ -1,0 +1,1 @@
+program EC1 : p69 : takes H : boolean returns nothing s, M8s, i : boolean; chillax end Yi : takes Q : integer array returns nothing chillax end main : e : boolean array; output - not(6) rem h and 7730 . - true and 1 + 1 - 1 < 99 end

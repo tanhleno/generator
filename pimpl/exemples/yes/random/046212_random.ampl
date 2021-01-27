@@ -1,0 +1,1 @@
+program z7 : SO6 : takes H3Z : boolean returns boolean P3 : boolean array; do W1(- false and 72 - 9 = - 5 - 9); output "" . "" . "C\t" . "" end v3s0 : takes Xmc : integer array returns integer array while 9 - 0 /= 67 : chillax end; input g end main : q, v, l : boolean array; chillax end

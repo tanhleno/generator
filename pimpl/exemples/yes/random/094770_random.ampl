@@ -1,0 +1,1 @@
+program E_ : main : pop; when case true * 80 : chillax end otherwise : chillax end; output "[" . "\"\\aa"; while 8 : chillax end; when case 91 : do h(63600); pop end case 852 : pop end otherwise : chillax end end

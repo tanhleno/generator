@@ -1,0 +1,1 @@
+program P : u340a : takes z, e9, U : integer returns boolean array p, T : integer; a : integer; U, X, y7Y : boolean array; when case true and 66 : chillax end case 516 - 3 <= 13 : chillax end case 67 : chillax end case 28 : pop end; output "\"\\" . 6 . "5" end main : H, G : integer; N : integer array; QH, L, K : boolean array; chillax end

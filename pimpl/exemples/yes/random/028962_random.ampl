@@ -1,0 +1,1 @@
+program Z : qyC : takes D49aa, O : integer array; RV5a : integer array returns integer array KA_0a, V : boolean array; m : integer; V820 : integer array; chillax end main : while - not false < not(93) + 9 and 8 + 24 - 6 : input d[6 - 14] end end

@@ -1,0 +1,1 @@
+program UJJ : xaBaa : takes nO2 : integer; _70a, j3K : integer; l2 : boolean array returns boolean array chillax end PQh0a : takes l710 : integer array; y0 : boolean array; B : boolean; MNJ0, E, Uf8 : boolean array returns boolean array v0z, I2 : integer; input K[32]; when case 3970 : pop; pop end otherwise : pop end end main : chillax end

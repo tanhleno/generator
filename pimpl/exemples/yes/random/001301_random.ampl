@@ -1,0 +1,1 @@
+program g : I8Ea : takes q3, S, x, IT, vuWaa, Z0 : boolean array; e : boolean array; qo : boolean returns integer array output "" . 9180; when case - 77 : chillax end case 68 : let r = 7 end; output 6 end main : Z : integer; Oe : boolean array; _7 : boolean array; when case - not false * false : chillax end otherwise : do k11(0, 9, 9) end end

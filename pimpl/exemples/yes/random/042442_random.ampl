@@ -1,0 +1,1 @@
+program J7 : Q : takes o9 : boolean array returns integer array chillax end M : takes O : boolean array returns nothing G : boolean; o : boolean; chillax end main : v, KM, W : integer array; while not not false * (0) / true and 7 : chillax end; when case - not not 89600 + 47 and 5 : chillax end otherwise : output "2" . "" end; pop - 7 - 6; let u = array 8 end

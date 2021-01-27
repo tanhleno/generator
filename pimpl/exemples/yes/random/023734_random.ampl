@@ -1,0 +1,1 @@
+program zh : N : takes X4, n : boolean returns integer T3, vtPa : integer array; chillax end J : takes t, Zv50a, etP, O3, A : boolean array returns nothing input X[6 - 4] end main : q4 : integer; o270a, t, uQy0a, N, a5 : integer; pop; do w(not Z and false, (48) and 73 + 3 - 0 = 22 - 3430, - 07 - 9 >= 97); input z[not 561 and 7] end

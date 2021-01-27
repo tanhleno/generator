@@ -1,0 +1,1 @@
+program v : main : when case 5 + false + (350) and 13 < - mjr[2] - true - 2 - 6 : chillax end case - (9) rem true - true : pop; let Ccr[6] = array 6; when case 54 : chillax end; do r(43) end case false : input o3[158] end case - 6 - 29 < 796 : chillax end end

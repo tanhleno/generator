@@ -1,0 +1,1 @@
+program Kb : main : g7o : boolean array; PD7 : boolean; output "@"; when case not not 611 + true and 3 or 6 - 59 > (5) and 4860 : chillax end otherwise : chillax end; output "" . "1&\"" . "\n\n" . "2" . "!" end

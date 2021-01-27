@@ -1,0 +1,1 @@
+program c : main : when case 7 + f1Waa(02) rem true + false and 06 <= - true / 5 and 235 : let E9V = array - 46300 - 299 end; when case true : do Kt(7 = 83200); while 1 : pop end end; do r((8) and 1 + 81 - 5 <= 02 - 8) end

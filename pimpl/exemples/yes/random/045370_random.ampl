@@ -1,0 +1,1 @@
+program x : T3 : takes J : boolean array returns nothing while true and 1 or 54000 = - 5 : chillax end; input T[0 - 4] end m08aa : takes N : integer array; x : boolean; I : boolean array; S, f, y, E : boolean array returns nothing l : boolean array; chillax end main : input rAC; pop - not 7 and 6 end

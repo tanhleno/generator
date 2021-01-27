@@ -1,0 +1,1 @@
+program O6 : vnA0 : takes g, M, F, c4n : boolean; w, cz3 : integer returns nothing k : boolean array; V32 : boolean array; let J3[- not 0 and 42] = array Y and 95 + 7 - 7 end main : m : boolean array; L5, SV, D, llba : integer; do r(- true or(2) and bs9a and 983 - 41 and 1 - 7 - 69000, - true * true and 04, false and 19800 < - 5800 - 18) end

@@ -1,0 +1,1 @@
+program w0 : main : e : integer; output not not 0 rem not 221 and 315 or not 932 < - false and 3; do p(t0z[65] = not 58400 - 7); when case - not 3 and 25000 : when case 0 : pop end case 49 : chillax end otherwise : chillax end; when case 3 : chillax end end otherwise : when case 49 : chillax end end end

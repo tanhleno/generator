@@ -1,0 +1,1 @@
+program XK : main : n, ga1 : integer; do _8(- not true, - 1710 * true - not 35 and 5); when case - not P - 542 and 0 or 7 - 154 : chillax end case - c and 9 + 0 - 1 = - 6 - 4 : do T(6, 3); do Z(2); output "6e"; pop end otherwise : pop end end

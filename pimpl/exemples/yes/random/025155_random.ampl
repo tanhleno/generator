@@ -1,0 +1,1 @@
+program if : P0h : takes f, a24 : integer; D91, we7, v : boolean; G, OH9, MDV, E, ztKa, g : boolean; S : boolean returns integer Z, q : boolean; let x = - 86 - 515 end main : when case(5) / false : input c end otherwise : chillax end end

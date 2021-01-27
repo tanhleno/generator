@@ -1,0 +1,1 @@
+program Y : E42 : takes w3 : integer array; JH : integer array; y, C4 : boolean array returns boolean array pop; do h(- 45 - 05, 6); while 236 = 562 : chillax end end main : do rX9(72 <= - 1 or 6 or 5) end

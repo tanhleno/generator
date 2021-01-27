@@ -1,0 +1,1 @@
+program P : U : takes f1d, C82, Z : integer array; k, m : integer; Z4, o5t0a : boolean; P0Oa : boolean; K, z, C8 : integer returns integer array f, j : integer array; s : integer array; K, Cj : boolean; output "" . "F4" end main : chillax end

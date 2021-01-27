@@ -1,0 +1,1 @@
+program a : U8 : takes ia : integer; P, r8, T, br, JPZaa, v, D : integer array returns boolean chillax end main : n9, cu, Q, M : boolean; vF : integer; let u = array - false; do rHT(I(3) /= - (5990) and 5); do n(9, - 2560) end

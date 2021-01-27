@@ -1,0 +1,1 @@
+program J1A0 : Z : takes C, p, Zy1aa, w, n5 : boolean; s : integer returns integer r : boolean; y, F5, F98 : integer; Z5La : boolean; G : boolean; input w[- nV and 01] end main : k : integer array; chillax end

@@ -1,0 +1,1 @@
+program i_ : P5 : takes hkj, x45, P4uaa : boolean returns nothing r : boolean; d9I : boolean array; d03aa, g : integer array; chillax end main : TI, Z2 : boolean; output "!"; do A(- s050 / l + false or 9 - 1 = - not 9 and 9, - 6190 and 040 - 1 - 56 > - 8); do e(- (88) or 2 < 8) end

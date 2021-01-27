@@ -1,0 +1,1 @@
+program W : k : takes m, fK, N2 : integer; W : boolean returns integer array u, u, f, Ym, q130a : integer; I : integer array; chillax end V : takes t : boolean returns nothing m, R_, Z : boolean; L : boolean array; output 4 . 7090; let z[3] = 125 end main : p15aa : integer; K6qa, M, i7 : boolean; X0, o7Ha : boolean; chillax end

@@ -1,0 +1,1 @@
+program X : Z : takes tA : integer returns nothing c2, d, dbNa, _Ff : boolean array; y : integer; mz : integer array; let Bf40a[- 040] = 8700 = 1; do D(9 - 817 <= 1360); when case 063 = 4 : do c9(4) end end main : k09a, j5n : boolean; input CTi0 end

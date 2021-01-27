@@ -1,0 +1,1 @@
+program V : YWD : takes W9 : integer; B, V, V840 : integer array; s : boolean returns integer array D : boolean; pop - 50 - 10 >= 7; output "@Q" . "8&a"; do fkXaa(41) end main : let Qa[not 7 rem false * U and 0 + false and(6)] = array - not 7 / (7); input e[false * 8 and 8 + false]; when case - 75 and 5 : chillax end otherwise : do q0ka(6); output "l"; pop end end

@@ -1,0 +1,1 @@
+program e : _ : takes Z, k9G0, D3f, LA : integer; a7 : integer array returns integer when case M and 8 - 370 <= - 8270 - 2 : chillax end; let _Q = array - 0 - 74500; input D; output "%" . "2" end main : c, ni0 : integer; let R[- false or 6 + false and 4 + 08400] = 59 / not 991 and 3 + (5) and 5 + 7 /= - false end

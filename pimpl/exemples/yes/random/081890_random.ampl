@@ -1,0 +1,1 @@
+program v5M : main : gP30 : boolean array; O : integer; McQ, GMC : boolean array; do s(00 / true - Ban(1) + (52) or 97 - 8); let D[- r4 / (32) and 0900 or false and 667 or 4 - 19] = array - 1 and(30) and 7 + 6; when case - Q = - 4 : chillax end otherwise : chillax end end

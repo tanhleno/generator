@@ -1,0 +1,1 @@
+program K : gY : takes fO1a : integer; U : integer array; a, x7, H, V05aa, F, X : integer array returns boolean when case(64) and 5690 or 7 - 9 < - 914 : let uqz0a = array 2 end otherwise : input e4o end; do d(- 0, 5 = 8) end main : xs, P9U : boolean; chillax end

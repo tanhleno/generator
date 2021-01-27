@@ -1,0 +1,1 @@
+program hn : nl5a : takes T1R0, P7 : boolean array; rR, C : integer returns boolean chillax end main : c, n9, oM : integer array; i75, m, _g : integer array; while - not(21) rem(2) - 1 and not 5350 or true and 62 : chillax end end

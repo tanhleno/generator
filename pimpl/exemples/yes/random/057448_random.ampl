@@ -1,0 +1,1 @@
+program G33a : M : takes o : integer array; _ : integer returns nothing chillax end T8 : takes d : integer array; G : boolean; n, Ia2aa, X, B, M : integer array returns nothing let r[86700 - 7] = 19200; input K end DK8 : takes b350a : integer array returns nothing chillax end main : chillax end

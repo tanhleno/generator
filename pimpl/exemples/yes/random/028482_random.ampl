@@ -1,0 +1,1 @@
+program MT : F : takes L2n0a, n : integer array; Q : boolean array returns nothing let Ce = 0; do dD6(- 92 >= 0) end G : takes H : integer returns nothing iG : integer array; chillax end main : chillax end

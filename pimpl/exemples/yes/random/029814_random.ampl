@@ -1,0 +1,1 @@
+program U : eV : takes J, sN40 : integer array returns integer array AL : boolean array; chillax end main : let R8 = array not not(4090) / true * (2); pop - (512) and 1930 = 1 - 9; let j130a = array - 3 and 1 - 2; when case - 9 = 0 : pop; do f(11300) end case 5 = 0 : let z3 = 413; pop end otherwise : output "\t\"" end; output "" . 91600 . "" end

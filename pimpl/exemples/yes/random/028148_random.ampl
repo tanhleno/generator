@@ -1,0 +1,1 @@
+program pER0a : S : takes no, Ip : integer array; C : boolean; YY8aa, b9r : boolean array; QJ, F4 : boolean array; C98 : integer returns integer O0s : boolean array; chillax end main : K, OXg, VqJ0, O : integer array; pA : integer array; chillax end

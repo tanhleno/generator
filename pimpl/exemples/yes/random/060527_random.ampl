@@ -1,0 +1,1 @@
+program g : F : takes E2 : integer array returns nothing B, y : boolean array; m, B250, a, d300 : boolean array; fj : integer array; Kp : boolean; Mc : boolean; output "16\"a" . "\"la" end main : pop h and not 520 = - false end

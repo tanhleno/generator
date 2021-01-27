@@ -1,0 +1,1 @@
+program H : M2 : takes E : integer returns nothing output "" . 29 . 9940 . 2 . "" end V3 : takes S, v : boolean returns integer array n3 : integer array; Y, _w : integer array; chillax end df : takes L : integer array returns nothing N5m : integer; while 3 = 0 : chillax end; let y = array 6; pop end main : chillax end

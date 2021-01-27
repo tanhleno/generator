@@ -1,0 +1,1 @@
+program Jr5 : ph : takes Z0f0, xkx0a, c : integer array returns nothing chillax end k : takes aZ : integer; Hm : boolean; j4, N, K1 : integer returns nothing K, fs : boolean array; CLJaa : integer; f : boolean; pop; when case 0890 : chillax end end F7 : takes Z : boolean returns nothing output 28 end main : d : boolean array; h : integer; Yt : boolean array; chillax end

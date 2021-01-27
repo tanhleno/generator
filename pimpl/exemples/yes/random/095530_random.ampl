@@ -1,0 +1,1 @@
+program Y : main : when case(71 = 78) rem true / false and 5 or i[2] or B and 7 or 8 - 7 < - true * not 1 : chillax end case - not false : chillax end case - not 5 and 127 : chillax end; when case not z : chillax end case - not 69 = 054 - 64 : chillax end; let D910a = array false and 804; when case - 8 - 01000 > 3 : while 29 : chillax end; pop end otherwise : chillax end end

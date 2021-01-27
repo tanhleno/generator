@@ -1,0 +1,1 @@
+program e : S : takes xW : integer array; oh, E, AW : integer returns nothing bL8aa, O0l : boolean; when case - (5) and 6 or 4 - 68 = 752 : chillax end end main : while - 03 or 12 rem true and 10 <= - z rem 79 and 5 or CV and 0 - 4 - 1 : when case - 811 - 78 : output "2{" end end end

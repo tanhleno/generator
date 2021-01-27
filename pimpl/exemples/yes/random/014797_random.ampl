@@ -1,0 +1,1 @@
+program Q : B : takes aj8, lA, s : integer array returns boolean do jp((6) + 41); pop 9850 = 9; while 0 : when case 45 : chillax end end; let p_maa[2] = 9; input CuI0a; input Cr; pop end main : input _6Q[- false and 69] end

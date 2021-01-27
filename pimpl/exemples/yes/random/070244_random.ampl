@@ -1,0 +1,1 @@
+program X : main : L, U, e, e : integer; f : integer array; tkn, z : integer; f : integer; pop - true or not 1660 or 0 <= not 2 and 6; when case - not nX or true >= (6) and 6 - 645 - 2 : when case 4 = 79 : let W = 7; pop end case 436 : chillax end case 70 : chillax end otherwise : pop end end end

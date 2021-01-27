@@ -1,0 +1,1 @@
+program X5a : main : do KY9(- B57a[4] * true or j3y0 or true and 0 or 28000 - 3 = Cf and false + not 44 and 9 + 8); pop 2; do r960(11 - 81 - 92 < - 89, 30 - 10700); do x(- 3, 16); pop; do AI0(71400, 9) end

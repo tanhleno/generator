@@ -1,0 +1,1 @@
+program v : n : takes Y, b, Hb9, R49 : boolean array returns boolean b5o, x : boolean; Bf : integer; chillax end n : takes h : boolean array; O3ga, x_U, c3B0, ZrAaa, U, w : integer returns integer chillax end GwI : takes h5, Eb : boolean; t, H, r : integer array returns integer array chillax end main : U, g6 : boolean; LYXa : boolean; let m = - (4) or(2) end

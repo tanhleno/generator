@@ -1,0 +1,1 @@
+program R : main : r : integer array; i, ti40a : boolean array; when case - (6 = 44500) < not(85) : input J1jaa; pop 5240; output "("; do B490(653) end otherwise : chillax end; pop; when case - 4 and 4 or 9 - 8 : chillax end; do o65(9 - 191 <= 9, 64) end

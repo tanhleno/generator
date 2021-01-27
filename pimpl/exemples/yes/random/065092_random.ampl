@@ -1,0 +1,1 @@
+program Y : s : takes k : integer returns nothing R : integer array; B, L : integer; MEr0a : integer array; output "v" . 16; while 48 - 8 : input a4; do g(95); pop end; pop 74 end main : OxV, wh, j20 : boolean array; _, m9Za : integer; k9 : boolean array; g : integer; cyb, Gv : integer; K : boolean; B : boolean; e : boolean; chillax end

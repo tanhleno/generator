@@ -1,0 +1,1 @@
+program QQ : gY : takes R18aa, IM9 : integer array returns integer array x : integer; while - (623) + 77 - 66 /= - 5 : chillax end; do D(1, 18 = 7) end main : let G61aa = array - false + false and(51); do Uk(- 94) end

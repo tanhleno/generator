@@ -1,0 +1,1 @@
+program k : U : takes t : boolean; t, w : boolean array returns nothing bG, K, g : integer array; when case - not 8030 and 68 - 69 - 8 = - 28 : chillax end end g9T : takes JSG : boolean array returns boolean do t(50600); while 0010 : pop end end Rlt : takes qR10a : boolean; Q : boolean array returns integer array chillax end main : chillax end

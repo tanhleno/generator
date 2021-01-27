@@ -1,0 +1,1 @@
+program j : t : takes V : boolean array; Q2 : integer array returns nothing output "\n-" . "\t\ta" . 9 . "" . "000a"; input t7 end L : takes R : boolean; Z0 : boolean array returns nothing Ze : integer; hJ90 : boolean array; chillax end main : HJ3 : integer; chillax end

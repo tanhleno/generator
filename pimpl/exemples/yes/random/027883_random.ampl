@@ -1,0 +1,1 @@
+program z : t : takes K, J : integer array; R2, e : integer; W : boolean array returns boolean let o[- true and 08400] = array false and 0; when case - 72 < 6 : pop end case 9 = 35 : pop end end main : _J10 : boolean array; chillax end

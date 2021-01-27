@@ -1,0 +1,1 @@
+program e7 : z : takes K41 : integer array; p140a, T : integer array; f : boolean array returns nothing do AJF0a(- not 49 and 22 + 6) end main : when case - not not 4 or not(8) * false /= - 7 : chillax end; let I = - false end

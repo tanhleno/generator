@@ -1,0 +1,1 @@
+program p : N : takes B, nn9, Y : boolean array; bp00a : boolean returns integer when case - true and 5 - 2 = 694 - 6 : pop 413 end case 34 : while 8020 : chillax end end otherwise : chillax end end main : j, i : boolean; do T2(not true and true - 972 and false - true /= true or 3 + 5); input Z[- false - (4470) - 3750] end

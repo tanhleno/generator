@@ -1,0 +1,1 @@
+program A : c : takes s : boolean array; R : integer; e0, yFO0a : boolean; zjX, q : integer returns integer j8l : boolean array; e, h6, y : integer array; chillax end main : L : boolean array; pop - not a5 - s and 602 or 03 - 8; input j; let H = array - not 3 and 413 - 47 end

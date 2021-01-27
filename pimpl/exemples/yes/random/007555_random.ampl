@@ -1,0 +1,1 @@
+program y830 : Ba5 : takes V9, M280, VJ, ip : integer array returns integer array dM9aa : integer array; chillax end main : k : boolean array; J : boolean array; Q4H, c : integer array; when case - not false rem not 05 * T2D + true or not 4 and 8 > - (01) - false : let b[7] = array 3 - 0 end; do X(- (5) / true and 9110 <= - (1) and 7) end

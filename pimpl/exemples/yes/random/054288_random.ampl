@@ -1,0 +1,1 @@
+program x : E8 : takes a : integer array; P, Y3n0, YQ0 : integer array returns nothing do O8fa(true and 70, - 853 - 474 /= 26, 7 = 0, 7); when case 88 <= 73400 : output "0%"; pop end otherwise : output "\\\t0a"; pop end end main : _S, i : boolean; s820a : boolean array; let W6 = array I rem(6) / false + not(8); input t130 end

@@ -1,0 +1,1 @@
+program v1 : u6 : takes yo, O : integer array returns integer So4 : integer array; Y3Iaa, L2 : boolean; chillax end O : takes l4Ca : integer array; T480, m40a, c : boolean returns nothing let J[- 1] = array - 88 - 3240 end main : n : boolean; chillax end

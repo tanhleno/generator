@@ -1,0 +1,1 @@
+program KS4 : O : takes t : integer array; q : integer returns nothing chillax end main : let S = array - false and(35) / false and 8 or(24) / (0) and 0; pop not 51 <= - 68600 - 82; input C0[- true and 5 - 922] end

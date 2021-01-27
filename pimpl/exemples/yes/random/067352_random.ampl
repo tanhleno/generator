@@ -1,0 +1,1 @@
+program dB : main : do i(not(9) and(6)); input P; when case - not 63 + 8150 - 97 : input v[2] end otherwise : input OVza end; while - 811 <= 9570 : when case 9 : chillax end; do _(9) end; do i25(77 = 3); output 704; output ""; when case 24600 : chillax end; pop end

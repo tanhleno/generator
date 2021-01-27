@@ -1,0 +1,1 @@
+program e9 : w : takes c : boolean array returns boolean U, Q62, frH : integer array; y, Dj, g, e : boolean array; r : integer array; when case - true + 046 - 5 /= - 0 - 4 : let _[3] = 1 end case - 138 : chillax end; let aC8 = 3 end main : chillax end

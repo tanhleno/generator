@@ -1,0 +1,1 @@
+program av : l : takes T1u, D : boolean returns boolean array Y : boolean array; f_Paa, a02a, c15aa : boolean; mhK0a : boolean array; vt7 : boolean; while false and 1 or 8 - 40 : when case 63 : pop end case 0 : chillax end; do csHaa(51) end end main : input d5[- (59) * (5390) * true - false]; output "" . "\tu" end

@@ -1,0 +1,1 @@
+program m8 : main : c200, bp : boolean; l : integer array; pN, R, E : integer; t : boolean array; em : boolean; Dc, L61 : boolean; while 1370 >= false and(51) : when case - 4980 - 7 : chillax end; do f(8 = 6, 4, 60); while 7 : chillax end; pop; let TCE0 = 748 end end

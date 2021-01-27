@@ -1,0 +1,1 @@
+program y7q : PGhaa : takes e83a, B, u, u08 : boolean array; izF : integer array; T, z9W : integer; N, p3Qaa, Gs, D, _ : boolean; R : integer array returns boolean array do m(false and 6) end main : chillax end

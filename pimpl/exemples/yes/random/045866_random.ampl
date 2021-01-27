@@ -1,0 +1,1 @@
+program k : FhZ0 : takes o : boolean returns boolean array when case true : output "&\n" end case - 4 - 76 < 678 : output "fZ" end otherwise : do A1(7); let C = 986; pop end; let Q = 43 = 5740; input r5; when case 8 : pop end case 45 : chillax end end main : while - false / oJ[0] + not true /= - 43700 + true + 3170 - 66 : chillax end end

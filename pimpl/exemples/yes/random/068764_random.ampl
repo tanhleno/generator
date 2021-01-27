@@ -1,0 +1,1 @@
+program x : main : k9, u, p, ZP, C : boolean; input f[- true rem(9) and 39]; while - c[6] rem trV and 16 >= not 37 and 46 + 24 - 91400 : when case 8 : chillax end case 0 : chillax end; do b(0, 681); when case 2 : chillax end end; let k2 = 4 - 315 > 41 end

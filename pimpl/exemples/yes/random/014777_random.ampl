@@ -1,0 +1,1 @@
+program D7a : h : takes d3aaa, g, Ca : integer array returns boolean chillax end q : takes E, X : boolean returns nothing K : boolean; j0, R1, G0 : boolean array; V, j : boolean; ea1a : boolean; input V[1] end main : VJuaa : boolean; chillax end

@@ -1,0 +1,1 @@
+program G : KV : takes a : boolean array returns nothing P, Gp, M, T, Vhdaa : boolean; while - false and 3 or 6 - 7430 >= - 76 : while 3 : chillax end end end main : output "4,\"a" . - L08 . 26 . "\n"; do O(not 4400 + 04 and 112, (0)) end

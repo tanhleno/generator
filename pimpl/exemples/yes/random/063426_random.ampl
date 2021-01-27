@@ -1,0 +1,1 @@
+program iq : F3 : takes L : integer returns integer b : boolean; l1, H830, a, u9 : boolean; chillax end main : output - not jP5 . "" . "ix" . "6"; when case false * true and 532 <= true - 66 : chillax end; pop 26 end

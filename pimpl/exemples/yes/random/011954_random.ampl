@@ -1,0 +1,1 @@
+program xpNaa : Ig : takes w1, Q3, e9 : boolean returns integer XB_0, a7 : integer array; r, fy : boolean; do IY(not 25 <= - 5 - 2, - 6 - 1 >= 90, 33, 75, 3); while - 1 : input W end end main : i3k, x : integer; YD, sK, lT7 : boolean array; pop 9 / (55) + false and 6 - 34 - 93; while false - true < false and 7780 : let jW9aa[283] = array 350 end end

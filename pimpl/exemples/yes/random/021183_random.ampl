@@ -1,0 +1,1 @@
+program v : r6 : takes O6t, u : boolean array returns boolean oH : integer array; K : boolean; Yj10, i : boolean array; h960a : boolean; chillax end g : takes L53, V : boolean returns nothing when case 90 - 206 : let PN80a = 7 end otherwise : let K9 = 4 end; while 88 : let M = 3; pop end end main : chillax end

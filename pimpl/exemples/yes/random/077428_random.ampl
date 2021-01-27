@@ -1,0 +1,1 @@
+program l : main : n4, x : integer array; Sw5, f : integer array; td, IQ5a : boolean array; do vH2(- 9 / true rem k + 0 + false and 2 - 4, - u = true - 0 - 4); input lI8aa[not(389) and 98 and 1]; pop; when case 1190 : chillax end otherwise : let V = 724; pop end; input q4; while 3 : chillax end; let g = 99 end

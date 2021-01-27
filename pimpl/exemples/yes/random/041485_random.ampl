@@ -1,0 +1,1 @@
+program gG0a : q2S : takes l : boolean array returns boolean array chillax end t1 : takes seO0 : boolean returns nothing input O[- 1 - 10]; output "" . 06700 . ")2"; output "" end g : takes XA, B : integer array returns integer array P : boolean; u9, yW : boolean; chillax end main : input P[not g0 / true rem true and 57] end

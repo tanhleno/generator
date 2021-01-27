@@ -1,0 +1,1 @@
+program f : WO : takes k : integer array; B : boolean; v : integer returns integer chillax end H7 : takes E, O150 : integer returns nothing let s[1] = array 7 end main : i8b : boolean array; while(324 = 4800) / li + 486 + not 507 - 04 - 1 = - true and(93) and 3770 - 30 and 1 - 62600 : chillax end end

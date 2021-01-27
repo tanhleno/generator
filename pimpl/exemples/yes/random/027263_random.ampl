@@ -1,0 +1,1 @@
+program SZ60 : T : takes n4, i0 : integer array; h5Ja, v, V1, l : integer array; QB : boolean array returns nothing while false and 21 - 2 - 6 /= 39700 : pop 2; while 800 : chillax end; while 0 : chillax end end end main : output - 24 rem true or false - 93 = (8) and 438 + 3 - 6 . ""; pop end

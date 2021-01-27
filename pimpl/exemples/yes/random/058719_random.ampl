@@ -1,0 +1,1 @@
+program UY : P6 : takes b3_ : integer array returns integer array ln6, Q, Cf, v, w67a : integer; V, h : boolean array; j, r : integer; C : boolean; do j(- false - 2460 - 8 < - 7 - 9950) end main : f9Ga, MIK : integer; chillax end

@@ -1,0 +1,1 @@
+program ilF : zOWa : takes jHraa : integer array returns boolean q_Zaa : boolean; chillax end _4q : takes f, J : integer returns integer Gi7a, YtL : boolean array; t : boolean; W, w : boolean; Y3 : boolean; l42aa : boolean; do Zb(7 = 09) end main : chillax end

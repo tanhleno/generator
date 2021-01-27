@@ -1,0 +1,1 @@
+program i8J : main : o : boolean array; N, R : boolean array; do A(- not false - M[0] /= (868) rem not 8 and 81400); pop not 9 + 5060 - 7 >= - 0; input D[- not 35 and 0]; when case 4 - 4 : chillax end otherwise : chillax end; pop end

@@ -1,0 +1,1 @@
+program d0v : main : k3X : boolean array; let Mf8[- not 6 + 1 * (24) and 60 - Hg2aa - 19] = array not _q(9) or 5; when case - true / d and 4 <= false - 208 - 9 : let y = 2 end case false : output 3950; do i0(22) end; pop 2 - 13 end

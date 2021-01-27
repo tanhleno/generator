@@ -1,0 +1,1 @@
+program y2b0a : main : n : boolean; let G = not false /= - not 4310 or 08; when case - 0 < true : while 35 : chillax end; when case 5 : chillax end otherwise : chillax end end otherwise : chillax end end

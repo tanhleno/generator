@@ -1,0 +1,1 @@
+program zKR : W : takes V0, N2kaa : boolean returns nothing _, z2S, N080, uP, XwJaa : boolean; when case j - 0 - 6 : while 6 : chillax end; do z4baa(9) end case - 3 <= 1 : when case 5 : chillax end; let a = 1; pop end case 8 = 45 : output "\\maa"; pop end case 42 : chillax end case 5 : chillax end; while - 73 <= 033 : chillax end end main : t7 : boolean; chillax end

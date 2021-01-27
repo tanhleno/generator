@@ -1,0 +1,1 @@
+program dk : main : e : boolean array; pop(5) and true and 6 /= 6 + 6 - 7; when case false / (42900) > false - 06 - 65 : chillax end case 6 < - 3 - 5 : let K9 = 0; pop end otherwise : chillax end; while o - 3 - 9 : chillax end; pop; output 1; output "" end

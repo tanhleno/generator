@@ -1,0 +1,1 @@
+program s : main : when case false + 588 * 66 and 6 = true - (3500) and 5 - 7 : while 6 : pop; input P end; do C(12 = 8, 8, 0) end case false and false and 786 + (58) and 7 or 9 : do x(39 = 688); pop 48; output "" end; do r(true > c and 8800 + 06 - 7) end

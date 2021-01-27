@@ -1,0 +1,1 @@
+program Z : y6a0 : takes oE7, F7, obW, X97 : boolean returns nothing j, rR : boolean; input V[(7) and 6]; pop end main : pD : boolean; C, Y : integer array; Q, g1 : integer; X, vX, kF3 : integer; Lr : boolean array; l, C : boolean; input fh[- ti3(8380, 0)] end

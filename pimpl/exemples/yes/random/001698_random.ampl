@@ -1,0 +1,1 @@
+program k : NZ : takes j3W0, K, H7, T, l1, K : integer; t : integer array; _V7aa : boolean; f, I : integer array; Jx, Li : integer; J3, s, b : integer array returns nothing U : boolean array; D : boolean; N5Ha : integer; C : boolean; pop end main : o2, m1 : integer array; pop 13400 * not 3 - not 754 and 0 - 0 - 12000 > - (4); pop; let Qx = array - false and 67 end

@@ -1,0 +1,1 @@
+program i : DtU0 : takes T620a, a440, h : boolean; a, gx, S7P, Et, w0, g_n : integer array; A, b, z, OWTa : boolean array returns integer array W, l : boolean; chillax end main : Q : integer array; chillax end

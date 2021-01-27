@@ -1,0 +1,1 @@
+program L : F : takes lj : boolean array returns integer r24aa : boolean; while - 47 : chillax end; while 069 - 137 <= 22 : when case 045 : chillax end; when case 3 : chillax end end; while 1 : chillax end; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program vC : o0 : takes rf0 : boolean array; t, D0, Ceq, DrH : integer array; M7 : integer array; W : boolean returns integer array a, I, t : integer; chillax end main : C, x : integer array; pop end

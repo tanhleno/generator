@@ -1,0 +1,1 @@
+program iQn0a : n : takes S, a2, H7, Z4 : boolean; ba, E09 : integer array; J : integer returns boolean array let eb = array(1) and 9; while 5 >= 8 : when case 1 : chillax end end end p : takes E : boolean array returns integer array G85, x, H, e : integer; PT : boolean; RD, u : boolean; chillax end main : pop - VZL and not 6 or false or 61 - 148 end

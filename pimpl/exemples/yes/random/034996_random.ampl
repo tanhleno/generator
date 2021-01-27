@@ -1,0 +1,1 @@
+program L4 : n4 : takes X : boolean; LE, zd : integer array; f82 : integer array; W : integer array; L : boolean; T4, Jn50a, L : integer returns nothing chillax end Gh : takes o5, q3 : boolean array; c : boolean array returns nothing chillax end main : chillax end

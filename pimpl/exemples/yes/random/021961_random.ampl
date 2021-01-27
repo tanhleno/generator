@@ -1,0 +1,1 @@
+program P : X : takes x, C : boolean array returns nothing chillax end r : takes qa4a : integer returns nothing output "\"\n"; pop 87; when case 350 : pop end otherwise : chillax end end main : chillax end

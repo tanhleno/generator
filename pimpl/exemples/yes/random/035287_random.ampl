@@ -1,0 +1,1 @@
+program w : Y : takes zCLa : boolean; t, F2 : integer returns nothing b : boolean array; n : integer array; O5, Y6D, s : boolean; V, A0 : boolean; output 6 - 4 /= 6 . 50200 end C5 : takes n, fH, mK7a, K2E0 : boolean array returns boolean Gd, M, p96, y48 : boolean; chillax end main : L9 : boolean; zDOaa, K, b, k49, F, ph : boolean; m, L : integer array; chillax end

@@ -1,0 +1,1 @@
+program e890 : O : takes A, O, e : integer returns nothing let F[6] = array - not 7 end s6 : takes E, U3Oa : boolean array; o : boolean array returns nothing while 7 - 0 < 7 : input N8_0; do I(3); pop end end main : G74, DP, Q : boolean array; e, fV, T : integer array; output not(3) / false - true and 9 /= - (4) and 55 - 1 - 8; let y[- (99)] = array false end

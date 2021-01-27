@@ -1,0 +1,1 @@
+program Yj : I71 : takes W : boolean; D : boolean array; dT : boolean; _ : boolean; W, Hp60, S, Sg : boolean; V3, w : boolean array returns boolean array chillax end main : M : integer; Ah7, R, LV : integer array; E, o, h2C0a, F8, F6za : integer; y : boolean; F, gsz, h7L0 : integer; Z, L : boolean; Itr : boolean; _8 : boolean; output not not 70 end

@@ -1,0 +1,1 @@
+program A : fGn : takes u : boolean; b : integer; t, FCL0a : integer returns nothing X71aa, d : integer array; AL, dq, k_ : integer; Yktaa, H5S0 : boolean; chillax end main : do z((5 = 5) and q[6510] and Q and 0 >= not 6 * BjP and 44400, - not y + 2 = - true and 2, - 00200 and 603 >= 019); output(91) and 3 or 3 - 489 . "" . "{" . 6 . "" end

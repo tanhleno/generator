@@ -1,0 +1,1 @@
+program f6 : o : takes h, j, L7Caa : boolean returns nothing do K(- 6, 4 - 6 >= 12) end v : takes Xro0a, Y6 : boolean array returns integer i : integer array; jVfa : boolean; chillax end _F3 : takes F : boolean array returns integer array ETcaa : boolean array; while 716 = 38 : while 1 : chillax end end end main : g : boolean array; chillax end

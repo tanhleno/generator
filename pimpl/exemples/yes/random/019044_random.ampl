@@ -1,0 +1,1 @@
+program s : H : takes C5, oA : boolean array; x, AO30a, S : integer array; N2raa : boolean returns nothing ZFeaa : boolean; C, n, H, W : integer; let vU00a = 0 - 6 end m : takes sEQ, b : boolean array; xB : boolean returns nothing B, C2K : integer array; while - 7 = 2 : output "" end end main : f : integer array; chillax end

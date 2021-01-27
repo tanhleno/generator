@@ -1,0 +1,1 @@
+program t : S : takes Y : integer returns nothing chillax end I : takes p : boolean; sM, O1, x, yj, Q, M6 : integer returns boolean array pop; while 7 = 14 : when case 93 : chillax end end; input u1 end main : input S[- (8 = 9) + true * (9) and 9 or(8) and 15400]; input g45; do d(- not 4 and 30, 10 - 7 >= 5, 8); let PP[- 9] = array - 88 - 27100 end

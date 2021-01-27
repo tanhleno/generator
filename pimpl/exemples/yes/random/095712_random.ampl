@@ -1,0 +1,1 @@
+program Z : main : when case - (8 = 50800) and(53800) / true : let k[- 445 - 2] = 1; input m7[08]; output "" . "" end case false rem(0) - false : chillax end otherwise : output "\t"; when case 1 : pop end end end

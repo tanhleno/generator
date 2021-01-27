@@ -1,0 +1,1 @@
+program h : o : takes h : integer; B, w : integer returns nothing output "" . 0 . 3; let G2[20 - 16] = array - 9 - 2290 end W : takes M, d : integer; q0Paa : integer; S5, u1qaa : integer returns nothing chillax end f : takes g, b1 : integer returns integer Q520 : integer; chillax end main : let z[o4(8, 0) * (72) - a860(647) and not 2 and 99] = - not not 03 rem true + 5 end

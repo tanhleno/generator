@@ -1,0 +1,1 @@
+program b : ya7 : takes q8daa : boolean array returns nothing l : integer; chillax end E : takes tE6 : boolean array; R : integer returns nothing S8 : boolean array; n140, if, PY : integer array; w, e : boolean; tkQaa : boolean; while 33 - 3 /= 7 : let A = 0; pop end end main : let n[true or not 1940 * true and 20 + 9540 and 34] = - 64 and 38 end

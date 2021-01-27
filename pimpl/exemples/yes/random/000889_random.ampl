@@ -1,0 +1,1 @@
+program zH6a : n : takes fy, U, c4a, z33, X010a, o, O4 : integer array; G4, x : integer array returns nothing chillax end A : takes E, w : integer array returns integer s : boolean array; chillax end main : pop - 9410 / true and 1 - 37600 and 0 >= true - 8 end

@@ -1,0 +1,1 @@
+program T : p5 : takes Io : boolean; Ao9 : integer array; whM0a, j, gt4a, Nx7, b, t0iaa : boolean returns integer A : integer; U920 : boolean array; chillax end main : D : boolean array; when case true * 5 / f < false : chillax end case 2 <= 75 and 79 - 551 : chillax end otherwise : chillax end end

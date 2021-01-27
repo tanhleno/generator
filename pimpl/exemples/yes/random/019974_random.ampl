@@ -1,0 +1,1 @@
+program pXV : JF5 : takes p, y : boolean array; p59a : boolean array returns boolean bM_aa, F : integer array; while 53 and 6 or 24 > - 70 : when case 24 : pop end case 5170 : chillax end otherwise : chillax end; do B(19) end end main : f : integer; chillax end

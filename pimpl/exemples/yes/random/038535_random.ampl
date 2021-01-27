@@ -1,0 +1,1 @@
+program AA : Yo3 : takes z : boolean array; B, x1 : boolean; Q : boolean array returns boolean Xj : integer array; dY : boolean array; chillax end A : takes qO, M__ : integer array returns boolean c : integer; TM, n : boolean; r : boolean; output "" end main : input EV end

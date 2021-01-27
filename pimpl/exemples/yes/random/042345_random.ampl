@@ -1,0 +1,1 @@
+program R : m : takes RT : boolean array returns boolean pop - 10 - 9; do i(- 302 - 99900) end eu : takes b35aa : boolean array; o : integer; X_, Uj6a : integer returns nothing while - 80 : chillax end end main : chillax end

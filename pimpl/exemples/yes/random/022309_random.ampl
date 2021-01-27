@@ -1,0 +1,1 @@
+program s0 : D6 : takes t, l7p0a : boolean array returns nothing J160a, Z : integer; m59, S0ua : boolean array; g09, p, X : boolean array; Fi, D : boolean; f : boolean; do C9(- J and 41 /= - 21); output "" end main : chillax end

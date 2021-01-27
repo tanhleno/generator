@@ -1,0 +1,1 @@
+program X : U : takes O : boolean; C, y83, yv6 : boolean array returns integer B1D0 : integer; m, j, L : boolean array; y : integer array; pop - 93 - 4; do k(- 74 - 1 > 7, 60, 90500, 87); while 91200 : while 420 : chillax end; pop end end main : Z3, j560 : boolean; chillax end

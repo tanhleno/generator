@@ -1,0 +1,1 @@
+program F8 : M : takes z0, _7Ma, s950a, H : boolean array; U : integer; V5 : boolean; n7, O : boolean returns boolean chillax end main : J : boolean array; when case not 4 / vt60a(7) or not true + 99 + 5 - 9310 : chillax end case g[8] > - not 49 - 58 - 3 : chillax end case 313 - 8 : chillax end otherwise : chillax end; input v0p[- 5780] end

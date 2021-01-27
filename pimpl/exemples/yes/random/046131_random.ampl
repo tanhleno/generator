@@ -1,0 +1,1 @@
+program uOM0a : X4 : takes rb : boolean returns boolean C, i : boolean array; v, J1, l4w, G : integer; chillax end main : NJ : integer; qd, mY90a, u28 : boolean; N6, eT9a : integer; B9 : integer array; chillax end

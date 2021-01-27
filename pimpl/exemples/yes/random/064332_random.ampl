@@ -1,0 +1,1 @@
+program L : G61 : takes v : integer returns nothing ejGa, O, m : boolean array; tR : integer array; input Y end main : P010 : boolean array; while - false / VN1 rem not 0 and 1 >= - false : chillax end end

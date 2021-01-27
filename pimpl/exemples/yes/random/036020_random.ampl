@@ -1,0 +1,1 @@
+program U : l6ka : takes Nk : boolean; v91aa : boolean array returns nothing f, s81 : boolean array; when case W < 781 : chillax end; let si9 = array - 89400 - 7740 end main : Y6 : integer array; KT, a, Q : integer; chillax end

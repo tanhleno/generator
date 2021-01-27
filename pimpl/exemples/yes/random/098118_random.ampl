@@ -1,0 +1,1 @@
+program Y39aa : main : while - false * false * true and 83 > - false and rn and 1 + k and 08 : when case 89 - 364 : output "]3" end case 5 = 3 : chillax end case 10 : pop end; let C1 = array 0; let g7 = array 979 end end

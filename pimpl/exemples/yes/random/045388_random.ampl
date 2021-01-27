@@ -1,0 +1,1 @@
+program Ueeaa : S : takes u : boolean returns boolean array chillax end g : takes P58, D6Aa : boolean; P : integer; bL : integer array returns integer chillax end Q : takes U : boolean array; qt, lZd, Z, g0 : integer array; m, tD : integer returns integer w, gGy, B : boolean array; F, W9 : boolean; XH0a : boolean; chillax end main : chillax end

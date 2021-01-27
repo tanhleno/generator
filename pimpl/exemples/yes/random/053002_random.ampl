@@ -1,0 +1,1 @@
+program EV : k : takes z2i : integer; R5 : integer array returns nothing h9W, p1, q, b1 : integer; pop; while 4 > 5 : chillax end end main : Gl4 : boolean array; while not 5 and false * 23 + 9 : chillax end end

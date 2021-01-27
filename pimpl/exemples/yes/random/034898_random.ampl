@@ -1,0 +1,1 @@
+program V0 : eO : takes J : boolean; R, G2E : integer array; gY, c4 : boolean array; q, A : integer returns nothing chillax end main : do e(- Ym <= not 766 rem not 3 and 83300 + a and 4, - (3) / not 248 and 4 - false and 7900 or 6 - 96 >= - false - 46, not 9 - 7 = 5, 2 - 2 = 987, 8, 1, 8) end

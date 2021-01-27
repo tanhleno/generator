@@ -1,0 +1,1 @@
+program p : S : takes lk3 : integer; ev : boolean array; T : boolean array; i1, X0, S : boolean array returns nothing ay80, FXr : integer array; Rg, m7Y, HS : boolean array; R_1, u, a : integer; let J[(315) or 6] = array - false; while 2 : chillax end; let qY = array 276 end main : input l3[not b * true rem false and 36 - true * (014) and 8 + 8 and 6] end

@@ -1,0 +1,1 @@
+program J : s : takes Q4, n, Zn, v1 : integer array; rb, tn, td : integer returns integer output ""; input Y[58]; let h = 20 end main : output(307) / (27) - true and 66 - 0 - 73 < (42) or 3070 - 79 end

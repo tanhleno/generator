@@ -1,0 +1,1 @@
+program g : a : takes jz2aa : integer array; Y : integer; rL0, V, _6 : boolean array returns boolean array chillax end FG : takes G93 : boolean returns nothing chillax end z2 : takes p, y, Q29 : boolean returns nothing pop 1; while 6 : chillax end; output ""; do t(2) end main : Jp : boolean array; input z[12 and N[19]] end

@@ -1,0 +1,1 @@
+program fgs0a : cl : takes Q, Go : boolean array returns nothing W9P0 : boolean; f, JT : integer array; chillax end N : takes b : integer array; pWB : integer array returns integer h : boolean; chillax end Z6 : takes C49, E : integer returns nothing q3_0, R7, U : integer; chillax end main : output - C[3] = 6 + 2 . "" . - 775 - 75 >= 16 . "" . 48 . 90 end

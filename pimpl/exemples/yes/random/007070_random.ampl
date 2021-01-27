@@ -1,0 +1,1 @@
+program x5 : f : takes F14, H9a, N, E3X : integer array; KlYaa, P : integer array returns nothing chillax end JzN : takes D, az : boolean array returns boolean do S(0 - 1); let O[42] = array 13; pop 8 end main : L4 : integer; F8haa, LT6 : boolean; j6n0 : boolean array; w, W, j5, Jl : integer; chillax end

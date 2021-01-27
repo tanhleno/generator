@@ -1,0 +1,1 @@
+program Q : Q4 : takes E, o, V4 : integer array; H : boolean array returns nothing output 5; output 21 end main : Q, j : boolean array; do WQ6(- false rem(98) * false and 83, - not u4 / false and 04, - true > 7, - 7 - 8, 5460 = 90, 0); input K[- k9(7) or true and 3 + 310]; when case - true <= 0 : chillax end otherwise : chillax end end

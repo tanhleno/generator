@@ -1,0 +1,1 @@
+program F : u : takes I, hU : boolean array returns boolean array b7o : integer array; o : boolean; chillax end main : while - not 2 / p(7) or true + true and 12 + 05700 - 4 >= - false - not 674 or 2 - 11 : do LT(4 - 3) end; output "" . "" end

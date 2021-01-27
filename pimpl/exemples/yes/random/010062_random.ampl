@@ -1,0 +1,1 @@
+program JO : a : takes Q, v8, aO60a : boolean array; u : boolean array; T, ne4 : boolean returns nothing nVg0a : boolean array; O, T5 : boolean; chillax end main : yo7aa, Swe0a : boolean array; m8, j, X : integer; input w[- (0) - true - false] end

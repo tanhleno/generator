@@ -1,0 +1,1 @@
+program V : V : takes n : integer returns integer y2, ti50a, at : integer; input C9[- false and 9] end main : let S[- true rem not 9] = array - true rem false; output ""; pop - 38400 = 70700; while 960 - 441 : input v end end

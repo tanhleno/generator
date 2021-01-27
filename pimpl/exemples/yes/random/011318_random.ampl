@@ -1,0 +1,1 @@
+program C : z7 : takes yRT0, rm, Y : boolean array returns nothing E3 : boolean; output - 00 - 11 >= 35; while 247 : chillax end; let a[5] = array 0; when case 5 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program bN9a : N : takes nP, V2 : integer array returns boolean let Q510 = array - 53; do C(- 83 - 2 = 213, 3, 3); while 34 : chillax end end I : takes P, iafaa : integer array returns nothing v : boolean array; LW, WE9a : boolean array; chillax end main : b, I5p : boolean array; F : boolean; output - (60) * (7) or cWz or 2 . - false and 7 . "" . 93 = 2 . 5 . "" . "q\n!" end

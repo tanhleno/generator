@@ -1,0 +1,1 @@
+program nK : F9 : takes at5, Y, J, t, u, w : boolean array returns nothing output - 2 - 18 <= 191 . 83000 = 7 . 420 . 8 . ""; do D(- 03900 < 6, 906 = 8, 62, 17); when case 9600 = 4 : let C = 5; pop end; output 7 end main : qP9, _, Q : boolean array; Pe : integer; vc, oH2aa, c, a7P0a : integer array; chillax end

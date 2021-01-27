@@ -1,0 +1,1 @@
+program Z : E4 : takes BJ, q : integer; ZYvaa, u7, E : integer array; ZR, F : integer; C : boolean array; U : integer array returns nothing while(96) and 54 : let zYjaa = 73 end; while - 18 : when case 6 : chillax end end end main : chillax end

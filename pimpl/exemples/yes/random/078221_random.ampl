@@ -1,0 +1,1 @@
+program g : main : n : boolean; do pJma((6 = 25) * c(4) - (74) and not 34 or true - 36 - 4070 < - 47 and true and 4 + true - 6090 - 2, false rem true); do C(- true / not 8); when case false : chillax end case - 5 - 87 : chillax end case 90 = 76 : chillax end case 5 : pop end otherwise : chillax end end

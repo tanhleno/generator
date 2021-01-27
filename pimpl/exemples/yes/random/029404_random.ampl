@@ -1,0 +1,1 @@
+program I2 : J : takes l, Y : integer array returns boolean array let Oi5aa[- true and 1] = array not 1 end P : takes M, JO : integer array returns boolean array Kw, Bn, MI : boolean; FZ, _6D0 : boolean array; I3B : boolean; chillax end w0 : takes i4 : integer returns nothing input _[494]; when case 0 : chillax end end main : H, N : boolean array; chillax end

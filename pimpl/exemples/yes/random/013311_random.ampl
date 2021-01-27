@@ -1,0 +1,1 @@
+program v7 : DN : takes ou, G_x0, ib3 : integer; gT5a : boolean returns nothing chillax end main : I, do60a : boolean array; pop; let m = - false + 7 - 625; when case - Zm < - 5 : let v[7] = 41000 end otherwise : pop end end

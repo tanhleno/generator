@@ -1,0 +1,1 @@
+program g7p : Z : takes RQ, aH7aa : boolean returns boolean array while - A and 62 : while 6 : chillax end; while 6 : chillax end end; do u(- 8740 - 7 > 77, 7) end main : ya, l, iU : integer array; chillax end

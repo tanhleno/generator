@@ -1,0 +1,1 @@
+program V3 : main : when case q / _(69) / not 80 and 5 /= - false * not 30 and 25 + lU5aa and 4 - 4 : when case 6 - 2 : chillax end case 6 = 93 : chillax end otherwise : chillax end end case F3 + not 11 + 4 : chillax end; output - true + 917 - 7 . "" . "29a"; when case - 4 and 4 or 9 - 5 >= 9 : input E[5] end otherwise : chillax end; pop end

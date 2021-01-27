@@ -1,0 +1,1 @@
+program c : w : takes Z : boolean; p, l6 : integer; I8, D, v, K1, Gmx, b : boolean returns boolean R, t5J : boolean; rC, U : integer array; Z68 : boolean array; output "G+!"; input Cr8; do F46(4 = 3, 2); input t; when case 6 : chillax end; while 0 : chillax end end main : L, R5Iaa : integer; G : boolean; rH : integer array; chillax end

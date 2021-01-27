@@ -1,0 +1,1 @@
+program g : C : takes eG : boolean array; Kl, r_10 : boolean array; W : integer array; n, E2 : boolean array returns nothing chillax end q : takes b : integer array; V, V7uaa, J : integer array returns integer chillax end main : pop v rem _ and 214 + not 421 end

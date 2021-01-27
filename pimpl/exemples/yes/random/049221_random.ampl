@@ -1,0 +1,1 @@
+program D : TC : takes B : boolean returns nothing while 63 and 3380 < 589 - 0 : when case 0510 : pop end end end J3 : takes s, X, Q, y7 : integer array returns nothing input U88aa; when case 8 = 1 : chillax end otherwise : pop end end N : takes u6 : boolean array; P9 : integer array returns boolean array chillax end main : chillax end

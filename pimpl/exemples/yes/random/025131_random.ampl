@@ -1,0 +1,1 @@
+program S : B6 : takes ZK, j : integer; p, l0paa, L9, Z : integer array returns nothing input g[false and 4] end main : yeu : integer; pop(35) - 68 or 4050 - 8 >= C0xa and 87200; input J86a; do O_(not 0 > - 01 - 6, - 5 - 1 /= 1, 5 = 69400, 8, 2); output "A1a"; input I9 end

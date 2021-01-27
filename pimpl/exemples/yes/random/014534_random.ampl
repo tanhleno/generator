@@ -1,0 +1,1 @@
+program G9 : x : takes M, C300, d : integer array; B : integer array returns integer input _9[- false]; let i = array 8920; pop 28; when case 72600 : pop end case 5 : chillax end otherwise : chillax end end main : chillax end

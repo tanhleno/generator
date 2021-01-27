@@ -1,0 +1,1 @@
+program z : main : pZ, V : boolean array; when case false + not x50 rem i - (04) : output "" . 914 end case false - 51 and 9 or 3 : chillax end case - false and 2 : when case 638 : pop end case 38500 : chillax end end case 8 = 0 : chillax end end

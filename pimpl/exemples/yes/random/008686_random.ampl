@@ -1,0 +1,1 @@
+program U290 : kZ : takes J, Lk, ll3 : boolean; h, C : boolean; N5, Q : boolean; E6I : boolean; w : boolean array; k0, X_60a : boolean returns nothing let Zg8[- true or 0 - 6] = array - (7) and 4 or 754 - 9 end O : takes V, x71a, V, xePaa, E, Z6C : boolean; T : integer returns integer F : boolean array; chillax end main : chillax end

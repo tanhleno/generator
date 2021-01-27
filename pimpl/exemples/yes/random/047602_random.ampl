@@ -1,0 +1,1 @@
+program g76 : g : takes Bn20 : boolean returns nothing chillax end af : takes e : integer array returns integer pop 19; when case 9 : pop; pop end otherwise : pop end; when case 08 : pop end end Q : takes TRk0, r3 : integer array; A3E0 : boolean; u, Y8, Q9 : integer array; Rl4aa, Y, y590 : integer array; FG90, uo : boolean returns integer chillax end main : chillax end

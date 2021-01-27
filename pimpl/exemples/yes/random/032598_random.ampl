@@ -1,0 +1,1 @@
+program bm4a : K : takes D, j0 : integer returns nothing lL, F59 : boolean; Z3, U02, CF_0, e9k : boolean array; mi : boolean; output "0" . 5850 = 03 end Vzp : takes k9 : integer returns nothing chillax end r : takes k : boolean array; T2 : boolean array; x, k, sr : integer returns nothing chillax end main : chillax end

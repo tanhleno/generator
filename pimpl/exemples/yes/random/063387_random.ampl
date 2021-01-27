@@ -1,0 +1,1 @@
+program U23a : F : takes D4C : integer returns integer Y, U8 : integer; chillax end a050a : takes Ab, q, o, o, o, hKE0, d : integer; C, CY : integer array returns integer chillax end main : j : boolean; when case(9 = 0) /= - true : chillax end; do u20aa(- 43300 or 4 and 1 + 1 - 6 >= false, (39) and 46, 7 - 19 /= 1); do X(37 - 35 - 6) end

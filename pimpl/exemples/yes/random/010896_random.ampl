@@ -1,0 +1,1 @@
+program D : k : takes Flf, TK30a, H : boolean array returns integer chillax end Q : takes IB1 : boolean array; j62, B : boolean; Ud : integer returns nothing when case 8 = 9870 : chillax end; pop 1 end vYvaa : takes lq : integer array returns nothing V4 : integer; R, a : boolean; chillax end main : let tT = array(0 = 09) * true and false + (6); input pS[- 3 rem true] end

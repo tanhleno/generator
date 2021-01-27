@@ -1,0 +1,1 @@
+program s1 : main : when case false >= (662) / true or true : chillax end case - false rem(5) and 5 = - false + 78 - 213 : chillax end case(8) and 2600 or 4 > - 6 - 8 : pop 19700 end; let b[e] = - sz and 78 or 2 /= - 5; output ":" end

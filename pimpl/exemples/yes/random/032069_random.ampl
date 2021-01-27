@@ -1,0 +1,1 @@
+program s : s : takes v7naa, c4 : integer returns integer t4 : boolean; o, E, I, q0Uaa : integer; p990 : integer; Xz1, F : boolean; v3 : boolean; g2 : boolean; chillax end d : takes Y, O : boolean returns boolean array chillax end main : chillax end

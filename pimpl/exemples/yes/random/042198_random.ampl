@@ -1,0 +1,1 @@
+program A : qnn : takes m : boolean array returns boolean y : boolean array; chillax end w : takes v100, q, n, i3Ca : integer returns nothing while 9 : chillax end; when case 1 = 8 : chillax end case 7 : chillax end end main : y0, V : integer array; _8, S, Z : boolean array; output "1o" end

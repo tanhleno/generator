@@ -1,0 +1,1 @@
+program N : z : takes N2, kia0a, T9m0a : integer array; tI : boolean returns nothing let R = array - true and 8 end main : while 1 + s0(304) * x and 8 > - not(14) : let a2 = 9 = 5; when case 7 = 98900 : while 5 : chillax end; pop end case 81 : chillax end case 8 : chillax end otherwise : pop end end; input B; input X5 end

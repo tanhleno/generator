@@ -1,0 +1,1 @@
+program i : main : g : integer; let Kk[2 rem M rem 78 and 62 + 8 rem false and 48 - true or 7 - 3] = array - a8 rem(6) - true; pop; pop - 5 >= 42; let l[- 15] = array - 19 - 1730; when case 3 : chillax end otherwise : pop end end

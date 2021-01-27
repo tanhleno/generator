@@ -1,0 +1,1 @@
+program H : J : takes y : integer returns boolean chillax end F : takes l, nll, B, rwT : integer; ME, F : boolean array; CX2 : boolean returns nothing RS, JIJ : integer; output "" . 8 end main : yp3a : integer array; do D45(- not(1) + false * (0) /= - (17300), h[21] or(255) = (6) and 3) end

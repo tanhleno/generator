@@ -1,0 +1,1 @@
+program X : Z : takes Hk30a : boolean; lm, I1, OCPa, Ba6a, xwu : integer; o, j : integer array returns boolean array chillax end vcx0 : takes m : integer; B : integer; a860 : integer returns nothing x9, F : boolean; while - 00 : while 2 : chillax end end end main : output "1" . - not 240 and 2 > 09 - 94 . "`"; pop end

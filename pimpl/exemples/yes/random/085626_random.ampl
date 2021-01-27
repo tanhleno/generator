@@ -1,0 +1,1 @@
+program c : main : UH : integer array; uB, KRd0, fY4, D, Wyb : integer; Gs : boolean; let H[e(86, 8)] = array - r[431] * not Ia80a and 7 and 2 + true / (3) and 509 or true; do A(8 rem(8) and 02 - hnD and 2 + 120 >= - (5) and 60 + 8, false and 51 + 46, 0 - 656 > 1830, 9) end

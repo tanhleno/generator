@@ -1,0 +1,1 @@
+program e5 : D1W : takes v_3aa, A, t, h, toJ0a : integer; Y : boolean array; hTH0, qa9, _240 : integer array returns nothing do X(not 8 and 5 < 7 - 6, 02300 - 5) end main : output 2 + not 85 and 266 end

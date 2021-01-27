@@ -1,0 +1,1 @@
+program W : Z : takes VZ40, V : integer returns nothing let VtB[- not 27 and 4] = - 30 = 1; input b6[- 4] end main : when case - YXz0a >= - not not 4 * (74) and 3 or(1) or 99 - 93 : do Y(- 5 - 31 >= 15500); input hMK0[3] end case 5 or false and 19 = 1 and 5 - 18700 : chillax end case true and 9 - 9280 : output "\\8aa" end case - 521 - 75 : chillax end; let J = - true - 9 - 67 end

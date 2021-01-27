@@ -1,0 +1,1 @@
+program O6 : main : when case(706) / false : chillax end case - not 272 and(0) + true and 44 /= - true and 8 or 2 - 2 : while 4 : while 145 : chillax end; pop end; do fqg(520, 23); pop; input o; pop end; let v = array - not true; while false and 618 + 1 /= 7050 : output "\"" . "" end; input N[- 240] end

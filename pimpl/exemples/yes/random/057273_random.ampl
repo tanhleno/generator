@@ -1,0 +1,1 @@
+program g : k_ : takes L : integer array; z : integer array returns nothing f : boolean array; input F0 end Q2 : takes v, m720a, k, e, N : integer array returns integer array f, u, H, Y : integer array; pop; output 8 end main : chillax end

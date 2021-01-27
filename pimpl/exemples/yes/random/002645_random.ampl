@@ -1,0 +1,1 @@
+program f9Q0a : c3Xaa : takes iR7, C24, J, l5, Z : boolean array returns boolean array j : boolean; chillax end q : takes o, x : integer array returns boolean v, mr : integer array; CQ : integer; chillax end x : takes cj, WG, Ndk0a, G4 : integer returns integer B : integer; when case 9380 : chillax end; let V[0] = array 68; pop end main : chillax end

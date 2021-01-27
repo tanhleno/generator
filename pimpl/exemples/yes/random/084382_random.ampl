@@ -1,0 +1,1 @@
+program t6 : main : A3 : integer; Z18 : integer; when case - false rem x[01] * not 00 or true * Wz9a or not 50300 - 67 - 31 = - 70 rem(1) and 9420 : input U7 end otherwise : chillax end; output "1-"; when case false and 35 - 2 : chillax end case - 2 > 8 : chillax end otherwise : chillax end end

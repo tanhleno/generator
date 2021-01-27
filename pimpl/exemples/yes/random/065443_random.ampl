@@ -1,0 +1,1 @@
+program q : T : takes l : integer returns nothing when case(12) and 0 : let T = 6; output "" end otherwise : while 55 : chillax end end end W6 : takes I, k : boolean returns boolean output "" . ""; when case 707 = 0 : chillax end case 7 : chillax end otherwise : chillax end end main : g8K0 : boolean; C, b : boolean array; chillax end

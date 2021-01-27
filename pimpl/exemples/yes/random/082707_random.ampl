@@ -1,0 +1,1 @@
+program B : main : P18aa : boolean array; when case - 3 : do Z(9 - 8); let hD6[59] = 6 end case - false < false or 134 - 898 : input uj[4840]; when case 4 : chillax end otherwise : chillax end end end

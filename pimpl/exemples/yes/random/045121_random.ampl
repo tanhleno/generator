@@ -1,0 +1,1 @@
+program Px : _5G : takes e5 : boolean array returns nothing output "."; pop 280 end main : while not 04 * not false / false + 90 * 0 > - false or false - 4 : let u = 240; while 616 : chillax end end; pop; let No[(6580) and 14] = array - true or 61 end

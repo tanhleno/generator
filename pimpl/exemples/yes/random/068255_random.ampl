@@ -1,0 +1,1 @@
+program y6 : main : s8, O, o, I, U, m, x : integer array; K : integer array; when case - XI2[4] or o6W(42) : chillax end case - (31) and false and 105 + false : chillax end case false and 5 < 8590 : while 6 : pop end; output "" end case 5 - 35900 <= 87 : when case 423 : chillax end end end

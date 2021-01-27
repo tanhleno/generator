@@ -1,0 +1,1 @@
+program p : Q : takes Nd : integer; VQ : boolean array returns nothing zR, s, o8R0a : boolean array; D : integer; chillax end main : pop 67 * not 13 and 77900 - not 34 or 9 - 96; output "\\\n" . "" . 149 . 8320 . 6 . ""; do n(not 6 and 793 or 952 = - 70 - 56900); pop; pop end

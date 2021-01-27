@@ -1,0 +1,1 @@
+program LE20 : main : q, x, F : boolean; tR, mS3 : integer; while false or(70) / not 77 and 7 or 9 <= 529 and not 86 and 8 or(0) : when case - 383 - 01 : pop end case 9 : when case 7 : chillax end; pop end end; let P[- false] = array(4) / nx5 end

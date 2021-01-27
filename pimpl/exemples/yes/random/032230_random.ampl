@@ -1,0 +1,1 @@
+program I9 : t : takes F, T : integer returns nothing chillax end IQ : takes J4oaa, B1l0a : boolean array returns boolean Aa : integer array; chillax end R : takes b, p : integer returns nothing chillax end main : F, T5 : boolean array; C : integer; E0U0a : boolean array; oX, r : integer; F1x0 : boolean array; P : boolean; v : boolean; input D end

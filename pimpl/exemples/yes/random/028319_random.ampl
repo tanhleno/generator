@@ -1,0 +1,1 @@
+program K : yT : takes B3, jF : integer array; B : boolean array; m : boolean returns integer output - 809 <= 03 . 67; let c = array 3 - 66 end main : T5u0 : integer; let V[- not false / false / not 94] = array false and false and 75100 and 8 + false * 3 and 77000; pop; pop 1 /= 444; let E[88] = 5420 = 7 end

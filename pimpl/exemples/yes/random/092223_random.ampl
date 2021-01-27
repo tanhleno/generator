@@ -1,0 +1,1 @@
+program nP : main : output - not 6 or false and 071 = false and 8 - 3650 - 6 . not 092 and 1840 + 6 - 43 > - 3 - 6760 . - 6 . ""; while - D6Z * true and 4 - kI and 1 or 2 - 08 : output 11; output 39 . ""; while 17 : chillax end end end

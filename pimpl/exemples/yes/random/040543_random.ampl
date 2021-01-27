@@ -1,0 +1,1 @@
+program o34 : K : takes s : boolean array; i11 : integer; iar, rP : boolean array; c : boolean array returns boolean array f : boolean array; chillax end t9 : takes o, Y, E, j : integer array returns integer array fPq, fG, p, fb : boolean array; chillax end main : rq : integer; chillax end

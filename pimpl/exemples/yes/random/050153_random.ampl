@@ -1,0 +1,1 @@
+program D1 : Qw : takes W : integer; g, F5A, a : integer array returns boolean pop; input z; pop 2 end B74aa : takes y1, x, Vx : integer array; YR4, y3 : boolean; K6zaa : boolean returns boolean let FIy = 7 end main : L, j : boolean; g : boolean; Spr0 : integer; chillax end

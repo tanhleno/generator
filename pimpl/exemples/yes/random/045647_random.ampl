@@ -1,0 +1,1 @@
+program PS : f : takes Um : boolean returns boolean array k, YM : integer array; while - not 6840 and 6 or 428 - 6 : pop; let MQ = 28 end; pop 7; do X(5) end U : takes k, Ig : boolean; S4 : boolean; C7U0a, v : integer; DL2aa : integer array returns nothing KxZa, h2oa, iuc : boolean array; Vf5a : boolean; E1 : boolean; while 45500 : chillax end; pop 1 end main : chillax end

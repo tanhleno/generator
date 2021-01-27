@@ -1,0 +1,1 @@
+program J7m0a : d : takes gAwaa, E5, W4, c : integer returns nothing Qo, x : boolean; chillax end main : R4, Uf2aa : integer array; when case(8 = 266) / false - not(1) : chillax end; output "" . "rg!a"; output 33 < 03; let A[1] = array 3 - 52; pop end

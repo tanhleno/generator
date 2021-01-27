@@ -1,0 +1,1 @@
+program nY : xU : takes S, fg : boolean; I, H2, C : boolean returns integer v, t, T : boolean array; yB5aa : integer array; x, j3 : boolean; X, y : boolean; gbt0a : boolean; s3 : boolean; let QB1[- false and 6] = - 8 - 8 /= 6 end kOy : takes F38aa : boolean returns nothing x, j0 : integer; l5f, P3 : boolean; P, D : boolean; chillax end main : chillax end

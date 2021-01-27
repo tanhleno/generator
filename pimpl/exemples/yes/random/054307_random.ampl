@@ -1,0 +1,1 @@
+program a : y : takes a : integer array; a5, Un8, a : integer array returns nothing when case - i36a + 3 = 8 : input P3[3] end case 00 - 0560 : do X(0); while 9 : chillax end end otherwise : when case 3 : chillax end; input m; pop end; do qT(2) end main : input F; input k[- false] end

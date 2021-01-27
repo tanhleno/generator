@@ -1,0 +1,1 @@
+program Q : i6 : takes T : boolean; N : boolean; GF, _2, j : boolean array; r8, C_T : boolean array returns nothing x, FH, m : integer; C : integer; a, fi, Y : integer; N, y : boolean; a : boolean; pop - 7460 < 6470; do kY(282 - 9 >= 68) end main : s : boolean; chillax end

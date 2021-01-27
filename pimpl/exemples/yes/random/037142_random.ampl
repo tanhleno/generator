@@ -1,0 +1,1 @@
+program r8 : T : takes c48 : boolean; L38a : integer array returns nothing C : integer array; while(4) and 4 : chillax end end D : takes m, j, J97aa : integer; m_7, g_O : boolean returns nothing a, y, N_ : integer; H, w73, he : integer array; chillax end main : k57, j, H, z35a, nO : integer; let jZ = array - (3 = 55) * (78) and(77) and 91 - ub4a(8) or(959) and 1 - 6 - 7060 end

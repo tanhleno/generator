@@ -1,0 +1,1 @@
+program Px : main : cH6a, Kq4 : integer array; K8 : integer; ZZ : integer; U, agq, d, A3Xaa : boolean; p75aa : boolean array; pop - not false * l and 42 or true and 9450 - 34 /= - true and 3 or 52 - 34; do b(true + (9) and 56 < - not 25 + 7); input p0 end

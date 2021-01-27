@@ -1,0 +1,1 @@
+program o010a : main : D6, L, wS, b4e, q : boolean; do dg(- N * true rem false or 5020 and 5 <= true, - not true * not 836 and 50900 /= - true and 860 + 9 - 7, - false and 39, - 81 - 445, 75, 35, 065) end

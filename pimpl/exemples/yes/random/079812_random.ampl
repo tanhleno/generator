@@ -1,0 +1,1 @@
+program Z : main : F6 : boolean; a5 : integer array; while - 87 or(40) < true / not 637 and 1 : chillax end; when case - P : chillax end; when case not 04 and 35 + 67100 = - 76 : pop end case - 7 : chillax end otherwise : chillax end; output 3 . 10 end

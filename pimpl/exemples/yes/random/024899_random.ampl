@@ -1,0 +1,1 @@
+program P8 : mA0 : takes pT, u3 : integer; wMs, _Y8, O, k, z, f, DJ : boolean array returns nothing do w(true or 21 - 5, 046 /= 8, 6, 41, 0) end main : FN, s : boolean array; p82aa, p1 : boolean array; chillax end

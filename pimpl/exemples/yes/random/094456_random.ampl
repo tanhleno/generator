@@ -1,0 +1,1 @@
+program g : main : pop; input f[e(4) * not 71]; when case false : pop 8; input B; output ")" end case - 8 - 2 >= 746 : chillax end case 6 : input w; pop end case 9 : chillax end otherwise : when case 133 : chillax end; when case 6 : chillax end end; input R[7] end

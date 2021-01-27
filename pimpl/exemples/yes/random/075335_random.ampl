@@ -1,0 +1,1 @@
+program O : main : _, T : boolean array; l6 : integer array; input h3Sa[- true rem L - true / 41600 or(6)]; when case(6940) * not 78200 and 2 or false : while 8 = 7 : chillax end end case - iT7aa and 6 - 205 - 999 >= 08 - 8 : chillax end case - 38 - 37 = 16 : output ""; do v5(2) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program X52 : main : v : boolean array; when case - 6 - true and true and 4 > not true - u and 6 + 93 : chillax end case - M600 : chillax end; do _(- not 2 - (5) < - h54aa and 02700 + 76, 6 and 80 < 7, - 9 - 69, 0, 842); output "^" . 1 = 0; let xs = 3 = 3440 end

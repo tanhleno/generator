@@ -1,0 +1,1 @@
+program Zn10 : KI5 : takes b, P : integer returns boolean array n : integer; o34aa, t, l : integer array; W : boolean; chillax end main : S, y : boolean array; d : integer; u, WU, f2 : integer; input iG[- not true + not 8 * false and 6 - true]; let n = array - false rem px5 and 8 - false; output "" end

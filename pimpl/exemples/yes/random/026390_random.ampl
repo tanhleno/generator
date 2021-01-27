@@ -1,0 +1,1 @@
+program Q : fe7a : takes k4, i5 : integer; d94 : boolean returns integer array _ : boolean array; A, C, b130a : boolean; n : integer array; input Tq[not 2 and 1 + 02100 - 23]; let c = array 93 - 1; when case 9180 = 60 : pop end otherwise : chillax end; when case 07 : pop end otherwise : chillax end end main : chillax end

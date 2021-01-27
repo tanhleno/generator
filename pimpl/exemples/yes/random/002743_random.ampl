@@ -1,0 +1,1 @@
+program L : P5u : takes J8, Q50, K, mi5, Y : boolean array returns integer let t[- Eq8 + 4610 - 41] = - 0 - 5 > 3; pop 0; input l end v : takes h : boolean array returns integer H29a, u : integer; C73 : integer array; chillax end main : V9Baa : boolean; chillax end

@@ -1,0 +1,1 @@
+program Wd : U96 : takes re5 : integer; d7pa : boolean; V, qU : integer array; g : boolean returns nothing Wxw : boolean array; R : boolean array; XS, xc, R : boolean array; chillax end main : output "}"; when case false : chillax end case - not 9 + 0 : chillax end otherwise : let K = 0; pop; pop end end

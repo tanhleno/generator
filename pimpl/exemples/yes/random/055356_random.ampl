@@ -1,0 +1,1 @@
+program s : KHg : takes H : integer array; Q, o : integer returns integer chillax end Z : takes a, A98, D : boolean array; kr40a : boolean array; LA0 : boolean array returns nothing while - 4 > 91 : output "" end; do _(73 = 32, 7, 3) end main : do I(true rem(12), true * 5 or 0 and 9900 <= - r + 2 - 2); do r(- not 5) end

@@ -1,0 +1,1 @@
+program k90aa : vO : takes p, n, g : boolean; BEn, w : integer array; i, OE : boolean returns nothing sZ7, tX : integer array; output 9 . 672 = 69 . ""; input R end main : h99, Nk3a, e58aa : integer array; J : boolean; d : boolean; chillax end

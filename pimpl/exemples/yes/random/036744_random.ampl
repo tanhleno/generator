@@ -1,0 +1,1 @@
+program fFp : V : takes tCZaa : boolean; V1B : integer array; m7, Y : integer array returns integer array chillax end Q : takes zz2, r : integer array; w, td, H, K1v : boolean array returns integer chillax end main : chillax end

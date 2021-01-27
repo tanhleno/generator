@@ -1,0 +1,1 @@
+program R : main : do bm(- J8 or false and false or(4) and 42 < - 72200 * true, 7 - true > f - 38 - 2020); let Rwp = array - false; input w; do R3(- 65 - 1 = 0890, 4800 = 80); let t460a = array 19; let P = 061 end

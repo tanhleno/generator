@@ -1,0 +1,1 @@
+program fU : E3 : takes V : integer; M8U, PY7, Jw : boolean returns nothing when case 01900 < 549 : input UW1; do n(9); when case 630 : chillax end end otherwise : when case 2 : chillax end; output "" end end main : chillax end

@@ -1,0 +1,1 @@
+program Z1 : M : takes A, PvB0 : boolean array; O, d, T : boolean array; p, mkT : boolean returns nothing while Y0 and 4 >= 1 : pop; let oTo = 384 end; output 918 = 5 . 7930 . "" end F5 : takes _940a, E : boolean array; ON, z81a : boolean; u90 : boolean; B : integer; N1x, y47, k : boolean array returns nothing nY : integer array; chillax end main : chillax end

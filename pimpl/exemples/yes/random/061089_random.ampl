@@ -1,0 +1,1 @@
+program B : hhk : takes F9L : integer array returns nothing cbua : integer array; chillax end R : takes M : integer array; vn : integer returns nothing j, s : integer; while 51 = 38 : chillax end end main : j : boolean array; q1, go6aa, J, S4, n : integer; P9baa, N7 : boolean array; v : boolean array; chillax end

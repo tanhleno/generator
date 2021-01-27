@@ -1,0 +1,1 @@
+program SdI : Y17 : takes vYe, E : integer array returns nothing let D[7 and 08] = array - _m4a - 9 end main : output - not 1 = - not 1 and 2 . Hc . "8\n\"" . 63 = 5; pop true and 5 or 0 - 67 = - 85 - 8; let pk[- YDx or 8] = - 689 - 9 > 8 end

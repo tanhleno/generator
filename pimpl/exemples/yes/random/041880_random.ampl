@@ -1,0 +1,1 @@
+program KD10a : LE : takes k : boolean array returns boolean array when case - false : input C; while 3870 : chillax end end; pop 673 = 2; when case 9780 : chillax end case 73 : pop end otherwise : pop end end main : chillax end

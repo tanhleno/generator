@@ -1,0 +1,1 @@
+program c : main : Le6, u, G, W8 : integer array; when case(10700 = 5) + b(75500) rem true and 6 or 8 - 2 - 26 > - QoS - false and 39 - 4 : chillax end case - not(2) / true or o and 8 or 0 <= false : chillax end end

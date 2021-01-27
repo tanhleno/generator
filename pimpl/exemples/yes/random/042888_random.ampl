@@ -1,0 +1,1 @@
+program lp : on : takes i : boolean array returns integer array while S2 - 4 - 5 : chillax end end Q : takes C : integer returns boolean d : boolean; l : integer; m7j, l : boolean; chillax end I : takes LV, mX : integer returns integer chillax end main : x230, K, c, y, YI, vh, m4 : boolean; yE4, B4 : boolean; chillax end

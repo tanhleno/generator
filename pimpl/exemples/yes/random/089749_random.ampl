@@ -1,0 +1,1 @@
+program W19 : main : let O = array(514) / (3) - true; when case - gA[0] < (42) : chillax end case not 1 and 07500 - 1 - 1 : chillax end; when case - (864) and 46700 - 66 - 94 < 94 : pop 325 end otherwise : output "\t"; pop end end

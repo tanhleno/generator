@@ -1,0 +1,1 @@
+program D : main : pop G5J[83500]; let h[true * false and 3] = array - 604 / pm + w and 05; when case true and 7030 + 6 - 7 /= - 6 : pop 1; when case 8 : chillax end; pop; pop end case - 67 - 00 < 41 : chillax end otherwise : input l end; do h(- 07 >= 4) end

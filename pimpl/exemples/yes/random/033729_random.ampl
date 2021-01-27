@@ -1,0 +1,1 @@
+program o : y : takes F : boolean; W, l2w, Z, N : integer returns nothing input I5M0a end main : while B(4) : chillax end; when case - not true or false : chillax end case true and 14 or 541 : do d(72300); pop; while 96 : chillax end end otherwise : chillax end; pop; pop 9 = 539 end

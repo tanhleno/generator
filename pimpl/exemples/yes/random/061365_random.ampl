@@ -1,0 +1,1 @@
+program zK : k : takes A : integer array returns nothing output 9 . "f" . 3; do n(12 - 2) end FE : takes G18, gC, wYV, e20, A4, X3, L75aa : boolean; l5, X : integer array returns nothing jJB0 : boolean; chillax end main : i61, F, b : integer; do j(false, - oUO(2) / true and 3 + 825 - 07 >= - 2 and 4 or 8 - 53) end

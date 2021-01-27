@@ -1,0 +1,1 @@
+program D : main : do T(6 * 40 / false and 8 - true * S - 48 and 5 < false - Z, - not(21800) * not 207 or aY7aa - 721, - Vd > 0 - 08); do Y(not 0 and false and 50 + true /= - true - 4); when case not 16 : pop 29 end case - 4 - 7 <= 68200 : chillax end case 63600 : chillax end case 1 : chillax end otherwise : chillax end; let U[8] = 189 = 8 end

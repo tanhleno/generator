@@ -1,0 +1,1 @@
+program R8 : Q6 : takes fB : integer; n : boolean array returns nothing while - jX and 4 + 5 - 7 : pop end; while 460 >= 2 : chillax end end l91 : takes v : integer array returns nothing f : boolean array; SU, o4Daa : integer array; pop 9 = 143 end x7 : takes S, Wk, p8s0 : boolean array returns nothing chillax end main : chillax end

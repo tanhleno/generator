@@ -1,0 +1,1 @@
+program QP : R_ : takes V0, aQ7 : integer; Rw : integer array returns integer array R : integer array; J, AG, KSQ, dXQ : integer; M6, R, Fa : integer array; chillax end main : let I840a[- false + false + L and 3 + 8 - 04] = false rem 717 - (20800) and 0 - 0 - 4 end

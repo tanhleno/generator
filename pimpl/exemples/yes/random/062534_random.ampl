@@ -1,0 +1,1 @@
+program T_ : R : takes w : integer returns boolean F : integer; t, vk3, _8I, j : boolean; G : integer; G, D6 : boolean; when case - true + 4 - 173 : pop end end rqAa : takes b : boolean array returns nothing B5 : integer array; chillax end main : do T6(- (7)); pop not 14 or 4 end

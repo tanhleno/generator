@@ -1,0 +1,1 @@
+program G2e : G090 : takes _, ZC : integer; p79, A : boolean; fY : integer array returns nothing Y, B340a, f3, HJ5, b940 : boolean; Zk, N, w : boolean array; chillax end M : takes Pk, l6, m : integer returns nothing X : integer; let v = 083 end main : do E0Q(62 + (11) >= - true rem ko10, not false - l21 or 2 <= e and 9) end

@@ -1,0 +1,1 @@
+program H : E0 : takes sB, S, xaGaa : boolean returns boolean array g : integer; do e4B(- false and 726 + 6 < 67 - 3); let k310[- 09 - 9] = 405 = 78 end fO : takes P : integer array returns boolean array R, I, D, A : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Wx : C : takes ts : integer; De70, k3R0a : integer array; m, O : integer; L6 : boolean array; l : boolean; _cI : integer array returns nothing z0, Y : boolean array; when case(56) /= 099 : chillax end otherwise : chillax end end main : chillax end

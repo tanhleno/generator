@@ -1,0 +1,1 @@
+program a : main : c4, op : integer array; W : boolean array; s7 : boolean; do B(true or not 9 * 25600 and 98 + (93) < false, - 8 / false and 034 or 9 and 8); do Qm7(true / not 17 and 8 or false >= - 30400); pop; let O[- 392 - 0] = 14 = 87; output 40200 . 3 end

@@ -1,0 +1,1 @@
+program k0 : v210a : takes a48, q : integer array; t : integer returns boolean do e4((8630) and 41 = - 1) end Ho70a : takes OAZaa, yJTaa, o02aa : integer; A : integer returns nothing l5 : integer array; output "\t*\"a"; input U[723]; when case 5 : pop end case 8 : chillax end; while 5 : chillax end; do N5(00) end main : C : integer; chillax end

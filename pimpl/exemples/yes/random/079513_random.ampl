@@ -1,0 +1,1 @@
+program N7v : main : a : boolean; z310a : integer; sP, D, s : boolean; when case - j5[63500] and 6 - true + P and 0 + 3 : pop 29 end case not lr8aa / true <= - (1) and 0 - 7 - 8 : chillax end otherwise : chillax end; output "9\n" . "8" . 628 = 0; let o = array - Z; input E[- 6] end

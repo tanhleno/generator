@@ -1,0 +1,1 @@
+program M43a : S : takes _5zaa, T5, J : integer returns nothing D43aa : boolean array; do w(- not 018 and 8, 7 - 8010) end main : n8D0, U0 : boolean array; C : integer; do U(not false and false rem(97), not false = - Ypt + 8) end

@@ -1,0 +1,1 @@
+program Vg : ww0 : takes MX, o8, J : integer array; i, iD, r : boolean array returns boolean aN, a : boolean; input JC end N3 : takes t, p : boolean returns nothing u, b : integer; while 5 : chillax end end main : pop end

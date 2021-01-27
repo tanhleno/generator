@@ -1,0 +1,1 @@
+program V : e : takes y : integer array; J63aa, L, I : integer array returns nothing when case - not 1 : output 4 end case 4 : chillax end case 5400 = 3 : chillax end; input L[- 4 - 9] end main : D630, u : boolean; input K730[M2Ja(6850, 93400) or true rem true and 1 - not 94 and 31 + 1210 - 1] end

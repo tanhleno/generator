@@ -1,0 +1,1 @@
+program o : C : takes T41a : integer array; kdQ0 : boolean; w, w : boolean array returns integer pop 93 /= 24400; input f46 end main : K9, F_ : integer; gP3 : integer array; let c = array not false + 5 * true; pop - true and 9070 + 3 - 8 > - 4; output 420 - 0; pop end

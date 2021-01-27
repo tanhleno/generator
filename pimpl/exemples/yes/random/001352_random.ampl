@@ -1,0 +1,1 @@
+program Zk : c : takes e, p5, i, f0, v09, p2 : boolean array returns boolean array chillax end main : t5R : boolean; xi, X : boolean array; N74, K6, vV : boolean; q7e0, Lz : boolean array; let Mb9[(78 = 4) and not false + false] = - not true rem true - not 0 + 58400 - 31 end

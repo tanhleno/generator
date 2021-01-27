@@ -1,0 +1,1 @@
+program T : V : takes Bq6, E7K0 : boolean array; x, NA : integer; j : boolean array returns integer RNJ : boolean; w : integer array; B : boolean array; chillax end main : g2, v450a : boolean array; chillax end

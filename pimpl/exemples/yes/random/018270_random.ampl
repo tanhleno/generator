@@ -1,0 +1,1 @@
+program n : b5 : takes DW, Z : boolean; U5 : integer array; c5, t : boolean array; D : boolean returns boolean array v : integer array; l07, G, MS80a : integer; V : integer array; jc, ar : boolean; while 8 - 6650 - 49 = - 3540 : chillax end; output "g" . "9" end main : let S[1 rem not not 8] = - (4) > true and 4 - 64000 end

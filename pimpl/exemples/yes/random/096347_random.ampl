@@ -1,0 +1,1 @@
+program l1 : main : when case - 2 * V32aa(771) rem true and 92 + (86) /= - true + false and 8 - 45 - 759 : chillax end case sg(1) * true and 8 : chillax end case - not 31 > 9 - 7 : chillax end case - 9 : output ""; do T(7); pop end case 0 : pop; pop end case 08 : chillax end case 2 : chillax end; do Q0(not true); when case c or 7 - 2 > - 2 : chillax end end

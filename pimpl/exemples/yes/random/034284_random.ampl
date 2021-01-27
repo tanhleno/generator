@@ -1,0 +1,1 @@
+program o7 : z2N0 : takes f : boolean; C, U : boolean; R : boolean; y : boolean returns boolean zb, J, K : boolean array; chillax end main : g : boolean array; while false rem K(9) * (3) <= _si0a[62] - 6 and 9 : do Zku(- 6 - 22500 <= 4, 3690) end; do j(- (8) and true, not 9 and 5 + 86800 - 79000, 074 - 618 < 06, 02200) end

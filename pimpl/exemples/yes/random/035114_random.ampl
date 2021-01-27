@@ -1,0 +1,1 @@
+program s21 : uWv0a : takes P : boolean; oi1aa, a5da : integer array returns nothing P8B0a, w, G, Y : boolean; when case - not 073 : chillax end case - 2 <= 5 : chillax end case 2350 : chillax end case 72 : pop end; input V[- 918] end main : when case - N6i[67] * false * false and 17 <= - 06 : chillax end end

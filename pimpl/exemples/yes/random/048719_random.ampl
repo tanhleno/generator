@@ -1,0 +1,1 @@
+program i : y0 : takes X1 : boolean returns nothing i : integer array; chillax end main : aR : boolean; R, j95aa, oiS0 : integer; P : boolean array; N4Vaa, X, V5 : integer; do GA(- false); output(0) and 0 >= - 4 end

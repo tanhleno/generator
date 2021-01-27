@@ -1,0 +1,1 @@
+program W7o0a : main : j4ka : boolean; when case c[9] <= (46100) - false and 6 - 9 : chillax end case 5 >= - O1 : do N510a(274 = 44, 2870, 5) end case - w2 + 7 : chillax end case - 231 : output ""; when case 02 : chillax end; pop end end

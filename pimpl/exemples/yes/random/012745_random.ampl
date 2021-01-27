@@ -1,0 +1,1 @@
+program kV80a : Y : takes C, w, f : integer; a, D, s : integer; R : boolean array; e : integer array returns integer array i, d : integer; mQ : integer; M : boolean; o : boolean; d : boolean; chillax end l6Z : takes Oez, W : boolean; a : integer array returns integer array chillax end main : when case - not(47) / (2) : chillax end end

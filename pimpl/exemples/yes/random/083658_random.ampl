@@ -1,0 +1,1 @@
+program LXt : main : T : integer; E, y0 : boolean array; N : integer array; input Y; when case true / true and 580 /= - 9 or 3 : when case 2 = 97 : pop end end case - true < 12 : chillax end otherwise : chillax end end

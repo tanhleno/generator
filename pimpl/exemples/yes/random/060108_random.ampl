@@ -1,0 +1,1 @@
+program y : u : takes e : integer array returns nothing do b((5) and 1 or 3 = 597 - 33, - 81 - 6) end S830a : takes X : boolean; l8, _0 : integer; m, b, X : boolean array returns nothing let t0[6] = 8 end main : chillax end

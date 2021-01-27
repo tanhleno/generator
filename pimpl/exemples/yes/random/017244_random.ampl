@@ -1,0 +1,1 @@
+program F : iH : takes r6, a : boolean; FS, B : boolean array returns boolean wj8 : boolean; a48 : boolean array; chillax end main : s54a, I59, h1 : integer array; do u(- 8, - false and true and 7960 < - true + 1, not 96 >= 2310 - 1160, - 90 - 64000 > 63, 2 = 6); let DM = array false and 984 end

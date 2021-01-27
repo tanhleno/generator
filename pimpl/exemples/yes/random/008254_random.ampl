@@ -1,0 +1,1 @@
+program g : p9 : takes S, P, IFuaa, s4U0 : integer returns nothing F61, n, g100a : integer array; H, M : integer array; H : integer array; M, E6 : boolean; input c; do A(0) end main : yK2 : boolean; input tL[true rem(2) + not xP0 or U870 and 9 - 0] end

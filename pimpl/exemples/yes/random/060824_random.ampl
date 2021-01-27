@@ -1,0 +1,1 @@
+program g76 : Adkaa : takes X : integer array returns nothing o5 : boolean; pop - 4 - 7 end x73aa : takes S5U0a, R : integer array returns integer array while 3670 : output "" end end r580 : takes X7 : integer returns nothing chillax end main : t, q, H : boolean; n : boolean array; A : boolean array; o : boolean; RX70, Y, g : integer array; chillax end

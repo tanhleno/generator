@@ -1,0 +1,1 @@
+program e : RE : takes kc, k, _, XG, K6g, xV, nhL, g3 : integer; I : boolean; o : integer returns boolean output 3 - 4; while 15 - 1 /= 01400 : output "4"; do p(3940) end; do vZ2aa(0, 6) end j : takes r83a : boolean array returns nothing chillax end main : input a[- not true and not false or 44 and(4930) and 650 + 7 - 13 - 7]; do X98(- (9)) end

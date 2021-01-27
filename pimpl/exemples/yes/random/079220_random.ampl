@@ -1,0 +1,1 @@
+program C : main : E6o : boolean; O : boolean; w2 : boolean; fDCaa, y, m3u, PU2 : integer; J2, Rl2aa, Z : integer array; while - true + not 5 - false and 1 - 2 <= um60a and true and 20 + false and 4 or 2 : pop; let gP2 = array 8; output "" . "\n"; input d4; output "~"; pop end end

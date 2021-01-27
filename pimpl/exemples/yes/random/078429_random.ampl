@@ -1,0 +1,1 @@
+program av7 : main : h : boolean; BM, ZU, _R40a, I0, U55 : boolean; QH, a : boolean; N, Dbva, la5, L8 : boolean; z : boolean; s : boolean; rZ : boolean; let uU1[- not false and not(59) rem false - true or B and 5] = array - false or 6 * r4Ua and 59 end

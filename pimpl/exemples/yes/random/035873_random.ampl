@@ -1,0 +1,1 @@
+program Kl : RX : takes NR : boolean; S : boolean array returns boolean do Nn((13), - 700 - 9 < 3, 64); do Z(- 0140 - 5) end main : while - true and true * Kr3 + c[1] rem false /= - false : chillax end end

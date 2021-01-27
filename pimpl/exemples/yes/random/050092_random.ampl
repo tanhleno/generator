@@ -1,0 +1,1 @@
+program w : RL : takes D16 : integer; Q8, Pl, q : integer array; fj90, SCb, h : boolean array returns integer array T7, P, gEr : integer; do f(- not 9740 and 2 < - 553 - 2, 8 - 54 >= 0, 95 = 3); input I9eaa; do w(3 = 9); do zY(19, 80); pop; while 61 : chillax end end main : chillax end

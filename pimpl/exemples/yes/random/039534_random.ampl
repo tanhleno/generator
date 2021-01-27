@@ -1,0 +1,1 @@
+program dB : K7Daa : takes M : boolean array; uAB : boolean; o, b, Y : boolean returns nothing g5 : integer; j : boolean array; pop - 1; while - 0540 - 8 < 4 : chillax end; let h = array 56500 end main : input NR; let nv9aa = S_ end

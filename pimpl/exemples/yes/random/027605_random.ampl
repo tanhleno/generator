@@ -1,0 +1,1 @@
+program o : T : takes J7F, x : integer array; Q, b0 : boolean; b4 : boolean array returns nothing aq8a : boolean; z : integer array; chillax end main : H, r, L, p9 : boolean array; pop - (53) <= - (8); output - (5); while XR and 1 : chillax end; output 24400 = 2 . 5 end

@@ -1,0 +1,1 @@
+program e : main : z7X : integer array; GEs0, n9 : integer array; pop; let qz = - true + 58000 - 7; when case - (5) and 23 : when case 7340 : pop end case 4 : chillax end otherwise : chillax end end otherwise : pop end; let T7T = 3 end

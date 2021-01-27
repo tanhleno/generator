@@ -1,0 +1,1 @@
+program F : W : takes p30, S, d7X0a, Oe, JZ7, FF, wJ_0a : integer; N, Mt, Q4 : boolean returns nothing when case - true and 6 - 866 - 9 /= 1 : chillax end otherwise : chillax end; let k2 = array 12 - 2 end main : w8 : boolean; Y, q, k : integer; nar0 : integer array; when case false or 71 / 52700 or not 3 = - false * D and 4 : output 45 = 1 . "" . 37 end end

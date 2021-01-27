@@ -1,0 +1,1 @@
+program f : W : takes B5_, jZ, oD : integer; L, K : boolean returns nothing chillax end l : takes K, R3S : boolean returns nothing chillax end main : x : integer array; do v1(- (92 = 81500), true) end

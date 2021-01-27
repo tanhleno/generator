@@ -1,0 +1,1 @@
+program h : N : takes AaK, Qh, h : boolean returns nothing chillax end main : let E = array true * w(8) and false - (9390) and not 1; when case not GE or w8g0 or 39200 - 58 < - not 7 and 7840 or 3950 - 4 : chillax end case - k0Qa and 24 : chillax end case - 9 - 787 : when case 20 : chillax end; let a = 442 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program D : rz : takes a : integer; z : boolean array returns integer array f1w, Q, hw : boolean; hLj, Z, F, vg : integer; input d_00[7 or 097 - 6490] end main : P, Z, O : integer array; K, K8 : integer array; chillax end

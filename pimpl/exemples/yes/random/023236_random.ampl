@@ -1,0 +1,1 @@
+program q : c1 : takes ZJ, f : boolean returns boolean u9 : boolean; chillax end main : Z6q, Mj8aa, cl, rx, Y8l0a, Q, y : integer; let P[(39 = 70)] = array - (20 = 0) / false - true and true - true end

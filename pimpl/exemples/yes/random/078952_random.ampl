@@ -1,0 +1,1 @@
+program k9 : main : r : boolean; G, K : boolean array; while - not 3 /= - 3 : chillax end; do e520a(- (8) * true and 21 or true and 9 > - IxNaa and 2); let E[- true and 97 + 686 - 07] = array L and 86 or 79800 - 8; output "" . "\t" . "" . "\n"; do o34(4 = 4); pop end

@@ -1,0 +1,1 @@
+program m : cjI0a : takes R5 : integer returns nothing Xv : integer array; chillax end r35aa : takes X, Hk0, C3 : boolean returns integer output "\"" . "~" . "1B"; do z(04900 = 289) end I : takes R : boolean returns nothing let h[9] = array 2; output 70; let fn = 0; pop; pop end main : t : boolean array; chillax end

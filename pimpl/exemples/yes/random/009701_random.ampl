@@ -1,0 +1,1 @@
+program c : C : takes eS7, R, A : boolean array; K, x, v : integer array returns integer array hB, h2, h : integer; chillax end xY : takes jf, h : integer array; hAt : boolean; Q, S : integer; G770a : boolean returns boolean array chillax end main : let d7 = array not(7) or not false / not 7 and 9 or(3350); let O = not 0610 and 2 end

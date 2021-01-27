@@ -1,0 +1,1 @@
+program x98 : Y : takes f, W8, orW0a : integer; h, X, S, L : boolean array; u4, W, Ds, I : boolean returns nothing L : integer; output - 4 - 05 = 1; output "8" . 5; do F51(2, 39); output 14 . "\t\n"; while 62 : chillax end end main : while - (6 = 34) rem false or true or KP2a : while 06 - 2 : chillax end; let hW[9] = 4130 end; pop; when case(1) : chillax end end

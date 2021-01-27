@@ -1,0 +1,1 @@
+program J : main : k : integer array; aR : integer array; while(4 = 74) / not(3) or v rem not 93700 and 30 > - false / 7 : do zI30(2) end; when case - not 7 rem not 4 and 26 > false + 7 - 623 : chillax end case false : chillax end otherwise : do I(4, 2) end end

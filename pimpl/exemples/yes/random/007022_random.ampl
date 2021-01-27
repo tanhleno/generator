@@ -1,0 +1,1 @@
+program P0t : x : takes P7, f, z, i : integer array; I31, n : boolean returns nothing chillax end main : Z1E, V43 : boolean array; MX6aa, d23, P, B, ag : boolean array; d, OO9, _, v830 : integer; r, SK : integer; h62 : integer; o : boolean; rmk : boolean; dySa : boolean; input Q0 end

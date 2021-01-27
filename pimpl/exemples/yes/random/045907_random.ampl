@@ -1,0 +1,1 @@
+program pr : _Y : takes v : boolean returns boolean chillax end q7 : takes D5, z2 : boolean; s45, G, n9 : integer; TR, YYh, Z, pgRaa : boolean returns nothing let ZV[- 97900 - 6] = 235 = 9; output 08 end main : L9, Y890a : boolean; chillax end

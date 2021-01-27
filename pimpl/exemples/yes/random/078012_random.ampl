@@ -1,0 +1,1 @@
+program tl : main : E, Q : integer array; pop - O + (60) + 53 - 16; input Yp[457 / false and 5 or not 88200]; while - false and 6 : input Eo1aa[7]; pop end; when case - 9 - 7 : chillax end case 23 : chillax end case 935 : pop end case 556 : chillax end otherwise : output ""; pop end end

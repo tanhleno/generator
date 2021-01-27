@@ -1,0 +1,1 @@
+program D : main : j : boolean array; G : integer array; W, x, f24aa : integer array; let ry4[(49) * (6) and true and 0 - i[78]] = array 8 / true / d + false or(5) + 0; pop - false or 16 - 0 <= 2 end

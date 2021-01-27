@@ -1,0 +1,1 @@
+program t : main : z04a : integer; g, Ri : boolean; when case - true / 92 and true and 0 : chillax end case - not _760a > (3) - 041 : chillax end; pop; pop; while 4 : chillax end; input Z6[5]; while 7 : pop end end

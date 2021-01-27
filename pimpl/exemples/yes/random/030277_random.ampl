@@ -1,0 +1,1 @@
+program p : _7 : takes r, L : integer array returns nothing chillax end w : takes r6 : boolean returns nothing O, D, Z : integer; when case 67 : input h4; output "'"; pop end otherwise : do r(17) end end main : qwM, s, j, P5F0, J5C0 : integer array; n, dV, i3 : boolean; let R = array 32 rem 688 end

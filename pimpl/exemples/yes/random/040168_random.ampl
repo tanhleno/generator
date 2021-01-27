@@ -1,0 +1,1 @@
+program n : S : takes v : boolean array; M5 : boolean array returns nothing d6h0a, IS50a : boolean array; O : boolean array; input C[not 82 and 99]; when case - 3 - 50 : do JI(8); input hK end; do Y(63, 379) end ILr : takes c : boolean; tq : integer array returns boolean e, D_3, VM, Gc : integer array; chillax end main : a, j93, hm, c6 : integer; chillax end

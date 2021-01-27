@@ -1,0 +1,1 @@
+program H : W0 : takes Q, E63aa, w, lG4 : boolean returns boolean let Tq0aa = array - 277 and 2500 end main : m1w, S3p0a : boolean; k4 : boolean; u, T : integer; N93 : boolean array; Z : integer array; I98aa : boolean; d : boolean; x5taa : boolean; input U5U[- true or not(4)] end

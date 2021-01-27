@@ -1,0 +1,1 @@
+program b : G : takes G4j0a, rpL0 : integer array; Y : integer array; O, V25, N, D : integer array returns nothing mK : boolean array; D8, X5 : integer array; z : boolean; i03a : boolean; T : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program u : A : takes DWD0 : integer array; _O : boolean returns integer chillax end U5 : takes t : integer array returns integer array J : integer; Tyu, D, o31 : integer; chillax end y : takes bDc, R, Y4, Q7 : integer returns boolean array c60 : boolean; do J(712 = 4, 4590); output 26 . "" end main : chillax end

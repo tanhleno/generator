@@ -1,0 +1,1 @@
+program gc8 : g : takes s : boolean array; a : integer returns boolean em7aa : boolean; P : integer array; R5 : boolean array; f : boolean; G5 : boolean; chillax end main : wQQ, Q : boolean array; rO8 : boolean array; k, d : boolean array; pop - J0(2080) + not 1 - 5 <= false and 47 + 1250 - 174 end

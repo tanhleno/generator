@@ -1,0 +1,1 @@
+program G : N : takes S7P0a : boolean; u7N : integer; ru : integer array returns nothing m : integer array; j : integer; v : boolean; output 8 /= 36200; input Ehi[- 5 - 0]; let _6 = 48; when case 083 : chillax end otherwise : chillax end end main : chillax end

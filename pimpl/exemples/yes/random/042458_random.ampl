@@ -1,0 +1,1 @@
+program HQ : s50 : takes C : boolean array returns integer array chillax end O : takes M : integer array returns nothing wq, x, w : integer; i51, fc : integer; r : boolean; i : boolean; input bqW0a[135 - 2] end main : S, l, e, gJ4aa : integer; E : integer array; chillax end

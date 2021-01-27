@@ -1,0 +1,1 @@
+program s7 : Ku : takes o9, y : boolean array returns integer chillax end qC : takes R : integer; s, j, O : integer array returns nothing E, S7 : integer array; E3 : boolean array; chillax end main : pop - not 36 * not 6 or 52 end

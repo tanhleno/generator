@@ -1,0 +1,1 @@
+program Z : e : takes Z1B : boolean array returns integer array do e(- 69 and 6 - 3, 025 - 9, 71 = 1) end nI3aa : takes X2 : integer array; c : integer returns nothing _J9 : integer array; chillax end G : takes U0U : boolean returns integer array chillax end main : V : boolean array; chillax end

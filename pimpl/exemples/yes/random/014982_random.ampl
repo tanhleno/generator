@@ -1,0 +1,1 @@
+program p : uA : takes r6, z, N : integer array returns integer array input T[false and 4 - 8 - 5] end x : takes m, t, M, h, XCr0a, S8, a : integer; oC, r7m, cN, N, A : integer; fM, j, U3e, fU : boolean; _, o, k15, Rn : integer returns nothing chillax end main : let w5 = - false - a and 23 end

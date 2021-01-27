@@ -1,0 +1,1 @@
+program y : d : takes _ : integer; y : boolean returns integer chillax end K4 : takes C8F0 : integer returns integer pop 9 end main : input zw[- l(0, 5200) and(3) or false and 4 and 6 - true]; let f[- 3 * 812 and 7] = array - 22 or true + 7 - 91 end

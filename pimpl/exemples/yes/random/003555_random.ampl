@@ -1,0 +1,1 @@
+program c89a : D2 : takes O7, H1, q3, c6, I : integer array; v0Y0 : boolean array returns nothing chillax end J2 : takes BN, I, Kji, ku00, SUK, f, e32aa : boolean array; T, v5 : boolean; y8 : integer returns nothing output 83 end main : chillax end

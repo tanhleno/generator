@@ -1,0 +1,1 @@
+program x : main : S, M0, X4, z : boolean; when case(756 = 56) rem Z1(1) or 38000 * false and 60 : input f; pop 39800; do p(75); input z end case - false or 86 and 6 or 9 : pop; input C31[55]; let A = 71300; do L(2); pop end otherwise : chillax end; pop end

@@ -1,0 +1,1 @@
+program T : M4 : takes b, d4, I : integer array; MF7, C : integer; y0, N : boolean; b1 : integer; z, i, q, _u70 : boolean; I38aa : integer; Y6, W : boolean returns nothing do w17a((0250) and 0 + 1 - 25 <= 629, 0 - 58, 6 = 5); while - 6 = 23900 : input B; while 134 : chillax end end end F : takes G510 : boolean returns nothing M : integer array; chillax end main : chillax end

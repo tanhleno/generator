@@ -1,0 +1,1 @@
+program j : O : takes G150, PdGaa, p, Ct, z, R : integer array; O85 : boolean array returns boolean array Q, o : integer; j8, g : integer array; chillax end main : pop - 6 or mXN and 6 or 6 - 40; input Bcr; do v17a(true and 0 - 2); do PO7(- 1 - 1, 8, 88, 2); input T[1] end

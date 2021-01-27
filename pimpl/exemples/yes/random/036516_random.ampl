@@ -1,0 +1,1 @@
+program d : U : takes e5 : boolean; x : integer; V : boolean; H : integer returns integer output "|"; input Ze[3 - 4] end N : takes LO50, Y, x, Z : boolean array returns nothing chillax end Te : takes E, k7 : integer returns integer array while 344 : do M15(8100); pop end; do Qo_0a(1) end main : t, Q : boolean array; chillax end

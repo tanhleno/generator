@@ -1,0 +1,1 @@
+program RKN : main : mp : boolean array; let M3 = array - false or A; pop; when case - true and 73 : when case 99 : pop end otherwise : chillax end end case - 30 : while 8 : chillax end; output ""; pop end case 983 = 71 : do C(968) end otherwise : while 3 : chillax end end end

@@ -1,0 +1,1 @@
+program Z9 : main : C : integer array; D1, F26, Q93aa : integer array; W59 : boolean array; O : boolean; o, u, Fs : integer array; jy, r : boolean; let a[- not not 77100 - 1] = array 46 rem not false or(84); input Lm[- not 917 rem 3 and 0]; let d = 246 - 2 end

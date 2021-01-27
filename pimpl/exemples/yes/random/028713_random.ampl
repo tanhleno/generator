@@ -1,0 +1,1 @@
+program b : i : takes F, P : integer array; E34 : integer; i : boolean; q, L, Dp, V : integer; j, aK1 : boolean array returns integer let Z640[- o and 8640] = 89300 - 3 end main : i, b0I : integer array; chillax end

@@ -1,0 +1,1 @@
+program s : main : h, Y1 : boolean; do F(not lY8[59] * (4) < t3, - _E + true and 46700, - true - 6 - 3 <= - 796, - 45); do s(- b3(60), (7) /= - 1 - 60, - 8, 2 = 798); while - (5740) and 40 : do UA(729); output "" end; input V[7750]; when case 6 = 23 : chillax end case 57600 : chillax end case 9 : chillax end otherwise : chillax end end

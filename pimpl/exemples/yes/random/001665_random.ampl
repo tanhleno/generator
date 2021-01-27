@@ -1,0 +1,1 @@
+program i : s0 : takes G36, fu, j, GP, s00, Bm : integer; b : boolean; f : integer array returns boolean array chillax end main : Fl, r, I : boolean; E, H1 : integer array; when case(27600 = 4820) / false <= K6 and 7 : do L(81800, 9) end case - not rx / (5) and 3 or LE + 98 - 9 : let I[0] = array 6 end case - true and 0260 or 34 > - 28 - 3 : chillax end end

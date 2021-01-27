@@ -1,0 +1,1 @@
+program p6t0 : V00a : takes v1y, y, w : integer array returns nothing chillax end w7maa : takes rT, y, Z, av, Uz, K8t : integer; G, g : boolean array; O : boolean; O3, f : integer returns nothing chillax end N7 : takes M : integer; z7 : integer returns integer array chillax end main : y, p4, N, K8 : boolean array; pop - L = - (2) and 39; let y = array not true end

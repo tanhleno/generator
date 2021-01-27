@@ -1,0 +1,1 @@
+program G : main : do t3Taa(- _0[270], L7 and true, true /= - 5 - 8, 1 - 1160 <= 9); pop 23 and 63 or 37 > 50 - 6; when case not 65100 - 61 - 4 = - 2 - 66800 : do a0X0a(3, 450); while 5 : chillax end; while 5 : chillax end end case - 9 : do Q8Saa(96); pop end case 88 : pop; pop end case 46000 : chillax end case 2 : chillax end otherwise : while 63500 : chillax end end end

@@ -1,0 +1,1 @@
+program G3ua : r04 : takes ws0, v4 : integer array; a : boolean array; cm, b2 : boolean array returns nothing pop - 3 >= 9 end main : input _5; pop; while - 49 + 5 - 889 : let tIY = array 4; output "\"9"; pop; pop end; do J(- 9, 2 = 9); while 2 = 29400 : pop end end

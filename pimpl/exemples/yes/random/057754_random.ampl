@@ -1,0 +1,1 @@
+program P : B : takes k : integer array returns boolean array W, l6C : boolean array; F7w0a : integer array; D : integer array; chillax end a : takes XVH0a : boolean; E4, Cg : boolean returns integer chillax end main : do X0Laa(- not X[2] rem false + not 9 or c7c0); input Gp80 end

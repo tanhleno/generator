@@ -1,0 +1,1 @@
+program a : main : D : integer; Z370, B, u, h1, A, Xh : integer; when case - not(6) - 12 - false and 4 or 9 - 306 : pop end otherwise : when case 5 : chillax end case 6 : chillax end case 54500 : chillax end end; when case - true rem true and 93 : do N(84300 = 52, 60); when case 56 : chillax end end case(4) : while 44 : chillax end; when case 93500 : chillax end end end

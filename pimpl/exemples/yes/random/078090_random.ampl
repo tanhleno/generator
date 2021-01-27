@@ -1,0 +1,1 @@
+program w : main : y, T07 : integer array; when case - not 587 rem not false : when case - 6 : chillax end case 2 : chillax end otherwise : output ">" end; input q; let nwZ[9] = 4 end case(3) and pa >= - not 75 + 0 - 64000 : input B; pop; input Tvl; when case 2 : chillax end; pop end otherwise : while 19 : do D(3) end; input QQL0a[99] end end

@@ -1,0 +1,1 @@
+program j : X : takes G, B : integer returns nothing let n73 = - 4; do s(- 5270, 363 = 0, 02) end _ : takes Q_7, S : integer returns nothing R2, P : integer array; o, i, W : boolean; J, _ : boolean; a : boolean; o : boolean; chillax end main : when case false and(8) rem false : chillax end end

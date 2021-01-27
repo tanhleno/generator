@@ -1,0 +1,1 @@
+program Q : main : v7 : boolean; do M140a(- n(77) / true - false and(838) and 9480 or not 1 and 364 < - not not 06100 / (8) and 6 or true - 6 - 030, false * (8) and 861 - false and 5 or 596 <= - 13, - (88000) <= 579, - 45 - 7 < 6400, 4, 07) end

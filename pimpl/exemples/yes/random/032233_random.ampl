@@ -1,0 +1,1 @@
+program V : R : takes dj, q : integer returns nothing chillax end N : takes S91, a : boolean array returns nothing j : boolean array; k, V, A51 : boolean array; i : boolean; while 62900 : chillax end; input OC[6] end main : l : boolean; chillax end

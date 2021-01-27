@@ -1,0 +1,1 @@
+program D3eaa : SH : takes Casa, q41 : boolean returns boolean chillax end Y : takes O8, Ey, QK, S, s : integer returns boolean U99a, jL, d4Qa, tLoa : boolean array; t, r : boolean array; nV : boolean; n : boolean; P : boolean; chillax end main : u5, F, C : boolean array; l : integer; input G end

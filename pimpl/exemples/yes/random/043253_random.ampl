@@ -1,0 +1,1 @@
+program d5 : H : takes LYA : boolean array returns integer H : integer array; do J(- n) end e : takes k, wF70, cCN0a : boolean; L, p : boolean array; i40, I : integer; h, h, s, o : integer returns integer array VW, N3r0a, c : integer array; chillax end main : I, Zy, r : integer; S41a, H2 : boolean; k350a : boolean array; IM : boolean; chillax end

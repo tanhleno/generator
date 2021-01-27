@@ -1,0 +1,1 @@
+program Tur : N : takes J, Kj, H3Ua, vo, Yt, c, m460a : boolean array returns boolean array Iq, A : integer; d : integer array; u_ : integer; j : boolean; pop - 1 - 4 <= 69; let _[222 - 46] = 1 = 2 end main : pop end

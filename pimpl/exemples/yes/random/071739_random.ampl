@@ -1,0 +1,1 @@
+program IJ : main : n, T720a, R : boolean array; input m; pop; output - 73; when case - 274 /= 31 : when case 76 : chillax end; let oy = 062; pop end case 5 : chillax end case 4 : pop end; output 4 . 0 . "\t!" end

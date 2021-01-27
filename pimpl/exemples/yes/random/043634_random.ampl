@@ -1,0 +1,1 @@
+program Y2e0 : d860 : takes C : boolean array returns nothing chillax end d : takes _5 : integer array; g8 : boolean array; T2U0, _7h : boolean array; l, G : boolean returns nothing chillax end main : D : boolean; tBS0a, nu : integer array; chillax end

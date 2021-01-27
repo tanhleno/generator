@@ -1,0 +1,1 @@
+program w : C : takes M, o : boolean returns boolean chillax end main : x : boolean; wP_aa, Kw, e51aa, w5K : integer; y9ta : boolean array; i7 : boolean; do K(izlaa[0] or(5) or 3 or 216, - oU[26000] - (25) and 3 + 5) end

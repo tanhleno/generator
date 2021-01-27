@@ -1,0 +1,1 @@
+program A : V : takes h_oaa : integer array returns boolean array Cexaa : integer array; g, hY, tr, q : boolean array; usfa, HW90 : integer array; chillax end main : Jh, uv, ObA : integer; a, N : integer; let K = - (2) / not 2 = true or 5 - 2; let X[false and r or fh + 2] = array - true or true; pop end

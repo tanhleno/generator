@@ -1,0 +1,1 @@
+program e : r : takes m : boolean returns nothing o78, bGM0, T6 : integer array; V, m090a : boolean; chillax end jK : takes meM0a, fU, vPw0a : integer returns nothing chillax end main : while true /= - false : chillax end; do e94a(true * true + 2 + 2); do z(not 2 /= 21) end

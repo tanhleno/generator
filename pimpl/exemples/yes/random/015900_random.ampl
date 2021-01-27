@@ -1,0 +1,1 @@
+program t4 : u : takes F, INo, y : integer returns integer array chillax end a6uaa : takes C : boolean array returns integer zrRa, c50 : integer array; h62a : integer array; B, f9Z0 : boolean; R330a : boolean; chillax end main : pop; while - 42 or false and 8 or 1 > - k2i0 : chillax end; do A(not 706 and 0 + 99, - 32 - 21700 > 4) end

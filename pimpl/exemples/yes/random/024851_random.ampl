@@ -1,0 +1,1 @@
+program n : q : takes m, ZS : boolean returns nothing while(6) + 1 <= - 5 - 55 : chillax end end i : takes R620, X : integer array; YvJ : integer array returns nothing U0 : boolean array; G8 : boolean; pop; do z(686 = 9, 41800, 9) end main : chillax end

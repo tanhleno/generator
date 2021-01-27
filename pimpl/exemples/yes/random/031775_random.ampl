@@ -1,0 +1,1 @@
+program T : Q : takes C, bL : integer returns integer array G, I8, _41 : integer; when case - false and 21 + 7 : when case 1 : chillax end; let q69 = 6 end; input Iq9aa end p : takes b, sN : boolean array; m : boolean returns integer _, _, n, y : integer array; eB80, b7, t : boolean array; d6 : boolean; o : boolean; chillax end main : v, qX : integer; chillax end

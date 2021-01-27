@@ -1,0 +1,1 @@
+program pe : main : S : integer; R8, k : integer array; V : boolean array; w : boolean; while - (2) and true * true and 3 - y[4] or rmt : chillax end; while - true - false or 67 - 7 : chillax end; input Ky5aa[- (83) and 10 - 4 - 5] end

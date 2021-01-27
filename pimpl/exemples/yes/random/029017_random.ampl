@@ -1,0 +1,1 @@
+program d04a : w1 : takes b97, B : integer array; m : integer array returns nothing uB, C : integer; let E[false] = array - 40 or 137 end main : input B[- K * true or false]; while - true rem 4 and 22 : chillax end end

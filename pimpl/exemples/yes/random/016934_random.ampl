@@ -1,0 +1,1 @@
+program Y7M : y6p : takes U_8, G75 : boolean; p3t, J, j : boolean array; a : integer array returns nothing w : integer array; chillax end V6 : takes m, Q, k, LW : boolean array; m : boolean returns integer array F : boolean; chillax end main : V, E : boolean array; chillax end

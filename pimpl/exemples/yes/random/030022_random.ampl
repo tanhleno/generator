@@ -1,0 +1,1 @@
+program D : f : takes Or, F : integer array returns integer EP, E : boolean; pop 92 end T : takes xl2 : boolean array returns nothing C : boolean array; E : integer; e : boolean; d : boolean; oS : boolean; chillax end main : chillax end

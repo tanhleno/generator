@@ -1,0 +1,1 @@
+program W6 : a52 : takes JS00 : integer array; T : boolean array returns nothing chillax end main : zs, om : boolean array; m9, W900a : integer; while - 35 and not O or false or 9 + 324 <= - true : chillax end end

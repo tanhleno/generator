@@ -1,0 +1,1 @@
+program v6 : main : pop; when case - not not 8 /= w and 249 : let D = 4; let MT = array 8 end case - true and 7 /= 073 : output "" . "#" end case 2 - 82 : chillax end; output "68\"" . ""; let n = 8 end

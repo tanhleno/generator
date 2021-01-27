@@ -1,0 +1,1 @@
+program A : KQc0 : takes G : boolean array returns integer array chillax end J : takes J0x : integer array; CHY0, E1i : boolean array returns integer when case 4 - 1 > 1 : when case 7 : chillax end end; input z9; output "" . ""; input m; while 7 : chillax end; pop end main : chillax end

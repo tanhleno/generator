@@ -1,0 +1,1 @@
+program Cn6a : X : takes R : integer; Q, I79 : integer array; H, Z, B, yPWa : integer; Cu, j : integer returns boolean lJ : integer array; a, e, x : boolean array; s : integer; _ : boolean; FH : boolean; chillax end main : when case(3) : chillax end end

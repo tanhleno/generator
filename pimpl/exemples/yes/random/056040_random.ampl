@@ -1,0 +1,1 @@
+program f : Ai20a : takes L : integer array; Dg6 : boolean array returns boolean when case - not 3 - 3240 < - 3 : output "!"; do YRMa(5) end case 4 - 33 : let B = 7 end otherwise : output ""; let W = 39 end; let b = array - 88 end main : output 3 / 2 and 9 = false - 7 - 01 end

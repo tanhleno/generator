@@ -1,0 +1,1 @@
+program U0 : C : takes f : integer array returns integer k, LMR0a, hpJa, C0B0a : integer array; k : integer array; p6 : boolean array; let z = array true - 7; input E[5 - 8] end main : input O; output - true and 56 + 5 - 9 end

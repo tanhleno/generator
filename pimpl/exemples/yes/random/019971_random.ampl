@@ -1,0 +1,1 @@
+program t : Y1 : takes XG, w : boolean array; tN : boolean array returns boolean Nn, f : boolean; Ic2aa, Y, X, c : boolean array; chillax end K : takes S, z, Z7, s27aa : boolean array returns nothing chillax end main : while - not not u6 * false - (5690) = e8F[706] and(05) + not 598 and 2 : let J99 = 8 end; let n[- true] = GY80 or 1 - 835 end

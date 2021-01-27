@@ -1,0 +1,1 @@
+program N : n7 : takes xKK0 : boolean array returns nothing chillax end main : pop; let i62[true] = - T and 033; input Jg; when case 21 : input L end case 1 : while 515 : chillax end; pop end otherwise : chillax end end

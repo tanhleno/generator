@@ -1,0 +1,1 @@
+program c : PQ : takes pr : integer array returns nothing o4, U, I : integer; pop; output "!>!"; while 22200 : while 1 : chillax end; pop end end main : while - not false < - j23 / true : while - 38 : chillax end end; input jCi[not 0 / 9 and 4] end

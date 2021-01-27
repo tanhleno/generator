@@ -1,0 +1,1 @@
+program L : F0 : takes AR : integer; l : integer array returns integer array U : boolean; chillax end IBw : takes T : boolean array returns nothing k : integer; when case 6 - 59 : input k4; output "!4" end; let Z = array 4 end main : se6 : integer; HA : boolean; d, W, iH7 : boolean array; z3 : boolean; tpi, Q3Da, d : boolean; input x1 end

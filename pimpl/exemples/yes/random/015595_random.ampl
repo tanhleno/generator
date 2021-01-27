@@ -1,0 +1,1 @@
+program L : O : takes F8j, Q, m7yaa : integer array returns nothing pop 4 - 8; input y[355 - 00]; output "fX0" end k : takes Q, s7 : boolean; J9d0, p8, r : integer; EY90a, L8, Q01 : integer array returns nothing when case - 776 - 8 : chillax end end main : chillax end

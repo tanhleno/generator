@@ -1,0 +1,1 @@
+program j4 : h : takes s15 : integer array; h, sr2, Z6, c : integer array returns nothing Q, AVE, M0, e6k, c4 : integer array; r99 : boolean array; z, a : boolean; or7, I : boolean; XB80a : boolean; chillax end main : pop end

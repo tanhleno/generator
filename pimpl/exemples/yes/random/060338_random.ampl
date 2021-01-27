@@ -1,0 +1,1 @@
+program y41 : Z : takes n : integer array returns nothing xJc0a, R3, oN : boolean; let P9k[- true] = array - y and 0 end J : takes T : boolean array returns integer array do _(24, 5); let HgJaa = array 3 end JRa0 : takes sz : boolean array; M : integer returns integer array R3 : boolean; M, N7v0 : boolean; chillax end main : chillax end

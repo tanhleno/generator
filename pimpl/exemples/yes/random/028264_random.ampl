@@ -1,0 +1,1 @@
+program Y : e : takes IN, z : integer array; X : boolean array; A7, O : boolean array; x : integer array returns boolean array chillax end opX : takes S3, t : boolean; L, R35a, V, r : boolean array returns nothing output "\""; output 6330 . "q" . "2"; input W5Y0a[1]; do f(58); input g3 end main : X : boolean array; chillax end

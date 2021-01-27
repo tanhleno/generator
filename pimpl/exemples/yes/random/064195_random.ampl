@@ -1,0 +1,1 @@
+program v4 : F : takes Dd : integer returns nothing f, k9, Jsb0a, M, E : integer; output 0 . "" . ""; pop; while 6 : output ""; pop end; when case 9 : chillax end otherwise : chillax end; input SG end main : input S[(7 = 2)]; let Q[52200 * not 23 and 59] = false and 3 + 2 end

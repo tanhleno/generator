@@ -1,0 +1,1 @@
+program y : p8 : takes M : integer; Y, f1, Fp, t : integer array; p22aa : boolean array; mAza, G : boolean array returns boolean M8 : integer array; let sd[- (589)] = - 63 - 502 > 5330 end main : D23, R : boolean array; pop - false / not 1 and 52 end

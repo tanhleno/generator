@@ -1,0 +1,1 @@
+program uMD0a : W : takes V : boolean; dlO, k52 : boolean returns nothing Sd : boolean array; chillax end I : takes n : integer array; W : boolean; u0, Hp, _, WL : boolean array returns nothing _ : boolean array; input c8[516 - 2]; while 9 = 01 : chillax end; do pae(9, 27) end main : chillax end

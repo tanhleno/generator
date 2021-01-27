@@ -1,0 +1,1 @@
+program y5a0 : t : takes u : boolean array returns boolean array when case - true : chillax end case 37 - 392 : chillax end case 5 : let I = 007; pop end case 25 : pop end otherwise : chillax end end main : q, H : integer; chillax end

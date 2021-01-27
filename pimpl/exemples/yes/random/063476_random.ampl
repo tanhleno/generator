@@ -1,0 +1,1 @@
+program g : R890a : takes G : integer returns integer P : integer; p, R, z, SO : integer; do uC3a(- not 60 and 87400, - 76, 97, 72, 8) end s4u : takes A, t : boolean array; w1a, P0, S1, V, J : boolean array returns nothing t : boolean; do O_(8 - 7 < 7) end w : takes b, t : boolean returns boolean chillax end main : output "c%\"" end

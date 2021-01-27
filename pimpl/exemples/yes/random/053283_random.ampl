@@ -1,0 +1,1 @@
+program t : v : takes VAs : integer; w : integer returns nothing v, N, k : boolean array; p5 : integer array; chillax end e : takes i : integer array; X : integer array; YX9 : integer returns nothing PT, Z9 : integer; Np : integer; pop end main : Sd70 : integer array; K : boolean; while - K * cr(1) >= true / S and 36900 : chillax end end

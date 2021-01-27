@@ -1,0 +1,1 @@
+program t03 : m : takes Y, D : integer; wsI0, ozzaa : integer returns boolean array input vCb[- (5)] end p : takes K : boolean; F, j, H : boolean array; k : integer; l : boolean returns nothing do P(3, 0 = 2, 7) end main : do h(false or true or true and 6 or 4 = - not false, - X10[247] * false and 48400 - false and 95 + 9 > - F6) end

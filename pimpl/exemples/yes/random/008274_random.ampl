@@ -1,0 +1,1 @@
+program C3Ya : N : takes Ai, n, l5, C : integer returns nothing X, _ : boolean array; T : boolean; UJ0 : boolean array; let g = array true and 0100 or 94 - 0; pop; do nd(5, 1, 9) end MtQ0 : takes QYw : boolean array; B9r0a : integer array; h : boolean returns nothing k2B : boolean array; chillax end main : chillax end

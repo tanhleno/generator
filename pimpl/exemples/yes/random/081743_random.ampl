@@ -1,0 +1,1 @@
+program X : main : P : boolean array; o : boolean array; Az, ae : integer array; when case true rem false * not 53300 < (0) - b and 41 - 4 - 0 : let D = array - 4 end case - Fd50a rem 417 and 0 - (77) - 3 - 73100 > not 1390 : output 15 end otherwise : input W[441] end; output - v930a; pop 5 >= 6; while - 17 <= 9 : do Nl(24400); do q(88) end end

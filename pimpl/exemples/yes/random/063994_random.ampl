@@ -1,0 +1,1 @@
+program S : u : takes K5X : integer returns nothing chillax end main : N8 : integer; F6d0 : integer array; L, r3J0a : boolean array; f, w : integer; let L = - X39(26) - (62) and 8 + 46500 - 348 < - qI end

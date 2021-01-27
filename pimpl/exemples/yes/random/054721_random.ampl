@@ -1,0 +1,1 @@
+program y : E : takes z : integer array; C, mn : boolean array returns nothing u, l35a : boolean; while - 8 + 5 = 8 - 3 : output "H9" end; do N2na(- 66400 >= 882, 119, 0) end main : x_ : integer; chillax end

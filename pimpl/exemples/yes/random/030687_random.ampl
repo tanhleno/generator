@@ -1,0 +1,1 @@
+program E : G : takes D, N : integer array returns nothing R, q : integer array; nF, y56 : boolean array; y : integer; chillax end main : do P(- V[6] - fx(6) * 1 and 5 + false and 84 + 5 - 1 = (34) rem true and 16) end

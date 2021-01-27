@@ -1,0 +1,1 @@
+program zy : o8 : takes P : integer returns integer array M08 : boolean; chillax end q67 : takes uf, A : integer array returns boolean array o1 : boolean array; let W1 = 812 = 7; pop end main : chillax end

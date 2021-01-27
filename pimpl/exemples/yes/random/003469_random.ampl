@@ -1,0 +1,1 @@
+program KFm : x9u : takes f, S, F0, t, w : integer array; d, Af : boolean returns nothing output "v" . 2770 end x : takes Cs, P2 : integer returns boolean array YdT, Nika, W, UU : integer; chillax end a : takes B : boolean array returns integer array J : boolean array; chillax end main : chillax end

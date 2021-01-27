@@ -1,0 +1,1 @@
+program QN : EIf : takes wuV : integer; V0x0, d2m : integer; vC, L, Q7Ba, E, kG : integer returns boolean input lpA0; do m6(7 - 7 < 2, 0 = 9) end main : P9q, n : boolean; LHg : boolean array; pop 5 * false or(6) >= (22) end

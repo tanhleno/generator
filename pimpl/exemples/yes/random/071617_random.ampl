@@ -1,0 +1,1 @@
+program nB : main : Y870, jx, h : boolean array; y23 : boolean array; UA : boolean; when case - false > - true and false : chillax end; pop; do T0P(- true and 00, 3 - 185 = 52, 11400); while - 0 - 93 : output "2N"; pop end; output 768; pop 55 end

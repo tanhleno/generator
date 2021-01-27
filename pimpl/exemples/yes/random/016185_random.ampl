@@ -1,0 +1,1 @@
+program q : S : takes U6o, Y8Vaa, I : integer returns nothing chillax end K5J : takes r : integer; f, S : boolean array; OB80a, r : integer array; u : boolean returns integer d, rn : integer; L, eI : integer array; HD : boolean; O9 : boolean; bJ : boolean; chillax end main : output - not(1) and not 82 or true or 8 <= not 9 or 8 end

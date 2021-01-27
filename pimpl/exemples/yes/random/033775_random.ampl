@@ -1,0 +1,1 @@
+program C : s120a : takes c : boolean; x, N, f8x0a : boolean; U7G : boolean array returns nothing C2 : integer; iUU : integer; j57aa, Mn : boolean; N, j : boolean; S4 : boolean; Ug9 : boolean; chillax end Q : takes Dz : boolean array returns nothing j, B : integer array; chillax end main : chillax end

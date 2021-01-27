@@ -1,0 +1,1 @@
+program X93 : o : takes yN : boolean array; Cf1 : boolean array; R, vv30a, f, V, E, z_ : integer; q : integer returns nothing chillax end main : while not B6Va rem 07700 / true or not(22) /= - not(9) / (161) : output ""; output "" . 48; do l(6340) end end

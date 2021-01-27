@@ -1,0 +1,1 @@
+program kt0a : sQ : takes D, Afi0 : integer array; l, z1 : boolean returns integer array while(52) and 1 + 5 : chillax end; when case 4 - 9 : chillax end end w : takes y : boolean; t, F4 : boolean array returns boolean array o, Ap9, LT : integer array; let I = array 85600 - 0; let LQ = array 01 end main : input LH0aa[(220 = 830) and 99] end

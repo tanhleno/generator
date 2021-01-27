@@ -1,0 +1,1 @@
+program Qa0 : C79a : takes P2 : boolean array; h5h : integer returns boolean array chillax end main : output k(2) * false and 3 > not 9 and 165 + 9; while not(99) >= 439 : let m0[3] = 8 end; do P0(- false or 2 - 33 >= 2 - 856) end

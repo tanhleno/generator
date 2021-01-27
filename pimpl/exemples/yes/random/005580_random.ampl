@@ -1,0 +1,1 @@
+program WIw0 : A : takes k, y, N, A : boolean array returns nothing do g(- false and 2 or 18 - 7, - 476) end WZ : takes WKlaa, SS, K : boolean; T, S : boolean array returns integer H : boolean; chillax end main : pop - LU7 - true and 6 end

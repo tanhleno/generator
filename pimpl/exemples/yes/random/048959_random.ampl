@@ -1,0 +1,1 @@
+program E3 : f3L : takes H : boolean returns nothing let h5w[7] = array - false or 5 - 2; pop; let lCH0 = 44200 end E5_0a : takes Cm5 : boolean returns nothing when case - 7 = 3 : chillax end otherwise : chillax end; input k[450]; pop end l4 : takes m0, dF, DY3a, P0 : integer returns nothing dO, j, g7E : integer array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program l3O0 : S : takes w, xZ : boolean returns integer R, s : integer array; chillax end J : takes c6p, mq, r, t, U, j850a, f : boolean; K : boolean array returns integer pop 9 = 4 end main : chillax end

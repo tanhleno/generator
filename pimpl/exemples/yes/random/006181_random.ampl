@@ -1,0 +1,1 @@
+program YKA : L : takes Zy5, f, H, j : boolean returns nothing W, Z8m : boolean array; let z[- not 5 and 6 or 8] = 8210 - 8; output 8 = 09 end main : w, G4, V, k, oG, Z : integer array; w_90 : boolean array; chillax end

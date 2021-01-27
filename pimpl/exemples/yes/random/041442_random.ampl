@@ -1,0 +1,1 @@
+program MvQ : x : takes g0 : boolean array returns boolean array chillax end s2w : takes VJ, VO, A57 : boolean array; W1, H : boolean; H0, ik, m : boolean array returns nothing pop 6 = 22; pop end main : G1, x100a, a, H8, oW, xLja : boolean; v14 : boolean array; chillax end

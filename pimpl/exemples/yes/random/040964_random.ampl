@@ -1,0 +1,1 @@
+program F1 : H : takes Y36a : boolean array; ri : integer array returns boolean array chillax end o : takes dwh0, l : integer array; R73aa, WU7aa : integer array; z, V, q : integer; D14a, B, Ia : integer returns nothing when case - 6 : chillax end case 5 : chillax end; pop; pop 3; do q(53); do F(4); pop end main : chillax end

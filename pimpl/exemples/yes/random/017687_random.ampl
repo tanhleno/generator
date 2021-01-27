@@ -1,0 +1,1 @@
+program _6 : z57aa : takes j, ax2 : boolean; A : boolean; N : boolean returns nothing g : integer array; q, v_, q26 : integer array; Q : boolean; chillax end main : o43aa : boolean; let W = array - 2 / not false / not 29; do Y1Q(false - true + 7 > - 4, - j3, - 13) end

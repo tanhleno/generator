@@ -1,0 +1,1 @@
+program Y : main : output - true rem true + not 196 and 10 + 7 >= - false and 7 + 3 . "/3" . 45 - 1 > 960 . 4 = 8 . ""; pop; output 4 - 214 >= 7810; let I6N[19 - 5] = array 17; output "07" . "k" . "8%" end

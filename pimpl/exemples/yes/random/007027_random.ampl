@@ -1,0 +1,1 @@
+program ww5 : j : takes U, fM, _, Y : integer array; v, z : boolean returns nothing E : boolean array; chillax end main : L31, BeLa, R95 : integer array; when case G(1) + not true rem true or true - 5 <= (4) / 9 and 0 : chillax end otherwise : chillax end; when case - 4 + (53600) >= - false and 3 + 6 - 74 : chillax end otherwise : chillax end; input b[not 13 and 4] end

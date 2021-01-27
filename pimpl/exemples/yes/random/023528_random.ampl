@@ -1,0 +1,1 @@
+program S : Y : takes S, I71 : boolean returns integer array u : boolean array; g, D : boolean; O9, G, n3s0a : boolean array; chillax end Y : takes I, x1 : integer array returns nothing pop end main : when case false : pop; input T; do UA(0640) end; when case - false * (88) and 98 + false and 08 /= - (38) and 8 : chillax end end

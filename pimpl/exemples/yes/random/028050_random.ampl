@@ -1,0 +1,1 @@
+program n : i : takes G, j : integer array; V9, T : integer returns boolean input n46[- (5) and 0] end Ii : takes Raxa, bnxa : integer array; P1g : boolean returns nothing w : integer array; chillax end main : p, Ad : boolean; k, B300a, Q390a : integer array; c : integer; AF : boolean array; zl90a : integer; u, b : boolean; xs1aa : boolean; chillax end

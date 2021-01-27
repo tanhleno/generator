@@ -1,0 +1,1 @@
+program p : Z : takes w, R3, h9 : boolean; z : boolean returns boolean do Oe5aa(b and 464 or 1 >= 474 - 0, 3 - 8) end G : takes PtP0a, H : integer returns integer array f, F : integer array; o : boolean; chillax end main : do d35((42 = 111) / (5) / not 77 >= - not x) end

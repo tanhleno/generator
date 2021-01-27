@@ -1,0 +1,1 @@
+program h2 : P8 : takes H07, b, ut, r7m : integer array returns nothing q8, W6 : boolean array; do g2(not 7 <= 59); when case - 5 - 375 : chillax end end main : B : integer array; n, hN : boolean array; chillax end

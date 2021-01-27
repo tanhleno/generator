@@ -1,0 +1,1 @@
+program Zo : mI : takes y45aa : integer array returns boolean output "\"\t0a" end main : G, d : integer array; let So[- not false rem not o280a + 34 or false] = array A(86300) + (55) * not 9 + not 20 and 3 or 1 - 5 end

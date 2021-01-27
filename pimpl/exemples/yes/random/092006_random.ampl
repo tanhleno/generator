@@ -1,0 +1,1 @@
+program b : main : output - false > 7 and 38500 + 1; when case(39) + F74 and 061 : let _[278] = array 87 end case Ivv or 563 - 2 : chillax end case 50 - 9 : pop; input S6Zaa end; output 7 . "" . 62; when case - 629 /= 8 : do yR7(0) end case 2 : chillax end end

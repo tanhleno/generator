@@ -1,0 +1,1 @@
+program Y : X9M0a : takes Q : integer returns nothing chillax end main : LX, f : integer array; let Y4[- not not 7 rem(37) or(2) / f98a and 2 - false or 5930] = false or(8) or 5100 /= - (5) and 9 end

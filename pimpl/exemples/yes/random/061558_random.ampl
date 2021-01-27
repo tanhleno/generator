@@ -1,0 +1,1 @@
+program Fd : L5 : takes y5 : integer array returns nothing when case - true : input kM9 end; while 8140 >= 4 : output "" end; while 3510 = 9180 : chillax end; input uz; do ad(6); while 2 : chillax end; pop end main : A, r55 : integer; chillax end

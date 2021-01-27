@@ -1,0 +1,1 @@
+program l : main : x, R, T, I, B190, d1t : boolean; when case false rem not 3 - not(338) and not 7 or 8 and 2 or 7720 < not true * (20) or not 9 - 6 : while 05 <= 5 : do k(7590) end; let Pz[9] = 42 end otherwise : do w(54, 7) end; do Z(- 7 * true - (26) and 2 + 00 - 2); pop 84 - 9 end

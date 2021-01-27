@@ -1,0 +1,1 @@
+program C : A2x : takes T : integer returns boolean chillax end i : takes B0, P : integer returns nothing input S64[- 3] end main : let c[- not false] = - 775 <= false and 9640 or 1; output "" . - 04 . 5 = 592 . "" . "" end

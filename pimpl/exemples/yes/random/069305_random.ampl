@@ -1,0 +1,1 @@
+program E3 : main : T, s, W, P, X19 : integer array; let n1y[- true and false] = - (577) rem true - 79 and 86; do T(HP[13] or not 5 and 957 >= 4 and 6, (4) and 1 < 8 - 16500, 7 - 15100 >= 84); do Q6(- false - 74, 6 - 1); output "" . "!" . 90 . "R\n"; when case 7 = 132 : output "$"; pop end; pop end

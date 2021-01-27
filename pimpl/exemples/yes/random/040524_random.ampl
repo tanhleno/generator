@@ -1,0 +1,1 @@
+program G : JC : takes z : boolean array; r : integer; nz, K, t : integer array; O1H : boolean array; L : boolean array; zUl, c : integer array returns integer wP, l, D8, F : boolean array; H, hJ, c8 : integer array; chillax end main : do Tq(Wx); input m; pop - 61 - 4 /= 57; pop end

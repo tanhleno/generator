@@ -1,0 +1,1 @@
+program T : D : takes a5 : boolean array; kH : integer array; O1, UPg, n, W : integer returns boolean chillax end main : pop i and 9 and 2 > - (8) and 2 + 180; output false and 46 + 24 - 1 . "8" . "" end

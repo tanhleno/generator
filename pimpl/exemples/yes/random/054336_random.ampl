@@ -1,0 +1,1 @@
+program f : H : takes C : integer array; E, J, Dy5a : integer returns nothing chillax end t : takes z8, R, r : boolean returns integer while 8 = 17 : do Pw(26); pop; pop end end main : output "" . ":\t!a" . "" end

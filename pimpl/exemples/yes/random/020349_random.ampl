@@ -1,0 +1,1 @@
+program g9s0 : Z : takes OY10, s0l0 : boolean array; KG9 : integer; p : integer array; Gw0 : boolean array; t9b0a : integer array; E, M, h3u : boolean; a : boolean returns nothing do l(- (274) and 082 or 3); while - 13 - 39600 : do rk(6050) end end main : chillax end

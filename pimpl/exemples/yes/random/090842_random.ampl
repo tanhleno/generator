@@ -1,0 +1,1 @@
+program R : main : let i400[- false rem true or not wf] = dwFa(7180) * false and 59 = - 62000 - 01; while - 38200 / false - false <= not 4 and 3 : chillax end; while - true + 5 >= 76500 - 57 : chillax end end

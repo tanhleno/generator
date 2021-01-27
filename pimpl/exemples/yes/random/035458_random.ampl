@@ -1,0 +1,1 @@
+program _ : M420a : takes Y2h0a : boolean; NZ : boolean; R9 : boolean; mR : boolean returns boolean array E7Z, i, W, q : integer; let E = 9 <= 59 end o58 : takes d : boolean array returns nothing when case 5 : chillax end otherwise : chillax end; output ","; input F; while 8 : chillax end end main : Un : integer; chillax end

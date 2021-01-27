@@ -1,0 +1,1 @@
+program b92 : Q : takes g2N : integer array; El4, d, m4 : integer array returns nothing while false and 47 : when case 029 : chillax end case 69 : chillax end otherwise : chillax end; while 1 : chillax end; while 048 : chillax end; pop end; output 67; input rR[48]; do o0(4, 424); when case 6 : chillax end; input F; pop end main : chillax end

@@ -1,0 +1,1 @@
+program zq : main : B_1, j3, A05a, cKHaa, d : boolean array; w9 : boolean array; let Zf[- 875] = array(9 = 24) and Hl(6) and 447; pop; let D[- (70)] = 8 - 6 < 0; while - 96 - 5 : input j; when case 03 : chillax end end; while 6150 = 3 : when case 110 : chillax end end; input E; input d end

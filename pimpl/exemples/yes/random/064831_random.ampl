@@ -1,0 +1,1 @@
+program fl : zm : takes _9Q0 : integer returns nothing HvVaa : boolean array; cD5 : boolean; chillax end iP : takes D : boolean; c : boolean; J, v8, U, S : integer array returns nothing c, X, ZM : boolean; when case 45 - 0 : pop end; pop end main : pop; input az end

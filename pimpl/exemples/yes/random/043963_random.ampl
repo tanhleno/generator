@@ -1,0 +1,1 @@
+program Mjv0a : y9 : takes s : boolean array returns nothing TF, H6w0, Z, N, A : integer; when case - not 692 and 239 + 0950 - 1 : output ";O" . "}7\"" end otherwise : chillax end end l : takes y, b : integer returns integer array chillax end main : chillax end

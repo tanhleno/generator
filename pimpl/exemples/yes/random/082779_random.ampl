@@ -1,0 +1,1 @@
+program E81 : main : z6 : boolean array; when case true - true : chillax end case - (30) and(077) and 6 <= false and 44 - 339 - 7970 : let N1I = array 16700 end case - 77 - 89 : chillax end otherwise : chillax end; while false * 1 and 7 : input a; input L6 end end

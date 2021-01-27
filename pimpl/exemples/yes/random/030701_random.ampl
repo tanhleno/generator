@@ -1,0 +1,1 @@
+program P9C : k9 : takes N1, KIPaa : integer array returns nothing VQ, iF30a : integer array; when case false and 8 or 5 : chillax end; while - 43 - 8 > 9 : pop; pop; pop end end main : let Zo[- not W - (95000) - 7 + 0770] = false and 31100 or false < - false and 2 - 5 end

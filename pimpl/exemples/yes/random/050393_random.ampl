@@ -1,0 +1,1 @@
+program C81 : Or : takes W2 : integer; n, Ej : boolean; M : boolean returns nothing u8, c, h, Ld, u : integer; chillax end m : takes h_, q5, Z : integer array; y : boolean; P, lRN0a, CS : boolean; O9, o : integer returns integer chillax end main : r, U7 : boolean array; input q end

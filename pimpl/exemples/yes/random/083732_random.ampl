@@ -1,0 +1,1 @@
+program P : main : l75aa : integer; Y, G : integer; Q8 : integer; do C(- not j * true or(6370) rem false - true and 69 or 8040 - 65800 /= - false rem not 90 and 3 - true and 9, 51 / (87) and 3, not 248 and 38 + 116 - 16, 68, 85500 = 7); output 7740 end

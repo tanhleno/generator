@@ -1,0 +1,1 @@
+program N : Gr : takes F : boolean returns nothing chillax end main : hA, fnw : integer array; do H180a(- true); when case not 654 / 2 and 627 <= - d and 07 : chillax end otherwise : chillax end; output 7 - 21800; output "19"; input C8daa; while 32 : pop end end

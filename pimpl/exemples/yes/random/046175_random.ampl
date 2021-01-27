@@ -1,0 +1,1 @@
+program lG8aa : BG : takes lD : boolean returns boolean Sl : boolean; chillax end fZRaa : takes k, P : integer array returns boolean array U8, w, W : integer; Yv, J, CAva : boolean; s : boolean; chillax end main : h4ma : integer; C5, QS60 : boolean; z, yp, z : boolean array; while - false - false rem false - false and 8730 - 8 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program T : aJ : takes l : integer; e8 : boolean; eh00, M : boolean array; Ub, L9 : integer array returns nothing chillax end V9 : takes p : boolean array returns nothing do o4x0a(- 95 - 858, 8, 9, 2); input f[3]; do AIv0a(1, 1) end main : let j = array - 4 - not not 0 and giN and 776; do N4(true - false or 71 <= - AH, (5) and 15 - 32300 /= 57000); pop - 3 - 0 > 23 end

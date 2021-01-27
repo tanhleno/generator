@@ -1,0 +1,1 @@
+program G : main : while false and i8(4) and false and 59 : output "4|\"" . "" end; when case false >= - false and 9 + 0740 : let tSia = 3; when case 94 : chillax end otherwise : chillax end; let L = 11; when case 1 : chillax end; pop end end

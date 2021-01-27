@@ -1,0 +1,1 @@
+program O : t : takes Zj : boolean returns boolean let aY = array 3 and 5; do c(2300 - 4 <= 7, 40); do k5(4 = 90) end i : takes f3, l : integer; S, Q170 : boolean returns boolean m : boolean array; chillax end main : input M5; when case - i(71) and false and 2 - (44) and 506 /= - true : input t[54400]; pop 1 end; input e[(03200) and 4 + 48]; let Hh = 49300 end

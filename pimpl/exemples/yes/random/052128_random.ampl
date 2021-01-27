@@ -1,0 +1,1 @@
+program M1 : w : takes uz7 : integer; N : boolean returns boolean array M : boolean array; pop - 83 - 403 end main : K79, z : integer array; let k = true + 7 and 513 + 72 > - false and 82 + 91 - 151 end

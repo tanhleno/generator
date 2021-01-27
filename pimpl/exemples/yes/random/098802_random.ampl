@@ -1,0 +1,1 @@
+program j : main : while - 0 and not false + not 598 + not 55700 - 6 - 0 : chillax end; when case - 736 rem up9 /= J and 4 or 417 : pop; input H3; when case 18 : chillax end; output ""; pop end; let i[- (8) - 3 - 18] = array false - 9; while 0 - 436 : do G(8); do rx(4) end; input DP end

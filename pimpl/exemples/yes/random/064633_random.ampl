@@ -1,0 +1,1 @@
+program l95 : H : takes R62 : integer returns nothing Z : boolean; chillax end B : takes U17, k : boolean returns nothing while 8 : chillax end; let i = 2; while 6 : pop end; do i(48); do U2(6) end main : input A[- 977 * not(59800) * (90900) + not(31) rem(1)] end

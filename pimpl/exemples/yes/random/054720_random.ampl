@@ -1,0 +1,1 @@
+program NP5 : w : takes t : integer array; I, oo : boolean array returns nothing z8, Y : boolean; when case(2) and 12 : while 436 : pop end; let P = 3; output "`" end case 5 > 762 : chillax end case 2 : do s05(5) end otherwise : chillax end end main : D8, e : integer array; H2, w, I8B : integer; input tI; input qTL0[- XV[6]] end

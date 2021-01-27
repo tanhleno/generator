@@ -1,0 +1,1 @@
+program c8 : c1 : takes lW, H75 : integer array; Z3y0, Wv, k, H : boolean returns boolean j9 : integer; p : boolean; G : integer; z, v6 : boolean; pop; do U61(709 - 528); do p3(152, 9); pop 1 end main : h970a : boolean array; S : boolean array; input i[false] end

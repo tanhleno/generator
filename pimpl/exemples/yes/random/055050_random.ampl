@@ -1,0 +1,1 @@
+program T : A9t0 : takes l9 : integer array; g, W : integer array; K4, F, y7, L : integer array returns integer array while - false >= - 17 : input Fs8 end; output "" . ""; input I3[9]; when case 699 : pop end otherwise : chillax end end main : do F(- 5 - not true + not 970); output - not 0 > - 4 . "" . "\n"; let sAI0a[true] = 4 - 8 > 4 end

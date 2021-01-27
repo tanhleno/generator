@@ -1,0 +1,1 @@
+program X : O : takes X, Ph : integer returns nothing chillax end S : takes W : integer returns nothing o : integer; p, n5 : boolean; E : boolean; chillax end main : do E4(- 725 and not(26) rem Y and 76, - not false + Q or 9 >= - (91) or 7, - 7 or 7 < - 1 - 9, 5); while(7) or TMj and 7 : chillax end; output - 949 . 5 = 1 . "r" end

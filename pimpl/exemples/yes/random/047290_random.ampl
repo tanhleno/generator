@@ -1,0 +1,1 @@
+program K0 : bA : takes _b0 : boolean returns integer output - 6; let HE = 412 end x : takes b, i : boolean array returns integer aE, v5 : boolean array; v3, D69, g : integer array; let YC8 = array - 3940 end main : M, H : integer; chillax end

@@ -1,0 +1,1 @@
+program w : G : takes B : boolean; J : boolean array; v : boolean returns integer array chillax end main : H0, LP1, d4Q, LORa : boolean; pop - 3 rem false and 7 + false /= - not 8 and 4 + 48800; output "" end

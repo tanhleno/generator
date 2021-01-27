@@ -1,0 +1,1 @@
+program kUm : Jz : takes _JZ, r : boolean array returns boolean array ez, Kx, h : boolean array; pop - 3 - 4 <= 9 end mvP : takes T : integer returns integer output "\\" . 3 end main : Y, G, p9 : integer array; chillax end

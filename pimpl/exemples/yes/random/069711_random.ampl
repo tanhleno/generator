@@ -1,0 +1,1 @@
+program gn : main : Z7o0a, zSk, b97a, G8i : boolean array; do AJ(- true and not(28500) or 1 and not 697 and 575 or U and 1 = - false * 1360 and 45); when case false <= false and 5 - 3 : chillax end case f and 98 - 42 - 4 : chillax end otherwise : while 4 : pop end end; let G = array false end

@@ -1,0 +1,1 @@
+program c : main : G74 : integer; pop; when case(79) rem d6j and 501 : chillax end otherwise : when case 8 : pop end case 8 : chillax end otherwise : chillax end; input a32 end; do i24(false + 56700 > - 4 - 5); let vuo = array 6280 - 1 end

@@ -1,0 +1,1 @@
+program n : main : J98a, k : integer array; while not(5) + (0) * 2 and 46 or l and 463 or 55 /= - 90 or p and 389 : let m9 = 0; when case 6 = 3 : while 6 : chillax end end case 05700 : pop end otherwise : pop end; when case 4 : chillax end case 5 : chillax end otherwise : chillax end end end

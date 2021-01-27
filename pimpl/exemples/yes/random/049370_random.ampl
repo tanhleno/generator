@@ -1,0 +1,1 @@
+program A : q : takes s : integer; bp, jq, wg, g, L : boolean; M : boolean array; Zd : boolean array returns nothing input A53[- (2850) and 5 + 308]; when case 885 - 0 <= 0 : chillax end case 5 : chillax end case 5810 : chillax end otherwise : chillax end end main : xB, M7, H2b0a, P5 : integer array; pop end

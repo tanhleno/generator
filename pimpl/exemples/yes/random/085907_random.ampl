@@ -1,0 +1,1 @@
+program u : main : r2 : integer array; z, O, W7 : integer array; OH, wH : boolean array; when case - not(045) * (3) or true > _(1) / true and 0 - 73 : chillax end case(6) : while 0 : chillax end end case(1) and 8 > 929 - 2 : chillax end; when case false and not 79 or not 8 - 86 > - true and 0 : chillax end; input MM7 end

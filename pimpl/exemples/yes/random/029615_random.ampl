@@ -1,0 +1,1 @@
+program z : B9 : takes l6, Yr : integer array returns boolean input m[(72)] end m1D : takes O9, d, E, hC, NP1aa : integer array returns integer C : integer array; G610a : integer array; output "\ne!"; input K[92]; while 437 : pop end; do q9(5930) end main : Ge, Hr : integer array; output - not i end

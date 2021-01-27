@@ -1,0 +1,1 @@
+program r2 : main : p, E : integer array; t, ojM, Q : boolean array; when case - 3 and not true / true and 1 - not 79800 >= - (8) + not 7 and 027 : output "S9aa" . "\\" end otherwise : chillax end end

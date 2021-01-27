@@ -1,0 +1,1 @@
+program O : main : when case 8 or true or 2 : chillax end case false and not 5 or p and 3 <= - (17) and 52300 or 93300 : input e59aa[208]; input DDQaa; let pGO = 26; when case 2 : chillax end; pop end otherwise : chillax end end

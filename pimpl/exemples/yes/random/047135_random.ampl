@@ -1,0 +1,1 @@
+program t3S0 : Zp2aa : takes E : boolean returns integer h : boolean; q920, D, F5, C : integer array; L, i : integer; input w; pop 69 end G : takes Pvi : integer; S : integer; m : boolean returns integer array s, x : boolean array; ry : integer array; C, e : boolean; when case 6 <= 31500 : output ""; let P = 1640; pop end end main : as : integer; chillax end

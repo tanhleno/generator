@@ -1,0 +1,1 @@
+program ZK : q7u0 : takes y : boolean returns boolean array input T; pop end main : yl : boolean array; input E; while - true and true and 4 > 5 and 1 + 8 : pop; let K[6] = 875 end; output - 19 >= 2 . 1 = 7780 end

@@ -1,0 +1,1 @@
+program E : R : takes u, kt : boolean returns integer t : boolean; JTFa : boolean array; chillax end z7 : takes XH : integer array returns boolean array when case - 4 < 518 : chillax end; let A70 = 9; pop 7 end XgG : takes a, H : boolean array; I : boolean returns boolean chillax end main : do s(K90a(7) + (75)); input n; output - 44 = 1 . "" . "+" end

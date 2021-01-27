@@ -1,0 +1,1 @@
+program D3 : _ : takes zM, C : integer array returns boolean array d, gDia, f3a, T : integer array; Dv : integer array; Df : boolean array; W, d : boolean; let B_[44 and 4110 or 3 - 02600] = - 91 > 0 end main : output "\\|a" . - (2) and 561 <= - 72 - 57 . "\t\\" . 246 end

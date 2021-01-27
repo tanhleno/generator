@@ -1,0 +1,1 @@
+program y : main : when case not B / J /= not c : chillax end case - false / true or(720) - 3 - 2 /= - 5 and 553 or 7 - 6 : while 0 : chillax end; let K8 = 9; input q end; input M20[d5[845] + not 0]; pop end

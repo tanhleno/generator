@@ -1,0 +1,1 @@
+program q99aa : main : when case - 04 = - v : output "" . "" . "3\\0"; when case 27100 = 1 : let l = 517; pop end otherwise : chillax end end case false rem W < - true or 81 : while 37 : pop end; let Z5[2] = array 6; output ""; when case 871 : chillax end; pop end case - not 0 and 7 - 7 : pop 3 end end

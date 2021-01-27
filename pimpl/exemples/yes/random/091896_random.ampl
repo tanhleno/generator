@@ -1,0 +1,1 @@
+program ZS : main : output - (68); when case - false - c74 and 7 - 0 - 30 < true and 9 : chillax end case - Q and 737 : chillax end case - 74 - 0 <= 5 : input X0 end case 188 = 2 : do i2(4) end case 5 : pop end case 9 : chillax end; do n(false and 7 - 074 - 459 <= - 2950) end

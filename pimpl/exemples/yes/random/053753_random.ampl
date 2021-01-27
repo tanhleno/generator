@@ -1,0 +1,1 @@
+program H19 : IqV0a : takes Q : integer array; Q9, k, co3, B0 : integer; qDN0a, H_, S, r : integer array returns nothing k, a6Oa : boolean; output - 70 - 4 < 97 end main : x : boolean; P810a : integer array; X2uaa, X : boolean array; chillax end

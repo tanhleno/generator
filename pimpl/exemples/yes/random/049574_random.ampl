@@ -1,0 +1,1 @@
+program jll : I : takes t : integer; r3, D35, J, a : boolean array returns nothing chillax end W5Za : takes r57a, Jy : boolean array; C, A : integer array returns nothing input sdD; input Q end main : hF, S, T : boolean array; when case false rem O22a(86) / true and 8 <= - s23aa(76) * not 94300 and 1 - false and 85 : chillax end otherwise : while 4 : chillax end end end

@@ -1,0 +1,1 @@
+program co0a : g : takes l, d, bj3 : integer array returns boolean do HbWa(- Klc0a and 3 + 3 - 19 /= - 9 - 61, - 5830) end deQ0 : takes C, T730a : boolean array; Y940a : integer array returns nothing chillax end main : let x7G = array(15 = 800) - 995 rem not 1 and 6 end

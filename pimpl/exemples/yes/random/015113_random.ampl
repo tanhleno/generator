@@ -1,0 +1,1 @@
+program j : p5 : takes L, G80a, Bc60a : integer array returns integer let oh[d78 or 4] = 4 > 7; let Ff = array 08 - 9 end R : takes z, t, i, ZJ, E10 : boolean returns integer Y : boolean; d : integer array; Bcga, Tm5aa : boolean; x960 : boolean; Oo : boolean; chillax end main : a8A0, v : integer; oR20a : integer; Zi : boolean array; chillax end

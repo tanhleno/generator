@@ -1,0 +1,1 @@
+program t650 : qc : takes c9, R : integer returns nothing do kC(- true and 6020, - 840 <= 7); output 24 = 9 . "" . 7; output ""; let g010 = array 600; input _X; input w; pop end h9 : takes Iw, d, D : integer returns nothing QA, l9, N1 : boolean array; Pb, c : boolean array; o, G89 : boolean; do Sa(82 >= 6, 0, 3, 4) end main : a : boolean; L : integer array; chillax end

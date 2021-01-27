@@ -1,0 +1,1 @@
+program S : Q : takes Y, _s, wT_aa : boolean; w1 : integer array returns integer array chillax end x : takes y : integer array; r2 : boolean array; S, Bj8 : integer; K0o, c : boolean array; F_90a : boolean array; X, v : boolean; FP : boolean; e : boolean returns boolean array A : integer; hGC0, I : integer; chillax end main : output - not false rem true and 52 > (30) and 7 end

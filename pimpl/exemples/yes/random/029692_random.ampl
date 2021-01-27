@@ -1,0 +1,1 @@
+program _ : ox1 : takes r, gb : integer array returns integer array chillax end f : takes ss : boolean array; CT, S43, C, h580a, s, uzYaa : integer array; fkN, tx1aa, y : integer array returns nothing M : integer array; pop end main : pop end

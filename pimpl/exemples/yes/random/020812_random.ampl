@@ -1,0 +1,1 @@
+program lF : kn : takes z76, UH3 : boolean array returns boolean array chillax end main : F : integer; u6, K : boolean; p : integer array; do y(- false / 7 >= (8160) and false and 306 + (039), - true * not 525 and 8 - F <= 2 - 1160) end

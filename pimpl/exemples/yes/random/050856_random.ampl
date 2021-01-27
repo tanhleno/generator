@@ -1,0 +1,1 @@
+program v : t : takes r8ja : integer; mk, TD : integer; rD, _X : integer array; P : integer array returns nothing o : integer; fS1, r8, Sd7, wkw : boolean array; C0, R, e : integer array; Nv, n : boolean; chillax end yeN : takes w, Z : integer returns nothing while 2 : chillax end end main : y : boolean; chillax end

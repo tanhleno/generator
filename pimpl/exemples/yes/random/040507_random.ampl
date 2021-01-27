@@ -1,0 +1,1 @@
+program Ww70a : XIka : takes l : boolean array; d : integer; o, A, E0 : boolean array; m2Y0, D : boolean returns nothing Cizaa, s, XLCa, W6 : boolean array; chillax end c : takes Y, D : integer array returns nothing let _ = 7 end main : chillax end

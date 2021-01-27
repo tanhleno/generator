@@ -1,0 +1,1 @@
+program Eu : main : let n[- false and true + (5) or true and 18] = array - false * (4); when case false + false < true : chillax end case true and 175 : while 2460 : pop end end otherwise : input w00a end; input gk end

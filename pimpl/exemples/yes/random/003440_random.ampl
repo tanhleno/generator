@@ -1,0 +1,1 @@
+program i9 : r0 : takes R, R, qs, Z, G : integer array; Y, Q4i0, i2 : integer array returns nothing t8u, xUW0, vPsa : integer array; when case 0090 and 0 or 93 = - 59100 : do e5(8) end case - 3420 >= 1 : output "" end case 8280 : chillax end otherwise : chillax end; do _(- 6 - 85, 2 = 8, 93, 2); while 3 = 3 : chillax end; while 13 : pop end; do gN(02) end main : chillax end

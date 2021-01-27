@@ -1,0 +1,1 @@
+program f : S : takes T, jg : boolean; m, rgy0a, L3 : integer; Z : boolean; t9, bN0, g : boolean returns boolean X : integer array; let hi20a[- P530a or 2310] = array - false and 982 or 5 end A : takes u, XL : boolean returns nothing Ac, Z : integer; _, R : integer; chillax end tK2a : takes z : integer array returns nothing output 2; output 4 . "y2" end main : chillax end

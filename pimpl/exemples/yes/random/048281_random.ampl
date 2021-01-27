@@ -1,0 +1,1 @@
+program I8 : k4 : takes E0 : boolean returns nothing u, p3 : integer array; d35, J, b, x : integer; T : boolean array; while not 6 : chillax end; when case 4 >= 3 : when case 5 : chillax end; output ""; pop end otherwise : chillax end; input O; when case 2 : chillax end case 31 : chillax end otherwise : chillax end end main : N4, X : boolean array; chillax end

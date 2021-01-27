@@ -1,0 +1,1 @@
+program M : q : takes Ke : boolean; g, b4 : boolean returns nothing v9S : boolean; T7 : integer array; v, xd, u2 : boolean; ZVX0 : boolean; Pe : boolean; output "\t" . "" . "c6!" end main : Q : boolean; while(2 = 69) + true : chillax end end

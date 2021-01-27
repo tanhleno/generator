@@ -1,0 +1,1 @@
+program YM : main : while - not w[8] rem false and false : when case 113 - 52 : input J1; when case 7 : chillax end; pop end case 2 : chillax end case 4 : pop end case 93 : chillax end; input d870; pop 3; when case 707 : chillax end; let i = 819; pop end end

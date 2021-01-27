@@ -1,0 +1,1 @@
+program U3 : X : takes R, m0 : integer array returns integer array GN : integer array; f, D2 : integer; input X end main : epK : boolean; T : boolean; voza, E2 : boolean; vyY : integer array; t : integer array; do G3f(046 >= false, false < true - 9, t or 3 < 61 - 76) end

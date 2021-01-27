@@ -1,0 +1,1 @@
+program aeI0 : l : takes U, x, b : boolean; p : boolean array returns nothing uN, T, Q, X, Y : boolean array; z, Zu, w : integer; while - false : while 6 : chillax end; output ""; pop end; input CZ7; pop 1; input i[54] end Z : takes FFs : boolean array; bd9a : integer array returns integer array while - 21 : chillax end end main : v : boolean array; chillax end

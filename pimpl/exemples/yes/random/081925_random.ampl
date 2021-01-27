@@ -1,0 +1,1 @@
+program EZIaa : main : fY : boolean array; H : integer; E : boolean; input Z[1 / 893 and true]; output not 3 . "\tT" . 711 = 53 . 61; let Fi[85200] = array - false and 01 or 0 - 10; when case - 87 - 4 : output ""; input e; pop end case 174 = 850 : let p8b = 1 end case 51 : chillax end end

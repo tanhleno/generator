@@ -1,0 +1,1 @@
+program s0 : main : G, Y5t, j080 : integer array; D : boolean; when case - true + 9180 rem false or pU7 + 721 - 54 = - not(39) * false : chillax end case H / not 308 and 8510 or true + 3 < - false : chillax end otherwise : pop 9; pop 66; pop end end

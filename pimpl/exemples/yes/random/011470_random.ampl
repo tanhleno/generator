@@ -1,0 +1,1 @@
+program s : x : takes q, F, P : boolean array returns nothing output "\\1aa" . "(" . 395 . 8 . ""; when case 805 : pop end case 8 : chillax end otherwise : chillax end end main : X, _ : boolean array; udkaa, g, m : integer; output "" . - true or 41 - 78 > - 43400 - 3 end

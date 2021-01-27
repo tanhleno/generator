@@ -1,0 +1,1 @@
+program y : main : GLca : boolean; SbHaa : integer array; md, S : integer array; X, M5 : integer array; v, Bmz : integer array; P : boolean; p : boolean; let D = array - true rem true - 97 * false; when case - 3 or xCe and 3 - 74 - 8 : chillax end case - o94aa and 1 : do DkX(7450) end case 0 : output "Y" end; pop - 37 - 66 > 417 end

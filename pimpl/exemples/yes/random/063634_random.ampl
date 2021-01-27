@@ -1,0 +1,1 @@
+program C : F : takes g : integer returns nothing chillax end _ : takes x, g8, YR, i9g, r, eO20 : integer returns integer r, e9Y0 : boolean array; q : integer; xm, Q : boolean; chillax end X : takes z00 : integer returns boolean do VI7(5 = 4, 65, 82500); output "\"9a" . "\";!" end main : pm3a : boolean; pop; output "" end

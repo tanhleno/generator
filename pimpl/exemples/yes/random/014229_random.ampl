@@ -1,0 +1,1 @@
+program I : v : takes W, U8, C : integer array; E1 : boolean array; p, K : boolean returns integer b : boolean array; Z3 : integer; G, U : boolean; pop; while - 2 < 6 : let oo = 34; input R; pop end end main : p : integer array; let K4wa = array(781 = 37) / (6) rem true end

@@ -1,0 +1,1 @@
+program f : m : takes X9Aa, _ : boolean returns nothing k, Zr8 : boolean array; c : boolean; lk : boolean array; chillax end main : u : integer array; Xtw, D, v, F : integer; let yE[- false or false rem k] = 0 - true and 36700 or 9; do j(- 9 > 9 and 6190, - (07) + 9 - 79, 63700 - 2 >= 86, 6); do NR4aa(- (7)) end

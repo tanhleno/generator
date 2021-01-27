@@ -1,0 +1,1 @@
+program nF : j59 : takes N3aaa, y2 : integer returns nothing n : boolean array; ij, L100, v, c : boolean array; X, f, IR : boolean array; k0A : boolean; do dvt(false and 7930, 7); input M; let Q[0] = array 3; when case 6 : pop end end aY : takes v1 : integer; B : boolean returns nothing output "" . "" . 98 . "\""; do o(36, 1, 3) end main : chillax end

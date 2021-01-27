@@ -1,0 +1,1 @@
+program g990a : tB : takes j42 : boolean; z : integer array; v : integer array; p, MG, a : integer; LA, Q41aa : integer array; H0 : boolean array; O9, Fz : boolean returns boolean array O, h, A, a : integer; while(6) : chillax end; do E(- 7 - 5); output "" . 706 end main : IF1aa : integer array; chillax end

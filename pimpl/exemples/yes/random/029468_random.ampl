@@ -1,0 +1,1 @@
+program u : uvDaa : takes Fv, t : integer array returns boolean chillax end main : do B(653 * B(41) - true <= - not not 2 and true - true, U4(4790) / false + true and 43 >= i and 7 - 9 - 4); do Wn(- (5) > 07 or 1 - 0800, - true and 1, 7 - 1 /= 65000); while - true + 9 : pop end; output ""; let gs1[06] = 4 end

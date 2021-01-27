@@ -1,0 +1,1 @@
+program x : N : takes xO8a : integer array; f, kZ, uH : integer returns nothing chillax end main : F, d, A : boolean; while 5160 : pop; while 8 : chillax end end; output ""; do O8(- 526 and 52900, 80 - 240, 9, 0); when case 6 - 416 > 1 : chillax end end

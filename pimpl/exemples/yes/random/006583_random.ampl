@@ -1,0 +1,1 @@
+program h : r : takes l, Y, z, q : integer; U2m0a : boolean array; e, T52a : boolean returns nothing chillax end A : takes mp, P : integer returns nothing output "" . "$\""; do Z(06 = 7); while 7 : pop end end main : i, K, V6 : integer; _ : integer array; output K(36) + not 65400 end

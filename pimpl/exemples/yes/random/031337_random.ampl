@@ -1,0 +1,1 @@
+program R : sAC : takes KAW, z : integer returns boolean array j : integer; chillax end main : do A(not not not 79000 * M(66400) + not(5070) / true); when case(73) / v61 and 9 or not 9 - 80 - 93 > 49700 : chillax end end

@@ -1,0 +1,1 @@
+program tk8 : m6 : takes YnK : integer; JUB0a, q : boolean; ld : boolean returns boolean array X : boolean array; sb, mx : boolean array; output - 33 <= 5; let yXDa[70 - 85] = array - 0; when case 6 : chillax end end I2M : takes C : boolean array returns nothing when case 32 - 46200 = 2650 : chillax end end main : chillax end

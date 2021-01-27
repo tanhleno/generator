@@ -1,0 +1,1 @@
+program RO : c0k : takes Jj, PA : integer returns nothing chillax end rE : takes tT70 : integer; Kb, o, A1, y : integer returns boolean d5maa : integer array; kgT : integer array; F : boolean; output 8 = 1 end main : n5 : boolean array; m91aa, W : integer array; input P600a end

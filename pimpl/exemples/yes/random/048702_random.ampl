@@ -1,0 +1,1 @@
+program zq : n600 : takes o : boolean returns nothing S4i : integer array; chillax end S : takes B : boolean array; l, i4o : boolean; c6Q, j : boolean returns boolean array v5Ea, d, B2Z : boolean; input p; let h[811] = 1; let R = 4 end main : output "O"; pop; output 1 - 3 . 3 end

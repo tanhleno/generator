@@ -1,0 +1,1 @@
+program z1 : R : takes o, V : boolean; z8 : integer; y, I : integer returns boolean chillax end t : takes n, E : integer; m9, u, j, n : integer returns boolean array output 1; when case 0 : input Yf5 end case 888 : pop end case 10 : chillax end end main : Y4o : boolean array; chillax end

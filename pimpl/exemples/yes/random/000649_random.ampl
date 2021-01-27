@@ -1,0 +1,1 @@
+program GV2aa : k : takes r, _, f2h, c3Pa, r, CE, P : boolean array; v, rHD : integer array; w, w : integer array returns nothing while not 0 - 90 >= 29 : output 6; do Ob(91) end; do m(- 0, 4450 = 4440) end main : input R810a[- not xuS(9) * false]; while - 2 and 195 and 2 + (695) and 1380 > 02 and 9540 + 6 - 2150 : chillax end end

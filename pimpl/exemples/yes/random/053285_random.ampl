@@ -1,0 +1,1 @@
+program U8 : m : takes gO2 : integer; KaD0 : integer returns nothing F, j, _ : integer; input p; pop end e : takes a : boolean array returns nothing r5 : integer; YD : integer array; JQ, s : boolean; when case 949 - 64 = 7040 : chillax end; input M6Z0[1] end _nO : takes KCIaa, W, yf : integer; Qj : boolean returns boolean output 28 . 8 . "S/" end main : chillax end

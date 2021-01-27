@@ -1,0 +1,1 @@
+program d3l0 : W7 : takes _89, s9J, jE : boolean array returns nothing Ok6 : integer; let _ = array - (5) and 4; do Yr(- 1); let e = array 6 end main : when case - 8 rem 07 >= - b[5] : when case - 3390 - 4 >= 91 : chillax end case 614 = 82 : chillax end case 88 : chillax end case 23 : chillax end; do q0b(418 = 57); do R(3, 9) end otherwise : chillax end end

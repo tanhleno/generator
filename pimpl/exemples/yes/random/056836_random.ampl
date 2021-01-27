@@ -1,0 +1,1 @@
+program O4 : J : takes J3 : integer array; R7 : integer array; H, Kn_, B : boolean array returns integer array Ud, p : boolean array; chillax end main : M, s : integer; do H((3) rem(6) + true, - 70 - (0) and 0 >= - (7)) end

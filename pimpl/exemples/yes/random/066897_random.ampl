@@ -1,0 +1,1 @@
+program afCaa : main : do w(- true and not false); let D[(38) and true or true and 9 or 9900 - 2] = array(55) rem(27); when case - 1 + 30 : chillax end case 9 <= 0 : chillax end case 616 : pop end case 486 : pop end case 886 : chillax end; output "|x0" . 2820; let d = 614 end

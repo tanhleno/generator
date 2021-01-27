@@ -1,0 +1,1 @@
+program Z82 : main : A4, F : boolean; Hw, u : integer array; let v1 = array - 0 rem(9) and true and 804 - false rem 4 or true and 2; while - false * not 6 and 3 <= (4) and 0850 or 4 : chillax end; let X[not 4 and 1800] = - 310 end

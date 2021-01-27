@@ -1,0 +1,1 @@
+program t7 : j9X : takes N5aa, W : boolean array returns integer array output "(" end V : takes Xf : integer array; r, s2, mgr, P : integer array returns boolean J3U : integer array; chillax end main : chillax end

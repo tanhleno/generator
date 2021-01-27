@@ -1,0 +1,1 @@
+program Jij : main : when case - not 7190 < - false * not 0 and 72 - (45) or 344 - 86 : chillax end case - b[9] or c and 71 = not 80 : output ""; input g5 end otherwise : while 002 = 19 : chillax end end; while true and 4 : chillax end; let o = 21 - 374 <= 024; when case - 68 >= 6 : chillax end end

@@ -1,0 +1,1 @@
+program n : t : takes y, Ae : boolean array; d : boolean array; c5 : integer returns integer array f : boolean; while - (21) and 747 + 2 - 5 > 21 - 6 : let Z = array 7; when case 0 : chillax end; let U3i = 943; pop end; let cXJaa[593 - 54] = array - 92 - 5; while 5600 = 27 : output "0" end end main : let a[78] = array false; output "" . - 3 - 9 < 4 end

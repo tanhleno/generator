@@ -1,0 +1,1 @@
+program _7 : j : takes K, o, J13, T470 : boolean array; c0, eUB, H, w : integer; H, N : boolean array; J9, q57a, j2faa : integer; t, lO2 : boolean; o, vk, M : boolean returns integer array U6, E : integer; h : boolean array; i : integer; N86 : boolean; K : boolean; H5g : boolean; pop - 6 < 516; when case 82 - 2 : input Mp end otherwise : pop; pop end end main : input v end

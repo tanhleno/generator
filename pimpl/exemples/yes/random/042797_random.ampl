@@ -1,0 +1,1 @@
+program Y7 : fZ : takes y : boolean array returns integer array input X end x : takes l : integer; z : integer returns boolean while - 2 <= 3540 : when case 8 : chillax end end end Q : takes xx, pM, u65a : boolean; S6 : boolean array returns nothing p : integer array; chillax end main : chillax end

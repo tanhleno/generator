@@ -1,0 +1,1 @@
+program Te : cw8 : takes _ : boolean; I, k, E : boolean; r : integer; D : integer; f, C : boolean array; d7, b6P, I : boolean array returns boolean array chillax end main : rX : integer; DOEa, F3, o : integer; output "" . "g]\"" end

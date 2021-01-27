@@ -1,0 +1,1 @@
+program cxG : main : Q, Y0, k : boolean array; d, yG, E : integer array; Q : boolean; FI60a, s : boolean; let Q6Yaa = - true - 3 /= (46) or 3 - 06; do U(- j rem 8 or true - 2 - 038 <= - (3) - 7 - 37) end

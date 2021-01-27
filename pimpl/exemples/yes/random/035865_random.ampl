@@ -1,0 +1,1 @@
+program e : I : takes RdA : boolean; P9xa : boolean array returns boolean chillax end C : takes o1a, X8 : boolean array; c : integer array returns boolean array v7s : boolean; while 2 : when case 2 : chillax end end; while 5 : chillax end end main : output "5/0a"; pop - false and 6 or 9500; output "" end

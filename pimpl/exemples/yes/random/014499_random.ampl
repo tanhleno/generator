@@ -1,0 +1,1 @@
+program Wtjaa : r : takes t1, Ux, f : integer array; T1 : integer array returns boolean array do n((81700) and 2020 = - 131 - 9, 10, 61, 13, 5); while - 5 - 19 < 918 : chillax end; while 0300 = 19600 : chillax end; let j2Uaa = array 723 end main : r : boolean; chillax end

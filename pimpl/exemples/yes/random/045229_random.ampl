@@ -1,0 +1,1 @@
+program m : e : takes g0 : boolean array returns nothing when case - sd and 6 - 8 - 5 <= 5 : chillax end end J : takes S : boolean returns boolean chillax end main : m920a, i : integer array; Y, t : integer; chillax end

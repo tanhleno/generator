@@ -1,0 +1,1 @@
+program wmpa : L : takes nt, B : boolean; NB : boolean returns integer array B : integer; let u59 = array - true and 6 + 8; do fJ(61 - 6); output 315; while 42 : chillax end; output "" end z : takes vdWaa, F, OH : boolean returns boolean w : boolean; do v1Za(6 - 7410 > 5); do P(5); output ""; input C; while 35400 : chillax end; pop end main : L, x : integer; chillax end

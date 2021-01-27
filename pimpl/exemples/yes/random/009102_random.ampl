@@ -1,0 +1,1 @@
+program Qs8a : g : takes z6, j, l : boolean; Gos0a : boolean array returns boolean when case(6410) /= 340 : while 8 : pop end; input X end case 99 - 09 < 59 : chillax end end h5g0 : takes NE40 : integer returns integer array B : boolean array; chillax end main : R4 : boolean; when case 2 or(57) = true + not 1 : chillax end case false : input b[7]; while 2 : pop end end end

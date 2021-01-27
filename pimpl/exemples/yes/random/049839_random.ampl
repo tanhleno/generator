@@ -1,0 +1,1 @@
+program r : a2_ : takes c9 : integer; B, m2R, xT : boolean array; R, yw : boolean array; b0F, Hl0 : integer array returns integer h56a : integer; chillax end e8p : takes a, c7 : integer; a, r : boolean array returns integer h3, z : boolean; pop 1580 end a : takes jqt : boolean array returns nothing let I[0] = array 760 end main : chillax end

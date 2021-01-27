@@ -1,0 +1,1 @@
+program G : S : takes y, d : boolean returns nothing v, a1, I : boolean array; when case - false and 0 - 63 < 99100 : do I(1) end case - 13 : when case 8 : chillax end end case 14 = 0 : do g(155) end end main : k, JJ : integer array; tR : boolean array; G2 : boolean; chillax end

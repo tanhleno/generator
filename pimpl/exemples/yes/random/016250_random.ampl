@@ -1,0 +1,1 @@
+program MP : j : takes C, xJMaa, f : integer returns nothing chillax end main : while 3 * false * 68 and 9 : when case 4 : do hd(7); while 6 : chillax end; pop end otherwise : chillax end end; input t; pop end

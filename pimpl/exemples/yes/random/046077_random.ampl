@@ -1,0 +1,1 @@
+program d5X0a : Y : takes me : boolean returns boolean MR, d, z0 : boolean; input Ln00a; let ZL4 = 593 = 5; let _[9010] = 45 end KI : takes Kf : integer array returns boolean array chillax end main : input F[- w[7]]; when case(7) / 61 or true > lq and 62 : chillax end; output "" . "" end

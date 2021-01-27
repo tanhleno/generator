@@ -1,0 +1,1 @@
+program O8L : z : takes N, x31 : boolean array; CI : boolean array; U7w : integer returns integer chillax end S : takes Y : integer; z : boolean; vN : boolean; k4, rO10, b : integer array returns boolean array do S(03400 - 9910 /= 825) end main : V : integer array; G : boolean array; pop false + false and 29 = - false and 4200; while - (2) / 49 /= false and 9 : chillax end end

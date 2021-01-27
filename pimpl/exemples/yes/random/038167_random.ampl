@@ -1,0 +1,1 @@
+program a : r : takes z22a : boolean array; x, w8D0a, oC00 : boolean returns nothing chillax end main : while 2 /= 2 : chillax end; let K00[false or true and 25 + 22] = array not not 71900; input iHY0a; do S(0, 7 = 8) end

@@ -1,0 +1,1 @@
+program wOh0a : main : B640, nTi : integer array; let n8[1 - not false] = array - 03 * not 328; output - false and 56500 + 4 - 6 <= 0 - 4 . 8; while 6 >= 4 : chillax end; do H(- 201 - 10, 2 = 30, 6, 89); when case 0 : let M = 4; pop end otherwise : pop end; let l = 8 end

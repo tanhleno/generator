@@ -1,0 +1,1 @@
+program Q7 : tW : takes B : integer array; O : integer; j, P, p : boolean array returns integer array fy20a : boolean array; output - 6 end U3 : takes D, D, IP : boolean; M : integer returns nothing s1L0a, x8 : boolean; do IK3a(6 - 2 = 917, 864 = 8); while 3 = 3 : let g = 0; pop end; do gk(3); pop end main : a3, f, y, Yl : integer; IBq0, j_ : boolean array; chillax end

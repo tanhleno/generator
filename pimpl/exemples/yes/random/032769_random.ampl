@@ -1,0 +1,1 @@
+program w44 : gwca : takes C3, r : integer returns nothing Z : boolean; when case true or 470 - 92 > - 5 : chillax end otherwise : do c96(918) end end c5 : takes e : integer array returns nothing j3I : integer; chillax end main : eB : integer; a, Y, N, Ua : boolean array; chillax end

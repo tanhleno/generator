@@ -1,0 +1,1 @@
+program R : r : takes m : integer returns nothing WINa : integer; pop end j5t : takes KM1a : boolean array; X, GL6, y : boolean array; N3, s, I, o : boolean; Jw, f : integer returns nothing output 6 end main : chillax end

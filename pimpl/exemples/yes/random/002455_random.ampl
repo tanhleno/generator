@@ -1,0 +1,1 @@
+program n : B : takes r6, P6, D, x, B : boolean array; F9jaa, o7 : boolean array returns nothing while o3 or 817 - 4 : chillax end; do jt(7 >= 7); pop 2; input tQ end main : output "" . 4 and 3 > 44400 - 3; when case 10 > false and 090 + 61 : output ""; pop 93; let U = 9 end case 3 - 408 /= - 38000 : chillax end end

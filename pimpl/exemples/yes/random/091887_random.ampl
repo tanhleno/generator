@@ -1,0 +1,1 @@
+program w : main : output - (81) / not 5 and 50400 + J and 91; when case true < - 252 and 7 or 6 - 54 : let n4 = array 1 end; output - 1 > 6 . ""; when case - 4 - 578 <= 45300 : output "\"" end case 1800 : chillax end case 863 : chillax end case 5 : chillax end end

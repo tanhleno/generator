@@ -1,0 +1,1 @@
+program g2raa : C : takes wc, i6 : boolean returns boolean chillax end r8p0a : takes x : integer array returns boolean chillax end h : takes Br, E : boolean returns boolean chillax end main : D, l : integer array; w190a : integer array; a : integer array; chillax end

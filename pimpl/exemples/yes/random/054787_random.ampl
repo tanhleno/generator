@@ -1,0 +1,1 @@
+program Q420 : s : takes deRa : integer array; W, u : boolean returns boolean m, M, i460a : boolean; do L(9); output 11 . "\t<\"a" . "KC" end pM : takes D : integer array; w22 : boolean returns boolean array ZZ4, aJ, m : integer array; K4 : integer; R, _4ha : boolean; X : boolean; _u5 : boolean; chillax end main : input f end

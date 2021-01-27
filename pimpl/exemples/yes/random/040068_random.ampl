@@ -1,0 +1,1 @@
+program I85 : _ : takes GWp : boolean array; Z7 : boolean array returns integer array let b[- bgV and 9690] = 9240 - 4; while - 8 - 37 /= 3 : let j = 5 end; while 088 = 137 : input Q end; do M(6) end main : while - false - 9430 - K + 7 - 4 : input q8F0[46 - 28] end; while - N < (15) + 57 - 372 : output "J" . "" . "%"; pop 0 end end

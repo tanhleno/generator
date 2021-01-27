@@ -1,0 +1,1 @@
+program X : NK : takes eC, z, j : integer; wu, z, o : integer array; X : boolean returns nothing do zo(v1 and 6 - 6 - 4) end main : yRa0, Ncn0 : integer array; x1, kR, UW : boolean array; R : boolean array; PJ30 : boolean; let s[- C73aa[719] - 05 or true + 1 - 31] = array D1(4) rem C6[103] end

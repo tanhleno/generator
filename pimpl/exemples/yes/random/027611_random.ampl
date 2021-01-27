@@ -1,0 +1,1 @@
+program S : y : takes v, z7 : integer array; g, u32 : boolean; G : boolean returns nothing output - 044 /= 43 . 6; input x; pop 7; when case 60 : chillax end end main : do T4(- (3) / not true /= Q1, - 87 * false or true, - E > 41 - 4); input H[8] end

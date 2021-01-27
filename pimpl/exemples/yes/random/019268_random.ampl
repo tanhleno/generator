@@ -1,0 +1,1 @@
+program s0K : XQ : takes t, aSf : boolean array; TCZ, XJ0 : boolean array returns integer JW : boolean; K9la : boolean array; input m5o0a; pop end main : pop; let r = - false < 5; when case LJ and 3 <= - 32 - 50 : let N[4] = 30; input r end otherwise : chillax end; let d0P0[- 9 - 5] = 0 = 2560; let t = 935; pop end

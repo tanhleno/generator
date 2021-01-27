@@ -1,0 +1,1 @@
+program b : main : MM, v9 : integer; let tO80 = array - U600a(6) - o and fj0 and 2 - false and 0 + 26 - 3; when case v[9] and not 6 and 7 + (6) and 31 + 3 - 0 : chillax end case false or 38500 - 55 /= 44900 : chillax end case - 04 > 50 : while 56 : chillax end end case 80 : output "z" end; while not 49 : chillax end; input ppa; while 5 = 53 : chillax end end

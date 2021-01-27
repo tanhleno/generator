@@ -1,0 +1,1 @@
+program h0 : n : takes u : integer array; A6 : boolean; O0 : integer array returns nothing chillax end M : takes t07 : boolean; F8L0, X9, l : boolean array; f : integer; D, uC : integer returns nothing input k4; do P(3 = 7) end main : chillax end

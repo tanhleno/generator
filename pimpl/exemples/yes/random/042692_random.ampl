@@ -1,0 +1,1 @@
+program V3 : I3 : takes azM0a : boolean array returns integer array rBF : boolean array; chillax end _2Y0 : takes e79, n, v : boolean; v : boolean; y : boolean array returns integer VvC, j420 : boolean; E2b, X860a : integer; output 6 = 2 . "+3" . 707 . "" end main : chillax end

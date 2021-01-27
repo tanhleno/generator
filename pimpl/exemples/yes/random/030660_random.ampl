@@ -1,0 +1,1 @@
+program v : h18 : takes U7Paa, m7U : integer array returns nothing h, O : integer; d : boolean; do f9t(- I1) end main : W2 : boolean array; jjfa, _9e : boolean; R : integer; KB : boolean array; pop not 499 <= false or 699 - 3 end

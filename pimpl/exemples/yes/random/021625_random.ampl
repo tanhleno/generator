@@ -1,0 +1,1 @@
+program p960a : ee6 : takes n, aN20a : boolean array returns integer C_, mq40a, R1 : boolean; P_5, H1, x, _ : integer array; output "p<" . 236 = 3 . 69 . "\nk" . "" end H2 : takes w : boolean array; nv00a : integer; A, h : integer returns boolean chillax end main : output not(2) > - (6) . ""; let qA[- (50500)] = array - true or not 79; do C(not 4 and 1 + 6 < - 3 - 5) end

@@ -1,0 +1,1 @@
+program _4 : main : while V[99] = true and not 6 and 376 : chillax end; when case false / h and 87 - true - 8 : let G = 5; do wNoa(05) end otherwise : let V[7] = array 9430; input B5 end; let ED = array - (79600) + 4; let u[0] = 659 = 417; output ""; while 8 : chillax end end

@@ -1,0 +1,1 @@
+program j : w53 : takes l : integer array; nn, i, X : boolean array returns nothing chillax end I : takes l, Y8, F7, c3f : boolean array; Ya : integer; P2, x, lVxaa, E, W : integer; J0j0 : integer; zm : boolean returns nothing rH9a : integer; do i17(- 65900 > 4) end main : chillax end

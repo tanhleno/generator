@@ -1,0 +1,1 @@
+program S5 : o : takes dO, m, l, Q : boolean; J, H, C : integer returns nothing Ee : boolean; I, N9n, H, i : boolean; chillax end main : T, fB, U : boolean; l, G, ZsZ : boolean array; mt4, iU : boolean; S : boolean; do kP(- (6) and(88) * true) end

@@ -1,0 +1,1 @@
+program z : iy : takes K : integer array returns nothing ycXa, Q : integer array; chillax end v5 : takes E7, U, w, Z : boolean array returns boolean array f98a : integer array; chillax end main : s, d : boolean array; v : integer; let p = - true; do gRW((1), - (3) and 02400 = 9, 6 > 2, 3, 1, 50600); pop 6 - 21 /= 9650; while - 9 - 3800 = 499 : do A(080) end end

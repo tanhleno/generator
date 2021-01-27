@@ -1,0 +1,1 @@
+program g : B : takes Qo : boolean; s, Z : boolean array returns boolean while l and 9 /= - 01 - 7 : while 69 : pop end end; input r[7120 - 54]; while 59 = 7 : while 68 : chillax end; pop end; do qQp(3) end main : when case - false and not true or not e2 and true + (79) or 01 - 00 > - 76 + 48 : chillax end; input v8[not 7 rem(6840)] end

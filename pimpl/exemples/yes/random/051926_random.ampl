@@ -1,0 +1,1 @@
+program q4b : s : takes R8C : integer; a : boolean array returns boolean let x5P = 7 - 7; let Q7 = 19500 = 43400 end al : takes N : boolean array returns nothing chillax end main : when case - (23) /= T[8] : input Qg[4 - 6]; output ""; pop end end

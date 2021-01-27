@@ -1,0 +1,1 @@
+program F6Za : k : takes v, Ih : integer array returns integer array chillax end A : takes h : boolean array; FB, T6 : integer returns nothing do dQ9(- 1); pop 3; do A5(8); do Q(5910); when case 7 : chillax end; pop end main : while 17 - true <= e(8) rem true and 9 : chillax end; pop end

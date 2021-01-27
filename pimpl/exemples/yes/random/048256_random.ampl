@@ -1,0 +1,1 @@
+program Y : gx : takes q : boolean returns nothing t0, h2 : integer; when case - not 5 - 7 - 5 : let KAT0[3] = 1; pop; output "T!" end case - 3 = 39 : chillax end end Z : takes Z : integer array; E7, Pwf0 : boolean returns nothing chillax end main : chillax end

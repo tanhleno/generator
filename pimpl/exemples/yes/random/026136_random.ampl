@@ -1,0 +1,1 @@
+program _M : a75 : takes A, M0 : integer; x : boolean array; Nt1, M, Xp20a : integer array; H : integer array returns nothing output 9 . 90 . "" . "3\n" end main : input t[E rem 1 / (91) + S92a(1) rem not 598 and 52 or true and 3 + 4]; let l8f0[(7)] = array not not 7 + p3 and 83100; while - not 5 and 3 or 6 - 7 : chillax end; while - 5 - 82300 : output ""; output "" end end

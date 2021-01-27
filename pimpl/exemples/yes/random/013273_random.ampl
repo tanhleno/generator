@@ -1,0 +1,1 @@
+program U : I24aa : takes P6, N8yaa, K9 : integer; p9R0 : boolean array returns nothing when case - false and 6 >= 6 - 6 : chillax end case - 1 - 5 /= 4 : chillax end case 91400 : chillax end case 60000 : chillax end end M : takes o1L, DU : integer; G : integer returns nothing output "" end main : input r; when case - 93 + 1 and 24 or 24300 : while 3 : chillax end end end

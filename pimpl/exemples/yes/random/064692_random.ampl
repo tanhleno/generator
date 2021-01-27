@@ -1,0 +1,1 @@
+program WE : s : takes y : integer returns nothing xj : boolean; Wi_a : boolean; n91, Y : boolean array; n, f : boolean; Y91 : boolean; t4 : boolean; output "" . ""; let Pjp0 = 0 end o : takes zV8aa : boolean returns nothing do T7(4 /= 8, 83 = 4) end main : c : boolean; Y3t, j : boolean array; IB, ol : boolean; let cd = array - 31 * 29 end

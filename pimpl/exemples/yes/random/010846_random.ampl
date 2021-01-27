@@ -1,0 +1,1 @@
+program tH9 : y : takes l3k, NL5, HN0aa : boolean array returns integer array lm50 : boolean array; chillax end main : when case(9) >= 7390 - (63) : input cr[- 050]; let r[62400] = 6; while 36 : pop end end otherwise : chillax end end

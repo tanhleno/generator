@@ -1,0 +1,1 @@
+program TgX : g : takes g : integer array returns boolean chillax end RwSaa : takes T : integer array; ft, b : integer array returns boolean array do q(- 95, 9 = 0, 0, 1) end main : U3, g, kMN, Cc : boolean; pop - false * false and 6 + false - 02 - 97000 /= - true - 553 - 65; pop; input G[- false]; let af9aa = array 139 - 2 end

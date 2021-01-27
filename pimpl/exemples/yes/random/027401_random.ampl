@@ -1,0 +1,1 @@
+program D : ib_ : takes oYZ, Jc5 : integer array; G, h4, bV : boolean array returns nothing let Ya[true] = 9 end P9 : takes z : boolean array; Dji : integer array; AlTaa : boolean array; C4, p, SQ : boolean array; u, lt, a43aa : boolean array; r, J : boolean; rT : boolean; a6 : boolean returns integer chillax end main : pop; input b end

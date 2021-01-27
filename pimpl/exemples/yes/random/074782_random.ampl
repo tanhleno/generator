@@ -1,0 +1,1 @@
+program I8 : main : sD, Y0 : boolean array; w5, B : boolean; H, a : boolean array; C9, i : integer; pop - not not 20400 and L and 9 or(16) < - 55 or 9 - 7; let GE = not 6 + 2780; do K4C(- (19100)) end

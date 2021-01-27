@@ -1,0 +1,1 @@
+program q11 : I : takes b9, Q, C : boolean array returns nothing while - not 12 - 1 - 1 <= - 5 - 34 : chillax end end QO : takes wc : integer array returns nothing chillax end main : B : boolean; s, fp : boolean; chillax end

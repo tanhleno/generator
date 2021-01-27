@@ -1,0 +1,1 @@
+program F54 : main : when case - (96) and true and(8) : output "" . 8 . "\n" . ""; pop 9; when case 5 : pop end case 48 : chillax end otherwise : chillax end end; when case - s and true or(94) : let C[0] = 5; output "F" . "" end case true + 27 - 3 = 02500 - 68 : let L[7] = array 10000; let D = 23300 end case 44 : while 36 : chillax end; input L; pop end end

@@ -1,0 +1,1 @@
+program H : q : takes _, I : boolean array; cq7, JP, PC, R, O : boolean; M, j, f8, HN, p, r : boolean array returns integer array chillax end s : takes m4, pU : boolean; Kq : boolean; cq : boolean array returns nothing O : integer; bj, o : integer array; _ : boolean; when case - 06 - 95 : pop; input g end; output 713 . 85000 . "" end main : chillax end

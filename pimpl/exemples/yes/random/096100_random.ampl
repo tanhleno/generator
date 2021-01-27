@@ -1,0 +1,1 @@
+program IOGaa : main : when case - q[8730] or true or(0) and 48100 - 7 - 76 = - (93) + 3 and 42 : pop end case false > - not 7 : when case 0190 = 0 : chillax end case 1 : pop end otherwise : chillax end end otherwise : do FTW(85, 79); while 869 : pop end; do v4x0a(1); input d2W; pop end end

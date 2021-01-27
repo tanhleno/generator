@@ -1,0 +1,1 @@
+program z : rlK0 : takes N1, m : integer returns nothing input w; pop; do l(957 = 7); output ""; output "l"; while 37100 : chillax end; pop end main : v1 : boolean array; l, ee50a : boolean; output 0980 + 23 + 2; output "" . - 8 /= 51 . ""; input m4[2 and 3 + 6] end

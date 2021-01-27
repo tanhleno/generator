@@ -1,0 +1,1 @@
+program Ub5 : J9P0 : takes X8v, s, HU, r100 : boolean returns nothing jW, lBI, M84a, qU1a, G : boolean array; a2 : boolean; I, T : integer array; do OE30a(4 and 5 or 7 - 238 <= - 7, 5 - 3 = 9); pop 279 end main : chillax end

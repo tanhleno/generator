@@ -1,0 +1,1 @@
+program N : B1Q0 : takes A4W0a : boolean returns nothing chillax end f8 : takes lY : boolean array; m, w0, f : boolean; w : integer returns boolean array t : boolean array; n : integer; let F[- 2] = 1 end main : chillax end

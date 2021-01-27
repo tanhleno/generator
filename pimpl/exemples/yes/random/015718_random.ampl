@@ -1,0 +1,1 @@
+program C : A : takes fV5aa, h7, Y : integer returns boolean array C : boolean array; let t39 = 0; pop 0 = 6 end Kb8aa : takes O1, O : integer returns nothing H090a : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program y84 : h1 : takes OY, nM6, Q : boolean; QPG, a1, G8j, E, s, ty1a, A : integer array; D6, y : integer returns integer array chillax end XO6 : takes Kgt0 : integer returns integer let u3 = 3 = 7 end s0q : takes rq, Ut : boolean array; j : integer returns nothing L, W, w3P : boolean; w51 : boolean; chillax end main : Aq, S : boolean; I6 : integer array; chillax end

@@ -1,0 +1,1 @@
+program v : T : takes a, r3m, Q, y, e, W, t : integer; u6A, h : boolean returns nothing M : integer array; H : boolean array; do i(- 22 + 50500 - 0) end wcb : takes u : boolean array returns nothing t, Ke90a : boolean array; output 474 end main : let H[- false] = array - (216) - true / 2 end

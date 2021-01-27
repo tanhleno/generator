@@ -1,0 +1,1 @@
+program f1 : oET : takes R, s3j0a, KI0a, L, B, G : integer array; q, t : integer; C, E, j : integer array; l7 : integer array; E, h : integer; N9 : boolean returns integer array while(14) >= 155 - 15 : let F6[45] = array 4 end; let E3L[0] = 0 = 2500; input bm3aa[5] end main : pop end

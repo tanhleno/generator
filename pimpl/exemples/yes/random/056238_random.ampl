@@ -1,0 +1,1 @@
+program T : F : takes Nu : integer array; Q27aa : boolean returns boolean array chillax end X0xaa : takes UHLaa : boolean; R, z7, A4Iaa : boolean array returns nothing y3 : integer; chillax end L6 : takes T5, r : integer; Ov, gy : integer returns nothing y87, q : boolean array; tC, d : boolean; _ : boolean; chillax end main : Y : integer; chillax end

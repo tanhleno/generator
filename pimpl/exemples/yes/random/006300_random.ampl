@@ -1,0 +1,1 @@
+program o5ta : l : takes t, M, Nfl, mFd : integer; w96a, S, F0i, a, SI, A3k0a, g : integer; U : integer; E7, g, KJ, e5, j8 : integer returns integer array input Xf60a[6 + 64]; while 015 <= 47 : while 682 : chillax end; output "" end; let R = array 0 end main : output - (51500) and(6); pop end

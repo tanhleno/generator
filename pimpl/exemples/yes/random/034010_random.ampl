@@ -1,0 +1,1 @@
+program q : u800a : takes ohi0a : boolean; q4, e, M : integer; O3G0a, mr : integer array; m4Ja : boolean array; S, AiC : integer; G, hL, Z : boolean returns integer array k : boolean; M, nx4aa : boolean array; h, S, sj : integer; Z2, U : boolean; input lP9aa end main : L8, n3, lk2, f, z : integer; QS, P, w : integer array; chillax end

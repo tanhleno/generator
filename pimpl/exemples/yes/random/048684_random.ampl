@@ -1,0 +1,1 @@
+program l : H : takes Im1 : boolean returns nothing K_ : integer; when case(8) : do ub(26); while 5 : chillax end end case - 02 : chillax end otherwise : chillax end end main : output "" . "2" . 2 - 5 end

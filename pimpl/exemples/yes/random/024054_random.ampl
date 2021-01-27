@@ -1,0 +1,1 @@
+program Z : b : takes X49, K : boolean returns nothing chillax end main : M : integer; Wl, G : integer; let qlxaa = array(4) / 42; output - Y1 or 6470 - 95 . ""; when case false /= - 32 : chillax end end

@@ -1,0 +1,1 @@
+program G : main : O, Y54a : boolean; UV : boolean array; sxd0a, R, nR : boolean; let ew = array 1 + 292 / 86 and 7; when case 6 = V - 6 - 55 : input S; let CJ2a = array 02 end; when case(2) + 1 > - 904 : input bN1[0]; when case 450 : chillax end end otherwise : chillax end; while - 8 - 0 : output ",`"; do R960(91800); pop end end

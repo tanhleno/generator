@@ -1,0 +1,1 @@
+program B4i : d_ : takes Y : integer array; ZAKa : integer array returns nothing chillax end k : takes p : integer; E, C0i, V, k : integer returns nothing m : boolean array; a810a, TH : integer; I5Z : boolean; D : boolean; ik : boolean; chillax end main : Rb80 : integer array; input m6L; while C /= - not 1 and 69 : input l end end

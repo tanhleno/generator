@@ -1,0 +1,1 @@
+program Q : Z : takes x, A, Z : integer returns nothing c4Z, hC4 : boolean; U, Idgaa : integer array; input q end d : takes n, CC : boolean; zf0 : boolean array returns integer array _, w : integer; pop 70 = 3; when case 96 = 8 : chillax end case 0 : chillax end case 25 : chillax end otherwise : chillax end; pop end main : chillax end

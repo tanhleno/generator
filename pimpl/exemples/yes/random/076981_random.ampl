@@ -1,0 +1,1 @@
+program E : main : r, OY : integer; while false / 5 + Ml3aa(7) and not 5160 - 2990 and 2 + 2 - 532 > - true + true and 7320 : chillax end; do Z(- true - Pg + 9730 - 077); input j[true and 22]; input _ end

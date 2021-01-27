@@ -1,0 +1,1 @@
+program _9 : main : while - 69 rem ZA0[7730] and 235 and 66 /= - Oj1aa[7] : chillax end; while - not 9 rem not 13 and 57600 : pop end; let ZR[N and 60] = array - 9 and 9 - 73; input Y[59 - 30]; pop 5; pop end

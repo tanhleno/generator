@@ -1,0 +1,1 @@
+program V9b : main : let i[- (8) * not true] = true + true and 9 /= false and 6380; when case - g[73500] - false or 267 - 13 >= - false and 6 : pop 4; when case 5030 : pop end otherwise : chillax end; input m end otherwise : chillax end end

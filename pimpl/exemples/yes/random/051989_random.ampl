@@ -1,0 +1,1 @@
+program w : Su : takes e8 : integer; h : boolean array returns integer H4 : integer; chillax end main : i, E : boolean; K : boolean array; mm7aa, zFi0a : boolean array; input m[not(4)]; while - 06 and true + true : let G[1] = array 44 end; when case - false + 4 : chillax end case 391 - 6 <= 79 : chillax end; input FI5aa end

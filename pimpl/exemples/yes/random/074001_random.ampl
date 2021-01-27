@@ -1,0 +1,1 @@
+program N45 : main : T, T : boolean; cx : integer array; slQ0a, u5, W, j : integer; output - 2860 / false and 01 + l + 965 - 3 . "" . "|+!a" . 6 = 4 . "&" . 5 . "a"; let V = true and 5310 <= 3; output 86500 - 92; let q[245] = 13; let Mj = array 26 end

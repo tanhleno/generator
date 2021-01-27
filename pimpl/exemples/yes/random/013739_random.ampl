@@ -1,0 +1,1 @@
+program J : gG4 : takes w, Ks, n : integer array; m5, h, m, l : integer returns nothing output - 05 - 29 = 4 . "\t" . "r."; when case - 02 : chillax end; input e[62] end x : takes I1, iLlaa : boolean returns boolean array chillax end main : chillax end

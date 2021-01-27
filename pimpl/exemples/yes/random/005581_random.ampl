@@ -1,0 +1,1 @@
+program H8 : R5 : takes v, D, bE, L : boolean array returns nothing do E(- S0A0); while 10600 - 8 : chillax end end main : do O4Q(- 1 - (91) * true and 9 - not 39300 and 2 + 27 - 5020, not zk0 < - not 97300 and 2 or 63) end

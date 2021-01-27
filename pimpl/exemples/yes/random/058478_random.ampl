@@ -1,0 +1,1 @@
+program m : RZb : takes m : integer array returns boolean let Q[- (3590) + 03] = 2 - 8 end main : R, u : boolean array; u9, tzd0a, E, sQ3, G, E : boolean; output - 2 * not 2 and 57700 + false and 2 or 0 end

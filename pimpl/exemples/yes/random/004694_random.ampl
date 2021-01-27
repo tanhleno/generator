@@ -1,0 +1,1 @@
+program Y : n : takes l4R0a, U1za, DQ, W5 : boolean; B7 : integer returns integer Fuf, N : boolean array; chillax end X : takes dGQ, w5 : boolean array returns nothing while - 66 - 8 : chillax end; do i(3620, 5, 3) end O : takes C4t, K, C : integer returns integer pop end main : chillax end

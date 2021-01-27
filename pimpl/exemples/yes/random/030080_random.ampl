@@ -1,0 +1,1 @@
+program D : D : takes E, P : integer array returns integer KA : integer; Y4, H : integer; input o[- (6)] end main : w : integer array; w, m690, m2, a : integer; when case - N[56] or C9 / not 16 and 019 - not 7 and 2 < false and true or c4_ and 6 : chillax end case - 97 : chillax end case - (600) : let j[8] = 3; pop; output "\\" end end

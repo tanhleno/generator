@@ -1,0 +1,1 @@
+program A1 : R : takes T : integer array returns nothing u : boolean; while false : when case 4 : chillax end end; when case 63 > 8 : do Z(25400) end otherwise : let B = 2410 end end x : takes te, O, V, rB00a : integer; s : integer; _16, D : boolean returns integer array chillax end main : x : boolean array; LVk : boolean; chillax end

@@ -1,0 +1,1 @@
+program f : main : wc, K, o : boolean array; H : boolean; output ""; while - y64 - 7500 and 3 = true and 9 + 4 - 4920 : let j[29000] = 056; when case 1 : pop end; while 9 : chillax end end; pop; while - 8 >= 4 : when case 51 : chillax end; when case 73 : chillax end end; pop 3; pop 4; input H35 end

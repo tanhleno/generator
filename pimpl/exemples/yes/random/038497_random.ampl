@@ -1,0 +1,1 @@
+program o : V : takes A : boolean array; L, r2 : boolean; cIi, gE0 : integer array; t03, F8_0a : integer array; A8J, Ck : boolean; I, B4E, OV : boolean array returns nothing R1, j, I : integer; when case false and 36700 + 34 - 7 < - 76800 : chillax end case - 6470 - 87100 : chillax end otherwise : input R880 end end main : chillax end

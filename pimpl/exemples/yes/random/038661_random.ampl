@@ -1,0 +1,1 @@
+program o : SP : takes j_ : boolean array; J, ll : boolean array; M : boolean; PV9 : integer returns nothing let lo = 73400 - 4; output "8\\\"a"; let T4 = array 378 end c : takes w : integer array returns integer array C, zB : boolean; chillax end main : let l[8] = false rem true and 5; do Tv0(false / _ and 491 = - 281 and 59000) end

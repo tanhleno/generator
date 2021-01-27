@@ -1,0 +1,1 @@
+program w : xr : takes S : boolean array returns boolean array chillax end Y : takes RO3aa, V, k4, tl : integer array returns integer pop; let V[75400] = 7 end fE : takes b, b : boolean; s4d0, h : boolean array; b, Iu, m9, QB : integer array; PL70, u, u5T0 : integer array returns nothing chillax end main : pop not AGs0a + y end

@@ -1,0 +1,1 @@
+program V : Rw : takes k : boolean array returns nothing pop 6 = 0 end X : takes E, R05, E : boolean array returns integer do W3(6 - 3, 6 = 931, 9, 1) end G : takes i : boolean returns nothing chillax end main : T : boolean; I4f : integer; chillax end

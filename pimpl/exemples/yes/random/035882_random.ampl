@@ -1,0 +1,1 @@
+program H : P44 : takes xI : boolean; V : boolean array returns boolean Kla : boolean; Q : integer; C : boolean array; chillax end j : takes j060 : boolean array; P47, Z70a : integer array returns nothing when case - 3 /= 178 : input x end otherwise : chillax end end main : chillax end

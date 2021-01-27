@@ -1,0 +1,1 @@
+program Q : C : takes Z2 : integer returns boolean let I = array - not 5 and 728 end j : takes tA : boolean; k : integer; o, BX, l, X060, x1 : integer returns boolean let Ewd = 41 = 26; when case 7 : chillax end end main : y86, K3Uaa, bzF : boolean; w, D, LY2aa : boolean; chillax end

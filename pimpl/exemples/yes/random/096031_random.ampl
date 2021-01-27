@@ -1,0 +1,1 @@
+program c : main : when case - K9 = - false : output 9 . 6; when case 3 = 2 : chillax end; while 0230 : chillax end; while 1 : chillax end end; let a = o and 14; output - 19 > 6; input TX; pop 261; do C(147, 6) end

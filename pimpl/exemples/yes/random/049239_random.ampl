@@ -1,0 +1,1 @@
+program G : x7 : takes Ek0 : integer; Zt, G6, E, W, m, c, M35 : boolean; eH9 : integer array; L6haa, j_0, y, K, hFa : boolean returns nothing chillax end main : pop true; while false or F - 268 - 73 : chillax end; when case - true and 19 + 5 : chillax end case - 23 - 9 < 50900 : chillax end case 228 = 6 : pop end otherwise : when case 9 : chillax end end end

@@ -1,0 +1,1 @@
+program fS : o : takes I7, F8, q : boolean array; O, e : boolean returns nothing Dg, Fy : integer array; input E3[true and 4 or 7320 - 1]; do q(0 - 8, 95500, 04, 8) end main : eY40 : boolean array; output "34" end

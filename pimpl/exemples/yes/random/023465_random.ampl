@@ -1,0 +1,1 @@
+program J : E7Ua : takes D0, f6na : boolean returns integer array v, C, lt6a : boolean array; mdr : integer array; do rOQ(qMN /= - 4); do DBU(9 - 06 >= 4, 1, 38); pop end main : let GYK = - false <= - 0 and 1 + 17 - 42 end

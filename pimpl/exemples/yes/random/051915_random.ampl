@@ -1,0 +1,1 @@
+program p4 : _6 : takes L2Ga : integer; V : boolean array returns boolean xn9 : boolean; u, s_70 : boolean; let d45 = array(9) and 343 + 998 - 1; input T[- 0 - 65] end main : p, J : integer; F, L9 : integer array; O0maa, cDga : integer array; Y4h : boolean; YX4 : boolean; z : boolean; chillax end

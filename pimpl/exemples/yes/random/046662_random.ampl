@@ -1,0 +1,1 @@
+program n : H : takes r8 : boolean returns integer array Wu : boolean; H : integer; when case Z3K and 5 or 99 - 6790 > - 5 - 8 : chillax end case 97 : chillax end otherwise : do S1(4); when case 5 : chillax end; pop end; while 7 > 950 : chillax end; while 56 = 99 : chillax end end main : do X(- Vj / (1) * true + 4 rem R and 4 + false > - e2B(1) rem u + g9, false) end

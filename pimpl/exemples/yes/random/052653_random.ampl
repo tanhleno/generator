@@ -1,0 +1,1 @@
+program x : T6 : takes Cz : integer; X : integer array; o, BR, f : boolean returns integer S : boolean; Q54aa, xV9aa, T : integer array; chillax end main : l : integer array; do el40(- 5060 rem true * not 7) end

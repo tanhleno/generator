@@ -1,0 +1,1 @@
+program X0 : U : takes L28, H, v, j, kp : integer array; cr, x85aa : integer array returns integer array e, ML0 : boolean; h1, Pd : integer; when case(7) and 5 : pop; let iE = 23000; output "\t" end case 98 /= 3 : chillax end; input y end main : chillax end

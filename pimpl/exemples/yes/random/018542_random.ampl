@@ -1,0 +1,1 @@
+program MZr0 : pQ : takes V, dN4 : boolean; U : integer returns nothing chillax end main : hl : boolean; JZ1 : integer; _, Lq, y : integer; do v((74 = 64300) / false * false /= - (5) or q3 and 7 + 7) end

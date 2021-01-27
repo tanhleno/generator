@@ -1,0 +1,1 @@
+program x7 : r : takes W, M : integer; f, b : boolean array; i : integer returns integer c, L9 : boolean array; F : integer; output ""; output 9470 = 8430 end f : takes d : integer returns nothing Rs : integer; output 666 end main : let kV20a = array true + not V end

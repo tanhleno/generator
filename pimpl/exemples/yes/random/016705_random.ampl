@@ -1,0 +1,1 @@
+program Fh4a : z : takes VbW, T5 : boolean; H, s, YY3, s, d : boolean; N5 : integer returns nothing input q[- 61] end main : T : boolean array; u0X : boolean array; when case - e[57200] * false : chillax end case false rem 8 > - 7 and 8 : chillax end case false and 40600 > 1380 : chillax end end

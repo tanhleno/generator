@@ -1,0 +1,1 @@
+program z : x : takes q : boolean returns nothing chillax end P1 : takes gv20, w200, qL : boolean array; M : boolean returns nothing input q; let i = 5; when case 2860 : chillax end end main : chillax end

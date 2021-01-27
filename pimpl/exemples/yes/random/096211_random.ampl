@@ -1,0 +1,1 @@
+program E : main : when case - not A(4) / true : chillax end case false rem true and 34 >= - 750 and 0 : chillax end case(370) and 49 or 39600 - 6 > 2 - 5980 : while 70 : chillax end; when case 9 : chillax end; do ZZ00a(78) end; output 2 and 9 + 71300 = - 8130 - 0320 . - 61300 . "74"; do HnKa(- true + 505 - 377) end

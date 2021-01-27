@@ -1,0 +1,1 @@
+program meR0 : X : takes ak6a : integer; O570a, N5, R : boolean array returns integer chillax end a : takes i : boolean; v4z, L, t : boolean array; Ed : boolean array returns nothing chillax end l : takes P7 : boolean array; qZ : boolean array returns nothing chillax end main : chillax end

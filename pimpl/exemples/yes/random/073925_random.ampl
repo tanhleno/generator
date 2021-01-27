@@ -1,0 +1,1 @@
+program mw3a : main : U3M0, d1M : boolean; px : integer; C5, h : integer array; input K; when case(8) * j or(85600) > - true : let O = 79; do Wgk0(07800) end otherwise : output 3 . "h" end; input u4; when case - 9 = 4 : chillax end otherwise : while 80 : chillax end; pop end end

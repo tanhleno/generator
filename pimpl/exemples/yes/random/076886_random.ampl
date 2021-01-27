@@ -1,0 +1,1 @@
+program I : main : h, X2z : integer; when case - zZ[2] * (68) < 342 : chillax end case - (50300) > - false and 5 + 1 : do GW80(4) end; input M[not N53 * false and 9 or true]; do s0(- false and 8, - 62 - 1, 004 = 27500); let WyEaa[- 0] = array - 198 - 1 end

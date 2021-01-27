@@ -1,0 +1,1 @@
+program AO9 : t3 : takes R : integer returns nothing when case - (1) : input PP end end main : XI : boolean; g2S, R : integer array; p, w, K : integer; when case false or(7) or false + 2 - 570 : chillax end; input rg; when case 8 and 02 <= 6 : input I4 end; input p0 end

@@ -1,0 +1,1 @@
+program J : l : takes W : integer; g, E86, Eg9 : boolean array; d3, P1paa : boolean array returns nothing X, sK10a, f8 : integer array; D27aa, l : integer array; do i(- q and 3 + 45, - 64) end main : let bG = array - 7 * nLM0a(7) * true; when case false rem true = true : chillax end end

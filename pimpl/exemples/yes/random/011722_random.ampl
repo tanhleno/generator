@@ -1,0 +1,1 @@
+program Kc : Q3 : takes g2c, W8P, W : boolean returns boolean G : boolean array; i : boolean; Z96 : boolean array; chillax end dc : takes B, M : integer array; mZRaa : integer returns nothing chillax end q : takes KmC, T : boolean returns nothing chillax end main : m : boolean array; Bh6 : integer array; m, T : boolean; chillax end

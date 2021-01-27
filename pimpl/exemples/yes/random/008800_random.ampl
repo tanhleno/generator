@@ -1,0 +1,1 @@
+program e : lv4 : takes Z, k1, f180 : boolean; j, AW30a : boolean returns nothing c : boolean; input Z0C end main : SP : boolean array; T, s : boolean array; output "" . not 4 or 3 > 55200 . - 1 > 1 . 548 . "" . "" . "^s"; pop(303); pop - 6870 - 80 <= 6; when case - 16500 - 1220 = 64 : pop; do E1(8) end; while 5 : output "2"; pop end end

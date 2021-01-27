@@ -1,0 +1,1 @@
+program Bp : f : takes _ : integer returns integer chillax end main : when case XOp(922, 01) : chillax end case - hp3 rem 523 and 1 : while 3 = 4 : pop end; do i65aa(593); output "\t"; input W; pop end case YO1 and 56 : chillax end case - 1670 > 2500 : chillax end otherwise : output "}" end end

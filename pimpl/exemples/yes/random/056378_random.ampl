@@ -1,0 +1,1 @@
+program S : s : takes J : integer array; d2 : boolean returns nothing chillax end l : takes y, S, w1, Z03a, X, UH3 : integer; a, B0, HLI : boolean array returns nothing e0 : boolean array; chillax end main : let S62[- u74 * true] = array - not(02200); let G8[- 478 / 5] = - false and 52500 or 1 - 94 > 9 - 8; pop 9 - 1; do g6s(7) end

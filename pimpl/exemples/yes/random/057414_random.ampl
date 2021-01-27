@@ -1,0 +1,1 @@
+program k : w : takes Ei : integer array; b : integer returns integer j, _, g : integer; while true and 4 + 206 : chillax end; when case 0 - 7 < 5 : pop end otherwise : when case 6 : chillax end end end main : a : integer; output - not not 3 or not 76 and 9 or 6 /= - (1) and 2 - 478 . "\\"; input a[false] end

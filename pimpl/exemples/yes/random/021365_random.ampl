@@ -1,0 +1,1 @@
+program W : c : takes J, n3 : boolean array returns integer array s910, R : boolean; while - F and 6 - 9000 - 04 : when case 0470 : chillax end case 2 : chillax end; output ""; output "" end; let A = 61 = 4190 end main : cpL0, n4Maa : boolean array; chillax end

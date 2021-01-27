@@ -1,0 +1,1 @@
+program FX : main : v3aaa, G, _1, P9E0a, _ : integer; pop - 3 * false <= - 5 and 3200 + 1; do k15((6) - (86), - not 25 /= 30, 65 < 256); while Un0 : chillax end; while 28 - 40 > 1 : when case 0 : chillax end; output "!"; pop end; when case 4 : chillax end; output "" . "J}0a" end

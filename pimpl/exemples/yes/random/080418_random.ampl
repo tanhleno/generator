@@ -1,0 +1,1 @@
+program E : main : r5 : boolean; when case false rem U(5) : chillax end case not(69200) /= true or 1 - 88 : input O0n end; when case i6 / not 2 <= BY and 68 - 0 - 3 : pop 3; input v end case - true = 6 : do z(0); when case 84 : chillax end end otherwise : chillax end end

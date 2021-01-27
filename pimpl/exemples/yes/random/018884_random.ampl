@@ -1,0 +1,1 @@
+program H : T : takes To30a, i : boolean array; XcJaa, C, H : boolean array; a, O, v8 : integer array; T5 : boolean array returns integer array chillax end Y : takes y, A29, X3, N : boolean returns nothing pop 62200; pop end main : I, X : boolean; output 30 * false and 85 /= 9 and 49 . - false and 2 > - 92 - 8 end

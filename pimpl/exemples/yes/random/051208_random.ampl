@@ -1,0 +1,1 @@
+program JQ : UcC : takes q : integer; lO, EM3 : integer returns integer array G, l06, a : integer array; chillax end A5W : takes kB : boolean array returns integer chillax end v : takes nO3aa : boolean array returns nothing q, x, TI2aa : boolean; p : boolean; P : boolean; chillax end main : let E[not false] = - (8) + true and 9 /= true and 5 or 786 - 8 end

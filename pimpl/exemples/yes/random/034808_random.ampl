@@ -1,0 +1,1 @@
+program D2 : W : takes G : boolean; K, J : integer; G9 : boolean; m, v, C : boolean array; ew : integer array returns integer array let c = - 1 - 23; while 722 - 72 /= 56 : input q end; when case 43 = 89 : chillax end otherwise : chillax end end main : X8 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Yf : Pw : takes O : integer array returns nothing f, W, C : integer array; when case - 6 and 90 - 08 > - 50 - 45600 : when case 25 : pop end otherwise : chillax end end end r : takes M : integer array returns nothing chillax end IR : takes H, B2, N : integer array; W, h : integer returns nothing O84aa : boolean; n1 : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program G : main : when case(7) and true * (3) or I6 / false and 1 < false rem(111) : chillax end otherwise : while 79 : chillax end; when case 360 : chillax end case 5 : chillax end; when case 20100 : chillax end end; output - e and 64 or 9 < 7 . 8560 - 630 end

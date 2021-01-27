@@ -1,0 +1,1 @@
+program z5 : Y : takes vx, lT, G, eM2a, Y3 : integer array returns boolean Dz, c, LO, z, sl2 : boolean; p : boolean array; do J(X4q <= 101, - 483 /= 3160, 15 = 11, 3) end main : t, DE9, v, l, s9 : boolean array; J, o : boolean; output(057) or(5) <= - 3 . - not 4 >= 94 - 5 end

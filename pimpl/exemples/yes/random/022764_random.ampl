@@ -1,0 +1,1 @@
+program r : fwua : takes N, o72 : boolean array returns nothing pop 6 - 5 end K : takes J8Z0 : integer array returns integer chillax end r : takes O : integer array; a, F : boolean returns nothing input j1; pop 9 end main : l, H, UwM : boolean; c : integer; let xqd0[false] = array b5A * not not 36; input h[true rem not 37]; pop; let e = 330 = 0; do g(2, 241) end

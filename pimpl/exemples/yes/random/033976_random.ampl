@@ -1,0 +1,1 @@
+program p : W : takes O48 : boolean; tuh, T, Ha3a : integer; Q, Ks, Z, N, E0 : integer array; y1 : boolean; LZ : integer; Vn : integer returns integer sd2, m : integer array; n9S0a : boolean; input O36[(0) and 8]; let a7 = array 305 end main : let dCO = array S(94800, 1) rem true end

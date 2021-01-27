@@ -1,0 +1,1 @@
+program n : p : takes v, gM : integer array; bI : boolean array; y2d0 : boolean array; rLFaa : boolean returns integer dW : integer array; while Jh7aa and 5 - 55 : chillax end; output 34 = 99600 . 3 end main : chillax end

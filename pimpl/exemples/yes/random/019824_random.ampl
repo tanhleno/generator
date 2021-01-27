@@ -1,0 +1,1 @@
+program J4 : p : takes p, Bs : boolean array; fe : boolean array; x, O, NI : boolean array returns boolean array Yh, e, YZQa : boolean; chillax end rN : takes Z : integer returns nothing output 4 end main : M : integer array; input L[not 3 - XL30[55] + 8 and 5] end

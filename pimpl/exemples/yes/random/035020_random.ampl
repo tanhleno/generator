@@ -1,0 +1,1 @@
+program v : Uo : takes B : boolean; jAA, z : integer array returns boolean array chillax end main : O1, F6, A49, GK, qA, W : boolean array; let hHD[- 77 rem false rem not 20 and 6110] = - 4 / true and 06 end

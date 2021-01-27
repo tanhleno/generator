@@ -1,0 +1,1 @@
+program p : XF : takes O : boolean array; x : integer; C620 : boolean returns nothing rZ4, J : integer; input _4z0[false] end main : let S[- w[638] - not 5 and false and 2] = - 233 rem false >= - z and 9 - 63400 - 5080 end

@@ -1,0 +1,1 @@
+program y : main : let sqZ0a[698 * 4] = (8) * false = true and 4 - 091; let X = array not(1) * true and 3 or false and 57700 - 2 - 262; while - 9 and 273 - 61 = - 5 - 7 : chillax end; do O(- 5); output 061 . "" . "" end

@@ -1,0 +1,1 @@
+program afU : _ : takes Q8, D : integer; m : integer array; T : boolean; Fo7, Q3Q0a, A : boolean; K80, KX : boolean returns integer input s; when case - 34 < 1500 : chillax end otherwise : output "=" end end _pA : takes e, A : boolean array; e4H0, vJ0, Fr4 : integer array; y, b : integer returns nothing chillax end main : chillax end

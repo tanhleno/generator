@@ -1,0 +1,1 @@
+program B7 : _ : takes q : integer array; hBx, I, gp : integer; L : boolean array; H6 : integer array; inYaa, Um, c, z6 : boolean returns boolean output "j" . "" . 54500 . 7 end main : y, _h : boolean; j : integer array; b, y4ta : integer; _740a : boolean array; pop end

@@ -1,0 +1,1 @@
+program z4 : W : takes N8, X0 : boolean array returns integer array _M : integer; n, j : boolean; let t = - 5 - 9 /= 9 end D9 : takes CT0, J6h, w1Naa, hx10a, w8 : integer; Ve, d, Mi40 : integer returns nothing pop end e : takes w : integer; Y : boolean returns nothing while 78200 = 35100 : chillax end; when case 6 : chillax end otherwise : chillax end end main : chillax end

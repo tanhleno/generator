@@ -1,0 +1,1 @@
+program Jyvaa : P0 : takes Kl : boolean; Ew0aa : boolean returns nothing chillax end R0 : takes L, V : integer array; D94 : integer; a : integer returns boolean B : boolean array; rm, cq, _ : boolean; let u[- 91 - 439] = 8; input B8c[660]; let UVI0 = 7220; output "" end main : yhm0a : boolean; n0, C, v : boolean array; l, Z42, V, N7 : integer array; chillax end

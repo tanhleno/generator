@@ -1,0 +1,1 @@
+program fu : main : D : boolean array; cA : boolean; when case P(81000, 1) : let XvW[6] = array - 105 - 52; input Fa7; output "" . "\n" end otherwise : chillax end; do C(m7(3) * c3 and 5 + true - 12 = true + 6 - 02, - y2k and 256, - 4 = 0, 4 = 36, 4) end

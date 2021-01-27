@@ -1,0 +1,1 @@
+program x : main : d3g, E : integer; U, Z : integer; while - false rem 6 and 3 and 4 < (33) : chillax end; pop true and 4 < - 07; while - (06) - 56 : pop end; input bb4aa; while 7 = 3 : pop; pop end end

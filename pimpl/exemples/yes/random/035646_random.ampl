@@ -1,0 +1,1 @@
+program f8 : mm8a : takes h : boolean; a : boolean array; VY0a, v6 : boolean; X, I : integer array returns nothing when case - (61) and 4 - 3920 - 744 : pop 8 end case 02 : chillax end case 2 = 8 : chillax end otherwise : pop; do l(75) end; let yX2 = array - 51 end N : takes e, Sx6a : integer returns nothing while 7 - 8 = 3 : chillax end end main : O, H : integer; chillax end

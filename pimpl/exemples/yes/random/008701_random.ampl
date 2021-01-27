@@ -1,0 +1,1 @@
+program O : z : takes R, xp, L : boolean; B, h : boolean; a : boolean returns nothing chillax end v : takes sk3, w : boolean returns boolean array let a = array 90; do D(85500) end main : b7 : boolean; r, Z, V, W : integer array; oB5 : integer array; chillax end

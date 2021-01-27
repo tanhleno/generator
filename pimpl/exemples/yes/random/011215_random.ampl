@@ -1,0 +1,1 @@
+program j : R : takes y, l4, CM0 : boolean array returns nothing cI, fs, d : integer array; Bki, bq2, JRya, r : integer; TT50a : boolean array; while - not 5720 and 202 - 6440 - 38 /= - 7 : output 0; let p1P = 75 end; let Q[- 0] = 5; while 23 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program l : dG : takes Uy : integer returns nothing while(1) : chillax end end main : while not true / 71 * M_s0 or not(066) / true - 85 and 22 : chillax end; when case - (53900) /= - A and 87300 - 09 - 47 : do F(6 = 6, 03100, 0870) end otherwise : let f = array 66; do x(0390) end end

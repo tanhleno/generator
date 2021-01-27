@@ -1,0 +1,1 @@
+program l : _3 : takes U6, E, j : integer; H : integer; G : boolean array returns boolean array chillax end main : output - not not 6 * (41) and 800 - not 8 + 8 - 2 > - e or 70 - 5 . (0) > 5 . "<?!a" end

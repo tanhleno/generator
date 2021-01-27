@@ -1,0 +1,1 @@
+program c : U4 : takes u : integer array returns nothing when case - m and 4 + 8 : chillax end otherwise : chillax end end Xe4a : takes l0, V, I2, z : integer array; D, q, c3, k : boolean array; k, a : boolean; U : integer array returns nothing while - 6 - 7 >= 229 : chillax end; let S[8] = 71; while 48 : pop end end main : u : integer; chillax end

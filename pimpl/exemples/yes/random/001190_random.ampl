@@ -1,0 +1,1 @@
+program G : s : takes S3, D, r, D510, i, wbn : boolean; f7 : integer array; e2I : boolean returns nothing S33 : boolean array; chillax end cFDaa : takes M : boolean; m : integer returns boolean array let D7 = 4; let V43 = array 2 end X : takes L : boolean array returns boolean array chillax end main : t, M, F, k : integer array; chillax end

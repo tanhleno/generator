@@ -1,0 +1,1 @@
+program cN : N : takes L, FY, W : boolean; o : integer array returns boolean array es80, x4p, S, n7G, A4 : integer; input r[not 0 + 5 - 7] end main : do L0h0a(- (3) / not not 6 / not 8 - n * Y, - 887 <= true and 2, - true and 7, 75 = 201); input B end

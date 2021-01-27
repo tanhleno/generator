@@ -1,0 +1,1 @@
+program I59 : z1 : takes M : integer returns nothing V, E22, LE : integer array; f, Zl, U, m700a : integer; I, T : integer array; T1, c : boolean; chillax end p : takes C, nv, q, l : boolean; G : integer array returns nothing DV, K, m, b : integer; chillax end main : S, U96a, p : boolean array; nQ, fe, N5, Mf : integer array; input d end

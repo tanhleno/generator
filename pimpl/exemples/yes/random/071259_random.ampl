@@ -1,0 +1,1 @@
+program _4 : main : ua, N6, s2 : boolean; pop; when case - false + false and 0 <= - O and 2 + 86 : input x; when case 1 : pop end; output "\\" end case - true and 502 : chillax end otherwise : chillax end end

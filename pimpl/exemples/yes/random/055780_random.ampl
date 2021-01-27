@@ -1,0 +1,1 @@
+program JT : E9 : takes e : integer array; C : boolean array; s, j : boolean; RjP : integer array; Y, GZ : integer array returns integer array while F70 > - 63000 : when case 2 : chillax end case 936 : chillax end; input Z; when case 1 : chillax end; pop end end q : takes p49aa : integer array returns nothing let _Y = 07 end main : chillax end

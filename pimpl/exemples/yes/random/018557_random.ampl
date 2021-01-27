@@ -1,0 +1,1 @@
+program k : Fp : takes L18, Z : boolean; r : integer returns nothing V2Ia, T8 : integer array; Nv, K5 : boolean; C27 : integer; X : boolean; input o end main : let g[- 582 rem true + false * 4 + true and 6 + 48] = array false end

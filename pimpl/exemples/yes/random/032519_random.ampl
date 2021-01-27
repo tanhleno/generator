@@ -1,0 +1,1 @@
+program L : O : takes kyc0, O : integer returns nothing G, D, D, ab : integer array; Qs : boolean; while true and 1 - 2 - 76 > 81 - 03 : chillax end end yt5aa : takes r : integer returns integer pop 1 = 6; while 4 = 6 : let lB = 4; pop end; input b; output "\\G\""; pop end main : Y : boolean array; chillax end

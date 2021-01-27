@@ -1,0 +1,1 @@
+program JVE0a : main : let E = array - true * false * d and 7; when case - true + not 2 and 030 or 85 - 5 = not 5420 or 5 - 0940 : output 322; when case 12 : pop end case 1 : chillax end; while 74200 : chillax end end end

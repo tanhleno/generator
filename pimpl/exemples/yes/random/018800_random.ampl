@@ -1,0 +1,1 @@
+program LK70 : F9 : takes G6, rM : boolean array; c, k, h6, zAa0 : integer array; K : boolean returns nothing chillax end pK : takes FA70 : boolean; _WT0a, SK, t, x : integer returns integer chillax end main : chillax end

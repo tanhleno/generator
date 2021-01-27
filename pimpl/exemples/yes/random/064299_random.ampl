@@ -1,0 +1,1 @@
+program h83 : a : takes y : integer returns nothing I, mg, m : boolean; H8E : integer array; o39, GL0, r : boolean array; when case - not 4 = - 1 - 75200 : chillax end otherwise : input o; while 3 : chillax end; pop end; do Ob8(- 81 >= 8) end main : N : boolean array; chillax end

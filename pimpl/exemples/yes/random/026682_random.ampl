@@ -1,0 +1,1 @@
+program e580a : p3 : takes _w, C : integer; eJ60a : integer array; i : boolean; Z : boolean; l29 : integer returns integer chillax end main : b72, c, M7, N : integer; s, u : integer array; M1, y2O : integer; output "" . - Y; while true or 9 <= not 1 + 243 : chillax end end

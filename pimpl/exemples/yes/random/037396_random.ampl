@@ -1,0 +1,1 @@
+program h : r6 : takes I3 : boolean; D : integer returns nothing x : boolean array; m : integer; G9 : boolean; w : boolean; pop 1 /= 7; pop end main : n, aI : boolean; u2, G : boolean array; chillax end

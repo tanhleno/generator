@@ -1,0 +1,1 @@
+program hya : J64 : takes G, t8, oX, KRbaa, g : integer returns boolean _3, I5, T, G, ULUa : integer; e : boolean array; U : boolean array; I, Q2 : boolean; chillax end main : l8 : boolean array; sNqaa : boolean array; chillax end

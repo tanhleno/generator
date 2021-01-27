@@ -1,0 +1,1 @@
+program e7 : F : takes iD6 : boolean array returns nothing chillax end Ve5 : takes lv70, C, z, k0j0a, F : integer array returns nothing i140, l, a : integer; pop; pop 014; input Tp8aa; do A(0) end main : chillax end

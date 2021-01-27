@@ -1,0 +1,1 @@
+program AGka : t : takes Ty, I4 : integer returns nothing GY : integer array; chillax end main : Ba4 : boolean array; BHx : boolean; A : boolean array; input W; let T5H0 = - (0) < - 484 - 3; while - false : input P[2] end end

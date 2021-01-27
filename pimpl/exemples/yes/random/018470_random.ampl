@@ -1,0 +1,1 @@
+program fx : n6y : takes q, i19aa : boolean; NO : integer array returns nothing let i[false and 5] = 803 - 536 end main : output ""; when case false / y and 800 + false <= - false : input E02[6]; while 6 : chillax end; pop end case true and 50 + 4 - 8 : input w5 end otherwise : when case 8 : chillax end end end

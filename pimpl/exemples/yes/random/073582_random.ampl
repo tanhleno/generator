@@ -1,0 +1,1 @@
+program C : main : bC, _T : boolean; b, x : boolean array; mY : boolean; when case true / 587 and not 9 and 740 : input a; pop; while 5 : chillax end; do ww(70) end otherwise : let o = array 6 end end

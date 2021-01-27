@@ -1,0 +1,1 @@
+program g9 : main : zv, j3n0, K : integer; input M3[- C76 rem not(3)]; when case - bG5 : chillax end otherwise : output 48 . "" end; let F1[- not 0 or 0] = array 0350; output "d8!a" . "" . "" . "I"; input X end

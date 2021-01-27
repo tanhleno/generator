@@ -1,0 +1,1 @@
+program I : r96aa : takes R, y9, d, s, k63 : boolean array returns integer array C : boolean array; XZ30a, bB8 : boolean; chillax end main : pop; when case - I(38) rem not 8 and 77400 : chillax end case - (2750) and 61 or 34 <= - 1 - 35 : output 77 end; while - P8 <= - 71 : chillax end end

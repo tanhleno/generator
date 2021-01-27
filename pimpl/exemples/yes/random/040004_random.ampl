@@ -1,0 +1,1 @@
+program m : z : takes x : boolean array; X : boolean array returns boolean array do pQ2(not 76 and 5 + 0 - 2 /= - 1 - 8); while 3 - 8 < 3 : output "2"; when case 7 : chillax end; pop end end SK : takes KW, y420, S, N2 : integer array returns nothing H : integer array; let d9 = 3 end main : B : boolean; gKSaa : boolean; iV : boolean; Av, Hk9aa, N8J0a, o : boolean; chillax end

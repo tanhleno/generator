@@ -1,0 +1,1 @@
+program O500a : p4 : takes L43, s : boolean returns nothing Vt, F, k970a : integer; chillax end j : takes S, p1F0 : boolean; f : boolean returns nothing G : integer array; w : boolean array; iR : boolean; s : boolean; chillax end main : Kh : boolean array; when case true /= - (88) + false - 7 - 1190 : chillax end otherwise : let nF = array 1 end end

@@ -1,0 +1,1 @@
+program Q : bf : takes b9O : integer returns nothing xn, M19 : integer; chillax end V : takes VE7aa, j55 : integer array; q : integer array returns nothing pop end main : s : integer array; Q, E : boolean array; R, j75a : boolean array; while(06) and false >= false rem false : chillax end end

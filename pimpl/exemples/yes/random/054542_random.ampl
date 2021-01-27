@@ -1,0 +1,1 @@
+program z3O0a : a : takes IQ : integer array; J, a0d : boolean array; U9Raa, o : integer; i3T, NYY0, q : boolean array; L, iGp : boolean returns nothing r9r, D5 : boolean array; chillax end main : A, p, OFe0 : integer; P4Jaa : boolean; C, e : integer array; a7 : integer; f, V, v1 : integer array; BQj : boolean; xU4 : boolean; chillax end

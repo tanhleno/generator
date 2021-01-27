@@ -1,0 +1,1 @@
+program _l : J : takes T, s : integer returns nothing chillax end l : takes i : boolean; Z0 : boolean array returns nothing when case 8 <= 202 : while 84 : chillax end end case 53 = 46 : input I; pop end case 0 : chillax end; do AG(35, 9290, 3) end main : chillax end

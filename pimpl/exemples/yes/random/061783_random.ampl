@@ -1,0 +1,1 @@
+program t : kS : takes v5P : integer returns boolean array chillax end main : when case - (4 = 766) : output "\n\\!a"; when case 9 = 2 : chillax end otherwise : chillax end end case - false >= - not 901 - 5600 : chillax end otherwise : while 74 = 04700 : chillax end end end

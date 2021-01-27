@@ -1,0 +1,1 @@
+program A : main : S9, MjB0 : boolean; k2, MxJ, D, G3 : boolean; Q5 : integer array; input NF[(9 = 54) * not false + false and 72 - false and 4 or 0]; output "\n" . "\t)aa" . ""; when case 8780 or 75800 <= 7 : when case 39100 : chillax end; while 132 : chillax end end otherwise : pop end end

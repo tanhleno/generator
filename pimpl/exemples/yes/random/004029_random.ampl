@@ -1,0 +1,1 @@
+program Bng0 : J : takes j6, d, k, V34, aU : integer returns integer q, N740 : boolean array; O, B24a : integer; pOYa, KN, y : boolean; BI5 : boolean; n : boolean; output 34000 - 84 end main : chillax end

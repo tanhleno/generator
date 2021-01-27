@@ -1,0 +1,1 @@
+program G : G : takes ow : integer array returns integer while - h or 60 /= 4 - 6 : chillax end end g : takes IT : boolean returns integer array do j340a(- 17 - 7) end main : _ : boolean array; chillax end

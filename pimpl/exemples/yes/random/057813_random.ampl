@@ -1,0 +1,1 @@
+program b5 : _ : takes D38a : integer array returns boolean array o7 : boolean; P : boolean; do xcN0a(- I and 2750 or 2 - 8 < 2) end main : jX7aa, q, R7, pR : boolean array; Lz, P7, H : boolean; chillax end

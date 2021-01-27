@@ -1,0 +1,1 @@
+program P : f2 : takes L : integer returns boolean while - true and 6 : chillax end; do S(6 /= 1); when case 6 : chillax end otherwise : chillax end end main : P_, Nt : integer; u : boolean; dE, F : boolean; q : boolean array; OEA0a : integer; e, p6 : boolean; do H4(- false, false rem false and 3, - (323)) end

@@ -1,0 +1,1 @@
+program l : q : takes S : boolean array; K, c : integer array; x31a, F4 : boolean array; yW : boolean; c : integer array; I : boolean array returns integer array chillax end x : takes U5 : integer array; m7k, T, wp, t, VS3, i1 : integer; Zv1 : integer; E, O1Va, B560, kZ : boolean array returns nothing input R[- 257 - 3] end main : pop(3) rem true end

@@ -1,0 +1,1 @@
+program O7 : Z : takes XLRa, Klk0a : integer array; WHR0, to : integer returns nothing l : integer; chillax end f9 : takes v3 : boolean array; U3 : integer; H, o : integer returns nothing chillax end main : input Jc; let b = array(720) and not 1 and 0 or false + 71100 end

@@ -1,0 +1,1 @@
+program Z : x : takes bK6 : integer; g, d2 : integer returns integer C4, M, E5D : boolean array; while - true and 1 : chillax end; when case - 4 - 2 <= 8 : when case 5 : chillax end; output "2"; pop end case 26 : chillax end case 96 : chillax end otherwise : chillax end end j : takes qp : integer array returns integer array chillax end main : m : boolean array; chillax end

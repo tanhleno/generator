@@ -1,0 +1,1 @@
+program c : u8 : takes n : integer array; Jo : integer; KV1 : boolean returns boolean array while false and 92000 /= 272 - 96 : while 1 : chillax end end end j : takes f : boolean array; f : integer array returns integer input H; do d(163) end main : pop 3 or not 5 + 5 - 0 end

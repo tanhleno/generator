@@ -1,0 +1,1 @@
+program hX70 : u : takes x8q, J7 : boolean array returns nothing chillax end g : takes T : integer array returns nothing nw : boolean; input kXHaa[11 - 59] end main : V, y0, E, J, vC, F4 : boolean; y7 : integer array; oa9 : boolean array; chillax end

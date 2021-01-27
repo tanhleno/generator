@@ -1,0 +1,1 @@
+program G : _ : takes m7 : boolean; yd : integer; b, q : integer array returns nothing Q6a, gc8aa, p, UU : boolean; while - true and 9 <= - 68 - 7 : chillax end end main : when case - false * not C = 1 : while 37 : do kK2a(92); when case 986 : chillax end; pop end end otherwise : let j = array 3 end; do G(- false /= - true) end

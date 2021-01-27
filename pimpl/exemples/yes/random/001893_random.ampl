@@ -1,0 +1,1 @@
+program g : _6 : takes s, Udh, z, GVxa, h2W0, nw : integer array returns integer array input Xq20; while - 71 - 8 < 3 : chillax end end i9 : takes y5O, J, q6R, P, o, f, L : boolean array returns nothing b6 : integer array; do Oh80(- 793 - 0, 3 = 5, 19); when case 05 = 96 : chillax end end main : do u(- true and true and 5 - not false + not 7) end

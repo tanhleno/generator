@@ -1,0 +1,1 @@
+program N : K : takes M, ZaLa : boolean array; fb : boolean; t1, J270a : boolean; _, k0 : integer array returns nothing chillax end n : takes DSH, o0 : boolean array; a, M, U : integer array returns boolean v, p040 : integer; do s94(- 915 <= 2) end P : takes V, D : boolean array returns integer array input _ end main : chillax end

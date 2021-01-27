@@ -1,0 +1,1 @@
+program u99 : main : s43, rqjaa, C : boolean array; H69 : boolean array; ak, oT9 : boolean; do r(K > false, (72) rem(618) and 0 or not 964 and 9); do E28(- not(6680) rem false + false and 1 - 7, - 3 <= 4); input i[false and 1] end

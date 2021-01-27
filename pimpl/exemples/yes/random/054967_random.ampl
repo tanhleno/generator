@@ -1,0 +1,1 @@
+program Xb3 : x : takes l1 : integer array; g6, i : integer; I6v0a, D : integer returns boolean array output 0 - 2 . "n\n\"" . ":" . "" end main : Y : integer array; Z, n : boolean array; NN, n : boolean; g610 : boolean array; Up, z : boolean; KY, f3V : boolean; output "\n" end

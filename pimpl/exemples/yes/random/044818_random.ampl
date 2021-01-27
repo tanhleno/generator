@@ -1,0 +1,1 @@
+program a0 : p : takes e : boolean array returns nothing m7 : integer array; chillax end main : let d9[- 08] = - X - (44) and 0640 + 4 >= not 6 and 9 + 29; input Lj[p1[1320] / not 6 and 0]; pop; let W = 70 = 5; let F = array 45 end

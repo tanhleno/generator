@@ -1,0 +1,1 @@
+program rjb0 : main : q : boolean; x, _, W, i : integer; M : boolean array; aI8a : integer array; pop; output - 60500 and 01300 or 9 = 88400 - 2850; do bJ90a(- B and 7 - 19 /= 71800 - 3, 83 - 665) end

@@ -1,0 +1,1 @@
+program L72 : M44 : takes s, d, a, S : boolean array returns boolean V : integer array; chillax end pvi : takes P8X, P : integer returns nothing chillax end main : G24 : boolean; output "%" . "26aa" . "" . 7; while - 43 or not 86 : chillax end; do J(not 1 and 4 + 5 >= 47 - 91); let f7[- 4 - 273] = 16 = 6 end

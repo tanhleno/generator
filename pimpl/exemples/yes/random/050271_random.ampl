@@ -1,0 +1,1 @@
+program m8 : Q : takes c : integer; r, rp3a, _ : integer returns nothing g : integer array; M, y, gssa, u : boolean; bx60a, x, a56 : integer; V, K : boolean; tS : boolean; let i[- (41) and 4] = array - aTy0 and 61 + 037; let x = 169 = 355 end main : chillax end

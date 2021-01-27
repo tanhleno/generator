@@ -1,0 +1,1 @@
+program AsSa : DW10 : takes oh, f, b : boolean array; F2l, s8, kr3a, l : integer returns nothing chillax end K : takes i : boolean array returns nothing chillax end main : OH : integer array; u71a, J : boolean array; q, y, Ip, p, J : integer array; e720, e64a : boolean array; while j(776, 2) rem false or(3) = kXe(0) or not 4 : chillax end end

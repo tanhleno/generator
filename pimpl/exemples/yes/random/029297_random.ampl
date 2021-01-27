@@ -1,0 +1,1 @@
+program J45 : i5u : takes b, c : integer array returns boolean array lj, Yy70, s2 : boolean array; e, A : boolean array; y, FZ, K : boolean; T, s : boolean; X83 : boolean; s : boolean; chillax end main : when case not M[4] and(30) rem O = false * K + true and 74700 or 6 - 8 : output 93 . 0 end otherwise : pop end end

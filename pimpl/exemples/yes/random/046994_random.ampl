@@ -1,0 +1,1 @@
+program ilz : H : takes f : boolean returns integer do Z(- not 412 and 1) end p : takes r, M890a, V : boolean array returns integer chillax end e : takes W, SE60, Zz0 : integer returns boolean chillax end main : PF70, j, z : boolean array; output 71; output "" . 55 >= 9 . "~\t\"" . ""; when case not 4 : chillax end otherwise : output "A" end end

@@ -1,0 +1,1 @@
+program g7 : N : takes WH0, bib, e, Y, ymAaa : boolean array; DJ : integer; V : integer array returns nothing jo, xh, u9x0 : boolean; S30a : integer; output "\n&" . 3 = 77 . "" . "1" end main : X4C, ocm : integer array; when case(5310) * false rem false and 417 <= not false - true and 9 : input dE1a[302 - 98] end end

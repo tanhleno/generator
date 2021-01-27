@@ -1,0 +1,1 @@
+program Z : main : M : integer array; C : boolean array; when case - not not l0 and not not 3 < - 13 and false and 077 : while 7 - 701 <= 2 : output "" end; input YR; pop; while 6070 : chillax end end otherwise : chillax end; output - 4 and 2 >= 6 - 2 end

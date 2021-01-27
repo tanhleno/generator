@@ -1,0 +1,1 @@
+program U8 : main : while - 9 /= - false : when case 56 - 9 : chillax end case 1370 = 1 : do L(41) end case 4 : chillax end case 04 : chillax end end; do GM(- true or(9) and 0 or 75 >= - true or 5 - 9); when case false >= - 0930 : chillax end; while - 6 - 6550 < 9 : chillax end; input YB[31700]; output 5 end

@@ -1,0 +1,1 @@
+program NM90a : M : takes o5, z, ha, w, W, t1, ti, r : boolean returns integer do k2(5 = 3) end oTGaa : takes S, L, Z, Z0, _ : boolean returns integer array k20 : boolean; chillax end main : chillax end

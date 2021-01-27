@@ -1,0 +1,1 @@
+program J3 : e : takes p, i18, jH : boolean; G : boolean array; P, R2 : boolean; P86 : boolean returns nothing yF60 : integer; chillax end main : let T = array true and(17100) or 028 and S and 4440 end

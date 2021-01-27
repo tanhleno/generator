@@ -1,0 +1,1 @@
+program j9 : A : takes I85aa : integer array; o, zq : integer array returns integer F, AV, e : integer array; while - not 1 : input l[4] end; output 14200 end main : Q, G920, b, S98a, M : boolean array; chillax end

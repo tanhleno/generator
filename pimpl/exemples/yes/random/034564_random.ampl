@@ -1,0 +1,1 @@
+program V4 : Z2 : takes Rli : boolean; C9, K50 : boolean array returns nothing do Pcz(false > 065) end Q : takes s : boolean array returns nothing r : integer array; db, J, N : integer array; N9 : boolean; chillax end main : chillax end

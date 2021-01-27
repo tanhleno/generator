@@ -1,0 +1,1 @@
+program eL : q : takes L, o70aa, s : boolean array; K0X, _, c, G5, N, n : boolean array; W0 : boolean returns nothing Eb : integer; e6 : integer array; let Q7ia[- (37) - 95300 - 3] = - 1 /= 93 end main : Ux, p5, a4, h, f : integer array; let U = array 5 + tL5[5] - true and 1; input u7U end

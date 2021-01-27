@@ -1,0 +1,1 @@
+program l : v : takes _, J, i : boolean; L, r2 : integer; Q, N : boolean returns boolean array when case(7) and 74500 >= - 7 - 258 : pop 2760 end; do C(2) end main : v310 : integer; while - 6700 * c(10) + H rem 8 - true and 6 - 5 - 9 : do H9(5 - 347); output 9 . "" . "+9aa"; while 4 : pop end end end

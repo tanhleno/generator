@@ -1,0 +1,1 @@
+program i2s0a : P : takes Q, o : boolean array returns nothing when case false < - 8 - 3 : chillax end case - 87 : while 97 : chillax end; do e(0) end case 0 : do z(83) end; input c[96] end S : takes mS, m5, W, Y3, c9ka : integer returns boolean chillax end main : M : boolean; X1, D : boolean array; chillax end

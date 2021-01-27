@@ -1,0 +1,1 @@
+program W7o : WV3 : takes V : integer array returns integer I4 : integer; chillax end N : takes q : integer; O, G : boolean; m1v0, P : integer array returns boolean YP2a, Z73, h, P : integer array; B48aa : boolean array; input M[1]; pop 22 end main : chillax end

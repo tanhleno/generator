@@ -1,0 +1,1 @@
+program _t : rK0a : takes Y : integer; a : integer; T70 : boolean returns nothing w0v, hA, s, rf2 : integer array; m, D : integer array; o : integer; chillax end t : takes D5 : boolean returns nothing do c2(9 - 50) end main : V, M : integer; output - false * 1 or A + 761; let Q = - (3) and 05800 >= - 264 - 961 end

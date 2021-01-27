@@ -1,0 +1,1 @@
+program Y_9 : main : r : boolean array; G, V : integer array; Ml : integer; lo, R, CC0, h9 : boolean; let n[not false * JJ(5) rem 22 and 60] = array - not true * 55 rem true or(8) and true - 2; when case - false : chillax end end

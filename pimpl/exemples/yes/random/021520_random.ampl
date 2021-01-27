@@ -1,0 +1,1 @@
+program V : N7_ : takes H, E0a : boolean array returns integer array while(88) + 316 - 10 : output 0 . ""; input P end end b : takes p : integer array; z : boolean array returns nothing input Nm[1 - 13] end main : x, X, m, t, JK : integer; a : integer; pop - true - (5) or 42 end

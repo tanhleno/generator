@@ -1,0 +1,1 @@
+program z2 : main : pop - (962) - 74 and 75 - 7 - 2; when case - 12 * 6 and 59 : chillax end case - true : chillax end case 46400 - 424 >= 373 : when case 5 : chillax end; let z = 7; pop end otherwise : chillax end end

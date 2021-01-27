@@ -1,0 +1,1 @@
+program t : TY6a : takes _400a : integer; R : integer array returns boolean C, z0, v : integer; _ : integer; dhm0, kA4aa : integer; output 13 end Q1 : takes x : boolean array; d : integer array; q, t : boolean returns nothing chillax end main : chillax end

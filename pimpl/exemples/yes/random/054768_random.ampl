@@ -1,0 +1,1 @@
+program x : n : takes u : integer array; h, X : boolean returns boolean array Q, k6xa, q : integer array; H3daa, t : boolean array; ua0 : integer array; chillax end n0b : takes i : integer array; J : boolean array; r : boolean array returns nothing let h8Waa = array - 01; pop; output "\\*" end main : chillax end

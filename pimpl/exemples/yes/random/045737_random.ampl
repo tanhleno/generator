@@ -1,0 +1,1 @@
+program y : v : takes t : boolean returns boolean array yv4 : integer; while - true : let L8N0[8] = 424; while 8 : chillax end end end main : while(6) > not false + true and 96 - 8 - 0 : chillax end end

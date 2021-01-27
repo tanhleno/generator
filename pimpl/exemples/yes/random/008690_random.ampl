@@ -1,0 +1,1 @@
+program XX : bl : takes L, P, Cn : boolean; y, b : boolean; x, nNM0a : integer; Tx5aa, t : boolean array; EyB0, F : boolean array returns nothing chillax end main : output "Q" . i and 7 >= 8 - 072; do O(- 01 rem false and 2 or false, - false and 56 + 72 > 5, 9 - 7 >= 77) end

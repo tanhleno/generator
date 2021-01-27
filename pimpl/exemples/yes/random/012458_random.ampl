@@ -1,0 +1,1 @@
+program AT : j1saa : takes l, TQ, E79 : boolean returns nothing output ""; let X6 = 830 end main : while true - _ / 27500 and 5 : chillax end; pop - (27800) and 6640 - 5 - 5 = 8 - 600; let gJ5 = 7 end

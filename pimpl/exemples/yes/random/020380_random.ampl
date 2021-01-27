@@ -1,0 +1,1 @@
+program i : d : takes oVb0, NxT0a : boolean array; pn : integer array; Yp3, o, vBP, i, _ : integer; FK8, e5, E : integer returns integer array q7 : integer; do g(- not 5 and 72); while - 5 - 8 /= 7 : chillax end end main : m : boolean; y1 : integer; chillax end

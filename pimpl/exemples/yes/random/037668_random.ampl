@@ -1,0 +1,1 @@
+program U : OLE : takes o : boolean array; F, Z, xh, d, L : integer array; K : boolean array returns boolean array G, t : boolean; dI, uv, VZ, K : boolean; g, R50 : integer; W, ufl0 : boolean; u200 : boolean; chillax end main : chillax end

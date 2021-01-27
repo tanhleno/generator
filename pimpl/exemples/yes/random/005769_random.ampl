@@ -1,0 +1,1 @@
+program t : GT : takes n, c2, D, k : boolean array returns nothing when case - BnR : chillax end; let H2[7] = array 2 end GS : takes O : boolean returns integer chillax end main : G350 : integer; S, n4 : boolean array; om : integer array; chillax end

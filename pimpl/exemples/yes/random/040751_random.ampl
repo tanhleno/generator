@@ -1,0 +1,1 @@
+program kZ : d98 : takes yjX0 : boolean array; I : integer array; LN7aa, F02, d0, l64a : boolean returns boolean b : integer array; a : boolean; output "" . 8170 = 420 end S : takes M, j : integer returns nothing chillax end main : output - (187) and(0) + (3) and 1 or 341 >= - false and 0 . "V" end

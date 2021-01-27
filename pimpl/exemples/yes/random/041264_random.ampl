@@ -1,0 +1,1 @@
+program G : wL : takes A5 : boolean array; b : integer returns integer array i, l : boolean; chillax end main : H, z, N7, G : integer; input Y; do m(not y and false < - (19)); when case - 03 or 9 - 9 : while 4 : chillax end; while 06 : chillax end; output "Um" end case 0 : chillax end case 9670 = 3 : input qw70; pop end case 42 : pop end; while - 03 : chillax end end

@@ -1,0 +1,1 @@
+program iP : g : takes C3, C, cY8, q, r : integer array; W, r29a, H : boolean array; B, irl, pV : integer returns nothing h2, R : integer array; pop; when case 8 : chillax end case 66 : chillax end case 0 : chillax end; output 271 end main : Pg : integer array; Z_q0a, M, Ik : boolean; r, d : boolean; chillax end

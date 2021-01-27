@@ -1,0 +1,1 @@
+program E : d3fa : takes UZ, b, CL, Gp, DA, h3d, mI, b1 : boolean; n, QK1, l1, m, aS_, KO : boolean array returns boolean pk : integer; u : boolean array; while - true and 6 <= 6 : chillax end end main : pop - 9 or 4 - 1 - 3730 <= - C and 2 or 30000; do b(false and X or 93 /= 168 and 52 or 4 - 2) end

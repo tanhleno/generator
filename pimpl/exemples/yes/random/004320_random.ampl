@@ -1,0 +1,1 @@
+program P : K8C0 : takes YO, IC, V, q : boolean; M, R : boolean; U : boolean array returns boolean chillax end gVf : takes e : boolean; LP80, Y, l39 : integer array; a : boolean array; w, s : integer; cN : boolean array; Tl : boolean; sb : boolean returns nothing output 673 = 0730 . 6 . 1 end main : Q, k2F, d, HH : integer; Q : integer; chillax end

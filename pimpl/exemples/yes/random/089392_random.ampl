@@ -1,0 +1,1 @@
+program D : main : let Wt9aa = (4) /= not 8 and 3; when case - not IR * true and 7 : let k = array 9; output ""; output "" end case - (44700) /= - 9 : input v[1] end case - 0 : chillax end otherwise : chillax end; pop end

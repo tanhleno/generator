@@ -1,0 +1,1 @@
+program k1 : main : when case qS3(03) - (284) / not 42 or not 6 and 2 - 1 : input U[3]; let o63[5] = array 8; do Q9(6, 44) end case - (10) * xP and 90 >= not 30 : chillax end case - true and 1 >= - 3 - 6080 : chillax end; let y4 = - false and 4 - 7; when case - not 4 : chillax end case - 5 - 2 : chillax end otherwise : chillax end; input e060a[- 09400 - 8] end

@@ -1,0 +1,1 @@
+program v : f : takes p520, M : integer array returns nothing while false and 48 >= 4 : output 7 . "\ng0"; input w end end u3 : takes Z7, DG : integer array returns integer array B, O0 : integer array; chillax end main : do hr(true or(5) / false <= 3); do LI20(41 < true, (9) + 9 /= - 3, 3, 5, 2); input p end

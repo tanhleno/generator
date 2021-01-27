@@ -1,0 +1,1 @@
+program Y610a : O5 : takes azo, m, J, L : boolean array returns nothing when case - true and 170 + 33 - 9 : input g6; while 827 : chillax end; when case 7 : chillax end; pop end otherwise : chillax end end main : pop end

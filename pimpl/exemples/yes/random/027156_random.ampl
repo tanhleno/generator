@@ -1,0 +1,1 @@
+program UHV : C : takes _, nT : integer array; O, p, D4, T, VO : integer returns boolean W4, u080a, E : integer array; chillax end main : while - false >= - false / c5 : input M[- 9 - 5]; when case 653 = 3 : chillax end otherwise : chillax end; let xl[8] = array 6 end; when case(88) : when case 4 : do I(1520); pop end; do r6(874) end otherwise : chillax end end

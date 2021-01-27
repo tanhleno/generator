@@ -1,0 +1,1 @@
+program w : PSgaa : takes r16 : boolean returns nothing r5, r2 : boolean; Z : boolean array; let JIM = array - not 32800 or 8 - 9; output "Z4" . 7; pop 7 end main : k01aa, L07, z : integer array; chillax end

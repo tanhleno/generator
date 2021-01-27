@@ -1,0 +1,1 @@
+program Ae : i : takes y, Sw, J, d : integer array; v : boolean array; Z4m : integer; Cz, X, I, uf : boolean; l : boolean returns integer while true and 9 : when case 4 : pop end case 40 : chillax end end end main : chillax end

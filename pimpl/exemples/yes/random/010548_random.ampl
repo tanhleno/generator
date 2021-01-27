@@ -1,0 +1,1 @@
+program k : mj60 : takes k, b, D2L0a : boolean array returns boolean array e, r4Ca, n, y2 : integer array; do h(- F7 and 622 > 4 - 833, - 6 >= 3, 004); pop; input i end main : Y480a, Vw7, l38 : boolean; O : boolean; chillax end

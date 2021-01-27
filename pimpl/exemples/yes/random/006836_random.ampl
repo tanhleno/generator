@@ -1,0 +1,1 @@
+program cg : g : takes O, X, n3, Q24 : integer array; Ax, i, pdB, u, s : boolean array returns integer l9, e7 : integer array; Vu : boolean array; D, W0, o : integer array; Q, r : boolean; h : boolean; _ : boolean; chillax end main : b : boolean array; do y(true - not not 21 rem true and 9) end

@@ -1,0 +1,1 @@
+program _ : X4 : takes V, qY : integer; Z, v, WG, c, C : integer array; nv90, v : boolean; J : boolean returns boolean array do _(false or 38 - 7 = 2); pop 2 = 409; let f[54] = array 7; pop end main : M : boolean; T, j : integer array; input iG8 end

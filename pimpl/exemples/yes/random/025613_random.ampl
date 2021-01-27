@@ -1,0 +1,1 @@
+program o : KaU0a : takes O, Xz : integer; N, dv : boolean array returns nothing pop - 15 - 825 >= 8; pop 88600 = 47 end a6 : takes K8 : boolean array; _0m : integer; n : integer array returns nothing N12a : integer array; chillax end main : chillax end

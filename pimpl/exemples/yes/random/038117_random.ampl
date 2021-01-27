@@ -1,0 +1,1 @@
+program k : A : takes M5x : boolean array; v, K97, B : boolean array returns nothing s : integer; let X65aa[- 8 and 17200 - 4 - 356] = array 2490 end main : c95 : boolean array; R, isJ, l, w : boolean; HB, r : integer; output "" . "" end

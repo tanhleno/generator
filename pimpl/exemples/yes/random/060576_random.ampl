@@ -1,0 +1,1 @@
+program Q0la : q : takes W : integer array returns nothing YK, mhE0 : integer; chillax end J : takes hn0 : integer array returns nothing chillax end J : takes H, n4 : boolean array; zq9a : boolean returns nothing FY, xaE0, b0 : integer; do p(2 = 1); do Z80aa(5) end y : takes j : integer array; Pjd : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program ZB : O07 : takes P, tW, A1, Gy, Y0, p, T : integer returns integer I : boolean; k : integer; output ":\\" . "" end v : takes Y : boolean array returns boolean w, _ : boolean; V : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Aj2 : Y : takes l04, g6K, T : boolean array returns integer array chillax end f : takes m : boolean array returns nothing chillax end A : takes o : integer array returns integer array e : integer; KYf0a : boolean; chillax end main : chillax end

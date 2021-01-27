@@ -1,0 +1,1 @@
+program t360a : P6 : takes H76, f : boolean returns integer F : integer array; pop end JV : takes S : integer array; a : boolean; KZ : integer; I : integer; F2, q, L2 : integer array; X : boolean; U : boolean; Z : boolean returns nothing output ""; while 8400 = 6 : chillax end end main : output ""; pop not 93400 > - 61 end

@@ -1,0 +1,1 @@
+program M95a : main : i7 : integer array; do N(- iO / 0 or true and R and 7 or true); when case - Lb(9) and 6 and 1 <= - not 14 : chillax end case(29) + 4 >= - 58 - 339 : chillax end case - 3 : chillax end case 8 : chillax end end

@@ -1,0 +1,1 @@
+program Q : d : takes oW : boolean array returns nothing k8I0a, T, Y7 : integer array; W3 : integer; H4 : boolean; I6G, CA2a : boolean; pop - 2; do Z(7 - 0 > 8) end main : w : integer array; when case - IS[5] * true - 445 : input W[5 - 86]; when case 983 : when case 18 : chillax end; pop end end; output - 1 - 57 >= 48 - 21 . "" end

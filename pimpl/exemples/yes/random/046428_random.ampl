@@ -1,0 +1,1 @@
+program V : G : takes s : boolean returns integer array chillax end N : takes X : boolean; T6, H8 : boolean array returns nothing y8 : integer array; let GZ2aa = array 80; pop end main : A6M, K, y : boolean array; TT, A, OuAa : integer array; c, IS6, O : integer array; w8 : integer; o, J, AFr : integer; C1, K1 : boolean; chillax end

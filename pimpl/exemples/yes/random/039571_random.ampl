@@ -1,0 +1,1 @@
+program i : F : takes l : boolean array; P660a : boolean; l, p : boolean array returns nothing T, J, C : integer array; L, o : boolean; do r(3 and 37 >= 6 - 27, 78 < 6, 81500, 1); output 4 = 77; do F(3) end x : takes Y4p, l, S : integer array; RB, kE : integer array; G : boolean; h : boolean returns boolean array chillax end main : chillax end

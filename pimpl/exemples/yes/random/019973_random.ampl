@@ -1,0 +1,1 @@
+program M : x : takes u2r, jL : boolean array; A : boolean array returns boolean n, j87 : integer; t : integer; j270, F6Faa : boolean array; M2Ya, D : boolean; s : boolean; xZ : boolean; chillax end main : o : integer array; zj70 : integer; output - (27) + 9 <= not 7 and 9 . - not 4 and 128 end

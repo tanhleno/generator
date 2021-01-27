@@ -1,0 +1,1 @@
+program s : main : y4t, D, FM6 : integer; let C[- true and 5] = array - 1 * 3 - fmq[663] and not 5 or w; when case - true /= false + 132 - 025 : while 01600 = 94 : chillax end end; when case - not 5580 or 1 - 0 >= 4 - 3 : while 0 : pop end end end

@@ -1,0 +1,1 @@
+program s : EPI0 : takes L, U : integer; f, S : integer; H : boolean returns nothing V : integer array; let q = array - (8) and 08400 - 1; output 9; do q(538, 69) end main : wi, oCf0a, S, r7, G : integer; output 5 or S and 1 or 7 - 74 . false and 42 /= 2 . "#(" . "8\"" end

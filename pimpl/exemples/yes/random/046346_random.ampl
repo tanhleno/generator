@@ -1,0 +1,1 @@
+program A : D : takes N : boolean returns boolean let y[true and 2 + 769 - 2780] = - 7 - 0360; let A[6] = 01 end fvh : takes e2, A, b : integer; k120 : boolean array; f : integer; p, s, HzT0a, FM : integer returns nothing chillax end main : let c0[(708) / not x / Sf4a + true + false and 29] = - 7 and not 9 < - vr; input j end

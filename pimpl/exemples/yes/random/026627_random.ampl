@@ -1,0 +1,1 @@
+program o : o : takes y, Yd : integer; P : integer array; R, I, D : boolean array returns integer array output 7 < 75800 . 3 end main : p850a : boolean array; I9la, Y, v : boolean array; _9J, b : integer array; H : integer array; q1 : integer array; N48aa, O : boolean; J : boolean; rp : boolean; chillax end

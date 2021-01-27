@@ -1,0 +1,1 @@
+program V : t : takes _2Xaa, a, d : integer returns nothing e61, l, QJ, pDbaa : integer; v, h : boolean; WsR0a : integer array; input K; pop 87 = 89400; do O(6, 56000, 05) end main : do U(- false * false and true >= false * (2) - true and 5) end

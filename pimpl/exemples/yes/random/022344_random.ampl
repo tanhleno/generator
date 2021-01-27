@@ -1,0 +1,1 @@
+program zi30a : Q : takes miQ, eT : boolean array returns nothing z, N : integer array; l1, Y, I, G : integer; while - false or 90 - 8 : pop end; when case 3320 - 2 : when case 801 : chillax end end otherwise : chillax end; let EU[9110] = array 4130 end main : K, R : boolean array; pop; do e(- d3[0] / _6 and 8) end

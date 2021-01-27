@@ -1,0 +1,1 @@
+program m6D : main : X : boolean array; when case - true / J3J(958) : chillax end case - not not 2360 / y + not 3 : chillax end; do l(G4(3) and false); input Cf1[false]; when case 60 - 3 : output "" end case 5 = 507 : chillax end; when case 07 : chillax end otherwise : chillax end; pop end

@@ -1,0 +1,1 @@
+program R : _U : takes T25a : boolean array; D2X, yP7 : integer array; SlT, J, f : boolean array returns nothing do D9Xaa(true >= 78); let e60 = array - 6630; pop; let It60 = 034; do s(1) end F : takes S9O : integer returns boolean _0, cR, c : integer; input Izkaa; input m end main : chillax end

@@ -1,0 +1,1 @@
+program i : main : Mv50a : boolean array; while(218 = 08) - Y / iVZa or true - 0 /= - (4) and false : while 1 <= 752 : pop end; pop; while 8 : chillax end end; pop 7 and 8850 - 39800 /= 9 - 49; do z(false and 13 - 8160 - 3710 = - 9 - 03) end

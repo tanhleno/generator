@@ -1,0 +1,1 @@
+program KN1aa : p4q0 : takes IN : integer returns nothing chillax end main : N, _, np : integer array; v, LwXaa, P : integer; G : boolean; u, N, k : integer array; Y, p : integer array; ro : boolean; y : boolean; yr : boolean; chillax end

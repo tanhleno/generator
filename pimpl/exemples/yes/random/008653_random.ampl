@@ -1,0 +1,1 @@
+program DG7a : Yi : takes Z90, f, eGA0 : boolean; b, A97, Lo : integer array returns nothing B : boolean array; while - 0 - 5 : while 3 : pop end; while 2900 : chillax end end; pop 5; output 9 . ""; let p = 3; pop end main : input QE[- (5 = 668) * false / (7)]; pop end

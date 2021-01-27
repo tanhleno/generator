@@ -1,0 +1,1 @@
+program k : v7 : takes t : integer returns integer Xi40 : integer array; chillax end _i : takes f : integer; v11 : integer; I, i, n9, LJ : boolean; P : integer returns nothing o, h : boolean array; let jL[- 36300] = array 748 - 41 end main : when case - (0140 = 17600) and not 25 - j[918] + l38a : chillax end end

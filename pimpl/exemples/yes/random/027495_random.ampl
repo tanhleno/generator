@@ -1,0 +1,1 @@
+program b : x : takes O7, g9 : integer array; Qo4, b, wq2aa : integer array; V : integer; E : integer; E, cK_ : boolean; Q : boolean array returns nothing pop end main : let Y = array - true / (59000) + true rem not 0 and 563; output - true and 8 >= 746 . - 297 end

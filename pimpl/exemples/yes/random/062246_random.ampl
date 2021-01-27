@@ -1,0 +1,1 @@
+program N6U : sAV : takes D : integer returns boolean chillax end B : takes Rqe0 : integer returns integer ZKz : boolean array; input C050a; let b = array 28; while 3 : pop end end main : O1, k : boolean array; f, _, V0r : boolean array; chillax end

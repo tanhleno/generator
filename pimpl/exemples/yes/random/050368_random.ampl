@@ -1,0 +1,1 @@
+program c : ni : takes cc : integer; R46, CH : boolean; z : boolean array; d, f : boolean; t37aa, i, Y2 : integer; O, gS : boolean array returns nothing pop end x : takes m : integer array; d : integer returns boolean array input z3[55 - 2]; input ww00a[0] end main : chillax end

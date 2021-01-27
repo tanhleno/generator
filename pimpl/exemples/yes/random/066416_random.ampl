@@ -1,0 +1,1 @@
+program f : main : do PP9a(- not(43) and false rem(311) + 4 * false and 30, - not 2 /= - false and 1); do A(- false and false or(309) and 8 or 6 /= - (5040) - 1, false /= 385 - 9, 018 - 99); let CA = - 64; let e1u = array 1 - 95; while 17 = 8 : chillax end; when case 0 : chillax end case 2 : chillax end otherwise : chillax end end

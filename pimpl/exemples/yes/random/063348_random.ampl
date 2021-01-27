@@ -1,0 +1,1 @@
+program Ve : rN : takes yq : integer returns integer M7, V, q : integer; chillax end v : takes x9U0a, E, T, k : boolean array; M380a, U : integer returns nothing input a6[67700]; output "" . "" end main : y, n : integer; y3v0a : boolean; q : boolean array; l9 : boolean array; chillax end

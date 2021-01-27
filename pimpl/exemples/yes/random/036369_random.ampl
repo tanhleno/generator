@@ -1,0 +1,1 @@
+program S : J : takes _x : boolean; PtEaa : boolean returns nothing while not 56 and 7410 = - 3 - 69 : output 76500 end end main : F, lQ90a : integer; while - not(3) or(03) - 2 = 5 + true and 037 - 291 - 8 : chillax end; while - 9 rem true + (95200) and 65 : do A_u(98600 = 5) end; input yPb[(11) + 5] end

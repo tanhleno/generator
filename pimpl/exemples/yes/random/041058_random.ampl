@@ -1,0 +1,1 @@
+program LP : pj : takes U : boolean array; F : integer array returns integer k5, F, l3ca : boolean array; chillax end x : takes m, u6, s : boolean; h9, t, F3, p48 : boolean returns boolean array WZ : boolean; output "S\"0" . 9 end m : takes I, au1, K : integer array returns integer when case 4 : chillax end end main : chillax end

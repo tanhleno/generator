@@ -1,0 +1,1 @@
+program u : _ : takes c72 : integer returns boolean chillax end W9 : takes s, E, O : boolean array returns boolean array when case - 4660 - 76 >= 73 : when case 3 : chillax end; when case 53 : chillax end end end Z : takes G1va, p68 : boolean array returns integer chillax end main : pop end

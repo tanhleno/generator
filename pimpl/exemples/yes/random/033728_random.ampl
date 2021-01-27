@@ -1,0 +1,1 @@
+program Z8 : L : takes r : boolean; I7, H, S, I : integer returns nothing input GOZ[0 + 5 - 38] end main : y : boolean array; output - 493 - true /= (36); when case - t * (3) or I and 65500 : chillax end end

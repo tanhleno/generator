@@ -1,0 +1,1 @@
+program r : pIuaa : takes yt2 : integer; uv, Q9, V2, x1, Tq : integer; G, B86, q1, aF70, n : integer returns nothing let x[- true + 84700 - 3] = 6; do UCa(1 - 72); do Q(9 = 6, 3); let Z8J0a = array 6 end main : output "" end

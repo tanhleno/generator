@@ -1,0 +1,1 @@
+program kkqaa : k : takes O59, mO : boolean; tz : integer returns nothing chillax end CJ : takes b : boolean array; Pw, U050a : boolean returns nothing output "" . "" . 80 end main : A, o : integer; chillax end

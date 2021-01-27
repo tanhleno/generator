@@ -1,0 +1,1 @@
+program y43a : main : while false < - false * (58) - x and 0 : chillax end; let nw = - (0) = 2 - 65; input C400a[071 or 79]; do U(- 7); when case 2 : chillax end case 666 : pop end otherwise : pop end; when case 0 : pop end; while 05 : chillax end end

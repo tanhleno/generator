@@ -1,0 +1,1 @@
+program g : L : takes Y9a : boolean array returns integer array chillax end M : takes h : integer; OA : integer array; c : boolean; Gh, T : integer returns integer array O3 : integer array; Q : integer; dm : boolean; pop; output ""; do GaU(6) end main : k, FpZa : boolean; URq, Lh : boolean; chillax end

@@ -1,0 +1,1 @@
+program x540a : q : takes RX, G : boolean array returns integer array E8, t : integer; a4, h3 : integer; chillax end I : takes Oj8, wN : integer; Q : boolean returns nothing S78, t9 : integer; MGb : integer array; do c7(- 36, 0 = 9, 46) end main : chillax end

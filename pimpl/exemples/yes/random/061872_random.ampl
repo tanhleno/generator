@@ -1,0 +1,1 @@
+program i : u : takes k4 : integer returns boolean array SRv, N : boolean array; s, i, Vc : integer array; a2i0, X : integer; GDgaa, d : boolean; h4 : boolean; while not 5 - 3 < - 79 : when case 9 : chillax end case 217 : chillax end otherwise : chillax end; let _Vda = 9310 end; output "" . 32 . "~T!a" . "t=" end main : chillax end

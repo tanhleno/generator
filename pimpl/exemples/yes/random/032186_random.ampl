@@ -1,0 +1,1 @@
+program YN : H : takes Tdv, B9 : integer returns integer while - (079) and 2 + 812 <= - 6 : pop end end j : takes n740a : boolean returns integer array uSM0a, v6 : integer; pop; input e42aa[52] end main : Z : integer array; chillax end

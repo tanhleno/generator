@@ -1,0 +1,1 @@
+program y : cN : takes J7Q : boolean array; ph : integer array returns nothing pop 30 end t : takes U, f68a, R5 : integer array returns integer array when case - 32500 - 2 : input f; input h3j; pop end case 2 = 1 : output "w6\"" end case 9 : pop end case 8 : chillax end end main : P : boolean array; while not 038 / not false - true * not 6 > - true and x6 : output "\t" end end

@@ -1,0 +1,1 @@
+program Q_ : W1 : takes H : boolean array; C4, AB1 : boolean array; jG : integer array; E, ii, o, pl : integer array returns nothing h3 : boolean array; let c = 19 end main : d18a, N2c : integer array; chillax end

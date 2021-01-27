@@ -1,0 +1,1 @@
+program x : u6 : takes S : integer array returns boolean array pop end L4 : takes Ul : integer; U1L0, M3, J, l, V : boolean returns nothing chillax end main : y, rq, w6, n77a : integer array; P : boolean; A : integer; do C(true + 44900 /= - not true and 64600) end

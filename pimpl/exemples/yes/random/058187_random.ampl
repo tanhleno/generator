@@ -1,0 +1,1 @@
+program n0 : N : takes P : integer array returns boolean Ug, OH, X, aA0 : integer; while - true >= 73 : chillax end; input M5[- 90]; input v[0]; output 582 . "1" end main : oB : boolean array; j3 : boolean array; let j490[- not not 2 * S2] = not eR9 end

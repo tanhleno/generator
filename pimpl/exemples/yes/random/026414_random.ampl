@@ -1,0 +1,1 @@
+program oh : a3 : takes M, K : integer; _2 : boolean returns integer pop; while - 16 - 7120 < 4 : chillax end; input s0; output "66a" . "a" end main : V : boolean array; input B[true or true and false and 91]; pop - true and 5 or 4 >= 65400 - 8 end

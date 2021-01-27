@@ -1,0 +1,1 @@
+program G : HY : takes T : integer; e6A, aA : integer array returns nothing chillax end wAv : takes Ip : integer array returns nothing chillax end r : takes w1, K53a, W, e, w : integer array returns nothing NU3a, C, u : boolean array; output 1 . "\":!" . "q" end main : f : integer; chillax end

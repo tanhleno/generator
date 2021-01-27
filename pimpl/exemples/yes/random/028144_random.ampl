@@ -1,0 +1,1 @@
+program VW : U : takes z, C6 : integer array; EL : boolean; n, I6 : boolean; WX : integer array returns boolean array chillax end main : do p61a(true - true or(5) and 547 + 8510, not 60 and not 93 + false and 050 < - false and 154 - 6 - 61); do g(- true, true and 0810 - 6 - 8) end

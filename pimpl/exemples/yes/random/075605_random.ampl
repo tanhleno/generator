@@ -1,0 +1,1 @@
+program L : main : c, m : boolean array; when case(971 = 1) or not 23400 * w1 and 9 <= - hf[06] and not 6 : output "2" . 2 . ""; pop end case 03 and(55) and 1 + aW and 42 >= not 8 and 9 + 81 - 1 : chillax end case true or 587 - 7 : chillax end case - 5 /= 3 : output "]|0a" end case 0 : while 49 : chillax end; pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program G9i0a : C : takes y, z, X, wv, F7 : integer; N0, o83 : integer; Y, m, i : boolean array; V, e, X, hq8 : boolean array; weS0a : boolean returns nothing h : integer array; R : integer; chillax end GY : takes yQq0a : integer array; mr6 : integer array returns integer pop end main : pop false or not 2 <= - 5 end

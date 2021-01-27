@@ -1,0 +1,1 @@
+program Xu4 : n : takes el, GNvaa : boolean array; r, Mr, Q, Ak5 : integer array; O, ZR2 : integer array returns nothing aIw0a : integer; chillax end main : n2R0a, C1, d, aI3 : boolean array; do eK60(- (922 = 37000) = - true and(5) and 0, - 40 - false >= - (287) and 271); while - 98 : chillax end; when case - false and 9 + 45100 : let U = array 8; pop; do l(6) end end

@@ -1,0 +1,1 @@
+program RF30 : main : OsHaa : boolean; t, hQQ0a, Psk, p48a, A7Z, C8 : integer; t74, _ : boolean array; when case - true or(41) rem 015 and 9 : input k[- 633 - 95]; output 3; do Ej(3) end; pop - true and 6 or 0 - 6; when case - false + 2550 - 1 < - 06700 - 4 : when case 8 : chillax end end case 183 - 53 >= 0 : do m(75) end end

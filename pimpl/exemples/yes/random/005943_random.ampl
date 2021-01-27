@@ -1,0 +1,1 @@
+program S : _9 : takes M910a, Z, pdLaa, I : boolean returns integer array chillax end main : L : integer; while - true : when case - 2 - 1 : when case 1 : chillax end; when case 23 : chillax end end otherwise : pop end end end

@@ -1,0 +1,1 @@
+program Zln : X : takes g : boolean; O : integer array returns nothing while - 16 and 13 < - 281 - 480 : chillax end; do eJ4a(- 7 = 5) end main : _x, j34, l : integer; C, K, o, hC9 : boolean; pop; output - (1) < - 12 - 04; output ":" . "\t" end

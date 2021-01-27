@@ -1,0 +1,1 @@
+program m7 : I : takes z, o, w, JG, h : boolean array returns nothing sS1aa : boolean array; r, U : boolean array; output "" . 71; let uX = array - 4 - 2360 end main : TK : boolean; Z, vk, N, kz, J5, z : boolean; N, O54, e5 : boolean array; chillax end

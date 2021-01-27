@@ -1,0 +1,1 @@
+program T : L16 : takes Q9 : integer array returns boolean while(7) and 89 < 86 - 153 : chillax end; do q(80, 0, 728, 5250); while 1390 = 29 : input U end end x61aa : takes hY : integer array; d1 : boolean; S : integer array; Bv, Q5 : integer returns nothing KT, y, z2, r : boolean; chillax end main : chillax end

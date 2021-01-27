@@ -1,0 +1,1 @@
+program N : g : takes _69, h1T : boolean; Q, MJv0a : boolean array returns boolean H : boolean; Eh8 : integer; chillax end EB6 : takes nAya, N42, J, H, g : integer array; QS, _HG : integer array returns nothing do q(- 55 <= 7, 2 = 5) end main : B8, h5Kaa : boolean array; while - false or true / (5) < - 5 : chillax end; do k32(- k9 / false and 1 <= not 468 and 5 + 91 - 3) end

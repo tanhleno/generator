@@ -1,0 +1,1 @@
+program H8a0 : z2 : takes B, ZN : integer; b, d, L : integer array; a : boolean returns nothing t060 : integer; _ : boolean; chillax end main : input H[true]; let G7 = array true; when case not 2 + 00 <= - 0 : output 2; pop; output "\t" end case - 70 <= 7 : chillax end otherwise : chillax end; pop 6 = 83; do m(6, 65100, 7); output 11 . "0" end

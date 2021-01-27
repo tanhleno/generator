@@ -1,0 +1,1 @@
+program DX : z : takes K, F9 : boolean returns nothing let f = 4; when case 9 - 06 : pop end case 4 : let k5 = 050 end end A : takes Jidaa : boolean array returns boolean chillax end main : pop(7) or(701) >= (912) - 955 - 183 end

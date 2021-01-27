@@ -1,0 +1,1 @@
+program yhE : e9 : takes a0 : integer array; D_ : integer array; fMZ : boolean; v : integer; v, A, Tt7a : integer array returns integer chillax end main : e9 : integer; L, qc, hT50a, O : integer array; b, n : integer; input r5h[p[8] rem true rem true - 0 - true and 5 - 91400]; when case - false > true and 06 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program e : I16 : takes x, u8, h : boolean array returns integer f : integer; do C67a(- false and 33 + 555 <= - 7 - 3); let Xh = array - 4 end A : takes a, _ : integer array returns nothing input cP end main : do k43((08) and(5) and(4690) and 379) end

@@ -1,0 +1,1 @@
+program R : UW : takes W : boolean; F, p : boolean array; J : boolean array; a, V1maa : boolean returns integer A340a, y9, F74a : boolean; let N = - 81; let y[9 - 12] = array 87 - 709 end main : m : integer; A, J840, Ep : integer array; K : integer; pop - false - false and 2 - 4 - 5650 < - not 04 and 8550 or 07 - 37 end

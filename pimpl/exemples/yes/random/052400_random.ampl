@@ -1,0 +1,1 @@
+program S16 : c : takes g : integer; q : integer; R, l, m6 : integer; j000a, C : boolean; S : integer array returns boolean k, c3, K2T, K, H : integer array; R6x : boolean array; chillax end main : pop end

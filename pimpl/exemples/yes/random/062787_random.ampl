@@ -1,0 +1,1 @@
+program x0 : d10 : takes tf : integer returns integer array chillax end main : n36 : integer array; g, B28 : integer array; pop false - true and 531 or 670 - 1; pop false and 40500 + 8 <= - 75100 - 95; when case 7 and 1 >= - 24 : do E(05) end; while 15 - 92 = 05 : chillax end end

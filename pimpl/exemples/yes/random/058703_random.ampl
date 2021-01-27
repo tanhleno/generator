@@ -1,0 +1,1 @@
+program n : A : takes i8 : integer array returns integer array do VL(false and 90 or 3 - 9 >= 4 - 5, 7 >= 5, 40 = 0, 2, 88); let i[8 - 9] = array - 629; pop end NuN : takes O, XP1a, c, Ea9, d7 : boolean array returns boolean array chillax end g3 : takes q : integer array returns boolean array chillax end main : N, o : boolean; pop - (028) end

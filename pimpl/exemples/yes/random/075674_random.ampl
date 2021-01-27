@@ -1,0 +1,1 @@
+program q2caa : main : y, M : boolean array; when case true + zE(2) + not 1 or 77 - 7 : while - 4 - 465 = 25 : chillax end end; do h58(not false * 3 + false + 68 - 54 < (5) + 248 - 0, - false or 5 < 35 - 92); do i4p0a(- not 05600 and 18 or 351, - 4 - 9); input JPh end

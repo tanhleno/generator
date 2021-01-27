@@ -1,0 +1,1 @@
+program T9 : n : takes ikbaa, N960a, w7, TKq, d550a, i8F0a : boolean array; I3 : boolean; G98aa, F : integer; k3 : integer; W : boolean; O290a, ZB60, _9Ca : boolean returns nothing when case - (40) >= 7 - 46 : chillax end; pop 1270; while 5 : while 916 : chillax end end; input Jt[2] end main : chillax end

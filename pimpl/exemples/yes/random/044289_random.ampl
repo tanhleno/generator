@@ -1,0 +1,1 @@
+program _c7a : oDb : takes o : boolean array returns nothing C, N : boolean array; when case - (82) and 4 - 0 >= 3 - 7 : chillax end case 4 - 375 : chillax end otherwise : chillax end; pop 35 end main : chillax end

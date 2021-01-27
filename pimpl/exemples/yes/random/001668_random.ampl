@@ -1,0 +1,1 @@
+program nKZaa : e : takes b5, DPYa, TH4a, zL, V, l : integer; u07aa : boolean array; o45aa, G : boolean; dR : boolean array returns nothing while not 5 - 9 - 7 <= - 49300 : when case 07900 : pop end case 3 : chillax end otherwise : chillax end end; input S[79 - 923]; output "O." . "" . "9" end main : Z_50, e58a : boolean array; r3L0 : integer array; chillax end

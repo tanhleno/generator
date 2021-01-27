@@ -1,0 +1,1 @@
+program J3 : V7 : takes v, Cr : integer returns nothing chillax end o : takes y, I : integer; V : boolean array returns nothing chillax end main : do y(48 / not not 6 or not false or 7 + 6 - 56); output "" end

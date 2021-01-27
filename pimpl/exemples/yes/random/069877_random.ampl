@@ -1,0 +1,1 @@
+program t : main : h, tV, Y9, O : boolean array; Um : boolean array; gJ : integer array; Q3 : integer array; output "9" . - Sr and 1 + 3 > 7 . - 90 - 0 /= 0 . "u>!"; input S; let p6[- T - 77] = array - not 761; while - 04800 - 0 = 4 : chillax end; pop end

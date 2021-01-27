@@ -1,0 +1,1 @@
+program GE40a : W : takes Y3I : integer array; Ig : boolean; Q : boolean; c : integer array; eq, F : integer array returns integer array LxQ : integer array; y : integer array; EzH0a, p : boolean array; dta, S : boolean; when case 1 and 97100 - 9 - 3 : do x(0, 1) end case 232 = 3 : do M8n(8); input uoC end end main : chillax end

@@ -1,0 +1,1 @@
+program w : C : takes gg6a : integer; f : boolean array; GF : integer returns nothing d0, w82aa, zb : boolean; output "\\-0" . "" . "9\\aa" . 67200 end main : U56 : integer array; E : integer; U2d, qp4a, y : boolean; chillax end

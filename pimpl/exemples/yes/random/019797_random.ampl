@@ -1,0 +1,1 @@
+program p13 : Q : takes i, HNa : boolean array; v : boolean; b : integer returns integer n, E4aaa : integer array; chillax end main : o, Bwmaa, w, Sp : integer; wR3aa : boolean; H, R, NRp0a : integer array; pop - 6; input e[- false and 2 or true and 7 + 53700 - 522] end

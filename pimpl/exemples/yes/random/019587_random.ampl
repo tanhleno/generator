@@ -1,0 +1,1 @@
+program n9 : b : takes tO, t : boolean array; JO, ux8 : integer returns boolean array R, B, t, LUM0, i : integer array; chillax end H : takes u0 : integer array returns integer u, w, j : boolean; while 0 - 0 <= 8 : while 38 : chillax end; input p end end main : x, A, oz20, Hl, E : integer array; chillax end

@@ -1,0 +1,1 @@
+program J1 : ahDa : takes VZea, N9 : integer; D, S : integer returns nothing Q : boolean array; input C8[- 8 and 179 or 06900]; do Q8(78, 404 = 7, 7); while 57 : while 73400 : chillax end; pop end; let X6[89] = 6 end main : let y[- Z2(52, 4)] = - false / true and 2 + true and 7 - 8 > - (91) end

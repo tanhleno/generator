@@ -1,0 +1,1 @@
+program x : E3E0a : takes tg : integer; w, d7e, G, H, tGu : boolean array returns boolean array U, a : integer array; output "350" . 9 end pa9aa : takes n : integer array returns boolean dgg, yAZ0 : integer array; EJ20a : integer; chillax end main : n : boolean; chillax end

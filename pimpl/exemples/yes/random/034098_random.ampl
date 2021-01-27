@@ -1,0 +1,1 @@
+program Q6 : Ezy : takes v : boolean; j6O, E93, x0 : integer array returns boolean J1uaa, F5, B, m5 : integer; chillax end c : takes Y : boolean array; M : boolean returns boolean array nB : boolean; d : integer; chillax end main : W, _PV : integer array; chillax end

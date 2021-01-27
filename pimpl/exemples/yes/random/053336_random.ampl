@@ -1,0 +1,1 @@
+program B : pTq : takes c : integer; j : integer returns nothing w : integer array; chillax end main : MM : boolean array; E, d1v0a, I, u : integer array; when case - true / (44) * (513) and 3 + 9 or R4 >= false : chillax end otherwise : chillax end; while true : do x4D0(3000) end end

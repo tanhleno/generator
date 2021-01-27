@@ -1,0 +1,1 @@
+program P : J480a : takes eF, z : boolean array returns integer output ""; do M(- 6); do gA5(2 = 88) end main : p, m : integer; output "01"; when case 2 and(6) or false : chillax end; input j; do M(- 5); let Yv[0] = array 57; do QX(43); when case 3 : chillax end end

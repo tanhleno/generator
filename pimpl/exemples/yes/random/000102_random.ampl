@@ -1,0 +1,1 @@
+program y4Z0a : o : takes r10aa, J0, Tp, C, h200a, A7, x, w : boolean array; h, q : integer returns nothing K : integer; while not 7 + 0 > - 1 - 4 : input bv00a[95]; do n(3) end end main : while false and(34) rem true + 4 - 7 and 81 - 35 : let zX = array - 34000 - 01 end end

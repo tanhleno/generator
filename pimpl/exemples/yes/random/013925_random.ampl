@@ -1,0 +1,1 @@
+program L : E : takes D, v4N0, v : integer array; ntP0a, j : boolean array; S : integer returns nothing chillax end f : takes E, H5K : boolean array returns integer N, D : integer array; while - 4 > 7 : chillax end end go : takes Drc, R : boolean; J, B : integer; SAG0a, l21 : integer array; m2, X : integer array returns nothing pop 30; input B[1] end main : chillax end

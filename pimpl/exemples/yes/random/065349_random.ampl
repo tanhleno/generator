@@ -1,0 +1,1 @@
+program ZN : b800a : takes y6 : integer returns nothing output ""; input kT[- 6 - 8] end g : takes m : boolean array returns nothing d, mG : boolean array; L : integer array; chillax end main : while - 342 <= 9 - (27900) and 3 - 993 : chillax end end

@@ -1,0 +1,1 @@
+program As : main : while 3950 * 16 and(91900) and 7 : output "0" . "97" . "8G"; when case 94 : when case 56700 : chillax end; pop end; let g[5] = array 1 end; do m(true rem true and 5 or not 09 and 008 + 1 > - (7) and 2 - 3, - not 23 + 348 > - 54 - 1); input Q[(9) and 9 - 1 - 369] end

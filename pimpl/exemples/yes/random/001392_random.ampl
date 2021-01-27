@@ -1,0 +1,1 @@
+program l4 : QI : takes q, vbV, w, y, XEc0, e : boolean array returns integer array pop; input hS end main : Y : integer array; when case - false : pop 5 = 996 end; while H[09200] or not 9 - 8 - 63500 : while 1 = 1 : chillax end end end

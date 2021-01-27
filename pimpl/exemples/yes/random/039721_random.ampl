@@ -1,0 +1,1 @@
+program f340 : i : takes L590a : boolean array; W : boolean; Kh : integer returns boolean fB, f : integer; QKy : integer array; let W = - 5 = 5 end U6A : takes H2 : integer; O : integer array; L, x, M : integer array; A, A : integer array returns nothing pop; let l = array 49 end main : j : integer array; chillax end

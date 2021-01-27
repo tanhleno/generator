@@ -1,0 +1,1 @@
+program K : U : takes s, KpDaa, o, Lb, n : boolean; VOb0a, w : integer returns integer chillax end z6 : takes dN, K, t : boolean array; v, Y84, w4, Ua : boolean; S, x, o : integer array returns nothing input w4[- 43] end main : output "^@!a"; do j(- false); while c4Ha - 68 - 5350 = - 7 - 1 : chillax end end

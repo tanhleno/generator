@@ -1,0 +1,1 @@
+program v : EMM : takes vk7 : boolean array; r6W : boolean; P : boolean; o6l0a : integer array; EP, rt, r : boolean array; e0h : boolean; r, O : boolean returns boolean array p, eM0, z5Pa : boolean; F : boolean; b : boolean array; when case true >= 7 - 3 : chillax end case 0 <= 1 : do j(52400); output ""; pop end end main : chillax end

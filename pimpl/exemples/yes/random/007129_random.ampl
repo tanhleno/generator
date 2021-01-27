@@ -1,0 +1,1 @@
+program ot7 : s630 : takes U, bK, sO, LKd : integer array; s : boolean array; P, r8Z, cI : integer array; k000, S40, gfS0 : integer array; c, g, g : integer array returns nothing let NaD[(78) and 0 or 3 - 7] = 6 - 9; output 1 = 2 . "" end main : O : boolean; chillax end

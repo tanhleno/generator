@@ -1,0 +1,1 @@
+program N : mg30a : takes qE, f : integer array; b : boolean array returns boolean a : integer array; input I9; let r[- 1] = array 21; while 7 = 9 : chillax end end main : let y = array false or false; pop - F20aa and 00 or 849 - 207 = 97; when case - (80900) and 27 : chillax end case 2 - 59 : let q = 65800 end case 6 = 77 : output "1\n"; pop end end

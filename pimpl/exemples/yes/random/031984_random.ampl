@@ -1,0 +1,1 @@
+program y0sa : aqM : takes B, g : integer returns integer chillax end main : K : integer; q : integer array; while - (99) : let s = array - 657 - 9; while 17 : pop end end; while - false : output 657 . ""; output 9 end; while - not 1 + 40 - 8 : chillax end end

@@ -1,0 +1,1 @@
+program lxi : main : input wq7[false]; when case - not K * L7i : chillax end; when case - (216) and 2 - 4 /= 7 : output 29; let g1 = 42; when case 3 : chillax end; pop end case - 17 - 585 /= 935 : output ""; do H(48) end end

@@ -1,0 +1,1 @@
+program D50a : K1 : takes Z : integer array; r, nF : boolean; ok, ln20 : integer array returns nothing P, W, R, H5b, f : boolean; P34, j : boolean; _ : boolean; chillax end main : gz : integer; let xh[- 0 + false * 5 + m and 5] = array - (04 = 7) end

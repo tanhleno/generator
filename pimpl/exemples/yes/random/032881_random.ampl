@@ -1,0 +1,1 @@
+program B : yU : takes r, H1V0a : integer returns nothing Q : integer; b : boolean; P : boolean array; output 0 - 30 > 82; let ga8 = array 4; do g(5 = 1) end e : takes E, R, m : integer array returns boolean array z, P : integer array; D, Mv2, u : boolean array; chillax end main : z, Fe, e, j, F6 : boolean; Cl : integer array; chillax end

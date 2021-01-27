@@ -1,0 +1,1 @@
+program w : L : takes j45aa, oP, OW : boolean returns nothing mQ1a : boolean; f : integer array; f, V7_aa, w6 : boolean array; let D = array 71 + 1 end main : w, n : integer array; output "" . - 40 . "oM" end

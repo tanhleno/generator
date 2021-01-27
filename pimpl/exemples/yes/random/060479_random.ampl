@@ -1,0 +1,1 @@
+program L : _ : takes Y6 : integer array returns nothing X, e8c0 : boolean; Ue1, R : integer array; O : boolean; output 7560 < 6 . ""; while - 1 - 3 < 1 : input N; when case 51 : chillax end; pop end end main : chillax end

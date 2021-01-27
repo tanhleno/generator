@@ -1,0 +1,1 @@
+program c : c150a : takes E : integer; Nhr : integer returns boolean array l : integer array; v8 : integer; output "" . 8; output 62 . 3 end zZm : takes Y : integer returns boolean array let jT = 87; let d = array 5 end main : chillax end

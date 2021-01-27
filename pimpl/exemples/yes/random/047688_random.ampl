@@ -1,0 +1,1 @@
+program tq0 : f1 : takes m : boolean returns nothing chillax end main : D : boolean; O1E : integer array; i, W : boolean; K, p : boolean array; gDK : integer array; Yn7a, V9 : boolean; do v470a(7 / not 07 or(8) / pRO or true) end

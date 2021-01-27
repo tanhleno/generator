@@ -1,0 +1,1 @@
+program f2 : main : when case 4 /= 62 rem 92 and 1 or 0 or 4 - 532 : let N0waa = array 15 end; when case - false / Xh > - (21) and 87 : input r3D[52] end case - 9 and 18 > - 4 : output 7; let q = 780; while 2 : chillax end; pop end case 4 : chillax end otherwise : output "" . ":" end end

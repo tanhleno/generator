@@ -1,0 +1,1 @@
+program qV : j : takes m, s2Paa : boolean array; p, Wx4 : integer; e7z0 : boolean; M7, d, L, _3 : integer array; B : boolean array; A : integer array returns nothing h1 : boolean; H : boolean; _3h : integer array; output "" . 2 = 7 end main : let r[true / (9) + _[47]] = K and true and 5 or true and 2 or 69 < - (8) + 8 end

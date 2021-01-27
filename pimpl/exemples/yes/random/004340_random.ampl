@@ -1,0 +1,1 @@
+program L : A : takes H, Y42, C, b : boolean; Ih, sxi : boolean array; T : boolean returns boolean array a, T : boolean; input r03[- true and 90] end main : while zm[01] + false * 0 <= - u + not 60700 - 14500 - 39 : output 59 = 7 . ""; pop; input NXF0[943] end; pop; pop; output "3\t" end

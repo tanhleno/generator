@@ -1,0 +1,1 @@
+program NX : E10 : takes s2k : integer array; N : boolean returns nothing Xa, u : boolean; chillax end v : takes DJ : boolean array returns integer array A79 : boolean; chillax end F : takes u : integer returns nothing chillax end main : T, X61aa, b : integer array; EF50 : integer array; chillax end

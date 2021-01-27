@@ -1,0 +1,1 @@
+program f : V : takes N : integer array returns boolean output 0 - 19 /= 351 . "" end main : output pC[33] < nE and 82 - 277 - 5 . "#"; output "" . ""; do R(651 and 09500 >= - 0610 - 32, 2 > 55000, 74, 780) end

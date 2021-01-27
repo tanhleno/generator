@@ -1,0 +1,1 @@
+program VV : h : takes jb, i, f, z, x : integer returns boolean array v56 : boolean; l3, G : boolean; c, X2, KI : integer array; S, o : boolean; do e(- (4) - 4); output "" . "_\"0" . "\\0"; let V[8] = 94 end main : let o7 = array(6) and true and false and 55 end

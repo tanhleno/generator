@@ -1,0 +1,1 @@
+program t7 : main : pop 18000 + h3r; when case - e4Xa[980] and 8050 and 3 : chillax end case(31) and 5 : chillax end case - 1 /= 08600 : input J end case 3 = 0 : chillax end case 3 : chillax end; pop; when case - 0 - 0 : chillax end; while 7 : chillax end; let a = array 7120 end

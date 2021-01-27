@@ -1,0 +1,1 @@
+program f : MJ : takes d3, E : integer array; c : boolean; v, w : boolean array; v, kA : boolean array; j, GD, s230a, Q : integer array; T, IK, bGv : integer; yn : boolean; Z : boolean; N : boolean returns nothing chillax end y : takes d : integer; rS5 : boolean array returns nothing z : integer array; pop 9 = 99 end main : output "5C" end

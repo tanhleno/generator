@@ -1,0 +1,1 @@
+program j06 : o : takes y, E, p, P, G45, L5D, M, V61a : integer returns nothing do f(not 10) end rH : takes q : integer; q3 : boolean; N : integer array returns integer Y, a0 : boolean; input cq end main : chillax end

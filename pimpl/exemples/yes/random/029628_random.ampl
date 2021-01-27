@@ -1,0 +1,1 @@
+program q : P : takes Ajy, Rk : integer array returns boolean let Y8 = 9 - 208 = 8 end G30aa : takes a : boolean array returns nothing input AUn; let kX = 3 end main : Qw : boolean array; chillax end

@@ -1,0 +1,1 @@
+program iu70a : Ur50 : takes tU : boolean; a : boolean returns integer W, S : boolean array; chillax end xF10 : takes d17 : boolean; H, o6Wa, d, n, L : integer array; S : integer array; t : boolean array; r : boolean; Q : boolean returns nothing chillax end main : chillax end

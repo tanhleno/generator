@@ -1,0 +1,1 @@
+program Z380 : b : takes z, Pbq, O1, B : boolean array returns integer B9, s, iD : integer array; w : integer; input M2 end main : output 760 or not 1 <= false and 1 + 2 . 2 . ""; pop; let Gl5[- 3 - 5] = array - true; output ""; output 41800 . 48 . "\tTaa"; output 37; input c; let v = 17 end

@@ -1,0 +1,1 @@
+program S : j5 : takes d3, Pv, v000a : integer array returns nothing P, L, x : boolean; do qZ(false, 4 - 22 <= 0, 5); output "f" end main : n, E7j, p5, B3taa, iG, Z190a : boolean array; let w = array - false + true * false or false end

@@ -1,0 +1,1 @@
+program q : d : takes Bky0a, t0, J, E4, ki, G, C, U4 : boolean array returns boolean chillax end main : a : integer array; is1a : integer array; when case(9940) rem true + 01 / 0 and 04 : let N = 51; while 3 = 652 : chillax end end otherwise : do I9(1, 1570, 18); do Z7(7, 90) end end

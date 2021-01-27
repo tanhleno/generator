@@ -1,0 +1,1 @@
+program Y : ry : takes V, P67 : boolean array returns nothing q : boolean; g2, i, h : boolean; chillax end main : _ : boolean; qsh : boolean array; when case(0 = 3950) and not Ep1a / HkL < (9) and A1 and 7 or true - 16 - 3 : chillax end otherwise : chillax end end

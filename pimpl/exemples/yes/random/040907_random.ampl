@@ -1,0 +1,1 @@
+program A : qs50a : takes j : boolean array; P : integer array; y : integer; d, tX3, L : boolean array; s : integer returns integer input Ll end WTh : takes OC, iqr0, q8 : boolean returns integer array ZW : integer array; chillax end P : takes F, T, l1N : boolean array returns integer chillax end main : chillax end

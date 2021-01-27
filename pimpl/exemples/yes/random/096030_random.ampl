@@ -1,0 +1,1 @@
+program rj : main : when case - w <= not false and false : while 74 >= 19 : output "\\"; do m(39); pop end; do Q(1) end case false - (5) and 6 + 68 - 8 : chillax end; let j[- true rem 9 + not 3 and 42 + 4 - 4] = array not not 38; let Y = array - not 7140 + 5; pop 8750 end

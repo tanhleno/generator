@@ -1,0 +1,1 @@
+program P : D : takes c : integer returns nothing K, as, fO, V : boolean array; lV : boolean array; A0, Rfy0a : integer array; let M = array - Zf and 2; input u_; let O[46] = 2; while 93 : pop end; let s = 86 end main : chillax end

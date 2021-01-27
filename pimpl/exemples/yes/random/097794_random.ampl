@@ -1,0 +1,1 @@
+program q : main : while(3) >= not not 54 rem(7) : output ""; pop; do s(0) end; while false - true and 7 + 335 >= true + 7 : when case 862 : chillax end case 714 : chillax end case 3 : chillax end otherwise : pop end end end

@@ -1,0 +1,1 @@
+program h32a : q : takes r, x : boolean array returns nothing W : integer; O4, u6 : boolean; F1, A4Y, v0 : integer; let Z = 8970 - 7 /= 44 end main : r, F4G0 : boolean array; O490a, A, K3 : boolean array; chillax end

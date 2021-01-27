@@ -1,0 +1,1 @@
+program m : X : takes n, D : boolean array; X, b7J0 : boolean; W, T : integer; C2v0a, u_20a : boolean array returns integer chillax end main : hk90 : integer; n8, G28 : integer array; R : integer array; i : boolean; when case(9) : let QVJaa[18 - 57] = 4 end otherwise : input hC[95] end; input z; input K7 end

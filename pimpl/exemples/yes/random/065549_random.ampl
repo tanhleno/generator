@@ -1,0 +1,1 @@
+program bF : H : takes X0j : integer returns nothing while - 164 - 1 - 85000 > 6 - 65500 : chillax end; output 9 = 3; do X1e(5, 277); do V5(6, 1) end o0R : takes E : boolean array; D_a : boolean; S : integer array returns integer chillax end main : Y : integer array; chillax end

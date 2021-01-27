@@ -1,0 +1,1 @@
+program Y : main : while not true > false - true and 0 - 5 - 4 : while - 7 : chillax end end; when case 6 >= not 34 - 83 - 99 : chillax end case - not 92 and 9 : chillax end; do P6(not 5 and 0 <= 02, 33 /= 9, 71, 2160, 84); while 6 - 5 <= 12 : chillax end; let P[89] = 87; when case 41 : pop end otherwise : chillax end end

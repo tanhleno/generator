@@ -1,0 +1,1 @@
+program d5 : main : z, m40, CIkaa, A : boolean array; g : boolean array; while false / true and false and 089 /= 10 - 137 : input t3u0[- 95]; let N = array 0 end; do B7(5060 + true and 59800 >= - H7g0, (64) and 0750 or 19 - 3 <= 4 - 5, 3) end

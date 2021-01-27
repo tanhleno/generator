@@ -1,0 +1,1 @@
+program U : main : F : boolean; when case - true and true * (95) and 68 - (98) * true and 7 >= true or false and 9 or 944 : pop 0 = 3; when case 9 = 0 : while 89000 : chillax end; pop end case 927 : pop end end case false + false or 22 : pop 4; pop 330 end otherwise : chillax end end

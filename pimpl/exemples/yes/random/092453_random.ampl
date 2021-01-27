@@ -1,0 +1,1 @@
+program O : main : output false * 9 /= - (1) + 9 . "gJ"; output - false or 807 - 4390 = 54 - 64500; when case not 18 and 20 : let j[0] = 6; let l2fa = 5 end case - 06 : chillax end case 9 : chillax end; let j9r = 1; while 52 : chillax end end

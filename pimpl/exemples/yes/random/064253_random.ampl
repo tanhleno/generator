@@ -1,0 +1,1 @@
+program A : W : takes ps : integer returns nothing Y, B, y67, ZA : integer; Ni : boolean array; do N(false and 5 or 6 /= 29) end B04a : takes k, f, W : boolean; ww50a, u, _, b, v9q0 : integer array; wG, npr : boolean array returns nothing pop; while 61 : chillax end end main : c : boolean array; chillax end

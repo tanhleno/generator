@@ -1,0 +1,1 @@
+program i : W7V0 : takes v0 : boolean array; I : integer array returns nothing input d39; output "9" . ""; let B[991] = array 9 end I9Y : takes x : boolean array returns integer array y5, h : integer; while 320 > 80500 : chillax end end main : chillax end

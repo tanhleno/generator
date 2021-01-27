@@ -1,0 +1,1 @@
+program a7i0a : iU6 : takes D : integer array; Lr : integer returns nothing w : integer array; D98 : integer array; rh5a, Jik, P : boolean array; chillax end main : pop - not true and not 8 or(6) and 325 end

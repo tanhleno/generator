@@ -1,0 +1,1 @@
+program KY : H6 : takes B6R0, M, bH, w : integer array returns integer O : boolean; P0 : integer; Hu2a, T9Da : boolean; e, i3 : boolean; when case 4 - 713 - 1 : while 066 : pop end end case - 174 - 8 : chillax end otherwise : do _U(9); input MWm0 end; do X4m0(- 6, 2 = 26) end main : chillax end

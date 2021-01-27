@@ -1,0 +1,1 @@
+program Y360 : main : let B4s = - H(2) or false + 2 = 933 - 85; while - not 1 and T and 8960 /= - not 917 or 61500 : input j1 end; when case false and 0 + 705 <= - 21 - 1 : while 72 : pop end; let A3Y = 1; pop; pop end case 417 : chillax end end

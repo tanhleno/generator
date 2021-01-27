@@ -1,0 +1,1 @@
+program So : main : while true > (8) : do A(- 807); do Ajma(2 = 95500); while 3 : chillax end end; pop; while false and 0 + 7850 < - 13 - 3 : chillax end; when case - 49 : chillax end otherwise : chillax end; pop; when case 077 : pop end case 71 : chillax end; do P(5); input i end

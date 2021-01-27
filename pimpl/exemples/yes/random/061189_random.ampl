@@ -1,0 +1,1 @@
+program Q34a : iF : takes y : integer array returns nothing D690a : integer array; when case - false : chillax end otherwise : do M5(853) end end P : takes X : boolean; h : integer array; oT, U8, hm, U : integer returns boolean array Qh, LR2aa, d2 : boolean array; pop 8; pop end main : output ",2" . "" . 3 - 07 < 6330; input bsS0 end

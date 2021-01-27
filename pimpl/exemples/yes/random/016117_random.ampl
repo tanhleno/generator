@@ -1,0 +1,1 @@
+program _U : y_70 : takes Ebp0a, u, h9 : integer returns integer output "{6" . "" . 935; do Ck(- 5770 - 038, 28) end main : when case - T(87, 539) : chillax end otherwise : when case 1 : chillax end; output 9 . "q" end end

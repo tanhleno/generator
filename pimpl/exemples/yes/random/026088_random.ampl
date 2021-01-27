@@ -1,0 +1,1 @@
+program Iew : V8 : takes u, O : integer; i : boolean; j210 : integer; X, vZ : integer; p : boolean array; Yd : boolean; K : boolean; WQd : boolean; Y : boolean returns boolean output 382 - 520 . 8 = 864 . 0; do V79(- 23 - 7, 04 = 59) end main : tg : integer array; chillax end

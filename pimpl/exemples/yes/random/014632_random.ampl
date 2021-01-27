@@ -1,0 +1,1 @@
+program _ : T : takes H, E, m : integer array; q : integer returns nothing while(8950) and 64 /= 568 - 8 : chillax end; let w2[697] = array - 79100 - 6 end G2 : takes w4, U540a, oj, z, k : integer; t, F : boolean returns nothing chillax end main : chillax end

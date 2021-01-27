@@ -1,0 +1,1 @@
+program H : w : takes Hb, f : boolean; n, n : boolean array returns boolean array input y24[false and 7] end main : let p[true or ie2 * 0420 and 2 + y and 07 or 2] = - false / 063 or v9 = - 22 and 0 or 4 - 2; when case q0_ + false >= - (0) - 526 : chillax end case(4) : let MNF[7] = 9; input T820a end case 1400 - 2 : chillax end case 746 : input CXs end otherwise : chillax end end

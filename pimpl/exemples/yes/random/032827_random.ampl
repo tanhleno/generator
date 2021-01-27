@@ -1,0 +1,1 @@
+program KwJ : _ : takes C, u : integer returns nothing C0 : boolean array; Z : integer array; chillax end ER : takes Y : integer returns nothing input f end t : takes y900a : integer; _mg : boolean; D : integer returns boolean array pop 9; do YQ0(4); output ""; input M end main : s9v : integer; do f(- false or false + (65)) end

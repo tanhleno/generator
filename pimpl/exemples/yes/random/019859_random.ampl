@@ -1,0 +1,1 @@
+program K33 : z970 : takes P, W : boolean array; G7 : boolean array; Sj20, I : integer array; V, w, lD4, O8 : integer; Z : integer; P, s750a, Dp : integer; U2n0, p : boolean; k : boolean; eA : boolean returns nothing p, g : boolean array; do K0(false and 62 + 3, 54 > 4) end main : m, U : boolean array; chillax end

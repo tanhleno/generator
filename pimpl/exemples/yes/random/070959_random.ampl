@@ -1,0 +1,1 @@
+program k : main : J, rJ30a, A : boolean; j02 : boolean; V : boolean; when case - true * false >= - 70900 : chillax end otherwise : chillax end; input Ip; while false or 59 > 42 - 3 : do r(0, 3); input U2 end end

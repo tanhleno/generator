@@ -1,0 +1,1 @@
+program V : q64 : takes Z26, xvXa : boolean returns boolean A : integer array; V0, d : integer array; chillax end DE5aa : takes ha_ : integer returns nothing chillax end m6 : takes yw70, m : integer; ra4 : integer array returns nothing chillax end main : chillax end

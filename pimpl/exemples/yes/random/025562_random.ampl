@@ -1,0 +1,1 @@
+program k : pUpa : takes J, Z8 : integer; D6, e : boolean array returns integer array c, B : integer array; Ry, K : integer array; pop end AIx0 : takes J9m, n : boolean array returns nothing T : integer array; C, U, v000a : integer; vnQ : boolean; pop end main : P3L0, ZS : integer array; chillax end

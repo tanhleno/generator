@@ -1,0 +1,1 @@
+program X39 : main : F5, E5 : boolean array; S, O : boolean array; do a1X(qP(81500, 7580) and true and 87900 - false or false < - false + not 48, - not(32300) rem not 84 - true and 64 + 88, true - 00900 = 0); output "" . "1" . 87; while not 69 or 025 - 9 <= - 6 - 8 : chillax end; when case 58800 - 062 >= 619 : output ""; pop end otherwise : chillax end end

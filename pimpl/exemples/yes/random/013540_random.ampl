@@ -1,0 +1,1 @@
+program kF : o3j : takes xd, gdf, FwIa : integer; Fax0 : integer array returns nothing while - not 8 and 7 + 0 - 407 : let KA = array 5 end end main : q, J : boolean array; _ : boolean; when case - not not(0) - not 416 >= - _[3] - 98 and 834 + 3 - 3 : chillax end case 8860 <= false : chillax end case - (9) and 4 : chillax end end

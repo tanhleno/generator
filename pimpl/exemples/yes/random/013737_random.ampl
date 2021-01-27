@@ -1,0 +1,1 @@
+program a : Iy : takes F, S7x, O : integer array; f5, o, v, SFX : integer returns nothing Gf, QR, D, wh80 : boolean array; while - not 2 + 10100 > 1 - 807 : chillax end; input Pq[- 11 - 9] end nVi : takes MP, l2 : integer; B, z, X : boolean array; a7 : integer array returns boolean array let B = 379 = 0; pop; output "'" end main : chillax end

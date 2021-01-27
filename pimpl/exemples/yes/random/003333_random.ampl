@@ -1,0 +1,1 @@
+program O : v : takes Pu3aa, jr, j2, M3n, ce : integer; k : integer array; F : integer array; P7, qI5 : integer array; GA20a, q, w7 : integer returns nothing y, I, d4C, L9z, Xs20 : integer; chillax end uh : takes s : integer returns nothing P9waa, H4oa : boolean array; chillax end main : while M2Ua[3] : chillax end end

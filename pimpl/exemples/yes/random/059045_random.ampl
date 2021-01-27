@@ -1,0 +1,1 @@
+program M020a : zy : takes G : integer array returns integer array when case z - 108 <= - 8 : chillax end otherwise : let QTTaa = 6 end; pop end main : f : boolean array; Dw6a, bE : boolean array; chillax end

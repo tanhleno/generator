@@ -1,0 +1,1 @@
+program Vg : k3 : takes e : integer array; zD : boolean array returns boolean lU6 : integer array; do y0m(- 54 = - 45 - 47); let uy = array - 9 - 710; when case 6 : pop end case 7 : chillax end otherwise : chillax end; pop 0 end main : let IvXaa[- w[4] - false] = array - false / 9 * false and 9 + 6; input I end

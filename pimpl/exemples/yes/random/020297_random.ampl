@@ -1,0 +1,1 @@
+program d : ZAzaa : takes E, f : boolean array; c76 : integer; L : boolean; tT : integer; _t6a, B, X : boolean array; n : integer; r, p : boolean; W : boolean; jC : boolean returns nothing yg : integer array; u, Z, g6c : integer; chillax end main : P, c : boolean array; l : boolean array; I : integer array; pop end

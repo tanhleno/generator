@@ -1,0 +1,1 @@
+program S22 : Ip : takes n, Ds6, L87aa, J : boolean returns nothing M : boolean; let l9ca[- 1 and 44200 or 6] = 9 /= 7 end U5 : takes c8haa, T3S0, K : integer; W : boolean returns integer array a, j : boolean array; pop 5920 end main : let c80[- false / true rem 22 + (6) / true or not 82 and 682 or 287 - 6] = array - (87 = 680) end

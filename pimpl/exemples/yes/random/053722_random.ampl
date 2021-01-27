@@ -1,0 +1,1 @@
+program NX : sf : takes K9 : integer array; c8, x, t, k : boolean array returns nothing output "" . ""; input _N; do s(3 = 461); when case 0 : pop end end main : let hxH0 = - (46500) rem true - true and 9 < not 9 and 4 end

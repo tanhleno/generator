@@ -1,0 +1,1 @@
+program pG : main : C : boolean array; when case - not 63 * 2 * false : do q8j(- 49 /= 88); input u2[932] end otherwise : while 5 : chillax end end; when case not true / bB and 1130 : chillax end case false : chillax end case - 06 : pop end end

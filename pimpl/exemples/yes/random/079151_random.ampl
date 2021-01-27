@@ -1,0 +1,1 @@
+program VF5 : main : r : boolean; L : boolean; do S(GO7aa + B[92200] > not false and true, - lL and tib - not 50); when case - 3 > 9100 and 2 : when case 242 : pop; pop end end case - 2 - 3 /= 563 - 2 : do W(4, 99); pop end otherwise : chillax end end

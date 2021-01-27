@@ -1,0 +1,1 @@
+program z : main : K0K : boolean; when case not md0(2) / true + false / false >= not(0) rem true : when case 106 - 86 : chillax end case 5 = 53300 : chillax end case 9 : pop end otherwise : chillax end end end

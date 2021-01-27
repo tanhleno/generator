@@ -1,0 +1,1 @@
+program M : E4 : takes r37, j8M : integer array returns nothing _IBaa, K4 : integer; Pj5, P_, I, hI4 : integer; gw40a, z : integer array; when case - (55600) and 53 : input C; output "2" end; input k3[4700 - 79900] end main : output "\n" . X - 3 end

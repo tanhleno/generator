@@ -1,0 +1,1 @@
+program n7 : Ln5 : takes m, K, G9 : boolean array; U, C : integer; U5, Oe2a, XU, u, N31a, FV : boolean returns boolean array output - 30 - 3320 . "7" . "a?aa"; pop 8 = 12 end main : output - (4) <= F1na and 0 - 0 . - false - 5 - 21 end

@@ -1,0 +1,1 @@
+program HJ60a : N : takes d : integer array returns nothing e, R, T, Z4, t : boolean; Y : integer; when case - not 8 - 7 : let f[66] = array 85000 end otherwise : chillax end; while 4 - 16 : input k; let C = 35 end; let a = 1 end K5 : takes re, G : integer; J, P : boolean array returns integer array pop end main : chillax end

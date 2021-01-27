@@ -1,0 +1,1 @@
+program LU5 : k : takes Q : boolean; f, U9s : integer returns nothing do N(- false - 30 <= 7 - 3, - 7 >= 3630); while - 2 - 6 = 0 : output "9"; when case 5780 : chillax end; pop end; output 8100 . "" . "\n" end main : S, a320a : integer array; chillax end

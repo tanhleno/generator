@@ -1,0 +1,1 @@
+program t9v : _080a : takes N5, W, U, E2, O, b4, O9Raa, l : integer array returns integer array chillax end main : Y5 : integer; Z, Ud7, nU10a, i, h, S : boolean; G, E470a : integer; output false + false or 8 end

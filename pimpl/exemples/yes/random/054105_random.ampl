@@ -1,0 +1,1 @@
+program Pl : k1 : takes qB : integer array; L, dn0a, ku5 : boolean returns nothing pN : boolean array; chillax end ax : takes y1 : boolean array returns nothing z : boolean array; chillax end main : output - (25) and not 9 or 45900 - 50 . - (45200); input N end

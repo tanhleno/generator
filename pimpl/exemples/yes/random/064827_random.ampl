@@ -1,0 +1,1 @@
+program d : c6 : takes Z : integer returns nothing U7Ia : boolean array; d, q : integer; input i[- Iq5 and 3 - 16]; input G end main : Dq : boolean array; do G(false and false, - onia(5) * not 8 and 9350 + 90 and 279 or 83); let i = (1) and 45 <= 7 - 598; when case not 98 and 9 - 1650 - 89 : chillax end case 8 - 6 : chillax end otherwise : chillax end end

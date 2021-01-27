@@ -1,0 +1,1 @@
+program C : i : takes a : boolean; A6kaa : boolean returns boolean array do l(false /= 5); do M24aa(9); do s7(07 = 32, 66, 4); input J[8]; output ""; output ""; pop end main : do U(- 8 * not(79)); while - true or false and 4 >= not 0 or 76 : chillax end end

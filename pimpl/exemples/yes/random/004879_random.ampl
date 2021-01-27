@@ -1,0 +1,1 @@
+program W : s : takes y, g, b4, rAE0a : boolean array; N, Ns3 : boolean array; m, d : integer array returns nothing V : boolean; E : integer array; while 8 and 0 + 0 - 308 : do K6o(6, 6); input g; let V = 04; pop end end main : chillax end

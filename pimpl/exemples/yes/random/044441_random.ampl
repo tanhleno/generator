@@ -1,0 +1,1 @@
+program IG : C2 : takes W : boolean array returns nothing E : boolean; do Sg(false and 5 >= 48 - 5, - 3 < 8) end i9J : takes Rt3 : integer array; X, d, a : boolean array returns nothing f, u4 : integer; P : integer array; chillax end main : chillax end

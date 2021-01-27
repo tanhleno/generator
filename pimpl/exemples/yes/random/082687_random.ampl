@@ -1,0 +1,1 @@
+program yR : main : F : boolean array; when case - S[28] : chillax end case true <= true and 655 - 654 : when case 9 = 0 : pop; pop end otherwise : chillax end end otherwise : output 3; pop end; output t <= - 3 end

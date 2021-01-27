@@ -1,0 +1,1 @@
+program D4 : main : m16a : boolean array; while a(3, 4920) - not false * false - false >= - not false rem not 506 and 1 or false and 56500 : do C(- 31 - 25 = 8, 8 = 20, 60); do D680a(5900 = 0) end end

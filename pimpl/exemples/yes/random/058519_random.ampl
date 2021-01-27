@@ -1,0 +1,1 @@
+program R : y : takes MR : integer array returns boolean pop end Hw : takes H : integer; W24aa : boolean; I, Oz, I, D, E : integer array returns integer chillax end XM : takes tn : integer array returns integer array j9 : boolean array; g : boolean; i4 : boolean; chillax end main : iB7 : boolean; pop false >= 3 and 8640 or 2 - 06 end

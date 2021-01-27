@@ -1,0 +1,1 @@
+program QeGaa : hSw : takes l02a : boolean returns integer array M : integer; I5 : boolean; chillax end sC : takes ly30 : integer; fM3aa : integer returns integer array N, a, P9 : boolean array; when case 9 = 170 : while 7 : chillax end end otherwise : do m(884); pop end; when case 2 : do f(918) end; pop 56300 end main : t220a : boolean; j, w : boolean; chillax end

@@ -1,0 +1,1 @@
+program Nf : E : takes Ax : boolean array; J : integer returns nothing chillax end S6 : takes v : boolean returns nothing chillax end K9 : takes n, R080a : integer; A86, E6 : boolean; w, x92 : integer array; r : integer array returns nothing Pa, WL : integer; while 00 = 09 : chillax end; pop 8 end main : output true or 40 end

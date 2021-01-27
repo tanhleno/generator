@@ -1,0 +1,1 @@
+program f1 : Lq : takes H9 : integer array returns nothing chillax end X : takes Z : boolean returns boolean array y1, h3h : integer; yJ80a : integer array; E : boolean; N : boolean; chillax end main : K : integer array; m91aa : integer array; while true : chillax end; let L[j] = E + 30 - 0 end

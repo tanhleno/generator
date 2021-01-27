@@ -1,0 +1,1 @@
+program mL5 : J : takes n : integer; k, ok : boolean array returns nothing chillax end y : takes dl : integer; W, w, E11aa, J9, E, J : integer returns boolean chillax end main : tyb : boolean array; q : boolean array; BHV, O : boolean array; k8, d3, M8ba : boolean; K, l : integer; X99 : boolean; w3K0 : boolean; chillax end

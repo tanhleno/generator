@@ -1,0 +1,1 @@
+program v : kj : takes c, X : integer; OS, B3 : boolean; u, u, C : integer; o6, c2 : boolean; Wa, xQYaa : integer array returns integer chillax end main : while F3 rem not not 7 + not E rem false and 17 + t and 038 <= (4) : chillax end; output "" . 3 - 8 end

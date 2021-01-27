@@ -1,0 +1,1 @@
+program x : F9l : takes g : boolean returns integer Jk : integer array; Gf, sd : integer; output - 0 >= 2 . "" . "" . "23" end main : F, ae : boolean array; P : boolean array; q, L : boolean; r : boolean array; Fj : boolean array; do j((9 = 15) - not true, - (68)); while 69 : chillax end end

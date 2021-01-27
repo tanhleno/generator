@@ -1,0 +1,1 @@
+program sd5 : R : takes sX : integer returns nothing p : boolean array; pop end v : takes s, FT5, I : integer array; p, Y, E : integer; P, X2n, Q3, R : boolean returns nothing chillax end main : chillax end

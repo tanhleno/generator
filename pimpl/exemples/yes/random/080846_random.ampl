@@ -1,0 +1,1 @@
+program n : main : B6 : boolean array; Xs, x1, D16, bMw, u36 : integer; input j; when case 4 : when case 723 = 84 : chillax end end case - true and 81 < - 93 - 0 : let V9Z[6] = array 541 end case 76 - 305 : chillax end case 72 : chillax end otherwise : while 9 : pop end end; do R(- (730) > - 8820) end

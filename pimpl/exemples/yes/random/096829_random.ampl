@@ -1,0 +1,1 @@
+program LJ : main : when case false >= - FU7a[1] / true + (65) : when case - 79 - 491 : chillax end case 60 : chillax end case 4 : pop end otherwise : when case 2950 : chillax end end end otherwise : let D = array 986 end; input o9e0a; input E64[- true and 9]; when case - 9 - 1 : input E end; pop; input M7[0]; input s end

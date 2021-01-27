@@ -1,0 +1,1 @@
+program C : Cb : takes r7F, R : boolean array returns boolean array C, i : boolean array; z_, OL : boolean array; output "" . 30 = 55 end Fri : takes p0r, E, z, Guu : boolean array; f, _5 : integer array; K, K : integer array; U5 : integer array; B, X67, l : integer returns nothing vB : boolean; do qv(- 2 - 63100 >= 527) end main : chillax end

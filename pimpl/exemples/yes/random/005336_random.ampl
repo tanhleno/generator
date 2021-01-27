@@ -1,0 +1,1 @@
+program S3gaa : A_ : takes G, i3r0a, z, k4 : boolean array returns boolean U, _J, e20, N, YN7 : boolean; I, N, J : boolean array; P : integer array; G : boolean; chillax end main : n4, V : integer array; chillax end

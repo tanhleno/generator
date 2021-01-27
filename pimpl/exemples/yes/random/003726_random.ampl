@@ -1,0 +1,1 @@
+program F : Q : takes a, o, Bt, R8, m520 : integer array returns integer array p0, m8, N, vjZ, x : boolean array; F3, uK : boolean; K, f : boolean; R, v : boolean; chillax end main : Xzm0a : boolean array; pop - false * (81) and 6 - not 2 or 76 end

@@ -1,0 +1,1 @@
+program B : vZ4 : takes uj4 : boolean returns integer array let X = 70 - 6; let c = array - 4 - 44 end main : do u7d(- true - 5290); when case - false + t and 10 or 0 : when case 20 = 3 : chillax end otherwise : pop end end case(46) and 0 or 56 : chillax end otherwise : chillax end; input xe1aa[not 518] end

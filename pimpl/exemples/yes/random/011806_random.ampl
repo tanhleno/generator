@@ -1,0 +1,1 @@
+program n : P : takes X, I, o : boolean returns integer array l, l4 : integer array; input e9; let U = 1; while 3 = 05 : chillax end end main : N : integer; Kt, v920a : integer; i, B : boolean array; n : boolean; do K(- true rem not false /= true and not 90700) end

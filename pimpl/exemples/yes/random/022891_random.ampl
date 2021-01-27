@@ -1,0 +1,1 @@
+program e : D : takes vu, W : boolean returns boolean array chillax end main : vt1 : boolean; while - (52) * 831 and e and 9 < - not true - false : chillax end; output 0 - 3 - 1 < - 58; while true and 6 : chillax end; while 7 : pop end; input jl8aa end

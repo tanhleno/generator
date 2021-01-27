@@ -1,0 +1,1 @@
+program z : main : C62, AV_ : integer array; output e(8) / dj4aa and 1 - (2) = - (8) and 0; pop; output - 34900 - 4 > 6 . "\""; when case - 122 - 31300 : chillax end case 7 = 2 : output ""; pop end case 53 : pop end otherwise : input Gj end; output 09 . 7 . "5" end

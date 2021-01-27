@@ -1,0 +1,1 @@
+program r4f : main : R : integer; v, iZL, D : integer array; _, P : boolean; Pt, Te : integer; hT : integer; R : boolean; n : boolean; Lo40 : boolean; while true : chillax end; let E[false - q and 7] = - 8 and 24 + 52 - 15800 >= 01 - 10100 end

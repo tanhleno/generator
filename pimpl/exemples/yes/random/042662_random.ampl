@@ -1,0 +1,1 @@
+program Y : tpT0 : takes zT : boolean array returns integer array B : boolean; chillax end main : D, E4, vD, H, c52 : integer array; pop - true * not 7 + not 62 and 98 < - not 520; input l[- false or(56) + 3] end

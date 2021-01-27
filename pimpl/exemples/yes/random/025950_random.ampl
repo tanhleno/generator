@@ -1,0 +1,1 @@
+program n : p0 : takes Z, r2 : integer; P, Q1 : integer returns nothing chillax end xp6 : takes HS40, F : boolean array; q8, zg : integer returns nothing output 9240 . "6" . "\n="; input R0; input vI4; let AW0aa = 50800 end main : let G = - 4 end

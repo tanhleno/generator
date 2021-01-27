@@ -1,0 +1,1 @@
+program d : main : u, w1, y : integer; O7, WFbaa, k, p : boolean; p69a, Xj, E : integer; I0 : boolean array; S : boolean array; c : boolean; D : boolean; f : boolean; while dl > (7) and Z7 - 2010 : chillax end; output false < 703; let d[820 and 7] = array - 9 and 614; let w[5840 - 010] = 68600 = 905; input O[5]; do O53aa(3530); input C; pop end

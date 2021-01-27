@@ -1,0 +1,1 @@
+program S1 : C : takes jR, l8 : boolean array returns integer array chillax end main : let Vqm[- (5 = 05500) * not(66) rem false] = array - R[1] - true * true or not 92 - 92300; while - false * not 95 : input Ri; output 48 . ""; when case 8 : chillax end end; input z; when case 4 /= 89 : let wV = 666 end otherwise : do T(05); pop end; do C_h(7 = 5, 307, 449); let NUF = 14000 end

@@ -1,0 +1,1 @@
+program p920 : G : takes W : boolean array; R : boolean; A9I, it, X, V : integer array; Y : integer array; S, pxG : boolean array returns integer when case 05 : input O2 end end A : takes V4C0, za60 : integer returns nothing pop 0 = 04600 end main : chillax end

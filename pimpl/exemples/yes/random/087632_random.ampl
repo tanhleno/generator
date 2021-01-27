@@ -1,0 +1,1 @@
+program D990 : main : NLS0 : integer array; while(497) rem true and not 868 and 8 = false * false : output 77 = 8; do e(19, 65); when case 8 : chillax end case 56 : chillax end end; output "#" . "\tMaa"; let W[- (3)] = array - K_Ta + 373; output "!" . 285 . 68 . "b"; output 8 . 27 end

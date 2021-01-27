@@ -1,0 +1,1 @@
+program r : E : takes W, l : boolean returns boolean chillax end k : takes R : integer; F, k4O : boolean; l : boolean array; eE40, S2 : integer array returns integer array chillax end main : output - not not 42300 / false /= 176 end

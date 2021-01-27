@@ -1,0 +1,1 @@
+program D : main : do Q(true < n2[10] rem true and 5, true + (8) and 4, true and 349 - 65 - 1, - 20); let T36aa[- false * false - false and 27] = array false * N and 6 or true; do J(- false + 59 /= 6 - 24) end

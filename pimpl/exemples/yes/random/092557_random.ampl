@@ -1,0 +1,1 @@
+program n : main : output j(8) rem(2) < (2) . - false and 0 <= - 48 . - 41 < 9 . "P" . 3 . ""; pop; let Fl = array - false; while 35 - 6 : chillax end; when case 5 : chillax end case 88500 : pop end; pop 6; input w1; pop; pop end

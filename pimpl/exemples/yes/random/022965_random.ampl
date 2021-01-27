@@ -1,0 +1,1 @@
+program Y : NC0aa : takes T, w95 : boolean returns boolean array Ekm0, Q : integer; s, hSX, e : boolean; chillax end main : dVN0, j, D, w980, z : integer; output "="; output ""; while false and 827 : chillax end end

@@ -1,0 +1,1 @@
+program nk : E : takes qsg0a : boolean array; H, j14 : integer; Qm : boolean array returns integer U3 : boolean; pop 00 /= 6; pop; when case 5 = 88 : pop; pop end case 510 : chillax end case 886 : chillax end; while 6 : pop end end main : when case - O and 5 - not true - (3) and 657 : pop; while 1650 = 80 : chillax end end end

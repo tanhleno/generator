@@ -1,0 +1,1 @@
+program g : w : takes fN7 : integer array; M, _l : boolean array; ro20, p, T, a : boolean array; S0, Q, leF : boolean returns boolean do kg3(- true, 84 - 24 < 68); pop end main : i, dx8 : integer; chillax end

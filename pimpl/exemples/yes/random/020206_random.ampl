@@ -1,0 +1,1 @@
+program f : R17 : takes O, F1G : boolean array; E1 : boolean returns nothing s : integer array; do _6I((783) <= 3 - 83); when case - 1 : pop end case 688 : while 45 : chillax end; pop end case 863 : chillax end end main : a4 : boolean; pop - false - false < (135) end

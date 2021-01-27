@@ -1,0 +1,1 @@
+program V : main : when case - (5 = 0) / 0 <= true and not 7 - true and 230 - 454 : chillax end; do ueu(- (035) + (4) and 6 > - not 0 and 6 - 924); while - 3 - 3 - 572 = 7 - 70 : let P9[8] = array 1; do S(4); do W6(2340); pop end end

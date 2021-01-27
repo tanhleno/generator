@@ -1,0 +1,1 @@
+program t1B : X : takes bg : integer array returns nothing chillax end main : i : integer; c61 : boolean; c, h, R, B, g : boolean array; Vq4a, R, IR1a, c : integer array; when case - 2 * false - true : chillax end case - false and B : let CM[85] = 9 end case - true or 0 : chillax end end

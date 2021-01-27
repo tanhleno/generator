@@ -1,0 +1,1 @@
+program l : SNq : takes i : boolean; oF, d64, h6b0, _, wD5 : boolean array; Iv6 : integer array returns nothing chillax end YU : takes F5s, H : integer returns integer input V[- 6]; let Dt = array 3 end main : let OM[not U rem true / A and 9 - false + false and 4] = - KVgaa / not 581 /= (6) and 9 end

@@ -1,0 +1,1 @@
+program Jg7 : n : takes s, b8_a, S, m03aa : integer returns integer array pop - 7 - 7 >= 0120 end S : takes Z : integer; t, I5q0a : boolean array returns boolean chillax end main : input K[pcH(670) / (81) / true or 4 rem 16 and 9 or P] end

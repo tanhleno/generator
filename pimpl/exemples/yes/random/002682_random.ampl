@@ -1,0 +1,1 @@
+program c : O : takes K7s, R, EB, _, _ : boolean array returns boolean Z : integer array; A : integer array; input j[036 or 5 - 4] end main : pop LQ[9] / (8) and 9 or TI and 5 <= true or 15800 - 688 end

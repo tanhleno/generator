@@ -1,0 +1,1 @@
+program E1 : G : takes U9W0a, dk0a, yF, dr, D7, jm, i, g : integer returns boolean array EnWaa, yA, Z22aa : boolean array; output - 2 . 85 = 4 . 82 . 2620 . "" end main : X, HE6, q41aa : boolean; output "" . true and 2 + 60 = 62 - 5; while - n5 - false and 8 - 6 - 402 > false and 580 : chillax end; let ung0a = array - true and 23 - 711; do oI50(50 - 3 < 51); let E[71] = 2 end

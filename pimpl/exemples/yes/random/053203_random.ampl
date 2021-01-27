@@ -1,0 +1,1 @@
+program B : xq0 : takes H : integer; EB0a : integer returns integer chillax end main : input t14[- (206 = 26) * false - true or false and 47]; while - 8 : chillax end; while 50 and 0 - 1 : chillax end end

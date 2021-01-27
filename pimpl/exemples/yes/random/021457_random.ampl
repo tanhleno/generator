@@ -1,0 +1,1 @@
+program boB0 : x : takes S, as : boolean array returns integer array x : integer array; o5 : boolean; chillax end main : when case false - (737) + T3 and 41 - 407 - 3 > E7[58] : input k[- 60]; input v91 end case - false rem false + (96) and 624 = - not 250 and 1 + 76 : do m(3250 = 0) end case - 3 and 4 - 36700 - 31400 : chillax end end

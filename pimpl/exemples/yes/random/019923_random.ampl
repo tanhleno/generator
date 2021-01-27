@@ -1,0 +1,1 @@
+program s : Im : takes p6Wa, yJ : boolean array; W : boolean array; f75a : integer array; I : integer array returns nothing Sl40 : integer array; N : integer; Oora, k2Xa : boolean array; nn5, q2 : boolean; s : boolean; EM : boolean; chillax end main : input cc; let n = - false >= 68 - 19; while - false or 48500 - 63 <= - 7 - 846 : chillax end; while 115 < 1 : chillax end end

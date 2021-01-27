@@ -1,0 +1,1 @@
+program K : H : takes IT, P290a, a4 : boolean array; t : integer array returns nothing pop - 1 - 37; output 4 = 29 . ""; when case 2720 = 9 : chillax end case 4 : chillax end otherwise : chillax end; pop 22 end main : dd : boolean array; chillax end

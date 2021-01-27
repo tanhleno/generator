@@ -1,0 +1,1 @@
+program g : I : takes Z1Iaa : boolean returns integer D28, v, e : boolean; let NAQ[true or 5 - 0] = array F and 58 + 45900 end xmza : takes T : boolean; jQ0aa, tU, T : integer array returns integer array QW, x : integer; b4 : integer array; chillax end F : takes L : integer; Y1T : boolean array returns nothing tn : boolean; chillax end main : I : integer; chillax end

@@ -1,0 +1,1 @@
+program W5 : Pq2a : takes P : integer returns nothing chillax end W : takes b4i0a, C : boolean array returns nothing when case 831 - 68 /= 9 : output "+3"; while 5090 : chillax end end; let C3 = array 6780; do N(21, 8); pop end main : B2A : boolean; f, p6O : boolean; mG, X : boolean array; zf6, Y6 : integer; chillax end

@@ -1,0 +1,1 @@
+program N : H6Xa : takes _C, o1, Hn3 : boolean returns nothing n : integer; chillax end G0 : takes o0n0 : integer array returns nothing u, u6d, N, y : boolean array; O7 : integer array; chillax end main : input S[(1 = 3) - true rem not 4 and 75 + false] end

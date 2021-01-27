@@ -1,0 +1,1 @@
+program a : G : takes a, I : integer; u, I220a : boolean returns integer A : boolean; ls : integer array; o : integer array; x7, e7v : boolean; input l end t : takes k9T, X : integer; rd0 : integer returns integer array V8, H, t : boolean; do q(50900 - 3, 41 = 3) end G5 : takes NW80, j8 : integer array returns nothing do d_(8 = 0) end main : input O end

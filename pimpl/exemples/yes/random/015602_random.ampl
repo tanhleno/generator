@@ -1,0 +1,1 @@
+program p : K : takes A, qf6aa, rS : integer array returns nothing when case(470) and 9 + 4 - 161 : chillax end otherwise : chillax end end l4 : takes L5i : boolean array returns boolean array do d(29500 < 1, 00, 7) end SZG0 : takes cc : boolean array; x3 : boolean array returns integer let y[2] = 4 end main : pop not not 6 / (6) end

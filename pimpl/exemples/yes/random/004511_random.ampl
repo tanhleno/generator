@@ -1,0 +1,1 @@
+program t : e : takes Y, P, U7, P : boolean; q : boolean array; K : boolean array returns integer array p, e5, F2Y : integer array; Y, Ym : integer array; when case - 40 /= - 1 : output "\n8!" end end main : chillax end

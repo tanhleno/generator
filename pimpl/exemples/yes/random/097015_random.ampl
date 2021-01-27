@@ -1,0 +1,1 @@
+program N8k : main : when case F[0] / (2130) * (0) and 7 or T64[59] > not 8 and Y and 705 : let V[7 - 235] = 71 = 49700 end case true and false and 4 + V9j and 2 or 22 < - (6) and 61 - 18600 : chillax end case - (4) or 25 = 2 : chillax end otherwise : chillax end end

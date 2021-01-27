@@ -1,0 +1,1 @@
+program R : X : takes N7, x4Oa, a : integer; H : integer; F6v : integer; b : boolean returns nothing o : integer array; chillax end main : M4, u, D : boolean array; while true * true * true >= not false / not 5 and 0 : chillax end end

@@ -1,0 +1,1 @@
+program j050a : G : takes h, v : boolean array returns nothing let mP = array - 379 and 8 or 38900 - 380; pop 786 end main : let zM[true / false * (44)] = array false and true rem not 3; output - 0 and 67 . "" end

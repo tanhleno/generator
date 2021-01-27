@@ -1,0 +1,1 @@
+program o : n6F : takes iK, k, R5, v, G : integer array; ec1aa : integer; Dsgaa, Rs : integer array; p, L : boolean returns nothing qa4aa : integer; cj, ZT4 : boolean; _, a5, cS6aa : integer; chillax end g36 : takes _, x8, lB, dJ0a : boolean returns boolean array KgOaa : boolean array; do J(- 0530 <= 314) end main : _, U : boolean; L, I : boolean array; chillax end

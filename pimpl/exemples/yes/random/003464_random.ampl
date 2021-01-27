@@ -1,0 +1,1 @@
+program Z : qx : takes P, I21, o1F, s3, Sq : integer array; c, rf : boolean returns boolean array input yt1[- true and 6 or 8] end MYw0 : takes y3, r : boolean returns integer s, z04, xy : boolean array; chillax end main : chillax end

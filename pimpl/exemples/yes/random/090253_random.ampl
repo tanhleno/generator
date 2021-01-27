@@ -1,0 +1,1 @@
+program Y : main : let K = array true; output 021; while - P46 and 084 or 139 - 7 < 4050 - 682 : do b(27) end; when case 2 - 93 : let k = 0 end case 1 : while 42 : chillax end; pop end; while 5 : while 96 : chillax end end; when case 8 : chillax end otherwise : chillax end end

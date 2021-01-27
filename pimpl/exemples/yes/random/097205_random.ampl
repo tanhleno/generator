@@ -1,0 +1,1 @@
+program AWH : main : when case not not false / false : while 8 - 439 <= 1 : chillax end; pop 322; do xP6(9650) end case - false - false : pop; output 16 end case bn and 19 - 1 : let U0[14700] = array 3 end otherwise : when case 5 : pop end case 13 : chillax end; when case 871 : pop end end end

@@ -1,0 +1,1 @@
+program y : T2Taa : takes h : boolean array returns integer array chillax end X2J : takes R, c : integer array returns boolean while 27 : when case 7 : chillax end; do e(3550); pop end end main : chillax end

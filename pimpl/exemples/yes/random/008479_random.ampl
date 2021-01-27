@@ -1,0 +1,1 @@
+program v9 : h : takes X8z, L8, H9 : boolean; CJ, P, j, _, f : integer returns boolean array pop end main : T, hd : boolean array; f, Qv8 : boolean; io, y, A : integer; X : boolean array; Q, G5r, w : integer array; Qp, Yp : boolean; Uge : boolean; e : boolean; chillax end

@@ -1,0 +1,1 @@
+nothing program a : main : output false end

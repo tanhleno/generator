@@ -1,0 +1,1 @@
+program G : c : takes u03, x, x3, Oxl, gJ, I1X, H1 : boolean; k440 : boolean returns nothing while true or 8 - 76 /= - 37700 - 383 : chillax end end main : when case - 74 or false * false and 12 : chillax end end

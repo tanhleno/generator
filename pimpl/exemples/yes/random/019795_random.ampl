@@ -1,0 +1,1 @@
+program i : G : takes f7, z : boolean array; y : boolean; W : integer returns boolean a12 : integer array; s, I : boolean array; H : integer; J, w : boolean; d : boolean; chillax end main : do A(7 / k4[2] - 6 rem true - true > 12); input N[false / t and 647] end

@@ -1,0 +1,1 @@
+program Wdb : main : K : boolean; L : integer array; f7 : boolean; when case - not v[3] rem true / (2) + T or not 5 = - (26) : chillax end; let Zp[- false * true and 6] = (84900) <= 9 - 848; input P6ua; pop end

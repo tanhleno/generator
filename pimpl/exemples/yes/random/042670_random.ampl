@@ -1,0 +1,1 @@
+program g : T : takes zQ : boolean array returns integer array b200a : boolean; do k(- true + 47 - 9) end y : takes K7 : integer; Z : boolean returns integer D : boolean array; chillax end main : J, wv : integer array; chillax end

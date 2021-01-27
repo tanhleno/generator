@@ -1,0 +1,1 @@
+program G910a : S : takes X : integer array returns nothing f3O, Y310a, r200 : boolean; y : boolean array; when case false + 7 : chillax end otherwise : pop end end V1 : takes K : integer array returns integer array when case - 3 - 3 : chillax end case 2 : input gi; pop end end R : takes eE : boolean array returns boolean array chillax end main : pop end

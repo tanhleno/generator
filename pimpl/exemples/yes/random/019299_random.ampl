@@ -1,0 +1,1 @@
+program p58 : v4 : takes e, u : boolean array; e20, D : boolean array returns nothing input _J end z : takes h, O8 : integer returns boolean o1, G : boolean array; chillax end L3 : takes r, y, e4Yaa, r, Z, n : boolean returns integer J : boolean array; chillax end main : chillax end

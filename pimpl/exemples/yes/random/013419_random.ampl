@@ -1,0 +1,1 @@
+program Y0 : H : takes j6c, C75, q : integer; m : integer; Md0 : integer array returns nothing y, M, YmRa : boolean array; E, Z, fx3, W : boolean array; while - 7 or 3 : when case 95 : chillax end case 04000 : chillax end; while 6 : chillax end; output ""; pop end; input L; input Y[75] end main : x, C9o : boolean array; pop end

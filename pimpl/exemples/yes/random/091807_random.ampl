@@ -1,0 +1,1 @@
+program o : main : output(549) > FP50a and 361 + 3 - 7 . "|"; while Z(222) = 42 and 9 + 4 - 5 : chillax end; when case - not 7 and 86 : chillax end; input u[7 - 1]; do D(8 = 8, 9850); let m[76] = array 114; output "" end

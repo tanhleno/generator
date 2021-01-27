@@ -1,0 +1,1 @@
+program h : C : takes G : boolean returns nothing chillax end main : when case true or not true and 01 and 67 + 2090 : when case 911 <= 58 : chillax end; do S0e0a(6130 = 64); let P = 84; input k62 end end

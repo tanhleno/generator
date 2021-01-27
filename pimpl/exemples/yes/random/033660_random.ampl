@@ -1,0 +1,1 @@
+program f1 : o7 : takes S : boolean; DlZa, N, a30, t15 : integer array; n : integer returns nothing j, LJza, Y_ : integer; h8 : boolean array; L, W, p : boolean; pop 9690 end main : uy, YJta, W820, uav, t38a, r480 : integer array; OL, T19a, X, X : integer; f4 : integer; let w = false rem false < yT8aa and 9 or 7 - 2 end

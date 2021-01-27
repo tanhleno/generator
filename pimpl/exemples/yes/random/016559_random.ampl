@@ -1,0 +1,1 @@
+program C : W : takes F, Y, OS : integer returns nothing output - 45 > 0 . ""; do Ngg(9 > 9, 8) end UZma : takes n4, Q : integer array; i3 : boolean returns nothing kF, Q61a : integer array; V : integer array; z, Hk : boolean; let v = array 3100 end main : G3 : boolean array; pop end

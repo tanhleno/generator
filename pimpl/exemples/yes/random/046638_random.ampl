@@ -1,0 +1,1 @@
+program S : v08 : takes UmP : boolean returns integer array RY, D : integer array; output 83 - 10 = 17 end n : takes C8 : boolean array returns integer array I3 : integer array; input AN2; input P8; output 9 . "z\t" end main : B0, a6 : integer array; pop; input RlCa; pop 8 - 87; while 1690 /= 908 : pop; output "]" end; pop; while 2 : chillax end end

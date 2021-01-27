@@ -1,0 +1,1 @@
+program TK : main : b, M6M0a : boolean array; P, k : boolean; Wlba, w, YA : boolean array; m, J : boolean; D8 : boolean; when case - not false / (67000) - true and not 3090 : chillax end case - not k /= - not 7 : chillax end otherwise : pop; input w9Q0[4] end end

@@ -1,0 +1,1 @@
+program I : y : takes y : boolean returns boolean chillax end rz5aa : takes jo, cn : boolean array; w, Q1 : integer array returns boolean Z42 : integer array; p1, K : boolean; Q, P : boolean; z : boolean; chillax end main : do A08(- 7 + false - (2) and 45); input C; do Z70a(- (21) or 28 - 58) end

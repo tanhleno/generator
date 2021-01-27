@@ -1,0 +1,1 @@
+program f : A32 : takes gTS : boolean array returns integer array zY, W : boolean; while true or 74 >= - 980 - 30 : chillax end end main : do U4(1 and 2 rem(6580) or false and 362 + false and 0 + 01 - 4, - not 0 or 8 >= 23800); let y[not X / 57] = array - (5) * true; do d((3) and 40200 /= - 64 - 7, - 92, 165) end

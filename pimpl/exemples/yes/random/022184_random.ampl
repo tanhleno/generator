@@ -1,0 +1,1 @@
+program a : SgR : takes cW6, Ves : boolean array returns nothing r, Di8, P : boolean; input G; input N; input A end main : while - true + false + true - 9 : when case - 65100 > 75 : output "J~"; pop end; output 9 end; let G[- false * false and 7 or I6u and 33] = (2) and 86400; pop - 6 - 7020 end

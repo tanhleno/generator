@@ -1,0 +1,1 @@
+program i2 : gv3 : takes oS, Y : boolean array returns integer pop - 17; when case 0 - 3 : do J(8); do a(45); pop end end Cm : takes H, zU, G, F, y, w : integer returns boolean array chillax end main : d88 : boolean array; Z : boolean; chillax end

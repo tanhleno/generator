@@ -1,0 +1,1 @@
+program e : TZ : takes n : integer returns integer array H : boolean array; E : boolean; I7 : boolean; do a(- false or 5 - 1 >= 5 - 718) end main : output - not false - (9) and 8 or 721 - 91 < - (3) and 04 + 20 . - yo9aa and 8; when case t4ga(8) rem true : chillax end case - false and 14 - 4 : do r(9); let S1 = 21; while 8 : chillax end end case 41100 - 0 : chillax end end

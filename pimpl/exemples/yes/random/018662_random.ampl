@@ -1,0 +1,1 @@
+program P : C : takes q, D8 : boolean array; Q4, LSs, D, R0S, ee : boolean array; u, X, H0 : integer returns nothing L : integer; vuoaa : integer array; chillax end main : let f_ = array - 4400 - (6); output "" . - 38 - 6 <= 4810 . "]" . 2 end

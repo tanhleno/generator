@@ -1,0 +1,1 @@
+program Y : E : takes t1 : boolean array; c6g, X7, A : boolean array returns nothing do r(- N /= 114); output 3; while 1 = 196 : let i5o = 91; pop end end main : while - Z(634, 02) : while 5 < 4 : when case 5230 : chillax end end; input s0i0a[1] end; let s[not true] = - 8 - 462; pop end

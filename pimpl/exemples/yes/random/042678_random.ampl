@@ -1,0 +1,1 @@
+program pj3 : xE : takes I : boolean array returns integer array x9 : boolean; lReaa : boolean; S3, p : integer array; chillax end c14 : takes j, hl3, k : boolean; upN0a, g : integer array; c, S4 : boolean; kx80 : boolean returns boolean array let zk[- 900 - 27] = array 1 - 1; let Q6y0[48600] = 5 end main : chillax end

@@ -1,0 +1,1 @@
+program BQX : g2Naa : takes s, L4, D : integer; n, A, s, L2, M : integer array; E1 : boolean array returns nothing input U; do X(47600 - 8 > 648) end main : while true / (03) : while 8 : let w = 9; output "" end end end

@@ -1,0 +1,1 @@
+program Z2l0a : qu0 : takes xN : integer array returns nothing y : boolean; u240, d83aa : integer array; chillax end main : G7, Q : integer; when case not false : chillax end case - not not 79 rem false and 289 - false and 8 or 4 - 01700 : output 1; do H(6250, 6190); input n1t end otherwise : chillax end end

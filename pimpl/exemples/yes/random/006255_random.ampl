@@ -1,0 +1,1 @@
+program oYy : A : takes p, B8, W, V : boolean returns nothing input y600 end T : takes O : integer array returns nothing MD, J : integer; chillax end main : pop true + not 558 <= false and 59200 + 71300; do o(- NK[4] /= V7v) end

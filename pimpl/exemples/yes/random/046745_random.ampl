@@ -1,0 +1,1 @@
+program H : A : takes _ : boolean returns integer array a : integer array; chillax end o : takes D4 : boolean array returns integer array chillax end wdM : takes I : boolean; qj, B2, M_8, bd, I : boolean returns nothing E : integer array; s, de : boolean; input Lt[9960] end main : input y1; when case not 0 and false : chillax end otherwise : output "2" end; let e[true] = 39 end

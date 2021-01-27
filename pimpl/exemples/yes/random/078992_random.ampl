@@ -1,0 +1,1 @@
+program P : main : l : boolean; u, H : integer; b8, N : boolean array; e, Z8Taa, u : boolean array; h, H : integer; L, hce : boolean; G : boolean; while - false - 3640 or(05) <= not not 70800 * not 9 : chillax end end

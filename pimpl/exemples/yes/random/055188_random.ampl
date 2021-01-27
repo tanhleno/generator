@@ -1,0 +1,1 @@
+program kBy : O : takes T : integer array; _, i : integer array returns boolean t : integer; F : integer; i : boolean array; R, P15 : boolean; chillax end _ : takes apPa : integer returns integer array input ga[507]; output 42 end main : chillax end

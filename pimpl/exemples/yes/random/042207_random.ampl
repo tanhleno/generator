@@ -1,0 +1,1 @@
+program o23 : w : takes d : boolean array returns boolean Hcna : boolean array; W5X, K, xdCa, YF : boolean; u5saa, k880a, w : boolean array; F : boolean; chillax end main : p : integer array; du : boolean; output "6\\aa" . - J and 1 or 44500 = 6520 - 0 end

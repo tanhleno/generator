@@ -1,0 +1,1 @@
+program Sjc : cy40a : takes H470a : boolean array; S8t0, fp : boolean array returns nothing Se, d : integer array; chillax end h6x : takes Xw, V0k : boolean array; O, B3l0a : integer returns nothing x, B, DjV0a : boolean array; chillax end main : PP, KM : boolean; chillax end

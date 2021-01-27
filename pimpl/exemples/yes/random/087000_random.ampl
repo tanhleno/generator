@@ -1,0 +1,1 @@
+program x : main : _X30a : integer array; input O2V; when case false / m > - false : while 30500 = 6 : do N(1) end; when case 7 : pop end otherwise : chillax end end otherwise : chillax end; do c(- not 28 and 9 > 7 - 5) end

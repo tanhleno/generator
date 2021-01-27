@@ -1,0 +1,1 @@
+program F : i6 : takes a3, Y, u71 : integer returns nothing when case - false - 2 - 7 : chillax end; pop 6; pop 407 end c : takes t : integer array returns nothing chillax end main : output - true; while 68 : pop end end

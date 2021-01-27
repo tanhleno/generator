@@ -1,0 +1,1 @@
+program du : q : takes xS90 : boolean; U : boolean; N4e, t05aa : boolean; n3 : boolean returns integer chillax end main : do RZ6(false rem R(72) + true * (4) - Y - 7160 - 2, - true * not 7 and 79 <= 3 and 10 - 85) end

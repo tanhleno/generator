@@ -1,0 +1,1 @@
+program x8 : j : takes RVMa, N, SD : boolean returns nothing while(166) : pop 3; output "" end; while 7 - 9 > 57 : chillax end end main : yMi0 : boolean array; pop true / 6 - true and 366 > (10) or 1 - 785 end

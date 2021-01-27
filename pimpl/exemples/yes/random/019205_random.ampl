@@ -1,0 +1,1 @@
+program c : W : takes w, X : boolean array; L, cZo0 : boolean array; y : boolean; W58a : integer; O : integer array returns boolean x, i, v, wvj0a, Yo : boolean array; chillax end main : R76 : integer array; xY, bc, t : boolean; output "Z" . "11" . "" . 66 . ""; input N7[(52) and 8 - true or 9] end

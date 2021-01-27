@@ -1,0 +1,1 @@
+program T1 : H : takes k, Lm : integer returns boolean let w = - 5 - 71; while - 6 - 2190 = 4 : chillax end end main : xuP, Tr : boolean; output "" . - not 216 or 8 - 0 >= - 0; while 18 / 62 and 3 + not 83 and 6 <= - 242 + 18 : do iMm0(7 = 2) end; input ikq end

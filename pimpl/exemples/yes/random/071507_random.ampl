@@ -1,0 +1,1 @@
+program s1 : main : Sh, D, qM4aa : boolean array; K, t8 : integer; K, E81 : boolean; J91, ax : boolean array; let eZe[- false and x or i8(6) or RE] = true + c and 2 or 13 - 9 <= - not 0; while - 092 and wD : let S = array 37; output 5; pop end; input H; pop 21 = 6; pop 705; let _fe[727] = array 26; pop end

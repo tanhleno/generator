@@ -1,0 +1,1 @@
+program s : r : takes v48, n, E, I53a : integer array returns integer array while - (8) and 873 - 0 - 0 : while 86 : pop end end; pop 4 = 79; let r6 = 9; while 63700 : chillax end; output ""; pop end main : chillax end

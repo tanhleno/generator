@@ -1,0 +1,1 @@
+program X : main : g37 : integer; when case - (08 = 63) : when case 268 : chillax end otherwise : input e end end case yq3a(5) + (8500) and 14 : chillax end otherwise : chillax end; input YMw[- true rem 126 and 1 + 577]; let Lm[- uQW0a and 4 or 0] = 3 >= 9; do SwV(- 31 - 47400, 1 = 6, 5); input lZ end

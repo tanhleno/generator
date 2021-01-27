@@ -1,0 +1,1 @@
+program p : main : G : boolean; H : integer array; G : integer; when case - (9) - (958) + true and 6 : output 3620 = 782 end case(1) / not 7 and 81700 or false and 6 - 20 >= not 182 : chillax end case - (9640) : pop 6; let i = 85 end end

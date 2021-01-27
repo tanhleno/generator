@@ -1,0 +1,1 @@
+program f : x : takes s, d : integer array; YYA : boolean array returns nothing W67 : boolean; chillax end v : takes g4 : integer array returns nothing uLjaa : boolean; chillax end main : output q9(9770); do MK(- (38) rem(21), - 893 < 057, - 613 = 133) end

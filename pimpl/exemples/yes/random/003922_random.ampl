@@ -1,0 +1,1 @@
+program X7D : yo : takes Z, u, n0Wa, T, uA : integer array returns nothing while false and 5 : chillax end; input a[12 - 5]; do x(3530); do KC1a(194); let V0 = 038; output ""; pop end main : chillax end

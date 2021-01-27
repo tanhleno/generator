@@ -1,0 +1,1 @@
+program hSoa : main : F9, F8a : integer; P4 : integer; input q1[- 2 * true / true and 7 or not not 1340 rem false and 8 or not 017 and 79900 - 98]; do eI(- not not 3 / true /= 8 + 38); input y[- false] end

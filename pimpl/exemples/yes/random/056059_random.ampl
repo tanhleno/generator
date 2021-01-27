@@ -1,0 +1,1 @@
+program bu90 : I : takes r8 : integer array; V : boolean array returns integer array N : boolean array; do srla(- not 5 and 8440 - 13000) end main : I, v, G9, Q0, I79, YO, q8e : boolean array; T : integer; chillax end

@@ -1,0 +1,1 @@
+program Yl3 : Pf : takes q, p : integer array returns nothing while not 8 and 2 > - 89900 - 8 : input qa[0] end; pop end C : takes k7w0 : integer array returns nothing Y : boolean; output "d"; input OLP0a end main : k, JH, I7 : integer; while(0) <= 4 rem(28200) or c3da - 735 : chillax end end

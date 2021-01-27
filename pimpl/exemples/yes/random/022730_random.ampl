@@ -1,0 +1,1 @@
+program s : u : takes L, C : boolean array returns nothing output "j" end P : takes l, q : integer; Q : integer; c7P0a : integer; _6, b, X : integer; L0 : integer returns integer F4 : integer; when case 6 : chillax end end main : input C[- (67) * not(1) / 847 + (45500) + not 6]; pop R and 22 /= - 3 end

@@ -1,0 +1,1 @@
+program ABsa : A61 : takes q, I, g, AR40 : boolean array returns nothing do q(586 and 9 + 3 < - 9 - 20500, 32700, 9, 60200) end main : I8Q0a : integer; e, t0 : integer array; Y, Pv : integer array; f, y : boolean array; F28, t, _ : boolean array; z2 : boolean; chillax end

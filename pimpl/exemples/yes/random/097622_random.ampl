@@ -1,0 +1,1 @@
+program n2 : main : when case true : let R2 = array - 0 - 8500; while 56 = 1 : when case 8 : chillax end; pop end end case - not not 2 /= not 53 and 9 or 1710 : let m = array 92; when case 204 : pop end otherwise : chillax end end end

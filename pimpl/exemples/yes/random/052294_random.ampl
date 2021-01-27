@@ -1,0 +1,1 @@
+program bCi : W : takes YF80 : integer; bd : boolean returns nothing S3ua, s : boolean array; input D; do q(- 2, 7 = 5) end main : do K((9) and(9) rem true and 5 or Z53aa[1] rem not 7 and 010); let F[not(8) + not 46] = false > 49 - 914 end

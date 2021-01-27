@@ -1,0 +1,1 @@
+program K : ShRa : takes K : boolean returns nothing pop; while - 764 >= 26 : let d4 = 4 end end U8yaa : takes D : boolean; Lj : integer returns nothing input P; output "f" . "" end K9w0a : takes L, ja9 : integer array returns boolean array S3o0a, n25a, Hd : integer array; when case 56 : input s; pop end otherwise : chillax end; do x5(51, 2); do Ma(6) end main : chillax end

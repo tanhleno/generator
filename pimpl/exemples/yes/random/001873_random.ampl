@@ -1,0 +1,1 @@
+program PL3a : j27 : takes p, Lsoa, c, K390a, j, o1Maa : integer array returns boolean pop - 0 - 282 < 7; when case - 205 - 5 : do X(07) end; when case 3390 = 68 : chillax end otherwise : pop end; do MA(81) end main : output - 5 end

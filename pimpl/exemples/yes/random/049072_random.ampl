@@ -1,0 +1,1 @@
+program j : U : takes u : boolean returns nothing pop 926 >= 738; do J0(36 >= 41, 993 = 6760) end main : p1, p : integer array; T : integer array; A, gq, B : integer array; q7, m690 : integer; chillax end

@@ -1,0 +1,1 @@
+program W5G : main : kP9aa, p, y9, n : integer; output - not not 38 <= - 8 and 4 + 5520 - 6; while - false <= - (0) - 0 : chillax end; when case(4) and 2160 or 308 - 71 >= - 3 - 9 : chillax end otherwise : pop end end

@@ -1,0 +1,1 @@
+program A8u : main : when case(0) or(7) / not 178 and 7 + true < 44 rem p6x0 and 5 - g and 6 or 06 : let hI[- 29] = 140 = 69; when case 9 : when case 4 : chillax end end case 19700 : pop end case 1 : chillax end; input g end end

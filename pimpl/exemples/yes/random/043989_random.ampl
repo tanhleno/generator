@@ -1,0 +1,1 @@
+program c : S : takes x : boolean array returns nothing y0J0a, ola, w, Nz : boolean; input c[(1) and 1 + 3]; do r(- 1 - 7) end zd : takes dQD0, J, G, b : integer array; M, I, XG, RDw0a : integer array; h4E, r : integer array; G, X3 : integer; YZL0a : integer; t : boolean returns nothing input f[- 58 - 94400]; output ""; do l(2, 3) end main : output not mE2 and q and 47700 end

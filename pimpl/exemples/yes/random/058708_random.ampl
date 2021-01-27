@@ -1,0 +1,1 @@
+program j : _ : takes o2 : integer array returns integer array do a(true and 09 - 2 > 9) end main : when case - K : chillax end case - not false > 67 and 45 : when case 66900 = 68 : chillax end; when case 0 : chillax end case 6 : chillax end otherwise : chillax end end end

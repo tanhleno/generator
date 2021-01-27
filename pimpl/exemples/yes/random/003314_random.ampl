@@ -1,0 +1,1 @@
+program i : g : takes C, Jc, _, htDa, l : integer; c42 : integer; Dq, hlu : integer array returns integer array chillax end main : S : boolean array; input r; let i2[false] = false > 5 - 869; while true <= 5 - 2 : when case 5 : chillax end end; pop; let y7C[0] = 3 end

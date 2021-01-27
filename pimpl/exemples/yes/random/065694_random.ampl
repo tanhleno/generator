@@ -1,0 +1,1 @@
+program p : main : do zm((0) rem false < - (6190), - (33) rem false - true and 2 or 7 /= o4 and 54 + 7 - 6, - true < 2220 - 0); let g = false; output 10 - 0; input BdM0; input m[98]; do T0V(0, 50) end

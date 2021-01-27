@@ -1,0 +1,1 @@
+program z : noU0 : takes C9 : integer; W, u, o : boolean array returns integer array CS : integer; when case - w and 41900 : chillax end; when case - 1 - 07 > 64 : chillax end case 38 = 1 : when case 25 : chillax end; pop end; output 7 end W : takes s, l2Ja, T : integer; Z : boolean returns integer do z5(5 - 00 > 048); pop 6 end main : tT : integer array; chillax end

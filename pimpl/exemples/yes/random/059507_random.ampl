@@ -1,0 +1,1 @@
+program S2 : Y : takes n : integer array returns integer input Ai[- Tq6aa] end main : L : integer array; when case - (1) * k(6) and not 68 - not B and not 76 : pop 0 end case - 12 /= 54 and 01 or 1 - 908 : input g6A[4] end case not 20 and 3 - 5 : chillax end case 027 - 430 >= 9 : chillax end case 9870 = 345 : chillax end end

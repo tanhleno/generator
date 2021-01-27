@@ -1,0 +1,1 @@
+program iYk0 : main : while(57) and J(0) and OX8 and 1 < - false : chillax end; do L3(397 + true >= (190)); while - MW and 7820 - 14 : output 9 . ""; pop; input LU30a end; when case 63300 < 2 : let n = 18 end case 6 : while 7 : chillax end end; output "" . 38 . "5j"; pop end

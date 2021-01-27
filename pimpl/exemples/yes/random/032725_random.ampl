@@ -1,0 +1,1 @@
+program N : RE2 : takes Mo, q : integer returns nothing f510a : boolean; X4, p, n, R : integer; o : boolean array; output "c\n!" . 8 . 5 . ""; input Bn; output "\"" . ")" end main : n, Z, kn, g : integer; while(64500 = 9220) or not true + X - 9 - 98 : chillax end end

@@ -1,0 +1,1 @@
+program u : _ : takes W : boolean array; p7 : integer; qM : integer array; p : boolean returns boolean while - b and 6 = - 9 : while 13 : pop end; while 5 : chillax end; input v; pop end; do L73aa(- 0 - 3, 163); input L[866] end main : while - true - true : chillax end; input L; output - 5; do C(- 9040 - 05, 30 = 2); pop; output 2710 . "\t" end

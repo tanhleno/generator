@@ -1,0 +1,1 @@
+program H : F9D0 : takes C : boolean; jlZa : integer returns integer chillax end rp : takes g, m, z, w, b : boolean; BXB, Z8 : boolean array; V, t : integer returns nothing pop end main : r, g, T, U, e, eh : boolean array; chillax end

@@ -1,0 +1,1 @@
+program P : main : while - not true + not true * D >= (4) : while - 740 : output "" end; let aU[23] = 08; input U; let P = 44; when case 03 : chillax end end; while not 4 or true and 4 : output "I"; input _k[49600] end end

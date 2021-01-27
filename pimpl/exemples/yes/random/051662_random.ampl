@@ -1,0 +1,1 @@
+program KQ : s : takes L : integer; A : boolean array; P, I : boolean array returns boolean chillax end D : takes f : integer; k : boolean array returns boolean n : integer; kwU : boolean array; M, p : boolean; Q : boolean; let A5 = 921; input R7 end a : takes R13a, r6 : integer returns nothing N : boolean array; chillax end main : chillax end

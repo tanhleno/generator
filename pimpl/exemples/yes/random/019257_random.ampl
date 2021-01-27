@@ -1,0 +1,1 @@
+program Bw : N : takes Y, E : boolean array; Z, U : boolean array returns integer array chillax end z : takes wv6, r, Y, g, p, UZ : integer returns boolean array P : boolean array; D70, w2, U : boolean array; input W; output 0; output "\"" . ""; output "C0"; while 47 : chillax end; pop end main : c8 : boolean array; xd1, Lg : integer; YJ00a : boolean array; chillax end

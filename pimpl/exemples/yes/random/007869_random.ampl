@@ -1,0 +1,1 @@
+program D : y4 : takes s6ea, h, o0, o : integer array returns nothing pop - 8 end main : Z3, v, S98, D9 : integer; while - true : chillax end; do T7o0(- false and true and 2 or true and 0, not 1, 5140 - 17, 018 = 6); let N = - 131 <= 1470 end

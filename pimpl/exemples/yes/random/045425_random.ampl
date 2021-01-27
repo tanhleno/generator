@@ -1,0 +1,1 @@
+program q2G0 : N49 : takes J : boolean returns boolean array chillax end bF20 : takes RP0aa : integer; d, t9, N : boolean returns nothing O5, s, Bi : integer array; let e600[43] = array 6 end main : N37 : integer; do D94aa(not O[7], - i[0] / false or 93); pop 4 and 6 - 1 - 75; while - not 84 + 62 - 67 : output 380 . "\\3a"; input P end end

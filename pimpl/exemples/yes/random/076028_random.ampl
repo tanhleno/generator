@@ -1,0 +1,1 @@
+program pc : main : W, v : integer; S, T2Ra, J : integer; input tC3a[- false - true * not 4 + true and 8 or 03 - 07]; when case - true / false : output 48; when case 410 : chillax end case 7780 : chillax end; output ""; pop end end

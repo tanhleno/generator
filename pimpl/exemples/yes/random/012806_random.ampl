@@ -1,0 +1,1 @@
+program ck : p : takes _, F6haa, rF : integer; i2J0a, dB : boolean; b, _, O, gDh : boolean array; Z9Oa : boolean array; K, vY20a, a : boolean array returns nothing i83, H15 : boolean array; hj : integer array; PT, lx, x : boolean array; chillax end main : chillax end

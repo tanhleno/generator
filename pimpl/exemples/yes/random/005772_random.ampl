@@ -1,0 +1,1 @@
+program m : c : takes ffe0, k, sT30a, gh : boolean array returns nothing when case - 45 - 0 : chillax end case - 9 > 90 : pop; output "7"; pop end case 12900 : while 5 : chillax end; pop end end main : while - (1) / 57 and true and 411 >= not m * o or not 0 : while 21 - 27 : chillax end; let A[3] = array 95 end end

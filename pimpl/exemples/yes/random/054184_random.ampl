@@ -1,0 +1,1 @@
+program v : w : takes W : integer array; _, o, Tt6 : integer array; n, y, g, e : boolean; b : boolean array returns boolean array y : integer array; pop - 2 > 7 end main : buq0a, _, t : integer array; pop; output false and 7 end

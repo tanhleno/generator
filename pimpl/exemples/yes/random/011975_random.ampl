@@ -1,0 +1,1 @@
+program dd2 : E2 : takes TG_, g, x : boolean returns integer Q : integer; Q, M : boolean array; M940, S0d0 : integer; chillax end main : ao : integer array; z : integer array; while true - not 70 rem not 1150 or not 975 and 5 >= - false * false and 3 or not 9 : chillax end end

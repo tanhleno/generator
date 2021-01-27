@@ -1,0 +1,1 @@
+program bi1a : a3 : takes r : boolean array returns boolean array chillax end g : takes d, RND, b : integer returns nothing chillax end G95 : takes g : boolean; wT : boolean returns nothing BE1aa, C : integer; chillax end yN : takes P : integer array; e86, CwV0, p, c1 : boolean; M, e, Y : boolean returns integer array t03aa : boolean; chillax end main : chillax end

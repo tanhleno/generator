@@ -1,0 +1,1 @@
+program Yvta : main : pop; while - xT[49600] + false and 278 /= (372) and 0 + 9 - 4 : when case 7 : chillax end case 411 : chillax end end; do Em60(not 3 and 22 + 3); while - 991 - 86 <= 1 : chillax end; let r[78] = 3; output "" end

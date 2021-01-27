@@ -1,0 +1,1 @@
+program o04aa : _7 : takes Q, L : boolean returns boolean chillax end main : pop false = - (5) and 12600 + 9 - 9960; while - true : output 34; pop; while 30300 : chillax end; when case 8 : chillax end; pop end end

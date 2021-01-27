@@ -1,0 +1,1 @@
+program I : j5T : takes qT, H : boolean returns nothing v, e : integer array; when case true and 3410 - 3 >= - 7 : chillax end case 98 - 71 = 8 : chillax end case 2 : chillax end; pop 9 = 3 end main : r_, C, Y : integer array; T : boolean; input p1Ka end

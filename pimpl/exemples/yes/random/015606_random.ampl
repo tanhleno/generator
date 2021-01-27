@@ -1,0 +1,1 @@
+program y9 : e : takes VlQ, i, R : integer array returns nothing when case - not 1 : pop 76; while 74 : chillax end end; when case - 420 - 918 = 6 : chillax end case 5 = 429 : chillax end case 4 : chillax end case 0 : chillax end; input OM2[30]; output 45 end main : g0 : integer; chillax end

@@ -1,0 +1,1 @@
+program u : main : when case(9) - not true : chillax end case 7 : pop 80 end case false and 2 <= 4 - 66 : while 3980 : chillax end end case - 41100 - 5 = 8 : do o9(917) end case 8 : let Q = 88; pop end otherwise : pop 8030 end; input s end

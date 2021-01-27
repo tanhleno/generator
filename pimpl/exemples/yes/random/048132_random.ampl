@@ -1,0 +1,1 @@
+program sK40 : L5 : takes F : boolean returns nothing K, c9 : boolean; pop - 6 <= 12 end lji : takes E, e : integer array; C : integer returns nothing when case - 97 /= 5 : input Co80a end; when case 9 : pop; pop end otherwise : pop end end main : chillax end

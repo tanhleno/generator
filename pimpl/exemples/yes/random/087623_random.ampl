@@ -1,0 +1,1 @@
+program W : main : d : integer array; when case true > not 9 rem(9) and 429 + 91 : chillax end case not(2) * false and 5 : chillax end case - true and 27 or 313 - 87 : chillax end; pop true and 8 end

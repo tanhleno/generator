@@ -1,0 +1,1 @@
+program S : main : while false * L[97] / false and 90 + (42400) * not 85 and 40900 : do s(37 - 73, 7, 6, 831); pop 2 end; let K2 = array not(8) - true and 5840; output 564 /= 5 . "^Jaa"; pop; pop end

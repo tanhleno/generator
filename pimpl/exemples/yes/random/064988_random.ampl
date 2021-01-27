@@ -1,0 +1,1 @@
+program ecT : R : takes n : integer returns nothing y : integer; f : integer; JMy0 : boolean; I57aa : boolean; input H[(4150) and 11100 - 8] end AD : takes L, m : integer array returns nothing chillax end Q : takes vH, zn8a : boolean array returns boolean w2 : integer; while 4 = 723 : chillax end end main : chillax end

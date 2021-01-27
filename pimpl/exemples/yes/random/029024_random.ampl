@@ -1,0 +1,1 @@
+program d : j : takes A, aL : integer array; m : integer array returns nothing g : boolean array; chillax end main : Z, X : boolean array; q : integer array; V4 : boolean array; do p(- Y[4] + B(2) - false - 0, - 470 * k or false and 0800) end

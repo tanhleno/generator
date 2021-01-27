@@ -1,0 +1,1 @@
+program hsm0 : Wj : takes _, Y : boolean returns nothing chillax end r : takes t : integer array; T : boolean; l7G0 : boolean returns integer array ua, f2 : boolean; oY, kn, m : integer array; let Gb[5 - 2] = 787; input d2n0; do jmI0(05, 4); input r end main : QUn : boolean; chillax end

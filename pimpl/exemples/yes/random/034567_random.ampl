@@ -1,0 +1,1 @@
+program r : WV : takes H : boolean; Z7, lpdaa : boolean array returns nothing do K(not 9 = - 5880 - 51); output "f\"aa"; let DA5 = 8 end main : A930a, X, C, Q : boolean; Ac : boolean; ox, e : boolean; let L18[(15 = 0790)] = array - not false / true / true; output(7) and 2 >= 704 - 98 end

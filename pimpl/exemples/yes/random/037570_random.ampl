@@ -1,0 +1,1 @@
+program E8 : u : takes f : boolean array; yQJaa, Q, P, k, Th, h240a : integer returns integer y : boolean array; IL80, M, s9 : boolean array; input ul[(5) or 328]; output "" . 04 end O3 : takes w : integer returns nothing let tTJ = 9 = 795 end main : TZ5 : integer array; while true and true : chillax end end

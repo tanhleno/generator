@@ -1,0 +1,1 @@
+program gtY0a : main : while(7 = 144) * not false / (1) + true / 6040 and 8 > not not 85700 : output 9 . 9 end; when case 7 or true and 3 /= 3 or 1 : pop 47; input WKA0a end case true and 747 + 3 - 2 : chillax end; pop; let q[- 4 - 733] = 061 end

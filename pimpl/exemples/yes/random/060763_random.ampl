@@ -1,0 +1,1 @@
+program Fk2 : l22 : takes y98a : integer array returns nothing F00 : boolean; o, X8g : boolean array; chillax end w9 : takes N : integer returns boolean array YA : boolean array; g, n, JE : integer array; Gm : boolean; chillax end main : l : integer; when case - not _[15] and true and 4 and 57 + true * false and 03 - C99 >= true : chillax end end

@@ -1,0 +1,1 @@
+program M5 : a : takes K : integer array; XyA0a, L : integer returns integer array chillax end main : C23, u5, x, e37 : boolean; _, Q3 : integer array; output ""; while - true rem true and 4 : let w1C0a[48] = array 7; input c; output ""; let i = 4880; pop end; pop - 8 = 28; output ";2" . 9 end

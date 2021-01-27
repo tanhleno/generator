@@ -1,0 +1,1 @@
+program dp20a : main : K8ta : integer; bua : integer array; let T = - (6) / true = - false - 5; while false * (2) and 45 + true and 6 : do r450(7); do k(20, 152); pop; let dcka = 08; pop end; do _980a(- 959 and 9) end

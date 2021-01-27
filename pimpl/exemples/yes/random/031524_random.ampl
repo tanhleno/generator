@@ -1,0 +1,1 @@
+program uvzaa : B : takes d8, xn : integer returns boolean Q76, yA, Fq : integer; w7f : boolean; DD, v : integer array; chillax end k6 : takes Nn1aa : integer returns boolean array F, T, D, fVg0a : boolean array; chillax end main : c, X, z : boolean; A : integer; I, i, T : integer array; D, K, K, l : integer; output "2" . - (09000) < - 7 end

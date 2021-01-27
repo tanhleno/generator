@@ -1,0 +1,1 @@
+program wo3aa : f1 : takes B, D, P, T, y5ea : integer; gm : integer array; m : boolean array returns boolean Q, J : integer; E, f, L, u : boolean; O3, R, F9 : boolean; chillax end p0 : takes R, S : boolean array; ac : integer returns integer array output "" end D : takes fQma, h : boolean array; f5 : boolean returns integer array t, p7 : boolean; do x(13) end main : pop end

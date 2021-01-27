@@ -1,0 +1,1 @@
+program C7 : AI : takes F : integer array; hhoa, j830, L3raa : integer array; j0 : boolean; d, d, V, l9 : boolean array returns boolean array do a870(- false - 9 - 580 /= 4); do gr(- 7 /= 9, 70) end main : Zf : boolean; Vw : integer; chillax end

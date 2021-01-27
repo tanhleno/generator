@@ -1,0 +1,1 @@
+program q : B : takes u, _17, n, h9K0a : integer array; D9, a : boolean; s : boolean returns nothing when case - 9 : chillax end end K0taa : takes I6 : boolean returns nothing chillax end main : while 04 or true /= - false : chillax end end

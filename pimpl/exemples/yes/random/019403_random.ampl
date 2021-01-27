@@ -1,0 +1,1 @@
+program hd : e900 : takes G510, f : boolean array; n, Z : integer; P : boolean; o, dY : boolean returns nothing G, b : boolean; P5 : integer array; chillax end main : F : boolean array; when case not true >= - true - J and 30 - 6 : chillax end; output "" . "1" . "" . "" . "L%!" end

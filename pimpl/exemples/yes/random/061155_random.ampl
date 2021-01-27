@@ -1,0 +1,1 @@
+program i : q4 : takes Xd5 : integer array returns nothing Hd2 : integer array; H : boolean array; let V92a = - 4 > 62000 end main : let F[not o[3] and not(4)] = array - h[4050] - not(67) and o + f4; output true and 55 < - 4 - 9 end

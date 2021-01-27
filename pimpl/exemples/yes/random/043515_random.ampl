@@ -1,0 +1,1 @@
+program sD : d : takes ng8 : boolean array returns nothing chillax end Q : takes rH, cG : integer array; G, b9, tns0 : integer array returns integer chillax end d : takes a : integer returns nothing x : integer array; w5, bBJ : boolean; do eu5a(5, 2); when case 72900 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program JWy : x : takes Y : boolean array returns nothing M100a, T : boolean array; Q1baa, Q, pA9aa, D : integer; input K; when case - 053 - 3 /= 2310 : chillax end case 7 : output "7\n" end case 4 : pop end case 5 : chillax end; while 4 = 900 : chillax end; output 3 end main : chillax end

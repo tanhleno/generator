@@ -1,0 +1,1 @@
+program w : i : takes s, u, i0, l3, m, v16 : boolean array returns integer array b, qF : integer array; do hoS((7) and 6 - 5, 1 - 8 >= 5, 466 = 77200, 72) end main : let A6 = - xq80a(10) and(1) /= - true; input W end

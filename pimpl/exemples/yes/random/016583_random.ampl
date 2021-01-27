@@ -1,0 +1,1 @@
+program _ : Q7daa : takes p97, k, PS : integer returns nothing pop; let R[1 - 24] = array 100 - 779; do iC(7, 0, 4230) end main : when case - true = not true and false - T + 930 - 0 : chillax end case - (93) rem false - (6) + 38500 - 05700 : chillax end otherwise : chillax end end

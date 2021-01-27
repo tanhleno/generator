@@ -1,0 +1,1 @@
+program s8 : L8ia : takes OE : integer returns nothing _0, H : integer array; yTGaa, etR, r, K0A0 : integer; when case - not 29 and 133 <= - 8 : chillax end otherwise : let I = 9 end; input n8; input g[92] end main : output not lV rem true < - (7) + 68 - 579 . - not 544 or 8 <= - 7 end

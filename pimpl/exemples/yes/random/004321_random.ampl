@@ -1,0 +1,1 @@
+program O7R : q : takes Eo2, N2r0, I1s, CQ6 : boolean; D, s : boolean; E : boolean returns integer array L1, z1, t, Qw : boolean array; do J(- false and 958, - 7) end p8 : takes x12aa, Cz : boolean returns nothing u, Bd, B6, T0 : boolean; when case - 3 /= 7 : chillax end case 11 = 94 : input z2 end case 95 : pop end case 32 : chillax end otherwise : chillax end end main : pop end

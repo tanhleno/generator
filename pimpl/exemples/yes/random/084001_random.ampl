@@ -1,0 +1,1 @@
+program V : main : A : integer; F : boolean; let l[- v or true rem(3) - false] = - false or not 894 and 40 - 64; do m(- true, - not 048 or 77 /= 1); do S77(false and 269 < - 83 - 8, 5 <= 79, 9850 = 631, 8420) end

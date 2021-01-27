@@ -1,0 +1,1 @@
+program Z6 : u : takes r : boolean array; g : boolean array returns integer chillax end main : d : integer; let R = array false * false or true / not 7 + e; do s5(not false * not 96 < 547 and 441, - 1 and 2 or 6); let m5 = - 0 > 4; do ke0(- 4 - 952 >= 6); do S(4); output 4 . "1t!" end

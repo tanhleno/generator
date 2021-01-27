@@ -1,0 +1,1 @@
+program B : x : takes G : boolean array returns boolean do S5((261) and 9 or 02); pop; output 8 . 64 . "2" end main : Vxc, oWZ0a : boolean; while not false = (7) rem not 8 + 96 - 4640 : chillax end; do Y(not true * Y - true - 8 - 2); while - (0) - 786 - 806 <= 1 : input K[2]; pop end end

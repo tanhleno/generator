@@ -1,0 +1,1 @@
+program b4X0 : kn : takes X, F1K, e31, m1Qa : integer returns boolean Se : boolean array; R0 : boolean array; let u = - 1660 - 75; while 3 - 07 : pop end end B9F : takes a : integer array returns nothing chillax end r : takes M3Z : boolean returns boolean array chillax end main : n, E, o, O8 : boolean; pop end

@@ -1,0 +1,1 @@
+program U : Q : takes Qv, M5g : integer returns boolean array do W(not 6 and 97900); while - 549 - 08000 < 03 : chillax end end main : J0j, x67 : boolean; z, P : integer array; Ly, v8, Cy : integer array; while - y[8] + not not 8 + false + 00 : while - 98 - 8 : chillax end; input S27a end; let x = array not true + (999) and 04 - 4; input LaTaa end

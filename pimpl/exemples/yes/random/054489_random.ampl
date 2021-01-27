@@ -1,0 +1,1 @@
+program TD : e : takes d : integer array; w5, WR : boolean array; S, d, M4, g7, W, b7 : boolean array returns nothing chillax end main : let kf4 = array - 47 - (2380) rem not 47 and 41 + B + 0 - 3; do r1(false - not 2 + 26900 < C, not 15 and 5260 - 30 - 961 <= 583, - 502 - 27300); do G(- false, - 9870, 84 = 1) end

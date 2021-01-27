@@ -1,0 +1,1 @@
+program h7Y : A : takes P : boolean; F7 : boolean returns integer array let D3E = array - (89) and 69; let V[- 0610] = array - 52 end z : takes u, k : integer array returns integer H : boolean array; k : boolean array; chillax end Pwv : takes Pf20a : boolean returns boolean array output 3 end main : chillax end

@@ -1,0 +1,1 @@
+program rl : main : when case i920a[8] / 0 + 02 * 6 and 6 : chillax end case - 46 : do F(9, 5); input g3 end case - (92200) or 74 - 8 : chillax end case 7 - 221 : chillax end otherwise : input F; output ""; do b(3); output ""; pop end; let i[- not 55 * 8] = array - false and 0 end

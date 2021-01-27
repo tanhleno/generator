@@ -1,0 +1,1 @@
+program i : u1c : takes RE2, G350a, s : integer returns nothing L : boolean array; pop; pop end main : when case - 516 and false / 2 and 23 or xr7 : output 5 . 4 . "D" . "" end case v and o and 54 : output 0 . "\n" end end

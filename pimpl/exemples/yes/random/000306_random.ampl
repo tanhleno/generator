@@ -1,0 +1,1 @@
+program Y : WX : takes p2, CS, C5, y, gC2, f6, o5Z, Y : integer; V, s, X : boolean array; p, h8, y1 : boolean returns boolean output ""; let g[8 - 023] = array - 43; while 343 = 7 : chillax end; output "f@" . "" end main : chillax end

@@ -1,0 +1,1 @@
+program Uc : kP7a : takes M : boolean array returns integer lJ, i : integer; KNb, j, b3 : boolean array; input Y end main : do P((32) rem(0) <= l(72) + 5 - 5 - 2430); pop - not 8 - 2 - 8 /= 8 - 32 end

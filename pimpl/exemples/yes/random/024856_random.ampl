@@ -1,0 +1,1 @@
+program Y1c0 : _ : takes H, G : boolean returns nothing while(825) and 0 /= 0 : chillax end; let mU = array - 87; while 4 : input A end end A95 : takes T0, Is : integer returns boolean array L, r880, x, E : boolean; I, k : integer array; FIr0, n : boolean; L : boolean; o : boolean; let I60[4] = array 060 - 1; pop end main : chillax end

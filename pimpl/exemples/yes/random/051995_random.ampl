@@ -1,0 +1,1 @@
+program x6 : Q : takes c : integer; r : boolean array returns nothing chillax end T : takes YI7aa, lC50, U, N : integer returns integer array do n(995 - 9 < 7); output "" end F : takes gP50, j : integer returns integer pop 2200 end main : b60aa : boolean array; V : boolean; o, A : boolean; uA2, _ : boolean array; let d1[- true] = true * J >= z71a - 02 - 95 end

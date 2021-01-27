@@ -1,0 +1,1 @@
+program o2 : g : takes r8 : boolean array; Q : integer array returns nothing chillax end L : takes ga6, zl00 : integer; tj, e : integer returns boolean array when case 5 - 49 : chillax end otherwise : while 1 : chillax end end end main : chillax end

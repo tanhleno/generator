@@ -1,0 +1,1 @@
+program x : f8 : takes m1L0 : boolean array returns nothing chillax end main : g, Oa, R2 : boolean; z100a, N2, D8 : boolean array; k06a, x54 : integer array; output true rem(2) and 641 < - 73 and 8 + 73 - 0 end

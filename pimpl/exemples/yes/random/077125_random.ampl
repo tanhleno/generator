@@ -1,0 +1,1 @@
+program m : main : h, C : integer array; I97, E, ZD, Ox, Y : integer array; _ : boolean array; when case - false * true rem not 9 and 9 > 8 rem 3 and 1 : while 6850 - 59 >= 220 : input r390a; pop; pop end end otherwise : chillax end; when case false + true - 7180 - 0 : chillax end case Wk_aa and 3 - 8 - 6 : chillax end otherwise : chillax end; input z3; pop end

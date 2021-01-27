@@ -1,0 +1,1 @@
+program T_ : main : o, m3 : boolean; t : boolean array; pop - 1 < (36) and 4 + 9 - 2; do D(Z(7) rem Q /= - _ - 1 - 1920, not 1 and 5650 < 1, - 4450 <= 54, 96 = 8); let H = array - not 9380 and 4 + 21 - 86 end

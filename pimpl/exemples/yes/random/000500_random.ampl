@@ -1,0 +1,1 @@
+program T : xY : takes p, iu, x, szb, h, hF00a, RB, D : integer returns integer array let f[x or 308 - 0] = 3; when case 9 : chillax end otherwise : chillax end; do w(1); do RJ(016); do Ko(4); while 39 : chillax end end main : v9 : boolean; chillax end

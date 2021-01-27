@@ -1,0 +1,1 @@
+program gCR : iPQ : takes m : boolean returns nothing do s(z_ and 009) end xo : takes B, J : boolean; K : integer array returns nothing do M13aa(46 <= 071); while 8 = 246 : do G(755); pop end end main : K, xV4, t4N, Q3, W1 : boolean array; let X[- not(111) / false / 8 and 0 or true * false - true and 04 - 83] = array(2) / (3260) rem not 0 end

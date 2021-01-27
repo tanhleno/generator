@@ -1,0 +1,1 @@
+program o71 : I : takes H : boolean array; IN : integer array; U_, l, l : integer array; I, V4, _ : boolean array; U280 : integer array; i9, w, G : boolean; d : boolean; M : boolean returns integer chillax end i : takes n, O5 : integer array returns boolean array G : boolean; chillax end E12 : takes A : integer returns nothing chillax end main : r : boolean; chillax end

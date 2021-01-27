@@ -1,0 +1,1 @@
+program Y : main : let A7 = - true or true and 2 < - mA and 1; do d01(- false rem true); when case 28100 - 10000 - 10 < 9 : input t end; when case - 7 - 08 : while 6 : chillax end; when case 275 : chillax end end otherwise : chillax end; let M[3] = array 5 end

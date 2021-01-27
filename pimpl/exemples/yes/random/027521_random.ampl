@@ -1,0 +1,1 @@
+program b : N : takes G, mv : integer array; f, o42aa, hG : integer array returns nothing H, d : boolean array; chillax end main : output ">"; do b(- (0070) + not 628 and 75 or 6 > - false, - false and 56200) end

@@ -1,0 +1,1 @@
+program owa : Cr : takes X, Y6 : integer; ji : boolean array; S5 : integer; d : boolean; _M, C0m : integer array; nEM0 : boolean returns boolean chillax end main : Q : boolean; while(71 = 2) or 6 * not 7 and 22700 or true and 68 - 4 <= - false * false and 075 or 78 : chillax end end

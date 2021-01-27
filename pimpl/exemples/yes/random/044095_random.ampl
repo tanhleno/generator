@@ -1,0 +1,1 @@
+program e : p4 : takes U5p : boolean array returns nothing UB, x, l : boolean array; while - (79) >= - 05 - 1 : when case 9 : chillax end otherwise : chillax end; while 9350 : chillax end end; when case - 35 - 7 : chillax end end main : chillax end

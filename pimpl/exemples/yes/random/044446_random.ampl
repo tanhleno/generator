@@ -1,0 +1,1 @@
+program C : H640 : takes T6 : boolean array returns nothing z8 : boolean; y7, G, y, Q : boolean; input o; let F = 0 end main : d1 : boolean array; wd, b, P, G6, T : integer array; while - 1 rem R rem 356 > - (739) * 3450 : output "\t\t" end end

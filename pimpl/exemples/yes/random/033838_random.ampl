@@ -1,0 +1,1 @@
+program Qw50 : vx : takes b6 : boolean; O, zf7, Qa4aa : boolean array; x3V0 : boolean returns nothing P : integer; m, f1xaa : boolean; Q, J2 : boolean; chillax end m : takes o : boolean array; A : integer returns nothing vF, _TMa : integer array; K : integer; input r; let jP[4] = 6310 end main : b : boolean; P7Waa, K1 : boolean; pop; let A9 = - true end

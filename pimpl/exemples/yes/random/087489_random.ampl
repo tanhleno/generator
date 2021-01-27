@@ -1,0 +1,1 @@
+program SL_aa : main : N3s : integer array; when case - (6) rem(4) rem not 23 : chillax end otherwise : output 8 . 292 . "" end; pop f; while true or 5270 : output 0 . "" end; let _ = 6 = 24; do D79a(5, 23500, 014); while 4940 : chillax end; let KvB = 4 end

@@ -1,0 +1,1 @@
+program p : Jo : takes H, X8 : integer array returns nothing x, KDYa : integer array; V, lb : boolean array; when case A5_a + 55 - 3 >= - 180 - 21 : chillax end otherwise : when case 6 : chillax end; input XC; pop end; let ue30 = array 74 - 1; output 9860 . 9 end main : output false - (05) and 928 + 5 > - (4) and 9 . "" end

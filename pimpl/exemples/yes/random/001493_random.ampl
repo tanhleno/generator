@@ -1,0 +1,1 @@
+program Z : C : takes jt80, R, R47, i, r9h, M : boolean returns boolean chillax end AT5a : takes M, a, V0B : boolean array; q0Sa, u, o, UL : boolean returns integer while - 5 - 37 : pop; while 708 : chillax end end end main : chillax end

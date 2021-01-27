@@ -1,0 +1,1 @@
+program CXq : X1h : takes h, J, IF4, GYFaa : boolean array returns nothing pop 3 - 425 end main : let m0B = array - (4 = 6) + true and 6 - m and 4 or 11200; pop(384) and 56 /= 4 - 5; while - (4) and 0 = - 75 - 2 : input z[02]; let a = 02100 end end

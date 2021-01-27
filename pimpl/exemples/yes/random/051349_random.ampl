@@ -1,0 +1,1 @@
+program y3Naa : q16aa : takes Q : integer; o : boolean; Yv, A, b : boolean; sQ : integer array; yW, D5, j, f5 : integer returns boolean chillax end main : Mp : boolean; Q, J, n3 : integer; L, c, N, p : boolean array; chillax end

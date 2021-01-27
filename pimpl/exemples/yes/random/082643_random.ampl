@@ -1,0 +1,1 @@
+program MX : main : R : boolean array; when case(14400 = 848) - false rem false and 0 or 47 and 1690 : input E; output 5 . "r\t"; when case 7 : chillax end otherwise : chillax end; output "" end otherwise : chillax end; input S[(20)] end

@@ -1,0 +1,1 @@
+program j : w19a : takes rCQ, G8F : integer array; Q : integer; K : boolean array returns nothing do O8(false and 7 + 04 - 230) end main : nVMa, j, O : boolean array; f, gZ60, H : boolean array; pop(428) rem true >= true or 6 - 2 end

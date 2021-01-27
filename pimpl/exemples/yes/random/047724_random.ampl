@@ -1,0 +1,1 @@
+program G53 : fCq : takes Fg : boolean returns nothing chillax end main : Y : integer array; W, d : integer; U7 : integer; f : integer; wDiaa, i3 : integer; output ""; output "" . "["; do _k(- true > - 5 - 48900, - 017 - 1 /= 6, 1 = 5); let Fg40a[6 - 8] = array - 03; do qR80a(0 = 3); let a[90] = 2; output "4"; input p88a; pop end

@@ -1,0 +1,1 @@
+program I : W66 : takes Se : boolean array returns nothing c, E : boolean; P80, rHeaa : integer array; input N end J : takes Y : boolean array returns boolean array B : integer; input qb[- 21]; while 38 : chillax end end main : X : integer array; input d end

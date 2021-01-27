@@ -1,0 +1,1 @@
+program ZA : n : takes jN : integer returns nothing chillax end main : when case - not not(5) + _ < - L : chillax end case - 6 and 52800 : chillax end case false = - 84 : let G = array 3; output "\"" end case - 4 - 7 < 23300 : let e = 80; do y(1) end case 08 : input c end otherwise : pop end; let P9k = - 8 - 6 - 4 end

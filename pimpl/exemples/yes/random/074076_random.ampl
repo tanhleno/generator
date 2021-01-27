@@ -1,0 +1,1 @@
+program o4 : main : k0B, c : boolean; c2 : integer array; when case 476 <= true + (53) - 7 : pop; pop end case 65 > - E5 : do w(7 = 8); when case 72 : chillax end case 4 : chillax end otherwise : chillax end; when case 17 : chillax end end otherwise : input b7; do oyZa(80); pop end end

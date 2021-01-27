@@ -1,0 +1,1 @@
+program _ : l : takes O : integer; k, D : integer array returns integer sN70, I : integer array; O, Y : integer array; chillax end p32 : takes F4 : integer array returns nothing pop end z : takes s : integer array returns integer array chillax end f : takes V : boolean array returns nothing e : boolean; chillax end main : chillax end

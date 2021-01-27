@@ -1,0 +1,1 @@
+program _ : t : takes ti : boolean returns nothing kp : boolean array; WEu0a : boolean array; r0t, F, B : integer array; pop; do H8Naa(23 - 07) end main : _250, cC : boolean; M1 : boolean array; chillax end

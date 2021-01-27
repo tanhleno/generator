@@ -1,0 +1,1 @@
+program n : _ : takes A, v0, b31aa : boolean array; YWOaa : boolean array returns nothing L : boolean array; pop 6 - 92 < 5; when case - 43900 - 5 > 06 : chillax end end main : t : boolean array; La : boolean array; i : boolean; t : boolean array; chillax end

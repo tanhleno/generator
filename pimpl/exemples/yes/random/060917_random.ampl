@@ -1,0 +1,1 @@
+program K : aQ6 : takes N_ : integer array returns nothing m : boolean array; F8A : integer; chillax end A1P0a : takes b, v : integer array; E4 : integer array; yKs : boolean; X : boolean array; v : boolean array returns nothing while 9 - 2 : while 26 : chillax end; pop end; input a; when case 5 : pop end otherwise : chillax end end main : n : boolean; chillax end

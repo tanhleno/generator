@@ -1,0 +1,1 @@
+program r : z : takes S5 : boolean; E : boolean; vqy, t0, Kn, F4, o, cw : boolean array returns boolean ZR, u, U7 : integer array; output - 4 - 26 > 381 . "]'0" . 0070 . 085 end main : let v0H = array(69 = 8) - true rem false and 1 - true; while 51 rem not 0 and 7 + y8e0a : chillax end end

@@ -1,0 +1,1 @@
+program W8 : W : takes P, Q, q : integer array returns nothing while 1 and 2 - 6 - 38 : output ""; let R62 = 6780 end; when case 24 - 78600 : do i(3) end otherwise : pop end; when case 8 = 4 : input ezX0a; pop end case 3 : pop end case 95800 : chillax end end U : takes W7, m : integer returns integer array chillax end main : S1I : integer array; chillax end

@@ -1,0 +1,1 @@
+program c0 : d : takes ij : boolean returns nothing do cE(1 <= 2 - 9); while - 52 - 22 >= 75 : input p end end c5 : takes Q : integer; Ly : integer array; B7, WTA : boolean array; w72a, u1Eaa : integer returns boolean J : integer; chillax end main : do dh10a(- not QLl(669) - 6 / i or(7) + 1 - 1); input w end

@@ -1,0 +1,1 @@
+program q : UK2 : takes X1O0a, v, nV : boolean; ly80, c9, fN, b : boolean; I52 : integer array; Q, M4 : boolean array returns boolean chillax end main : input Y3; do M2naa(- not Q, - true - 810 - 25 <= 343); output - 713; output "3" . 57; input U[8] end

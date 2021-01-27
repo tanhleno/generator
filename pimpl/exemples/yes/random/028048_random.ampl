@@ -1,0 +1,1 @@
+program EC2a : l1 : takes j2, T860a : integer array; W, qP : integer returns boolean T : boolean array; s : boolean; lJ : integer array; c, _ : boolean; lU : boolean; do v(- C > 27 - 532) end main : Aq8aa : boolean; output "" . - true and 9 + 1560 . 60 - 3 . ")" . "%" end

@@ -1,0 +1,1 @@
+program S1D : n6 : takes x : boolean array; V, w, J1u0 : integer returns integer chillax end J : takes S49 : boolean; Y : boolean; z, x6, H : integer returns nothing pop; input R[600] end main : K, l80 : integer array; I5N, x, M_R0, mh, yc, Y : integer array; pop S[282] and not 5 and 8 /= - true; input r[not true + (31) or 9] end

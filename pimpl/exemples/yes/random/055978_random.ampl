@@ -1,0 +1,1 @@
+program k : t : takes V0 : integer array; b : boolean array; j : integer returns nothing output - 8 > 8; while 408 - 1 : chillax end; pop end s : takes c8, K27, e530a, t2 : boolean array returns boolean pop 5 = 059 end main : q, y0 : boolean array; pop end

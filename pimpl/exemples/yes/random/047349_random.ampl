@@ -1,0 +1,1 @@
+program l : X : takes C : boolean returns integer when case 4 : chillax end case 19 - 35600 /= 96 : chillax end case 0 : chillax end; pop 1 = 145; while 25 : while 9 : chillax end end end main : _48a : boolean array; chillax end

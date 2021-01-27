@@ -1,0 +1,1 @@
+program W7 : main : when case g[3] rem H and not 50 and 7 : input Up end case 9 - not 5 and 8 : chillax end otherwise : while 7 = 1 : chillax end end; let W[t9 and 5 and 51 - FZ1 and 28800] = not 46 and 2 or 12 > 4 end

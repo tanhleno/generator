@@ -1,0 +1,1 @@
+program K : j : takes Y, iK : integer; C, N : integer; s : boolean returns boolean Rc, w : integer array; O8, h4, dw, M : boolean; let e[- false and 27] = 9; when case - 63200 - 35 : output "5" end end main : input PE end

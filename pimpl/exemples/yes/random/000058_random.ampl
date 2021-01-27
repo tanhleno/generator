@@ -1,0 +1,1 @@
+program J9 : l38 : takes VW, G, k, V, cf, HF, e, co : boolean; VvI0 : integer array; G, m : boolean; Uq : boolean; o8, R0g0 : boolean; i8n0a : boolean array; T9, a : boolean returns integer L05aa, f, CsEaa, G8 : boolean; Q, q, t : boolean array; s, u7, k64 : boolean; g, S : boolean; L4 : boolean; v : boolean; output "k"; pop end main : chillax end

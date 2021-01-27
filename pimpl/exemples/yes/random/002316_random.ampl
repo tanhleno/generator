@@ -1,0 +1,1 @@
+program z : G3 : takes q, K, f32, U, o : boolean; w46 : integer array; n, Cz3a, Z_7, O : integer returns integer pop - 78 - 42; do e(- 4600 - 9 > 4); while 990 : do s(9060); pop end; output 1 . "\tR"; pop; let O6jaa = 7 end a04 : takes T : boolean array returns boolean output 04 = 76 end main : do x((2 = 0) * Q[23000] / l and 5) end

@@ -1,0 +1,1 @@
+program n : main : while not(55200) rem true and true or(2) : when case - 62 - 6 : when case 1750 : chillax end end; when case 997 : pop end otherwise : chillax end; do K(5); let k9 = 6; when case 9 : chillax end; pop end end

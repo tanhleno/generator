@@ -1,0 +1,1 @@
+program B5 : zj : takes b92a : integer array returns nothing i : boolean; y_ : boolean array; _ : integer array; do c(- not 38 and 3, - 42 > 80700) end main : v, Uy30a, o, u, VVk : boolean; _ : integer array; p : integer array; input UH; output 54 and 0; let Ig7aa = - 2340 - 56; output "m" . 20 end

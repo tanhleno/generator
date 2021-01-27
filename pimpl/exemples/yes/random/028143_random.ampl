@@ -1,0 +1,1 @@
+program y9ra : cp : takes E, I2 : integer array; g : boolean; t2, eX : boolean; h0K0, J, h, n, xb : boolean; zd : integer returns nothing Y7, O9, O, T1, vS : integer array; C : integer array; output "{" . 10 = 16100; pop end main : do q1(775 >= (9) * (14) and 302) end

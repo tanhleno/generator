@@ -1,0 +1,1 @@
+program B_4 : _1 : takes h : boolean; D : integer; LZ1, K, y920a, J, z : integer; I, A, ti, KE20 : integer returns integer array Lr3, v4Ta : integer array; do M2((6) <= - 604); pop end main : pop - 78800 and false <= - (6) and 4 end

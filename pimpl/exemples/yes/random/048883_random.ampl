@@ -1,0 +1,1 @@
+program CT2a : T : takes F : boolean returns nothing input n0 end u0 : takes C, L84 : boolean array returns boolean array chillax end E9d : takes hXT : boolean array; c : boolean array returns nothing chillax end main : d : boolean; chillax end

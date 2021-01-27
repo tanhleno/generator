@@ -1,0 +1,1 @@
+program XH : w : takes G, Y : boolean array; c, p6, jT : integer array; PE : integer returns boolean array chillax end main : let zH[not(51)] = array true and 1 and true or(0); let F[not true] = array - not false end

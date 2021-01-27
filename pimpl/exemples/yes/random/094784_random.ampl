@@ -1,0 +1,1 @@
+program Hd : main : pop; while(8) + 71 <= - 6 and 98600 + 6 - 4 : input H[8] end; do F((8) or 1, 0 = 4); do L40(- 487, 7120 = 6, 4); when case 969 : when case 2 : chillax end end case 7 : chillax end case 06 : chillax end otherwise : chillax end end

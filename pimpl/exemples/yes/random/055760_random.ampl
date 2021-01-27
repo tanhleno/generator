@@ -1,0 +1,1 @@
+program r : _a : takes Z : integer array; lZ : boolean array; sx, UPx, zJ : boolean returns nothing pop 2260 - 1 end main : STZ, U2aaa, O7 : boolean; Sj, v6D : boolean; input fx0aa; input H; pop; when case - 3 /= 682 : chillax end case 4 : chillax end case 5 : chillax end end

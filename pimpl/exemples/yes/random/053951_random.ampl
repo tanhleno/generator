@@ -1,0 +1,1 @@
+program L : z : takes KB5 : integer array; A, V6, R : boolean array; xG, k7Yaa : boolean returns nothing Y, e4 : integer; when case 1 or 76 /= 1 - 228 : chillax end end T0 : takes SL, H7Jaa, J, Bs : integer; F, AIu : boolean returns nothing H : boolean array; chillax end main : y : boolean array; pop end

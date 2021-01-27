@@ -1,0 +1,1 @@
+program tS : t7 : takes D : boolean array; h06 : integer array returns nothing chillax end main : A8, Y4W0a : boolean; g : boolean; pop; while - true / 036 and 5 >= - true and 94 : let o = array 09 end end

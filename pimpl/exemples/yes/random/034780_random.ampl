@@ -1,0 +1,1 @@
+program V : aq : takes KU : boolean; L9, Tdc : integer; i, X : boolean array; T, g, m : integer array returns nothing f : boolean array; d, bS10a : integer; Q, i, w : integer; P3, f : boolean; when case 6 : output 893; while 0 : chillax end end case 1 = 74600 : pop end otherwise : input Wo end; input mL[- 2 - 9]; pop end main : chillax end

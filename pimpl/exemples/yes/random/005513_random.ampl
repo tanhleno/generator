@@ -1,0 +1,1 @@
+program v : t9 : takes V, Ff7, D8S, zkS0a : boolean array returns integer let y[- not 516 and 99 - 1 - 84] = - 3 > 9; let Z[- 27200 - 6] = array - 41 - 5 end main : RhH0a : boolean; S : boolean; Q, al, hJ40a, G4 : integer; input j5Baa end

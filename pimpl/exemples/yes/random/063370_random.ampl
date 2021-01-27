@@ -1,0 +1,1 @@
+program J : O : takes D : integer returns integer C, f : boolean; I7, Z : integer array; z : integer; output 4 - 7030 . 0 end main : r : boolean array; output "" . - true and 0 or 5; pop 4820 /= - 6 - 4; output - 4 - 2 = 3; input C; let s[39] = 9; input e[4]; let U = 80 end

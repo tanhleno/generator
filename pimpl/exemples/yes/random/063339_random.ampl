@@ -1,0 +1,1 @@
+program s : N : takes B : integer returns integer F, l, vIS0 : boolean; A : boolean array; n, k, l : integer; eJNaa : boolean; chillax end o : takes c11, q : integer array returns nothing B : integer; when case 69 <= 7 : chillax end otherwise : output "1N"; pop end; input I; input y[2] end main : r : integer; chillax end

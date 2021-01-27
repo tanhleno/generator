@@ -1,0 +1,1 @@
+program Om : L : takes w, DFL0, NB8, CI6 : integer; MG : integer array returns nothing when case Ma or 54 : chillax end; while 13 - 6670 : chillax end; output "2\"" end main : input Ui; when case - false * (73) or(37300) and 7 = - (24) and 8 : chillax end case - (29) and 7 + 5 - 2 : chillax end; do ek(- false and 3 - 74 - 7 > 8, 01 - 0, 1) end

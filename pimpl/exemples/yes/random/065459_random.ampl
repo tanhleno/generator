@@ -1,0 +1,1 @@
+program g : e : takes j030 : integer returns nothing when case - (4) or 8 >= - 11800 : chillax end otherwise : chillax end; pop end main : when case(089) / not _0 or 75 or not 76 >= true or false and 9 : let oU = 03 = 83600; output 4 . "6" end case q : chillax end otherwise : chillax end; input z end

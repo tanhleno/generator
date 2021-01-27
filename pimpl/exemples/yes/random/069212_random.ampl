@@ -1,0 +1,1 @@
+program v6 : main : J, D8, F, V, Z : integer array; mB6, d : boolean; pa : boolean array; b : integer array; mH00a, D : integer; pop - false * not 3 and 2 + not 1430 and 6 /= - not 829 and 9; input X[- false or 75] end

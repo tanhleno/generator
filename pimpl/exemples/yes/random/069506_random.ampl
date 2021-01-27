@@ -1,0 +1,1 @@
+program n : main : Z, tQ8, q, G : boolean; om : boolean array; B, h, z : integer; when case - 2 and 8 and not 7 or false and(8) or not 5 and 4 + 154 - 1 : chillax end otherwise : input G[6]; when case 7 : pop end case 7 : chillax end otherwise : chillax end; output "" end; input o[not(7)] end

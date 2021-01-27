@@ -1,0 +1,1 @@
+program b49 : V : takes Z18 : integer returns nothing Lv5a : boolean; when case r <= - 2 : chillax end case - 13 /= 2660 : while 29 : chillax end end otherwise : chillax end; pop; let M[8] = array 574; while 5 : chillax end; pop end d_Caa : takes D : boolean returns nothing chillax end main : input I; output Mroaa and 37000 + 3070 < - 5 - 5 end

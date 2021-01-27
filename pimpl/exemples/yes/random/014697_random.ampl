@@ -1,0 +1,1 @@
+program wg : w : takes k7, Wy9, pj : integer array returns boolean array q, U : boolean array; U8, V3 : boolean; L : integer; D3, L : boolean; while not 4 and 04 - 1 > - 05 : let Czd[4] = 32; while 16 : chillax end end; while 19 - 7 : chillax end end main : chillax end

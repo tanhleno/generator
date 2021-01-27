@@ -1,0 +1,1 @@
+program _ : r840 : takes Fc, r : boolean array returns integer array Z7 : integer array; s3, F : integer; chillax end main : NTj0 : boolean; B, nv1, cYRa : integer; ky5 : boolean; u, i4c0a : integer array; LR, P690, X : integer; chillax end

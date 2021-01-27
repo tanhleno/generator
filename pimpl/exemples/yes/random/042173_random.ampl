@@ -1,0 +1,1 @@
+program Z : Lsd0 : takes R9 : boolean array returns boolean ca : boolean; chillax end main : e5, Loy, h6Z, N : integer; T1, Z, a, O : integer; M : boolean array; output - _(93) + not 8 + 0 >= - (6) or 46 - 9; pop - (65) and 59 < - 0; input R[- not 20 and 0] end

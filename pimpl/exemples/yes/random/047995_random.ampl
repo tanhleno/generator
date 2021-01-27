@@ -1,0 +1,1 @@
+program tt : W9 : takes A : boolean returns nothing m6waa, Xc4, FP : boolean array; O7, e, D : integer array; C9, Fc, s : boolean array; do p(false or 5000 > 4 - 8, - 5 - 8 <= 2, 3); when case - 4 - 76 : output "" end; input y; output 2; input i end main : chillax end

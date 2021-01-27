@@ -1,0 +1,1 @@
+program M : Z : takes l, j : boolean array; j, T3, H, DH20a, O, P : boolean array; v : integer; Z, LW5a : boolean array; J, t2 : boolean; Fj, i94, V01 : integer array; A : boolean returns boolean when case 0 + 92 /= 3 - 8 : chillax end case 53800 > 4 : chillax end otherwise : when case 2 : chillax end; let XF = 51 end; input KSN end main : NV7 : boolean; chillax end

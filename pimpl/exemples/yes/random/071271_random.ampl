@@ -1,0 +1,1 @@
+program E1 : main : I480, h, x : boolean; when case - false / false and not 4 : input T; when case 99 = 3 : while 49 : chillax end end case 9 : pop end otherwise : chillax end; output 5; pop; input r3; pop end case not true or true and 5 or 5 : chillax end otherwise : pop end; do DU(- 4 / true /= - M060a) end

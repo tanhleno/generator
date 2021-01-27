@@ -1,0 +1,1 @@
+program a82 : jH : takes l : boolean array returns integer array S : boolean; chillax end o : takes U85, S : boolean array returns boolean u : integer; o, DDI : integer array; DOZ : boolean; pop 3; do Zo(9130 = 4) end main : kV : boolean; output "--" end

@@ -1,0 +1,1 @@
+program S : main : G : integer; X : boolean; let bL[true and h[99]] = (9490) / t + not 1 or 7 - 0200; do W(- (66) * not 98900, - true and 7, - 5 - 346 = 678, 1 = 70, 86, 9); do rN(not 06600 and 7 - 4); output "" . "0"; input h[92]; pop 48; output "" end

@@ -1,0 +1,1 @@
+program L : HZ : takes X : boolean; V, rX : integer array returns boolean array F : boolean; chillax end main : A, c : boolean array; H : boolean array; Hj : boolean; e : boolean; gd : integer; do D(true rem(17) * true and 81) end

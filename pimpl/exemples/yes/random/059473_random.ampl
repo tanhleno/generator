@@ -1,0 +1,1 @@
+program jT : L : takes xX : integer array returns integer q : integer array; _N0, e : boolean array; chillax end main : when case not 42 * true rem not 4 and 1 < true * true : chillax end case - true + true - 1 - 28800 : chillax end case - (61) or 4 - 7 : do x(2, 8) end end

@@ -1,0 +1,1 @@
+program i : s : takes m, V : boolean array; y, v : boolean returns integer i, O7v : boolean; g : integer; while(77700) or 9 - 517 : chillax end; output 7 . "" . 9 . "\\"; let YQ = array 4 end main : X : integer array; do r((9 = 6) + not true or not 12 and 3 + 0); pop; output - 8 > 553 end

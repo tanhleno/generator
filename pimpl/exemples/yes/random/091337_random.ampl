@@ -1,0 +1,1 @@
+program xI2 : main : let Cx[false and 3 rem true and 40 or R[76] - (518)] = not true < - W and 98 - 1; when case 7 = true and 9 : chillax end case not 20 + 3 /= 3 - 4 : pop; output "\""; do V(9) end end

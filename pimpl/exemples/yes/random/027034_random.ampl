@@ -1,0 +1,1 @@
+program T : l : takes F, pe : integer array; M, h9aaa, K, i, Q, K, U7 : integer array returns nothing chillax end main : output "2g" . - not 4 and 51 + 9; let w[(8)] = array - 77 and(3090) + (63) and 4 - 3 - 25 end

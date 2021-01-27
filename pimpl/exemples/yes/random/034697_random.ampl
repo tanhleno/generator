@@ -1,0 +1,1 @@
+program b : Q2 : takes u : boolean; s, Wei0a : boolean returns nothing chillax end main : input W_4; let B = - false or 56 - 6 >= 60; input e6[- VJ and 125 + 53]; do AV4(- 8 - 6 <= 60, 4); input t end

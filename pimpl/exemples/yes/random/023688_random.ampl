@@ -1,0 +1,1 @@
+program e8J : dg : takes U4, ecw : boolean returns integer g, K, v, B, L : boolean; d420a, F, FuI0 : integer array; chillax end main : let Y71aa[- true rem E[80900] / true or 64 rem false] = - true / false and 14 + not 10 and 7 + 881 - 8; input H; when case - b + 6 - 67 = 74 - 67700 : chillax end end

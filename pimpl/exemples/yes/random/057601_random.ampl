@@ -1,0 +1,1 @@
+program Qk0 : s : takes A0 : integer array returns boolean array chillax end A : takes niE : integer; X : boolean returns boolean J2, Q : boolean; input L91[- 2 - 3]; do E(86 = 1); let M = 113; when case 60 : chillax end; while 9 : chillax end end main : K8, PV, J : boolean array; output(9) . - not 2 and 676 + 60; output "k" end

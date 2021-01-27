@@ -1,0 +1,1 @@
+program _1 : IZL0 : takes e : integer array returns boolean pop end p : takes _0, E2, q, d, r53, A : boolean returns nothing while - 3 - 151 >= 94 : while 0 : chillax end end end g3 : takes D110 : integer returns nothing d, a : integer; let Q = 1 end main : let gV[- B rem AV2(80000) + (3) / (9) and 47] = array o[9840] end

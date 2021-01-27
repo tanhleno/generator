@@ -1,0 +1,1 @@
+program n6 : Y : takes E7D, s : boolean; n32, Z, S, DI, p : integer returns boolean x : integer; when case - false and 6 = - 81200 - 0310 : output 37 . "" end case - 67 - 403 > 7 : chillax end otherwise : chillax end; let n5 = 0 = 9 end main : chillax end

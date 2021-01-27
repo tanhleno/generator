@@ -1,0 +1,1 @@
+program o : E1ja : takes ly4, c : integer array returns boolean pop 093 - 05; output "" . 3; output "" . "Z"; when case 7 : pop end case 2 : chillax end end main : Q, c : boolean; Y, V, Zg, x, P, C330 : integer array; F : integer; chillax end

@@ -1,0 +1,1 @@
+program DN : o : takes lt : integer; sE1, h : integer array; YDX : boolean array; g6, E, t, f2 : integer; M, s : integer; Y5P, trUa : boolean array; L5 : boolean; M : boolean returns nothing while - (7) and 15300 or 388 - 707 : pop; do a(9); pop end; when case - 6 - 8 <= 1 : output "#g" end case 88 : let bh = 27 end otherwise : input u; pop end end main : chillax end

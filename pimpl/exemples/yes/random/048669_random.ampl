@@ -1,0 +1,1 @@
+program M : X : takes O850a : boolean returns nothing DKe : integer; input j8F[not 74900 and 85 + 28000 - 411]; pop end RA : takes i, V, djz, Al : boolean array returns boolean array m : integer array; pop end main : when case - not true * 4 : output "'" . "" end case false : chillax end otherwise : while 54 : while 2 : chillax end; pop end; input j3V[8] end; pop end

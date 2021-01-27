@@ -1,0 +1,1 @@
+program X : i : takes bt : integer; Y8 : integer array; v650a : boolean returns integer p : integer; input P; while 591 - 3150 : chillax end end main : i : integer; c, f9q0, I4, d8 : integer array; let Z = array c and s + not false * true or true and 4 + 332 end

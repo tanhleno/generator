@@ -1,0 +1,1 @@
+program P : cE : takes u : boolean array returns integer chillax end main : O8 : integer array; S2, s17 : integer array; l : integer array; H : boolean; do g(- not 385 rem true or true and true and 04600 - not 91 >= 78 and k - 7630 and 822 or 2 - 421) end

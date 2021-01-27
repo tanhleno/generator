@@ -1,0 +1,1 @@
+program b1 : y8 : takes om, B : integer returns boolean d : integer array; do R(false, - 9 - 5, 982); let U[9 - 0] = array 0 - 55; while 8 = 42 : chillax end; let k0 = array 21; let ZJ9 = 8440 end main : S, L0 : boolean array; chillax end

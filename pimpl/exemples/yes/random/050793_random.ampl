@@ -1,0 +1,1 @@
+program e : a3 : takes g0 : integer; O8, s : boolean returns nothing while(4) and 0 or 7 : chillax end end J : takes N : boolean array; j, V : boolean; M : boolean array; a5 : integer array returns nothing while - 387 - 99 < 4 : chillax end end TD : takes QG : integer returns integer array while 97 : do w43aa(7); pop end end main : chillax end

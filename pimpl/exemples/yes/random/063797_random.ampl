@@ -1,0 +1,1 @@
+program Ya : KH6 : takes q8 : integer returns nothing chillax end T5 : takes Thmaa : boolean returns nothing I : boolean array; x, C2, q : integer array; lC5aa, HOKa : boolean; c : boolean; chillax end main : chillax end

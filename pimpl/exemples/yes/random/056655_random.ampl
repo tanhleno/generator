@@ -1,0 +1,1 @@
+program F : u : takes c : integer array; r : integer; Z3n : boolean; Wc : integer; O7, n0I, r, c : boolean returns integer array z4, d : integer array; v : boolean array; chillax end main : let n = array true; while false * true and 0 + rT - 476 - 16 : chillax end; input q[- 94 and 0] end

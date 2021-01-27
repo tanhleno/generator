@@ -1,0 +1,1 @@
+program g : m54 : takes Fm60, mOZa, x : integer array returns nothing chillax end main : while true + (4) : when case 8 : chillax end case 86 : chillax end case 0930 : chillax end otherwise : chillax end; pop; when case 3 : pop end case 4 : chillax end otherwise : chillax end; while 7 : chillax end end end

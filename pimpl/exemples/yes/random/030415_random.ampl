@@ -1,0 +1,1 @@
+program r7r : WW : takes qK, J : integer array returns nothing do u(- not 2 or 47, 2 - 9 = 1) end cdFaa : takes h, J : integer; oNt0a : integer array returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program na : U : takes _, U, V, C12aa, e4D0, Jw : boolean array; I : integer array returns integer chillax end r : takes mB, z0Ra, d, ie : integer; I : boolean array; Y5 : boolean array; v : integer returns integer array chillax end l440 : takes b : integer array; L3, w4 : boolean array; R : boolean array returns nothing dQ, G, u : integer array; chillax end main : chillax end

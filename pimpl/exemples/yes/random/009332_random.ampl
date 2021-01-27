@@ -1,0 +1,1 @@
+program B : y : takes f2, s, FT : boolean; q : integer array; gt : integer array returns boolean Ef2, L, cm50 : integer array; YcW, G : boolean array; pop; when case - 6 - 9 : when case 64 : chillax end end otherwise : chillax end end s4 : takes A, i1o0a : integer array returns integer output 0 . 1700; pop 591 end main : let Z28 = - true - not 1 and 8 end

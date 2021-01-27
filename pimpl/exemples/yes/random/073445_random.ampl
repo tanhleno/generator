@@ -1,0 +1,1 @@
+program R71 : main : OB, z : boolean; hb, h8Caa, O : boolean array; N, I : integer array; output 479; when case false * j and 4 - (18) : chillax end otherwise : chillax end; let Ao[false and 693 - 7] = - 4 - 34; do Ju(- 1 /= 3, 2 = 40900, 6, 86) end

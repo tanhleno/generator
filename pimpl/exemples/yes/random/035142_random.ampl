@@ -1,0 +1,1 @@
+program Q : _ : takes q1 : boolean; C, I : integer array returns nothing k : integer; chillax end main : dn20 : boolean array; lWfa, o6C, I6C0a : integer; v, J, V : boolean; output - 4500 /= P and 00900 end

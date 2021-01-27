@@ -1,0 +1,1 @@
+program faG : IZ : takes r2 : boolean returns integer when case(6) and 87 = 7 : do W(58, 45); do R(1) end case 35 - 40100 < 21700 : chillax end case 92600 = 05 : input M end case 22 : chillax end otherwise : chillax end; let c = 2; do U(0 = 3); input K190 end main : k4, i, _1G0a, X : boolean; chillax end

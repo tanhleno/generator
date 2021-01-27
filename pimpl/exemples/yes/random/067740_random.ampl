@@ -1,0 +1,1 @@
+program f4y : main : do D(true); when case - false <= - I and 0 or 9 - 11 : let DCHaa = array 5; when case 41 : pop end case 82 : chillax end otherwise : chillax end; do d(88); pop; pop end; do m(- (37300) or 11 - 04 < - 4 - 82400, - 10 - 96, 43, 4); let r = 2; pop 8 end

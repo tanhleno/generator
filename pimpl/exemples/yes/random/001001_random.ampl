@@ -1,0 +1,1 @@
+program f : F : takes bxO, G, H, i, QY1, qHO, z : integer returns boolean array T, _, K : integer array; chillax end y47 : takes Jgnaa : boolean array; G : integer; K6 : integer array; o : integer array returns integer u : integer; while - 9 : while 347 : chillax end end end main : chillax end

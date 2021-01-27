@@ -1,0 +1,1 @@
+program tJoaa : main : C : boolean; when case(38) / true /= (7) or p and 515 : do D1ba(- 7 - 0); output 8520; do Mcx(91, 360); when case 0420 : chillax end end; let T = 60300 and 905 or 61 - 2; input K4[- true + 10 - 1] end

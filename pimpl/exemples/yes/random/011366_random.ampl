@@ -1,0 +1,1 @@
+program wp8a : _0 : takes L6, npZ, J : boolean array returns nothing n : integer; chillax end main : yg3 : integer; C1V : integer; N8, Wi3aa, O4, r8k, U8 : integer array; when case - 642 /= py(59) rem not 86 : when case - 2 : chillax end otherwise : output "[\\0a"; pop end; input o[7]; pop 8 end otherwise : chillax end; pop; output "" end

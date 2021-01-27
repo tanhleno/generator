@@ -1,0 +1,1 @@
+program FR : Dwyaa : takes f, W, LU, g, E, I : boolean; Eg : boolean; E, U2, IWe, l100, nU, t : boolean array; _ : integer array; FVja : boolean array; H : integer array returns nothing S : boolean array; output 7 . 2 end main : q, m, W, Kj : integer array; chillax end

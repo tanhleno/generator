@@ -1,0 +1,1 @@
+program S : O : takes oK5aa : integer; S, b : integer array returns boolean chillax end sr : takes OE, yFya : integer array; P, w, s, g : boolean returns nothing chillax end main : M1 : integer; input K; input q; output "\twa" . 3 = 9 end

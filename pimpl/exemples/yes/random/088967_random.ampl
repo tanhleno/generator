@@ -1,0 +1,1 @@
+program N3 : main : input R[false and false + (3) or(40000) and 06]; let r = array q[213] / false or(87900) and 8; while false or 75 : when case 96 : chillax end case 4 : chillax end; do K(6); when case 3 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program y0 : L : takes RG, a7, p, n2, n63 : integer array; N6xa : integer array; X : integer; c8 : boolean array returns boolean array n : integer; chillax end main : Noiaa, FT, i, IA, zU00, Ju90, dZa : integer; q17 : boolean; _PV : integer; chillax end

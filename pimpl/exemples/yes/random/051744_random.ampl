@@ -1,0 +1,1 @@
+program sO : z : takes K : integer; j : boolean array; v : boolean array; qE, fMdaa, N2 : boolean returns nothing KiF, KJm, Y : boolean array; bi : boolean; let hl[true and 172] = array - (04200) end main : cCf, o : integer array; b : integer; C, d : integer; output - true rem 2 and 17700 . "" end

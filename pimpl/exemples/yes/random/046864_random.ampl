@@ -1,0 +1,1 @@
+program QU : P3 : takes Dr : boolean returns integer array while - (4) and 525 < 9660 : while 01 : pop end; do IPu0a(036); input F; pop end end main : output(97) / true = - (8) and 183; while 68 : while 90 = 6 : when case 8 : chillax end end; when case 5 : chillax end otherwise : chillax end end; do z(false and 84 - 7 - 206 = - 6 - 033, 3490 < 4) end

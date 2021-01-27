@@ -1,0 +1,1 @@
+program CxXa : Q : takes qx : boolean array returns nothing chillax end ux : takes H11 : integer array; c6l0 : integer; p1 : integer array returns integer OW, S, o : integer; chillax end u : takes E, K0 : boolean array; a, IEA0, C : integer; J : integer; V3 : integer array returns nothing let J = 4; do mZr0(9, 675); input v; let Rb = 47; pop end main : chillax end

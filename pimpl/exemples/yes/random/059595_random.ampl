@@ -1,0 +1,1 @@
+program mp5aa : z : takes dc : integer array returns integer when case not 8 - 5 - 5 = - 647 - 0 : while 52700 : chillax end; output ""; when case 7 : chillax end; pop end case - 6 - 9 : input I5N end otherwise : chillax end end main : chillax end

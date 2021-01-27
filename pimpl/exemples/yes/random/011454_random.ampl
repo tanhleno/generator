@@ -1,0 +1,1 @@
+program W0 : Fg5 : takes U, AL, z : boolean array returns nothing let v = array y and 254 end Y3K : takes Q, lD, YW : integer; Y : boolean array; J : boolean returns boolean array BS : integer; while - 7 : input v; input uy; pop end; pop end main : R0, m3, HpJ : integer array; F : boolean; L520 : boolean array; chillax end

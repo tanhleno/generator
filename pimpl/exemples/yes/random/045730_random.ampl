@@ -1,0 +1,1 @@
+program c : lW5 : takes HIv : boolean returns boolean array yH : integer; x0 : integer array; chillax end main : N1, qK6aa, A5p, S : integer array; x, gO1 : boolean array; wIX : boolean array; h, D, F, E : boolean array; n4g0a, NAq0, T : boolean; G : boolean; c7 : boolean; U : boolean; chillax end

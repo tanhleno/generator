@@ -1,0 +1,1 @@
+program Rw : t : takes J : boolean; t7, bM6aa : boolean; VN, q7Raa : integer; C : boolean returns integer array j5T : boolean; t : boolean; b2, W, h : boolean; b2E : boolean; i : boolean; pop; input R end main : input J[- not false * not not 0]; while F3h0 > - (3) and 184 or 9 : chillax end; output "0\\" . 9 . 47 end

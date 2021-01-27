@@ -1,0 +1,1 @@
+program q : fI3 : takes a, G880a : boolean returns boolean array chillax end b5 : takes c : boolean; r : boolean; Kc : boolean returns boolean _x : boolean; B, z, u : integer array; P, j : boolean; do K2(6 - 7 = 14900, 0 = 2); do j(4 = 777) end Xb : takes x, Ka, m : boolean returns boolean K4 : integer; pop end main : gm : boolean; r1 : integer; z : boolean; chillax end

@@ -1,0 +1,1 @@
+program a : a : takes W : integer array; kJ8, U, X : integer array returns nothing while - (8) - 7 : chillax end end main : DDFa : boolean array; D1 : boolean; v : integer array; R, Mh : integer; R, RBQ0 : integer array; do k8(- j * (96) > - false rem hZ and 7, (738) - O and 5, - false and 4); let g[false] = - (3) and 9 or 837 - 5 > 6680 - 31; output - 5 - 28 >= 2 end

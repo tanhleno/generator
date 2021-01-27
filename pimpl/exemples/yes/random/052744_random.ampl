@@ -1,0 +1,1 @@
+program n : G : takes g : integer; A : integer array; c8Ka : boolean; v : integer array returns integer array C, V, Y4, N5 : integer; E2, Z, Di : integer; let uLU = array - (3) and 7 end main : K : boolean; chillax end

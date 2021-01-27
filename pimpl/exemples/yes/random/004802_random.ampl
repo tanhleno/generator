@@ -1,0 +1,1 @@
+program n : Fv7a : takes R, zv, d, u : boolean array; q6d, M39aa, k : boolean array returns nothing p06, i8N : boolean; pop end X0 : takes dU, S, A, AP1aa, h92 : boolean array returns nothing e, h : boolean array; pop 8410; while 33300 : chillax end end main : d, h : boolean array; P : integer; let OCP = array - false end

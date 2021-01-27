@@ -1,0 +1,1 @@
+program m : n2 : takes S : integer returns boolean array H : integer; chillax end Q : takes A9, P9, hFN, h : integer returns integer output "\\@!a"; when case 596 = 002 : chillax end otherwise : pop end; output "\t\"!" end main : g, Uw : integer; chillax end

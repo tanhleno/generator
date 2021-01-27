@@ -1,0 +1,1 @@
+program bY : main : B : integer; e, Jf, V, F2 : boolean array; CEp : boolean; q : boolean; cZ8aa, k : integer; pop - true > true; input s[(53) rem 0 or(3) and 16 or 846 - 221]; pop 82900 <= 213; input Gj[6]; do Y(1); do G(5) end

@@ -1,0 +1,1 @@
+program V : sk5 : takes c, a : integer returns nothing k, S : boolean; h0, J0I : integer; chillax end P : takes lA : boolean array; Z7 : integer returns boolean array n : boolean array; z : boolean array; let dm[- 2 - 8] = array - 7 end main : chillax end

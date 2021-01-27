@@ -1,0 +1,1 @@
+program O5I : b8 : takes U9 : integer array; _, q, l8 : integer; KIXaa, K6, A : integer array returns nothing x, t : boolean array; chillax end I1 : takes G : boolean; b : boolean returns nothing n69 : integer array; do J(- 2 - 360, 184, 9); when case 0 = 8 : input XU; pop end; let E = 028 end main : chillax end

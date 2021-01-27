@@ -1,0 +1,1 @@
+program H : main : D, zk, P : integer; c : integer; when case 3 * 0 /= - true and 2 + true : pop; let dm = 0 end case 73 : chillax end case(8) >= - 3 - 79 : chillax end; output - false and 35 + 88 - 58 . 211 - 18; pop 864 end

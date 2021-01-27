@@ -1,0 +1,1 @@
+program n0 : main : do V8(QRe0, false); while(5) : pop; pop 609 end; let h49aa[true] = array(73) and 8; when case - 98 - 8 : chillax end case 79500 = 469 : chillax end otherwise : when case 03 : chillax end end end

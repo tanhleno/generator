@@ -1,0 +1,1 @@
+program ru : e0 : takes x0, y : integer; q5, D, GN, Z : boolean; Z : integer returns integer A2h : boolean array; I, A, g, r7 : boolean array; oH0 : integer array; a : boolean; KQ : boolean; S : boolean; chillax end main : chillax end

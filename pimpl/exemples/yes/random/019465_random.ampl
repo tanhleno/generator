@@ -1,0 +1,1 @@
+program x : T28 : takes nX, h5 : boolean array; S57, F6 : integer array; Z, S1 : integer; ES : boolean array returns boolean array C75 : integer; output "z" . "" . 4 . "" end K8a : takes Y : boolean returns nothing Ak, W8, e, I : integer array; p : boolean; I : boolean; u3 : boolean; do Hu(- 4, 1 = 5, 43, 18); pop end main : chillax end

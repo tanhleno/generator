@@ -1,0 +1,1 @@
+program r850 : i : takes h, P : boolean; s, j : boolean array returns nothing Y, d : integer; P6aaa : integer; let q3 = - 7 end I : takes t : boolean; q, W770, Vg, qs5, OK5a : integer array returns integer array B : integer; e : boolean array; N8 : boolean; chillax end main : let aM = array - not(149) end

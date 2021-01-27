@@ -1,0 +1,1 @@
+program G2T : Q : takes y, c5 : boolean; L6K0, B, z : integer array returns boolean s98 : integer; output - 6 . 25 . "7" . 5; when case - 0 : output ""; let D = 456 end otherwise : chillax end; while 93 : when case 676 : chillax end; pop end; output 9 . ""; when case 1 : chillax end end main : P, m : boolean array; do h500((3390 = 43) * n(3) * (46) - (85100) * false < true) end

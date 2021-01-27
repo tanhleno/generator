@@ -1,0 +1,1 @@
+program m : y : takes qE : integer returns nothing chillax end main : O, P : integer array; do x4(- _(3) rem false >= not(0) / 1 and 5, - 00 and false and 75 or(01), 6 and 8 or 3360, - 4840 >= 5, 51 = 9) end

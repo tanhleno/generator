@@ -1,0 +1,1 @@
+program H : nbKaa : takes W, y3, aO : boolean array; vP90a, y : boolean; c : boolean; o, T : integer; q : integer array; n6 : boolean array returns nothing chillax end main : input X[93 and(1640) / z - not false * (1) and 0310]; do am(- t[08] <= - 29 and 987 + 60800, - (63200) and 50 /= 2 - 0, 25) end

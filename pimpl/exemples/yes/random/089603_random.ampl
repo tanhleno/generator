@@ -1,0 +1,1 @@
+program C : main : let M = - not not 4 and(0) and 3; when case - 0 / U3 < 369 : do k(3 = 1, 113, 07700); let K[84] = 74400 end case not 6 and 0 < - 299 - 6 : do F(8, 6) end; do d1(- Y and 0 < - 62, 190 < 4, 3 = 46, 619, 3) end

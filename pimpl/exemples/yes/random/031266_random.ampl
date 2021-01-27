@@ -1,0 +1,1 @@
+program G : V : takes c, dY5 : integer returns boolean array L86, v, b2 : integer array; do g(073, - 26 - 0 <= 970); while - 1 : chillax end end main : K : integer; xa7 : boolean; m : integer; B : boolean; chillax end

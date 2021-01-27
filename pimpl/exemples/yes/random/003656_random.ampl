@@ -1,0 +1,1 @@
+program Rh : G3 : takes U18, G, kb2, x15, o65 : integer array returns boolean array kk, g, J7 : boolean; o, C8e : boolean; do KrIa(- (6) and 9 /= 237 - 54000, 530 - 1); input P; let X[3] = array 0970; while 277 : chillax end end main : let SZ5[- 6] = array - false or false / D + (1) end

@@ -1,0 +1,1 @@
+program M : g : takes B : integer array; LP7aa, v5, f : boolean; tk2, sL3, J : boolean; jZL, r0_ : boolean returns nothing z, P : boolean; while false + 92 < 4030 : when case 9 : pop end otherwise : chillax end end; pop 04 = 8 end main : Z, j4Xaa, U : boolean array; V, E8, b, C : boolean; chillax end

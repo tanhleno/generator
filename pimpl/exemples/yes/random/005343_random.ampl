@@ -1,0 +1,1 @@
+program nf : QE : takes zo, j, i51, H7maa : boolean array returns boolean k, U : boolean array; N00 : boolean array; chillax end main : dksaa : boolean; u, Q41aa, Q, X : boolean array; u6g, K, Z : integer array; F : boolean array; B2, I, s : boolean array; chillax end

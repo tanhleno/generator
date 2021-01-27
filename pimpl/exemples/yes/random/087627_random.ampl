@@ -1,0 +1,1 @@
+program Q4E : main : q : integer array; while(4) * false or(94) / (21) - YK and 81 or 2 - 825 > - false / false and 893 + KJ + 30 : chillax end; when case(004) >= - true + 6 : pop 7; input O4; pop; output ">" end case - false and 1 - 2 - 0020 : let w = 3 end case - 57 - 72 <= 09 : chillax end end

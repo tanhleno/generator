@@ -1,0 +1,1 @@
+program i0 : B5 : takes Vh10a, F : integer returns nothing s : integer; g, y, m : boolean; bCA : integer; chillax end P : takes pyW0, ORy : boolean; H, J9 : boolean returns nothing pop 9 = 946 end main : chillax end

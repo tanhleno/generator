@@ -1,0 +1,1 @@
+program j : main : D, A, N, L860a : boolean array; sY : integer array; output 308 / 4 and 28 + Cz and 57 - 904 - 3900 > 30 and 6 . sSw and 5; input g; while false or 0 - 051 = - 1 - 3 : chillax end end

@@ -1,0 +1,1 @@
+program K : _7z : takes C, B : integer; V : integer array returns integer array Z6g, b0, JD2 : integer; r, U, L : integer; n : integer array; while - false : pop 7; output "J"; let k6E0a = 4 end; pop end main : k, m : integer array; chillax end

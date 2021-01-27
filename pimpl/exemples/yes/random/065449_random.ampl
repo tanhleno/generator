@@ -1,0 +1,1 @@
+program q : U : takes rl : integer returns nothing when case - (707) - 0 : chillax end case - 6 - 97 >= 6400 : chillax end otherwise : while 91400 : chillax end; while 7 : chillax end end end main : pop - true or true and 1 < (9) and 8 + 3 - 7930 end

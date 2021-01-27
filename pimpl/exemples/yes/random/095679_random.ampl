@@ -1,0 +1,1 @@
+program Yy3aa : main : when case - (3870 = 6) / not not 64 : let pmXaa = 0020 = 49; output "" . "%9\"a" . "" end case - 7 / true - P0 and 07 or 128 - 899 : chillax end case true >= 8 : chillax end case 35 - 6 > 8 : let R8 = 7760 end; do F(- 69 / (2) and 4 = - not 9, - true or 5); let B6 = array false and 3 + 4 - 478 end

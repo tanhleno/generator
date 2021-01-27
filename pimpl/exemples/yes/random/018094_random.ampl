@@ -1,0 +1,1 @@
+program m6 : BL : takes tEKa, T : boolean; gd : integer; MJ0aa, K, i410a, x, Yf : integer array returns boolean WL, T, GN3 : integer array; output ""; while - 2 - 5 : chillax end; input c28[44400] end k : takes X, z : boolean; t : boolean array returns nothing q34, l81, IG : boolean array; s, MMw : boolean array; chillax end main : chillax end

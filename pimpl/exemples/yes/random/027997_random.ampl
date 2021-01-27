@@ -1,0 +1,1 @@
+program Jz : z : takes L, d : integer array; a, Ba2 : integer array returns integer chillax end y5 : takes _0, H, _, Sv2aa : integer; Y : integer array returns boolean array output 0 = 9 end main : chillax end

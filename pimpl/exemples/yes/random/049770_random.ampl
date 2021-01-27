@@ -1,0 +1,1 @@
+program c : b : takes G0 : integer; N, in9aa, V : boolean; i, N : boolean array returns nothing S8 : integer array; h : boolean array; Sn : boolean; chillax end Gq : takes ph9 : integer returns nothing v57a : integer; let CJ80a[5] = 48 end main : chillax end

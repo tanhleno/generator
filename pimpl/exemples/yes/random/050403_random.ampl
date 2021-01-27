@@ -1,0 +1,1 @@
+program m : x1 : takes b : integer; If, C : boolean; N16 : integer; L_ia, tS : integer array returns boolean array chillax end xda0 : takes MD : integer; g, i : boolean returns nothing pop; while 65 = 0 : chillax end; output 68 . "4)\"a" end main : J82, ai50a : integer array; chillax end

@@ -1,0 +1,1 @@
+program ap : R : takes b140a : integer array returns nothing J36a : boolean array; input FW end P : takes L, a8W : boolean returns boolean array IG1 : boolean; d73 : integer array; chillax end G21a : takes d8 : integer array returns nothing do O5m(48, 779); do n(27, 49300) end main : do r00(- J * false * 1, (2180)); pop end

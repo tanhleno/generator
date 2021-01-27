@@ -1,0 +1,1 @@
+program Nc0 : e : takes t1, K6Z : integer array returns boolean array chillax end M : takes x7, QRzaa : boolean array returns integer t, MVB : boolean array; chillax end t04aa : takes p, o : integer array returns integer array let P[9] = array 9050 end main : chillax end

@@ -1,0 +1,1 @@
+program X : w2La : takes V3u : integer; x, Tr1, U49a, nO, V, O, L65aa : integer; U4 : integer array returns integer input F[- false and 6 + 0 - 62]; input d[- 2 - 3] end c : takes s5b, W : integer; e : boolean returns nothing chillax end QaN : takes s1j : integer returns nothing chillax end main : when case - N2c : chillax end; do Ub(- 3) end

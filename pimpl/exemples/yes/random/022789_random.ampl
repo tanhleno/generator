@@ -1,0 +1,1 @@
+program Wd : O4Na : takes P4, s : boolean array returns nothing when case j5n - 9 - 7 > 52 - 35 : chillax end; when case 4760 : input X6P; input Y end otherwise : output ""; pop end; while 1 : chillax end; pop end main : K4n0, z : integer array; chillax end

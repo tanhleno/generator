@@ -1,0 +1,1 @@
+program Y2 : pfda : takes J4 : integer; H : boolean returns nothing input Bf; input J; output 8; input G390; when case 25 : chillax end end m0 : takes n, KT, H : integer returns nothing chillax end Y : takes e, d : boolean array; G, i : boolean returns boolean chillax end main : M : boolean; i6A, sJb0a : integer array; chillax end

@@ -1,0 +1,1 @@
+program W92 : z : takes B, P1 : boolean array returns nothing dG3, p, t, ok, k43aa : integer; Q5 : boolean array; chillax end kD : takes M75, H, l : integer array returns boolean array output 5 = 78 . "1\"" end main : E : boolean array; chillax end

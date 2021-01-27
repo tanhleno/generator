@@ -1,0 +1,1 @@
+program uC60 : I6 : takes qx5aa, Q : integer; g, Z8 : integer array returns nothing XV, u, i, P7d0, n0 : boolean array; while not 568 - 1 /= 7 : chillax end end main : mK0aa, Q9R, d0 : integer; chillax end

@@ -1,0 +1,1 @@
+program Ffeaa : E : takes f : boolean; qa : integer returns integer chillax end y2 : takes HS, o5, h30aa, G, u8 : integer returns boolean array chillax end I : takes LK : integer array; a, E, s : boolean array; s : boolean array returns nothing chillax end main : _9 : boolean; chillax end

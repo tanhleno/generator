@@ -1,0 +1,1 @@
+program wKJ : Id6 : takes h, UQf, B : boolean array returns nothing Ql70a, f0, kn, K6F, Y : boolean array; chillax end Q : takes D : integer array returns boolean b8, rB2 : boolean; KEz : boolean; do O3X(- 4 - 9, 7, 1, 6) end main : W3, A : boolean; y, c, LD6a, j2, e53aa : integer array; chillax end

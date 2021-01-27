@@ -1,0 +1,1 @@
+program oG30 : M : takes DT, z : boolean array; FG : integer returns nothing let F = 11 - 34 > 92; do D(- 93); output ">" . "3" . "" end main : J17, d4laa : integer array; X : boolean; do L(false > - u7z - X - 0); let t[363 + (475) and 99000] = Zv and 98 - 3 - 1 <= 2; when case - 018 and 9 - 6 - 1 : chillax end case - 6 - 1 : input z2 end end

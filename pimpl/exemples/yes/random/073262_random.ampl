@@ -1,0 +1,1 @@
+program Y920 : main : x7L0, S : boolean; do p(- ibG > 600 / 5 and 7840 - not 6 and 2860, - true rem not 07 = - false or 33, - (5) and 87 + 0, - 799); output - false + 6 >= 2 - 2 . - 4 - 6 = 47100 end

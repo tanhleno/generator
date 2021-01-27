@@ -1,0 +1,1 @@
+program hT : dYt : takes m : boolean array returns boolean array z : integer array; v, pW, L84aa, t : boolean array; chillax end J2 : takes q : integer array returns nothing pop; pop 03; input G[14] end main : s0Aaa : boolean array; output - true and false <= - false and 923 - 2 - 878 . - false <= - 9 - 6 . "\tr\"" . 79 = 98 . ";0" . "/" . "" end

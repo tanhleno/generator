@@ -1,0 +1,1 @@
+program R : j1 : takes a, T : integer array; r : boolean array; m, J : boolean; Q, VW6 : boolean array; B1 : boolean array; v, l, X : integer returns nothing while not 93 and 979 >= 61800 : chillax end end i : takes bS4, iX, n : integer returns nothing pop; output 416 . 5; pop 04; do iW(520) end main : pop - (6) rem true; when case - 8 : input Pp end end

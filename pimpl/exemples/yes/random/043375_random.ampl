@@ -1,0 +1,1 @@
+program or30a : a : takes h : boolean array returns integer when case iX and 3220 + 8 - 86 : chillax end end Ch0 : takes D : integer returns boolean array s : boolean; when case - 6 : do W8(656); output "" end; let xj = 338; output "" . "6"; output ""; while 2 : chillax end end main : chillax end

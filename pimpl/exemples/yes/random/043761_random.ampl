@@ -1,0 +1,1 @@
+program r : H : takes BgR : boolean array returns nothing chillax end main : kk : integer; r, v : boolean; when case(78) rem not true - true rem false or(137) and 4 or 2 : chillax end case - 37 / not 4 and 7 : do R(0 = 41); let XG[5] = array 0 end case 32 : when case 9 : pop end; pop end otherwise : chillax end end

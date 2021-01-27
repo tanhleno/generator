@@ -1,0 +1,1 @@
+program j : x4 : takes e77, W : boolean; O, OAl, bQ : integer array returns boolean array do J((5) and 433 or 2 /= - 3090 - 02, - 71 - 295 = 1420) end main : output 6 = - (4) and 6 or 1 - 1; when case not not 25 and not 9 + 86 or 3790 : chillax end otherwise : pop end; when case - (40) and 4 < - 5 : chillax end end

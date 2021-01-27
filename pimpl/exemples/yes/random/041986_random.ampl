@@ -1,0 +1,1 @@
+program j : o7baa : takes F : boolean array returns boolean chillax end main : YFn, G, w, q0, r16 : boolean; g : boolean array; X2, N0 : integer array; input L19[true / false + true and false]; input k3a; let e3 = array - c and 8 end

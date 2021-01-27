@@ -1,0 +1,1 @@
+program o : m : takes hGC : boolean returns nothing pop 3; pop end e : takes X : boolean; J1u : boolean returns integer array _6Vaa, R : boolean array; Y : integer array; chillax end P : takes Xb : boolean returns integer chillax end main : while - 275 : output "/" . 3; output 2 . 6 . "D~" end end

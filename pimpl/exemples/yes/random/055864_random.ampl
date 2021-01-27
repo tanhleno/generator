@@ -1,0 +1,1 @@
+program c : d : takes V : integer array; s : boolean array; ef : boolean array; x, K : integer array returns integer dum, U : boolean array; G : boolean; td0 : boolean; naQ : boolean; chillax end main : chillax end

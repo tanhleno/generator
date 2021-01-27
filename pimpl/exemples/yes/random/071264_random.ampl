@@ -1,0 +1,1 @@
+program U : main : E39, u, p : boolean; pop d(6) or(4) + 0 - 5; output "t3!a" . "960a" . 36 . 9 . 909; pop; output "3"; let OE[4] = array 5; when case 2 : chillax end case 281 : chillax end otherwise : chillax end end

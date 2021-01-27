@@ -1,0 +1,1 @@
+program J : eP : takes l : boolean; J, eE1a, v : boolean array returns integer array output - 610 >= 68; input z[- 330] end K30 : takes E, k3Kaa, LZ, J : integer array returns nothing let Z[79] = array - 7; let M20[79] = 3; let d = array 5; while 8 : chillax end end main : let g[false + true and 220] = array false and not true / B and 9; pop end

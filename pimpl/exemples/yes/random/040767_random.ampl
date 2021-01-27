@@ -1,0 +1,1 @@
+program YU : F : takes i0Xa : boolean array; S : integer array; R, C, r : boolean array returns integer while - not 29 >= 3 - 0 : chillax end end main : l49 : boolean array; n, K0 : integer array; L3S : integer; A550 : boolean array; do Y(- E(51) / false * (2) + false, false - Nw50 and 8 - 2 <= false + 1 - 3); pop end

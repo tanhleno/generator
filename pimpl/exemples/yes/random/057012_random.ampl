@@ -1,0 +1,1 @@
+program i : l : takes C3 : integer array; X : integer array; kNi : integer; t3 : integer array; K8R : boolean returns nothing D : boolean array; chillax end main : JX5, e : boolean; pop - 4690 and not 51600 and 4 <= false; input Z[- (5)]; pop 888 end

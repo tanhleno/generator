@@ -1,0 +1,1 @@
+program eWo : Qa : takes Vofaa : boolean array; m, y, J, P0 : integer array returns boolean array n : boolean array; M : integer; chillax end i1 : takes k : integer returns nothing chillax end main : m, d : boolean array; Q, f, w : integer array; nV : boolean array; chillax end

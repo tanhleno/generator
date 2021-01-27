@@ -1,0 +1,1 @@
+program W3 : R : takes X9Maa, Bz60a : boolean returns nothing input pP; while - 7600 - 1 : chillax end; input n; input C; do a(8); let KM = 68 end main : Y, i : integer array; when case true rem false - U(60) rem true : while - 5 - 332 <= 2680 : chillax end end; while - true * b - v8 < false and 80 + 24400 - 0 : chillax end; let WSK0a[- not 82 or 35 - 0] = 5 < 761 end

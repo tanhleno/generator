@@ -1,0 +1,1 @@
+program v : _aB : takes H, F5, W6, W8 : integer array; Nh : boolean array returns boolean l7 : integer; Ynoaa : integer; chillax end c : takes q : integer array; W, L : integer array; M8 : boolean array; w : integer; C : integer array; Dx : boolean returns nothing input a3[- 0]; pop 79; let taya[2] = 525 end main : while A1Y0(756, 72200) * g3c(5) or false : chillax end end

@@ -1,0 +1,1 @@
+program VC4 : r79 : takes a : boolean; S, p : boolean returns nothing do H((1320) or 834 - 3); let p07 = 71; when case 58 = 1 : chillax end case 6 : chillax end otherwise : chillax end; output "" end main : HQ : integer array; y : integer; chillax end

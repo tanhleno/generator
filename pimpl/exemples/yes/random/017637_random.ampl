@@ -1,0 +1,1 @@
+program Yg : i : takes O860, t8 : boolean; h9 : boolean; DG, b8A : boolean array; FF, I : integer array returns boolean pop end main : W0, W, m : boolean array; Y9laa, d30, oT : boolean array; Rs, p, c, Q : boolean array; pop(6) end

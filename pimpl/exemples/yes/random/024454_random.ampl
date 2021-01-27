@@ -1,0 +1,1 @@
+program j : p9 : takes H, Q570a : boolean returns nothing l : boolean; N : integer array; C, e9, a1 : integer; pop 3 - 8 > 1; pop 3; when case 6 = 95 : chillax end case 3 : chillax end; input b8[80] end B41a : takes T, y : integer; A1, Y9, t : boolean array returns integer array ei : boolean array; when case - 69100 < 2300 : pop end end main : chillax end

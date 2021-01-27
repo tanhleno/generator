@@ -1,0 +1,1 @@
+program b3raa : K66a : takes f0 : integer array; Rs2, l : integer returns nothing chillax end main : pop; while - false + true and 5 = - true and 4 : chillax end; when case - false : pop 5620 end; output "51" . 20 . 377 end

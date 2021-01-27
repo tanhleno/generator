@@ -1,0 +1,1 @@
+program Z : sR7 : takes u1, Ne, zj : integer returns boolean array Bc : integer array; q : integer array; input e[false]; while 6 = 9 : when case 66 : chillax end end; when case 8 = 606 : pop; pop end end main : x, N, Fq_ : boolean array; S, T, i2, L0T : boolean array; R, N, XcH, G, rS7 : boolean array; chillax end

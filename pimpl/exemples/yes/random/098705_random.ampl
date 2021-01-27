@@ -1,0 +1,1 @@
+program w6O : main : while - 3910 + g[35] - (47) <= false + not 2 and 7 or 646 : output "" . ""; when case 0 : chillax end case 657 : chillax end case 3 : chillax end otherwise : pop end; do pI4aa(3, 6) end; do U(- false = - re3) end

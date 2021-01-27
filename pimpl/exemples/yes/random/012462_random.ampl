@@ -1,0 +1,1 @@
+program N0 : K : takes r, w, k : boolean returns nothing pop - 80100 - 293; do S2(- 04 - 61, 163 = 6, 4) end i : takes W : integer; qAS0a : integer array returns integer array r, rN : boolean; chillax end main : uoeaa, g : boolean array; P0aaa, k74, iC : integer array; chillax end

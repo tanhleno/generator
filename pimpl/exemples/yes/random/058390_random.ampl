@@ -1,0 +1,1 @@
+program M : E : takes f7 : integer array returns boolean NW : integer; do w2(true or 5, 1450 < 6); when case - 998 : do kf8a(37); output ""; pop end case 65 = 6 : let S = 114; pop end otherwise : input _ end; let BD = array 881 end main : chillax end

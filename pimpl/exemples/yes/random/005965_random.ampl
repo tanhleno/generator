@@ -1,0 +1,1 @@
+program cy0 : g : takes Y, D, o, s7g : boolean returns integer array Y2 : boolean array; nU : integer array; output 00; pop 325 end main : K, bJ : boolean array; while - 832 or(06) / X : chillax end end

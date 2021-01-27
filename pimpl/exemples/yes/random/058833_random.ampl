@@ -1,0 +1,1 @@
+program V : x : takes i02 : integer array returns integer array N78 : boolean; chillax end wU : takes kY : boolean; a, lnMa, R : boolean array returns nothing Wa : boolean array; do h_(0 - 1) end W : takes K : boolean array; o : boolean returns nothing chillax end main : while - false : chillax end end

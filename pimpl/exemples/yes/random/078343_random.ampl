@@ -1,0 +1,1 @@
+program r : main : aw : boolean; do a5(19 / (6) > - true and 4 + MQN or 2 - 9); when case false + X0ma >= - 8 : output 64400 . "270"; pop 6; do T(820); when case 9 : chillax end end case false - 732 : output 2 end case - 3 - 5 : chillax end case 230 = 81 : output "" end case 988 : chillax end case 7 : chillax end; input Ga[19 - 4 - 751]; pop 3; pop 5 end

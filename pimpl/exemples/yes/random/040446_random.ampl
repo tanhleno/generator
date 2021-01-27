@@ -1,0 +1,1 @@
+program q79 : Z : takes u5 : boolean array; q94aa : boolean returns nothing J : integer array; chillax end X : takes u : integer array returns nothing when case - 476 - 605 /= 2450 : let at7a = 4; output "" end case 45300 = 35 : chillax end otherwise : pop; pop end end main : Y2, l, b : boolean array; M, H : boolean array; lCM0, g69a : boolean; l : integer; chillax end

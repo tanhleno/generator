@@ -1,0 +1,1 @@
+program tv80 : o3 : takes M : integer returns boolean array chillax end W : takes S : boolean returns integer array n, Bf : boolean array; O, w : boolean array; Zs, d : boolean; l : boolean; chillax end main : chillax end

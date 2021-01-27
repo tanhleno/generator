@@ -1,0 +1,1 @@
+program c : X6 : takes a5D : boolean array; M : boolean array returns nothing do m(false and 2) end u : takes h : boolean array returns integer chillax end main : pop not R * not 3 = true; while - h(1) / (061) or 75 and 5 + 4 - 25 = - false and 2 or 3 - 1 : chillax end end

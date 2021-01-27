@@ -1,0 +1,1 @@
+program U3 : Z : takes X3 : integer array returns integer array chillax end main : O, Pxm : boolean; u200, D : boolean array; let Z5 = - (9) / false and 2 or 3 and 328 or 382; output 8 <= 466 . 04800 <= 46 end

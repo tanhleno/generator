@@ -1,0 +1,1 @@
+program Y : J : takes y3 : boolean returns boolean b : integer array; KAO : integer; j3 : boolean; T : boolean; while true and 207 : pop; pop end; while - 2 : chillax end; pop 4; pop 91; do Z2(30) end main : chillax end

@@ -1,0 +1,1 @@
+program k : main : while - 6 + (6) + (7) and 7 = not true rem 9 or true and 1 + 32 - 92 : chillax end; while - Jsq and(97600) or not 6 >= - not 19 : do r(2, 24); input a end; let gZ30a[(7) and 849] = 2 - 7; when case 9 - 226 = 4 : output "l\t"; while 973 : chillax end; pop end case 78 = 656 : chillax end end

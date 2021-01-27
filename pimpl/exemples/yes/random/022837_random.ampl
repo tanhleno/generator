@@ -1,0 +1,1 @@
+program e0 : y1Xaa : takes U, u : boolean array returns nothing while not 14 or 7 - 55 = 8 : chillax end end s6 : takes i, N : integer array returns nothing input w3N[7 - 93]; output "" . 8 . ""; while 399 : chillax end end b : takes B2g : integer array; n, K, X : integer returns boolean n : boolean array; W, XW : boolean; chillax end main : chillax end

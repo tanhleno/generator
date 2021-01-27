@@ -1,0 +1,1 @@
+program k : I1 : takes CfD, a : integer array returns nothing u9uaa : boolean; h, e : integer array; i500, kVh, I : boolean array; chillax end G5H : takes o420, GT50, t, j : boolean array returns integer array while - 7 : do L8(1) end end main : R : integer; output - true - false and 06000 or 6 > - false and 5 end

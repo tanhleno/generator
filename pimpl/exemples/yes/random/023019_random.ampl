@@ -1,0 +1,1 @@
+program X : Q : takes MS, pK : boolean returns boolean array cy : integer; V, eN : boolean; let B[(2) and 58] = array - not 735 and 4; when case - 5 >= 548 : chillax end; while 90 : while 3 : chillax end; pop end end Z : takes A : boolean returns boolean array j, Yb, Kd : boolean array; P : integer; chillax end main : chillax end

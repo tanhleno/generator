@@ -1,0 +1,1 @@
+program P : main : d, X2vaa, OK, y4, Y : boolean array; n : boolean array; Ameaa : integer; when case - 184 + not not 93 < 38 / not 5 and 9 : input R end; when case - (0) rem IOi and 7 + 9550 : chillax end case 44 and 3 - 221 - 9 > 76200 : chillax end case 45 - 0 : chillax end otherwise : chillax end end

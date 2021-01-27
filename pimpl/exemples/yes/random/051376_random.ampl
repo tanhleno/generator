@@ -1,0 +1,1 @@
+program M : p : takes f : integer; i : boolean; k, x : boolean array; O74, g1Q : boolean; G, w, U3 : boolean returns nothing chillax end main : o : boolean; when case true / 5 : chillax end case false * not 2 - true and 66 - 51 - 1 : chillax end; let B84[false] = array false - true and 39 or 46500 end

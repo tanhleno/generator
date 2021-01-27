@@ -1,0 +1,1 @@
+program H : RaG0a : takes l44, y5 : boolean array returns integer array J : boolean; ZHu : boolean array; chillax end y8 : takes z_w0a, BC : boolean array returns boolean U9P0a, p : boolean array; pop; input WK[8] end main : r1 : boolean array; R8Z, G9 : boolean array; chillax end

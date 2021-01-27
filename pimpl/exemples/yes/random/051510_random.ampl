@@ -1,0 +1,1 @@
+program _ : J6 : takes rkZ : integer; Mf : boolean; nD : integer; R : boolean array; u, X, y6, B : integer returns integer input H870a[b and 48] end main : pop; output "u!" . "" . 26; do Z6Baa(- false - 09) end

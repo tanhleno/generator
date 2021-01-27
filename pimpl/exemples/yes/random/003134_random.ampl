@@ -1,0 +1,1 @@
+program W : D4 : takes U, S0Q0, R, k, M6G : integer; T91a, Y, i9, V : integer returns nothing chillax end main : gq2, Y, cH : integer array; while - BrY * 4 * false : output 74700 = 2; input B[684]; do Vt(3, 8990); input b; output ""; pop end end

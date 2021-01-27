@@ -1,0 +1,1 @@
+program O : j : takes As2, D : integer returns integer Gy, q, o : boolean; pop - 249; while 6 > 64700 : let A = 7; do es00a(807); pop end; let qA = 97; while 6 : pop end; while 68 : chillax end end oE3a : takes u1 : boolean array returns nothing chillax end main : chillax end

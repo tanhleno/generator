@@ -1,0 +1,1 @@
+program Y45a : o : takes l, pY2 : boolean array; n : boolean; H : integer; C : integer array; V8, tc4a, x, b : boolean; NeF0, z44, I : boolean returns integer let Dz[456] = - 14 - 8 <= 1 end o03 : takes a, h, D460a : integer returns nothing input eRg[3 - 78] end main : x, Qn : boolean array; output "6"; pop end

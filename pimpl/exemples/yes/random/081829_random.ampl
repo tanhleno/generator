@@ -1,0 +1,1 @@
+program E510a : main : m : boolean array; o2 : boolean array; when case - (6 = 734) / false - false + (5) + 6 - 8 : when case - 9 - 556 >= 82 : while 52 : chillax end end otherwise : chillax end; when case 436 = 35 : while 8 : chillax end; pop end case 1 : pop end case 85 : chillax end end case true - t and 6 > - (91) and 5 or 9 : chillax end end

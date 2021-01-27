@@ -1,0 +1,1 @@
+program W : h8 : takes d, J : boolean array; j : boolean array returns integer array _, a8, o : integer array; Rq : integer; while not 3 - 0 /= - 2 - 01 : pop 05; pop end end main : A : integer array; T : integer array; VI7, g, V : boolean; a : boolean; do HFf(- not true or false - false or 0 - 62 <= - true, true + Tx - 2) end

@@ -1,0 +1,1 @@
+program t : P : takes O, m1c, b : boolean returns nothing S, I : boolean array; output "" end main : b4, o : integer; B5S : integer array; PT : boolean; S : boolean array; let YDq0a[- not not 024 rem(2) + not G7F rem mN] = array false / true; pop end

@@ -1,0 +1,1 @@
+program g : V : takes G7 : integer; B : integer returns integer array q : integer; C5, t, I : integer array; do p(not 99 and 0 - 4920 - 1, - 671 > 0, 83 = 7, 4060); pop end main : A : boolean array; chillax end

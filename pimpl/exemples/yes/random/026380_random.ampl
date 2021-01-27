@@ -1,0 +1,1 @@
+program r : R : takes AX, wmC : integer; e : boolean returns boolean while yx + 3030 >= 9 - 9 : chillax end end o : takes z, t7, Z : integer array returns integer l290 : boolean; when case 9 - 04 : chillax end otherwise : when case 9 : chillax end; pop end; input Y; input b; input x end main : chillax end

@@ -1,0 +1,1 @@
+program v : M : takes Q3, T : integer array; e : boolean array returns integer while false and 5 < 1 : chillax end end b : takes S5 : boolean; Z5 : integer array returns nothing input TK; when case 4 = 31200 : input v; pop end otherwise : chillax end; let h[86900] = 3; when case 8 : chillax end end main : input e[(93500) - 39300 rem false] end

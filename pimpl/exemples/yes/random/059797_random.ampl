@@ -1,0 +1,1 @@
+program r : b0 : takes v : integer array returns nothing chillax end w : takes Q : boolean array; M : boolean returns boolean array chillax end C37a : takes p : integer array; Z8c, a, H3 : boolean array returns nothing when case 0 = 6 : pop end otherwise : chillax end end main : chillax end

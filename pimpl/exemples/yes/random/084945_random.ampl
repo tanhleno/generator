@@ -1,0 +1,1 @@
+program PI30a : main : rf : integer; output "" . Q and 1 or 5 - 63 < 5 - 216 . "" . "3" . "\t2a"; let lY[- true or I and 18 + 983] = false and 2 >= 55 - 8; while - false and 1 : chillax end; input Ne end

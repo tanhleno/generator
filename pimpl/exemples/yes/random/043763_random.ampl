@@ -1,0 +1,1 @@
+program b : T : takes Q6 : boolean array returns nothing chillax end main : m5q : integer; o4 : boolean; let x = array(4 = 5) * true and(8) and 10; output "`&"; input md[- not 01]; output 19400 = 404 . 95 end

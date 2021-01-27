@@ -1,0 +1,1 @@
+program e : Vo : takes t, O, d : integer array; fD, g0, tsm, d, w : integer array; Y, i, K, j15a : boolean returns integer array when case - F + 3 - 9 : chillax end case - 70 = 981 : when case 139 : chillax end; while 8 : chillax end end case 5 : chillax end case 61 : pop end end main : K : integer; input E; let yp5a[(7) - 2130 + 7 - 4] = true and 5 end

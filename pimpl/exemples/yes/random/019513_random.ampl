@@ -1,0 +1,1 @@
+program RIV : V : takes n9, Ha : boolean array; Qu, SZ : integer array returns boolean array output - 5 > 5; while - 633 - 0 = 086 : output "180a" end end main : O, P4Ka, f9 : boolean array; oH70a, C : integer; chillax end

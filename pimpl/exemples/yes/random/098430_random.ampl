@@ -1,0 +1,1 @@
+program Y : main : while - SV3[0] / false * false - 4 rem 924 > - not false : when case - 87 - 6 <= 1 : chillax end case 867 = 0 : chillax end case 57 : chillax end otherwise : chillax end; output "" . "2"; do Djd0a(91500, 6) end end

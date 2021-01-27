@@ -1,0 +1,1 @@
+program fJt0a : y : takes uX : boolean array returns boolean chillax end Fp4 : takes y : integer array returns integer P4, KaU : integer array; output 8 . ""; input s[55]; let y = 69 end main : when case - true - 917 rem false or(44) or 8 : chillax end case - 9 and true and 8 or false : chillax end otherwise : chillax end; output not 13 and 833 or 1 - 79 <= 54 end

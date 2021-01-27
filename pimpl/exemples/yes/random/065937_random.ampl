@@ -1,0 +1,1 @@
+program A : main : do n(- (179 = 6) / false rem 51 + 03200 - true and 9 /= - not false); when case - 1 or TY4a and 3 < - 0 and 74 or 35 : while 647 : chillax end; output "3)\"a" end case true and 2 : while 94 : chillax end end end

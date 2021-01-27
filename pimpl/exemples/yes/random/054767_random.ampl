@@ -1,0 +1,1 @@
+program r : b : takes G020a : integer array; e, K : boolean returns boolean array X, q, ArBa : boolean; M : boolean array; L : boolean; w70, G8Ma : boolean; let q4G[not 5 and 6390 + 64 - 08] = array - 1 and 43; output 48; pop 4 end main : while false / n(2) or 4 * not 8640 and 52 + (583) : chillax end end

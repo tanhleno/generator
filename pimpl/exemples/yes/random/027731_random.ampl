@@ -1,0 +1,1 @@
+program U : S : takes O, O : integer array; ko, JKy0a : boolean array returns integer pa50a, o4w, P1, SdQ, Nol0a : boolean; TdU0a : integer; do gH(797 and 2 - 3 - 80, 0 - 3 > 11900) end main : X : integer; _, I, UKb, vGV : boolean; chillax end

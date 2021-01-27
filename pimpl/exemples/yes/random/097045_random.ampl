@@ -1,0 +1,1 @@
+program VP : main : when case F[0] >= - 6 : chillax end case - 6 /= (40) and 1 : chillax end case 8 : output 83; output ""; pop end case - 16 - 488 > 4 : chillax end; do n(- not F rem true and 9570 + not 9) end

@@ -1,0 +1,1 @@
+program u0 : k : takes y : integer array; V, t : boolean array; dx3, u99 : boolean; w8oa, n, I, T : integer returns boolean G25aa, k, xsC, s : boolean; chillax end main : m : integer; let V0q[- true * 6 or 5 - true - 23] = 37 - false + 1; when case 4 - false : pop 5; output "" . "m" end; pop end

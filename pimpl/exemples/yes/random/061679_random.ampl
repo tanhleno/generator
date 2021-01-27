@@ -1,0 +1,1 @@
+program H : v4 : takes Z0 : integer array returns nothing while true or 34 - 51 : chillax end end D : takes g : boolean returns boolean chillax end H23a : takes D : integer returns integer array X4, G, L3 : integer; ZI : boolean; d : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program w : main : Mqp : integer; wXBa, c0 : boolean; d : boolean; do O60aa(false + (86) /= R0 - false and 0530 + 25, (212) and(3880) and 4 - true and 3); when case - not h / 5 or 25 and 54 = uJZ0a : when case 176 : chillax end; output ""; input h8; input K5; pop end end

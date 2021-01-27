@@ -1,0 +1,1 @@
+program Bk80a : vK : takes w01aa : integer array; e, t : integer; r : boolean array; V : integer array; y6 : integer array returns nothing chillax end N : takes A, v2d, l : integer; o2_a, Z : boolean returns nothing do J(- 5) end main : i : boolean; chillax end

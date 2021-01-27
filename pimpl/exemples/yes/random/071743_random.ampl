@@ -1,0 +1,1 @@
+program DL : main : s, _, K : boolean array; input d; when case true : input u6[4] end case - (8) or 856 - 34 > 74 - 82 : when case 837 : pop end otherwise : chillax end end otherwise : when case 7 : pop end case 79200 : chillax end end end

@@ -1,0 +1,1 @@
+program H : main : d, UZe : boolean array; let ua60a[- (1)] = 0540; when case not not 41 rem not 5 : input A[13] end case E and 7 + 3 - 7 < 3 : let _[32] = 7; output "\t<" end otherwise : do KYl(6020, 3); let t = 7 end end

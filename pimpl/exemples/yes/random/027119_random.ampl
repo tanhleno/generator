@@ -1,0 +1,1 @@
+program h3 : nP : takes e2Fa, a : integer array; S, D, r, w4, V : integer; d7, VBuaa, j : integer returns nothing GI : boolean; chillax end I : takes h3 : integer array returns nothing chillax end H : takes Y0 : integer array; C090, v : integer; d : integer array; l : boolean array returns integer _y : integer array; chillax end main : chillax end

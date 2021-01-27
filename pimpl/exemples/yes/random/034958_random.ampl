@@ -1,0 +1,1 @@
+program m : M920a : takes b : boolean; Tzs0a, L4 : integer array; V : boolean array returns integer o, f29, d7 : integer; do v3(false + 15 - 4 >= 7 - 6, - 2); output 8500 . 14 . 80 . "" end E : takes K, u : integer array returns nothing c : boolean array; RBC : boolean; input _[56 - 4] end main : Td4, LI0, S_6, D0 : boolean; Vey : boolean array; pop end

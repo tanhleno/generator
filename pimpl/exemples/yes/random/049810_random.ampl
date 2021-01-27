@@ -1,0 +1,1 @@
+program o : k1 : takes d : integer; Q, e4f0, r : boolean; I : integer array returns integer array do xlJ(- (46) - 0 - 42) end main : S, R0 : boolean array; k2 : boolean array; do a((8) or d6O0[38] and(7) - false or 6 - 451); let M = array - 2 and true; while not 08 >= - 5 - 8 : chillax end end

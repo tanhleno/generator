@@ -1,0 +1,1 @@
+program x : EY0aa : takes r, U, L, L : integer array; vR : integer array returns nothing pop - 20 end wq : takes S6 : integer; F, AD, C4 : boolean array returns nothing t : integer; W : integer array; when case 3 - 0390 : chillax end end main : P6, U2l : integer; T : boolean; n, _3, Ah : boolean array; chillax end

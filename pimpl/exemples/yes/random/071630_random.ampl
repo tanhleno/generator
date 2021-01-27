@@ -1,0 +1,1 @@
+program O : main : vB10, Z, I : boolean array; x : boolean array; r : integer array; T8 : integer; when case false + true * true and 0 < - v(1) - 8 and 0 : chillax end case true + 070 and 1 - 9 - 3 >= - 9 or 6 - 5600 : chillax end case(136) and 88 or 2 - 4 : input W[0] end end

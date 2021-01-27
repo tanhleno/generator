@@ -1,0 +1,1 @@
+program X2 : O8 : takes oZ, n : boolean array; m25 : integer array; Tz, x5, d : boolean array returns boolean do sg(- true + 38 < 9 - 0180); output "D" end FX : takes m, G, Bq40a : integer array returns nothing C : integer array; h, K, Z : integer; S : boolean; chillax end main : L9, Q, o, bP9 : integer array; Lcza : boolean array; output ""; output "9" end

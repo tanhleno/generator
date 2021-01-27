@@ -1,0 +1,1 @@
+program kt3 : main : input I9[- 111 * false]; do Z9d(T(91) / true and 2 - l3, - true or 408 - 1 > - 97 - 3, - 4 < 7); do C(3920 or 2 - 0); input r; pop; when case 78 : chillax end otherwise : chillax end end

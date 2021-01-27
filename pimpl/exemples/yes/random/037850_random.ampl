@@ -1,0 +1,1 @@
+program lX6 : _9 : takes HQ10a : boolean array; F, B, B2, X : integer; T : integer array; MV, ba : boolean array returns boolean U : boolean; T93, OD : integer array; p, a : integer array; output "\n"; pop 8 = 7; when case 0 : when case 8 : chillax end; pop end end main : output 5 * not 2 and 8 <= - W and 56 + 8 - 12 end

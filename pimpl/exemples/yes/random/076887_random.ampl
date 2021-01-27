@@ -1,0 +1,1 @@
+program n8Ta : main : A_G0a, M0d0 : integer; when case - F[00] - k / not 3 or not 6 : when case - 38 - 9 /= 7 : output "T" end otherwise : chillax end; while 4 : chillax end; when case 6 : chillax end otherwise : chillax end end case - 01 - (7) and 072 or 2 > 90 and 16 + 8 - 10 : do w(67 = 4) end case - true : input r; output "" end; let D = - Hg or 1350 end

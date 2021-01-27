@@ -1,0 +1,1 @@
+program G : a : takes V, X0, H, vK : integer returns integer array pop; pop; input bV; pop; let U = 79 end iOR0a : takes F, mX, m, t : integer array; Z, B, R, q : integer array returns nothing O : boolean array; chillax end main : AT, ZW : boolean array; l : boolean; chillax end

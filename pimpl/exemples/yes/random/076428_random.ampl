@@ -1,0 +1,1 @@
+program d8X0 : main : wb, a5na : integer; W : integer; i0, j : boolean; Z, g, I, V : boolean array; E : boolean; Fm, h : boolean; v : boolean; do d(not not not 8 rem false / true, false < false, - r and 5, 2 <= 27, 63); pop end

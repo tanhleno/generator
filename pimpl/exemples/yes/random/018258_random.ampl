@@ -1,0 +1,1 @@
+program P9e : C : takes Y1, eM : boolean; M : integer array; h, q, r : integer array returns nothing J : integer; while not 7 and 6 or 88400 - 694 = - 5 : when case 2 : pop end otherwise : chillax end end; input ET; do tqQa(00, 3); do v(2) end main : while - false - 25 >= - false : chillax end end

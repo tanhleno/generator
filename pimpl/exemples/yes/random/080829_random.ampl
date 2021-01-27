@@ -1,0 +1,1 @@
+program L : main : f : boolean array; au, mZ1aa, A, i, oA10 : boolean array; do A(- true, - 138 <= 3 and 36, not 7 and 4 or 8 - 3, - 97 - 4, 17 = 09); when case P[0010] rem not 793 and 7 + not 83 and 2 < - 11300 and 1 or 9190 - 09 : chillax end; output "" end

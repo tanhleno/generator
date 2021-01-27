@@ -1,0 +1,1 @@
+program t : y : takes y, PE6 : integer array; T : boolean array returns nothing fQJ0a : integer array; vt, Wsm : integer array; let t = - 76900 - 33500 end main : Jb, s960 : integer array; b9, o : integer array; do H(false / (0) < (1) * x64 and 4, - not(2) rem true >= - not 34 and 3050) end

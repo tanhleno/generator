@@ -1,0 +1,1 @@
+program S6 : main : j : integer array; N : boolean; let lrI0[- (38)] = array 97; when case - true = - (1) and 9 : chillax end case true : chillax end case 74000 : let l5paa = 32; while 2530 : chillax end; pop end; do u47aa(- true and 03 or 983 = 064 - 41200); while 3200 - 7 > 8 : do O(057) end; let N[362] = array 23 end

@@ -1,0 +1,1 @@
+program d22 : EO : takes o, H7 : integer array; cyta, n1 : integer; e, C : boolean array returns integer let e = - 70 - 3 end m : takes refa, p : integer array; a7Gaa : boolean array returns nothing let _ = array - 11 - 93800; while 41 = 34 : chillax end; output "7]" . "g0\"a"; pop; input K; pop end main : chillax end

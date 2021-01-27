@@ -1,0 +1,1 @@
+program V : vi20a : takes Y, To : boolean array; T7, F, qs, z : integer returns nothing input mh[- true + 457]; pop end main : Z : boolean array; when case U[7] + 168 or z0 and 1 > (98) + true and 8 + 200 - 8 : when case 79900 <= 59200 : pop; input Lg5aa; pop end; output "%4" . ".4"; input yy[2] end otherwise : chillax end; do g(- false + (8) - 960 < - so7 and 2 or 7) end

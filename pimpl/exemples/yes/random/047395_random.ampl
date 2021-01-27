@@ -1,0 +1,1 @@
+program eJoa : A8k : takes s : boolean returns nothing chillax end v : takes T, B, P2, S6 : integer array returns nothing when case 29 : let b = 4 end otherwise : while 74 : chillax end; pop end; let u4 = array 42; input B end ba00 : takes X, g : integer returns nothing chillax end main : le9a, b : boolean; t : integer; chillax end

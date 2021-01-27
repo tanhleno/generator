@@ -1,0 +1,1 @@
+program y : p7 : takes x7 : boolean array; T3, m3, Y, qm7, XY : integer array returns integer l, xYVa : integer array; LD : integer; z : integer array; B, k18 : boolean; e : boolean; g : boolean; chillax end main : output(75) rem 00 and 952 > - XS and 94 + 76 - 2; do j(false * (3), not 9, - 277 - 64, 6) end

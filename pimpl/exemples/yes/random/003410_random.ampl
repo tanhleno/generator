@@ -1,0 +1,1 @@
+program xS : PY : takes Om, aR, to6, A4m, g : integer array; _, MP, S, e71 : integer array returns integer array output - 7 = 03 end J : takes H : boolean returns integer let B4a = array 34 - 4; pop; do q(8); let a = 1970 end main : Y, AA0, i, koq : integer array; a, lX : integer; h33 : boolean array; output - false . ""; do e(false * true >= - not 92 + 0) end

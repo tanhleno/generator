@@ -1,0 +1,1 @@
+program h : main : x9, o, NO9 : integer array; while false rem(0) * x07 <= - F[81100] + not 00 and 0 : chillax end; input z3x0a; while - true : do m(550, 150); input d0w; input K end; do S(92 - 70 = 164) end

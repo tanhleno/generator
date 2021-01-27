@@ -1,0 +1,1 @@
+program P : _ : takes X, E44, N, o73, E3Aa : boolean; N9L : boolean; B, w, c : integer array; N, S : boolean array; f : integer returns nothing pop 2 - 814 end main : PE : boolean array; kR2, ce2a, f, ST, S, G : integer array; chillax end

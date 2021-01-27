@@ -1,0 +1,1 @@
+program K2 : Z7 : takes C35, NjQ0a : boolean returns integer chillax end main : do Yk(- J[1] rem false * not 49400 or 49 = - 8); let DR5aa = array 70 and 81; do mQfa(- K0 > 40 - 967, 8 - 1, 3 = 44) end

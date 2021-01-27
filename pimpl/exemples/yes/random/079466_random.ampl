@@ -1,0 +1,1 @@
+program C : main : Xt4aa : boolean; xZ : boolean array; pop; let W[- (8) and true or SD or 887 - 7520] = - not 8560 >= - 8 - 3; while true and 89 : let D = 9; output "" end; let Y[- 00] = array - 8 - 0; output "j<" end

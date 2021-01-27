@@ -1,0 +1,1 @@
+program B7L : w31 : takes U, B, o, v30 : integer returns integer chillax end tPu : takes Q2 : integer array returns integer array chillax end main : n : boolean array; l : boolean; H, j : boolean array; y, q, s : integer; _ : boolean array; Q, Vs10 : boolean; chillax end

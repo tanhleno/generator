@@ -1,0 +1,1 @@
+program Y : O : takes H37, J : boolean; D : boolean; S : integer; e : integer; a : boolean; u9Da : integer; G0, B04a : boolean; z_ : boolean returns integer array N : integer array; input x38; do G7i(82 <= 815, 23, 7); input S; output ""; output "3A!a" end main : uA0 : boolean array; chillax end

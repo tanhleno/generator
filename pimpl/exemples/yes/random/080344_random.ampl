@@ -1,0 +1,1 @@
+program GIm0 : main : u430 : boolean; when case - false * T[2] and true - (2) - not 27 and 038 /= true - true : chillax end case(7) rem(175) and 3 - (29) and 8 + 6 : when case 1 = 2 : chillax end case 4 : pop end otherwise : pop end end case not 91400 + 7 - 34 : pop 43; when case 6 : chillax end end end

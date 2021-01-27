@@ -1,0 +1,1 @@
+program vO : S200 : takes U, un8, O, q3iaa : integer; v : integer; C, iW3, l4 : boolean array; a4 : boolean array returns nothing chillax end x : takes a, d, h2 : integer array returns integer U, W4O, UY7a, i3 : boolean; do J(- 596, 038, 083, 8) end d : takes l, i8T : integer returns nothing S : integer array; EY, l : boolean; O : boolean; input MW7a[4] end main : chillax end

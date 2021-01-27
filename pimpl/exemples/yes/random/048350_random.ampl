@@ -1,0 +1,1 @@
+program Y : n : takes eh2 : boolean returns nothing L9 : boolean; o, k8, T36, Y : boolean array; R, WQM, H : boolean array; h7, G : boolean; C2Ia : boolean; while - 7 and 6 - 22 = 2 - 139 : chillax end; let P71a[- 99] = array - 34 - 5; input xj0a; do k2(226) end main : Q : integer; w, I : boolean; M7 : boolean array; d, b : boolean array; chillax end

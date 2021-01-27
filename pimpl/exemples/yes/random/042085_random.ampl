@@ -1,0 +1,1 @@
+program S : s : takes l : boolean array returns boolean n, L5, s : boolean array; k, h : boolean array; do O05(x); while 23000 - 1 > 55 : let C = 48 end; while 5 : pop; pop end end main : chillax end

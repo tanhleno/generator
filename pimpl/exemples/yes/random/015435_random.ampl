@@ -1,0 +1,1 @@
+program I : T4 : takes ZVCaa, N, k : integer array returns nothing J : boolean; b : integer array; while - (966) < 9 : pop; input n; output "\n" end; while 51 - 8 /= 1 : output "" end; output 58 . "\n\"" end main : yKs : boolean; chillax end

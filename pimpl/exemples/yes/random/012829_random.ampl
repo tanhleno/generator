@@ -1,0 +1,1 @@
+program Q : A : takes H, a7, s5D : integer; s, Q5 : boolean; Kb : integer array returns boolean array while G and 09 or 6 - 70500 >= 6 - 4410 : input NY[4]; output "{"; let m7V0 = 05 end; pop 4; let x3 = array 062; while 8 : pop end; let Lc = 467 end main : EQ5, J7 : boolean array; _, K2, _, KT, N : boolean array; chillax end

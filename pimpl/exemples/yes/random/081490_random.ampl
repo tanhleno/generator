@@ -1,0 +1,1 @@
+program y : main : _z : boolean array; t, eP : integer array; let K8I0a = array(5) rem l(6) and not 58 and 31 - false; while G(7) / true <= false + 1 - 4 : when case 297 = 44700 : chillax end case 40 : chillax end otherwise : pop end; let n = 19 end end

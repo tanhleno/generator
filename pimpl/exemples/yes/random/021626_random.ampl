@@ -1,0 +1,1 @@
+program U : A : takes Gwma, w : boolean array returns integer k, Il, B : boolean; H5e : integer; C, RYM, o3 : boolean array; chillax end main : r : boolean array; when case - true rem Xu or false rem false and 4 < - (52600) rem not 8 : chillax end case(8) or(5) and 88 or 6 : chillax end; output - not 9 and 2 /= 92 end

@@ -1,0 +1,1 @@
+program L540a : L : takes L_F0, U6 : boolean; K : boolean; cT : boolean array; A : integer; h, u, o4, t : integer returns integer array chillax end V : takes W, y, Z29aa, ER : integer array returns nothing h : integer; chillax end j1 : takes hGN : boolean returns integer array UPt0a, l : integer; WJ, s : boolean; Ng_ : boolean; chillax end main : Eu : boolean array; chillax end

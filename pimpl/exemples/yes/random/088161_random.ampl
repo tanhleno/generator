@@ -1,0 +1,1 @@
+program r : main : input N; when case - true * B : do W(3 = 8); while 0 : pop end end case(49000) and 335 or 97 > 3 : do K0(2) end; let _S0aa[- true and 85500 + 7 - 939] = array true and 5070 + 0390; when case - 1 : do t3B0a(3) end otherwise : when case 8 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program i : main : when case 53 + b(4) / (1) and 2 : chillax end otherwise : pop; pop; input i; do A(33) end; output false or 4 < - 9 - 9 . 7 - 1; while false <= 4 - 3 : let z3[3] = array 5; let K = 1; output "N"; pop end; while 09 : chillax end end

@@ -1,0 +1,1 @@
+program C340a : B8w : takes AN, GFN, T8I, K : integer array returns nothing N : integer array; fA : integer array; when case true and 898 : chillax end case - 02 - 9 : let dr3 = 0; input eLX; pop end case 253 : chillax end; input l1 end main : let f9S = array 375 + true - true and 2; output(9) and 5770 + 67 >= - 15 - 4 end

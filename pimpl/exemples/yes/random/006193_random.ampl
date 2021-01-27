@@ -1,0 +1,1 @@
+program J1 : bB60a : takes K, h, X5, vf : boolean returns nothing s : boolean; chillax end main : d : integer; x, q : integer; while aK10a(4, 1300) - (50) * not 714 or F and 34 : input lnh0a; let M3[4] = array 47 end; input MV end

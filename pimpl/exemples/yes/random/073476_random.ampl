@@ -1,0 +1,1 @@
+program V : main : RPR, Z4S : boolean; p, u, P : integer; I : integer; IE, p9, i4p0, P2R0 : boolean array; V, p : integer; qcG : boolean; do mX80(- U(9) / _(59700) rem not 7 + not 1 or false and 2 + 5); input u70aa[- l6Ja or true and 55 - 19 - 7] end

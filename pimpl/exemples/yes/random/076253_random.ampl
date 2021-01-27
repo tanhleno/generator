@@ -1,0 +1,1 @@
+program jv5 : main : x, x5 : integer; L : boolean; s, c19 : boolean; o8 : integer; dKJa : integer array; Y30aa, T : boolean; pop; output ""; pop; pop 1 = 38500; when case 2 : chillax end otherwise : pop end end

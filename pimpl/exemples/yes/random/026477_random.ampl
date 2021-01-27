@@ -1,0 +1,1 @@
+program Pe : uH20a : takes m5r, x : integer; aV : integer; R, L, A8s, d : boolean returns nothing output "'0" end v : takes e, k, k, zWX : integer; x : integer array; uMO0a, GY, l : integer array returns boolean array chillax end main : do l6(false, _P9[4] or QH1 - 458) end

@@ -1,0 +1,1 @@
+program m : q6F : takes Quo, i41a, O : boolean array; t, W, P, i0 : boolean array; y, p : boolean; a, S, i : integer; b220 : integer returns integer X, f, w0 : boolean array; input N; input XWI[0550] end main : chillax end

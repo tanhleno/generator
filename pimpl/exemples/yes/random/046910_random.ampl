@@ -1,0 +1,1 @@
+program O6kaa : _jRaa : takes zNR : boolean returns integer chillax end I : takes K, liK : integer array; E : integer; M, D : integer array; E2, X : boolean array returns nothing U, F : boolean; chillax end main : chillax end

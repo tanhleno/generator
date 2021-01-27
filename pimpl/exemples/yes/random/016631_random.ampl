@@ -1,0 +1,1 @@
+program h : c : takes N, nh, Tk : integer returns nothing while 2 > - 13 - 6500 : while 4 : chillax end; while 5 : chillax end; pop; pop end; pop 2; input v5M end y_Y0 : takes rg, l6 : integer; hA, x : integer array returns nothing D : integer array; t : integer; chillax end main : chillax end

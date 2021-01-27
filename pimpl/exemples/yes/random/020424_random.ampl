@@ -1,0 +1,1 @@
+program v9 : Wn : takes Q, R : boolean array; j : integer array; Vth0, R : integer; s2, i36 : integer returns integer do _(- (9)) end main : g, M : boolean; while false + not(06000) - 38 and 0 or 2020 - 9 > - not true and 6 and 5880 : chillax end end

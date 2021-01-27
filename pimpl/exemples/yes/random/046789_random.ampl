@@ -1,0 +1,1 @@
+program b : d : takes l : boolean returns integer array input T end W2 : takes w : boolean returns integer array x : integer; while - 05 > 90 : output "" end; let qn7aa[8] = array 3900; let d[47] = array 5 end main : output "" . - false and 66000 - 8 - 9840 < 0 - 6; input d; do h(- false); pop 0 = 79 end

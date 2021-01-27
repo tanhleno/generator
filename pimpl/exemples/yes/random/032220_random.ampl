@@ -1,0 +1,1 @@
+program mCBa : g : takes c4, E : integer returns nothing chillax end Zi7 : takes If, qO3aa : boolean; S, Z13, fDmaa : integer; W_, fu, el, QS7 : boolean; p, W : boolean; kH : integer returns nothing Ut : integer array; input _[9] end main : M : boolean; output "" . (828) and 40 >= - 5 - 654; output "6" . 7 - 667 end

@@ -1,0 +1,1 @@
+program H2 : T : takes L : integer array; J, wI_ : boolean array; P : boolean; dkMaa : boolean array; A : boolean returns integer let B[- (8) and 0 - 2] = array(0) and 9 + 98 - 4; output "" end main : when case true * (6) or 729 / 3 : pop; input H4j end case(61) and 2850 and 01400 : let K = array 45 end otherwise : chillax end end

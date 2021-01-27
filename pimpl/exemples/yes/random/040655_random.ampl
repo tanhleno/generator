@@ -1,0 +1,1 @@
+program L8v0 : u6 : takes P3v : boolean array; b : integer; r : boolean returns integer array Kr : integer; chillax end h : takes Fc, E2, k, g2y0, C9 : integer returns nothing h4, f, v, _6j0a : integer; pop end main : A, xdq : integer array; input J9o[98 / false]; input k end

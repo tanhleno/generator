@@ -1,0 +1,1 @@
+program X : i : takes f, v7c : boolean array; YEh, n : boolean returns integer array r0, li : boolean; output "\\" end I08 : takes gl5, h3 : boolean; OR1, B, a, x, C, v : integer; I, ta, A5T : boolean array; re1 : boolean; V38 : integer array; R : boolean returns nothing chillax end main : chillax end

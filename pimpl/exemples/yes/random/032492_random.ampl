@@ -1,0 +1,1 @@
+program e : c : takes g, u : integer returns nothing OM, os50a, P, n : boolean; D : boolean; x, U3, Qn : integer; while - F and 3490 - 7 - 6 > - 903 - 87 : chillax end end main : b07aa : integer array; S5, NXd : integer array; input G; let V5[- D(36) - not 0990 and 5] = array true + (0) and 631 or 2 end

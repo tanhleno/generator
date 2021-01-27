@@ -1,0 +1,1 @@
+program x : main : while Zm[4] / not true or(4560) / 9 and 0 - not 02 and 691 : let v58[- 5 - 5070] = array - 3 end; do S(- not true - false + 484, false, 7, 1 = 7, 6770, 8); do uDh(- 4 and 70100 or 1 - 0 >= - 834, 512 > 8); let _64[06] = 328 end

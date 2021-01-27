@@ -1,0 +1,1 @@
+program i82a : w_S0 : takes RO : integer returns nothing while not 1 and 8 or 0890 > 4 : pop; pop end end z : takes e, BN : integer array returns nothing chillax end main : output "" . "\n"; input oe end

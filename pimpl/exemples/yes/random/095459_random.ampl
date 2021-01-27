@@ -1,0 +1,1 @@
+program f : main : when case(5 = 7) + p1Y[4] and not 92 : do f(205 - 8, 21 = 86300); output "3daa" . "" . "XW"; when case 2 : chillax end; pop; while 7 : chillax end end; let jr1aa[- (19)] = array false and false and 15500 end

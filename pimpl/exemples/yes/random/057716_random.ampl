@@ -1,0 +1,1 @@
+program c : M3 : takes c : integer array returns boolean array T650, h, w : integer; oz, Z, e, N9t : boolean array; LrJ, V, C : boolean array; chillax end main : oYI, z1, xO0aa, jF, hW, si : integer array; _ : integer; chillax end

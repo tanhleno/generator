@@ -1,0 +1,1 @@
+program v : main : k76a : integer; while - (90) : while - 27 <= 32 : output ""; pop; pop end end; pop(5) and 84900 + 62100 - 19; when case not 2 and 49 < - 05 - 9 : output ""; let J = 11; let M4M = 3; pop end otherwise : input P; pop end end

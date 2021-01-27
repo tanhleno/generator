@@ -1,0 +1,1 @@
+program e : u : takes Qf, V5, Z6, U8d : integer returns nothing u1, wAXa, fa : boolean; input p5 end R : takes l9 : boolean array returns nothing input q26 end main : do x(- (2920) + false < 54); pop; while - M6 or 9 - 2 : let LO = 47; while 7 : chillax end end end

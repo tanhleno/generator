@@ -1,0 +1,1 @@
+program x480a : W : takes Ym3 : boolean; P, c8 : boolean; q0, T1 : boolean; _8 : integer array; Y, K, VA : boolean returns nothing do JX(5 and 3 >= - 6 - 368, - 6 <= 147, 628, 8, 0); output 1 = 7 end main : Zv : boolean; chillax end

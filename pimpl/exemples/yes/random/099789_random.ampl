@@ -1,0 +1,1 @@
+program vZ : main : while 46 rem false : when case - 84200 < 45 : when case 201 : chillax end; pop; pop end case 05 : pop end case 22 : chillax end case 6 : chillax end; do E(6170 = 8, 9, 9640); output 52 end; output true and 01 - 1 /= - 43 - 477; pop 673 - 96 end

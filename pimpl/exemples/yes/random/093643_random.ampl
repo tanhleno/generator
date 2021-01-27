@@ -1,0 +1,1 @@
+program q : main : output true <= - false - 9 - 236; when case - false : chillax end; when case(46) and 1 = 89 : while 453 : chillax end; input d; when case 2 : chillax end end case 0550 : let YC = 53300 end otherwise : chillax end; let d2a[50] = 6 = 13; output 09 end

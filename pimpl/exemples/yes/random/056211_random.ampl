@@ -1,0 +1,1 @@
+program WW60a : c9Q : takes B0eaa : integer array; hL : boolean array returns nothing pop - 9 - 1 <= 471 end main : B : boolean array; do Wb5((65600) and not true rem false - (95900) rem(2) or cg and 26 - 90 - 1); when case iX(3) or true or 2 - 3 /= (3380) and 2 - 7 - 4 : chillax end otherwise : chillax end; while - 3 : output 9 . "E" end end

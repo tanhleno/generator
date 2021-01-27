@@ -1,0 +1,1 @@
+program c : d : takes h, t3, c, p : integer returns nothing Q, FX, z : boolean; chillax end QI : takes N, x7, S870 : boolean returns nothing s : boolean; sm2aa : integer; u : boolean; F : boolean; H : boolean; pop; do Z(23 = 6, 10) end main : m, z : integer array; D : integer; while - 290 = true - false or 54 : chillax end end

@@ -1,0 +1,1 @@
+program g : rX50 : takes W, O, F3, Ucb, n : integer; L7eaa, B : boolean; O : boolean returns nothing g : integer; chillax end lmg : takes AV, y : boolean array returns boolean array do eJqaa(- 2 - 2); input t[21] end main : A2 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program d020a : b : takes G5, LA, P : integer; i, U4, C28, NC, f : integer array returns integer chillax end main : do p010(7 / not not 35900 and(4) or 7 rem false and 5 - 67600 and 842 - 0 - 630) end

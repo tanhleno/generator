@@ -1,0 +1,1 @@
+program g : q : takes j : boolean array; x, F9Caa : boolean; gW, O2, I, M : integer returns boolean array v, s, Z, k, g3 : boolean array; chillax end main : let m = array 720 rem v or false * false and 15 or 6 end

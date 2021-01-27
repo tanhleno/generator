@@ -1,0 +1,1 @@
+program x : e960a : takes Pm, P, I200 : boolean returns nothing A : integer array; MG, o, T34a : integer array; HL : boolean; H, dg : boolean; YM : boolean; pop 235 - 96700; do E(- 55 - 03 /= 907, 4); output 6480 end B : takes b, U : boolean array returns nothing chillax end main : when case PT[326] rem true - (6) rem true and 7 + false : chillax end otherwise : chillax end end

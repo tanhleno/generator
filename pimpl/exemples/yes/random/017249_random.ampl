@@ -1,0 +1,1 @@
+program z : R1 : takes p92aa, n7 : boolean; AEt, Y59 : boolean array returns integer array chillax end E : takes y8, b, FE8, P, U : integer returns boolean array when case - 937 : let QYa = 0 end case 12600 = 3 : do a(1) end; do o(8) end main : chillax end

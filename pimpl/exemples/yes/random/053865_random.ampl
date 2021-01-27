@@ -1,0 +1,1 @@
+program ZE : Z : takes e : integer array; W4U0a, M, a : boolean; T, dz, n, Z7, jM2, r : integer array returns nothing chillax end main : let oZZ[false] = true or false and 78; when case - true + r and 556 : chillax end case not 86500 - 90300 - 97 /= - 73 - 4 : chillax end end

@@ -1,0 +1,1 @@
+program a1 : TS : takes X, kf, y2, N : boolean returns integer W : integer; hW, vRX, l17 : integer array; i9, P : integer; F7, k : boolean; a : boolean; l26aa : boolean; output 6; output 66 . 503 end main : v, z7 : integer; pop end

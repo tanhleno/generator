@@ -1,0 +1,1 @@
+program T8 : Q : takes _24aa, t, l : integer returns boolean V, A : integer; May, _5 : integer; chillax end main : when case - false or false rem v : pop 8 = 7 end otherwise : do l5(61800, 74, 6); let L0Za[75] = 42; while 07 : chillax end end; do H3((2)) end

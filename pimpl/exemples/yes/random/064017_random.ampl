@@ -1,0 +1,1 @@
+program UK : Fo : takes Ijh : integer returns nothing chillax end main : input BaL0[false]; while c[5] rem false : chillax end; input b92aa[false and 9 or 72]; when case 24 - 2 : chillax end otherwise : pop; pop end; input As; do N4iaa(06) end

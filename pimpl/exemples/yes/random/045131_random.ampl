@@ -1,0 +1,1 @@
+program b : v0 : takes w : boolean array returns nothing output "l" end tr : takes x : integer; G8fa : integer array; S6Iaa, j : boolean array; R : boolean array; X : integer returns integer array input ME[4] end main : k, r, V9 : integer; let L = array - 54 rem f[04] + not(84700) end

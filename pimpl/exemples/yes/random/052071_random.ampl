@@ -1,0 +1,1 @@
+program n : p : takes Ubfaa : integer; k2 : boolean array returns nothing x : integer array; chillax end B : takes yt, p : integer returns nothing s : boolean; o, W : boolean; G4E : boolean; g5 : boolean; y : boolean; let c[9] = array - 1 - 8870 end main : jV10a : integer; v : boolean; Tn2, U3y, L : boolean array; input io end

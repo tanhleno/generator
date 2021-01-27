@@ -1,0 +1,1 @@
+program s : W : takes p99, T7, K, R, H : boolean; N : boolean array returns nothing input C92[- not 88 and 5 or 25]; when case 7470 - 6870 : chillax end otherwise : let D = 7900 end end main : E, p, y6, X, s15, q0 : integer array; chillax end

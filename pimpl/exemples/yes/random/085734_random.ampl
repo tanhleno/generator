@@ -1,0 +1,1 @@
+program c : main : s : integer array; aX0, GD, M, zs00a : integer array; output Q[610] or(0) /= - false or 6 - 8; input i6s[false and false and 2 - not 43600 and 4]; let d = array not 74 and 27 or 89; output 6860 = 2; let U = array 2; let o[18] = array 1 end

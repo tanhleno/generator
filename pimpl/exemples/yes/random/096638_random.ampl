@@ -1,0 +1,1 @@
+program piWa : main : when case - true <= - not(6) / (7) and 8 : do W9(- 57 - 1750) end case not false + not 3 and 92 - 7 > (5) - 3 : pop 8; input S end case - (77) : let Q230 = array 3 end case 02 - 64 = 3 : let Ac = 21 end case 9 : input f; pop end otherwise : input m[28500]; input l[9] end; let x[true] = array true / Y4uaa end

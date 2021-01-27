@@ -1,0 +1,1 @@
+program yk : G240a : takes iF8 : boolean array returns nothing D, I, e : integer; e8 : boolean array; chillax end x : takes w3 : boolean array; iSI0 : boolean; _, T, zP : boolean; R, K, wt : boolean array returns integer I : boolean array; chillax end main : chillax end

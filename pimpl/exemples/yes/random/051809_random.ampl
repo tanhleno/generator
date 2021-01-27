@@ -1,0 +1,1 @@
+program A1 : w74 : takes H : integer; Nl : boolean array; r4q : integer array; H3Caa, a, x, t : integer array; Ig, V, X : integer; U, x39, G : integer returns nothing uL : integer array; chillax end main : let x = - not 45 rem l and 61; while - 17600 rem L - 8 < (3) and 49 : let h[9] = 972; input F8 end end

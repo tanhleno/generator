@@ -1,0 +1,1 @@
+program D : main : when case - gG40a(0) > - (891) + false and 4 : do u(663, 99, 657); let u[3] = 4 end case - S(8) - i : when case 812 : let U = 6; pop end otherwise : chillax end; pop; when case 2 : chillax end; input P end case - T + 1 - 3 /= - 5 : chillax end otherwise : let h72 = 33; pop end end

@@ -1,0 +1,1 @@
+program I : M : takes M : boolean array; q3, s : boolean array; M : boolean; Ob, L : integer; ovP : boolean; hk : boolean array; Q, NCU0 : boolean returns nothing let bq = array false or 7770 - 0 end main : when case - not false or 8 : chillax end case - (9) and(34) and 6 /= - true and 47 - 5980 : chillax end; when case 2 : pop end; pop 0 - 05000; input D end

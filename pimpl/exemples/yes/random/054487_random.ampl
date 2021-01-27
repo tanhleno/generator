@@ -1,0 +1,1 @@
+program y : s0 : takes Z : integer array; P, t3 : boolean array; t, _5w, _3, E, D, N : boolean; z, V : integer; p : boolean; q, _98 : boolean array returns integer pop - 1 - 036 end main : I1 : integer; chillax end

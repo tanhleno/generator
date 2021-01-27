@@ -1,0 +1,1 @@
+program n25 : s : takes q, kC : boolean; l : boolean; Q, Wz3 : integer array; v8 : integer array; _n9 : boolean; Oeuaa : boolean; Mg : boolean returns nothing U93, X, k : integer; while - (4830) and 7550 : chillax end end main : l, jWVaa : integer array; O, E : integer; chillax end

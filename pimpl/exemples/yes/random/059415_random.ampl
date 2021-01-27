@@ -1,0 +1,1 @@
+program lx20 : _ : takes K_2 : integer array returns integer I : boolean array; Z : boolean; N : boolean array; T : boolean; chillax end main : while false > hQ(573) / 8 + q : while - 2010 : chillax end end; while - not true - false : input lp[04]; while 1120 : pop end end end

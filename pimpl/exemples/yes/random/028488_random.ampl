@@ -1,0 +1,1 @@
+program l : H89 : takes m, n : integer array; Q : boolean array returns nothing pop end main : C77, w, E13a, L, aG : integer array; a : integer array; while not(5220) : do E6(- 6 - 9, 2 = 8); input I[3] end; when case - 80 rem false + false or 2 < - true and 08 : let G = 301 end; output - 0; do y(- 3 - 9 = 94, 5) end

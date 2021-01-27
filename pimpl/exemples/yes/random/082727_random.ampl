@@ -1,0 +1,1 @@
+program k : main : z7 : boolean array; when case false rem(7) : chillax end; do G72a(- W[1] * 9, not 98 and 3 = - 3); while az3aa and 76800 : chillax end; while 2 - 8 = 1 : do R(0); when case 9 : chillax end end; let mM = array 0660 end

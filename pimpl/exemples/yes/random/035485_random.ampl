@@ -1,0 +1,1 @@
+program X : q : takes A : boolean; J : boolean; t910a : boolean array returns integer array input r[- 6 - 5]; let hU8[6] = 93; while 7 : chillax end; let _49 = 03; while 77 : chillax end; do j(26) end q : takes x, T5, cI, c : boolean; U : boolean; p, z, zT : integer; t : boolean returns nothing S : integer array; chillax end main : chillax end

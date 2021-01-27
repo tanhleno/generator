@@ -1,0 +1,1 @@
+program q : zC30a : takes S, B40aa, G1 : integer returns nothing pop; do hJ(0 - 915 > 328, 98 = 1470); when case 2 = 55 : chillax end case 59 : pop end case 0 : chillax end end Wi : takes E, B9, lud0, x9v, F, Z, W : integer returns nothing Tt, B13, j3A : boolean; chillax end main : do o(- (8) <= - 7930 rem 05 and 1 or false and 4670 or 33500 - 7) end

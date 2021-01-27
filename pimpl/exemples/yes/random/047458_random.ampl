@@ -1,0 +1,1 @@
+program B : Ml : takes g : boolean returns nothing chillax end S : takes u, g23 : integer; D : integer array returns nothing d, W : integer; X : integer array; Dy : boolean; output 21 = 70; while 1 : chillax end; while 625 : chillax end; pop end main : pop false / false and 4 = true and 5 or 72 - 9 end

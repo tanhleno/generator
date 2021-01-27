@@ -1,0 +1,1 @@
+program O0R : LZE : takes T9, JF : integer array; f, l, qU, c : boolean returns nothing N7saa : integer; do F5(9 = - 3); pop 1950 = 069 end O : takes H34 : boolean array; Q9ta : integer; h, d : integer returns boolean input jxE; do ez(4); let w[6] = array 9; pop end main : input fs20[- true / 51] end

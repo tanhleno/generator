@@ -1,0 +1,1 @@
+program z660 : ebw : takes w, A, V : integer; j1, N : integer array returns boolean array input O end fIq : takes j1, F, L4l, T, q : integer array returns boolean array V, I7 : integer array; chillax end main : hi : boolean; X, y : integer array; E : boolean; chillax end

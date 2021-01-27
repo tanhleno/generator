@@ -1,0 +1,1 @@
+program Z : Ya70 : takes A : boolean returns boolean when case - false and 8 + 5570 - 7 = 55400 : chillax end case 1630 - 399 : chillax end case 5 : pop end case 7 : pop end; output ""; output "" end main : chillax end

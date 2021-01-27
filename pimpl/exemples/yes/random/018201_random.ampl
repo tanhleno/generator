@@ -1,0 +1,1 @@
+program r : w7 : takes zh, B_2a : boolean; k : integer; c71 : integer array returns integer chillax end q : takes k : integer returns integer array w, rTy : integer; chillax end main : Kc, I, L, PS4, ti : integer; do x(- true) end

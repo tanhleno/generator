@@ -1,0 +1,1 @@
+program D3O0 : O4 : takes F : integer array returns nothing while true : while 74600 : chillax end end end main : MQ, wzk : integer array; G40 : integer array; u, L8 : integer array; Xj : boolean; rE : boolean; chillax end

@@ -1,0 +1,1 @@
+program z : A2z0a : takes l, R, L, E, rema : integer array returns nothing h : integer; Nk : integer; K3 : integer array; o1, o : boolean; a : boolean; Mt00 : boolean; output - 51 - 4 = 8; when case 1 - 2 < 0 : chillax end otherwise : pop end; do n(7060 = 8) end main : F6, G : integer array; while w(052, 1130) and not not 4110 : chillax end; while - (3390) : chillax end end

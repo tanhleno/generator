@@ -1,0 +1,1 @@
+program y : q : takes c, u87, W, t, B, V20a, _4 : integer array; jz : integer array; Ri7 : integer; e : boolean array; C : integer returns nothing vfCa, h : boolean; w0 : boolean; output "" . 393 = 8 . "}50" . "\\" end main : vI1 : boolean array; m : integer array; J : boolean; chillax end

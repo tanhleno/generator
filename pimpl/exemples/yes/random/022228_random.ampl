@@ -1,0 +1,1 @@
+program c : e1 : takes n, Zz : boolean array returns nothing P, k : boolean; chillax end c140a : takes yo5 : integer array; w0, v : boolean; V9, L2, h, a : boolean array; xRHa : integer; R, K2 : integer; CH9a : boolean returns integer Y : boolean array; N5, P : boolean array; b0 : boolean; chillax end main : input R[false / (1) - false and false and 2] end

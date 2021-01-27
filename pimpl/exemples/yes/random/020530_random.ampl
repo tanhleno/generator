@@ -1,0 +1,1 @@
+program R570a : j6 : takes Rqra, H : boolean array; S : integer array returns boolean array when case - true and 82 >= 9 - 0630 : output 7 . ""; while 5 : chillax end; let _O00a = 6780; pop end end main : chillax end

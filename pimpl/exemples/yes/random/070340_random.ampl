@@ -1,0 +1,1 @@
+program c0 : main : g4, P, X, i : integer; when case - xR1a(4, 0) rem(9) rem e - true / not 577 and 43 or false - 5630 - 25 > - not true * true and 1810 or true and 1370 : let D30[98600 - 9] = array - 8 end otherwise : chillax end; let H4eaa = - not 1 and 7 or 1250 - 6 >= 512 end

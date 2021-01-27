@@ -1,0 +1,1 @@
+program J8 : C : takes k8a : integer returns nothing while false : chillax end; let j350a[22900 - 0] = 16 = 2; let i[0] = array 94600; do D(7) end g8 : takes xw, k, I, R, I : boolean array returns boolean chillax end main : chillax end

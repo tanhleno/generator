@@ -1,0 +1,1 @@
+program H8 : mn50a : takes dZ9, O, D2 : boolean returns integer array oi8 : boolean array; GRdaa : integer array; qI0a : integer array; v : boolean; chillax end main : while - (5 = 0) and not false <= - true and not 65800 or true and 291 or 30 - 0 : chillax end end

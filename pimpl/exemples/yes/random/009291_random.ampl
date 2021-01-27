@@ -1,0 +1,1 @@
+program K : St : takes _, zE, Y9 : boolean; Bw : integer array; k, n, z1, iR : boolean; f, u, B, CY, Z4x : boolean array; pi : boolean array; PL : boolean; r4g0a : boolean returns boolean array input N6[- P6 and 0] end e : takes Q : integer array; U, vZ : integer array returns nothing G4, B : boolean; chillax end main : n, y : boolean array; u3, l86 : boolean; input M end

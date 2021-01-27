@@ -1,0 +1,1 @@
+program y : Na : takes T : integer array; W, e45a, yv : boolean array returns integer u, dK, Qy, k : integer; k, T : integer array; H9e0 : integer; zJ : boolean; g : boolean; do PdS((3) and 7 <= - 8 - 0, - 713); pop end main : chillax end

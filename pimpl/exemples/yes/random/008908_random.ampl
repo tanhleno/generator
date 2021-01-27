@@ -1,0 +1,1 @@
+program yQOa : q6 : takes O, i52, HhC : boolean; Bk6, C5 : integer array returns nothing T : boolean; p5 : boolean array; while false and 2 >= - 3780 : pop 8430 end; when case 8 : chillax end end main : let cI = array - Z rem false and(9) + not(77) + true and 2 + 6 - 40000 end

@@ -1,0 +1,1 @@
+program j : D : takes R, t1caa : integer array; K : integer; m, b : integer; v, p : integer returns nothing let so = array false end main : let t = array - T[22100] rem not(883) * XB and 01; input a; when case l or 775 < 074 - 893 : when case 9 : chillax end case 9 : chillax end otherwise : chillax end; pop end end

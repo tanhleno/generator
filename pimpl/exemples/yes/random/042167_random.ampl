@@ -1,0 +1,1 @@
+program x : D : takes Tq8 : boolean array returns boolean lv : boolean; chillax end N : takes o78a, T0 : boolean; R, A, H : integer; lO, a5, LT, V1 : integer; l, eV1, X : integer array returns boolean array chillax end main : input h16aa end

@@ -1,0 +1,1 @@
+program u2k : C2 : takes UZ80a : integer returns boolean S : boolean array; let c780[false and 2] = array true or 8 end main : d, X, P : boolean; K, y, l, ii, c9, d : boolean; V : integer array; z : integer array; chillax end

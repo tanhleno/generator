@@ -1,0 +1,1 @@
+program h : main : let g[- true rem 61500 + 2] = array - false + (8) + _ and 086; output - 2670 and 6560 . - 2 - 2; let D74a[- not 07500 and 10300 + 65] = - 9 - 15 < 8450; output 7 . 76; pop; output 3 . "" end

@@ -1,0 +1,1 @@
+program e : m : takes N : boolean array returns nothing pop; input g[4010 - 3] end main : pop; when case 87 / l >= false and 79 : chillax end case - 2 and 24 : chillax end case 5 - 0 > 32800 : chillax end case 0 = 54 : input o4T end case 920 : pop end case 5 : chillax end end

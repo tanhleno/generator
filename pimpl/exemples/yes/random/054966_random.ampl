@@ -1,0 +1,1 @@
+program cv : G : takes L : integer array; h, k : integer; T, O1 : integer array returns nothing l6s0 : integer; _M, dF, v : integer array; pop end main : O, wY20a : boolean array; when case false + l5Ja rem 5 - true and 6 > - (2) : pop 7 = 66600 end otherwise : let u = array 5; pop 09 end; do mC((3) rem 0910 + false and 81 or 4 - 61 < not 3 and 2 - 40 - 74200) end

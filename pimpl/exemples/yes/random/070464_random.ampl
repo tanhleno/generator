@@ -1,0 +1,1 @@
+program t : main : UB, tB, d, c : integer array; j, k6 : integer; pop; output "~" . "6,0a"; when case - true and 8440 or 5 - 765 : chillax end case - 6 <= 93 : while 4 : chillax end; do v7T(8); pop end; output 2 . "" end

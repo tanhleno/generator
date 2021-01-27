@@ -1,0 +1,1 @@
+program I : main : when case - true + false / false - (1) and 15 = t and j4 and 7430 + true : pop end case - (166) - 67 <= - not 82 and 657 - 76 : chillax end case false - 3 : chillax end; when case(16600) - false = - false and 28 : let P = 94900 end; pop 1 - 6 < 7; do p(- 81400 - 319 /= 48500) end

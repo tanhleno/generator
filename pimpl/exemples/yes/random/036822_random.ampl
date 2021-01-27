@@ -1,0 +1,1 @@
+program e : P : takes E : boolean; U : integer array; W : boolean returns nothing k6 : boolean array; chillax end main : when case - true and true < true * not 9 and 5 : while - 7 : chillax end; let D = 2090; let S[76] = 7 end case - 42600 < true and 2 : while 7 = 5 : chillax end end otherwise : while 1 : chillax end end; pop - true = 9 - 3 end

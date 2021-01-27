@@ -1,0 +1,1 @@
+program h_ : main : while - K9 * (659) / (92000) and 76 + true - not 530 or 2 > false / 10300 - false and 14200 : chillax end; when case T7(1) rem not 2 and 6 : do w(7, 669) end case false /= - 2 - 04 : do Q(8, 5) end case 06 : chillax end end

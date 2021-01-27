@@ -1,0 +1,1 @@
+program c : etf : takes Sh, x, c : integer; YCF0a, KqL : boolean; P, si, F, w : boolean returns nothing chillax end main : while - (3 = 102) + b(686) < - false : chillax end; input p; output "\t\\0a" . "" end

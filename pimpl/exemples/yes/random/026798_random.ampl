@@ -1,0 +1,1 @@
+program q : Yr : takes E, _1j0a : integer; zs : integer array returns integer h1R, t48, uR, k3taa : integer array; A : integer array; N : boolean array; chillax end _ : takes B : boolean array; Eww, A1 : boolean array returns integer mj : integer array; T, N380, J : boolean; do Gk(- 0 - 34 >= 0, 8 = 19400) end main : chillax end

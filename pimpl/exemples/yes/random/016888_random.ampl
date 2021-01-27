@@ -1,0 +1,1 @@
+program C : s : takes Cm80a, pq : boolean; m2, Z, _po0a : boolean; nd70, zRF0, m1 : boolean array; J16, b : integer; X : integer array returns boolean array let f = array 0; while - 6 = 54 : when case 1 : chillax end; input P end; input E6C0a[13]; do W(5, 6); output "" end main : r, rA6, U3 : integer array; chillax end

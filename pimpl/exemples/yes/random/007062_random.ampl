@@ -1,0 +1,1 @@
+program W39a : U : takes am40a, _99, P35, B : integer array; Qs, X : integer array returns boolean array D : integer; chillax end main : while 3 <= - (03900) and not 3500 : when case 5 - 93 : chillax end case 9 = 53 : when case 2 : chillax end end case 7 : chillax end end; do V(- m(788) * not 885 and 49 - not 5 + 68 - 9 > false and 59500 + 1) end

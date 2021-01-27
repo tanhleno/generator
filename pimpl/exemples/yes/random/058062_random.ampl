@@ -1,0 +1,1 @@
+program A9 : jB : takes DU : integer array returns boolean chillax end S : takes i7M : boolean array; R : boolean array returns boolean array chillax end o : takes jsz : integer array returns nothing chillax end main : sn, P : boolean array; m, c, k : boolean; chillax end

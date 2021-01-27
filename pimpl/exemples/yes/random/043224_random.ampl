@@ -1,0 +1,1 @@
+program OD5 : t8Y : takes fd8a : boolean array returns integer u : integer; G7, p, F9 : boolean; j7z0 : integer array; chillax end nbG0 : takes NtW, U : integer array; yJ, o, lzi : boolean array; J00, t : integer array returns nothing chillax end main : cn : boolean; D : integer array; output "" . "" . 47 <= 4840 . "" end

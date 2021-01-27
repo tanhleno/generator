@@ -1,0 +1,1 @@
+program L : main : w6v, N : integer array; j : integer array; fgFa : boolean; W3ia : integer; do i6R0a(false * not false rem 43100 <= - not 2 and false and 1, false >= - false, true + 91); let BA = - true and 84900 or 2 - 11 end

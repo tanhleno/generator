@@ -1,0 +1,1 @@
+program VE : s03 : takes g : integer returns boolean array chillax end m4U : takes k220, A9, K, l6d : boolean returns nothing while 3 - 1 : chillax end; do Z(71, 80) end main : C770, S, P4, u8p : boolean array; chillax end

@@ -1,0 +1,1 @@
+program V : My70a : takes DK_ : integer; B77, Ump, U : integer; B, n, c : boolean; vD : boolean returns boolean let V = array 0 and 71; output "" . "" . "\tu" end main : output - 3040 >= - not 4 and 6 or 5; output true and 96 - 842 - 108; while true - 51 - 22 : do k(45); output "\t"; while 6 : chillax end; pop end; input i100 end

@@ -1,0 +1,1 @@
+program D : _2 : takes V8, A, ii5 : integer array; q2Maa, C, W, l19a, p, t190a, VA3 : boolean; x200a : integer; K8 : boolean; N : boolean; j : integer returns integer chillax end main : hW2, w, w, A, DF : boolean; input i[- true * 3 and i_ - true]; let M2 = true and 7 - 901 - 54 end

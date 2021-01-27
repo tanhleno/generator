@@ -1,0 +1,1 @@
+program x : Uo : takes h4maa : integer array returns nothing W : integer; G : integer array; k8, T, n6 : integer array; chillax end O : takes j : boolean; f9, w7 : boolean returns integer E : integer array; while 293 - 8340 : input fn5; output "0/" end end main : i7 : integer; chillax end

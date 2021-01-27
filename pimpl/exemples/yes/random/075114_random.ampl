@@ -1,0 +1,1 @@
+program OS : main : h320a, v : boolean array; XR : boolean array; bJU0 : boolean array; NK : integer array; O, i7 : integer; input X; let p = array - L and nI; when case(46) or 7 : input L0y0 end case - 25 : chillax end; output ""; do J3(3790 = 871); output "1|" . "" end

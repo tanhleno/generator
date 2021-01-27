@@ -1,0 +1,1 @@
+program uR2 : main : B, x, W : integer array; when case false rem LW1(29) / not 5 : chillax end case 43 - not 376 and 0 : input N120 end; while - true < 3980 and 0 + 96500 - 1 : chillax end; input u; while - 272 - 02 : chillax end end

@@ -1,0 +1,1 @@
+program F : F5 : takes g, S, cl : boolean array returns integer array z, k, O : integer; when case(3) <= 9 : chillax end; while 4 : chillax end; output 18 . "\t\taa" . "" end main : X, h, Cu, S990a : integer; when case - not false rem N[27] = (11) - true and 67 : chillax end case - not 01 - V < - false : chillax end otherwise : output "5" . 61 end end

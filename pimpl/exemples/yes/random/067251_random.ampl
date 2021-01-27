@@ -1,0 +1,1 @@
+program D : main : do W(A[8] * not(9) * (9) or true - 6 or 9 - 6, (673) / 524 and 47 /= not 350 and 9010 or 37 - 9, 3470 and 3 >= - 3 - 5); let FT = true and 4 + 6 - 9; do p(false - 6 < 3 - 1, - 5 - 91, 5) end

@@ -1,0 +1,1 @@
+program T : J : takes b, Re, X8 : integer array returns nothing i3 : integer; P, U, xM, GQ : integer array; chillax end xJ : takes D, yd, C, _j : integer array returns integer array let N0c = array - 346 end main : P : boolean array; L : integer array; chillax end

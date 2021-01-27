@@ -1,0 +1,1 @@
+program o : y7 : takes nH : boolean array returns nothing z0W : integer; chillax end main : H5 : boolean; K9 : integer; do Kg(O4(2, 4) + 2 >= true and 97200 and 9 - false and 46); while - C5 + not 7 or 342 = - false and 206 or 9010 - 4 : chillax end end

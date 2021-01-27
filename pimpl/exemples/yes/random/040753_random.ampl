@@ -1,0 +1,1 @@
+program y : _630 : takes t : boolean array; B : integer array; f, S, bU, X : integer; sG80a, R7 : integer returns integer while - false and 28200 - 2 : chillax end; input olE0[45] end M26 : takes fMd, EK : boolean array returns boolean array while - 49 : pop; output "" end end main : S, L7 : boolean; E, u, g : boolean array; chillax end

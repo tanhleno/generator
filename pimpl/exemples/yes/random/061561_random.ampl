@@ -1,0 +1,1 @@
+program s : c : takes T03 : integer array returns nothing when case - true and 1 : chillax end case - 236 - 20000 <= 5 : chillax end otherwise : output "89!a"; let c = 814 end; when case 8990 : chillax end case 2 = 1 : chillax end otherwise : while 275 : chillax end end; let r[7] = 33 end main : X320a : boolean array; pop true rem true - true or 3 <= F and 25 + 7 end

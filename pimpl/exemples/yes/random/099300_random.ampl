@@ -1,0 +1,1 @@
+program r : main : while z * true and qm5 or jb[18] : chillax end; input c; while - 1 < - 112 - 9 : while 1 : chillax end; let GE = 24; when case 6 : chillax end; pop end; let s8 = array - 87 - 02800 end

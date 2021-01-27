@@ -1,0 +1,1 @@
+program YP20 : V : takes R, Um, j : integer; t6X0 : boolean array returns boolean array w9Xa, F : integer array; output - 9 - 2 >= 6 end sm1aa : takes I, V6, W, fJHaa : boolean array returns integer array I, oZ : integer; Tv, E6 : integer; h, d : boolean; Fk : boolean; fs : boolean; chillax end main : i, m9 : integer; do U(- i6H0a[98900] / not I * (12) and 2 = - 98 rem true) end

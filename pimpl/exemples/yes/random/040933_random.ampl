@@ -1,0 +1,1 @@
+program iy : F : takes nc : boolean array; SmG0 : integer array; v : integer array returns integer L, BM, N, Z0 : boolean array; chillax end At3a : takes c, n : integer; R, j : boolean; q : integer; L5 : integer array returns nothing p : integer; r : boolean array; output "W" . "" . "" . "" end main : chillax end

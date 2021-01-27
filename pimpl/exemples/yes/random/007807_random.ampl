@@ -1,0 +1,1 @@
+program D930a : Z1 : takes R, s, W, m780 : integer array returns nothing a8oa : integer; w, w4, VA0, aA70a : boolean array; u1, uy1aa : integer; when case 38000 = - 76 - 4 : chillax end otherwise : input m; pop; pop end; do Q(- 12 - 4 < 88500) end main : x : integer; Y, U1 : integer array; let Y = - 13 or(00) + 70400 - 0; let q[true rem not 44 and 3] = - l and 80 end

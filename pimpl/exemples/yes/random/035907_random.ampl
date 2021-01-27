@@ -1,0 +1,1 @@
+program a44 : C : takes O : boolean; j : boolean array returns integer array do s8(- false + 61 <= 9, 69 - 4510) end main : m2a0a : boolean; O, LY : integer array; output 9 <= G - 0 . - false - 2120 <= - 954 - 0 . "9" . "6n"; output "i" . - 17 = 33 . ""; let v26 = - 64 end

@@ -1,0 +1,1 @@
+program E : V5 : takes p, QFc, JV9a, Jw, Fj, K7 : boolean; X, SM, w, L8, c : integer returns nothing H : boolean; input gP end Em : takes e7Zaa, O : boolean array returns integer array when case - 4 - 400 >= 7 : chillax end end main : while - l3[29] : chillax end end

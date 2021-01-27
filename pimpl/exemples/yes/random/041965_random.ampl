@@ -1,0 +1,1 @@
+program N : m0 : takes O6 : boolean array returns boolean chillax end g : takes dm : integer array; N : boolean array; qyk : boolean returns integer array do R(- 61 - 2 <= 1720) end main : do m8(- 50 > 1, (26700) or not 6 and 2 /= - not 79, - not 49) end

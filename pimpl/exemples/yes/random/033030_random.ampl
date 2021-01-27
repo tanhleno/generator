@@ -1,0 +1,1 @@
+program bN : f4 : takes H7paa, E : integer returns nothing let s[- (8490) and 662 or 03 - 68] = - 6 - 2; when case - 14600 = 775 : while 04900 : chillax end; do Q(9) end case 4510 = 7 : chillax end case 47 : chillax end case 785 : chillax end otherwise : chillax end end main : EQc : integer; chillax end

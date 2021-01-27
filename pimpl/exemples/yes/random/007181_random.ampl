@@ -1,0 +1,1 @@
+program w : ea : takes k, n1, M47a, A : integer array; D0 : boolean array returns nothing A, bp0 : boolean array; n, ku : integer; chillax end main : Ne : integer; output ""; let a3 = array - not true end

@@ -1,0 +1,1 @@
+program w : Nre0a : takes Y : boolean array; _K4, p : boolean returns integer Q, Q9e : integer; S10a : boolean; O : integer array; s : boolean; Du : boolean; when case - t8s0 and 293 : input J9e; input A end end main : E, I5 : integer; let J[- false + true] = true > - c + 1; pop end

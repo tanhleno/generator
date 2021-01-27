@@ -1,0 +1,1 @@
+program F : r : takes O : boolean array; g, NE : boolean; C, Z3 : integer array returns integer array F : boolean; g73 : boolean; chillax end main : Y : integer; do I(- 9 / true rem(28) + false or false and 294 + 03 - 202, (60) rem true and 03 - Y + 72100, L94a and 6 or 5 - 7) end

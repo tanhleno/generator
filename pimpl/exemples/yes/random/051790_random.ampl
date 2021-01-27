@@ -1,0 +1,1 @@
+program G : n : takes yC : integer; w : boolean array; D : boolean returns nothing input qu[- 3] end main : B4 : integer; Z, r : boolean; k : boolean array; output - (75) * 13 and 45 . 6 and 83 > - 0 - 98 . "" . 0 = 761 . 8 end

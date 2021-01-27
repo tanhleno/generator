@@ -1,0 +1,1 @@
+program j : E : takes J : integer array; B, DI3, BQ8, d1, yb4 : boolean array returns boolean array output - 1 - 67000 . 40 = 06 . "" . 98; when case 7 - 357 : input S2 end; input H[590]; do s45a(1, 280); pop; pop; pop end main : L : boolean; rI2, B : boolean; GR, jD : boolean; c, ON : boolean; m96 : integer array; q : boolean; chillax end

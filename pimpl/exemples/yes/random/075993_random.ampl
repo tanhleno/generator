@@ -1,0 +1,1 @@
+program Xp : main : Z9, G9 : integer; X, DU, l7r0 : boolean array; B : boolean array; input Tkkaa[true or true + true and 7]; do F(3 * true - 54000 + 73 - 39 = - Bg and 4, - 17 + 4 - 342, 18300, 9); when case not 173 or 2 : let l1 = 39; do A(1); pop end case 8 : chillax end otherwise : while 9 : chillax end; input HT; pop end end

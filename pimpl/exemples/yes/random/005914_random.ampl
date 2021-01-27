@@ -1,0 +1,1 @@
+program K : u4J : takes q5c0, g15a, cz40a, C : boolean returns boolean Z : integer array; W84aa, wD : integer array; I5 : boolean array; chillax end CS20 : takes e : integer array returns integer array UP0, _N, A, n : boolean; _, g : boolean; zU4aa : boolean; R : boolean; H : boolean; chillax end main : r, D, w, Yn, o8, D, WX8 : integer array; chillax end

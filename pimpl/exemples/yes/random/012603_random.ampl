@@ -1,0 +1,1 @@
+program Ky : t : takes L, p, X : integer; x, f, Y, K, _M : integer returns nothing m : boolean array; chillax end i : takes y, C3 : integer array returns nothing output 6 . "~" . 01100 . "9" end main : chillax end

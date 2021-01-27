@@ -1,0 +1,1 @@
+program V : X1N : takes Ufw0 : boolean; rW : boolean returns nothing K : integer; K : integer array; G, _PI0, SO30 : boolean; chillax end main : while - true + true + 38 and 0 + 8 - 87 >= - (9) and d and 51 : pop end; when case true / true : chillax end otherwise : do A(5, 98); when case 95200 : chillax end end; input Y[- not 035] end

@@ -1,0 +1,1 @@
+program J : YK : takes Q1 : boolean returns integer array when case not 16 : chillax end otherwise : chillax end; let y = array - 73500 end Y : takes DXe0 : boolean returns nothing Rv : boolean; U, U, pY : boolean array; j : boolean; chillax end main : chillax end

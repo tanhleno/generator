@@ -1,0 +1,1 @@
+program A : i870a : takes C : boolean array returns integer when case - true and 0 + 9 : chillax end otherwise : pop; while 76 : chillax end; pop end; let K[9010 - 3] = 64; do Vs(5 = 77100, 7, 10); output 99 end main : T5 : integer array; let x = array - 51 rem(1680) * false - Zp00a(76) / true and 0 - not 6 end

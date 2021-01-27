@@ -1,0 +1,1 @@
+program q : T : takes T : boolean array; IGN : boolean; O64, NO : integer returns boolean array K, G : integer; f1 : boolean array; N9 : integer array; c : boolean; n : boolean; chillax end main : chillax end

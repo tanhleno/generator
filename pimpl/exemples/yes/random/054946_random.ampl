@@ -1,0 +1,1 @@
+program f : E : takes Bsa0 : integer array; N7, Z1e : integer; n9p, Y7 : boolean returns boolean while true and 984 /= 97700 - 76 : when case 6 : chillax end otherwise : chillax end end end D : takes W, Uq9 : integer returns integer array B, D8 : integer array; yqh0a, w, p : integer array; do q(- 1010 <= 267) end main : chillax end

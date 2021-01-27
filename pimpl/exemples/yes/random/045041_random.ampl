@@ -1,0 +1,1 @@
+program uBga : Xrh0a : takes j : boolean array returns nothing let F[- S and 4 - 0] = 34 - 5; input V7[2 - 5] end j5 : takes l : boolean array; i, g : boolean array; XI10a : boolean returns nothing tE : boolean; let l = 07 = 16 end main : sr4aa : boolean; do _(false + false * 406 or q4) end

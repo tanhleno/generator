@@ -1,0 +1,1 @@
+program X : J : takes t, A : boolean array; g, H8Qa : boolean array; p : boolean returns nothing output "{" . 1 end F : takes X : integer; k7i, yPT : boolean array returns nothing chillax end main : y : integer; iY2a, aP : boolean array; i13 : integer; x6, Z, qH : integer; Gy, C, Q : boolean array; chillax end

@@ -1,0 +1,1 @@
+program RH : k2 : takes k : integer array returns integer P05aa, U, Y5K : boolean; Hd6 : integer array; cZ : integer; input Uu[- not 47300 and 06]; output 2 = 89 . "0w"; output 8 end N8 : takes Q : integer; TA, s : boolean array; K : integer returns nothing chillax end main : mi0 : integer; chillax end

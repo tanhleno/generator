@@ -1,0 +1,1 @@
+program xZ : vIq : takes J3 : boolean array returns nothing K : boolean array; K, E : integer; chillax end _ : takes x8s, m : boolean array returns nothing A, N : integer array; chillax end main : S, f, J, w7, yM0 : boolean; let y[- not 64900] = - (4) - false - 2; when case false : chillax end case - O - 43 = - 979 : chillax end end

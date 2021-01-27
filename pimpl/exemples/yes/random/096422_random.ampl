@@ -1,0 +1,1 @@
+program l : main : when case - 12100 / 7 or true + true - 7 = - false - true and 89 : chillax end case not true * N020 and 2 /= - not 461 - 8 : pop 56; output "%"; input Pr40 end otherwise : when case 4 = 93 : pop end end end

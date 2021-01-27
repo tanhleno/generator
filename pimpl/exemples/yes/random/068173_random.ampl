@@ -1,0 +1,1 @@
+program G5 : main : G, VMN0a, i3A0a, _, i, a7, y : integer; when case(21500 = 3) and x(998) : chillax end; output "\"\t0"; input up0a; input d9; while 2010 : chillax end; while 0 : pop end; pop; while 5 : chillax end; pop end

@@ -1,0 +1,1 @@
+program LCAaa : Q8xa : takes k : boolean returns integer chillax end b : takes K, V, m5, Av0, b, E : boolean; c_ : boolean array; rI, DVma, u : integer; q3, ZVhaa, V : integer; d, C, bK : integer array returns nothing when case 57400 > 60 : input pe end case 65 : chillax end otherwise : do m8(816); pop end end main : F9 : boolean array; chillax end

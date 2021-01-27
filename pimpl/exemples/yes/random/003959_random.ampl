@@ -1,0 +1,1 @@
+program Sk : oE : takes O, tG1, f180, _, G : integer returns boolean chillax end X : takes F3P : integer returns integer array DH4a : integer; a : boolean array; chillax end U : takes MDQ : boolean; M4s0, F, SM9 : integer array; q3 : integer array returns integer D6, s4Uaa : integer; chillax end main : b, ZoI : integer; S, m9, y, Ht : integer array; chillax end

@@ -1,0 +1,1 @@
+program v : X8 : takes b, a, I5, t7, I5h : integer array; h, Q : integer array; Hq : boolean array returns nothing when case Jw - 7 - 1990 : chillax end case 731 <= 72 : when case 36 : chillax end end end main : chillax end

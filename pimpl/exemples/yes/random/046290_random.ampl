@@ -1,0 +1,1 @@
+program y : WJ : takes F : boolean returns boolean N : integer array; _ : boolean; hm : integer; let Af = - 01 - 945 < 6; do _R90(- 37 - 4 <= 7) end main : L : boolean array; output not false or 798 and 2 end

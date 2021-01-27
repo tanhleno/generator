@@ -1,0 +1,1 @@
+program d : T : takes TA7 : integer; I9R, TP, W, R, s : integer returns integer array j : integer array; let K[not 589 and 1 + 51] = array - false and 897; pop end main : cNka, k, V : boolean array; chillax end

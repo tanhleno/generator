@@ -1,0 +1,1 @@
+program X : main : i, o : integer; u : boolean array; P4W, R : integer array; g3 : boolean array; r, L, S : integer array; S, q : boolean; while 8430 * (20) * (5) - G8(8) or S0 = - true * mZ or(3970) : output "1" . ""; output 54 end end

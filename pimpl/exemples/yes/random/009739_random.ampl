@@ -1,0 +1,1 @@
+program W110 : cE : takes lr, UM80a, k : boolean array; I, O : boolean; S660a : boolean; m, AH : integer array returns boolean array output ""; pop 41400 end main : d : boolean array; hi : boolean; e : integer array; V0, O9, c47a : integer array; input B; output - 8 and 58 /= 1 end

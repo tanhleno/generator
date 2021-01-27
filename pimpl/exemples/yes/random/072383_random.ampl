@@ -1,0 +1,1 @@
+program z : main : D, H, r : integer; input x; when case - (08) + 8520 - 0 - 55 : do l(230, 89900, 1580); output 8 . "."; pop; while 591 : chillax end; pop end case - 0 = - 8 - 68 : chillax end case 6 - 3 <= 66 : pop end otherwise : when case 9 : chillax end; when case 40 : chillax end end end

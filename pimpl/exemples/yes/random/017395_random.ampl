@@ -1,0 +1,1 @@
+program v58 : S94 : takes F8za, T : boolean; J, z : integer; xd50a : boolean; x, g64aa : integer returns integer pm : integer array; chillax end main : output - 150 or(7) and 5 . not 2 and 8 or 7 end

@@ -1,0 +1,1 @@
+program M : wFF : takes o, d : integer; u3, A : integer array returns nothing while - (0) >= - 775 - 9 : pop; input I; pop; pop end; pop 2 = 8 end main : H : boolean; X, qI : boolean array; when case - 47 rem(550) + false / false = - (2) and not 3 and 9 or(68) and 1 or 017 : when case 8 - 65 : chillax end otherwise : chillax end; pop 390 end end

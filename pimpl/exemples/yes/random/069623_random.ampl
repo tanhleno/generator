@@ -1,0 +1,1 @@
+program y : main : A0, M, vw, Cy : boolean; let QQE[false and false * true and 5950] = array - O[9] + 8; when case true and E or true and 4 > - 2 and 874 - 72 - 27 : when case 6 = 1 : while 1 : chillax end end otherwise : pop end; let cL[18] = array 0; do PQ(18) end; let OR = - 5 - 0 end

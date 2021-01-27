@@ -1,0 +1,1 @@
+program U_V : ev : takes vl, w : boolean; l : integer returns integer array hpwa, h : integer; pXk, Tt : boolean array; chillax end main : TD5a, Z : boolean array; C9, ql : boolean; l37aa, RQd : integer; when case - Qu[85] + not(21) < true and Z : input Spd0a[759 - 2]; let e0G0[2] = array 7 end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program U : W : takes mT : integer returns nothing r : boolean; let K8[b - 4] = 27 = 9 end main : hN90a, Nv, L : integer array; lrO, N9, wS7 : boolean array; do m(- false rem false - (2) rem 861 or false + 157 >= - 209 rem 65100, not false rem(67) and 7 or y0) end

@@ -1,0 +1,1 @@
+program PA30a : main : Y, C2i0a, T : integer array; R, muma : boolean; n, P, qn : boolean; F, k : boolean array; when case - not not 32 and 0200 / e and 5 > - 34 : chillax end otherwise : input z end; input k end

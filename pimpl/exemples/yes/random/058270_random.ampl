@@ -1,0 +1,1 @@
+program z : W : takes J9 : integer array returns boolean T8, n : integer; o3, c3Sa : integer; L0, I : boolean array; p8 : boolean; chillax end main : do U0(- false <= - false and 09200 - (8) and 58, false / (88) and 6) end

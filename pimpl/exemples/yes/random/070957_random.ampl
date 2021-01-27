@@ -1,0 +1,1 @@
+program Z5 : main : O0, w, F : boolean; _5z0 : boolean; V : boolean; o, MS8, P : integer array; when case true : when case - 17500 - 5 : chillax end case 44 = 2 : while 3 : chillax end end otherwise : chillax end; while 67 = 416 : let QXc = 7 end end case false - not 68 and 3 <= - i and 2 : chillax end case - false and 5 + 9 - 03000 : chillax end end

@@ -1,0 +1,1 @@
+program Ln4 : F : takes fU, VES0 : boolean array; iJ : integer; Epz0a, H : boolean returns nothing h : boolean; chillax end main : when case - 4 and(02) and 7 and 0 - (412) rem(4) or 155 and 3 - 8 - 1 : while 86 : let B4Ua = 4250 end; while 8 = 0050 : input O end end otherwise : chillax end end

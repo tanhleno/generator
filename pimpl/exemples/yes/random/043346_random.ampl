@@ -1,0 +1,1 @@
+program G : R : takes V : boolean array returns integer pop; pop; while 40 : input pf50a; pop end; pop end main : while false * (30000) >= - O7 : chillax end; do B(- true + (2) - 2 - 08 = - 2 or 8) end

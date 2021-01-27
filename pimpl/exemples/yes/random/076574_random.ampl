@@ -1,0 +1,1 @@
+program bL : main : K, AU : integer; N : integer array; pop; while 4 and 66900 and 1870 : input J end; when case 50 : when case 582 : chillax end case 8 : chillax end otherwise : chillax end end case - 19 - 8 > 0 : chillax end; when case - 4 - 92 : let A97a = 14900 end end

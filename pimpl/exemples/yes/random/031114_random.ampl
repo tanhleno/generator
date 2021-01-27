@@ -1,0 +1,1 @@
+program zb : I8 : takes C, P : integer array returns nothing when case not 9 and 0 > - 4 : pop 053; input T; output "WF" end otherwise : input ei end; when case - 95700 - 089 <= 9 : let IF8 = 642; while 47 : chillax end end end main : chillax end

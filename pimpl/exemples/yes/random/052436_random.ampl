@@ -1,0 +1,1 @@
+program q : bY1 : takes z3 : integer; BH : integer; M6R, zM : boolean array returns integer R8, _, f7 : boolean; while - false and 2 : chillax end; let i = 1 end main : do iM30a(true and true rem 39400, - not true * _, 9 and 5 or 2, - 4, 7 = 0, 8) end

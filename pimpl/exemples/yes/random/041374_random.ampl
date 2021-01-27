@@ -1,0 +1,1 @@
+program A : Mz : takes b : boolean array; T : integer returns nothing v, h : integer; O1 : boolean; d, I, t : integer array; hOG0, c6B0a : boolean; chillax end main : when case ie : chillax end otherwise : do b(8 = 8, 8, 8); do f440(2, 2900); output "$" end end

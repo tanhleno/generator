@@ -1,0 +1,1 @@
+program a7qa : b : takes z : integer array returns boolean R0, N89a, v9 : integer array; N, tdda, n : integer array; J, q, Dm : boolean array; B0G : boolean; h : boolean; A : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program X : main : while - (4 = 85) / 4040 / not 5 < not(4) * not 1 and 428 : chillax end; let P[DM[5] / 7 or z and 05] = (2) and 34400 >= 289 - 2; input b[- (5) or 3 - 9]; while 1 - 340 : chillax end end

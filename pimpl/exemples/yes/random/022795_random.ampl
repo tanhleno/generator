@@ -1,0 +1,1 @@
+program YXd : w2 : takes h, c7g0a : boolean array returns nothing when case not 19 and 0 - 1 : chillax end otherwise : chillax end end w : takes Q : boolean array; k : boolean returns boolean rp30, B3 : integer array; input V end main : s42, Fg : integer; I9Taa : integer array; chillax end

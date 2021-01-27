@@ -1,0 +1,1 @@
+program Wm : W55aa : takes d : boolean returns integer array chillax end main : FaA0, k : boolean; qW, e, o0, e : integer; while false * not n / (4) : let z[94] = 4; when case 67 : pop; pop end otherwise : pop end; when case 9600 : chillax end case 85 : chillax end otherwise : chillax end end end

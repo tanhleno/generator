@@ -1,0 +1,1 @@
+program z59a : cE : takes K, T : integer array; c2l0 : integer array returns boolean C5, b : integer; while - not 8230 or 218 : chillax end; when case 6 <= 9320 : while 6 : chillax end end case 7 : output "68"; pop end otherwise : chillax end end main : V7, F : integer; Go, j2 : boolean; B8 : boolean; JP9 : boolean array; b : integer; pd, F2e0a : boolean; chillax end

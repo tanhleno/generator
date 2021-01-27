@@ -1,0 +1,1 @@
+program s : t87aa : takes b : integer array; z080, N67, t : integer; bUh : integer array; tWh, Cx4, Yl : integer returns integer array L : boolean array; S, P : boolean array; pop 35 end main : input M end

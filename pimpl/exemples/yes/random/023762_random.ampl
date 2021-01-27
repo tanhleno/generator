@@ -1,0 +1,1 @@
+program O7p0 : Pb : takes y9, f : boolean returns integer kZ : boolean array; do kvFaa(- true and 9 >= 181, 5 >= 8) end i56 : takes L, G0, rK : integer returns integer chillax end main : let Jv = (939) + 59 end

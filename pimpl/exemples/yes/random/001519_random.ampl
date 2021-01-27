@@ -1,0 +1,1 @@
+program E : V : takes j, D01, m, R3, p1, u : boolean returns integer array when case - (6) and 20 /= 91 - 9 : chillax end case - 1 - 54 < 6060 : output "0" end case 302 = 4 : chillax end case 15 : chillax end case 1320 : chillax end end main : output 20 . true and 07 - 74 . "" . "U" . 3290 . "8\t!a" . "" end

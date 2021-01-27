@@ -1,0 +1,1 @@
+program J : v : takes r : integer array; yBC : boolean array returns nothing do l2yaa(not 8 or 0) end tz : takes V, Ui, h : integer array; b0N0 : boolean array; hi : integer returns integer array rz : boolean array; b6 : boolean array; chillax end main : mo8, a : integer; chillax end

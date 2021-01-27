@@ -1,0 +1,1 @@
+program Y : tf : takes B, z : boolean array; Ba5a, N, P, MQ : integer array; pl : integer returns integer array do Y(not 6 + 8 - 40 >= 0 - 5, 7) end L : takes Z, F, u6 : boolean array; F, A1, WYv, w, HB : boolean returns nothing chillax end main : Ap : integer; X : boolean array; F, x1 : boolean; chillax end

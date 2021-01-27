@@ -1,0 +1,1 @@
+program L : Z : takes N2 : boolean returns integer array output 8800 - 459 = 62300 . 794 end main : Lv, T2, I : boolean array; when case true : when case - 479 - 11 : pop end case 3 = 7540 : chillax end case 79 : chillax end otherwise : input J; pop end; while 9 : do RQ6(82); pop end end case - S5[9] /= 62 - 36 : chillax end otherwise : chillax end; input Tl end

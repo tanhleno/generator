@@ -1,0 +1,1 @@
+program e6 : x : takes J, T : integer array; UG, W06a, t, E : integer; B, b, Ekf : integer array returns nothing Do : boolean array; pop - 63 - 2 end WQ9 : takes F9 : boolean array returns boolean array I0, Ver0 : integer array; s7, g, o : boolean; T81a : boolean; chillax end main : do yp(8 = - false * true) end

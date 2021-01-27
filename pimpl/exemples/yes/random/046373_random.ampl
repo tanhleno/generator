@@ -1,0 +1,1 @@
+program I : w : takes f : boolean returns boolean when case(8) : chillax end otherwise : let u = 02 end end main : L : integer array; when case true or o[0] : input c[- 1 - 045]; do g(57) end otherwise : when case 7 : chillax end otherwise : pop end end; do ai((3) rem 43 + m - 706 /= y_6); let Ec00 = array - not 781 or 135 - 2; input qY2[58100 - 68]; while 759 : chillax end end

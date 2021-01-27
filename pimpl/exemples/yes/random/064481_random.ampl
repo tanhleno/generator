@@ -1,0 +1,1 @@
+program sM : h : takes LA5 : integer returns nothing W6, R : boolean array; x1 : boolean array; t3 : boolean array; Y, L4 : boolean; t9_ : boolean; hx30 : boolean; chillax end main : F8Waa : boolean array; output - (6) * true and 0 . "" . ""; let m8 = array - true and 8 and 3; pop 043 - 6 <= 4 end

@@ -1,0 +1,1 @@
+program Hu : _ : takes A, GU90a : boolean array; J, u0 : integer array; m, K8a : boolean; Q : boolean returns boolean array let r6B0a[not 00] = 4 - 2 /= 22; output "" . 24 . 9 end L : takes V84aa : boolean array; K3, W50, C : integer returns integer array output "V"; when case 89000 = 98 : pop; pop end case 0 : chillax end; do qw(5) end main : chillax end

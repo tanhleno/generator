@@ -1,0 +1,1 @@
+program z0Ka : main : while - (9 = 3) * 0 * true and 0 /= - false / true + true and 7 : chillax end; pop; when case not 4 and 8 : let nC1[5] = array 92; input U9d end case 5 : chillax end case 14 : chillax end case 741 : pop end case 006 : chillax end otherwise : pop; input s; pop end; do K(- 9 - 0 < 984, 23) end

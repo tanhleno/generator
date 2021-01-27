@@ -1,0 +1,1 @@
+program w : D4 : takes d : boolean array returns boolean array Z : boolean array; K, f, G, D : integer array; chillax end JM3 : takes m0 : integer array; W01, q8X0, C, c : integer; v : integer; O, Y, O930 : boolean array; Pi3 : boolean array returns nothing do u3K0(71100 - 2 = 66, 8 = 5790) end main : v : boolean; pop end

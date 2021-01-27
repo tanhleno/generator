@@ -1,0 +1,1 @@
+program e : f : takes Fn : integer array; K, C7P, Jd : integer array; B : integer; hJ : integer array returns boolean array x : boolean; W, Q9, Z, RO5 : boolean; j7, w, R7 : integer; when case(305) or 70 - 8 < - 376 : do Sv(2); when case 9240 : chillax end end otherwise : chillax end end main : chillax end

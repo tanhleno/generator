@@ -1,0 +1,1 @@
+program S : T : takes Dqc0 : integer array returns integer KL, J, N, i0c, lf7 : integer array; when case - 50 and 7 - 94 > - 3 : chillax end otherwise : chillax end end main : BF, yc7 : integer array; chillax end

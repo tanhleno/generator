@@ -1,0 +1,1 @@
+program Uj : CuL : takes y6, fa, _ : boolean array returns nothing cJ : integer; T8, q04 : boolean array; while - not 4090 - 2 > 4 - 2770 : output 45 end end main : do c9(- not(36) /= not not 8); output false end

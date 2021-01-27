@@ -1,0 +1,1 @@
+program f5R0 : W : takes TAj : integer returns integer array s, Vh, d : boolean array; C : integer array; u : integer; let KcA0a[- true] = 4 - 84; pop end main : C : boolean array; do fS(- false rem k090a * false and 148 = - 83 or(803) or 4) end

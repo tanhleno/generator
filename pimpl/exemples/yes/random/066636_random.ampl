@@ -1,0 +1,1 @@
+program x : main : do u(- 0 - q[41] / (85) and 6 + not 7 and 165 <= true, X + false - 0 /= - (245)); when case - false / true and 93200 or not 18 : chillax end otherwise : do n7(0, 83); do O(8); let p8 = 846 end; while - 53 and 69 < - 45 : when case 1 : pop end; do Y(94); let Pv = 27; pop end; while 28200 <= 8 : chillax end; input w end

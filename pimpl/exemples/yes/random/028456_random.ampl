@@ -1,0 +1,1 @@
+program b : P : takes qh3, a : integer array; h : boolean array returns nothing I8, l : boolean; DD : integer array; output "Q" . "69" . "2@" . 2 . "R"; input d; while 765 : when case 4 : chillax end end end main : let T = array - false and false or true; output 45 and 3 > 8 . "&" end

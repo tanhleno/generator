@@ -1,0 +1,1 @@
+program Ii1 : main : while 2 or(3) and false and 2 or(2) and 0 + 63 - 56 > false / not 00 + true or 84400 : when case - 3 : input D; let e = 7 end case 53400 : chillax end case 48 : pop end otherwise : chillax end; when case 18000 : chillax end end end

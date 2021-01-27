@@ -1,0 +1,1 @@
+program Y4e : X : takes y, jd, i9, ygO : boolean array; A : integer array; wU80 : integer returns nothing input i4L0[- (71700)]; pop; output "Ph" . 4 . "\\" end main : _98 : integer array; tX6 : boolean; chillax end

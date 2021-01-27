@@ -1,0 +1,1 @@
+program gDT0a : M : takes xG : integer array; f : boolean array returns nothing do m3P0(false and 8 or 8 - 0); let Z[3370 - 9] = 7 end main : W : integer array; r : integer; do Hg(false and false > - 2 rem false and 82100, not qRD and 0 and 0); while 9 / (97) - true + 1 /= false and 60 - 5 : output 41 end; pop 6 /= 7 end

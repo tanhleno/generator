@@ -1,0 +1,1 @@
+program W : n : takes M : boolean array returns integer array R : integer array; input Gj[(4) + 25 - 4]; output 0 . 9; input D[4]; input z; output ""; while 066 : chillax end; pop end M : takes h, _, c, d8 : integer returns nothing Qhp0 : integer; chillax end main : output "\\"; pop end

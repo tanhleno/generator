@@ -1,0 +1,1 @@
+program Jy : Q6p : takes A2, f, c : boolean; p, f : boolean; R : integer returns nothing iL, Q : integer array; m : boolean; u98, wbc0, A : integer; h, amj : boolean; i1 : boolean; chillax end main : let S[false rem(9) and true and 04] = array 68500 rem(3160) and YSh and 37300 - true and ld end

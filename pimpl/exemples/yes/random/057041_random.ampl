@@ -1,0 +1,1 @@
+program o : C : takes k3 : integer array; o6 : integer array; w : integer array returns integer chillax end e : takes O : integer array; H, hElaa, Ik : integer; k : integer; R4y : integer array; LWBaa, U2Y0 : integer; L : boolean; U : boolean returns nothing do a(0 /= 0, 92 = 97); output 5; let w[214] = array 6 end main : U, r, Do : integer; chillax end

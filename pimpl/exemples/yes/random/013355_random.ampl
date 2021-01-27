@@ -1,0 +1,1 @@
+program g : O : takes KC, N, Q : integer; q2 : integer; h2W, b, b : boolean; rv1a : boolean; M2 : boolean array returns integer array S, kI5 : integer; chillax end main : output(78) / true and 19; while 7 / (81) or(1010) and 6 > (8) or 021 : output ""; output 46 . "," end; pop - 19 < 8; output 4 = 88 . "09" end

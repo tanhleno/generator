@@ -1,0 +1,1 @@
+program a1 : e : takes t1 : boolean; g : integer; sz : boolean; q1 : boolean returns nothing f, R : integer; NjBa : integer; output - 2 /= 06400; pop; output 7 . 2 . "2"; when case 8 : pop end case 42 : chillax end; do uc20(0); let u = 9 end main : ZFY : integer array; do V(- not gy); when case true * i and 2 or true <= - 4 - 4 : chillax end end

@@ -1,0 +1,1 @@
+program b : F : takes WG0 : boolean returns integer let N670[- (28) + 993] = array - (1000); let R[- 9 - 9] = array - 3 - 1330 end main : do dC(- not not true, not not 85 and true and 9, - not 99 and 3, - 5); when case true or(694) or 04 : do WIC(592 = 4, 5, 8) end otherwise : do f29(9, 5); while 0 : chillax end; pop; pop end; while true and 42 + 8 : output 1 end end

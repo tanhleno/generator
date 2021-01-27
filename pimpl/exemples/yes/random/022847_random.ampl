@@ -1,0 +1,1 @@
+program T63a : k : takes H, c42 : boolean returns boolean array chillax end Y : takes L, WV, _B, _9na, k7 : integer returns nothing when case 31 : pop; while 22 : chillax end; pop end otherwise : pop end end main : input Y1H[B] end

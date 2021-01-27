@@ -1,0 +1,1 @@
+program dK : main : S8laa, P, h : boolean; do u3(- q and q[158] * false and 9 - XwGaa + true and 9); while - true and 4920 : when case 9980 : chillax end case 657 : chillax end otherwise : chillax end end; pop; do j(8 - 6 /= 23); output 2 . "3" . "" end

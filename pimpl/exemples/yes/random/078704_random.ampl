@@ -1,0 +1,1 @@
+program B2 : main : X : boolean; B, Wn, O : integer; when case 502 * not true - not not 0 + 2 and 5 - 85 - 353 : pop 8; let X8P0a[58] = array 2 end otherwise : pop; while 7 : pop end; pop; while 2 : chillax end end; while(23) and not 39200 and 29600 - 89800 or 7 : chillax end end

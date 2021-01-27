@@ -1,0 +1,1 @@
+program gd : x : takes S, C : boolean array returns boolean M, c7, l : boolean array; when case - false and 368 <= - 876 - 81 : when case 69400 : chillax end case 440 : chillax end end otherwise : chillax end; pop end main : WA : integer; h, d, o : boolean; while - not 5 * 22 or(8820) <= - (2050) and false and 1 : input vbAaa; output ""; input X[119] end end

@@ -1,0 +1,1 @@
+program y60 : PYYa : takes I0, j : integer array returns nothing chillax end Z480 : takes u : integer array returns nothing H1caa, E : boolean; pop end zX3a : takes na : boolean array returns nothing ig : boolean array; pop 8; pop 16600 end main : GT70, L : integer array; chillax end

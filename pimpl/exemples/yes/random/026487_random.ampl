@@ -1,0 +1,1 @@
+program G : F3 : takes F, n : integer; ieq : integer; O, _, z : integer; ep2 : integer returns nothing g : integer array; chillax end main : input qdh[- (3) and true / true]; output "4d0" . 0 - 3 > 78700 end

@@ -1,0 +1,1 @@
+program fDI0a : I : takes w : integer array; G, w : boolean array returns integer array E3Z0a, o, lX1aa, r : integer array; j : boolean; pop 97 > 030 end main : yC1aa, V02a : integer array; while not Q(4) /= (21800) - not 95 or 21 - 5 : chillax end; let g4I = array _n4a(068) end

@@ -1,0 +1,1 @@
+program v : d0kaa : takes Wf, u8f0, R23, c4, X, Z4, t5e, h : boolean returns integer array do S(false and 8 < 92 - 6); do T(161 - 9 >= 7, 0 = 1, 6); do n4(9 = 0) end main : s5 : boolean; F, r : boolean array; p6 : boolean array; pop - rN(176) end

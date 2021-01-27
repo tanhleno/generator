@@ -1,0 +1,1 @@
+program h : C5 : takes FR : integer array returns boolean array chillax end Bi2 : takes n, Y4, W, W, n, w6 : integer; _h, yO : boolean array; Z9V : integer array returns integer array EP, w, a99 : boolean array; chillax end main : do y(not GB[78], - not(05)); pop end

@@ -1,0 +1,1 @@
+program D : Gz : takes gF, iZ : integer array returns boolean Y : integer; a : boolean array; chillax end bt80 : takes E8Y : integer array; L, V54 : boolean returns boolean array chillax end main : input O[false / false] end

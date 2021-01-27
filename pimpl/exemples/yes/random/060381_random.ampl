@@ -1,0 +1,1 @@
+program w : AuX0a : takes V : integer array returns nothing B, B, jexa : integer; do Yy(44 and 4) end T9ja : takes y : boolean array returns integer v_3, fS : boolean array; d : boolean; chillax end main : B, xT : integer array; do f(- false, - 81 and false, false, - 86 - 588 = 225) end

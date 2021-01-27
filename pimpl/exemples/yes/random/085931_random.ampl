@@ -1,0 +1,1 @@
+program A : main : m : integer array; j2ja, S, m : integer array; pop - false; while - (9) rem(18) and 7610 : chillax end; input F; output 7 = 77; when case 3 = 3 : pop; pop end case 6 : pop end case 6 : chillax end end

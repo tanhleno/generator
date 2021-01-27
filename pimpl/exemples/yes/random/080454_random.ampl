@@ -1,0 +1,1 @@
+program r : main : D9 : boolean; when case true + false * true and 930 + false and 7 : input bE; when case 0 = 9 : do a(5); pop end otherwise : pop end end case - I(2) * true and 16 : chillax end case false or 95 : chillax end end

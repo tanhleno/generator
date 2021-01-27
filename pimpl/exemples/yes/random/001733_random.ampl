@@ -1,0 +1,1 @@
+program W010a : z : takes B, BZ, NS, BE9aa, Oxuaa, Rjj0 : integer array; d7, U, J, u, J6f0a : integer returns nothing YDt0a, y : boolean array; chillax end F4 : takes W : boolean; j0, e8 : integer array returns integer chillax end main : rx, mtB : integer; n : integer array; _29, Bze0a : integer; do d(- 3 / (1) + s[899] rem HG or true and 8280 >= - (6) * not 0) end

@@ -1,0 +1,1 @@
+program V : b19 : takes P : boolean array returns boolean chillax end A : takes a7 : boolean; j : integer array; d, I5 : integer returns integer array w, IJ : integer array; tQ : integer; chillax end main : tr8 : integer; u : boolean array; L : boolean array; output - N8c0[45] - L and 740 - 16 - 6 end

@@ -1,0 +1,1 @@
+program dG : o : takes r4Daa, r, T : boolean array returns nothing output "d%" end Y : takes s : boolean returns nothing F, x, b35 : integer array; t : boolean; input b[- 1]; do _(74100 = 4); input KG30[8] end B6Ca : takes KjQ : integer array; m7Y : integer; fA, Z, T6, i : integer returns nothing L : boolean; chillax end main : chillax end

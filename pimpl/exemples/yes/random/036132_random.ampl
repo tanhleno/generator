@@ -1,0 +1,1 @@
+program l : d3 : takes N : boolean; O : boolean returns boolean array K : boolean array; U : boolean array; x4, B8j0 : boolean array; chillax end main : vc : boolean; y18, q : integer; do S(not P(0) /= - false and true + (5) and 0, - Ge(6), - o and 3); output - not 76600; pop - 02200 - 01200; pop 3; input rBd0a[32]; input Jo7; while 1 : chillax end end

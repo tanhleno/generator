@@ -1,0 +1,1 @@
+program cD : y : takes z9L : integer returns nothing do T(- 48 and 2 + 8 - 9 <= 8, - 4 - 8, 7, 4220) end TI : takes E, K, zV3 : integer; I : integer; Z, n, F, f, Xs : boolean returns nothing Z : boolean; tqh : integer; Y, u4 : boolean; A : boolean; c2eaa : boolean; chillax end main : PD, Mpi0a, _F : boolean array; pop - 07 <= - (73400) and 3 - 68 - 8 end

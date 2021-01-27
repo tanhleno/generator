@@ -1,0 +1,1 @@
+program w : dj : takes N1, wg6 : boolean; n, O, u : boolean; o, u : boolean array returns nothing while - false and 67 or 9 < - 6450 - 765 : while 211 : pop end; while 509 : chillax end end end main : A : boolean array; J, Mf : boolean array; R3, P2, P : boolean; output "|\t\"" . "" . "" . 8 end

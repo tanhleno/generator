@@ -1,0 +1,1 @@
+program R1 : main : e, a : integer array; CQ, _9w0a : boolean array; do og5(v < (3) rem false and 92, (6) < - r + 04 - 21, not 38 + 2 >= - 5 - 8760); pop; when case h0 = 61200 - 066 : when case 0 : chillax end case 55 : chillax end; do hu0(3); let p13aa = 84 end end

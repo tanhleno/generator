@@ -1,0 +1,1 @@
+program N : f : takes Xl, eL : integer; O4 : boolean array returns nothing D0m0a, i69 : boolean; chillax end K : takes r, BX, e3, Y, m1_, I : integer array; oK : integer array returns nothing QKU, z7 : boolean; do Y8(- 039 - 64) end main : do WQ9(true - 9 or true and 707) end

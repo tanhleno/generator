@@ -1,0 +1,1 @@
+program l : main : when case false /= - S[28] : when case - 6 - 3 = 45000 : chillax end case 0 = 50 : do t(5); pop end end case f / 6 and 1 < 3 and 0300 : chillax end otherwise : when case 29 : output "N\""; pop end otherwise : chillax end; while 09 : chillax end; while 4 : chillax end; input wS8; pop end; pop; pop 5 - 29 >= 80 end

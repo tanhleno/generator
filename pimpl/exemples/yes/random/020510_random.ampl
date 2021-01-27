@@ -1,0 +1,1 @@
+program i1 : Zeva : takes P, M : boolean array; d : integer array; H : integer returns nothing h44aa : boolean; let W = - 7 /= 15 end V : takes p, M, eq : boolean array returns boolean M, u23a, w, t7 : integer; ly5, a, pE : boolean; o : boolean; H : boolean; while 206 - 8 : pop end end main : chillax end

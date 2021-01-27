@@ -1,0 +1,1 @@
+program h8 : H : takes _M : integer array; ov : boolean returns nothing chillax end main : input c[W - (6) * true and 42000 + z8 and 6 or 06 - 301]; while - DB70[8] / C + not 9800 and 79 : pop; while 4 : pop end end end

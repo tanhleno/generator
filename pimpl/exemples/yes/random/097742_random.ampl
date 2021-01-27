@@ -1,0 +1,1 @@
+program s4 : main : while(4) + not false and not 255 and 99 + true and 8 or 6 < - true - true and 61 + 7 - 6 : when case 10700 - 2 : do V7r0(2) end otherwise : let H = 4; pop end end; while - false + (1) and 67 /= - true and 0 - 934 - 821 : chillax end end

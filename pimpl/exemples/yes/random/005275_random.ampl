@@ -1,0 +1,1 @@
+program m : xj : takes m, j, zp0aa, D1y : boolean array returns boolean array O, l : boolean array; let v = - 5 - 78700 >= 6 end d : takes E : boolean returns nothing u57, oB4, w700, J1 : boolean array; let W = 78 end main : N5 : boolean; l : boolean; o280a, P, V, e : integer array; f : boolean; Q34aa, N : boolean array; J2 : boolean; e0 : boolean; R3s0a : boolean; chillax end

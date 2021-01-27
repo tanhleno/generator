@@ -1,0 +1,1 @@
+program h : c : takes x, XN : integer; U, x : boolean array returns nothing i, N97 : integer array; chillax end main : output ""; while - 4 * 2 and 71 or not 071 - 0 - 0 : chillax end; do F(- not 2 - 44 - 4, 67 - 28 < 8, 11900, 368, 80) end

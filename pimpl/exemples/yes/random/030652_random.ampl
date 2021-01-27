@@ -1,0 +1,1 @@
+program z : z : takes E, E : integer array returns nothing kb90, vs : integer; chillax end main : while H14 and(633) * false + true - z4 /= - true - Yx and 3 or 7 - 2 : chillax end; do Q9(- B4(9460), - true, - 5); do S48(false and 24 + 38700 >= - 7 - 7, 7990 - 50 >= 7); output "" . 6 . "" . "" end

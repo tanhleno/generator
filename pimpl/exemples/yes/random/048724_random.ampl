@@ -1,0 +1,1 @@
+program g : s : takes dp3aa : boolean returns nothing E : integer array; do HR(- fMS and 0) end main : B, O, jH9, Di7a : boolean array; k, p0 : boolean; bh : integer; F, Q : boolean; M, Q, C74 : integer; G, r7 : boolean; output 9 or true >= - not 5; while true < - false or 24 : while 6 : chillax end end end

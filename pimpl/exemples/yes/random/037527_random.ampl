@@ -1,0 +1,1 @@
+program r : se : takes E80a : boolean array; l, E, t, z, a8J, x : boolean array returns integer lSt, t : integer; f, C9xaa : integer array; chillax end b99 : takes m, F, aAMa, S : boolean array returns nothing when case 2 : while 4 : chillax end end end main : chillax end

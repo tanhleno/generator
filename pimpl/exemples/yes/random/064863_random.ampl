@@ -1,0 +1,1 @@
+program f : fg : takes lay : integer returns nothing hN : boolean array; let E1B = - 9 end x : takes vi, ab7, L : boolean returns integer array f, c, V5 : integer; chillax end main : while - (3 = 054) and 6 or not QA > Z82(9) / not 80 and 50 : chillax end end

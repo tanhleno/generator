@@ -1,0 +1,1 @@
+program K : q : takes OLZ, v : boolean array; WB7aa, fC : boolean array; P, Dz, pP : integer returns nothing when case - 8 and 2 + 07900 - 58 : chillax end otherwise : while 6740 : chillax end; output "D%"; pop end; when case 8 - 405 : chillax end end main : chillax end

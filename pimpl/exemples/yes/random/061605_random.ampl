@@ -1,0 +1,1 @@
+program H : S : takes VT2 : integer array returns nothing while(60) and 26 : chillax end end main : Z0 : boolean; P : integer array; h, fB3, U : integer array; k480, U : integer array; m, a, CL : boolean array; while - (16) = true : do W14a(7 = 9) end; output "6" end

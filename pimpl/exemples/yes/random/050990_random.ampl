@@ -1,0 +1,1 @@
+program tAg : Wo6 : takes V : integer; Ro, p5 : integer array; f, T : integer array; Z, I5, K : boolean returns nothing g5l, W2Iaa : integer; chillax end XfZ0a : takes Y3, Y8, i : integer; Q : integer array returns nothing chillax end main : S : boolean; T, h : boolean; when case - not(5610) : chillax end otherwise : do W83aa(5 = 64300); do O(1, 25); pop end end

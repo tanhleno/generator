@@ -1,0 +1,1 @@
+program kg7 : Q : takes A : boolean array; wC, M98a : boolean array returns nothing chillax end O : takes a1 : boolean array; w : integer array returns nothing L14 : boolean array; chillax end p : takes wV80a : integer array returns nothing rg : integer; chillax end H : takes A : boolean array; i7v : integer array returns nothing s6 : boolean; chillax end main : chillax end

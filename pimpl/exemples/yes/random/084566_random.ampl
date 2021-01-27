@@ -1,0 +1,1 @@
+program d25 : main : T : integer; w : integer array; when case - true / 0 or false or u1 and 65000 <= - (21) and true and 1 or 85 : do v3_(86 - 1); input C2m[962]; do j(8, 9); do r00aa(4) end otherwise : chillax end end

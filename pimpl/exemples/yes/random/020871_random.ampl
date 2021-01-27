@@ -1,0 +1,1 @@
+program d3M : cS : takes sXca, A6 : boolean array returns boolean array H, l : boolean; YU : boolean array; Zu10a : integer array; ai8 : boolean; RP : boolean; ps1 : boolean; chillax end main : y, _ : boolean; output ""; output - (2) /= - 58 - 9 . - 48 = 0 end

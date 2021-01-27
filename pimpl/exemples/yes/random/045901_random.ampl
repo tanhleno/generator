@@ -1,0 +1,1 @@
+program _3 : l8 : takes dYJa : boolean returns boolean chillax end s6 : takes P, NI, e : integer array; Wd, Db : boolean array; s, r : boolean; d, C9, T, K : boolean array returns boolean chillax end main : m4, N : integer; AX : integer; La, H, e : boolean array; chillax end

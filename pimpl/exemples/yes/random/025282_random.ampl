@@ -1,0 +1,1 @@
+program T : I : takes p7, nKRaa : integer; l07, Vg5, qRD : boolean returns nothing T2, L7, d07 : boolean array; input x; when case - 60500 : chillax end otherwise : chillax end end main : u : integer; chillax end

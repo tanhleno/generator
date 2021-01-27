@@ -1,0 +1,1 @@
+program v : main : z, R : integer array; when case 86700 and false - not true or not 65 or 6 <= - (55) and 327 and 3280 - not 86400 and 3 + 6800 - 5 : chillax end otherwise : chillax end; input m0 end

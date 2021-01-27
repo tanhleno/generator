@@ -1,0 +1,1 @@
+program S67 : main : OeM0, v : boolean array; up0aa, Ra : boolean array; UO : integer; do X(not not Hl + not false rem 0 and 1 >= - v[6] * false and 511 or XZ1 and 79 + 9); output "G" . 27 - 1080 <= 4 . 549; while kU : chillax end end

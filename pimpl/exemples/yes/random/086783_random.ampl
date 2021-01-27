@@ -1,0 +1,1 @@
+program V9Naa : main : jv : integer array; w : integer array; do C(s03(7) <= - false or not 80 and 4 + 130 - 4, - false rem not 2, - not 2 /= 246 - 099); while - (9) rem false and 9 : chillax end end

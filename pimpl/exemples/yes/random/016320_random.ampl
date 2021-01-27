@@ -1,0 +1,1 @@
+program E4z : e : takes R, m51, X4 : integer returns nothing SP, j, cj : boolean; output "&"; output 7 . 0780 end main : f, B5e0a, X, A : boolean; W : integer; t, A, o5O : integer; j9 : boolean; R, C : boolean array; chillax end

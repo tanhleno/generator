@@ -1,0 +1,1 @@
+program x : main : when case false * A rem not 21 and 2 - false - (0) and 1650 + 36 = true / oRc and 29100 or Y and 8 - 7 - 983 : output 60000 = 2 . 258 end case - not false : chillax end case false : chillax end case - 9 - 415 : chillax end case 2 = 9600 : chillax end otherwise : when case 08 = 22 : chillax end otherwise : pop end; output 738 . "~" end end

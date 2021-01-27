@@ -1,0 +1,1 @@
+program O : RO : takes Y, TI : boolean array; aT : boolean array returns boolean array pop end sH : takes FK : boolean; g : integer; j30, e, LBXa, Z, y : integer array returns nothing chillax end main : chillax end

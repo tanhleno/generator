@@ -1,0 +1,1 @@
+program o7H : B : takes Rq, I : boolean array; xu : integer returns nothing do Ch20a(false and 65 - 1 = 2, 7 <= 530, 6 = 49, 7, 7); when case 0 - 11 < 4 : chillax end otherwise : chillax end; when case 3930 : input sI end end main : I : boolean; g, U : boolean; output ""; when case(74) / 28 - 83 <= - (42) and 1 or 3 : pop 4 end; let G = 05 - 53900 <= 16 end

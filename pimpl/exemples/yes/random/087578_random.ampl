@@ -1,0 +1,1 @@
+program M4 : main : R0 : integer array; when case dl7 - true or not 4 and 6380 + 0 - 4 > true rem not 1 and 62 : pop end; do NJC(- true * 4 and 47900 or true and 5 - 0 - 6, (0) and 9, 5 - 8 < 4); do t(48 /= - 5, - 9 - 29, 06); output 9 = 7 end

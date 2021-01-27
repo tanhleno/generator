@@ -1,0 +1,1 @@
+program s7K : H56 : takes G, g : boolean; OMV0 : integer array; c, Hc, w41, J77a, km, C3D : boolean; n, n8B0, Dv8aa : integer array; E, L, H : boolean; NU, bi, _ : boolean array returns boolean array S1, e : boolean array; output "" . 4 = 82 . "\"\t" . 593; input e9d; do Nl(91 = 34) end main : T : boolean; chillax end

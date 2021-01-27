@@ -1,0 +1,1 @@
+program B : mV1 : takes v, I4 : boolean array returns nothing let L290a[- H2 or 100 - 519] = array - 376 and 6 end o2Z0 : takes f, Y, X5, H8, U, L, e : boolean array; C : integer; Cl, Q : integer array returns nothing OATa, S, OA1, H : integer array; z, Hy : integer array; chillax end main : j : integer array; chillax end

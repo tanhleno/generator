@@ -1,0 +1,1 @@
+program Jrz : main : H82a : integer array; s9, P : boolean; V, CG6, x, Y, G7 : boolean array; l, c0k : integer; output - (97) * 04500 and 59 - not 7 <= - true and 916 or 41200; while - false < - not 47 : chillax end; output - 41100 >= 17 . "%'" . "4" . 3 . ""; pop 8960 end

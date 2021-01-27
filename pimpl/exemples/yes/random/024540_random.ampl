@@ -1,0 +1,1 @@
+program D : W : takes QC, z : boolean returns nothing B : integer; chillax end J : takes C4h, G, sI, P : boolean array; rG, xb, f, jD, y, O9Z : boolean; o : boolean array returns nothing while 10 - 7600 >= 42 : when case 97 : chillax end end end main : chillax end

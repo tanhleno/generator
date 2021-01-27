@@ -1,0 +1,1 @@
+program u : nsj0a : takes ru10 : boolean array; J, qs7 : boolean returns boolean chillax end C : takes D, uV70a : integer returns nothing i : integer array; w5 : integer; F : boolean; pk7a : boolean; chillax end main : when case - g[56200] * 2 rem true and 45600 : do G5(968 >= 0, 048 = 77) end; input jI[- true and 36 and 93 - (5) and 2] end

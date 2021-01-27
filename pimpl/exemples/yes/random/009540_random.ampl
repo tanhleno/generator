@@ -1,0 +1,1 @@
+program Hw3 : P : takes U, B, D : boolean array; FRcaa, G, VZ7aa, B, r3 : integer; M : boolean array returns nothing chillax end m : takes u : boolean array; dUH0a, F4 : boolean array returns nothing s7 : boolean array; chillax end main : chillax end

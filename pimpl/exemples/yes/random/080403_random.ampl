@@ -1,0 +1,1 @@
+program d9 : main : P770a : boolean; when case - true rem 320 rem not 30 + (1) or 964 and 0000 - 161 <= - (1) / not 9 and 1 : chillax end otherwise : pop; let I58a = array 9 end; when case - kw00a - 82 = (08200) and 6 or 07 : while 072 = 3 : output "6" end; do Dg(9, 251); while 89300 : chillax end end; do B7(- k - 405) end

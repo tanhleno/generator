@@ -1,0 +1,1 @@
+program Y6 : main : A : integer; y, j : boolean array; when case not not 453 + false rem false : when case 5 : chillax end case 0 : chillax end; pop; input iU2aa[9] end; while - D2 >= true and 468 : let ow[56] = 4; when case 22 : chillax end case 592 : chillax end otherwise : chillax end end end

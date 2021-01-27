@@ -1,0 +1,1 @@
+program Y : B : takes i, f : integer array returns boolean array when case - 81 or 3 - 1 : do Kf(125, 52) end otherwise : output "8"; when case 6 : chillax end end end main : B5, O, uW : integer array; chillax end

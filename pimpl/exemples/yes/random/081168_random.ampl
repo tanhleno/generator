@@ -1,0 +1,1 @@
+program I8P : main : i : boolean array; T, E : boolean; wQ, fU, M : boolean; g8, o : integer array; do T1(- x(8, 7) and not(5630) rem false and 54); let f380a = - 05 and 0 + 0; while - WL and 37 or 3 - 9950 /= 134 : do i(6); pop end; while 73700 > 5490 : output ""; pop; pop end; while 3500 = 20600 : chillax end end

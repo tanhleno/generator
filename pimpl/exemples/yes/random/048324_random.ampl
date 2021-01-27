@@ -1,0 +1,1 @@
+program l : x49 : takes c55a : boolean returns nothing k : boolean; chillax end w : takes GL, C : integer array; R : boolean; ob, D5, w, y : boolean; Qn, P15a : integer returns integer array pop; let _D = 45; output 45 . ""; input Fp end u : takes z8, _ : integer array returns boolean input v0; pop end main : s16, U, l : boolean array; R, j : integer; chillax end

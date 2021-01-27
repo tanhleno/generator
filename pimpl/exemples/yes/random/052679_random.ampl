@@ -1,0 +1,1 @@
+program v0 : i9P0 : takes sg : integer; X9Va : integer array; z2, kN : boolean array; Q, f, b : integer; y0, i : boolean array returns nothing let gD = - 9; pop end main : YO, sa1aa : integer; Q : boolean array; do l(false rem true and(6) + Fx rem 1130 and 86 - not 9090 >= not 7 * not 7 and 8 or true and 4 - 59 - 7890, - not(6) = false and 9); input e[- false + true and 9980] end

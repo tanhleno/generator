@@ -1,0 +1,1 @@
+program sv1 : _ : takes W, B18 : integer returns nothing D3w0a : boolean; mI : boolean array; m, E : boolean array; H : boolean; J6 : boolean; k60aa : boolean; when case - false and 926 < 56900 - 9 : chillax end case - 880 < 61900 : chillax end; let u[2] = 54 = 21 end main : chillax end

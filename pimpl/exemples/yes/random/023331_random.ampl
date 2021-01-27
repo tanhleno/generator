@@ -1,0 +1,1 @@
+program jY : FZ : takes l, Lak : boolean returns boolean output "" . "|k" . ""; output "" end main : W5, P : boolean array; do W(m(2930, 3) /= - false - not 6 or 7 - 7870); do X1(- f + false - 92 < not 21 and 8) end

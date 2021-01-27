@@ -1,0 +1,1 @@
+program b : GT5a : takes z68a : boolean array returns nothing pop; do K(3 - 1, 7, 65, 4) end Ob : takes n, J : integer array; h5S0 : integer returns nothing st : integer array; j3 : integer array; c : boolean; K : boolean; pop 11; pop; pop end j : takes S4 : integer; bY : integer returns integer array output 3 . ""; do C9r(6, 3) end main : input y end

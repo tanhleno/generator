@@ -1,0 +1,1 @@
+program F2 : main : do B31(true + false < - false, - 318 or jD - 071 /= (799) and 3 + 3 - 29); when case true / (26) or false : chillax end case false and 88 or 74 - 9 <= 7 - 97 : chillax end case - 31 : output "63" end case 910 : while 4070 : chillax end end; output "9ma" end

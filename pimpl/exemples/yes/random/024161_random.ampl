@@ -1,0 +1,1 @@
+program z5w : d : takes yU, T6 : boolean returns nothing _92, Kle, d0W, I, a3 : integer array; I8, a, b : integer array; D : integer; when case(394) + 6 : chillax end otherwise : output "Q"; while 855 : chillax end; pop end; when case - 133 - 18 = 4 : pop end end main : U, J5S, hT : boolean array; when case - false / (252) + (5) - false = (8) : chillax end end

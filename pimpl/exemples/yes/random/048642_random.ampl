@@ -1,0 +1,1 @@
+program M5 : W : takes K : boolean returns nothing v : integer; I1 : boolean array; A6 : integer; chillax end main : M1vaa, Y52a, H11 : boolean array; m, k : integer; U, gl, c : boolean array; input x3[not 8 and not false rem 1] end

@@ -1,0 +1,1 @@
+program E93 : At : takes K410 : boolean array returns boolean input YTFaa[2] end L : takes uX : integer array returns boolean let d = array 87100 end main : input z; do SU1(- not(86), - dUa and 5 or 10 = - 1, 2 - 05 < 1); while - not 0 <= 4 : when case 5100 : chillax end case 99 : chillax end; when case 34 : chillax end end end

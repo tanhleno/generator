@@ -1,0 +1,1 @@
+program Z : LJZ : takes S : integer array returns boolean l : boolean array; a, C4R, L, _ : integer array; V, qB7a, pp : boolean; chillax end h : takes _Q, zLL, RC : integer returns integer BV2 : boolean array; by, Dxw0 : integer array; let V[- 26 - 25] = 133; do lIo(028); while 6 : chillax end end main : output - true; input T53[- _Ria rem m18 + not 36 - 6] end

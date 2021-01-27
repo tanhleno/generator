@@ -1,0 +1,1 @@
+program wEIa : l : takes U94 : boolean; K : integer; j : boolean; C : boolean; _360a : boolean array; Dm, q : integer array; nX3 : boolean; k : boolean returns integer chillax end main : wz1, XNj : boolean; h : integer; do IVIaa(- true * 2 = false * not 01 or true) end

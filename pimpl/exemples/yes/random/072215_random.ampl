@@ -1,0 +1,1 @@
+program tB6 : main : Y, V, ew80 : integer; o : boolean; l : boolean; b1 : integer array; let k[- hs4 / not not 20 / qfW and 3] = (8) + true and 2790 - 7 - 9 /= - 1 or 4; while 188 * true and 110 or qE : chillax end; pop - 12 - 026 end

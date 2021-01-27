@@ -1,0 +1,1 @@
+program t : Bu6 : takes x, m1 : integer array returns nothing GmQ0a, P, rO10a, h : integer array; mK : boolean array; lM, a, t : integer; chillax end H : takes i : boolean returns nothing O53a : boolean; y2, t : integer array; g : boolean; pop 32200; when case 16 : output ""; pop end otherwise : chillax end end main : when case 383 - (49) rem(51) and 2 + true - 849 : pop end end

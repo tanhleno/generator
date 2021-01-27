@@ -1,0 +1,1 @@
+program oK : main : qo : boolean; let y[not false and true / true - not H8 and false] = array - H6K(1, 818) / (15) or 2070 + 1 and 91; let d[922] = array - (93) * not 59 and 8; pop; let ju4 = array 605; let UYw0[27] = array 008; when case 9 : pop end otherwise : chillax end end

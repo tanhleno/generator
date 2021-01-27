@@ -1,0 +1,1 @@
+program SB50 : te : takes j, _ : boolean array; L9 : boolean; i : boolean array; X4, W : boolean array; d74 : boolean array; l7N0a : boolean array returns integer chillax end main : do _(- not ErW * false - true = 552 and false - not 6, - Wd[52] * not 3 > - not 4 - 2 - 6) end

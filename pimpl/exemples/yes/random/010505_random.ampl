@@ -1,0 +1,1 @@
+program f : Y : takes eZ7aa, w, E : boolean array returns boolean array chillax end Kh : takes c, x08 : integer array returns boolean array x : integer array; output "9\t!" . 7 end main : fvx : boolean; chillax end

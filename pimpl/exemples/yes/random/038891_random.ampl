@@ -1,0 +1,1 @@
+program O370 : v : takes OJ : boolean array; _, Fbta : boolean returns integer a, q : boolean; let FJ = 0840 - 3 /= 8; when case - 30 <= 11 : output "Xm!a" end case 1 : chillax end end main : x6 : integer array; chillax end

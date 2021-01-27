@@ -1,0 +1,1 @@
+program z : i : takes p, G, C, G7, i : integer returns nothing QD : boolean array; lo5 : boolean; h_, H1W, I : boolean; o, EGd : boolean; U : boolean; I : boolean; chillax end main : Cv, H70aa : boolean array; iZ, VZf, y, H : integer; when case false and(89) + 36 : chillax end case true - O and 70 or 4 - 68 : chillax end case q : output 10 end; pop - 2 and 4 or 2 /= - 789 end

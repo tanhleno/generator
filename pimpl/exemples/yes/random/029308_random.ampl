@@ -1,0 +1,1 @@
+program p8 : S : takes b, JL : integer array returns boolean array SA, g, AEa : integer array; z2 : integer array; R1b, m6N0 : boolean; chillax end main : b : integer; let Zw[(8 = 3) rem(82) / 3 and 0] = - 819 / true + false and 56600 - 4; do dIs0(- true and false and 7) end

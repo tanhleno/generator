@@ -1,0 +1,1 @@
+program O : ij : takes iv : boolean; l, E1 : integer array returns boolean array N : boolean array; Xt2aa, Zk : boolean array; qWJ : boolean array; pop - 3 <= 21 end a : takes y, m, ajl0a : integer; H06, Z : boolean; O, F : boolean array returns nothing chillax end main : B96, KX, l : integer; g : boolean; chillax end

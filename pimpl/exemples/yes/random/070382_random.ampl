@@ -1,0 +1,1 @@
+program W : main : v, L, k000a, hb : integer array; do _F(27 rem(9) > - 2 rem(3), - (98) * not 97 and 627 /= - not 7 and 369 + 508, true and 2); when case - true + (73) and 77 + 4 < - not 93 and 35 or 48 : chillax end case not 94600 or 1 >= - 7 : chillax end otherwise : when case 015 : pop end otherwise : chillax end; output "" end end

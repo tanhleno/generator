@@ -1,0 +1,1 @@
+program _72 : O : takes u5, l, o : boolean; S, t, T, t : boolean; y : boolean; hu20a : integer returns integer while - 28 and 7 /= - 5 : when case 78700 : chillax end end; when case - 25 - 59 : when case 982 : chillax end end case 6 = 1 : chillax end case 6 : pop end otherwise : when case 59 : chillax end; pop end end main : chillax end

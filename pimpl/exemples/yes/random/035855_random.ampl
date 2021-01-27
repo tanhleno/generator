@@ -1,0 +1,1 @@
+program e : J : takes f : boolean; a : boolean array returns boolean array E : integer array; chillax end m : takes D : integer array returns nothing y, KxV : boolean; chillax end main : Z : integer array; e81, W68 : integer; do jm(true < true * not 41 and 3040 or false + 2 - 3) end

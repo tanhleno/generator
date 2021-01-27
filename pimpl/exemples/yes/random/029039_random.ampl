@@ -1,0 +1,1 @@
+program V : Kh : takes f, v : integer array; ds : integer array returns nothing input Y8O end w : takes rFY0 : integer array; b0, U7, W_i0, P8 : boolean array returns boolean array let rmMa = array - 2 - 331; input o; let F1 = 0 end main : chillax end

@@ -1,0 +1,1 @@
+program ki : I : takes me7 : boolean; i, k : boolean; i, _3 : boolean array returns boolean chillax end Z2 : takes I, A4 : boolean array returns nothing s, C, N8maa : integer; chillax end main : let S0 = true + z130 and 07 + 400 - 91300; output "7" . - 7 > 2440 . "" . "5" end

@@ -1,0 +1,1 @@
+program V : z93 : takes d720a, t : integer; Uy3aa, CD : boolean; e : boolean; f, y : boolean array; r, jE, Yv00, TtX : boolean array; K780a : boolean array returns boolean s : integer; s0, lN : integer array; chillax end main : chillax end

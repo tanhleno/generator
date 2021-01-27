@@ -1,0 +1,1 @@
+program Bd2 : nt : takes p6k, b5z : boolean returns boolean x8 : integer; chillax end c : takes v, jy, VBo : boolean; h : boolean; y, m : integer array returns nothing chillax end m2 : takes K : integer array returns nothing chillax end main : pop(482) = - true or 26 - 86; output "\\~\"" . 7 - 64 < 0 . 0 = 232 end

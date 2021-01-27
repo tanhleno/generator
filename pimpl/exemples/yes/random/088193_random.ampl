@@ -1,0 +1,1 @@
+program Lh : main : input c7Pa; when case 96900 / true - 8 - 7 - 0 : chillax end case true and 032 + 4 : chillax end case 8 <= 21300 : pop; while 3 : chillax end; pop end case 7 = 5 : input a5 end case 8 : pop end case 818 : chillax end; while - not 621 and 126 >= - 13700 : pop 7 end; do N4(42); input g end

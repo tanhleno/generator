@@ -1,0 +1,1 @@
+program y : Z : takes Dt7 : boolean array returns nothing output "" . "" . 3; do d(- 99900 - 40000 < 5) end main : G, Er, w8, I4C : integer array; p9b0, l, K58a, h2U, P7, j3 : boolean; O : integer; pop - not not 835 * dr and 48300 end

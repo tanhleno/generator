@@ -1,0 +1,1 @@
+program c : g2 : takes v, _, ywY : boolean array; ma, y : integer array; l, i : boolean returns nothing v, rA8a, rs : boolean; R : boolean array; chillax end H : takes N, q19a : boolean; et, X : integer returns nothing z, w9ra : boolean array; input HE[- 6] end main : chillax end

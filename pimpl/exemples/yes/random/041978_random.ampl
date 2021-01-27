@@ -1,0 +1,1 @@
+program a5 : l : takes Mj : boolean array returns boolean chillax end J : takes t6u : integer returns integer do p6(0 - 09200 /= 8, 5, 9); pop 1; when case 7 : pop end case 4 : chillax end end main : let P3[3 - (87600)] = array(01) end

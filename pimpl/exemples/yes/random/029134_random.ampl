@@ -1,0 +1,1 @@
+program p : hTu : takes p, L : integer array; r : integer returns nothing chillax end t950a : takes b : boolean array; be, G, a, iR : boolean returns nothing chillax end main : pop - false or not 39 and 22 >= - (22) or 8; output "" . "\t|" end

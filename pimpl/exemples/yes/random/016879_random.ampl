@@ -1,0 +1,1 @@
+program h : j : takes h, N : boolean; P_e, N, n_, zU70 : integer returns nothing QR : integer; chillax end main : FV40a : integer; L : integer array; when case Z - (5) and not 6 and 6 + not 8350 or 67 /= Q[8] - true and 118 : pop 90500 = 8; output "" end case true or false = - b - 154 - 02 : chillax end end

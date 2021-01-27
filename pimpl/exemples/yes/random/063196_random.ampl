@@ -1,0 +1,1 @@
+program F : c : takes _ : integer returns integer chillax end P : takes _jJa, tmV, j, m : integer array returns boolean array F : integer array; A7n : integer; Y : boolean; chillax end main : output not 172 * false + false and 2 end

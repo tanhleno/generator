@@ -1,0 +1,1 @@
+program wM7a : nfQ0a : takes qc4, V, Y7S, V : integer array; TH, s, S : boolean; I, X : integer array returns integer nrla : boolean array; I : integer array; Pm, AH, i6 : boolean; Z0j : boolean; C : boolean; H : boolean; output ""; let W = 1 end main : chillax end

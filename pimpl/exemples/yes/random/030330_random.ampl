@@ -1,0 +1,1 @@
+program O3 : c : takes G7, s : integer array returns nothing chillax end main : Sz, c80, V : boolean array; pop C0[9] / true and 3 or false or 3 > false or 57; pop - (1) + 29 - 6 <= 7790; pop; output "\\" end

@@ -1,0 +1,1 @@
+program e2yaa : g : takes I : boolean returns nothing V06, QQ, b, i7o : boolean array; X, D5 : boolean; Zj2a : integer; pop; while 5 < 0 : chillax end end main : K2 : integer array; T : integer; chillax end

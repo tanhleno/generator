@@ -1,0 +1,1 @@
+program g : main : x : boolean; when case - 48 * 34 / not 89 : chillax end case not(0) and 008 - Sw or 89000 : chillax end case not 79 + 02 - 3 < - 0 - 139 : when case 6 : pop end; while 1 : chillax end end case - 3620 <= 8 : chillax end case 8 : chillax end otherwise : do g(13100 = 0); input P; let Q = 4 end; let xb[- not false] = (937) - 736; input V end

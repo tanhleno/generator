@@ -1,0 +1,1 @@
+program oR0 : z600a : takes i : boolean array returns nothing Z6pa, a, z : integer; chillax end EW : takes X6 : boolean array; x9 : boolean returns nothing t1, l, nr1, U2 : integer array; chillax end main : n : integer; Ne4, Kg : integer; chillax end

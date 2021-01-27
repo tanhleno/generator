@@ -1,0 +1,1 @@
+program zAQ : JVV0 : takes D : boolean array returns nothing chillax end p : takes ig, X : boolean returns integer chillax end main : let q = array - b8[7] rem(2) rem not 06; input Z; let zD = 81 end

@@ -1,0 +1,1 @@
+program m : j_5aa : takes D5m, kX, f : integer; r0 : boolean array; n, F, kT, K, j8, N83a : boolean returns boolean array chillax end main : input q8; when case 2 / 9 and 2320 /= false or 4 - 96700 : when case 9 = 6 : chillax end case 3 : pop end otherwise : pop end end otherwise : chillax end end

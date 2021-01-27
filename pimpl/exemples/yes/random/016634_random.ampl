@@ -1,0 +1,1 @@
+program X : X92 : takes r81, i, X : integer returns nothing while true and 4 <= - 05 - 2 : chillax end; pop 79 end nIA : takes c2, Lw : integer returns boolean array chillax end main : while - true : chillax end end

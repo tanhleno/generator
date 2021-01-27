@@ -1,0 +1,1 @@
+program t3 : k0 : takes A7 : boolean array returns nothing chillax end main : Rx8, a : boolean; K : boolean array; j : boolean array; k : boolean; L, j, KH : integer array; M, h : boolean; M3 : boolean; D : boolean; do D(false * false * false and 2 - h * (4) and 51900 or a8 - 71 /= - (67), - 422 rem true - E and 17 or 88 >= - true and 2 or 0020 - 5190) end

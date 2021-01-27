@@ -1,0 +1,1 @@
+program N : A00a : takes o0g : boolean array; v, eD : boolean returns nothing L1 : boolean array; chillax end q : takes O, Ny, e : boolean; Ml : integer array returns boolean chillax end main : let E = array(6) - 3 rem(86) + false and 8 - 3; pop false >= 8 end

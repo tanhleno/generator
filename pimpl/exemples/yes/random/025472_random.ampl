@@ -1,0 +1,1 @@
+program P : I : takes D, F4 : integer; b9, u9 : boolean array; k0, e1, v20, ip, rn : boolean array returns boolean m7, Cd2aa, Z : integer; P03 : boolean array; Y, l3 : integer; m5 : boolean; chillax end main : when case false <= - d[5] rem true : chillax end end

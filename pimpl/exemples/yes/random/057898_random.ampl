@@ -1,0 +1,1 @@
+program nH : j : takes p : integer array returns boolean array aa : integer array; Oy2 : integer array; FZ : integer array; l5V, wj : boolean; input by; output 98 = 1; while 6 : while 300 : chillax end; pop end; output 6 . "\"("; let cxy = 07; while 7 : chillax end; pop end main : while false * not not 0 - (5) * not 5 : input t end end

@@ -1,0 +1,1 @@
+program m : W : takes k : integer array; l : boolean; O : boolean; k : boolean array; na, k : integer returns nothing chillax end e2 : takes w : integer array; a4_a, f7, S, JE3 : boolean array returns integer array S, h : boolean; while - 8 - 7 : input Y end end main : chillax end

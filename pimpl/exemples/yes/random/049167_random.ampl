@@ -1,0 +1,1 @@
+program Lk20 : g : takes O0 : boolean returns nothing while - (0) and 04 or 0 = 2 : chillax end; pop end qL : takes B : integer; P, Z : integer; ybua : integer array returns nothing chillax end main : f4 : boolean; e : integer; output "" . - not 1 and 3 + 7 >= 16 - 99200 end

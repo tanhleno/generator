@@ -1,0 +1,1 @@
+program w : o6 : takes H9, P7N, b54 : boolean returns boolean P, b, Mt : boolean array; S9 : boolean array; Z6g : boolean; do D75a(- (30) - 1920 >= - 3); pop 5 end main : a41a : boolean; g, j : boolean; chillax end

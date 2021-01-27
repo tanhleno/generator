@@ -1,0 +1,1 @@
+program m : main : cN80a, k : boolean array; o : boolean; when case true and true and true /= - k[1] rem(5) and 5 + 0 and 832 : chillax end otherwise : chillax end; while - not true rem not 751 or 19 and 4 or 5 - 3 : chillax end end

@@ -1,0 +1,1 @@
+program u23aa : v960 : takes J, y7ra : boolean returns nothing let P = array true and 4 end B1xa : takes e020a, y_, p400 : integer returns nothing while 1 - 4 >= 15 : do I(07100) end end D4 : takes s : boolean array returns nothing s : integer; g050a : boolean; O : boolean; chillax end main : E : boolean; chillax end

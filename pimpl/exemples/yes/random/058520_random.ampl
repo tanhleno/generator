@@ -1,0 +1,1 @@
+program l : i4 : takes L : integer array returns boolean pop end K : takes h6 : integer array; S : boolean; Ys3, WL, v, jC : integer array returns integer o : integer; chillax end k6 : takes r6, a, Ll : boolean array returns boolean array _ : integer; chillax end main : EC, b11, n, l, lP8, K : boolean; J, o6i : integer; let t[false] = array false; input j5ra end

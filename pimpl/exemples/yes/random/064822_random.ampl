@@ -1,0 +1,1 @@
+program Vy : j : takes w : integer returns nothing s : boolean array; j, p4m0a : boolean array; Xy, M4 : boolean; while SF - 45 : output 6; let MTR = 4310 end end main : D9ha, B, Vc : integer array; I : boolean array; x, WU, o5 : boolean array; let O = - 9 - not 5 and 931 end

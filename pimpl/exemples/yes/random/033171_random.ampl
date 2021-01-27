@@ -1,0 +1,1 @@
+program d : c3 : takes k6t, c5G : integer returns nothing while false and 9 or 888 - 5 = - 070 - 28 : chillax end end _k : takes FC : integer; o, N : boolean array returns integer output "" . "1Saa" . 7 . ""; pop 9 end main : E0, w5P : boolean; CG, B : boolean array; chillax end

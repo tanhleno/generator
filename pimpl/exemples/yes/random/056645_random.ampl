@@ -1,0 +1,1 @@
+program A : L2ka : takes J : integer array; D0 : integer; l : boolean; P, N7 : boolean array; B : boolean array; i9, gyH : boolean returns integer array chillax end i : takes D : integer; p1, Wf : boolean returns nothing chillax end main : do J3(not(4) * false, not true rem not 3 + not 8 and 06400 = l8xaa + 2); output - true and 86 + 77 . "" . 69 = 3 end

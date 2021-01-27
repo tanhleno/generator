@@ -1,0 +1,1 @@
+program h81a : UU3a : takes U8za : boolean array; E : boolean array returns nothing L85, c : integer array; do b(- true or 5 <= - 3, 32 - 044 = 1); while - 50400 - 97100 /= 05 : when case 6 : chillax end end end main : chillax end

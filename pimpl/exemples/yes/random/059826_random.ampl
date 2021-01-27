@@ -1,0 +1,1 @@
+program V3 : w : takes lT9aa : integer array returns nothing chillax end T4Taa : takes N : boolean returns nothing chillax end main : DO, U, S : boolean array; when case - (60 = 339) * false : chillax end otherwise : output 084 end end

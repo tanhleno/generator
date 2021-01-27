@@ -1,0 +1,1 @@
+program m : Af : takes B46, Rir0, S7 : integer array returns boolean n : boolean array; while not 0 < - 2280 - 85 : chillax end; output "" end nr : takes t, G : boolean array returns nothing cRya, q5N, j : integer array; chillax end J : takes q : integer array; S, o4 : integer array returns boolean pop 7; pop 2 end main : do H(not(7) / true) end

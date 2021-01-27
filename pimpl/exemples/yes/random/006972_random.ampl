@@ -1,0 +1,1 @@
+program P : k : takes H790, D, uF, i6xa : integer array; U6, f : boolean; P0 : integer; T3, VA9aa, t, a, T4V0 : integer returns boolean EL : integer array; W : integer array; output 6 . 7 end main : input C[- 7 rem(8)] end

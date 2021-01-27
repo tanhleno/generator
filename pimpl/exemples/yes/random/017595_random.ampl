@@ -1,0 +1,1 @@
+program V : a : takes y, n : boolean; NL, K34aa : integer returns nothing input Kp0[- 6]; pop 4 end D : takes q, c : boolean; T8 : boolean array; P : integer returns nothing f, Uu, D : boolean; let T[4] = 9; while 7 : do B(8) end end W : takes P, F370, b2 : integer array returns boolean array i9s, Y6 : boolean; chillax end main : G2ma : integer; chillax end

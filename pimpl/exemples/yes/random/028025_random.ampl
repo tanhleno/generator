@@ -1,0 +1,1 @@
+program to4 : IKZaa : takes n5X, cw : integer array; Ge1aa, M : integer array returns nothing FD : boolean; output "\t"; while 3120 - 980 > 47 : output "\"" end end L : takes LL4, p : integer returns integer array chillax end main : j : integer array; S, f : integer; chillax end

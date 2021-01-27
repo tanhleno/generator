@@ -1,0 +1,1 @@
+program Zv : OV : takes s, D, V, l58, z96aa : boolean array returns nothing do c5(- (49) >= - 4, 3 - 25) end main : do Z(false + (213) rem B and 9 = (8) rem(58) + false and 71); while - false : chillax end; input E end

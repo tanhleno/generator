@@ -1,0 +1,1 @@
+program TS4a : main : v23aa : boolean; H1 : integer array; L4, f73aa, ax1, N, DUQa : boolean array; when case - (8) and ou10a[7] / 10 >= 5 or(1) and 9 or 58 : chillax end case not 3 + 91 : output 18; input n[446] end otherwise : chillax end end

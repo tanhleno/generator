@@ -1,0 +1,1 @@
+program U : b7 : takes VGT, A, _b30a : boolean; H, M : integer; S2 : boolean array returns nothing Jw : integer array; do x(- not 1 and 21 + 6 < - 682 - 8, 67 <= 620) end main : Fe7aa : boolean; chillax end

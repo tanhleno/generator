@@ -1,0 +1,1 @@
+program A_ : C : takes LV, X2, f8 : boolean returns boolean jsQ, i : boolean array; j7 : integer; chillax end main : when case true / (5) > - Y + true and 886 - 90100 - 6 : chillax end case - (1) : chillax end case 48 and 5 or 4 /= 319 - 5 : chillax end case 24 - 16 >= 87 : let fgc = 3 end case 09 = 0 : chillax end end

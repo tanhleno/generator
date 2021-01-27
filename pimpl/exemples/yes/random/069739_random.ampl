@@ -1,0 +1,1 @@
+program i : main : H, TZS, OP, B : boolean array; U, j, F1da, k7, P : integer; rX, R : boolean; output - true rem true and 92 >= - 1330 . "\n"; pop - not 2770 and 3; when case(26) and 2 : chillax end case 9 : input f; let Y00 = 3 end case 9 : chillax end; while 0 : chillax end end

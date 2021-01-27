@@ -1,0 +1,1 @@
+program mf : Z2X0a : takes u, X3 : integer returns nothing do gU(i and 1 < - 2 - 68100, 1 = 6, 4700 = 6, 20100, 4) end A : takes G2 : boolean; D3 : integer array returns nothing let s17 = array - 8; input U end main : chillax end

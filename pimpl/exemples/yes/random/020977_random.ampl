@@ -1,0 +1,1 @@
+program X : R : takes x, r7 : boolean array returns boolean array let K[not 4] = array - not 8; when case 55 < 894 : chillax end otherwise : chillax end end k : takes u : boolean returns boolean ywp, D, k : boolean; chillax end main : output 54 / 8 and 88 <= - false and 20 + 063 - 59500 end

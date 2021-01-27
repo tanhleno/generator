@@ -1,0 +1,1 @@
+program iT : o : takes X8L : integer returns nothing w8Caa, D4 : boolean; DK : integer array; chillax end main : Y : integer array; do YM(- A0r0(468) + (5) >= - false + jqfa, not false / (01) and 0) end

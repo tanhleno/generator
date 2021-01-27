@@ -1,0 +1,1 @@
+program Pb : R : takes J1Paa, S : boolean array; b, d, z : boolean array returns nothing input VTraa; pop 1 = 973 end main : output - true < - true + 0; do C95(033 or false and 40500 /= true, - (2) and 8 or 9 - 4); output - 3 . 6 = 78; let nA[665 - 30] = array 9 - 6; when case 894 = 6480 : pop end case 6 : chillax end otherwise : chillax end end

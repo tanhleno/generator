@@ -1,0 +1,1 @@
+program P : g : takes E, C39, e : integer array returns boolean array input OeL end j : takes Hx8, _, X, bBW, ju, V, o : boolean returns nothing while 7 : do Vo7(7) end; input ne[2]; input n[92]; pop; let ne = 2; pop end main : L750a : integer; P : boolean array; chillax end

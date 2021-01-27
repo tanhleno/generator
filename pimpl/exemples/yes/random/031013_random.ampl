@@ -1,0 +1,1 @@
+program O : _ : takes z, zq20 : integer array returns nothing let u[- false - 2 - 5] = 7200 < 1 end _ : takes j : boolean; u, Z8Iaa, VtP, t, z94, Ynf0 : integer array returns nothing when case 8 - 5 : chillax end otherwise : while 4 : chillax end end end main : chillax end

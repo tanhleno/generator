@@ -1,0 +1,1 @@
+program Yfj : f : takes O7 : boolean array returns nothing while true and 9 : chillax end; do L(61 < 47, 3 = 4, 35, 57) end z : takes e, a, b : integer returns nothing aI, vrs : boolean; sa5aa : integer; chillax end L : takes shz0, KV3 : boolean returns nothing cXJ : integer; hY : boolean; input L9[8] end main : Q, G : boolean; chillax end

@@ -1,0 +1,1 @@
+program Af : MS : takes vR00a, Y5x0, m2 : boolean array; av, F : boolean array; xl : boolean returns nothing i9 : integer; while - true + 2 - 2 : chillax end; output "" end main : i : integer array; M, G7 : boolean array; BEl, er, iI : integer array; pop; output - (7) or 62 < 97 - 2 . 5 = 38000 . 68; do S(not 6 and 72 or 55) end

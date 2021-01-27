@@ -1,0 +1,1 @@
+program x : x620a : takes l : boolean returns nothing chillax end V7F0 : takes F : boolean array; hS6 : integer returns nothing chillax end j : takes ol60, sXo : integer returns integer while 3 = 3 : do S(8) end end main : output - QMk0[25] <= - true . "_" end

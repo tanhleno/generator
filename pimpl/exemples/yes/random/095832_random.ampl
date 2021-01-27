@@ -1,0 +1,1 @@
+program GX8 : main : when case - false : chillax end case - true and(3) : do p(43, 5, 4960) end; output - K and 8; input S[- H5 - 0 - 8]; when case 53 : chillax end case 0 : chillax end; output 5 . 9430 . "" end

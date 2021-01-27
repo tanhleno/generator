@@ -1,0 +1,1 @@
+program iT : main : tM, V, x : boolean; while - c[66700] or true * UE9 + true and 644 >= - false : while - 06 - 7100 : chillax end; output "\\\"" . 7 end; when case false : when case 6 : let v9H = 131; pop end end case - Q and 840 <= - 1 - 20 : chillax end; do O(- k18 and 123) end

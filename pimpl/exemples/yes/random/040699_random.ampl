@@ -1,0 +1,1 @@
+program h620 : f : takes E : boolean array; ss1 : integer; b : integer array returns integer A, e, OC, f7 : integer array; B, W6Ca, Q, V : boolean; j, A, E : integer array; T, N : boolean; CJ : boolean; while - (3) and 7 <= 73 : chillax end; let G = 79 = 3 end main : input J end

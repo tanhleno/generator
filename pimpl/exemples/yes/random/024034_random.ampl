@@ -1,0 +1,1 @@
+program YWn0a : x5P0 : takes u, Rp2 : boolean returns nothing chillax end main : KZ50a, W : integer array; w, C_6a : boolean array; while i[83] * MB70 <= not e3R0a + (4) and 17 : chillax end; input w7 end

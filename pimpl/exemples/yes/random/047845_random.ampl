@@ -1,0 +1,1 @@
+program V16 : Kq : takes L0F : boolean returns nothing do p(true) end kx50a : takes V, M : integer array; g : integer returns integer array chillax end x : takes W : boolean; F, r, D : boolean; jk1 : boolean; jmw, x8, v8 : integer array returns nothing U : boolean array; d80a : boolean; z : boolean; while 6 : chillax end end main : W, C0 : integer array; chillax end

@@ -1,0 +1,1 @@
+program p : d : takes zr, I, e3 : integer; S : boolean returns nothing l, y, Z120a, W5S, GyF : boolean array; h5h0 : boolean; do m(- (2) <= 581, - 80000 >= 7) end a : takes yr : integer; q7Ga, O : integer returns integer T, t : boolean array; do S(- 3 = 044) end main : chillax end

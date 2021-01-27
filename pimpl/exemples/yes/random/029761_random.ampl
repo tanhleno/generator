@@ -1,0 +1,1 @@
+program A : ps : takes yq, W0 : integer array returns integer array f, z88a, n76a : integer; pop - 949; input u[- 06] end main : l : boolean array; X : boolean array; do K8(- (5) + not 8 * false and 69800 - false and 69, - 5240 /= (2880) and 49) end

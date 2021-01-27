@@ -1,0 +1,1 @@
+program c : L98 : takes re, j : integer array; oy, J, e51a, P, yw, y, s3 : boolean; E : integer returns nothing Z74 : integer; K6k, b : boolean array; L : boolean; chillax end M2w0a : takes L, D : boolean returns boolean array chillax end main : let fF[- false rem not ss1 rem IZ and 264] = j3[7] * (914) or(3) - 5 - 23 end

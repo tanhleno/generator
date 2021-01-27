@@ -1,0 +1,1 @@
+program XNf0 : M8 : takes v : integer; H : integer array; P, B : boolean returns integer array chillax end main : pop; when case - 1 or not 5 > - (5) : while 48 : chillax end; input _ end case - O - 73 - 704 <= - 9 - 9 : chillax end case 1 - 5 : chillax end case 5 = 065 : do S(6) end otherwise : pop; output ">\\!a"; while 5 : chillax end; pop end end

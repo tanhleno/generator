@@ -1,0 +1,1 @@
+program n5S : z6 : takes pO : boolean returns nothing do vmb(- not 1 < 4 - 08000, - 946 - 837); do r(- 00 - 2 /= 558, 53, 6) end z : takes h, B7, ZY, CY, _780 : boolean; j29 : boolean array returns nothing I, v, W510 : boolean; U, Ld : integer; gQs, q : boolean; chillax end main : when case - not false / false : pop 805 = 28 end otherwise : chillax end end

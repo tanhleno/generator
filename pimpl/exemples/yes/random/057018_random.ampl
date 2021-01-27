@@ -1,0 +1,1 @@
+program Z : p : takes J : integer array; m : integer array; B8 : integer array; _, K0, M, o : boolean; bJ, r : boolean returns nothing input T; when case 0 : pop end otherwise : input Nd0 end end main : T3o : integer array; pop; pop; pop - 3 >= 124; input A; while 610 : while 0 : chillax end end end

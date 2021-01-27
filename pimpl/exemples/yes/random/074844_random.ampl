@@ -1,0 +1,1 @@
+program z : main : cooa, y840 : boolean array; R, s69aa : boolean array; E49, B : integer; while - m + true + not 1 and 5 /= - true / 0 - not 78700 and 372 : do T1Qa(- 7 - 80 <= 5, 69 = 31, 315); do M(0, 11) end; input JN[- 1210 or true and 1]; when case false > - 138 : chillax end; output ""; let D[1] = array 4; output 32; when case 7 : chillax end end

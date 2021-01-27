@@ -1,0 +1,1 @@
+program m : GR2 : takes Y0, l5 : boolean array; ZS : boolean array; u44 : integer; vy1a : integer; B5Z : boolean array returns integer array o, j : integer; i : integer; g : boolean array; chillax end main : So : integer array; pop - true * false and 00600 - Y and 31 >= mO and 04 + 5 end

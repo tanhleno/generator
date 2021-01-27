@@ -1,0 +1,1 @@
+program y : T2M : takes o8, z, b : integer array returns integer array chillax end h : takes qQT, Gk, Z : boolean returns integer h, u : integer; x, y, L : integer array; _ : boolean; z : boolean; chillax end Vv : takes Y : boolean array returns nothing m70, F, qu : integer; S, X_Q0a : boolean; j : boolean; D80a : boolean; while 2 : chillax end end main : chillax end

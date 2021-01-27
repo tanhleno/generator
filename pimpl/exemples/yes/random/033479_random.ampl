@@ -1,0 +1,1 @@
+program BQ : A : takes h0 : boolean; v67, P, O8, W7v : boolean; H : boolean returns boolean array when case - 9 and 4 + 6 : chillax end otherwise : input B end end main : when case - d * not not 1 / true >= 1 and 91 and 924 or true and 7490 : chillax end; do X(not KoHa and(71) - z - 26 - 0 > (6) and 4 or 76 - 79) end

@@ -1,0 +1,1 @@
+program F : f : takes L, Nj : boolean array returns integer u, a : integer; D6 : boolean; y, f, Q : boolean array; qH : boolean; _ : boolean; do k(not 9340 and 59 + 9 - 0) end main : I, p, pmL0a : integer; chillax end

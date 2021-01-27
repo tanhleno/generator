@@ -1,0 +1,1 @@
+program LL : Qd : takes O84 : integer array returns nothing chillax end Q : takes j9, ZK : boolean array; NR, Q0 : integer; YA : integer; xc, n4N, z3, w : boolean array; O, R7F : boolean array; n : boolean; Po : boolean; L : boolean returns nothing chillax end main : input p end

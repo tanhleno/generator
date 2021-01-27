@@ -1,0 +1,1 @@
+program BA2 : j7 : takes Y, P1 : integer array returns nothing L, r, fW : boolean array; t : integer array; chillax end r : takes oh7 : boolean returns boolean P9 : boolean array; F : boolean array; do N800(4 - 17) end main : QV : boolean; chillax end

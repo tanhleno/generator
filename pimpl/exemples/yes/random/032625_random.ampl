@@ -1,0 +1,1 @@
+program I_ : W : takes mt, rj : integer returns nothing R3Ya, H : boolean array; F, L : boolean; cV, W : integer; chillax end main : bR3 : integer array; do tYt0(true * (4) /= - not(58) or false + 417) end

@@ -1,0 +1,1 @@
+program zI : _ : takes E, b : boolean returns nothing T4Da : integer; IM5, v, iSi0 : integer; chillax end main : eu : integer array; U, Din0a, I : boolean array; V, E, e : integer; input j99[- M(8) - (592) and 7560 - not 06]; output "1" . ""; while - false and 238 >= - 9 - 13 : chillax end end

@@ -1,0 +1,1 @@
+program aj60a : y : takes Y5 : boolean returns integer array Q : integer array; chillax end skyaa : takes D, Z : integer returns nothing do jX2(- 1 - 73 > 4, 4 = 6380) end main : i8t, y, u57, B5, t6vaa, a : integer array; W, DJ40 : integer; chillax end

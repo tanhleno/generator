@@ -1,0 +1,1 @@
+program B2x : o7l : takes Y3 : integer returns boolean array yKC, g : integer array; let Jn7aa[true or 6 - 5] = array P770 and 84100 + 9660; input r9[30] end main : let gs5[4 / not false * false or(069) + true and 6 + 3 - 0] = - 1 rem false and 40600 > - true + 2 end

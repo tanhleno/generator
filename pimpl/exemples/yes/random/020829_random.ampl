@@ -1,0 +1,1 @@
+program mr : kg : takes b, Pa : boolean array returns boolean array do R3(- (9) < 27 - 2, - 22 - 7) end y : takes x, V, D01aa, d : integer array; dj : boolean array; Se : integer array returns nothing bpF0a : integer array; chillax end main : chillax end

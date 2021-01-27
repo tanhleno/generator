@@ -1,0 +1,1 @@
+program C5va : p : takes s : boolean array; eg3 : integer array; v : boolean array; wY0, V_2, f8W, CrK0 : integer returns nothing input P[Y400a or 90 - 320]; output "\"&a" . "84a" . 2; pop 5; let _ = array 9 end main : chillax end

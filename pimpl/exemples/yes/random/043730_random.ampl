@@ -1,0 +1,1 @@
+program P : c : takes I : boolean array returns nothing chillax end main : e6fa, r : integer array; output - true * true = - (2) and 3 . "" . "" . ""; when case e5(4) * not 59 or not 54700 and 6 or 64 : while 5 = 3 : chillax end end case true and 65 : chillax end otherwise : when case 9 : chillax end; pop; while 88 : chillax end; pop end; pop end

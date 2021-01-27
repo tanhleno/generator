@@ -1,0 +1,1 @@
+program Z8V : i : takes PP : boolean array; s : integer array returns integer array R, M81 : boolean; input h77a; when case 40 : chillax end case 3 : do q1t0a(0); pop end; pop 4840 end main : chillax end

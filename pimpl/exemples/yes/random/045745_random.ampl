@@ -1,0 +1,1 @@
+program q : d : takes x7J0a : boolean returns boolean array H : integer array; D, I380 : boolean array; q : boolean; aSh : boolean; chillax end T : takes q, K5 : integer array returns nothing chillax end main : L : integer; y : boolean array; eF4, M4p0a, F3Waa, e : integer; output "s8" . "8\t!" . - 745 - 45 end

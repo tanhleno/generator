@@ -1,0 +1,1 @@
+program Q4Pa : main : M : boolean; M, lb7, g, K : integer array; output - (70) / W . ""; pop; let j8[false] = array - true - 01 - 90100; when case - 872 <= 89 : let r = 3 end case 66 = 67900 : chillax end otherwise : chillax end; output "+" . 4 end

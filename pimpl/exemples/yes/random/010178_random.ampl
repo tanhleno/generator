@@ -1,0 +1,1 @@
+program u6 : Qm : takes x, m, o : boolean array; PA : boolean returns boolean array chillax end A : takes C32aa : integer array; B3 : boolean array; O36a, w, q, q6, U : boolean returns nothing Bb : integer; B : integer array; U, B : boolean; do i1(- 067 - 41900) end a6U : takes y, q, F5L0 : boolean returns nothing n : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program gf : J : takes fc5 : integer array returns nothing j, Q : boolean array; while - false : chillax end; pop 69 = 6 end main : B : boolean array; w, UM : integer array; while true or false rem X8 - 5 /= true and not 5 and 05000 or not 1 and 7 - 80 - 38 : chillax end end

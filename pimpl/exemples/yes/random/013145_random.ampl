@@ -1,0 +1,1 @@
+program s : e67a : takes V, SX9aa, y : integer; Y : boolean array; K0, g, Jv : boolean array; y : integer array; B8 : boolean array; M, D, x : integer returns nothing Q, e : boolean; O : integer array; do d5(not 5 + 37 - 1 = 16 - 3, - 7 - 6, 3, 80, 5); do d(50 - 5, 34) end main : input q; output ""; output - 19 - 5 >= 7 end

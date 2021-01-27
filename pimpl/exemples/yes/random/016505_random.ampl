@@ -1,0 +1,1 @@
+program S : F6s : takes y380, oO, Nn : integer returns nothing K : integer array; when case - true and 911 : chillax end otherwise : when case 41100 : chillax end end end main : B : integer array; chillax end

@@ -1,0 +1,1 @@
+program TI0aa : S11 : takes v, I, V : integer; S6K : boolean returns nothing u : boolean array; while(35) and 2760 + 36 = - 8 : when case 8920 : pop end case 3 : chillax end otherwise : chillax end; let l3 = 47300 end end E : takes c, q, X, YG : boolean array returns nothing chillax end main : chillax end

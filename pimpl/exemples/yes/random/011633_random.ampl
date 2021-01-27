@@ -1,0 +1,1 @@
+program s : hJ : takes i, m, Q : boolean returns boolean array WO : integer array; rC : integer; chillax end main : h : integer; while true rem l220 - not true + false and 55300 + 460 > not false * 13 : chillax end; do w560a(- 9) end

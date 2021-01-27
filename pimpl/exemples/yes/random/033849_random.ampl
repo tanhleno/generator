@@ -1,0 +1,1 @@
+program z : _ : takes s8_ : boolean; zK0a, bT, oI00a : boolean array; q61a : integer array returns integer array t, oY9, q : integer array; i : boolean; input a3; when case 2 - 0 /= 96400 : chillax end case 4 = 2 : input ll80 end case 6 : pop end; while 6 = 0 : chillax end; input Z07[7] end main : pop; output "\t" . "\"" . 23 end

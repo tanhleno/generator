@@ -1,0 +1,1 @@
+program yM : T : takes y : integer; h : boolean; kq : integer returns nothing e : boolean array; pop - 8 - 2 end n0 : takes Uz4a, z : boolean returns nothing Gn10, j : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Hb : z : takes M, S9, o, Yz : integer; y, Y : boolean returns nothing RP30a, m4, H : integer array; chillax end main : do b96aa(not not 48 - Qzp0 or not 268 and 661 /= 7); when case false + false /= - h6 - 8 - 4 : chillax end case(55400) or 00 : while 6 : pop end; do v(6900); do A(2) end; while(31) <= 843 : chillax end end

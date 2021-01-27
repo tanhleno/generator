@@ -1,0 +1,1 @@
+program v4 : x : takes s99, u : integer returns nothing A : integer array; g2, m : integer; chillax end main : x18a, U5, L2Zaa, v1L : boolean array; when case - M[504] + 3 - 9 and 657 + 04 - 1140 : chillax end case(79) * 0 + true and 3 = - false and 915 or 823 : input m37[3] end end

@@ -1,0 +1,1 @@
+program wiT : L : takes U9N0 : boolean array returns nothing do T9(- false and 0 + 4 - 91, - 99); do w(9 - 2 /= 860, 5 = 5) end main : q08, cz3aa, E : boolean; S : boolean; QJ0 : boolean array; chillax end

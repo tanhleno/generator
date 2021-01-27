@@ -1,0 +1,1 @@
+program o : l7Ya : takes j5c : boolean returns integer array do i(- false or 651 >= - 0 - 03000, - 963 > 30, 76 = 3630, 9, 9) end main : Y88, o, I, K2 : boolean; _, A04, SX40a : boolean; B2, Gs, B, gE, _ : integer array; pop; do q_((193) * true and 7) end

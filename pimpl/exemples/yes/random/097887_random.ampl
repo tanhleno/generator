@@ -1,0 +1,1 @@
+program u : main : while(59 = 63200) and 05800 and 8 and 6600 + (8) rem(95) <= (590) - true : chillax end; while not not 2 - z and 3 /= P6 - 81 - 15 : chillax end; while - true and 8 + 8 /= - 1 : when case 2 : pop end otherwise : chillax end; input P610; while 9 : chillax end end end

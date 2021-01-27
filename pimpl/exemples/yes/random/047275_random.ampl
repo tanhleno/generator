@@ -1,0 +1,1 @@
+program Yt : j : takes Qr4 : boolean returns integer let S8ua = array 2580 end tI1 : takes m, fVia : boolean; P : integer array returns nothing output 97; input _; let D2Ya[280] = array 3; when case 1 : chillax end end u690a : takes Q : integer; J56 : integer; o, n, obtaa, f : boolean; Sp6 : boolean returns boolean array chillax end main : t : boolean; chillax end

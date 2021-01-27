@@ -1,0 +1,1 @@
+program qA : h : takes M, I8 : integer; Lt10, A56aa, KX5a, p, Kp, j760a : boolean array; mRo0a, u : boolean; g : boolean returns nothing do S(- not 1740 - 41 >= - 4) end main : o, f, JC2 : boolean; g : integer array; chillax end

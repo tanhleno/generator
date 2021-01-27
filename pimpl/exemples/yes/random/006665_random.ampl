@@ -1,0 +1,1 @@
+program S : C : takes h, M, V, kC40 : integer; O : boolean returns nothing ZvO, cAy : integer array; while false and 9 : chillax end end main : O71a : boolean array; pop - (8) and true or true and 0 end

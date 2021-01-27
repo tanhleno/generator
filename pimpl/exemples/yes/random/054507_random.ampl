@@ -1,0 +1,1 @@
+program gD : jE : takes U : integer array; Xs, o : boolean array; M, v, l0, Y : integer; tWB : boolean array returns boolean array when case pu and 9860 : chillax end end main : Kx10a : boolean array; do B4Aaa(- D52a(764) * f(8) + false = - I9[5]); pop - not 4 and 5 - 39400 = 02 - 24 end

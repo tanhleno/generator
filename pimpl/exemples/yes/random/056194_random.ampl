@@ -1,0 +1,1 @@
+program B : az3a : takes C : integer array; rq : boolean array returns nothing Y6 : integer array; _Z8, yOl : integer; q7w0a, T, Q : boolean array; input W; output 83 end m7 : takes ZyS0a, Y, CLo0 : boolean; u : boolean returns boolean chillax end a : takes I, zx, s, W : integer returns nothing chillax end main : let ht[false * (73) + 2] = array true and true end

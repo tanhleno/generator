@@ -1,0 +1,1 @@
+program s : y : takes W : integer array returns nothing kY : integer array; B51aa : boolean array; chillax end a : takes b, o : integer returns nothing let r[3 - 4] = array 9 - 5; do E(151, 248); input p[8] end v9 : takes R2 : integer array returns nothing a : boolean array; z, oqf : boolean; when case 4 = 3 : chillax end otherwise : chillax end end main : chillax end

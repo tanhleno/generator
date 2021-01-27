@@ -1,0 +1,1 @@
+program H0 : llGaa : takes r, _J, iC7, M : boolean array; t, o9v0a : boolean array; Al : integer; I, m : integer returns boolean array let o8[t24 and 25900 or 68 - 39] = array(2) and 56; input f end main : chillax end

@@ -1,0 +1,1 @@
+program b4I : S : takes bx, c9, O, Vk : boolean array; e09a, W : integer; W2 : integer array; O, j, F : boolean returns nothing m : integer array; A : boolean array; output 18000 >= 3 end H : takes g : boolean returns nothing do h(68 > 3570) end main : X : boolean; chillax end

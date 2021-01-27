@@ -1,0 +1,1 @@
+program Wwhaa : P : takes c5, O : boolean; n : integer; m : integer array returns boolean array pop end y : takes j : integer array returns nothing P, fw5, k, F : boolean array; when case - 1 - 1 : chillax end; do G(91 = 3, 487); output "\t" . "" end main : K2 : integer array; Ch, y : integer; do NM7aa(- (96500)) end

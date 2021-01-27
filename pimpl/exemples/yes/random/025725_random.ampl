@@ -1,0 +1,1 @@
+program UE : Ds5a : takes z, G : integer; rn, H7 : integer; r : boolean; e, J, f : integer; S : boolean returns nothing chillax end u : takes w, KJ : integer returns nothing p : boolean; a, k00a : boolean array; c : boolean; vR : boolean; while - 8500 - 12 > 8 : chillax end end main : X : boolean; u : boolean; chillax end

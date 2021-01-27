@@ -1,0 +1,1 @@
+program k_V : U : takes pTla, J : boolean returns boolean while n or 6 <= 3030 : let t = 50; while 2 : chillax end; while 32700 : chillax end; pop end end V : takes V : integer returns nothing b : boolean; RY : integer array; t8, o : boolean; aT70a : boolean; T : boolean; pop 49 = 01 end main : do HI(false, - 317 rem true <= - not 2, c and 5 or 52 >= - 0 - 324) end

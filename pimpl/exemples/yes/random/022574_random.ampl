@@ -1,0 +1,1 @@
+program p : jt9 : takes D, d : boolean array returns nothing b : integer array; t7, l, k, u : integer array; Zj, uN1a : integer; T5J : boolean; Y : boolean; chillax end main : let p[true * false + (314)] = array(584) and not true - (55000) - (5) + 6 - 9; while 323 and true + (52) and 33600 : do k6(9 = 15); pop 97; input B9A end; output "R\t"; output ""; do z(0, 495, 02) end

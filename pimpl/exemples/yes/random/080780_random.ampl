@@ -1,0 +1,1 @@
+program V : main : z : boolean array; w, a, t, u, s, mi : boolean; let KT[true] = array(099 = 961) and not 84; input gk[- (2) or true - 4]; let FD[- (0) or 4] = array true and 18300; do k(1 < 08); do U(4) end

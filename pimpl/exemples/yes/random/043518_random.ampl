@@ -1,0 +1,1 @@
+program k : n : takes a9N : boolean array returns nothing chillax end W3T : takes z, f : integer array; zC, f : boolean array; ww : integer returns nothing do e(74 - 0 < 7, 750); pop end main : X : integer array; chillax end

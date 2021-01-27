@@ -1,0 +1,1 @@
+program E6d : a : takes F, T, W3na, UDe, q84a, U : integer; J4M0, X : integer array; C3d, u6 : boolean returns nothing xy : boolean array; chillax end b : takes S, rw, HYM0 : boolean array returns nothing chillax end main : chillax end

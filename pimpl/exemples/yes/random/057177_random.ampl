@@ -1,0 +1,1 @@
+program b5F : t : takes vk9a : integer array; qp : integer array returns integer nw9, q, T23 : integer array; r : boolean array; chillax end main : while 51900 rem true and Y or false >= not(051) or true and 9 : chillax end; while - true * 758 + true or 741 : chillax end end

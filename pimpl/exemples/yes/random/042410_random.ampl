@@ -1,0 +1,1 @@
+program Ws : J : takes N8daa : boolean array returns integer array chillax end b : takes QAp, XgXa : boolean array; d1 : integer array returns nothing u, G80 : integer array; H : integer; _d : boolean; v : boolean; O : boolean; output 6 = 9 . "}" end main : output ""; do MU(true = true, false >= 0 - 5, - 4 /= 922, 2 = 739, 666, 72) end

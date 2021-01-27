@@ -1,0 +1,1 @@
+program ps : n050a : takes Q : boolean returns boolean B, B4 : integer array; gs3a, tz, AKH, LA3 : boolean; N, r, oA : integer; chillax end main : z7, vO7, tG : boolean array; l7c, OP7, w6, rs : boolean; do k(Tx4 and NY(0) or 06 / (57) + true >= false) end

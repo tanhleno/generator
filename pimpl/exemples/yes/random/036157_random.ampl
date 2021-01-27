@@ -1,0 +1,1 @@
+program i : U : takes p : boolean; z : boolean returns boolean chillax end main : output false / 4 and 3 or false - 1; when case - true : chillax end otherwise : chillax end; pop - 5 - 8140 <= 945 end

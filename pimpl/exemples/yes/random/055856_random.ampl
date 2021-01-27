@@ -1,0 +1,1 @@
+program Z : N : takes Lq : integer array; z : boolean array; x : boolean; NXh : integer; W, O3J0 : integer returns boolean array Q : boolean; let S[- (599)] = array not 6; while 0 : chillax end end main : p : integer; output g[3] >= - 3 - 77400 . S6 < 252; while false / 57 and 851 : do r(5) end; while - true and 450 : input u1 end end

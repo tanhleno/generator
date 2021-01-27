@@ -1,0 +1,1 @@
+program I : R8 : takes R0, cg : boolean array returns nothing chillax end main : input Y[(6 = 2)]; when case - y5(7) : while 9 : chillax end; input m[4] end case - ht and 3580 or 22 - 5 <= - 5 : input T8 end case - 792 : chillax end end

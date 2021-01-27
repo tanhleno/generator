@@ -1,0 +1,1 @@
+program Gw : S : takes IV, x5 : integer returns nothing do y(false and 7 - 078 - 1) end f : takes KV : integer returns nothing while 1 > 1 : do o(3); let f9H = 3 end; do L(65600 = 1, 3, 3) end W : takes s, C, o8, I30 : integer; a5 : boolean returns nothing chillax end main : T7 : integer array; chillax end

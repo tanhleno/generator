@@ -1,0 +1,1 @@
+program f : d4 : takes LsR : boolean; B3, H : boolean array; omdaa, M : integer returns boolean q020, W, aF, V : boolean array; chillax end p5qaa : takes Gepaa, m2Haa : boolean; A : boolean returns nothing chillax end main : chillax end

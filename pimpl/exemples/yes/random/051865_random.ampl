@@ -1,0 +1,1 @@
+program PY : j : takes B : integer; d : boolean array returns boolean array chillax end x14a : takes f, Z : boolean array; E7, M39 : integer array; m, H : boolean array; Ht, F : integer array returns integer chillax end main : let o[- false and false and aC4 + P] = array true or c / T - f or 9870 - 16 end

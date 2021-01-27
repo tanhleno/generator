@@ -1,0 +1,1 @@
+program GI : main : when case true and f and true and 8340 - false rem false - false - 4 > - b / not 7 and 0 or not 89 and 673 + 6 - 8 : chillax end otherwise : chillax end; while - true : chillax end end

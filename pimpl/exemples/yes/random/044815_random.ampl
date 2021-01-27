@@ -1,0 +1,1 @@
+program s : EL7a : takes p : boolean array returns nothing b : integer array; chillax end main : _2naa : integer array; e : integer; qM, Vk7 : boolean; input Ey2a[- false or not not 7 - (5) and 9760 - 7 - 8] end

@@ -1,0 +1,1 @@
+program M : l29 : takes N, H7, BEVaa : boolean array returns nothing qy : integer; Y : boolean; H, A : boolean; chillax end p : takes w58 : boolean array; C6, _3 : boolean returns nothing C, F : boolean; while 9 /= 4 : input f8; let y = 284; pop end end aRb0 : takes V0Ka, I8, O : integer returns boolean T, s36aa, q9 : boolean; input K end main : chillax end

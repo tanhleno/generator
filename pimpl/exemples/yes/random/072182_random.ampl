@@ -1,0 +1,1 @@
+program SeS : main : Cp4, w, H : integer; t3, c : integer array; R, G : integer array; dVj, Rt, x0 : boolean array; D170 : boolean; input WW; while - S(90) <= - (9) and 994 - 2 - 64 : chillax end end

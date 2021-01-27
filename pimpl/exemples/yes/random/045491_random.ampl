@@ -1,0 +1,1 @@
+program MEJ : X : takes p43 : boolean returns boolean array do W(- (8) and 64 - 660 - 38, 55 - 1 = 993, 625, 1, 2700) end main : IX, i : boolean array; mp : boolean array; U : boolean array; when case p[9] or not 6 + not 7 - 2 - 2 /= 097 and e and 5 + not 0 - 4 - 413 : chillax end otherwise : chillax end; let d7 = K5 and 19 or 6 = 61 end

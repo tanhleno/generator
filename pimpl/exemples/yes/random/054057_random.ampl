@@ -1,0 +1,1 @@
+program ki : W : takes b : integer array; D, h, G7 : boolean array returns nothing input J[- (8) and 03700 - 84] end r20 : takes H1 : integer; Y, M : integer array; b : boolean; x510a, yw, Eg, o : boolean returns nothing chillax end main : input Lz9; output "" end

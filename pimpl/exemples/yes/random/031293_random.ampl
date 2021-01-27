@@ -1,0 +1,1 @@
+program P7 : c : takes mJ, Q : integer returns boolean array D, JU : integer; when case - 0 or 31 - 9 : output 86; output "\\\t"; pop end; do u5(1); let x5[11] = array 6; output 08700 end F0oa : takes z, m : boolean; S, O : integer returns integer X : integer array; x : boolean array; chillax end main : while - not Lm rem false - false + true + 59 - 81 : chillax end; input P end

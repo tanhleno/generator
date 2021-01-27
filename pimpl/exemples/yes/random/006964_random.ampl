@@ -1,0 +1,1 @@
+program V9 : tIq : takes I, OGM, _, q : integer array; P, w : boolean; E, J31 : boolean; aA40, mnlaa, l, ff : boolean array; _, S1 : boolean returns nothing W, _ : integer array; k : integer array; MX5 : integer; o : boolean; ID20 : boolean; a : boolean; when case 432 and 1550 : chillax end otherwise : chillax end end main : aZn0 : integer; chillax end

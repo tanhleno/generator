@@ -1,0 +1,1 @@
+program H : T150a : takes n : integer array returns nothing chillax end yBEa : takes x, R, W6 : integer; J : integer returns nothing chillax end d : takes u, aZ, x : boolean array; dCf0 : integer array returns integer chillax end main : w1a0, JE4a : boolean; pop - not(31) < - s and 4490 end

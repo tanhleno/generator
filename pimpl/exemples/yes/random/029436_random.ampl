@@ -1,0 +1,1 @@
+program Or : P07aa : takes A75, g7ma : integer array returns boolean array while not 2 and 21 : pop end end fbx : takes Y, jYZ, q, i6t : integer returns integer array o3 : integer array; g8C0 : boolean array; chillax end main : while not true / false and w /= - 0 or 3 : do j(- 65 <= 768, 5) end; pop - not 314 and 3 or 1 end

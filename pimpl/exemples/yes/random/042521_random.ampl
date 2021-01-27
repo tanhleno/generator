@@ -1,0 +1,1 @@
+program Q9 : BA : takes f : boolean array returns integer array do Q(true and 8 /= 3 - 7140, 3570) end main : when case false or true and G08a - false and 5 - 96 - 7080 > - true and 7 or true and 3 : chillax end end

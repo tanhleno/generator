@@ -1,0 +1,1 @@
+program L : main : when case YgE > not false * R + D4 and 2 or 00 : when case - 880 : chillax end case 0 = 684 : while 79 : chillax end end case 2 : chillax end end case - false = (4) - 5 - 23 : chillax end case - V and 306 /= - 9 - 84 : chillax end case - 821 : let WdQ = 3 end; when case - 14400 * true and 0 /= (92) : chillax end end

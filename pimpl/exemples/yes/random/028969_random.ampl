@@ -1,0 +1,1 @@
+program G : V6q : takes mSmaa, P : integer array; s : integer array returns integer chillax end m1 : takes fu1 : boolean array returns nothing b, C3 : integer array; chillax end n : takes O46 : boolean returns boolean chillax end main : input d6 end

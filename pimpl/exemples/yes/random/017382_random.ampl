@@ -1,0 +1,1 @@
+program A : S : takes O, fx : boolean; tU70, I : integer; c, _2 : boolean returns nothing n, z : boolean; uqlaa, K, lmA, S : boolean; do d(false and 287 or 80, - 4730 - 3 > 8); pop 12100; let tG9 = 8130; when case 0 : pop end case 5 : chillax end; do h5(5); pop; pop end main : chillax end

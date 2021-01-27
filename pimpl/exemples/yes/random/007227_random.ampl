@@ -1,0 +1,1 @@
+program B : j03 : takes E, X, D3b, G4 : integer array; f9 : boolean returns nothing when case(8) and 622 or 6 - 4 > 8 : input W8waa[54] end otherwise : do TC(00) end; when case - 0 - 1 : do yq(03) end otherwise : chillax end; output 5 . "b" . "\n'" end main : chillax end

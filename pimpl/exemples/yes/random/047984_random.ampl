@@ -1,0 +1,1 @@
+program IG : c81 : takes u : boolean returns nothing vd1, e, a : boolean array; chillax end G7 : takes m, b : integer; a : boolean; R : boolean array returns nothing chillax end main : X, p, S, XWeaa : integer array; do a(- 3120 and false * not 086 and 059 + 4130 rem(3)); do g(72800 or(29) and 0 or 8 - 62500 <= - true and 8 + 79 - 39, - false, 72 < 72, 23000, 3) end

@@ -1,0 +1,1 @@
+program xtXaa : E6 : takes o, S, o, h, t, f, Z, a : boolean returns integer array do J(false and 4 + 005 - 8, 379 - 221, 48200 = 0, 73, 6540); let ME = array - 03400 - 5; input b4[8]; do L(2, 766) end main : g2faa, U18 : boolean; C, d : boolean; ou, I, eX60 : boolean; let T61[- z rem(7190)] = - m4k - (62) end

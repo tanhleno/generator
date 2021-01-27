@@ -1,0 +1,1 @@
+program m : B8 : takes sE20, RK2 : boolean; i3l, Z91, C, d, y, Q : boolean array; w, yYz : boolean; Q, S, KmIa : integer array; l8 : integer array returns integer T : boolean array; _ : integer array; H4 : integer array; c : boolean; chillax end main : C9M : boolean; L, f : integer; input H end

@@ -1,0 +1,1 @@
+program z : S4 : takes _10, VD : boolean array; m, i : integer array returns nothing chillax end H47aa : takes hd : integer; E : boolean; I6 : integer returns boolean array CR2aa, J08 : boolean; e2J : integer; chillax end main : pop - (0) and false or false + 06 end

@@ -1,0 +1,1 @@
+program YJ : K : takes p2, L, g : integer array; B6 : boolean array returns nothing x : integer array; let e = - 7 - 8 <= 02; do Z8(- 1, 97) end main : weOa, mq, T, E, s, _, H0 : integer array; let d6aa[- l[0] + T(2) or false] = - true or true - 5 - 40800; let I[- u[360] * 298 and 9 - false] = array - true - 57300; output "" . "`?" end

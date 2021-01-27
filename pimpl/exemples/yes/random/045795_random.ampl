@@ -1,0 +1,1 @@
+program O : k : takes O : boolean returns boolean array let GVz[- g and 3 or 42 - 2] = - 5; input x[1 - 97]; pop end a : takes Y, Pj, h, C, SJ4 : integer returns nothing n, Myk : integer; y : boolean; wTV0, tZ : boolean; chillax end main : pop - (3) + D + 7 end

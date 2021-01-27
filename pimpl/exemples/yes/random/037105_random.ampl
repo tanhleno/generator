@@ -1,0 +1,1 @@
+program Nwda : Xe : takes o : boolean; C9 : integer array returns nothing m : boolean; input x; output 8 = 7; when case 69300 : let E0u = 2; pop end case 95 : pop end case 5 : chillax end otherwise : pop end; while 5 : pop end end main : let i8 = array(4700 = 39) + true; pop end

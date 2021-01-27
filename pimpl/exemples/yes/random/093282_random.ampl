@@ -1,0 +1,1 @@
+program X3h0 : main : output "\\$0" . ""; when case - false / not 2 <= false and 3 + 4 : let lx[9] = array 53 end; when case v and 3 < 5 : when case 68 : chillax end case 5 : chillax end otherwise : chillax end end otherwise : chillax end; pop 49 = 4; pop end

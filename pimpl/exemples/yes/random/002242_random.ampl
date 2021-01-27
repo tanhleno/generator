@@ -1,0 +1,1 @@
+program s : T39a : takes oPua, a2W, D, Gq, t3 : boolean; GU : boolean; s, k, X0 : integer returns boolean array let j[- true and 5] = 576 < 68 end main : J, q : integer array; pop; output "" . "\n" . 0; pop; input D_9a end

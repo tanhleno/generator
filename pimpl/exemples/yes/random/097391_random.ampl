@@ -1,0 +1,1 @@
+program KG3aa : main : when case 9 / not t * true : chillax end case false : when case 365 : chillax end case 7 : pop end case 0 : chillax end end case R and 9 or 6370 < - 7 : pop end case - 932 < 493 : chillax end end

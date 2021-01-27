@@ -1,0 +1,1 @@
+program y : b : takes _1, k, q : integer array returns nothing chillax end B : takes C : integer returns nothing pop end e : takes az, _5, Y5, W : boolean array returns boolean d, W, T : boolean; while 40 = 58 : pop; pop end end main : _pd, t : boolean; chillax end

@@ -1,0 +1,1 @@
+program n : D : takes HT : boolean; w32aa : boolean; Z2l : integer array; W1 : integer array; c5Q, DxS : integer array returns boolean array input _04aa[- false and 676 - 27 - 7] end main : E8 : integer array; R : boolean; ID, x920, AtA : integer; E, J, QS9 : boolean; chillax end

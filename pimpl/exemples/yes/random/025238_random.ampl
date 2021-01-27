@@ -1,0 +1,1 @@
+program R_ : Y : takes zc80, CRs : integer; l, BV, Q : boolean array returns nothing chillax end j1O : takes cb20 : integer array returns nothing do g(- 2 - 115 < 5) end main : let n2[- (95) / (8)] = false / R - (0) and 39 <= not 30 and 44; output "\"s" . - 5 . "" end

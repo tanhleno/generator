@@ -1,0 +1,1 @@
+program L : W : takes S4 : integer array; QU1aa, oUk : integer; o, x : boolean array returns nothing chillax end main : rf1aa, D : integer array; do M(true + (3) / c9t and 0); pop - (1) and 6720 + 1 > - 0 - 33; input tQw[- p2 and 2]; when case - 3 - 12 /= 6 : output ""; pop; pop end end

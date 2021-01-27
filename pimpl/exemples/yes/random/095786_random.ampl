@@ -1,0 +1,1 @@
+program h : main : when case - false - not not 69500 * I7 : let J = 611 = 4 end case true <= c + 4 - 6 : chillax end case true and 4 : chillax end case 29 - 67 : chillax end case 5 = 2 : chillax end otherwise : input L; pop 3; while 50 : chillax end; do BZ(9); pop end; let TN = array - false rem true and 86; when case false and 3 - 1 - 0 : chillax end otherwise : chillax end end

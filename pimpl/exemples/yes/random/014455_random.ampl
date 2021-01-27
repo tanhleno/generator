@@ -1,0 +1,1 @@
+program S1 : n : takes D300a, Wbaa, r : integer array; KUR : integer array; zK, N_ : boolean array; N5 : integer; G, JXzaa, m, E : boolean returns boolean array input DX3[- B and 8 - 6 - 14] end main : D, q : integer array; T9, aA : integer; chillax end

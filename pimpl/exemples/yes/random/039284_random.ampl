@@ -1,0 +1,1 @@
+program a : o : takes Y8 : boolean array; D, C15a : integer array returns integer F4 : integer array; tUh, G, q, p0 : integer; output "" . "5\t" . 8 end main : R, A33, Add : boolean; let X[- 59 and true and true] = array true - not 9; output "" . "" end

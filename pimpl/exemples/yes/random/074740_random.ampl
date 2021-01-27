@@ -1,0 +1,1 @@
+program E : main : m, F : boolean array; l, A, s0Da : integer; when case(4) or false or true and 10000 : chillax end otherwise : pop 2 end; let v[(14) / false or 8] = array - false rem not 99 and 48 + (533) and 8; let W[- false] = - 41300 <= 9 end

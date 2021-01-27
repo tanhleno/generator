@@ -1,0 +1,1 @@
+program ar : yKy : takes n43 : integer array; t : boolean array; Q : integer returns boolean glS, h8, x : boolean array; cdr : integer array; chillax end a_y : takes ba : integer returns integer array k, rT, SX, D0 : boolean; do qF(228 < 86); while 82500 = 4 : while 3 : chillax end end end main : c1, C40 : integer; while E : chillax end; pop; do P((22) + 03 - 421 = 98 - 3) end

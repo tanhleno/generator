@@ -1,0 +1,1 @@
+program UO_ : p2j : takes X, CM8, Bb8 : integer array; F : boolean; T, U, E5M, n4oaa : integer array returns nothing b42a : integer array; chillax end main : input Y; when case - 6 = 7 and 00 or 875 : chillax end case - false and 8 > 05 : chillax end case - 57 : chillax end otherwise : let N[7] = array 1; while 22400 : chillax end end end

@@ -1,0 +1,1 @@
+program c : f : takes u, o : integer returns integer input K79[- false] end main : k, w3, Ta1 : boolean array; k : integer array; u, m7 : integer array; pop; output ".50a" . 4 - 0 < 6590 . "" . 9; when case false and 60 - 4 - 50 : while 7 : pop end end end

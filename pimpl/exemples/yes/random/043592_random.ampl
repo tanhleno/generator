@@ -1,0 +1,1 @@
+program U6 : B350 : takes J : boolean array returns nothing chillax end k : takes L : boolean array returns nothing while - 9 <= 3 : chillax end end main : l : integer; while - 64600 >= (72) : chillax end; pop end

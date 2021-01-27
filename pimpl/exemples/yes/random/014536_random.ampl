@@ -1,0 +1,1 @@
+program c : k : takes Rn, F, Y6 : integer array; Ht_ : integer array returns integer output - 27 - 929 . 04 . 27; do P(- 18500 - 5 > 15) end main : while j6[5] * (937) rem(3) : pop; let u = array 990 end; when case - true - not 09 and 82 - 678 <= Q : chillax end end

@@ -1,0 +1,1 @@
+program wr : O : takes OJ7, r, v, t, DD6, bl20a : boolean array; e3ea, I6, Bg50, J, e : integer returns boolean output "\"" . "" . 57; do S9A(9, 9); output ""; while 67 : pop end end main : s : integer; do j(- not 52500 or true / not 022 and 9 + true and 2 or 81 - 0 /= - 87 - not 94 and 69 - 33) end

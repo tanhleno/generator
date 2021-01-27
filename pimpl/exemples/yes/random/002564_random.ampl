@@ -1,0 +1,1 @@
+program m29 : x2 : takes h5l0, v8, c, _yk, rK : boolean array; _ : boolean returns integer u : integer array; _, u, y : integer; chillax end _ : takes y61 : boolean; v6s : boolean returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program WL4 : n : takes E, Vy : integer array; i2, HaR : boolean array; R3ka : boolean array; hEFa, AQm : integer array; cqq : integer returns integer array let o[54] = array - K + 38500 - 6 end main : when case - not p or not(4) * N : chillax end end

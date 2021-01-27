@@ -1,0 +1,1 @@
+program L : _ : takes R2taa, oA1, r : integer; f : boolean array returns nothing S0, J, mA, hDda : boolean; pop 83 - 38; while - 5550 : chillax end end main : do Iu40a((7), not 44 rem(53) and 99800 <= true or 29); while r(61) + 92 or 1 - 11 /= (5) + 902 : chillax end end

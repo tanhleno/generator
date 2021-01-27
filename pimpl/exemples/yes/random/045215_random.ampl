@@ -1,0 +1,1 @@
+program u : X : takes c6p : boolean array returns nothing when case(39) and 5 : input n[612] end case - 7 - 2610 : do f(360); do q(0); pop end otherwise : chillax end end main : D : boolean array; iX, S610a, t : integer; output false * not 00 or false . ""; input Nf6a; output ""; input O[53] end

@@ -1,0 +1,1 @@
+program L : c : takes O3aaa, Ri8, _, Gfy : boolean; P, U : boolean returns boolean jOEa : boolean array; l, dmm : integer; M8ga : integer array; p : boolean; k9 : boolean; chillax end main : do v6(- (97700)) end

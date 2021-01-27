@@ -1,0 +1,1 @@
+program P120a : D : takes l, E : integer returns nothing input i94a; output 669 = 503 . 26; while 24 = 46 : chillax end; input aC0a[5]; input u end main : do p((970) * (2)); do a0q(- not 5 + (65) + 518, - true < 62900 - 9, 0490 - 1 >= 93, 75 = 5, 27) end

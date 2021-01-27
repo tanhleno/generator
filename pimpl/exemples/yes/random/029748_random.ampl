@@ -1,0 +1,1 @@
+program W : e : takes nTT0a, a6 : integer array returns integer array P1, Wo, v, C : boolean array; let YXeaa = - 3 end F : takes iEE, q, G2, D2 : integer returns nothing rF6a : boolean array; chillax end main : while - Z9(87, 9920) or hIf(24100) * true and 8 or(26900) and 4 : chillax end end

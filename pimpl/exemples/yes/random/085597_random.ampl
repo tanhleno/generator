@@ -1,0 +1,1 @@
+program r2k : main : d : integer array; O, WwW0a, l8, lZ, bJ, _8 : integer array; while true and true = - not 2 rem(10) and 24500 - 2 and 33 - 3840 - 4 : chillax end; do L(- 24 and(79) - 9 + 5 - 7); let i39 = array - 3 - 41 - 855 end

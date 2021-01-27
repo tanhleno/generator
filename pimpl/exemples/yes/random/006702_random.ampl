@@ -1,0 +1,1 @@
+program V : It : takes _, H, J6A, J3c : integer; d3 : integer; L7g0a : integer array returns integer array while 3330 < - 866 - 6 : chillax end; do c3j(4 < 13); while 1 : chillax end end main : di : boolean; let o = array false / 634 end

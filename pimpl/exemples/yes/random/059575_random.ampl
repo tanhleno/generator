@@ -1,0 +1,1 @@
+program U : z : takes an : integer array returns integer pop 85; when case 2 : output ""; input o2u; pop end otherwise : while 82 : chillax end end; output "'"; do B(26); when case 86 : chillax end; while 23 : chillax end end main : chillax end

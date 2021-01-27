@@ -1,0 +1,1 @@
+program k6 : J : takes M7, Z34, ir : boolean array returns boolean P, K, EwQ0, I, I : integer array; W : integer; K : boolean; Z3N0a : boolean; chillax end b7 : takes Tg, W : boolean returns boolean array when case 2 : chillax end case 84 = 7850 : pop; pop end case 4800 : chillax end case 40 : chillax end end main : let s = - not Y > true and 1 - 6 - 617; input _L end

@@ -1,0 +1,1 @@
+program g : T3 : takes uR1 : integer array; LU, z, B : boolean array returns integer array while q and 9 > - 87 - 9 : let M = 05 end; output "j+aa" . "" . "" . "wx"; output 59 . "~b\"a" end main : do d(- not 7 or(8) rem true and 9780 - true and 4 - 7 - 05) end

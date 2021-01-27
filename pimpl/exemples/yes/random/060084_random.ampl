@@ -1,0 +1,1 @@
+program R7 : o : takes o : integer array returns nothing chillax end main : when case(79 = 5) * false + (6) < (4170) : chillax end case - sV60(8) * true and 7 /= - 095 - 97 : input p end case 3780 - 1 - 155 >= - 063 - 0500 : chillax end end

@@ -1,0 +1,1 @@
+program N5 : A : takes l16aa : boolean; qQnaa : integer array; HP, fHa, O : integer; y : integer; I : integer returns nothing when case false and 0540 : when case 8 : chillax end; while 1 : chillax end; input _ end otherwise : let w = 86000; while 4 : chillax end end end main : pop - true / x + eQw /= false end

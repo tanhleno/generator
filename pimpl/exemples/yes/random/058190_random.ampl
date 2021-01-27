@@ -1,0 +1,1 @@
+program G : w : takes E : integer array returns boolean i, M, R, c67 : integer array; pop 21 - 47400; let Gp[- 2] = 398; while 028 = 083 : chillax end; when case 5 : chillax end otherwise : chillax end end l80aa : takes F5N : integer array returns integer chillax end main : pop - Sy(1); do X(- K5(6840) rem 0 and 24, false and 2 + 5 - 1) end

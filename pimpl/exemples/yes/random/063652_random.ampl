@@ -1,0 +1,1 @@
+program r2 : p : takes e13 : integer returns nothing chillax end o : takes W, aY6, x, g720 : integer; iI : boolean array returns nothing b : integer array; while - 8 - 81800 : chillax end end main : jG, F, a16, A, U5, R0, W1k : boolean; while - (29900) = Hga[6] : chillax end; while - (3) rem false and 5 + 890 + 5 - 9 : chillax end end

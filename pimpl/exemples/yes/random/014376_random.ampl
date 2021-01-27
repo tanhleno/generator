@@ -1,0 +1,1 @@
+program p1 : Dh6a : takes j44aa, T, P6g : integer array; M : boolean returns nothing output "0^"; when case - 1 - 2 < 3 : chillax end otherwise : while 7690 : chillax end end end main : et, Ve : integer; B42 : boolean array; output "" . - true and 14 - 27 - 6510 . 46900 . "" end

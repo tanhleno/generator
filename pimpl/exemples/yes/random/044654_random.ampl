@@ -1,0 +1,1 @@
+program T : W3 : takes q : boolean array returns nothing r : boolean array; when case s : chillax end case - 52 : chillax end case 69 : chillax end case 8 : pop end case 4 : chillax end otherwise : chillax end; input o[23] end main : A, a38 : boolean; Z, S520, Y, U : boolean array; chillax end

@@ -1,0 +1,1 @@
+program E : f : takes Q, M, j, X : boolean returns integer let u = - 38 - 79 end a0 : takes Fo0, y18, AhVa : integer returns integer array chillax end x9 : takes G : boolean array returns integer array when case 0 : chillax end case 64600 : chillax end case 1 : chillax end otherwise : chillax end end main : input b[- true rem false / (88) and 2] end

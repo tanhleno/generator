@@ -1,0 +1,1 @@
+program S : Yn : takes Z : integer returns integer A : integer array; T6 : boolean array; chillax end main : x, QP, r0, H : boolean; OI, a : integer array; B, Z, Li5 : boolean; p8, vME0a : boolean array; do R3Aa(0530 and(14) or 11); do L_((922) * not 4 + false and 5); while false and 237 : chillax end; input I[6 - 7]; while 4430 = 63 : let X = 8; pop end; while 49 : pop end end

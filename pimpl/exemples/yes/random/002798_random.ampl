@@ -1,0 +1,1 @@
+program e : a : takes UV, b, Pf, _, M : boolean array returns nothing m, Y, uB9 : integer; T, a : integer; chillax end U4t0a : takes P, v2 : integer returns integer when case 81 - 49300 /= 1 : pop end case 5 = 99 : chillax end; while 23000 = 988 : chillax end end main : D, XX3 : integer; n : integer; S0, E, w : boolean array; W, K : integer; chillax end

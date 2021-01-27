@@ -1,0 +1,1 @@
+program vq : PxU : takes Bq : boolean; g : integer returns nothing chillax end main : do T((452 = 34400) - not true - 03, B / not 9); while - true : input g7; while 20000 : chillax end end; when case true and 41 - 82800 - 1 = - 310 : chillax end; output 3; pop 44; input G end

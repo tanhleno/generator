@@ -1,0 +1,1 @@
+program h : y : takes j, H57 : boolean array; rg : boolean; u : boolean; U, Dx, x : boolean; Sk : boolean returns integer chillax end g : takes tj3aa : integer; i : integer returns boolean chillax end Y : takes I, qU, py : integer array returns boolean array e4Ea : integer; Vc30a : boolean; n3 : boolean; chillax end main : input uw60[aZ[817] and false] end

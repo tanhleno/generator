@@ -1,0 +1,1 @@
+program t : j : takes d, F8 : boolean; jrS, f : integer array returns nothing chillax end main : Z : integer array; wz : boolean array; V, v : integer; pop(0) and not 5 and 9; let U = array not g7 rem false and 21 end

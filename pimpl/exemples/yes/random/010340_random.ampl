@@ -1,0 +1,1 @@
+program YK3 : F : takes H, r, b : boolean array; fc : integer array; e38 : integer; v, l04, Z9a : integer array; E, pj : integer array returns nothing C5x0 : boolean; K, I : boolean array; d, UL2a, D8j0 : boolean array; gK1 : boolean; nV : boolean; W7 : boolean; chillax end main : chillax end

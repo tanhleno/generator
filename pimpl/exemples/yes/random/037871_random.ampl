@@ -1,0 +1,1 @@
+program Ow : e : takes j : boolean array; H, I7, G, w4y : integer array; P : boolean; w5, k3, yH, QH, O3Q0 : integer; Xr, z_F, Qvzaa, S : boolean; u77a : integer returns boolean array C5 : integer; when case - false and 9 : while 7 : pop end end case - 6 <= 1 : chillax end otherwise : chillax end; pop 079 end main : input Z; output 6 and 17400 . 6 . 02500 = 8 . 4 . 9 end

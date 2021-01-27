@@ -1,0 +1,1 @@
+program D6G : v : takes c : integer returns nothing do q(- (22) and 83 + 3090 - 1 <= 20 - 5) end q : takes w9, X : boolean; m : integer returns nothing F : boolean array; chillax end main : pop; pop end

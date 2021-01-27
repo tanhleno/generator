@@ -1,0 +1,1 @@
+program T0v0a : Sr : takes b7iaa, nV, l : integer array returns nothing do a(- K and 3 + 9 - 51200); input N2; let Q = 57 end main : yR, il : integer; Q15aa : integer; D : integer array; M : boolean array; HS, Q6 : boolean array; f : boolean; chillax end

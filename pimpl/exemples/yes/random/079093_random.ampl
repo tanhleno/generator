@@ -1,0 +1,1 @@
+program j3 : main : ADX0 : boolean; B9, Qz4 : integer array; i8f, q : integer array; Z, D, n0O, j : integer array; p1, E : integer array; _5Ya, q : boolean; O : boolean; si6a : boolean; do T(- true /= k3(257) rem 1 and 1 or true and 86 - 40 - 1, - (6) * false and 1 or 05800 and 5) end

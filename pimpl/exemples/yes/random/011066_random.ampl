@@ -1,0 +1,1 @@
+program M4I : T : takes x8b, p, Z9 : boolean array returns nothing chillax end A : takes I9 : boolean; S : integer; G, U : integer; i5 : integer; B : integer returns boolean uXd0, s, Ns : integer array; J, b3 : boolean; chillax end main : do v(true / true and s, - false rem 97 and 1 + not 91700) end

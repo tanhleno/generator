@@ -1,0 +1,1 @@
+program Y6 : q : takes j : integer; x, d, uN : boolean array; j8, _8, a, c, u, q : integer array; S440a, yK : integer array returns integer while - Z6 > 6 - 84 : let s[71] = 932; while 6 : chillax end; input d; pop end end main : output "" end

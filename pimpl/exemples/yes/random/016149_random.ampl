@@ -1,0 +1,1 @@
+program FD : x : takes XvI, J, zgU : integer returns nothing chillax end z : takes X6, S1, SX0a : integer returns integer array I2k, m5, _, s : boolean array; chillax end main : a53a, _c : boolean array; Z5xa, J : integer array; pop not F3 = false end

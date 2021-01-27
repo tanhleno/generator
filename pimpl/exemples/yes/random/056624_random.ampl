@@ -1,0 +1,1 @@
+program b : d : takes x : integer array; x : integer; T3, H5 : integer array returns boolean chillax end V : takes Mq9 : boolean returns nothing S : integer array; do t(- 4660 - 0) end main : while - 0 / 56 rem true - true < - K230a or 4 + 561 - 3 : chillax end end

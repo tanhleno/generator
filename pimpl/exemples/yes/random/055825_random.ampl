@@ -1,0 +1,1 @@
+program Ga : ZWA : takes A : integer array; g1c0 : boolean array; fw, y6m : integer array returns boolean array chillax end A : takes z26aa : integer; G8 : boolean array; J, W8 : boolean; l9j : integer array returns integer chillax end W : takes _ : boolean; LY2 : integer returns boolean array chillax end main : input c end

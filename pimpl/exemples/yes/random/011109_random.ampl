@@ -1,0 +1,1 @@
+program Gp30a : s : takes Je, q3, g : boolean array returns nothing chillax end main : u : boolean array; while - (1) < not(8) rem(6) and 1 + mg and 516 : pop 508 = 73; input hK; output 3; while 243 : chillax end; input K end end

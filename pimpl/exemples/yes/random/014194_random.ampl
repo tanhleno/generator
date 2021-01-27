@@ -1,0 +1,1 @@
+program N : X3 : takes W4, O2f, MG : integer array; qu : boolean; Z : integer; B98 : integer; Ps : boolean returns nothing let t2[true] = 714 end f4 : takes J38aa, d520a, K : integer returns integer array while - 6150 - 07 > 9 : when case 98 : chillax end end; while 38 : let Q = 1 end end main : chillax end

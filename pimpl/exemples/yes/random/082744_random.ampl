@@ -1,0 +1,1 @@
+program ZO6aa : main : m : boolean array; when case not false / not false : chillax end case Jg30 / false : input Hc; output 546 . ""; when case 01400 : chillax end end; do V2(true or false + 0 - 9 = - (35) and 0310 or 9, - not 84 < - 4 - 3, - 719 - 37200) end

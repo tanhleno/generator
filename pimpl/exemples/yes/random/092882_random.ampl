@@ -1,0 +1,1 @@
+program r : main : output "\t" . - false and 13 - 2 - 8; when case(52) and 23000 or 8 + 0 : while 6 : chillax end; pop; pop end case - (95) and 03 <= - 2 : output "f" . "" end otherwise : let H8 = array 09; while 73 : chillax end end; do P6(true - 8, 9 - 7) end

@@ -1,0 +1,1 @@
+program AFR : nM20a : takes G, u : boolean; k, c67aa, r, eN : integer array; P61 : boolean; Eb6, a41 : boolean returns nothing Z12, Ss7, P, XAn0a : integer; chillax end main : U : integer; input k76; output 2370 <= 8 - 59 . "r_" . 6; when case - false and 357 > 5 - 2 : chillax end otherwise : chillax end; input uJ80[- 14 - 2] end

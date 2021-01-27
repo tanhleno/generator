@@ -1,0 +1,1 @@
+program ej3 : main : r77aa : integer array; a, sq60a, bR8, Xy50 : boolean; o : boolean; E, P, ihiaa, E : boolean array; YQY : boolean array; P : boolean; Y6w : boolean; do a3(- false); while - true /= so : chillax end; input E[true + 04 - 8]; input g; input n[15]; when case 476 : pop end otherwise : chillax end; do E(7); pop end

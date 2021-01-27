@@ -1,0 +1,1 @@
+program w : h : takes L : boolean array; A : boolean array returns boolean array y : boolean; W : integer; input Dbg0a[true and 2]; while 9 - 6 > 47 : chillax end; let g[0] = 6 end main : N, J, F5 : integer array; output(34) or(7) and 4 - 6 - 05500 . - (9820) and 926 or 95; output "" . ".0" . 69 = 51 . 4; let zh = array true or 93 - 5; input lt50a[- 2] end

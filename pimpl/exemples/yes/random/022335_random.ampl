@@ -1,0 +1,1 @@
+program a8Eaa : fG9 : takes Pc, n6 : boolean array returns nothing V, on : integer array; chillax end MYDaa : takes i : integer returns nothing L, A : integer; PoK0, q, Kj80 : integer; h, N : boolean; input y9 end y730a : takes H09 : boolean array; K010 : integer array returns integer n, V, Y3 : integer; S, Y3X0a : boolean; SQ : boolean; pop end main : chillax end

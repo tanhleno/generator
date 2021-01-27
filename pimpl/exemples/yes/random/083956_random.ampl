@@ -1,0 +1,1 @@
+program h : main : T : integer; BA : boolean; N : boolean array; input P[- (1 = 9) + not 66 or(19)]; when case - 5130 rem true and 0560 + p or 98 = yf and 77 : chillax end case true : do Zs(26, 9) end case 442 - 2 <= 4 : while 9 : chillax end; while 0 : chillax end; pop end case 9 = 3 : when case 328 : chillax end end otherwise : output "`#aa" . ""; output "" end end

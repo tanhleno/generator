@@ -1,0 +1,1 @@
+program x : W16 : takes mH80a, U, u, f, s, y, t7, W : boolean returns nothing pop; while 3 - 6 : let I = 3 end; output "" . "3;" end main : RBQa : integer; input y4; while - false * true and 187 or not 33 : input i; output "" . "5" end end

@@ -1,0 +1,1 @@
+program m : O0 : takes T, b : integer returns nothing v, Mk : boolean; z78 : integer; t : boolean; while - f : do b60(9, 26) end; pop; output "" end Y : takes L18 : integer array returns integer array chillax end b : takes A1d, G, P, _330 : boolean returns nothing chillax end main : chillax end

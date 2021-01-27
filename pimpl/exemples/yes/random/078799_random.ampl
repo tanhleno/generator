@@ -1,0 +1,1 @@
+program L : main : gc1 : boolean; c7, S6 : boolean; o : boolean array; do i((7) or not false rem false and 078 or(69700) or 98400); while - not false and(0) > 72 and 19 : input W4b[6510]; output ""; do Y720a(3) end end

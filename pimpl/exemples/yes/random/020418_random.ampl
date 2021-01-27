@@ -1,0 +1,1 @@
+program M : YNiaa : takes X, I2 : boolean array; u : integer array; l, W : boolean returns boolean array chillax end d050 : takes w, oB, va : boolean array; Qkaaa : integer; r, j : integer returns nothing zg : integer array; chillax end main : do Y1(o0(870) or true - 167 and 26, not false rem true + (2390)) end

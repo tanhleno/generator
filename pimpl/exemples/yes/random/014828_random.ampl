@@ -1,0 +1,1 @@
+program k : C : takes P, NS, f2 : integer array returns boolean EJ, e : boolean; let y = 3 = 88 end f : takes b4z : boolean returns integer chillax end main : AT9a : integer; V : boolean array; i : integer; T : boolean array; let l[(82) and not not 7 * 6 and 2] = array not true; let Kl[- (5) * A or true] = array - not false; do kr8(false, 6 = 22, 5); do T76aa(43 > 8) end

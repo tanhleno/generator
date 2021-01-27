@@ -1,0 +1,1 @@
+program yY : s : takes C, Ll : integer array; K, v, tj, ZX6, O : integer returns boolean chillax end main : input I; when case - (3) + (46) or 5 /= - L and 8 + 7 : while 99400 = 60 : input Hg20a; pop end end case - true - 1 - 997 <= 59 - 8 : chillax end otherwise : chillax end; while y = 9990 : output 4 end; when case 60 - 90 <= 6440 : do g(212); pop; pop end end

@@ -1,0 +1,1 @@
+program Sw : d4 : takes E, cic0a : boolean array returns nothing when case - M3 > 155 : chillax end otherwise : chillax end end p3 : takes tZN0a, qe2, M, Bd : integer; j, H : integer; I88aa, v5 : integer returns nothing let G = 5 = 0 end main : chillax end

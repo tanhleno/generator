@@ -1,0 +1,1 @@
+program J : main : M4, l : integer array; CpSa : boolean; m, v2P : boolean; s2, a, P, l : integer; when case true / not false : output "d" end case - not not 0 / l and 51 + true and 6 - 659 - 306 <= 003 and 45 - 78700 : chillax end; while(4) * 8 - not 4 and 9 >= not 25 : when case 928 = 43800 : when case 8 : chillax end end end; input v[not 73 and 00 or 7] end

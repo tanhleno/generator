@@ -1,0 +1,1 @@
+program r : U : takes k : boolean; F, e : integer returns nothing chillax end ow3 : takes q, Y, X : integer returns boolean array L6 : integer array; do p9(44500 - 8 /= 05); while 28 : while 32 : chillax end; pop end; when case 0560 : pop end case 2 : chillax end otherwise : chillax end; pop end main : _, eH50 : boolean; chillax end

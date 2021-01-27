@@ -1,0 +1,1 @@
+program b : E : takes R : boolean; Hn, T : integer returns boolean array chillax end h98 : takes y : integer array; g, y : boolean; gi70, j4, l : boolean array returns boolean array do XG1(31, 37 = 3, 08300, 009); do J(88, 9); pop 8; input X; while 72 : chillax end end main : e35aa : integer array; Y3, pC, f8, h : integer; output(97) or(3) . - true and 10300 + 18 - 2 end

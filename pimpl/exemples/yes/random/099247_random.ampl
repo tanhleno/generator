@@ -1,0 +1,1 @@
+program T : main : while Q1D(6) / false / not 3 < not not 75 rem 08 and 617 - 4 : while - 5090 - 07 : output "V"; while 348 : chillax end; pop end; input _; let PV[27] = array 42 end; pop; when case - true : chillax end case 248 - 9 : input bn; while 4 : chillax end; pop end otherwise : chillax end; output ""; while 82 = 9 : do Qe(2) end; let mAma = array 9; let G = 2; pop end

@@ -1,0 +1,1 @@
+program n3k : M1b : takes r, d : boolean array; S : boolean; S, I : integer array returns nothing chillax end main : K6, E : boolean array; let O9 = array false * 4 + not false * false and 3; pop end

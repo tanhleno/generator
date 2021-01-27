@@ -1,0 +1,1 @@
+program Z : S8 : takes b8, d : boolean array; F : integer array; jNH0 : boolean array returns nothing r, B : boolean; eM1, u3 : integer; chillax end q : takes Y40 : integer array returns nothing when case - 2120 - 56 : chillax end end main : Y1 : boolean; X, V : integer array; chillax end

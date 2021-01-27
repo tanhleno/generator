@@ -1,0 +1,1 @@
+program b : i : takes x1 : boolean array returns nothing input UJ; while 20 >= 5 : chillax end; while 664 = 15 : chillax end end gh : takes h2, PE : boolean array; XG80a, Y : integer returns nothing Ry, c, Pr : integer; if, t, w : boolean array; Y2, E : boolean; input ro50a[- 8]; output "" . "r\n\"a"; let vMy = array 69; do N(33300); let OxV = 8; pop end main : chillax end

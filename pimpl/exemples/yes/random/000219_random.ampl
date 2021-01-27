@@ -1,0 +1,1 @@
+program C : f : takes ii, x, K, i, F, _3, z, _Kb0a : boolean returns boolean array chillax end main : let T6n0a = array - false; while - false rem 2 and 31100 > Y2Oa : do T3m0(13, 44, 6); input t[57600] end; while - X and 83 + 4 - 6 : pop 41 end end

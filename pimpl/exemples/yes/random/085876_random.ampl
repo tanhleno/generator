@@ -1,0 +1,1 @@
+program C : main : GN : integer array; M32, T0, i4 : integer; let hX = v1 + not 98; while(8) <= - (207) and 3 + 39000 - 60200 : when case 617 = 504 : while 2 : chillax end; pop end case 0 : pop end end; do A0(- y + 1 - 7, - 44 - 2 = 5, 67, 404, 7); when case - 042 - 5 : while 6 : chillax end; do T(991); pop end end

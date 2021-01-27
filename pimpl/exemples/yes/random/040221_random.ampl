@@ -1,0 +1,1 @@
+program p : y5N0 : takes R : boolean array; rl : boolean array returns nothing output - 87700 - 5 = 5 . "52" . 64; while 70 - 9 >= 7 : chillax end end wv7 : takes HD : boolean array returns nothing C8 : boolean; chillax end main : let l76 = not true rem(8) and 6 or true - 8 - 4 > (34); do E(not 63700); do aL(true and 21 or 8 /= 25); do Q(- 48 - 75 = 904) end

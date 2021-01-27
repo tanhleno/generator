@@ -1,0 +1,1 @@
+program v27a : k1 : takes J, CEra, x6z, s : boolean array returns boolean let T = array - false - 59 - 12; pop; input ODAaa[7]; output "1"; let Ev = 21; while 69 : chillax end; pop end main : i30, O : integer array; chillax end

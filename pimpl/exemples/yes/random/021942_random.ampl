@@ -1,0 +1,1 @@
+program L22aa : X2N0a : takes Q1, h : boolean array returns nothing chillax end e : takes F : integer array; nG, fH, P830 : boolean; n, KK, a, e, Xp : integer array; g3T : boolean returns boolean array A : integer array; T : integer; z1 : boolean; let h = array 8 - 11; input SE70a[00]; let X530[9] = 6; pop; when case 31 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program C : VN5 : takes s4, p6 : integer array; R, l, _BZ, Tm5 : integer returns boolean chillax end y6 : takes O : boolean returns nothing chillax end main : when case 24 - not true and Hw and 565 > not true : chillax end; output - 6 /= - 5 - 80 . "" . "" . "tH0a" end

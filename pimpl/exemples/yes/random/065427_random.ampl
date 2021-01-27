@@ -1,0 +1,1 @@
+program f97aa : c7 : takes J : integer returns nothing pop 885 <= 27; input d3[6 - 212] end gM : takes lx0, n6, t, iQ, m : integer; ZMT0, z34aa, g : integer array; c : boolean array; o, a3v : boolean returns nothing g, R, m, D : boolean array; pop 4 = 3 end main : chillax end

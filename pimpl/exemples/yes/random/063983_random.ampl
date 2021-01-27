@@ -1,0 +1,1 @@
+program b : w : takes U : integer returns nothing chillax end main : C0 : boolean array; output(5) and not 5 and 23 /= m and 21; do Sx7(false * (7), false and 816 or 7 - 52 <= - 1 - 7, 1 > 03, 9) end

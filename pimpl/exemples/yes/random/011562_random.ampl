@@ -1,0 +1,1 @@
+program G : G : takes i2, u, S8q0a : boolean returns boolean array chillax end main : while 22 / true * (10000) and 59 or false and not 1 : input c[- 2 - 0]; while 2 : chillax end; do Eb(4, 39); while 670 : chillax end; while 7 : chillax end end end

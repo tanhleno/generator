@@ -1,0 +1,1 @@
+program av1 : w2N0a : takes l5O : integer; o6 : boolean array returns boolean do m8((421) and 5 - 211 - 5 = - 4 - 18); pop 2 = 9 end Z : takes T0, H0, R, J : boolean; k0, W : boolean array returns boolean array Z69 : integer array; do G(1 - 5 >= 05) end main : input f[- (058)] end

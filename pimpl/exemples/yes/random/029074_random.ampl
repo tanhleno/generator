@@ -1,0 +1,1 @@
+program C : i : takes c, z1 : integer array; s : integer returns boolean Zm, U29aa, U5 : integer array; while 7280 : input r[51800]; let S = 9; input Y end end UA : takes n, JO, c : boolean; U : boolean array returns nothing chillax end main : chillax end

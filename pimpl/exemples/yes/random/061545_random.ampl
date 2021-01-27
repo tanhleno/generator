@@ -1,0 +1,1 @@
+program nq : D : takes f : integer array returns nothing when case - not 243 or 56 - 22 = 198 : when case 70 : chillax end; input F end case 76900 - 924 /= 1 : chillax end case 9 : chillax end case 59 : pop end case 1 : chillax end otherwise : when case 9 : chillax end; input NYwa; pop end; output "\\" . "" . 71 end main : S : boolean array; output "g" . "" end

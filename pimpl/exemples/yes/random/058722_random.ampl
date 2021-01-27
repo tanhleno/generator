@@ -1,0 +1,1 @@
+program s5 : n1t : takes U3t0a : integer array returns integer array V, w, P, X, G : integer array; let n = 560 >= 93300; when case 0 : chillax end case 4 = 09 : while 635 : chillax end; pop end case 37200 : pop end otherwise : output ""; pop end end main : chillax end

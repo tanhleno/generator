@@ -1,0 +1,1 @@
+program rjM : C9W : takes j93, B, p040 : boolean returns integer chillax end y : takes M, G, G : integer returns integer when case 85 - 0 : chillax end otherwise : chillax end end main : FT50a, B, m3Sa, A : boolean; while V(46) or 6 - K and 1 or 13 - 2 : chillax end end

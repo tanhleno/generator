@@ -1,0 +1,1 @@
+program Iot : Ox : takes r, NN, kXfaa : integer; b : boolean returns nothing s, m : boolean array; V9M, lz : boolean array; A : integer; V, a : boolean; UCN : boolean; input e3[- x and 1]; input j end X : takes wx : boolean array returns nothing input w_10a; while 3 = 4 : chillax end; pop; pop; output "" end main : x : integer array; chillax end

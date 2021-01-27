@@ -1,0 +1,1 @@
+program D : es : takes N, y20 : integer; h : integer array returns integer array J, jR, t : integer array; chillax end e : takes Y2, S5 : integer returns nothing let G[8 - 4] = array 35 - 2 end main : Gvg, k65 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program B9 : c : takes D, M : integer; O, Pe1 : boolean array; j, H4 : integer array returns boolean array let nS3[(7) and 1090 or 15 - 01] = - 1 - 8 > 57 end d : takes V : boolean array returns nothing input E[- 4]; when case 9 = 5 : chillax end otherwise : chillax end; let K = array 50100; output "V" end main : output "" . - false and 80 . 1 <= 0 end

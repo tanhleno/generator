@@ -1,0 +1,1 @@
+program hoZ0a : g : takes y44 : boolean array; E790a, k : integer; a4, F, R, l, h : boolean array returns nothing Y : boolean; l75aa : integer array; chillax end h : takes p, Am1, d89a, Izr0a : boolean array; r, J : integer array returns nothing input M; let Rzz0a[91] = array 8; when case 78 : pop end; let X = 8; pop; pop end main : chillax end

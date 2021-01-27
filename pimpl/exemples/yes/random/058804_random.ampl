@@ -1,0 +1,1 @@
+program d : V2 : takes G : integer array returns integer array o00a, pb : integer; kwha, J, Nc, L : integer; g : boolean array; E, g : boolean; C : boolean; r : boolean; while - not 6 and 3 : chillax end; do wCU0(9 - 7, 8) end main : pa60a : boolean; w : integer array; chillax end

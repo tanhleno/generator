@@ -1,0 +1,1 @@
+program U : main : when case j[67200] - 9 = 050 : while - 43 - 8 : chillax end end case - false and not 1020 - false : while 2 : chillax end; let L4F = array 5780 end case not 9 and 9 + 722 - 6 : chillax end case 2 - 9 < 43 : when case 02100 : chillax end; output "&|0"; pop end; output false and 2 + 5510 - 8 end

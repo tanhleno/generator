@@ -1,0 +1,1 @@
+program d : w : takes M, e : integer array; n960 : integer array; s : boolean returns nothing rnU, o : boolean; L0 : boolean; A, H2, g : integer; do P(- 5050 - 606); input u[46900 - 1]; input H[9] end main : q, v1_ : boolean array; chillax end

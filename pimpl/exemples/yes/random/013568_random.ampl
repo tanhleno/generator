@@ -1,0 +1,1 @@
+program x : J : takes R76, EN, a6 : integer; s5A0a : integer returns integer array when case false and 9 - 1 - 4 < - 57 - 2 : let e[2] = 97 end case 27 : chillax end otherwise : chillax end; when case 2 - 0 < 9 : chillax end otherwise : chillax end end main : JW60 : boolean array; C : boolean array; chillax end

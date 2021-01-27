@@ -1,0 +1,1 @@
+program J : cz : takes o, B, V, tpQ, z, K : boolean array returns integer Q, pF : integer; z, b, n : boolean array; do T((1) < - 7) end main : S, SR : boolean array; NPJ : boolean array; input i; output - false . - 6 - 4 end

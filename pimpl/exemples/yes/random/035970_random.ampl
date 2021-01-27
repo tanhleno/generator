@@ -1,0 +1,1 @@
+program l : g : takes uh9aa : boolean; W5 : boolean array returns nothing chillax end vd40 : takes Z6A, x, V, O : boolean; lp, yzI, s : integer array returns integer pop 7 = 145; while 3 = 8 : let b = 5 end end main : pop; input I[- 1380] end

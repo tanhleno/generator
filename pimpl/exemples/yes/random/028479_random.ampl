@@ -1,0 +1,1 @@
+program L8 : Y : takes k61, J : integer array; w : boolean array returns nothing V5 : integer array; nwO : integer array; output - 5 > 23 . 4750 = 50; input p end main : w : integer array; O, sN4 : boolean array; F : boolean; when case(0 = 79) + O9 : chillax end case - d[7] + not 8 and 26500 + 4 - 5 < - 8 and 2560 : chillax end end

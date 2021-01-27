@@ -1,0 +1,1 @@
+program h : Y : takes IF, w, Gs0, D : integer returns integer when case - true - 299 = 3 : output ""; while 96900 : chillax end; output "9\\0" end otherwise : output "7@!a" end end sI2a : takes j, k : integer array; t38 : integer array returns integer A : integer; Z : boolean; v, O6 : boolean; s7 : boolean; R : boolean; chillax end main : Z98a, VY7, c, si : boolean; chillax end

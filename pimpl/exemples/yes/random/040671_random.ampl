@@ -1,0 +1,1 @@
+program i4p : e13a : takes S1 : boolean array; rwJ0 : integer; _8 : integer; e, _ : integer; I, Yha, XI : boolean array returns integer array U6, o, q : boolean; j5, r6, AG2, h : boolean array; u, k : integer array; VP, o2 : boolean; g : boolean; pop end main : chillax end

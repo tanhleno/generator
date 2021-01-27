@@ -1,0 +1,1 @@
+program pa4a : main : while - false and not J8 and not 1 or(39) + 8730 : chillax end; input b; while false and 99 >= - 4 - 9 : pop 6; when case 6 : chillax end end; output "cMa"; pop 83; while 222 : chillax end end

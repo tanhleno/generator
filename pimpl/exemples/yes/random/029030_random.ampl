@@ -1,0 +1,1 @@
+program C74a : W5 : takes N, X2g : integer array; A : integer array returns nothing X0 : integer; u : boolean array; chillax end m : takes e : integer; J, h : integer returns boolean array d0, _ : boolean; let v = 211 end main : w, b4 : integer; Bo, f4, Y, FZ, z : boolean array; chillax end

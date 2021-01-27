@@ -1,0 +1,1 @@
+program n : ytr : takes D : integer array returns nothing u : boolean; chillax end HC : takes _0 : integer array returns boolean fQ5 : integer; S5ba, Fu50, N8 : integer array; yL : boolean; chillax end main : r : boolean; chillax end

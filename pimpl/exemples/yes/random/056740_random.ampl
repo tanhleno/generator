@@ -1,0 +1,1 @@
+program k : m : takes H8 : integer array; S : integer; A_ : integer array; w : boolean array returns boolean array input Z[- true + 65500 - 0290]; let x04 = array 47700 - 85; pop 0 end main : chillax end

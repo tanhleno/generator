@@ -1,0 +1,1 @@
+program l : main : Ai6, IH : boolean array; Z : integer array; c5 : integer; do L(true rem not I / false and 9, false / (0) and 3530 or(30) <= false and 63 or 2 - 4400); let O49aa[false rem(7)] = array - not not 0 and true; while - false : output "" . "\\\"" end; pop end

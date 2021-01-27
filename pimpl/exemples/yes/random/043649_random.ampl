@@ -1,0 +1,1 @@
+program wD6aa : j : takes K : boolean array returns nothing chillax end k2z0 : takes K4M : integer array returns integer chillax end main : yE8 : boolean array; zq : integer; F : boolean array; pop - U4Ba = 6 and 784 + 9 - 80 end

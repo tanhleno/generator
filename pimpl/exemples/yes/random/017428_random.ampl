@@ -1,0 +1,1 @@
+program oT50 : q : takes A, W90 : boolean; Tu, u : integer array; uT, k, m, Z : integer; gs6a : integer array; f, k : boolean returns boolean array chillax end main : do E8(2 > 64 rem not 00, S(50) * false) end

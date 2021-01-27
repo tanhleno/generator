@@ -1,0 +1,1 @@
+program y : UZ3 : takes C, V : boolean; m, Ueb, D : boolean array returns nothing x20aa : integer; chillax end main : _ : integer; do Gs(- true and(45) - false and(95) = true rem not 7, - not true * not 2); pop - not 334 and 72100 or 5; while 66 : chillax end; output "" . "\\"; input zg[3] end

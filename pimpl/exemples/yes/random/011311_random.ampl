@@ -1,0 +1,1 @@
+program y : n04aa : takes wv50a, liX0a, w : boolean array returns nothing x : boolean; N : integer array; g6vaa, Vx, E : boolean array; EA7, NY : boolean; O : boolean; y : boolean; while - (6) and 5 + 95 - 8 /= 6 - 09 : chillax end; while 24 - 8840 <= 3 : chillax end; input rr60a; do IM20(4, 9) end main : chillax end

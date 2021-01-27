@@ -1,0 +1,1 @@
+program n7n : e : takes U : boolean array returns integer i : integer; pop - 20 > 9; do Ww00(6 - 5 <= 4) end D9 : takes S : integer; NV_, Jy5 : boolean array; G : integer array; l, hWH, ox, qiu : integer array; U8A, Jkfaa, Z : integer returns nothing i9 : integer array; chillax end X : takes P, HDa0a : integer returns boolean input OWN end main : chillax end

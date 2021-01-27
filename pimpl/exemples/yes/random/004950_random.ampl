@@ -1,0 +1,1 @@
+program W : yy : takes y, h, V, uy0aa : boolean array; d_3, nqca : integer array; q86 : integer; Q120a, W, g04, Va, D : integer array; J35, h : boolean; D19, N8 : integer array returns nothing chillax end main : l, _ : integer array; w : boolean array; h7, P, vck, C7k, Us : boolean; input Z end

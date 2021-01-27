@@ -1,0 +1,1 @@
+program g : main : D : integer; C, T : integer; when case false - not false and not 0 and 0 or not 90 and 1 + 4 = - true : chillax end otherwise : pop; when case 46 : chillax end case 9 : chillax end; do A(55); let T4 = 9 end end

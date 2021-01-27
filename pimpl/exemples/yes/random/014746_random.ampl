@@ -1,0 +1,1 @@
+program mC : g : takes Q, I3h0a, N : integer array returns boolean array sk8aa : integer array; while false and 29 >= 392 : input Tpt0a end; do n(5 - 1); when case 6 = 7520 : chillax end case 9 : pop end otherwise : chillax end end W4 : takes f : boolean; tNx, Q810 : boolean; j : integer array returns nothing Z : integer; chillax end main : u7 : integer; chillax end

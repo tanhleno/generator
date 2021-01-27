@@ -1,0 +1,1 @@
+program r6 : G : takes o67 : boolean; m, HT6 : integer array returns boolean array while - not 8 and 2 - 3 - 0 /= 34 : output 46 end end a79 : takes i, no, r : boolean returns integer array e1, A1j, i : integer; chillax end M : takes V : boolean returns nothing Y9, w : integer array; P7Taa, a : boolean; W : boolean; chillax end main : m7B, C, q, e : boolean; input D67 end

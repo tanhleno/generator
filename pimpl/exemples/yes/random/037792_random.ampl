@@ -1,0 +1,1 @@
+program H : q : takes b : boolean array; J0, Le, x, j0 : boolean returns boolean chillax end main : JY : integer array; while I1 * true and true >= - D4[6] * i5F - not 513 : when case - 0 - 72 <= 5 : output ""; let xR = 1; pop end; do u(897, 36900); pop 8470; do p(3) end end

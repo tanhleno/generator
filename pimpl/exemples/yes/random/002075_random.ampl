@@ -1,0 +1,1 @@
+program E : W : takes qz, B, HzL, o, y, s : integer returns nothing D6 : boolean array; H5, CF4, J : boolean array; while - true and 9 /= - 8 : chillax end end G340a : takes h : integer array returns nothing input H end main : let Mg40[- false and 201] = - false * not 6 and 1; do i((91) rem 2 >= - (8) or 8 - 9, - false and 43 < 870, 5, 4 = 42); input v1y[- not 8] end

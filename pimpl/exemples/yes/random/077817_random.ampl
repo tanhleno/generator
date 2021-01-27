@@ -1,0 +1,1 @@
+program P : main : J, c8Pa : integer array; ZF0aa : integer array; when case 70000 + true * (0) and 6 + not 106 - 37 - 3610 <= true + true : chillax end case - false or 92 and 85 - 5 /= not 9 and 05200 - 06 : while 249 : output "#F!" end end end

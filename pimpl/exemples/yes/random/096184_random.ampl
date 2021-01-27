@@ -1,0 +1,1 @@
+program P0 : main : when case - not false / not true * not 9 and 64 > true / 9 : input r5g0a; pop end case - (70) and(9730) and 6 or T + 0 : while 8410 = 15700 : chillax end; do T(6, 7590) end; while - (915) : chillax end end

@@ -1,0 +1,1 @@
+program G : CR1 : takes N2d0 : boolean; y56 : boolean; t, A, b : boolean array returns boolean array while - not 4 and 31600 >= 751 - 9 : input W; input t9 end; let w9[- 8850 - 3] = array - 4 - 3 end main : chillax end

@@ -1,0 +1,1 @@
+program XQ : main : pop true - 2 and 8; do uTa0(not 2 - (33) and 740 /= - h); when case - not 8 and 8 < 3 : chillax end case 8 - 9 : chillax end; let Qjy[90] = array 27800; while 296 : do w(081) end end

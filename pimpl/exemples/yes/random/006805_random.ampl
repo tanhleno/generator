@@ -1,0 +1,1 @@
+program b3 : h5 : takes BW, A, Tjh, s : integer array; N97, Tn20a, F, J, W, N, I : boolean array; k : integer returns integer array do gJC0(- not 6140 and 871, - 4 /= 76); input D6; while 4 = 7 : chillax end; input F end main : XFxa : boolean; Y840 : integer; t, a, _ : boolean array; P : integer; chillax end

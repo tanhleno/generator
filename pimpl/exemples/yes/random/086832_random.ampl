@@ -1,0 +1,1 @@
+program d0h : main : ti8 : integer array; B4 : integer array; a, Il : boolean array; r, k, P : integer array; pop; let n[false / 739 and 59 or(312)] = array - false * (78) and 045; pop - 8 - 2400 end

@@ -1,0 +1,1 @@
+program l : IM30 : takes j, g : boolean; w, Nm : integer array; w9 : boolean array; N, WL7 : boolean array returns nothing GDq : integer array; n, Up : boolean; input z; while 31 - 92 > 5 : do rA(18500) end end main : pop end

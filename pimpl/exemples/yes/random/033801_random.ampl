@@ -1,0 +1,1 @@
+program P2 : u87 : takes Y : boolean; v0, J, k : boolean array; t, Y, R : boolean returns boolean array Sc : boolean; chillax end _6H : takes K9, M, G, l2 : boolean array; e, Ct : boolean; LC, o : integer; k : integer array; Y : boolean array; qc, i6 : boolean returns nothing input E28; do f(60, 7200); pop; pop end main : chillax end

@@ -1,0 +1,1 @@
+program P6Z0 : main : l : boolean array; when case K or false / false and 4 : when case - 3 : chillax end case 15 : do W7(4); pop end case 2 : chillax end case 334 : chillax end; let b5[2] = array 89; pop end case not O2 or 6 and 31 or 74 - 804 > not 3 and 42 - 7 : chillax end case(17) : chillax end case 2 - 36 : input W end end

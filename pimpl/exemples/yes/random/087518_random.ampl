@@ -1,0 +1,1 @@
+program W : main : Ym : integer array; when case - not(6300) / not(59) * true and 5 /= - x and not 3 and 22 or false and 8 + 1 : chillax end case false rem M and 90 > false + 57000 - 580 : output 75 . 12 . "" end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program zr70 : j : takes Yp : integer array returns nothing input C9[82 and 58] end main : lj, aI : integer array; t, Bv50, z : integer; C : integer array; do x((1 = 66), - not x or false and 8 >= - false and 0) end

@@ -1,0 +1,1 @@
+program N7 : N : takes W, v, tM90, n, EP, q : integer array returns nothing Wk : boolean; oZ1, P : integer; t : boolean array; H : boolean; V4 : boolean; c0 : boolean; chillax end main : pop; when case - (9) < true and 0 - 36 - 9 : while 77 = 5 : do L(43); pop end end case not 6 - 840 = 0 - 682 : chillax end case 333 > 0 : chillax end end

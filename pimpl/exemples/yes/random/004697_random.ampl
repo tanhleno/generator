@@ -1,0 +1,1 @@
+program v : E : takes z, Z98a, d, cVF : boolean; F : integer returns nothing chillax end N : takes Zldaa, jo : integer; Z4, J : boolean returns integer while - 6 - 751 <= 81 : when case 5 : chillax end; input K; pop end; input E[831] end main : pop 34 - 2 and 9 - 7 - 5 >= (23) end

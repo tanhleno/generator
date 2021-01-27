@@ -1,0 +1,1 @@
+program R : U : takes b : integer array returns nothing l : boolean; r43aa, Am8, U, g : boolean; r : integer; L : boolean; chillax end d : takes B, YMV : integer array; V5Xa : integer returns integer C : integer array; J : boolean array; chillax end w6Ea : takes BT, b : boolean array returns integer when case 8 = 3 : chillax end end main : l, i7Saa : boolean; chillax end

@@ -1,0 +1,1 @@
+program o : Q : takes W1ja, im : boolean array returns boolean array c : boolean; output - 1 /= 89; when case - 0 - 3 : chillax end case 6 = 60500 : chillax end case 17 : chillax end case 0 : chillax end; while 1 = 7 : let t = 8 end end main : S_ : boolean array; chillax end

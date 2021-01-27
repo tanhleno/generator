@@ -1,0 +1,1 @@
+program cG1 : y : takes x, r5 : boolean array; Z : boolean array returns boolean pop; while 1 - 2 : output ""; do Fy(88); pop end end n0 : takes t7r : integer array; vO5, OMD : boolean array returns nothing chillax end main : chillax end

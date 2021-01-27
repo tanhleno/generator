@@ -1,0 +1,1 @@
+program Oi : main : output 69 + true; do k(6 rem true and 0 + H + 3 - 3 >= - not 5); let S[- l - 73] = 8 <= 3; pop 7 = 84; when case 8 = 841 : chillax end case 1 : chillax end otherwise : pop end; input p8; let Y = 552; input w3; pop end

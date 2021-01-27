@@ -1,0 +1,1 @@
+program P : x9Z : takes d41aa, i : integer returns integer k6 : integer; chillax end x : takes Fla, _3E, a3, F, z830a : integer array; th6, p : boolean; P5fa, Z : boolean array returns nothing y, A : boolean array; T, k, Ly5 : boolean; output 4 = 742 end main : i01, i : integer; pop end

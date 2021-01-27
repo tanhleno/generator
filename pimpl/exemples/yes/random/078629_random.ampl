@@ -1,0 +1,1 @@
+program c : main : U : boolean; P4v0, Y1, b : boolean array; x, _TDa, gI : boolean; g : integer array; g3, MQ, T2 : integer array; o, ZA : boolean; P : boolean; output "\n" . "2L" . 2 < 279 . "=" . 07 . 6 . "8"; when case - 72400 + not 1 and 0 : chillax end; while not 8 and 7 - 2 - 949 > 8 : output "" . ""; output "L" end end

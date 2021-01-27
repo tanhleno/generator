@@ -1,0 +1,1 @@
+program N : z2 : takes v, k : integer; r4 : boolean array returns boolean array A, evO, h : integer; KL : boolean array; while(9) - 2 = - 2 : chillax end; input c; pop; output "8" . "" end main : b0 : boolean; A6I0, V, gEI0a : integer array; V2B : boolean array; chillax end

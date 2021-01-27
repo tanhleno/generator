@@ -1,0 +1,1 @@
+program Z4 : x : takes L5, h : boolean; D : integer; r, pY8, M3 : boolean; Z : integer returns boolean array let M[- false and 83] = array - c or 83; while 62 /= 9 : chillax end end main : i, q, ji, b, O, T : integer; do m(- E[4] rem lq7aa / not 1, - not(74) - 72 <= - true and 12 - 515 - 770) end

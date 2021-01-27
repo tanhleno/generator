@@ -1,0 +1,1 @@
+program rd : VW : takes o3, x : integer returns nothing D, zJ, f, j, J2 : integer; l : boolean; while - s and 49 or 16900 - 1 > 75 - 38600 : chillax end end main : do O(- F rem false); input d; output - 4 <= 3 . "\"" end

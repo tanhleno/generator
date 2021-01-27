@@ -1,0 +1,1 @@
+program r23 : N_2 : takes z : integer returns boolean O, e_g0 : boolean; Q, ne3, U3, C : boolean array; T : integer array; chillax end s6 : takes V : integer array returns nothing b6X : boolean array; let E = 3 = 22; let K[15] = 70 end main : b : boolean array; _, J2Laa, c, l, o9, B : integer; i0 : integer; chillax end

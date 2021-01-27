@@ -1,0 +1,1 @@
+program V : Q : takes N, U : integer array returns boolean array output - 78 . 3 = 35; output ""; input w end V : takes RO, t, r, H : integer returns nothing chillax end main : output - (0) . "" . 23 - 903 = 67 . "9" . 69 . 3 end

@@ -1,0 +1,1 @@
+program h : Nc9 : takes D3, bjk0, va, a, v : boolean array; v, b_ : integer array; ov : integer returns nothing hV, y, i : integer array; let Y87[(63) and 8 + 742 - 9] = array true or 6 - 2160; do q(6160 < 3, 9); let Smp[4] = 1; input gx end main : hy, at : boolean array; U, D, C10aa, FDr, xq, g : integer; chillax end

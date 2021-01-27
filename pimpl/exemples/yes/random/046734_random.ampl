@@ -1,0 +1,1 @@
+program e : o : takes W63 : boolean returns integer array OJ : integer; input RrPaa[- dQ and 42]; output "" end m : takes d : integer; m : boolean array; t : integer returns nothing _, m, R, g5 : integer; zX : integer; _, V : boolean; h0da : boolean; u : boolean; input K3; output "vE" end main : U97aa : integer; uY : boolean; G, tm, x69, Vd0, Y : boolean; chillax end

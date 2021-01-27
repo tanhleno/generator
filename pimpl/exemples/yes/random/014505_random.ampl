@@ -1,0 +1,1 @@
+program k8 : gD : takes Pq5aa, ZC0aa, H : integer array; cM : integer array returns boolean array sx7a : boolean array; l : boolean; chillax end E6 : takes k4, A1, gG, f : boolean returns boolean array o : boolean; do F(353, 3, 5); when case 3 = 5660 : chillax end case 3 : chillax end; do h(5) end main : p, _3M0a : integer; pop end

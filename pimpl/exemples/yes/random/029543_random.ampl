@@ -1,0 +1,1 @@
+program o : NJ6 : takes Q, o : integer array returns boolean lT, z3 : integer; while - 8 and 233 : chillax end end L : takes j, p5, D : integer array returns nothing chillax end E : takes P : boolean; W1u, ec6 : boolean array; R2 : boolean returns integer array s8 : boolean array; chillax end main : M4F0, k : integer array; vW : integer array; chillax end

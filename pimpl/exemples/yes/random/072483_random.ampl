@@ -1,0 +1,1 @@
+program i9 : main : m, k2O, X : integer; pop; output false; let RQ4[- not 5 and 1150 + 0 - 6] = 92900 >= 27; while - 8 = 6 : let lKP = 4100 end; when case 50 = 288 : chillax end otherwise : chillax end end

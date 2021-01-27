@@ -1,0 +1,1 @@
+program C4 : R510a : takes x19, W53 : boolean array; S, M : integer; s, _g0aa, Bsq0a, l, w4 : integer array returns boolean chillax end main : u : integer array; A : integer array; N : boolean array; chillax end

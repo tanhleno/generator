@@ -1,0 +1,1 @@
+program f : lt6 : takes T : integer array; r : boolean array; D, Sn2 : integer returns nothing w, KM1aa, y, ar0a, qq6a : boolean; jWlaa, c6, W, Y : integer array; pop - 6 - 96600 /= 45; input E1[- 7 - 9490]; output 21 end main : input r; let K8 = true; when case - true and 77 : input hJ end case 174 : chillax end case 26 : pop end end

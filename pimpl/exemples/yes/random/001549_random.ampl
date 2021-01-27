@@ -1,0 +1,1 @@
+program r4 : y : takes hl3a, l, N, O20, I, q : boolean returns nothing MV, qQ, V, To : boolean array; output 22 . 11 . 96; while 78600 = 83 : chillax end end T : takes G : integer array; q : integer; z, B, vm : boolean array returns nothing do h20(5880 - 4) end main : _, L : integer; g8D : integer; while false / (9) / not 64 : input SY; do l(8 = 5, 29); output "" end end

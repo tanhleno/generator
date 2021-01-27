@@ -1,0 +1,1 @@
+program f : H9 : takes d, B : boolean returns boolean o, u : integer; C3 : boolean; chillax end t : takes y : integer returns nothing K85 : boolean; wC7 : boolean; chillax end q : takes ch, J80 : boolean array; E, L : boolean array; dg : integer array; M, R7 : integer array returns boolean chillax end main : k : integer array; do _3(- g7_ * not Z8Qa, - 09 rem true /= (03)) end

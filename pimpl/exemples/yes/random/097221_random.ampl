@@ -1,0 +1,1 @@
+program TK3 : main : when case not not 87 - not true rem not 83 + false - 5 < (9) or true - 6 : do U(3, 81400, 2, 333) end case j or not 42 + 5 : chillax end case - (22) - 95 - 011 : input y; pop; input cw end otherwise : do G(8 = 4, 726); when case 38 : chillax end end end

@@ -1,0 +1,1 @@
+program WSg : A9 : takes T1M, td, k : integer returns nothing chillax end n3 : takes I : boolean array returns boolean array chillax end P : takes t : integer array returns boolean array b93 : boolean array; while 7 = 7210 : let _r = 78 end end main : W, K59, n, P, Ky, A : integer; chillax end

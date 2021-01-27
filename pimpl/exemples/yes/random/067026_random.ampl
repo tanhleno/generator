@@ -1,0 +1,1 @@
+program l : main : do i5(false / true, - false <= true - 1, false + 36000 - 7 < 1); when case - l < - true - 6100 : when case 016 = 1 : chillax end case 82 : pop end; do Z7Ua(5, 6580); do H1D0(8) end case - 0 and 0 + 8 - 0 /= 979 - 4810 : chillax end otherwise : pop 9 end; input m end

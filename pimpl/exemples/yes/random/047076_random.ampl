@@ -1,0 +1,1 @@
+program D : N86 : takes u0c : boolean returns integer Hs, i : boolean; L, Q : integer; qG, S, e : boolean; output 48 end main : n, t, g01 : integer; do n4((40 = 06100) or 1 rem false and 9 or 22 + 89 - 63800, - false - not 63 and 37 or 2 /= (7) + 0); let DD[- false or(61)] = array not h + GzX and 5360 + 55400 - 18300; let b[8 and 7770 or 3 - 3] = array - 89 end

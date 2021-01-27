@@ -1,0 +1,1 @@
+program u4G : Y070a : takes o9, x160a : integer; YFX, t, I, N : integer array; LHl, r6F, q : integer returns integer array while - not 18900 - 4 - 3 /= - 6 : chillax end; do z_(616); let J[054] = 9 end main : while - not(3) - 3 : chillax end; input C; input y9J0a[not 8 - 2]; output 9 = 8 end

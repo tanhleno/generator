@@ -1,0 +1,1 @@
+program G : q53a : takes p4N0 : boolean array returns nothing y, c : boolean; chillax end c : takes d9, H20a, _ : integer array returns nothing chillax end main : while - 57800 : chillax end; output "" . 5970 <= 01 . "" end

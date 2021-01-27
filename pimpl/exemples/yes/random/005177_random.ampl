@@ -1,0 +1,1 @@
+program o : u0 : takes b0, B, n, nN : boolean array; cu9 : integer array; L8J : boolean array; b72a : integer array returns nothing let w8[not 0260 and 7] = 5 - 2 < 6 end main : mz : boolean array; chillax end

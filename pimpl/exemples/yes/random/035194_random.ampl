@@ -1,0 +1,1 @@
+program Afja : V : takes Ytp0a : boolean; t2, EA8 : integer returns boolean input mn[0 and 2 + 6 - 82] end main : while - 2 * 07 or true + false /= not false * 08 or G and 80 : do V(65 /= 27, 44, 18200); pop end; while not true / 61 or N and 02 or 48 - 3 <= - false : when case 24 : chillax end case 26 : chillax end otherwise : chillax end; input uB[9] end; output 4 - 4 end

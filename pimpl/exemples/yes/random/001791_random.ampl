@@ -1,0 +1,1 @@
+program E3 : zl8a : takes Z, A, m, i4Qa, w, p : integer array; yl, N : integer array; ilC0 : integer array; R, W : integer array returns nothing d : boolean; Mm, Jf : boolean array; do G(- 10 and 8); let TrN[- 9 - 40] = 5 end i : takes f19 : boolean returns integer input nA9 end main : X : boolean; lnDaa, uf : boolean array; chillax end

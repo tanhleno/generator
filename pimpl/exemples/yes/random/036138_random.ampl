@@ -1,0 +1,1 @@
+program XYu : G6 : takes u : boolean; r : boolean returns boolean array input c[- not 5] end _ : takes N, Hg : boolean array; w3x0a, FTt0, I : integer; L : integer array returns nothing let f = array - 4; input M; input G720a end _ : takes d, P0S : boolean; bR : boolean array returns boolean E : boolean; chillax end main : chillax end

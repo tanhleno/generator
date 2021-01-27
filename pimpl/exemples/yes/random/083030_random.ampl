@@ -1,0 +1,1 @@
+program b : main : U : integer; do v77(false + true + 9 /= - false and true and 37100, - true * 1 and 6 or not 8 and 7 or 4, - (870) and 1 - 2 - 0, 9 - 34 = 82, 55000 = 9, 6200); input y[false / a and 7]; do m4kaa(- (0) and 2380 < - 784, - 5 - 6); input G; while 55 : chillax end end

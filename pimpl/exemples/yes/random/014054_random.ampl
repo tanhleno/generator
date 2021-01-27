@@ -1,0 +1,1 @@
+program YcCa : p6Ua : takes OR8a, GL, Y : integer array; p, w : integer array; D : integer array; q, qJ8, l : integer array returns integer array input WH end main : T, yBD : integer; K, M, D20, fh, fwo, v : integer array; x, Oc2 : integer; T, T, Z8 : boolean; while - not 7 : chillax end end

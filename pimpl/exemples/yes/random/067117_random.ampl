@@ -1,0 +1,1 @@
+program j : main : do e(Y(1) + true * 4 and 61900 <= (9980) * not 32500 + not 15 and 1 or 0, true and p and 787 + e5 and 41 + 02600, (4940) = 8 - 38, 8 - 1, 57 = 0, 71, 3); input p9[(0) or 2950 and 5 + 10] end

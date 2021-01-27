@@ -1,0 +1,1 @@
+program z : pHt0 : takes F : integer returns nothing t, J : integer array; chillax end dj_ : takes b : boolean array returns nothing iI, I : integer array; h, n : boolean array; chillax end main : pop true + false <= - fV and 2 end

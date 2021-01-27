@@ -1,0 +1,1 @@
+program S : main : G8i0a : integer array; Z5 : integer; pop true and not 645 and 45 + N and 1 + 44 - 1; when case 94 rem 2 and 79 or 8 and 1 > 25 and 5 : output 93 . 9 end otherwise : chillax end end

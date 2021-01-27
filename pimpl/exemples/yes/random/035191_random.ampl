@@ -1,0 +1,1 @@
+program Jt2 : s : takes bqg0a : boolean; B, _2b : integer returns boolean U : integer; U04 : integer; Jq20, L : boolean array; k4ma, q : boolean; pp7aa : boolean; SDV : boolean; let W[not 60900] = array HF70 and 635 end main : x : integer array; do O(- not true rem false < - NE and false and 6, true < - (44) and 55, - 6 + 85400 - 63 > 59) end

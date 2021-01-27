@@ -1,0 +1,1 @@
+program e7 : Sm : takes m : boolean; i, hQs : integer returns nothing m6Q, atKaa, e770a, uz : boolean; output 53500 . 2 = 1 . 066 . 1900; when case - 10 - 2610 : chillax end; pop end main : chillax end

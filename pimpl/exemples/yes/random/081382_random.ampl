@@ -1,0 +1,1 @@
+program d : main : o71 : boolean array; H, R : integer; Do : boolean array; input L[- true + not not 6 / false and 99]; while - G(760) / false and 416 - false or 0 > true + 61 - 5280 : input s[11] end; while - false < - 3 - 334 : chillax end end

@@ -1,0 +1,1 @@
+program S : main : N6 : boolean array; u9_a : integer; when case not not not 218 or(44) = 399 * not 7090 and 339 : chillax end case false : let WY7aa = array 6390; input aiZ[246] end; do B(not 45 * (470) /= - 052 - 7, 58 or 30 - 46 /= - 551) end

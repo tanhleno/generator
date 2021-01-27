@@ -1,0 +1,1 @@
+program e : b : takes OD8, D, pQ, i3, m : integer array returns nothing S1taa, l4, g : integer; chillax end kL90a : takes i5, R : boolean; I54 : integer array returns integer b44aa : integer; m : integer; while - 4 : when case 4 : chillax end end; pop end main : chillax end

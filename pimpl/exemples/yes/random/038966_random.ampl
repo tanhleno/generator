@@ -1,0 +1,1 @@
+program G6Qa : _ : takes S : boolean array; z, Z : boolean returns nothing pop 4 - 7 = 056 end f88 : takes d3, M : boolean returns integer array lZ, D : integer array; k, _J : integer array; O, gF6a : boolean; v : boolean; let V = array 215 - 78 end main : O6, y : integer; output true rem false and 23100 + (98) and 1 = not 6760 or 3; do n5(- false rem not 4) end

@@ -1,0 +1,1 @@
+program s : wek : takes B : integer array returns nothing chillax end main : j, o, f, E : boolean; o : integer; n3 : integer array; do H(- 84 / true > tt[238] * 8, true or G5 and 709 - 4, true and 031 - 00) end

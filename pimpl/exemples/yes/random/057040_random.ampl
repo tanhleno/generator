@@ -1,0 +1,1 @@
+program h : t4 : takes b : integer array; O : integer array; Z1Kaa : integer array returns integer array T, W, E : boolean; u2, A : integer array; F3 : boolean; Y : boolean; M : boolean; K4s : boolean; chillax end main : pop; do u7(- not not 816 + (5) and 7, true and 9) end

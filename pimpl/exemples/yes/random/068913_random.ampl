@@ -1,0 +1,1 @@
+program Qh : main : C, g, A, Eho, C : boolean array; d1X : boolean array; WA : boolean; Ec : boolean array; let d1va[4 and false - B] = array false rem true - not true; let v = array 1 / false + 2 or 13 - 2 end

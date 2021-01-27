@@ -1,0 +1,1 @@
+program u1wa : t3 : takes j, O4, j : boolean; j, R03 : boolean; O, G3, N8, _o50a : integer; YG : boolean returns nothing let M = - 66 - 5; pop; pop 3 end u7 : takes whU : boolean returns integer array q, b2, n : boolean; let n[8] = array - 5 - 80600; do s(7 = 2390) end main : b6, HRs : boolean array; chillax end

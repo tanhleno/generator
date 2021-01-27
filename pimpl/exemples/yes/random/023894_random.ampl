@@ -1,0 +1,1 @@
+program O : K : takes MTf0a, i : boolean returns nothing chillax end rz : takes t, m, E, G : integer array returns integer array when case 03500 > 5 : chillax end; while 8 = 90 : chillax end end main : input vaf end

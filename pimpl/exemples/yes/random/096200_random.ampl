@@ -1,0 +1,1 @@
+program r : main : when case - not false or r + (1) and 7 or 284 : chillax end case k + e2 + 8 /= false + 1020 : do lv(82) end case false : while 491 : pop end; when case 63 : chillax end end otherwise : chillax end end

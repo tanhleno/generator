@@ -1,0 +1,1 @@
+program m : main : L : boolean array; pop; when case W * false and 0 or false and 6 : chillax end case 1 + 83 > 40 : chillax end case 1 - 76 : chillax end; when case false and 4 >= 4 - 8 : do Y(7, 77) end end

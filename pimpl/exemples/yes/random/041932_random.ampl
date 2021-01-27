@@ -1,0 +1,1 @@
+program v : Y0 : takes D : boolean array returns boolean chillax end vP : takes O, a : boolean array; f, F65 : integer returns nothing y2 : boolean array; while 14 - 485 : chillax end end ytj : takes F_n : integer returns integer array rFd, sF1a, B : boolean; N7 : boolean; ue : boolean; chillax end main : I, mC : boolean; I, Q0 : integer array; chillax end

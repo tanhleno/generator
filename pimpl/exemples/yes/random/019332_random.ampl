@@ -1,0 +1,1 @@
+program m4 : N : takes bz, K4G0a : boolean array; E, g : boolean returns integer chillax end T5 : takes FE7 : integer array returns boolean array let l = 0 end t : takes f : boolean array returns nothing chillax end main : do t(false rem Iq00a(2) = false - LS + 5 - 915) end

@@ -1,0 +1,1 @@
+program Ks70 : p : takes A : integer returns integer chillax end Dq0 : takes q : boolean array; S, B : integer returns boolean pop 0 end Om : takes Yd : boolean array; s7K : boolean array returns integer chillax end main : do H2Y(true >= true * not 4730 + not 9080 and 6 - 2 - 9) end

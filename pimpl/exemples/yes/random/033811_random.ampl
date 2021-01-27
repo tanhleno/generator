@@ -1,0 +1,1 @@
+program PE4 : sl9 : takes g : boolean; iV, Kd, _ : boolean array; z, H2 : boolean array returns integer array pop end P : takes H9 : integer array returns boolean array do H3(- 1 - 6) end main : hyL, Tx, byZ : integer; Fp : integer array; sZ, L : boolean; m, U : boolean array; m83 : integer; fV : boolean; chillax end

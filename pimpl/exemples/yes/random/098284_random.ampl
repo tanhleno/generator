@@ -1,0 +1,1 @@
+program k62 : main : while - false rem false rem 5 and 10 - true / false + (6) < true : chillax end; let o1 = array - true - (00) and 4 or 87; while - not 6150 and 88 + 6 - 4 < - 07 : chillax end; pop; when case 5 : do x(03) end end

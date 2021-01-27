@@ -1,0 +1,1 @@
+program H90a : bc : takes C : boolean returns nothing do X(- c0 < - 006 - 4); while 33 : input h; pop; pop end end main : E : integer array; N : integer array; input x[r[89] and false and not 6 and 4 or(0) - true - 1] end

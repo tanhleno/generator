@@ -1,0 +1,1 @@
+program SQ1 : q : takes f7, B : boolean returns nothing chillax end main : X25, q : boolean array; c32, z4p, Y : integer; Q9u0a : boolean array; while false * (228) : input WV7[21700 - 626]; while 8 = 3 : when case 0 : chillax end; pop end end end

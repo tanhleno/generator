@@ -1,0 +1,1 @@
+program a : l : takes at8, _0, Z, LE, l, C3, ZnR0 : integer array; Rc, m : integer array; n_ : integer; R4, B : integer array; L5A, _l : boolean; ec4, w : integer returns nothing input v[not 627 and 320] end main : x, s : integer array; pv_ : boolean array; Ipq, C9 : boolean; BU7aa : boolean; chillax end

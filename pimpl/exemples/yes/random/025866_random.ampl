@@ -1,0 +1,1 @@
+program Z : O : takes E, Px : integer; a, S : integer array returns nothing chillax end Fq : takes Z46, Op : boolean array returns integer array C22 : boolean; w5y, fp, fm7 : boolean; chillax end main : oi : integer; input W; output ""; pop 921; do p(- 03800 - 8 < 2490); output "|[\"" end

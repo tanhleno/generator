@@ -1,0 +1,1 @@
+program Dk40a : Q1 : takes s : integer returns nothing Hy : integer array; H9 : integer array; chillax end f : takes W700, k : integer; Z : integer array returns nothing Px2a : boolean; chillax end main : chillax end

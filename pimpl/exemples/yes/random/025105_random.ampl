@@ -1,0 +1,1 @@
+program i3 : L64 : takes DE, r6 : integer; _D9, P6da, d, K : integer array; D7O, yX, d3, x : boolean array; Nh4 : integer array; b : boolean array; m : boolean array returns nothing R : integer; chillax end qB : takes J : boolean; s : integer returns boolean input s1[- 11] end main : chillax end

@@ -1,0 +1,1 @@
+program z : H : takes g4Sa : integer; f6y : boolean array; B, y4 : boolean array; f, CF, _65a, Y, i : boolean array returns boolean array let CU = array - 5; when case 7 - 0 /= 1270 : chillax end otherwise : when case 111 : chillax end; pop end; let S[987] = array 96 end main : A, DbR0a, _3 : integer; mhk0 : integer array; nC : boolean; C, k : boolean; chillax end

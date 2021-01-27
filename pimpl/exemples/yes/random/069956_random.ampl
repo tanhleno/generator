@@ -1,0 +1,1 @@
+program m : main : z8, JMx0, F69, o : boolean array; input Q03a[true]; while - 13600 * (78) and 137 + 69 and 3 or 548 : pop; pop end; when case GK and 712 /= - 2 : input dK0[48]; do X6(17); output "" end case - 5 < 4 : while 09 : chillax end end otherwise : output "7" end end

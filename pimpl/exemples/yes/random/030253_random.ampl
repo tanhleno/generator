@@ -1,0 +1,1 @@
+program O : ph7 : takes r, j2la : integer array returns nothing chillax end V : takes A : boolean; f, J5 : integer array returns integer when case 02 : output "~\\"; output "r<"; pop end case 52100 = 79 : when case 89 : chillax end; pop end otherwise : chillax end end main : _7c : integer; chillax end

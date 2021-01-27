@@ -1,0 +1,1 @@
+program l0Z : D : takes A : integer; _O1, p : boolean returns boolean array AV : integer array; Dy80a, X, gU, M8D0 : boolean; while - false or 063 /= - 74100 : chillax end end G : takes VD8a : boolean array; H2d : boolean returns nothing H : integer; input w; pop 4 end main : E : boolean array; _7 : boolean; chillax end

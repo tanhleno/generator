@@ -1,0 +1,1 @@
+program T : main : input S; when case - true * 55 >= (1) and 0 : chillax end case 40200 and 1 : chillax end case 124 - 5 : while 2 : chillax end end case 4350 = 5 : while 578 : chillax end; pop end case 967 : chillax end otherwise : do oo0(2, 35) end; input B[- JLTa and 59] end

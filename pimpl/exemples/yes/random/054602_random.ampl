@@ -1,0 +1,1 @@
+program _Y5aa : S7 : takes qKF0a : integer array; iU60a, Wz00 : boolean array; pQd0 : integer array returns boolean array E : boolean; I8, y, H89aa, S30 : integer array; while - 5 - 732 : chillax end end main : chillax end

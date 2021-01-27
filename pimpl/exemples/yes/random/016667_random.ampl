@@ -1,0 +1,1 @@
+program g : J3 : takes Z, g : boolean; J, ZvUa, h8, o, Ako0a, o : boolean; i9 : integer array; w1 : integer returns nothing chillax end main : k8, W : integer array; let Pl[- not 61200] = - not(5) and(22100) and 9 /= - true and 6; output "[\naa" . "" . "s\t!a" . 2 . 9; while - r and 75 : chillax end; let fOb = array 60 - 5; let h[3] = 30 end

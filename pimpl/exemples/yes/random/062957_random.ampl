@@ -1,0 +1,1 @@
+program C : h : takes z : integer returns integer array k7 : boolean; e9 : integer array; when case - not 4 and 7 - 8 /= 138 : chillax end case 6 - 0 /= 95 : let K3 = 6; pop end otherwise : chillax end end main : K13 : integer array; A_ : integer; chillax end

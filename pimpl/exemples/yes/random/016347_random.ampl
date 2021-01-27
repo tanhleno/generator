@@ -1,0 +1,1 @@
+program P5 : pn : takes _03, W, _ : integer returns nothing k, I, k0 : integer array; while - not 08 or 3 - 3 : chillax end; do I6(0) end main : TS : integer array; b : boolean array; Z : integer array; do eFsaa(I(1) / (1) rem not 3280 and 4 or 633 < 10 rem false and 5 + false and 53100, (091) and true and 2 > - not 369 and 8 or 3 - 79, - (9) - 22 - 7, - 6 = 0); pop end

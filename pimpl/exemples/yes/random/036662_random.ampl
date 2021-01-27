@@ -1,0 +1,1 @@
+program lR : Jaxaa : takes p : boolean; i7 : integer array; M, L, h1, A : integer; t5 : integer array returns nothing N : boolean array; chillax end N : takes V : integer returns nothing B : integer array; x1, OFD, GX0 : integer; chillax end main : output false . - 50 or 8 < 19 end

@@ -1,0 +1,1 @@
+program k5 : Rf : takes QI, N7 : boolean array; x2, Sk : boolean returns nothing C : boolean array; input N4[- true + 9] end main : do _(- (7) /= H[2] + not 83, not f and true and 1 or(67000) >= false and 9); let SC = array false * 0 and 587 end

@@ -1,0 +1,1 @@
+program F : P37 : takes y, i72aa, iN, d, Y, Bl : integer array returns nothing input p3r; when case 204 - 88 : chillax end otherwise : chillax end; while 08500 = 60 : pop; pop end; pop 0; input r end main : output - (9) and false + false or 54 - 420 >= not 4 and 9 + 9 . (1) <= - 34 - 74400 . 16 /= 945 . "f-" end

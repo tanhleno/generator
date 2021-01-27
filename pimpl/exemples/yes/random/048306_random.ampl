@@ -1,0 +1,1 @@
+program JQ : Ja : takes R : boolean returns nothing i, Z : integer array; FQ0aa : integer; chillax end qkn : takes gvBa : integer returns boolean I : integer; v5 : integer array; chillax end main : let r[- not false and(729)] = array - not(4) + W end

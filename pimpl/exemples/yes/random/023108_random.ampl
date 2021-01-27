@@ -1,0 +1,1 @@
+program O : A7H : takes y4, m : boolean returns boolean chillax end TQC : takes zqw, Y_X : boolean; GN_ : boolean returns nothing g, R, jT : boolean array; cR : boolean array; A5, X : boolean; U : boolean; ZZ0 : boolean; do E(6 - 293 /= 5, 0) end main : while 22 / false rem true and 55 + 12 * not 667 and 67 <= false + not 3 + 0 : chillax end end

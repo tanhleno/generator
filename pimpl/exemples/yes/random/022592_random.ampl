@@ -1,0 +1,1 @@
+program A9h0 : O : takes A47, Y5 : boolean array returns nothing z11a : integer array; j : boolean array; q08a, V8 : boolean array; sk : boolean; pop 90400 - 8890 = 9; input k0; when case 8 : chillax end case 3 : chillax end otherwise : pop end; let b[2] = array 2 end main : let F2[(8) + false] = array true - false / rn1a - 7 - 94000 - 6 end

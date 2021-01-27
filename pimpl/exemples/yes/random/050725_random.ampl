@@ -1,0 +1,1 @@
+program u3 : V : takes c : integer; F3, C : boolean returns integer BU : integer array; chillax end main : L6 : boolean; X7Qa : integer; when case true - (07) * true and 5 or true + 40700 - 1 /= - Z : chillax end; let A2[- r5p(2) * 91 and 5 or not 441 or 6] = not 2 and 081 < 261 - 968; output 58100 end

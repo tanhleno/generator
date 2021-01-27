@@ -1,0 +1,1 @@
+program zp1aa : l820a : takes iTc0a, v : integer; Bf : integer returns nothing ax : boolean array; when case - (9) and 40500 + 6 - 7 : pop 0 end case 2 : input Y9 end case 2 = 6 : chillax end otherwise : chillax end; output 5 = 0 end main : o, e6, N_K, A : integer array; while - iA3a / (2) : chillax end end

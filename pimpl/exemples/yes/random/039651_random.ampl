@@ -1,0 +1,1 @@
+program ne : S : takes esqaa : boolean array; U7 : boolean; ayQ0a : boolean array returns integer array output - 86 - 47600 /= 426 . "" . 9490 . "" end main : H8, y, Aav, K5v0a, Ls, M : boolean; Mx, x : integer array; lNHa, H : integer; chillax end

@@ -1,0 +1,1 @@
+program Q1 : xp : takes CF, W, s0g0a : integer array; p : boolean array; D : boolean array returns boolean YF : boolean; N12aa : integer; chillax end Ks2 : takes i : integer returns nothing chillax end main : _h : boolean array; s74 : integer; output ""; let cZQ[- not QR] = array - false and(1) and 3; let _O[- false and 7580 + 5 - 6] = array - false and 8 end

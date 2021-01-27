@@ -1,0 +1,1 @@
+program T : main : do T(- false); do z(1 / 7 and 06 + 6 >= not 4 and 36, - (90), 2 - 27 > 08); when case - (4) and 5 = - 87 - 94 : chillax end case - 4 = 1 : input sd; do v2Z(5) end case 9 : pop end otherwise : let jy = 4 end; output 6 = 7 . "" end

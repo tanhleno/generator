@@ -1,0 +1,1 @@
+program E5 : main : Bw, zS6, yM9aa, NR9, Y : boolean; el, p2ja : boolean; x, j : integer array; y, O, HkK : boolean array; G2 : boolean array; do B(true > - not true - vfM or 1780); while - x[0] < n and 5 : chillax end end

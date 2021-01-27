@@ -1,0 +1,1 @@
+program V7 : K : takes s : integer; S8 : boolean array; A : boolean array; fJJaa, D, F, h : integer array; D7D : integer array; s2D, g8 : boolean returns integer array when case - true and 97 > 5370 : input _V[5] end case - 19 : output "" end; input vp3 end main : chillax end

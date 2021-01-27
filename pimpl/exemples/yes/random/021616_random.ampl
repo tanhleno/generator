@@ -1,0 +1,1 @@
+program Z : mB8aa : takes x, JuUaa : boolean array returns integer u, H37a, y3, i : boolean; J : boolean; chillax end E : takes u0, W : boolean array; b, f1 : boolean array; j93 : boolean; g3, w, U : boolean returns integer array when case 33 : when case 0 : chillax end end case 2 : chillax end end main : chillax end

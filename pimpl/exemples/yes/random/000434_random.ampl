@@ -1,0 +1,1 @@
+program U : qw : takes N, OU10, O, d, A, i89aa, _, d : integer array returns boolean x9 : boolean; wf00 : integer array; while - 1 and 278 : pop end end main : s3Maa : boolean array; U : boolean array; pop; when case true = (8) and 9 + 5 : do d(50 = 85, 49); while 964 : chillax end end case 4 and 3 = - 8 - 38 : when case 3 : chillax end otherwise : chillax end end end

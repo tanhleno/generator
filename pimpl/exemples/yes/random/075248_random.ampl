@@ -1,0 +1,1 @@
+program X : main : L770, kzeaa : boolean array; m : integer; when case k(2, 9) > - not false rem false : chillax end case not false rem false and 687 : let Aw70a = array 32 end otherwise : while 36 : when case 06600 : chillax end end; input _6 end; let o0[- false - Ey] = not 0 end

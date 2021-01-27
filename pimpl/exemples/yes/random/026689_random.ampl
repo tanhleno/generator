@@ -1,0 +1,1 @@
+program nkA : r0 : takes c77, Lb0 : integer; Oq : integer array; M990a : boolean array returns boolean array pop 54 - 8; input n[- 485] end main : let I[E(1) or o12(200) or not 7 and 6] = array - T[18] * not(93) / f and 998 end

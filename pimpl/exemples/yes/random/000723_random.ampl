@@ -1,0 +1,1 @@
+program x4 : t : takes X, BE, A, q9Z, b5, g8, f : boolean array returns nothing GT3, b, V : integer array; Z, F : boolean array; M8Z : integer; while - K and 5 + 881 - 74 <= 217 - 21 : chillax end; input B end main : chillax end

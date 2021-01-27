@@ -1,0 +1,1 @@
+program Z : main : when case - (3) * true or Q4 <= D - l and 104 - 152 : chillax end case - true + not 9 and 0150 < false - 30 : let XZb = array 4; let mK3 = array 88800 end case true /= 8 - 9 : let x = 62 end otherwise : input l; output "" end end

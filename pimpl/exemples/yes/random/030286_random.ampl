@@ -1,0 +1,1 @@
+program y6 : C : takes u9, yh : integer array returns nothing chillax end I : takes RLx0a : integer; f : boolean returns nothing let m[- 29 - 55] = array 2 - 94 end main : U, I, g, g : integer; do tK(86 /= false rem true and 1) end

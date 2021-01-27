@@ -1,0 +1,1 @@
+program w : i : takes F, f, gbUaa : integer; hZ : boolean array; emZaa : boolean array; O98, S72aa, et : integer returns nothing s, w160a, ehD0 : integer; eg : boolean; r, X, x : boolean array; o, qD : boolean; l : boolean; t : boolean; chillax end main : let H = - not(66) - (018) and 7 >= - not 0; do SF(- true, not 6 and 980, - 35 <= 65, 15 = 84); input iG; input N end

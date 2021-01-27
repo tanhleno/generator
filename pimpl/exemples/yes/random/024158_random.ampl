@@ -1,0 +1,1 @@
+program M6 : IX : takes cY6, V : boolean returns nothing t, n, E7P, oX, b : integer array; chillax end Lm8a : takes b, G, zd : boolean array returns nothing h, uZ, l7, Jw1 : boolean array; av60a : integer array; o010 : boolean; do A(- 9530 - 4); while 2 : chillax end; while 4 : chillax end end main : pop - true end

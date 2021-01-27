@@ -1,0 +1,1 @@
+program m : Y : takes BQ, S : boolean returns nothing c, J6 : integer array; If00 : integer; chillax end main : when case - 9 : chillax end case - (25) or false and 8 + 0 : pop 776; input gs[6]; output "" end case - not 2 <= - 88 - 6 : chillax end; do _(not true + (479) or 8 >= (1) and 54600 or 65 - 5); pop 6 end

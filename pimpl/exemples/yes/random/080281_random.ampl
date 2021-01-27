@@ -1,0 +1,1 @@
+program Dc5a : main : MG90 : boolean; pop; when case - not false / false and 6270 - 7 and 8 or 8 - 56 : while 686 = 9 : chillax end; while 636 : chillax end; let D = 9; do md0(26); pop end case - 6 and 07 or 3800 <= 7 : chillax end otherwise : chillax end; while - true and 3 - 1 - 6100 : let e = 7; output ""; input vw end; do d(- 6 = 45); let E = 9; let K[5] = array 4 end

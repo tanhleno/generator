@@ -1,0 +1,1 @@
+program V : r : takes k76aa, _9, Q : integer array; A : boolean array; nz, N10 : integer returns boolean array pop - 63800 /= 6340; when case - 58 - 7 >= 4 : chillax end case 7 = 2 : chillax end case 9 : pop end case 2 : chillax end end main : chillax end

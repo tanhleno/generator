@@ -1,0 +1,1 @@
+program iD : WW : takes l, p : integer array; j9, a5fa : integer returns boolean array Rx8, Mx : boolean array; y, xA : integer array; chillax end main : while - 2 : let k[15] = array - 1 - 53; output 9 . "" end end

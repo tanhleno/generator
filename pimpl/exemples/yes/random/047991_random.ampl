@@ -1,0 +1,1 @@
+program V : mI : takes Q : boolean returns nothing Q1Maa, D, v : boolean array; chillax end main : when case not true * true and not 78 and 6 : output "To"; do Ng(5 = 4); input ZO[569]; output "5&" end; output "\n="; input cX; while - 9 - 8 : while 1 : chillax end; output ""; pop end end

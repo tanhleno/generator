@@ -1,0 +1,1 @@
+program n2 : hmSa : takes H1J : boolean array; c, i, oGb0 : integer array returns integer chillax end main : N : boolean; YKL0 : integer; let p1p[false] = array - 1140; input F[- false]; let p4[- qy and 7] = array - So and 5; do m6(- 3 > 7, 03 = 665); when case 4 = 922 : chillax end case 8 : pop end case 15 : chillax end end

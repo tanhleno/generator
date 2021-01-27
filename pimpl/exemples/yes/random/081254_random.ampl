@@ -1,0 +1,1 @@
+program z : main : b : boolean array; Q9, Y2y : boolean array; do I(- true and false / a and 0, - 89300 and z0g + (748) and 08500 + 3 - 7 = 482 and 0 + 7 - 9, - sY and 97 - 5 - 81 >= 31 - 66, 5 < 814, 1 = 108) end

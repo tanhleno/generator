@@ -1,0 +1,1 @@
+program t : main : H, m8eaa : boolean array; N : integer array; N32, W, P0, q, W : integer array; do wN(- (683) * not false = 9 - false and 48, - not true * 1 and 98600 + 389 and 46 or 2 - 21 >= - K and 9); do f(- 979 /= - true) end

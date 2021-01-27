@@ -1,0 +1,1 @@
+program g0 : main : e : integer; let Y[- wg / false and 55] = - (9) < - not 1 - 455; while true >= not 2 and 1 : let BX = 43300; pop end; input P[- 30]; output "\n" . 30; output "~" . ""; do suQ(035, 4); when case 98 : chillax end end

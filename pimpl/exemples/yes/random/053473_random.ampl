@@ -1,0 +1,1 @@
+program H8 : Hy : takes n : integer array; K2, P, I, U, _5, F : integer; v : integer; x, Mg : integer returns nothing output 979 . "" . "{" . "" . ""; pop end main : U4 : boolean; GK60a : boolean array; c82 : integer; E : boolean array; when case - false / 99 : chillax end otherwise : chillax end end

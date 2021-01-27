@@ -1,0 +1,1 @@
+program L : p5 : takes G3 : boolean returns boolean chillax end J : takes T5, SJK, D, X, n, E6J0a : integer; c : integer array; f : integer returns integer chillax end main : pop; do TH90a(0, - not 6 and 3 or 70) end

@@ -1,0 +1,1 @@
+program t : Ci : takes W : boolean returns nothing R : integer; let ga[false and 9] = - 251 > 73; input T; while 9 : chillax end; while 0 : chillax end; pop; pop; pop end S : takes NJ, M, V3 : integer array; rVla, f, v, o8 : integer returns nothing chillax end main : lN : boolean array; chillax end

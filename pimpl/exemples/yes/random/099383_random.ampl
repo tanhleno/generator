@@ -1,0 +1,1 @@
+program V : main : while m0Ka[0] or(94600) or 7 and 911 - 056 > - true / false + false and 87 : when case - 42400 < 7 : input jU; while 0 : chillax end; pop end case 1 : do Aw(3); pop end; input K; when case 8 : pop end case 377 : chillax end otherwise : chillax end; let J = 58 end end

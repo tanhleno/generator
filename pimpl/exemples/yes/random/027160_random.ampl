@@ -1,0 +1,1 @@
+program Y3 : Xyz0 : takes N690, f770 : integer array; g, S, sH, C, v : integer returns nothing C3 : integer; p : integer array; chillax end Dr : takes P9T0a : boolean array returns nothing while 8 = 1 : chillax end; output "38a" . "" . "7" end main : chillax end

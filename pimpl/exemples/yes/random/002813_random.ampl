@@ -1,0 +1,1 @@
+program EPz : r : takes ugeaa, F49, r, r, Yf : boolean array returns nothing Vi30 : boolean; chillax end vF9 : takes E2a0a : boolean array; Jq7 : integer returns nothing a : integer; chillax end main : let Q5 = (27) rem ao80 and 545 end

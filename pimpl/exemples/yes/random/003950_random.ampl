@@ -1,0 +1,1 @@
+program M : G : takes Z, uS70a, T, P, s : integer returns boolean array let t9[(7) + 49900 - 92] = 76800 - 19; while - 0 : when case 26 : chillax end; do E(85) end; output "" end main : while - 7 rem 0 + (665) * true - false and 45 + 2 : chillax end end

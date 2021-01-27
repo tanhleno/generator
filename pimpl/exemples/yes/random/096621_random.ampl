@@ -1,0 +1,1 @@
+program r : main : when case - true : do dwFa(91); while 42 = 3 : chillax end; pop end case - false and(2860) and 6 < X and 7 : pop end; output - not 95 or 4 - 6 . 6 < 80 . 4 . 30; do Vl((05) and 731 or 9 - 41 < 37 - 192) end

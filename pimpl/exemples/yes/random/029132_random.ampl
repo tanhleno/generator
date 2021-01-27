@@ -1,0 +1,1 @@
+program s : UA8 : takes Y2, p : integer array; qL : integer returns nothing chillax end X : takes m, a : integer returns nothing H, J : boolean; chillax end f : takes V2 : boolean returns nothing when case 1 = 89 : chillax end otherwise : chillax end; pop end main : q : integer array; output not G; do sgZ(- (42) + 37 and 098); do n(- 632 + 9); pop 514 = 0 end

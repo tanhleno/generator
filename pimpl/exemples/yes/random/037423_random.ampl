@@ -1,0 +1,1 @@
+program O : j : takes N54aa : boolean; a6 : integer returns nothing pop 09100 - 5 > 92 end a9u0a : takes T0 : integer; dC : integer; p, I : integer returns boolean array pop 10 end w : takes P, N, i, E5 : integer; b : boolean array returns nothing Sc0, SL : boolean; chillax end main : RRWa, Kw, C, J, vb30a, w09 : boolean array; V : boolean array; chillax end

@@ -1,0 +1,1 @@
+program U : K : takes ao, B1, I, K : integer array returns boolean output "" . "\t\t"; when case - 4 - 8550 : input Z; pop; pop end case 3 = 0730 : while 21 : chillax end; pop end end main : w : integer array; chillax end

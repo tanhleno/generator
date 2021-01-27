@@ -1,0 +1,1 @@
+program I : M : takes a3, Qx : boolean array; H : boolean array; u : boolean array; M0, H9, zd, w, D8J : integer; j : boolean array returns nothing DjIa : boolean array; f : boolean array; chillax end main : g1, K : integer; Hq, Q : integer array; J, u73, T : boolean array; input b5[- false / true and false and 52] end

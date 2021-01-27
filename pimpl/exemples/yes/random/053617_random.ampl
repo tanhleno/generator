@@ -1,0 +1,1 @@
+program I : o2 : takes j0o0 : integer array; RO, P, s, hG, C59 : integer returns boolean pop 20600 - 4 < 0; pop 152 = 09 end main : when case false < true / not 35 : input f41a end case true / true and 7 : input uYMa[5] end otherwise : output "" . 2710 . "" end; pop(53000) end

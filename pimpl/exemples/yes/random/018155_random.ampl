@@ -1,0 +1,1 @@
+program h : Y : takes X, X : boolean; O : integer; H : boolean array; M, v2, J, tl : integer array returns integer array when case - true and 77100 or 0780 = - 502 : while 4 : chillax end end; let C = 5 end o6 : takes r9 : boolean; e0 : integer array; d2V : boolean array returns nothing h : integer; chillax end main : chillax end

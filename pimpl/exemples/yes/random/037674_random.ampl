@@ -1,0 +1,1 @@
+program uf : g : takes N5 : boolean array; w, V_, F, AC, C : integer array; Fi : integer array returns integer wvEaa, L, m0f : integer array; U, Y2 : integer; e, C : boolean; input v; pop 5 = 5 end main : P5g : integer array; chillax end

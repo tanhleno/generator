@@ -1,0 +1,1 @@
+program u : u : takes c0, h, q, I : integer array returns boolean array gN, R : integer; when case not 4 : chillax end case 03 : while 6320 : chillax end end otherwise : when case 4 : chillax end end end y : takes U6J, g, RY : boolean returns integer array output 1320 = 643; pop; pop 6210 end main : do s(false and true / X, - d[52] or false) end

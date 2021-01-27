@@ -1,0 +1,1 @@
+program D : L : takes l, B0, C7 : integer array returns nothing chillax end iF : takes P61 : integer; G7, i, D : boolean returns boolean array y3P, l : boolean; chillax end main : Y70, KG, j, Q_ : integer; W : integer array; do H(true or not true, true >= - (0), - (35), 1 - 3 < 3, 112 = 49, 5); let b = not 6 + 61 - 733 > - 787 end

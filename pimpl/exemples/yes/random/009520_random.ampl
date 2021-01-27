@@ -1,0 +1,1 @@
+program YC : YUn0a : takes _250a, gi70, DU5 : boolean array; vb, ttC, e0, lbzaa, jw, N6 : integer array returns integer input J[- (3)] end main : input t[true]; pop - not 2180; let e[- (8) - 11] = array true and 40; pop end

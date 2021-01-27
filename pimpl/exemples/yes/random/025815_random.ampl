@@ -1,0 +1,1 @@
+program b2B : r5Ta : takes T, s : integer; b, n2j : integer array; C : boolean array returns boolean while - 8 and 784 + 092 - 7 >= - 97 : while 92100 : chillax end; pop end end P7F0 : takes l, E38, y4X : integer array; J, n1wa, i, qv3a : boolean; A, r : boolean array; C0 : integer array; q0R0a, cP : integer; To, j : boolean returns boolean chillax end main : pop end

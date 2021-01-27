@@ -1,0 +1,1 @@
+program X : main : input n[96800]; output "1"; when case - 9 and 70 + 2 : chillax end case - 943 - 8950 >= 6 : while 54800 : chillax end end case 6 = 578 : chillax end case 9 : chillax end otherwise : output "" end end

@@ -1,0 +1,1 @@
+program J : a : takes M, a : integer; i4, o, qsp, H : integer array returns nothing sty0 : integer array; let X[- not 18 and 10 or 9 - 1030] = - 6 - 8 < 8; pop; while 272 = 5 : pop end end main : o9p0a : boolean array; chillax end

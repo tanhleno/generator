@@ -1,0 +1,1 @@
+program O72 : T : takes W : integer array; Sv : boolean array returns nothing _ : integer; when case(8) /= - 9 - 838 : chillax end case 4 - 6 /= 33900 : do d(8) end case 62 = 1 : do n(17500) end case 72 : pop end case 5 : chillax end otherwise : chillax end end main : do BR7(- 3 - (24) and true /= not false and 8 and 9, 843 * (09) + 3 and 2 + 5 - 780 <= - true) end

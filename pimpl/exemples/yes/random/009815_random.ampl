@@ -1,0 +1,1 @@
+program Dz00 : L4R0a : takes o49, t, V : boolean array; A41aa, Zi : boolean returns boolean chillax end main : Q : integer array; _O : boolean; output not false * de20a and 84 or false and 166 . false <= - 2880 - 47900; let q[204 rem(7) and 32700 or 1 and 3] = not 3 and 2470 - 7; let Z[- true] = 770 - 0 /= 65800 end

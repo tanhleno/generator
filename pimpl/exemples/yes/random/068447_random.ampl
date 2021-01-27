@@ -1,0 +1,1 @@
+program q : main : J, h, Y92, l, KX, u : boolean array; D : integer array; M, h : boolean; X, J : boolean array; F3W, vk1 : integer; while false or false rem true and 05 + (6) and 4 - 8380 : input a[- 4] end; let MX7 = array V(9) + 1 and 2 or 3 - 47 end

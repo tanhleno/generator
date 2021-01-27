@@ -1,0 +1,1 @@
+program J9 : ftn : takes j, j0 : integer array; Z6 : integer array; C06, g, P, w7z0 : integer; B, KC, L, p, JE : boolean array; l2v0a, V, c, Lp : integer array; a, q, A : boolean; FP, L : boolean returns nothing R15, e3, n, q9c, f : boolean; pa : integer array; ud0 : integer; let _3 = 8 > 7 end l : takes N, _8 : integer returns boolean array chillax end main : chillax end

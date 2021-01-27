@@ -1,0 +1,1 @@
+program I : M : takes _9, qHn : boolean array returns boolean f3, r : boolean array; O, w : boolean; output "/"; output 5; while 8 = 1 : do zhi(41) end; output 8 . "u3" end main : J, iq1, k : integer array; let H[false + (24) and 2950 and 93] = array - false and not(65) end

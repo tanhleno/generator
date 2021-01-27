@@ -1,0 +1,1 @@
+program lK : main : when case - (32 = 5) / (5) and true and 81300 + not(96) - not 50 and 32200 /= true rem(0930) : chillax end case false + w and 44300 : when case 295 : chillax end case 33 : pop end case 128 : chillax end otherwise : chillax end end end

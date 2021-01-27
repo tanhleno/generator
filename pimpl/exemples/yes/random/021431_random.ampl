@@ -1,0 +1,1 @@
+program hd : S : takes Z, O81aa : boolean array returns integer array hoh0a : integer; chillax end D : takes E : boolean array; Q2r : boolean array returns boolean array input z[- 1] end main : chillax end

@@ -1,0 +1,1 @@
+program dW80 : K8 : takes u5 : boolean; U : boolean array returns nothing pop - 915 > 395; let BX9[- 18800] = 19 = 9 end main : B240, SC, N, II : integer array; x, R, Q : integer array; input C2[false / true rem C9 and 25]; while vZ(8190) and false - true + 1 > 6 and 62 + 6450 - 0550 : chillax end end

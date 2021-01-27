@@ -1,0 +1,1 @@
+program ej : n : takes A : boolean returns nothing uR8 : integer; input h[- 1 and 2]; pop 9560; input g[6] end p : takes e : integer array returns nothing while - 70 <= 1 : chillax end; let K[2] = array 8; pop end main : K : boolean; chillax end

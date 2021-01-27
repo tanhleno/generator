@@ -1,0 +1,1 @@
+program RN : D5U : takes p, gA : integer; m59aa : integer; Q8 : integer array returns nothing l2U0, G : integer; chillax end main : P, n, I : boolean array; A : integer array; p, a, E : integer; B, m0 : boolean; chillax end

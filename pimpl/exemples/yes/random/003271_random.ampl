@@ -1,0 +1,1 @@
+program P6r : lBj0a : takes xf40, o, C9Saa, _d, L9s : integer; E2 : boolean array; u : boolean array returns nothing qx, Os, x : integer array; when case false - 20 - 2 > - 20 : do T(6); let Vr30 = 702; when case 614 : chillax end end otherwise : output "" end end main : Y, o9 : boolean array; V : integer array; chillax end

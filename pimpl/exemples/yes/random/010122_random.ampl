@@ -1,0 +1,1 @@
+program p1 : W690 : takes E, Rq4, A : boolean array; lN1 : boolean array returns integer array x : boolean; W46, EC, z23, U : integer; B1, q : integer array; do ho(- false < - 3 - 3) end main : output - false and not 96 . "" end

@@ -1,0 +1,1 @@
+program x : r : takes Y : boolean array returns integer array while - 857 : chillax end; output "_:\"" . "&" . 4 . ""; when case 1 : chillax end case 3 : pop end case 8 : chillax end otherwise : pop end; while 402 : pop end end E4 : takes JBVa, U : boolean; X : integer returns nothing chillax end main : pop false or not 4 and 0 <= (6) or 6; while not 2 rem false : chillax end end

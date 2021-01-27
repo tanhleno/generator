@@ -1,0 +1,1 @@
+program d2 : F : takes D8K, A : boolean array; oZ, D1, l5, q, x, Hi, A9Xa : integer array returns boolean array while - (95) and 25 - 8 <= 81 - 7 : chillax end; do SM(19 - 3 > 2, 1, 574, 2460) end I87 : takes Xi7aa, a, j : boolean array returns nothing while - 92 - 6 >= 84 : chillax end; output "\t\naa" . "" . "" end main : chillax end

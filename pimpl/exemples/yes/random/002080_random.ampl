@@ -1,0 +1,1 @@
+program qRf0a : R : takes E9, t0M0, l, qg, twB, aC : integer returns nothing r : integer array; G, A : integer array; WxC, C : boolean array; output "O"; pop; while 1 : pop end; output 149; do Z(9) end main : output - 12900 - true or 82400; while - l(0) and(90900) and 4 - (8) + 781 /= hR - 20 - 3190 : output 43 . 5240 . "" end; let LW[not 8 and 91 - 6] = - 0; output "" end

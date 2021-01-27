@@ -1,0 +1,1 @@
+program K : a : takes Q, A, G, M, b : boolean returns nothing chillax end O440a : takes _, QY : boolean array; sDca : integer array; eC5, P : integer array returns nothing when case - 155 : chillax end case 213 = 7140 : chillax end case 2350 : pop end case 2 : chillax end otherwise : chillax end end main : chillax end

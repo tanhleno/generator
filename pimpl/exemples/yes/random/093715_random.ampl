@@ -1,0 +1,1 @@
+program I : main : pop(2); pop - 49 or 6 - 2 >= 38 - 30; when case - 7 or 9 - 3 : chillax end case 1 - 22 <= 4 : output ""; pop; pop end case 8 : chillax end case 2 : chillax end case 9 : chillax end; while 075 - 4 > 4 : chillax end; do Y3(114); let e[1] = array 33; pop end

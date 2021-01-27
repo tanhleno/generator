@@ -1,0 +1,1 @@
+program f9 : yo : takes S, K, l : boolean; x, v : integer array; I9Na : boolean; a, FA : integer array returns nothing Tv : boolean array; K : boolean; h : boolean; W79, Xm : boolean; x4 : boolean; output ""; when case 3220 < 0 : chillax end otherwise : while 32 : chillax end; pop end; do U(72, 6) end main : k : integer; chillax end

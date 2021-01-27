@@ -1,0 +1,1 @@
+program H : si : takes I, i, Z, K : boolean; zG5aa : integer returns nothing while - false and 0 or 03 - 5 : input c[15] end end main : _8f : integer array; let n6 = array - false * false; let htU[2] = iL >= 1 end

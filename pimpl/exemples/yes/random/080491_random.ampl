@@ -1,0 +1,1 @@
+program p : main : x : boolean; while - false / 7 rem A > - false + 9 and 536 + 8 - 4 : while - 0 - 7 /= 9 : chillax end; do B(8, 9) end; output "\n\"0"; while - not 9 : input Vg[8700]; output "|"; when case 80 : chillax end end; when case 7 - 7910 : chillax end case 305 = 60 : chillax end; let m = 77; pop 5; while 7 : chillax end end

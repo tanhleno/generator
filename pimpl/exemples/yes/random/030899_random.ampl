@@ -1,0 +1,1 @@
+program S : z : takes w, Yo : integer array returns nothing IX : integer array; chillax end _B : takes z, g1, I : boolean returns nothing when case - 02 : chillax end; while 9 : chillax end; while 5 : chillax end end main : C3 : integer array; Q : boolean; p : boolean array; e, qQb : boolean array; Xeh0 : integer; chillax end

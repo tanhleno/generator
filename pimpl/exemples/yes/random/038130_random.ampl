@@ -1,0 +1,1 @@
+program w : K : takes B : boolean array; UxZa, _, e1 : boolean returns boolean array chillax end main : when case x - 52200 or Q and 8 or 2 = - false : let f910[26 - 84] = 2 = 8; pop; let M = 91 end case - 5 >= 7 - 68600 : chillax end case not 8 < - 86 : chillax end; input R4 end

@@ -1,0 +1,1 @@
+program PYdaa : Y : takes r : boolean array; D2T, DK : boolean array; WN, i60, q, DL, c : boolean array; x, OK3, DO, Vd5a : boolean; u52, e : integer returns boolean RnK0a : integer; I4 : boolean array; eU : integer; SzQaa, Y : boolean; U0 : boolean; while true and 5 <= 52 : chillax end end main : O, a0H0a, Jyj : boolean; chillax end

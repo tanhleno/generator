@@ -1,0 +1,1 @@
+program P0 : gan0a : takes TG2, Q6l, b : boolean; u5 : integer array returns nothing ic : boolean; do w(- 7 and 045 + 61, - 9, 4 = 98, 6) end S : takes W5, w84a : integer; tL30, Tx, U : boolean array returns boolean array a1D : boolean; chillax end A : takes M, a : boolean returns nothing K4 : boolean; chillax end main : chillax end

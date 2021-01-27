@@ -1,0 +1,1 @@
+program g : main : C : boolean array; L, A : integer; when case true * (1) /= - 6 / q and 1 - (9) + 853 : chillax end otherwise : when case 84 : while 6 : chillax end; pop end case 8 : chillax end otherwise : chillax end end; when case - not 69 and false and 6 : chillax end otherwise : do b(7, 5) end; pop end

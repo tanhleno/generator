@@ -1,0 +1,1 @@
+program G : U2 : takes R : integer array; S8, Q : integer array returns integer I : integer; chillax end main : when case - p(9, 0) / (6) / not 7 and 10 + fGAaa(076) and(0) and 49 : chillax end; do lR8(- 0 > true); while g7 <= - 6 : do Ht9(4, 83) end end

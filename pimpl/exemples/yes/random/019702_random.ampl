@@ -1,0 +1,1 @@
+program HiP : v66 : takes Gfg, wXtaa : boolean array; n800a : boolean; ZG, F : boolean returns nothing chillax end H5 : takes j, f, p, d, Q : boolean array; A, yk : integer array returns nothing N5 : boolean; w : integer array; chillax end main : Cx, k, P : integer array; let N = - hA[8] + 2 = not 062 + 67 end

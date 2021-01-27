@@ -1,0 +1,1 @@
+program n3 : UK6a : takes A : integer array; rA, ZD : boolean returns integer array L : boolean; X8raa : integer; Z : boolean array; input Bg60a end main : do A(Zz00(46)); output "=7!a" . - 5 - 02400 end

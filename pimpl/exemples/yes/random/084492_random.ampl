@@ -1,0 +1,1 @@
+program R6Saa : main : oK : integer; le : integer array; j09a : boolean array; pop; pop true and 34 or 4 - 96; output "KM"; input s[- 2 - 3]; output ""; let Tsy[062] = 5; pop; while 50900 : chillax end end

@@ -1,0 +1,1 @@
+program yT : U : takes _ : boolean; KY8 : integer array; D, h : integer; k5, a, Qi : boolean; Y49aa, S, k, yw3 : integer; J7, w, d : integer; GK, h : boolean; Pv : boolean returns nothing chillax end y : takes S4 : integer returns boolean array rx, I, ZW, hNd : integer; _, RL : integer array; output "J4a" end main : r5Na, Em, E8, L : boolean; n, h560 : boolean; chillax end

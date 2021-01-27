@@ -1,0 +1,1 @@
+program P : main : k, o, w6, T, c11, l9h : boolean array; Qi : integer; V8 : boolean; uk50a, N26, Q3 : integer array; X8f : integer array; m, j : boolean; do Lbg((8 = 0) or not(4) - (06300)); do Y9(not 5 and not 36800, - false and 47 < - 89) end

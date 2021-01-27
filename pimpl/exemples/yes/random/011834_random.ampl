@@ -1,0 +1,1 @@
+program S82 : p : takes H, s, id7aa : boolean returns integer array p : integer; v : integer array; chillax end g : takes vn, L, a, Y : integer array returns nothing pop 34200; do o4(5230 = 159, 2) end main : P7, M6, X18 : boolean array; pop true + 07 and 46; output "/z" . - 272 - 5 > 7 end

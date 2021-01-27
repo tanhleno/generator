@@ -1,0 +1,1 @@
+program UX40 : L : takes C8, E : boolean array returns integer array Mr80, P, b48 : integer; chillax end k2 : takes k, rz20, g : integer array; Z : integer array returns nothing F_8, k7w0 : boolean; bb : boolean array; do F(1 > 6, 87 = 13300); output "^3a" . 04 end j8 : takes p, n : integer array returns boolean chillax end main : do a(- true or not 80) end

@@ -1,0 +1,1 @@
+program a : s : takes R, qo : boolean; x, J : boolean returns boolean output - 1 end main : output not(1) * (520) <= - false and 52 . "K\t"; do d(true, - true and 0560); let J[- (5) and 42] = 3 - 5; input n[6 - 9] end

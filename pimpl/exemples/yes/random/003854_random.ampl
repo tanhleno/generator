@@ -1,0 +1,1 @@
+program mK : T : takes e, s, d, iqq, k77a : integer array returns nothing O, w : boolean; input _[- 4460 and 7 - 176]; pop end main : K, d7, k, z24, K : integer; _, b : boolean; Q, JW : boolean; J : integer; chillax end

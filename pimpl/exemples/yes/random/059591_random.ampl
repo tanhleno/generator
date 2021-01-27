@@ -1,0 +1,1 @@
+program yBx : x : takes ki : integer array returns integer when case false and 8 - 612 - 0 : pop end case - 499 - 0 : chillax end case 1 = 14 : chillax end case 7 : chillax end case 3 : chillax end end main : C : integer array; chillax end

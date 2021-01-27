@@ -1,0 +1,1 @@
+program Z : c : takes wXO : integer array; o : integer array returns integer array r : boolean; Y, q, q0E0a : boolean; while - 44 and 1 - 504 - 22 : while 2 : pop end end end xd : takes z : integer array returns nothing output 3 = 7; input DsN0a[23] end main : F2r : integer array; chillax end

@@ -1,0 +1,1 @@
+program Op70 : L : takes gQa0 : integer; yPFaa, w07, Aj30a : integer; R, L, Q3N, m : integer array; Z, E : boolean; a, U : boolean; yQ5 : integer returns boolean sr : boolean array; V : boolean array; Idb0a : integer array; chillax end main : V : boolean array; U : boolean; I, B, EN, N : boolean array; N, d, NKUaa, h : integer array; chillax end

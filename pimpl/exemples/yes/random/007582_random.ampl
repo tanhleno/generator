@@ -1,0 +1,1 @@
+program P9 : I86 : takes j6, tN80a, VG7, ymF : integer array returns integer chillax end L9 : takes G0 : boolean; b, s, v : integer; K, o : boolean array returns integer array Z : boolean array; pg20a : integer array; while 17 > 96 : chillax end; do r18(3 = 74800, 77); while 05 : pop end; input d; let v1daa = 6320 end main : pop true or true and 0660 end

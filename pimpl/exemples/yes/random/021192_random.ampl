@@ -1,0 +1,1 @@
+program Z110a : y : takes yu, Y3 : boolean array returns boolean input mc1; while - 2 - 6 : pop; while 87800 : chillax end; pop end; output "" . "B1" . "==0"; pop 1; let tBlaa = 44900; do c(7) end main : chillax end

@@ -1,0 +1,1 @@
+program i : Q : takes m, w, vw : boolean; CK : boolean array; m : boolean array returns nothing b : boolean; let e = array - W7 and 08600 - 8 - 6; let F = 738 = 81 end b : takes L : boolean array; xP90, n : boolean array returns nothing b : boolean; w, ud0, S : boolean; dS, hK : boolean; J : boolean; m : boolean; input XI[9920 - 69] end main : chillax end

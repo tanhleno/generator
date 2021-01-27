@@ -1,0 +1,1 @@
+program a : main : ilCaa : integer; M6, r, dp, M9 : boolean; input S3; output "" . 83 - 4 /= 6 . ""; when case - (0) : chillax end otherwise : let F = 08600 end; when case - 5 < 0 : let b = 956 end case 7 = 70 : when case 71 : chillax end; pop end otherwise : output "N"; pop end end

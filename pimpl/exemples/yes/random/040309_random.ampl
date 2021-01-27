@@ -1,0 +1,1 @@
+program _J : o9 : takes t76 : boolean array; AD : boolean returns integer array h19, T : integer array; chillax end main : om1 : integer; x : boolean; Y, q : boolean; while(12 = 33) < - true * n : when case 7 : chillax end otherwise : chillax end; pop; let K7[03] = array 72700 end; when case false : chillax end otherwise : chillax end end

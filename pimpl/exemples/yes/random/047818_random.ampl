@@ -1,0 +1,1 @@
+program T1t0a : O : takes x5 : boolean returns nothing do r(false and 1 < 8 - 8); when case - 9790 - 8010 : chillax end otherwise : input dhz; pop end end main : C, k21, E : boolean array; do g(true and false <= true - not 70 + 614 - 75, L or false and 7 - 99 = - not 9 - 0, - true + 8 < - 2730 - 2, 2 - 1 >= 36300, 541) end

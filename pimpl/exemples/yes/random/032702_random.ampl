@@ -1,0 +1,1 @@
+program R6 : V2Jaa : takes a, MG : integer returns nothing OX3a, _ : integer array; when case 9 : chillax end case - 0 - 7 : chillax end case 8 = 8 : chillax end otherwise : chillax end end main : C : boolean; chillax end

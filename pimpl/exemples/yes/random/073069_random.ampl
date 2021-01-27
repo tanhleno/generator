@@ -1,0 +1,1 @@
+program d : main : M1, G, VA1aa : integer array; let W03 = false; do v(- true, false or 3280, 42 - 8 /= 3, 2, 317, 3); when case false or 735 < 50 : chillax end case 9 : when case 3 : chillax end; do W7X0a(41) end case 75400 : output ""; pop end end

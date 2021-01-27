@@ -1,0 +1,1 @@
+program I : main : c6w : boolean; U8X, c4I0a : boolean; Si40, a : integer array; f : boolean; j1, Q : boolean array; while - false rem not U1 = false : chillax end; when case q(3) or true : input o0 end case 76 and 217 or 02 - 37800 : chillax end; input t[I9i and 16 or 7] end

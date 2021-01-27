@@ -1,0 +1,1 @@
+program l660a : U6 : takes z6 : integer returns boolean n : integer; o : integer array; output - 736; input v[- 5 - 72]; input t end T : takes h : boolean returns nothing xQ0 : boolean; j, W7o0, I : boolean; chillax end main : e6, abo, s3 : boolean; Xl7, v7, fd8, J, Z, GB4a : boolean; chillax end

@@ -1,0 +1,1 @@
+program uL : _LO : takes S540a : boolean array; I0m0a, aaGaa, v39 : boolean; Wk, Pj2, J, ks, x : integer array returns nothing let J5ka = array - not 97; let R[- 7 - 1330] = 191 = 142; input D[1] end main : output "\"\\a" . "-e" end

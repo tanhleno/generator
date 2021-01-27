@@ -1,0 +1,1 @@
+program e : main : JsZa, Q, I, Z, t, Y, iJ : integer array; g, r : boolean; Lwy, W : boolean; Y_ : boolean; j2 : integer; do S((294) rem(2) or false * not 56900 and 1 or not 08 /= not true / false or true); do K((60) and k6 or false and 7 /= - 3 or 26 - 2, - false + 6 > 2 - 4); input a; do u(6 - 3 = 8) end

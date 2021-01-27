@@ -1,0 +1,1 @@
+program Pl : g2 : takes m, H, _ : integer returns integer XK : boolean array; n : integer; pop; let Lpc0a[- 00900 - 588] = 8 = 9; when case 7 : do y9t(8) end; let r[0] = 4; while 26 : chillax end end main : pI : integer; chillax end

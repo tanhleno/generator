@@ -1,0 +1,1 @@
+program G : a : takes Ig : integer returns boolean array input q; let b2laa[6 - 4] = array - 7 - 7 end B : takes Ra : boolean returns nothing n, w69 : boolean array; chillax end main : R : integer array; v8T, eB4aa, p, j : integer; mzF : integer array; chillax end

@@ -1,0 +1,1 @@
+program Q5 : F : takes _, f7 : boolean array; GIX0a : boolean; J : boolean returns boolean array let Y = array - 6 end main : Me : integer; AFa : integer array; let f[- true + j[16300] and t_u0a and 4740 + true and 5 - 6230 - 93900] = array - true / 8 and(7) and 51 end

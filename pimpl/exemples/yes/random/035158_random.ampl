@@ -1,0 +1,1 @@
+program f9 : u1 : takes rF : boolean; Tg7, hGX : integer array returns nothing pop 7 < 753 end main : Yo20 : integer array; when case not 87 : when case 3990 : chillax end otherwise : pop end end end

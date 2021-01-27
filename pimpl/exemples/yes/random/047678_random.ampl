@@ -1,0 +1,1 @@
+program R : n : takes LM : boolean returns nothing chillax end main : R6A, p : integer array; v7, w7 : boolean; U, g, M : integer array; hUF : integer array; R, j : integer array; r8, N420a : boolean; oP60a : boolean; let p34 = array - (4 = 0) and false and 4 and 9 + true - l and 8 or 1 - 6 end

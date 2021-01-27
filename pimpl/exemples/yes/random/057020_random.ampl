@@ -1,0 +1,1 @@
+program pkX : gb6 : takes u : integer array; m1Aaa : integer array; D : integer array; NSj0, I1, m, j : integer array; E, jmn0a : integer array returns nothing chillax end main : when case - false * false > - false * true and 0 + true - 2 : chillax end case - true rem true and 5 > - (76400) : chillax end otherwise : chillax end; pop true >= 374 end

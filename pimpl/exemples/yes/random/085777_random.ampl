@@ -1,0 +1,1 @@
+program _69a : main : Y : integer array; H6k, E8faa, G1n : boolean; eR8a : integer array; when case not not true + false - (460) /= false * 4 and 12 - (70) : chillax end case true : let h[1] = array 30 end; output not 0 and 3 - 8 . 88 - 890 = 10 . ""; input l end

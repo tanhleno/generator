@@ -1,0 +1,1 @@
+program c5 : v6T : takes H8, N240, _ : boolean returns nothing output - 3 <= 7; do I8(- 88 - 25 = 563); pop 3; let h = 7; output "0\"!" end main : l, q : integer array; do M(- true - H * 24 and 989 + (30) and 8 - 0 >= true * true and 270 - W); output - true < - 35; pop - 4690 end

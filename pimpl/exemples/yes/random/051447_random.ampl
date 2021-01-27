@@ -1,0 +1,1 @@
+program a : a : takes U2D0 : integer; A : boolean; M3 : boolean; F8 : boolean array returns nothing b : boolean; X, z, p1w0 : integer array; let Q[8] = - 7620 < 67; output "" . 7 . "1" end main : let g[- true * (8)] = - 5 or true + 68 = - 88800 end

@@ -1,0 +1,1 @@
+program tK4a : t : takes z8 : boolean array; n, Y, I, p : boolean array; W, Z7Q : boolean array; v22aa, Hq : integer array; YO1, fH6 : boolean; i, pA : integer array returns nothing ds3, mRja : boolean; Oa : integer array; j3F, R : integer; R870 : boolean; e : boolean; i580 : boolean; chillax end main : QB : boolean; chillax end

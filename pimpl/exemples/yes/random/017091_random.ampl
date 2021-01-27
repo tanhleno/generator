@@ -1,0 +1,1 @@
+program r : aj : takes G44, V : boolean; v, b, i000a : integer array returns nothing chillax end main : let vKs[- (6)] = wuA < true or 50600; when case - true : input N[1]; do yB(2, 2); let c = 7 end otherwise : while 0 : pop end; output "" end end

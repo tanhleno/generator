@@ -1,0 +1,1 @@
+program J : main : Om7 : integer; F, iJV0a : boolean array; f4 : integer array; output not false > - not 38 or 7 - 698; when case - 5 - true > (4) and 47 - 0 : let H = array 156; do Q(8) end otherwise : while 55300 : chillax end end; let b[604 and 74] = - 8200 - 57 = 00 end

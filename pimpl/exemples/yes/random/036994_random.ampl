@@ -1,0 +1,1 @@
+program P : q : takes S : boolean; g : integer array returns integer array p7 : integer array; chillax end v : takes y, Z : boolean; F97, N : boolean array returns integer I7 : integer array; when case - 2 - 7 /= 3 : chillax end; do PR(8 = 2, 9); input P[3]; pop end main : u16 : integer; input s0; while not not 12800 or true and 3 + 07 : chillax end end

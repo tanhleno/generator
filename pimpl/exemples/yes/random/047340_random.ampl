@@ -1,0 +1,1 @@
+program L : Z : takes W : boolean returns integer when case - jOkaa and 3 /= - 1 - 0120 : output "9" end case 309 : do K1(74200) end; pop 3 = 36; while 2 = 4 : chillax end; output 976 . ""; input Y end main : C : boolean; pop; output ""; output "9"; let i[- 0 - 0240] = array 39 - 93; let K[9] = array 4130 end

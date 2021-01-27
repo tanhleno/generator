@@ -1,0 +1,1 @@
+program l2J : c : takes M : boolean array returns integer array b9oaa, d : boolean array; U, q, y, e4Ja : boolean; chillax end R : takes b7o : boolean array returns integer chillax end B : takes Dwoa : integer array; gk : boolean array returns integer array let o8ma[9] = 5 end main : chillax end

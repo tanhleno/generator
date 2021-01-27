@@ -1,0 +1,1 @@
+program X4 : main : when case(4 = 5) and(3) - false / true and 25 >= - true : input e; let y = 5; do n(414); input x; input Z end otherwise : chillax end; pop; output - 03 <= 5 . "\\"; input O; output 4 end

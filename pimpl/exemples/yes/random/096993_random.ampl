@@ -1,0 +1,1 @@
+program SYP : main : when case L = - not P or false + 4 : input X2Taa; when case 47 = 7 : chillax end case 39800 : pop end otherwise : pop end; output 9 end case true rem false and 5 + true + 340 - 23 : chillax end case - e4 and 0 >= - 169 : pop; when case 9 : chillax end end otherwise : chillax end end

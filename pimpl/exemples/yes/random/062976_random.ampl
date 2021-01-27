@@ -1,0 +1,1 @@
+program E : tz4 : takes uf80 : integer returns integer array l0 : boolean array; Y2, H4, X7laa, l : boolean array; input h; pop 90 end main : f : boolean; while - (19) rem(091) / false : let gM40a = array 0; do k(3 = 7, 861, 5) end end

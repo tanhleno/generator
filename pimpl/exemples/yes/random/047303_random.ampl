@@ -1,0 +1,1 @@
+program G : M2i : takes S : boolean returns integer output "" . 80 = 59200 . "" . 76 . ""; input GFh[- 10 - 02700]; when case 96100 = 6 : chillax end; output 19; input v; while 57 : chillax end end z : takes _, F22 : boolean returns nothing T8G, Q : boolean; let MA0 = 324; do zH(2 = 7, 9); pop 7; let jc = 6; input G7z0; pop end main : J, g : boolean array; input _34[not 3] end

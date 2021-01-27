@@ -1,0 +1,1 @@
+program T : B : takes h : boolean array returns nothing I35, _3Iaa : boolean array; chillax end main : do c((19) and l6(2) or i(79600) or 376 and 2 - 8 - 99 < - (85) + (10) and 44100, - false * not 9 - true + 925 - 8, - not 2 and 3) end

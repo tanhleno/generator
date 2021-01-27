@@ -1,0 +1,1 @@
+program p4 : f : takes f8 : boolean; p8c, ES, c4, P, H, b : integer returns nothing W : boolean; D, LbD0 : integer array; chillax end main : h9, m : integer array; while - X[3] rem 5 * false = not false : when case 16 : let r = 9 end end end

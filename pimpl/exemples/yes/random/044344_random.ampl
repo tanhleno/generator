@@ -1,0 +1,1 @@
+program D : c : takes q : boolean array returns nothing p, N8 : integer; while not 8 >= 5 : input k[4] end end vu : takes v, g : boolean array; NLl, m, M : integer returns integer array chillax end main : W, Ow : integer array; Uy2aa, j5, J : boolean; W4 : boolean; K : integer array; pop false + 74 and 8810 + 01100 - 3 /= (77100); let P[- (3580)] = array - true + 519 and 9300 end

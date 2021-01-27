@@ -1,0 +1,1 @@
+program Q : main : y, d, i, KV, f : boolean array; MJ : boolean; M : integer array; F2 : integer; w0 : integer array; when case - true + 9550 - not 37 or 84 - 9 : output ""; when case 2 = 4 : chillax end otherwise : pop end end otherwise : chillax end end

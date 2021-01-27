@@ -1,0 +1,1 @@
+program J340 : T : takes J4r : boolean array returns boolean array omDaa, u : boolean; pop 3; output 23 = 2 . 9 . ""; do NI(6 = 32) end main : let a0O = - 5 * Ky and 9 or 0; output - true and 875 or 7 <= - 7 - 47 end

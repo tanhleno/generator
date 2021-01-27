@@ -1,0 +1,1 @@
+program x : main : do N(false or false / false - (73) and 0 > 78 + e and 0 + 426 - 6, - not not 48 * false >= (8) and 21 + 5, 1); while(84800) / false or not 8010 + 271 >= g - 3170 - 632 : while 193 : chillax end end end

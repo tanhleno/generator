@@ -1,0 +1,1 @@
+program I : k : takes S : integer array returns nothing f, T, G, B : integer; Y5, rh0, Yq2 : integer array; let e2[u and 640 + 9] = 53200 - 7; do ghz(816, 9 = 8) end yg80 : takes NX_aa, DQB : boolean array; YN : boolean array returns nothing F1 : boolean; K : boolean array; do p(- 3010 > 66) end main : chillax end

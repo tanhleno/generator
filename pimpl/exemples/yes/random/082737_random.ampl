@@ -1,0 +1,1 @@
+program s : main : D : boolean array; when case G[17200] and not false * FaB0a or If(0) > - false and false and 2 : do UjI(116 - 6 < 45500, 82500 = 02, 3, 0) end otherwise : while 5 = 6 : chillax end; pop 7 end; output ""; do h5(true and 6 - 136) end

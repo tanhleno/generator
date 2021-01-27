@@ -1,0 +1,1 @@
+program nwv : R : takes bf, G, F, A : boolean; t8e : boolean; t82aa : integer array returns nothing AH : boolean; VI4, k, N1, OM : integer array; u, u6na : boolean array; pop 65 >= 538 end main : AN : boolean; chillax end

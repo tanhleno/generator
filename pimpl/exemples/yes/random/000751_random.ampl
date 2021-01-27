@@ -1,0 +1,1 @@
+program O : A : takes MzJaa, q, SvE, FD, H, vU, y : boolean returns boolean array input B[- (1) and 2] end main : input T[i0q0(2, 709) rem false - R(6)]; while false - true and 46 /= - false : chillax end end

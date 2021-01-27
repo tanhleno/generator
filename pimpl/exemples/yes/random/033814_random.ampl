@@ -1,0 +1,1 @@
+program Z59a : Iq20a : takes w4S : boolean; h, O, i : boolean array; h5, x : boolean array returns nothing W, W, V : integer; pop end j : takes KW : boolean returns nothing F : boolean; E700a : integer; o030a, FQ : boolean; ZbW0a : boolean; chillax end main : n9, o, v : integer; tW, W, cI : integer; input y0[true] end

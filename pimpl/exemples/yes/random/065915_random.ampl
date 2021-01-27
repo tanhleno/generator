@@ -1,0 +1,1 @@
+program E : main : do N(- (0 = 62) + T[32] + 4 and 6 or 33 - 91900 < - m4 / W and 1, - a + not 611 and 179 + 94500 /= true and 4 - 30, Tr30a and 4); pop; when case false + 4 - 0 : chillax end case - 51 = 30 : input C; let u = 552 end case 3 = 6 : chillax end case 7 : pop end; do a79a(48 - 38, 6 = 966) end

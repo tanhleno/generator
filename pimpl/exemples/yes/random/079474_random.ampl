@@ -1,0 +1,1 @@
+program O2Da : main : n : boolean; Y : boolean array; when case - 000 rem G(1) / false /= - not true - not 68 : chillax end case j(6) * true and 8 : chillax end case 1 and 7 /= 0 : chillax end otherwise : input Z4[06] end end

@@ -1,0 +1,1 @@
+program EN : main : j : boolean array; nk : boolean; input Cvn0a[not(86) or not(3)]; do P(K and(7) and 6 >= - 9 and 7 - 73400, - 2 and 07 - 6, - 556 - 5, 69200); while - (4) - 3 /= 7 - 6930 : chillax end; when case 2 - 9 : while 2 : chillax end end; do W(33100, 9, 3); when case 7 : pop end case 9690 : chillax end otherwise : chillax end; while 6 : chillax end; pop; pop end

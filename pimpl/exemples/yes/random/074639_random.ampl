@@ -1,0 +1,1 @@
+program O : main : zUP, J2ka : boolean array; Ka, DY, F, Zi1aa : boolean array; B : integer array; when case false * not not 55 rem 22300 and 750 >= - not(64400) / true - (4) and 257 + 4 : chillax end; do n0((6880) - (13) - 40 - 49900 >= - not 1 or 1 - 2, - (62), 89 - 825 > 0, 19) end

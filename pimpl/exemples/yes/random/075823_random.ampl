@@ -1,0 +1,1 @@
+program V8Y0a : main : M, vaA : integer; do S(j7, - not true /= - false); input d[not not 9 * yq8a - V and 36]; when case 679 : let l[1560] = 148; input Nm90a; do e(71) end case - 4070 : when case 8 : chillax end; while 490 : chillax end; pop end case 0 : chillax end; do L(- 1, 3 = 0) end

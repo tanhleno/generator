@@ -1,0 +1,1 @@
+program Y : m : takes m, F, A7, G : integer; I, iG : integer; a8 : integer array; Y8, k, h2, U7, M : boolean; d, p : boolean returns nothing chillax end main : A, n12, r, DZ : integer array; pop - true = (01) and 02700 or 18 end

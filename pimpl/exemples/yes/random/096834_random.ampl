@@ -1,0 +1,1 @@
+program A : main : when case false >= 017 : when case 7 = 8 : pop; when case 3 : chillax end; pop end case 818 : let l = 5 end case 5 : pop end end case false and true and 0 or true and 3 or 4 - 12 : chillax end case - true and 49 or 9 - 6 /= - 96 - 95 : chillax end case 5 - 1 : while 4 : chillax end end case 1 = 862 : chillax end case 2 : chillax end otherwise : pop 5 end end

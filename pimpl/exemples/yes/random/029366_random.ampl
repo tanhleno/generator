@@ -1,0 +1,1 @@
+program v59a : AN3a : takes wu, Ry : integer array returns boolean array G : integer; M9, p6 : integer; while G : chillax end end main : i, ky, iD, g : integer; while Gb70 rem true - false * 2 <= - not false / false - not 02 : chillax end; input qYl end

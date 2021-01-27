@@ -1,0 +1,1 @@
+program h : A : takes e6G0, w : integer array; l : boolean returns boolean let Hm[- true or 082] = array - z250 - 4 - 36 end P : takes n : integer; O : boolean; c5 : integer array returns nothing o3oaa : integer array; Z, f, o : boolean; r, p : boolean; W : boolean; v : boolean; output 469 end main : V : boolean array; chillax end

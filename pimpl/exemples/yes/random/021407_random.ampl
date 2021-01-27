@@ -1,0 +1,1 @@
+program Y4 : J : takes V46, h : boolean array returns integer array RH : boolean; l : integer array; q, b1, dJ9 : boolean array; output 5 - 9; pop end main : p, q30, LG, Ub, z4, p : boolean array; output true / (026) and 80 + (53) and 1 > - true and 05 . (9) and 5 + 8 - 9 . 64 end

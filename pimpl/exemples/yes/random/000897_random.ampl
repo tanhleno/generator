@@ -1,0 +1,1 @@
+program z : L : takes nC20, m4, Y4i, p, Kb3aa, Qwn, H : integer array; m43 : boolean array; g, O, f8, a, T, w : integer array; T : boolean; V : integer; doC : boolean array returns nothing do E((0) and 57 or 6) end main : z : boolean array; bS : boolean array; chillax end

@@ -1,0 +1,1 @@
+program nK : t92a : takes C : integer array; A : boolean array returns integer r : boolean; K, M9 : boolean array; n, z, _ : integer array; o, o : boolean; do n7((9470) and 2 >= - 857, - 9 - 1); while 7 : chillax end end main : chillax end

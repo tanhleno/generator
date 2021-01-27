@@ -1,0 +1,1 @@
+program M4 : gW : takes S8j, jY50a, x : boolean; G3, H : integer returns nothing g6, y, u, q89a, WG9aa : integer array; aV : integer; input Fz; input y[91600 - 3]; pop 9; do V7C(741); do p(6) end main : while - 81 + true or(37) : when case 6 > 8 : chillax end case 8 : chillax end end end

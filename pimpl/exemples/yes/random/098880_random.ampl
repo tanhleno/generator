@@ -1,0 +1,1 @@
+program T : main : while - true * 94600 or 91 : when case - 19 - 9 <= 2 : chillax end; when case 6190 : when case 0 : chillax end end case 6370 : chillax end case 19700 : chillax end otherwise : pop end; pop; do P2(98) end end

@@ -1,0 +1,1 @@
+program C4Z : main : o, h16 : boolean; qb, up : boolean; input o[- true and false]; when case false + true and 9 : chillax end otherwise : input H; do Q(6280); when case 83 : chillax end end; do l5((97) and 5 or 67 < 0) end

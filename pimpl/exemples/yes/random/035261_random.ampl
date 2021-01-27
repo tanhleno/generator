@@ -1,0 +1,1 @@
+program z : Z : takes p : boolean; e52, y : integer returns nothing D420a, D, l, G : integer array; let Z[- 3 and 8 or 3] = array 0 and 1 + 4; output 6 = 26 end main : hf : integer array; d, C3I, v : boolean array; while not(5) * true : pop 70 = 9 end end

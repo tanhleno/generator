@@ -1,0 +1,1 @@
+program P : o7 : takes L9 : integer returns nothing while(3) and 9 < 89 - 5 : while 129 : pop end; output "2" end end sdf0 : takes u : integer returns boolean do o9(- 2 - 2090); do D(174 = 3); input V; pop end main : Yn : integer; chillax end

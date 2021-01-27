@@ -1,0 +1,1 @@
+program l : gnk0a : takes HuXa, z : boolean; h : integer; J, k, Y, y : integer; C, r9, t8 : boolean returns nothing let e0_a = 7 - 0; pop 8 = 54; while 25 = 70 : chillax end; input V end G : takes k, z : integer array returns nothing input G end main : H6Qaa, p : integer array; chillax end

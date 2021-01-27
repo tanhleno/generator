@@ -1,0 +1,1 @@
+program q : main : j, d : boolean array; input y[- Ht[281] and 8 rem false and 6250]; let Qb3 = F6 and 8 or 8 - 7 = 2; while(2) or 2 : do N(51, 3); do l4t(7) end; do x(- 1 = 9, 30); when case 6 : chillax end case 8 : pop end end

@@ -1,0 +1,1 @@
+program jz : y7j : takes W, w8 : boolean array; Z : integer; o : integer array returns nothing Xc30a : boolean array; chillax end main : n1, Q : integer array; _2, L, Rr, NPU, j, np : integer; while false * w7 and g410 - false : pop 1 = 6230; output "" end; while - (5) <= - true and 17 or 7 - 39 : do R(2 = 63, 81) end end

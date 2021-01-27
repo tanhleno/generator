@@ -1,0 +1,1 @@
+program D : KXz : takes I : boolean array; A3 : boolean returns integer array do _46(- not 6 and 3 <= - 21); pop 0 = 341; while 7520 = 2 : do _(4) end end main : q, T, VEqaa : boolean; do Y(- 01 rem 2 * false and 9 > - true and 3 and 16300 or not 9 and 02, - false); while - _(2) + not 25 and 596 : chillax end end

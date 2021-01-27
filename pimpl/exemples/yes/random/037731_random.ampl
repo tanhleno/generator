@@ -1,0 +1,1 @@
+program R4c0a : N8 : takes Ji9 : boolean array; M, d, m, Ia : boolean array; u0O, XJ10a, U, c5, vWG : integer; t : boolean; AT40, W : boolean array returns integer input T43[- not 1 and 69 + 2 - 99]; do I(36500, 6, 72100, 81); do R1(34 = 83, 1390, 56) end main : output(11000) - false + 67 < - wsU and 05 + 8 . ";" end

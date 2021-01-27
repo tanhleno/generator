@@ -1,0 +1,1 @@
+program I : r3 : takes Rj : boolean; N2, i, R, hq50a : boolean; j, S, w, Gf5 : integer array; y90, t : boolean array; PtTaa : boolean array returns boolean output 3 - 9 <= 79 . "" end iJ : takes Aw : integer array; L : integer array returns boolean array chillax end main : k, H, G2 : integer; chillax end

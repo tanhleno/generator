@@ -1,0 +1,1 @@
+program N5 : x : takes Z, y2qa, v94a : boolean returns nothing C, B : integer; Z, q9 : boolean; when case(1) : do d2(083) end end main : YCy : integer; S0 : boolean array; when case - P or true rem 3 /= - 017 - false : chillax end case - 1 rem _B and 59 <= - not 1 and 115 : pop 18 end case(7) + 7870 - 44 : do H(8, 4) end; let OJ = array 65 * (0) or false end

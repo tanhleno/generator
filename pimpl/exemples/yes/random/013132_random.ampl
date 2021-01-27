@@ -1,0 +1,1 @@
+program t : K : takes g, l, yj7 : integer; Y : boolean; CE9 : integer array returns nothing while - not 0 and 62 + 2 - 06 >= - 501 : when case 3 : chillax end; pop; pop end end M : takes U : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program V : Jh : takes T, l, s, Y : boolean returns nothing N, SQt0a : integer; chillax end Y : takes Nt1a, U : integer returns boolean array chillax end main : K : integer; D, Q3 : integer; Ne, k2 : boolean array; OA : integer array; H9, Jj : integer; P, Zy : boolean; input K; input y[not not 52 or 9070 and 0 + 63] end

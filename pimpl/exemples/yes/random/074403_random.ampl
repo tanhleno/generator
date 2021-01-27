@@ -1,0 +1,1 @@
+program V : main : ENUaa, x : boolean; when case not false / not(0) * true or(682) and true : input o[236 - 13500]; input w[16] end; let f[true * 7 and 4 or 3 and 73300 or 48] = - (1) - 0 - 45; let k6 = array - X or 95300 - 5 end

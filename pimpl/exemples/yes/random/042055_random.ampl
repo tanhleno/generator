@@ -1,0 +1,1 @@
+program Oa : _ : takes Yt : boolean array returns boolean Z, oV, mB, R1X0, Yo2a : boolean; xr : boolean array; rN, s, Fn1 : integer array; chillax end main : pxG : boolean array; output(7) or true and 1 + 0 - 23300 > - true . not 26 - 7 . "\""; let EX[3 and Ple0] = - false end

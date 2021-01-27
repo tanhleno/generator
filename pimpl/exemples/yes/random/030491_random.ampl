@@ -1,0 +1,1 @@
+program F99 : BNW : takes g5, f3 : integer array returns nothing o, b, u1xaa, k : integer; chillax end xF5a : takes RG : boolean array returns boolean array chillax end main : let Y = true / true or true and 74 + 96 - 417 end

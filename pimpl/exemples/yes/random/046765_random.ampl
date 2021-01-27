@@ -1,0 +1,1 @@
+program N : s : takes m : boolean returns integer array EFZ0a : integer array; input vE; when case - 4 : chillax end otherwise : while 625 : chillax end end end XsMa : takes N, l9M : boolean; N, P, LU : integer; U : integer array; TH7 : boolean returns boolean output "" . "" end main : r, rO : boolean; l, VA7, M, N, O, SF : integer; pop(8610) * false and 52 end

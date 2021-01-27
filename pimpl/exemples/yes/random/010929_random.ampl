@@ -1,0 +1,1 @@
+program r : u : takes N, ct, ro : boolean array returns integer d, w, A, R90, u : boolean array; w, K : boolean; n46aa : integer array; while not 6 + 7330 : do m(113, 5) end; let nF[61] = 1 = 24; let GdL0 = 4; let YAOaa = 1; while 4 : chillax end; while 93 : chillax end; pop end main : chillax end

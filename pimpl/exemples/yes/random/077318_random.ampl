@@ -1,0 +1,1 @@
+program fe40a : main : g, F69aa : integer array; G2, fe : boolean; pop; while - 08 / false >= false - 05 - 598 : chillax end; when case not 2 - 8 - 2 : chillax end otherwise : chillax end; pop; pop end

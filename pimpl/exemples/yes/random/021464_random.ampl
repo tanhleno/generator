@@ -1,0 +1,1 @@
+program O81aa : jVK : takes Nt5, a : boolean array returns integer array m5W0a : integer array; while not 5 and 16 /= 3 : chillax end end main : pop; let L[(6)] = not 3 and 1 or 2 - 2; pop - 3 - 98; output "" . "W\"" . 21 . "" end

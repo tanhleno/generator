@@ -1,0 +1,1 @@
+program W7 : mJM0 : takes raeaa, r6 : integer returns boolean d : boolean array; let R = - 03 - 4 > 2 end X : takes e1, xy0, D : boolean array returns nothing input g; pop; input B; input E4a; do U(33) end main : Yx, x : boolean array; when case not A0b and true - eg7aa or not 9 and 14 - 12 = Q4 * T750a and 41 - E and 56 : do O2(- 408 - 6 >= 9) end; output "9" end

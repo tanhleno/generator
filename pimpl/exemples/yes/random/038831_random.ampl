@@ -1,0 +1,1 @@
+program C : Q : takes E : boolean array; m, T : boolean array returns nothing let T3X[- 98200 - 5] = array - not 97 or 2 - 06 end main : S, l : integer array; output - not 569 rem not 4400 + U; let d4n0[true - 0400 and 0910 or 1] = array N(59200) end

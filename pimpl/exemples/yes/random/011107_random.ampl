@@ -1,0 +1,1 @@
+program P7 : N : takes G, i040a, yJ4 : boolean array returns nothing chillax end main : C : boolean array; W2Waa, KU70a : integer array; bl, EvY, B : integer array; let zu = array - (7260 = 6240) and xp4[3] / 5890 and 1240; pop l or 6 - 74 = - 23 end

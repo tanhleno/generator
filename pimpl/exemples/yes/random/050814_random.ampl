@@ -1,0 +1,1 @@
+program V : cG : takes Et : integer; s, QMmaa : integer; X9, n, A : boolean; Ix : boolean returns integer Pk : boolean array; pop - 331 <= 38; do x(- 0470 - 6, 668, 08, 7540); input W_[6] end qk : takes O : boolean returns integer while 580 - 7 : output ""; do V6N0(3) end end main : d800a, EO00a, r8t, O7Iaa : integer; Aw, S5 : boolean; R62, v, rw0aa : boolean array; chillax end

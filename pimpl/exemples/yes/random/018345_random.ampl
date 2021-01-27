@@ -1,0 +1,1 @@
+program EN : P7 : takes bm9a, h7 : boolean; i4c : integer array; Y : integer array returns integer k5H, y1m, Gx00, b4 : integer; ps, k, A6 : boolean; chillax end main : do Yw10(r(70600) rem true = true rem(7480) and 7860 or K and 80 - 8 - 81700, - not not 021 / not 3) end

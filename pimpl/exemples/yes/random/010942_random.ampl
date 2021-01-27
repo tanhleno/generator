@@ -1,0 +1,1 @@
+program HK : I3va : takes J8T, H9, G3H : boolean array returns integer m5, y58, QQ7a : boolean array; let w[- not 7 and 864] = array - false and 08 + 069; when case - 89200 : chillax end otherwise : let Z0 = 92 end end main : _, TZ, U, g : integer array; output "\"" . ""; let t[- not true * false and 50] = array not WDJ / (4) end

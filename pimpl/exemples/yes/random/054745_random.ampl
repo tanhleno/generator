@@ -1,0 +1,1 @@
+program U : z : takes d : integer array; U, Q : boolean array returns nothing input X7[- 99 - 9 - 40200] end L2 : takes sa, V9, _r2 : boolean array returns nothing p, Lq8 : integer; t130 : integer; pop 019 = 9 end main : chillax end

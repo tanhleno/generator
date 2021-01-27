@@ -1,0 +1,1 @@
+program f : q : takes J7 : boolean array returns integer MS, pW2 : boolean; chillax end U : takes TKf, L : integer array returns nothing t9 : boolean array; WM : integer array; I : boolean; input xod[0 - 4] end main : o, Jy : integer array; E, T : integer array; XI6aa, I, b, e, hr5 : boolean; gh, d, _, I : boolean; pop; let C7[false / (1) + true] = not 787 and 6 - 6 - 6070 end

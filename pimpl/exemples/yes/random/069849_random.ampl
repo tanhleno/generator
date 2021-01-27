@@ -1,0 +1,1 @@
+program j1 : main : pI, Ys0a, H4, s : boolean array; U : boolean; E, E880a : boolean array; while - false + true and true >= - 37 rem(1770) - 05 or 1 - 67800 : when case 2 : output ""; output "\n"; pop end otherwise : output "+\t"; pop end end; pop(3) and 32 <= 42; let g = - 3400 < 11 end

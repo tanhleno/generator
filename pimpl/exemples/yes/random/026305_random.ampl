@@ -1,0 +1,1 @@
+program f : I : takes j, Mi : integer; Q : boolean array returns nothing chillax end main : YZsa : integer array; pop J5 and(555) and 7 or false and 5; when case s[42] * (38) and 846 - 1 + 32 - 2 : chillax end otherwise : do d(18) end end

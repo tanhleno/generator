@@ -1,0 +1,1 @@
+program b : Q : takes r_, NZ, i4, t, I7 : boolean; j, CJU, E : integer returns integer array L3yaa : integer; K : integer array; p, f1Ga : integer array; t5 : boolean; when case - not 208 = - 3 : chillax end case - 847 < 0 : while 6 : chillax end end case 7 = 3 : input y; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program v7 : Q : takes _ : boolean returns nothing Y6l, qD : integer array; let h[true and 4] = array(71600) and 54 or 5 - 416 end main : v4 : integer; G, EH, D, R7d0, k14, KI : boolean array; chillax end

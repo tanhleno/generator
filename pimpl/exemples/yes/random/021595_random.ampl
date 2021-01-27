@@ -1,0 +1,1 @@
+program m5 : e : takes m, EnZ : boolean array returns integer do NB4((238) and 23600 + 6 - 027 >= - 803 - 967) end GH10a : takes p, b : boolean array returns nothing Y : integer; pop; input m[44] end main : chillax end

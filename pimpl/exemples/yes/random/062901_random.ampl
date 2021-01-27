@@ -1,0 +1,1 @@
+program Zg00a : E : takes Rn6aa : integer returns integer array jN, l : boolean array; p7z : boolean; chillax end main : input C[- (43600)]; pop false > - 2 - 6350; when case - false and 1 = - 6 : chillax end case - 0 - 06 : chillax end end

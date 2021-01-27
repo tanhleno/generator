@@ -1,0 +1,1 @@
+program x : u : takes wl70, H : boolean array returns nothing chillax end main : H : boolean array; u : boolean array; let e[- (8) + true] = - true; when case(19) + g8 < 9 and 2 - 02200 - 9 : let C = array 27800; let X[4] = array 6680; input e3; let G = 0; pop end otherwise : chillax end; input b; output 23 = 22 . "\\\"0a" . "\\{!" end

@@ -1,0 +1,1 @@
+program s5 : I : takes o, J : integer array; _C : boolean array returns nothing chillax end WA : takes O4V0 : integer; u : integer array; Yr : boolean array; R2 : integer array; He : boolean array; q, G5 : boolean; h : boolean returns boolean V330, z2 : integer array; ILo0, N, S : integer array; z, f : boolean; pop end main : chillax end

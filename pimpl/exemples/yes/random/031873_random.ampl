@@ -1,0 +1,1 @@
+program f2 : d8L : takes n1C0, i5 : integer returns integer array Q : integer array; e : integer; s, H, j2 : integer array; f6 : boolean; while - V and 1 + 73 - 6 <= - 8 - 2 : chillax end end main : s78 : integer; u, T, J250a : boolean array; let b[false - 3 and 8 and 300] = array not(980) and not true - not true * true - f0 - 1; pop 49; let A = array not 3 and 84 - 1 end

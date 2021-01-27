@@ -1,0 +1,1 @@
+program SN : w : takes Ri : boolean array returns integer array chillax end k : takes t : integer; A5q, v : integer; A : integer array; J3, c : boolean returns nothing ekJaa, B, L6, y : boolean array; CG : boolean; _N : boolean; when case - 3 : chillax end otherwise : while 7 : chillax end; pop end; pop end main : let Mn = - (38) end

@@ -1,0 +1,1 @@
+program wHj : r : takes J, r, C : integer returns nothing do h((07) + 698 - 0) end B4 : takes ac : boolean array; F12 : integer returns boolean array let G8p0a = array - 8 - 518; let qDG[2] = 8; input J8[1]; let s1 = 1 end main : chillax end

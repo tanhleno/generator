@@ -1,0 +1,1 @@
+program Pv : main : w : integer array; Q3, R270, c, qY50, n : integer array; do Y(w[8] > not YM and e or not 66 and 3, not 4 * false and 821 - false); pop not 8; output - 3 - 0640 . "?\t" . 5 . "\t\ta" . ""; while 2 - 21 /= 5 : do s0(4) end; input j6I[7] end

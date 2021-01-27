@@ -1,0 +1,1 @@
+program I0 : X : takes n, e6e : boolean returns nothing b650, NO, a : boolean; O : integer array; Y : boolean array; pop end main : U : boolean array; g8paa, z, E : integer; O9, Y, R32 : boolean; M3t : integer array; input h[- not true and false * false] end

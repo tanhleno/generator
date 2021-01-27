@@ -1,0 +1,1 @@
+program o : T : takes F, D : integer array; ub_, UPka, I1Q, W : integer array; A6raa, Dloaa : integer array returns integer do oS((0) >= 110) end main : p, Z, f80a, h41 : boolean; V, Lk : boolean array; u, D : boolean array; v39, r, N, kH10 : integer; chillax end

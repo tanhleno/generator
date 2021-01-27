@@ -1,0 +1,1 @@
+program i7m0 : t : takes x5 : integer; Y : integer array returns nothing i, R, qw : integer; output "" . "" . 4 . ""; output 2 = 3 . "?"; when case 55 = 05 : chillax end case 8 : chillax end case 35 : chillax end otherwise : chillax end end P : takes j, X, m : integer array returns nothing e, i, gAy, c3 : boolean array; chillax end main : chillax end

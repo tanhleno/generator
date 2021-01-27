@@ -1,0 +1,1 @@
+program B : main : kF : boolean array; let F[not true / 4 and false and 8 - (0) * not 61 or false] = array false; while - not false or(2) and 43 + 4 - 6 : chillax end; when case true and 87 + 4070 - 81 : chillax end end

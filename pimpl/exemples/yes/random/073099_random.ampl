@@ -1,0 +1,1 @@
+program a : main : UT7, k, U : integer array; output - J2(8710) rem n and 45 = - true - 55; when case - (37) / false : chillax end case - true and 9 - 8 : while 6 : pop end; input AXP; let s7 = 4; pop end; let F[- not 8 - 627 - 51] = - 20000 - 2 = 55 end

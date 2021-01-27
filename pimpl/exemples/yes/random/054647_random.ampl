@@ -1,0 +1,1 @@
+program e : W : takes Xo20a : integer array; S, g : boolean array returns boolean array while - true and 2 = - 4 - 5 : when case 6 : chillax end end; pop end w : takes _, Qx : boolean; p48, _8 : integer; W, RMDa, C : integer returns nothing chillax end main : vg, n7 : integer; chillax end

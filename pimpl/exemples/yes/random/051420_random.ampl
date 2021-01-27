@@ -1,0 +1,1 @@
+program Zg : tzF : takes HZ : integer; L : boolean; m, g9 : integer array; N : integer array; i, q : integer; t4a, Tf, LI60 : integer array returns integer chillax end main : when case false + false * (4) and 0 + (1) > - false rem false - xz7aa : chillax end otherwise : chillax end end

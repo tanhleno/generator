@@ -1,0 +1,1 @@
+program E3t0 : X8 : takes O, U : integer; J8Oaa : boolean; ND1, V, T, mp : integer; X50 : integer array; l, hk2a, f2 : boolean array returns boolean array G31 : integer array; b, jma, _C3aa, H : boolean array; iC, j : integer; chillax end main : chillax end

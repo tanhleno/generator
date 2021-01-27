@@ -1,0 +1,1 @@
+program f : x : takes u : integer array returns boolean array output - 8 > 1 end main : D, eg5 : boolean array; t, k320, uH : integer array; O9, Tf80, j, Gi : boolean; B : integer array; S : integer; chillax end

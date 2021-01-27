@@ -1,0 +1,1 @@
+program uHl : iT6a : takes Imr, s, m : integer array; L : boolean; Q, P5 : integer array returns boolean input XTj end main : do m(- not 7 * 58900 rem not 364); do vJ(not O9); while false and 603 : chillax end end

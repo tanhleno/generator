@@ -1,0 +1,1 @@
+program C1 : _ : takes MAW : integer array; I, Q : integer; r9m, Y42 : boolean returns nothing z67 : integer; input GT[- 0] end main : S : boolean array; q5, D : integer; q, H4, vtMa, aR : boolean array; L : boolean; chillax end

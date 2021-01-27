@@ -1,0 +1,1 @@
+program _ : l : takes Gy60 : integer returns integer H, j, wP, o : boolean array; g, R : boolean array; chillax end x8 : takes GI1, a : boolean array returns boolean input n2Ya; while 070 : chillax end; input Z4[6] end main : m, T, U : boolean; chillax end

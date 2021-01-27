@@ -1,0 +1,1 @@
+program b : P : takes C, W : boolean array; V : integer array; Q, Y : integer; s : boolean array returns boolean array EK40a : integer array; chillax end main : fSf, UP, JV60 : integer array; _5, P : integer; pop - true; output - true and 2 + 92 /= 4 - 0 end

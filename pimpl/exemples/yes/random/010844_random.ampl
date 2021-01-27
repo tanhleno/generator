@@ -1,0 +1,1 @@
+program F4 : O2 : takes W, P, V : boolean array returns integer array W : boolean; output - 828 <= 262 end main : let g[not v(26) / not not 1 rem false] = array - 4800; let A[- false * (9)] = array - Sp[883] rem false and 0; do N4(- (80) /= 4 - 04); do v(- 47600 <= 7); while 5 : chillax end; when case 384 : chillax end case 28 : chillax end otherwise : chillax end; input m end

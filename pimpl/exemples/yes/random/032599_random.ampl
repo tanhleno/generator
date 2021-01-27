@@ -1,0 +1,1 @@
+program gu : gI : takes T06, ng : integer returns nothing U, e : boolean; H, Ry, q, O8 : integer array; chillax end y : takes RF8 : integer; Ik9aa : integer array returns boolean input b end main : L : boolean; vs90 : boolean; chillax end

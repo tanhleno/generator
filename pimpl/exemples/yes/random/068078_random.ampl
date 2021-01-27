@@ -1,0 +1,1 @@
+program P : main : l, s4Ea, O, f6E, M, KXL, bv_ : boolean array; pop; when case true * 0150 >= not 3 : pop 7; pop; when case 7 : chillax end end case - p00 and 2 + 0 - 1 : when case 108 : chillax end end otherwise : pop 305 end end

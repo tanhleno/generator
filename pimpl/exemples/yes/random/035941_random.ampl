@@ -1,0 +1,1 @@
+program Q : C : takes W : boolean; z : boolean array returns integer chillax end Aj20 : takes C : boolean returns nothing chillax end main : ds : integer array; output "\t\n0a" . true and 6 - 1 - 6 <= 216 end

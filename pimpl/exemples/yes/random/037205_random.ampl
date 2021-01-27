@@ -1,0 +1,1 @@
+program U : c : takes W : boolean; N : integer returns boolean array output "V\n"; output 81 = 3 . 685; let F = array 3 end main : M : boolean; L, w : boolean; do U(- n[9] / not(947) and true = not(5) * not 3820) end

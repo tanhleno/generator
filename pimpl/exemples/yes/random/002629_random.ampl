@@ -1,0 +1,1 @@
+program V : W : takes O2, w7X, P, u, _8Ba : boolean array; n5 : integer returns nothing x0, p : integer array; chillax end main : when case 92 and false * (53) and 7 or 07 - (403) and 1 /= G(81) : chillax end otherwise : while 935 = 91 : while 5 : chillax end end; input K[55] end end

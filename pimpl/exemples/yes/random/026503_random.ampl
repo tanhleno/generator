@@ -1,0 +1,1 @@
+program g : S : takes q, S : integer; k440a : integer; N7, X39 : boolean array; A : boolean returns nothing O : boolean array; S : boolean; a, eY : integer; W : boolean; pop - 4 - 1 < 9 end main : Gn : integer array; let _7Z0 = array - not 2 and not 280 or 3 end

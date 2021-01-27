@@ -1,0 +1,1 @@
+program a40aa : g : takes e, F : boolean; v : boolean returns nothing do P(- false); while 7 - 37 : chillax end; pop; do X(9) end D5 : takes _2, E : integer array returns boolean B2m0a : boolean array; input _ end main : chillax end

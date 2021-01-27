@@ -1,0 +1,1 @@
+program k25 : u : takes z, Qc : integer; L, OoC : boolean array; U4ma : boolean; q_0, c : integer; q, RN30a : integer returns nothing heT, O5x, h, Mq : boolean; m, Y5, x, y70 : integer; chillax end main : qBl0 : boolean array; pe, u92 : integer array; i : integer; YuXaa, j : integer; chillax end

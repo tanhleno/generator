@@ -1,0 +1,1 @@
+program F : main : Df1, i51, XvT0a : boolean array; let H[T * (4) * not 71 or false rem Y_ or false + 3 - 4] = array - c(5, 068); when case - (3800) - false > - false and 460 : pop end otherwise : output "" end; pop 25 > 922 end

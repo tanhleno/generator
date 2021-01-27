@@ -1,0 +1,1 @@
+program gHM : i : takes Ym : integer; G8, ym3, P5 : integer; H, e, V : integer array returns nothing A, _, XqI, P : boolean; T5, k1d : integer array; l8 : integer; chillax end r : takes W : boolean array; k : integer; G, L : boolean array returns integer pop 85 = 0; let y = array 68100; pop end main : chillax end

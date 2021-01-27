@@ -1,0 +1,1 @@
+program WwQ : M2 : takes q, S : integer array returns nothing chillax end main : let N[false or false - false - 19] = array - d(5) rem true / (6) and 1 - false; while - true or V8 + 727 - 0 > - (7) and 3 : output "+\\"; when case 7660 : pop end end end

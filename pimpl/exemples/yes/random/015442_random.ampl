@@ -1,0 +1,1 @@
+program uyY : SRoaa : takes sUe0a, d790, r : integer array returns nothing zN4 : boolean array; chillax end o : takes H5u, K89 : boolean array; w : boolean array; p8, U : boolean array; _4B : integer array; E : boolean array; Gd9a, b : boolean; u : boolean; C : boolean returns integer array l0 : integer; sF, ir, xb : boolean array; pop; input EAo end main : chillax end

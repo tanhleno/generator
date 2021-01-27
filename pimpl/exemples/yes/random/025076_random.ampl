@@ -1,0 +1,1 @@
+program O : Lh : takes Ua0, z : integer; P, q, r, tK50 : boolean returns integer mT, X, q : integer array; UE, G : boolean array; chillax end main : let v6M = array false * false * false and 5 or false - (9); while(9) * false and 2 or false and 4 < - not 0 and 0 or 4 : chillax end end

@@ -1,0 +1,1 @@
+program o : main : while - (0 = 32) * not l + true - not 8 + 6 > false and V400a and 056 - (7) and 1190 - 1 - 4 : let N8w = array - 6; when case 4 : let X = 1 end case 4 : pop end case 44 : chillax end end; let uXA = array - 33 + not 41 end

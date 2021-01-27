@@ -1,0 +1,1 @@
+program T : yG : takes B : boolean array; vHMa, e : integer array; S1w : integer; idp : integer array; YL : integer returns nothing output - 7 . 44800 = 8 . "" . "7" . "7" end main : output - A and false or false and 54 = 94 - 30 - 8 end

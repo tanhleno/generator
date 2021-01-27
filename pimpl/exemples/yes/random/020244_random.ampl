@@ -1,0 +1,1 @@
+program D : o : takes U, S : boolean array; V4 : integer; KF, j, Q : boolean returns integer do bp0(true and 0 or 57500, - 94200) end t1 : takes l, E5, J : integer returns nothing q : integer array; do dB(- 9, 55600 = 498, 03, 0); pop; output 59 end main : chillax end

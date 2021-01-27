@@ -1,0 +1,1 @@
+program r : WT : takes J : integer array; d, H : integer; z, pL, fk : integer; m5raa, K880 : integer array returns nothing while - 6 or 3 : chillax end; let Kk = 5 end M : takes y5M : boolean; d, g3 : integer array; L : integer array returns boolean S5 : boolean; U, Z2 : boolean array; do s(3970 - 27, 60 = 6, 7) end main : chillax end

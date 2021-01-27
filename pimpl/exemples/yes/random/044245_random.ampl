@@ -1,0 +1,1 @@
+program Bn9 : i3 : takes C : boolean array returns nothing C2, R : boolean array; L, Va, Q : boolean; output ""; do v(- 0 - 2 <= 6, 444 = 5, 46, 0); when case 77 : while 4 : chillax end end otherwise : chillax end end V : takes q8, N9, f9 : boolean returns integer u, Bs : integer array; chillax end main : chillax end

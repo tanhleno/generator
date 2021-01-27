@@ -1,0 +1,1 @@
+program v8 : M5 : takes uj, k : integer returns integer array a : integer; h, W, s0 : boolean; chillax end main : pop - false; while not(4) - (431) + 6 <= GG : do w(4); output 8240; input NX; do i(13); pop end end

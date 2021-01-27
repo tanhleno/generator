@@ -1,0 +1,1 @@
+program q : main : S5S, o, N, M9, bwk : boolean array; when case false * true and false /= (5) * 8 and 03400 : chillax end case B - 0 and 9 or 4 > - 82 and 78 : chillax end case N <= 11 - 67 : do z(1, 62) end end

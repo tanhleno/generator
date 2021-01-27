@@ -1,0 +1,1 @@
+program M : U : takes Rz : boolean; dGC : integer; f, o, o : integer; P, j5 : integer returns nothing chillax end main : while(6 = 78) - (8) + 7 and 71 >= (7380) + (2) and 2 : pop 948 = 3 end; output "" . 6 - 7010 end

@@ -1,0 +1,1 @@
+program R : D : takes C56 : boolean; N, S, z7Za, LbS : boolean array returns integer array J, CC3 : boolean; chillax end g : takes k, f : boolean; R : boolean array; R, pgm : integer array returns nothing chillax end main : let f = array not false and 69 and true or 55 rem 6 and 4670 - (2) + 56 - 2; output "" . "" . "ZU" end

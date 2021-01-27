@@ -1,0 +1,1 @@
+program N : v2E : takes t : integer; f : boolean array; P, Z : boolean returns boolean array a : integer; chillax end main : R : integer; when case e3[8] and true and not 41 and 65 - false and true - n + 4 : chillax end case - false + false and 4 - 89 - 0 < - (6150) and 0 : do R(7, 39) end; pop end

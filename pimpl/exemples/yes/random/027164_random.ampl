@@ -1,0 +1,1 @@
+program L6 : a : takes vpS, Yd4 : integer array; h, o, l8x, vN1 : boolean; Vx, k, V : boolean returns nothing chillax end E : takes j2n0a : integer; TN4a, x, xG2 : boolean returns nothing chillax end main : S4 : integer; output "" . - false and 88 - 44200 - 4 >= 6 . - 7 - 45300 /= 43500 . 1 end

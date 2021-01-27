@@ -1,0 +1,1 @@
+program rd50a : main : i7 : boolean; let N[22 / x6 / (734) - (32) rem true and 5 or 1 or 29] = - nH(393) rem(4) and 6 or w1Wa < 2 and 3 or 3; when case - (9) rem K2 or not 5 and 86 > 91 - 2 - 7 : when case 50700 = 3 : chillax end otherwise : pop end end case 9 and 7 /= - 5 - 71 : chillax end end

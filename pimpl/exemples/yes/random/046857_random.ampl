@@ -1,0 +1,1 @@
+program t8 : y1 : takes K : boolean returns integer array when case not 5 + 2 - 01 : chillax end case - 056 < 138 : input t; when case 3 : chillax end; pop end case 2 : do S9B(39300); pop end case 28 : pop end case 3 : chillax end end main : let aN[(39) + (7) or true - 6120 - 89] = - 0 end

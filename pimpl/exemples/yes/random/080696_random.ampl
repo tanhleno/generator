@@ -1,0 +1,1 @@
+program a5 : main : c : boolean array; do l7(false * true and true and 4 - 6 rem true < - true + not 9); when case - (0) rem m and 54 : do r(9) end otherwise : pop 8; when case 444 : chillax end end; output 80 - 9 < 3590 end

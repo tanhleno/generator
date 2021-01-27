@@ -1,0 +1,1 @@
+program l : g : takes B5 : integer returns nothing chillax end main : WH_ : boolean array; r : boolean array; Hjx0a, g, Pm1aa, H0U0a, ST4 : boolean array; while true / true + false rem true >= - (21) : let aX6 = 45 end end

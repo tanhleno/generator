@@ -1,0 +1,1 @@
+program Jm2aa : QWZa : takes l630a : integer returns nothing do u0(true); input E[99 - 1] end Z : takes R_, k0 : boolean array; q6 : boolean returns integer Y2 : integer; d9, o1, TU7 : boolean; when case - 92 <= 9 : let lW8a = 77 end case 2 = 42 : do q5U(4) end otherwise : input r end end main : chillax end

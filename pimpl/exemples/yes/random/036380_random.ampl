@@ -1,0 +1,1 @@
+program Y : q : takes E0H : boolean; R1 : integer; Rt4, EK, D, G, P5gaa : boolean array returns nothing chillax end main : input t6[- true]; input R[7380]; when case false : chillax end case 6 : pop end otherwise : chillax end end

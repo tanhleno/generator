@@ -1,0 +1,1 @@
+program c : h : takes f0o : integer array; I71 : integer returns nothing input bz4a end main : pop; when case - (390) : chillax end case(6260) : chillax end case - 5 - 2 > 32 : do s(181); pop end case 4 = 4 : let xI6aa = 12; pop end; output - 067 end

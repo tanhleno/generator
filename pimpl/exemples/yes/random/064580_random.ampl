@@ -1,0 +1,1 @@
+program Y : z : takes q : integer returns nothing x, TA : integer array; chillax end j0 : takes r : integer; Y3 : boolean returns integer array x : boolean array; k9uaa, js, m4 : boolean; while - 92 - 2 : chillax end; do Ve(0 = 1300, 31); when case 944 : pop end; input O end main : chillax end

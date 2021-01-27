@@ -1,0 +1,1 @@
+program U01 : main : AX, I_5 : integer array; fzI, C : boolean array; TB, sX5aa, S : boolean; Z, o : boolean; output - not false /= - 0 . - true < 71700 - 1; while - F0n0a / 5 : pop; let D1 = 78000; do p2(7) end end

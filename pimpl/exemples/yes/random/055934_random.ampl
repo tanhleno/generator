@@ -1,0 +1,1 @@
+program M : cO : takes Y8 : integer array; O : boolean array; H8 : integer array; N0, n : integer array; w : integer returns boolean array B, S3G0, H : integer array; F, F, c : integer array; chillax end main : do j(- not p * true + (85), true / true - (01) and 59100); pop true and 2 /= - 043; pop - 2 - 73 end

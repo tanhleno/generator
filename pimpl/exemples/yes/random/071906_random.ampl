@@ -1,0 +1,1 @@
+program x : main : th, _41, HE : boolean array; when case true * 51 + 74400 rem 7960 : chillax end case - j[8] and R and 5 + true and 8 + 3 > not 79 + 8 - 59 : chillax end otherwise : chillax end; let e7 = - not 6 < - 0 - 511; do M(- not 78 and 899 >= 77, - 627 <= 6, 1 = 8, 3, 3000) end

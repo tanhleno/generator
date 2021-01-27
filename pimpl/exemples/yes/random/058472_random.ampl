@@ -1,0 +1,1 @@
+program H : E : takes U : integer array returns boolean let B8 = array - not 7 and 2 end main : pop; pop - not 0 or 1 - 0 /= 6 - 5; do b1(- false > - 8); output "\\" . 466 . 55 . "F!a"; while 6 : chillax end end

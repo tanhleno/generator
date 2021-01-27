@@ -1,0 +1,1 @@
+program Jw : Ai : takes k, Zo : integer; F : boolean; a6, c, u : integer array returns boolean output 8130 - 6 . 533 . "" end R : takes G18aa : integer array returns integer chillax end main : output - false * M and 1 or 704 and 9 or 6 - 6 <= 0 and 39 + 2 . false and 69 + 3 . "@" . "" . 57; do y(- 9 <= not 2110 + 3 - 339) end

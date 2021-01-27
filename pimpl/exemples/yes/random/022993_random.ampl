@@ -1,0 +1,1 @@
+program B : _150a : takes B, T610a : boolean returns boolean array y : boolean; N : boolean array; chillax end main : X1, s, L5 : integer; do t(- (9 = 591) - (6720) * 3, - true rem true + not 77 and 9); output ""; input d1 end

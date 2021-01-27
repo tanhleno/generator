@@ -1,0 +1,1 @@
+program bC50 : PFLaa : takes y : integer returns integer array h, h : boolean; pl, L3Naa, s, d : integer array; S : boolean; chillax end a : takes Kmq0, nk : integer returns integer while 43 : chillax end end main : E : integer array; chillax end

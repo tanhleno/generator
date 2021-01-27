@@ -1,0 +1,1 @@
+program RJ10 : uV9 : takes p7, S, Al : integer; j7I, f : integer; t350a, k : integer array returns nothing let R3 = array - (723) and 6 end p : takes d : integer array; A, U3, nT, V71, x6R : boolean array returns nothing do x8(4 /= 6); output "" end main : input I[- true] end

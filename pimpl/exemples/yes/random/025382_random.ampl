@@ -1,0 +1,1 @@
+program Fr3 : Vu : takes j40a, t2 : integer; r9o0a, n, Wd60a : integer array returns nothing g : boolean; y1, j, qA : integer array; chillax end W : takes Q, RS : boolean; L1 : boolean array returns integer array pop; output "" . "2\t!a" end main : rN, q : boolean array; t, p : integer; do h(not 548 * false and 99, false - X, - J, 5550 - 9 > 77) end

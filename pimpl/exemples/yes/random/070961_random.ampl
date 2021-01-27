@@ -1,0 +1,1 @@
+program b780 : main : h, P58a, c8v : boolean; z : boolean; F : boolean array; let L = array - not not false rem false - false - Ib - 8; while false * true and 10 : chillax end; when case - g >= - 6 - 83 : chillax end end

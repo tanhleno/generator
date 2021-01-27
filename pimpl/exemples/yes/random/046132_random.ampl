@@ -1,0 +1,1 @@
+program V6ia : s : takes s : boolean returns boolean J8, M : boolean array; e, xI_a, b, oW : integer array; chillax end main : g76 : integer; p : integer; while - false / not not 5 * false /= true and 68700 and 5 : chillax end; when case(3) * fLX0 >= true - 3 - 323 : chillax end case(79) + 440 - 2790 : when case 0 : chillax end; let grQ = 9; output "" end end

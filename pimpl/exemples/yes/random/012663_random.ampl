@@ -1,0 +1,1 @@
+program s : L : takes d8, e81, i : integer; h5raa, s0, t, t : integer array returns integer array chillax end main : let r7[true * true and v and 65] = array h(8) + (46) - false and 5 or 5; pop true and 0 - 4 - 8 >= 8; when case false : chillax end; while - 1 - 2 : do Z96a(07); let c = 1 end; input v end

@@ -1,0 +1,1 @@
+program x : G : takes i : boolean array returns nothing pop; when case - 96 < 554 : chillax end end X : takes z, oan, U0 : boolean array; q, w79, l0, Yc, s : boolean array returns boolean U, A, Cgfa : boolean; r, wsO, O : integer array; L8U0 : boolean; chillax end main : c, J, B : boolean array; chillax end

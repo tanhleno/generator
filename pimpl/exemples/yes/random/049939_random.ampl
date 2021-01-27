@@ -1,0 +1,1 @@
+program A : Y : takes w : integer; gp, p5ea, U900 : boolean array returns nothing when case not 3 and 3 or 16 < - 5 : chillax end case 51 - 2 >= 14300 : chillax end otherwise : chillax end; output 603 end main : pW, k : integer; chillax end

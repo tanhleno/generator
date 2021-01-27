@@ -1,0 +1,1 @@
+program Ze6 : Ew : takes X, N, q : integer returns nothing when case(8) and 52 + 53 /= 8 : when case 2 : pop end otherwise : chillax end; input S; input z6aa; pop end case 6 : output "" end case 2 = 4 : chillax end otherwise : when case 84 : chillax end end end k : takes i5pa, v : integer returns boolean P, g : integer array; chillax end main : jg8 : integer array; chillax end

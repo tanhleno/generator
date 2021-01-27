@@ -1,0 +1,1 @@
+program t : F : takes J4 : integer returns boolean array output "D"; output ""; while 6 = 5410 : pop end; input _UU[4] end K1 : takes D : boolean array returns integer Kn, Av, i, m4 : integer; chillax end main : chillax end

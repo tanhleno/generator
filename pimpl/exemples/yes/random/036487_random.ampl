@@ -1,0 +1,1 @@
+program SS : m : takes f4 : boolean; M5 : integer; P, JK : integer returns boolean array pop 46500; let I[- 331] = array 3840 - 73900; input k[1]; pop 1 end vPw0 : takes N, ByYa : boolean returns boolean Kw : integer array; R29, Z990, zYR0a : integer; chillax end main : chillax end

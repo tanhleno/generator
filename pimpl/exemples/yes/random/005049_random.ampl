@@ -1,0 +1,1 @@
+program E8 : Np8 : takes P0e, k93a, W6, s2Y0a : boolean array; wB : boolean array; z : boolean array returns nothing j, K : integer; let Y[true and 30500] = 40; let G2 = 6 = 2 end main : R3 : integer; J : boolean; u : boolean array; input z[- not(93)] end

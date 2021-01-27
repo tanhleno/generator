@@ -1,0 +1,1 @@
+program R73 : W1 : takes S : boolean array; A6 : boolean array returns nothing i8Ua : integer array; K, P : boolean array; input ME end main : when case(3) and true - true and 9 < not Z8 : chillax end; while false rem t6 and 28300 : output 0 . "8"; input u9; pop end; while not 21 and 59 : input v end end

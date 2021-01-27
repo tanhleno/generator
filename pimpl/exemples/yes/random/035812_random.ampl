@@ -1,0 +1,1 @@
+program YN0 : r93aa : takes Ga6 : boolean; qo : boolean array; b : integer array returns nothing let s000[- (199) and 6 - 3 - 26] = - 3 - 6980 = 3 end main : output "I\\"; input K1[not 784 and false + not 4] end

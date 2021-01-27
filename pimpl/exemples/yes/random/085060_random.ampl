@@ -1,0 +1,1 @@
+program xf : main : b : integer; pop; while - 859 /= 5 : do F(4 = 6); when case 9 : chillax end case 1 : chillax end otherwise : chillax end; do DSZa(603); pop; pop end; input W[- not 1 and 05600 - 70] end

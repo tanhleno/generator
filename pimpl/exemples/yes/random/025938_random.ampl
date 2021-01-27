@@ -1,0 +1,1 @@
+program z9k : kw : takes L2, z : integer; X, J2haa : integer returns integer array input z[not 2 and 11] end a : takes a : integer; u1G0, x : integer array returns nothing chillax end C : takes iy : boolean array returns integer do i6w(53); let M[04] = 0; when case 5150 : chillax end; output ""; pop end main : b150a : boolean; chillax end

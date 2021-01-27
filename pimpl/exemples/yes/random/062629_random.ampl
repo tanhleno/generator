@@ -1,0 +1,1 @@
+program C : z : takes X5 : integer returns boolean output 67 end RaU : takes QR, _ : integer array; E : integer array; E : boolean returns boolean let U = 0 = 2 end s : takes Ds : integer array; xi6, Y : boolean array returns nothing pop end main : when case not true and true : output ".\"0a" . "" . 0 . "#" end case - true or true and 5 /= false and 13 : chillax end end

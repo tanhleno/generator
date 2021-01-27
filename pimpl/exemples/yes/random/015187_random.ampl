@@ -1,0 +1,1 @@
+program v : w : takes Ab, M, f : integer array returns nothing chillax end cX40 : takes H : integer; y2, si, n : integer array; T, cB0aa : boolean returns nothing input h; when case 01 : chillax end case 9 : chillax end; pop; while 2860 : chillax end; let lj = 398 end main : chillax end

@@ -1,0 +1,1 @@
+program u : G : takes j : integer array; O9 : integer array returns integer array p1C0a : integer; u, o2 : integer; output "" . 6 = 9; let pd9[- 39 - 3] = array - 2 end main : input n[- true rem(68) / (174) and 59]; do dT(not 6) end

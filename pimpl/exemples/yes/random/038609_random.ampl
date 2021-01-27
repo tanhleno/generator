@@ -1,0 +1,1 @@
+program IUpaa : U : takes i : boolean array; me, RS : boolean array; e, l, w : integer array; W, z : boolean array returns boolean chillax end main : while true : chillax end; output - true - 5060; while - true - 2 : chillax end end

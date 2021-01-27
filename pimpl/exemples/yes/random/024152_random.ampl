@@ -1,0 +1,1 @@
+program W : CHY : takes W, v6n : boolean returns nothing E, g, h, T, I : integer; chillax end main : N : integer; y7 : integer array; X, l4W : integer array; h0, _Uqa : integer; do z(- false rem not 34 / false and 8 < - not J / 0 and 674 or 9 - 0 - 759, - false - true = (0080) and 32 or 0 - 8) end

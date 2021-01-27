@@ -1,0 +1,1 @@
+program s : L20 : takes v62, t3, n2Z, H3E0a : boolean returns boolean array output "~" . 4 end main : xO, S, s, L : boolean; input s45aa; when case - false and a < not 4 and 0 or 400 - 6 : chillax end case - (1570) < - 619 : chillax end end

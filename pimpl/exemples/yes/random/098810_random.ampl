@@ -1,0 +1,1 @@
+program O : main : while - 9600 and true * N66a and 693 /= - p[31] : output 30 . 93 . "T" . "4"; while 8400 = 9 : chillax end end; when case - (7) : chillax end case - 61 and 5 = - 01 - 8780 : chillax end case - 5 : while 78 : chillax end end; let U62a[- (125) and 77 - 8] = array - false and 48; while - 9 - 34 = 828 : while 5 : chillax end; do i(7); pop end; input J end

@@ -1,0 +1,1 @@
+program a8 : a : takes L : integer returns integer array O : integer array; f29a : integer array; while - not 95 - 90 : output "" . ""; while 4 : chillax end end end TP : takes S, a5f, S : integer returns nothing chillax end O : takes Oc : integer returns integer rN, w89 : boolean; when case 62 = 53200 : chillax end case 0 : chillax end end main : chillax end

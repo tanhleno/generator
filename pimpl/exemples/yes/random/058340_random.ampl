@@ -1,0 +1,1 @@
+program I : b : takes Z : integer array returns boolean T0 : boolean; when case 10 + 88 = 778 : do p(38); when case 6 : chillax end end otherwise : chillax end; do I(2 - 8 > 1, 853 = 24); output 84 end a : takes h, R33 : boolean array; pL7aa : integer; jl9, f, gd2aa, Z470 : boolean array returns nothing G, A : boolean; pop end main : chillax end

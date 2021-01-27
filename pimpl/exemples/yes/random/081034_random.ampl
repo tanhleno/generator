@@ -1,0 +1,1 @@
+program c : main : bJ : boolean array; S, L, w2c : boolean array; v : boolean; E2 : integer array; while BGW : when case 37900 < 891 : output "\nj"; while 8 : chillax end end case 1 : input H_; pop end case 4 : pop end case 0 : chillax end; while 2 = 5 : chillax end; do x(6); let p = 2 end end

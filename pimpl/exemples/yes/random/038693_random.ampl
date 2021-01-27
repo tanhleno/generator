@@ -1,0 +1,1 @@
+program g : x : takes z : boolean array; a3f, C : boolean array; MOI0a : integer array; i : boolean array returns nothing Cg, OP : integer array; o, Q, Fh : integer array; ljL, e, H : integer array; pop end main : when case - not(2) + false > false * 1 and 71300 : do s210a(99 - 6, 9, 8) end end

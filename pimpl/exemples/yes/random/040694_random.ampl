@@ -1,0 +1,1 @@
+program Z : h6 : takes _X : boolean array; A : integer; J : integer array; CQ : integer array returns integer output 4 . "" . "" end Oqm : takes Q1, m2_0 : boolean; vvY : boolean returns boolean array chillax end main : mr, gh10a : integer; input s end

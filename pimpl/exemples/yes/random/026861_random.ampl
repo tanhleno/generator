@@ -1,0 +1,1 @@
+program Av3aa : O6Q : takes s, f : integer; q : integer array returns nothing let EOda = array - c8 and 9 end Oo : takes H : boolean returns nothing input D0 end S : takes R : boolean returns boolean X, w, C9 : integer array; pop; pop end e : takes B : integer array returns boolean output 50700 . "C1" end main : D4 : integer; chillax end

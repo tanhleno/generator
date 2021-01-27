@@ -1,0 +1,1 @@
+program Af9 : d : takes fM, guO0 : boolean returns nothing while UT3 - 1 : output "#"; do IHj(6) end end main : output "\n6" . ";" . - 6 - 4 <= 6 . ""; let g = array - not not 51; pop; let z[67] = 4 = 43 end

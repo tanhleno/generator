@@ -1,0 +1,1 @@
+program S4Ca : main : O9, B700a, Owo, jr : integer; kwr0a : boolean array; l : integer array; Y, c : boolean array; N2, Y650a : integer; S3, O : boolean; p : boolean; tKGa : boolean; while - 202 rem i : do f(- 66 = 7, 79000 = 5, 2, 71700) end end

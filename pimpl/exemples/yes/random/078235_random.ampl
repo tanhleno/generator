@@ -1,0 +1,1 @@
+program x18aa : main : apr0a : boolean; do a(- (5 = 2) - not 1 and not 815 - true or 9); do r(bv1a[3] - false and 7 >= 94 and 3, (7), - 82 > 98000); do O(- r and 5 >= 8 - 4, 0 - 43 < 06400); output 88 = 2 end

@@ -1,0 +1,1 @@
+program j : main : x1 : boolean; W, dA2 : boolean array; p08 : boolean; when case(87 = 46) /= (3) : chillax end case false rem 5 - not 09 and 052 : input u[295]; when case 7160 : pop end otherwise : chillax end end otherwise : pop 399; pop; input Mx; pop end end

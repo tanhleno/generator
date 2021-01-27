@@ -1,0 +1,1 @@
+program G : lpt : takes F4 : boolean array; q, Ee : integer returns nothing chillax end main : E : boolean; when case Oy[42] / not 3 * not 0 /= - true + 9340 and 062 : while - 42 : when case 21200 : chillax end; let u = 9; pop end end case - 43 : chillax end otherwise : chillax end end

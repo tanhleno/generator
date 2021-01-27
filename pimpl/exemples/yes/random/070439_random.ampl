@@ -1,0 +1,1 @@
+program bZw : main : L4, NRr, MQ, fcm : integer array; sVV0a, VCZ : boolean; when case(99 = 53) + false : chillax end case P * e9t and 9 + false and 8150 + 97 - 8 : output 2720 . "," end case false or 6 - 0 : chillax end end

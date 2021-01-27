@@ -1,0 +1,1 @@
+program c : Z : takes i : integer array returns integer RQ9 : boolean; ID, A1J, Hr, b3E : integer; my10a, H, Cl : integer array; g, hE : boolean; I : boolean; while false and 9 - 57 - 643 /= - 5 - 63700 : chillax end end main : p : integer; S, p4D : boolean array; O8 : integer; chillax end

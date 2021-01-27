@@ -1,0 +1,1 @@
+program j : main : P, xeI : boolean array; _ : integer array; i7 : boolean array; z, e : integer array; input xQ[- not not not 4 * not(5210)]; pop; while not 6 > 3 - 6 : chillax end; do Z(0, 19, 00) end

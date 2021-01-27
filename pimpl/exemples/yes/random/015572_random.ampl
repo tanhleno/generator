@@ -1,0 +1,1 @@
+program h : u4 : takes F9k0a, wc, E : integer array returns nothing output 4 - 766 = 3 . 5 . 85 . "~)" . "\"" end main : F6 : boolean; do D2(- false - true / not 674 and 92 or(821), - false rem false and 3 < Z65aa, not 746 and 48100 < 53); pop end

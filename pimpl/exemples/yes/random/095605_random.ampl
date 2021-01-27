@@ -1,0 +1,1 @@
+program z1 : main : when case - (12300) and b[6] : do F(- 90, 4 = 1); do Z(2, 38, 266); output "B"; pop; while 51 : chillax end end case - false + true + 71 <= - xu or 7 - 338 : chillax end otherwise : let I[42000] = array 9 end end

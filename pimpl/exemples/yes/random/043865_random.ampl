@@ -1,0 +1,1 @@
+program r : o : takes y1 : boolean array returns nothing do S4(- not 1050 and 9 - 1) end main : input L; while - 532 and 5520 and 3 - false and 52 : do p(0770); pop; when case 76 : chillax end; let A = 55; pop end; when case - jz and 9 >= - 34 - 3640 : while 98 : pop end end end

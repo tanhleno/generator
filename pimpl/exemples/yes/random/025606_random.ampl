@@ -1,0 +1,1 @@
+program Dwt : h : takes A, I : integer; L, B : boolean array returns nothing QA7 : integer array; Y, Y7e : boolean; when case - (5) : chillax end case - 286 - 7 > 35 : while 91200 : chillax end end; let V = 77 end main : input W4e0[false + false or false - 7 - 2]; input IH end

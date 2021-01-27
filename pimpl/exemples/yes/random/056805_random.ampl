@@ -1,0 +1,1 @@
+program UK : lhq0a : takes l7_aa : integer array; Zu : integer array; N, _, g, i, C : boolean; Rq : integer array; ET, J0 : integer; R : integer; Fcq : boolean returns boolean array pop 5 < 44 end main : pop end

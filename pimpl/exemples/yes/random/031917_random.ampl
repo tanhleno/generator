@@ -1,0 +1,1 @@
+program e : Dk4a : takes z, W3qaa : integer returns integer array when case - 263 and 6 - 121 : chillax end otherwise : pop; while 7 : chillax end end; let S2[- 5 - 3] = array 1 - 9; while 512 = 9 : do y(4); pop end end main : chillax end

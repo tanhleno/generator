@@ -1,0 +1,1 @@
+program V : i : takes l9 : boolean returns integer array pop 2 >= 7; when case - 5 < 532 : chillax end otherwise : input g3 end end main : j, DD0a, i, V94 : boolean array; V : integer array; C7K0, oke0, f : boolean; output "P"; while UJ(37) or S and 730 > not 0 and 4 : while 8 = 79 : do a(89200); pop end; output 0400 end; let xAk[- 2] = array false - 9 end

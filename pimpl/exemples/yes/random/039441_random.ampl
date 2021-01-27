@@ -1,0 +1,1 @@
+program Cw : y : takes I93 : boolean array; BP, f800 : integer returns nothing n, a, WA : boolean; g : integer array; input a end j : takes S, Q, U : integer array returns integer m : boolean array; do X8(- 1 - 6, 51, 27); output 0 end main : l : integer array; W7f0a, U88aa, h, ak : boolean; Q : boolean; pop - true <= - false and 19 or 03 - 30 end

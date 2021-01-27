@@ -1,0 +1,1 @@
+program q8 : c : takes d : integer; D : integer; Z, i : boolean array returns nothing chillax end aF : takes s : boolean returns nothing D4Ra, P, G, rPxaa : integer array; i65, n, ux : boolean array; U : boolean; output 1740; output 3 . 07; while 9 : pop end end main : O3, O : boolean array; chillax end

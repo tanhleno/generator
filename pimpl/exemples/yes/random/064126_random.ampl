@@ -1,0 +1,1 @@
+program d : Or00 : takes y : integer returns nothing do U(- true = - 9) end main : pop not(7) >= (650) and 227 or 7 - 25; when case true or(140) or 0 > - false and 4 - 23 - 4 : chillax end case not 69 and 982 - 3120 >= - 67 : let s[6] = array 9; while 5 : chillax end; pop; pop end end

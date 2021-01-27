@@ -1,0 +1,1 @@
+program R : l : takes Ty2, e3 : boolean array returns integer array z1, O : integer array; do D6r0a(4 + 5 - 0 = - 3) end u : takes i : boolean returns integer while 1 - 0 : chillax end; output "" . 816 . "" end main : q0r0, si8a : integer; while - C5[6] / not Z60 * false + not(65) or true : chillax end end

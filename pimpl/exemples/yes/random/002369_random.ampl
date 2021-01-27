@@ -1,0 +1,1 @@
+program Q : e9 : takes f, P, z0t, Y, mG : boolean array; _, N0O, x, Y, S : boolean returns integer array when case - q2d0a and 62 : pop; let g = 09 end otherwise : chillax end; let E_ = array 15 end main : chillax end

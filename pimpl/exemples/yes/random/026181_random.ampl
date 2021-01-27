@@ -1,0 +1,1 @@
+program KQ2 : S26 : takes d, y : integer; e64 : boolean array; GV : boolean array; Yb, E6d, m : integer returns integer array d4, G, A, Oz3, v130 : integer; O, g9, tT, W : integer; let A6[- 981 and 1270] = array not 52 and 0 end main : output - true end

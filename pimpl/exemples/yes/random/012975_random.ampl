@@ -1,0 +1,1 @@
+program T0B : x : takes O, K4, a : integer; k, j : integer array; r, K : boolean array; r : integer; _ : boolean array returns nothing p58, Q7R0 : boolean array; when case - (2) or 7760 - 3 /= - 06 - 9 : chillax end; pop 6 end main : T : boolean; X1U, A, O9, Kia, VnZ, Z : boolean; input s end

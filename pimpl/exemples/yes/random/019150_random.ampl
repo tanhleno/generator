@@ -1,0 +1,1 @@
+program p2Oa : JJ : takes jh, Z : boolean array; iG4, jX4 : boolean; h : boolean; h : boolean; k, H : integer array returns integer chillax end main : c4 : integer; pop not 618 * (6) + true or 56 - 5 end

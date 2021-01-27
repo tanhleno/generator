@@ -1,0 +1,1 @@
+program YB : main : p8, M370a : integer; w0, M, q2 : boolean array; t, D : integer; sg80, N, J : integer; f, k, T : integer array; let F[- true or true and(0)] = (628) + 164 and 25 > - (634); input n2; let Q = array - Q6D end

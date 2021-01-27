@@ -1,0 +1,1 @@
+program n : m1W0a : takes Q350 : integer; h : integer returns nothing while false and 9 - 03 >= 2 - 0 : while 5 : chillax end end; output 6 = 2; while 20 = 354 : chillax end; do b(2) end X : takes vN, h : integer array returns nothing chillax end main : E : boolean array; chillax end

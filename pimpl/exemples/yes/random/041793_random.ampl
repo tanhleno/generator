@@ -1,0 +1,1 @@
+program _6 : _ : takes Sy : boolean array returns boolean array np : integer array; Xi1 : integer; let G[- T or 459 - 96] = 39 - 14; when case 73 : chillax end case 7 : let C = 979; pop end end main : m47a, n, j : boolean; W, nr3 : boolean array; f : integer; S, Jq : integer array; chillax end

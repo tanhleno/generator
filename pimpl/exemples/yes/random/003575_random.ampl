@@ -1,0 +1,1 @@
+program Sn : A890 : takes Ihvaa, F5, G, g5, SX : integer array; d8 : boolean returns nothing input aO[- true - 3]; when case - 20 - 9 >= 00 : while 0 : chillax end end case 7 = 65 : chillax end case 47 : pop end end main : chillax end

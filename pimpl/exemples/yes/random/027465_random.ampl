@@ -1,0 +1,1 @@
+program N : u : takes N, s : integer array; d0ga, _J, h : integer; ou2 : integer array; _9, j : integer returns nothing chillax end FN : takes KBj : boolean array; ot : boolean array returns nothing K, wS : boolean array; input TOja end main : chillax end

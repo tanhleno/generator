@@ -1,0 +1,1 @@
+program s : x : takes l9, r : integer array; t, n : integer array returns boolean array vT, u8 : boolean; U, h, R, hG : integer; C : boolean; output "\n" . "}{0a" . "" end main : Q3Oaa : boolean; w : boolean array; i : boolean; Hk7a, v01aa, s, V : boolean array; c : integer; chillax end

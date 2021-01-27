@@ -1,0 +1,1 @@
+program R : i : takes g : integer array; h24, p : boolean array; b9, B46aa, h, s : integer array; E240a : boolean array; L7, V5 : boolean array returns nothing e : boolean array; chillax end main : tE : boolean array; do P(false, - 024); output "1" . "" . "\t" end

@@ -1,0 +1,1 @@
+program Vwe0a : pU00 : takes k78 : boolean array returns nothing M, k8 : integer array; W : integer array; D, w, X9 : integer; pop; input t[- 19]; output "\""; when case 2 : pop end end h : takes O1, I2, N, J, E : integer array; m_saa, H4Baa, h, Vh7aa : integer; s9 : integer returns integer while - 4 : output "0" end end main : gSv : boolean array; chillax end

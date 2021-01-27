@@ -1,0 +1,1 @@
+program O : dw : takes W : boolean array returns nothing input n[- true and 78 + 7 - 5]; let O2 = array - 6 - 08 end main : do VxS(- false / bz[27400]); while - not(68) rem not 8 = - not 81 and 9 : chillax end end

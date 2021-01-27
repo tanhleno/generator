@@ -1,0 +1,1 @@
+program v : pg40a : takes _72, S : boolean returns integer array do k(32 and 1 /= - 9950 - 2, 01000 - 0) end N : takes A9naa, N400a : boolean; J : integer array returns boolean C4maa, H37 : integer array; output 94 . 3; do S(4 = 8250, 1); input NG8; while 9 : chillax end end main : when case not Wq / not true / (3) : input SK2 end otherwise : chillax end end

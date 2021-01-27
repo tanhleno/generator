@@ -1,0 +1,1 @@
+program C : main : when case - false = (8) - false and 0 - 813 : chillax end case true and 1990 and 785 : do r(08, 2, 6) end case(3) : chillax end otherwise : when case 12 = 345 : input E end end; pop end

@@ -1,0 +1,1 @@
+program l : main : do e(709 / 69 or Z370a(6) rem false or eT7a <= not not 18 / true); while false <= 437 and 4 + 4 - 2 : when case 4570 = 37 : chillax end otherwise : pop end; input DZ end; let B[- not 1930] = array true and 25 or 85 end

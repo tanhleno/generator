@@ -1,0 +1,1 @@
+program SD : main : m1 : boolean array; input f4[05 and 5 / not 41 and 61800]; input c_[false rem false and 6 + 96]; let w[true and 885] = array - J8C + 37 - 23; let W[- 051 - 781] = 12 = 52; pop 6840 end

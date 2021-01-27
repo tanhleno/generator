@@ -1,0 +1,1 @@
+program G : g : takes a4, Q88 : boolean; vb : integer returns nothing chillax end main : ZZl0a : boolean array; pop 57 rem p; while - not false rem dn8 and 74600 or true > false and 6 : output "" end; while - true and 5 < 68 : pop 64500; while 8 : chillax end; input R; pop end end

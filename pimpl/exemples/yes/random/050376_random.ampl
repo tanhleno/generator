@@ -1,0 +1,1 @@
+program D : ey : takes i : integer; Yu0aa, w1aa : boolean; X850 : boolean array returns boolean array while true and 8 : chillax end end _Z9 : takes mBm, L, o, u : boolean array returns integer array UYq, n, No, Q : boolean; W1Q0a, D0, wD : integer array; chillax end main : let X1 = true or s1 and 00300 <= Id; input zc end

@@ -1,0 +1,1 @@
+program E9A : g95 : takes P4D0 : integer returns nothing q, zfMa : boolean array; Mz50a, N : integer; Ez : integer; chillax end ApM : takes r : boolean array returns nothing o, Y : integer array; pop 368 = 86; when case 2 : chillax end case 6 : pop end end main : d58a : boolean; k : integer; f : boolean array; F : boolean array; kB, nZm, w : integer array; chillax end

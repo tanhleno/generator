@@ -1,0 +1,1 @@
+program z : main : q : integer; when case true * (66) / 85 and 7 + false * t > - Jq4 * (362) and 98 : when case 69 - 25 : pop; do Q(950); pop end case 6 : when case 84 : chillax end; pop end end case - false * (14) - 6 and 2 : chillax end; do x5(303 / 58 or false + 6 - 4, - V and 6 >= 0, 6 - 012 >= 3, 1110 = 7, 7, 2); input c[j and 5 or 2] end

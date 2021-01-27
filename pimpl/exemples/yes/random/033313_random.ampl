@@ -1,0 +1,1 @@
+program x5 : w : takes O : boolean; j, z, G, R9X, X2, q : integer array returns nothing s : integer; Dc1a, g : boolean; f : integer array; W, OA : boolean; chillax end k9 : takes a9, p : integer array returns nothing chillax end kSy : takes PBg : integer; Q : integer array returns boolean array pop 8920 end main : J : integer array; do e(87 /= - false / true and 9) end

@@ -1,0 +1,1 @@
+program T96 : P : takes ZL, wg, x, r, s6a0a, T0 : integer returns nothing a, x : integer; when case - (9) and 24 or 159 - 24400 : chillax end end P3 : takes O : integer; B4, m : boolean array; w, Wx : boolean array returns nothing chillax end main : do m(- false); pop s or 3 > - 7; while - true : chillax end end

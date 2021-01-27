@@ -1,0 +1,1 @@
+program wG : v : takes FHIaa : boolean returns boolean array A0R : boolean; O : boolean; chillax end K : takes P : boolean array returns integer array do aK5(- 0, 8); while 65 : chillax end; let A91[57] = array 7; pop end main : chillax end

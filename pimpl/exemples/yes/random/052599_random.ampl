@@ -1,0 +1,1 @@
+program SX4 : P : takes S3Jaa : integer; L610 : integer; dK : integer returns nothing U4, q : boolean; M, b : integer; j, i, x : boolean; Mo, x : boolean; g38 : boolean; t : boolean; chillax end w : takes j97, F, P : boolean; UL : integer array returns boolean array br : integer; chillax end main : chillax end

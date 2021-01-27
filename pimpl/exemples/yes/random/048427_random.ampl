@@ -1,0 +1,1 @@
+program E : p : takes R : boolean returns nothing C8U : boolean; when case - not 65 : input R3; input o; let K24 = 1980; pop end end i : takes j : integer array returns integer array while 99 /= 713 : do A9Q(4); do W(5); pop end end main : pop - not(29) rem not 07300 and 634 or not 4 or 1 end

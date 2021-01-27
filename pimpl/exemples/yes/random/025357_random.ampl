@@ -1,0 +1,1 @@
+program f : F9 : takes n3n, x6 : integer; n, O85a, w : integer array; v4 : integer; M2, a : integer array; UL : integer array returns nothing input N[- 3 and 0 or 75 - 389]; pop; when case 3 : chillax end otherwise : chillax end end main : let n8[true or true rem true] = array - false end

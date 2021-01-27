@@ -1,0 +1,1 @@
+program N : a0b : takes t, K, uz : boolean returns nothing u : boolean array; I5Aa, G, U7, T9 : boolean array; do a(mG /= - 92 - 1, - 7 >= 8) end h : takes O : boolean array; t : boolean array returns boolean chillax end main : chillax end

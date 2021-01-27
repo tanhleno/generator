@@ -1,0 +1,1 @@
+program c820 : _7 : takes q : boolean; g2caa, x48a : boolean array returns nothing chillax end U : takes B : integer; V5x, RL : integer returns nothing chillax end main : g, v1, R : integer; input _yG; input f8; when case true and 965 - 8 - 0820 : chillax end end

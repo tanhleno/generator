@@ -1,0 +1,1 @@
+program j41 : main : oG : boolean; A, c, Dp, N9 : boolean array; when case R * R : chillax end case f[32] * PX and 0 + true + 0050 : while 832 = 725 : chillax end end case 001 : let tm50a[210] = 707 end; let G[l44[1] / false] = array not(792) rem 962 and 4 + (8) and 35; while true or 61 - 50 /= 6 : when case 07 : chillax end end; do _d7(- 9); pop; output 5 end

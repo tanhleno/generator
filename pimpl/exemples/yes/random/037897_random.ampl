@@ -1,0 +1,1 @@
+program w : L5d0a : takes Tv : boolean array; X5z, t, IOp, V7t0a : integer array returns integer array chillax end main : b, mM3a : integer array; output 39 and true and 26 or 051 . 3 and 3 + 25 - 34200 <= 838 - 47 . - 7500 - 2 . 3 = 31 . 8; output "" . 6 end

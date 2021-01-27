@@ -1,0 +1,1 @@
+program fW : u : takes j : integer; i340, ef : boolean array; Q4iaa : boolean array returns integer array d310 : boolean array; e : integer array; chillax end u : takes H, E, d : boolean array; g, y22, t : integer array returns nothing do y(0 - 19300 < 7, 8); while 7 : while 5 : chillax end end end main : m, b3, I : integer; w6 : integer; chillax end

@@ -1,0 +1,1 @@
+program _ : n35 : takes p5l, q4p, j : boolean array returns boolean L : integer array; Tu : boolean; ftk, a : boolean; chillax end C : takes F, _ : boolean returns boolean array chillax end w3 : takes z, m : integer array returns nothing pop end main : chillax end

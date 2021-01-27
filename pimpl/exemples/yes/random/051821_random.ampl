@@ -1,0 +1,1 @@
+program Y : t85aa : takes dJaaa : integer; Nc : boolean array; NU2a : integer array returns boolean chillax end X : takes _, w8V, y6, Q, n : integer; ic : boolean; C0 : integer array returns nothing chillax end main : do fl(not 7 rem not false * false and 9 /= - 7) end

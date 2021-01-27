@@ -1,0 +1,1 @@
+program B : O : takes T7, Q : integer array returns integer while(6) >= 7 - 875 : chillax end; let AGGaa = 8; while 1 : let f = 23500 end; when case 7 : chillax end case 662 : chillax end otherwise : chillax end end main : while g9 + (32) * 4 and 6 - qO90a + 1 : chillax end; when case - not 3 - 8 and 6 - 0 - 6 : chillax end; output 6 - 9 . "" end

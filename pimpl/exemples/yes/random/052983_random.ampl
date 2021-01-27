@@ -1,0 +1,1 @@
+program l : L : takes nj : integer; gGg : integer array returns nothing chillax end main : b, BM, j1, q, F : boolean array; DP4 : integer array; Y120a : integer; when case Ie[0] * 91 rem true = (6170) and(105) and 13 : chillax end case - true - true : pop; pop; output "l" end end

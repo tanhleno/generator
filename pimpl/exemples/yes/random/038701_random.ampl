@@ -1,0 +1,1 @@
+program I : f : takes m : boolean array; F, B : boolean array; P : integer array returns nothing chillax end K : takes E, V9, G, w, k : integer returns nothing output ""; input f4[2]; do d(6, 01) end main : _ : boolean array; chillax end

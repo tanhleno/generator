@@ -1,0 +1,1 @@
+program ve : p : takes L : integer array returns integer array hw, S, p, a, p6 : boolean; chillax end main : t77, a78, q, U : boolean; L, NHjaa : integer; do y(- true * (5) rem not 5 and 2 > true rem not 6 and 887 - 3); let b0[Uv5(9) / not 70100 + true and 63900] = - not 2 and 6; while - true - 878 : chillax end end

@@ -1,0 +1,1 @@
+program M : P : takes u, N8r : boolean; V9, H50aa, d430 : integer; e7, K970a : integer returns boolean while false - 99200 - 78 <= 6 : while 544 : pop end; pop end end main : cU : integer array; k : boolean array; Rw4, K1ka : boolean array; chillax end

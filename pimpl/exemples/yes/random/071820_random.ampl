@@ -1,0 +1,1 @@
+program H : main : YB, s, t : boolean array; output false + not 2 and 5830 or 2 - 55 >= - Y150 and 6 + 8; when case 040 / 5 and 5 <= not 2 and 7 - 220 : chillax end; let z[- (2) and 5010] = array - x330a and 5340 or 742 - 66 end

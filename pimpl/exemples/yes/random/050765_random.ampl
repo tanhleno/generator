@@ -1,0 +1,1 @@
+program A : K6b : takes Ud : integer; L, pX20 : boolean returns nothing m, c18 : boolean array; let A = array 1 and 547 + 0 - 7; do Ex0a(81 <= 4, 56) end main : t, rE, t65 : boolean array; K, Y : boolean; let Y = - true - (94) and 14 - 542 - 3; input f end

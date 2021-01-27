@@ -1,0 +1,1 @@
+program Wt : j860 : takes D : boolean; r : boolean array returns integer array M1raa : boolean array; Z5 : boolean array; Q, VY : boolean array; _ : boolean; chillax end nZna : takes b2 : boolean; kW, Z1, n : boolean array returns integer array G91 : integer; let pu50 = 77 end main : chillax end

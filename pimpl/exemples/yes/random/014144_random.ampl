@@ -1,0 +1,1 @@
+program _R : X18a : takes c, grR0, hE : integer array; T : boolean; Lv, x, i, I1 : boolean; wls0 : integer array returns boolean M, P, W0waa, B, d9 : integer; YN : integer; let ru[P and 68] = - 48600 - 1 /= 39; pop 8 end main : do f(3 and false * false > true * true and 11 - not 6350 and 1 + 6220) end

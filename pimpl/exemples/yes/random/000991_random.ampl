@@ -1,0 +1,1 @@
+program k8w : x : takes D, NB3, L, Q, lzSaa, d1D, B : integer array returns nothing x : integer array; w : integer array; u, Xu, g : boolean; R : boolean; Ac : boolean; m7 : boolean; chillax end main : chillax end

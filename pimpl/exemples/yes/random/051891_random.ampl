@@ -1,0 +1,1 @@
+program S65 : F : takes AC : integer; g09 : boolean array returns boolean array let M88 = array - (5) and 3; do WE(90) end K : takes ala0a, Y : integer array returns nothing when case 9 - 5770 : output "" end end main : t, S, H, p : boolean array; chillax end

@@ -1,0 +1,1 @@
+program E : c3t : takes W, S, s : integer returns nothing M9, T : integer; N5 : boolean; aa : integer; while - (1) - 54200 - 540 > 82 - 9 : when case 0 : pop end; output ""; pop; pop end end main : n1, k0 : boolean array; tz, rW : integer; y6 : boolean; X3, V : integer; while - b9 / 8 : let u = 1 end; do V(- not false, false + 8 - 38 /= - 2) end

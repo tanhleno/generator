@@ -1,0 +1,1 @@
+program L : o : takes Iw, D2 : boolean returns nothing e5 : boolean; C, I, s, C : boolean array; when case - C2M : pop 6; while 9 : chillax end; let GHJ = 6 end otherwise : input X42a; while 21400 : chillax end; pop end; output "" . 84 end main : L : integer; D9f, Sc : integer array; pop end

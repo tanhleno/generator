@@ -1,0 +1,1 @@
+program c : xW : takes Z : integer array returns nothing K, l4r, S08aa, Nf8, J5d : boolean; v, A0 : boolean; H6, g3, w : boolean array; O72, ivTaa : boolean; po : boolean; let d[- 20 or 9 - 628] = 58 < 73; do d(- 85 - 20 = 9) end main : chillax end

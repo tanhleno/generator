@@ -1,0 +1,1 @@
+program N840a : N : takes U8, V : boolean; f, u2 : boolean array returns integer chillax end N8 : takes x8L0a : integer returns boolean chillax end main : while - 18 / not b <= s(8) * Y and 0380 + 9 and 760 - 15 - 6 : when case - 530 - 074 : chillax end otherwise : input Q end end end

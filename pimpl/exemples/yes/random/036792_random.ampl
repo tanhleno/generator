@@ -1,0 +1,1 @@
+program gT8 : p : takes _u : boolean; Sz1 : integer array; N : boolean array returns boolean array chillax end main : do F52(- not 306 / not false rem tT1aa > - true or umlaa and 2); while 45 : when case 28 : do F(4) end end end

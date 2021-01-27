@@ -1,0 +1,1 @@
+program f2 : u : takes U : boolean; _2d, q : integer; X : boolean returns boolean array chillax end A : takes t : integer; E, d, LbLaa, yJ : boolean array returns integer chillax end D47a : takes c, g : boolean array; G : boolean returns nothing D6 : boolean; chillax end main : output "$" . "" end

@@ -1,0 +1,1 @@
+program Q8 : W : takes s, Ga8, b23a : integer returns boolean C3X, e34a : integer; input K51aa; when case - 0 - 5 /= 37600 : chillax end; let G[85] = 0 end main : P8daa, p : integer array; chillax end

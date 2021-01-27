@@ -1,0 +1,1 @@
+program c : I : takes Z280a : integer array; y2B0 : integer; aD : boolean returns nothing chillax end main : do h(false rem true and true and 2 + ob2[32] * false and 256 < - 6, false - false /= (2), - false); while 8200 + (8) and 7 - 549 : do M(132) end end

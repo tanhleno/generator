@@ -1,0 +1,1 @@
+program X0 : h : takes m0, W, P8 : boolean array returns nothing l, KI : boolean; D5, J : integer; g30 : boolean; let U = array not 4100; let jh9a = 0 = 8 end g4 : takes r3D, Uo, W : boolean array; CXMa : integer; PAza : boolean array; D, Cy : integer returns boolean array chillax end main : output "" . "5"; output "" . 4 = 65 end

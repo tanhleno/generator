@@ -1,0 +1,1 @@
+program Z1 : c : takes m, N840 : boolean array returns boolean T, sL2 : boolean; o, Y, A, h : integer; when case - false and 2 >= - 0 : input f; let N = 2; output ""; pop end end tES0 : takes _lQ0, xf, _7L : integer array returns integer while 000 = 23 : do d(9); let Z = 6; pop end end main : p, f : integer; C8 : integer array; chillax end

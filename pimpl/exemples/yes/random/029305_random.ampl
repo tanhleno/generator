@@ -1,0 +1,1 @@
+program f : k : takes PMi0a, YVNaa : integer array returns boolean array iX, w, k5 : integer array; Y, jG2, k6 : integer; G : boolean array; output "\t" . 169; pop; pop; when case 9 : chillax end otherwise : chillax end; let e1 = 9390; do A1(0) end main : S, zt5aa, x, o : integer array; Gj20, XT, aW, d : boolean; chillax end

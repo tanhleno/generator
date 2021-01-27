@@ -1,0 +1,1 @@
+program y : g : takes r5, iKo : boolean array returns boolean z, J, B : integer; S : boolean; n4 : boolean; mRu : boolean; gf : boolean; when case 1 + 2 - 6 < 3 - 54900 : chillax end otherwise : chillax end; while 620 - 3 /= 736 : chillax end; do q(8); input F[0] end jn : takes b6 : boolean array returns nothing let c[- 8] = 8 = 0; output 02 end main : chillax end

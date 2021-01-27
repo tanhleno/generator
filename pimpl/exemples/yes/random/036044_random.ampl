@@ -1,0 +1,1 @@
+program G210a : a : takes V : boolean; H : boolean array returns nothing W6 : boolean array; M, p, uMy0a, x : boolean array; let w7F = 6 = 9; pop end H3C : takes F1u : boolean; L, Qw, mz, _jd : boolean array; A : integer; P_8, HKA0, Y7T, Qr : integer; E : integer; frE, i : boolean returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program p : sIP0a : takes g8E : boolean returns integer w4, l, z : boolean; while(47) and 258 : while 5 : pop end; input j; when case 74 : chillax end; pop end end main : K : integer array; R9p : boolean array; aeA, Xy90a, f, V : integer array; while - 7 or true * true + 2 or 6 - 2 >= (4) : chillax end; pop - ss /= - 19 end

@@ -1,0 +1,1 @@
+program F : a : takes G5, s880a : integer returns nothing let ez = array(6) and 9; pop end Uo : takes Qw10a : boolean returns boolean array chillax end A : takes x5ra : integer array; wG : integer array; N, l, f : integer array returns boolean array chillax end main : chillax end

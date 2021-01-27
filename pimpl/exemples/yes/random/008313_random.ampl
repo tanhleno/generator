@@ -1,0 +1,1 @@
+program Q : x : takes OkZa, c, mCT, p : integer returns nothing G0Iaa : boolean array; K, v, J1d0 : integer; u : boolean; input R[- jL6]; output 0 = 3 end X : takes A55, ba : integer returns boolean y6, u6maa, i : integer; G, al30a : boolean; chillax end main : chillax end

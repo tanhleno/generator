@@ -1,0 +1,1 @@
+program k : sc : takes g, h : integer array; Dn, AT, UC, k95 : integer; kn, QMJ : integer returns nothing chillax end b : takes V : boolean array returns nothing chillax end v : takes T : integer; m, vq : integer returns integer yp7a : integer array; let I[7910] = array 6140 end EJ6 : takes k : integer array returns boolean z : boolean; O : boolean; pop end main : chillax end

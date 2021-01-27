@@ -1,0 +1,1 @@
+program J1 : main : L : integer; do x(5 > - zI(7) rem(89) and 57600); output "<" . "\n;0" . 4 . 9 . "/&" . ""; while - p and 54 + 2080 - 377 : chillax end; while - 1 = 5 : let p = 5; output "\nA" end; pop; let C4 = array 1; output "<(0"; when case 7 : chillax end; pop end

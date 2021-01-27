@@ -1,0 +1,1 @@
+program S700a : f1G : takes e, W : boolean array returns boolean v : boolean array; E74 : boolean array; when case - YK or 3 - 436 <= 31300 : chillax end end s7 : takes M, K_ : boolean; Xx1 : integer array returns nothing do M(- 74 - 5); while 75 = 511 : chillax end; output "\\"; while 0 : chillax end; output "K\na" end main : chillax end

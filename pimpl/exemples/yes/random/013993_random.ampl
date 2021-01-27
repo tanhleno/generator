@@ -1,0 +1,1 @@
+program VM60a : K : takes u, Cz, W : integer array; X, s : integer; g, I, v, oka0, p52a : boolean; F9 : boolean returns integer c, q : integer array; F13 : boolean; _2 : boolean array; H, FGo0a : boolean; chillax end main : chillax end

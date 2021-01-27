@@ -1,0 +1,1 @@
+program r5 : f : takes _, NR8, Xm, H6, P, x9, C, i8_ : boolean array returns integer A, Z, dy, w, F : boolean array; Skb : boolean; z, h, RM : integer; chillax end main : W : boolean array; i3, k13, e : integer array; T : boolean; output - false + T and 3 = - false and 4 or 21300 - 247 end

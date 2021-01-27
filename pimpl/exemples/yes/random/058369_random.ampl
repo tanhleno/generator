@@ -1,0 +1,1 @@
+program E : z : takes J : integer array returns boolean sP : boolean array; BVy0 : integer; while - not 5 and 8 > 6 : when case 68 : pop end case 61 : chillax end end; while 82 - 3 /= 340 : chillax end end main : K : boolean array; C8 : boolean array; chillax end

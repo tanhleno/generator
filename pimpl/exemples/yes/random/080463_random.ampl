@@ -1,0 +1,1 @@
+program P960 : main : hF8 : boolean; when case true or true - true and 536 or 90 - 4590 : output "+"; when case 31 : chillax end; pop 5; while 9 : chillax end end case - true or not 45 : when case 6 : chillax end end case C : chillax end end

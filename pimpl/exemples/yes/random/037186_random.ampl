@@ -1,0 +1,1 @@
+program Ts : LuE : takes r : boolean; H : integer returns boolean array N8, J3 : integer array; L, Jz00, B : boolean array; when case not 4020 and 99 : output 1 . "\\"; let l = 2; output ""; pop end case - 1 < 7 : input k end; output ""; input _Y[6]; do T(9, 0); do R2(5); output "\t" end main : D, V : boolean; chillax end

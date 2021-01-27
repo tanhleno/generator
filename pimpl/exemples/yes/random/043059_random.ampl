@@ -1,0 +1,1 @@
+program i : vK6 : takes T1b0 : boolean array returns integer G, Akq, n, W : integer; do gC(pC5 and 7 or 2 - 5600, 3 - 0) end lAR0 : takes B : boolean array returns nothing I : integer; X7, yHS0, n : boolean; chillax end main : do R4(- Z9[80400] and XxN[88] * not 18 - not(7010), - not not 82 and 5 and 463 + false and 4, - (687) - 4540 - 47 < 845, 7 - 4) end

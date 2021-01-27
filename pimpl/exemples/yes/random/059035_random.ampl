@@ -1,0 +1,1 @@
+program G5z0 : N : takes V : integer array returns integer array when case - (2) and 8 : chillax end case - 83 /= 73 : pop end end main : H : integer array; while - false or(9) and not 02 <= x(5) rem 686 and 068 : when case 63600 > 2 : chillax end end end

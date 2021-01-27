@@ -1,0 +1,1 @@
+program I6p0a : D : takes T5 : boolean array; B, WO, IF, Z, HzC0 : integer array; h, e_80a : boolean array returns nothing u : boolean array; z : integer; T : integer array; Ac : boolean; v7 : boolean; input P[- false and 240] end main : chillax end

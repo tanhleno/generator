@@ -1,0 +1,1 @@
+program o : c : takes yq7 : integer array returns nothing J2, z : integer; q87a, R6p0 : boolean array; H : boolean array; e90 : boolean; J : boolean; n : boolean; chillax end main : P : integer; _ : integer array; pop end

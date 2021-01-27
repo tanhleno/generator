@@ -1,0 +1,1 @@
+program p : v9 : takes F : integer returns nothing let Z9[not 885] = - 7 <= 0; do M(- 26); when case 5 : chillax end otherwise : chillax end end c : takes l : integer returns boolean rX : boolean array; chillax end main : while not false rem cS(4640) * false and 8 : chillax end; let z73 = array Z(6) end

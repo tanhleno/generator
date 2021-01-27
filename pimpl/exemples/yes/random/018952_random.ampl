@@ -1,0 +1,1 @@
+program jz30a : XL : takes x8, k39aa : boolean array; a, U, M : boolean array returns nothing pop 01900 - 0 = 463; when case - 18 : when case 34 : chillax end; input xa4; pop end case 11 = 69 : let v7 = 38 end case 3 : chillax end case 99 : chillax end end main : pop - false + Le and 34 - 47; let i = array j(7); output "g" . 6 end

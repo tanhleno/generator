@@ -1,0 +1,1 @@
+program SR00 : n : takes j, Y6Naa : integer array; C9 : boolean array returns nothing chillax end s : takes T, Q, Q, I64, r : integer array returns boolean array C, f : integer; while - 29 < 9 : let o = 1 end end main : input D2g; output "" . 81700 - 8910 end

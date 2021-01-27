@@ -1,0 +1,1 @@
+program a : z : takes l8, L : boolean; p : boolean returns integer T1 : integer; chillax end main : bx, a : integer array; let W = - false + (3) and 647 < (7) and 70100 or 05 - 07; output P and 1 /= 96 . 9 = 229 . ""; while - (1590) - 61 - 25 <= 4 : chillax end end

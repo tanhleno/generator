@@ -1,0 +1,1 @@
+program t4 : G2 : takes G, v1, T3V, B1 : integer array; c : boolean array; sj, j, N, zI1 : integer returns nothing B : boolean; chillax end main : D7, dK2 : boolean; pop true - false and 3 + 4 < - (5) + 22 end

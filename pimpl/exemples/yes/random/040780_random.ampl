@@ -1,0 +1,1 @@
+program G : _ : takes v : boolean array; G7 : integer array; u, V, Y8 : integer array; v : integer array returns integer array while - true and 9 - 934 - 09400 > 1 - 8 : input e; output "" end end main : p9T : boolean array; g5 : boolean array; A, m, B5 : boolean; chillax end

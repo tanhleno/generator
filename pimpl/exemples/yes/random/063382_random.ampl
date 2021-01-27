@@ -1,0 +1,1 @@
+program oLS0 : D0 : takes YL : integer returns integer pI, O : boolean array; _, r9, sg3, I : boolean array; chillax end C : takes bM0aa : boolean; N : boolean array returns nothing do S(- 9 = 0) end main : h, _ju, B, q8, e, e : integer array; pop - false rem(88) + false end

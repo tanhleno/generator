@@ -1,0 +1,1 @@
+program l1 : main : L : integer array; output 7 rem true and 8 or false and 04 > not 1; while - not true and 9 and 72 - not 49600 : input Y[34]; pop 1 end; while - k4 and 7 + 40 - 69 >= 481 - 14 : while 81 : chillax end; output ".s"; input c; pop end end

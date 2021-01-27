@@ -1,0 +1,1 @@
+program p : main : w, I660a, A3, l : boolean array; input Qo; output ""; input n[- false - 5510]; when case - 19800 - 73 < 72 : when case 66 : chillax end; do zFG(15800) end case 7 : let g3 = 82 end case 7 : pop end case 1 : chillax end otherwise : while 79 : chillax end end; do S5(9); while 76700 : chillax end end

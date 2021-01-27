@@ -1,0 +1,1 @@
+program gD : U : takes i : boolean array returns nothing chillax end main : while false and 0 / 8 + true rem true and 8 <= 4 or true : when case - 339 < 7 : chillax end case 51600 : input VJ60a end case 088 : pop end case 9 : chillax end end; let kqI0 = array false end

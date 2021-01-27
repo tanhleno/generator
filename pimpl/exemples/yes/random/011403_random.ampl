@@ -1,0 +1,1 @@
+program m1 : J0 : takes j, u, W3z : boolean array returns nothing M3 : integer array; b, J, F, f : integer array; chillax end W : takes l : boolean array returns nothing pop; do fb(30, 375); when case 918 : chillax end case 80000 : chillax end; while 3060 : chillax end end main : do g1kaa(- (439) or not not 58 and 2 <= true); output "\\.!a" . 23 - 7 = 8 end

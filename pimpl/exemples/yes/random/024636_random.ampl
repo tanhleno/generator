@@ -1,0 +1,1 @@
+program d5n0 : _B50a : takes w8, m7 : boolean returns nothing Z : integer array; A : boolean; input e; do C(4 - 51 > 610); output 15 . "0"; let f2 = 92; do I9R0(1); input T; pop end main : Z : boolean; As, UQ70 : boolean; m8v : boolean array; chillax end

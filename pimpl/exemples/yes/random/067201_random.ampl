@@ -1,0 +1,1 @@
+program D : main : do rB(R + 6 / not 37 or true - 90 - 26200 < - 7670 and not 68, not H rem F8 <= (93) - 3260 - 5, (7) and 59400 - 6 - 48300, - 8 - 5 /= 4); while - 2 and not 7 and 21300 /= true : let O7 = array 67 end end

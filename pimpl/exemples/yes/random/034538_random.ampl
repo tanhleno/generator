@@ -1,0 +1,1 @@
+program S : i5p : takes GO : boolean; Yf, pr1aa : boolean array returns integer m, nKFaa, k : integer; b : boolean; s, O6e, c0 : boolean; gKj : boolean; while(047) - 9 : let N = array 20 end; while 4 = 998 : let N5 = 9 end end main : chillax end

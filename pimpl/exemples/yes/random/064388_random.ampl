@@ -1,0 +1,1 @@
+program Lis : q : takes BW : integer returns nothing k, Q140, c : integer array; Q : integer array; C39aa, b : integer; e : boolean; chillax end main : input SM[- (46)]; while 3 = 3280 : while 0 : output "\t"; pop end; when case 18 : chillax end case 3 : chillax end; output "W" end end

@@ -1,0 +1,1 @@
+program z : uX : takes Jh, k, A8 : integer; Uw, n5, i97, v : integer array returns boolean input i; let d51 = 2 = 1; input Q4[4]; output 46100; while 9 : chillax end end main : a : boolean; while - (70 = 1) : chillax end; do f9(not tsd / true - false, not 3 or 907 - 9 = 50 - 8); let y19a[71 or 1390] = array - false and 7; when case - 47 /= 5 : input u1I; output ""; pop end end

@@ -1,0 +1,1 @@
+program kJ : X190 : takes T, i : integer array returns integer array input i[l and 0]; do b86(- 75300 <= 94000); input p[233]; output 153 end main : tE5aa, F3 : boolean array; R, W : integer; chillax end

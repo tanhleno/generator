@@ -1,0 +1,1 @@
+program gl : C : takes t : integer array returns nothing x, mG1a : boolean; y, x04, be, Sc : boolean array; output - 00 - 46 . 8 end main : let p0[- 4 / not(6) rem(95)] = - false; output "\\*" . "" . "+" . 22 . 658; do B(- false and 31 + 97 - 8 >= - 4 - 9) end

@@ -1,0 +1,1 @@
+program I : i : takes E, mL : integer returns nothing d : boolean array; chillax end E53 : takes Efy0a : integer returns nothing Wp : boolean; chillax end main : do u9(- false * k, - not(09) rem not 9 and 43 - (37) and 73 or 0 - 5, - tm5aa and 122 + 2, - 5 - 1) end

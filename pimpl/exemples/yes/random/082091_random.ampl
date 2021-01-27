@@ -1,0 +1,1 @@
+program NF5 : main : O : boolean array; G4Z : integer array; C : boolean; s, Y : integer; let N[3 * (4) + 740 rem not 4] = - false / (9); when case - not(24) * false or not 69 > - not 9 and 6 : do GO(0 = 8); input d end otherwise : output "" end; output - 3 /= 797; do O(- 4); while 61600 = 1 : chillax end end

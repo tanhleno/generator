@@ -1,0 +1,1 @@
+program auGa : main : f : integer; OK, f : boolean; when case - K - not 9 / not 8 and 44 : let Gl[546] = 6 = 2; do C(9 = 9, 9, 1) end case - false and 002 and 6 or true + 391 = - true : chillax end otherwise : chillax end end

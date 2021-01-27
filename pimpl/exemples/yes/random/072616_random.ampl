@@ -1,0 +1,1 @@
+program u : main : L, c, i : integer array; do H(- true / not true or not 2 /= not true / true - (493) or 2, uB(9) and not 3790 or(7)); while g60aa(58) : output "\n" end; let l[- true and 6] = 4 /= 364; output "" . 65 . 0910 . "?;0" end

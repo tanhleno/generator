@@ -1,0 +1,1 @@
+program f5J : main : YF, p3, J7, w_, G : boolean; e5W, h : boolean; when case h(3) rem false and not 07 and 8 < - 5 and(77) + true : chillax end case - 178 : let t = 405; pop 296 end case - false and 96100 : output 2 . ")kaa"; let Hl3a = 6; input Pv6aa end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program s : s : takes D, j3 : boolean array returns integer array QdG : boolean; while - (4) and 3 : let T = 8830; when case 92 : chillax end end end I : takes z, r : integer; R, xL, b9t, x : boolean returns nothing K, l : integer; K, s22 : integer; chillax end main : let D6 = array - true; input T end

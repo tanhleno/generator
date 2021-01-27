@@ -1,0 +1,1 @@
+program W : main : y, R : boolean array; output 6 * (37) and 0 - false or 9 - 1 . false and 6 >= - 38 - 150; while not not 0 / (1) and 3 = true and 927 or 7 - 8 : while 753 = 2 : chillax end end; output "" . "" end

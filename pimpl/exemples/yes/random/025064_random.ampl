@@ -1,0 +1,1 @@
+program oy40a : P4 : takes lC6, nA1 : integer; y7_, h51, A6, s : boolean array returns nothing y, b : integer; let y660a[- false and 2860] = array - (752) end main : Q, Gc, YP : integer array; when case false rem(2) : chillax end; let pA9[M1qa[24] * (07500) and 1 or w5] = - y - 0 - 0 end

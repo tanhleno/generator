@@ -1,0 +1,1 @@
+program R : main : h : boolean; f220a, bS8a, PR, E44 : integer; while 38 + true rem D /= - m(483) and(0200) or 4120 and 9 or 8200 : input V end; do L((4010) and ZYMa - (2) and 5 /= not 3 and 94700, - not 9 + 88400 - 5 >= 4) end

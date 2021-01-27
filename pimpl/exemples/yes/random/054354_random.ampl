@@ -1,0 +1,1 @@
+program yf6a : P7 : takes q : integer array; eAz, ez, jWf0a : integer returns nothing Z, F3s : integer array; E : boolean; o, O0 : integer; input M[(5) and 8 or 2]; output 2; input G9 end main : A13aa, EI, j : integer; chillax end

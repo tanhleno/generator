@@ -1,0 +1,1 @@
+program lf9 : Z : takes GA, V3, p_a, v, B4La : boolean returns nothing chillax end P : takes T : integer returns boolean chillax end main : Jz : integer; while false rem false + false and not 4 < true - not 0 : chillax end; while(4) rem true + not 6110 and 70000 or 927 > - not 93600 : chillax end; let VY[(36) and 5] = 8 /= 3 end

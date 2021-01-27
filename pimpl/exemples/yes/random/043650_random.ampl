@@ -1,0 +1,1 @@
+program Km : Ip3 : takes R : boolean array returns nothing chillax end O : takes C : integer array returns integer chillax end main : U : boolean array; while(365 = 6) * 5870 + (7) rem 2 and 0 /= - not IS * 8 + (4) - 34 - 17 : chillax end; do s(false) end

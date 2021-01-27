@@ -1,0 +1,1 @@
+program O14 : I2 : takes Njz, O : integer array; J, pTJ : boolean returns nothing Oy, i : boolean; input b72a[- not 5]; while 63400 - 0650 : chillax end; pop 34; while 0 : pop end; let oz = 1; while 8 : chillax end; pop end K : takes z : integer returns nothing chillax end main : O, d43, L : integer; pop end

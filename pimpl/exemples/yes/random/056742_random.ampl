@@ -1,0 +1,1 @@
+program m : E : takes EG20 : integer array; cz : integer; b : integer array; z5w0 : boolean returns boolean array while true and 65 + 1100 : chillax end; when case 906 >= 4 : chillax end otherwise : pop; pop end; let H[9] = 7 end main : a9a, q, d, tG : integer array; chillax end

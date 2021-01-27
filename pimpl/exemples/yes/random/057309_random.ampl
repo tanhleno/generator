@@ -1,0 +1,1 @@
+program Fk0aa : e : takes _0r : integer array; s : integer array returns nothing output "" end main : bP1 : boolean; while - (1 = 0) rem(2) or false * not 9 - true and 268 <= - false rem JONa and 9 + true or 6 - 2 : while 9 : let J3 = 8040; when case 4 : chillax end end end end

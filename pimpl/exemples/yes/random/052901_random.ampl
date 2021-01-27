@@ -1,0 +1,1 @@
+program i4 : R : takes y5 : integer; h : integer array returns boolean output - 4 - 22 . 268 = 36 . "" . 82 end p96a : takes EKB, P4x, E1, l : boolean array returns integer D6, Y : integer; N : integer; chillax end cT : takes S29a, N, QB, M4, tU : integer array returns nothing pop end main : input i[- true]; while not not 5 rem B and 1990 : chillax end end

@@ -1,0 +1,1 @@
+program i9 : tbg : takes N7 : integer returns nothing SeXaa : boolean; R, X : boolean; S, N79a : boolean; M : boolean; a : boolean; pop - 66; input r[- 94] end Dj : takes Ld : integer; M2 : boolean returns nothing _8, k : boolean; oB : integer array; while 0 - 112 > 1 : chillax end; do V34aa(22 = 81); output 8; output "\\+" end main : pop 57900 rem false or true and 51; pop end

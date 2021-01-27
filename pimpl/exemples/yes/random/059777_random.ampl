@@ -1,0 +1,1 @@
+program i0 : D : takes P32a : integer array returns nothing chillax end P : takes YQCaa : boolean; nei : boolean; n, x : boolean array returns integer array chillax end main : p2, v3, m : boolean array; i, xD8aa : integer; p4, zS70, k9, l, T6 : boolean; input v end

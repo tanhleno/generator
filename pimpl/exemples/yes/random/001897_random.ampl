@@ -1,0 +1,1 @@
+program og : a22 : takes U, Oq, h, u64, mq, O : integer array returns integer chillax end m : takes s560a : integer returns boolean chillax end I : takes dn6 : integer returns nothing chillax end main : ok9 : integer; chillax end

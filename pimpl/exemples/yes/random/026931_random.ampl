@@ -1,0 +1,1 @@
+program gC : vjf : takes f7c, H : integer; b46a : integer returns integer C, R : integer; X5, q6Pa, N830a, h : integer array; h, F_ : integer; A1 : boolean; chillax end main : e : boolean array; do w(true > - 6, false / 5 and 8 >= (98100)); do Cd40a(true, true + 3 - 95800) end

@@ -1,0 +1,1 @@
+program TS0 : g1ca : takes k : integer returns integer array u4q : integer array; q8 : boolean; y : integer; chillax end I4 : takes s : integer array returns nothing pop 883 = 1 end main : when case - true / false / true and 99200 : pop 8 = 81 end case false /= - 187 and 2 : chillax end case 2 - 345 - 4 : do WO(5) end case 63 - 50 < 2 : chillax end otherwise : chillax end end

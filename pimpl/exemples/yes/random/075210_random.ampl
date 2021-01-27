@@ -1,0 +1,1 @@
+program D : main : F, G : boolean array; m7 : integer; O : boolean; Geo0, U : integer; O : boolean array; while s6jaa(0) + Cde[9] / (605) - (6) or 2 = false * false and 91 : output 3050 = 971 end end

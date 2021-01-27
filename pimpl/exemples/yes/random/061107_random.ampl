@@ -1,0 +1,1 @@
+program Wyj : c : takes G : integer array returns nothing t3 : integer array; y, mf, C8, v : boolean array; o : integer; o : boolean; p : boolean; chillax end Tn8 : takes t : boolean; l : integer array returns nothing chillax end Xh9 : takes L9 : integer; X6, h : integer returns integer array chillax end main : let K8[- 77 / 92 or 3] = array - (3) / not T rem ksOa and 3490 end

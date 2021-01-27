@@ -1,0 +1,1 @@
+program t : main : do I((3 = 8) * false or true * true + false and 4 or 2 - 75000, - 1 and not 6, - (9)); when case - 85 rem true and 6 or true and 41 or 9 - 18500 : chillax end; do xT(- false and 92100); do n(11 - 86 < 6); when case 51 : chillax end case 1 : pop end otherwise : pop end end

@@ -1,0 +1,1 @@
+program h6 : j4 : takes l8 : integer array; V : integer array returns nothing chillax end O : takes kK70a, Z6, S, H01 : boolean array; t6 : integer array; Uo70a, y3Z0 : integer array; p49, O : integer returns integer chillax end main : b : boolean; D7, o, iNV0 : boolean array; EH : boolean; pop; do U33(true rem not 6810 + not 104, true and 921 or 94, 910 /= 4); pop end

@@ -1,0 +1,1 @@
+program a : u : takes h7 : integer array; HO40 : integer array; u490 : integer; O, rBG, v8_a : boolean array; LqIaa, n9r : integer array; hy, K9 : boolean; O6p0a, U3H : boolean returns integer pop; when case 98 : when case 2 : chillax end end end main : E : integer; aTw0a : boolean array; fv4a : integer; G, u : boolean; chillax end

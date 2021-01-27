@@ -1,0 +1,1 @@
+program _ : FF : takes f10, b7 : integer array; c9, Ni : integer returns integer input Yuc0a[(5)]; while 9 : output "" end; let JC = array 4 end main : when case - not true / (4) and false and 69000 + false * not 63 : chillax end case true / false and 39800 : chillax end case - true - 3 : while 3 : chillax end; do l(4) end end

@@ -1,0 +1,1 @@
+program Tgra : G29aa : takes d, H8 : boolean; sc : integer; _8 : boolean; HT : integer array; g76, Q0 : integer array returns nothing while - false and 5 + 60 - 585 : let H7r[7] = array 6 end; while - 9 /= 62 : pop end end main : chillax end

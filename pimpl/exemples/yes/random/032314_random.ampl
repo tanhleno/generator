@@ -1,0 +1,1 @@
+program Kf : C : takes Ho5, G : integer returns nothing chillax end a4 : takes d : integer returns integer H3 : boolean array; chillax end main : b96 : integer; while WB or true / (8) and 61 or not 627 and 977 <= true and U and 7 : let U8[- 559 - 62] = array - 08 end end

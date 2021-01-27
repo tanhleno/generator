@@ -1,0 +1,1 @@
+program d8s : main : z3, e : boolean array; gZ : integer; when case false + not true < - (6) or not 36800 and 957 + 6 - 2430 : chillax end case - true * (0) and 58 - 3 and 77 + 751 < - false and 83 : chillax end case - 0 : chillax end case - 3 : chillax end case 2 = 986 : chillax end case 39 : pop end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program b : j : takes Y : integer array; PO90a, z0C : integer array returns integer let C3[050 or 98 - 9] = array false; pop 57 = 2; let g = 6; when case 74 : chillax end otherwise : chillax end; do _4v(80) end main : input Re10[- (49 = 8)] end

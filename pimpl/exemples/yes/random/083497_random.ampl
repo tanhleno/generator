@@ -1,0 +1,1 @@
+program d : main : k4 : integer; ivG, fz0 : boolean; do S3(false /= - 7 rem(6) and 72); when case not(37) + 482 : chillax end case - 1 and 8730 + 7 : output 40 . "" end case 3 : let Lu = 81 end otherwise : chillax end end

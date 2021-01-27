@@ -1,0 +1,1 @@
+program e35 : P : takes r : boolean; XgP : integer array; i010 : integer returns nothing h : boolean; i, E, Op3 : integer; chillax end KC : takes n7, I6oaa, g950 : integer returns integer u0 : integer; do v10a(- 8, 0 = 2); input a1Raa[168] end main : j : integer; h9, E12, c : boolean; f, nW3, aHkaa, P, y4e : boolean array; let X = array(2) / 3 / false; pop end

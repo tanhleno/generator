@@ -1,0 +1,1 @@
+program T : aR : takes Z9, BM, UH : integer array; R, h : boolean; F : boolean array returns nothing q : integer; chillax end main : zK3, dV, e, Y8y : boolean; output "" . ""; while - false - 9 + 33 : do N(64 = 22800, 49500); while 7 : chillax end end end

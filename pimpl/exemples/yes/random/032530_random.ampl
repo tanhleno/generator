@@ -1,0 +1,1 @@
+program F : Z9 : takes E, d9 : integer returns nothing F79, j, L : boolean; a56, yYi : boolean; chillax end main : do w(- true and false or false rem J - i1 and 3 + 935 - 59600 <= false, - TW(75) / 5 and 8 = - 4 and 1); pop 6 + 46 = - 1 - 5960; when case true and 126 = - 23 : pop end end

@@ -1,0 +1,1 @@
+program iP : main : when case - 4 * false - 8 : input T[7 - 2] end otherwise : when case 6 : chillax end otherwise : pop end; let Uz = array 5; while 89 : chillax end; pop end; while 85 and Y and 4 > not 73 : input a1; do Y(91, 1) end; when case - B - 8 : chillax end otherwise : chillax end; output 6 = 35 end

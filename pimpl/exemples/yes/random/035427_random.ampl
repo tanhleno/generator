@@ -1,0 +1,1 @@
+program d4 : aY : takes y5Y0 : boolean; TS0a : boolean; xO0, Z : integer array; As, p, l, g : boolean; l3N0, i5, S : boolean array returns boolean array when case M2ha and 65 : chillax end end main : pop - not 4 / false and 10 + true < - true and 88900; pop 78900 and 8 >= 8 - 0 end

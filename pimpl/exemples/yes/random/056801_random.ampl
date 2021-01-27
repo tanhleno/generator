@@ -1,0 +1,1 @@
+program r : n : takes i : integer array; a : integer array; _G0aa, u, y3taa, Th, c97, D2 : integer array returns boolean array let a[7 + 54] = - 51 /= 5 end cEs0 : takes u : integer array returns nothing input W; input y end main : do uS((68) * S40aa * q - (4) - not 83 - 64300, (65) - true and 38, (794) and 1 or 7 - 91 <= 34500) end

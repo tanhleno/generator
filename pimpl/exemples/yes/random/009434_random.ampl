@@ -1,0 +1,1 @@
+program o : s : takes BM6, IiQ, V : boolean; PD : integer returns boolean Ck, n, v2da : integer; WF, N : boolean array; let K[l9] = array c - 410; input fD; pop 9; while 0 : pop end; let U = 1 end main : while - (43700) / DVtaa and false >= not not 9 rem 8 - true : output "" . "" end end

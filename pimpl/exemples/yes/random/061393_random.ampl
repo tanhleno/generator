@@ -1,0 +1,1 @@
+program Y : V : takes Y : integer array returns nothing output "" . "^" . 6 . 5 . ""; pop 8 = 5 end main : ln, qOj0 : integer array; db : boolean array; p : boolean array; input n; let FD[- (77) * (01) + false + 677 - 7] = array - true end

@@ -1,0 +1,1 @@
+program t : E : takes l : integer array returns integer yc00a : integer array; h : boolean; Q : integer array; let d = 8 < 07 end a5raa : takes X : boolean returns nothing chillax end main : chillax end

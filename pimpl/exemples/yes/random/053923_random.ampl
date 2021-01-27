@@ -1,0 +1,1 @@
+program A : d : takes v : integer array; cqY, o1i, _ : boolean; cT : integer; Qg : boolean array returns integer H5 : integer; chillax end main : output ":" . false and 3 - 027 <= - 7 - 197 . "\\" end

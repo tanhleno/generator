@@ -1,0 +1,1 @@
+program o : E : takes V, E : integer array; M : integer returns nothing tF, e, Z : boolean array; jT4a : integer; b, _Iu, Y : integer array; chillax end tY8 : takes oJ, X : integer array returns boolean array do l6C0a(5, 928); let pf = 88700 end main : chillax end

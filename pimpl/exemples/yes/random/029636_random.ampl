@@ -1,0 +1,1 @@
+program B : xXga : takes RV, F : integer array returns boolean let N[7 and 3] = - 5200 <= 57 end z : takes l, a3_ : boolean returns nothing Z, oH, uzd : integer array; chillax end main : do m(78 and(10) rem w and 15700 > - true) end

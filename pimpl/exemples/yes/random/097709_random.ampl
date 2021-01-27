@@ -1,0 +1,1 @@
+program CM : main : when case true rem T(06) * not 87 and 5 + false - M and 18 : output "\"" end case true rem true or true or 365 - 36 : output "S$"; pop end case - not 15 and 4 or 4 - 50300 <= - 923 - 8 : let I4 = array 964 end end

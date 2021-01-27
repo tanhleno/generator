@@ -1,0 +1,1 @@
+program k : f8vaa : takes d : boolean array returns boolean chillax end u : takes OF : boolean returns nothing while - 6500 : pop end end main : pop; when case - a >= cN4aa : input Z8; while 95 : pop end; let k = 0 end end

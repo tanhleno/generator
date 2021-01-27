@@ -1,0 +1,1 @@
+program q01a : main : x2T : integer array; when case(1) + (6) <= W4(59) / (00) and 03 : output 740 = 1470 . 18 . 6 . "%2a" end case - not(395) / lB and 4 - 6 : do R(5, 9) end case X /= - 1 : output "" . "" end end

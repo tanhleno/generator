@@ -1,0 +1,1 @@
+program F4 : a : takes r, J4ya, J, s : boolean; Tcj0 : integer returns nothing pop - 31 /= 5; when case - 44600 - 7 < 07 : chillax end case 156 : pop; pop end end main : I, HY, i6N, yW3aa, U7 : integer array; chillax end

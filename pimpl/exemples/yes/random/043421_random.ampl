@@ -1,0 +1,1 @@
+program Teq0a : H0e0 : takes __6 : boolean array returns nothing chillax end G : takes U, Qi4, z, e : boolean array returns boolean chillax end main : pop; while - true = 9 and 0 : output "4"; input yrQaa[866] end end

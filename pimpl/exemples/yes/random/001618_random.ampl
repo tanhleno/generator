@@ -1,0 +1,1 @@
+program d : gzCa : takes n, om4, uG, V, QyV0, jN : integer; L, vF : boolean; d, e, C, _ : integer array; D9V : boolean; kg, _, R : boolean; k53 : boolean returns nothing chillax end Q7n : takes C : boolean array; x, y, X2, K : integer; o : boolean returns integer array T3 : boolean; hE : boolean array; chillax end main : chillax end

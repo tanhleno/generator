@@ -1,0 +1,1 @@
+program L4 : main : T, QX, _, bu, Y : integer array; do l((66 = 492) or YFE0 /= (380) rem false or not 4); output - not 5 and 7 . - 1 > 071; while - 1 or 45000 : when case 2 : chillax end otherwise : chillax end; let m = 7; while 22 : chillax end end end

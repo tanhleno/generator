@@ -1,0 +1,1 @@
+program z : l89 : takes j, T : boolean array; v, Q : boolean array returns boolean when case - 30 and 277 + 93 - 95 = 3 : chillax end otherwise : pop; do w(9); pop end end main : t, Z6, O, J84 : integer array; chillax end

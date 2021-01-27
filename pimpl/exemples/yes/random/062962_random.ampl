@@ -1,0 +1,1 @@
+program J7 : oD : takes _7 : integer returns integer array x : boolean; when case - 6 - 0 - 236 : chillax end end c : takes C2, AN9 : integer array returns nothing f : integer; chillax end main : a1 : boolean array; chillax end

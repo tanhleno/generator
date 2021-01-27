@@ -1,0 +1,1 @@
+program B : A1P : takes c, J, OI, un : integer returns nothing do NN(- not 8 and 9 < 6 - 7); do B3H(9 /= 16) end main : Q8 : boolean array; t, W, Ov : integer array; output ""; output not 4 and 2 or 1 - 4 > - 04100 - 0 . ""; let y9[- B] = 3 - 5 = 3 end

@@ -1,0 +1,1 @@
+program y6e : w : takes _lS0a, o2 : integer; S : boolean; Q, _, EQR : boolean array; Tl, f, A, S7, T : integer; Q, n : boolean; o : boolean array returns nothing U, j5q : integer; fV8aa, J, k : boolean array; Z4 : integer array; T, U : boolean; chillax end main : let k5 = (656) and G or(63) - 9 - 383 > - not 6 and 4; output "" end

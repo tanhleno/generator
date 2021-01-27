@@ -1,0 +1,1 @@
+program C8 : N : takes S12, a3 : integer; Pf, x, C : boolean returns nothing t_g, R7, yce, O : integer; do l(- true and 5 or 37 - 1 > 1 - 59, 405 = 46100, 2 = 8); pop end main : G22aa : integer array; ZMba, Z, I_k0, h3, V3, EA : boolean array; do _(- (61) + true + JR and 98 or 9, false and j) end

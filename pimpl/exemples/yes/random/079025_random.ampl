@@ -1,0 +1,1 @@
+program ZGg : main : u : boolean; wF, lp4aa : integer; f8 : integer; w : integer; do p(- 3 * 8, true rem P + not 80 and 2 + 21 - 5 > true + 3); while - (28) and true and 3 /= not 795 and 4740 : chillax end; while oe or 6 >= - 7460 - 62800 : chillax end end

@@ -1,0 +1,1 @@
+program R : _ : takes c : boolean array; a7s, c1, e5, OQ : boolean; w : boolean array returns integer pop end main : when case - true : let _[1 - 8] = array 2; let oM[8] = array 5; while 4 : pop end end end

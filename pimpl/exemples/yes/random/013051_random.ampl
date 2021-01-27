@@ -1,0 +1,1 @@
+program An : jm9 : takes a_, x0, ltAa : integer; c05, T0 : integer returns integer when case - false /= - 0 - 4 : output 67200 . ""; do K(0) end otherwise : chillax end end main : IA8 : boolean array; X_oaa, J, c7, E : integer array; n8, w : boolean array; chillax end

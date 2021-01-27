@@ -1,0 +1,1 @@
+program L : gB9 : takes OU2a : integer array returns nothing let B[- 0 or 7 - 3] = 0 end F28 : takes R53, L6, RW : integer returns boolean when case - 3 - 859 < 482 : chillax end case 1 = 3 : while 5 : chillax end end case 8 : chillax end case 43400 : chillax end; input h8ta[84] end main : chillax end

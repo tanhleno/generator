@@ -1,0 +1,1 @@
+program pE : main : hcI : integer array; V, X : integer; when case false + true + false < - not not 5250 rem not 873 and 100 or SS7 : output 3 = 12 . "k\\aa"; when case 37 = 95500 : pop; pop end case 3 : pop end otherwise : chillax end end case(1) - not 5 < - 69 and 073 + 51 - 9 : chillax end; input A5[- not true + false] end

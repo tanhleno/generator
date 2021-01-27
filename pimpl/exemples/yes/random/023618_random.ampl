@@ -1,0 +1,1 @@
+program v7 : R : takes t, s5 : boolean returns integer chillax end qZ6 : takes U, D, a1, A : integer array returns boolean array dV, K40aa, E, v : boolean; Nh, M5 : boolean; x, bJ : boolean; f : boolean; chillax end main : while - true / not not 16600 : chillax end; do cI(Nw(2) rem(29) + pe > - not 9 and 889, (8) - 5 - 0, - 3 = 81, 5 = 45, 2, 35200); output ">" end

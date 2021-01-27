@@ -1,0 +1,1 @@
+program T : O : takes V : integer array returns nothing E : integer; chillax end main : do v(- Rs(2, 7) rem(9) rem b15 and 0 - not true rem true + true or 5150 - 8); pop - true and 4 >= 8; let q = 6 end

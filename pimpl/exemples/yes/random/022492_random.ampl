@@ -1,0 +1,1 @@
+program Z8 : p : takes u, O : boolean array returns nothing r3m : boolean array; pop - 2340 - 3 <= 44; output 6 . ",'"; do X5M(2, 68, 7) end p6l0a : takes i, j, v, H, K : boolean array returns nothing do cH(772) end main : A13 : integer; X : boolean; let G2[921 or true] = array(0 = 4) end

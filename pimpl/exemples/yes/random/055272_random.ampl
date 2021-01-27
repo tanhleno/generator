@@ -1,0 +1,1 @@
+program p : S : takes l : integer array; RO, C6 : integer array returns nothing Z : boolean array; chillax end main : f7, f, Lz9a : boolean; B : boolean; when case not 426 and 7 / 33 > - (50) rem false : pop end case not(8) : output 0 end case false + 2 - 2 /= 3 - 90300 : pop 08; pop end otherwise : chillax end end

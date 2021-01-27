@@ -1,0 +1,1 @@
+program S : M : takes b57, vc : boolean array; F : integer; k, T, X, T, q2 : boolean array; CK : integer returns integer chillax end main : e : integer; when case - not A and(24) <= not false : chillax end otherwise : chillax end end

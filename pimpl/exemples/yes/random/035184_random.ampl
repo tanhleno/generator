@@ -1,0 +1,1 @@
+program W : CH9 : takes w : boolean; n, Iq : integer returns boolean H, iL, Su : integer; n, e : boolean; input f end Q7 : takes x : integer array returns boolean dr, b, n, SJ : integer array; chillax end E : takes P2, q, P, mx0 : boolean array; T : boolean returns nothing chillax end J8Y : takes f : boolean array returns nothing J4, z : boolean; chillax end main : chillax end

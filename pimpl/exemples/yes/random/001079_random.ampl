@@ -1,0 +1,1 @@
+program ns : G : takes y0V0a, qv10, R, ZD6aa, R6, ob : boolean; R, E, YJ, XH7, O : integer; X0a : integer array returns nothing chillax end L : takes W, t1M0a : boolean array; n, Sw, O, C1, qt70 : integer array returns nothing chillax end main : F, K60, c, bA : integer array; output "\"" . true or 98 - 81 = - 8 - 0190 end

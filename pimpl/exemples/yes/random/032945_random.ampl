@@ -1,0 +1,1 @@
+program u : P : takes C, iO7 : integer returns nothing C3s0a : integer array; N : boolean; while false - 45 : do cKr0a(004, 5) end end main : while - not 3 or m(96) + 74 and 2 - 34 >= - false / not 7 and 9 or(9) - 9 : output "Q" . 02; input V[6] end end

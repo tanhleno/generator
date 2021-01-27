@@ -1,0 +1,1 @@
+program L1 : EC1 : takes V : integer array; F, E : integer array; H17 : integer returns boolean M0 : boolean; J : integer array; Uv5aa : integer array; S19 : boolean; let j4[- (005)] = 532 end main : pop - (0) - t and 06800; let n[- (93) or kKv] = array not 2240 * false + not 41 and 0 or 73300; when case - not 86 and 46 : chillax end otherwise : chillax end; do q(43 /= 88800) end

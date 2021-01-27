@@ -1,0 +1,1 @@
+program y : J : takes n, a, hSo, O : boolean array; T5, X54a, Z6 : boolean array returns nothing chillax end main : C, k : boolean; eD, N, F2 : integer array; input RN[- I[8] rem false]; let U = array - (9) or XL + 89 end

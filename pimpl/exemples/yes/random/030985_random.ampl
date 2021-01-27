@@ -1,0 +1,1 @@
+program N : y6 : takes P, J : integer array returns nothing input n end H : takes PJ : integer array; uW : boolean returns nothing P : boolean array; let n77[79] = 4; when case 82 = 92 : do Pk(73) end case 41 : pop end; output "" . "" end s280 : takes b, y4, HT, C8 : boolean returns nothing j0 : integer array; l, nD5 : boolean; a : boolean; chillax end main : chillax end

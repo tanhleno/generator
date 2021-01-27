@@ -1,0 +1,1 @@
+program Z : main : input h[- (113)]; while false rem X and 32 or 382 and 20 /= - W19 and 3 : pop end; pop; when case - 0 : let I = 99 end case 0 = 01 : while 9 : chillax end; pop end case 2 : pop end; pop 24; input x[2] end

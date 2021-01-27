@@ -1,0 +1,1 @@
+program C370 : main : k91a, ai : boolean array; let oCN0a[- true + true - 6 - 97] = array B(733, 5) + false * R; pop - false and 6 - 04 - 998; when case - not 0860 /= 2 - 584 : pop; do GD(4); input J end case - 8 : do U(53) end case 8 = 3 : when case 7 : chillax end; pop end case 4 : pop end otherwise : chillax end end

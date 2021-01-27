@@ -1,0 +1,1 @@
+program w7Ra : main : F, g : boolean; T, l : boolean; O : integer; T : boolean; P : boolean array; input W[false rem 9 rem Nm1 + 41100]; when case - true + true and 4 : chillax end otherwise : while 7 : pop end; when case 2060 : chillax end; output "m|!" end; pop 239 end

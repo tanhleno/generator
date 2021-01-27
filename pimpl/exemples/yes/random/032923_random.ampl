@@ -1,0 +1,1 @@
+program V : t : takes Y, n : integer returns nothing p : integer array; chillax end main : JF : integer array; let i86a = array true * false or not 3; when case - 83 and(3) <= - false and 2500 or 1 - 393 : output 09 . "" end case j > 64 : input Sxa[3]; pop; while 54300 : chillax end; pop end otherwise : chillax end; pop 13 - 1260; let c = array - 10600 - 2 end

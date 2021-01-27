@@ -1,0 +1,1 @@
+program f8 : main : CV8 : boolean array; t, E : boolean array; R, F1, d : boolean array; l, M2 : integer array; Mdk : boolean; input z; do N(- 6 and true and 8); while - not 3 or 7 : chillax end; pop 6 end

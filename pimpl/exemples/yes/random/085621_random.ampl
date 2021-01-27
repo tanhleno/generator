@@ -1,0 +1,1 @@
+program S : main : t : integer array; Zu, J, NX, F, b1 : boolean array; while - not(8) + 3 / s : when case - 359 <= 299 : chillax end case 9 = 2 : chillax end case 5 : chillax end end; while - (83) >= - true : while 21 : pop; pop end end; do Mz(false - 1) end

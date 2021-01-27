@@ -1,0 +1,1 @@
+program X : main : kf, k3, H : boolean; F, u2z : integer array; S : boolean; while s[0] and 6 /= - false and(6) or not 71 - 4 - 205 : while 01 - 3 = 1860 : output "" end end; let iH50a = array - true rem 4 and 8; when case - 63 and 0 or 5 : chillax end otherwise : when case 0 : chillax end end end

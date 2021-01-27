@@ -1,0 +1,1 @@
+program U : s : takes fGv0 : boolean array returns integer Z, m4, dOI0 : integer; S, N : integer array; o : integer array; q, Y : boolean; output - 503 > 831 . 391; output 4 . "U\"\"a" . 7450; input T2[0] end main : gR7 : boolean array; m : boolean; chillax end

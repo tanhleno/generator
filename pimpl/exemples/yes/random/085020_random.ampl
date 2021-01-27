@@ -1,0 +1,1 @@
+program K6 : main : QT2 : integer; pop - true and true; when case true / true and 28 = - (23) and 1 + 3 : chillax end case not 6 and 67 /= 0 : input ZHjaa end; output "9*!"; when case 770 - 372 : when case 8 : chillax end; output ""; pop end case 9940 : when case 4 : chillax end end otherwise : chillax end; input Ef5 end

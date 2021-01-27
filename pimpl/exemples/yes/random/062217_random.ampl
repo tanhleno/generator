@@ -1,0 +1,1 @@
+program U : Oo2a : takes xoe : integer returns boolean chillax end T : takes Q : boolean; U, W3, g, K, KH : boolean; s, y : integer array; nbL, j : integer array returns boolean array chillax end main : s2 : integer array; sCQa : integer; sG6 : boolean; U : integer array; chillax end

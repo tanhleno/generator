@@ -1,0 +1,1 @@
+program bq80a : R0 : takes o : integer returns integer array let Q1D = array - false and 17; output "j-a" end main : w7, u2, x, oU4a, CC, Z : boolean array; S : boolean; output - not true . false and 5 or 2 end

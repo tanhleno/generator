@@ -1,0 +1,1 @@
+program S8 : wHi0a : takes S3 : integer array; S : boolean returns boolean array chillax end Vu5aa : takes Hc2a, VeV0, w : boolean; k, Oqa, j4, t : boolean returns boolean when case - 0110 < 420 : chillax end end main : d : boolean array; u8u : boolean array; _Q : boolean; E : integer; k, y4, h6 : boolean; pop end

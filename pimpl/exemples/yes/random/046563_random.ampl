@@ -1,0 +1,1 @@
+program D1J0 : iudaa : takes ik : boolean returns integer array X, J050, A : integer; w : integer; do ht(- false and 973 < 6 - 76) end main : f, MOW : integer; do j(true or(7) or V and 04 or 2 - 5 = (8) + 7 and 2 or 1840 - 888, false rem not 6460 = - false) end

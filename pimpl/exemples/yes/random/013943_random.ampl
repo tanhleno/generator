@@ -1,0 +1,1 @@
+program _6 : Z : takes M4, K20, u5z : integer array; F, I300 : boolean array returns nothing chillax end r : takes tA9a : boolean array; q14, h, bd90a : integer returns nothing output 14300 = 4; pop 2 end n : takes r, N : integer returns nothing pop; input t[44]; when case 7 : chillax end end yV : takes d : integer array returns integer chillax end main : chillax end

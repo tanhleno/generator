@@ -1,0 +1,1 @@
+program l : Hs : takes V9, x1, B, qX, _6x : boolean returns boolean x23aa : integer; pop 32 /= 7; let j[- 5] = 9 end main : Jg, M : integer array; i : boolean; do q1(- L > false * false - not 4 and 69) end

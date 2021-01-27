@@ -1,0 +1,1 @@
+program ud : main : when case not false : when case - 3 : output "" end case 65 = 98 : while 117 : chillax end end otherwise : chillax end; output 1 end case e(3) = - not 4 and 601 : output 0; output 94000 . "1"; when case 69900 : chillax end; do J(7) end case - not 47100 - 8 - 4 : chillax end otherwise : output 06 end end

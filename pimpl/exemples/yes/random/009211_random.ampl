@@ -1,0 +1,1 @@
+program e : b : takes C, j, Gm5 : boolean; O : boolean returns nothing y : integer; E, v, a, N : integer; chillax end c : takes NY_0a, E2P0 : boolean returns boolean array m : boolean array; w200 : boolean array; chillax end main : e : boolean array; C54, S2 : boolean array; b : boolean; input y[(6 = 8) and f] end

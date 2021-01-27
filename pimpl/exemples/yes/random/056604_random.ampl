@@ -1,0 +1,1 @@
+program u9p : p : takes o : integer array; rE : integer; M, V980 : integer; b : boolean array returns nothing k3x, o, UT, H : integer; while R and 933 /= 43 : do wpH(5, 53); do Y(8) end end main : y1vaa, eR : boolean; let x[4 rem 1 * false or true] = true / not 6 and 66 > EkZ end

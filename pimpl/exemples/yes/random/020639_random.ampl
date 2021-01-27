@@ -1,0 +1,1 @@
+program YF20 : iz : takes V, x : boolean array; a6 : integer array returns nothing while - not 5 + 1 - 90 <= - 0 : chillax end; while - 76 : while 75 : chillax end; while 873 : chillax end; pop end end main : chillax end

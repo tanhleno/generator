@@ -1,0 +1,1 @@
+program e : H : takes Qr, s : boolean; s, i : boolean array returns nothing T : integer array; w2 : boolean; u : boolean; j : boolean; ckZ0a : boolean; MR : boolean; while false - 1 : while 8 : pop end end end main : idm : integer array; Z : integer; T : boolean; L, R4, A : boolean; chillax end

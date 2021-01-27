@@ -1,0 +1,1 @@
+program X_ : C : takes Pv, D, Uy0a, ET2, jKwa : boolean array; DK, z0 : boolean returns integer let g3 = - 36600 - 6; do D(9 - 43); input B[0930]; output "\\" end Eu : takes j : boolean array; l, uWCa : integer array; n : boolean returns nothing a, K5Q : boolean array; jZ9, r5, x : integer; when case 1 : chillax end end main : chillax end

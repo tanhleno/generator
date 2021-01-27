@@ -1,0 +1,1 @@
+program C9 : main : do y3x(- 58300 * true, true < 1 - 8); when case Y[5640] : do p(0 = 7, 46) end case - 8 and 3 - 1 : while 0 : pop end; output "\t}\"" end case 5560 : chillax end case 0 : pop; pop end otherwise : chillax end end

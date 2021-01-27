@@ -1,0 +1,1 @@
+program Z : z : takes Q : integer array; S, c : integer array returns nothing input F[true and 1]; when case - 80 > 9 : input d; pop; pop end case 4430 : chillax end otherwise : output "d"; pop end end main : A, q, a, Ea : integer array; r6haa, t, K45aa, B, n060a, c : integer array; chillax end

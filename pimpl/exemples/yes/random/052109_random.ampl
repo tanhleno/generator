@@ -1,0 +1,1 @@
+program N22aa : LR : takes O : integer; LO00 : boolean returns boolean array chillax end main : Q5 : integer array; s : boolean; when case not k * not true < - 24 + H and 48 or 6 : input r760[- 3 - 9290] end case false * H : chillax end; while not V : chillax end; while(4) and 4 or 39800 - 45 : pop 71; input xv; while 0 : chillax end; pop end; do Ma(- 9 > 0020) end

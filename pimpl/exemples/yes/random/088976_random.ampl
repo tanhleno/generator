@@ -1,0 +1,1 @@
+program x9 : main : input g5[false and true rem true - not N and not 145 or false]; when case - not(4) < (11) : chillax end case - true >= 0550 - 32 : chillax end case - 7 <= 1 : pop; input dt8aa; pop end otherwise : let C9k[665] = array 1 end end

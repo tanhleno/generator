@@ -1,0 +1,1 @@
+program w : M7 : takes k : integer returns integer chillax end main : input A[false * not false * not 14100 and 6]; when case x58aa(83) / not 90 and 509 : chillax end case true + 1 - 457 : chillax end end

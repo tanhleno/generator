@@ -1,0 +1,1 @@
+program YCS0a : main : do Z(- not false or not false / M - 489 and 6 - 7 /= false or B); when case(97) / not 2 - (2) and 41 + 799 - 014 : chillax end case - not 97100 and 4 : chillax end case 8 : chillax end; when case - oA4a or 64 : pop 7 end case - 5 - 862 > 7 : let D = 64; when case 3 : chillax end; pop end end

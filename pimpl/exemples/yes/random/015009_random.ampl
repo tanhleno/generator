@@ -1,0 +1,1 @@
+program m : J : takes X, H, U380a : integer array returns integer chillax end m : takes gJ4, RT : integer returns integer chillax end H9n0 : takes f4 : integer array returns boolean array output "" . ""; do q(046); while 9 : chillax end end m : takes y : boolean returns integer array input Qi[91] end main : pop false and 5 - true and 973 or 590; output "" . - 3810 end

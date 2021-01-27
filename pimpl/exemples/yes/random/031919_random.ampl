@@ -1,0 +1,1 @@
+program y1 : R : takes G0M, x : integer returns integer array when case - 70 and 6 >= 29 - 3 : chillax end case - 0 - 9 : do D(78) end otherwise : do n(41); do R(799) end; output 6 . 1 end PY : takes x : boolean returns integer array A, S1, M : integer array; chillax end main : B, m2J, V0Waa : integer; chillax end

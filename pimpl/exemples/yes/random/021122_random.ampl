@@ -1,0 +1,1 @@
+program _ : H : takes rh1, Q : boolean array returns boolean a, GK : integer; RCya : boolean array; output - 0 end P5 : takes lFq0a : boolean returns boolean yh : integer; T, P12 : integer array; L, oLn : boolean; pop; do r620a(03, 88) end main : chillax end

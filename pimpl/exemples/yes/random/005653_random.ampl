@@ -1,0 +1,1 @@
+program Y43 : d : takes W, r2, a180, _ : boolean array returns nothing t, j : integer array; chillax end xF : takes v4 : integer returns integer chillax end main : while - 9 / k(9) > - not true - false + 03 - 12 : chillax end; let E = - true and 01 or 7 - 1800 >= 5 - 1 end

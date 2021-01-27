@@ -1,0 +1,1 @@
+program g : c4U0a : takes kFka, fmN, j, ZDZ0a, M : boolean array; Zz60a : boolean; O, hJ1, o : boolean returns nothing chillax end main : n : boolean array; y : integer; while not Z[6] >= - A(7740) : pop; pop 2; input U[4] end end

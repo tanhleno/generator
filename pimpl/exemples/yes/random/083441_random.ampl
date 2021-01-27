@@ -1,0 +1,1 @@
+program n1 : main : S3 : integer; C080, n5, y : integer; while - not not 1 and false - Bb60(0) rem 405 >= - P1[3] + (069) and 6270 or 88 : chillax end; input Tpga; while - not 94 and 7 + 35 : chillax end; let I = 1 = 7; input m; input q end

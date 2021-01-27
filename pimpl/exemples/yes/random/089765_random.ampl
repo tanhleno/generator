@@ -1,0 +1,1 @@
+program u : main : let e6M = array(2 = 66) + 4 rem false or f and 177; when case not true rem false and 6 or 68 - 61400 - 5 < - not 8 + 0 : chillax end case false and 0 or 1 >= 7 : input Wn[647] end case - 5 : do u(57); input qy7 end case 8 : chillax end case 39 : chillax end case 00600 : chillax end otherwise : chillax end end

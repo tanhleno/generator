@@ -1,0 +1,1 @@
+program S : v6 : takes K, e : integer returns nothing F : integer array; qM, GoW : boolean array; chillax end main : F, Gcq0, W4Taa : integer array; LMf0a, i7 : integer array; when case - false * true >= 16 : do m7(- 7 > 95, 68100, 1, 20600) end end

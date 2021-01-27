@@ -1,0 +1,1 @@
+program nw : z : takes BEMa : boolean; S : boolean; X : boolean returns nothing input e; pop end c : takes vY, _, Y, S1 : boolean returns nothing C6p, f, dp : boolean array; let X[- 8] = 95; let z[7] = 5 end main : output "3" . P1 and 9 - 9 > - 20 . "" end

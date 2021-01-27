@@ -1,0 +1,1 @@
+program A : e5 : takes a77aa : integer array; kFx0a, yG, r2 : integer array; MGZ0, E : integer returns nothing bM : boolean array; chillax end main : j, G : integer array; O : boolean; output - iF; do i(not not 9800 /= - 64 and 33 or 974); pop end

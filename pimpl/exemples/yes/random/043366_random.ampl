@@ -1,0 +1,1 @@
+program C2 : K : takes W8l : boolean array returns integer when case - S6R and 7 + 66400 : let E[877] = array 2; input t67aa; while 2 : chillax end; pop end case - 5 - 10 = 77 : chillax end end main : chillax end

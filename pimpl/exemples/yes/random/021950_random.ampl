@@ -1,0 +1,1 @@
+program p45 : F : takes w, f2 : boolean array returns nothing chillax end R : takes b3 : integer array returns boolean array chillax end n4h : takes E, E4 : integer array returns nothing chillax end main : Y : integer; let BA = mFl[0] and true or 1 > - not 43; output - not 6 and 005 + 07 - 8 < 42800 end

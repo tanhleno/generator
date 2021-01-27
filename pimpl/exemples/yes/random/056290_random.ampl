@@ -1,0 +1,1 @@
+program d : F : takes W0f : integer array; H4 : boolean returns boolean d9Xaa : boolean array; chillax end main : when case - false / not true rem OF <= (2) : pop end case - (5) : when case 94 : chillax end otherwise : pop end end otherwise : chillax end end

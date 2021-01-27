@@ -1,0 +1,1 @@
+program NNH : LZ2aa : takes co4a, c8H, M6 : boolean array returns nothing g : boolean array; while true - 1390 : input TWL[4] end; input jS[2 - 9]; pop 37800 end main : do nfb(8 = - not 69500, 594 rem false = - true, 98 + 01); pop - 2800 <= - 564; input r7D[false] end

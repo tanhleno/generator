@@ -1,0 +1,1 @@
+program Y : main : H : boolean array; d6, q, V, K260 : integer array; e1 : integer array; t, a1K : integer; dXd0 : boolean array; D : boolean; pop; when case(08) rem false and 72 - (8) and 3730 - 001 - 8 < U0n and 2 + 3 : chillax end otherwise : chillax end end

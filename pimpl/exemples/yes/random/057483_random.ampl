@@ -1,0 +1,1 @@
+program M : D60 : takes a : integer array; y5 : integer returns nothing b9, SU0a, GR : boolean; do _(true and 8 > 2, - 790 - 1) end main : RK : integer; p6N0, I : integer; output not 3510 / 7 - 0 and 09 <= - not 0 or 2; do p(true * true); let dg = array - (35) and 4 - 0 - 19 end

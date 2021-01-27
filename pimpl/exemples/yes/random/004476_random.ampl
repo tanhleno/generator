@@ -1,0 +1,1 @@
+program a : d3za : takes Fd, iD, f0, p : boolean; c : boolean; gh : boolean array returns integer v5 : integer array; output "\\p0"; let y = 4; while 6 : let s46 = 5 end end main : _8, Y, d : boolean; chillax end

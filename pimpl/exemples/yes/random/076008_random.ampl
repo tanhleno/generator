@@ -1,0 +1,1 @@
+program b2R : main : a6, B : integer; IO, U, M : integer; L9Q, p, eX40 : boolean; S : boolean array; output - true and true or true + 8 . - w or 996 >= - 2 - 97; when case n[2] / not 1570 or(5) + 3880 - 66 : chillax end case 9560 + 1150 - 47 < 14 : let df = array 08 end end

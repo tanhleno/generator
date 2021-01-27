@@ -1,0 +1,1 @@
+program R : o : takes D7, vq : integer array; Y : boolean array; t7Zaa, D : boolean array; Q, b8 : integer array returns boolean chillax end main : g : integer; _J : integer; while(7) and XP : do D8Vaa(- 9 = 81400) end end

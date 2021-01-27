@@ -1,0 +1,1 @@
+program w : X5 : takes V, A : boolean array; g7 : boolean array; N : integer array returns boolean when case - not 18 and 76 /= - 7370 - 7 : while 9 : chillax end; output "" end otherwise : pop; output ""; pop end end main : chillax end

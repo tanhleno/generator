@@ -1,0 +1,1 @@
+program w2 : aN : takes _ : integer returns integer when case V or 1 : let y[0] = 2; output "" end; output 766 . ""; do d(83 = 77900); do N5l(58); input j6n end Sqba : takes z : integer array; f : integer; O, o72, B, f : boolean array returns boolean chillax end E2O : takes f7 : boolean array returns integer j : integer array; pop end main : Q, B : integer; chillax end

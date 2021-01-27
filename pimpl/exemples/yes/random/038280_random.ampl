@@ -1,0 +1,1 @@
+program GX : L : takes WN10 : boolean array; h, C, u4 : integer array; u, g7 : integer; D : integer array; W : boolean returns nothing let KKu = - 21; output 88 = 1; let U = array 1 end main : h67, B21, ou4aa : integer array; pop end

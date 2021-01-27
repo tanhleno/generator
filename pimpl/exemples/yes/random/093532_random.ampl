@@ -1,0 +1,1 @@
+program Z : main : output "\n?"; when case R - yqY0 and 9040 : chillax end otherwise : chillax end; when case - true and 71 or 76 < - 7 - 61 : let Y = 1; when case 41 : chillax end; while 66 : chillax end; pop end case - 47600 - 111 >= 24 : chillax end otherwise : pop end end

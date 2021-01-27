@@ -1,0 +1,1 @@
+program o : main : W, w, Y : integer; let M[- (3) rem 42 / false] = array J(4) - (394) and false; while - true * true and 9 > 36 or 9 : when case 48 : chillax end case 62 : pop end otherwise : pop end end end

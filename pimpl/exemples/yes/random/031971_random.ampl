@@ -1,0 +1,1 @@
+program I : g : takes M, c3 : integer returns integer chillax end main : do b(9 * not 92 rem true = - 84 and false and 8 or true and 40600 + 5080, not(01) or not 8 and 29000 >= - Y, (7) and 2 or 9 - 92, - 22 /= 8, 994, 7) end

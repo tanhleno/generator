@@ -1,0 +1,1 @@
+program p : main : when case true / not not 3400 / false and 4 > - (73) : chillax end case 1570 * J6 - (4) and 24 or 12300 - 4 : let B8 = array 6; pop; output "G"; let g8x = 93; pop end case - (5) and 38500 + 4 - 5 : do m(1, 7); when case 10 : chillax end end case 961 : let Z = 6; input s5q; pop end otherwise : input K end end

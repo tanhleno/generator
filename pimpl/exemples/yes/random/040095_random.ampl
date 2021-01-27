@@ -1,0 +1,1 @@
+program C : E : takes C1 : boolean array; T : boolean array returns integer w94, k : integer array; O, I, O1, _ : boolean array; g : integer; pop - 8 end main : input fqVa[f99aa - 126 and 46 and 08300] end

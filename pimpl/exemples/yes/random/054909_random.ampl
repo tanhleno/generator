@@ -1,0 +1,1 @@
+program O : l : takes F550a : integer array; a, q : integer; J, b6, Y : boolean array; iM, X1, A, I, OGN : boolean returns nothing chillax end xM : takes o : integer array returns integer while 84 < 08 : input b; input T; pop end end main : chillax end

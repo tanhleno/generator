@@ -1,0 +1,1 @@
+program _UD : main : U : integer array; do Y(not(1), not J6 * (8670) and 6 or true or 6 < - not 7 and 262 or 0 - 6500); input ZR[not not 9 rem true and 1]; do j(- true or 80900, 1, 7, 03000); while 9 : chillax end; output 54 . 45 end

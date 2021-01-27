@@ -1,0 +1,1 @@
+program T : A : takes E : boolean array; V0Taa, z9, wv : boolean returns nothing while o3u : chillax end; output "u" . 2 . 4 . "t8\""; input L[0] end e6C0 : takes R_ : integer; x : boolean array; i : integer array returns boolean array chillax end main : Lv, p5 : boolean; chillax end

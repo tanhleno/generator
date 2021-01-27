@@ -1,0 +1,1 @@
+program D920a : SJp : takes a : boolean array; P6m : boolean; G : boolean returns nothing M, E : integer array; _S50, Y, t : integer array; output "N" . 12 = 4 . ""; let Z = array 3 - 24 end main : WVE : integer; t1, ruxa : boolean array; m, sB, G, I : boolean array; output - (2) - (7) and 1690; do w7La(- (49) - O and 1 > not 24 and 5, - false and 7, 104, 82, 660) end

@@ -1,0 +1,1 @@
+program r : main : pop; when case 396 rem not 1 and 1 >= (496) - 5 : pop; input CR; while 46 : chillax end; pop; pop end case - (6) or 82900 : when case 7680 : chillax end case 73200 : chillax end; while 69 : chillax end; input gK; pop end end

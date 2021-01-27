@@ -1,0 +1,1 @@
+program Fia0 : Mf3 : takes UC : boolean returns integer array let I6 = array - true and 1 - 04 end W900a : takes R, j, b : boolean array; W, i : integer; Z, S, Dy0aa, R, w2 : boolean returns nothing pop; while 3 = 9 : chillax end; input z6Va; do YR(49); let wc = 877; pop end U : takes S : boolean; TT : integer returns integer array chillax end main : chillax end

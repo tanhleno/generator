@@ -1,0 +1,1 @@
+program q080a : DZX : takes zS, F : boolean; x : boolean array returns integer Y : integer; chillax end main : H0, p9Z0a, I3, G8 : boolean; c : boolean; B2ba : boolean array; B, xU5, fwD0, L : integer array; d9naa : boolean; chillax end

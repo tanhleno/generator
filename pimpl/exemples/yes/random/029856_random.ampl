@@ -1,0 +1,1 @@
+program t : h1C : takes J, J : integer array returns integer array P0 : integer array; G, N : boolean array; uC8, J, P4g0a : boolean; D, g49 : boolean; chillax end main : output "\ta!a" . false . "" . 4 = 4 end

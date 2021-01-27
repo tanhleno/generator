@@ -1,0 +1,1 @@
+program h : p : takes d, Z, K, EU : boolean returns boolean array chillax end k : takes XC2aa : integer; x : integer array returns integer array XP : integer; Hb, O, I : boolean array; chillax end main : X, c3 : boolean array; pop not not 22 or not 51800 > - true; when case 7 or true : output 96200; let L[5130] = array 9 end end

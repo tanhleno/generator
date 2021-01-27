@@ -1,0 +1,1 @@
+program X : main : output - false or not 48 <= - true - 87 . ""; input c; when case - true - 321 - 0950 : when case 2 : pop end case 23 : chillax end otherwise : chillax end; input I; pop; pop end case - 797 /= 7 : let F = 800 end otherwise : output ""; do Y(85) end; when case - 61 - 7 : pop; output ""; pop end case 25 : chillax end; output 7 . "y" end

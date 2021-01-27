@@ -1,0 +1,1 @@
+program S : M0 : takes QK, L, p680, TI : integer array; a67a : integer array returns nothing chillax end a0 : takes G2pa, Y, x, N, fu9aa : boolean; l : boolean; C : integer; A : integer returns integer array N, x : integer array; P, Tsq, zZ : integer array; n : boolean; l : boolean; d : boolean; pop 40 end main : chillax end

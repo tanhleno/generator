@@ -1,0 +1,1 @@
+program Nn50 : Mn2 : takes w5s, t : boolean array; B2, o, t : integer array; L : boolean array returns boolean array s : integer; UK, XI8 : integer array; let m[- not 45 and 3 + 40 - 502] = array true and 713; let C[- 307 - 09400] = 90 = 4; while 3 : input k180; pop end end main : output "S"; let y[647 rem 6 and 0 or Y or 3650] = (8) = - 12100 - 7 end

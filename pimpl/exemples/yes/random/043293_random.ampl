@@ -1,0 +1,1 @@
+program j : u5 : takes UZ : boolean array returns integer let m49a = array - V; while 4 - 74 : input x; when case 0 : chillax end end; when case 6 = 45 : chillax end end main : Q : integer; K2, Y8 : integer; chillax end

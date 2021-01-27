@@ -1,0 +1,1 @@
+program yX : main : while - true : do f2(2 <= 23, 4, 55); when case 6 = 3 : pop end otherwise : pop end; while 6 : pop end; output "z" end; do s4(not not 26000 rem not 0 /= true and 39900 or 5 - 1) end

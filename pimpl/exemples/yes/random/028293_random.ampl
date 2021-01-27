@@ -1,0 +1,1 @@
+program Npta : c1g0 : takes NlT, R : integer array; W : boolean array; XUKaa : boolean; v : boolean returns integer array chillax end e : takes mPgaa : integer; P, Zj5, zF5a, b, JRu : boolean array returns integer array O, pB6, g5, g : boolean; do OA(8 - 5 <= 8370); when case 52100 : chillax end case 930 : chillax end end main : chillax end

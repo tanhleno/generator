@@ -1,0 +1,1 @@
+program Tt : ka : takes f : integer returns integer chillax end f35 : takes WyB, h2O, c, D23 : boolean array; n : integer array; H : integer array returns nothing let Jf[16800] = 3; do Ov(2 = 1, 24); when case 3 : chillax end otherwise : chillax end; pop; while 2 : chillax end end main : chillax end

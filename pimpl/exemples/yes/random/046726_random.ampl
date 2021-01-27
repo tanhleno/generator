@@ -1,0 +1,1 @@
+program mv : TB : takes C3 : boolean returns integer array mS : integer; w6 : boolean; output - 0730 . 845 = 7 . ")80a"; output "" end b5 : takes _180 : boolean; l : integer; G, xb3, v, d6 : boolean returns nothing when case 3750 - 52 >= 5 : when case 11 : chillax end; output ""; pop end; input f3; let Z0 = array 0 end main : chillax end

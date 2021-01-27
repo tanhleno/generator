@@ -1,0 +1,1 @@
+program OA : I : takes L : integer array returns nothing Ab, J, hO : integer; when case(0180) and 519 >= 61600 - 898 : chillax end case - 5 > 8 : chillax end otherwise : chillax end; output 36300 = 83 . ""; input K[2] end GR : takes o, LHc0, jd1a : boolean array; G1, C0P0a, El : integer array returns nothing e, XP4, o : integer; chillax end main : chillax end

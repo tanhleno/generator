@@ -1,0 +1,1 @@
+program H : main : o : boolean array; pop; while false and true and 41 - R < - not 35400 + 2 - 310 : pop; while 995 : chillax end; when case 063 : chillax end end; when case(0) + 249 > 7 - 91 : while 8 : chillax end; let N = 2 end case - 03 - 6 : while 6 : chillax end; when case 402 : chillax end end case 9 : chillax end otherwise : chillax end end

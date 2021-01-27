@@ -1,0 +1,1 @@
+program V : S : takes K : integer returns boolean L : boolean array; do a9(3); let pD[2] = array - 330; when case 49 : output ""; pop end; when case 199 : pop end case 68 : chillax end otherwise : chillax end; input v end main : J, n2y0, U6 : boolean; output _[1] or ck - 27 - 7; let W[(2) and false and 92 - true] = array(57) * f and 482 end

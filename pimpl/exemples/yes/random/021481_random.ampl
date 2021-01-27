@@ -1,0 +1,1 @@
+program q : N6 : takes Q61, X : boolean array returns integer array output - 1 . 18100 = 2; while - 1 - 03800 : pop end; while 9 = 78 : chillax end; input s7; when case 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program w6 : b : takes cf, vaM : boolean returns integer array HO, f : boolean; z3 : boolean; chillax end main : when case - false * 5 <= _[463] + 8 and 51 : while - 62 : chillax end end otherwise : pop 82; input W[10000]; input n; when case 3 : chillax end; pop end; output "d" . - 45; output - 3; while 71 - 1 > 5 : pop; output ""; pop end end

@@ -1,0 +1,1 @@
+program V : _ : takes x, j : boolean returns boolean do Iw(false, - 34 < 7000); let g = array 7; do q(574, 5, 75) end O : takes U : integer array; g : boolean; o, MQ, x0, I7 : integer returns nothing jE8, cDF : boolean; chillax end main : a : integer array; o, F, c, K, S : integer array; U : boolean array; chillax end

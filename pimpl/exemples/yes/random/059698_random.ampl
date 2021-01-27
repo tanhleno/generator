@@ -1,0 +1,1 @@
+program Fw50a : mG : takes x7 : integer array returns nothing chillax end I : takes l6, R6 : boolean; lCX, nR : boolean returns integer array z, R380, s : integer array; chillax end main : XUs : boolean array; chillax end

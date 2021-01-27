@@ -1,0 +1,1 @@
+program O : s : takes z, SQb, b : boolean; Pj : integer; hr, fTJ, s, F3 : integer; ed, H : integer array returns boolean array Z : boolean; g0c0, n0c0 : boolean array; when case not 9 or 5330 > - 37 : let j3[7] = 2; when case 9 : chillax end end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program bVA0a : s73 : takes M, X15, Q, _1 : integer returns nothing eO : boolean; H : integer; when case 3 - 2 > - 1260 : chillax end otherwise : chillax end; input J; pop 8920; input G[5]; while 4 : chillax end end main : chillax end

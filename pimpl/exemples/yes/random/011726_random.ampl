@@ -1,0 +1,1 @@
+program r_1 : s : takes F7, o5X0a, h01 : boolean returns boolean c0 : boolean array; input J2[not 6 and 1]; do Z(38 - 4 <= 6); do z4(7 = 94300, 98, 9) end main : R : boolean array; while(1) : output 6 = 0 . 9 end; do K720(- o[9] rem false < not 79000 and 0); do m(not 5); let u = 28; while 5 : chillax end; do vT(5); output ""; when case 24 : chillax end; pop end

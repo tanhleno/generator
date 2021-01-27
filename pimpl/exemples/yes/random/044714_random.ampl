@@ -1,0 +1,1 @@
+program uj : GbU : takes gz : boolean array returns nothing r4 : integer; z, D5P, bPs : boolean array; pop; while - 8 <= 3 : when case 22 : chillax end end end MjQ : takes sQKa : boolean returns nothing chillax end t : takes V : integer returns boolean O : boolean; P8, l : boolean; chillax end main : X21, iUF, f : integer array; output - v and(9) - k8 end

@@ -1,0 +1,1 @@
+program d : pC : takes S5, Z990 : boolean; k : boolean array; u7 : boolean returns integer chillax end j : takes Ul, Z7 : integer array; cS9 : boolean array returns integer W0, xA, R, kjf0 : integer; chillax end main : chillax end

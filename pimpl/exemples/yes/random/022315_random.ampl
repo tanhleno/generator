@@ -1,0 +1,1 @@
+program c : D : takes e, VAC : boolean array returns nothing Eb, P6g : integer; w3 : integer; A : boolean array; E700 : boolean; pop - 28 - 9 > 8 end main : H : integer array; ggK, k : integer array; while(133) rem false = - g2[7] rem true : chillax end; pop; output ""; let f = array - 89 - 404 end

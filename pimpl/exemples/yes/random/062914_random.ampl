@@ -1,0 +1,1 @@
+program S : lm : takes q0 : integer returns integer array WC, e9 : integer; N, L9, Mmu, ZX : integer array; A4, g, f : boolean; output "" . 67 = 8650 end u : takes Jl : integer array; c : boolean returns nothing c : integer; chillax end main : n6, B32, E : boolean array; chillax end

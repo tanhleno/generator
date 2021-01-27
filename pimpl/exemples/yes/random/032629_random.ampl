@@ -1,0 +1,1 @@
+program l : Q3V : takes S, E : integer returns nothing i, VDe : boolean array; J : boolean; do k2(true) end oZ : takes Y9, k : integer returns boolean eSca, P : boolean; chillax end main : y : integer array; o : boolean; output "4%" . - 81 /= 7 - 9 . "" . "(" . 12; input ZF; let j = - 96 - 32; pop 625 = 5420; while 45 = 8 : chillax end end

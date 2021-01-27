@@ -1,0 +1,1 @@
+program ab : g8oaa : takes z, d5 : integer array returns nothing k, W, A : boolean; wv : integer array; do v05aa(not 3 and 4330 - 11600) end D : takes a : integer; P4j, i4, M3, J : boolean array; Bh : boolean array; L : integer returns nothing V, W : boolean; do _(3 - 00) end main : L : integer array; output "" . - not 89800 /= 38 end

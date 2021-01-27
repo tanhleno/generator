@@ -1,0 +1,1 @@
+program Mg50 : o3 : takes yx : integer array; f : boolean returns integer y1, N, Y82a, DR0 : boolean; when case(3) and 1 >= 9 - 7 : output 0 . "34" end end main : f : boolean array; x : integer array; when case true rem not 7 rem(6) : while - 3 - 8 > 22 : chillax end end end

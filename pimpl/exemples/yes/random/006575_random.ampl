@@ -1,0 +1,1 @@
+program G : M6Z : takes H, A7, h, t : integer; g : boolean array; hk, W, C, gY : integer array returns integer array chillax end main : WX10a : integer; do t(- (6) / true - 6700 and true + K); do DC0a(- (305) / (6) and 94 < - not 4 or 00 - 42) end

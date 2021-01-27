@@ -1,0 +1,1 @@
+program o16 : d : takes q3 : boolean returns nothing input nOTa end f : takes t, T : integer returns boolean array yS0 : boolean array; ql, ps, i : boolean; E : boolean; chillax end C : takes X : boolean array; G59, j, n, A7 : integer array; Z9 : integer array returns nothing chillax end K : takes f, H : boolean returns boolean chillax end main : output - not not 63 rem yn9aa end

@@ -1,0 +1,1 @@
+program F0a : w : takes l7 : boolean array returns boolean v_70a, X, r6maa, A, S : integer array; input P end O0 : takes raLa : boolean returns nothing STa, u : integer; chillax end main : c1, R : integer array; chillax end

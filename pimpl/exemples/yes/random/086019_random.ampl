@@ -1,0 +1,1 @@
+program m0G : main : R : integer array; Ap, k : boolean; when case - true / K7[1] > - true / not 0 and 1 : chillax end otherwise : chillax end; pop; let Z[false] = array - T + 4 - 448; output "" . 8 end

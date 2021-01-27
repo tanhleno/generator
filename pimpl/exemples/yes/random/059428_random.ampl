@@ -1,0 +1,1 @@
+program S8 : Z_ : takes z : integer array returns integer Nte : boolean array; while true /= 44 - 714 : input ao[54]; when case 2 : chillax end; input FQ0 end; output 9 end main : AR : boolean array; zC, b : integer; output "{"; output "Q\\!a" . "%"; input y2[(3) - 9 - 60] end

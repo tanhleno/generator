@@ -1,0 +1,1 @@
+program q : HV : takes U0 : boolean array; l, X, H7 : boolean; s : integer returns nothing let bnTa = array true and 6 end X_o : takes r : boolean array; t, Y30 : integer array returns integer chillax end main : R0, rp : boolean array; when case 6 : let Y[0] = array - 031; pop; input Z7[890]; while 2 : chillax end end otherwise : input l[384] end end

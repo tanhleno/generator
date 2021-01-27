@@ -1,0 +1,1 @@
+program R : n6wa : takes OG50a : integer; V32, Ea, h : integer array returns boolean D : boolean; when case false and 2 : chillax end otherwise : chillax end end Q : takes n1, Q, r, Nt : boolean; W : boolean; t7, h8Eaa : integer array; m, o0 : boolean array; F71, n, st : boolean returns boolean array chillax end main : chillax end

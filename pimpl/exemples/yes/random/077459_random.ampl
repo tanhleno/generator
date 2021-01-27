@@ -1,0 +1,1 @@
+program p : main : a, D5 : integer array; Z6, z0 : integer array; pop - not true >= - 70 + 85; input d2f[- a2[4] + F and 8 - 611 - 4]; when case - true and 50 : chillax end otherwise : chillax end end

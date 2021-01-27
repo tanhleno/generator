@@ -1,0 +1,1 @@
+program b : w2Eaa : takes xF1, E, Z, M010 : integer array returns boolean while not 1 or 3 - 16 < 0 : input T[0] end end U_ : takes tu6, D, U : integer; y : integer array returns nothing chillax end main : pop; input x5; let Cl = - 952 - 43200 end

@@ -1,0 +1,1 @@
+program I : CK : takes Mrz : integer array; Toi0, _y : integer array; h3, eLfa, Gs9, A : boolean returns integer array SZ, Y, MB90, Uf50 : boolean; eK : boolean; FSC0 : boolean; do A(- false, 430 - 3 = 0) end main : chillax end

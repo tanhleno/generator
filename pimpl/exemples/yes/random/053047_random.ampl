@@ -1,0 +1,1 @@
+program K : t9 : takes I6 : integer; i : integer array returns nothing kX : boolean array; chillax end main : g0, f : boolean; p, _ : integer array; let w1Oa = array(8 = 15800) * true rem not 248 and 3 end

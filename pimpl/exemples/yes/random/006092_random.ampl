@@ -1,0 +1,1 @@
+program S : E41 : takes fA, me0a, l6maa, P2c : boolean returns nothing chillax end W5 : takes Y : boolean returns integer tv, Y, U : integer array; chillax end s : takes D : boolean returns boolean array P080 : boolean; pop 289; do l(2) end main : er7, P : boolean array; input i2[45]; while not true / not 32700 /= (4880) and 97 : chillax end; while - not 5 : chillax end end

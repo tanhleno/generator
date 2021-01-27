@@ -1,0 +1,1 @@
+program g : c9Y : takes soB0, hwmaa, S100, V8, ly, Y, Y8 : integer returns nothing Jp70a, dS, f0 : boolean array; u4, q, c, r : boolean array; fGha : boolean array; Q : boolean; jhv : boolean; h4 : boolean; let W = - 76 - 35 end main : v : integer array; e, F5, F, o : integer; while d9H0[9] <= B[176] rem 310 and 010 : chillax end end

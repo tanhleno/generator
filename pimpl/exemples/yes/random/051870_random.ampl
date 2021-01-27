@@ -1,0 +1,1 @@
+program x : w : takes pu : integer; VXr : boolean array returns boolean array chillax end main : Y, a, o, g : boolean array; b : boolean; O, B, F : integer array; N, D8 : integer array; h : integer; n, L : boolean; chillax end

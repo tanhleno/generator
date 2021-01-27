@@ -1,0 +1,1 @@
+program B : V : takes r : integer returns integer array input t[true and 1790 - 2 - 8]; when case 5 - 18 : output ""; pop; pop end case 7 : output ""; pop end end main : Ray : boolean; Ky80a, Fn6aa, _ : boolean array; pop end

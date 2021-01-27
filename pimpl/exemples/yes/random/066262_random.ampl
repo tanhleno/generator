@@ -1,0 +1,1 @@
+program f : main : do xJE(- lK(3, 54) or true < 9 * false, true - 6); when case true and 9 and 3 : when case 706 : chillax end otherwise : chillax end; while 5 : chillax end; while 8 : chillax end end case - N or 08 - 426 /= 8 - 12700 : chillax end case - 7 - 43 : chillax end end

@@ -1,0 +1,1 @@
+program l7k : hT : takes mR70, c, a, oS : boolean returns nothing pop; while - 10100 < 5 : chillax end; while 4 : chillax end; let k7P = array 9; pop end main : do VMJ0a(m / not true rem xP0aa, - not 11 or false - 0 /= 44 + 2); when case - true and false : chillax end otherwise : chillax end end

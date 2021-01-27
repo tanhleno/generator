@@ -1,0 +1,1 @@
+program S : _42aa : takes y6E0, p, P, a1, WD4, fy7a : integer array returns nothing chillax end V : takes k, p : integer returns nothing do F(- 0 /= 2, 95 = 99); output "" . 0; do H(2, 3); while 93 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program w : M : takes K, v8 : integer array returns boolean e6 : integer array; input h end main : do _(- not false * (0970) - 6 /= 56 or false, - not false - a and 0); when case(2) : chillax end otherwise : chillax end; let r2l[- not 5 and 9760] = array - (9) or 683; when case - 52 - 8 : pop end case 145 = 5 : when case 9 : chillax end end; pop 8 end

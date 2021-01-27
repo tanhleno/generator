@@ -1,0 +1,1 @@
+program t620 : j : takes C5, igp, L : integer; P, Q, pF : integer array returns integer array TK, xr9aa, C : boolean; while - false and 43800 >= - 9 : chillax end; let Y5y0[- 8 - 6] = 47600; do J(4 = 6) end main : pop end

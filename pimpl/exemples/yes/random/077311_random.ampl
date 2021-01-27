@@ -1,0 +1,1 @@
+program q : main : b1, _3Yaa : integer array; S, w : boolean; let p9[v(6, 47000) and B23[63300] + (1) rem false + 2 and 2 + 84] = array - A(9, 93) and not(6) / 34 and 77; do v(- Fq[4980] >= - (2) - 2 - 6, not 59 and 0 - 0, - 1930 <= 84, 2, 817) end

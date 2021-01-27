@@ -1,0 +1,1 @@
+program yG : main : while false - false /= - (23) : do Nv40(- 6 - 3); when case 8 : pop; pop end case 9 : chillax end case 9 : chillax end; input G9[77]; when case 5 : chillax end end; while - true : let f[6] = 0 end end

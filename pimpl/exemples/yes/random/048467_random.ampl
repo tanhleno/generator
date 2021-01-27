@@ -1,0 +1,1 @@
+program d : c0 : takes i2 : boolean returns nothing X : boolean array; do _(- XU and 79 - 2 < - 7, 6 - 75) end main : f5, A : boolean array; pop - not(8) / (6) and 63 >= 5; do a(- 2 rem n or H and 45 < - false and 76 - 81, not 3, 2 - 0970, 06) end

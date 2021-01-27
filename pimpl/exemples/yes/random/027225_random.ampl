@@ -1,0 +1,1 @@
+program I : d : takes u, c : integer array; n, ae40, jld, q5 : boolean returns nothing R, p67a, Z, bW : boolean; chillax end w7N : takes h8, i, A65, G : boolean returns nothing T, a : boolean array; Tq, _5, Z : integer array; R, wxQ : boolean; chillax end main : _ : integer; K4 : integer array; let J = (8) * e and 58 or e9 end

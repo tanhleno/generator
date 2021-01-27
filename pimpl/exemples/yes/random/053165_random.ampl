@@ -1,0 +1,1 @@
+program n : Al20a : takes JX1a : integer; r4 : integer returns boolean H : integer array; input V; when case 0 : chillax end otherwise : let PIT0a = 1; pop end end L2 : takes rf, eK : integer returns boolean array chillax end main : u, l : integer; chillax end

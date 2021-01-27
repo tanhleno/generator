@@ -1,0 +1,1 @@
+program C : main : G, v, N, D : boolean array; do b(- (0 = 9) or true + 4, - false * true); when case - false : input o5; pop 89; when case 7 : chillax end; pop end case true and 802 + 81400 : chillax end end

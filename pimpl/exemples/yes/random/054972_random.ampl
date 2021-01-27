@@ -1,0 +1,1 @@
+program WQ : j9 : takes r : integer array; wG5, uit : integer; C, I9 : integer returns nothing input F4 end main : O, ci : boolean; Q8W0a, fp, X : integer; let u = array - false + not(9) * (6) + true and 53 or 59 - 9; output "<" end

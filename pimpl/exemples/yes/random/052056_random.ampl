@@ -1,0 +1,1 @@
+program fP : Gg4 : takes Y : integer; _ : boolean array returns nothing PjL0a, l : integer array; p : boolean; chillax end main : I3G, D2 : boolean array; while - 447 + 458 : while - 5 < 833 : chillax end end; output - false and 2 end

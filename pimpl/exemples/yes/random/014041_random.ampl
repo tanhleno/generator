@@ -1,0 +1,1 @@
+program h : AS : takes f8, v1, f : integer array; d8, V : integer array; D : boolean; w7 : integer array returns integer array chillax end vcb : takes W, y, Oica, H6 : boolean returns boolean array do g7b(4660 - 1 < 4, 5, 32, 0); let O72 = array 70100 end main : b, uvK0a : boolean; f : boolean array; chillax end

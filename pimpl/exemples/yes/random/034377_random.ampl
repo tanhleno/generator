@@ -1,0 +1,1 @@
+program e : U1a0a : takes y : boolean; O, e : boolean array; q, Ut, Y77 : integer array; P6, M, nN, mg, bNr0a : boolean; E8 : integer array returns integer pop 14 - 8; while - 6 : let x = 8; pop end end main : pop end

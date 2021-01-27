@@ -1,0 +1,1 @@
+program Z5 : v : takes J : boolean array returns integer array tF : boolean array; pop; let ym_aa = 84 end main : n16a, TA4a : integer array; when case not 5 - false >= - false and not 0 and 3 + 5840 + 1 : chillax end case - h rem(4) and 1 : do sQ(9280, 4) end case true and 17 : chillax end; when case - 4 or 705 : chillax end otherwise : chillax end end

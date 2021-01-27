@@ -1,0 +1,1 @@
+program mK : main : let lM = not false * false and 64 + (26) and 9 - 4 = 1060 and 0 or 87; when case not true / U and 0 or riK and 26 : do Z2(6 = 03); do BKW0a(39); do w(2) end otherwise : chillax end; when case - false <= 0 : chillax end case 2050 - 20 < 3350 : input H4H; pop end; while - 1 - 3 = 2 : chillax end; do e(97); while 0 : pop end end

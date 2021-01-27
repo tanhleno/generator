@@ -1,0 +1,1 @@
+program j : R : takes rJ1a, iC : boolean; E : integer array returns boolean let M98aa[- 67 and 7] = array - false and 698; when case - 08100 - 9 <= 91500 : chillax end case 1 : pop; pop end otherwise : let Ae = 6 end end main : chillax end

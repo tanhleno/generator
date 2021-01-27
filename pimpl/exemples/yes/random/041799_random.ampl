@@ -1,0 +1,1 @@
+program N : T : takes k : boolean array returns boolean array _b : integer array; when case 35 and 05 : chillax end case - 52 >= 9 : chillax end otherwise : input P; output ""; pop end end main : nB, N, G, w : boolean array; chillax end

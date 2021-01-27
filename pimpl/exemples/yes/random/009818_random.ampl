@@ -1,0 +1,1 @@
+program W : GP7 : takes Y, N, O : boolean array; w, g : boolean returns integer array chillax end pV : takes fg40, b : integer array; Kzf0 : boolean array; d2, x : boolean array returns boolean array rl : integer array; v8 : boolean array; let BJ[- 19] = array 6; input m[02]; do j(6480) end main : chillax end

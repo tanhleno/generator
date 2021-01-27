@@ -1,0 +1,1 @@
+program vC : main : while 2 rem true : input oy3[- 7250] end; when case - (108) /= - false : let l2 = array 5; when case 581 : chillax end case 90 : chillax end; do R(49) end; do Zg6a(- 917 and 9 > - 33 - 9) end

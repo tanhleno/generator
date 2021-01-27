@@ -1,0 +1,1 @@
+program wfm : xl : takes cTTa, V, r : integer returns boolean array N : boolean; Q : integer; H : integer array; T85, q920 : boolean; chillax end z53 : takes V0 : boolean returns boolean array Y9 : integer array; do l5T0(6 - 3, 26400); output "13" . "Y\t" . "\\"; while 8 : chillax end; when case 18 : chillax end end main : f : boolean; chillax end

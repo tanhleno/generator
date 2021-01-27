@@ -1,0 +1,1 @@
+program V : R4 : takes IXv0, x3, J7 : integer array returns nothing m6 : integer; SE : integer array; while not 88 and 9 + 47 - 6 : chillax end; when case - 6 - 08700 : chillax end otherwise : chillax end end main : chillax end

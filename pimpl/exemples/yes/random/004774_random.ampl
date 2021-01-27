@@ -1,0 +1,1 @@
+program U1 : E : takes Y9, h6W0, S2b0, r : boolean array; c, n, j130, t6 : integer returns boolean array input V[not 4 and 1] end N : takes h, fM, q2 : integer array; D0, V, q1 : boolean; E260a, Bd, t6 : boolean returns nothing pop; when case 5 : chillax end case 8 : pop end case 68 : chillax end otherwise : pop end end main : chillax end

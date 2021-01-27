@@ -1,0 +1,1 @@
+program F : R : takes T8 : integer; T36 : integer array; B : boolean array returns nothing S, d0c, x8, RU, p : integer array; C : boolean array; J : boolean array; g : boolean; output - 330 <= 132 . "*l\""; do Yq(19 - 4 <= 16300) end b : takes M020, RX10 : integer array returns nothing pop; output "5"; do W9(6) end main : chillax end

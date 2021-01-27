@@ -1,0 +1,1 @@
+program aX : fnA0a : takes t : integer; N57 : boolean returns integer X4j0 : boolean; when case - Uv or 2 = - 37 : when case 6 : pop end end case 5 : chillax end otherwise : chillax end; when case - 4 - 7 : while 3 : chillax end end otherwise : do v4(529); pop end end Psj : takes Rs : boolean returns integer array chillax end main : CS : integer; chillax end

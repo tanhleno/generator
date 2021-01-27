@@ -1,0 +1,1 @@
+program X : q : takes IM, vgk : integer array; v, B27, V : boolean array returns nothing ISH : boolean array; let iK10[- (56) and 4 or 4] = array - (0) and 3250 + 428 end main : output true or(2) and 287 or 24 - 5; pop RO80a = - 13100 end

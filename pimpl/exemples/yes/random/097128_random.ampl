@@ -1,0 +1,1 @@
+program M : main : when case not(1) or true rem false and 13 /= - false * 5 and 3540 + 8580 and 26 or 2 : let m7Laa = 59700 end case O + true and 0 - 7630 - 6 >= - kh6 : while 67 = 09 : pop end; when case 9 : pop end otherwise : chillax end; output ""; when case 0540 : chillax end; pop end end

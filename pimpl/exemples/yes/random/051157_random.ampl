@@ -1,0 +1,1 @@
+program z : h : takes yr : integer; c, P : integer array returns nothing input e4[(59) and 955 + 23200] end main : rr : integer; v : integer array; fNh0a, PW, q : integer; o, l, _0, m54 : boolean array; pop end

@@ -1,0 +1,1 @@
+program gR7 : main : S : boolean array; i : integer array; j : integer; R : integer; when case 4 * o33(3) rem 26 + nB(80) : pop end case - not false and 9 and 1 <= 2 and 46 + 18 : do L(43) end case false or 92 <= - 5 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program r : b9 : takes U8, b : integer returns boolean array nw20 : boolean array; t, D460, H5h, BX90a : integer; P, b1M, a : boolean array; r, H : boolean; chillax end w4 : takes X3 : integer array returns integer array pop; output "[(\""; input v5 end main : ep, B0M, C9, x : integer; pop end

@@ -1,0 +1,1 @@
+program f : G : takes b, C, Q, a : boolean array returns nothing chillax end N8 : takes u, S5 : integer returns nothing let KL[- 0] = 685 end main : output "" . - not 78 > 89 - 5; do N00((9) and true and 4); do n7(- false - 32300 - 0) end

@@ -1,0 +1,1 @@
+program Y : e : takes o7 : boolean returns nothing O : integer array; T, j : boolean array; d : integer; l0, em : boolean; chillax end v : takes C, rKm, lZqaa, H04, T : boolean array returns integer u95, G6S : boolean array; uFraa, bx, L : boolean array; when case - 5 <= 577 : chillax end end main : h, B1, I : integer array; chillax end

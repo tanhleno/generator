@@ -1,0 +1,1 @@
+program vw : Di : takes q9q : integer array returns nothing z, r, GnR : integer; when case(1690) and 8 + 01 : chillax end; while 7 - 1 = 3 : chillax end; output "3-" . 54 . ""; do Q(121, 197) end main : chillax end

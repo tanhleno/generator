@@ -1,0 +1,1 @@
+program R : eC8 : takes t0, Z, J60a, mR5, H, i9Va, G, Nr6a : integer; s, w : boolean array; O7, MAIa : integer array returns nothing dU2 : boolean array; input rs; input p[9]; while 910 = 0 : while 1 : chillax end; pop end; pop 8; let J8 = 96200; do f7Pa(7) end main : chillax end

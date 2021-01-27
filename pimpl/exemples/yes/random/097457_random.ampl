@@ -1,0 +1,1 @@
+program qS : main : when case 8 and false and(6) and 071 or N(8) * not 07 and 2 - (9) + 12 /= - not false : chillax end case - 66 : chillax end case - 36 or 171 - 40 < - 4 - 918 : chillax end case - 0 - 740 : when case 7 : chillax end; let D7g0 = 73800 end otherwise : input Iq; while 77 : chillax end; pop; do Q(23); pop end end

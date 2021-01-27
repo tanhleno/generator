@@ -1,0 +1,1 @@
+program o : pr : takes NY0a, T, DP : boolean array returns nothing k3s, xs : integer array; chillax end main : while - 25400 /= - O(0) or(43000) or 7 : pop; let Jn90 = array 7; while 48 : chillax end; while 442 : chillax end end; pop; input U[756]; input c; do b(4); input j6; output "\n" end

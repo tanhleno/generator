@@ -1,0 +1,1 @@
+program Q1C : main : k : boolean; dK, S : integer; t1, dK : boolean; k : boolean array; Q, o, x : integer array; input Aq0[j2(09) * true + not true]; do ER(- true / rb7, - (7) and 86 or 8 - 2 > 77); do O(- (2) >= 7, - 9 - 7 >= 9, 45 = 6) end

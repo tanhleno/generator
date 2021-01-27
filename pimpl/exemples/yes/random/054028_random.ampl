@@ -1,0 +1,1 @@
+program GQ : Q : takes i : integer array; L, t, O : boolean array returns integer S5 : integer; let V = 950 - 9 < 0; pop; do Y1(1) end q7a : takes Aw, s, P510, s : boolean array; As8aa, a11 : integer array returns boolean r : integer array; chillax end main : input S8 end

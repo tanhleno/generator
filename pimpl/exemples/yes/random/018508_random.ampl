@@ -1,0 +1,1 @@
+program C : nL : takes B, G : boolean; Z : integer returns integer array do D(- RP4 and 10 <= 583) end main : X0M : integer; E7, qL, J8 : boolean; pop; do W((879) rem k and 0 or 06 and 39 - 7 - 3, true - 8 - 31) end

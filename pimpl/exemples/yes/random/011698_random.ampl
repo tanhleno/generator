@@ -1,0 +1,1 @@
+program g0 : Q : takes U6, Mr, m : boolean returns boolean Xu, SM : boolean; do h(- (7) and 2 - 1 - 2 <= 6); while 12 : chillax end end xxa : takes C : integer array; r : integer; F1 : boolean; r3, jn, v : integer array; N : boolean array returns boolean chillax end main : input R[KU] end

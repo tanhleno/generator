@@ -1,0 +1,1 @@
+program _69 : Ga : takes CS6aa : boolean returns nothing M : integer; j, a : integer array; w : integer array; do WM(- not 7 and 6) end s : takes O99 : boolean array; KI : boolean array returns boolean chillax end main : pop not 2 rem(62) end

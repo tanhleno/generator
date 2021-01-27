@@ -1,0 +1,1 @@
+program P : N6 : takes Y : integer array; s9 : integer; G : integer returns nothing Z : integer; M : integer; when case - M : output 72900 . "\""; output ".baa" end otherwise : chillax end; output 01 = 80800 end main : b4, T, t : integer; m : boolean; chillax end

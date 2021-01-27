@@ -1,0 +1,1 @@
+program W : wj9 : takes k, O : integer array returns nothing pD : boolean; G, f3O : boolean array; s : integer array; b95 : boolean; let K = - 9 - 4; when case 6280 > 88 : chillax end otherwise : chillax end end main : E1 : integer array; when case - true / false + 46 < - s / false : pop; let wu = 9 end case - not(3) rem true : do DE(4 = 4); input t[6] end end

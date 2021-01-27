@@ -1,0 +1,1 @@
+program M : E : takes X2, rT, s, x39, Q, KOJ, f : integer; F7na : boolean; W3 : boolean; QF4a, Q : boolean array; it : integer; Q4 : boolean; PNa0a : boolean returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program m : k : takes Q : boolean array; d, Lm, Wr : integer returns nothing l : integer; input D2[q39 - 54 - 0310]; while - 110 >= 435 : when case 6 : chillax end end; when case 017 : do w7e(2) end otherwise : pop end end Q : takes w : integer returns nothing pop end main : RaZ, J8g : boolean array; chillax end

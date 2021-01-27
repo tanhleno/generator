@@ -1,0 +1,1 @@
+program F : Y9m : takes C7 : boolean returns integer chillax end main : output "" . true and 0470 + 4 - 9 /= - 7 - 7; while - O(5) and false + not 7 or 190 : while 45 = 225 : chillax end end; input W[- 1 or 6]; input m[36600] end

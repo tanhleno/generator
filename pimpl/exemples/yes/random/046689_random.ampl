@@ -1,0 +1,1 @@
+program g : J : takes F28 : boolean returns integer array v4 : boolean array; b, z9 : integer; EC : boolean array; F8, V : boolean; v : boolean; u : boolean; do P(- Y and 53); do u(- 31900 >= 13) end c : takes S : integer returns nothing chillax end main : G, l_ : integer; zx : boolean array; pop M[91] = - false and 8 or 57200 - 315 end

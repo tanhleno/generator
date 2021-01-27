@@ -1,0 +1,1 @@
+program n : h : takes JkF0 : integer returns nothing while - true and 21400 : when case 0 : chillax end otherwise : chillax end; while 5 : chillax end end; while - 451 : input F75aa; while 5 : chillax end; pop end end main : ku : boolean; d82aa : boolean array; A, w5raa, Vf : boolean array; chillax end

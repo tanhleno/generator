@@ -1,0 +1,1 @@
+program u : q : takes r50a, Y8 : integer array; KI : integer; h, gJ8aa : integer returns nothing K : integer array; f : boolean; chillax end main : Q : boolean; while - not true rem true and false and 1 >= - false and true and 5 - not 369 and 8 or 2 - 397 : pop end end

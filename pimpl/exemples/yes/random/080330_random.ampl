@@ -1,0 +1,1 @@
+program d : main : F : boolean; when case(9480 = 7) rem oT / 33 > 597 * true : chillax end case(70) + true : chillax end case - not 66 or 64000 = - 07300 : chillax end case - 4 - 18 > 42600 : chillax end case 3 = 30 : pop; pop end otherwise : input C end end

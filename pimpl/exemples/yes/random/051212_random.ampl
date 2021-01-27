@@ -1,0 +1,1 @@
+program C : f : takes j4 : integer; Q0, Y : integer returns integer array input HM80a[61 and 3 - 7 - 74900] end a : takes c5, M : boolean; F : integer array returns boolean array when case - 7 - 9 = 0 : pop; pop; pop end otherwise : chillax end end main : do K3P(- true /= - (5) + j + 7, - w[87]) end

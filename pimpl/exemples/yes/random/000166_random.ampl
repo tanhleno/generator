@@ -1,0 +1,1 @@
+program G : n : takes XrI0a, x, ZH30, Q, F, K1G, _X, Gz00 : boolean array returns boolean do L(- (0950) and 6 or 844 - 33, 5 < 9) end f12 : takes KR, c, F, tM, q4 : boolean array returns nothing let c[1] = array - 6; when case 2050 : do V4(2) end case 729 : pop end case 9 : chillax end otherwise : pop end end main : R32aa : integer; chillax end

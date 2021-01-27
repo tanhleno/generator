@@ -1,0 +1,1 @@
+program h : main : do ZO(- not not B rem Z7Y(93) + (26) or true, - k_oa rem(4190) and 1, - a and 3 - 2 - 9, - 684 /= 1710, 3 = 776); do I4A0(- true rem(2)); input re[not 2 + 564 - 738]; pop 1 = 70 end

@@ -1,0 +1,1 @@
+program Yo : A : takes G : boolean array; O : integer returns boolean array chillax end main : H : boolean array; output "2" . "P" . "\nu" . 4; input U00aa; pop 1840 /= 8; input v8B0a[- 7710 - 0]; do RB8(85, 33, 3); while 1 : pop end; while 71 : chillax end; when case 5770 : chillax end end

@@ -1,0 +1,1 @@
+program h : nDgaa : takes v : integer array returns boolean Ko, L, t, F, Y : integer array; KL : boolean array; do e72a(true + 655) end main : e7 : boolean array; V : boolean; is : boolean; pop; output false > - 2 end

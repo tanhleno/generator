@@ -1,0 +1,1 @@
+program j360 : C1ua : takes g360, L1c, y3, n : boolean; m : integer; j : boolean array returns nothing let HSt[- d5 and 2530 - 12] = - 5; while 9960 - 3 : chillax end end main : a9, c : integer array; C57, hOt0a, DN1a : boolean; M : integer array; let Mw[- not(0)] = array - true and not false * (9) or true and h5 and 32 + true and 8 end

@@ -1,0 +1,1 @@
+program y3 : main : f : boolean; while - 2 * 496 or true rem O320a - false >= - false / not 28 or true and 50 : when case - 6 - 53 : chillax end case 2 : chillax end case 1 : chillax end case 2 : chillax end; do v5(0 = 8, 088, 9); when case 812 : chillax end; output "\""; do i1(6); pop end end

@@ -1,0 +1,1 @@
+program r : I2 : takes x6h0a : integer returns boolean mZ7aa, zF : boolean; do q(- not 77 and 3) end main : when case - (1) : when case - 8 - 8 = 50 : chillax end otherwise : let R13aa = 43; pop end; while 4 = 4000 : input u3; pop end end end

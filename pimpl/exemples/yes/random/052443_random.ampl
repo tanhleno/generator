@@ -1,0 +1,1 @@
+program c : z : takes L : integer; CY : integer; qH70, V : boolean returns boolean vc, cN, q6v : integer; yY, z, mO : integer; chillax end main : To : boolean array; while - false or 62 : output "" . 19 . "\\V\"" . "9" end; input pP3 end

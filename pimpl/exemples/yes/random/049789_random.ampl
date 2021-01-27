@@ -1,0 +1,1 @@
+program n8 : d56 : takes u : integer; I, G, R0 : boolean; D : boolean array returns boolean array do V1f0a(- (9), 1 /= 1); let O[- 003] = array 0740; let v = array 82; input tR end main : L54 : integer array; f2 : boolean array; z, _, b : boolean array; b3X : integer; yDC, i : integer array; w : boolean; chillax end

@@ -1,0 +1,1 @@
+program X : j : takes w, Ve : integer; N, v : integer array returns nothing do R(- (731) and 10); let n = 5 = 73; output 214 . "#" . ""; do a(00, 2); pop end main : Pf7, xw30a, i2 : integer; chillax end

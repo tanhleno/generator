@@ -1,0 +1,1 @@
+program c : main : fU, SL : integer array; S7g, Fu : boolean; while - false or(167) + 308 and 98 - 80 - 7 = - (19700) rem(2) and 0 : chillax end; output "" . "" . 4; input l[true and 3]; do nR(- 0 - 0 < 0); do V7Sa(44, 74200); pop end

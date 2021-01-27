@@ -1,0 +1,1 @@
+program z : s3A : takes z0a0a, C, LG, s, T4_ : boolean array returns integer chillax end kw5a : takes f6 : integer array; mw : integer returns boolean output 82300 = 85; input cc[7]; output 2 end rj20 : takes S, g : integer array; E, k : integer returns nothing do S(145, 797); input k8iaa end main : output ""; pop; let O180a = - 65 - 54 < 457; while 063 : do tZ(841) end; pop end

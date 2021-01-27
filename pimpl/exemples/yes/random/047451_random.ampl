@@ -1,0 +1,1 @@
+program N5 : B : takes h : boolean returns nothing chillax end Z5B : takes e0K, r : boolean returns nothing T, n, t6 : integer array; M9gaa : integer; x : boolean; let kB = 606; pop; input CXv0a[4]; do lyl(203); input K end main : input Z[22 + true * false and 7 + not 1] end

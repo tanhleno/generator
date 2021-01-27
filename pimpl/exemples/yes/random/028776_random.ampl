@@ -1,0 +1,1 @@
+program C2u : A : takes d, m : integer array; e45aa : integer; i2 : integer returns integer x : boolean array; Aa40a : integer array; KN : boolean; OD : boolean; let jKi[- 6440 and 7 + 4860 - 3] = 832 - 2 >= 117 end main : pza0, y19a : boolean; input K1[0 or(6)]; let GC[- CO4(6) / not 5 and 5] = true and 3 or 03 - 39 end

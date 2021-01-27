@@ -1,0 +1,1 @@
+program A : X79aa : takes mT : boolean; _7, AEq : boolean array; rU7 : integer; F, V, V : boolean; a0 : integer array returns nothing input fx[(32) + 84900]; pop end F : takes K : integer array returns nothing chillax end main : while - true : chillax end; do _(- true = - 5 + 46 - 7, true and 4 - 2) end

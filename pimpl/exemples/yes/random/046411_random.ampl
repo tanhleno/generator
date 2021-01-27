@@ -1,0 +1,1 @@
+program U1 : v0M0 : takes s : boolean returns integer array chillax end l : takes u, O, s : integer array returns nothing output ""; output 6 end g : takes fa, D, C : boolean returns nothing gK : boolean; when case 4 : input p2; pop end case 02 : chillax end case 2 : chillax end otherwise : chillax end end main : fbg : boolean array; chillax end

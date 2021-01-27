@@ -1,0 +1,1 @@
+program A : main : output ""; when case - true : chillax end case - true and 2410 + 92 - 81 : chillax end otherwise : chillax end; when case not 96500 and 92 >= 4 - 88500 : chillax end otherwise : chillax end end

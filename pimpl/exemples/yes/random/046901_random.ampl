@@ -1,0 +1,1 @@
+program e : I : takes z : boolean returns integer chillax end j00a : takes kR, z4_0, B22 : integer returns nothing chillax end c7Xa : takes b : integer array; J : integer array; t : boolean; l : boolean array; e, r : boolean returns integer I38aa, YIoaa, _8 : boolean; chillax end main : k : integer; chillax end

@@ -1,0 +1,1 @@
+program I8 : O82a : takes b9g : boolean array returns nothing e, I, Q : integer array; bC : boolean array; ma : integer; input P2 end main : input O; do o(not not 25 rem N and 4 - (54) + 40 - 63500 <= - true and 4) end

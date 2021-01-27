@@ -1,0 +1,1 @@
+program Q : u : takes Q : boolean; aqQ : integer returns integer array let wo6aa[not 34 - 937 - 60] = array(77500) - 326 - 9; pop 8 = 42700; output "\"" . 5 end G : takes U : integer array returns integer array D1 : integer array; vs, R39 : boolean; X0 : boolean; input f; output "B" . 29 . "" end main : chillax end

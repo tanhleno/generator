@@ -1,0 +1,1 @@
+program t7 : main : l6, E, o : boolean array; h : integer; while - 29 and true - true + true and 814 /= (6) - not 55 and 298 or 5 : chillax end; output "" . - 9; do i7(92 <= - 1450 - 29, - 4 <= 95, 05700); do a(7 - 11 = 62) end

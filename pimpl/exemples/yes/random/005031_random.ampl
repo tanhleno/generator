@@ -1,0 +1,1 @@
+program P : I : takes c, V, j85, eBO : boolean array; Q : boolean array; D, u, t5X0a : boolean array returns boolean YFh : integer array; Z : integer array; N : integer array; u : boolean; chillax end main : k, v, X, l6M, PT : boolean array; pop; input B[eP(4) * false]; output - 52 . ""; let Dwg0 = 9380 = 0; let gJPa[6] = array 36400; output 5 . ""; input J end

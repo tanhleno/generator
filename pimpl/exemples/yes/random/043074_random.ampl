@@ -1,0 +1,1 @@
+program Ev : t : takes zH : boolean array returns integer d, R4Wa, y : boolean; input D[- z or 7 - 0] end G3k0 : takes e, on : integer array returns integer chillax end main : while false rem 5 * false <= - not y9 / not 8 and 9 : pop; input u; output "\\" end; when case - 2 * 4 + (9480) and 851 : chillax end end

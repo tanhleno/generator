@@ -1,0 +1,1 @@
+program I9 : o18aa : takes G, B0 : boolean; _j : boolean; yl, f9, dB8a : boolean; r : boolean; Ryc0a, rM : integer array returns nothing N, t : integer array; H : boolean array; hf : boolean; chillax end main : B, hA, H : integer; N : integer; chillax end

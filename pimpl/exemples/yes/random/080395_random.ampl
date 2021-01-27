@@ -1,0 +1,1 @@
+program M : main : O : boolean; when case - true / (66) /= - 3 / G and 70100 : pop 257; pop end otherwise : chillax end; output "" . ""; while - false or 28 : chillax end; when case 78 > 4 : output ""; input jDn0 end end

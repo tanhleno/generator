@@ -1,0 +1,1 @@
+program bJ : jw : takes G : integer array; d : integer returns boolean array output 4510 - 65500 > 0; while 47 - 8 >= 009 : chillax end end main : H5 : boolean; QD, T8u0, G0, e, E, nP : boolean array; T9q0 : boolean; F : integer; when case - false * c[1920] * 8550 and 1770 < (1) : chillax end; input yAY0a[92 * not 8 - x0 and 56 - 5 - 5] end

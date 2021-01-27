@@ -1,0 +1,1 @@
+program N : v : takes J9b0, Y : integer; z : integer array returns boolean array chillax end k : takes y, H630, E06, W, N6 : boolean; t580, i : integer array returns nothing chillax end main : V880a : integer array; J : integer array; output - not not 60 / false or 8 end

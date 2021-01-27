@@ -1,0 +1,1 @@
+program VP : a : takes o5 : boolean array returns nothing F, a, m, TL6 : integer array; b : boolean array; when case Hx and 8 > 5 : let O = 2; do X46a(49) end case - 6 : chillax end otherwise : chillax end end main : L, u : integer array; chillax end

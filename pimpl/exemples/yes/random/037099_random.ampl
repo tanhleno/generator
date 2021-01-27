@@ -1,0 +1,1 @@
+program Hk : aCT0a : takes LC : boolean; L : integer array returns nothing m : boolean; T980, Y9, K, C3Ta : boolean; q1 : integer array; Z9W : boolean; input D; when case 9 /= 91 : pop end case 342 = 5 : chillax end case 68 : chillax end case 8 : chillax end otherwise : while 1 : chillax end; pop end end main : do u(- true + q71[58] or 838) end

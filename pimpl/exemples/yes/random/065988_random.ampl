@@ -1,0 +1,1 @@
+program JEOa : main : do aVa(- (74 = 040) rem N[11] / true and 0 or not false + not 28 and 962 - 8 > 9110 - (06100), - not(56500) - 50 and 7 or 8 - 0070 >= - 6, U and 00 or 6 - 8, - 532 - 1770 = 9, 3640, 4, 04600); output "" . - 0660 - 25 end

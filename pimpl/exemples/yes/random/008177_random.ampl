@@ -1,0 +1,1 @@
+program AL6 : N51a : takes Z, i, p, H : integer returns nothing chillax end j : takes k87aa : integer array; d : boolean array returns nothing vfx0, r : boolean; Y6j : boolean array; k : boolean; pc : boolean; B0 : boolean; pop; output "" end main : chillax end

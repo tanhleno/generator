@@ -1,0 +1,1 @@
+program Z : CK3 : takes k7D : boolean; mbD, AK1 : integer returns nothing E : integer; chillax end z : takes N, Y7U0 : integer array returns nothing chillax end main : rPva : integer; i : boolean; chillax end

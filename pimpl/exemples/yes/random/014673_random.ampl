@@ -1,0 +1,1 @@
+program W : Q7 : takes w, s, q : integer array returns boolean array X, ZV, q, j, a6p0 : integer; h99aa, L3V0 : integer; a, P, t0 : integer array; while - not 921 or 13 - 88 < - 8 : chillax end; input kc end main : U070a : integer; when case 3 * true / true + (394) or 205 : do RBR(3); output 927 . "x\\" . "?" end otherwise : chillax end end

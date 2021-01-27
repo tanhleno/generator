@@ -1,0 +1,1 @@
+program b : r7Ta : takes G8, bi8 : integer; a : boolean returns nothing chillax end main : output A[658] and(14) and 3720 . - not 37 = - 0430 . - 8 - 7 < 18 . 2 = 849 . 1 . 4 . ""; when case - true - not 602 and 8 : when case 60 : let K = 6; pop end otherwise : chillax end; do F(6); pop end otherwise : output "" . "" end end

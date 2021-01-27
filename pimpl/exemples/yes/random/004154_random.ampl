@@ -1,0 +1,1 @@
+program C6 : v : takes Zac0, C, cv00a, EV, v : integer returns nothing output "{m" end p : takes k : integer returns nothing chillax end fX : takes Wu, S, B : boolean array returns nothing chillax end main : let l = not(20) + not 96 and 5 + 51 - 60 <= - J and 2 end

@@ -1,0 +1,1 @@
+program x : MIM : takes l : boolean returns nothing Ww, f : integer array; Q, y : integer; Q5, p, s : integer; V, _6 : boolean; A95 : boolean; chillax end main : s9 : boolean array; uM : integer array; w8 : boolean array; X, C : integer; input IN[ZaS(19, 0) - false - false]; let a0[true - 9 - 2 - 3] = array - (3060) / (0) + not 3 and 3 or 8090; do b9B(true - 47) end

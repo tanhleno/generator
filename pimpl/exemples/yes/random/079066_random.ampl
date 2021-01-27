@@ -1,0 +1,1 @@
+program TTGa : main : it : boolean; M8, Hb : integer array; do j(rXy0[6] rem W(18) or false rem(4) + false and 96 > IS / 8 and 5); when case - (15) rem(7160) and 3 or true - 00500 - 9 = - false and 7 + 2 - 97 : pop 76 end otherwise : when case 691 : pop end end; let My[- iH and 1 - 789] = array(4) or 91 end

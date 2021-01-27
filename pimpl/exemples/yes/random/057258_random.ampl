@@ -1,0 +1,1 @@
+program y : d : takes n : integer array; j : integer array returns nothing x, W : integer array; while false or 8 : chillax end; output "\\"; output 09 end main : A, Y, H4 : integer array; chillax end

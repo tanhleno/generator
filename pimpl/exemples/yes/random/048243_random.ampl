@@ -1,0 +1,1 @@
+program U : K6 : takes Fv : boolean returns nothing T, M : integer; K : integer; v, W : integer array; while 2 and 0 = 1 - 5 : chillax end end j : takes R860, jL3 : boolean; r : integer; K, nG : boolean array; C, P, K8jaa, z : integer returns nothing do w6E0a(- 82 > 6880, 4 = 06100) end main : chillax end

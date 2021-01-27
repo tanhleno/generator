@@ -1,0 +1,1 @@
+program H4E : i : takes T, T : integer returns nothing X : boolean array; chillax end ue : takes z9B0, DS, JK, k, X3Ka, C7, t550 : integer array; Y : integer returns nothing chillax end main : while k - false and(4) - (7) and 0 - 0 - 49600 : let Q4 = 136; input Q1; pop end; input v end

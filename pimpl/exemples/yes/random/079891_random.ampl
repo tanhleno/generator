@@ -1,0 +1,1 @@
+program J : main : Z1 : boolean; input S[- true and not not 10]; when case - U[2] > R2 and 6 : do J7K(18 = 3, 2); pop; pop; while 5 : chillax end end otherwise : chillax end; let n = 9 <= 6; input N end

@@ -1,0 +1,1 @@
+program o93aa : _ : takes Xij : integer; F1, d3, z, Hes, SJq0a, p : boolean returns nothing input g end main : when case false + 91900 and true - not 1 : output 4 = 743; input ICW0 end case false + x1 > (540) : output 1; let K3[5] = array 69 end end

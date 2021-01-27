@@ -1,0 +1,1 @@
+program W : S : takes gTX : integer array returns boolean array chillax end r : takes y, I, M, pt3, J : boolean; W4, f530a, xs : integer array returns nothing K : integer array; pop end main : when case(2) rem s0Z0a and 017 and 44 : let PA = array - 5; output "\\/a" . ""; output ""; let BY = 13500; output ""; pop end end

@@ -1,0 +1,1 @@
+program Y : We1 : takes s, _, gl : boolean array; S0, z : integer array returns nothing N0a, oso0a : integer; O3 : integer; while - true and 2 : when case 0 : pop end; input S; output ""; pop end end main : o, o6 : integer array; b, f, N, H, t : integer; chillax end

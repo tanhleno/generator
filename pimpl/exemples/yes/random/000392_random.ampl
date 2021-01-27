@@ -1,0 +1,1 @@
+program _Y4 : M : takes z0, N, D, Y3, qPt, lj9, d, o : integer array; Qg5, UI : integer array; o1, X, _hE, I : boolean array returns nothing chillax end main : let a = array - not false; while - J(904) : chillax end; input _ end

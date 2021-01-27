@@ -1,0 +1,1 @@
+program pcP : KN5aa : takes c, eUwa, x3, N : boolean; h04, e3 : boolean array returns nothing x, a, D8 : integer; pop - 6 - 42; pop 18 = 2 end main : input t[- false + not false + false]; let wr = not 90600 and 88 - 2 <= 01; when case 3 + 638 = 7 : chillax end case - 6 : chillax end case 8 = 051 : chillax end case 5 : chillax end end

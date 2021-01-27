@@ -1,0 +1,1 @@
+program O9 : tv8 : takes MK2 : boolean returns nothing chillax end N : takes D6x0, W, eM6 : boolean array returns nothing let Z[- 5] = array 9 - 4; do z(2 = 91); when case 9 : chillax end case 7 : chillax end end Ww : takes Eh, U : boolean array returns nothing chillax end main : C, J, f, l100a : boolean array; chillax end

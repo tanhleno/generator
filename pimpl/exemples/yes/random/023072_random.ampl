@@ -1,0 +1,1 @@
+program H : X0 : takes yY30, Q : boolean returns boolean array output "mI" . ""; output "$"; while 1 : chillax end; output 4 . "\t0"; when case 0 : chillax end; pop; pop end main : input v[true and true * not 3440 or(62) * 6 - true - 918 - 7210] end

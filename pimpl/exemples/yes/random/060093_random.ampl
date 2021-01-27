@@ -1,0 +1,1 @@
+program g : U : takes d : integer array returns nothing chillax end main : while - false and ov60a(5) /= - (920) * 405 : while - 29 - 8 : chillax end; when case 0 = 02 : chillax end case 4 : pop end otherwise : chillax end end end

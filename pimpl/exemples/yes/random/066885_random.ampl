@@ -1,0 +1,1 @@
+program r : main : do W6(- true and(93) / e and 37, - T4da[149] < 9 - 14 - 36, 5 - 7 - 83 = 66400); output ""; when case true or 8 - 3 <= 39 - 22 : chillax end case - 28 - 06 < 2 : when case 9 : chillax end end otherwise : pop; let bN0 = 19 end; pop; when case 61 : chillax end case 1 : chillax end; output ""; let WH = 8 end

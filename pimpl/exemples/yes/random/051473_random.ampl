@@ -1,0 +1,1 @@
+program rmy : B4 : takes R : integer; I : boolean; D : boolean array; AHd0 : integer returns nothing G, w41a, b2, F, QQ : integer array; chillax end main : do v(S0(9690, 854) or 0 rem(57) and 3 + true and 0 - 21900 - 43 /= true rem true - false and 30000 - 7) end

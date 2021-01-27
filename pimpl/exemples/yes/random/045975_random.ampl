@@ -1,0 +1,1 @@
+program s : a1 : takes Gws : boolean returns boolean chillax end main : g66a, c, k : integer; eK4aa : integer; e, X, z, d, e : integer; let pDPa = array - false - Zna0a rem false; do l2(not true * false or(7) and 3, true); input v[- not 545 and 2740 or 9670]; output ""; output 9; do W(72) end

@@ -1,0 +1,1 @@
+program H : main : C, E : integer array; v : boolean; W, q, Z : boolean array; VoN : integer; P, rX, SLe : boolean array; X1Da, Am3a : boolean; input C; while X : chillax end; let l[true + 8300] = array(7) and 5 - 0 - 0 end

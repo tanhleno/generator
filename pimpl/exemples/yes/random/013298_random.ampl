@@ -1,0 +1,1 @@
+program x87 : x : takes z8Na, n7s, M5B0 : integer; v : boolean returns integer Z, N, I370, y : boolean array; while - true and 4 /= - 7 : let aV20[811] = array 4 end; output 750 = 20 . 00400 end J : takes UuI0, j83a, a, V : integer array returns integer output "" end J_ : takes v : boolean array returns nothing chillax end main : do s2(1 >= true, - 28000 / u and 0 < - 30 + 6) end

@@ -1,0 +1,1 @@
+program e5 : main : ey : boolean; p : boolean; p, qJf : boolean array; AD, kQ3, iG : boolean; D : integer array; when case - (99 = 731) = - v(89700) / (3) : while - 5 : chillax end; while 770 = 50 : chillax end end otherwise : chillax end end

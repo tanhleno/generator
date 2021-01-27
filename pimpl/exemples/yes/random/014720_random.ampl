@@ -1,0 +1,1 @@
+program F : p : takes X, h, I : integer array returns boolean array sn : boolean array; Tf, j : boolean array; d, U7, w3X : integer array; A : boolean; fL : boolean; c : boolean; let w[6 or 9750] = array - 799 and 54 or 88; when case 0 < 1 : output "" end otherwise : chillax end end main : b : integer array; while false * F[6] and not 7 or true rem false : chillax end end

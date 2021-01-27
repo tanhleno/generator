@@ -1,0 +1,1 @@
+program c : l : takes Y : boolean array returns boolean x, k : integer array; c, C : boolean array; R, K, F26 : boolean array; chillax end main : Sr, d : integer; D, Ad : boolean array; FPJ, m7, U25, d, n : boolean; X, tz : integer array; input EbA[- true + (4150) * true] end

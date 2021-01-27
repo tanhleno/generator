@@ -1,0 +1,1 @@
+program y : main : d2, w, cr, Z : boolean; when case 45 * 3 / P >= (2) * 8 and 8 - true - 62 - 9 : let i[48] = 6 = 2; output "\"" end case Uf[2] : chillax end otherwise : while 82 : let O = 2 end end; do X(m6(3670) /= - U, - Y46 and 2 = 5 - 2); output "+" . "" . "@C"; input k97a[- 8790] end

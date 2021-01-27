@@ -1,0 +1,1 @@
+program Es80a : G : takes k, _ : integer array returns nothing pGV, J6o0, SG, _ : integer array; chillax end main : f : boolean; y, svNaa, a, TmO, x, R : integer array; q, g8K : boolean array; input y39aa end

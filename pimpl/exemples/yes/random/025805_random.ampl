@@ -1,0 +1,1 @@
+program z6na : l : takes m, j : integer; h, jG : integer array; X : boolean; pO30a : boolean array; n, m4U : integer returns nothing chillax end q : takes OP, W : integer array; e, K, tu : boolean array returns nothing chillax end main : chillax end

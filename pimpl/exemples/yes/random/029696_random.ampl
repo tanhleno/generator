@@ -1,0 +1,1 @@
+program e : s : takes _01a, D5N0 : integer array returns integer array chillax end a9 : takes J : boolean array returns integer when case 46100 : chillax end case 8 : input nK5aa; pop end end jIo : takes qUCa : boolean returns integer pop 39600 end main : chillax end

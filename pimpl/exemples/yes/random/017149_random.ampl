@@ -1,0 +1,1 @@
+program P3R : yb : takes W, NFZ : boolean; s, JT : boolean; X : boolean; Qcm, j, w : boolean array returns boolean array S : integer; h : integer; chillax end main : q, D9 : integer; input B[- (9) * (3) - m and true and 94 + 4 and 9 + 04 - 1]; pop end

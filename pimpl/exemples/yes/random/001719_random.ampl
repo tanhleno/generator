@@ -1,0 +1,1 @@
+program U1 : n0 : takes K4, hh, l770, Z, k6Oa, o690a : integer; V1 : integer returns nothing kT : integer array; chillax end main : let Q4 = array(4) rem W * (60100) and 30 - 9 / false + true or 9; pop true - 5 - 3 < 94300 end

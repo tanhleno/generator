@@ -1,0 +1,1 @@
+program A : Z01aa : takes Dl4 : boolean; z60aa, m : integer array returns integer array chillax end N8 : takes I : boolean array; JD, S : boolean returns nothing pop; do x5O(2) end C : takes b, AD, Y, I2, o : boolean; jq : integer array returns boolean w : integer array; w : boolean; let W = 08100 end main : chillax end

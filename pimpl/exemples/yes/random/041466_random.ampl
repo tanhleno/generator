@@ -1,0 +1,1 @@
+program u : X : takes C7 : boolean array returns boolean array chillax end WA : takes g0a0a, G : integer returns nothing chillax end C : takes s, x : integer array returns integer array chillax end main : chillax end

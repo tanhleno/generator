@@ -1,0 +1,1 @@
+program _ : Ne3 : takes A1, U8G : boolean; HmFaa : boolean array; Y7, A : boolean; O25, B : integer returns nothing e : boolean array; D4P : integer; when case not 791 : chillax end otherwise : pop end; while - 4 > 5140 : input K; pop end end o : takes OH, R9O0 : integer array returns nothing r : boolean array; j6, u : boolean; chillax end main : gv, eV, S : boolean; chillax end

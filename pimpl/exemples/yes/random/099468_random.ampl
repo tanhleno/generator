@@ -1,0 +1,1 @@
+program O : main : while not false / false and 7 and 9 - 15 : chillax end; when case v[0] or true and 04 - 0 /= - false : let t = array 294 end case - R and 2 >= 820 - 97 : chillax end; pop; do R(- 4 - 71600); when case 5 = 3 : chillax end; do t87(0, 7); pop; while 3580 : chillax end; pop end

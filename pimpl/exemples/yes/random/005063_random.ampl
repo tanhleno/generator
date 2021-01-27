@@ -1,0 +1,1 @@
+program m5 : f : takes W, M, u7, x : boolean array; k : boolean array returns integer array G8 : boolean array; output - 3460 - 8 . 3 = 7 end u : takes F : integer array; w, t1, P : integer returns integer array chillax end main : while - (4) / false /= - A7(160) : do T(- 1 - 603, 88 = 1) end end

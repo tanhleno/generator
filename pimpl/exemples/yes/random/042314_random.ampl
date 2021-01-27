@@ -1,0 +1,1 @@
+program tA : G : takes _ : boolean array returns boolean let T6R0 = array true or 618 - 3 end Py : takes s : boolean array returns integer chillax end main : HdO, M, T : boolean array; _N, yq20, u3, jfF : integer array; Zg50a, b6Q : boolean array; chillax end

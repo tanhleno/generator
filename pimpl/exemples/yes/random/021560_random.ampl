@@ -1,0 +1,1 @@
+program gc2 : Vt1a : takes g, o : boolean array returns integer chillax end B : takes p : integer array returns nothing A, qz50 : boolean array; chillax end l5 : takes W, BV, I, PsW, n, n : boolean array; dJg : boolean returns nothing M1 : boolean array; let Jqk = array 980 end main : when case - true - a8(5) - true and 1 : while - 8 - 387 > 6 : chillax end; input H[0] end end

@@ -1,0 +1,1 @@
+program S8Y : A : takes W, k3oaa, e, m : integer; J, XqH0a : boolean array returns boolean Y : boolean; pop; while - 89000 - 1 : do X(2080) end end f : takes Z : integer returns nothing chillax end main : r990a : integer array; let K700a = array - (0 = 5) or true end

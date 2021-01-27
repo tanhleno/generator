@@ -1,0 +1,1 @@
+program C : B : takes Cy9 : boolean returns nothing U : integer array; pop; pop 99 end q9V : takes K4, c : integer returns nothing d, DBR, G, m0 : boolean array; chillax end main : s : integer array; MW : integer; U : boolean; p340a, D31, G : integer array; V1X : integer; Y, mYd : boolean; do y(x, not false); let W = array - true * (5) end

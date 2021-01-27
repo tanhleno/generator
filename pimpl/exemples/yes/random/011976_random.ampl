@@ -1,0 +1,1 @@
+program vI : duA0a : takes Qq, gJ, U : boolean returns integer v8 : integer; A, c : integer; mk, A, G : boolean; OdV : boolean; let Q[false + 51900 - 1] = array - Y or 2 end h8 : takes D, d7, w, MeV : boolean returns nothing R : boolean array; X1, i6 : boolean; AS : boolean; Q3 : boolean; p1U : boolean; chillax end main : N : integer array; q, _2, pC, x6 : boolean; chillax end

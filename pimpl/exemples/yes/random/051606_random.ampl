@@ -1,0 +1,1 @@
+program g : KI : takes rv : integer; d7l0a : boolean array; Qv, U1Xaa, x7ha : boolean array; Vi3aa : integer; p, H, W : boolean returns nothing _q : integer array; j7, O03aa : integer array; output 0930 - 1 <= 67500 . 51 = 50 . "7\n" . ""; do Ea(- 84 = 2, 224 = 350) end main : w66, l, dX, S, t3w0 : boolean; B8, f : integer; Qn3, Z, H, m89 : integer; y : boolean array; chillax end

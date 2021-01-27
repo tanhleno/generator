@@ -1,0 +1,1 @@
+program y_ : J : takes fz : integer returns nothing Z : boolean; a59a, JG, K9, p : integer; zlN : boolean array; l, a02a : boolean; do n(7 and 63) end i : takes K, W, a : integer array; c, i : boolean array returns integer array g, b : integer array; T : integer; j : boolean; when case - 15 - 04 : chillax end end main : chillax end

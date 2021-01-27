@@ -1,0 +1,1 @@
+program I : T : takes K, wj0 : integer; l73aa, W : integer; I, R, N, p, FK, _x : boolean; lM80a : integer; g, e2n0a, H, vk6 : boolean array; A95, B : boolean returns nothing bF10, T : boolean array; chillax end main : output "" . ""; do yG(- false - not 0) end

@@ -1,0 +1,1 @@
+program byh : ga : takes l7, AU, R1, s91a, Gt : integer returns integer lu90a, o, c : integer array; input c5[false] end M : takes VV5, l : integer; n : boolean returns nothing Ov, wV8aa : integer array; pop 62 = 99 end main : M : boolean; do c(- false * Nm[1] * not 34 and 2 + 57900 / (4) and 4 < - (4) / not 7 + false, (12) > not 7 and 44); while true : chillax end end

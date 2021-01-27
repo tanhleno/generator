@@ -1,0 +1,1 @@
+program a : bJZ0a : takes e, c4, k : boolean; Q4, C3 : integer; J, W : boolean; KQ : boolean; G : integer returns nothing f : integer array; chillax end t : takes V : boolean array; j6 : integer array; g, a : integer array returns nothing while 5290 : chillax end; let l[1] = 3; pop 1; let j = 2; input j; pop end main : G500a, D3Paa, nt30, D : integer array; chillax end

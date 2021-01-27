@@ -1,0 +1,1 @@
+program qx : S8 : takes d, p : integer; c : integer returns nothing n, P, _VW : boolean array; chillax end main : while O[06] rem false rem not 21 and 4 or(6) + true and 9 /= not W : output 8 = 1510 . "\t" . "\n" . "" end; do j(not 18 * false); output 97 - 25400 > 1 . 9 end

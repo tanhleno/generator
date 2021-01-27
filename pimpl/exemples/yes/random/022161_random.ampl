@@ -1,0 +1,1 @@
+program q6 : P : takes q, t : boolean array returns nothing uz2, BA, e, VR : integer; pop 9 - 7; output "^" . 1 end I : takes s65, A4 : boolean array; w : boolean array returns nothing chillax end main : W3, O, Z1 : integer array; while(85 = 3840) + 789 * H and 3640 + (4) - 119 - 2540 > 3 * S and 0 - false and 71 + 685 : output ""; while 7 = 30 : chillax end; pop 5 end end

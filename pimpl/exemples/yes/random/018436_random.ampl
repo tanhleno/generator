@@ -1,0 +1,1 @@
+program E7N : n : takes j, r : boolean; o : integer array returns nothing M820a, u, k : boolean array; when case - (5) and 09 : chillax end end main : h25aa, JRq, L23a : integer; l : boolean; output "" end

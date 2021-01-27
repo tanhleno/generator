@@ -1,0 +1,1 @@
+program V : A : takes q, g, V1ua, J, cH, F, KT : integer array; b90, eG : boolean array returns nothing chillax end dR : takes a : integer returns nothing I : integer array; j750a : integer array; m3, C : boolean; when case 3 - 482 : chillax end end main : w200a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program _Xa0a : jup : takes W8, dq : integer array; k : boolean returns nothing chillax end main : K, Y, O : integer array; while 27 / not true and false and 80400 = - not 4 - S230a and 63 - 2 : chillax end end

@@ -1,0 +1,1 @@
+program h : main : when case - (2 = 3) and false <= Y * not 6380 and 581 : let P = 76800 = 8 end; let o9 = array - (22); when case - false and 5 = - 2 - 65100 : chillax end case - 13 - 4 = 0 : pop end otherwise : chillax end end

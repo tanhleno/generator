@@ -1,0 +1,1 @@
+program t870a : x : takes F, BH : boolean returns nothing t3ea, vWd0 : integer; pop 01100 - 9 end e : takes o : integer array; R19a : boolean; i7 : integer; Wg : boolean array; E9 : boolean returns boolean array chillax end main : E : boolean; chillax end

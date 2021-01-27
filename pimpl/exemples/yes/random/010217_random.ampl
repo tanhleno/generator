@@ -1,0 +1,1 @@
+program f160a : t : takes xo, h, m : boolean array; N7 : boolean returns nothing xQ, B, M, H : boolean; input a03[- _ and 9] end s : takes a : integer array returns integer W : boolean; while - 9 - 78 : chillax end end main : _3, k : boolean array; chillax end

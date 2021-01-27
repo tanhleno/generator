@@ -1,0 +1,1 @@
+program Z7 : f65aa : takes a, C5 : boolean returns boolean array when case(250) and 9 - 1 : do s2(9); output "" end case 9 - 8 > 12 : let Vl3 = 50 end case 42 = 92 : let L = 1; pop end case 9560 : pop end end main : output IA7a[96] rem b and 86 - true or 4 - 4 < not 24 + 1 - 5480 end

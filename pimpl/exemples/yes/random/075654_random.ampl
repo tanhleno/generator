@@ -1,0 +1,1 @@
+program B : main : p, i : boolean array; when case UJo(6, 78) /= not false / (55) and 67 : when case - 47000 - 6 > 85 : chillax end case 2 : when case 4 : chillax end; pop end end otherwise : let S[3] = array 204 end end

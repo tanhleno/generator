@@ -1,0 +1,1 @@
+program G : main : do l6(- q98 <= - 69 and Bu and 1 - not 7 and 2230 + 829, - (46)); when case - not 7 or true : when case 9 = 8 : while 83300 : chillax end; pop end end case W - 7 : chillax end case - 52000 : while 65900 : chillax end end case 72400 : let Y = 72 end case 3 : pop end case 2 : chillax end otherwise : let X = 4390 end; input f94a[false and 0 - 740] end

@@ -1,0 +1,1 @@
+program TzT0a : main : Y6 : integer; ik : boolean; when case - (5 = 2) >= - false and false - T - 7170 : when case - 1 - 5 >= 5 : let QcK = 70; input SSH end case 0 = 287 : pop; pop end case 92 : pop end otherwise : chillax end end otherwise : do Z(3 = 75, 35300) end end

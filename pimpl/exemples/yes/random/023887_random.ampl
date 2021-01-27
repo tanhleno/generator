@@ -1,0 +1,1 @@
+program z : gi : takes b7, fxuaa : boolean returns nothing chillax end x : takes xa, BW, u, f, bt : integer array returns nothing Gq0, O82 : integer array; chillax end main : pop; output 9 or 5 < - 4 - 416 . "\n" . 0 = 484 . 51; let q[1 or 42700 - 02] = 8750 = 8 end

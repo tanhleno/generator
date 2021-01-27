@@ -1,0 +1,1 @@
+program zL5a : H6a : takes N : boolean returns integer array while - 3 - 2 = 97 : chillax end end main : p, QU4 : boolean array; output - cZ70a . - T4 and 70 + 31 - 9; while F[46900] >= - n670 : chillax end end

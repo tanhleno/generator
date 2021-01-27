@@ -1,0 +1,1 @@
+program n : main : N : boolean; CT : integer array; A : boolean array; gBy0a, I4V, dU6, mly0 : integer array; n, C, O : integer; Y, F21 : boolean; T : boolean; N3 : boolean; while - true or not false - true and 0 >= true / false : chillax end; pop aDG and 3 >= 25 - 8700 end

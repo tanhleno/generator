@@ -1,0 +1,1 @@
+program h61 : a : takes C : boolean; g1j, S4g, om, P, eq : boolean array; R5Ka : integer; g : boolean array returns integer array x : integer array; chillax end main : UB2, z4, of : boolean; B, Jiy0 : integer array; chillax end

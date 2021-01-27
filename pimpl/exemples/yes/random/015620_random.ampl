@@ -1,0 +1,1 @@
+program f : IV_aa : takes d, K, Ni : integer array returns nothing while - false + 34 - 0 : chillax end; while 69 - 7 : chillax end; input d; input b; while 5 : chillax end; let oQ = 2 end V16 : takes NY30, F, rZR : boolean array returns nothing let z9 = 1 = 24; let UXf = 5; do w45(88) end main : chillax end

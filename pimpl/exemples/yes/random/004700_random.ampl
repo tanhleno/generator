@@ -1,0 +1,1 @@
+program Hc20a : LNJaa : takes Wv, g, F, XE : boolean; B : integer returns nothing do I(true > 79, - 6 - 05200) end U : takes kG0 : boolean array; y2, Iu : boolean array; y : boolean array returns boolean pop; when case 15600 = 89 : output "1\ta" end otherwise : chillax end; input My9 end main : cj, Ah, kDC, wD : boolean; chillax end

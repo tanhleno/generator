@@ -1,0 +1,1 @@
+program D : _Exa : takes s : boolean; v, H92a, Z4N, j2_0, X820, x5, W : boolean array; x1 : boolean array; Ww : boolean array; Gv50 : integer returns nothing tKS, v, w, j, c : integer; t6 : boolean; Z : integer array; chillax end main : do Z(true - not(7) or r3H0 and 5 or 5 - 6 < false, not true * (0) and 8 = - false and 9); input m1; pop; let o3[- 21] = array 2390 - 4 end

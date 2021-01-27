@@ -1,0 +1,1 @@
+program u4h : QH : takes M : boolean array; C : integer returns nothing chillax end T : takes k : boolean array returns boolean chillax end e18 : takes J, ok : boolean array; Q : integer; Q9, Y, c0 : integer returns nothing pop end main : B, _, F0, p, yo : boolean array; _b : boolean array; Se2, L, xz7, O7m, lX0 : integer; m : integer array; chillax end

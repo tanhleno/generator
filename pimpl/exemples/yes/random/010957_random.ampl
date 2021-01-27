@@ -1,0 +1,1 @@
+program Z40a : W : takes x, v, b9 : boolean array returns integer cPX0, Y1g0a : integer array; let t = array - not 9 - 0 - 19; when case - 49900 - 79 : while 1490 : chillax end; when case 34 : chillax end end end main : chillax end

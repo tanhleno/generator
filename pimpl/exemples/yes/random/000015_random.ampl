@@ -1,0 +1,1 @@
+program G : f : takes LZ, h, bF, W, H52, G83, ZX, O2 : boolean; a2, f93aa, n2 : integer returns boolean array e, n : boolean; chillax end main : let X0[- not false] = array 26 * S[0] and(9) and 11 or 890 or true and 6 or 6 end

@@ -1,0 +1,1 @@
+program d2P : M7 : takes qY7 : integer array; F : boolean; N : integer array returns boolean H : integer array; k7, U, Q : integer; s8, p4O : integer array; B : boolean; let b2 = 2 - 0; while - 3 - 472 = 3 : when case 186 : chillax end; when case 6 : chillax end end end main : chillax end

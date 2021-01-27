@@ -1,0 +1,1 @@
+program UC1 : q6 : takes v : integer array; e7 : integer returns integer when case s41a and 8 : while 1 : chillax end end otherwise : when case 74 : chillax end; do L(33); pop end; do ObA(2 /= 933, 6 = 464, 95) end main : ZPr : integer array; k7L : boolean; chillax end

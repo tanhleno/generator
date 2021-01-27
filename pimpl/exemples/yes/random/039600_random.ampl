@@ -1,0 +1,1 @@
+program v : Iw : takes Y : boolean array; O : boolean; pN, F9x0a : integer array; PML0a : integer array; x48, k_ : boolean array; d : integer array returns nothing t7_0a : boolean; input n[vg + 6 - 30]; pop; do l(3 = 460); output "-" . "" end main : chillax end

@@ -1,0 +1,1 @@
+program G : I : takes _4 : integer returns boolean array pop 969 - 5 <= 8050; let z[- 0 - 8] = array 2; pop; input H1D; when case 98 : chillax end; pop end g : takes v5 : integer; S, Xu : boolean array returns nothing chillax end main : chillax end

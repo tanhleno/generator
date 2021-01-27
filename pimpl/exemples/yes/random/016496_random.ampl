@@ -1,0 +1,1 @@
+program oQ : t : takes c, JII, t : integer returns nothing a08 : integer array; A : integer array; cO, I, H : integer; chillax end main : n57 : boolean array; v, l, b, d : boolean array; c220a : boolean; x, M : boolean; Q6, M : integer; chillax end

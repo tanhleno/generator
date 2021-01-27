@@ -1,0 +1,1 @@
+program yx : _q5a : takes O, V6, t : boolean array; V : boolean; n, q : integer array returns boolean chillax end main : z, a : integer; R : boolean array; s : integer array; pop; output true and 7 - 088 - 2 > - 6 - 3 . "" end

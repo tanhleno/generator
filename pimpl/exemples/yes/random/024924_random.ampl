@@ -1,0 +1,1 @@
+program xO : a3I0a : takes kMda, a : integer; y3, c, E, x, J, Pw : boolean; Hw : integer array; U, Z6, o2 : integer; W, d : integer returns integer _, k78 : integer; chillax end a : takes O : boolean array; F : integer array; O8 : integer returns nothing C, Q, w, hJ : boolean; N : boolean; EKWa, d : boolean; chillax end main : P9Y, Z : boolean; chillax end

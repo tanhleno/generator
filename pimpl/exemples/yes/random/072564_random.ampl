@@ -1,0 +1,1 @@
+program L3O : main : i, h, ZXAaa : integer; while - false or t9H(0150) rem true : let u[5 - 643] = array 6 - 3; input t; pop; input Y end; do X(- not false and not 3 /= 268 - 0, - 98 - 513 - 4 < 8, - 26000 - 081 > 6, 0, 57, 32); input z94aa[- true] end

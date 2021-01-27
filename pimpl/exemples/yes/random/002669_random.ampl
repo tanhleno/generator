@@ -1,0 +1,1 @@
+program H4K0a : gvl0a : takes kx, wG, xIW, e, E1 : boolean array returns boolean f, s04 : boolean; chillax end X : takes QI, x, io, C : boolean returns integer X, q7, f, Sz : integer; b, ih0 : integer array; chillax end main : chillax end

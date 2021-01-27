@@ -1,0 +1,1 @@
+program cN3 : YT3a : takes zY1, L0Q, vd, MA7, U, K, T : integer array; OG : integer array; X : integer; tK, o : integer array; e : boolean array; J6 : boolean returns nothing _I5aa, l, o3a, K : boolean; Z : boolean; E, wu, HC : boolean; pop 67 /= 8; input l; output ""; let KUm0[0] = 26 end main : chillax end

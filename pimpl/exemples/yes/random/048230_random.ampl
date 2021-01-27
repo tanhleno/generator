@@ -1,0 +1,1 @@
+program o : Y7 : takes fvfa : boolean returns nothing H, QO0 : integer; U8, P : integer; output 9150 . 78 = 268 . "1" . "" end main : W : integer; M : integer array; pw, N2r0, CBE : boolean array; chillax end

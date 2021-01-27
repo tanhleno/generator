@@ -1,0 +1,1 @@
+program AA : h : takes K0 : boolean array returns nothing input r39a[- 138] end R990a : takes uh, ntZ0, B5, x5, lN, v7 : integer array returns nothing let q5[- 1000 - 6] = array 902 - 1 end main : d : integer array; output l(68) . ""; output "" . - 24 - 23 > 0 . 8 = 9 end

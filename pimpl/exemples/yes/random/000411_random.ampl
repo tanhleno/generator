@@ -1,0 +1,1 @@
+program v : eH : takes K, XW, ss, S, F, M5Y, X, V1 : integer array; h : integer; H, d, Y7, x : integer returns nothing d : boolean array; while - PWB or 2270 - 2 : output "6"; when case 3 : chillax end end end main : jW40a, e8 : integer array; i6, Dk8, B : boolean array; chillax end

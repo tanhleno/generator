@@ -1,0 +1,1 @@
+program c4Q0a : f37 : takes m5, O, c : boolean array; D, Z, O : boolean returns nothing when case 525 /= - 80 : chillax end otherwise : chillax end end main : lC : boolean array; J : integer; k : integer; o : boolean; chillax end

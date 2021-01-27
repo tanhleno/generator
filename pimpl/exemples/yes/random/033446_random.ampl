@@ -1,0 +1,1 @@
+program x0 : D : takes e : boolean; U, OIa, t, c, r1 : integer returns integer b : integer; chillax end main : input r; input E[false or M and 63 - 59]; do o9(- true, - 8, 6860); when case - 8 > 25500 : chillax end otherwise : input X8b; pop end end

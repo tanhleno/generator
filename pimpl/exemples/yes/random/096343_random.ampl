@@ -1,0 +1,1 @@
+program xZ : main : when case - 7 * false rem not 65 and 5 : when case - 51000 - 6 : chillax end case 010 : chillax end; do LA(6, 2, 821); output 5; input i end case not(40) * W and 3 or L + 157 : chillax end case - E5Z0 : chillax end case - 4 : chillax end end

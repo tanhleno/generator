@@ -1,0 +1,1 @@
+program _ : l8 : takes k7 : boolean returns nothing Xe0 : boolean array; W2, G9, r, _ : integer; input I end main : lWwa : boolean; h240a : integer; I5P : integer; Y6, U, K0 : integer array; while A[112] / (3) - 5930 * MP and 67 + (7) and 6 <= AH * false and 91 - Bu20 : pop; do y(3, 641); while 11 : chillax end end end

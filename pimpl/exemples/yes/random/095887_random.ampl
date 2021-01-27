@@ -1,0 +1,1 @@
+program a : main : when case - false and 4 * 2340 and 10100 - X89[3] rem 3 - true >= - (93) and(925) and 8 + not 2 and 1 + 0 - 660 : do z5(- 06 > 4); when case 690 = 89700 : when case 012 : chillax end; pop end; let Fa9[8] = 28; pop end end

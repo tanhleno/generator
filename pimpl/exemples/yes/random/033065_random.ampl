@@ -1,0 +1,1 @@
+program n2fa : Z : takes RM, HL : integer returns nothing output 0 end main : PK : boolean array; c3x0a, S, h, H : boolean array; while - 05 / false and not 333 or not If8 or not 9660 or 59 : chillax end; input IV[- 8 * false + 81 and 729]; while - (96600) : chillax end; let B1 = 85 = 4 end

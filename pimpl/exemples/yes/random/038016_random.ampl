@@ -1,0 +1,1 @@
+program a : n : takes fU00 : boolean array; Q960a, W, g : boolean array; S1, F, HP : boolean array; l17 : integer returns integer pop - 53 - 550 /= 90900 end tIza : takes z : integer array returns boolean array output 6 . 136 . "W"; pop 0 end main : S, t, V9, M, Z8, m, wo : boolean array; sAF0a : boolean; chillax end

@@ -1,0 +1,1 @@
+program n0 : U : takes oH : boolean returns nothing x : integer; c, JK0 : integer array; Z5, I : boolean array; output 07000 - 85 = 4; input Qrraa end u9J0 : takes _5, C, Jb70, c, ZyKaa, q, B7 : integer; u50aa, AWT : boolean returns boolean t, ayN, Z : boolean; WRkaa : integer; chillax end main : i, f5z0a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program c39 : qq00a : takes c : boolean; Z : boolean; b : boolean; Eg : integer array returns integer chillax end main : q, JF3a : boolean; t, U, sQ1, h, t700a : integer; A4r0, LcW0a : boolean array; s3k, J : integer array; chillax end

@@ -1,0 +1,1 @@
+program H : main : pop; while not(1) + 88 and 5 : chillax end; let K4t0a[not 3] = 5 < 6; when case 2 - 4 < 1 : while 31 : chillax end; when case 8 : chillax end; pop end case 11 = 4 : while 4 : chillax end; pop end case 2 : chillax end case 0 : chillax end otherwise : chillax end end

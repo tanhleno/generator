@@ -1,0 +1,1 @@
+program oV_a : H9 : takes c7, m4, w, V, q, mm : integer returns nothing let l[- (4) and 2] = array - 669 and 2; pop 3 = 6 end w : takes b : boolean array; l : boolean returns nothing chillax end main : g0 : integer array; pop - true = - E8 and 329 - 1 end

@@ -1,0 +1,1 @@
+program t : w81 : takes T, E : boolean array returns nothing b41aa, lTEa, ce, k0Raa, h : integer array; do O(V > 71 - 3, 59 < 404, 44, 22, 7); pop 7 end main : R, d3 : integer array; B8 : boolean; Ku9 : integer array; R : integer; chillax end

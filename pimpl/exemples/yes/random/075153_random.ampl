@@ -1,0 +1,1 @@
+program j : main : Icwa, F : boolean array; MD6 : boolean array; when case - 8 rem 8 / not 9 and 513 : chillax end case(80) : while 72 = 02500 : when case 55 : chillax end end end case true and 22 : chillax end otherwise : pop 3780; when case 8 : chillax end case 327 : chillax end end; pop - true and 59 or 7390 end

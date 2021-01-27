@@ -1,0 +1,1 @@
+program U : R65aa : takes T4na, tz, I : integer; O, y, m : boolean returns boolean U, h6V0a, R, D, f6 : integer array; chillax end main : let Qd[- true - true and 7 + true and 2440 + 93 - 5] = - (720) = - true; while not false /= - 6 or 413 - 40 : chillax end end

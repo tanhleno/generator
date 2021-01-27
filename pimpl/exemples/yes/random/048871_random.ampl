@@ -1,0 +1,1 @@
+program Hv : O : takes k4 : boolean returns nothing input L[3 and 7]; let c[- 1] = 4360 = 08; when case 58 : when case 130 : chillax end; pop end otherwise : pop end; when case 7 : pop end otherwise : chillax end; when case 2 : chillax end end main : chillax end

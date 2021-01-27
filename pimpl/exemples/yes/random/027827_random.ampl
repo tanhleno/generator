@@ -1,0 +1,1 @@
+program IC7a : Y : takes F7, i : integer array; N7, A : boolean returns nothing while false and 637 - 50 - 51 : chillax end end Hz20a : takes H : integer; O6 : integer returns boolean chillax end main : u, Jz5 : integer; chillax end

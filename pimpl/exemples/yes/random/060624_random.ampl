@@ -1,0 +1,1 @@
+program p : O : takes W1P0a : integer array returns nothing bF4a, d06 : integer; pop; input k8[3140 - 35]; do M3(6); while 09100 : chillax end; output "3\n" end main : F, t6h : integer; m, l3H, tT : integer; chillax end

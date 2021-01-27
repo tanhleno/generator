@@ -1,0 +1,1 @@
+program M4 : V : takes skX : integer array returns nothing input dnf[false + 42700 - 1]; when case - 02 <= 7 : chillax end case 75 = 8 : do Sm(1); pop end otherwise : chillax end end v : takes I270a : boolean array returns nothing chillax end main : xkD, h9 : boolean; chillax end

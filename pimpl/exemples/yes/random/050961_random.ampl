@@ -1,0 +1,1 @@
+program t : l4 : takes y3ma : integer; I620, W : integer array; V, C30, CSVa : integer; utK, y : boolean returns nothing when case - X >= 3 : pop; input Y end case 89 - 5 : pop; while 49 : chillax end end otherwise : chillax end; do n(8, 6, 2, 7) end main : k7, l : boolean array; let JO[- false and 533] = - false - 39 - 98 end

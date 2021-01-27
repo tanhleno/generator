@@ -1,0 +1,1 @@
+program U : a : takes FV, Q120 : boolean array; A, ol4, Q, p : boolean array; B, K : boolean; o5K : integer; p, J : integer; A, Oz : boolean returns boolean v, x, i, F, A60 : boolean array; ti : integer; r, f : boolean array; chillax end Z : takes Z : boolean returns boolean array chillax end main : do s(true rem not(589) /= 95, - (14) >= - true and 8 - 8) end

@@ -1,0 +1,1 @@
+program GM : K : takes f0 : boolean array; pT : integer; L18a : integer array; J3 : boolean array returns integer array b : boolean array; iT, U3, O, h0 : integer; QJ : boolean; chillax end main : chillax end

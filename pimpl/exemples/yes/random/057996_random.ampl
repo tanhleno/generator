@@ -1,0 +1,1 @@
+program O : b : takes V : integer array returns boolean array when case - not 40400 + 51 : chillax end case 715 : chillax end otherwise : output "2"; while 0 : chillax end end; let w[1] = 8; output "" end main : RhZ, Q5Ja : integer; chillax end

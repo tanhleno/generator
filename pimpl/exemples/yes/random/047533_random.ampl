@@ -1,0 +1,1 @@
+program ig20 : K : takes x320a : boolean returns nothing chillax end iZ : takes p : boolean returns boolean array l : boolean array; Vj : integer; yGK : boolean; when case 6 <= 2530 : chillax end otherwise : chillax end; pop end L : takes B9jaa, J : boolean array returns nothing ab, h : boolean; Y : boolean; Ld9aa : boolean; chillax end main : w : boolean array; chillax end

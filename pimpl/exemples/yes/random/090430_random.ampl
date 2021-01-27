@@ -1,0 +1,1 @@
+program eD : main : let X = 82 + x55a and 2 or 33000 - 27; when case 5 rem 5 : chillax end case false or 6 - 5 : chillax end; when case - 224 and 4 = 9720 : chillax end case - 53 - 7 : pop end otherwise : do f(66400); output "`"; pop end end

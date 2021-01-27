@@ -1,0 +1,1 @@
+program J0 : U : takes lT : boolean; S, T5 : boolean array returns integer do B660a(25 or 78); let P5[5 - 6] = array - 131; output "Af"; when case 890 : chillax end case 4 : chillax end end main : zE9 : integer; C0 : boolean array; DG, L, L : boolean; e1 : boolean array; chillax end

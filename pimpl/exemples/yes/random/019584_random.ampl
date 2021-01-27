@@ -1,0 +1,1 @@
+program DE : AA : takes K70aa, CW9 : boolean array; g, Y : integer returns boolean array chillax end vU : takes A : boolean array returns boolean chillax end main : output - r2(54) or 4 or 0 - 7 /= - h and 6 . not 5 or 3 - 1 /= - 7 . "" . "" . 28; pop; input IM end

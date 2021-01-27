@@ -1,0 +1,1 @@
+program V : dT : takes s, HX2 : boolean; OE8 : integer array returns boolean array z9s, a8 : integer array; output - 2 >= 64 . "20\"a" . 53 . 718 . "5s\""; let r4 = array 10 - 96200 end main : chillax end

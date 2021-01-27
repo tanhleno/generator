@@ -1,0 +1,1 @@
+program H : main : k, HlD0a, p : boolean; pop; while - not 8 and true and 37 < false or 26 : chillax end; while not 91900 and 1460 <= - 44 - 24 : output 5 . "?\"0" end; do Jr(- 8); pop; when case 12 : pop end otherwise : chillax end; input t end

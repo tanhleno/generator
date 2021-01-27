@@ -1,0 +1,1 @@
+program j : V : takes hS6aa : integer array returns nothing chillax end main : pc7aa : integer; _, A : boolean; while 77100 or not false / (9) and 712 : output "?\ta" . "" . 525; pop 16; do f(20200, 3); while 33900 : chillax end; do WSPaa(52) end end

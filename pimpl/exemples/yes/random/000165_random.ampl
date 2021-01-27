@@ -1,0 +1,1 @@
+program w : D40 : takes cJ, l5E0, R, gX, T, ai9, vI7, G : boolean array returns boolean chillax end main : let vB[not true rem 37 rem 93 and 08600] = (9) and true or 8 and 554 /= - F or 26; input l[G(899) * (984) + (3790) or 716 - 7]; do g6na(8 and 4 > 29, 2 - 71 < 291, 6); while 5 : while 3 : chillax end end; input V5[738]; output "\"D"; do n(3) end

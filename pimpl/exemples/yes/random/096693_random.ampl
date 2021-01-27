@@ -1,0 +1,1 @@
+program D2 : main : when case - true rem false and not 6 : let Z = 7 = 5460 end case not true rem(694) < false and 9 : input Y; let z[2] = array 5580 end case(7) <= 0 - 52 : chillax end; output - (9) and 3 . - 6510; let h = array false and 9 + 127 - 5; output "930" . 709 . 3 . "" end

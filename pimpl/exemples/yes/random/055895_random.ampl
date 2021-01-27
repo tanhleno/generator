@@ -1,0 +1,1 @@
+program z1 : G : takes fZ : integer array; i : boolean array; h : boolean returns integer array Y, U, j, m9v, y3E : boolean; pop; pop end main : while 9 rem false / false and 418 : while - 7 - 03 = 4 : chillax end; when case 43500 : chillax end case 5270 : chillax end; input c[8] end end

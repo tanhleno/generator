@@ -1,0 +1,1 @@
+program d : W : takes Yq : integer array; jx, U, TN, h, hs6, q0Z0a, k : integer array returns integer v, h : boolean array; S : integer; BAG, P3 : boolean; do x(not 2 or 0 - 547 = - 1, 05 >= 08) end main : chillax end

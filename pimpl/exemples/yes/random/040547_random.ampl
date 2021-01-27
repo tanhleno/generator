@@ -1,0 +1,1 @@
+program e : e3 : takes y : boolean array; V1 : integer; m, Pa : boolean array; td : integer array; d8ta : boolean returns nothing hA : boolean array; input p[- false and 71 or 98]; do y5(- 79 - 79, 8, 75) end main : QN, rZ : integer; chillax end

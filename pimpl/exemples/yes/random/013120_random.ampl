@@ -1,0 +1,1 @@
+program b : c : takes V, G, X : integer; M : boolean; T : integer; N3, T : integer array; Cx1a, R, SpP, hGF : boolean array; r4, n3, p : integer; ug, jX : boolean; T : boolean; Qc : boolean returns boolean r : boolean; chillax end main : o6, r, s, y, N, j : integer; k : boolean; output - 86 rem z4 . "" end

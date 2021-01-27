@@ -1,0 +1,1 @@
+program J8G : l5 : takes R : boolean; L, BKM : boolean returns integer array output - 7 - 9710 end main : output "" . - o and 12700 = 438; let U8[t[2]] = array - A / not 47500 + not 365 + 0; input H6X[- Y and 8]; do N(34) end

@@ -1,0 +1,1 @@
+program D : w : takes eF, n4Taa, _R : integer array; H8, ik : boolean array returns nothing B : integer; pop - 3; output "2" end main : U : boolean array; input P[5 and false or true / false or true]; pop false > 379; pop 56; when case - 5 - 2 : chillax end case 2 = 04 : chillax end case 9 : chillax end otherwise : pop end end

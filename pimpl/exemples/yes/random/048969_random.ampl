@@ -1,0 +1,1 @@
+program F4 : p : takes D : boolean returns nothing output - 24 <= 99; do L6jaa(- 5 <= 6, 94, 6) end main : while not(15900) and false or(3) : when case - 2 /= 27 : when case 6 : chillax end; do d09(5) end otherwise : while 6340 : chillax end; pop end end; when case - (8) rem false and 31600 > (4) or 492 : chillax end end

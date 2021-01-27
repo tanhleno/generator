@@ -1,0 +1,1 @@
+program E : kj : takes D16a : integer returns integer array when case - (9) and 6 = 4 : do D(75, 4); input f end case 9 - 7 : chillax end otherwise : chillax end; input w[- 8 - 78800]; let Y = array 26 end main : let w0 = array - true * 5 end

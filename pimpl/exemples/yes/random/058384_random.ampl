@@ -1,0 +1,1 @@
+program mA : A_ : takes r : integer array returns boolean fA : integer; chillax end t : takes Zg4aa : boolean returns integer chillax end main : e : integer array; t, R2, C : integer array; dI, l : boolean; Fm80a, E2 : boolean; pop - true - false and 00 - 8 - 3 end

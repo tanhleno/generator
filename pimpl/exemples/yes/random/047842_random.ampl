@@ -1,0 +1,1 @@
+program Q : OM : takes U3 : boolean returns nothing do HM(9 and 7 - 9 - 0, - 7 - 8 /= 3, 7 = 08) end main : do S(- true, - not lh8 and true and 20 /= true and 5); when case - false rem not 00 + false and 0 or 7 < not 3 - 2100 : chillax end case - a and 0 - 0 : let yf = 3; input I; let P = 52; pop end; let W74 = array true - 671 end

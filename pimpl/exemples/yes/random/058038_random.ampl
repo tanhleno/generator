@@ -1,0 +1,1 @@
+program D2 : e : takes v : integer array returns boolean chillax end Hj : takes H, H, _9 : boolean; v9s : boolean; WN7aa, k : integer array; x : integer returns nothing J4, g : boolean; v : boolean array; while 32200 - 0 : chillax end end main : N : boolean; _, O, H, x, R, r : integer array; kW, G, s, QORa, u1W0a : boolean array; chillax end

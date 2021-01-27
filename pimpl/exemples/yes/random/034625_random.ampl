@@ -1,0 +1,1 @@
+program k : Rx : takes k1 : boolean; o66, O : boolean returns boolean chillax end Z : takes YK, R : boolean returns nothing I3X : boolean array; chillax end main : A : integer array; g : boolean; dHT0a : boolean; chillax end

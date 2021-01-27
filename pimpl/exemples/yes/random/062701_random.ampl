@@ -1,0 +1,1 @@
+program A : Lnc : takes X2P0 : integer returns integer array chillax end sR : takes R, O : boolean array; H5 : boolean; T39, g, D : boolean; qb : boolean array returns nothing chillax end main : pop - 5 / C or 3130 and 1 - 1 - 2 end

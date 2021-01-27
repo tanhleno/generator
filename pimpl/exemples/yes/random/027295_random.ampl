@@ -1,0 +1,1 @@
+program Xt2 : s : takes U, T7d0 : integer array; V7, p7, J1, x : integer returns integer s72aa : boolean array; J6, r05aa, a, b : integer; m, PQ5, _7ea : integer; SsVa : boolean; chillax end B : takes Z : integer array returns integer chillax end main : pop; when case i(4) - false and 63 : do M(76) end; input H2; while 5 - 964 <= 8 : pop end; pop 654 end

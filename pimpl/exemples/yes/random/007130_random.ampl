@@ -1,0 +1,1 @@
+program L3 : V : takes b, t, C, e : integer array; yw : boolean array; b, Z44, Y : integer array; Z, UP : boolean array; Q7, P, X : boolean returns boolean array H, h87 : integer array; chillax end main : TQV : boolean array; chillax end

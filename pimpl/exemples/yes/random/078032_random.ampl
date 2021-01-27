@@ -1,0 +1,1 @@
+program b20 : main : W92, h : integer array; pop; when case - (7) / false : chillax end case not 6 and 74 : input Pg50a[11100] end case 95700 - 8 : chillax end otherwise : input O end; when case 29400 : pop end case 1 - 636 < 69 : do O(5); input W end case 6 = 7 : when case 006 : chillax end; pop end case 008 : chillax end case 9 : chillax end end

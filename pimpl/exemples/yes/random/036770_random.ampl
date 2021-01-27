@@ -1,0 +1,1 @@
+program N3Maa : z : takes zi : boolean; J : integer array; Z : boolean; z : integer returns nothing input z[- (0) + 2 - 438]; while 0 >= 6 : chillax end end main : g, c, v : integer; qX, K, B, P : integer array; input b6F; when case true - (14) or 2 : let t_[68] = array 87; do a3(00300); pop end end

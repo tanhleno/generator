@@ -1,0 +1,1 @@
+program S : D : takes t : integer; k, g : integer array returns nothing k, Yx, p2 : boolean; T, h, L : boolean; q : boolean array; s : boolean; pop end DP3 : takes o, l, l : integer array; P4J0a, Uh6 : integer array; n : boolean returns integer array while 374 - 1 /= 02 : pop; do L(944); pop end; pop; while 77 : chillax end; pop end main : pop end

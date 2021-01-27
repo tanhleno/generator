@@ -1,0 +1,1 @@
+program K : u : takes JI60a, l, W04aa, q5, da2a : integer returns boolean let O9 = array(08) + 521; do J(9 - 02 /= 2830, 43, 3680, 67); when case 53500 = 21 : when case 2 : chillax end end case 4 : chillax end end main : when case - (8) /= not false * P : pop; do D(61 = 48); let X = array 81; while 1 : chillax end end end

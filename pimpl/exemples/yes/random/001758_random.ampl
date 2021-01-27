@@ -1,0 +1,1 @@
+program v : hd2a : takes jA1, G, n, T, TH, W : integer array; S, e, zR : integer array; e, S : boolean array; Z13aa : integer returns integer M : boolean array; chillax end L : takes RQD : boolean array returns nothing chillax end main : chillax end

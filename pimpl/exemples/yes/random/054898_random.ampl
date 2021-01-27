@@ -1,0 +1,1 @@
+program jU70a : PD7 : takes I : integer array; J, d : integer; k, z3, t_, M4L, hn : integer array returns nothing when case - not 79 + 4 < 27 : chillax end case 38 - 029 : pop end case 3 = 3 : while 89 : chillax end end otherwise : chillax end; let s[3 - 8] = array 0 - 6 end main : HY8, E8 : integer array; chillax end

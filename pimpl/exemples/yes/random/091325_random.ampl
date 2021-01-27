@@ -1,0 +1,1 @@
+program RN : main : let xqkaa[false] = not W5 + false + 27 - 9 <= 1 and 7; when case - false >= - not 70 and 2 - 552 : pop 33; input i; while 9 : chillax end end case true : pop; when case 965 : chillax end; pop; pop end end

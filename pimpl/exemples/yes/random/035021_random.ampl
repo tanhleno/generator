@@ -1,0 +1,1 @@
+program SaI : m40 : takes X : boolean; O4, gKSaa : integer array returns boolean array chillax end main : zdg, u, ak2aa, K : boolean; jx, A8V, E4, J5 : boolean array; when case - not(8) : chillax end end

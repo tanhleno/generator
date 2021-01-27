@@ -1,0 +1,1 @@
+program d : c : takes g : boolean array; j : boolean; g, W5 : integer array returns boolean pop; output ""; pop 2 end M : takes f80aa : boolean array; w1, K : boolean; l650 : boolean; f6p, a : integer; u17, f : boolean array returns boolean Jj8, I6, j : boolean; chillax end main : output "7\\\"" end

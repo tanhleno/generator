@@ -1,0 +1,1 @@
+program QG80 : F : takes n, W, b : boolean array; L, z : integer; Wh : boolean array; q, W27a : integer; Xu2, uvu : integer array returns nothing Ix, R, lBw : integer array; B, w, x : integer; d, nT, w : boolean array; g : boolean; chillax end main : xa0, Z, B : boolean; chillax end

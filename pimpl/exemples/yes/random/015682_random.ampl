@@ -1,0 +1,1 @@
+program K : U90aa : takes y, q, s : integer returns boolean array Z67, Fo70, n0, Q, SqM : boolean array; when case false : chillax end; when case - 3820 : chillax end case 88 = 11 : when case 55 : chillax end; pop end case 74 : chillax end case 5 : chillax end otherwise : chillax end end Xjyaa : takes IC, bd1a, uz : integer array returns boolean array pop end main : chillax end

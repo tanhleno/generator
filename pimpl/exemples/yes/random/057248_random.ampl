@@ -1,0 +1,1 @@
+program lw : t : takes E : integer array; qh : integer array returns nothing c, u3Qaa, S : integer array; chillax end main : K4N, A7jaa : boolean array; Y74a, a6 : boolean array; Q6Y0, U : boolean; q : boolean array; let h[not not OV4a rem J2(5) rem 1 and 90100 or not not 5940 + not 51 and 131 + 957] = array false + 81 and false and 08 end

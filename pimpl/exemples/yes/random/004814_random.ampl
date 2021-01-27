@@ -1,0 +1,1 @@
+program b : y : takes k0, b, a, Q : boolean array; g, S5, V2 : integer; Fh3, j, i : boolean; a5Q : boolean returns boolean array rEV : boolean array; a : integer; ixQaa : boolean array; yF3, l : boolean; let z[not 4] = array false end main : when case 44 + not(0) and(0) + (27500) and 9 or 9 : chillax end otherwise : output 5; while 51 : pop end; when case 2 : chillax end end end

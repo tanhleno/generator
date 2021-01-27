@@ -1,0 +1,1 @@
+program FA : B6 : takes eliaa, G, dm : boolean array; D4 : boolean array returns nothing chillax end main : while x[2] + jT4a > - false : pop; input m[43]; input s[2]; do Ij(40) end; pop; input f1[07]; do j1p0a(94000 - 980 >= 9, 4); output 7 . "" end

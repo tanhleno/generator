@@ -1,0 +1,1 @@
+program K : main : W, CZ : integer; when case - 06 > (79) / 94 and 7 or true or 1 : pop end case - not not 13 and Mtda + (9) and 83 - 18400 : chillax end case - false - 84 - 1 : chillax end otherwise : do z(9 = 1, 91, 7490) end end

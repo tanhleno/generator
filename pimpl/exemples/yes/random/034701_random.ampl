@@ -1,0 +1,1 @@
+program z : MX : takes Ra : boolean; k, u2 : boolean returns nothing e, B8, q3, UEKaa, q : integer; pop 03900; input J[94] end main : let T[- w[55] + false rem D] = array 71500 and a[988] - true - true and 00; pop false and 23; input bB[(2) or 086 - 6180] end

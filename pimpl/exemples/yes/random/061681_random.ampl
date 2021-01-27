@@ -1,0 +1,1 @@
+program m : W : takes p : integer returns boolean array chillax end q3 : takes j, m, R, X, B9B, Z : integer returns nothing s, G2g, l65 : boolean; do b(- 35 - 700 > 3570); when case 5 = 4 : chillax end case 267 : chillax end case 9 : chillax end end main : chillax end

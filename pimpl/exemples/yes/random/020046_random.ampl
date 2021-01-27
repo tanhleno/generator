@@ -1,0 +1,1 @@
+program _6 : f : takes H, H : boolean array; P : boolean array returns nothing z, C, k : integer array; v : integer array; K : boolean; do IR(- not 2 and 839 - 43500 < 81); output "" end main : K, di, R, U, kqvaa, S, FI6 : boolean array; chillax end

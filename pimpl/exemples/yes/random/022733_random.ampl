@@ -1,0 +1,1 @@
+program Rn : Ke : takes D, q : boolean array returns nothing pop - 2; when case 1 - 42 : chillax end otherwise : chillax end; while 4 : do L8Sa(5); pop end; do O3(49) end i : takes Y, G92, R : boolean array returns boolean when case - 5 - 35300 : chillax end otherwise : input P; pop end end main : pop 5 rem false end

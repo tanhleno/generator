@@ -1,0 +1,1 @@
+program r : _68 : takes VF : boolean; W51 : integer; P, v2 : boolean array returns boolean array pop - 15 - 3 > 2; while 27 /= 1 : pop; while 2860 : chillax end; pop end; when case 77 = 019 : do ao(1); pop end case 2 : chillax end otherwise : pop end; output 96 end main : chillax end

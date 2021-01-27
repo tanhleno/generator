@@ -1,0 +1,1 @@
+program eK8 : R9 : takes u : integer; hY : boolean array; krd, sT3 : integer array returns integer output "" . 35 end er00a : takes V8r0a : integer array returns boolean r9E, Y, m : integer; pop 602 end main : chillax end

@@ -1,0 +1,1 @@
+program J : _680a : takes Q, rz, N : boolean returns nothing chillax end main : input TU; when case - false * not 14 : chillax end case 21300 - 4 - 33900 : pop end case 88 - 9 : chillax end case 1 : input l end otherwise : do z(9, 4) end; let w1[- 6 and 870 - 01] = 0 - 0 = 447 end

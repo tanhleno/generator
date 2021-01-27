@@ -1,0 +1,1 @@
+program Y3 : L : takes pIJaa : boolean array; H : boolean returns boolean P, i : integer; w, B : integer array; k, Iq : integer; chillax end main : while - not _09(7740) or false < 7 * (6) and 4 - true and 30 : chillax end; do bmg0(- true rem R69 and 1 + x and 2 /= false - 8170); when case - (4) and 46 < 44 : chillax end end

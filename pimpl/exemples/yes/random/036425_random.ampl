@@ -1,0 +1,1 @@
+program _ : CM50a : takes j810 : boolean; A86 : integer; j9, l, CIE0a : integer; p : integer array; M7Vaa : boolean array; C8, lw, Do5a : boolean array returns nothing let H9Q0a = 12500 = 881; let et = array 895 end main : T, T1, r, P0, x, P6X : integer array; o7T0a : integer; chillax end

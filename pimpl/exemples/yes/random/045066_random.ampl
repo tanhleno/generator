@@ -1,0 +1,1 @@
+program j : a : takes z : boolean array returns nothing let g[3 and 04 - 0 - 3770] = 1390 - 50; input uHP; input n3la end O : takes G : integer; O, jb, J : integer array; w, p : boolean array returns boolean output 17 end main : output ""; while - not true * false and 327 - true and 7 or 517 > - (3) and 0 : chillax end end

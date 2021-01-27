@@ -1,0 +1,1 @@
+program ZHU0a : Pq : takes C : boolean array returns nothing eWfa, Zk : boolean; input OY[true - 0] end main : E83, W, s : boolean; SP, u : integer; O, J, i : integer array; o1 : integer; chillax end

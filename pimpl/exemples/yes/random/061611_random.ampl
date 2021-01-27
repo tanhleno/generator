@@ -1,0 +1,1 @@
+program j : z : takes A9f : integer array returns nothing while - (81) and 3 + 78 - 3 : chillax end; when case 9 : chillax end case 611 = 53 : chillax end; output "3V" end main : p_ : boolean array; chillax end

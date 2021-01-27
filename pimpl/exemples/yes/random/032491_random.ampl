@@ -1,0 +1,1 @@
+program K : V : takes w0, G : integer returns nothing H, P, YrF0a, Ze : boolean; q, a : integer array; let m5[- (2990) and 57] = - 16200 - 30400 < 17; do v(- 9 - 20 /= 6); pop 3 end main : I : boolean array; W : integer array; chillax end

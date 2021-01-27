@@ -1,0 +1,1 @@
+program XZ : D : takes ru5, YT8a, m : boolean array; t, t, L, d200a : boolean array returns nothing ew00a, Gg60a : integer; while not 06 and 49 - 5 - 26200 : while 714 : pop end; input F; output "Z" end end main : chillax end

@@ -1,0 +1,1 @@
+program c8 : H : takes d, G, Ns : integer; L : integer; o : boolean array returns integer let lH[true and 35600 or 00] = array - k end AZ : takes p28, rI9 : boolean; l6, B4, vwm : boolean returns integer chillax end main : x, x, Rd90a : integer; we0aa : integer; let H = array - T rem false and not 6 + (42) end

@@ -1,0 +1,1 @@
+program d : x : takes B4, u : boolean array; QG : integer array; C, P : integer array; Dp : integer array; o8, iRn0a : boolean returns boolean do NSRa(- true and 56 + 44) end main : when case - N(7) : output ""; output "\","; when case 67 : pop end case 58 : chillax end otherwise : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program V82 : R : takes bt, B, L : boolean returns nothing Fd, Tg8, M9 : integer; j3 : integer array; chillax end Z : takes XW, MA, FLda : boolean array returns nothing chillax end main : F7Ga : boolean array; chillax end

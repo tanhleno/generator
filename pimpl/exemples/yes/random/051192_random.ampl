@@ -1,0 +1,1 @@
+program v4 : B1 : takes d5 : integer; e3L, p : integer returns boolean K6X, p, y330, x2, IsGa : boolean; u : boolean array; output "" end main : output "[\"0" . "\"" . "6" . 6; output "WB" . 37700 - 9; when case - false - 8400 - 93 : chillax end case - 4 <= 00 : do o(45); input g end case 38 : input s; pop end otherwise : chillax end end

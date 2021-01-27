@@ -1,0 +1,1 @@
+program s : _6 : takes S : boolean; g, crZaa, V37 : boolean returns nothing x, Y, q0, s : integer array; let c5[(9) and 28 - 2 - 6] = - 7340 - 010 < 8; output "\""; input b[8770] end main : L : boolean array; h : boolean array; tyl, WFO : integer; output "Vk" . ""; input J[false - i]; output 29 > 524 . 1770 = 06 . 8160 . 4; input k5[- 6]; do V6G0(96, 0) end

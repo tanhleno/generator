@@ -1,0 +1,1 @@
+program s9 : T : takes L04 : boolean array; p, u, K, vw7 : boolean array; eX50 : integer array returns integer chillax end j1 : takes ts, D : integer; o : integer array; p, J, bk : boolean array returns nothing V6y0a : integer; M : boolean; S52a, Uy : boolean; chillax end main : U, H, Z6 : integer; pop; do d(kB[56] / true); pop - 250 - 47200; output "" end

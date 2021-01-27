@@ -1,0 +1,1 @@
+program F : p : takes l, D : integer array returns integer T41a : integer; e : integer array; h : boolean array; chillax end main : while - (59 = 64) rem true > not of : while - 7 - 4720 : while 2 : chillax end; when case 46 : chillax end; pop end end end

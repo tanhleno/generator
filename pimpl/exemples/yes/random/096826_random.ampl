@@ -1,0 +1,1 @@
+program P : main : when case false > 1 and true and 9 : let O[13] = array - 4 - 478; when case 8 = 8810 : chillax end otherwise : pop end; while 7 : pop end; output "" end case - true - vZ0 >= - D - 6 - 6 : input UA; do j9L(5); pop end; do U(not(584) * 5 and 811 or q, true and 38 - 44 - 85200) end

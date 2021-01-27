@@ -1,0 +1,1 @@
+program AL : main : while false * 3 * n and 3 or not true * true - true or 3 - 384 : chillax end; output "\n5!a" . ""; when case 5 < - 227 - 837 : let e = array 6 end case 9 - 2 /= 7580 : pop; let g = 8; pop end case 0 = 2 : chillax end case 7 : pop end case 26 : chillax end; input zmr[- 9] end

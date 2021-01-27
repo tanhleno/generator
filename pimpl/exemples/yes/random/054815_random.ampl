@@ -1,0 +1,1 @@
+program M : lo6 : takes d9 : integer array; K, hd : boolean returns integer array V : boolean array; input lVqaa[5 - 2290 - 9] end l : takes t, RJa0a : boolean array returns nothing Su, CQ, J1, K : boolean; chillax end main : z4, f : integer array; l8 : boolean array; T, h, q : integer array; chillax end

@@ -1,0 +1,1 @@
+program D : W : takes l01 : integer array returns nothing X : boolean; P, Mm, P, tp : boolean; h, q480 : integer; when case - 92400 /= 7 - 192 : chillax end otherwise : do a7(0); input Z; pop end end main : do n(- 4650 or(37) or not 4 - 99 - 77, - not false = not 263 + 04800) end

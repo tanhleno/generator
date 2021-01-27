@@ -1,0 +1,1 @@
+program s : gi6 : takes B : integer returns nothing jc00, bq, u, i : integer; f2waa : boolean; d : boolean; chillax end main : d : boolean; do en(- true + oD2[4] - zjyaa = - false); do N(- (26600) * 8); input F[- (1) - 4 - 95] end

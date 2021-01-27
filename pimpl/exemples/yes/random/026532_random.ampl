@@ -1,0 +1,1 @@
+program xE6 : u : takes k, w : integer; J42a : integer; t : boolean; A, H6a, D82, i9, CL3 : integer returns nothing chillax end H : takes G : integer; Yc : integer returns boolean do V(- 04 < 2, 11600 = 92, 2, 242) end main : b, g2 : boolean; chillax end

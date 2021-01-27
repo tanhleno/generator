@@ -1,0 +1,1 @@
+program E : G : takes n5 : integer array returns nothing M, UG : integer; c, c7 : boolean; ERV : boolean; xa, H3 : boolean; output "8;" . 47 end W : takes _ : boolean; _ : boolean returns nothing while - 01 - 915 : chillax end end main : input c5[not false or R * not 057]; while true : chillax end; input vT[- F]; let sF1 = array 84 - 4 end

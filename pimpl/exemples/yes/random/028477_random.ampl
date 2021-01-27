@@ -1,0 +1,1 @@
+program P : k : takes U, Q11aa : integer array; w : boolean array returns nothing p : integer array; Gy, AzO0a, P84a : integer array; Ag, lw : boolean array; h, B31aa : boolean; do E(- true and 411 + 3 > 5 - 16, - 156 - 5) end main : c_, i : boolean; t, n2, R, iq, Cr8, Mu9 : integer; cR : boolean; Gi : boolean; u8, S : integer array; chillax end

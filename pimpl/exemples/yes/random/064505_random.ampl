@@ -1,0 +1,1 @@
+program V : E : takes Q2 : integer returns nothing Y, HC : boolean array; while - not 2 : let Z[17] = 14 end; while 61700 - 0770 >= 05 : while 8 : chillax end end; input o11 end main : t, b5, R9L0, z : integer array; WU_, n8l0a : boolean; chillax end

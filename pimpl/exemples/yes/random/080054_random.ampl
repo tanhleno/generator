@@ -1,0 +1,1 @@
+program QV : main : H2 : boolean; let P[aBE[9] and(1) rem false and 84] = array false + true - (9) and 13100 - 26; let UJ = true = 1730; when case 8 and 3 or 5 /= - 1670 - 08 : input e[7600]; when case 093 : chillax end; do Q0(9640) end otherwise : chillax end; let K = array 3; let j[7] = array 44400 end

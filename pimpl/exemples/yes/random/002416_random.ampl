@@ -1,0 +1,1 @@
+program o68a : DU10a : takes T86a, m, P4, w12, S : boolean array; G, j9, Z : integer array; j7 : boolean; x : boolean array; _, o, u8b0a : boolean array; f7, Uz40a, g3 : integer array returns integer array chillax end main : chillax end

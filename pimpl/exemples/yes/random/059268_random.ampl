@@ -1,0 +1,1 @@
+program i : g : takes J72a : integer array returns integer P, MLBaa, i : integer; chillax end U3 : takes mW50a : integer array; p, D0, N : integer array; eX20a, j : integer; S, x, E, G : integer array returns nothing qwt : boolean array; chillax end B : takes v81, u0l, V : boolean returns nothing chillax end main : chillax end

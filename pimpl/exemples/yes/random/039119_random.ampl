@@ -1,0 +1,1 @@
+program Q0 : I : takes CL : boolean array; qC, Q5 : integer array; KE, K : boolean; M, y, S : boolean array returns nothing while - not 69 : while 4 : chillax end; do h(11) end end main : chillax end

@@ -1,0 +1,1 @@
+program At : i : takes w : integer array; c2 : integer array; NjI, W : integer; h : integer; w, k : integer array returns boolean chillax end main : output - J[7] * false and 63 or 0 and 84 - 763 end

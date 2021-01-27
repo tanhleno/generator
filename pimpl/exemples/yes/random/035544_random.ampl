@@ -1,0 +1,1 @@
+program AJ00 : eos0a : takes M9 : boolean; O8Z : boolean; TF : integer array returns boolean chillax end ngZ : takes QA : integer returns integer array chillax end main : F320a, p0a0 : boolean; chillax end

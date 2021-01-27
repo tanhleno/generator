@@ -1,0 +1,1 @@
+program AG : MB3 : takes x : integer; I4, W5Z, K, q, yCba : boolean array; J : integer array returns integer chillax end X : takes NQ8 : integer array returns integer array c, E, U, D : integer; Go, O : boolean; chillax end main : k, ul : boolean; gl : boolean array; RF, oSP, h5 : integer; u : boolean; chillax end

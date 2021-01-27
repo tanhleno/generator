@@ -1,0 +1,1 @@
+program q : main : while not D(3) >= r(2) * 5 and 2 - (5) : input hF end; input b1[- true or not 1670 - 6 - 9]; when case - false and 09500 : do h2(037) end case - 445 : chillax end case 37 = 9 : output ""; pop end; input aQ[42] end

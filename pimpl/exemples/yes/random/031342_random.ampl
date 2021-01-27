@@ -1,0 +1,1 @@
+program j7Eaa : Q : takes J, P56 : integer returns boolean array PSh0a : integer; T, Mkb : boolean; b, T : integer; r77aa : boolean; output "" end main : do G98(- S(6, 7) and not not 69, 3); output "" . 78 <= 4 end

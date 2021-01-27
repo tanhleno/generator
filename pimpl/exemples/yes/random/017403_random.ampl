@@ -1,0 +1,1 @@
+program zz3aa : A6t0a : takes h570a, f : boolean; Tl5, Cu7 : integer; r3la : boolean array; k : integer; C1F : boolean array; A, L, w1 : boolean; bw8a : boolean returns boolean array chillax end main : d, YW : boolean; input O8[- 70 and not true / false and 9310 or not A / a and 371] end

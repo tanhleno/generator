@@ -1,0 +1,1 @@
+program aY : main : moT0 : integer array; LkQa : boolean array; d, MC : integer; let s[(0 = 8) or false * true and 8] = array 4 or false - j; while 47 and 1 and 4 + Z3 and 881 <= - false and 573 - 905 - 8 : chillax end end

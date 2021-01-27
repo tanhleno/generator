@@ -1,0 +1,1 @@
+program A : US40a : takes w, E, a, I, U9 : boolean array; FT, k, P, p : integer; Q : integer; i : boolean array returns integer Jb : boolean array; W4maa : integer array; VHN : boolean; Px, iMp : boolean; output "\\" . "" . 0 . "" . "\"" end main : c : integer; lv1aa : integer array; chillax end

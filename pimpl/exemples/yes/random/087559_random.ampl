@@ -1,0 +1,1 @@
+program b : main : f76 : integer array; when case false / (6) * u <= - not E6 * 3 and 25 + not 6 : chillax end case - (0) rem true and 99300 : input L2[3420] end case - true - 64300 >= - 4 - 8 : chillax end; do Z(T[3] * 306 and 2830 - true < false and 96) end

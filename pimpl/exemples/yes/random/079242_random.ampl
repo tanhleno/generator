@@ -1,0 +1,1 @@
+program R6 : main : j : boolean; d : boolean; X : boolean array; while - true / false * 9 or(9) * 6 - true and 453 : when case 9 - 90 : while 36 : chillax end; do C(93) end otherwise : input h; pop end end; while - false + true - 10 - 6 : while 8 : output ""; pop end; input A9V0[5] end end

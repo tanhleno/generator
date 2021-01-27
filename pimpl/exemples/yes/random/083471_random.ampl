@@ -1,0 +1,1 @@
+program m : main : nU : integer; W, Zo, kdg : integer array; G2 : boolean; ab3 : boolean array; output(8) . g9 and 7 . - 53 - 851 > 1; when case - false rem r6 and 9 - 0 and 7 : chillax end otherwise : when case 45 : chillax end end end

@@ -1,0 +1,1 @@
+program R0e : ri8 : takes yP : boolean; me : boolean array; c5S0, k, Hy : integer array returns nothing chillax end o : takes u96, j8, K, K : boolean array returns nothing b : boolean array; m5C : boolean array; Q : boolean; chillax end d : takes f, b : boolean returns nothing do Z(4) end main : chillax end

@@ -1,0 +1,1 @@
+program l : main : nE, D : boolean array; f, A : boolean array; q6, d1 : integer; do P(false or not false rem true and 28800 or(19) - 18 - 548 /= true, - (1) < - (4), - 11 and 3 - 2 <= 2); output(99) . "\n" . 7 . 257 . ",0!" . "\\"; output 2 - 7 . 28800 = 6550 . "" end

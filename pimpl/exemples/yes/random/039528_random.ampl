@@ -1,0 +1,1 @@
+program I : m : takes Wr1 : boolean array; SE : boolean; S, r, n1 : boolean array; c : integer array returns nothing u : boolean; chillax end lCT : takes f : boolean array returns integer chillax end E : takes P : integer array returns boolean array wI : boolean; jMA0 : boolean; bk1 : boolean; output "|" . "" end main : output "\tq0a" end

@@ -1,0 +1,1 @@
+program v : M5E : takes k2, o1 : boolean array; j : integer array returns boolean j : integer array; chillax end main : while - true >= (814) and false - 177 and 6 : chillax end; input _[- (7) * not 49600] end

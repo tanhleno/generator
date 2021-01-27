@@ -1,0 +1,1 @@
+program Y : pbj0a : takes h : integer array; R5 : integer returns nothing CW : boolean; w0X : integer; chillax end main : l, T : integer; input z8; do x_40(true); let M[e + 33 - 5] = array - qY; when case 11 < 3 : chillax end case 8 = 8 : pop; pop end case 1 : pop end otherwise : input xXM; pop end; input c end

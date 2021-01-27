@@ -1,0 +1,1 @@
+program t2 : main : when case - Nm00(7130) rem false + fVn[3] rem 390 and 462 : when case - 781 - 7 >= 30 : chillax end case 83 : while 7660 : chillax end end case 0 : chillax end case 79 : chillax end otherwise : input Y end end case - false > - (69) : chillax end case false and 1720 : do U(1); let k = 978; while 179 : chillax end; pop end case - 74 - 5 >= 481 : chillax end end

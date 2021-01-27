@@ -1,0 +1,1 @@
+program v : main : when case j8[7] + 0 /= (7) + e - 05600 : while 701 /= 55 : chillax end; when case 42 : while 89 : chillax end end case 0 : pop end; let h_ = 78 end otherwise : let H[2] = 6 end; input wD end

@@ -1,0 +1,1 @@
+program a : v : takes n, eO, K : boolean array returns nothing pop end E : takes _, t : boolean; J : boolean returns nothing output "" end main : Q, s : integer; SK60a, i, z3 : integer; C : boolean array; eS, W5 : boolean array; u : boolean array; E : boolean; h : boolean; K230a : boolean; chillax end

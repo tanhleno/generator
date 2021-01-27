@@ -1,0 +1,1 @@
+program _ : N_ : takes u : integer; w, qP : boolean returns boolean array chillax end YDhaa : takes q, F8, CU, Y : boolean returns integer array W9, K6yaa, W4, O500a : boolean; output "" end main : output - (0) * true and 797; while - j6 and(04) or not 8 or 7 : input qI; when case 06 : chillax end otherwise : chillax end end end

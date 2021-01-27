@@ -1,0 +1,1 @@
+program p : B8L : takes X, P, v40a, Y, Q1da : integer array; p : integer array; h : integer array; kl4a, m, E5 : boolean; Z1M, W4, q670a : boolean; pU : boolean returns boolean let KJ[- not 7 + 21400 - 1] = 7 - 0 > 4 end aW5 : takes y : integer; o45 : integer array; P : boolean array returns boolean chillax end main : chillax end

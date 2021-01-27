@@ -1,0 +1,1 @@
+program F2 : E : takes W : integer returns nothing J : integer; Q : integer; let bs[- not 31700 and 04 or 259 - 93] = array - (1) and 5 + 4170 - 7; pop end pE : takes fv, hY : boolean array returns nothing chillax end P : takes a : boolean array; K9 : integer array returns boolean I6, X : integer array; pop end main : chillax end

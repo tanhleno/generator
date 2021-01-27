@@ -1,0 +1,1 @@
+program u : Q : takes v0x, M4, GX, SCC0a : integer array; bi, n : boolean array returns nothing pop end main : when case - F3(0, 3) rem not not 2 >= - not true rem true : output "" end case - 3080 * true and 637 : chillax end case - (093) and 9 <= - 1 - 9520 : chillax end end

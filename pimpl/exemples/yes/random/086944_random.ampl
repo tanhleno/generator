@@ -1,0 +1,1 @@
+program G : main : pR : integer array; y1Ga : integer array; pop; while false or not 42 and 68 or 74800 - 49 : while 1 = 7 : chillax end; when case 2 : chillax end case 55 : chillax end otherwise : chillax end end end

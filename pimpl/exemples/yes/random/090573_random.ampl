@@ -1,0 +1,1 @@
+program Ft6aa : main : let hS[(1) rem true and uS] = array - false and E(5) * (2) and 820; when case not not 7 rem fz and 7 + 3 - 03 - 01 >= true + 5820 - 58 : chillax end case - d3 = - 0 : chillax end case - 4 : chillax end; when case - not 35600 + 4 : chillax end case 19 <= 03 : chillax end end

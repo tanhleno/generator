@@ -1,0 +1,1 @@
+program m : main : g : integer array; while - not false : chillax end; while - not true and not 34 and 9 + 4 and 4 <= - false : pop 28 end; do N(92, - 6 = 21); when case 3 - 43 > 1 : chillax end case 7 = 9 : chillax end otherwise : chillax end; when case 54000 = 3 : chillax end otherwise : chillax end end

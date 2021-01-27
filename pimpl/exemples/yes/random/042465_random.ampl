@@ -1,0 +1,1 @@
+program e3 : P : takes Mz : boolean array returns integer array chillax end main : do wODaa(- false rem A(6870) >= false and false and 3 or false and 2 + 08, 95); while - not 59 * true and 76 : pop 95 end end

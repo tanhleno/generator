@@ -1,0 +1,1 @@
+program yg1 : GL : takes xc7 : integer; Te3 : integer array returns nothing W8, R, e0 : boolean; when case - true - 686 : pop end case - 5 - 6 <= 45 : chillax end case 48000 : chillax end case 33 : pop end; pop 73; do v(2 = 62); do U(4, 2) end u : takes us90, OM : integer array returns boolean array E : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program BJ : R : takes N, q, EK : integer; o, wD6aa : integer array; Qh8 : integer; Q6daa : boolean returns boolean array input d0o0a; while 9 : chillax end end I : takes S : boolean array returns nothing input u03 end main : chillax end

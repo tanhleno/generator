@@ -1,0 +1,1 @@
+program R : o : takes C : boolean array returns boolean array chillax end main : p : boolean array; yd, pX, A, f : boolean; output - d . "C" . 0 . "7\t"; while - (5) /= W6U0a and 3 : input VgN[6] end end

@@ -1,0 +1,1 @@
+program j : main : A, a, qM1, p3 : boolean array; o : integer; J : integer; S5, E7, w7, _ : integer; N, v : integer array; F, J : boolean; Bm5aa : boolean; do V(- 1 or G * 2500 > true * true and 02300, - false + true and 4 or 3 - 5, n + 6 /= 5); output "\\6aa" . - 8860 - 3 . "'\\" . 7 end

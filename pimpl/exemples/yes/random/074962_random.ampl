@@ -1,0 +1,1 @@
+program J8 : main : G91, e : boolean array; k, CZ : integer array; output "7" . - 6 and 955 - 45 - 71; while - true > (621) and 643 : while 27 = 25 : let N = 7; pop end; input Au8 end; when case(47) : chillax end case 63 > 2940 : chillax end; when case - 1 - 4 : chillax end; while 9 = 3 : chillax end; do Q49(97, 1); while 61 : chillax end end

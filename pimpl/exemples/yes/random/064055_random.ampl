@@ -1,0 +1,1 @@
+program Q : s3 : takes ve : integer returns nothing chillax end main : when case - not j[26] and false - true / (21) and 06 : chillax end otherwise : pop; when case 1 : pop end otherwise : chillax end; let d = 287 end; do m950(- not not 1 + true <= not 0 or 45800 - 2, 274 + 79000 - 04600 < 7 - 7, - 19900, 09500); pop - 986 = 4; pop; pop 8 end

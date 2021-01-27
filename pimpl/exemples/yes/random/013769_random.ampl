@@ -1,0 +1,1 @@
+program W53a : fk : takes xKZ0, TL, j470 : integer array; U2, d5, MgYa : boolean array; V9x : boolean array returns boolean Yk : integer; f : boolean array; chillax end main : uD5aa : integer; when case - W rem(7) or not false - false /= - true : let l[- 5120] = array - 44 - 60; do G4F0(53, 702) end otherwise : let R[8] = array 4 end; while false and true + A : chillax end end

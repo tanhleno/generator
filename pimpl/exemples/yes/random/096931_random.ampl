@@ -1,0 +1,1 @@
+program V25 : main : when case y(4, 739) + Z or 5390 and 7 >= - 6 / Q : do d(- 99 < 1, 53); pop; pop; output "d;a"; input g; pop end otherwise : chillax end; when case true rem(94) + 019 /= - (48600) and 8 : pop 9; while 9 : chillax end; do y(15) end case - (61) - 2 - 68 < 16 : chillax end end

@@ -1,0 +1,1 @@
+program k : vZ : takes y, a7, e : integer array returns integer array s, R3maa : boolean array; X : integer; d, u : boolean; while - true and 06 <= 834 - 6 : while 646 : pop end end; input k[269 - 23] end main : input o3; output - 16 . 0 end

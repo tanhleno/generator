@@ -1,0 +1,1 @@
+program Bt : oQ : takes G : integer; z7, o : integer; N, p97aa : boolean returns boolean I0, E70 : boolean; when case true and 416 + 2 = - 1660 : do Q(56500); let pQ = 221; let n = 6 end otherwise : chillax end end main : R : boolean array; Ge, CVc0a, H9, o, Jb, oQda : boolean array; Kkyaa, a3Ia : integer; chillax end

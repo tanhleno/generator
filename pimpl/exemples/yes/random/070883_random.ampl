@@ -1,0 +1,1 @@
+program Zfw : main : q, B5, s : boolean; x, s : boolean array; R : integer array; z : boolean array; when case - not false and true /= - (0) : chillax end case - 0350 : let b05a = 939; when case 7 : chillax end; when case 0 : chillax end end case false + 0 - 63 : chillax end; pop not 36 and 4 - 8; do R44(true - 0 /= - 36, - 1 - 03 > 0) end

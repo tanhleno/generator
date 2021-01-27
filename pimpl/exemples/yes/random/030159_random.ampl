@@ -1,0 +1,1 @@
+program M : r : takes zG5, y5y0 : integer array returns integer when case not 3 : chillax end case - 7 < 7 : do E9R(3) end case 91900 = 95 : chillax end otherwise : when case 8 : chillax end end; output 461 . "" . 3 end main : c9 : boolean; chillax end

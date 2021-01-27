@@ -1,0 +1,1 @@
+program V : main : U5, S : boolean; do U(false rem false and not 8 or false, - (5) or true or 25 - 3 /= true, - true and 0 - 57400 >= 667 - 514, 67 - 6 /= 8, 0); do _3(- not false and(2) - true < F + 014 - 5); when case - not 75 or 955 - 9 : chillax end case - 72100 - 2 > 39 : chillax end case 1 = 04 : chillax end case 6210 : chillax end case 46 : chillax end end

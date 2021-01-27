@@ -1,0 +1,1 @@
+program _ : y9 : takes oNj0, s : boolean array; a : boolean array returns nothing D0, B : boolean; let joJ0 = array(3) and 7 + 17 - 2; when case 70 < 87 : when case 3 : chillax end end; let s9 = array 5700; let X = 99; while 28 : chillax end end main : output true rem true - false and 83800; when case not(42700) and true - (95) and 8 - 4 : chillax end end

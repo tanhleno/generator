@@ -1,0 +1,1 @@
+program H : y : takes A : integer; zF : boolean returns boolean IZSaa : integer; fW4, w, p180 : boolean; chillax end main : when case - (4) <= - false / (2) or false and 40 - 09 : chillax end otherwise : input P22[0]; input q2U end end

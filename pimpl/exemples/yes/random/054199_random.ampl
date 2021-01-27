@@ -1,0 +1,1 @@
+program O : ME6 : takes aF : integer array; B, _, v : integer array; qH, Vy : boolean array; J : integer; P, j01 : integer array; v, a, p : boolean array returns nothing while - 23 and 201 - 69 - 2 = 5 - 5 : chillax end end main : X : integer array; chillax end

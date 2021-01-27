@@ -1,0 +1,1 @@
+program v9i : yXqaa : takes h2m0 : integer; Z : boolean array returns nothing chillax end w5 : takes g : integer; V4, S4, GA, S61 : integer array returns nothing o, I : boolean array; do K2(- 153 - 474) end main : output(54) or hG5 and 4 or 33 - 574 = not 54 . "" end

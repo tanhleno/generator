@@ -1,0 +1,1 @@
+program G : Mn : takes A, b : integer; D9w, _, G, a : boolean returns nothing do V0Q(- (5) or 147 >= 3 - 3040) end main : y : boolean array; C9l0a : boolean array; when case - not true + 9 * false and 91 < 956 * false and 5 or true - 36 : chillax end otherwise : chillax end end

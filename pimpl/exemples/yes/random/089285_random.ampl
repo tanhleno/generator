@@ -1,0 +1,1 @@
+program J : main : input z[true * 4 * false or false and BS and 85 or 73 + 2370 - 162]; while K(9) + (9) and 1 or 0 < (816) or 1 - 678 : when case 46 = 37 : let E2Ka = 70100 end case 5410 : chillax end case 2 : chillax end end; output 28600 . "f@" . "0" end

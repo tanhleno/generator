@@ -1,0 +1,1 @@
+program C : Q1 : takes y, bwka, H : boolean array; Z : integer returns nothing input K[not 18]; do F(12 - 26500) end main : u : boolean; r, a, Pl1a : boolean array; do Vs(- (01 = 23)); do r0(- (0) + (6) and 9 or 6 /= - 2 or 1, (08) and 9 = - 7 - 4) end

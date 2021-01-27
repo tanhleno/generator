@@ -1,0 +1,1 @@
+program TI : H : takes y : boolean array returns nothing output "\n"; input P8v end main : while(9) or not true and C and 55200 - false : output 15; while 0 = 2 : chillax end; output 75000 . "\n\\!a" end end

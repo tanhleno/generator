@@ -1,0 +1,1 @@
+program bR20a : e : takes l : integer returns nothing _, k : boolean; while false >= - 5 : pop 04100; while 9 : chillax end; input Pl4; pop end end main : t : boolean array; U4 : boolean array; k8, j, R4iaa, KM : integer array; o, v4, Y6fa, j5 : integer array; output(6) and not 14 + true and 95 . not 69400 and 19 < - 5 - 6 . - 48 = 113 . ""; input cK end

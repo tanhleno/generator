@@ -1,0 +1,1 @@
+program J8 : x : takes F : boolean; Bf30 : integer returns nothing chillax end r : takes Z, C : boolean array; W, hy : boolean array; Lb : boolean array; B : boolean returns integer array chillax end main : yr3 : boolean array; when case(8) or true : chillax end; when case - not(2) <= true and 57300 + 78 - 409 : chillax end; pop end

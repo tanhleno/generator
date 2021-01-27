@@ -1,0 +1,1 @@
+program gS5 : G : takes zek0a, N, wF : integer array; Q : integer; g : integer array; P0 : boolean array returns integer e4, i, g, yT : integer; Za, P : boolean array; let r[- h and 03] = - 84 - 6580 <= 782 end main : chillax end

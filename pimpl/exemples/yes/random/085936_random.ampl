@@ -1,0 +1,1 @@
+program v5 : main : j : integer array; _, LSFa, F170 : integer array; while - true + Q[4] rem k1 + (1) and 1 - 7600 <= not true * (88) and 5 : chillax end; when case not aF / not 85 <= (0) : chillax end case 9 and 82 or 7550 - 7 : chillax end case - 5 - 4 /= 1 : pop; pop end case 53 : output "\\"; pop end case 91 : pop end; pop 5 - 8160 end

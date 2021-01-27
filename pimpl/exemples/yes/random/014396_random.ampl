@@ -1,0 +1,1 @@
+program Nw0 : HJ8aa : takes q, e, H : integer array; K : integer; F87a, A8 : boolean array; h120 : integer array; g, R, nu5a, a : integer returns nothing chillax end main : while - true * false + true + true <= 00600 or(0) and 86 : let Kl30[4] = 174; do R(82 = 220) end end

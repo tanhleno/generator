@@ -1,0 +1,1 @@
+program M : Z : takes pn3 : boolean array; G5 : integer array returns nothing pop; do Z(- 5260 - 4, 3 = 197); when case 048 = 0 : chillax end otherwise : chillax end end main : S : boolean array; chillax end

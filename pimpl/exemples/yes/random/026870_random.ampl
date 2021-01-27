@@ -1,0 +1,1 @@
+program x : N : takes qz1aa, W5I : integer; Q : integer array returns nothing when case false or 93 - 28600 : chillax end case 0360 : chillax end case 61000 : input z end end Z : takes q8 : boolean array; p76 : integer; h3, eN6 : boolean; pm : integer array; O : integer array returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program s93aa : a290 : takes H, S5 : integer; s, TQ, Q : boolean array returns boolean array T, rq, V0j : integer; let L[- not 6 or 4 - 31200] = 6 /= 53400; input Z[- 2] end main : output(39) or(6) or 01 - 7 = - (2) and 1790 . "U3" . ""; input Ju[- n5[5] rem Xbw0a and 4]; pop 2 >= 7; output "\\7\"a" . 5; while 99 : chillax end end

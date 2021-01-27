@@ -1,0 +1,1 @@
+program X9 : nV : takes ZEa : integer array returns nothing chillax end main : do T(- (410) rem false rem P2 and 3680 + (9) / true); while - 1 and(729) : do qWm(9470 = 0, 20); do u(41, 1); pop; pop end end

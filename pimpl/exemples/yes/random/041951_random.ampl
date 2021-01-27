@@ -1,0 +1,1 @@
+program K : C : takes q_ : boolean array returns boolean chillax end cLGaa : takes Y : boolean array returns integer array output ">&\"" end iEX : takes Ie4, s : integer; M0maa, rA : integer array returns nothing chillax end g : takes U6, _ : integer array returns boolean do y370(5) end main : X, J : boolean array; dRs0a, Rl1 : boolean; pop end

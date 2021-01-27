@@ -1,0 +1,1 @@
+program a : C6haa : takes w, GJ70 : boolean array returns integer ae : integer array; H, WYda, n : boolean array; ZD : integer; r : boolean; M83 : boolean; kR7 : boolean; output 2530 end main : J : boolean array; chillax end

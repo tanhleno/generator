@@ -1,0 +1,1 @@
+program r1 : tJ50 : takes b : boolean array returns boolean v : integer array; l, Q0, z : integer array; K3x, v : integer; output - 7 - 3; while - 050 > 47 : chillax end end main : i, M, O : boolean; chillax end

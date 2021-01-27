@@ -1,0 +1,1 @@
+program O : F : takes U : integer returns integer array x5, OJk, n, X, a : integer array; input h[- (424) and 8 - 82500 - 236]; let Kh5[- 7 - 6] = array - 39; let f_ = array 8 end M : takes p : boolean; _i : integer array returns nothing Z, rp7aa : integer; while - 82600 - 7 : chillax end end main : chillax end

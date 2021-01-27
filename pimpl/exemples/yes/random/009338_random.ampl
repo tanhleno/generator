@@ -1,0 +1,1 @@
+program L32aa : zOXaa : takes o, w, bJS : boolean; g8 : integer array; e : integer returns integer array W : boolean; chillax end p8 : takes t9, Xn4aa, V5 : boolean array; A : boolean array returns integer array E, QI, T : integer; chillax end main : let dE5[not K(57) * t] = array - true * N4[7] * not 5 and 47 end

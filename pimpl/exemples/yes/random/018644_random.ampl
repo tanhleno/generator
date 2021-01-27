@@ -1,0 +1,1 @@
+program f2Z : o0 : takes _Ita, Q : boolean array; h, f, hbV, gH, NL8, gJg : integer array returns integer array while - 8 + 3 - 0 : chillax end; output "" . "" . 6 . "" end main : n, FA1aa, H45, A : integer array; chillax end

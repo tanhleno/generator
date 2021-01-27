@@ -1,0 +1,1 @@
+program K : bJ : takes o, f, za, H7 : boolean; b, Ks7 : boolean returns nothing chillax end main : q, V9, r, R4 : boolean array; when case - true and true : chillax end otherwise : pop 82 end; do z0v(false - not 99 and 94, 2 or 85); while - true : chillax end end

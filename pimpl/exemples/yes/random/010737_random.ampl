@@ -1,0 +1,1 @@
+program p : P : takes w150a, A, M : boolean array returns boolean o5 : integer array; chillax end main : when case not(307) and false - (5) * (33) /= - 9 and Ab and 7 + z : chillax end case - true < - 010 and 08 : chillax end otherwise : chillax end; let e[7] = - false; do VD(- true and 3); pop; let d = 3 end

@@ -1,0 +1,1 @@
+program f4 : Q : takes wsW : integer array; IM8, E8Maa : boolean array returns boolean array output "T2" . "" . 34 . "5" . "" end main : when case - not 8 rem false rem true >= - P[48] + not 1 and 2 : input I70[5]; when case 8 = 01 : chillax end case 4610 : pop end case 0 : chillax end otherwise : pop end end case - not(08000) : chillax end otherwise : chillax end end

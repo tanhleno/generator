@@ -1,0 +1,1 @@
+program i : e2H : takes p830 : integer array; u3xa : integer array returns integer input o[- not 7]; output "\\"; do uQ1(3 = 9); output "" end F : takes XJ90, q, A : integer array returns boolean array m : boolean array; chillax end O : takes Y : integer returns nothing let t = array 9; do C(8) end main : chillax end

@@ -1,0 +1,1 @@
+program t : main : input k[false * not c]; when case not(8) / false - (5) and 121 + 06700 - 0 : pop 4 end case - (50) and 0 + 1 : let P[5] = array 14 end; when case true and 8 : output 39 . "{"; let m = 8; let zj = 3 end case - 6290 - 3 : let q = 4050 end end

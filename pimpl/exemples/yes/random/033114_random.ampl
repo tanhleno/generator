@@ -1,0 +1,1 @@
+program Ac4 : e8 : takes SNb, V : integer returns nothing when case - false and 8490 - 71 - 3 <= - 735 : chillax end case - 312 - 2 < 6 : chillax end; pop end main : f, R, Y3L0a, c8 : integer array; TA, S88, R : boolean; n : boolean; input O7Pa; input E5k[- true and(65) - true or 3]; do z(- false <= 62 - 5, 09 >= 19) end

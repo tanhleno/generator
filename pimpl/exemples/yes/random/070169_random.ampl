@@ -1,0 +1,1 @@
+program y6 : main : G, L, k, Av : integer; k1, L : integer array; while - 7 and(832) and not 67 and 5 - se6(057) * 5 : chillax end; when case 5 * g530a : chillax end case(18500) or 06 - 7 : while 00 : pop end; pop; input K end case 06300 - 27 >= 9 : when case 5 : chillax end; output "\\" end otherwise : chillax end; let g5[- (104)] = array - (0) and 2 or 67 end

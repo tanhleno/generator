@@ -1,0 +1,1 @@
+program f : C : takes xQ60a, TXY, S3 : boolean array; j : boolean returns nothing while false and 5 /= 9 : chillax end; input qt end main : while - (16 = 20200) and Wx6 * true : let fA80 = 3; pop; let a = array 4050; pop; let r = 3 end end

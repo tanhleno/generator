@@ -1,0 +1,1 @@
+program Kq : a : takes c, Mv, C : integer array returns boolean array chillax end t : takes E, E, H8E, n : integer array; w : integer returns nothing chillax end main : E, J : boolean; input G; pop(7) and 9 /= 0; do l(D07, - 05 - 348 <= 9, 1) end

@@ -1,0 +1,1 @@
+program x : b : takes X86aa : boolean array returns nothing while - S : chillax end end X : takes c5, A4f : integer array; C4, V : integer returns integer v, p : boolean; y3 : boolean array; t7l : boolean; do Rl(- 16 - 1); pop end i : takes W, Z1X0a : boolean array returns boolean chillax end main : H, p, kO6a : boolean; chillax end

@@ -1,0 +1,1 @@
+program Q : X : takes e260 : boolean array; p : integer; O9 : boolean returns nothing chillax end wZ : takes C5c, o7C : integer returns boolean Py60, O : integer; chillax end W2 : takes J : integer array returns integer k7 : integer array; do s(04 = 1, 98); input zRO end main : c2, AhPa, s : integer; let c[7 * _eea(014)] = array 19500 rem(6) rem false and 351 end

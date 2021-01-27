@@ -1,0 +1,1 @@
+program I0 : xR : takes P, q, p7, P, Rr : boolean returns integer array chillax end bR : takes L : integer returns nothing input cp; when case 6 : output "\t" end case 2 : pop end otherwise : chillax end end main : let rI30a = g(567) > - false - 7; do S(false = - false + 6, - 828 and 9); do h(5) end

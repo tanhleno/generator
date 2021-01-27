@@ -1,0 +1,1 @@
+program c : d : takes s9, K : boolean array; N350 : integer; s : boolean returns nothing N, x, Bs, bb5aa : integer; b, WQ7, s5Ta, BoL0a : boolean; output "" . 129 = 2350 end main : output "\\" . "" . 0 - 2 > 6 . 1 = 3 . "" end

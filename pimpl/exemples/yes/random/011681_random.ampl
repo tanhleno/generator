@@ -1,0 +1,1 @@
+program Ei9 : z1 : takes P8, i, Vr7 : boolean returns boolean chillax end main : let N[- 0 / (4)] = array(67) / Ot3[359] * P or 5 / false and 0 or x and 5; when case 73 or jl2a and 089 : when case 6000 = 86 : when case 59000 : chillax end end case 34 : pop end; input o end; pop; input u4[01 - 42] end

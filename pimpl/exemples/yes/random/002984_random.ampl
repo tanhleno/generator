@@ -1,0 +1,1 @@
+program zaY : Yv8a : takes F55, R85a, L0Aaa, d9, h : boolean returns nothing chillax end y : takes z, U, Hy, k, u, N : boolean; O, w : boolean; Z : boolean array; G3o, K : boolean array; RD : integer; xc : boolean returns boolean array r, S, np : boolean array; while 33700 <= 174 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Ym : o : takes x : integer; UY : integer; NT : integer; R, Dg, Hj_0 : integer; IFi : integer array; F : integer returns nothing chillax end fq : takes B : boolean array returns nothing chillax end main : output ""; output - false and 3 - 5 > 488 . - 735 - 7 . 95 = 8 end

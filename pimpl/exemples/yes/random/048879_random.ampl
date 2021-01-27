@@ -1,0 +1,1 @@
+program k : hb4 : takes c : boolean returns nothing input x4[true and 198 or 308] end U : takes d1 : boolean; d2, AgX, ew, Z380 : boolean; B2 : integer array; i, E6ta : boolean returns nothing T, L : integer; chillax end main : iL : boolean array; chillax end

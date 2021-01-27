@@ -1,0 +1,1 @@
+program F : r6S : takes c : integer; j, G, U, H36, U0, T : integer array returns integer array input jQ4[- (13) and 4660 + 30] end main : U6, C : integer; do O(- Q(5) = - true and true, - false rem true or 48 and 673, (3) = 48 - 92500) end

@@ -1,0 +1,1 @@
+program N : main : L3 : boolean array; z : integer; when case - (7 = 2) * true - true rem false /= 1 and G - false and 8 : output "\n\n\"" . 65500; pop; input L58[043] end otherwise : chillax end end

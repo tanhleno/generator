@@ -1,0 +1,1 @@
+program w8H : main : _Rs, TN : integer array; t, Lg : integer; t : integer array; O3u, tL, Q, Ys4 : boolean; K : integer; J3, u59aa : boolean; d : boolean; J : boolean; while not true : chillax end; when case(42) / false + aAa0a <= (1) and 15 : let E9Yaa = 95; let v[99] = 30; pop end case - true and 2 /= - 8580 : chillax end otherwise : chillax end; let PH = 1 - 435 /= 1 end

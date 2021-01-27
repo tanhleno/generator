@@ -1,0 +1,1 @@
+program O : main : while - (5) and not not 779 or false / (0) and 0 - true and 28 = - 6 * aY8 and 8 or 6 and 5 + 44500 - 428 : output 23400 = 7 . 47600 end; when case - tW5[7] + true and 52 = true or 8 : output 00 end otherwise : chillax end; pop; output 18 = 9 . ""; let Sb = array 38 end

@@ -1,0 +1,1 @@
+program Fd6 : G : takes F : integer returns nothing kj : boolean array; K : boolean; h, Ont, M : integer array; let P0C[false and 01] = array h + 0 - 438; while - 7 <= 9 : when case 4 : chillax end end; pop; input P[6] end main : chillax end

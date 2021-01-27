@@ -1,0 +1,1 @@
+program S : main : ia, w5, R, L : integer; o : boolean array; when case 725 rem 2 or 1 = - true : while - 5 >= 8 : input U; input D end end case 865 + (180) - 55 - 28 /= - (2) and 3 : let C5[07] = 7; let cUa = array 99; pop; pop end; output false - 07 end

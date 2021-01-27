@@ -1,0 +1,1 @@
+program y : eh : takes iA : boolean; q : integer array returns nothing C3 : boolean array; while - ah = - 12 - 7 : chillax end end Jpka : takes Z : boolean returns boolean H, O, F : integer; chillax end iq7a : takes t : integer; p : boolean returns boolean array k, NGq, i7faa : boolean; chillax end main : chillax end

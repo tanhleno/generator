@@ -1,0 +1,1 @@
+program f1 : main : when case 7 : while 8 - 61 : while 93 : chillax end end; do yi4a(184, 7); pop; let gj = 5 end otherwise : when case 3 : chillax end case 8 : chillax end case 6 : chillax end end; do m1(5); while(63) and 62900 - 56 - 8 > - 5 - 9 : chillax end; pop; do NE2(5 = 25, 0, 2) end

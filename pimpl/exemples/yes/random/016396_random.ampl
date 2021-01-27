@@ -1,0 +1,1 @@
+program G : D : takes x2, h0, q : integer returns nothing W, I : integer array; b, Z9, h : integer; do o(not 0 and 95) end L : takes s : integer array; op, Q, u : boolean array; S : boolean array; Ln2aa, V, l : boolean returns nothing let N3k = array 1 - 1; output "6>aa" . 5 . "" end main : Lx, k6, q : boolean array; do B(- true / (209) rem true and 1) end

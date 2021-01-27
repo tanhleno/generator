@@ -1,0 +1,1 @@
+program b5 : xE8 : takes mR, gd, k04, i : boolean returns nothing U, t : boolean array; pop - 5 <= 87 end main : when case 7 - 8280 * (671) and 6 : output "\"" end case - (9) and not 36 - false and 8 or 66 - 0 : chillax end otherwise : chillax end; pop; while(5040) or 7 - 1 = 88400 - 0 : do yJ(34100) end end

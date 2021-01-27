@@ -1,0 +1,1 @@
+program j : X : takes B : boolean array returns boolean k6, S : boolean array; while - (4) < - 83500 : when case 169 : chillax end case 6330 : chillax end otherwise : chillax end; input p; let P = 99; pop end; output "A1" . "" . 98 end main : p : integer; chillax end

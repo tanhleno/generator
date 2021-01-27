@@ -1,0 +1,1 @@
+program C : U72a : takes y, J8R0, W, k : boolean array returns nothing when case - Pt and 6270 : chillax end otherwise : pop; while 57900 : chillax end; pop end; pop 11 = 3; input A18aa[1] end main : pop end

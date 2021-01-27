@@ -1,0 +1,1 @@
+program b : Zl80a : takes u : integer; G680, o, fX : boolean array returns boolean array Em : boolean; b : boolean; X, V : boolean; chillax end main : T4 : boolean array; Qn, F5, b : boolean array; do S(- not 746 rem 5380 <= 9450); output "" end

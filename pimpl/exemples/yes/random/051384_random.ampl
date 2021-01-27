@@ -1,0 +1,1 @@
+program C : aIea : takes M : integer; j99a : boolean; x, f : boolean array returns integer T7 : boolean array; pop - 87 - 12 = 40; when case - 74 < 7 : let v08 = 634 end case 208 : chillax end otherwise : when case 8 : chillax end; pop end; while 8 = 54 : chillax end end main : when case - V(6) : chillax end end

@@ -1,0 +1,1 @@
+program KDW0 : n3 : takes q, iV : boolean; Z : boolean array; H, K5 : boolean; Y : boolean array returns boolean array A_ : integer; chillax end main : e, k0l, y : boolean array; P : integer array; while - 8 rem 8 or 597 rem(1) and 0 : chillax end end

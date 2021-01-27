@@ -1,0 +1,1 @@
+program Q : s1z : takes Z, S : boolean array returns integer chillax end f : takes P : boolean array; Qij : boolean; K, f37 : integer array; m, YB : boolean array; c : boolean returns integer W : integer array; s73 : integer array; W3 : boolean; while 4 - 1 : pop; while 1 : chillax end; pop end end main : m : integer; K, V : boolean array; chillax end

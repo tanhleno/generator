@@ -1,0 +1,1 @@
+program l1 : OW4a : takes h : integer array; _a : integer; R : integer array; Q1 : boolean returns integer output "" end j : takes G, yp : integer returns nothing o2, f, L : integer array; when case 2 < 1 : when case 3 : chillax end end case 254 : chillax end otherwise : chillax end end main : vV8, nx20, ZE, t : integer; x090a, r, nP90a, n : boolean array; chillax end

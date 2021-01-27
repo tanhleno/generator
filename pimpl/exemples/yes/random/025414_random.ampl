@@ -1,0 +1,1 @@
+program x6 : o : takes zq70, s : integer; N, dI : boolean; F, i34, Z, sY, Ye, Z : boolean array returns nothing when case - not 7 and 70 /= 4 : chillax end case 4 = 3 : chillax end; input y[9] end LU : takes K, D : integer returns integer while - 94600 <= 36 : chillax end end main : let V3 = array true end

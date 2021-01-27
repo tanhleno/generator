@@ -1,0 +1,1 @@
+program v0 : pA : takes N5E, D : integer array; n : integer returns integer array i : boolean array; B : integer; E3 : boolean array; chillax end jv20a : takes Sh : integer returns nothing chillax end main : L4 : integer array; T : boolean array; chillax end

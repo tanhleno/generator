@@ -1,0 +1,1 @@
+program rt : x8 : takes u : boolean; vU, HV1, Q7, qlS0, R72 : integer; jp8 : integer array; UB : boolean returns integer array output "q00"; when case 1 /= 6 : input v end; output 18 end main : F, N2, z, B5h : boolean array; pop - 8 and false + S and 0 end

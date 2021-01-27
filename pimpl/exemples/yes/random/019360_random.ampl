@@ -1,0 +1,1 @@
+program x8 : L : takes D1, I : boolean array; C, _ : boolean returns nothing M210 : boolean array; when case false and 04 : let Q0[92] = 3; output ""; let o2F0a = 72 end case - 60 - 50400 /= 9 : chillax end case 33 = 35 : chillax end; while - 72 : input M end; output 4 . "\n" end main : chillax end

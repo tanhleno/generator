@@ -1,0 +1,1 @@
+program T : V9 : takes u, n7, j, S : integer; r, G : boolean array returns nothing K8 : integer; W8 : boolean array; H, deN0 : boolean; Z4r0, C0 : boolean; do C(- not 3 /= 1, - 1) end main : iy : boolean; do kS(- true or b[75] and(7), F22 rem G5 and 52 > - 1 or 6 - 2540, - true or 6 - 17 <= 09600 - 016, - 7 >= 6, 90 = 7, 1, 3) end

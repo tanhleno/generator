@@ -1,0 +1,1 @@
+program R : o : takes Y0 : boolean array; m6, a : integer array; s5 : boolean returns nothing lL, a6C0 : integer array; iGV0 : boolean; while false > 6 - 3 : chillax end; output "" . "W" . "2c\"" end main : chillax end

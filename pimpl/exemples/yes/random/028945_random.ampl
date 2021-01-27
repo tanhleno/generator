@@ -1,0 +1,1 @@
+program Q : N : takes k, I : integer array; Y : integer array returns boolean q, vov : boolean; a : integer array; pop 1 = 4; when case - 7 - 7 : when case 233 : chillax end; pop; pop end case 4050 = 8 : chillax end case 1 : pop end otherwise : while 2240 : chillax end end end wKf : takes uQ, zh : boolean; w : boolean returns integer chillax end main : chillax end

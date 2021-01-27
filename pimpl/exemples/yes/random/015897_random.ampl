@@ -1,0 +1,1 @@
+program q : F170a : takes o, ai6, YJW : integer returns integer array chillax end TA : takes I580a, k5 : integer returns nothing input J[- 2 - 4]; while 6 = 9 : input p end end main : x : boolean array; chillax end

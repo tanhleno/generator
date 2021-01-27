@@ -1,0 +1,1 @@
+program x : BX : takes r, u, N, W920a, O : integer array; m, F, N, e : boolean; i680a, p : boolean; m, O4, JJa, R : boolean array returns boolean Z9j, O : boolean; pop end main : N, Z : boolean array; input jY5[(03) * true]; input lx[- G / K9]; pop - 2 - 7 >= 7 end

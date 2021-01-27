@@ -1,0 +1,1 @@
+program UP : p : takes U6 : integer array returns nothing chillax end j : takes S490a : boolean array; y : integer array returns boolean array Z, W2s0, iy, d : integer; l2 : integer; output ""; do C9r0a(7, 4, 8) end main : BG, e20 : integer array; chillax end

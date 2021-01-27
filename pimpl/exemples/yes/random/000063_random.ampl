@@ -1,0 +1,1 @@
+program J5o : x : takes K, x7, Q, l, H, Nr2, f, t : boolean; s : integer array returns boolean array chillax end G : takes r76, Z, o, I : boolean array; zz90 : integer array; D, H : boolean array returns nothing L, U, L : integer array; u, gsp0, L : integer; chillax end main : input w; while - not 3 >= - (9) : while 24 = 4 : pop end end end

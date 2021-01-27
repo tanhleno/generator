@@ -1,0 +1,1 @@
+program X61aa : k7L0a : takes g0w : integer returns boolean k : boolean; chillax end main : ff, C9 : boolean array; do N5(true + true and true + 8 /= true / false and 0, - true + (3) - 990 - 948) end

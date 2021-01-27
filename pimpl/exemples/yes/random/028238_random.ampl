@@ -1,0 +1,1 @@
+program x : m : takes J8Waa, G5o : integer array; W : boolean array; t, Tn, q, H : boolean array; StJ0a : boolean array returns nothing QK, A : integer array; Qo : boolean; w640a : integer; chillax end main : do E(K9(6) / false and false and 1 or M and false and 951, false <= false, - (3) or 7 - 02, 9 < 4, 09200 = 71, 4); let W[- not false] = - not 61 and 9 or 830 end

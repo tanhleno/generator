@@ -1,0 +1,1 @@
+program M85aa : l8 : takes cF, m, L, mN90 : boolean array returns boolean h : integer; oip : integer array; a, b : integer; G : boolean; input P end o2Ha : takes Ik10a, a : boolean array returns integer array g : boolean; s : integer; let NP[9] = 161 end main : i, W, ak, j29 : boolean array; chillax end

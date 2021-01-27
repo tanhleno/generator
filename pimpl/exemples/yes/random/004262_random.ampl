@@ -1,0 +1,1 @@
+program nF6 : sW : takes U, jh, A2, m : boolean; G24, QNc, p2ma : boolean array returns integer array let i = - 63 - 7 > 5; do W7b0(8 - 3 >= 1, 009 = 3, 11, 947) end n1Ta : takes V, L : boolean; Y : integer array returns nothing chillax end main : let a1 = array(6 = 2) and 2 - true + false or 2 - 70 end

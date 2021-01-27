@@ -1,0 +1,1 @@
+program r : FM : takes w, hU, e, X6j, q : integer array; f, V : boolean array; Z, kF90, j2d0 : boolean array; F, x, Xvt, A, g : integer; m5 : boolean array returns boolean chillax end main : M3 : boolean; Dw5a : integer array; tL : integer array; output Qu0[78] + false and 107 or 3 <= y1 + 5 - 495 . true and 10; pop end

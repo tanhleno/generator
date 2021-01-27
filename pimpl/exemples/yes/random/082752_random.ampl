@@ -1,0 +1,1 @@
+program tjs0 : main : w : boolean array; when case not WuB >= - not true : while 5 : output "" end end case - (4) < 327 and 4 or 3 - 06 : output 448 end case - true and 06 or 9 - 9 < - 06 : chillax end case - 788 - 47 : chillax end case 5 : when case 3 : chillax end; pop end otherwise : chillax end; output "9\t\""; pop; output 79 . "7" end

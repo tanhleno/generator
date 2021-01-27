@@ -1,0 +1,1 @@
+program U : main : WD : boolean array; while 7 : when case 99 - 95 <= 4 : while 301 : chillax end end otherwise : input uN5 end; do D(8 = 0320, 36, 0) end; while Xyba(00200) rem true and 8 /= - 3280 and 60 : output "\"\t0a" . 9 . "5"; while 8 : pop end; output "" end; while - (6) + 00100 : chillax end end

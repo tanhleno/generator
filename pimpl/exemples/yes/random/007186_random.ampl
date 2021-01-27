@@ -1,0 +1,1 @@
+program ua : o : takes X3, S, W4R0a, r9 : integer array; D : boolean array returns nothing w9W : integer; w : integer array; while true /= 4 : input AZK end; input N5[35]; when case 50 : chillax end case 94 : chillax end case 73 : chillax end otherwise : chillax end; while 35 : pop end; let F1 = 6 end main : x : integer array; chillax end

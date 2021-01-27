@@ -1,0 +1,1 @@
+program MiCa : E62 : takes y : boolean; N : integer array returns nothing when case - not 3 - 3 >= - 6090 - 0 : input d[2]; while 7 : chillax end end otherwise : chillax end; output 91 . ""; when case 4 : when case 960 : chillax end end case 2180 : chillax end otherwise : pop end end main : Y, B88a, lH, rR, U3, SvJa, N : integer; do Y(not not(2) rem(6)) end

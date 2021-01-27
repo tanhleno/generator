@@ -1,0 +1,1 @@
+program I : main : when case - 4 and I80 / not 354 and 6 or(21) - false and 3 - 8360 : chillax end case - false * (39) and 7 : chillax end; do f(- not(4) - not 5 - 01200 - 4); let K = array 54 and 12; while - 6 - 8 <= 7 : while 3 : chillax end; output "0\t" end end

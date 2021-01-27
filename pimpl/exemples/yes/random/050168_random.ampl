@@ -1,0 +1,1 @@
+program C : MJ : takes F : integer; A, Nz, D : integer array returns integer chillax end O : takes v : boolean; v : boolean; Tjl0, w : boolean; a, b, n : integer; h, f24 : integer array returns integer chillax end main : CA : integer array; when case - 38 <= false : do y0w0a(- 9 /= 1, 8 = 7, 4, 4) end; while - not(2) / B or(38) or 4640 - 6 < not 8 - 1 : chillax end end

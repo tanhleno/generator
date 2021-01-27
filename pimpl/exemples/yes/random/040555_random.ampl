@@ -1,0 +1,1 @@
+program Zf3aa : Pgba : takes a : boolean array; q3h : integer; e, q : boolean array returns nothing c, d : boolean; input FOW0a[E9 - 15 - 8] end main : R, _g5 : integer array; when case - not not P / not ZP : pop 80 = 67 end otherwise : chillax end end

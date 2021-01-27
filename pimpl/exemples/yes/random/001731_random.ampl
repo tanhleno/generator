@@ -1,0 +1,1 @@
+program r : U3P : takes c1s, rGoaa, i, G, Xl, X : integer array; i, C, n, V, U : integer returns boolean array pop - 52500 <= 8; pop 3 = 23; input UN[8] end main : Z87 : integer array; R : integer; while - 4 * (7) / F - (9) and true and 6 : do n78aa(- 08 - 124 < 6, 4 = 221, 6) end end

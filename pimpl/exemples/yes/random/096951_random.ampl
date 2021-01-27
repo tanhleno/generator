@@ -1,0 +1,1 @@
+program BXa0a : main : when case v(7, 9) rem 9 : chillax end case f8D(3) / false and 6 = - 1 : chillax end case - 1800 and 6 or 6 - 9830 < 79 - 7 : do dn(567) end; output - (69) + 122 . 7 - 858 . "" . "3" . "'" end

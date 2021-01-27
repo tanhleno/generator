@@ -1,0 +1,1 @@
+program c260 : U6eaa : takes fi00, z : boolean array; K : boolean array; G : integer returns boolean array do u(- true); while 4 = 2 : chillax end end main : B, G, Oa : integer; let j6Q0a[not true / true] = - Q8(97000) end

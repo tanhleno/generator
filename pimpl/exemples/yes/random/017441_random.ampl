@@ -1,0 +1,1 @@
+program E : r : takes h, Q : boolean; v, l : integer array; DA, i8 : boolean array returns boolean array g66, t, a8, a : integer; chillax end main : c6 : integer; do IOz(not not true and(21) + L3gaa <= - Y[87900] rem false and 68200, - (51) * false = K and 5) end

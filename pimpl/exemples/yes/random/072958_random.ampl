@@ -1,0 +1,1 @@
+program o : main : h3, _cP, Db90a : integer array; n : integer; X : integer; output - 27 rem not 2920 and 9 > - true . "\\" . 4 < 28; input R[- 9 * c - false]; while not 8 < 17 : chillax end; input N; do I(2, 0); let yJ[13] = array 430 end

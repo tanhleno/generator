@@ -1,0 +1,1 @@
+program y : A : takes x3, T : integer array; o : boolean array returns nothing chillax end v1 : takes b : integer array; xi7aa : boolean returns nothing chillax end g : takes E, f1 : boolean array returns nothing chillax end main : d, JH, zL70a : integer; Lu50a : boolean; input C; pop - true and 4 or 6790 - 7 = 0 end

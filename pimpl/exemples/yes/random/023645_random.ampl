@@ -1,0 +1,1 @@
+program u : N8ha : takes F, x2g : boolean returns integer chillax end N : takes O : integer returns boolean array chillax end main : H2t, C, v, zs : boolean; let CL[true rem(60) + true * true + not 229] = array - true end

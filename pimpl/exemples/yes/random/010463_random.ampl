@@ -1,0 +1,1 @@
+program g : z : takes g, g, Y84 : boolean array; Xp80 : integer returns nothing chillax end O : takes me, b, aP, lK, a1, O7zaa, Z : integer returns boolean array yLL : boolean array; K : integer array; while 45500 : chillax end; input v end main : chillax end

@@ -1,0 +1,1 @@
+program R : w5 : takes dA4 : boolean array returns nothing n1 : boolean; chillax end a : takes Zk, v6Laa, nY, Y : integer array; pp : integer array; B : boolean; A : integer; y : integer; s, X : boolean; c : boolean; K : boolean returns integer input n100a[58 - 75800] end s11 : takes qcq : integer returns boolean array output "\t/!a" . "" end main : chillax end

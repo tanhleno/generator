@@ -1,0 +1,1 @@
+program l16a : s1 : takes c : integer array returns boolean when case - mN6aa and 7 - 94 : chillax end end S : takes N, h, X : integer; AR0a, m : integer array returns nothing w8Faa, C3Vaa : boolean array; chillax end main : YT, ZH, X8, V, YW : boolean array; output "" end

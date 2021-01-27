@@ -1,0 +1,1 @@
+program e : Isd : takes u : integer array returns boolean e : boolean array; SEP, EPY, gm : integer array; output 4 . "A1" end Du : takes rB : boolean array; GW0, w : boolean array; i, e, bh8a, K : integer array returns boolean M : boolean array; chillax end H4 : takes xQ8a, i : integer returns nothing chillax end main : N : boolean array; chillax end

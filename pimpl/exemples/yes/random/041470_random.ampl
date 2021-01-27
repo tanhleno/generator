@@ -1,0 +1,1 @@
+program ri5 : g7P0a : takes A : boolean array returns boolean array chillax end f7haa : takes p2 : boolean; lw : integer; Y, F9Ma : integer array returns nothing chillax end main : b : integer; U9 : boolean array; yq : boolean array; M : boolean array; l, H0_a, m : integer array; l, R25a : boolean; input i end

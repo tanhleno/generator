@@ -1,0 +1,1 @@
+program _ : t1 : takes PQ, t1Pa, wc, o, Zp : boolean returns nothing kYZ : integer array; when case - false and 0 : let f[0] = array 456 end case 2 = 96 : input S end case 9 : chillax end case 5 : pop end case 89800 : chillax end; do kc(- 2 - 9) end main : chillax end

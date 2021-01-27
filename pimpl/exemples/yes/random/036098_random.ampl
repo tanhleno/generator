@@ -1,0 +1,1 @@
+program B : c4 : takes K8 : boolean; O : boolean array returns nothing pop 47 - 56 end h : takes x : boolean array returns nothing xsP : boolean; pop; input LI0 end C : takes V5, J6g : integer; Zb : boolean returns integer array chillax end main : Y8d, H8, S : integer; chillax end

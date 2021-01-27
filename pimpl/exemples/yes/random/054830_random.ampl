@@ -1,0 +1,1 @@
+program G : e : takes z5n0 : integer array; AG, cZ5aa : boolean returns integer _7, z : integer array; while - true and 9 : input vrBaa[4]; do W(73) end; do E(- 1 - 17) end main : b, E4T : integer; q : boolean array; w48aa : integer array; chillax end

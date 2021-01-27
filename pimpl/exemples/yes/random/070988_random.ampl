@@ -1,0 +1,1 @@
+program gFC : main : T, JD, Sr : boolean; i1 : boolean; when case(9 = 67) - 4 - not 5 < - (4) : output 0 . "" end case R[7] : chillax end otherwise : chillax end; output "\t0!" . "" . "Vc"; when case(9) or 29 >= - 8 - 22 : when case 1 : pop end end case 38 : chillax end case 5 = 9 : chillax end otherwise : chillax end end

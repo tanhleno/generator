@@ -1,0 +1,1 @@
+program JW5 : t : takes h : boolean array; z0l, r2 : integer array; Y6, cO5 : boolean array returns nothing c9, J4 : integer; R, I0, P : integer array; let k0 = array - true and 6 + 975 end a2haa : takes z : boolean returns nothing r : integer; chillax end main : z, Z_ : integer array; let S = - 49 / xPE and 4 + not 3; while true rem 94 : let E[8] = 989; input F5 end end

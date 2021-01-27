@@ -1,0 +1,1 @@
+program sf5aa : W : takes gV2aa, M, d : integer; J : boolean; x, pD, r, K : boolean array returns nothing do v3(- 3230 and 963 + 935 - 0); pop 53 = 7 end main : b6 : boolean array; wu9aa, A03a : boolean array; chillax end

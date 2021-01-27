@@ -1,0 +1,1 @@
+program M : n : takes YUH0 : integer array; g : integer array; F5, i, Z2, q, S88 : boolean returns nothing do Q(false - 03 > - 7, - 697 /= 5); pop 65 = 3 end main : output - not t98 + not 4 or 4 = - true and 4 end

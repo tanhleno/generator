@@ -1,0 +1,1 @@
+program G80 : i1N : takes h : integer; Ix5aa : integer; UcAaa : integer; H : boolean array; Z : boolean array; I, n1 : boolean array; t44a : boolean returns nothing output "HB0a" . ""; while - 6 - 856 = 5940 : output "" end; pop 76 end main : p, T8B, j, Y : integer; chillax end

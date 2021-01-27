@@ -1,0 +1,1 @@
+program l3E : RU6a : takes w4, Mq2 : boolean array returns nothing input Mt end main : e, H2va, M, P69aa : integer; I : boolean array; when case - 4640 * true <= true : when case - 95 - 670 : chillax end otherwise : pop end end case(9) : chillax end; let r07aa = array - l * true and 39 end

@@ -1,0 +1,1 @@
+program n : main : let wTD[true + true - (7) and 14 - 62] = true + not 7; output "C/\"" . 9 < 6; input h3[- (4) and 674 + 6 - 3]; when case 88 - 328 > 77 : chillax end otherwise : chillax end; pop 175 end

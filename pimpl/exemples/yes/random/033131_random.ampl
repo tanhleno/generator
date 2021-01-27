@@ -1,0 +1,1 @@
+program wGEaa : b92aa : takes zS, pR : integer returns nothing when case Yec and 3 + 996 <= 50 : when case 9 : pop end case 4 : chillax end; do Y61a(2); output "" end otherwise : chillax end end main : chillax end

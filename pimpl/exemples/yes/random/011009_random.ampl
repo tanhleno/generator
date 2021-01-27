@@ -1,0 +1,1 @@
+program g : F : takes w7, wL, ro70 : boolean array returns integer input Bvja end main : pop - false and q; when case - false - 6 and 29 - 2 - 0 : while 0 = 78 : while 66 : chillax end; pop end end otherwise : let c7[8] = array 6; input V; while 51 : chillax end end end

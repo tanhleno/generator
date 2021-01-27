@@ -1,0 +1,1 @@
+program P : M : takes I5 : boolean array returns integer array x : boolean array; let _ = - 329 < 606 end main : x, A, g, P8R, B, xT5, _v : integer array; while false / (84) rem false and 0 or false + true - 3 > V / false or(7) and 6 : output "" end; output "" . - 9 >= 36 end

@@ -1,0 +1,1 @@
+program t : P : takes E2N : boolean array returns integer array when case - (90) and 11 : chillax end case 8 = 9 : let i = 6; when case 5 : chillax end end otherwise : chillax end; output "\t"; let j1[805] = 43; while 1 : chillax end; do bUNa(1360); do VT7(3); pop end main : iem0a : integer; LE : boolean; when case J3oa : chillax end end

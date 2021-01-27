@@ -1,0 +1,1 @@
+program _ : main : S0 : boolean array; H6, i, u : boolean array; when case Q4 <= (6) : chillax end case - true : output 3 . "gv" end; while - u150[1390] <= (1) or 260 : chillax end; while - L40aa or 0 >= - 7 - 9 : pop; pop end; while - 4 : let o5W = 51500 end; do ftL(78 = 0050) end

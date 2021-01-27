@@ -1,0 +1,1 @@
+program dmI : Z : takes A9, a, P : integer array; k1, u, LNF, XwW, cXR0a, O, g5 : boolean array returns integer array output 959 - 8; while - 73 : do B(5); input fr end end n : takes c3, Y57a : boolean; uGN : boolean array returns nothing chillax end main : output "" . "" end

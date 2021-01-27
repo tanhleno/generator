@@ -1,0 +1,1 @@
+program ngva : h : takes y, kd, Z, O1, JV, Wf8 : integer returns integer M3, w, w, Y, v2Iaa : integer array; K5, g, cF4a : integer array; do T(- not 5 + 8, 30 >= 725, 0 = 6) end T : takes A2E, H, z, n, D, e8t, Kx : integer returns boolean array p6, A6G : boolean array; Y : integer array; pop 018 = 0740 end main : input _[false] end

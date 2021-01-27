@@ -1,0 +1,1 @@
+program LNp : fysaa : takes Jl2 : boolean array; B : integer array; f : integer; G, g, r : boolean; p14aa : boolean; qJX, N53, A : boolean returns integer chillax end c : takes H, F : boolean; e : integer returns nothing chillax end main : pop true and false and 78 /= - not 14400 and 4 + 0 - 8; output "<" end

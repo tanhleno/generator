@@ -1,0 +1,1 @@
+program l : Ch9 : takes on : integer; O2 : integer returns nothing w : integer array; pop - 85 - 1 > 65700; pop 969 end main : k : integer; z, K : boolean array; let sK[7 and 727 + PuJ0 * Qj] = array true - false * 58 and 5 - (93) or 8800; while(039) * 357 and 6 + true = sO - 3 - 8 : do uffaa(69 = 6); let _[5430] = 804 end; output - 41 end

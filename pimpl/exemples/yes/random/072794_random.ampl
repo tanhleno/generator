@@ -1,0 +1,1 @@
+program vOt : main : zj0, h, IX : integer array; O, y : boolean array; while - (5 = 9) or not true / false /= true * h and 36 : when case 74500 >= 6 : input q; do m(13) end case 15 : chillax end case 672 : pop end case 51 : chillax end otherwise : pop end end; while false : while 5 : while 89200 : chillax end end end end

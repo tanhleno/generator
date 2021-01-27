@@ -1,0 +1,1 @@
+program d : main : when case C88aa[94] rem not not 8 rem not 5 and 0 = - t[48] and(501) - 4 + 5 : chillax end case 53 / false and 982 < wWA and 8 : output 7; output "\nK"; while 20 : chillax end end; let a4 = false or 4550 /= - 4 - 7 end

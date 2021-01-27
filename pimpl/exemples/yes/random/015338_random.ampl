@@ -1,0 +1,1 @@
+program u : _ : takes m9, Q, L : integer array returns nothing i0, p6p : boolean; P, sh, s0 : boolean; G1 : integer array; while - not 3 and 03 - 74 - 9 : when case 6250 : pop end end; while 17 - 91 /= 6420 : chillax end end main : do p49(e2 * (517) or J5[916] rem not 85 and 52); while - true or false : let C = array 7890 end end

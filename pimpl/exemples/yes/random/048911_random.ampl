@@ -1,0 +1,1 @@
+program ZJ : W : takes t2w : boolean returns nothing let _6 = array false + 214 - 25; pop end z : takes _7, R2 : integer array returns nothing o150 : integer; let x[19 - 6] = 5 = 47400; input V[1]; let oK3[8] = array 0; pop; input r7M0a end main : chillax end

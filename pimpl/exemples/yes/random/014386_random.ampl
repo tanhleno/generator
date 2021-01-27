@@ -1,0 +1,1 @@
+program mE9aa : M33 : takes EA, oP, x : integer array; rK2 : integer; I, Y, pb, hQ : integer; w, o, O, O, sJ : integer returns nothing kb, RK2 : boolean; Mp : integer; chillax end t : takes jS : integer returns integer Q : boolean; chillax end main : y : boolean array; when case not 73900 or t or z4 and 31 + 3 : chillax end case - (4) / not 9 + true = false : chillax end end

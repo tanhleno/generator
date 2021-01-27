@@ -1,0 +1,1 @@
+program iVj0a : m : takes X, o, g : boolean array returns nothing chillax end A5 : takes L1 : boolean; i3 : boolean array; N : integer array; o5 : integer; t : boolean array; Xq : boolean returns nothing e : boolean array; input J[0] end R : takes O, N : boolean array returns nothing chillax end main : W3 : boolean; V : integer array; n8, P : integer array; chillax end

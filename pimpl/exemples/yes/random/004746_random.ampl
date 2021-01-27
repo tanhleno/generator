@@ -1,0 +1,1 @@
+program y : Jo2a : takes J, k590a, GP, oh6a : boolean array; m43, vI, Z, nj7 : boolean; J9, df : boolean returns nothing ji, X36, z, pKe, GUY0 : integer array; chillax end main : input k; while - (11100) : while 061 : when case 8 : chillax end; pop end; input R9m[216]; pop end end

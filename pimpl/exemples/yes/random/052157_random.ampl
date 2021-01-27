@@ -1,0 +1,1 @@
+program y2 : rT5 : takes C : integer; V6 : boolean returns boolean W, a, d : integer; when case - not 4 - 298 - 28 : chillax end otherwise : do GrX(2); let Xr = 9 end; do rnj0a(39 - 3 >= 932) end main : s : integer; Q2, EB5a : boolean array; l : boolean; pop end

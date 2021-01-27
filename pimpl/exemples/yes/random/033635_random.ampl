@@ -1,0 +1,1 @@
+program q6 : v : takes o : boolean; B, X, y6, H1Na : integer array; R, Z : boolean array returns nothing when case - w = 26 : chillax end case 97 - 525 : chillax end case 24 : chillax end case 182 : chillax end case 36 : chillax end otherwise : chillax end end O : takes u : boolean array returns boolean array pop end main : input H; output "" end

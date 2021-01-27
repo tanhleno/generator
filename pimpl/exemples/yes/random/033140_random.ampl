@@ -1,0 +1,1 @@
+program F : Sz : takes mO6, o : integer returns nothing when case not 0 or 1 - 3550 = - 6 : chillax end otherwise : pop; while 0 : chillax end end; pop end B : takes Q : boolean; k2A0, R, y, d : integer; y : boolean returns integer do P(6 - 64 /= 30600, 9 = 5) end main : F, _, R12a : boolean array; f : boolean; CpV0 : integer array; C6 : integer; chillax end

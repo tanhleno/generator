@@ -1,0 +1,1 @@
+program i : o : takes m, e, dx, Z, W : boolean array; q, G : integer array; if, k8g : integer array returns boolean TZ90, L, r5E : boolean array; BE, x360a, S50a, Xc : integer array; chillax end main : K5 : boolean array; let fL[- true] = array Y66 and 5 or not 71 * 2; output "" . - 87 . "\t" . "\n4a"; do d(not 8580 > - 5 - 86); while - 7 - 52 = 61 : chillax end end

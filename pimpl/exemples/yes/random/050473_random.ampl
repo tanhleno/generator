@@ -1,0 +1,1 @@
+program Dw : u : takes JC : integer; E, Z : boolean array; a, q : boolean array returns nothing chillax end main : l6 : boolean; X : boolean array; output "\\"; when case 81300 rem 25 < 38 + 40 : input e[42] end end

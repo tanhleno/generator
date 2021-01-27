@@ -1,0 +1,1 @@
+program bOYaa : main : when case 00 / true rem false and 6390 - (8670) or true and 6 : output "" . "\\P" . "" . ""; do Sl3(6 = 66, 43, 27) end case - not not 6 : output "" end otherwise : do soSaa(5) end; while - 3 /= - L420a : let Y9 = array 71 end; when case - (8) or 96 - 7 : chillax end case 20 >= 09 : chillax end case 5 : chillax end otherwise : chillax end; pop 8570 end

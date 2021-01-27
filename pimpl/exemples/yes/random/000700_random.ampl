@@ -1,0 +1,1 @@
+program S4s0a : H88a : takes f, t5, QF, _, i, UN4, N50aa : boolean array returns integer array chillax end a : takes l : boolean array returns nothing c, va, z1, v8 : boolean; chillax end main : chillax end

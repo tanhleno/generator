@@ -1,0 +1,1 @@
+program i4 : g : takes k, I, k : boolean returns nothing f : integer array; let G = 6 - 9 = 4370 end main : I, q : integer; L : boolean; AA5 : integer array; let z[- Q(6) / (593) rem not 8 and 9] = false = - j54aa and 8 end

@@ -1,0 +1,1 @@
+program p540a : O : takes s, e : integer returns boolean array while(5) <= 9 - 0 : pop 1; pop; when case 8 : chillax end; pop end end main : when case 3 / (4) and 6600 + (743) and(6) and 73 : output 90 = 3 end; do S0E(- (33) and(98400) < - M1x0a and 275 + 38, r1m - 75 >= 54 - 27, - 772 - 134 = 5, 441, 7, 463) end

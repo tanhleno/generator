@@ -1,0 +1,1 @@
+program srb : main : r : boolean array; r, FeU0 : boolean; when case(6) : let G[- 02300 - 2] = 1; do p(067 = 8) end case - (0) * 00 and 3 or 0 = - f and 63 + 709 - 5 : pop 9350; let a2 = 444; pop; input w61aa end end

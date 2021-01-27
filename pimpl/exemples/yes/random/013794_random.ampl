@@ -1,0 +1,1 @@
+program E520a : SR8a : takes x66a, _, b : integer array; Ry, _, x5 : boolean array returns nothing output 875 - 1700; let N5 = array 3370 - 90 end main : k : integer array; output - A(70) * (228) or false . true + 13700 . 6 . "" end

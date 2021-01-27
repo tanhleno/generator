@@ -1,0 +1,1 @@
+program _f : o72 : takes rg, H, O8, o : boolean; pV, o : integer array returns integer array pop - 670 < 9; while 6 > 7 : chillax end; output "27" . "" . "\t"; do V(0, 3); input Q; pop; pop end main : X, A : integer array; chillax end

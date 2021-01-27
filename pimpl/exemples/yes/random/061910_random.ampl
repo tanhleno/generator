@@ -1,0 +1,1 @@
+program z : YO9 : takes J0 : integer returns boolean array L : boolean; chillax end o : takes M55a : boolean array; G : integer returns integer w, XJ00 : integer array; input t2 end main : let g = array - not(1) + (57) rem A9 and 6 - H + 05 - 649; output "\n" end

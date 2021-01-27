@@ -1,0 +1,1 @@
+program k : d : takes d4, w, w, J : boolean array returns integer array chillax end ew9 : takes p9U, Ep : boolean array; QY, p : integer returns integer array niW0 : integer array; g25, wZ : integer array; D8U0a, YZ0a : boolean; T9 : boolean; output "" . "7\"" . 1 . ""; while 48 : when case 1 : chillax end end; let c5[32] = 39700 end main : chillax end

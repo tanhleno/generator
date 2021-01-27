@@ -1,0 +1,1 @@
+program G3 : main : while 67 + true * not 7 and 52 : pop 3 = 4; pop 825; let S[110] = array 4 end; while not 00 * (8) and 8 - (6) > 7670 and 601 : pop; when case 80 : pop end case 730 : chillax end otherwise : chillax end end; let L0 = - 8 - 5560 end

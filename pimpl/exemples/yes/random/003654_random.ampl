@@ -1,0 +1,1 @@
+program i : r : takes He6, c37, J, Cf, X3 : integer array returns boolean array do C((99) and 1140, - 23 - 1 > 7, 1 = 4, 8); pop 92 = 47; input t0; when case 3 : chillax end case 62 : chillax end end main : m14 : boolean array; b, Q, C17, S99, qIDa : integer; chillax end

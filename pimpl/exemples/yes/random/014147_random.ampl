@@ -1,0 +1,1 @@
+program yb_ : T30 : takes R, s, R0 : integer array; bw : boolean; KEy, S, M0, o : boolean returns integer array a : integer array; w8, f0 : boolean array; U : boolean array; X, U1 : boolean; c : boolean; pop; input t end main : Z, a74, h, Q : boolean; output - 8 - A0g . - true and 24 or 1; let W[- not not 57 * false] = array - not Tb or(90) and 4 end

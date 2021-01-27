@@ -1,0 +1,1 @@
+program v : s : takes U0, V2D : integer returns nothing chillax end K : takes IHp : integer returns nothing chillax end x : takes W, y, BX : boolean array returns integer array let q = 02300; while 7 : pop end; let zO = 25; do ko6(2); pop end main : chillax end

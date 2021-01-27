@@ -1,0 +1,1 @@
+program U_ : n6 : takes n : boolean array returns nothing d : boolean array; chillax end Sa : takes o, z, Li : integer array; t, V3f0a : boolean; Mk : boolean array returns integer array chillax end main : output "6"; pop end

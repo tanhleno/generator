@@ -1,0 +1,1 @@
+program Hw : Ao : takes uN, A, c : boolean array; O, GlO, R7, g, k : boolean array returns boolean M : boolean array; do O(- true and 3 + 7 - 54200, - 5 <= 3) end main : R : integer array; chillax end

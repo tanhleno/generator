@@ -1,0 +1,1 @@
+program M : m4 : takes v : boolean returns boolean output - 4750 - 94 <= 83 . "\\"; let PK = array - 8; input t[45]; output 96 end r : takes LX, X4, qDj0, N : integer; C : integer array returns integer let O = array 51 end main : O6x0 : integer; chillax end

@@ -1,0 +1,1 @@
+program d : Z_c0 : takes lWG, h83aa, IaZ0, R8, Y : integer array; n8 : integer array returns nothing chillax end main : G48, h2u0a, C3f, p, f, I : boolean array; p, I0 : integer array; o : boolean array; G : integer; do k4(- true or not 82 and false and 748 + false > - false, - j[825]) end

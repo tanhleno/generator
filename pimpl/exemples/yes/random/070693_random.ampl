@@ -1,0 +1,1 @@
+program S53 : main : qQ, c, n, w3 : integer array; while 38 * false / true - L[7360] * W and 15500 or not 0 > true : chillax end; do E(- false / (648) and 11, - true < 0, - 5, 3, 08, 69); input xC[(24) and 238]; output 02 = 5 end

@@ -1,0 +1,1 @@
+program k4 : b : takes M : integer array returns boolean array h, C : integer; oa8, g9, x1 : integer; chillax end M : takes x : boolean; q3 : boolean returns nothing L2g0, s : integer array; n : integer; pop 4 end main : q : integer array; N, Lr : integer; i : boolean; do wv(not false >= - 0660 rem false, - true /= - S) end

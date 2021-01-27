@@ -1,0 +1,1 @@
+program r : main : c : integer; Z : boolean; X : integer array; pop; pop - true and 0 - 158; do w(- false = 9 - 411, - 6 - 525 /= 6); output 4 . ""; when case 54200 = 9 : chillax end case 400 : chillax end end

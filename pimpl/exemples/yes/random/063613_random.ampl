@@ -1,0 +1,1 @@
+program nV5a : h7Raa : takes _ : integer returns integer while - not 49 and 1 = 19 : input r5 end; while 28 < 215 : chillax end; while 0760 : chillax end; let U[9] = array 145; while 91 : chillax end; pop; pop end main : chillax end

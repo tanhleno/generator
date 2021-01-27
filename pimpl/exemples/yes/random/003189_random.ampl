@@ -1,0 +1,1 @@
+program W : VX : takes P, G, P5, C5, m : integer; e150a, z : boolean array returns boolean o, e, c68, zK9 : integer array; T : integer array; when case T > 31 - 923 : output "" . "" end otherwise : input AWG0; while 055 : chillax end end; pop end main : J450 : boolean array; iG10, c83a : boolean; output "" . - false or 0; do g(- false or not 46 and 489 >= - g and 26, Taia) end

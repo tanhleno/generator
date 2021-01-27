@@ -1,0 +1,1 @@
+program T9V : main : output "),0" . true and 26 = 0 - 6 . "B" . "" . 2 . 90700 . ""; input qm[- true rem true - not 7 and 2]; when case c and 6 < - 23300 : chillax end case - 68 - 0 /= 0 : chillax end otherwise : pop end; while 60 = 3 : let r720 = 1; when case 7270 : chillax end; pop end end

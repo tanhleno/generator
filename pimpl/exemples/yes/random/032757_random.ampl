@@ -1,0 +1,1 @@
+program d7 : Q090 : takes U45, B : integer returns nothing XT : boolean; M : integer; C : integer array; W2e, Vj8 : boolean; n : boolean; Q : boolean; chillax end main : _, Dw5 : boolean array; Ab4aa : boolean array; N : boolean array; do tP(c /= - not W52 / N8 and 66 + false and 91, z8, p or 76, 944 - 00 = 32700, 5); let t2D = - b800a and 026 > - 996 end

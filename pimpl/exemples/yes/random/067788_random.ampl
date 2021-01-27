@@ -1,0 +1,1 @@
+program h6 : main : do w4(true, - S7A(23) and false); while false - false + 1 - 0 /= false + 4 - 913 : do O(1 = 6, 8930); input FF4a; when case 76 : chillax end end; pop - 40 - 3 /= 510; do k7P(6 <= 6, 65 = 83); output 5 . "" end

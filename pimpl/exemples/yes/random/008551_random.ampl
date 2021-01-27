@@ -1,0 +1,1 @@
+program H : s : takes S0, d5, H9P : boolean; M, W, A, k : integer returns boolean array chillax end main : q0, Vg, _g, W, J, p : boolean array; when case true < - true : while 08 >= 7 : let J = 0 end end; while 04 : when case 0 : chillax end otherwise : pop end; input z890; input GW end end

@@ -1,0 +1,1 @@
+program C : main : when case - pY0aa[8] or c(7) /= - not z : while 9 : pop; while 08400 : chillax end end; while 5 : input R8; pop end; let n160a = array 68000 end case true <= - true and 80800 + 98 - 7 : chillax end case - 0 /= 0 - 5 : chillax end; do n020(- f + rz9a + 2 - 118, - (8430) or 676, - 332, 9700) end

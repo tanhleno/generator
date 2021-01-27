@@ -1,0 +1,1 @@
+program s4 : e : takes j8fa : boolean returns nothing x03, F, x, v : boolean array; VP : boolean array; E, L8h : boolean; q8 : boolean; input Y; pop end main : pop 76 rem 54400 and 3; output - 3 /= 2 - 40800 end

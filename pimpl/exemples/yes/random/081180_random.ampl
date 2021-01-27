@@ -1,0 +1,1 @@
+program V : main : S : boolean array; m7t, m : boolean; yt, iP : integer; m : boolean array; _C : boolean array; let a3[- not not(5) rem false] = array 1 and 5; do Q(not 9 <= (14300), - not 34 + 1 - 95000 >= - 3); when case - true and 8 - 41 : chillax end; when case 487 - 61100 <= 52 : do H(2) end otherwise : chillax end; pop end

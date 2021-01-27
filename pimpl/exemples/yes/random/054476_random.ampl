@@ -1,0 +1,1 @@
+program Qy9 : mAg : takes n180 : integer array; L, f : boolean; k : integer array returns boolean array t60, LR60, o : integer; pop end q : takes w : integer returns integer do xQ10(- 18 - 4 > 90, 1 = 0) end io : takes T7, V, k8, H : integer array returns nothing Mgu, M : boolean; pop end main : r : integer array; J3, V : integer; chillax end

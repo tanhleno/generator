@@ -1,0 +1,1 @@
+program Y : M : takes PA : boolean array returns boolean chillax end a9 : takes j, p17, z, U38, g, C, Dj6 : integer; N7 : integer; g : boolean array returns integer output 0 . 200 . "" end main : output "E" . "x60"; while - 439 rem(6) or(7) or 5 < - 4 and 18 : while 29 : chillax end; pop end end

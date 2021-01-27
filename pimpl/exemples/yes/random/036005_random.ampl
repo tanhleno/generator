@@ -1,0 +1,1 @@
+program WbTa : _W8a : takes R910a : boolean; W3i : boolean array returns nothing ao50, ls6, K, S : integer; v : integer array; output 59 end main : h, k8M, u, QgYaa, Q7, oC, y : boolean array; output 54 / not 2 and 0 end

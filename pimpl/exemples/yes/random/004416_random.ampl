@@ -1,0 +1,1 @@
+program U : R : takes n4, X, ZFEa, A : boolean; axw0a, Z : integer array; V, e : boolean returns nothing chillax end hq : takes M : integer array returns nothing G7 : boolean; do v(- 37, 829, 337); while 7 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program Y : Qt : takes dJ, LB2, vJs : boolean array; i, W, A, s_ : integer; S, t, W4 : integer; A : boolean returns boolean while not 4 and 83 or 819 - 44 <= 50 - 9 : do q(9) end end main : chillax end

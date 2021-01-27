@@ -1,0 +1,1 @@
+program yKL : w8 : takes b : integer; WU : integer array; J2, Kj : integer array returns nothing while true and 35500 + 34 : chillax end; when case - 6 - 17200 /= 5 : chillax end case 8 : chillax end; while 570 : pop; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program j : I : takes uZ, e3 : integer array; sAcaa : integer array returns integer IN80a : boolean; let d[- true] = array - 4 and 01 - 49 - 44 end _Wmaa : takes V : boolean array returns boolean array chillax end main : K1, Xh, e : boolean; F38 : integer; X : boolean array; chillax end

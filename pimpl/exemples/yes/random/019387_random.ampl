@@ -1,0 +1,1 @@
+program V : N : takes q, j00 : boolean array; m, O : integer; IV, Q : boolean array; x, n : boolean returns nothing while not 835 and 40 /= - 00300 - 1 : chillax end; when case 20 /= 46 : do v0C(9) end otherwise : chillax end end main : do Z(- true and true - S[117] or t and 5 = - true, - g(1) or(2) and 47 >= q and 6, not 9 - 8, 47700, 2 = 1350) end

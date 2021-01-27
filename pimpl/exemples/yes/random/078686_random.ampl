@@ -1,0 +1,1 @@
+program en00 : main : u : boolean; d8, t, n : integer; oUOaa : boolean array; N, Fj : integer array; while(5) and true and not 3 - not I99aa - not 40 and 1 - 52 - 7 < - 7 - false and 76 + 31 - 35 : let c77 = array 77; input l2J end; while - g93 : when case 56 : output ",<\"a" end end end

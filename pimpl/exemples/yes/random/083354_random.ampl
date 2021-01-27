@@ -1,0 +1,1 @@
+program k : main : y8Ia : integer; Z, K, A : boolean array; V, D, _V0 : integer array; P91aa : integer array; U : boolean array; while true < - XI[4] * 8390 - KSD or 4 - 510 : when case 9 : while 9 : chillax end end end; do fE(- 96, - h - 88 > 7, - 6 >= 44, 3 = 110); output - 7 - 5; do tq(- 783 < 3, 677, 24) end

@@ -1,0 +1,1 @@
+program aC1aa : main : D2, A0 : integer array; pop - not false / 3 > - (25) and 12600; pop; when case - eNE and 32 >= - 1 : chillax end; while - 46 : chillax end; output 0 . "" . ")="; when case 0950 : chillax end otherwise : chillax end; input K; input C; pop end

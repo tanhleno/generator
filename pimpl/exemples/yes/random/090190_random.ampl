@@ -1,0 +1,1 @@
+program V : main : let O8 = array 0 * false or(3) - not 258 and 8580; do Z(- 3 or not 9 - 8 - 107 > false and 19, - (909) and 7 <= - 5 - 2); while - false and 24200 + 7 : output "4"; output "" end; when case - 1 - 027 < 85 : chillax end case 4 = 39 : pop; pop end otherwise : chillax end end

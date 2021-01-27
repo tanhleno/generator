@@ -1,0 +1,1 @@
+program YL : z75a : takes z : boolean returns integer e, u1T0 : boolean array; s : integer array; chillax end main : _ : integer; t, v, h, z : integer array; input JSn0[d]; output - true or 55 - 29 = - 8 - 285; input l[(4) and 09 + 0420] end

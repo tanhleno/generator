@@ -1,0 +1,1 @@
+program Q9 : z7 : takes wJB, F, B9 : boolean array; n, R, H1 : boolean array; HG, K : boolean returns integer array q7, h : integer array; chillax end main : hX : integer array; J890a : integer; output - not not 0 <= - 89 or 8 . - false + 8 - 7 >= 558 - 00 end

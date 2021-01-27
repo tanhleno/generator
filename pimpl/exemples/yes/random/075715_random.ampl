@@ -1,0 +1,1 @@
+program KgW : main : C3x, H : boolean array; while - not true * false + not B = - not false / n : while 95 = 0 : input gW3; do XB7(4910) end; while 1 = 503 : when case 0 : chillax end; pop end end end

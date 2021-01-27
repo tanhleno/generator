@@ -1,0 +1,1 @@
+program T72 : E190 : takes T, uq : boolean; B, W, Or5 : integer array returns boolean array output ""; let C = 7; let o75aa = array 683; input E[87]; output "" end main : output - true rem true and 47 + (8) /= (98700) + 79 - 3 end

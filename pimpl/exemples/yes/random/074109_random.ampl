@@ -1,0 +1,1 @@
+program J : main : xN00, e5 : boolean; input D5[- true * not false or true or true and 11]; when case - (229) or true > 44 and 7 : chillax end case - q and 8 + 534 - 63 >= - 5230 - 3230 : chillax end; input e9; output ""; while 3 : while 88 : chillax end end end

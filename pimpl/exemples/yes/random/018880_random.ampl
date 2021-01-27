@@ -1,0 +1,1 @@
+program h : M : takes N5, q : boolean array; z, P, u8xa : boolean array; v4, j, X82, Gu10a : integer array returns integer array c : integer array; sS, S3 : integer array; pop end main : T2U, M : boolean array; RWMa, o8, y, J : boolean array; A : integer array; pop - 6 + not 361 and 7 end

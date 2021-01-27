@@ -1,0 +1,1 @@
+program a : P0 : takes n0H : integer array; j4, N : integer; S6c0a : integer returns boolean array X4, Ksg : integer array; when case Gl10a and 5 or 7 - 77 : chillax end case 3 - 85 > 44 : chillax end otherwise : chillax end end main : Gw : integer array; while - 4 or true rem 67 and 64 - not 953 and 40 : chillax end; pop true; let s[not 86 or 02 - 4] = array C7 + 8 - 852 end

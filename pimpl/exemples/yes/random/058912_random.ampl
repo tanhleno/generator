@@ -1,0 +1,1 @@
+program hc5 : v : takes H : integer array returns integer array t2 : integer; X4U0a, Y : boolean array; D, D : integer array; input o end y : takes f, u, f6h0, Q7 : integer returns nothing do D7(- 16 - 1) end main : output V9(096) <= - true and 8 end

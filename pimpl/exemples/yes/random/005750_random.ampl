@@ -1,0 +1,1 @@
+program z : d : takes BVx, H, x, B700 : boolean array returns nothing output "" end aq : takes h97 : integer; w : boolean array; w3 : boolean array returns nothing K4, V1y0a, A, j : boolean array; KI, x, k : boolean array; chillax end main : oN : integer; I1 : integer; chillax end

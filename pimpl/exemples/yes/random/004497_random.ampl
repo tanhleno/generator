@@ -1,0 +1,1 @@
+program ke3aa : z : takes p, o, mW, I : boolean; eVu : boolean array; vM6, r, n : integer returns boolean let RN = array - 08 + 0; do OJ4(- 9 - 171 /= 9, 77 = 0, 2, 4); when case 8 : do G(22) end case 3 : chillax end; input l3O end main : PB, Mg, d1, O : boolean; chillax end

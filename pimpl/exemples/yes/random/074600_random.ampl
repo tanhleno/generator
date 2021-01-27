@@ -1,0 +1,1 @@
+program _ : main : x77a, fb3a : boolean array; kdK, B8, sC1, GW, f0N : integer array; R1 : integer array; W : boolean array; r, g : integer; NZ, u : boolean; T28aa : boolean; do y(- not g - f0 or false /= - not 8030 - not 9 and 5 + 54800, 88 and false and 7 > not 6, - 6, - 4 - 871 < 46, 4) end

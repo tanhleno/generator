@@ -1,0 +1,1 @@
+program T : y6 : takes G67, o, PSy0a : boolean; G, u, l : integer; L2i0a, g, K : integer; u : integer; S : boolean; e, uE : boolean array returns nothing while - 3 and 84 : pop 2620; while 35 : chillax end end end main : R, C, gf : integer; chillax end

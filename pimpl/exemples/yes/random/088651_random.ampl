@@ -1,0 +1,1 @@
+program o7 : main : input k[- not false and(072) / not 3 - 9770]; when case - false : chillax end otherwise : chillax end; let C[true and 30] = 7; when case 8 = 3 : input Ji; when case 47 : chillax end end; when case 5 : when case 0 : chillax end end case 4340 : pop end otherwise : chillax end; pop 0 end

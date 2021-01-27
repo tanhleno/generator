@@ -1,0 +1,1 @@
+program b : main : a : boolean array; output O9v or G7 and 69 + 7 - 1 < not 7 . "" . ""; when case false rem 3 or not 2 and 61 : when case 758 : output "" end case 530 : chillax end end case 60 and 9 + 2680 - 17 : chillax end; output - 9; output 85 . 58 . 24 end

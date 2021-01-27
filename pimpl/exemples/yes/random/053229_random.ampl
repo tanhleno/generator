@@ -1,0 +1,1 @@
+program Fqu : Bdsaa : takes g8 : integer; C : integer returns integer output - 2520 end main : O, J : boolean array; do bl6(- true / false and 6, aU7 or 72 - 25 /= (39) and 53 - 3 - 9); output "" . 7610 end

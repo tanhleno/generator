@@ -1,0 +1,1 @@
+program p4 : l : takes o1G0a, T6, s, x6 : boolean returns boolean array D : boolean; C, s : boolean; while - o7 : chillax end; do So9a(- 97600 - 23 < 5, 7 = 72, 7, 1); input b[856]; while 4 : chillax end end main : while - P960a[2380] + false * not 5690 and 66 + e and 3 /= - true - not 2 + 5 - 8280 : chillax end; let x7[- 854] = array - not false and 0 and 1 or L and 6 + 0 end

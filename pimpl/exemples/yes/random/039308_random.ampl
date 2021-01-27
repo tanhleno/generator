@@ -1,0 +1,1 @@
+program A : l9 : takes jj : boolean array; r0, c : integer array returns nothing OO, N, pw : integer array; G : boolean array; chillax end H : takes RD5aa : integer returns boolean let f[- 1] = array 8 - 6 end main : chillax end

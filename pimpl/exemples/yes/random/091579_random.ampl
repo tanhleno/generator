@@ -1,0 +1,1 @@
+program E : main : let kP1aa[866 / not 2060 * 9] = array - U(34) rem true; while true / (155) and 78700 or false and 67400 >= (664) or 73300 : chillax end; while - 57 or 4 - 0 : input r9n[6]; let w = 05; pop; pop end end

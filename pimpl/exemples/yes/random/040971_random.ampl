@@ -1,0 +1,1 @@
+program N6 : v : takes A : boolean array; mm : integer array returns boolean array X, w : integer array; q9v0, N8 : boolean array; aJP : integer array; input B5 end main : output "!" . "9'"; let u3k[true rem(6) and 483 + 51] = - y1 or 60; output - 25 . ""; while 1 < 36 : chillax end; input f7w0a[4] end

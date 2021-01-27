@@ -1,0 +1,1 @@
+program A : x : takes K, F, Ew, mh : boolean; G : boolean returns nothing RD4aa : boolean; output 24 - 45000 = 481 end main : pop - (5) <= (7) and 6070; pop; when case - o /= 06 - 15 : chillax end end

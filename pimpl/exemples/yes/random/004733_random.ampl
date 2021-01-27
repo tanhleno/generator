@@ -1,0 +1,1 @@
+program Z : J : takes yJW, e, p7, f : boolean array; oh, J, f, v, u2 : boolean array returns nothing do B4(x6, - 5 - 2220 < 0, 27 = 5, 5); output 5 = 7; pop; input q; when case 90800 : chillax end end main : p6Z : boolean array; chillax end

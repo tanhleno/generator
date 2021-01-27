@@ -1,0 +1,1 @@
+program q : main : E, w : integer; wZR : boolean array; a97a, Mm, Q, f : integer; i : boolean array; when case Q - U1 * (83) and 90 : do S(- 755 - 5 > 4) end case - bp80 : chillax end otherwise : while 6 = 90 : while 8 : chillax end; pop end end end

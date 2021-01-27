@@ -1,0 +1,1 @@
+program r6naa : s : takes w4, RF0a, q, S : boolean; V, tU1a, t140a, IAY, E, N : boolean returns nothing NX60, e, Y : boolean array; let FV = - 016 end main : while false + (9) / 6 and 66000 : when case - 98 - 18 : output "]B0"; input z; pop end end; let b[- not E] = false and 3 <= 3; input Ks70a[- not 1 and 580] end

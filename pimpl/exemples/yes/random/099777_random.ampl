@@ -1,0 +1,1 @@
+program FX : main : while 94 or true / not 3 and 25 + false + 6 > 4 * not 546 or true and 94 : while 1 <= 3 : do m(3) end; let g[42] = array 027; while 8 : chillax end; input K3pa; do YZ(8); pop end; input H89[not not 357 and f] end

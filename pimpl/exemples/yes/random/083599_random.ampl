@@ -1,0 +1,1 @@
+program N5 : main : b : integer; i, eo40a : boolean array; hU, iS30a, o1, L, B : integer array; P : integer array; when case not d6(2) < - not not 9 * z5 : chillax end case false = true + 1370 - 4 : output 06; output "" . "01" end case - false and 67 < - 25 : chillax end case 307 - 9 : chillax end case 2 : while 5 : chillax end; pop end end

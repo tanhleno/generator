@@ -1,0 +1,1 @@
+program G : main : when case - not false * YgC0[2] * G3 and 0 < ezhaa[2] or 7 and 7 : pop; do Y(5); when case 85 : pop end; pop end case - (87) rem true and 102 > - true - 38 - 86 : input H[7] end otherwise : chillax end; while 83 * 1 and 6880 > - false or 484 : when case 8 : output "" end case 0 : chillax end; pop 0820 end end

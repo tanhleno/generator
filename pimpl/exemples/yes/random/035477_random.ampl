@@ -1,0 +1,1 @@
+program E60 : rU0 : takes Eyk : boolean; Vc : boolean; v : boolean array returns boolean array chillax end g : takes _A8, C41, e : integer array returns integer array chillax end main : w : integer array; chillax end

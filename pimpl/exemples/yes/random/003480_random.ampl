@@ -1,0 +1,1 @@
+program Q : v7 : takes X, X, B, c, p8 : integer array; w8, N : integer array; p6, H, RR50a, Z, w7 : integer; Y06a, ua4 : integer; O8, T12 : integer array returns nothing chillax end main : op, c49 : boolean; vf, X : integer array; w : integer array; y8, bx, P : boolean; do i0((7300 = 2) or 578 or false and 60 > - true - 1) end

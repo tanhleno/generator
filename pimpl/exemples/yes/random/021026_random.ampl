@@ -1,0 +1,1 @@
+program wi : wy : takes y7raa, _ : boolean array returns boolean chillax end F : takes v, w : boolean returns nothing q790a, Qf1aa : integer array; mR40 : boolean; chillax end main : HR10a, R45aa, y, R11aa : integer array; chillax end

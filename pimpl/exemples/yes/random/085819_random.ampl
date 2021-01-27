@@ -1,0 +1,1 @@
+program u : main : K6 : integer array; _, Y, s37 : boolean array; s37 : boolean; orgaa : integer array; l, j, S2 : boolean; g9C, m : boolean; input Z890[- 42400 rem p(9) + (158) rem not 8 - false] end

@@ -1,0 +1,1 @@
+program o0 : CEn : takes Y : integer array; L : boolean array returns nothing C : boolean; uo, U : integer array; cI : boolean; Z : boolean; chillax end main : f5, v : integer; ls, D, z, z6, t : boolean array; kd4 : boolean; T, U64 : integer array; while - true * N <= not 78 and R and 10 : chillax end end

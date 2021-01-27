@@ -1,0 +1,1 @@
+program pJ20a : F7P0 : takes f, p, a, a : integer array returns integer array A98 : boolean; output 09 - 48; while 5 = 92 : while 88 : chillax end end end B4 : takes f6, z, g : integer returns integer array j8 : integer; do J(- 3, 8 = 68) end main : C05, Fi9, u : boolean array; N : integer array; chillax end

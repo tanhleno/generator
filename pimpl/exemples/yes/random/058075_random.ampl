@@ -1,0 +1,1 @@
+program t : J : takes r9 : integer array returns boolean chillax end rd1 : takes t : integer array; dq, f : integer array; B : integer array; Z : integer; T : boolean array; a74, D : boolean; j : boolean returns integer when case 5180 : output ""; do _480a(9); pop end case 21 : while 3 : chillax end; pop end otherwise : chillax end end main : D : integer; chillax end

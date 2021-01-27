@@ -1,0 +1,1 @@
+program F7C : P9 : takes H : boolean returns boolean array A0 : boolean; HAO, P03a : integer; x300a : integer; let v[9 and 2] = - 3 - 3 <= 3 end _ : takes P10a, C : integer returns integer b, n, m58aa, ntw : integer; m, o9M : boolean; pop 4; when case 5920 : while 9 : chillax end end case 15 : chillax end otherwise : pop end end main : input _ end

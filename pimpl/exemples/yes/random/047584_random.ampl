@@ -1,0 +1,1 @@
+program O : SC : takes M3M0 : boolean returns nothing chillax end C : takes ZQWaa : integer array; W : boolean; r, Z03aa : integer array; G : integer array returns boolean W, u : integer array; x, F, H : integer array; input k60[- 04] end main : r8, h : integer array; oygaa, S : boolean; fvu0a, tf, k, Zta : integer array; chillax end

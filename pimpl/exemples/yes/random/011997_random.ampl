@@ -1,0 +1,1 @@
+program C6 : SeA : takes o, V0, V0 : boolean returns integer let aU = - 38 <= 3; when case - 0 > 4 : chillax end end C : takes EHZ0 : boolean array returns boolean array chillax end main : v, R : boolean; i, O, c9d, HT2 : integer; do x3(- not true - false / false and 11, - false / not 41 - not 1 and 9 >= not 7 and 6, - (24) + 0 - 6890) end

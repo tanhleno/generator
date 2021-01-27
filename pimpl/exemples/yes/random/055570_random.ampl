@@ -1,0 +1,1 @@
+program r : d3ea : takes i7zaa : integer array; fyU : boolean; ftT0, b : integer array; Q34, J : integer returns boolean array chillax end main : B, Gm : integer; Z, X, O : integer; Z, n, P : integer; let C = array r2 + not c; input M41[2 and true] end

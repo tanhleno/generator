@@ -1,0 +1,1 @@
+program H950 : y : takes Z, P, L0e0 : integer array; a5, b, b, q, s : integer array; x, Q, Js, k, _u, tq : boolean array; XR : boolean array returns nothing tRi, N04 : integer array; input o0Fa end main : L : integer; chillax end

@@ -1,0 +1,1 @@
+program P3 : A : takes A : integer; f : integer array; M, d, e : integer returns nothing qG, S : boolean array; J5, MM, N : boolean array; chillax end main : do i(false * not 3 and(9) and 83 or not true, not not 9480 and not 4 and 4 <= S, false /= 3) end

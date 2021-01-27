@@ -1,0 +1,1 @@
+program Y21 : n : takes s : boolean returns integer chillax end main : do i2(- not true + (34) and D and 9, - not S + false, (182) and 07 >= - 02); while not false or Z130a and 5 or 6 - 19100 : chillax end end

@@ -1,0 +1,1 @@
+program h1 : L : takes kx, d61aa, g, F48a : integer array returns nothing while not 4 < - 1200 - 78 : chillax end; do LE8(- 6, 9) end main : GH, t, I : integer array; s7, G, o, OB, C : boolean array; A : integer array; A3M0a, yB, n3s0 : integer array; R : boolean; chillax end

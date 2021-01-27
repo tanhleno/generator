@@ -1,0 +1,1 @@
+program rvr : v99 : takes Y : integer; bOH, W, D, D64, l, AD30a : integer returns nothing ISZ0, M, wum : boolean array; P990a : boolean; chillax end x : takes R, E : boolean array; w : boolean returns boolean array chillax end main : pop; let h3[not j * false + not 48] = - (97500) = 55 - 0; output - 88 end

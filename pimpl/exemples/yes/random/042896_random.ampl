@@ -1,0 +1,1 @@
+program Q : S : takes Dl : boolean array returns integer array while true = 9 : do q(6); output "" end end u : takes xc, j : integer; n : boolean; x6 : boolean; Y : integer array; vt, d : integer returns integer array chillax end main : f8I, IX : integer array; output - false and false and 4 end

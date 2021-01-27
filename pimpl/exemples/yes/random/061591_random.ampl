@@ -1,0 +1,1 @@
+program S : g : takes c : integer array returns nothing when case 675 and 7 + 967 - 8 : chillax end; input y end db0 : takes F : integer array; niMa : boolean array returns nothing chillax end main : UE : boolean array; J : boolean array; chillax end

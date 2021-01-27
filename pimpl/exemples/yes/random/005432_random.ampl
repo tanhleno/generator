@@ -1,0 +1,1 @@
+program l : q : takes ki, z, qF1a, O : boolean array returns integer array h : integer; output ""; do r29(- 6); when case 5 : chillax end end main : Bd, j : integer; pop not not 0 rem false and 0 + (580) or 606 - 0 > - false and 3 or 77; do I(- (26) rem(1220) and 3); when case - t0l or 1 - 1 : let C = 08800 end; input f[62 - 6] end

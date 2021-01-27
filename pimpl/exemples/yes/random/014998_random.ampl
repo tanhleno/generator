@@ -1,0 +1,1 @@
+program L : P : takes D, X4, H7 : integer array returns integer array when case - not 3 and 2350 - 381 >= 6020 : input R7[7] end case - 8 : pop; input sUI; pop end; while - 49100 - 9 <= 44800 : chillax end; do LILaa(6 = 04, 4, 3) end main : chillax end

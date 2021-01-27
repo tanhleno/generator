@@ -1,0 +1,1 @@
+program B : O20aa : takes XS, b0, QeN0, th, x41a, NUt : integer; E, k9 : integer; l : boolean returns nothing chillax end R : takes w, X, V : boolean; Q, m7, t : boolean; S : integer returns boolean input D06[- 3]; when case 78 = 82 : chillax end otherwise : chillax end; output 41 . ""; when case 0 : chillax end; pop; pop end main : chillax end

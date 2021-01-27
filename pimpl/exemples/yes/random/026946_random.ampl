@@ -1,0 +1,1 @@
+program R : Z : takes W, X : integer; F61a : integer returns nothing chillax end N : takes QC6a, b : boolean returns boolean chillax end uA : takes r7 : boolean array; lO, D, l : boolean; F : integer; g : integer array; w : boolean; G : boolean; K43aa : boolean returns boolean array chillax end main : u : boolean; PT, x1va, m130a : integer array; chillax end

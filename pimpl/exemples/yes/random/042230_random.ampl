@@ -1,0 +1,1 @@
+program G : dOd0a : takes a : boolean array returns boolean P6H0a : integer; g, A2P0, c1 : boolean; output - 9120 - 6; do V0w0(- 9 - 27500); do C(4 = 2, 8); while 21400 : chillax end; input x end main : chillax end

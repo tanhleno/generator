@@ -1,0 +1,1 @@
+program q0 : p : takes iB : boolean returns boolean array chillax end v : takes x : boolean returns boolean array pop end main : while g(4) and false rem(8) and 1 or(7) : pop end; let I = - (940) /= 401; do c(- not 623); pop; output "" end

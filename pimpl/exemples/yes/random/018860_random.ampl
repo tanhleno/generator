@@ -1,0 +1,1 @@
+program w0c0a : U9 : takes j4Ua, z : boolean array; F, A, i : boolean; rV, y2 : boolean returns nothing let U[false and 58] = array 61000 and 9 end o : takes eQ, C : integer returns boolean array output 8 = 4 . 5 . 3; let cW = 3; let U[33] = array 7; output "cr!a"; do W(13); pop end main : H1 : boolean array; E2, cT1aa, ya, j, Q, KP5 : boolean array; chillax end

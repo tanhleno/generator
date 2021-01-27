@@ -1,0 +1,1 @@
+program B : A : takes doo, oCUaa : integer array returns nothing while - true and 61 - 3 - 5 : chillax end end main : do C(842 < true + (811) and 6 or 6330); when case - false - I0 + 6 : chillax end case(6) and 81 >= 827 : chillax end end

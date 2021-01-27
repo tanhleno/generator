@@ -1,0 +1,1 @@
+program lU : T7 : takes KM, k : boolean; p : boolean returns integer array output "e" . "" . "" . "" . ""; output "!" . 458 . 0 . "j" end main : I : integer array; Lv, D1, I : boolean array; pop; do G(true and CE and 6, - false and 7 - 1 - 9560 = - 84 - 74) end

@@ -1,0 +1,1 @@
+program p : r : takes o, jq, k, cWB0a : boolean returns integer array x : integer array; chillax end main : d, G, x : integer array; s : boolean; I6, brM0a, wq, g : boolean array; input J[- not false] end

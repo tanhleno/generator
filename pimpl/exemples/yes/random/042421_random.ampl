@@ -1,0 +1,1 @@
+program q : I8 : takes x : boolean array returns integer array chillax end V1g0a : takes n, Uv40a : integer returns nothing while 372 - 20 >= 4 : when case 70200 : chillax end end; input f4 end main : QW, Q9 : boolean array; h, u, F : boolean array; let D[- i or not not 7 - true and 4] = - 97 = - true and 13 + 85100 end

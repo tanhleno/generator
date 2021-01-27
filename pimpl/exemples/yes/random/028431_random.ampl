@@ -1,0 +1,1 @@
+program o : UY2 : takes s, G5 : integer array; d : boolean array returns nothing chillax end c : takes zc30a : boolean returns integer output 22 end main : let K3[4] = array(99600) * sig(485) or true or true and 97 - 3 - 672 end

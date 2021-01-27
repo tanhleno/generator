@@ -1,0 +1,1 @@
+program sBa0 : K1 : takes f : integer; l : integer array returns boolean array when case 3 and 01600 - 1 < - 883 : output 3 end case - 737 : chillax end otherwise : chillax end; input U8E0[1 - 5]; output "" . 01 end main : r, T, u : boolean array; pop end

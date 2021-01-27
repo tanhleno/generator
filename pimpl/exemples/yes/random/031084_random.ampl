@@ -1,0 +1,1 @@
+program V : W40 : takes DQ3, cjma : integer array returns nothing pop 1970; when case 764 - 601 <= 28 : do O(5) end case 4 : output "|a0a"; pop end case 2 : chillax end otherwise : chillax end; pop; output 0020 . "\tI!a" end main : pop end

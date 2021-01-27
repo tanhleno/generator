@@ -1,0 +1,1 @@
+program RV3aa : main : lO10 : integer; q : boolean array; pop; input _T2; do Wy(- not 9 + 1 - 60300 >= 8); when case - 1 > 9 : output ""; output "\t"; pop end case 37 : chillax end otherwise : chillax end; pop; pop 41400; input b; do BLv0a(75); pop end

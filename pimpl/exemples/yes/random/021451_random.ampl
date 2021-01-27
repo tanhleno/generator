@@ -1,0 +1,1 @@
+program n : O : takes P, u7 : boolean array returns integer array h : integer; while - cJ and 1580 + 717 <= - 4 : chillax end end main : when case not true + W rem n and 88 : chillax end otherwise : input l end end

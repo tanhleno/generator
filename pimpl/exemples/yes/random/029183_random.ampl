@@ -1,0 +1,1 @@
+program Ep9 : F : takes r1h, P1aa : integer array; yk2 : integer returns nothing W : integer array; o0A, P1N0a, _, HU8a : integer; chillax end main : S7, r : integer; Z9 : boolean array; output - not(08) or false and 88 end

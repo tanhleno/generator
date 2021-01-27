@@ -1,0 +1,1 @@
+program U : f2a : takes g7S : integer array; f : integer array returns nothing chillax end p : takes b : integer returns nothing Mf : integer; a : boolean array; U, k : boolean; YVn : boolean; X : boolean; do bY(80 - 754, 5 = 254) end K : takes r : integer array; u : integer array; c : integer array returns boolean array chillax end main : chillax end

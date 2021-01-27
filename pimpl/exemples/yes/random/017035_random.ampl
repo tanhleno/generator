@@ -1,0 +1,1 @@
+program K : wQkaa : takes t, r : boolean; zn, Lf, s : integer; i2 : boolean; Oo, s7, q : integer array; k7, usE : boolean returns integer u7, I57 : integer; e, R, _H, R3Ya : boolean; v59 : integer; Vj3 : boolean; chillax end main : chillax end

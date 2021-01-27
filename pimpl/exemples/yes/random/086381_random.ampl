@@ -1,0 +1,1 @@
+program zrG0 : main : LkE0 : integer array; n : boolean; U : integer; L : integer; let o = not 4 + (5) and 14100 /= - _ and 4; do bupa(false + n and 52); while - true and 34 - 1 - 23 < - 23 : chillax end; do o(- 68 - 6 < 5) end

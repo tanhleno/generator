@@ -1,0 +1,1 @@
+program iQ : i3 : takes F, x, c, n : integer array; u08 : integer array returns nothing chillax end pw9 : takes rp : boolean; d20aa : boolean returns integer array let T6E0a = 6 = 15; do KFc(08 = 0) end _5 : takes S840a, u : boolean returns nothing G, G : integer; let d = array 96; while 1 : pop end end main : w : integer array; while - t310a(6) < - (8) * (34) : chillax end end

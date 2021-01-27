@@ -1,0 +1,1 @@
+program Sc : DvV : takes l : boolean array returns integer array do F7(false and 14 <= 737, - 544 - 6 > 55000); while 227 : while 7 : chillax end; when case 2 : chillax end end end main : while e(59500) or false / false : chillax end; input a; let s[(46800) and 1] = array 6430 and 1; output "" . "" . 6 . "m"; while 42 = 6030 : output "" end; output "" end

@@ -1,0 +1,1 @@
+program n : F28aa : takes JJ, m, j35aa : boolean; G, b, O : boolean returns integer array u : integer array; d73a : integer; q2d0a : boolean; oP0 : boolean; let h = array j; output "\n" . "" end main : p : boolean; chillax end

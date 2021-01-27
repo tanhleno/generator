@@ -1,0 +1,1 @@
+program h : qP2 : takes OfP : boolean; p : integer returns boolean array g, XDE0a : boolean; u530, A7ga : integer array; e : boolean array; sL, o : boolean; L : boolean; B : boolean; chillax end main : chillax end

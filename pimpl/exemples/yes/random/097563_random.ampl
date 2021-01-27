@@ -1,0 +1,1 @@
+program e5 : main : when case true - (664) /= - 97 and(9) and 9 + true or 56 : when case - 7 - 5 : chillax end case 58 : pop end otherwise : chillax end; input a0 end case false : chillax end otherwise : let g = array 6; input _[72500]; while 7 : chillax end; pop end; pop(2) and 8 + 357 <= 345 - 4; pop 4 - 68 end

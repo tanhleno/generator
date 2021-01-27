@@ -1,0 +1,1 @@
+program eH : main : when case - (763) and 0 * not 94300 : chillax end; when case - I[95] : chillax end case - (451) and 7 + 0 - 63 >= 5 : output "" . "7j"; while 2 : chillax end end case 5 - 2 = 20 : chillax end case 2 : input B8; pop end case 3 : chillax end case 7 : chillax end end

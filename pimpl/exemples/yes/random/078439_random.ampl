@@ -1,0 +1,1 @@
+program Y : main : U : boolean; q, E, Y, GZZ, k : boolean array; V, vp, z : boolean; a5, t, E, SB00a : boolean; l0, Z : integer; kWO : boolean; B5 : boolean; when case - false - (816) / (7130) - not 6 and 42800 : chillax end; input e2_0a; let G[- not 50] = 27100 >= 5410 end

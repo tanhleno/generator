@@ -1,0 +1,1 @@
+program S : J : takes L, j, Bu, e76 : integer; F : boolean array returns boolean B9 : integer array; input M end CnI : takes r8C0a : boolean array returns integer array B8 : integer; b : integer; chillax end main : Mv0aa, Rm : integer array; oOF0, m : boolean array; uU70 : boolean; let B = 82700 * 8 and 1 = - not 99 end

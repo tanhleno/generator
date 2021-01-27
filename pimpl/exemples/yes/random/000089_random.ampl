@@ -1,0 +1,1 @@
+program R : VNp0 : takes O6, e, P, W8baa, k1J, zN, d, _ : boolean array; V, Os7a : boolean; k : integer array; pR00 : integer returns nothing y : integer; X : integer array; R, d : boolean array; m, v7d0 : boolean; let d = 3 >= 2670; do m(- 788 - 96700) end main : R86, F900, i : boolean; aq : integer; let u = array not 54100 - true rem(638) and 05 end

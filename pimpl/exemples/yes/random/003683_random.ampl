@@ -1,0 +1,1 @@
+program L : B8O : takes GQ, k, R, S, D : integer array returns boolean do N(- false - 1) end main : output - true + false and 55 . "6\"0" . "\t+\"" . "6"; input cds0[- 6]; let W9E[Ib and 51] = 050 <= 8; pop end

@@ -1,0 +1,1 @@
+program sU : b5 : takes AL6, K : integer array; gUgaa, A0oa, m : boolean returns nothing chillax end main : A : integer array; lhGaa, u, M1 : integer array; pop(693) and Q and 62000 >= - (36) and 32 + 77 - 6 end

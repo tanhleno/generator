@@ -1,0 +1,1 @@
+program U6 : main : t : boolean array; o, kW : integer array; rGD0a : boolean; output(872) . "" . - 18800 - 6; do dd(- p, true and 4 or 06 - 317 >= 78); output ";9" . 0; do K(525 <= 8, 177 = 5); let l3 = array 7600 end

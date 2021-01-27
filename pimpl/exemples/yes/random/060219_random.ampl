@@ -1,0 +1,1 @@
+program Y : J3R : takes g : integer array returns nothing bQ2a, U, m, y, D : integer; chillax end x5 : takes N3, J, L : boolean array; U7 : integer returns nothing chillax end e59aa : takes E, I, Q : boolean returns nothing d, URW : integer; uS50a, HxEa : boolean; chillax end main : pop; output ""; let y = 99 < 3 end

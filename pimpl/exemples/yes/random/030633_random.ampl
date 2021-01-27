@@ -1,0 +1,1 @@
+program L : U3Taa : takes OP, _ : integer array returns nothing N, xV : boolean array; F : boolean; Z : integer array; D, iV : boolean; lN : boolean; X0Taa : boolean; chillax end main : N8, Q, y9e0, d : integer array; input R end

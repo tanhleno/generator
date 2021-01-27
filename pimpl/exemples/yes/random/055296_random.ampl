@@ -1,0 +1,1 @@
+program p880 : MR : takes m4 : integer array; m4, hs6 : integer array returns nothing while - H2 + 26500 - 0 : chillax end end main : while - false : chillax end; while - true >= - false : chillax end end

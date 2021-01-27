@@ -1,0 +1,1 @@
+program E : DH : takes l, j : boolean array; E : boolean array returns boolean F50, L, Q8 : boolean; chillax end main : pY, N890a, F, dN9, Q8iaa : boolean; LEJaa : integer array; d, m, s4, jn0a, i : boolean; do t((8) + a and not 4460 + not 7940 or 1, 4 and true and 9 - not 7 and 421 /= - 2 or 9 - 9) end

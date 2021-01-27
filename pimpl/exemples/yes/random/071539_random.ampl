@@ -1,0 +1,1 @@
+program n3 : main : X, J, j2 : boolean array; u, K : integer array; ju60 : integer; FqU0, h, x, _SPa : boolean array; let rfO = array - l94(6, 0) and 9; input XKp; when case - true + 7 - 62 : input c23[1] end otherwise : chillax end end

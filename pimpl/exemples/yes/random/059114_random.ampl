@@ -1,0 +1,1 @@
+program IcWa : MV : takes W : integer array returns integer chillax end U : takes s : boolean; t : boolean array returns nothing when case - 2 - 6250 : pop; input H; pop end otherwise : while 796 : chillax end; pop end end OU : takes _7J, P, XD, uR, P, M : integer array returns boolean array output 6 end main : input Vv end

@@ -1,0 +1,1 @@
+program W8 : main : vm : integer array; D, W4, N, y16 : integer; when case - (60) and false rem false + 8 < true or not 6 and 2 : chillax end case - 1 : input K090a end otherwise : input O[7] end end

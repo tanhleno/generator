@@ -1,0 +1,1 @@
+program R : main : y, IC2 : integer array; when case - IP * not 86400 / (58400) and 0 + (037) and true and 9 - false - 0 - 93 < 3 or 5 and 99000 or 5 : do p14(- 106) end otherwise : pop; while 97100 : pop end; let V5s = 07; input J end end

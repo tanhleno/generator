@@ -1,0 +1,1 @@
+program i : main : when case - true - 3 rem Z /= (7) - 8360 and 9 : when case 6 - 8980 <= 021 : chillax end end case - 5 rem false < - not 6 - 66 - 0 : do j(85500 = 7, 57) end otherwise : output "" end end

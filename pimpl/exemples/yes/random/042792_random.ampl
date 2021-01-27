@@ -1,0 +1,1 @@
+program W5X : Zs : takes j : boolean array returns integer array input n[- not 9 and 30] end G9 : takes K : boolean array returns nothing chillax end Uc5 : takes p86, re : boolean returns nothing chillax end main : while false - not 67 rem 3 and 49 < - true or 8 or 5 - 7 : do a(05 - 36, 5 = 2); do pwb0a(5 = 1); while 8 : chillax end end; do M(- 2530 + (8) and 0) end

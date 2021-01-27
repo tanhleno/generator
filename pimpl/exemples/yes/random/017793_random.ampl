@@ -1,0 +1,1 @@
+program m : TNE : takes c, v : boolean; Tvt0 : boolean array; j6 : boolean; W : boolean array returns boolean array Mt : boolean; Et : boolean array; chillax end main : pop - false * Q and 5 >= - false and 3 end

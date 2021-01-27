@@ -1,0 +1,1 @@
+program t8 : F : takes HK80a : integer; li : integer array; H, a9 : integer; t, e9, Ki8 : boolean; T : boolean; O3, J : integer array returns integer array f1, u : boolean array; chillax end o : takes X : boolean array returns integer do w1(- 7 /= 1, 47 = 2240) end main : do e(- QL00a * (3350)); let L = - (1) and 771 + 92 >= - 4010 - 726 end

@@ -1,0 +1,1 @@
+program o5H : main : LG20, W, X0Yaa : boolean array; _T, M : integer array; P : integer; let F[- (9) - VDQ0a[0300] * true and 792] = array - (2 = 71); let t[- (2) / not 059 and 4 + (47) and 1 or 01500] = - false and 2; do rT(- true); let w[- 27 - 8] = array 523; let V[5] = 1; do iAn(061) end

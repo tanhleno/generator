@@ -1,0 +1,1 @@
+program _ : S2C : takes byM0, o0 : integer array returns boolean array input C[O and 0 or 49] end main : let u[not 171 - true] = - (43) < - (4) and 0 - 3 - 9; let i92aa = - not 90 - 44 - 05800 >= - 5 - 96 end

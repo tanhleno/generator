@@ -1,0 +1,1 @@
+program I5 : N : takes p : integer returns nothing vB : boolean array; EW : integer; when case(4680) and 2 or 00 - 5 < - 9140 : chillax end; when case - 6 >= 2 : while 3 : chillax end end case 42 : while 886 : chillax end; pop end case 76 : pop end end main : e90 : integer array; v : integer array; VY : integer array; E : integer array; chillax end

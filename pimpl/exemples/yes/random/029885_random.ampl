@@ -1,0 +1,1 @@
+program y : I9 : takes c, m4 : integer array returns integer array output "\n50" . 8 = 838 end main : LBW : integer array; while not false or false : input _ end; do n(- false - (1) and 4 or 9 - 290 /= - tT) end

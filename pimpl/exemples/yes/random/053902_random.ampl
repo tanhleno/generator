@@ -1,0 +1,1 @@
+program q : Y : takes _ : integer array; I, L81, u : boolean; Akwaa : boolean; a3 : boolean array; g, W, N, G2 : integer returns nothing chillax end main : while - 71 : chillax end; let FP[(9) and(70700)] = x and 6 - 0 - 20; input b1r end

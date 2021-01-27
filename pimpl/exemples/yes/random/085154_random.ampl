@@ -1,0 +1,1 @@
+program K : main : M0f : integer; when case - not false >= - false * e3R : pop end case - not 12 or G = - (7) or 03 - 14 : chillax end case(9) and 2 > - 7 : chillax end case 1 : do Z7(3) end case 47900 = 68 : output "Z"; pop end end

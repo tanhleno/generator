@@ -1,0 +1,1 @@
+program z : Dm : takes Y : boolean array; X62a : integer; y, c : boolean array; wL6, Y7, Eg, G : integer array; xq : boolean returns integer let k = - 0 = 6 end main : V, usY : integer; v5z, mT9, b, W25aa : boolean array; B : integer; x5 : boolean array; i : boolean array; M1, c : boolean; _ : boolean; G : boolean; chillax end

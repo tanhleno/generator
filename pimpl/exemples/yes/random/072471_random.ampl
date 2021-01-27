@@ -1,0 +1,1 @@
+program J : main : k, q54, q : integer; output ""; do D(- F69a[8] / (2) - not 8 - 939 - 04 /= - 70, - h >= 0); while true and 3 or 7 >= - 071 - 59900 : chillax end; when case 06 - 6 /= 0820 : pop; do N7h(1) end case 6 = 2 : input e end end

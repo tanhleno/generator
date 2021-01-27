@@ -1,0 +1,1 @@
+program Q30aa : Ggma : takes B1 : integer returns integer array a6y0a : integer array; f13a : boolean; chillax end main : while - g5L or 08 or false and 749 - 7 >= - 5 * true : when case - 7 >= 30 : output "\t"; let A19 = 7 end otherwise : let H = 713 end; do tl(0, 28) end; pop - true or 2 end

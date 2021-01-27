@@ -1,0 +1,1 @@
+program o : V : takes j, N : integer returns nothing Zl : integer; e4a : boolean array; T, z, Y : integer array; f2b, D : boolean; input V; output 2 = 1 . "" . ""; do S(4 = 0, 6) end main : KM : integer; do Z(false and Q7 - zmz(2) rem false and 5 - 6 and 872); while - 387 and false and 49 or not 624 and 130 > (334) and 6 : while 1 : chillax end end end

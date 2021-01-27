@@ -1,0 +1,1 @@
+program X8 : m1 : takes Z : integer array; B : boolean returns integer b, hT : integer array; chillax end sNh : takes X : boolean returns nothing R : boolean; input nA5[6650] end main : r, e, KV, U, Tr6aa, ch, Y7 : boolean; dP50a, kvja : boolean array; pop; pop - not 227 + 2750 >= 6 end

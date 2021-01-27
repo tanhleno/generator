@@ -1,0 +1,1 @@
+program d : kE9 : takes ui3, q, T6, vSv : integer array returns integer array XA, Z, cM9a, K : integer array; when case - D and 69 - 727 - 6 : chillax end case - 3 - 0 : chillax end case 3 = 0 : when case 89 : chillax end; pop end end K : takes c8x, z : boolean array returns nothing q : integer array; chillax end main : N : integer array; input W4S; input ZB end

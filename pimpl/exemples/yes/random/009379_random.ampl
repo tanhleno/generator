@@ -1,0 +1,1 @@
+program h : DaZ : takes B, k, h : boolean; QB6 : integer array returns nothing chillax end YX1 : takes sV4aa : integer array; tA40 : boolean returns nothing while 6 : while 381 : chillax end end end Ff : takes EA, J, BNT, l : boolean returns boolean array chillax end main : chillax end

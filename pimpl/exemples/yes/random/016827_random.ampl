@@ -1,0 +1,1 @@
+program xFR0 : Fp : takes Wq1, T : boolean; J, r, P, G : integer; H, nt60a, a8, H7, vN8, _69 : integer; R, O, Am30a : integer array; za10a : boolean array returns integer j2_aa : integer; fr, a, iQW, h : integer; G : boolean; HSK0, uB : boolean; chillax end main : t : boolean array; chillax end

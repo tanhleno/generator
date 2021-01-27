@@ -1,0 +1,1 @@
+program gk : main : when case - 28 * true or(3) / false and 56 : output 2; when case 90 = 17000 : while 878 : chillax end; pop end end case 48 + true : chillax end case true and 5 or 4 - 9 : chillax end otherwise : chillax end end

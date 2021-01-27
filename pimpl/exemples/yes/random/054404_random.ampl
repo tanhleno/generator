@@ -1,0 +1,1 @@
+program H370 : Z : takes t91 : integer array; y, Y : boolean; ox, f : boolean array returns boolean array pop; do D(- 88 >= 68) end Q : takes c : integer array returns boolean _ : integer; x, N9, H59 : integer; L : boolean; P : boolean; D : boolean; chillax end main : E : boolean array; x7, X, dQs : boolean; chillax end

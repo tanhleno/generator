@@ -1,0 +1,1 @@
+program _7Q : gX : takes u7 : boolean array returns boolean array chillax end main : while not not false or true = not false or not 8 and 1 : chillax end; when case - j - (83) and 8 + 1 - 841 > - 60500 and 773 or 5 : pop; input ILJa[1]; output "\\"; let o = 4 end otherwise : chillax end; pop - 80 - 0 end

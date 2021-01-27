@@ -1,0 +1,1 @@
+program FySa : jF : takes k, t : boolean array; W : boolean; j4 : integer returns nothing K220 : integer; chillax end iU8 : takes pJ, Tr : boolean array; M, Se : integer array; p, D, p : boolean returns nothing pop; pop end P220 : takes y : boolean array returns integer xEu : integer array; while 69 : do VF8(7); pop end; pop end main : chillax end

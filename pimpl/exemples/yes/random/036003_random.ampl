@@ -1,0 +1,1 @@
+program a : v : takes H : boolean; J1 : boolean array returns nothing av9, pd1, NUR0, Kc, OV : boolean array; I : boolean; o, T : boolean; W, Gtx : boolean; input U[- not 02000 + 4 - 5] end cNEaa : takes D, i590 : boolean; DD, V6 : boolean returns nothing p7, o : boolean array; chillax end main : chillax end

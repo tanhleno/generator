@@ -1,0 +1,1 @@
+program E : K8 : takes wT2, KP : integer array returns boolean W4oa, Y : integer array; K4 : integer array; while - not 8 and 0 : while 128 : pop end; do K(55300) end; while - 620 - 9 : chillax end; let tj = 7 end main : pop - (0) end

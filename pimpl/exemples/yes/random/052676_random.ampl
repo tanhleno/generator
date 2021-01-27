@@ -1,0 +1,1 @@
+program OmK0a : F : takes g7 : integer; FI : integer array; n6d0a, t6 : boolean array; y0, w, Z, t1a : boolean array; d6 : boolean array returns nothing D3 : integer; while - true : do L(4, 69) end end main : WFh0, Fr7, iUa, G4, A : integer array; chillax end

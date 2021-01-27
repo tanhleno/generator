@@ -1,0 +1,1 @@
+program X2 : main : while - not fft[789] * not a * k and 46 : do t8n0a(- 3 = 955); when case 96 = 2 : when case 89600 : chillax end; pop end otherwise : chillax end; do ne(095); let X5 = 93; output "5g"; pop end; when case not false > - not 50 and 67 : pop end end

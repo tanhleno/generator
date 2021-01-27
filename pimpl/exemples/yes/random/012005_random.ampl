@@ -1,0 +1,1 @@
+program Z : T3_a : takes N, VD, x : boolean returns integer output "2U" end main : n, DU, N02, AM, T : integer array; while - (5) or not(3) > - not false + not 9 and 8 or 100 : while - 357 - 34 = 927 : while 78 : chillax end; pop; pop end end end

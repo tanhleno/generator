@@ -1,0 +1,1 @@
+program Ol : z6 : takes _, j : boolean array; cz30, I26 : integer array returns nothing while true - 30 - 281 : let Y[283] = 2 end end Q0f0 : takes k65, oi6, g : integer returns nothing do c(83 /= 355) end main : output 869 + true or 34 - 0 . not 7 and 38 + 8 >= 9; output "I"; pop 2 - 027 end

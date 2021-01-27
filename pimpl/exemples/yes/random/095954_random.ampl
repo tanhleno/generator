@@ -1,0 +1,1 @@
+program r : main : when case - V6k(301, 8) * KZ(2) / true - YW1(065) = f[9] and(7) and 590 + true + 378 : chillax end case false = true and 15 - 28400 : let s[0] = 1; pop end case - not 9 + 5 - 6 : pop; let D = 4 end; pop end

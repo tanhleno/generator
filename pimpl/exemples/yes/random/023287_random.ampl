@@ -1,0 +1,1 @@
+program WNja : D8 : takes n, I : boolean returns boolean L5 : integer array; chillax end main : X : boolean; while 386 : chillax end; while true - (7) and 44 : output "" . 0730 . ""; pop 57 end; let WW[- not 7 - 1 - 50] = array - (106) and 679 end

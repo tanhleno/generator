@@ -1,0 +1,1 @@
+program V : G : takes A : boolean array returns nothing when case - q and 241 : output "\t\"" end case - 6 - 67400 : let w37 = 0; output "" end otherwise : pop end end main : c : boolean array; chillax end

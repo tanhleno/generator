@@ -1,0 +1,1 @@
+program Np0 : n960a : takes m93aa, X16 : integer array returns nothing chillax end R : takes b21 : boolean; O, z42a, B2, gc, R, F : integer returns boolean array a : integer array; chillax end main : _4, l, E, d, W : boolean; nu2aa, k6, pf : integer array; chillax end

@@ -1,0 +1,1 @@
+program X : hZ : takes S : integer array returns nothing chillax end fEQ : takes uE2 : boolean array; M : boolean array; mF8, z7a : boolean array returns integer array pop; input GG4[1]; let h[2] = 0690; input D; do l(1); pop end main : output "" . D5 or 7 <= 6 - 3950 . ""; let Qo5 = array not P5 or 5 end

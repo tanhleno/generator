@@ -1,0 +1,1 @@
+program _ : F : takes ue0 : boolean; ux20a, n : integer; E7 : boolean; kg, V : integer returns nothing do Tz60(- not 1 and 0 + 74 /= 26 - 682) end ZSe : takes H : integer returns boolean chillax end main : let O1 = array false + not 5 rem VD00 - 29 + 75; let m6_[- true rem Y4 - not 81 and 9 or 19 - 357] = array not bJ or 8 or 39 - 1; output "5" . "" . "3#!a" end

@@ -1,0 +1,1 @@
+program T : B : takes jw7 : boolean array returns nothing zCV0 : boolean array; do K(5 > - 270 - 61, 776 - 5 = 6); when case - 931 - 3 : let A5 = 1 end case 6 : pop end case 3 : chillax end case 9 : chillax end otherwise : output "]'" end end main : v, T, A9x, P : integer; p, Bi, Q, MdT, l : integer; chillax end

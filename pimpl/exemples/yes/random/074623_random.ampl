@@ -1,0 +1,1 @@
+program Q : main : GzP, eCQ : boolean array; qV, HN, m81a, S : boolean; pop - true <= true and 8; while - false / (32700) and 2 or 0 and 09 + 5130 > - q and 7 + 8 : pop; let v[67] = array 4; pop; when case 3 : chillax end end end

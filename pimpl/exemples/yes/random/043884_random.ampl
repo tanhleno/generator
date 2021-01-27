@@ -1,0 +1,1 @@
+program R : S810a : takes a84aa : boolean array returns nothing do F(TQHaa /= - 4 - 4) end main : yjv0a : integer; Lj2a : integer array; al5, x : integer array; Y0 : boolean array; e2 : boolean array; z82 : boolean; Sk : boolean; input m[not o rem not not 905 + (52) rem 50000 and 1 or true + 5 - 1000] end

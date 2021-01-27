@@ -1,0 +1,1 @@
+program Q24 : U : takes Po : integer; X9, _ : boolean; f : integer array returns nothing chillax end C : takes j6 : boolean returns nothing l0S : integer; _7 : integer array; o, v : boolean; x : boolean; X8X0 : boolean; chillax end main : Nf30a : boolean array; lN2, Y : boolean; d0, x : integer array; _ : boolean; chillax end

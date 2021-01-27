@@ -1,0 +1,1 @@
+program D : A2Waa : takes u : boolean array; i0, X, X92a : boolean array returns nothing chillax end s4c : takes x95, j : boolean array returns nothing input e8[- 8 - 59]; output 938; output 1 . ""; while 178 : chillax end end main : T, a8 : integer array; v, Z, i7 : integer; U, rw : boolean array; chillax end

@@ -1,0 +1,1 @@
+program te : fo : takes GEn0 : integer array; S2X0 : boolean returns boolean array while - not 4 and 2 <= - 35 - 85 : chillax end; output 00 . 2 . "" . "\"5\"" end main : n0m, a : boolean; chillax end

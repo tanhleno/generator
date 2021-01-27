@@ -1,0 +1,1 @@
+program R : main : B, F, Z : boolean array; nt1 : integer array; y : integer; o : integer array; when case false : while - 89 - 9 = 8 : output "$" end end case - G(91) / JS - false and 55 or 4 - 66 : chillax end end

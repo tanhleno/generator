@@ -1,0 +1,1 @@
+program C : main : hk : integer array; a : integer; of50, CG : integer array; eG : boolean; pQi, x : boolean array; i : boolean; let T730[- (3 = 3)] = array - (8420) / not true rem false and 3 or true + true and 601 + 95 end

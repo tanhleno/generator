@@ -1,0 +1,1 @@
+program L : TB : takes U, Z : boolean returns nothing Kb, x : integer; I : integer; z, v, JM : boolean array; output 3 - 5; while - 4 - 82 >= 2 : when case 88 : chillax end end end main : J, j3, YQ : boolean; c, e : boolean; chillax end

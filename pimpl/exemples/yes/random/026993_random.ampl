@@ -1,0 +1,1 @@
+program x : x3 : takes P, G0i : integer; G520 : integer returns nothing M : integer array; n, Uv : integer; S5w : integer; input F[tBBa + 0 - 1] end main : ZSZ0 : boolean array; F : integer; j : integer array; chillax end

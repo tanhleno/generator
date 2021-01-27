@@ -1,0 +1,1 @@
+program u6yaa : _O50 : takes w, Ts3, H6da : boolean array; G : integer; x : boolean array; Y, RN : integer array; teXa : boolean array returns integer array Q : integer; chillax end main : z, mOo, t, Dwk, X : boolean; w, mO, s, DP : boolean array; kK, GD6aa : boolean array; X, H : boolean array; chillax end

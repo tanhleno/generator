@@ -1,0 +1,1 @@
+program S : main : let k = array - not(85800) rem true; when case - true * not 87 : do G(7 = 1, 5, 1) end otherwise : do o(40, 7); when case 2 : chillax end; input TP; pop end; let LAY0 = 5 - 81; while - 20 - 37 : chillax end; when case 0 = 8 : chillax end; while 87 : chillax end; do C(3); pop; pop end

@@ -1,0 +1,1 @@
+program g : kD : takes HJ3aa : integer array; Ab, gv, Ay5 : boolean; Tqk0a, cN, J : integer; N, X : integer; BZ, C : integer returns nothing input o[s or 3 - 9]; while 3 - 07 : do FS(09) end end T6y : takes T, hm6 : boolean returns boolean array chillax end main : chillax end

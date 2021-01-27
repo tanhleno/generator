@@ -1,0 +1,1 @@
+program S : Fc : takes q : boolean array returns integer array r, F4 : boolean; n : integer array; chillax end u : takes B : integer array returns boolean array pop 5650 = 409; output "" . 5; let zD = array 440 end main : wA, z7 : integer array; R2c : integer array; input R; when case - 4300 / not 1 - Z + 06 : chillax end end

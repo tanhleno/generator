@@ -1,0 +1,1 @@
+program Ie6 : f : takes rT90, K7h, Y7 : boolean array; nC3 : boolean array returns boolean e : boolean array; output 55 - 59 /= 7; let b[66 - 0] = array - 3 - 273; let U = array 50600 end main : v__ : boolean array; do r50(- not false and true <= Q5l(7) and not 27 or not 127, false, - false + 8); let G[- not 616 rem not 8 - not 3 and 5] = - (945) and 0 or 2 end

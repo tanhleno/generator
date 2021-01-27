@@ -1,0 +1,1 @@
+program BW2 : main : k8 : boolean; W85 : boolean array; y, e7 : integer; l62 : boolean; r : boolean array; k7, d47 : boolean; m : boolean; while - 9 < (4) * (4) and 13 or not 1 + 8 : chillax end; let q = array - 2 * not 19 - false - 0; output - 1 - 7; while - 0 : input Y6H0a end end

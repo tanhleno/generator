@@ -1,0 +1,1 @@
+program f55 : S7 : takes OqV : integer array; q1b, l, M630a : boolean; Q5 : boolean; dr, u2z, K4, g : boolean; N5 : integer array returns nothing V : boolean; when case Bs - 80000 : let x20 = array 81 end otherwise : while 25 : chillax end; when case 2 : chillax end; pop end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program a : _ : takes O : integer returns nothing chillax end main : PEo : integer array; pop - U rem true and 08; input E[false / not 6 and 4 or(8) and 7460]; when case - false - 4 - 1 <= - 7 : while 0 : chillax end end otherwise : when case 542 : chillax end end; output "P" . "" end

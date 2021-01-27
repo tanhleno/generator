@@ -1,0 +1,1 @@
+program S8 : main : do o(not(7) - X0(547) / 9320 and 3, - false + (77400) and 03 or 6 - 5670 /= false and 9); pop; when case false or 5 /= - 49 - 3 : when case 12 : pop end case 59 : chillax end; pop end case - 3 : while 36700 : chillax end; let X = 5270; pop end otherwise : chillax end end

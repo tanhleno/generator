@@ -1,0 +1,1 @@
+program J : i : takes m6 : boolean array returns nothing p : integer array; c : integer; when case 4 and 18 = - 89 - 1 : input C end; while - 18 : chillax end end main : A4 : integer array; while - false * 8 or 53000 rem not 2 : chillax end; pop end

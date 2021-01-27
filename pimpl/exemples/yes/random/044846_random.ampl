@@ -1,0 +1,1 @@
+program f : M : takes L : boolean array returns nothing g : integer array; F2, U, e : integer; chillax end main : while - not not true + (98500) rem y8 and 7 or y310a and 7080 : output 81600 . "," end; do r(- 2 * i or false and 96 > - not 99 and 1 + 80); output "91" . "" . "" . 1; pop 4 end

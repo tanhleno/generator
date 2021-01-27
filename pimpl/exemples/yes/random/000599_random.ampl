@@ -1,0 +1,1 @@
+program Z2T : p : takes u83aa, Bc, q8, T, Y3Y, I, dH : boolean; x : boolean returns boolean pop; let cT[- 0 - 92] = 96400; while 4 : input z4J0a end; when case 440 : chillax end; while 1 : chillax end; input Q7V0a end main : F, E48 : integer; F, D, W1D0, l05aa : boolean; let V5 = array false rem o + 6 * n end

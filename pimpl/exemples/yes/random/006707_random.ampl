@@ -1,0 +1,1 @@
+program z : vX : takes A5, VZ, F, xX : integer; jb4 : integer array; HG, sQ, R97a, S, B, o : integer; X, D730a, w4, Y, r : integer array returns nothing chillax end main : S5R, e : integer array; uRV0 : boolean; do w(- true + true + not 9 + 0 - 30000); input L2; pop - 6 < 2; output ""; pop 1 end

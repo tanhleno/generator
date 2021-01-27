@@ -1,0 +1,1 @@
+program x : xJ3 : takes E : integer array; W, W, R4N0 : boolean returns boolean array chillax end F : takes sQiaa, q, p : boolean array; C, Zhm : integer; I3E : boolean returns nothing Z, bc, iJ, D : integer array; while 221 - 94 : chillax end end main : L33, P : integer; b : boolean; chillax end

@@ -1,0 +1,1 @@
+program F : m : takes R : integer; K : integer; oPO, W : integer; h67, n : integer array returns nothing S, a, S, b12a, T7S : boolean array; x, I9da, F : boolean; chillax end A : takes H8, f : boolean array returns boolean pop 38; do D(67100); pop 3 end main : F : integer array; let qCIaa = true rem(4) and 67 or 7 = - OP7a end

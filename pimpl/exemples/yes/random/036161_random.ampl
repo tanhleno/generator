@@ -1,0 +1,1 @@
+program gq : I : takes tL : boolean; _ : boolean returns boolean F, F, N2 : integer array; do U2(- false <= 8, - 647 - 718 /= 99, 46 = 932, 82, 2); pop 31 = 8; output 5 . 8 . "4&" end B2 : takes GM : integer; e, o, V3, v0 : integer array returns integer H7, I : boolean array; chillax end main : chillax end

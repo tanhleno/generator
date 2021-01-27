@@ -1,0 +1,1 @@
+program R : B : takes a7s, x0N0a, x : integer array returns boolean chillax end t : takes ju, C, X : boolean; X99aa, bj : integer; P, x, S890a : integer array returns boolean an, R14, W, IE : integer array; F : boolean array; WTc, E2g : boolean; chillax end main : input Wop[not false or P[2] rem true and 3]; input h[- 6 * (1) and 24900 or true] end

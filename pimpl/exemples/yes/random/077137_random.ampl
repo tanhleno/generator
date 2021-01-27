@@ -1,0 +1,1 @@
+program d : main : g, T : integer array; s, c, F2o, _ : boolean array; JW : boolean array; _6K, y : boolean array; a, u4N0a, Dl : integer array; y : boolean; Z : boolean; when case(519 = 6) or 46 - not 78 and 24 : input G[4 - 9]; while 6 : chillax end end otherwise : chillax end end

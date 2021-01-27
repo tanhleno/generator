@@ -1,0 +1,1 @@
+program d21 : K : takes It4, Hv : boolean returns nothing chillax end W : takes n8 : boolean array; T, T880 : boolean; s, f, L0, P0, m : integer array returns nothing Z3 : integer array; chillax end KqCa : takes B : boolean; J, UU1 : boolean array returns boolean array By, v : boolean array; i570, Mc : boolean; while 507 = 23 : let o5 = 13; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program A1 : r : takes cI, Y6 : boolean returns nothing X : integer array; chillax end w : takes Ww : boolean; b, t : boolean array returns nothing let I = 74 = 729; while 5 = 1 : chillax end; pop 16; while 7 : chillax end; while 5 : chillax end; pop end main : chillax end

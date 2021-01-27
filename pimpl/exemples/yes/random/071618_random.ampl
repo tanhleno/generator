@@ -1,0 +1,1 @@
+program Y : main : NU, B6, x : boolean array; C : boolean array; g2 : boolean array; do h8(- (53) + H93 or true and 2230 or 9 >= - (39), not true / false and 19 or not 3 or 65 - 795 >= B + 5 - 248, - true and 54100 or 59 - 62 = 2 - 09, - 2 < 3) end

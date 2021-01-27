@@ -1,0 +1,1 @@
+program _ : K : takes tL : boolean; c2 : integer; Ml1aa : integer array returns nothing pop - 8 - 473 > 0 end main : j8, S : boolean; A2U : boolean; input Y8; output "5:" . "#"; let g = array - (540) and 09100; input X end

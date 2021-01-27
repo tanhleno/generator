@@ -1,0 +1,1 @@
+program U : ZA : takes H : integer array; G1, i : integer returns integer array _ : integer array; CFi : integer; input hl; output 06 = 13 . 7; input j end J0 : takes L, R : boolean; j, wj : boolean; o8, C : integer array; p : integer array returns nothing output "59" . "\\" end main : P : integer array; B, Z4, f51, GHx : boolean array; m, gX, o7 : boolean; chillax end

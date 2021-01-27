@@ -1,0 +1,1 @@
+program zP : E92 : takes Wu : boolean; D, W, G0D0 : integer returns integer array LWu0 : boolean array; chillax end p : takes f8aa, q1, U : integer array; i, q, QQ, M, Gn, kV : integer array; r, W, T2, n, W : integer; sOaa : integer returns nothing let nzw = array - 4; do Lrh(6, 076, 60700) end main : l, Y : integer array; output ""; do L(not 6 / 5 or Op and 3) end

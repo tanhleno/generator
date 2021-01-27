@@ -1,0 +1,1 @@
+program D : main : when case - v[17] rem true and u and 1 + false - true : chillax end otherwise : let n = array 8 end; let Q = array - 0 and(3) and 1; while not 1780 : output "2"; output "[" end end

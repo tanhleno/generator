@@ -1,0 +1,1 @@
+program P : L : takes Cx : boolean array; j : boolean array returns nothing do R(- false and 3740 > - 75) end main : y, o, r, p, K : boolean array; BC3 : boolean array; input O9; when case - C = not 77 : when case 6 : chillax end otherwise : pop end end; let K2[92 + 524 - 7] = array false and 65 end

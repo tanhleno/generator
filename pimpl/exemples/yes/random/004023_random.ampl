@@ -1,0 +1,1 @@
+program k2 : Mw3 : takes u, Q, c6o0, y1, B9 : integer returns integer g6, y, e, Hc00 : integer array; Db : boolean; W : boolean; u, EH : boolean; pop 7 < 58700; while - 65 - 4900 = 7690 : chillax end; output "1" . 09; pop 0; input V2; when case 88 : chillax end end a1 : takes w : integer array returns boolean array chillax end main : chillax end

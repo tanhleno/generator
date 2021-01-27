@@ -1,0 +1,1 @@
+program q : d : takes j : integer array returns integer chillax end main : output - sc(7); let B[- (6) rem zd - V] = array not 2 / false and 58; while - true and 3 = - 56 - 92 : pop 32 end; let M[51] = 66900 = 78; when case 208 : when case 6 : chillax end end case 7730 : pop end; when case 61 : pop end case 09800 : chillax end otherwise : chillax end end

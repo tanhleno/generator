@@ -1,0 +1,1 @@
+program _ : Ss4 : takes X6xa : integer; _, k1R : boolean array; i : boolean array; t2 : boolean array returns nothing when case(46) and 3 - 8 - 2 : input Zt[23] end otherwise : chillax end end main : input c; when case - not 94 : do K(9 = 9, 49, 3); pop end case - true /= - 975 - 7 : pop 00 end; pop 3; while 52 - 1 : while 07 : chillax end; input d9; pop end end

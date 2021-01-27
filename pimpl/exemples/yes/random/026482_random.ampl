@@ -1,0 +1,1 @@
+program gT : m : takes ge5a, B : integer; K : integer; iS20, z, D : boolean array; R5ba : integer array; N, J : integer returns nothing while m and 40 or 3 > 15 - 9020 : chillax end end main : when case - (43400 = 777) + not not 0 and not 26 : chillax end case - n(8) - (5) and 926 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program nov : B : takes oYD : integer array; I, Z : integer array returns nothing jI : boolean array; k, t : integer array; C, Om, pF : integer array; O, bFOa : boolean; fp6 : boolean; chillax end main : f : integer array; f : boolean array; output t[6] >= - not 0 + 3 - 7 end

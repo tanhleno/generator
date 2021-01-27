@@ -1,0 +1,1 @@
+program t4i : Q2 : takes n69a, tsxa : boolean array returns integer while - true and 424 /= 50 - 7 : chillax end end vGX : takes C, lKN : boolean; V, V6 : boolean array returns boolean chillax end main : z, PDW0a, b, aG : boolean array; L44, O : boolean array; let t = - true + 6 + 0 end

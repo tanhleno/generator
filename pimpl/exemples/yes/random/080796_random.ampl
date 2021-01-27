@@ -1,0 +1,1 @@
+program NM : main : Q : boolean array; H, a9, B, v, A, Z : boolean array; while - (5) * (3) rem true - false rem(0) : chillax end; when case false and true or qvg and 7 : let l = 8 end case - (8) and 0 or 0 >= 444 - 5 : chillax end case 8 - 7 : do h(41900); while 35 : chillax end; pop end case 67 : pop end otherwise : chillax end end

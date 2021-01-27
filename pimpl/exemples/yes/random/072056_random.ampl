@@ -1,0 +1,1 @@
+program l : main : n, o4, K7u : integer; LB00a, B, p27 : integer; Q, d, fH, bz40 : boolean; M : integer; J5 : boolean; let K880a[42] = array(8 = 8) or C7(4410) and true; do i(- true > true and 81 + 81500); output 94; input N2 end

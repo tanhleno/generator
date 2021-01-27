@@ -1,0 +1,1 @@
+program o6maa : main : while - 801 rem not 1 and false or not not 9 or not 550 : chillax end; when case - not 6 : do h(3, 6); let M = 338; input Z; while 56100 : chillax end end case - 39400 + 8 - 28 = - 1 : pop 29 end end

@@ -1,0 +1,1 @@
+program ZJ : main : ug_ : boolean array; p : integer; while 1 rem true * true and 1 > - true : when case 21400 < 41 : chillax end case 4 : chillax end case 4 : pop end case 5 : chillax end otherwise : input gwv0 end end end

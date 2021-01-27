@@ -1,0 +1,1 @@
+program d : zb : takes X8 : integer array; l310a, s : boolean; N, Mz : boolean returns boolean when case false < 866 - 583 : chillax end case - 08 - 1 : chillax end case 76 : chillax end; do Q(03) end main : ac, V1 : integer array; chillax end

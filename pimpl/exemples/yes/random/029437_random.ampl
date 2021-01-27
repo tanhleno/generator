@@ -1,0 +1,1 @@
+program I7 : BZ40 : takes Y, yj1 : integer array returns boolean array while true : when case 8 : pop end otherwise : chillax end; input C; when case 86300 : chillax end end; while 9 - 6 : pop end; do X(3 = 88); pop end n : takes n5la : integer array; H : boolean returns nothing chillax end main : chillax end

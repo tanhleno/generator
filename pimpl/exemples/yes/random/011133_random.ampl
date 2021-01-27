@@ -1,0 +1,1 @@
+program C : c6 : takes J, L, f : boolean array returns nothing do F9(- true and 8 or 1, - 01 - 94, 4 = 337, 48, 96) end n1 : takes X, i : integer array; h : integer returns integer rXS0a, Ht : integer; chillax end main : chillax end

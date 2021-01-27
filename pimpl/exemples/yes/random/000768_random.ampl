@@ -1,0 +1,1 @@
+program s200a : d : takes S, S, G, v8, F5Sa, _580, njdaa : boolean returns integer chillax end X : takes qF6 : integer array returns boolean let K = 95100 = 2; output 57 . 4550 . ""; while 5520 : chillax end end main : p, _5, A, c, c : boolean array; chillax end

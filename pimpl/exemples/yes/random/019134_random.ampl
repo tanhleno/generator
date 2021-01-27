@@ -1,0 +1,1 @@
+program d : iz : takes n, Cm : boolean array; u4, E68 : boolean; iE40, dg : boolean array; m9l, n3 : boolean array returns integer v : integer; chillax end main : Lo : integer; c : integer array; _, B : integer array; do m2(23, not 04 / m); do Ep((161) / (95) and 210 >= - false or 302 - 0, - u, 1 /= 70); while 6 > 0 : chillax end; do h9(1 - 9, 0 = 3) end

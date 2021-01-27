@@ -1,0 +1,1 @@
+program GN : Rm : takes T : boolean; R, Qn, X2U0 : integer returns integer d : integer; V, oO4, fN70a : boolean; V4 : integer array; l : boolean; b : boolean; input fg; input BY[4 - 6] end main : Vm, qn, l, I, c4, De : integer array; chillax end

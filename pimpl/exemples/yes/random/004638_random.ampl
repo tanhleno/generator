@@ -1,0 +1,1 @@
+program j : mx : takes r, w, o, k : boolean; G91 : integer array; L, bDR0 : integer returns integer e : integer array; do j(- not 141 and 0 + 8 - 1, 308 < 5) end main : output - not pW - true . "" end

@@ -1,0 +1,1 @@
+program B : main : J, H2 : integer array; do c67(- (986) rem false); while true or true and 4 < - L7 and 1 or 8 - 4 : chillax end; when case not 85 : chillax end case 5 = 24 : while 61 : chillax end; while 6330 : chillax end; pop end otherwise : chillax end; while - 1 = 6 : chillax end end

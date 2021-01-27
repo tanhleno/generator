@@ -1,0 +1,1 @@
+program X : x : takes E9f : boolean returns boolean nR0, s, qJ, R, sl : integer; while true - 83800 < 5 : output 8; input WJ end end B : takes hN9aa : boolean array; sJ, r : integer; _Y : boolean array returns nothing input oW[0]; let h[5] = 114; input wa[5] end main : input Na90; let cwG = array - Uk end

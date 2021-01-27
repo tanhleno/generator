@@ -1,0 +1,1 @@
+program n : main : h : boolean array; N, NA : integer; let B = array - (7); while - I[0] rem not 33 and 06 <= - not 7 + 13 - 3680 : while 8 = 5 : output "3" end; output "\n\""; when case 991 : chillax end end; do eo(- false) end

@@ -1,0 +1,1 @@
+program o : w090 : takes op : integer returns integer array chillax end M : takes l : boolean array; I : boolean returns integer array do r2(- 2 >= 5, 6 = 1, 2240) end o : takes G3u, P : boolean returns nothing do Hv5(05500, 16800); output 8; pop end main : pop end

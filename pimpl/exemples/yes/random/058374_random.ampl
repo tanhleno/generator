@@ -1,0 +1,1 @@
+program E : r : takes i3 : integer array returns boolean yP8 : boolean array; input x790a[- 32 and 068 + 398 - 3]; output 747 = 106; pop 371; output 4; while 30 : chillax end end main : u, U9E : integer array; y23a, Y : boolean array; _ : boolean; b, KI, D : integer; chillax end

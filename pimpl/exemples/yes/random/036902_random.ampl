@@ -1,0 +1,1 @@
+program K : q34a : takes NZ40 : boolean; o0 : integer array returns boolean array chillax end Uq : takes Z2, p4 : integer returns boolean chillax end y : takes P590 : boolean array returns boolean output 5 . 1 . "" end main : chillax end

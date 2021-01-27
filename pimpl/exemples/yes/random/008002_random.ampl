@@ -1,0 +1,1 @@
+program XJ : a2 : takes E, q, k, Cf50a : integer returns boolean M : integer array; chillax end main : do PR(- not 37 + (0) = 6 and 9, - true /= 32000, - 9 and 4); pop - (2040) and 745 or 9 - 61 > 8870 - 86; do to(- false and 0, - 0); output 6 = 229; output 7430; output 00; do b45(011); pop end

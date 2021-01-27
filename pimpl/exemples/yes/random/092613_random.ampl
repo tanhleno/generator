@@ -1,0 +1,1 @@
+program K2 : main : output f[01] or true; when case 5 : while 2870 = 33 : chillax end; pop; when case 859 : chillax end end otherwise : when case 07 : pop end case 46 : chillax end otherwise : chillax end; input g; while 9 : chillax end end; while false and 57 - 1 - 2 > - 1370 - 5 : while 3 : pop end; pop end end

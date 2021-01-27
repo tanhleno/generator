@@ -1,0 +1,1 @@
+program E2 : e : takes Hz, s, B : integer; R : integer; H5, T4, j : boolean returns nothing h, lhr0, H : boolean; Ke : integer; hY : boolean array; d : boolean; chillax end P : takes Ob : boolean returns nothing chillax end main : input e; when case not true * 02100 and 013 : chillax end end

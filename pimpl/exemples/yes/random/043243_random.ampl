@@ -1,0 +1,1 @@
+program ZG8a : G : takes A : boolean array returns integer q : integer; when case - not 2 >= 796 : chillax end case 62 : chillax end end main : when case - B(28, 6) / (2440) * (9) and 13 >= - not true : chillax end case(1) and 6 : chillax end; let c[7 - 2 or 255] = not 817 and 210 or 8 > 8850 end

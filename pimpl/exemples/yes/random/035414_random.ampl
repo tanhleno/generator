@@ -1,0 +1,1 @@
+program M : N23a : takes V : boolean; U : boolean; L6, E : boolean array returns nothing p : boolean; while false and 6 < - 9040 - 1 : pop 7 end end hm4 : takes cW, gV, F : boolean returns nothing let u[- 17 - 2] = 0 = 9 end main : do q(8 rem true and true /= - false rem true + false); do B(5 * true - (8) <= not 8 and 3) end

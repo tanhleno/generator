@@ -1,0 +1,1 @@
+program I : M740a : takes Z, z1, L8M0a : boolean; E3 : boolean; p, V04a : boolean returns nothing O, e, m, PE30a, G8 : boolean array; chillax end xSQ : takes L, M1P, L0X0 : boolean array returns integer array let t[78700] = array 46 end main : chillax end

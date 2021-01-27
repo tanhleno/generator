@@ -1,0 +1,1 @@
+program cV : t : takes Tk0, s0n : boolean array; u : boolean array; Y0oaa : integer returns nothing chillax end N3 : takes L8, S, K7Aa, Gq, pAG0a, XI : boolean returns boolean chillax end main : I3, M, _17a, L1, fu : boolean; input r[- false + true] end

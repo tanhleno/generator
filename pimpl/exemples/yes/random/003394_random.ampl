@@ -1,0 +1,1 @@
+program yV : X : takes ZW, h, x0, R62aa, o : integer array; h, d4, Jg, F1 : boolean; k, g, Y, k56, Fd0aa : boolean returns boolean k7 : boolean array; Yq : boolean array; pop; let o = array - 62 end main : chillax end

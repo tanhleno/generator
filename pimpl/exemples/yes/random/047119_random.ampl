@@ -1,0 +1,1 @@
+program ga : pl : takes w : boolean returns integer g8, X : integer array; k, C : boolean; chillax end OG : takes g, O : boolean array returns boolean array t3Ta : boolean; z, U : integer array; chillax end main : i, s : boolean; z, N, b : integer; chillax end

@@ -1,0 +1,1 @@
+program oP : r7 : takes i, k : integer array; p : boolean array returns boolean U : boolean; X, b0 : boolean; O78a, _, k : boolean array; do As4aa(- true, 169 - 21 = 26, 3 = 77) end S : takes L : boolean returns integer D : integer array; when case 4 >= 088 : do NO(2); let B = 56; pop end case 3 : chillax end otherwise : chillax end end main : N : integer; chillax end

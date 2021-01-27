@@ -1,0 +1,1 @@
+program H83aa : q : takes y : boolean array; F, J : integer; u, M, O : boolean returns boolean chillax end main : pop(85) / true and 2 >= false; output - true and 1 >= - 4 - 35 . "j" . "" . 5; do g(- dc5 and 559 <= 4 - 94800, - 677 < 26); output 66 = 75 end

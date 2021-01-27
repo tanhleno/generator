@@ -1,0 +1,1 @@
+program W : w : takes p, k : integer array; Y, J : boolean array returns integer array L8 : boolean array; pop; input O end main : n510a : integer array; let H7p = array not not not 93 / 2 rem(25) and 6330 or not 1970; let Gv8a[- U[7] rem true - (69200) - 8 - 3120] = false and 0 - 56 - 7 > - 45300 - 39 end

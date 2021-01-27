@@ -1,0 +1,1 @@
+program u : K : takes X, cB, j : boolean array returns nothing t, R : integer array; k : integer; output ""; let d[4] = array 99 end main : PnI0a : integer array; output ""; let Ou7 = array true + WL and 80 end

@@ -1,0 +1,1 @@
+program s : F : takes x1, e : integer returns nothing when case - Ab2 and 02 or 2240 : chillax end; when case - 69 - 5 > 4 : chillax end otherwise : chillax end end main : E0aaa : integer array; chillax end

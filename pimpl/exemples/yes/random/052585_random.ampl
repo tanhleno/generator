@@ -1,0 +1,1 @@
+program qU : kMC0 : takes dw : integer; HQv : integer; N : integer array returns nothing W : integer; a : integer array; pk, G, Q3Naa : boolean; R27, m : boolean; Q : boolean; input F8[true] end main : U, y : integer array; RuG0a, f : integer; let Z[(93)] = array not not 2; while false >= not 6 and 6 : chillax end end

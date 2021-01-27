@@ -1,0 +1,1 @@
+program z : C87 : takes y5, Q1C : integer; I7 : integer; VoBa : boolean; y3 : integer returns integer chillax end kO : takes o_Naa : boolean array; LA : boolean array returns integer array let zo[- 5 - 4] = array 7080; output 2; do x(22, 41); when case 0 : chillax end end main : input x; when case not 10 : chillax end end

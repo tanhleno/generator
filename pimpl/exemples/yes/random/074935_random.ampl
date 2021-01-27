@@ -1,0 +1,1 @@
+program I3p : main : JU, P : boolean array; Fura, C92aa : integer array; wOq : boolean; do r1h(- S[4] / true and B and 7 - h(0) or true, false / OZx, - not 822 and 2 - 3 >= 1 - 4, 2 - 8950, 9 = 07, 1); let e[- true / false - not 2] = array - p * false end

@@ -1,0 +1,1 @@
+program QIj : m : takes S, Y, o, H, WZR0a, z : boolean returns nothing jU9aa : boolean; _ : boolean; F : integer array; do y050(true and 29, 40700 > 14, 4 = 069, 7, 20); let v[- 6 - 4] = array 8 end main : chillax end

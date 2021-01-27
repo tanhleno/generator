@@ -1,0 +1,1 @@
+program Zi1 : s2 : takes K1, X, i9C0a, Rgeaa : integer array; u : boolean array returns nothing v : integer array; pop 4 - 8 end main : h7 : boolean; d2l0, Z, G, C : boolean; q, T, A, J790 : boolean; O : integer; chillax end

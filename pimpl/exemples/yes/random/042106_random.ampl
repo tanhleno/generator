@@ -1,0 +1,1 @@
+program y8 : X : takes H9 : boolean array returns boolean t, P, X7p : integer array; pop 366 - 4 end _s3aa : takes L1, _, R, q85 : integer array returns nothing input h[78]; pop; let z[3320] = array 9; output "+F!a" end main : asGaa, K, C2p, p5S, r, e6, j : integer; D : integer array; chillax end

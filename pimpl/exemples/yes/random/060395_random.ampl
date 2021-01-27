@@ -1,0 +1,1 @@
+program J59 : _5B : takes g5R0 : integer array returns nothing au, u, N : integer; c : integer array; u, J89aa : integer array; s9 : boolean; zd90a : boolean; B8 : boolean; chillax end main : w, N : integer array; while - true * (8850) or false * 67 and 81 : chillax end; output ">" . - 6 - 4 . 2; do P(- false = 29 - 3, 6 < 76700, 44, 48, 1); when case - 6 : chillax end end

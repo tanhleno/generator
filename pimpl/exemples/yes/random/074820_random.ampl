@@ -1,0 +1,1 @@
+program k : main : DtKa, a : boolean array; x, o : boolean; when case - (3) >= true : chillax end otherwise : let H = 3 end; while not true rem 52 or not 5 : chillax end; let n = array - true; pop 36 end

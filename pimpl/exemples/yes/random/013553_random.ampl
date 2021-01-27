@@ -1,0 +1,1 @@
+program s : u9 : takes c4, q, YpD : integer; W2 : integer returns boolean Ubl0a, WpJ, L3Z : integer array; uZ : integer; when case - not 79 and 20 or 845 : output 5 end; when case - 155 - 7 : chillax end case 5 : output ""; pop end case 8 : chillax end case 3 : chillax end; let x[398] = 3 end main : input u end

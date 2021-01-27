@@ -1,0 +1,1 @@
+program Z7 : s : takes A0 : boolean returns integer array g, d : boolean array; Jc, OHla, G, G : integer array; hUo0, c : integer array; input gp; while 9 - 6 <= 4 : let O0 = 3 end end v : takes k, h : boolean returns nothing Mh, G, u3 : boolean array; while 1970 <= 7 : input Ijn end end main : chillax end

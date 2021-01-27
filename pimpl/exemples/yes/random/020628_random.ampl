@@ -1,0 +1,1 @@
+program Z : W : takes m, s : boolean array; z98a : integer array returns nothing input j5; when case - 7 - 77 : chillax end otherwise : output "&"; pop end end v : takes U, T : boolean array; qjw, n, G69, r, S : integer; E : integer; x5o0 : integer; M : boolean array; O9z0, M : boolean; y28 : boolean; A : boolean returns nothing output "" end main : pop end

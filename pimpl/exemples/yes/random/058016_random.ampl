@@ -1,0 +1,1 @@
+program igN : q : takes s : integer array returns boolean array while false or 70600 : chillax end; input w end Mg8 : takes A82aa, T : boolean; nu, hW3, _, z, T, GU8 : integer array; z560 : boolean returns nothing output 182 = 58 . 0 . "" end main : do uHbaa(- true * (7) * 54 - G8g(54) <= k9 * 856 - wD) end

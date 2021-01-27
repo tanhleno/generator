@@ -1,0 +1,1 @@
+program p830a : q : takes D4, P35a, te5a, xn : integer; vRO, W : boolean array returns integer array g : integer; z : integer; mF, G4, q : integer; do R(false + 8 - 6 < 5); do p(21 - 11 /= 7, 40 = 4) end main : chillax end

@@ -1,0 +1,1 @@
+program g6 : I : takes Q : boolean returns nothing lg : integer array; T6Ra, zT : integer array; k, E, Rx : boolean array; co : boolean; qMn : boolean; Gv : boolean; chillax end main : input R[not 3 and D + (1)]; when case false or not 024 : chillax end case - true + 2 : chillax end case - 436 <= 00 : chillax end otherwise : when case 3 : pop end; input c end end

@@ -1,0 +1,1 @@
+program l : VZ : takes _D2, m : boolean array; s, q : integer; Wm, Fww0, u420a : boolean array; x44, Y, U : boolean returns boolean array _oN, C0 : boolean array; g5o, x : integer array; while false : pop end end main : chillax end

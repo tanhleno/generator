@@ -1,0 +1,1 @@
+program A : R : takes DXr0 : integer; EZt0 : boolean array; w, U20 : boolean returns nothing B3 : integer array; chillax end main : do s(- true rem not not 8270 + true - not 06 and 475 < - 6 / (53) and 8350 or r4 and 00 - 26); when case not not 3 or true + 7 < 4 and 1 - 1830 : chillax end case(65) + 2 : pop 3 end otherwise : let s[6] = 18 end end

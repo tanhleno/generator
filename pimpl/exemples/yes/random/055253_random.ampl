@@ -1,0 +1,1 @@
+program a : p : takes SH5 : integer array; e810, FVy : integer array returns nothing Z0R0, paLa, K78, w, LsW0 : integer array; when case false + 14 - 51900 : pop 1 end otherwise : chillax end end main : J, kk : boolean; n : integer; P : integer array; o : integer; chillax end

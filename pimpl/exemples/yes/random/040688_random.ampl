@@ -1,0 +1,1 @@
+program X : C7 : takes qz : boolean array; k : integer; UH : integer array; Vv20 : boolean array returns integer let j = array - true and 57 - 0920 - 7 end main : do ZM(- U(281) / Z79(23) - not 3 rem 9 or(48)) end

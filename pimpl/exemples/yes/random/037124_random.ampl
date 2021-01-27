@@ -1,0 +1,1 @@
+program x0m0 : J9 : takes _ : boolean; E81 : integer array returns nothing q : integer; j : boolean; Ezla : integer array; chillax end t36 : takes dbN, c : integer array returns boolean array chillax end X8 : takes y64aa, Y : integer returns nothing V : boolean array; while 791 = 4 : chillax end end main : chillax end

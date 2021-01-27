@@ -1,0 +1,1 @@
+program T7 : p : takes k : integer; J9, L : integer returns boolean array pop end P : takes j_Xaa, Pb2, gL : integer array returns boolean input m end main : E, P_za : integer array; fK20 : boolean array; when case - JG[00400] / false : chillax end case(6) or x + 43 - 9 <= (423) and 72 : chillax end otherwise : chillax end end

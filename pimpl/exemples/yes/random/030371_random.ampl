@@ -1,0 +1,1 @@
+program d : Swka : takes Z, WO : integer array returns nothing chillax end main : bh : integer; O, m, R1 : integer array; r3D0a : integer array; pop; while not 5 or 8 and 5 - 7450 - 91 = - (970) and 852 + 063 : pop 23; when case 0 : chillax end case 22 : chillax end otherwise : chillax end end; do H(1 >= 43 - 2) end

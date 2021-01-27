@@ -1,0 +1,1 @@
+program PL10a : main : ny, XZ6 : boolean array; RFg0a, P : boolean array; _ : boolean array; G6S0 : integer; n8 : integer; q : boolean; uDS0a : boolean; s : boolean; output not(33) and UA9a - I13 - 761 <= - (76600); output ")U\"" . "" . "9" . "Bk"; input d end

@@ -1,0 +1,1 @@
+program BAQ : r : takes V : integer array; CHm0 : integer array returns boolean r3, u5Caa, T, d : boolean array; chillax end Y94 : takes WZz0, LP : boolean; z : boolean returns nothing pop end main : when case - (8 = 81200) * true rem 5 and 62 + true * true and 36700 - h and 6 < (84) : chillax end case(9) + 7 : input R[812]; do O3(6, 2) end case - not 54 - 2 - 3 : chillax end end

@@ -1,0 +1,1 @@
+program p15aa : t : takes j : integer returns nothing Z : boolean array; pop end K : takes S3n : integer array returns nothing chillax end main : output Q / true - not 1 and 357 . - (157) and 2 + 474 - 18 >= 1 . - 27200 - 62 /= 3 . 13 = 583 end

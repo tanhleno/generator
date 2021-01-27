@@ -1,0 +1,1 @@
+program u : g : takes z9 : integer array returns integer chillax end P : takes E, n9, sG, j8g : integer array; eIea, O9aa : integer array returns nothing s : integer array; f, q : boolean array; u, b : boolean; chillax end main : m14a : boolean; Z : integer array; by, bQ5 : integer; l : boolean array; input A[- 4 rem 6]; pop - 78 + 52 end

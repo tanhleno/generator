@@ -1,0 +1,1 @@
+program EH : Il : takes W : boolean; n_1a, v, lc9aa : boolean array returns nothing z, u, lv : integer; chillax end main : input Lx; when case not not 8 / x = not 8 + 711 - 00800 : let A = array 3; let Q = array 048; when case 2 : chillax end end case 45 and 1 or 4 - 1 <= - 2 - 35 : while 57700 : chillax end end otherwise : chillax end end

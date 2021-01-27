@@ -1,0 +1,1 @@
+program TOA0 : R : takes e61 : integer returns integer when case not 8 and 53900 : while 9 : pop end; do a(3) end otherwise : chillax end end Re : takes h0, v : boolean returns nothing chillax end main : JF, h7 : boolean; output - false + B05 > 418 end

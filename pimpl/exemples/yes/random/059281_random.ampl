@@ -1,0 +1,1 @@
+program iw0a : c : takes t : integer array returns integer acc, As, z : integer array; output - 5 end x7 : takes HQ9 : integer array returns integer O2, Q : integer array; Y : boolean; t : boolean; I : boolean; n : boolean; chillax end main : input kx end

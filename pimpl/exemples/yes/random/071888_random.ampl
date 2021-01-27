@@ -1,0 +1,1 @@
+program aH5a : main : q, _, B : boolean array; when case - true + (60) and(3) and 9 >= 5 and false and 5 : when case - 9 > 64 : when case 9 : chillax end; while 71 : chillax end; pop end end; input v[- true]; output 1610 < 0 . 89 end

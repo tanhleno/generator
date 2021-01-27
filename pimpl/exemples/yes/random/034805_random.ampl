@@ -1,0 +1,1 @@
+program _61 : k : takes t : boolean; W, U : integer; A1Y, I : integer returns nothing u : boolean array; r320 : integer array; do i(true and 1 - 7, 5 - 2 <= 4); do d(4280, 4, 7, 6900); output "!"; do L(1, 0); do b8(39); input x; pop end u : takes V : boolean; _ : integer; E, J7, UM : integer array returns integer chillax end main : chillax end

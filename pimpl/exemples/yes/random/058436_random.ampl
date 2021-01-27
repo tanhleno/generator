@@ -1,0 +1,1 @@
+program F : v690 : takes W0 : integer array returns boolean d : integer array; J, _28, U : integer; Wl0a : integer array; o7, Br : boolean; _8 : boolean; I : boolean; do Co3(- E2 and 4 - 56700 /= 9) end main : while - not(5) : input Z[- 80]; while 91 : when case 81800 : chillax end end end end

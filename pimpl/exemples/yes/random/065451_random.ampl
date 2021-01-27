@@ -1,0 +1,1 @@
+program d80a : z8m : takes o : integer returns nothing when case - (6) : do Q52(2, 03) end case - 4 /= 05 : do o8(88800); input b03 end otherwise : when case 2 : chillax end; pop end; let ULu = array 7 end main : do p0(false / 3 or true > - true / (834) and 04800 or Jn5 and 7 or 7 - 5, - (3) + uw2 and 16 or 21200, - (4) and 5970, - 36 - 3) end

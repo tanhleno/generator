@@ -1,0 +1,1 @@
+program y : p1 : takes w42, yF : integer array returns nothing e, i : boolean array; pop 2 >= 2; output ""; let t = array 48; pop 51200 end main : V2 : integer array; dkp0 : integer array; MY0aa, Y : boolean; chillax end

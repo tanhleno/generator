@@ -1,0 +1,1 @@
+program J9ya : hB40 : takes b, q, N190a, w3, h : boolean; j, ISl : integer returns boolean array m6, S, A9, R0s, I : integer array; chillax end main : J : boolean; when case - not true : chillax end end

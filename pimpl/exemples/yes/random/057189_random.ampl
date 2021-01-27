@@ -1,0 +1,1 @@
+program Q : r8g : takes Y3e : integer array; _ : integer array returns integer I4 : integer array; when case - 6 and 3 < - 20 : do t7(1) end otherwise : pop; pop; pop end end main : pop 9 <= true and 6; let D[B * not 44 and 21 or 9 and 0] = array(9) - 7 and 56 end

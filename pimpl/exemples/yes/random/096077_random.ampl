@@ -1,0 +1,1 @@
+program b56 : main : when case - m[2800] > false or false or 9 : while 3 /= 01700 : chillax end end otherwise : input F170[8] end; do E(false * 12600 and 03 > - true and 77 or 45 - 43); output 84; while 1 - 2 : chillax end; output ""; output 6 . "Q" end

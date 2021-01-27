@@ -1,0 +1,1 @@
+program N : O : takes gsX0a : integer returns integer do e(- true, - 63) end main : input X; when case z69 rem 3 : do B(29, 500) end case - true and 329 /= 7 - 89 : chillax end otherwise : input t2Xa[90600] end end

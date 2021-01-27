@@ -1,0 +1,1 @@
+program g : Aq : takes I_ : boolean returns nothing n2t, D : integer; while 5 or 6 - 4 > - 4 - 8 : when case 961 : chillax end otherwise : chillax end; when case 6930 : chillax end end end main : v5, s, uI : boolean array; o06 : integer; w : boolean; chillax end

@@ -1,0 +1,1 @@
+program J : B : takes n : boolean returns nothing iD, f : boolean; A : boolean; l17 : integer array; o : boolean; do g(m2); input g end main : U : boolean; pop; input g5; output "" . ""; do C2F(870, 082, 04) end

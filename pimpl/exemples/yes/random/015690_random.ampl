@@ -1,0 +1,1 @@
+program v9 : D : takes nu, ob, E48 : integer returns boolean array Y, e9N, r : integer; when case not 52 + 1 - 652 < 21 : chillax end otherwise : chillax end end main : _ : boolean; a63, i8 : boolean array; Od : integer array; chillax end

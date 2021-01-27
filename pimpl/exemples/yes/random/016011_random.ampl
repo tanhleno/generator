@@ -1,0 +1,1 @@
+program P : PI : takes L, V, vb : integer returns integer chillax end G : takes w : integer returns nothing chillax end main : while - (6) rem not false >= 0 : let w[09500] = array 3 - 08; let e = array 88; input I; when case 8 : chillax end end; let P[- not false * (37800) + (8) and 1] = array - false / true and 7 - true and 3; do II60(false) end

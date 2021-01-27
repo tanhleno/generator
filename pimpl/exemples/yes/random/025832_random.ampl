@@ -1,0 +1,1 @@
+program D : ZZ : takes K, Fu8 : integer; Y, r3 : integer array; V54aa : integer returns boolean Lt : boolean; y : integer array; V, Q, Y4 : integer; l : boolean; while(609) : chillax end end main : H4E, R : boolean; output - (9) / false - 0 + 01 < 5 and 0 + 21 . (8) end

@@ -1,0 +1,1 @@
+program O : O : takes i, n400 : boolean returns nothing n, j : boolean; when case - 64 + 5 - 452 /= - 90 - 4 : chillax end; pop end main : let jMq0a[p32] = array - (15600) + true or true - 1 - 41; output - Xz70 - 093 - 9 /= 758 . "9"; do x(- false, 35, 4100 = 066) end

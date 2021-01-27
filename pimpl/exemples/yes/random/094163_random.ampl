@@ -1,0 +1,1 @@
+program Tc2aa : main : pop - 38200; output "\\\n!a"; when case(8) - 8 /= 2 : do N(4, 93); input W72; when case 6280 : chillax end end case 3 >= 976 : chillax end otherwise : input U end; output 7 = 4 . 8 . 0 . "." end

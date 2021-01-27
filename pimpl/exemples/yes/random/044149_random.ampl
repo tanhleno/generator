@@ -1,0 +1,1 @@
+program L : drT : takes I : boolean array returns nothing g, ZF7a, a : integer array; r : boolean; thu, g3 : integer array; chillax end main : Z, f, vr80a, u2 : integer array; wd, W : boolean; input O1; pop - not 089 and 1 - 9 >= - 4 - 8970 end

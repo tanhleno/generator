@@ -1,0 +1,1 @@
+program K : main : x, oI7aa, mz1, Q2W, frI : boolean array; Q, YP, ri8a : boolean; Kn : boolean; while - true = - (1) : chillax end; when case mdf0(5) and _9 and 02300 : input Y0 end otherwise : let _[6] = 05400; input u970a end end

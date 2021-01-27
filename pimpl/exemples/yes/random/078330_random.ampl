@@ -1,0 +1,1 @@
+program uCR : main : I : boolean; do Xi2aa(not s(55) and 2 or _L70a[3] rem(6) and 218, (23) or(694) <= t - 7, - false /= 4, - 4 - 8, 654 = 5610, 27, 53); when case - not x32 - 32 - 4 : while 79 = 77 : do j(84700) end; while 0 : chillax end; let q5N = 43600 end case true : do g(196, 20); when case 156 : chillax end end; do _(- t9 >= 943 - 57100); let b = array 53 end

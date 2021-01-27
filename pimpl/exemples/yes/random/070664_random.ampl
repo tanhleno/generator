@@ -1,0 +1,1 @@
+program V5Baa : main : O, YPM, W, I7 : integer array; when case - not(41) - true or false and 563 - 7 : input A[- 2] end case V[6450] / (76) and 12 or 2 and 55 : when case 53 : let vB = 7 end case 5 : pop end case 47 : chillax end otherwise : pop end end otherwise : chillax end end

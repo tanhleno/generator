@@ -1,0 +1,1 @@
+program c : h : takes E7f : boolean array returns nothing ww20a : boolean; Z1, y : boolean array; M0, D : boolean array; when case false and 60 : do T8(6, 4); pop; output ""; pop end case - 1 - 07 < 9 : chillax end otherwise : input Ic end end main : f : integer array; chillax end

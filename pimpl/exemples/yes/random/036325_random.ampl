@@ -1,0 +1,1 @@
+program L : ibX0a : takes c : boolean; OY3 : boolean returns nothing d94 : boolean array; chillax end main : while - 562 + not(2) and CO : chillax end; input x[- (5) * (2) and 548 + (6) and 2 or 55] end

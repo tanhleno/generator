@@ -1,0 +1,1 @@
+program TP : main : V, E : boolean array; UT : boolean; let I = (07); while(76) : chillax end; while - not 4 - 96 - 4 : chillax end; when case - 056 - 640 : pop; while 6 : chillax end; pop end otherwise : pop; pop end; input eto[8] end

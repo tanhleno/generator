@@ -1,0 +1,1 @@
+program N : em : takes S : integer; h, P16, C, w : boolean; DlU0, R4, O, W6 : boolean returns integer M : integer array; chillax end main : do g0U(- true and(7) rem true = not not 3 * d and 6); when case true and(7) and 44 : chillax end otherwise : output ""; pop; while 4 : chillax end end; do w1u0a(- not 2 and 59 - 8, - 4 >= 6370, 5) end

@@ -1,0 +1,1 @@
+program qh : l : takes rq : boolean array; I : integer array; j7 : integer returns nothing B, M, C8 : boolean array; chillax end main : C, VD_ : boolean; let NJ9a[- true / true rem true] = false or not 49 and 7 - 839 end

@@ -1,0 +1,1 @@
+program F2q : T24aa : takes FeE0, X2u : integer array; i, D : integer array; D : integer array returns nothing chillax end main : v6i : boolean; cz : integer array; u, qPZ : integer array; while 30 and 7 and not 96 : pop 1 end end

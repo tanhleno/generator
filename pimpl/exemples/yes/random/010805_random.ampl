@@ -1,0 +1,1 @@
+program y46aa : I1 : takes eYCa, Xv, I : boolean array returns integer array chillax end main : while - false * true * not 3 and 3360 or 5 * 1 + W + 07 : when case - 91 - 84600 >= 7 : chillax end otherwise : chillax end; while 63500 : when case 4 : chillax end; pop end end end

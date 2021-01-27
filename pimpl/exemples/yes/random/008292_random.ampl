@@ -1,0 +1,1 @@
+program A : Ss2a : takes A3, YZtaa, QW30a, k5 : integer returns nothing a : boolean; chillax end main : input b9q[- 1]; when case - not false - not 10 > false and 83 - 80 : let G32 = array 19500 end otherwise : chillax end end

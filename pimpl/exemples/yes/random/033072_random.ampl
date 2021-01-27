@@ -1,0 +1,1 @@
+program F3Oa : j6 : takes sz80, s : integer returns nothing output "'R" end main : H5 : integer; C : boolean; a8V : boolean array; CC, I4, J : boolean; g, FT6, LX : boolean array; t, Ij5 : boolean; chillax end

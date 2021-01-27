@@ -1,0 +1,1 @@
+program n1 : iF : takes N8, t9k : boolean array returns boolean let kz[- z93 and 5] = 52600 > 506; input T[8770 - 8300]; when case 9000 = 0 : chillax end otherwise : chillax end end main : chillax end

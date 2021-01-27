@@ -1,0 +1,1 @@
+program l : WKr : takes a0, N, v : integer; z0 : boolean array; t6, D : boolean array returns nothing pop - 8 end main : rD, Vn3, g : boolean; YE, u2W0a, m860a : boolean array; pop not(0380) or false or 0 - 0 /= - 7 and 1940 end

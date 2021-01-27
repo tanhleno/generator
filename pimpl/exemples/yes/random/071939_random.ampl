@@ -1,0 +1,1 @@
+program I1 : main : S, R, WG8 : boolean array; while true : input wh[- 3] end; do W(- true + not 41000 /= false + 9 - 6); do ey(- false and 2 >= 9 - 4); output 334 = 0930 . 17 . "1"; when case 44 = 9 : chillax end; let R1A = 7; pop end

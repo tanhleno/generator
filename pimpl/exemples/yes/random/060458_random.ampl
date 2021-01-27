@@ -1,0 +1,1 @@
+program s : e5 : takes UU00a : integer array returns nothing O, j : boolean; do No((3) and 34 - 5 - 1, - 7 = 27); do M9(22900 - 8 >= 8) end Zxn : takes r710 : integer; Z30 : integer; d, o47, _ : boolean returns boolean array L : boolean; U : integer; input tE[- 7180 - 0]; pop 9240; pop end main : input mO[qO[6] - true / 142 or false or 4 - 03]; input R[- (3080) * (0)] end

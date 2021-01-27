@@ -1,0 +1,1 @@
+program s : P74aa : takes I1s : integer; UY : integer array returns integer M : integer array; t33, R : boolean; L : boolean array; chillax end main : d8, Uk : boolean; input FP[- false or 73 * not 5]; when case - true - false - 56200 > true and 280 or 21 : chillax end end

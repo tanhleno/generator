@@ -1,0 +1,1 @@
+program PkM : Kaf : takes w : integer; A, jbi, K, o, Q, AQ : integer; Y, D, G6 : boolean returns integer array Y, S, R, L : boolean array; G2 : boolean array; EZ, wZ4, r : boolean array; u99 : boolean; input _[- (9) and 94400] end main : let sTsa = (9) /= 535 and 81; do M(- (1) or true or 17, - f7 and 06 + 7 - 81600 < - 56400 - 05) end

@@ -1,0 +1,1 @@
+program W : D : takes GF6a, w : boolean; a, R4baa : integer array; as5, urT0a : integer returns integer eH4 : boolean; U : integer array; nj : boolean array; l, U : boolean; chillax end main : V8 : integer; L5x0a : integer array; I7 : boolean; when case not false : chillax end otherwise : chillax end end

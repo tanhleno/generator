@@ -1,0 +1,1 @@
+program Mv : J : takes wqt, T450a, t : boolean; N5 : integer returns integer array q8 : integer array; p : integer; I, S : integer; let w96[- (99) or 54] = 09 - 62900 end ErH0 : takes O, B, Ww7aa, OEq0a, i : integer array returns nothing chillax end main : u8 : boolean array; m, n : boolean array; chillax end

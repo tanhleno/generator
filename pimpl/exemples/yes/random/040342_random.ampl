@@ -1,0 +1,1 @@
+program J : t6 : takes T : boolean array; M3fa : boolean returns integer H, p : boolean; let G[- true and 8] = array false or 357 - 80 end main : v, p, zXy : integer; za : integer; R9q, Va : boolean; f : integer; XzG0 : boolean array; chillax end

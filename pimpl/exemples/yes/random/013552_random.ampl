@@ -1,0 +1,1 @@
+program CuS : q : takes f, i, M : integer; O : integer returns boolean Z, c39, L5C0a : integer; chillax end main : while true rem Q8(0) and false + BrH[379] - 3 and 13 + 4 : input J end; while not true * t and 9 + false and 039 > - (755) + 8860 : while 22 : chillax end; output 2 end; let Z = - 855 - 4; when case 104 : chillax end case 15 = 3 : chillax end; pop; input n[35] end

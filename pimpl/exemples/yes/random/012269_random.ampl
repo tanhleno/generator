@@ -1,0 +1,1 @@
+program O2 : MeMa : takes hG, E7V0, b : boolean returns nothing T, f2E : integer; D130, w, BIk : integer array; pop 4 end main : vs0aa : boolean array; while - not f0x and true / true and 36 or false / 41 + 8 and 253 : chillax end end

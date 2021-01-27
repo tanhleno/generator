@@ -1,0 +1,1 @@
+program K : S : takes ig, nU6a : boolean array; o2 : integer array returns boolean chillax end n : takes R5Ia : integer returns nothing c4j0a, r, vV, e : boolean; let m = 0 = 4; do a7W(2) end main : input X6N0[(75) / false - not false - 0] end

@@ -1,0 +1,1 @@
+program p : i : takes W : integer array; Y92 : boolean array; E, S : integer; Kox : integer returns boolean X : boolean; input h; output "" end w : takes S : integer returns nothing while - 45 - 8 /= 1 : chillax end; while 30 : chillax end; when case 944 : pop end case 364 : chillax end end I : takes O : integer array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Gw : e : takes N : integer array; f440a : integer array; x, S : integer array returns nothing do b(not 153 and 9 + 15200 - 45, 6 - 0 >= 6, 2 = 1, 0) end main : w72 : integer array; output "."; while false : when case 7 = 60600 : input k end end end

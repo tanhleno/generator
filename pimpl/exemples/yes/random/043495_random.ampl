@@ -1,0 +1,1 @@
+program W61 : T : takes l84 : boolean array returns nothing chillax end b : takes W, v : boolean returns boolean chillax end GB : takes c : boolean; m : integer array returns nothing chillax end c4a : takes p : integer array; S : integer; J_, _, b0P : boolean array returns boolean let d = array 16; do B67(4); do J(04) end main : z : integer; chillax end

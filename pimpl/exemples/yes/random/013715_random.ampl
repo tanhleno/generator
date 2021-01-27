@@ -1,0 +1,1 @@
+program t : W2Ja : takes i8g, s, e : integer array; q, N, NaP, Q : integer; u8 : boolean; P5, e0 : integer; Amd, Z9 : boolean; F : boolean; DUZ0 : boolean returns nothing input lW4; output 97 = 5 . "" end main : H, X, X : boolean; let E_[rgHa[55400] - 2 / not 28000] = - not false rem false or(6) and 40; input SI9 end

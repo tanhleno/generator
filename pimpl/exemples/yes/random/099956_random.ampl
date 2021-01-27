@@ -1,0 +1,1 @@
+program Oy50a : main : while true or(5) * (7) and 5 or not 2 - 02 = (8) and(26) and 06 + not 22900 - 5 - 3 : let e[2 - 8600] = array - 7; when case 228 : input m end case 7 : chillax end case 37 : chillax end end end

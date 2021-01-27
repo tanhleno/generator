@@ -1,0 +1,1 @@
+program j88 : y5r : takes wv30, zvY, g, s, Ubc, Z040a : boolean array returns integer array while - true + 41 - 31 > 7 - 6580 : chillax end; let HM[3040 - 6] = 999 = 159 end X : takes w : integer returns integer array l : boolean; k8 : boolean array; chillax end main : s, K1, S, ai, d, L, A : integer; do gc((20 = 926) <= true and 4 + eX) end

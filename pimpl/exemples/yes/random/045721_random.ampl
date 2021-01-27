@@ -1,0 +1,1 @@
+program htc : bs0a : takes e : boolean returns boolean array gH : integer; m, gB6 : integer array; JT70, TN, v : integer; chillax end hm : takes Z57aa : integer; H, v : boolean returns integer chillax end main : T, _1 : boolean array; when case p(3, 8) rem j0 rem w or Cf2(548) and false and 4 : while 6 - 58400 < 9 : when case 77400 : chillax end; input v39 end end end

@@ -1,0 +1,1 @@
+program e : W : takes UG10 : boolean; l8O0a : boolean; kz5, U5 : boolean returns nothing Ze, i8, t27 : boolean; input o end T95a : takes w, k, Z : integer array returns nothing J, b : boolean array; v67 : integer array; let aWH = 7980 end main : a : integer array; oI, _ : boolean array; Q : boolean array; chillax end

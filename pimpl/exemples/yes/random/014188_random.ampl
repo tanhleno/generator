@@ -1,0 +1,1 @@
+program Ar : aeg : takes am5a, D, YL : integer array; s : boolean; M6 : boolean array returns nothing e : integer array; Z580a, z, qW : boolean; cd, gc : boolean array; do c6h(not 6 /= 196 - 2) end main : p2 : boolean; chillax end

@@ -1,0 +1,1 @@
+program N : w : takes x96, k : boolean returns boolean chillax end main : H2T, t0, yf, R : boolean; e, G : boolean; d : integer array; input t; when case - true and true - 338 + 1 >= not 0640 or 0 - 5 : chillax end case(9) <= - 03 : chillax end otherwise : chillax end; while - S and 1 - 9 - 21 : chillax end end

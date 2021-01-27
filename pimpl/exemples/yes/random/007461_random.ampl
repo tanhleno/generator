@@ -1,0 +1,1 @@
+program X : B : takes TnUa, Q7, u, Qa : integer array returns boolean M, N : boolean array; chillax end main : Ph, c : boolean array; when case c * J(47100) * not 3 and 023 - (4) / true and 8 - 7 : let t[13] = array - 6190 - 8; pop; while 05 : chillax end; when case 7 : chillax end; output "\"" end; when case - true : chillax end end

@@ -1,0 +1,1 @@
+program u : PS30a : takes _ : boolean; Qq2, y : boolean array; c, _w : integer returns nothing a7L, r : integer array; do K98aa(- rZ7aa and 2 or 42500 = - 23, - 50 - 52) end main : CG7, T, Sqh, j4 : boolean array; u570 : integer; chillax end

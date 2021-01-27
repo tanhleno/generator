@@ -1,0 +1,1 @@
+program z15 : o : takes y, K, x : integer array; t4 : boolean returns nothing output 8 - 5 . 720 = 24600 . "" . "@\n" . "3"; output ""; let L8[77] = 4690; pop 30; pop end e : takes e5 : integer array; g85 : boolean array returns integer chillax end main : d6, u90a, m, F : boolean; chillax end

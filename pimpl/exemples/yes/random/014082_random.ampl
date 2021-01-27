@@ -1,0 +1,1 @@
+program Y : W : takes tG, a, l9 : integer array; R, g : integer array returns integer mH, l47a, _, G : boolean array; let b[- P2Z0] = array 7 - 8 - 76400; input DG; input a9[475] end X : takes P3 : boolean; j : integer array returns nothing KK : boolean array; I : integer array; do r(- 7 >= 0) end main : input EV end

@@ -1,0 +1,1 @@
+program ON2 : wJJ : takes Z : boolean array; M, _iK : boolean returns nothing B5 : boolean; f8, pVE0 : integer; X : boolean array; pop 657 end PG : takes QA : integer returns boolean chillax end bV : takes e, a3i : boolean returns boolean array chillax end main : output "" . - (7) and 11700 + 69; pop end

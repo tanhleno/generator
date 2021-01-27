@@ -1,0 +1,1 @@
+program h : h2 : takes HK, J83 : boolean returns boolean h1, lE, E, Q, vM80a : boolean array; let n150 = - 8 - 9 = 4990; when case 4 - 23 : when case 68600 : chillax end end otherwise : chillax end; input z[99] end main : zW4 : boolean; c, cP2a, TS20, E5Gaa, Y, y : integer array; chillax end

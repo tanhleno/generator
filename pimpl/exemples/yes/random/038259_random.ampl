@@ -1,0 +1,1 @@
+program P : B : takes c : boolean array; V, ER, fz2 : integer array; Md, d, v, u1, N : integer array returns nothing y, m, s : integer array; do J(- not 060, 35); output 61 = 5; input o0S[3] end main : tj : integer array; chillax end

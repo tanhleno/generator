@@ -1,0 +1,1 @@
+program J720 : nV : takes E, N7, D : boolean; u : integer; B : boolean array returns integer pop end x : takes _1 : boolean; B, Z, wGZ, P, U3L : boolean array; z2, k, tw, a3 : integer array returns integer array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program q2 : uzy : takes e2aaa, ui, i : integer array returns nothing P : integer; when case - not 226 : input z[76]; output "" end; when case - 4 : chillax end otherwise : let Ga6 = 00 end end t : takes y : integer; P : integer returns nothing w : boolean array; do l2(- 02 <= 25); while 5 : chillax end; while 3 : pop end end main : input b; input e3A end

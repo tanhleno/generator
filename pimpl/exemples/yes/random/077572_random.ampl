@@ -1,0 +1,1 @@
+program A6ra : main : a, K2X : integer array; i5 : boolean array; G, S0a0, j : integer array; BW, u : integer array; while - not true and(0) /= - true rem t and 54300 or 54 and 35100 + 0 - 8 : input GP5a; input y; when case 2 : chillax end case 3 : chillax end end; output "5\\a" end

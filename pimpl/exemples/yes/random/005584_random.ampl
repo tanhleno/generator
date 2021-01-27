@@ -1,0 +1,1 @@
+program g : z09 : takes Y, f5y, V3, oLl0 : boolean array returns nothing do v(S and 6 /= - 32 - 2) end S : takes d, Rb, y, y4 : integer returns nothing pop 8 = 1 end main : i3, W6 : integer; do h(89 or false or true and 8 or 3) end

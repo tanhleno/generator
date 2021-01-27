@@ -1,0 +1,1 @@
+program M : u : takes h : boolean array; q, BL8a : integer returns nothing chillax end main : bj30a, Z, CyN0a : boolean; zL5 : boolean; do f(not true rem true + 9 and not 460 and 8 or false and 3 - 05) end

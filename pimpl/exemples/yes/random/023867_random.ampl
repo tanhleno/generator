@@ -1,0 +1,1 @@
+program Jg : Q4 : takes r, h : boolean returns integer when case - 4 and 0 or 9 /= 9 - 5 : chillax end case 341 - 0 > 004 : chillax end otherwise : pop; when case 9 : chillax end; pop end end main : chillax end

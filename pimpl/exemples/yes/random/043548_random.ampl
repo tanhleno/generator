@@ -1,0 +1,1 @@
+program R : be90 : takes e : boolean array returns nothing chillax end W : takes u6 : boolean; L, O : integer array; T : integer array; r, u, k : integer returns boolean l : boolean; h2yaa, c, M : integer array; h1, J : boolean; tx : boolean; pop end main : A1 : integer; N : boolean; let o[(06800) * false] = array not true and 06; input dQ end

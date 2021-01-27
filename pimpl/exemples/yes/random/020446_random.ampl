@@ -1,0 +1,1 @@
+program a : f : takes t8, f4uaa : boolean array; Q : integer array; R : boolean; b : boolean array; fsB0 : boolean; Y9t, Cz7 : integer array returns boolean Q, A, pK, U, W : boolean; input G9 end I : takes X0 : boolean array returns integer k : boolean array; chillax end main : chillax end

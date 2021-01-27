@@ -1,0 +1,1 @@
+program Y83aa : main : output - Y8O0[90] / c5Ja and 307 - not 93 - 1 - 55 . - 483 - 5 - 969 . ""; while - true + false and 85 or 56400 : output 8 . "" . ""; let K9w = array 0; input c9 end; when case - 5 and 4 + 8 : chillax end case - 6 - 6 > 5 : output "5y\""; input Nn6 end case 3 : chillax end case 8 : chillax end case 5 : chillax end; let io = array 750; pop end

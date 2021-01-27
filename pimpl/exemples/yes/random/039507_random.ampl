@@ -1,0 +1,1 @@
+program t1 : X : takes g : boolean array; p : boolean; c6, _F3a, Ne0, wQ5 : integer; j900a, C4Xaa : boolean array; f : integer array; r, sk : boolean array returns integer array T5, q : boolean array; u, M, L7 : boolean array; chillax end main : ks : integer array; VhF, C, JX : integer array; let c[(86)] = - 633 end

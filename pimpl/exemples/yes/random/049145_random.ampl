@@ -1,0 +1,1 @@
+program t1 : q4Zaa : takes gfua : boolean returns nothing when case mi and 12 /= 8 : output 5 end case - 00 - 98 < 0 : chillax end; input a[- 5]; when case 667 = 3 : chillax end otherwise : chillax end; input E[2]; pop end main : w33, m : boolean array; ud : boolean array; let V[N710(50) * false] = array - not 1; output not 7 - 141 . 89 /= 78 . "," . "" end

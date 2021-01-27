@@ -1,0 +1,1 @@
+program a5 : K : takes u, j, k0 : integer array; w : integer array; t : boolean returns integer array f, y : integer; b94, d, s, t : integer array; chillax end main : j7y, Z06 : boolean; B3Eaa, r, d : integer array; pop; do Y(b) end

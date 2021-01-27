@@ -1,0 +1,1 @@
+program X : D : takes X, I10, n : integer; js, X2e, MU, F : boolean returns nothing output - 9 - 1 /= 6 . 4 . "4\t0a" end main : AJ0 : integer; zo : integer array; while(508) / not not 50 and false and 67 or not true or 02 and 60 : output 7 = 3 . "q;" end; input Y3; output - 9 - 4 end

@@ -1,0 +1,1 @@
+program o : J3 : takes T, o : integer array returns nothing _, egQ, T99 : boolean array; T8 : boolean array; do Jz8(true, - 5) end l : takes s, _I80 : integer array returns boolean chillax end main : E : boolean; EB, U : integer array; let l0[- (63400) * (59200) / true] = true and u9p + (9) or 76; do u(- not not 5 rem G); input s43[- (73) + 940] end

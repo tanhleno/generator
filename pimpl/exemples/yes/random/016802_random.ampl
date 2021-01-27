@@ -1,0 +1,1 @@
+program q : P : takes h, SC8a : boolean; Q, Lb, C, bn : boolean array returns integer array input MG end mSia : takes gqEaa : boolean array; uz60 : boolean returns boolean L1s0a, sp30, C : integer; chillax end main : do P(- false > - (469) and false) end

@@ -1,0 +1,1 @@
+program O : ec : takes h : integer returns nothing S9, c54 : boolean; o : boolean; do x1s(not 27 and 023 + 59 > - 0 - 4) end main : YF, Q : boolean; z3, g7 : boolean; c : boolean; let o80a = true or true and 3 or 2 <= false and 7 end

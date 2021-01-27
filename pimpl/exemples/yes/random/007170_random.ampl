@@ -1,0 +1,1 @@
+program F : i7 : takes A03, r, L3Eaa, K : integer array; DU : boolean array returns integer array output "" . 4930 = 11400; output 9400 . "" . 0 . ""; do w(19 = 0) end main : let B1[- true] = array - not 04 rem b(4) end

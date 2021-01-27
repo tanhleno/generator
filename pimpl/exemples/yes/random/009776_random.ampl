@@ -1,0 +1,1 @@
+program Z : Z : takes Q4, Y, l : boolean array; N, Y3F0a : boolean array; E : integer returns integer E : boolean; do M(true or 4 - 3 /= 29); while - 38800 > 3 : when case 7 : chillax end end; while 3 : chillax end end main : chillax end

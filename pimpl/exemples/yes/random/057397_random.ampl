@@ -1,0 +1,1 @@
+program tQ : TU : takes Gh : integer array; W3L0a : integer returns integer array _ : integer array; chillax end main : I460, FA : integer array; output "" . "" . "="; output - l and 65900 or 40 >= 72 - 1690 end

@@ -1,0 +1,1 @@
+program oZM : L : takes i : boolean array returns integer when case false and 48 : chillax end case 9 = 73400 : let L6s = 835 end; let U6 = 5 = 04; let XH[049] = 65 end P630a : takes A, Bl20, L : boolean returns nothing do Mo5(2 - 3, 31) end C7 : takes n, mv3, a7, f, D : boolean returns nothing chillax end main : let A9[h] = array true rem true + 8 * true or true - 961 - 18 end

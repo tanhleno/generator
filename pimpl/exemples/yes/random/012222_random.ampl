@@ -1,0 +1,1 @@
+program F4 : Nq : takes PYP0, Y0, t9 : boolean returns nothing Q5Iaa, b, I : integer array; chillax end main : J, U4ra, ji : boolean; pO, B, B : integer array; pop - u[8] or false and 6; while not 3 rem(8) : when case 9 : chillax end case 669 : chillax end case 4 : chillax end; do Q(24, 51) end; do D2Y(- false and 1 - 9 - 38); let I[- 08 - 3] = 04 = 0 end

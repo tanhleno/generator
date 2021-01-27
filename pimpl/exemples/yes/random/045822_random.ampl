@@ -1,0 +1,1 @@
+program XM : o : takes x : boolean returns boolean array output ";\\0"; input jA end e : takes s, G2, fYq : boolean returns integer chillax end main : v1, u, L, D : boolean array; X, _ : boolean; when case(77100) * (1) * not 9 and 50000 : do T0(0450 /= 0180, 80 = 5); while 876 : input T7; pop end; do Z7(8); input R end end

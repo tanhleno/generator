@@ -1,0 +1,1 @@
+program N3C0a : Tm : takes kwb0, g8, t46 : boolean; _, O : boolean returns nothing s, Sm6a : boolean; i8 : integer array; U9, P : integer; L : boolean; chillax end main : j, U, C : boolean array; S : boolean; let A2R[false or 9400 * false] = array false + not true * not 1 and 33; output - not 024 and 80200 end

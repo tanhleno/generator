@@ -1,0 +1,1 @@
+program p : p : takes H, wpG, NXj0, az, q0, m, E, P2u : boolean returns nothing j, n : boolean; chillax end main : do I850a(- 1 and d(92) and 4 and 86 > - true - false, false * 5 or 95 and 0280 > 9840 and 6); while 69 and _9k0a or s and 4 : chillax end end

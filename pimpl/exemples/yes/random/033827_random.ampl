@@ -1,0 +1,1 @@
+program JG : q : takes b : boolean; gq, otS, g6 : boolean array; v : boolean; kC20 : integer array; VQ, Of : integer returns nothing chillax end k : takes U36aa, Ar : integer returns boolean chillax end main : Yd : integer array; U : integer array; input d72 end

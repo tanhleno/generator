@@ -1,0 +1,1 @@
+program B : main : E0Jaa, f : integer; i52aa, f : boolean array; do i(- 8 or not 6930 / not 623 and 79 or(8) or 3 - 23 = not(1) or false, not(5200) rem 63 and 12 /= (94), not 0 and 962 - 9 = - 8); input WE[- not Z - 0 + 4 - 2]; output - 31100; let o[- 59] = 6 end

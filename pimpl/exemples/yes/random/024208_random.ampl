@@ -1,0 +1,1 @@
+program k1 : gb : takes v, e : boolean returns nothing Z_, GH9, g2 : boolean; chillax end main : do m6L0a(true and true - not 19 and true + true or 2900 >= true / 5 and 9, (35) rem false + Q77 and 8, - not 3 + 1 - 3 /= - 0 - 7) end

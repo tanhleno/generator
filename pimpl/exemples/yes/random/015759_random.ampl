@@ -1,0 +1,1 @@
+program P : A6 : takes S, mk5, QxNa : integer returns boolean array while - 38100 = - 0620 - 5 : input A[3850] end; pop 220 = 8 end main : z : integer; xG : boolean; u, x, q : integer; R : integer array; input ghY0[not(2700) rem not L rem(9) - not(1) or false and 6 + 55]; input G0Ga end

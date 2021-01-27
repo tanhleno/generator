@@ -1,0 +1,1 @@
+program P : x9 : takes S3 : integer array returns nothing chillax end R3 : takes ke : integer array; QPU0, It5 : boolean returns integer DF : integer array; WF7 : boolean; j2r0 : boolean; oXW : boolean; output "2?" . ""; input U end main : let R5[- (8) and false - false and 22900] = - false rem(5); let E = array 79 / false; pop end

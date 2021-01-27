@@ -1,0 +1,1 @@
+program n : main : O0w, f, N, t, ix : boolean array; IB : integer array; output "\n"; output - not 78; while 6820 and 5 : input _2[09]; when case 3 : chillax end; while 73900 : chillax end end; pop end

@@ -1,0 +1,1 @@
+program c : main : c, V2Laa, j, C, l : boolean array; f0Z, N510, g0k, V, T : boolean array; H : integer; N6 : boolean array; u, B, K : boolean array; q3 : boolean; C : boolean; input E[- a(0, 4810)]; while not true - (7) and 0 + 4 - 46 : chillax end; pop end

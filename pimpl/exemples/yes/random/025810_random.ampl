@@ -1,0 +1,1 @@
+program p5 : a71 : takes E8, g1 : integer; a, s : integer array; S : boolean array; k, Gl5, C : boolean array returns nothing Ys : boolean; _ : boolean; chillax end main : do S(- 94, (448) * false - b - 4) end

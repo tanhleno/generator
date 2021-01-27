@@ -1,0 +1,1 @@
+program g : u : takes n, Xq4 : boolean; W : boolean array returns boolean QdR : integer; when case false + 261 - 64 /= 985 - 70 : chillax end case - 8 : pop; while 5 : chillax end end otherwise : while 8 : chillax end; input Zo end end Y350a : takes l, y3, R, C, M : integer returns integer array chillax end main : X : integer array; P1 : boolean array; chillax end

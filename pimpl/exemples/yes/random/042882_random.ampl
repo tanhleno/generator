@@ -1,0 +1,1 @@
+program s3 : Z350a : takes Q9k : boolean array returns integer array while - 75500 : chillax end; let v6f = array 24000 end main : M, e : integer; M64 : integer array; V, x : boolean array; es : integer; chillax end

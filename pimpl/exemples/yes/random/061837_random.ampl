@@ -1,0 +1,1 @@
+program m1W : l69aa : takes _9 : integer returns boolean array tX, q4, b : boolean array; chillax end main : o, B7, c0, x570 : integer; do N89aa(- true + 5 * not 97000 + (5) and 07 /= true * 5 - not 79, not true); input V end

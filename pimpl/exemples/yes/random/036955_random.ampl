@@ -1,0 +1,1 @@
+program a : k670a : takes s28aa : boolean; c : integer array returns boolean f, g : integer array; r6 : boolean; U : boolean; ag60a : boolean; f : boolean; chillax end main : let o7[false / not not 4 + (4)] = array - 6260 or(5) + false; when case true + not 69 and 2 + 7 - 55 : chillax end otherwise : chillax end end

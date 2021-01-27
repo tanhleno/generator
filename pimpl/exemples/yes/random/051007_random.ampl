@@ -1,0 +1,1 @@
+program s0 : y5 : takes x : integer; z, d57 : integer array; Rv, r : integer returns nothing let nB[- true and 0 + 8 - 2] = 8 >= 9; output 793 . 4 . 33 . "1"; while 9 = 7 : pop; pop end end Z : takes s42 : boolean; Evoaa : integer returns nothing let jY[6 - 7] = array - 6440 end main : chillax end

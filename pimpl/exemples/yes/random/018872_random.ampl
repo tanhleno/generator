@@ -1,0 +1,1 @@
+program gd4 : n : takes z, a7b : boolean array; v, J8, W : boolean; v : boolean returns integer Ahqaa, _0 : integer array; when case - not 4 + 902 : chillax end case 0 /= 1 : chillax end case 1 : chillax end case 58300 : chillax end; pop end main : while - (0 = 5490) : when case - 2 - 9 : pop end case 562 = 81 : input f; pop end; do _(5, 44, 7); let x[90] = array 5 end end

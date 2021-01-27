@@ -1,0 +1,1 @@
+program i4ua : Q30 : takes Z : boolean array returns integer array C, OW, c : integer array; pop - 1 > 1; while 7 > 19 : chillax end; input W8[8]; while 1 : pop end; while 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program heV : Gr : takes ka00a, SK80a : boolean array; L8, n, kF, SK, Y, E3, y5Ca : integer; Z, c, j, eO, Zdw, Ox : boolean array returns integer array output 3 /= 51 end main : input t470[- q5 / not 05900] end

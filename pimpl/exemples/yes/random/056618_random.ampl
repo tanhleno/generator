@@ -1,0 +1,1 @@
+program m : b : takes H : integer array; f : integer; xBI0a, eQ : integer array; g, Ps4aa : integer array returns integer let zuZ = 0; while 1410 = 63 : input ev; while 77200 : chillax end; pop end; while 0 = 0 : while 4 : chillax end; pop end end main : S2, p, u47 : boolean; chillax end

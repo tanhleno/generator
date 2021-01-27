@@ -1,0 +1,1 @@
+program Ny : y : takes bUs : integer array; y : boolean array; oAw : boolean array returns integer array D1 : integer; cC : integer; chillax end main : v : integer array; e : boolean; input F[true / false]; do q(z[687] <= nr, - (6) or 4, 983) end

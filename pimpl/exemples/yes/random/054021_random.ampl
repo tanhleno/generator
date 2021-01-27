@@ -1,0 +1,1 @@
+program i : y : takes Kp : integer array; vQW, M, pm_ : boolean array returns integer array C0P, n : integer array; Ov20a, H, N : integer array; chillax end main : Yk10a, cJ : integer; k : boolean; DQ5aa, g : integer; f, j : boolean; pop l and y - (8) and 9 /= - W34 and 1 or 13 - 4; pop end

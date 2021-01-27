@@ -1,0 +1,1 @@
+program n : X : takes oI5aa : integer array returns nothing D4 : integer; chillax end main : let M = array - 5; pop; when case - not 5 : input o0L[4] end; when case - 3 - 64 : when case 2 : chillax end; input Z end case 1 : input Q; pop end otherwise : do m(295) end; pop; pop 9; input M9; input O20 end

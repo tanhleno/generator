@@ -1,0 +1,1 @@
+program EQ6 : yo : takes M59 : boolean; Ib6 : integer array returns nothing chillax end main : _l, z, P, Y1, f0 : boolean; lS : integer; pop - not true; let OlG = array - not J2Ma rem not 807 - false + 25 end

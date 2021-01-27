@@ -1,0 +1,1 @@
+program R : v : takes IiF : integer array returns boolean array while - 96 and 2 < - 8 : chillax end end X55 : takes o8 : integer array returns boolean array output 8 end main : FmX0a : boolean; chillax end

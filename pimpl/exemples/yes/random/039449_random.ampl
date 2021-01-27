@@ -1,0 +1,1 @@
+program m9r0a : svp : takes u9 : boolean array; VeB, W : integer returns nothing x, D : boolean array; chillax end main : output "D\\\"a" . - b and 209 = 7 . "\n\n" . "L" . ""; let S[- not(9) + j and 5] = array false + (9) end

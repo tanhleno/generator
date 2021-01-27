@@ -1,0 +1,1 @@
+program Jp8aa : main : V : boolean array; let v = array(0) + (0) + not 18 and 329 - 230 - 903; when case fo(2) and false <= - (5) and 33 - 1290 : chillax end case - false or 4000 - 5 >= 9 : chillax end end

@@ -1,0 +1,1 @@
+program t5 : Q : takes p : integer returns boolean array chillax end Y : takes D, c, P : boolean returns boolean X : boolean; k : integer array; z, h : boolean; when case - 99 - 1 : chillax end otherwise : chillax end end main : chillax end

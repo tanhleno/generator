@@ -1,0 +1,1 @@
+program vt : A : takes K, x, Y1Gaa : boolean; r97, r, gR, j2, v8N, P_n, XL : integer array returns nothing input E3za; when case - 16200 < 09 : chillax end case 6890 : chillax end otherwise : chillax end; let o6K = 9 end m : takes Y : boolean returns boolean array chillax end main : M, v : boolean; chillax end

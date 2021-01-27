@@ -1,0 +1,1 @@
+program a6 : chgaa : takes N : integer; U : integer; t300 : boolean; T, ITa0a : boolean array; I_, lqha, y1 : boolean returns boolean p : boolean; S, p : boolean; yh : integer array; chillax end It : takes qW, D7, t5, R, K : integer returns integer chillax end main : HM8, h, r : integer; X2, Y5b, c : integer; kz, V, K, m060a, j : boolean; chillax end

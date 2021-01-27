@@ -1,0 +1,1 @@
+program zu : a : takes Y06a, k, RJe : integer; S : boolean array; W : boolean array; d, l : integer; j, a5, Br, y : boolean returns boolean array bP : boolean array; f9ea, p : boolean; F5, u, n : integer; a3gaa : boolean; input gMf0a[- false - 5] end main : N : boolean; chillax end

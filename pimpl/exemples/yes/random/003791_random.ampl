@@ -1,0 +1,1 @@
+program f : P : takes m, j, fH, ix, Y9L : integer array returns integer when case - true and 60 or 5 - 541 : chillax end case - 872 : let S = 2 end otherwise : chillax end end e : takes J, u : integer; v : integer array; F, v : boolean; T, f : integer; G, N, q : integer array returns boolean array pop 2 end main : chillax end

@@ -1,0 +1,1 @@
+program E : In90 : takes Mt, S : integer array; I : boolean returns integer array a, p, k, m87a, Q7 : boolean array; chillax end V : takes Sg : boolean array returns boolean M : boolean array; input pQu0a end main : while true * 17 or false / n and 8 : when case 782 - 6270 : pop end otherwise : chillax end; pop 71; do rN(7); while 88 : chillax end end end

@@ -1,0 +1,1 @@
+program i : P8laa : takes p : integer returns nothing CN6, r6i : integer array; chillax end main : when case true : chillax end case(98) and not 14 /= - (71) and 3 or 77 - 8 : chillax end case(5) : while 32 : pop end; while 8 : chillax end; input NXLa end case 34 - 7 > 9 : when case 5 : chillax end; do z(16) end case 4 : chillax end end

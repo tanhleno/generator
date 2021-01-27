@@ -1,0 +1,1 @@
+program M : I21 : takes h : boolean; V, o5, S66aa : integer array returns nothing tj40, E : integer; chillax end P : takes nS, V : integer array; Cd6 : boolean array returns integer do x(6, 2 = 43); input Mk; when case 6 : pop end case 0810 : chillax end; let _D = 98500 end main : chillax end

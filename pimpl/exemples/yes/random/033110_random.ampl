@@ -1,0 +1,1 @@
+program K : I3 : takes E, M : integer returns nothing when case(2) and 20 <= - 73 - 1 : when case 3 : pop end otherwise : chillax end; output "]"; do nU(7); pop end otherwise : output ""; let N = 97; pop end end main : pop end

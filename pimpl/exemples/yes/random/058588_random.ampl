@@ -1,0 +1,1 @@
+program Y04 : g : takes y : integer array returns integer array chillax end or00 : takes e7S0, K6E : boolean array; rd, s0, Ja6, d : integer returns nothing G1qa, W : boolean array; while - 2 : chillax end; input i end main : O2h0a, T, w88, E4h, y : boolean; chillax end

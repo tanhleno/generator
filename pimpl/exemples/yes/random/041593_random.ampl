@@ -1,0 +1,1 @@
+program G5 : Th9a : takes o : boolean array returns boolean array d, rd, JR00 : boolean; let S[q and 601] = - 149; pop end main : Fe4, zw, FD2 : integer; R, HZ2, t : boolean; O, s, Ov : boolean; _e8, d : boolean array; YYDaa : integer; E, Y : boolean; Pi : boolean; L : boolean; chillax end

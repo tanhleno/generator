@@ -1,0 +1,1 @@
+program Xs : i7k : takes R, be, s : boolean; u3, c, r, PFX : integer; KB, A, Y, W : integer array; u, c : integer array; N : integer array; A : boolean returns nothing a, i1l : boolean array; r2, L, k, Jex0 : boolean array; let Y6 = 0 - 3 /= 603; when case - 86 : chillax end end HvN0a : takes tR : boolean array returns boolean chillax end main : chillax end

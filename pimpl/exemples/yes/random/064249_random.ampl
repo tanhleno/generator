@@ -1,0 +1,1 @@
+program f450 : D50 : takes yG : integer returns nothing x, H, f8, b : integer; qI, M : boolean; n, C, o : integer; chillax end main : yoA : boolean; X, D7 : boolean; d, m : boolean array; while true : when case 3 : chillax end case 38 : chillax end case 2 : pop end case 8 : chillax end otherwise : input a end; pop 904; when case 86 : chillax end case 73 : chillax end end end

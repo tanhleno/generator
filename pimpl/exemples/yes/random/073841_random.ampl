@@ -1,0 +1,1 @@
+program OG : main : T9, uO8 : boolean; j : boolean array; a1f, j : integer array; f : integer array; R : boolean; while - false - false rem C and 6 or rt2a and 0 /= true or z and 4 or 219 : chillax end end

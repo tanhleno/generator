@@ -1,0 +1,1 @@
+program T51 : m : takes v : boolean; E0Na, G9Naa : boolean; n, A : boolean; UX9, o3C : boolean returns nothing i8 : boolean; output - 14000 <= 98; input S5F[6]; let t = array 4 end S : takes NA, gO, jz00, fPxaa, s5, W, O : integer returns boolean array Q, x, BsD, b5f : integer array; chillax end main : pop end

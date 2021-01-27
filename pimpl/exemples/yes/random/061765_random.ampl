@@ -1,0 +1,1 @@
+program T : A : takes sU : integer returns boolean array chillax end main : K : integer; A, V2m, B, kuq : boolean array; pop; do j(- true - HfS and 09700 or 19 - 389, - T32 - 00 - 793 > - 18200 - 1540, - 74 >= 46); output "'" . 49; input H4 end

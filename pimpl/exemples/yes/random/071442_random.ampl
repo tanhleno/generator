@@ -1,0 +1,1 @@
+program u : main : N4, k6, dc : boolean array; ga, Gl6aa, V9 : integer; l2 : boolean; output "7"; while - true : while 9 = 679 : chillax end; input W end; input Co[false and 2 + 5 - 36]; output 30700 = 561; let DC[1200] = 672; let B[0] = array 4 end

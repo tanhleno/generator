@@ -1,0 +1,1 @@
+program rouaa : main : when case(85600) + false / (479) : chillax end otherwise : let rPT[6] = array 3; when case 25800 : chillax end; when case 91100 : chillax end; while 39900 : chillax end end end

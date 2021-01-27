@@ -1,0 +1,1 @@
+program umu : O : takes w5 : boolean array returns nothing VS1aa : integer; T : integer array; q : boolean; x, tR : boolean; iY : boolean; input C[not 7540] end A : takes X, a : integer array; ds, Q8z, cZd, Y, y : boolean array returns nothing chillax end u : takes wV, b2, J : boolean array returns nothing chillax end main : do O(false + false rem not 77) end

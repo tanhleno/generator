@@ -1,0 +1,1 @@
+program b : j : takes g, u, u, f7G, _, cB : integer array returns boolean array F1r0a, J, lH3 : integer array; let x4[- 2 + 0] = array - true; input c1 end main : Tm, j : boolean array; k, COG : boolean array; let d0ba = true and false end

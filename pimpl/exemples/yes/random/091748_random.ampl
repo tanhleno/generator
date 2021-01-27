@@ -1,0 +1,1 @@
+program D2I : main : output(4) * false or true >= 4 - 149 - 06; let j[not false] = array(447) * z6 and 08 or false; when case not 36 : output 47 . ""; output "" end case - 111 : chillax end case 165 : output "9(" end end

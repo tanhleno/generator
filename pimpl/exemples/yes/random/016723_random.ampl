@@ -1,0 +1,1 @@
+program D : q : takes m68, R : boolean; a, m74, Q, mi3, _ : boolean returns nothing chillax end wG : takes a : integer; L : integer array; v : integer; h : integer array returns nothing chillax end N : takes x, p, W, y4 : integer returns nothing while 83 : input W2 end; while 0 : chillax end; do W5(46) end main : chillax end

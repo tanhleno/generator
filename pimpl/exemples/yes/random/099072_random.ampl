@@ -1,0 +1,1 @@
+program i : main : while false * true rem(42200) or V(1530) or true - 9 - 6 <= - not(90) * true and 724 : when case - 5 - 4210 : do Rd9aa(6); while 5 : chillax end end case 2 : chillax end end; output "" . 1 . 20 . 5 . 37100 . "pO\"a" end

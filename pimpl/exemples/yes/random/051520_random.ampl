@@ -1,0 +1,1 @@
+program N8 : Q : takes L : integer; k : boolean; Q : integer array; q, C2h : integer array returns nothing chillax end V : takes U810a, N, R, fFqa : boolean array; O2u0a : integer array returns boolean qeV, CE, M9V : boolean array; chillax end main : output ""; let L[- 9 or true and 91 or 0] = false; while(36) and 0 >= - 89900 : chillax end end

@@ -1,0 +1,1 @@
+program S : RTGaa : takes M30, H : boolean array returns boolean R : integer array; when case - false and 6 > - 1 - 2 : chillax end end main : YM4, fk, F, l : integer array; do M(true or true rem(0)) end

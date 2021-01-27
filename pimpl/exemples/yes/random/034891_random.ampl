@@ -1,0 +1,1 @@
+program v5 : IT : takes yN6 : boolean; G, w2h : integer array; W1, _, j : integer returns nothing rG : boolean; chillax end main : A : boolean; while false * not false + (910) * K : chillax end; let LG0aa[ta[78] + R and 2] = true - 0020 - 0 /= 88 - 7 end

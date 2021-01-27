@@ -1,0 +1,1 @@
+program q9O0a : T : takes o : integer; wp, CY : integer returns boolean array l, W00a : integer; AJa0a : integer array; pop - 1 > 40; pop end main : let n[not 9570 rem not false - a61[33] * false] = 2 end

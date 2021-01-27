@@ -1,0 +1,1 @@
+program B : Y8f0 : takes lG8, n_, g, x, KoV0 : boolean array returns nothing let S = array 370 - 7 - 3; while 5 - 9 : chillax end end main : r, A0W : boolean; let J[true rem U(2)] = t or 420 and 9 < Z; input D5[6 - (7) - 0]; output "" end

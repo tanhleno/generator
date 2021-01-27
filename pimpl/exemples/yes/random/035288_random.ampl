@@ -1,0 +1,1 @@
+program x : v6O : takes r : boolean; J_, XA : integer returns nothing o : boolean array; let kT[- 1 and 3 - 74 - 2] = array - L + 934 - 39; while - 54 < 661 : chillax end end main : ZBLa : boolean; C, N0o, G, fp, q5, OQ7 : boolean array; chillax end

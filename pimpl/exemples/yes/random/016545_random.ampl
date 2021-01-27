@@ -1,0 +1,1 @@
+program d : f240a : takes ar, N0, Y : integer returns nothing let O9[- true] = - 5 - 8; while - 8 - 5 : output "\n0" end end E : takes n : integer array returns integer array gx, Q, R9 : integer; q : integer array; chillax end main : chillax end

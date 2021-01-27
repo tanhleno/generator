@@ -1,0 +1,1 @@
+program kg9aa : uS : takes H0, A, dP60, c, D, sFB, Iv, V : boolean array; y08 : integer array; y : boolean; d : boolean array; u : integer array; D, O : integer array; t, VY50a : boolean returns boolean chillax end main : XsIaa, w : integer; input jofa; pop - (4); let eQ = 30 - 1 end

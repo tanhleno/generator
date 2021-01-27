@@ -1,0 +1,1 @@
+program s : d : takes l, k : integer array; Zz5, nf8, _ : boolean array; b : integer returns boolean hj, V : boolean array; chillax end main : t7 : boolean array; P9aaa, UIw : integer array; while not M[33] rem not 952 + true / (14) and 6 : chillax end end

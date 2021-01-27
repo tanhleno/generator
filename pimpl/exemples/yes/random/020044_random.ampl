@@ -1,0 +1,1 @@
+program q1 : I : takes m, UE : boolean array; l : boolean array returns nothing V, y, s : integer; when case - U and 0 or 17 : chillax end; do _e6a(4 - 8, 69 = 4) end zw1aa : takes U7b : integer; r : integer returns nothing output 7 = 80 end main : q, e : boolean; W, k, R5, l : boolean; chillax end

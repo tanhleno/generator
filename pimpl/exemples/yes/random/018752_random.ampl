@@ -1,0 +1,1 @@
+program P : V : takes O, d : boolean array; hBAa, Dk, e4k, T : boolean array returns integer gW, T : boolean; M : integer array; n : integer; E700a, FNV : boolean; d : boolean; dV : boolean; output - 6 > 3 end I : takes k, g6, bB, a, h : boolean returns nothing G65a, X : integer; chillax end main : output "" end

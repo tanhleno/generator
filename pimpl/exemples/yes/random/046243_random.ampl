@@ -1,0 +1,1 @@
+program J : n04 : takes E4 : boolean returns boolean o : integer; v, HR, jT6, C : integer; pop; output "\"70"; let Q07 = 5570 end main : Q3V : boolean array; h : integer array; I88aa, I6 : boolean array; v4 : integer; chillax end

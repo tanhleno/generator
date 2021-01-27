@@ -1,0 +1,1 @@
+program t : F4va : takes Z, Q : integer returns nothing G, P8 : integer; Q, G, O, h : boolean; t : integer; f6, nm2 : boolean; chillax end main : k : integer; let y2Ra = array - 0 and(5) * false; do U0(- true and true or(2) and 5 + 4 - 32800, - (6)) end

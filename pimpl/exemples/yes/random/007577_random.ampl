@@ -1,0 +1,1 @@
+program N : t3 : takes Y, A8, JR0, p : integer array returns integer chillax end q : takes B5Laa, d, xr, TE0 : integer returns nothing do F(1, 3, 5620, 3); do h(18, 20600, 80200) end main : Q2V0a, XI : boolean; iTL, R : boolean array; B : integer; input D[- mw or not false * (9) or kZF + 5 - 67] end

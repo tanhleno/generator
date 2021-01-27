@@ -1,0 +1,1 @@
+program _ : Hz : takes O, J87 : integer; n, P : boolean array returns integer chillax end main : when case k(9, 1) / false and(1) + (6) : chillax end case(75) : let i = array 1; do p(3); while 59 : chillax end end case - not 059 and 899 or 9 - 0 : chillax end otherwise : chillax end end

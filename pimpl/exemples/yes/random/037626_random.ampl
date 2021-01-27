@@ -1,0 +1,1 @@
+program D : FyM0a : takes IEZaa : boolean array; W, FBM, M60, y6, p0k : boolean array returns nothing chillax end main : when case - false : do O29(50 - 985, 7 = 76); while 4 : let c = 0 end end otherwise : let b = 96; when case 27 : pop end case 446 : chillax end otherwise : chillax end; let VC5 = 3 end end

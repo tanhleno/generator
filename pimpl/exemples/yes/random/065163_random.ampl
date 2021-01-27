@@ -1,0 +1,1 @@
+program N : rPk : takes G : integer returns nothing input u; pop 38 = 88400; do Z(0, 5, 21); while 7270 : chillax end end B6 : takes at, u : integer returns nothing g : integer array; pop 5 = 2 end main : x, J6, _, fq, R : integer array; A3 : integer array; O : integer; while false and true or Y[7] rem false and 8 = - e rem false and 53400 : chillax end; pop - 3 = 7 end

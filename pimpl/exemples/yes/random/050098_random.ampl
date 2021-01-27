@@ -1,0 +1,1 @@
+program B03 : J7v0 : takes l : integer; Q390a, m, Z : integer array; H, rE : boolean; x : boolean array; A, pu20 : integer array returns integer array P, i7E, n9 : integer; input O4; input I[18 - 8]; pop 4; while 2 : chillax end; pop end main : pop; output ".fa" . "" . "y" . 18; input ap6aa[not 7 and 27200]; output 29 = 2 . 6 end

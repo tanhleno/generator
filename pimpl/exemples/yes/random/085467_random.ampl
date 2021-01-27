@@ -1,0 +1,1 @@
+program mt : main : f : integer array; do b(- 0 * false / true and 1 < - j and 9 and 69200); while - true / MY or(4) or 2 /= true + 6 - 5 : input z; while 0 : pop end; when case 7 : chillax end; pop; pop end; input K6h[- (12)] end

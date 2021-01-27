@@ -1,0 +1,1 @@
+program cR70a : N3 : takes n : boolean array; s09 : boolean; VT30, b, I4 : integer array returns boolean cZQ0 : integer; chillax end i44 : takes ZVo, mdW0a : integer returns nothing zK1a : boolean; do p(- 5 - 76 = 2) end main : a8v, u, Z790a, s : boolean; g3 : boolean; chillax end

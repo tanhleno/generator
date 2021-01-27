@@ -1,0 +1,1 @@
+program b : main : while true / not true / 75500 > false / 0 and 033 or false : input xV6; output "0\n" end; while - (18) : when case 0 = 7 : output "J*" end case 3 : pop end case 0 : chillax end otherwise : chillax end; do bG20(09, 1); pop end end

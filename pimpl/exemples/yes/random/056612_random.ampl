@@ -1,0 +1,1 @@
+program e : V : takes D : integer array; L : integer; N, K : integer array; D6, J7 : boolean array; vzk : integer; j3 : integer returns nothing chillax end tio : takes S, t : integer array; vEW0, n : boolean returns nothing output 4 = 31 . 0 . 334 end main : v, j7, uA5 : boolean array; chillax end

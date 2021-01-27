@@ -1,0 +1,1 @@
+program J6Ea : r : takes b, UT, MS, U9A0 : integer; j : integer; dh, O1, R : integer returns nothing e, L, g3wa : integer array; m, wX4a : boolean array; chillax end main : do d(- true * 80); while - not true and false : let y[91] = array 220; do Km(3, 7) end; pop - 786 - 43 /= 7 end

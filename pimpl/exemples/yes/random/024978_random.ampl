@@ -1,0 +1,1 @@
+program c : v5z : takes LI, P7 : integer; TAq, q, y, J, Uw : boolean returns integer array input vqMa[67200 and 4] end C : takes j : integer returns boolean array k : boolean; chillax end main : while true : chillax end; input cV[YqM[05] * not 7 and 7] end

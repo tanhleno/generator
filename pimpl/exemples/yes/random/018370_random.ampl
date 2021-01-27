@@ -1,0 +1,1 @@
+program ouzaa : L : takes AC6aa, b : boolean; D : integer array returns boolean array input U8[- false or 5] end m : takes C800a, p, IJD : integer array returns integer m, R : integer array; pop 46; input U; do X2y(585) end main : chillax end

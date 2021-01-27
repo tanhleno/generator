@@ -1,0 +1,1 @@
+program Bw : l : takes s : boolean array returns nothing output "5" end HO80 : takes wg, R, O2, ZZ, eRL, h09, a5 : integer array; J9, k : boolean array returns boolean array ZB20 : integer; input K7 end main : L980a, z, EU, d83a, d8Ka, p : boolean; while 21 rem(717) rem true - doyaa[798] and EK00 and 5 or 2 and 3 /= - true / (94) and 5 : pop 15 = 34 end end

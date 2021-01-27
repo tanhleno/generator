@@ -1,0 +1,1 @@
+program w : d : takes M9, O2Z0, k710a, JX, IKva : boolean returns nothing ylc, s, I7 : integer; CL, W, YnV, A : integer array; A : integer; let i = - 29 - 1 end main : sJb0a, tP : integer array; chillax end

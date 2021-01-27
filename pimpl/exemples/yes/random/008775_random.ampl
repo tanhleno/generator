@@ -1,0 +1,1 @@
+program D : cg : takes a, O, a52aa : boolean; U, L0 : boolean returns boolean array while(230) : chillax end end l : takes w_60a, E : boolean; m2Baa : boolean returns integer D, aZi : integer; fs, S : boolean; chillax end z9 : takes O0 : integer returns integer chillax end main : chillax end

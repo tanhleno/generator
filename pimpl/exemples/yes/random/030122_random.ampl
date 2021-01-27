@@ -1,0 +1,1 @@
+program c9 : a : takes f3, qbLaa : integer array returns integer let C[- 76 - 3 - 6] = array - not 990 - 3 - 7; while - 7 - 6390 = 1 : output "" end; do eg(8 = 0); when case 04 : pop end case 3 : chillax end; while 89 : chillax end; output "e" end main : j0, Ecv, X3a0 : boolean; l, eU9 : boolean array; chillax end

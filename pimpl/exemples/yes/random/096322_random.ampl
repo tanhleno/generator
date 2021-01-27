@@ -1,0 +1,1 @@
+program tNG0 : main : when case - not true >= 8 : pop 957 = 2; when case 67 = 4 : chillax end end otherwise : chillax end; pop; input T[- true - 4 - 8]; when case 5 : chillax end case 14 = 04 : when case 912 : chillax end; pop end case 6 : chillax end case 441 : chillax end end

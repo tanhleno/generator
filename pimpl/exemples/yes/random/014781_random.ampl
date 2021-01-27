@@ -1,0 +1,1 @@
+program Jb3 : W5 : takes w8, c, R2f : integer array returns boolean chillax end W : takes Y : boolean returns boolean while 8 - 9 : chillax end; pop; output 9 . ""; input n end main : o : boolean array; x8o, P : boolean array; chillax end

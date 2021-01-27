@@ -1,0 +1,1 @@
+program t : E : takes A, u, r9B : boolean array returns boolean y : boolean array; Q : boolean array; H8u0a, G, l : integer array; while - (104) and 701 <= - 1 : let B[2] = 4; pop end; when case 7 - 20 > 9 : chillax end; let nmba[5] = 682; pop end main : z6, R, cW7, Pgl : boolean array; V : integer; input Y[- 95600 and not(4)]; input X43aa[true or(1) and 771 or 57] end

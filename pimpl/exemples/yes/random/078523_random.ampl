@@ -1,0 +1,1 @@
+program h : main : T : boolean; T, Z93, EF, U : integer; J, l, N : boolean array; Rcb0a, a, v : boolean; input d[- not true - true and false and 00 or(96) - 5]; while true + false and 6 : chillax end; output "" . "97!a" . "" . 32 . ""; do P(- 69200 - 8 <= 7840, 4 = 8) end

@@ -1,0 +1,1 @@
+program r : I : takes H : boolean; T : integer returns boolean pop end Od8 : takes S000 : integer array; V, m : boolean array returns nothing when case - 4 < 3 : chillax end case 2 = 61 : do e(54) end end main : H, T : boolean array; chillax end

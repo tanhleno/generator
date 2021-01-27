@@ -1,0 +1,1 @@
+program S : t : takes u, C, l3 : boolean returns nothing when case - false : chillax end case 73 - 0 > 1 : while 36100 : chillax end end case 73 = 6 : output "" end end C : takes j14 : boolean array; w5, Y, C : integer array returns integer array h, Ni : integer array; chillax end main : y, E9s0, C : integer array; chillax end

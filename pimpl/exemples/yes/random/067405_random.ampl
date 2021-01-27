@@ -1,0 +1,1 @@
+program j210a : main : do M(not N); while - not false * A or true and 0 = - true and 1 or 2 - 03 : chillax end; pop 84 <= 32; when case 90 - 54700 /= 9 : do m(1); pop end case 5 = 1 : output ""; pop end; when case 6 = 4 : output "0"; pop end end

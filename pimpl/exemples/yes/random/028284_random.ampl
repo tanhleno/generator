@@ -1,0 +1,1 @@
+program oA30a : ZSN : takes G, B : integer array; r : boolean array; u, FxKa : integer array returns nothing d : integer array; bg : boolean; J, r1Ga : integer array; chillax end main : XY2 : boolean; pop end

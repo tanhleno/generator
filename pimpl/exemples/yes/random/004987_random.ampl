@@ -1,0 +1,1 @@
+program ox7 : C3 : takes j, a7u, I, Y : boolean array; p2M, w : integer returns nothing pop 1; input L3[48 - 597] end Ee9a : takes a, o, H100 : integer array; XOd0a : integer array; cg4 : boolean; J2Ja : integer returns nothing K : boolean; chillax end main : qT_, W, V : integer; D, r : integer array; pop end

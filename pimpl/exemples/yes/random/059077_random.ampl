@@ -1,0 +1,1 @@
+program dI : d8 : takes TBg : integer array returns integer chillax end lJ : takes O37a, Q, ey, d51, u8Ua : boolean; b, j : integer array returns nothing C, o3z : integer; chillax end main : when case - false and true or true /= - not R / false and 6 : chillax end end

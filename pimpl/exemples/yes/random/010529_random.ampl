@@ -1,0 +1,1 @@
+program V : w : takes Vj40a, Xku, qo2 : boolean array returns boolean array chillax end main : mv : integer array; let f = array - 1 * not true or not not 84800; pop - true + 4 - 1; do n(- V or 1 - 06 >= - 09 - 81, - 85000 - 10 /= 3, 8 = 9); when case 4 - 4 = 0 : pop; when case 203 : chillax end; pop end; input h2N end

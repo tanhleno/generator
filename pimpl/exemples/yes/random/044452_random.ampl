@@ -1,0 +1,1 @@
+program qgRa : an : takes M : boolean array returns nothing Ge : boolean; Wi, Z4, J820a : boolean; v : boolean array; SzQ : boolean; k : boolean; i4 : boolean; let Tu[- (5)] = array - I end main : R, K, z70 : integer; chillax end

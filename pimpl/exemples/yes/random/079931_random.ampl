@@ -1,0 +1,1 @@
+program g : main : DB : boolean; let ZK = - not 584 or 3 or 9 - 43100 <= false and 6; do I(F[33800] and 2 + not 49 - 9 - 452); when case - true and 014 - 3730 : let c = array 55900; pop end case - 6 - 2 : when case 1410 : chillax end end otherwise : chillax end; output "D8" . 5 . ""; pop end

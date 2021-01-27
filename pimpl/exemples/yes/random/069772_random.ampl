@@ -1,0 +1,1 @@
+program I : main : W, U, w, Hl : boolean array; Nx, E, o : integer; P1, N, w, tRC0, N7 : boolean array; when case - 17 rem true and false and 4 or(11500) / (58) or true and 8 - 958 - 57 /= - 029 and not 4 or false - 8 - 60 : do Btc(- 021 - 1130) end case not false or not 9 and 271 or 4 > 87800 and 1 : pop end; output "" end

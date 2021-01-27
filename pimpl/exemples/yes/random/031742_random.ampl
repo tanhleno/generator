@@ -1,0 +1,1 @@
+program Gb : Q2 : takes g9, k19aa : integer returns integer array do t(- false and 5 < 1); while 5 : chillax end; while 0 : output "" end; do R(8) end main : E0 : integer array; a490 : boolean; do a7(- (1 = 7) /= (13) + false) end

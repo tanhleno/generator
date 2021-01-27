@@ -1,0 +1,1 @@
+program c6 : main : Kb90, J : boolean array; N : integer; D8 : boolean; tZpaa, ospa : boolean array; pop O870(30400) and 03400 or C - 85 > N and 0 or 9; when case EO[1] * not 9 - not 4 and 79600 + 3 > F - 7 : pop 7 end otherwise : when case 51 : pop end case 8 : chillax end otherwise : chillax end; output "" end; do u(- not 34 and 2 > 03400) end

@@ -1,0 +1,1 @@
+program a : a : takes E3 : boolean array; r : integer array returns boolean k : integer; chillax end main : input y; output false and 4 - 6 - 27800; when case 3370 and 0 >= 5 : do Y66(6); while 8 : chillax end end end

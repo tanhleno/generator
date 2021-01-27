@@ -1,0 +1,1 @@
+program w3 : sK6 : takes L, xN : boolean array; C6waa : integer array returns nothing D0 : boolean array; chillax end main : rq, l, s60a : integer; d : boolean; O : boolean array; let y = E9z[96] / (51) /= AE5 and 5 or 2 end

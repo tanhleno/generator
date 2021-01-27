@@ -1,0 +1,1 @@
+program hOY0a : T4 : takes z : integer array returns nothing O8 : integer; output "4>" . 7 = 89 end Q : takes b : integer array returns integer array VYr, h0 : integer; output 326 = 8 . 8 . "" . "\\|" end main : while true * 6 - not true > - not sG + true and 2 + 81 - 76 : while 2900 : chillax end end end

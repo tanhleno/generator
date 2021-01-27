@@ -1,0 +1,1 @@
+program C : main : Pf, C, s, fdnaa : integer array; do xq(not 22 or 7 + true <= - (6) / false, - true, - not 3 and 016 - 6 > - 76 - 5920); let U[- 4 / (97200)] = array - Z0Q(748); while not 1 : pop end end

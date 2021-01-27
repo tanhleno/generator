@@ -1,0 +1,1 @@
+program bwH : G2 : takes h : boolean array returns integer N : boolean array; output - 54 end yxaaa : takes X4d : boolean array returns boolean array g : boolean array; output 5 = 40; pop 1 end main : Dk70 : boolean; w : integer array; F : integer array; o4Z : integer; z, kh3, E7R : boolean array; chillax end

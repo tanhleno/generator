@@ -1,0 +1,1 @@
+program V : main : X3v0a, Ni : boolean; output - I8j0a(85) - gs = not 3 and 1; when case - (3) / false >= - (2890) and 076 + 80200 : let qgA = array 37900; pop 6 end; when case - (8) and 9 : input M[03] end case 8 - 2 > 67 : chillax end; input E3[- 4520] end

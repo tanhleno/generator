@@ -1,0 +1,1 @@
+program J : X : takes s : integer returns nothing m_, XiK0a : integer; let j[true - 8] = array not 63 end main : while - (38) or(00) rem not 00 and 07400 or false <= - false and 9 : chillax end; output not 959 and 18 - 2 - 8 . "" end

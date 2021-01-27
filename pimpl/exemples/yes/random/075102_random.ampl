@@ -1,0 +1,1 @@
+program zQ3a : main : Z06aa, N : boolean array; c : boolean array; o6 : boolean; B, D0Ia, a4c0a, g : integer; when case - false and 6 /= - (12600) : chillax end otherwise : input W; when case 4 : chillax end otherwise : chillax end; input N9I end; when case - (8) or not 7 + 73200 /= s2 and 2 or 6 : chillax end otherwise : pop 9 end; input rnM[true and 513 or 20 - 4] end

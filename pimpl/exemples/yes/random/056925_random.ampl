@@ -1,0 +1,1 @@
+program Sm80a : zr : takes GY : integer array; w : integer array; k, y : integer array returns nothing let T = array - 2 and 67 end o : takes wG : boolean; hS8 : boolean returns nothing Q6, V87, Aq : integer array; e : integer array; n : boolean; when case - 58 : chillax end case 5 = 258 : chillax end; output "B\t\"a" . "" . "" end main : BY2, mH7a : boolean array; chillax end

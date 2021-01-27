@@ -1,0 +1,1 @@
+program Q : G : takes j : integer; l150a, v1, V0 : boolean array returns nothing i, f : boolean; chillax end i : takes Ui40 : integer array returns nothing when case 758 - 8 : do g(41); output "" end end main : chillax end

@@ -1,0 +1,1 @@
+program r8s0a : Y : takes T, wI4a, s : boolean array returns integer array chillax end S9 : takes m, a, z, b5Zaa, dt3, h, W : integer array; c, T, c : boolean array; R, b : integer array; od, N, Je : integer; m, p, Dy : integer; n : boolean returns nothing when case 48 : while 9 : chillax end end; do e(8, 1, 88) end main : chillax end

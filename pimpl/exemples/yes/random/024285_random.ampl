@@ -1,0 +1,1 @@
+program h0 : H6n : takes pI3, j5 : boolean returns nothing tJ, P : boolean; input o2n[6]; while - 6650 > 1 : chillax end; output 26; output 8 . "" end m : takes V_ : boolean array returns boolean array chillax end main : j, P, l : boolean; input A7 end

@@ -1,0 +1,1 @@
+program n6 : Z : takes f, g, dP : integer array returns nothing output "\"B" end j77 : takes U0s : boolean returns nothing x : boolean array; chillax end main : O94a, q, e : integer array; t : integer; P9N, B6Y : integer array; c7z, m, d010a : integer; do M(not 6 and false or 7 * 65 and 617 or true < - C + K and 2) end

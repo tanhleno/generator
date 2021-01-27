@@ -1,0 +1,1 @@
+program Lm : N5 : takes HB : boolean returns integer F : integer array; m : integer array; input b end edF : takes f0 : integer returns integer s : integer; M : integer array; chillax end main : while(51 = 2) rem(1) : chillax end; do t9(MU0 <= - t5 and 31, (9) - 64 - 73, - 6 <= 6, 95, 3000, 8); do E6(- true - 7, 6 - 6 < 05, 28 = 207, 871, 382); input Y[- 98] end

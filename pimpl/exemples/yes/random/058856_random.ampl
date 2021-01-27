@@ -1,0 +1,1 @@
+program H : D : takes r220 : integer array returns integer array m : boolean; df : integer array; Rx : boolean; n, j : boolean; N3 : boolean; let k = - 9 - 3690 >= 9; do KZ1(7 - 78); when case 9 : input uU1; pop end case 6 : chillax end; do eca(6, 43) end main : chillax end

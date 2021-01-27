@@ -1,0 +1,1 @@
+program N : o : takes g01 : boolean array; C330a, _, H6 : boolean array; mo3 : integer; C, L, d9n : boolean array; k7, j9, fT, ay3 : boolean returns nothing l : boolean array; e : integer; while - 3 and 1 : let mV = array 3 end end main : chillax end

@@ -1,0 +1,1 @@
+program Eh0 : R16aa : takes T : integer returns integer when case - (194) and 41 : chillax end case 1880 - 4 <= 6 : input W6; do S3(56); pop end otherwise : when case 96 : chillax end end end main : O, Y, H8, b : boolean; chillax end

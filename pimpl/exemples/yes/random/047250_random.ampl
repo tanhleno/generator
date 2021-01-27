@@ -1,0 +1,1 @@
+program i : Df : takes N2 : boolean returns integer C : integer array; when case 7 > 612 : while 11 : pop end end otherwise : chillax end; when case 0 - 85 : pop end case 46 : chillax end case 42 : pop end otherwise : chillax end; output "9" . "" . "" end main : I : boolean array; A1u0a, g0, x : boolean; HA60, Y : integer; chillax end

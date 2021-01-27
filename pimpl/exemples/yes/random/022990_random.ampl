@@ -1,0 +1,1 @@
+program G3 : F : takes d, b39 : boolean returns boolean array Z : boolean; g, Wy : boolean; L2, H, u6 : boolean; Z, pi9 : boolean; U : boolean; output 87 end main : O : boolean array; pop - (6) * (4) end

@@ -1,0 +1,1 @@
+program KK10a : LM : takes Pe, Nf0, Ry, ad, Y40, A4m0, Ih_ : integer returns nothing chillax end main : let k[- false * 78] = array true; while false or(6) and 1 > - not 415 and 4 or 51 - 3 : while 6 : chillax end; pop 14 end end

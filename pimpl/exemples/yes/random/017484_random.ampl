@@ -1,0 +1,1 @@
+program iC : Ec : takes M, Pg : boolean; m, RD2 : integer array returns boolean array g : boolean array; chillax end main : Y4, AZg, V : integer; q : boolean; O : boolean; output not agk / not 8 and 9 or(6290) or 9 - 33 end

@@ -1,0 +1,1 @@
+program D16aa : I5 : takes n : boolean array returns nothing M, d, d : boolean; output "&/\""; output "|\n\""; let c = 3 end main : d9B0a, X, Ux, A : boolean; s6u, L, eO : integer array; E4a, q_, _49a : boolean array; W : boolean array; n, c, H : boolean; Ip, R : boolean; chillax end

@@ -1,0 +1,1 @@
+program O : main : let uv = array - true / false rem true or(8) and 02; let d[not Sq * Fz9 and 9930 or true] = not 653 and 50700 or 42 - 1; output - 6580 > 9; when case 90900 : chillax end; input q8x0a[69]; input Ne8aa end

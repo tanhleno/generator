@@ -1,0 +1,1 @@
+program X : VP5 : takes H, C, FJ7aa : boolean array returns boolean array chillax end wU : takes gK : boolean; w, A, z : integer; x21 : integer array returns integer array x : integer; input l[4 - 6]; input e end main : l3I0 : integer array; ezt, T : boolean array; O, Vq, P : integer array; J : boolean array; chillax end

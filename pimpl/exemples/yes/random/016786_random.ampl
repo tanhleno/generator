@@ -1,0 +1,1 @@
+program x : e93 : takes x, H : boolean; u1, pTI, Au, lw : boolean array; v, t : boolean array returns boolean a : integer; A7ha : boolean; h : integer; let e[- true + 4280 - 5] = array true or 30400 - 626; do p(8 - 41 > 66300, 8 = 56, 90); let o = 1 end main : chillax end

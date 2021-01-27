@@ -1,0 +1,1 @@
+program P : M : takes z : integer array returns nothing Dz, A3 : integer array; cq, Ui : boolean array; chillax end main : I4 : boolean array; while - 8 * (8) > - false * M18aa and 52 : do Q(8 - 250) end end

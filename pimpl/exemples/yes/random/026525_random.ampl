@@ -1,0 +1,1 @@
+program r : K620a : takes l, p : integer; X : integer; k5, _ : integer array returns nothing S3 : integer array; chillax end a8S : takes L, l : integer returns nothing input axm[- 7 - 3]; output "\"9" . 2 . ""; let c1S[5] = array 7; while 167 : chillax end end main : chillax end

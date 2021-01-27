@@ -1,0 +1,1 @@
+program sK : zZm0 : takes C0, E7, y0K0, P1C0 : integer returns nothing L : integer array; _ : boolean; chillax end main : _1L : integer; do K(- 5 - w0(36) / 7 and 05 or not 67600 and 27100, (221)); output ""; output 3 - 5 end

@@ -1,0 +1,1 @@
+program j29 : N : takes g, X : boolean; a : boolean; y : boolean returns nothing S7V : integer array; Z : boolean array; _Vy, s : boolean; wUra : boolean; I : boolean; chillax end main : K : integer array; input i; output "e]0a" . "" . 35 end

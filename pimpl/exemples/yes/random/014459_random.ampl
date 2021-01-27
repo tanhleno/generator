@@ -1,0 +1,1 @@
+program BR : OAQaa : takes n, y, Rt : integer array; Cj : integer array; Sz, I : boolean array returns nothing l : boolean; oS7, AH3 : integer; a : boolean array; JJ : boolean; mD : boolean; chillax end NN : takes B8Z : integer; R : boolean; Jh6, e7, E3, hr2, E0 : boolean returns nothing B : integer array; chillax end main : chillax end

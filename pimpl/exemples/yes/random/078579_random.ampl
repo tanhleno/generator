@@ -1,0 +1,1 @@
+program XDu0 : main : pi5 : boolean; x, K71, M, J5w : integer array; while - false / B[0] : chillax end; when case not not 39 rem da and 61600 or(311) : output "" . "" . "T4" end case(76200) > 1 - 54 : chillax end case - 52 <= 23900 : output ""; let va = 3; pop end; output "" end

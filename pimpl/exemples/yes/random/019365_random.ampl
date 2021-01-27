@@ -1,0 +1,1 @@
+program t : _ : takes u760, d : boolean array; N, w : boolean returns nothing Ti : integer array; N9 : boolean; chillax end main : Q : boolean array; while - not 7 + 8 rem l7 and 7 : do BF(02) end; while - (8) : chillax end; do d(9 or 1 < 1); while - 61 : when case 18 : chillax end end; while 2 : chillax end end

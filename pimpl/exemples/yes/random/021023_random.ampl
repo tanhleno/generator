@@ -1,0 +1,1 @@
+program G020 : e80a : takes u, m23 : boolean array returns boolean chillax end e : takes W6, zd3 : boolean array; g : boolean returns integer H7K, C4ca : integer array; X2L, k2O : boolean; chillax end main : let ZE60[- (25 = 70) * false] = false / (8) + 70 - 22400; let w[48 / (9) and 3] = array - (86) * true + not 595 and 827; when case - 59 < 0 : chillax end end

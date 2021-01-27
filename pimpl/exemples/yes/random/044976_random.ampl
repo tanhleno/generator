@@ -1,0 +1,1 @@
+program tu : Ul70 : takes SD : boolean array returns nothing input E8 end s : takes Q0 : boolean array; H, F, q : boolean array; a, L520, O_, m8 : integer returns integer array y : boolean array; p, ta3 : boolean; chillax end main : chillax end

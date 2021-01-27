@@ -1,0 +1,1 @@
+program sG : main : M, c : integer; o, f59, B : integer; nx1, w, o : boolean array; Nw, u0, j, l4la : boolean array; while false rem 1 rem 43300 and 7 or(3) * c820a + not 5 : pop end; let Xyoaa[false and not 6] = array 4 and not 3 and 3 - r and 7 - 1260 end

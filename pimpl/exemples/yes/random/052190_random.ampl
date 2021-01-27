@@ -1,0 +1,1 @@
+program S : H2 : takes KV3 : integer; UK : boolean returns integer array R61, p, q : integer array; m9d0, f : boolean; k, w : boolean array; input A[- (52900)]; when case 6 - 3790 = 8840 : output "n4\""; do z(27400) end case 54 = 710 : chillax end end main : pop - s; when case - DO[8] < - 0 or 856 - 3 : chillax end end

@@ -1,0 +1,1 @@
+program p : J1 : takes H : integer; xaMa, bB, j, D : boolean array; IH : integer array returns integer array let j = array - 5 or 5 - 75; when case 80 - 8 : chillax end otherwise : do M(3); pop end; while 8960 = 146 : chillax end; while 36 : chillax end end main : output ""; do d(a[6] or not 30 and 5, d and 4820 + 66 < 9) end

@@ -1,0 +1,1 @@
+program _ : main : OQS, T, x82, FI1 : integer; u3 : integer array; Y : boolean array; let FV7[false / (9) - not true] = array - 2 or not(9960) + (0); when case true + true : when case 2 = 961 : chillax end case 8 : pop end case 6 : chillax end otherwise : chillax end end; let K2[- true] = array - 7 and 2 or 62500 end

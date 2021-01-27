@@ -1,0 +1,1 @@
+program D : J : takes s, Q : integer returns nothing do fU(- false + 9 - 6) end KG : takes T1 : integer array returns integer let I = array - 9 end main : hv, j, J, gJ, S6, g, GN00 : integer array; chillax end

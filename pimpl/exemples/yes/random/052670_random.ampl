@@ -1,0 +1,1 @@
+program s : p : takes d : integer; s0 : integer array; Cb, Ln6 : boolean; e, b : integer array; h0K, s, H, m090 : boolean array; A3laa, Qx : integer returns boolean array US1, F, HPJaa, QU0 : integer array; output 1 . "#" . 01 . 50500; do e2(5 - 6 >= 2); input N1; input It9[5] end main : j6h0a : boolean; Q, ma, G, r8D, G, M : integer; S : integer; E, KE, m : integer; chillax end

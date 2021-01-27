@@ -1,0 +1,1 @@
+program R : g : takes mz, v : integer array; im3 : boolean array; m : integer array; Pl : integer array returns boolean array pop - 43 - 7 >= 32; input l0; let x = 6; pop end main : c : integer; while - x(6) * false rem false < 1 + (4) or 42 - 1 : while 0 - 073 <= 965 : pop end end end

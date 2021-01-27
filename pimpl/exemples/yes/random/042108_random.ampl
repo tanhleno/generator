@@ -1,0 +1,1 @@
+program y1 : R : takes Y : boolean array returns boolean H, BBha : boolean; chillax end main : W3, A, Uz40a, w : boolean array; p, r6, ez2, dc5 : boolean; pop; do cf20a(- 3 rem vS and 872 - (9) and 00 - 4); while - not 0 and 406 /= - 9 - 327 : chillax end end

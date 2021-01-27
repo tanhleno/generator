@@ -1,0 +1,1 @@
+program y : V8m : takes d, s180 : boolean array returns nothing when case - (4810) and 0340 or 5 - 6 : let z = array 723; output "" end otherwise : chillax end end main : P6 : integer; output - (2) * false and 391 or true and 5 - 7 - 72 <= - Ku . - i1 > - 0 . 6 = 2 . "\t6\"a" . 0 . 4; do t(- false and not 1 and 1, - not 26 and 63 <= - 377, 00700 - 8); output 21400 < 2 end

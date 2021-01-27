@@ -1,0 +1,1 @@
+program yb : cZ : takes riS, X : boolean; g, T : boolean returns integer array while Y or 79900 - 06 /= 114 - 9 : chillax end end main : O3 : boolean array; do i98((29 = 68) / false, - j2 - not 15 and 379 or 5360); let Y = array - 362 rem(240) end

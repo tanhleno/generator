@@ -1,0 +1,1 @@
+program W : main : Zq, U : integer; j : integer array; h : integer array; R, M : integer array; z : boolean array; when case - not not(23500) + S4(3380) / 1 and 7 or(8) = - xT(71) rem not 6 : do x(- 3) end otherwise : do y(6) end end

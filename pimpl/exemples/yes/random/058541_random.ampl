@@ -1,0 +1,1 @@
+program B : K : takes e : integer array returns boolean when case - 0 and 9 : while 9 : chillax end end case 6 - 847 /= 6380 : when case 3 : chillax end; let i6 = 4; pop end otherwise : output "3"; do a810(8); pop end end main : X : boolean array; X0 : boolean; L07a, U, m, d_x0, D : integer array; u : integer; chillax end

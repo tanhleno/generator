@@ -1,0 +1,1 @@
+program o : main : V : boolean; Y, p5, l : integer; wF : integer; K : integer array; while - x3H[9] * true : do I(1 - 81); output 98 . 06; when case 26 : pop end case 71 : chillax end; let E2 = 1; when case 6 : chillax end end end

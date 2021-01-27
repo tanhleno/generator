@@ -1,0 +1,1 @@
+program qq : mC : takes k : boolean array returns nothing chillax end S3 : takes C8g : boolean array returns nothing chillax end u : takes fo : boolean array; jK, wmZ, o : integer array returns nothing output ""; input d[8]; output "K" end main : chillax end

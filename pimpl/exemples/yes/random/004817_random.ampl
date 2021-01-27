@@ -1,0 +1,1 @@
+program ts : I : takes r, t, C95, W : boolean array; e, D7, A : integer; s : integer array returns boolean array l, H, en : boolean; when case - not 83 and 305 or 76 - 1150 : chillax end case 9 - 64 /= 0 : chillax end otherwise : chillax end; do R(5 - 4 >= 4, 2670, 9); do k(12, 2) end main : O : integer; chillax end

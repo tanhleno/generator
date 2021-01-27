@@ -1,0 +1,1 @@
+program D : o : takes y2 : integer returns boolean while - false <= - 0 - 38 : chillax end end main : h13 : boolean array; z9 : boolean array; R : integer array; do Z(not(3) - false / not 332 and 4 + true and 6 + 1200 >= true / 8) end

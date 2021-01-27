@@ -1,0 +1,1 @@
+program X : main : when case - false or true and not 40 : when case - 06 - 509 : chillax end case 501 : chillax end otherwise : while 59 : chillax end end end case dy0aa(362) - false and 68 or 07 - 2070 : chillax end case a + 227 : let j9[66] = array 427; output "\"" end case - 45 - 056 : chillax end case 916 = 9 : do G(53); pop end end

@@ -1,0 +1,1 @@
+program b : i8 : takes V : integer; i, y, u : boolean array; d : integer array; q, P7caa : boolean array returns nothing output 1880 . "\"" . 86; while - 01 - 1 /= 8 : while 47 : chillax end end; when case 0500 : chillax end case 241 : pop end otherwise : pop end; let _8T0 = 38900 end u38 : takes R : boolean array returns integer chillax end main : chillax end

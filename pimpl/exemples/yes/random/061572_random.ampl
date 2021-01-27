@@ -1,0 +1,1 @@
+program _9U : oW5 : takes JY : integer array returns nothing when case false and 41500 : input as end case 73 = 3 : when case 7 : chillax end end case 18 = 5440 : input Ci end case 0 : pop end; do y1(88 > 6); when case 24 : while 9 : chillax end end otherwise : pop end; do x(8) end main : output "" . "4\"!" . - 4 - 6 . 8 = 2 . 01; do v(- 64 rem(9) and 8) end

@@ -1,0 +1,1 @@
+program P8 : BFi : takes K2 : integer returns integer array output 32 >= 5 . ">E" end main : C4s0 : integer; oc, Q, _u, X : integer; let _ = i_ga + (00) and 23; while true /= true - 28800 : chillax end; output - 3 - 08; pop 33 = 469 end

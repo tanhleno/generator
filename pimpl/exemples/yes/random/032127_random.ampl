@@ -1,0 +1,1 @@
+program t : u : takes W, J19 : integer returns integer y : integer array; m : integer; input e1[O]; when case - 20 - 91 = 9 : chillax end case 45 = 1 : chillax end otherwise : chillax end end main : chillax end

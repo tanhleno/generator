@@ -1,0 +1,1 @@
+program K : f69 : takes P : boolean; GAt : integer array; w, v, C_p, A3F, x, T : boolean array; b, O : integer returns integer x0, KL : integer; while not 81700 and 1 >= - 429 : input h980a[2]; do o2(219) end end main : p6 : integer array; pop true; let g = - not 15 and 9; let Lp = array - not 8 end

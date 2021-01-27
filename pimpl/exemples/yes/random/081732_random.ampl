@@ -1,0 +1,1 @@
+program wQ9aa : main : N : boolean array; _i4 : boolean array; Y, k : integer; YPf : integer array; l : integer; when case D or 422 * true and 9660 + not 3730 : chillax end otherwise : pop end; when case - 06 + 007 and 9 or 1780 <= (55400) and 849 : chillax end case - false and 400 < - 8 : chillax end case 07400 - 94 > 9 : when case 27 : chillax end end end

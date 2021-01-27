@@ -1,0 +1,1 @@
+program Y : main : b5vaa, G8Uaa, O92a : integer; let Zn[true] = array - (43); when case - 33 + p = - true : chillax end case - false : while 33 : pop end; output "3"; when case 9 : chillax end end otherwise : output 5; output ""; when case 5 : chillax end end end

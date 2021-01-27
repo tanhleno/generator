@@ -1,0 +1,1 @@
+program J : v220 : takes WXF : boolean; qq : integer array returns integer array RG, m, Kj : boolean; chillax end X : takes h, OR : integer array returns boolean chillax end z : takes C : boolean; uJmaa : integer; H, q : integer returns nothing when case 51 : chillax end end r : takes d, a, D, jp, T : boolean; m : boolean array returns nothing pop 1 end main : chillax end

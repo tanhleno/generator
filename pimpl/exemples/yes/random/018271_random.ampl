@@ -1,0 +1,1 @@
+program b9_a : r : takes E1, L : boolean; A : integer array; I, w3zaa : boolean array; t88 : integer; TA, q : integer array returns boolean input N[- false + 1] end main : T : boolean; b : boolean; t : integer array; Qs7, O : boolean; v : integer; d, T9 : boolean; h8 : boolean; chillax end

@@ -1,0 +1,1 @@
+program WAh0a : c4N0a : takes Ix : boolean; V : integer; a : integer array returns integer array do b(- false or 7 <= 3 - 9); when case 3 : chillax end otherwise : chillax end; do b3C0(6 = 71) end main : dRFaa, s : integer; j, e, _U, DJ, Y_, b : boolean array; F : integer; y : boolean array; output "" . "" end

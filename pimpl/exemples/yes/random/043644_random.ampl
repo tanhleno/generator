@@ -1,0 +1,1 @@
+program i6z : A6 : takes K : boolean array returns nothing chillax end Im : takes GA : integer array returns boolean array B : boolean; k : boolean array; pop 4 = 34 end main : T97, a8, K580, K6 : integer array; i6, C9Waa, g, nP30, F : boolean array; i, o : boolean array; I, V : boolean array; H, Q_ : boolean array; chillax end

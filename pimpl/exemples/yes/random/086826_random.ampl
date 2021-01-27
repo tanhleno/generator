@@ -1,0 +1,1 @@
+program T0 : main : M8 : integer array; Mt80 : integer array; w7Va, q : boolean; input O9L[- not false / (447) rem o2Uaa and 611 - false and 29 and 27]; when case not 0 or(45) - 2 < - false and 63 or 5 - 8630 : chillax end case not 60300 : when case 8 : chillax end case 00 : chillax end otherwise : chillax end end case - 77 > 8 : chillax end case 4 : let g3 = 0 end end

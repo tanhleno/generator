@@ -1,0 +1,1 @@
+program l : main : q4, l1 : boolean array; a5, E450 : boolean; when case - true + true < - 130 rem not 03 and 159 or not 96 - 2 - 643 : input H9[76500] end otherwise : do B(4); pop; input X50a end end

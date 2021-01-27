@@ -1,0 +1,1 @@
+program Z2I0 : JP8 : takes e7O : integer; w4 : boolean array; _, F, d : boolean returns boolean v7D, P3c0a, a : boolean array; chillax end main : do rU(460 / not not 11, - true rem(8) and 3, - false - 6 - 06); do R((7) < (7), - 1); do eN6(not 314 and 41 + 2 = 5); while - 490 /= 38 : do y(1) end end

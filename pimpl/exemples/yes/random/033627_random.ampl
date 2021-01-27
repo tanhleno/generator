@@ -1,0 +1,1 @@
+program _0 : XtE : takes x : boolean; D8oa, K, g, A : integer array; u, t, W, Z, T66 : integer; V6V0, iD : integer array returns nothing b6 : boolean; do Tdp0a(true); while 70 > 94 : chillax end end main : chillax end

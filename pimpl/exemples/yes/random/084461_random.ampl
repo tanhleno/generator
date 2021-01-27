@@ -1,0 +1,1 @@
+program N : main : L : integer; k490a : integer array; O9, G : integer; pop; while true : when case 9 = 8 : input N; pop end case 3 : chillax end otherwise : chillax end end; output "j\t"; do c(- 03); pop; do N4p0(3); pop end

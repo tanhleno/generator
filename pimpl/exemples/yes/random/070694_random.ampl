@@ -1,0 +1,1 @@
+program ZmFa : main : M9, p, yob, e9 : integer array; while 4 * true and true < not not 48000 - false : let u89 = 4 end; do D0(- 2 or false and 50 - 40, - 6 and 1 or 5 - 228); let p[- true and 5] = - 79 - 7; output 6 . "26" . "42" . "|"; let X = 69; when case 7 : chillax end case 9 : chillax end; when case 902 : chillax end end

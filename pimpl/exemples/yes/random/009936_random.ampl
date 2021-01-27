@@ -1,0 +1,1 @@
+program L4k0 : w0 : takes z, O, E : boolean array; qQ5a, O11 : integer array returns nothing chillax end main : a1 : boolean; sd : boolean; input C; do q(true, - (98) + 1 = 43900, 53 - 00, 6 = 4) end

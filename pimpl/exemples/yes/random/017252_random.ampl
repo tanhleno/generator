@@ -1,0 +1,1 @@
+program d3 : C : takes Z, e : boolean; W, P7_ : boolean array returns integer array chillax end main : pop - true + true + 9 - 1 >= false and 95200; let F[- false rem not 21 and 076 + 3 and 6 or 52] = not 5490; output "^"; let V[29] = 52 = 06; while 9 = 240 : input i; pop end; pop; let C8 = 9 end

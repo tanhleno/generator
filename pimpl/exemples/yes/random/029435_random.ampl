@@ -1,0 +1,1 @@
+program z : q93 : takes G84, i : integer array returns boolean array while not 827 and 83 : do w(59) end; pop 184 = 7 end main : b6 : integer; output "<Paa"; do b(91 and 0 and 53, - not 8 - 930 - 733 > - 9 - 3, 0 > 58) end

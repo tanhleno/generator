@@ -1,0 +1,1 @@
+program W5 : C8kaa : takes b, pY, r0 : boolean; D, H : integer returns nothing chillax end main : n, l37aa : boolean; ZY6aa, z : integer array; n8f : integer; yp5, u4M0a, Wn1a, v : boolean array; t : boolean array; k : boolean; sBv : boolean; output true and 8 - (8) + 657 end

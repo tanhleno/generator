@@ -1,0 +1,1 @@
+program G : q : takes XM1aa, O, J : boolean; h : integer array returns nothing pop end z : takes cr3aa : boolean array; E : boolean returns nothing while 31 : pop end; pop; do T(484, 1); input C5 end main : chillax end

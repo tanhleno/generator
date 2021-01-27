@@ -1,0 +1,1 @@
+program TC : t : takes a9, v : boolean array; NBYa, gD1a : boolean returns integer g : integer array; I, G6 : boolean array; v_, m8 : boolean array; input t end main : x : integer array; I890, M, j, zH : integer; m : integer; chillax end

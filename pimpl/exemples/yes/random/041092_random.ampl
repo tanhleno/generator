@@ -1,0 +1,1 @@
+program O : KvD0 : takes F : boolean array; n : integer array returns nothing chillax end main : output - true * (958) and 9 or false and 90 /= - not 305 and 12 + 5 - 90 . - c > - 7350 - 16; while true and not 8 < - I and 0 : chillax end end

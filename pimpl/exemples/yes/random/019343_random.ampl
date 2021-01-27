@@ -1,0 +1,1 @@
+program c : A : takes P, o : boolean array; N, i : boolean returns nothing chillax end main : d6 : integer array; output - J + i and 6 <= (58) or 8 - 79100 . ""; input n[- true]; while - 266 and 478 >= 3 : let g[2] = 9 end; pop 3960 = 6; pop 27800 end

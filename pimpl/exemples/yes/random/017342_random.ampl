@@ -1,0 +1,1 @@
+program U : x9 : takes x0wa, X9Raa : boolean; iy4, x5 : boolean returns nothing vS, O, k0 : integer array; B, n : boolean; let o = 2 = 15; pop end K : takes a : integer array returns nothing output 4 . 69400 . 2 end main : O : boolean; chillax end

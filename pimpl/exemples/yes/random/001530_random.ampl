@@ -1,0 +1,1 @@
+program sE50 : D_ : takes f, K, J, L, f4, d2 : boolean returns integer output 8 - 25 > 4 . "1" . "" . "" . "W"; when case - 993 >= 53 : chillax end case 40 = 1 : output "\n"; pop end case 35 : chillax end case 41 : chillax end end main : QS, hU : boolean; chillax end

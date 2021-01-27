@@ -1,0 +1,1 @@
+program px : H : takes N : boolean; H3j, l, F, A2, e1 : boolean; qDN0a, c, Jqya, n98aa, Nl : boolean array; E, J, I, O, V : integer; qS60a : boolean array returns integer rs30 : boolean array; chillax end main : zj5, p, L : integer array; l : integer; let v0[- false] = array true + 7; do eIP0a(true / not 66 and 2) end

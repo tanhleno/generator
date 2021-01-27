@@ -1,0 +1,1 @@
+program Nmf0 : TOK : takes x4g0a, n, _, H_ : boolean array returns integer array qb40a, d : boolean array; Q, S9 : integer; pop - 2 <= 99 end main : let c0[true or false / (5)] = array - b79aa[2]; input j750; let h320[false and 36 or 4 - 8] = - 66; output ""; do Tx(74 = 21) end

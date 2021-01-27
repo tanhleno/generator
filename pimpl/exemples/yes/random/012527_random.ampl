@@ -1,0 +1,1 @@
+program G : y : takes g, D, k3 : integer; J, i, zQ, _6ka, o92aa, H80, jC : boolean array; b9 : boolean array; c3B : boolean returns nothing chillax end main : O : boolean; W : integer; output true; when case true rem not 7 or false >= - (60600) or 75500 : chillax end otherwise : chillax end; let G[- (6) and 2 or 4 - 2] = - 50 - 9 end

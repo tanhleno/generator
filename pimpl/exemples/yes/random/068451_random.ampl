@@ -1,0 +1,1 @@
+program u : main : o, Z, FGz, S, zB9, n : boolean array; e : integer array; while 9 : let CMq[2 - 5] = 79; while 386 = 58 : chillax end; when case 695 : pop end case 84 : chillax end otherwise : chillax end; input j end end

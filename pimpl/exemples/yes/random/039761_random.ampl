@@ -1,0 +1,1 @@
+program Uc : yP50 : takes M : boolean array; c : boolean array; w3L0, c4u0, y9, E : integer; NL80a : boolean returns nothing _ : integer; output - 6 - 9 end m : takes w5 : integer array returns nothing while 2 - 117 > 1 : input c end end main : e5 : boolean; chillax end

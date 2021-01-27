@@ -1,0 +1,1 @@
+program YC : main : aN, f, b46 : integer array; do ebd((68 = 14) / not 8 - (028) >= - (15) + false or 9 - 6); when case false rem(331) + not 9 : chillax end case - (10) and 43 >= 4230 - 5 : do P720a(136); output "J" end case - 6 >= 5 : output "" end otherwise : while 2 : pop end end end

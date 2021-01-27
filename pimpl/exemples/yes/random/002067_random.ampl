@@ -1,0 +1,1 @@
+program NV : l380 : takes t, HB, n, _, C, ED : integer returns nothing X, H7 : integer array; k, k2f : boolean array; P, z53 : integer array; M, A : boolean; do HUO0((45) - 7160 > 5150, 00 - 3800) end main : SM, dH8 : integer; while - 33 : pop; input yPY end end

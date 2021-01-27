@@ -1,0 +1,1 @@
+program _ : S : takes D : integer returns boolean array O1 : boolean array; bHRaa, d, y : boolean array; chillax end sb : takes K, A, m : boolean array; F, T : boolean returns nothing chillax end o3 : takes w, x : integer; g : integer; T, S05a, S, bS30 : boolean array; g6, P, w : boolean; L, b5 : boolean returns nothing chillax end main : output "gu" . "" . 0 - 54 . "" . 0 end

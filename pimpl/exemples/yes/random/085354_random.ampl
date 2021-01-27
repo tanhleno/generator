@@ -1,0 +1,1 @@
+program c : main : n : integer; while false < (5) or not 72200 : while 32 - 5 : chillax end; let dr[2] = 67; let D30 = array 018; do HW(36400); do zRF(7) end; input X54a[- 50 * false - not 7 and 3] end

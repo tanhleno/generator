@@ -1,0 +1,1 @@
+program OG5 : T4 : takes L : boolean returns nothing b : boolean; N5 : boolean; nH, P, KL6 : integer; when case - false and 5 : chillax end otherwise : chillax end end t : takes V, j, TO, lX, v : integer array; J, Z9 : boolean array; S0v, gN6aa, m9 : boolean array; c : integer array; y, J400 : integer array; zRya : boolean returns integer input X[26] end main : chillax end

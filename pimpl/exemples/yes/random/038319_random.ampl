@@ -1,0 +1,1 @@
+program Nq4aa : Nt : takes I : boolean array; W, S, q : integer array; i : integer array returns nothing _, j, x6 : boolean array; chillax end V : takes Mykaa, Js, Y : boolean array; D2Da, XK9 : integer array returns integer array z5Xaa, yE, B : integer array; D : integer; W, T : boolean; k : boolean; chillax end main : chillax end

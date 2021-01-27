@@ -1,0 +1,1 @@
+program J : IfN0 : takes R : boolean; w : boolean array returns nothing while 53 < - 43300 - 971 : when case 171 : chillax end otherwise : chillax end end end L : takes Q93, md : integer; Bz90a : integer returns integer array V : integer array; chillax end main : chillax end

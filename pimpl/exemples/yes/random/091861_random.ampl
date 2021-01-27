@@ -1,0 +1,1 @@
+program H45 : main : output - (7440) + not 5 /= - L3 and 2680 - 4 . - s0 + 29400 . 9010 - 9 >= 6; do m(- 07 * CVEa and 59, - not 279 >= - 2 - 2); while true - 0140 - 0 : chillax end; let CW6[- 1] = 92 = 9 end

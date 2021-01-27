@@ -1,0 +1,1 @@
+program mj4 : O : takes e, m7, v : integer returns nothing chillax end main : do i(false, - false, true = - 203); input u0; let a = array - false and 9 or 80 - 90; when case - 3 <= 7 : chillax end case 1 : when case 709 : chillax end end otherwise : chillax end; while 0 : chillax end; let E = 4 end

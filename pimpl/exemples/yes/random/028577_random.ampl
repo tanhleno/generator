@@ -1,0 +1,1 @@
+program Q0 : I80 : takes Q, g2i : integer array; l7 : boolean returns nothing chillax end main : when case - false and(12) - t[87] * true or g or 5 : input u27[- 6]; let W6 = 4; output "" end otherwise : chillax end; output qQ and 98 - 36 - 77900 end

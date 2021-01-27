@@ -1,0 +1,1 @@
+program O_0 : W : takes cF, t : integer array returns boolean array r : boolean; do W13aa(- false - 8, - 17 - 527 = 72) end h2 : takes B, o6, H, g6, kns0a : integer array; G : boolean array returns nothing d, k0, r, ch9aa : integer array; K, V2, z : integer array; while - 2 : output "\n8"; pop end; pop; while 7 : chillax end end main : chillax end

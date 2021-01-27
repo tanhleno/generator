@@ -1,0 +1,1 @@
+program u : X : takes jkL0 : boolean array returns nothing while i >= 7 - 4130 : do R(61, 45300) end end S : takes Z : integer array; j, v : boolean; C4I : boolean array returns boolean X : integer; chillax end main : do eufaa(- C380 - true or(0) and 397 or 6, k(74500) + 886 = true and 3, li + 285 = 266 - 72, 86, 105 = 27); while - (7) < - true and 41 + 9 : chillax end end

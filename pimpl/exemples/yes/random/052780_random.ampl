@@ -1,0 +1,1 @@
+program Q : Y7U : takes z : integer; l : integer array; B1 : boolean returns nothing D7d, Y : integer array; chillax end D : takes SY, iE6, w, E52 : boolean returns nothing Y, z, Usaa : boolean array; chillax end main : input l; do n(not 0 > - true and 8 + 6) end

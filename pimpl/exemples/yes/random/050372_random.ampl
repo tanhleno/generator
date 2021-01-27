@@ -1,0 +1,1 @@
+program eh : e : takes e : integer; U97, E7 : boolean; x : boolean array; ht, p : integer returns nothing pop 5 - 8320 end X : takes Wxy0a, R4 : boolean array; i, Qn9, c3i0, u, V : boolean returns nothing p : integer array; output 434 = 7 . "" . 5; input G end main : while - not false / L = 5 rem(377) or 365 - 0 : chillax end end

@@ -1,0 +1,1 @@
+program q : main : do L(h860[42] / not not 00 /= DP(0) and 04 or V and 7); when case - (490) / (0) : while 7 = 70 : when case 6 : chillax end; pop end; output "\t" . "\"i0"; let _dwaa = 8 end case false or 4 - 89 : chillax end end

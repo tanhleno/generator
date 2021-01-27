@@ -1,0 +1,1 @@
+program hD : h : takes P55a : boolean array; U : integer array; n : boolean; f, C26 : integer array returns nothing GI, G4 : integer; do M(- true > 77, 4) end main : i6 : integer array; F3t, I, xq3a : boolean; output not true rem false . not 3 <= - 7270 . - 6 . 2 . "" end

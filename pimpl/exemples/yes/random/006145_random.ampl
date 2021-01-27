@@ -1,0 +1,1 @@
+program y : a2g : takes m, I, a, ly : boolean returns nothing JA1, e3, W8p, nl : boolean; chillax end G1 : takes r7 : integer returns boolean F8, y, Y, S : integer; chillax end main : SH : integer; input oHu end

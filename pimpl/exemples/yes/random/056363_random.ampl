@@ -1,0 +1,1 @@
+program a : O : takes h : integer array; H : boolean returns integer Vr : integer array; while - 69 and 6 = 3 : chillax end end main : n, q, vU, A02aa : boolean; e : integer; D : boolean; C3, J8, l, E3 : boolean array; y5 : integer array; Jn, xD20 : boolean; chillax end

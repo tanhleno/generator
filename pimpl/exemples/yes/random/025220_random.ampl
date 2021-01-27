@@ -1,0 +1,1 @@
+program Pz : LG : takes I, V : integer; Fl, Dp, DOt : boolean array; X : integer returns nothing when case - false : output ""; do O2(01) end case - 2 - 46 <= 2 : let X3Wa = 10; let N = 05; pop end end main : chillax end

@@ -1,0 +1,1 @@
+program Eq : main : s23, Rs, X, Y : boolean array; output "Yqaa"; when case - 58000 * true and 5 - (5) + 20 - 595 > 85500 : let h9 = array 2 end case - 2 : let C = 6; when case 33200 : chillax end; while 1 : chillax end; pop end otherwise : chillax end end

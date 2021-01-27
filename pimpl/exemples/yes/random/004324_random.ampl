@@ -1,0 +1,1 @@
+program O1 : c0 : takes j, Coza, e, e : boolean; U, _XU0a : boolean; P : integer array returns integer do Wt(uY = 7) end main : do x(- not Z(2) / (90) or not ppdaa <= true + not 187 - 56200, false * BR4 and 30 + false - 79 - 76, 506 + 234 - 308 >= 39 - 4580, - 74 - 431); do A(- oDq0(8) = true - 4690) end

@@ -1,0 +1,1 @@
+program h : _ : takes p, Wi, G6, v6d0a : integer returns integer f1, a06, r8Oa, re, Zd : boolean; Q, xm3, n, R88 : boolean array; chillax end e : takes t81 : integer array returns integer array rP, c7 : integer array; pop; pop; pop; input rx; output "" end main : ZB, i5ba, r, d : integer array; let x1 = array - 8; let Z[9] = - false and 9 + 4 >= - 79 end

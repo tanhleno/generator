@@ -1,0 +1,1 @@
+program T330a : main : e5, b2, v : boolean; output "," . ""; output true and 6 + 04 - 908 >= 8 - 1; output 02 - 4; when case 4 : chillax end case 90500 = 03 : chillax end case 967 : chillax end; output 9 end

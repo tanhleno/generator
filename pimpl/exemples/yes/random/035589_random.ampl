@@ -1,0 +1,1 @@
+program x : D : takes _ : boolean; J0L0 : boolean array; E5, x4, L1p, Vu : boolean; B6L : boolean array; v, U : boolean array returns nothing x : boolean array; chillax end main : while - cT(53) * true rem false and 5 > true - 5180 : chillax end; while - AR(97) and not 6 : chillax end; let pM[- 2] = 307 - 17 = 92; pop 9 = 7 end

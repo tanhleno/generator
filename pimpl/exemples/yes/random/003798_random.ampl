@@ -1,0 +1,1 @@
+program of : y890a : takes x, X, X38a, N6T0a, S8 : integer array returns nothing chillax end C : takes s, E, a42 : integer array; j, av, Qf30a, T : integer returns integer array pop end main : y83 : boolean array; input x; pop - 865 + 49 - 84 end

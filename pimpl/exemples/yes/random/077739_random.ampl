@@ -1,0 +1,1 @@
+program z : main : b, jb : integer array; O : integer array; X, N, OO, a : integer array; input T; input _9H0[- true]; do a6(- 2 and 0 >= 4); let uVm[23200 - 3] = 93; while 3 : output "" end; output "" . "}"; let p = 1; let K9J0 = 5; pop end

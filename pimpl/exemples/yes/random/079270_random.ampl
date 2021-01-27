@@ -1,0 +1,1 @@
+program X : main : s : boolean; Igq0a : boolean; let U[- 1450] = - not true rem(50) and 53 or not 2 /= - h - 962; input v; when case - b and 3 : chillax end; while 403 - 72 : pop end; do J(71 = 985) end

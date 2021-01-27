@@ -1,0 +1,1 @@
+program C : NPa : takes O74, E, Z : integer array; W : integer array returns boolean array output - 9 - 4 end main : o : integer; do q(true); do _((5) / false and 22000 or false and 84600 <= not 1 and 87 or 490 - 79300, false - 8 - 9) end

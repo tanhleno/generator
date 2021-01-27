@@ -1,0 +1,1 @@
+program SJ : O7 : takes V : integer; E : integer returns nothing while true and 9 - 354 >= 2 - 69 : pop end; while 5 : chillax end end E : takes D, _ : boolean; D, q530, j1, d, I : integer array; t, V82a, t, v1maa : boolean array returns boolean array when case - 4 : chillax end end main : D : boolean; Eu, m1 : integer; H4, v : integer; q1 : integer array; chillax end

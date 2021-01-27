@@ -1,0 +1,1 @@
+program r : n : takes d, vN, n, x4Z : integer returns integer array output "x" . 2; do b(6 <= 932, 3) end kb7 : takes p, Q5K, r : integer; B5 : integer array; n, OU : integer array; sv, Xgq0a, c, u : boolean returns boolean while 9 > 16 : pop end; when case 62 : do V5(3); pop end case 6 : pop end otherwise : chillax end; output 8810 end main : Z5Q, NV : integer; chillax end

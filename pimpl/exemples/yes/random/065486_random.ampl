@@ -1,0 +1,1 @@
+program z0 : BD : takes L7 : integer returns nothing when case - true - 9 - 70 : let K = array 413 end case - 2 - 3 /= 4 : when case 25 : chillax end end case 7980 = 8 : do g3(74) end case 4 : chillax end end E : takes K, nq, f : boolean array; ou : integer returns boolean array chillax end main : sRo, F : integer array; EX, _o : integer array; z97, h9 : boolean; chillax end

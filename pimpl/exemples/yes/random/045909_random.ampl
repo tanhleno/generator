@@ -1,0 +1,1 @@
+program k : X : takes f3 : boolean returns boolean chillax end k : takes H, Rgj : boolean; s : boolean returns integer array P, n, MH : integer; chillax end main : output P1(9) and true - true and 06 + 1 - 1 <= 255 and 27300 . (04) = - 5 end

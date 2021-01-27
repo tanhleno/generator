@@ -1,0 +1,1 @@
+program R : ww10a : takes v : boolean; Fw : integer; M : integer array; B, q910a, r : integer; y0X0a : boolean array; qH00 : integer returns nothing X : integer array; z : integer; QX4 : boolean array; N, A : boolean; chillax end j : takes QfQ : boolean array returns boolean array let f[9030] = array 7 - 68 end main : T : boolean array; chillax end

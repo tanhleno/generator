@@ -1,0 +1,1 @@
+program q1R : uX : takes R, r, W58, B8Q : integer array returns integer array let N = array true and 7; do vm(6 <= 0820, 1 = 95, 156, 26); do tZ_0(3 = 4); do Y0(25, 72); input jz end main : dD7, w, z2, r, g8 : integer; fI, f0U0 : integer; l, v, VRfa : integer array; output "L" end

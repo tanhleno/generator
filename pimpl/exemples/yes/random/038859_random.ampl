@@ -1,0 +1,1 @@
+program z : E : takes I88 : boolean array; O, g : boolean returns boolean chillax end LN90a : takes y97 : integer array; A, S, K : integer array returns nothing output 013 . 43800 end main : input b450a[not zu4aa[24] * false - false] end

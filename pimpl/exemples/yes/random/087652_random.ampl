@@ -1,0 +1,1 @@
+program Y : main : r : integer array; while - (70 = 056) or(605) rem Z2 and 6 or true and 630 : input IpE[29800]; when case 8 : output "" end case 52 : pop end otherwise : chillax end; pop 6; let s = 32 end end

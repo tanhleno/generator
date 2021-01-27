@@ -1,0 +1,1 @@
+program U : main : v, iG4 : integer; while - 9 and(958) / (8) : output 55; while 59 = 052 : do T8V(8) end end; do q(- 895 rem 764 and 5 >= - e43 and 543, - S >= 80, - 02 - 57 < 55, 3 = 56); let R = array(054) and 427 end

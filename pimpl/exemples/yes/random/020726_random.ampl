@@ -1,0 +1,1 @@
+program c70a : WU70a : takes iX, O : boolean array; p : integer returns nothing IQQ, f, Q, a : boolean; FV, P, Lw : boolean array; x : integer array; j : boolean; Xh : boolean; k : boolean; chillax end main : while true >= g5T * Jw and 0960 : do f5(4); when case 9 = 8 : chillax end otherwise : pop end; input B; when case 0 : chillax end end end

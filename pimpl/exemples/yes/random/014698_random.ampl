@@ -1,0 +1,1 @@
+program B : r4 : takes z85, J5, lV : integer array returns boolean array a_a0, G : integer; chillax end a : takes q : integer returns boolean array let K = array 1; input sj90a[2] end main : O5 : boolean array; yUj0, HXraa : boolean array; s : boolean array; E2 : integer; _gG0a : boolean array; X93, nT4aa : boolean; Z : boolean; I9 : boolean; chillax end

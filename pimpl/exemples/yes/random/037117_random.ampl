@@ -1,0 +1,1 @@
+program TY : V : takes bbE : boolean; S : integer array returns nothing a : boolean array; let z9[true and 97 - 8] = array(25200) and 74 - 28 - 0 end main : oJDaa, VF5 : boolean; while 34 * 79000 and not 491 and 8 - false and false and 199 - 4 and 22 <= - true rem false : chillax end; input Sz3aa[- 62 rem 9 and 8] end

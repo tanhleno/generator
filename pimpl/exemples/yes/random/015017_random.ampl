@@ -1,0 +1,1 @@
+program i : Sb : takes X2Y, b, c73a : integer array returns integer chillax end E : takes F : integer array returns integer I, P0, V5 : boolean array; output 647 . "\\\\aa"; output 5 end main : k360a : integer array; input y7[false * (202) rem(454) and 92700 + false / z40 and 7]; do M520a(- false); pop end

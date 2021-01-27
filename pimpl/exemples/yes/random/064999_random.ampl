@@ -1,0 +1,1 @@
+program oI : D0 : takes x : integer returns nothing u8O : integer; input A; input Y8[1 - 03]; pop 041 end main : when case 2810 + true and true or(6) or 3 - 8 : chillax end case - false and 63 and 2 : input k66; pop end case - false and 9 >= - 24600 : chillax end case 43 <= 7 : output ""; input a3; pop end; let c59a[- (7660) - true + 3 - 6] = - t5l and 503 end

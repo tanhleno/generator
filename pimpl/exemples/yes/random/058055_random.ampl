@@ -1,0 +1,1 @@
+program z8 : T : takes BT0aa : integer array returns boolean chillax end XM0 : takes f, za5aa : integer array; l040, oR : boolean array; hD, _g, n, RS, d : boolean array returns boolean output 89 = 69700 . 7860 . 9 . "\t,0" end main : while - not s[8] and not true + x / dvo and 91100 or(7) - 6 - 1 : chillax end end

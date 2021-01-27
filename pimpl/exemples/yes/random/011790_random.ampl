@@ -1,0 +1,1 @@
+program T : i : takes cw, F, H : boolean returns integer array it, qH, Ed, d86 : integer; chillax end L870a : takes mM, I0, r01 : boolean array returns integer array chillax end main : Y3, J, YN : integer array; b : integer array; do X1(true rem false rem false and 00 /= false); when case not true - 2 and 46400 or 1 - 63700 >= - (5) - 9 - 12300 : chillax end end

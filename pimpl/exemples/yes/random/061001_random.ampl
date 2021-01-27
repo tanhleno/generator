@@ -1,0 +1,1 @@
+program zTj : U : takes y : integer array returns nothing OLHa : integer; jg3, Q0 : boolean array; chillax end K1 : takes x, d9 : integer; N, yg, R, _Hfaa, F, jD0 : boolean array; kY : integer; H : integer array returns boolean array while - 552 >= 1200 : chillax end; output 49100 . 4; output "E"; when case 580 : chillax end; pop end main : L : integer; chillax end

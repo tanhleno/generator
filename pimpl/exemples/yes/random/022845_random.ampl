@@ -1,0 +1,1 @@
+program c : HU : takes L, B : boolean returns boolean array chillax end oL2 : takes X6w0a, l66a, R, bg, V3B, Sc, Z93a : boolean array; cI90a, E2x : boolean returns nothing when case - 2 - 9 <= 3 : chillax end otherwise : chillax end; output 4 end main : chillax end

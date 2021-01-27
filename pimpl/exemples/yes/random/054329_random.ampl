@@ -1,0 +1,1 @@
+program K : YAe : takes V : integer array; us5, R, c6 : integer returns integer array lWM : boolean array; ojx0 : boolean; I, H, xr80a : integer array; eDv0a : boolean; V : boolean; g06 : boolean; do Yc(false + 6 - 3 < - 484, - 0 = 24) end main : g : integer; UB : integer; d9, g : boolean; ySM0, MZ : boolean array; F0 : integer array; chillax end

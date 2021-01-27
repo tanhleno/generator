@@ -1,0 +1,1 @@
+program lQ3aa : t : takes C : boolean; v, N, jk : integer array returns boolean J6 : integer array; Kx0aa, l : integer array; GU, CM, IT : integer; S, _B : boolean; while not 2 > - 8 - 2 : input h6zaa[1]; do _550(9) end; when case 729 - 7220 : chillax end otherwise : let Q8Maa = 2; pop end end main : chillax end

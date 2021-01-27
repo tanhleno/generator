@@ -1,0 +1,1 @@
+program se : i050a : takes G, S : boolean array; z6 : boolean array; T2n, P4 : integer array returns nothing V : boolean; chillax end main : kH20, r, R, q5, pyR0, t2, g1 : boolean array; mO, g : integer; while u(5, 21600) and false and false <= - 80 and g32aa and 8 : chillax end; output "h\""; while false - 4 : chillax end; output 6 = 9 . ""; input K[9] end

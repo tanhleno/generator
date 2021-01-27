@@ -1,0 +1,1 @@
+program r : c : takes IfAaa : integer; C : integer returns integer c : boolean array; b : integer; w, l : boolean; BZ : boolean; chillax end d1 : takes L, L : boolean array; rV : boolean array; z, o1 : boolean array returns nothing v, a1, S3F, z6 : boolean array; chillax end main : output - (33) rem not 250 and 27 + (1) and 5 . "{\na" end

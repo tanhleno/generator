@@ -1,0 +1,1 @@
+program g3ya : y48 : takes k, z : integer returns boolean array chillax end JzZ : takes Q : integer array returns nothing chillax end Q : takes i3k : boolean returns nothing chillax end WU : takes el0, iZb, J : integer; j, L, J6 : integer; Xi : boolean returns integer array a : boolean; chillax end main : let h79[70 and 5 * 0] = - 531 * true /= - true and 8; input pst0a[95] end

@@ -1,0 +1,1 @@
+program _ : Qg2 : takes W : integer; k, o : integer array returns boolean array when case - true or 78 - 48 >= - 3 - 0 : while 2 : chillax end; pop; let E = 10 end end U : takes N5 : boolean array; Z : integer array returns boolean chillax end main : chillax end

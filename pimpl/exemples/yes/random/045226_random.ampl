@@ -1,0 +1,1 @@
+program h : O : takes t : boolean array returns nothing when case - gR5 + 4 - 32 : do V0(30, 8); let jb = 5; while 08 : chillax end end case 2 - 96 : pop; when case 57 : chillax end end case 45 = 5 : let P_ = 53 end otherwise : chillax end end main : chillax end

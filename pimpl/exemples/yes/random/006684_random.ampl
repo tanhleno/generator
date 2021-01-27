@@ -1,0 +1,1 @@
+program dq : W7 : takes Wq2a, zP10a, s3, U : integer; X : integer; U, S : boolean returns boolean array k : integer; chillax end main : let I[false + 75 and false and 3 or false and 4 or 59 - 02700] = array - 43 + false end

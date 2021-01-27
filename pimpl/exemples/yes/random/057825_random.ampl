@@ -1,0 +1,1 @@
+program q : L1 : takes I : integer array returns boolean array xef : boolean; output - 9 . 7; output "+\t" . "\""; when case 13 = 3 : do V(36) end otherwise : pop end end main : E : integer array; chillax end

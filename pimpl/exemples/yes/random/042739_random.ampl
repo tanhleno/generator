@@ -1,0 +1,1 @@
+program x : NGD : takes n84 : boolean array returns integer array b : integer; W, Ca, d : boolean; p7 : integer array; output "" . "6" end main : h1, sy90 : integer; do j(- true + 3, - not n /= true, (2760) and 9) end

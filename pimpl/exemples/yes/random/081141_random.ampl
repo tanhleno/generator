@@ -1,0 +1,1 @@
+program J : main : b : boolean array; R, X, JWxaa : integer array; let x = array - not false; when case true - 667 or 5 : chillax end case not 017 and 63 or 67 - 0430 > - 4 - 3 : chillax end otherwise : let C5v = array 9 end end

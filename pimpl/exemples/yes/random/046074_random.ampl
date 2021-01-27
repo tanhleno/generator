@@ -1,0 +1,1 @@
+program s : C : takes l : boolean returns boolean R, X2, w4 : boolean; F, g : integer array; E : boolean; chillax end main : X : boolean array; output - (30) * (46) or(4) and 1 <= - true and 08 + 26 end

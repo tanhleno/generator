@@ -1,0 +1,1 @@
+program w : main : let g8M0a = array true; while - false - 9 - 70800 - 3 : when case 38 = 1 : chillax end case 3 : chillax end case 3930 : chillax end otherwise : chillax end; let Fz[4] = array 2 end; output - 3; when case 76 <= 907 : chillax end; pop 5 end

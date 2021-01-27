@@ -1,0 +1,1 @@
+program V : q : takes Rq, s3 : boolean; H, nG10a : boolean array returns nothing input o58 end P : takes L : boolean; bZ3 : integer; CZN0, R5 : integer; E, wo8, k, kvF : integer array; L : integer; t : boolean; x : boolean returns nothing output 1 = 253; output "oj"; do nw40a(6, 0270) end main : chillax end

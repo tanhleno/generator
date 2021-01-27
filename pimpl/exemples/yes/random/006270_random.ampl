@@ -1,0 +1,1 @@
+program C0Z0a : M3 : takes d, K, Y, e : boolean returns nothing output "" end J : takes M : boolean array; t, Y, k2, f8h, n : boolean array; okh : boolean array returns nothing input f end main : gu3aa : boolean array; output - 5 + false and 3 or 6 - 3; when case - 4 > 32 - 41 : chillax end case - 931 - 8 : pop end case 63 : chillax end otherwise : let V[3] = 92 end end

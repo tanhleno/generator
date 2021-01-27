@@ -1,0 +1,1 @@
+program I : main : when case - s[81] or(372) + ofK and 1200 : chillax end case 24 * 80 : let C8p = array 502; pop 5 end; let Z = - not 16 < - 06; when case(07) : chillax end case 70 > 42 : chillax end otherwise : let dw = 873 end end

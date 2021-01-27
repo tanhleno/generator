@@ -1,0 +1,1 @@
+program L : main : U, E : integer array; J, v, w, A, B, s : boolean array; w : integer array; g3, E, n0, o6 : integer array; c : boolean; Yz : boolean; output ""; while 92 rem not 2 - not 7 and 2 /= - (94) : chillax end end

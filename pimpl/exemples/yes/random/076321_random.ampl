@@ -1,0 +1,1 @@
+program C39aa : main : y, R8 : integer; p1 : boolean array; D7, Q, e, w39 : boolean; let Ih30a = true * t; while not not 10 * 1 or(7) + 2 = I1t0 and 76 : output 021 . 8 . "%5\""; input RaF0a[62]; input TK; let q3 = 809; pop end end

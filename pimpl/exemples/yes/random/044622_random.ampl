@@ -1,0 +1,1 @@
+program G : E : takes TIi0 : boolean array returns nothing k : boolean array; O6x0a : integer array; chillax end u : takes G9 : boolean array returns nothing let tK[- 5 - 986] = array - 44; when case 49 : chillax end end main : U8 : integer; chillax end

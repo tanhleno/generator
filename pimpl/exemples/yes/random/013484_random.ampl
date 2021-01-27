@@ -1,0 +1,1 @@
+program HI : WT9 : takes S, X, F61 : integer; hQ2 : integer array; d : integer returns boolean chillax end y : takes XJ50 : integer; z7, I : boolean; a, j6, K, s : integer array; R : boolean array; O : integer; l : boolean; s : boolean returns boolean p9, H, sH9, R : integer array; do B2b(63 - 6 /= 28, 4); when case 7 = 3 : chillax end case 76 : pop end end main : chillax end

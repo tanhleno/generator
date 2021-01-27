@@ -1,0 +1,1 @@
+program iGp : j : takes U : boolean; z180a, e4 : integer array returns boolean array output "" . 6 = 0 . ""; when case 7 - 9 : chillax end otherwise : when case 6190 : chillax end end end main : v0 : integer; Xn, I2, YM : boolean array; x : integer; chillax end

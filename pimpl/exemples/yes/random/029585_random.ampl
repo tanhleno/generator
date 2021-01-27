@@ -1,0 +1,1 @@
+program P : Z : takes z, U : integer array returns boolean iC : integer; pop - 2 - 52; do W(9, 8 = 9, 572, 7) end D : takes O : integer; lh : boolean array; n, s5 : boolean; bs, d1, m98, r05 : integer; t, m, L0 : boolean array returns nothing chillax end main : PB40, f, m, kt5a, P0O : integer array; Q : integer array; chillax end

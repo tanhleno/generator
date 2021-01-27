@@ -1,0 +1,1 @@
+program d : f25 : takes i45 : integer returns nothing T : integer; chillax end s6T : takes L : integer returns nothing P, R, m : boolean; Ka, Y : boolean array; fZya, D : boolean; do l(- 385 - 0, 49) end main : c1, t, A6Haa : integer array; chillax end

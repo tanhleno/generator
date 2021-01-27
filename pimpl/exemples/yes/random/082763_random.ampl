@@ -1,0 +1,1 @@
+program x5m : main : d : boolean array; when case 0 * not true / false : chillax end case - true - false and 8 /= not 110 : chillax end case - 0 < - 44500 - 9 : output 1; input N; output ""; pop end case 4 - 77400 = 9 : chillax end end

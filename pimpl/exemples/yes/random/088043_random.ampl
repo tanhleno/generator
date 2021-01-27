@@ -1,0 +1,1 @@
+program XF : main : input K; pop(4) and 2 or 24 /= 28 - 992; when case true - 83 - 376 >= 98 - 8 : do d6P(7); do S(3); input Y end case 7 - 90 : chillax end case 9 = 2 : when case 56 : chillax end end case 50200 : pop end otherwise : while 9 : chillax end end end

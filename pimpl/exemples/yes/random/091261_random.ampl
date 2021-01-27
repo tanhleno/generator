@@ -1,0 +1,1 @@
+program f8 : main : let p[false * (18800) + not false + not 213 and 81] = array not true or vv8a(8) rem 3 and 070; while - false - false and 802 or 5 : chillax end; input z; when case - 27 - 925 <= 0 : input F; pop; pop end otherwise : pop end end

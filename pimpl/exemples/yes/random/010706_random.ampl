@@ -1,0 +1,1 @@
+program J : x : takes L2e, l, i : boolean array returns boolean p7 : boolean; Mq : boolean; chillax end main : while - true - not false >= - not true / true - true and 03 + 03 - 94 : chillax end; while - (0) * (6) and 9 - qQ - 8 >= 4 and 1 : chillax end end

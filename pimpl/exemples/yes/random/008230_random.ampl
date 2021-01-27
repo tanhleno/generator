@@ -1,0 +1,1 @@
+program JJ : I1 : takes d, BP4, m6, c : integer returns nothing A7f, S9, p, y : integer; while not 3 and 4 + 621 - 1 : do W71(4) end; when case 2 > 4 : chillax end end main : b, Bjt0, FQL, n : integer; chillax end

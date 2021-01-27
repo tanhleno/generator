@@ -1,0 +1,1 @@
+program PG : wfn : takes u, O : boolean; p, L3Za : integer array; s2, V, oM : integer; _ : boolean array; N : boolean array; F25a : integer array returns boolean array input m end main : when case b[6350] rem OoN(0) or true rem not 1 >= - 08 rem 02 and 6 : chillax end; input D[f[79] + true and 8 - 168 - 65900] end

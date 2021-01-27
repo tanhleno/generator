@@ -1,0 +1,1 @@
+program e46aa : c48 : takes c : integer array returns nothing E6 : boolean array; q5o, D : integer; K, vyd, Ln5a : integer array; C : boolean; output ""; pop end AI : takes J3C : integer; e : integer; U750 : boolean returns boolean u, c9 : boolean array; let ip2 = array - 92 - 989 end main : chillax end

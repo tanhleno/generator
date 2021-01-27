@@ -1,0 +1,1 @@
+program P4 : main : W : boolean; while - Z rem a(36800) <= pJXa[0] + not 37 and 8 + 9 - 2640 : when case 0 : chillax end otherwise : output "\\"; pop end end; output yK and 0 - 53 >= - 9 - 22300 . 8 . "\"b"; output "" . 4 . 4; while - 67 - 4 <= 9 : chillax end; pop 8 end

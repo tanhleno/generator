@@ -1,0 +1,1 @@
+program L : hP0 : takes iT : integer array; QV, n42 : boolean; G : integer; Mx : boolean returns nothing P3 : boolean array; chillax end main : t : boolean array; when case - true and not(561) >= o or 5 and 92100 + 1 : chillax end otherwise : let jC = array 5; when case 94900 : pop end case 3 : chillax end otherwise : chillax end end end

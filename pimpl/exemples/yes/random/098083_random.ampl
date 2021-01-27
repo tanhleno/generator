@@ -1,0 +1,1 @@
+program J : main : while - (7 = 1) > true : chillax end; do i7(- 6 * (3) and 8, 2 and 0 /= 48, - 7 /= 9); do X(- false and 09); do UQE(- 401 >= 7, 27 = 11, 63, 9); let b[1800] = 9; input bW[7]; output "" end

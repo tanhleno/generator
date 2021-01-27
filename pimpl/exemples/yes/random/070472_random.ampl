@@ -1,0 +1,1 @@
+program n : main : O, X, z3, z : integer array; n4Na, f2 : integer array; oU5, U : integer; a5w0 : integer; pop - true * not 31 and 48 + 56 and 7 + 7 = - (123) - 190 - 2; let i = array - 9 rem(5); while false and 6 - 8 - 2 : input I end end

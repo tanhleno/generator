@@ -1,0 +1,1 @@
+program Q84a : main : H : boolean array; when case - s(61) <= - not(4) : output 6 = 6 end case - (6) rem false : input P9 end case 9 - 6 = - 3 - 3 : do T(60); output "" end; while T(38) and true and 3 - true or 25 - 8 < - (08) and 6 - 31400 : pop 7 end end

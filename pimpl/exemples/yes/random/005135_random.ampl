@@ -1,0 +1,1 @@
+program i2G0a : cc : takes DO, bX80a, H, XN40 : boolean array; gz : integer; Gm, n : integer array returns nothing while - true and 12600 : while 873 : chillax end; input TM end; while 37 /= 67 : do P910a(46) end; pop end main : j7haa, u, N2j, E3Y : integer; T, D6 : boolean; chillax end

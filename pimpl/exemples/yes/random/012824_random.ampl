@@ -1,0 +1,1 @@
+program e99aa : R9p0 : takes p3I, s, U29a : integer; H, p : boolean; W : boolean returns nothing chillax end s : takes yL, Hcp0a, l, S1 : boolean array; d_ : boolean returns nothing do b(6 - 3 < 6); output "" . "o" . "" end F : takes K, x : boolean returns nothing x, nSg, Bf : boolean; y : boolean; H5O : boolean; chillax end main : chillax end

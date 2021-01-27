@@ -1,0 +1,1 @@
+program V2 : a5c : takes P, M : boolean returns integer m : integer; chillax end W8 : takes N2E, P, v7A : integer returns boolean array JIDa : integer; chillax end main : J7f : boolean; input X[- (52 = 97) rem false]; do Pyo(- R[587] rem 18 or false and 1) end

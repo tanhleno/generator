@@ -1,0 +1,1 @@
+program uP : x : takes tT : integer array returns integer array u9G0 : integer array; chillax end emX : takes Qr, rF, _ : boolean returns boolean while - 186 : chillax end end P : takes e : boolean returns boolean array B, _8 : boolean array; while 161 : chillax end end main : while - 0 + not true /= (51) * (86) and 960 + q820 - 892 - 3 : output "]"; pop end end

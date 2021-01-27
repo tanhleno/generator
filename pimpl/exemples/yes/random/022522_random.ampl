@@ -1,0 +1,1 @@
+program f : u : takes i7, Ft8a : boolean array returns nothing T : integer; lF : boolean; chillax end Z : takes J : integer array; Pdr, J : integer returns integer _, X : integer array; SG : integer array; input w[- 4 - 2]; output 20 end bm : takes R, RE7a : integer array returns boolean W, Z, s : integer; chillax end main : chillax end

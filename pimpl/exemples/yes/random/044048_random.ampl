@@ -1,0 +1,1 @@
+program e : n : takes m : boolean array returns nothing o, f, WMO : boolean; NX, A74aa : integer; chillax end P : takes Of7, Hk : integer returns nothing chillax end m : takes FXx0a : integer; H : boolean returns boolean h, Y, i : boolean; chillax end main : q32 : boolean array; chillax end

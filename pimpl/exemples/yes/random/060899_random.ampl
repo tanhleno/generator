@@ -1,0 +1,1 @@
+program f : e : takes Wcr : integer array returns nothing D : boolean array; O7_0a, A : integer array; Rc2a : integer array; vq, h00a : boolean; chillax end main : let MQ5aa = - 024 or J = U15; when case(7) < - false : let _[90] = array 7 end case - 3 and 19 : let qO = 3 end otherwise : when case 3 : chillax end case 4 : chillax end otherwise : chillax end; pop end end

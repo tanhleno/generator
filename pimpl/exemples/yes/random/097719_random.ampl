@@ -1,0 +1,1 @@
+program i46aa : main : when case true rem not true rem true : chillax end otherwise : input t; pop 38; when case 8 : chillax end; input A55 end; let v9T0 = array true * 2 and 28 + not 5 - 3 - 46100 end

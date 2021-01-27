@@ -1,0 +1,1 @@
+program Y : main : pop; when case 532 or h9 < - 6 : pop; output 60 . ""; when case 38 : chillax end end case r and 39 > - 92 - 25 : output ")s" . "" end case - 71 - 95600 : when case 9 : chillax end end otherwise : chillax end; let A[- 2270 and 39] = 87 - 592; when case - 01 : when case 532 : chillax end; input hc5; pop end end

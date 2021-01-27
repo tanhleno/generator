@@ -1,0 +1,1 @@
+program C : I1 : takes U : integer array; o53 : integer array returns integer array Ay, F21a : boolean; do Ok(- i /= - 43200 - 7); let p9 = array - 62900; input R; do LG(7); while 4050 : chillax end end t : takes j, Y6, n2b : boolean returns nothing chillax end main : chillax end

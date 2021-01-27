@@ -1,0 +1,1 @@
+program W : main : when case - N[3] or true or false + 7 >= i1[9] rem true and 648 or g + 58 : chillax end case - (43100) / 209 and 10 : chillax end case Bo and 7 - 75000 - 74 : chillax end; output "" . "2"; when case true >= - 1 : chillax end; pop 5330 = 1 end

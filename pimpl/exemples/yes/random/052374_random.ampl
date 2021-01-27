@@ -1,0 +1,1 @@
+program Is3 : IC2 : takes R330a : integer; mU : integer; m, U, r6z0a, Q : boolean array returns nothing chillax end main : RW : boolean; r, o : integer array; K5, X0v0, L6 : integer array; V, Pk9 : boolean array; V, a3G, DH : boolean; v, _5 : boolean; chillax end

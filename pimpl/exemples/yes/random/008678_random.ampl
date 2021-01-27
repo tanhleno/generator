@@ -1,0 +1,1 @@
+program W : w : takes P, u, P6j0 : boolean; Q, E5 : boolean; z, hh, P74, jh : integer array; C, c8 : integer array returns boolean array chillax end main : pop - 02 - false; output - false + 3 - 74 end

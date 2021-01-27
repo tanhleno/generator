@@ -1,0 +1,1 @@
+program LW0 : main : K46, _ : integer array; when case - (31000 = 54) * (32) : while - 1 - 00300 >= 8 : chillax end; output "''!" end case true or 2 - 94 >= false : chillax end case - not 9 and 7 /= - 69 : chillax end case - 789 > 9 : input Hn40a end end

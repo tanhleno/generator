@@ -1,0 +1,1 @@
+program i21 : main : when case g2[5460] * true <= (6500) / not 43 and 5 : pop end case(390) + 63 and 8 + 45 /= not 8 and 4 - 69600 : input y2[345]; input T[39] end case - true or 25 - 36200 = 33200 - 78 : chillax end otherwise : chillax end end

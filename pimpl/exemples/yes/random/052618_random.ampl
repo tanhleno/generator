@@ -1,0 +1,1 @@
+program kA7a : x : takes zR2a : integer; e : integer array; PD, c, I, a5, M5 : integer array; wdI : boolean; u : integer returns boolean array chillax end M4 : takes l, F : integer returns nothing W : integer array; N51a : boolean; U : boolean; do EA(0, 5 = 1, 48500, 32500) end main : b : integer; q : boolean; pop 07 and true - RDv and 13 = true - 5 - 7; pop(4) and 3 + 6 end

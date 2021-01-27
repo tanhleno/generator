@@ -1,0 +1,1 @@
+program mbFa : main : A, R7g0, d2, S7, f : boolean; D, y, X : boolean array; f, l0 : integer array; V9 : integer; T93a : boolean array; j : boolean; input z0; let Al[- 43 and true] = false and 648 or 35700 < - 501 - 1 end

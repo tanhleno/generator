@@ -1,0 +1,1 @@
+program e : p9 : takes iQ20a : integer returns boolean let _[- false and 26 or 66 - 03] = - 3 = 35 end d0 : takes dw, k, o, V : boolean array returns nothing while 4 - 32 < 165 : output "" end; input m5[5] end main : pop; pop end

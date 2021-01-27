@@ -1,0 +1,1 @@
+program r5Fa : n : takes k : integer array; F : boolean; CO : integer array; g : integer returns nothing while - false and 2 : chillax end end Z : takes U : integer returns boolean array chillax end main : caZ0a : integer; j5 : integer array; C, z, S : integer; JO, B : integer array; E : boolean; Lz : boolean; chillax end

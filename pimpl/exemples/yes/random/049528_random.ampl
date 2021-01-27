@@ -1,0 +1,1 @@
+program h : q9e : takes L8F : integer; q6Aa, st, C, awNaa : boolean; oT : integer returns nothing while - true and 952 - 16000 - 28 = 02000 - 1 : while 0 : chillax end; do IV1aa(224); input HE end end s : takes z : boolean; M6n, j : integer array; ca, _, yg, F, Os : boolean returns integer n, j2 : boolean; p, _H6 : integer array; chillax end main : chillax end

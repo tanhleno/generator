@@ -1,0 +1,1 @@
+program aA : Pn : takes _, gB1aa, h, c, V : integer; Ww, o, p : integer returns nothing chillax end o8 : takes A, j4, gria, CA : integer returns nothing input E end R : takes Is, Y : boolean array returns boolean chillax end main : while 00 : input n070a[00] end; do y(- false); let ZM8 = - 5; output "I"; while 0 = 92 : while 8 : chillax end end; pop 66300 end

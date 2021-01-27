@@ -1,0 +1,1 @@
+program X : n42 : takes wJ : integer array; _i, E : integer; E, b : integer array; o6caa : integer array; yau, tLn : integer returns nothing K5 : integer array; while - false and 19 + 0 - 5 = - 53 : chillax end; pop 8; pop end ly : takes ev : boolean array returns nothing while - 6900 - 993 < 6 : chillax end end main : let GQ = array - 8 / true or true; output "" end

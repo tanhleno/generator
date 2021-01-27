@@ -1,0 +1,1 @@
+program J28 : j : takes cVd : integer array returns integer Qv30 : integer; chillax end main : DI20a, L : integer array; o, U : integer; output false and bpp and 9 . true + 95 . - 09 . 34; let v[67 and 502 and 708] = array - not 26 + tI and 229 or 29 end

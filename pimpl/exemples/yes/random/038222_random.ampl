@@ -1,0 +1,1 @@
+program Xa7 : F : takes G8 : boolean array; P, H5, Gu : integer; F, U0 : integer returns integer array kn, r8 : integer array; B, A : integer array; chillax end t : takes i0, o13a, ye, sPYaa : boolean array; L, Z, a, q : integer array; W2m, u54 : integer; X, c, t6S0a, pG : integer returns boolean array v : boolean; do Z4(62900 = 72) end main : n, K8 : integer; chillax end

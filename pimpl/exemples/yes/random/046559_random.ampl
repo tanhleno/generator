@@ -1,0 +1,1 @@
+program b : K : takes k : boolean returns integer array Vu1aa, v, X : boolean array; i, A1 : integer; Rkr : boolean array; pop end main : let N[- (6 = 1)] = - false; input p060a[- true - true]; while true - 2 : let h = array 53300 end; when case - 9 - 34 >= 13500 : while 1200 : chillax end end; do rs(6 = 0, 0) end

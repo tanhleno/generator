@@ -1,0 +1,1 @@
+program wn20a : a : takes A : integer; x91a, Nd : boolean; D6 : integer array; o0, g, q : integer array; ta70a : integer array; JN, N6, l : boolean returns nothing L2E, R : boolean; chillax end u : takes J8, x, R5 : boolean array returns integer array chillax end main : while - 081 * Ak6 = - false and S25a and 9 : chillax end; when case c[0] or(7710) and 43 : chillax end end

@@ -1,0 +1,1 @@
+program E04 : p390a : takes I : boolean returns nothing chillax end S : takes u : boolean returns nothing fK, O26, Y : integer array; fs8 : integer array; input t[6] end Q : takes AH : boolean array returns integer array B : boolean array; c : boolean; u17 : boolean; output "" end main : U, V : integer; chillax end

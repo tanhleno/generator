@@ -1,0 +1,1 @@
+program a5 : J : takes L, FM9, Y, i : integer returns nothing lZda : integer array; when case - true and 88 - 374 < 30 - 41 : let mYOa[9] = array 4710 end otherwise : input IO; do m(1) end; let P1[- 6] = 8 end main : J : integer; b : integer; V : integer array; s6Oaa, z, NQ5, Y : boolean array; output ""; pop - false and 4 < 1 end

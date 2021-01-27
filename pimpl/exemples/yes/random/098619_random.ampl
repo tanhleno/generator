@@ -1,0 +1,1 @@
+program H : main : while - not 633 / not G /= true or(17100) and 8270 or 3 : chillax end; output(6) - 688 > 8 . ""; when case - (41) - 2 : output "q" . ""; pop end case 8 < 59 : when case 109 : chillax end; pop; pop end otherwise : chillax end; input a; let YUAa[05] = 733 end

@@ -1,0 +1,1 @@
+program _ : main : N, C, g32a : boolean; T, x : boolean array; G : integer array; CKm : integer array; lU_ : integer; _, Y2 : boolean; Q : boolean; output "\n" . true and 9 . "" . "=H"; pop; let i[not 3 or 9] = - 8 = 271; while 74 - 86 : input g; pop; pop end; do o620a(7 = 71, 2, 7150); input g[9]; input O07a; when case 27 : chillax end; pop end

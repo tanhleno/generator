@@ -1,0 +1,1 @@
+program HK6aa : Y00 : takes T : boolean; h : integer array returns boolean input L1Ka; let WH9[- 489 - 9] = array 6 - 00; while 9060 = 2 : chillax end; output "?\t\"a" . "4"; output "\""; input DT end main : E1, h, m660a, S, gc0a : integer; chillax end

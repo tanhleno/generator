@@ -1,0 +1,1 @@
+program M : main : when case false * tPD0 : chillax end case not not 5 and(4) or true and 07 - 301 - 7 : pop end case - true and 905 + 6 : chillax end otherwise : let C5[6] = array 445 end; pop; when case h0 and 1 - 2 - 6 : output "\\" end otherwise : chillax end end

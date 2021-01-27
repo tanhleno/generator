@@ -1,0 +1,1 @@
+program W : Y3 : takes H : boolean returns nothing X41 : integer array; U6yaa, h6, M : integer array; O1 : integer; chillax end main : do p(not not 5 = false * 4 and 111, - false + (69) - 6 - 21 <= s7 and 8, - I or 6 /= - 261 - 57, 3 = 1); do YO(- true or(2) and 8 + 49800 - 5, false and 2 > - 4); input q8 end

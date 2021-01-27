@@ -1,0 +1,1 @@
+program Sz70 : Y : takes n : boolean array returns nothing while - not 83 <= - 7 : when case 98 : pop end end end mnBa : takes h2 : boolean array returns boolean chillax end p42a : takes E4 : integer returns nothing chillax end main : chillax end

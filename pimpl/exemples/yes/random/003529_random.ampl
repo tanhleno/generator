@@ -1,0 +1,1 @@
+program Q3 : ng1 : takes u, H16, C, w47aa, Sa : integer array; I : boolean array; r, de, c : integer returns nothing ww7, Xd : integer array; poO, js0a : boolean; output "a1" . ""; do ne(- 8 = 2); pop 391 end main : c : boolean; chillax end

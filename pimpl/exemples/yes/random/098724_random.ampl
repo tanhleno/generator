@@ -1,0 +1,1 @@
+program O : main : while - 56 - 9610 or not 6 and 9 or 8 = - 1 rem true and 6 : while - 48 - 95 : when case 67 : chillax end; do H(4) end; do e5(8); when case 28 : pop end case 816 : chillax end end end

@@ -1,0 +1,1 @@
+program x0R0a : GTJ : takes gE : integer returns nothing Gi : integer; A2, J2, pC40a : integer array; E : boolean; fr2aa : boolean; do teb(- not 17 and 10, 6 - 1) end tf : takes a, c : boolean returns nothing iP : boolean array; pop 47; do nk(9) end main : e, r78a, x5 : boolean array; T : boolean array; chillax end

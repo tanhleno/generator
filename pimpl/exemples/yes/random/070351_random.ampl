@@ -1,0 +1,1 @@
+program q7 : main : t44, U51aa, k02, VwX : integer; when case 1 - true * 04000 <= 725 and not 3 : chillax end; do a0(- not(98)); do h((1) - 3); let _3[- 239] = 7; pop 31500; while 84 : pop end; do Em0a(1570); input SU; pop end

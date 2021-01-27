@@ -1,0 +1,1 @@
+program M69 : c : takes C : boolean; L : integer; t, _5 : integer array returns nothing O : boolean array; s : boolean; os : integer array; rU4 : boolean; u2h : boolean; h : boolean; when case true - 6 - 10 : do P(13); do X(8) end case 186 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program FOYaa : d14 : takes s : integer; ZZ9a : boolean array; V, e : integer returns nothing w : boolean array; while IJ and 7 /= - 037 - 933 : output ""; input l5; when case 8 : chillax end end; when case 60 - 771 : when case 7 : chillax end end end main : chillax end

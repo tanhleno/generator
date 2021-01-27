@@ -1,0 +1,1 @@
+program i : h3 : takes t, U, s, a8W0, y9 : integer array; K : boolean array; y4, E960 : boolean array returns boolean do i(- p5Aa <= 4, 83 - 18, 87 = 39) end main : Z : integer; output - true rem 00 and 7 + (6) and 1890 >= false and 2 end

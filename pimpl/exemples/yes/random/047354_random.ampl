@@ -1,0 +1,1 @@
+program R : Y : takes S : boolean returns integer while - k9 and 70 : pop 8; let z = 39 end end q : takes GI : integer returns integer do As2(- 760); input j1[5]; let g = 425; while 4 : chillax end; let A1 = 621 end main : V510a, t : integer array; chillax end

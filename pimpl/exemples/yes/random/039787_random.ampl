@@ -1,0 +1,1 @@
+program R5 : X27a : takes L6 : boolean array; G : boolean array; RO, r, E640a : integer returns nothing FZ : boolean; YV, ESe0, wK, b : boolean; pop 4 = 25; do S(- 92 - 3); pop 04 end main : pop - O end

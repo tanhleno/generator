@@ -1,0 +1,1 @@
+program C0 : h : takes E8na : integer; T0, q : boolean array returns nothing Nz4 : boolean; U : integer array; let Z3[- false and 8] = 25300 - 16 /= 3 end main : pYZaa : boolean array; l : boolean; pop; input N[- not false rem 9 or f] end

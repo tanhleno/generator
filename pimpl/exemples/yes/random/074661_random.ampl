@@ -1,0 +1,1 @@
+program v : main : d5v, g1L : boolean array; q, tcL0a, d6, y : integer array; do N3(8 / 94 / W670); when case(4) * R0 - not 5 - 18 >= 9580 and 6 + 22 - 1 : output 4 . "2\t" . "\\?a"; while 772 : pop end end case - true and 8 : pop end case 8 /= 04 : chillax end end

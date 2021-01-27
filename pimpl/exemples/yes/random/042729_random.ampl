@@ -1,0 +1,1 @@
+program h : e : takes bv5 : boolean array returns integer array Z : integer; chillax end i : takes c, u5 : integer array; P : boolean; W, e, N, K : integer array; Zu00a : integer array; r : integer returns nothing let Sz2a = array 7 - 19 end main : output "\t"; output(86) and 02 + 422 - 91 . - 262 /= 2 end

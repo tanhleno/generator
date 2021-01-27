@@ -1,0 +1,1 @@
+program Q : g : takes t, c : boolean; en20 : boolean array returns nothing chillax end main : pop - (47100) / false and 993 or false and 029 - 6 - 3930; when case - tj * true <= - (5) : while 73 : chillax end end otherwise : do bt(32, 33800) end; while - true and 9830 = - 7330 : pop end end

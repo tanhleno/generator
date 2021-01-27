@@ -1,0 +1,1 @@
+program SF : y : takes v : boolean; B, T : integer array; Ba70 : boolean; Uw6, O : boolean returns nothing let MX = array - not 1 end main : Cc : boolean; while I : output 98000 end; while x[304] : while 1 = 01 : when case 26 : chillax end; pop end end; when case not 2 and 28 /= 6 - 73400 : chillax end otherwise : chillax end end

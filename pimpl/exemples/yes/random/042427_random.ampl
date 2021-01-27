@@ -1,0 +1,1 @@
+program Gw2 : q : takes a : boolean array returns integer array chillax end u0 : takes e : boolean; C : boolean array returns nothing r : boolean array; input I91[5 - 30]; pop; while 4 : chillax end end main : chillax end

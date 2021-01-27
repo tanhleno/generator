@@ -1,0 +1,1 @@
+program f : main : iM : integer; u, i : boolean; pop; when case false : let k = array 5 end case - not 1 < 0 : chillax end case - 4 : input ysb end case 079 = 0 : while 3 : chillax end; pop end otherwise : chillax end; let PQ = - 6 end

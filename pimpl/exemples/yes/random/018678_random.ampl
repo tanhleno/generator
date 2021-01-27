@@ -1,0 +1,1 @@
+program v5 : V5 : takes h, aH20a : boolean array; ZT7aa, kJ, Go0, vy, I7K0 : boolean returns integer oZ5, YT, M, i, W : boolean; when case - Q and 7 + 6 : input EU0a; pop end; pop 94; output 4 . 7 end main : chillax end

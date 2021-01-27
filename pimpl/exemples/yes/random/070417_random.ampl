@@ -1,0 +1,1 @@
+program W0 : main : b, x, T, g : integer array; sY10, VS9, pl : boolean array; when case 0500 and 9 / not 6 or 1 + 4 and 433 /= - false : do B90(- 1 - 9650) end case - false : chillax end; when case - qpn(1890) /= 5 and 9 : input J end case(2) : chillax end; while P8 : let P = 602; input a3; when case 6 : chillax end; pop end end

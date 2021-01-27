@@ -1,0 +1,1 @@
+program J : main : t5, Hjt : boolean array; mD : boolean; let C = - true * uv9aa + not 66 and 6 or 0 = - true + 44100 - 14; do M(not not 8 * U and 99200 >= q8 and 6210 or 5 - 9, - not 50 and 1, 2 >= 3, 9, 1); while - not 7 > - 2830 : chillax end end

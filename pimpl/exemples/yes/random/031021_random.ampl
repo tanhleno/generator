@@ -1,0 +1,1 @@
+program ieZ : V : takes N, D5 : integer array returns nothing let y[f] = array not 5050 + 08; while 9 - 100 = 5 : input o8 end; output 06; do Z4Q(61000); let Bp = 3 end main : X : boolean; S1 : boolean array; chillax end

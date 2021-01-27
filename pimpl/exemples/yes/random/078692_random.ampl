@@ -1,0 +1,1 @@
+program s : main : n9 : boolean; I76, pR8, tj50a : integer; zv : integer array; R, K, f : integer; Z, E : integer; while - a * not true - (22) * false - true and 4 or 04 > - not W5i : chillax end; output - M and 6 > - 9 - 4; while not 4 - 64200 - 4 >= - 7 : input _[0] end; input K end

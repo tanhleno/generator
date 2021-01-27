@@ -1,0 +1,1 @@
+program _p : Q : takes X : integer returns nothing G : boolean; chillax end rW : takes F : boolean; A : boolean array returns integer array do FXHaa(- 9 - 5, 8) end U : takes h8 : integer; ZM6, Ju, m, r, s : boolean returns integer array chillax end main : while(152 = 0) * not n >= 2 : while 5 - 4 : do M1(82); pop; pop end end; output "" end

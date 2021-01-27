@@ -1,0 +1,1 @@
+program K : d : takes e5A, g0, JO, X, B7Qa, Cu80a, n : boolean; p7h, d : boolean; K1f : integer; D : boolean returns nothing when case - false and 64700 or 66 - 4630 < - 83 : chillax end otherwise : input M end; pop 37 end main : while - not u[3] and true * false and 470 - true - true >= - false * not 6 and 306 + 2 and 29 or 5 : chillax end end

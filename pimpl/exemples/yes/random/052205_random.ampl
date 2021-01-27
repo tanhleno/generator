@@ -1,0 +1,1 @@
+program Z : Fo : takes s48aa : integer; m : boolean returns integer array input l end W09 : takes P : integer returns nothing r, g27, l3, iz60a : integer; _4s : boolean array; J, E : boolean; Jy : boolean; do Ll(4 >= 4) end main : Mf, t : boolean; pop; pop; input VH[true]; when case 90300 >= 4 : chillax end case 699 : pop end case 0 : chillax end end

@@ -1,0 +1,1 @@
+program W : Y : takes H : boolean returns nothing do q(not 5 and 43 - 994 - 58) end wJ : takes M, wF, Rq, f, H : boolean; WKw0a, M, g8 : integer array returns nothing do RO2(82 - 3 >= 648) end C : takes Drg, P, t, a : boolean returns boolean G : boolean; do P(28 = 91, 9, 825) end vf : takes lcP, N, Q : integer returns integer chillax end main : chillax end

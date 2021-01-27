@@ -1,0 +1,1 @@
+program siR : bm : takes E : boolean array; YV, AcU : integer returns integer while not 464 and 85 : chillax end end main : do y(59 rem false + false rem(3) and 0 - ll); when case - (8690) : when case 7 : input Ot; pop end case 6 : pop end case 9 : chillax end; output 8 end end

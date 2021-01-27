@@ -1,0 +1,1 @@
+program Xv : ck : takes AgC0 : integer; x, M09a : boolean array returns integer array G9t, X6 : integer; f6 : boolean; A3 : boolean array; chillax end main : when case(97 = 99600) <= - not false or not 5000 or 5680 : output 70; pop 5 end case not not 7 / true > - not 0 : pop end otherwise : input i; input q; let z = 0; let h2 = 3 end end

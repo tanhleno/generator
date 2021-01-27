@@ -1,0 +1,1 @@
+program h910 : WD : takes V : boolean array returns boolean qN50, H600, N : integer; i, x3 : boolean array; N01a, H6x : boolean array; when case - true and 2 - 3 - 06 < 1 : chillax end case - 54 - 31 >= 87600 : chillax end otherwise : let OLA = 852; input Z end end main : chillax end

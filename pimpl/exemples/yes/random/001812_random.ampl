@@ -1,0 +1,1 @@
+program _Q : H : takes i, GE6aa, P, rc, Id8a, d : integer array; Oo : boolean array returns nothing KL, U : boolean array; H, J, m610a : boolean; chillax end a : takes v0, C, I, R : boolean returns nothing do L(- 3 - 6 < 46); pop; while 2 : chillax end; while 0 : chillax end end main : pop end

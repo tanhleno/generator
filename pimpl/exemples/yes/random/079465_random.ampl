@@ -1,0 +1,1 @@
+program n : main : _l20a : boolean; x : boolean array; pop; let a = false + 6 - 057; when case r or 57 - 64 : while 2 : pop end; pop; let piD0 = 3; pop end case 45900 <= 2 : chillax end otherwise : chillax end end

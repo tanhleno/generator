@@ -1,0 +1,1 @@
+program gE : s : takes N, o, I7V, K2j : integer returns nothing a51 : integer array; sO, N, h4, I : integer; when case evp0 and 6 - 0 - 6 : let yWp[2450] = 6 end case 7 > 3 : chillax end case 05 : chillax end case 1 : chillax end case 575 : chillax end otherwise : chillax end end main : chillax end

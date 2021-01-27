@@ -1,0 +1,1 @@
+program p : main : pop b(51) and false and 5230 >= true and 9; when case yl[80400] rem M8 and 31 + (356) and 27 /= - true and 135 : chillax end case not 66 > - 113 - 32800 : let o = 1 end case - 3 - 975 : input t; input c; pop end case 9 = 2 : chillax end end

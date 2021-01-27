@@ -1,0 +1,1 @@
+program u8 : k1 : takes i : integer; M, H, V5, xKn0, p, _13, rn10a : boolean; r, g : boolean returns nothing F83, hr, Ay : integer; chillax end N : takes M : boolean returns nothing do M(- 3 - 5 <= 62); while 7 : do r(49); pop end end main : U1, m6w, q89 : boolean array; output true and n; pop; do O(- (7) - 75) end

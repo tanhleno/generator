@@ -1,0 +1,1 @@
+program H : X120a : takes c, A, Xl, c, jM : integer array; N, o_G, U8, b, T2L : integer array; e9 : boolean; Tw60a, yi, P : integer returns nothing chillax end w : takes B : integer returns integer array n070, w, Z, lz00 : boolean array; while - 2 > 67 : chillax end; while 4340 = 8 : chillax end; output 50 . ""; pop; while 3 : chillax end; pop end main : chillax end

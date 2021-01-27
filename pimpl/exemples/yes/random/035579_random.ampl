@@ -1,0 +1,1 @@
+program y : V : takes _ : boolean; g : boolean array; gw, C4faa, r, i7, L, f9ja : integer array returns nothing chillax end R : takes y : integer; Yq40, w, X3, C6, sU6aa, x830a : integer returns nothing output "y" . "" end main : while - x(080) - 5 rem(8) < - not not 755 : let L6 = 98; output "" . 9; do Z6(5, 2); let gW = 9; output ":" end end

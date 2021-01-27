@@ -1,0 +1,1 @@
+program z : main : while(543) / 90 and true and 1 or not 738 > (6) * false and 44 or(0) and 243 : pop 30; do f5(60); output "\t\"!a" . "" end; do Q67(- 7 > - cj and 8, - not 6 and 7, - 6 - 3 < 7); while n = - 5 : chillax end end

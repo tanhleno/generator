@@ -1,0 +1,1 @@
+program t : J : takes w0J, nI5, t01a : integer returns nothing pop 90 = 68 end main : input I[(6) * 057 and true and 647 + (6) and(7) and 1]; while(36) - 5 + 2 - 80 <= U1 : chillax end; output 3510 >= 4 end

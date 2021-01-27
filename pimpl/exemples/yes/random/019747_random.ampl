@@ -1,0 +1,1 @@
+program u9 : t : takes h, f : boolean array; kC : boolean; Kbm : boolean array returns nothing V4, M, Od8 : boolean; pop; when case 59 : output "Q" end case 2360 : chillax end otherwise : while 74 : chillax end end; output 74 . "fL\"a" . "" end main : wFb, t : boolean array; chillax end

@@ -1,0 +1,1 @@
+program O0 : DD : takes Z_ : integer array; M, v : boolean array; G, kL, Dq : integer array returns boolean array output ""; let JK[- 5] = array - 80 end main : M2, w3 : boolean; q, R110a, J6, A : boolean; x, O : integer; B : integer array; input h8; output - not 9 and 4 < 1 end

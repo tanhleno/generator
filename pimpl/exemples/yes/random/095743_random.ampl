@@ -1,0 +1,1 @@
+program q1 : main : when case - false * (15) * not 0 and 45 - true rem Jt3 and 222 /= - false / not 10800 or not 42700 + 288 - 9 : chillax end case 1 / 2 and 962 : input LO; when case 3 : pop end; let F = 2 end case - (00) : chillax end end

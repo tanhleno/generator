@@ -1,0 +1,1 @@
+program cH : main : S : integer array; J : integer array; J, n : boolean array; F, Z, X6, L4 : integer array; F : integer array; when case - w330 / w[10] and true : do d(4 - 6 = 5, 69 = 2); while 76 = 7 : chillax end; let h = array 7; while 27 : chillax end; when case 37 : chillax end end otherwise : chillax end end

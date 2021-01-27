@@ -1,0 +1,1 @@
+program C : Y : takes rb3aa, dC : boolean array returns nothing a7 : integer array; let hJ6[false or 26 - 122] = array - false and 3 - 0 - 4 end main : X, X, V : integer array; D, t, y, A0 : integer; Y5_a : integer; chillax end

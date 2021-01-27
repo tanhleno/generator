@@ -1,0 +1,1 @@
+program m : main : T0, zW : integer array; input K630a; when case false * (17) and 4 : pop; output 8 end otherwise : let f7W[5] = array 1; output "~60"; pop; pop end; output 9 - 16 = 6 . 4 = 795 . 55300 . "" . "" end

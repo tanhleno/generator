@@ -1,0 +1,1 @@
+program f : S70 : takes IQD, d65a : boolean; b8 : boolean; n : integer returns nothing output "" . 18 . "a:" . 74 . ""; when case - 74 >= 5 : chillax end case 64700 = 844 : while 81 : chillax end end end main : do v(- not true > not not 5920 rem 2 or false + 4, not not 2 / tB and 3 + (901) and 92 - 9) end

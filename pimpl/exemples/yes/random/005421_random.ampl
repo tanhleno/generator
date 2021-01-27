@@ -1,0 +1,1 @@
+program f : Hh : takes zP, d, sz, O : boolean array returns integer array r90a, C8 : integer; e : integer; e6 : integer; XD : boolean; T : boolean; while - 38700 - 55400 : chillax end; do YL(569 - 6670 = 11400, 0680 = 6) end D : takes I2 : integer array returns nothing zw : integer array; chillax end main : chillax end

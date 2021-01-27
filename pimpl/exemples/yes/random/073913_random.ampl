@@ -1,0 +1,1 @@
+program hIe : main : H, H : boolean; tf : integer; U, xU : boolean array; k, W : boolean; vA80a, i : integer array; while g[6] * kX[0520] rem(154) and 25 or false and X97a and 4 + 91 + 9 - 317 : chillax end; while - not sD : while 012 : chillax end; let FiS = array 46500 end end

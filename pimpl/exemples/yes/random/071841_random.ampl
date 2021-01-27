@@ -1,0 +1,1 @@
+program c : main : oyw, d, S1d : boolean array; output true and not 5 /= - not 72 . "><\"" . ""; when case G9A0[53] : when case 4 = 49 : input P8oaa; pop end otherwise : pop end; input wvL[7]; output "0" end otherwise : let Na9 = array 856 end; let l[- 0] = 65 - 1690 <= 5; while 1 - 0 /= 5 : chillax end end

@@ -1,0 +1,1 @@
+program x : I2 : takes R : integer returns integer while false and 570 - 403 : input AW end; when case - 3 - 64800 : chillax end; output "" end main : let u[t0[2480] rem(900) rem 5 - (6) - (6)] = array false end

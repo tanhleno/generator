@@ -1,0 +1,1 @@
+program x79 : C : takes E0 : boolean returns boolean array K, S, U1Zaa : boolean; JF, L, D, _JS : boolean array; chillax end main : do A(false rem 13 * 2 - false and(90) and 01 <= e - (2) or 13600 - 0) end

@@ -1,0 +1,1 @@
+program o : KT : takes x : integer array returns nothing chillax end main : when case - true < - (06) + (010) and 1 : let U[0] = array - 5 - 76; pop end case C57[2] rem not 4410 > false and 2780 : chillax end; input L[- V6G - false and 0]; when case - 1060 and 25 : do Q(808, 5) end case - 4 - 680 : output "" end; input f end

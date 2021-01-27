@@ -1,0 +1,1 @@
+program N : main : I2, cqT : boolean array; when case - not 2 : chillax end; let I[- _(69)] = array false + true and 9 or 27; while - (78300) + 5 : chillax end; while - 48 < 1 : let x = 8 end; let _H = 4; when case 2 : pop end case 1 : chillax end otherwise : chillax end end

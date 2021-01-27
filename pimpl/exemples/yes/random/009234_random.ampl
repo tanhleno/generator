@@ -1,0 +1,1 @@
+program Ed0a : _ : takes G1s, Xj3, x : boolean; Xv70 : integer; F, A, A7T : integer; x2 : boolean array returns nothing chillax end main : while Mn : let hA_[55] = 2 end; output 31 and 939 or 5 - 3; when case - not 1 : do J(57); pop end; input E[- 10300 - 373] end

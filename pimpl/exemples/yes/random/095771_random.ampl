@@ -1,0 +1,1 @@
+program h : main : when case - false + 8 * false and 86 >= - 1 * 0 or true - 85 - 37 : chillax end; when case(16) and false or false and 9 : chillax end case 82 and 34 or 3 : chillax end case - 285 : chillax end; let l = array - d - 0 - 7 end

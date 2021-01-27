@@ -1,0 +1,1 @@
+program M5 : main : pop true / 5 or 059 > true and 534 - 43800 - 4; while not 9 + not 7 and 42 or 4 : do C(4 = 794, 1, 3); when case 10 : pop end case 44300 : chillax end otherwise : chillax end end; input Y[- not 3 and 57300]; let e85[0 - 17] = array - 45 end

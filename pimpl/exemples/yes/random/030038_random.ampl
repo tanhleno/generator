@@ -1,0 +1,1 @@
+program m : F7t : takes NT, O9 : integer array returns integer Z, I1 : integer; input Gs5aa end main : S : integer; output 7 . - V >= 2; let z3[(1) and 4 and 2] = array 3 rem(152) and 97 + true + 85100; let xH[- not 5650 and 94 - 61400] = array - 10; while - 8 = 1 : chillax end end

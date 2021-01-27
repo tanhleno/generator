@@ -1,0 +1,1 @@
+program L : main : input aP; let P5 = array - false + not 5; when case - not 352 + 40 = 6 - 8 : chillax end case 2 : chillax end case 50 = 1 : chillax end case 92 : pop end case 00000 : chillax end; when case - 3330 : let A = 801; do G9(72); pop end end

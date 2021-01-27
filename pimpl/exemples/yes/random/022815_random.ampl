@@ -1,0 +1,1 @@
+program n : C : takes l, f : boolean array returns nothing while - JJsaa = 7 - 17 : while 58 : pop end end; let L800[- 4 - 5] = array - 6 end L : takes a6 : integer; n : boolean array; y5 : integer returns nothing chillax end main : chillax end

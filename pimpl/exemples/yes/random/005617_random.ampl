@@ -1,0 +1,1 @@
+program S8 : v7I0 : takes sXC, L, _2, c : boolean array returns nothing R9, Y, z7 : integer; c7 : boolean array; Qt, Rgm, v : boolean; input F9[8 and 0]; let u33[7] = 17 = 1; when case 6 : pop; pop end case 7 : pop end case 721 : chillax end otherwise : pop end end main : chillax end

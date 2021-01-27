@@ -1,0 +1,1 @@
+program n1J : I : takes C5, N, u, s : boolean; H : integer returns nothing when case h6 and 057 > 944 : chillax end case 34 - 39 : while 1 : chillax end; while 9 : chillax end; pop end case 85400 = 0 : pop end otherwise : chillax end end main : C, Vk : boolean; chillax end

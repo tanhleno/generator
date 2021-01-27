@@ -1,0 +1,1 @@
+program L : zO : takes i, SP7, K, M, T, P0 : boolean returns boolean array ei : boolean array; F42, zw : integer array; _7, DL : boolean; Z1 : boolean; chillax end main : u, E : integer array; pop end

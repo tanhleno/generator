@@ -1,0 +1,1 @@
+program SNFa : tEd : takes O, nq : integer array returns boolean array fpw : integer; wM : boolean array; C, Udd : boolean array; p, kq : boolean; o6 : boolean; i : boolean; chillax end main : a : boolean array; j17a : integer array; V38 : boolean; do P(not false / not BG or(7) and(0) > not true or not 41, - true - false, - 56 or 27700) end

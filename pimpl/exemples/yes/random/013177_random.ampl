@@ -1,0 +1,1 @@
+program c : N : takes G, v3, cV5 : integer; w7 : boolean array; t : boolean array returns boolean array O, H, GN9 : integer array; Y, y, Onp0a : integer; IL, f36 : integer; Nt : boolean; R4b0 : boolean; when case - 7 and 7 + 9 : chillax end otherwise : chillax end; do V(- 0 - 8) end main : chillax end

@@ -1,0 +1,1 @@
+program l : u7E : takes A, z9 : boolean returns nothing N, cCAa, KT5a, t1 : integer; V7 : integer array; chillax end HIL0 : takes U, GkVa : boolean returns nothing rGf : integer; input _6L end main : output - 0 < not 0 and 9; let F = - (5) <= - 7; let Hm7aa = array 76200 and 8 - 15 end

@@ -1,0 +1,1 @@
+program Oif0 : J : takes P5y0a : boolean; k83, f : boolean array returns boolean array chillax end main : P, o : integer; output "" . (69) and 4 . 9 - 8 < 185 . 9; do f(false / zn and 8 or 5 and 4) end

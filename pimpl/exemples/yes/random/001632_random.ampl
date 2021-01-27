@@ -1,0 +1,1 @@
+program c : C : takes M, U, r, G, K, U : integer; A, n : boolean array returns nothing h7o : boolean array; chillax end Xg : takes y : integer array returns nothing B, I : integer; pop 0 = 812 end W : takes M, QvLa : integer; z9d, z : boolean returns boolean gB : boolean; P61 : boolean; chillax end main : pop 8 < true and 0 or 47 - 14 end

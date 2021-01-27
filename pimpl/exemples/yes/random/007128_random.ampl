@@ -1,0 +1,1 @@
+program D1 : w03aa : takes z, A7, jB, _ : integer array; mlb : boolean array; z, B, T4 : integer; C, aA, Z, SW : integer returns nothing n1, _2t0, M7gaa, K : integer; f2 : boolean array; chillax end main : chillax end

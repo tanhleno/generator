@@ -1,0 +1,1 @@
+program W : main : when case _(23, 6) * true : let G[- 23] = array 0 - 9 end otherwise : do w(3); when case 422 : pop end case 91 : chillax end otherwise : chillax end end; when case false : chillax end case R and 4 + 08700 : let l57aa = array 0; while 1 : chillax end; while 292 : chillax end; pop end otherwise : chillax end end

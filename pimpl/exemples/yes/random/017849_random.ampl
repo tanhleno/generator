@@ -1,0 +1,1 @@
+program s : m : takes z, o : boolean; Mv8a : boolean array returns boolean array j2, t7, K, I, R : boolean array; pop; input W end u : takes odpaa, u : boolean; h : integer returns integer let U[- 4] = 43600 = 3; input so; let X[4] = array 06200; do mn4aa(53); do x3(4); pop end main : chillax end

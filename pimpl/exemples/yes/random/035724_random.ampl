@@ -1,0 +1,1 @@
+program k9 : I4saa : takes eI6 : boolean; z : boolean array; Y7 : boolean array; a, M86 : boolean array; ZcR, CO, z1 : boolean; Xx, z : boolean; u, G8 : boolean returns integer array chillax end main : do y(- false); pop; output - 8 . 5 . "" end

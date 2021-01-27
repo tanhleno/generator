@@ -1,0 +1,1 @@
+program s : y : takes w : boolean; y_F : boolean array; Z1 : integer; U, K, k4, gg, L : boolean array returns nothing input m; while - 9710 : chillax end; pop 4; output 06 . ""; input l end main : chillax end

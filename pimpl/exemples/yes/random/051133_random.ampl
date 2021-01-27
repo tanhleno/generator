@@ -1,0 +1,1 @@
+program Up : g : takes S8h : integer; M0, ig6 : integer array returns nothing U35aa, E : integer; chillax end main : V5J0a : integer; L, _7Ra : integer; while - true / 9 rem(587) and 88 /= true or false : do f8P0(- 76 - 8); input p[94] end end

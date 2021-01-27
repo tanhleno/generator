@@ -1,0 +1,1 @@
+program j : C : takes S52aa : integer array returns nothing Gz : integer; do DG(not 36 and 754 - 6 - 6 >= 9 - 5) end E : takes y00aa : integer array returns integer chillax end main : gY, J4 : boolean; chillax end

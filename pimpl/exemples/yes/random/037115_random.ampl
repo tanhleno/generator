@@ -1,0 +1,1 @@
+program r0k0a : M : takes fDf : boolean; mw7 : integer array returns nothing c : boolean array; input rb10[- qq + 8]; input B end Iol : takes I, f : boolean returns nothing bx : integer; chillax end Z13 : takes x : integer array; w, W : integer returns boolean array s, ksm, m6 : boolean array; while 67 : input r; pop end; while 08 : pop end; output "" end main : chillax end

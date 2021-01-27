@@ -1,0 +1,1 @@
+program t : BN4 : takes t, Z2 : boolean returns nothing L : boolean; i, E73, l6, w : integer; let u = - 1 <= 2 end Y : takes E1 : boolean returns nothing output 7 . 10200; while 2 = 34 : chillax end; while 2 : pop end; let W6 = 1 end main : when case - (8) * 8780 < - true + not 701 : chillax end; pop; when case - 43 and 5 or 205 - 6 >= - 45 : chillax end end

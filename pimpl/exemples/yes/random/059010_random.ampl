@@ -1,0 +1,1 @@
+program L : s : takes b : integer array returns integer array output ""; while - 449 - 7 >= 60600 : chillax end; do G8(24); input r[0]; output "" end main : Z7 : boolean; output(1) rem(3); output "#" . "" . 2 = 14 end

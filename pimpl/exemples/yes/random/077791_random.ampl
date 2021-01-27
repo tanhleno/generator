@@ -1,0 +1,1 @@
+program I : main : C, c : integer array; Oc : integer array; CDr : integer; k84a : boolean; _, T, rb : boolean array; Qc00, P : boolean; C170 : boolean; Fp9 : boolean; do z2(- 21 <= false and 7 and 8 or true or 3 - 4, (5) and(2) > false and 85, (009) and 378 + 633 = 98) end

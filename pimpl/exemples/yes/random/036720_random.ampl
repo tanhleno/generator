@@ -1,0 +1,1 @@
+program K : L0 : takes I : boolean; W : integer array; N, x : boolean returns boolean when case - true : pop; when case 55 : chillax end; while 3 : chillax end; pop end case 6 : while 5 : chillax end; while 827 : chillax end; pop end; let B38[57] = array 1990 end main : let X0 = false end

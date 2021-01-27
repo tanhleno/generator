@@ -1,0 +1,1 @@
+program q0 : main : while - not not p150a <= true and RC + 1900 and 1 or 009 - 9 : while 24 : chillax end end; when case - (18) + 1 and 6 + 41 - 6 < false and 2 : when case 15 = 136 : chillax end end end

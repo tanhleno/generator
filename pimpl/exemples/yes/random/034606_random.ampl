@@ -1,0 +1,1 @@
+program y : Z : takes I : boolean; j, jW8 : boolean array returns nothing when case - (7) and 2 : output 2 end case 0 - 7160 : chillax end case 67 : chillax end end main : N92 : integer array; while false or true or false and 7 or 78 : chillax end; let c2X[false or false] = array - (3) and true and 5 - true and 7; while - false - 417 : chillax end; let x7[- 71] = 2 = 8 end

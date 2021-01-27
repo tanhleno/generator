@@ -1,0 +1,1 @@
+program X95 : P : takes S, j, E : boolean returns integer array Q : boolean; let IxG[false - 64 - 26] = - 4 - 99 > 10 end main : Tm0 : integer array; q, Z9 : integer array; input oLAa; when case NG[14] * J = - F and 458 + 115 - 2 : chillax end; output "" . 71 = 4 . 3; let F[08500] = array 9790 - 9 end

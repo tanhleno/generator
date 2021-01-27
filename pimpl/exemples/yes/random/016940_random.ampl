@@ -1,0 +1,1 @@
+program i : d : takes K, WcT : boolean; E0a, Uv, O : boolean array returns boolean chillax end N4 : takes m : integer; q : integer array returns nothing y42a, bF, g, T : integer array; when case - 1 - 582 > 9 : chillax end end main : x, G : integer; L8 : boolean; i230a : integer; DV3, f, jR : boolean array; J : boolean; ur : boolean; U : boolean; chillax end

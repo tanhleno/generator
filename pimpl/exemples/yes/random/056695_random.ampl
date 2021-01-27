@@ -1,0 +1,1 @@
+program Ep : j : takes L : integer array; s : integer; I : boolean array returns nothing M2, f : boolean; zA, n, _, X : boolean; s : integer; k, r : boolean; v0 : boolean; while(6) and 06 + 9 /= 5 : output "" . ""; when case 3 : chillax end end; output 78 = 31900 . 53 . "\\3!a" . ""; output "" . "/" . "" end main : O : boolean; chillax end

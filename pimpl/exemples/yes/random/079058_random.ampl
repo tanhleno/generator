@@ -1,0 +1,1 @@
+program T97 : main : nO : boolean; l, _ : integer; when case - true * not(9) or not false > - (9) and not 9 and 0 : chillax end case - true <= - not 0940 - 8 - 2 : chillax end case - (6810) or 76 : output "5" . ""; input a end otherwise : chillax end; let o5Z[- not true * (9) + true] = - false - 6 - 91 end

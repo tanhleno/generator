@@ -1,0 +1,1 @@
+program X : a52 : takes E, Q : integer array returns integer zU5, C8, J : boolean; n, YCg, T4C, j : integer; pop; let i[- 68] = 13 = 7 end OW0a : takes S8ha : integer array returns nothing chillax end Gt : takes a, _MHaa : boolean; pc : integer array; YC, Q5, mb, k8d : integer array returns integer output 2 end main : chillax end

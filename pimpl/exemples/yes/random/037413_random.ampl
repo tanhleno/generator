@@ -1,0 +1,1 @@
+program h13 : oB : takes Z : boolean; y : integer returns nothing let U[9 - 913 - 0] = array - true end jD : takes XV70 : boolean array returns boolean Z : integer; _W : boolean; chillax end wt : takes h : integer returns nothing output 4 . 73 . ""; let k[6410] = array 68400 end main : chillax end

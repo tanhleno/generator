@@ -1,0 +1,1 @@
+program rf2 : Ym : takes L2 : integer array; f, K : boolean array; k9, wK, U : boolean; b9 : boolean; hm : boolean array; az : integer array; VP, e99a : boolean returns integer chillax end main : c, r3 : integer array; chillax end

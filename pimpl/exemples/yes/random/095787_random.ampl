@@ -1,0 +1,1 @@
+program Y : main : when case - false - not true or w or 7 : chillax end case - y * false and 9 >= not 280 or 2 : chillax end case - U <= 52 - 7 : output "\n8"; when case 1 : chillax end; do hY(0) end case 12 = 5 : do Gg(92); pop end otherwise : chillax end; do j3(- false rem true and 845 - (2) and 4720 or 46 - 4 < - (53100) and 91 + 78 - 4960, - (1) and 033) end

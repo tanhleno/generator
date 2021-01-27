@@ -1,0 +1,1 @@
+program J : main : AP, l, L, Z8 : integer array; S : integer; do d(- true /= true and not 26 - (57) and 762, - true / t and 9 /= not 0 and 9); while _0k[0] rem o750 <= Yqhaa and 87000 - 31 : while 20 = 7 : input h end end end

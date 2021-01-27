@@ -1,0 +1,1 @@
+program T : N0H : takes W, V, K, l : boolean array returns nothing F4N0a, Pf : integer; H : boolean array; Mw, JaUaa : integer array; M : boolean; a2 : boolean; E26aa : boolean; input Z91a end main : chillax end

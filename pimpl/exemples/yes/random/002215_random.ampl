@@ -1,0 +1,1 @@
+program nQ : J : takes j, xv, k, rn, Q : boolean; _2, cs : integer array; K, r : boolean array returns boolean when case - sM < - 54 - 51 : let KOe[08600] = 11; let t9 = 2 end otherwise : do D(45) end end main : while - false : output 19 = 3 . "." end; while(3070) < (6) or 66 : output "" . 445; do c(1, 0); output "=a0a" end end

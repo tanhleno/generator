@@ -1,0 +1,1 @@
+program Q : C57 : takes _K : integer array; H1, R : integer array; E : boolean array; r2g : integer array; K : boolean returns boolean xet, w240 : integer; chillax end G : takes UR, gsY, a, zL5, M, n6h : boolean; z9, e : integer returns integer array chillax end main : chillax end

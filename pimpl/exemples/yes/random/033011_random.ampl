@@ -1,0 +1,1 @@
+program A : q : takes U, V2E : integer returns nothing let F = - 30 end main : p, o4n0, o91 : integer array; D, fGW, ld : integer array; KTz : boolean array; do v(true - 0 and(5) and 4 or false - 1 - 95) end

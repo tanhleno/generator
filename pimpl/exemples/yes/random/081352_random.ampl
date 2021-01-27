@@ -1,0 +1,1 @@
+program y : main : xT6 : boolean array; Y, o : integer; F, N0, R : integer; when case f(1, 51600) * true * true + (3) rem l + false : pop; input T7[5070]; let B930 = 13 end otherwise : chillax end; when case - not t - 9 - 76 - 5 >= true or 0860 - 06500 : chillax end case - (0) + 30 : chillax end case 79 - 2 : do r0(0) end case 6 : chillax end end

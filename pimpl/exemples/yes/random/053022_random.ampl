@@ -1,0 +1,1 @@
+program G : y : takes rK : integer; W6m : integer array returns nothing k4, X : boolean array; C8m : boolean; k, D, E : integer; chillax end main : oz0, j3 : integer array; M1i : boolean array; output "" . - true and 59; input y end

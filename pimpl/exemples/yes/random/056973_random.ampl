@@ -1,0 +1,1 @@
+program Ouca : zB2 : takes L : integer array; l2W : integer array; G : boolean array returns nothing chillax end main : while 51 * false or not 55 rem not 18 and 1 - not 8 and 276 - 75500 = false - x or 2 - 0 : chillax end end

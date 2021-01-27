@@ -1,0 +1,1 @@
+program B : k33a : takes j1 : boolean array; f : boolean returns boolean array when case false and 0 or 088 - 03 < - 65 : chillax end case - 01 /= 6060 : while 36 : chillax end end case 8 = 925 : do tU7(3); pop end case 89 : pop end case 7 : chillax end otherwise : pop; pop end end main : EXG0 : boolean; chillax end

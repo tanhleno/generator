@@ -1,0 +1,1 @@
+program GD : e : takes I010, C : boolean; Z9, G, q3Q, a, N57, C : boolean returns nothing input _[false or 29] end aiLaa : takes f0 : integer array returns boolean o7, yt : boolean array; p4 : integer array; chillax end main : I_v, Q, g : boolean array; input u; while - false : do G(8); output "N"; let f = 941 end end

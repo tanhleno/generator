@@ -1,0 +1,1 @@
+program Z : main : Es, HU, T, D : integer; E : integer; input f58[true]; when case - fm * true - 004 : input M8p0[4]; do l(4, 026); when case 31 : chillax end end case not 3 or 1 = 141 - 8 : while 68 : pop end; when case 588 : chillax end; do Zv_(44); pop end case 60 >= 88 : chillax end; do V(false <= - 9, - 2) end

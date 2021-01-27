@@ -1,0 +1,1 @@
+program fj : W : takes B3b0 : boolean; o : integer array returns nothing K57 : integer; when case(6) and 10 - 28 : let u = 1 end case 00 < 7400 : while 7720 : chillax end end case 04 = 9 : pop; pop end case 554 : pop end otherwise : chillax end; output 886 = 74 . 1 end main : pop end

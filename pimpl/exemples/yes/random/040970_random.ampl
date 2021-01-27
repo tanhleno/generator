@@ -1,0 +1,1 @@
+program K : Z : takes UU : boolean array; nPS0 : integer array returns boolean array l, ZX : integer array; JE, u, r, T : integer array; Z : boolean; chillax end O : takes h, g67, W, l3w, s, _ : integer returns integer array chillax end main : N7y : boolean array; chillax end

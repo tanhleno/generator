@@ -1,0 +1,1 @@
+program N : E : takes i2, a, q : boolean array returns boolean array p, i, T : integer; chillax end f : takes m6, p : integer returns boolean array output 69; do g(53 = 8480) end main : c, o : boolean array; q : integer; _9 : integer array; I : integer array; let c = array(390) rem 5 and false and 85; pop end

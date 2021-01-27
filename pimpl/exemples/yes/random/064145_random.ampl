@@ -1,0 +1,1 @@
+program F9 : d : takes sOr : integer returns nothing do nx(not 9310 and 1 or 6, 639 <= 6, 71200, 40); let l = 6 = 53; let w = 64; let ch = 1; let e = 49 end main : let K = array - not(0) / 872 + not 3590 rem(9); pop; while C and 067 : chillax end end

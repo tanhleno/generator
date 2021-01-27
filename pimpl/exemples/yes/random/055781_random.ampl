@@ -1,0 +1,1 @@
+program R : I_ : takes g : integer array; X : boolean array; M, Z : boolean; K2T0 : integer array returns integer x, L : integer array; z1h, uh, mt7 : boolean; B4L, n0 : boolean array; l : boolean; chillax end ng : takes iQ3 : boolean returns nothing chillax end main : b, f, ws : integer; pop; while - P1Ta[313] : chillax end; pop 70 - 6 >= 1 end

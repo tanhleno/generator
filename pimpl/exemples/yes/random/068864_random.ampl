@@ -1,0 +1,1 @@
+program P7_0a : main : B, H39, x81, _L, E5 : boolean array; I, d9, L : integer; when case Kl(2) / not false - not(7) / false and 9 : chillax end case Z : input C[5] end case - not 00 and 21 : when case 158 : pop end end end

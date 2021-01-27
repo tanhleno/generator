@@ -1,0 +1,1 @@
+program U : p : takes I : boolean returns nothing when case 3 and 4 - 61 - 510 < - 6650 : pop 38 end case - 5 : pop; while 69 : chillax end end case 8 : chillax end; pop end Ad : takes q : boolean array returns nothing chillax end main : chillax end

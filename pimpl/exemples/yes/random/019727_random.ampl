@@ -1,0 +1,1 @@
+program v7 : Hh8 : takes Q, f40 : boolean array; u : boolean; F : boolean; J, nj2 : integer array; QCe, cBI, leiaa, UaR : integer array returns boolean c, N : boolean; d, B70, Z : boolean; chillax end J : takes o6, N, e, U : integer array returns nothing chillax end main : chillax end

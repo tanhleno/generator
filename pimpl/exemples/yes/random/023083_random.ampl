@@ -1,0 +1,1 @@
+program P : b_0 : takes k77, x : boolean returns boolean array when case - q - 68 = 1 - 4 : do I7K(56200); let n = 350 end; pop; while 3 = 0 : while 340 : chillax end end end main : pb, b : integer; E : integer array; chillax end

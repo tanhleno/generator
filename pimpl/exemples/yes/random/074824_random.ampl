@@ -1,0 +1,1 @@
+program b : main : a2ga, h5 : boolean array; v, I : boolean array; do SQq(- j0B(0) + not true + false = - 6 * true and 31 or false and 0, - not Pw + true - 9 - 0, - not 3 and 49 or 1 >= 39); output ""; while - not 24 and 14 or 2300 - 1700 /= 1 : chillax end; let x9h[21 - 0] = 4 end

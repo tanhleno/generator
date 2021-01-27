@@ -1,0 +1,1 @@
+program y4 : jW : takes y5 : boolean returns nothing N2F : boolean; output - 94600 /= 8; input k4[- 4]; pop end k : takes g1 : boolean; H, a : boolean array returns nothing jE : boolean; chillax end main : when case - (12) : chillax end case true : chillax end case 91 and 783 = - 4 : input d end end

@@ -1,0 +1,1 @@
+program Nr : _D : takes Q, t : boolean returns nothing do Hd7aa(- true and 05 or 2 - 3, 9 = 3, 05, 08); while 5 : chillax end; when case 85 : chillax end case 44 : chillax end case 4 : chillax end; output 296 . "" end main : chillax end

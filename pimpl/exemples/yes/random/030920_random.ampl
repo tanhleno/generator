@@ -1,0 +1,1 @@
+program h2U0 : Oc : takes x6T0, z : integer array returns nothing Q5Q : integer array; E, M59, L7 : boolean; D, t : boolean array; let C1 = array - 43 + 5 end main : X8 : integer; M, C, P, N, QZ : boolean array; N3u : boolean; v : boolean; chillax end

@@ -1,0 +1,1 @@
+program q : z : takes f72aa, g2 : integer array; n, b, W : boolean array; Wm, R, ZN : boolean returns nothing Bi, v, j, u, c2k0a : integer; _2, fW6, ou6a, v0 : boolean; chillax end main : do w(- false rem G or true and x + not 3 < - not not 3 - false and 2, G(42) / false - 6 - 10 - 47 /= true) end

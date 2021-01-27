@@ -1,0 +1,1 @@
+program X : d2 : takes I : boolean array returns integer when case - 7 and 57500 >= 35700 : output 3 . "" end case 9 - 752 >= 07000 : chillax end otherwise : when case 451 : chillax end; let n = 2 end end main : output "r"; input tM[- s(92)] end

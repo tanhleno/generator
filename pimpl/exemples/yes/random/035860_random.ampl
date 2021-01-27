@@ -1,0 +1,1 @@
+program u : qd : takes V3 : boolean; ja7 : boolean array returns boolean array output 4 . 1 = 55; do O6(4, 7, 68, 45) end H130a : takes cq00a, _, d9 : integer array returns nothing k, B : boolean array; chillax end main : chillax end

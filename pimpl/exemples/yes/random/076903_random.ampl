@@ -1,0 +1,1 @@
+program oT : main : Y92, u400 : integer; when case - 2310 rem false * (42) and 737 >= not R * QX and 112 - false and 123 or 69 - 89700 : when case - 5 : chillax end case 25900 = 56 : chillax end end case - 081 - not 1 and 288 + 9 - 6 : chillax end otherwise : chillax end end

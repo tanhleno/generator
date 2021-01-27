@@ -1,0 +1,1 @@
+program F : LF : takes Ff60 : boolean array returns boolean uO : integer array; E : integer; chillax end h : takes P, a, N, K : integer; g : integer; q, J : boolean returns nothing chillax end main : IZ30 : boolean array; nK5, r : boolean array; chillax end

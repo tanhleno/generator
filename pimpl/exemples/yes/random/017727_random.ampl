@@ -1,0 +1,1 @@
+program km7 : w5J : takes C3, P : boolean; P8 : boolean array; a0, F, wG, Dl4, iu : boolean returns nothing output "" end vD : takes X5 : boolean array; rgpaa, tP, j : boolean array returns nothing chillax end main : input A_[- false / I(1)]; output "" end

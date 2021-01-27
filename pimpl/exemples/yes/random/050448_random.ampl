@@ -1,0 +1,1 @@
+program DG6a : W00a : takes A : integer; K, QPVaa : boolean array; D, Z9, A0 : boolean array returns nothing chillax end FWd : takes B, D : integer array returns nothing v3 : integer array; pop 777; while 371 = 55 : pop; pop end end main : Y, z5, v : boolean; chillax end

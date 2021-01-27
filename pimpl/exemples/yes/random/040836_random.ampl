@@ -1,0 +1,1 @@
+program Qm : q : takes jRS0 : boolean array; j : integer array; H57, D48a : integer returns nothing do A(- (09100) and 6 or 3 < 59 - 778, - 7 - 55600); let wR[- 885] = array - 6 - 68 end main : u : boolean; output "\\"; pop end

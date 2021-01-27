@@ -1,0 +1,1 @@
+program m : main : let d[057 / true and true or s[5480]] = - true * kvLaa and 4 + t and 2 = true or 93 - 44; do Q0(- 7 * (5) > not 7610 and 8 - 7 - 920, - not 28 and 100, 6 - 9 > 32); let y = 4 - 57; input z[- 47 - 42] end

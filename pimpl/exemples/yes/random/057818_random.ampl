@@ -1,0 +1,1 @@
+program K : o : takes gQ8aa : integer array returns boolean array x : boolean; cI7aa : boolean array; output ".N" . "|\"a" . 73 . 8 . ""; pop end _L : takes B570 : boolean returns integer my : boolean array; chillax end main : K : integer array; chillax end

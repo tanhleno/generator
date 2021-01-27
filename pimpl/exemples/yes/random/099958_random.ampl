@@ -1,0 +1,1 @@
+program T : main : while true or(598) : chillax end; while(1) - not 7 + 7 - 9 : let a8[5] = array 853; do A(56800, 3) end; pop 402 - 0; while 9 - 42 >= 130 : output "$m"; pop; pop end; when case 11200 = 69 : output "" end otherwise : chillax end end

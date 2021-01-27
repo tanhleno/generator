@@ -1,0 +1,1 @@
+program g : p6 : takes Cx50, JU, j, b, v53, T6, M : boolean array; Ip, j9A0 : integer array returns nothing B530 : boolean array; n : integer array; while true and 641 >= 6240 - 30 : pop; while 51700 : chillax end end end main : Ss, Z : integer array; e, C5, i8, I : boolean; do Sp(false + true rem not 61 and 30700 or(1) and 9, 860 /= false and 079) end

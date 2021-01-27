@@ -1,0 +1,1 @@
+program x : zz : takes L : boolean array; _ : integer array; t : boolean; S : boolean array returns boolean chillax end t : takes G0, uTPaa, H, cU, N, v, aC : integer returns integer when case - 63 > 1170 : chillax end otherwise : chillax end; let X = array 1 end main : chillax end

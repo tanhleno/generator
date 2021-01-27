@@ -1,0 +1,1 @@
+program i : g : takes HvK0a, T, F : integer array returns boolean array j : integer array; u : integer array; when case not 59 >= - 10 - 975 : chillax end case 3 - 41 <= 0 : pop end case 6 : chillax end otherwise : let M = 4 end; while 18 - 13 : chillax end end main : aIF0 : boolean; e57, p : integer; pop - m[9] - not 3 or 8 - 376 > not 0 end

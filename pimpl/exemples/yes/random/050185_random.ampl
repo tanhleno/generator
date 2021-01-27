@@ -1,0 +1,1 @@
+program c : O : takes WA : integer; e, I220, B : integer array returns nothing mDI, E1R0a : boolean; wj6, J2k : boolean array; chillax end Ht : takes c, f2oaa : boolean returns nothing do g6(56800 - 3 = 45); do k(3 = 34, 8); do N(3, 6); output "" end f3_ : takes n_k, A : integer returns boolean chillax end main : P : boolean array; chillax end

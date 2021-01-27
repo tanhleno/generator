@@ -1,0 +1,1 @@
+program uD : Fw40 : takes v, Q : boolean array; E7, d : boolean array returns nothing do dOY0(- yM and 474 /= - 289); pop; output 9070 end main : U5, I : boolean; pop; pop; input W_[true and 6]; input R[- 4] end

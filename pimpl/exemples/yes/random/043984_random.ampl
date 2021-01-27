@@ -1,0 +1,1 @@
+program p8 : Md : takes O : boolean array returns nothing S, l, m, K : boolean; do J(true and 97000, - 0, 5 = 4, 895, 334); when case 84 /= 0 : chillax end case 8 = 99700 : do T(04800) end case 04600 : chillax end case 1 : chillax end end main : chillax end

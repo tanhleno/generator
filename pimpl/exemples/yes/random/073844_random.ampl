@@ -1,0 +1,1 @@
+program Z : main : t, R : boolean; r : boolean array; M : boolean; C35 : boolean array; input N; when case - false + not 887 = (5) and 6 : chillax end case - true - 0 - 4 <= 6 - 5 : when case 2 : chillax end case 9 : chillax end; do F(089) end otherwise : pop; do R(4); while 6 : chillax end end end

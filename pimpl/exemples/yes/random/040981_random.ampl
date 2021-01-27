@@ -1,0 +1,1 @@
+program N : mz : takes i : boolean array; E2 : integer array returns boolean array pop end BM : takes a : boolean; F, Z, kRd0a : boolean; L6k : boolean returns nothing chillax end main : tG0 : integer array; let oA10a = - not(003) * false >= J or 4 - 65 end

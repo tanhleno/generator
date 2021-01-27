@@ -1,0 +1,1 @@
+program dd70a : okz0a : takes f : integer array returns nothing chillax end d : takes V, S, k, je, l : integer array returns nothing X : integer; chillax end main : let K[3 * (1) + 4 or Q and 3290] = - false - (9) and 4 + 38 - 1 end

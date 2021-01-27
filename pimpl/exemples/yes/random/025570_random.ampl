@@ -1,0 +1,1 @@
+program jP : b2 : takes tJ, ZW1 : integer; d, O : boolean array returns integer K, r : boolean array; M9Z : boolean array; R, _ : boolean; T : boolean; pop - 3370 < 24; when case - 7 - 4 = 4 : chillax end case 20 = 9 : while 647 : chillax end end case 917 : pop end end main : POoaa, m : integer array; A, Gziaa, b : integer array; chillax end

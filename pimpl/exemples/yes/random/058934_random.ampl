@@ -1,0 +1,1 @@
+program y3Iaa : rZ : takes w : integer array returns integer array rI00a : integer; while true and 225 or 444 : chillax end; when case - 14 - 7 = 0 : while 00 : chillax end; do r(2); pop end case 25 = 9400 : input O end otherwise : pop end end main : A, x_ : boolean array; chillax end

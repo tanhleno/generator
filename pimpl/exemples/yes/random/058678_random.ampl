@@ -1,0 +1,1 @@
+program W7 : m : takes s8 : integer array returns integer array chillax end main : E : integer array; o, V3 : integer array; when case - Tw[0] : chillax end otherwise : chillax end; let U[- false / (5380) and 4] = array true; pop - 2 - 71 >= 1 end

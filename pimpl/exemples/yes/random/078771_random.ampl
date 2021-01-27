@@ -1,0 +1,1 @@
+program I810a : main : L : boolean; n, EN4 : boolean; T, g, V5 : boolean array; when case(285) : chillax end case false - (227) : let D = array 3; output 7 . "H"; let N = 7; while 90 : chillax end end otherwise : input a[8740]; pop end end

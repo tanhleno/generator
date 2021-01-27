@@ -1,0 +1,1 @@
+program M : La50 : takes k, g, Wc, M0 : integer returns nothing B, V, t0, f4s : boolean; let p = array 48; output "H" . "$" . "" . "\"V" end main : do q(- Xh(2) - S(92) + Hp4aa <= GOn rem false); let g[9 rem _] = - false or 0 end

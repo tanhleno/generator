@@ -1,0 +1,1 @@
+program F3 : L8 : takes F3 : integer array; Rz, W : boolean; u89, l, jq4, I : integer returns nothing do R(false + 524 >= 4 - 71, 14 < 9); while 6 : chillax end; output "" . ""; output "08" . ""; output "\"" end main : O29 : boolean; chillax end

@@ -1,0 +1,1 @@
+program x07a : main : t0 : integer array; A1 : boolean array; zY : integer array; hj, FY, v : integer array; X5, K8Laa, B : integer array; while true / 0 rem(96800) and 4 + true = false / true : chillax end end

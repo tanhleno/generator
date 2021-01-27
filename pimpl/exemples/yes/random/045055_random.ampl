@@ -1,0 +1,1 @@
+program tV : gC6 : takes v : boolean array returns nothing let h[Yc + 3 - 621] = array - not 00 + 2 - 2 end main : output _(5) or true + 80500 > - A and 5 . ""; while 36000 / 87 : chillax end; do p(- false and 0560 + 38 - 1 >= 0 - 6) end

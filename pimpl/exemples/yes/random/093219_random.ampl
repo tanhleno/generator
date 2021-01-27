@@ -1,0 +1,1 @@
+program w830 : main : output "" . "_" . ""; when case - not gvS rem(74) : chillax end case(8) - 9 - 34900 : output 45000 . "" end case 0 : input j end case 7 = 70 : input z; pop end case 2 : chillax end case 1170 : chillax end; let s[(1) - 78 - 3680] = array - (6) + 8 end

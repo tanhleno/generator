@@ -1,0 +1,1 @@
+program r2 : _u00a : takes e, h, y : boolean array; R : boolean returns integer m, x, x : boolean; U53a, R, G : integer; u0X0a, s : boolean; pop; output 474; input d; while 209 : pop end end main : l : boolean; c, q0, S : integer array; chillax end

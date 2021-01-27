@@ -1,0 +1,1 @@
+program Rk : main : r : integer; do j(v3(6310, 64) * 86 rem(6) - true rem not 10 and 6 /= - 1 * n3, true * true and 980 + true and 08 + 5 = 85, - R /= - 44); input Eg; do Vqu0(- z0 and 8 + 4 - 7, - 754 - 05600) end

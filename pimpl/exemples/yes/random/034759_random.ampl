@@ -1,0 +1,1 @@
+program A : Z : takes c : boolean; Yq, h : integer; x6, S3, S8, i1H : boolean; BR, KLF, x63, j, G : integer; x, laj : integer array returns integer array chillax end main : do J8w(i3Xaa * 5 rem 2); let u6[- 435 or(63)] = array 31 end

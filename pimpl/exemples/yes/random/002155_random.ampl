@@ -1,0 +1,1 @@
+program X7 : H7 : takes C, U0, O, wx2, WR5 : boolean; c5, f, Ba : integer array; v24aa : integer returns nothing chillax end main : r2 : boolean array; v : integer; when case true > - (3) and 23 : let j5c0a[190] = 59 = 398; pop 8 end otherwise : chillax end end

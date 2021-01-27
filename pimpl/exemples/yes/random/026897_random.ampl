@@ -1,0 +1,1 @@
+program I98a : A : takes W42, j : integer; M : integer returns boolean ph00, o7 : integer array; chillax end main : when case - false * not 0250 * 24 and 17 : while - 3 : chillax end; do H5(79 = 04); when case 38 : chillax end otherwise : chillax end end case - (675) rem false < (3) : chillax end case - (7) and 9 = 704 - 047 : chillax end case 9 : chillax end end

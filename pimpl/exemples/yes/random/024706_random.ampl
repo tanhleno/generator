@@ -1,0 +1,1 @@
+program HY : Z : takes Kn, Z : boolean returns nothing let F0 = array - (3) and 2; output 5 = 2 . 9 . 7 end G : takes p, oS : integer array returns boolean array fu1a, Q0K, k, c9 : integer; S, S, L : boolean array; chillax end main : chillax end

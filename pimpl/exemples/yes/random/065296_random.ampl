@@ -1,0 +1,1 @@
+program R : Ig : takes n : integer returns nothing let iy[true and 9] = array true; output 71600 = 6 . "5" end W : takes Z3 : integer; k : boolean array; aj, XR, M, c : boolean array; m : boolean; s : integer returns nothing chillax end a7 : takes W : integer; AZP0a, BT, NT2aa : boolean array returns boolean chillax end main : g9 : boolean; chillax end

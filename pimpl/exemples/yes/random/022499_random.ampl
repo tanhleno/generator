@@ -1,0 +1,1 @@
+program L570a : t : takes yF1aa, Yxg : boolean array returns nothing Zq : integer; chillax end B : takes P, Kz, v : integer array returns integer when case 7 > 4 : chillax end otherwise : chillax end; do Jc6(7, 40) end main : chillax end

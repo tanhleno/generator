@@ -1,0 +1,1 @@
+program X : G : takes SJ : integer; YU, sJ : boolean returns integer array chillax end main : output "" . not 6 . "72!" . 7 . 99 . 0 . "C"; let Zg50a[true] = true and 523 - 50 >= 55 - 8; while - v and 70400 : chillax end end

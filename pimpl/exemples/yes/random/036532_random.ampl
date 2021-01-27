@@ -1,0 +1,1 @@
+program l : w : takes S : boolean; D : integer; Q : boolean array returns integer array let L = array - (637) end U : takes o : boolean array returns integer array chillax end B : takes UM : integer array returns nothing chillax end a8 : takes F : boolean array returns nothing chillax end main : A, A : integer array; PwB : boolean; let E7 = array false and true end

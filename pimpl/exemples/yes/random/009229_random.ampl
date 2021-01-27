@@ -1,0 +1,1 @@
+program e : xvXa : takes u, V, u9L : boolean; o : integer; RE, rS60, F, c : integer returns nothing when case L : input d_[4] end case 75 - 344 : chillax end case 06 = 691 : let R4 = 4 end end D_5 : takes w, _W : boolean returns boolean chillax end main : s0 : boolean array; F : integer; chillax end

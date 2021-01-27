@@ -1,0 +1,1 @@
+program D : D : takes bCZa, i, q : boolean array; E9 : boolean; i, Le, I, qK4 : integer returns integer array L, w4R, R : integer; Y, iv8a, e5I, Xe : integer array; j : integer; chillax end main : M, s : boolean; A : integer; TN4 : integer; G1N : integer; B12 : boolean; Ty, g2S : boolean; B : boolean; output - 7 / (4) < - 7 and 6 - 47 - 435 . "" . 19 > 36 end

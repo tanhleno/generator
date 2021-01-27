@@ -1,0 +1,1 @@
+program i : S : takes A : boolean array; P44aa : boolean array returns boolean array k270a, ns : boolean; wL90a, J : boolean; while false : when case 02 : chillax end case 5 : chillax end end; when case - 054 - 01 : chillax end case 673 = 02 : chillax end case 9 : pop end case 2 : chillax end otherwise : chillax end end main : c_, LKE, l, X7J0, rU1a : integer array; chillax end

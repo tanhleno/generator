@@ -1,0 +1,1 @@
+program T060 : q : takes wk1aa, X, m8Uaa, V, d1 : integer array; v : boolean array; yN, l, g, Z : boolean array returns nothing h5Ia, wPPa : integer; G, E : integer; Q6, e, hr : boolean array; B : boolean; chillax end z70 : takes fah0a : integer array returns nothing chillax end main : uo7, Y6 : boolean; chillax end

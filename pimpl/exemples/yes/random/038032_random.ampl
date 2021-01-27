@@ -1,0 +1,1 @@
+program a : i980a : takes t190 : boolean array; e, Z810, c520a : boolean array; s, p7Ca : integer array; H8V, nx : boolean; t : boolean returns boolean while RS - 2500 - 7320 > - 738 - 112 : let krm[93] = 097 end; when case - 94 - 7 = 4 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program A : W3 : takes O : boolean array returns integer array pop - 3 - 60 >= 5 end g : takes wS : integer; a88aa, a6w0a : integer array; j46, O, Sj : boolean array returns nothing chillax end main : input U[(94 = 8) / (2) * not 3 - BC or 6 and 2 - 735 - 9]; while not(8) or true and 27500 or 40 : chillax end end

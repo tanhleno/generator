@@ -1,0 +1,1 @@
+program _3A : r : takes o41 : boolean array returns boolean M : boolean array; Y4 : integer; while(0) or 6 - 3 <= 4 - 8750 : let Z1B0a = array 0; input j0 end end Ey3 : takes M, T, pvA, H8 : integer; G : integer array returns nothing chillax end main : input enA[- not h] end

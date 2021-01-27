@@ -1,0 +1,1 @@
+program B6Gaa : AZ : takes PVZa, C32 : integer array; b77 : boolean array; Lq : boolean; f, h87 : integer array; bW, I : integer array returns nothing pop; input M[1]; do KN(98 = 64); output 1 . "" end main : chillax end

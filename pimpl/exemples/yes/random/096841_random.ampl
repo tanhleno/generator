@@ -1,0 +1,1 @@
+program Y : main : when case false and(7) or U50aa / 3480 or e or 9 - 173 : do S(8 - 638, 6) end case N or true : output "8Iaa" end case - g - 2 - 7 = 6 : do o0(62, 65); when case 4 : chillax end end case 20 : while 6 : chillax end end otherwise : pop end; while not true + 928 and 9 - 94 > - 4 and 9 : chillax end end

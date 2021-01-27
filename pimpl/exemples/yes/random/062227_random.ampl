@@ -1,0 +1,1 @@
+program w5k0 : c : takes U : integer returns boolean chillax end T : takes Lz : boolean array returns nothing r0 : boolean; T, b : boolean; let Hsq0a = array - 3 end main : RV4 : boolean; wA, F0N, _ : boolean; Y : integer array; BSF, E, e28a, g8 : boolean; tfs : integer array; chillax end

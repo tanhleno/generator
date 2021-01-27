@@ -1,0 +1,1 @@
+program XK7 : k : takes Zv70a : boolean returns integer aM00a, R, EF5 : integer; i, Kl3 : boolean; chillax end l : takes A5, J, ks, j : boolean returns integer d : boolean array; let EXba[- 17700 - 0] = 8 = 0 end main : chillax end

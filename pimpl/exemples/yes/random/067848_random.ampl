@@ -1,0 +1,1 @@
+program Aw70 : main : do bdi(true > - false * (9) + true - 7 - 3, - D(5490) > K5Wa and 52800, l or 7 - 6, - 39 > 3); when case j < false : chillax end case - false <= - 0230 - 0 : chillax end case 0 : chillax end case 0 = 1 : chillax end end

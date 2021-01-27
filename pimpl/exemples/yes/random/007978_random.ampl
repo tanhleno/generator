@@ -1,0 +1,1 @@
+program p : K : takes W, h4, H0, B : integer returns boolean c1, UCHaa, B1J, w, Q : integer; when case - not 641 and 27 - 940 - 9 : chillax end case - 5 - 09 > 69 : pop end case 383 = 89 : when case 7 : chillax end; pop end; output "2\"!"; do xy(9); pop 1; while 3 : chillax end end main : chillax end

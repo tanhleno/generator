@@ -1,0 +1,1 @@
+program Ug : _ : takes b790a : integer; N : integer returns nothing e : integer array; jx80, M3x, p, m2j : boolean array; while - 01900 and 03 + 605 >= - 7 : when case 5 : pop end case 97 : chillax end otherwise : chillax end end; do y(8) end main : Y : integer; pop - 8 / false + F7c0a or 4 end

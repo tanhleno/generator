@@ -1,0 +1,1 @@
+program M : L : takes i, VI, m, J : boolean array; C6, z : integer array; N : integer; Wb, q2, F660a : integer array; VsO : integer array; H : integer; A : boolean; d4 : boolean returns integer chillax end main : G28, f : integer array; let f[- 6 + true + not 52 or 1] = array false / 611 and(99) or false end

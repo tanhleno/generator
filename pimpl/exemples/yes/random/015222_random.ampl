@@ -1,0 +1,1 @@
+program Z : Q6 : takes q2, Qj, A : integer array returns nothing chillax end main : M, j : integer; s9M0a : integer array; pop - 8 and not 7; while - 8 : when case 8 = 0 : chillax end; do x(2); do XIw(7) end end

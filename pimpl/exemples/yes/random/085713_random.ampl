@@ -1,0 +1,1 @@
+program PBu0 : main : n : integer array; K, W, I, z9 : integer; k : integer; yY, N : integer; S47a : integer; J, B5 : boolean; w : boolean; sK : boolean; do d((63) * n(21300), - true < - (98) and 73, - r + 0520 - 5100); let TC = - false and 76100 + 4 - 90700; output "\\"; output ")" . 7 . "00" end

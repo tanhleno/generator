@@ -1,0 +1,1 @@
+program O : K : takes X2 : integer; N : boolean; NyH : integer array returns boolean array I8 : boolean array; b : integer array; pop - 278 - 01 end main : Q : boolean; j : integer; O490, t4 : boolean array; rB1a : integer array; output - not true / true and 9 >= false and 8 . "m" end

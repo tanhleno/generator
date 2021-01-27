@@ -1,0 +1,1 @@
+program J : main : G7, w96 : boolean; TK40a, SL : boolean array; O : boolean; let s[- C(5, 560) rem true + true] = array 8 rem 5; do a(- (06) /= g4z0 - 00 - 879, - false and 93 - 23300 - 2, - 420 - 60 /= 43, 1 = 36, 4, 26); let w = array 48 or 6 end

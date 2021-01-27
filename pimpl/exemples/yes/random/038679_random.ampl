@@ -1,0 +1,1 @@
+program _ : d3 : takes n : boolean array; A1, l690 : boolean array; mV9 : boolean returns nothing let Y9 = 44 > 29; let Y0[- 55 - 7] = array - 96 - 9; do t(23 = 2, 3580) end main : A330a, X : boolean; lMx, T9V0a : integer array; input pl5a; input o1; input E; output "0" . "Tl" end

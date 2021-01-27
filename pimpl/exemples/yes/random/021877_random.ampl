@@ -1,0 +1,1 @@
+program i : Z : takes O4, A4 : boolean array returns nothing chillax end d6 : takes k18a, V : integer array; U83 : boolean array returns integer input yv; output "1"; while 62 : pop end; do WOi(4); input k; pop end main : chillax end

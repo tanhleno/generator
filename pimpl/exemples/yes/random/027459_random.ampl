@@ -1,0 +1,1 @@
+program Uj : f5 : takes u, CK : integer array; Uz4aa, Y, z : integer; K : boolean array returns boolean chillax end l : takes n, K, L2, b, m, G, J : integer array; q : boolean returns nothing r2, l, l0 : boolean; chillax end G : takes M, v9kaa, K : integer array returns nothing pop end main : oCE : integer; do t(- false or false / L43aa and 4) end

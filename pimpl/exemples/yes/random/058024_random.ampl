@@ -1,0 +1,1 @@
+program n6 : F : takes Pds : integer array returns boolean array while true or 00200 : chillax end end U : takes mI, X : boolean; m, X, F, bq, b, t5 : integer returns integer output "\\00" . "" end J8 : takes P, G4o0a, k : integer returns integer array zk, Q77 : boolean; do sg(5970, 761); input Ow; when case 61600 : chillax end end main : input f66[- (75)] end

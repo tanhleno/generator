@@ -1,0 +1,1 @@
+program Sl5 : G : takes Mp : boolean array; f, mq70a : boolean; x6, K07, y : integer array; G9m, jL : boolean array; p750 : boolean array returns nothing chillax end main : D6p0a : integer; pop false and(5) + SXM0 < - 9 - 7 - 6; do pf((4) rem 68 >= - (1)) end

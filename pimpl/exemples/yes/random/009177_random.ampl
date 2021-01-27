@@ -1,0 +1,1 @@
+program C : A : takes P, G49, A : boolean; x : boolean returns integer array H : integer; t, z : integer; R9 : integer array; when case - 5 : when case 431 : pop end case 70 : chillax end otherwise : chillax end end case - 24 : while 476 : chillax end end otherwise : chillax end end main : chillax end

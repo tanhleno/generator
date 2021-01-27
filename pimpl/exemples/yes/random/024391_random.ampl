@@ -1,0 +1,1 @@
+program h9 : w : takes yn, r9 : boolean returns nothing rR_aa, K : integer array; f : integer; Sv : boolean; chillax end j : takes m62 : boolean array returns nothing chillax end main : p : boolean; C3 : boolean; while - not 47 / 3 = - (1) : while 1 = 3 : while 96 : chillax end; input g_ end end; output V2Gaa and 82 < 84 end

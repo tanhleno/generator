@@ -1,0 +1,1 @@
+program w : F : takes U, B7K : integer array returns boolean g2Sa : boolean array; n57a, n9, P4 : integer; chillax end main : mJO0a : integer; nt, V : integer; while - (96) rem(39) - false >= not not 221 : chillax end end

@@ -1,0 +1,1 @@
+program v : main : j5, GNG : integer array; when case not c7 rem P5 rem not 5 + not true * false : chillax end case - (73900) + 00 + 7 - 263 > not 14000 : input a70aa[5] end case false /= 44 - 91400 : chillax end case 727 : do L(2) end case 0 : let i = 2; pop end otherwise : input zi end end

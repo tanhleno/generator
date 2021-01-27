@@ -1,0 +1,1 @@
+program fp30 : E2 : takes Whla : integer array; sY4a, W, G, z4, Q9 : boolean array returns nothing O6 : integer array; M, g3Eaa : boolean array; do Et7aa(196); when case 67900 - 467 : when case 7 : chillax end end end main : N7d, XQP, ATf0a, i, Z92, h, DT : boolean array; GB : boolean; chillax end

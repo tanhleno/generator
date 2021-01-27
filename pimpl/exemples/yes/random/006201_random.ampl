@@ -1,0 +1,1 @@
+program h : p : takes H, O, A240, D9 : boolean returns nothing R : boolean; S : integer array; chillax end W : takes y : integer array returns boolean array chillax end main : N, K3v, tz : integer; input Q[- (60000)]; when case - false / not 3 and 768 + 5 - 11 : chillax end otherwise : pop 4; while 23 : chillax end; do f(3280) end end

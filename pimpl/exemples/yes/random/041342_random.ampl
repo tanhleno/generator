@@ -1,0 +1,1 @@
+program q_e : m0 : takes E0s : boolean array; h410a : integer returns nothing do l(- gc and 63) end r : takes p9, b10a : boolean returns boolean output 62700 = 89 . 25; while 7860 = 8 : output ""; pop end; while 8 : pop end; while 3 : chillax end end main : pop end

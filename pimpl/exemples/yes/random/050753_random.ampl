@@ -1,0 +1,1 @@
+program w6 : G : takes c : integer; O, v : boolean returns nothing g, zi, j, I : boolean array; let r85 = array not 08 and 7 + 22 - 4 end main : while not(3) / s(5) >= (3) - (2) + 5 - 1680 : do o(- 1 <= 4) end; when case - not true - false - 3 : chillax end; output - 614 - 0 /= 4780 . "5" . 8 . "["; while - 2930 : while 1 : chillax end end end

@@ -1,0 +1,1 @@
+program XfC0a : n : takes FkN, l : boolean array; j5, A : boolean array; iy, u_, h3, u8, lGIa : boolean; g : boolean array returns boolean WESa, b : boolean; chillax end kM10a : takes s : integer array; bi8aa : integer array; yk60, t, s5 : boolean; t, Qp : boolean array returns nothing chillax end main : output "" end

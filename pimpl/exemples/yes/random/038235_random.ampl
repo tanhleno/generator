@@ -1,0 +1,1 @@
+program b : ad : takes xY1a : boolean array; h, r, k : integer; cK50 : boolean returns boolean array j, C, r, R, np : boolean array; u : integer array; output "\"" end main : j : integer; chillax end

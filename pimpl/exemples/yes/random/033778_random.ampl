@@ -1,0 +1,1 @@
+program W : W : takes w : boolean; s7, hP, G : boolean; O : boolean returns nothing k01aa, V : boolean array; chillax end main : let q = array - 7 / u9(3) rem E and 6; let PFua[t5z0[630] / true and 104] = - v and 9 - 67 - 27 < - 68 end

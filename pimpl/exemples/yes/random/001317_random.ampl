@@ -1,0 +1,1 @@
+program L : bJ : takes GD, c6, ir, qR, z, B7 : boolean array; H : boolean returns nothing FZMaa, f6 : integer array; LiLaa : boolean; let F = - 34; input dz; let R[5] = 52; output 9 end main : rY, tw, F2, D3, U : boolean; RV : boolean; f, Ay : integer array; p8 : integer array; T, C, c : integer; chillax end

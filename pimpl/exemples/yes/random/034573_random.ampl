@@ -1,0 +1,1 @@
+program GS : P : takes u : boolean; U, L : boolean array returns nothing z, y, J : boolean array; F, n : integer array; J, qQ : integer array; q2, B : boolean; do QD(- true) end W : takes z2 : integer returns integer Q1 : boolean array; when case - 2 - 3 : chillax end case 14 = 122 : chillax end otherwise : chillax end end main : l4 : integer array; chillax end

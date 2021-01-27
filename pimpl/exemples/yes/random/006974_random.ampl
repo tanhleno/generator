@@ -1,0 +1,1 @@
+program C6 : a : takes FQW0, YP, P, D0 : integer array; e3, h5 : boolean array; e, o, Q : boolean; Y, D, o8Q0a, Lc80 : integer array returns nothing input z3[- l6 and 0]; output 57 . "" end Me : takes r, G5, N17a, _ : integer; s, Z, y, w, Y8Taa : boolean returns nothing while 1 - 7 : when case 6 : chillax end; output ""; pop end end main : d7 : integer array; chillax end

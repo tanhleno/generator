@@ -1,0 +1,1 @@
+program aY10a : mP : takes _ : integer returns nothing let F1 = array not 95 and 8 end main : _38, f6H, By : boolean; i : integer; N : boolean array; qz : boolean array; let O[8] = array false / not(2) + B31[7] / true and 82 end

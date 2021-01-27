@@ -1,0 +1,1 @@
+program ZS4 : main : q : integer array; k : integer; qk : boolean array; Y : integer array; when case - true + true rem 83 + (0) and 1840 - 79 - 9 : chillax end case 8 rem false and 3 + D and 4 > - (1) and 7 : chillax end case 55 >= 13 - 0 : chillax end end

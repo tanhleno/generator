@@ -1,0 +1,1 @@
+program gV : T3X : takes H4, a7, N4p, J : integer array returns nothing Eb6, bA : integer array; o : boolean array; while - (5) or 2 : chillax end end main : Cd, F : integer array; NX : boolean; input Q[01 and false]; let J030 = not 3; input ca; output 6 = 30 . 6 . 95 . ""; pop; when case 1 : chillax end; pop; let VOXaa = 05; pop end

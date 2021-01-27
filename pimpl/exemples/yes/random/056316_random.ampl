@@ -1,0 +1,1 @@
+program k : bv : takes M4 : integer array; K : boolean returns integer array do y(true and 2 - 06 < - 1 - 1, 288); input XY8 end e : takes DL : boolean; Dd : integer array returns nothing B, SZ, p470a, D : integer; L6 : integer; Va, X8 : boolean; na : boolean; chillax end main : P0, KW, T3Na, o : boolean array; M : boolean; chillax end

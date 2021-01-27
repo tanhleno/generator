@@ -1,0 +1,1 @@
+program f : F : takes P640 : integer array; m : integer array returns integer array Q : integer array; H, h2, i9, K1sa : boolean; let q[- not 0 + 2] = 196 > 1; while - 22 <= 9 : chillax end end main : pop - E1[9] rem _Q30a - (8) and 43400 + 0460; input P end

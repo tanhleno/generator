@@ -1,0 +1,1 @@
+program D : B : takes Os, d : boolean array returns integer array J : boolean; g : boolean array; output 43 - 5 >= 6; do qX(386 - 012 <= 36) end J : takes _, P8, d : boolean array; m : integer array returns boolean let E50aa[9] = 4; output "" . 7 . "\"+0"; pop 7; let d7 = 064 end main : pop; input I0 end

@@ -1,0 +1,1 @@
+program R : xhV : takes FQqaa : boolean; Vt : integer returns nothing P, S14aa, T : integer array; a, v : boolean array; c6, _ : integer array; x : boolean; chillax end main : c : boolean; output "'" end

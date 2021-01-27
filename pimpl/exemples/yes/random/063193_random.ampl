@@ -1,0 +1,1 @@
+program N : k9 : takes S : integer returns integer chillax end kUQ0 : takes cO00a, o, u, x0Y : boolean array; h, v : integer returns boolean while 2 : chillax end; when case 73 : chillax end otherwise : pop end; output 0; when case 4 : chillax end end main : f, T : boolean array; chillax end

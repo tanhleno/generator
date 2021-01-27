@@ -1,0 +1,1 @@
+program Hh : E : takes H : integer array returns boolean array while C8 and 8710 : chillax end end R : takes SSs0 : boolean array returns boolean a55, qbUa : boolean array; W, G6D : boolean; C, Mw : boolean; q : boolean; n : boolean; chillax end G : takes e6 : boolean array returns integer array output "\\" . "M" . "9" end main : P700, J8R, r : boolean; j : integer array; pop end

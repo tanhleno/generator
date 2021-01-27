@@ -1,0 +1,1 @@
+program f : main : t5 : boolean; when case - (771 = 78) or(2) = not 4 : do s(70500 - 92, 577 = 45); input G end otherwise : do h(7, 79900); let r = 069; input H; output "!O" end; output ""; output 078 < 75 . "" . 2; input gSV[- 63 - 3]; when case 42 : while 3 : chillax end; pop end case 6 : pop end case 60 : chillax end otherwise : chillax end end

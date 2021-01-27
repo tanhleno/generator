@@ -1,0 +1,1 @@
+program k : main : kEk0, D : integer array; u : integer; while - (5) : chillax end; input A[- Y00[2]]; when case - 07 and 59 < 72 - 5 : chillax end; when case 5 = 4 : chillax end case 8 : output "" end otherwise : when case 8 : chillax end end end

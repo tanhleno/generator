@@ -1,0 +1,1 @@
+program gf : S15aa : takes JP00, Rp4, dS : boolean; G, MR : integer array; qw, q, e, c, jb : boolean; S : boolean array returns boolean chillax end main : a5V : integer; let W[- D[5340]] = array - not not o and(962) - j(64000) and(2) and 0; output false and 9 . "940a"; pop end

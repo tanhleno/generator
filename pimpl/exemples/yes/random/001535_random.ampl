@@ -1,0 +1,1 @@
+program z : Q : takes CUX, g, n1Q0, y, B, sm : boolean returns nothing chillax end h63 : takes Eg, V : integer array; f330 : boolean array; w : integer array; V, E, b7 : boolean; d : integer array; p : boolean returns integer input R0[4]; when case 6150 : when case 5 : chillax end; pop end; pop 7; output "S;"; while 0190 : chillax end end main : chillax end

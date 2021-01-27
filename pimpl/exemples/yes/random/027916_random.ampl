@@ -1,0 +1,1 @@
+program u1 : k : takes n8, iQ : integer array; J3, e97aa : integer array; aL, c0, k : boolean array; e, s, KwYa, j : integer returns integer array input nA[false and 65 - 01]; when case 249 - 2 <= 73 : let NC5 = 70; while 64 : chillax end; pop end end Pfca : takes b, Q : boolean array returns boolean array p, q : integer; c, P, u5 : boolean array; chillax end main : chillax end

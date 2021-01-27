@@ -1,0 +1,1 @@
+program u : V : takes M5 : boolean array returns nothing let G30aa = - 863 - 11 = 2 end main : f : boolean; when case 889 and 0 * (5) - not false rem(32300) - not 31 and 2 : pop 52 end otherwise : output "" . "I" end end

@@ -1,0 +1,1 @@
+program j2 : main : G5 : integer; do J(- true * v5(1) + _[2850] > true and(12800) or 01 and 80 + 3 - 6670); when case false * true and 061 /= - not 0 and 26 or 7 - 06 : chillax end case - true and 0 - 86 - 759 : when case 1 : chillax end otherwise : chillax end end case - 6 - 293 >= 3 : when case 00 : chillax end end end

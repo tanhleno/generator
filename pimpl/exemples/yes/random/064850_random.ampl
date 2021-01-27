@@ -1,0 +1,1 @@
+program TH : p37 : takes b4 : integer returns nothing d1R : boolean array; c8 : integer; o : integer array; chillax end main : d500, H, G, Ok : boolean; G8q : boolean array; N060 : boolean array; Cr, j, L, J : integer; g : boolean; let TN[not 2 or(97) / (8380)] = true rem false - false end

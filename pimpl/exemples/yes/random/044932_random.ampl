@@ -1,0 +1,1 @@
+program w3 : jS : takes Z : boolean array returns nothing input V0; pop 77 end Mv9aa : takes jl3 : boolean array returns integer array J, w, Q7L0a, dy : boolean; chillax end O740a : takes ep, l, v : integer returns nothing while 7 : input A1; pop end; while 60 : chillax end; let u = 84; pop; pop end main : chillax end

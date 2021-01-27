@@ -1,0 +1,1 @@
+program U : T : takes n, b, p8 : boolean array; o66aa : boolean; x, S : integer array returns nothing KBg0a, _2 : boolean array; X1t : integer array; while false /= 8 : when case 1 : chillax end case 0 : chillax end; while 5 : chillax end end end main : chillax end

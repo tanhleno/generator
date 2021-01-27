@@ -1,0 +1,1 @@
+program PTz0 : main : while - false + true rem not 00 < (3) / l5 and 25 + true and 3520 or 5 - 2 : while 9 - 2 : chillax end; output 7 . 95900 . ""; when case 556 : pop end case 1 : chillax end end; output "" . 28900 >= 834 . ";"; while - true and 8 + 0 - 9 : chillax end end

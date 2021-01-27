@@ -1,0 +1,1 @@
+program I : CV8aa : takes g, Hl1, P, mN : boolean array returns nothing do K(- (982) and 0); output "" . 53 end main : do t(- false rem not(7) / z3 and 5, b4(29) * (22) and 47900 < - (1) and 72200 or 3); while not false : output "" end; while false : output "\n" end; pop end

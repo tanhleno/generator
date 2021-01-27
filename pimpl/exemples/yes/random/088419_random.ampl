@@ -1,0 +1,1 @@
+program va : main : input I[- (6 = 90) * WC]; output false and 9 + 592 . "5"; when case - (954) : chillax end; when case - 6 - 13000 <= 04 : chillax end otherwise : chillax end; while 08 = 62 : let Eq = 101 end end

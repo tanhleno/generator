@@ -1,0 +1,1 @@
+program kb : D_z : takes s, th : boolean returns boolean chillax end c : takes y : boolean array; o, Ra, T : boolean returns boolean S : integer array; G, D, jx8aa : boolean array; chillax end main : input MO end

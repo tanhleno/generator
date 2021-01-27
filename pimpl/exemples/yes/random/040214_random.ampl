@@ -1,0 +1,1 @@
+program h : W9d : takes qL : boolean array; O : boolean array returns nothing input k[not 9 or 2560] end C : takes I5U, S6 : integer array returns nothing i83aa : integer array; input P2la[- 53 - 9] end main : lA, Tb, W2, zC : integer array; while - C97 / 0540 + false - (764) : do X(- 5) end; do T((1) and(21) or A9 and 38 > - false); while - false : chillax end end

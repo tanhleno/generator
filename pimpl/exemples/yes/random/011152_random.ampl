@@ -1,0 +1,1 @@
+program TsW0a : Z6 : takes m, F, D : boolean array returns nothing jsp0a, f, Q, G6D, G6d : integer; r, e, S : integer; pop end Vh : takes ze, R, a6Z, b : boolean returns nothing pop; while 6100 : let QPO = 08400 end end main : chillax end

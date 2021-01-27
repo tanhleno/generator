@@ -1,0 +1,1 @@
+program Ma20a : main : u : integer; q, Q8, G4, u7E0a, U : boolean array; V : integer array; Tp : boolean array; s, _, IV : boolean; U97, T : boolean; S : boolean; let d[true * T(5) + E or true and 80 + 32 - 41] = array - (9) + (3) rem false - not 168 and 3; output "1y" . "2" end

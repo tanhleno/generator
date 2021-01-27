@@ -1,0 +1,1 @@
+program f : k : takes i, n : boolean returns nothing d : integer; chillax end y35 : takes zm1, Ui : boolean array; Ip2 : integer; q : boolean; KR : integer array returns nothing w7ma, nr : boolean array; chillax end a3va : takes g : boolean array returns nothing w, I, w_ : integer; chillax end main : gq, R, TZ0aa, O30 : boolean; input a; output - 4 and 3 <= 4 - 370 end

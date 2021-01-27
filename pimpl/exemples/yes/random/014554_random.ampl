@@ -1,0 +1,1 @@
+program ann : B : takes v, fz3, x : integer array; ub2a : integer array returns nothing E, ap : boolean; O, nl, vo70a : integer; while - false - 4 < 70 - 44 : chillax end; output "" end main : ce : boolean array; while - (0) / (5) /= - not true and true : while - 3 - 6 : when case 559 : chillax end end end end

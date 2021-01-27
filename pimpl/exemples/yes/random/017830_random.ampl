@@ -1,0 +1,1 @@
+program vF2 : Z : takes A2, U1 : boolean; eb : boolean array; X4 : integer array; D7, DZ, j, K : boolean array returns boolean w : boolean; v, M96 : boolean array; G6e, U, F6 : integer array; m : boolean; chillax end main : vXn : integer; ff : integer; v1, K : integer; pop end

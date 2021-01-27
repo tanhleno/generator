@@ -1,0 +1,1 @@
+program k : k : takes s, b : integer array; d, ASK0, i : integer; e45 : integer; t : boolean returns nothing Q9 : integer; chillax end y : takes uQ, M : boolean returns boolean chillax end main : zY : boolean array; let FQ6 = array - not 903 rem true or L74 * 1 + not 0 or 0 end

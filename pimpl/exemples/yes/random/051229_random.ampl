@@ -1,0 +1,1 @@
+program bB : Y : takes wA : integer; cQ, f : integer returns integer Y : integer array; chillax end main : while(4 = 52) / true * true and 80 = - ch(0) : chillax end; input g; output ""; while 2 - 586 /= 5 : let r = 686 end end

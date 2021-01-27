@@ -1,0 +1,1 @@
+program i : _hH : takes S, CL, GM : boolean returns nothing chillax end G : takes j : integer array; Vf : boolean array returns boolean array R, C, I29, fZ60a : boolean; P : integer; when case 6310 : chillax end end main : gj30a, k : boolean; W : boolean; wJN0a : boolean; Y, H, q, Pe : integer array; let S[false / false] = array false / false / O end

@@ -1,0 +1,1 @@
+program Z79 : L5 : takes r29 : boolean returns nothing while - Oa1 : chillax end; while 717 - 50 : do z(00) end end main : input A7[- true rem true - (37) / Yll0a and 3]; let j = U0 and 1 or 4760; pop; do w8m(2 - 14300 /= 2); output "" end

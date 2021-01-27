@@ -1,0 +1,1 @@
+program r : b : takes s, j8, _ : boolean; r : boolean array; Mn : boolean; e : integer array; s, t, Asy0, b070a : integer array; RO, V5, DPU : boolean; Q6, p : boolean returns integer array qF6, M, LA, lS : integer array; do _(- 1 or 51 - 5 = 90 - 5) end main : pop true < - true and 5 - 6; pop 1 and 7 or 8 - 4 <= - 0 end

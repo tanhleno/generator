@@ -1,0 +1,1 @@
+program e430 : main : W, l, i75aa, Z, U : integer; a, _8, J1 : integer; e : integer array; when case true + w(1) rem 21800 - K and 799 - 7 - 8 : chillax end case true or 5 <= br and 799 or 3 : chillax end otherwise : chillax end; output true and 627 + 035 . "x\n" . ""; output 3210 - 76 . 772 = 93800 . 27 end

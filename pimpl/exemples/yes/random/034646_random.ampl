@@ -1,0 +1,1 @@
+program X : v : takes Wt6 : boolean; x6, z : boolean returns integer array do U(88 and 5 or 674); while 0 : output "" end end N : takes U, d9_0a, k9, kb8, o : integer returns nothing chillax end Y : takes Q5S, k, kg, e : boolean array; A7 : boolean array; GSb, biU : boolean returns nothing chillax end main : _bu : boolean; P : integer; N : boolean array; chillax end

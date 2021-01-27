@@ -1,0 +1,1 @@
+program w : k4 : takes _, e97aa, afh : integer array returns integer array Mmd0a, yIQ0 : integer; output 3 . 795 . 3; when case - 72 - 38 <= 6 : chillax end case 5 = 691 : chillax end case 69 : chillax end case 80 : chillax end otherwise : do T(18100) end; while 3 : chillax end; do e(00400, 5190); when case 838 : chillax end end main : chillax end

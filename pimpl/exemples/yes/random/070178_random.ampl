@@ -1,0 +1,1 @@
+program s : main : D8e0, r0, A, mC : integer; jC : boolean; j, T : integer; O970a : boolean array; U, G, a : boolean array; nf : boolean; output not 55 * not 58 > not 2 and 03900 + 1 - 8; when case X9 : chillax end otherwise : chillax end; let k = array - true + 933; let zx[- 76 - 539] = array - 3 - 3 end

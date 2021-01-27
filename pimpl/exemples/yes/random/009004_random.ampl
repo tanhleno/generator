@@ -1,0 +1,1 @@
+program H4G : l7 : takes o0, Z, AS : boolean; F : boolean; t7R0 : integer; eZ : integer returns nothing input Yk[true and 6 - 59 - 36600] end main : Yn, R : integer; VE, S2b, U, M : integer array; pop true; when case - 6820 or v and 3 or 69 - 18 : do P(10200, 90, 51) end case - false and 932 + 82 < 82 - 7 : chillax end case - 18100 >= 5 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program J : j : takes J3, w : integer array returns nothing chillax end k500 : takes M, T : integer array returns nothing RH : integer; chillax end main : Ws7, Y, T1Sa : integer array; k : boolean array; jFXa, Zj, b : integer; while - true * false and true and 4 - true / false + 5 + 907 - 7 < not e : chillax end end

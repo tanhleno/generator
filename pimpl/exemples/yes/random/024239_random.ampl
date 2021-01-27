@@ -1,0 +1,1 @@
+program I8 : S8 : takes Z, m : boolean returns nothing Ca_aa, x58, p : boolean array; output 18 > 80; when case - 8 - 3 < 240 : chillax end case 9 : chillax end; do V(9 = 13, 6140) end n : takes R410, x, LkR0a : boolean; v3 : boolean returns nothing t, YF5aa : boolean; chillax end main : chillax end

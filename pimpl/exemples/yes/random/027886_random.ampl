@@ -1,0 +1,1 @@
+program I : X0d : takes m7ra, pxw : integer array; U, wli0a : integer; s : boolean returns nothing p : integer; Fz : boolean array; g, MD1 : integer array; h9, DPY : boolean; chillax end main : input Z end

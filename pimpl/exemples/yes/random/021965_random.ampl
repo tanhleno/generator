@@ -1,0 +1,1 @@
+program nmXa : x : takes V, Ta80 : boolean array returns nothing chillax end main : do v((2), - e(4) = - s); do Z(not not 1); do X(- (2) and 1 < 1 - 0, - 0 - 8 > 529, 9 = 0); when case - 2 : chillax end otherwise : when case 1 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program c : D : takes OR : boolean array returns integer while true < 3 - 7 : chillax end; when case - 917 - 2900 > 40 : pop end; while 15 = 74 : chillax end end T : takes G : boolean returns boolean input S; output "" . "8g\""; pop end main : chillax end

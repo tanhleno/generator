@@ -1,0 +1,1 @@
+program C : main : when case false / (707) - not I1 or h + 57 - 7 : pop; do s(3) end case - FC[8] : input WX[3]; output 31 . "" end otherwise : let T[58] = array 6; let J2o[2] = array 24; output ""; pop; pop end end

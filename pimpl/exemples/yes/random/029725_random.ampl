@@ -1,0 +1,1 @@
+program A : cz : takes mt8, E : integer array returns integer array do i((7) = 5, 09) end main : L2, O, yv60a, E : boolean array; f : boolean array; m : boolean; input p9[- 01600 * (68500) rem w]; output - not 3 and 0 < 57 . 095; do h11(- (1) and 6 or 5230 - 1 <= - 3, - 15 - 0); do P(42 = 200) end

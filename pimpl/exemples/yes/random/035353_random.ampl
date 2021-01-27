@@ -1,0 +1,1 @@
+program H : BYy : takes K : boolean; iM : boolean; N, Z, V, s : integer returns boolean l5 : boolean array; n, H85, m : integer array; do _q0(- 1 and 2 <= 1 - 4690); output 50 = 53; pop 7 end u : takes O, r9b0 : boolean returns nothing chillax end main : chillax end

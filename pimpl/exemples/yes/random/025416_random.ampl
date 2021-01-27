@@ -1,0 +1,1 @@
+program K : J : takes J6, IU3 : integer; P, z37aa : boolean; b, g1, d, M, N1 : boolean returns integer chillax end main : c8, mc : boolean array; V : integer; G : integer array; pop - true / h <= - false and 01 end

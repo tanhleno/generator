@@ -1,0 +1,1 @@
+program i : Nr6 : takes b : boolean; PG : boolean array returns boolean array chillax end Q : takes U, X : integer returns nothing Xli0, W : boolean; chillax end gc9 : takes JJ : boolean array; Z : integer array returns boolean array D, T, J : boolean array; chillax end main : U5c : boolean array; lv : integer; input _s4a[false]; input y; output "Y2!" . "" . "" end

@@ -1,0 +1,1 @@
+program ga : q : takes g, d, ek3aa, M : integer array; BK : boolean; I : integer array; T : boolean; w : boolean returns integer chillax end F : takes l : boolean returns nothing l5m, f, u, z6q : integer array; Y : integer array; input h; input FX8[01] end main : chillax end

@@ -1,0 +1,1 @@
+program n : k : takes UG0 : boolean array returns boolean HJ, j : integer array; uY : boolean array; EN, D : integer array; PW : boolean; pop end main : s, J6 : integer array; b : integer; k, A2, B, X : integer array; output "" . "" . 2 - 2 <= 77 end

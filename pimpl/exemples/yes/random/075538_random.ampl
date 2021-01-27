@@ -1,0 +1,1 @@
+program Y : main : U, xG3aa : boolean array; output "4" . true and 135; output - 4 > - 0 - 2 . "" . 7020 = 87 . 65; when case - false > - 33 - 022 : when case 76 : pop end case 30 : chillax end otherwise : chillax end end case - 15300 - 1 : chillax end case 9 = 7 : chillax end otherwise : let t = 31; input v end; let s = array 5; pop end

@@ -1,0 +1,1 @@
+program Y : b9 : takes _ : integer array; meqaa : boolean array returns boolean NO4, v, j, C, h610 : integer; chillax end r11 : takes Qs, j : boolean array returns nothing t0, W4, a01 : boolean; B5J0, d1, H8 : boolean array; k9 : boolean; chillax end main : a : boolean array; input B0[- not true + (886) / false and 42 or false] end

@@ -1,0 +1,1 @@
+program Li : G : takes N, g0Laa : boolean array; l, Q3K : integer returns boolean array W : integer array; let U = - 20000 /= 60 end Y : takes H52a, u, N : boolean returns boolean array chillax end main : J, E, U5m0 : boolean array; C7m, I, y, C, zH : boolean; a, bU : boolean; chillax end

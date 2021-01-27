@@ -1,0 +1,1 @@
+program rX5a : VtY : takes _, D : boolean array returns nothing when case(2) and 6 : chillax end case - 92900 : chillax end case 1 : chillax end case 97 : pop end otherwise : when case 2 : chillax end; do c(8); pop end; while - 45 - 90 <= 84 : when case 1 : chillax end; pop end end main : chillax end

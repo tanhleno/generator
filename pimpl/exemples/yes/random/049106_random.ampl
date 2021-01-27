@@ -1,0 +1,1 @@
+program k : T : takes j : boolean returns nothing when case - false + 0 : chillax end; pop; when case 4 : input P; pop end otherwise : pop end; do X5waa(107); do Y(221); output ""; pop end L : takes U : boolean array; t, F, lQc : integer; aN, Gq, fIIa, M, GG0 : boolean array returns integer array output "1" . "" . "9#!"; output 1950 . "v\t" . "+" end main : chillax end

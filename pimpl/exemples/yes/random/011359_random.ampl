@@ -1,0 +1,1 @@
+program IA : fUs0 : takes L_3aa, _K, J : boolean array returns nothing M : boolean array; pop 6270 /= 184 end x : takes t, n7, u : integer array; Z250, I690 : integer array; C : boolean; J, n4r, RPyaa : integer returns integer chillax end OK : takes LK : integer returns boolean output ""; input gJ20[94]; let z5 = 3 end main : b : boolean array; U : integer; chillax end

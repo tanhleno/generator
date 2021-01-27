@@ -1,0 +1,1 @@
+program iH30a : E : takes hH7aa : boolean; W : boolean; nd : integer; q46, z, T23a : boolean array; s, in, u : integer array; C, f, t : boolean; yJ0a : boolean returns nothing while - (612) >= - 45000 - 9 : while 8 : pop end; output "X" end; pop 03900 = 78; input c96aa[43]; do WE0(3, 4250) end main : B, K : boolean array; pop end

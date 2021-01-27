@@ -1,0 +1,1 @@
+program _ : main : r, S, Y1, l77, Y : boolean; while - T6(0, 2) < 1 rem true : output "88"; do Fwta(10700, 35); output "jX" . "&" end; while not(7) or true and 023 /= true and 3 : chillax end; input w[- G - 0] end

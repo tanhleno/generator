@@ -1,0 +1,1 @@
+program R320a : c : takes W58 : integer array; r : integer; _650a, f : boolean returns nothing o1, DXoa : boolean array; chillax end O1 : takes WV, Q8 : integer; ZX : boolean returns boolean _M20a : integer; ph40a : boolean array; EG3 : boolean; pop 05 = 8; input y[5] end N : takes f, N, c : integer array returns integer chillax end main : i4Da, J3 : integer; chillax end

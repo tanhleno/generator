@@ -1,0 +1,1 @@
+program S4J : U : takes V, m9_, h : boolean returns nothing a : integer array; iay, v120, p, BsO0a : integer; output "@%" . 38700; when case 5 < 50 : chillax end otherwise : when case 30 : chillax end end; when case 9 = 1 : let Fp = 64; pop end case 8 : chillax end end main : chillax end

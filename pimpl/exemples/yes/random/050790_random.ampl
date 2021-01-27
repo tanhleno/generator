@@ -1,0 +1,1 @@
+program L : JpC0 : takes Y : integer; r24, O37aa : boolean returns nothing pop 7 - 3 > 1; input YF[5 - 85300]; when case 1 : let r = 292; pop end case 30 : pop end otherwise : pop end end V : takes DC : integer; U, k : integer; I48a : integer array returns nothing Br, b3, kBP0a : integer; K : boolean array; chillax end main : chillax end

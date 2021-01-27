@@ -1,0 +1,1 @@
+program N : s3 : takes TE : boolean array; lU, kM0 : integer array; kh7aa : integer; o : integer; M2 : integer; vk : integer array; r, S6w0 : boolean; ky : boolean returns integer let K[- 6] = 750 - 113 < 0 end main : pop - B[18] * 31400 and 5 or true and 4 + 17 - 1 end

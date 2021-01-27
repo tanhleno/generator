@@ -1,0 +1,1 @@
+program l3 : G0Y : takes rJ, X, a, G : integer returns integer array pop end main : i640a, L : boolean array; input S3[- 3 rem not j0 * not 1580 and 4 - 79]; pop; when case not 3 and 5860 : chillax end case - 36 = 26900 : when case 0 : chillax end end; while - 2 - 828 : while 785 : chillax end end; while 08 : chillax end end

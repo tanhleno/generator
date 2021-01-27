@@ -1,0 +1,1 @@
+program w : m78 : takes d : boolean array; j, g : integer array; z : boolean array returns integer array s, F, p, i : integer; chillax end vJ4aa : takes N8, O7 : boolean array returns nothing chillax end aj6 : takes n : integer returns boolean chillax end n : takes I620 : integer returns nothing z4s : boolean; while 6 : pop end end main : pop - C(40) * false; output "8\t" end

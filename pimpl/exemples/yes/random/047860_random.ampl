@@ -1,0 +1,1 @@
+program b : R3ta : takes D : boolean returns nothing FzO0, X, m4G0, n, Rw : boolean; d, s : boolean; L, m, y : boolean array; H : boolean; Nv00a : boolean; do s(- (3) or 4 - 093 = 462, 9, 97 = 1) end main : output "#" end

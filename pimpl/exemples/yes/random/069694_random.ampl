@@ -1,0 +1,1 @@
+program f8 : main : n, Cu, tx, UVq : boolean; while 5060 and false * true /= - true / false or 242 and 6 : when case - 84700 - 0 : pop end case 3 : chillax end case 1 : pop end otherwise : chillax end end; while - false > not 09100 - 0 : while 0 : chillax end end; do u(- false or 6 - 5760 > 629, 1 = 4, 0 = 3) end

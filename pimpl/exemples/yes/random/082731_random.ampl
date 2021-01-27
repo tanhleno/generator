@@ -1,0 +1,1 @@
+program R : main : F : boolean array; when case Du20a(91) + (9150) > - 0 : let Pp[- 886 - 3] = array 68; let _[4] = array 96400 end case - false - not 0 and 3 or 72 /= 200 and 9 or 2 - 6 : chillax end case not 9 or 4 - 9 >= 092 - 4 : chillax end otherwise : chillax end end

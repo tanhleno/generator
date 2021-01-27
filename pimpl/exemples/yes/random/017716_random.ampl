@@ -1,0 +1,1 @@
+program s7 : o8 : takes P4la, wP : boolean; g7 : boolean; _96a : integer returns nothing c : integer; chillax end w : takes S2 : boolean returns integer array chillax end main : let k4[iZOaa(33, 6) / false / true and 71] = d or true and 4 or 5; output "\tX!" end

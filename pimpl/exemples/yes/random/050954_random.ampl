@@ -1,0 +1,1 @@
+program FTEaa : x : takes Q : integer; _6, W : integer array; c, G96a, Q_9 : boolean array returns integer CR : integer array; EG, H6, t : integer; Gm, c6 : boolean; q, w : boolean; J2 : boolean; chillax end m : takes J7, f : integer returns nothing pop 229; do KwQ(3); let J[6] = array 0 end main : chillax end

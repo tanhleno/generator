@@ -1,0 +1,1 @@
+program Bn9 : x0 : takes pd8 : boolean returns nothing input _v; do j(- 123 - 7) end main : tU, ov, N, l140 : integer array; s : boolean; q : integer; input h[- true - (60400) / LP - true and 898 or 49400 - 7]; do h(true / 82, - (24) and 4 - 403, - 6 - 16) end

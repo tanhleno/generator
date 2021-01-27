@@ -1,0 +1,1 @@
+program fuc : a : takes b1L, RX7 : integer; k, G : boolean; F4haa : boolean returns boolean chillax end P : takes F2, q, r : integer array; r : boolean array returns nothing chillax end main : b : integer array; Z : boolean; X4 : integer; m, IT, x, Q : integer array; _, z : boolean; chillax end

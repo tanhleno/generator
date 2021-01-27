@@ -1,0 +1,1 @@
+program N : main : lzb, F5U0a, wM : integer; X9Ya, q : boolean; u, pur : boolean array; input k; when case(566) - l6Xa or 51800 - 74 < 8060 - 74 - 7330 : chillax end case - true : input gHy end case 70 - 18200 : chillax end; pop end

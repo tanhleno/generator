@@ -1,0 +1,1 @@
+program s : q : takes U, x, J : boolean array returns nothing while - not 8 : chillax end; output 27100; output 18 . "" end main : do a1(- d7[2] rem not(131)); do LM(d78a[9] rem true and 5 - false and 3 > - not 4 and 62, false and 31 = - 0, 42 > 9) end

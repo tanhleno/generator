@@ -1,0 +1,1 @@
+program e : main : a, p9, m8, l : boolean; when case true /= - true rem fFN and 81 + not 70 and 5 - 6 : when case 6 - 001 : chillax end case 6 = 7 : when case 0290 : chillax end end otherwise : do j(63) end; let g = array 6; pop end; pop; input M[false or 4 - 00] end

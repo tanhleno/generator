@@ -1,0 +1,1 @@
+program i : A : takes t : boolean array; p, D, lS8a : integer returns nothing input O; let M[- 8] = 9 = 90 end G : takes X : integer array returns nothing chillax end main : s9t0, zh : boolean; pop end

@@ -1,0 +1,1 @@
+program qs20a : JW2 : takes M : boolean array returns boolean output "m" end Rc : takes Z : boolean array returns boolean array when case 7 - 542 > 9 : output "f" end case 367 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program e49 : main : y2 : boolean; Kxn : integer; L : integer; sn : integer; pop A[79500] rem not 30600; pop; let G = array - lM20; when case - 0 = 04 : chillax end case 181 = 3 : chillax end case 5 : pop end end

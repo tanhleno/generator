@@ -1,0 +1,1 @@
+program P7 : N6W : takes R : boolean array; K : boolean array; J, UY9aa : boolean array; E : boolean returns boolean array V, n, G : boolean; MtY, u : integer array; while - true and 56 < - 24 : chillax end end main : z, X : integer array; while(1 = 1) and 8960 < - (47400) : chillax end end

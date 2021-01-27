@@ -1,0 +1,1 @@
+program H9 : r : takes u : integer array returns nothing M380a : integer array; IeY0a : boolean array; A1, a : boolean; RJ20a : boolean; chillax end main : e, M4, I : boolean; Dt : integer; BD, X7 : boolean; pop; pop(9) + 396 >= - 81; output "" . 857 = 4 end

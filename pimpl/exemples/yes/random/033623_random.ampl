@@ -1,0 +1,1 @@
+program Z_20a : A8 : takes bq : boolean; P4J, l, L, cP : integer; gg : integer array; nE : integer array returns integer chillax end u9 : takes y3paa, h7Z0 : boolean array; ge : boolean array returns nothing while - 874 > 737 : chillax end end main : cF00a, J, ag7 : boolean array; do UP(- (8) rem true rem true, not true, true + 25) end

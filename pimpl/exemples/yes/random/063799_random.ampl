@@ -1,0 +1,1 @@
+program lQ : D : takes a : integer returns nothing chillax end g : takes c : boolean returns nothing bK : integer; Y020a : boolean array; HKF : boolean; chillax end main : J : integer array; uEI, v2, Z : boolean array; N, NS : integer; PVEaa, a : integer array; let i[- false] = (4) and not 43 + 88; do R(- not false, false > - 211, 604 - 5 < 50100, 477) end

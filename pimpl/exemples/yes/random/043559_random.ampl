@@ -1,0 +1,1 @@
+program h : G98 : takes W : boolean array returns nothing chillax end KY4 : takes D : boolean array; KpJa, X, g : boolean; A : integer; w0C : integer array returns integer chillax end r : takes rR, a : integer returns nothing chillax end main : chillax end

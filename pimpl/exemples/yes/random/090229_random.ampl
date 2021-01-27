@@ -1,0 +1,1 @@
+program r : main : let uHA = array true * true - false; let v[lG[070] or O2n0 and 5] = array not true and not 25100; do i(- false); while - 71 <= 4 : chillax end; while 83100 = 1 : chillax end; do G(6); while 077 : chillax end end

@@ -1,0 +1,1 @@
+program Ex7aa : B : takes rZy, Y8 : boolean; pP : integer array returns nothing chillax end p : takes c4 : boolean array; QM, QL, i, S : integer array returns integer array while 19 - 0 : chillax end end v : takes Il : boolean; w : boolean array; V9, r2 : integer array; f, N : integer; h3U0 : boolean returns integer array I : boolean; z : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Y1 : main : X : boolean array; while false or 6 or 0 or 5 - 8 : chillax end; when case not not 5730 > false and 43 or 6 - 0 : chillax end case true and 28 : chillax end case 10 >= 69800 : chillax end case 0 = 5 : chillax end otherwise : when case 7 : pop end case 0 : chillax end end end

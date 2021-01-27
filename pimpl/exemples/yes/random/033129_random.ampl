@@ -1,0 +1,1 @@
+program n : X : takes C, s : integer returns nothing when case Y - 68 - 92 : when case 9 : pop end; output "/"; let U = 31; pop end case 4180 : chillax end otherwise : chillax end end n : takes t2 : integer array returns nothing B : integer; N4 : boolean array; input xLA[4]; output 9 . 6; input fGM0a[8] end main : chillax end

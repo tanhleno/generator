@@ -1,0 +1,1 @@
+program c : M : takes F : boolean returns nothing R : boolean array; q9, b_, K, u : integer; l, dJ : integer array; let o = array - true and 346 or 753; pop; input l[9] end main : IZ, qD_ : integer array; J : boolean; while - false * false or false or false or 9 : chillax end; when case - 3 /= not 0 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Vz : main : when case not U(9) / not false or false / (4) + not 662 = false / 83 and 272 : chillax end case Y7caa[65] : chillax end case - u or 9250 - 3 : pop end; let U8c = - not 604 and 39600 - 445 - 8; do q(- true and 4); let n[- 3 - 6030] = 9; while 707 : when case 7 : chillax end end end

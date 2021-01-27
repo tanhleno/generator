@@ -1,0 +1,1 @@
+program d : U : takes R, D, f, w28a, E1 : integer array returns boolean array while H : do M(4); when case 4 : chillax end end end u : takes _ : integer; B : boolean array returns integer while 10 : while 0 : chillax end; let I = 20; pop end end main : p3X, QR, S5t0 : integer; chillax end

@@ -1,0 +1,1 @@
+program X : o : takes jo2, cG30a, B, Zb : boolean array; q : boolean array; OX7aa : boolean returns boolean output "8n!a" . "72a" . "" . 0 . "0"; while - 20400 >= 90500 : when case 3 : chillax end end end main : chillax end

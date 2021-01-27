@@ -1,0 +1,1 @@
+program L : Df : takes N, Z18 : integer array; cZ, N9Ta : integer; h7, w : boolean array; X : boolean array returns integer array K2 : boolean array; do K(- h or 4 - 873, 9, 6 = 55); let W7raa = array 5 - 34; output "" . 4 end main : chillax end

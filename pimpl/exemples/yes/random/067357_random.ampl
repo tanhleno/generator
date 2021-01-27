@@ -1,0 +1,1 @@
+program R : main : do ZJ8(not(30) and true + (3) < - false * true); when case(1) * not 477 or(4) and 5640 or 90 < not 8460 and 117 + 5 : chillax end case not 5 : chillax end case 5 - 98800 /= 85 : chillax end case 62 : chillax end case 5 : chillax end case 7 : chillax end end

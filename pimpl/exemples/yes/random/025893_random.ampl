@@ -1,0 +1,1 @@
+program X : n8R : takes vS7aa, Z6 : integer; dy, Q4I : integer array returns nothing E : integer array; V8 : integer array; Y5, s, L : integer array; chillax end main : g : integer; do q(false >= - B[1] and 486 and 66, - not false and 027 and 26); output - (55) and 0 - 2 . "g"; pop - 5330; input z5[2] end

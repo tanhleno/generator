@@ -1,0 +1,1 @@
+program h : D : takes U : integer array; B : integer returns nothing while - R7A and 05900 or 2 < 869 - 82400 : chillax end end mn : takes y, b8K, J7, q : integer array; X : boolean returns integer do R(- 2 < 93, 9 = 26800) end main : output ""; output "5" . 5 - 4 . "" end

@@ -1,0 +1,1 @@
+program W : K : takes Y4 : boolean array returns integer array c, q : boolean array; chillax end t3 : takes wt : integer returns boolean Ya, v, gGR : boolean array; when case 64 - 62 : pop end otherwise : chillax end end main : e : integer; C : boolean array; i, J6, IIg : boolean; input dRx0[(1 = 626)] end

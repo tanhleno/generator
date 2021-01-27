@@ -1,0 +1,1 @@
+program ez : main : c : integer; when case O(4, 6) : while - 1 : chillax end end case z1[83] / not 89 = false : pop end case - (4) - 8200 - 25400 : chillax end; while - (655) / c - (63000) and 5 - 6 : do l(64 = 445) end end

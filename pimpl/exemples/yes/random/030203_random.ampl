@@ -1,0 +1,1 @@
+program L1Va : y : takes vz, apNa : integer array returns nothing chillax end So : takes w, W99aa, M : boolean; O : integer; S4p, V, Y : boolean returns boolean X, v2G, D : boolean array; chillax end main : i9 : boolean array; pmRaa : boolean array; chillax end

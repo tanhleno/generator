@@ -1,0 +1,1 @@
+program p3 : main : L, g : boolean array; E, W : boolean; input B7[92 * QAG0a * u and 54 + not(1)]; while - false and(36) > - false and 9 - 6 : do J9(48 = 8, 0); when case 7 : pop end case 9 : chillax end otherwise : chillax end end end

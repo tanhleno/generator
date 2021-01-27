@@ -1,0 +1,1 @@
+program w : main : RRI, kgs0a : boolean; L6w, m : boolean; w, I, s : integer array; cK : boolean array; do s3(- false rem true * true and 40300 - false - true and 0 - 6 >= gK6a(7) * A and 4 - not 1 and 0 - 9 - 54, - not true and(7) and 3, false - 6) end

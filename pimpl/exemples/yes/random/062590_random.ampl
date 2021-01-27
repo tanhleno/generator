@@ -1,0 +1,1 @@
+program h : OUS0a : takes R : integer returns boolean input s[false] end f : takes _k, c : integer array; L3 : boolean array returns nothing chillax end B39 : takes i6 : integer array returns nothing z : boolean array; K, O3l0a : boolean; Q : boolean; pop; let Q = array 9; pop end main : chillax end

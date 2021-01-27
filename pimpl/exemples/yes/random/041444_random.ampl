@@ -1,0 +1,1 @@
+program lo : Y : takes A56a : boolean array returns boolean array chillax end Qv : takes d, M, Kj : integer; x : boolean; f, oi : integer returns integer array output 5 = 3 end main : when case - false : chillax end otherwise : let Z[76] = array 93; pop 3; when case 1 : chillax end; do q(7); pop end end

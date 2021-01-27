@@ -1,0 +1,1 @@
+program K : au9 : takes QQV0a, X : integer array returns nothing chillax end main : yKj, Uh60a : integer; while - 622 - not true : when case - 80 - 107 /= 28 : chillax end case 7 = 6 : let m = 33 end otherwise : chillax end end end

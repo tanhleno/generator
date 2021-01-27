@@ -1,0 +1,1 @@
+program Q9B : main : pop - not 8 + (2660) > FR; when case - not true < (05) : chillax end case(7) and 4 + 495 - 32 >= - 72 : do Z(9) end; when case true and 645 >= 0 - 92200 : chillax end otherwise : while 8 : chillax end; do n(1); pop end end

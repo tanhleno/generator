@@ -1,0 +1,1 @@
+program n : t3f0 : takes BJha : integer; q, a, n, z, u9K, X : integer array returns integer array b, J67 : integer array; k : boolean array; output "B8!a" . "2@"; while 3130 < 52 : chillax end end main : y : integer array; u_, B, QB : integer array; W3, s, ui7 : boolean; output "" end

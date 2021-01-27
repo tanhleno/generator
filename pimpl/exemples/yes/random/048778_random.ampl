@@ -1,0 +1,1 @@
+program f : A5G : takes S : boolean returns nothing Ll3a : integer array; u : boolean array; output ":_0a"; let v = 8; while 2 : when case 53 : chillax end end; let t = 4 end m : takes J, q : boolean; hX : integer; TVU0, _ : integer array; Z14aa : integer returns integer chillax end main : chillax end

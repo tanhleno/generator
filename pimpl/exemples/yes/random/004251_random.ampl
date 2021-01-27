@@ -1,0 +1,1 @@
+program d : L : takes l, Il, v, pl7a : boolean; pnk0, VO, nQ4a : boolean; ow, h, bS : boolean returns integer j : integer; U : integer array; H : integer array; j, T_ : boolean; while 2 and 0 + 3 - 50 < - 56 : output "" . "" end; pop 1 = 47 end BXha : takes Y : boolean array returns nothing kI3 : integer array; a7, t : boolean; chillax end main : chillax end

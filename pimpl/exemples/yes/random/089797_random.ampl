@@ -1,0 +1,1 @@
+program g : main : let ae = array - (26); when case m[87100] rem true < false and 04 : chillax end case - (11) or 3 - 27 : when case 770 : chillax end otherwise : chillax end end otherwise : pop 6; let F = 7 end end

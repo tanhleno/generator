@@ -1,0 +1,1 @@
+program rL6aa : z260 : takes E : boolean array; Wk7aa, b, YG3 : integer array returns integer array l : boolean array; p, b : boolean; Eb3 : boolean; when case false and 5 or 1 : do Q(8, 13); pop end otherwise : input W; do Xa2(687); pop end end main : do N(Rc[9160] <= - true rem(1) and 5, true); let Ce = - not 3 /= 31 - 99 end

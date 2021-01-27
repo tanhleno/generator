@@ -1,0 +1,1 @@
+program rC : _1maa : takes w3, A : boolean; M, x2Ba, Gq, S, N44, d : integer array returns nothing avs, u, y3laa, M84 : boolean; Pc : integer; chillax end main : T : boolean; eT, h, W : boolean array; kP5 : boolean; while - Q(0, 1) and false : chillax end end

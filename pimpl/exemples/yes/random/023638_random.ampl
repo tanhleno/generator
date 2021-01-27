@@ -1,0 +1,1 @@
+program Rrt0a : m51 : takes kp, d : boolean returns integer chillax end s : takes Txq : boolean array returns nothing qaYa, v, Y, S : integer; R : integer; l : boolean; while - 2 > 608 : chillax end; input c; when case 272 : chillax end; let Z = 43600; input H7H end main : chillax end

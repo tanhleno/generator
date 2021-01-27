@@ -1,0 +1,1 @@
+program A53a : main : mK, M : boolean; l5, R : boolean; let J = - (80) / not 7 or false; while not not 13500 / false and 7 or not 2 and 2 : do Mtk0(86300, 30, 6) end; when case - (455) or 1 = - 227 : chillax end otherwise : chillax end; let WPn = 804 = 14 end

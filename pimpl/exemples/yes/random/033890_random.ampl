@@ -1,0 +1,1 @@
+program L720 : o0 : takes I : boolean; m_5, V7, Z : boolean array returns nothing N, l, N : boolean; r : boolean array; V : boolean; while 8 and 37000 : chillax end; input F2 end main : X : integer array; pop; pop 56 and 8 or 7160 - 429 end

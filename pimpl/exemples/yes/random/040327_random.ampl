@@ -1,0 +1,1 @@
+program M5 : S : takes M : boolean array; c : boolean returns integer array when case X - 572 >= - 8 - 37700 : chillax end; when case - 18 <= 7 : chillax end case 27 = 0 : chillax end case 27 : pop end case 0 : chillax end end main : r : integer array; chillax end

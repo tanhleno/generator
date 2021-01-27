@@ -1,0 +1,1 @@
+program d9 : S : takes i2C, a, T : boolean; Nh, Ze70 : integer array returns boolean array chillax end L : takes Q : boolean array returns boolean chillax end WV : takes t : boolean; SR, y, p46 : integer array returns nothing chillax end main : Uy40 : boolean; ns4 : boolean array; Pa, j1 : integer; k1 : boolean; chillax end

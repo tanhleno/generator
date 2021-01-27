@@ -1,0 +1,1 @@
+program y9 : d8 : takes S, Q, J : integer array returns boolean let c[- false] = array GY0aa; when case 67 > 70 : chillax end case 35 : chillax end case 4 : pop end case 14400 : chillax end otherwise : chillax end end I : takes FK, h, jHy : boolean; i : integer array returns nothing output "" . 0 . 1100 . "1"; input y030[35]; pop 7; output "\"H"; input aN end main : chillax end

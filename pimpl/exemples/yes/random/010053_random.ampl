@@ -1,0 +1,1 @@
+program p : u : takes EC6aa, i7, Y09aa : boolean array; U : boolean array; Bi, Ww, H : integer array; vz, U : integer; t8 : boolean array returns nothing PLQa, e2x, f8, H, f : integer array; pop 42 end main : jr6, G : boolean; output false or true end

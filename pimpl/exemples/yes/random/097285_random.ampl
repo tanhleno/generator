@@ -1,0 +1,1 @@
+program Y_l0a : main : when case not true and(5) rem 675 - l6Saa(4) and 36 + t6 or 3 >= - not 51400 / not 5 : output 8 = 6 . 0; input t end case - 76 and not 45 and 9 or true and 7 : chillax end case true : while 785 : chillax end end; let G730 = array not not 4; while - not 74 and 81 <= 3 : when case 0310 : pop end case 2 : chillax end otherwise : chillax end end end

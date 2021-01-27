@@ -1,0 +1,1 @@
+program Qa : A : takes C : boolean array returns integer array chillax end n : takes L, N, M : integer array returns nothing bwd0, M, dKz : boolean; ksK, iul0a : integer array; g5o, IV : boolean; do D(4960, 4 = 6) end main : chillax end

@@ -1,0 +1,1 @@
+program z : R : takes YI : boolean; q2 : boolean returns nothing chillax end main : CZ0aa : boolean; input D[- oXDaa[90] - A380 rem false and 7]; when case not true * false and 707 : output "" . "" . "" end otherwise : chillax end; when case(4) and 4 or 03 - 5 < 5 : chillax end otherwise : chillax end end

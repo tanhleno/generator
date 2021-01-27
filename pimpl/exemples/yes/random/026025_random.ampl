@@ -1,0 +1,1 @@
+program p5 : n8 : takes C, iO : integer; O : boolean; _, Y4Q : boolean array; i2 : integer array; KM8, n6G : boolean array returns integer array sL, O58 : integer array; BW, L8, Lp1a : boolean; ux5 : integer array; when case - not 0 or 6 - 1 : chillax end case - 7 : chillax end case 8 : chillax end case 665 : pop end otherwise : chillax end end main : chillax end

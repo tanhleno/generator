@@ -1,0 +1,1 @@
+program _ : o : takes t : boolean array; PK60, Z, Q_, X : integer; Kb : boolean array returns nothing tEP : integer; pop; when case - 5 - 1 /= 261 : chillax end otherwise : chillax end; do P(2, 3, 5550); do A(6); input _; let x = 9 end r0 : takes W, L1, q, C : integer array; Ye, M, _, N : integer returns boolean array pop end main : chillax end

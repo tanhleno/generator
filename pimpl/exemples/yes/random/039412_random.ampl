@@ -1,0 +1,1 @@
+program C : cS : takes lzN0 : boolean array; Ghc, P : integer returns integer vX : boolean; p, U : integer array; when case - (6) and 3840 - 31100 : while 635 : pop end; pop end case 02800 : chillax end otherwise : chillax end; do C(- 6 >= 0) end main : chillax end

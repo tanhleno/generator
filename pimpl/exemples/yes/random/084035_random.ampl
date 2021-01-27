@@ -1,0 +1,1 @@
+program k : main : m95 : integer; gi : boolean; when case - false : while 1 : chillax end; let mY[0220] = array 6; input b end case 8 : while 0 : chillax end; when case 26 : chillax end; input Q; pop end end

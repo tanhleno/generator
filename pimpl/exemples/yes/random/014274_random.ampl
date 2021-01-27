@@ -1,0 +1,1 @@
+program s : M2 : takes T, I0, Oy : integer array; I : boolean array returns boolean Z_ : integer array; m, ry, T32, op8 : integer array; let N = array false and 1 - 9190; let jNf0[- 87 - 9] = 0820 = 9; input F[29]; do h(14600); while 7 : chillax end; let K = 5250 end main : F5 : boolean array; hq : integer; when case - true and T[0] * not 2 - 63 * true >= w : chillax end end

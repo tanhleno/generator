@@ -1,0 +1,1 @@
+program d : f3 : takes T, M : integer array returns nothing pop end p0 : takes c7, B9, e1, V, U87, y, c : boolean array; OoY : integer array returns boolean w72 : integer array; chillax end Y : takes AmX : integer; S : integer array returns nothing chillax end main : input hO[6 or(2) + b5 or 54]; input P3[(5) or false + 0 - 34] end

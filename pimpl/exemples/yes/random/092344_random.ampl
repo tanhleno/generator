@@ -1,0 +1,1 @@
+program X : main : output - 6 rem 14 - not 7 and 0 or 4 /= 063 or 1 - 4 . - Zl and 335 or 55 - 6; when case P * not 06 and 8 or H < - WQe and 8 - 6 - 2370 : chillax end case false and 9 /= 258 : while 987 : pop end; let g = 5; input C7; pop end otherwise : let E[3] = array 0 end end

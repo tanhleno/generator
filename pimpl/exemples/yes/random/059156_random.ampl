@@ -1,0 +1,1 @@
+program S : z : takes e : integer array returns integer chillax end main : do Z(- not(0) rem 5, 2 or 2 and 9); output ""; do M(- false and 44 or 20 - 5); let TE00[- 0] = array - 8 - 5; output ""; input N[4] end

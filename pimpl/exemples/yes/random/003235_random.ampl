@@ -1,0 +1,1 @@
+program v8 : P6q : takes sa, J, kui, k7u0a, E8 : integer; O, Au00a : integer array returns nothing while - x and 1 or 83 /= - 8 - 569 : when case 96 : pop end case 06 : chillax end end end main : while(9 = 8) rem true / (570) + 5 : chillax end; when case(8) rem true and 4 > - false : chillax end; pop end

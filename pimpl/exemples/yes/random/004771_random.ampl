@@ -1,0 +1,1 @@
+program C2 : w : takes t8ga, tM, A26, kZ : boolean array; P7, w, W, b65 : integer array returns nothing T : boolean array; when case - not 734 - 66600 : chillax end case - 743 - 1470 : chillax end otherwise : chillax end end main : chillax end

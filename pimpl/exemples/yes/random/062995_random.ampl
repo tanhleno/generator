@@ -1,0 +1,1 @@
+program Q : E91 : takes GB : integer returns integer array z1G : boolean array; y : integer array; W9a : integer array; r, k : boolean; QM : boolean; while - not 76400 and 6 : chillax end; let f6S = 1; let n3wa = 0 end main : X66aa, ydJa, R9ua : boolean array; chillax end

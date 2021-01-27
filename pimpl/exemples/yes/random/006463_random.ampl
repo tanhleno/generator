@@ -1,0 +1,1 @@
+program TR : A : takes pT, x0, j, m : integer; k9, pO1 : boolean array returns nothing I5Xaa : boolean; let X = 6; while - 5 > 144 : chillax end; let f = array 8 end main : j, oOA0a, w7 : boolean array; N5 : integer array; input Om[- (546) and(57) rem(87) and 4 - false rem(5) and 4 - true + 0]; let v[(47) and 79100 + (74) and 7] = - (44) + 26100 - 1 < 1 - 77 end

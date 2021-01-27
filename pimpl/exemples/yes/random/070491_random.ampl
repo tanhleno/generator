@@ -1,0 +1,1 @@
+program HA : main : Bc, gs, P, I : integer array; E3 : boolean; f, u6, z : boolean; T15a, I : boolean; pop - not false / 4 or CB and 7 <= - false and 9 + 842; do Q8k(- false and 22 and 7 + 77 and 02); input b530a[false and 5] end

@@ -1,0 +1,1 @@
+program u : g : takes it : boolean returns integer chillax end Hn : takes o, W : boolean; N, a : integer; I : boolean array returns boolean Q, d : integer; y : boolean; DS : boolean; chillax end main : C, Ho, U, Jg6, i0 : boolean array; output - true . 9 and 18 or 8 - 704 /= 08 - 8190 . "1+"; while - true rem 150 and 4 : chillax end end

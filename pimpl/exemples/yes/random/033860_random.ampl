@@ -1,0 +1,1 @@
+program B : Z2n0 : takes M : boolean; mIR0, B820, mgdaa : boolean array returns boolean array m : boolean array; k, Cw, S9 : integer array; H8 : boolean; j : boolean; chillax end S : takes u : integer; J9 : boolean returns integer array input n; while 8 : chillax end end main : chillax end

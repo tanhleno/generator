@@ -1,0 +1,1 @@
+program g99 : main : while - (9 = 2) >= - true / (2040) and 00 - false and 4 : chillax end; input vk; when case - true and 2 - 8 - 4900 : chillax end case - 5 - 316 : output "<\na"; pop; pop end; output ""; while 0 : do z(461) end; when case 4 : pop end case 09800 : chillax end; do j8r(37) end

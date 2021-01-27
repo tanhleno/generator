@@ -1,0 +1,1 @@
+program LP8aa : q : takes TAo : integer; k : integer returns nothing m : boolean array; while - 3480 and 326 >= - 17 - 2 : let L69aa = 08; pop; do rv90a(75); pop end end main : Uh : boolean array; chillax end

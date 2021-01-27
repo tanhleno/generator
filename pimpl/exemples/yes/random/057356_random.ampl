@@ -1,0 +1,1 @@
+program _2 : m8 : takes s : integer array; xy : integer returns boolean chillax end Ck50a : takes BG : integer array returns boolean array chillax end main : when case - false rem F[89] = - true - EJj and 37 - 98 : chillax end; when case - 6 and not 2 and 90 - not 37 /= true - 5 : chillax end; let O = - 37200 - 8 end

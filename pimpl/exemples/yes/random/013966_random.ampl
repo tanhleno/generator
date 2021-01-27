@@ -1,0 +1,1 @@
+program _u : Q : takes E, v, o : integer array; y0d0, Z : boolean returns boolean input I end main : t, ny30, R : boolean; input i; let V[61 rem(0) and 18] = array not(3) * 7; let V5 = array true and 3200 end

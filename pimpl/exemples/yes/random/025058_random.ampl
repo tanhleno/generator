@@ -1,0 +1,1 @@
+program J : d : takes H, H : integer; J, F, o, Y9 : boolean array returns nothing chillax end main : do w(- 5 - (1), - false rem(2) - ndU and 18 or 7 > - true); when case - false * true and 4 - y and 6 - 0 : while 29 = 4 : pop end; pop end end

@@ -1,0 +1,1 @@
+program f030a : oXG : takes TX : boolean array returns boolean chillax end main : V, EO, W0taa, _, Q81 : boolean; B, r : boolean array; output - not false * false and 9 + true . 7 and 89 or 82 - 8 . "" end

@@ -1,0 +1,1 @@
+program Y : main : u2 : integer; when case - not not 20 / t[980] + (4) * 288 : chillax end case(42400) rem 3950 and 75200 or false and 73 : chillax end case - 320 - 0 - 8 : chillax end case 2 - 6840 >= 95500 : chillax end; do k(2320 / (1) and 7 >= false and 8, - false and 9 - 8 > - 12 - 2) end

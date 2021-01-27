@@ -1,0 +1,1 @@
+program V : main : when case - false rem b(6) and 99500 = - false : do t(- 75300 - 9 > 4, 2 = 9) end; while - 72 : when case 6 = 638 : pop; pop end otherwise : chillax end end; let T[- Gt] = array - false end

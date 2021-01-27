@@ -1,0 +1,1 @@
+program Q : main : M : boolean; lU : boolean; R4 : boolean; when case T(865) / true : chillax end case not(81) > - true : input U7[08]; output 6930 . "1S"; input x020; input Q end case not 3 : pop 4580 end; while true or false and 9 : chillax end; pop end

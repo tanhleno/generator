@@ -1,0 +1,1 @@
+program O : N7 : takes q : integer returns nothing do t(- sI and 0 - 61400) end main : when case 61 rem(648) * false and 31200 = 3 and false + true and 82 : when case 57 : chillax end case 3 : chillax end case 143 : chillax end case 1180 : chillax end end; output "1" . - 95 - 0; while F4y and 9 >= - 15 - 049 : while 79800 : pop end end end

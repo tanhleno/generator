@@ -1,0 +1,1 @@
+program E : j : takes wO : integer returns boolean chillax end J : takes v9R, d, k, O : boolean array; X, I : boolean array returns nothing chillax end Q : takes x, FU : integer array; y5, fK, B9, U, M : integer returns nothing chillax end main : output "" . - 3 and 1 or 8 . "" . 59 . 0420 . "1\t0a"; let H[1] = array - true end

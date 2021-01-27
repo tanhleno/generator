@@ -1,0 +1,1 @@
+program FZ9 : iU1a : takes tm7, S6, BX00a : boolean; t, w, m : integer returns nothing k, G3 : integer; J82 : boolean array; input Z7[- true] end aB9 : takes G, G : boolean; C : integer array returns integer array tUq, p : boolean; chillax end main : while false /= - d0(387) or false or 2 - 58 : chillax end end

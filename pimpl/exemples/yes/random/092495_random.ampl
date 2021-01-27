@@ -1,0 +1,1 @@
+program o : main : output false; when case G(76) <= (9) and 2 - 4 - 821 : while 9 : do x(11); pop end; when case 520 : chillax end case 3 : chillax end otherwise : chillax end end case(4) : chillax end case 27 > 9570 : input L8q; do P5(88); pop end otherwise : chillax end; output "\n" . 475 = 5 . "eE"; output "" . 482 . 11; output "" end

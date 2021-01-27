@@ -1,0 +1,1 @@
+program B : QlF : takes S, B, B4, xx, da : boolean array; t4g0, A, o : integer array; j, b, F69aa : integer returns nothing f : boolean; output - 05700 - 8250 >= 020 end main : UrF0a, P : boolean array; e : integer array; while - true : chillax end; do Z(false / true = - true - 2, 85100 and 03000 or 59 /= 048) end

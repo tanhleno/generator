@@ -1,0 +1,1 @@
+program U : O : takes t, C : boolean array returns integer let R6zaa = 794 - 026 /= 06 end main : while - true rem true : chillax end; let w3[- true - true - 271 - 50300] = array - 6200; input s1aa; pop 4 = 70; when case 1 = 9 : chillax end case 25 : pop end otherwise : pop end end

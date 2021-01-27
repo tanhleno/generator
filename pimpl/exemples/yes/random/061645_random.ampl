@@ -1,0 +1,1 @@
+program p : n3 : takes J : integer array returns nothing while - true and 09 - 13 : do R(4); input v; when case 31 : chillax end; pop end; while 02 : chillax end; output 5; output ""; pop; while 74 : chillax end; pop end main : t2v : integer array; a2, k, M, k : boolean; v170 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program g : i : takes t16a : integer; f, l : integer array returns nothing W3n : boolean; chillax end main : x, K9 : boolean; W : integer array; output - false and false - not 4700 and 920 + 1 <= - e . true; pop false and 253 end

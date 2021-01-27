@@ -1,0 +1,1 @@
+program e7 : o : takes ul, x : boolean returns nothing cK9aa : integer; A, x, mOA0a, Q : integer array; c, O8, s : integer array; d : boolean; let y8 = array not 58 - 2310 - 518 end Y : takes d : boolean array returns integer array while 0 - 0 : chillax end; pop 049; input E[98200]; output ""; do D5D(1) end main : chillax end

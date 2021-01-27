@@ -1,0 +1,1 @@
+program o : R : takes F : integer returns nothing m04 : integer array; BC, h : boolean; d, rAKa, EU : integer array; m7 : boolean; do F(9 - 9, - 9 < 78, 14) end u : takes F05, N, T6, F4 : boolean array returns nothing chillax end x : takes cKh0a : boolean array; i9X0a, v, Z270a : integer returns boolean while 1180 = 5 : chillax end end main : chillax end

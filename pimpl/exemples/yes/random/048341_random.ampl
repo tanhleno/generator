@@ -1,0 +1,1 @@
+program V : e19aa : takes fk : boolean returns nothing pK0 : boolean; chillax end main : F : integer array; e, gT, X6, K1 : boolean; Y : boolean array; do d29(C[6] and 456 * (47) - true * w - true) end

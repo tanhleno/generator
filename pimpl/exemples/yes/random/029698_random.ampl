@@ -1,0 +1,1 @@
+program Aq : h5 : takes n6a, L : integer array returns integer array chillax end rY20 : takes h400 : boolean array returns nothing when case 80 - 24 = 3 : when case 0 : chillax end end case 255 = 50 : pop; pop end otherwise : while 9 : chillax end end; input z2[5]; while 70 : pop end end main : chillax end

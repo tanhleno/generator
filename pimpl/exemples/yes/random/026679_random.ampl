@@ -1,0 +1,1 @@
+program f19 : eA : takes B31, v : integer; C : integer array; lr : boolean; f5, uS1aa, e8S0 : boolean returns nothing while(3) and 02 : output 50 . "" end; output ""; pop 12 end O3 : takes UQWa : boolean returns integer array when case - 30 : chillax end otherwise : input _Yr0a end end main : chillax end

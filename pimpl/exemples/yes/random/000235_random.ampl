@@ -1,0 +1,1 @@
+program W90 : g : takes u, dCX, s, h9, F, z24, x, m : boolean returns boolean M : integer; U5, uM7, F6, EGS : integer array; Q, Nd : integer; gl : boolean; chillax end gq00a : takes _ : integer returns integer chillax end main : I, h : integer array; h, R2, ZID, a : integer; l : integer; let u = array - true; let ad = - (10) - 2 /= 30500 end

@@ -1,0 +1,1 @@
+program s : p_D0a : takes E, z4 : boolean returns boolean array z, H4, c : integer array; V79a : boolean array; f28a : boolean array; k, iR : boolean; VOF0 : boolean; do W(- 4 and 40 - 92 - 35); output "" end main : chillax end

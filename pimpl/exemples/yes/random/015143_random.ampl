@@ -1,0 +1,1 @@
+program k : SG8 : takes YnD0a, lziaa, d : integer array returns nothing chillax end g2 : takes G, Qq, j, _6 : integer array returns nothing w, W : integer array; K : integer array; chillax end main : o8, NF, L : integer; k : boolean; chillax end

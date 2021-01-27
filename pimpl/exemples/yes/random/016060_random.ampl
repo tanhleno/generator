@@ -1,0 +1,1 @@
+program K : b : takes l930, e3, q7 : integer returns integer R0, j : boolean array; R : boolean; do t(- false or 2220 - 04 < - 0) end O : takes _0 : integer returns integer chillax end main : chillax end

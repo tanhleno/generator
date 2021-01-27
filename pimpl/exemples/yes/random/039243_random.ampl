@@ -1,0 +1,1 @@
+program OF : WGV : takes N : boolean array; b, i : integer array returns boolean J1J, V6 : boolean; CIx0, X : integer array; while - w or 524 - 9 : chillax end end oE : takes B6M, k, J : integer array returns nothing h : boolean; pop end main : chillax end

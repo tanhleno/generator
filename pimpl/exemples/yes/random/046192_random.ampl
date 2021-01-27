@@ -1,0 +1,1 @@
+program u2 : cD1 : takes h : boolean returns boolean xWT : boolean; O : boolean array; I, mK, A : boolean array; chillax end main : pop - K(2) < - (7) and 1; output true and 5 + 0 /= - 54 . 8 <= 56; let L5[(99) and 3] = 2 - 555 /= 39 end

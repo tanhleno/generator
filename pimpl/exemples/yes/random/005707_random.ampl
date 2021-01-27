@@ -1,0 +1,1 @@
+program A : LtH : takes LQf, N, r2y0a, I : boolean array returns nothing _S : integer; E, I8Ka : integer; H3c0, J, G : integer; u, B : boolean; l : boolean; chillax end main : a, G : boolean array; X0, g, H9 : integer array; j3C, E4w0 : integer; P, L, Q : integer array; chillax end

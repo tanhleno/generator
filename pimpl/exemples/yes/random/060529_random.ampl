@@ -1,0 +1,1 @@
+program m09 : hA : takes i : integer array returns nothing U, _ : boolean array; H, a, jD : boolean; g, H49, c3ga : integer array; n, eMx0a : boolean; chillax end main : hL, D4V, f : integer; O, V : boolean array; O9 : boolean array; xa : boolean array; chillax end

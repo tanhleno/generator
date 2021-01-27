@@ -1,0 +1,1 @@
+program m : q : takes R5 : integer; V, p6 : boolean array; r, wBPaa : integer array; vL, Qe, y0, u9, N0 : integer array returns boolean array chillax end tw : takes Q0, k6O0 : integer; K : boolean array returns nothing yh : boolean array; x, yp, Y : integer; c3kaa : boolean; m3_aa : boolean; output "\n" . 11900; pop 38 end main : B, Kqj : integer; chillax end

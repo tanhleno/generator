@@ -1,0 +1,1 @@
+program is : W7 : takes H51 : integer array returns boolean l : boolean; jTYaa, c, u6z : integer; while - false or 993 - 42 >= 64 : pop; do e(21) end; let V = 08 = 4 end O : takes B : boolean; j, pF : integer; ScJ0a : boolean array returns nothing OH6, G : boolean; chillax end main : chillax end

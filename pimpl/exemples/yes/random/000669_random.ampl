@@ -1,0 +1,1 @@
+program GQ1 : _ : takes W, n, x0, C, j, wu, gM4 : boolean array; B : boolean returns nothing e6 : integer array; pF : integer; when case true < 56 : chillax end case - 23 - 0 < 7710 : let B = 0 end otherwise : while 5 : chillax end; let x = 367; pop end; let a2 = array 4; output "^q" . 88 . "+-aa"; when case 8 : chillax end end main : chillax end

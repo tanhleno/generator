@@ -1,0 +1,1 @@
+program C8 : i3B : takes Q1, K0, Y, Y, Z, D7o, y3Z0a, n : boolean array returns boolean when case(5) > - 2 : do p1W0(9); when case 9 : chillax end; let q0S = 2680; pop end case 84 : let i = 63 end otherwise : input A; let F6 = 7 end end main : c, F2 : boolean; let i[- not true or(252) + 2210 and 0 + 842 - 4] = - false and iK and 3 < - uc50a end

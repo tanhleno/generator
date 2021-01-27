@@ -1,0 +1,1 @@
+program Q : k25 : takes h64, ke, b : boolean array; t4, x, lC : boolean; T : boolean array returns integer pop; let q[- 4] = 91 end G : takes G : integer returns nothing kL : boolean; chillax end main : output - 40 or s or 9 . - not 8 and 67900 + 2; while not false > 0 or 9 : output 2 . ""; let k4 = 6 end end

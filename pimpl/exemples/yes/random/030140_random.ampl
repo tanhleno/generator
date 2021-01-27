@@ -1,0 +1,1 @@
+program T7 : A : takes J, y : integer array returns integer pop - 7 - 1; do t(08200 /= 9); let l[9] = 14 end Bx0 : takes d8, F : integer array returns boolean array pop end BE_ : takes hY3, m13, y8, B, R6 : boolean array returns boolean chillax end main : l : integer; od : integer array; _0 : integer; output - 6690 . ")" . 22 > 9 . "\"T" . "" . "" . "T" end

@@ -1,0 +1,1 @@
+program L : ZUs0 : takes L : boolean; j9O : boolean; M880a, J7, o, VAE : boolean array; Z, XhJaa : boolean array returns nothing chillax end main : O, s, I, v510a, J, qSeaa, c : boolean array; do z(- 77900 - JVV[38100] or not 61 /= - 71 and(5)); let y = array U(45) and M and 85 end

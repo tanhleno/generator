@@ -1,0 +1,1 @@
+program ut40a : Zq7 : takes tj40 : boolean array; M, S0, w, z, V : boolean returns boolean yima, p, HD7 : boolean; KA : integer array; u6, buJ, j : boolean array; zS : boolean; input o[true and 00100]; while - 64 - 8 : chillax end; pop 02400 end main : X, h, F, k9 : integer; a000 : boolean array; chillax end

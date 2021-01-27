@@ -1,0 +1,1 @@
+program m : p33 : takes lr0, v, c, q : integer; R, G, v67, Dt4a, E : integer array; s4, anl, y : boolean returns integer D, S, P : integer array; chillax end o : takes O : integer array; bZw0a, i : integer returns nothing pop 8 = 9 end main : while - q / (2) * (45) + not true * false and 157 : chillax end end

@@ -1,0 +1,1 @@
+program K : I : takes rW, d5, _ : boolean; w82a, _ : boolean returns boolean array zc : integer; output 38 = 0; pop end main : H2Taa : integer array; input E[- k - not not 4 rem true and 074]; output(2) and 83 or 88 end

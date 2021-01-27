@@ -1,0 +1,1 @@
+program t : L : takes n : integer array returns integer while - 52 - 147 - 2 > 0 : chillax end; while - 72 /= 664 : chillax end end x : takes E4, R : boolean returns nothing Q, Aa : boolean array; a8 : boolean array; do U(- 7890 - 87 >= 55) end main : chillax end

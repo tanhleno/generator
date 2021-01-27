@@ -1,0 +1,1 @@
+program w : I5 : takes c, F8f0a : integer array; X2, yK_, ov : boolean array returns nothing io : integer; pop 1; output 37 . 9 . "\"\\" . "0=!a" end main : M : integer array; let b[h[09] or k and 2] = array - (10 = 7) - true or 29400 and 04; while 7 : chillax end; output "" end

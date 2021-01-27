@@ -1,0 +1,1 @@
+program N : G : takes Ml : boolean array; zk, A : boolean returns integer N7_ : integer array; s : boolean array; chillax end main : while false = 260 and 06 or true and 2 - 1 : pop 52 end; do G7(- (726) / (590) + 753 + 0 - 29) end

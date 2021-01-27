@@ -1,0 +1,1 @@
+program c5 : jlHaa : takes X6f : boolean; GINaa : integer returns integer array z8Q0, B5na : integer; i, v, q : integer; pop end G : takes R, nQu, M, G70a : integer returns nothing chillax end rEh : takes W : boolean array returns nothing do C(1, 75, 74); do hj(11, 00); let n = 1; output "E\taa"; pop end main : T, v3, nw : boolean array; A : integer; chillax end

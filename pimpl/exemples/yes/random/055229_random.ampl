@@ -1,0 +1,1 @@
+program C : c : takes tJ : integer array; c, Qk : integer array returns integer I : boolean array; R, U : boolean array; chillax end main : when case true /= - not false or 7 : chillax end case - true = - 37 and 5 + 3 : pop; while 45 : chillax end end case Xe1 : chillax end otherwise : output "07" . "" . "" end; while false rem true - not 0 = F or 97 : chillax end end

@@ -1,0 +1,1 @@
+program g : tY : takes K, h7 : integer returns nothing li : integer; H_E : integer; N : integer; L1, hn : boolean; while(5) + 484 : pop end; output "o\t0a"; output "Z\"\"a" end main : k6, W : boolean; chillax end

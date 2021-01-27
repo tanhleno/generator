@@ -1,0 +1,1 @@
+program j4_aa : main : Fl : boolean array; when case - (46) rem X(9) - (0) or not 5 and 4 /= not N3s0a / 3 + true and 3 : chillax end case - (1) : chillax end case(3) and 2 >= 8 : chillax end; input w; input y[- not 332 and 79 + 72]; pop end

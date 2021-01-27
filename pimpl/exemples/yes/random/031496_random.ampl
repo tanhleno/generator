@@ -1,0 +1,1 @@
+program o : g4p : takes x, V4 : integer returns boolean do D9(- 23 and 41 < - 7 - 7370, - 7 - 9 = 4); do x(0 >= 395); pop end main : T7, eZ, ZR7aa : integer; B, plpaa, s3 : boolean; pop - K * k0 - false and 76 + 7; do Lb10a(l(3) / false and 4, true - 9 - 5 < - 5) end

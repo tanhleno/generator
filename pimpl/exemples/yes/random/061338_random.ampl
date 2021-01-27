@@ -1,0 +1,1 @@
+program l : K : takes d : integer array returns nothing let wM[w and 32400 - 501 - 4] = array 777 or 2; input w end main : input Q1[(330 = 5) rem true]; input y92aa[- 6]; output 862 - 238 >= 2 . "Q" . "" . 7 . "" end

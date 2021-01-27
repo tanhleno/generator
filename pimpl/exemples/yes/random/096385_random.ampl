@@ -1,0 +1,1 @@
+program e : main : when case - 74200 + 05 : chillax end case false and not 32 and 1 - not 4 - 9 - 73 : let J[9] = array 53 end case nV + 52 - 2 : chillax end otherwise : chillax end; when case(6) and 3 + (5) : output "" . 887 end otherwise : input D22[5]; output ""; when case 3 : chillax end; pop end; do a2(3 and 307 or 4 = - 2 - 0) end

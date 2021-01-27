@@ -1,0 +1,1 @@
+program S : O : takes j, i : integer; T6, J9 : boolean array returns integer array let Cd[- 7] = array(1640) and 0 end O2 : takes P : boolean array returns integer array do wL(- 2 - 8 /= 6) end main : chillax end

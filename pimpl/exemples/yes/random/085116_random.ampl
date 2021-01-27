@@ -1,0 +1,1 @@
+program F : main : EWpaa : integer; when case(8120 = 7) or true + (06) and 588 >= false rem true and 6590 or false and 85500 + 50 - 03600 : chillax end case - 0 + E and 6 + 8440 : let fg = 19; do C1(45) end case - n8 or 59500 : chillax end end

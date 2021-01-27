@@ -1,0 +1,1 @@
+program q : U : takes B8 : boolean array; jF_, Y : boolean array returns nothing C, Jq1a : integer array; nouaa : integer; chillax end main : do X4H0(false / not true, - true / true <= (3) and 0 + 0 - 2590, - true and 65 or 45 - 55 /= 72) end

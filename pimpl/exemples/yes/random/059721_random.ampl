@@ -1,0 +1,1 @@
+program W56 : L3 : takes EP : integer array returns nothing chillax end b : takes Kt, U7 : boolean array returns nothing T : integer array; T7m, Tq, v8 : integer array; W, M : boolean; m : boolean; z : boolean; let gy1a[- 1 - 31500] = array - 85900 end main : do cJ1(494 rem false * not 72 or false or 0 + 4, - not not 8 / not 6 and 9) end

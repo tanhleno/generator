@@ -1,0 +1,1 @@
+program t6 : z : takes eAeaa, t8o0a : integer returns nothing c : boolean; KW70a, o1 : boolean array; h, l9 : integer array; R, h : boolean; input b; input FUga[- 8 - 109]; input i[58] end main : oZ : integer; B : integer array; j5i : integer array; chillax end

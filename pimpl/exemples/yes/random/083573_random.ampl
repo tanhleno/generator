@@ -1,0 +1,1 @@
+program _X2 : main : o36 : integer; C, z : boolean; pop; pop; when case false and 0400 = - 725 : while 6770 : chillax end; while 24 : chillax end end case 8 - 3 = 3 : pop end case 8 = 3840 : chillax end case 342 : chillax end otherwise : when case 65 : chillax end; output "\""; pop end; pop end

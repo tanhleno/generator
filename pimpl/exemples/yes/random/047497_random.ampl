@@ -1,0 +1,1 @@
+program X : r5 : takes B : boolean returns nothing chillax end CN : takes q1K0a : boolean; V670a : boolean returns nothing pop end main : v, m, b, xE : integer array; ldIa : boolean array; while - z[6] <= - true * false : do _c(49100 /= 5, 4 = 3, 4120) end; when case - not false + not 3 + 0 - 485 <= T55a and 0 - 9 : chillax end; input K4Oaa[(4) - 260 - 8]; output 0 = 4 . 26 end

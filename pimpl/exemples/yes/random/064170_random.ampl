@@ -1,0 +1,1 @@
+program C : X : takes m0 : integer returns nothing a, i, U8, j, ne3 : boolean; input _6 end oL : takes q7, E : integer returns integer chillax end u : takes S2 : integer array returns nothing i : boolean; output "\"" . 443 end main : chillax end

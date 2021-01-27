@@ -1,0 +1,1 @@
+program N : F : takes I, n, p320a : integer array; y62a : integer returns nothing CG, d : integer array; chillax end z : takes R, ZEMa, b15, DS0 : integer returns boolean array Op : boolean; chillax end s9E : takes Gh, R, E7l, O : boolean returns boolean let Z[2150] = 017 end main : chillax end

@@ -1,0 +1,1 @@
+program H3 : main : f, xh70, Y, p98 : integer; U, FV, Z, Ky3aa, W, A : boolean array; I : integer; output "E5" . - 5 = - 849 . - 8 - 7 < 6; let T[- not(0) * QU and 20000 or(36)] = array(875); pop - 91 - 2690 >= 02; pop end

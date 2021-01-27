@@ -1,0 +1,1 @@
+program B : Oiz : takes fg30a, m2 : integer returns nothing chillax end main : pop - 9 and 2; pop; do yn1(false and 80); when case - 9 <= 5 : output "\t"; output ""; pop end case 2 : chillax end otherwise : output "9" end; when case 67100 = 36 : chillax end case 6 : pop end otherwise : chillax end; pop 8; pop end

@@ -1,0 +1,1 @@
+program t : r : takes l5Eaa : boolean; g, BhG : integer array returns boolean do h(true and 2 + 0); input E4[0 - 8] end Q : takes yZ, K : integer array; Jfj : boolean array; h9, w, i : boolean returns nothing input P; do s(8 = 499, 45, 0) end mtR : takes Wr, G, q7K, J7, w : integer; J, m, Bo : integer returns nothing chillax end main : chillax end

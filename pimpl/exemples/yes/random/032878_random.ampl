@@ -1,0 +1,1 @@
+program i : J2 : takes d, Z3 : integer returns nothing qb : integer; CVe : boolean; m, z : boolean array; ZM, o010a : boolean; chillax end H7 : takes np3a : boolean; K41 : integer array returns nothing WZ90, Q, h : integer array; D : boolean; chillax end main : t1 : integer; do d0ca((2) - false - false < 4 - true, - (1), T - 780 - 6) end

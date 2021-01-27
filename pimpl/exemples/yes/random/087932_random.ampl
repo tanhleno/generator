@@ -1,0 +1,1 @@
+program K16aa : main : input Pf2; let K[- false or wu5 + 1] = not 1 and 777 or 289 - 9; pop; while - 533 /= 41 : input d; when case 197 : chillax end; pop end; when case 8310 = 3610 : chillax end end

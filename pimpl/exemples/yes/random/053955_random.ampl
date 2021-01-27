@@ -1,0 +1,1 @@
+program A31a : Nr00 : takes v : integer array; I, G, Z3 : boolean array; q9Ia, h : integer array; TI5, _66, zQ, w : boolean array returns boolean array c6 : integer; h1l, cZ5 : boolean array; JA, t : integer array; chillax end main : while true rem true : input v[9 - 9260]; output 25; do P(7, 3); let l = 2; do d2(9) end end

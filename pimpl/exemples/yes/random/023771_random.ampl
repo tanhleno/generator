@@ -1,0 +1,1 @@
+program O : WYi : takes t, D : boolean returns integer epB0a : boolean array; input Is; while - 4 : input A39; do H_(7) end end aO : takes B, V_, f, w, B7 : boolean; P0R : integer array; r92aa, o : integer returns nothing Z, x6 : boolean array; let v = array 907 end main : T7 : boolean; t, CI : integer; while - not t7 : when case - 21 - 4 < 0 : chillax end end end

@@ -1,0 +1,1 @@
+program a : Co0 : takes VS : boolean; N1o0a : integer array; x, r2 : boolean array returns integer output "\\&\""; do qgHa(- 66 = 6); do Kt(663); output 50300 . "xT" end HNg : takes I, _X : boolean; qx2 : boolean returns boolean chillax end ef : takes Y19a, q6, E8 : boolean returns boolean array rp : integer array; chillax end main : chillax end

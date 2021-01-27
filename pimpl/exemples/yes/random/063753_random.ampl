@@ -1,0 +1,1 @@
+program e : _ : takes F : integer returns nothing chillax end P1za : takes J : boolean array; qm, w : boolean returns integer array chillax end main : while - not 7320 < not w + true and 0430 : chillax end end

@@ -1,0 +1,1 @@
+program i : x : takes Jum : integer; x5 : boolean; y6 : integer array; _ : boolean returns nothing k, x1Xa, p : integer array; n : integer; input l2E0; do K(9 - 85 >= 8, 710, 6); do d7(269 = 452, 21); input v; while 8960 : chillax end end main : d, S41, f, uH, N0 : boolean; chillax end

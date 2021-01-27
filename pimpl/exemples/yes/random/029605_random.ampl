@@ -1,0 +1,1 @@
+program b : N3Kaa : takes E2, g4 : integer array returns boolean Y : integer array; input n[false and 8 - 21] end main : do xb(- d - true - true, true or true and 2740, - (25), 689 - 0670 /= 87600, 19, 4, 7); pop(8) and 87500 < 9 - 05 end

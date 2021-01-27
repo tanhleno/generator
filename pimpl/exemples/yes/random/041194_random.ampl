@@ -1,0 +1,1 @@
+program DO4 : H : takes c6 : boolean array; x : integer returns boolean array chillax end K4 : takes D, m, O1 : boolean array; C19 : integer returns integer array chillax end i0p0 : takes xXC : boolean array returns boolean do b8S0(9); pop end main : while - 7 / false + 33 /= - false * (7) and 5 : chillax end end

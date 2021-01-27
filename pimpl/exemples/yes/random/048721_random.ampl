@@ -1,0 +1,1 @@
+program Iq : g2b0 : takes z : boolean returns nothing aw70 : integer array; chillax end main : when case 0 : when case 57 : output ""; while 8710 : chillax end end otherwise : output ""; pop end end otherwise : pop end; do C4naa(b6 and true + false and 3 or 8 = - Fd0 and 29900) end

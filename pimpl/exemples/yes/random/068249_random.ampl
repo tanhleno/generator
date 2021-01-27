@@ -1,0 +1,1 @@
+program w : main : W, y, kVE, B, P, bYV, GL90a : integer array; kCj0a : integer array; IA, w2, a3Uaa, Uf, R : boolean array; o, E, qf20a : boolean; G : integer; let w7[false * true * (9) and 7840] = true / 4100 and 1 > 658 and 65 + 56700 - 2 end

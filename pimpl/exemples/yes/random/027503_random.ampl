@@ -1,0 +1,1 @@
+program Kr : Ue : takes D, Y2 : integer array; g10aa, z2h0, dPS0a : integer array returns boolean chillax end main : nk, M, r, Z : boolean array; K : boolean array; X : integer array; y : boolean; U, O0 : integer array; kT : boolean; chillax end

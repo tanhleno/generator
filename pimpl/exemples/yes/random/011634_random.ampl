@@ -1,0 +1,1 @@
+program A : mf : takes P, E3, b : boolean returns boolean array input e; output "@" . 1 end GZ : takes G440, mf7 : boolean returns nothing jZ : boolean; AZ : integer; cq, F : boolean; c8 : boolean; u : boolean; let Dqm0a[- 15 - 9] = 71; pop 40 end main : chillax end

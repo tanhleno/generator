@@ -1,0 +1,1 @@
+program o : k : takes nO : integer array; V, a7o : boolean array; G, J7, F, PY, H : boolean returns integer array pop; do D(8 > 5, 512 = 2, 62, 204) end hg : takes Bv, _H, Q, X : integer array; Uy : boolean array; Wp4, bm8 : boolean array returns nothing chillax end main : while - not false rem(18) / (4) and 1 + false : while - 5 /= 01 : input v end end end

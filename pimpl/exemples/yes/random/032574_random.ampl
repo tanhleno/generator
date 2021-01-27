@@ -1,0 +1,1 @@
+program y3aa : Y : takes vX, I : integer returns nothing y8, X1, p3 : integer array; oZ, V, u6 : integer array; A : integer array; chillax end oZ : takes w6, j, xq, S, W, G, f : integer array returns nothing let G6 = array - 5 - 5 end main : V, iDsa, Qt : boolean array; chillax end

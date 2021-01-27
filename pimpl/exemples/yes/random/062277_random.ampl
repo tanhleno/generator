@@ -1,0 +1,1 @@
+program r : Nf : takes Wqmaa : integer returns boolean chillax end main : GKu : integer array; hu, nF4aa : boolean; input KV[- true]; while true or P3p0a and 1 + 8 - 58 = - not 8 and 481 or 20 : chillax end; when case - true and 35 : chillax end end

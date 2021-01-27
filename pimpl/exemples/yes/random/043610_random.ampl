@@ -1,0 +1,1 @@
+program M : p : takes R : boolean array returns nothing chillax end m : takes v : boolean returns nothing input o; let E[3] = array 3; do nVP(1, 27) end EX : takes C : integer returns nothing chillax end g : takes _0s : boolean array returns integer while 46 : chillax end; input Sn end main : chillax end

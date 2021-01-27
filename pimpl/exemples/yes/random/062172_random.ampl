@@ -1,0 +1,1 @@
+program J : G2 : takes hI : integer returns boolean array while false and 734 : do M2(20800, 6); when case 3 : chillax end; pop end end T : takes Y, IS, ex1 : boolean array; o, Y : integer returns nothing chillax end main : chillax end

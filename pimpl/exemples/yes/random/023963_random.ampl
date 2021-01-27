@@ -1,0 +1,1 @@
+program H : P07 : takes mv5, I6u0 : boolean returns nothing chillax end I : takes m : boolean returns nothing output 7 . 8; when case 9 = 77 : do eP(7) end case 2 : chillax end case 908 : chillax end; do B(57, 392); output "\""; while 81700 : chillax end; pop end main : chillax end

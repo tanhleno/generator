@@ -1,0 +1,1 @@
+program o9 : i : takes x, X, x9U : integer array returns boolean j, l : boolean array; chillax end u : takes w, T : integer array returns boolean F5, rN, C : boolean; L : boolean array; when case 29 = 723 : output "" end end main : when case false * false > f[80] / not 5 and 3 - 1 and 5 : chillax end case - n8 : input L[16]; do dy(4) end end

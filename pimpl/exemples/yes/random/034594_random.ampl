@@ -1,0 +1,1 @@
+program d : n : takes z : boolean; aJjaa, Ka : boolean array returns nothing F : integer; HK60a : integer; Vj, fB : boolean array; while - _ and 66 < - 88900 - 4 : do k(506, 1) end; output 6 end main : t4e0a : boolean array; output "" end

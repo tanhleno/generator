@@ -1,0 +1,1 @@
+program E6k : main : Y1, M, D : integer; D : integer array; UX, V0, Z3M, J250 : integer array; y, M : integer; t : boolean; S, cg2 : boolean; d : boolean; iD : boolean; while false - 7 / s + not 2 + 65700 - 8 : while 4 - 017 : chillax end; pop; let ZLb0a = 93400 end end

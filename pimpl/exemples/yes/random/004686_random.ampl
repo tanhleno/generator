@@ -1,0 +1,1 @@
+program p : c : takes i, t, fN6, w6 : boolean; x : integer returns boolean array Y1G : boolean array; pop; while - 1 : let pc = 4 end end main : iE, H43 : integer array; Z, vl50 : integer array; ok1, c6p : integer; output "~\t!a" . - not 35 - 1 - 8 . - 5 >= 195 . "" end

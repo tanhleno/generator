@@ -1,0 +1,1 @@
+program j : F2 : takes n, H, A0, Q6, G : boolean array; u, s : integer returns integer when case - false and 2 < - 0 : chillax end otherwise : pop; when case 2 : chillax end end end AD9 : takes F, SX : integer array; x : integer; b2o0a : integer returns integer pop end main : chillax end

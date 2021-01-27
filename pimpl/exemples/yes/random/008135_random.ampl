@@ -1,0 +1,1 @@
+program S : E9u0a : takes X, T, R5J0, RO5 : integer returns integer output 376 >= 7 . 9 = 812 . "6" . 6; input E[7 - 5] end v3 : takes P8Aaa, x, w2, Q : integer array returns boolean chillax end main : F0 : boolean array; SOu : integer; chillax end

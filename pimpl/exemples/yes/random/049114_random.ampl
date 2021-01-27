@@ -1,0 +1,1 @@
+program Gr1 : o_ : takes k : boolean returns nothing when case - d and 881 = 1 - 0 : chillax end otherwise : chillax end; pop end P : takes h4, m : boolean array returns boolean d : boolean; chillax end main : chillax end

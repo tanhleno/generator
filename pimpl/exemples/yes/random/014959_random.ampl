@@ -1,0 +1,1 @@
+program g : _ : takes E9R, X, n : integer array returns integer array n : boolean array; chillax end I6 : takes r, V2H0 : boolean array returns integer chillax end main : do M8(not T0O0a(5) * true or(6) rem(62), (3) rem not 5770 /= true and 508 - 7) end

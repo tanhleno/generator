@@ -1,0 +1,1 @@
+program Z : YSCa : takes miQ : integer; T, E8Vaa, J1 : integer array returns nothing I : integer; let J[- not 0 and 43 + 6] = array - true and 2 + 503 - 6; pop; when case 6 = 303 : while 7 : chillax end end case 3 : pop end end main : chillax end

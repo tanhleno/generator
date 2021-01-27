@@ -1,0 +1,1 @@
+program sjU0a : D : takes H1, L0 : boolean returns nothing input T040 end F : takes x1Aa, A : integer array; v : integer array returns boolean array do w7(33600 - 4 = 2200, 6 = 3, 48, 90); do A(477 = 73) end main : chillax end

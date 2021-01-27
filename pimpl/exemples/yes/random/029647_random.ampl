@@ -1,0 +1,1 @@
+program G : P1 : takes u9j0, J : integer array returns boolean output "" end main : do U(- true / (9740) rem 7 + not true - not 73 and 6 or 504 - 6 > (8) rem(4) and 649, - true rem o8 and 3 = 2 and 6820 - 45); do W(- true * (0)); while 64700 + 8 : pop; while 9 : chillax end end end

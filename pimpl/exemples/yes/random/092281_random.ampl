@@ -1,0 +1,1 @@
+program B : main : output - 12 / not 84 + true . true and 9 . "" . "3" . "X0a" . ""; do S1(- (218) / not 9 and 79 - (15) >= - 349 - 23500, not 43 and 1 + 399 - 6 >= - 5 - 26, - 7 - 3 /= 5590, 6540 = 6) end

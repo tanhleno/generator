@@ -1,0 +1,1 @@
+program yN : h9 : takes L5 : integer; LIKaa : integer returns boolean chillax end s1ca : takes U, X : boolean array returns nothing J, I7, U : boolean; Fi : integer array; while - 580 <= 413 : chillax end end main : _ : boolean; CkJ, p : integer; let Je[- 3750 / true] = array - false / not not 8 - 5 end

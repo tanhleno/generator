@@ -1,0 +1,1 @@
+program i0 : Z : takes en, y : boolean array returns nothing chillax end main : d, h1Maa : boolean array; G, aB : boolean array; do P(not not Q90aa, rd(603) or 681); pop not 69 and 4 + 98500 >= - 9; while - true or 06 > - 12 - 26 : chillax end; input dd[8 - 26]; let W[7] = array 16400; output 21 . "2" end

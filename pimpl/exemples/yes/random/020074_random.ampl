@@ -1,0 +1,1 @@
+program S : P47 : takes W, Z09 : boolean array; h : boolean array returns nothing i : integer array; chillax end main : Kk60 : boolean; let X6Q0a = array - false / 9; while false - (5) and 816 : pop; output "\"" . "S4"; while 55 : chillax end; input ZU end; output 4 >= 416 end

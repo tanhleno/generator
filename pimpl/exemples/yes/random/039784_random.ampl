@@ -1,0 +1,1 @@
+program E13 : P : takes k1 : boolean array; fq : boolean array; Jo2, _uzaa, g : integer returns boolean output - 2970 . "z&"; while 1 : chillax end; let H = array 9 end main : O, X, I : integer; I : boolean array; chillax end

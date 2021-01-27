@@ -1,0 +1,1 @@
+program M95aa : main : e, s97, s : integer; a : boolean; while - not not false - 16 or(61) < - n[8] or not 5 and 3 or 7430 - 6 : output 0 = 0; when case 8 = 9 : chillax end case 8 : pop end case 1 : chillax end end; while - 42 + false and 7310 > not 574 and 498 or 4960 : do c3(08500 = 103) end end

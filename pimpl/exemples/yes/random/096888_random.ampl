@@ -1,0 +1,1 @@
+program b : main : when case false rem z[4] : pop 9; when case 78 : let S = 74 end case 9 : chillax end otherwise : chillax end; pop; pop; pop end otherwise : output "i" . "3\naa"; input o end; output "\\\"\"a" . "" . 84; output - 27 - 31 > 8 . "" . "" . 5; when case 40800 : chillax end case 4 = 13 : output ""; pop end case 5920 : chillax end end

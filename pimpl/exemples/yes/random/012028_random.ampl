@@ -1,0 +1,1 @@
+program yf : x : takes cY, x_, A : boolean returns nothing chillax end e9 : takes R, L6o, s, y, C8q : boolean array returns nothing Z : boolean array; JT0 : boolean array; input d end main : h : boolean; when case false : chillax end otherwise : chillax end; do R((99100) rem false >= - 11 and 9 or 6 - 7) end

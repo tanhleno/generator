@@ -1,0 +1,1 @@
+program b : R : takes N : integer array returns nothing chillax end Ik : takes w : boolean; wz1 : boolean array; J : boolean array returns boolean array n, CQ3, A : boolean; chillax end main : let Ii[663] = - (79) / 06900 and 5 or not 2 and 88 or 0 - 5 >= - s and 720 or 6 end

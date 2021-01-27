@@ -1,0 +1,1 @@
+program g : b5 : takes xIraa, f : integer returns boolean v40, KKl : integer array; when case true : output 1 . "o?" end case 6 - 2 /= 1 : output "?\\\"a" end otherwise : chillax end; output "\n" . "" . 2; let V[7] = 7; input k[03200] end main : s : integer; H, mV2a : boolean; while not true > - (7) * (3) : input j[- 81500 - 43] end; pop not 07 <= - 07 end

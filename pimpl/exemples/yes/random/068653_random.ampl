@@ -1,0 +1,1 @@
+program m720a : main : s, i, L, o_B0, pd : boolean; qU8, HI, q, l5Pa : boolean array; c, j : boolean array; do d_(- not by70a, - false * (3)); do x(72300 and not 64 and 7 + false or 3 - 7 <= not 1 and 9, - R + 5 >= - 3); when case false + 10 - 56400 : chillax end end

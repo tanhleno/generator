@@ -1,0 +1,1 @@
+program yA3 : main : when case X(7, 288) * false / B and 65 : input BlP0a; when case 95 = 837 : output "\t"; pop end end case - true * false and 81 or s3 and 3 - 82 - 4 > - not 4 : do EI(8) end case 662 or 2 - 2730 : chillax end end

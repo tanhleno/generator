@@ -1,0 +1,1 @@
+program oR : H : takes Xr, B6uaa, x, I, M, B : boolean array returns boolean let h = array X end k4o0 : takes J30 : boolean array; P : boolean; W, X, lDc, X, t : integer returns nothing S : boolean array; o : boolean array; let Q[688 - 03] = 307 = 1; input ea end K : takes WP, zF3, b0p : boolean array returns nothing chillax end main : chillax end

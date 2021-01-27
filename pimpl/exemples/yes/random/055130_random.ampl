@@ -1,0 +1,1 @@
+program C : O : takes GT1 : integer array; H, O35 : integer array; j4 : boolean array returns nothing S : boolean; do JR(- not 67000 <= 7 - 48); pop; when case 70 : while 6 : chillax end; pop end end main : pop; pop not 49 and 20 or 5 end

@@ -1,0 +1,1 @@
+program A : main : fr, R8, T, z, O : boolean; when case - T[204] or not(2) or not 44 <= - true and true and 1 + (5) - 67 : when case 1 - 2 : chillax end otherwise : chillax end; let o = array 0 end case - not not 7 and true and 7 - not 42 and 6 - 8 - 2 > - (08) and 8 or 3 - 90 : do E(884) end case A2 : do k0A0(28) end end

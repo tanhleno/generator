@@ -1,0 +1,1 @@
+program w : Y : takes f, v1p : integer; b : integer returns boolean array chillax end sPda : takes BC, j1r, B : boolean; sG, OLl0a : integer; wrB, M4, r, fI10a, y0vaa : boolean; o4 : boolean array returns boolean array T7 : boolean; K : boolean; CZ60a : boolean; Z : boolean; f2aa : boolean; chillax end main : chillax end

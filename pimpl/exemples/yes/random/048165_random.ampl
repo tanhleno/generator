@@ -1,0 +1,1 @@
+program d70 : c2Zaa : takes C : boolean returns nothing L, k : boolean array; J : boolean; m6 : boolean; let jk = array(133) and 9900 or 41 end main : while 5 : do x(- 21800 <= 4, 73); let X = 1; while 43 : pop end; input i; output "v"; pop end; while(44900) : chillax end; let t5[2 or 3] = - 71; when case - 55 : pop end; let A = 5 end

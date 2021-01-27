@@ -1,0 +1,1 @@
+program O : A : takes v : boolean returns nothing chillax end s28 : takes t4 : integer; W, F6 : integer; I12 : boolean array; h, s, p8, j : integer array returns integer let fo[17] = array 4 end y3v : takes M8Eaa, T : integer array returns integer chillax end main : chillax end

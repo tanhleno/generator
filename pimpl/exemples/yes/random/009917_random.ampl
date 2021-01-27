@@ -1,0 +1,1 @@
+program k7 : ri : takes T, w, W6C : boolean array; P_R0, lcE : integer array returns boolean h, Z, U, nX, x : boolean array; when case - not 32700 and 19 : while 37 : pop end; input r92aa end case 0 > 8 : chillax end case 0 : chillax end otherwise : when case 950 : chillax end; let w = 487 end end main : b2P, F, RGR0a, P6, xut, iMy, x : integer array; input RnR; pop end

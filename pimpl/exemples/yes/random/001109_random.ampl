@@ -1,0 +1,1 @@
+program z4 : f860 : takes S, c2, G, W28a, C, HYj0a : boolean; Y, R, p : integer returns integer array while false and 44 + 117 - 8 : chillax end end main : input z2waa[- not true and not false or 862 * not 0 and 0]; pop - (74500) and 1 < 703 - 94900 end

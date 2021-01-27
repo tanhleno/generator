@@ -1,0 +1,1 @@
+program R : _ : takes Q : boolean array; Y4 : integer array returns boolean array qK, m : boolean array; V, F, s4Iaa : integer array; let w[- 3 - 3] = - 61 end main : bA : integer; do S(9 + false and not 66 + true and 0 or 18, Ua(2) and 5 = - true) end

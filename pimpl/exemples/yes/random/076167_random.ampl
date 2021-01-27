@@ -1,0 +1,1 @@
+program Iw : main : x1, a4_0 : integer; U, n : integer; input v54aa; when case(4290) * eE and 7 - not 14 : while 091 : chillax end end case J1 and 379 >= - 7 : output 9; when case 7 : chillax end; while 6 : chillax end; pop end; when case - true and 1 : input U; output "" end; output 93 = 0; while 1 : chillax end end

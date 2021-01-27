@@ -1,0 +1,1 @@
+program a : N : takes G : integer returns integer array chillax end C : takes S, _vo, s : integer; b : boolean array; R, xX7aa : integer array; O, LK : boolean array returns nothing p : boolean array; W0F, Wc : integer; chillax end main : i1T : integer array; g39 : boolean array; E7y0 : boolean array; pop; do aL8(- (402) and false - not 0 + 1 - 4) end

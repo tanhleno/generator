@@ -1,0 +1,1 @@
+program W : rh4 : takes F0 : integer array; I : boolean array; qG3aa : integer returns integer p : integer; output "" end main : U1, K6 : integer; W, Xn : boolean; let U[(5 = 64600) / 3 rem true and 8] = - not true * true and 28 - false >= - i9 - 1 - 67; input Lb; output - 50 - 998 end

@@ -1,0 +1,1 @@
+program e : G2l : takes Q, c : boolean array; H, z4_ : integer; sA : boolean array; G08, Y : boolean array; k, C : boolean array returns boolean T1, R : integer array; pop - 80400 - 81; input D[48 - 9]; pop 3; input D end main : chillax end

@@ -1,0 +1,1 @@
+program u : Zgw : takes m4k : boolean returns boolean _, JANaa : integer; let C[- not 7 and 1] = 62400 - 0440 = 5; let Z5[49 - 5] = 0; pop 10 end C : takes j66, Q, a6, q7 : boolean array; N_9aa : boolean array returns nothing chillax end main : chillax end

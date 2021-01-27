@@ -1,0 +1,1 @@
+program l : u81 : takes e9w : integer array returns nothing UV : integer array; F : integer; f : integer; chillax end h : takes z, w6w0 : boolean; p, G, C7 : integer; H : boolean returns integer output "" . 6 . 3 . "" end main : Im, e, S : boolean; R4c : integer array; r5s0a, G89aa : integer; chillax end

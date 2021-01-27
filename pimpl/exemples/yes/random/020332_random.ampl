@@ -1,0 +1,1 @@
+program F : sY4 : takes at, OX80a : boolean array; p : integer; Dc0a : boolean returns nothing E : integer array; v : boolean; b, w, gI : boolean array; while v - 5 : while 0 : chillax end; when case 3 : chillax end end; do g(- 07 - 85600, 687 = 4); input X[6]; while 4 : chillax end end main : U : boolean; y1, iS7a : boolean array; chillax end

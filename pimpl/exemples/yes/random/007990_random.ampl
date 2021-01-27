@@ -1,0 +1,1 @@
+program D : U : takes m, Rn, G, E : integer returns boolean V : boolean; chillax end d48 : takes o26aa, V : integer; Q72aa, o : integer; S8, M : integer array returns nothing SPC, x, qM : boolean array; C, U : boolean; output "" end main : chillax end

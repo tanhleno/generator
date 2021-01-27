@@ -1,0 +1,1 @@
+program PI4 : A : takes i : boolean array; f : boolean array returns nothing output "o" end k4 : takes zIda : boolean array returns boolean array pop 97100 = 818 end Qk : takes R : boolean array; L6U, kS, s : integer returns boolean while 08 : input B; pop end end main : chillax end

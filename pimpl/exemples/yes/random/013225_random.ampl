@@ -1,0 +1,1 @@
+program BE : e : takes t91, H9v0a, k2Y : integer; h : boolean array returns integer array j, Ev4aa, h, Kd, h : integer array; Z3, J5 : boolean array; let T09 = - 3 < 6140; when case 7 - 554 <= 01 : do z(8); pop; pop end otherwise : chillax end; let g58 = 4; let luvaa = array 219 end main : chillax end

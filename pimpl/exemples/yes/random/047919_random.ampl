@@ -1,0 +1,1 @@
+program q6r : mN5a : takes X : boolean returns nothing LgI, V, S, c : boolean; output "" . "8" . "" end main : F : boolean array; pop - false / not 74 > 2 or 7910 - 5; input o[- true or 387 or 84 - 48] end

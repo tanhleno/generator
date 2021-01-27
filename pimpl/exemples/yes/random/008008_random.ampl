@@ -1,0 +1,1 @@
+program z : Y : takes RA7aa, Y, aq, K5 : integer returns boolean output - 4 - 946 . "" . 7860 . "\nD" . ""; do V(- 96 < 00400) end y : takes aN : boolean array; o : boolean; hjD0 : integer array returns nothing pop; when case 63 : output "5" end end main : chillax end

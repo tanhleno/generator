@@ -1,0 +1,1 @@
+program X : main : W, j4 : integer array; n : boolean array; Q, T, a : boolean array; O000a : integer array; n : boolean array; do Wfw0a((3 = 2) and(07) and 66 <= 8760 / (0) and 03); input T1[- (18) rem 1870 and 0 - false and 0] end

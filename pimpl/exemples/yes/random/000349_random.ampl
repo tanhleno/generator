@@ -1,0 +1,1 @@
+program I : lJe0 : takes D, Fx, H, Qm, p, b, Ru, H : integer; p : integer; Uf, x0, E : integer returns nothing chillax end z : takes N, PL : boolean array; aI, F : integer array; RKU : boolean; M : integer array returns integer do W_(7 - 46 < 6) end main : let H = array not i[078] rem I[16] * true - not(54); pop end

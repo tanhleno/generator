@@ -1,0 +1,1 @@
+program E : e4 : takes K : integer returns boolean output ""; pop 2 end U0 : takes G090, we : integer returns boolean array t4n : boolean array; K16, K, m : boolean; output 7 = 41; when case 809 = 2 : chillax end otherwise : chillax end end main : chillax end

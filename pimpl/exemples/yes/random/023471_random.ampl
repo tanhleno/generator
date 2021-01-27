@@ -1,0 +1,1 @@
+program w : c : takes i, RY : boolean returns integer array i, r, q : integer array; v4 : boolean; EH8 : integer array; k6, g4 : boolean; input R19a; while - 67 : chillax end end main : let QX = - not i620a and 80 and 15 = - false end

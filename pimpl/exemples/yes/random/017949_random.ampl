@@ -1,0 +1,1 @@
+program t : q1 : takes O5i, k : boolean; Tx8aa : boolean array returns nothing v : integer array; k, A8 : integer array; input A9 end main : Qe, X6m, _J, k, X, j3, Z4 : boolean; while - not 524 rem false : output "25a" . 69500 . "{"; pop 7 end end

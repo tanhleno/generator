@@ -1,0 +1,1 @@
+program H : F0H : takes l, V, f80, s, S, T, i : integer array; L : boolean array; K : integer array; X : boolean returns boolean array G, q : integer; RN : integer; s : integer; chillax end main : pop; input n0; do I(- X and 6 + 508 - 38, 2 - 8 /= 0, 5 = 1) end

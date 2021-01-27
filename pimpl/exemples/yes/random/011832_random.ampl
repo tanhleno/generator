@@ -1,0 +1,1 @@
+program Q2 : m : takes P9, GM, b : boolean returns integer array w4 : integer; chillax end main : input h3[- (249 = 650) and not 7 + (9) + not 80600 and 5]; let H = array - true rem not 6 and 1; when case - S and 9 : chillax end case 9 >= 7 : output "!G" end end

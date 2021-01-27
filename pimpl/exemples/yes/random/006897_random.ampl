@@ -1,0 +1,1 @@
+program h88 : z : takes tM, S, e, n8 : integer array; A, u1, Y : boolean array; U, e : integer array returns nothing o : boolean; when case - G = 897 - 2 : output 57 end case 5 - 9 : chillax end otherwise : let K1 = 2 end end main : input R end

@@ -1,0 +1,1 @@
+program ij4 : i : takes za : integer array returns integer chillax end aI : takes i, LU, s, W, K70, Yy : integer returns boolean while 01 : chillax end; while 1 : chillax end end main : X0na : integer array; pop - 991 rem not 75 and 4; input H[- false and false and 6] end

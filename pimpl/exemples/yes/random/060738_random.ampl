@@ -1,0 +1,1 @@
+program H : L : takes k5 : integer array returns nothing n : boolean; do os(- sYZ and 66); let ApZ[- 12 - 06] = array - 1 - 1 end v : takes aR : integer array; U, Y, b21, T9F : integer array returns nothing input C; when case 972 = 0 : chillax end end main : chillax end

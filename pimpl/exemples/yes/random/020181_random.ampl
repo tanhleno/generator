@@ -1,0 +1,1 @@
+program HX : hH : takes Rf, e : boolean array; g2 : boolean returns nothing chillax end main : while - L or true rem 47 - false or 98 - 41 : input _92aa[- 97] end; let m = - h5 < 02 - 41; when case(863) + 0 - 0 : chillax end end

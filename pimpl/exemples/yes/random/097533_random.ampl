@@ -1,0 +1,1 @@
+program R : main : when case true * V(91) >= false - true and 7 - 785 : do f(- 5 - 1 >= 878, 7, 4680) end case - true or false or 9 : input r[093] end case 46 <= 8 - 186 : chillax end otherwise : while 516 = 3 : chillax end end end

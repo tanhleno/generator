@@ -1,0 +1,1 @@
+program JS : I31 : takes C, r, F2, s, T : integer returns boolean array output "e" . "\\!" end main : FNJ0a, N8o0a, l, aBd : integer; A7 : integer array; f3, p : integer array; i22 : boolean array; u150a : boolean array; chillax end

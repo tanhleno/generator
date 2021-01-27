@@ -1,0 +1,1 @@
+program q_7 : EU : takes D : boolean array; wfd : integer returns boolean while - true and 3 : output "" . "\n"; input fv9 end; let q9 = 18; while 4 = 4 : input Q end end main : do L(20 or not false >= - F[6] - (4) and 4, - K3[1] / false or true > - true - 3); while - false and 6 and 4 : output 74 . 47 . "" end end

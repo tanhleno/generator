@@ -1,0 +1,1 @@
+program zdZa : Z : takes b : boolean returns integer array input j[not 513 and 49]; let BvC[- 1 - 83] = 4 end Ac : takes B7 : boolean; Q, rTD0a, HRz : integer; L : boolean returns boolean array Bx : integer array; ce : integer array; o4 : boolean; do o49a(3 >= 8, 67) end main : chillax end

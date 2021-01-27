@@ -1,0 +1,1 @@
+program G : g : takes W : boolean returns nothing W9, M : integer array; q : boolean array; Pb : integer array; x : boolean; h : boolean; chillax end A62a : takes u : integer array returns nothing g : integer array; w7w : boolean array; pop; pop 9 end main : pop k[6] * not 4 - (2) and 84 - 12 end

@@ -1,0 +1,1 @@
+program Y5s0 : main : while w[8790] / not C or true rem not 48 - C and 933 + 636 - 976 >= true - false + 3860 : let n87a[- 3] = array 3 - 50; when case 65 = 5 : chillax end end; when case - false and not 8 /= - a : chillax end case - (6) <= - 03 - 84 : input I[47700]; input P8y end case 0 : pop end; let H[- not 3 + 46 - 69] = 4 - 5 = 54 end

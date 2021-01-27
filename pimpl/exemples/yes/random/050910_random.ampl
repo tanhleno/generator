@@ -1,0 +1,1 @@
+program j5 : f__ : takes n : integer; n, A : integer; Z : integer array; R7C0a : boolean returns nothing x : boolean array; output "[$\"" . "s" . 8 . 9 . "!"; pop 83; when case 0 = 6 : do L(709); pop end end main : O, Qh9 : integer array; o : integer array; b : boolean; chillax end

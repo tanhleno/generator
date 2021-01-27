@@ -1,0 +1,1 @@
+program T : main : when case - not false and E5(3) - true : input ga40[37]; while 6 = 3 : while 398 : chillax end; pop end end case - false + 1150 and 5 : do bw(25, 7) end case true and 3 : do cs2(9, 3); input HkM0 end case - 34000 > 1 : chillax end end

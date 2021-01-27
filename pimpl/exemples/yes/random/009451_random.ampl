@@ -1,0 +1,1 @@
+program m2 : W : takes S, iz0, kc : boolean; w4 : integer returns integer array pop end main : when case - false = - false : chillax end case 733 : input J; when case 13800 : pop end; do _o(5) end otherwise : chillax end; while - (28) and true and 4 - not 6 and 7 - 27500 - 10500 : chillax end; do Wk(true and 6300 or 26 - 8 < - 15); let M = array - 0 - 351 end

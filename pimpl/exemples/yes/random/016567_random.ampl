@@ -1,0 +1,1 @@
+program v4b : l : takes V1v0, V, dZ8aa : integer returns nothing output "" . "\"\n"; pop 1 = 53; output 18700; output 68 . "ts"; while 8 : chillax end; pop end main : F, d0E, V : boolean array; chillax end

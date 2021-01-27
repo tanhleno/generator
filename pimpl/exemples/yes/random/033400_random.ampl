@@ -1,0 +1,1 @@
+program B1 : _ : takes Z : boolean; a04aa, n, x, W, t5 : integer; dl5 : integer returns nothing while not 1 : chillax end; let T090a[39 - 0] = 2; when case 72 : chillax end case 7 : chillax end; output 66; let B = 90500 end main : o4 : boolean; chillax end

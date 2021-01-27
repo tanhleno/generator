@@ -1,0 +1,1 @@
+program VmS : Y : takes _, Y : integer; RUi : integer; c : integer array returns nothing chillax end y : takes T, W, gg9aa : boolean returns integer array output 1 = 68 . 62 . 578 . "" end main : gt_, g : boolean; u : boolean array; do I(YW0, - S(9)) end

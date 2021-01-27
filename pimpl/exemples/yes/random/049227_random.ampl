@@ -1,0 +1,1 @@
+program G : H4p : takes J : boolean returns nothing while true and 8 : do s(8, 3); pop; while 9730 : chillax end; pop end end main : n : integer array; let MB[- true] = array - B - (3) - not 7 + 88 - 2 end

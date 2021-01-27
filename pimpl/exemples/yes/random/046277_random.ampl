@@ -1,0 +1,1 @@
+program Tmc : U : takes eF : boolean returns boolean x : integer array; k, z3, D : boolean; V, ED20 : integer; L, t330a : boolean; let U = - 54 - 8; let o[- 8] = 9 = 3; do qDOa(78 = 0, 89); do CI(18100, 58) end main : chillax end

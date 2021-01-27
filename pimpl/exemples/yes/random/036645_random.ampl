@@ -1,0 +1,1 @@
+program w : fZ : takes h9c : boolean; W : integer array; W6, nV, ft_0, VQ, Z7 : boolean returns nothing y, J : boolean array; z1, L7 : boolean; W, A, E : integer array; J8 : boolean; chillax end pEf0 : takes d3 : integer returns nothing K6 : boolean array; vN10a : integer; L5 : boolean; k1 : boolean; v : boolean; chillax end main : G, B : integer; chillax end

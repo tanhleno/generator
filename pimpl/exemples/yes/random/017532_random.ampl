@@ -1,0 +1,1 @@
+program S : nm : takes G, UZ : boolean; R, X : integer array returns nothing eL : boolean array; gXHa : boolean; R7 : integer array; chillax end zVS : takes w1 : integer returns integer array E, Ikm0a : boolean array; chillax end main : let K[not(6350) - not not 1680 or not 2320 or 141 - 0] = - 6 / false and 9 end

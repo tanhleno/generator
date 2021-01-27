@@ -1,0 +1,1 @@
+program OWIa : lt : takes e, N5, Z, d, QSJa, k : integer returns boolean S, ng, TR70a : integer array; a : integer; Qj0aa, V, p : integer; S, L2W0 : boolean; chillax end B : takes P8 : boolean array returns nothing mz9 : boolean; kz, C0i : integer array; s, X9l : boolean; chillax end main : r, G0O0a : boolean; chillax end

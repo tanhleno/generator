@@ -1,0 +1,1 @@
+program R92a : d : takes Wu5, XJ, G, g : boolean returns nothing Y2X : boolean array; chillax end main : do z(- not U[284] rem not(7) or 5 and false and 2 = - false * (50) and 2, - not y and not 3, - q36 and 13 + 99000) end

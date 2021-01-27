@@ -1,0 +1,1 @@
+program G4Jaa : u2 : takes tF5, jMMa, aO30 : integer; m4, Z, E, q0 : integer; s4 : boolean; LUl : integer returns nothing while(9) and 6 - 08 - 6 >= 55000 - 0 : input t[04] end end main : chillax end

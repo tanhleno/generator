@@ -1,0 +1,1 @@
+program QfKaa : main : h1 : integer array; qE, e, X, q : boolean array; input z; when case true and false and 8 or(0) - 2 - 18100 : when case 086 = 964 : chillax end case 0 : chillax end otherwise : pop end end case 57000 and 6 : chillax end otherwise : chillax end; input X8[q4z] end

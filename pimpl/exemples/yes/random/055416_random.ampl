@@ -1,0 +1,1 @@
+program fG3aa : k : takes U2 : integer array; W, k7 : integer returns nothing z : boolean; chillax end c21 : takes L1, p : boolean; X, E2, B67aa : boolean array; CV : boolean array returns nothing L, c, _ : boolean array; G, T, a__ : integer; output "" . 3500 end main : output "g" end

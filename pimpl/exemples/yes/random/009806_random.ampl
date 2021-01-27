@@ -1,0 +1,1 @@
+program zW : h3 : takes d, N, a0ma : boolean array; Ma, huFa : boolean array returns nothing let i[- l and 2970 - 69] = array - true; output "\t"; input w4Z0a; let F = array 34400; while 75 : chillax end end main : xN : boolean array; chillax end

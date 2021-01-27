@@ -1,0 +1,1 @@
+program H9 : k : takes u, Z : boolean array; q, M, P8Y : boolean; U, eN50, w : boolean; u1 : integer array; S7, X, S : integer; A : boolean; P : boolean; r : boolean returns nothing C8, T4, c340 : boolean; u77 : boolean; pop 71 >= 3780; output "s" end main : chillax end

@@ -1,0 +1,1 @@
+program G : k7Iaa : takes Ca : integer array; C : boolean array; o : integer array; a : integer returns nothing P31 : integer array; when case - true and 866 - 1 - 54900 : chillax end otherwise : chillax end end main : let C54 = array H5x(20) / not 300 / S + not(5) end

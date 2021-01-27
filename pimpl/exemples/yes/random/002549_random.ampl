@@ -1,0 +1,1 @@
+program P19aa : U : takes U, m, U, k, A : boolean array; sx1 : boolean array returns integer while 46 and 6 or 57800 - 8 : chillax end end main : L, P : integer; B : boolean array; z, et6aa : boolean; when case - S rem false * not 6 : chillax end otherwise : chillax end end

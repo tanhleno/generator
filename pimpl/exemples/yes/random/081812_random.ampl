@@ -1,0 +1,1 @@
+program jv : main : i05 : boolean array; i : boolean array; output - false /= - 81 and 4; output(6) - 49 - 9150; when case - not 2 and 9 >= - 6 : do E(0, 0); let jK = 62; pop; pop end; let l6Faa = array 019 end

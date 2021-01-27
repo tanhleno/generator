@@ -1,0 +1,1 @@
+program S : w : takes F9g : boolean array returns integer array n, c0, T, B, F : integer array; i, p5 : boolean array; do C(- (4) and 70 - 4, - 280 /= 5000); output 91; pop; do _H(0, 9); when case 8 : chillax end; let rZz = 3; pop end main : A, m : boolean array; Iy9, Em, r, G_9aa, E5 : boolean array; chillax end

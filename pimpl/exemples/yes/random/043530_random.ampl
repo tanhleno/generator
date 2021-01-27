@@ -1,0 +1,1 @@
+program YV : D : takes mO : boolean array returns nothing chillax end Me9a : takes wOla, K : integer array returns nothing S : integer; x : boolean; L, m9 : boolean; output 1 = 47900 end U : takes Nk, V3, et, Z5 : boolean array returns nothing while 7 : when case 7 : chillax end end; when case 1 : pop end case 0 : chillax end; let Q = 91300; input F; pop end main : chillax end

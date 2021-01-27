@@ -1,0 +1,1 @@
+program y68 : E : takes Z, w : boolean; z : integer; k0, A, B07, V : integer; Ar, H : integer array returns boolean input b[- false and 2 + 44 - 0]; while 4 - 21 = 234 : input K end; when case 31 = 8 : pop; pop end otherwise : pop end; input bu[2]; pop end main : do hq(not true < - false + (1) and 6, true * true + (3), J = - 0, - 161 - 503, 1); pop; input Y[- q4f or 5] end

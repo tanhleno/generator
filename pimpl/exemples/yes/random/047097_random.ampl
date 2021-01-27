@@ -1,0 +1,1 @@
+program V15 : E8 : takes I0n : boolean returns integer K_, o6 : boolean array; pop end main : n740 : boolean; do vt3(true and not 50); do I((3) = - 9 and 96600, - (2080) or 2 <= 3 - 36); do s(- (3010) and 07 <= 61900 - 71000); do J(- 91 - 7 > 05) end

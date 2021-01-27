@@ -1,0 +1,1 @@
+program Hy3 : i : takes W : boolean array returns nothing Rme, y30, W, H, rF : boolean array; let v = - 08300 - 3 > 57 end Kd6 : takes b, e : boolean array returns nothing when case 18 : when case 6 : chillax end; pop; pop end otherwise : chillax end end main : chillax end

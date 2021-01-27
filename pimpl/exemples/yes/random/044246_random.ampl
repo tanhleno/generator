@@ -1,0 +1,1 @@
+program A : M : takes x79 : boolean array returns nothing p5B0, C : boolean array; k7, XDu, T : boolean array; input r; do DV8(- 76500 - 79 < 880) end main : Yf : integer; l, X, HX, P, GC : integer; chillax end

@@ -1,0 +1,1 @@
+program B : main : while - true and X[4] and M7 and 72 or true rem l8T and 4 > - true - false - 156 : chillax end; output "" . "}30a" . "" . 9810; let mf7a[124] = array not 4 - 79; do b8(- 4 <= 19, 36 = 816); do Q(5 = 9) end

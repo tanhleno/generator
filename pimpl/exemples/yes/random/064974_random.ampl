@@ -1,0 +1,1 @@
+program Z : u7 : takes N : integer returns nothing GUC : integer; MF5 : boolean; let Nu = array - P7 or 76 - 4 end main : O : boolean array; a92a : integer array; F, Q : integer; X9 : integer array; M : integer array; input w end

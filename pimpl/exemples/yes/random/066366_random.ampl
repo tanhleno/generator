@@ -1,0 +1,1 @@
+program h54aa : main : do a4(- e and false + true + (915) and 192 or 9 - 2, 0, P and 1850 <= 76 - 40400); let gx[true] = not 2 and 2320 + 8; do oYR(d9, 7 - 4 >= 0090); let _[- 8870 - 6] = 1; let S[9] = 98; output 90 . ""; output "" end

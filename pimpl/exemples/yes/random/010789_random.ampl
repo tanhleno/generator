@@ -1,0 +1,1 @@
+program p9 : x : takes z, q56a, P0 : boolean array returns integer array chillax end D470 : takes O0 : integer array; _J8 : boolean; x : integer array returns nothing output 0 = 50 . 7 . 5 . "9aaa" end main : r, l : boolean array; let V[3 / not I2] = q[484]; do _(52100 / not 75 = - true) end

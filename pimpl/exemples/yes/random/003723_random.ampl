@@ -1,0 +1,1 @@
+program s : G : takes GgA, i, O, wre0, Q4 : integer array returns integer array chillax end main : S7 : integer; Nm, R0, v, s6x : boolean; A, a : integer; z : boolean; let b[- 2 * not false + (3) + (60) and 295 - 98 - 8] = array - true end

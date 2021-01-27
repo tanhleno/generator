@@ -1,0 +1,1 @@
+program n8jaa : a : takes _600, BS : boolean; jfG0a, s, tm, s, l, g, Sg3 : integer array returns integer c, w3, J, k : integer; y : boolean array; tt, sq : integer array; X1 : boolean; A8 : boolean; MMF : boolean; output "4" end main : chillax end

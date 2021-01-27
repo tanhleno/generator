@@ -1,0 +1,1 @@
+program L66 : a : takes E9l0a, C, D5R : boolean array; p, hv : integer array; l87 : boolean returns integer z, x, V, nxu : integer; LV0 : integer; input D[- (54)] end main : let T[(47)] = array is rem false and(90) and 326 - 7 * true or 5; let n[- true + true - 7] = array - true + not 62 and 37; let I6g[- (8)] = array - 4 - 1 end

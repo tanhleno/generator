@@ -1,0 +1,1 @@
+program X : o07 : takes X : integer returns integer n3, d, t : integer array; let xd = - 4 >= 0 end main : uLP, o, jW, r, A5, jS : integer; U, n, x, q4 : boolean array; u : boolean; t : integer; l : integer; c9 : boolean; chillax end

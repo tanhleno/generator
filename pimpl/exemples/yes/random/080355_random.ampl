@@ -1,0 +1,1 @@
+program E : main : nC : boolean; when case - Di(09) : while - 49500 - 82 : when case 4 : chillax end; pop end; while 0 = 11 : do Umi0(5); pop end; while 3 : pop end end case(4) >= (1) and 6 + 8 : pop 1590 end case OI : while 610 : pop end; when case 0 : chillax end; output "["; pop end otherwise : chillax end; while B : chillax end end

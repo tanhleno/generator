@@ -1,0 +1,1 @@
+program k8q0a : jV : takes A, w : integer returns boolean array input rv[- (3) and 9]; while 60 - 9 < 79100 : output "" end end B : takes g, j, B0, lz, R : boolean; W : integer; Z : boolean array returns boolean array chillax end main : x, Q : integer array; W9 : integer array; let u[- false] = array not j(769) + not false rem false end

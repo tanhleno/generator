@@ -1,0 +1,1 @@
+program O : V110a : takes nX60 : boolean array; b : integer array returns boolean array jLL, D, SJ : integer array; D, h9, Efg0 : boolean array; input f[(2) and 92 - 1200]; let o = 5 end main : chillax end

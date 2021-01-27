@@ -1,0 +1,1 @@
+program w2g0 : Z0 : takes As, n, mFr0a : integer array returns boolean array let A = 319 end k : takes cbN, Z, dNw0 : integer array returns nothing m, bK : boolean array; H : integer array; when case - 62 : do l(2); do L(6) end; pop; do cX(8, 48); when case 20 : chillax end end main : n : boolean; Va00 : boolean array; chillax end

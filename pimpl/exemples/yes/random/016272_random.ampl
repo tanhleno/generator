@@ -1,0 +1,1 @@
+program D2 : d : takes j, A4, i2I0 : integer returns nothing do GV(82 and 8 or 5 - 7 /= 2, - 55 - 48900 < 586, 9); do zoW(7 <= 0) end W9q : takes VL, Sr, c6, w, e, g, Y : integer returns boolean A, qm, kM0aa : boolean; chillax end main : qM : integer array; chillax end

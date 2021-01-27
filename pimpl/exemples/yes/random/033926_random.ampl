@@ -1,0 +1,1 @@
+program u : L : takes B4 : boolean; AP, R9, tx9a : boolean returns integer array while(7) and 6 + 3 >= - 16 - 1 : chillax end; when case 6 - 1 = 1970 : chillax end end main : b6Q0a : integer array; p : integer; chillax end

@@ -1,0 +1,1 @@
+program Q0 : x0 : takes qP30a : boolean array; B4w0a : boolean; Z4oaa, zr : integer array; fB, p : boolean array returns nothing REpaa, du8, IEs : boolean array; chillax end main : IZ, sRo0a : boolean; chillax end

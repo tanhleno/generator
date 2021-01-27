@@ -1,0 +1,1 @@
+program Q6 : main : x, r, t : boolean array; pop 6 / (53) and 10 - nEI0 or 6 - 1 >= - (05) - 051; while - (2) - not 7 and 257 or 2 > - not 4 : output "~" . 9 . "" end; pop - 8770 <= 61; pop 07; when case 54 : chillax end case 8 : pop end end

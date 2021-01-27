@@ -1,0 +1,1 @@
+program e97 : c : takes a, q : integer array; Mik : integer returns nothing A15a, j, e, j, vn : boolean array; Z95 : boolean array; nN : integer; chillax end x3naa : takes z, b : integer array returns nothing output ""; let I9[46] = 4 end y : takes d780a : boolean returns boolean array output 76 . ""; let F0 = 4170; pop; output ""; pop end main : E, e : integer; chillax end

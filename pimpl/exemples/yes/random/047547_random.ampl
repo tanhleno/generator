@@ -1,0 +1,1 @@
+program W : q6 : takes mL7 : boolean returns nothing chillax end g : takes b : boolean returns nothing XNiaa, A, uU4, K : boolean; S, H, zlh0 : boolean; pop end main : p, sK, d, kY, F : integer; r14a : integer; when case - not 0680 * not not 682 : chillax end otherwise : let V[36] = 2860 end end

@@ -1,0 +1,1 @@
+program T : main : Q3G, k, P, H, p, l4, IF : boolean array; u22, F5, d, A, p9, J : boolean array; s : boolean array; r, c1H0 : integer array; do a7(- (464) / X45aa[4] rem not 4 and 9 >= A44aa(486) or false, - true rem not 72500 < - false and 0); do A0(- (0) / 8 /= - Q, - false >= - 4, - 925 - 04600 /= 0); let SF[- 351 and 2] = array true end

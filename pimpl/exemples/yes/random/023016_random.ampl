@@ -1,0 +1,1 @@
+program O0G : v : takes T6p, c : boolean returns boolean array r : integer; chillax end main : input cw; input YN; do Y7_a(- not 0 and 2 or 4 - 91 > 9 - 93); output 2 = 67 . "" . "f" . "\""; when case 197 = 89 : chillax end otherwise : pop end; when case 2 : chillax end otherwise : chillax end end

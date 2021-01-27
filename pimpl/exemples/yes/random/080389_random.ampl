@@ -1,0 +1,1 @@
+program sR40a : main : L9 : boolean; when case - 4 or not not 2 - true - 5 - 1 < 811 and 3 - true and 6 or 57 - 370 : while - 5 = 7930 : pop; let Ov = 51; pop end; pop end case true and 03800 and 1 /= - (7) and 2 + 06 : chillax end; output "" . "\n"; output "$Paa" . "'Q"; input k[6 - 6] end

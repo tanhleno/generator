@@ -1,0 +1,1 @@
+program Ej0a : main : H : integer array; ub : integer array; r : boolean array; O2D : integer; let V[false * false] = array(261 = 1050); let Q1[- false / 280 and 20 or(8) and 3] = Rl and 3230 + 00 - 20 > 15 - 348 end

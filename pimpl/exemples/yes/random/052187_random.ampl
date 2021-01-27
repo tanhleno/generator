@@ -1,0 +1,1 @@
+program P : I : takes w5 : integer; C : boolean returns integer array chillax end main : yu, Z : boolean; D, W : integer; Z7, h3, v : boolean array; output "p" . - (3) and 3 + 5 - 899 . ""; when case - false / 4 : chillax end case oF and 1 - 9 - 7 = - 0 : when case 0 : chillax end otherwise : chillax end end otherwise : chillax end end

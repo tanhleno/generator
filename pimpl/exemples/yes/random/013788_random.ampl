@@ -1,0 +1,1 @@
+program O1a : H : takes S, I430a, VU0 : integer array; ho, nn80a, I950a : boolean array returns integer i : boolean array; j, G3 : integer array; i, D : integer; chillax end ED : takes T, S : boolean returns nothing chillax end main : output - true + hW + 96500 - 339 > not 57 end

@@ -1,0 +1,1 @@
+program j : d2 : takes Il1 : integer array returns nothing Q5 : boolean; r5 : boolean array; dC : integer; F360, f91 : boolean; Xw6a : boolean; chillax end main : MX6aa : integer array; while - not true * pA[6] - l[0] : chillax end; while - (92) or false and 5 or 33 > - t8 and 5 : output "" . ""; output "" . "" end; input LRHaa end

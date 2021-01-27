@@ -1,0 +1,1 @@
+program pX3 : main : when case - (7) * (2) : do i2(21 - 4 > 2) end otherwise : chillax end; when case O7(3) rem 63600 or not 8 and 24 + 5 - 2 <= not 8 and 5 - 15 : chillax end; input rI[(61) and 93]; output ""; output 9 . "56a"; when case 1 : chillax end case 9 : chillax end otherwise : chillax end; do w1(71200); when case 9 : chillax end; pop end

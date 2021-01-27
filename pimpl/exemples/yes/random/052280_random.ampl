@@ -1,0 +1,1 @@
+program Mn : G : takes G : integer; Z : boolean returns nothing Do6aa, k72, l, v : boolean array; L, Y : boolean array; K, L, d6 : boolean array; chillax end main : T0q0, Z : boolean; output ""; do Rf(mh[2] + false + 8 - 8 < (1790) and 7, - false and 4 - 76 - 9, - 26 > 83, 6, 3, 9) end

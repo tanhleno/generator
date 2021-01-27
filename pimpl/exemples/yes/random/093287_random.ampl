@@ -1,0 +1,1 @@
+program L : main : output "" . "3"; when case - true < not 88 and 1 : when case 10 = 9120 : chillax end case 14 : pop end case 285 : chillax end end case - not 8 and 7 + 2 : chillax end case - 33 > 41600 : when case 4 : chillax end; input t8 end case 064 = 6 : chillax end case 1 : pop end case 3 : chillax end end

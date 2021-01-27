@@ -1,0 +1,1 @@
+program x : w : takes M, yc : boolean; n7 : boolean array returns boolean array _ : boolean; Zb : boolean; o, JI1, r5 : boolean; T5 : boolean; w : boolean; G_ : boolean; chillax end main : let B = array 7 end

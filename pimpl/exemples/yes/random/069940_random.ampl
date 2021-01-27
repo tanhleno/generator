@@ -1,0 +1,1 @@
+program F6xa : main : YT4, RG, TO6a, O : boolean array; X15aa : integer array; S : integer array; pa, M, da, c : integer array; T, y1saa, WD : integer; when case true - true / false >= - Fx or(7) or 1 - 9 : input Kb[- 0 - 47]; let a[0] = array 1 end otherwise : chillax end; output "4qa" end

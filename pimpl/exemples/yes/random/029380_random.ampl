@@ -1,0 +1,1 @@
+program b1i : e : takes TW, Y60a : integer array returns boolean array n : integer array; g83a, U1, h : boolean array; do bYka(98 and 77, - 4) end main : output - not q * not 02 - (81500) and 6 - 8 /= 74900 . - D or 6 - 1 . "4b" . "0?"; when case c(0) / F7a and 928 - v and 63400 or 5600 - 3 : output "" . 7 . "i$" end end

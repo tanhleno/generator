@@ -1,0 +1,1 @@
+program B7 : Oh : takes c, I14 : integer; r : boolean array; Q1 : boolean returns nothing do c(- lT <= - 326 - 6, - 8 - 0 < 53, 4 = 5); output "7^"; output "\nt" . "%" . "\n0" end main : pt : boolean; ufF0a, f : integer; U0a, t : boolean; m, DV, dtO : boolean array; chillax end

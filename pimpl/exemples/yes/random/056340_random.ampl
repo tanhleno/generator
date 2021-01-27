@@ -1,0 +1,1 @@
+program l14 : Ce : takes w : integer array; h4G : boolean returns integer chillax end g : takes P, e, h, Y : boolean returns nothing chillax end main : when case - false * true : output "" end otherwise : while 2 = 94 : chillax end; output 7; pop; when case 336 : chillax end end end

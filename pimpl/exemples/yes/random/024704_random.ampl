@@ -1,0 +1,1 @@
+program OU : K5r0 : takes S43, rX : boolean returns nothing let x = - 9 end main : a3, q : boolean; s, Q : integer array; while - v and false : let W7B0a[- 2] = 59000 = 6; do QM(1 = 0, 229, 1); do m(68) end end

@@ -1,0 +1,1 @@
+program CYT : G : takes ah40a : integer array; C1h : boolean returns integer array SA_0 : boolean array; chillax end xB : takes J : integer array; R960 : integer array returns nothing wt60a, l : integer; j4, D7, H6 : integer array; chillax end main : Ic9 : integer; output(65) * not 1460 . - true /= - 90 - 05 . "" end

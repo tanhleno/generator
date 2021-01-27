@@ -1,0 +1,1 @@
+program B : D : takes wS, Ya : boolean array; o04, y : boolean returns boolean array chillax end q : takes j : integer array; j4 : integer; n, Rui, t730a, e0 : boolean array returns nothing chillax end main : while k(9) / false and false : pop; do v(4) end end

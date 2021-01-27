@@ -1,0 +1,1 @@
+program y0 : main : F, t, li2, N : boolean; D, T, o3_aa, VpV0a : boolean; n : boolean; p89a, JCbaa : integer; V8 : boolean array; input A[s(1) and g9]; let kY[- not 6] = array - false and not 327 and 7; let d71 = 6 - 3990; input FF[4]; let QUe = 09500; while 93 : chillax end end

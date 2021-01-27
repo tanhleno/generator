@@ -1,0 +1,1 @@
+program z : Y : takes x4 : integer array; S : integer; P : integer; O2L : integer returns nothing H : boolean; SQR, Uy90a, D, a : boolean array; when case - false + 05000 = 41 : pop end end Z : takes X, T : integer array; wdE0a : integer array returns nothing C : boolean array; eF : boolean array; jI, d : boolean; R3 : boolean; chillax end main : l0 : boolean array; chillax end

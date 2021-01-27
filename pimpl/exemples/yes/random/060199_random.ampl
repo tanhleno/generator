@@ -1,0 +1,1 @@
+program tI : I : takes M : integer array returns nothing gRuaa, A, S, z, Mn : boolean array; chillax end main : Y, b, v06, RA9aa, Qd, h, LJRaa : boolean; while - not true and not(4) : input G4s[078 - 98]; while 9 : pop end end; let W[(56200) + true] = - 5 /= 65; when case 61 and 4 : input s[2] end case 75 - 69 = 7 : pop end case 7 = 3 : chillax end end

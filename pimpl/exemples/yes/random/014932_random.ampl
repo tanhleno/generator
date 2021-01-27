@@ -1,0 +1,1 @@
+program Z56aa : K8 : takes ha, r70a, eM : integer array returns integer array L_M0a, K : boolean array; G, x : integer array; let sO[- (7) and 69] = - 2 - 42 > 6 end main : pop - 1 / not 3 and 270 - 9420 or 5; output "@" . "" . 6690 = 5 end

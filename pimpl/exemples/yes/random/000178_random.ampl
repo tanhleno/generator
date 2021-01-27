@@ -1,0 +1,1 @@
+program F : Qr : takes c0e0a, s, i3, A, CeB, s, Z, G : boolean array returns integer array x : integer array; Or, RZ : boolean; chillax end u : takes X : boolean array returns nothing Br : integer; o : boolean; M, AUJ : boolean; chillax end main : s, w, Wu8 : boolean array; chillax end

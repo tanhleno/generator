@@ -1,0 +1,1 @@
+program F5 : A : takes d33, i : integer; xb : integer array; S : integer array returns integer array chillax end f4pa : takes m0, G4 : boolean array; P : boolean; r_50 : boolean array returns nothing let R[- 1] = 0 end main : o2Daa : integer array; chillax end

@@ -1,0 +1,1 @@
+program k2L0a : main : while - false rem(70) or(8) rem C370a and 955 or false and 2 + 03 - 2100 >= - true / true and 5640 + V4 + 77 : while - 56 <= 886 : chillax end; output ""; when case 34100 : pop end case 7 : chillax end otherwise : chillax end end end

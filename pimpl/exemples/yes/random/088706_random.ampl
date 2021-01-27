@@ -1,0 +1,1 @@
+program p : main : input qK8aa[- not 23500 / true and(1) + 241 rem(8) or not 727 or 7 - 51]; when case - false / 0 and 3 <= false : chillax end case - not 2 and 8 = 1 - 07 : let uM30[336] = array 9; when case 57 : chillax end end case - 941 : chillax end case 1 = 0 : chillax end case 2 : pop end case 3 : chillax end end

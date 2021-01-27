@@ -1,0 +1,1 @@
+program m3 : cUA0 : takes R : integer returns boolean array b : boolean array; chillax end k : takes M8 : boolean returns boolean v1j, x3Da : boolean array; UZf, f, t : integer; chillax end main : do W(- 8 - not true) end

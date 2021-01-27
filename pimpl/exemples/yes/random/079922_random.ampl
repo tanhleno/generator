@@ -1,0 +1,1 @@
+program i : main : H6 : boolean; let K = - false / x5 and 80; pop; let aeYa = array - true; pop 12; while 59 : chillax end; when case 9 : chillax end otherwise : chillax end; output ""; input J5Kaa end

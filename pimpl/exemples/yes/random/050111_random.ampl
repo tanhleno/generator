@@ -1,0 +1,1 @@
+program WY : J : takes t : integer; r, eO, r : integer array; b : boolean; sB, Tpp0a : integer array returns nothing x : boolean array; chillax end D6c0 : takes z : boolean; c_6 : boolean returns integer array chillax end main : q8j, P, n : boolean; output - false / (18300) and 90 >= true and 5 end

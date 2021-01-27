@@ -1,0 +1,1 @@
+program Z : main : when case - not true rem 9 * true and 712 or not true / (90) and 45900 - (07) : when case 49400 - 3 <= 12 : chillax end case 2 = 08 : when case 3 : chillax end end case 7130 : chillax end otherwise : pop; pop end end otherwise : pop 76; do v9(9); pop end; output "" end

@@ -1,0 +1,1 @@
+program FRj0a : Q : takes D83 : integer array; E, Q : integer; qk, r7 : integer array returns integer Y3, q, Bn2 : boolean; Ty0a, JV, s : boolean; chillax end H : takes v6 : integer array returns boolean array o : boolean array; output 038 . 3 . "\\8" end main : chillax end

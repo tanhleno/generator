@@ -1,0 +1,1 @@
+program E : xD : takes S, mc2a, h : integer returns integer array chillax end I : takes k : boolean; T : boolean; u3 : integer array returns boolean B : boolean array; chillax end main : output 4 rem false + not 8 and 31 < 41 - 1 - 8 . - true and 431 <= - 2 - 216 . 6830 end

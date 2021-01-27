@@ -1,0 +1,1 @@
+program tb : main : while 8260 or sa(2) - (2) < - 52 rem false and 7 - false : input _6A0a[- 33000] end; do n3(true * (33) and 8 <= false + 8, true + 922 - 1990, 1 = 2, 7, 35200, 1310); output 38 - 7 . "S" end

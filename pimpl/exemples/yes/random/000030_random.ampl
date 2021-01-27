@@ -1,0 +1,1 @@
+program D1u : X : takes T, AA, ko, v64, Au, W, R, p : boolean; S, B : integer array returns integer input DZ; let E37 = 6 end main : let V[- i0(7080) and(165) - N * true or V700 and 5] = array not(265) - U2(605); output 38 and 27 - 74 < - 04 - 064; do g4(8, - 6, 7) end

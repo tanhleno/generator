@@ -1,0 +1,1 @@
+program nD : k0 : takes i2w : boolean; PI : boolean array; q, p0 : integer returns boolean array r, Vu : boolean; pop - 3530 - 15; pop 4; let Rt1a = 4; output "\t3" . "\t\"\"" end main : w, __ : boolean array; chillax end

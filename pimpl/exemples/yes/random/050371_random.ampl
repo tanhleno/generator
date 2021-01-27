@@ -1,0 +1,1 @@
+program be8 : wH : takes j : integer; Ol6aa, _ : boolean; x6 : boolean array; E, kW : integer; sl, r, C : boolean array; nX : boolean returns boolean hC, wth, y7, p310, T : boolean; pop - 8 >= 2; while 7 : chillax end end main : d : boolean array; chillax end

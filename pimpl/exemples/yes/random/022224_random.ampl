@@ -1,0 +1,1 @@
+program V : j : takes mc8, Ru : boolean array returns nothing O0, nX : boolean; chillax end d : takes dx0aa, YV, OL : integer array; A3 : boolean returns nothing O82 : integer; pop end main : pop false = - n and 16100; output "" . "2" . 0; do T(- 357 and 063 = 50); do g(10 >= 32) end

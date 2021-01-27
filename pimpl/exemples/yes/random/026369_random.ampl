@@ -1,0 +1,1 @@
+program TB : y5 : takes k, w : integer; Y6 : boolean returns boolean do pX3a(- i08 + 47 - 8, 4 - 4 >= 25) end main : t, h, K, hf : integer; input rVh0a[- 00 + 21 and 00 and 94 or true and 241]; let hx2 = - (79) or 93 <= 110 - 3; let m = array not 7 and 0 or 5 end

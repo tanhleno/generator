@@ -1,0 +1,1 @@
+program t3 : dJ : takes I3qaa : boolean array returns nothing chillax end E : takes H, X0 : boolean array returns nothing chillax end V : takes m, zc4, N : integer returns nothing chillax end main : i : boolean array; v : boolean array; E1 : integer array; j, v7 : boolean; chillax end

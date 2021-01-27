@@ -1,0 +1,1 @@
+program a : Z7 : takes S : integer array returns nothing kx : boolean array; F5ma : boolean; do oW(4 and 7) end main : when case - false * I9 / false and 25800 : output 6 = 6 . 2 . 70 end case true rem not 22 and 9 + false and 86 : when case 6320 : do O(35); pop end case 8 : chillax end; output 3730 end end

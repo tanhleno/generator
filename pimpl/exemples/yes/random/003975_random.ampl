@@ -1,0 +1,1 @@
+program F : d : takes t, c, _, n, Jw : integer returns boolean s3 : integer array; chillax end FIT : takes n : boolean; z : integer array; b : integer array; F6k, B4n, H : integer array returns nothing while - 2 : when case 1 : chillax end; let L = 5 end; input E8; while 8 : pop end; when case 09 : chillax end end main : output "" . (2) or 7 >= - 3 - 47 end

@@ -1,0 +1,1 @@
+program R8 : main : while - (1 = 4) - P + false or 01 - 4390 /= true + (088) : when case - 33300 : when case 368 : chillax end; while 6 : chillax end end case 7 : pop end end; while - false and true and 04 = - M and 84 : chillax end end

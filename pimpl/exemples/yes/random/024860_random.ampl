@@ -1,0 +1,1 @@
+program o5 : F230 : takes I, y : boolean returns nothing while - (9) and 3 > - 8920 : do u(2); let x = 6 end; input t2P end k : takes u5u : integer array returns integer array m220 : boolean; chillax end main : p, U97 : boolean; GL2 : integer array; OaBaa, s, k : boolean; OP : boolean array; chillax end

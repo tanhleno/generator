@@ -1,0 +1,1 @@
+program s_ : pB : takes H : integer array returns nothing POJ0a, y, QU : boolean; output - 17 - 84 . 2 = 8 . "B" . 9; pop 0; while 32 : chillax end; let i = array 29 end Ex : takes j8 : integer array; zVg, S, X1c : boolean array returns integer array chillax end main : chillax end

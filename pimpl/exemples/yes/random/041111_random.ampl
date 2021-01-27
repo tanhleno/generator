@@ -1,0 +1,1 @@
+program G : U : takes g : boolean array; l3R : integer array returns nothing f3, IZ, V, s : integer array; while - false and 9 or 6 - 1 : input R6Fa end end main : S : integer; Q2, X91aa, s1ua : integer; when case - true : chillax end otherwise : pop; let RP7aa = array 51; let m0La = 0 end end

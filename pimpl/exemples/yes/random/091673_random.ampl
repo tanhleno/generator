@@ -1,0 +1,1 @@
+program K6s0 : main : let l[true / X] = array(976 = 36) and(5) * U8; let LO = array - true; pop; when case - 1 - 59 /= 3670 : pop; pop; pop end case 3 : output "" end case 20 : pop end case 6 : chillax end otherwise : chillax end; let hL0[3] = array 1790; pop 4 end

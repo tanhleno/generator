@@ -1,0 +1,1 @@
+program w4l0 : d : takes P, k : integer array returns boolean chillax end main : Q : integer array; rcl0a, W, f7, I : boolean array; Nt7, v37 : boolean array; let H69[- (09 = 5) * zp rem not 34 and 5] = array - (236 = 25000) and not 1 or gO(60) - n - 92 - 2 end

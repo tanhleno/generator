@@ -1,0 +1,1 @@
+program h710 : D : takes Ar : integer array; Pd30 : integer returns nothing chillax end p6N : takes C1, Y8, NL, K, w : integer array returns nothing Q9j : boolean; Y : integer; chillax end main : r2Ja : boolean; chillax end

@@ -1,0 +1,1 @@
+program r : c : takes r65 : integer returns boolean T, Z, H, v, k : integer; input Y[0]; let B1B0a = array - 23; input C[9] end SQS : takes Z, l : integer returns nothing toK : boolean; F : integer; J, l11 : boolean; chillax end main : hu : integer; chillax end

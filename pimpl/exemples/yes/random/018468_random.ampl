@@ -1,0 +1,1 @@
+program a : A : takes A02, h : boolean; h : integer array returns nothing input XxN0 end x34a : takes z, MR : integer array returns nothing while - 78200 - 81 >= 74500 : chillax end end main : k : boolean array; output "" end

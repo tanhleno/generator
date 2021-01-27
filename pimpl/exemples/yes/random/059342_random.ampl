@@ -1,0 +1,1 @@
+program Pq : L6K : takes T : integer array returns integer N, cv : integer; h8 : integer; H, D570, n5B0a : integer; chillax end _ : takes Ty : integer array; C, M0qa, ps, A9, Q7r, EE : boolean array returns integer let g9[- 7 - 71] = 856 = 6; while 362 : chillax end; input X[39] end main : vk50, D, o : integer; do u6w(not t[32] rem(3)) end

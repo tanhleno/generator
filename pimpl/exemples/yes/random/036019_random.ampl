@@ -1,0 +1,1 @@
+program Q : E : takes U : boolean; C22aa : boolean array returns nothing T, J : boolean array; let dJ = - 313 - 94 = 4 end main : let s04a = - 94 and true and 435 /= (3) and 3 or 86900 - 91; while - Y(8) - (293) and 3 < r and 5 + 1 : input M end; input Z9maa[- (5) - 15 - 6] end

@@ -1,0 +1,1 @@
+program W2g : o : takes m : integer; o5X : boolean array; RnC : boolean array returns nothing E, O6Q, t, Jk, e4 : integer; _nFaa : integer array; _600 : integer; j, CgL : boolean; chillax end K8d : takes S0, D : integer returns boolean chillax end main : input p[- td20a[088]] end

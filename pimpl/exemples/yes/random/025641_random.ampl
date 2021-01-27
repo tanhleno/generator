@@ -1,0 +1,1 @@
+program k8 : y : takes y, yGXaa : integer; _, MB : boolean returns integer array r1 : integer; S4Z0 : integer; chillax end main : v : boolean array; while true : output 5 end; when case - kKh(1) or false and 0 : chillax end case - l and 3 - 45 - 1 > - 524 : chillax end case - 08 < 84 : input s; output "9-\""; pop end end

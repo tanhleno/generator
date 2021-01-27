@@ -1,0 +1,1 @@
+program _ : y2X : takes U0o : integer returns integer n : boolean; chillax end p : takes o : integer array returns nothing b2 : integer array; P7, v, OK : boolean array; chillax end main : D4, Xy, w6 : integer array; O87 : integer array; chillax end

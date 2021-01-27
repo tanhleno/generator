@@ -1,0 +1,1 @@
+program t : j : takes S, B : boolean; o, D3V : boolean array; R5, n9k : integer array returns nothing chillax end main : c7, K, nDk, ZU : boolean array; output - 9 and true and 91 < s and 0 . ""; while - 11 and J750 and 2 > (50) : chillax end; let q[true and 0] = array - (6010) and 10; while 03 - 003 : chillax end end

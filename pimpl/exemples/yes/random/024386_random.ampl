@@ -1,0 +1,1 @@
+program WN : I : takes F, XJG : boolean returns nothing ZR, l69 : integer array; Zj6 : boolean array; chillax end B : takes D, f : integer array; i, kV : boolean returns boolean array Y9, A22, UE : boolean; when case - 3 - 9 < 9 : chillax end case 2 = 168 : chillax end otherwise : do t(00400) end; output "f" end main : I : boolean array; x : integer array; chillax end

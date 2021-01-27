@@ -1,0 +1,1 @@
+program Bq : J3 : takes Jj10 : boolean array; W9U, x : boolean returns boolean array when case false : chillax end case 76100 - 9 /= 699 : let P23aa = 00; do v(68); pop end case 7 = 6 : output ""; pop end case 0 : chillax end case 054 : chillax end otherwise : chillax end end main : n, s, kf5, l, p, O, v : boolean; chillax end

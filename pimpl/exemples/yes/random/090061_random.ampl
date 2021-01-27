@@ -1,0 +1,1 @@
+program PL : main : let X = array false * false or true + (0); when case true : chillax end case - 4 : chillax end case 0 : when case 8 : chillax end; output "Q$!a"; pop end; when case J460a and 1 : output 14 . "'\n"; let i = 5; pop; pop end; when case - 31 : let g = 9; when case 42 : chillax end end otherwise : pop end end

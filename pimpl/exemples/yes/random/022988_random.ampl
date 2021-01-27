@@ -1,0 +1,1 @@
+program S : g41aa : takes P, r : boolean returns boolean array M : boolean; do y(- false = 825) end t : takes x, jg3, m : integer returns nothing lL, vE : integer; N : boolean; g09, Q : boolean; let E[11 - 4] = array - 6 - 3; output "" . 5 . "U"; pop end main : I2, Ayraa : boolean array; pop 16 >= - Lx4; let p[- false * not 0] = array 1 end

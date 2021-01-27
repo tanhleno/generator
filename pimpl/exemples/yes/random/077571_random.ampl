@@ -1,0 +1,1 @@
+program O : main : Ei, SB20a : integer array; b01 : boolean array; i39aa, e, JRD : integer array; R3, Q, E, Q : boolean array; let H4b0a[z[5] * true or not k + false + 15] = true rem false - false and 85 + 21 - 0 < - e040a or 06; while - (7210) rem(4) : pop 0 end end

@@ -1,0 +1,1 @@
+program T55 : KC : takes i9v, j, r29 : integer; k, f7N0, Q, v9faa, Q, F, T : integer array; G, Zxs : integer array; t, V_ : boolean array; v2 : integer array; P5 : boolean array returns nothing let Gp[x + 6 - 0] = 47 end Oz : takes Z : boolean returns nothing Y : boolean; chillax end main : while true : chillax end end

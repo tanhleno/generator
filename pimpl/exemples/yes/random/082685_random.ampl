@@ -1,0 +1,1 @@
+program tvF0a : main : F : boolean array; when case - Vi[6] + I[43] + 9 = O_0[7] * SDia : chillax end case - (5) >= - false and 57000 or 53 : chillax end case - (9) - 56 : chillax end case - 53 < 4 : when case 3 : chillax end; when case 5 : chillax end end otherwise : input u[9] end end

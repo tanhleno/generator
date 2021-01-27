@@ -1,0 +1,1 @@
+program kr : z36 : takes f : integer; Dm : boolean array; XB9, M : boolean; T5, y, k, D7, R7 : boolean returns integer f, e, j, d, nJf : integer; do U1(false and 55) end t9 : takes y86aa : boolean returns nothing chillax end main : E, o7, l, I, v, q, Z8b : integer array; v : integer array; chillax end

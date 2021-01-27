@@ -1,0 +1,1 @@
+program v2 : W : takes uU : boolean returns nothing chillax end U : takes h4 : integer; z : integer array returns nothing do d4(2, 05 = 38); input KAYaa; do s(2, 8) end m : takes P : boolean array returns nothing when case 2 = 8 : chillax end case 7 : chillax end case 9960 : chillax end otherwise : pop end; let f7 = 37 end main : chillax end

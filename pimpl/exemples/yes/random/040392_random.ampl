@@ -1,0 +1,1 @@
+program P : f19 : takes CF : boolean array; H : boolean returns nothing do _M(Pj and 4 > - 0 - 4); do n32(79 - 32 /= 51, 6 = 63, 66); while 77200 : when case 7 : chillax end end end main : chillax end

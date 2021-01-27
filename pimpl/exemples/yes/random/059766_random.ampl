@@ -1,0 +1,1 @@
+program w : E : takes K1 : integer array returns nothing chillax end i : takes T9p0a, jE : integer returns nothing h, YKh : boolean array; Z, M7a : integer array; pop 9 = 6 end main : c, ewP, v : boolean; pop - W(99200) end

@@ -1,0 +1,1 @@
+program q : M : takes Bv, S : boolean returns nothing when case true and 8 - 4 - 8 /= 1 - 307 : chillax end end main : while - false and(0) or 2 and(6) : chillax end; output - true and 7 + 087 - 5 >= - 5 - 94 . 1 = 5 end

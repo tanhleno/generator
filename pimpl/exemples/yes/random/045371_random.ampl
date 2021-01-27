@@ -1,0 +1,1 @@
+program v : vs5 : takes k : boolean array returns nothing while true or 4 : chillax end end a : takes rZ : integer; q : boolean returns nothing chillax end main : let OE_[- true * (43700) rem not 005 and 14] = - 51 rem K45 or 0 end

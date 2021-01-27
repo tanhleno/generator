@@ -1,0 +1,1 @@
+program ri3a : t : takes B : integer returns integer array V8 : integer array; g, sM4, wIQ, u : integer array; let hnxa = array - (65200) and 0 end main : Gv, D6 : boolean array; nEu : boolean array; chillax end

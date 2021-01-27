@@ -1,0 +1,1 @@
+program NR3 : sK20a : takes E7, O : boolean array; qVl, D, ZZh, c1, _H, m : boolean array returns integer chillax end F4 : takes p, s94 : boolean array; U, a, e, A : boolean array returns nothing Y : integer; chillax end main : M : boolean; chillax end

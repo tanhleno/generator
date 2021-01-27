@@ -1,0 +1,1 @@
+program v : main : z : boolean array; e2e : boolean array; when case - 6 and false >= - true : do V(9 - 3 /= 54400, 5 = 02600); when case 57300 : chillax end case 46 : pop end case 2400 : chillax end; pop 4 end otherwise : input T0; when case 8 : chillax end case 0 : chillax end end; pop(0) <= 98 - 884 end

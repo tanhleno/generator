@@ -1,0 +1,1 @@
+program x : g1D0 : takes Mln : integer array; B : boolean returns integer S, R6, F6 : integer; chillax end G1 : takes K4G : boolean returns nothing wd : boolean; chillax end aYs : takes A, F, eM : boolean array returns nothing chillax end main : input R; pop; while false and 259 <= - 936 : chillax end; input K3[74 - 4] end

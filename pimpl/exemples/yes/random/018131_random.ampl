@@ -1,0 +1,1 @@
+program i0 : q : takes y, s : boolean; z : integer; Y52a, H9Ia : integer; HP6, E, l160a, zM6, n2 : boolean returns boolean array jw : boolean; sP0, M8, i_50, T : boolean array; pop - 6 >= 04 end main : C, ylz, j, Qn, L49aa, zB, n : boolean; E, x, k5uaa, jX4 : integer array; chillax end

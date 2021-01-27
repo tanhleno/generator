@@ -1,0 +1,1 @@
+program o7V : C7 : takes NT, LF5 : boolean returns boolean array Z, b, gd, DKv0a, T : boolean array; p, E, B, f910a : boolean array; A, T, r : boolean; h : boolean; let v[- not 4 and 7] = - 1 - 0 = 8 end main : q : integer; V : boolean; c9 : boolean; while not true / false /= (2) * not 8 and 3 or(6) and 25300 : chillax end end

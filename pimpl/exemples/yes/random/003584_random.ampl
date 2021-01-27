@@ -1,0 +1,1 @@
+program p : y1d : takes G, l, e5W, T, XC : integer array; B : integer; cH, U : boolean array; t, X, IBC0a : integer returns boolean array A9 : boolean array; output ""; while 0 - 4 < 4 : while 0 : chillax end end; pop 1; when case 52 : chillax end; do K(2) end main : z, y, T, K : integer array; L : integer; n3l0a : boolean; av7 : integer array; chillax end

@@ -1,0 +1,1 @@
+program o : R : takes S, U : integer returns boolean output "" . 80 end Qo : takes f5, _ : integer array; U7D, r, O, g, M : boolean returns integer array Q9 : integer; output 779 = 3 . 5; input i[5]; let V[2200] = array 32400; do h2(7) end main : while - not not not 94 rem true * (0) = - not true or(38) : chillax end; output "2"; input pQ[- false]; do yY(- 66 - 0 /= 56) end

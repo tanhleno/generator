@@ -1,0 +1,1 @@
+program g830 : B09a : takes B, P61, w, PS : boolean array; I, kb2 : boolean; a2, q : boolean array; p, D, a, o82 : integer returns integer array do _(- (8) and 4 + 7 < - 2); while - 94 - 48 < 2 : chillax end; let XJ0[2] = 6370 end main : P : integer array; chillax end

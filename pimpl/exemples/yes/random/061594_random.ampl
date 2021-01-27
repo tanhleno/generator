@@ -1,0 +1,1 @@
+program m : RB : takes y5 : integer array returns nothing when case 2 and 89400 >= 74 - 9660 : chillax end case 2 - 8 : while 6 : chillax end; pop; pop end case 5940 = 2 : chillax end otherwise : chillax end; input VZg[02]; output 5 end main : j : boolean; chillax end

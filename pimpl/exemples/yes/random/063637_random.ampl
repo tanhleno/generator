@@ -1,0 +1,1 @@
+program n : k : takes XoF0 : integer returns nothing chillax end pJy : takes q3, pR_, S, m76, W : integer returns nothing h7 : boolean; chillax end d6 : takes x, G, q, T7, B, T : boolean array returns integer I : integer; K, g_0 : boolean; input W520; output ""; output "" end main : chillax end

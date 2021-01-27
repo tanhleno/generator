@@ -1,0 +1,1 @@
+program B : Z8 : takes L, g0ga, zZ : boolean array; U : boolean returns nothing pop; while 0 : output "j8"; output "\"" end; output 7; input pK5; do z4N(9490); when case 852 : chillax end end main : U : boolean array; let B = array true * (1) + not not 6 / not 50 + true and 365 + 13 - 5; pop - 0 + 929 - 62; pop - 4 end

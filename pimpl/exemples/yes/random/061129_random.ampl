@@ -1,0 +1,1 @@
+program i : Fkz : takes KDQa : integer array returns nothing I : integer array; c, sg : boolean array; e : integer array; chillax end main : let mLH[- M4G(7) - false and(13)] = - false / 50 and 46 - not 935 and 70 < true and 82 end

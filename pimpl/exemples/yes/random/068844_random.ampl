@@ -1,0 +1,1 @@
+program R89 : main : lj, e, c, C, RDCa : boolean array; p, f0W, UGFa, t : integer; oCH, zy5 : integer array; n, K, h : boolean; output - f79a / not 27300; do g(- V070a(95) or true + 02600 - 4, - not 21 and 6 - 49 - 71 /= - 5 - 43) end

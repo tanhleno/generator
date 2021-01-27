@@ -1,0 +1,1 @@
+program X1 : lI50a : takes S : boolean array returns integer O930, F1m0, g8B : boolean; F : boolean; S : boolean; ANGaa : boolean; output - 4 >= 9 . "" . "\\A"; when case 53 /= 130 : chillax end case 8 : chillax end otherwise : chillax end end Sw : takes Ce3 : integer returns nothing i0, T : boolean array; chillax end main : E, Hnh0a : integer; chillax end

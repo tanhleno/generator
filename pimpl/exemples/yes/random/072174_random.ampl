@@ -1,0 +1,1 @@
+program F : main : E, K8, U : integer; F, J : integer array; u4, c, D : integer; j, A : boolean array; pop - true * false - M or 5 >= (9450) or 6; let s8 = array true - (83400) and 854 + 4920 - 6900; let u = array - 5 end

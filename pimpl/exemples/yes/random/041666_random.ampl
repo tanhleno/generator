@@ -1,0 +1,1 @@
+program Z : Z : takes z : boolean array returns boolean array N, V : integer; input B[- (2) and 28]; let w[63600] = array - 026 end main : K : boolean array; z07 : integer; r6q0a, pP, n5V : integer; chillax end

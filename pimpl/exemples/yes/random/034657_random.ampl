@@ -1,0 +1,1 @@
+program F67 : XD : takes e : boolean; U, a : boolean returns integer array output "" . "" . 1 end main : do _70(_(0, 4) * 4 and(916) or not true >= - 9 - true and 1580 + 8 - 47, 73400 rem(5) and 5 + true and 7 <= - false and 85600, - 97 and 71 + 78 /= 836); input b end

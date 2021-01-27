@@ -1,0 +1,1 @@
+program E : L : takes P2 : integer; K27, a5oa : boolean returns nothing Fa : integer array; O07 : boolean array; di, w : integer; chillax end main : q82 : boolean; g : boolean array; n8, F7Ka : integer; chillax end

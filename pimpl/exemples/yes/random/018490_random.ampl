@@ -1,0 +1,1 @@
+program Og : O : takes I, L : boolean; Ogk0a : integer returns boolean array output ""; when case 5 - 30 > 0 : chillax end otherwise : chillax end; input t[216] end main : F4, i, AwI, s0F : boolean; while - false - (0530) and false and 48 or(0) < not true - 0230 : chillax end end

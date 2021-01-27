@@ -1,0 +1,1 @@
+program YT : fIN0 : takes av_, O9 : integer array returns nothing U : integer; pop end v : takes X2 : boolean array; h : integer array returns integer array Yj, J2n, p9, bN0aa : boolean array; while 1 - 0 <= 93 : chillax end; let G1[88200] = 3 end main : output - S0 rem true and 6 >= nv; do m(true * (38) and 86 >= (7690) and 9470, - false - 8 - 7930 = 87100, 0) end

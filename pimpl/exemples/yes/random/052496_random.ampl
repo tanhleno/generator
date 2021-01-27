@@ -1,0 +1,1 @@
+program Z3 : A : takes r : integer; Z1 : integer; D540 : boolean; n : integer returns boolean array s : integer; when case - true - 3 - 2 > 1 : output "\t\""; output "\t"; while 45 : chillax end end otherwise : output "" end end v : takes Q9, qc2 : integer array returns nothing do f(- 152 - 6, 2, 1, 78300); output 2 end main : chillax end

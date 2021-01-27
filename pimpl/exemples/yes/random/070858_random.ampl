@@ -1,0 +1,1 @@
+program h : main : BR, q, MF : boolean; K960, t : boolean; input s[true]; when case k(6) : when case 7 : chillax end case 93 : pop end case 4 : chillax end otherwise : chillax end; while 1 : chillax end end case - true > 4 : do L9saa(0610, 7); do n2(63) end otherwise : chillax end; do U(- not 82600 and 41 < - 1 - 0); do G(54) end

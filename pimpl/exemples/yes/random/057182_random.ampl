@@ -1,0 +1,1 @@
+program I0 : IB : takes I : integer array; s9A : integer array returns integer F : boolean array; IF5, a : boolean; S : boolean; chillax end r : takes F8, r, r, t : boolean returns integer g : boolean array; chillax end i : takes q, l : integer array; Y : integer returns nothing chillax end main : while 237 / false > - N(2) : input b[- 2 - 28]; do HE(9 = 82, 60, 4) end end

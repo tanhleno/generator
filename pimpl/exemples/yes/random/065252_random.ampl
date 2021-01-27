@@ -1,0 +1,1 @@
+program S : M7 : takes Z : integer returns nothing let cU = array true; input FZ[- 386]; do F(408 = 0); do M(07, 28); let S7v = 5 end XI3a : takes O6 : integer returns integer array rM : boolean array; z9 : boolean; input P1; let d[0] = 193 end main : g : boolean; input zI end

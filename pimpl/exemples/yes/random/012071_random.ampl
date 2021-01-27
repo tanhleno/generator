@@ -1,0 +1,1 @@
+program S7 : R66 : takes K, I3, C : boolean returns nothing chillax end yXs : takes p : boolean array; d, A, m, F : boolean array; _, Vq, J0, x840a, K2 : integer returns boolean array output 67 end f : takes ec9a, S_q, P : integer array; g : boolean returns nothing L : boolean array; gW : boolean; x6 : boolean; I4 : boolean; while 86 = 964 : chillax end end main : chillax end

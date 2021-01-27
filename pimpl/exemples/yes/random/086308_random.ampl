@@ -1,0 +1,1 @@
+program y : main : hf : integer array; F : boolean; m03, Tn, B27a, o7, a9 : integer; o, W, m : boolean array; h000, E, Z : boolean; when case - true / not not 4 rem true : chillax end; let P1[not not 8 * (8) and 2 + (11) and 938] = array 1 or not 712 or 274 - 12 end

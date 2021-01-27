@@ -1,0 +1,1 @@
+program P74 : v : takes Fx, v : integer returns boolean array chillax end lw0 : takes K9, W, I, q : integer array returns nothing chillax end main : pop - 0700 / (6) and 7 /= - not 2 + 8; do m9(70 rem(26) and 39 + V and 0 + 0570 - 51, - not 941 or 7 - 91) end

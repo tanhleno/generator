@@ -1,0 +1,1 @@
+program y : j0 : takes Jre, Wa : integer; X4u0a, N7 : integer array returns nothing output "\t\taa" . 63 = 4; output "80" . 6 . 5 . "9" end RO : takes u0, C2 : integer array returns integer do TmY(- 30 - 49 = 799, 20300 = 91, 2, 5) end main : chillax end

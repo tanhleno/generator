@@ -1,0 +1,1 @@
+program q7f0a : mb40 : takes b : integer returns integer array chillax end N3 : takes e : integer array returns boolean array let BT[95700 - 4] = 5 end s510a : takes D5, F, Djq, iQVa : integer returns boolean chillax end main : z5 : integer array; Sr, I, x, P : integer array; do D(QgB0[378] - 780 >= - false or not 5); when case not not 6 : chillax end otherwise : chillax end end

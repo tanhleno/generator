@@ -1,0 +1,1 @@
+program J2 : z : takes z, Q : boolean returns nothing chillax end v5 : takes qe, N, BE : boolean array returns nothing E6, v : integer array; r, rN, D : integer array; hKKaa, F : boolean; chillax end main : W, W : integer; HSD : boolean; z : boolean; pop - (8) rem 9 and 13 or false and 3 - 821 > true and 667 end

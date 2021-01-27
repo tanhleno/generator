@@ -1,0 +1,1 @@
+program F9 : main : when case(1 = 2) * O * not 8 and 6 + 4 - (0) and 84 + 4 - 56 : chillax end case not _P * true and 43700 or(08400) and 7 - 0 - 3 /= - GxG and 13 : let W4P = array 7 end otherwise : chillax end; pop true and 0 + 96 - 609; do k(not 467 = 24400 - 4); let _3 = array - 4 - 6; let N[78] = 84 end

@@ -1,0 +1,1 @@
+program f : OI : takes u62 : integer returns nothing LO : integer; chillax end J12 : takes H8 : integer; G : integer array returns nothing zyF : integer array; pop end q0na : takes p, F, O9, V : boolean returns boolean array chillax end main : pop h[5] > R and 5 - 56800; while - (204) rem 329 and 6 or false and 93 + 2460 /= true and 7 : chillax end end

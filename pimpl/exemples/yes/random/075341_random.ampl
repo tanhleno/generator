@@ -1,0 +1,1 @@
+program f : main : C6, u : boolean array; m : integer array; let Ja[false - 8030 or true] = not(93) and j and 2590 + not 1; pop; when case 919 = - 51 - 969 : let Q = array 4 end case 4 - 2 >= 4 : chillax end otherwise : chillax end end

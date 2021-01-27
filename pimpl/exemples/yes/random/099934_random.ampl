@@ -1,0 +1,1 @@
+program vK : main : while true and(2) rem not 42200 and 3 /= - (83) / false and 2 or l - 8400 - 45 : chillax end; when case - 2 * (5) or(8) - 080 - 7 <= (110) and 2 : chillax end; let vz1[(41) and 824] = array(4) and 935 + 4 - 1; input I470a; let j = 7; input n; do E0d0(060) end

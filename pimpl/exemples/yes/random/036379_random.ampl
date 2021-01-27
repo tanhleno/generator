@@ -1,0 +1,1 @@
+program G : rYB : takes v4 : boolean; U7 : integer; F, X7, bGk, g9f0a, UQdaa : boolean array; Qb : integer returns nothing chillax end main : pop 511; when case - not(57) < - 44 and 03 : chillax end case - 6 and 6500 : chillax end case - 87100 - 10 : chillax end otherwise : output "`9" . "}Uaa"; output "`<"; output ""; pop end; input L2; pop; let M[888] = 83 end

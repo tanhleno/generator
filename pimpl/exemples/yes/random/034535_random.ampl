@@ -1,0 +1,1 @@
+program T : w4maa : takes W4r : boolean; U5, o : boolean array returns integer chillax end main : BK, N : boolean; h7Y : integer; z, O, t, jk, h7 : boolean; Z, r, ZBe0, y4 : boolean array; e : integer; chillax end

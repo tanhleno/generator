@@ -1,0 +1,1 @@
+program y : X6 : takes Q : integer returns boolean array output 353; when case - 3 - 54 = 1 : chillax end case 22200 : while 899 : chillax end end end Xm3aa : takes J, T4 : integer array; kX : integer array; h3Faa : boolean array returns nothing chillax end main : N, p4b : integer; chillax end

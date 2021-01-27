@@ -1,0 +1,1 @@
+program K : F : takes w, P, k33 : integer array returns nothing chillax end Q : takes _ : integer array returns nothing c : boolean; a0 : integer array; input NV[5]; input t17[8]; do f(017); pop end d4 : takes E : integer; w, u, k : integer array returns nothing o, o2 : integer array; h, _97 : boolean; chillax end main : input Y3e0a[(623) + (8)] end

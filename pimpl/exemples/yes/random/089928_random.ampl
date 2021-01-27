@@ -1,0 +1,1 @@
+program T : main : let TU = array - not(8) - (1) - hyM and 45; input dHN; let O = 1 <= 6; when case 5880 - 2 : pop end case 1900 = 80 : chillax end case 388 : pop end otherwise : output "|"; pop end; while 902 = 38 : pop; pop end; let O[7] = 9780; when case 00 : chillax end; output "B\n0a"; pop end

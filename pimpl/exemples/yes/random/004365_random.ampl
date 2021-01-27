@@ -1,0 +1,1 @@
+program M : EB : takes m, D89aa, z, m0 : boolean; WKp, Q5 : boolean array returns nothing pop end Vy : takes o : boolean array returns nothing o, S, h, I02 : integer; input x; output 5; let A = 064; do l(3) end main : v : boolean array; BW, G, f5 : integer; chillax end

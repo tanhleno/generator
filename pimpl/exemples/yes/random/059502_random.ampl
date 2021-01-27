@@ -1,0 +1,1 @@
+program g : T5 : takes Lx : integer array returns integer input R; pop; output 0 . 33 end b : takes bW : integer returns boolean array d, q, j, C : integer; chillax end main : VXc0a : integer; while - false - y[20] and false - (2670) : while - 3 /= 880 : chillax end; input l[04]; output 0; do j(8) end end

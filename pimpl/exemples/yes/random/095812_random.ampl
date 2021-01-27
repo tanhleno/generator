@@ -1,0 +1,1 @@
+program l : main : when case - false / not(97) * not 846 - false rem false or false or 0 : chillax end otherwise : input F[283] end; do x((72) and not 7 and 60500 >= - y6 and 609 - 2 - 396); pop 23700 - 5 <= 9; pop; while 849 : when case 1 : chillax end end; let lH3 = array 43; output ""; pop; pop end

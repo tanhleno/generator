@@ -1,0 +1,1 @@
+program hi : main : output 03 rem(011) and 35 >= - 42 and 7 . not 8 and 70 . ""; when case X(17) and true <= - not 2 : while 2 = 4 : when case 8 : chillax end end; when case 897 : chillax end case 8 : chillax end; output ""; pop end; pop - 2 - 78 end

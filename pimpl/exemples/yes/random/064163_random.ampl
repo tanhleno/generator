@@ -1,0 +1,1 @@
+program E : z : takes H570a : integer returns nothing g, V_30a, C, A0, y27 : boolean; sm, y, _, T : boolean; U, aNd, f73 : integer; _6C, J : boolean; d4 : boolean; do r1(- i >= 849 - 3, - 9 - 0 = 4); do A(- 4, 64) end main : pop; let H = - 024; let o = - 7 - 80 /= 1; output 9 = 5 . "E" . 8 . "" end

@@ -1,0 +1,1 @@
+program UX : main : l, n : boolean; w3ha : boolean; when case(33 = 3) - false - not 7 and 8140 : chillax end case P(9) or true and 0 + 4 = - false and 35 - 62 : chillax end otherwise : let A = array 8440; input M14 end; let A = 2 or 87; while - E9 or 55100 - 74 < 2 - 77500 : let sA[4] = 6 end; while 06 : output "" end; let o45aa = 6; let qN = 67 end

@@ -1,0 +1,1 @@
+program UC : v1Faa : takes W85, Z : integer returns nothing chillax end mW : takes O : integer array; sG : boolean; zo8 : boolean array returns nothing aZG, g, jN6aa, m_V : integer; K, U8, Xg : integer array; input M[11]; let F = 3 end main : chillax end

@@ -1,0 +1,1 @@
+program d : bD4 : takes s, VnH, M : boolean; WR : boolean array returns boolean array hVQ, u : boolean array; p : integer; pop; output "160" end main : while true and H > - true * true and 39300 or TUnaa and 331 + 70 - 31 : chillax end; while - 8 - 79 or 5 <= - (342) and 8 : pop; input YP7a[14]; do FT(4); pop end end

@@ -1,0 +1,1 @@
+program M070a : q : takes VoTaa : integer array returns nothing when case false /= - 4 - 83 : chillax end case - 75 - 93 : output "[!" end; let qGX = 66 = 2 end k8 : takes Hg : boolean array; P6Iaa : boolean; L, m, Q3, x : integer array; D3, K : integer returns integer chillax end main : chillax end

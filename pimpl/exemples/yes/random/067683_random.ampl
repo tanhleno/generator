@@ -1,0 +1,1 @@
+program f : main : do w7ra(2 and K[1] * false and 4 - not xqkaa + not 804 and 07 - 05 <= - (16) or false and 93 or 60 - 2); when case false rem o : output "]" . "R"; while 8 : chillax end; while 86500 : chillax end; while 13 : chillax end; pop end case not 1 : do MZ(7); pop end; when case - false <= - 3550 : chillax end; let a = array - 64 - 8 end

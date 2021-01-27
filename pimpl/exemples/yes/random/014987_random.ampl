@@ -1,0 +1,1 @@
+program AY : g : takes f, z, T : integer array returns integer array output - 86 - 3; output 569 . 3 . "27a" end main : let X[N[31] / 71200 and false and 79 + true - true and 2] = true / (0) and 43; while - z(3) or 42500 /= - false and 7 : pop end; while 9 : chillax end end

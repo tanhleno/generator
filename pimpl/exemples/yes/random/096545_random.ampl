@@ -1,0 +1,1 @@
+program c : main : when case - true * C + (90) : chillax end case - (25) rem true + false and 0 = - w23a or 5510 - 9 : while 9 : chillax end; while 6 : pop end; pop end case - false and 09 - 62 - 6 : chillax end otherwise : chillax end end

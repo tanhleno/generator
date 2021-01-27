@@ -1,0 +1,1 @@
+program i18 : d : takes H, b : boolean array; B, w, OG2 : boolean; je : boolean returns integer array hr8a, TA, Uk : integer array; W, h1, n : boolean array; Hu5a, P, _ : boolean array; chillax end main : when case 8340 /= R(68) rem q9O0a : chillax end case - 6 /= false + 05 - 810 : chillax end end

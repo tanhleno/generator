@@ -1,0 +1,1 @@
+program P6 : _ : takes D8 : integer; ym9aa : boolean; q : boolean returns boolean array H, x : boolean; let f[not 7 - 3280 - 575] = 5 end u9 : takes E, U : boolean returns nothing chillax end O : takes V : integer array returns boolean b, NiW : integer; output "\\_0"; pop 988 end main : o : boolean; chillax end

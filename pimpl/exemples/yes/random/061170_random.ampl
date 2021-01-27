@@ -1,0 +1,1 @@
+program v : c0 : takes RU60a : integer array returns nothing UAZa : integer array; p : integer array; p : boolean array; when case 6 and 7 - 5 - 6 : output "\"n"; output "H" end case 4 : chillax end case 34 : chillax end end main : kO4 : boolean array; _ : integer; m, T : boolean array; let GXk[- true] = 26; input b0; while false > 6 - 76 : chillax end end

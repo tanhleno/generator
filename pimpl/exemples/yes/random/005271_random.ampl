@@ -1,0 +1,1 @@
+program vO : b0 : takes T, N, R, u6 : boolean array returns boolean array L8, a : boolean; x_, TV, c8w, x : boolean array; output 9 - 6 /= 9 end main : wK5 : integer; cW, b : integer; P4, W : boolean; S : integer; do Z(- (2) / (922) and 1610 and 04 + 5 + (22) or 7 > false - (6) and 74, true + false and 4 + 8 - 5, - true and 05 <= - 77) end

@@ -1,0 +1,1 @@
+program UO : main : ANk0 : integer; Y2, aK, p45aa : boolean; Q, Dd, Z, QV : integer; o130a : integer; Sn, z, V : integer array; A, z : boolean; e_f0 : boolean; do e0(- false rem false / (15) + (5) < 01, - true * 4 and 792 or Fn0) end

@@ -1,0 +1,1 @@
+program x : K : takes k54 : boolean array; f, la, _9 : integer array returns nothing do q(- w, - 33800 - 0, 93200 = 460) end w : takes x : integer; O, q : boolean array returns boolean array output "7" . ""; input N; let ZbE[109] = 4 end GZDaa : takes q9, W : integer returns nothing a, o6, k : boolean array; K7 : boolean; chillax end main : RK8 : integer array; chillax end

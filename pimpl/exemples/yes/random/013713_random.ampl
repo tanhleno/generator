@@ -1,0 +1,1 @@
+program gd : hEp : takes e8, _7, s3 : integer array; f7, p, t7J0a, PWN : boolean returns nothing output - 7 . "=" end K2 : takes v : boolean array; R, m60 : integer; i, kQz0a : integer; P4 : boolean array; x, nW00a : boolean; c, i : boolean returns boolean let N = array - 178; output 43 . "2" . ""; do R(418); let KK = 9 end main : D : integer; chillax end

@@ -1,0 +1,1 @@
+program A0 : nb : takes W : integer array returns integer chillax end BTW0a : takes d8 : integer array returns nothing e : boolean; while 53 - 17 > 6 : output ""; let f = 18; pop end; let g = 34 end E : takes neK0a : integer returns nothing when case 27 : chillax end end main : B200a, n, K, c2, n5, b60 : integer; chillax end

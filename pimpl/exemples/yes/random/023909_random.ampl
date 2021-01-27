@@ -1,0 +1,1 @@
+program n28a : J : takes R, h : boolean returns nothing chillax end GJ : takes W, K3 : boolean array; I : integer; z, i, B0, i0va, zuAa : integer returns boolean array q : boolean; N0 : boolean array; input z end G4F : takes qM8, y, s, C4 : integer array; IO : integer array returns nothing chillax end main : chillax end

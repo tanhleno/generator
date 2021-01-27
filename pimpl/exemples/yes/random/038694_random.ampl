@@ -1,0 +1,1 @@
+program o : VD : takes p : boolean array; T, Onz0 : boolean array; z : integer array; r : boolean array returns nothing pop - 0 end main : sL, gD3 : integer array; output _2(2) or(9) and 3 /= - b and 0; output false - 698; output "7" end

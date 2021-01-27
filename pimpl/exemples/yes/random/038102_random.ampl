@@ -1,0 +1,1 @@
+program Fl : W8 : takes u : boolean array; i1L, Lc, I : boolean array returns nothing do c(- true and 3 - 563 - 1 = - 2); output ""; input x[0] end T : takes y2 : boolean; l : boolean; b, vVT0, l3Uaa, Xbaa, FU4 : integer returns nothing chillax end main : x, T : integer; chillax end

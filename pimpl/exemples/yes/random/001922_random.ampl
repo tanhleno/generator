@@ -1,0 +1,1 @@
+program Be : _ : takes N, E, l3, c4, JP, z : integer array returns nothing chillax end k : takes C4 : boolean; k9p, A1u, n, B, E9Q, gZ3 : integer array; A39a : boolean; a : integer; L, Q : integer array; xB : boolean; P6 : boolean; m10 : boolean returns integer array s, Z, J : boolean; b2Y : integer array; chillax end main : while 3 - true rem H : chillax end end

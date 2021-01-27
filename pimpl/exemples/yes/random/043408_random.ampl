@@ -1,0 +1,1 @@
+program tuU0a : ST : takes s9 : boolean array returns nothing chillax end b7j : takes nAl0, lf, M, s, Ww : boolean array returns nothing J, v, j3f0 : boolean array; chillax end tGXaa : takes i, p, _0, U : boolean returns nothing chillax end main : GPy, M : boolean array; S, rLm0a : boolean array; N, c : integer array; chillax end

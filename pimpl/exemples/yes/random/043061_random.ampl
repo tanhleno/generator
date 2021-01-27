@@ -1,0 +1,1 @@
+program s : zZ5aa : takes mU40a : boolean array returns integer S, H, f, B : integer array; chillax end main : N : integer; while - not H(894) - false + 5 and 75300 - 74 - 87400 : do p(9 - 5 <= 74700, 2, 5) end end

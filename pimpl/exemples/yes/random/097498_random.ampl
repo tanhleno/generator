@@ -1,0 +1,1 @@
+program l : main : when case 40 rem(2) = y[0] * (6) and 070 : output "" . "" end case - not not 08 and not 9 and 92 + true >= - (6) and 44 or 6 - 81400 : do X(8 = 9, 5, 639) end case - not 17 and 0 or 7 - 6 /= - 2 : pop 8; do D66aa(9080); while 2 : chillax end; pop end end

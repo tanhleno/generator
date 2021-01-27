@@ -1,0 +1,1 @@
+program e : R : takes W, I5 : boolean; Y, z6l, w, X : boolean array returns integer chillax end main : f7C, A0q, I : boolean; pop - false * false and 08 + true and 96 + 00 - 9; output ""; output "}" . 95; while - 47 - 79200 : while 04 : chillax end end end

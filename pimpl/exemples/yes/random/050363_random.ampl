@@ -1,0 +1,1 @@
+program n2F0 : QO : takes v80 : integer; x, d : boolean; k : boolean; Ik3 : boolean array; x, I, T : boolean array returns nothing o, Edw0a : integer; T, j2, x97, I01 : boolean array; chillax end main : chillax end

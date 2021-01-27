@@ -1,0 +1,1 @@
+program H : Ren : takes aq, S6, J : integer array; u7 : integer array returns boolean s : boolean; d9 : boolean; CZ : integer; c2 : boolean; p5 : boolean; output 6610 - 93 <= 5 . "vC" . "*?" end main : Yk : boolean; V : boolean; chillax end

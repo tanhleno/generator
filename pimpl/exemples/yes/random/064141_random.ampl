@@ -1,0 +1,1 @@
+program L : H : takes Y : integer returns nothing do I7Y0(not 0 and 6, 7); when case - 2 - 4 : do V(65); while 165 : chillax end; pop end otherwise : pop; pop end end main : output - R(2) rem N and 14200 + true + 88200 end

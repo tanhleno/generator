@@ -1,0 +1,1 @@
+program _7 : main : when case - false and not true / 15300 and 09 or false >= - 06900 rem not 517 or 3 and 6 or 542 - 1 : while 9 - 2 : chillax end; pop; while 600 : pop end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program IH : Y : takes C : integer array returns nothing input u end lc : takes gP3aa, X, N87a, Q : integer returns integer _9, lL : boolean array; when case 607 : do LL(777) end otherwise : when case 9 : chillax end end; output "" . "" . "\t"; let T[1] = array 4; let x1laa = 6; do x63(2); pop end main : chillax end

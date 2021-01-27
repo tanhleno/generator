@@ -1,0 +1,1 @@
+program S : KqVa : takes _I80a : boolean array returns integer array a : integer array; while t3 or 04400 - 34 <= 6 : pop 9; when case 163 : chillax end; output "\n" end; input i150a[- 6] end main : p9 : integer array; XDy0a, G, M, L, A1 : boolean array; chillax end

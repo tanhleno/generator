@@ -1,0 +1,1 @@
+program X : main : u6 : boolean array; P, y8 : boolean array; X, j, q : boolean; x, R : integer; when case false : input KNr[2]; let D[7] = array 93; when case 49 : pop end end; do Qa(false / (9) or false and 57 + 2 - 9 > - false and 7 + 8480 - 396); let Q2 = array - true; pop; output 6; output "!\\" end

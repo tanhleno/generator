@@ -1,0 +1,1 @@
+program KU4a : w : takes s, Qbw0, V : integer; uM, S4 : integer returns nothing let V = - 2 - 8960 end e : takes QQ0a : integer; O : integer array; q : boolean array returns nothing Cw, q : integer array; chillax end main : P, U, g, r, F, _d : boolean array; input Z9[- not 21 rem not 33 + 77 * false and 7910] end

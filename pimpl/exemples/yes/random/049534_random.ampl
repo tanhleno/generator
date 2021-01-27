@@ -1,0 +1,1 @@
+program TR : l : takes rGS0a : integer; Ka, L7Naa, P41, Q : boolean array; D9, n : boolean array; p, vRS, s, B, Q8 : integer; k6, x, EH, s : boolean returns nothing H_ : integer; DJVaa : boolean array; while - X5Z0 and 9 or 5 - 64 <= - 0 - 4 : chillax end; pop 3; while 54 = 74 : chillax end; when case 6 : pop end; pop; let Be90a = 497 end main : chillax end

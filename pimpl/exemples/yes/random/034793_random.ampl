@@ -1,0 +1,1 @@
+program jM8 : U0 : takes Z46aa : boolean; G77, C : integer; s, rj9aa : integer array; l : integer array; bq : boolean; w : boolean; ff : boolean; k : boolean returns nothing g : integer array; t, Y9 : boolean array; ZJ : boolean; output "" end main : chillax end

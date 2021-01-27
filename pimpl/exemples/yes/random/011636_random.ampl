@@ -1,0 +1,1 @@
+program M5Ja : H : takes z1, Y, O : boolean returns boolean array input O[true and 2650]; let Lj[- 1 - 0] = array 1 - 12; do Z310(5 = 151); when case 0 : chillax end case 608 : chillax end otherwise : chillax end; when case 4810 : chillax end; pop; pop end main : S5baa, qrI0a, J, Gr, P : boolean; chillax end

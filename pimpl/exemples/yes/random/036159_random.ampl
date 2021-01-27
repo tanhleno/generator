@@ -1,0 +1,1 @@
+program Lz5 : fyg : takes k : boolean; AmH : boolean returns boolean w, i, Y, L, uzb : boolean array; input c6M[- (58700) and 209]; output "5"; when case 2 : chillax end; pop 39; output ""; let q8 = 766 end main : chillax end

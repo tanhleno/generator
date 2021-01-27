@@ -1,0 +1,1 @@
+program I : QR : takes a, h8q : boolean returns nothing let iY = - 22 <= 109; input jO[- 0] end main : V, n49 : boolean; while vl : let b[- 261 - 21] = 5 = 97; pop end; let R31[true] = - G11a < 073 end

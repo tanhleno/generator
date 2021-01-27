@@ -1,0 +1,1 @@
+program B : tX2aa : takes c : integer array; z : boolean array returns boolean ypy0a : integer; N3, Y, v : integer; chillax end oK : takes H, v8Ma, E, Bz8, Z2Aa, mdO : integer array returns nothing chillax end PB : takes E : boolean array returns integer input hO; while 8 : pop end; while 64 : chillax end; input p7; pop end main : chillax end

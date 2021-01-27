@@ -1,0 +1,1 @@
+program z : S3 : takes B : boolean returns nothing when case false + 9 - 9 /= 302 : chillax end case 196 : let W = 7 end end main : cU : boolean array; M, e420a, C : integer array; x850a : integer; iZ, j, W : integer array; chillax end

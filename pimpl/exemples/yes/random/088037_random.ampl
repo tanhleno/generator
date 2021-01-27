@@ -1,0 +1,1 @@
+program d : main : input q; output true and 6 <= 6 - 80 . 02 <= 2 . 3 = 6 . "]"; let Y[E4 and 9 - 9 - 3] = array - R + 9 - 2; when case 336 - 737 : pop end case 6 = 53 : chillax end; let r[70] = 3; input D end

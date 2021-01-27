@@ -1,0 +1,1 @@
+program Q : k3 : takes W, N : boolean; T8W : integer array returns nothing bwh0a : integer; F : boolean array; let h = array - not 67 or 3 end main : hFv0, y : integer array; while(3) and false : chillax end end

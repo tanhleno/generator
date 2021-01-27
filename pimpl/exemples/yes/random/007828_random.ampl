@@ -1,0 +1,1 @@
+program p6u : n : takes G, g, r, s : integer array returns nothing J : integer array; lv, H, g : integer array; T, w, r050 : integer array; chillax end m : takes r, Z, c : integer; eh, V : integer returns nothing output "" . 4; while 46 : when case 5 : chillax end end end h : takes n : integer returns boolean e58a, q5A, P : boolean array; let dK = array 614 end main : chillax end

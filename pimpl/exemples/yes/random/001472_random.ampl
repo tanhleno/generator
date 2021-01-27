@@ -1,0 +1,1 @@
+program IH : d : takes Q, v1aaa, l, Ji, q6, _Od : boolean array returns nothing while not 2220 >= 82 : chillax end end f : takes ulUaa : boolean returns nothing do T9(- 2 - 46 = 9); output 4 . "&L" . "L8aa" end main : output "2" . "" end

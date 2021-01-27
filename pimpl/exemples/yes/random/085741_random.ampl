@@ -1,0 +1,1 @@
+program P : main : X : integer array; G, j, D : boolean; x, GfM0, E, G : integer array; d3, u1, Y0Y, Ga : boolean array; while true or vY[2] rem false > - (599) / (1) and 0 : output 92; when case 9 = 78 : output "\t"; pop end end end

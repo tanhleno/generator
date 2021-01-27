@@ -1,0 +1,1 @@
+program B : p : takes bX : boolean; A6 : integer returns nothing chillax end I : takes dB, tx, Z, v8, WQ : boolean; L5 : integer returns nothing y19 : boolean; do N61(35 - 1670 /= 80, 0) end M : takes G, qYj, j, X0, u : integer array returns boolean array chillax end main : r, v, b, j950a, E, O4ba : boolean array; chillax end

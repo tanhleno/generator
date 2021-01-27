@@ -1,0 +1,1 @@
+program O : k4 : takes x2s : boolean returns integer input b[false]; let U = 858; do n6(5 = 2, 28000, 66) end Z : takes I : integer array; wB2, jr : integer array returns nothing when case 3 < 91 : chillax end end w : takes J : integer array returns boolean array pop 56; let _[992] = array 1 end main : do KQWaa(not(829), 3 = O and 3 - 5, - (0) and 3 - 09 - 93 /= - 315 - 4) end

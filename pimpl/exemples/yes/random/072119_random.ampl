@@ -1,0 +1,1 @@
+program er : main : m2, ud4, R8I : integer; S1, p : boolean array; b, y : boolean array; Y, TC, P, o : integer array; x1V : boolean; when case - (9) * false / true : input B3L0[- 99900 - 67]; output "" . "5\\\"a"; do A93a(9, 37); let P = 1100 end case rHE and(3) and 479 : chillax end case 54 and 483 or 83 >= 028 : chillax end end

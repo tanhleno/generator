@@ -1,0 +1,1 @@
+program Yk_0a : e : takes X : integer array; S2 : integer; V : boolean returns nothing chillax end I : takes i, S1, A9Ea, L, d : integer returns nothing p3s : boolean; chillax end main : while - true <= - true rem fn2 + (5510) : pop; while 3 = 3 : while 3 : chillax end; pop end end; while 7 rem false >= - Uy - 36 - 748 : let PS6[28] = array 8 end end

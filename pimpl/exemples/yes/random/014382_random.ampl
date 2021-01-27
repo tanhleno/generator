@@ -1,0 +1,1 @@
+program r : W : takes A, v8, xr9 : integer array; Z : integer; V, I, BT, y16a, z, oz : boolean array; f7T0 : boolean returns nothing chillax end G8 : takes G3ea : integer returns boolean chillax end WC : takes I5, P : integer returns nothing when case 67 = 2 : let w = 152; pop end otherwise : chillax end end main : S, z : integer; input s end

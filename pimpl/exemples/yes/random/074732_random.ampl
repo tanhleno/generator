@@ -1,0 +1,1 @@
+program f3 : main : z, uG4a : boolean array; mJ, G5Xa, l : integer; a : boolean; F : integer; input Z[false]; while a + 4 and 0920 or 38600 - 094 = not 9 and 0 + 86 - 1 : chillax end; output 15100 . 3 = 151 . "\\" . 19 . "" end

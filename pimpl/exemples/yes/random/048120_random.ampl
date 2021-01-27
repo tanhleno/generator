@@ -1,0 +1,1 @@
+program i : y : takes u1l : boolean returns nothing C, af10 : boolean; d : integer array; e150a : boolean; F : boolean; w : boolean; gX : boolean; chillax end Fc : takes E4 : boolean array; e5e, X, y : integer array returns nothing aO80 : boolean array; w, i : boolean array; a, y : boolean; I : boolean; do Y(- 635 - 23, 9 = 74) end main : J3 : integer; chillax end

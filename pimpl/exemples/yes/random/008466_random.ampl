@@ -1,0 +1,1 @@
+program G4i0 : ID : takes Nd, d95, s60a : boolean; s0, cG2, EVo, E, t56aa : integer; nZ2, n71, H0, K5Taa, I, Ib : integer returns nothing input BC[- (6) and 7]; while - 95 : chillax end; output ""; while 8370 : chillax end; pop; let w = 1 end main : b6w : integer array; chillax end

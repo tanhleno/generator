@@ -1,0 +1,1 @@
+program V : y : takes N64 : boolean array; jP : integer array; Q : integer; g1, i : integer returns nothing D, q, o, E, q14 : integer array; N : integer array; O : integer; Z, s : boolean; L : boolean; G : boolean; pop 3 > 162 end main : fie : integer array; chillax end

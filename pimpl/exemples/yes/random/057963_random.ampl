@@ -1,0 +1,1 @@
+program pd : ileaa : takes L4 : integer array returns boolean array output "^" . "\t" . 39000 . 71 end MZ : takes E2 : boolean array returns boolean array chillax end main : let p0 = not(4) < - true or 215 - 69; input rb[false or false]; let X9 = array - i and 0; when case 0 - 8 : do GF4(7600) end otherwise : input m; pop end end

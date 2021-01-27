@@ -1,0 +1,1 @@
+program F : main : V : integer; U5 : boolean array; HM : boolean array; when case - false / 4 or(819) / not 56 and 4 : chillax end otherwise : let bC7[60] = array 7; do S(5, 43); while 908 : chillax end end end

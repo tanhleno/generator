@@ -1,0 +1,1 @@
+program e : main : v84 : boolean; Wy : boolean; when case not true * false or r9haa[6] : chillax end case not _ or(5) and 0850 - 01 - 3 <= true : chillax end case true or 59 > 98 : chillax end; input x; let Iw[- (8) and 46200] = array O; input ah90[- 27 - 2]; do J(756) end

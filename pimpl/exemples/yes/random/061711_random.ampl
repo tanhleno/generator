@@ -1,0 +1,1 @@
+program T : S1 : takes n : integer returns boolean array chillax end _ : takes V : boolean; u, l : boolean returns nothing do z41(- 0, 62300 = 2, 4) end p : takes K, EJ40 : integer array; n : integer array returns integer array Q, C7e0 : integer array; chillax end main : chillax end

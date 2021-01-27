@@ -1,0 +1,1 @@
+program k : y : takes M9y0, pT, a : boolean array returns nothing chillax end aRia : takes x, U : boolean array; uQ : boolean; F, XE, fl : boolean returns boolean JF : boolean array; output 1 . "" end Qa : takes W : boolean returns nothing K : integer; Y05aa, j : boolean; l : boolean; when case 9 = 24 : chillax end; output 4 . "7\"" end main : chillax end

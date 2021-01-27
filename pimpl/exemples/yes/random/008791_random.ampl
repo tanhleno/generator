@@ -1,0 +1,1 @@
+program h : B8L : takes oK, YU, i : boolean; k6r, tA : boolean returns integer input X; input c end dL4 : takes y, vqc0a : boolean array returns integer F4R, uc, R, q1 : integer; chillax end G4Pa : takes K, W6 : boolean array returns nothing chillax end main : D : integer; p2, Z8 : boolean; while 4 * false rem(9) or not(1) /= - 5 / false and 9 : input EF[0] end; input W5 end

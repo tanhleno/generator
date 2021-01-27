@@ -1,0 +1,1 @@
+program xB : c : takes U, r, Ir1, Eiyaa : boolean array returns boolean when case(6) and 6 <= 6300 - 7 : chillax end; while 689 : let Hhaaa = 703; while 9 : chillax end end; input R[6]; output "" . "\n" end main : chillax end

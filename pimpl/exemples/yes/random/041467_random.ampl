@@ -1,0 +1,1 @@
+program O : s : takes P5 : boolean array returns boolean array chillax end E : takes b, v2 : integer returns nothing w, S92, U : integer array; o2 : boolean array; v : boolean; D : boolean; G : boolean; output "" end H7 : takes yr : boolean; Q : integer array; A : integer returns boolean array chillax end main : input N5B0 end

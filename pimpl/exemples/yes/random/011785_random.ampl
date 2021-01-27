@@ -1,0 +1,1 @@
+program u : E : takes f, AXT0a, wmm : boolean returns integer array b8d, J9, x0, p, O4 : boolean array; while 85 and 3 : chillax end; while 5 < 769 : do D8j(7250) end; output 4 end main : T : integer; w3t0a, Q : integer; chillax end

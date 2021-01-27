@@ -1,0 +1,1 @@
+program p : main : while - true rem(0) < (7) * qb and 54600 : pop 0; input Bthaa; input a0[1]; pop; output ""; pop end; when case - false or(705) + 68 /= false and 9 : chillax end; when case - false : input M[72]; let C = 2; output "<I"; pop end otherwise : chillax end; while - 1 : output ""; output "" end end

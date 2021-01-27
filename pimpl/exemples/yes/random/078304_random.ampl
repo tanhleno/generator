@@ -1,0 +1,1 @@
+program d : main : v : boolean; do O55(- true or false and 1 < 444 * not 300 and 0 - (9) - 3, - i rem false and 93); do AH(M(7280) + (8) and 5 + 008 - 939 <= - false); let E = array - false; output "\"" end

@@ -1,0 +1,1 @@
+program m : m : takes L4, P2R0a, j, R, Gxq, U0 : boolean returns nothing M0D, i5, l : boolean array; U : integer array; do D3(- ksz0a and 2 - 7 <= - 8, - 35500 - 1, 6 = 3); while 9 : chillax end end main : chillax end

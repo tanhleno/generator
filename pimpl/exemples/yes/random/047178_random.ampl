@@ -1,0 +1,1 @@
+program k : Eg : takes gz : boolean returns integer M0 : boolean array; w, c, o : integer; when case not 6 : chillax end case - 5 - 1 /= 96400 : let R = 7 end otherwise : do xm(62900); output "\t" end end main : g, R, T2 : integer array; do J(- not false + 464 + false and 4070 or 8 > true + not 0 and 80 - 95 - 51); do t6(- true) end

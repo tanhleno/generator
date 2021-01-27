@@ -1,0 +1,1 @@
+program Mk : main : do G(9250 and 7 * G and 0 or false * false or _ < - (31) rem 35 and 14 + 1); pop - not 79 and 0 - 3 - 38 = - 834; when case 00800 + 099 > 62 : chillax end; output "<" . 70; output "\\$0a" . 3 end

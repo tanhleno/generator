@@ -1,0 +1,1 @@
+program MD : c4 : takes T, s : boolean array returns boolean chillax end b : takes q, k25, n : integer returns integer array chillax end T : takes q2, LDJ, A : integer array returns boolean input Io7[88] end F : takes k : integer array returns boolean array d8 : boolean; q : boolean; while 1 : pop end end main : chillax end

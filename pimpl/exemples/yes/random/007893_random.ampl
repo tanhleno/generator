@@ -1,0 +1,1 @@
+program Y900 : q : takes WM, I, P, S9 : integer returns boolean array chillax end M5 : takes Il : boolean; Z : boolean array; F : integer; W7, x, u, X62a : integer array; Z7, g : boolean returns nothing G, E8Fa, Cxs : boolean array; output "\"X" . "" . "K" . "[\n\"a" end Gv : takes Z : integer array returns nothing chillax end main : D : integer array; chillax end

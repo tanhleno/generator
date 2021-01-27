@@ -1,0 +1,1 @@
+program h8 : x : takes V22, A : boolean returns nothing chillax end u : takes j : integer array; vV : integer array; Z6, fg : integer array returns boolean cI, M, S : boolean; Z0 : boolean; chillax end main : GG : boolean; pop; while - gp[56400] = - true and 35500 or 5 - 42 : chillax end end

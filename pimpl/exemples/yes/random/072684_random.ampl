@@ -1,0 +1,1 @@
+program A : main : V7, n8s, a : integer array; qT, E, d, bm7 : integer; when case - (1 = 80700) /= (3220) : input HQ7[- 694]; output "1" end case - 7 rem 443 and 86300 >= - true : chillax end otherwise : chillax end; pop end

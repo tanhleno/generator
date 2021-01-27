@@ -1,0 +1,1 @@
+program U0 : D : takes h : integer array; t970 : boolean; w : integer array; go : boolean; N, BYda, Uh10a : boolean array; w82a, l : integer array returns nothing chillax end main : pc40a, d0, fk, ZPj : integer; input k4i[not v / true] end

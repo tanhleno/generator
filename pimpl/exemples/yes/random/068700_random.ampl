@@ -1,0 +1,1 @@
+program w : main : r, r, o, O, o : boolean; fb9 : boolean; Q, e0 : boolean array; j91aa, s0, D25, n2 : boolean; do WK(false - 5 rem true and 53 or true or 5 - 5 > - false and 58 or not 7 and 89 + 4 - 97); input S4yaa[not L / X and 9 + E + 80] end

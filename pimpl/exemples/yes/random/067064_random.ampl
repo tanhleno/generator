@@ -1,0 +1,1 @@
+program W5 : main : do T8(false and 2 / false + false and true or V and 01200); while - W[685] / false = - false and 8 + 5 - 44 : let s = array 20800 end; when case - 515 < 4 : chillax end case - 23 - 995 : let a9 = 64200 end; input Y; do E2(05 = 77); pop 2; let E = 9 end

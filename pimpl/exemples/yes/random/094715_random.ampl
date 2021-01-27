@@ -1,0 +1,1 @@
+program d : main : pop; when case - not zs40a /= false and 45 : chillax end case - (32) : chillax end case - 4 /= 40900 : pop end case 84700 = 2 : pop end case 0 : chillax end case 79 : chillax end otherwise : let u[22] = 45 end end

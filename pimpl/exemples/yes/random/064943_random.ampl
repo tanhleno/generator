@@ -1,0 +1,1 @@
+program Bm : YM : takes U : integer returns nothing G7c0a : integer; V, E, XG : integer; t : integer; let M7g0a = - 0 < 8 end lKF : takes G : boolean returns boolean array chillax end main : do E9(true / not(38) > - false / not 9970 + 30100 + 2, - false * false or not 28 and 37, - (4) or 907 > - 2) end

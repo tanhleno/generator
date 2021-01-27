@@ -1,0 +1,1 @@
+program U2 : X : takes e0 : integer; c, e4, bp : boolean; z : boolean; W3 : boolean array returns integer N : boolean array; pop 8 /= 01 end d : takes E8 : integer; Cbea : boolean returns integer array chillax end main : chillax end

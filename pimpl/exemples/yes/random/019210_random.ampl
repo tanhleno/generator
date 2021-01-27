@@ -1,0 +1,1 @@
+program L6ea : qvc : takes o, Z : boolean array; Q, u : boolean array; gCX0a : boolean array returns boolean a4f, Ix5, i : boolean array; when case - C1 or 9 : chillax end otherwise : do r(56); let At = 2; pop end; output ""; output "\\" end main : chillax end

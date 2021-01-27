@@ -1,0 +1,1 @@
+program y : F : takes o, G26aa : boolean; nmQ : boolean array; w : boolean; An, q, F9aaa : boolean; N, N, rG0, k4 : boolean array; Fy, f : integer array; Yrh0a : boolean returns nothing when case(3) and 38 : chillax end end main : chillax end

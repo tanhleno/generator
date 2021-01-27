@@ -1,0 +1,1 @@
+program N : q8q0a : takes n1, kE : boolean; q7 : boolean; I : integer array; W4, NW, ktQ, J : boolean array returns integer array chillax end R6A : takes g : boolean array returns nothing P, RdHa, E9 : integer; Z : boolean array; A : boolean; chillax end main : do f(true); pop end

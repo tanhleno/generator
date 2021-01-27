@@ -1,0 +1,1 @@
+program Z0ma : u : takes cj, n5, o050a : integer; c, b3na : integer; Sdo0, mOH0 : integer array returns nothing chillax end main : O8, p, GC60, L, V : integer; input CE; output "\n"; when case D + 04 : while 03 : chillax end; let i = 430; input vAI0a end otherwise : output "]"; pop end end

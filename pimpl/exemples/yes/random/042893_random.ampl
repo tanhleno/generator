@@ -1,0 +1,1 @@
+program D : M : takes S5 : boolean array returns integer array while not 7 : while 1 : chillax end end; while - 72600 - 40 >= 1280 : pop end; output "1" . 3 . "" end main : og : boolean array; Y, U : boolean; do YH(false / Sq[4] + V(0) > false and 94600 - true and 42600 or 95 - 59, (17) / not 23 and 20 + FhR0a + 3, - true and 2 < 5 - 4810) end

@@ -1,0 +1,1 @@
+program HS : p2 : takes w : integer; V : integer array; No9, A7 : integer array returns boolean array r, RV4a, O, cr : integer array; Wc : integer array; chillax end d3n : takes ThN : integer; I5W, rKX0a : boolean returns boolean chillax end main : let a[V[85] * 75500 / (00) and 1] = J >= - 77 or 8 end

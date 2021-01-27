@@ -1,0 +1,1 @@
+program k46aa : main : o : boolean array; lBt, G6 : integer; while not true * (98300) * false and 2 : when case 5 - 6 > 8 : do xQ(7) end case 77400 : input Wf; pop end case 5 : pop end case 1 : chillax end otherwise : chillax end; do r(041 = 1); pop; pop end; output not 6 . "<qa" . 1 = 3 end

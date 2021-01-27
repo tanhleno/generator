@@ -1,0 +1,1 @@
+program G40 : t : takes I, f930, p, Z : boolean array returns boolean pop 41 - 3; let l = 9 = 13 end h : takes b : integer returns nothing p7, j, y4 : boolean array; output 34 = 794 . "0" . "<"; while 1 : while 92 : chillax end end end main : chillax end

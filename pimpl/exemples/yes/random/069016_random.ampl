@@ -1,0 +1,1 @@
+program G : main : j, G, t8, o3, z2 : integer; C5, R, f, S, h2 : integer array; when case - false / t05[370] / true and 5 >= (165) - false and 80 : do eKyaa(- 8 - 4 > 48200, 51); let r[9] = 6 end otherwise : let sj[939] = 63; do p9(1); pop; while 2630 : chillax end; pop end; pop end

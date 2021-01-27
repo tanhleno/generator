@@ -1,0 +1,1 @@
+program q93 : K9 : takes R : boolean; dp, d0T : integer array; T : integer array returns integer array chillax end main : pop - true rem false and 5070 + M; while not false / Y and 1640 : while 44 : let W31 = 69 end; do x(0, 6) end end

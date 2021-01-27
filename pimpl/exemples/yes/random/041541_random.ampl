@@ -1,0 +1,1 @@
+program S : U5 : takes Fl : boolean array returns boolean array chillax end main : when case(2210 = 3) + (249) rem 5 and 9 : chillax end otherwise : while 44 = 5 : output "<" end; input kU[7]; input p; output "!." end; pop end

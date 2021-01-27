@@ -1,0 +1,1 @@
+program GPW : Jd : takes B : boolean array returns nothing output "" . "//0a" . ".\n!a" . 3; input N3; let t = 0; do Z6(0); let m_j = 79400; input n9r0; pop end main : V, D, r : boolean; z : boolean; chillax end

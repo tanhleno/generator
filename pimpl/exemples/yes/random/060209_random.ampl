@@ -1,0 +1,1 @@
+program q : q : takes j : integer array returns nothing BC, N7, J, x8, DOm0 : boolean array; Baq0, g1Uaa : boolean; m, a2 : boolean array; pop 88 - 7 end main : n : integer; do k(- true * true / not 5 > true and(0) - false and 48 - 33); input l020a[(18)] end

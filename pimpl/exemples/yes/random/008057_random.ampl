@@ -1,0 +1,1 @@
+program F4H : h : takes i, SUs, t, q : integer returns integer array s : boolean; AYC, N880, l : integer array; i, Jht : boolean; n4, l : boolean; Y6 : boolean; r : boolean; chillax end main : h : boolean array; pBG, C700a : integer array; H : boolean; Wi2 : boolean; w5 : boolean; _23a, R : boolean; chillax end

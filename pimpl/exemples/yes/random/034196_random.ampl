@@ -1,0 +1,1 @@
+program c67 : d4q0 : takes x : boolean; o, BqO0, jJg0 : integer returns nothing G, L, zK : boolean array; J : boolean; let M[(965)] = - 5 end WA : takes A, jY0a, q : integer array returns nothing J : integer; z : integer; M27 : boolean; wC : boolean; _4 : boolean; chillax end main : n : boolean; chillax end

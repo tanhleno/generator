@@ -1,0 +1,1 @@
+program J : Mt70a : takes lz, l, c, x38, g8S, MWW0 : boolean; e8g, y : boolean array; _, b : integer returns nothing Gj : boolean array; L7x0, kT, D : integer array; A0, n9s : integer; nr : boolean; J07a : boolean; chillax end main : chillax end

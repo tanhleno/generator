@@ -1,0 +1,1 @@
+program xA : main : while - false rem(2) * true and 3 < false or not 4 and 4890 or 7 - 6 : input R[37]; when case 2 = 62 : while 6 : chillax end end otherwise : chillax end; let gs = 9 end; when case 88 or not 68 - 7 < true : chillax end case - 0 and 2 + 909 > 3 : pop; output "`" end case - 60 - 998 : chillax end; input p[not 7] end

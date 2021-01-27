@@ -1,0 +1,1 @@
+program V : y84 : takes dM : integer array returns nothing y : integer; while 67 and 7 = 0 : pop; let m46 = 27; output ""; pop end; while 2 /= 069 : do y9(24); input YW00a; pop end; input T0s[3050] end R : takes HM7 : boolean; m, K, GAMa : boolean returns boolean pop 1 = 315; let jY3 = array 09; while 694 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program U : kFG0 : takes tR : integer returns nothing OK : integer; do n(not 60 and 7800 - 32 - 3 <= - 23400); pop 2 = 6; while 48 : chillax end end main : when case false + (5) and true > false - not 9 and 6 or 573 - 8 : input PI[412]; input s end end

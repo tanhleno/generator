@@ -1,0 +1,1 @@
+program o : main : when case k(15, 04) < q and 0 - not 3 : chillax end case 3 + (691) > b or 1 : chillax end otherwise : chillax end; while 046 * false + true and 4 /= - S or 30 - 257 : chillax end end

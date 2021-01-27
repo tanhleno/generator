@@ -1,0 +1,1 @@
+program F : o : takes Zsi0 : integer array; gu : integer array; v, W, H2 : boolean returns nothing lN5, Nu4aa, a2Laa, h : integer; o69 : integer array; R : boolean; u : boolean; pop end main : while - true + 51 / (01) and 962 >= - false : chillax end; output false and 79 <= - 25 end

@@ -1,0 +1,1 @@
+program n : rg : takes e, p, fm, C, U8, V2, z, Y28a : boolean returns nothing L, h : integer array; X, H : boolean; chillax end main : T, w48a : boolean; while false - not 7 or Ad and 927 - 1 : chillax end; do kK20(j9n(7) + 14 and 58 /= - Z and 190, (9650) and 9, 2170 - 640 = 25200); pop - 1 - 4 end

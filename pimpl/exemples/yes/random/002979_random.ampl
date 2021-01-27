@@ -1,0 +1,1 @@
+program w : S : takes x, S, h, Nk, r : boolean returns integer pop; input r2[- 1] end Y9 : takes W9, U : boolean array returns integer array while 5480 - 9 : chillax end; input w0_a[5]; do js_(3, 41) end main : L : integer; chillax end

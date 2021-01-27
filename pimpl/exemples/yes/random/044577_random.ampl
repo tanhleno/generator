@@ -1,0 +1,1 @@
+program g70 : A : takes b : boolean array returns nothing hR : boolean array; B, t, _1 : boolean array; P830, E : integer array; r : boolean; chillax end JY7 : takes n, p : boolean array; X, G : integer array returns nothing cp0, D9, cg60 : integer; pop 2910 = 5; do wY(83 = 02500) end main : O, L, y, H : boolean; S, c : boolean; while false : chillax end end

@@ -1,0 +1,1 @@
+program A : hbD : takes o7, Hxnaa : integer; t, m, SO0a, A3, x : boolean; I : integer returns integer D : boolean; chillax end main : when case - 8 /= false : when case - 3 < 96500 : let y4 = 6; when case 2600 : chillax end end; pop end end

@@ -1,0 +1,1 @@
+program G7 : x : takes _75, r, P, U : integer; Obh, A : integer array; q, oCg, _ : integer returns integer array p : integer array; input Au70a[- false and 90]; output 0 = 8 . "" . 97 end main : B9, W800, Gb, G5 : boolean; z2c : integer; PbIaa, l9f0a : integer; chillax end

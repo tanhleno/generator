@@ -1,0 +1,1 @@
+program O7 : ty : takes m : integer array returns nothing y : integer array; P, K : boolean array; chillax end i : takes zc, z6r, Q89 : integer array returns boolean array chillax end main : u, m, s7, JnL : boolean; output "\\" . "" end

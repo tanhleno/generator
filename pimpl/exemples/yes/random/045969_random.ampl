@@ -1,0 +1,1 @@
+program L8 : J3Qaa : takes B : boolean returns boolean chillax end main : AnB, rx0a, _, f, i0 : boolean array; I7 : boolean array; do l7haa(k2D0a rem not not 0 / (0) and 6 or B(01) and(6) + not 80 and 022 <= - (58) and false + E and 41100 - 90, N[78] and true and 1, false + 2 - 55) end

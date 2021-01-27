@@ -1,0 +1,1 @@
+program Xd : I6 : takes Dt, f33 : boolean array; tr, d : boolean array returns nothing chillax end D : takes q0 : boolean array; hcdaa, s, x : integer array; V : boolean returns nothing q, l, h : boolean; let T2[66 - 37] = array - 68 end main : j12aa : integer; chillax end

@@ -1,0 +1,1 @@
+program k : main : when case not true /= (78200) or false and 79100 + 1 - 1 : chillax end case 978 > 37400 : pop 31300; do s(4, 83); while 21 : chillax end end case - not 5270 >= 71 - 57 : do N(86100); while 7 : chillax end; input R end case 8 - 3 : input J; output "e" end otherwise : input i end end

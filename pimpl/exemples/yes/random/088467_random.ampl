@@ -1,0 +1,1 @@
+program Dk5 : main : input Z9[- false * true / 036 + h * f + 5]; when case(7) rem(59) and 799 + false and 057 <= false : output 4450 . "" . "" end case - M > 79 : while 5 : pop end end otherwise : chillax end; output "" end

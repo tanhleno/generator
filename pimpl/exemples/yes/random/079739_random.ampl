@@ -1,0 +1,1 @@
+program I14aa : main : v : boolean; j : integer array; K : boolean array; input Q; output "h\t" . 37 . ""; while - not 136 - 7 : chillax end; let Cm60a[04 - 61] = 86 = 1; input ml; input M[29]; pop; while 51 : chillax end end

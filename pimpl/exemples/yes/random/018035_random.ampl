@@ -1,0 +1,1 @@
+program eI : t : takes E, e1 : boolean; Ss60a : boolean returns nothing chillax end OF : takes We : boolean returns integer q5, C : boolean; output 644 = 2 . "9" . ""; input D4 end main : let q4 = - true rem(41) and 2 end

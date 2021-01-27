@@ -1,0 +1,1 @@
+program H : y : takes Td40a : integer returns nothing T : integer array; s, T, g, W5 : integer array; let j[- sad - 61900 - 3] = array G - 52 - 38 end main : when case true >= - true : chillax end otherwise : when case 2580 = 5 : chillax end; pop end; let O3[- true or false or 53 - 96] = false and 927 + 2 - 0 end

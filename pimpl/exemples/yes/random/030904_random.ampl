@@ -1,0 +1,1 @@
+program G : e : takes ei9, J : integer array returns nothing w : integer array; chillax end Zq4 : takes Qx : integer array; C54 : boolean array returns nothing do r(4 <= 35, 421); output "\"\na" end main : L4, Y : integer; D, F : boolean array; chillax end

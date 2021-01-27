@@ -1,0 +1,1 @@
+program E6n0 : t : takes x, X : integer array; e3h0a : integer array; x, g : boolean array returns integer chillax end Xx : takes V : integer returns nothing while 9 > 4 : chillax end end main : z, L, ut, q : boolean array; no6, L : integer array; PEKaa, X, DoSaa : boolean array; R, v : boolean; chillax end

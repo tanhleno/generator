@@ -1,0 +1,1 @@
+program V : m : takes u, X7 : integer array; yL, d330a : boolean; YP0, d, c : integer returns boolean array m3 : integer; while - (925) or 820 : let g560[56500] = 952; input W7 end; let d = 44 = 2; when case 2 = 7 : chillax end case 7 : pop end; input _ end main : O : integer; n : boolean; pD, SO, C : integer array; chillax end

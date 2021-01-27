@@ -1,0 +1,1 @@
+program uV7 : y : takes m1V, H, a : integer array; Wz8 : boolean; Mv : integer array; hMr, X : integer; Eh2a : integer; c : boolean returns nothing input o; do R(23, 85, 4) end main : when case - (71 = 4) <= - true : chillax end case not not 3 : let z = 22 end case - false and 390 <= - 523 : pop end end

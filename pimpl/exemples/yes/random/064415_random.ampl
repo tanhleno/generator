@@ -1,0 +1,1 @@
+program y : X : takes N : integer returns nothing LENaa, Sd : boolean; n15, Xt, D0 : integer array; let E4 = 49600 - 5 = 9 end H : takes O, a, Z : integer array; BE, C : integer array returns nothing o : integer array; nps : boolean; do wjm(- 2, 6, 50, 720) end main : pop B(3) or 50 or 3 - 5730 /= - f; output "" . 522 > 9440 end

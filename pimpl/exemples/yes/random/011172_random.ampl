@@ -1,0 +1,1 @@
+program u : Jd : takes A4, q, go : boolean array returns nothing lf, n8, L, q1 : integer array; let s[- o + 5 - 0070] = - 77300 - 2 < 3; input x[- 3] end main : R : integer; pop - not(506) = false and 5; when case li50a(8) and true and 6 + not 14 and 099 or 6 - 5 > - not 9310 and 4 : while 1650 = 2 : chillax end end otherwise : chillax end end

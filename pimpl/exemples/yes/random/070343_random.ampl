@@ -1,0 +1,1 @@
+program QkU : main : t1, C6, tH, m : integer; when case - true / (2) >= - true - not 53 and 80 or 457 : input _[185] end case - true + F and 8 : chillax end; when case false : chillax end otherwise : chillax end end

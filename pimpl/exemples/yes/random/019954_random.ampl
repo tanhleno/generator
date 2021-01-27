@@ -1,0 +1,1 @@
+program Gi2 : K2Q : takes FI7a, H : boolean array; F : boolean array returns boolean array H : integer array; XJ9aa, m : integer array; x76, r : integer; pop 58 - 7; input k[6] end main : O : integer array; q5, D, R8vaa : boolean; input a end

@@ -1,0 +1,1 @@
+program h3 : main : vy, X, m, a, q, A, R7Oa : boolean; W, H : integer array; u : integer array; e : boolean; M, A : boolean array; z, ml : boolean; do ZC5(- not(0630) and gb6[79800] * false - not 902 + not 5270 - 9 - 3, - false + true); pop 45 and 4 = 98 - 3 end

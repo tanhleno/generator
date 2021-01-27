@@ -1,0 +1,1 @@
+program c5Ya : T : takes V, Y, l, dK8, H, oHo0a : boolean returns boolean let l62 = array - false and 7 or 35 end x : takes t : integer array returns nothing s, I8, q, Tj : boolean; Rj : integer array; let N = array 9 - 894 end main : N : integer array; chillax end

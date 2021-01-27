@@ -1,0 +1,1 @@
+program U40 : R6H : takes re00 : boolean array; M0, fP, N0daa, b, I : boolean array; llY : integer returns boolean array input X6 end I : takes N, QLy, b : boolean array; I : integer array returns nothing input K2i[8]; let z = 80; while 82 : pop end; pop; when case 13 : chillax end end main : chillax end

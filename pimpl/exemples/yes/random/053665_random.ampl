@@ -1,0 +1,1 @@
+program L : a640a : takes mq : integer array; F, e1, lW, jr8aa : boolean array; Y, b : boolean array returns nothing h45 : boolean; R23, wSj : integer; do gVF0a(not 6 and 2340 - 3 = 3 - 0, 612 - 5190 >= 903, 3); while - 17700 - 9 <= 2 : chillax end end main : while - false rem true + true and 07700 >= - true - 7 : chillax end end

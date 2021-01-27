@@ -1,0 +1,1 @@
+program Z9 : t : takes sMK, bb10, dS4, A, J8d, y, U, DxB : boolean returns boolean Yk1 : integer; WC6a : boolean array; A74aa : boolean; while - 9 <= - 7 : chillax end; output "" . "77" . "4W0a" end main : _ : integer array; h1W : integer; Oi9a : boolean; T : boolean; chillax end

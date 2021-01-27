@@ -1,0 +1,1 @@
+program P : W : takes On7 : boolean; Cyw : boolean; g : integer array; x : integer array returns nothing a : integer array; j, M, Bgiaa : integer array; nE4aa : integer; L0g : boolean; while not 74 or 02000 /= 3 : do O(5) end end main : f, m_Haa, B0C : integer; IS, O, n, v39 : boolean array; s, o : integer; chillax end

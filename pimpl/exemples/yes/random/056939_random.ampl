@@ -1,0 +1,1 @@
+program R : d8 : takes Qv : integer array; Io8 : integer array; X : boolean; J, i : integer array; k, s, Km : integer returns nothing when case false and 2 - 385 >= - 20800 : chillax end case 30000 : do x(8) end; input t end main : output - (96) < 4 and 3; output "" end

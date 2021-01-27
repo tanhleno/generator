@@ -1,0 +1,1 @@
+program J41 : main : when case(2570) and true and 1 and 16700 + not not 5 * VXsa and 401 >= - false and w and 5 : chillax end case - (44) / not 64 = true and 6 - 2 - 55 : chillax end case - not 456 or 8 : chillax end otherwise : when case 21 : do p9x(2) end case 78800 : pop end case 78500 : chillax end end; output - false and 09 + 82 - 55600 /= - 4 - 1240 . "]\n" . "" end

@@ -1,0 +1,1 @@
+program FOt : pe : takes KAq0 : boolean returns integer chillax end p6 : takes P, MNH, o, lR1 : integer; x7 : boolean; w, u2, h1I : boolean array returns boolean Z, i, C : integer array; E, B9t, Ya : integer array; do Aq(01 - 4 >= 5) end main : chillax end

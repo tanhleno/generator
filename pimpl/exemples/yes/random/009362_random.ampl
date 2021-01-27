@@ -1,0 +1,1 @@
+program dj8a : W : takes B270, fc, N00 : boolean; Y : integer array returns boolean i : boolean array; nL : boolean array; chillax end X2 : takes J, cq, Tb50 : integer array; V, PH60a : boolean returns nothing chillax end main : chillax end

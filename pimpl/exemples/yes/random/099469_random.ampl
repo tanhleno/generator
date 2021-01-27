@@ -1,0 +1,1 @@
+program Q : main : while not false : chillax end; while true - 422 - 8 - 33 >= false or 09700 : chillax end; while - (7) and 2 or 76 - 86500 >= - 601 : when case 5 : pop end case 5 : chillax end otherwise : chillax end; pop end end

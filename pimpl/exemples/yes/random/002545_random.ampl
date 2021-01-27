@@ -1,0 +1,1 @@
+program xg : r : takes n, B, R, v, prf : boolean array; Fa7 : boolean array returns integer array input e[- 6 and 9]; pop 04 = 03500 end main : M7B, Co : boolean array; ym, i : integer array; chillax end

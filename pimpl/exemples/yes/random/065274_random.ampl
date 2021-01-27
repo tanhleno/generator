@@ -1,0 +1,1 @@
+program d : g : takes k : integer returns nothing let s[- false] = array false and 9 + 8 - 75 end main : j, z, q, F2_0a : integer; do KT(true /= - false / true and 56, W > false and 0 or 3 - 5140) end

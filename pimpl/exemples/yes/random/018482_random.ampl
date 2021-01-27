@@ -1,0 +1,1 @@
+program wZ0 : t : takes X3ua, sb : boolean; T : integer returns boolean array s, No7 : integer array; chillax end d : takes ka : integer returns integer output 5 . "TC!" end main : L : boolean array; chillax end

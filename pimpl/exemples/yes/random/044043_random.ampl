@@ -1,0 +1,1 @@
+program G : o9 : takes B20 : boolean array returns nothing i, Tz4, MK80a : boolean; chillax end main : m, p : boolean array; h, x, W6, t1, HSJ0 : boolean; pop; while - not O > - s + 0 - 05 : chillax end; output - 2 >= 0; while - 1 - 84100 <= 4 : when case 28 : chillax end; let I = 68; pop end end

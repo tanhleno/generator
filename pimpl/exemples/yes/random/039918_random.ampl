@@ -1,0 +1,1 @@
+program cG6 : _t : takes w : boolean array; V : boolean array; z : integer; Q7, H, N, O6 : integer array; li, kF7a : integer returns boolean array Rp : boolean; aG : boolean; let w4t[- not 7 and 0] = - 85500; pop 26200 = 6660 end n : takes fyU : integer returns boolean array chillax end main : T0 : integer; g : integer array; chillax end

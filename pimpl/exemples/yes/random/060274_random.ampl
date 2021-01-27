@@ -1,0 +1,1 @@
+program z : Y : takes l : integer array returns nothing L0, gs, v, y : boolean array; when case 3 and 31 >= 5 : chillax end case 21000 - 64 : chillax end case 515 = 7 : chillax end otherwise : chillax end; pop end main : input K[- not 8 or not(8) * 783 + false] end

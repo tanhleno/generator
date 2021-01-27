@@ -1,0 +1,1 @@
+program FC30 : main : f : integer; while false * 49200 rem(5) and 43 or not not 3 and not 50 and 2 or 32200 and 34 <= Q[0] rem f and 1300 : chillax end; let i5 = array cj[29600] + 02 and 3 - 182; output "" . "" . 5 end

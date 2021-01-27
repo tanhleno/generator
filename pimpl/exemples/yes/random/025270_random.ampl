@@ -1,0 +1,1 @@
+program L : tN10 : takes mZ, m350 : integer; S, Ee, F : boolean returns integer array YKt, v6s0, K : integer array; while - true and 8 <= 40 - 1 : chillax end; output "" . 0 end tj : takes r, x02 : integer returns integer P, z0h, D : integer; input b[- 11200] end main : while - (8) * (3) >= - false / m8X and 07 : chillax end; input o end

@@ -1,0 +1,1 @@
+program b : S : takes C : integer returns nothing chillax end S90 : takes _U8, b0M0a, u5oaa : boolean returns boolean chillax end KiH : takes sR, I5saa : integer; jm2 : boolean array returns boolean array z : integer; let Q[5] = 8 end main : pop - true / true and 05; when case - 17 - not 8 + 235 < false or 65 - 948 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program ks : W : takes aS : boolean array returns boolean chillax end WU9 : takes x9 : boolean array returns integer when case 5 >= 21300 : chillax end otherwise : let h = 197 end end main : let h = array - 2; while n3 / M8 and 33 >= 55 and 51 : chillax end end

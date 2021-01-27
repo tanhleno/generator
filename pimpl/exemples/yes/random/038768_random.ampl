@@ -1,0 +1,1 @@
+program T : cJ6 : takes z : boolean array; v, H37 : boolean array returns integer chillax end da : takes _mH : integer; r : boolean array returns nothing chillax end main : pop a[05300] and iT or false - 99 end

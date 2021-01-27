@@ -1,0 +1,1 @@
+program R : k : takes L5, L : boolean returns integer array pop 1 - 822 end oO2 : takes w, UJ, VKg, w : boolean; g, c : integer returns nothing let k = 0 = 66; input v; pop 1; do x8Y(6); output ""; pop end main : z : boolean; i : integer array; pop M * h or K <= not 8 and 1800 + 97 - 19 end

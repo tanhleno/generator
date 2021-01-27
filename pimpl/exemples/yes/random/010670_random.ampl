@@ -1,0 +1,1 @@
+program E8q : F4h : takes D, W49, O : boolean array returns boolean do YbN0a(not 08 and 96600 + 13900, - 5260 = 4, 8 = 265); input b[- 63 - 76] end main : i : integer; H5, c, SW, _MBaa : boolean array; chillax end

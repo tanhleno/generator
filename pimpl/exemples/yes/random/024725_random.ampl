@@ -1,0 +1,1 @@
+program B : v : takes G, t : boolean returns nothing let l[s7 + 2 - 40] = array - true and 8 or 0 - 32; input v88aa[51600 - 4]; when case 5760 : chillax end; pop; while 8 : chillax end end main : let N3[not true and true + true + 2] = - not not 27 <= 4000 + 7 - 3; pop - false and 77 - 64 > - 5 - 300 end

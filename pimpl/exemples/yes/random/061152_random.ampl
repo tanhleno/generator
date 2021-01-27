@@ -1,0 +1,1 @@
+program Q3 : tSd : takes H75aa : integer array returns nothing e : integer array; e : boolean array; V0s : boolean array; while true and 622 : chillax end end g : takes v : boolean; r930 : boolean array returns boolean chillax end main : let W[- false] = - (2) end

@@ -1,0 +1,1 @@
+program XyKa : C : takes K, _FQ : boolean; v : integer; i1, o1, bef0, G : boolean; H4Z : boolean array; K, L, Z0 : integer returns nothing let e570[(1) - 8210 - 5] = array - true and 7; input X end q : takes x : integer; o3, xI8, k : integer returns nothing Tz2aa : boolean array; z, PQJ, gY : integer array; chillax end main : XvS, p2, Mm : integer array; R8 : boolean; chillax end

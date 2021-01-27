@@ -1,0 +1,1 @@
+program Ya7 : QU6aa : takes p7 : integer array returns boolean x5, Ol, V, n3, l9daa : boolean array; Mge : integer array; a : boolean array; chillax end bC5a : takes l, O : integer; X, Fa, I, pm : integer array returns nothing chillax end Ec : takes m, e5, v : boolean array; W : boolean array; j, T2, q, i : boolean array returns integer array chillax end main : chillax end

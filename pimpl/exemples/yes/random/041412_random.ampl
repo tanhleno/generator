@@ -1,0 +1,1 @@
+program kk : c : takes U : boolean array; w8 : integer returns nothing let mu60[8] = - 9 < 7530; pop end W : takes h : boolean array; q, Y2 : integer array; b, L : boolean returns boolean chillax end _6 : takes p, V7 : integer returns boolean do l(13 = 5, 02, 46) end main : do GUf(true + (5) / false and 9); pop - true < - 8; output 9 /= 7 . "\"\"" . 9 . 3 end

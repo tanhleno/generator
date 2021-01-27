@@ -1,0 +1,1 @@
+program P7 : E : takes sHR0a, _A : integer array; z : integer returns nothing pop - 44800 - 195; pop 7 end Y8 : takes _h : boolean returns integer array chillax end main : j, f1 : integer array; O : boolean; chillax end

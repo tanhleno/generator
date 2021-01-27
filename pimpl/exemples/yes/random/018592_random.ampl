@@ -1,0 +1,1 @@
+program _ : H : takes LO, j : boolean array; s39, _4, x2, v, p, gt90a, oy : boolean array; JhE, L7D, u, x1 : integer array returns integer array output 8 - 6 . "" end main : do Y(- true); input q8[- (61) * true and 9260 or 99] end

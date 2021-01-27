@@ -1,0 +1,1 @@
+program P : _06a : takes d2, A, j, A78a, C : boolean; V, D, J6 : boolean returns integer array v : boolean array; input XW[- 3]; do x(0680 - 1) end x : takes T0, M9a : boolean array returns boolean t : boolean; chillax end main : output - false - false and 53100 + 58 - 26 . "\\9" . - 3 - 1 > 5 end

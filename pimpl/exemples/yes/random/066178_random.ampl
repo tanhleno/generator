@@ -1,0 +1,1 @@
+program Y : main : do J(- false rem not true / x - false rem true and 0 - 9800 and 45 - 0 - 5620 /= true - not 7 or 850, (5) rem not 73300 - true); while - (61) : while 01 = 1 : pop end; when case 6 : chillax end case 5550 : chillax end end end

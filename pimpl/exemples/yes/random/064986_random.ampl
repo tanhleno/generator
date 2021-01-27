@@ -1,0 +1,1 @@
+program O160a : V : takes z : integer returns nothing f5 : integer; F : integer; do s(- false = - 8870, - 6 - 1 /= 4780) end _O : takes rkoa, Cm : boolean array returns integer array let A4caa[4 - 5] = array - 7 - 7; do i(2, 268, 57) end main : let i[- not not C5 - (9)] = - not 4; let S = - 3 and 75 end

@@ -1,0 +1,1 @@
+program w1k0a : Ai : takes n0 : boolean array returns integer g, NJ, k, O, W : integer array; R : integer array; m : integer array; pop end main : f0, F0J, T7, B2Da, TD : boolean array; let h[Q03[54]] = - false < 74400 and 3 - 03 - 3; when case - m and false and 522 + true : do d4(6, 9770) end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program X0 : Y : takes qf, ZT, W, R : integer array; Jnc, M7 : boolean; W : boolean array returns integer array chillax end main : l370a, Utc, ri6a : boolean array; _4, J, v8 : integer; g, P, Q06a, f0, Io : boolean array; while - not true : chillax end end

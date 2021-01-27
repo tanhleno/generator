@@ -1,0 +1,1 @@
+program D50 : LR : takes D : boolean returns nothing d, e, N5 : boolean array; K91 : integer array; chillax end main : output - not true and not 8 and 75 . "" . "" . 7 = 5; when case - 37 : chillax end case m and 989 + 22200 - 73800 <= - 0 - 5440 : chillax end; do k(18 and 6 = 6, 7 - 2 > 7, 4 = 7, 099, 13800); input u; input f[1]; let L[07] = array 3; do LF9aa(3); do j5x(8) end

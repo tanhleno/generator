@@ -1,0 +1,1 @@
+program m : V1 : takes GQ2 : integer; Ho8 : integer array returns nothing chillax end o8 : takes z, iz, O : integer returns boolean array chillax end main : do h99aa(- true * false and not 31 and 8, (49) rem not 7750 and 4); let h = array - 0 * true and 6; output "\n50" . 3 . "`\n0"; output 4190 end

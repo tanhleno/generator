@@ -1,0 +1,1 @@
+program D : main : s8, PI4 : boolean; while - 00 * H6 rem false >= 1100 : input m[- 0] end; let Q[not true and false and 3] = (77) + 5 - 7800 = - 6890; while 6 - 6 - 91 : when case 4 : pop end end end

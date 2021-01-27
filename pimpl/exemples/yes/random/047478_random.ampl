@@ -1,0 +1,1 @@
+program I : g6 : takes _52aa : boolean returns nothing chillax end Z5 : takes O, u0 : integer returns nothing chillax end plg0a : takes uV : integer returns integer when case 23 = 6 : while 447 : chillax end end; let _[5] = array 5 end main : chillax end

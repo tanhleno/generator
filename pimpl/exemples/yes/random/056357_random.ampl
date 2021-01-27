@@ -1,0 +1,1 @@
+program B : YOX0a : takes w : integer array; UH : boolean returns integer Jx20a : boolean array; zn : boolean array; let UDF0a = array - P7Q + 67 end main : _, j : integer array; pop true * 70 and 67 - y2 and 39100 <= - false and 491 + 5; do L(- (95) <= 60200 - 4, - not 083 /= 10); input vu3a end

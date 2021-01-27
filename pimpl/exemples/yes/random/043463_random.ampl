@@ -1,0 +1,1 @@
+program M : m : takes W : boolean array returns nothing chillax end _8Ua : takes O6, zV, C : integer returns nothing Q, A : boolean; chillax end _ : takes E, _, UF : integer; Ta : boolean returns nothing G : integer array; chillax end f : takes N, B1, qC : integer array; K, u0 : boolean returns integer array output "" . "N#" end main : chillax end

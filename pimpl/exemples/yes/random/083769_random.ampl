@@ -1,0 +1,1 @@
+program rO : main : p : integer; z, l2haa : integer; while not(68400) * 11 /= - not 0 / fu00a and 983 or not 7 and 7 : while - 2 - 0 : chillax end end; while 93 <= - not 7 and 21900 : chillax end; when case - true or 14 : chillax end case 9 - 9 = 8360 : chillax end end

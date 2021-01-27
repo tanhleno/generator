@@ -1,0 +1,1 @@
+program c : O : takes prka, pj, R : boolean array returns nothing chillax end main : c : boolean; Oh3aa, _, Jn : boolean; h87aa, qBj : boolean; Zf5aa : boolean; W5a, T : integer array; y4, Z : boolean; p : boolean; j6 : boolean; output "`" end

@@ -1,0 +1,1 @@
+program H : T : takes _8 : boolean array; u : boolean; H : integer; Kb, k : boolean array returns boolean U, p, P, i : integer array; T, K : boolean; pop - 5290 - 076 = 0; input xxG[9 - 5930]; output "\\\t" . 522 end main : J : boolean array; Xsc, B : boolean; output false /= A - 535 . - false and 71 = - 07 . - 4 - 0 > 59 end

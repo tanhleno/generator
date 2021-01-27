@@ -1,0 +1,1 @@
+program d : f : takes U : boolean array returns integer pop - 45600 - 5410; when case - 684 > 18100 : while 285 : chillax end; let j = 0; pop end end o : takes n02a, NG, jM90 : boolean array; J : integer returns nothing X : boolean array; chillax end main : chillax end

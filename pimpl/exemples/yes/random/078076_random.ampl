@@ -1,0 +1,1 @@
+program D : main : c0h, E : integer array; when case - pc[0] + 6 - not 4 and 4 : do wd(- 7 - 9) end otherwise : when case 7 = 73 : output "8" end; output "" end; when case - (37) or Z + 25 - 9 <= - not 80 or 0 - 1570 : output "[8"; while 443 : pop end end case 057 > - 8 - 9 : while 33 : pop end end; input u[(4)] end

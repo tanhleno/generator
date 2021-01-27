@@ -1,0 +1,1 @@
+program G : G39 : takes T, v : integer returns integer array when case - 0 >= - 21000 : chillax end otherwise : chillax end; output 51 . "" . 24 . "" end main : j, m7, _u : integer array; chillax end

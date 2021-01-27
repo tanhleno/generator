@@ -1,0 +1,1 @@
+program c : G : takes Y, ESG0a, Es, o3e0a, xC20 : integer array returns boolean iF, f, jl, b4z0, E04a : boolean array; chillax end main : input KJiaa[true and true]; while true / 38 - false and 3510 - 1 - 96 /= - (90200) and 0 or 5 : when case 7980 : do V(1) end end; input I69[- not 8 + 9 - 55]; let U[9] = 226 = 50; let p = 80700; pop 2 end

@@ -1,0 +1,1 @@
+program o6eaa : p : takes wbi, V, ds, g : boolean array; p8 : boolean array; wwK, F, I : integer array returns integer chillax end j : takes h2 : boolean; M : boolean; r : integer returns boolean array l7W : boolean array; v9, U7 : boolean; Ee2a, s : boolean; chillax end main : chillax end

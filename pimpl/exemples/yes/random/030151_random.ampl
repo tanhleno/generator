@@ -1,0 +1,1 @@
+program _ : t : takes xB, i4 : integer array returns integer when case - (930) and 7 < 8240 - 5 : chillax end case 356 = 5 : chillax end case 47 : do w5(134); pop end otherwise : chillax end end main : chillax end

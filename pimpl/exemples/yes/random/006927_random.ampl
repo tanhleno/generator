@@ -1,0 +1,1 @@
+program Upr : P : takes c6yaa, FZ8a, EYv, T : integer array; B0, B630, GIDa : integer array; B520, Z, A4r : boolean returns boolean when case - 288 + 908 - 5 : chillax end case 9 /= 85 : chillax end case 4 = 44 : chillax end case 61 : pop end otherwise : input c end; pop 564 = 7580; while 11 : chillax end; output "+"; do Oj(80) end main : chillax end

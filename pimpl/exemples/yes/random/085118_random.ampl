@@ -1,0 +1,1 @@
+program gf8 : main : Q : integer; when case - (6) * not not 6 / 0 and 84 + 5 * 4 and 03900 or true and 1 : when case - 71 - 1830 > 8 : chillax end; when case 4 = 0 : when case 8640 : chillax end end otherwise : pop end; pop 065 end case - (2330) / true and 92 + true : chillax end end

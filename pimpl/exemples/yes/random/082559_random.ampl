@@ -1,0 +1,1 @@
+program m2 : main : w : boolean array; pop - not false <= not 6 and 20 + 41 - 6; when case not a / F and 3480 or not 4 < - (9) and 02 : chillax end; when case - (8) = 61 - 8 : chillax end; input d; input q end

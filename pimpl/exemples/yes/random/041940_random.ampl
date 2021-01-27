@@ -1,0 +1,1 @@
+program mw : Uq4 : takes R : boolean array returns boolean chillax end x : takes O, k : integer array returns nothing Sm : integer; F : boolean array; b, g : boolean; do n0(9 > 91, 3 = 1470); input D31[00900] end j : takes M, R5Da : integer array returns nothing H6, n, gh : boolean; E : boolean; chillax end main : input W0v[- z0 / false + false]; input f end

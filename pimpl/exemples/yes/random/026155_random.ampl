@@ -1,0 +1,1 @@
+program u45 : A : takes W, N : integer; Im : boolean array; J4d, I2 : boolean array returns nothing T9, S, S1Baa : integer array; chillax end main : O, u : boolean array; b : integer; N : integer; when case - 4 rem true < - 3 : chillax end otherwise : chillax end; output "" . "\n" . "]" . "" . "" end

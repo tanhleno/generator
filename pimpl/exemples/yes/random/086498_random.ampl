@@ -1,0 +1,1 @@
+program G : main : S2 : integer array; i : boolean array; e, p : boolean; let ZD = array true or 89 + not 148; while - true > false or 12300 : pop; output "z7" . "l"; while 50 : chillax end; output ";\\"; pop end end

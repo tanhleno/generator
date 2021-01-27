@@ -1,0 +1,1 @@
+program K : j : takes P8 : integer returns boolean Vf, lZ : boolean array; E : integer; input nV; output 1 = 0 . 66 end w : takes GD, hW : integer; o9v, C, Z, ms, vpd, Fq : integer returns nothing chillax end main : o : integer array; u : boolean array; qf2 : boolean; chillax end

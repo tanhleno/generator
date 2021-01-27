@@ -1,0 +1,1 @@
+program J : PG : takes Q, L, eJ2, p : integer returns nothing when case true and 7 or 20 - 15200 >= 8 : chillax end otherwise : chillax end end main : do A(- q and 6 * (0) and 9 - true - 4); do v(not 6 * (9) and 943 or not 9 + 3 - 3 >= - (8) and 9 or 38900, not 9 - 29 = 0 - 7) end

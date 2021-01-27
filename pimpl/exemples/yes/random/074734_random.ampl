@@ -1,0 +1,1 @@
+program n : main : o31, QoU : boolean array; w20, E9Laa, Zk50a : integer; t : integer array; when case - 56 rem 21 - not true and false and 3 + false and 69000 : when case - 7130 : chillax end case 3 : when case 3 : chillax end; pop end otherwise : when case 49 : chillax end; pop end; do sr(7 = 9) end; while not s3g0a <= false : chillax end end

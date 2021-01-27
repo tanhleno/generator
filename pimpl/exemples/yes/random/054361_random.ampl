@@ -1,0 +1,1 @@
+program UM1a : t70 : takes c : integer array; I, j, w : integer returns nothing input v2[- false]; while - 603 - 9 : do Md(30); do P(1); pop end end main : Q2a, A : boolean array; Z9h : integer array; chillax end

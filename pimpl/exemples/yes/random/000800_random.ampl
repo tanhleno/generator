@@ -1,0 +1,1 @@
+program PZLaa : F : takes r0r, b57a, c, T460a, e, Z7qaa, J : boolean returns nothing U2 : integer; xA, E, l : integer; pB3, D : integer array; pop; let _ = 1 = 27 end IrU0a : takes j1, T : integer returns nothing ugB, h, B5, V : boolean; r0G : boolean array; chillax end main : chillax end

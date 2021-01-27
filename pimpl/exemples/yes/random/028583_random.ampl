@@ -1,0 +1,1 @@
+program k : Z15 : takes Fe, f : integer array; N8 : boolean returns nothing _, gqn, y8, j : boolean; while - true or 36 - 95 : do V5(3, 32000) end; let E8[- 99] = 8830; do a(9, 5, 3); pop; output "" end main : chillax end

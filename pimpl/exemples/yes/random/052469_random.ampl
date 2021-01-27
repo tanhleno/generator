@@ -1,0 +1,1 @@
+program E320a : A : takes e : integer; D : integer; w70, Q : integer array returns nothing chillax end N690a : takes gY : boolean; v85 : boolean returns nothing Q : integer; H : integer; output "6caa" . "" . "\n" . ""; let _9 = 27 end main : input G; do _(- not 4 = (0), 64 > - 60, - 68 - 94 < 819) end

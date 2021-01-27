@@ -1,0 +1,1 @@
+program v : u : takes Zf : boolean returns integer array chillax end main : M, N : boolean; wu_ : boolean array; F3F, Hi, N970 : boolean; e : integer array; do iV5(- 89500 / Y[1]); output "@3" . 13 /= 64600 end

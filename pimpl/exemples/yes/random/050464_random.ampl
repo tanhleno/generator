@@ -1,0 +1,1 @@
+program TU : K2 : takes Zxua : integer; H2, RRhaa : boolean array; l, Y : boolean; r21aa : boolean array returns nothing a95a, m7 : integer; when case not 47300 and 6 /= - 35 - 385 : chillax end otherwise : chillax end end main : m390a, p : boolean array; chillax end

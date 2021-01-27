@@ -1,0 +1,1 @@
+program h62 : L8 : takes D : boolean array returns integer array AY8aa, _Mf0a, j : boolean array; z, o8K0, m : integer array; output - 87 end main : P6G, vku0, Fy : integer; k, Y3, D, zW : integer; Tmv, E, IX, QR, L5Qa : integer array; output - U88aa <= false and 0540; output 81 and 4280 + 84 - 4; pop; output 929 = 3 . 2 . ")" . "" end

@@ -1,0 +1,1 @@
+program D74 : d : takes r : integer returns nothing a : boolean array; Bb, _o, y, Amo : boolean array; chillax end d : takes M7, jD, l3L : boolean; ks5aa : integer array returns nothing p : boolean array; chillax end c09 : takes o, a, A, F9 : boolean returns nothing when case 90 : chillax end otherwise : chillax end; output 51 end main : chillax end

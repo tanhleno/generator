@@ -1,0 +1,1 @@
+program Lc : p : takes lx, I9, Ty2 : boolean; Af, Z : boolean; P1, Cg, n, m63 : integer array returns integer array q : boolean; H, dF : integer array; S : boolean array; o : boolean; chillax end main : q70a : boolean; do z(- false - (65) and(26) and 6 >= (0300) * true) end

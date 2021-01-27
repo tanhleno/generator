@@ -1,0 +1,1 @@
+program MGiaa : main : when case - I0 <= - not not 438 rem(6910) and 1 : chillax end otherwise : let m = 204 end; let f03 = - 6; pop 89 < 5; while - 780 < 8 : when case 3 : chillax end end; input se5a end

@@ -1,0 +1,1 @@
+program pb : main : l : integer; h : boolean; lE3aa, p : boolean; pop; do R(- not(3200) <= - not 8 and 936, false, - 4 <= 3, 34 = 6750); pop; let I[2 - 5] = 95 = 5; while 27 = 3 : chillax end; pop 35 end

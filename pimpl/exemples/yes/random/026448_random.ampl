@@ -1,0 +1,1 @@
+program P : UH30a : takes J, H : integer; u8r : boolean returns nothing K : integer; chillax end HS1 : takes c, y37a, s2, J : boolean array; T5, t, C3 : boolean; s : integer array returns nothing w : boolean; do a9(22900 - 13) end main : output 2 . "4" . "!5" . "" . 69; output "[" . - 69 - 74300 . 7 = 81 . 47 . 9; do n(- not 778 - 8 < 4 - 9, - 1 - 89, 45 = 472, 02, 9) end

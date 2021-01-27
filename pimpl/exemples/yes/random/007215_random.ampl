@@ -1,0 +1,1 @@
+program jG : B1 : takes A90, yz, Fywaa, w9 : integer array; _T : boolean returns nothing j, _B3a : integer array; pop 842 - 5 >= 3790; do Fh(- 32, 1 = 3) end M : takes l, V, t5, o : boolean; T, m : integer array returns integer let nJ2 = 604 = 68; output "" . "V"; when case 3 : pop end otherwise : chillax end end main : input fpX end

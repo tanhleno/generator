@@ -1,0 +1,1 @@
+program g : j : takes L, _, Q4 : integer returns nothing chillax end main : Ic : integer array; C1j : integer; let u[false and(792) - false] = array - not 17 * (56) / (68) - 71 + true and 351 - 6 - 5; when case - not false rem(5) and 3 > - not 37 + 26 - 8 : chillax end case - W1e0a and 44 = - 8 : pop end case 6 - 6 : chillax end end

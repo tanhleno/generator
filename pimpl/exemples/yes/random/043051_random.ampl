@@ -1,0 +1,1 @@
+program U : W1N : takes I : boolean array returns integer n, Bu7, a, eC2 : boolean; P2 : integer array; input q[- W and 963]; while - 0 - 7 /= 6 : do N(8) end; do S(6, 0, 2) end B : takes H8, gKR, dWK0a, T, dN_a : boolean array returns nothing L : boolean; j, s : boolean; let l4[- 2] = 9580 end main : h : integer array; Fz, N3Va : integer; chillax end

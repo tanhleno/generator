@@ -1,0 +1,1 @@
+program a6 : K : takes z3q, p, X67 : integer returns boolean input r[- false and 0910] end main : when case - true / T52a(79) / false and 114 or(1) /= - 703 : while 6 - 26 : do z(89600); do E(3); pop end; let F = array 94 end end

@@ -1,0 +1,1 @@
+program C33 : Tm : takes Q : boolean; v61 : boolean; n : integer; B, E : integer returns boolean array while not 4 and 4 or 9 - 92 <= 17 - 063 : chillax end; input g[126 - 51600] end main : _, i, b07, sW20 : boolean array; g, Zig : boolean; I9aa : boolean array; R1U : boolean; chillax end

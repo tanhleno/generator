@@ -1,0 +1,1 @@
+program v8 : F94a : takes U : integer array returns nothing s8 : boolean array; chillax end main : Z, kliaa : boolean; input a[false + 4 rem U3r and 84]; let F[(32) / r + false and 2] = - z and 0 = - 4 - 57; while - not 16 > 176 : chillax end; input H[172 - 242] end

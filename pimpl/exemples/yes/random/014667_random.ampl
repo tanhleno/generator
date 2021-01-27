@@ -1,0 +1,1 @@
+program Z : Zi70 : takes ko, s, f : integer array returns boolean array chillax end main : let Q[- true rem HR(76) - true / true - true and 73 - 71 - 07] = false * (306) and 90700 - not 490 and 7 > true + 11000 end

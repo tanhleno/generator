@@ -1,0 +1,1 @@
+program Aw2 : v : takes Fo7 : boolean array; DW, T : boolean array returns nothing Y, p3, F0, m, O : integer; w, r : boolean; do P1K(not 69, 35 < 46000); while 6 : while 7 : chillax end end; output 7 . 714 end main : q4D, w, iC : integer; let v9 = - (2) + (5) and 5 end

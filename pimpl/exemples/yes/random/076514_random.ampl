@@ -1,0 +1,1 @@
+program r : main : c, nC : integer; _F : integer array; G, b, m1L : integer; let mb1a[(8 = 7) - (2) + false and 658 or 0] = array - true - false and Q - (1) and 8; when case(3) * true and 00 + false and 560 or 653 - 256 <= - not 8 and 74 : chillax end otherwise : chillax end; while 46 - 4 <= 32 : let J[9810] = array 3140 end; output 6 = 6; pop; output 6 . "+\\aa"; input C end

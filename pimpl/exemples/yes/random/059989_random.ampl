@@ -1,0 +1,1 @@
+program w : x : takes J : integer array returns nothing chillax end main : YV : boolean; c : boolean; output(7) - not 568 and 14 < true and 1 - 3 - 5; pop true - 7 = 6 - 0; pop 0 - 1; let k[06] = array - 47 - 9 end

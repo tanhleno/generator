@@ -1,0 +1,1 @@
+program o : G : takes _, IA : boolean returns boolean T, VS, o, sZ, QKA0a : integer; chillax end x3 : takes a, s : boolean; dS : integer; i : integer returns boolean array chillax end main : pop; pop - not 1 and 4 or 03 >= - 3 - 74; output 72200 = 51; let Y[42 - 8] = array - 9 - 2 end

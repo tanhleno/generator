@@ -1,0 +1,1 @@
+program f2O : h : takes N : integer; m, v : integer array; k, o, l : integer returns integer array u : integer array; l, Tg_a : integer array; chillax end T : takes hB : boolean array; c8L0 : boolean array; P, F2 : integer returns nothing k13aa, I, k, Yk : integer; wl3 : boolean; while - 5 : chillax end end main : Se0aa, Y3 : integer array; U, o, w05 : integer array; chillax end

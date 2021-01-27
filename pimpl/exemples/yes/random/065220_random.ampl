@@ -1,0 +1,1 @@
+program BK : I8 : takes c : integer returns nothing let w = - 0; while - 3 >= 1 : chillax end; do ft(8 = 0) end main : while - not(31800) * not not 01 > - false / 390 and 064 or s and 351 : chillax end end

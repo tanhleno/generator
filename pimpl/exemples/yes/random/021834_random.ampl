@@ -1,0 +1,1 @@
+program gI70a : s : takes c, h : boolean array returns nothing chillax end Q : takes a, Os, o740a : boolean returns boolean while 793 - 49 /= 22 : chillax end; do L(6070) end main : h, X : integer; when case - true - false : do Qp9(5 - 0, 0, 41); input A27[4] end otherwise : chillax end end

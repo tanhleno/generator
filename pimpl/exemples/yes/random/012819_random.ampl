@@ -1,0 +1,1 @@
+program d2 : U : takes T, i0, _ : integer; e, p : boolean; e : boolean; V, ssh : integer returns integer array J : integer; i : integer; chillax end i : takes G : integer array; U, Mx6a, g410a : boolean; f56 : integer array returns integer array chillax end main : A, s : boolean array; z, N50aa, H : integer array; chillax end

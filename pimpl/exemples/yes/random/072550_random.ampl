@@ -1,0 +1,1 @@
+program Oh : main : v8ga, aD, CrO0a : integer; when case true /= true rem false and 5 : chillax end otherwise : do HN40(3, 8); output 37500 . "\n"; let KWq = 09; pop; pop end; input BH[Gh[5] * true + true or 3] end

@@ -1,0 +1,1 @@
+program C2 : I : takes H, X : integer array returns nothing let f = array - false and 4 + 3 end l : takes Pa0 : integer array; l : boolean; j3s0a, yxD0a : integer array returns integer array iI, Z, B5 : boolean; chillax end v : takes U : boolean; B, iZ, roZ : integer returns nothing U : integer; output 5 end main : pop - not(6) + true and 8 end

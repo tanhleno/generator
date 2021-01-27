@@ -1,0 +1,1 @@
+program nzQ0 : P : takes U : integer returns boolean array q : boolean array; b, yz : integer; P1e, Dyz0 : boolean; input ln9a[false and 1 - 37]; when case - 8 < 16 : output "&"; pop; pop end; output 65 end jy10a : takes y, i : boolean; m36, F : boolean returns nothing iQ, ga30a, Fe1 : boolean; I, Q : boolean array; chillax end main : chillax end

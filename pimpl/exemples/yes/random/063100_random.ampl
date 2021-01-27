@@ -1,0 +1,1 @@
+program S : W : takes Wi : integer returns integer array let b7 = array - true and 77100 end R : takes x, O6 : boolean returns nothing q8N, z4, A : integer; chillax end n94a : takes r : integer returns nothing aT90a, u6ta : integer; D, oa7 : boolean; pop end main : l2 : integer array; chillax end

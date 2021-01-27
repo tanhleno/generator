@@ -1,0 +1,1 @@
+program dY2a : L : takes jB : integer array; w5 : integer; AXe : integer; f, K : boolean returns nothing L, d : boolean; g : integer; chillax end K : takes Z, x, W3, CCT0, Et40, K840 : boolean returns integer pr, M : boolean; chillax end main : H : boolean array; while not true and false * 18 and 5 or false rem not 0 and 6 - true : chillax end end

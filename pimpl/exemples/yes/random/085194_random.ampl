@@ -1,0 +1,1 @@
+program Y : main : Amba : integer; when case false : chillax end case 94600 * false - true and 3 : chillax end case - (03) and 330 : let o[822] = array 74; while 8 : chillax end end otherwise : chillax end; while false - not 5 and 01700 - 8 : let h0v = 49200; pop 44700; output "" end end

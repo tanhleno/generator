@@ -1,0 +1,1 @@
+program o : main : when case - true = true or true : when case - 707 - 9 > 1 : chillax end otherwise : input Q; pop end; when case 65 = 5 : chillax end otherwise : pop end; let t[0] = 2 end case not m / false - true = - (58800) : pop; pop; when case 1 : chillax end end end

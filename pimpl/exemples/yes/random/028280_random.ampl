@@ -1,0 +1,1 @@
+program i : p : takes Nj, GYv : integer array; v5k : boolean array; C, e : integer array; f : integer array returns boolean V : boolean array; I6B, SMAa, Bd, k : boolean; while M7o : do g(90); do U4(93) end end main : chillax end

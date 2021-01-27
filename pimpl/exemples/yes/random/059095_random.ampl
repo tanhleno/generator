@@ -1,0 +1,1 @@
+program Hj : Q18 : takes jn4 : integer array returns integer chillax end rvF0a : takes W, w : boolean; m, Z, l8d0a, Q7, q, HNp : integer array returns nothing while - 82 - 9 <= 3 : do L(4); do hu9(0); pop end; let P3L = 6 end main : let u3[false] = true or(284) and 1 or 09800 - 4 end

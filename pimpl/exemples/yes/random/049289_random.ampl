@@ -1,0 +1,1 @@
+program J : RAL : takes X7 : integer; t65, IU, s, w3, P, h5, P : integer returns integer array output "" . "N" end main : b : integer; U : integer; G2, WX : boolean; v980a, J : integer; F, s5, T6 : boolean array; do g(- 0); input S6; do n60(- not 7 + 1 - 2 > - 0, 2, 5 = 6) end

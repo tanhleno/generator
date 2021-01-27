@@ -1,0 +1,1 @@
+program Kiz : main : Np6 : integer array; while not false /= - (2) : chillax end; do H(L[15] / 37 and 97 + 7 or 3); when case false and 5 or 45 - 2 : pop end otherwise : chillax end; when case 2 : chillax end end

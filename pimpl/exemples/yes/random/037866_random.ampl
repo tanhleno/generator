@@ -1,0 +1,1 @@
+program T : K9 : takes TZ0 : boolean array; Y6, C3Na, n530, S28 : integer array; Rp, x : boolean returns integer b050a, Rv : boolean array; Q1g0a, m : integer array; e, m7, Q : integer array; let Y[true and 68400] = array - not 8; output ""; pop 222 end main : chillax end

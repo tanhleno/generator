@@ -1,0 +1,1 @@
+program M : x : takes r_Z, n, d : boolean array; k, HQ : boolean returns nothing A1 : integer array; output 0 > 64 . "" end main : when case a3(0) : output "\t" end otherwise : pop end; output not 8 and 19 or 48 - 02 end

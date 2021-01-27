@@ -1,0 +1,1 @@
+program J_c0 : n : takes d : boolean returns boolean array s, UP, K, H : integer array; A69a : integer; P : boolean; I : boolean; chillax end main : let Q[- 04 or l(7430)] = true rem false and 318; while - 3 : while 09 = 0 : chillax end; pop end; output - 2 . "\""; input l end

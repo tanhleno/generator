@@ -1,0 +1,1 @@
+program b : z : takes g, jq3a : boolean returns nothing let q = array Cq and 3; do M(- 7 /= 6, 17 = 6, 80, 765) end n : takes l : boolean array returns nothing input h end main : P : boolean array; D, t, w, x : integer; a : integer; m, L, O : integer; L : integer array; do RL(- true or not true + true, - true - false and 7 + 76 - 4) end

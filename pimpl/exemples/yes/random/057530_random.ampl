@@ -1,0 +1,1 @@
+program oi : f : takes mzz : integer array; i : integer returns nothing smp : integer; input iaB[true] end main : let g0[- L(914) and true rem 027] = - 3 and not 47 and 1 - tb4 + 1 <= true and 2 or 65; when case - 16 + (15300) - 08 - 48800 <= - a17aa or 9 - 6 : output 0; let l91[16] = 1030; while 7 : chillax end; do Pg(87); pop end; let j4 = array R and 81 - 402 end

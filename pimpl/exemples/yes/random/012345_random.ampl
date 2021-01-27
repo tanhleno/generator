@@ -1,0 +1,1 @@
+program J3 : X : takes l07, pSa, vD : boolean returns nothing z : boolean array; M : integer; Kpk : boolean; nb : boolean; chillax end en : takes L22, tH, G, p, E7Z0a, V, aZ : integer; S72, O : boolean array returns nothing chillax end pS4 : takes K3 : integer array returns nothing Pi : boolean array; S : boolean; pop 53 end main : chillax end

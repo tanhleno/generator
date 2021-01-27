@@ -1,0 +1,1 @@
+program p : q : takes B : boolean returns nothing chillax end l : takes Y : integer returns nothing input K; let X = array 3; let cIs = 93; while 47 : chillax end; let A54a = 049; pop end main : let Q[true + my6(07) and 1 and 9 + false and 8] = 9 = - true end

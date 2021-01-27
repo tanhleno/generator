@@ -1,0 +1,1 @@
+program s2 : main : w0, V : boolean array; Ti4, w9 : integer array; R, I2ra, t : boolean; gV : integer; Z, jp, o8u : boolean array; let L = false rem n and 57900 + (7) and 1 >= - false; do n4b0a(not 9 rem 8 and 3 /= - not 32200 and 055); output 6 - 6 = 9 . "\""; input J97 end

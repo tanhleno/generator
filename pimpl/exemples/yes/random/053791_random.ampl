@@ -1,0 +1,1 @@
+program j : r : takes is3a : integer array; S, n, zl, Jg : integer array; xr, _b8 : boolean array returns integer chillax end K9 : takes K : boolean returns nothing Cy : boolean; j0 : integer; j0 : boolean; chillax end main : let n5Ma = Ki7[4] * (6820) = - (688) or 22 end

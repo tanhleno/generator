@@ -1,0 +1,1 @@
+program v8 : n : takes I, J, H : boolean array returns integer array chillax end n : takes Gn, q82, cD, Y : integer array; e, n8, k, j, EKy, uw : boolean; J1 : boolean array returns integer i : integer array; chillax end main : Ifo, r, idc0a, f52 : boolean array; chillax end

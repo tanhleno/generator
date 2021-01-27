@@ -1,0 +1,1 @@
+program Z : h : takes E5, f6 : boolean array; F : integer; p : integer returns integer array do SZZ0(q3w, 6, 06 = 81, 7, 5) end main : let b[- false / true and 7820] = - (91) * false and 0 - 61 and 5 + 0 - 10 end

@@ -1,0 +1,1 @@
+program VS70 : A : takes Z84, dN : integer array returns integer chillax end HX : takes LzO0a : boolean; zse0a : boolean; Z7E0a : integer array; s : integer array; o4, Vl0, Lxq : boolean array; l : boolean returns integer w3, IQa, w8O0a, g2 : integer array; do J(- 7 < 11, 9, 957); output "`" . 2 . "Y" end main : chillax end

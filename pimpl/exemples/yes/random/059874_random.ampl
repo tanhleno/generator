@@ -1,0 +1,1 @@
+program E : c : takes mq : integer array returns nothing chillax end RO : takes o : integer array returns integer chillax end main : input Y; let R = - 53 and 3 or 9 - 1 >= - 76900 - 2; do g78(true + 53 > - 98200, 477 <= 3) end

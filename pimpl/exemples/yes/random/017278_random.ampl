@@ -1,0 +1,1 @@
+program WK : U5eaa : takes l, X : boolean; OB, k : boolean array returns nothing Q, c5, s : boolean array; let m[not 38 and 42] = array false and 5 or 6100 - 86; input Ve; pop end p : takes Ms40a : integer array; i : integer array returns nothing do L8M0a(- 1 - 8 > 3) end ilc0 : takes nqA, x070a, F : integer returns integer j : integer; chillax end main : pop; input m[true] end

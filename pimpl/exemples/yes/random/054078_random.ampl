@@ -1,0 +1,1 @@
+program i : h : takes _uQ : integer array; Z, g, O : boolean returns integer array chillax end gff0 : takes r0 : integer returns nothing d : integer; w, P : boolean array; while - 79 > 3220 : chillax end; pop 9; input LV end main : y : boolean array; chillax end

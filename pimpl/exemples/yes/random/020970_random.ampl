@@ -1,0 +1,1 @@
+program vS9 : W64a : takes o, u : boolean array returns boolean array let C4Z0a[- f] = - 2 - 233; output 449 = 8 end S5 : takes v : boolean array; r : integer returns nothing A : boolean; chillax end main : p, Jf, S, It1a, Ih20a : boolean array; chillax end

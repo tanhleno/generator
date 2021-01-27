@@ -1,0 +1,1 @@
+program K21a : e : takes H6, G : integer returns nothing do XF90(- 3 and 409 - 37 > 98); let y1[- 845 - 8] = 942 = 43100 end main : y : integer array; J, L1 : integer array; do T(5 + 60 and false + true >= false and true and 777, - true and false = d) end

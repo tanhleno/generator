@@ -1,0 +1,1 @@
+program b : DU : takes YO : boolean array returns nothing v, j, W, O, cS : boolean array; while(9) and 3 or 7 /= - 08400 - 28 : input F8 end; while - 8 : do J(29); input j end; let a = array 48 end N : takes sVT0 : boolean; DK, ME20a, u : boolean array; y : boolean returns boolean array do t(9); while 64 = 6 : chillax end end main : chillax end

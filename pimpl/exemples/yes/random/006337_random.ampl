@@ -1,0 +1,1 @@
+program y4 : Aq : takes PS, _wI, g640, Bb6 : integer; Ak4, G, a, f : boolean array returns boolean array do pO8(9 < 80) end main : A : boolean array; input B470; output - not 310 or 9 >= 23 . 0 . "" . 7 . 84; pop 15 - 3 > 17200; let C[48 - 7110] = array - 40000 end

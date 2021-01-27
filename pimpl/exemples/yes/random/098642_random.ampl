@@ -1,0 +1,1 @@
+program o : main : while - not true * (4) * J and 1 - 3 - 44 + 0 : chillax end; when case(50) rem true - not 5 and 5 + 66500 - 49 /= h29aa and 5 + 7 - 8180 : let E0[3910] = array 5220; input Y0[7] end case 7 /= 4 : chillax end case - 9920 - 323 < 0 : do rh(9); when case 7 : chillax end end otherwise : chillax end end

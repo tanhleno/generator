@@ -1,0 +1,1 @@
+program m60 : main : when case(4 = 3) : when case 0 : chillax end; let A[856] = 9; output 4 . "" end otherwise : chillax end; pop; pop - 25 - 76500; output 53; output 5; when case 9 : chillax end otherwise : chillax end; do U(6); do un(83) end

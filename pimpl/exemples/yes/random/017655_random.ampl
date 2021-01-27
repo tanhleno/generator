@@ -1,0 +1,1 @@
+program Q : b : takes s, T : boolean; x : boolean; c9o0 : boolean; e : boolean; e : boolean array; D0M, S : integer array; U, h0 : boolean; w : boolean returns nothing WLB, G, r5 : integer array; P : integer; pop end y1 : takes x3, Ca : boolean array returns nothing U0, G3u : boolean array; do P(94 - 72 > 0, 6 = 48) end main : q2B : integer array; M42 : integer; chillax end

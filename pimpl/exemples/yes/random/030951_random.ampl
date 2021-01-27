@@ -1,0 +1,1 @@
+program J930a : X3 : takes X, C : integer array returns nothing S : integer array; pop - 8 /= 5; let O = 7 = 5 end main : do d(- not not not 7 / false, G[9] or not 7 + 4); pop; when case H and 07 < 1 : chillax end case 3 >= 519 : chillax end end

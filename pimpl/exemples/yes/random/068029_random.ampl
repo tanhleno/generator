@@ -1,0 +1,1 @@
+program w : main : y4_0a, B, X, E, g, P, E : boolean array; f44, Jn : integer; when case - not true / false / false : let y[42 - 4] = array - 75 - 7; do tl(274) end; when case - true or false and 2 or 5 < - not 3020 and 5750 - 26 : chillax end end

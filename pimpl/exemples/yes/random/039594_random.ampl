@@ -1,0 +1,1 @@
+program t : Z9 : takes P : boolean array; x : boolean; C2, G : integer; t : boolean returns nothing d : integer array; input o1[true and 7]; while 63 - 2 : chillax end; input c end main : d, Ro : integer array; VN9a : boolean array; chillax end

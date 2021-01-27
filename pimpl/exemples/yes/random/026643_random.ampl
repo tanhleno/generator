@@ -1,0 +1,1 @@
+program i5 : E : takes P6s, _1iaa : integer; z_ : integer array; w, x : boolean; dV1, o3Xaa : boolean array; Z : boolean; R : boolean returns nothing v : boolean; while - false > - 66600 : chillax end end main : A : integer array; y, a, e : integer; chillax end

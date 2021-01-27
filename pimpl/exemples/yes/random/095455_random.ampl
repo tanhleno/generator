@@ -1,0 +1,1 @@
+program bd : main : when case(4 = 1) * not true or false and(6680) and 2 - tj and 01 + 44 : chillax end case - Fn(4) : do f(0); pop 9 end otherwise : chillax end; output - ftf0 and 44 or 7550 . "1"; pop; input E end

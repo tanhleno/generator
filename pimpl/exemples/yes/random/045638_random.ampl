@@ -1,0 +1,1 @@
+program T6 : w : takes P0 : boolean returns boolean array T, Q : integer array; SB : boolean; do lh4a(- false < - 5); while 1 - 854 : chillax end; do NF(5 = 06, 842, 05900) end main : while not(1) and 3 or not not 38 - HW or 71 > - true : when case - 088 : chillax end case 3 : output "^70" end case 34 : pop end case 6 : chillax end otherwise : chillax end end end

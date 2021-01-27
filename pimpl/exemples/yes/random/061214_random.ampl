@@ -1,0 +1,1 @@
+program D330a : Gvo : takes d : integer array returns nothing input cwz; pop 0 = 8 end W8Haa : takes xD, B, xJn, C8, W, v : boolean array returns boolean array chillax end _ : takes wbS : integer returns integer array OY50, bH : integer; PEs, JH : boolean; E : boolean; chillax end main : J : boolean; chillax end

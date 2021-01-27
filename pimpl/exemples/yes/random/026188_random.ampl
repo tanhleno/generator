@@ -1,0 +1,1 @@
+program Bv2 : d : takes q, E : integer; i6 : boolean array; S6B0a : boolean array returns integer array chillax end main : when case 5 and false rem true or true and not 807 and 7 = - true : chillax end case 555 : pop end end

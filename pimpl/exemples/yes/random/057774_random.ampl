@@ -1,0 +1,1 @@
+program q : O8 : takes T : integer array returns boolean array J, d : integer; QT : boolean array; do BuM(- true and 25) end b : takes d : integer returns nothing chillax end main : ls, M8, n, eOE, r : boolean array; q, d : integer array; r80 : boolean; chillax end

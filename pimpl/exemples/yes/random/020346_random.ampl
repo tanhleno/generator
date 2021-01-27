@@ -1,0 +1,1 @@
+program o48 : Qv : takes b3, J : boolean array; tM : integer; U : integer array; kIv, bD : boolean returns boolean array g, w, p, s9, u : integer array; when case(1) >= - 1 : when case 6 : pop end case 14 : chillax end otherwise : chillax end; pop; while 33600 : chillax end end otherwise : chillax end end main : IS8, j7O, U, V, j, RD : integer array; pop end

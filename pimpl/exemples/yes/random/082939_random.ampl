@@ -1,0 +1,1 @@
+program N : main : P : boolean array; while true / true rem false + (1) rem not 27 and 546 <= 02 and false : chillax end; when case - true / true and 2 : chillax end case - (9) + 5 = 166 : let G = 1 end; let Ziyaa = array - not 503 or 5590 - 3 end

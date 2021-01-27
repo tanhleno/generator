@@ -1,0 +1,1 @@
+program L : p1 : takes I, x, R : boolean array returns nothing Ry, d, iJ30 : integer; do w(not 240 /= - 7 - 32100); while - 86 < 487 : do T3ca(8); while 46 : chillax end; pop end end main : chillax end

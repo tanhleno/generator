@@ -1,0 +1,1 @@
+program w : main : q, a, V : boolean array; pop; when case - i[0] = p : chillax end otherwise : while 0 : pop end end; output "~\t" . "+" . ".B"; input w[- 7]; input G[581]; output 0; do ld(87); when case 4 : chillax end; pop end

@@ -1,0 +1,1 @@
+program a : tp4a : takes f7, Cd2, IRHa : integer array returns integer G : integer array; o220a, Q, d, _ : boolean; chillax end w3 : takes i570, T, M9, uc : boolean returns nothing input i140[- 1 - 9] end main : k : integer; pop end

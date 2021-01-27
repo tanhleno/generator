@@ -1,0 +1,1 @@
+program _ct : o : takes c : integer; L6, H : integer array; zs : boolean returns nothing pop - 2 - 68 <= 728; when case - 36 : pop end end main : E : integer array; pYva : boolean array; B : boolean array; chillax end

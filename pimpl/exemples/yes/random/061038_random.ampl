@@ -1,0 +1,1 @@
+program c : L74 : takes Is : integer array returns nothing kdJ : integer; z : integer array; z6 : boolean array; R : boolean; o630a : boolean; Su : boolean; chillax end XD : takes nP : boolean array returns nothing o : integer array; chillax end main : L6, _, Nv : integer array; chillax end

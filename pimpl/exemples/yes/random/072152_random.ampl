@@ -1,0 +1,1 @@
+program u : main : Jo50a, BJ, m2 : integer; Yb, l : integer; F : boolean array; let bWN[- true - true] = - (412) * not 55 and 7; while 73 and 0 = - 25400 and 6 or 66 : chillax end; let p93 = array false and 8 end

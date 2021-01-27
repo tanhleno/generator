@@ -1,0 +1,1 @@
+program z : P : takes b12, e : boolean; fq60a : boolean array returns nothing chillax end k3 : takes BG : boolean; Kyq : boolean returns nothing i : boolean array; c56, Lz10 : integer array; chillax end c : takes c0s0a : boolean; R_Q, d : boolean returns nothing input Y; when case 5 : pop end case 34 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program n : k : takes X, W, s01 : boolean array returns integer array input jd0[1 and 91 or 493 - 5] end N2 : takes en : integer array; o : integer; h55, B700 : boolean returns nothing chillax end main : X : boolean array; kI, h4d, C42, Wf : boolean array; U : boolean; uH, R7 : boolean; P, kCR0a, L : integer; chillax end

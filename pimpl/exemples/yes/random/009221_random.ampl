@@ -1,0 +1,1 @@
+program i : F7 : takes b, S, c : boolean; xl : boolean returns nothing while true - 0 - 63 : pop end; while 03 - 35 : chillax end end B : takes C : integer returns boolean array chillax end Yz : takes b, D9, R9 : boolean returns integer chillax end main : chillax end

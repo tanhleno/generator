@@ -1,0 +1,1 @@
+program G : c6 : takes v23 : boolean array returns nothing a, v7xaa : boolean; chillax end main : while true - false > - not not 7 : input o3[- 7] end; input y[- 1]; while - true and 4 + 5 : output "A" end; when case - 63 = 7 : chillax end case 642 : when case 16 : chillax end; pop end; when case 5 : when case 842 : chillax end; pop end end

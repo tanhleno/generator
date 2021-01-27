@@ -1,0 +1,1 @@
+program Z500 : E7K0 : takes I6, YO30, V0, ck : boolean; f, _of, z : integer array returns integer array chillax end Ew : takes A : boolean array; k : boolean array; u6, g : integer; Np5 : boolean; Id, p, E : boolean array returns boolean array chillax end main : chillax end

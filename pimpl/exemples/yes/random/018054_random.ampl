@@ -1,0 +1,1 @@
+program E7 : o74 : takes vo00, L : boolean; h : boolean returns nothing pTz0a, gX6, F : integer array; c : boolean; z, a1 : boolean array; Tp3, N7E : boolean; q : boolean; _14 : boolean; chillax end MR : takes L9 : boolean array returns boolean array do sm5aa(862 - 553 <= 5, 17900); output ""; pop; when case 6 : chillax end end main : chillax end

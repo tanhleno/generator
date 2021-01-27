@@ -1,0 +1,1 @@
+program K : wG : takes u5 : integer returns boolean array chillax end atTaa : takes J : integer; O5 : boolean array returns nothing let I = 6 end main : input IB; when case false < 89 and 24 : when case 942 = 52 : chillax end case 8420 : pop end case 60 : chillax end otherwise : chillax end end otherwise : input b end; while - not 24 : output 2 end end

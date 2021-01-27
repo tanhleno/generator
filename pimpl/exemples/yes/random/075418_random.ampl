@@ -1,0 +1,1 @@
+program A : main : ax, MT : boolean array; input s[false]; when case - not true : chillax end case - not 54800 and 8 or 60 - 82 = - 74 - 26 : chillax end case 159 : chillax end case 3 : while 3 : chillax end; pop end case 499 : chillax end case 2 : chillax end end

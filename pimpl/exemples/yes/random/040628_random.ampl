@@ -1,0 +1,1 @@
+program g : B4b : takes c : boolean array; g : integer; Aia0a : boolean array; LO : boolean returns nothing Sk : boolean array; t : boolean array; F : integer array; T, ah1 : boolean; while 8 + 73800 - 45100 <= - 86 - 0460 : chillax end end main : K4G : boolean; x00aa : integer; output - (42) = - 49 - 63 . - 3 and 103 >= - 35 . "" . "" end

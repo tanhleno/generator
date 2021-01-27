@@ -1,0 +1,1 @@
+program V0 : main : do bi(- 5 or tk[37] / (21) + W = - wd8 + false and 2); when case - 1 : output 3; while 65 : pop end; pop end case - h and 9 >= 6440 : input Z1; input o90 end case 16100 : chillax end case 63 : pop; pop end case 32 : chillax end case 95500 : chillax end otherwise : do u(1, 1) end end

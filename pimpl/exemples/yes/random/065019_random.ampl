@@ -1,0 +1,1 @@
+program NL : R : takes c : integer returns nothing kP : integer; pop 0780 end tz : takes qH : boolean; D : integer; M6 : integer returns integer array i : boolean array; let F7F0a = array - 05 end main : Da, e, h, t : integer; s3, Rzl, HJ, xI, Qc : integer array; chillax end

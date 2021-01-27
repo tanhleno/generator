@@ -1,0 +1,1 @@
+program W7K : IB5aa : takes yZOa, YJ, x, us : integer array returns nothing n86 : integer array; chillax end m4 : takes k, N : boolean returns nothing output 8 = 33 . 9 . 65400 end main : chillax end

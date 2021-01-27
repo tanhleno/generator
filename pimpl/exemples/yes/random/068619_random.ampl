@@ -1,0 +1,1 @@
+program l9 : main : Qr, Q, H, G1, ha, o3Taa : integer array; output - b(90) / 8230 or not 36 - 2 - 1 > false or 3 - 6 . - false; input pA; input i; when case 5 : chillax end case 10 = 50 : output "" end case 5 : chillax end otherwise : output "" end end

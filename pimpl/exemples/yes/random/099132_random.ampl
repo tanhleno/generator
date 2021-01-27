@@ -1,0 +1,1 @@
+program W : main : while false : chillax end; output - 89 and 5 + 9 > - 2; while - false and 3040 + 4130 - 32 : pop 76; while 7 : chillax end; input t9; pop end; while - 21 - 9 : chillax end; let v = array 24 end

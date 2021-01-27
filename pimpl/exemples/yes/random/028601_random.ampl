@@ -1,0 +1,1 @@
+program U38 : j7x : takes W, q : integer array; R6 : boolean returns nothing di20a : boolean array; SGE : boolean; b : boolean; chillax end main : output - C4R(55) rem not 7 and 9780; input Z[true - true - 6 - 215] end

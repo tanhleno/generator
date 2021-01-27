@@ -1,0 +1,1 @@
+program _1Ra : LEX0a : takes nc, R, R9 : boolean array; m1 : boolean; q : boolean; k8Aa : boolean returns boolean array s0, T7 : integer array; pop end main : kz, b : boolean; P28 : integer; do yB(true and not r, - (9) + (63) and 2, - not 5 and 99 <= - 85000, 02 - 8 = 15) end

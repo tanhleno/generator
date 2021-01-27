@@ -1,0 +1,1 @@
+program I : u74aa : takes e, T, E48a, W : boolean returns boolean while not 93 and 923 : chillax end; when case - 99 <= 6 : pop end case 83400 : chillax end case 16 : chillax end case 60 : chillax end; pop; while 6 : pop end; do P(01000); when case 1 : chillax end end main : k : integer; chillax end

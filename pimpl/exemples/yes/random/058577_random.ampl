@@ -1,0 +1,1 @@
+program n1 : x : takes m41 : integer array returns integer array chillax end a81 : takes n2ra, DS, Wt, C : boolean array; Kp : boolean; B, W : integer array; N4 : boolean array returns nothing chillax end main : do G(- false * (4) and s9k and 7, - 1) end

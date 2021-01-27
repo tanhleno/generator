@@ -1,0 +1,1 @@
+program S : Sk : takes GC : integer array; s62a, c0o, H, w1 : integer returns nothing _, U : boolean; C, e, n, h : integer; chillax end main : pop - not not 7 or false and 3 = true; do h(- (58) and true and 57 - not 27 - 69); while - (39) - 501 - 97 /= 7 - 04 : chillax end; input O; pop end

@@ -1,0 +1,1 @@
+program Z6 : W : takes R, O, KY : boolean returns nothing chillax end main : when case - 1 /= - not EU : let _[- 9] = array 828 end case true - false and 5 - 3 - 205 > - 2 + 63 - 7 : pop; do S8o(8, 20300) end case P720 - 1 - 3 > - 9 - 2 : pop end end

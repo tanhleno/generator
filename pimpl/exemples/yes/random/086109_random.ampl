@@ -1,0 +1,1 @@
+program f : main : d : integer array; rP9, ybL : boolean array; when case D - y[41600] rem(68) and 5 > (7) and(71) : chillax end otherwise : do c(5 = 3, 2150, 7) end; when case - (54) + (4) or 12 > - true and 2 : do U(59 = 98, 5) end case - true and 4 - 7 - 0 : let Q[8] = array 7 end otherwise : chillax end; input x end

@@ -1,0 +1,1 @@
+program GG : W : takes Aw : integer; ok50, R : integer returns boolean fE, uw, Z : boolean; j8, iau0, M, m : integer; S, Fd, g : integer array; St, s : boolean; R : boolean; F1la : boolean; input kI4 end main : chillax end

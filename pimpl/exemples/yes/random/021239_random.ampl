@@ -1,0 +1,1 @@
+program Tl : f : takes Viw0a, vF : boolean array returns boolean when case - 85 - 2 - 274 : chillax end end main : xc, L : integer; ti : boolean array; V : boolean array; input V2b; let D72 = - W + 5 - 6 /= 3; while false or 8 : chillax end; when case - 9 : pop; input E end; when case 97 = 156 : input U80 end end

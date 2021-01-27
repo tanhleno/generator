@@ -1,0 +1,1 @@
+program i7 : main : let oh1[U1(2) rem false] = array(3) + (0) / 8 and 043; input xH[- D(23)]; when case not 0 and 9 or 3 - 1 < 86 - 978 : chillax end case - 9 : chillax end; input P; do jB3aa(30); when case 18 : chillax end case 6 : chillax end otherwise : chillax end; do ZrA(19); when case 14 : chillax end; pop end

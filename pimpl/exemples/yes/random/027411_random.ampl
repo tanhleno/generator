@@ -1,0 +1,1 @@
+program H780 : o : takes n4l, x30aa : integer array; abIa, th1, c4f0 : boolean returns integer array j, y1, B280a : integer; C : boolean array; aG1a, t : boolean; eW, c : boolean; P : boolean; when case not 86 + 8 : chillax end end main : chillax end

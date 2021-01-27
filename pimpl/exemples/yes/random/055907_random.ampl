@@ -1,0 +1,1 @@
+program jiL0 : X3 : takes K : integer array; W07 : boolean array; V110a : integer; k, I7R, a6, Ft50a : boolean returns nothing chillax end b : takes M : boolean array returns integer pop 6 end main : mh, u : boolean array; V, sBB, L : integer; pop - true end

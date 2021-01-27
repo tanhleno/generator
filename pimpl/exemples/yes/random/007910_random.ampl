@@ -1,0 +1,1 @@
+program u : t : takes C, O, E, N : integer returns boolean array do f(- not 44 - 650, - 81 - 6 = 40, 960 = 48, 70, 766); output "" . 5330 . ""; let Zv[31] = 90; output 2 . "" end main : while - false or false and _2 and 3 - 2 and 7 or 8 : do M8(954 - 0180) end end

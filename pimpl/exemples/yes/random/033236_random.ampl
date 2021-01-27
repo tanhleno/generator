@@ -1,0 +1,1 @@
+program y : waZa : takes i : boolean; g, s, D, d84, u, VW, l7 : integer; p5K : boolean; t : boolean array; V : integer array returns nothing chillax end main : A : integer; Ca, I : integer array; e43 : integer; input a[75 and true or not 025 rem false] end

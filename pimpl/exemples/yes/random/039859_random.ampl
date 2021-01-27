@@ -1,0 +1,1 @@
+program BIG0a : ug : takes I8w : boolean array; e510a : boolean array; Rdj : boolean; Y, c : boolean returns nothing chillax end hk : takes I9 : boolean array returns boolean b : integer array; V18 : boolean; chillax end main : output false * not 8 and 6970; pop false + 7 >= 82 end

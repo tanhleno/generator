@@ -1,0 +1,1 @@
+program MEyaa : W30 : takes w, w8 : integer array; z : integer returns integer pop end PjKaa : takes z3, Y57, G, l : integer; pKS : boolean array returns nothing Y : boolean array; DS, L, x : boolean array; chillax end main : output "" . "" . - 04 - 69 <= 3 . 713 = 13 end

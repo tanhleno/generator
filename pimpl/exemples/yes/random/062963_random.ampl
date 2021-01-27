@@ -1,0 +1,1 @@
+program DH : d : takes B9B0a : integer returns integer array S : boolean; when case false or 1 - 8 : when case 636 : chillax end case 4 : chillax end; when case 70300 : chillax end; while 6370 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program H : w : takes h26, eg10a, dWl : integer; Y4ea, N, y97, y : integer array returns nothing qc70a, e : boolean; let f[- false + 178 - 8] = 28100 >= 74; do s(92 - 6 = 3) end main : Ufp : boolean array; c : boolean; d2, Y : integer; w : integer; do P(- true) end

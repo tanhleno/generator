@@ -1,0 +1,1 @@
+program c2 : wrTa : takes f : integer returns nothing chillax end main : R9, xm, _ : integer array; input P[- _[9] + E[80] rem true and 95 or(4) and 4]; do n(false / 178 and 8 >= - false and 4, - (1) >= 9 - 9); input k[true - 4 - 47] end

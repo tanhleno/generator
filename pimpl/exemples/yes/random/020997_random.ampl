@@ -1,0 +1,1 @@
+program W6l : Q : takes l, WW : boolean array returns boolean array when case(61) : chillax end case 7 : chillax end case 68 : do V(24) end case 6 : chillax end; let j = 9 = 68; output "\n5" . 56700; pop 91 end main : _z, c, q6 : integer; c : integer array; when case not false < - c[8] / X and 0 : pop end otherwise : chillax end end

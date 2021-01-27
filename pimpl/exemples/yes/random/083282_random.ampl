@@ -1,0 +1,1 @@
+program x : main : J : integer; o, yM, y, R : integer array; c : integer; P3M, N1 : boolean; pop - N(3) * true and 6 + 1 and 7 <= - 68100 and 0 + 9; when case - (1) / not 4 - (4) and 4 + 8 - 5 : chillax end case K or 57 /= 3220 - 7 : output "\"S"; pop; output "" end case - 4 - 08300 < 9 : chillax end otherwise : output 2830 end; input n740a[- not 7] end

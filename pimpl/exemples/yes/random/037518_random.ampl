@@ -1,0 +1,1 @@
+program V : r : takes F3 : boolean array; c, kS4a, W, Tb, p0a, M7 : boolean array; n : boolean; a, p9, M, Us : integer; L, D16, BC : integer array; H : integer; l : boolean; c : boolean returns boolean array chillax end B2 : takes T, S : boolean array returns boolean array while - 07 = 07700 : while 530 : chillax end end end main : chillax end

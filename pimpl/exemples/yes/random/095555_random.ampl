@@ -1,0 +1,1 @@
+program Q7 : main : when case - (4) + V[23] * 4 or(4290) and 8 : let W[- 6 - 84] = 4 = 3 end otherwise : chillax end; let Y5z[not not 9 + false - 62] = true and 5 - 1 = 151; when case - bH4a + 328 = 682 : chillax end case - 864 = 0 : chillax end case 2 : chillax end case 77 : pop end case 1 : chillax end end

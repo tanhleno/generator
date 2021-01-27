@@ -1,0 +1,1 @@
+program b : _ : takes N, u : boolean; rc, S2 : integer; E3 : boolean returns nothing d : integer array; chillax end OB : takes P : integer returns integer array Q36 : integer; chillax end main : Zs, K, qL : integer array; X3D0 : boolean array; Q : integer array; a, pP : integer array; pop - not n + false and 6 end

@@ -1,0 +1,1 @@
+program xFk : B : takes D, iBT, h8L0, j, H : integer array returns nothing U, tx7, jNra : integer array; c : boolean; s, x : boolean array; d : boolean; when case - not 0 > - 15 : pop 232; pop; let n92 = 6 end otherwise : chillax end end main : D, Jl00, fLI : integer; chillax end

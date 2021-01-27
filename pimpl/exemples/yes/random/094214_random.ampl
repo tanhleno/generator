@@ -1,0 +1,1 @@
+program hi : main : pop - 7990 rem 9 and 79 + 3 and 4 or 5 - 77 >= LUh0a; do J0(- P[7], - true - 4 - 2400, 6 - 5, 3); let p270a[- 5 or 8 - 8] = array j79 and 096 + 576; when case - 8 /= 49 : pop end; do Z(748, 51) end

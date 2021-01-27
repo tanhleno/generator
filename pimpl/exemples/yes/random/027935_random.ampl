@@ -1,0 +1,1 @@
+program to : I8m : takes Ff1, N55 : integer array; p, O1c : integer array; I2, d : integer; u : boolean array returns boolean array while - (50) and 8 - 6 < - 8 : chillax end end main : a2 : boolean array; chillax end

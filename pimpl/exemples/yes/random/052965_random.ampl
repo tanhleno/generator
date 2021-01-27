@@ -1,0 +1,1 @@
+program Joia : g0 : takes IS : integer; O : integer array returns integer pop 23 = 59000; do ziOaa(4 > 452); while 4 = 64 : while 68 : chillax end; pop end; input L[55] end main : G, s2x0a, y : integer; K9 : boolean; X : boolean; chillax end

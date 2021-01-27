@@ -1,0 +1,1 @@
+program h3R : P : takes _8, R, W : boolean; b : integer returns nothing T : integer array; pop; when case 91400 - 9 = 1 : chillax end case 06300 = 965 : chillax end otherwise : output ""; pop end; pop 5 end main : tM : boolean; F, v : boolean; chillax end

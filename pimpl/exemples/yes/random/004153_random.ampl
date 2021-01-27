@@ -1,0 +1,1 @@
+program iW8 : x8 : takes a, v3ua, k, y, Gc : integer returns nothing output "$%" . 15; output 4 = 40 end rE6 : takes D2 : boolean returns nothing chillax end main : E9La : integer array; W83aa : boolean; chillax end

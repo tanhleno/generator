@@ -1,0 +1,1 @@
+program r2E0a : H : takes u0, Se5aa, Qo, _8g, d : boolean array; s : boolean returns boolean array chillax end E : takes tx : integer array; e : boolean array returns nothing chillax end main : chillax end

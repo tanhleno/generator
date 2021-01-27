@@ -1,0 +1,1 @@
+program u49 : main : N, Q : integer array; input u0[- (2 = 0)]; input nJ; when case false and 3 = 8 : when case 7 : chillax end; when case 18 : chillax end end otherwise : chillax end; when case - 45 > 60 : chillax end otherwise : let ny = 70; pop end; output "a" . ""; let m5 = 2660 end

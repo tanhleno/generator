@@ -1,0 +1,1 @@
+program v2 : X : takes w, mK : boolean; O : integer array; Wo5, R1, in8aa, V : integer; w1R, r1 : boolean; n4, c, V36 : integer returns nothing y1U, ESe : integer; pop 7 > 72; pop 015; let m = array 6; pop end h : takes R, f810 : integer; p, k : boolean returns integer chillax end main : E, y : integer; chillax end

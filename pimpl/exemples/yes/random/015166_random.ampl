@@ -1,0 +1,1 @@
+program G0 : i : takes D, b, I : integer array returns nothing chillax end b : takes o9A : boolean; B, X : integer array; G : boolean; o, w : boolean returns integer array X9Ga, Q : boolean array; pop; let f4P[54] = 3; output "~"; do m0(7); while 7 : chillax end end main : l7W : boolean; pop end

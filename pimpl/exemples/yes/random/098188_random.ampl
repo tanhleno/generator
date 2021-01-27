@@ -1,0 +1,1 @@
+program S6 : main : while - false / not true or 63 - (50) and 50 : let t = 0; do S(4) end; when case - not(2) / (16) and 7 = - not 3 and 0 or 6 - 0 : output 06 . 445 . "" end case - true and 94 > 7 : chillax end otherwise : let a0Ka[1] = 9; output ""; do U76(70); pop end; output "930a" . 59200 end

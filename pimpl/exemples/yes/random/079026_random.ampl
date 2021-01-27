@@ -1,0 +1,1 @@
+program f : main : c : boolean; bW, i : integer; Rd20 : integer; let H7[t[6] / false and not 78200 - X4(8)] = array(4 = 566) / 6 * true and 7 - false; when case - not false * 96 or 2 and 202 - 1 - 3 > false and 0 or 35 : chillax end end

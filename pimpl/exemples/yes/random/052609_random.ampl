@@ -1,0 +1,1 @@
+program r230 : Z750 : takes P : integer; SnY : integer array; EQ, G, I3U, N62, Hm, M : boolean array; uHW : boolean returns nothing do qa(- (535) and 85 - 7 - 88); while - 553 - 3 : chillax end; output 8 . 2 end main : chillax end

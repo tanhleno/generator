@@ -1,0 +1,1 @@
+program j : n : takes y6 : boolean array returns nothing xeJ0a, M, t, y9, I : integer; Z : integer array; do m(false and 0 + 7 - 8 >= 0); while - 6 - 0 < 3 : pop end end main : I8s, T, tS : boolean array; Rc : boolean array; DII, O6 : integer array; p : integer; s7w0 : boolean; a, r2 : boolean; chillax end

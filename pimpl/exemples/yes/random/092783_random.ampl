@@ -1,0 +1,1 @@
+program O : main : output 384 < 7 + 9 . "@" . "\\" . "d(" . ""; pop - not 4 and 2 >= 37 - 254; while - not 454 and 43300 /= 2 - 3 : chillax end; when case - 0 - 8 < 046 : chillax end case 15 = 2950 : while 75 : chillax end end case 6 : pop end case 2 : chillax end; pop 4; when case 01 : pop end otherwise : chillax end; pop; do r(91) end

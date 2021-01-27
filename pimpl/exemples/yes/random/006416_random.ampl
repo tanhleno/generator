@@ -1,0 +1,1 @@
+program X : ZH : takes x, c, h, uNm : integer; X42, t8 : boolean; S : boolean array returns nothing chillax end Xh90 : takes A, a, f : boolean array; K, N, y9, w, x : boolean array; H : integer array; BK, B, su : integer array; u86a : boolean array returns integer array chillax end main : chillax end

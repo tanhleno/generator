@@ -1,0 +1,1 @@
+program z : OU4aa : takes q : integer array; x26, I, M, _ : integer; S : boolean; L : integer array; A : integer array; RZ : integer array; A : boolean returns integer array f0, x : integer array; CP, c, j, i : boolean array; pop - 98 - 42 end main : let n8g = array - not false + true end

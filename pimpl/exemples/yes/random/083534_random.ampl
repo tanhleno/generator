@@ -1,0 +1,1 @@
+program _7 : main : y7 : integer; b9, Q : boolean; Z6 : boolean; G3 : boolean; input Y2[- false / 07 + false and not 7670 and 5 + (76)]; let D[true / true + false + 5] = true and 1 /= - 7 - 5; input uR; do Ph9(- 1 <= 2); when case 2 = 88 : pop end otherwise : pop end; output "" . "" end

@@ -1,0 +1,1 @@
+program w : w : takes f : integer array; T9Z0 : integer array; R : integer; Y, m560, NLL : boolean returns nothing chillax end main : do O(80 - false and true or 1200 + 7); pop - false and 27 or 77500; do M(- true and 4 + 30 /= - 5 - 4); while 041 : output "" end; let ZXb[2] = 793 end

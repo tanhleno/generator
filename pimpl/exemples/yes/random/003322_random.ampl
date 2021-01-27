@@ -1,0 +1,1 @@
+program r030 : BP : takes wjf, X, K, _H0a, D : integer; e : integer; ct : integer returns nothing b8 : boolean; zfU0a : integer; chillax end main : p : integer array; U, ZH1a, keS, DdO : boolean array; chillax end

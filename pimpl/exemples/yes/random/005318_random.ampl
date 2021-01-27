@@ -1,0 +1,1 @@
+program tw : Np : takes u, o, AU, q43aa : boolean array returns boolean chillax end RE : takes R, _, M, Z8L, Y, PZ : boolean array; I, S2A : boolean returns nothing chillax end main : Q : boolean; pop; output not 4 and 839 + 9780 end

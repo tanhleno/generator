@@ -1,0 +1,1 @@
+program c2 : ph : takes bada, RP : boolean array; y0 : integer returns integer array R, N64, Q4 : integer; VP : boolean; output ""; while 3 /= 9 : chillax end; input V end main : eIbaa : integer array; chillax end

@@ -1,0 +1,1 @@
+program j : C : takes R43a : boolean; x81 : integer returns nothing do T26(not 76000 and 4070) end UD : takes UZ : integer returns nothing chillax end K4 : takes AG : integer returns nothing D8, p7Sa, S : boolean; Q : boolean; WDXaa : boolean; j1ha : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program e1 : main : when case - (3) = true / true and 1 : input v0ya end case 73 / true : input J[08]; while 27 : pop end end case - 986 and 3 + 6 - 5 : do m3(8, 9); let p = 44; pop end case - 5 - 845 /= 4 : chillax end end

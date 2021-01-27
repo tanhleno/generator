@@ -1,0 +1,1 @@
+program DD3 : main : a9 : boolean array; Eo, j : boolean; S : boolean; S, i, jEk, i9 : integer array; H5yaa, R7v : boolean; when case - not(4) rem false / 7 and 73 = true - 98 and 07 : pop; when case 751 : let n4U = 4; pop end otherwise : pop end; when case 9 : pop end end case false rem false : chillax end end

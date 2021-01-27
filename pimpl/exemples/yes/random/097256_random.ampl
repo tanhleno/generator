@@ -1,0 +1,1 @@
+program Z5z : main : when case not 6 rem(8) * not 30 and 3400 - not false - 7 and 3 + 06200 : chillax end case - (4) rem JrM - 09600 <= j98 and 4 + 36900 : output "" end case - (8) : do Eg(8) end case 43 : input Bu0aa; pop; pop end; output 3 and 2 < - 3 - 5 end

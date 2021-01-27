@@ -1,0 +1,1 @@
+program v : main : when case - N(46) * false or(63) * 2 or not 3470 : chillax end case s = - 9 and 1680 - 5 - 4 : chillax end; do y(false * 941 and 5 or(6) and 10 /= - not 56 or 41); input AR[- false]; pop 43; output 34200; output 53 . "\"" end

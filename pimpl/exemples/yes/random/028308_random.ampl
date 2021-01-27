@@ -1,0 +1,1 @@
+program xCy : Y : takes E, g6 : integer array; j : boolean array; g : boolean array returns integer output ""; pop; pop 2; let M = array 0; pop end j : takes s : boolean array; Z : boolean; r44 : integer array; m41, n, H : boolean array returns nothing chillax end main : N0a, R, N3, V900, be : integer; h, i56, LJ, m4 : integer; pop end

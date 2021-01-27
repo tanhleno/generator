@@ -1,0 +1,1 @@
+program z : a : takes m : boolean array returns nothing G2 : integer array; do Gb(- true + 4 - 3); let SB[5] = 1710 end U : takes V, _1, N : boolean array; q : boolean returns integer array chillax end main : E9, d9, z : boolean; C3 : boolean array; output "z" . - 5 + 450 - 9000 . - 6 - 504 < 218 end

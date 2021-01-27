@@ -1,0 +1,1 @@
+program R : D : takes D, jA2a : integer array; Qn9 : boolean array; E : integer array; r : boolean; X4 : boolean; rM : integer; f : boolean returns nothing chillax end main : x : integer array; iu9, aO7, q : integer array; output "" . - (8) and 73 . 560 /= 37 end

@@ -1,0 +1,1 @@
+program j : rk : takes P : integer; V : integer returns nothing g0F : boolean array; b9 : integer array; chillax end main : A, I : boolean array; cr, j, r, k : integer; p, M, lr, nC, E430a : integer array; let Es00a = - true - 45 - 8 - 7 < 0 and 00 end

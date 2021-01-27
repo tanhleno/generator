@@ -1,0 +1,1 @@
+program H : CD2 : takes H4 : boolean; c0Fa : integer returns boolean array I8 : boolean; chillax end UB : takes r, Ps9 : integer; G7, V, T, K, o, uJ6a : integer array; C : integer returns integer when case - 66 - 47200 : chillax end case 43 : chillax end end main : E : integer; pop - true rem 1 <= - (8810) and 9; pop end

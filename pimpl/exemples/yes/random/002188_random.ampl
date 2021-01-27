@@ -1,0 +1,1 @@
+program wf : ZN : takes o, u5, b, p, I : boolean; F, t72 : boolean array returns nothing when case(994) - 51 <= 9 - 9 : chillax end; let pb[- 6] = 89; pop; output 40300 end main : d8, P, YR, clhaa, F2, F0V, eO70a : boolean array; input h[686 * (2) or 22300]; pop(60); input r; do Hx(2 - 12600 <= 2510, 7) end

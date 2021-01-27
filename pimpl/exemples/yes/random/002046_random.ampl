@@ -1,0 +1,1 @@
+program ujL : pJVaa : takes u0, Niq0, l81, Z, B, e : integer returns nothing chillax end main : jcD, F : integer; pop false / true - A and 2 < - not 5 and 4280; input lx8a; when case 58400 + 99 : chillax end otherwise : output "\"" end; input Pu[544 - 11]; output "\"" . "" end

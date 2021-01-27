@@ -1,0 +1,1 @@
+program y7 : S : takes J : boolean returns integer chillax end main : cS30a, K : integer array; t, f : boolean array; when case true * false and false + not false rem 79 or r8 = - false : let Z[35 - 7] = array - 7 - 73 end otherwise : input P[9]; input q[711]; while 3 : chillax end end end

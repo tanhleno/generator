@@ -1,0 +1,1 @@
+program r70 : o : takes b5S0 : boolean; Kr6, R : integer returns integer fF3 : boolean array; chillax end main : _ : integer array; JPW : integer; s : integer array; K : boolean array; V : integer array; let _[7 - true / (1)] = array - (8 = 0) and 94 and false end

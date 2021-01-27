@@ -1,0 +1,1 @@
+program y : a7 : takes p3L : boolean; K : integer returns integer array chillax end main : output - false - (14) + 2200 . "" . 9 - 9 > 4970; when case(17600) : do G040(3 = 0) end otherwise : input P; output "2a"; output ""; pop end end

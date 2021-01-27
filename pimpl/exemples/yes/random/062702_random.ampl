@@ -1,0 +1,1 @@
+program m : e1 : takes Y7 : integer returns integer array chillax end BdX0a : takes l, U : boolean array; G3H : integer array returns nothing when case - 7 = 0 : let p31 = 5000 end; let W = array 283 end main : v : boolean; output "39" . - not 871 and 874 or 74 /= - 86200 - 8 end

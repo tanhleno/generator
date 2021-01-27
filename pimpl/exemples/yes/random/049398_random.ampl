@@ -1,0 +1,1 @@
+program z03a : WMp0 : takes _5iaa : integer; p, H, p, P6, T7 : boolean array; _0 : boolean returns boolean while - (25) and 8 - 87 : chillax end; let QD[- 3] = array - 5 - 8 end s3 : takes e, N7L : boolean; O1, eC : integer array returns boolean y : integer; E130 : boolean; R, i : boolean; Pe : boolean; C : boolean; chillax end main : K6, t49 : integer; chillax end

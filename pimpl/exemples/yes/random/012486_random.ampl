@@ -1,0 +1,1 @@
+program E : E : takes h, p, e : boolean returns nothing when case - 02 and 696 - 25 = - 04 : pop end case 8 - 36 : let O = 7 end case 5 = 0 : do Iw6(661); pop end case 8 : pop end case 830 : chillax end otherwise : chillax end end main : chillax end

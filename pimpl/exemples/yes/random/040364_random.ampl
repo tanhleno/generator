@@ -1,0 +1,1 @@
+program a : ex3aa : takes u5 : boolean array; g6 : boolean returns nothing chillax end yFYaa : takes qZuaa, V : boolean array; e, h3aa, q91 : integer; l : integer array returns nothing chillax end main : x, T : integer; V : integer; do J(l and false * D and 01 > true rem true and 6) end

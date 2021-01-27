@@ -1,0 +1,1 @@
+program O11 : xC : takes G9 : boolean returns nothing chillax end main : i : boolean; when case false rem false and not 34 and 76 + false > - not false and o0Raa and 3 - true : input e end otherwise : when case 19 : do UKl(0); pop end case 28 : chillax end; do T(0) end end

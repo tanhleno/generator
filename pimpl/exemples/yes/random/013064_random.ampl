@@ -1,0 +1,1 @@
+program fJ : p_ : takes OAea, M, k : integer; C, e : integer returns nothing qI : boolean; do p(true and 89500 or 6 = 785 - 2); let lI[- 26] = array - 25 - 511; let N5 = array 141 end YB90 : takes cr, Q, j, ML, kl, B9O0a, d : boolean array returns integer Q62, p : integer; chillax end main : pop; output "\t" . "1" end

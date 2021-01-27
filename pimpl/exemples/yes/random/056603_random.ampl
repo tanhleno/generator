@@ -1,0 +1,1 @@
+program P : hN : takes b : integer array; s : integer; EWl, h8 : integer; U, Cd : integer; cs : integer; Y, bNB : integer returns boolean array chillax end main : while false rem true or 2 - true and 93 or 5 : chillax end end

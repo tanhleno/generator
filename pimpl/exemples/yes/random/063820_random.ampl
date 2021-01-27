@@ -1,0 +1,1 @@
+program O : h : takes AA : integer returns nothing chillax end R : takes p : integer array; TS20 : boolean array; U3 : integer array returns integer array zJX : boolean; chillax end N : takes V : boolean array; b80 : boolean array; KCb : boolean returns nothing chillax end main : while false rem(6) rem 4310 : output "\t" . "" end end

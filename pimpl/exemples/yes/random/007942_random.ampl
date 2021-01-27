@@ -1,0 +1,1 @@
+program F : WPLa : takes h, V, i, g8 : integer returns boolean array input H[- D1] end Y : takes E2 : boolean; z5ta : integer; t, i9 : integer array; O920a : boolean array; nI8, C, s : boolean array; hK7, u : boolean returns nothing chillax end main : chillax end

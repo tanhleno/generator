@@ -1,0 +1,1 @@
+program h5 : a : takes v : boolean array returns boolean let Bd = 7 <= 2; while - 9 - 417 /= 6 : when case 20 : chillax end end end q1B0a : takes C : boolean returns nothing output "u5" . "~"; when case 15 : chillax end case 780 : pop end case 1 : chillax end end main : chillax end

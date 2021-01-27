@@ -1,0 +1,1 @@
+program v_ : p33 : takes X1 : integer returns boolean E1N0 : boolean; chillax end main : a : integer array; input yym0a; do z(true and not 8 and 111 - not 8 - 4, false and 5 or 11 - 3 >= 0 - 05, - 8 - 2 = 2); pop 22; when case 27 : chillax end otherwise : output "S" end; let uW[3] = array 6830 end

@@ -1,0 +1,1 @@
+program E : main : ZT : integer array; do uU((4330) - 8 + B >= - true rem true and 06, false rem nr or 366 >= false + 8 - 41); when case(19400) or K3F and 4 - 9 <= false - 6070 - 981 : chillax end case true and 982 : input q; when case 5 : chillax end; while 1 : chillax end end case 9 - 2 >= 502 : chillax end otherwise : chillax end; input N end

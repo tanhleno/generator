@@ -1,0 +1,1 @@
+program rI : J5 : takes O6 : integer; A1, Xs60a : integer; B, _ : boolean array returns nothing do P3(- (83) and 0 or 88, 87 - 0 >= 580, 76800 = 66, 1, 22) end main : h : boolean array; Q8, n : integer; chillax end

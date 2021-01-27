@@ -1,0 +1,1 @@
+program l : acV : takes J, Y0, F4V0 : boolean array; T9D : integer array returns nothing input Z93[false] end main : H, C91 : integer array; hA : boolean; when case 956 <= - (04) : input LN[481]; input AG9a; when case 8 : chillax end end otherwise : when case 1 = 35 : do O(5); pop end end; input Y6t; output 1 - 1 . ""; do t(498 - 68 /= 0, 0 = 78) end

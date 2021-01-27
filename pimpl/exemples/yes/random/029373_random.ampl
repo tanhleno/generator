@@ -1,0 +1,1 @@
+program y : J : takes i, l1 : integer array returns boolean array N4 : integer; output "$`0a" end main : d, F : boolean; H, _8 : boolean; do t(R(859, 4) + not true + true and 9, L(3) >= (56) or 1); when case not true >= 88 and 38 + 66 : chillax end otherwise : chillax end end

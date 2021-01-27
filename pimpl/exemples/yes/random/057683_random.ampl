@@ -1,0 +1,1 @@
+program bS : Y : takes j : integer array returns boolean array NI, L, p5F, FXF, m2 : integer; chillax end main : pop; when case true / false and 4 or not 0 and 2 : output 9 . "" end case - P63 and 0940 or 9520 - 0 > - 8 - 10700 : chillax end case - 615 - 7 > 7 : chillax end; while(5) : chillax end; do C(- 58); while 5 : when case 74 : chillax end; pop end end

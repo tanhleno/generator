@@ -1,0 +1,1 @@
+program b : U : takes c : integer returns nothing Wj : boolean; e3, A9H : boolean array; do B(false + 15) end main : do lbl0(- 5, 728 * not 0 and 1 - true and 6); while false rem true and 4 < - (26) and 2 : output "" . "|2" . "" end; let e[- true and 3] = array - (0) - 65 - 62; pop 5400; input J3U0a[142]; pop; do C(3); output "" end

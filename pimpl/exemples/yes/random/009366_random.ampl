@@ -1,0 +1,1 @@
+program w : q : takes I, f, g : boolean; U : integer array returns integer array Yo7, d5R0a, m3F, f, R1a : boolean array; X89 : integer; M6 : boolean array; f, m3 : boolean; let u[- (7)] = 5 <= 13900 end main : input XaS end

@@ -1,0 +1,1 @@
+program U : HkK0 : takes z5, m720, mT : integer; X6 : boolean array; vf1, yt, V, X, G : boolean; j3, pjt, d : boolean; Y : boolean array returns boolean chillax end Bo : takes l, g : boolean array returns nothing t : integer; E8J0, lL9, y : integer; chillax end main : B9V, B : boolean; _c1 : boolean array; input o; let F[- true + (8)] = true > - 6 - 99; pop; output ""; pop end

@@ -1,0 +1,1 @@
+program N : k : takes V0 : boolean array; k : boolean array; H79aa : integer array returns boolean E, m : boolean array; J, e5 : integer array; K7M : integer; G4 : boolean; chillax end main : do F(G[9] = not not 59, - not(9) - 77 and 37 <= - true - 07300 - 9, - true - 6 - 6, 1 - 374 > 41, 9 = 4, 14600); pop(40400); do zg1(- false and 2, - 624 - 1 >= 8, 8790 = 365, 8, 8) end

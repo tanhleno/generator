@@ -1,0 +1,1 @@
+program b : main : W, i : boolean array; I, b, d : boolean array; pop; let P77 = array - 6; while - false + 92 >= - 94 - 56 : output 468 end; when case 1 : output "\n\t\"" end case 0 = 178 : do k2T(8) end otherwise : when case 633 : chillax end end end

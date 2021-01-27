@@ -1,0 +1,1 @@
+program LU : i : takes V : integer; b, Wp, h : boolean; HU5 : integer returns boolean array do K(- false = - 90600 - 3); input Y; output 19100 end ea : takes Pjh : integer array returns nothing do K(3 <= 79, 1 = 0) end w61a : takes o, B : integer array returns integer array chillax end main : e6Z0a : boolean array; chillax end

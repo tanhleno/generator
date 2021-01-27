@@ -1,0 +1,1 @@
+program CXV : qAe : takes H, S9K0 : boolean; m : boolean array; z, e : integer array returns integer array when case - (03) = 0 : chillax end otherwise : chillax end; let tp[034] = 9 = 42 end main : output "\"" end

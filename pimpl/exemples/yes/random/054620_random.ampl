@@ -1,0 +1,1 @@
+program q : eu : takes i32a : integer array; I, Wp : boolean array; C : integer returns nothing input W; when case 1 <= 19 : input E3 end otherwise : chillax end end q : takes y9, u, R7, _ : integer returns boolean output "=" end k : takes L300, Z0, ww7, t, F4, yH : boolean array returns nothing P : boolean array; chillax end main : chillax end

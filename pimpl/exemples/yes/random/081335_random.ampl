@@ -1,0 +1,1 @@
+program vlL : main : r : boolean array; tGY0, OW : boolean array; when case - true or(0) - not 1 + 4 = - kp * false and 1 or not 9 and 3 : output "xb"; let x6H[1] = array 3; input O87 end case 26 rem not 20800 : chillax end; do Ax(false / 62); do bM(- T); do B(95500, 7); output 1 . ""; let U[2] = 8 end

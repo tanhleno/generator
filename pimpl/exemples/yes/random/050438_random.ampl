@@ -1,0 +1,1 @@
+program j8 : uyLa : takes n : integer; d, J : boolean array; E, F, pK60a, u8 : integer array returns nothing MM, J : integer; output - 339 >= 6 . "]" end tc9 : takes Mw : boolean array returns nothing chillax end main : n, n, vh0a, fG2, p : integer array; let o = array 3980 + (86); output f or 5 . - 8 . "" . "" end

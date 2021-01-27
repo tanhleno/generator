@@ -1,0 +1,1 @@
+program xN7a : U : takes G : integer array returns nothing while - not 1 < - 93 - 8 : chillax end; let u = 74; pop 63; when case 366 : chillax end case 3 : chillax end; do b(46) end main : c, d, d, D : boolean; chillax end

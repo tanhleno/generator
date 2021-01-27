@@ -1,0 +1,1 @@
+program Oz : main : f : boolean; w, c : integer array; when case false : chillax end case - 3800 >= 94 : chillax end otherwise : chillax end; output ce and 909 - 22 <= 9; do b(- false, - 664 - 9) end

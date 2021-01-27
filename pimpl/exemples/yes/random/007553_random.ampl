@@ -1,0 +1,1 @@
+program b : RJAa : takes Y, xl1, J, h5 : integer array returns integer array K00 : integer; when case - true and 6 or 8 : when case 58 : pop end end otherwise : chillax end; do ATY0a(1 < 8, 6600, 11) end main : Y : integer; l8s, Yz, M7C0, d, LYD0, l : integer; QGx : integer array; chillax end

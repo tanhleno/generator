@@ -1,0 +1,1 @@
+program Rz20 : C : takes R, b6, Z1 : boolean array returns nothing y, j2 : integer; i, M : boolean; chillax end _ : takes u, Xo : integer returns nothing chillax end main : A0, uT, _, Cgra : integer; p, O, W5 : integer array; _5, Z, v4, z46 : integer array; do L02(true rem(29) or B_I[94] + not 76 and 8 < - (4) rem Xh + not 0) end

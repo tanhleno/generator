@@ -1,0 +1,1 @@
+program n : main : when case - D95 rem not not 784 + 402 rem 325 and 702 + LS and 0 : let D = 7; let L4[198] = array 07 end; while - 1300 and 5 and 827 : chillax end; output "" . "\"~\"a" . "\\$\"a" . "61\"a" end

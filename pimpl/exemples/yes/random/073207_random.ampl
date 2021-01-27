@@ -1,0 +1,1 @@
+program GeF : main : RY0, EW, MF : integer array; while - f(82) / (417) - (66) rem(147) and 4 < k(6) / not 6 and 40 : when case - 3 - 40 <= 285 : pop; while 7 : chillax end end case 592 : while 2 : chillax end; pop end case 58 : pop end case 7 : chillax end end; let Dv3 = array not 19 / false and 5170 end

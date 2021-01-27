@@ -1,0 +1,1 @@
+program DZCa : main : m8, zp, m9 : boolean; lv3, ry : boolean; let iT[- not(2) * false] = array 83 * false * wH + not j or false; input q7o[_91]; pop; let h = array 1; input qg4; output 458 . "#"; while 94 : chillax end end

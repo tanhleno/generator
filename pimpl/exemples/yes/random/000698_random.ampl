@@ -1,0 +1,1 @@
+program C : H23 : takes EAV0a, iG, U, d7, b, Q, T : boolean array returns boolean L : integer; I : boolean array; let _ = array - m8X0a and 2 - 719 end main : V7 : boolean array; Y8, S, J, wM : boolean array; k, V : integer array; pop; input Ev end

@@ -1,0 +1,1 @@
+program a : Z : takes B, U4, zm, iB30a : boolean array returns integer d : integer array; t : integer array; N97 : boolean; X, r : boolean; pop; do dCu(3 - 9); let jf[6] = array 8 end main : input y; pop; output 1 - 5 /= 04 . 2; pop 1; do O(5) end

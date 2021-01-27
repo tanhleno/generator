@@ -1,0 +1,1 @@
+program DP : n : takes i : integer returns boolean M, EF1aa, C0, h, h3 : integer; when case QK20 >= 6 - 8 : chillax end case - 66 - 93 : while 74 : chillax end; let s = 2440; pop end case 5 = 7 : chillax end otherwise : chillax end end main : L9i : boolean array; do D(- true and(97) - true + (698), - 71 or(0) and 9970 + 31); do Y(- K(399) and not 2 and 8 - 53 and 1 >= - true) end

@@ -1,0 +1,1 @@
+program e : _E9 : takes u : boolean array returns nothing jr40a, j : integer array; m5 : boolean; pop; do Q9(- 82); let M[1200] = 2 end w : takes _, I1Zaa : boolean array returns integer array chillax end main : E : boolean; ih, X : boolean array; ZT, B4w : integer array; EC : boolean; vf30, huv, e : boolean; K4J, B : boolean; output ";"; let m = array(0270) * not 0 end

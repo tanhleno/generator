@@ -1,0 +1,1 @@
+program e : Qs : takes O : integer; C : integer returns boolean do y4U(true, 218 - 1 < 4); input eP7 end h : takes q, kfa, Ac5 : boolean array returns boolean chillax end g : takes FJ : boolean array; t0 : integer array returns boolean array chillax end main : chillax end

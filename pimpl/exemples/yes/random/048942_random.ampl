@@ -1,0 +1,1 @@
+program y : v88 : takes d6F : boolean returns nothing let SvVaa[- r and 7 + 6] = array false end main : q05 : integer array; let N[- (81 = 6) * 88 - false and true and 0 + false and 2] = 6460 * 17 end

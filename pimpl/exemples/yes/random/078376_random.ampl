@@ -1,0 +1,1 @@
+program b8 : main : _ : boolean; tuO0a, G0, tt2, p1, X, Bbd : boolean; e5M, M, f : integer array; r : integer array; while q3 / 9 / G and 08 : when case 2 - 0 >= 50 : input q end case 43 = 25900 : pop; pop end case 8 : pop end case 07 : chillax end otherwise : chillax end end; output 4 <= - 939; while true and 8 : chillax end end

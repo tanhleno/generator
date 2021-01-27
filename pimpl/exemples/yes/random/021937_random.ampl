@@ -1,0 +1,1 @@
+program Q : UMR : takes C, LO : boolean array returns nothing chillax end E0 : takes E : integer; r : boolean returns boolean G2T : boolean; chillax end H : takes H0, _1A0a, qn90a : integer; j : boolean array; _ : integer array; f8, c, O : integer returns boolean while 4 = 3 : chillax end end main : chillax end

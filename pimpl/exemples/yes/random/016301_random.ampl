@@ -1,0 +1,1 @@
+program w : W8gaa : takes A, O, C : integer returns nothing g, o, z, x : integer; chillax end main : while O[3930] * not(4) and true and 673 - not false / false and 112 /= - true * not 6 and 1 or 9790 and 1720 + 8 : when case - 8 < 3 : while 3 : chillax end end; do O5(35 = 50100) end end

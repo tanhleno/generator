@@ -1,0 +1,1 @@
+program lM : C9 : takes h, D, u0, n, C : boolean array; DQ40, j : boolean; A, Nsa0a, R, h, H, F : integer returns boolean array chillax end r : takes o, v5v, v4, X : boolean array returns nothing when case - 0 - 3 : do R6(2) end case 52 : chillax end end Z : takes Nm : boolean returns nothing chillax end main : chillax end

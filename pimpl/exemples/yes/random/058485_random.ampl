@@ -1,0 +1,1 @@
+program K1 : v : takes r32 : integer array returns boolean let E7[7 + 84] = - 81 - 8 >= 6; when case - 3 - 82 >= 6 : chillax end case 23 = 06 : let rcB = 91 end otherwise : pop; pop end end main : chillax end

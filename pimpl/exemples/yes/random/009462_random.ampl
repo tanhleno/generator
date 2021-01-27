@@ -1,0 +1,1 @@
+program _E : t : takes ZV0, O2S, z4x : boolean; gKp : integer returns integer when case - 03000 : chillax end; let N[5] = 697 end oG20a : takes Aa90 : boolean array returns nothing chillax end main : while true and d(0) - not(9) and true and 7 = - (7) : chillax end; let l4[- false / (63) and 2 + 4 and 0 or 9] = array false + false + 9 - 86; do L(4 and 88200 + 6 /= - 5 - 53) end

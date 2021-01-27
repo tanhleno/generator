@@ -1,0 +1,1 @@
+program A : P9 : takes p5P0, u, p, Pw : integer; I, Z, Y, aO9, O, B : boolean returns nothing _ : boolean array; chillax end V : takes gI : integer returns boolean do I(- 524 >= 1) end Y9 : takes e : integer returns boolean chillax end j : takes Q, O : boolean; RWg, E, c_O, W : integer array; Z, I : integer returns integer chillax end main : w, wFf, Z7Yaa, R, W : boolean; pop end

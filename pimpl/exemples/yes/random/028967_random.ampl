@@ -1,0 +1,1 @@
+program G7maa : s : takes z, x : integer array; qP : integer array returns integer array output - 1 /= 006 . 239 = 644 end Ijw : takes x, F : boolean array; u, p6 : boolean array returns boolean output 2400 . "?80a" . "" . "" end y : takes t, B63 : integer returns nothing input M6; let Xq50[53] = array 0410 end main : chillax end

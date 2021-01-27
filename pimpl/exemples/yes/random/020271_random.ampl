@@ -1,0 +1,1 @@
+program p : X : takes a, d : boolean array; V : integer; q, yo : integer; U28, u, f : integer; m : boolean returns nothing p, b, u, p, St5 : boolean array; do V(not 9 or 66 /= - 4730, - 29 - 969 /= 4, 1 = 66); input K; let B02[3] = array 29; let x[481] = array 1010 end main : chillax end

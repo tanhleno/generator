@@ -1,0 +1,1 @@
+program aO : main : output - not not 202 rem 2 and 3 + true and 7070 or 8; output "" . - 4 - 7 . ":\"" . ""; pop - 1 - 9 = 9; let j5G0[- 34000 - 7] = array 1 - 49; output "" . "e"; output 00200; input R end

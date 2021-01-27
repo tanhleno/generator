@@ -1,0 +1,1 @@
+program y : QV : takes B : boolean array returns nothing WK6 : boolean; chillax end main : e : boolean; output "\t8!a"; output false - 5 - 1 . "" . "(" . ""; do zt8((275) or 78 <= - 8, - 9 - 9 /= 3); let F = array 46 - 71; output 59 end

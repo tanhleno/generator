@@ -1,0 +1,1 @@
+program kL20 : _Lj0 : takes Q, q, o, u : integer array; SU : integer array returns nothing when case(7) and 81 = 7 - 17 : while 420 : chillax end; pop; output "" end otherwise : chillax end end main : output "\\8"; while D2m(18) / not 1 and 92200 - true and 87 = 6 and 6 : chillax end; input cRq[- p65a and 431 - 1 - 913]; do Axa0a(- 8 - 33); output 155 end

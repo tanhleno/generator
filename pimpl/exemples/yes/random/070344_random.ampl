@@ -1,0 +1,1 @@
+program c : main : E, E, f, r : integer; when case - true / 7 : chillax end otherwise : when case 8 = 01 : chillax end otherwise : pop end end; while true / true and 4 + not 11 and 9350 + 90 - 91 : chillax end; while - 803 = - 3 - 886 : chillax end end

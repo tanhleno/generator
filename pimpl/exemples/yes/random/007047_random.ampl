@@ -1,0 +1,1 @@
+program b : sE8 : takes f16a, X3, i, C : integer array; r8, W : integer array; H4, jv, MD80, w : integer returns nothing chillax end main : r7j, R8q : boolean array; do eg(39100 * (8) or 3 rem false + 9 and 4 > not false - (0) and 7 or 6 - 70); pop not 4 end

@@ -1,0 +1,1 @@
+program e8 : u : takes dn : integer array; xM30a, g01 : integer array returns integer array r, yw, qm : integer; j : boolean array; Wx8 : integer; input RId end main : S, a : integer; while - 6 and V[4] and not 6 /= S[28] - d and 3 + 3 - 35 : do uBD0a(4); while 4 : chillax end end; let dO[81] = array true or(39) end

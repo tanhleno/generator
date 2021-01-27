@@ -1,0 +1,1 @@
+program u : main : Fq : integer; input ul; when case - 7 and qu : let c = 39200 end; pop 475; do M(3 - 45 = 0); when case 5950 : chillax end case 46 : chillax end case 9 : chillax end otherwise : pop end end

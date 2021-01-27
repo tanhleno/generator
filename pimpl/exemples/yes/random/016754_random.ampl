@@ -1,0 +1,1 @@
+program O5 : jHK0a : takes aC, TM7 : boolean; e92, CVx, v6, i2, i : integer returns integer array chillax end M : takes EP30, Qv : boolean array returns integer array while - 7780 - 7 : pop; pop; pop end end main : E9c, M, Ld : boolean array; I, u, N6v : integer array; kv : boolean; Flr : integer array; chillax end

@@ -1,0 +1,1 @@
+program Ygya : kCH : takes z, k6 : integer returns nothing S, _OV0 : integer array; chillax end G7 : takes Wh5 : integer array; EGT0 : integer returns integer chillax end A : takes e5 : boolean; D : integer array returns integer array do l(51, 84); input P[6] end main : chillax end

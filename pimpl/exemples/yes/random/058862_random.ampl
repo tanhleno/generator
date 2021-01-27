@@ -1,0 +1,1 @@
+program bpH : I : takes O : integer array returns integer array M2u : boolean; while - (0) - 8 - 39500 : pop; pop; while 366 : chillax end; pop end end a5r : takes F4O0a, OgI : integer array; B, l, Gz5, yG : boolean array; r : boolean array; I : boolean returns nothing chillax end main : P : boolean array; H89a : boolean; chillax end

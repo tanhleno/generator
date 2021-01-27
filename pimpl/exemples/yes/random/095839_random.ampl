@@ -1,0 +1,1 @@
+program e : main : when case - false : chillax end otherwise : let lj8a = 5 end; while - (36) and JC - not 01 or 08 : chillax end; when case true and 6 : when case 8 : pop end otherwise : chillax end; input F; let k3 = 231 end; do f(- 46400, 0) end

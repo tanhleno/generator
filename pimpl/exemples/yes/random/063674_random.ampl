@@ -1,0 +1,1 @@
+program o4 : U : takes gD4 : integer returns nothing chillax end I : takes hoZ, Y2, m : boolean returns nothing chillax end jF : takes H4, b, Z78 : boolean; g4 : boolean; sH00a, H3 : boolean returns integer array pop 258; while 6 : chillax end; when case 6 : chillax end end main : pop true <= - true + 795 - 08200 end

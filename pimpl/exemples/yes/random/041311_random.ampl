@@ -1,0 +1,1 @@
+program Y5 : jz : takes W : boolean array; j : integer returns nothing chillax end E0x0a : takes ba, K39, o, h : integer array returns nothing input y end main : oz, Mo, Kr, u9 : boolean; Kw, V, b41, e9Xa, r6d, o5 : boolean array; I3m, p96, r : boolean array; O58 : boolean array; input c end

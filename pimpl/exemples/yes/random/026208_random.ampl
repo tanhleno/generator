@@ -1,0 +1,1 @@
+program y : R05 : takes d, kA : integer; H : boolean array; D : integer; u : integer array; vY : boolean array; kQj0, o70a : integer returns nothing chillax end main : let m[- dn7[6] / 31] = array - true or false - g end

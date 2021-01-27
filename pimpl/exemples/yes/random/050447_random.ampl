@@ -1,0 +1,1 @@
+program dd2a : g : takes _7 : integer; a, W : boolean array; Hc, TDx, c : boolean array returns integer chillax end V8O : takes P2Q0 : integer returns nothing I : integer array; pop end main : do W08(- 1160 / not x, - not false /= false - 56 - 00); pop(8) and 377 end

@@ -1,0 +1,1 @@
+program hRz0 : eT6aa : takes d : boolean array; J, J : integer returns integer n5, ev, C1 : integer array; when case(7) <= - 77500 : chillax end case 65600 : chillax end otherwise : chillax end end main : F0j, S650, a5Ea, PP, Y, P9, N : boolean array; chillax end

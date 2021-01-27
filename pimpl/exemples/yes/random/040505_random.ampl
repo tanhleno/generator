@@ -1,0 +1,1 @@
+program t : Z : takes A : boolean array; ff : integer; z, J, J : boolean array; f, H550a : boolean array returns nothing D, V27aa : integer array; chillax end main : Q, A, x, i, tNl0a, x, z180a : integer; output "71" end

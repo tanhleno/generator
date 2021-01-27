@@ -1,0 +1,1 @@
+program nZ : M31aa : takes Z, t, E, T, e : integer array returns boolean P : boolean array; T : boolean; chillax end w : takes M, _ : integer array; c, HU, QaH, gu, H, at : boolean array returns integer array q : boolean; do z4Zaa(3 - 57, 28) end main : chillax end

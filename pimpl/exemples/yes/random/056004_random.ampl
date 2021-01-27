@@ -1,0 +1,1 @@
+program S6 : s0 : takes E2 : integer array; F8 : boolean array returns boolean array when case - Y and 1 : input B3 end case 7 < 77 : chillax end otherwise : output "5-\"a"; pop end end main : T : boolean; chillax end

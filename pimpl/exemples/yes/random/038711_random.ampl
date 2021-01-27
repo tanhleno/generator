@@ -1,0 +1,1 @@
+program R4 : e : takes E : boolean array; I, Y : boolean array returns boolean array chillax end T3 : takes Nq : integer returns nothing when case 76 - 7 : output "::0" end case 2 : chillax end case 4 : chillax end end main : let OhM0 = array - true * false * not 6360 and 178; while not not 2 - true /= (2) and 2 - 4 - 8 : chillax end end

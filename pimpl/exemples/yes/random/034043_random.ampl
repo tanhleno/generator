@@ -1,0 +1,1 @@
+program f : y08 : takes c : boolean; h, O, E : integer; A38 : integer returns nothing Kt : boolean; when case - 41 >= - 9 : do PP(93, 51200) end case - 6 - 84600 : pop; let R = 70 end case 9 : do E79(5) end otherwise : chillax end end main : chillax end

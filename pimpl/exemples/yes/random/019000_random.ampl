@@ -1,0 +1,1 @@
+program v : P20 : takes o, Tkh : boolean array; w, X_4, x : integer; M2, x890 : boolean; v25, N5 : boolean array; _, Q2 : integer array returns integer array chillax end main : L2Za : boolean; while k[55100] and not not 3 : chillax end end

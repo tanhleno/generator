@@ -1,0 +1,1 @@
+program W : Z3La : takes H, Q9, J, a : integer; g : boolean; g : integer returns integer array chillax end main : gJda, S0 : integer array; output ""; when case 6 rem true : while 8 = 2 : pop end; input r5[20] end; input xX; while 9920 - 1 : chillax end; output "" . "" end

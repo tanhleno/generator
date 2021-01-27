@@ -1,0 +1,1 @@
+program L0 : H6 : takes M9, k : boolean returns nothing z : boolean array; e : integer; b, W : boolean; chillax end g8h : takes B8Y0a : integer array returns boolean K : integer array; chillax end E7D0 : takes U : boolean array; X070 : boolean array returns nothing output "6|" . "#1\"" . "&"; when case 17 : chillax end otherwise : chillax end; input HO1a end main : chillax end

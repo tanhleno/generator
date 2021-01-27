@@ -1,0 +1,1 @@
+program a : JA0aa : takes Y2 : boolean returns nothing L : integer; pop 79500 > 32 end _ : takes s, D, J, y, P, h, F : boolean returns boolean chillax end o : takes r, q, s : boolean array; L, O7 : boolean array; NeT : integer; j : integer array returns nothing chillax end main : chillax end

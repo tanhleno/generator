@@ -1,0 +1,1 @@
+program F : bX : takes dM : boolean array returns nothing chillax end _ : takes c5 : boolean returns boolean pop; output "" . 3; input er end d : takes v : integer returns boolean array chillax end main : w24a : integer; do l(- 5 - 9 and false and 0 - (9) or 90900, false and true and 71 > 79 and 2110, 08900 = 01 - 566, - 6 - 2 > 5, 31, 7, 26) end

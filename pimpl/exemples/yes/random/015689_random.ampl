@@ -1,0 +1,1 @@
+program A : j7 : takes RC, Y7, Ro : integer returns boolean array C1, X, ier0a : integer; n3 : boolean; Az : integer array; Z, k1 : boolean; when case - (478) /= - 44300 - 315 : chillax end; input A68aa[2 - 6]; input f5g0; do H(57, 3) end main : chillax end

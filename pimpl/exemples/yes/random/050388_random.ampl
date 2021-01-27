@@ -1,0 +1,1 @@
+program a3 : Bgoa : takes G3 : integer; W69, KS : boolean; z : boolean array returns nothing output - 98 . 14 = 69; input v; pop end DN : takes p : boolean array returns nothing G, l3 : integer; l4, J9, p : boolean array; o : boolean; H88 : boolean; output 7 = 1; do R(4, 69800) end main : H, nV7 : integer array; X_9, b : integer; chillax end

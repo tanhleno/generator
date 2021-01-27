@@ -1,0 +1,1 @@
+program G : t : takes F4U : integer array returns boolean input h; output 3 end _ : takes hx0 : integer array; k : boolean; K : integer returns integer array a : boolean array; chillax end v : takes J : integer returns nothing k : integer; chillax end main : u, g02, _, xy : boolean; chillax end

@@ -1,0 +1,1 @@
+program V53 : Q1O : takes cr80a, w : integer array returns nothing O2 : integer; chillax end IwC : takes HH30, r, t1, p9, XV, i, L : boolean returns boolean chillax end main : k : boolean; z : integer; pop - 51 + 73 and 88; output ""; do z(not 7 - 482 - 9, - 0 > 386, 7 = 6, 4, 20); pop 8 = 4 end

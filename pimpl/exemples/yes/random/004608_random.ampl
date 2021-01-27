@@ -1,0 +1,1 @@
+program y : j2 : takes N, z7, Y, X : boolean; n : integer; p, p3 : integer array; B : integer; G, r, q, H : integer; F : integer returns nothing A, C2 : integer array; oUM : integer array; output - 15 = 8 end main : p, me, W, N : boolean; while - false /= not not 1 and HR : chillax end end

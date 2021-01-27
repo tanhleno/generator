@@ -1,0 +1,1 @@
+program Xn : WE30 : takes M : integer returns nothing a, l, o, e26aa : boolean; chillax end q : takes sI9 : integer array returns nothing w3, w : boolean array; g : integer array; Ul : boolean; when case 9 - 92 : input O; while 51 : chillax end end end main : n : boolean; chillax end

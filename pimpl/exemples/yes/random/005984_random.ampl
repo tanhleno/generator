@@ -1,0 +1,1 @@
+program OE50a : AMY : takes i1, PDK, kQ, N : boolean returns integer array when case - false or 962 - 1 >= 5 : do NT70(13, 786); when case 6 : chillax end end otherwise : chillax end end main : H, S : integer; C4, _2 : integer; W9aa : integer; K150, zzV, Y5 : boolean array; chillax end

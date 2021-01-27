@@ -1,0 +1,1 @@
+program l : d : takes y, HL00, y : boolean returns nothing d52aa : integer array; chillax end main : j8 : boolean array; F, KQ : integer array; when case - ezV[2] * 8 rem(939) or s or true + 707 = - z(2420) or 8540 - 6 : do tLu(- 25 - 0 /= 1) end; input D end

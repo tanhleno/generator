@@ -1,0 +1,1 @@
+program a : x : takes c1e : integer returns boolean array pop 70 - 59 end Mo7 : takes h, P : boolean array returns integer when case - 1 - 5 : while 79 : chillax end end otherwise : chillax end; when case 58 : let rj6 = 7; pop end otherwise : pop end end main : let j = (5) + L70a end

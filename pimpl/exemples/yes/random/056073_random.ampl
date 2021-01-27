@@ -1,0 +1,1 @@
+program c870 : h : takes h : integer array; T8 : boolean array returns integer chillax end main : do X5g0(- not q[4] or(6020) / true and 61000 >= false and true + false, false, - eC or 460 <= - 9); input nF; let zE = - 3 - 5750; do g(- 24600 <= 6) end

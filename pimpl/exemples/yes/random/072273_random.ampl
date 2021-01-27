@@ -1,0 +1,1 @@
+program j : main : B, a, t : integer; jV80 : boolean array; when case - i7(1, 67) rem(601) /= true + false : chillax end case not(87800) rem false and 9 or(21) + 06 - 10 : input N end otherwise : chillax end end

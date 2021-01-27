@@ -1,0 +1,1 @@
+program t : main : let m = - 72100 * false > - b and 756 or 27; when case(4) / N and 779 <= not 3 and 06 - 189 - 1680 : when case 0 : chillax end end case A and 09 < 6 : when case 2 : pop end case 4 : chillax end; output ""; input T2 end end

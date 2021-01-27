@@ -1,0 +1,1 @@
+program aKp : main : v1, Q, M : boolean; x, z6, G76 : integer; X : boolean array; o6H, rrC : integer; p : integer; y : boolean; while 84 and not 473 / true : chillax end; let u2[- not wF rem true or(46) or 6] = - not 4 > 6 - 9 end

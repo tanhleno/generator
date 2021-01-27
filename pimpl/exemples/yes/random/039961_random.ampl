@@ -1,0 +1,1 @@
+program F : BM : takes HEU0 : boolean array; W_pa : boolean array; U8 : integer array returns boolean when case - false and 452 : chillax end case - 46 : chillax end case 8 : chillax end otherwise : let g = 13; let Vo = 93 end; let I95 = 43 = 09300; while 91600 = 93 : when case 2 : chillax end end end main : pc : boolean; chillax end

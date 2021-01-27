@@ -1,0 +1,1 @@
+program oc : main : when case U16aa or(2) rem false and 97 or(30) and 32 or 2 <= - e : chillax end otherwise : do YV20(72 = 8); when case 8 : chillax end case 6 : chillax end otherwise : chillax end end end

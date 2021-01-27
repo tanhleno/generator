@@ -1,0 +1,1 @@
+program f : a : takes T : boolean; y : integer; F : integer returns boolean array chillax end x : takes F, X, F : integer; r, Qc : integer array returns integer array chillax end main : A, n, tm : boolean array; output - L9X(02) + true and 3 - 36 - 43 <= - Q and 1 - 5 - 908 end

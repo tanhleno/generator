@@ -1,0 +1,1 @@
+program U2Q0 : main : while - true and false * true - true and 43 - 3910 and 0 - 2 - 97800 > false : input S[- 9 - 606] end; when case - not 3 >= - false and 7 : input Tk[9]; input uUja end case true >= - 786 - 34 : chillax end otherwise : input S[3]; while 101 : chillax end end end

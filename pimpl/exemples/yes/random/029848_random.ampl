@@ -1,0 +1,1 @@
+program v1 : H5 : takes i, F19 : integer array returns integer array XC : integer array; chillax end hS : takes jloaa, b80, R1Oa : integer returns nothing l : integer; while - 7 - 43 : chillax end; pop 1 end main : chillax end

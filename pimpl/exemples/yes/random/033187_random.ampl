@@ -1,0 +1,1 @@
+program O : P : takes X, Nz : integer returns nothing while 7 and 0 : chillax end; output 219; while 02500 = 93 : chillax end; when case 22900 : pop end case 4 : chillax end end main : T60, Fm3aa, P : boolean array; Z : boolean array; output - true; let I[m[9]] = - true; let m9[- false and 1 or 5] = array - (110) + 6 - 4 end

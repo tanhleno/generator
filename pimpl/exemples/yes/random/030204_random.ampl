@@ -1,0 +1,1 @@
+program a76aa : O : takes B, w : integer array returns nothing chillax end v : takes I, x5, f : boolean array; n, P : boolean array returns nothing L : integer array; when case - 9 - 3 < 5 : output "-" end case 2 : chillax end case 6170 : pop end otherwise : chillax end; do g(75 = 4) end main : t : integer array; G, y : boolean array; Pk, cRUaa : boolean; pop false < not 98 end

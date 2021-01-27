@@ -1,0 +1,1 @@
+program n : main : A4, Sv, m : integer array; w, hC, Z : boolean; FaD : boolean array; when case false or(5) + not 761 >= true - false : when case 87 : do b7(4); while 6 : chillax end end case 01 : pop; pop end end case - (7) + not 7 or 93200 > - not 2 - 42100 - 1 : chillax end case - (8) - 8 : while 18 : chillax end end; output "4r" end

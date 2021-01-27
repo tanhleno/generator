@@ -1,0 +1,1 @@
+program L6v0 : h : takes w, T7 : integer array; c81a, b : integer; o07aa : boolean; Y, tl3a, B : integer returns boolean _TA : boolean array; input R end main : d : boolean; input S; while not 7260 /= - S6 + 7 : pop 52 end end

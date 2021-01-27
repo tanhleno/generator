@@ -1,0 +1,1 @@
+program f : main : when case false - not lw > true rem not 1 and 4 : let U = array 74300; output ""; output 88; pop; input R; pop end case 5 + h and 1410 : pop end case(35) > 38 - 94 : chillax end otherwise : chillax end; input K end

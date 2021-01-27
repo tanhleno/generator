@@ -1,0 +1,1 @@
+program UN : Yi : takes UY : boolean array; O, o010a : boolean array; U, S23 : integer; U : integer array returns nothing m : integer array; K55, _4G : integer; l5 : boolean; n5, T320 : boolean; _g : boolean; let n = 4 - 1; output "" . 8 . 0 . "" end main : chillax end

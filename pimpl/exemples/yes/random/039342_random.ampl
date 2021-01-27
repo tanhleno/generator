@@ -1,0 +1,1 @@
+program LE : w4 : takes z : boolean array; R, p : integer array returns nothing let M = array true and 69 - 71; do b0(0 /= 232); let k = array 6; let A = 067; let C = 5 end S : takes y, v, m1 : boolean returns nothing chillax end V0Y : takes DN : integer array; cO5, tA, H : integer array returns nothing let Wu = array 06; pop 46 end main : D, hI, Rr : boolean; chillax end

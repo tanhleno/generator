@@ -1,0 +1,1 @@
+program rsx : u1R : takes P73 : boolean array returns nothing pop end main : e : boolean; zWD, s, ts3a, E290a : integer; output "0U" . (2) + 77 - 70 /= - 086 . 63 - 44 . "u10"; when case g(7) rem false : chillax end case(645) and 7570 or 5 - 5 : do qx(7) end case 7 - 30 >= 8 : while 9 : chillax end; while 26 : chillax end; pop end otherwise : let Qu3a = 63 end end

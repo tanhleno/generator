@@ -1,0 +1,1 @@
+program Y : X : takes X : boolean; U, n : integer array returns nothing let Ciz = 3 - 8; input l[9 - 3] end W : takes R : boolean array returns nothing I, u3C : integer; Y, t, M : integer; chillax end main : xtI, A, IQE : boolean; chillax end

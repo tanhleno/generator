@@ -1,0 +1,1 @@
+program y : u : takes U, gd, JU, y : integer array; AY0, eh : integer array returns nothing H8, Y, I, F : boolean array; t, r : boolean; T6, W : integer array; while - 492 and 845 : chillax end end main : chillax end

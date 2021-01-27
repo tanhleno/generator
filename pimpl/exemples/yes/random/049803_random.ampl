@@ -1,0 +1,1 @@
+program RE9 : d : takes F : integer; T, E, m : boolean; T : integer array; ts2 : boolean array returns boolean array z, a : boolean; chillax end main : aOxa : boolean; input h[p5[05] - true * not 76] end

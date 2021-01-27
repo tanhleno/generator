@@ -1,0 +1,1 @@
+program W51aa : R9 : takes N7 : integer returns nothing Z : boolean; uq, Q, j : boolean; bB, M : integer array; when case - (8) > - 8 - 5620 : chillax end case 01 - 3 > 163 : output ""; input I; pop end end eh : takes g230 : integer array; p620, _ : integer array; x3b0, e8r0, Y, v930, U6f : boolean returns integer chillax end main : let _7[not true / 64] = yVUaa(3) / 3 end

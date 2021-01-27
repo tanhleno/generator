@@ -1,0 +1,1 @@
+program U : d : takes v7, P7q, M, t2R0 : boolean array returns boolean array let _[- m and 74] = array not 8 and 16; input F6[- 7 - 2] end main : when case true <= true : do _20(- 6 - 97 = 70); input tM[4]; do c(4, 166); output "" end otherwise : input I[0] end; while - not 167 >= - 26 and 7 + 5 : chillax end; pop end

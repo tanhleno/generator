@@ -1,0 +1,1 @@
+program Iy0a : Q : takes E : boolean array; j7, U, X : integer array; A : integer array; Q50aa : boolean returns boolean e : boolean; chillax end T6a : takes M7, s, k3 : boolean returns boolean array n_, i : integer; Dt, X, pV : integer array; kyRa, O : boolean; let gri[- 782] = 49 end main : chillax end

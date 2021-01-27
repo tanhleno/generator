@@ -1,0 +1,1 @@
+program mn : main : pop - X9z and true; when case - false * 2 and 72 - 66 and 8 + 7 : output 59 . "" end case - (8) and 566 < 7240 : chillax end otherwise : when case 41 : chillax end otherwise : chillax end end end

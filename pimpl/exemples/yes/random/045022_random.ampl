@@ -1,0 +1,1 @@
+program pL : x4v0a : takes V4 : boolean array returns nothing let j = array 2 and 0 end main : q : boolean array; z : boolean array; J, d6 : integer array; m82 : boolean; O, j, I : integer; while(5) rem i6[7] : chillax end end

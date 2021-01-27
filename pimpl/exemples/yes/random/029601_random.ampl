@@ -1,0 +1,1 @@
+program k : O : takes D, PSw : integer array returns boolean f : integer array; t : boolean array; chillax end Ic5 : takes ymT : integer array; F, S : boolean array returns nothing N2, f3Oaa, s, tJ : boolean array; chillax end main : t : boolean; do l55aa(- not true - not(49) / (8) and 54, (9) rem 2 and 9980, 42900 and 2, - 1) end

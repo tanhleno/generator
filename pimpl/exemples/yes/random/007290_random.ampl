@@ -1,0 +1,1 @@
+program U58 : mh : takes m22a, SF, k, a : integer array; KG : integer array; k : integer returns boolean array G3s0, yy, c8, ky, u : integer; pop; pop end b : takes S5u : boolean returns nothing E3, u3, y5, p : integer; EQ, E, L : boolean array; chillax end main : chillax end

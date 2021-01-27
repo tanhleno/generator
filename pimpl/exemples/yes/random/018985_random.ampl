@@ -1,0 +1,1 @@
+program Qal : M : takes g, y58 : boolean array; cP, Z, j : boolean returns nothing h4 : integer; pop 1 - 6 > 47; input r; while 5 = 8 : let X = 71200; pop end; let b[2] = array 5260 end main : let T = - true; pop Xi and 509 - 98; output "" . "" . "" . "" end

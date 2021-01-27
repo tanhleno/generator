@@ -1,0 +1,1 @@
+program Lw : u : takes G9, v0 : integer returns boolean LP : boolean; output "" . 3460 = 5 end C84 : takes q : boolean; U200, IL50, sT0aa : integer array returns boolean array C, J, w3d0a, P : boolean array; chillax end main : pop(8); output ""; do L((38) and 23 < 7) end

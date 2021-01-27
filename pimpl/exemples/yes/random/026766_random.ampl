@@ -1,0 +1,1 @@
+program rgW : r : takes _I, G : integer; O5 : integer array returns boolean b00a : boolean array; rE : boolean; OD8a : boolean; cL90a : boolean; e : boolean; l2l0 : boolean; chillax end main : sCm, b : boolean; pop end

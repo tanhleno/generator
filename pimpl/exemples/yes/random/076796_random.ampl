@@ -1,0 +1,1 @@
+program G : main : M, m : integer; output "" . ""; when case 5 rem 6380 and 0 or not 5 and 9 >= (11) : while 6 : input l end end case 9 and 7 - 026 - 2 <= - 2 - 937 : chillax end otherwise : chillax end; pop; pop; output 9 end

@@ -1,0 +1,1 @@
+program V : OH1aa : takes k5i, gP : boolean array; d3 : integer returns nothing k : boolean; do _Bf(- true and 8 + 1) end main : mA : boolean; s : boolean array; let trw = array pD(0, 394) * 3300 - (4) or(40) and 9 or 7 - 594; do c4(- 1 < (4590) and 094 or 1 - 65300, - 92 and 8830 or 5); while - 006 = 476 - 1 : input cl40a[9]; while 5 : chillax end end; let n = array 1 - 8 end

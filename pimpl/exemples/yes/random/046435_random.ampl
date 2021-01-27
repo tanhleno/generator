@@ -1,0 +1,1 @@
+program aY : b : takes vV0a : boolean returns integer array chillax end r : takes G : boolean array; kB : integer array returns nothing chillax end main : k, Oi2a, E, nq : boolean array; output - false or not 2 . - 1870 + 4 - 1 >= 13; input j36 end

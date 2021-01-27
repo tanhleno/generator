@@ -1,0 +1,1 @@
+program MV70a : Y : takes f, P6Qaa, SaO, cb, O, n : boolean array returns nothing when case 6 >= - 0340 - 428 : chillax end case 679 - 5 > 0 : pop; output ""; pop end otherwise : do f480(07) end; let IO = 9 = 5; do U(1150 = 06, 579) end main : chillax end

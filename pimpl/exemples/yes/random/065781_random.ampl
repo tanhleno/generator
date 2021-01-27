@@ -1,0 +1,1 @@
+program f : main : do u((1 = 26000) and true + (0)); input f_6; when case 1 and 6 - 91700 - 2 : chillax end otherwise : while 4 : chillax end; let _ = 605 end; do EbR0(- 5 = 27100, 1 = 0180, 9); let Y = 2; output "" . "" end

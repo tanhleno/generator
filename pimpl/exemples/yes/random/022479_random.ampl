@@ -1,0 +1,1 @@
+program r : y : takes o, M : boolean array returns nothing v : boolean array; x : integer array; do f5ka(- false and 6 + 371 - 27) end mR : takes Y6, R : integer array returns boolean array output 0750 end Me : takes qh00a, VrR0a, W_oa, z, _ : boolean returns nothing s : integer; chillax end main : chillax end

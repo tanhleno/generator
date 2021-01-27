@@ -1,0 +1,1 @@
+program R : MY : takes m6 : boolean; H : boolean array; Jo, TnZ0, P : boolean array returns nothing output "uL" end main : while false and not 50 * true and 1 or O[4] * 085 and 85500 + true and 50600 : input M6[- 116]; while 5800 : chillax end end end

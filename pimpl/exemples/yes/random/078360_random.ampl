@@ -1,0 +1,1 @@
+program h : main : u : boolean; do I(true - 6, - false and false and 4 + true and 9 + 44 < - not 3 and 8 - 3 - 473); when case - (832) and not 853 and 9650 : do d(3 = 0) end; when case not 0 and 2 : chillax end otherwise : when case 5 : chillax end; pop end; input pJ5[278] end

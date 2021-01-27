@@ -1,0 +1,1 @@
+program y1 : H1F : takes F : boolean returns integer array A : integer array; pop - 59 > 3130; pop 08 = 22 end G : takes Q : boolean; Ck0aa, U, Y, Z1, y5 : boolean array returns boolean array pop 065 end main : while - (472 = 407) rem 34 / 2 + (1) and(7) <= f(33) or 5 and 447 : chillax end end

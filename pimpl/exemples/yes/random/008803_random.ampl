@@ -1,0 +1,1 @@
+program s : s : takes E9, M, m : boolean; f, j : boolean returns nothing let q = 5 - 29 < 1; do e9k(38 - 79 <= 12, 70 = 6) end main : Cl7, v1 : integer array; w61a, X : integer; YF, z, P, z, nH : boolean; do Lr8(true); let Ng[- true + 766] = array - n[9] or(8) and 8; pop 51 - 1 end

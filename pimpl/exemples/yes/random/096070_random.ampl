@@ -1,0 +1,1 @@
+program P : main : when case - w8[8] : pop 055; output "" . "&" . "h"; output "" end case - (46) + not 30 and 0 > - not 9 and 9 : chillax end case jM - 5 = 03 - 75 : chillax end case 3 > 318 : when case 9 : chillax end; pop; pop end otherwise : pop; let Z[6] = array 1 end end

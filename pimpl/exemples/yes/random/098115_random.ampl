@@ -1,0 +1,1 @@
+program g : main : while - false * (2) - false + not 5 and 7 - 5 - 0 < - (292) rem false : chillax end; when case - 2 or 3 and 8 or 09 - 4 : while 8 = 945 : chillax end end; pop 09 - 620; while - 476 = 3 : when case 8 : chillax end; while 0 : chillax end; pop end; when case 4 : output ""; pop end case 9 : chillax end case 81 : chillax end end

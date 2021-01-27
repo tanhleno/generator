@@ -1,0 +1,1 @@
+program P : oV9 : takes W650, _p, J, v, V, r, y9 : integer returns boolean pop - 5 - 7; input k; pop 1 end l : takes gz, A, S : integer returns integer array we, Sq_, J72, _O : boolean array; BC0 : boolean array; S6m, Mta : boolean; IFm : boolean; D : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program _P30 : b : takes qG : boolean array; D : boolean array returns integer array output "" end main : B, iutaa : boolean array; input y[not not true + w0[1] or false or 01]; let j = array - (2); output "/" end

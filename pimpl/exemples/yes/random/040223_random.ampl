@@ -1,0 +1,1 @@
+program V1 : h81 : takes f2j : boolean array; m : boolean array returns nothing output 7 end J : takes Co, _V8aa : integer array; KH0 : boolean; V, e91a : integer array returns nothing let s = 1; let F9D = array 7 end W : takes Ly, L : boolean array; V, D : integer array returns boolean chillax end main : chillax end

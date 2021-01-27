@@ -1,0 +1,1 @@
+program ht : main : while not not(6) - true + false + 7 - 87 : do G(3 - 3 >= 6); do M0Qaa(3, 12); do v(2, 45) end; let P = - not 39 + 87 >= 8 - 2; while 04900 and 4 >= 17600 - 8 : chillax end; pop; let G[33] = 7700 end

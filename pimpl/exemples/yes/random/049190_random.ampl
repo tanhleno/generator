@@ -1,0 +1,1 @@
+program e5 : X9O : takes Vc3 : boolean returns nothing while - 251 and 1 = 3 : chillax end; let z = 6; while 3230 : chillax end end J : takes I2 : integer array returns boolean while - 51 - 294 < 923 : chillax end; pop 5; do S(02); when case 2 : chillax end end main : while(5) + 148 and false >= false or not 073 and 3 + 3 : chillax end end

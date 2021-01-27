@@ -1,0 +1,1 @@
+program u : D36 : takes m8, O, Jm3 : integer returns boolean let G[- (8) - 92] = array - 6580 and 0 end b5l : takes o77, Q79 : integer; SR, c2I, t : boolean returns integer x4Caa : integer; L, L9 : integer; output ""; input P[0] end U : takes g : integer array returns boolean array input n2; do x9(5) end main : let Z3 = false = false or 6 end

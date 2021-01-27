@@ -1,0 +1,1 @@
+program E290 : i9 : takes YJS : integer; s, z, Z050, r : boolean; J8 : boolean; bY : boolean array returns integer let zX[- (0) and 4 or 1 - 8] = - 9 - 7; pop; output 0 . 90 end main : v7 : boolean array; _S, T : boolean; a, V : boolean array; chillax end

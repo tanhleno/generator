@@ -1,0 +1,1 @@
+program Yj : H : takes v0V0a, H, B : boolean; Ia50a, v, x, Q : integer array; r, D : boolean; LU, gY : integer returns nothing let d[- 289] = array true; when case 7 - 4 <= 10 : chillax end otherwise : chillax end; while 13 : when case 58 : chillax end end end main : chillax end

@@ -1,0 +1,1 @@
+program N : I : takes Q : integer array returns nothing chillax end iV : takes V, N, d, J, ID, E, X : integer array; f, a : integer array returns boolean array E59, v : integer; while 7580 : output ""; pop end; output ""; pop 93; do _Q_(10); pop; pop end main : chillax end

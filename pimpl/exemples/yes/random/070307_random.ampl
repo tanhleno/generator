@@ -1,0 +1,1 @@
+program e0 : main : n, yUO0a, kk, K : integer; output - not Nt and(05) or false and 1 - 40 - 18; when case - true rem(9) - (0) - 63 - 7100 = - 2 and 196 : chillax end case - false and 49 : do Q2Eaa(2) end case - 25800 : chillax end otherwise : chillax end end

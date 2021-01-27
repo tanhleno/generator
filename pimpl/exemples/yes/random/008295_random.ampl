@@ -1,0 +1,1 @@
+program kAh : _L : takes QXV, Ae, K, Vw : integer returns nothing R2 : boolean; AtI0a, d : boolean array; I, X : integer; Ov, U : boolean; F : boolean; h : boolean; let YQ = - 75 - 1 <= 05; when case - 61 - 4960 : chillax end; input ov end main : s : integer array; chillax end

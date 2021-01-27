@@ -1,0 +1,1 @@
+program C : e : takes x, hC, Z090a, g, FYKa : boolean returns nothing let a[- (0) and 87700] = array true + 3; input O35[- 09 - 533] end t49 : takes E90a : boolean; e : integer; L6, v : boolean array returns nothing P : integer; chillax end main : chillax end

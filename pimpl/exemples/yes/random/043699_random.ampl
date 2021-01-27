@@ -1,0 +1,1 @@
+program H87 : x9 : takes S93a : boolean array returns nothing chillax end main : A2, k, e3e : integer array; when case - not 1880 - not 1 * (20) - false /= - true / not 2 : while 5 /= 31 : do sG(19); let iMOa = 5 end; do I(1, 7, 2); input e[195]; do Y(0) end end

@@ -1,0 +1,1 @@
+program w : main : when case false and(47800) * (7) + false - (4) and 56 /= - (3) - a87aa - 2 : chillax end otherwise : let dTu0a = 387 end; do yhG0a(- Y7); while - false + 8 - 3 /= 8 : chillax end; let L6 = 0 = 468 end

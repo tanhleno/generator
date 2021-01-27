@@ -1,0 +1,1 @@
+program K : g4 : takes h4, C21 : integer; P, q, tSi, U : integer returns nothing chillax end e : takes YT8 : integer returns nothing do T1C(- 9, 92 = 349, 2) end S3raa : takes Y : boolean array returns nothing do M(3); pop end main : chillax end

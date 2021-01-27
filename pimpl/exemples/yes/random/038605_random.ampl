@@ -1,0 +1,1 @@
+program c : o70 : takes O : boolean array; Z0n, d8 : boolean array; tAx, F6, d : boolean returns nothing y : integer; E : boolean; when case 57 and 5820 or 63 - 6 >= 3 - 2860 : do g110(2, 04); pop end otherwise : chillax end end main : t5, D, R6, E90a, w, X : integer; g : boolean array; pop; pop false and 10400 or 6 = - 7 - 79 end

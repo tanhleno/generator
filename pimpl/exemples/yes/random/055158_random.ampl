@@ -1,0 +1,1 @@
+program V : a : takes Wy3 : integer array; u1, VE : integer array; r6 : integer array returns nothing pop end main : pop true = - E and 8; let FC = array 47; while not 90600 + 433 - 884 >= - 3 : let H0 = 86 end; input y[3120 - 5]; output "h"; pop 4; pop end

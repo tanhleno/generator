@@ -1,0 +1,1 @@
+program q : n9 : takes S, I : integer array; s : boolean array; U, J4, q : integer array; Q, u : integer array; l, jW, I : integer array; t, X0, A35aa : integer; i : boolean returns nothing output 4 >= 36 end main : C210, s : integer; pop - 4 * true + false - 0 > true and 8 or 8640 - 164 end

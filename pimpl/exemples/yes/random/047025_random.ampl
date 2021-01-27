@@ -1,0 +1,1 @@
+program w : O30 : takes tJf0 : boolean returns integer Q, W, ej70, w3 : boolean array; kJ, O4F0 : boolean array; while - 2 and 2 = 7 : chillax end; pop 76; pop; do bL1(1470) end main : ZG : integer array; chillax end

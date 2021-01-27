@@ -1,0 +1,1 @@
+program Zo : m : takes trT, c2 : boolean returns integer U66 : integer array; Nh : boolean; wC, hH, s9 : integer array; chillax end q : takes T, jm, gK : integer array; P2, D : boolean array returns nothing input f9[- 7]; do O3V(83, 7) end main : chillax end

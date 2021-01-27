@@ -1,0 +1,1 @@
+program A5caa : hQU : takes H9 : integer returns nothing input P4 end u46 : takes TqX, p3 : integer array; Ufm0a, V850, D : boolean array; f, Z, _, W, K : boolean array; R, C5, H : boolean returns nothing x : integer array; when case - 10 : chillax end case 03 : chillax end otherwise : do p(0); pop end; output "" end main : chillax end

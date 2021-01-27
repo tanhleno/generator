@@ -1,0 +1,1 @@
+program a1 : main : a0t, X5s : integer array; when case(73 = 3) : let v03 = 7 = 5; while 13 : input Q2 end; while 6 : pop end end case - Q(42) : chillax end case X or 44500 = - 9 : when case 4 : pop end otherwise : chillax end end otherwise : chillax end; let q70a[(5) + 835 + 27 - 6] = - N3 >= - 0 - 8; while - (6380) > - 987 - 8590 : input T end end

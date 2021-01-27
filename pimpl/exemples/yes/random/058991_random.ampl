@@ -1,0 +1,1 @@
+program w : G8 : takes Y : integer array returns integer array output - 59 - 985 . "" end g : takes a0 : integer array returns integer x9, D : boolean array; X : integer; Sj : boolean; while 616 : chillax end; when case 593 : chillax end otherwise : pop end; pop; output "" end main : chillax end

@@ -1,0 +1,1 @@
+program z : main : do R2(_fca[2], - not 92 * false /= (9) or 6); while(1) - 5 >= qA - 362 - 59000 : when case 41 : chillax end case 64 : pop end case 5 : chillax end; while 736 : chillax end end; do lq9(492 + 7570); let M = array 13 - 47 end

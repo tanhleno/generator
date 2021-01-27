@@ -1,0 +1,1 @@
+program ye5aa : E1 : takes E, P2 : integer array; X : boolean array returns integer d : integer array; while false < - 5 - 46 : pop 149; input a end end main : RY8 : integer array; f : boolean; s, _, Z : integer array; chillax end

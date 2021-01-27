@@ -1,0 +1,1 @@
+program a : main : E, IL : boolean; when case U1E[90] - B * false and 17 - i and 651 < z1[0] / not 9 and 72 : when case - 0 - 6980 : output "H$aa" end otherwise : when case 9 : chillax end end; pop end otherwise : chillax end end

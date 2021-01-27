@@ -1,0 +1,1 @@
+program T : z : takes h, x, j : integer array returns nothing o, m : integer; J : integer; D5Sa, r, K : boolean; uR, f : boolean; chillax end u : takes o, xfK0a, R, ER : integer returns boolean I, H : integer; do S4(4090, 545); input B; while 701 : chillax end; do F(20) end n1 : takes S, h, mdU, A12 : boolean returns integer pop end main : input s end

@@ -1,0 +1,1 @@
+program qoA0a : F : takes K : integer array; g, z : integer; f82aa, y290 : integer; Q : boolean; cg : integer returns integer array v : boolean array; while - 1 : chillax end; pop 4; input _6[486]; output 654 end main : ZvZ, x, j9, M3Xa, ex : boolean; chillax end

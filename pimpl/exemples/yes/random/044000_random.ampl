@@ -1,0 +1,1 @@
+program bt : Y : takes jw : boolean array returns nothing K, vy, l3, B : boolean array; vxE : integer; chillax end main : do b((65600 = 7) / (2), - 676 or 0, - false or 2 = 1 - 14, 32 - 61); pop true; let v = array(5110) and 19 - 3 end

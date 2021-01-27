@@ -1,0 +1,1 @@
+program E : q : takes Q, H, V3, U, HIr : integer array; m2 : integer returns boolean when case not 0 and 1 /= - 4 - 6 : output 9 . "r"; output "3I" end case - 6 : do I5(04); do Y(9); pop end otherwise : chillax end; let e8Q0[- 4] = 52 end main : chillax end

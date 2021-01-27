@@ -1,0 +1,1 @@
+program mUW : Xk : takes R : boolean array; uVo, E6, u4 : integer; s, C : boolean returns nothing Jh : integer; r : boolean; input b[- not 7]; pop 65; pop end main : E : boolean; do N((28900 = 800) / false + not true rem 7 < jiU0[8] / false and 6 or ea, - not true / c and 8 + 63 and 4 /= false and 8 + 7, - false <= 197) end

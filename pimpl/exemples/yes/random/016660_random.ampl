@@ -1,0 +1,1 @@
+program s : M : takes O400a, l : boolean; l, p, J, p, Q, p, qK : integer returns boolean vm, c, c23a : integer array; when case true + 763 < - 6 : while 6 : chillax end; when case 05 : chillax end; input J9I; pop end case 3 < 0 : chillax end case 3 = 24 : let f02 = 39 end otherwise : when case 8 : chillax end; input DD; pop end end main : chillax end

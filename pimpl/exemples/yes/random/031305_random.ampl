@@ -1,0 +1,1 @@
+program Gb : o : takes P, d : integer returns boolean array h18 : boolean; chillax end main : Ul : integer; h, pV : integer array; a : boolean; Plw : integer; Q2C, Y : boolean; T, Qj : boolean; output true >= not 400 and 3270 - 284; let au5[5 * (9) - (78) and 9 + 9] = array - s - G240 and 6 end

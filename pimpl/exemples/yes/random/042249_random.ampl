@@ -1,0 +1,1 @@
+program q5 : i : takes k : boolean array returns boolean T : integer; pop 5 >= 22500 end main : oD, i24aa : integer array; when case 2 / M3[8] and false and 627 : pop end case 7 and true and 7 : when case 8 : output "\n"; pop end end otherwise : chillax end; pop false and 7 - 4 /= - 82; let N = 2 - 25 <= 217 end

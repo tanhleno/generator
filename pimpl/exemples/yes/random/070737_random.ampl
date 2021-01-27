@@ -1,0 +1,1 @@
+program a : main : w, y7, z : boolean; M, J8, Lc10, x, d, To_ : boolean array; C, FTW, JC : boolean array; K : integer array; pop false /= false or 185 - 85; while nB(52000) + (2) - 94200 - 5 : chillax end end

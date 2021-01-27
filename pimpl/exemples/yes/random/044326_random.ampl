@@ -1,0 +1,1 @@
+program u : W : takes I : boolean array returns nothing n, Q1 : integer; q : integer array; chillax end KP : takes f : integer array; A : integer; A7, CR : integer array returns integer yg, bhhaa, PU4aa, Nf : integer; while - 7 : while 1 : chillax end end end main : let c8k0a[- true + false and true and 7 + false] = array false * (7) - 44 - (44) end

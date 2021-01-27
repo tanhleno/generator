@@ -1,0 +1,1 @@
+program bp : main : D, j5a0, k, Uq4aa : integer; es00 : integer array; s : integer array; u2, o26 : boolean; X, j : boolean array; do e(7 * N[0] * false - false * not 6890 and 93 + false and 6300 + 0 - 3, 7 * true <= not 0 and 36); while - 5 * 034 >= R05 + 5 - 766 : chillax end end

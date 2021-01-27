@@ -1,0 +1,1 @@
+program F : a : takes G5M : boolean; r : boolean array returns boolean array x, mDW : integer; chillax end main : when case - 4 or false >= true : chillax end case false and(9990) + o >= (04) : when case 9740 = 0 : chillax end case 17 : pop end otherwise : pop end end case - 8 - 1410 : chillax end case - 57500 = 9 : pop end case 28 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program HMYaa : B : takes ra8 : integer returns nothing I, k, R : integer; J : boolean array; chillax end a : takes K : integer returns boolean array chillax end main : leK : integer; U1 : integer array; while(89 = 95100) /= 8 and true and 116 + false : chillax end; do o(- not K and 3 and 625 + (6) and 471 < false); while - false : chillax end; output 4240 = 7; output 3 . "" end

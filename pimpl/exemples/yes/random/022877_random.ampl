@@ -1,0 +1,1 @@
+program m : d : takes O_, C5 : boolean returns boolean array chillax end r : takes N : integer returns nothing z : integer; f8, r, zvj0a : boolean array; he : boolean; Dq : boolean; i : boolean; let X9Saa = array 4 - 9 end main : QG : integer array; input N0[- false / (7) rem 88 and 787 - E(3550) / 55 and 3600 - true and 12 + 46] end

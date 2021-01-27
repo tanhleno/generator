@@ -1,0 +1,1 @@
+program w : w : takes u : boolean returns nothing do Yp(- not 4 and 0 or 39 - 6840, 4340 - 54900 /= 4) end x : takes D, Q7, e7 : boolean array; lu, X : boolean array; i : boolean array returns integer A : integer array; chillax end main : J4, k9, G, oW : integer; a, K300, y : boolean; L, b9N0, m : integer array; chillax end

@@ -1,0 +1,1 @@
+program y : r : takes Rb5 : integer array; p, v : integer array returns nothing p690a, y, L, Oy00a, m6 : boolean array; do F(4 and 4 >= - 7, - 4, 1 = 1780) end K : takes v4, bU, v7v0 : boolean returns nothing chillax end main : input F end

@@ -1,0 +1,1 @@
+program VZ : main : when case R[9] * false and not 6 and 6 >= (4) / (846) and 3240 or not 36 : chillax end case(1) : chillax end case - true : chillax end otherwise : let ZA = 97 end; input I1; while - (5) and 17 : chillax end; let er[61] = 7; pop 3; pop 8; do d(07) end

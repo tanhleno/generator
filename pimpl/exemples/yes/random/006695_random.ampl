@@ -1,0 +1,1 @@
+program D : R9 : takes Y3i, n, ugl, e : integer; a : integer; Y : boolean returns boolean array chillax end main : input um[- true or not 89 + not 8 + 68 - 75000]; output ""; let lX[- 993 and 70 - 31600 - 5] = 4; when case - 99100 - 3050 : output "" end case 7950 = 9 : chillax end case 33 : pop end case 3 : chillax end end

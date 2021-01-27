@@ -1,0 +1,1 @@
+program N : F1 : takes _P : integer array; Vcx, e020a : integer array returns nothing chillax end v2z : takes a, u, B : integer array; U, xJN : integer returns nothing y : boolean array; let UVZa[26] = 693 = 8; input SkJ0a[5]; do oy(51); output "9"; do A(88400) end main : chillax end

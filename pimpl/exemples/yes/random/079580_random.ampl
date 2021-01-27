@@ -1,0 +1,1 @@
+program f : main : dPw : boolean; r : integer; guha : boolean array; input Kk; when case - true - true and 11 or 9 - 3 /= - 9 and 23 : chillax end otherwise : input i; when case 7 : chillax end; output "M;\"a" end end

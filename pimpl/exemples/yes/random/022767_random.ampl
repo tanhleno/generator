@@ -1,0 +1,1 @@
+program A : G : takes a, Oh : boolean array returns nothing when case(83) and 1 = - 9 - 8 : pop; output "" end case - 4 - 2 : chillax end; let kl1a = array - 9 - 4 end main : Ro : boolean array; a1, U4, e, N75, V, o2 : boolean; o5 : boolean array; LB, G3, Ev, E0 : boolean; nmHaa : boolean; taA0a, O : boolean; chillax end

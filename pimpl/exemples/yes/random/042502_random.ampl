@@ -1,0 +1,1 @@
+program t6naa : c : takes k : boolean array returns integer array do f((4) and 3210 < - 9 - 22); while - 8300 - 019 : chillax end; let v[6] = 413 end main : do V5((6) * false and(83) + O1 rem not 3 + not 253 and 8 or 8 - 3); pop hk >= - 6 end

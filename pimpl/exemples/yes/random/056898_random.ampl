@@ -1,0 +1,1 @@
+program f : HN : takes tRTa : integer array; SW : integer array; o, u : integer; T0 : boolean array; b : boolean returns nothing RM : boolean; chillax end M : takes W : boolean array; Gj40a, c, u7 : integer returns nothing chillax end main : chillax end

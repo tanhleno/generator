@@ -1,0 +1,1 @@
+program Om8 : main : while true - 5 : chillax end; when case - (9) and(7) and 6 - false : output ""; when case 5 : chillax end case 4180 : chillax end end case - false < - 3 - 9 : chillax end case - 79 - 6 : while 670 : chillax end end case 1 : chillax end end

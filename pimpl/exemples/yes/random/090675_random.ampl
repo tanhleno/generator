@@ -1,0 +1,1 @@
+program KJ : main : let pP90[- (9) or 117 rem OP and 4 + b] = array - true or not true; while - hz(742) >= false and 5650 : chillax end; while - TQc or 60 - 7980 : let P[4] = array 0100 end; while - 73 - 56 <= 2180 : let d = 2 end; input Hk[0] end

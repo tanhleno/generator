@@ -1,0 +1,1 @@
+program dd : U : takes oh, g1j : integer; S : boolean; T : boolean returns nothing chillax end H : takes Ts6, DC2 : integer returns boolean array chillax end main : u790 : integer; pop false * not 37 and 0 - true > q - 516; input KN; pop; when case 439 < 63 : chillax end otherwise : pop end end

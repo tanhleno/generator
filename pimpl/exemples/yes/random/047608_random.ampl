@@ -1,0 +1,1 @@
+program V42aa : c7 : takes yj : boolean returns nothing chillax end s4Za : takes n : integer returns integer dg0, f : boolean; let R5[- 3] = 4; when case 4100 = 42 : chillax end case 7 : chillax end end main : chillax end

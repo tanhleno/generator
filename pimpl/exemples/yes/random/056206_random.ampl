@@ -1,0 +1,1 @@
+program U : g : takes e : integer array; o9g : boolean array returns nothing let g6F[(8) and 6 - 4] = - 0 - 2 < 2 end U74aa : takes O7 : boolean returns nothing gH : boolean; C7 : integer; X, R : boolean; N : boolean; r1 : boolean; when case 8 : chillax end end main : m2 : integer array; xN8, X3T, Zs, S, T, f : boolean array; chillax end

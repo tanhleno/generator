@@ -1,0 +1,1 @@
+program t : main : tH, Z3jaa : boolean array; Y4 : integer array; pop(6) - H2k0a and 30500 /= (8) + 50 - 8600; while(11) / R7z and 19 : when case 9 : input W end case 01 : pop end case 1 : chillax end otherwise : chillax end; pop; when case 835 : chillax end end; pop end

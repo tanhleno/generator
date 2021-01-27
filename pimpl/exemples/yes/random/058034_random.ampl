@@ -1,0 +1,1 @@
+program u : ZJW : takes e : integer array returns boolean chillax end JG2 : takes f, B6, D0, M : integer; y3z0, q, H7E : integer array; c3, z, S : integer array returns boolean array chillax end G : takes d : boolean returns nothing T5, N, d38 : boolean; e, tu4 : boolean; output "["; while 6 : pop end; let vb = 6 end main : chillax end

@@ -1,0 +1,1 @@
+program k9La : cc : takes a : boolean array returns boolean chillax end main : qlC : boolean array; V, a6, I : boolean array; R6, wO, Y : boolean; S, Z, s, i : integer; output false . true and 82 end

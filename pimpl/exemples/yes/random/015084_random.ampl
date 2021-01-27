@@ -1,0 +1,1 @@
+program T : s : takes B0, B, A6 : integer array returns integer rY2a : integer; chillax end R : takes O : boolean returns nothing O : integer array; do Y9(1 - 8, 0, 8) end i6 : takes h6 : integer returns boolean chillax end UR : takes i21, Z, AKW0, F, Q : boolean returns boolean array b2, bGg : boolean; do aR(00) end main : v8b0a, R : integer; chillax end

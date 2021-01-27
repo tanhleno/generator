@@ -1,0 +1,1 @@
+program d : tJ6aa : takes L8, L1 : boolean array returns nothing chillax end I : takes Aa : boolean; b, z, b, L, k95aa : integer; a2, Ocs0a, JMpa, L : boolean array; g, Q, w39 : boolean; f, P : integer returns integer chillax end main : let t8 = - true / true; output - (427) or 006 end

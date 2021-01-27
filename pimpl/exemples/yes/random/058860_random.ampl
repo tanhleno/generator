@@ -1,0 +1,1 @@
+program M : a : takes Sq30a : integer array returns integer array qUR : boolean; let zs0[- 95 - 6] = array(1650) and 68 + 4 - 0 end H : takes j, Z : boolean array returns boolean let I7 = array - 21 - 293; do Z2(7, 44700) end main : do V51a(- H - false * N > true + true and 8, 27 - S and 60 >= - false or 2500 - 9, true and 38100 or 5 > - 26); input t end

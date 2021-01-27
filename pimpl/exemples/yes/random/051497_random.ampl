@@ -1,0 +1,1 @@
+program e : s : takes wK80 : integer; fM : boolean; r04 : boolean returns nothing p3 : integer; chillax end main : r8 : boolean; let P9 = array - not 64 - x[3] and oD and 74; pop; while(1) : chillax end; when case - 801 - 7420 : chillax end case 25 : output ""; pop end; while 1 : output "*\\"; pop end end

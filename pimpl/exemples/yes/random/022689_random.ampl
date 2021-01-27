@@ -1,0 +1,1 @@
+program A : e : takes b6, GIc : boolean array returns nothing let SP6[7 and 3830 or 9] = array - true or 4; let cWpaa = 2; do V(1) end main : when case(0370) - 064 / true + 6 + 0 : let E0W0 = 67 = 70; let s[16700] = array 4 end; pop - false and 3 end

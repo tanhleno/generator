@@ -1,0 +1,1 @@
+program j : N : takes HW, a : integer returns nothing n9D, U, Ch : boolean array; l3 : boolean; U33 : integer array; V : boolean; chillax end main : ppL : integer array; g : boolean array; U, y, F, R : boolean; do m7(yb[1], - not not 63700 or 7 and 5 or 9 - 44 > - not 5 and 98 + 8) end

@@ -1,0 +1,1 @@
+program v7 : k0 : takes v, t, g_S, S, I0ma : integer array; zo : integer returns nothing r850 : boolean; chillax end main : I, D6 : integer; r : integer array; jSgaa, E, Xc, _6za : integer array; w : integer; output not false > - 8 and 0460 or 027 . "" . "" . 2 = 0990; let d = array 8; do M(37 and 09 >= 3 - 9); while 45900 : chillax end end

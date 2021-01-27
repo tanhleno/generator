@@ -1,0 +1,1 @@
+program H : E270a : takes d : integer; Q, M9, K, E, X : boolean array; e1 : boolean array returns integer output "" . 26 end main : S : boolean array; when case true + 3 - false and 1 - 0 > R(5) : output "j" . "" . 2; while 8 = 0 : chillax end end end

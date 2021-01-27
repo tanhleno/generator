@@ -1,0 +1,1 @@
+program m1fa : O3g : takes ycD0, e9k : boolean returns boolean chillax end E : takes f5, M76aa, u : integer; a : boolean; h19, E0f0, ZwXa, Bg, Sa : integer array; B9, U : boolean returns boolean t, t8 : integer; chillax end W95 : takes r78a, Z9 : integer array returns nothing DUV : boolean array; do W6(5, 584, 81); do Az(6) end main : chillax end

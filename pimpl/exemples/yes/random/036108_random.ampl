@@ -1,0 +1,1 @@
+program uF : Z : takes y : boolean; i : boolean returns boolean array chillax end dup : takes c, N8, H5Maa : boolean; _, LDJ0a : boolean array returns boolean array chillax end main : C2, A : boolean; cY, L2Z0 : boolean array; do WR6a(- (06) rem(3) * true and 82300, (572) <= 90 and 9); when case - true / 6 = - not 4 and 08 : chillax end otherwise : input m[60000] end; pop end

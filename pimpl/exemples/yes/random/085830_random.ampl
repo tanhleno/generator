@@ -1,0 +1,1 @@
+program d95a : main : iYr : integer array; K, PJ, S : boolean array; let Z = array true + 90 * 23 and 37 - not 2; do D6(N >= - not 697 and 6); when case - true and 150 + 032 >= - 49 - 0 : chillax end end

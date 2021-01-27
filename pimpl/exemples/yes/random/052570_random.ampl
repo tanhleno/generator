@@ -1,0 +1,1 @@
+program z : Jk : takes o : integer; u : integer; n35a : integer array; E : integer array returns boolean V9oaa, j4h0a : integer; m40, v3Paa : boolean; when case true and 24 : chillax end case - 97 - 44 : let Og4 = 0160 end; while - 37700 - 1 : output "&"; output "\n"; pop end end main : i : integer array; chillax end

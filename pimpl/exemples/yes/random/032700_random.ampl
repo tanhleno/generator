@@ -1,0 +1,1 @@
+program r : l9 : takes y7, HY8 : integer returns nothing q, j : integer array; input u[- not 3 + 49] end j : takes fj3a, P, o : boolean array; p7, JC30a, x : integer array; O, Y42 : boolean returns nothing S4Qa, gM : integer array; _, Z : boolean array; output 4 = 53; input V; let A0Y = 0; let pLga = 30; do A7R0(8) end main : chillax end

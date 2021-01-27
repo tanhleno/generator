@@ -1,0 +1,1 @@
+program k : S9 : takes qg : boolean; k : integer; v : integer; s, y : integer returns integer array chillax end j : takes s5, l, Nzi, T7 : integer; ZY, J06, k, ji, c64 : integer; u : boolean returns nothing chillax end main : k : integer; pop - 0 and false - 3 and 3 >= true or 25 end

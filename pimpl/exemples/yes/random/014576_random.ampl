@@ -1,0 +1,1 @@
+program X5Yaa : aM : takes d, i3C, a5 : integer array; b : integer returns boolean array output - 22 > 8 . ""; input Kq end main : I : integer array; syr, W, T, Ky10a : integer; L, j : integer; r : boolean array; g, F9, d : boolean; output ""; pop - (24000) and 13200 - 8 - 52 > - 2 - 1; pop 1 - 1 end

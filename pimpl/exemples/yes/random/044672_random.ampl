@@ -1,0 +1,1 @@
+program mdF0 : xF : takes C : boolean array returns nothing WVwaa : integer; chillax end Xyb : takes x : integer array; X, R : boolean; r6_aa : integer; l9, R2 : integer; bN5aa, X, d9 : boolean array; B, x : boolean; S : boolean returns nothing O, n67a, a : integer; pop 3 = 887 end A6T : takes a : boolean array returns boolean output 847 end main : chillax end

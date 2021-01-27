@@ -1,0 +1,1 @@
+program r310a : xD : takes kn0 : integer array; x : integer array returns boolean array C, z6, h : boolean; l : boolean array; N : boolean array; while 42 - 7 /= 10 : input a end end eug0a : takes e, tvH : boolean returns integer chillax end main : chillax end

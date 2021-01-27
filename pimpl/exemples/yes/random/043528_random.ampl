@@ -1,0 +1,1 @@
+program bs6 : v : takes u7 : boolean array returns nothing chillax end Twv : takes X, W0 : integer array returns integer array J3, v2, y8 : boolean array; when case - 3 > 7 : chillax end case 1 = 6 : chillax end case 4 : chillax end; while 446 = 8 : output "D" end; while 11 : chillax end end main : chillax end

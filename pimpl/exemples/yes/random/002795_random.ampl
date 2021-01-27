@@ -1,0 +1,1 @@
+program o : C2 : takes d, x, q, EE9a, _NKaa : boolean array returns nothing F6, Z, y58 : boolean; Rh, KJY : boolean array; chillax end main : when case true and(861) or false or(8) and 117 <= true or 1 : chillax end end

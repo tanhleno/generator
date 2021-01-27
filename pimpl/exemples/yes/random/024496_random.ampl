@@ -1,0 +1,1 @@
+program Zl : h : takes M8, j : boolean returns nothing h72aa : boolean array; s, V, f : integer array; Om5, U4Maa, Xg4 : integer; N : boolean; pop - 0 - 14 > 01800; output 6 = 5 end main : b : boolean; B : integer; chillax end

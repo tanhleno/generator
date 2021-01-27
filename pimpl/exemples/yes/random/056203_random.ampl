@@ -1,0 +1,1 @@
+program Q6 : mJ : takes e : integer array; pWv : boolean array returns nothing let b = array - _q and 291 - 0 - 32 end MY6a : takes G : integer; PAAaa : boolean array; F, Fp : integer array; YC, s0y, a : integer returns nothing pop 8 = 73; output 51800 end main : chillax end

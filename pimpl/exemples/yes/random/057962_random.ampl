@@ -1,0 +1,1 @@
+program H1naa : C : takes dMta : integer array returns boolean array output "" . 445 = 5400; when case - 4 : input Dobaa end case 2 = 725 : chillax end otherwise : when case 782 : chillax end; pop end; input c[2]; input c[50]; while 2 : chillax end end main : chillax end

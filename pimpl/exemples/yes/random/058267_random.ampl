@@ -1,0 +1,1 @@
+program e : G3W0a : takes N : integer array returns boolean N, vJRaa : integer; sE, E, k : integer array; output - 57 - 6 /= 5 end main : v8 : integer array; H : boolean; m3, jF : boolean array; Rc : boolean; while - not 620 or not(384) / (15) + true and 7 : chillax end; pop; while - false and 8 : chillax end end

@@ -1,0 +1,1 @@
+program zQ : F : takes l8 : integer array; T, C, t8 : boolean; Wo, e, u : integer returns nothing x, _ : integer array; when case - (5) /= 808 : chillax end; do VY5aa(- 05 - 49 /= 62); let _ = 7 end main : chillax end

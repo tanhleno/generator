@@ -1,0 +1,1 @@
+program q : g : takes _, yR5aa : boolean array; r : boolean; BVFaa, pH1aa, X : boolean returns integer q, HOKaa, gVJ : integer; let z390 = array false; let o[- 2] = array - 1 - 0; let _ = array 8 end main : output true . - P . ""; output false and 3; pop 2 - 63 /= 6780; when case 78900 - 63 = 7 : chillax end otherwise : input P end; while 485 : chillax end end

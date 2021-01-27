@@ -1,0 +1,1 @@
+program U : a9 : takes E9, O : boolean; d, R, X, xd : boolean array; nd5a : boolean; S, m : boolean returns nothing when case not 30 and 57 or 9 - 886 < - 93 : chillax end; do t2sa(- 77 - 7, 54700) end jJ : takes Ne1 : integer returns nothing do u(- 8 - 0); pop 3560; input Y[4] end main : chillax end

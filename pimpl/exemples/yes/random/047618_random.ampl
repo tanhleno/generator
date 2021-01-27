@@ -1,0 +1,1 @@
+program _19 : C : takes sY : boolean returns nothing chillax end main : do n(- 50 - not false and(1) and 5490 /= - true - (2) and 8, - 795 and not 8 and 76 or Q5 or 0470 = - 15800 - 8 - 2, c and 1, - 9 - 5 = 791); output - true or 0 > 54100 . - 4; while true or 77 - 8 : chillax end; let O = array 7; do G(1 = 6, 21, 091) end

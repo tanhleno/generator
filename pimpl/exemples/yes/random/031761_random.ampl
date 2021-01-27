@@ -1,0 +1,1 @@
+program v : Z : takes o, _ : integer returns integer array Xc1, Wl, A2ia, Iw : integer; i_, t, R, v : integer array; k9, s, X : integer array; let Lpo0 = array - i + 0 - 51; pop 6; while 54 : chillax end; let de8[3] = 6 end h : takes B3, J : boolean array returns boolean array chillax end Q : takes U : integer array returns nothing input S end main : V : boolean; chillax end

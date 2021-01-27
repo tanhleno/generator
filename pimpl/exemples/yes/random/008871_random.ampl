@@ -1,0 +1,1 @@
+program ba : K : takes j, d, fk : boolean; a, Vc : integer array; fX : integer; HK, Q8 : boolean returns integer array m5, mtN, u : integer; chillax end Owy0a : takes mV : boolean array returns boolean chillax end main : f0, w, rz : integer array; X1Daa : boolean array; input DIv[(09600) - not not 1 - 742 and 5 + 3 - 91]; let Cr = not 1 and 227 + 8 - 3 end

@@ -1,0 +1,1 @@
+program FF : F : takes T, A1, G790, g4 : integer; v, f4 : boolean array; N : boolean array; sx : integer; tnz0 : integer array; XPBaa, sm1, V6 : integer array; J : boolean returns boolean array chillax end main : r49, KJaaa, K050, ek : boolean; when case 7 : output 0 = 69 . 0100 . 7 end end

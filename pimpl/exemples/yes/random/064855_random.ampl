@@ -1,0 +1,1 @@
+program ZP2 : g86a : takes sm90a : integer returns nothing X : boolean array; Q : integer array; Y, a6 : integer array; cr : boolean; output ">" end main : when case - x[5] : chillax end otherwise : chillax end end

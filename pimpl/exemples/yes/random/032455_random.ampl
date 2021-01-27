@@ -1,0 +1,1 @@
+program x : U : takes l, u : integer returns nothing R0, H5, IP8, n, c : boolean; while false and 2260 + 9 = 56800 : chillax end; input X[53] end main : m : integer; pop 3760 - true and 82; input Z3[- true] end

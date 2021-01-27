@@ -1,0 +1,1 @@
+program LY : q7pa : takes z6B : boolean array returns boolean array chillax end main : let C25aa = - Z(120) and M and 36 = XQ1; do t(not 8 and(2) and 3, (6640) and 0); when case - true : chillax end end

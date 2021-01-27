@@ -1,0 +1,1 @@
+program X : jC : takes lsJ, Q : boolean; uE4, E2n0 : boolean array; c : boolean returns boolean array rW : integer array; input I20a; let p = array 64; do h(8000 = 0, 9); pop; while 5 : chillax end end _4 : takes G4h0 : integer returns nothing pop end main : Zy, o : integer array; let e = array - 1 and(7) end

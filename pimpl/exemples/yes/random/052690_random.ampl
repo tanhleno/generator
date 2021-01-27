@@ -1,0 +1,1 @@
+program r9 : v : takes L : integer; Z : integer array; B, P : boolean array returns nothing pop end T : takes s, j : boolean returns nothing G3, m210, J560a : integer array; pop 64 = 13 end Fr : takes T5s, d : integer array; u3P : boolean returns nothing output "" . "" . "4" end main : chillax end

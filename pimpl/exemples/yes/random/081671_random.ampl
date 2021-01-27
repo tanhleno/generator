@@ -1,0 +1,1 @@
+program m : main : QpM : boolean array; c : boolean; when case 4 - true * false - not 9 or 68200 - 56700 = not false + (1) : output 54; while 1570 = 8 : chillax end end otherwise : do s84aa(22); do Q(7); output "" end end

@@ -1,0 +1,1 @@
+program C01 : main : while - true * (0540) and 69300 and 77 = - true + true : output "\nD!" end; pop; when case(4) + 3 - 27 : output "8" . "520a"; input e; do o8(315); pop end case 0 : chillax end otherwise : chillax end; when case 34 - 8 /= 34700 : chillax end case 14 : output "#70"; pop end; while 4 : chillax end; let bU = 9 end

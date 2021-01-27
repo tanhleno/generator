@@ -1,0 +1,1 @@
+program H5x : B : takes d, b, p, O, Ik : boolean array returns nothing chillax end main : when case 34400 * 8 : chillax end case - not false rem 3 + false or 0 : input qV end case - false or 5 - 9 : chillax end case - 70 - 8 > 76 : output "7" end case 1 = 5 : chillax end; while - true and D = Q and 7 : while 4 = 0360 : chillax end end end

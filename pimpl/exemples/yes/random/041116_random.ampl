@@ -1,0 +1,1 @@
+program eKeaa : Z : takes sU6 : boolean array; q : integer array returns nothing U2Oaa, _6J : boolean; chillax end J : takes V, X : boolean array returns nothing dh7aa, l3, Gev0 : integer; s, e8 : boolean array; L : boolean; chillax end d : takes Q : boolean array; V4na, nC : boolean returns nothing chillax end main : T6, A8j0 : boolean; L : boolean array; chillax end

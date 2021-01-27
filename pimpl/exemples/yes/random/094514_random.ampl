@@ -1,0 +1,1 @@
+program M : main : pop; let V[- (8) or 7 and 4 - 5 - 4] = true + 5 - 66; let qe[(637) + 59] = - 3; while - 47 : while 60 : chillax end; when case 56 : chillax end end; do s(1, 46300); when case 8390 : chillax end case 4 : chillax end; pop end

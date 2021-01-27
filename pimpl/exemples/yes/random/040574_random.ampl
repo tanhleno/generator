@@ -1,0 +1,1 @@
+program s : z : takes L9 : boolean array; v : integer; b, Q : integer; F : boolean returns integer AS : integer array; pop - 8 - 5 end G : takes n, t, K : boolean array returns nothing chillax end main : chillax end

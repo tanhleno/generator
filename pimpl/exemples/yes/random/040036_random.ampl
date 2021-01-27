@@ -1,0 +1,1 @@
+program o5 : j : takes k2 : boolean array; t : boolean array returns boolean R : boolean; MJFa, x88aa, u, eF : boolean array; when case true >= 82300 : input vT end case - 9 : chillax end case 3 : chillax end case 1780 : pop end case 04100 : chillax end otherwise : chillax end; output 0 . ".50a" . 6000 . "" end main : n : boolean array; chillax end

@@ -1,0 +1,1 @@
+program _ : Y : takes K : boolean returns nothing u : integer array; while false and 8 < 711 : chillax end end h960a : takes P : integer array returns nothing O7Y : integer; z : boolean array; input T end main : eR : boolean array; pop end

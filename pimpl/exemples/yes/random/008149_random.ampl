@@ -1,0 +1,1 @@
+program i2 : oO : takes W, m, L59a, M : integer returns nothing chillax end V : takes V4, a : boolean array; N1 : integer; Y, h8, j : integer; dJ : integer array returns nothing let K0[- 79] = 99; do P83aa(76 = 8, 2, 05) end i8faa : takes E78 : integer array returns boolean array when case 1 = 3 : chillax end case 20 : chillax end otherwise : pop end end main : chillax end

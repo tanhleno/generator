@@ -1,0 +1,1 @@
+program i : M4Kaa : takes _7, n48 : boolean returns nothing KcS0, U : integer array; p, n : integer array; while true and 2 : chillax end end r8e : takes m : boolean returns nothing let C26[1] = 2; output "\n\ta"; when case 28 : chillax end case 317 : chillax end otherwise : chillax end; do YA8(44) end main : chillax end

@@ -1,0 +1,1 @@
+program j620a : S4s0 : takes Iy60 : boolean array; d2, Z, V : boolean; V : integer array; x, s, SI, jS, i : boolean; M : integer array returns integer array Sx, f, a : boolean; input K end main : D6e, X, h, r8T0 : boolean; chillax end

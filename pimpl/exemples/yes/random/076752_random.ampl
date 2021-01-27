@@ -1,0 +1,1 @@
+program Y : main : U, k : integer; output - (86) and 8 and 1 . C or 5 - 3 . - 97; while - true or not 7 + 2 : let g[5] = array 42 end; pop - 24 - 4; when case 6 : let H = 64 end case 1210 : chillax end case 66 : chillax end case 88600 : chillax end end

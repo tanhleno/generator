@@ -1,0 +1,1 @@
+program yz5aa : main : t62 : integer; O65, S, Ah8, u : integer; Q1, r, B, P, wU : boolean array; do P89a(- O(71800) and true, - true); pop; when case K9G0 and 3 : pop 6 end otherwise : let dJ = 99; when case 1 : chillax end; pop end end

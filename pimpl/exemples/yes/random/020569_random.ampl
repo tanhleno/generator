@@ -1,0 +1,1 @@
+program UN : K4 : takes r79aa, J : boolean array; W : integer array returns integer array while - (10) and 741 - 64 < 4 : chillax end end u : takes UW : boolean array; e9u, H1, Uj2, u1Ia, M, P : integer array returns nothing j86 : integer; u, L : integer array; while - 748 : output "" end; do br(74); output ""; pop end main : chillax end

@@ -1,0 +1,1 @@
+program Wm9 : main : B3 : integer; when case - _oD0a[2570] or true - 7 : when case 2 = 7 : output "j"; when case 047 : chillax end; pop end otherwise : chillax end end case - (4) - (31) + 8320 >= not 02 and 3 + 0 : while 2 : when case 9 : chillax end; pop end; pop; input l end case not 6 and 1 < - 6 - 2 : chillax end case - 237 - 2 : chillax end otherwise : chillax end end

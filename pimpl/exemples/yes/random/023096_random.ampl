@@ -1,0 +1,1 @@
+program t1 : B : takes _4, q67 : boolean returns boolean array while 0200 and 93 + 5 : when case 839 : pop end; input US5aa; pop end end main : s6 : integer; output - E[25] rem UbN >= - true and 75 . - (30) - 1 /= 7 . - 42 - 5 >= 2 end

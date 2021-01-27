@@ -1,0 +1,1 @@
+program n : C : takes we, U, Y : integer array; Q : boolean array returns nothing chillax end main : pop 7 rem(1940); do u(- true or true > - Ic8aa and 5780 - 1 - 0); while - cE8 and 3 : output 7410; pop end end

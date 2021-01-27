@@ -1,0 +1,1 @@
+program Z4 : E : takes e, N : integer returns integer while - f2u - 8 > 440 - 9 : chillax end end p : takes eYz : boolean returns nothing d7d0, JD6 : integer; when case 518 > 52 : output "$"; pop end otherwise : input Y3; pop end end main : chillax end

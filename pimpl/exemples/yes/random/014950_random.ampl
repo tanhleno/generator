@@ -1,0 +1,1 @@
+program N : Sk : takes EV, el, v : integer array returns integer array Ns5 : boolean; r, z6, b55 : boolean; UK6, AgPa, ps : boolean array; Q, xx : boolean; do qD(- (50) + 82800 - 3); pop; output "" end c89 : takes Noma, V, b, G : boolean; L, q1v : boolean returns integer chillax end main : chillax end

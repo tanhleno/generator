@@ -1,0 +1,1 @@
+program TZ : kxi0 : takes Nu0a, a : integer array; k : boolean array returns boolean chillax end sj : takes P, s, A, Wq0 : boolean array returns nothing tn, C9, y : integer array; b : boolean array; a : boolean; chillax end main : pop end

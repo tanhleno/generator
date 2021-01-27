@@ -1,0 +1,1 @@
+program Q : d05 : takes u : boolean array returns integer array chillax end main : N, M : boolean; p7Kaa, p8Za : integer; v_ : integer; do e(not false, - false rem V9oa + not 11 - 46); output - (3) and 3 <= - 99 - 62 . 3 - 64 = 53 . 2 = 2 . 212 end

@@ -1,0 +1,1 @@
+program P : B : takes R, iS : boolean array; x : boolean array; gMPaa, x : integer array; W, FzA : boolean array; d : boolean array; U3 : integer array; I5, k2 : boolean; S1M : boolean returns boolean chillax end L97 : takes SR, X, R, rPP0a : integer array returns nothing let J[- 6] = array 77 end main : Y76 : boolean array; Y : boolean array; Q : integer array; chillax end

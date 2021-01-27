@@ -1,0 +1,1 @@
+program RbA : t2 : takes b : boolean; M : integer; bn : boolean array; Q, p, i6 : integer returns nothing chillax end nP : takes K : integer array returns nothing tg, x17 : boolean; qp : integer array; r : boolean; input _ end qc80a : takes FLj0 : integer; x : integer; d, ML9a, I : integer returns nothing d27, Ri, kK : boolean array; output 72 end main : chillax end

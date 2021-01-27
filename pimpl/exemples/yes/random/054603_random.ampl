@@ -1,0 +1,1 @@
+program e7 : C : takes T : integer array; nur, xU : boolean array; jHaa : integer array returns boolean array let N9 = array - false and 5 or 9960; do IE(42600 >= 3, 07400 = 17) end main : output "\n" . - true and 6 - 891 - 0 end

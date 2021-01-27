@@ -1,0 +1,1 @@
+program lhL : F : takes Q, V, f : boolean returns nothing b : boolean; chillax end main : let S4[not false * 2 rem(4) - not not 0 rem 9 and 7360 + 95 and 70] = array 75 + 9 rem not 40 and 4; while - false and not 7300 - (104) : input xh end end

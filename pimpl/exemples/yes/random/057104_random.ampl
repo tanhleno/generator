@@ -1,0 +1,1 @@
+program H850 : M4k : takes lb0 : integer array; U5 : integer array returns boolean E, M, G, xxF, r6b0 : boolean; Z, c3b : boolean array; chillax end main : pop - false or not 807 or 6; let V = array not qQ end

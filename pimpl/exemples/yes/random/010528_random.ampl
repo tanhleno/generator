@@ -1,0 +1,1 @@
+program t0N : Wj9aa : takes F, s, P : boolean array returns boolean array chillax end main : Yb : integer array; J : boolean array; output - 7 rem 9 and 98 < - not 5 - 7; when case not 26400 and 3 + true and 42 - 3 /= true : let hV30a = 976 end otherwise : input v; let pW1 = 48; input A; pop end end

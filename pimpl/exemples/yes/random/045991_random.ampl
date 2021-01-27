@@ -1,0 +1,1 @@
+program q57 : HF : takes l : boolean returns boolean chillax end main : xY6 : boolean array; u : boolean; _, r, E, I, JY : boolean; let M[- 692 - I[72000] + (86)] = array - e0l[3] rem K(0) or(8) - not 2 and 3 end

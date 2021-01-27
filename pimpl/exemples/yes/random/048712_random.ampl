@@ -1,0 +1,1 @@
+program I77 : U87 : takes t : boolean returns nothing CmH : integer array; chillax end o0 : takes a : integer array returns integer array chillax end main : p3U0a : boolean array; d : integer; let p = not false > - 57 and 0 - 8; pop; pop end

@@ -1,0 +1,1 @@
+program B : x7Q0a : takes z98 : integer returns integer La, X, i6, oY, R : boolean; wus : integer array; chillax end main : when case - NJ[0] < - not not 49 or Iq50 : chillax end case 6 : input Z170a[89300] end end

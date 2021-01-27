@@ -1,0 +1,1 @@
+program l2 : main : ee : integer; when case(2 = 777) rem not true / r and 24 or vF[9] : chillax end case false and(5) and 7 or 3050 and 8 >= v and 43 : chillax end case 5960 and 9 - 35 >= - 7 - 0 : do M66(3) end case - 2 - 6 : chillax end end

@@ -1,0 +1,1 @@
+program Tc : B : takes J4, K : boolean returns nothing Tg, S, iq1, J7 : boolean array; x, r72aa : integer; s8J, y : integer; g, h5y0a : boolean; l : boolean; E : boolean; input X[- 923] end c1 : takes ezp : integer returns integer do r(7 = 5); when case 5 : chillax end case 79 : chillax end case 8 : chillax end otherwise : chillax end end main : chillax end

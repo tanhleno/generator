@@ -1,0 +1,1 @@
+program r2 : M : takes o, X, l8, _5 : boolean array; te_ : integer array returns integer output "\t" end yqUa : takes l : boolean; Q, DK, i : boolean returns nothing output "" . 2 end main : chillax end

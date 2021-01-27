@@ -1,0 +1,1 @@
+program zl : NI : takes i, Zk, l, fe1 : boolean array; bq0, G30 : boolean; p : integer array returns boolean output - 1880 - 333 < 82000; when case - 2 - 9 < 2 : chillax end case 69 : chillax end; while 67 = 2 : chillax end; while 6 : chillax end; do R(944); do D(1) end main : chillax end

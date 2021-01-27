@@ -1,0 +1,1 @@
+program E : F : takes B : boolean array; j, U : boolean array; gyO0a : boolean array; G4, u : integer returns nothing chillax end o : takes f : integer array returns nothing when case - 4 /= 84 : output "w\\" end; input EuV[43] end main : Giuaa, gK, JA60, h : integer; chillax end

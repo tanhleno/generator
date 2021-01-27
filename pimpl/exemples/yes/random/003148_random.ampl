@@ -1,0 +1,1 @@
+program m : T : takes hvP, G, h, B7M0, k0t : integer; D6, J, z46 : integer; pP, i3 : integer; U, Hi : boolean array; L : integer; m, h6C, j : boolean array; bk9 : boolean returns integer let o4[(5)] = 7 >= 47100 end K : takes H : boolean returns nothing P : boolean; C : integer array; E : boolean; chillax end main : IH : integer array; chillax end

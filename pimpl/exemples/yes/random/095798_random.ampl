@@ -1,0 +1,1 @@
+program u : main : when case - false / (5) * oV8 <= true : let m3[- 75] = array 8 end case not _07 / false and 9 : chillax end otherwise : output "" end; while - c1c0[3820] + (6450) = false and 56 + 1 - 97 : chillax end; pop; let u17aa = array - 302 - 9; output ""; input e34a[2]; output "}\n" end

@@ -1,0 +1,1 @@
+program p8 : main : K540, F6 : integer; MI : integer; Y, c : integer; s : integer array; b, FM0, c : boolean array; while 0 and false * false and 71600 + true + false and 92 or 142 - 00 < - false * false and 10600 : chillax end end

@@ -1,0 +1,1 @@
+program vX3 : t : takes Q : integer; e8C, G : boolean array returns nothing chillax end main : when case - (4 = 8) + true rem false and 3 = 0 rem false and 78 : chillax end otherwise : chillax end end

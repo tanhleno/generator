@@ -1,0 +1,1 @@
+program A77a : iF7 : takes H, R3 : integer array; I, V, pL, v : boolean returns boolean array when case not 9 + 278 : chillax end case - 6 - 294 : when case 53 : chillax end; while 2 : chillax end; pop end case 4 = 4 : chillax end case 9 : chillax end end main : hG, a27 : boolean array; chillax end

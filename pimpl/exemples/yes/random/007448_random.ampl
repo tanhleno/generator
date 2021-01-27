@@ -1,0 +1,1 @@
+program c : F8Oa : takes C, F5, S0, Wo : integer array returns boolean chillax end main : let F2[(1 = 55100) and AF70a(31) + false / n9 or 7 and 6 - 2 - 8] = array true * true / p3 or j[8] - false and 60 end

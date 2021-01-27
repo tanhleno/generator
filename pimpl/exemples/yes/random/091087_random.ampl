@@ -1,0 +1,1 @@
+program T : main : let J[- 7 / (91) or false rem true and 900] = array - 1 or false * (16) - not 89 - 54; when case - (3) rem true or(0) and 9 - 39 - 23 = 44800 + 1 : do Gq(5 = 2); while 9 : chillax end end; while 48 and 9 : pop 908; let a = 5 end; pop end

@@ -1,0 +1,1 @@
+program Z : main : W, R1, x, f06 : integer; BB, u : integer; D, g, G, r2 : boolean; do r(- not not(7) rem false and not 2 - (0) >= - true); do O3(true > false); output "\t" . "7"; when case - 5 - 578 : let H1 = 4 end case 7 : chillax end case 02 : pop end end

@@ -1,0 +1,1 @@
+program Xs4aa : xR : takes o : boolean; P, y2h, M, f, suX0a : integer; l : integer array; aw5 : integer returns nothing do A9n(- M + 9490 > 0); let _[- 24] = 8 end hcq : takes H, Ig : boolean; p96, b_ : integer array; c, W : boolean; Y : integer returns integer S, Af, G_6, Y : boolean array; pop 6 end main : chillax end

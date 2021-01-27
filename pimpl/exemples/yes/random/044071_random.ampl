@@ -1,0 +1,1 @@
+program O : k : takes K : boolean array returns nothing V, QW, X : boolean array; chillax end V8_ : takes A : boolean array returns boolean array U, dB1aa : integer array; do wc(30200) end main : U, b9, u : integer array; YB : boolean array; J : integer array; chillax end

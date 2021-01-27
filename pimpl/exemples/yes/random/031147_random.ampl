@@ -1,0 +1,1 @@
+program S : U : takes _Q30a, hk : integer array returns nothing while false > 87 - 1 : chillax end; while - 9 : when case 992 : chillax end; input G; pop end end main : A, t8, Q, A, NW : boolean array; chillax end

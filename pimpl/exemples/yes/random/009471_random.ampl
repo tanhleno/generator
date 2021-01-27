@@ -1,0 +1,1 @@
+program N : S : takes P34, F, g : boolean; hj : integer returns nothing A, I9 : boolean; I : boolean; chillax end main : when case - false * true rem false and 31 > qsS : chillax end case 7 >= (22) and 5 or 6520 - 1 : chillax end case - not 4 and 18 /= 2 : chillax end case 04500 = 69 : while 1 : chillax end end; pop end

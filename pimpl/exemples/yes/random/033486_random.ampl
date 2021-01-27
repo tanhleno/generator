@@ -1,0 +1,1 @@
+program S : k : takes c : boolean; Q, U, r7o0, B : boolean; B : integer array; r6, T, nbp : integer array returns integer output "$00" . 6 = 56; do vgp(0 - 1160); input Fz; when case 15 : pop end otherwise : chillax end; output "OZ"; do Z(5); pop end main : while - false = - not not 1 and(7) - (53) and 00600 or 24 - 2 : chillax end end

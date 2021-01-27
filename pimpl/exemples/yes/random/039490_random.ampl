@@ -1,0 +1,1 @@
+program f1 : f9Z : takes a : boolean array; W : boolean; d, U, T7D, Ix7, e : boolean array returns boolean chillax end h : takes gC9a, YC, ef, g, D7, a : boolean returns boolean input K9Y end main : tf8a, V, TC : integer; chillax end

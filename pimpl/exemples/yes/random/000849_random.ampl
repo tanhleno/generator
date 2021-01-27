@@ -1,0 +1,1 @@
+program tG : IH : takes Wy, QT, _1, D7, N, zES, N3 : integer; t3 : integer; L1, I59, UFm, V14a, s, M : boolean array; N5 : integer array returns nothing zwZ, Y, K, o1 : integer array; chillax end main : chillax end

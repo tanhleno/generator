@@ -1,0 +1,1 @@
+program b : K : takes uV30a : boolean array returns boolean array Z : integer array; xE : boolean; output "7<" . "" . 35 . ""; output 71 = 01 . 27 . 2850; let c[28] = array 109; while 94 : chillax end; let S5 = 20700; pop end main : do A(- false - true = - false * true and 7 + o and 70 - 0); while - not(063) or true : let w = 7 end; input P; let S[- 9 - 6] = 33 = 8 end

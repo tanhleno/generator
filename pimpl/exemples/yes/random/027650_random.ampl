@@ -1,0 +1,1 @@
+program D : N : takes H, e : integer array; R, e : boolean array; bx90, Y : boolean array; c, n : integer; O250a : integer array; M : boolean; RA : boolean; U : boolean returns integer output ""; while - 5 : output "" end; input _jD[350] end IH : takes Z : boolean array; W, V : integer array; h8 : boolean array returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program FF : J : takes K, M : boolean array; Y, H : integer array returns nothing O, uT : integer; pop 88 - 6; let h[- 0] = array - 1 - 5 end main : output ""; do a(- G8[490] and not 436 <= - 02300 and 780 - 454, - true and 6 or 7 - 4); pop end

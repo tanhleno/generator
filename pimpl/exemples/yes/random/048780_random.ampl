@@ -1,0 +1,1 @@
+program q : Ip5 : takes p : boolean returns nothing c : integer array; b : integer; UN, Z, E6 : boolean array; input v81aa; let B = 7; input Y; do q(76, 797) end p95 : takes g, c, N : integer array returns nothing input j[- 5]; while 8840 : chillax end; let X = 4; pop end main : pop not r * 5 end

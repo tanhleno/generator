@@ -1,0 +1,1 @@
+program Em : main : G, fY4 : boolean array; while not not(4) and false rem false and 2 + true and true and 2 - true - 975 : output "?8" end; when case - not false rem b49a and 8 < - gt or 37 - 974 : pop end otherwise : chillax end end

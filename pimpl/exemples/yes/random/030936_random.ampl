@@ -1,0 +1,1 @@
+program SM10a : gdi0a : takes x, d : integer array returns nothing K : integer array; M : boolean array; V, X, x : integer array; J : boolean; nz9 : boolean; j : boolean; chillax end K : takes Y, x2_0, j : integer; H, D : boolean; h, rg, hv : boolean returns boolean chillax end main : chillax end

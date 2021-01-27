@@ -1,0 +1,1 @@
+program IK40a : Og80a : takes y, Ri, x : boolean returns nothing chillax end F : takes TRo0 : integer; go, QcQ : boolean returns nothing while 47 - 7240 <= 5 : chillax end end h : takes F, v_ : boolean returns integer i, j : boolean array; O5j : boolean; a : boolean; chillax end main : pop; do x(- false, - 4 and 3) end

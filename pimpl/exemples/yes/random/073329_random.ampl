@@ -1,0 +1,1 @@
+program Di : main : l, u : boolean; c, PR, YwC0a, R, V7p, t : integer; let eT[not 7680 and true + false rem true] = - not false * not 9; when case Q6(7) <= - a - 36 - 865 : output "3\"!a" end; let X7S = array(248) + 0 - 45; let mZ = 1 = 2 end

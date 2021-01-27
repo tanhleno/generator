@@ -1,0 +1,1 @@
+program x9b : main : l : integer; Y, x0, ODA0a, p, V, a : boolean; Y78, _, u : boolean; f : boolean; input d[true * (75) * true + not A / 6 + 6 or 213]; while not(327) + L /= - 6 : chillax end; input c02; when case 6 > 4370 : chillax end case 6 : input L2N end otherwise : chillax end end

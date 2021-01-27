@@ -1,0 +1,1 @@
+program e : PI6 : takes v5, J8, L : integer returns boolean array chillax end main : Xv : integer array; wZ, N : integer array; lm, B6, y, YA : integer array; Z0, k8ra : boolean array; pop - true > true end

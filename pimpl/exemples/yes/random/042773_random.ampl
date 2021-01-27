@@ -1,0 +1,1 @@
+program b7 : AV : takes O : boolean array returns integer array V : integer array; z : boolean array; input N1[- true and 7 + 5]; while 1 - 5 : chillax end; do p(0130 = 332); when case 6 : pop end; pop end main : chillax end

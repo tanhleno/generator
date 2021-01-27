@@ -1,0 +1,1 @@
+program J : U340a : takes o : integer array returns nothing while - not 6 - 707 < 92 : chillax end end C : takes z9 : boolean array returns nothing tm : boolean; input M[29 - 5] end main : chillax end

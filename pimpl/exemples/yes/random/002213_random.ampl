@@ -1,0 +1,1 @@
+program l : r7 : takes te7, jF7, _, e, G : boolean; q290a, c : integer array; Y, m4, V8 : boolean; Z, c, I : boolean returns boolean l, g, o : boolean; chillax end main : b82aa, i8, v, a2i, p8 : boolean array; j, w : integer array; _, l, P, w6W : boolean; C6, IePa : boolean; pop; do S9R((145) and false and 35 or false - 6 - 00, A - 9); input G8Z end

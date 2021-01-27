@@ -1,0 +1,1 @@
+program U3 : main : input WAf[- false / (3) and(88) + j / true]; when case Z * (7) - 838 + 6 : let x2 = array 86; output "\t" end; while - 27 + 3 > - 42 : input qs40a[1]; while 65 : chillax end; pop; pop end; while - 55 - 363 < 86 : chillax end; do ji(3, 67) end

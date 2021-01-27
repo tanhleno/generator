@@ -1,0 +1,1 @@
+program u : b : takes F470a, XI40a : integer array; I : integer array; Z : boolean; p, X, jQ, yi7, f : boolean; I : boolean array returns nothing let fTAaa[(6) or 4] = - 16 >= 5; pop end main : when case 13 rem(7) - s16aa[97] /= false and true : chillax end otherwise : chillax end; pop end

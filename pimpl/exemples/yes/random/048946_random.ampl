@@ -1,0 +1,1 @@
+program BY0 : Ih : takes T : boolean returns nothing let M[- not 583 - 5] = 9 <= 1; while - 8960 - 60 >= 0 : chillax end; while 0 : let l = 6; pop end; output 09 . "g"; let M = 86 end main : XY : boolean array; Q9 : integer; C67 : boolean; t, O : integer array; L : boolean; X63, L : boolean; chillax end

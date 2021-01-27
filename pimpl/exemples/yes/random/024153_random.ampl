@@ -1,0 +1,1 @@
+program S : k67 : takes I, E : boolean returns nothing t_, s, rR, a, iG : integer; chillax end main : while - not not not 9 * not true / 68900 and 5 - z : input A[- 5]; when case 9 = 0 : while 91 : chillax end end otherwise : pop end; do F5h(0, 5); input K; while 4720 : chillax end; pop end; output false and 40 < - 70 end

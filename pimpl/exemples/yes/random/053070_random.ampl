@@ -1,0 +1,1 @@
+program P : aN50a : takes J_G : integer; h2 : integer array returns nothing input H end main : when case - false : chillax end case - S(28700) or(8570) <= true and 4 : let W2 = array 07 end otherwise : chillax end; do X(- 959 / 3 and 12 - 1 + 7); let Wk4[not 084 and 6] = 0 = 990 end

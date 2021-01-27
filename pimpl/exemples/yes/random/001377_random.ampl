@@ -1,0 +1,1 @@
+program o : _gM : takes p, n9, N, c, H14a, X : boolean array returns boolean output - 0 - 0 = 51 . 1; do S(0 - 4010 < 9); input y end O7 : takes C : integer returns integer input W0; input W3 end main : chillax end

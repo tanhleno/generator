@@ -1,0 +1,1 @@
+program DKy : Z9D0a : takes o, U6N, V, n : integer array; C, I6K, V5, D, Uwp : integer returns nothing pop end Lt : takes A, jw, K : integer; d9naa, r : integer returns nothing input k0 end main : chillax end

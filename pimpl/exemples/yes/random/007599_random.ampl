@@ -1,0 +1,1 @@
+program K : ZC1 : takes _G, k, l, p : integer array returns integer do Iz9(- w74aa and 34 - 0 - 43 < - 30, 87 - 64, 8 = 5, 2); while - 38 < 9 : do d(16); input Ev9aa; pop end; pop 01; do F(42, 3); input U; output "\""; pop end main : E : integer array; chillax end

@@ -1,0 +1,1 @@
+program A : D9 : takes Z : boolean returns nothing chillax end G : takes l2o : boolean returns integer array g55a, k : boolean; Ap4, R9 : boolean; c, _ : boolean; ez : boolean; while 4 - 1 : chillax end; output 69 end main : while 8 + B[8] / 76 and 2 + 663 : chillax end; when case - false and 6 and 38 = true or 8 - 13 : chillax end end

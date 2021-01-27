@@ -1,0 +1,1 @@
+program W : h : takes u, d, u, ti, c, h, V8Ra, qR : integer; SXVa, Am, bP, L : boolean returns boolean array pop end l : takes o1, Q3, W63aa, AtP : integer array returns nothing n : boolean; let da = array - 36 - 39; input j9[0]; while 27 : chillax end; while 39900 : chillax end; input s07 end main : ECea : boolean array; l, B, T : integer array; input J end

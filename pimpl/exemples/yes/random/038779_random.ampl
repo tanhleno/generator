@@ -1,0 +1,1 @@
+program y : RT3 : takes A : boolean array; hQa, K : boolean array returns integer input n2j0a; input q; output 772 end u8y0a : takes k13, E1 : integer; l : boolean array returns boolean chillax end main : do XI(- Fj and not m and true and 01 + c_(48) and w and 7 - not 097 and 7210, - 4 and 6 >= - not 0 and 94200 + 304, true and 39 + 0590 - 97 > 76) end

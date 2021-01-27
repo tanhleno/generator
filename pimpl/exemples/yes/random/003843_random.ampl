@@ -1,0 +1,1 @@
+program Fs : Pd1 : takes Li, sw2, x7, Z, z : integer array returns nothing q, W5j, Q : boolean; v : boolean array; T0P : boolean; when case - not 0 and 16 : chillax end case - 378 - 40 = 2 : chillax end otherwise : chillax end; when case 2 : do A(0); let u = 193; pop end end main : _81 : integer array; chillax end

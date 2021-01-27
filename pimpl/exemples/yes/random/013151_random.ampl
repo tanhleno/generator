@@ -1,0 +1,1 @@
+program c : i3 : takes t, z, c : integer; ph : boolean array; D, l, cne0 : integer array returns nothing chillax end main : lI : boolean; l : integer; p, Z, kq20a : boolean array; W, E, i2Q : boolean array; let PWC = array 9 end

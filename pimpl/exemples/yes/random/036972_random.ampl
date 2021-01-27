@@ -1,0 +1,1 @@
+program bi10a : p9 : takes b1 : boolean; g2X : integer array returns integer array chillax end mo : takes iz : boolean array returns nothing chillax end kc : takes Kqq, J : boolean returns nothing chillax end main : U_ : integer array; dW, Y57aa, O : integer array; chillax end

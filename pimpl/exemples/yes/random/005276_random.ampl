@@ -1,0 +1,1 @@
+program a : s : takes m, V, G, g : boolean array returns boolean array r, yRi : integer array; G, A, A4, Q460 : boolean array; k, h : boolean; q, K : boolean; L : boolean; chillax end main : yqq, R : integer; FT : integer; output "Cv" . "3D" . "9" . 3830 = 3 end

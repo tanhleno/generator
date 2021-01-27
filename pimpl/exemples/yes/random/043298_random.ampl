@@ -1,0 +1,1 @@
+program T : V88 : takes H2 : boolean array returns integer let KmOaa = array - true and 51 end h : takes N8, tn : integer array; Q : boolean array returns nothing chillax end main : u : integer array; wb7, jji0, o : integer array; chillax end

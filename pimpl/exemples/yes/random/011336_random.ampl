@@ -1,0 +1,1 @@
+program y : w9L : takes U81, z5o, t4va : boolean array returns nothing v : boolean array; mI, To5a, m, U7 : integer array; chillax end F : takes Q : integer array returns integer array XL : boolean; n3j : integer array; chillax end Qh : takes S3, M : integer array returns nothing A : integer; let o[5] = array 733; output "R8\"a" end main : NO : integer; chillax end

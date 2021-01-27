@@ -1,0 +1,1 @@
+program HQ0aa : X : takes LP : integer; S, M7 : boolean returns nothing chillax end X1Pa : takes T, G2, P : boolean returns nothing a, rq, z : boolean; fu : boolean; u35, tq8 : boolean; r : boolean; chillax end main : h : boolean; while 1 or 21900 : chillax end; do c5(true <= - y and 1) end

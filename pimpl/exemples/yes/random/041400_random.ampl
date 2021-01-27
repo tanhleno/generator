@@ -1,0 +1,1 @@
+program F : n : takes yk : boolean array; T060a : integer returns nothing s : integer array; fN9, x, J51 : boolean array; EQ : boolean array; chillax end nF : takes K7 : integer; c0, C, ua8aa : integer; Fy, XU : integer returns nothing f : integer; v : boolean array; do B(0 = 3) end main : w, O, G : integer array; input zXI0a[19]; pop d and 878 < - 2 - 16 end

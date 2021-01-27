@@ -1,0 +1,1 @@
+program A : S4 : takes zW00a : boolean; F27a : integer returns nothing L : boolean; i, b, B, L : boolean array; pop - 3 - 9; do g(6090) end F86 : takes c : boolean returns integer pop 62 = 240 end main : mz1 : boolean array; chillax end

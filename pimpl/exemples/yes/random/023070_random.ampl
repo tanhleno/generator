@@ -1,0 +1,1 @@
+program T : e : takes h, t : boolean returns boolean array output 07400 - 44 . ""; do v(- 2) end n : takes K5 : integer returns nothing when case 2 - 73 <= 4 : when case 2 : chillax end; while 72100 : chillax end end case 6 = 77 : chillax end otherwise : chillax end end main : pop - 69 end

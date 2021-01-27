@@ -1,0 +1,1 @@
+program o2r : main : Z0 : boolean; input F[DB(96200, 51)]; when case - not 63 rem 5 and 2980 /= l : let C = array 7; let Hg[9] = array 3; output "1"; while 40 : chillax end; pop end otherwise : chillax end end

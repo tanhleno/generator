@@ -1,0 +1,1 @@
+program g5N : r : takes J : integer array; KS, OB6 : boolean array; f : boolean returns nothing f, Bd, dV5aa, eD3 : integer; chillax end main : when case - Y[7] and(35) + (832) / WW2 : chillax end otherwise : chillax end end

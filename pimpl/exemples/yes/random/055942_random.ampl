@@ -1,0 +1,1 @@
+program x : G : takes HT : integer array; c : boolean array; q2H : integer array returns boolean array chillax end main : q0 : integer; snk : boolean; rKq : boolean; T4 : boolean; FUu : integer; do Jy(- 9470 or not 2 + false and 39) end

@@ -1,0 +1,1 @@
+program S880 : sx : takes r, i8 : boolean; kj6 : boolean array; cz : integer returns integer array h : integer; u, oW, f : boolean; K, Ln, i5 : integer array; do G(- x and 64600 = 12, 4 - 5 = 9, 7 = 4, 1, 590); input y; pop end main : rL : integer; J37, k, xp : integer array; pop U <= - not 9 and 66500 end

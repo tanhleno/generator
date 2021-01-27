@@ -1,0 +1,1 @@
+program o : h5S : takes ZL : boolean array returns nothing pop 3 > 99 end main : R, u, K, X, c2 : integer array; sbu : integer array; output false and not 33 and 92 - ki and 9 <= (882) and 9 . "" end

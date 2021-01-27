@@ -1,0 +1,1 @@
+program G : Z6q0 : takes O, q, M0, cQY : integer array returns nothing let t5[13 and 9] = array 87 and 3; do eI9(- 18600 - 47, 747, 6) end main : E : integer array; y, d, o3Jaa : integer array; chillax end

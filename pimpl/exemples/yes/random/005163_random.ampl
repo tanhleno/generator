@@ -1,0 +1,1 @@
+program i : kB : takes I, j, j, U : boolean array; l : integer array; _86aa, C6n, u : integer array returns nothing chillax end main : a8 : boolean; QA7, t6, h, Q : boolean array; output ""; while - (0) : input RE[2] end end

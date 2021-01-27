@@ -1,0 +1,1 @@
+program oGc0a : U3 : takes l, ua : integer array; c24 : integer returns integer chillax end main : while - true <= - false : output "" end; when case(6580) - true <= not 32 : chillax end; when case - S and 99700 - 33 : chillax end case 3 <= 70 : output ""; let r = 8 end end

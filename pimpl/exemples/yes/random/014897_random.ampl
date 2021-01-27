@@ -1,0 +1,1 @@
+program i2 : D5 : takes F, g, j : integer array returns integer array chillax end Pz : takes B : integer; fa, W : integer array returns boolean input O; let n0S = 7; when case 115 : pop end otherwise : chillax end; output "" end main : chillax end

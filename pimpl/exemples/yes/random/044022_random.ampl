@@ -1,0 +1,1 @@
+program dz : Zpv : takes O : boolean array returns nothing J60aa, gy, J, OWj0 : integer; i : integer array; x280a : integer array; x, W70aa : boolean; chillax end fp : takes i16 : integer array; TM : boolean returns nothing _B, K : integer; HD : integer array; input z; input x7u; when case 1 : pop end; while 7 : chillax end end main : K89 : boolean array; chillax end

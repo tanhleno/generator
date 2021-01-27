@@ -1,0 +1,1 @@
+program mdQ : pB3 : takes h : boolean; i, x8, xf : boolean array returns nothing Hxj, N : boolean array; chillax end AK : takes Cu, o7 : boolean; p9pa, y : integer array returns boolean array do xV90a(- 10000 - 62 < 778, 4 = 5) end main : Ed70a : integer; CL8aa, p : integer array; u : integer; chillax end

@@ -1,0 +1,1 @@
+program xML : j : takes R, W4 : boolean returns boolean array I : integer array; s, f, P, n : integer; w, S : boolean; chillax end y960 : takes c, D : boolean array; r : boolean array; kka : integer returns boolean output "" end main : T, j, iI, X, ut : boolean; output - not true . ""; while(51) = (2) and 4 : chillax end end

@@ -1,0 +1,1 @@
+program TN : main : v, o2 : boolean array; output - R[6] or(0) and 49 or 0 - 0910 <= (1) and 97; when case(7) and not 1 : chillax end case - not 04100 and 10 + 1 >= - 4 - 20 : chillax end case - 06 : pop; output "u" end case 0 : input k end end

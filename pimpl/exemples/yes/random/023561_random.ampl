@@ -1,0 +1,1 @@
+program h : w3j0 : takes d0S, f : boolean returns integer array o7 : integer array; i, Fk, kxQaa : integer; do X((7) and 797 < 4, - 1 - 25 = 6) end main : input C2Ya[- e7[8] rem(3)]; do N(true - false or 4560 - 9480 >= - cZC and 1); input v2[- Q and 34 or 93] end

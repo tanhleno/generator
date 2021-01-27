@@ -1,0 +1,1 @@
+program Xh : Wj : takes lfAa : integer array returns integer Z : boolean; I : integer array; Y, ayq0 : integer; g2, ps : boolean; output - 12 - 3 <= 5; input I[0] end main : k : integer array; pop; input c3 end

@@ -1,0 +1,1 @@
+program z : Hq : takes f : boolean array returns integer array pop; pop; while 252 = 9 : chillax end; let h[0] = 52100 end _ : takes Grba : integer array returns boolean array t5W : integer array; k0, ZF : boolean array; chillax end main : chillax end

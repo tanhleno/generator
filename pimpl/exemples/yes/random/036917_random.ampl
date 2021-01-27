@@ -1,0 +1,1 @@
+program A : lr8 : takes L : boolean; H6 : integer array returns boolean array E, C, U : integer; m, p, p, QNb : integer array; LQ : boolean; H : boolean; w2 : boolean; output "" . 6 = 0 . ""; do w070a(3 - 25, 2, 8) end main : chillax end

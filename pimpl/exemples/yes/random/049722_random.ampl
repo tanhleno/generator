@@ -1,0 +1,1 @@
+program Q8 : F : takes Dy : integer; _bP, N8, f, V : integer array returns nothing output - 10 end main : Z820a : integer; input U[- not(7) or(20) / X8 and 4 - true and 711]; while - i - false and 0 or 1 = false + 925 : output "\n\t"; pop 57400; while 5 : chillax end end end

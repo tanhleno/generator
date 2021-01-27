@@ -1,0 +1,1 @@
+program B : X0 : takes m2 : integer returns nothing pop end S : takes UT, B : boolean; J : boolean array returns integer do FDW(- 2, 02 = 35, 165, 2) end S : takes iV3, Y, ES3 : integer returns boolean chillax end b : takes v : boolean array returns boolean Oh, W : boolean; chillax end main : VX, L6 : boolean; input Q; while - not 17 < WU - 8 - 95 : do Rm(18 = 8) end end

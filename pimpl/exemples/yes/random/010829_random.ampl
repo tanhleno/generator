@@ -1,0 +1,1 @@
+program kN5a : v52 : takes L43, k, z7 : boolean array returns integer array m, CU : boolean; output - 529; pop end e4 : takes xM8, D : integer returns integer array Y, pn : boolean; chillax end main : chillax end

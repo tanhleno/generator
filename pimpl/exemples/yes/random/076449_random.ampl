@@ -1,0 +1,1 @@
+program j8p : main : U, N06aa : integer; Zd : integer; _8 : boolean array; d, y, E, l2 : boolean; M : boolean; I, n : boolean; let L = array - d9 - 9 - (094) or 23600 - 02; while VV[5410] and true + (0) + 6 > false : chillax end end

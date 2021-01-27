@@ -1,0 +1,1 @@
+program SS : W : takes m, XL : boolean array; W, A3, qAl, A66 : integer array; h, dAHa : integer; r : boolean; TZ, n62 : boolean array returns integer do p(- M1paa and 98 = - 8, 0 - 7, 5, 80300, 1) end main : input oN end

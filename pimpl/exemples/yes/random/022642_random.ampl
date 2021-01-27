@@ -1,0 +1,1 @@
+program q5Va : l : takes h9, w : boolean array returns nothing input A[W - 06 - 45] end c : takes EC, yF : boolean; N7 : boolean array returns boolean array k, z : boolean; UT, BP : integer; chillax end G : takes A, Ys1 : boolean array; x : boolean array; UK4aa, j, Vg7, A450a : integer array; N6 : boolean returns nothing pop 7 end main : chillax end

@@ -1,0 +1,1 @@
+program eNGaa : m24a : takes s01a, kfl, bk8, k : integer; G : integer returns integer c, bp6, j3 : boolean array; chillax end Ta : takes e810a : integer array; rL : integer; u : boolean array; M : boolean array returns nothing output "" end main : do H(- 107 / a(2) rem false and 5, not 677 or false, - (03) /= 2 - 824, 801 - 3); let f = 8 and 0 or 8 - 8 end

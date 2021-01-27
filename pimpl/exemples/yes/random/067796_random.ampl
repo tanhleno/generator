@@ -1,0 +1,1 @@
+program J : main : do Kw(true, not false * not 9040 and 7 = - not 3); input J[true * k or 4 or 671 - 7]; when case - false /= 34 - 96200 : chillax end case - 16 - 75 > 950 : do hyJ(66) end case 9 = 379 : when case 9 : chillax end; pop end otherwise : chillax end end

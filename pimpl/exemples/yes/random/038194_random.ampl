@@ -1,0 +1,1 @@
+program a : ON : takes O270 : boolean array; _, H, yWy : boolean returns nothing when case(8) and 9 + 9 = - 8 : pop end case 2 = 4 : chillax end otherwise : while 98700 : chillax end end end main : while Eg rem true > 16 : output 5 = 39900; let E6[2] = 2 end end

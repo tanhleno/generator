@@ -1,0 +1,1 @@
+program KS : X : takes r, p7, N : integer returns integer array b : boolean array; do nM0aa(false = 09) end main : input c[not(99)]; when case - true + 966 and 45 : chillax end case - 10 and 82 or 757 /= 41 : chillax end case - 588 - 3 : while 414 : chillax end end case 31 = 4150 : chillax end case 30400 : pop end otherwise : chillax end; input P end

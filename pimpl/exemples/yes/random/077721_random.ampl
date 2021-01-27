@@ -1,0 +1,1 @@
+program D : main : c, o : integer array; L0t : integer; when case false rem false / z = 2 rem(03300) and 1 - true or 7 : while 093 : chillax end; input Tr[1] end case - false * true and 22 /= false and 20 - 1 : chillax end case - qW - 5 - 5 >= - 8 - 36 : chillax end end

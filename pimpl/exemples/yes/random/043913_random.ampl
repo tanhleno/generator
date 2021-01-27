@@ -1,0 +1,1 @@
+program j : xuP : takes wWaa : boolean array returns nothing e, A2Waa, j, nB, e : boolean; L, P16aa, bf : boolean array; y : integer array; P, ua4 : boolean; input q0[Z40a - 99]; input R end main : while - false / (7) rem(7) - false / false + Yp30a - 324 : chillax end end

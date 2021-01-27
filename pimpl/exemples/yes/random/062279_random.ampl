@@ -1,0 +1,1 @@
+program s : B : takes o : integer returns boolean chillax end main : uk4 : integer array; when case 9 / not p rem 2 + true * false or false and 2 + 9 - 606 : chillax end otherwise : while 3 : chillax end end end

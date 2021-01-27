@@ -1,0 +1,1 @@
+program L : u : takes v : boolean returns nothing when case f4B and 94 or 8270 - 7810 = 79 : let F[057] = 4400; while 8 : chillax end; input c; pop end end main : r, I4_0 : boolean array; S3 : integer array; P : integer; i : integer; while - Rh4[498] * false or true : chillax end end

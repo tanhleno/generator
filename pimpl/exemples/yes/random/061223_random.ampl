@@ -1,0 +1,1 @@
+program o : b : takes W : integer array returns nothing input P2; while 7 - 2 : pop; when case 6 : chillax end; pop end; input r[3]; let j = 1 end main : oW, L21 : integer; a, C, C : boolean; chillax end

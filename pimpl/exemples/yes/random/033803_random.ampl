@@ -1,0 +1,1 @@
+program v54 : u57a : takes B : boolean; jT40, Z0, y : boolean array; mo, j, t : integer returns nothing j : integer array; chillax end y : takes s : integer returns nothing when case - 89 - 7 : chillax end case 781 : when case 31 : chillax end; pop end case 656 : chillax end; do a2t(3 = 97600) end main : NN : integer array; t : boolean array; chillax end

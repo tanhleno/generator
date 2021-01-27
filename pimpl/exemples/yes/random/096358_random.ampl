@@ -1,0 +1,1 @@
+program eN00a : main : when case - 5 * not M * 91100 - not not 4 /= not 6 and j and 4 : chillax end otherwise : do o(53 = 9) end; while - 08 : let q270[0] = array 4; while 6 : chillax end end; do f(P2 and 699 - 49 = - 9 - 16, 9 >= 54, 103); input N9 end

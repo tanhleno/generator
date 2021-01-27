@@ -1,0 +1,1 @@
+program Tk : K4 : takes Q : integer array returns nothing while Q + 289 : chillax end end O0 : takes WZ, rq30, t, D, g, z9, y : boolean; Y : boolean; N : integer; UAd : boolean; H : integer array returns integer output "" . 6 . 8 end main : pop - 6 <= - R and 9 + 7; pop - false and 0 or 5 - 570 < 16 end

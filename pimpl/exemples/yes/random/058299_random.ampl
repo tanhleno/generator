@@ -1,0 +1,1 @@
+program I9 : Ki : takes p82a : integer array returns boolean Zo1, Y4 : integer array; when case - true and 8 - 468 - 7 : chillax end case - 1 : output "" end case 7 : chillax end; output 857; let v23[6] = 327; let x_ = 59 end main : chillax end

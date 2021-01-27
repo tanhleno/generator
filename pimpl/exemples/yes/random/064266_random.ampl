@@ -1,0 +1,1 @@
+program d2 : V : takes BW : integer returns nothing O, e, Ux, w : integer array; W, H, T, F0M : integer; M, u6, O : boolean; p, d : boolean; output "\":" end Y3 : takes ru, I : integer returns integer array J, H95, d : boolean array; chillax end main : when case - false < true : let yqi0[0] = 3; output ""; output "" . "Z"; while 01 : chillax end end end

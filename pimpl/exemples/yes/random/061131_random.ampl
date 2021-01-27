@@ -1,0 +1,1 @@
+program d150a : e : takes m60 : integer array returns nothing C9 : integer array; g4, k9o0 : integer; o : integer; chillax end QI : takes _5, Q, c : boolean array returns integer chillax end LI : takes W, P8 : integer; x : boolean; jV, l : integer array returns nothing output ""; pop end main : R2 : integer; chillax end

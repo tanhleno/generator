@@ -1,0 +1,1 @@
+program c : t : takes k : boolean array; ZXb0a : integer; y : boolean array returns boolean array pw, V, n : boolean array; chillax end main : C, A6, _11 : boolean; Y2k0a : boolean; oV4, h, i : integer; HdP0a : integer; k : boolean array; input r; pop not 2 and 7; input Q end

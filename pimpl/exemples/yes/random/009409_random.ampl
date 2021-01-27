@@ -1,0 +1,1 @@
+program A : fPw0 : takes b, M35, EZH0 : boolean; Vr : integer array returns nothing output "+9a" . 165 = 75400 . "" end main : VO9 : integer; do L(- (3760) >= - not true + G and 50 + 06 - 8, - not not 11 * not 10 = - 57); do U8(true < - (5) or 92 - 6) end

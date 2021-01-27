@@ -1,0 +1,1 @@
+program U8 : u11 : takes Y, w5, u, w : integer returns nothing let L = 5920; let I = array - 22 end main : eg, s0B0a, M : boolean array; D, t4, l : integer array; Mh : boolean array; s : boolean array; Y : boolean array; pop - 44 end

@@ -1,0 +1,1 @@
+program b : acQaa : takes Zu, r, OEn0 : boolean array returns nothing input oTx[- true + 35 - 7]; pop end p3f : takes NDt0a : integer returns nothing input l[6] end main : z, C, I, P : integer array; let f[- Me7[56] - I(1) rem(3) and 939] = true < - 3; while true : output "[]a" . "" end end

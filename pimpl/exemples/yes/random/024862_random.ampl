@@ -1,0 +1,1 @@
+program V : Qb : takes h, MfUaa : boolean returns nothing while - false and 5 or 429 - 5 >= - 8 : chillax end; do E(- 23000 >= 00); while 3150 = 40 : when case 945 : chillax end; pop end; input Xx; when case 1 : chillax end; while 9610 : chillax end end main : Z3, zpd0, E, Lq2a, v : integer; chillax end

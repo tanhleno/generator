@@ -1,0 +1,1 @@
+program A2u : main : p, o : integer array; output - true / not 4430 + true - 35 - 44; let L = array - false and(80) and 1 + 5 and 66900 + 8; output "|<"; when case 18 - 282 : chillax end otherwise : chillax end end

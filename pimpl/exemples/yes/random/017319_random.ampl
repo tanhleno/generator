@@ -1,0 +1,1 @@
+program ng : m2m : takes E, mH : boolean; Z7, I : boolean returns integer C, S, D : boolean array; n7Xa, M6g0a : integer array; pop 3320 end QUvaa : takes b : integer array returns nothing input O[719]; input KJYaa[14]; do i(20) end main : g, I05, F, K : integer; k, psy : boolean; d : integer; pop; pop end

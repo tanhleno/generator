@@ -1,0 +1,1 @@
+program P_ : i1G0 : takes J : boolean returns nothing do A2P(- 8 - 079 - 71, 8860 >= 3, 99); input C[2] end lz : takes R : boolean array returns integer B0, V, k : boolean array; chillax end A : takes G : boolean array returns nothing do W(43); let wkTa = 3 end main : Tc, g1 : integer array; O : boolean; input he[- 7 or false * (162) and 31] end

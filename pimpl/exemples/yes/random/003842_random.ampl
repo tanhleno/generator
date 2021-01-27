@@ -1,0 +1,1 @@
+program g : r : takes C, f9E, aUdaa, r, e0S0 : integer array returns nothing Q, cz, fi : boolean; x, lUL : integer; bJ : boolean array; S3Va : boolean; v : boolean; chillax end main : do H(kkk and true, - iW[0], not 2 - 539 - 8) end

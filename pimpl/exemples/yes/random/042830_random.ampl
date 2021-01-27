@@ -1,0 +1,1 @@
+program I : w : takes F : boolean array returns integer array output 89 > 0; let h[6] = array - 6 - 5; let i[075] = array 6 end main : o : boolean array; K0, P, aD : integer array; output ""; pop - (7) and 9 or 5 - 7 >= - 49 end

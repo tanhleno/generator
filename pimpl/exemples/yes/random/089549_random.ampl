@@ -1,0 +1,1 @@
+program g85 : main : let YP = - s - false + 9 > (03) and 11000 + 8 - 0; when case false / true and 0 >= not 4 and 9 : while 1060 = 8 : chillax end end case - q06 and 67 : pop end case - 4 - 2 : output "" end case 2040 = 8 : output ""; pop end end

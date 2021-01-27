@@ -1,0 +1,1 @@
+program H : v7 : takes BPr, X39 : integer array returns boolean when case not 714 >= - 9 : chillax end case - 1 : chillax end case 52500 : chillax end end main : while - 4 and not(7) and O < - 92 : let IC[87 - 7] = array 36; output "1+"; input V[6] end end

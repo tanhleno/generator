@@ -1,0 +1,1 @@
+program M : e2i0 : takes n6 : integer array returns boolean H, d1, x : boolean; while ZSxa and 23 - 1 = - 1 - 6 : chillax end; output 07 = 0 end main : W : integer array; xF90a, _9b0 : integer array; x, cJ, Ig : boolean array; l0Ka : boolean; input x; input pG; while 1 : pop 6; input a end; output "\n[aa" . "" end

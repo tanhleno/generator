@@ -1,0 +1,1 @@
+program B : T : takes A : boolean; FZ3, HM, B9 : boolean array returns nothing c, f : boolean array; X0l, E, t, u : integer; do J2(- 3 and 8650, - 1 - 56) end main : FCI, C, h, Q5j, ws : boolean array; U, NN, rG, t : boolean; I0 : integer array; M0, C : integer; N : integer; I : boolean; chillax end

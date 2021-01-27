@@ -1,0 +1,1 @@
+program XUl : A : takes m5 : integer array; f, j : integer returns nothing o : boolean array; chillax end N : takes j9, C, H : integer array returns integer when case 9 : chillax end case 52 : chillax end case 2 : pop end end a : takes FET0 : integer array returns nothing chillax end main : chillax end

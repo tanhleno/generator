@@ -1,0 +1,1 @@
+program Z6 : G : takes a, ii7aa : integer returns boolean chillax end X : takes j : boolean array; f : integer array returns nothing let vp[- 0 - 757] = array 38 end main : oN : boolean; X, AZ, e, I, o9, w : boolean array; chillax end

@@ -1,0 +1,1 @@
+program n : X : takes c0, Nii : integer; u, J : boolean returns nothing let j5 = - 7 end main : when case - 5 rem true * true and 2 > false + true and 55 : chillax end case(549) / true and 6 + 007 + 99100 <= 5 + 56 - 4 : chillax end otherwise : output "}\"!a" end; when case - false rem 13800 and 699 : chillax end end

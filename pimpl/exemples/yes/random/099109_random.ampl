@@ -1,0 +1,1 @@
+program jB2 : main : while false / Dz[67100] rem true + true >= - not ld : chillax end; let q = array 2720 / v and 9; let n = array - not 2 or 6; input nJ[7 - 88]; while 6 = 1 : while 677 : chillax end; pop end end

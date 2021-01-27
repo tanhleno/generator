@@ -1,0 +1,1 @@
+program T : main : R : boolean array; sv70a, L : integer array; B36 : boolean array; J6, t, d, oJ3aa : integer; when case true * (8470) rem(7) and 99 or true < not 345 and(039) : while - 0 - 9 : chillax end; while 9780 = 8 : pop; pop end; while 61 : chillax end; output "5" end otherwise : chillax end end

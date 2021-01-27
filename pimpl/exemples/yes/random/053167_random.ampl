@@ -1,0 +1,1 @@
+program h0 : x0ha : takes d : integer; i : integer returns boolean pop - 50 end main : N, B : integer; when case 6 and(4) rem(32) and 7 > - false : chillax end otherwise : when case 1 : do j(8) end case 04 : chillax end case 1 : chillax end; output "" . "{\\aa"; input Q; while 6 : chillax end end end

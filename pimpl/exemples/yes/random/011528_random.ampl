@@ -1,0 +1,1 @@
+program D : ou3a : takes Q, _, U : boolean array returns nothing while - true : when case 26 : chillax end case 14 : chillax end otherwise : chillax end end; let LF00 = 9 = 2 end main : let iE[7 + (1) or(64300)] = array - 2 - (534) or true and 6 + 01; while - not 03300 = true and 7 : while 83 : when case 969 : chillax end end; output "" end end

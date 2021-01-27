@@ -1,0 +1,1 @@
+program s : R : takes I : integer; l4, EK : boolean array returns nothing input S9[4 and 210] end w : takes Un4a : boolean array returns boolean array chillax end B : takes n : boolean array; S1, JDra : boolean array; m : integer array; P : integer; h, o0C0a : boolean; y85 : boolean; Z : boolean returns nothing chillax end main : chillax end

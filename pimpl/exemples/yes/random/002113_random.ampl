@@ -1,0 +1,1 @@
+program L : FiS : takes l5E, U2, v, g, vr0 : boolean; oR, H, l7, z : boolean; q, x, c, L40, l : boolean array returns nothing d, _0Q : boolean; fm, qj, pg00 : integer array; chillax end main : chillax end

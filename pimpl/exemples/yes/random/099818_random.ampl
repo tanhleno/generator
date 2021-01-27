@@ -1,0 +1,1 @@
+program QK80a : main : while true * j and 963 - true / 4 and 5 + true and 3 or 00 : while - 0 > 1 : when case 4 : chillax end; input J9m; pop end; input o3 end; when case false rem not 4 /= - 3 or 9 : chillax end case - true < 80 - 8970 : input y[2] end; input m[3 - 0540 - 558]; let ja[- 31 - 9] = 68 = 043; while 3800 = 5 : output "" end; output "" end

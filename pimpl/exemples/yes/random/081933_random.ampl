@@ -1,0 +1,1 @@
+program p5 : main : rEh : boolean array; J23 : integer; Z3B : boolean array; do _87a(true or Z(28) * 9, false - not 8 and 4 <= - (80) and 3 + 999, - false and 70800 - 4); output not 14100 and 51 or 0 > - 1 - 11 . - 00 - 5 < 7 . "19"; when case 5 + 85800 : chillax end otherwise : chillax end; output ""; do q3(26, 4) end

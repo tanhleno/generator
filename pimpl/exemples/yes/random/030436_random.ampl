@@ -1,0 +1,1 @@
+program KH : om : takes g5, n : integer array returns nothing do T(2 and 73); output "" end main : W : boolean array; S770a, TwD0a : integer; WG : boolean array; h, A : integer; let D1 = array true / 3800 end

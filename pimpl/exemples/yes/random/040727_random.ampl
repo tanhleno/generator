@@ -1,0 +1,1 @@
+program h2 : X : takes d : boolean array; _ : integer; q1 : integer returns nothing output 4 - 0 end Xtsaa : takes L5, ddh0a : integer array returns integer array G25, g, sY : boolean; chillax end main : p, v, _ : integer; chillax end

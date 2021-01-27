@@ -1,0 +1,1 @@
+program F : O6kaa : takes v9, A : integer returns integer array Z1uaa : boolean; chillax end z7 : takes k, J, G, m1, S, F : integer array; I, A : integer array; P, j : integer array; Si : integer; E, W4, Y8Va : integer array returns integer array chillax end main : let H = not 9 - (3) and 0 < - false or 4; output "" end

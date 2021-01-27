@@ -1,0 +1,1 @@
+program z2 : S : takes t3 : boolean array returns integer array while - W5x or 75 : let L6M0a[7] = array 3 end; when case - 6 - 986 < 65 : do S(1) end end main : let F[- true] = array f rem true; do cUO(true rem 5990); let W = - 0 > 811; when case 12 - 5740 : chillax end end

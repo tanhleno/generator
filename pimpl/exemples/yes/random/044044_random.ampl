@@ -1,0 +1,1 @@
+program G : e : takes L : boolean array returns nothing V, W, q92 : boolean; do UoT(82 and 533 + 1 - 3, 35 - 4 < 2); output 50 = 7; while 4500 = 1 : chillax end end main : y4, I96 : boolean array; L0ma : integer; qiv : integer; L0 : integer; Qf : integer; chillax end

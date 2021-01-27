@@ -1,0 +1,1 @@
+program P : zd : takes szH0, K, V : boolean; T2g0a, q, W59a : boolean array; VF30, Z, G : integer; RK8 : boolean array returns nothing A43 : integer; do rY(true or 52 - 48400, 3 - 9 <= 94) end main : d : boolean array; chillax end

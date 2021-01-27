@@ -1,0 +1,1 @@
+program h6O : main : x, _ : integer array; b29a : boolean array; g, R6, j5, jN, t0 : boolean; U7 : boolean array; K, BL, Fk : boolean; input J; input Y; when case - (539) and 58 or 3 - 52100 : pop end end

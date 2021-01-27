@@ -1,0 +1,1 @@
+program q2E0 : gS : takes n, SQ7aa : boolean array; T2, PRia : boolean array returns boolean chillax end main : S1da, Cdn : boolean array; B : boolean array; H3, Z0, Dz : boolean; z7, fg4aa, K1 : boolean array; when case true and 00 : output 578 = 0 end end

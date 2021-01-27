@@ -1,0 +1,1 @@
+program d5 : Ci : takes W : boolean; S8 : integer array returns nothing o, W : boolean; output "" . "" . 6 end i : takes x : boolean array returns integer GF : integer array; Sqg : boolean; h : boolean; A_ : boolean; t : boolean; chillax end main : chillax end

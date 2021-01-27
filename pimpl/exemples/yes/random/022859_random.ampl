@@ -1,0 +1,1 @@
+program MkT : X2U : takes m, d6 : boolean returns boolean array chillax end O1 : takes K : boolean; l, Vfza, qD, B62aa, fk : boolean returns nothing eF5a, L8haa : integer array; T, Ff4 : boolean; chillax end main : chillax end

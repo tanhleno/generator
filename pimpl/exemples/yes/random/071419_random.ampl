@@ -1,0 +1,1 @@
+program W : main : d, Yb7, H0 : boolean array; l, I, U9 : boolean; K : boolean; B : boolean; e : integer; Vr30a, OU : boolean; sGqa : boolean; jN : boolean; let F8 = array r * 2; pop; when case - false and 2860 or 66400 - 59900 : chillax end otherwise : chillax end; do T35aa(- 1 /= 14, 45, 19800) end

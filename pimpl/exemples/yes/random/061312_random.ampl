@@ -1,0 +1,1 @@
+program f5 : i : takes g : integer array returns nothing let A2Y0a[- (7)] = array 9540; when case - 46 - 6340 : while 549 : chillax end; while 5 : chillax end; pop end case 9 : do hm(69); pop end; let J2[2] = 7 end main : G : integer; o9W0a, _580 : integer array; chillax end

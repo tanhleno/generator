@@ -1,0 +1,1 @@
+program F : k0 : takes o : integer; L98aa, RU3a : boolean array; Z0, x : integer array; W64, m : boolean array returns boolean array chillax end main : output(2) rem 3 and 1 + not 168 /= - (68) . not 95 and 3 or 0 - 1 /= 60; pop; let o = 6 end

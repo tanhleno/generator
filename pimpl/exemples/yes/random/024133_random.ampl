@@ -1,0 +1,1 @@
+program ld90a : A : takes C, E9e : boolean returns nothing N, t, M, jl, A9v0 : boolean; R8, l8 : integer; when case - 496 and 89500 : chillax end case 15 - 070 : chillax end; pop 5 end L : takes l, h0 : integer array returns nothing xX : integer; N0 : boolean array; b4, B : boolean; pop; when case 5 : chillax end case 3 : chillax end end main : v, Xr : integer; chillax end

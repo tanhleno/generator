@@ -1,0 +1,1 @@
+program tL : oqc0 : takes D2, V : integer array returns boolean FF : integer array; when case 693 + 050 - 6 : pop end case 8 - 6 < 913 : when case 56 : chillax end end case 63100 : chillax end end l2 : takes i : boolean returns boolean array chillax end main : chillax end

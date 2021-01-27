@@ -1,0 +1,1 @@
+program C : fq00 : takes ao : integer array returns integer array output ""; input d; let j = 119 end main : J, hk, n6 : integer array; while - true / not not 2090 + not(7) rem P < - kE(73) * false + false and 56 + 1 - 265 : let K = array - 31 end end

@@ -1,0 +1,1 @@
+program G77 : V : takes a, x1, l6caa : boolean array; u, e, e5, vL : boolean returns integer f : integer array; pop end main : l, ZdJ0, Av, M : integer; f, B, UZ1, o : integer; let w = array - 31 * true * 75 and 1020 or 9; input T[- true / C and 7 + true]; do x2(- E9 > - 82) end

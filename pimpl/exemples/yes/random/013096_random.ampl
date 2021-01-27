@@ -1,0 +1,1 @@
+program vx : AI30a : takes kt, e51, L : integer; v0j0 : boolean; xY6, XOk : boolean array returns boolean array j : integer; do R((12) and 4 or 90500 < - 2, - 37 - 662 > 4, 1) end main : when case true - false and(1) and 5 or true and 6 <= - false and false : pop; let x1L = array 1; let nIP[2] = 37; while 3 : chillax end end end

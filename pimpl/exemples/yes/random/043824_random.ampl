@@ -1,0 +1,1 @@
+program T : Xj : takes L : boolean array returns nothing chillax end main : while - false * f(694) : chillax end; do SwI(- (2) and not 985 and 3 or 9 and 47200 /= - 5 and 808, false and 0 or 2 - 80, - 0 >= 596, 14, 73700, 3); when case - true + 3 : chillax end case 7 - 756 : chillax end otherwise : chillax end; while 59700 >= 9 : chillax end end

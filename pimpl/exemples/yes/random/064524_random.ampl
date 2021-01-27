@@ -1,0 +1,1 @@
+program t2 : U : takes w : integer returns nothing r, k : integer; chillax end main : when case - (5) < - false - 5 and 0290 + 8 : output "5" end otherwise : chillax end; when case true and true and 40 - true and 5 : chillax end case - (27) + 698 : input k end; let ah9aa = - 3; input E8[- 800]; do x(3); when case 1 : pop end otherwise : chillax end; input A4 end

@@ -1,0 +1,1 @@
+program W6 : p : takes aFba, M, F, DU, a, Lr2a : integer; G : integer returns boolean Md : integer; a, e : boolean array; O4, H7D, b : integer array; Ls6, U : boolean; C : boolean; J3 : boolean; input CT; output "`=" . 41 end main : chillax end

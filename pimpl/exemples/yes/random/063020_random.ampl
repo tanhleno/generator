@@ -1,0 +1,1 @@
+program h : f : takes o : integer returns integer array h230a : integer; q, e, H : integer; B7, x7 : boolean; n : boolean; a1Sa : boolean; when case - true and 0970 : chillax end case 6 : chillax end; while - 52 - 7 < 5 : chillax end; let I[2] = array 3 end main : pop end

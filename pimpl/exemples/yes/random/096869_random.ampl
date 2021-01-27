@@ -1,0 +1,1 @@
+program v : main : when case false or 8 : output "" . 4 end case false / true or(237) and 6 + 870 = - false or 1 - 6 : do zziaa(559, 15); do G7(8, 408); let q = 2; do H(6) end case d and 26 > 35 - 517 : chillax end case 45 : while 6 : chillax end end case 2 = 409 : while 125 : chillax end; pop end otherwise : chillax end end

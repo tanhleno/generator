@@ -1,0 +1,1 @@
+program Y : w : takes _D, OK, j5A : integer returns boolean array pop - 06700 = 45800; when case - 45 - 6 <= 7 : when case 28 : chillax end; output "K]" end case 751 : chillax end case 6 : chillax end end main : while - false / d(5) : chillax end; output "\\"; output - 2 - 01100 . ""; output 4 . "%90a" end

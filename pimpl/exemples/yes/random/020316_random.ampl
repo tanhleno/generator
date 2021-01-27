@@ -1,0 +1,1 @@
+program W : V : takes v5, f : boolean array; b : integer; t57 : boolean array returns integer PTe : boolean array; chillax end F : takes GS, O_N, r, u, n, O0 : boolean returns nothing let Zy[0 - 35] = array 3; input W7J0a; output 1 . ""; pop; do Kz(56); pop end main : chillax end

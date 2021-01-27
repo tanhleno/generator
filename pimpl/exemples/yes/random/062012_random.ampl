@@ -1,0 +1,1 @@
+program z : D : takes eev : integer returns boolean array E7 : integer; S00aa : boolean array; while true and 0 : chillax end; input M[4 - 2]; pop; input G end D4 : takes r, o : boolean returns boolean b, A, J, P : boolean array; chillax end main : input D; output "3" . - 3 >= 8 . 5 = 2 . ""; output "L" end

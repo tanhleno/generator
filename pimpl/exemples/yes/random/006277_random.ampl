@@ -1,0 +1,1 @@
+program iP : u : takes R, E, z, Q : boolean returns nothing pop 9 end Hv : takes K, H, S, v : integer returns nothing j7 : integer; when case - 7180 - 58000 < 73 : let a = 357; input H; pop end case 0 : chillax end case 7 : chillax end case 3 : chillax end otherwise : output "4{0"; pop end; do q(9 = 36, 587, 1); pop end main : pop end

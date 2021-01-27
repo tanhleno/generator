@@ -1,0 +1,1 @@
+program _m1 : main : G, G, qy, e, g860 : integer array; while - false > - 64 - not 3730 + 295 - 84 : output "" . 41; when case 5 : chillax end case 4 : pop end otherwise : pop end; output ""; do xGv(20); when case 5 : chillax end end; when case true or not 7 or 76 - 7 : chillax end case - R5O + 8 - 4 > - 410 - 54900 : chillax end end

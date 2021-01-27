@@ -1,0 +1,1 @@
+program c : wR3 : takes T, x : integer array; r : boolean returns integer array chillax end uT : takes el4a : boolean array returns integer array i : boolean array; output "0+\"a"; let N[38] = 64 end main : cc : boolean; l : integer; k : boolean array; Dc2aa : boolean array; X680a, F2 : integer array; P1, P : boolean; chillax end

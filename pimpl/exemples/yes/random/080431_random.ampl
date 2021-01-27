@@ -1,0 +1,1 @@
+program T : main : J : boolean; when case Q890[7] or not(9) / true + h or 74 - 14 : chillax end case - (95) and 44 and 07 /= (05) and 6 : output 5 end case - not 0 = 80 - 0 : chillax end case - 9 - 9 : chillax end end

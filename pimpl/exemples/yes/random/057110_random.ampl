@@ -1,0 +1,1 @@
+program o5 : v : takes iCW : integer array; G3 : integer array returns boolean M39a, t : boolean; let xR = 83 - 0 end dEC : takes _D, O : integer array returns boolean fc80a : integer; A6 : integer; v200a : boolean; while 70 <= 9 : chillax end end b : takes n5w : integer array; K : boolean returns boolean do e(797); output "" end main : EQ : integer; Tc, n : integer; chillax end

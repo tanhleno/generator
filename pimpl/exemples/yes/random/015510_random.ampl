@@ -1,0 +1,1 @@
+program B : eO : takes P, A, zTq : integer array returns nothing p : integer array; chillax end A : takes Bw, s, VK, L : boolean array returns nothing y, cV, j07 : integer; X, w, z : integer array; while - 5 : output "*#"; input I100; pop end end main : I, P1N : boolean array; J, V : integer array; while - true or 3 / _ and 2070 : chillax end end

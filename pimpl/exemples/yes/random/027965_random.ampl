@@ -1,0 +1,1 @@
+program U : a : takes N, Y640a : integer array; Z, A : integer array; i : integer array; N, Qgk, S : boolean array; Gt0aa : integer array; a, jt2a : integer returns boolean pop - 7 - 8; let j2 = array - 7; input V1; when case 31 : chillax end otherwise : chillax end end main : chillax end

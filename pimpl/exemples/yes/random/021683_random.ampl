@@ -1,0 +1,1 @@
+program R : e : takes V300, Y : boolean array returns integer l : boolean; X8ya : boolean; chillax end j : takes K, p : integer array; Q, L : integer array returns nothing input F3_[- 91300]; output 6 . "2" . "" end L16a : takes l9, j : boolean returns boolean array z, l2a : boolean array; while 9 = 3 : chillax end; output ""; do m7(0) end main : chillax end

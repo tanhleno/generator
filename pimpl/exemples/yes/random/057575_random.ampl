@@ -1,0 +1,1 @@
+program D5uaa : FD : takes N4Ua : integer array returns boolean array chillax end K : takes L, X, lS8a : boolean returns boolean array o8 : boolean; output "" . "\t8" . "\"k!a"; output 5; do E(3, 96); output ""; input A end V : takes h : integer array returns integer array chillax end main : chillax end

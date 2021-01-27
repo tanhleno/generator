@@ -1,0 +1,1 @@
+program T : AS : takes f : integer array; f : boolean array; Jh, E, G : boolean; h, P : boolean array; qW00, aW : integer; K6E0a, T380a : boolean; H5, v21 : boolean returns nothing do sx5aa(false and 0 or 2 - 4, 502); pop 5 = 2 end main : chillax end

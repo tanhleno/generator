@@ -1,0 +1,1 @@
+program x8 : BJvaa : takes hG, Xc0 : integer returns boolean e33 : integer array; GY, u, Cz : integer; U8 : boolean; I9q : boolean; m : boolean; k : boolean; output 10 - 43300 <= 1790 . "8" end main : chillax end

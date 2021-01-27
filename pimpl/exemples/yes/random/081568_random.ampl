@@ -1,0 +1,1 @@
+program Pn : main : u : boolean array; F7 : boolean; g2l0a, p7 : boolean array; when case - true : chillax end otherwise : when case 92 : do z(064) end end; when case - false + JzO0a and 0 : output ":" . 1 . "0" end case - true <= - 7 : chillax end otherwise : output 29; output "'>0"; when case 3 : chillax end end end

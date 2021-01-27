@@ -1,0 +1,1 @@
+program Vp : w : takes wm : integer array returns nothing output "" end oK : takes FW1a : boolean array returns boolean array chillax end Uu : takes O : integer; j : boolean; J8 : boolean; J0_ : boolean array returns nothing chillax end main : E : boolean; BY : integer array; pop true or Q080 > - false end

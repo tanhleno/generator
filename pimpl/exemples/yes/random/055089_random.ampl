@@ -1,0 +1,1 @@
+program l : z : takes c : integer array; v5, xj : integer array; Q6, s : boolean array returns nothing input o end main : do j8(7 rem true > a5[23] / false and 0 or(9) and 3 + 6 - 27000); while - false and(1) - N1 and 12 + 987 - 1 : chillax end; pop 60000; do z(52 - 0, 3); input k[5950]; let c[73] = 8300 end

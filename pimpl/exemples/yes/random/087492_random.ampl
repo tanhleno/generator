@@ -1,0 +1,1 @@
+program x : main : G : integer array; when case - (480 = 9) or not 9 : let bs7[- 25] = 5 = 4 end case - true or true >= - true : input c0[175]; input r9 end case true + 05 - 5 > - 702 - 8 : chillax end otherwise : chillax end; do C(v[6] and(48) and 91 + (5) and 6 + 8 - 424 < not 9 + 6 - 8) end

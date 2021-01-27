@@ -1,0 +1,1 @@
+program yS5a : Je60 : takes e : integer array returns integer s, G, h7, Z : integer array; B, t, q9ga, w9 : boolean; x : integer array; B, p : boolean; do c_(- not 146 and 82300 + 8250 - 2 < - 6 - 4) end main : O0, tj, m8 : boolean array; chillax end

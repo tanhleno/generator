@@ -1,0 +1,1 @@
+program F : xA : takes yB, jcn0, F : boolean array; E : integer returns integer array rFy : boolean; let o40 = - 7 - 26 < 63 end main : R, a : integer array; o1, G, cR0, k : boolean array; CZ, y, O, A, E : integer; while - 2 and not 1 / true - true or(0) + 7 : chillax end end

@@ -1,0 +1,1 @@
+program gFna : POMa : takes x, Tn, cF, oD, vX : boolean array returns integer chillax end v : takes r : integer returns nothing x, v : integer array; when case 78400 - 5 : chillax end otherwise : do L(9) end end main : let D7[- (3)] = false = n end

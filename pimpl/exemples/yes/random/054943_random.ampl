@@ -1,0 +1,1 @@
+program d : pFWa : takes b : integer array; v, r4 : integer; Dl, _ : boolean array returns nothing y42, u, m : boolean array; while(59000) and 1 : chillax end; output 25 . ""; let X04 = array 42 end main : B01a, j : boolean array; e : integer array; chillax end

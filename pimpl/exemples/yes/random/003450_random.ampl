@@ -1,0 +1,1 @@
+program J : o : takes G, bQ9, iy, Cm, O6h0a : integer array; Z, Z : boolean; dV : integer; C : boolean array returns boolean C, B, dc : boolean; M, I : integer; chillax end main : n69, fd00 : boolean array; do S(rC /= 8 rem not 54 + not 5 and 324 or 6210) end

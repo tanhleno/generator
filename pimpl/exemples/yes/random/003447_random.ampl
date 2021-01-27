@@ -1,0 +1,1 @@
+program L9 : D : takes A, Z, VB, a8, v : integer array; h0h, Q, O : integer returns nothing Od, S : boolean array; chillax end W98 : takes nu1 : integer array returns integer array let kD = array - 52100 end main : chillax end

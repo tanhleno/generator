@@ -1,0 +1,1 @@
+program i : c09 : takes Y, r : integer; p4N, U : boolean; Re, k : integer; re : integer array returns nothing chillax end P : takes I, T6, x : integer array returns integer chillax end Z240 : takes e22 : integer; e, o : integer returns nothing pop 741; pop end main : b, O : integer; g3 : boolean; pop - false or true - 6 end

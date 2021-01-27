@@ -1,0 +1,1 @@
+program E : main : q, x, fog0a : integer array; p6 : integer; when case G8 * v - true and not 93 : chillax end case - j[693] + false and 9 - 25100 - 818 : chillax end otherwise : let G[8] = 7; while 43 : chillax end; do hM(0) end; pop end

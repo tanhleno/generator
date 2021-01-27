@@ -1,0 +1,1 @@
+program n : pbPaa : takes C : integer array returns integer array B0 : boolean array; while true and 94 - 81000 : chillax end end main : bo, rvTa : integer array; output "1#" . "~" . ""; do H(- true < - not 5 or 54); output "" . 345 = 22 end

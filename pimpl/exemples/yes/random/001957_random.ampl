@@ -1,0 +1,1 @@
+program U : KC7 : takes A, K6, Wlb, qX, p, F : integer array returns nothing X1 : integer; chillax end N : takes d, N, c80, Q, P : boolean; bB : integer returns boolean array J, JX : boolean; chillax end main : do P(- E or not Q rem false and 4) end

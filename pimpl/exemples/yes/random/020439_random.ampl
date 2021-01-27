@@ -1,0 +1,1 @@
+program A8L0a : gNn : takes Z, C3j0 : boolean array; B : integer array; q, X7 : integer returns nothing T : boolean; output "" . ")"; while 8 - 88 : chillax end end G : takes E, v : boolean array returns nothing chillax end main : S : boolean; B, R : boolean array; hl3, A3_0, D, p8X0a : integer; iI, Z, B : integer; N91, S : integer; q : boolean; output "\\" . "" . "" end

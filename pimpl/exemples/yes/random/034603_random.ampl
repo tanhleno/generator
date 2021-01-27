@@ -1,0 +1,1 @@
+program e : w : takes K7 : boolean; g, vr90 : boolean array returns nothing let fmk0a = - 49 end m : takes L, R, V, U, J : integer; TAbaa : integer array; k9, cP, V260a, b9y : integer; K95, B : integer array returns integer q, A3 : integer; chillax end main : chillax end

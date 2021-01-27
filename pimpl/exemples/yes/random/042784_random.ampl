@@ -1,0 +1,1 @@
+program Om : Z6 : takes w : boolean array returns integer array e2 : integer array; pop - 8 - 18; while - 01 : when case 1 : chillax end; while 0 : chillax end end end main : B : integer array; S : integer array; chillax end

@@ -1,0 +1,1 @@
+program m4 : main : do Ga6(X3 and not(7) / (4) and 5 + r rem(20) and 78600, - (0) or 68 and 6); do a(6 rem(7)); while 9 : input l; output "%"; do Gy(59) end; when case 93300 - 5 > 7 : do w(6); pop end end

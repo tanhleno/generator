@@ -1,0 +1,1 @@
+program wx : main : let U = - (3) and false and 282; do o(- not 6 > false and 06, - n); when case true /= 47 : chillax end case 75 - 998 > 64 : while 9 : chillax end; when case 2 : chillax end; pop end case 1 : when case 50 : chillax end; pop end case 80 : chillax end; pop 627 = 78600 end

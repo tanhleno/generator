@@ -1,0 +1,1 @@
+program m1 : main : U : boolean array; b, m4 : integer; when case - false or(8) : input S; output ">@\"" . 8; let Q55a[677] = 31 end case(16) < true and 035 : when case 1 : do ED3aa(8); pop end otherwise : pop end; let Ad0a[833] = array 64 end case - false + 889 - 54 : chillax end case 8760 - 26 <= 4 : pop; output ""; pop end otherwise : pop end end

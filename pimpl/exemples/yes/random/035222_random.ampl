@@ -1,0 +1,1 @@
+program A : c : takes G : boolean; B, B : integer returns integer i, jT : boolean; let IL = array - (39) and 37 or 21; while - 6 : chillax end end O : takes e15, H, H : boolean; B4taa : integer array returns boolean array sJ8aa : boolean array; chillax end main : chillax end

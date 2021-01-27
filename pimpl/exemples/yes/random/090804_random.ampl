@@ -1,0 +1,1 @@
+program kE : main : let Sm[- false and ZI70a or not 6 and not 3] = - false rem not 1 and 8 < k41 and 3; when case - true : chillax end case - (26) : do d(6); when case 1080 : chillax end end case 7 >= 32 : chillax end case 5 = 2 : input vS6 end end

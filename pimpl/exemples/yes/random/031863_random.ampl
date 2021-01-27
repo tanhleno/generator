@@ -1,0 +1,1 @@
+program r : W : takes k, cj : integer returns integer array t : integer; while not 1 - 6 : chillax end; pop 1 = 4 end main : do W(- 90 / z76a and o5 < - false * true, I_i0(77) * 00700 and 1 + not 36 and 8 or 56, - false and 164 /= - 2350 - 8) end

@@ -1,0 +1,1 @@
+program j : mm40a : takes z, X, P, uP3, mX2 : integer returns nothing Y : integer; g, q7Da : integer; ec : boolean array; M, ZPP : boolean; l5 : boolean; chillax end main : g0 : integer array; P : boolean array; c, PQ, M : integer; chillax end

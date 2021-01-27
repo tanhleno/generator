@@ -1,0 +1,1 @@
+program NX6 : K : takes L, k : integer array; P, bk, u03, ja, p, q : integer array returns boolean array chillax end Ub : takes s, xp, q3 : boolean array returns nothing chillax end main : while - not false + Y rem false and 3 = - e(014) rem 71000 : while - 6 : do Q(41) end end; do X55((576) * 10 = - not 47 - 47 - 4, - false and 26 - 9) end

@@ -1,0 +1,1 @@
+program J : B : takes f5, OU80a : boolean; e5U0, h : boolean; Ki3 : boolean; i : boolean; G : integer array; x8, D, og1 : boolean returns nothing while - not 8 /= 7270 : when case 817 : pop end case 98 : chillax end otherwise : chillax end end; input IY; let c0 = 9; while 36700 : chillax end end main : C, j, x : boolean array; _4 : boolean; chillax end

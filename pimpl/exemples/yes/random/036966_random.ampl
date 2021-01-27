@@ -1,0 +1,1 @@
+program dL : JB : takes C : boolean; hGc0a : integer array returns boolean output "X" . 278 . "\"\n" . 7 . "d"; do cd(- 3 <= 0, 06 = 6, 7) end R : takes ZTq0a, uu : integer; r72aa, G : integer array returns nothing chillax end main : pop - false + false = - not 320 and 38 end

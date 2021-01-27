@@ -1,0 +1,1 @@
+program W : sv60 : takes i5 : integer array; k6l : integer returns nothing chillax end N : takes m : integer array returns nothing I5Y, Dx : boolean array; let S[005 - 7] = array - 7 - 71; pop 06 end main : chillax end

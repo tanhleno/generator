@@ -1,0 +1,1 @@
+program Hzfaa : cK : takes D3, Togaa : integer array returns integer array r : integer array; f : boolean array; B, R8Eaa, P : integer array; chillax end X : takes f : integer returns integer chillax end main : _, Pb, a, L, o : boolean; pop false * 2 and 783 - not 039 and 92300 + 1 - 730 = v and 3 + 4 - 58100 end

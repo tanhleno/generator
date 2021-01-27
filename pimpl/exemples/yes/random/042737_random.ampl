@@ -1,0 +1,1 @@
+program S : Y : takes L : boolean array returns integer array Igt0 : integer; chillax end main : let J = - v6[0] and not 26 - N + 23 - 323; output true and 08000 < 9; when case - D : let tl[1] = array 7 end end

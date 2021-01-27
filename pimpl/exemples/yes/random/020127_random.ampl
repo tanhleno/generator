@@ -1,0 +1,1 @@
+program F05a : JiU : takes V, W2 : boolean array; q : boolean returns boolean g64 : boolean array; chillax end main : f, S, a2 : boolean array; Nc, _ : integer array; q5, C9J, lF5aa : integer array; chillax end

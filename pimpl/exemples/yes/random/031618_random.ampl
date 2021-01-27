@@ -1,0 +1,1 @@
+program L4I : Tl1aa : takes h2Q0, z6 : integer returns boolean vz : integer; output "" . "n)0" . 9; let l[- 076 - 76] = array 96 - 9330; let l = array 53; do w(405, 9); while 461 : chillax end end main : xf : integer; chillax end

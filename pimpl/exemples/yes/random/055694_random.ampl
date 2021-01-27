@@ -1,0 +1,1 @@
+program V : W16 : takes v5 : integer array; z : boolean; Y3n : integer array returns nothing let H[- T6] = 2 end main : input Y; while 33 + false > - not 0 and 85 + 81 - 10 : input o; output "\n"; let Og2a = 797; let N = 0 end end

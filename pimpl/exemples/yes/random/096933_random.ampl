@@ -1,0 +1,1 @@
+program u9 : main : when case V(3, 315) - (3) : input T[8]; let p4[68] = array 06; while 51 : pop end; pop; when case 3 : chillax end; pop end case(5630) * 3 and 12 or not 9 + 1 >= false and 0 or 3 - 331 : chillax end case not 23 or 0 : chillax end case - 58 - 6 : chillax end case 2 : input K; pop end end

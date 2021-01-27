@@ -1,0 +1,1 @@
+program oV : main : let Dl[true] = 1 + true and 48 = - false; input m5[- (28) + 4 or 85]; when case - false and 09 + 4 - 215 > 9290 - 26 : pop end case 5 = 753 : chillax end otherwise : while 9320 : chillax end end end

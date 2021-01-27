@@ -1,0 +1,1 @@
+program W6 : TM6aa : takes l8, Gl, Kh : boolean returns nothing chillax end Q : takes dV, k : boolean array returns nothing input f[5]; let p5[56] = array 43200 end xh : takes FXI : boolean array returns nothing f8 : integer; while 8800 = 7 : when case 02 : chillax end end end main : c : boolean; Q, gtp : boolean array; chillax end

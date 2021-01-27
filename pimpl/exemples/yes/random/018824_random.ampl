@@ -1,0 +1,1 @@
+program BnF : u : takes t, cN : boolean array; r50, b, W, Wz : integer returns boolean array chillax end BW : takes mj, D4, t, x, O : boolean returns boolean array chillax end J : takes V : boolean returns integer L : integer; Ph20 : boolean; input e[6450] end main : chillax end

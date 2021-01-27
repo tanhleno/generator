@@ -1,0 +1,1 @@
+program __O : main : az, k, z, x : boolean; when case true / V3 rem true - (5) and not 0 and 711 + (70400) and 085 = - true or l7 and 32200 : chillax end case w[645] : when case 53 = 1410 : pop; pop end case 8 : pop end otherwise : chillax end end otherwise : pop; input hA end; let a1c = array - (928) - not 7 and 5 + 7; pop - 1 - 36 end

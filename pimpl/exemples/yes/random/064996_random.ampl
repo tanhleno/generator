@@ -1,0 +1,1 @@
+program L9 : N : takes ul : integer returns nothing D9aaa : integer; l : integer array; d6, HK : integer array; _, W : boolean; pop 7 /= 7360; output 5; pop; output 898 . "\tz!" end main : iv9aa, j, vgE : integer array; chillax end

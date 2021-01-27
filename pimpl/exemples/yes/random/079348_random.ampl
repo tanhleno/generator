@@ -1,0 +1,1 @@
+program g : main : j5 : boolean; Bd : boolean array; x7l, t3, A : integer array; c, _8 : boolean; do DX(false, - 68); pop; while(7) or 9 - 3 : chillax end; when case 32 - 4290 : while 74 : chillax end; let K = 82900; pop end case 1250 = 3 : when case 10 : chillax end end; while 0 : chillax end; when case 28 : pop end case 0 : chillax end otherwise : chillax end end

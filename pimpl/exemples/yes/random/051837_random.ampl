@@ -1,0 +1,1 @@
+program N : Q : takes z7 : integer; K2 : boolean array; U : integer array returns nothing when case true or 6 - 273 < - 37 - 7 : chillax end case 2 - 7 > 5 : pop end case 05 = 297 : let n = 86; pop end case 71 : pop end case 8 : chillax end; while - 50 - 8 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program V : K2 : takes J3 : integer; W : boolean; p : boolean; m : integer returns integer array chillax end main : when case - true * (795) rem i and 4 - (9) * (1) and 3 or not 5 and 88 - 472 - 0 < 73 / true : let N = 81 = 3 end otherwise : chillax end end

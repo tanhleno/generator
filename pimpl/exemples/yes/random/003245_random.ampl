@@ -1,0 +1,1 @@
+program at00a : q : takes E, u, v9, kH00, p : integer; j, P8 : integer returns nothing when case not 09 /= - 708 : chillax end case 6 <= 74 : chillax end otherwise : chillax end; input nJ2aa; pop 991 end main : E8 : boolean array; input K[false]; output "" end

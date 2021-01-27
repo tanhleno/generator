@@ -1,0 +1,1 @@
+program y5 : Q : takes u94a : integer returns boolean array input Ty end V54a : takes p2 : boolean array; u55 : boolean array returns nothing pop end main : g : boolean; when case not 3 * false and not 3740 and 5810 : input y[- 10 - 5]; while 19 = 5 : pop; pop end end otherwise : chillax end; output "U8" end

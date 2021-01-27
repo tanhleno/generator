@@ -1,0 +1,1 @@
+program L : main : o, _ : boolean array; y1, hJ : integer; when case 903 * (7) - (97) rem(83) or not 7 : chillax end case - true rem(9) and 34 > - b : chillax end case Zb90 and 5 or 4 : while 9 : pop end end case - 49 : chillax end case 39 = 65 : chillax end case 2 : chillax end case 7 : chillax end; output 1 or 915 - 9650; output 8 end

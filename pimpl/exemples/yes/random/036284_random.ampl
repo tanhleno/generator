@@ -1,0 +1,1 @@
+program haVaa : XA8aa : takes _ : boolean; z5 : boolean returns nothing do d(- true < - 7120); input Mp00[846 - 4] end V : takes q9Fa : integer; o : boolean; pL, Hg7a, l : integer; e8 : boolean; a9e, W, YN : boolean array returns nothing U2, Q4, hn, X5 : boolean; L : integer array; while 21 : chillax end; let JJV0a[642] = array 5 end main : chillax end

@@ -1,0 +1,1 @@
+program Y7 : main : do Tj(- (9 = 60800) - (67) /= - s[1680] / (3) and 0, - true and false and 9 - false = not 9120 + 84 - 1); let DU3a = (29); let I = - 0 - 7 <= 5; output 2 = 7; while 53 : when case 051 : chillax end; pop end end

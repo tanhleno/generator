@@ -1,0 +1,1 @@
+program Q : J28 : takes d, i1D0a, E : boolean returns boolean cJ3 : boolean array; do O(true > - 2, 62 = 80) end main : E : integer array; wL : boolean array; U5, W, N, p680a, I78 : integer; b : integer array; V : boolean; qi : boolean; bcM : boolean; let V[- j[7] * 859 rem false and 53 or V[36] rem false + true and 40] = - 78 and(189) and 9 <= - false end

@@ -1,0 +1,1 @@
+program k : Kxn : takes N, l9w : integer returns nothing JY : integer array; chillax end C : takes u7z, KWVaa : boolean array; N : integer array; _7, FOf0, i600a : boolean; n : integer; pS, h6, d : boolean array returns boolean chillax end main : let a670 = 7160 or v or 9 - 10700 > - true - 05 - 9 end

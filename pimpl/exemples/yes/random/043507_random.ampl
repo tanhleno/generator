@@ -1,0 +1,1 @@
+program AV : Q3 : takes P32 : boolean array returns nothing chillax end Z : takes C0, j : integer; x, K670a, w3M0 : integer array; x : boolean array; kw, V83, w21 : integer returns nothing chillax end L4 : takes K : boolean array returns nothing m, x : boolean array; B : boolean; pop; do g(3630); do v(8); input W6 end main : output ""; input f0[- not false + not 23800 and 04] end

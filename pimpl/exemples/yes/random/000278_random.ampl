@@ -1,0 +1,1 @@
+program K6 : S : takes n, R, F, E69aa, k, fAWa, sAQ, CU : boolean returns nothing y2 : integer array; chillax end kwD0 : takes Y7 : boolean; w : integer; EB, D, s : boolean returns nothing a5q : boolean array; A, b : integer; _OH : boolean; input C81; while 2 = 80 : chillax end end main : A, L9 : integer array; chillax end

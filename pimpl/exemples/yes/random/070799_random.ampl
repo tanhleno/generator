@@ -1,0 +1,1 @@
+program cU5a : main : d, lS10, PU10a : boolean; St, un, r83a : boolean; when case not 0 - false or 2 > - true and true and 58 : do D(- 95) end case Q2k(5) or false : output "3Taa" . 072; when case 7 : chillax end; pop; while 5 : chillax end; pop end case - (21) and 652 - 0 = - 7 - 05 : chillax end otherwise : chillax end end

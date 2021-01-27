@@ -1,0 +1,1 @@
+program b : A5 : takes x3, r : boolean returns nothing I7Pa : integer array; e, O : boolean; D : integer; do C(4 and 5, 69, 62, 5); output 66 end i : takes Ol60 : boolean returns nothing X, l41, W, I39 : boolean; chillax end main : chillax end

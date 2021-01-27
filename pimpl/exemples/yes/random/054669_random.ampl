@@ -1,0 +1,1 @@
+program tE80 : f0a : takes ip50 : integer array; B, o : boolean array returns integer array H, B : boolean; output ""; do k(72 > 559, 42); while 6 = 2 : chillax end; while 0190 : chillax end end V7ya : takes J, Q, m, MM, m : integer array; G8z, I, m5 : boolean returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program Aj4aa : f : takes F7w : boolean array returns integer array chillax end F : takes Lci, p : boolean; Z : integer array; RA60 : boolean; N, cg6 : boolean returns integer array u1x : integer array; tM : integer array; z, t : boolean; output "E" . ""; input P[14]; output "3T\"a" . "Q7" end main : I7 : boolean array; chillax end

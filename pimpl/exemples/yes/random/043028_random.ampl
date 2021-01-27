@@ -1,0 +1,1 @@
+program A : P85 : takes i : boolean array returns integer do N33(vz4a /= 7 - 5) end main : mj : boolean; R : integer; VF, M, _6 : boolean; j : integer array; output ""; pop - CGF and 1; output - 2 >= 87900 end

@@ -1,0 +1,1 @@
+program case : main : pop 0 end

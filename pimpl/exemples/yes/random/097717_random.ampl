@@ -1,0 +1,1 @@
+program Fc : main : when case true rem not B9D rem 6 /= q(6) : output 8; let U11[47] = 01700; let P1v0[691] = 4; let b = 1; do Iy(61) end case - (8) or(7250) and 2 < - NU and 7 or 51 - 5 : input o[3]; do y(44); input W; when case 7 : chillax end; pop end otherwise : when case 4 : chillax end otherwise : chillax end end; while - 168 + 8 - 1 : pop 2 end end

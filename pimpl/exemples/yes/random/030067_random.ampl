@@ -1,0 +1,1 @@
+program d5 : J : takes kPe0a, e6 : integer array returns integer I : boolean array; K6ia : integer array; let V = array - not 56 - 2 - 8; do i(4 < 18); let q[9] = 512 end main : e : integer array; J6 : boolean; while - not false /= true : pop end end

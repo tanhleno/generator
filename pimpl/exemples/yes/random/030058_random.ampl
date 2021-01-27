@@ -1,0 +1,1 @@
+program gg : O8Jaa : takes Z, oq2 : integer array returns integer c : boolean; while - not 9290 = - 45400 - 17 : input o6 end; let Jv[- 5] = 4 = 12 end main : A : integer; when case - not not(9) : input C[29 - 8]; while 88900 = 1 : pop end end case - false : when case 3 : do N(252); pop end; pop 1 end case - 65 and 09600 : let g6O[2] = 6 end end

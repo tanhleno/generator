@@ -1,0 +1,1 @@
+program r92 : y : takes YY : boolean array; e : integer array; i2ma : boolean array; w, C : boolean array returns nothing Z, kP, pa : boolean; q3, u4I, h, I : integer array; _ : boolean array; X33, v : boolean; y7O : boolean; while not 657 : let o = array 4 end end main : chillax end

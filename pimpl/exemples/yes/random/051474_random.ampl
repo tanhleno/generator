@@ -1,0 +1,1 @@
+program H : s : takes J54aa : integer; JX : boolean; C6y : boolean array; C : integer returns nothing while - (9) + 747 - 1 /= - 1950 : let tF[4] = array 0; output "S"; while 7 : chillax end end; do en(45 - 55 /= 2) end M : takes n : integer array returns nothing N, S, F, tk : boolean array; while 64100 - 185 : pop; pop; pop end end main : chillax end

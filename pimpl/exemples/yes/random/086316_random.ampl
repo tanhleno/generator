@@ -1,0 +1,1 @@
+program EM2 : main : R380a : integer array; zI80a : boolean; G, u, y9 : boolean; d, y : boolean array; when case - not not true and 3 rem 69 or ux(6) /= 612 : chillax end case - J[3] + true and 0 /= false + 502 : chillax end case(2) < - 6 - 5930 : output 2 . "" end otherwise : chillax end end

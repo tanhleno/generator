@@ -1,0 +1,1 @@
+program y8 : main : q, B4Qaa : integer; o0Qaa : integer array; z0, X, n : boolean; do Q((054) - true = - p[07] or false - 15, n[0] rem not 1 and 3); let t[- 6] = true and 129 - 51 > - 3950; do hJW0(- false and 15900 or 6 - 6050 = - 06, - 62 <= 11, 0, 4) end

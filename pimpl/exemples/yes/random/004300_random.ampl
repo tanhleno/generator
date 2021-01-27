@@ -1,0 +1,1 @@
+program q : j : takes ZMU, q, YSyaa, X0 : boolean; Y3Qa, vE, TzH : integer array returns nothing output 02 . ";"; when case 3880 >= 3 : chillax end otherwise : do u(59100); pop end end main : _9 : boolean; U : integer; f, t : boolean; chillax end

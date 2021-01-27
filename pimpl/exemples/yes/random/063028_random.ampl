@@ -1,0 +1,1 @@
+program L : qq60 : takes G : integer returns integer array uw : integer; G2d : integer array; chillax end C : takes W2 : integer array; bX, t, Zfz, I4, VG, _ : integer array; iq, T, T : boolean array returns integer array chillax end main : B : integer array; xyca : boolean array; X, n : integer array; wlc, Cf, w : integer; chillax end

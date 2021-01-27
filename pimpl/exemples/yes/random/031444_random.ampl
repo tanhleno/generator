@@ -1,0 +1,1 @@
+program c : K1 : takes X, D0 : integer returns boolean chillax end J : takes y, O : integer array returns boolean array chillax end Y3c : takes Q, U, B, S : boolean array returns integer array KKB0a : boolean array; input I end b : takes g : boolean; t : integer; fC, Q, x : boolean array returns nothing chillax end main : output - false and(581) . - 6 <= 4 end

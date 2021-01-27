@@ -1,0 +1,1 @@
+program n : g4 : takes o : boolean array; i : integer; W : integer; z, g, j5, Q, E : integer array; m : boolean array; l, s82, i : boolean array returns nothing while n and 5 < 3940 - 35 : chillax end end main : chillax end

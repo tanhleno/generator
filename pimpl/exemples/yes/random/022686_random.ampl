@@ -1,0 +1,1 @@
+program n : Z : takes v, CJ : boolean array returns nothing let L[- true and 6] = array 0; input mY3[- 5 - 9] end d4 : takes f, P : integer array; yZ : integer returns nothing q : boolean array; O4e, K : boolean; D68a, js : boolean; input d0; pop end main : chillax end

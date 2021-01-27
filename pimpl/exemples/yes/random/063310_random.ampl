@@ -1,0 +1,1 @@
+program D5 : q : takes Q : integer returns integer JQd, E, ny, OMb, J7E0 : boolean; output - 80 - 3 . 94 . "#" . 799 . "1" end Rc : takes DN8aa, um, o : integer array; J, o5h, z, Y : integer returns integer array chillax end main : t8, t6 : boolean; output(0) or 5 and 33 end

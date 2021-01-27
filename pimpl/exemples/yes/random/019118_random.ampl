@@ -1,0 +1,1 @@
+program HA : pAt0 : takes D8oa, r55aa : boolean array; c, M, Ia : integer returns nothing while - (71) or 2990 : chillax end end x : takes h : boolean; C6k : boolean returns boolean while - 705 : chillax end; output 11900 end main : bbG, i6 : boolean array; a, PY, F4i, b : boolean; chillax end

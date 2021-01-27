@@ -1,0 +1,1 @@
+program X : P : takes wC : boolean; Y : boolean array; _, F, rL : integer array returns integer array GB6aa : boolean array; _ : integer array; do M760a(- true = 9 - 28000); input g[32 - 5] end main : chillax end

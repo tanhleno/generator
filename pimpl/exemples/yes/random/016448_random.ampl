@@ -1,0 +1,1 @@
+program Y6 : LK : takes oj, I, My : integer returns nothing kh00a : integer; chillax end tLa : takes V, c9, E, Tv60, B : boolean array returns boolean array chillax end c : takes vYCaa : integer returns boolean array when case 4 : while 0 : chillax end end; output "5o" . "<" end main : input P end

@@ -1,0 +1,1 @@
+program p : q : takes u, Uxpa, Ki7 : boolean array returns nothing chillax end o7Q : takes E, i, e, t42 : boolean array returns integer do _i(- 98 <= 79, 477 = 3, 91); do L6(73 = 7); while 355 : pop end end main : Z5, D580, b, s, Zo, b, F33 : integer; s, XE : boolean array; V : boolean; J : boolean; chillax end

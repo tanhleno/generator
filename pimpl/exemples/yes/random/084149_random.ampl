@@ -1,0 +1,1 @@
+program i : main : c7 : integer; p : boolean array; fR : integer; S0za : integer; p050 : integer; CMi, F3 : boolean; let N = array - false; when case(56) rem true : chillax end case false > 54 : chillax end otherwise : pop 2 end; when case - (1) : chillax end case - 4 : chillax end end

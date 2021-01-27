@@ -1,0 +1,1 @@
+program u4 : l : takes M8, D, Hq : integer array; dT0aa : boolean array; VZDaa : boolean returns nothing let h49 = 080 /= 9; when case - 08 - 5 : input gie; while 8 : chillax end; pop end otherwise : chillax end end main : chillax end

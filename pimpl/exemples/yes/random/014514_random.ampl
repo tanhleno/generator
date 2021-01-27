@@ -1,0 +1,1 @@
+program Wt : A : takes V, eT, O2 : integer array; Isw0a : integer array returns boolean P8va, Q9 : boolean; chillax end U : takes h : integer array returns nothing j : integer; input qU[- 69 - 98] end main : v : integer; while - true * false - false /= not(58) and false and 56 - true or 1 : chillax end; while - (00) : chillax end; pop end

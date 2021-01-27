@@ -1,0 +1,1 @@
+program A : main : q : boolean; F, a, e, Yi, x, J : boolean; H2, W, d : boolean array; when case - (90200) or false or true + 2420 : chillax end; while 027 and true : when case 33 = 429 : chillax end end end

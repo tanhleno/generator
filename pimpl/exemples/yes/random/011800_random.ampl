@@ -1,0 +1,1 @@
+program C6 : Q : takes Unf, j, y93 : boolean returns integer array DN, Xv0 : boolean array; chillax end K : takes g7Q : boolean array returns integer Z : integer; jPD0a : boolean array; x, ql1 : boolean; do Y(9 - 914 /= 5) end main : Cii, N34aa, Jp : boolean; chillax end

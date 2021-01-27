@@ -1,0 +1,1 @@
+program b4 : d : takes D4, SD4aa, y, F : integer array; s990a, V, fv, n, U : boolean array returns nothing let S = array 542 + 4 end main : when case - 18 <= u[618] : while - 0720 - 7 < 5 : output "" end end; while - (2) - 471 and 040 : chillax end end

@@ -1,0 +1,1 @@
+program ze : main : Z0x, Mcvaa, U : boolean array; when case - 5 : chillax end case r[62] / x2 and 074 <= true : chillax end case true <= 70 - 7 : chillax end case - 91600 : chillax end; do k4b(- not true + true and 7 - 8 <= true and 463); output ""; do B(- 50 - 768 > 12500, 2 = 9, 9, 8) end

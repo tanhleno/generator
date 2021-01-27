@@ -1,0 +1,1 @@
+program Ht5 : Xq : takes i : boolean array returns boolean array q : boolean; chillax end main : F, C, d, T, Y74, Q, u5 : integer; p : integer; W : integer array; let ifX[not false and 00 and not 4 and 4] = array - false * not 14; while - (5) - P = - _ and 5 : while 5750 : chillax end end; do Ty5(e, 46600 - 67 <= 904); let WhR = 9 = 0 end

@@ -1,0 +1,1 @@
+program g290 : V : takes v : boolean array; p : integer; a, A : boolean array returns nothing Uv, R : integer; when case - not 1 : chillax end case 31 - 90 = 42 : chillax end case 1 = 532 : let O1 = 1; pop end case 159 : chillax end; output ""; let G[9] = 67; input B[8] end M6 : takes q, e, I4, C7 : boolean returns boolean array chillax end main : chillax end

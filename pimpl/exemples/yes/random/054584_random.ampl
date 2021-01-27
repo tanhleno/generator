@@ -1,0 +1,1 @@
+program Gjtaa : i6 : takes Cttaa : integer array; H, XK7 : boolean array; X8 : boolean returns nothing Z : boolean; input A37a; pop; let r1k = 7; pop; input _2; input oTm; pop end main : j, O9iaa, mTw : integer; chillax end

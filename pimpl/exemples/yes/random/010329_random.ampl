@@ -1,0 +1,1 @@
+program d : yzI : takes I, v35aa, XXkaa : boolean array; c : integer array; C : boolean array; N, v : boolean returns integer chillax end main : D46 : boolean array; R : boolean array; do K(- not 7 and not false or(05) / 38 and 95 <= false); let Ze[- true] = 3; input h[false] end

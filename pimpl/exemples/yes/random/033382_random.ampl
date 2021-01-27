@@ -1,0 +1,1 @@
+program C : I : takes G : boolean; Dw00, D, q, H, R : boolean returns nothing input RQ40 end main : q1, Yr, i, U : boolean array; x0H0 : integer; b, h, Fe9aa, _ : boolean; output not true rem false and 8 - not 3 + 0 - 06; let v = 9 - 0; output ""; output 97 = 4 end

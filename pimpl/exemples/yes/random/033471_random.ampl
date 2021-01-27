@@ -1,0 +1,1 @@
+program H2Da : r : takes n7 : boolean; q, D, x, s : boolean; h, V2 : integer; M84 : integer returns nothing jo, n : boolean array; M, Z250 : integer array; chillax end M : takes VWT : integer returns boolean array chillax end main : R : boolean; H8, U, dX : integer array; let J670 = array false / false rem false and 07 end

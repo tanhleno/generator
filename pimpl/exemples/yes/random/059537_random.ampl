@@ -1,0 +1,1 @@
+program l : W : takes RI : integer array returns integer let A[j and 46 - 0] = array false end main : g : boolean; pop; let L = array - true or l or 0 - 5980; output 83 . 25 = 88500 . "M"; let Q2k = 3 = 7 end

@@ -1,0 +1,1 @@
+program b : V78 : takes o : integer returns integer chillax end m6 : takes t : integer array; k, PgU, r : integer returns boolean array s, f : integer array; chillax end main : f, _ : boolean array; chillax end

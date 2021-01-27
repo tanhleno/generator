@@ -1,0 +1,1 @@
+program n5 : f : takes w, PTr, N4Xaa : boolean array; r : integer returns integer w, J, m030a : integer; Z, k : integer array; chillax end main : let l = - (1) / 03 and 4 or false and 950; do z0J(- not false / false or false or 0140 - 44 >= 08 + 44300) end

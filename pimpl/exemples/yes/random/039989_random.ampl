@@ -1,0 +1,1 @@
+program O2 : SY : takes px : boolean array; d3Y0 : boolean array; v : integer returns integer G8, L, W, B, R : integer; input e[- (3) or 0 - 6] end main : uB : integer array; while 76 + 99700 - not 72100 : chillax end; when case(55) > (34) and 1 + 4 : output 130 . "" . "" end; while - not 5 : input zQb0[83]; do s(2); do Y0m0(6) end; while 5 - 979 : chillax end end

@@ -1,0 +1,1 @@
+program Q : e : takes R, L5Y : boolean returns integer roma : integer array; mN0, v25a, T1v0, U : integer array; chillax end main : do E1(- 0 + true / (8) >= not(2) rem true and 4800, false / false or u6 /= false and 9); do Z((7750) * (43800)); let cm = array - u - 9 - 5; input R[- 7 - 01] end

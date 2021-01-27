@@ -1,0 +1,1 @@
+program aSa : m : takes h0 : integer returns nothing bP80a, tt00 : integer array; chillax end e260 : takes PB, LE, u, U5vaa, A : boolean array returns nothing when case - 7 - 56 >= 3 : input C48 end case 6 : chillax end; while 9 : chillax end; when case 4760 : chillax end; output "" end main : oMr0, cn, Uq9, q86, iu : integer; chillax end

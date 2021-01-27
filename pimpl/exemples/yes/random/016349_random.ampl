@@ -1,0 +1,1 @@
+program W9 : B8M0a : takes Zm7, z, OxE : integer returns nothing Iy8a, h : boolean; chillax end Yh80 : takes c6 : integer array returns nothing F4Faa : integer; Z, i5v : boolean array; chillax end main : A : boolean array; I, Jp, DV0, Kd, N3, w0u0a : integer array; m : boolean; let t[- (21) and false rem false] = array - 73100 end

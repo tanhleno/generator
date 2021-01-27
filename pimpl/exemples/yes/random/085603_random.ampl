@@ -1,0 +1,1 @@
+program B : main : N : integer array; V2, zQV, e7la, o7, q : boolean; e : boolean array; when case false / not 63 * 56 and 9 + 93 / not 27600 + true and 9 : let X7 = 1 = 3; output "^" . "8}\"a" . "660a" end end

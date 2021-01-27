@@ -1,0 +1,1 @@
+program P : q82 : takes z : boolean returns integer pop 1 < 89700; input a1 end j : takes a, yItaa, k9, Km, p, l, l98 : boolean array; w, k7 : integer array returns boolean chillax end main : t, E : integer; chillax end

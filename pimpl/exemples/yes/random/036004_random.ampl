@@ -1,0 +1,1 @@
+program O220a : n : takes v2 : boolean; V : boolean array returns nothing X, o, T, j, y : integer array; M : boolean array; do g(- 7 or 6340 - 3, 5 - 5750 = 868); let Od[0 - 8] = array 58 - 7; when case 1 : chillax end otherwise : pop end; input d[43800] end main : lP9, n2, tp3, U, f, H26aa : integer array; R3 : boolean array; chillax end

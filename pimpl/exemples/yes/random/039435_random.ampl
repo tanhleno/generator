@@ -1,0 +1,1 @@
+program s : m : takes by4 : boolean array; i, d : integer returns nothing chillax end main : while y[8] or(42) - not 8 and 05 - 4490 - 5 : input P[- 0] end; do g(true / 0 and 4, not 893 > 383 - 83); input _O; output 54400 . 8300 . 96500 . "8b0a" end

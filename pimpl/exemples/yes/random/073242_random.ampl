@@ -1,0 +1,1 @@
+program L : main : CWb, cG : boolean; do b(- (8) * true / NH30 or R9[5] and true and 81 = - 76 or 9 and 374, 7 + Epg and 407 + 44, (4) and 3 - 9 - 15 < - 2 - 80); input f0[zW30a]; output 9 - 8 /= 5 . 0 . 5 . "[\t"; let X[7] = array 0; output "F\t" . "" . "\t"; pop 6 end

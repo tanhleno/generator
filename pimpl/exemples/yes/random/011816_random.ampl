@@ -1,0 +1,1 @@
+program O : sZ : takes y, N, Xf5 : boolean returns integer array p : boolean; when case - 1 and 50 - 5 - 0 >= 5 - 93100 : chillax end case - 8 - 7 > 2 : chillax end end main : pop; when case A_80[762] and 96700 >= true and 7 : chillax end otherwise : pop; input Yc4a end end

@@ -1,0 +1,1 @@
+program RZ7a : ES : takes i2A, r, f : integer returns boolean array while - 64 = 9 : input L160[15] end; do I(50 - 4, 0 = 9); pop 805 end main : d86 : integer array; K, bAz0, A, _8 : integer; chillax end

@@ -1,0 +1,1 @@
+program o : i5 : takes HoW0, C : boolean; Z : boolean array returns integer array Z, cX70 : boolean; chillax end main : while true rem true > - not not 4 * not 8 : while - 8 : while 01 : chillax end end; let N = 2 end; do S200(- not(85) - false and 691 > true and 5110 or 1, - (31) - 3 - 0, 2 - 9, 7 = 29, 9, 6) end

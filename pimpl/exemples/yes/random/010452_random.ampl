@@ -1,0 +1,1 @@
+program M9 : Wgqa : takes M5A, kg, w3va : boolean array; _w : integer returns integer array let s51 = array(6860) and 86400 + 4 - 86 end main : s : boolean; j1 : boolean; a, v, A, RD, bV : integer; I : boolean array; a510 : boolean; LXm : boolean; let R5k[not p[1] - false and true and 5160 - false or 3] = - false rem true end

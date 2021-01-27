@@ -1,0 +1,1 @@
+program _0vaa : A : takes D, Oeq, yIa, X2, R : integer; Y2 : integer array returns integer array C8ha, o : integer array; m5m : integer; GN, zV, rV : boolean; input s[- v0 and 0 - 343 - 57]; while - 1 - 7090 > 74 : chillax end end main : chillax end

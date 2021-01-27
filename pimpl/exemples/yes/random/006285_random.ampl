@@ -1,0 +1,1 @@
+program s : G : takes h, rL, l, PUz : boolean returns nothing while - (0) - 26 - 32 < 3 : chillax end; output "" . ""; pop 6720 end main : Z_, c5, M9y, a : integer array; s, GLX : boolean array; while - R(158, 1) and br[46] rem not 6 + 1 : output 545 . 2 . "" . ""; do Cwp(2, 3, 029); input _[6]; pop end end

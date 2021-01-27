@@ -1,0 +1,1 @@
+program Y : L24a : takes y8 : boolean; JI, N, p, V, O9Y : integer array; WZs : boolean; p : boolean returns nothing DS, r_10 : boolean; do t(- (6) + 2) end main : g0H, w, DK : integer; I, J5 : boolean array; S0, v : boolean; input I end

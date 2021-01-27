@@ -1,0 +1,1 @@
+program a6 : z : takes f : integer array; FN, _BB, Zb6a, np, _5 : integer; r5 : integer; STM0a : integer returns nothing chillax end main : when case - true rem(86) * false and 0 + false - not 7370 : chillax end end

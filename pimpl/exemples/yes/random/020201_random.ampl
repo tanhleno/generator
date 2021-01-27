@@ -1,0 +1,1 @@
+program u : T : takes D, j : boolean array; Q : boolean returns nothing u6g : integer; do E5(- _ + 5, - 2720 - 0540 < 7, 13400, 3) end D6 : takes E, Xe, k : boolean array returns boolean output 6 . ""; do G_Ya(64 = 4530); output "" . ""; pop end main : m : boolean; a, C : boolean array; D : boolean array; input N0[6 and true or n[12] rem not 2]; pop; let l78a[- O] = - 67 - 97 end

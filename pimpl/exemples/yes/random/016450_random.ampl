@@ -1,0 +1,1 @@
+program a5 : dI : takes H85, W3n, L4L0 : integer returns nothing JL : integer; chillax end lJ6 : takes KfC, gI, _b0a : boolean returns integer pop 6; when case 59 = 9 : chillax end case 56 : chillax end case 6 : chillax end; pop end main : chillax end

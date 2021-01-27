@@ -1,0 +1,1 @@
+program H : H : takes whraa : boolean; F, Wk, s, D, oH, n : boolean returns nothing while - not 9 and 6 < - 1 : when case 5 : chillax end end; when case 4 : chillax end otherwise : chillax end; pop; let T = array 8 end main : chillax end

@@ -1,0 +1,1 @@
+program S0s0a : R3 : takes RT, I, R, O, E : integer array returns nothing B : integer array; chillax end f : takes k8, f : integer returns nothing chillax end C : takes F, Z, D : integer array returns nothing chillax end main : input B end

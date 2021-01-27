@@ -1,0 +1,1 @@
+program k : A4 : takes Qa0aa, D3t, aJQaa : integer array returns boolean pop - 11 end _3 : takes Y : integer returns nothing chillax end main : zW40, c, Mlz : boolean array; v3, zt : integer array; do L(W55a(1) and(33400) rem true and 59 - false * not 89 or not 8 and 061 + 0 - 81) end

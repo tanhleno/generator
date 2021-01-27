@@ -1,0 +1,1 @@
+program uT : main : i : integer array; B9 : integer array; Q : integer; N2, c, IY : boolean; while(36 = 6270) - (427) + not 98 - 0 - 5 >= not C5U0a : let pj[- 4 - 9] = array 8; input n67[426]; pop; while 68 : chillax end; when case 4 : chillax end; pop end; input V2[6190 and lj and 9 or not 2670]; pop - 445 end

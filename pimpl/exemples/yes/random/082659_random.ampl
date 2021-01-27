@@ -1,0 +1,1 @@
+program b : main : I : boolean array; when case - (5 = 35) : do d(- 5 - 0); when case 2 = 3 : do s(1) end; pop end case true - g : while 611 : chillax end; when case 40 : pop end end case false and 2 : chillax end case 6 : input DO7aa; when case 51 : chillax end end case 2 : chillax end otherwise : chillax end; let z[- false and(4)] = array - (3) and false end

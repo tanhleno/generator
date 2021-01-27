@@ -1,0 +1,1 @@
+program E : ZO : takes h : boolean array returns nothing vc, b, fE2aa : integer; X, h7 : integer array; let Yo[jB and 4 - 5] = 8 - 29 end main : output "" . - false or 9 - 09 < 5 - 95 . "" . "6" . 7 . 6 . "n"; let C = aa; let K0 = - 2 end

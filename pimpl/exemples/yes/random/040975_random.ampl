@@ -1,0 +1,1 @@
+program ET : v : takes y : boolean array; Y4 : integer array returns boolean array P : boolean array; r1Yaa : boolean array; chillax end aR : takes B : boolean array returns nothing when case 2 - 8530 = 5 : chillax end end main : pop(3) and false and 147 - 0 end

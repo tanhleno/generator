@@ -1,0 +1,1 @@
+program N1taa : V : takes eR9aa, M1Y : integer array returns nothing Y : boolean; IVk : integer; r, NQ, T : boolean; V1, Gk : boolean; W9 : boolean; output 7930 - 65 . "[" . "" end main : chillax end

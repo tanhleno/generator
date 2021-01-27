@@ -1,0 +1,1 @@
+program t : XQ : takes w3f0a, Y, Et : boolean array returns boolean gv, F9, X5Xaa, ND0aa : integer; chillax end main : do I(false rem false + false <= (5) or not 69 and 56, - 9 /= - not 011 + 46600, - false - 5 - 1 > 26 - 94) end

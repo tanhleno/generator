@@ -1,0 +1,1 @@
+program m : jQ : takes n : boolean; t, w, S : integer array returns nothing f : boolean array; l, q : boolean; chillax end main : Z32 : integer; LS, A8, p : boolean array; Y, W : integer; when case - false <= - (9660) * _t or c - 76 : chillax end end

@@ -1,0 +1,1 @@
+program oCMaa : gK : takes zC, G1 : boolean; f, R, r8A, V, a : integer; ic : boolean; mR10a : boolean; E2, U97, Z27a : integer returns nothing yO3aa, v, M : boolean array; n2, Z : boolean; h : boolean; do C(false and 2270 >= 6, 6, 4) end main : j : boolean array; let Uk9aa = array(40 = 17) / false + j(9) rem 58 and 6 or t84aa or 89; input s end

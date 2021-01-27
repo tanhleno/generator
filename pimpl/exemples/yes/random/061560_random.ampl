@@ -1,0 +1,1 @@
+program s : m : takes Z : integer array returns nothing when case - true and 5 : chillax end case - 5 < 007 : when case 981 : chillax end end otherwise : chillax end; let S8[- 3] = array 22 - 195; input X8[0] end main : chillax end

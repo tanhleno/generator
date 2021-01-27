@@ -1,0 +1,1 @@
+program g9 : z : takes g, JD, g3, P, NE0 : boolean; _4, i, X, qML, N_, a, Fk : boolean returns nothing pop 0 > 1; output "1p"; let q[72] = array 00; pop; let t1 = 5 end main : input tg; while - O(01) + y and 35 : chillax end; input E[e and 8] end

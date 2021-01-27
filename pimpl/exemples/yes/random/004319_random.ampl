@@ -1,0 +1,1 @@
+program eW : l : takes O, I0, Qo, Q : boolean; Xx, xR60 : boolean; S : boolean; C : integer array returns nothing chillax end q : takes A600a : integer array returns boolean U, PY7a, p, se : boolean array; K, W : boolean; C, I33 : boolean; g : boolean; t : boolean; while - 61 - 0390 > 44 : output "" end end main : chillax end

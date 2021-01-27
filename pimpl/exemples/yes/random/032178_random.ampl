@@ -1,0 +1,1 @@
+program z : f : takes B, c : integer returns integer when case - not 45 and 8850 = 0 : chillax end otherwise : chillax end; when case 4 - 34 : chillax end; when case 9 : chillax end case 6 : pop end otherwise : chillax end; when case 43500 : pop end otherwise : chillax end; output ""; while 9120 : chillax end; pop end main : k : integer; s2 : integer array; chillax end

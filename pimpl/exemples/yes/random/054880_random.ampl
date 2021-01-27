@@ -1,0 +1,1 @@
+program a5 : H : takes i : integer array; y, Wqda : boolean returns nothing V : integer; chillax end main : pop not V / false and 87 + 4; let CcEa[(9850) - 4 and 7 + 1] = array true + 5380 and 5 - 67 - 5 end

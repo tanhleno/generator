@@ -1,0 +1,1 @@
+program W1 : main : when case - oDJ0[684] + d(22) : while 255 - 9 : input p9 end; pop 2 end case - (23) + (2) = - 45 + 3 - 7 : chillax end case - false and 09 + 4 - 47 < - 4 - 8 : chillax end; let nV[- not 86200 + it2aa and 5] = - false and 20 + 68300 end

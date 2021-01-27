@@ -1,0 +1,1 @@
+program QF : t9 : takes v8Y : integer returns nothing O : integer array; o, n260, j, W1 : boolean; h : integer; _, KW5 : boolean; uy5 : boolean; c : boolean; output 43 - 1 end main : do S(- not not false, false and i6 or x5 and 6 or 2810 - 34, false - 88 - 5 = 45 - 9640) end

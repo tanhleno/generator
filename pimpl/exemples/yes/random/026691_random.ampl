@@ -1,0 +1,1 @@
+program _MH : P : takes w, Y14 : integer; kl4aa : integer array; n : boolean array returns boolean q, dx8, u4xaa : integer; L, BI, J : boolean array; input i1[not 5] end main : Z, l : integer array; z63 : integer array; pop; let w = array - 0 / (7); input D[W_ and 9 or 910]; while 3 - 8 : do E(9) end; while 2 : chillax end end

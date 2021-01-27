@@ -1,0 +1,1 @@
+program xfS : v3o0 : takes a1, r, g8q, QQ1, bTt0, rCGaa : integer array returns nothing q94, y3, j, j6C0a, k47a : boolean array; GO : integer array; do a(- false) end main : when case - (5) : output "6"; let E[8] = array 60; input Z; output ""; input N; pop end otherwise : output "0" . 38; while 200 : pop end end; input e end

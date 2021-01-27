@@ -1,0 +1,1 @@
+program SDl0 : dE8 : takes P4, AG60a, S : integer array; c : integer array returns nothing input N4 end main : U, V15aa : integer array; W, C, t, U : integer array; bu, H : boolean; D7I0 : integer; N, d4n0 : boolean array; f4, yX8aa : boolean; K : boolean; let S = array - mF(0) rem false - false - (7) and 9420 end

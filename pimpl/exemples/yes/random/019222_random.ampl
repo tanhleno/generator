@@ -1,0 +1,1 @@
+program c9 : e : takes u06, CA3 : boolean array; p, k : boolean array; o : boolean returns nothing pop; output "}" . 759 . "7" . "\\X"; output 58700 . ""; when case 5 : chillax end case 6 : chillax end otherwise : chillax end end main : chillax end

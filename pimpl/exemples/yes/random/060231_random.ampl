@@ -1,0 +1,1 @@
+program n : Zk : takes T6 : integer array returns nothing k, _, i, Oq, l5 : integer; ub : integer array; z : integer array; N1 : boolean; input Fh end main : V : boolean; g : boolean; while - 7 = (36) - not 63 + 94000 - 1 : do d(8230, 7, 77, 2) end; pop; let K = array Qs end

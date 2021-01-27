@@ -1,0 +1,1 @@
+program O : J250a : takes CP50, Gx, H : boolean array returns nothing AJj0a, u : integer array; e3Xa : integer; eZ, o, l5 : integer; chillax end main : F3 : integer array; o5v : boolean; z4 : boolean array; let h = not not 4 / 93 + true - 85500 - 2 = 798 and 8; do i7aaa(not c, S and 4 + 9490 - 6, - 1 - 16, 94 = 6); pop; do c(75 - 0); input Z540 end

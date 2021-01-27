@@ -1,0 +1,1 @@
+program Zh0aa : C : takes y : boolean array; K, S8, F, In3aa, y, eZ, OSra : boolean array; O5, YFR : integer; P : integer array returns nothing pop; when case 6 : pop; let h5 = 8 end case 9 : chillax end case 1 : chillax end otherwise : let Mf90a = 2 end; input uT; while 59 : chillax end; input O end main : chillax end

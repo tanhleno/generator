@@ -1,0 +1,1 @@
+program N : IF : takes L, T : integer; Y4, O8 : integer; r : integer; l6, v, J : integer array; g, k6, t7, bX : boolean array; h3 : boolean returns boolean chillax end k : takes d, f, uQ : boolean returns boolean while 85500 - 122 <= 7 : let Qp = 0; input cP40a end; do A(2); while 24 : pop end; output "1K0" end main : chillax end

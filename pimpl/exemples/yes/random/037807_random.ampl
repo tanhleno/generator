@@ -1,0 +1,1 @@
+program WQB : w : takes ua : boolean array; Z, aV, h9, J : boolean returns nothing chillax end zZx : takes j4O, D : boolean; g390a : boolean array; a : boolean array; Ha, Po, q, wO7aa : boolean array; p36aa, j, _U : integer; _ : boolean returns boolean R, R05a, J : boolean; U4 : integer array; C : boolean; R : boolean; iF : boolean; chillax end main : chillax end

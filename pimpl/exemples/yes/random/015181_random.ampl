@@ -1,0 +1,1 @@
+program Tn : _v : takes HxY, x1, A : integer array returns nothing chillax end R04aa : takes M1p0a : boolean returns boolean chillax end main : do O(- 40 and 6 = (9) and(63100) and 77, false * true <= - false + 5 - 8, 5 and 1 - 9 - 7470) end

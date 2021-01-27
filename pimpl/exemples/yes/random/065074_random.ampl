@@ -1,0 +1,1 @@
+program X : aJ : takes yBv0 : integer returns nothing bv4 : integer array; I, c, dn : integer; while - true and 90 : chillax end; while 912 : chillax end; output 85 . "" end main : let I2 = array - true rem 615 or Z[6]; do f(- false and true <= - (8), - J and 8, - 075 - 5 = 9860) end

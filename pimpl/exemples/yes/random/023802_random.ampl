@@ -1,0 +1,1 @@
+program o_1 : ZL : takes b, n4Y : boolean returns integer xY9 : integer array; chillax end _II0a : takes o : boolean array; _ : integer returns integer input Z[- 0]; input c28; while 2 : chillax end; output ""; while 16 : chillax end end JG : takes f9, l72aa : integer array returns integer chillax end main : e : integer array; chillax end

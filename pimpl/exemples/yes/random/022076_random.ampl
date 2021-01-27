@@ -1,0 +1,1 @@
+program k7 : ZR : takes J84a, x4 : boolean array returns nothing do M(- 3 and 30600 - 7 /= - 887, 15 - 585, 100, 938) end _0 : takes HT, F : boolean returns integer p : boolean array; let VGl0 = 6 end main : B, o, f, W, S, a, R : boolean; chillax end

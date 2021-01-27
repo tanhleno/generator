@@ -1,0 +1,1 @@
+program HS : F : takes W : boolean array; P4 : integer array returns nothing G, P4 : integer array; K, Q, w, Dv8 : boolean; p, p3, _I : boolean; mi, d2 : boolean; f : boolean; input W75a end main : do xK60(- uc(693) and 99 and true - false / (1) and 05700 < - s(8) * (10), - (4) + t1q and 35900, - true); while - false : chillax end end

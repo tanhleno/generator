@@ -1,0 +1,1 @@
+program IJ : d : takes zo5a : boolean; JV : boolean; F, Y, K, X : integer array returns boolean chillax end C1 : takes c : boolean returns nothing wMh, b, e2, z3 : boolean array; chillax end main : do H(dn3a <= - (4) or false and 2, - (23900) rem 92 or true); output - x2c0a + 7 /= - 1 . - 78900 /= 03 end

@@ -1,0 +1,1 @@
+program w : S : takes z, B : integer returns nothing chillax end k : takes U : boolean array returns integer array J : integer array; chillax end main : a, W7 : integer; while 0 / true rem false : chillax end; do zcj(- 964 and 05 and 7 - not 8 >= (821) or 0); when case - D91 >= - 57 - 4920 : chillax end end

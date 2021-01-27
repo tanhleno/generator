@@ -1,0 +1,1 @@
+program R : F : takes PRt, v, Z, S150a : integer array; Ji : boolean array; A7, H5k, H7 : integer array; Q : integer array; uD : integer array returns nothing do r(1); when case 8 - 3 <= 15 : chillax end case 1 = 38 : pop; pop end otherwise : when case 4 : chillax end; pop end; pop; pop end main : j : boolean array; chillax end

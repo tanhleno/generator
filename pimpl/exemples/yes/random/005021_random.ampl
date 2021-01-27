@@ -1,0 +1,1 @@
+program H : S : takes a, k, DR7, Nx : boolean array; Dw : boolean; g4Gaa : integer array; n4T, j, R, L, g : boolean returns nothing let X = array - 5 and 7750 - 0 end main : fpJ : integer array; uk, Q3, _, a : boolean array; x, z8x : boolean; c, sS, J, HLS : integer; chillax end

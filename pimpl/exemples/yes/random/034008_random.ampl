@@ -1,0 +1,1 @@
+program v : v : takes k : boolean; p, RpZ0, dC8 : integer; C6h, fP : integer; m : boolean array; X : boolean array returns nothing V4, D, o : boolean; chillax end Ee : takes R, Mc : boolean array returns integer G : boolean array; chillax end main : Z2Qa, P3o0 : boolean; _t0, M : integer array; input VlB[(92) * (1)] end

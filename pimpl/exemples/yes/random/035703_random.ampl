@@ -1,0 +1,1 @@
+program aX : y : takes x : boolean; J : boolean array; P7j0 : boolean; c, VPa0a : integer; y, k : boolean; P : boolean; u, u9 : boolean; H : boolean; P : boolean returns boolean array pop end main : VS40a : boolean array; Js70a : boolean array; dl, x : boolean array; Mjm, p88, gtoa : integer; output "CL" . - 57 + 2 - 781; output "tk" end

@@ -1,0 +1,1 @@
+program a83aa : main : t, Dz, b, y, y : boolean; x, N8, HLaa, i, f : integer array; TQ9a, goH : boolean; Y, b390, xA0aa : boolean array; FX, J3, We : integer array; ef, w : boolean; C5 : boolean; while false rem 8 and true - not not 67 : chillax end end

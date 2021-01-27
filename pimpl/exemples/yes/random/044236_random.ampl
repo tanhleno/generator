@@ -1,0 +1,1 @@
+program oR : J8 : takes f : boolean array returns nothing z, Bb80 : boolean array; chillax end main : T5 : boolean; o : integer array; z7_aa, C, hC1a : integer array; pop; let a480[- (45) - (77) - 7] = - 4 and 5 or 10 - 9 >= 41900 - 74; let Ny4aa = 2 - 9 <= 11; let U = array 5 end

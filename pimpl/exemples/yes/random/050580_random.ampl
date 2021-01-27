@@ -1,0 +1,1 @@
+program O : N9paa : takes A : integer; I, nNr0 : boolean array returns integer array f7_ : integer; ZU : integer array; A070 : boolean; do T22(- true > 768 - 0, 08 - 4, 4, 4, 17) end s6Eaa : takes lE9, z, N : boolean array returns nothing M, BH, ry : integer array; while 72000 - 9 /= 9 : chillax end; do L(2030) end main : mpaaa, jo : boolean array; chillax end

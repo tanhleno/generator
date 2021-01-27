@@ -1,0 +1,1 @@
+program zR : lK5 : takes t030a, Q1J, NS, B : integer array; luE0a : boolean; S : boolean; Sgc : integer returns nothing t : boolean array; while - J - 3 - 4 >= - 71 - 7 : chillax end end main : Ls4, O : boolean; yP : integer array; fB : boolean array; let s[652 rem not S2v and true and 4] = array - false; pop 6 >= 2; input tc60a; do iW(- 43100 - 5, 757 = 0050); output 2 end

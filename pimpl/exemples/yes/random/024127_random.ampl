@@ -1,0 +1,1 @@
+program D28 : X : takes jV, k : boolean returns nothing do rY3(true > 4 - 8); let o = 904; when case 00 = 944 : chillax end case 2020 : chillax end otherwise : pop end; while 3 : pop end; while 9 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program W : D : takes p : integer array; o : boolean array; I0pa : boolean returns nothing bS2a : integer; do a(not 54 + 7830 - 7) end main : x4, S, Xejaa : boolean array; ap10 : integer array; j, M, k : integer array; chillax end

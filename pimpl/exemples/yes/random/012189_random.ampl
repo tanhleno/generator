@@ -1,0 +1,1 @@
+program j : uClaa : takes D, te, r74 : boolean returns nothing o, A, L : boolean; chillax end iR : takes w : integer array returns nothing chillax end main : g1g, P : integer array; p : boolean; o, R0 : boolean; U : integer array; m, nB : boolean; while(5) : chillax end end

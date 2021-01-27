@@ -1,0 +1,1 @@
+program d : E : takes e0 : boolean; W : integer array; i : integer; G, Bi7 : integer; T, V : boolean returns boolean array output "" end main : do GbMaa(false or true); pop; when case - (4) and 0 < 98 - 5 : input p690a[1]; do b(9100); output "" end otherwise : chillax end; while - 9 = 5 : chillax end; input P3n0 end

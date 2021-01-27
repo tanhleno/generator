@@ -1,0 +1,1 @@
+program Q : sX : takes w, _1_aa : boolean array returns nothing Q, c, j, l : integer; chillax end hve0a : takes j, Q6r, R6, F62, F : integer returns nothing chillax end main : when case 4 * true - not Nms * false and 20800 + not 3 and 3 + 4 - 7 > - f[21] rem true and 9 or not 3 or 0 - 7 : while 70 <= 439 : do oT9(3); let A2 = 7410 end; input Xa80a end; input Ww end

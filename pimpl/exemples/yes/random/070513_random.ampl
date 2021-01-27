@@ -1,0 +1,1 @@
+program K : main : X55aa, Y, d, m : integer array; D : boolean; when case 3 / false : let v = 7 = 7 end case 33400 : when case 2 = 0 : chillax end case 63 : chillax end case 63 : chillax end otherwise : pop end; let Q = array 83; input _A7a end case not 738 : when case 1 : chillax end case 1 : chillax end end otherwise : chillax end end

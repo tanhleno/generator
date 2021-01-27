@@ -1,0 +1,1 @@
+program iW : ppxaa : takes Z, _X1aa, H : boolean array returns nothing chillax end t : takes s : boolean; nVV : integer; _ : integer; _2, DV2a : integer array returns nothing p, B10 : boolean array; t, Y : integer array; chillax end main : when case 7 or false rem(1) <= - not H + not 2 + 2 : chillax end end

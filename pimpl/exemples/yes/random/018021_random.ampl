@@ -1,0 +1,1 @@
+program C2 : _3 : takes W, UA30a : boolean; Qy : boolean returns integer output - 4 < 28 . "|8"; when case 20200 - 877 : chillax end otherwise : do q(9) end end main : b, N : integer array; i6W, mk : integer array; let u_1[(2710 = 01)] = array false or not mi / not 656; let wqf0 = array 8 + (167) and 6080 end

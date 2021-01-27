@@ -1,0 +1,1 @@
+program Q : pc : takes jYU0a : integer array; q0e, s, CDd, k, t60 : boolean returns integer array chillax end y6 : takes m : boolean array returns nothing W0 : boolean; let g = 4 = 02400; while 5 = 324 : input vt; pop end end main : chillax end

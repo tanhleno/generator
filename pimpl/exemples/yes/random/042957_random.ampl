@@ -1,0 +1,1 @@
+program s15 : G : takes m : boolean array returns integer chillax end z : takes MUh : integer array; Qf8 : boolean returns integer array u2U0 : boolean array; chillax end x9 : takes S4d, H, H3 : boolean array; E6 : boolean array; E : boolean returns integer array output "" end main : q : boolean; P : boolean array; chillax end

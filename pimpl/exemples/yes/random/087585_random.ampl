@@ -1,0 +1,1 @@
+program Y : main : VJ : integer array; when case PLm rem(1) - not(6) + 7 + 9 - 2 < true and false and 71 + 5860 : chillax end case S93 and not 87 <= - true + 8 - 7 : while 5 : chillax end end case - 4720 and 9 : let P[44] = array 3080; when case 48 : chillax end; output "" end case - 51 - 6 > 8 : chillax end; output - false end

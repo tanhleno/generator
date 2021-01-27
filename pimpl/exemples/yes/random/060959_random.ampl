@@ -1,0 +1,1 @@
+program ZW : eQ : takes O_6a : integer array returns nothing H : integer; chillax end o : takes Mt, g, U7t : boolean returns integer array chillax end M8Gaa : takes K0v0a, Ks, HNk : boolean returns nothing m, S : integer array; A1, jq40 : boolean; chillax end main : rbU, miC0a : integer; E9Q0a : boolean; m, k : boolean; chillax end

@@ -1,0 +1,1 @@
+program Ji0aa : D : takes g, m0 : boolean array; s4 : boolean; Dco0a : boolean array; P280 : integer returns nothing chillax end fk : takes V_ : integer array returns boolean array _Jqa, yW : integer array; chillax end main : chillax end

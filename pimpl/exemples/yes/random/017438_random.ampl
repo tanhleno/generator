@@ -1,0 +1,1 @@
+program v : E8 : takes z, yY : boolean; D, j : integer array; wX, P : boolean array; _, m : boolean; u : boolean array; tSv0, Yd50 : boolean returns boolean when case - (80) and 731 : chillax end otherwise : do h(991); input ct; pop end end ir5 : takes i00a : boolean array; C, r : integer array returns nothing let wz20a = array 5 - 7 end main : chillax end

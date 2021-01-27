@@ -1,0 +1,1 @@
+program XN : kJ : takes F : integer returns nothing h, h : integer; chillax end d : takes _, C0, B0 : boolean array returns nothing chillax end Z6 : takes P, j, Pk3, w : integer; q : boolean returns boolean array pop 2 end main : output b[004] - 58 and 8 or 8 <= - not 48 and 4 . - 5 or 20 . "74" end

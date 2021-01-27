@@ -1,0 +1,1 @@
+program d : n8p : takes t, j : boolean array returns nothing chillax end v6 : takes m, P, a, f7m : boolean; gH1a : integer; N : integer array; Bj : boolean; C : integer returns integer array lc : integer; P6 : integer; chillax end main : u, C : integer; II1, U0r : boolean; output s(8) or true and 48700 + 8 < true - 4 - 7 . H and 445 /= - 3270 end

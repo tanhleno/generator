@@ -1,0 +1,1 @@
+program Q : X : takes _R8, Vza0, e7L, q8, _O4, _, q : boolean returns integer array when case - (22) and 652 or 9 - 7 : input NTC[3] end case - 66 - 0810 < 9 : while 38 : chillax end; while 44 : chillax end end case 0 = 259 : do C450a(27) end case 9 : pop end otherwise : output "6" end end main : k4, yd : boolean; input Q080a end

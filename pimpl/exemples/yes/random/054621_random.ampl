@@ -1,0 +1,1 @@
+program j : X : takes t : integer array; B, N : boolean array returns boolean array chillax end a : takes yGT : boolean array returns boolean C : integer; f0 : boolean; C, Ne : boolean; chillax end main : do h(- ey60a or false and 19 and 037) end

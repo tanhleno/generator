@@ -1,0 +1,1 @@
+program z : W5 : takes w9, L : boolean returns nothing pO6aa, R, F : integer array; x0, zJaa, C : integer array; while not 2 and 44 >= 57 : chillax end; pop; do F(7, 2, 45); input _ end lx : takes L7q0, k1, w : boolean array; u : integer array returns nothing chillax end main : h : integer array; pop; pop; do m(- (3) + 9 < - 3 - 8, 1 - 3 >= 2) end

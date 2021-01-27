@@ -1,0 +1,1 @@
+program f31 : QO : takes S : integer; gC3aa, _ : boolean returns nothing D : integer array; chillax end _ : takes wf : boolean array returns nothing while - 777 : chillax end end main : c : boolean array; let iBAaa[- false or N(75) - (1570)] = - true / false + (579) and 588 <= (70) and 2 - 417; output "{a"; let X[- T10a + 70500] = array - not 0; do T(8 - 9) end

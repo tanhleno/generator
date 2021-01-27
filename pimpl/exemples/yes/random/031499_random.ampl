@@ -1,0 +1,1 @@
+program Z : JV6 : takes h1I, v : integer returns boolean do _(- true > - 4 - 3, - 3 - 9, 4 = 8, 6, 3) end _ : takes CL, S5, H, q, N : boolean; oPI, Ek, H, n0, N : integer array; TIq : boolean; L, j, K : boolean array returns integer array chillax end r : takes Z51, A, W : boolean array returns nothing X9 : integer array; chillax end main : chillax end

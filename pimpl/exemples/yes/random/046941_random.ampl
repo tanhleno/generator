@@ -1,0 +1,1 @@
+program yq0 : duta : takes X59 : boolean returns integer chillax end main : do r27a(- not not n > false / (585) and 25400 - R or 1 - 9); while - not not 9 - true - 3 >= (5) and 2 : input F1[0] end; do t09(true and 81 or 3, 2); pop; pop end

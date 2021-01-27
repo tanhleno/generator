@@ -1,0 +1,1 @@
+program a : MY : takes Vv70 : integer; c2 : integer array; n : integer; o : integer; O : integer array; z, f57a : integer; k : boolean returns nothing chillax end cK0 : takes d : boolean; I, ALd0a : boolean returns integer array input xkV[- 6 - 8]; do UGz(5) end main : v, y, F : integer array; chillax end

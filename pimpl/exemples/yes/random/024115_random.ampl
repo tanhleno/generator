@@ -1,0 +1,1 @@
+program R : g : takes lk, z0 : boolean returns nothing do bL(false and 1 + 5, 15200 - 4, 940, 1550); pop; let Qt[64] = array 64 end _N80 : takes H, z24, J, TC : integer array returns integer array let Xn7[0] = array 2 - 517; do r67aa(96600 = 5, 7); let R[71] = 1 end M29 : takes p, q, x, UW90a : integer returns nothing chillax end main : chillax end

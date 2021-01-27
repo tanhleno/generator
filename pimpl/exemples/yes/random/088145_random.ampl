@@ -1,0 +1,1 @@
+program A1raa : main : input W2; when case - not not 86 - true + 6 - 96 /= - false and 7 + 75 - 59 : output ""; pop; when case 5 : chillax end; do v0(499) end case - 4 + 44 /= 2 : chillax end otherwise : let e[76] = array 2810 end end

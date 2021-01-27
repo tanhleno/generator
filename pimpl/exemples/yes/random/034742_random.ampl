@@ -1,0 +1,1 @@
+program d : Q1 : takes DA : boolean; x5, t : boolean returns nothing when case - false and 7 : chillax end case - 96 - 3 > 8 : chillax end case 22 = 4 : chillax end; output 6 end main : x3, z, S : integer; do d17(RS2[5] or(5), - false * not 10 and 1810 or false and 4 - 59 - 7120); while(8) = - 3 or 64800 : let f3j = array 97; while 1 : pop end; output "" end end

@@ -1,0 +1,1 @@
+program Y : u : takes NM : boolean; q : integer array; Q1E, t : integer array returns boolean P : integer array; x2U0a : boolean array; O4 : integer array; when case true and 623 - 4 - 747 < 8 - 64000 : chillax end; do B(- 5990 /= 1, 64 = 7, 7690, 52500); pop 9; when case 6 : pop end otherwise : chillax end end main : chillax end

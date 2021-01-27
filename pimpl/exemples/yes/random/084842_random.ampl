@@ -1,0 +1,1 @@
+program B : main : F : integer; let x[71000 / false + (11) and true or false] = - 1 or false and 21200 + 31; when case - 82 rem not 4480 + not 28300 and 28 /= 5 or 2 - 54 : chillax end case - (3) - 48 : when case 868 : chillax end case 1 : chillax end otherwise : chillax end; while 6 : chillax end end otherwise : input _4[18] end end

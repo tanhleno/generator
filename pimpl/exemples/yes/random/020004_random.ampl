@@ -1,0 +1,1 @@
+program A : a : takes T9, Mu50 : boolean array; R : boolean array returns integer chillax end h : takes LD, y93a : integer; Bb0aa, oQM0, t, N, qh60a : integer; L18aa : integer; k : boolean returns nothing while 5 - 5 : chillax end; while 06 = 7 : pop; pop end; do K1(919); do ao(0) end main : input D9[- 3 * P3Y0[72] - false rem 8 - 1 + 15] end

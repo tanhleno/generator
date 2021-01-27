@@ -1,0 +1,1 @@
+program O : main : E : boolean; n : integer array; input E; when case false > - not 1 and 4 + 8 - 7 : while 5 : chillax end; while 2 : chillax end; let k = 57300; when case 051 : chillax end end case not 39 and 5 or 3060 > - 6 : chillax end case 6 - 59 = 2 : chillax end otherwise : chillax end; when case - not 76 and 723 : pop end otherwise : input t; pop; pop end end

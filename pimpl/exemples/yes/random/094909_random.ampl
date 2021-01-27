@@ -1,0 +1,1 @@
+program x0 : main : pop false / 7; when case - false - 663 and 30700 + 1 < o + 26 - 0 : chillax end case - 56 < 14 : output "5waa"; while 737 : chillax end; do w24aa(1); pop end case 43 : do Oy8(56900) end case 5 : do y34(02); pop end; while - not 2 and 5 < - 612 - 1 : chillax end; pop end

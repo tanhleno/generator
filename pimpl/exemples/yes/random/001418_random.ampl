@@ -1,0 +1,1 @@
+program G65 : g0La : takes r030, l0, t4, I7, s76, I : boolean array returns nothing chillax end O : takes m : integer array; e, v : boolean; hlt, N4Ga, z6G, d : boolean; U, o_ : boolean array returns nothing chillax end L : takes _3 : integer array returns boolean array chillax end main : while - false + 13 <= - 3 or false and 7 : let m[- 4070 - 4] = array 084 - 50 end end

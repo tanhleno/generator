@@ -1,0 +1,1 @@
+program g : c : takes P : boolean; fM : boolean array; g1 : boolean; li : integer; tSx : integer array returns nothing Pl5 : boolean; Fg : integer; chillax end main : nQ : boolean array; GPDa, oG40a : boolean array; R : boolean array; t7, w : boolean array; C : integer; e8 : boolean; pop J + true + 76 = - ASm + 1620; output "" end

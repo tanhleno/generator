@@ -1,0 +1,1 @@
+program Y6 : O : takes R, b, E, h : boolean; ukF0a : boolean array; C, v, N9, i1, H : boolean returns nothing chillax end main : output "" . - true and 28 - 9010 <= 37 - 88 . "" . 54600 = 2 . ""; input L_7aa; let gt6 = array urR and 3; while 2 - 7 >= 2 : chillax end; pop; while 320 : chillax end; pop end

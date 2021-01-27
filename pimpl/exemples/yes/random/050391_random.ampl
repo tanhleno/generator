@@ -1,0 +1,1 @@
+program R7 : cZ : takes o56 : integer; J, W : boolean; t : boolean returns integer array do Ix(not 3 or 2150 - 1 < 1210) end main : U, N07 : integer array; while - false <= - (4) : while - 6 - 609 : chillax end end end

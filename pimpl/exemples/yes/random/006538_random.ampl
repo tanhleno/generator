@@ -1,0 +1,1 @@
+program u7 : i : takes Bw, a5za, c, u : integer; __, y : integer returns nothing I1, e : boolean array; chillax end r : takes DN : integer array; k : integer array returns integer array A : boolean array; input Qi10a[- 08 - 26]; while 9 = 9 : input x end end g : takes l1 : boolean returns boolean b8 : boolean array; chillax end main : chillax end

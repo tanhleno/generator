@@ -1,0 +1,1 @@
+program Y1 : v : takes L : boolean returns nothing while - (8) and 16 or 9 - 6 : let Z8taa = 8; input idi; when case 74 : chillax end end; pop 0 = 12; let w = 42; pop 6; while 4070 : chillax end end main : let k5B = - 2070; input ys5a[- 50 rem 1] end

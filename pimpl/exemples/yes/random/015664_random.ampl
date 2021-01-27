@@ -1,0 +1,1 @@
+program gmM : f : takes K4a, c2D, f3aa : integer returns boolean array chillax end main : T770a, B, rr : integer; while - false rem not not 1 / true /= false * 889 and 7 - false : do x(6) end; when case false < c2 and 6 + 6 : when case 9790 = 3 : chillax end end otherwise : do d(615, 9560); while 25 : chillax end; do t(6) end; input xw20[- false]; let x[9 - 5580] = 55 end

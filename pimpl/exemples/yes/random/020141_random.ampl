@@ -1,0 +1,1 @@
+program B : dZ : takes b3N0a, Hu : boolean array; JS8a : boolean returns integer array v53, i : integer; C : integer array; Uy : boolean; chillax end Qt : takes KuP, n, D : integer array returns boolean tSr, i : boolean array; chillax end main : l45, q, s, N, q : boolean; a, I6p : boolean; gA7 : boolean; Q3, G, Us, i3 : integer; let xO = - 9 rem true end

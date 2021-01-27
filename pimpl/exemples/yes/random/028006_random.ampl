@@ -1,0 +1,1 @@
+program kX : m1s : takes a0, ufB0a : integer array; Qx1, T560a : integer array returns nothing chillax end rG : takes d, J : boolean array; Q : integer array returns boolean chillax end m4Z : takes R : boolean array returns integer array z : integer; chillax end main : uW : integer; P : integer array; chillax end

@@ -1,0 +1,1 @@
+program H : LX1 : takes jL, m : integer array; N : boolean; N : integer array returns boolean array chillax end nd : takes n : integer array; m5 : boolean returns nothing X, j : boolean array; m : boolean array; U0e0a, a : boolean; chillax end main : pR : integer array; output "P\n"; let J = - F > - 436 - 6 end

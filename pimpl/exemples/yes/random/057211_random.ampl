@@ -1,0 +1,1 @@
+program Ph : DLq : takes z : integer array; i : integer array returns nothing chillax end I570a : takes W : integer array returns integer array Fs3aa, d35 : integer array; i : boolean array; l : boolean; sN : boolean; chillax end main : q, dKB : integer array; chillax end

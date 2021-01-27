@@ -1,0 +1,1 @@
+program Yk7 : y : takes SZ : boolean array; u : boolean returns boolean array l, R : boolean; z8z : boolean array; when case - kv : chillax end; input p[- 80300 - 8220]; let ni80a[4] = array 893; when case 14600 : chillax end end main : chillax end

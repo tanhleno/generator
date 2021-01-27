@@ -1,0 +1,1 @@
+program cS : main : while - 5 and not false and not 1 - (5) : chillax end; when case not true / not 4 and 88 or false > not 657 and 4 + 62 - 1560 : chillax end case true and 9 >= - 85 - 1 : do D59aa(3); input Q; while 97 : chillax end; pop end case - 1 <= 15 : pop end otherwise : chillax end end

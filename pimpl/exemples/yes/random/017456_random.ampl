@@ -1,0 +1,1 @@
+program u : XR1 : takes o9, RO_0a : boolean; npD0a, R : integer array; H8 : boolean; q, f : boolean returns boolean array chillax end main : k : boolean array; G, _2Laa : integer; input F; pop - not 399 and 8 or 4; pop 52300 - 85 <= 45; do x(9 < 15, 7) end

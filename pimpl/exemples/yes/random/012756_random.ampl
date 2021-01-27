@@ -1,0 +1,1 @@
+program H2 : L42a : takes y, n, e : integer; V9, D, Q : integer array; dz3, P7 : boolean array; n, c : integer returns integer chillax end main : j : boolean array; Jx6, f38 : boolean; while(4) + true rem not 6 and 07 - a or 4 : let Ll[- 1] = array - 6 end end

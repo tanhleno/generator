@@ -1,0 +1,1 @@
+program ww8 : main : j : boolean array; m : boolean; when case - 6 - not not 5 / true : output 74 = 18 . "" . 3; pop 7; output 7 . "\t\\"; do D(31) end case(1) - true - 8 : chillax end otherwise : let h3[2] = array 22; while 20 : chillax end; pop; do T(4) end; do d(- false - M3d /= false and 92 + 1 - 5); do Q(- 1 or 0 - 7 = - 060) end

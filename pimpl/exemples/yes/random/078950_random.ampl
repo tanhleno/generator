@@ -1,0 +1,1 @@
+program v6_aa : main : k6 : boolean; u, z : boolean array; when case not false and false / (1) /= true or true - 644 : input WIb0[161]; pop 836 end case 8 / true + true : pop 6690 end; while - false and l6l + true and 087 - 71000 : chillax end end

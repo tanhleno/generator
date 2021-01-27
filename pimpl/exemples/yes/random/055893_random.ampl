@@ -1,0 +1,1 @@
+program Vn : t2 : takes Fa50a : integer array; Q : boolean array; B : boolean returns boolean A1 : boolean; yy6, o : integer array; output 78 <= 14700 . 8 = 8 end Lu : takes q300a : boolean array returns integer p, n5, d3f, o1k : integer; Q : boolean; do N(00100, 0, 6, 0) end main : chillax end

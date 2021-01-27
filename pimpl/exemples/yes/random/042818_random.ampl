@@ -1,0 +1,1 @@
+program b : r : takes VDV0a : boolean array returns integer array let B[not 24800 + 3] = array - 344 + 831 - 9; while 24700 - 4 > 4 : chillax end end main : j, e8, R9 : integer; do z87(- T[6] rem false); input U[(3600) and(535) and 2 or false and 82 - 79 - 1] end

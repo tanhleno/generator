@@ -1,0 +1,1 @@
+program h67 : wu7aa : takes G : boolean; c1 : boolean returns nothing KJB0 : integer array; chillax end a2 : takes M : boolean array; N : integer array returns nothing I : integer array; chillax end kY : takes fU8, b65, D : boolean array; zR : boolean; q, n : boolean; W : boolean returns integer array input q[09]; input U43aa end main : chillax end

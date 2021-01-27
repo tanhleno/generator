@@ -1,0 +1,1 @@
+program l : main : O9, u, H7 : boolean; do f(005 + Sp(0)); when case(58) - true + 9 - 30 : do Pf1a(53); do B(2, 9); while 20 : chillax end end case false and 6 >= 5 - 6 : let I[204] = array 569 end end

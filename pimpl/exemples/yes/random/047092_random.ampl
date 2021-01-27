@@ -1,0 +1,1 @@
+program T : j6q : takes i4 : boolean returns integer SC, B : boolean array; A3Fa, dG : integer; O, r, J5 : boolean array; output 99 <= 35 end main : PQi, tGI, v0Ga, hn2aa : integer array; D : boolean array; l : integer array; n, p6 : boolean array; chillax end

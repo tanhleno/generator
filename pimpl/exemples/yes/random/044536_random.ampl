@@ -1,0 +1,1 @@
+program P5 : R : takes nFD0a : boolean array returns nothing T2 : boolean array; chillax end b : takes Od4, r, jf : boolean array; Q : boolean array returns integer S, h : boolean array; chillax end main : Uk, A, G, Q7 : boolean array; tk, V : integer; do o(false rem 3 rem 221 or false / true and 1 or(9) and 5 + 2 - 2800) end

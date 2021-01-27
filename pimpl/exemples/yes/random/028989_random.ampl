@@ -1,0 +1,1 @@
+program g : I1 : takes U, CH : integer array; D : integer array returns nothing chillax end z2Aaa : takes _, f9d0, t74, o : boolean array returns nothing pop 7; output "B" . 0 . "" end d : takes g, D7saa, ze30a, m : integer returns nothing T, m : integer array; do Yx(6510, 72) end main : chillax end

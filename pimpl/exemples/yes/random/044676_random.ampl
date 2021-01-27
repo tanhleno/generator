@@ -1,0 +1,1 @@
+program Qy : m : takes F : boolean array returns nothing hO : integer; chillax end m36aa : takes a : integer returns nothing chillax end r : takes r, iA : integer array returns nothing do J(9 = 83, 9, 1); while 88100 : pop end end main : input B end

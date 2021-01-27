@@ -1,0 +1,1 @@
+program wv5 : d : takes c70, F, c, kK3aa : boolean array; j, T7Vaa, E : boolean; p : boolean array returns integer bQ60, gYr, R2U, f, m : integer; input T9taa end main : Mi3a : boolean; let hi2 = true rem false and 1 + P0 and 30 + 9 - 77 = true and 7 - 8 - 84; while not i / (9) : do s97(6 = 1, 9440, 9) end; pop; pop; do Y(9 = 7); while 49100 : pop end end

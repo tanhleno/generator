@@ -1,0 +1,1 @@
+program M : v : takes WN, Y8Ta : boolean array; l, M2N : integer returns nothing chillax end tI : takes n, d, i7 : boolean array returns nothing d, v6N, h7 : integer; x, jp : boolean array; chillax end Y3 : takes f, U9 : integer returns integer input jG[6930]; pop 43 end main : Y7, y : integer array; chillax end

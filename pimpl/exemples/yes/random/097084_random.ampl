@@ -1,0 +1,1 @@
+program m : main : when case i7 or(65900) / y : while 3450 - 3 : chillax end end case 507 or true and 60 or 5 /= - (3130) - 5290 - 1 : chillax end case - true and 1 <= 92 - 993 : chillax end; do N(- true - not 2 <= (45) and 0 + 76 - 0) end

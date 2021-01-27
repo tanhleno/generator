@@ -1,0 +1,1 @@
+program d : r6 : takes P : boolean array; T8 : integer array; G0y : integer returns integer array chillax end main : let g[not not not 300 rem(5) or true] = 65; when case not 9 < false and 12 : output "2?" . "7" end otherwise : output ""; let B = 67 end end

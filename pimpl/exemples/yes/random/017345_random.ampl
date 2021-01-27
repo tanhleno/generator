@@ -1,0 +1,1 @@
+program E08a : d6zaa : takes oi, k1 : boolean; E, j : boolean returns nothing y, vr : boolean array; y8, k, C : integer; XO : integer array; chillax end KZQ : takes R, cLU, v2, ng : integer array; a : boolean returns integer array let x = array - 7 - 4 end main : chillax end

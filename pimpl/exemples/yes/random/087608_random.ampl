@@ -1,0 +1,1 @@
+program Q5 : main : hDV : integer array; when case 60 and false : input U[- 1]; when case 8 : chillax end; pop; do ezf0a(3); when case 35900 : chillax end; pop end case 9 and 89 and 896 : when case 4 : chillax end; output 07; input i; output "" end otherwise : input h3[7]; output "}" . "X`\"" end end

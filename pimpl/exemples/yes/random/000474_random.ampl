@@ -1,0 +1,1 @@
+program bt : n4 : takes CH, x4, l, l1T, b4maa, B, O, n : integer array returns nothing P : integer array; do N3(- 75 - 5 - 8, 632 - 180 <= 07100, 3 = 6) end iA : takes G, L19 : boolean array returns nothing when case - 1 <= 4 : output "" end case 5 = 57 : chillax end case 0 : pop end end main : chillax end

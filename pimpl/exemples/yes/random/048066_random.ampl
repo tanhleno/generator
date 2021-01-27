@@ -1,0 +1,1 @@
+program C : y2K : takes f44 : boolean returns nothing Vo, k4, iS90a : integer array; p, H0 : integer; chillax end TvW : takes Ra3a : boolean; Kf : boolean returns boolean chillax end main : Our : integer array; while(6 = 6) : chillax end end

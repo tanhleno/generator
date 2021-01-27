@@ -1,0 +1,1 @@
+program _ : main : when case 3 and(7) + E[7670] < - false : pop 0920; let p[36200] = 8150 end case false and(3) or true and 92 + 70 - 194 >= - 20 and 32 : pop; when case 8 : chillax end case 23 : chillax end otherwise : chillax end end end

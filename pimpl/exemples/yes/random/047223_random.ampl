@@ -1,0 +1,1 @@
+program X : a : takes T : boolean returns integer B : integer array; chillax end o : takes s : boolean returns nothing KhN0, mH00a, o, S : integer; y, z : integer; input h end main : do tD(- M[93] / not not 9 * (9) >= 89 - not 0 and 4230) end

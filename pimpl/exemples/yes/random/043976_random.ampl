@@ -1,0 +1,1 @@
+program Q : j : takes Q6Ma : boolean array returns nothing t5, Q, J4, FI, B6 : integer array; cT1, A : boolean array; A, w : boolean; a : boolean; pop; output 105 . 34 end TA : takes Q3 : integer returns nothing K, S : integer; x : boolean; chillax end main : Y : integer; output "\\" . bK or 26 > 52 - 8 end

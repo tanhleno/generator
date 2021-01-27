@@ -1,0 +1,1 @@
+program d7 : Q : takes h : integer array; o : integer array; cIcaa : integer returns integer when case true and 0 + 7 >= 2 - 60700 : input m0[6]; do R(86) end; do jiBaa(- 068); output 7 end main : chillax end

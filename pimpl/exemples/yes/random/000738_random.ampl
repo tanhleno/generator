@@ -1,0 +1,1 @@
+program R : eO : takes M, M120, WRg, Im, f1, n, wvK : boolean array returns nothing let F2[(63) + 4 - 7] = array - not 99500 and 002; do x(74 - 90, 32, 29, 3); do r29(9 = 71); output "" . "" end main : chillax end

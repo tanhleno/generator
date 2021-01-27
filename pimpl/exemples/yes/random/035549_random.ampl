@@ -1,0 +1,1 @@
+program P : n : takes A0 : boolean; K4ea : boolean; jvda : integer array returns integer array when case(5) : let F[369] = 5; pop; output "fgaa"; pop end case 1 > 5 : chillax end end main : L, J : boolean; b : boolean; let V = array not(6); while not 7 and false and 8 - (5) or 1 - 1 : when case 7090 : chillax end otherwise : chillax end end end

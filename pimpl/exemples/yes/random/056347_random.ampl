@@ -1,0 +1,1 @@
+program p : mT2 : takes g : integer array; B8 : boolean returns integer F, u_V, C8, s7, _ : boolean; b : boolean; while - false and 74000 or 55 - 0 > - 2 : input r[94] end; pop; while 6900 : chillax end end L : takes aI, W0V : boolean; dB5, Y : boolean returns integer array chillax end main : N, n0, i, QvC, F, m : boolean; chillax end

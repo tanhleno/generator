@@ -1,0 +1,1 @@
+program k4P : d78a : takes r, AVa : integer array returns nothing t : boolean array; KJ, h : boolean; while(0) and 98 - 8 - 61 /= 72 - 28 : when case 75 : pop end case 252 : chillax end end end main : chillax end

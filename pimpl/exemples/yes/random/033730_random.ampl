@@ -1,0 +1,1 @@
+program HU3 : z : takes F3a0a : boolean; d, C0, W, D : integer returns nothing let P[- 8 or 6360 - 79] = 92 - 07; when case - 35 - 3 >= 1 : pop end; let U[0240] = 1 end main : s : integer; sy, _410a : boolean array; output "" . - (7) and 97; while - q63(167) * false > true or 533 : chillax end; while - true - 1 - 99700 = 8 - 7 : chillax end; input aAMa[10 - 7]; do l(34 = 0) end

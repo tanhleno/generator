@@ -1,0 +1,1 @@
+program E78a : j : takes O, L : integer array returns nothing chillax end main : let L[false or false + (1) and 29400] = array - (3 = 51100) or true * false and 6; pop not 2 and 264; pop - 146 - 2090 = 3 end

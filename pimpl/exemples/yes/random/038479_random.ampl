@@ -1,0 +1,1 @@
+program U : r : takes i62 : boolean array; s0, Y : boolean; A5wa, q : boolean; F1 : boolean; I9, u1, I4, _X : integer array returns nothing qP, Ct, AQ : integer; k : boolean array; chillax end g : takes n : boolean array; oVM : integer array; r7, l, z, g8O, j : boolean array; e, S : integer array returns boolean array R, kDq, NU : boolean; input Y[36 - 5] end main : chillax end

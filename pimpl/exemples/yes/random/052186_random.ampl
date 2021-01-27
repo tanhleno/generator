@@ -1,0 +1,1 @@
+program B : _4 : takes XFA : integer; c : boolean returns integer array chillax end main : y, q2 : boolean; do Y((27500 = 1740), ce rem not 5 and 5 /= (9), false and 0 or 742 - 07 > 4270); let A8 = - hD - 421 - 4 = 0 - 943; pop end

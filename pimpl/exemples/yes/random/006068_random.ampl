@@ -1,0 +1,1 @@
+program vV9 : F : takes V, gT, hq, mn : boolean returns nothing chillax end Z : takes IPa, __y, pd, Y, Gp7a : boolean array; CY : integer returns nothing chillax end main : do lM2a(- 571 - not(59) and FGU0); input C[- D - 9 - 2]; when case - 1 and 5 - 2 : pop 77; let h = 8; let c = 0190; pop end end

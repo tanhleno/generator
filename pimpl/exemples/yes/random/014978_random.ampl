@@ -1,0 +1,1 @@
+program X : F : takes Sa, T, f6n : integer array returns integer array o4 : integer array; let m4[- 07 and 5440 - 5 - 30500] = array - false + 27; while - 34 - 0420 : chillax end; do S52(28 = 08100, 9, 6300); output 6 end main : let p240[(9 = 9)] = - true / (43) + not 3 or 4 >= - true or 6 - 9; pop; output ""; input R[689] end

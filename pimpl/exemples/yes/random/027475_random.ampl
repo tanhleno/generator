@@ -1,0 +1,1 @@
+program S : X9I : takes NI5aa, V : integer array; q, J9, u_9 : integer array; BH6aa, _, S : boolean array; S, X, Um60a, M : boolean array returns nothing Q, _ : boolean array; x3 : boolean array; AyT, l6 : boolean array; IJ, B : boolean; chillax end main : Y, E : boolean array; while - z * u - false - GS1 and 2 : chillax end end

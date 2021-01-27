@@ -1,0 +1,1 @@
+program l5 : p98a : takes Gq : integer; Fx, r, L, R4 : boolean; f43, g, O : boolean array; V3, Ead, T8A, F3 : boolean returns nothing pop end main : M, O, B : boolean; uK : boolean; let H = false or 8 > - true or 5 - 33; input cY; do A(- not 6 - 9 >= 29 - 04); let R4 = array 5 - 4; do UQ3a(005, 9, 96) end

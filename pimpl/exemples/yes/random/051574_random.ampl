@@ -1,0 +1,1 @@
+program t9 : V : takes q : integer; p3 : boolean array; a, r, l6i, D, Q, r : integer; B : integer returns nothing P1, V : boolean; a : boolean; yc2 : boolean; output "`" . 4 = 7 . 64 . "" . ""; while - 13 >= 54 : do d8(6); do BK(5); pop end end u1 : takes iL, K, c : integer returns integer sn : boolean; chillax end main : chillax end

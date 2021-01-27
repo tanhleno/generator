@@ -1,0 +1,1 @@
+program e : main : Eh5aa : boolean array; when case 2210 + 79600 : while 17 : chillax end; when case 7 = 55 : chillax end case 7 : chillax end; pop 1 end case - 2 and true < - not 1 and 7680 + 2 - 474 : chillax end case P8 and 02 <= 77 - 1 : chillax end otherwise : while 95 : when case 6 : chillax end end; input C[0] end end

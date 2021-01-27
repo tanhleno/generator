@@ -1,0 +1,1 @@
+program Sw_0a : K : takes Dk : boolean array returns nothing while - (61) or 724 : chillax end; pop; output "" . 1 end Tu00 : takes C : boolean; C7 : integer array; I, L : boolean array; xI : boolean returns boolean array chillax end main : W, XFY, F : integer; l, c, OFl, o39, X7, k5 : boolean; chillax end

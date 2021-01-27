@@ -1,0 +1,1 @@
+program K : I : takes J1 : integer; F, y2 : integer returns nothing chillax end O : takes q : boolean array returns boolean array R, m3, x07aa : integer array; output "z" . 1 end main : r : boolean array; output - not false and false and 79 + xI and 9 or 583 - 95100; let S8[n rem true and 11300] = array false; input C8[- (75)] end

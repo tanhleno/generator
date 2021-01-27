@@ -1,0 +1,1 @@
+program H2 : main : y : boolean array; when case not true / (3710) / not 53100 < - true / false : chillax end case not N or true + 94 : pop 2 end otherwise : chillax end; input V[false / p and 17] end

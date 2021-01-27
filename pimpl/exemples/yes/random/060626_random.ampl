@@ -1,0 +1,1 @@
+program zm : t11 : takes uHYa : integer array returns nothing S5, R : integer; when case - (83) : while 818 : chillax end; input wX8; output ""; pop end case 04600 > 5 : chillax end case 2 = 32000 : when case 78 : chillax end end case 1 : chillax end case 84 : chillax end end main : uun, QM, X : integer array; nQY : boolean array; chillax end

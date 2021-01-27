@@ -1,0 +1,1 @@
+program LP : NCRa : takes O : integer array returns boolean input p4; pop; do j(68) end k : takes Kzba : boolean array returns nothing chillax end U1 : takes W3 : boolean array; t : integer returns boolean output 8 . 0890 . "Q]aa" end main : F, g : integer array; C, J, z, G9Y : boolean; chillax end

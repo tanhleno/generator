@@ -1,0 +1,1 @@
+program u7Sa : xZt : takes j : boolean returns nothing z, b, Q, B85, i7 : integer array; do T(2390 and 2 = - 73 - 966, 44 - 73 > 0, 5, 69800, 9) end x : takes z : boolean returns nothing oC80, c3, hM : integer; do fQ(- 34600 - 6, 60 = 268, 2) end main : wl60a, P : boolean array; W, V, m : integer array; let RIza = - 3 >= true - 3 - 9; output - e or 6 >= - 2; pop - 7 - 7 end

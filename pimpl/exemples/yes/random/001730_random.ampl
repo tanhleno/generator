@@ -1,0 +1,1 @@
+program L : M16 : takes stP0a, n62, x, UI, OU3, J : integer array; e, sV, V, JR4, S : integer; g4, h : boolean returns nothing let j4R0a = array 0 and 4070; let WiB0a[3 - 29] = 14900 = 9210 end z : takes c, m, p, cK5 : boolean; B8 : boolean returns nothing chillax end main : chillax end

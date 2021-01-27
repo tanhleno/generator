@@ -1,0 +1,1 @@
+program q : main : Y : integer array; R, D : integer; ec3, mnT0 : integer; when case(9 = 49) - not false / not 9 - true : do s6(- 3); input e end case true and not 33000 and 47100 /= not 43 : chillax end end

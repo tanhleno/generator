@@ -1,0 +1,1 @@
+program M : G : takes I : boolean; u81 : integer array returns nothing chillax end _020a : takes t, D, c : boolean returns boolean pF, JD : boolean; C940 : integer; d : boolean; while 3 - 088 > 9 : pop; input V8 end; output "" . "\n" end k : takes JR, K_A : integer array returns integer chillax end main : let R24 = not(534) - not 8 - 53 - 66 end

@@ -1,0 +1,1 @@
+program E : main : N11, FV0, r4 : boolean array; X, v, xwv0 : integer; while - not not not 2 * false + true /= not(0) : while 3 - 49 : do m(24); do Y(2250) end end; output ""; while - not 8 : chillax end end

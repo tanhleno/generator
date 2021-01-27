@@ -1,0 +1,1 @@
+program g : q3Xaa : takes s : integer array; A4, l : integer array returns boolean TW2 : boolean array; chillax end p : takes v : integer; C : integer array; V : integer; w : integer array returns boolean array output "\\~\"a" . "*\t0a"; while 258 = 25 : do kw(8160) end end main : r : integer array; T, Y6, r, ut, Z9n0a, Fi : boolean array; let L = true or 21 - 74 - 5540 end

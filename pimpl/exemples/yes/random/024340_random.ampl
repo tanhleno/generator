@@ -1,0 +1,1 @@
+program p : M : takes t9, w : boolean returns nothing es5, D1 : integer; P : boolean; let VM5 = array - false and 9; when case - 67 <= 39 : chillax end case 6 = 7 : pop end case 72 : chillax end otherwise : input o end end main : AzB, vvGa, q, l2Pa : boolean; A, N4 : boolean; pop - false < 3540 and 9 or 50 - 6 end

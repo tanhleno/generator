@@ -1,0 +1,1 @@
+program e : main : S7, I6 : integer array; when case - not(783) and 4 rem not 86 and 4 + not 86300 - 9 - 6 : input CCt; let o[1] = 48; output 7; output "9"; while 9 : chillax end end case - (4) = false and 1350 : output 4660 . "\"3aa"; let E[7] = array 7; pop; input Eoo; pop end; input h[not true + not 86700 and 3 or 0 - 42] end

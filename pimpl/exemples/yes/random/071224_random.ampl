@@ -1,0 +1,1 @@
+program a5 : main : f_, WD, I1aaa : boolean; output not t and not 8 and 9 - (34) and 94 + 3 >= C4p or 0 - 355 . ",8!a" . "I0" . 4 = 1 . "" . "1\n"; pop; when case false and 51 - 6 <= - 473 - 4 : let W[0210] = array 2 end; when case - 55700 - 75800 : chillax end case 5 = 99400 : pop end case 0640 : pop end case 35 : chillax end end

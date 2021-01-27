@@ -1,0 +1,1 @@
+program o0 : h24 : takes v, Io, c, J : integer; J : boolean array; et, cE, R0p, sur, z, Y : integer returns integer array chillax end Mz80 : takes ZT, t, Zl, b, _, OD, J : integer returns nothing D, omC0a : integer; B, A7G : boolean array; L : boolean; chillax end main : chillax end

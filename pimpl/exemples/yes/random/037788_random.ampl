@@ -1,0 +1,1 @@
+program rg80a : u82 : takes s78 : boolean array; R, _1, G5, Kx3a : boolean array returns nothing when case v4 and 1 : chillax end case - 7410 - 1 > 701 : chillax end otherwise : output "}<!"; pop end; output "\\x"; while 363 : pop; pop end end main : _5 : boolean array; pop - false / not 42000 < 8 end

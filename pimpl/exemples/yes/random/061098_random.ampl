@@ -1,0 +1,1 @@
+program x : d : takes m : integer array returns nothing JB8 : integer array; chillax end main : ge : boolean; ps2 : boolean; while - true * 0 * (7) and 91 - n[97500] : output ""; let l8[89] = array 11 end; when case(3) / m3 <= 732 : pop end case true >= 21 : pop end case 37 : chillax end end

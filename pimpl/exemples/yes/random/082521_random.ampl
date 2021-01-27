@@ -1,0 +1,1 @@
+program q : main : Xf : boolean array; output "\\"; let C[- (1) / 4 and 2] = array 6 * false and 40 or false and 07; when case mk and 5 + 07 : when case 7 : chillax end case 75 : chillax end otherwise : chillax end; when case 4 : chillax end; do R03(38) end otherwise : chillax end; input G920a; output "" end

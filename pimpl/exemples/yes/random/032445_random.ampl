@@ -1,0 +1,1 @@
+program Z : p1 : takes m, E4 : integer returns nothing do O54(true < 7 - 84, - 94 - 6); input B[- 7840 - 5220] end main : M, Mt1aa, M : integer array; H, Ig, I1h : integer; output "" . "" . - 17 <= 269; pop false and 4 >= - 2 end

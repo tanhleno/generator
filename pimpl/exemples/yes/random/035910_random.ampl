@@ -1,0 +1,1 @@
+program r : z : takes H_ : boolean; PWp : boolean array returns integer array m7, e, td, c : integer array; LDLaa, H, dJ6 : integer; chillax end Bk : takes Xz60a : integer returns integer array f8c0 : integer; chillax end E5l0a : takes LpH, Ajkaa, E : integer array returns nothing chillax end main : C9 : integer; output "|" end

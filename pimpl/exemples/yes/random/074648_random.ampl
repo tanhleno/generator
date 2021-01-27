@@ -1,0 +1,1 @@
+program g : main : y, yZH : boolean array; v0, j, M3, x : boolean array; when case(517 = 8920) and not not 6 rem not 4 <= - oT(1) : while - 93000 - 8 /= 59 : chillax end end; let Nk5 = array true + ak5 and 9; input y[false] end

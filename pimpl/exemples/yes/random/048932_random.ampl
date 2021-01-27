@@ -1,0 +1,1 @@
+program S : mBq0 : takes zP : boolean returns nothing let Y_5a[(44) - 2 - 00] = 3 >= 8; while 1 : output "" end end main : when case - false * false = 8 rem false : chillax end case true and 8 or not 72 and 589 - 9 - 8600 : chillax end case false : chillax end case - 0 - 5480 : pop end otherwise : chillax end; input b end

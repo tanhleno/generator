@@ -1,0 +1,1 @@
+program Xf : D : takes x, w, aHBaa, z, MV5 : boolean returns integer array o, Q5 : integer array; chillax end main : input k; do J(not not 2 rem 98 or bP8a and 238 + 62800 > - (78) - 3, 43); when case - (4) : chillax end otherwise : chillax end; pop end

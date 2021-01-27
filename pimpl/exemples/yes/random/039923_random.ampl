@@ -1,0 +1,1 @@
+program Mq : R8 : takes t : boolean array; J : boolean array; X5n0a : integer; W, q : integer; z : integer array; F1l : boolean array returns integer z3, i : boolean; Y4 : boolean array; s, uK : integer; let u6J0 = array - K and 2 or 7 end gTYa : takes R, Q : boolean array returns integer cM : integer array; O : boolean array; chillax end main : chillax end

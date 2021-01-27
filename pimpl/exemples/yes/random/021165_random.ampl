@@ -1,0 +1,1 @@
+program P : c : takes v, W650 : boolean array returns boolean v : integer; g, A, m20, yE6a : boolean array; input LA; let q[- 98] = 11; pop 55; while 7 : pop end; let Z5Z0a = 2; when case 0300 : chillax end end main : O, i, rl, w, w25 : boolean; O, Te : integer array; W : integer; d0 : boolean; F : boolean; chillax end

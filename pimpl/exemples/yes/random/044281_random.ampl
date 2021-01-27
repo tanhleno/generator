@@ -1,0 +1,1 @@
+program DMq : vB : takes J : boolean array returns nothing f, O : boolean array; input l[- true + 9]; pop; output ""; output "\t"; pop; input cTK0a; pop end main : output "si" . - true and 90 = - 71400 . 52 . 8210 . "7i" end

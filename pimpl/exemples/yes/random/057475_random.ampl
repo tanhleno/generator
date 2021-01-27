@@ -1,0 +1,1 @@
+program T : jR : takes K : integer array; Z : integer returns nothing l, U, t, z, o : boolean array; do ZjZ0a((7) + 1 = 29) end main : GA : boolean; A3, c : boolean array; do l(true * 7 * true or true rem true and 2 /= - false rem not 480 and 1 or not 8 + 94400) end

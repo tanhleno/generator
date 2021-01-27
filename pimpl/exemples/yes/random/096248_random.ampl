@@ -1,0 +1,1 @@
+program k : main : when case - not not false rem a4[4] - true - C + 2 : chillax end case - Xd * w and 2 <= - true : chillax end case true and 1 < 8 - 78 : when case 4 : chillax end otherwise : chillax end; input Y5Y; input lM8aa end otherwise : pop 3580; let F = 8; let x = 6 end; input F; output "" end

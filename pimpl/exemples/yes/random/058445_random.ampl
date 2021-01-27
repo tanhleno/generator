@@ -1,0 +1,1 @@
+program x : i : takes u1 : integer array returns boolean B6haa : integer array; input p; input r end main : while 23 + 57 / true and 1 : chillax end; do apo(- true / not 2 or not 6 and 7040 or 0); do Jf(3810, - 12 > 9, 83, 42) end

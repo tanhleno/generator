@@ -1,0 +1,1 @@
+program UEt : j : takes V, t, z : boolean; c : integer returns nothing chillax end G1 : takes _ : integer returns nothing chillax end U : takes T : boolean returns integer array B19, L, u : boolean array; j33, n : boolean; chillax end main : chillax end

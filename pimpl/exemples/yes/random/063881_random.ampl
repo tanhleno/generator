@@ -1,0 +1,1 @@
+program G : O : takes B4M0a : integer returns nothing chillax end main : k, gk6aa, Z, A7, wfv : integer; do P(not false / true + B rem 2310 /= - not(0) or 4, - true * false or(4) <= - (5) and 01, (3) = 8660 - 9); input s0[- not(56) rem(10700) and 20] end

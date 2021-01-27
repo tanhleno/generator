@@ -1,0 +1,1 @@
+program UGx : main : _A, H5J0 : integer; while(9 = 20) / 7 or true rem 82 and 1 /= - QS[8] : input vF1[272]; do D(8) end; when case - not not 504 / false and 4 + (4) /= - true : chillax end case true > - 40 - 82 : chillax end case - 8 <= 74 : when case 08 : chillax end; input T4E end otherwise : chillax end end

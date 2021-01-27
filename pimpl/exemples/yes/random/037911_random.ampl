@@ -1,0 +1,1 @@
+program w : _ : takes D6laa : boolean array; _, S92aa, N, Y : integer returns boolean array chillax end YrE : takes cd : integer; o : integer returns boolean eJ : boolean array; chillax end H : takes M, o4 : boolean returns nothing chillax end main : let o1[- false] = array true / (6) end

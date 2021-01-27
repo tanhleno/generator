@@ -1,0 +1,1 @@
+program I640a : y : takes U : integer array returns boolean array T : integer; m, r6, l7m : boolean array; when case - (10) and 4000 = - 9910 : chillax end case 85 : output "\t\""; output "6" end case 6 = 29 : chillax end case 51 : chillax end otherwise : chillax end; while 5 : output ""; pop; pop end end main : p, i, l1 : boolean array; K : boolean array; chillax end

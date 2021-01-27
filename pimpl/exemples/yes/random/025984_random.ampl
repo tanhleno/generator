@@ -1,0 +1,1 @@
+program L2h : Y : takes X, ya80 : integer; h3H : boolean; L, s, k4, I : boolean array returns boolean z, yYF0 : boolean array; M, W : integer array; MCX : integer; input MRO end zLw0a : takes H : boolean; E : integer returns nothing output ""; pop end main : chillax end

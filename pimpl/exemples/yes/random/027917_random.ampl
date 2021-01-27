@@ -1,0 +1,1 @@
+program W : PFR0 : takes Wt, l31 : integer array; x, w30 : integer array; tK6a, B, kO : boolean array; T4, E9taa, P080 : boolean array; V98, dK8aa : boolean returns boolean array r8 : boolean array; fP2 : integer array; h : boolean array; input sd end V0 : takes yP, NS2, w, B : integer; _, O, x : integer array returns boolean array chillax end main : chillax end

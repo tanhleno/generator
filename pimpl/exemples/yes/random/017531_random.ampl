@@ -1,0 +1,1 @@
+program UK1aa : e : takes W, XcB : boolean; nP, QE : integer array returns nothing V69 : boolean array; M, bW : integer array; z : integer array; t, Z8 : boolean; a8Q : boolean; let C7[- true or 5 - 2140] = - 158 >= 67; while 1 : while 37 : chillax end end end main : I6 : boolean; chillax end

@@ -1,0 +1,1 @@
+program N : main : N7Na : boolean; Z, rQ : boolean array; output "\"" . - 2 + 8 >= 9; pop; when case false and 8 : chillax end case - 5 : when case 3330 : chillax end; pop end case 533 : output "" end; input N3; let Y[4] = array 246 end

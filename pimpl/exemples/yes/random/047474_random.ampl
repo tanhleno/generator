@@ -1,0 +1,1 @@
+program X6 : xi : takes L6 : boolean returns nothing chillax end v : takes g64, jQ : integer array returns nothing chillax end main : r, T : boolean array; let m7[- S(749, 7) * (8)] = - (86400) / 49 and 6 + 22 and 8 > not 4 and 64 end

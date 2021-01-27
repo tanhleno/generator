@@ -1,0 +1,1 @@
+program A95 : K8 : takes x, PqNaa, x390, Q350a, m5G0 : integer; L : integer; I5, c0 : boolean; sq1, Zz, F1, J : integer returns integer while - false + 8820 : let t[8] = 5 end; pop 05 end main : pop end

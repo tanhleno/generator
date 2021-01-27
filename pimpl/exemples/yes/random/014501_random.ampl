@@ -1,0 +1,1 @@
+program Qb : gO5aa : takes p, G, A : integer array; L : integer array returns boolean array L, E6 : boolean; output "8" . "" . ""; pop end E : takes i : integer returns nothing chillax end main : Cd : boolean; pop - false end

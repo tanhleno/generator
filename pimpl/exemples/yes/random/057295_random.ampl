@@ -1,0 +1,1 @@
+program kR50a : t250 : takes I3r0a : integer array; X2 : integer array returns nothing input lg; output ""; pop end main : when case - false + false >= - false : do e8(- 87900, 56); when case 2 = 17 : do D(16600) end end otherwise : chillax end end

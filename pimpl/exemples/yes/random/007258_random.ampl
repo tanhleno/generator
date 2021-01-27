@@ -1,0 +1,1 @@
+program U : k6 : takes n, N2, d, h8 : integer array; c88 : integer; s : integer returns boolean input gw[- false and 426 - 1020] end mYSa : takes P, x, o, RA : boolean; L, y : boolean; ubm0a : boolean array returns nothing chillax end main : c, Y, n : integer; chillax end

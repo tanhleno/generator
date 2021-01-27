@@ -1,0 +1,1 @@
+program nF50 : E : takes i : integer array; GO, o : integer array returns nothing while not 9 + 3 : let k[2] = array 65 end; input T end main : C : integer array; r, I1 : boolean; v34a : integer array; input G end

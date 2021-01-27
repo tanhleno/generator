@@ -1,0 +1,1 @@
+program d7 : r : takes A : boolean; B8p : boolean; _2, U, N, w : boolean array returns nothing U : integer; chillax end T : takes BM, R, f, d : integer; P, zSa : boolean; F, HDU : boolean returns integer array chillax end main : _980a : integer; Y : boolean array; y4, K8 : integer; e, w, K2, ijW : boolean array; pop not true - false end

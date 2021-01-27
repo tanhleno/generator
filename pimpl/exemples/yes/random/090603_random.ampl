@@ -1,0 +1,1 @@
+program E9E0a : main : let c2[(2 = 279)] = false / false or(410) or 4 <= - not 204; when case true or 16 and 8 + 848 - 9700 >= not 310 : chillax end case true and 62 <= - 66700 : chillax end otherwise : chillax end end

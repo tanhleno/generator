@@ -1,0 +1,1 @@
+program L : X : takes e : boolean array returns nothing T8, X6 : boolean; U1, q : integer array; H, s5, B : integer array; input t; input K3h end main : h, Nx, Hu80 : integer; i : boolean array; let Ut = array - 85 / false * not 07; output "h" . "}" end

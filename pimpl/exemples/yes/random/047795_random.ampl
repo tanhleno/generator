@@ -1,0 +1,1 @@
+program E : V : takes n8 : boolean returns nothing do v(- W6 and 32 - 80 - 0 <= 8 - 91200, 0620); let e[2] = 2 end S6 : takes e, aK, Rw : integer array; T, V, Bg, P, I : boolean array; rv : boolean returns boolean lt : integer; q74, sm8a : boolean array; mx, A42a : boolean; while - 0 - 3 /= 844 : chillax end; do G(68) end main : chillax end

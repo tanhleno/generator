@@ -1,0 +1,1 @@
+program U : t : takes Zu2aa, t : integer array; L : boolean array returns boolean M, B, m : integer; HGQ : integer array; chillax end main : do B(- xN80 - false * true and 0990 /= 952 + true + 6 - 9, - not true + false /= (85200) and 8 - 38 - 5, - (4260) and 9, 4 <= 448) end

@@ -1,0 +1,1 @@
+program R6 : wR3 : takes K : integer array; K, AN : boolean; S : integer; KEo : boolean; V : integer array; Wh, T, yE : boolean array returns integer bY7a : boolean; let y[(9)] = array not 62600 and 010; output "" . "" end main : chillax end

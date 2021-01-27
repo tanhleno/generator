@@ -1,0 +1,1 @@
+program B : T : takes z9J0a : boolean; z9, i : integer returns integer array pop 21700 - 2 > 6; output 68 = 7; do hx(3); let f = array 236; pop; do G0l(4) end main : k, J : integer; let Jm = array - 17 - not(5) rem not 172 and 946; pop 1 /= 01 - 55; input k7[- (27100) and 9] end

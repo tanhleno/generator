@@ -1,0 +1,1 @@
+program BpI : yd : takes k : integer returns nothing when case - x + 77 - 134 : output 38 end otherwise : pop; input j; pop end end Cu8 : takes g : boolean returns boolean array do b(34 - 7 < 8250) end main : while false / (911) + 5670 - not 8 and 0 >= - false : input J; output 4 . "6\t"; do YZw0(0, 9); do R(23400) end; output "1\n0a" end

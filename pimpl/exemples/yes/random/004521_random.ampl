@@ -1,0 +1,1 @@
+program x : L7C : takes j, Tb, bd, BJq0 : boolean; LB : boolean array; ua : integer array returns nothing SH6, Eu90, Jt : integer array; when case - x > - 2920 : chillax end end nl8 : takes Y, O, mv8a : integer returns integer pop end main : let ml = array true end

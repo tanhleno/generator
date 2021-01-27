@@ -1,0 +1,1 @@
+program I : h : takes Y9 : boolean; Qbo, i4, Q : integer array returns nothing chillax end Zb : takes R, d6 : integer array returns nothing when case - 30 /= 2 : pop; do XG(1); pop end case 628 : let x = 4950; pop end case 1 : chillax end case 72 : chillax end otherwise : chillax end; output ""; while 2 : chillax end end main : chillax end

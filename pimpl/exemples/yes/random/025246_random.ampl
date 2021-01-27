@@ -1,0 +1,1 @@
+program FZe : S5 : takes Uh, ikhaa : integer; F, e, a : boolean array returns nothing tO, o : boolean array; chillax end main : do qG((2 = 8) + (7) or true and 51, true rem false and 9 >= true or 1 - 40200) end

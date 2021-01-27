@@ -1,0 +1,1 @@
+program v : F2Caa : takes V, ax : integer; l100 : integer array; xO4a : integer array; l58, Y7h, G, G : boolean returns nothing chillax end B : takes O : boolean array returns nothing f, Ps, Z : integer array; UIZ, t, J : boolean array; pop 708 = 0; let j[62800] = 15400 end J : takes r : boolean returns integer chillax end main : Qb, y_, q2e : integer; chillax end

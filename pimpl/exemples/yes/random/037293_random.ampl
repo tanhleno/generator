@@ -1,0 +1,1 @@
+program C : JOw : takes fIN : boolean; DLv : integer returns integer w : integer array; chillax end main : L9u, q9 : boolean array; x8Ya, H : boolean; s, O5 : integer array; UrO, j, N8, nYgaa : boolean array; fU, m : integer array; chillax end

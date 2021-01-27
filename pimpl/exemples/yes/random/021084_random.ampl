@@ -1,0 +1,1 @@
+program T : F8 : takes P, h : boolean array returns boolean V, UT, zB : boolean; u : integer array; r, w, m7l : boolean; R2, VVcaa : boolean; output - 1 - 4 > 5 . "" . 9; input Yd[3980] end main : when case - Zx[2] / (2) >= - not not 0 : chillax end case false / not 2 and 95700 - false <= - not 96 : output "h'\"" . "6" . "" end end

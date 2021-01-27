@@ -1,0 +1,1 @@
+program d : x : takes P, L : boolean; H9, V : boolean array; S7, g, J, Y : boolean returns boolean output - 6 < 30 . 6 = 4 . 31300; output ""; while 94700 : input ku end; input b end r1 : takes T9Jaa : integer array returns nothing do _(1 - 4, 6 = 79, 6, 3) end main : chillax end

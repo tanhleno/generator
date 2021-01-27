@@ -1,0 +1,1 @@
+program GwM : main : output(3) / false and 9; when case false : when case 00800 : chillax end otherwise : pop end; output 946 . "\\"; pop; input M; pop end case - true - 843 : when case 9 : pop end; while 6 : chillax end end case 7 : chillax end end

@@ -1,0 +1,1 @@
+program t : U3 : takes n5wa : boolean; i, G, sA, vWOa : boolean array returns boolean I5g : integer array; output 98; while 87 - 44 = 0 : chillax end; let VK[706] = 69 end main : pop; while false rem E5 and 25 < - not 3 and 6 + 1 : chillax end end

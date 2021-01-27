@@ -1,0 +1,1 @@
+program C2m : x5 : takes o88a : integer array; E : integer; N, y1, oD9 : boolean; nmD, S, J0E0a, S, Or : integer returns nothing Wp1aa : integer; let k = array 5 end main : fOg : boolean array; A86a : boolean array; wu : integer array; chillax end

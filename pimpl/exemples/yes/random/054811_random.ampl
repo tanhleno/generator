@@ -1,0 +1,1 @@
+program U : EVy : takes A4h0a : integer array; d, YS : boolean returns integer array L : boolean; V, N, E, R : boolean array; when case - 5 and 5 : let _ = array 69; while 8 : chillax end end otherwise : output "" end; pop 78; let Y540[8] = array 62 end P : takes l : boolean array returns nothing chillax end main : l, UO : integer array; pop end

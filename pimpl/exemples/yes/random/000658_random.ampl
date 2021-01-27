@@ -1,0 +1,1 @@
+program T : gE : takes P, s9M, M, S, P6, lx, v : boolean array; HTC0 : boolean array; c5, h8 : boolean; Q, j : integer; H2Fa : boolean array returns nothing Q, u, vA : integer; chillax end main : when case - false : input M; let S[05] = 75; let X6t0a = 5 end otherwise : chillax end end

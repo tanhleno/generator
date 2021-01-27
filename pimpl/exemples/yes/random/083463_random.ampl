@@ -1,0 +1,1 @@
+program O : main : y4 : integer; I5, qb, i4 : integer array; e : boolean; do K(- false - not(4) + true, - not h / J and 4 + false and 16 - 901 - 1 >= false, true < - 321 - 55, 76 - 38, 57 = 13900) end

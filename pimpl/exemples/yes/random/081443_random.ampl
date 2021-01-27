@@ -1,0 +1,1 @@
+program mU : main : gcK : boolean array; ey, Y : integer array; f, R : integer; g : boolean array; E, tow0a, P : integer array; while - (4 = 41) and s39(6) - not 9 <= 955 + not 6400 : chillax end; while(5) and true - pT2 <= h4Daa and 4 : chillax end; output "" end

@@ -1,0 +1,1 @@
+program B : sRka : takes N : integer array; OE6, D : integer array returns nothing T, m1o0a, Ye7a : boolean; chillax end l : takes X7, QSa, bJ, f : integer array returns boolean array k, J : boolean; pop end w : takes gP : integer; s : boolean array returns nothing I : boolean; while 8 = 9 : chillax end end main : chillax end

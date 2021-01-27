@@ -1,0 +1,1 @@
+program w : W9Da : takes b, r, d : integer array returns nothing d07 : boolean; pop - 201 - 52; input h; pop; output "\n" . "" end main : X, xl : boolean array; while - 4 and 503 / false and 186 or false + (7650) and 73500 + 9 - 6 : chillax end end

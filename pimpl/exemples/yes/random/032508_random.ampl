@@ -1,0 +1,1 @@
+program _480a : y1 : takes z2_, y : integer returns nothing Y, m, Brl0a, hx1 : integer; o : boolean; d, t09aa : integer array; V : boolean; I0n0a : boolean; chillax end q1 : takes E6P : boolean returns boolean array let f = 436 = 6; when case 4 = 5 : do U(1); pop end case 78 : chillax end case 70 : chillax end; do fzEa(5, 21) end main : chillax end

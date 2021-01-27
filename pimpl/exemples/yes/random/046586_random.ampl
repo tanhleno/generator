@@ -1,0 +1,1 @@
+program F : A : takes _ : boolean returns integer array q, ak : boolean; U : integer array; chillax end main : L5 : boolean array; while false rem 7 + true and true and 8730 = - LH and not 0 : chillax end end

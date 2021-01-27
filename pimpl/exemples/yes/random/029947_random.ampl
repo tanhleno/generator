@@ -1,0 +1,1 @@
+program e : v3f0 : takes ol, Jz : integer array returns integer chillax end tTb : takes u : boolean array returns integer chillax end w2 : takes C, J60 : integer; Gl5 : boolean array; C5 : boolean returns integer do q3Taa(5 = 1660) end main : G, Q : boolean; input t01aa[- z52[9] - z rem not 724 and 8660 + not 68 and 25 + 1 - 1360] end

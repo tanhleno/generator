@@ -1,0 +1,1 @@
+program P : K : takes T : boolean; y, R : integer array returns integer output 0 = 77 . 31 . 3 end Fi : takes D : boolean returns integer array t : boolean array; qF, wi : boolean array; input q end main : chillax end

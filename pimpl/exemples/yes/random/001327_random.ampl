@@ -1,0 +1,1 @@
+program I8 : vc : takes Y, nF, Q, q6, JX00, z : boolean array; l43 : integer array; tj8, w0 : boolean array; f, g : integer array; kDma, N32 : boolean returns nothing when case - 52 and 95 = - 94 : chillax end otherwise : chillax end end main : while u89aa(6) or false : when case - 23 < 90600 : input l6 end otherwise : input ej8aa end end end

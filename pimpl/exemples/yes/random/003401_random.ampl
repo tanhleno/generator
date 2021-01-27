@@ -1,0 +1,1 @@
+program p5 : cJIa : takes j, I, x5v, J5, y05 : integer array; p, G, N6, M : boolean returns boolean array n : boolean array; H : boolean array; Qf, S8sa, X8 : integer array; let I = 5310 end X2 : takes eMQ0 : integer array returns nothing Q9, c_60 : integer array; nN : boolean; let iJs = array 4 - 6 end main : pQ4a, u : integer; chillax end

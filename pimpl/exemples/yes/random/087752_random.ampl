@@ -1,0 +1,1 @@
+program s6Taa : main : qs1aa : integer array; while true rem(8) / 828 or false and not 9 >= - not not 4 * true + g8E - 854 - 8610 : when case - 98 = 7 : chillax end case 1 : when case 3 : chillax end end case 3 : chillax end end; when case - true and 507 and 7 or false and 54 : input f end end

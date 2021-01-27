@@ -1,0 +1,1 @@
+program Q : main : ug90 : integer array; MG : integer; B, C : integer; when case GNR[8] or R[4] : let zP60a[- 957 - 33] = array - 1; output 0 end otherwise : chillax end; pop 9 + 633; do tw((41) or 590 = - 7) end

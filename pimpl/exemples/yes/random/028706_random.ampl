@@ -1,0 +1,1 @@
+program G4 : sS : takes DA, Lc : integer array; S : integer; g8, X : integer returns integer Y : integer array; chillax end main : J, Q, VzR, z, m, d : integer; let I = (60) * false and 4920 < true and 6 end

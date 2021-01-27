@@ -1,0 +1,1 @@
+program s6 : w6 : takes s, f : integer array; Rgkaa : boolean returns boolean array mS : boolean array; A, b, r : integer; chillax end main : when case - true <= false / T8G and 149 or(21) or 9 : chillax end case S[495] / not 1 > not 7 : chillax end case - not 838 and 58 - 4 > - 1 - 3 : do Y(45) end otherwise : chillax end end

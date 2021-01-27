@@ -1,0 +1,1 @@
+program X5 : f : takes p : boolean returns nothing y0i0 : boolean; chillax end c : takes SP5aa : integer; w8 : boolean array; b : boolean array returns nothing while - 420 - 9 <= 7 : chillax end; let s06 = 9 end M0 : takes S5, k, t : boolean array; I : boolean array returns integer array chillax end main : chillax end

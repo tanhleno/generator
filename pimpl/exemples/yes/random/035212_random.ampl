@@ -1,0 +1,1 @@
+program D3 : b : takes p : boolean; B2, i : integer returns integer array when case true or 79 - 29 : chillax end otherwise : chillax end end S13 : takes s : integer returns boolean array chillax end W : takes f, k_ : boolean returns nothing q : integer array; chillax end main : a : boolean; output "" . "8" . "" . 8 = 74 . 1 . 3 . "" end

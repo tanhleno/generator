@@ -1,0 +1,1 @@
+program L8 : c8s : takes f : boolean returns nothing v, D5, N, j, R : boolean array; let x1[true] = - 7 - 27 end XR7 : takes I : integer; ONA, q3 : integer; F2y : boolean array; _980, g25, U : boolean returns nothing d, n9, N : boolean array; when case 61 - 9 : chillax end otherwise : chillax end; input Stk end main : let y = 2 <= - not 6 and 4 end

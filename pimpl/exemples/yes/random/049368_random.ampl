@@ -1,0 +1,1 @@
+program H : K50a : takes m : integer; Q, Rl, yN, l, bM : boolean; Y : boolean; n, y : boolean returns nothing ik : boolean; let W = array - false and 0 + 4; input P; input X1[2] end main : do W(- not E / true <= 7 / m8d or Q, - true >= - 69 and 251, true >= - 6) end

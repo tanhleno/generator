@@ -1,0 +1,1 @@
+program Gzj : main : Oz4 : boolean array; input J[- Mff rem false and NDb and 0]; while 4220 <= not 3 : when case 38 : chillax end; while 2 : pop end end; when case - Un < 1 : pop end otherwise : input Hz; do Ll(0) end; output 380 . "" . "" . "\\"; input l[5] end

@@ -1,0 +1,1 @@
+program B70 : n : takes _5S0a, X6, P : boolean; H2 : boolean array; L9 : integer; x : integer; v3 : boolean; frY0a, j : integer returns integer Z, Y, swN, Z, CS1 : integer array; Fk, j95, u : integer array; v : integer array; chillax end main : X : integer; NN, X, H3, f, w, b : boolean array; pop end

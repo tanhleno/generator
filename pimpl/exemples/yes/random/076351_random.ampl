@@ -1,0 +1,1 @@
+program i1 : main : k, P : integer; UT70a : boolean array; b6 : boolean; E26 : boolean; do O(A2 = - true, 04 or(9700) - 04 = 5 and 00, - true > - 5 - 643, - 706 - 2250, 7 = 1, 6, 2); do S(- _(5) rem 697 and 0 or false or 8 - 48) end

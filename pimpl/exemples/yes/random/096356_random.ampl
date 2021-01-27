@@ -1,0 +1,1 @@
+program h : main : when case - 2110 * not false - true / w - bL or 4 = not x or not 4 and 75400 - 37700 : chillax end case false * false >= - (920) + 9 : pop 5 end otherwise : chillax end; when case - false - r1 or 55 - 2 : do RW(6 = 109, 2, 3) end otherwise : input yq; let M = 0; let H6k0a = 44 end; when case - (62400) or 0 : input S[2] end end

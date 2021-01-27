@@ -1,0 +1,1 @@
+program F : main : cY, kEaa, H, l7K : integer array; R : boolean; ndt0 : boolean array; when case - (3) / (03200) : let T = 9; do L5(77 = 8); do p66(90500) end case 8 rem false and 4 or false >= - 7 and 4 : let E = array 478; input U; while 0 : chillax end end; let l[not 4 and f] = Jn /= 264 end

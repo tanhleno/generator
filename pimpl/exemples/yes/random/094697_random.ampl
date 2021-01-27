@@ -1,0 +1,1 @@
+program w : main : pop; when case(95) or(9) and 7 : output 52 . 1920; when case 5 : pop end case 537 : chillax end otherwise : chillax end; pop; input T; pop end; let E9[- 41600 - 4] = array - true; output "&\"" . "" . "\n\"0a" . "\t\taa" end

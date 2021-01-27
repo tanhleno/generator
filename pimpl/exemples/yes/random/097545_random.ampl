@@ -1,0 +1,1 @@
+program h : main : when case true * true * 7 = - not true - true : do a(- 534 - 13 < 9, 1 = 50, 0, 6690) end case - o(80) - (1) and 6 : output 3 . "" . "G:!a" end case - 7 and 7900 or 3 : output "" end otherwise : when case 9 : chillax end case 1 : chillax end otherwise : pop end; let pV[5620] = array 1; output ""; input n end end

@@ -1,0 +1,1 @@
+program n710 : P7 : takes W, i, Fx0a : boolean array returns integer array chillax end main : b12aa : boolean array; L : integer; N4faa : integer array; while - p / 0 rem O /= - false / B17 : pop end end

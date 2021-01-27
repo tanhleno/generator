@@ -1,0 +1,1 @@
+program b5 : b : takes d, N3, l, S, r, _, l51, s : boolean returns nothing j : integer; pop - 562 - 1 /= 0 end Qvk0a : takes X, LO4 : integer array; J : integer returns nothing while 15 : output ""; when case 4 : chillax end end end hMS : takes _ : integer; p4, hH : boolean array returns boolean chillax end main : chillax end

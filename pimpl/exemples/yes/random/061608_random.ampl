@@ -1,0 +1,1 @@
+program m : rf : takes u6N : integer array returns nothing while - (7) /= - 6 : while 59 : pop end; input W end end L : takes n, R : boolean array returns boolean let O[1 - 2] = array - 29 end main : j : boolean; j1G, u : boolean array; when case - true * 51 + (4420) / (577) and 003 or true : pop 9 end end

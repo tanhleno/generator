@@ -1,0 +1,1 @@
+program F : main : Nq0 : boolean array; when case - not 49 and not true / true and 01 + (1) <= (0) and not 38 and 5 : pop 7 = 195; let a = 21200; pop; pop end otherwise : pop 1; let g[6] = array 52; pop; do gA(8); pop end end

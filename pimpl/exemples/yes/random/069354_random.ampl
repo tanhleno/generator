@@ -1,0 +1,1 @@
+program v7 : main : S, B, c, w28 : boolean; do RxOaa(false = - not false / Ry - false, K / false and 9 or M > - (43500)); let v[- true * false + false + 42600] = array L(2) * hR2 and 42 - 6740; output "\t\n0" . "\t9" . 32 end

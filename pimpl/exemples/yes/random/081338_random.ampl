@@ -1,0 +1,1 @@
+program p : main : iYr : boolean array; BA, u : boolean array; while - not(263) - 3 * not 40 - 01100 and 2 - 557 - 2 > (72500) : chillax end; when case - (4) - 053 and 9 < true and 95000 : chillax end case P : chillax end otherwise : chillax end; pop - 66 - 08 end

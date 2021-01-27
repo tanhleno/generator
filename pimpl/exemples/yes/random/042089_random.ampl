@@ -1,0 +1,1 @@
+program b7Pa : A2 : takes X : boolean array returns boolean V, j1, W : integer; i, B : boolean array; chillax end main : d, B : boolean; Pf, iB : boolean; m : integer array; E, R : boolean array; chillax end

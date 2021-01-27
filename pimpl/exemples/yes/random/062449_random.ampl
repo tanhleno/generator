@@ -1,0 +1,1 @@
+program p : c : takes o8g : integer returns boolean Yb : boolean; chillax end V : takes o : boolean array; L, sB10a : integer array returns boolean x, r, Q : boolean; d, J, je : boolean; chillax end l5 : takes O : boolean returns nothing chillax end main : let f = array(736) and(2); output - k . 40600; let x9y[- true and 3 - 5] = - 8 - 2 < 2 end

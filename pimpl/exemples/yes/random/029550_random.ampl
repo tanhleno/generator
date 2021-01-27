@@ -1,0 +1,1 @@
+program Z : s : takes kvI0, qV : integer array returns boolean U, gVG : integer array; kA, eIV0 : integer array; pop 6570 - 4; input CQ20a end rS : takes S, d, P81, C : integer array; KL70a, x : boolean returns nothing pop end main : chillax end

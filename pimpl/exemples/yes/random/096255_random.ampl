@@ -1,0 +1,1 @@
+program n : main : when case - not not 16 rem 5 / true and 9 : input e[- 72600]; do o(05 = 5); let Ux = 17; when case 3 : chillax end; let e = 01 end case 9 / true : while 330 = 2 : chillax end end end

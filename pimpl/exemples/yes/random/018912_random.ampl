@@ -1,0 +1,1 @@
+program v5 : c : takes DpS, V : boolean array; cU, S, A5 : boolean array; d : integer array; P : boolean; w7, z, w : boolean array returns boolean chillax end main : ksP0a : integer; d3F0 : integer; gw : boolean array; chillax end

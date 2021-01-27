@@ -1,0 +1,1 @@
+program sk : Hi : takes z6J, FV1 : integer array; Z, QhO : integer array returns integer array cT : boolean; pop - 3 - 7; when case - 1 : do i(3); let v = 3 end case 05 = 9 : chillax end; let e3 = array 49 end d : takes yi3a, y, F : integer array; WO : boolean returns nothing chillax end main : Cb : boolean; chillax end

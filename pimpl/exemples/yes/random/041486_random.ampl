@@ -1,0 +1,1 @@
+program H : D : takes C : boolean array returns boolean array chillax end OG : takes pac : integer; D1, B51 : integer; Y : integer array returns nothing when case 6 - 2 : input X4wa end case 6 : input G9; pop end end main : chillax end

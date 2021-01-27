@@ -1,0 +1,1 @@
+program ZFnaa : lR4a : takes gn9, r : boolean returns boolean array when case - 29300 : when case 243 : pop end case 27 : chillax end end otherwise : do fu(0); do WY4(1); pop end end main : pop; let _x[- not(3100) * (5) and 86] = - false and 0 - 2 - 3 end

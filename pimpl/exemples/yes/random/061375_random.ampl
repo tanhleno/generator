@@ -1,0 +1,1 @@
+program dvq0a : a75 : takes l6 : integer array returns nothing output 0 >= 2 . "7" end main : e7, A510, q : boolean; B6, v, ov, G2O, F, L : boolean array; e : boolean array; W0 : integer; while - S(4) + false : when case - 5 - 6 : chillax end case 2 = 7 : chillax end case 271 : pop end case 82 : chillax end otherwise : output "3" end end end

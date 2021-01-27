@@ -1,0 +1,1 @@
+program _F1aa : M : takes _n6, __ : integer returns boolean array while 3 >= - 9 - 0 : input Q end end main : input n3; pop - not 7 and 03 or 9; when case - not 1 or 983 = 25 : chillax end case 5 = 05 : output ""; pop; pop end case 0060 = 19700 : chillax end case 951 : pop end; pop; when case 8 : input RG; pop end case 37 : chillax end case 3 : chillax end end

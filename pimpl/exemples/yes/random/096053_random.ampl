@@ -1,0 +1,1 @@
+program R1k : main : when case - M[6] / false /= (7) / G + true and 1590 : output "" end; when case not W * true and 99100 : chillax end otherwise : chillax end; when case - 59 and 176 : when case 732 : pop end case 8 : chillax end end case 30400 > 97 : while 9 : chillax end; pop end case 7790 = 7 : when case 87 : chillax end; pop end; when case 8 : chillax end end

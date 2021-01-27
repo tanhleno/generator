@@ -1,0 +1,1 @@
+program CC5a : hl : takes sHV : integer array returns nothing chillax end Z6 : takes i, Ts : integer returns boolean array FU, r180a, R8s0a, ipa0a : integer; vs : integer array; chillax end main : chillax end

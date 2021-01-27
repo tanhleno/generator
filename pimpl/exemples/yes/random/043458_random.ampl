@@ -1,0 +1,1 @@
+program wc : s670a : takes y85 : boolean array returns nothing chillax end O360 : takes e, a2, Fc70 : integer array returns integer input z[- 8 - 1440]; output 8 . "\n" . "}"; do B(47) end main : pop; input x23[(2)] end

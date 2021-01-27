@@ -1,0 +1,1 @@
+program L : main : _D, G : integer; a2 : integer; when case(9 = 6) or false or(49) /= Gk(0) or true and 2 : input ik[7] end case - not W * (78) : when case 37 : chillax end case 4770 : pop end case 840 : chillax end otherwise : pop end; input C[3] end otherwise : pop 9390 end end

@@ -1,0 +1,1 @@
+program WmCaa : Q : takes nIb, c, S6h, f : boolean array; u2 : integer; x : boolean array returns integer chillax end main : T50, P5g, W, o, N7 : integer array; S, S7, u : boolean; pop - true and 91 and 0 or false or 84 < true; input O; let yz7[- lHt] = - 14 <= 207 end

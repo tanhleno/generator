@@ -1,0 +1,1 @@
+program b : main : do sIq0(- (198 = 0) and 717 /= - false + true - 84100); when case - not 0150 : chillax end case Cy <= 821 : chillax end otherwise : chillax end; let Jz5aa[not 7 and 9 - 31] = array 35 + 660 - 7; do Cg(38 - 57 /= 1990, 492, 8); pop; while 631 : pop end end

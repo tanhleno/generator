@@ -1,0 +1,1 @@
+program K : U : takes C, qJ : integer; dJF0, B6B, x : boolean returns integer pop end U : takes Xt, pUu, j1 : boolean; o6, w : boolean array returns nothing V, y48aa, p80 : boolean; do Vd(8 - 1 <= 1); input WT end main : output 3 and(0670) < - 407 . "w" . "" . "" end

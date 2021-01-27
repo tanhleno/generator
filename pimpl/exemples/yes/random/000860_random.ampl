@@ -1,0 +1,1 @@
+program iC4 : D6 : takes B, hY, O61, Lz, s, o9, yQ : integer; a5M0a : integer returns nothing chillax end g : takes W : boolean returns nothing when case - 505 - 57 > 54 : chillax end case 5 : let bY = 610; pop end case 67200 : chillax end otherwise : chillax end end main : U930, t, p5, I : integer array; chillax end

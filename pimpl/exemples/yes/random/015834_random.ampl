@@ -1,0 +1,1 @@
+program T : N : takes Y, S, d : integer returns boolean Z : boolean array; m, s : boolean array; chillax end xR : takes y, mzE : boolean array returns boolean array output 2 = 84; do r(9 = 00, 7, 80) end main : i : integer array; chillax end

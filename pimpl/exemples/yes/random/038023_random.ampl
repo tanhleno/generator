@@ -1,0 +1,1 @@
+program Z : f : takes S7 : boolean array; S, b, f : boolean array; e, E, Z : integer returns boolean array when case false < 47000 - 8390 : chillax end; input W5[- 9] end main : v, JA : boolean array; e, Z : integer; do k(false + false /= - false and e); input Z; do Skp0(- (8) and 962 - 9 /= - 9 - 93, - 5370 - 4 >= 1) end

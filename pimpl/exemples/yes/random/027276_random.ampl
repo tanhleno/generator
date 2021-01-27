@@ -1,0 +1,1 @@
+program X : x0 : takes e, m3Z0a : integer array; y, vm90a, W, B : integer array returns integer p : integer array; nswa : integer; input o; input i; let n7[39] = 3; do b(1, 7); while 0 : chillax end end main : chillax end

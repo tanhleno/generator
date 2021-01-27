@@ -1,0 +1,1 @@
+program H : T : takes L92, D, n1q0, v : integer; CC, FS : integer returns boolean array M : boolean array; chillax end b : takes Mg, g5 : boolean array returns boolean array chillax end l : takes q : integer returns nothing do V(201 = 3, 603, 238) end main : pop end

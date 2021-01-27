@@ -1,0 +1,1 @@
+program pC : N : takes M580a, n7 : integer array returns nothing chillax end f6 : takes cN7a : boolean array returns integer Bl, X : integer array; k, A, W8 : integer; k, y : boolean; chillax end main : r : boolean; chillax end

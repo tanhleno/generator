@@ -1,0 +1,1 @@
+program eo : o : takes A, G1, L, y : boolean returns nothing chillax end e9 : takes kFU : integer array returns nothing Id4a, n : integer; chillax end main : W1, d : boolean array; output "\t" . - false /= 7480; do V(i92aa * (5) or not 48 > - c and 58) end

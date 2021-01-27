@@ -1,0 +1,1 @@
+program JL : main : qA, O, e : integer array; when case 0 or u[2] rem false and 7200 or not 6 and 588 or 3 - 53 : output "K\n"; output 5 . 6 end case true : input g end case - not 628 and 45 + 6 < - 95 : pop 5 end case - 47 - 86 /= 1 : when case 2 : chillax end; let a = 69 end case 293 = 93 : chillax end case 5500 : pop end; let _[not(7)] = array - true + not 61 end

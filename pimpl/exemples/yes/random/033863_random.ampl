@@ -1,0 +1,1 @@
+program U : j : takes K : boolean; P, t, K0 : boolean array returns boolean array r : integer array; when case - (831) + 65 - 248 <= 13 - 11 : while 8 : chillax end; pop; input A; pop end otherwise : do D(9) end; let V[- 8] = 62; output "Ob"; let s = array 75 end main : G : boolean; f, u : integer array; chillax end

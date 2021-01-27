@@ -1,0 +1,1 @@
+program U : main : when case - false rem(4) * Y and 7 - (0) < 0 : chillax end; input HeO[- true / false]; input N[- false or 5 - 133]; when case 56 : do b6(34); while 9 : chillax end end case 6 : input M3 end case 4 : pop end case 0 : chillax end otherwise : do T(3); pop end end

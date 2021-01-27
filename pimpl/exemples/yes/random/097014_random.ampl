@@ -1,0 +1,1 @@
+program g : main : when case p[9] - true / not 64 + not 3 and 15 or 4 - 01 : let mA = 56800 = 5 end case - true and 5 and 778 : while 7 : do P(0) end; pop 10; output "" end otherwise : let I2 = array 29; pop end; while J620(1) or 8 + 5 : chillax end; input K; do P(- 36); do y(020 = 9); while 151 : chillax end end

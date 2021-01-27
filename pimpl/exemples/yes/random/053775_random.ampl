@@ -1,0 +1,1 @@
+program A : W : takes j9j : integer array; R, n7, O4, f9oa : integer; R : integer array; K : boolean array returns nothing s : boolean array; ip5 : integer array; chillax end pR : takes KB0 : boolean array; b, TA : integer array; A7, H01 : boolean returns boolean chillax end main : pop(03) * not 1 and 9 or(1) or 7 - 69 end

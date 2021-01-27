@@ -1,0 +1,1 @@
+program Vh : main : BR, z930 : boolean; o62 : boolean; o, L1 : integer array; a, nd : boolean; do B130a(false * (6) and true or 2 + 98 + 46 > (07) or a2, - false * (9) /= 155 and 772 + 84 - 4); input k[- not true / e]; while not 8440 and 2 : do _0L0a(4, 6); while 0 : chillax end end end

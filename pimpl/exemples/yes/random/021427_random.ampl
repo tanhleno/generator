@@ -1,0 +1,1 @@
+program L1 : jMJa : takes U, h : boolean array returns integer array y48a : boolean array; pop end I : takes b : integer array; p : boolean returns boolean pop 0 end main : let r4[(5 = 91600) / false] = (086) <= (99) and 13; when case not true * false and 7 - (0) <= not 60 + 9 : chillax end; output "" . 4630 = 29000 end

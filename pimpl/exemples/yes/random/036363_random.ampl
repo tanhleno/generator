@@ -1,0 +1,1 @@
+program w : y : takes O : boolean; mXi : boolean returns nothing when case not 25 and 722 + 1 - 3 : chillax end end main : input B7qa[- not false]; let uS2a[- false + not 7 and 012 or 569] = array - true - 1 and 3 + 0170 - 9 end

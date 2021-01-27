@@ -1,0 +1,1 @@
+program LkU : oUG : takes Y, y14 : integer returns nothing while(4) and 8 : chillax end; pop 94; do t(4, 6) end main : O, z7, L : boolean array; g : integer; P : integer; f220a, j, y : integer; chillax end

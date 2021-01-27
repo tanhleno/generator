@@ -1,0 +1,1 @@
+program V : Q : takes E : boolean returns nothing let e9 = array - 73 and 7; when case - 096 - 4 < 28 : input I end case 8 : chillax end otherwise : chillax end; while 036 : chillax end; do AMX(57) end main : z3, CS, cC8 : boolean array; chillax end

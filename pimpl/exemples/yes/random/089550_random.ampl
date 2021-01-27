@@ -1,0 +1,1 @@
+program T9U0 : main : let w7 = - kM3 - true and 6; output ""; when case - true and 5 > - 4 - 48000 : chillax end case - 4 - 0 < 334 : chillax end case 6 : do L5(48); pop end case 32 : pop end; let l[9] = array - 9 - 4; when case 5 : input x end case 13 : pop end otherwise : pop end; pop 3; output ""; output "\"20"; pop end

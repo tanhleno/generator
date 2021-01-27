@@ -1,0 +1,1 @@
+program L : _DAaa : takes d1, D, e, v : integer array; HZT : integer returns integer array Hal : integer; chillax end B : takes V0, A : integer returns nothing cS, Xi4 : boolean array; chillax end Nn8 : takes Nf, k, vQ : boolean returns nothing output 42 . 6 . "" end main : chillax end

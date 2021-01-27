@@ -1,0 +1,1 @@
+program r : V : takes g9, l9 : boolean returns nothing A : boolean; chillax end ht5 : takes x9 : boolean; t : boolean array returns boolean l1 : boolean; let Bn[- 9 - 044] = array - 4 end tJ70 : takes B5 : integer array; v, l15 : boolean array returns boolean chillax end main : i, P : integer array; chillax end

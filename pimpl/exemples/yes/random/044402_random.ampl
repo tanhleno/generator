@@ -1,0 +1,1 @@
+program q : f : takes P : boolean array returns nothing s66aa, CXg : integer array; output - 2 < 45200 end main : while true and true or 603 - (581) and 9 or 8 : when case - 4 - 1 < 9 : chillax end otherwise : chillax end; output 6 end; pop end

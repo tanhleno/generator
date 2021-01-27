@@ -1,0 +1,1 @@
+program sj5a : D : takes K, t, F, P : integer array returns nothing b : boolean array; I : integer; chillax end main : while false / not(47) or(8) : output 04 end; input T[- P[88] + not 380 and 64 + 6 - 7]; let sF = array - 112 and 6; let Z10aa = array - 6; pop 04 end

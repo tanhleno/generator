@@ -1,0 +1,1 @@
+program p8 : I : takes iT : integer returns nothing F5caa, s4, T, oG2 : integer; j : boolean; do S(- 36 and 83 < - 46 - 5550); input GuV0a[5 - 826] end main : H : boolean; KK5 : integer array; O9, K9, f52 : integer; vuO : boolean; H : integer; pop end

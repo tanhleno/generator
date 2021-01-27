@@ -1,0 +1,1 @@
+program E : I : takes Z9 : integer array returns integer V3, IJ : integer array; input K[4 and 8 + 73400] end main : output "" . r - 00 <= - 5 - 280; let G[- false and 8] = array 4 rem c and 07 + q and 9 end

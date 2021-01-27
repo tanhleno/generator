@@ -1,0 +1,1 @@
+program jR2aa : main : output "6"; output "0"; do P(- true >= - 3 - 92, 4320, 5 = 7, 4); do nq(8 - 2 < 5); while 3 = 946 : let dw = 952 end; let X[3] = array 60; do t6(71); while 25 : chillax end; pop end

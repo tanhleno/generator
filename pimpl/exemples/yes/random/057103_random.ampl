@@ -1,0 +1,1 @@
+program u : i : takes hH : integer array; N : integer array returns boolean do UD(- (69300) and 9) end h : takes GS, X : integer; s : boolean array; KuO0a, i, j : boolean array returns nothing m3 : integer; b : boolean array; input A[- 5 - 43] end main : chillax end

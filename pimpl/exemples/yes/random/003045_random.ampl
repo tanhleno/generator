@@ -1,0 +1,1 @@
+program N : F : takes oC3aa, U, e, VXT0, h : boolean returns nothing e9 : boolean; pop 0 < 089; let U[- 98] = 98 end main : pop; while - true : chillax end; while - true >= - 2 : let E[43] = array 7; when case 2 : chillax end end; output 55 = 8770 end

@@ -1,0 +1,1 @@
+program C4R : main : input c[X * true rem Q and 3]; when case 8 = Z7 or 1 - 60 : chillax end case - mh9 and 3 < 7 - 18 : chillax end otherwise : while 54 : pop end; pop; when case 37 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program c : main : R8, n, zg, C : boolean; while(95) + j9 * not 82300 - 78 and 7 + 1 - 5 : input d[67]; while 5 = 754 : chillax end; output ""; output "\\"; output ""; pop end; while(454) <= 10 : output 9400 end; while - (44) and 2 or 05300 : chillax end end

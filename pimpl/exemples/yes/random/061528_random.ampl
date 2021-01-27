@@ -1,0 +1,1 @@
+program U : r2 : takes Pe : integer array returns nothing when case - false : chillax end otherwise : chillax end; while 9 - 9 < 327 : while 1 : chillax end end; let C[2] = array 02 end main : chillax end

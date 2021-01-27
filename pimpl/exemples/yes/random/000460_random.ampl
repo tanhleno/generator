@@ -1,0 +1,1 @@
+program eV : k : takes G, X, t3, n, wc6, mp, v5, J : integer array returns nothing GNy0, P, Dw, A : boolean; E : integer; Q8 : integer array; when case - Ty and 0340 : chillax end case 972 - 9 > 995 : output "2" end case 9 : chillax end case 6 : pop end otherwise : while 5 : chillax end; output "" end end main : chillax end

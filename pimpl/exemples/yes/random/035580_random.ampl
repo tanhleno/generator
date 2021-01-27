@@ -1,0 +1,1 @@
+program n : P : takes b7 : boolean; G : boolean array; Mu, R, q740, N980, p, Y88 : integer array returns nothing chillax end main : while - false rem false + not not 3530 / (1) or false and 4 : chillax end; output "\\"; when case 77 and 8 + 88400 : chillax end; pop; input R; pop end

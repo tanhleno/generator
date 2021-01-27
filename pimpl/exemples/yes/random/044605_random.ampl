@@ -1,0 +1,1 @@
+program i : l2 : takes D3 : boolean array returns nothing O : boolean array; dLt : boolean; I37a, u : boolean array; chillax end d : takes K0E0, n, o, O, Ks : integer returns nothing let rC[6 - 00] = 8 = 274; output "\"\t" . 2 . "^\\" end main : when case - j[80] - (73900) / true /= 4 or(0) : chillax end end

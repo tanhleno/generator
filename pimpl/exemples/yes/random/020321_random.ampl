@@ -1,0 +1,1 @@
+program Eyp0 : eF : takes Zbo, W91 : boolean array; T5R : integer; B97 : boolean array returns nothing when case(53) and 14700 - 4 /= 5 - 952 : chillax end case 45 - 8 : chillax end; pop; let m = array 1 end G : takes b : boolean array; k, X, d20 : integer returns nothing do vZ30a(7 /= 95, 6060) end main : chillax end

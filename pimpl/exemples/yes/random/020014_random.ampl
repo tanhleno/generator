@@ -1,0 +1,1 @@
+program o : H7 : takes P, pj6aa : boolean array; k42 : boolean array returns integer P87 : integer; chillax end e : takes P09a, p140, K : boolean returns integer array let E = array - 8130 - 8 end main : d, _a : integer; ao8 : boolean array; G8, E, a : integer; _ : boolean; N9 : integer; input N[- Y95[036] * not not 3] end

@@ -1,0 +1,1 @@
+program i3da : h : takes a, vJ3 : boolean; n : boolean returns nothing chillax end L4_ : takes Z, S : boolean; U6 : boolean array returns nothing pop; let h = 6 end main : P, O, o3, e, Q : boolean; let G[- 2 or not true] = array w7 or I / not 4; pop - 8 and 6; while not 6 and 46900 : when case 6 : chillax end case 93 : chillax end; while 09 : chillax end end end

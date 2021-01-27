@@ -1,0 +1,1 @@
+program B7 : d83 : takes S, W : integer array returns nothing s : boolean; A, k : boolean array; C : boolean; while - (3) and 4 - 3 : let R6 = array 1 end; while 61 : chillax end; when case 0 : chillax end otherwise : pop end; when case 88 : chillax end otherwise : chillax end; input Z end main : chillax end

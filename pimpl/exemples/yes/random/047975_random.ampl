@@ -1,0 +1,1 @@
+program h : l : takes Vj : boolean returns nothing b4, U, tbL : boolean; bL3 : integer array; R : integer array; chillax end zFS : takes f, Z7v0, o7, K3, HY1, N : boolean returns nothing J : boolean; pop 81 = 711; let L = array 692 end main : output - false + not 21 + 5 - 16 <= - H and 1 or 3 . - not 58700 <= - 21 - 39 end

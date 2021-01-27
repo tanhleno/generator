@@ -1,0 +1,1 @@
+program A : Z : takes Xm8a, G, rqb, E, eG4a : boolean; D7 : boolean array; F4, g, uB2, CWg0, Pf : integer array returns boolean n, cCd, j : integer array; d7I, v : integer array; bd, U : integer; mS, s12 : boolean; HK : boolean; ivh : boolean; do Ki(false - 9 - 2230, - 986 - 0, 274) end main : chillax end

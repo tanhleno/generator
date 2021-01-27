@@ -1,0 +1,1 @@
+program w : O : takes b : boolean returns integer array chillax end main : A8Y, c : integer array; let A[- (790 = 4740)] = array 99600 - O; when case - W[730] / 4 and 6 - 44600 and 074 or 8 : chillax end end

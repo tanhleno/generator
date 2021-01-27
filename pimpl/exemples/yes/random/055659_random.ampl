@@ -1,0 +1,1 @@
+program L860 : n3 : takes i : integer array; i : boolean; U : integer; _ : integer; P9a0a : boolean array returns nothing chillax end u : takes Dz40a : integer array returns nothing i : integer array; o : boolean; while 4 : pop end end main : chillax end

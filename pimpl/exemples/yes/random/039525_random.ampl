@@ -1,0 +1,1 @@
+program O : k : takes M8 : boolean array; eN9a : boolean; H9, ln, ij : boolean; ia30 : integer array returns boolean array Z_, aZ, pa, LW, _p2 : integer; E8 : boolean array; i, K, z : boolean array; chillax end y3m : takes rd : boolean array returns nothing do kZO0(- 8) end main : output "" end

@@ -1,0 +1,1 @@
+program mn4aa : n9 : takes S6 : integer array; e : integer array returns nothing S : integer; w07 : integer; Q : integer; when case - true and 76 : chillax end case 4 : chillax end end main : o, L : boolean; q90 : boolean; chillax end

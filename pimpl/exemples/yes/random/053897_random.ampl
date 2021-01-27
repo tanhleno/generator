@@ -1,0 +1,1 @@
+program a : sE : takes R4 : integer array; S, M, w : boolean; W, R61 : integer returns nothing input N; pop; let S[5] = 12; input VaC0a; when case 47 : chillax end; output ""; pop end main : chillax end

@@ -1,0 +1,1 @@
+program r : CH : takes xD : integer array returns boolean chillax end main : kj : integer; j : integer array; when case OKc[435] : chillax end otherwise : let z670 = array 515; when case 8 : chillax end; pop; when case 38 : chillax end end end

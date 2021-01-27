@@ -1,0 +1,1 @@
+program a : j8b : takes Au, z : integer array returns boolean D, E : integer; chillax end p : takes Z7, pi9 : boolean array; y2, UE : integer array returns nothing Z, P : boolean array; chillax end main : chillax end

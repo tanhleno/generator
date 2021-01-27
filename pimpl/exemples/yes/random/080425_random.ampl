@@ -1,0 +1,1 @@
+program zS : main : l : boolean; when case r5 - false = - (05) and Gqk + L8 : chillax end; when case 3 + not 4 : let fpX = 6; output 4 . "" end case(2) and 8 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program V : r : takes x : integer array; J, X, v : boolean array; O : boolean array; Q : boolean; l : boolean array; n, V, n : integer returns nothing chillax end M : takes oF, Z, E, k1 : integer array returns nothing chillax end main : input p[true rem true and true] end

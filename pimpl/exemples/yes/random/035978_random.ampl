@@ -1,0 +1,1 @@
+program b2 : Vf : takes b3 : boolean; b : boolean array returns nothing chillax end q : takes W0, d : boolean returns boolean array T : integer; G, i : integer array; T : boolean; while - 49 - 582 < 41 : let j = 340 end; let Y = 8210 end main : n6 : boolean array; nn : integer; chillax end

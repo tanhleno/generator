@@ -1,0 +1,1 @@
+program j76a : f : takes X, Q, X : integer; _ : integer; M, o, L11, U : integer returns nothing l7aaa, zw : boolean; input sz[not 65 or 0 - 6] end main : u, T : boolean array; lw, S, S : integer array; do R(- false) end

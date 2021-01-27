@@ -1,0 +1,1 @@
+program C : main : Q : boolean array; do WQ6((36) rem(55) and true or false or true and 8 or 74500 - 82, J31(2) and true and 2, false > - 44, 2310, 588 = 01, 10, 82); while(9) + 4 or 4 - 7 > (1) and 93 : do Y79aa(0 = 66) end end

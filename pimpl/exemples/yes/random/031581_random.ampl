@@ -1,0 +1,1 @@
+program B : x : takes E, T7 : integer returns boolean S : boolean; output "9" . "" end n : takes E, hstaa, O : boolean returns nothing let w = array 8 - 632; when case 6 : chillax end; do D(6, 9); input f; input t end main : output "WDa" . "" end

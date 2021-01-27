@@ -1,0 +1,1 @@
+program B : main : G33, dR, Xu : boolean; L : integer; y, W1, F, f5, n : boolean; when case false and false and r and 8 + false < - false / 4 : while - 9 - 3 : chillax end end case - not(248) - r and 4 - 772 = true and 4 : when case 56 : let L = 67000; pop end case 2 : pop end otherwise : pop end end otherwise : output 0 end; output "~9" end

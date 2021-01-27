@@ -1,0 +1,1 @@
+program i : v2 : takes IGF, z : boolean array returns integer chillax end q : takes C, w : boolean; v : boolean array; M1 : boolean array; U27 : integer array returns integer array S2B : boolean; x : integer array; while 60200 : chillax end end main : F8, T : boolean array; let V70 = - (9) /= K3 and 605 end

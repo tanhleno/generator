@@ -1,0 +1,1 @@
+program u08 : VKM : takes V, Sl, C, N, F, I : boolean array; Y : boolean array; W, Y, H : integer; p1 : integer returns nothing do f(28 or 61, - 0) end J3Jaa : takes r : boolean array; O, p5 : integer array returns nothing J, o8, zx3 : integer; chillax end main : chillax end

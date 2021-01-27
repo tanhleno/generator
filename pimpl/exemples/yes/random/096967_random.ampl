@@ -1,0 +1,1 @@
+program G : main : when case S5 - (4) and V45 + 74500 and 3 <= - not true + false and 0 + 396 : chillax end case true * 8 or 1770 < - true and 8 + 1 - 331 : let bJCa[2] = array 4; input KdN0a; do G5(20); output "4"; pop end case - true <= 637 : output 738 . "4\\!a"; let S = 6 end; pop; output "@\n" end

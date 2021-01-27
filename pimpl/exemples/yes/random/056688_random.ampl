@@ -1,0 +1,1 @@
+program s4 : t : takes W9 : integer array; r15 : integer; zW5a : boolean array returns integer KS, Mq, z5Taa, G4 : boolean; Q6, Vw : boolean; Q : integer array; d, a : boolean; R0 : boolean; o8 : boolean; chillax end main : chillax end

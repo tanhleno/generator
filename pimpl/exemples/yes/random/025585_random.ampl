@@ -1,0 +1,1 @@
+program f : w : takes h, lT : integer; zD, j1 : boolean array returns nothing iL6, H, W, U : integer array; k89, Y2M, e6 : integer array; z, r2 : boolean; output "" . ""; while - 3 - 0 : chillax end end NmX : takes d, xE, s : boolean array returns boolean array chillax end main : input x end

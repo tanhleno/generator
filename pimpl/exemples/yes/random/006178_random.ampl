@@ -1,0 +1,1 @@
+program NR3 : m : takes X, d3, q, Ho : boolean returns nothing mcp, t28 : boolean array; wN, M : boolean; input q1; while - 5 - 96 : while 6 : chillax end; pop end; let ma1[21700] = array 9; pop 4; output "*"; do fr(9); pop end main : chillax end

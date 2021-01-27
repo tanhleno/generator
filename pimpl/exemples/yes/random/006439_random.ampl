@@ -1,0 +1,1 @@
+program S86a : p : takes jzY, t, l, h : integer; D, A : boolean array; o : boolean array returns integer h, O : boolean; T : integer array; when case S : chillax end case - 1550 : pop; let Iq = 05; pop end end main : O0O0 : integer; while true * not not 81 <= - true and not 87 and 301 : pop 7 end end

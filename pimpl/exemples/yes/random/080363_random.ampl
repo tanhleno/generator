@@ -1,0 +1,1 @@
+program ZD20a : main : v : boolean; when case - Uq6[78] or false / not 71 /= (67) : do _(7 - 5 = 61, 02, 3) end case - 602 rem c53 = - not 9 : let F = array 044 end case(66900) = - 63100 - 60 : chillax end end

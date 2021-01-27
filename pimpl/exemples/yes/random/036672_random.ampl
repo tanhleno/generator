@@ -1,0 +1,1 @@
+program a_Za : Dx1aa : takes A940a : boolean; p : integer array; hGK0, A, f : boolean array returns integer array chillax end main : A, O : boolean array; let A[- not 9 * SvIaa(02) and 63 and 43300 or false rem 1] = - false = (063) and 496; while - true - not 1 and 958 <= - not 39 and 4 or 64 : input w7 end; let z[false and 8] = array x6 and 56; let e8 = array 2 - 6 end

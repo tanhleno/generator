@@ -1,0 +1,1 @@
+program W : z : takes JFv : integer returns nothing chillax end main : L : boolean array; when case c36[7] * (36700) and 84 + hN(47) : chillax end otherwise : do O(706 = 6, 74, 4) end; output true and 03 - 3 /= 10 - 531 . - 43 - 631 end

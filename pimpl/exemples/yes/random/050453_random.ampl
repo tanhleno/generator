@@ -1,0 +1,1 @@
+program M3H : h8 : takes N9 : integer; h, j : boolean array; x, Nl00a, X : integer array; X_, U : integer array; _, JNB, G860a, M92 : integer array returns integer array chillax end main : while - g3 <= SxO * true and 0 + (5) - 6 : when case - 9 - 253 : chillax end case 0 : while 99100 : chillax end; pop end case 0 : pop end case 6 : chillax end end end

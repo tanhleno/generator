@@ -1,0 +1,1 @@
+program j : main : W76, Rs, oS, B : boolean array; let i8 = - (1) or not 74 + 67; while(9) * not 6 and 9 + (5) and 50 < m and 6 : while 54000 : when case 8 : chillax end end end; input N37; do B0(723) end

@@ -1,0 +1,1 @@
+program C6o : IA : takes UOQ0a : integer array returns nothing Yj, D : integer; output 2 /= 08 . "E5\"" . 7 . "7" end NH : takes c : integer array; B4La : integer returns nothing chillax end main : chillax end

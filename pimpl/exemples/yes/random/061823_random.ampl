@@ -1,0 +1,1 @@
+program p9ua : T : takes F5 : integer returns boolean array R, m, a, y2 : integer; chillax end L : takes t, d81, D4 : integer array returns boolean N4 : integer array; pop 4 end main : a, Y, l0aa : boolean array; while - (900) - (24) rem 8 or(6) and 4 : do cc3(- 1250 - 8 >= 93, 4560 = 8) end end

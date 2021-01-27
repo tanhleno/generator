@@ -1,0 +1,1 @@
+program g : _7 : takes F : boolean array; j5, zQK0a, I : boolean array; v8L : integer array; z250 : integer returns boolean g, BAi, I, m : integer; F : integer; chillax end main : E6 : boolean array; do s(true or c(3) = H(96), false / not 2 + true, true > 8890 - 0, - 08 - 1560 = 84, 5 = 70) end

@@ -1,0 +1,1 @@
+program B : W : takes X9, yQ00 : integer returns boolean Q : integer; pop; output ""; when case 066 = 156 : when case 5 : chillax end; pop end case 405 : pop end; while 6360 : chillax end end main : S : integer array; FF, N150, T3 : integer; e, hB20, o, Y4 : integer; g : boolean array; chillax end

@@ -1,0 +1,1 @@
+program G : FO1 : takes Dn : boolean array; Ir : integer returns nothing chillax end a2H0a : takes S : boolean array; CS, q, V : boolean array returns nothing z : integer; output 66800; let d = array 120; let s = 5; input enw0; while 2 : chillax end; pop end main : b : integer array; G, w : boolean array; chillax end

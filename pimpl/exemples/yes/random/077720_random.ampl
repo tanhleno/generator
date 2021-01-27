@@ -1,0 +1,1 @@
+program k : main : o4z, Hg2a : integer array; j : integer; when case false / C1[1] / false - true >= (31500) * _ and 1 + 5 and 3 + 5610 - 77 : do D2(5 >= 0); while 19 : while 9 : chillax end; pop end; when case 26 : pop end otherwise : chillax end; pop end; do m(- (4) < true or 6, (2) + 255 - 3) end

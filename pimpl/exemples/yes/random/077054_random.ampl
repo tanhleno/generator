@@ -1,0 +1,1 @@
+program r : main : P, q4 : integer array; do dW(not false); do e((28) or true and 5 + 1 <= not 7 and 3 - 292 - 7730); input x[0 and 6]; when case 3 - 98 : while 699 : chillax end end otherwise : while 2 : chillax end; pop end end

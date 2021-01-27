@@ -1,0 +1,1 @@
+program A7P : QiD0 : takes E35, c, E7, UV : boolean; rf : boolean; O : boolean array returns integer array giF, X : integer array; r, _ : integer array; chillax end a : takes Y5 : boolean array; jJ : integer returns nothing chillax end main : Tx_0 : integer; chillax end

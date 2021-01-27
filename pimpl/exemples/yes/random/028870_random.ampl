@@ -1,0 +1,1 @@
+program Y : q : takes X2, Jy00a : integer array; MY : integer array; n : boolean array; Z : boolean returns integer array QEN, g6laa : boolean array; f, T, bU, q : boolean; E1, TL : integer; chillax end main : while 193 rem false : chillax end end

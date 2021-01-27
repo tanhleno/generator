@@ -1,0 +1,1 @@
+program gk : main : UD3aa : boolean; when case 46 / not not 7 * not 1 and 148 + Njfaa[01] - not 82800 - 122 = false + M and 4 - 6 : chillax end case true rem true + (45) <= - true - 98 : do x(37 = 708); do I54(673) end case - 8 + 68 >= 587 : pop end case - 70 - 5 : chillax end; output "" end

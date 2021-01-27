@@ -1,0 +1,1 @@
+program DP : main : do y(- q(16) < z(96) rem false and 5, - (0) <= - true and 5); let Q[- true and false and 28 or not 927 and 81 - 6] = - O and 8; let n670[false] = - 0 - 43 <= 0; while - 26 - 2 >= 7090 : chillax end; do I(3700 = 8, 69, 5) end

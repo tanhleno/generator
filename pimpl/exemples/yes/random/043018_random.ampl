@@ -1,0 +1,1 @@
+program G6 : s560 : takes uQ0 : boolean array returns integer do q(- false and 19900 + 4 - 7) end K : takes P, dN70a, zpJ : boolean returns integer y2 : boolean; chillax end main : w : integer; chillax end

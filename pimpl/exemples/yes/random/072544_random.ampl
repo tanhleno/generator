@@ -1,0 +1,1 @@
+program J : main : r0M0a, j, YOQ : integer; when case 47500 + (4320) * (1) and 8 : let O5[- 63] = array 0 - 9; output "W" . 1 end case not true rem b or t1 and 2 : let H[88] = array 1 end; when case j[5] - true and 60 : pop; output 00 . "\t5" end; pop end

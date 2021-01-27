@@ -1,0 +1,1 @@
+program O : _oF0a : takes qEj, l, k3Z, E, B_90a : integer array; c : integer returns boolean array s : boolean array; chillax end E2 : takes Jo, Q1 : boolean array returns integer pop; input u[3] end V4 : takes W9 : integer array returns boolean array pop end V : takes Y, R : integer array returns nothing chillax end main : do B5(- (782) and true >= - 36 - Q) end

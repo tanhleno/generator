@@ -1,0 +1,1 @@
+program D3 : K : takes FIa0 : boolean array returns integer array do S5(- (73) and 684 or 400 - 8 >= 3040 - 0) end W : takes l : integer returns boolean array E5 : boolean array; Q : boolean array; pop; pop; let n8 = array 957 end main : chillax end

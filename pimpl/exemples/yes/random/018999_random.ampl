@@ -1,0 +1,1 @@
+program s : q5 : takes mb5a, r0 : boolean array; gg, M, b7C : integer; cvs, g, D3 : integer array returns nothing z, f, j : integer; chillax end main : i : integer array; let F4[- not 192] = array true * 76 end

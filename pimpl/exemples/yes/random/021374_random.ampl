@@ -1,0 +1,1 @@
+program xa60 : _ : takes e, e : boolean array returns integer array LZ20a, E : integer; lyY, z740, c, sW3a : boolean; u : integer; HCf : boolean; R : boolean; j : boolean; chillax end W5 : takes q : integer array returns boolean array chillax end main : d : boolean array; x110, F, E, w : integer array; G, Tw4 : boolean array; chillax end

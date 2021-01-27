@@ -1,0 +1,1 @@
+program z : kc : takes Qw00, lD, p, P, T57, lG, Y : boolean array returns boolean I : boolean; v, lt, J130a : integer array; D, B, Y : integer array; L, Z09aa : boolean; input g190a end main : chillax end

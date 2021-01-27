@@ -1,0 +1,1 @@
+program a7 : mb : takes k, H, nKn, e8, t8 : integer; X, v : boolean returns boolean array U, aP, aj : boolean array; U, K7 : boolean; t : integer; chillax end main : u : integer array; when case - false * true : while - 4 - 8 = 47 : chillax end; input U8 end end

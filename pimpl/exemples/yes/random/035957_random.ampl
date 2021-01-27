@@ -1,0 +1,1 @@
+program tuLaa : T : takes Q_ : boolean; QH : boolean array returns integer U : boolean array; let Z[- true] = array not 3270 and 7 end u : takes v, c8 : integer array returns nothing M, t6 : integer; chillax end main : chillax end

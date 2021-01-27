@@ -1,0 +1,1 @@
+program Q : U : takes f : integer returns integer array j : boolean array; H, Q : boolean array; let u[(0) and 697 + 95 - 4] = 88 - 69 >= 3; let T8 = array - 7; pop 9; input DwB0a[00] end main : G1, lJ, d, U : integer; let S = false * not 1 - 271 or 84700; input F28a[not(6) / not 64 or not 36000 - 4 - 2]; let j = array - (8) and 8 - 4; do S6n(- 6 <= 2, 0 = 3, 64) end

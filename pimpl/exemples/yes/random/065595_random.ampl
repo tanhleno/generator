@@ -1,0 +1,1 @@
+program z : M5 : takes xm4a : integer returns nothing while true and 8 : when case 23 : chillax end otherwise : chillax end; while 16 : chillax end end; pop end W : takes vE : boolean returns nothing d, v, H23 : integer; chillax end main : let d[(2 = 8) / (67) and false and 02] = - false and false + (9) and 1 - 4 > - (5) and 6 or 86 - 03; pop; let Pu = 54300 - 4 end

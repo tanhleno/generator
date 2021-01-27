@@ -1,0 +1,1 @@
+program e : n5o0a : takes w, ta : boolean array; Qp, S06, T, ax, v, p, Ww : integer array returns boolean while V5 : chillax end end main : Q, w : integer array; K90 : integer; X1, n : boolean array; chillax end

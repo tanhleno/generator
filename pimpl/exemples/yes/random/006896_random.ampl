@@ -1,0 +1,1 @@
+program c : h : takes KU80, r, U, b5 : integer array; NL8aa, q, j7 : boolean array; o, q : integer; x13aa : boolean; C, MT90, Md : integer array; u8 : boolean array; s, n : boolean returns nothing chillax end main : chillax end

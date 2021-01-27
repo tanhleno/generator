@@ -1,0 +1,1 @@
+program fs : _4uaa : takes A, T5 : boolean returns nothing U : integer; r, y, f9Maa, I : integer; chillax end l6 : takes a8, e : integer returns nothing r : integer; pop 5660 end main : while - false > true or 2 and 1970 : while - 2 - 0 : do c8U(4); output ""; pop end end; output P370 end

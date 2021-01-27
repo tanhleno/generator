@@ -1,0 +1,1 @@
+program fp : H : takes L, j, O : boolean returns boolean while - not 6 or 05 - 736 : do w(9, 027) end end eX : takes QeDa : integer array; J, F : boolean array; p0, A8C, Pwz, R : boolean array returns boolean let C[2910 - 6] = 6570 end main : F, R : integer; let Apb = array - 78 end

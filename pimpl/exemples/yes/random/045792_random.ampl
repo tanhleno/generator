@@ -1,0 +1,1 @@
+program L : s : takes B : boolean returns boolean array let a[(4) or 825 - 24] = array BRv0 and 9; do s(6960, 266); while 796 : while 7 : chillax end; pop end end F : takes M9 : boolean array returns nothing b, FRu : integer; input q end main : m, a, opy : boolean; pop; let C = array - O and not 0 - 1; when case - false : output 39 end; input E610[02 - 9] end

@@ -1,0 +1,1 @@
+program Wy : z : takes A : boolean array; W : integer; B, b, b, Q1Pa, W : boolean; y4, G2R0, Ik, C50, g : boolean array; Sf, E, YQ7 : integer; I, r2B, r23 : boolean array; W : boolean; j : boolean returns integer array chillax end main : chillax end

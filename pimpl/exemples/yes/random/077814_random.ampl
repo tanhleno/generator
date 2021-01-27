@@ -1,0 +1,1 @@
+program Ccp : main : u_7, H : integer array; V : integer array; when case - 8 or true or true : do X(5 - 19 = 2, 32600 = 81) end; while - true or not 3 and 7 : let u = 5 end; when case 13 and 81 - 64 : input r end case 832 - 908 <= 1 : pop end case 4 : chillax end case 3 : chillax end case 5 : chillax end otherwise : chillax end; let v = 34 end

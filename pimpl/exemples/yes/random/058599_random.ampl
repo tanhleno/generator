@@ -1,0 +1,1 @@
+program Go : J : takes G : integer array returns integer array chillax end x : takes ds, Nj80 : integer; V : boolean array returns boolean output "5X"; input Q6; do e(10); let h43 = 8030 end main : pop - false and false - true and 80 + 2; do s(- o / true + true < true and 3); while e - 2 /= 16 - 0130 : while 88 : chillax end; let j3 = 02 end end

@@ -1,0 +1,1 @@
+program Q : main : output ":"; when case R[01] or false /= not 2 and 3 or 11 - 4 : when case 7 = 5 : output "\\5" end otherwise : chillax end; input A65; when case 12300 : chillax end end otherwise : while 11 : pop end; do X04a(8520); do RAP(7) end; do lr4aa(- not 04 and 9 + 845); let o = 20700; do Oa(4) end

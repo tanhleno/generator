@@ -1,0 +1,1 @@
+program U : n : takes nmta, _, P00 : boolean array; j : boolean array returns nothing J, K5 : integer; when case - false : output 6 . "\""; while 241 : chillax end; when case 55 : chillax end end case 924 : chillax end case 51 : let k = 9 end; while 828 <= 3 : chillax end end main : when case A8t * T - k + true and 0020 <= - true : chillax end otherwise : chillax end end

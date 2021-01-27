@@ -1,0 +1,1 @@
+program i5p : main : U10, v, I, Jz : boolean array; Xn : integer; S3 : boolean array; while - 3920 or(382) + false + 65 - 4 : when case 84 : pop end case 7 : chillax end otherwise : when case 61 : chillax end; pop end end; input W; pop - 91 >= 4; while - 8 - 3 : when case 690 : chillax end; output "82" end end

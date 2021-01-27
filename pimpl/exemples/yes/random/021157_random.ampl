@@ -1,0 +1,1 @@
+program M : d0 : takes Kc, uo : boolean array returns boolean u : integer; chillax end P7 : takes M0raa : integer; Fo, X13 : integer array returns nothing while 9740 : chillax end; while 675 : output "/" end; pop 9; output ""; while 6 : chillax end; pop end main : chillax end

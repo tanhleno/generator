@@ -1,0 +1,1 @@
+program nq : q : takes cd0, Z : integer array; df30, S, P : boolean; _83, L, U1 : integer returns boolean array j, S : boolean array; I : boolean array; chillax end main : j : integer; m : integer; chillax end

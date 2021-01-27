@@ -1,0 +1,1 @@
+program g7g0 : main : when case - T5 and not(6) / true <= true - 45 + 8 - 5 : while - 587 : chillax end; when case 0 = 99 : do f30a(1870); pop end case 9 : pop end otherwise : chillax end; let j = 89800; input dv; do f08(228) end end

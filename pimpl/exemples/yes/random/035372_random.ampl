@@ -1,0 +1,1 @@
+program j : C : takes ON : boolean; duqa : boolean; c, z, ICWa : integer array; j, pbQ0a, z, u : integer returns integer array when case 356 : chillax end otherwise : chillax end end main : chillax end

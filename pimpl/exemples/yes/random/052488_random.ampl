@@ -1,0 +1,1 @@
+program B : IP : takes DVD : integer; K : integer; g : boolean; U0K : boolean; C : boolean; m, K, o7B : integer returns nothing chillax end main : when case not not false - true >= (541) / false : chillax end case - 7 : chillax end case 9820 >= 429 : let B = 08800 end case - 87 : let SJr = 1 end case 8 : chillax end end

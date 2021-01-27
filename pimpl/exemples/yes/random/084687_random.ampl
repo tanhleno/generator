@@ -1,0 +1,1 @@
+program O : main : l : integer; input j0A0a[24600 or B4(463) / Ml + not 55]; while - 3 rem false and 2940 /= true - 774 - 20300 : while 7 : chillax end end; do l(- (206) and 2 or 4 - 309); let F = 59200; while 6300 = 7 : chillax end; input I1wa[53000]; output "\\" end

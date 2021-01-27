@@ -1,0 +1,1 @@
+program W9 : XO : takes bulaa : boolean returns nothing PyW, Y3, K : boolean array; F9a : boolean; chillax end main : c, C, j : boolean; u : boolean; do D(false * false * not 49 or d[153] / T or(0) and 676 - 0) end

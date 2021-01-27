@@ -1,0 +1,1 @@
+program e : A : takes C, h, Z : boolean; o : integer; bZH : boolean returns integer array when case - 095 + 28 - 7 < 3 : when case 476 : pop end; while 9 : chillax end end otherwise : chillax end; output "/"; input ERL[9] end main : r, Y, oZ, CHkaa : integer; W4, I6_0, T, N, o : boolean; let Z = array not false and 90 rem(99) or l[9] * true end

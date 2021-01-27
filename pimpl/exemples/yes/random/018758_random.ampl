@@ -1,0 +1,1 @@
+program o : _W2 : takes Q, Y : boolean array; kLE, D, N, e3 : boolean array returns nothing FGk0 : integer array; output ""; pop end main : B, v : boolean array; M, woya, p, j0h : integer array; kx, S, c : integer array; z1, pf2, a, _S : boolean; chillax end

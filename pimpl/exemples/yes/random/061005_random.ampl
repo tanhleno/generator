@@ -1,0 +1,1 @@
+program P20 : m : takes l7 : integer array returns nothing tOf : integer; ZI0, Cs6 : integer; chillax end g : takes t8 : integer returns integer S : integer array; c7 : integer; O : boolean; j : boolean; chillax end main : E : integer; M13aa, f : integer array; bW, m : integer array; S, j1D, jxOaa : integer array; chillax end

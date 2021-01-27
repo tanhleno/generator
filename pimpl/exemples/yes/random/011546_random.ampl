@@ -1,0 +1,1 @@
+program U : S : takes Dp, K70, j : boolean returns boolean array chillax end X : takes F : integer; j08aa : boolean; d9x, S : integer; A : integer array returns nothing pop 2 = 785; do g(5) end main : A36a, J : integer array; j, t, Q070a, gz : integer array; Glg, U : boolean; output "6\n0" . ""; input A[4 + (60)] end

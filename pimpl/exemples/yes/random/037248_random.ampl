@@ -1,0 +1,1 @@
+program k5ga : g0 : takes o : boolean; n6 : integer returns integer array chillax end main : while - not false rem true and(788) and 9 + not true - true and 9 > - B(98500) - K97 + 9 : chillax end; pop(349) and 2 - 3 >= - 321 - 4; input Si[- (0260) and 601]; input Lt; input F[9]; while 277 : pop end end

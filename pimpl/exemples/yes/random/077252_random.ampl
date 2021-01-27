@@ -1,0 +1,1 @@
+program J : main : P8, Q : integer array; P, P, X : integer array; P, K : integer array; nN3 : boolean; pop 4 and true and 85 or 69300 and 5 + 499 - 12 >= (50) - 6 - 8; when case false : chillax end case - (7) + 56 - 26 < 48 : let e[5] = 05; pop; let Pr = 9 end; do v(- not 9 and 0 + 1); pop end

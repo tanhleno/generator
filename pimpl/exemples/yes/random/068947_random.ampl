@@ -1,0 +1,1 @@
+program f : main : t0, H1, c, R20, r5 : boolean array; D : integer array; while - l8[45] and(7) : chillax end; let s0[false * (520)] = 8 + 22 - 76; when case true and 00 + 579 - 020 /= 7 - 92700 : chillax end; input R20aa; do B(424, 6) end

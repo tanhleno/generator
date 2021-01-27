@@ -1,0 +1,1 @@
+program N : main : cn0 : integer array; s, s : boolean array; J, v, t8, M, e : boolean array; when case - false rem true - I38(488) or not 300 and 3 or 0 - 189 : chillax end case not m2 or s and 04 /= not 7 and 0 : let Ya = 8; do iV7(97); pop; while 4 : chillax end; pop end case(2) or 1 - 4 : chillax end; output true and 5; input Sk end

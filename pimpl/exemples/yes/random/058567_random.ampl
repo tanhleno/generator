@@ -1,0 +1,1 @@
+program JA : b : takes e : integer array returns boolean while not 050 and 2 + 33700 - 3 = - 8 : chillax end end x : takes ic, Q, fGM0a : boolean array returns nothing when case - 5 : chillax end otherwise : chillax end end main : chillax end

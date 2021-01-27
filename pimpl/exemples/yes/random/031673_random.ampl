@@ -1,0 +1,1 @@
+program n : Q6 : takes t4, e : integer returns boolean when case - S1 and 29 <= - 82 - 40 : input o4t[3] end case - 03 - 77 = 584 : while 40 : chillax end end otherwise : input w end end main : while(3) or not not 05 rem false and 79 - 13 and 2 : chillax end end

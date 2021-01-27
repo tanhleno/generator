@@ -1,0 +1,1 @@
+program W : m : takes U5p : boolean returns boolean array chillax end hkz : takes lJ, Aa : boolean array; o, tDV0, x24a, Um, R9, Nh : integer returns nothing while 8 : let k = 4; when case 6 : chillax end; pop end; do b(11, 2, 2) end WH : takes v : integer array returns nothing chillax end main : chillax end

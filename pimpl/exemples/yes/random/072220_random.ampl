@@ -1,0 +1,1 @@
+program P0caa : main : lJF, RDl, n7g0a : integer; m : boolean; S9 : integer array; S, N, A49, p1 : integer array; output s(6) rem false + (6) - 4 - 410 >= - false . - not 58 and 3 or 4 /= 87 . "-"; pop end

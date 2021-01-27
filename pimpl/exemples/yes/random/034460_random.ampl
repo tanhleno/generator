@@ -1,0 +1,1 @@
+program b : k : takes Je : boolean; W, QID0 : boolean array; p : integer; L, JR4, h : boolean array; HS : boolean returns integer array tQ : integer; DV6a : boolean array; S57 : boolean array; V : boolean; H : boolean; j : boolean; chillax end main : pop(23) rem true and 35 + not 5 + 8860 /= - false; do Zs(- Jlt(8), - false and 6, - 30 >= 03, 09) end

@@ -1,0 +1,1 @@
+program v : b5 : takes B : integer array; G1 : integer returns nothing i, T : boolean; xEV, S, _ : integer; e : boolean array; oGa : boolean; let ERy = array - true or 9 - 6 end Lk : takes w : boolean array returns nothing chillax end main : chillax end

@@ -1,0 +1,1 @@
+program P : main : when case D0(9) or true and(32) or false < - not(7) + not 63 and 17 : do e1q(- 5 - 8); do W(9, 819, 2); do p5(06800, 0690) end case false = not 86600 - 33 : chillax end case - (39) : chillax end end

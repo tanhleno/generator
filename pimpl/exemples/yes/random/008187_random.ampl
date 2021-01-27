@@ -1,0 +1,1 @@
+program v : g : takes H, I, t, P : integer returns nothing chillax end main : OZ, M : integer; D, z : integer array; q29 : boolean; let x = false + true and 75500 <= false and 6 or 52; input t[false rem false and 2390 - true + 2 - 1]; do N(- (1), 4, 1 = 8) end

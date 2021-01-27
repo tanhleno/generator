@@ -1,0 +1,1 @@
+program x3 : s : takes eaS : integer array; f2, B : integer; QE : integer returns boolean array chillax end B : takes u, M, s : integer; Uz8, kg, C690a : integer array; a : boolean array returns nothing chillax end main : while false or true + 3 + 1 - 3 : chillax end end

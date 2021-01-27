@@ -1,0 +1,1 @@
+program U : r : takes pE : integer array; n : boolean returns nothing chillax end Q83 : takes G4r0a : boolean returns integer array Nag0a, X : boolean array; input Z[- 70 - 4]; pop 0 end main : chillax end

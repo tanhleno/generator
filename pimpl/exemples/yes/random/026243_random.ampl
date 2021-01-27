@@ -1,0 +1,1 @@
+program y7 : g : takes f6Sa, _ : integer; jO : boolean array returns boolean array m8H0a : integer array; chillax end main : P8, i7 : boolean array; pop 62 or not 985 and 2980 + 0 - 41 >= - not 257 and 20 end

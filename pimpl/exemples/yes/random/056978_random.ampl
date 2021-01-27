@@ -1,0 +1,1 @@
+program wJHaa : y : takes m : integer array; h : integer array; p4 : boolean returns boolean array pop - 5 - 10 >= 50; when case - 25 - 4 >= 5 : output "dWa"; when case 6 : chillax end end end CF : takes z : boolean array returns nothing E : boolean; N, Wb70a, y : boolean; chillax end main : chillax end

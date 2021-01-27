@@ -1,0 +1,1 @@
+program M3 : dx : takes J : integer returns nothing when case - (62) and 68 : pop end case - 8710 >= 7 : while 1930 : chillax end; when case 56 : chillax end end case 5 : chillax end case 212 : pop end; let W4Y0 = array - 6 - 973 end Ck : takes T39aa : integer; _ : boolean; pmHaa, c : boolean returns integer l, e, EW, Pv : boolean array; chillax end main : chillax end

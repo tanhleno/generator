@@ -1,0 +1,1 @@
+program T250a : f : takes q31 : boolean; Q2, N, D7 : integer returns nothing GWo, z, M : integer; let O[- not 0] = - 350 end ra : takes v8j : boolean array returns nothing i, b : integer array; JiX : boolean; pop; when case 6 : when case 9 : chillax end end case 52 : chillax end end main : chillax end

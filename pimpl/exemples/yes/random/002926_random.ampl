@@ -1,0 +1,1 @@
+program e4 : Wof : takes A78, G, p, Qn, j : boolean returns integer array chillax end U : takes z, G3 : boolean; j : integer array returns integer K, K, Y68, R : integer; let x[- 1] = 52; pop end G5 : takes w, j : integer array; D2Oaa : boolean returns nothing n : integer array; f, B : boolean; output 3; output "" end main : chillax end

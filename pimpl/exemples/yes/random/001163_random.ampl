@@ -1,0 +1,1 @@
+program kg6 : o : takes Kep, y34a, N6T, T, I, bU : boolean; c6D0 : boolean array returns nothing Z : integer array; chillax end main : KR3, kA : integer; when case p : chillax end otherwise : while 86 : pop; pop end; let p[5] = 09; let RC10a = 2; when case 10 : chillax end end; output M and 2 - 5 <= - 8; when case - not 4 or 26 : chillax end; input Xr2a[- 70] end

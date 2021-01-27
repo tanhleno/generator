@@ -1,0 +1,1 @@
+program u0 : J5 : takes F, H7, M, _1 : boolean array returns nothing when case - (8) and 66 or 1 <= 964 : when case 4 : pop end otherwise : chillax end end case 6 - 1 : chillax end; do lnMa(- 1 - 47 > 7, 56 = 71) end y : takes q : boolean array returns boolean chillax end F : takes x160, J3, cH : integer array returns boolean chillax end main : chillax end

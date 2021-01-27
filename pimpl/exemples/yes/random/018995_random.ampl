@@ -1,0 +1,1 @@
+program e71a : wu1 : takes r68a, x : boolean array; v, _2, _ : integer; G, D, d : boolean; MoEaa : boolean array; _R : integer; D3B, c, CZ : integer array returns nothing chillax end main : chillax end

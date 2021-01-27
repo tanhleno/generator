@@ -1,0 +1,1 @@
+program K : E : takes m : boolean returns nothing chillax end Y0S : takes MG : boolean returns boolean chillax end main : let y = true or(1950) + 0; do A2(- true - (5) + 7 - 492 /= - false + 61 - 68, - f and 330) end

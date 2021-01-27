@@ -1,0 +1,1 @@
+program D : G0M0a : takes Pu, f, JNK : integer array returns nothing let m5Da = - 98 - 27; output 7; pop; do P(2); output "" end c860a : takes c, D7Saa, QZ80 : boolean array returns integer W060 : boolean array; input J end main : U, Y : integer; chillax end

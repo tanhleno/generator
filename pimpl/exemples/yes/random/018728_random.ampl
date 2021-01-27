@@ -1,0 +1,1 @@
+program u : a : takes nb2aa, Y0h0 : boolean array; cx, f84a, qp80, y : boolean; _t : boolean returns nothing q, pMM : integer; chillax end main : let w = u6[195] = - o and 92; let i[- w9(1) + (56900) and 899 or 60 - 90] = array 98 and false and 7 end

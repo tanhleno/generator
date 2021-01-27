@@ -1,0 +1,1 @@
+program u : tBn0a : takes Q : integer array; f : integer returns nothing pop - 43 end main : while - 6 - 20 and false and 916 - false + 6 : let n[7 - 6] = array 83 - 74 end; output false /= - 33 - 79; do xO(- false) end

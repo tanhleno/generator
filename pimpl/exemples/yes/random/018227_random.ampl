@@ -1,0 +1,1 @@
+program s : v : takes R, c : boolean; E91 : integer array; _5t0a, t, C8, dG, F, Lr90a : integer array returns boolean q3, UQ : boolean array; u : integer; chillax end main : qo0aa : boolean array; let a = array(070 = 31); while not not 0 or 92 and 6 - 56 - 6 > - not 93 - 847 : let TKX[365] = 56 end; while true /= - 57 - 4 : chillax end end

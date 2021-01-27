@@ -1,0 +1,1 @@
+program P : K : takes s1 : integer array; b25, M : integer returns nothing _, h2, F, Kuoa, u4 : integer; l, G, C : integer; do XDS0a((03) - 658 /= - 04) end S : takes x : boolean array returns boolean U : boolean; pop end main : input Bp0aa[- r(0)] end

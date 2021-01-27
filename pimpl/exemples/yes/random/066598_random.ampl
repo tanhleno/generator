@@ -1,0 +1,1 @@
+program Uh7aa : main : do H(- 7 + (3) and false <= 9 rem not 4 and 59); do l4Z(false rem true or 4 or 1 - 17800 >= - false and 7 + 26200); pop; when case - 4 = 2 : when case 3 : chillax end end case 307 : chillax end otherwise : while 98500 : chillax end end end

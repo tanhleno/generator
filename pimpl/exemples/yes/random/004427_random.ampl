@@ -1,0 +1,1 @@
+program x : W : takes x04a, p0, P, w : boolean; jD, F2 : integer array returns boolean s9 : integer; h67a, r, d, q : boolean array; while c7 and 82100 - 3 - 013 >= 8 - 253 : while 24 : pop end end end main : while - 66 >= false : chillax end end

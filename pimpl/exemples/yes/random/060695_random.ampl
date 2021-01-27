@@ -1,0 +1,1 @@
+program N : fU : takes X : integer array returns nothing S : boolean; chillax end Y : takes _N, K : boolean; F, b, u : boolean returns nothing l : integer; chillax end main : O : integer; output "A\t" end

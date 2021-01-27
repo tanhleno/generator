@@ -1,0 +1,1 @@
+program r4 : E63 : takes H : integer returns nothing chillax end main : hIa, T1 : integer; X, p9, E8u : boolean array; T9, w7 : integer array; while - s6[9] / not 5340 : input x[81 - 6810]; output 8; do Dbl(9440); do _(1) end end

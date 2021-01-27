@@ -1,0 +1,1 @@
+program W6va : main : a, x : boolean; u, DI : integer array; d, r49, v, a, w : boolean array; kt, N : integer; s, z66aa, s : integer array; let sx[(923) or(45)] = - I = not 9 or 19; pop; while - 9980 and 376 + 42 - 6 : output 64 end end

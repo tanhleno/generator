@@ -1,0 +1,1 @@
+program t : E : takes C : boolean returns integer array R_ : boolean; b : integer array; while - 49 - 4 /= - 7 : while 88 : pop end; when case 6 : chillax end end; output 3230 . 60900 end main : Ab, v2 : integer; output "3G" end

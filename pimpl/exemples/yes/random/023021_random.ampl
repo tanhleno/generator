@@ -1,0 +1,1 @@
+program o23aa : Hiv : takes GTT, MU : boolean returns boolean array s0p : integer; v8 : boolean; input hN5[- false]; while - 0 > 5 : do Ol(203); while 1570 : chillax end end; do s(8) end e : takes KM : boolean returns nothing chillax end main : D : boolean array; K5Z, evWaa, N : integer; G, l480a : integer array; pf4 : integer array; MO, M : boolean array; chillax end

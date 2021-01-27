@@ -1,0 +1,1 @@
+program S9 : fk : takes L, n, g10 : integer array; a3Paa, N0 : boolean; v, t5, K0, nr8, q : boolean returns integer chillax end Osuaa : takes H58 : boolean returns nothing c : boolean array; input f end b : takes o : integer; eR, C : boolean; S47a : boolean; Yr : boolean returns integer chillax end main : x : boolean; L : boolean array; HE, K, L, C5 : integer; chillax end

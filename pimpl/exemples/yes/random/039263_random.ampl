@@ -1,0 +1,1 @@
+program X : K : takes _ : boolean array; J, sk : integer array returns integer array L : boolean array; yG90, iv, O, v1 : boolean; z5 : boolean array; chillax end T : takes g2, tg3 : integer; p2, f5W : integer returns integer do K(1 - 9 >= 4) end main : chillax end

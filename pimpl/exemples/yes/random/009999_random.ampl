@@ -1,0 +1,1 @@
+program K710 : Nd60a : takes Bz, f47, L : boolean array; G : boolean; l, O51a : integer; u4i : integer array; aj4, Q, O, x1 : boolean; tC : boolean returns nothing chillax end main : when case - not 38 * false * true and 163 or y[7] / 93600 and 20 <= - (03) - false or 06 : chillax end case false * false and 0 <= true or 7 - 32500 : chillax end; output true + 5 <= 8 end

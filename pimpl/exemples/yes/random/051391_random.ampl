@@ -1,0 +1,1 @@
+program t : S5 : takes J560a : integer; J : boolean; cU, N : boolean returns integer do T65(not 51700 and 35) end rQ : takes K : integer array returns integer ZA90 : integer array; P : boolean array; MXZ0, Dl : boolean; Q : boolean; chillax end main : h : boolean; chillax end

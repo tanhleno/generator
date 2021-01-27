@@ -1,0 +1,1 @@
+program K : tAq : takes Q : integer array returns integer k67 : boolean array; f, EC0, P39aa, kgs : integer; chillax end W : takes Y, fl, Jf, T4, z, G : boolean returns nothing F7N, p2A0a : boolean array; input p9N end main : chillax end

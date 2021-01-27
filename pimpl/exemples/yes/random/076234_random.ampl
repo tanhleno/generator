@@ -1,0 +1,1 @@
+program I : main : e, F : integer; uk, l : integer array; while false * not 1 - (0) * true and 198 or not 52100 and 933 : let V = array - 78; pop 2; pop end; when case not false * 34 and 36 : chillax end end

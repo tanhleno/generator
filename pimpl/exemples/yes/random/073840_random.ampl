@@ -1,0 +1,1 @@
+program J34a : main : y, n : boolean; Pd : boolean array; o, j : integer array; i : boolean; F, g3N0a, o : boolean array; oo : boolean; while 50500 + false / true and 67 or 9 and 392 : chillax end; pop 45 and 19 + 72 - 0 <= 677 - 7 end

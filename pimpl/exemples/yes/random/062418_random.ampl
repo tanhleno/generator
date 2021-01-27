@@ -1,0 +1,1 @@
+program dG : P : takes D : integer returns boolean HN, T9 : integer; K5, cqDa, SU2 : boolean; h, g, Io6aa : boolean; k, X : boolean; I : boolean; chillax end z : takes w : integer returns nothing d, VS : boolean; output 5; pop 78; let Fs7[0] = array 2500 end main : chillax end

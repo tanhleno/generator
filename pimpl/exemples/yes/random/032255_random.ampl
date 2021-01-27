@@ -1,0 +1,1 @@
+program c8 : n8 : takes p350a, O : integer returns nothing chillax end D : takes S, R460a : integer returns nothing do hSv(- 8 < 30, 2 = 41) end main : G : integer array; a, C63, G, b : boolean; K : integer; c9A, jE : boolean; g94 : integer array; a, G1 : boolean; P : boolean; U : boolean; chillax end

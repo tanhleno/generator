@@ -1,0 +1,1 @@
+program N1 : NOD : takes d : integer returns nothing do ZL(- 10 or 99 - 3, 55 - 82 >= 463, 47, 95, 052); while 82 - 92 >= 45 : let q = 02; pop end; output 4 end q : takes G, s, m, vq00a : integer array; l, H : boolean array returns nothing ZP, o7, L, H : integer array; p : boolean array; o4k0, Ye4 : boolean; pop; input p; pop 4 end main : i98 : boolean array; chillax end

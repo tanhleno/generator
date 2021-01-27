@@ -1,0 +1,1 @@
+program MA50a : xe : takes TM, l, q : boolean returns boolean array let iP[- 37 + 9] = array - (5) or 1 - 0 end z : takes QOm, RG : integer; PKr, p, H, v, a : integer; R8, RI, j, je : integer returns nothing m, u : integer array; chillax end main : chillax end

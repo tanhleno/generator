@@ -1,0 +1,1 @@
+program FC : main : Qu3, o, U : boolean; abR, S7 : integer; b2 : boolean; let z2 = array - false + true and not 7 + false + 522 - 02; input s930a; input m8[yT5 and 2 or 0 - 3]; while - 3480 - 0 : chillax end end

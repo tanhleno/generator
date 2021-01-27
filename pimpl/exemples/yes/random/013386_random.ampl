@@ -1,0 +1,1 @@
+program R : Fr5 : takes h4, sn1, b : integer; Ht5 : integer; k, t : integer array returns nothing while - (7) or 02 <= 8930 - 67 : pop; pop; input I end end main : while - (1) : chillax end; output "," . "49!a" end

@@ -1,0 +1,1 @@
+program P5d0a : w : takes W : integer; U, _ : integer; H : boolean array; n : boolean; T, b6 : integer array; W, y, o : boolean returns boolean u, NIK, B, j, P : integer array; l, a : boolean; RGF0 : boolean array; qH6aa : boolean; chillax end main : input T[- (0 = 29) rem not false and H and 384]; when case - 2500 : chillax end; let BS5 = 9 > 72 end

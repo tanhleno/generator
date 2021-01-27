@@ -1,0 +1,1 @@
+program D : main : E1 : boolean; n, H99 : boolean; t : integer array; y22, lz0aa : boolean; U : boolean; do T4(- not not O <= - not(41200) or z and 6, 0 and not 80 - not 2 and 9 - 491 - 1740, 8490 and 34000 or 73000 - 7590 >= 34 - 0, 4 - 85, 405); pop true; while TG10a > 61300 - 7 : input n[7] end end

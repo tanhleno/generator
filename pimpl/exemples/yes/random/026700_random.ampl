@@ -1,0 +1,1 @@
+program h : y : takes y, R : integer; H : integer array; Q : boolean returns integer input D end a : takes L, N9, g : integer array returns nothing chillax end v : takes N, C : integer returns integer chillax end main : s, _L, M, CD30, at, b : integer array; m : boolean; D2, S : integer; r, k, q : boolean; M, v8X, u2m : integer array; Mp4, Q2 : boolean; chillax end

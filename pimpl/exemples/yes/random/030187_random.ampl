@@ -1,0 +1,1 @@
+program M : u : takes YKY, w : integer array returns nothing chillax end A56a : takes h680, xx, e0, J : boolean array returns nothing while - 8 - 3 = 1 : do E(33900) end end main : V93 : integer; _c : integer; R, Y5 : boolean array; output "#" . "O\t!" . "" end

@@ -1,0 +1,1 @@
+program LL : MlP : takes u, M, _G : boolean returns nothing chillax end w : takes eI, J4 : integer; C : integer returns integer array do V4(- 3, 00700, 1750) end main : z, l0, l44 : boolean array; pop true / (8) and 0 or r and 62 or 10; let G8[(6)] = array - qeH rem 9 and 678 end

@@ -1,0 +1,1 @@
+program z99aa : yoga : takes v, r3_a, jj : integer; h : integer returns nothing let G[v and 0 or 9 - 3470] = array false and 3 end j : takes S, QQ, j, h, gTv0a, q : boolean; _ : integer array; Zd : boolean array; Q : boolean array; c5, N7, W : boolean array returns boolean chillax end main : input z[not true * (5790) - (6520) rem true - m and 5 - 7]; pop end

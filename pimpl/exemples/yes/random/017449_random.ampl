@@ -1,0 +1,1 @@
+program _740a : f : takes eG, sqp : boolean; pa1, Qew : integer array; s03, q00a : integer array returns boolean array do h0(not 0 and 1 - 0 - 0610); input a1; while 97 : chillax end; when case 40300 : chillax end case 57 : chillax end; output ","; input x; pop end main : chillax end

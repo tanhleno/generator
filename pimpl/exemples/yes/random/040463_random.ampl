@@ -1,0 +1,1 @@
+program XU : XI : takes s : boolean array; aR : boolean returns nothing pop - 9 end XN : takes w : boolean array returns integer array y6_, Q, s, z0T : boolean; n : integer; h33, N3F : boolean; v8a0 : boolean; w : boolean; chillax end main : r, Ry6 : integer array; w6Na, Z8, d3 : boolean array; C, s78, d : integer; chillax end

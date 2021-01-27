@@ -1,0 +1,1 @@
+program y840 : ev : takes _, y : boolean returns boolean XpQa, Le : integer array; y : integer; chillax end main : while 50900 and true - (611) - not 3 <= - l rem not 1 or(93) - 269 - 7 : when case 8 /= 0 : while 32 : chillax end; output ">"; pop end case 5 = 3 : output "" end end end

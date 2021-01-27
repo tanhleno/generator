@@ -1,0 +1,1 @@
+program RZ5 : d : takes K, h : integer array returns nothing Kh9, e : boolean array; R : integer array; K, a, u : integer array; vG, p1 : boolean; Y : boolean; lhy : boolean; chillax end b0 : takes G : boolean array; MkR0 : boolean returns integer array p7 : integer; do L(9 - 58 < 0); pop 8; output "" . "74!a"; pop; output ""; pop end main : chillax end

@@ -1,0 +1,1 @@
+program kkZ : main : let f[- false and true * not 6 and 2 + (6) - UA7aa and 9] = not 11 + 965; output - 6 and 3 . "" . 841 . ""; let C52[- false and 7 + 1 - 89] = - 8 /= 526; do a(5570, 95, 456, 15); input F end

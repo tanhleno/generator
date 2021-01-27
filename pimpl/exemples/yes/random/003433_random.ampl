@@ -1,0 +1,1 @@
+program I3 : j : takes n6, ek, a3, j, Dr : integer array; le, T, jM : integer array; g8, c : boolean array; M0, I : boolean array; r : integer array returns boolean array chillax end _3 : takes PH : integer returns boolean array rn : integer; let FVn0 = 08000; output "" end main : chillax end

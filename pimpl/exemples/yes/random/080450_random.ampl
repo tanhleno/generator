@@ -1,0 +1,1 @@
+program n : main : N : boolean; when case 2 : chillax end otherwise : do I1(880, 859) end; input rn8aa[(0) rem true and 58 + false and 6 - 07]; do T(- W3za and 8 /= 9 - 0, - 0 <= 9, 8, 5); input o[- 2 - 2680] end

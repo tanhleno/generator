@@ -1,0 +1,1 @@
+program y : b : takes xp8a, N2 : boolean array returns nothing while 8330 or 6 - 0 > - 38300 : chillax end end X02 : takes i : integer array returns nothing input c03[- 505] end main : l, X, s7 : integer array; a : boolean array; H, k, P, z7, S6 : integer; while - 458 * true / 4 and 99 : let D[- 87 - 9] = 79500 end; while N(5) rem CJ or true and 2 : chillax end end

@@ -1,0 +1,1 @@
+program w : qn4a : takes YW, c1, W16, V, jg, u, C86aa : integer array returns boolean array output - 4 /= 7; when case 7 - 8 < 02 : chillax end end i : takes i, U, H : integer; lT : boolean; VIW : integer; E : boolean; R, Z57, v76aa : integer; A : boolean; j79 : boolean returns integer output 9 end main : chillax end

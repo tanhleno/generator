@@ -1,0 +1,1 @@
+program K : c : takes j : integer returns integer h2 : integer; Qg60a : boolean; chillax end main : h7i : boolean array; do H7(- (92) or(8) / 54 and 1 + (1) and 933, - (11) * 1 and 935 > - not 161 and 16) end

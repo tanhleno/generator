@@ -1,0 +1,1 @@
+program jx : a5 : takes a, y8, WJ40, DJf, D, MV : boolean array returns integer while - e and 0 - 60 - 7 : chillax end; while 002 = 9 : chillax end; input U[3540]; pop 6 end UQ : takes G1, p6, O8, U84, o, T5 : boolean array; u : boolean returns nothing Ua, u, b : boolean; output 9 end main : output - 2 and not 7 or not 796 and 76 end

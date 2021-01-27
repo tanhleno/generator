@@ -1,0 +1,1 @@
+program u : udaaa : takes B5C0, o8, c17aa : integer; l : boolean array returns integer zp20a : boolean; a : boolean array; h : integer array; Do : boolean; chillax end Rq : takes ADq : integer; _9, H, Y, l, L : integer; d, E : integer array returns nothing O : integer; m : boolean; when case 50 = 7 : pop; when case 10700 : chillax end end end main : chillax end

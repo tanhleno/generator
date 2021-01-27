@@ -1,0 +1,1 @@
+program d2 : S : takes pQ, T70 : integer; e : boolean array; gNH0a, R0s, I0, b, Z6Ra : integer array; Hi, T440a, w : boolean returns nothing chillax end m : takes i : integer array returns boolean array output "N?" . "0" end main : Y : integer array; Drc0, Fg0 : boolean array; I, HD : boolean; chillax end

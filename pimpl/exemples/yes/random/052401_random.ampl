@@ -1,0 +1,1 @@
+program D : Z9Q : takes _ : integer; JF30 : integer; e, z, L2 : integer; z1, lH : integer array; Q : boolean returns integer do v7(not 73 + 7 - 6) end H : takes JCLa : integer array returns nothing chillax end main : T : integer; IRG, XT, GB, Y : boolean; chillax end

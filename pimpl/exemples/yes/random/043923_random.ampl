@@ -1,0 +1,1 @@
+program a : i : takes Z97aa : boolean array returns nothing GU, R8, R, i, Ocf : boolean; I : integer; g, z940 : boolean array; Ma2 : boolean; chillax end main : do Ugf(596 or(1) or not 6 or 5 = - not 20 * 8 - Z + 4, g1[340] = 427 and 5 - 435 - 56, - true >= 43 - 2360) end

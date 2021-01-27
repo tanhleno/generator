@@ -1,0 +1,1 @@
+program M52 : I : takes Lt : boolean; j40, O : boolean array returns nothing input Z; do T3(- 6 - 4760, 78 = 3, 755, 456) end X2 : takes z, f, d5, D, U9, J1, p : boolean array; c, d, S, i900a : integer returns boolean array while 1 - 8 >= 8 : output "g\""; pop end; while 6760 : output "<[0"; pop end end main : R : boolean; chillax end

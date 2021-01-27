@@ -1,0 +1,1 @@
+program J1 : main : t, k1B0, hk7 : boolean; do Po(- 28 / true > - not MW * 5, not false / 6950 = false, - true and 2 - 6420 - 4 >= - 5); output ""; input L[(422) and 3]; when case 2 < 052 : let AH = 9 end end

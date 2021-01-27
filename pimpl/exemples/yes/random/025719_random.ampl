@@ -1,0 +1,1 @@
+program SDY : s : takes r5Pa, P : integer; j, d : integer; in, C : integer array; c : integer array; gj6, y9s, U, l : integer array returns boolean W, ZH1 : boolean; chillax end j9X : takes N6 : boolean array returns nothing o, Vt, POG, ci3aa : integer array; j : boolean; chillax end main : Gif : boolean; while - (391 = 8670) : output 7 = 2; do U(43 = 6) end end

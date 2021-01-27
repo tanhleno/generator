@@ -1,0 +1,1 @@
+program w : S : takes l5, D41 : boolean array returns integer chillax end s : takes z7R : integer returns nothing chillax end main : let o = array(1) / tIK[89] * b64a and 3; while true - true - 86 : chillax end; do e(- G9, 1 > 07, 7 = 84, 8, 8) end

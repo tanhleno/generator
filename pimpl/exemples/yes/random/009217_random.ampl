@@ -1,0 +1,1 @@
+program ba2 : vu : takes p, thPaa, ct9aa : boolean; i6 : boolean returns nothing pop - 4 end E7 : takes I : integer array; VN0a : boolean; R3 : boolean array returns nothing G, Dj3a, h0h, X4D : boolean; T : boolean array; Y360a, Q : boolean; chillax end main : NX, p, V, v, Q3, zl : integer; c, z7jaa, A : integer; chillax end

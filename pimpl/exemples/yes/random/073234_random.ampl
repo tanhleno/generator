@@ -1,0 +1,1 @@
+program E : main : U, k : boolean; do h8((5) - not(7) / not 4 or not 5 and 1 or 2150 - 5, - J[352] > (36) - 8); when case - true = true and 1 or 65 - 537 : chillax end case false or 5 : chillax end end

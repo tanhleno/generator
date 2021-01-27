@@ -1,0 +1,1 @@
+program Z6 : ikB0a : takes D, m2R, r : boolean array returns nothing when case - not 47 and 7 : pop 61000 end case 85 - 8 : do W(7) end case 5 : let X31aa = 718; pop end otherwise : pop end end main : while g(1) = - (991) and O390a and 0 - false and 150 : chillax end; pop - false and 500 >= - 528 end

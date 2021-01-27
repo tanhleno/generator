@@ -1,0 +1,1 @@
+program R2 : main : Z, P, w, N, E : boolean array; t, F : boolean array; let HPQ[true rem(3) + false and true and 4 + false] = - true / false and 4 + LY and 9 + 3 - 7 <= - not 0 and 0 + 7; let R[- (8) rem false or(871)] = not 19 and 9 - 81100 - 5; input R[- true] end

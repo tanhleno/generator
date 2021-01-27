@@ -1,0 +1,1 @@
+program a9h0 : jX : takes Z : integer array returns nothing chillax end main : B5, OR8, C, U : boolean array; C2, g5p0a : boolean; do dh(89); let K5y[- true] = false = - 3 - 1; when case - w = - 48 : when case 0 : chillax end end end

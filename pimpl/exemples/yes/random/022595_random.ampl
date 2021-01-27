@@ -1,0 +1,1 @@
+program S : RO2 : takes qu, z3 : boolean array returns nothing p610a : integer array; k5 : integer; chillax end N : takes x : boolean array returns boolean X : boolean array; output "8" . 37600 end main : d, x, wE : boolean; chillax end

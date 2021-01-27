@@ -1,0 +1,1 @@
+program t7L : P : takes u, C : boolean array; M1, N, l : integer array returns boolean array G : boolean array; kxo, D2 : integer array; g0 : integer array; q, t : boolean; M : boolean; W : boolean; output - 657 - 0 . "\t" end main : v : boolean; m830, S6 : integer array; g : boolean; b, L : boolean array; WxF : integer array; jMx0 : boolean; chillax end

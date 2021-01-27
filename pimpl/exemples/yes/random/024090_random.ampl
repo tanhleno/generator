@@ -1,0 +1,1 @@
+program S : o1B0 : takes K, T : boolean returns nothing chillax end main : when case 766 : while - 3 - 4 : chillax end; do D(2, 630); do e(9, 2) end; do p(- 2 + not 2 - 95600 - 099, (7) - 31800 >= - 9); while - not 73 and 252 + 82 : let AcW = 2; do T(93); pop; pop end end

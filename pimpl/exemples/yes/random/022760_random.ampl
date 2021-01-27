@@ -1,0 +1,1 @@
+program v : T : takes Ug, lt : boolean array returns nothing pop 35 - 12; do K(3, 04); let x[71] = 217; when case 8 : pop end case 7 : chillax end otherwise : chillax end end main : d, H, h, rzR, l4, r8h, qE1 : integer array; let Y4h0a[1 rem(089)] = - true or(667) and 0840 end

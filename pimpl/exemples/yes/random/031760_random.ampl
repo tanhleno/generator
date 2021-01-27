@@ -1,0 +1,1 @@
+program Kso : f5 : takes Ka, k3 : integer returns integer array z, Q, ra, pjH : integer; l7I, l4B0a, wQj, N : integer; input U[8] end K5 : takes YB : boolean; y1, tOi, J : integer array; XoX : boolean; z4 : integer returns integer Oj, ir00 : integer array; bLK : integer array; V, ih : boolean; chillax end main : chillax end

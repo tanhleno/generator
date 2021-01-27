@@ -1,0 +1,1 @@
+program D2 : c : takes j, T2, d : boolean array returns nothing chillax end U2k : takes QrR0a, l3, I : integer array; F, UY : integer; l : boolean returns nothing chillax end main : pop 4900 or W; do m430a(- r5Z0[2] / not 1 > - F0baa, not 5 /= 6); do p(- 25 = - 07); output "" . "8" . "" . "" end

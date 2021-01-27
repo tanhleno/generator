@@ -1,0 +1,1 @@
+program L : c : takes s270, M, ig, R2, M3U : integer array; v6I, nz, l, v, y : boolean; B : boolean array; O2, d410a : integer; p, r6, o : boolean array; c, pG7aa, Q : integer returns integer z : integer array; u, xt : integer array; A, VA : integer array; fuE : boolean; chillax end main : while - not 1830 and(6) + false rem true + true : chillax end end

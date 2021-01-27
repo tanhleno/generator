@@ -1,0 +1,1 @@
+program U : DUl : takes n : integer returns nothing dM, N7k : integer array; T9 : integer array; P, W39, g : integer; pop; while - 20200 : output "3"; while 2 : chillax end; pop end; output 5 . 1 end main : Db, h, W : boolean; TO : integer array; L, Ls, b, qg : integer array; output "l" . "" end

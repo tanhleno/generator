@@ -1,0 +1,1 @@
+program S : s : takes Zp : integer array; b6, sX, EU4a, zW : boolean array returns nothing while - true + 2370 = 6 - 9 : input h[0] end; while 32700 >= 52700 : chillax end; when case 72 : chillax end case 8 : pop end; pop 0; while 7 : chillax end end main : chillax end

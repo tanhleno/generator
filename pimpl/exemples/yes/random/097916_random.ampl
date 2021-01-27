@@ -1,0 +1,1 @@
+program w0 : main : while(7 = 7) rem not not 67 + t[0070] rem not 39 and 3 >= not not 2 or false and 3 - 85300 : when case - 395 : chillax end case 4 = 1 : chillax end case 26 : pop end case 8 : chillax end otherwise : let r = 516; pop end; output "" . 2 end; output "" . 2 > 67400 end

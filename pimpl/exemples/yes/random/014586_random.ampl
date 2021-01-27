@@ -1,0 +1,1 @@
+program Ur : ZwN0 : takes TTy, Y, mp : integer array; sT : integer returns integer array chillax end main : v : integer; pop true * false >= (85); when case 2 / false : chillax end case not 1 : let M[78] = array 3270; output "u\\"; let H = 619 end otherwise : do o19(82700, 13); do u(5); output "\\" end; pop 58 - 1480 /= 53 end

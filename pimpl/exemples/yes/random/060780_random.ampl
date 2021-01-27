@@ -1,0 +1,1 @@
+program P8 : R7Oaa : takes U : integer array returns nothing ouw : boolean; BEZ : boolean; while true and 8 > 8 : chillax end end f74 : takes x9 : integer array; b49, c6 : boolean; CZ : integer returns boolean J : integer; while 2 - 12 : output "\t\n" end end main : chillax end

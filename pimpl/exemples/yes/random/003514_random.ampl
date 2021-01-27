@@ -1,0 +1,1 @@
+program B : x : takes hOT, O, u, Ery0, lb2 : integer array; iy80a : boolean; h, H, p : boolean array; h, e : boolean returns nothing H : boolean array; pop; let zm = 51; output "" . 0; let nV[0] = array 306; input Q0 end I : takes h, t0Wa : boolean array returns integer output 8430 end main : output "" . "" end

@@ -1,0 +1,1 @@
+program d34 : G : takes k730a, jN : integer array returns boolean array chillax end main : n, I : boolean; do h(985 rem(8), - false / true and 8 - not 1 or 8 <= (8) or 31300); output - (2) and 4 - 12 - 5 end

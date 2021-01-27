@@ -1,0 +1,1 @@
+program zQ4 : o9Y : takes t : integer; s : boolean; LmV : integer array; b, E : integer array; T : integer array; M : boolean; h : boolean returns nothing do u46(- false and 3 >= - 2 - 41, 7) end main : Wz : boolean; K, GdC, B : integer array; chillax end

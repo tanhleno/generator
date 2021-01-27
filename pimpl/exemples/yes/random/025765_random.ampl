@@ -1,0 +1,1 @@
+program B : p : takes e2Maa, d : integer; G3r, _ : integer array; B, lX, e, K : integer; X4Ta, i, g : boolean returns integer array a7t, M : integer; do q5aa(- 5 and 422 - 08500 <= 34300, 26 - 4 < 7730, 0, 5); pop 08 = 18 end main : chillax end

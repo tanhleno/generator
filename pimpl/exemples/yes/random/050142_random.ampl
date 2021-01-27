@@ -1,0 +1,1 @@
+program y : w : takes s93aa : integer; t, f4, K : integer array; RlDaa : integer returns integer array Y, p5, L6, b : integer array; let b[- false and 5 or 2] = - 3; while 5 : when case 434 : chillax end end; let yt = array 9 end main : do fr(true / (4) * not 286 and 8, - true rem bud and 6 or false, false and 1030 - 40 - 3180 <= 88, - 44 - 9 > 0) end

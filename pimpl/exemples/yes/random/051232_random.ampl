@@ -1,0 +1,1 @@
+program s : X9 : takes U : integer; Mi, p : integer returns nothing chillax end k : takes f, ja, nA, h : integer array returns integer let P = array 059; while 071 : let j4U = 8; pop end end main : C : integer array; m, Q46aa : integer; jtX : integer; chillax end

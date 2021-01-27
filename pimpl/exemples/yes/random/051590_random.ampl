@@ -1,0 +1,1 @@
+program U7a : K : takes l : integer; J : boolean array; W23, k4, T, p0 : integer; Q, O6, K : boolean returns nothing Z : integer array; chillax end L : takes J3B : integer array; RC, Zv, r3, m : integer returns nothing let b33[84] = 5710 = 7; do f03(4) end main : j : integer array; N, v : boolean; gz : integer array; chillax end

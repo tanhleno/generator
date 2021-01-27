@@ -1,0 +1,1 @@
+program O : J68 : takes kHO0a : boolean; F : integer returns nothing chillax end Q18a : takes t, u, Y, O : integer array returns boolean array when case 6 = 90 : chillax end case 97 : chillax end case 69 : pop end; let W5 = 4 end gU : takes s79 : boolean returns nothing chillax end main : _, g5L, y, eeva, O : integer array; chillax end

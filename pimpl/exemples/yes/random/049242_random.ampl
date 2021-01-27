@@ -1,0 +1,1 @@
+program A : c : takes t : integer; y, E8, X, D, W3, c, W : boolean array; j1c, Hd1, YGA : integer array; H0 : boolean returns boolean array E9, I, prN : integer array; chillax end cr3 : takes EN : boolean; p1 : boolean array returns boolean chillax end main : input t[not 4 and false + not 03 * 9 and 18100 - 59 and 03500]; while true - false and 029 - 2850 : chillax end end

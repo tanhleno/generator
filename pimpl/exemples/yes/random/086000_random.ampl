@@ -1,0 +1,1 @@
+program I8Z0a : main : N : integer array; z0Baa, O0 : boolean; HCP0a : integer array; output not false rem(718) and 3 <= (4) and 29 + 3; input y05[c[7990] and false or 20100]; when case true : pop 3; while 179 : chillax end end otherwise : input n94; when case 70200 : chillax end end end

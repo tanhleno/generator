@@ -1,0 +1,1 @@
+program B : h9 : takes i : integer; G0, Z5Z, i : boolean array returns integer array when case(39) and 8 - 06 < - 124 - 31 : pop; pop end case 1 : chillax end case 06 : do w(1) end otherwise : let w = 504; let mPW = 527; pop end end main : do PgP(false / 64 / true and 8 < true + 3 and 79) end

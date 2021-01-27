@@ -1,0 +1,1 @@
+program Vj : Q7 : takes q, q5, T : boolean; mK : boolean array; O : boolean returns nothing chillax end main : when case - 06 : while - 8 - 19 : when case 7 : chillax end; let RgUa = 744 end end case - (81) rem true : let XA = array 5320; pop 05 end otherwise : output "[)\"a"; when case 5 : pop end; pop end end

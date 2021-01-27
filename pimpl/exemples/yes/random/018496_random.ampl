@@ -1,0 +1,1 @@
+program qS : Z : takes e, roA0a : boolean; o39 : integer returns boolean chillax end main : when case Q and false and 07 : do k(0); when case 84 = 7 : chillax end otherwise : chillax end; output "D"; while 00 : chillax end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program ZQ : u : takes U9, i, aRra, r : boolean; pA : boolean array; T : integer array; k5r0a : integer array; a1 : integer returns nothing Wz7, z2y : integer array; eW, z1e : integer; E : boolean; chillax end main : L : boolean array; output "" end

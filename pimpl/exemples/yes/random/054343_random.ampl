@@ -1,0 +1,1 @@
+program ju : cL : takes N : integer array; r, j, cY : integer returns nothing chillax end main : hK6, h : integer array; tL : boolean array; pop; when case - not(5) - true - 0 : chillax end case - true and 11 - 54200 - 117 : chillax end otherwise : chillax end end

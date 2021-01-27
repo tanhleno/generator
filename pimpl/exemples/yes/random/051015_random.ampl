@@ -1,0 +1,1 @@
+program Rtya : jx : takes w1 : integer; Kp, J : integer array; fHF : boolean; F : integer array; u55a, F, x5, X : boolean returns boolean array when case - (160) - 2 - 07 : chillax end otherwise : chillax end end main : chillax end

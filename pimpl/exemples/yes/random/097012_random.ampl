@@ -1,0 +1,1 @@
+program j5y : main : when case v[8] - 2 <= - z[2] and not 37 and 02600 : when case - 4 : chillax end case 22 = 3 : chillax end case 7 : chillax end case 2 : chillax end end case n : chillax end; do s(false and h59 and 5 + 40800 or 9 >= - false) end

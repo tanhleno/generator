@@ -1,0 +1,1 @@
+program r : main : l4 : boolean; when case 8950 * not false * (8) and 9 <= 823 : when case 143 : chillax end case 4 = 324 : output "" end otherwise : when case 12 : chillax end end; let h1[30] = 3; let r = 340 end otherwise : while 14 = 1 : chillax end; while 1 : chillax end; when case 3840 : chillax end; input _3 end end

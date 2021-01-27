@@ -1,0 +1,1 @@
+program Q4 : D9A : takes uL, ES, O2 : integer returns nothing n4 : boolean; when case false and 365 <= 0 : chillax end; input rRA0[- 6 - 1] end main : i8, z, v14, X : boolean; KB6 : boolean array; g : integer array; chillax end

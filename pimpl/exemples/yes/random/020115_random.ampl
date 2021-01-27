@@ -1,0 +1,1 @@
+program z9 : f22a : takes b330a, p : boolean array; Mg : boolean returns boolean chillax end e : takes z9 : boolean array; O : integer; eF : integer returns nothing V : boolean array; while - 47 - 1 <= 792 : chillax end end main : while false * (485) or 43 / i : input q; input e[84] end end

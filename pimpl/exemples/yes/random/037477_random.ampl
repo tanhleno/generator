@@ -1,0 +1,1 @@
+program g : dq : takes T : boolean array; t, Y, v6, x, A4H, i, r : integer; J : boolean returns integer array S, cSkaa, P : boolean array; d : integer array; O : boolean array; chillax end d : takes T : boolean array; W : integer returns boolean array do M(- 750 > 3); do m(0170) end h3Q0 : takes S1 : integer array returns nothing chillax end main : input pP4[- false] end

@@ -1,0 +1,1 @@
+program P43 : main : l, a, ny : integer; a2 : boolean; let bZ[T - E] = array not 0 and true or false; do E44(true > - 648 and 6840 - 35); when case - K and 7 or 3 : chillax end case - 5 - 2 : when case 97 : chillax end; output "" end end

@@ -1,0 +1,1 @@
+program v3 : main : dW, l, k6 : boolean array; when case - not 0 * true and(8410) <= - 0 and not 39 and 19 or not 59 and 8 : when case - 77900 - 00300 > 42 : let F2 = 804; when case 3 : chillax end; pop end otherwise : when case 744 : chillax end; pop end; when case 9 : chillax end case 5 : pop end case 9 : chillax end; output 91; output "" end otherwise : chillax end end

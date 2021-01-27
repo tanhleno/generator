@@ -1,0 +1,1 @@
+program Z : t : takes u8 : integer returns nothing hfOa, sbR : integer array; J : integer; chillax end L3r : takes W, k, hEJ0a, Q, JQ3, UV, _2 : boolean returns integer array B : boolean; XG : boolean; K, F1ba : boolean; while - 6 - 3 : chillax end; do J(1070, 3, 4); while 1 : pop end end main : U_60 : integer array; N, s : boolean; output "B=\"a" end

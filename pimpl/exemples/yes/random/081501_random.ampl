@@ -1,0 +1,1 @@
+program v6 : main : _ : boolean array; EL1aa, g : integer array; when case - N1pa[2] and not true and Sw : output 6 = 0 . "X"; do mn0a(5, 9); input W; while 922 : chillax end end case - true * false and 9 < z + 4 : chillax end end

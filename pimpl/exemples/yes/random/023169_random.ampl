@@ -1,0 +1,1 @@
+program u : I2 : takes e, o8 : boolean returns boolean do V(- not 22500 or 432 - 6, - 64 - 52 = 0); input K7 end y7 : takes R : integer array returns nothing u1T : boolean; do U07(- 98000 - 4 = 5); pop end main : chillax end

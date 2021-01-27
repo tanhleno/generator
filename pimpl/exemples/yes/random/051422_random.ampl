@@ -1,0 +1,1 @@
+program IL : Mi : takes IK4 : integer; s3 : boolean; Tw, r : integer array returns boolean array my, QKp0, _9, P : boolean array; Je, CM : integer; s, g : boolean; y_00a : boolean; k : boolean; while - not 8 and 06400 + 6 : output 43 . "" end end main : output "" . - 435 and 6 or 5740 - 4 . 580 end

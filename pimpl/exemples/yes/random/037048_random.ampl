@@ -1,0 +1,1 @@
+program rG : v3P : takes U : boolean; Z : integer array returns nothing chillax end Y0_ : takes b63 : integer; ukSaa : boolean; o, kC6aa : integer returns nothing G0Ga : integer; G8U0 : integer; p46aa : boolean; output 27; pop 3 end main : input R end

@@ -1,0 +1,1 @@
+program u : O8D0a : takes U, F, P, e3 : integer array returns nothing chillax end q0 : takes g : integer returns integer chillax end main : while true + not(041) * not 75 : while 8 = 417 : chillax end; input f0; do A2K0(780, 53) end end

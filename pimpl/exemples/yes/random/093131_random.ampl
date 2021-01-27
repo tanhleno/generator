@@ -1,0 +1,1 @@
+program PM7 : main : output "^" . "" . - 0 - 4; when case 3 / not 9 and 387 + E or 7 - 5 >= not 6 : chillax end case M3 and 8 + 0 - 2 : let j8 = 0; do JkQ(5); input V end case - 3 : while 34 : chillax end end otherwise : chillax end; when case - true - 31200 - 3 < - 11 : while 184 : chillax end; when case 2900 : chillax end; output ""; pop end end

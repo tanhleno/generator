@@ -1,0 +1,1 @@
+program u34 : JN : takes P4 : boolean array returns nothing au3 : integer array; do R(9 or 3 <= - 93 - 315, 602 - 51 <= 3, 6, 913); input L3[- 2]; while 2 = 50 : chillax end end main : when case k4w or not p rem true or true and 2 + 31 >= - 0 * (9) and 9 : chillax end end

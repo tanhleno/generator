@@ -1,0 +1,1 @@
+program X : P4 : takes XL : integer array; O : integer returns nothing Y3Q : boolean array; f3 : boolean array; let w[false and 283] = - 9 > 2 end main : g, l, p, wO8, d19 : integer array; X, B, Y : integer; mJ, X : boolean array; f, I0 : integer array; N : integer array; do qpm(Advaa(227) and(18100) + (6) rem W1 - 33 - 64 - 42) end

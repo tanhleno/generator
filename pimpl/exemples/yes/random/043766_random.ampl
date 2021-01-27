@@ -1,0 +1,1 @@
+program F2 : qB10a : takes LS : boolean array returns nothing chillax end main : c : integer; e0 : integer; pop - true and not 3 and 8340 /= - false and 0 or 6; do Q(true and p8 or true and 38 or 4) end

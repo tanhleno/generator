@@ -1,0 +1,1 @@
+program j7Y : Au4 : takes y : boolean array returns nothing chillax end E : takes R, W, g : boolean; l, E : integer array; h8, kF : boolean returns nothing d, D93 : boolean; E8 : boolean; when case - 5 - 9 >= 1 : while 0 : chillax end end case 8 = 7 : chillax end case 3 : chillax end; when case 529 : chillax end case 7 : chillax end otherwise : pop end end main : chillax end

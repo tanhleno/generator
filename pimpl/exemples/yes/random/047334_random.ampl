@@ -1,0 +1,1 @@
+program Ym : J : takes uK6 : boolean returns integer when case(0) and 21 or 0 : let UI = 5 end end main : when case false or s2baa(0) * not 201 and 7 + true and 257 - 28 - 17 = true * 5 or C or 03 : input J; output 6 end otherwise : chillax end; pop; let y[not 8 and 1 + 77600] = 06 - 2 <= 60500; let j[5 - 7] = array - 8; output "?"; input rU[508]; pop; input r16a end

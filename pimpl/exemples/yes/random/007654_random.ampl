@@ -1,0 +1,1 @@
+program l : N : takes p, p1, K, u : integer array returns nothing chillax end Y3 : takes MY4, a : boolean array; n, owh0a, z : boolean; w8 : boolean array; u2, F2 : integer returns integer array g : boolean; while - 7 : chillax end end a6 : takes _q, q : integer array returns nothing chillax end main : while - true rem not true rem 7 and 0 : output "K)!" end end

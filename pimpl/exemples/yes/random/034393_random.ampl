@@ -1,0 +1,1 @@
+program lA : Ig00a : takes q : boolean; A, B : boolean array; H, lW : boolean array; PJ : boolean; G9 : integer returns boolean do ap(true and 48 or 2 - 4 /= - 18300, - 4540 - 62 < 1, 8, 89, 8) end main : Zr : boolean array; R, kp : integer; input Ev end

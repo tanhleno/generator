@@ -1,0 +1,1 @@
+program eGia : h81 : takes L, u : boolean returns nothing chillax end O : takes DP, Opx : integer array; s : integer returns boolean chillax end main : W : integer array; I, b, J1, v, T, Z : boolean; K, P : boolean array; Q : boolean array; input nI end

@@ -1,0 +1,1 @@
+program a : M : takes _ : boolean array returns integer r, I7 : integer; FK : integer array; when case - (90000) and 32 < - 0 - 5 : chillax end otherwise : chillax end end main : M8 : boolean; h : integer array; j : integer; N7 : integer; output - not e * true and 4 or RB and 3 + 98 - 1 . "" . - 43 - 174 . "" . "s" . "" . "\n;" end

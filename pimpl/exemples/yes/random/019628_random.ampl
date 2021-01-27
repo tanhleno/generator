@@ -1,0 +1,1 @@
+program e : Y : takes M, M : boolean array; BPP, l : integer returns nothing chillax end c : takes u, VG, Odr : integer returns nothing h : boolean; T : integer array; c, I : boolean; output 1 . 2 . 4 . "" end main : chillax end

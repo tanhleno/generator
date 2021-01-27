@@ -1,0 +1,1 @@
+program v3h : z3 : takes GP6 : boolean array; F, w6, Q0Ta : boolean array returns boolean k, a, f : boolean; m_9, oQ1, f : integer; IG0, o53, M : integer array; pop end main : u26a, s3, e, J, tE9a, y, s63aa : boolean; pop - false * 643 or D and 871 - 37500 - 1 = D4 and 62 or 8 end

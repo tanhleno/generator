@@ -1,0 +1,1 @@
+program Dg : c9 : takes tem, I : boolean array returns nothing Z2 : boolean array; chillax end main : do R(- 36500 and not false, true rem 9 and 19 + W and 591); while(61) <= (9) : when case 8 : chillax end case 0 : chillax end case 8 : chillax end; while 9 : chillax end end end

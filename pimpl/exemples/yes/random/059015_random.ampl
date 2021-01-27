@@ -1,0 +1,1 @@
+program g2 : I : takes s : integer array returns integer array pop - 6 > 63 end main : ye9, r : boolean; e : boolean; X3, p : integer; when case - false * false * Ur : pop; while 74 : chillax end end case(6) - not 6 and 542 - 2 = q + 39 - 76 : let b = 671; output 90; when case 82 : chillax end end case - G and 09 : do l(6) end case - 35 = 7 : chillax end end

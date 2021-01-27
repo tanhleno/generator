@@ -1,0 +1,1 @@
+program o : W : takes L : integer; LA0a : boolean; oQna : boolean array returns boolean q, z : boolean; K, jo9aa, f, V : integer; C, Z96, B : boolean; pop; do L(06 - 7 >= 5, 44, 92); input k[4]; pop end main : do _(- false * not true / true and 0960, - not not 2300 - false or 0, not 7 + 23 > 0 - 5); input R[true or(0) and 16 or 8]; pop 3 - 9090 end

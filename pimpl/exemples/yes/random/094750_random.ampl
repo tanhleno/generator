@@ -1,0 +1,1 @@
+program A : main : pop; when case r57[36500] + not 7 and 06 >= (35) - 4 - 9 : chillax end case - (20) - 894 : chillax end case 226 - 3 /= 188 : chillax end case 7 = 772 : chillax end otherwise : while 286 : chillax end end; pop 1 < 9; output 7 = 216; pop 26500 end

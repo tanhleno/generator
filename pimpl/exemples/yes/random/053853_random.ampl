@@ -1,0 +1,1 @@
+program D : U6e : takes y6 : integer array; bEk, _DA, l, U660a : integer returns nothing do Y(- not 56 + 2 - 86 = 50 - 74, 3 - 43) end main : v, e85 : integer array; do u(- true rem false or not false / false and 0); do i((7) * 51 and 6, - not 2 and 3 - 2 - 3 > 9) end

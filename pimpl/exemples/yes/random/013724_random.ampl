@@ -1,0 +1,1 @@
+program Q : U4 : takes G, bt20, d : integer array; zZ1, U7, h, BK : integer array returns integer chillax end Y : takes C, OiI : integer array returns nothing q5 : integer; M : boolean array; g, I : boolean; let _H = array - 94 - 26 end main : chillax end

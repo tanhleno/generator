@@ -1,0 +1,1 @@
+program O : C : takes G : integer returns nothing chillax end main : when case not true rem true and false and 9 - true <= - true / (71700) and 4570 : chillax end otherwise : output ""; let n08 = array 3; when case 8 : chillax end; pop end end

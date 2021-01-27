@@ -1,0 +1,1 @@
+program Jp10a : G : takes rvJa, usZ, p, l8 : integer returns nothing p46 : integer; MD : integer; when case false : chillax end case - 58 : chillax end case 86 : chillax end otherwise : chillax end end n : takes w, C : integer array; q : integer; xe60, E : integer array returns nothing chillax end main : chillax end

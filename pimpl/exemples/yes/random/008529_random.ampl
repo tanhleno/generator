@@ -1,0 +1,1 @@
+program i : g7 : takes ub4, _, F : boolean; Z15, Yu1a, u, At : integer; F, I4Q : integer array; A : integer returns nothing chillax end G : takes A, jUl0, u9 : integer; Q9H, R, D, b, V8, k : boolean returns integer array input g end main : output "%" end

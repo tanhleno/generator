@@ -1,0 +1,1 @@
+program c3Yaa : gHj0a : takes e : boolean returns nothing while not 938 : chillax end; pop 473 = 3; do G(25 = 855) end main : output - not y - 2 or 9 < - (0) + 42 - 01; while - (734) = - P : chillax end; input t end

@@ -1,0 +1,1 @@
+program FX : D : takes Q : boolean; o : integer; U2 : integer array returns boolean pop end k1 : takes b : boolean array returns integer array while - 6 - 0 < 8 : chillax end end main : output 88; do _(- 1 rem(4), - 4970 and 8 = - 57, 9550 >= 470, 9290 = 35); input ocf0a[not 74 and 8] end

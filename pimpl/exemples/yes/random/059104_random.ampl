@@ -1,0 +1,1 @@
+program e : eR : takes Z6 : integer array returns integer chillax end IT : takes p, QA : integer array; F9, zv : integer returns nothing chillax end main : a, fg, h, q : boolean; N, H1, f1La, z2S : boolean; z : integer; b : integer array; when case(977) * true or false / false - true - 37 - 60 = true : while - 9 = 0 : chillax end end end

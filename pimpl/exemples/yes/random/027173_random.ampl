@@ -1,0 +1,1 @@
+program v : P : takes O, n : integer array; C, Z83, K, F : boolean; r : boolean returns nothing when case - not 706 or 0 - 68200 : pop 7 end case 5 - 25 : when case 6 : chillax end end case 0 : input O4 end otherwise : chillax end end main : pop end

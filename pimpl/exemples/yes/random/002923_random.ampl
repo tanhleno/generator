@@ -1,0 +1,1 @@
+program j700 : C : takes d, Y0y, S, t1, M : boolean returns boolean output "" . 2 = 0710 . 8240 end PE : takes A, l190a, F, a9, Z : boolean array returns boolean array i6 : boolean; C6 : integer array; while - 47 - 4 : when case 69 : chillax end end; let Jp[54600] = array 5200; output "k?" . "@" end main : chillax end

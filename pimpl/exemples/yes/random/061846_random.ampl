@@ -1,0 +1,1 @@
+program x : aU : takes q : integer returns boolean array B, xh50a, H : integer; input H end main : p, TX, Q : boolean array; pop; when case - (727) and 60500 and 3 : do sL50a(1 = 16100, 78100); output 8 . "q"; while 2 : chillax end end; do f(not 01 and 7 - 5) end

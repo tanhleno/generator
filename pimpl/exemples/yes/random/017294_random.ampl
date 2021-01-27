@@ -1,0 +1,1 @@
+program c : I : takes B, A3 : boolean; b, O : boolean array returns nothing when case true - 9430 - 1 : pop end otherwise : chillax end end M : takes n : boolean array returns boolean V : integer array; Va : boolean array; iI2a, m0 : boolean; i : boolean; output "" end n : takes t : boolean array returns integer chillax end main : chillax end

@@ -1,0 +1,1 @@
+program N : _jr : takes IP, y1v0a, wp, W410 : integer returns nothing input C[true + 1]; when case - 2 - 2 : chillax end otherwise : when case 1 : chillax end; pop end; while 7 = 9 : pop; pop end end main : output _[0] or 10 and 51 >= DY; pop end

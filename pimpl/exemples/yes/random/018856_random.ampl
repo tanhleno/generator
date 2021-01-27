@@ -1,0 +1,1 @@
+program z3 : xU50 : takes c, g050a : boolean array; xfF, B, n : boolean; a, v, A : boolean returns nothing let S[- true and 9 - 163] = array(1550); input h9y end main : H : integer array; q, T61a : integer; input j end

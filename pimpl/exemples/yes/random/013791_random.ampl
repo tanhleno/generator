@@ -1,0 +1,1 @@
+program nC : l : takes pn, TF, x : integer array; d, gm5a, z : boolean array returns nothing i0, B4, I, G : boolean; let C[- true and 6] = - 3 > 6; input s6 end r37a : takes Z65, t : boolean returns boolean X : integer array; A : integer array; x, r : boolean; E : boolean; M : boolean; while 176 /= 04 : chillax end; output 8560; do Q(542); output "" end main : chillax end

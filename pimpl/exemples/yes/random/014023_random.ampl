@@ -1,0 +1,1 @@
+program dz : B : takes lx6, w, e48 : integer array; N, n : integer; G : integer returns boolean n : boolean; J5, vQ : integer; chillax end main : pop; output "#" . - 71 . "" . 5; input E1o0[- false and 634] end

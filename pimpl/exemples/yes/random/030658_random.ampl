@@ -1,0 +1,1 @@
+program m8 : S : takes vn4, S : integer array returns nothing r, B : integer; H, R : boolean array; T_ : boolean array; x : boolean; let HK8aa[not 60] = 08 - 8; while - 171 - 3 <= 08800 : do Q(59); when case 6 : chillax end end; input gG; output "" . "93" end main : X, ro, p : boolean; output true / (60) and 06000; do Ajo(true) end

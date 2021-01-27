@@ -1,0 +1,1 @@
+program B73 : main : when case - 042 rem D rem 8 + 3 + false >= false * not 8 and 950 : when case - 82 - 550 : chillax end case 8 = 3 : output "" end case 13 : chillax end otherwise : chillax end end case not i rem Z and 8 + (5370) and 6 : output 0 end end

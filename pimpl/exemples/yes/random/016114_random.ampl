@@ -1,0 +1,1 @@
+program w : Z : takes n4x0, q1, O : integer returns integer output "d" . 99200; output 2 = 44 . "6\"" end main : d770a : integer; L, g, B, V, X : boolean array; M26, L7 : integer array; w, L7 : integer; chillax end

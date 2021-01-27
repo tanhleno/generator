@@ -1,0 +1,1 @@
+program c1Caa : L : takes X : integer; x, G3, Cv9a : integer array; C8, w : boolean; B65 : integer returns integer array when case - 1 and 0 + 5 - 8 : chillax end case 9 = 5 : while 6520 : chillax end; do L(1) end; output 67; while 47 : let _240 = 3 end end main : chillax end

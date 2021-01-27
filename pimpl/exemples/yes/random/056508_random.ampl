@@ -1,0 +1,1 @@
+program X : L70 : takes N : integer array; t0 : integer; yM30, n, nb, l, C3 : integer array returns nothing L24a, W3, j7p0, t : boolean array; k, o, v7, p8 : boolean array; output 80 <= 694; while 663 >= 970 : output "" end end main : chillax end

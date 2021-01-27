@@ -1,0 +1,1 @@
+program q : w380 : takes Ad : integer; X550a, T, j : boolean; w, x, G, O7Kaa, N : boolean; r : boolean returns nothing chillax end main : a : integer array; OF0 : integer; output "v"; when case - false / not 0 and 9 - 6 : chillax end case - y and 2 : chillax end case - 8 - 0 : chillax end; input A[bR and 4] end

@@ -1,0 +1,1 @@
+program S : o : takes q, w, X, G : integer returns integer array chillax end main : when case 55 / not 31 < d / (67) and 87 or not 18 and 8 - 9 : let u[- 9 - 83] = array - 3; input xZ3; pop 5 end otherwise : let Ne9a = array 9; input F end; do JE(- not false rem true and 55600 + R4R and 8, Y, - 3 = 27400, 64 = 76) end

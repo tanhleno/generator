@@ -1,0 +1,1 @@
+program LI : G1 : takes L : integer; G40, mH : integer returns integer array V4pa, b : boolean array; do B(not 56 = 1 - 4); when case - 9 - 74 : chillax end case 0 = 4 : while 4 : chillax end end case 2 : chillax end case 9 : chillax end end main : Z : integer array; D : integer array; chillax end

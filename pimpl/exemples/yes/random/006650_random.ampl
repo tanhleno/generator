@@ -1,0 +1,1 @@
+program l82 : fa3a : takes T, Sdm, t, H : integer; Hf : boolean returns boolean let f[(6) and 3] = array N and 6 end main : GX : boolean; Uz_0 : integer array; i1pa, g, bw, p4 : integer array; Q, k21 : integer; X, I, I7 : integer array; q : boolean; b : boolean; yAL : boolean; chillax end

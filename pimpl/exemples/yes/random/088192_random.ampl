@@ -1,0 +1,1 @@
+program r : main : input Z; when case 356 - (8590) > - false and 6 : chillax end case(02) and 16 >= - 620 - 71 : chillax end otherwise : while 9 : pop end end; do hV7(- 27 and 1, 026 = 0, 1 = 6, 07, 673) end

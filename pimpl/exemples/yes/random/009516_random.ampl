@@ -1,0 +1,1 @@
+program D9 : o2p0 : takes S, w, P : boolean array; B4, P, M, Z1, Q, VXWa : integer array; _, l, z8oa, OE2aa, LBw, b1_ : integer array returns integer array while not 38 /= - 112 - 1 : chillax end end main : when case true > - false / Au and 82 + 5 and 9 - 4 - 7 : pop; when case 0 : while 0 : chillax end; pop end end; let s7K0[- false] = l and 3 or 7 end

@@ -1,0 +1,1 @@
+program oH : A : takes d7C : integer returns boolean chillax end t : takes w : integer array; GP7 : boolean returns boolean YJ6aa, A : boolean; J2 : boolean; when case - 7930 = 3 : chillax end case 9 : input O; pop end; pop; while 547 : pop end end main : chillax end

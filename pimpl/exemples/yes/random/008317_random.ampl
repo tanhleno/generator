@@ -1,0 +1,1 @@
+program C : i6 : takes l8, J8, e9I, o : integer returns nothing iwx : boolean array; q800 : boolean array; output 4 - 44 . "2" . "" . 89 end main : m, rSUaa : integer; s, v, g : boolean array; while - y(1, 6) rem o * (2) <= not true : chillax end end

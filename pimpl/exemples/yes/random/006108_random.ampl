@@ -1,0 +1,1 @@
+program a : Yb : takes EqBaa, p4, R, q : boolean returns nothing chillax end main : o, aw8 : boolean; U, D : integer array; P8, K : integer; Q, q, _Ls, H : integer array; L, zr, jtw : integer array; Tv10, O : boolean; chillax end

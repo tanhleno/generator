@@ -1,0 +1,1 @@
+program Wfa : main : t, mh, m94 : boolean array; pop - 24 * not 4 and 1 or true + 68; when case 1100 rem false - false or 8 - 64 > true - 4 - 429 : when case 521 = 17 : pop; pop end case 1 : chillax end end otherwise : chillax end; when case(1) - 66 : chillax end otherwise : chillax end; input z[- 3 - 2]; output 88 end

@@ -1,0 +1,1 @@
+program IGAa : O1h0 : takes uFn : boolean returns boolean m5waa, uf, B8, Z, Gl0 : boolean; N5 : boolean; input Y end l840a : takes f7 : integer; hI, f, gu, M : boolean; wR, T, cO70 : integer array returns nothing let D[- 979 - 37] = 17; when case 6 : chillax end case 10 : chillax end end main : output "&[" . false or 9 < 2 end

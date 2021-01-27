@@ -1,0 +1,1 @@
+program AW : main : O : boolean array; Uq10a : integer; XX : boolean; a7, h, _05, N : integer; E8Y, X : integer; while(73 = 68) / i[32] / Z : when case 0970 > 4 : let W06 = 12 end case 13 : chillax end case 55 : chillax end end; do L(not false rem false, - not 24 and 7 + 12); let _u9 = array false and 03 end

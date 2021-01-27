@@ -1,0 +1,1 @@
+program i60 : i : takes R : integer returns boolean array y : boolean array; a73, B : boolean array; d, r4, nm : integer array; chillax end main : ER5, p4, K020a, CCTaa : boolean array; do U3la(- 85 - false) end

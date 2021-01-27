@@ -1,0 +1,1 @@
+program s : SeR : takes Y, z, Jh : integer returns nothing O7 : integer; when case - S and 4 or 9 - 05700 : when case 9 : chillax end otherwise : chillax end end otherwise : let I = 49800; input F; pop end; when case - 1 : chillax end otherwise : chillax end end main : chillax end

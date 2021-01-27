@@ -1,0 +1,1 @@
+program X : PN : takes gE, K30, S, P : boolean array; a : integer; B : integer returns boolean b, t, gtJ0a : integer array; M, c : integer; K, V : integer; hK, Z51 : boolean; output "b"; input n750[8990 - 7930] end main : c : boolean; N8, E : integer array; HU, _ : boolean array; chillax end

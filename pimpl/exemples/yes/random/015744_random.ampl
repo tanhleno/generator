@@ -1,0 +1,1 @@
+program R : l : takes v, dmD, B : integer returns boolean array output 40 > 9 end main : V, SI, Nv, G8 : integer array; s : integer; z, P : integer; D47, l68a : boolean array; f46, C, u : boolean array; a : boolean; B : boolean; input t_q[67 / not false + true and(773) or false] end

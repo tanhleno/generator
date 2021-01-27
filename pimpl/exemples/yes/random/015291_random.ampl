@@ -1,0 +1,1 @@
+program s6 : V : takes Mb5, M, o9 : integer array returns nothing BB60a, I0, l, G : boolean array; og, Xi, m23a : integer array; P : boolean array; s : boolean; H4 : boolean; pop; let A[- 1] = 11 end main : Ba60 : integer array; pop(8) <= - not 828 and 3 - 3 end

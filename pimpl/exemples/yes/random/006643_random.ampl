@@ -1,0 +1,1 @@
+program R : T : takes J5, CF, E, m6 : integer; t : boolean returns boolean array Ht1 : boolean; eSy : boolean; x, qw, d3 : integer array; do I(b - 9 = 70800) end main : while N + true rem zm50a and 52 > false and 698 and 992 + false and 89600 : output "(0"; output ""; output 46 end; output true and 8 or 4 = - 5 - 190 end

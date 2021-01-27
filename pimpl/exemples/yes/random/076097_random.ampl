@@ -1,0 +1,1 @@
+program J : main : T, PUT0 : integer; I6, M8 : boolean array; a, p : boolean array; do a(- not false or true = - false + (0) or 1, - l[3] - not 3 and 3 <= (58) and 8); do b(not false <= true and 946) end

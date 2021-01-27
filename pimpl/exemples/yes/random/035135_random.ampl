@@ -1,0 +1,1 @@
+program v3 : Hj : takes K : boolean; k, L : integer array returns nothing ISR0 : boolean array; T7, Z610, v : integer array; when case true + 5 : pop 7 end otherwise : chillax end; do M6aaa(36 - 7) end L : takes C, E : integer returns nothing vfj : boolean array; chillax end main : vE : integer; W, U5p, u, K, jA, T : boolean array; output - false * (2) + not 9 and 11 end

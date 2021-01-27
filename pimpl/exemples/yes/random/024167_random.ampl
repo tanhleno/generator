@@ -1,0 +1,1 @@
+program c : s8 : takes Q, x : boolean returns nothing Q1H0a, x, Efua, qF, y : integer array; pop; do Rw(6 - 5, 43 = 0, 363, 1); pop 4; while 53 : pop end; when case 6 : chillax end end Iv30 : takes I, S90aa, y, YA70 : integer array; e8, p3 : boolean array returns nothing chillax end main : G : integer array; chillax end

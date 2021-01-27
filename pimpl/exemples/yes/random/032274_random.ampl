@@ -1,0 +1,1 @@
+program pi : O71 : takes uG, Y : integer returns nothing chillax end v : takes Q7Eaa : boolean array returns boolean array chillax end main : while false + N(32) + false - 4 : pop 6 end; when case false / 7 : chillax end case - v <= - 863 - 30 : chillax end case - 06 - 058 < 660 : pop; while 4360 : chillax end; pop end case 753 : chillax end end

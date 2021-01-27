@@ -1,0 +1,1 @@
+program n : l : takes B : boolean; hf : boolean returns integer chillax end lO : takes K8, nObaa : boolean; g4T : boolean array; W : integer returns integer array i9 : boolean; v, y62aa : boolean array; Mn40 : boolean; chillax end main : do Ww(false * (0) >= - (28) - W and 4, Tc(61) /= true and 6); let P[(780) or true] = - true and 295 or 13300 end

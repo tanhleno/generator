@@ -1,0 +1,1 @@
+program I : F : takes aY90a, j, g : boolean; B : boolean array; k1c : integer; l : integer returns boolean W, I : boolean; A, P, qc, D : integer; X, rO : boolean array; chillax end main : chillax end

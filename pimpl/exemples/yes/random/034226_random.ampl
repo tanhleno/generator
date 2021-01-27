@@ -1,0 +1,1 @@
+program Ss : Iy : takes T6 : boolean; K, P : boolean; k8P0a, NFw, Jjd : boolean; g8I, Y : boolean returns boolean array input e[- true and 0]; output "4" . ""; when case 1410 = 7 : chillax end otherwise : pop end end main : A : integer; do Q(- not O8A(8) * true / not 194 and 2); when case - (49200) * 6 + (326) /= E - 7 - 3340 : let m9[7] = array 69200 end end

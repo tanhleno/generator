@@ -1,0 +1,1 @@
+program p12aa : Y8 : takes sWR, J7k0, RG8, T, Ds, oE4a, tO3aa : boolean; v1, g : boolean array; t : boolean array returns nothing chillax end uO : takes y, b, Is, h : integer array; J : integer array; B, m, uQz0a : integer array; cG : integer array; b8, B0 : integer returns integer lC : boolean; k860 : integer; n, RTO : boolean; chillax end main : chillax end

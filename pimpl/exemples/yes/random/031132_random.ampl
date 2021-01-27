@@ -1,0 +1,1 @@
+program s : Ov1 : takes o3, aO : integer array returns nothing while - d and 2 < - 6 - 3 : output "6"; while 2 : chillax end end end VR : takes D6p : boolean array; Wy5 : boolean; M8, j : boolean array; I : boolean; T7 : boolean returns integer array chillax end main : output - not true . "" . "\n8"; while(4) * 6 and 43 or true and 8 : chillax end end

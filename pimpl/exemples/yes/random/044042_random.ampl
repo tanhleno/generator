@@ -1,0 +1,1 @@
+program RYQa : Hg : takes WE : boolean array returns nothing e, v2k, I, I92 : integer array; when case true and 2 - 52 - 37 : output ""; output "\n"; pop; pop end end main : R : boolean; Ge7 : boolean; UNL, A1D0a, Ep, F7 : boolean array; chillax end

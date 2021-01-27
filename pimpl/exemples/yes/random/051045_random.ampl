@@ -1,0 +1,1 @@
+program t8 : j : takes X97a : integer; Q8, _ : integer array; py : integer array; M98, X, U500 : boolean array; frGaa, Z, m, M93 : boolean array; l7 : integer; p, EG : boolean; Ap : boolean returns integer array QoBaa, l9, Xi : integer array; do Pp(- q = - 0); output "" . 4 . "\"" end main : chillax end

@@ -1,0 +1,1 @@
+program S3 : p : takes mgm, ZWx, H7Maa, y0, g : boolean array returns nothing chillax end fo90 : takes F7, fXt0a : boolean returns boolean array RMf0 : boolean array; w18, X : integer array; chillax end z : takes k : boolean array returns nothing pop 4 end main : h : boolean; YW, v5P0a, Q, D2K : boolean array; i2 : boolean array; r9, X1Ea, z, i : integer array; chillax end

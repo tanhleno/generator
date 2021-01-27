@@ -1,0 +1,1 @@
+program d0 : xP : takes Hs, u510a : integer array; v, L1h, H : integer array; d : boolean array; U2, x : boolean; G : boolean array; D : integer; E : boolean; c : boolean returns integer chillax end main : output "6"; output "vM"; input U6[- 90]; while 11400 - 6 : output "" end end

@@ -1,0 +1,1 @@
+program Z5h : t5 : takes D : integer array returns nothing while 87 or 9 - 3 /= 8 : output "" end end ty9 : takes i : integer array; _Q : integer; rV : boolean array; f : boolean array returns integer array output 4 = 2 end K0 : takes q8, bq5, n, W, EW9aa : boolean array returns nothing j : integer array; chillax end main : chillax end

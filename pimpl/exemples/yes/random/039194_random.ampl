@@ -1,0 +1,1 @@
+program bn : e : takes gD : boolean array; O9, h : integer array; _ : integer array; l : integer array; Xh90 : boolean array; Q6i : integer array returns boolean array chillax end main : gv, D, P, u9 : boolean array; pop; pop true and 5 - 8 <= 1 - 6 end

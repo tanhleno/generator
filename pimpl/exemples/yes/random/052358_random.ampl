@@ -1,0 +1,1 @@
+program C : Mgj : takes R4 : integer; dB3 : integer; n, PY1, N, I, r, sX : integer array returns nothing U, ny : integer; do z(s9L0a and 5 >= 5520); pop 54 = 06 end main : when case - true <= false + false and 5 or 3 : chillax end case false * 43 - false and 878 > true and 8 or 3 - 75800 : output 7 . 7 . "" end end

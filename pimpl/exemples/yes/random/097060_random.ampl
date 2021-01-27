@@ -1,0 +1,1 @@
+program ql0a : main : when case a08aa[5] and true rem(16) and 36900 : chillax end otherwise : when case 285 : chillax end case 3 : pop end otherwise : pop end; pop 26; while 7 : chillax end; pop; pop end end

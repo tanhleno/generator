@@ -1,0 +1,1 @@
+program f : F : takes oR : integer array; Q : integer; i9, U : boolean array returns nothing Fi, t7 : boolean; chillax end main : _Xz, oguaa : integer array; output "\n"; input f[1 or K and 37 or 1270] end

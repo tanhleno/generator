@@ -1,0 +1,1 @@
+program Qi6 : main : EK, hQ70a : boolean array; w9 : integer array; do U(not false rem false rem 97 and 80600 - (2) * false >= - false, not true / true >= - not 9 and 6 or 2, not 20, 4 - 4 > 61, 5, 726, 9) end

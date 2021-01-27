@@ -1,0 +1,1 @@
+program s : T9 : takes e75aa, v, c4, kBc, r3, N, W, x550 : boolean returns boolean hu : boolean array; do B4(- (89), - 6 /= 1550); while - 7 : chillax end; let o29aa[7] = array 9110; pop end main : s : integer; n : boolean; let R5 = array - false; while Kw + not 4 : while 65100 = 4190 : chillax end; do eD2(82, 754); do E(3) end; output "" . "](" . 82 . 3 end

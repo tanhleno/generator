@@ -1,0 +1,1 @@
+program IT : h : takes I92 : integer array returns nothing pop; pop 9 = 3 end b : takes M3va : boolean returns nothing chillax end main : DD : integer; let Cg[- false and not(0) / false] = array not false rem true / true - true - f0ta end

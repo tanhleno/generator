@@ -1,0 +1,1 @@
+program J : w9J0a : takes g : boolean array; c13 : integer; B, p : integer returns boolean R : boolean array; fc : integer; v6W0a, N : integer; while false and 3 - 3 - 8 <= 90 - 8 : let f[5] = array 0; pop; output "" end end main : chillax end

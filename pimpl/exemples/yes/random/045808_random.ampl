@@ -1,0 +1,1 @@
+program vK : L4 : takes Q : boolean returns boolean array output 78 - 00; input ma[9] end E : takes F9, I3h0a, ze : integer; B : integer array; Z, wY, D9, jb, M : integer returns integer array s : integer array; chillax end K : takes t, b, l : integer returns boolean array while 19 : chillax end; input f[4] end main : chillax end

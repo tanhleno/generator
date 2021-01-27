@@ -1,0 +1,1 @@
+program cak : main : D, K7 : integer array; output "\\"; when case(6240) or false <= - 1 - 71 - 91 : input w; pop end case - not 3 and 878 : when case 58800 : pop end case 6 : chillax end otherwise : chillax end end case 0 - 61 : input D end case 89 : when case 09 : chillax end end case 9 : chillax end; input n end

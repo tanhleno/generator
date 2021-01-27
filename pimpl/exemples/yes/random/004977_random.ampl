@@ -1,0 +1,1 @@
+program jz : IZ : takes j7V, I, S, B : boolean array; D, S : integer returns boolean array C, a37, o29a, n0W0 : integer array; when case - 4 and 3 + 92 > - 5 - 3 : chillax end case - 4240 /= 10 : chillax end case 68 = 9 : chillax end case 0 : pop end; let O33[- 2 - 39] = array 27 end main : chillax end

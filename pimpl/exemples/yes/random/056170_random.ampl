@@ -1,0 +1,1 @@
+program Apeaa : y : takes m : integer array; D1 : boolean array returns nothing c : boolean array; chillax end main : Hr : boolean; do K(7, - true - not 76100 and 68000 + 13 /= - true and 64 or 144 - 90); let QR = array not false - true and 32 - 6 end

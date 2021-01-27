@@ -1,0 +1,1 @@
+program K : main : while not false * R(54) or false < not false : do w(6 < 8, 36700); when case 15 = 3 : do NiCa(6) end case 43 : chillax end end; when case false > - not 8 : chillax end case z : chillax end case 1 : pop end case 5 : do N(7); pop end otherwise : do t(1, 6) end; let y = array true end

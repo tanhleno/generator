@@ -1,0 +1,1 @@
+program S5 : S : takes w9 : integer array returns integer array a3, K60, j : integer array; while(5) and 6 or 5 - 7 : chillax end; output 05 . "g\\!" . "?"; pop 62 end main : pop false and true < - false and 75; let H7[false rem 79000 - not 423 and 92 + 1] = array - false + v3 end

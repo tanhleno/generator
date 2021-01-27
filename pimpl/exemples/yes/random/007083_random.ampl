@@ -1,0 +1,1 @@
+program c65 : W : takes j9, GMOaa, q, U : integer array; d, W : integer returns boolean while bz < 9060 - 6 : chillax end end r : takes s_3, BjN0, N, m, Q74a, X8 : boolean array returns boolean B : boolean array; pop 3 = 99900 end aq1 : takes k : boolean array returns nothing X270 : integer array; chillax end main : G6, w, p2s : integer; chillax end

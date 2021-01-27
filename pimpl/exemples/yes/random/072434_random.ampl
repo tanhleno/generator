@@ -1,0 +1,1 @@
+program X : main : C, Y, S3 : integer; let j[not k[4] / true and false - (8) * not 1 and 3 + true] = array - (1930 = 098) - true rem(51) and 1 or(6) and 60; do E6(- 50700 / not 825 and 46 - true >= - Sj and 1 + 878 - 95); pop 84 > 4; let UY[- 292] = array - 60 end

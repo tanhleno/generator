@@ -1,0 +1,1 @@
+program i7a : J6 : takes C02, t : integer array returns integer do G((03200) and 527, - 38 <= 3, 38 = 2000, 3); let _q[- 43] = array - 44 end main : do TJ(- 856 * K(70) + false / not 2 and 5 + true + 4930 - 4, - false > - true or 99 - 5); output "" . 331 - 1 = 9 . 6 . 28600 end

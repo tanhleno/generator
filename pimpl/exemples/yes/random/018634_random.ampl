@@ -1,0 +1,1 @@
+program c : A : takes Mwx, A : boolean array; mW, V, D, GL, Yl, t : boolean returns nothing K, h, R0, X, S86 : boolean; chillax end _ : takes f : boolean returns nothing N, s, Tc : boolean array; chillax end Y1 : takes K7yaa, W : integer; q : boolean; ik, B : integer array; QO : boolean returns nothing pop 0; let z22[1] = 6 end main : pyzaa, N, s : integer; chillax end

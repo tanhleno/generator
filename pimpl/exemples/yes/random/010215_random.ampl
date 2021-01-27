@@ -1,0 +1,1 @@
+program txJ : A : takes v0, c, m : boolean array; h : boolean returns nothing do NB(- false and 1 + 22) end l : takes a200a, v : integer array; R : boolean array returns integer chillax end o : takes E : boolean returns boolean let G0[0] = 41; let j = 4810 end main : jx, he : boolean array; chillax end

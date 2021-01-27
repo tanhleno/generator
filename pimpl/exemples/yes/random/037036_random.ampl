@@ -1,0 +1,1 @@
+program f : AT1 : takes S : boolean; k : integer array returns nothing chillax end n0 : takes AA, N030 : boolean; Z, gg, tT0, T, L5, lR : boolean; R5u : boolean returns integer chillax end V67 : takes y2P : integer; Oh, bF : boolean array returns nothing E, R : boolean; when case 2 : chillax end case 3 : pop end case 2 : chillax end otherwise : chillax end end main : chillax end

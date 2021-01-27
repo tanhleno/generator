@@ -1,0 +1,1 @@
+program f50a : b : takes f : integer array; V : boolean array; p5 : boolean; Uq40 : integer array returns boolean chillax end main : do m600(- q5(81) - 4 rem G or true - 28 < - (5) - 6 or 491, - h5(8) rem NI < true, T and 0); pop end

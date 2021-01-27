@@ -1,0 +1,1 @@
+program T : Q : takes nkc : boolean array; d8Y0 : boolean; H : integer returns nothing while s3Ra < - 1520 - 37 : chillax end; while 7 - 2590 : do W1(5); while 73 : chillax end end end t : takes OG : integer returns nothing chillax end main : V, c9, RL4, O10, Hl, F, Mf : integer; Rtd, ale : boolean; h, Ew : integer; let C11 = not true rem 8 or M + 509 end

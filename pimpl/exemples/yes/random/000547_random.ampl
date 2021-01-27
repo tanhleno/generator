@@ -1,0 +1,1 @@
+program D : OQ : takes zLa, tj8, FJYaa, e, fwh, A6C, t, HC : integer returns nothing while - not 31 and 1 : input FE5; pop end; let S[- 12] = 5; output 3; let ul8a[954] = array 39; output "]" end Apkaa : takes CYVa, o : integer; h3Oa : integer array returns nothing when case - 0 - 40000 : chillax end end main : y : integer; AE : boolean; w, E, B : integer; chillax end

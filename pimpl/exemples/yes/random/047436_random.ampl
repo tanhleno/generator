@@ -1,0 +1,1 @@
+program r : n : takes s8 : boolean returns nothing chillax end x78 : takes Z1, Np : boolean array; p, F8, y : integer array; y : integer; z4 : integer; k, l360a, V2 : boolean; m0, E : boolean returns integer array V78, ZSp0a : boolean; chillax end main : pop; input g[not(57) and(2) and 4] end

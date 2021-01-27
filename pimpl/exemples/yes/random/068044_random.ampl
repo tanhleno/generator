@@ -1,0 +1,1 @@
+program c0 : main : z, J, S37a, r, Z, mk8, I4 : boolean array; M6j0 : boolean; when case - not false > false / 52 and 3 : do c2(8 - 8 /= 86, 0, 1430, 851); input il[8]; input p; while 38 : chillax end end case - false <= not 9 or 9 - 23 : input h[5]; do d(81) end; pop end

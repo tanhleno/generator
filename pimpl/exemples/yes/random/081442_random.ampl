@@ -1,0 +1,1 @@
+program n : main : r : boolean array; G, t160 : integer array; D, M9 : integer; d46aa, O : boolean; while false rem(66) : do Y(5 >= 33) end; let a3[false and 73] = 00; pop; let kt = array - 54; while 80 : chillax end end

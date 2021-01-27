@@ -1,0 +1,1 @@
+program X : uh6a : takes JJ, L : integer; x94a : integer array returns integer array let s = 36; do N9(- 7600 - 28, 84 = 9); pop; let R = array 7 end k : takes m3 : integer array returns nothing let q = 25 end main : chillax end

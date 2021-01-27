@@ -1,0 +1,1 @@
+program xbz0a : T1_aa : takes j : boolean array returns nothing chillax end J9 : takes Vy : integer; W1 : integer returns boolean TK : boolean; a47 : integer array; input T[- 6220]; output "" end main : D, BG : integer; output - 8610 / false and 0; do u1(true and false - (5) + 7); output - 0 . "7" end

@@ -1,0 +1,1 @@
+program l : j3 : takes Y, I0 : integer array returns integer array do CgX((978)) end CT : takes eK3 : integer array returns boolean E : boolean array; H : boolean; chillax end I : takes q : boolean returns boolean f, Wb, J3qaa : integer; h9 : boolean; chillax end main : n : boolean; D : integer array; let N7[68] = S3[1] <= - k end

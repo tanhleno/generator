@@ -1,0 +1,1 @@
+program E : vX : takes XV : integer returns integer array do x(- 148 and 707 or 132 - 05100 < 65); while 46300 - 2 : do T(475); do a(190) end; input Bv8[42100]; pop end R : takes xL2 : integer; Y2 : integer array returns nothing when case 3 : chillax end end main : input l end

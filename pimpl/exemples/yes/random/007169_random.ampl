@@ -1,0 +1,1 @@
+program M2i : QAt : takes d, Y, wB3aa, Q9 : integer array; M : boolean array returns integer array let F = - 61800 - 895 < 199; when case 5 - 1 = 4 : chillax end otherwise : chillax end; while 2 = 596 : chillax end end main : O5, t, I, u840a : boolean; dW, A0, j2, kX : boolean array; D : boolean array; ws6a, Y, L, yMMaa : integer; i : integer array; q : boolean; chillax end

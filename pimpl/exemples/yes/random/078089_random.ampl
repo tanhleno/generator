@@ -1,0 +1,1 @@
+program v : main : v, b : integer array; when case - not 61 and z rem CkD and 5 >= true + not 85 and 12500 : chillax end case not c and not 9060 and 8 - (220) or 63000 = - true and 8 : chillax end end

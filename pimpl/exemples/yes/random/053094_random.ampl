@@ -1,0 +1,1 @@
+program Th : COd : takes vy : integer; n : integer array returns nothing while - (6) + 76 : chillax end end p : takes e, iU : boolean array; M : integer returns nothing e, z : boolean; let w[272 - 87] = 3 end main : tt : integer; i, p : integer array; pop not P; do t0(- x93[4] / (83) and 14 or not 24100 and 855) end

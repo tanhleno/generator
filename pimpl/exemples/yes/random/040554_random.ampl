@@ -1,0 +1,1 @@
+program _ : S360a : takes tu : boolean array; F9la : integer; q4D, J7 : boolean array returns nothing Y0, z, Ia : integer array; dQ2 : integer array; Z, Nd : boolean array; pop 83 < 45; input NG end main : let n = - true = not 1 end

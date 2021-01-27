@@ -1,0 +1,1 @@
+program h : V : takes o4 : boolean returns nothing j56aa, aw, n, J, y : integer; input b[- false] end main : z, lo8a : integer array; while - true / false * o8 and 1 + not RS20a - not 703 and 03 <= true + true + 59 : let x01 = array 276 - 35 end; do j(false + 46 or 5 - 693 < - false) end

@@ -1,0 +1,1 @@
+program um6 : P : takes i4, ANw, k2 : boolean array returns integer array chillax end H : takes N, A : integer returns nothing let n = array - 08 - 6; let o = array 26600 end main : o4n : boolean; while not false * true * false and 71 - false / 16 : chillax end; let t[not M9 and false - (67)] = array - vw + Pi and 0 or 2 end

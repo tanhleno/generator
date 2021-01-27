@@ -1,0 +1,1 @@
+program t : main : g : integer; when case not(5) rem not 2 * wR + not 4 and(3) - not 650 and 6 - 0 - 4 >= 2 or 1 - 9 : pop 0 end case - hl : when case 13 = 106 : let a = 9; pop end otherwise : chillax end end case H and 7 or 9 /= 7 - 011 : let A = array 8; when case 106 : chillax end end end

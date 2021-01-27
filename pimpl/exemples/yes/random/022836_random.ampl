@@ -1,0 +1,1 @@
+program t : r6 : takes R, j : boolean array returns nothing while not 89 and 88700 or 433 /= 82 - 08 : chillax end end J : takes I : boolean array; W2, u : integer array; P : boolean returns integer i, J : integer; R : integer array; chillax end main : chillax end

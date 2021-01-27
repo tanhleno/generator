@@ -1,0 +1,1 @@
+program Q : main : k, U : integer; H, fj00a : boolean array; e : integer array; RHNa, B, y, l : boolean array; ZRW : boolean; when case - not(9560) = - true - true and 068 : while - 67 - 88 : chillax end; while 0 : do V6(63); pop end; output "" . "" end end

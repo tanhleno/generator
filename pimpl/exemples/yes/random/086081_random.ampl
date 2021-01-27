@@ -1,0 +1,1 @@
+program Y9 : main : lG : integer array; L6, u : boolean array; a : integer array; when case true rem 2 > not not 4 and not 76800 : chillax end; do o(false, z47 < - 5 - 5730, 0 /= 6); let k[- true] = 63 - 078 >= 1 end

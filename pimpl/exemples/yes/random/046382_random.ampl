@@ -1,0 +1,1 @@
+program h : k : takes D : boolean returns boolean when case - true and 7 <= 0 - 1 : pop 30; do b87a(95); when case 6 : chillax end; pop end end P9fa : takes RF, L : boolean; c, G760a : integer returns integer array chillax end main : do Z(not false / false - F[60] >= (06) * not 49 and 75, false, not 7360 <= 497, - 27, 3, 43900) end

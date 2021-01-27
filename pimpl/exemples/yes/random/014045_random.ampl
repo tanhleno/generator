@@ -1,0 +1,1 @@
+program l4 : H71 : takes wEA0, t3Ha, H : integer array; Q, D : integer array; a : boolean array returns boolean array a : integer array; t, Bv, Tc : integer; chillax end FdTaa : takes P : integer returns nothing chillax end main : when case - f25aa[9] or 480 - false and 70 : chillax end end

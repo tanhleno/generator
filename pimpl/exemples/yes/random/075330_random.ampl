@@ -1,0 +1,1 @@
+program tZ20a : main : vh, Ys : boolean array; Vh1 : integer array; I : integer; when case(12) and Y1x(7) or(3) : chillax end case - false + (8) and 1 or 6 : pop end case - W or 5 : do XMu(6); when case 5 : chillax end; do w0(6) end case 7 - 61 > 8 : chillax end case 1390 = 6 : chillax end case 3 : pop end end

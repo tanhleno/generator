@@ -1,0 +1,1 @@
+program y : main : T : integer array; output - 68 or xNM and 38 or 0 - 99 = - (19) and 5 - 9750 - 315 . - x <= 167 - 57; while not false rem Z5Gaa and 7330 > h : pop; let W[37] = 7; while 7 : chillax end; let a860a = 5; pop end end

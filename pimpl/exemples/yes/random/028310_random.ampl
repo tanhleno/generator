@@ -1,0 +1,1 @@
+program G : Hlx : takes Q, E6 : integer array; HHt : boolean array; l1Aaa : boolean array returns nothing chillax end Q : takes w : boolean array; BU, f : integer array returns nothing y, mb : integer array; input y3[36 - 46]; while 5 = 15 : chillax end end main : chillax end

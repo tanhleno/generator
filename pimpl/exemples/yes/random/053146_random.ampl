@@ -1,0 +1,1 @@
+program d1 : VCh : takes NS : integer; w : integer returns boolean chillax end VR_ : takes p : boolean array; o6M, H, z : integer array; s8 : integer returns boolean array f : boolean; chillax end main : P, U, s, d, E0 : boolean array; A6e0a : integer; L : boolean array; T5, U, K, bm9 : integer; let f = array - false end

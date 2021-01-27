@@ -1,0 +1,1 @@
+program Fv : uB : takes Bed0a : integer returns integer array tf80 : integer array; let b[true and 90700] = array not 4 and 8 or 6; input tH_0[4610 - 566] end kP : takes N7D, dE1 : integer array; x19, ge2a : integer array returns boolean let _ = 89400 end main : chillax end

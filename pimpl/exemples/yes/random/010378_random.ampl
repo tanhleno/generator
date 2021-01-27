@@ -1,0 +1,1 @@
+program R3 : A : takes Q, J, Ken : boolean array; F7 : integer array returns boolean ojQ : integer array; let e = array X; when case - 88 : pop end otherwise : chillax end end o : takes iqY, oBma : integer array returns integer array n, Y : integer array; b, s : integer; Ve : boolean; chillax end main : Q, d, g : boolean array; B : boolean; chillax end

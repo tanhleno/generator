@@ -1,0 +1,1 @@
+program m4 : main : wC7aa, F, Ni, A, K : boolean array; zP, I9X, Ha40a : boolean array; let nJ10a = array false; while - not c / (046) and 7 or(3) - 5 : input f3 end; while - true or 9 - 102 = 22500 : do r(2, 975); input Qp end; output ""; do A2(6 = 1, 58700, 6); let a3 = array 1; let h = 6 end

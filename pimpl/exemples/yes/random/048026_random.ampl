@@ -1,0 +1,1 @@
+program k : X7 : takes o : boolean returns nothing Y, m, Cf : integer; chillax end s : takes PFd0, q6r : integer array returns nothing when case - 5 : do q(62); pop; pop end case 0 = 4 : output "5\n"; pop end case 1780 : pop end case 9 : chillax end otherwise : chillax end end YT5 : takes t, gbA, UMz0 : integer returns nothing w7, w : integer; chillax end main : chillax end

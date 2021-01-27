@@ -1,0 +1,1 @@
+program b85 : C : takes N420 : integer array; tm : boolean returns integer array chillax end H : takes K : boolean returns integer array chillax end main : p, y : integer array; pop; let gp[- 9 / false] = array(48) * 642; when case - (3) : chillax end case 21 - 441 > 88 : when case 5 : chillax end; while 7480 : chillax end end end

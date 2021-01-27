@@ -1,0 +1,1 @@
+program XlF : gP : takes l67, Wn, w : integer array returns boolean array chillax end main : mL1, D0, nl, kS, o, n : integer array; lF, Ib2 : boolean array; when case not false or false - 8 and 4 > true rem true and 829 : output 0; do tL(05 = 47, 4, 3) end otherwise : pop end end

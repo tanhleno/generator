@@ -1,0 +1,1 @@
+program QF : sa : takes WCD : boolean returns boolean array _, P : integer; n : integer; E, Ub, t : boolean; output 79800 < 6; while - 9270 - 1 : output "o\"aa" end; output 1 end main : _, p : integer array; do x(- true and false <= (5) or GV3 or 35 - 0); output "=Va" end

@@ -1,0 +1,1 @@
+program O62 : F : takes iXw0 : boolean returns nothing chillax end main : k, v, P_, ET, F, P8 : boolean array; pop; pop not 7 and 03; output "" . 62 = 28; while 12 - 72 = 3 : chillax end; let u = 6; let a = array 7 end

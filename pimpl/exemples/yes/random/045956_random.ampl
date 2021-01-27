@@ -1,0 +1,1 @@
+program Z9 : S80 : takes V3 : boolean returns boolean chillax end x4n0 : takes t : integer returns boolean chillax end c8 : takes g2 : boolean returns boolean array chillax end main : t2 : integer array; chillax end

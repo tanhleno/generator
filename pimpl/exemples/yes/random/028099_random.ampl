@@ -1,0 +1,1 @@
+program vw4aa : WLh : takes U5, ThIa : integer array; x, h3 : integer returns nothing aN : integer array; chillax end E : takes qD, B : boolean; i : boolean array returns boolean array T, R, f, P : integer array; E, I, KX0 : integer; while - 8970 : do G(21500); while 896 : chillax end; pop end; do W(646 = 7, 6) end main : K, b3_0 : integer; chillax end

@@ -1,0 +1,1 @@
+program s : u : takes D2, v3P0, f : boolean; J : boolean; L4C, Mss0a, r, k : integer; j, Y, eo7 : boolean returns nothing chillax end K27 : takes i90a : boolean returns nothing MA : boolean array; i : integer array; pop end main : chillax end

@@ -1,0 +1,1 @@
+program V5 : p : takes w, OBj : integer; X9L : integer returns boolean array pop end O3 : takes F : boolean returns integer array chillax end main : input v; do B(true rem(2) and 4 + false and 7 /= - true and 7 + 568); input y9; input R[- 8]; pop; when case 5 : pop end; output "@;"; output "h"; pop end

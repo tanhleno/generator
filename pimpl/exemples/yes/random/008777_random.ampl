@@ -1,0 +1,1 @@
+program bT4 : U : takes Fl, P1, m87 : boolean; j, F : boolean returns boolean c, O, d24a : boolean; chillax end bo : takes n : boolean array returns nothing F9 : boolean array; j, s, H : integer; A, zf : boolean; B : boolean; p : boolean; chillax end main : B2 : boolean array; chillax end

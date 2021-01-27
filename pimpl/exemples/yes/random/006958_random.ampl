@@ -1,0 +1,1 @@
+program j : N : takes p, H, F6, V : integer array; poB0, d2, Xz : integer returns nothing input vG; let M = array - 67400 - 7 end main : U2, q, Pn6, Ye : boolean array; w : boolean; F, JwN, F6 : boolean; pop; output u5 and 55500 - 84 end

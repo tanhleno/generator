@@ -1,0 +1,1 @@
+program V : H2 : takes q4 : boolean array; NcL0a, Q, vsY : boolean array returns integer array F, tB3 : integer array; v : boolean; nNC0 : integer array; WxR, m : boolean; do Qg2aa(- 553) end e : takes w09, L, g420a, q : boolean returns nothing vC1 : boolean array; Egu0a : boolean array; chillax end main : output - s = - (31) or 41 - 87; output "J" end

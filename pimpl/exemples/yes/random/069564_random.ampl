@@ -1,0 +1,1 @@
+program d : main : ebk, X, K, W2 : boolean; O0 : integer array; S, J09a : integer; kKu0a, h2Uaa : boolean array; E, E, f93 : boolean; n, A : boolean; do DI(- 02 + (2) rem false or false + 8, - (2) < true - 7 - 244); let k = - true and 2 - 47800 - 39 > 00600 - 1; pop; do o4(93 - 0 <= 2); input T020[79]; when case 7 : chillax end otherwise : chillax end end

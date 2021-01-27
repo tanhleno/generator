@@ -1,0 +1,1 @@
+program _u : J : takes P : integer; c : boolean; R : boolean array; t, V : boolean returns integer nva : integer array; pop - 1 /= 5; while 60 /= 48 : chillax end; input C[8]; input i; input F; let O = 34 end main : chillax end

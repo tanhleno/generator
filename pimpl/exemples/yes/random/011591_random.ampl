@@ -1,0 +1,1 @@
+program j : j : takes in30, R0, x : boolean returns boolean array tyH, Qz : boolean array; while - false : chillax end end main : K : integer array; V0, j, Cg : integer; input I[- 677 and h130a(244)]; while - J(84) - 34 > true and 75 or 0670 - 7 : while 20 : when case 09 : chillax end end end end

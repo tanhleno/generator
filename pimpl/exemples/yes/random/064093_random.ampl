@@ -1,0 +1,1 @@
+program u : vh : takes tLya : integer returns nothing do B(- pN = - 4450); input X[10]; let b0 = array 975; while 1 : chillax end; when case 108 : chillax end; output "0\n" end l : takes Bas0a : integer array returns nothing chillax end main : xM, o : integer array; v9 : boolean; chillax end

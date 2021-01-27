@@ -1,0 +1,1 @@
+program P : P2ya : takes u2D, a : boolean returns boolean chillax end b : takes G90 : boolean array returns boolean array let E[- 9 - 17] = array 3 - 4; while 3 : chillax end end d : takes i : boolean array returns nothing do E5(32 = 2510) end u30aa : takes P7, wx30a : boolean array returns integer array let s[33] = 5 end main : G, ty : integer array; chillax end

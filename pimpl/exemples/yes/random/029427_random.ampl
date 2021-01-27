@@ -1,0 +1,1 @@
+program G180 : b : takes qf10, X : integer array returns boolean array when case 70300 < - 2 : chillax end otherwise : chillax end; while 46 > 16 : when case 87400 : chillax end end end main : chillax end

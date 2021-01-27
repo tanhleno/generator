@@ -1,0 +1,1 @@
+program G : la : takes c33, m, Q2 : integer array; W : integer array returns boolean while - false and 8 + 5 >= - 69 : while 42 : pop end; output ""; do wL(08); pop end end G2u : takes p, F, N, c18aa, CAY, Q, L : integer array; Jav0 : boolean returns nothing chillax end main : output "-)" . "" . - 9 - 767 > 385 . "9?" end

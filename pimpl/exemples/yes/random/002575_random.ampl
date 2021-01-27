@@ -1,0 +1,1 @@
+program Z0 : X : takes St, P, g38, e, B26 : boolean array; H9O : integer; n, rEm, pE7 : integer array returns nothing A_ : boolean; I, HkT, a, V : integer array; K2, h, lM : integer array; do d(- not 26 and 3 - 6 - 287 > 7510) end main : pop end

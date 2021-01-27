@@ -1,0 +1,1 @@
+program Gy : main : m, E, d, N2 : integer; pop; while - (2) * 2 : chillax end; when case U and 2 - 4 - 0 /= 4 : do C250(88, 1); let m = 6; do B(99); pop end case - 1 - 3 > 54 : chillax end; do f(- 071 - 10, 59400); let l[10800] = array 20700 end

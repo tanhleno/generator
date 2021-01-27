@@ -1,0 +1,1 @@
+program G4 : ey : takes E : integer array returns integer array fO60, Fq4aa, GP, a0 : boolean; output "As!a" . 6 . ""; while 0 - 0100 <= 3 : output "\n" end end Z : takes w : boolean returns boolean array do iaA(- 94) end main : chillax end

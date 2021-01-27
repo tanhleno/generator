@@ -1,0 +1,1 @@
+program MG : Z : takes X4, Z, x24a, z940a, v, L : integer array returns integer chillax end X5 : takes w0 : boolean array returns integer array x, Y9taa, J : boolean; chillax end main : Th5 : integer; hYb, N, H6, Y, q : integer array; let M = false rem T and 2 end

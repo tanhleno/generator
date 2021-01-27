@@ -1,0 +1,1 @@
+program Bk9 : Jvw : takes C, zV : boolean returns integer e2, a, h : boolean array; nDY0a, Ha : integer; gx : integer; N, g : boolean; pop; let G[1160] = 69 = 1 end main : k : boolean; do I(04 + not Jc7 rem true and 39 <= - (9) or(6) - 5 - 9); input j[true or false] end

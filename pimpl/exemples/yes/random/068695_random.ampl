@@ -1,0 +1,1 @@
+program m : main : q50aa, G, F, R, l54 : boolean; k, eE : integer array; when case - (59 = 39) - true + 3810 - 8 : do M(- 30 >= 5) end case(1350) / false + false : chillax end otherwise : chillax end; output "7\\"; let H = 4 >= 5; let e[- 2] = 710 = 8190; while 41 : when case 3 : chillax end end end

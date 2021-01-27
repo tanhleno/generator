@@ -1,0 +1,1 @@
+program Hh : main : m : boolean; J : integer array; Ce, G840, T : boolean; while true and true + Ao + (95) + 05 : output "" . 11 . 481 end; when case not not 2 <= - (3) : chillax end case - 692 >= - 10 - 84 : input B4[7] end case - 498 - 437 < 9 : chillax end otherwise : let p[386] = array 7; let L = 0 end; while(5) and 7240 - 12600 - 45 : chillax end end

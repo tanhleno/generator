@@ -1,0 +1,1 @@
+program w : C : takes s : integer; r98a : integer returns integer OHGaa, D, g, Y9 : integer array; o : integer; oP, U640 : integer array; K02, O9S : boolean; chillax end main : when case false or false and not 0 or not 729 and 12 : pop 8 = 1070 end end

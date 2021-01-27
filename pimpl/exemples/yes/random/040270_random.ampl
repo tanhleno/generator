@@ -1,0 +1,1 @@
+program G : g : takes Dn10 : boolean array; bs3aa : boolean returns boolean G, y1, v, d, V : integer array; while(27700) - 2 <= - 02 - 952 : chillax end end j4f : takes P : integer returns integer chillax end main : chillax end

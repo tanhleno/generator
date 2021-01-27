@@ -1,0 +1,1 @@
+program M9I : Z : takes OUR0a : boolean array; u : integer array returns integer chillax end main : let I[- 17900] = array true; output "\"" . "" . 6 = 4 . "" . "" . "\t"; while A and 2 - 43500 - 21 : chillax end; output 8 end

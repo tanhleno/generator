@@ -1,0 +1,1 @@
+program d : H : takes v2, e, H, Z : boolean returns nothing qY : boolean array; f : integer array; T, J : boolean; do O(- false and 506 or 4 - 79300); pop; input KBfa[859]; let m7P[3] = 10; let Pm = 9 end main : Co8 : integer; s1, i6 : integer; Aq : boolean; Hl, x : integer; chillax end

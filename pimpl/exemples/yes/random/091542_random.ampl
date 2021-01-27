@@ -1,0 +1,1 @@
+program f0m : main : let Z[not true rem(42400) / false and 025] = not true - false - 35 - 2 <= not 10 and 71 - 2 - 0; while - (0) rem false and 919 + not 9550 and 1 - 72 >= - J + 850 : chillax end end

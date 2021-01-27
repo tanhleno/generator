@@ -1,0 +1,1 @@
+program d : Q : takes pB10a : integer returns nothing chillax end main : let M[8340 / (066) + (9) - false] = array true and b2(5); when case t - 9 and 41 - 33 - 1 > (7) and 99 : let f = array 6 end; while not 9 + 67 - 700 : chillax end; while - 02600 - 0 > 3 : chillax end; input O[7] end

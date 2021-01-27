@@ -1,0 +1,1 @@
+program m : QP4a : takes r1, k : integer; _23, Ph, M, h : integer returns nothing chillax end b : takes s, P : boolean; p, Z : integer returns nothing chillax end main : ab, G, K : boolean array; Qj, F6 : boolean; do b(not(58) or(78), not(9)); let oD = (50) or 59900 end

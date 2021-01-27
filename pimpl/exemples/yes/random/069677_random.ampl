@@ -1,0 +1,1 @@
+program c5_0 : main : a6Haa, D, B, K : boolean; while(0 = 8) rem false and not 095 and 38 : pop; when case 3 = 681 : chillax end otherwise : pop end end; while - false or false and 3 : while 8 = 869 : pop end end; pop - 9 - 7; output 2 end

@@ -1,0 +1,1 @@
+program r : m : takes W : integer array; r8 : integer; f1, Bhv, m870a : boolean; b, n : integer array returns nothing chillax end main : let D[- true - not false rem true and 4 - true and 7 - 1] = - 799 + (9) and 4 - 16 - 5 end

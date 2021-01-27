@@ -1,0 +1,1 @@
+program vh : L9 : takes H, W8ca : integer array returns integer array O, q_50 : integer array; h, j : integer array; chillax end O : takes oC, r, Y : boolean array; xwhaa, g_1, u54, d, j50 : boolean array; F8, m, z, l, N7ga : boolean array returns nothing chillax end main : input VP[- 8 and 728 or true]; pop - D < - 608 - 5; when case(9) + 39 - 82200 <= 63 : chillax end end

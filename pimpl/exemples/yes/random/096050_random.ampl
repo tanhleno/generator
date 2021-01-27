@@ -1,0 +1,1 @@
+program NKRa : main : when case - D5[077] - not x1taa rem(958) and 0 : let c = 8; pop; input o; let rO = 642; while 8 : chillax end end; pop; pop - 2 - 27; when case - 5 - 2 >= 9 : do ago(66200); let V = 8 end case 94 : pop; pop end case 8 : pop end otherwise : pop end; let u[681] = 9; when case 26 : pop end case 3 : chillax end end

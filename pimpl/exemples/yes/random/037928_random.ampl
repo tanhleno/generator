@@ -1,0 +1,1 @@
+program fe : A : takes H : boolean array; Td, uG, g8, xlO : integer returns integer w93, Z : boolean; do K((0) and 3 + 76 - 33); input dH[9020]; while 6 : when case 214 : chillax end; pop end end main : Lg : integer array; input _[- (1 = 35) rem(7) rem false]; do UIb0(false / 84000 or not 4 and 9) end

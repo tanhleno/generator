@@ -1,0 +1,1 @@
+program k : main : while ZD[81] * true > - not(0) : when case - 9 >= 1 : output ""; when case 98 : chillax end; pop end; while 4 = 161 : let gp = 75700 end; when case 6 : chillax end otherwise : chillax end; output ""; do Xu(8); pop end end

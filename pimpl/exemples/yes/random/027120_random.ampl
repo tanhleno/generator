@@ -1,0 +1,1 @@
+program A2 : B : takes F5o0a, U8 : integer array; woe, n, j, kNLa, VT7 : integer; Q560, M : boolean returns integer array MS : integer; while - 09 and 1 - 33 /= - 2 : chillax end end u : takes b2 : boolean returns nothing do Q1saa(7 = 1); let Ck = array 8; input a[88]; pop; output "\\" end main : DC, _J, h : integer; chillax end

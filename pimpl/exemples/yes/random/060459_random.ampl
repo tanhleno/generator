@@ -1,0 +1,1 @@
+program K : M16aa : takes rp9 : integer array returns nothing d5Ka, L84 : boolean; E, M, k, O : boolean; G80 : boolean; NV20a, Z : boolean; S7 : boolean; a : boolean; output 4 - 97 = 27100 end S700a : takes P8, Q, Xu2, h : integer returns integer W7 : integer; let p = 454 = 07 end main : d : boolean array; D130, e : integer; chillax end

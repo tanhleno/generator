@@ -1,0 +1,1 @@
+program P80a : c27 : takes H, M, p, Mj0, u : integer array returns boolean input Y[- not 85]; let If = 4 = 720 end J5H : takes F : boolean; O0 : boolean returns integer z, c, z, n50 : boolean; input Ha[- 01100 - 9380]; let u4D[1] = 8 end main : pA, S, mEh0a, _ : boolean; let L6 = array bZ5 * (0); let Z = - false and 817 - 64600 < 9 end

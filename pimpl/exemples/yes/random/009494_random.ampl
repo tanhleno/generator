@@ -1,0 +1,1 @@
+program Z32a : u : takes _1iaa, O3, B2 : boolean; j : integer returns nothing pop 5460 <= 2; let k6[- 23900 - 08] = array - 15 end cV : takes mML0, y04aa : boolean array; H, ks : boolean returns integer when case 07 - 88 >= 17 : input qBp; while 84 : chillax end; pop end case 0 = 23800 : chillax end case 377 : pop end; output ":" . "" . "*" end main : chillax end

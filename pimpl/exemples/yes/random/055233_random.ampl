@@ -1,0 +1,1 @@
+program FW : s : takes F7 : integer array; h, Jy : integer array returns integer g9 : integer array; when case(0) or 1 : chillax end otherwise : output "" end; let _5Ua = array - 8; while 14 = 87 : let sD = 0 end end main : H : boolean; c : boolean array; chillax end

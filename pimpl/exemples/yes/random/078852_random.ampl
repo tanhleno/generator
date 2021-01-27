@@ -1,0 +1,1 @@
+program F9 : main : rQ60a : boolean; x_xa, c : boolean; while - 895 /= - y(9) + false + 0 - 97400 : chillax end; when case not not 699 - false and 3350 > 8 and 75300 or 8 : chillax end otherwise : when case 15 : pop end case 56 : chillax end; do v(3) end end

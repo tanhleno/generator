@@ -1,0 +1,1 @@
+program t : main : Er0 : integer; i : boolean array; tZ : boolean array; J6uaa : integer array; l, L8Ia, yI00a : boolean; do M(- 5 and 06 - 3); when case - not false : let bR7[8] = array 9540 end end

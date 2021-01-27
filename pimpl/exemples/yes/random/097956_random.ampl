@@ -1,0 +1,1 @@
+program R7 : main : while - (5290) / not true * Q and 16 or false / f and 3 + 77 and 0 < - n[23] and 4 and 25 - 2 : output 15; while 93 = 86000 : chillax end end; while - 8310 * 8560 and 7 < L0 and 84 : chillax end end

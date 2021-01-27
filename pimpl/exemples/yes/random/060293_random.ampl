@@ -1,0 +1,1 @@
+program k : l : takes j0Ba : integer array returns nothing j7, Jz, ixv, kX : integer array; chillax end H : takes H : integer returns nothing pop end main : when case - (0 = 9) and not(7940) * true : pop 44 = 81700 end otherwise : let C = 5 end; do s(- false, - not 4 and 20 < - 64) end

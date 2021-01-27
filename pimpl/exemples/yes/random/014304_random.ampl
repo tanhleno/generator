@@ -1,0 +1,1 @@
+program a : d530 : takes oT, m5V, M : integer array; Of : boolean array returns nothing f, u, Y : boolean array; output 353 - 0 /= 21 . ""; output "" . "" . "\\l" . "" end kyI : takes LR, m75a, Z : integer array returns nothing P2, X, h : boolean; pop end main : chillax end

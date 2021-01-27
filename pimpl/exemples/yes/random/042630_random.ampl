@@ -1,0 +1,1 @@
+program n : sk : takes VAL : boolean array returns integer array Jy00a, psc : integer; r3, k900a : integer array; u, u9 : integer; PRH0, d5j : boolean; do P(true < - 541, 20 >= 06100, 12); let j57[- 105] = 9 = 150 end main : X : integer array; fY, A : boolean array; E, IM : integer array; q, M32 : boolean array; chillax end

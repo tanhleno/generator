@@ -1,0 +1,1 @@
+program V1 : main : input w9[- (7 = 49) and(7)]; output "" . "\\" . 673 = 1; when case false : chillax end case - 22 <= 0 : when case 4 : chillax end; while 4 : chillax end; pop end otherwise : pop end; pop 37 = 2 end

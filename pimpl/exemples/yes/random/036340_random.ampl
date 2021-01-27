@@ -1,0 +1,1 @@
+program T : l3R0a : takes I60 : boolean; _ : boolean returns nothing dI0 : integer array; n : boolean array; g, zJ_ : integer array; C6 : boolean; pop; output 4 = 1; input P33 end main : do f(not not 58 and true * false - not true and true and 8780, - false - (4) + 43 - 25, 0 /= 247, - 8 - 85 < 3) end

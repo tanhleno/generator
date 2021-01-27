@@ -1,0 +1,1 @@
+program K99a : main : t64, F4, A, yu, q, jau, z : integer array; Y : boolean array; o5, F, yN90a, hf : boolean array; B : integer; output 5 / KJ >= not 6 and 47 . - not 662 + 56 - 4 /= 2 - 314; while(080) or true and 9 + 2 - 6 < 3 and 15 + 34 : chillax end; input s[- (76) and 52 or 18] end

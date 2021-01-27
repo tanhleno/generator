@@ -1,0 +1,1 @@
+program g : q : takes l7Z : boolean array returns nothing y6 : integer; do e83(true and 42 + 1 - 5, - 1 - 3, 2, 6); let a[399] = 6 end RI9 : takes o5, oe : integer array returns boolean W12, A, SAx0a, F : integer; V6 : integer; lZ : boolean; P77 : boolean; t : boolean; output "(" . 5 end main : chillax end

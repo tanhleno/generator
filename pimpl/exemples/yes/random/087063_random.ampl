@@ -1,0 +1,1 @@
+program x8 : main : q6 : integer array; input m_s[not 5 or(0860) rem b53]; when case - not w / 30 - false or 0 - 97 < lF6 : chillax end case 81 = 92 : output ""; while 3 : chillax end; while 1860 : chillax end end otherwise : chillax end; output 2440 - 50; do O4(- 7330) end

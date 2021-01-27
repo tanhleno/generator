@@ -1,0 +1,1 @@
+program f1 : v420 : takes _6 : integer array returns nothing o2 : integer; chillax end hlE : takes U, I3 : boolean returns integer array ihw : integer array; D : integer; J, S6 : boolean; vq : boolean; chillax end main : chillax end

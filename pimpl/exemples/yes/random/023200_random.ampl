@@ -1,0 +1,1 @@
+program w : h : takes XL, K7D : boolean returns boolean e, ma, EM8a : integer array; iLQ : integer; input yD[(87) and 8]; output 7 = 7; pop 89; let n = array 33 end main : wk : integer array; chillax end

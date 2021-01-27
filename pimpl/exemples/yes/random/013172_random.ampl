@@ -1,0 +1,1 @@
+program a : i : takes vm0aa, C93aa, S7 : integer; A : boolean array; P : boolean array; nT, yy9aa, g1, Z, U : integer array returns boolean iZ : integer; chillax end main : G : boolean; input AE[67 / 26 or 0 - 0]; while - (5) rem hd and 962 <= - false : chillax end end

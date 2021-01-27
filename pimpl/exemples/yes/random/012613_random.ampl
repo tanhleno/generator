@@ -1,0 +1,1 @@
+program A7 : B9 : takes P5, eL, q : integer; qH, D3saa, n, F : boolean; E2Da : integer array returns nothing output 90 <= 6680; when case - 5 <= 7 : chillax end case 042 = 2 : output ""; pop end end main : let x = array 59300 end

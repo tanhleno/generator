@@ -1,0 +1,1 @@
+program p : main : Y, T, d, f4, V : boolean array; when case - AV9a[4] * 24 and true and 00 <= - O(53) * false or not 41 and 67600 - 80900 : when case - 4 < 2 : chillax end otherwise : chillax end; while 4 = 5870 : chillax end; while 29 : pop end; input zG40a end end

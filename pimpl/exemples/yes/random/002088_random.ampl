@@ -1,0 +1,1 @@
+program h : t : takes h, V, hsy0, di9, Z_, A : integer returns nothing let Pv = array - false end main : PL : boolean array; w : boolean; g, iO4aa, k, K, n : integer; NX, E : boolean; cv, FRN0, M : boolean array; chillax end

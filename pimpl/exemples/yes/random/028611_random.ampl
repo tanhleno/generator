@@ -1,0 +1,1 @@
+program A : r8P0a : takes i0E, t0 : integer array; Z : boolean returns nothing Kb : integer; pop; let r = array - 34 end main : H, A : boolean; output "^"; while not true or false and 97100 >= - 373 : chillax end; pop - 7 - 10; output 9 = 6 . 6 . 1; output "" . ""; pop 8; output "\\" end

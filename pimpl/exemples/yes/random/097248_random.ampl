@@ -1,0 +1,1 @@
+program P : main : when case not 649 and(5) + (26100) + 328 : when case - 4 - 6 : while 36 : chillax end end otherwise : pop end; let S1 = array 6; output ""; pop; input hjd end case false or b + 58 : output "/" end case 2 and 375 - 90 > 74 : chillax end case - 34 - 32 /= 222 : when case 07 : chillax end; do K(9) end otherwise : while 4 : chillax end; input G end end

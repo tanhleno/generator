@@ -1,0 +1,1 @@
+program H_I : main : do V900(- not true = - false rem 060 and 949, true, not 1); input p; when case - Q2 and 9 or 6 - 9 /= - 8 - 7 : while 3 : pop end; while 51 : chillax end end; do O2c(- 18 - 7 > 65500) end

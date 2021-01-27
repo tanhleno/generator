@@ -1,0 +1,1 @@
+program V : X : takes K, k77 : integer array returns nothing output 1 /= 7 . 62 = 79 . "D6" end main : Sr, C36aa : integer array; output 7 rem false and 094 - true and 45 - 864 - 293; while(6070) / (6090) - (41) : do JJ2(82 = 1640) end; output "" . 54 = 780 . "\"8\"a"; while - 7 : chillax end end

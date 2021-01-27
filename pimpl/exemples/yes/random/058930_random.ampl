@@ -1,0 +1,1 @@
+program h88aa : E : takes HXc : integer array returns integer array At8 : integer; pop - 9 end main : D : boolean; let U = true / false and 6150 > not 2770; let j[- not(1) and L and 5910] = array - not true + false - 6 - 34; do Wm(true and 926 + 5 < 92, 94 - 2 >= 6480, 3); output 4 = 9 . 8; do M(4 = 8, 010); while 851 : pop end; output "\"" end

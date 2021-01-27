@@ -1,0 +1,1 @@
+program A : C0 : takes K, x : integer array returns nothing P : integer; chillax end a : takes E1 : integer; LE2, C65, W0B0a : integer; O : boolean array returns boolean chillax end main : do Qt(- not kk50[06800] and(90) * (2) and 7 or false rem true and 68 <= not(15) * (4) - true) end

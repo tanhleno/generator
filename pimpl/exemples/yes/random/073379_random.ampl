@@ -1,0 +1,1 @@
+program V63a : main : KPl, T : boolean; t, RGr0, c, B : boolean array; h0h0, u, a, l : integer; g, u, K, k : integer; input O; let C = K + 8 - 951 = 5; while true and 624 or 9 - 639 : when case 12 : chillax end; do C0(2) end; when case - 144 - 7 : output ""; while 1 : chillax end; pop end otherwise : chillax end; while 14 : do W0(8400) end; input Y2ua[6] end

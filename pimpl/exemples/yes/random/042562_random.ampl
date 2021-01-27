@@ -1,0 +1,1 @@
+program A6e0 : tg : takes Ow : boolean array returns integer array o7, Y, Q8 : boolean array; CSLa, z, K, e : integer array; let a9u[(03) and 5] = array(3) and 4; while 3 <= 70 : when case 4 : chillax end; pop end end w5m : takes l6 : boolean returns integer let Ch[- 60 - 495] = 31 = 9 end main : chillax end

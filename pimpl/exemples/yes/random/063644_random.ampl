@@ -1,0 +1,1 @@
+program Wo : i : takes MnN : integer returns nothing chillax end C03a : takes oA, I, zA, izqaa : boolean array; XpQ : integer array returns nothing chillax end _2 : takes K, r0, R100a : integer array returns boolean pmQ0, zK9 : boolean array; chillax end main : yJ4aa, V : integer array; while - not not false rem not true and 12800 >= - not false and 50 and 5 : chillax end end

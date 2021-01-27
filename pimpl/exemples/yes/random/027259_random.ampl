@@ -1,0 +1,1 @@
+program i : X0 : takes v1, P : integer array; e7, YWNaa, K, f : integer array; Lg5 : boolean; G, ue : integer; IdUaa, L : boolean array returns integer array q, T6 : integer array; T, f5 : boolean; output - 5 . "6O"; let s3[- 2480 - 40] = 3; while 407 = 3210 : let T = 0 end; input h; do f5(88) end main : chillax end

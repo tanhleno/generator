@@ -1,0 +1,1 @@
+program KD : main : when case false and not not 913 or g1qa[6] : chillax end otherwise : do DF(3, 6); input L; let G = 9; when case 2 : chillax end end; do zi(- false, - LY1aa < 4710); let qn4 = 00 <= 7 end

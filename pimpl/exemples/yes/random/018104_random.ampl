@@ -1,0 +1,1 @@
+program sPb : bI : takes Ea9, rc1 : boolean; Bs : integer; Ia10a, q6, CgEa, S6K0 : integer returns integer while - false - 9 - 254 <= - 26500 : while 4 : chillax end end; output ";1" . ""; output "~50a" . 5 . "B{!"; do N(40); input mN end main : input d020a[- (0)]; when case true / not 1 : while 6 : chillax end; do MLxaa(916, 0) end otherwise : chillax end end

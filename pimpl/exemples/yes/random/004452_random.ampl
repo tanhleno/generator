@@ -1,0 +1,1 @@
+program OXr : r : takes C, a, B9, Z : boolean; _, hA : integer returns nothing j, L4 : boolean array; H : integer; v1 : integer array; c, N8E : boolean; eq60a : boolean; ke : boolean; when case - (4) + 13 /= - 1 - 6620 : input Bd[90900] end otherwise : input ib; when case 1 : chillax end end end main : chillax end

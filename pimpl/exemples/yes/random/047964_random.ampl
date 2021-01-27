@@ -1,0 +1,1 @@
+program j : n : takes l : boolean returns nothing B6, e56, r56a : boolean; chillax end main : vy : integer array; let r[- false] = 4 or(68) + 8 /= 0 or 9 - 80; input S; do v(- true and 29700 + 124 >= - 349, - 488, 3) end

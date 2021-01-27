@@ -1,0 +1,1 @@
+program UEV : main : l : boolean array; when case not false or F[171] rem(608) or false and 1180 - 731 - 1 <= 30000 and l - true : while 77 - 160 = 935 : chillax end end case - false > 2 : do YL(47); output 4 . "" end case(1) + 9 > - 6 : chillax end; while - bc3[4] / x6 and 88000 >= - not 09 and 1 : do V1(9) end end

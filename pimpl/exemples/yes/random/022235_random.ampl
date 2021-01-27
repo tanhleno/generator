@@ -1,0 +1,1 @@
+program Cg : d : takes v, r6 : boolean array returns nothing rG, _ : boolean; A6, Q, G, R5 : integer; output "" . "" end QA : takes X, gRH, D5, I3 : boolean; m, s : integer array; J : integer array returns nothing wz1a : boolean array; o86aa, k : integer; input OuVaa; when case 0 = 3 : chillax end case 3650 : pop end case 63 : chillax end end main : chillax end

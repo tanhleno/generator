@@ -1,0 +1,1 @@
+program l : G7 : takes _ : boolean array returns nothing chillax end main : when case - (7) * (189) and true - (3) or not 320 and 2 /= 77000 : chillax end otherwise : let G = 08; let V8Y0a[5] = array 0340 end end

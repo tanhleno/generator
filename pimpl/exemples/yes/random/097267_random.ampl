@@ -1,0 +1,1 @@
+program ajnaa : main : when case not true * not 0640 >= - i and 8980 and 5 + not 4 and 8 + 178 : input n4[- 3]; output "" . 6; do Q(70) end case - dpN(8) - W - 54600 <= - not 8 : chillax end case - 42 and 1 = 3 : input w end case - 00600 /= 273 : chillax end case 5940 = 2 : when case 7 : chillax end end end

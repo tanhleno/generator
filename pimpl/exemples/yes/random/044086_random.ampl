@@ -1,0 +1,1 @@
+program I5 : IQ80 : takes r : boolean array returns nothing F7, i, W79 : boolean array; H8 : boolean array; chillax end h6 : takes O, oaG, e, k, T, R, i : boolean; v70 : boolean returns boolean I, f, H, u5Xaa : boolean; rjl, O : boolean array; y, rHi : boolean; do zG(- 9, 12); input k end main : x, h7, _, _ : boolean array; chillax end

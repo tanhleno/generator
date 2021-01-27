@@ -1,0 +1,1 @@
+program _8 : Rs5 : takes V : integer array returns nothing chillax end r : takes gT, c39a : boolean array; w : integer returns nothing chillax end main : yYw : boolean array; input a7[- (34000) rem VF(861) / 4 + 5 rem t and 6] end

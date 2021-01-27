@@ -1,0 +1,1 @@
+program q9X0a : K7 : takes _ : boolean array; dq : integer array returns nothing chillax end hb : takes E7 : boolean returns boolean array U : boolean array; uU, M : integer array; W : boolean; e72aa : boolean; output 295 = 02 . ""; pop 8 end main : chillax end

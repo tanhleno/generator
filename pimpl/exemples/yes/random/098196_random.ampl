@@ -1,0 +1,1 @@
+program K : main : while - false /= (2) : output 13600 . "" . 7; input q29aa[4] end; when case false : input aZ[1] end case - 2 and 67 /= 1790 : output 336 . "\t4" end case - 8 - 3 : chillax end case 380 : when case 0 : chillax end end case 3 : pop end otherwise : input _0[0] end end

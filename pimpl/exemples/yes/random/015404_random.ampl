@@ -1,0 +1,1 @@
+program D : s : takes wxr, c6, NM : integer array returns nothing F : boolean; chillax end V : takes H : integer; E8, U2, M, XC00a, n : boolean; P : integer array; M, wW : integer array returns nothing chillax end Q8 : takes V : integer returns nothing pop 306 end main : pop false rem false = q end

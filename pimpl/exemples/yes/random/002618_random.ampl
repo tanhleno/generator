@@ -1,0 +1,1 @@
+program i : G420a : takes U7Naa, m, nI, Xcz, M0 : boolean array; N : integer returns boolean array p08, i : boolean; h : integer; chillax end L2Ba : takes n3, Z : boolean array returns nothing xR : integer; I : integer; n : boolean; output "1" end main : chillax end

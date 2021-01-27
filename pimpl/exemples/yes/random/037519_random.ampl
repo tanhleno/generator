@@ -1,0 +1,1 @@
+program a : OkT : takes u : boolean array; oan, km, Qy90a, se, cL, v7 : boolean array; A : boolean array; d : integer; L, U, y, H : boolean array; A : integer returns nothing do o(- (5), 6 - 20); output "s" end main : E : integer array; chillax end

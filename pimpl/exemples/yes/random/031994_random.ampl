@@ -1,0 +1,1 @@
+program P : i : takes a, U : integer returns integer chillax end main : when case 38000 + not false > false * 6 and 179 or true : chillax end; let s5Q0 = 1 and 4710 < 4; output "" . 71400 . 268 . 2 end

@@ -1,0 +1,1 @@
+program dqya : IL : takes RB6 : boolean; L : boolean returns integer output "s0\"a" . 1 = 180; when case - 613 - 0 : while 56500 : chillax end end end G : takes V2 : boolean; J8, X : integer array; D, IGfaa, gv60, N, kXV0a : integer returns nothing input G end main : chillax end

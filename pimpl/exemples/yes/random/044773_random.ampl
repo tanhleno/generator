@@ -1,0 +1,1 @@
+program D : X : takes vjQ0 : boolean array returns nothing o : integer; output 98 - 5 . "#2" end Q : takes J4, _ : boolean array returns boolean array d : integer; do W(- 0 - 38); input m9; do i(7, 572) end main : R, dW, D, t6_ : boolean array; do Ei(e[9990] + not 3 / (588) and 99800 >= - 61000 rem(68)); let B6I[false / fT9] = - (644) and 36900 + 8 <= 28 - 5 end

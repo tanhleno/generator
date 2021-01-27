@@ -1,0 +1,1 @@
+program a : main : wv, V4x : integer; while - true <= PK * true or true and 1 - 270 - 59600 : pop; do k(0) end; let H[- (1) / _540a or not 0] = false > 44; let U[8 or 48 - 0] = array - 0 and 541 - 25 - 77 end

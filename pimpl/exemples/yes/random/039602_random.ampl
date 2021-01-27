@@ -1,0 +1,1 @@
+program E3 : jW9a : takes w : boolean array; T2 : boolean; A3Qaa, sK : integer array; T : integer returns nothing let k[- (4)] = - 79 = 898; pop 5 = 05; when case 6 = 13 : chillax end case 210 : chillax end case 453 : chillax end otherwise : chillax end end main : _ : boolean array; while false and true - F2[1] * 8 : do W(5290 - 4 < 1) end end

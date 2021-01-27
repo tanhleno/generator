@@ -1,0 +1,1 @@
+program p : c : takes f1, v : integer array; h, f, f7 : boolean; t6, L3G0 : boolean array returns boolean array while - true < - 28800 : chillax end end Qj : takes RU : boolean returns integer input A[5]; when case 9 = 4 : chillax end case 6 : chillax end case 91 : chillax end otherwise : chillax end end main : pop - false or(7) + 37 > false + 71200 end

@@ -1,0 +1,1 @@
+program kU : m3q : takes d, X : boolean array; T7 : integer returns nothing output "" . ""; input Z; output 91800 . 243 . "VR" end o : takes E : integer; g, q4 : boolean returns boolean array pop 8; pop; let J = array 2 end main : chillax end

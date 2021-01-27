@@ -1,0 +1,1 @@
+program M : i : takes d_, D : boolean array; C : integer array; z7 : boolean array returns boolean H0 : boolean; while 6 - 79 : chillax end end ez5aa : takes wd, w5 : integer array returns integer input k end main : chillax end

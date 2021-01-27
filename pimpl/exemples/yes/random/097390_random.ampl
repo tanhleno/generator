@@ -1,0 +1,1 @@
+program F : main : when case 21 / not false <= ss * not 57700 : chillax end case true * not 3240 or not 3720 : while 57 = 7 : when case 16 : chillax end; pop end end otherwise : output 10; do l(89) end; while - (193) and true + 6 >= K8W and 306 or 1 : chillax end end

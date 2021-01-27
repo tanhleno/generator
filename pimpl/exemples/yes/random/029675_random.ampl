@@ -1,0 +1,1 @@
+program mS : ZA : takes St8, v : integer array returns boolean while yA0 and 3 + 9 : chillax end; pop; input b8c[5]; let uWk[944] = array 0; pop end RY : takes F32a : integer array returns nothing while 6 - 7 : chillax end end lE : takes z, u1 : integer array returns nothing XfI0 : integer array; do l(369 = 1, 966); let k[96700] = 27; do r4(65); pop; pop end main : input q9 end

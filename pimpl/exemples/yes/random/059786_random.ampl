@@ -1,0 +1,1 @@
+program kF : W3p : takes m : integer array returns nothing chillax end j : takes WJ : boolean array; Y, t5c, L5, e, B, r57aa : boolean; m8, o6, v, q, e : boolean returns boolean array pop 53 end x : takes bch0, A, z : boolean array returns boolean MS9 : boolean array; chillax end main : let b[- (04) and(41) + false] = array not true end

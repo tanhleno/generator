@@ -1,0 +1,1 @@
+program N : p3 : takes R7 : boolean array returns boolean when case - true - 07 - 35 < - 5 - 0 : chillax end case 71 >= 3 : chillax end case 5 : chillax end case 2 : chillax end case 31 : chillax end end O : takes d : integer returns boolean chillax end main : RR : integer array; Fs, q9 : integer array; chillax end

@@ -1,0 +1,1 @@
+program Ac : J : takes wogaa, p4 : integer array; C3y0a : integer; Qw60, K : boolean array returns integer array do PU1(- 39 or 2 = - 36, 53 - 27 = 0) end main : do Q((29 = 7) / true - c(58) * not 5 and 7 - (337), - (1) * (5) and 9 - not 7910 + 802, gD and 01 >= - 9680 - 34, 9, 74700 = 10500) end

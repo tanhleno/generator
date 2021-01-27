@@ -1,0 +1,1 @@
+program q : u : takes o, YoQ : boolean; T : integer array; C37aa : integer array; GQ, o : boolean returns nothing r : boolean; let p0 = array 774 and 1 + 60200; let S19 = 0 = 73 end main : UQT0 : integer array; let g9[6 or not false - (1)] = - R + true and 8 or 7 - 1 > not 323 and 10 - 81; do LH(k(89) / (40800) /= false) end

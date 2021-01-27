@@ -1,0 +1,1 @@
+program x : L : takes G, A, E, y : boolean returns integer V, _Vw, G : boolean array; G7 : integer; let w = array - not 5 - 38; while - 26 <= 19 : do o91aa(28) end; output "" . ""; do de3aa(0, 1) end main : G70, l : boolean array; cJ, w, tJ, hy, I : boolean; chillax end

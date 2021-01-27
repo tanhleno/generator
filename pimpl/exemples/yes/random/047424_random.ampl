@@ -1,0 +1,1 @@
+program mw7 : n12a : takes I : boolean returns nothing chillax end CK : takes U, N, T : integer array returns nothing let Y = 586 = 040 end main : while true rem not not 053 and(7) and 5 or 76 = - true * false and 90 or(1) and 03 or 80 : chillax end end

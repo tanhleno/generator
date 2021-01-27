@@ -1,0 +1,1 @@
+program LjK : u : takes i1 : integer returns boolean let E7t[8] = - 99 - 3; output 8 end main : O, bn50a : boolean; t, A : integer; when case not not 6 rem lg3aa >= - 48700 + not 082 : chillax end otherwise : chillax end; output false - 453 - 87 end

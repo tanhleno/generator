@@ -1,0 +1,1 @@
+program C100 : F8 : takes e : boolean array; F : boolean; Vt : boolean returns nothing let o = array - (21) and 456 + 03 - 302; output 7 end main : w, n86aa : integer array; p : integer array; MY, u1E0, z4 : integer; output "Q7\"" . "" end

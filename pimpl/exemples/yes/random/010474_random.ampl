@@ -1,0 +1,1 @@
+program v : m : takes x, Ko, E : boolean array; v : integer returns nothing do ewE(- s1x and 2 + 10 - 23 = 92 - 6, - 644 - 465) end main : M : integer; Z, X, KOF, x, e, X : integer; OsJaa, W5, m : integer array; input C[- (85 = 7)] end

@@ -1,0 +1,1 @@
+program x : M : takes a : boolean; T : integer array returns nothing Kq, h : integer array; tR, J9, kAL, c : boolean; H, o, VH : integer; let l = array - (09200) and 1 or 9 end main : VG80 : integer; chillax end

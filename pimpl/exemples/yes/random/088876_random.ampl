@@ -1,0 +1,1 @@
+program mh40 : main : input s[- true]; when case - not false - true and 8 /= - 15 : input g end case - 195 or 78 - 48 : output 1 end case 7 : chillax end case 2 : chillax end case 297 : chillax end case 18 : chillax end otherwise : chillax end end

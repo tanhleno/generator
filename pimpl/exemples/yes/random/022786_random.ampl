@@ -1,0 +1,1 @@
+program U : s : takes dL, qk0aa : boolean array returns nothing when case - true and 0 or 2 : input C; input i; while 84100 : chillax end; pop end end E4Aa : takes R : integer; N9 : integer returns boolean array Fo2 : boolean array; chillax end main : P0Ja : integer; do He(- true or true - 7 and 8 - 5, - (8) * false + I0 or 31 > - true and 03, - 10400, 7, 08) end

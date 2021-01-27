@@ -1,0 +1,1 @@
+program Ed : sI : takes uD, l : boolean; Dhf, r : boolean; u, vV3, Fd : integer array; E30a, p6 : integer returns integer array Vg, y8xa, Gs2 : integer array; chillax end main : S1 : boolean; chillax end

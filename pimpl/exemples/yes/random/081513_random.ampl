@@ -1,0 +1,1 @@
+program j : main : S53a : boolean array; OL20a : boolean; do TL80a(K(193, 59) - 81 * false and 3, not false); when case - 49 * true and 8 : do D5(0, 46, 0); input dI4a[4]; do n(0) end; input H[not 40 and 5 + 1] end

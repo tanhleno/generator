@@ -1,0 +1,1 @@
+program k5n : FQ : takes h, n35a, t : boolean array; Q5 : integer returns nothing h : boolean array; input J; input Q end main : aS, s : boolean; l, ag, H, j : boolean array; output "" . false and 6 or 5 < - 0; input gJiaa[true] end

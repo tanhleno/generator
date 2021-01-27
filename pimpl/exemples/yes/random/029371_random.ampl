@@ -1,0 +1,1 @@
+program Q5W : c : takes nO, q99 : integer array returns boolean array k3 : integer; cy : integer; chillax end main : Y93 : integer; do Qe30a(- (8 = 6) and(71500) rem true and 89 - true or true and 0 + 38200, 6 > true, not 3060 and 7 or 7 - 28 >= 1 - 0350, 46 - 0) end

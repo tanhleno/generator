@@ -1,0 +1,1 @@
+program U15a : J : takes Vq, z : integer; N5, Kph, uO0aa, bG0, mag0 : boolean array; p, U, X, F2, Jjr0, m : boolean; W, Os1aa, e : integer array; F, q9 : integer; m, H, t42 : integer array returns nothing chillax end main : O, D5s0a, B69aa, o45 : boolean; ov : boolean array; chillax end

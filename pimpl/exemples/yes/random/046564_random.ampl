@@ -1,0 +1,1 @@
+program I : QBW : takes g8 : boolean returns integer array u, m, g : integer; let Op[false] = - 22 end main : cx, b6Q : integer; do n(- false - (3) or false and 6 >= - Tp[45] and true and 3 or 3) end

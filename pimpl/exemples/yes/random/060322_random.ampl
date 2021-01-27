@@ -1,0 +1,1 @@
+program g : Q : takes ck : integer array returns nothing J, x, NLLaa : boolean; dY, E : boolean array; when case true and 11 - 4100 : input a2a0a end case - 3 = 4 : chillax end case 0 : chillax end; let i2[- 07] = array - 06900 end main : N : integer array; gjk : boolean; input k end

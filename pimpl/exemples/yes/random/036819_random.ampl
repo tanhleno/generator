@@ -1,0 +1,1 @@
+program HbR : Z : takes d : boolean; X : integer array; B : boolean returns nothing C, x42 : boolean array; p5, qgq, oQ30 : boolean; I4 : boolean; o6u : boolean; r : boolean; pop end m090 : takes mk : integer array; g : boolean returns nothing r : integer; when case 1 < 5 : while 7 : chillax end; do N(50); pop end otherwise : input _ end end main : chillax end

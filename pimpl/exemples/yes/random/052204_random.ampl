@@ -1,0 +1,1 @@
+program H : C6 : takes tH : integer; XF : boolean returns integer array a : integer array; do S(- false or 723 - 1, - 8860 - 3 <= 58); pop; when case 5 = 54 : input p65 end otherwise : pop end; output 766 . "T"; pop end l14 : takes B : boolean array; r : integer array returns nothing let W[2 - 7] = array 9; pop end main : chillax end

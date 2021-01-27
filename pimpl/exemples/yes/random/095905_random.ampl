@@ -1,0 +1,1 @@
+program A : main : when case - false or 1380 and false - true : let v5[6140] = array 62 - 151; when case 740 = 9 : when case 0 : chillax end; pop end case 67 : chillax end case 6750 : chillax end otherwise : pop end end; output "\\y0a"; output "" . "" . "\t" . 6; let hu6 = 10000; while 6 = 60 : chillax end; do X(169); while 963 : chillax end; input O1Uaa; pop end

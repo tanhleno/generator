@@ -1,0 +1,1 @@
+program e3Z0 : U : takes yJ, R, w, Oi : integer array returns nothing chillax end p : takes Df : integer returns nothing while 5 = 8 : chillax end end main : do M(- false * 28 or true / (3) + false and 91700 - 116 - 4, - true and l - not 2 and 497 = - x4, 4, 77, 852, 6) end

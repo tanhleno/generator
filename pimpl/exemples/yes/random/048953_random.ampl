@@ -1,0 +1,1 @@
+program B0 : m1Z0a : takes nK8 : boolean returns nothing let t7v[- true and 59] = 9 - 20; when case - 77 - 7 : chillax end case 43 = 4 : chillax end otherwise : chillax end; pop 3290 end main : input o5 end

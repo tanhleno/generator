@@ -1,0 +1,1 @@
+program e : q4 : takes D : boolean returns nothing chillax end main : L : integer array; when case - not 2 / false rem W or true + j5 and 056 : do t(- 37 - 1, 1) end otherwise : chillax end; do m8(YaI0a(98) / false and 66 or(2) or 0 >= - true + 990 - 49100) end

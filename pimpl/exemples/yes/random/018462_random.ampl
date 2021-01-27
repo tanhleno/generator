@@ -1,0 +1,1 @@
+program F : iW : takes g1, Gp : boolean; Eu : integer array returns nothing H : integer array; output 7810 - 253 < 1; when case 6 - 8 >= 1 : chillax end case 2 = 4 : chillax end case 513 : chillax end otherwise : output ""; pop end; let Q[376] = 71; output 70 . "a\n0a"; when case 3950 : chillax end end main : chillax end

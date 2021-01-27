@@ -1,0 +1,1 @@
+program Z : o : takes P, eDi0a, bl6, wegaa : integer array returns integer array a : boolean array; r : integer array; K : integer array; IQ : boolean; while - true < 854 - 3 : input P7l; do l8(33) end; output 33800 . 2 end main : GPq : boolean array; pop end

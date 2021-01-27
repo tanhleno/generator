@@ -1,0 +1,1 @@
+program i : T2 : takes B22 : boolean array; Ma, Z3 : boolean array returns integer A5 : boolean array; let b3k0[- true and 4] = array - 6 and 194 + 7 - 636; input z0[- 39000 - 8] end main : GO1, cK : boolean array; input m4[not not 18 and false / false]; when case not true : pop; let N[37] = array 60 end; pop - 7210 - 9; pop 9 = 0; pop 076 end

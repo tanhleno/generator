@@ -1,0 +1,1 @@
+program _ : T2 : takes P : integer array; J : boolean returns integer input b7 end kk : takes N : integer returns integer P6 : integer; when case 1 - 7 : chillax end otherwise : while 6 : chillax end; pop end; do V2(5 = 84, 05500, 139); let _8g[690] = array 9 end main : let cK = array - true / true / _k end

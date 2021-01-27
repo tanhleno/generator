@@ -1,0 +1,1 @@
+program f7taa : w : takes sx, R, O : boolean array; BI2 : boolean array; Y, lU : integer returns nothing K4 : boolean; input r54aa end main : t3 : integer array; Z, zFF0a : integer array; S : integer; PZ, k : boolean; krq0a : boolean array; chillax end

@@ -1,0 +1,1 @@
+program ed : main : IX, m4 : boolean; gx, U, H : integer array; do H6(true and(0) and(8) and 86500 or not false + y and 0 or 992 - 9 = false or false - 81800); pop(39) and 52; while(73) and 75 + 7 - 34700 /= - 00 : chillax end end

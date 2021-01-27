@@ -1,0 +1,1 @@
+program r5Baa : PBk0 : takes c : boolean array; LJI0 : integer array; l, E, Yc : boolean; Uk50 : integer returns nothing U, GNHa : integer array; output "" . "2" . 6 end z : takes r : boolean returns nothing chillax end w : takes w85aa, KBIa, fk2aa : boolean; e : boolean array returns integer n5 : integer array; chillax end main : chillax end

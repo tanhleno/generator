@@ -1,0 +1,1 @@
+program YP7aa : g : takes Q6, F : boolean array; H, P, R69 : integer array returns boolean array Ej : integer; E, k18 : boolean array; chillax end S1 : takes Z : integer; f : integer array; d, T : boolean array returns nothing chillax end main : l6, M, vSg : integer array; Ubx : integer; t : boolean array; pop end

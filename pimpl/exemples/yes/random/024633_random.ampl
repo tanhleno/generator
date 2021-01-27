@@ -1,0 +1,1 @@
+program G : l1l : takes s, MYv : boolean returns nothing JA : integer array; Z11aa : boolean; O, TD, Qh : boolean; chillax end k1T : takes P : integer; y, q4xa : boolean; R : integer; zJ, Y870, k130, x : integer returns nothing do Q(- 6000 >= 479) end main : L, eE3, aQ : integer; chillax end

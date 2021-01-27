@@ -1,0 +1,1 @@
+program Np : k : takes P1, yz, b, br : boolean array returns nothing let za50a = array t and 1; while 6990 - 4 < 1 : do tRy0a(5); output "Rca" end; pop; pop 73 end main : while - 3 + not true / (3) and 497 or false : when case - 68 < 98 : when case 751 : chillax end end end end

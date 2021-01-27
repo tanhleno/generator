@@ -1,0 +1,1 @@
+program v3 : main : output true + false; input W7[H[065] and B and 8]; input I8[(42) and 2 + 15]; while 94 - 4 > 81 : let H = 9; output "" end; input g; output "" . ""; when case 1170 : chillax end end

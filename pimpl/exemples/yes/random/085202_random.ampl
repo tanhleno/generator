@@ -1,0 +1,1 @@
+program l : main : c : integer; when case URp : chillax end case - false + true or 0 - 5 < - (7) and 1 - 1 : when case 0 : chillax end otherwise : pop end; output ""; let z = 8 end case 9830 > - 039 - 3 : input G; output ""; when case 4620 : chillax end; pop end end

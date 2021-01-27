@@ -1,0 +1,1 @@
+program Z : d1o : takes _, c, q : boolean; r3 : boolean returns boolean K, b, hR : integer array; chillax end EDVa : takes huGaa : integer array; w9, X, S : boolean array returns nothing d : boolean array; L3, U, EJ : boolean array; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program l8 : NEm : takes i97, ti : boolean array; S : integer; F, K81 : boolean array returns nothing b24 : boolean; n, s9 : boolean; v9 : boolean; O6Ia : boolean; chillax end main : when case - (1) or 0400 or Q + 0290 >= ZT3a(11500) or DO - 4 - 92 : input s end end

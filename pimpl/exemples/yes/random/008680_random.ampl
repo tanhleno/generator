@@ -1,0 +1,1 @@
+program n : O03 : takes X, O, p5 : boolean; VG, o : boolean; J, h, R, F : integer returns boolean array let gS3 = - 16 end n : takes e_Y : integer array returns nothing input Ml[9 - 19600]; let _Tw0 = 422; output "" . ""; output "a]" end main : let sVs = 1 / true and 7 + true end

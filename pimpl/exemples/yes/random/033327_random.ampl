@@ -1,0 +1,1 @@
+program cL : VP : takes g03aa : boolean; bm1a, K, ohV0a, d, r : boolean; tQ1, _ : integer array; C : integer array; Y, d8 : boolean; C : integer array returns nothing input N[- true and 9] end main : chillax end

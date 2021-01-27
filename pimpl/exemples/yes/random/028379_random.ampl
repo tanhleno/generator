@@ -1,0 +1,1 @@
+program sM : S : takes X, Tb : integer array; X : boolean array returns boolean do Qp(not 5 and 3 + 3 - 2790 /= 8480, - 4 /= 54, 54 = 7); while 0 : output "" end; let A6 = 9 end main : output "" . - 7 = - 6; pop end

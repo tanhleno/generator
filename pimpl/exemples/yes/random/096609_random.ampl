@@ -1,0 +1,1 @@
+program U : main : when case - true : chillax end case(0) and nx and 4 < - (89300) : chillax end; output t = - 8 - 6 . - 70 - 29 . "3" . 3; do zsLaa(- false or 4 < 0 - 06, 0 - 59 > 3); when case - 3 /= 8 : when case 7 : chillax end; do Q(5) end case 4 = 6 : pop; pop end end

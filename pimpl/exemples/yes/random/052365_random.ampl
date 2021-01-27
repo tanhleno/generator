@@ -1,0 +1,1 @@
+program h : b5c : takes ks : integer; x : integer; a, G, U, ct20, L : integer; a87 : integer array; _Q, GH : boolean array returns boolean input l7 end main : wsNa, C, q7q0, R45 : integer; C8 : boolean array; Lwj0, r6K, Z : boolean; c8 : integer array; J7, B : integer array; chillax end

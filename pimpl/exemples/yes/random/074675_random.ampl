@@ -1,0 +1,1 @@
+program R : main : P, o : boolean array; R59, F3B0, i, C9z : integer array; pop false + k3 or 224 - 3; when case - 6 rem 740 or false and 68 - 4 /= - true - 66 - 169 : chillax end; output "/" . ""; while 02300 : while 58 : chillax end; output ""; pop end end

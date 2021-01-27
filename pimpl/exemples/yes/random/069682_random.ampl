@@ -1,0 +1,1 @@
+program A7 : main : G6, l, S, O8raa : boolean; while - false - (4) / false and 5 - L or 6 - 4340 >= - false rem not 687 and 3 : input gT end; while - (7) or true and 665 : let ot5a[0670] = 870 end; input Z[false and 3 - 02] end

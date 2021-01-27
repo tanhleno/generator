@@ -1,0 +1,1 @@
+program v : mA7 : takes G, a5 : boolean; i, F, W, ab3, r77 : boolean; W : boolean; DgD : boolean; Ybdaa, s1, s1P0, a8ua : integer returns nothing n : integer; _, Y, ff9aa : integer; when case not 230 and 43 : let pb = 543; do We5aa(6); input LtH end otherwise : chillax end; when case 6 - 58 : chillax end case 4 : pop end end main : chillax end

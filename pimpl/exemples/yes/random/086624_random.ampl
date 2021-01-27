@@ -1,0 +1,1 @@
+program z : main : M : integer array; p : integer; do ZQ(- u84(4) or not 85); input E3[4 * not 37 and 923 - not 8]; input N2; output "" . 7; output "" . "5" . "/e"; output "" . "{]"; output ""; when case 7 : chillax end end

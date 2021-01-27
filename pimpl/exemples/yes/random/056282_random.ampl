@@ -1,0 +1,1 @@
+program h : h : takes R : integer array; z : boolean returns boolean pP2, BDB, NP, S, p7 : integer array; Gz, B : integer array; duj0a : boolean; R0, vr : boolean; x8 : boolean; let tBX = 8 - 655 < 45; when case 3 = 8 : chillax end; when case 87 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program w : D : takes MVtaa, c : integer array returns boolean chillax end main : P : integer; when case - true rem not true - 7 - 5 - 665 /= - not not 8 : chillax end otherwise : chillax end; output ""; while true and 687 or 7 - 29300 : chillax end; do OM(966 - 446, 69 = 8) end

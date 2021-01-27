@@ -1,0 +1,1 @@
+program nJ : main : when case - (5) rem s64(0) > - not(5) rem Ya : chillax end case true <= (6) and 8 + 39 : chillax end otherwise : output 8; while 55 : pop end; input g; output "?" end; when case - (4) /= not 8580 : chillax end end

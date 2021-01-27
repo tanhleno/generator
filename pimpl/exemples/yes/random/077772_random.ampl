@@ -1,0 +1,1 @@
+program q : main : Z, N : integer array; r : integer array; s : boolean; WB2 : integer; J, yYc : boolean array; P, g : boolean; PY : boolean; t0 : boolean; do V(false and not 1 / true /= - e4_0[48], - true > 8, true + 7090 - 13 >= 8 - 8010); output - true + 92 <= 1 - 4550; output 28 . "#\\!"; pop 9 = 7; pop end

@@ -1,0 +1,1 @@
+program y9I : w : takes u9v : boolean array returns integer q : integer; n : integer array; input L[not 6 and 5750 + 9 - 0]; input Rh9 end main : vp, F, U1 : boolean; when case - true : let RN[996 - 50] = 9 = 9 end otherwise : chillax end end

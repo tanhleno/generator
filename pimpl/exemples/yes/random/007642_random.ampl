@@ -1,0 +1,1 @@
+program aw30a : Q : takes v, O, W6Aa, TDqa : integer array returns integer pop 86 - 5; pop 9 end P : takes yL : integer; w : boolean; g5, D0 : boolean array; Q, y19 : integer returns nothing Q, Pr : boolean array; chillax end y : takes A, M : integer returns integer chillax end H : takes y : integer returns nothing G9x, Q : boolean; chillax end main : z51a : boolean; chillax end

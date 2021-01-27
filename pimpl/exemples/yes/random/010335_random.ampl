@@ -1,0 +1,1 @@
+program K6 : Bu : takes M, s910, Z2 : boolean array; t : integer array; E : boolean returns integer chillax end t1_ : takes u : boolean; j, i : boolean; RL, Y0, v, t, e4 : integer array; b, v, ZX, vV : boolean; S, h7W, f : boolean; v : boolean; i7U : boolean returns boolean array let Us[- 1 - 0] = 1 end main : e, h, Y : integer array; xN : boolean; input f_ end

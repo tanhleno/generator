@@ -1,0 +1,1 @@
+program s : p : takes Q : boolean array returns nothing pop 462 - 5 < 7; pop end l : takes G2 : boolean returns integer z : boolean array; chillax end v : takes I7, P : integer array returns nothing pop 23 end main : Q, mH : integer; chillax end

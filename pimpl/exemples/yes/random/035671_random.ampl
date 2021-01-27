@@ -1,0 +1,1 @@
+program S : T08 : takes Xv : boolean; Bl : boolean array; v, zi : boolean returns nothing nMh : integer; output "" end P78a : takes j, x : integer array; c, b3, M, Ppha, v : boolean returns nothing N0, i, V, fY : boolean; while 7 <= 6 : chillax end; when case 63 = 0200 : let X = 5370 end case 1 : chillax end otherwise : pop end; input s; do j(8) end main : chillax end

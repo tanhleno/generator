@@ -1,0 +1,1 @@
+program j : J : takes a : boolean returns integer chillax end main : when case(6) rem false rem I and 58 or false /= not true : input e63aa[2] end; when case - (39200) or 7 and 45 - 3 : chillax end case not 81 and 3 - 2 - 9 : chillax end otherwise : chillax end end

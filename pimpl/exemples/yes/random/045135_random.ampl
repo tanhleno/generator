@@ -1,0 +1,1 @@
+program Xn8aa : X3 : takes xY00 : boolean array returns nothing output "w" end main : while - 0 * true > not t or true and 6 or 6 - 7 : when case 51 /= 7 : chillax end case 9280 : chillax end case 6 : pop end case 3680 : chillax end; output "\"" . 8 end; while 95 and 7 and 32 <= true : input Y; input _4 end end

@@ -1,0 +1,1 @@
+program wsQ : n1 : takes ew0a : boolean array; p : integer returns nothing am20, M, k1D0, QT, c : integer array; _u6, z : integer array; output ""; while - 13 >= 96 : chillax end end main : O : integer array; w6 : boolean; while - x[00200] rem F + false + (74200) and 4930 + 06 : chillax end; output - false - 9290 end

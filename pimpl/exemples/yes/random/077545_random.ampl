@@ -1,0 +1,1 @@
+program T : main : m, F8 : integer array; y : boolean; when case - not not 8 and false or(95) : let z = array 6 - 05; do W3(880 = 2); let s870 = 4 end case - 3 rem W1 <= 7 + 0 - 6 : chillax end otherwise : let T = array 20; let g0 = array 9 end; when case 7 rem 9 and 4 : chillax end otherwise : input Bf[7]; pop; when case 44200 : chillax end end end

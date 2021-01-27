@@ -1,0 +1,1 @@
+program Ao : x7v : takes T, O, j1u0a : boolean array returns boolean array E, G9ca, fr, a : integer; when case not 7 and 8 or 9230 >= 53 : chillax end otherwise : chillax end end O : takes O, XJ0 : integer array returns nothing M, G0, _ : boolean; J, R4O : boolean; g, h66a : boolean; input j11aa[- 89] end main : O9 : integer; Pq, Y : integer; chillax end

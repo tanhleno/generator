@@ -1,0 +1,1 @@
+program E : H : takes Ft : boolean array; r : integer; p : integer; _ : boolean array returns nothing rZ : integer array; V, H : integer; msr, a5, z : integer array; while false or 1020 : do xt(3); output "" end end B : takes Y : integer returns nothing output 4 end main : T2E0 : integer; J : boolean array; chillax end

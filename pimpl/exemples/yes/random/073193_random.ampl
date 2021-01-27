@@ -1,0 +1,1 @@
+program K4G0 : main : U, E, x6 : integer array; when case 1130 rem not 6 and false and 70300 - 7 - false : while 6 - 27 : output "?;"; when case 327 : chillax end end end case - 7 > A3 : let B[9] = array 8600 end case false + 8 - 426 : chillax end otherwise : let Z6[8] = 0 end end

@@ -1,0 +1,1 @@
+program voZ : Wq5 : takes o7O : boolean; M, LVV0 : integer returns boolean array M : integer array; j, TPD : boolean; M3c0 : boolean; P : boolean; chillax end main : when case - z = false - (3) and 088 : pop; do l0(20 = 14, 694); output 5; while 3 : chillax end; output "~" end otherwise : pop 3880 end end

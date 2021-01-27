@@ -1,0 +1,1 @@
+program O : J : takes H, F : boolean array; h9V, o0, Y : integer array returns nothing c9 : boolean array; output - 2 - 47 . "" . "\t.!a" end main : A : integer array; output kr . "%`" . ":'\"a" . 4 = 0 . "0"; do iC((23) rem false /= - false - 4950, false, 36); pop 096 end

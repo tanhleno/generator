@@ -1,0 +1,1 @@
+program S : g : takes x, c, i, F : integer; GUr : integer returns integer array input T end C : takes y7, b3, W : boolean array returns integer k : integer array; pop end main : J : integer; chillax end

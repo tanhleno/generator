@@ -1,0 +1,1 @@
+program E : i7 : takes g7 : integer array; p : boolean array returns nothing output "]" . 5 . "?$" . 9 end A : takes e9 : integer array returns nothing y, wc : integer; chillax end main : do wg1a(- false * 5 * false, - true / (93) and 525 - (5) and 63 + 1, true and 4420 + 7 - 30, 9 - 4 /= 8) end

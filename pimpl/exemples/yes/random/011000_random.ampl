@@ -1,0 +1,1 @@
+program z : U : takes z, p, Gf : boolean array returns integer H : integer array; pop end main : when case - true rem not 9 rem true - false - true and 52 = - false : chillax end case - (7) and false : output 0390; while 4 : chillax end end case 4 and 502 : chillax end case 4340 - 51 : let D = 7; output "" end otherwise : chillax end; output "=]0" end

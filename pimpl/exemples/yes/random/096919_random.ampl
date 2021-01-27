@@ -1,0 +1,1 @@
+program ghl : main : when case n(8) or 7 / not 1 and 4 >= - G(0) and not 43 and 4 : do Z(3 - 1); when case 1 : pop; pop end case 5 : pop end case 72 : chillax end otherwise : chillax end; pop 32; pop end end

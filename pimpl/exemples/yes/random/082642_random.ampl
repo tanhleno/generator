@@ -1,0 +1,1 @@
+program gSX : main : F : boolean array; when case(44 = 8) * false / 90 + true + true and 3 - 6 - 2010 : when case 521 - 046 >= 3 : input R; when case 04 : chillax end; pop end otherwise : chillax end end end

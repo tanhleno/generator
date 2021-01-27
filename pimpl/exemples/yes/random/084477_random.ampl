@@ -1,0 +1,1 @@
+program B : main : O : integer; c : integer array; h : boolean; F8 : integer array; when case - true <= A + 79 : when case 98 - 5 : output ""; pop end otherwise : chillax end; do m(8); input B[4270] end end

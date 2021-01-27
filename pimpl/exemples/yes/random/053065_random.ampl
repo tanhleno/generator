@@ -1,0 +1,1 @@
+program f : eg : takes E : integer; x4 : integer array returns nothing input C[not 39 + 2 - 8]; input _; output 8; input t8[11] end S : takes nj : boolean array; N : integer returns nothing output 3 end main : wl, Y : integer; chillax end

@@ -1,0 +1,1 @@
+program de : LP : takes x, jgcaa, H, J5u, X3 : boolean array returns boolean when case - 3 and 1 - 6 - 02 : do NbUa(4, 8); input r5; while 3 : chillax end; pop end end q : takes n : integer array returns integer array when case - 7 - 6 > 17600 : pop; output "0" end case 7 : chillax end otherwise : chillax end; output 32500 end main : b : boolean array; X : boolean; chillax end

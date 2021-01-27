@@ -1,0 +1,1 @@
+program f : sK : takes e : integer array; qr, s : boolean array; e : integer; M : integer returns nothing chillax end main : output 10 - (66) + 4 /= - true and 5; while - (122) + not 03 + 1 - 64 : while 721 = 5 : chillax end end end

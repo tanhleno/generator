@@ -1,0 +1,1 @@
+program z3 : TLNa : takes L : integer; AS : integer; p : integer returns nothing s : boolean array; x_, J2, k3Q : boolean array; chillax end cTy : takes U6Y0, GA, nE, U, h, f150, Gk : boolean array; J : integer array returns nothing M : boolean; m : integer array; X, X : boolean; chillax end main : IbL : integer array; H : integer array; chillax end

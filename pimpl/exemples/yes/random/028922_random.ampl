@@ -1,0 +1,1 @@
+program bG : u : takes l, E : integer array; S : integer array; k49 : integer returns nothing chillax end f2 : takes ozw : integer returns nothing while - 88 - 50600 >= 0 : chillax end; while 27 = 1360 : input Ma; pop end end main : v : boolean array; m3, U71aa : integer array; output - 5 rem false and 149 end

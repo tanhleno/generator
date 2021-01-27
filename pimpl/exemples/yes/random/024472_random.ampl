@@ -1,0 +1,1 @@
+program l : h : takes _, V : boolean returns nothing K7 : boolean; while true - 6 - 2 : chillax end; pop 762 = 738; while 9 = 1 : output "u"; pop end; pop 3 end siW : takes y5 : boolean returns boolean while - 8 - 10 : chillax end; while 5 = 7 : pop; pop end end main : chillax end

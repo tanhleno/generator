@@ -1,0 +1,1 @@
+program z : Y : takes E98aa : boolean; Wu, n3, W : boolean array; I, M8, brm0 : boolean array returns boolean array let s = array - true and 17 end main : output true * aGg or(870) and 3710 . "" . "" end

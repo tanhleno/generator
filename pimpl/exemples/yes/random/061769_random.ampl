@@ -1,0 +1,1 @@
+program cqE : e : takes r : integer returns boolean array chillax end main : i : integer array; do Q(true rem 7 rem not 5); output "{\n0a" . 59 < 21; when case - true + 0 - 7 <= - 74 : pop end case 91 : pop end otherwise : input Xtr end end

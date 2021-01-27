@@ -1,0 +1,1 @@
+program M1H0 : xs : takes O4 : integer array returns nothing chillax end main : P9T : boolean array; w, E : boolean; c : integer; input oBy; output "" . "\\"; input m; do U6(- 9 - 54 <= 64); while 18 = 2 : pop; pop end; output 08 end

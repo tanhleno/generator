@@ -1,0 +1,1 @@
+program W : main : let oM8[true rem true] = - false / (0120) or false and 97 - 94 < - 830 and 46100 - 7 - 1610; do v((1) / (92) - not 5 and 1 - 7 - 7); output "" . ""; while - 3 - 19800 < 8 : chillax end end

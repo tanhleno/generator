@@ -1,0 +1,1 @@
+program F7 : O : takes Da, H6 : integer returns boolean array a, O, H, P : integer array; p8G : boolean; chillax end LT40a : takes aD1 : boolean; J3 : boolean returns nothing chillax end main : dH : boolean; chillax end

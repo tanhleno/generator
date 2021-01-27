@@ -1,0 +1,1 @@
+program nt : p04a : takes j, Y : integer returns integer chillax end main : TGb0a : boolean; do R(true * not true and not 8540 <= - not(27), 0 rem X + true and 8); output "" . ""; output "6"; input tVxaa end

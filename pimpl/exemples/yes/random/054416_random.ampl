@@ -1,0 +1,1 @@
+program wu : nzv : takes Q : integer array; G3, S : boolean; B170, hn : integer; Y8b, xU8a, j : boolean array; B, qM_aa, n, J : integer array returns nothing output 7 - 45600 = 04 . "0" . "a" . 75; pop end main : chillax end

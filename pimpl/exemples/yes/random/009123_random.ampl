@@ -1,0 +1,1 @@
+program t : o : takes o, i, F : boolean; z : boolean array returns nothing chillax end main : B5 : integer array; while - r7 / not true + true and not 5 and 66 + false and 4 /= 6 : input Y end; input y77[e(9) and false - true and 60 or 627] end

@@ -1,0 +1,1 @@
+program b : P : takes w9w : integer returns integer array Y : integer; chillax end main : u : integer; L620a, Ev8, x : integer; f : integer array; do Q6(- false * eu70[47] and true and 50 or true <= - not(9) / n2sa and 81) end

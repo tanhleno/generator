@@ -1,0 +1,1 @@
+program D8 : RA5 : takes E : boolean array returns nothing chillax end G : takes u7ya, H : integer array returns nothing p850, p, Um, b03 : integer array; r5, z3 : integer; lL, B : boolean; p : boolean; do bF(- 899 >= 05); while 80 : chillax end; input Q end main : chillax end

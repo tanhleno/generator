@@ -1,0 +1,1 @@
+program X : H : takes x, cG, i : integer array; L, j : integer returns nothing let T0 = 424 - 8 >= 340; input A[55 - 5670]; output "`" . 4 . "\""; output 5 . ""; pop end w : takes D, Ln3, K6 : boolean array returns boolean array s : boolean; o, u480 : integer; output 1 = 5 . 3 . 613; pop 0 end main : chillax end

@@ -1,0 +1,1 @@
+program w : M : takes F, Kfx0a : integer array returns nothing chillax end q : takes Q : integer; l, M : boolean array returns nothing l : boolean; chillax end main : Z : boolean array; QR : boolean array; do c(true * true / B <= - a[5] rem true and 4 - (2) and 80800, - 35700 rem(53200)); while 18 and(1340) + 2980 and 81 : chillax end end

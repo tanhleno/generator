@@ -1,0 +1,1 @@
+program D82 : main : when case not false * 45 and h and 6 or 2 rem 95 and 85 : output "0" end otherwise : chillax end; pop x or 13 - 9 >= 9 - 3; pop - 5 - 557; output "Q\t" . "06a" . 039; when case 6 : chillax end case 72 : pop end case 0 : chillax end otherwise : chillax end; while 6 : chillax end; do P(98); do e(21900); pop end

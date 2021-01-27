@@ -1,0 +1,1 @@
+program fw : N6Taa : takes D : boolean array returns integer array chillax end main : when case not true rem MB[6] /= (2) or 76 and 4 - 5 : chillax end case - not Df5 and false and 5200 >= M : let I = array 79500; let M8 = array 896 end otherwise : do A1(6 = 6, 3) end end

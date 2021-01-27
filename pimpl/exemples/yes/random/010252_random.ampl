@@ -1,0 +1,1 @@
+program s : b : takes n5Ha, Y6, q : boolean array; _k : integer; D, k, c : boolean returns nothing m, B6Ja : boolean array; let F080 = array false - 04 end main : output not 21 or false and 9 + 891 - 44 . "^u0a" . 9 - 81 = 03 end

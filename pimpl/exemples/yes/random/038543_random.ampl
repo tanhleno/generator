@@ -1,0 +1,1 @@
+program o11 : a32aa : takes D : boolean array; h, G : boolean; D : boolean returns integer chillax end oV : takes B : boolean array returns boolean t0a : boolean; a, j : boolean array; pop 1 = 240 end main : chillax end

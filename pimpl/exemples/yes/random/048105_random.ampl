@@ -1,0 +1,1 @@
+program H : o : takes o : boolean returns nothing M, p0 : boolean; HR, V3 : integer array; _, g, nI2 : integer array; oQWa, ckE0a : boolean; do gst0a(12); output 290 end main : pop; do OQn(- false = false and 63 + 54 - 58100, 43 and 5 or 2670 = 55 - 733) end

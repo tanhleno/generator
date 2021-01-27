@@ -1,0 +1,1 @@
+program M : z2Va : takes aT, S9Ma : integer returns boolean N : boolean; Yjqa : integer array; chillax end main : J, h_7, q2ea : boolean array; T : integer array; output - s7Waa < - (979); while T2[7300] / 78 and 4 : output "" . "^" . "" end; input i; output 1890; input u; when case 6 : pop end; do D(33); while 3 : chillax end end

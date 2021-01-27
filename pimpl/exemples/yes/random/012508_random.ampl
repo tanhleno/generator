@@ -1,0 +1,1 @@
+program HJLa : D : takes Z, b, R : boolean returns nothing while - false : while 1 : chillax end; when case 3 : chillax end; do k(81) end; do Z(9 - 9, 37, 2) end main : output - 1 rem 8 and 0 . - false + 5 - 318 = - 3 . - 9 . "" end

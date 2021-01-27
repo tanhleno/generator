@@ -1,0 +1,1 @@
+program a : jf : takes w7y : integer returns integer do V(true or 3 - 06 /= 77 - 20); while 64 : while 8 : chillax end; do UU(174) end; while 0 = 46 : do C(065); pop end; let N = 3 end main : do jb9(- (1 = 623) rem false / true and 22 > not v * 5 and 8, not not 11 * 4 - not 53 + 565 - 1, - true or 02) end

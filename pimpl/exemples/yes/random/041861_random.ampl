@@ -1,0 +1,1 @@
+program C : d2 : takes f : boolean array returns boolean array pop; input _; do J6(14 = 3); input UW end e : takes U0r0 : boolean returns integer array output "" end main : input xF[true - 770 - false] end

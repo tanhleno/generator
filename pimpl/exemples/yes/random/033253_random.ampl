@@ -1,0 +1,1 @@
+program F0 : H : takes p : boolean; G, n7, FPk0a, N6, i, fY, c : integer returns integer array pop 4 - 76 > 2 end z2 : takes j06a : boolean; Bp, x : integer array; g : boolean array returns boolean i1Ha, Ga : integer array; chillax end main : E6, Sp : integer; f7ta, i60, N : boolean array; let Y = array - 4 and false * (5550) + false end

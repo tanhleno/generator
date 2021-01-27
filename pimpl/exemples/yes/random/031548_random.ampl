@@ -1,0 +1,1 @@
+program k : e : takes J, w : integer returns boolean I, w : boolean array; pop 8 - 0430 < 62 end main : m55a, z : integer array; Ee, K550a, D9, B7ka, O7 : boolean array; S, c4, R : boolean array; do b3q0a(- not k5[0] and u5n(11) * ep and 6 + f[9]); let U[- true rem(02) and 0 + not 4 and 5] = - S or 4 - 2 end

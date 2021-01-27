@@ -1,0 +1,1 @@
+program a : o6w : takes A, E760a : integer array returns boolean array i3, Bo : integer; do q(N3 and 01 - 9 - 679) end X : takes st : boolean; X, E : boolean returns integer array JT : integer array; chillax end main : while - false / true rem 38 and 2550 : chillax end end

@@ -1,0 +1,1 @@
+program un : R : takes H2 : boolean returns integer Z, GH : boolean; h : integer array; do M(- (1) and 77 - 2 - 8 /= - 0, 6 - 29 /= 85, 408, 87); input c30; input r[65] end main : z4 : boolean; let D4N0a[- true rem false / true - 2 * (29) - not 65] = array true / rN6a end

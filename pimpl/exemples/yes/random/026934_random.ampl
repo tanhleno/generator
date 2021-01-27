@@ -1,0 +1,1 @@
+program c3ta : n : takes m, D : integer; j : integer returns integer U : boolean array; chillax end v : takes a, W2Eaa, zf : integer array returns nothing BO00, q55 : integer array; chillax end main : l, d, D : boolean array; let yH = array not(65300) end

@@ -1,0 +1,1 @@
+program S : R9Q : takes y : boolean array; Y5J, g3, _6, kN9, Dz1a, dO : integer array; e5 : boolean returns integer array chillax end main : g, T630 : integer; i : integer; input g; input KMpaa; while not 181 + 319 = - 724 : chillax end end

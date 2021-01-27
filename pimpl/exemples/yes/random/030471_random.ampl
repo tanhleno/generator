@@ -1,0 +1,1 @@
+program p : u5Ra : takes q, l : integer array returns nothing Q, Pa, _84, l8, R : integer array; when case 9 and 2 : chillax end; output 7 = 2 . "" . "" end Z : takes x, xv, zN2a, cR3a : boolean array; f : boolean array returns integer output 40; input bB[9]; pop 44; output ""; while 6 : chillax end; pop end main : chillax end

@@ -1,0 +1,1 @@
+program Ct : main : b, H, aq : boolean array; output "8"; do S3(883 / ej and 54 + not 99 and 469 or 54 - 6 <= - h); while false + 6 - 5 <= - 766 : chillax end; input B9; while 193 = 2 : chillax end end

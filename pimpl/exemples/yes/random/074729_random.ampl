@@ -1,0 +1,1 @@
+program y2 : main : G, u3 : boolean array; R, P, yl00 : integer; P0W0a, n : integer; do e(D[35] or(2) / S + true - 66200 - 149 = true and(888) or R + 6 - 3, true + false and 0 + 28400 - 98800 /= - Hg + 3, - not 33400 and 50, 0) end

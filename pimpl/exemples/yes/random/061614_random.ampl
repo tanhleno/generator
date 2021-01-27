@@ -1,0 +1,1 @@
+program S : j : takes a1 : integer array returns nothing while - (29) and 7 or 9 - 97 : when case 9 : chillax end end; let M[3 - 07] = 4 = 8; pop end M5 : takes S : integer array; w : integer array; Q : boolean; o, fm : boolean array; RS : integer array returns nothing chillax end main : chillax end

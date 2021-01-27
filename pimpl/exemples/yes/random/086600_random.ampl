@@ -1,0 +1,1 @@
+program L : main : H7 : integer array; Uy : boolean array; when case(5 = 1) / not true > - true rem true : output "D" . 9 . 154 . "5"; input R end case - C(96) + d and 6 < (0) : pop end case - true : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program H : I80 : takes w, Xj : integer; TJ00 : boolean array returns nothing output "|"; output 270 end main : X : boolean array; D : boolean; nVy, aOZ0, eX : boolean array; Mop0 : boolean; chillax end

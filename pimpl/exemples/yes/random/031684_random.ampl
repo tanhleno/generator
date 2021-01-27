@@ -1,0 +1,1 @@
+program U : o : takes Y, s7 : integer returns boolean while true - 46 = - 0 : while 63200 : chillax end end; let ww9[- 7] = 9 end G : takes j : integer; dA : integer array returns nothing output 40 . ""; let W16[7] = 0 end main : Jk : integer array; chillax end

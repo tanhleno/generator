@@ -1,0 +1,1 @@
+program F : wT : takes C24aa, j : boolean array returns nothing while 8 = 0 : input J[31]; input e end; when case 3 - 8 : pop end case 5 = 4 : while 8 : chillax end end otherwise : input s end; let q[0] = array 175 end main : pop - not N rem t or 3 - 5 < not 757 and 32; while(7) and true and 2 or true and 31 - 6 < a : pop; let j = array 5 end end

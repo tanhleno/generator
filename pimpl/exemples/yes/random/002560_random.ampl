@@ -1,0 +1,1 @@
+program uUlaa : p : takes X, d, _, xO0a, c5q : boolean array; ZM0 : boolean returns boolean while - 40 < 71 - 2 : chillax end end main : when case - not not 4 <= false rem(2) and 24 : chillax end case not false : chillax end; output "S" . - 6 /= 7 end

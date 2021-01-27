@@ -1,0 +1,1 @@
+program fDb : r : takes T43, Y, I, a, n, r8P, h, g : boolean array; My : integer returns nothing while - true = 35200 : chillax end end main : do j(- not a / false / false and 0 <= not F7e0a and 096 and 9) end

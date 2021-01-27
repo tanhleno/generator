@@ -1,0 +1,1 @@
+program O : T : takes O, _ : integer array; au, hw, yV, h29, HS : boolean array returns integer array G8 : boolean; do aIU0(x and 55 + 6 - 85, 669 - 3 < 1); output 7740 . 4 end main : eCC0 : integer; o, h, Bz6 : integer; do O(- false * not 6 / 31, - _2[1] * t8saa and 7 <= true) end

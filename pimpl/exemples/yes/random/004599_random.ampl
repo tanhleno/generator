@@ -1,0 +1,1 @@
+program B : iGa : takes Za, x, b, o : boolean; x : integer; W, gJ, z : boolean array returns boolean output 59300 - 0 . "\n`" . 4 . 47900 . "" end V67 : takes moP : integer array returns boolean array x : boolean; u : boolean; K : boolean; chillax end P : takes KG4, Pn : boolean returns nothing do bYS0(87 = 7) end main : pop end

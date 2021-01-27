@@ -1,0 +1,1 @@
+program iz : n : takes W36, a : integer returns boolean chillax end W : takes T070a : boolean; i, t670a, C650a, xh20a : boolean; X, p : boolean returns nothing chillax end fej : takes m : integer returns integer l : boolean array; do b(0, 089, 465) end main : chillax end

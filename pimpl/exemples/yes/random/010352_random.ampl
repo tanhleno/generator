@@ -1,0 +1,1 @@
+program M : C : takes V, bFaaa, t8 : boolean array; q : integer array; n1 : integer returns boolean E : boolean; L, S : integer array; when case - not 6 and 9 > - 6 : chillax end; while - 14 /= 77 : chillax end; when case 4 = 1 : chillax end otherwise : pop end end main : chillax end

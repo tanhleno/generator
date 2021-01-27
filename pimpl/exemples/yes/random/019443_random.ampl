@@ -1,0 +1,1 @@
+program v : G45 : takes Tl, K : boolean array; Z, r9 : integer array; K, F4U, DlB0, Y : boolean returns integer array chillax end main : A : integer; let fi[(51 = 6) rem not true * 1270 and 2 or CL9[03] or not 7 and 762 or 44] = 5520 and 4; output "" end

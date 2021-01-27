@@ -1,0 +1,1 @@
+program n : u6i : takes ymx, Ejd, mR8 : integer returns integer array chillax end G : takes WD, E : integer returns nothing K5, GA : boolean; chillax end Bn : takes E : boolean; m3a0 : boolean array; v, h : integer array; kX00, F, l : integer returns nothing Ii : integer; do _0(1 = 6, 0) end main : s9 : integer array; nCba, F, Q, J4, ha, X : boolean array; chillax end

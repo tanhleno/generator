@@ -1,0 +1,1 @@
+program f : bY : takes K, x, D720 : integer; I, Np, me, i : boolean array returns nothing chillax end main : pop(73) / false /= not 27 - 5 - 4; do r(- iBZ0(3) = - false); while - C920 <= 3 - 2530 : when case 8940 : chillax end otherwise : chillax end; do RU(1); while 6 : chillax end end end

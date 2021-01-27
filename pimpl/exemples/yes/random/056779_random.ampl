@@ -1,0 +1,1 @@
+program j7Ra : XZ : takes T : integer array; c : integer; di : integer returns integer n : boolean array; z4W : boolean; output - 90 > 47500 . ""; input O62[- 5 - 8] end main : P : boolean; do j28((496)); output(0) and 65 /= 66 . "hl" . "D%0a" end

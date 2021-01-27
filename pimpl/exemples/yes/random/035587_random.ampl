@@ -1,0 +1,1 @@
+program w7O0a : V82 : takes K : boolean; uV : boolean array; O_Oa, o, o8, q, O2 : integer array returns nothing pop; pop; do FJ(0); output "w-!a"; when case 09300 : chillax end end d : takes Z : integer array; a : integer returns nothing w : integer array; while 8 - 6 : when case 03 : chillax end; input rGG end end main : chillax end

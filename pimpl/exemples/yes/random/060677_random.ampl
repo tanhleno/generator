@@ -1,0 +1,1 @@
+program P : i : takes R : integer array returns nothing o6, J2I : integer array; let pH7a[- true or 49] = - 271 - 5 >= 0 end main : o : boolean array; x, dMJ : integer; output - 076; output ""; output 7970 >= 1; while 5350 : do u5Y(379); input _h1a; pop end; pop 4 end

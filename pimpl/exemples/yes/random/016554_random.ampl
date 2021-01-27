@@ -1,0 +1,1 @@
+program V7 : alL : takes jzS, k, L : integer returns nothing let r[9 and 1 or 0] = - 2 - 6; while 3 - 78 > 7 : chillax end; input C5[26] end r : takes W2 : integer array returns integer do uS(2) end main : DS : integer array; do u(false, - (3), - false and 10, - 97 - 5 <= 95); when case(9) or(91000) and 90900 : chillax end otherwise : input i; output ""; pop; pop end end

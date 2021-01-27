@@ -1,0 +1,1 @@
+program U : z : takes B_eaa, Q : integer array returns boolean array LX, v_M : boolean array; while true : while 3 : chillax end; let I2 = 8; do u(1); pop end end N : takes T1, B56 : boolean; B5, O, r : boolean array returns nothing t : integer; pop 4 = 7 end main : chillax end

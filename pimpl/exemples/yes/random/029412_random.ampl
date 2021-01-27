@@ -1,0 +1,1 @@
+program _ : l : takes C, B94 : integer array returns boolean array pop - 403 <= 7 end main : h : boolean; R1K : boolean array; S3q : boolean array; X43aa : integer array; do Mp(false <= (9) and(18600) or 2, - true - true and 64 - 6 - 58, - true and 5 - 0 - 882, 41 - 0 < 1, 4300 = 6) end

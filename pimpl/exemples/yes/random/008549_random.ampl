@@ -1,0 +1,1 @@
+program M : o99 : takes D1, f, Z_e : boolean; P4, qC8, a, TIaaa : integer array returns nothing T, o1, p, c : integer; h, k8j0 : integer array; let RA[- false] = array false end main : B : integer array; n : boolean; chillax end

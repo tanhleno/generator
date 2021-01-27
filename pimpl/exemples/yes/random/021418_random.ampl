@@ -1,0 +1,1 @@
+program E4 : P : takes e3_, R9g : boolean array returns integer array X8 : boolean array; MX80, XeL : integer array; chillax end t61aa : takes S7 : boolean array; Fo0 : integer returns nothing pop end M : takes eol0 : boolean returns integer array chillax end main : s2 : boolean; chillax end

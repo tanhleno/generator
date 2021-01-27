@@ -1,0 +1,1 @@
+program S9y : p : takes o, J, w : boolean returns integer A6 : boolean array; E, e : boolean; GA : boolean array; H, m3 : boolean; R7 : boolean; Y8c : boolean; let VX[2 and 31] = array false and 14 end main : let m8 = array v[0] + (27) and not 4 and 80 + H end

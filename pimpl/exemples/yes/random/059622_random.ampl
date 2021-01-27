@@ -1,0 +1,1 @@
+program IQHa : c : takes X : integer array returns integer while 9 and 72 >= - 0 : chillax end; do OOY(- 1 - 3); do Y71aa(6); output "\"\"" end main : beP, _0, _6 : boolean; zYA : boolean array; fJ : boolean array; r : integer; pop; pop - h8G0a and 1 - 943 > - 96 end

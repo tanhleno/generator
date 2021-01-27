@@ -1,0 +1,1 @@
+program tg : v : takes TY : integer returns nothing Y : integer array; k : integer array; pop end l : takes M7 : integer array; q6_ : integer returns boolean pop; do i0(2, 513); let W0 = 5; let H = 7; pop; pop end main : chillax end

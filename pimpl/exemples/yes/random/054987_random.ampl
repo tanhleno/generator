@@ -1,0 +1,1 @@
+program h36a : nu9 : takes Z : integer array; K, d310 : integer; f7iaa : boolean array; U : integer array returns integer array pop - 3 end Z : takes yT : boolean returns integer btu, R, P, gw8 : boolean; chillax end main : do qz1aa(not(6)); while c[4] + false and 80400 + 1 : chillax end end

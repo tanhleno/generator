@@ -1,0 +1,1 @@
+program q8 : l87 : takes A1z, t, O : boolean array; P : integer returns nothing IWPaa, _9, D, H0, Vz : boolean; mN, Af20, z5r, F : boolean; chillax end Q : takes a, K10, Qonaa : integer array returns nothing chillax end main : k88a, g : boolean array; C, I : boolean array; zo, b, C : integer array; E3F : integer array; chillax end

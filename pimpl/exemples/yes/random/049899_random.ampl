@@ -1,0 +1,1 @@
+program c2 : W540 : takes I : integer; f0Ea, I, R : boolean array returns integer array y, tD, d, Y : boolean array; O : boolean; pop 4 - 56 /= 29; input I67; pop; do G(2, 3); do L(9) end y : takes h, z : boolean array; v : boolean array returns nothing chillax end main : do h7A(- false - Z > - 23 or not 22 or 58 - 283) end

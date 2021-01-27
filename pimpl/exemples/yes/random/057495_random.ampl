@@ -1,0 +1,1 @@
+program f : Y4 : takes rn90 : integer array; A : integer returns nothing Gf, N : boolean array; do aP(- not 0 and 8 > - 5 - 3, 5 - 47600, 5) end main : x4T0, f : integer; s, M : boolean; let R05 = - true end

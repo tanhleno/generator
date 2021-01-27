@@ -1,0 +1,1 @@
+program P7h : main : O : integer; mO, K, r, YX70 : integer array; u, Y5Q, Ga1 : integer; when case 726 / 1 = false + not 5750 and 74 - 7 : do X(930 - 5040, 6, 98300, 66300); pop; output "" . "\t,0" end case - u and 5 and 1640 /= - (68) and 2 : chillax end end

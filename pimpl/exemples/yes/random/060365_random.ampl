@@ -1,0 +1,1 @@
+program h : O : takes v : integer array returns nothing i, L, r : boolean array; EM : integer; m5 : integer; oU10 : boolean; output "" end kD6a : takes Og, VT : boolean returns integer array x : boolean array; input _9 end main : pop end

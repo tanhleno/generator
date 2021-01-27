@@ -1,0 +1,1 @@
+program c1 : main : gw : boolean; o, b5 : boolean; h, d : boolean array; when case - 151 and false : chillax end otherwise : while 263 = 9 : pop; pop end; do W04(2); let jZ = 7; do _14(47) end; while true <= (31) and 4 - 548 - 2 : chillax end end

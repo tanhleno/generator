@@ -1,0 +1,1 @@
+program MY : U2 : takes _ : boolean array returns integer _nf, J : boolean; pop 31 < 0400 end p : takes s : boolean array returns boolean array chillax end q : takes H3, jpK : boolean array returns nothing while 1 = 5 : when case 64 : chillax end end; input XH end main : chillax end

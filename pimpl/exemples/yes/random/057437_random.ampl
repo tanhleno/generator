@@ -1,0 +1,1 @@
+program A : k1g : takes Bx : integer array; Y : integer returns nothing chillax end l_ : takes YCv, aZ7, j, o : boolean array; a9la : integer returns integer input Do end main : tb0, T, Q, i6saa : integer; output "x" end

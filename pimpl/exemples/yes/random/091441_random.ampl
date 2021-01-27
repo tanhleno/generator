@@ -1,0 +1,1 @@
+program o : main : let n4[p or 1 rem true - k and 1 - 5 - 8] = array false or k(37) or(0) and 27; when case IJl(58) - (640) or 9 - 8 /= - (8050) : chillax end; when case - false and 60 - 9 <= 54 : do X(082, 2) end case - 5 - 8 < 6 : chillax end case 9 = 1 : chillax end case 475 : pop end case 1 : chillax end otherwise : chillax end; output 345 = 8 end

@@ -1,0 +1,1 @@
+program K3 : h : takes M, F : boolean array returns boolean array G9y : boolean; u : integer array; input R8H[not 01]; do m(- 861, 71900) end main : let c3[- not true / (0) rem(4)] = array FX(74, 0) - 7950 * 24 and 27 - (75) + 92 - 3; output not 2 and 0 end

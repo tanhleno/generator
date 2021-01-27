@@ -1,0 +1,1 @@
+program D : g : takes x, o, n, gZ : boolean; Z, V, d, wR : boolean; f, L : boolean; oG40a : boolean; x, AP5 : boolean; Ek, h610, PUFaa : integer; ml70 : boolean returns boolean pop - 7150 - 9; pop end main : wA : boolean; aO : boolean; Zmq : boolean array; input n1[- (014)] end

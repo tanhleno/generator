@@ -1,0 +1,1 @@
+program Z : L65 : takes cn, E0N : integer array; F, s : integer; g9, o, z : boolean array returns nothing V4 : integer; do wq(not 2, - 5 >= 1) end main : Ixja : boolean; T8 : integer; do _(not false rem u(8) >= 14 - (9), - (3) and 5 and 7030 or 13 and 6 or 90 - 95 >= (70)); output "\n," . "\""; let m_aaa[6 and 3 - 7] = - 5 > 98 end

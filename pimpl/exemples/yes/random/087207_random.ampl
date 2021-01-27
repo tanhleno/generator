@@ -1,0 +1,1 @@
+program v : main : w : integer array; let W[false rem R rem true and 4] = - C5[4] and true and 9 or(32300) >= X5 + 44000; while - false and(467) and 91300 or true > Vm + 4 : do ej6(3 = 4, 933); while 7 : pop end end end

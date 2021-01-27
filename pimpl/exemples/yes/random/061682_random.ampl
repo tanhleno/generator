@@ -1,0 +1,1 @@
+program jS : J : takes Ck0aa : integer returns boolean array chillax end e : takes Q50a, K, I, CM, o : boolean returns nothing S_9a, s70 : boolean array; chillax end main : D : integer; E, D : integer array; chillax end

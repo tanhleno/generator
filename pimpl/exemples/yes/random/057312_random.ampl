@@ -1,0 +1,1 @@
+program Q : e69a : takes e2 : integer array; loF0 : integer array returns nothing pop end e5c : takes m : boolean array returns boolean array p : integer array; chillax end J : takes v : boolean returns integer array y, L : boolean; chillax end main : LPy : integer; hB, rX4, A4, u, d4n : boolean; chillax end

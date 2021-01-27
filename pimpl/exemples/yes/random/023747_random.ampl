@@ -1,0 +1,1 @@
+program _730a : f21 : takes K86, j10 : boolean returns integer F : boolean; do j2(- false or 2 - 9 > 0, - 7 - 16100); while 9 - 587 : while 07100 : chillax end end; when case 8 : chillax end case 7 : chillax end case 4 : chillax end otherwise : pop end; input y1W end main : d : boolean; chillax end

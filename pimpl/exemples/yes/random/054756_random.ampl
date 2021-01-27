@@ -1,0 +1,1 @@
+program N : h0 : takes KO7a : integer array; y, v3 : boolean array returns nothing when case not 92 <= - 5 - 57 : pop; output ""; pop; pop end otherwise : chillax end; do y(25800 /= 2) end h : takes GU1 : boolean; s3, y, jP : boolean array returns boolean array pW : boolean array; Y, mo : boolean array; chillax end main : do Jv(g / J3(5) and false and 7 = - f[56]) end

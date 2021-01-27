@@ -1,0 +1,1 @@
+program J : A : takes fr, h, G : boolean array; A : boolean; G, M1 : boolean array returns nothing J : boolean; do W(- 2, 9 - 9); let m[4460] = array 0 - 63; output "" . "c"; do y0(9); input K end main : chillax end

@@ -1,0 +1,1 @@
+program n : ZbH0 : takes H : boolean returns integer chillax end main : let wy[- (2) and(8) + a[771] and false and 226 or 0 - 4 - 8] = array 19 rem k * false + (4); while false / (50) and 20 <= 752 + 766 - 2 : output "" . 0 . "8@"; pop; when case 4 : chillax end; let j580 = 99 end end

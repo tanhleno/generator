@@ -1,0 +1,1 @@
+program f90 : main : pop; when case - hBca[43300] * true or not 589 and 03 or 5 /= - 9 and 886 : chillax end case c - 2 - 55 : chillax end case 46 : let K = 7; do _4r(61); pop end case 45000 : while 3 : chillax end; pop end case 8 : pop end otherwise : chillax end; while true and 8 - 10 < - 3300 - 3 : do oxd(4); pop; input V end end

@@ -1,0 +1,1 @@
+program n : Ykq : takes Yq10 : boolean array; z : integer array returns integer array let U9[H] = - 933 - 7 = 0; input O8; do g(84, 99, 328) end main : _ : boolean array; M, z, i5 : integer array; EY9 : boolean; let f = - false * false and 603 > false and 8 end

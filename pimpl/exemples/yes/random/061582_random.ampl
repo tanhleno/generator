@@ -1,0 +1,1 @@
+program I : _JB : takes e7 : integer array returns nothing when case not 95 and 96 - 54 /= - 4 - 6 : chillax end end main : AL1aa, l34, a9 : integer array; dy : integer; do r6w(- not 63 and(01) + not true / O and 89 - not 14600 and 59 - 2 - 33, (0) * not 9 and 9); let O[(94) / not 4420 and 6050] = true or 5 - 7 > - 9 - 4 end

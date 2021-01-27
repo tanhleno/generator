@@ -1,0 +1,1 @@
+program Ou : K : takes T : boolean array returns nothing o, B8 : boolean array; chillax end main : ej : boolean array; M : integer array; TE : integer array; B : integer array; when case - 738 + true rem false or not 6 or 400 - 2 : let D = 2 = 92800 end case - T(7) * (04) : chillax end end

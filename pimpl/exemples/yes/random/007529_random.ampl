@@ -1,0 +1,1 @@
+program u : tG : takes w21a, OP3, w, y1ta : integer array returns integer array L2, q : boolean; f2K, J5g, ff2, a : integer array; output "\n!" end main : while - true rem false rem 64100 /= false : chillax end end

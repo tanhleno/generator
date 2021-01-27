@@ -1,0 +1,1 @@
+program w : a1ia : takes r : integer array returns nothing do W(- (67300) and 38 - 1480 < 97900 - 9660, 73 - 74, 220); while - 1 : chillax end; while 4 : chillax end end main : c : boolean array; qU3, P13, n, oG, I : boolean array; rx, w7, FLJ0a : boolean array; v, u2 : boolean array; do R(- not f * not W + not Y * not 160 and 58) end

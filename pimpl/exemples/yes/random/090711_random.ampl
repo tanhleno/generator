@@ -1,0 +1,1 @@
+program p : main : let m2[- (57 = 93)] = - true > not 10 and 237 - 63100; when case - (9) rem 4 = - (6) and 6 : when case 04 = 1700 : chillax end; input Vw end case w9 and 765 <= 86 - 201 : while 7 : chillax end end otherwise : while 1 : pop end; when case 01 : chillax end end end

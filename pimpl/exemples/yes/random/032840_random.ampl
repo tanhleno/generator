@@ -1,0 +1,1 @@
+program I : rc : takes CVZ0, r : integer returns nothing g : boolean array; while false and 6 : while 1 : chillax end end end main : Ete, X : integer array; e, W58, d, Fy9, A30 : integer; chillax end

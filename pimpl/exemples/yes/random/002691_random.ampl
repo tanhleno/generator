@@ -1,0 +1,1 @@
+program jQv0 : u4N : takes o, L, b5N0a, aL5aa, w : boolean array returns integer array BG, t75, R6, EC, T6 : boolean; L, g10a, J840a : boolean array; B6 : integer; u : boolean; h : boolean; h : boolean; input i47; let H = 5 = 9 end main : chillax end

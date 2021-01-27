@@ -1,0 +1,1 @@
+program U : a : takes b, U : boolean returns boolean let X[- G and 422 + 6] = array false and 2 - 0 end main : E, N, a8y0, S : integer array; s, q : integer array; do s(- (4030 = 1980) - (35000) / not 43 and 76 + not 044 and 1 - 4570, - not true * (9), TyJ0a and 270 - 83, - 0 - 4 < 155); while false * 9 and 3 + b or 1 <= - 7 and 3 + 7 : chillax end end

@@ -1,0 +1,1 @@
+program i : main : g1 : integer; gm8, P, c3, S, A65a : integer; _ : integer; mh90 : integer array; pop true; do LP9(78 * (3) and 3 or not 5 and 25300, - not 02 or 269, 41 - 5, 60 = 5); let C[7 and 4] = - 6 end

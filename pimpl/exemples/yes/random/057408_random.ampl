@@ -1,0 +1,1 @@
+program BpH0a : u : takes e : integer array; l5 : integer returns integer chillax end Naxaa : takes Y30 : integer returns boolean ly70a, PK : boolean array; let n[565] = 7; do H(2) end main : m : boolean array; let F = array not p[3] rem true end

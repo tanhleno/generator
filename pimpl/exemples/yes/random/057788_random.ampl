@@ -1,0 +1,1 @@
+program N1s : Vh4 : takes xhQa : integer array returns boolean array XL, Y : integer array; n : integer array; o : boolean array; chillax end Pl0 : takes x : boolean array; NQqaa : boolean returns nothing chillax end main : wh : integer array; g : boolean; k6, dzg, I0 : integer; chillax end

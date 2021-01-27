@@ -1,0 +1,1 @@
+program k : I9 : takes QD_0 : integer array returns boolean when case true and 0 + 62 >= - 3 - 1 : chillax end; pop 9 end W : takes W5, v : boolean; q8, vu, r8 : integer; pO1, c200 : integer array returns integer array input bsn0a end main : output "&\n0a" . Q and 2 > - 0; let Gm5[- 36] = array p9 and not 9 and 64 - 24 - 247 end

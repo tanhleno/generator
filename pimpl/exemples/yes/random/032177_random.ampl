@@ -1,0 +1,1 @@
+program x6 : y : takes A, r1 : integer returns integer when case - not 374 and 6 + 52 - 7 /= 51700 - 9 : let LpMaa = array 7 end; input LrI0[- 92 - 41700]; do q(4 = 4, 24); do kg(9); output ""; let n = 5560; pop end main : f, E : integer; chillax end

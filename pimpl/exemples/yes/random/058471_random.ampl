@@ -1,0 +1,1 @@
+program z : JT : takes q : integer array returns boolean let V = array - false and 5 + 2; pop; do V1(2) end R : takes X78a : boolean returns integer array chillax end main : av : boolean array; do V2(U[1] - not Lm + false and 89500); do g1(false) end

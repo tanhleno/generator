@@ -1,0 +1,1 @@
+program T : main : LIZ0a, h9, wT, z330, R670, g : boolean; F, K, PG, qs : integer array; Qv50a : integer; output true * true and 6220 /= K and 5 - 97 - 140 . ".>a" . "\n" . 8 = 63 . 7240 . 6; while - 108 - true and 59 : while 2 = 931 : chillax end end; output 48 <= 32 . "S\"!a" . 005 . 6 end

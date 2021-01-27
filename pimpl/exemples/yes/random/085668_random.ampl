@@ -1,0 +1,1 @@
+program Q : main : pG : integer array; w, H0, t, F : boolean; output - (4) rem(21300) + false . ""; let jo[848] = - false - 92 - 9620; do P2(- (8) > - 53200 - 84, 4 - 01 <= 3, 8, 6); do A22(30700 - 7, 3, 88) end

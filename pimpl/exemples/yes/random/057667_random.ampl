@@ -1,0 +1,1 @@
+program b78aa : Q1 : takes Z : integer array returns boolean array do s(o2o0 = 5 - 73); do aV(- 04 - 8 /= 249); input z; pop end Y : takes s : integer returns boolean array d0 : boolean array; P : integer array; chillax end main : chillax end

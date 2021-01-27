@@ -1,0 +1,1 @@
+program ah0 : FS : takes x, N : integer returns nothing O : boolean array; chillax end N : takes _ : boolean returns nothing a6, G : boolean array; L0ha : integer; R5F, Y : boolean; do C(- 51 - 33, 294, 43) end main : chillax end

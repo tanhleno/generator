@@ -1,0 +1,1 @@
+program i : main : when case i[9] and(98) /= - true and false and 0 : pop; input qt; while 8 : pop end; do d(425) end; let ho = array 06 * D5e0 + _1p0 and 8; do gjTaa(- false > - 2590 - 3, - 5, 2 = 484) end

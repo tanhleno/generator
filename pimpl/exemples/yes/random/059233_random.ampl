@@ -1,0 +1,1 @@
+program k5m : LX : takes P2 : integer array returns integer I, RN, Y3, W, U : integer array; chillax end F : takes V93a : boolean returns nothing R7j0, k5, nNc : boolean array; j : integer array; chillax end j : takes Y3Qaa : boolean; s60a, t : integer; l2 : integer array returns nothing pop end X : takes L5T : integer returns nothing input Q0[6] end main : output "7" . "q" end

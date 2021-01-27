@@ -1,0 +1,1 @@
+program o : z2 : takes A5, F : integer array; P43 : integer array; uN, mF : integer; I : boolean array; C, Fju0, n, y : boolean array; h3O0a : boolean returns boolean array qt, N0, bm, DzI0, Zj : integer array; l3 : boolean; K5, oI : integer; Q4, MH1 : boolean; pop 43 - 3 end main : chillax end

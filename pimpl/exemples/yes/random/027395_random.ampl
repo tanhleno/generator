@@ -1,0 +1,1 @@
+program k : S7Y0a : takes e0, D : integer array; d, u5wa, x8 : boolean array returns nothing input zoGaa; do E(50 - 0); while 152 : when case 2 : chillax end end end main : o, p1W : boolean array; GS, g : integer array; JQ : boolean; On : integer; h69, fW4, IbT : boolean; F, qn4 : boolean; E : boolean; jxI : boolean; chillax end

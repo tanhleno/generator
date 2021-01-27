@@ -1,0 +1,1 @@
+program x1g : V : takes d : integer returns integer array when case - not 878 /= 5 - 74000 : chillax end case - 0 > 9 : chillax end case 6 = 922 : chillax end end woY0a : takes xo, k8n0 : integer array returns nothing let n[- 18 - 8] = array 1560 - 1 end main : pop - (8) rem bp9 and 72600; pop - (933) or 2 end

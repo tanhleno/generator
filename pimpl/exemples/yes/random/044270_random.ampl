@@ -1,0 +1,1 @@
+program C : dG2a : takes jWw : boolean array returns nothing gP, g : boolean array; L7 : integer; output - 444 <= 3; pop; do U010(24 = 51, 1) end main : do s(not d, false rem 31900 - 2 + 7, - 142 - 288 <= - 5) end

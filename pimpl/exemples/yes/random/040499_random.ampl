@@ -1,0 +1,1 @@
+program b : l8 : takes m : boolean array; Yt : integer; y5, L39aa, K, Ke : integer array returns boolean input o50a; pop; input Sb4[35] end X6 : takes T16, e3, C, am3 : boolean array returns integer pop 4; let lh = array 518 end main : QM, I, Q, W : boolean; chillax end

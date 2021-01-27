@@ -1,0 +1,1 @@
+program L : Q : takes Zla : boolean; V : integer; zM, U : boolean array; Cfe : boolean array returns nothing z : integer; input E5B[(2) + 0 - 9]; while 3 > 5 : while 6 : chillax end; while 7 : chillax end; pop end; do aU7(8 = 048, 0); do U9(7) end main : h, EU, N_e0 : integer array; chillax end

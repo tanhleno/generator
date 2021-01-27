@@ -1,0 +1,1 @@
+program D740 : q86a : takes m46 : integer; Xd : boolean; U0 : integer returns integer Z : integer; chillax end main : H : boolean; l2 : integer; l6 : integer array; z : boolean array; TBN0a : integer array; when case - false rem 2 > - 2 : let A = 126 = 7; while 5 : chillax end end end

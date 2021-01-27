@@ -1,0 +1,1 @@
+program j6n0 : E : takes E, q260a : boolean array; tL : integer array returns nothing chillax end main : pop - Rd30a[6] or false and 61 > a and 9 or 52; while T(720) + OI - 2 < true and 8 : chillax end; input K; pop; input Xjl end

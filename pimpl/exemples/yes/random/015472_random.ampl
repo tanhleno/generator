@@ -1,0 +1,1 @@
+program U1 : f44 : takes I1, Z, x : integer array returns nothing txca : boolean array; when case true - 18 - 255 > 27 : pop end case 3 /= 9 : chillax end otherwise : chillax end; pop end main : chillax end

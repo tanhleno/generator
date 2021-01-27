@@ -1,0 +1,1 @@
+program c : ht8 : takes p7 : integer array returns nothing CT10, y6M0a, Y1, G90, p : boolean array; L4Ba : boolean array; when case - (06100) or 6 - 53 : output "" end end main : pop - 234 rem not 5 and 6 end

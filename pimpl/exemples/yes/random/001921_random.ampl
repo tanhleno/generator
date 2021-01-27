@@ -1,0 +1,1 @@
+program k9 : i : takes qb20, iQ, g, Ma, f5, d45aa : integer array returns nothing chillax end _ : takes QzH, _ : integer returns nothing N : boolean array; nU8, A500 : boolean array; u : boolean; do g(- 92 - 8); when case 8 : while 2 : chillax end; pop end case 4 : pop end end main : _a : integer; Z03 : integer; chillax end

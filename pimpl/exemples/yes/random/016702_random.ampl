@@ -1,0 +1,1 @@
+program f : n1 : takes FX0aa, g : boolean; Pt, l, h, e19, V : boolean; B8 : boolean; J : integer array returns boolean array let B = array - not 789 and 0; input p8Q end main : let C[- not 957 / (3) * t7] = N - true and 0 end

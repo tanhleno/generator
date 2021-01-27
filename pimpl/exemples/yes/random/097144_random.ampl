@@ -1,0 +1,1 @@
+program _ : main : when case not false / 17 / true or not not 8440 * HS and 3 : do T(- 7 - 1630); let fY[3] = array 865; do s_8(42, 96) end; let FWy0 = array - true * false and 7; do X(- G0Fa and 06 + 4 - 5 <= - 68) end

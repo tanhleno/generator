@@ -1,0 +1,1 @@
+program zP : rCt : takes KL : boolean; e, p3 : boolean returns integer pop; input E; do ccSaa(329, 438, 5); do D3S(0, 433) end main : Is1 : boolean array; q, i6Q0, K2f, eg5aa : integer; N9 : integer; Pf7 : boolean; i, to9, p : integer; Ms : boolean; d9 : boolean; chillax end

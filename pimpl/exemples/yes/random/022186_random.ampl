@@ -1,0 +1,1 @@
+program E : H : takes _, Q : boolean array returns nothing l, yXW, O3 : boolean; pop - 27 /= 4 end z : takes H, v, r : boolean returns nothing chillax end u : takes yX, Tk, L : integer array; E : integer returns nothing GCZ0 : boolean array; chillax end main : chillax end

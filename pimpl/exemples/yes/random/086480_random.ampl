@@ -1,0 +1,1 @@
+program K6 : main : h8 : integer array; r : boolean array; wY2, J, a, t : integer array; Gxz, c, s9, F2 : boolean array; H, U : boolean array; while - true <= - 3 : chillax end; do P1Ka(- false rem not 20 or 221) end

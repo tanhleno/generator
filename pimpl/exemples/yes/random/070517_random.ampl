@@ -1,0 +1,1 @@
+program e260 : main : L, R, e, l : integer array; gE : boolean array; M, FZ : boolean array; C, xH, B, c : integer array; K7n : integer array; do u9_a(true or true * true and 7); do U120a(- (15) * false); pop; while - 9 - 1 >= 7 : chillax end end

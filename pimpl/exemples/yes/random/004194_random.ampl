@@ -1,0 +1,1 @@
+program Q : c9 : takes n, eV, u, S : boolean; m2z, S, L6, n6, y : boolean array; K, kr7a : boolean returns nothing when case(25) and 13 + 2 - 8 : chillax end otherwise : chillax end end main : W5 : integer array; V : boolean array; pop end

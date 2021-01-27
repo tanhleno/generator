@@ -1,0 +1,1 @@
+program s810 : u : takes wZ, gX6 : integer array returns nothing T2P, R, o9 : integer; z : integer array; EI30a : boolean array; n, Bd : boolean; let V9 = - 0 <= 716; output "" . "\\&" . "$" . "l" end main : input j[- true and 73] end

@@ -1,0 +1,1 @@
+program sJ : K : takes q, Q : boolean array; t : boolean array; o, V, g, z, S, sV : integer; R : integer array returns boolean array do y(- false and 43); let Y0X[- 2] = array 7; while 5 = 2 : do jqO0a(59000) end; output "" . ""; input p end e : takes T : integer array returns boolean array chillax end main : chillax end

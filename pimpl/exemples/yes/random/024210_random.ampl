@@ -1,0 +1,1 @@
+program i2 : qw3aa : takes GNe, I2jaa : boolean returns nothing P, e, O : boolean; chillax end main : e, e : integer; rp : boolean; u9, t, a2 : boolean array; input uSSa[- true]; input a[- 57 / (6) and 7520 or false and 74 or 0 - 333]; let Jp[(9) and 18 - 4 - 0] = - 36 - 1; while 41 - 1570 < 1 : chillax end end

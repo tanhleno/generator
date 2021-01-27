@@ -1,0 +1,1 @@
+program O : Pk : takes o3, p : boolean array returns nothing do P(not 5340 and 80); when case - 32 : chillax end otherwise : chillax end; when case 2160 = 8 : output "M"; pop end; when case 4 : chillax end otherwise : chillax end; when case 1 : chillax end end main : do W(- 9 >= true, - false rem false and 1 or(5) = - true and 85 - 842) end

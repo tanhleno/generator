@@ -1,0 +1,1 @@
+program o : t : takes VE40, k, N, G, N7d0a, u0 : boolean returns integer cw : integer array; h, A : integer array; i7N, dX : integer array; th, Og : boolean; let ex = 3 end main : u, a, M, B : boolean array; input X3[0 rem(54) and kO20 and 73100 - true - true and 06] end

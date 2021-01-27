@@ -1,0 +1,1 @@
+program U4 : T : takes g, N28 : boolean; zE, D, d8 : integer returns nothing D, G7 : integer; k, k, U8, b : integer array; k : boolean; M85, ncda : boolean; e : boolean; let VD[- 875] = array - false; pop; let yp0 = array 0 end main : Q, P, h1 : boolean; x, C, t, MW, Gui0a : integer array; do gjf(8 <= - false rem false or not 033 + 0 - 07200) end

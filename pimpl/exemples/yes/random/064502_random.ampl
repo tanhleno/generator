@@ -1,0 +1,1 @@
+program PT : dW : takes x5 : integer returns nothing TV, d : boolean array; pop 6110 - 9 end main : U, R, urx, cvfaa, K8 : integer array; Y, N4n, W, c, o : boolean; A, MH40 : boolean array; let GGH = - true * true and 3 + false and 62 /= false and 43 - 91 - 2; while - true and(8) and 13 + (5) : chillax end end

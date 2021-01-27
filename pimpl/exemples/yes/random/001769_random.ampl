@@ -1,0 +1,1 @@
+program uR_ : ZX : takes t, sU, q, t, S, Y : integer array; K, A50 : boolean; Z : integer array returns boolean array o7, rg, E, A, w : boolean array; pop - 450 - 99 = 1; pop 0 = 5560; let D = array 9 end main : chillax end

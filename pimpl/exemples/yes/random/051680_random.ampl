@@ -1,0 +1,1 @@
+program E : N23 : takes K6 : integer; OZM0a : boolean array; Wi, O : integer; _, r, u4u : boolean array; YuG0, b : boolean array returns nothing MS : integer; while - 5 - 1 > 25 - 9 : chillax end end main : do xD((63 = 8) /= - false and 4620, - 4 - false + 24 - 1940 <= false) end

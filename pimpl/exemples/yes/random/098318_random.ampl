@@ -1,0 +1,1 @@
+program B : main : while - NyU0a(42) / not not 5 / false and 70600 or M / false and 6 - 57 - 27 < false or(0) : chillax end; while - 0 + Pz4 = - true and 9 : while 21 = 595 : output ""; pop end; output 5 . "" end; when case - T and 9 + 24 - 94700 = 2 - 13 : while 82800 : pop end; input w100a; let AW = 42 end otherwise : do H7(03); pop end end

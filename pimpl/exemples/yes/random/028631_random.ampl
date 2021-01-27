@@ -1,0 +1,1 @@
+program m : i310a : takes I, q2 : integer array; G080a : integer; c15a, Z, S, v0, zW, p9O : boolean array returns boolean d_7, Cv10 : integer; B : boolean; b : integer; f, _3 : boolean; output "\t" . 6 . 4 . ""; pop end main : chillax end

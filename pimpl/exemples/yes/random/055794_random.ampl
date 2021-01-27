@@ -1,0 +1,1 @@
+program a : X : takes UR : integer array; jE : boolean array; Y, ZY9 : boolean array; H : integer array returns nothing output "1" . 3 = 39 . 9; while - 3 : do e(68300) end; pop 47; input Y end main : b : boolean; P, m5, L, R, C : integer array; w, M : integer array; pop; do r86(- false * false and 19, - true and 40, - 7 - 368) end

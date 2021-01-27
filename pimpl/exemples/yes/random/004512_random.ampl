@@ -1,0 +1,1 @@
+program Xq : B : takes EV, Z7H0, H, AOb : boolean; V19 : boolean array; B : boolean array returns nothing v : integer array; let YBi[- 54 and 65] = array - false end main : k1, Dp, t, F39 : boolean array; do z(- 80800 - S88[9] <= - false) end

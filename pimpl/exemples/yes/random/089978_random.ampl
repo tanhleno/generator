@@ -1,0 +1,1 @@
+program j9eaa : main : let G = array - 27 + not not 5; input i8y[- false rem(7) or false and 94 - 0]; input t240[true and 98 + 9]; when case - 4 - 3 = 8 : input J end case 6 = 31700 : chillax end otherwise : chillax end end

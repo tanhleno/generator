@@ -1,0 +1,1 @@
+program Pk : F : takes tG8, d : integer array; m : boolean returns nothing do u96(- true > 15 - 3, 8, 69900 = 3050); output 17600 end B : takes N8, B5 : boolean; t310 : integer; m5 : integer array returns boolean CO : integer; when case 0 < 523 : chillax end otherwise : input q; pop end; output 3 end main : uj, Cq : boolean array; j, c58, PWuaa : integer; C : boolean; chillax end

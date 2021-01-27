@@ -1,0 +1,1 @@
+program dr9a : main : LV : integer array; while - (6 = 2) <= rs(63) - 93 - 7 - 483 : chillax end; do i(- 6 = - not 434 - 93 - 6); pop 5 /= 589; while - 06 - 83 < 31 : chillax end; pop; output 937 . "6"; output "" end

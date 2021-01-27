@@ -1,0 +1,1 @@
+program L : rZ9aa : takes s, h : integer array; O : boolean returns integer array input x4d[a and 393]; pop 249 = 1 end main : do X((488 = 413) rem L600a[3] or not not 42); while false : chillax end; do S6w(Z or 2 - 7); output 30 = 44800 end

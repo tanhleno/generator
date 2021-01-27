@@ -1,0 +1,1 @@
+program t : N : takes O : boolean; WRd0a : integer array returns integer pop 738 > 4540 end K2q0a : takes V : integer returns boolean t0, w : boolean array; chillax end z5 : takes z, a, mh : boolean array returns nothing pop; let i[23] = array 1; output "N-0a"; pop end main : chillax end

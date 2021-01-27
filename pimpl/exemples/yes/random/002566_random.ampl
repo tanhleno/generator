@@ -1,0 +1,1 @@
+program l4 : Kf90a : takes B630a, eC, Gc, e, s : boolean array; f0J : boolean returns nothing chillax end eD : takes f9X, c4, W, o5, X880a, L, b : integer array returns boolean chillax end main : r, P : boolean; chillax end

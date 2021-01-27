@@ -1,0 +1,1 @@
+program l : main : input Y3; let G[- true + true - 83] = array - 90100 - (8) and 6 - 7 - 3; when case not 0 and 2 : input D end otherwise : chillax end; output 5 . 57; input PHm0a; when case 89 : pop end otherwise : chillax end; input r5 end

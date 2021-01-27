@@ -1,0 +1,1 @@
+program UY : Z5I : takes Y2 : integer array returns integer chillax end F6 : takes YR0 : integer returns integer array while 3 : chillax end; when case 49 = 9 : input MM end case 7 : pop end end main : output "" . false - 98 - 47 > - 0 - 670 . - 981 < 98 end

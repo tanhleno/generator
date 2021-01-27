@@ -1,0 +1,1 @@
+program A9 : d390a : takes d8, v17a, U : boolean; F : boolean array; g2 : integer array returns boolean pop 81 >= 642; pop 37 = 51700; while 20 : chillax end; while 122 : chillax end; while 2 : chillax end end main : let d = array - (7 = 11) rem false end

@@ -1,0 +1,1 @@
+program t : K : takes K : integer array returns nothing let h6 = array not 3890 and 75 end main : input r[- false]; when case(7) and(2) - 7 and 0 or 27 - 53 < WV and 8320 : chillax end case false and 5 < 7 : while 4 : chillax end; do l(1100); output "\n\""; pop end otherwise : while 85 : chillax end; output ""; do iy20a(68); pop end end

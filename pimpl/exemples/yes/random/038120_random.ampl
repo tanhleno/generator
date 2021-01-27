@@ -1,0 +1,1 @@
+program GlXa : A : takes A : boolean array; s, Kx, qWmaa : boolean array returns nothing o75 : integer array; input e; input e0; pop 89; pop; do e3f0(7) end v : takes h6 : integer returns integer array chillax end n : takes v : integer; G : boolean returns nothing G : boolean array; chillax end main : chillax end

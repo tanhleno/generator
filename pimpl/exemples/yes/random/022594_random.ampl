@@ -1,0 +1,1 @@
+program K : y : takes u1, N4_ : boolean array returns nothing v : integer array; j : boolean array; v : integer; G : boolean; V : boolean; k : boolean; chillax end main : while - (495 = 30) and false : input l[1]; when case 6 : chillax end otherwise : pop end; output 5 . "4" end; output "" end

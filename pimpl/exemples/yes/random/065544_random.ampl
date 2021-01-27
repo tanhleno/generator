@@ -1,0 +1,1 @@
+program k : iB0 : takes _87 : integer returns nothing while - not 43 : chillax end end Y : takes A, uKz, V : integer returns integer chillax end uQ : takes Z5 : boolean; B : boolean returns integer array ri : boolean array; chillax end main : S : boolean; GB, w7M : integer; b, C, c : integer array; AJ, Sq2, hy7aa : boolean array; _, n, g : boolean; chillax end

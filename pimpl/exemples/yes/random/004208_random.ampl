@@ -1,0 +1,1 @@
+program N2B : Y8 : takes K, a, x, j4 : boolean; D7, l, fF7, QU, r : integer array returns nothing chillax end I : takes v : integer array returns nothing chillax end Zys0a : takes w4c, b0, R, d5G0a, U : boolean returns nothing input _[72] end d : takes F7H : integer returns integer array output 2 . ""; let E = 3; pop end main : chillax end

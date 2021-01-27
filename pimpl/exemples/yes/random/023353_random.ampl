@@ -1,0 +1,1 @@
+program C07 : Y9 : takes ow, I : boolean returns boolean when case false >= - 4 : chillax end case - 8 /= 83 : chillax end case 52000 = 02 : output ";" end case 450 : pop end case 6 : chillax end end y : takes eI : integer returns integer yL5, P, d : integer; O, D21 : boolean; chillax end main : chillax end

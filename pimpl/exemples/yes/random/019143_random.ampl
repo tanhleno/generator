@@ -1,0 +1,1 @@
+program o2 : cR : takes dT, B : boolean array; u, D : boolean; D, j2t : integer array; W : integer returns boolean chillax end main : do q((9440) rem not true rem false, false + true and 58 - 56 - 9, - not 48 + 61 - 0, - 2390 - 57700) end

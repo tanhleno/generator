@@ -1,0 +1,1 @@
+program P7 : Q2 : takes z, MJ4a : boolean array; g, v5 : boolean array returns integer chillax end W : takes W9, x, d5 : boolean returns integer pop; let rv = array 3; output 6 . "q!"; pop; output "\tv"; pop end main : oQ, u, k : boolean array; aPka : boolean array; chillax end

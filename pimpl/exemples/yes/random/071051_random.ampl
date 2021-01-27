@@ -1,0 +1,1 @@
+program x420a : main : r, ME6, a : boolean; E : integer; Q, Z, r : integer array; when case e[18600] / 8 and not 1 and 410 + (6) : chillax end; let Gvfaa = array - 1; let G[not 0 and 10 - 9 - 3960] = 8 - 09; let Ls = 24 = 6; while 1 = 9080 : when case 2 : chillax end end end

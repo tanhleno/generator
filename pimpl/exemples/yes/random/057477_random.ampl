@@ -1,0 +1,1 @@
+program g : x : takes Aa : integer array; XYm0a : integer returns nothing Y, t8, z, kI, V : integer array; chillax end main : do Fo7(- 8 * 5 - M7Gaa(8) + true and 8); output "" . 36 >= 5960 . "\n4" . 06700 . 146; while - l4a - 5 - 22 = - 9990 : chillax end end

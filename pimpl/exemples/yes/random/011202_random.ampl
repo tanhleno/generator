@@ -1,0 +1,1 @@
+program I : MB : takes F, fY, x9b : boolean array returns nothing P, Vy, tjb : integer; chillax end main : u, p0 : integer array; m2R : integer array; w32a, f, f : boolean; when case false - C[85] and not 8 and 25 - (25) + 8 <= not true + false and 9 - 265 : chillax end case false <= - true : while 14100 = 7 : do y(3) end end end

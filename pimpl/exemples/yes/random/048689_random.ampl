@@ -1,0 +1,1 @@
+program _ : Z790a : takes V : boolean returns nothing t : integer; while true <= - 46 - 4 : input d[3] end end o8 : takes V, h : integer; lq : integer array returns nothing chillax end main : chillax end

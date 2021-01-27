@@ -1,0 +1,1 @@
+program jQ5 : T : takes a750a : boolean returns boolean array V, uS9aa : integer; D, o : boolean; chillax end T : takes G, s, v3, T68, C, Z, I : boolean returns nothing m0Q0 : boolean array; b2 : integer array; r98 : boolean; D : boolean; input z end main : chillax end

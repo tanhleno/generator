@@ -1,0 +1,1 @@
+program f7 : Q : takes ySi, Wt, n1, G10, n, dfp0 : boolean array; W : boolean; eRt0a : integer array returns integer Xn : integer; m, G, S38a, AW : boolean array; I9b0 : boolean array; V, EV5 : boolean; when case - false and 3 > 63 - 6 : output 98 end; while - 2700 - 0 <= 89 : let R = 69500 end; pop 6; do I(1) end main : chillax end

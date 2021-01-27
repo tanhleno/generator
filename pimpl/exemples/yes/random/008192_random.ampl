@@ -1,0 +1,1 @@
+program Ws7aa : T0 : takes j, p2, O, OP1 : integer returns nothing chillax end main : MV4 : boolean array; do c(not not not 82400 <= not true); while - true / true - (5) <= - true and 3 - 141 - 7 : while 1 : let Sh = 1 end end; pop; do qo(6 - 28000); when case 53400 : chillax end end

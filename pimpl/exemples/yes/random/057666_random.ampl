@@ -1,0 +1,1 @@
+program V : t1Laa : takes Q2 : integer array returns boolean array do v73(false and 54 = 0 - 2, 91800 - 2); do H(- 9, 63 = 2390, 63); input Dg; output "{W" . "\"" end main : T0, Zca0a : integer array; kn, H, _H, CO0 : integer array; E : boolean; chillax end

@@ -1,0 +1,1 @@
+program p : g : takes s1c : boolean returns boolean Hg : boolean array; L9, e : boolean; N : boolean array; v : boolean; chillax end main : output ""; input f060[E[7] * 9 and 3]; input p[7 and 6] end

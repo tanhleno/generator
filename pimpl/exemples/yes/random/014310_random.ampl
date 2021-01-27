@@ -1,0 +1,1 @@
+program z4 : kEj0a : takes W4, K, k : integer array; oU : boolean array returns nothing l : boolean; when case false and 38 - 3 : chillax end case - 4 - 98 = 77000 : input r7Faa end case 5 = 819 : chillax end case 0 : chillax end end main : chillax end

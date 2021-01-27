@@ -1,0 +1,1 @@
+program r : G0n0 : takes _Hd0a : integer; m : integer; M, R : integer array; c0 : integer returns nothing do J3(false - 5 /= 334 - 6); input J end main : K, H2 : boolean; G8v0a : integer; q2b0 : integer; chillax end

@@ -1,0 +1,1 @@
+program W0 : q : takes G7 : integer; D : boolean array returns boolean W, LQ, nv10 : boolean array; C : integer; chillax end cq : takes X, lr, Jh, Q : boolean array; O : integer returns integer while 4 <= 27 : chillax end; while 9900 = 05 : chillax end; do u7p(7); when case 56 : chillax end end main : U : integer array; D, _g, O0, tY : boolean; ik : boolean; chillax end

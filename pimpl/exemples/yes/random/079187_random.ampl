@@ -1,0 +1,1 @@
+program z : main : T : boolean; fZ8 : boolean; C, I8, P : integer; V1 : integer array; R : integer array; Fq7 : boolean; input Ey[true]; let x5 = 433 and 1 /= - 67; let IP5 = array not 35 - 7 - 363 end

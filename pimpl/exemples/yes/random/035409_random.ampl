@@ -1,0 +1,1 @@
+program p : ux : takes U : boolean; v4G : boolean; H, Ff : boolean array returns integer do D(- 16 and 884) end main : w7, lq, e, v4 : integer; let D = (000) * true and 8 or(54) and 78 >= - (305) and 2 + 3 - 50 end

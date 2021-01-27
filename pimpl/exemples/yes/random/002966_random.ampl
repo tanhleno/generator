@@ -1,0 +1,1 @@
+program W : e : takes J, R, q5r, ukC, Z : boolean returns integer k4, l : integer; do TGf(M4Baa and 41 + 1800) end main : when case true : output 7 . "" . 0 end case - 6220 <= - not 1 : chillax end case gf : while 56200 : pop end end case 0 <= 2 : when case 5 : chillax end end end

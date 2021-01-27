@@ -1,0 +1,1 @@
+program b : o4 : takes r : boolean; h : integer returns boolean array chillax end main : while - true or true >= 3 / bT - true and 3 : chillax end; while - true and(44600) and 37 - false : chillax end; when case - not 6 and 824 - 8 /= 16 : chillax end end

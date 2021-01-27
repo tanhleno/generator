@@ -1,0 +1,1 @@
+program u : J0_a : takes i : boolean array returns nothing chillax end bJ : takes W1, l4h : boolean array; i5Ha : boolean array returns nothing c : integer; let Z73[- 3 - 1] = 27; pop 1 end main : RQD : boolean array; output Q96[6] / (1) or false and 57 or 58 - 1 . "\\{\"a" end

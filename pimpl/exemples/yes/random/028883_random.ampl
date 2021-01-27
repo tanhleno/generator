@@ -1,0 +1,1 @@
+program O : T : takes Xgw, l : integer array; s4 : integer array; ge : boolean array returns nothing B : integer array; let WaY = - 254 = 33; pop 707 = 468; while 0 = 39 : pop end; when case 9 : pop end case 41 : chillax end end main : chillax end

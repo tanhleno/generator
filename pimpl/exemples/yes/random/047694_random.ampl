@@ -1,0 +1,1 @@
+program oFha : y9 : takes J5_ : boolean returns nothing chillax end main : r : boolean array; nyh0a, U, XE : boolean; do S62(- JX[7340] / not 9 - false / 8790 + (1) and 08, - (07) >= - (081)); while(2140) - (7) and 4 + 16 - 2 : when case 1 = 597 : chillax end; let z = array 04; while 1830 : chillax end; while 46 : chillax end end end

@@ -1,0 +1,1 @@
+program H : X : takes G, C8, m, l : boolean returns nothing b : boolean; e0j0a, jz7 : integer; J0A0 : boolean; let _1t = array - not 31 and 3 - 23900 - 90700; input Q[- 3 - 7] end main : Sf3 : integer; yb, V, s, sz30a : boolean array; do UY(- 5 rem not G = - false, false and not 8110 and 6 <= - (06) and 6 or 2) end

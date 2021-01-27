@@ -1,0 +1,1 @@
+program P : q54 : takes D : boolean returns boolean when case - (31) = 97900 - 3 : while 9 : pop end; while 19300 : chillax end; do b(4540) end end i : takes h : boolean array; k : boolean array returns integer array Z, G6, X, j : boolean; chillax end main : chillax end

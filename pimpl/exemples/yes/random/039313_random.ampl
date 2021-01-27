@@ -1,0 +1,1 @@
+program o : x : takes K5 : boolean array; w940, u : integer array returns nothing XK, H : boolean array; do k(not 59300 and 69 + 4 >= 3220); do p(966 - 8 = 104) end main : b, q9, Gq : boolean; chillax end

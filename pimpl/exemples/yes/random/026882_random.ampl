@@ -1,0 +1,1 @@
+program L57 : t9Raa : takes T, f38a : integer; R : integer returns boolean array A, yQN0 : integer; E : integer array; W, B : boolean array; pop end main : C, q, Ah : integer; output "" . ""; output "" end

@@ -1,0 +1,1 @@
+program Yo : main : q, n95 : boolean; L, d : boolean; W, r : boolean array; L65, y5C, I, Y : boolean array; when case - false < F(24) / 04 : chillax end otherwise : when case 51 = 9 : chillax end; output 36 . ""; while 22 : chillax end end end

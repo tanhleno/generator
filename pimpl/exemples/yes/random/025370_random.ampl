@@ -1,0 +1,1 @@
+program d8 : dw : takes Y8, Z : integer; x, z, U : integer array returns integer array chillax end P7N0a : takes d : integer returns integer array let Bd = array - 68 - 4 end main : LY : integer; pop; while(9) * true : chillax end end

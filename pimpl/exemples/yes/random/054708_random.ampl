@@ -1,0 +1,1 @@
+program p850 : g : takes _Mh0a : integer array; z, V : boolean array returns nothing chillax end main : xV, UA : boolean array; h : boolean array; E4 : boolean array; W, PPUa : integer; let _ = array true and false and SE and 3 end

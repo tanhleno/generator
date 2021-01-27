@@ -1,0 +1,1 @@
+program ZH : main : Q, U : integer array; while - false : while 6 - 26 : output "44!" end end; pop; let D = - 0 - 2 > 98; let R0[54 - 7] = 8; when case 9 : while 1 : chillax end; pop end case 9 : chillax end case 91 : chillax end; when case 18 : chillax end otherwise : chillax end end

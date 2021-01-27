@@ -1,0 +1,1 @@
+program L62a : k : takes l : integer array returns nothing h : boolean; chillax end S6 : takes cu3a : boolean array returns boolean array chillax end ZP : takes V, k : integer array returns boolean pop 4 end main : pop end

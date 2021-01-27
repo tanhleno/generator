@@ -1,0 +1,1 @@
+program G5Pa : o : takes X, g : boolean; b, z0, M1 : integer array returns boolean array let Xr2a = array(1) and 91; pop 74 = 2 end main : input c0[- 4 / 22]; when case - 207 : while 17 = 8100 : when case 2 : chillax end; pop end end case(1) and 75 + 08 - 65 = 1 : chillax end case 635 - 1670 >= 81 : chillax end otherwise : let I = array 08; output "2" end end

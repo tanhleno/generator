@@ -1,0 +1,1 @@
+program v : main : when case - true < - not false / true and 5 : output 24300 . 9 . 58 . "" end case(80) : chillax end case - 41 and 555 + 6 : chillax end otherwise : do s(3 = 9900); output "#" . "" end end

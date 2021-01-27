@@ -1,0 +1,1 @@
+program EyU : main : while true and not false : chillax end; output - false and 800 < - 1 - 21; when case - true and 3160 + 00 : pop; let Qa2 = 9 end case 0 - 74300 < 45 : chillax end; do y(8, 32); do Nz(434 = 71, 0, 9) end

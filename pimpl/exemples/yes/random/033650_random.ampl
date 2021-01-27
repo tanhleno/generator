@@ -1,0 +1,1 @@
+program D : D : takes t8l : boolean; L85aa, sZ, V0, p : integer array; m : integer array; i : boolean; W2 : boolean array; n, j : boolean array; c : boolean; H : boolean returns nothing let wb = array - false; while - 7 = 8 : when case 732 : chillax end; output "!"; pop end end main : t, t, m : integer array; t, c : boolean array; input Qq end

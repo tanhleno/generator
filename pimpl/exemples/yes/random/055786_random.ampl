@@ -1,0 +1,1 @@
+program w : A : takes C1 : integer array; I : boolean array; b, VX : boolean array; i4, YR : boolean; N, a : integer; p, x : integer array returns boolean let da = array - GF and 7 + 50 - 039; input m end main : when case - 7 /= not Kd7 + not 875 : chillax end otherwise : while 07 = 597 : while 14 : chillax end; pop end end; input S00[- YG] end

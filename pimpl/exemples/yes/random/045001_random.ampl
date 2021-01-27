@@ -1,0 +1,1 @@
+program pS : D4j : takes S6 : boolean array returns nothing let S = - 74 - 2 = 57 end I5aa : takes P : boolean array; V : integer; s : integer returns integer array d : boolean array; while - 1 - 8 = 0 : chillax end; while 7 = 284 : pop; pop end end main : r3 : boolean array; input zR; do Wu6aa(not 782) end

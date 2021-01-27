@@ -1,0 +1,1 @@
+program V : E : takes S, fW : boolean array returns integer array chillax end U : takes atw, u : integer returns boolean pop 70; output 0 . "" . ""; input k; let r57aa = 093 end eE00 : takes US10a : integer array returns nothing chillax end main : t : boolean; MT : integer array; chillax end

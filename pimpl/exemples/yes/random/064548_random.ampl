@@ -1,0 +1,1 @@
+program s : J3 : takes O7 : integer returns nothing B, a : integer; Y3 : boolean array; chillax end main : IG : boolean array; when case - true : chillax end case(690) or true or 0910 - 52 > false + 69 - 6 : do q(8) end otherwise : chillax end; input p[- not not 4 / false and 6]; pop 59 - 3 >= 3 end

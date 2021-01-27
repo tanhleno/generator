@@ -1,0 +1,1 @@
+program y : iB : takes JJ00a, T : boolean array returns integer chillax end main : when case - true and true + (5) or true <= - false rem 3 or false and 7 : when case - 65 - 6 /= 8 : while 060 : chillax end; input T0; pop end; while 720 = 98 : chillax end; pop 50 end otherwise : output 1; while 748 : chillax end; pop end end

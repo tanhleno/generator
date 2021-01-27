@@ -1,0 +1,1 @@
+program f : main : R200, v : boolean array; l7I : boolean; W : boolean array; B, SX : integer; M1 : boolean array; DO : boolean; r : boolean; i : boolean; let c = array not 2 * 383; input g[- true - e and 0 + 3 - 8] end

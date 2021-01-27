@@ -1,0 +1,1 @@
+program o2 : Z : takes W0, it : integer returns nothing do eH(- false + 33, - 22) end U7 : takes U2, u : boolean array; _ : integer array returns nothing chillax end G : takes xd, A8N0a : boolean returns nothing h : boolean; bw : boolean; nMr : boolean; while 45 = 5 : let Y77 = 051 end end main : chillax end

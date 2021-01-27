@@ -1,0 +1,1 @@
+program k : main : q010a, m : boolean array; when case - (09) rem true or not(75) rem A >= - true : while 3 - 9 : pop; let HEr0a = 46; pop end end otherwise : let b2wa[92900] = array 648 end; while - (01) - Gy : chillax end; do k1(bF and 8); let g = 3 end

@@ -1,0 +1,1 @@
+program B7 : main : Q : integer array; while - (183) rem(18) : while 4 >= 4 : output ""; do U(2); pop end; input E end; while - (52) rem not 5 or Y0 + 12000 - 84 : input E2 end; output - 124 <= 35; input X4D[39] end

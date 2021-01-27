@@ -1,0 +1,1 @@
+program o : W : takes H, Y, dk, _X : boolean array returns integer WNf0a : boolean array; P5, l5p, N : integer; I : integer array; b7L, O : boolean; j : boolean; C : boolean; let PO8 = - 1 - 8 = 40; pop end main : G : integer; t78a, b4, X : integer; A, O : integer; h, d4 : boolean; chillax end

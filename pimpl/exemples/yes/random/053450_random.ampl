@@ -1,0 +1,1 @@
+program VC : c : takes F : integer array; wW, t3L0, C440, X7M0, q, EW1 : boolean array returns nothing chillax end F : takes Zb, G, B, nzu, A360a : boolean array returns boolean when case 4 - 1 : chillax end end main : chillax end

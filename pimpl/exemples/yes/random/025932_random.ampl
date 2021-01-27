@@ -1,0 +1,1 @@
+program R53 : T : takes g, M5 : integer; tZ70, WC : integer returns integer array e, T : boolean array; k7, k83aa : boolean array; j, D270a : integer; p3 : boolean; chillax end main : y1, _ : integer array; _L : boolean; input Vl9; when case 9610 / 0 and 3 /= - ptS and 0 - 3 : pop 318; output "" . "{"; while 1 : chillax end; let D5Ya = 7 end otherwise : chillax end end

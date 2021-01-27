@@ -1,0 +1,1 @@
+program s : j : takes f8, f : integer array returns nothing while - 0 or 5 - 56 : chillax end end M4 : takes SA7, x : integer; P, m1x : integer array returns nothing do qN(- 5 - 33, 652 = 095); let j5 = array 00; pop; let TH2 = 5; do S(8) end main : while true / (0) : do G(5 >= 34) end; output "O\t" . "" end

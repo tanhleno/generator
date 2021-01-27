@@ -1,0 +1,1 @@
+program hJAaa : iX : takes s, y : integer; u : boolean array returns nothing chillax end _ : takes I, w8 : integer; Z : integer returns boolean H : integer; do E(- 4); let y[0] = 76; when case 4 : pop end; let o45 = 7 end main : input G1[- false and x6]; input U; input p750a[not 8 and 181] end

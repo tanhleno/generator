@@ -1,0 +1,1 @@
+program p9 : Bd : takes x : integer array returns nothing u0 : boolean array; r6Z, s380, Nz : integer array; r, k : boolean; Lb4 : boolean; while - not 5 and 46000 + 2 - 57 <= 802 - 9 : pop end; while - 65 < 49 : let nn = 85; do _(31) end; pop 96700 end main : chillax end

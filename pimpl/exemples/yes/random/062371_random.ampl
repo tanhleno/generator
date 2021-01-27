@@ -1,0 +1,1 @@
+program HQ : X4 : takes P6 : integer returns boolean hR, z0, G4 : integer array; T : integer array; chillax end main : y4, Y : boolean; nlt : integer array; G : integer array; while false + false * c < 3 - 03 and 451 or 1 - 74 : input P1I0[12] end; while - true + (8) and 4 or 869 : chillax end end

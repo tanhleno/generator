@@ -1,0 +1,1 @@
+program D8d : i : takes y0P : boolean array returns boolean while(764) and 3 < - 830 - 72 : chillax end end main : K : boolean; pop false rem true and 60 + (9) and 2 - 14500 /= true; do J5w0a(not true - not 51 > - true and 2530 - 54 - 2); let z = - 6 - 9 < 11; pop end

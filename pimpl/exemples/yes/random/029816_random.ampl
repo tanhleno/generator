@@ -1,0 +1,1 @@
+program S7E : j : takes D6Za, Y4 : integer array returns integer array q : boolean array; chillax end main : while - true * (39) and false and 4 or p[5500] /= c or not 7790 + 3380 - 3850 : do G9a(528 > 00); input mX5; output "50\"" end end

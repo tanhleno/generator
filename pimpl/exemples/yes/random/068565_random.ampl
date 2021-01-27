@@ -1,0 +1,1 @@
+program SN8 : main : ysc, u, Y, iN, Z010a, X : integer array; I_, z, x, q, L7 : integer array; e, v : boolean array; L, a0Iaa, I9, k : boolean; c8 : boolean array; EBA, sh : boolean; t2 : boolean; chillax end

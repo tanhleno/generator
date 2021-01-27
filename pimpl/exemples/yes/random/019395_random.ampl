@@ -1,0 +1,1 @@
+program u3 : t : takes A4, V5y0 : boolean array; dU, A : integer; H, V : integer; B, A5z : boolean; y : integer returns boolean V : boolean; x2j : boolean array; chillax end main : Z, vx10, X : integer; chillax end

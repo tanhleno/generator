@@ -1,0 +1,1 @@
+program Ny : U3Qaa : takes cq : boolean array returns integer pop - 332; input p; let G22[4] = 2 end Ykca : takes IO60a, g7, l : integer; p5, n8 : boolean returns nothing let AB00a[914 - 6] = array 6 - 9; input q[0] end main : W : integer; chillax end

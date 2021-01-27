@@ -1,0 +1,1 @@
+program D : S : takes z : boolean; J8P0a, N : boolean returns integer KV : integer; output "\t5\"a" . "8\"" . 1 . "mM!"; while 1 - 15 : chillax end end main : do w(false and false = _X(7), - 4 + 3 or 58700) end

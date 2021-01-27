@@ -1,0 +1,1 @@
+program e8H : a : takes C, z4y, C, m6, GU5 : integer returns nothing K, A98 : boolean array; do pq9a(true <= 7 - 405); do RM(- 86 > 97); input e end M : takes m, GuOa : boolean returns boolean chillax end main : pV2a, K : integer; T, K : boolean; oW, uR4a, B, w, xM : integer array; chillax end

@@ -1,0 +1,1 @@
+program _8V : N : takes f, Y6i, f : integer array; N7, C0, H_, NDO0a : integer array returns nothing L : integer array; chillax end s : takes Qataa : integer returns nothing bZ, e, wgeaa : integer array; n : integer array; J : boolean; do L(- 4) end N : takes LN2 : integer returns boolean chillax end main : o : integer array; chillax end

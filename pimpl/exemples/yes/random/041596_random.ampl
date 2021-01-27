@@ -1,0 +1,1 @@
+program T : P : takes uh70a : boolean array returns boolean array GV8, p8, bf10a : boolean array; chillax end main : t : integer; J, g : boolean; T, Z : integer array; UO : integer array; KW : integer array; chillax end

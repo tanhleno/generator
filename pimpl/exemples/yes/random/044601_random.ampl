@@ -1,0 +1,1 @@
+program i7X : n9 : takes P : boolean array returns nothing W2 : boolean array; L, U7K : integer array; N6, PqH0, f : integer array; iv9 : boolean; N2b0a : boolean; C6 : boolean; chillax end main : n : integer array; b, g380a, W, GH : integer array; e : integer; while(791) * 1 and 28300 or true and not 0 and 6 + (4) < s * not 775 - true and 0 + 2 : chillax end end

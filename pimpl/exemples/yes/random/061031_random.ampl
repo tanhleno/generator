@@ -1,0 +1,1 @@
+program R : n : takes C : integer array returns nothing N : integer; h40 : integer; Lv : boolean array; chillax end main : S8 : boolean array; b450a, z2, lpQ, p_J : boolean array; U, u : integer array; when case - zU[41] + (21) or 037 : let v = array 3 - 6; when case 8 : pop; pop end case 41 : chillax end case 2 : chillax end end case(0) - true - 3 : let k[83] = array 0 end end

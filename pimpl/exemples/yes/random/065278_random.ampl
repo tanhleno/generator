@@ -1,0 +1,1 @@
+program Q1 : y_9a : takes O : integer returns nothing let xL70[- p] = array Z and 76 end main : pop TC(45) + true and 13 <= 6; do Y(34 - not 309 or 9); do _u8(m and 9 + 6, - 8 /= 4); input V9[3 - 3]; pop 24900; while 0 : pop end end

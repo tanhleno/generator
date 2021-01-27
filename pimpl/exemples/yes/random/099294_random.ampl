@@ -1,0 +1,1 @@
+program V : main : while p * false rem 68 and 081 > 7 : when case - 48 >= 68 : chillax end; let w = array 6; output 2270 end; when case - true > - not 4 or 82900 - 6 : output "@" end case - false and 4 + 2 - 0 : chillax end; output 3 < 2 . "2"; input YO; while 2 = 0 : pop; pop end; output "" . ""; do AP(73) end

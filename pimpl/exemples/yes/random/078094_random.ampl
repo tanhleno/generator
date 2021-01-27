@@ -1,0 +1,1 @@
+program NI : main : L, _u : integer array; when case - 2 * (0) / 1 and 9 + y[82] >= zgj0(62) : chillax end case - not false > 521 : chillax end otherwise : chillax end; let ah[- not y6n + not 6] = array T(7) and false and 9 + true; pop; while 96 - 1 : output ">(!a" end; output "" . 4 . "n"; pop; pop end

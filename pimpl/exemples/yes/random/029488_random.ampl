@@ -1,0 +1,1 @@
+program Z : l0b : takes d, v7 : integer array returns boolean do V((8) and 800 > 7370 - 16) end main : Y, g05, u, l, X8 : integer array; let _ = array false and true - R9X0 or 5 and 3; let d130[- true rem 25200 and 6 or(4)] = - false >= 3 - 8 end

@@ -1,0 +1,1 @@
+program vx : main : when case false - (34) : output ""; when case 54 = 77 : pop; pop end otherwise : pop end end case - not C8 rem l + false and 06 : let vI[7] = 863 end otherwise : pop 5; when case 0290 : chillax end case 75600 : chillax end; input n end; output - not 9 or 3 . "Z" . 508 = 0 . "\\" . 81 . "\\" end

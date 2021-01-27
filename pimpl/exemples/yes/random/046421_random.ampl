@@ -1,0 +1,1 @@
+program y1aa : B : takes K0 : boolean returns integer array chillax end Aaeaa : takes _Tv, R68 : integer array returns boolean array while 55 - 00 = 75100 : chillax end; output 88 . "A" . "\n" end main : v : boolean array; v : boolean array; Y, L : boolean array; chillax end

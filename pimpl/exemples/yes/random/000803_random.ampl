@@ -1,0 +1,1 @@
+program b : L : takes uG, tox, I, k, wf4, N2Ta, j0 : boolean returns nothing input G3t end E : takes S, Hq, ri : boolean array returns nothing k : integer array; chillax end main : jE60a : boolean; E, s, Z, H : boolean; chillax end

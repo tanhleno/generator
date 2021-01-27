@@ -1,0 +1,1 @@
+program r33a : Qf70a : takes x, B04 : boolean returns boolean p_ : boolean array; B32, t, cB20a : integer array; chillax end main : zG6 : boolean array; BR, j, o360, y : boolean array; when case - not true * not(633) rem(6430) and 9 + not not 6 rem 7 and 9 - K : input QY0a[- 5] end otherwise : while 8 : do ltK(284); pop end end end

@@ -1,0 +1,1 @@
+program f76a : v : takes Q, x19 : integer array; D65, sLlaa : boolean array; D : boolean returns integer array chillax end main : Y : integer array; while - (2) rem 87 / not 88 and 67 : pop 5; output "\\\\" end; let NN = array - (05) - true + 19 - 1 end

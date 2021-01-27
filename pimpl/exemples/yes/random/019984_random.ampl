@@ -1,0 +1,1 @@
+program ztQ0a : VQm : takes Q, js5aa : boolean array; a : boolean array returns integer array chillax end G : takes t, ke, x770, sR5, aK : integer; w : integer; M, C : boolean array returns boolean array Y : integer; F : boolean; Kd : boolean; output "0" end U : takes T : integer returns integer c, Ln, C : boolean; chillax end main : chillax end

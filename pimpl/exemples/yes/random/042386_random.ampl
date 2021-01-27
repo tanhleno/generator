@@ -1,0 +1,1 @@
+program B : BZ : takes fr : boolean array returns integer array chillax end J : takes Q8, W7, s, q3, xlL, q : boolean returns nothing when case - 9 - 05 /= 98 : chillax end otherwise : let D = 65 end end main : chillax end

@@ -1,0 +1,1 @@
+program K : mPw0 : takes OS6aa : integer returns nothing mI, g, j, W : boolean; E, i, dh : integer array; ln, JQY0 : boolean array; chillax end main : let r8[8] = array false and(26) * (39) and 527; do q(not W / 43 - not 8 and 7 or 301 - 5, - not 3 and 84 < 0 - 5, 8, 9 = 67, 0, 45); do R4q(- A and 4) end

@@ -1,0 +1,1 @@
+program v : s8 : takes e010a, xEOa : boolean returns nothing chillax end UB : takes L7 : boolean array returns nothing B, C1j, j : integer array; chillax end B : takes E2, _, u9 : integer returns nothing chillax end main : chillax end

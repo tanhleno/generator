@@ -1,0 +1,1 @@
+program H7Xaa : Q : takes N, f8, o4 : boolean; W0 : boolean array; i : integer array returns boolean do fb(true and 3 >= - 46700 - 2) end C : takes a, MEp : boolean array returns nothing r, Oh : boolean array; let Bc4[93 - 4] = 04 = 4; pop 75 end main : while iw rem true rem 6 or false - G + 237 - 9 : chillax end end

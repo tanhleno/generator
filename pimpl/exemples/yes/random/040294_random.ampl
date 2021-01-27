@@ -1,0 +1,1 @@
+program _ : R180a : takes I0 : boolean array; w : boolean returns integer array chillax end G : takes Vv, q : boolean array returns integer array chillax end main : B5, W, Z, EO, P : integer array; R : integer; chillax end

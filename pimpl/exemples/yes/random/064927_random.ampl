@@ -1,0 +1,1 @@
+program O3 : A : takes M07 : integer returns nothing g : integer; mX9, g, UHx, K : boolean array; pop - 7 - 7 end main : output "C?0" . - true and 8 or 0; pop - not 891 and 4 or 62 <= - 8 - 90100; when case - D /= 9 : chillax end case - 90 <= 8350 : pop end case 1 = 78 : chillax end; pop 2 end

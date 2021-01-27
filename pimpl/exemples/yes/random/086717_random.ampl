@@ -1,0 +1,1 @@
+program d : main : WD70 : integer array; i : integer; F9 : integer array; t : integer array; ZnF0a : boolean array; n4, o0 : boolean; let t0[- not 3 * (754) / (3) or Nu[8] and true and 7] = - true; do M3(false < false and 88) end

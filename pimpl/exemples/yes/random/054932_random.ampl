@@ -1,0 +1,1 @@
+program D : Rp : takes bS : integer array; Z8, d : integer; dM40, j : boolean array; SyNaa, _via, sH, cmLa : integer; h_b : integer array returns nothing while - false and 72 or 6 - 5640 : when case 67 : pop end; let In10a = 3 end; input tq[3 - 08600] end main : chillax end

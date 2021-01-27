@@ -1,0 +1,1 @@
+program ZqC0a : BrLaa : takes A8d : integer returns nothing chillax end vU : takes x : boolean array; b4, b, Z, mG, qsu, X : boolean; x1, e, mz, k : boolean returns nothing let _[- 334 - 5510] = array - 7 - 3 end E0 : takes KL : boolean array returns boolean array chillax end main : chillax end

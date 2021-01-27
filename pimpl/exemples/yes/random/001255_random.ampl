@@ -1,0 +1,1 @@
+program s : _ : takes _5w, d, _, M, a, GOr : boolean array; _, CN : boolean array; Ud, P, y, _Lf0 : boolean array returns nothing chillax end main : pop - not false; input g[- not not 45 rem true or N2 + 0350] end

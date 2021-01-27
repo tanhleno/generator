@@ -1,0 +1,1 @@
+program Q : main : I : boolean array; when case Y(506, 006) - not(1) > - true / 8 + true and 92 - 733 - 0 : output 3 = 99 . 591 . "" . ""; do z(2, 09700); let D1R0 = 81 end case - true and not 86400 > - cP3a and 7 : output "3" end otherwise : chillax end; output "X" . - 6480 > 9 end

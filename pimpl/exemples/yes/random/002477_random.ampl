@@ -1,0 +1,1 @@
+program n_ : h8F0 : takes TR, H, T7, w, KO6 : boolean array; b0, C : integer array returns boolean chillax end main : when case - not true * (3) * 2 and 39 : while - 9 > 58 : let u = 8; do T(756); pop end end case not not 67600 / false and 265 <= false and 86 or 09100 : chillax end case false : do F(54, 5) end case - 681 - 1620 < 2 : chillax end case 410 = 5 : chillax end end

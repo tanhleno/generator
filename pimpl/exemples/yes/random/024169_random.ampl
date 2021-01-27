@@ -1,0 +1,1 @@
+program L : J7 : takes O, j : boolean returns nothing R, t, i, v, CrIa : integer array; when case not 57 and 9 or 6 - 11 > - 3 : chillax end case - 0 - 8 > 8 : chillax end end I1 : takes u780a : integer returns integer array i, x32 : integer array; when case 6 - 164 : chillax end; let R31aa = 01 end main : chillax end

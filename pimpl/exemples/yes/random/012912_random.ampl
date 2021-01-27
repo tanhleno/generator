@@ -1,0 +1,1 @@
+program g : s : takes j, Y1, AC : integer; R7, i : boolean returns nothing chillax end v2 : takes X49, E, Z : boolean returns boolean array chillax end Hx : takes _, n : integer returns boolean when case 1 = 568 : input e; pop end case 0 : pop end otherwise : pop end end main : v35, g5, QS : integer; O48, f, i, p620, dW, b310a : integer array; chillax end

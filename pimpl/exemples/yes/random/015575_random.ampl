@@ -1,0 +1,1 @@
+program J : A : takes n, r, s : integer array returns nothing output "Z"; while - 59 - 1 /= 0 : chillax end; when case 5 = 718 : chillax end otherwise : pop end; input bu6[69]; do fUY0a(3); input y100 end main : eZ, r : boolean; chillax end

@@ -1,0 +1,1 @@
+program B : t : takes y4 : boolean returns integer array R : boolean; r, w4b0 : integer array; chillax end I : takes jQGa, E : integer array; aD : boolean returns nothing do U(9); while 0 : chillax end end main : when case not(18) : chillax end otherwise : let D0 = array 31600; pop 2 end end

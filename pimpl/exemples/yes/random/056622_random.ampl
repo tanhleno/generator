@@ -1,0 +1,1 @@
+program H4 : k : takes c8 : integer array; p : integer; s, X : integer array; w : boolean array; F7F, _00 : boolean array; P : boolean returns boolean chillax end main : output - true > - false and 4 + 9 - 40 . ""; output "" . ">\t" . "7}" end

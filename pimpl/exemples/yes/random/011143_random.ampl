@@ -1,0 +1,1 @@
+program p85a : d : takes P67, R, qLu : boolean array returns nothing sb, CJ, O, s2, Z0 : boolean; input hq6; while - 79 - 15 < 62 : let m = 22 end end j : takes m : boolean; s1, X, v, Hc : boolean array; i, s0 : boolean returns integer array y, V, G, q0 : integer; mZ : integer array; output 1 = 419 . "" end main : T : integer; chillax end

@@ -1,0 +1,1 @@
+program c2 : p : takes L, dvD0a, VZ, f35 : integer returns integer chillax end _ : takes l, m, O, M, w230a, F, U : boolean array; Xy : integer returns integer Wd8aa, q1Iaa, O1 : boolean; S, o : integer; e, d : boolean; z28 : boolean; chillax end main : let rV10 = array - 4; while true = true : pop end; do sP00a(- l <= 39 - 8660); let G = array 503 - 0 end

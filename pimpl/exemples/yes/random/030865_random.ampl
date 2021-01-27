@@ -1,0 +1,1 @@
+program V99 : rk : takes sm6, t : integer array returns nothing fH : integer; XTf : boolean array; J00, R : integer array; c4p0a : boolean; chillax end main : do _(- false + 0, 07); input Rx[- (1)] end

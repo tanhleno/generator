@@ -1,0 +1,1 @@
+program aoLaa : S : takes j1 : boolean; e : integer array; P : boolean array; C : integer array returns nothing c, D, n5 : integer; chillax end main : let fm9[j rem g(87800) - W(8070) rem not 69] = array 6 / (7) or 44 + 304 and 77000 + 9 end

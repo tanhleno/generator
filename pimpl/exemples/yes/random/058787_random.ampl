@@ -1,0 +1,1 @@
+program U : g : takes O : integer array returns integer array W4V, x2W : boolean; Fyt0a : boolean array; J : boolean array; do G6(02 and 87100 or 9 = - 7) end main : HI : boolean array; when case not not not 19 + true * 1 <= - 4 * false and 83 : chillax end case true > - true : chillax end end

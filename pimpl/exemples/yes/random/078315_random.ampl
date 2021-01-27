@@ -1,0 +1,1 @@
+program Kix0 : main : h1 : boolean; do D(zk(4300), false + false and 64 = - true and 713, 7 and 72 < - 84, 8); when case(63) and true - false : pop; input wU6; while 9 : chillax end end case(0) and 2 or 8 - 7 : chillax end; do q(false or 92100 < 869 - 809, - 9 <= 71, 84400 = 5, 4730, 4); pop 425; output 9 . "" . ""; pop; input D26; pop end

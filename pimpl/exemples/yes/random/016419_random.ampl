@@ -1,0 +1,1 @@
+program B : U9sa : takes W, Q1, z : integer returns nothing oPOa : boolean; pop 2; when case 6 - 666 = 1 : chillax end case 2 = 17 : chillax end case 4 : chillax end end main : Y02a : boolean; output - 84900 /= - (821) and 2 + 6 . "5" end

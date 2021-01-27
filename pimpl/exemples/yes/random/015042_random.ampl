@@ -1,0 +1,1 @@
+program up4 : y0 : takes oD70, J, UY : integer array returns integer D, V, l, a : integer; P : boolean array; n14 : integer; t, M : boolean; d : boolean; chillax end main : M : integer; Qu, n, E, k : integer array; e : boolean; chillax end

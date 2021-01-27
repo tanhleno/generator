@@ -1,0 +1,1 @@
+program B3U0 : SgD : takes T, _ : boolean returns nothing when case - K and 9 <= - 9 - 8 : input x[4]; input s end otherwise : chillax end end main : Ff, C8 : integer; q, l, Nc, c7, LF : integer; J9d0, N : boolean; while - not 534 + (78) and not 4 and 67 <= W(3820) * true + 48 and 4 : when case - 4 - 88 : chillax end end end

@@ -1,0 +1,1 @@
+program O : main : D1, g88a, C : integer array; while - 085 rem T : chillax end; when case not 0 / true and 5890 + (8) and 122 + 4 : chillax end case 0 : input g[26]; while 2 : chillax end; let o = 1; pop end end

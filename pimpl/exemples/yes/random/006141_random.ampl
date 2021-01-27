@@ -1,0 +1,1 @@
+program M : Y : takes cj, _, O, KNL : boolean returns nothing V, h, J2Q, L, f : boolean; when case false or 2 - 89 : chillax end case - 34600 : let X2 = 0 end case 15 : output "p"; pop end case 2 : pop end otherwise : chillax end end main : output true rem 3 - false and 6 = false . "4" . "" end

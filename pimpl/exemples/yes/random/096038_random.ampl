@@ -1,0 +1,1 @@
+program R4 : main : when case - I[7] * true = - (1000) - true and 27000 : let k7[- 203 - 67] = 71 = 0; while 3 : chillax end; while 9 : pop end; when case 4 : chillax end; while 3 : chillax end; pop end case true : chillax end end

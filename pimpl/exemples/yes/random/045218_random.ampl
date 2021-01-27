@@ -1,0 +1,1 @@
+program e31a : n : takes RE9a : boolean array returns nothing when case - (0) - 77 - 483 : input Vq; pop; when case 4 : chillax end end end main : input P[- (2 = 87) - Idja(70) / 9 or(4)]; when case - not 9 and not 7 : chillax end otherwise : let W87aa = 4; input B; input C; pop end end

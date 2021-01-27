@@ -1,0 +1,1 @@
+program y : x : takes Ow, a_, B9, S0, H, br : integer array; w : boolean; SF : boolean array; Q1 : integer array; a3 : boolean array; f3, HW : boolean returns integer let y = - 17 - 0 end m6J : takes w, i, Q, iq : boolean array returns nothing output 38900 = 884 end main : pQ, v : boolean; BT : boolean; y : integer; chillax end

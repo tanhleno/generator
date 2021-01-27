@@ -1,0 +1,1 @@
+program pX : main : d6, I7P, C3 : boolean; f25, n3t, H : integer; let n[- not not 55 - ix and false and 98] = array H2z and 14 / N - I(3) and true and 1 or 2 or 225; input _[r[9] or false and 5 - 843]; do A(- u, - 71 - 7, 8, 1) end

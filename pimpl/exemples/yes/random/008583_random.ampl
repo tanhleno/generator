@@ -1,0 +1,1 @@
+program Z6 : Du : takes u50a, I, x0O0a : boolean; T, E, E11 : boolean array; V : boolean array returns nothing chillax end C7 : takes G72 : boolean array; R, M98a : boolean array returns boolean array do j(- 74 - 9 < 7, 661); let Hd = 2140; do k(1, 8) end p2 : takes F, V : integer array returns integer array chillax end main : p : boolean; chillax end

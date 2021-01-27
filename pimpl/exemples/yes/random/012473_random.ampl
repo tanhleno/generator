@@ -1,0 +1,1 @@
+program W : Fj : takes Jv4, M5s, Jri : boolean returns nothing pop end f : takes Gdqa, G : integer array returns nothing chillax end r8 : takes qFZ0a : boolean returns nothing chillax end V : takes RF, t, _, FX8 : integer array returns boolean array dx, e0 : boolean; input a; output "2" end main : output "" . - (29) + 6 - 86 end

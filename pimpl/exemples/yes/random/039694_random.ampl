@@ -1,0 +1,1 @@
+program d4Q0 : g5Daa : takes f21a : boolean array; Io : boolean; dq : integer array; Zh, f5, Uuj : boolean; A5V, i : integer array; A : integer array; K : boolean; r : boolean returns nothing l, C89 : boolean; chillax end main : chillax end

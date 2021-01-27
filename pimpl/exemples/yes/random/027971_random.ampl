@@ -1,0 +1,1 @@
+program k9 : dh10a : takes X5, T : integer array; ojva, O61a : integer array; q8 : integer array returns boolean array j : boolean; E, T, t1 : boolean; chillax end main : Q77aa, R : integer; e : boolean; B4caa, l, M3oa, H : boolean array; chillax end

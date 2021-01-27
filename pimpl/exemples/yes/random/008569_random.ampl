@@ -1,0 +1,1 @@
+program e : P8 : takes s, C, KdD : boolean; Ga, r93, _ : boolean; u : integer array; hEpa : boolean array returns nothing F : integer; chillax end e9 : takes K1, tt, OoO, g3, O9, x : integer; X, x : integer returns nothing chillax end main : r : integer; when case not true * false : chillax end otherwise : chillax end; input F; while - not 3 : chillax end end

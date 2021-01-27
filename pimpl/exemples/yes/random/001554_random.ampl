@@ -1,0 +1,1 @@
+program o : u : takes u28aa, Bds, kzb, jsN, M, l : boolean returns nothing b6, E1, sbC : integer; chillax end main : i : boolean; when case 2950 >= - true * not 152 and 6 or A0 and 204 : output "" end case 142 * not 2 : input q990; while 81 : chillax end end end

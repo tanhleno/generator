@@ -1,0 +1,1 @@
+program T : main : Y : boolean; i : boolean; when case - (8 = 2) <= - (1) : output 50 = 6 . ""; pop 6; when case 6 : chillax end; let H = 50 end case - false - true and 9 /= false : chillax end case - 0 and 4 < - 388 : while 1 : pop end; let mK7a = 315; input im; pop end case 136 - 912 : let f = 2 end case 81 = 89 : chillax end case 6 : chillax end end

@@ -1,0 +1,1 @@
+program yy : o : takes clr : boolean array returns boolean array chillax end Sbb : takes jl : integer array; l, sE : boolean array; cV : integer returns nothing D, d6, T4 : integer; Oy, J : boolean array; pop; while 2 = 57 : chillax end end main : chillax end

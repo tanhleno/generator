@@ -1,0 +1,1 @@
+program e : qEn : takes F, pSG, u7_ : integer; e, k, D : integer; Ly0, oy, n8, s : boolean array returns boolean F0, Q : boolean array; output "1!0"; pop; when case 38 = 44 : while 38 : chillax end; pop end case 43 : chillax end otherwise : chillax end; input l end main : chillax end

@@ -1,0 +1,1 @@
+program wU : F6 : takes F, n4za, x9, oU : boolean array returns integer chillax end n7r : takes _60a : integer array; Z, E : integer array; MBkaa, um : integer array returns nothing O, V, F, a : boolean; chillax end main : k, eU : integer array; chillax end

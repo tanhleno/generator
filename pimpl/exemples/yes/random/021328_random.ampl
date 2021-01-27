@@ -1,0 +1,1 @@
+program IQ : g : takes D_, C : boolean array returns integer array o4, c, _M, C, s : boolean; pop 592; let rp = 1 = 26 end d : takes g : boolean returns nothing G, I0 : integer; while 59300 : do j(2) end; output 453 end main : let D47a[3 * not true - true] = not false or true and 22 /= - not 6; output "" . 3 - 10 < 71700; input M120a[- (6)] end

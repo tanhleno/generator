@@ -1,0 +1,1 @@
+program Gx : V38 : takes e1, dZ4aa : boolean array; C : boolean returns nothing chillax end G : takes Ymla : integer returns integer array chillax end main : input N[- v8[44] * (328) / not 40 and 2]; pop - (23) and 39 - 4 - 57 end

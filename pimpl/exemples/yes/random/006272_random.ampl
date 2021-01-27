@@ -1,0 +1,1 @@
+program D : U : takes Ub30a, w, Kt7, W : boolean returns nothing pop - 4 > 94 end a47 : takes y4q, I0, Q : boolean; G : boolean array returns nothing chillax end g : takes L, t7, aq6aa : boolean array returns nothing while 8890 = 31 : chillax end end main : j : integer; geZ0a, B1 : boolean array; chillax end

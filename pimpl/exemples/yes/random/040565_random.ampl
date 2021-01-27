@@ -1,0 +1,1 @@
+program L87 : G2u : takes P6 : boolean array; k : integer; Q, i : boolean returns integer input H[6 + 96]; output "" end main : B, X, B77aa : boolean; Q : integer; J : integer; o4A, L8, Y, k : integer; chillax end

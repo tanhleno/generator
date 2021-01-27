@@ -1,0 +1,1 @@
+program P3 : Ye2 : takes C, j, G5, P : boolean array; i : integer array returns nothing output - 6 - 5 . 25 end a : takes Z, F80, b, m1d0, o : integer array returns nothing m3Ka : boolean array; P : boolean; GH : boolean; output "-d" . 1 end main : do Z0(- not false and true rem 6 and 9 or 2940) end

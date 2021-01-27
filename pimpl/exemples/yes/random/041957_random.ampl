@@ -1,0 +1,1 @@
+program G8D0 : Q : takes s : boolean array returns boolean chillax end Y : takes W0 : boolean returns integer chillax end main : z : integer; a : integer; c8 : integer array; AVT, B : boolean; d : integer array; chillax end

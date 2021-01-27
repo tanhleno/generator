@@ -1,0 +1,1 @@
+program w : S9 : takes dS : integer; R : integer array returns integer q4, zG, xYwaa : boolean; chillax end main : pop false rem false and 494 >= - true and 1; do m(not 33 * not 83 or(2500) and 88 - 2, - y - 62 - 147 = - 6 - 44, - 19 <= 781, 5 = 3) end

@@ -1,0 +1,1 @@
+program lu : rXC : takes M98, jr, W8 : integer; p270a, M740a : boolean; sN, RJ : boolean returns nothing output "\"\n\"a" end d8 : takes eK, j, O : integer array; _an : integer array; f : boolean returns nothing T5 : integer; s, WX : integer; b31, z : boolean; do t(8); let ch[17] = array 8 end main : chillax end

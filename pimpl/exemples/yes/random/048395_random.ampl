@@ -1,0 +1,1 @@
+program n : T : takes gag : boolean returns nothing Pv : boolean; DB1a : integer array; qD0, z, D : integer array; W : boolean; do c(- not 5810 > - 47, 67) end main : D : boolean array; pop 3 + kI; output ""; pop - 1 = 6; while - 7700 >= 1990 : pop; pop; pop end end

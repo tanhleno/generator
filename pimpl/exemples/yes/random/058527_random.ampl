@@ -1,0 +1,1 @@
+program K : ui60a : takes e : integer array returns boolean when case - (1) and 83 <= - 75 : chillax end otherwise : output ""; input i; pop end; output ""; when case 3 = 4460 : chillax end end main : chillax end

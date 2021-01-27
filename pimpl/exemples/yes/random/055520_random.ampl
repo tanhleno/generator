@@ -1,0 +1,1 @@
+program LG : F : takes yo7aa : integer array; I : boolean; Yy, j6g : boolean; C96a : boolean array; H, vDka : integer returns nothing z52 : boolean array; chillax end main : L : boolean; S, B7, n, ju, e, b : boolean; let H[- true rem 8 * false and 369 - (06) rem false - not 91] = - (3960) - false + 742 = false end

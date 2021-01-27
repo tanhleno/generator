@@ -1,0 +1,1 @@
+program O : o3 : takes p2f0 : boolean array returns integer hxM, Uw, V, B87, b : integer array; chillax end main : let o[true * 20 rem true or not not 7 + (7730) or 6] = 7 rem(362) > not 0 - 1 - 7; when case not false / (1) and 0 : input d end; do I(I); when case - 0 - 327 = 1 : chillax end case 1 : do T(411) end; while 9 = 04 : chillax end end

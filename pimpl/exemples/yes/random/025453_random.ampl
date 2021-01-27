@@ -1,0 +1,1 @@
+program V : Z5d0a : takes y, iP1 : integer; b, l : boolean; U : boolean returns boolean i5 : integer array; L : integer; s : integer; o, Gp : boolean; let c = array - 78 and 19 - 30 - 10 end J : takes O, G, PG20a : boolean array returns nothing chillax end main : FR, ja0 : boolean; aZ, a, pk : integer; p7, p, s45a : integer; z, WW60 : boolean array; chillax end

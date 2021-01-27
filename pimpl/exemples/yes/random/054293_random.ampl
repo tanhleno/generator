@@ -1,0 +1,1 @@
+program L : X : takes v : integer array; Bj4a, w8, x : integer array returns nothing j31a, d8 : integer; let U = 647 - 3 <= 0 end main : let RD = array 4 or not 7; output "i\t"; do H(not 2 and 4, 3 - 68 = 2, 78) end

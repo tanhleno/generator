@@ -1,0 +1,1 @@
+program Yf5 : main : N : integer array; m5, b : boolean array; when case B(99) and true - true : while 0 : chillax end; pop; let z[2] = 3 end case true rem not 41 = - not 00 and 2 or 46 - 06 : pop end case - (2) = 17 : chillax end; output - 059 or 2 >= 47 . 02700; output "" . 81300 = 9 end

@@ -1,0 +1,1 @@
+program C : eF8 : takes jtg : boolean; mx : integer array returns nothing j : boolean; M, S3 : boolean; output - 6 - 9 . "" end N1Saa : takes k5, j2, j610, R2, Q7 : integer array returns integer chillax end Z : takes r : integer returns nothing pop; while 1 : chillax end end main : let o[true / not(878)] = array n(99) end

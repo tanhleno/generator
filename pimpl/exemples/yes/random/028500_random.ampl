@@ -1,0 +1,1 @@
+program o2 : L68 : takes ah5, Z680a : integer array; _ : boolean returns boolean array V, o25, i : boolean array; when case false and 257 + 680 - 89 > 2 - 179 : chillax end otherwise : chillax end; let p = 0 = 9; let rC[6] = 8; when case 9 : pop end; output "{J" end main : p : integer array; d, h : boolean array; chillax end

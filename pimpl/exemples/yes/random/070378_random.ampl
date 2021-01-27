@@ -1,0 +1,1 @@
+program Q : main : V92a, P8Va, RG3aa, K : integer array; do o(false, - false and false and 10 - not 5 and 646 - 7 - 2500, - (13) or 4 - 49300, - 1); when case not(66) - false and 38 or 649 : chillax end case - K8 and 3 - 667 : while 1 : chillax end; let LXM = 0; when case 7 : chillax end; pop end end

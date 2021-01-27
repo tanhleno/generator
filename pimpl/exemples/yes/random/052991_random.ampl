@@ -1,0 +1,1 @@
+program Q : o : takes c5paa : integer; mhJ : integer array returns nothing chillax end main : let I8[- false * (09) rem d and 09] = array(5) * not 887; when case not true > - true or 0 - 3 : chillax end case(0) : let k[2] = array 493 end case 0 - 7 : chillax end otherwise : pop end; pop end

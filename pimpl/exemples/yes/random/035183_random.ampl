@@ -1,0 +1,1 @@
+program a74 : m : takes wh : boolean; o, U5 : integer returns boolean j, M, _95a : boolean array; Y, E9, C : boolean array; Tq, R62, k : integer; x, F4 : boolean; _A : boolean; chillax end main : chillax end

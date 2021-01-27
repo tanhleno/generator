@@ -1,0 +1,1 @@
+program E0 : Q : takes mnl : integer; Z : integer array; suLa : integer array; A1P0, S4wa, YQ2 : boolean returns nothing chillax end D : takes Kevaa, Z, Q7, _ : integer returns nothing BG : integer; B, G : integer; m : boolean; chillax end main : output - xK5(0); let t = 1 and 3 - 1 >= 1570 - 4; output - 56 - 352 . 7 = 9 . "\\" . ""; let l = 2 end

@@ -1,0 +1,1 @@
+program f6 : s : takes X : boolean returns nothing izp, H : integer; E3 : boolean; chillax end main : _, R : boolean array; Y, CvF0, _k : integer array; Y, fe, K, Q : integer array; Ni4, k, do10, ze4 : boolean array; let pN = array - (67) * F560(85900) and(34) or false and not 4 and 503; while f[31200] : pop end end

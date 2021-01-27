@@ -1,0 +1,1 @@
+program c48 : main : while not true and v4s0(7890) or not W and 4 + false - 7 : chillax end; do ay(9 and(7) and 3, - 8 <= 08400 - 5, - 24 <= 806); while - 881 and 0 : chillax end; do e3(87 - 6 = 56) end

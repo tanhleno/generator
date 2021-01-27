@@ -1,0 +1,1 @@
+program INo : s : takes G2, o5 : integer array; n, HX, e4 : integer; l, B6 : boolean; T, zz4 : integer array returns nothing chillax end main : V1, V : integer array; kI : boolean; z : boolean; let Tkq = (21); pop; when case not 9 > 6 : output "o" end case 67 : while 52500 : chillax end end otherwise : chillax end; while - 3 - 89 /= 568 : pop end; let o = array 2 end

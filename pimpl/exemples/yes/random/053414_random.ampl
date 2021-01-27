@@ -1,0 +1,1 @@
+program xZf0a : g7 : takes E72a : integer array; p, z00, W, Cvj0, a, F, G : integer array; V : integer array returns boolean chillax end main : E : integer array; let DKO[- false / (8) and not 2 and 2 + M(29) + true] = array false - 0 - false and 76 end

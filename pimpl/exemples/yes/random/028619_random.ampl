@@ -1,0 +1,1 @@
+program R24 : U : takes W, o : integer array; m6 : boolean returns nothing output 4630 - 95 > 28 . "" . "3"; output "" . "" . 0 . ">90a"; output 3; do _8ya(586, 4) end main : t : integer array; kO4 : boolean array; iL : boolean; chillax end

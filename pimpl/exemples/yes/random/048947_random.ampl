@@ -1,0 +1,1 @@
+program S : b4 : takes u : boolean returns nothing let Z1[- not 50 and 2 or 61] = 3 /= 67; input yu[5] end V : takes M, M32, PH : integer array returns boolean chillax end main : rJc : boolean array; D : boolean array; while - g6(6, 2) * not(43) * false : output "=" end end

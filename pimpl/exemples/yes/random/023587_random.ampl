@@ -1,0 +1,1 @@
+program H : uN : takes ZC, S : boolean returns integer array output "" . "" . "" end _ : takes h : integer returns nothing input j[14]; pop; while 1 : pop end end main : when case true : let g = array - 2 end end

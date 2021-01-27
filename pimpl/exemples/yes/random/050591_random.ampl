@@ -1,0 +1,1 @@
+program T5 : IO_ : takes d : integer; FV6, x : boolean array returns integer N, A, IY : boolean array; n, _L : boolean array; l3 : boolean; when case not 63 and 850 : do r(0, 21); while 9 : chillax end end end main : while - (523 = 1) or false / true : chillax end end

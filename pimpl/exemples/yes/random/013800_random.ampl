@@ -1,0 +1,1 @@
+program tf : a17 : takes r0maa, r3f, M : integer array; _, i3z, p : boolean returns integer array U2 : boolean array; chillax end main : when case not K(6) * not(970) = - not true : chillax end case true and vJ and 86 : pop 919; while 82 : chillax end; let Ma = 70 end otherwise : pop; when case 20 : chillax end case 40 : chillax end end end

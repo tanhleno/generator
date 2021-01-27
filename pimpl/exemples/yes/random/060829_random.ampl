@@ -1,0 +1,1 @@
+program S0 : u : takes z : integer array returns nothing kyu : boolean; when case - not 85 and 312 or 79 : chillax end case - 4620 > 93 : do AO(1) end otherwise : when case 617 : chillax end; while 2 : chillax end; pop end; pop end main : Gl, w5 : boolean array; while 8 and false and true - (7) rem 15800 + (04) and 1 : chillax end end

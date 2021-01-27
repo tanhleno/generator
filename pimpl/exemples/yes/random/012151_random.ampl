@@ -1,0 +1,1 @@
+program Q2Eaa : D : takes jh3, _i, X0 : boolean returns nothing do l1(Yq or 440 >= 4 - 4) end Zo60a : takes e : boolean array; sAO, Ei : boolean array returns integer W53, m, V3Y : boolean array; chillax end main : j4Haa : integer; while true or 07 : chillax end; let s[- true] = array - 0 * 195 and 5 - (866); pop end

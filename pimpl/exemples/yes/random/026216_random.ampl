@@ -1,0 +1,1 @@
+program ePnaa : p : takes K, K2 : integer; w550a : boolean array; otJ : integer array returns nothing chillax end yl6 : takes N8T0a, J3 : boolean returns nothing input d5 end main : L3, q : boolean array; k, y, _0 : boolean; do h(- 39 < - not not 8 * true and 381); input h; let u[8 or 1] = array - false; do y0(- 2) end

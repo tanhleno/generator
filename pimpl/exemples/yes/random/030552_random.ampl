@@ -1,0 +1,1 @@
+program oe : m : takes p, N : integer array returns nothing Q, x6, VLu : integer; M3_a, B, i3R : integer array; let UOAa = array not 6; when case 1 : input G end; let C = 79 end R0 : takes C, Q, V, n8 : integer returns nothing chillax end main : chillax end

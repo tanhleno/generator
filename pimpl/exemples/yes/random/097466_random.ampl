@@ -1,0 +1,1 @@
+program d : main : when case 6 and not not 46 + F rem false and 61 : when case - 27 < 9400 : output "" end case 0 : chillax end otherwise : chillax end end case(03) and not 49 : while 927 = 22 : pop; pop end; pop; while 69 : chillax end end otherwise : pop; when case 480 : chillax end case 2390 : chillax end; when case 7 : chillax end; let B = 30 end end

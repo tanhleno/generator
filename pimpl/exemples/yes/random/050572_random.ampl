@@ -1,0 +1,1 @@
+program C1 : ru4 : takes Y : integer; c, s : boolean array returns integer array chillax end o : takes h, _, L5 : boolean; o : integer array; YI, y, D, z : integer returns nothing G : integer array; output "*p" end main : chillax end

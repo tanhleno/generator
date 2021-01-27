@@ -1,0 +1,1 @@
+program Z : C4F : takes K7 : boolean; S, e : integer; UJp0 : boolean; u : integer returns nothing f : integer; do lJZ(- true and 1 >= - 43) end main : M18 : integer; mF8, j_Va, S9, r6G : boolean; EYR0a, f : integer array; input s[- 9 and 1 / not 3 and 9 or(3) or z or 16 - 6] end

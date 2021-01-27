@@ -1,0 +1,1 @@
+program A : m5Z0 : takes l : boolean array; d : integer returns integer Os7 : integer array; while - not 5 and 03 - 3 - 46 : let _[30] = 575; let k = 7 end; input XQ; do f1(18400 = 924, 40, 1) end j8 : takes z : integer returns nothing output 5720; input v end main : chillax end

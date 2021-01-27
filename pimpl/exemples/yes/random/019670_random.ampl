@@ -1,0 +1,1 @@
+program c8 : K : takes n, X : boolean array; u6X0 : boolean; U1, j, C : boolean array returns boolean array while - true or 7520 : input Q end; output 2; input mM4a[30] end P32a : takes A, F0Caa, E, z : boolean; Cz : integer returns nothing c : integer array; B : integer array; Nd, B : boolean; R : boolean; U4 : boolean; chillax end main : k : integer; input QA end

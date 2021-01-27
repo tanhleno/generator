@@ -1,0 +1,1 @@
+program X4 : o2 : takes k, F16a, FJ : integer array returns integer chillax end main : output "" . - not 51 and 6 or 3 - 20 < - 44000 . - 8; do Q1m0a((11) * (4) - false or 0 - 55900 >= true - 372 - 5); pop end

@@ -1,0 +1,1 @@
+program u : main : when case - false * QD : output "" . "" . "" . ""; do k25aa(817, 7, 7) end case - 3 * (9) or 9 and 267 - 7 >= false : chillax end otherwise : let B74 = 6 end; pop - false and 02 >= - 61 - 7820; input t5 end

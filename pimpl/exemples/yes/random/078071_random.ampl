@@ -1,0 +1,1 @@
+program i3 : main : M, Z1 : integer array; when case - K(9, 5) and(5450) or(7) / (99) - true - 6 - 7 /= false rem m : chillax end case - 00 + true and 6 + 7 - 0 : chillax end otherwise : pop; while 5 : pop end end end

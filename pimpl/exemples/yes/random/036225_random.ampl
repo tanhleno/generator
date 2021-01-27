@@ -1,0 +1,1 @@
+program g9 : E7waa : takes oyO0 : boolean; d : boolean returns integer do g5M(- true and 1 or 4 - 07 <= 33, 506 - 7 > 4, 6060, 29300, 1); output 803 = 087 . "9\na" . 5 . "" end main : G9 : boolean array; S, E, Y95 : integer array; p, J9 : integer array; a, v2a : integer; q0q : boolean; W, P : boolean; chillax end

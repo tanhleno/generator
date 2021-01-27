@@ -1,0 +1,1 @@
+program s : R540 : takes C : boolean; U, d51, R : boolean; reA, Ht, Ev3 : integer returns nothing while false >= - 38900 : while 35500 : chillax end; pop end; pop 04 = 7; while 9 = 7110 : chillax end; while 0 : pop end; when case 94500 : chillax end; output "" end main : WE_aa : integer array; chillax end

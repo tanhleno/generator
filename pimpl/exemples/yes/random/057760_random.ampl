@@ -1,0 +1,1 @@
+program s2 : o0iaa : takes Qc : integer array returns boolean array B, V1 : integer; chillax end p2 : takes vM, B, C : integer array; J : integer array returns integer array q, z, w3z : integer array; Jac, W : boolean; while 9 - 1 > 5 : chillax end end main : input I; while - 3 * false and 30 + true or 46 - 3 : chillax end end

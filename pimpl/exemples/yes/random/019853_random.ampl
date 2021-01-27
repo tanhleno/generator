@@ -1,0 +1,1 @@
+program f4 : lBia : takes S, fk : boolean array; i02 : boolean array; C, tM : integer; x0, o : integer array; B : boolean array returns nothing chillax end main : when case - false / (665) - (144) * 6 and 171 - true and 401 or 8 /= - false / not 6940 and 6 : pop 754 = 37 end otherwise : pop end; let x = K6 <= - 767 - 35; while - not 9 and 27 : chillax end; pop 01 = 91 end

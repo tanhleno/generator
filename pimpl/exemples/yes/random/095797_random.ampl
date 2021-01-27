@@ -1,0 +1,1 @@
+program mz : main : when case - false - true : chillax end case - true rem false <= kzaaa and 4 - 0 : when case 29 : chillax end case 5 : pop end case 91 : chillax end end otherwise : when case 54 = 970 : let q24 = 05; pop end otherwise : chillax end end end

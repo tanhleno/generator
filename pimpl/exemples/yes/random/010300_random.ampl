@@ -1,0 +1,1 @@
+program N_2a : q : takes v1, M300a, j : boolean array; K : integer array; geN, m, RD, FX : integer array; Z0n : boolean; c, xy, n, n : boolean; Xe5 : boolean returns integer array C : integer; chillax end main : chillax end

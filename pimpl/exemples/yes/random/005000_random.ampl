@@ -1,0 +1,1 @@
+program D07 : R1ha : takes E0, F130, z, P : boolean array; P : boolean; T, m2u : boolean array returns integer array output 17 < 6340 . 82 end k3 : takes v : integer returns nothing chillax end main : u, q, _, o4L0a, A7_a, Z : boolean array; k, a4 : boolean; V, w : integer; output "" . "(" . 6 end

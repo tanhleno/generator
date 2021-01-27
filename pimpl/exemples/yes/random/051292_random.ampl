@@ -1,0 +1,1 @@
+program g2 : _tD0a : takes ab : integer; bl8, d96 : integer returns nothing pop; output 712 end main : Xr50, i : boolean array; l : boolean; t0 : boolean array; a : boolean; LQ : boolean array; L8 : boolean; R : boolean; chillax end

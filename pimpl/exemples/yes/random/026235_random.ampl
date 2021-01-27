@@ -1,0 +1,1 @@
+program fMB : L : takes S, a : integer; W : boolean array returns boolean array o, k, S : boolean; chillax end y : takes W : boolean; T : boolean returns integer array A : integer; let Ok = 8 = 6; when case 111 = 9 : chillax end case 23 : pop end end main : a3 : integer array; esZ : integer; chillax end

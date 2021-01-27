@@ -1,0 +1,1 @@
+program g : y6l0a : takes Z, mJS, J : boolean returns nothing K, G0j, Y, M : integer array; w1Daa : integer array; Q8Baa : integer array; do y(- (2) or 9 - 79, - 95 - 3 > 4370) end main : let Y91[not x6(08) and(3)] = - not(31) + false; pop - 2 and 8 or 78300 - 277 > 20 end

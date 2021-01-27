@@ -1,0 +1,1 @@
+program P6 : R : takes NW8 : boolean array; X0x : boolean; h : integer array; T, f4, W : boolean array; F, T, d, ql5a : integer; yE, M, S52aa : integer returns nothing j : boolean array; input D[not 6 + 44] end main : chillax end

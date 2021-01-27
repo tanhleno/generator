@@ -1,0 +1,1 @@
+program E0 : e : takes G, kP : integer array; fO, G, ZFa, u, t3 : boolean returns nothing t, P860, ie : integer; chillax end e8 : takes o : boolean array; eZ, X5 : integer returns integer input Mpx[- 9] end main : let u[false * 86 and true] = array U[9] or 9; pop; input mT7[27]; input X[436] end

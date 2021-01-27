@@ -1,0 +1,1 @@
+program xC : eZ : takes dN7, g : boolean array returns boolean Eh, e : boolean array; do g5(false <= - 550, 8 - 662) end R : takes hM : integer returns integer array chillax end main : nR4a, s : boolean array; H, U : integer; output ""; while - true * (2) and 40 or true : chillax end end

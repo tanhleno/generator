@@ -1,0 +1,1 @@
+program Y : main : when case 6 and 6 rem 09 and 99 /= - true : chillax end case - not true rem(687) + true and 2 <= false : chillax end otherwise : chillax end; while - 4 / not 0050 + (5510) < - false and 4 : while 38 = 764 : input qTxaa; pop end; input S3L[2]; do q3qa(027) end end

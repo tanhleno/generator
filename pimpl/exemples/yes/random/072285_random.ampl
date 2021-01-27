@@ -1,0 +1,1 @@
+program Gq40 : main : F, c, m : integer; v : integer; H, yWI, uSw, L : integer; aix0a : integer; NaF0 : integer; input Y[- tjNa[09] * (47) / true + (35500) * (960) + true and 29 - 47]; pop 8 + 6 - 7 end

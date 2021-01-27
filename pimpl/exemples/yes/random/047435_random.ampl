@@ -1,0 +1,1 @@
+program R : iBQaa : takes yf8 : boolean returns nothing chillax end E : takes P3, j67aa : boolean; s : integer returns integer array do g5(- 04 - 9, 7120 = 266, 47) end M : takes b, N, _ : boolean array returns nothing s, P6m0, A8O0a : boolean; chillax end main : z : integer; J6, j : boolean array; m1 : integer; chillax end

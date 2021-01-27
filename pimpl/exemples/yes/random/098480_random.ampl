@@ -1,0 +1,1 @@
+program R : main : while - l9j0a or false rem 2 - not 22 and 9 : input T[- 98]; when case 27700 : while 30 : chillax end; pop end case 54500 : chillax end; input jy end; let a[not false / false and 0 - 7] = array L(28) and true; while true and 5 or 4 : chillax end end

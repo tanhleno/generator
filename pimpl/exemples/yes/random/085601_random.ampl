@@ -1,0 +1,1 @@
+program L : main : Q : integer array; ga, P, m, D, o : boolean; z, Eg, P : integer array; _ : boolean array; b580a : integer array; do G(- J7(0, 2600) and l(5) < - 3); output not 07 or 90 >= - 7 - 48700 . - 5 . 0 end

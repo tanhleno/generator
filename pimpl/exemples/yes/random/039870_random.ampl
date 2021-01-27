@@ -1,0 +1,1 @@
+program _W : xe : takes Q6 : boolean array; A : boolean array; k0 : boolean; h : integer returns nothing chillax end b3 : takes P, uc, G : integer; m, Pnx0, R, e : integer array returns integer array Z9P, L9, f, w : integer; chillax end w : takes X8B0a : boolean returns nothing chillax end main : let J = true and true and 4 > 90 and 3 end

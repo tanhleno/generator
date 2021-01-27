@@ -1,0 +1,1 @@
+program j : N : takes o, l8v, p, KY, Z : integer returns nothing while 5 and 8 + 3760 >= 5640 : when case 6 : pop end case 6 : chillax end otherwise : chillax end; input Nn2 end end main : chillax end

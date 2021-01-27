@@ -1,0 +1,1 @@
+program U : drn0 : takes e, H, V : integer returns nothing W, Vs, X, _4 : integer array; y : integer array; K, gZ : boolean; Y : boolean; output ",2\"a" . "<" end i : takes v : boolean; i330a : integer returns boolean array c1, bla : integer array; q0, D : boolean array; do Sr(8 - 3, 076, 29100); pop 19; while 423 : pop end end main : chillax end

@@ -1,0 +1,1 @@
+program M : f2 : takes _, mB : boolean array returns nothing do S68a(2 + 2 - 4 <= 7, 5 = 7); do p(60) end main : M : boolean; P, eJi : boolean; let y[false or 8 and(88) or false and 8 + 2 - 8] = (9) - false >= - g9 and 0; let O81a = array not 1 or(7) + 2 - 59 end

@@ -1,0 +1,1 @@
+program B6J : main : H, T5 : boolean array; MO7 : boolean array; when case not 52 or true : do O3(- 05, 64 = 323); while 716 = 1 : chillax end end case - (9) = - 2 and 7 : when case 6 : chillax end case 1 : chillax end otherwise : pop end end; while true <= - true : output ""; let NU3aa = array 95900 end; output 21 - 9 < 8; when case 313 - 721 : let Bu = 96 end; do t9(20, 00) end

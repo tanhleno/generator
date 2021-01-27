@@ -1,0 +1,1 @@
+program C : f_ : takes f9e, e3 : integer returns nothing Y : integer; chillax end _5 : takes P : boolean array returns integer Z9 : boolean; t : integer; rs6 : boolean; Cx6aa : boolean; when case 4 - 43 >= 4 : chillax end end I3 : takes L9 : boolean returns nothing chillax end main : l : boolean; c, nwv, l0, LZ1, y4 : integer array; Hk, pD6 : integer; chillax end

@@ -1,0 +1,1 @@
+program n7 : t : takes j, IK : boolean returns nothing chillax end main : X5o0 : boolean array; a980a : boolean; v, Y, h : boolean; let w[L / (36) * (67) and 44] = array - true + not(7); while - true /= - (0) and 2 : while 08 = 84 : chillax end end end

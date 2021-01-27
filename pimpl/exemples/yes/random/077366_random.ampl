@@ -1,0 +1,1 @@
+program ci2 : main : _, kW : integer array; S97, Ec60 : boolean array; when case - false and not false and true + true : pop; do M(18); while 2 : chillax end end case - (870) - (1) = 54 and 48500 : pop end case not 75 : chillax end case - 54 : chillax end; output - N = - 0 - 24 . "D\\!"; do wLQ0(- not 1 >= 43600) end

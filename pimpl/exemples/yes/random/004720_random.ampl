@@ -1,0 +1,1 @@
+program yq4 : d : takes j, j, Uh, n : boolean array; S, n, W, Ck, o, Yc40a, x : integer; N : integer returns boolean array chillax end z7qa : takes _pn, R, J : boolean returns nothing chillax end main : S3 : integer; chillax end

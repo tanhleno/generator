@@ -1,0 +1,1 @@
+program g2 : H : takes P2, S1, Zhn, r : integer returns nothing Y2, Pa70a, M, pi : boolean array; chillax end main : u, E : integer; JO90, I7, b, w, jw : integer array; N : integer; v, vx, o : integer array; N : integer array; qJK : boolean; h3 : boolean; rt9aa : boolean; chillax end

@@ -1,0 +1,1 @@
+program y : main : when case true * P > false rem 6 or not 51 and 113 + 91 - 3 : pop end otherwise : chillax end; when case true * 9330 and 77 - true <= not 124 and 58 : chillax end otherwise : while 661 : chillax end end; do e(not 5900, - 7 - 86 < 6); when case - 73 <= 5 : chillax end case 9 = 1970 : output "]" end; output "6" end

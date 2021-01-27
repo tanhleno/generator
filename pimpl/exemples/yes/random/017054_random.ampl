@@ -1,0 +1,1 @@
+program H : p : takes V, Qxs : boolean; b, w6v0a, y0 : integer array; F, k : boolean array; p : integer; fJ1, U : integer array; S, J : integer; tm, i23a : boolean returns nothing e1 : integer array; while _L - 55 - 38 = - 4 - 86 : chillax end end FMx0a : takes vt, O, H, x, Y, Jox, v : boolean array; Q, fxo0a, n, F53a, C : boolean returns boolean chillax end main : chillax end

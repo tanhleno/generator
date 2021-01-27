@@ -1,0 +1,1 @@
+program YI : main : q : integer; M, g, M : integer; let Sy[not true rem false + (1) or 069 and 0 + 7] = array - dzNaa(8, 31) rem F3u and 86 - not 6 / not 24 or false + 435; input E4[true rem not 239 and 7]; do x(- not 20 <= - 1 - 2, 8 < 80, 3 = 62, 282); while 39 - 3980 : chillax end; input p[8]; pop; output "\"\\" end

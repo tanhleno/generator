@@ -1,0 +1,1 @@
+program y9pa : main : c56 : boolean; do BT(false rem true * (3) /= - not(0) and s8 and 2); let CnC0a[51 / false and 049] = - true and 8 - 4; when case - true and 31 = 3 : let V = array 7 end case - 8 > 2 : chillax end case 8 = 9 : chillax end otherwise : chillax end; let o3Kaa = 51 = 283; while 32 = 4 : chillax end; pop; let p68 = 21 end

@@ -1,0 +1,1 @@
+program k : O : takes i34 : boolean; y, E0j0 : boolean; x3d : boolean array; G, E4, H5u : integer array returns nothing k : boolean; P7, f : boolean array; P, K : integer; H33a : boolean; when case - true <= 7 - 2 : chillax end case 72 - 3 : chillax end end main : pop end

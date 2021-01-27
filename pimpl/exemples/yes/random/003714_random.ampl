@@ -1,0 +1,1 @@
+program x7 : d1 : takes t38, d, M, tGx, m : integer array returns integer array chillax end C85 : takes W, l, i34 : boolean returns boolean array let Dm60 = array - 457 - 88100; input R[27]; do gW(2, 27) end s : takes z3w, R : boolean array returns boolean array chillax end main : chillax end

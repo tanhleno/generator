@@ -1,0 +1,1 @@
+program d : A : takes U75, X2, z : integer returns integer chillax end w : takes k : integer returns nothing r1D, b34aa : integer; chillax end g : takes UB3a : integer array; A : boolean array; q, X, R, z : integer array; Y, Rt90 : boolean array returns nothing let W9[16] = array 1 end main : H, c : integer array; input g[- true rem 60900 - z0[6] / not 141] end

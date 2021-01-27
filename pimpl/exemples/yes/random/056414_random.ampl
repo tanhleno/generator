@@ -1,0 +1,1 @@
+program V : G : takes b7 : integer array; J : boolean returns nothing do j(- true and 72 < 3 - 864) end main : j : boolean array; I : integer; when case - not false + true rem false and 9 : chillax end; output "" . "'\\aa" . 70900 = 7 . 8 . 6 end

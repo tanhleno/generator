@@ -1,0 +1,1 @@
+program X : k : takes kD : boolean array; hj, X : boolean; Z : integer array; H, Q7, pq, VeJaa, JsE : integer returns nothing chillax end main : r : integer; Ju, X6L, d : integer; M, E83a : integer; pop 908 rem(3) > - false or 3 - 8 end

@@ -1,0 +1,1 @@
+program i9 : o00 : takes x : boolean array; p, TB, XlM0, W7, k56a, M16 : boolean; t : integer returns integer array do k(1 + 6 <= 03) end main : QV, a, Gk6 : boolean array; R : boolean; aq : integer; chillax end

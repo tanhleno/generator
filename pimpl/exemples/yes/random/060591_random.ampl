@@ -1,0 +1,1 @@
+program Q64 : a : takes Ro : integer array returns nothing o, n1 : integer; f1, F27a, N3, L : integer array; let f[not 55 and 678 - 451] = 83 - 38 end main : Ff : boolean array; m5 : integer; f2 : boolean array; output ""; output - true and 3 . "" end

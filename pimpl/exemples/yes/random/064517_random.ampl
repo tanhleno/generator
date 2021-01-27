@@ -1,0 +1,1 @@
+program m : B8 : takes _59 : integer returns nothing S, c8 : integer; chillax end Hn2 : takes M420 : integer returns nothing while 524 - 59 /= 4700 : chillax end end main : u, b7Saa : integer; jaa0a : integer; pop - 4 * not 5 and 3 - not 0 and 6 + 66 <= - false and 44 end

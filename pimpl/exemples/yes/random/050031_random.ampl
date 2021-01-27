@@ -1,0 +1,1 @@
+program Tj : D : takes zC : integer; TgOa, J, Ee : integer; F7i, A : boolean array returns nothing xD : boolean array; while - not 1 or 0 - 952 : pop end; while 4 - 68 < 57900 : when case 46 : chillax end; while 16400 : chillax end; pop end end X4 : takes O3 : boolean returns integer chillax end p : takes k1 : boolean array returns nothing input GFo[21] end main : chillax end

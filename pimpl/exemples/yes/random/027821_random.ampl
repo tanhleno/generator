@@ -1,0 +1,1 @@
+program e : Z480 : takes f3F, z : integer array; i1ya, s : boolean returns nothing j : integer array; q2 : integer; chillax end u : takes b : integer array returns boolean array tm, Y1, k : integer; chillax end sO30 : takes r7o, J : boolean returns boolean array chillax end main : C, Py : boolean array; chillax end

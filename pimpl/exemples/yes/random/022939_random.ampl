@@ -1,0 +1,1 @@
+program rEr0 : c : takes F, xH_ : boolean returns boolean array H, Y, QL : integer; chillax end o : takes U, EH : integer; Z, g : boolean array returns nothing chillax end main : T, k58, H : boolean array; L, C18 : boolean; when case - not(6) / false / Z730 - R[5] rem(0) or(7) : chillax end otherwise : chillax end end

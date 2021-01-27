@@ -1,0 +1,1 @@
+program _8Ja : bY20a : takes B : integer array; H9 : boolean array returns nothing e, mc5aa : integer array; p : integer; K6 : integer; chillax end main : m, z13 : integer; W, T, X, LM4aa, A6A0a, L : integer; while V(7) and 15 * 72 - not c78 / 385 and 1 or(7) or 9 - 164 = false and false or true and 9 + 100 : chillax end end

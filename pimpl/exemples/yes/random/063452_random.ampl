@@ -1,0 +1,1 @@
+program H : LP : takes y700 : integer returns integer w30 : boolean array; iop, h55 : boolean; tP70, i : boolean array; do sd00(- not 54700 and 4 /= - 4 - 9); while 2 - 9 > 33 : chillax end end main : chillax end

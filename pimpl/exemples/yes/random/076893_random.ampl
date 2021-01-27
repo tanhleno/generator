@@ -1,0 +1,1 @@
+program E : main : h19, OKE : integer; when case - not false and 2 - not(0) - false : when case 3 : chillax end; when case 0110 = 8 : chillax end; output 5 end; while - false / true and 5880 or false and 00 : chillax end; let GXma = 1 - 2 > 92; while 8 : chillax end end

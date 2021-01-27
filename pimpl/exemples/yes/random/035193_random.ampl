@@ -1,0 +1,1 @@
+program t4 : RO : takes w3j : boolean; b, sWD : integer returns boolean input z[- false and 30 - 1 - 1]; do h(- 97 - 73) end t : takes m : integer array; Us : integer array returns nothing n, _ : boolean; pop end T : takes voCa, Lt6 : boolean; W, P2 : integer returns boolean N : boolean array; O, WZ9 : boolean; chillax end main : n5, O3, T, k : boolean; chillax end

@@ -1,0 +1,1 @@
+program q : main : input P; when case(63) or q8 = true + 31 : do E3(777 = 81200, 2410, 62) end case - true and 8 or 4 - 873 /= - 25 - 3 : do D18aa(111, 58800) end case - 3 - 9 : chillax end case 6 = 4 : input M end case 88700 : chillax end case 87 : chillax end otherwise : output 5 end end

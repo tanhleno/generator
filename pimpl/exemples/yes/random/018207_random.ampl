@@ -1,0 +1,1 @@
+program Dd3 : C : takes E, zX : boolean; w : integer; X : integer array returns nothing pop; pop 8; output 0 . "cAa" end R : takes W, B, Z5, j64, h : boolean array; o : integer returns integer array input K end main : while - false / (575) * 63 and 28 : chillax end end

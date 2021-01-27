@@ -1,0 +1,1 @@
+program H73aa : aQ8 : takes ro0aa, nA, C : boolean array returns integer array I : boolean array; U : integer; do br((0) and 110 < 67 - 3); while 00 : chillax end end main : _eD : integer array; _ : boolean array; QRR : boolean array; chillax end

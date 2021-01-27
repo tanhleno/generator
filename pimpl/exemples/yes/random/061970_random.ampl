@@ -1,0 +1,1 @@
+program vmZ0a : J3 : takes F5 : integer returns boolean array cM : boolean array; output - 43900 - 91200 . "_" . "0+0" . "" end m : takes nZ : integer array; u7 : integer array returns nothing U : integer; chillax end main : jZ : boolean array; _h, F6 : boolean; chillax end

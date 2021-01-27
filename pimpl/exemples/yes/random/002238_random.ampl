@@ -1,0 +1,1 @@
+program f79 : R : takes y, h4, d7, c, o7o0 : boolean; z5 : boolean; x, w8r0a, N90 : boolean array returns boolean array chillax end h7 : takes Vcfaa : integer array returns nothing chillax end main : chillax end

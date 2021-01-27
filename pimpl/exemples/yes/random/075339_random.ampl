@@ -1,0 +1,1 @@
+program KYg0 : main : x, m : boolean array; aHU0 : integer array; let O0 = array - 0; when case - (653) rem not 5 : chillax end case 1 - 2 : input e; input K end case 9 - 1 : chillax end case 7 = 82 : chillax end otherwise : let d = 13; while 7 : chillax end end; pop end

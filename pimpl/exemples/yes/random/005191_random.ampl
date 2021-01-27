@@ -1,0 +1,1 @@
+program Fy10 : n : takes y, Rn30a, z, ZX : boolean array; m : integer array returns boolean array chillax end main : when case false - true - not 4 : chillax end case Pjzaa or false and 287 : input bl end; input YD[- true]; when case - true : do vs(1, 0) end; let M[691 - 3] = array 7 - 6 end

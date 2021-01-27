@@ -1,0 +1,1 @@
+program gK5a : u : takes B18 : integer returns nothing chillax end J : takes T, l : integer; DM60 : integer returns nothing let q[- 81] = 0 = 243; input U end main : t : integer; e8, G9, c9, Q9, L, D : boolean; JB : boolean; l : boolean array; chillax end

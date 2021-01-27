@@ -1,0 +1,1 @@
+program i : main : when case - true * true * 5 + (26) and hY7 and 43 : chillax end otherwise : chillax end; let J7Saa[- true and not 9 and 92600 + (87) + 6 - 4] = array - true rem false and 7 + 5; let P = 4 - 35 end

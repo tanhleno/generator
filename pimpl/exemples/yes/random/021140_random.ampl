@@ -1,0 +1,1 @@
+program Z1g0a : s5 : takes f72, BoM : boolean array returns boolean Ak2 : boolean; yIZ : integer array; chillax end W : takes H5faa : boolean; bRB : integer array; a : boolean; v : boolean returns integer array oJH : integer; T, u, P : boolean array; do a(5) end main : chillax end

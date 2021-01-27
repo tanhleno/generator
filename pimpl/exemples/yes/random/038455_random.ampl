@@ -1,0 +1,1 @@
+program e : W : takes L : boolean array; W, q11 : boolean; _, d, Q, T : boolean; ac_ : boolean; Be, x, d, Mok0a : boolean returns nothing while 9 + 4 : chillax end end F : takes P, O9 : boolean array; o, G5, z : boolean array; t : integer array returns nothing output "I"; when case 83 : chillax end case 4 : pop end end main : chillax end

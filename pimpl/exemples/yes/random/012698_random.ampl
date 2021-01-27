@@ -1,0 +1,1 @@
+program G : k : takes Q, s, O1 : integer; _, BKna, _79 : boolean array returns boolean when case - false and 8800 - 6 - 9 : pop 56 end case 831 : chillax end otherwise : chillax end end main : Q : integer array; Ma, mZ00a : boolean; chillax end

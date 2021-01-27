@@ -1,0 +1,1 @@
+program Ql : Y : takes yd, o9Z, s4Da : boolean array returns boolean chillax end b : takes C : boolean array returns nothing A : integer; U : integer; chillax end main : D, v, jx, _, JC : boolean; chillax end

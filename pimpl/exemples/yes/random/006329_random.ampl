@@ -1,0 +1,1 @@
+program a : r : takes gCNaa, kIx0, SMs0, b : integer; t, e, b, S, jL3a : integer array returns boolean array output - 2 < 8 end D : takes Km, M, Y1Z, N, K, tV, h : integer array; W : integer array returns integer g, x : integer; output 4 end main : pop; pop false or 72 - 3 <= - 664; let kE[_ - 01 - 6] = array - false and 2 end

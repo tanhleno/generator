@@ -1,0 +1,1 @@
+program nH : d1i : takes ul : integer array returns boolean array us : integer; let w50 = 1; while 64 = 3 : chillax end end oe : takes P : integer array returns nothing n87 : boolean; chillax end main : z, T, Yt : integer array; output - true end

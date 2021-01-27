@@ -1,0 +1,1 @@
+program d : X : takes F : integer; K5 : integer array; D2T : boolean array returns boolean array chillax end main : M, H, M : boolean; let w[false / true or not not 77000 - false + 263] = 7; while jZ(3) * s or not 54 and 4 < (797) + 7 - 727 : chillax end; do s((64) and 5410 - 44400 < - 93500 - 9, - 87); do U(894 - 8, 6) end

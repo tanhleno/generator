@@ -1,0 +1,1 @@
+program J81 : NuT : takes W : integer; H56 : integer array; U6 : boolean array; K : boolean; I4J : boolean array returns boolean array Y : boolean; chillax end Tagaa : takes b, _g0 : boolean array; I81aa, y : boolean array; VU20 : boolean; l, IM : boolean returns integer array mN, KO, E : integer; chillax end main : pop end

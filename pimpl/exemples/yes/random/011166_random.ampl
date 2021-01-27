@@ -1,0 +1,1 @@
+program Sz4 : ss : takes H73, Wora, N : boolean array returns nothing r, bq, Q5, WD : integer; do m(U or 099, 18 < 319, 5) end g : takes B : boolean returns boolean jo, lg : boolean; chillax end uh : takes H : boolean; V7, _ : integer array returns nothing Ep : boolean array; chillax end main : chillax end

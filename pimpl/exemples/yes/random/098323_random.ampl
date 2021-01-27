@@ -1,0 +1,1 @@
+program _7c : main : while - Z710(254) and T(9) / (4) - (94) and(44) and 6870 - not 88500 and 628 : chillax end; output not 6 and 2 or 0 - 9 < 1740; when case - not 69200 and 8 - 6120 : chillax end case - 32 <= 0 : chillax end case 11 = 2 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program wA7 : o : takes f, Z : integer array returns nothing chillax end C1 : takes kC : boolean; q, a, A9v : boolean array; _ : integer array returns boolean chillax end R : takes H : integer returns nothing chillax end main : chillax end

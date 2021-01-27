@@ -1,0 +1,1 @@
+program E : H50a : takes lH, pv : integer array; k, Ov, R : boolean; x, T, T, A, L, v : integer array; _ : boolean returns boolean let v7[false + 0 - 54] = array true - 7 end main : I, N6W0, mNna : integer array; chillax end

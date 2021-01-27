@@ -1,0 +1,1 @@
+program u73 : L : takes A, A, c : integer array; k : integer returns boolean array s1v : integer; XY10 : boolean array; Cw6 : integer; input J; pop 02 = 0; output "" end N9y0 : takes nH, g1, L, vU : integer; h, MbG : boolean array; Y040a, I85 : integer array returns nothing T, O : boolean; do n8(15) end main : F : integer array; chillax end

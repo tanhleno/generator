@@ -1,0 +1,1 @@
+program g2daa : E3 : takes V6, O : boolean array; s_5, R9j0a, N0 : boolean array; J : integer; _5, s02, A, mw1, K61aa : boolean array returns integer y6, E0Waa, l, u27 : integer; chillax end main : input Y8 end

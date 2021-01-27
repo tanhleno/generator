@@ -1,0 +1,1 @@
+program OS : w : takes QF : integer returns boolean do z(- not 76700 + 5 - 579 <= - 844 - 9); when case - 327 = 9 : while 79 : chillax end end otherwise : pop; pop end; pop 4 end main : let HM70 = 79; when case - false / not 5 and 05400 or aG and 753 - 898 - 474 = 2 : when case 78 = 2 : chillax end otherwise : chillax end; while 633 : pop end end otherwise : let V = 597 end end

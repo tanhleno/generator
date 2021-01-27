@@ -1,0 +1,1 @@
+program M7 : m : takes BK6, I9x, p : boolean array; b, t1 : integer array; MZ : boolean; T, y0, W : boolean returns integer array F : integer array; do Q(- true >= - 50 - 8, 1 - 757) end main : chillax end

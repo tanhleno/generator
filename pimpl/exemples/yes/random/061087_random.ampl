@@ -1,0 +1,1 @@
+program B : E : takes J3 : integer array returns nothing m6 : integer array; chillax end L : takes K2 : integer; X : integer array; V : boolean; l : boolean returns boolean array pop; do z(421, 5); when case 4330 : chillax end case 6 : chillax end otherwise : chillax end; pop end main : chillax end

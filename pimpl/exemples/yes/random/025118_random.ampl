@@ -1,0 +1,1 @@
+program l : ll9 : takes t, V : integer; i, i400, l, Z : integer array returns boolean chillax end main : AW8aa, J : boolean; P, L, c9, S6, H85a : integer array; k : boolean; output - (72) rem(41400) and 7 or 5 . "l\t" . "2" . "" end

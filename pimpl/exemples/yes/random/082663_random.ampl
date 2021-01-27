@@ -1,0 +1,1 @@
+program A : main : O : boolean array; when case - (27 = 8) and 5 : chillax end case - 520 : chillax end case - not 2 and 7 /= 2 - 2 : chillax end case 5 - 5 : chillax end case 3 = 04 : chillax end end

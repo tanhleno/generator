@@ -1,0 +1,1 @@
+program A : main : _, iE0aa, E : boolean array; do g(not true rem FvU0a(982) or 32 * true and 90, - not A1, - Y9 or 15 - 3 = 5, 23 - 4240 /= 679, 7, 75800); let y[- not 25 / (64) and 0 or true and 14] = 7 and 43300 end

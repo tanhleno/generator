@@ -1,0 +1,1 @@
+program k : u94a : takes U : integer returns nothing while not 1 and 7300 <= 1 : chillax end; let T7N0 = 5; output 7 . 7 . ""; pop end main : B : integer array; p, IW, sb : integer; while not 7 <= - false rem not 631 and 67 or L : let EqE = 499 end; while false : chillax end; let qY9[- true] = array jl and 152 + 900 - 83 end

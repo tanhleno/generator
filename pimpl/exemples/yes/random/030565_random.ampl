@@ -1,0 +1,1 @@
+program w7 : g : takes Y17, N : integer array returns nothing v, Zcda, f : integer array; _ : boolean array; input L; let h[2] = array 5 - 11 end G : takes h79, pB, q, l9, u, sW, C : boolean array returns boolean K : integer; R, R, S : boolean array; wT : boolean; J : boolean; B4 : boolean; chillax end main : l : boolean; ty : boolean array; p, pv : boolean; chillax end

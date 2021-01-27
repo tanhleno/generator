@@ -1,0 +1,1 @@
+program H7T0 : w : takes C9, e8 : integer; J8, a09 : integer array returns boolean array chillax end P : takes n : boolean; v : boolean array; n : boolean array; CQ60, h : boolean array returns boolean chillax end main : m : integer array; K, tFAaa : integer; pop true rem L and 1 end

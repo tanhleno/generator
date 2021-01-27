@@ -1,0 +1,1 @@
+program s : u : takes BNi : integer returns integer array when case - 4 or 29600 : when case 20 : pop end end case - 5 - 41800 <= 5 : while 7340 : chillax end; pop; pop end end main : J, K8 : integer; chillax end

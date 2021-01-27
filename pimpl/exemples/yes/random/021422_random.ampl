@@ -1,0 +1,1 @@
+program Nb : w : takes JFl0, i : boolean array returns integer array d7 : boolean array; C6 : integer array; when case t7 and 0 : pop 0 end; pop 40 = 5 end _TS0a : takes i730, o : integer returns nothing input R[- 1] end main : o51, p1, C : integer; chillax end

@@ -1,0 +1,1 @@
+program N : nR : takes s0faa, y5 : boolean array returns boolean array V3, FMZ0a, V : boolean array; while - true and 20 or 4860 - 88 = - 5160 - 4 : when case 05 : chillax end case 70 : chillax end; pop; when case 23 : chillax end; pop end end main : pop a8I * p = false and 7 + 65 - 0; pop; when case - not 85 + 8 - 3 : while 1 : pop end end otherwise : pop end end

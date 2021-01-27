@@ -1,0 +1,1 @@
+program L : l : takes q : integer returns integer array input j; input B[- 596 - 24]; let G3f0a = 6; while 19 : pop end end main : g, x, s3Zaa : integer; Doh, l7q, wW8, i, A, Z38 : integer array; chillax end

@@ -1,0 +1,1 @@
+program k : O : takes H, j, V2N, Q, Vw9, X : boolean array returns nothing lM : boolean; chillax end main : q, AfK : boolean array; do L(- false); when case - (9) + true and 0 + 2 : chillax end otherwise : chillax end end

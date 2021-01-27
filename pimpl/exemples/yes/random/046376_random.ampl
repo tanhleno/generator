@@ -1,0 +1,1 @@
+program v : g0 : takes N : boolean returns boolean when case - false : chillax end case - 598 - 4 > 3 : while 3 : chillax end end case 0 = 4 : when case 4 : chillax end; pop end end main : let O = array - not k(3) / not false and not 1 and 7; when case - 0780 - not 87 or 45000 - 3 : let IX = 8 end end

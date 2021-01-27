@@ -1,0 +1,1 @@
+program oPe : a : takes I : boolean; i : integer array returns integer chillax end O6N : takes b, b9, L, T : boolean array returns integer k : boolean; chillax end main : Gc, X : boolean array; yB : boolean array; when case true : chillax end otherwise : while 9 = 487 : chillax end end; while xo2aa(00) / false and 4 - t and 5 >= - (971) and 9 + 64900 - 3 : chillax end end

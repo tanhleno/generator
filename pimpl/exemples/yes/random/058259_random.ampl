@@ -1,0 +1,1 @@
+program c8 : c : takes W : integer array returns boolean fTLaa, s : boolean array; input q[- (2050) and 3 or 2] end main : G4T : integer; k5 : integer; when case - (9) > - false : chillax end case true / not 132 or(5) : output ""; pop 3; do _(7); when case 29 : chillax end end case O2 and 40 /= - 01 : chillax end case 1 - 3 /= 19 : chillax end case 6 = 33 : input Av end end

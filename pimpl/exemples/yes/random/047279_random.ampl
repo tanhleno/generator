@@ -1,0 +1,1 @@
+program Z67 : E1 : takes _X : boolean returns integer let aj70a[- false] = array false and 6 end e : takes ye : boolean array returns integer array k : integer array; do a(- 6 /= 4) end l2 : takes Kp, Q, Q : integer; l, K0, s : integer returns boolean array chillax end main : chillax end

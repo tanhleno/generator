@@ -1,0 +1,1 @@
+program n050 : l : takes r : integer array returns boolean chillax end n : takes iqcaa, r, W : boolean array returns nothing C2Ma, O13a : boolean array; cC3aa, v6 : integer array; C : boolean; tV1aa : boolean; T : boolean; chillax end main : input Ey; pop end

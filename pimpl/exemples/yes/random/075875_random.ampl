@@ -1,0 +1,1 @@
+program R : main : Q77, Kh : integer; xO5, R4sa, a6, t2, n, V : integer array; let A[s(3) / not(0960) or(084) + not 4] = false or 134 and 25 + 7 /= - false or 052; when case - true * not 42 and 156 + (8) and 54600 or 220 >= - V : output "E"; let n5 = 11600; output "K" end end

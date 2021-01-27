@@ -1,0 +1,1 @@
+program GL : T : takes c, K : integer; K, g5 : integer array returns nothing im6 : boolean; R7, RIa : boolean; chillax end main : T : integer; Sa : boolean array; A5, KJPaa, C : integer; input dc2[not false rem true + X]; output ""; pop end

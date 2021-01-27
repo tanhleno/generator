@@ -1,0 +1,1 @@
+program s : T : takes b : boolean array; P63 : boolean array returns nothing s : integer array; while L + 093 - 76 : input TYM end; while - 81200 - 50 : chillax end; pop 26; do X(7, 7) end main : chillax end

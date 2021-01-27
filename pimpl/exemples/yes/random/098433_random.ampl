@@ -1,0 +1,1 @@
+program I : main : while - F[9] / h(0) / not 1 : when case - 3 - 096 < 2 : chillax end case 8940 = 3790 : when case 1 : chillax end; pop end; do pJ80a(755 = 3); let B = 92900 end; output(49) < 64 - 4 end

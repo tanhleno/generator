@@ -1,0 +1,1 @@
+program a : iPA0 : takes I : integer array; d5, A, G3 : boolean array; v, N : boolean; D, Z, G : integer returns nothing Qi, H : boolean array; chillax end main : lo : integer; pop not 894 rem F - (33) or 6; input Ub end

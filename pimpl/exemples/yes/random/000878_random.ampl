@@ -1,0 +1,1 @@
+program Jr70 : g : takes ts9aa, o, V77, t, h, K, U8 : integer array; rw3, F1 : boolean array; I8, yO, P9Y, z : boolean array returns nothing h : boolean array; chillax end main : output - not l - 10 and 79 < - (6) and 1900 or 11 - 9 . "3" end

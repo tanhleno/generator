@@ -1,0 +1,1 @@
+program iI3aa : main : Ku, P : boolean array; when case false and 8 / true + not true / not 3 and 2 + 68 - 3 : let Jmk0a = array - 36 - 32; output 53 . ";" . ""; when case 4 : chillax end; output "" end otherwise : chillax end; do n(33, - (09) and 90) end

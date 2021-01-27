@@ -1,0 +1,1 @@
+program eI : z : takes SO, A, X : integer array returns nothing chillax end p : takes y : boolean array returns boolean array V7, h : boolean array; do eE(- 4) end main : output false; do H(- (7) rem false = not 57 and 88, - 9 - 7); output "y\t!a"; input k; when case 5540 = 4 : when case 1 : chillax end; pop end otherwise : pop end end

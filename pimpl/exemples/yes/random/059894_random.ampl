@@ -1,0 +1,1 @@
+program o : a : takes F : integer array returns nothing chillax end s0N : takes y8kaa : integer returns nothing do wNg(- 094 >= 4, 6 = 7, 14, 8); do K(53 = 8, 2); do V68a(1, 0); when case 45 : chillax end end main : while - false - (9) and(5) <= - true : chillax end; do g0K((04)) end

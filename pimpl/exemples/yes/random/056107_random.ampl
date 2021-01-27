@@ -1,0 +1,1 @@
+program t7Q : S : takes q : integer array; m : boolean array returns nothing chillax end main : do v3N0(false and false); while - not 03 / (5) and 7 <= true - 602 : let N[98] = array 44600 end; when case - false or 9 - 1 < 66 : chillax end; do IH(- 6170, 06); input y92; do S(9) end

@@ -1,0 +1,1 @@
+program NO : main : while - h or Q or hQ and 8 or 962 : chillax end; when case - not EyY or not 9 and 1 <= - 1 : chillax end case - true and 0 or 5 < 8 : let d18[3] = array 9; output "" end case 9 - 568 = 9840 : while 89200 : chillax end; input C; pop end; pop 129 - 44400 = 22; while 1810 - 8 : when case 1 : chillax end end end

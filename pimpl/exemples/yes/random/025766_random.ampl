@@ -1,0 +1,1 @@
+program v : F : takes YH, TGc : integer; _, i : integer array; y, H1, H7B, e : integer; Q6, Rf : boolean; X0u0a : boolean; M, S : boolean returns nothing output - 4 - 87 < 97600 end ZI6 : takes d : integer array returns nothing chillax end U : takes H, M, T : boolean; U, Z : integer returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program F910 : main : l830a, V : integer array; let EB3[- 47 - (4) and 969] = false > not 198 and 121; while(0) rem 7 and 4630 or not 76 >= - (146) and 1 - 80 : when case 9 = 9 : chillax end case 2 : pop end case 3 : chillax end end; while - (8) > - 3 : pop 36; when case 1 : chillax end; output "8"; pop end; input i; input j39[549] end

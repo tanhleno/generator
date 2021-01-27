@@ -1,0 +1,1 @@
+program y : fV : takes O8w0a : boolean; n8, K6, Q : integer array; i : boolean; g : integer; z : boolean array returns nothing W, C : integer; v, y, V : integer; output "." . "9" . 06 . ";"; let n4 = array - 80800 - 78; input S[7]; while 6 : pop end end V4 : takes P9, wW, m9, A2 : boolean array returns nothing gxb : boolean; chillax end main : chillax end

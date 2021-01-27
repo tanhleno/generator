@@ -1,0 +1,1 @@
+program E : E : takes X0, cQ7 : integer array; Q, lbka, UfQ0 : integer array; RO, i : integer returns nothing when case - false or 10 - 0 /= - 3500 : chillax end otherwise : while 3570 : chillax end end; pop end main : chillax end

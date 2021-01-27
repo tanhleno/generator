@@ -1,0 +1,1 @@
+program m0 : Oor : takes i : boolean; U4r0a : boolean returns boolean array B : integer array; pop - 098 < 5 end main : when case not true or not 8 / 51 and 3 <= (51) * (1590) : do P5y0(- 8 - 46) end; let D[- 2700 rem not 69] = array - (0) or i and 668 end

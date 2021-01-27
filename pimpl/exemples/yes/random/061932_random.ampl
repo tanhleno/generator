@@ -1,0 +1,1 @@
+program J : r : takes d : integer returns boolean array K7j : boolean; pop; pop 5 end tBya : takes Q, l, U : integer returns integer e, A : integer; chillax end main : while true / 77 and not 27 and 68900 : do A(- 5 <= 5, 6150) end end

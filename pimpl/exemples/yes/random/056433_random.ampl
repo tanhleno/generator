@@ -1,0 +1,1 @@
+program d : uU90a : takes _6ca : integer array; V : boolean returns nothing ey, DmN : boolean array; v, H : integer; chillax end main : do D460a(- false, - true <= true or 4 - 3, - true or 66 - 2 < - 6) end

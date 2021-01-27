@@ -1,0 +1,1 @@
+program pw6aa : SHn0 : takes Z020a : integer returns nothing output "" end main : L : integer array; do FU6(- 2 / false / not 6 or false and 0 and 7 > zM, false = false and 873 - 7, true and 98 <= 4, 628 <= 5, 143 = 7, 080); output "0" . - 52 = 8; do p(- 6 /= - 7 - 6); let s4Xa[7] = 0 = 8; output 1 . 86100 . "\"\""; pop 0; output "" end

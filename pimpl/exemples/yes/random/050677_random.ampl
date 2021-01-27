@@ -1,0 +1,1 @@
+program m2 : C : takes Dt : integer; cg9, y : boolean returns boolean array o4 : integer array; k1 : boolean; Rb, II, _ : boolean; e6, t5 : boolean; Y : boolean; when case - not 077 and 6 : chillax end case - 42 /= 436 : chillax end otherwise : while 54 : chillax end end end main : H : integer; _9 : integer; output "24!"; when case - false : chillax end; pop 4580 - 79 end

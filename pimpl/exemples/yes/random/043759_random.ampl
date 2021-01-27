@@ -1,0 +1,1 @@
+program uA : Tv : takes g : boolean array returns nothing chillax end main : A : integer; Kc, v4, o7K : boolean array; efa0, p_ : integer; k : boolean; let C6L[false / false * R] = array - k30 rem(4) or s3q end

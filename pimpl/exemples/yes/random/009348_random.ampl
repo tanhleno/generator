@@ -1,0 +1,1 @@
+program M : h5 : takes N, E, I : boolean; z : integer array returns boolean array input IH end M : takes o : boolean; Em9a, bRs0 : integer returns nothing C : boolean; pop 592 end j9 : takes B : integer returns nothing pop 6; let w = array 27; output ""; output "" end main : input dG40 end

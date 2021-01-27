@@ -1,0 +1,1 @@
+program GPw : Q6e : takes e : boolean; y : boolean array returns nothing E6 : integer; rh : boolean array; K8 : integer; M : boolean; IK8 : boolean; chillax end main : h8, t, x70 : integer; L0g, r : integer array; do WW(- 76 rem 4280 rem 8 and 1 + (2) - (2) and 06 or 5, - (44) or Y, - w > 9, - 3 - 984); do q(- (5)); when case(2) : let Zfq[9] = array 242 end; input Y1ra end

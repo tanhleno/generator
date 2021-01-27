@@ -1,0 +1,1 @@
+program g : s : takes s : integer array; s09, b510a, xU6a : boolean array; K, N, gu : integer; U35a, N : integer array returns boolean do z(false and 5 - 20 - 039 = 4, 4 - 6 > 05, 72100 = 4) end v : takes BnA, b : integer array returns boolean chillax end main : chillax end

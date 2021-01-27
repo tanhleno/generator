@@ -1,0 +1,1 @@
+program c : main : JjY, S9 : integer; t, O, e : boolean array; U5, T, v8, U180 : integer array; F : integer; while - not not 585 * T * w4w and 1 : chillax end; input J[- true * frtaa + not 4 and 8]; while - 303 : chillax end; output 76 . ""; while 3 : chillax end; let t[82] = 853 end

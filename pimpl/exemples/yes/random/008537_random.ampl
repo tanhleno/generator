@@ -1,0 +1,1 @@
+program r4 : R : takes g, m0, j : boolean; V, Z, l, le : integer array; Jd, E5 : boolean returns nothing f, HV : integer array; O, K4, U5 : boolean array; P : integer; chillax end TlU0 : takes s : boolean array returns boolean array gt : integer; chillax end main : while - (01 = 8) rem false = - false - not 18 and 4 : chillax end end

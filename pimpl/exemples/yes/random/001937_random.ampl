@@ -1,0 +1,1 @@
+program C : U : takes u7h0a, z, R, ans, M, Nw : integer array returns nothing U, cv, o, BZ0aa : boolean; chillax end main : let A = 2 or T2 or 0 - 7; output - not 7 and 66 . - 6 - 3; while - not 24500 and 4 or 3 - 24400 : chillax end; input r970a[- 89 - 9]; do nD(0 = 2); do uWk0a(5, 77) end

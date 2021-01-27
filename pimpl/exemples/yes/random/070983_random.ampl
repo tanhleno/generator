@@ -1,0 +1,1 @@
+program T : main : o6, _, nyn : boolean; o : boolean; output(33) . - true and 6 - 018 <= 41 . "4" . ""; while - 62 and not 9740 and 20 /= (0) and 245 + 45 - 9120 : chillax end; let R71[0 and 1 or 50] = - 7 end

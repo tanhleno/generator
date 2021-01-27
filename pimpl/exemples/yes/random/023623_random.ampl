@@ -1,0 +1,1 @@
+program J : Y : takes v, c0Q0 : boolean returns integer chillax end J : takes I, V : boolean array returns nothing pop; when case 9 : when case 5 : chillax end; pop end end main : do W1(false or(7490) > - 18 - (0080), true /= - not 69 and 8 + 017, - not 8 and 6490 >= - 3670 - 8640, - 4 - 0 = 812); do R(- false / x and 630, - not 9 or 9) end

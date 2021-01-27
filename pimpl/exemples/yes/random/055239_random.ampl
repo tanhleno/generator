@@ -1,0 +1,1 @@
+program jf5 : bj : takes s : integer array; E, dJ : integer array returns nothing chillax end h : takes hO1, E9W : integer array; Q9U0a, G, s : integer returns integer array let Nf[- 9 - 585] = 287 end main : do u8(- true /= true) end

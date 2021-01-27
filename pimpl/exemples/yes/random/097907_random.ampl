@@ -1,0 +1,1 @@
+program Rt : main : while(33 = 5) rem false or L(3720) > - false - not 510 : chillax end; pop 4 and 885 or 0 - 6; pop; output "" . 8; when case 6 = 72 : chillax end case 22 : chillax end case 1 : chillax end otherwise : chillax end end

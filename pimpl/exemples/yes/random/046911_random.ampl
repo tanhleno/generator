@@ -1,0 +1,1 @@
+program R : o1 : takes D : boolean returns integer chillax end d : takes E, a0 : integer array returns boolean UeK : boolean array; KW, Z3r0a, x : boolean array; pop; input I; pop 114 end f2 : takes P2, B, y : boolean array returns nothing f : integer; x, P : boolean; let g14[2780] = 2 end main : chillax end

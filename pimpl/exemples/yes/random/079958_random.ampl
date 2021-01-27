@@ -1,0 +1,1 @@
+program J7Ea : main : N3 : boolean; let b = array false + (9) and 91 and 663 + (58300); let d1 = array v(2830); do N(true and 02000 or 28 - 54); do W(- 4); when case 37 : when case 1 : chillax end end case 33 : chillax end case 2 : chillax end otherwise : chillax end end

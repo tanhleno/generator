@@ -1,0 +1,1 @@
+program l6o : J : takes E : integer; v : integer returns nothing p : boolean array; output 2890 = 8 . 87900 . "" . 62 . "" end eQ6a : takes d, C : integer array returns nothing vK, lF70a : integer array; a7, DDi0 : integer array; output "" end main : a, Q, EbR, uMO : boolean array; g610a, I : boolean array; chillax end

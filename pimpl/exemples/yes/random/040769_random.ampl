@@ -1,0 +1,1 @@
+program sk : k3Ma : takes m : boolean array; IoAaa : integer array; g, X, x : boolean returns boolean Y : integer; LCC, lhl0 : integer; Y7C, E130a, Ya : boolean; j : boolean; oX : boolean; chillax end main : chillax end

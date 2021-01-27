@@ -1,0 +1,1 @@
+program Gnp : J : takes x : integer returns nothing U1Raa, PN00a : integer; ZJ : boolean; a : boolean array; chillax end nX : takes K1 : integer array returns integer b, YKH0, DO : boolean; chillax end main : chillax end

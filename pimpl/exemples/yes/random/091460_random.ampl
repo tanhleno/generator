@@ -1,0 +1,1 @@
+program S : main : let R46[not false * (8)] = array true rem true / g010a and 2 or H[06] rem 5 - (8860); output "" . 2; when case - true + 6 : do f(3, 9) end case 171 - 45 /= 76 : chillax end case 52 = 6 : let e = 5; pop end case 1 : chillax end end

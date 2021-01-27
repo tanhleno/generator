@@ -1,0 +1,1 @@
+program iE : main : P : integer; V6Da, qU : boolean; P, p5Ca : integer array; k : integer; output not true rem not 99 or not 2 and 488; while - (8) / _ < 1510 - 63 : pop 3; pop 3 end; let Q6F0[- true and 24] = array - 492 and 2 or 56; while - 6 < 2 : let S = 84 end end

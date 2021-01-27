@@ -1,0 +1,1 @@
+program vb : K8 : takes t, KaAa, W : integer returns nothing when case - (264) : output "~" . "" end end main : ei : boolean; when case - f and false = false * false and 6 : while 0 - 7 : pop; input U; pop end; do f15a(3, 3) end otherwise : chillax end; input S end

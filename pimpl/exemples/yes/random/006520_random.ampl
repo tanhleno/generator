@@ -1,0 +1,1 @@
+program w5 : k : takes Ty, VGB, W7r, P : integer; q, k : integer array returns nothing chillax end main : a, G : boolean array; let dh = - not not 44 + 94 or 85 - 02; while 19 + 5 - 0690 - 8 >= (4) and 0 : let dm20 = 7760 end end

@@ -1,0 +1,1 @@
+program A : U : takes Z : integer; t, Y, wx00a, E, KY4aa : integer array; J, t : integer array; v, Eh40a, xEI, d4w : integer array returns boolean array do v(- (49) or 0); while 3100 - 2 : input PY40a; output "" end end main : U0, b, rH : boolean; chillax end

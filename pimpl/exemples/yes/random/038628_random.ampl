@@ -1,0 +1,1 @@
+program p : w : takes J : boolean array; OC, cW : boolean array; r3b, C : boolean returns boolean Co : boolean array; output "\\a0" end main : hr, J57aa, AI : integer; do N7(98800 + (1) and(265) + not 7 >= - (19) and(3), not x91 - not 3, false + 84100 = - 6140); let f70aa = array R(560) end

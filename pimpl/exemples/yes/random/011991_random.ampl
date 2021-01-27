@@ -1,0 +1,1 @@
+program h9 : LgI : takes l0u, fM, cRg0 : boolean returns integer b9 : integer array; while true /= - 4 : input w4; output "\n" end end main : output "\\" . - false = 417 - 7 . 1 . "}"; while - not false + u + 2 - 3 : when case 58 = 76 : pop; pop end case 84 : chillax end case 66 : chillax end; output 21 . ""; pop end; when case WNg or 414 - 9 /= 2 : chillax end end

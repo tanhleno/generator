@@ -1,0 +1,1 @@
+program O : F4k : takes R, fVx : integer; vN9a, R64, g, _, A, q15 : integer returns nothing chillax end N : takes L, W, J110a : boolean array; s88aa : integer; l : boolean array; I : boolean array; E, gj9aa, O5 : boolean; B : boolean; E0 : boolean; Ojz0a : boolean returns nothing chillax end main : D_ : integer array; let I = array false / 72; pop; do O(X) end

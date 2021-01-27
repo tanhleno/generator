@@ -1,0 +1,1 @@
+program l1 : Muaa : takes C0 : boolean; T, JD4, i3, b, It, c : integer array; _vV : integer; Z_Caa : boolean array; azR : boolean returns nothing output 1 - 2; when case 9 : chillax end case 791 = 3 : do q(2) end end main : let l = array Z(16900) end

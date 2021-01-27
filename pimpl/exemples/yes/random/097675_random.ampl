@@ -1,0 +1,1 @@
+program l : main : when case true and 67 / false and 73 or true and not 5 >= - not true and t and 541 - true and 14 : chillax end otherwise : pop; while 7 : pop end; when case 9 : chillax end; when case 0 : chillax end end; while - m2N[81900] or(399) - 4 - 34 < - not 3 and 249 + 81 - 89 : chillax end; let R80a[not 6 or 5 - 54] = array not 74 and 433 end

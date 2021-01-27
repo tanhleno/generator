@@ -1,0 +1,1 @@
+program W : main : when case 9 * false and true and 52 : do MfU(7 = 371, 17 = 9) end case Ji / false = - false and 60 : while 66 : chillax end; let CI[8] = 39 end case not 0570 : chillax end; let D[- false and false] = array(80800) end

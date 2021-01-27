@@ -1,0 +1,1 @@
+program f : main : F : integer; while - false and true = not 1 and 6 : chillax end; while - false * t and 1 = - 073 : chillax end; do uSw0a(- not 8 - 93300 /= - 4 - 90100, 7 - 0 < 5, 773 = 8430, 997); input J[044]; while 28 : let D23a = 8250 end; input MC end

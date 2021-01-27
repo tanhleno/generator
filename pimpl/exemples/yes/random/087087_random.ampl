@@ -1,0 +1,1 @@
+program h : main : Uo : integer array; let b570 = - not v and 171 or false and 2; do w(3 <= - (9) and 8, KK and 9 + 39900); when case - true = - 2 : when case 8 : chillax end case 11 : chillax end otherwise : chillax end; output "\n" end case 59 : pop; while 0 : chillax end; pop end case 3 : output "6"; pop end otherwise : chillax end end

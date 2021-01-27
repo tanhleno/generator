@@ -1,0 +1,1 @@
+program X : q9z : takes XQ, Rd6, O, MP : boolean array returns integer chillax end _4 : takes Dk1, cqd : boolean returns integer pop end main : o, m9, d, i, sWB0, O, L : integer array; V, i, ep3 : boolean; chillax end

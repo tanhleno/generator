@@ -1,0 +1,1 @@
+program v : H : takes b, j : integer array returns boolean chillax end main : pRZ : boolean array; let Q[- false or not 7 + false or 67 - 3] = array true - false * true and 05700 - Q and 2; output "\t" . "" . 54 . ""; do Z(- not 7 and 1 or 08 - 7, - 5); while - 2 >= 3 : pop end end

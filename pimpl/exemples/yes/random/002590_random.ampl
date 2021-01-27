@@ -1,0 +1,1 @@
+program i : Y810a : takes J, d, x, e, C4 : boolean array; M : integer array; _, qPo, x2 : boolean; d6, J : integer array returns integer array input u; do s(6 <= 5, 5) end Y4c : takes I, X, Ld30a, o : boolean array returns boolean let H = 9 = 9 end main : Gz : boolean; chillax end

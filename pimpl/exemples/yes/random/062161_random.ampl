@@ -1,0 +1,1 @@
+program r8 : w3 : takes s : integer returns boolean array while - (4) or 8 - 24800 : chillax end; input H[- 1]; input MF6[3]; input TaNaa[742] end main : output(6790) . "" . ""; output true = - 4 - 03500 end

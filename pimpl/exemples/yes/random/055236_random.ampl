@@ -1,0 +1,1 @@
+program K : n : takes k2ka : integer array; T6, A : integer array returns nothing chillax end X : takes d, t, WN : integer; F0_0a, X, y : boolean array returns boolean array output 33 . 23 . "\\"; let Q4 = array 32 end main : chillax end

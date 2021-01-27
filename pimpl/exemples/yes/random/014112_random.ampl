@@ -1,0 +1,1 @@
+program E2T0a : b8O : takes d6, f0k0a, C : integer array; TOv, S : integer returns integer array Z2, U : boolean array; chillax end Z1 : takes qzK0a, v, _, K, Z, Z : boolean returns nothing W : boolean; chillax end main : chillax end

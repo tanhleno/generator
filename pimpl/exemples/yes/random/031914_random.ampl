@@ -1,0 +1,1 @@
+program s : GyS0 : takes g7, I0 : integer returns integer array when case - not 302 and 3 >= - 143 : let xrD[53400] = array 05 end case 8 - 2 < 3 : chillax end case 1 = 638 : output "_y"; pop end case 2 : chillax end case 08 : chillax end; while 445 : do pMEaa(33); output "g" end; let p[0] = array 6010; pop end main : chillax end

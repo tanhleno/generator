@@ -1,0 +1,1 @@
+program j : Y0 : takes s : integer; W, a : boolean; w12 : boolean array; f8 : integer returns integer do e(- true and 5 + 5 = - 5) end main : K, _90, B, r8 : boolean; T, U : integer; r : boolean array; chillax end

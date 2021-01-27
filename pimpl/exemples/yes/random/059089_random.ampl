@@ -1,0 +1,1 @@
+program s : v : takes A : integer array returns integer chillax end y7 : takes g, P, O : boolean array returns integer while - 033 - 4 : chillax end end p : takes OG, O, m, J21, E0e0 : integer array returns nothing chillax end main : g : boolean; pop 343 and(4740) and 8 <= - false and 33 end

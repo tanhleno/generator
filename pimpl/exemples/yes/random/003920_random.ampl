@@ -1,0 +1,1 @@
+program r : N : takes qK, al, r, g, z : integer array returns nothing when case Pu30 + 23 : chillax end otherwise : input z end end main : B8 : integer; let kX = - not not 9 rem not 56 /= - true and 6 + 37 - 4 end

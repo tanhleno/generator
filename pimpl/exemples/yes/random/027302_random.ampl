@@ -1,0 +1,1 @@
+program iKKaa : Hl : takes t, z : integer array; Q63a, K, W1ba, b : integer returns nothing when case - (00) and 3 /= 7 - 41 : do D(3); do z(028) end case - 2 = 4 : when case 6 : chillax end end; while 1200 : output "" end end PC4 : takes kr8, u1O, p, Z6y : boolean; uJP : integer; z : boolean array; j8, x, P650a, j6 : integer array returns nothing chillax end main : input i4 end

@@ -1,0 +1,1 @@
+program m : o : takes X, v, Q5 : boolean array returns boolean array pop 96 - 3; pop 36300 = 2; output "+" . "" . "" end main : do j13(false / true / (44) + true and false and 933 - false or 2 = not true + l or 8260 - 5) end

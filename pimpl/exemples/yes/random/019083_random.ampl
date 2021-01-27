@@ -1,0 +1,1 @@
+program x : G : takes z, f : boolean array; d0kaa, N0, x : integer array returns nothing PxY, Y : boolean array; q, Mn : boolean array; input d74aa[false + 5 - 988]; do g8yaa(- 78) end main : chillax end

@@ -1,0 +1,1 @@
+program s : R : takes V, K : boolean array; lO, p, X67aa, j, Z : boolean array returns integer array input EM[- D or 10 - 770] end A : takes K3I : integer returns integer array chillax end u : takes U : integer array; F : integer array returns nothing r : boolean array; chillax end main : x : boolean array; l3, Q : boolean array; chillax end

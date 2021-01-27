@@ -1,0 +1,1 @@
+program r : j : takes x9, Y9, X7 : integer returns nothing chillax end main : BNN, _, l : boolean array; x_, q, W : integer array; do GG(- (6620 = 349) * 5070 + d, - true + 17 < (9) and 9 or 738, - true and 4, 51 - 0); pop end

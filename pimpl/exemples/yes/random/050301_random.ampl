@@ -1,0 +1,1 @@
+program Q : LB0 : takes R66 : integer; N, M : boolean; R, kp, H : boolean; gL, H7 : boolean; o05a : boolean returns nothing input p7h[cC]; do M(- 5 >= 74200); input q; while 6 : pop end; when case 3 : chillax end end main : dY, x : boolean; ZQSaa, K : integer; R8 : boolean; V : boolean; _ : integer; chillax end

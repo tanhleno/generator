@@ -1,0 +1,1 @@
+program gN : r2 : takes b, R, P, n, N : integer; e6 : boolean array returns nothing VP, p4 : boolean array; B4, _ : boolean array; input xX[- I + 4 - 71200] end t6X : takes dTdaa, J5 : integer returns boolean y, E, q0A : integer array; output 64 end main : c02a, bf, y, Y, W3vaa : integer; chillax end

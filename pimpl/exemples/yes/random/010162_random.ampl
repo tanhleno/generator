@@ -1,0 +1,1 @@
+program P : o : takes T, V, i : boolean array; v : boolean array returns nothing x : integer; g4, c : integer array; O, C : integer; let V[- v] = array 2; let E[- 04] = 0330; when case 423 = 1 : chillax end case 1 : pop end end main : pop(06); output - true and 16 or 02; while false and 4 - 787 - 7 : output 5 end end

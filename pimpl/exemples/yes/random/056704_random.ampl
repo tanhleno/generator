@@ -1,0 +1,1 @@
+program pP : tt0a : takes p : integer array; W4 : integer; R6 : boolean returns boolean input qxo; pop 12400 = 2 end main : M, m7, c, g60aa : boolean; when case(0 = 7) / F + true and(5320) and 4830 : input Pf[- 25]; output "" . 49 end otherwise : chillax end; when case - (32) : chillax end end

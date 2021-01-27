@@ -1,0 +1,1 @@
+program n : cs0a : takes mr : boolean array; ll, I : integer; V, u : integer returns nothing pop 2 - 1160 end main : T : boolean array; output "" . 85 . "*" . 48 . 9; do H4(- true / QE8aa and 42, - U or 810 - 8 > - 943 - 8, - 6 - 5, 64 = 6); input I[- not 7 and 7] end

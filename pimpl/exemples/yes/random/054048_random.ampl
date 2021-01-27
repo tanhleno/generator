@@ -1,0 +1,1 @@
+program n8 : U : takes R : integer array; C2, Wt8a, y : boolean array returns nothing a : boolean; _ : boolean array; let H6w0a[- true or 8 - 7] = - 8 end Jm : takes cxI0a : boolean array; B, T : boolean; F, l, m, q : boolean array; b, K : integer returns nothing output 01 = 833 . 9 . "7N"; input r7 end main : chillax end

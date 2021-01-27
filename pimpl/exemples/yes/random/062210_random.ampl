@@ -1,0 +1,1 @@
+program tH : O5f0a : takes Ba4 : integer returns boolean chillax end A : takes l6, UkG : integer; DNY0a, o64, fXh0 : boolean; A : integer array returns nothing chillax end l : takes R1 : boolean array returns boolean M : boolean array; FK4 : boolean; E : boolean; s : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program G1 : g : takes r6Aa, f8 : integer array returns integer array do W(false and 2 or 80, - 0 - 29 <= 8760) end le : takes S4 : boolean returns integer a, S0, U, g : integer array; input V end main : chillax end

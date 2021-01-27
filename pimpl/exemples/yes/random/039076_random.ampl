@@ -1,0 +1,1 @@
+program Q : W : takes f : boolean array; vR, R : integer; N : integer array returns boolean pop; pop 46 = 934 end main : while - R[5] / not S47a < (1640) * 37 or false : while - 2 - 0 : chillax end end; output ""; while - false : chillax end; pop; pop end

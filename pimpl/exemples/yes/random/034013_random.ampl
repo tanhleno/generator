@@ -1,0 +1,1 @@
+program j : l : takes k7L : boolean; DMn0a, XB, s : integer; k45, V : integer array returns nothing K, c1, f3i0, es, p : integer; E, L, R, z : boolean; let pDk[- u4 and 2110] = array false and 3; let E = array - 72 - 0 end main : chillax end

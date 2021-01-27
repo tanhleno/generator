@@ -1,0 +1,1 @@
+program U : main : when case - 0 and Bl(14) * XH and 205 < - t0(689) * not 6 and 3 - J2I0 : let H[- 4] = array - 9 end case - q * 21000 and 4 + 23 and 31 > - not 15 or 8 - 3 : chillax end; input z[not(7) * true + 22 and 74600 + 70]; output ""; let K[- 57800 - 7] = 3 = 1 end

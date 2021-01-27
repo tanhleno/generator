@@ -1,0 +1,1 @@
+program OS_ : h70a : takes o : boolean array; H, ODAaa, D9q : boolean returns nothing v : boolean array; GMB, i2baa : integer array; Y, B : integer array; while 99 + 2 < - 53 - 5 : chillax end end main : J2 : integer; O, F : boolean array; chillax end

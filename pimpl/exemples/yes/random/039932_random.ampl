@@ -1,0 +1,1 @@
+program g : F : takes z : boolean array; ws8 : boolean array; g : integer; TRFaa : integer returns integer array while X8F0a or 1 - 4 = - 1 - 70000 : chillax end end main : Ofma : boolean; k : integer; chillax end

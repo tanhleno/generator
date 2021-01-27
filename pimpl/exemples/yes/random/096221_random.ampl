@@ -1,0 +1,1 @@
+program V9x : main : when case - not qZ / false + not oo * false and 96 : chillax end case - (1) / 5 and 4 + (3) + 8 > - true : when case 6 : do y41a(060) end case 8 : pop end otherwise : chillax end; pop 55200; input tb end case 3 - 7 - 9840 : output "5" . "\n" end otherwise : chillax end; let Xq[- N / t0 + false and 2 - 31 - 7] = E8oa - 5 end

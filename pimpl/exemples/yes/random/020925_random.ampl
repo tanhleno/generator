@@ -1,0 +1,1 @@
+program A : J : takes U, X : boolean array returns boolean array iM : boolean array; when case - false + 83 : chillax end case 20 - 0 = 1810 : chillax end; let t[- 700] = 17 end s : takes ioB, T, ug : boolean returns nothing when case - 9010 - 9 : chillax end otherwise : output ""; pop end end main : N : boolean; chillax end

@@ -1,0 +1,1 @@
+program Y : main : GB : integer array; while - x / true * not 41400 and 5 = - 73 / 8 and 2 : let k[2 - 29] = 30100 end; input O; while 076 + 9 : do p1(3); while 69 : chillax end end; pop 1 = 6; when case 31 = 004 : chillax end case 148 : pop end; do VV90(479, 6) end

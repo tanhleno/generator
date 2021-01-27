@@ -1,0 +1,1 @@
+program G : main : when case - (82) rem not not 3 + (116) rem not 7 - false and 3 or 7910 = true and 8 and 0 : when case 1 - 1 : do F(7) end case 6 : chillax end case 7 : pop end case 3 : chillax end end end

@@ -1,0 +1,1 @@
+program O01 : gf6 : takes B : boolean array returns integer array I, F, b27 : integer; input C end F8 : takes h, Ky30a : integer array; O : boolean returns boolean B4ja : integer; chillax end X : takes l : integer array; r3a, f, E3 : boolean; A, k160a, xR40a : integer array; n : integer returns integer let d = array 38 end main : H, OE2, qg : boolean array; chillax end

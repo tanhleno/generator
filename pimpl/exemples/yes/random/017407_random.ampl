@@ -1,0 +1,1 @@
+program b00 : T : takes z, F900a : boolean; I, W6o : integer; t : boolean array returns nothing c : boolean array; do P0(false or 8); input b; output 4 . 44 end PN : takes o79, T : integer; vK : integer; W : boolean returns boolean array chillax end main : Y : integer; chillax end

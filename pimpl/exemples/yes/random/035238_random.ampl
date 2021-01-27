@@ -1,0 +1,1 @@
+program waya : B : takes m : boolean; q, J : integer returns nothing chillax end y : takes Pl : integer array returns nothing aU5, A, zf, u : integer; pO : boolean array; G7 : boolean; do K(- 4 /= 6); do n(04, 1); pop end K : takes s : integer array returns nothing chillax end main : q, E : boolean; chillax end

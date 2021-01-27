@@ -1,0 +1,1 @@
+program VM : va : takes o, DeA : boolean; F9 : integer array; D : boolean array returns integer chillax end gy : takes NU1a : boolean; g : integer returns nothing do x(69, 505); do N(0, 8, 27) end main : chillax end

@@ -1,0 +1,1 @@
+program L : main : L77 : integer array; when case - false rem true and not 2 and 2 = - not jt rem(55) + not 817 and 959 : let OD[00 - 1450] = array 4 - 85200; pop 7; pop 08; do V(1); output "" end case false / not 1 : do izT(0 = 72, 6990); do TjDaa(50, 75) end end

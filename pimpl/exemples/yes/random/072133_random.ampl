@@ -1,0 +1,1 @@
+program Gp6 : main : Q0, h, aM2 : integer; j, OSC : boolean array; C : integer array; _ : boolean array; v : boolean; when case true and _(171) rem not 4 and 4 /= true : chillax end otherwise : chillax end end

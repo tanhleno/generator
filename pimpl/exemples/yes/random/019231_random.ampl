@@ -1,0 +1,1 @@
+program oHG : M : takes F, S76aa : boolean array; g, P : boolean array; B : integer array returns boolean j : integer array; while - not 15 and 72 + 9 - 18500 = - 80 - 6780 : chillax end end main : _, nA00a, N4, T : boolean; input a[6 rem 10900] end

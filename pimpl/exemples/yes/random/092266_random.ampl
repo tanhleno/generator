@@ -1,0 +1,1 @@
+program m5 : main : output - 1 - true > - oB70 . "2\""; input gE2; when case - 37 >= 5 : chillax end case - 6250 - 5 : pop; output "" end otherwise : do z(7); while 03 : chillax end end; input gG[- 42]; pop end

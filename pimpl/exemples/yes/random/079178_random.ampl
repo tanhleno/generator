@@ -1,0 +1,1 @@
+program pcX0a : main : T : boolean; W2 : boolean; g0, v, X : boolean; when case true - x4v - true or 3 - 84 >= false - true and 6 or 9 - 1 : chillax end otherwise : chillax end; when case - not 7 + not 8 and 3 + 8 : input m[39] end; while X9 and 2 : chillax end end

@@ -1,0 +1,1 @@
+program C0 : vc8a : takes h, J5, FS : boolean; K, Ow6a : boolean; IO : boolean array; G4r : boolean returns nothing chillax end J9 : takes E6, F, q : integer; X2K0, o0, A0 : boolean array; ak, y : boolean returns nothing chillax end main : chillax end

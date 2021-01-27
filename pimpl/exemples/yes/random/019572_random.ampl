@@ -1,0 +1,1 @@
+program iH8 : H : takes dh70a, e : boolean array; o9, K2 : integer array returns nothing I : integer array; when case v and 8 - 7 - 0 : do _(0, 9); pop end case 4 : chillax end case 43400 : input O; pop end; let A = array - 098 end main : d : boolean; chillax end

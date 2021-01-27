@@ -1,0 +1,1 @@
+program Ng : U8 : takes s0Q0a, c, V : boolean array returns integer chillax end pg : takes Q : integer array returns nothing lw70a, j, p : boolean array; when case - 32 : when case 74 : chillax end; let zE = 5 end otherwise : output "\t1"; pop end; while 262 = 0 : chillax end end main : chillax end

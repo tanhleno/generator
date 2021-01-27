@@ -1,0 +1,1 @@
+program T : c0 : takes DR70, mJ20a : integer array returns nothing MG4, Y58 : integer; output 963 - 14 end main : do j(j1ta(1), - true or true and 944); input E[- El(63500) + true or 0 - 7]; while(82) + 781 : when case 5880 : pop end; let u6 = 6; let a = 52; pop end; let p6 = 172 = 00; pop end

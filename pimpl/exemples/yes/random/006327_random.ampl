@@ -1,0 +1,1 @@
+program gG : Sl : takes M, F27, R, L1 : integer; F, J, R, iT, nd6 : integer array; sC4 : boolean array returns integer array while - false and 9 < 484 - 67 : chillax end; do M1(- 851 /= 806); input r[1]; output 1; output "PB"; output ""; pop end main : B7u, t, n : boolean; m, J : integer array; n, S1, ZUza : integer array; D : integer; input d1 end

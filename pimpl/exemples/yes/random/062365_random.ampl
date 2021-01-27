@@ -1,0 +1,1 @@
+program Q : k : takes Z : integer returns boolean p0, t450a, Q : integer array; do u(- true and 012 or 88 - 56) end main : e1, m : integer array; j, hn : boolean array; D, M5 : boolean; L84, wm20 : boolean; chillax end

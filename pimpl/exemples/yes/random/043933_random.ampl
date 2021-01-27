@@ -1,0 +1,1 @@
+program Vu40a : P : takes S : boolean array returns nothing G, R1W, q2, qP, U5s0a : boolean array; Ov4a : boolean; _, a : integer; a, Mg : boolean; a : boolean; v4 : boolean; do O(true and 37 or 48 - 9 >= - 08900, 23, 3 = 20, 1, 33) end main : i : integer array; chillax end

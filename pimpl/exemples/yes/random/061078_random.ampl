@@ -1,0 +1,1 @@
+program VfE : fCI : takes l : integer array returns nothing P97 : integer array; chillax end a : takes ql, Q : integer; O, w : boolean returns integer pop; output "\\\"" . 02700 . "" end main : FY : boolean; when case - (0 = 888) + o(0) and false : chillax end case y(6) rem true < false : chillax end end

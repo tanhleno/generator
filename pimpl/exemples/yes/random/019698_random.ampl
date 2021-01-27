@@ -1,0 +1,1 @@
+program Yy : i16 : takes pz, f : boolean array; e7 : boolean; f, t2L0 : boolean array returns nothing As : integer; chillax end J1 : takes i : boolean returns nothing chillax end R9w : takes k : integer; _ : boolean array returns nothing AEQ : boolean; r3 : boolean; when case 13 : chillax end; input N[92900]; do yJ8aa(4) end main : chillax end

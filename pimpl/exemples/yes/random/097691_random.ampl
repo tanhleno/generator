@@ -1,0 +1,1 @@
+program S7 : main : when case true or not M * false and 281 or mqL0 and 9 : chillax end; while - 7 and false and 8 or not 9 and 3 < G9 and 19 : let RJ = 87; output 1 end; pop - 067; while 51100 - 1 : output "" end end

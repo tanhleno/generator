@@ -1,0 +1,1 @@
+program I : N : takes I5 : boolean returns integer array let O[- not 9] = - 088 < 6 end Q40 : takes xg : integer array returns integer _8 : boolean; f9V0a, Wx6, P : integer; F, fU : boolean; e : boolean; while - 91 - 315 > 8 : pop end; while 6 = 722 : chillax end end main : j, j4 : boolean; j79a : integer array; chillax end

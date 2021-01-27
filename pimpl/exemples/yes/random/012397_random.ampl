@@ -1,0 +1,1 @@
+program A0 : PPqaa : takes szl, r, R : boolean returns nothing N0D : integer array; V6, yR : integer array; chillax end C : takes W0 : integer array; K14 : boolean array returns nothing v : boolean array; OD : boolean; S, I : boolean; g : boolean; chillax end main : pop false = not 22 or 8 - 92; output - false end

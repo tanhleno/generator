@@ -1,0 +1,1 @@
+program D : main : _, x, L : integer array; B, U8, D : integer; do _(7 / h530a[0] + not 49200 > 130, false + 2000 and 804 >= - (087) and 470 - 732); let Cm[- not(1) rem(861) and 9] = not 78 and 82 - 5 - 7; do B(1 or 4); while - 2 - 7 = 02 : when case 85300 : chillax end; output "%"; pop end end

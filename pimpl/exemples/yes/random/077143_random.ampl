@@ -1,0 +1,1 @@
+program k : main : iX60a, Qn5 : integer array; f, R, k3, e : integer; M : boolean array; N4b, pv5 : integer array; YZ, r6baa : integer array; pop - 3 * not 2 + false - 7; let m = - P and 7 or 4 - 6 < 903; do g(true and 9 > - 7310) end

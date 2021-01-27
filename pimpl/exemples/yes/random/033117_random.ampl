@@ -1,0 +1,1 @@
+program R : L : takes w, ceb : integer returns nothing when case - g99 and 14 = - 9 : output "3%" . ""; pop; input N8n end otherwise : chillax end end main : L : boolean array; vz, Z, m : integer; X : integer; O : boolean array; when case - true + (7430) * z and 782 or not 9 or 3 - 1 > - 6 * false + not 8 + 01 - 5 : input C[92 - 077]; input QH[68] end end

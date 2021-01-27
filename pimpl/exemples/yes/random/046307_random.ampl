@@ -1,0 +1,1 @@
+program m0 : o : takes E : boolean returns boolean input D; while - 0 : do s(0); do x(4) end end main : nZ, i : integer; dz : integer; V : boolean array; W05 : integer; tnqa, xe0aa : integer; chillax end

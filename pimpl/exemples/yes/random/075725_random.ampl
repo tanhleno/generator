@@ -1,0 +1,1 @@
+program kk_ : main : l, N : boolean array; while - 7 rem true and z9 and 2 + (6) and true /= - (0) : let o[51 - 2] = array - 3 - 85 end; while - 127 * false + g >= - not 82 and 47 : while 1 = 3 : chillax end end; pop end

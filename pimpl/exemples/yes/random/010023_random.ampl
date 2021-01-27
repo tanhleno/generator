@@ -1,0 +1,1 @@
+program h : ax00 : takes x4z, i, E9ta : boolean array; B : boolean; Qn : boolean returns nothing W, t : boolean array; F1, x6 : boolean array; _, x, v : integer array; K : boolean; qd9 : boolean; b8 : boolean; while - 3 and 6 - 8 /= - 8 : chillax end; pop 23000 end main : y : integer array; pLca, c : boolean; chillax end

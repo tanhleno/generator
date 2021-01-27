@@ -1,0 +1,1 @@
+program M : Du1aa : takes I1x0a : integer; Q : boolean returns nothing chillax end main : while - (15 = 87) and P0[1] * true - false + (77) : let H0m = 1; input D5pa[1]; while 28400 : pop end end end

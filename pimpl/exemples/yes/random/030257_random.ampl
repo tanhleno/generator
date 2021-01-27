@@ -1,0 +1,1 @@
+program TW0 : G : takes u70, w9i : integer array returns nothing chillax end k66a : takes p : boolean array; f, Ez, JZ : boolean array returns nothing v : integer array; chillax end main : Y : integer; pop - 6 * true; output "XK\"a" end

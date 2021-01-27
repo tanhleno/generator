@@ -1,0 +1,1 @@
+program o : main : do p(- 1 and(851) + (9) - true or 45200 = - 3 * false or true and 2 or 9, - (42) >= 71, - (1) and 5 - 67); let Fn[true * not 46 and 45 or 125 and 6 + 0 - 8] = array - V[160] rem false + true + 08700 end

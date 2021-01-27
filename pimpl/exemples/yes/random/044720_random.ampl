@@ -1,0 +1,1 @@
+program I : oP80 : takes L03 : boolean array returns nothing C8 : integer; V, U2 : boolean; a, L, EO : boolean array; chillax end main : output "" . c and 144 . - 9 - 6 . "["; pop; while - t and 8 or 31 - 6 = 54300 : when case 35 : chillax end; while 3 : chillax end end; pop end

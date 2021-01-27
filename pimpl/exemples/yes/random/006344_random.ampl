@@ -1,0 +1,1 @@
+program _kb : w : takes o, jA, S, a : integer; jvN, Hns, f3, q : boolean returns nothing when case not 677 and 85 : chillax end case 2 - 62 : pop end case 07 : while 12 : chillax end; pop end case 9 : chillax end end main : Z : boolean array; do LN(- (7 = 64400), - 3 and(2) and 2, false >= 2, 7 - 6 < 19, 6170 = 1) end

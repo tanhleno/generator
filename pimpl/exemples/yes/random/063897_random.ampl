@@ -1,0 +1,1 @@
+program g : P : takes FX : integer returns nothing chillax end main : r, G, FH5 : boolean; do wc(4 rem not y + (4) rem 914 and 9 or not 9 - 8620 - 448 > - true and true, - (6) - false and 00 < - (588) or 0, 3550 and 5 + 25 - 99 /= 29, - 901 - 3 /= 4, 19500) end

@@ -1,0 +1,1 @@
+program I : s : takes H, Jb, x5haa, w810a : boolean array; L, v : integer array returns nothing T : boolean; n5G : integer; u, VYS, b : boolean array; chillax end main : dr2a : boolean array; when case - not true / (02) : chillax end case not true >= - true and 0 or 60 - 4 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program l : X6 : takes S : integer; zA, E : boolean array; f6 : boolean array; n2, y : boolean array returns boolean input m08[not 25 and 0 - 605] end main : P : boolean; I : boolean array; q, W : boolean array; when case - P or false : chillax end otherwise : chillax end end

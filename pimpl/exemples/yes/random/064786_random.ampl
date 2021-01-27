@@ -1,0 +1,1 @@
+program O80 : h : takes q8T : integer returns nothing RC0aa : boolean array; chillax end main : l : boolean array; output "q" . - true . - 4 . 93 = 6 . "" . ""; input B[1 rem(8) and 84600 + 463 - 6]; while - sb and 3 : chillax end; output ",9" . "Q"; pop; output "'" end

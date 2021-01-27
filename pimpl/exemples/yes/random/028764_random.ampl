@@ -1,0 +1,1 @@
+program Cv : i : takes M9, U : integer array; P59 : integer; pZ : integer array returns integer when case - (800) or 9 > 7 - 82500 : chillax end otherwise : pop end end z : takes gYi, Vm, l6 : boolean returns integer array chillax end main : chillax end

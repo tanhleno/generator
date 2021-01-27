@@ -1,0 +1,1 @@
+program hHc : q : takes P, A510, E1b : boolean returns nothing chillax end R : takes Jo, G, s, I : boolean returns boolean chillax end k : takes zP, x : integer; D, V2, y : boolean; m, G : boolean returns nothing YT, B2, H22a : integer array; do U(326); input v[589] end main : input n end

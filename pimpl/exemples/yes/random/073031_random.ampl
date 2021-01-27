@@ -1,0 +1,1 @@
+program P : main : P, t, P : integer array; input S51a; output ""; when case 0 : while 784 : pop end; input r5; do i(3); pop end case - 58 >= 19 : output ""; let He = 18 end case 8 = 454 : input di00a; pop end otherwise : chillax end end

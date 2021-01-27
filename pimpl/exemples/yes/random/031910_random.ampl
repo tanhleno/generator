@@ -1,0 +1,1 @@
+program NR : O : takes m, GMX : integer returns integer array when case(01) - 030 - 25 : chillax end otherwise : chillax end end w7 : takes s9 : integer array; U1, kvU, W : integer array; x, aS, W, Rdj : integer array returns nothing chillax end main : K48a, r : integer; b, X : integer array; JMu : integer; chillax end

@@ -1,0 +1,1 @@
+program v : mp : takes a86 : boolean array; FX : boolean array returns nothing while M and 22 - 7 >= 5 : chillax end end main : K, S6, t : boolean; R : integer; do _(- false rem not e0 * (6) and 3 or t4 rem I2 and 3 or true /= 5 * not 0 and 468 - g - 6, true and iqJaa and 89 or true and 3 + 3 - 4490 >= - 84); input nZ[false / (5) and 39] end

@@ -1,0 +1,1 @@
+program U6G0a : U : takes Q : integer; S07aa : integer returns boolean array chillax end main : B2w0 : integer array; x72, U2, iX, zR50 : integer; while - true + true and false : pop; while 82 : pop end end; input Lk20[- not b] end

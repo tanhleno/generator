@@ -1,0 +1,1 @@
+program n : W : takes c050a, j : integer array returns integer array D, F : boolean array; e, j, ku5aa, N4 : boolean array; pop end w : takes b34 : integer returns boolean array chillax end main : when case - (5) /= - true : chillax end case - z(67) or false and 4 - 4 >= - not 626 and 75 : while 3 = 40 : chillax end; do _(45900, 38) end; output "60!" end

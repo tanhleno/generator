@@ -1,0 +1,1 @@
+program D : Z240a : takes g, nAM, U, w : boolean returns integer q, F : boolean; chillax end main : uj, o : integer; XQ2 : boolean; G : integer array; _, n990 : integer array; AId : boolean array; when case not(9) * (1) + not(641) or AJ7 or 48 : chillax end; do Q(false rem not 3 - (92) and 60, not 0500 + 8 < 612 - 2) end

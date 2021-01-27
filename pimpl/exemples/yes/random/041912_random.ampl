@@ -1,0 +1,1 @@
+program i12 : ewL : takes J : boolean array returns boolean array while 6 and 7260 + 79 - 47 = - 57000 - 92 : when case 6 : chillax end otherwise : chillax end end; while - 04900 - 85 = 6 : chillax end; while 72900 = 32 : chillax end; pop; input dM; input H end main : X9c0a, f, T, tT, _7 : boolean array; let m8r[false + false] = Ag or not 6 and 71 - 4 < false and 852 + 64 end

@@ -1,0 +1,1 @@
+program y : main : Q, Ql, fy60a : integer; I9, E, z : boolean array; when case - 7 rem true <= - c3 + c - 3180 : chillax end case - not k / 56 - yFp and 5 < - true and 805 : when case 980 = 28 : let lJEaa = 9; pop end case 633 : pop end case 631 : chillax end; while 30 : chillax end; while 47 : chillax end; input p; pop end case(8) : chillax end end

@@ -1,0 +1,1 @@
+program KK : O : takes s : integer array returns nothing Ic, m : integer; Bq5 : boolean; q4E : boolean array; pop - 8 - 704 <= 9 end l : takes G7T : integer array returns integer array output 915 end main : Dk : integer; chillax end

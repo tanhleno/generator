@@ -1,0 +1,1 @@
+program Xn9aa : main : when case true = true rem G : when case 85 : chillax end case 91 = 046 : while 75 : chillax end; pop end; output 8 . 4 end case(45) < - not 68 and 72 : input q end case - 1 or 0200 - 20 : when case 9 : chillax end otherwise : chillax end end; when case not 8 / m : do is70(58 = 31, 5, 8) end otherwise : input j; input r; do c7R0(42600) end end

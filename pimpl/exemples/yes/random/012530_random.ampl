@@ -1,0 +1,1 @@
+program M7 : g_S : takes p, dot0, s : integer; c, N, S, a, d3, t9, Wr9 : boolean array returns nothing chillax end U : takes Tw, VI00a : boolean; h4_, z3 : integer returns nothing I890a, V, X : boolean array; chillax end main : r : integer array; K, OB, F, Bf0a, i, s : boolean; chillax end

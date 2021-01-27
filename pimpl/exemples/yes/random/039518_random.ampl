@@ -1,0 +1,1 @@
+program tj : o1 : takes l : boolean array; t4L : boolean; y, AeW, M9, qp1aa : integer array returns nothing C : boolean array; output - 6; when case - 70 - 905 : chillax end case 22300 = 85 : chillax end; output "" . "B"; pop; let L = 3 end main : s : boolean; chillax end

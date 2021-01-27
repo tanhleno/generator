@@ -1,0 +1,1 @@
+program h : h : takes c3 : integer; B6 : boolean array returns boolean W : integer array; r : boolean; chillax end main : FF : boolean array; do JU5a(u(3) / true / true and 44 + b[07] rem(8770) and 1 < - not MG5) end

@@ -1,0 +1,1 @@
+program HF30 : main : S : boolean; T : boolean; KG : integer array; when case(8 = 45) / not not 66 * not 4 and 6 : when case - 83 /= 82300 : chillax end end case 27 >= F and 56 + 22000 - 076 : chillax end end

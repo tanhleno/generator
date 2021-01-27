@@ -1,0 +1,1 @@
+program cC : main : n, uK, Dl4aa, U0S : integer array; when case 251 + false - v and 05 + 9 - 24 = true : output 9 = 71 . ""; pop; do v(0); input gs end case - false = - false and 16 : chillax end case(6) and 3780 or 0 : chillax end case - 5 : while 43 : chillax end end case 87 = 7 : chillax end; pop true and 2 /= - 2 end

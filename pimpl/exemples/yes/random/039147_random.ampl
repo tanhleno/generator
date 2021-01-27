@@ -1,0 +1,1 @@
+program um : s : takes R : boolean array; ao, m : integer array; JbU0 : boolean; U, dy, LHk, i4, T : boolean array returns nothing CY, y : integer; Eg7 : integer array; n : integer array; let _f7[- false and 25 + 3 - 3] = array F and 5 end Z : takes l7O : boolean array; e : integer returns nothing chillax end main : chillax end

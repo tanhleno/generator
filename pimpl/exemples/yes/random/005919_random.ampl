@@ -1,0 +1,1 @@
+program t : R : takes uk6aa, g, B, I : boolean returns boolean input e[- A and 8 - 87 - 1] end main : l56 : integer array; when case D and 8 and s4 and 0 < - not true : chillax end; while - false * 37 and 0 > 92 and 69 : do H(248) end; let uH[true and 0 or 10 - 35] = array - (932) and 5; input q[- 06] end

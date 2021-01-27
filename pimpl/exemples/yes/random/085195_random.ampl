@@ -1,0 +1,1 @@
+program c : main : k : integer; when case false and 5 rem false : chillax end case - 27500 : chillax end case - (293) : while 81400 : pop end; input L61a end otherwise : chillax end; do r(true * (0) and 637 = - 471 and 45 - 8 - 78, P and 861 <= 22) end

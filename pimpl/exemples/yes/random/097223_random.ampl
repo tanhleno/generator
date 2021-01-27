@@ -1,0 +1,1 @@
+program q6 : main : when case not not 0 : chillax end otherwise : when case 820 : let E = 446; pop end case 9 : chillax end otherwise : pop end end; while - 55500 rem 5 and 36 > - false - 9100 - 8 : when case 9 = 310 : pop; pop end case 1 : pop end otherwise : chillax end end; do y(- true and 7 or 7 - 755); do k(- 056) end

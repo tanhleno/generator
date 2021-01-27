@@ -1,0 +1,1 @@
+program x : g30 : takes Ae4, klhaa, K : integer; t, MW, R : boolean returns integer array B : integer; w1m0, l : boolean array; Q1, xgpaa : integer array; l : boolean; q3 : boolean; chillax end main : J, T7V, H8 : boolean; chillax end

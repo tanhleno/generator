@@ -1,0 +1,1 @@
+program T : M8D0 : takes Q0 : boolean returns integer array y5U0 : integer; G : integer; let U4 = 4 >= 719 end main : N7, p3r : boolean array; F, ek : boolean array; do B9K(false - false / true and 9, (4)) end

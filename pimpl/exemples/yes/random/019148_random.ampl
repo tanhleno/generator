@@ -1,0 +1,1 @@
+program Rp7aa : K : takes H7, m : boolean array; P, D8iaa : boolean; ELk0a : boolean; R, oC, O, O9 : integer array; TM3a, K2, u3 : integer returns nothing let Fv60[(774) and 23 + 6 - 4] = - 386 >= 94700; do d(55 >= 5); while 9 : chillax end end main : output ""; output(150) + 240 - 4 . - 52600 /= 264; while - true + 8 >= - 7 : chillax end; pop end

@@ -1,0 +1,1 @@
+program _ : U2 : takes qND : boolean; r3, zr, A, z, c3_aa, bN20a : integer; b : integer; Cw : boolean returns nothing X : boolean array; L6b : integer; chillax end i : takes _ : integer; w : integer returns nothing h : boolean array; input u[- 207 - 96]; do l(04, 3, 735) end main : chillax end

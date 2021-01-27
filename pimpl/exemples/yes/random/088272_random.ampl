@@ -1,0 +1,1 @@
+program JoEaa : main : input X; while 3 - (9) and 325 >= - false : chillax end; when case N35 and 62 + 03 - 46 : chillax end case - 6 - 70 : chillax end case 8150 = 8 : chillax end case 0 : chillax end case 5 : chillax end otherwise : do P(02); while 10 : chillax end; pop end end

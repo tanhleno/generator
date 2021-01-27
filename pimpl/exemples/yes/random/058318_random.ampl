@@ -1,0 +1,1 @@
+program G4A : z : takes i : integer array returns boolean jk : boolean; Q2, E, ddv0 : integer array; w : boolean; e : boolean; Ac : boolean; input qC[- true and 9440 or 5 - 620]; while - 4 < 1 : chillax end; let d[2] = array 2; output ""; do S(67); do VwT(35) end main : output - false * 13 . "b\\" . "" . "" . 1 . 0 end

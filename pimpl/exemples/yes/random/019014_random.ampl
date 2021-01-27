@@ -1,0 +1,1 @@
+program U : Y4i : takes s, F62 : boolean array; E, wF3, f : integer; eKU : integer; Y1_aa, m, h, X : integer returns nothing chillax end main : input q[(6) - Y * 704 and 1 + 53 and 485 - 0]; pop(0660) <= 483 - 41; let k = array true and 4 - 1; let I[33 - 0] = 62700; when case 866 : chillax end case 7 : chillax end otherwise : pop end; input cx[738]; input C8; input E; pop end

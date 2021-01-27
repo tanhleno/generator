@@ -1,0 +1,1 @@
+program x0 : main : let u[- false * not not 9 rem not 6100 and 0] = array not not 9 + true + 3; pop false + 1 - 9; let k = array not 7 and 41; while 1540 < 0370 : input J; output "" end; while 4 = 0 : output "&"; pop end; when case 9 : chillax end case 90200 : chillax end otherwise : chillax end end

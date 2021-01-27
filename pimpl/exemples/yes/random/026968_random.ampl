@@ -1,0 +1,1 @@
+program W9b : r860a : takes s, G : integer; gd : integer returns nothing o2, Rbv, g : boolean array; J10a, A : integer array; s : integer; pop 33 - 9 > 656 end g1 : takes m, M, GO1aa, K0 : integer array returns integer chillax end main : pop end

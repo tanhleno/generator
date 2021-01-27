@@ -1,0 +1,1 @@
+program C : o790a : takes N : boolean; t, g : integer returns nothing n, D3 : integer; O2Za, Y : integer array; q : boolean; oT, N6x : boolean; do y(- 61 = 0 - 91) end main : let B[- false * false / false] = array 07400; while not bl or(3) and 5 : chillax end; output - 829 . 11 = 0 end

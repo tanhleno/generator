@@ -1,0 +1,1 @@
+program Q4 : main : output - not p8r * true + (24) and 92300 - 02500 - 21 = false; when case - D(0) * 3 or(798) : output 12 . "<"; let VU[4] = array 77 end case - 8 and 31 - 3 - 0 >= - 82 : chillax end otherwise : while 6 : chillax end; do c25(5) end; input Q; do N(- 79) end

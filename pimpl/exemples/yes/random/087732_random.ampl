@@ -1,0 +1,1 @@
+program v0V : main : i2 : integer array; while not false and false rem not 1 and 28 - false or 57 - 2 - 3 < - (69) rem true : chillax end; do Vd(- T[88] > 5 and 340); let s54[true and 8] = array false and 1; let h = array - 532 - 12200 end

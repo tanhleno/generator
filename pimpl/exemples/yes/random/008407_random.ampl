@@ -1,0 +1,1 @@
+program C : A74 : takes f, r7U, mk, Yc : integer returns nothing while - not 1 - 731 - 7 : chillax end end main : when case - false * TO or 07 rem 9 and 5930 or true and 1 - 43 <= 4 rem true and 3 : do GY(00800 - 7) end case false rem 9 + 0900 : chillax end; while true + Q > z + 21 : chillax end; let A[dT70 and 0] = 6360 - 7; pop 86 = 32 end

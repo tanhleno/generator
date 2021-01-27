@@ -1,0 +1,1 @@
+program V : main : when case(8) * 11 rem true and 0 : chillax end case f3 and h8b0 + (45) and 494 > - false and 0 or 8 - 6 : when case 3 : while 8 : chillax end; pop end case 31 : chillax end case 9 : chillax end end case d or 3 < - 9 - 85600 : chillax end end

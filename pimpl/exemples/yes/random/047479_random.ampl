@@ -1,0 +1,1 @@
+program i : t : takes R : boolean returns nothing chillax end TEb : takes Y, D : integer returns nothing g_, mx : integer array; B, Y : boolean array; while - 8 - 68 : let Oz = 49; let l4daa = 18 end; when case 3040 : while 3 : chillax end end case 18 : chillax end case 6 : chillax end end main : jQ4, hs3aa : boolean; pl : integer array; chillax end

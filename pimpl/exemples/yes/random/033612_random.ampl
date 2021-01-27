@@ -1,0 +1,1 @@
+program F2S : i : takes x : boolean; rE3aa, K0, f6, P : integer; d : boolean; W97 : integer array returns boolean zd, o, w2 : integer; let x8Eaa[(73) - 58 - 71] = - 214 - 7; input V[2] end t2 : takes e42 : integer array returns nothing output 70; do n(691 = 6) end main : output "0"; output - (0) or 8 . "^t\"" . 5; while - Nl + 396 /= - 0 : pop; let v = 5250 end end

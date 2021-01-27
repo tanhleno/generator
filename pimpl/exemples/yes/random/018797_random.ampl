@@ -1,0 +1,1 @@
+program s71 : G : takes oa, U4 : boolean array; J, M, K3j, t : integer array; _6O : boolean; J : integer returns nothing output "" . 9 . "" . 421; pop end main : scd : boolean; b490 : boolean array; g9, Z19, A62, k, Z1 : integer; Sc : integer array; chillax end

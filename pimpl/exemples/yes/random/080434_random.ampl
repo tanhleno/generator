@@ -1,0 +1,1 @@
+program m0za : main : pyta : boolean; when case not v(3) rem I(6) < - e and not 5 - n9 : chillax end case 0 and(8) - (2) and 1 : chillax end case - (1) and 5 + 372 - 01 /= 9 : chillax end otherwise : chillax end end

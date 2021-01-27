@@ -1,0 +1,1 @@
+program G : O : takes p : integer; fp3, z5, i, o : integer array returns nothing sS, a, B8, R : boolean; while(79) and 11 + 554 - 9 /= - 7 - 4 : chillax end end Z : takes Sl70a : integer; a : integer array; N, r1 : boolean array returns nothing R1 : boolean array; chillax end main : X : boolean; chillax end

@@ -1,0 +1,1 @@
+program D : main : c : integer; let qy40[- 8 / not(4) + false or k13 and 38 - 4 - 987] = array - BS(4) rem false * P and 4 - (43) and false and 0 or true and 9600; while(7800) / false - (7) or 0 : when case 7 = 1 : chillax end end; while false and 7 + 1 : do Q(8); do Q(716) end end

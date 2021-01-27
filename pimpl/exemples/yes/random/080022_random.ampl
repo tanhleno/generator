@@ -1,0 +1,1 @@
+program nX9 : main : k : boolean; let E28[- Rb7(67) and false and true and 7 or(1)] = array - not 3 - 2180 or(4) and 0; output "" . "" . "\t" . "" . "G\t\""; while - L890 > 36 - 0 : chillax end; while - 11 - 468 : while 7 : chillax end end; input E; output "" . "" end

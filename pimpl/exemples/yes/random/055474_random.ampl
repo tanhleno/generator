@@ -1,0 +1,1 @@
+program b : a3ha : takes xP : integer array; e : boolean; sVo0, K, r3, daD0a : boolean array returns integer array EXq0, O, Iw : integer; S, d : integer; while - EhZ and 804 : chillax end end main : U9 : boolean array; E2 : integer; D : boolean array; chillax end

@@ -1,0 +1,1 @@
+program z7h0 : U : takes ta, l : integer returns nothing x3, P, w4, P6 : boolean; when case 916 and 5 or 7 /= 2 : pop 5; output "\tk\"" end case - 1 - 9 : input a end; let cL[1] = array 559 end main : z : boolean; chillax end

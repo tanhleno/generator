@@ -1,0 +1,1 @@
+program xW : main : A, C, Q5U, Ua50a : integer; Q6zaa : integer; pop - false * false >= - not 1; do vR(- 91 and(1700) and 908 <= Q - 10800 - 445, 0930 and 341 + 2, 5 - 8); do Z7((7) and 344); while - 5 - 2 : chillax end; when case 2 : chillax end case 7070 : pop end case 8 : chillax end; input c; let y = 656; let Wng = 72; pop end

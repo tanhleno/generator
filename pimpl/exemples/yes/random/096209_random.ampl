@@ -1,0 +1,1 @@
+program e420a : main : when case - not p7(2) / (128) /= XY2(5) or 26 : output 6 . ""; output 7 end case - (2) or true : while 2 = 9 : chillax end; pop 1; output "\\"; do qr(66); pop end case false : chillax end case - 2 - 6 : pop; when case 09 : chillax end end end

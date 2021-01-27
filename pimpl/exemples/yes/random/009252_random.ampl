@@ -1,0 +1,1 @@
+program i : n550a : takes D, o, YRT0a : boolean; o : integer; t350a, pSyaa : integer array returns nothing chillax end dY : takes h : boolean returns boolean array T5h : boolean; aX_ : integer array; bT_0a : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program tj8 : P : takes D1, h, N : boolean array returns nothing do oY(2 and 31700); when case - 37 = 9 : pop; output "" end otherwise : chillax end end main : v, W, _km : boolean array; r48, r, C, i060 : boolean array; u : integer; K, f, O78, b : integer array; when case 8 or true /= - (69) or 49 or 1 : chillax end end

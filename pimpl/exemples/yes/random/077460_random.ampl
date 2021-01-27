@@ -1,0 +1,1 @@
+program ME : main : bKWaa, D : integer array; F20, P860a : integer array; pop; do G(6 and 142 and 5 or Y + 07); do vk(- true and 2, - 9 >= 6, 42200); when case - 32 - 80 >= 7 : chillax end case 86 = 88 : chillax end case 250 : pop end case 78400 : chillax end end

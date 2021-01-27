@@ -1,0 +1,1 @@
+program A : Qu6 : takes w0S : boolean returns nothing d95, m5 : boolean; while(14) and 39 <= - 81 - 7 : output 29; let v = 86 end end _ : takes NOj : boolean array returns nothing chillax end main : I2 : integer; chillax end

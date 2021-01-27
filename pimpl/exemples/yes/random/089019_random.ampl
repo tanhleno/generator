@@ -1,0 +1,1 @@
+program NDI : main : input b[F(228, 4050) - (6)]; let d = array - L[2] rem 0 and 35 - (4); when case - true - 69 - 9 = - 727 - 4 : chillax end case - 79 - 83600 : chillax end case 6 = 7 : output ""; pop end otherwise : output ""; while 9 : chillax end end; while - 3 - 4 >= 75 : output ""; pop; pop end end

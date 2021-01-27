@@ -1,0 +1,1 @@
+program N : cA : takes X : integer array; EYF0a : integer; y860 : integer array returns boolean while false and 14 <= - 1 - 0 : chillax end end H : takes i : integer; H : boolean returns nothing D : integer; chillax end h : takes g6, C : integer returns nothing z : boolean; when case 1 : chillax end; pop 5310; do U4S(0) end main : gXg0 : boolean array; chillax end

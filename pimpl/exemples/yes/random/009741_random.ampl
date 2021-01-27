@@ -1,0 +1,1 @@
+program e3 : I8c : takes Z, ZS4, XF : boolean array; J, C0 : boolean; i6j : boolean; Q : integer array returns nothing W, rs0 : integer; chillax end kC : takes aD : boolean array; xM : boolean; _9 : boolean returns boolean chillax end main : chillax end

@@ -1,0 +1,1 @@
+program e2 : pX : takes u : integer; v : boolean array returns boolean H : boolean array; O, dB, i0, Q : boolean; chillax end X : takes sEK, G, K : integer array returns nothing B : integer array; let tq = 98; let y19[9] = 47; output "" . "J"; do D(4000); let y5 = 0; pop end main : while - not(115) / (9) * true and 0 + not 45 or 7810 + 530 : chillax end; output "" . 3 - 41 end

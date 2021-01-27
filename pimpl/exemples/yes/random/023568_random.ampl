@@ -1,0 +1,1 @@
+program QO90 : I : takes tM, C : boolean returns integer array I : integer array; pop; do k(- 4); pop 04 end main : sDj : integer; while 952 * (002) / not 22 and 1 - false rem not 9 and 40 : output "" end; pop - false and 8 + 03 > - 8 - 6 end

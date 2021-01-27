@@ -1,0 +1,1 @@
+program i : e7 : takes a, K : boolean array; f, Z : integer array; l, B76 : integer array; vv : boolean; F9S : integer returns boolean J : integer array; pop; pop; do s(54 = 56) end Y7 : takes s, v8, Z : integer array returns boolean v : integer; pop 57000 = 7; while 19 : while 59 : chillax end; pop end end main : chillax end

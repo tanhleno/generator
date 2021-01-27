@@ -1,0 +1,1 @@
+program J00 : nu40 : takes o1g, J7 : boolean; yc2aa, vK00 : integer array; FS, V8u : integer returns integer s, ig0a, C, n, M : boolean; N2y : integer; Wo40a, D, M : boolean; S6, S : boolean; j : boolean; chillax end main : L, H0, U, W : boolean; chillax end

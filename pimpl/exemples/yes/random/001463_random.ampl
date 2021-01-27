@@ -1,0 +1,1 @@
+program i : q : takes Pc, H, k, T8Jaa, c, i : boolean array returns nothing output - 6 - 11; do b4(- 5 - 4 = 5, 92, 4); input yT[9580] end C : takes a, s : boolean array; A, B5O : integer returns nothing l3 : integer; y9 : integer; let D4U = array - 6; pop 32; do Y62(9, 2); do y(0); output "m_0a"; pop end main : hY, yW, LP : integer array; lJ, Jv30 : integer array; chillax end

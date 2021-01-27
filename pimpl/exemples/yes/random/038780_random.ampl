@@ -1,0 +1,1 @@
+program s : r : takes m : boolean array; F, x8 : boolean array returns integer output "" . "" . "\""; when case - 242 - 56 : pop end otherwise : when case 9 : chillax end; pop end end main : m_q, f, i5 : integer; lnuaa : boolean array; chillax end

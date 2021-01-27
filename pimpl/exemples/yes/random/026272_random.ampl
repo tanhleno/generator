@@ -1,0 +1,1 @@
+program o : T01 : takes D0Xa, H : integer; f : boolean array returns integer array K7ma : integer array; Z7Z, W90, F, J : integer array; while q and 7 /= - 76400 - 79 : input C[7] end end u2Y : takes ucx, J : boolean returns nothing when case 38 : chillax end otherwise : when case 7 : chillax end end end main : chillax end

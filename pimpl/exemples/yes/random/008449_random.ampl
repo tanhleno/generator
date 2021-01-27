@@ -1,0 +1,1 @@
+program W : q6 : takes e4j, y, V9fa : boolean; h, C, z, ih, Qv3, T3 : integer returns nothing r : boolean; G5Wa, B, R, o : boolean; l, C : integer; Xs : boolean; chillax end main : Rp : boolean array; K, n : boolean; when case false * true and(6) and 5 : chillax end otherwise : let CZva = array 2; pop 44; input sy3 end end

@@ -1,0 +1,1 @@
+program Z57 : G : takes w3, yV, kg : integer array returns boolean while 9620 - 32 - 5 : chillax end end J : takes H : boolean; c, c : integer array returns boolean array chillax end main : Le : integer; do f4o(false) end

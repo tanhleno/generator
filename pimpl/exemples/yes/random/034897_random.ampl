@@ -1,0 +1,1 @@
+program C : e : takes vEL : boolean; C, Bv : integer array; l20, b : boolean array; R15, Z70aa, d, Y8 : integer array; Z, j : boolean returns nothing chillax end main : when case(9) rem false and not 22 : input z; let JG = array 5 end case 9 + not 6290 and 43 > - true : chillax end otherwise : chillax end end

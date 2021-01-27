@@ -1,0 +1,1 @@
+program Pr : xj7 : takes h : boolean array returns boolean EF7a, _ : boolean; do m(false and 7 or 31); while - 3 - 880 = 89700 : chillax end end main : t, i : integer array; let a[- R1 + 8 / 6 and 289] = array - (98 = 11) / true - 1 rem D and 6 or true; while(15) / true = not 2050 or 916 : chillax end end

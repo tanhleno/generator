@@ -1,0 +1,1 @@
+program BQ : D0 : takes a, NlP0 : integer; I, I, Pg8a, d3 : integer returns integer array chillax end m : takes m, l, S, L, Mt, n, j7L : integer array returns integer EO90 : integer array; chillax end main : L0 : integer array; O2, R : boolean array; v : integer array; Y, r, o1i0, H : integer; m52 : boolean array; TM, IK : boolean; chillax end

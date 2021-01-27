@@ -1,0 +1,1 @@
+program a : R : takes n : boolean array returns nothing U1t : boolean array; O6, VK40 : boolean; chillax end m : takes H33 : integer; r : boolean array returns integer array when case 986 - 90 >= 5 : chillax end; output 9 . 1490; when case 0 : chillax end end main : q : integer array; m, uUw : boolean array; z3 : boolean array; output - (2) * 3 . - false . "`" . 7 = 7 . 2 end

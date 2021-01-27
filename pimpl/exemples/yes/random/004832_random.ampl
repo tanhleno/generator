@@ -1,0 +1,1 @@
+program l : ru7 : takes Y_1, e, b, X : boolean array; u, m, l : integer array returns nothing do p(- true or 3, - 32 > 5); do Ick(3 <= 7, 8 = 6, 6) end y : takes v : boolean; g : boolean array; Qc2a : boolean array; ag, T2 : boolean returns nothing q : integer array; K0, ad, bK40 : boolean array; p : boolean; chillax end main : chillax end

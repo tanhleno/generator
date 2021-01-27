@@ -1,0 +1,1 @@
+program N : O : takes c : boolean; l : integer returns nothing do k720(true or 2) end main : do d(2 and(576) * true and 877 + N * true - true and 02800 or 962 > 9 / true and 9, - false and true or not 563 and 3 < dCV, not 17 - 14 - 744) end

@@ -1,0 +1,1 @@
+program m3 : main : nB, X, _, O21 : boolean array; output - 8; while - not false + true - 99 - 9 < S and 08 - 08 : while 86 = 4070 : pop; pop end end; while true : while 5 : chillax end end; do X(32 - 5 >= 57500); let X = 67 end

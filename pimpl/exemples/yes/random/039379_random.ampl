@@ -1,0 +1,1 @@
+program s : v1 : takes L : boolean array; _, s : integer returns boolean let h[- false and 73 - 8] = array 9 and 8; when case - 7 >= 36400 : chillax end case 4 : chillax end otherwise : chillax end end main : chillax end

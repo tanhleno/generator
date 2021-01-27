@@ -1,0 +1,1 @@
+program O7e : i : takes M : integer returns nothing F, l, W18, Y2P0 : integer; AK0aa : boolean; _, I7q, w : integer; My, k : boolean; Q : boolean; Z : boolean; pop; pop end main : Y, B, W4 : integer; do h2(- aH0(7650) or false >= - false rem not 42 and 4 - 5 and 1 - 00 - 2) end

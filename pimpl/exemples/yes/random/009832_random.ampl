@@ -1,0 +1,1 @@
+program g : P : takes Y1, X, H4 : boolean array; E, H : boolean returns nothing C, Y, f : integer; y : boolean array; while - V and 8 /= 2 : chillax end; do L28(039, 17200 = 0) end main : l, W34, S1eaa : integer array; Q3A : boolean array; N : integer; X9, t33a, Z : integer; let c33 = - (1) = - not 262 and 4270 + 0 - 8 end

@@ -1,0 +1,1 @@
+program I : D : takes v : boolean array returns nothing o9, R, B4, R, q7 : boolean; when case - true + 6 - 12 : let Z = 8; let j = 8920; output "" end case 3150 >= 8 : chillax end end H : takes aK : boolean array returns nothing chillax end main : let Pbg0 = array - false; output - 6 + 79; when case - false : chillax end end

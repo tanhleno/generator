@@ -1,0 +1,1 @@
+program f3 : l : takes w, H, ULsaa, nJ3, Bf : integer array; H, Ql, O : boolean array; A : boolean returns integer array chillax end main : J, P_8 : boolean array; let _[true or(488) * not 72 and 61 or false - 3 - 4] = array - ET or true rem false - 74 or 9; input q; output - 4 - 94 < 4; while - 2250 : chillax end; pop; do W(8, 1); input hP; do J8(9); pop end

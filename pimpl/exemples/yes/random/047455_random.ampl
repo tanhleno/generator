@@ -1,0 +1,1 @@
+program Z : nf : takes u : boolean returns nothing chillax end J79aa : takes a, O : integer; n : boolean; q, et9, Q : integer returns integer Y, o, I, Y : integer; x : boolean array; let ldH[- 746] = 82 end main : _98aa, Uu5a : integer; Z : integer; UZ5aa, l5 : integer; output ""; do IH((6610) + false or 4 < - (6) and 3, false and 5 <= 6 - 8, 4); input Ml[- true and 39] end

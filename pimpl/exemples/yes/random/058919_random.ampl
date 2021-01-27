@@ -1,0 +1,1 @@
+program uq : h : takes JDe0 : integer array returns integer array ds7aa : integer; e : boolean array; chillax end main : vf00 : integer array; o, c : integer array; G : integer array; while Q rem not(5) /= - s7[6] + C or 0920 - 1 : pop end end

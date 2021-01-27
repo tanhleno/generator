@@ -1,0 +1,1 @@
+program O : YbW : takes U7 : boolean array; Krg, o, X4, P, v3, A21a : boolean array; l : integer array; fJz, u : boolean returns integer array while 16 : let Q[4] = array 59 end end main : Q79 : boolean array; input _[(1 = 3) * 0 and y and 7]; pop 832 - 48 <= - 9 end

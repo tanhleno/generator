@@ -1,0 +1,1 @@
+program g1S : Wy : takes C, e, y, yB, f, HIF : integer; F : integer array; E : boolean array; B, L : integer returns nothing R, C570a, p : boolean array; let U = array - B87 - 230 - 21; pop 862; let b4[3] = 58600 end main : R : boolean; chillax end

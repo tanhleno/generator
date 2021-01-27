@@ -1,0 +1,1 @@
+program fp0aa : main : bA : boolean; do J(- true and false = - not false rem false and 76 - (8) and 07, (8), N14aa and 34, 0460 - 9 >= 88, 88 = 0); let bJ = - not 6300 or 15000 - 3; pop 12 - 9; let I = 14 = 7; do K8(4, 856); output "" . "#2"; when case 21400 : chillax end; when case 36 : chillax end end

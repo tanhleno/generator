@@ -1,0 +1,1 @@
+program P1 : main : pop - not true / 07100 + false /= - not 94 and 59 or 85 - 909; when case o080a(0) - false and 25 : while 93700 : chillax end; while 434 : pop end end case - (7) and 8 : pop; input s3 end case - 25 - 47 >= 43 : chillax end case 854 : chillax end case 51 : chillax end end

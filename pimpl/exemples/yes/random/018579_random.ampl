@@ -1,0 +1,1 @@
+program k4 : L : takes O, e : boolean; R : integer returns nothing output "\n\ta" . 0 = 75 . "" end Q6 : takes A2, N : integer returns nothing y1, J : integer; yp, Y, z : integer; chillax end main : chillax end

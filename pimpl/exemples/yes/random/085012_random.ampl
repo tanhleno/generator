@@ -1,0 +1,1 @@
+program h5g : main : hj40 : integer; pop - 61; when case(075) or true and 55 : chillax end case true and 0 : input s8 end case 1660 - 19900 : chillax end case 6 : while 4 : chillax end end; output "" . 466 = 0540; while - 6 - 27800 : chillax end; pop 2980 end

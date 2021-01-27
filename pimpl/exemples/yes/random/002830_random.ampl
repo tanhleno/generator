@@ -1,0 +1,1 @@
+program P : l : takes v, R, n1Y, q, e : boolean array returns nothing KM : boolean array; let n = array - 1290 end N5 : takes z, DuVa, h72a, J6da, o69aa : integer array returns nothing n26, o8G0a, p2, J : boolean; chillax end main : chillax end

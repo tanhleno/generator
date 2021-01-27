@@ -1,0 +1,1 @@
+program iN : HO0a : takes J, a, Y, g4q, k9 : integer returns integer array i : integer; v, P950a : boolean; chillax end u : takes i : boolean array; A, Ng, F350a : integer; f, T1x : integer; n, JRAaa, D8Sa : integer array returns nothing e5d0 : integer; output 6 = 1450 end main : input e[- (86 = 29) - not(3) * true and 03100 or 2060 - 235 - 5] end

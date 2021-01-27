@@ -1,0 +1,1 @@
+program Q : g : takes A, c3z, o, Y, u80, L : boolean returns nothing chillax end c_ : takes Dj, uXw, y, k, T5j, b17aa : boolean returns integer array Y : integer array; u97 : boolean; o : boolean; chillax end go : takes H : integer; _, eC : integer; r9, n : integer array returns nothing zj : integer array; U0 : boolean; K : boolean; w09a : boolean; chillax end main : chillax end

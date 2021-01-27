@@ -1,0 +1,1 @@
+program x7S : main : do NQ7(- true or true or false /= false + not 3920 + 3, - (97) rem g0 and 8470 + false = - c and 586, - 9); output - true and 3120 - 94; while 97100 and 09100 : output ""; pop; while 03 : chillax end; pop end end

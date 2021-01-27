@@ -1,0 +1,1 @@
+program Y : Zl : takes P9Ca : boolean; n1, EX7, f : integer array returns nothing g8, L, b : boolean; when case - O0 and 20900 or 5 - 51 /= 3 - 931 : chillax end otherwise : chillax end end main : pop; let Dd[(22) * false and 28] = (35) - 1 - 9 end

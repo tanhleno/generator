@@ -1,0 +1,1 @@
+program w : B : takes ZG00, Ot, FK : integer returns nothing when case true or 972 - 92 >= - 3 - 1 : chillax end case 61 <= 7 : output "|"; do D9(7) end case 41 = 7 : input L end otherwise : while 9 : chillax end; output "" end; let z = array 4 - 4; while 280 = 0 : chillax end end main : chillax end

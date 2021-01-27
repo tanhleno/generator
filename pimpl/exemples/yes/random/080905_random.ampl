@@ -1,0 +1,1 @@
+program h : main : Z96 : boolean array; n, D7J, alW, B8 : boolean array; while true * not d : while - 9 = 345 : pop end; output "1"; when case 5 : pop end case 0 : chillax end otherwise : chillax end end end

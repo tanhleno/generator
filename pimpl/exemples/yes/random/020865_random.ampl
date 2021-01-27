@@ -1,0 +1,1 @@
+program L : kF : takes C, De : boolean array returns boolean array B76, N8Aaa : boolean; chillax end L : takes W79, ll6, s2, v, ww, w2k0a, E87aa : integer array returns integer FA : boolean; chillax end main : let a = array 978 end

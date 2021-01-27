@@ -1,0 +1,1 @@
+program e : main : when case not 825 or 94200 * (0) and 9 - true - 63 - 78000 <= - 0 : pop 7 = 759 end case - false >= false and 35 : chillax end; while false - (6) and 5 - 542 - 3610 : when case 6 : while 1460 : chillax end; pop end case 63 : chillax end case 533 : chillax end end; do r(- 906 and 1 + 29, 5 - 85400) end

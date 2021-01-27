@@ -1,0 +1,1 @@
+program Z : Ff : takes W : boolean; o9j0a, D, tU6 : integer array; v, U : integer array; y : boolean returns nothing af : integer; input r[S and 6880]; while - 6 - 6 : when case 146 : chillax end; while 11 : chillax end; pop end end main : do hL(false and 8) end

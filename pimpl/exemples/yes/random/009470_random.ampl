@@ -1,0 +1,1 @@
+program b : S : takes f, c, G : boolean; l : integer returns nothing N, U, w72, j : boolean array; JT : integer array; while - true and 5 : when case 7 : chillax end case 12100 : chillax end end end main : z : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Y3 : fA : takes k : integer; C, O : integer returns nothing OS : integer array; chillax end main : a, A6X : integer; do DP(7720 / B[1] and not 60 - b[73500] >= - 4 * false and 4); while - (8710) rem true and 9 - false : output "Nx0a"; while 0270 : chillax end; output "\t(0"; while 9650 : chillax end end; while - true and 902 - 039 < - 90 : pop; pop; output "\tU!a" end end

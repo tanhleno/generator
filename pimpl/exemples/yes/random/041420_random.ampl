@@ -1,0 +1,1 @@
+program R : t : takes lS9a : boolean array; D1 : integer returns nothing pop - 2 end a3Fa : takes UG8, z9, Y38a, d6, BR2 : integer array returns integer array L, z0 : boolean array; z1 : boolean array; while 67700 - 4 : let Cx = 53 end; do q4(6 = 06700, 01) end main : g, m75aa, LJ : boolean; yM : boolean array; chillax end

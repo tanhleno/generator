@@ -1,0 +1,1 @@
+program I8 : u0 : takes z : integer; dw, cD : boolean returns nothing d, A : integer; q8Ma, B : boolean array; o, rz20a : boolean; pop - 3 < 1230 end main : p1n : boolean; do G07(true and false rem(80300)) end

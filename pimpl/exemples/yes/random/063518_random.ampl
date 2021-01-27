@@ -1,0 +1,1 @@
+program P37aa : u0 : takes sI : integer returns integer VH : integer array; when case - true and 599 or 95 >= - 6 - 8 : output 6 end end main : R : integer; s, SZ0 : boolean; B : integer; Oc, b : integer array; input P3B; do oJ(false or false, - (0), - 6 - 5 >= 588, 9) end

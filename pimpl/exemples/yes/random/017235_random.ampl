@@ -1,0 +1,1 @@
+program _65aa : sy1 : takes t, w : boolean; bXPa, D7 : boolean array returns boolean array s : integer; while - false and 825 + 2 = 7 : chillax end; do v(- 815 - 061, 97); do lfW0(33 = 4, 0, 2200); do eQ(738); pop; when case 35 : chillax end; pop end main : input M[- false] end

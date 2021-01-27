@@ -1,0 +1,1 @@
+program V : I : takes L, S : boolean; d : boolean; O, U6J, P : boolean; m, L8 : integer array returns nothing do J((1) - 55 < - 40, 56 - 6 <= 2) end main : when case L(160, 7) * ib + false and(88) and 6220 or true - 0 : input ap; let sU = 4460; input C0Jaa end otherwise : chillax end end

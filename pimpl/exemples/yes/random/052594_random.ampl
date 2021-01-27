@@ -1,0 +1,1 @@
+program P : W : takes Dz : integer; V : integer; Wx : integer returns integer h : boolean; B5, g37a, w, d : boolean; chillax end main : let L[359 / W(9300) / not 84 and 6 - (22) + (1) and 5] = - R5 and false = - 7 and 0 - 2 - 99 end

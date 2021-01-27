@@ -1,0 +1,1 @@
+program y : x9 : takes _ : integer array returns integer when case - true and 4 or 8 : chillax end case 3 > 46 : chillax end end u : takes y : integer array returns boolean array l, y, e, Q : integer; input g end main : while - not not K : let M = 8 = 2; pop end end

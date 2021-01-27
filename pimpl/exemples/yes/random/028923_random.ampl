@@ -1,0 +1,1 @@
+program V3 : r3O0 : takes F, C : integer array; V9 : integer array; M2h0a : integer returns nothing B630a, y600a, Q, Z, D : integer array; K8Aa, M : integer array; chillax end main : me1aa : boolean; pop; while not true rem not 469 and 4 - not 0 and 8 or 626 - 8 : chillax end; pop; when case 1 : do m(5) end otherwise : chillax end end

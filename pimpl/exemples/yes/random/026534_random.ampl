@@ -1,0 +1,1 @@
+program W3paa : HxH : takes sk10, RE : integer; R56 : integer; I : boolean; t, N : boolean array; c35, r : boolean array; R, X : integer; ZJ : boolean; _ : boolean returns integer array chillax end main : uw, Q, Y : boolean; chillax end

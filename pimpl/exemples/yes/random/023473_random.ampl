@@ -1,0 +1,1 @@
+program xma : _ : takes s, q : boolean returns integer array i, b, liD : integer array; s : boolean array; when case b - 6 > 2 - 7 : input K; pop; input u; pop end; do G080(7590 < 3, 2 = 2); do o(3100, 2) end main : D : integer array; let fLy = - (68) rem false or D820 + 4 - 4 end

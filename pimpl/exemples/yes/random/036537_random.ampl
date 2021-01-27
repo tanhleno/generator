@@ -1,0 +1,1 @@
+program Z : m : takes n : boolean; f0 : integer; F5Ma : boolean array returns nothing PNd : boolean; while P and 16 <= 69 - 2 : chillax end; output 65600 . 7 end main : vR5aa, V, SA : integer; _1, C : integer; n : boolean array; Ak, D, m2 : boolean; ys : integer; chillax end

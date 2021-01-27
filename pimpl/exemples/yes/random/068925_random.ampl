@@ -1,0 +1,1 @@
+program OZn : main : N, i, qd, A, h : boolean array; D9 : integer; o, W : integer; while true /= - false + true and 82 : pop 0 = 4640; while 0250 = 8 : chillax end end; input h; let mqb0 = - 4; when case 59 - 2 <= 27200 : do a1(5) end case 5 : chillax end case 617 : pop end otherwise : do b(9) end end

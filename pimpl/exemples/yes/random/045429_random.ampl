@@ -1,0 +1,1 @@
+program Vp3 : iao0 : takes g : boolean returns boolean array chillax end a : takes x : integer array; W, b : boolean; R8Maa, E : boolean; B, d, H2 : boolean returns nothing input L2; while 48 : chillax end end main : chillax end

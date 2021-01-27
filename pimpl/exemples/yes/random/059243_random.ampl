@@ -1,0 +1,1 @@
+program K : i : takes N1 : integer array returns integer C8, _q5, o, D5 : integer; while true : when case 8220 : pop end otherwise : chillax end; let v = 2 end end H : takes Q27a : boolean array; DbK : integer returns nothing Uf : boolean array; chillax end main : chillax end

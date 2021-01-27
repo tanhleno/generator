@@ -1,0 +1,1 @@
+program N : Y : takes e3Da : boolean array returns nothing while false and 8660 - 3 = - 3 - 7 : chillax end end yq : takes Q6 : integer returns nothing o, R8 : integer; let r[9660] = array - 6 - 2; output "\nXa" end main : chillax end

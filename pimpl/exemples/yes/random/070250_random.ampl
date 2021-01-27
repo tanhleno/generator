@@ -1,0 +1,1 @@
+program Q : main : Q, R, Bt7, E2 : integer; Z80 : integer array; F : boolean array; do K(- true and true + false rem true > - false or not 1 + 1 - 885); when case - false and not 88 + 7 - 934 >= - o and 9 : chillax end case - true and 5 : chillax end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program Z5 : f : takes L, i0, H2, SW, m : boolean returns boolean array when case 54 >= 267 : chillax end case 5 - 50 > 03 : chillax end otherwise : pop; output "&" end end main : _PQ, K110 : boolean; chillax end

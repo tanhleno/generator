@@ -1,0 +1,1 @@
+program P : n : takes T2h0a, E6 : integer array; QYKa : integer returns nothing chillax end main : H : integer array; let r[6 or g(1) and false] = array - true rem true rem 22 and 4; while false or 2 and 95 /= false : chillax end end

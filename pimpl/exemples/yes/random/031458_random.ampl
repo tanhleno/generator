@@ -1,0 +1,1 @@
+program k : S : takes Z, B : integer returns boolean chillax end e : takes U : integer array; a, U1v : integer array; cF : integer; cBKaa, U7 : boolean array returns integer input sC[- 203 - 1]; let KP = 8; pop 39200 end main : output - 2 * Ph and 1 or false - 6 - 2 = false and 983 end

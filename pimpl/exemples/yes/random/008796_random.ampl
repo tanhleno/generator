@@ -1,0 +1,1 @@
+program Hj3 : nQ6 : takes T3, m, O1 : boolean; yC, e4 : boolean returns nothing do n3z(- true and 87600 + 7 < - 1); do xY(67, 199 = 1, 2) end main : C, Y : integer; x : boolean; output - false > W; output "\\"; while not 21 and 82 or 3 - 87 : pop 89; output "" end end

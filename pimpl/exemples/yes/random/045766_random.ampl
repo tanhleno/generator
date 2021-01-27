@@ -1,0 +1,1 @@
+program K7 : C : takes Z : boolean returns boolean array input o1; while 9 = 903 : output "" end; input Q4[3690]; do mu4(694, 1) end n : takes b, X, s, O, S : integer returns nothing do B(539 - 38600 <= 7, 3 = 3) end main : B : integer; j7Z : integer; let Ky3 = - true * (9) end

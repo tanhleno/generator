@@ -1,0 +1,1 @@
+program s : B0 : takes w : integer returns nothing C0, b, L0, BoDaa, A420a : integer; x : integer; uC : boolean; CD60a : boolean; E : boolean; let g[not 28 and 4 or 74 - 2] = array not 80 + 71500; let Y = 2; input l3[4] end P : takes v : integer returns nothing chillax end main : A : integer array; Bc : boolean array; chillax end

@@ -1,0 +1,1 @@
+program G690a : V : takes E : boolean; b2, u, oc : integer returns boolean d, Jb8aa, f, b, HVg0 : boolean array; when case - 7 and 89200 /= - 0 - 19 : chillax end otherwise : while 6 : chillax end; do f(822); pop end; while - 5 - 4 : pop end; while 8 = 8450 : chillax end; do j0(0640, 32) end main : x7 : boolean; output "," . - r240a /= - 03 end

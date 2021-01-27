@@ -1,0 +1,1 @@
+program WrG0a : g : takes h : integer returns boolean array T7, q : boolean; nF : integer array; Y2, I, h : boolean; chillax end main : x8t, A : integer; input iOo[- (0 = 370) / 90 rem false or false rem not 7 and 11100] end

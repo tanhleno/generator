@@ -1,0 +1,1 @@
+program Vq40 : m7 : takes Q, zB, U : integer array returns nothing A : boolean; chillax end h2i : takes J, R, X : integer array returns boolean array OM5, S, C_ : boolean; when case - 57 /= 261 : chillax end case 6 = 6 : chillax end case 1 : pop end end main : chillax end

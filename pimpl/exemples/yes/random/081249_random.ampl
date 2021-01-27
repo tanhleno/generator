@@ -1,0 +1,1 @@
+program C6 : main : h : boolean array; Y, j : boolean; while - true or 54 < - true + true - 85 - 033 : chillax end; let Y = array - k2[8] - 5; while - (65) and 23 - 37 : do h8(5); while 3990 : chillax end end; let u[0] = 64 = 2; while 50 = 1960 : let J = 8; pop end end

@@ -1,0 +1,1 @@
+program gZ7a : W4g : takes iD8 : boolean returns nothing l : boolean; y : boolean; n, T : integer; when case - 16 and 3 : while 811 : pop end; output "{"; let YBf0a = 04300 end end main : while p[9480] + false : when case - 25 - 06 < 491 : chillax end end end

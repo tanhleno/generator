@@ -1,0 +1,1 @@
+program W : main : p, T, U : boolean; Kk3a, A, t, M : boolean; V : integer; input r[- i(12) + false and(38) - not 6 - 26100]; input k[068]; while not 5 and 6 - 1 = - 9 : let Z3 = array 6; output ""; input B1; pop end; let f = 8; let m8j0[4] = array 348; while 92 : chillax end; input wx; output "2U" end

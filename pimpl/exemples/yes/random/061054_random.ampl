@@ -1,0 +1,1 @@
+program Y1 : c8C : takes yNP0 : integer array returns nothing Lh : integer; output 891 = 701 end main : Vz1, c, wy : integer array; O : integer; do E8(true - not o / 7650 and 8, - (6) + true and 6 - 5650 < true or 27800) end

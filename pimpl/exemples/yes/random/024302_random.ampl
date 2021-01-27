@@ -1,0 +1,1 @@
+program H0i0a : H : takes g0, v : boolean returns nothing k, Z : boolean array; F, gy4a, N, N : integer array; chillax end O : takes TC : integer; A, u, Hu9, k : integer array; q : integer returns boolean U, F, tx, df60a : integer array; chillax end main : chillax end

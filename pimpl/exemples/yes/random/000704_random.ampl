@@ -1,0 +1,1 @@
+program f : W : takes NI, PX, K, B, z, G, Y : boolean array returns integer array hZa, No8aa, g : boolean; um8, x5, kQ3, Vy0 : boolean array; pe2a, ZG : integer; z : boolean; chillax end main : o6 : boolean; k : integer; output "l" . "" . - 263 - 6 /= 168 . "" end

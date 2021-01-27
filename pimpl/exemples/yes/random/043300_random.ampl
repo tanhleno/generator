@@ -1,0 +1,1 @@
+program W86 : Tm : takes uI : boolean array returns integer let xa6 = array false and 9; pop end H : takes W, o : boolean array returns integer array y18, F, s : integer array; chillax end main : C7 : integer array; V_7 : boolean array; chillax end

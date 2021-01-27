@@ -1,0 +1,1 @@
+program g3 : main : w, pD8a, d, n_90a, z0j : boolean array; p : boolean array; D, I, x5 : boolean; V, Rb, k : boolean array; R : integer array; m : boolean; Zg : boolean; Aj : boolean; let E[- 1 or 00 / false and 6 or not 42] = array 5 / not 58 / sBK and 3 + false / false + false and 399 + 54 - 0; do s(- not not 5 - 1 - 5 - 95, - not 7, 5 - 6) end

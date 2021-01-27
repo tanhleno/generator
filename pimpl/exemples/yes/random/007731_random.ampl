@@ -1,0 +1,1 @@
+program x : v4La : takes j8, S0, w9S, Ze7 : integer array returns nothing C, XJT0a, v0Oa : integer array; pop; let I = array - 4 end O : takes w7, r2xaa : integer array; QN : integer array; s4 : integer array returns boolean array pop end qQyaa : takes C, R2, uO90a, fj : boolean array returns boolean array output "" . "" . ""; let D[9] = array 7; do r(4530) end main : chillax end

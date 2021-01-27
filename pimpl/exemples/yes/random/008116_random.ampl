@@ -1,0 +1,1 @@
+program x8 : f : takes E7H, G4, E48, B : integer returns integer z, S : integer; m : boolean array; let u = array not 4 and 39 end AV : takes C : integer array returns boolean array pop 3890 = 0 end X74 : takes Mu : boolean array; D, g, h : boolean returns integer array a : integer; c9p0 : boolean; A6c0 : boolean; chillax end main : chillax end

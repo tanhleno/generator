@@ -1,0 +1,1 @@
+program Hx : kW : takes SK, W77 : integer array; Y, Q : integer; Bi, n8Pa, S : boolean array returns boolean array u, c : boolean array; X : boolean array; while 94 + 74 - 96 : pop end; while 8 - 976 < 4 : chillax end; pop; output "8" . "8-" end main : chillax end

@@ -1,0 +1,1 @@
+program M9 : main : when case - true and wh / not 80 : do O(- 8 - 04 = 7, 06700, 43, 4400); when case 4 : chillax end otherwise : pop end; let m = array 9; input m2 end otherwise : when case 86700 = 4 : input o end; input Ip[68]; while 0 : chillax end; input e2 end end

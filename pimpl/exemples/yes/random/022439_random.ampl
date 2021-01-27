@@ -1,0 +1,1 @@
+program BD50a : On : takes rV, a : boolean array returns nothing W : boolean array; chillax end main : WR, T13, cg, J1 : integer; V, D, b : integer array; A : boolean; U, s : integer array; chillax end

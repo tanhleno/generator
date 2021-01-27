@@ -1,0 +1,1 @@
+program C : X : takes l0 : boolean array; Qhc, P : boolean returns integer do T3(- 220 and 39 - 2 - 17000, - 3, 6) end main : pop; when case not not 3 and 1 - true and 7 > - true and 9310 + 352 : while 8 : pop end end case true = 80 - 3 : input J7; let r70 = 3; while 35600 : chillax end; pop end end

@@ -1,0 +1,1 @@
+program H : _Em0 : takes cc, s5 : integer array returns nothing chillax end h : takes K : boolean; F, e : boolean array returns integer array chillax end hm : takes PSk0a, Y8, PtH0 : integer returns nothing chillax end A : takes U : boolean array; N34a : integer; N, b, D5 : integer array returns integer array while 11500 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program A6 : main : b : boolean; d9, X : boolean; C08, F4 : integer array; output ":"; while - (16) /= - not 8 : when case 1 = 71 : let rG = 3; pop end case 6480 : chillax end; while 936 : chillax end end end

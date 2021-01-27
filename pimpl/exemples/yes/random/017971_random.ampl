@@ -1,0 +1,1 @@
+program D : yt20 : takes e, cR : boolean; k8 : boolean returns boolean array e, fE50a : boolean; chillax end ut : takes V6 : integer array; N : boolean returns integer array chillax end main : l, VI : integer; em : integer array; Y, O : boolean array; while - (87 = 5410) rem not not 1 - not false + false : while - 8 - 648 < 68 : let yk = 6 end end end

@@ -1,0 +1,1 @@
+program SzW0a : B : takes M : boolean; E, X, Q, M : integer array; x : boolean; ME : boolean array; b, W : integer array returns boolean rE : integer array; Q : boolean; chillax end main : fF10a, X6t, SV7 : boolean; Jq30a, _5 : boolean array; output "" . "" . - 6 - 0 <= 02800 . ""; pop end

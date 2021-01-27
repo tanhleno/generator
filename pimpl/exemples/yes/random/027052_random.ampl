@@ -1,0 +1,1 @@
+program yB_a : D : takes d5, p : integer array; h, PU1, f10aa, x, u, vn2aa : boolean array returns integer chillax end I : takes u, X19a : integer array; o : integer array; s : boolean returns nothing when case - 37 - 609 : do w9xa(1); pop end otherwise : chillax end; input n end main : p : boolean array; chillax end

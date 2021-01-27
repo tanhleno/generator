@@ -1,0 +1,1 @@
+program P70 : F : takes C, q : integer; U4Q0, D : integer; q : integer; G1qaa, rO3, m : integer array; n, m, F4 : integer array; r : boolean; W : boolean returns integer C7E, u : integer array; chillax end main : chillax end

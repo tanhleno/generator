@@ -1,0 +1,1 @@
+program m240 : aPLa : takes Y5 : integer returns nothing M2, B : integer array; R : boolean; d90 : boolean array; while - 4 and 9 : do uVm(6) end; input wi[48100]; pop 1; when case 4970 : chillax end case 591 : chillax end otherwise : chillax end; do f(4); pop; pop end main : e, Q, K : boolean array; do G5a0(false * false rem false) end

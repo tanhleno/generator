@@ -1,0 +1,1 @@
+program e : main : let yj = false and L or(5) and 6 or 1; when case g[1] rem false and 0 > - vwp + 5 : when case 337 = 0 : chillax end otherwise : pop end; do BH(3130, 806); while 5 : chillax end end case - L and 72 /= - 1 - 5 : chillax end end

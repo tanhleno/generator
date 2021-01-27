@@ -1,0 +1,1 @@
+program A73 : P : takes UH : boolean array; z2, _, Y : integer array returns integer input p9S[- false or 7980 - 525] end x : takes r, P : integer; S, Kx : boolean array returns nothing chillax end main : chillax end

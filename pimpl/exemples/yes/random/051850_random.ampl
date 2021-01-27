@@ -1,0 +1,1 @@
+program C : Ptraa : takes B75 : integer; a : boolean array; AY : integer returns nothing chillax end W : takes b85, SP, V9 : boolean returns nothing p, e3c : integer array; C53 : boolean array; U : boolean; chillax end main : Z : boolean; pop; while true * 6 : chillax end; pop end

@@ -1,0 +1,1 @@
+program P2 : main : w3, Y7E, g, gymaa, A, V, F : boolean array; when case - gd1a * true * true - 57 and F_ > true / not 7240 and 3 + true and 8 - 0 - 4 : chillax end; when case false / (8) and 6 < not 1 and 7 : while 6 : input mb; pop end end otherwise : chillax end; let P[- C and 9] = 60 - 7 = 8 end

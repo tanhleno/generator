@@ -1,0 +1,1 @@
+program laP0 : Z5 : takes iH, Qf : integer returns integer chillax end Wq : takes X, u : boolean array returns integer array output 875; output 9 . 6 . "3Q" end main : E4, f9G, D8 : boolean array; kl2 : integer array; f : boolean array; chillax end

@@ -1,0 +1,1 @@
+program w : X : takes Og4a, _7 : boolean array returns nothing v0taa, v61 : integer; P9, W : integer array; chillax end main : when case false - not 24 rem true and 6 > (4) * (5) and 1 - F9 : chillax end; while true /= not 16 : input e; output ""; do Q5(6); let N = 6 end end

@@ -1,0 +1,1 @@
+program gS80a : r8ga : takes oh : integer returns boolean chillax end zZ : takes fk2 : integer returns boolean array chillax end main : J : boolean; nm : boolean array; x, _4 : integer; T1, u4 : boolean array; Z, L, z9aaa : boolean array; a : boolean; CuM : boolean; chillax end

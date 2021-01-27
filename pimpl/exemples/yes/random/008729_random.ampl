@@ -1,0 +1,1 @@
+program f : k5 : takes XR, _W, u07 : boolean; f, u : boolean array; E, S4 : integer; J5 : integer array; s24, M, GH0 : integer array returns boolean input cp30; when case - 0 - 4150 : chillax end case 6 = 0 : chillax end case 04300 : pop end; input i6; input d end main : pop end

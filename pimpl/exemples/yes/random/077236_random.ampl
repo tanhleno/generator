@@ -1,0 +1,1 @@
+program w3 : main : A70a, bt : integer array; W, CX, W : integer; when case 13100 + true : chillax end case y(20) + false : do SV8a(4, 96, 57) end otherwise : let pi[787] = 4780; let nj = array 638 end; output "" end

@@ -1,0 +1,1 @@
+program Q : k : takes c8u : integer; T1, O, I : boolean array; R3, R9 : boolean; U, bL, Q5 : boolean array returns nothing while - false : chillax end; when case 66 <= 6 : pop end; while 4370 : while 06 : chillax end end; do j(52, 09) end main : L, V5, VP8aa, _MKa, H5, s1 : boolean array; chillax end

@@ -1,0 +1,1 @@
+program Dbr0a : X3 : takes i : boolean returns nothing while - (0) > 486 - 250 : when case 74 : pop end; while 14 : chillax end; while 8 : chillax end end; while 19 - 42 : chillax end; pop 8 end main : T3, YKA, t9 : boolean array; pop - 95 <= not 0 - 7; pop; let j1o0a = array - true and 0 end

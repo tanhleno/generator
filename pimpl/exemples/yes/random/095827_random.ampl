@@ -1,0 +1,1 @@
+program b : main : when case - false /= true : do xZ(- 64 >= 5, 4 = 0, 083) end otherwise : input C[68700] end; when case(1) /= f8 : chillax end case - false and 8 + 4 : output 4 . "\\"; input r end case - 30 - 3 : output ""; pop end end

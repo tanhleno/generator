@@ -1,0 +1,1 @@
+program k : M5U : takes cb3, sS : integer array returns nothing input A77[true - 5 - 5]; output "\"" . "" . 37 . "0"; do oEu(0 = 8) end n1B0a : takes fo, N : integer array; e : integer returns nothing chillax end main : Bd1 : boolean array; f, v, K, y7Z, y : boolean array; input e9 end

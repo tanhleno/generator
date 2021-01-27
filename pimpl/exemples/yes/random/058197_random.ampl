@@ -1,0 +1,1 @@
+program c : NN : takes T860a : integer array returns boolean z5Q, R, _ : boolean; CGV, L : boolean; D90 : boolean array; do s34(not 7, - 3 - 27400 /= 61, 4, 9, 05400); when case 73 - 3 > 72200 : chillax end; while 28700 : when case 21 : chillax end end end K8 : takes Rj1 : boolean array; I : boolean returns nothing let s = 1 end main : chillax end

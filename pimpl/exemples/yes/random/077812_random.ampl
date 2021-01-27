@@ -1,0 +1,1 @@
+program a : main : aX, v : integer array; Q : integer array; pop - 63900 and(8) + (4) <= - true and 3; when case true / F21 and 2 - (8) and 5 : while 8 = 7 : let n = 45 end end case pu : chillax end case - 835 : when case 812 : chillax end end; let jL3 = array - b07 + 4 end

@@ -1,0 +1,1 @@
+program P : main : when case - jx(8, 9) * false + 7730 / 1 : chillax end case false / false and 39 <= - not 45 and 46 : chillax end case - BT_0 and 26 : chillax end case - 3 - 9180 : chillax end case 2 : pop; pop end otherwise : pop 717 end; let E3 = - not 08 - 045 - 1 /= - 7 - 100 end

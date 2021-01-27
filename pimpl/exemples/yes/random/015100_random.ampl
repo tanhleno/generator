@@ -1,0 +1,1 @@
+program m0 : x : takes L, L57, Mm5a : integer array returns integer dt : integer array; output "" . "" end a16 : takes D, j, R : integer array; j2, V : integer returns boolean array chillax end Vp : takes _6, J4 : integer returns boolean chillax end main : pop - true rem not 64 and 094 = - GC and 1 or 0 - 6 end

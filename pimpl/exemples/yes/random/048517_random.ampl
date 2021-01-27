@@ -1,0 +1,1 @@
+program N : rv : takes p : boolean returns nothing b : boolean array; ke : boolean; when case - not 96000 and 64 < - 42 : output "l\\!" . "" end otherwise : input E; pop; pop end end main : GJ, h, dlmaa, dz, g : boolean array; fR : integer; C : integer array; chillax end

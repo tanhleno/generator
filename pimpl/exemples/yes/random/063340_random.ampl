@@ -1,0 +1,1 @@
+program l : R : takes eY7aa : integer returns integer nLR, Y, H : boolean; DKQ0 : integer; _ : boolean array; a : boolean; FA70 : boolean; let K[not 801 - 651 - 65] = array - 8 + 5; do c(1 - 1690) end main : while HE(3) rem not not 31 or not 4 rem true and 7 or(2) and 48 - 936 - 04700 : chillax end end

@@ -1,0 +1,1 @@
+program d : B : takes rH : boolean array returns nothing let L = array(1) and 2 - 01000 - 6 end e8f : takes E3g, Dw0aa, wv : integer array returns nothing pop 6 end main : q6, UfF0 : boolean array; To : boolean array; while - y4 + 4 and true or true or 423 : chillax end; input G end

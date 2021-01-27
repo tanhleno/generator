@@ -1,0 +1,1 @@
+program g7 : o : takes K : integer array; L : integer; c : boolean returns boolean chillax end h : takes w : boolean returns nothing input i[9]; when case 3 : chillax end otherwise : chillax end end Jc5 : takes Cb : integer array; e : integer array returns integer array output 53500 . "RW!" . "\t"; while 6920 : pop end; let p = 64 end main : m : boolean; chillax end

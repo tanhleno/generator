@@ -1,0 +1,1 @@
+program o1 : C : takes B : integer; p2, x0 : boolean array; op2, _i : integer; G, w, W, k : boolean; _, _, I1 : boolean array; M, x : boolean returns nothing let K = array n and 922; output 8030 = 5 . ""; output 4 . 0 . "(\t" end W39 : takes imO0a, SWo, c, p360a, P0, _57 : integer returns nothing ze : boolean; chillax end main : chillax end

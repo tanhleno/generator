@@ -1,0 +1,1 @@
+program B : main : F : boolean; when case - not true * t3s0a rem 698 and 6 + not false rem not 5 or 7 and 575 + 2 = false - not 39 and 0 : let Aw1[- 8] = 5 = 2 end case Y[9] or(5) < - n + 741 : chillax end case - 1 : input O[3]; output "" end case 129 - 2 : let I = 077 end end

@@ -1,0 +1,1 @@
+program u : Z0O0 : takes Eg : boolean returns boolean array input w4[w0 + 182]; pop end Q : takes S : integer array returns integer do F(3 >= 238); pop 93; pop; pop; let x2 = 66; pop end main : e4 : integer; chillax end

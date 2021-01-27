@@ -1,0 +1,1 @@
+program R : X : takes jf_, V8Y : boolean array returns nothing g3, G : boolean; chillax end main : output(10) and(4) and 5 = - true and 4 or 20 - 05; let L[- 7 and Aa] = array(72) or 8000 and 906 end

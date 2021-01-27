@@ -1,0 +1,1 @@
+program H : k : takes t : integer array; N : integer array; Xo6, K : integer returns nothing chillax end main : while - (59800 = 5) / not true and true and 62 + (506) / false or false and 8 or 8 : chillax end end

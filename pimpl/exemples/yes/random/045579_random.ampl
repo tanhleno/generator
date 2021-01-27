@@ -1,0 +1,1 @@
+program V : MxMaa : takes M : boolean returns boolean array U, SJD0, Ky : integer array; chillax end v1X : takes t, Qa, yDCaa : boolean returns boolean array y : boolean; v : boolean; chillax end main : Ka : integer array; do Q((4) /= - (0), 8 + 1 and 4 or 535) end

@@ -1,0 +1,1 @@
+program J : MW2 : takes R, sYAaa : boolean returns nothing chillax end main : y, h, n, y, O, tb : boolean; while - Sc and qjV0a : while 7 - 1 /= 35 : let C9 = 2; input hd end; when case 0 : output "" end case 346 : chillax end case 5 : chillax end otherwise : pop end; while 99 : chillax end; input i end end

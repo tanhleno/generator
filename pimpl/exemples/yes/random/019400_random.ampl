@@ -1,0 +1,1 @@
+program N : AP8 : takes X1, s : boolean array; x2, sS : integer; i, H5Ca : integer array returns nothing y, a, t, P, Y : boolean; h : boolean; chillax end b : takes IUx : integer; Rq4a, gf, l : integer array returns boolean array chillax end Tds : takes x, J, F68a, LP, so7 : integer array returns integer array output "0'"; let d[8550] = array 4; output "\t" end main : chillax end

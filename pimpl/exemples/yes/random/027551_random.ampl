@@ -1,0 +1,1 @@
+program u : Y8 : takes z, A6b : integer array; g, Va, L : integer returns nothing P9, k5 : boolean array; N4 : boolean array; when case - not 8 - 6 - 7 = 63 : while 298 : chillax end end case - 83 - 35600 : do z(9) end case 3 : chillax end case 79 : pop end; let M = array 94 - 9650; input u[2] end main : chillax end

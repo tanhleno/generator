@@ -1,0 +1,1 @@
+program h_h : ORR : takes wkj : integer; J : boolean array; P7, l1 : boolean; E98 : boolean array; v : boolean array; Q_3, D : boolean array returns nothing chillax end main : E9a, dn, KZY, e, l2Zaa, n : integer; A : boolean; m15, I74aa : boolean; HE9, r : boolean array; while - true or not not 710 = (5) rem(7) : chillax end end

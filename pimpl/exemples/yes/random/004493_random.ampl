@@ -1,0 +1,1 @@
+program V : X : takes X9, V, o, L : boolean; G : boolean array; W, cs50a, B6 : boolean; P3 : integer returns integer chillax end X : takes gS, e07aa, TA7 : integer array returns nothing pop 5; when case 66 = 2 : do W(69); pop end otherwise : pop end; input r[81300]; do kG9(4900) end main : chillax end

@@ -1,0 +1,1 @@
+program tE2aa : Z : takes N, cq : integer; i : boolean returns boolean Z : integer; when case P : pop end otherwise : chillax end; while - 84400 = 92 : output "-" end; output "1" end main : chillax end

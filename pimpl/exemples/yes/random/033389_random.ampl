@@ -1,0 +1,1 @@
+program N : L : takes O : boolean; z8, Ai3a, BBU0a, Tb, a : integer; Z, q9 : boolean; Em, O : boolean array returns boolean while 31500 and 662 = 7 - 90 : when case 74 : pop end case 71500 : chillax end; let W = 3 end end main : chillax end

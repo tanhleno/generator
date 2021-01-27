@@ -1,0 +1,1 @@
+program _ : M51aa : takes o4I, pJ, f : boolean array returns nothing chillax end main : E, Qp, An : boolean; when case - AP80a[8] rem(5) + 3 / true and 68 : input pb; let t[0] = 95 end otherwise : chillax end; do r500a(- not not 1 or 63 and 8 - 1, false and 81 <= - 7); while - 8 and 66 = - 987 - 1 : chillax end end

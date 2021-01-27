@@ -1,0 +1,1 @@
+program P42a : k5 : takes pQ, _, z07 : boolean array; R83 : boolean; S, d, G, A : boolean array returns nothing O5Q0, n6 : boolean array; chillax end main : k, lh, k91, c670 : integer array; w : integer array; x78a, c : boolean; chillax end

@@ -1,0 +1,1 @@
+program Z : main : g01aa, u, q, ak : integer array; n : integer; N, r6Jaa, g : integer; Z, j2 : integer; let q[not 5] = not T; when case true / not 81 <= not 5 : pop end; input w[true - 0]; do I0(- 38 - 6, 965) end

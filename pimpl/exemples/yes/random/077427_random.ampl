@@ -1,0 +1,1 @@
+program P8 : main : VY_0, a : integer array; Q11a, B2 : integer array; V, S4b0 : boolean; wM : boolean array; when case - false rem true rem true + (36) or true and 17 + 0 - 787 : do f(- 0 - 4 >= 71, 9); while 8 : chillax end end otherwise : when case 24 : let Ed8 = 77; pop end case 77 : chillax end otherwise : chillax end; output 4 end end

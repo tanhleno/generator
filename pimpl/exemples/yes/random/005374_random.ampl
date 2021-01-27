@@ -1,0 +1,1 @@
+program XV : _Ghaa : takes j, O, Do, S : boolean array returns boolean E : integer array; N : integer array; w_ : boolean; xV : boolean; input Y; while - 5 - 1 : chillax end; pop end main : chillax end

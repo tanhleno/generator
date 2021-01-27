@@ -1,0 +1,1 @@
+program n : P : takes x : integer; k3 : integer returns integer input Z[- 30]; let Plra = array - 090 - 00 end main : when case false and false + false and B and 25 or 18 and 746 or 1 - 8 > (7) + (427) and 8 - 1 - 8 : when case 95500 - 8 : output ""; output "" end end otherwise : chillax end end

@@ -1,0 +1,1 @@
+program y : c04a : takes b : integer; Zz : integer array returns nothing B8 : boolean; let m[- q2j] = - 2160 - 915 end main : V, S6, U : boolean array; Sx, ih, Q5 : boolean; x, g0, Q : integer array; pop true / 118 /= - (8) + 89600 - 7 end

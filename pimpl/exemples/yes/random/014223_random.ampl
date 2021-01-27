@@ -1,0 +1,1 @@
+program u5o : Y8e : takes W, a, h : integer array; R : boolean array; m, h3, A2 : integer returns nothing W, x : integer array; CnCa, a, T : boolean array; s, _, U : boolean array; jn, cVZ : boolean; yi : boolean; e : boolean; do i(- true and 5 > 3) end main : F : boolean array; chillax end

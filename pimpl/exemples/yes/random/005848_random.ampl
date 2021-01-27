@@ -1,0 +1,1 @@
+program D : S : takes qO, NFO, dp80, I : boolean returns boolean array let dX[- true] = array nlN and 077; output 720; do j(9 = 340, 7) end E31 : takes w2, m : boolean returns nothing Jj20, b0 : boolean; chillax end c2 : takes RM7aa : integer array; c3 : integer array returns nothing while 6 : chillax end end main : Xr9, q, W : boolean; chillax end

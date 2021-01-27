@@ -1,0 +1,1 @@
+program Q : vT : takes E8Y0a, H, V, o5 : integer array returns nothing U : boolean; output 044 - 08 > 0 end M : takes I2 : boolean array returns boolean array chillax end main : let B = - 63 / H and 71 + E <= not 974 end

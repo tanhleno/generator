@@ -1,0 +1,1 @@
+program S : V : takes D2Wa : boolean array returns nothing d : boolean array; chillax end main : Z4, p, N, hY1 : boolean; A, iY : boolean; do P(not not false / (6) rem not 0960 + false rem I9Paa or y - 37 /= not(0630) or not 1 or 47); output "5" end

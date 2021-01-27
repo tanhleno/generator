@@ -1,0 +1,1 @@
+program T : U4 : takes i, k81, R9, s : integer returns integer output - 8 - 84 . 6400; output 95 = 66900 . "" . ""; when case 6 : chillax end otherwise : chillax end end main : MJ40 : integer array; output "\"" end

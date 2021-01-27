@@ -1,0 +1,1 @@
+program T : v : takes O, v43 : boolean array; A, _, E, d0, Y : integer array; vF : integer; R6u : boolean; ct : integer returns integer array pop - 17400 >= 17; do eY(10 - 5 /= 8, 283 = 4) end main : fq70a, Y, EU : integer; yr2 : boolean; oq3a : integer array; dB7a : integer array; k : boolean; N : boolean; chillax end

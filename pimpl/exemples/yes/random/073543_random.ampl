@@ -1,0 +1,1 @@
+program g4E : main : Z, Xq1a : boolean; L, Nw : boolean; input k4; let c3v[true - (698) + 21500] = array - 79 and not 57 + (9330) and 7070 or 4 - 538; input v7[8 and 07]; do zs2aa(- 9 - 00, 058 = 8090, 06); output "g@"; input VE7[2] end

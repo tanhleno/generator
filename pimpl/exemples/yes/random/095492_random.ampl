@@ -1,0 +1,1 @@
+program a : main : when case(75 = 75) : do It(2080, 4 = 6, 7) end case not(7) * false and 219 /= - false and 4 : chillax end case - Z /= - 31500 - 7 : do L(53, 79) end case 55 - 82 : chillax end case 62 : output "|" end otherwise : when case 4 = 44 : chillax end case 140 : chillax end case 63 : chillax end end end

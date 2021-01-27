@@ -1,0 +1,1 @@
+program M2 : U : takes L, M, Y : integer array returns nothing let d000[- not 0 - 316] = array - not 498 and 79 + 6 - 10 end h : takes I9, S2 : integer array returns integer array chillax end Fo8 : takes Gg, m, k8Xa : integer array returns nothing chillax end main : chillax end

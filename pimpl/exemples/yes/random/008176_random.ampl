@@ -1,0 +1,1 @@
+program c : L : takes IO, q, _w, X : integer returns nothing chillax end nJ5 : takes R : integer array; Tbc, F3, iz, W4o0a : integer array; _9, x, o3u : boolean array returns nothing chillax end main : V000 : boolean array; k34, m, N : integer array; j, L : integer; chillax end

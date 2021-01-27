@@ -1,0 +1,1 @@
+program h : main : _, t0 : integer; WAA0 : integer; Pt : boolean; V, L9, l : integer array; B32 : integer array; while false or 724 or not 454 - 56 - 4 : output "" end; input x; while false and 4 - 97 - 754 < 2 : while 02 : chillax end; input h end; output "\\"; while 2 : chillax end; input BU; do C7(2) end

@@ -1,0 +1,1 @@
+program l1 : main : while - (7 = 7) or Rf30(756) / false and 87 : pop 860 end; input A; do i(399 and 72 or 78 < 774 - 9); when case - 1 > 548 : when case 9 : chillax end; input H; pop end; input k; pop 7 end

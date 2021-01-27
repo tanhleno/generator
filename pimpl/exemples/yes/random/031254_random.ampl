@@ -1,0 +1,1 @@
+program A : V0ja : takes u6, e : integer returns boolean array Q, A, y : boolean; chillax end gw : takes A, Y : integer; aBL0, k05aa, Y, Q, Kl : integer returns nothing chillax end h : takes W, aZ9, H, Jgo, c08aa, N : integer returns nothing chillax end main : G8 : integer array; output "d"; do R2(- not(25) and w, - (4) and 0 or 37 - 050, - 6 /= 4); let G = - 533 > 7 end

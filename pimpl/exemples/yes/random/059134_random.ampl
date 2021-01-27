@@ -1,0 +1,1 @@
+program z9 : X7 : takes f : integer array returns integer chillax end T : takes LM : integer; W, g5, t : integer returns nothing chillax end main : s, _11, D : integer; P : integer; while(3 = 32) : chillax end end

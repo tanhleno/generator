@@ -1,0 +1,1 @@
+program y : lL : takes g : boolean array returns nothing P8, I : boolean array; do cq6(false - 05500 - 4 < 8, 54 >= 18, 9, 76) end main : do kS(- true - false rem true and 80); do a(- false / true >= - 9490); while - false - 20 - 8 : chillax end; while - 0 - 14 = 6 : when case 1 : chillax end; output "(80" end; do x(05 = 2, 3) end

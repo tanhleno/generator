@@ -1,0 +1,1 @@
+program t25 : R : takes Z : boolean array; oac : boolean array returns nothing q8 : boolean array; K2 : integer array; Ee2aa, w, p : boolean; w, _w3aa : boolean; p : boolean; e : boolean; while K or 4 : let w[40] = 7; let G1 = 71500 end; let v[- 1 - 2] = array 0 - 13 end r54 : takes Q, c, h7j : boolean array; m : boolean array returns boolean array chillax end main : chillax end

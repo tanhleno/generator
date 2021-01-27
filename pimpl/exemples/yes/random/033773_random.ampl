@@ -1,0 +1,1 @@
+program GR : i3 : takes W2 : boolean; E, t, k : boolean; YLd : boolean array returns boolean array pop; do u4Q(- 88600 - 7); input K[29]; while 0570 : chillax end; input yK end main : output "\"8!a"; do ii(- 9 + true or 6600 - 44); when case - not 39 <= 3540 : do X(750, 456); input y end end

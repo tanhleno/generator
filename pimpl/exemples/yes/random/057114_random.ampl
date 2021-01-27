@@ -1,0 +1,1 @@
+program Gn7 : Y : takes d9 : integer array; L : integer array returns boolean p, H : integer array; output ")Baa" end gO : takes P, b7W0, j, o, aY, lfd : integer array returns nothing G6 : integer; c3K, f : boolean; g, p : boolean; L : boolean; U : boolean; output "" end main : ZC, q6, o : integer; chillax end

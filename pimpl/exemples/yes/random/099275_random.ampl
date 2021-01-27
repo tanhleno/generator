@@ -1,0 +1,1 @@
+program m : main : while vOBaa(27, 92700) : when case 2 : input IAj0a; input I end case 7 = 00 : chillax end case 8 : pop end case 4 : chillax end; do b7iaa(54200); output 3 . "A0aa"; while 9 : chillax end end; pop - false and 674 /= - 90200 - 49 end

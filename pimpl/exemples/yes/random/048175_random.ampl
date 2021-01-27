@@ -1,0 +1,1 @@
+program S : sa40 : takes M : boolean returns nothing V8, p6t0a : boolean array; M : boolean array; K, d : integer array; chillax end main : k01, OA, t : integer; pop; do gi(- false); do Nn(- K97 and 1 - 97 - 563 /= 83) end

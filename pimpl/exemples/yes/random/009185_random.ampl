@@ -1,0 +1,1 @@
+program b : R5 : takes M3, r, s : boolean; l : boolean returns integer L, F : integer array; V : boolean array; Y, mQ, s6 : boolean; chillax end main : oMz0 : integer; let _[- false and false rem false and 787 + (3) rem(02) + 6970 and 9] = array(81 = 1) * 470 and false and 38; input g[false] end

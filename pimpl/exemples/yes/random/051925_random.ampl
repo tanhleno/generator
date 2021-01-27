@@ -1,0 +1,1 @@
+program G04 : kx : takes Y9 : integer; EF : boolean array returns boolean a3 : integer array; n : integer array; pop; while - 6 = 8 : chillax end; pop; while 26 : chillax end; while 2 : chillax end; let o86 = 5 end f : takes f, p : boolean; A8, X_, HT : integer; R0, nU, Mf : boolean array returns boolean array IBW0a : integer; cCd : boolean array; chillax end main : chillax end

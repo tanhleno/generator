@@ -1,0 +1,1 @@
+program pT : R : takes J, F : boolean; mc4 : integer returns nothing let X[false] = 6 - 691 end Em : takes r1 : integer returns integer array EC10 : integer; input O[1 - 1] end VS1 : takes T : boolean; g48 : boolean returns integer X8D : boolean; chillax end main : V, Z : integer; chillax end

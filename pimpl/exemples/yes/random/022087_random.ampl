@@ -1,0 +1,1 @@
+program JX3 : Z : takes Z32a, iQV : boolean array returns nothing do w(not 0 + 07); do S2(- 16400 - 71000 <= 5, 2, 8, 93) end N : takes E, h : boolean returns boolean do Z(4 - 4 < 39, 9) end main : chillax end

@@ -1,0 +1,1 @@
+program C : a : takes IU5aa : integer array; K, E, G : boolean; tT, Y5_ : integer array; M, Vt, F3, m6Qaa, bqe : integer array returns nothing J, r, OXo, V : integer array; chillax end main : let I9[true + (1930)] = u or false - 402 > i end

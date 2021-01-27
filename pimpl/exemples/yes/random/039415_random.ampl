@@ -1,0 +1,1 @@
+program v : S : takes y : boolean array; y, p750 : integer returns integer input D6Vaa[(5) and 0 or 00 - 9]; pop; do B7(29600 = 2); when case 39200 : chillax end case 667 : chillax end otherwise : chillax end end main : pop end

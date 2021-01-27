@@ -1,0 +1,1 @@
+program p6P : B : takes _3 : boolean array; AT : boolean array; o89, UX9 : integer array; Y, Y : integer array; p2 : boolean; HA4, T5 : integer array returns nothing do C6(jK and 5 or 9 /= - 6910 - 07, 1 - 1) end main : b, hb4aa : boolean array; cU : integer array; while - (3) + not(473) / not 73800 : pop 6 end; input H end

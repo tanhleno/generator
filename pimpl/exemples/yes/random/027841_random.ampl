@@ -1,0 +1,1 @@
+program X : K : takes F, a : integer array; r3h, j : integer; n, j : boolean; ho, F, n, V24 : boolean; n : integer; h : integer array; l : boolean returns nothing M : boolean; t, b6 : boolean array; while F and 4 : while 50500 : pop end; input G end end main : do U(- true) end

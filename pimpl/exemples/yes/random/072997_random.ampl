@@ -1,0 +1,1 @@
+program v : main : h00aa, j, IO40 : integer array; V : integer array; u : boolean; output(8) > - 76 or 73 - 19600; when case - 60 rem true : when case 76 : while 6 : chillax end; pop end; while 2 : pop end; output ""; input V3 end case - L <= - 9 : chillax end case 6 - 09 < 72 : chillax end case 58 = 5 : let ZF1 = 5; pop end case 43 : chillax end case 82 : chillax end end

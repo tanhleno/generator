@@ -1,0 +1,1 @@
+program l44 : aL : takes r, QNtaa, Y : integer returns nothing mO : boolean array; chillax end b : takes r, hH : integer; Q : integer returns nothing chillax end w0 : takes e, G, H, h, r : integer array returns boolean array pop end main : Os : boolean; input p0[- k or false / true and 9] end

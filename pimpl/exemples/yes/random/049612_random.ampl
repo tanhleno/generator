@@ -1,0 +1,1 @@
+program Iq8 : Iy9a : takes c : integer; P77aa, U, V, n9 : boolean returns integer array output "O" . 2 . 045 . 716 end G : takes U, dz : boolean; V : boolean array; C : boolean array returns nothing gU0a, oI70 : boolean; chillax end main : pop end

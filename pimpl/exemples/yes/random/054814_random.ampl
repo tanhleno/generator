@@ -1,0 +1,1 @@
+program a : O : takes dAT0a : integer array; i8, H38 : boolean returns integer array E0 : boolean; when case - h and 7 - 5 - 1 : chillax end case - 74 - 90 : do FEB(9) end end main : dPP, UA5aa : boolean; F : boolean array; hH : boolean; b, oOV, w : boolean array; chillax end

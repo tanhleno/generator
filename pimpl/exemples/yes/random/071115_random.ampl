@@ -1,0 +1,1 @@
+program kB50a : main : p, r1, z1 : boolean; H : integer array; V : boolean array; K, If : integer array; while(1 = 17) <= not true and(215) - true : chillax end; while false + S and 45 < - true : do QT(0370) end; when case - not 7620 or 77 - 0 : input vS60a; input R end case - 3 - 0 < 6 : chillax end otherwise : pop end end

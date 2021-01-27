@@ -1,0 +1,1 @@
+program N0 : main : do z(false / not 5290 rem(41)); while false and false and 6 = not 84 - 3 : do U(4 = 4, 5, 4) end; while 9 >= 10 : input s60aa end; when case - 17 - 7 : chillax end case 2 : let Hy = 14; pop end otherwise : while 99 : chillax end end; pop; output "" . ""; while 930 : chillax end; do ED(3); pop end

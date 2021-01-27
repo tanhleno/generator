@@ -1,0 +1,1 @@
+program k050a : cW : takes X2t, x : integer returns nothing fQ : integer; _rD, DiY0a : integer array; while true >= - 73 : when case 63 : pop end case 697 : chillax end end end main : dw : boolean array; chillax end

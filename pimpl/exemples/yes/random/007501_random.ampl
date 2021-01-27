@@ -1,0 +1,1 @@
+program z8 : X8D0a : takes At, Wg, C3, g : integer array returns integer array chillax end A2 : takes p, i, Ii : boolean; F : integer; TlH : integer array; IBY0a, F : integer array; a : boolean array; Hj : boolean returns nothing pop 14 = 10 end main : output "T" . ""; input a9Ia end

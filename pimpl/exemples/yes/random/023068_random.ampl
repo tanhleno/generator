@@ -1,0 +1,1 @@
+program l2 : B : takes wXO0, e1 : boolean returns boolean array output 8 > 3 end main : when case false < - true : chillax end case 600 and not 4 /= W and 759 - 470 : output "" end case not 0 < - 1 : chillax end; let x60aa = - 2 - 96 - 7 end

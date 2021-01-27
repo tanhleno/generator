@@ -1,0 +1,1 @@
+program E530 : main : Q, _F : integer; W2, I240 : integer; i52aa, VF : boolean; when case false rem 8710 : chillax end case 171 <= - not 15 : when case 480 : let m200 = 3; pop end otherwise : chillax end end case - (56) and 781 or 5 - 64 /= 4 - 0 : pop 3; do k45(2) end end

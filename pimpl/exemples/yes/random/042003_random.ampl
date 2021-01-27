@@ -1,0 +1,1 @@
+program s : W9 : takes k : boolean array returns boolean chillax end main : f29, a3 : integer; h14 : boolean; G : boolean; while - true rem 8 or 55 * not 3350 + true or 2 : output ""; let Yx = 349; let m[88] = array 37000; while 04 : chillax end end end

@@ -1,0 +1,1 @@
+program y : o : takes tD : integer returns nothing tz, Br : boolean array; g : integer array; chillax end main : let B[- false] = false and not 39 and 9 - (8) and 1 - 2 <= true + 9 - 4450; input em40a[false + false and 64]; output ""; do Q8(- 1 > 2) end

@@ -1,0 +1,1 @@
+program h : X5 : takes LV6aa : boolean returns nothing e : integer array; let g = array - false - 6; let s = 5 = 18; let B[18] = array 4; pop; while 3220 : chillax end; pop end main : JL, ll, a, c : boolean; while - 3680 > true * true : chillax end end

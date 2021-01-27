@@ -1,0 +1,1 @@
+program H_1 : l06a : takes z74aa, P4 : integer array returns nothing u, Z, b : integer; chillax end main : a680a : boolean; v0Y0, X, ma4aa : integer; when case - false rem(4) rem false < (5) and 5 and 926 + false : chillax end otherwise : chillax end; output - not 28 and 9 + 955 - 399 . - 681 . "" . "@3!a" end

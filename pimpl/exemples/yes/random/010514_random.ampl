@@ -1,0 +1,1 @@
+program Lt : rb : takes nP, pi9a, rc : boolean array returns boolean array chillax end I360 : takes z : integer array; f : boolean returns boolean E, C : boolean; _ : boolean; m, G41 : boolean; S : boolean; s : boolean; input Zh60a; pop; output 65 end Li : takes B, q : integer array; JT, P, o, d, i : integer array returns boolean array chillax end main : chillax end

@@ -1,0 +1,1 @@
+program T8 : Y : takes tc : integer returns boolean array m5m : boolean array; chillax end main : while false - f820a(9) * not 1 and 9 : chillax end; when case true and true and 16000 >= - not 11 and 812 : do i(7) end case(35) or 7 /= 2 : let w[4] = 927 end otherwise : chillax end; output "" . "\n\n!a"; output "Yd" end

@@ -1,0 +1,1 @@
+program Y : R2 : takes o2, D, T : boolean array returns nothing chillax end n : takes c : boolean array returns nothing do P(- 08 - 069, 3 = 01, 0) end main : Iz, K, y, aB, y, v0m, i0y0a : integer; pod, d : boolean; V : boolean; do z(- (5370) and not not 4 or 5 - E and 63 + 911 - 145 < 512 + 4 and 0 or 8 - 21); while - true : let fM = 6370; while 5 : pop end end end

@@ -1,0 +1,1 @@
+program b : D : takes C4, r, l, k3H0a : boolean; U : integer; Z, Z75aa, U, g : boolean; X : integer; v : boolean array; G : boolean array; m5R : boolean; dP : boolean returns boolean when case false : input v[06] end end rP8 : takes s, Jt : boolean returns nothing X1 : boolean; chillax end main : pop end

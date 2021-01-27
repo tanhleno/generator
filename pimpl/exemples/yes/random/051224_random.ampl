@@ -1,0 +1,1 @@
+program j6 : H : takes n84 : integer; x8, o5B0a : integer returns integer V : boolean; h, pF : boolean array; P : integer array; chillax end _P : takes d, L, W23, If, L1 : integer returns nothing let W36 = 50 = 6880 end main : d4 : integer; chillax end

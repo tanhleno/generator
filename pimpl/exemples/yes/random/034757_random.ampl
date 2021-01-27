@@ -1,0 +1,1 @@
+program Ei : kK6 : takes P : boolean; BR, G : integer; a3, n, I, O, I920a : integer array returns integer c, i1 : boolean array; input p1 end main : oK6 : integer array; llu : integer; when case - 093 / (2) / false : pop end case false /= - true and 32 - 5 - 1 : chillax end case true and 9700 or 2 - 27100 > - 6 - 5 : chillax end otherwise : output "" end end

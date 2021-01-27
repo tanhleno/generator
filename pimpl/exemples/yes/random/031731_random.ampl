@@ -1,0 +1,1 @@
+program s82a : b : takes L, N2J : integer returns integer array chillax end main : input O600[- not(3) - not(4) or true]; do xU(- true or 9 or 37500, - (16) + 7 - 6 <= - 87200 - 90, - 27 - 0, 8, 65) end

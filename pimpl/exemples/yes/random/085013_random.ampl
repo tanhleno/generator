@@ -1,0 +1,1 @@
+program j2Haa : main : mp : integer; pop - 3; when case true rem T and 356 = - (6) and 5 or 5 : while 37 = 50 : input J4ba end; when case 92800 : chillax end case 017 : chillax end end case - false and 2 + 3570 : chillax end case 45 > 4 : chillax end case 5 : chillax end case 2600 : chillax end case 70 : chillax end end

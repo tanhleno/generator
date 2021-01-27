@@ -1,0 +1,1 @@
+program b7t0 : C1 : takes UXD : boolean array returns nothing M : integer; a1 : integer array; chillax end B : takes F, lG6, G : integer returns boolean H : boolean array; Cd2a, f, U : boolean array; let K16[11] = 67 end main : O, e : integer array; while(36 = 9440) and v2(4890) rem a and 05 - 8 : chillax end; output - g or 3 /= 4080 - 09200 end

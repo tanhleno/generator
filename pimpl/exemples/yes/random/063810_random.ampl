@@ -1,0 +1,1 @@
+program n : Y5 : takes J : integer returns nothing chillax end qJI : takes c4 : integer; F8 : integer array returns integer f : integer; when case 9560 - 25 : chillax end end i : takes AT1 : integer returns nothing do a(73, 509) end z9q : takes y, r, p, H : boolean array returns integer array let c = array 940 end main : ri, w : boolean array; chillax end

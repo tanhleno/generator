@@ -1,0 +1,1 @@
+program D : Nl5a : takes F3, lP, m, c4D : boolean array returns boolean array output 6 end main : Geh : integer array; ZZsa : integer; dkeaa : integer; when case s9 and(33) - 645 = (27700) : chillax end otherwise : chillax end; do U((4) and true - 583 and 8) end

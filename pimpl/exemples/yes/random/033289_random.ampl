@@ -1,0 +1,1 @@
+program f : n8 : takes TJ10a : boolean; V, A, fev, rN, J, M0 : integer; H, BU10, _ : boolean returns integer array vj, Lq4, m8 : boolean array; output ""; pop 8830 end main : A, y : boolean; _, bz0a, r, d : integer; chillax end

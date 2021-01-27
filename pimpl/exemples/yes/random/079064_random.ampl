@@ -1,0 +1,1 @@
+program H : main : X : boolean; wm, x2 : integer array; do TX(- true = 3 * (1) or(6) + 0); when case - false > true + 23300 : output 807 . "" . ""; output 798 . "F" end otherwise : output 3 . "" end; input ls; input SF; output 4 . "\\" end

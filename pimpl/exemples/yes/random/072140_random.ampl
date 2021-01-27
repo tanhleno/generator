@@ -1,0 +1,1 @@
+program D : main : L, V, U750a : integer; Y, jB : integer; do o(true / not false / false + 2000 / (1) and 7 /= false, - true = - (4) - 1740 - 09); do ME5(- false); do A(- false and 849 or 6 - 7 >= - 76700, 74) end

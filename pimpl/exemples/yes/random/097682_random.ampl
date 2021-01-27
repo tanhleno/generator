@@ -1,0 +1,1 @@
+program ZOi0 : main : when case true and true : chillax end case - true * false = - not 059 and 83 - 09 : do b(8 = 93700, 886) end case - 8 and 7 - 6 - 03400 : chillax end case 2 : chillax end otherwise : chillax end end

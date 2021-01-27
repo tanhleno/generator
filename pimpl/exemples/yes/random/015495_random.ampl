@@ -1,0 +1,1 @@
+program B6 : x : takes d6, QN, eqh : integer array returns nothing z : integer; B, _ : integer array; B, _q, G : integer; let k = - 857; do bTA0(37900, 6) end main : output - true / true and 3 . - w . "\"\t0a" end

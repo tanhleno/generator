@@ -1,0 +1,1 @@
+program rA0 : p410a : takes U7Q0, Bn5a, L1 : integer; tkD0, X : boolean array; Fa, N050, h7 : integer returns integer h : integer; do g(- true or 24 <= 0100, 298 < 2); when case 438 : output ""; let G = 5110 end case 6 : chillax end otherwise : do C(6) end; let _T[8] = 70; pop end main : t : boolean array; chillax end

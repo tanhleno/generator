@@ -1,0 +1,1 @@
+program hL : c9_ : takes RTdaa, n, G : integer array; P2p, E, B89a, z : boolean array; a : integer array returns nothing pop - 5 - 82 < 0; input U[0]; pop 4 end main : y30 : integer; K4 : boolean array; pop - false - false - 010 end

@@ -1,0 +1,1 @@
+program K : k5 : takes Y, v3 : boolean returns nothing pam0 : integer array; chillax end main : K : boolean array; A : boolean; e39, N7, z1, k7 : boolean; while - (0 = 3200) - i(7) or true and 65 : chillax end; input y end

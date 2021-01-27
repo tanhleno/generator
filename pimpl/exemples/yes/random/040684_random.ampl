@@ -1,0 +1,1 @@
+program G4Vaa : s : takes f0 : boolean array; O : integer; a_ : integer array; j8, X760 : boolean returns boolean Y : boolean; nS, G : boolean; C : boolean array; Sw7 : boolean; while - not 58 and 9800 + 566 - 30100 : chillax end; output 29200 = 72300 end P : takes I1, P : boolean returns nothing do DF9(- 1 - 94 <= 4, 9 = 57, 99) end main : t, i : integer; pop end

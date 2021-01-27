@@ -1,0 +1,1 @@
+program H : T : takes E : boolean array; KM3 : boolean array returns nothing cW7, o, b : integer array; H0daa, c65 : boolean; e, ta2aa : boolean; Cp : boolean; bqNaa : boolean; let i900a = - 8 < 54; input o5g[- 7 - 71000] end l : takes K, P8 : boolean; e, Z : boolean returns integer array chillax end main : s, o, S : boolean; I, H : boolean array; chillax end

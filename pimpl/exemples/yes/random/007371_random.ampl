@@ -1,0 +1,1 @@
+program Tq1 : X : takes D, P, a, v : integer array returns boolean array chillax end r : takes kr, b, m : integer array returns boolean array e : boolean; _0, W6N : boolean; u : boolean; X5d : boolean; chillax end b : takes A : integer returns nothing chillax end main : m, I : boolean; Z : boolean; chillax end

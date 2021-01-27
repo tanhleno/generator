@@ -1,0 +1,1 @@
+program W : vgq : takes K, W : integer array; I2, i7 : boolean returns boolean chillax end O7P : takes E : boolean array returns boolean la : integer array; chillax end main : when case true : while - 2 : while 80900 : chillax end end; when case 31 : chillax end case 6 : pop end case 8 : chillax end end end

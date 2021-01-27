@@ -1,0 +1,1 @@
+program Cv : o : takes Ru : integer returns nothing chillax end v : takes _J, m, Gy, p : integer; e : boolean array returns boolean array _2 : integer; C : integer; z : boolean; output 9 . "+" . 1 . "" end K : takes P : integer array; Q : boolean array; yO1 : integer; l4k, p060a, V : integer returns nothing let Str0[9] = 8 end main : chillax end

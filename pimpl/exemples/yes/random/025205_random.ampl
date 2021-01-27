@@ -1,0 +1,1 @@
+program gN1 : Ij : takes o, VL6 : integer; jz7, vNHaa, u : boolean array; S, pV : integer returns integer array S6 : boolean array; q53a, V : integer; Wp, j, H : integer; s, t : boolean; chillax end main : a, yL4a : boolean array; F, p : boolean; pop; input y; do N(5 and 0090 or 7) end

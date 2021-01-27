@@ -1,0 +1,1 @@
+program M5 : J : takes l, Zp, r, C : boolean returns nothing chillax end main : X, p, y : integer array; let M[- 81 * false rem false and 88] = true * not 3 and 17 - NbQ and 34; while - not K and(2) and 0 - true : output 8 . "4"; output ""; pop end end

@@ -1,0 +1,1 @@
+program B : main : L : integer array; g : integer; f, YiD, Z98aa, z : boolean; while - true / (4) : chillax end; when case - (6130) + (9) and 1 - 0 /= true and 06 - 9 - 9 : when case 7 : chillax end case 75 : chillax end case 90 : chillax end; do lc(31, 9) end end

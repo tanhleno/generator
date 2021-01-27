@@ -1,0 +1,1 @@
+program o : main : Fv5 : boolean array; k, gsG : integer array; A : integer array; I4x : integer; when case(5 = 72) = - 3060 * (2) : do Am4(- 20800 - 909 < 275) end case not 8 / (688) and 83 /= - false + 3 - 56 : chillax end case - (6) and 5 < 68 - 231 : let g = 70; input t; input J end end

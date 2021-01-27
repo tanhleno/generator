@@ -1,0 +1,1 @@
+program t : p : takes K9a : integer; l8h0a : boolean array; tD : boolean array returns nothing Iih0a : boolean array; output "X"; let Q = array 28200; when case 2 = 1 : pop; pop end case 326 : chillax end otherwise : chillax end end main : output ""; output "~r!" . "e`" . "\\"; while not 2 and 3 + 76 - 797 <= - 46 : do fxb(15); do Bq(3); pop end end

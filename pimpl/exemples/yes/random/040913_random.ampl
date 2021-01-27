@@ -1,0 +1,1 @@
+program ij90 : Mfo : takes l3f : boolean array; m : integer array; O : integer; Rr : boolean array; dq : boolean array; H3, Z, TW : integer returns nothing b, M : boolean; m : boolean array; Y, Q_ : integer array; do E6(- 1 /= - 0) end main : f, K : boolean; D, i : integer array; chillax end

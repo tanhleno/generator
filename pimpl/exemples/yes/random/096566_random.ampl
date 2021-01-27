@@ -1,0 +1,1 @@
+program XB : main : when case - true + 80 * (0) - (863) - 84 - 294 <= not not 4060 : let B5x0a = array 0 end otherwise : chillax end; do A(- true / T - 2); output "6" . "\\"; while 46800 - 15 < 8 : do h(776) end; output "" . 680 end

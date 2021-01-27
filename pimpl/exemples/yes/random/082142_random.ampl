@@ -1,0 +1,1 @@
+program h : main : q : boolean array; Z : integer array; let N1I = - not not 49 and not 0 and 5 or not 6 and 70000 < - false; input m[E[75] rem(9) - z8m and 5 - 3 - 22]; let h[- Y and 2] = 9; pop end

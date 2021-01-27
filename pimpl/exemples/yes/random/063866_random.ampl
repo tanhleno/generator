@@ -1,0 +1,1 @@
+program MO : c : takes _ : integer returns nothing chillax end main : do g(- false rem true * (0) and 1 + not false + 9 + 70 - 91 >= - (7) / false + true and 244, false <= 82 and 6, - k2g and 66) end

@@ -1,0 +1,1 @@
+program A92a : main : while true * (924) - not false * false > - false and false and 2 + (4) and 6 - 88 - 8 : output 4 = 99 . 1 end; output - (92) >= - 4 . - 4 - 1 >= 49 . 3; let C = array true and 7 + 39 - 9; when case 40 <= 8780 : chillax end end

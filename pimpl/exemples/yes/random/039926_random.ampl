@@ -1,0 +1,1 @@
+program p28 : dXpaa : takes nRs : boolean array; y : boolean array; Z7 : integer; Q : boolean; Y, U9 : boolean returns nothing chillax end main : o, jf, nr90a : integer array; when case 4 * true and true + not false and not 82 : output "" . 37 . "." . "0" end case - true * true and 6 + false and 22 - 8640 - 5190 : chillax end; input U4[a(2)] end

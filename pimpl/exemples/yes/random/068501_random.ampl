@@ -1,0 +1,1 @@
+program k : main : P, Z, W6G0, _J, v, ZD : integer; TK10, q : boolean array; when case - (8 = 0) : when case - 5540 : chillax end; let zR[4] = array 21; do O(3) end case false and(9) <= not 70200 and 3 - 998 : when case 98 : do V(1) end otherwise : pop end end end

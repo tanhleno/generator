@@ -1,0 +1,1 @@
+program v : X76 : takes o4, e : integer array; q : boolean returns integer array Vmt : boolean array; q : boolean; T, D3 : integer; l, f : boolean; when case - false and 8 or 59800 : chillax end otherwise : chillax end end main : w0E, q, I6 : integer; m : boolean; chillax end

@@ -1,0 +1,1 @@
+program p8 : o : takes F, O, A, D : integer array; A : integer array returns nothing f4 : integer; let k = 0 - 37; let Z = array - 99 end i36 : takes lst, T, M9 : integer returns boolean ry : boolean; output "~" end main : chillax end

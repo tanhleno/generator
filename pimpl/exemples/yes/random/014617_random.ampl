@@ -1,0 +1,1 @@
+program oq : v : takes i, dj, e : integer array; DQ : integer returns nothing Q310, SGw : integer; input x[not 32 and 4]; let Q[- 9400 - 7] = 966 end U : takes x15, Z10, _7q0a : integer; m66aa, c : boolean array; HOoaa : boolean returns integer let p = 49 end main : chillax end

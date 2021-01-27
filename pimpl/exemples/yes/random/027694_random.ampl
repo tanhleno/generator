@@ -1,0 +1,1 @@
+program w : i : takes k, U2 : integer array; L, J : boolean array; C : integer returns nothing when case(1) and 9 : let B13 = 83100 end case - 90 : pop end case 3 = 999 : chillax end case 09 : chillax end end main : chillax end

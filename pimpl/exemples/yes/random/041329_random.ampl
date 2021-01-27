@@ -1,0 +1,1 @@
+program F40aa : o : takes L : boolean array; Nq : integer returns nothing chillax end main : b6s, p, m, e : boolean array; U, eA, Flp, v : boolean; do b4(- not false, true / false /= X1 and 07300 + 6) end

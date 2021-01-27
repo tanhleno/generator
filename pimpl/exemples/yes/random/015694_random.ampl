@@ -1,0 +1,1 @@
+program Z : X : takes p, L, c : integer returns boolean array _74, b : boolean; input WZ6[not 0 and 654] end As0 : takes v : integer array returns boolean array do aC7aa(7, 4 = 06200, 1, 0); output "" end i : takes b : boolean array; e : integer; t : boolean; A : integer array returns nothing P7I : boolean array; chillax end main : s69, D : integer; chillax end

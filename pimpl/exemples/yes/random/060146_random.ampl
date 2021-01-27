@@ -1,0 +1,1 @@
+program i : I1 : takes TT : integer array returns nothing do i(- true > - 875 - 75, 02 - 8, 0, 91700) end main : c, Lfe, N4Y, Xy0a, uPX, lp : boolean array; do F(Q3xaa[4040] / (33) and 2 and 7 - false / true or false = 60 + 3 and 8 or 753); output "" . - 0 >= 14 end

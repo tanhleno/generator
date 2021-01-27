@@ -1,0 +1,1 @@
+program Hv5a : R : takes W : boolean array returns nothing chillax end main : when case(7) rem 8 - not not 34 >= - A5(9270) : chillax end case - false * (91) and 361 - (4) and 77 or 71500 : output 7 end case - 96 - 0 - 63 /= 3 : chillax end end

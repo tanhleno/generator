@@ -1,0 +1,1 @@
+program Mkp : x : takes R6, S, IIm : boolean returns nothing chillax end main : when case - 3 < - m[98] : when case - 0 : chillax end case 2090 = 48 : while 801 : chillax end; pop end case 0 : chillax end; do kT(3); pop 7 end otherwise : chillax end; pop(7); output "[0aa" end

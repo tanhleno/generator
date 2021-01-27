@@ -1,0 +1,1 @@
+program G : main : input T[not 0 rem false rem not 0]; pop; when case - not 519 and 3 = 99 - 8 : do L(2, 2) end case 27800 <= 21 : let XJ = 2; when case 6070 : chillax end end; when case 0 = 1 : while 0 : chillax end end case 1 = 0 : chillax end otherwise : chillax end end

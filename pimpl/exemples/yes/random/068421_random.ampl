@@ -1,0 +1,1 @@
+program m46 : main : zq, l8, t, Gt, E8Aaa, _ : boolean array; Z : boolean; b : boolean; mww0a, ta, q : integer; Vk, J : integer array; NC, g : boolean; do Q((50 = 16) rem JHg - true * (23) and 9, 71 rem false and 60) end

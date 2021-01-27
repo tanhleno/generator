@@ -1,0 +1,1 @@
+program ZG30 : Znv0a : takes l : boolean array; iFd, c84 : integer array returns nothing V, qjA, b170a, pT, cE : boolean array; output 92700 - 8; let D = 8 = 35; when case 51 : chillax end otherwise : chillax end end main : v : integer array; output - not(1) - 7 and 7 or 7; let wj = - false and 03 > - 267 - 5; input Y[false + 84 - 0370] end

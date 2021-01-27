@@ -1,0 +1,1 @@
+program z6 : nIX : takes b, k, a, rH : boolean array; v5, D : integer array; jU : boolean; Fl, d3, V1 : integer array returns integer array when case - 67700 and 3 : pop 389 end end main : chillax end

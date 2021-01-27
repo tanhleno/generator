@@ -1,0 +1,1 @@
+program s4A0a : s : takes s99, Sk, o26aa, E, nS, x, G, J : boolean; NN : integer array; p, I9 : integer; D : integer; o9, e8, _O, o : integer array; E : boolean; p : boolean returns integer chillax end main : chillax end

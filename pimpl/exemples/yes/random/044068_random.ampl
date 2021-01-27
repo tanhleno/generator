@@ -1,0 +1,1 @@
+program E : r6 : takes W : boolean array returns nothing G0, u, yl : boolean array; chillax end iZwa : takes A : boolean; m, d1 : integer array returns nothing pop; when case 8 = 9 : chillax end; pop 22; when case 58 : chillax end end main : chillax end

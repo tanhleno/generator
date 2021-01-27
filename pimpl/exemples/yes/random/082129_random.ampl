@@ -1,0 +1,1 @@
+program S : main : Y : boolean array; mu5 : integer array; W : integer array; Gji0, t, whe, pZ : boolean array; while - not not Y9Y0a : do Vf(- 35 > 4410, 3990 = 526, 623); input CD[3] end; pop; let E7M = array R2i and 9; let O = array - 9 - 4; pop; output 77 . "" end

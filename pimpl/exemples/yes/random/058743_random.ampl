@@ -1,0 +1,1 @@
+program H_ : PT : takes s : integer array returns integer array d, RQeaa, d : boolean; u, LH00a, Oo10, E09 : boolean array; H2, N0, m : boolean; chillax end B6 : takes pOu : boolean array returns integer array output ""; while 7 = 4180 : when case 14 : chillax end; pop end end main : chillax end

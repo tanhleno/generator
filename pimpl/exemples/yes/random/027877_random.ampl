@@ -1,0 +1,1 @@
+program n : B : takes E, oOfaa : integer array; T, H : integer; gO : boolean array; Y7, q6S0, X : integer returns nothing Z, fu, y, H : boolean array; r8 : boolean; let Xk1[- 33400 - 61] = 2 - 3 <= 4 end nN : takes T16a : integer; xX : boolean returns nothing Ax2aa : boolean; U : integer; chillax end main : hO : boolean; uL : boolean; p : integer; Wz6 : integer; chillax end

@@ -1,0 +1,1 @@
+program lw : J3 : takes Z, m, Y3w, Sv, S, G, Sm, a : boolean; l : boolean returns boolean array U, q, m : integer; yD2a, e, v, Q : boolean; P, z, t : boolean array; when case false and 0 + 39500 - 1 : do B(4, 5); let O2 = 90500; input x end otherwise : do W(80500); output "6" end; when case - 1 - 60 : do eNua(4); pop; pop end end main : VX : boolean array; chillax end

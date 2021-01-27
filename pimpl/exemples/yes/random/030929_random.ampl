@@ -1,0 +1,1 @@
+program qhP : G1I : takes x070, m : integer array returns nothing I : integer array; f, m : integer array; chillax end main : let n[true * not g19 or true or not 8 and 0] = - (4) / (5) and 35400 >= not 03; when case false + false and 8 - 8 - 1190 /= - (61) : chillax end end

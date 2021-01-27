@@ -1,0 +1,1 @@
+program h : main : Z, m : integer; bR6 : integer array; e, m6_, BF, TSu : integer; qd4a, LJx : boolean array; W3, Y1, P : boolean array; output - 4 rem true - false >= - true or 7 - 3 . "" . 0 - 2 . "" end

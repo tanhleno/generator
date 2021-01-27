@@ -1,0 +1,1 @@
+program h30 : E : takes c3Jaa, Ij : boolean; p : boolean array returns integer array pop - 55; pop end tt : takes i, h7, A8Aaa : boolean array returns nothing R : boolean; f : boolean array; while - 21 : do rr(1); do sMj(2); pop end; pop end main : chillax end

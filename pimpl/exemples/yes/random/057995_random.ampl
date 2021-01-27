@@ -1,0 +1,1 @@
+program wx20a : q : takes T : integer array returns boolean array when case - p and 005 : output 4 . "" end otherwise : pop; while 8 : chillax end; pop end end main : L6M, XE, D, k3, pZ, p : boolean array; u44, J3 : boolean; S2, a : boolean; chillax end

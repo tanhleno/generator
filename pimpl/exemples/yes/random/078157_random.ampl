@@ -1,0 +1,1 @@
+program m2 : main : mrX, n : integer array; while - U and not 08 rem wr > (4) - true : when case - 7 > 9 : chillax end case 2 = 8 : chillax end otherwise : chillax end; do v(73 = 834, 14, 837); output 93 . "" end end

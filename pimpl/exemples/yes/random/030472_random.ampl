@@ -1,0 +1,1 @@
+program F1 : g : takes A4, Ag : integer array returns nothing Q, c, U, Z6, EKV : integer array; while - false = - 6 : chillax end end L7M : takes I, CZ : integer; t, rHB : integer array returns nothing chillax end b3 : takes z : boolean returns boolean gV : integer array; jW : boolean; when case 7 = 2 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program D : v : takes X, T : boolean array; o : integer array; d060 : integer array; b : integer array; U : boolean; P : integer; k : boolean; l05 : boolean; d : boolean returns boolean do m(not 83 and 6 or 3, - 809, 1, 6); output 95; output "\"\\\"" end main : V : integer array; chillax end

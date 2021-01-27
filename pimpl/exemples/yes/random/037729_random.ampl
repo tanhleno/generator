@@ -1,0 +1,1 @@
+program TI1 : v0 : takes Lx7 : boolean array; P, O, b, NR4aa : boolean array; O, h, y, pc50a, nH, RV : boolean array returns nothing chillax end main : w6, B : integer; Z : boolean; pop S[6] >= false or 223 end

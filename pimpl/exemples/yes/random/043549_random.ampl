@@ -1,0 +1,1 @@
+program G8 : n : takes R8B : boolean array returns nothing chillax end q : takes X : boolean; E260a, LpH : integer array; rw1 : integer returns nothing s, w1 : boolean array; when case 42 - 5 : let g = 8240 end case 6 = 8 : when case 6 : chillax end; pop end otherwise : chillax end end main : chillax end

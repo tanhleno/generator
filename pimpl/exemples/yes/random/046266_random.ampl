@@ -1,0 +1,1 @@
+program U6 : gI : takes W : boolean returns boolean nt : integer; when case - true and 1 - 445 > - 8 - 8 : chillax end case 72 - 374 : pop end case 593 = 656 : chillax end; output 64; while 597 = 4 : chillax end end o : takes C : boolean array returns integer array chillax end main : chillax end

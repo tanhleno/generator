@@ -1,0 +1,1 @@
+program U : K0kaa : takes a4, YR9 : integer; Ek, BC, j07aa, i : boolean array returns integer input FK[5 and 0 or 666 - 0]; while 4 - 01800 : let ws = 11600; input OS10; pop end; pop end main : M28, W, l : boolean array; let M = true + not 5 < - true + 3 end

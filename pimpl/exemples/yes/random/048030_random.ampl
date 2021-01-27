@@ -1,0 +1,1 @@
+program z : JY9 : takes q5 : boolean returns nothing w, Mc, u : integer; u, p32, O2 : integer array; chillax end ZC80a : takes yw, QD : integer array; k, d9ga, H : integer; wlwa, N : boolean returns boolean Jv : integer array; chillax end g2 : takes kC : integer array returns integer array chillax end main : input T[6]; input U[- false / false and 06 or false + 8 - 2590] end

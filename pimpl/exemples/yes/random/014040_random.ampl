@@ -1,0 +1,1 @@
+program yM50a : q : takes wH, S9N, p3 : integer array; q, i : integer array; u9ua : boolean; Oj, J6l : integer array; j1 : boolean array; n, v : integer returns integer MG, T : integer; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program nm : JN : takes O9f : integer returns integer array Nq : boolean; w8, _53aa : boolean array; JF3a : boolean array; while true and 6 or 62 - 5420 <= - 7 - 32 : chillax end end x2 : takes v : boolean array returns integer array chillax end main : hSF : integer; input x[(79)]; do i18a(- true - false and 5 - 6, - 0 and 9 + 92, - 20 - 0 = 950) end

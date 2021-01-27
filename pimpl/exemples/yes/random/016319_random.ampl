@@ -1,0 +1,1 @@
+program D : U2iaa : takes C, n, w : integer returns nothing S, a, T : boolean; let t[- true and 8 or 98 - 8] = - 6 end main : q : boolean array; ht, F09, a : boolean; l6s0, vf8a, Iie : boolean array; chillax end

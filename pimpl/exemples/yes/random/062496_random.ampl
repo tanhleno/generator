@@ -1,0 +1,1 @@
+program za3 : Tu : takes E9K : integer returns boolean v7 : boolean array; Q55, O32, L90 : integer array; P9, W790a, Bw : integer; chillax end main : e48, zR4aa, Y : boolean; w, k8 : boolean array; while - 50700 /= - true : chillax end; while - K = - (5150) and 8 : output 29200 . "" end end

@@ -1,0 +1,1 @@
+program e0 : main : while - false : when case - 421 <= 2 : chillax end otherwise : chillax end; output 5 . ":c" . ""; while 34 : chillax end end; when case - 453 rem false >= zc and 6 : chillax end otherwise : chillax end; when case 59 and 4 or 1 - 2 : let Q = array 161 end otherwise : output "\t"; pop; pop end; let N = array 7; when case 9 = 3 : chillax end end

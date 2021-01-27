@@ -1,0 +1,1 @@
+program HI : x : takes l4 : integer array returns nothing Qy20a : boolean array; chillax end b : takes Nf, o5, I, k : boolean; H, Qy2 : integer; i : boolean; L : boolean array; U2 : integer returns integer b : boolean; PG4 : integer array; p3eaa, L7 : boolean; chillax end main : output not not 3210 /= not 5 and 71 . M + 2 end

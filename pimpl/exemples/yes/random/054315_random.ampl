@@ -1,0 +1,1 @@
+program n360 : A : takes L : integer array; Z, gU, I : integer returns boolean array omo0a, gO : boolean array; _R, X900a, e : boolean; J : boolean array; chillax end w : takes j : integer array; g : boolean returns nothing chillax end main : while - 5 = - (900) rem(5) or pW and 32200 : chillax end end

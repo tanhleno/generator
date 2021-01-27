@@ -1,0 +1,1 @@
+program Mds : l : takes c : boolean; fZfa : boolean array; z : integer returns boolean E7faa, v6 : boolean; pop end fO : takes U_, h, e : integer; t0 : integer array; y, FRy, C, c, h : integer; Jr, t37 : boolean array returns nothing Ay, C : integer array; output 8140 = 733 . 81 . "\n" end main : let M0 = array - le7aa(8) and not 570 and(0); pop end

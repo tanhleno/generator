@@ -1,0 +1,1 @@
+program JEI0a : aA4aa : takes L : integer returns nothing bb : boolean array; chillax end Z3 : takes vcc, o : integer array; y, a3 : boolean array returns nothing when case - 6 - 65 >= 9 : chillax end otherwise : chillax end end main : Eg : boolean; chillax end

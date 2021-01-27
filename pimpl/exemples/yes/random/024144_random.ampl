@@ -1,0 +1,1 @@
+program O6 : r : takes H, n4 : boolean returns nothing js2, Y1, v, KG6, veV : boolean array; do M(- false, - 58 < 69, 46 = 76); let pMN = array 112 - 663 end main : Kc : integer array; P, W2 : integer; while false * false * not 5 - Hk9 / yD + 1 : pop 42 end end

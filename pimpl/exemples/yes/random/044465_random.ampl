@@ -1,0 +1,1 @@
+program x8 : J8 : takes h2 : boolean array returns nothing B5 : boolean; _3, b7w0a : integer; chillax end A : takes K640a, E08a, m07 : boolean; A47 : integer array; p : integer array returns nothing chillax end main : V : integer; input zJUaa; do _(true); while not 75 : while 4 : chillax end; pop; let doq = 7 end end

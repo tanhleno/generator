@@ -1,0 +1,1 @@
+program u : main : C1c0 : boolean array; when case - (77) > - (4) / 4 or not 346 and 7 + 41 - 9 : input _9[- 5]; while 09400 = 29 : when case 0 : chillax end end; while 39 : chillax end; let M = 6 end; do _(not 5 or true and 1 - 8 - 6 >= (5) and 4840) end

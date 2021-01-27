@@ -1,0 +1,1 @@
+program c : main : Q47, tm3, x, i9M : boolean array; k : boolean; do g(true and 76 * O >= (64) / not 0 and 1, (9) /= - not 367 and 85 - 3670, - false or 50 - 69 >= 9); when case 337 / 874 : output 7; pop 58 end end

@@ -1,0 +1,1 @@
+program i : t3 : takes P : integer returns integer array chillax end main : output false * 99 > true and 028 + 1 - 52 . false - 1; when case - e[16] / not 9 and 1 or not 1 : output "1j" . 1240 . "8" end otherwise : pop 29 end end

@@ -1,0 +1,1 @@
+program E : E : takes y : boolean array returns boolean array do seG(- 7780) end mvAa : takes p, l8q, a0 : boolean array returns integer chillax end main : while - (98) - true or true and 5 - 7260 = 7 / true : chillax end; while - true rem 404 and 47 = - false and 2 or 4 : input _0[20] end; pop end

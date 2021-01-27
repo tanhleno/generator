@@ -1,0 +1,1 @@
+program F : main : a, vN8 : integer array; Nr, F, r, L, l1, T : boolean; g4y : boolean; f0R0, X, pj : boolean; output "6" . ""; do i(- 548 < - true, true - 5 - 404 /= - 95, 167 - 1 <= 80); while false : pop 30; let xz9aa = 4980; do k(625) end end

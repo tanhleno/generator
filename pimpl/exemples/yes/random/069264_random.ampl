@@ -1,0 +1,1 @@
+program E_ : main : Z, V, R3, SB, g4 : integer array; mm : boolean array; pop; let f[not t1I] = - l6 and 4; do Z(- 3 and 90 or 1 - 8 < - 409); while - 4 - 1 >= 0 : chillax end; input tM2a; let D3 = 8840 end

@@ -1,0 +1,1 @@
+program b6 : cx : takes w : boolean returns integer array j1 : integer; chillax end main : do tuL(- false - S5o(99) / not 0 and 6 or(4), false + false - 5 - 814); let uJe = false and 36 + 0 - 67 = - 6 - 0 end

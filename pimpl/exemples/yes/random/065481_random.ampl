@@ -1,0 +1,1 @@
+program P : w : takes g3j0 : integer returns nothing when case - not 7 and 9 : pop 4 end otherwise : when case 102 : chillax end; output "d4aa"; pop end end main : do o((1 = 98) >= true or f, true - 1) end

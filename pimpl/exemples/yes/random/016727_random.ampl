@@ -1,0 +1,1 @@
+program i : x : takes i, P : boolean; m, sqc0, tG, M1, cVO : integer; U, u, s : boolean array; y, T7, u : integer array; z, o : integer array returns nothing chillax end main : OK, I4t, S : integer array; r, o, D86a : integer; input o; do yJ(- true / not 121, - R and 97, - 2 - 2) end

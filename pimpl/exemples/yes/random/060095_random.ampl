@@ -1,0 +1,1 @@
+program m8 : I640 : takes y : integer array returns nothing chillax end main : while - 3 <= - not 2 + not 4 - 113 - 9 : chillax end; input i26a[0 * 1 - 281 and 71 or 8 - 69]; pop; pop 8510 = 5; while 8 : chillax end end

@@ -1,0 +1,1 @@
+program b : US : takes O : integer array; Cl, Y, JM, yDRaa : boolean array returns integer M : integer; chillax end main : E0C0a, ZG00, R0, l : boolean array; let a[- not not true / 26100 * (9) and 85 or true] = array - 8 rem 4 * not 1 and 36; output "" end

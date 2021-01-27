@@ -1,0 +1,1 @@
+program Nl : r : takes BP : boolean array; cZ10 : boolean returns integer f, rz30a : integer; when case S < - 25 : chillax end end main : i : boolean array; let dXP[(4 = 9210) * not false or(2) - LC] = 0 or true and 3 < - (2400) - 7 - 8; while H * e + false and 5 > - 1 and 8 : chillax end; input WT[- (2) or 0 - 87800] end

@@ -1,0 +1,1 @@
+program X5H : X6m : takes ry2, O : integer returns integer K7, P22, e : boolean array; chillax end eUr : takes ew, C : boolean returns boolean array R : integer; let X8 = 6; do I68aa(9); pop; input k; output ""; pop end main : j00, X : integer array; chillax end

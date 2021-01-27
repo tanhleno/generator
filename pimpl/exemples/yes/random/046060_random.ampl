@@ -1,0 +1,1 @@
+program FUa0a : VN7 : takes l : boolean returns boolean p, Y, t6ha, w : boolean array; CG8, eR : integer; Tx7 : integer array; chillax end k0 : takes b : integer array; nB3, L : boolean; i : boolean returns nothing chillax end main : chillax end

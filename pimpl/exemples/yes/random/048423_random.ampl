@@ -1,0 +1,1 @@
+program C : F : takes F06 : boolean returns nothing X2 : boolean; when case - (64800) + 20 : when case 2190 : chillax end case 01 : chillax end otherwise : chillax end end case 504 < 9 : input T end end main : input FzM0[false] end

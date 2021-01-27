@@ -1,0 +1,1 @@
+program sQ6aa : R31aa : takes Ytg, ba60, I, _ : boolean; T, W : integer returns nothing l, c, _, V, Q : integer; f : integer; u950 : integer; V7 : boolean; chillax end main : while not y(13) * true / true or 6 : let Q[39 - 2050] = 184 = 1 end; do n(- W / (4) or(16) and 8 < - OU and 4 + 3 - 0460, _7 or 634, - 7 - 14 > 0); do A9(not 9) end

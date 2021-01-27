@@ -1,0 +1,1 @@
+program d : YDd : takes o : boolean array; cb : boolean array; aj, d, I, _6, rZ, k1 : integer array; H : integer; x, e73, ML, I7L : boolean array returns boolean array output ""; output "" . 36000; let J[7] = 72; output 7 end main : A5C, K : integer array; chillax end

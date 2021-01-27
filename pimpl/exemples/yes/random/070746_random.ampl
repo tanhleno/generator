@@ -1,0 +1,1 @@
+program pF : main : q, m13aa, a9t : boolean; Qm, X, u, E, E : boolean array; J : integer; when case Ng(2, 5750) + (6) and true and 6 + false and 46900 : output 5 . "" end case - true /= - 7320 and 5 : do kv(1 = 7, 64, 5); while 1260 : chillax end; pop end end

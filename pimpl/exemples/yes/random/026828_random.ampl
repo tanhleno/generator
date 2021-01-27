@@ -1,0 +1,1 @@
+program n : Co : takes KUl0, z : integer; n : integer array returns nothing T53, L6, etm : integer; output "vK"; let IB1 = 2 = 4; input SG[9]; when case 435 : chillax end case 7 : chillax end otherwise : chillax end; pop; when case 5 : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program j6g : main : k70, S : boolean array; when case not(4) / false : input yy end otherwise : pop; pop 4; do Ko3(7) end; while - (8) and not 7 and 3 + true and 0 + 3 >= - true or 77 : output "<40a" . "26\"" . "" end; when case not 55 and 1 or 1 > - 30 : let A1[3] = 6; do j650(7); input J; pop end; output 54 = 6 . "" . "" . "4"; pop end

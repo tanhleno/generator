@@ -1,0 +1,1 @@
+program T : main : q : integer; do p4faa(- not true and(01) * 3 or not false); let f = array - (18800); when case V5K and 79700 <= 8 : while 66400 : pop end; output ":M" end otherwise : chillax end; do F8(1 - 0 >= 63, 5, 80, 030); do nj(4220); pop 8 end

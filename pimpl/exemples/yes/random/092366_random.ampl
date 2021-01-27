@@ -1,0 +1,1 @@
+program L : main : output - true + not 8050 . "\t\t"; when case not D - 60 + 0 > - true + 5 - 12 : chillax end case - (9) - 97 - 3 : output 0 . "\t2a" end case 4 - 5 < 93 : do y02a(790); do uzNa(084); pop end end

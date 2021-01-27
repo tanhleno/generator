@@ -1,0 +1,1 @@
+program zP : bV : takes r : boolean; D, k5 : boolean array returns nothing when case false and 7 >= 82000 - 040 : chillax end; input tT[- 091 - 73] end main : i6b0a, i : integer array; do k6(- true, - 9 <= n2 and 00 or 703 - 32); while - false : pop end end

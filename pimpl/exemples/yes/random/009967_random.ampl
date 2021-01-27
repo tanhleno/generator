@@ -1,0 +1,1 @@
+program kPU0a : g : takes mj, S, R : boolean array; F, p0 : integer returns nothing R, _S4aa : integer; do F(not 09400 and 8, - 80 - 8980, 50); when case 0 > 5 : chillax end otherwise : chillax end end main : chillax end

@@ -1,0 +1,1 @@
+program p : A490a : takes iI : boolean array; n, V, Bv : integer returns boolean array pop - 01 - 7 <= 7; let p[- 222] = 8 = 18000 end YG : takes i, b8S, E : integer; P36, s560a : integer returns integer array while - 0 /= 3 : chillax end; input f[4]; input U93[92] end P3 : takes f, s : boolean returns boolean chillax end main : chillax end

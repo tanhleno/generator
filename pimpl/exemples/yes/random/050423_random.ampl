@@ -1,0 +1,1 @@
+program D8b : x : takes CM : integer; ge4a, D : boolean; J : integer returns integer array when case - h3taa > 4 - 6 : while 6 : chillax end end otherwise : chillax end end main : M, n, M : boolean array; P2 : integer; r, aXM0a : integer; k : boolean array; chillax end

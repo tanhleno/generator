@@ -1,0 +1,1 @@
+program W : main : u, l, f2, t5 : integer; shQaa : boolean array; x, Ay : integer; t : boolean; b5 : integer; H6, Nz : boolean; m : boolean; output false - false and 3 - 5 > A and 983 . "" . 9580 - 1 >= 43 . 0 . "tL" end

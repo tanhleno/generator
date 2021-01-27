@@ -1,0 +1,1 @@
+program o0 : H_ : takes z : integer array; u : boolean array returns nothing pop 4110; input i; while 18800 = 7 : chillax end; let S = 8 end Cn : takes L, abS : integer; k400a, S, I07, kbz0a, Z : integer array; lcs : integer; dy : boolean; nb, K9 : boolean returns boolean MU : integer; s, iY : boolean array; pop 1 = 60 end main : let X9 = h rem 113 and 55 or not 684 or 4 - 08 end

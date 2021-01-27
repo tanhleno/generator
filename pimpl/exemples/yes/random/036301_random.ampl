@@ -1,0 +1,1 @@
+program b : CF : takes c : boolean; l : boolean returns nothing TD, D8 : boolean array; chillax end main : when case - X[1] * (88) rem 6 and 1 + not false - not 5 and 5 - 8010 : chillax end case false * not 24 and 2 + (61) and 12600 + 4470 : chillax end; while - false = false and 03 : chillax end end

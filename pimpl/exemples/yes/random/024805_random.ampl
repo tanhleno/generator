@@ -1,0 +1,1 @@
+program T : gm : takes p, r : boolean returns nothing pop end main : QJ1 : integer; k3, eW : integer; mp6aa : boolean; W, C, y, l5 : boolean array; output not false or true and 5 = false and 65800; do O(- 9 or not 9, - false <= 34, 2080 > 6, 4 = 566) end

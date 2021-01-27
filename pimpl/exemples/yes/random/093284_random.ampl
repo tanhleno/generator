@@ -1,0 +1,1 @@
+program W : main : output "" . "+la"; when case - not b rem not 878 and 7 + 50500 + 0780 < (8) and 9 or 809 - 1 : chillax end case false or 1500 : while 7 : pop end; let uw = 4 end otherwise : when case 6 : pop end case 5 : chillax end end end

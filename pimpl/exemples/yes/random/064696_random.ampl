@@ -1,0 +1,1 @@
+program zlu0a : S0 : takes FK : integer returns nothing u9 : boolean; X : boolean; input A; pop; when case 4 = 80600 : while 0 : chillax end; pop end case 1 : chillax end case 4000 : chillax end otherwise : chillax end; pop; when case 3 : chillax end; do HI4(870) end L : takes h, F, XYX0a : boolean returns boolean O2F, jJ : integer; input S[- 8500] end main : chillax end

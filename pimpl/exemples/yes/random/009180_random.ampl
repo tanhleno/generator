@@ -1,0 +1,1 @@
+program r270 : i : takes N, yO00a, v : boolean; E : boolean returns integer do tz((21) and 1 < - 86); pop end x : takes Mu, o : boolean array; c : boolean array returns nothing b0, p : boolean array; u : integer; v : boolean; rU00 : boolean; chillax end main : I, kM6a : integer; chillax end

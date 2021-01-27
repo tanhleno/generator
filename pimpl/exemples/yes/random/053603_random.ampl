@@ -1,0 +1,1 @@
+program sNv : S : takes Z : integer array; e, g, JxT0a, Cu, T8Waa : integer array returns integer array chillax end r : takes ze : integer; J0 : boolean; Hh10, P, ez : integer array; A : boolean returns nothing chillax end main : do o(k7Z /= - true / true and 974 + true and 5); output - not 0 or 7 - 01 . - 1 > 2 . 126 . 78 end

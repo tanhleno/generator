@@ -1,0 +1,1 @@
+program UZD0a : Zn : takes t, e, Nf1 : integer; H, kY, H : boolean array returns boolean chillax end main : when case - (40) or false * false and 2 - r85 and 870 /= qLg or false + 2 - 6 : chillax end case true - b and 37 >= - (85) and 61700 + 2 : output 9 . 9 . "P" end end

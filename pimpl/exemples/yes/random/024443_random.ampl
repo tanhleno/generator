@@ -1,0 +1,1 @@
+program x : m : takes T6, D : boolean returns nothing b5Y0 : boolean; v15a : boolean array; P80, H : integer; while true : chillax end end main : when case s1w0 and not true - 762 * (0) - not 6 and 1 : chillax end case not(3) and true /= 339 - 0 : chillax end otherwise : chillax end; pop - true or 9 - 141; do x(not 422 and 13500 or 0 - 5 > - 3600 - 8, - 0 - 466); pop end

@@ -1,0 +1,1 @@
+program u : q : takes v300a : boolean array returns nothing O : boolean; do m6(false and 80) end q : takes T : integer returns boolean V : integer array; v1, p850, gO : integer; E5X : boolean; V : boolean; k : boolean; let _c[- 6 - 4910] = 4 end main : chillax end

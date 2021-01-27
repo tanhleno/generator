@@ -1,0 +1,1 @@
+program aI : vSj0a : takes m : integer array returns boolean array pop end Q : takes E : boolean returns nothing do O(- 25, 48, 5450) end C9 : takes b0 : integer array; w, S : boolean array; S : integer; A86, K : integer array; QnU0 : boolean; X : boolean returns integer when case 8 = 3 : chillax end end main : c, J9ta : integer array; chillax end

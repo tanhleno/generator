@@ -1,0 +1,1 @@
+program x : main : T : boolean array; Y : integer array; A8 : boolean; z9 : boolean; when case L18[1] rem true rem false and 5 or true + true or 8370 = 73 * false : chillax end otherwise : pop 0 end end

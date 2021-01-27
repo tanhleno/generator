@@ -1,0 +1,1 @@
+program Y540a : main : H69aa : boolean array; q52, f, L : integer array; let o[- true and not not 2 / not 316 - not true] = - 01 + (8840) <= 7520 and 8; output - true and 7 . 724 . ""; when case 7 and 7 - 4 : chillax end case - 7 - 69 : while 211 : chillax end end case 549 : input w; pop end; pop; pop 8 end

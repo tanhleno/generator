@@ -1,0 +1,1 @@
+program io5 : V : takes R, R : integer array; C : integer; h : integer array; P, t : integer array; K, m44a, L : boolean array returns integer array while - (570) > - 20 : output "&"; do M7(9240); when case 3 : chillax end; pop end; input O6[- 866] end main : chillax end

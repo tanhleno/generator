@@ -1,0 +1,1 @@
+program RD1 : S8 : takes J : boolean array returns integer output "P\"\""; while - 25 - 69 >= 661 : pop end; pop end main : z : boolean array; output "`" . 3; when case - (771) + Qz30a and 7 - 23 /= - (92) : when case 7 = 69 : chillax end; while 764 : pop end; input Q6z; do d(792) end end

@@ -1,0 +1,1 @@
+program xyd0a : main : pop Nv[94700] / false + true and 0 - 5 - 9; while 8 * false + 9 and 1 + 87 - 5 = 14 and 0 - 1 : pop 66; input A[0] end; do h(- B and 2 or 0 - 47300, 46 - 4); output "" . 8 . "T" end

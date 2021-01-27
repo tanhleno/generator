@@ -1,0 +1,1 @@
+program F8 : d : takes z8w, T8, cZD : integer returns integer let p[not 2] = 34 - 94 /= 4; do i1(5 > 02); when case 7 = 936 : let vh = 9; pop end; do LG4(15); input U end L : takes C : boolean array; wyI : integer array; z : boolean array; r : boolean; c9 : integer returns nothing a : boolean; dT2, t, fx : boolean array; S : boolean; P : boolean; chillax end main : chillax end

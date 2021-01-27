@@ -1,0 +1,1 @@
+program O3wa : _yS : takes vS : boolean; a, v, u1 : boolean; Z, Wvb, ZS, v, g, Ho10a : integer returns nothing output - 48300; when case - 02600 >= 77 : chillax end; output 43; output "" end main : Nq1 : boolean; chillax end

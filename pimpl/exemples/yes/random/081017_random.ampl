@@ -1,0 +1,1 @@
+program Vg : main : E : boolean array; b, L5, JC : boolean; while not(34300) - true and(9) and 1 + t and 50 : chillax end; when case not true - true + 03 - 89 > - 6 : chillax end otherwise : chillax end; input mu[l0Ba and 8670 + 1] end

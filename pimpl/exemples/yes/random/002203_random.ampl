@@ -1,0 +1,1 @@
+program Z : P : takes R, s, s, f, W : boolean; b4Va, U : boolean returns nothing c4, g : boolean array; aw10a, Er, b : integer; v5raa, V : boolean array; while - not 29 or 71 : chillax end; when case - 5 - 28 : input W; do K(945); pop end case 41700 : chillax end case 820 : chillax end end main : m, H9, v, W : boolean array; chillax end

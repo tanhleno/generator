@@ -1,0 +1,1 @@
+program CV0aa : main : A1 : integer; while - Ev(8) - false : while 3 = 9 : while 07 : chillax end; do I5L(45) end; pop 9 end; when case(51) / gZ and 95 or 9 /= - S and 2 - 69 : chillax end case ji9aa - 4 : chillax end case - 1 - 557 > 46600 : chillax end otherwise : chillax end; pop end

@@ -1,0 +1,1 @@
+program Ap : M : takes I, aleaa, Y4, U2 : boolean returns integer while - false and 07 < - 932 : do P78(8, 67) end; do u(- 6, 39 = 0, 66100, 4) end main : while 2 and false or false + not 30 and 1 : chillax end end

@@ -1,0 +1,1 @@
+program t96 : jL : takes A : boolean array returns integer Lo, c, J : boolean; E9 : integer array; KCwa, He : integer; M, C : boolean; B : boolean; M : boolean; chillax end w : takes U : integer array returns boolean array d, V : integer array; Ik8, T : boolean array; F : boolean; yaga : boolean; chillax end main : chillax end

@@ -1,0 +1,1 @@
+program e : main : pop - 9 + 44600 and 8 + 4; when case Pd /= - qR and 7 or 567 : let H[00] = 3 end case not 5 and 75 < 2 : while 66700 : pop end end case 1 >= 45 : while 79100 : chillax end end; let z1[true or 4 - 2560] = array not 77 - 4 - 953; let r[128] = array 6 end

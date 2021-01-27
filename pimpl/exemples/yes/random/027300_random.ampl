@@ -1,0 +1,1 @@
+program T5N0 : Oq : takes k, _N6a : integer array; w, zPx, p4, m : integer returns nothing output 01 - 36 . "" . 6350; input Ac[- 64 - 7] end main : pop - 1 / false and 91 > - not 8 and 6 + 5; pop; input cWJ[- (70100) and 06000 + 7 - 57]; let a6 = array - 012; pop end

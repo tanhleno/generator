@@ -1,0 +1,1 @@
+program F : c : takes o6 : boolean; ad7aa, B02 : integer array returns nothing chillax end main : pop mk[416] - 7 and 7 - 16 - 9 <= (2) and 73 or 57 - 659; output "" . - 3 - 0; let s = - 0 /= 19; pop 2; input e9[0]; output "" . "2" end

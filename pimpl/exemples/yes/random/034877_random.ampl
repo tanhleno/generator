@@ -1,0 +1,1 @@
+program m : A : takes Q : boolean; sn3, e1 : integer array; xzy0a, Tn, rM, vc6aa : integer returns boolean output - 08 . "m"; input F end EK : takes r4b : integer array; eM5, mO, A20 : integer returns nothing Ajt, Du20, g : boolean; input g[- 6 - 33]; pop end main : c96a, T, i, ZX7, gl : boolean array; chillax end

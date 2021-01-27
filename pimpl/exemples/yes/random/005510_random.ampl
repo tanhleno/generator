@@ -1,0 +1,1 @@
+program e : H : takes L, W, K5v, J : boolean array returns integer let Q49a = array(9) and 0; when case - 2 > 5 : while 7 : chillax end end end x8R : takes s, cQBaa, slS0, T : integer returns boolean array h7m, t, ML4aa : integer; chillax end ao : takes k : boolean array returns integer array fS, g, Qz : integer array; do E(539 = 13, 8, 4) end main : chillax end

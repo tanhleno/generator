@@ -1,0 +1,1 @@
+program D : M : takes p : integer returns boolean t, L : integer array; W, W, qa, h : boolean; do j8h0(8 and 70 > 4, 3 - 69 >= 35, 19 = 92, 4) end main : XYbaa, V, H8 : integer; u : boolean array; I : boolean; do k(336 = i and false and 15300 or false + 83) end

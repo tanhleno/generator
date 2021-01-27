@@ -1,0 +1,1 @@
+program n : K38 : takes R9, n, O : boolean; v, ZJ, BG, C5G0 : integer array returns nothing let v[1 and 3 or 500] = 42 <= 96 end a : takes Q5 : boolean returns integer array pop 9 end main : p, G1 : boolean array; c : integer array; T4 : boolean; chillax end

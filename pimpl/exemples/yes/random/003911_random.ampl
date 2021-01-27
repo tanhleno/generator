@@ -1,0 +1,1 @@
+program m : t : takes UB0, fhT, WB4aa, A4, P : integer array returns nothing output - 4 - 29; while - 541 : chillax end; while 7 : input c5S0a end end main : I4H, z6 : boolean; cV, sL0aa, r5, W, S8ua : boolean; when case true rem not 463 or K(91) and false and 2 - I and 5620 : let nD3[79 - 4] = 6; output "" end case - 4 rem false : chillax end case false : do q(75) end end

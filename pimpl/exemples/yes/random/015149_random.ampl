@@ -1,0 +1,1 @@
+program o7 : u : takes A6, O, ax : integer array returns nothing chillax end c900a : takes A, Y, J : boolean array; c : integer; W : boolean returns nothing U : integer array; chillax end main : G, L : boolean array; k : integer array; vn : boolean array; chillax end

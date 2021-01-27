@@ -1,0 +1,1 @@
+program P260a : s5 : takes aL6, j, x89a, M : integer; s : boolean array returns nothing pop - 3 - 7 /= 85; let J = 52100; when case 3 : chillax end case 9780 : chillax end otherwise : pop end end z : takes D : integer returns integer N8, I7 : boolean array; chillax end main : KDC : boolean array; IX3 : boolean; input _w[- (65 = 1)]; do l8(- LG[49] rem 6 and 96 or(1170) or 44) end

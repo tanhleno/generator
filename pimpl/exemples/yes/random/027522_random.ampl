@@ -1,0 +1,1 @@
+program E : U : takes e, Bv : integer array; DZ, _4waa, _ : integer array returns nothing J : integer; while false and 4 : chillax end; when case - 3 /= 9 : chillax end end main : do J(true = false, not y or false < 021 and 86900, - not 2 and 887 + 27200) end

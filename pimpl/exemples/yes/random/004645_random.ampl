@@ -1,0 +1,1 @@
+program l : G43a : takes d, aA2, Loj0, r2 : boolean; w410 : integer array; oAf : boolean returns nothing pop - 34 end b : takes b : boolean; l1z0a, VN : integer; l, j, q0A : integer; C, DcB, a1 : boolean array returns boolean Z : integer; do T(94); input zO end main : chillax end

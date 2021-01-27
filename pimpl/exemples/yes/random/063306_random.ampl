@@ -1,0 +1,1 @@
+program q : e : takes v : integer returns integer x, v, X, f7n, MIE0 : boolean; w, MO7a : integer; z63, TM : integer array; Q : boolean; when case - false and 2 < 70100 - 76 : chillax end end main : pop false + (2); input iKiaa end

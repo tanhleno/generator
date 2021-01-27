@@ -1,0 +1,1 @@
+program p9 : t3 : takes T8, XwU, T : integer returns nothing chillax end F : takes u2F0 : integer returns nothing chillax end C : takes I7, m1 : boolean array; V : boolean array returns integer array when case 50 = 7 : pop; pop end otherwise : pop end end main : chillax end

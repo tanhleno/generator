@@ -1,0 +1,1 @@
+program qI5 : _JH : takes tH, R15 : integer array; XZ, q : boolean array; F4g : boolean array; W, T : boolean array; km : boolean returns boolean iX, u : integer array; let i = array X4O end T5 : takes hl, mk : integer array returns integer output "(,!a"; input hV end main : w1, K : boolean; chillax end

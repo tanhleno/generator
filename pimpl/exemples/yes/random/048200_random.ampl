@@ -1,0 +1,1 @@
+program Z : D : takes O2 : boolean returns nothing Lc, bQa : integer; chillax end B : takes kU, E : integer; e : integer returns boolean WT, j : boolean; when case - 9 - 0 : chillax end case 367 : let b = 7; pop end case 82300 : pop end; do X1x(8 = 0, 5, 7) end main : hPF, R, r : boolean array; q : integer array; chillax end

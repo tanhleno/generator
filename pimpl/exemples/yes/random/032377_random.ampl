@@ -1,0 +1,1 @@
+program J2 : Fr7 : takes K, _wna : integer returns nothing chillax end main : let Y = not false or U and 7 or 1 < - false and 4 + 34; do R(- false or M and 70 - 0740, - F8); while V92 and 026 : chillax end end

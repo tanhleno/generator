@@ -1,0 +1,1 @@
+program o : a : takes PS : integer returns boolean array chillax end dg5 : takes Pb, E7l0, _ : integer array returns nothing h : boolean; nmM : boolean; S, LyIaa : boolean; output "5" . 5 . "" . ""; input c end main : when case - (544 = 63) rem false / false and 98 or not false + (72) and 4 > - 1 and not 67700 : chillax end otherwise : chillax end end

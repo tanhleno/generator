@@ -1,0 +1,1 @@
+program r : main : let g0G0a[false / 44 - false] = FqG0a[2] and 8 + c8 and 260 = true and 28; pop; let o = 5230; do z(- 17 /= 2830, 75 = 02700, 8, 6); output "" . 7 . "\t\taa"; input ot20a; do hs(45) end

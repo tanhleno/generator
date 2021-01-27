@@ -1,0 +1,1 @@
+program b : u : takes p, a5V, Qj90 : integer returns nothing n : boolean; input ll end v41 : takes yD : boolean returns boolean v, w, m : boolean array; K : integer; chillax end G : takes ozA : boolean returns nothing do C(625 = 4290, 88800); do DDq(9) end _ : takes J, rWA, t : boolean array returns nothing chillax end main : r, d : integer array; pI2, l83 : boolean; chillax end

@@ -1,0 +1,1 @@
+program b : GYP : takes Qm : integer; lF80 : integer array; N : integer; o : integer returns nothing chillax end main : let m = not true / true <= (8) and 017; when case - true or true : while 0900 = 605 : output "[}"; pop end end end

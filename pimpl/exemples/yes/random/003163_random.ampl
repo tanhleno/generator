@@ -1,0 +1,1 @@
+program t : K6 : takes P, Y, lR7, c, FTU : integer; cx, T, y : integer returns nothing when case true <= - 219 : do ci(3); input X; do O6(7) end end main : j, J, YD, bTK0 : integer array; A7, T : integer; JgJ, M35a, x73aa : integer array; input xV2aa end

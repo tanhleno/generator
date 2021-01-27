@@ -1,0 +1,1 @@
+program M11 : W : takes jc, E, Dox, dcV : boolean array returns nothing j2N : boolean array; chillax end main : pop true < - true; let n = array - (87) rem false and 27 + false and 83; when case true + 14 - 278 : chillax end case - 87 : chillax end; pop 6; while 0 : when case 3 : chillax end; pop end end

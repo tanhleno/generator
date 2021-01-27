@@ -1,0 +1,1 @@
+program aB : U : takes O9 : integer array; E, I : integer; tl : integer; V9 : boolean; Ql : integer returns nothing chillax end main : let I = array - false and true / true; let hw[(62) + 9 and 98 - 9 - 1] = - true and 500 or 764 - 71 <= - 02 - 95 end

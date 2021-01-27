@@ -1,0 +1,1 @@
+program T2t0 : main : P, y : integer; N64, u : integer array; M, f56 : integer array; H6, Z : integer; while - not 52 / (8) and not 044 : when case - 8 - 3 >= 8540 : when case 3 : chillax end; pop end; let L = 46 end; while - true + false : let dn9[3] = array 42 end end

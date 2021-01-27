@@ -1,0 +1,1 @@
+program RSG0a : W : takes jiJaa, a36, b : boolean array; fb : boolean; _, pZ20a : boolean array returns nothing x : boolean; O, Q, g, R : boolean; Vml : boolean; CW5a, x : boolean; m6 : boolean; let n = - 466 - 890 end main : output - not y - not 4 /= - 9 . 6 and 951 - 6; pop - not 19 and 19 > 9 end

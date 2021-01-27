@@ -1,0 +1,1 @@
+program kCv0a : main : p : integer; when case(4 = 9) * X / true and 4 or(7) : output 85 = 2 end case false : chillax end otherwise : pop end; when case(44500) / true and 8 : chillax end otherwise : do tH(1, 6) end; pop; while 9 - 4 > 82 : pop; pop end end

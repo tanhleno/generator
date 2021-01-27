@@ -1,0 +1,1 @@
+program t0B0 : c : takes v1R : boolean array; g1, GfSa, n : integer; s, h, A8, K, rvw : integer; Fe50a : boolean array; I0, d : boolean returns integer array d2, Y, R, x : boolean; let P[not 51 and 6 or 887] = array - false and 79; output 6 = 2 end main : chillax end

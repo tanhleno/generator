@@ -1,0 +1,1 @@
+program g2i : XX80a : takes A : integer array; N : integer array; Q1 : boolean array; hm : integer array returns nothing bJ : boolean array; input t[n - 886] end main : when case - 3 rem not true * 67000 and 5 : chillax end case false > - true and 5 : chillax end otherwise : chillax end end

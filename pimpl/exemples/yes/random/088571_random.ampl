@@ -1,0 +1,1 @@
+program e840a : main : input a[- O7a0a * true * not 16 and 55900 - 46]; output not 7 + 315 - 90600; when case - true + 7 - 4 < - 1 - 9530 : chillax end otherwise : chillax end; input x4m[797 - 02]; pop 26 end

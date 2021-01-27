@@ -1,0 +1,1 @@
+program Ie2aa : K : takes pLS : integer; g : integer array; z : integer returns integer array let o = array(04); output 520 = 375 end z : takes P, D : integer array returns nothing UQ, a : boolean array; let X[1 - 9] = 0 = 646; pop; when case 04700 : pop end end main : chillax end

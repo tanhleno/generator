@@ -1,0 +1,1 @@
+program j1 : y : takes Jtd, gz, E, QW7a : integer array; p : integer array returns nothing X4 : boolean; chillax end main : output - true + true and 0 > not 31; when case true rem true and 8 - 931 and 58400 : chillax end case - not 4 and 2 - 7 <= - 27 : chillax end; input y[(0360) or 0]; pop 147 end

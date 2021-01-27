@@ -1,0 +1,1 @@
+program k : T : takes J250 : boolean returns nothing pop end _ : takes X : integer returns integer do p9(- 6, 87300, 61, 10) end H : takes y9e : boolean returns boolean g, L, u : boolean array; chillax end main : k8 : boolean; chillax end

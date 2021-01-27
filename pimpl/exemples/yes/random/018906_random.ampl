@@ -1,0 +1,1 @@
+program J : C : takes p4, A : boolean array; tG, N, W4 : boolean array; r : boolean returns integer when case - C - 05 : chillax end otherwise : chillax end; output "@"; when case 7 : chillax end otherwise : pop end end main : chillax end

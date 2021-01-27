@@ -1,0 +1,1 @@
+program j : f03 : takes Z : boolean; W : integer array returns nothing input RC10; while - 2 : output "5" end end main : x : boolean array; h : integer array; JiOa : integer array; QQ3a, q, T, NK : integer array; i0V, c : integer array; pop - true > yY10a end

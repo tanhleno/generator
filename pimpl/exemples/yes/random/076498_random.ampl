@@ -1,0 +1,1 @@
+program vf : main : nI30, HOaaa : integer; H4 : integer array; do R(true * (2) >= - (1), - true, - false and 05200 + 2 - 158, - 4 /= 5, 1); let b66[- VWW[14] and(8)] = array C8[6] and true - (99000) end

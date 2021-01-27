@@ -1,0 +1,1 @@
+program KB4 : main : V0 : integer; let BmV0 = - Z[011] or not 240 < 6 and 6 or 55; input k1; while not 80 and 2 /= 84 - 8900 : chillax end; when case 9 - 4 < 7150 : output "}}"; input l; pop end otherwise : chillax end end

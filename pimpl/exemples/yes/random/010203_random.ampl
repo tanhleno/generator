@@ -1,0 +1,1 @@
+program MOl0 : n : takes V, LdJ, p5 : boolean array; z1 : boolean returns integer C, T : integer array; h8 : boolean; f : integer array; chillax end M7 : takes R, Os, _G8, Y9 : integer array; m1v, l, b, B : boolean returns nothing while - 1 < 055 : chillax end end main : chillax end

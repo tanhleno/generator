@@ -1,0 +1,1 @@
+program r99 : f4 : takes Zb0a : integer array returns nothing chillax end main : g, rQ2, O39 : integer array; e, J : boolean array; jn : integer; e4 : boolean array; TG : boolean; HE20 : boolean; while true or not(05) / false - w and 26 : input A_[4] end end

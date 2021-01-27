@@ -1,0 +1,1 @@
+program q : y : takes r2Xa : boolean array returns integer chillax end main : _ : boolean; let Z[(8)] = false rem false; while false * false and 5 + not 7 + 7 >= - (126) and 7 + 1 : when case 9 : chillax end end end

@@ -1,0 +1,1 @@
+program p110 : O : takes p, Bup0a : boolean array; K97aa, q23 : boolean returns nothing i, P : integer array; pop 5 >= 7; output 06300 end i : takes Y7q0 : integer array; g : boolean; y : integer returns nothing Y : boolean; let T = array - 9 - 70 end main : O8, j : integer; chillax end

@@ -1,0 +1,1 @@
+program m : SA : takes SKXaa, P : integer array returns boolean array eI, XP, I6 : boolean array; pop - 97 - 27 /= 203; while - 00 - 324 : chillax end; input S; while 95 : chillax end; input gR8aa end main : chillax end

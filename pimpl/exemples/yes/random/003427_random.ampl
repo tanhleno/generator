@@ -1,0 +1,1 @@
+program _9 : I : takes e7, L, CwK, p, wo : integer array; p, G, V : boolean array returns nothing u : boolean; L9, zB, F9, g5 : integer array; chillax end _ : takes h : integer returns integer array output 7 . "!" end main : do _(- (50) rem 1 rem false - (908) and false + true >= - not 3 / (5) and 9 - false - 1, - false and y - 019) end

@@ -1,0 +1,1 @@
+program L : main : pop; let k[not x3B + 5 and 9] = array - not(2) * 11 - true - 510; input O; when case 398 - 616 : output "\t\n"; when case 7 : chillax end; pop end case 6 : chillax end case 1 : pop end otherwise : do ux(089); pop end; input S4B0a[45] end

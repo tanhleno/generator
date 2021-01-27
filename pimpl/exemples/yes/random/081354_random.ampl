@@ -1,0 +1,1 @@
+program r : main : i : boolean array; P, T4w : integer; fng0a, _, v42 : integer array; when case true * 661 and not 000 + false and false + 9 and 5 : output 6 = 6020 end case - 8 / true and 9 > 393 and 1 or 65 : chillax end otherwise : chillax end end

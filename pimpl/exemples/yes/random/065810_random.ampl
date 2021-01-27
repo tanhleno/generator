@@ -1,0 +1,1 @@
+program YY : main : do O3i(- (35) * (184) + 407 or f and 3 > not false rem not 63, not Qg / v5 and 1 + true and 311 + 6 - 35); let C[(00900) * Tc] = 43 and 841 + 358 - 5 >= - 40 - 4; input F[- 4740 and 46]; while - 7 - 3 >= 4520 : while 83700 : chillax end; while 9 : chillax end; pop end; output "" . 5; while 4 : chillax end end

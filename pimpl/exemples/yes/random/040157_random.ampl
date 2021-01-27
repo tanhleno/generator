@@ -1,0 +1,1 @@
+program e : S : takes M : boolean array; p5j0 : boolean array returns nothing gb_0, F, k : integer; V : integer array; P : boolean array; u, a : boolean; A8 : boolean; t7 : boolean; chillax end main : c, a : integer; while 82900 or 1900 - (579) + 4 >= 83400 or(67) and 18500 - 19 : chillax end end

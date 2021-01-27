@@ -1,0 +1,1 @@
+program Q9Jaa : V : takes q, A : boolean returns nothing e : boolean array; when case - W and 43 <= - 79 : input Zp2[523] end case - 6 - 7 : chillax end otherwise : chillax end; when case 5 - 90 : chillax end; do l(3 = 5560, 31, 3); output 532 . "q"; when case 7 : chillax end end main : C1b, x : integer; chillax end

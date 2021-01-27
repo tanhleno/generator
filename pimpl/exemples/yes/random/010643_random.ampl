@@ -1,0 +1,1 @@
+program v : R : takes Q1_, A3, C : boolean array returns boolean array while A and 35 or 2 = 7 : while 7 : chillax end end; let KU3[073] = array 1 end main : u2xaa, qe : boolean array; H, D, k3 : integer array; do b(- false and false / B and 8 or not true or(0440) and 8 <= not true, - 786 rem(5) and 8, G <= 5, 4); output(220) and 29 end

@@ -1,0 +1,1 @@
+program j : main : when case not(56) : pop 10; output 688 . "" end case - true and 9 > 27 and 29 or 7 : chillax end case true and 9 < 00 - 758 : output 4890 end case - 5 >= 6 : while 639 : chillax end; when case 026 : chillax end; pop end otherwise : chillax end; output 5 /= - 47 - 017 . - 27 - 64 . "" end

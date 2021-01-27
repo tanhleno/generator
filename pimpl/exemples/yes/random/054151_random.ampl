@@ -1,0 +1,1 @@
+program h : K : takes Y : integer array; h7, s, P : integer; F0S : boolean array; s220a, ti, H : boolean returns integer let hl[(3) or 824 - 57] = - 52; while - 2 - 31 : input r7 end; when case 0 : chillax end case 71 : chillax end otherwise : chillax end; output "\\1" . "\t\"!a" end main : Q3N, X4F0a : integer; dl : integer; chillax end

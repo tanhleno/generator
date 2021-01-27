@@ -1,0 +1,1 @@
+program I0 : t : takes phh : boolean array; v2, y, SW : integer returns boolean array chillax end xSj : takes E : boolean returns boolean array chillax end main : g5 : integer array; Ga : integer array; chillax end

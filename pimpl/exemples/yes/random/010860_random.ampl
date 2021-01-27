@@ -1,0 +1,1 @@
+program N : Ml : takes a, p5, r0Eaa : boolean array returns integer array R : integer; L : boolean; q : integer array; let K2[- 91 and 198 - 83] = array(1) and 2; let u = 02 end HRr : takes D3I : integer returns boolean array X : boolean; chillax end main : fC, IUda, tg50a : integer; input i7 end

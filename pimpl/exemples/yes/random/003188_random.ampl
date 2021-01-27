@@ -1,0 +1,1 @@
+program Y : e170a : takes _Li0, p, o0, m, t13 : integer; V94, L9 : boolean array; h : integer returns boolean Oz, n : integer; AU, l, DL : boolean array; G : boolean array; input TV end DC : takes P : boolean returns boolean chillax end main : while 79 : while - 31 < 36 : while 93400 : chillax end; while 55 : chillax end end end; output "" end

@@ -1,0 +1,1 @@
+program u6 : Q : takes _, JF0aa, V, dG : boolean; WfDaa : boolean array; CZ, q080, u, O19, j, y : integer; B : integer returns nothing s, Q : integer array; chillax end Y : takes x6O0 : integer array returns boolean m8, Q, k : integer array; f, o : boolean array; chillax end main : input I4[- x[08] * true]; while - true = - not 4 and 24 : chillax end end

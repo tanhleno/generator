@@ -1,0 +1,1 @@
+program H : HLG : takes yk7a, fs : integer array; X : integer array; Bf3, Oeh, Q, q, P : integer array returns boolean chillax end main : pop - (1) + (0) and 62 - 91 - 0; pop; when case z8 < 2 - 2 : chillax end; do W(- 5240, 66700 = 7) end

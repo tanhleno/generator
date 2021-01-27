@@ -1,0 +1,1 @@
+program n : t96 : takes o : integer array; n8, U : boolean array; C8 : integer array returns boolean chillax end Z : takes lTX0, dc, p : integer array returns boolean h12 : integer array; input i52a[1] end F : takes Y1 : boolean array returns nothing input K25; output "\t{aa" . "78\""; output "\n\n" end main : i : integer array; chillax end

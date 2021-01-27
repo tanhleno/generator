@@ -1,0 +1,1 @@
+program X_b : k : takes B : boolean; E, RBo0a : integer; Rl : boolean; d : integer; Y : integer returns nothing S600a, p : boolean; when case not 70 and 84 > 44 : input ja; input EV end case 2 - 51 >= 23 : chillax end case 8 = 9 : let s0 = 49; pop end otherwise : chillax end end main : v : boolean array; y, L54aa, bJ, F3 : integer; do u(true) end

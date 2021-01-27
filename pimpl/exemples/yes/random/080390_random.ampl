@@ -1,0 +1,1 @@
+program d : main : Zrd : boolean; when case - 587 or not 3 - true and 4 = - (8) and H : while - 88100 <= 2 : chillax end end case(727) * 188 and 045 + false - 60 - 3 = - not 217 : chillax end case true <= 41 - 363 : chillax end end

@@ -1,0 +1,1 @@
+program r6 : z : takes Y : boolean array; g8d, hm : integer array; S78a, _2 : integer array returns boolean array X, _ : boolean; pop - 65 = 1; pop end q9 : takes YT : boolean; s6, tV, BCu0 : boolean array returns boolean array O80a, rW : integer; IgS : boolean; chillax end main : chillax end

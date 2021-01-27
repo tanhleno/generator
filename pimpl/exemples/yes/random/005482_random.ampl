@@ -1,0 +1,1 @@
+program mN : x43 : takes Q, f, ZzU, l : boolean array returns integer E7, R : boolean array; J, M4 : integer; output "5" . "\\{" . 3 . 20 . "4+" end main : mT : boolean array; o : boolean array; input R850[- not true - 5 or not 1 and 9160] end

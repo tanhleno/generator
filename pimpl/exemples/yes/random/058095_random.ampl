@@ -1,0 +1,1 @@
+program V : Jyc : takes N : integer array returns boolean chillax end main : do rQ(- true and 8 /= - true * 5 and 6); when case true + true >= - (4) - 2 - 19 : chillax end otherwise : chillax end; pop end

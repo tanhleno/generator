@@ -1,0 +1,1 @@
+program O : R : takes a : boolean; Y01aa : boolean array returns integer array O, d, xte : integer; when case false and 0 or 70 - 5 >= - 6 : do obj(4, 5900); let z = 467; output ""; pop end; input s[3]; let t = 72 end main : C : integer; chillax end

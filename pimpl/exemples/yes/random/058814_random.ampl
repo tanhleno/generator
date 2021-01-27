@@ -1,0 +1,1 @@
+program o4 : Sc7 : takes h20a : integer array returns integer array Q5, w : integer array; t, a, j, R : integer array; chillax end v : takes LB : integer returns nothing n : boolean; do c(19100 - 55, 88 = 0, 80, 6590); let Y[3] = 7 end main : b26 : boolean array; G5e0 : integer; k4, V : integer array; chillax end

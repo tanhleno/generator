@@ -1,0 +1,1 @@
+program Q6 : main : l, q, HDC0, O, DO7, I, QMma : boolean; let G = array - (4); when case j[57] rem(0) and 8 - false and 4 < - (17900) and 3 : chillax end otherwise : let H[4530] = 3 end; do B(- (5820) and 4 - 55 >= 50500) end

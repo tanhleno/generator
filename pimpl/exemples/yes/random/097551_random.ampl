@@ -1,0 +1,1 @@
+program N : main : when case true + false - false and 6 : output "\t0" . "\n" . ""; when case 0 : when case 1 : chillax end; pop end; when case 7 : chillax end case 1640 : chillax end end case false and 04 - ijvaa and 9 = - (90) and 10 or 39700 : when case 4700 : pop; pop end end otherwise : input Y[2]; while 0 : chillax end end; input h; input c8[true] end

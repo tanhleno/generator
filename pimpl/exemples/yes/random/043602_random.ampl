@@ -1,0 +1,1 @@
+program L : T : takes B8 : boolean array returns nothing chillax end H670a : takes L : boolean returns integer W, sh : integer; h, S : integer array; output 203 end Bh4 : takes jb50, M : boolean array returns nothing when case 24000 : chillax end case 8 : chillax end case 1 : chillax end end main : L, xU : integer; chillax end

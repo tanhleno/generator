@@ -1,0 +1,1 @@
+program x : iTg0a : takes Q, b, F : boolean array returns integer o8 : boolean array; when case not 1 and 49 : chillax end otherwise : pop; input bvnaa end end _ : takes V60 : integer; B, J, W5taa, w : boolean returns boolean input i4[- 2 - 7] end main : chillax end

@@ -1,0 +1,1 @@
+program q : yY7 : takes y, e, D : boolean; S0Ia, z : boolean array; k8 : boolean returns integer chillax end main : do P((1) and not mZc - false < - g[6] - 93 or 0 - 5, - true + not 8 - 3 - 8 = false and 59); let Zz = - true and 71 + 27 - 6 = 78700 end

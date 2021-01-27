@@ -1,0 +1,1 @@
+program UOD : o : takes T7, J6V0, _C, Y, c, jB : integer array returns nothing chillax end W : takes L : boolean; x29aa : integer; kH10 : integer array returns nothing when case - 8860 - 1800 > 9 : chillax end otherwise : while 36200 : chillax end; pop end end main : chillax end
